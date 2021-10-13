@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2021-10-13T16:18:21.875Z</updated>
+    <title>Aws::News</title>
+    <updated>2021-10-13T16:40:44.313Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【 14日（木） 東京（東京） 】 晴一時雨 - 24℃/17℃ - Yahoo!天気・災害]]></title>
+        <id>https://weather.yahoo.co.jp/weather/jp/13/4410.html?d=20211014</id>
+        <link href="https://weather.yahoo.co.jp/weather/jp/13/4410.html?d=20211014"/>
+        <updated>2021-10-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[晴一時雨 - 24℃/17℃]]></summary>
+        <author>
+            <name>Yahoo!天気・災害 - 東京都の天気</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 14日（木） 伊豆諸島北部（大島） 】 曇のち晴 - 23℃/18℃ - Yahoo!天気・災害]]></title>
+        <id>https://weather.yahoo.co.jp/weather/jp/13/4420.html?d=20211014</id>
+        <link href="https://weather.yahoo.co.jp/weather/jp/13/4420.html?d=20211014"/>
+        <updated>2021-10-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[曇のち晴 - 23℃/18℃]]></summary>
+        <author>
+            <name>Yahoo!天気・災害 - 東京都の天気</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 14日（木） 伊豆諸島南部（八丈島） 】 曇時々雨 - 25℃/21℃ - Yahoo!天気・災害]]></title>
+        <id>https://weather.yahoo.co.jp/weather/jp/13/4430.html?d=20211014</id>
+        <link href="https://weather.yahoo.co.jp/weather/jp/13/4430.html?d=20211014"/>
+        <updated>2021-10-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[曇時々雨 - 25℃/21℃]]></summary>
+        <author>
+            <name>Yahoo!天気・災害 - 東京都の天気</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 14日（木） 小笠原諸島（父島） 】 晴時々曇 - 29℃/25℃ - Yahoo!天気・災害]]></title>
+        <id>https://weather.yahoo.co.jp/weather/jp/13/4440.html?d=20211014</id>
+        <link href="https://weather.yahoo.co.jp/weather/jp/13/4440.html?d=20211014"/>
+        <updated>2021-10-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[晴時々曇 - 29℃/25℃]]></summary>
+        <author>
+            <name>Yahoo!天気・災害 - 東京都の天気</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Neptune が Read Replicas 用の Auto Scaling のサポートを開始]]></title>
         <id>23f07551f36b1af01b3ad700b9b8b451172bdb8d</id>
@@ -552,453 +592,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-license-manager-delegated-administrator-managed-entitlements/"/>
         <updated>2021-10-07T07:30:58.000Z</updated>
         <summary type="html"><![CDATA[AWS License Manager は、マネージド使用権限のための Delegated Administrator のサポートを開始しました。この機能を使用することで、ライセンス管理者は、管理アカウントの外部の委任されたアカウントから AWS アカウント全体でライセンスを管理および配布できます。委任された管理者を使用すると、組織全体で AWS Marketplace および独立系ソフトウェアベンダーからライセンスを付与し、以前は管理アカウントにのみ提供されていた管理機能の恩恵を受けることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が AWS クラウドコントロール API の一般提供を発表]]></title>
-        <id>777e3ca8525575d538b921bc1e769d392c834943</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-announces-cloud-control-api/"/>
-        <updated>2021-10-06T17:17:52.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、AWS クラウドコントロール API の一般提供を発表しました。これは、デベロッパーがクラウドインフラストラクチャを一貫した方法で管理し、最新の AWS 機能をより迅速に活用できるようにするために設計された一連の一般的なアプリケーションプログラムインターフェイス (API) です。クラウドコントロール API を使用すると、デベロッパーは、個別のサービス固有の API を使用する代わりに、5 つの一貫した API を使用して数百の AWS リソースと十数個のサードパーティーのリソースのライフサイクルを管理できます。今回のリリースにより、AWS パートナーネットワーク (APN) パートナーは、新しいリソースが利用可能になったときにカスタム開発作業に数週間を費やす代わりに、ソリューションを既存および将来の AWS 機能およびサービスとどのように統合するかを 1 回の統合で自動化できるようになりました。HashiCorp による Terraform と Pulumi は、今回のリリースの一環としてソリューションを統合しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2、全リージョンのリソースをすべて閲覧できるコンソールで Global View を提供開始]]></title>
-        <id>499499c1b384a96898cdf2204cf72e8f9652a8a7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-global-view-console-regions/"/>
-        <updated>2021-10-06T14:05:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS リージョン全域で、インスタンス、VPC、サブネット、セキュリティグループ、ボリュームなどの AWS リソースを閲覧できるようになりました。これまでは、特定のリソースの検索やステータスのモニタリング、コンソールでのインベントリ取得はマニュアルで実施しなければならず、時間がかかっていました。また、特定のインスタンスがどこのリージョンにあるかを把握する必要があり、あるいはそれを検索するために異なるリージョン間をマニュアルで切り替える必要もありました。Global View では、AWS リージョン全域のすべてのリソースを同じスクリーン上で見ることができるため、リソースカウントのモニタリングや異常が発生した場合の迅速な通知、分散したリソースの検索などに便利です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Device Farm、Microsoft Edge ブラウザでのウェブアプリテストのサポートを発表]]></title>
-        <id>29381b088de34a29c1a83dfe1d10472235e62b70</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-device-farm-testing-web-apps-microsoft-edge-browser/"/>
-        <updated>2021-10-06T14:02:43.000Z</updated>
-        <summary type="html"><![CDATA[AWS Device Farm の Desktop Browser Testing 機能があれば、Chrome、Firefox、Internet Explorer ブラウザの異なるバージョンでウェブアプリケーションをテストできます。Microsoft Edge ブラウザのサポートは本日よりご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CodeGuru が Python アプリケーションのセキュリティ検出器と Bandit によるセキュリティ分析を発表]]></title>
-        <id>8ee9e136cd380696af5c0bc4d5e09acd559fd386</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-codeguru-security-detectors-python-bandit/"/>
-        <updated>2021-10-06T14:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CodeGuru は機械学習を利用したデベロッパーツールで、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CodeGuru に Infer 社のレコメンデーション機能を搭載しました]]></title>
-        <id>c44a1feec1bb4238acd335a655cea6c314287ed0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-codeguru-recommendations-infer/"/>
-        <updated>2021-10-06T14:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CodeGuru は機械学習を利用したデベロッパーツールで、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Events がアジアパシフィック (ムンバイ) リージョンで利用可能に]]></title>
-        <id>994a5437e785aad596f67d4359f57f163972b96e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/"/>
-        <updated>2021-10-06T13:01:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Events がアジアパシフィック (ムンバイ) リージョンで利用可能となり、そのフットプリントを 13 の AWS リージョンに拡大しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が AWS Snowcone SSD を発表]]></title>
-        <id>2fcba867c4fda325916ef2a2dee14f5217d6dee2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/"/>
-        <updated>2021-10-06T02:51:42.000Z</updated>
-        <summary type="html"><![CDATA[AWS Snowcone は、14TB のストレージ容量を備えたソリッドステートドライブ (SSD) でご利用可能になりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送を処理する最小の AWS Snow ファミリーデバイスです。今回の提供開始により、AWS Snowcone はハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用可能になりました。Snowcone SSD は、Snowcone と同じマザーボードと工業デザインですが、Snowcone SSD は、次を必要とする新しいデータ転送とエッジコンピューティングのユースケースを可能にします。1) より高いスループットパフォーマンス、2) より強力な耐振動性を備えたオペレーション、3) 拡張された耐久性、および 4) 増加したストレージ容量 (14TB の Snowcone SSD に対し、8TB の Snowcone)。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker JumpStart で新しいマルチモーダル (長い形式のテキスト、表形式) の財務分析ツールが利用可能に]]></title>
-        <id>f753aeb97ef2d273119deb3ad3a67d99adba7527</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/"/>
-        <updated>2021-10-06T02:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、機械学習をすばやく簡単に開始するのに役立ちます。SageMaker JumpStart は、数回クリックするだけで簡単にデプロイできる、最も一般的なユースケース向けの一連のソリューションを提供しており、人気のあるオープンソースモデルをワンクリックでデプロイおよびきめ細かく調整できます。本日より、サンプルのノートブック、テキストモデル、ソリューションなど、マルチモーダル財務テキスト分析ツールのコレクションにアクセスできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Step Functions が AWS SDK 統合で 200 を超える AWS のサービスのサポートを追加]]></title>
-        <id>5e0eaa9eca75397eabb7afa9994dc9ef5b5343f1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-step-functions-200-aws-sdk-integration/"/>
-        <updated>2021-10-06T02:49:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Step Functions が AWS SDK と統合され、サポートされる AWS のサービスの数が 17 から 200 超に、AWS API アクションが 46 から 9,000 超に拡張されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core で Just-in-Time Provisioning および Just-in-Time Registration を使用してデバイスをプロビジョニングする際に、オプションで信頼チェーン全体の送信が可能に]]></title>
-        <id>aa286b359e1eebb20b6689b57e6eba54881ae20c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-core-just-in-time-provisioning-registration/"/>
-        <updated>2021-10-06T02:48:23.000Z</updated>
-        <summary type="html"><![CDATA[デバイスの IoT Core への最初の接続で信頼チェーン全体を送信しなくても、AWS IoT Core の Just-in-Time Provisioning および Just-in-Time Registration の機能を使用してデバイスをプロビジョンできるようになりました。これまで、お客様は、IoT Core へのデバイスの最初の接続で TLS ハンドシェイクの一部として、登録済み CA 証明書と登録済み CA 証明書によって署名されたクライアント証明書の両方を提示するようにデバイスを設定する必要がありました。本日より、AWS IoT Core では、Just-in-Time Provisioning および Just-in-Time Registration を使用する際に、IoT Core へのデバイスの最初の接続で CA 証明書を提示することをオプションで選択できるようになりました。この拡張により、お客様は、自らのセルフマネージドクラウドソリューションからなど、ブラウンフィールドデバイスを AWS IoT Core に簡単に移行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift 向けの AQUA が 3 つの追加の AWS リージョンで提供開始]]></title>
-        <id>6cd7380c69812c557990ef6c810d05ab5e92ff6b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/"/>
-        <updated>2021-10-06T02:47:35.000Z</updated>
-        <summary type="html"><![CDATA[AQUA (Advanced Query Accelerator) for Amazon Redshift は、欧州 (ストックホルム)、アジアパシフィック (ソウル)、および米国西部 (北カリフォルニア) の 3 つの追加の AWS リージョンで一般的に利用可能となりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Data Exchange がサードパーティーのデータ更新の自動エクスポートのサポートを開始]]></title>
-        <id>afeb850a7cc73db33a1e4e79a948873651df3de4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-data-exchange-export-third-party-data-updates/"/>
-        <updated>2021-10-06T02:46:46.000Z</updated>
-        <summary type="html"><![CDATA[AWS Data Exchange のサブスクライバーは、自動エクスポートを使用して、数回クリックするだけで、サードパーティーのデータサブスクリプションから任意の Amazon S3 バケットに新しく公開されたリビジョンを自動的にコピーできるようになりました。自動エクスポートを使用すると、サブスクライバーは、新しいリビジョンを手動でエクスポートしたり、新しいリビジョンが公開され次第エクスポートする取り込みパイプラインを構築するためにエンジニアリングのリソースを割り当てたりする必要がなくなります。ファイルベースのサードパーティーデータの頻繁な更新を管理するデータサブスクライバーの場合、自動エクスポートにより時間と労力を大幅に節約できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift が AWS GovCloud (米国) リージョンで RA3.xlplus をリリース]]></title>
-        <id>d0da2263357152efb916b75cbb2450591d5dc582</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-ra3-xlplus-aws-govcloud-us-regions/"/>
-        <updated>2021-10-06T02:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift の RA3.xlplus ノードが AWS GovCloud (米国) リージョンでご利用いただけるようになりました。マネージドストレージを備えた Amazon Redshift RA3 インスタンスを使用することで、コンピューティングとストレージを個別にスケールして、クエリのパフォーマンスを高速化し、コストを削減できます。RA3 は 3 つの異なるノードタイプで利用可能となっており、ワークロードの要件に応じて料金とパフォーマンスのバランスをとることができます。RA3.xlplus ノードは、RA3.4xlarge と比較して 3 分の 1 の料金で 3 分の 1 のコンピューティング (4 vCPU) とメモリ (32 GiB) を提供します。RA3 ノードは、AWS Nitro System 上に構築され、ローカルキャッシュに匹敵する高帯域幅ネットワークと大容量ハイパフォーマンス SSD を備えています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend が、2 つの Trusted Advisor チェックを追加]]></title>
-        <id>64acdea32910ed2d6222536202a51249b9bec57a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/"/>
-        <updated>2021-10-05T02:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend が、Amazon Comprehend エンドポイントのコストとセキュリティを最適化するのに役立つ、2 つの新しい AWS Trusted Advisor チェックをサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Macie がマネージドデータ識別子の選択のためのサポートを追加]]></title>
-        <id>096ed599fbef1d8d6a6cb79cd4bfe4d0c6500249</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-macie-managed-data-identifiers/"/>
-        <updated>2021-09-30T22:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Macie により、いつ機密データ検出ジョブを作成して、どのマネージドデータ識別子を使用するかを選択できるようになりました。これにより、どのデータタイプを機密と見なし、特定のデータガバナンスと組織のプライバシーニーズごとにMacie にアラートを発信してもらいたいかをカスタマイズすることができます。ジョブを作成したならば、Macie で設定して実行する各機密データ検出ジョブで目標としたい個人を特定できる情報 (PII)、財務データ、認証資料などの増え続けるマネージドデータ識別子のリストから選択します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache が追加のリージョンでの M6g および R6g Graviton2 ベースのインスタンスのサポートを開始]]></title>
-        <id>8139e6236e48a999a0f8a44e981ebfdd8c1faf53</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elasticache-m6g-r6g-graviton2-regions/"/>
-        <updated>2021-09-30T22:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ElastiCache for Redis と Amazon ElastiCache for Memcached は、次の追加リージョンで Graviton2 M6g および R6g のインスタンスファミリーをサポートするようになりました: 南米 (サンパウロ)、アジアパシフィック (香港、ソウル)、欧州 (ロンドン、ストックホルム)、北米 (モントリオール)、米国東部 (GovCloud 米国東部)、米国西部 (GovCloud 米国西部)、および中国本土 (寧夏、北京)。お客様は、サブミリ秒のレイテンシーと高いスループットの超高速パフォーマンスを必要とするワークロード用に Amazon ElastiCache を選択しています。Graviton2 M6g および R6g インスタンスを用いると、お客様は旧世代のインスタンスよりも最大 45% 価格/パフォーマンスの改善が得られるようになりました。Graviton2 インスタンスは、Amazon ElastiCache のお客様のデフォルトの選択肢になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Customer Profiles がお客様とのやり取りをパーソナライズするように製品購入履歴を追加]]></title>
-        <id>4c1ec68b24735ad2634221f91578f35f547b15fc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-customer-profiles-product-purchase-history/"/>
-        <updated>2021-09-30T22:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Customer Profiles は、すぐに使用できる Salesforce からの製品購入履歴との統合をサポートするようになりました。お客様がコンタクトセンターに電話をかけたり、メッセージを送信したりすると、Amazon Connect Customer Profiles は、パーソナライズされたカスタマーサービスを提供して問題をすばやく解決するために必要な情報をコンタクトセンターエージェントに提供します。Customer Profiles は、顧客情報 (名前、住所、電話番号、お問い合わせ履歴、購入履歴、未解決の問題など) を複数のアプリケーションから統一された顧客プロファイルにまとめるのを容易にし、エージェントがお客様とのやり取りを始めるとすぐに彼らにそのプロファイルを直接提供するのに役立ちます。エージェントがお客様にサービスを提供するための以前のやり取りを理解したいと思った場合、彼らは通話の分類、通話のセンチメント、トランスクリプトなどの情報をレビューするために、[CTR 詳細] をクリックして Contact Trace Record (連絡先トレースレコード: CTR) 詳細ページにアクセスすることができます。Customer Profiles は、エージェントによってすぐに使用できるか、既存のエージェントアプリケーションに埋め込むことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が、通話、テキスト、E メール用の大量のアウトバウンド通信のプレビューでの提供を開始]]></title>
-        <id>61e931256ee32c6264e9e75597f2bfd59ad72364</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-communications/"/>
-        <updated>2021-09-30T08:33:35.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Wisdom の一般提供を開始]]></title>
-        <id>85efd8aa70acc5c28c7555f45bdcb9e709c1f068</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/"/>
-        <updated>2021-09-30T08:32:46.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard が Red Hat Enterprise Linux での Microsoft SQL Server Always On デプロイのサポートを開始]]></title>
-        <id>07ab871cfa72323d5b753a330c99e7bf2f7991e0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/"/>
-        <updated>2021-09-30T08:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 用の Red Hat Enterprise Linux with Microsoft SQL Server のリリースに続いて、AWS Launch Wizard を使用して RHEL SQL Server Always On 可用性グループを簡単にデプロイできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application Load Balancer が、ネットワークロードバランサーとの直接統合で、AWS PrivateLink および静的 IP アドレスを有効に]]></title>
-        <id>17073a0fd2047ab313739d32995fa42991cd45b4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/"/>
-        <updated>2021-09-30T08:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Elastic Load Balancing が、ネットワークロードバランサー (NLB) から Application Load Balancer (ALB) へのトラフィックの直接転送をサポートするようになりました。この機能により、AWS PrivateLink を使用して、ALB 上に構築されたアプリケーションの静的 IP アドレスを公開できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Voice ID の一般提供を開始]]></title>
-        <id>123bd165f4a954decac4ae808a4091623d760ae0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/"/>
-        <updated>2021-09-29T20:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Voice ID は、Amazon Connect のための Machine Learning (機械学習) を利用した音声認証機能であり、コンタクトセンターにおける音声でのやり取りをより安全かつ効率的なものとします。これまで、コンタクトセンターでは、時間のかかる知識ベースの認証プロセスを使用しており、発信者は社会保障番号や生年月日などの個人情報に基づいて複数の質問に回答する必要がありました。Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、会話の自然な流れを変化させることなく、リアルタイムで本人確認を実施します。これにより、エージェントの生産性が向上し、コンタクトセンターの運用コストが削減されます。Amazon Connect Voice ID は、コンタクトセンターインスタンスのためのカスタムウォッチリストからリアルタイムで不正行為者を検出し、コンタクトセンターのオペレーションのセキュリティを向上させます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コストを削減するためにアイドル状態の EMR クラスターの自動終了が可能に]]></title>
-        <id>342645fa27e36a5a0e252aa8afef875fd312fa76</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/"/>
-        <updated>2021-09-29T20:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日、Amazon EMR がアイドル状態の EMR クラスターの自動終了をサポートするようになったことを発表します。これは、コストを削減するために、EMR クラスターがアイドル状態の場合に自動的に終了する新機能です。担当者がクラスターのアクティビティをモニタリングする必要はありません。既存のクラスターと新しいクラスターの両方のために自動終了を有効にするときにアイドルタイムアウト値を指定できます。EMR は、指定された時間にわたってアイドル状態が継続するとクラスターを自動的に終了します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Genomics CLI の一般提供を開始]]></title>
-        <id>44030c81365cd9ade39960f3333c79984d327dc0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-genomics-cli-available/"/>
-        <updated>2021-09-29T20:01:47.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS でゲノミクスデータをペタバイト規模で処理するためのゲノミクスおよびライフサイエンス分野のお客様向けのオープンソースツールである Amazon Genomics CLI の一般提供を発表しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAF Security Automations v3.2 のご紹介]]></title>
-        <id>be65e29dfa67e58d53a8f7b0b9eb9670aafb8a54</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-security-automations-v3-2/"/>
-        <updated>2021-09-29T20:00:58.000Z</updated>
-        <summary type="html"><![CDATA[AWS ソリューションチームは最近、AWS WAF Security Automations を更新しました。これは、一般的なウェブベースの攻撃をフィルタリングする一連の AWS WAF (ウェブアプリケーションファイアウォール) ルールを自動的にデプロイするソリューションです。ユーザーは、事前設定済みの保護機能を選択することで、AWS WAF ウェブアクセスコントロールリスト (ウェブ ACL) に含まれるルールを定義できます。デプロイされると、AWS WAF は、ウェブリクエストの検査を通じて、Amazon CloudFront ディストリビューションや Application Load Balancer を保護します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Application Express (APEX) バージョン 21.1 のサポートを開始]]></title>
-        <id>c1e0eaa7322f4a82f7ce5b61630cf58ed4700133</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/"/>
-        <updated>2021-09-29T00:32:34.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) for Oracle は、Oracle Database の 12.1、12.2、および 19c バージョンのために、バージョン 21.1 の Oracle Application Express (APEX) をサポートするようになりました。APEX を使用することで、デベロッパーはウェブブラウザ内でアプリケーション全体を構築できるようになります。APEX 21.1 の最新機能の詳細については、Oracle のブログ投稿を参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup がリカバリポイントの削除を簡素化]]></title>
-        <id>dc3c292554e15500e78665ccc1ce3b51711f0df9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/"/>
-        <updated>2021-09-29T00:31:45.000Z</updated>
-        <summary type="html"><![CDATA[お客様は、AWS Backup を利用して、不要になったリカバリポイントをより簡単に削除できるようになりました。お客様は、コンソール、CLI、または API からの新しい非同期削除オペレーションを使用して、既存のリカバリポイントを一括でクリーンアップし、バックアップをよりコスト効率よく管理できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの sqlnet.ora クライアントパラメータのサポートを開始]]></title>
-        <id>b79655ab9592ef14cd30e500294518c6c6da18c9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/"/>
-        <updated>2021-09-29T00:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 4 つの新しい sqlnet.ora クライアントパラメータをサポートするようになりました。お客様はこれを変更することができます。Amazon RDS for Oracle は、受信セッションの暗号化プロパティを定義するサーバーパラメータを既にサポートしています。これらのクライアントパラメータは、データベースリンクで使用される接続などの発信接続に適用されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Storage Gateway が Tape Gateway のテープ管理を簡素化]]></title>
-        <id>84ea020ee362f447e1f4147468326fcb8769f302</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/"/>
-        <updated>2021-09-29T00:01:58.000Z</updated>
-        <summary type="html"><![CDATA[AWS Storage Gateway では、Tape Gateway を使用して AWS に保存されている仮想テープをより簡単かつ迅速に検索、表示、および管理できるようになりました。Storage Gateway マネジメントコンソールの [Tapes] (テープ) ページから、テープバーコードやステータスなどの一般的なフィルターを使用してテープを迅速に検索できるようになりました。ドロップダウンメニューから目的のフィルターを選択し、検索を関連するテープのセットにすばやく絞り込むだけで、時間と管理のオーバーヘッドを節約できます。例えば、定義した保持期間を超えてアーカイブされたテープを削除するには、[Archived] (アーカイブ) フィルターを使用して目的の日付範囲を選択し、数回クリックするだけで、指定したフィルターに一致するすべてのテープを削除できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Defender がアラーム検証状態の検出のサポートを開始]]></title>
-        <id>d87c8cdc6d07c578739115e431fde03c8aa31fad</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/"/>
-        <updated>2021-09-29T00:01:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Defender を使用することにより、お客様は、検出された動作異常の調査に基づいてアラームを検証できるようになりました。アラームを [True positive] (真陽性)、[Benign positive] (良性の陽性)、[False positive] (誤検知)、または [Unknown] (不明) として検証し、検証の説明を提供できます。セキュリティチームやオペレーションチームなどのユーザーは、これを使用してアラームを管理し、応答時間を改善できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Amazon EC2 での Microsoft Windows Server 2022 イメージのサポートを発表]]></title>
-        <id>4f8c7461849b938fd5bcbf06321087743aca7142</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/"/>
-        <updated>2021-09-28T23:32:35.000Z</updated>
-        <summary type="html"><![CDATA[AWS のお客様は、Microsoft Windows Server 2022 でマネージド Amazon Machine Image (AMI) を使用できるようになりました。これらの AMI を使用すると、Windows Server 2022 を起動して、最新の Windows 機能を AWS で利用できるようになります。Amazon EC2 では、テストの目的でソフトウェアの新機能を有効にする場合でも、コンピューティングインスタンス全体で最新の機能をスケーラブルに導入する場合でも、Windows Server 2022 の起動と実行を簡単に行うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache for Redis が 17 の追加リージョンでオートスケーリングのサポートを開始]]></title>
-        <id>33fe53304978335b79012e780c5e87c059aadfc9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/"/>
-        <updated>2021-09-28T23:31:46.000Z</updated>
-        <summary type="html"><![CDATA[AWS GovCloud (米国) と AWS 中国 (北京と寧夏) リージョンを除くすべてのパブリック AWS リージョンで Amazon ElastiCache for Redis のオートスケーリング機能の一般提供が開始されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライフサイクル設定による Amazon SageMaker Studio をカスタマイズが可能に]]></title>
-        <id>b87f51b6e9a99033b8d4e312ca8c3f6027056959</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/"/>
-        <updated>2021-09-28T23:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Studio は、機械学習 (ML) 用の初の完全統合開発環境 (IDE) です。SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。データサイエンティストや ML デベロッパーは、1 回のクリックですばやく SageMaker Studio ノートブックにサインインしてデータセットの検証やモデルの構築を始めることができます。ライフサイクル設定を使用して Studio 開発環境のカスタマイズを自動化できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight Q が一般公開されました]]></title>
-        <id>86763613387c08e47441689bce4fd4840fc37f3b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/"/>
-        <updated>2021-09-28T23:00:58.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB では、AWS CloudTrail でストリーミングのデータプレーン API アクティビティをフィルタリングできるようにすることで、監査ログ記録のよりきめ細かい制御が可能に]]></title>
-        <id>d62ad26d183e848ae182db570b507b9829b76b78</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-dynamodb-granular-control-audit-logging-streams-data-plane-api-activity-aws-cloudtrail/"/>
-        <updated>2021-09-28T18:05:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS CloudTrail を使用して、Amazon DynamoDB Streams のデータプレーン API アクティビティをフィルタリングして取得できるようになりました。これにより、どの DynamoDB API コールを CloudTrail にログ記録し支払いをするかをよりきめ細かく制御できるようになり、コンプライアンスや監査の要件に対応できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex が、アジアパシフィック (ソウル) およびアフリカ (ケープタウン) のリージョンで利用可能に]]></title>
-        <id>1fa386c89abed7257e7c3fcd09de934b3bd4333a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/"/>
-        <updated>2021-09-28T18:04:19.000Z</updated>
-        <summary type="html"><![CDATA[本日から、Amazon Lex がアジアパシフィック (ソウル) およびアフリカ (ケープタウン) のリージョンで利用可能になりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声をテキストに変換する自動音声認識 (ASR) と、テキストの意図を認識する自然言語理解 (NLU) の高度な深層学習機能を組み合わせます。これにより、より良いユーザーエクスペリエンスと自然な操作感のアプリケーションを構築できるようになります。Amazon Lex を使用すれば、洗練された自然言語による対話型ボット (「Chatbot」)、仮想エージェント、IVR システムを簡単に作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 フリートのインスタントモードが、対象となる Amazon EC2 オンデマンドキャパシティー予約をサポート]]></title>
-        <id>57b5b37b860c6d98fbb799faee7fb8bfbdc27e4f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/"/>
-        <updated>2021-09-28T18:02:40.000Z</updated>
-        <summary type="html"><![CDATA[本日より、対象となるオンデマンドキャパシティー予約で EC2 フリートの使用が可能になりました。オンデマンドキャパシティー予約では、特定のアベイラビリティーゾーンにある Amazon EC2 インスタンスのコンピューティング性能を任意の期間で予約することができます。対象となるキャパシティー予約については、インスタンスはリザーブドキャパシティーで実行されるよう、キャパシティー予約を具体的に対象とする必要があります。これまでは、EC2 フリートの起動時に対象となるキャパシティー予約を使用するオプションはありませんでした。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国西部) リージョンで利用可能に]]></title>
-        <id>53325467c4418ec35459a933a47606d76d4c3e16</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/"/>
-        <updated>2021-09-28T18:01:50.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国西部) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Simple Email Service がアジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>911fba3374ad8b05d5fe4abe74be6c607c352a40</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/"/>
-        <updated>2021-09-27T13:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Email Service (Amazon SES) がアジアパシフィック (大阪) AWS リージョンで利用可能になりました。Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAF がインライン正規表現の提供を開始]]></title>
-        <id>bff8588e898d23fb19229610066678f663cb6b89</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/"/>
-        <updated>2021-09-27T13:31:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS WAF は、正規表現 (regex) のサポートを拡張し、正規表現パターンをルールステートメント内でインラインで表現できるようにします。これまでは、WAF ルールロジックで単一の正規表現パターンのみを使用する場合でも、ルールステートメントで正規表現パターンのコレクションを提供する正規表現パターンセットを作成する必要がありました。インライン正規表現を使用すると、単一の正規表現パターンを WAF ルールステートメント内に直接含めることができるようになり、ウェブ ACL 内での WAF ルールの表現方法が簡素化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AQUA が Amazon Redshift RA3.xlplus ノードで利用可能に]]></title>
-        <id>ea58ff9c783109abbda277ee2a8909c686f7d892</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/"/>
-        <updated>2021-09-27T10:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift RA3.xlplus ノードで、AQUA (Advanced Query Accelerator) for Amazon Redshift が一般利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager で AWS Service Catalog AppRegistry アプリケーションを管理できるようになりました]]></title>
-        <id>33e129ee7b8bbacd65e800f0a449cf0a5f227a63</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/"/>
-        <updated>2021-09-27T10:31:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS Service Catalog AppRegistry および AWS Systems Manager Application Manager が、エンドツーエンドの AWS アプリケーション管理エクスペリエンスを提供するようになりました。今回のリリースで、AppRegistry を使用して、インフラストラクチャ内にコード、CI/CD パイプライン、およびプロビジョニング後のプロセスとしてアプリケーションを作成し、Application Manager を使用してアプリケーションの運用データを表示し、運用アクションを実行することができるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Distro for OpenTelemetry でのトレースサポートの一般提供開始を発表]]></title>
-        <id>ec9848031e1f886093388d53f0cc33f7455afafc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/"/>
-        <updated>2021-09-27T10:31:06.000Z</updated>
-        <summary type="html"><![CDATA[本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである AWS Distro for OpenTelemetry の一般利用を開始いたします。今回のリリースにより、Java、.Net、Python、Go、JavaScript で OpenTelemetry API と SDK を使用し、トレースを収集、OpenTelemetry Protocol (OTLP) によってサポートされている AWS X-Ray とモニタリングの送信先に送ることができるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR Studio が Spark ワークロード用の多言語の Jupyter ベースノートブックのサポートを開始]]></title>
-        <id>391b03e309fe5835d9966dff242344a1d429e9d1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/"/>
-        <updated>2021-09-25T12:31:46.000Z</updated>
-        <summary type="html"><![CDATA[EMR Studio は、R、Python、Scala、PySparkで記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR 6.4.0 以降では、EMR Studio において同じ Jupyter ノートブック内で Python、Scala、SparkSQL、および R を使用できるようになったことをお知らせします。これにより、Spark ワークロードのためにさまざまなプログラミング言語を柔軟に使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Ground Station が Licensing Accelerator を発表]]></title>
-        <id>79b5cf6ed6a5d1f8c0fd95cc6f9c245b2f365aaf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/"/>
-        <updated>2021-09-25T12:30:56.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、商用ビジネス、宇宙産業分野のスタートアップ企業、および大学がリソースにアクセスすることを可能にする新しい AWS Ground Station の機能である Licensing Accelerator を発表します。これは、オペレーションとミッションに必要な帯域免許をより効率的に保護するのに役立ちます。Licensing Accelerator は、AWS Ground Station のお客様には無料でご利用いただけます。AWS Ground Station は、人工衛星通信の制御や人工衛星データの処理、さらに人工衛星の運用のスケールを可能にするフルマネージドサービスです。Licensing Accelerator を使用すると、AWS Ground Station のお客様は、宇宙ステーションライセンス、リモートセンシングライセンス、国際電気通信連合 (ITU) の調整など、人工衛星ライセンス規制に関する、集約された最新情報を活用して、宇宙機の運用をより迅速に開始およびスケールできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
