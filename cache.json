@@ -1,651 +1,909 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "最近の発表",
+      "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
+      "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "author": null,
-          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 354,
-          "title": "v1.11.2"
+          "id": "23f07551f36b1af01b3ad700b9b8b451172bdb8d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Neptune Auto Scaling を使用して、指定したパフォーマンスメトリクスの変更に応じて、Read Replicas を自動的に追加または削除できるようになりました。Neptune Read Replicas は、プライマリインスタンスと同じ基になるボリュームを共有し、読み取りスケーリングに適しています。Neptune Auto Scaling を使用すると、平均 CPU 使用率など、Replicas の CloudWatch (CW) メトリクスに必要な値を指定できます。Neptune Auto Scaling では、CW メトリクスが、ユーザーが指定した値に最も近くなるように、Read Replicas の数を調整します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/",
+          "publishedOn": "2021-10-13T00:05:09.000Z",
+          "wordCount": 275,
+          "title": "Amazon Neptune が Read Replicas 用の Auto Scaling のサポートを開始"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "author": null,
-          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "publishedOn": "2021-09-16T06:39:32.000Z",
-          "wordCount": 344,
-          "title": "v1.11.1"
-        }
-      ]
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=352459",
-          "author": "Chris Coyier",
-          "description": "As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …\nThe post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
-          "publishedOn": "2021-10-13T15:36:43.000Z",
-          "wordCount": 1415,
-          "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What"
+          "id": "d3d174bc0744f670f28d5e88e03c8dc5d2562398",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Services (ECS) では、お客様は、Amazon ECS Anywhere を使用して、オンプレミスインフラストラクチャを実行するコンテナ化された GPU ベースのワークロードを管理できるようになりました。Amazon ECS Anywhere GPU のサポートにより、お客様は、規制、ネットワークレイテンシー、データ所在地、またはその他の要件のためにオンプレミスで維持する必要がある GPU ベースのアプリケーションをデプロイできます。さらに、エンタープライズは、GPU コンピューティング性能に対する既存の投資を利用して、データをクラウドに転送することなく、機械学習、3D 可視化、画像処理、およびビッグデータのワークロードを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ecs-anywhere-gpu/",
+          "publishedOn": "2021-10-13T00:03:31.000Z",
+          "wordCount": 253,
+          "title": "Amazon ECS Anywhere が GPU ベースのワークロードのサポートを開始"
         },
         {
-          "id": "https://css-tricks.com/?p=353700",
-          "author": "Chris Coyier",
-          "description": "Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …\nThe post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
-          "publishedOn": "2021-10-13T14:42:26.000Z",
-          "wordCount": 2122,
-          "title": "Less Absolute Positioning With Modern CSS"
+          "id": "be2cf59bfabe3103eccd2692abb78aef92fc4333",
+          "author": "aws@amazon.com",
+          "description": "AWS QnABot が公式の AWS ソリューション実装としてリリースされたことをお知らせします。AWS QnABot は、Amazon Lex をベースに構築され、お客様の質問に対応して回答し、フィードバックを提供する、オープンソース、マルチチャネル、マルチ言語の対話型チャットボットです。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-aws-qnabot-chatbot-built-amazon-lex/",
+          "publishedOn": "2021-10-13T00:01:51.000Z",
+          "wordCount": 246,
+          "title": "新しい AWS ソリューションのご紹介: Amazon Lex 上に構築されたセルフサービスの対話型チャットボットである AWS QnABot"
         },
         {
-          "id": "https://css-tricks.com/?p=353415",
-          "author": "Laurie Voss",
-          "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/",
-          "publishedOn": "2021-10-12T14:30:47.000Z",
-          "wordCount": 1049,
-          "title": "Jamstack Developers’ Favorite Frameworks of 2021"
+          "id": "31253bbae9e96075d5de91b46c9c63089afcb689",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning の提供の開始を発表します。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/",
+          "publishedOn": "2021-10-12T22:01:56.000Z",
+          "wordCount": 238,
+          "title": "新しい AWS ソリューション: Maintaining Personalized Experiences using Machine Learning"
         },
         {
-          "id": "https://css-tricks.com/?p=353317",
-          "author": "Chris Coyier",
-          "description": "Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …\nThe post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/woocommerce-google-analytics/",
-          "publishedOn": "2021-10-12T14:28:26.000Z",
-          "wordCount": 958,
-          "title": "WooCommerce + Google Analytics"
+          "id": "4132ce6b095a67215f07defadf8556e5e6e4f75d",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Backup は、AWS Backup Vault Lock の提供開始を発表しました。この新機能は、不注意または悪意のあるアクションから、お客様がより強力にバックアップを保護できるようにします。これは、お客様が Write-Once-Read-Many (WORM) モデル*を使用してバックアップを確実に保存するための保護手段を実装するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/",
+          "publishedOn": "2021-10-12T22:01:07.000Z",
+          "wordCount": 260,
+          "title": "AWS Backup で AWS Backup Vault Lock が利用可能になり、バックアップ保護のためのレイヤーがさらに追加"
         },
         {
-          "id": "https://css-tricks.com/?p=352907",
-          "author": "Chris Coyier",
-          "description": "Why would a company promote a native app over their perfectly usable website?\nWe’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native \n…\nThe post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/those-get-the-app-banners/",
-          "publishedOn": "2021-10-11T22:12:35.000Z",
-          "wordCount": 1111,
-          "title": "Those “Get The App” Banners"
+          "id": "9411e6efa93e4250b574067e57c086e83d94b77b",
+          "author": "aws@amazon.com",
+          "description": "AWS Transfer Family は、Amazon S3 の機能である Amazon S3 アクセスポイントをサポートするようになりました。これにより、共有データセットのアクセスを簡単に、きめ細かく管理することができます。S3 アクセスポイントのエイリアスは現在、何百もの SFTP、FTP、FTPS のユーザーやグループによって活用されている共有データセットに使われている S3 バケット名であればどこでも使用することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/",
+          "publishedOn": "2021-10-12T20:35:41.000Z",
+          "wordCount": 260,
+          "title": "AWS Transfer Family の顧客は、Amazon S3 Access Point のエイリアスをきめ細やかで、シンプルなデータアクセスコントロールに活用できるようになりました"
         },
         {
-          "id": "https://css-tricks.com/?p=353431",
-          "author": "Chris Coyier",
-          "description": "The README for Cash is straightforward:\nCash is an absurdly small jQuery alternative for modern browsers (IE11+) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chainable methods \n…\nThe post Cash (Tiny jQuery Alternative) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/cash-tiny-jquery-alternative/",
-          "publishedOn": "2021-10-11T20:28:24.000Z",
-          "wordCount": 710,
-          "title": "Cash (Tiny jQuery Alternative)"
+          "id": "07a86927abde02e4739def856df1ddc656f763cf",
+          "author": "aws@amazon.com",
+          "description": "Amazon Braket 上で、D-Wave の Advantage 4.1 の AWS 量子アニーリングシステムにアクセスできるようになりました。D-Wave によると、新しい Advantage 量子処理ユニット (QPU) は 5000 を超える量子ビットを備え、15 通りの接続方法があるため、研究者やデベロッパーはより大規模かつ複雑な量子最適化の問題を研究できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/",
+          "publishedOn": "2021-10-12T20:34:53.000Z",
+          "wordCount": 290,
+          "title": "Amazon Braket が D-Wave の Advantage 4.1 の量子アニーリングシステムを提供"
         },
         {
-          "id": "https://css-tricks.com/?p=352569",
-          "author": "Tobias Günther",
-          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!\nIn this third installment of our “Advanced Git” series, we’ll look at …\nThe post Better Collaboration With Pull Requests appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/better-collaboration-with-pull-requests/",
-          "publishedOn": "2021-10-11T14:29:44.000Z",
-          "wordCount": 1716,
-          "title": "Better Collaboration With Pull Requests"
+          "id": "b78fa969f230d1fccd370677d2b0d4b2937f0363",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights は中東 (バーレーン)、アフリカ (ケープタウン)、欧州 (ミラノ)、アジア太平洋 (大坂) でもご利用可能になりました。Amazon RDS Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/",
+          "publishedOn": "2021-10-12T20:34:05.000Z",
+          "wordCount": 274,
+          "title": "RDS Performance Insights はさらに 4 つのリージョンでご利用可能に"
         },
         {
-          "id": "https://css-tricks.com/?p=353429",
-          "author": "Chris Coyier",
-          "description": "A good essay from Jean Yang. \nWhat I mean by developer experience is the sum total of how developers interface with their tools, end-to-end, day-in and day-out. Sure, there’s more focus than ever on how developers use and adopt tools, and \n…\nThe post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://future.a16z.com/the-case-for-developer-experience/",
-          "publishedOn": "2021-10-08T20:23:42.000Z",
-          "wordCount": 4622,
-          "title": "The Case for ‘Developer Experience’"
+          "id": "efef47cc1c0dec9607c4d14d12f0411b50cf02c8",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup Audit Managerer は AWS CloudFormation をサポートし、AWS CloudFormation のテンプレートを使って、データ保護ポリシーのコンプライアンスに関する監査やレポートができるようになりました。AWS CloudFormation テンプレートを使って AWS Backup Audit Manager のプレビルドされたカスタマイズ可能な管理機能をデプロイし、すべてのバックアップがポリシーに準拠しているかどうかを評価することができるようになりました。また、監査レポートを生成することにより、オペレーション状況をモニタリングしたり、バックアップが規制要件に準拠していることを証明したりすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/",
+          "publishedOn": "2021-10-12T20:33:16.000Z",
+          "wordCount": 261,
+          "title": "AWS Backup Audit Manager が AWS CloudFormation のサポートを開始"
         },
         {
-          "id": "https://css-tricks.com/?p=353374",
-          "author": "Chris Coyier",
-          "description": "I like the pushback from Katie Kodes here. I’ve said in the past that I don’t think server-side languages haven’t quite nailed “building in components” as well as JavaScript has, but hey, this is a good point:\n1. Any basic \n…\nThe post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://katiekodes.com/jekyll-components-wysiwyg/",
-          "publishedOn": "2021-10-08T17:14:05.000Z",
-          "wordCount": 2734,
-          "title": "Jekyll doesn’t do components? Liar!"
+          "id": "d023e411ab8df227043796b8dee9e5cbca91b220",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションをサポートしており、AWS アカウントやリージョンが同じでも、異なっても、ドメインから別のドメインへのインデックスの複製や同期を低レイテンシーで自動化することが可能になりました。クロスクラスターレプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/",
+          "publishedOn": "2021-10-12T20:32:27.000Z",
+          "wordCount": 258,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションのサポートを発表"
         },
         {
-          "id": "https://css-tricks.com/?p=353066",
-          "author": "Brenley Dueck",
-          "description": "Today we will be learning how to build a tennis trivia app using Next.js and Netlify. This technology stack has become my go-to on many projects. It allows for rapid development and easy deployment.\nWithout further ado let’s jump in!…\nThe post Building a Tennis Trivia App With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-tennis-trivia-app-with-next-js-and-netlify/",
-          "publishedOn": "2021-10-08T14:30:57.000Z",
-          "wordCount": 2848,
-          "title": "Building a Tennis Trivia App With Next.js and Netlify"
+          "id": "3c6c61e2868ecb4df2905bcdba37095a9a3a298c",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup Audit Manager により、AWS Backup で定義したデータ保護ポリシーのコンプライアンスを追跡するためのレポートを生成できるようになりました。指定した Amazon S3 バケット内のコンプライアンスレポートに、AWS Backup Audit Manager でレポートプランを作ることができます。これらのレポートを使って、データ保護ポリシー違反を特定し、修復を実行し、規制要件を満たすためにデータ保護ポリシーのコンプライアンスを実証することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/",
+          "publishedOn": "2021-10-12T20:31:36.000Z",
+          "wordCount": 261,
+          "title": "AWS Backup Audit Manager はコンプライアンスレポートを追加しました"
         },
         {
-          "id": "https://css-tricks.com/?p=353062",
-          "author": "Chris Coyier",
-          "description": "I saw this blog post the other day: 58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics. That’s an enticing title to me. I’ve had Google Analytics on this site literally from the day I launched it. …\nThe post Comparing Google Analytics and Plausible Numbers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/comparing-google-analytics-and-plausible-numbers/",
-          "publishedOn": "2021-10-08T14:30:40.000Z",
-          "wordCount": 1390,
-          "title": "Comparing Google Analytics and Plausible Numbers"
+          "id": "10a2457ecf5bfbe30494d91a3f3c4c0f2d63c446",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 容量予約フリートを使うことで、 予約した Amazon EC2 の容量を新しく作成したインスタンスタイプに簡単にマイグレーションすることができます。容量予約により、容量を予約して特定のインスタンスタイプおよびにアベイラビリティーゾーンへすぐに適用することが可能です。また、いつでもキャンセルすることができます。容量予約フリートにより、インスタンスタイプのプライオリティリスト全体で容量を予約することができます。プライオリティの低いインスタンスタイプに予約した容量が未使用の場合、自動的にプライオリティの高いインスタンスタイプに容量が振り分けられます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/",
+          "publishedOn": "2021-10-12T20:30:48.000Z",
+          "wordCount": 216,
+          "title": "Amazon EC2 容量予約フリートは、インスタンスタイプ全体で、Amazon EC2 容量予約のマイグレーションを容易にします"
         },
         {
-          "id": "https://css-tricks.com/?p=353112",
-          "author": "Chris Coyier",
-          "description": "There comes a time on a project when it’s worth investing in tooling to protect the codebase. I’m not sure how to articulate when, but it’s somewhere after the project has proven to be something long-term and rough edges …\nThe post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/writing-your-own-code-rules/",
-          "publishedOn": "2021-10-07T23:35:53.000Z",
-          "wordCount": 834,
-          "title": "Writing Your Own Code Rules"
+          "id": "4d873ebbd33d7891b2dbd07b3ef57c2b3d56bc9e",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda関数は、Amazon MSK トピックでトリガーされ、IAM Access Control によって保護された MSK クラスターにアクセスできるようになりました。これは、Lambda ですでにサポートされている SASL/SCRAM に追加されます。使用を開始するには、Lambda 関数のイベントソースで MSK を選択された場合、Lambda からクラスターに接続してトピックで読み込むために関数の実行ロールを設定できます。この機能は追加料金なしで使用でき、Amazon MSK が AWS Lambda のイベントソースとしてサポートされているすべてのAWS リージョンで利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/",
+          "publishedOn": "2021-10-12T09:35:05.000Z",
+          "wordCount": 236,
+          "title": "AWS Lambda は現在 Amazon MSK のイベントソースとして IAM 認証をサポートしています"
         },
         {
-          "id": "https://css-tricks.com/?p=353386",
-          "author": "Chris Coyier",
-          "description": "Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!\nWe simply can no longer \n…\nThe post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
-          "publishedOn": "2021-10-07T21:33:58.000Z",
-          "wordCount": 2859,
-          "title": "Developer Decisions For Building Flexible Components"
+          "id": "8dfe8060799fe88f52712f134224cdfd96ae012d",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight は、新しい自由形式レイアウトモードで pixel-perfect のダッシュボードをサポートします。作成者は、自由形式レイアウトでコンテンツのオーバーラップのサポートを含め、QuickSight のダッシュボードでビジュアル要素のサイズや配置を、ピクセルレベルで正確にコントロールできます。さらに作成者は、背景色、透明度、ボーダー色、選択色、ローディングアニメーションの可視性、ビジュアルコンテキストメニュー、オンビジュアルメニューなど、自由形式レイアウトの QuickSight ビジュアルで追加属性を設定できます。自由形式レイアウトは、ビジュアル要素の条件付きレンダリングもサポートしており、作成者はQuickSight パラメータ値に基づいたコンテンツの表示、非表示の設定ができ、内容に応じたテキスト、ビジュアル、イメージの表示が可能です。これらのオプションを組み合わせ、作成者は QuickSight でエンドユーザーがデータから重要な分析を理解できる、複雑でインタラクティブなダッシュボードで創造力を披露することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/",
+          "publishedOn": "2021-10-12T09:34:17.000Z",
+          "wordCount": 227,
+          "title": "Amazon QuickSight が Pixel-Perfect のダッシュボードのサポートを追加"
         },
         {
-          "id": "https://css-tricks.com/?p=353024",
-          "author": "Hugh Haworth",
-          "description": "vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …\nThe post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-in-typescript-with-vanilla-extract/",
-          "publishedOn": "2021-10-07T14:36:35.000Z",
-          "wordCount": 2658,
-          "title": "CSS in TypeScript with vanilla-extract"
+          "id": "2f9dd1009d6dc1e1e4abb3dfd60d4e7a744318c7",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise がボンベイ、ソウル、東京の各 AWS リージョンで利用可能となり、そのフットプリントを 11 の AWS リージョンに拡大しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/",
+          "publishedOn": "2021-10-12T09:33:28.000Z",
+          "wordCount": 261,
+          "title": "AWS IoT SiteWise は、アジアパシフィック (ボンベイ)、アジアパシフィック (ソウル)、アジアパシフィック (東京) の AWS リージョンで利用可能"
         },
         {
-          "id": "https://css-tricks.com/?p=353242",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nKendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …\nThe post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/",
-          "publishedOn": "2021-10-07T14:35:28.000Z",
-          "wordCount": 1303,
-          "title": "A Themeable React Data Grid With Great UX-Focused Features"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).",
-          "link": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
-          "publishedOn": "2021-10-13T11:00:00.000Z",
-          "wordCount": 1000,
-          "title": "Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "a0dfa34b126c58bd0f71432b7acbf40777b941a0",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMakerは、トレーニングジョブのデータアクセスのために高速ファイルモードをサポートしています。これで、既存のファイルモードからコードを変更せずにAmazon S3 で直接ストリーミングすることで、ハイパフォーマンスなデータアクセスが可能になります。例えば、100GB のデータセットで K-Means クラスタリングモデルのトレーニングは、ファイルモードで 28 分かかったのに対し、高速ファイルモードでは 5 分ほどでした (82% 減)。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-sagemaker-fast-file-mode/",
+          "publishedOn": "2021-10-12T09:32:37.000Z",
+          "wordCount": 224,
+          "title": "Amazon SageMaker の高速ファイルモードを発表"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
-          "author": "hello@smashingmagazine.com (Gaurav Khanna)",
-          "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
-          "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
-          "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2348,
-          "title": "Useful React APIs For Building Flexible Components With TypeScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "d4bb2a0b69fe52f3980902239d310a3adc1ddc0d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendraは、34 言語のサポートを追加してドキュメントや、よくある質問をキーワード検索できるようにしました。Amazon Kendra は、機械学習を原動力とする高精度のインテリジェント検索サービスです。サポートされる 1 言語以上のコンテンツをお使いの場合、Amazon Kendra でネイティブ言語サポートを使用し、コンテンツのインデックス作成や検索ができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/",
+          "publishedOn": "2021-10-12T09:31:47.000Z",
+          "wordCount": 221,
+          "title": "Amazon Kendra は 34 言語のサポートを開始"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
-          "author": "hello@smashingmagazine.com (Matthew Talebi)",
-          "description": "UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.",
-          "link": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
-          "publishedOn": "2021-10-12T10:30:00.000Z",
-          "wordCount": 2174,
-          "title": "Bridging The Gap Between Designers And Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f89855fe-fbaf-4d96-80a4-189aa27e8afb/gap-between-designers-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "9962778e6b44c29b1357c0ff5447ce8810a90b08",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalizeの新しいレシピを発表され、このレシピでは与えられたアイテムで、ユーザーアイテムのインタラクションデータと、アイテムのメタデータ両方に基づいた類似アイテムをおすすめします。過去のユーザーインタラクションと、お使いのアイテムに関する情報を組み合わせて、レコメンデーションの関連性を強化し、類似アイテムを確保することでユーザーの注目度が高まります。アイテム間の類似点を評価するために、ユーザー履歴でアイテムが一緒に見つかる頻度を測定します。ベンチマークとして、新しいレシピはインタラクションデータのみを使ったレシピに比べ、類似アイテムを識別する精度が 10.2% 高いことが分かりました。これは、ユーザーが見ているものに一番関連したアイテムを見つけやすくなることを意味します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/",
+          "publishedOn": "2021-10-12T09:30:59.000Z",
+          "wordCount": 209,
+          "title": "Amazon Personalize で類似アイテムのレコメンデーションの関連性を強化する新しいレシピが提供開始"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
-          "author": "hello@smashingmagazine.com (Alvaro Montoro)",
-          "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
-          "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
-          "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3727,
-          "title": "The Autofill Dark Pattern",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "c881aa7c1edc7294e190c7a08b09904aecea495e",
+          "author": "aws@amazon.com",
+          "description": "データアナリストやデータサイエンティストが分析や機械学習のためにデータを簡単にクリーンアップおよび正規化できるようにするビジュアルデータ準備ツールである AWS Glue DataBrew は、AWS アフリカ (ケープタウン) リージョンでご利用いただけるようになりました。AWS リージョン表を参照して、DataBrew が利用できるリージョンをご確認ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/",
+          "publishedOn": "2021-10-11T21:31:50.000Z",
+          "wordCount": 229,
+          "title": "AWS Glue DataBrew が AWS アフリカ (ケープタウン) リージョンで利用可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
-          "author": "hello@smashingmagazine.com (Ejiro Asiuwhu)",
-          "description": "Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.",
-          "link": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
-          "publishedOn": "2021-10-09T10:00:00.000Z",
-          "wordCount": 2813,
-          "title": "Composable CSS Animation In Vue With AnimXYZ",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0b5365f4-e57d-4fa8-96ed-1742adb243ec/composable-css-animation-vue-animxyz.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "526b3dddd99f291310690a4be9b17ffb29fded92",
+          "author": "aws@amazon.com",
+          "description": "AWS Firewall Manager で、Firewall Manager ポリシーを使用してプロビジョンされた AWS Network Firewall のログ記録を設定できるようになりました。Network Firewall の Firewall Manager ポリシーを設定すると、ポリシーの対象となっているすべてのアカウントについてのログ記録を有効にし、Firewall Manager の管理者アカウントでログを一元化できるようになりました。これにより、単一の Firewall Manager ポリシーを介して、複数のアカウントと VPC で AWS Network Firewall のログ記録を簡単に有効にすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/",
+          "publishedOn": "2021-10-11T21:30:57.000Z",
+          "wordCount": 279,
+          "title": "AWS Firewall Manager が AWS Network Firewall ログの一元的なログ記録のサポートを開始"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
-          "author": "hello@smashingmagazine.com (Bryan Robinson)",
-          "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
-          "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
-          "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7105,
-          "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "c7294ea14ee0834a623e4fe6f36f705c0fae7a5f",
+          "author": "aws@amazon.com",
+          "description": "AWS Snowcone サービスは、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、および南米 (サンパウロ) でご注文いただけるようになりました。今回のリリースにより、Snowcone は、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、南米 (サンパウロ)、AWS アジアパシフィック (シンガポール)、アジアパシフィック (東京)、カナダ (中部)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、米国東部 (バージニア北部)、および米国西部 (オレゴン) リージョンでご注文いただけるようになりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送デバイスの AWS Snow ファミリーの最も小さなメンバーです。Snowcone は、持ち運び可能で、耐久性と安全性に優れてます。小型かつ軽量でリュックサックに収まり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理し、そのデータをオフライン (デバイスを AWS に発送することにより) またはオンライン (Snowcone で AWS DataSync を使用してネットワーク経由で AWS にデータを送信することにより) で AWS に移動します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/",
+          "publishedOn": "2021-10-11T21:05:06.000Z",
+          "wordCount": 304,
+          "title": "AWS Snowcone が米国東部 (オハイオ)、米国西部 (サンフランシスコ)、南米 (サンパウロ) の各リージョンで利用可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
-          "author": "hello@smashingmagazine.com (Anton Tyschenko)",
-          "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
-          "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
-          "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 998,
-          "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "bfb510cc29ae766ce22009de93ff97cb4ee24be8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Service for Prometheus が一般公開されました。Amazon Managed Service for Prometheus は、フルマネージドの Prometheus 互換のモニタリングサービスであり、運用メトリクスを大規模かつ簡単にモニタリングして、アラートを発信できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-managed-service-prometheus-alert-manager-rules/",
+          "publishedOn": "2021-10-11T21:04:17.000Z",
+          "wordCount": 266,
+          "title": "アラートマネージャーとルールのサポートを備えた Amazon Managed Service for Prometheus の一般提供を開始"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
-          "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
-          "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5475,
-          "title": "A Guide To CSS Debugging",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "5af16a17681dd58f527ac4662abe617c0fcec5a7",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise が AWS GovCloud (米国西部) リージョンで利用可能となり、そのフットプリントを 8 の AWS リージョンに拡大しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-sitewise-aws-govcloud-us-west-region/",
+          "publishedOn": "2021-10-11T21:03:28.000Z",
+          "wordCount": 252,
+          "title": "AWS IoT SiteWise が AWS GovCloud (米国西部) リージョンで利用可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
-          "author": "hello@smashingmagazine.com (Tom Hudson)",
-          "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
-          "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
-          "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1791,
-          "title": "Local Testing A Serverless API (API Gateway And Lambda)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "9bb6464d233de83075377f31a2c609284a224364",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Elastic Container Registry Public (Amazon ECR Public) は、ECR Public Gallery から AWS App Runner に直接コンテナを起動して、人気のあるウェブアプリケーションコンテナイメージを迅速にテストするための機能を発表しました。AWS App Runner は、デベロッパーによるウェブアプリケーションや API の迅速なデプロイをより簡単にするフルマネージドサービスです。大規模に、事前のインフラ経験を必要とせずにデプロイできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ecr-public-containers-aws-app-runner/",
+          "publishedOn": "2021-10-11T21:02:40.000Z",
+          "wordCount": 255,
+          "title": "Amazon ECR Public がコンテナを AWS App Runner に直接起動する機能を追加"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
-          "author": "hello@smashingmagazine.com (Silvestar Bistrović)",
-          "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
-          "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
-          "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2613,
-          "title": "How To Build An Expandable Accessible Gallery",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "8af390461655be74500acf37fcc9d904c6a6af97",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Events は、AWS GovCloud (米国西部) リージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-events-available-aws-govcloud-us-west-region/",
+          "publishedOn": "2021-10-11T21:01:51.000Z",
+          "wordCount": 265,
+          "title": "AWS IoT Events が AWS GovCloud (米国西部) リージョンで利用可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
-          "author": "hello@smashingmagazine.com (Miracle Onyenma)",
-          "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
-          "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
-          "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4903,
-          "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "a908ebde5b426c0453e0053d7976b40cac767cd8",
+          "author": "aws@amazon.com",
+          "description": "次世代の AWS Graviton2 プロセッサを利用する AWS Lambda 関数が一般的に利用可能となりました。Arm ベースのプロセッサアーキテクチャを使用する Graviton2 関数は、ウェブおよびモバイルバックエンド、データ、メディア処理などのさまざまなサーバーレスワークロードのために、最大 19% 優れたパフォーマンスを 20% 低いコストで提供するように設計されています。AWS Graviton2 プロセッサを使用する関数は、レイテンシーが低くパフォーマンスが優れているため、ミッションクリティカルなサーバーレスアプリケーションのために使用するのが理想的です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/",
+          "publishedOn": "2021-10-11T21:00:59.000Z",
+          "wordCount": 266,
+          "title": "AWS Graviton2 プロセッサを利用する AWS Lambda 関数を使用して最大 34% 優れた料金/パフォーマンスを実現"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
-          "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
-          "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2469,
-          "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "2d222b24fea87136fa2223732b9141354f06e7fb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。メディアキャプチャパイプラインによって、デベロッパーは Amazon Chime SDK ミーティングのコンテンツをキャプチャし、選択した Amazon Simple Storage Service (Amazon S3) バケットに保存できるようになりました。本日よりデベロッパーは、API を設定して音声、動画、コンテンツのストリームをキャプチャする方法を簡単に切り替え、アプリケーションのメディアキャプチャエクスペリエンスを、カスタマイズすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/",
+          "publishedOn": "2021-10-11T20:33:44.000Z",
+          "wordCount": 252,
+          "title": "Amazon Chime SDK メディアキャプチャパイプラインは、カスタマイズ可能なメディアキャプチャのための API を設定する機能を追加"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
-          "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
-          "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5051,
-          "title": "Using Modern Image Formats: AVIF And WebP",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "2f808ce01ad39b82a8702ee5590f9e3760e628c2",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2Mac インスタンスは、欧州 (ストックホルム)、欧州 (ロンドン)、欧州 (フランクフルト)、アジアパシフィック (ソウル)、アジアパシフィック (東京)、アジアパシフィック (ムンバイ)、アジアパシフィック (シドニー) リージョンで利用できます。Apple の Mac mini コンピュータ上に構築された EC2 Mac インスタンスにより、お客様は AWS クラウドでオンデマンドの macOS ワークロードを初めて実行できるようになり、すべての Apple デベロッパーが AWS の柔軟性、スケーラビリティ、およびコストメリットから恩恵を受けることができます。EC2 Mac インスタンスを使用すると、iPhone、iPad、Mac、Apple Watch、Apple TV、および Safari 用アプリケーションを構築するデベロッパーは、macOS 環境を数分でプロビジョニングしてアクセスできます。EC2 Mac を使用すると、デベロッパーは必要に応じて動的に容量を拡張でき、AWS 従量制料金制を活用したアプリケーションの開発、構築、テスト、署名、公開を行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/",
+          "publishedOn": "2021-10-11T20:32:55.000Z",
+          "wordCount": 389,
+          "title": "Amazon EC2 Mac インスタンスが追加の AWS リージョンでご利用可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
-          "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
-          "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3870,
-          "title": "Improving The Accessibility Of Your Markdown",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "982848b3e75cfe2775d194d291f793ee92af62ce",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Lexボットを設定するとユーザーリクエストが処理されている間、定期的に更新を行うことができます。カスタマーサポートでの会話は、ビジネスロジックの実行が必要になることが多く、完了までに時間がかかる場合があります。例えば、旅程の変更を航空会社の予約システムで行う場合、ピーク時には数分かかることがあります。通常、サポートエージェントが通話を保留にしてリクエストが実行されるまで、定期的に更新を行います (例:「リクエストを実行中です。ご不便をおかけしますがしばらくお待ちください」)。会話中、このように定期的な更新を自動的に行えるよう、簡単にボットを設定できるようになりました。進捗状況の更新機能を使うことで、ボットビルダーは、仮想コンタクトセンターエージェントとスマートアシスタントの機能をすばやく強化することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-lex-progress-updates/",
+          "publishedOn": "2021-10-11T20:32:06.000Z",
+          "wordCount": 214,
+          "title": "Amazon Lex はフルフィルメントの進捗状況の更新を開始"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
-          "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4958,
-          "title": "Let’s Dive Into Cypress For End-to-End Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "e21a4e6b8cbc5442ca3b074f6b84809f7c9627a6",
+          "author": "aws@amazon.com",
+          "description": "更新された Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) の管理コンソールは、サービスでの OpenSearch や Elasticsearch クラスターの設定管理に関する全体的なエクスペリエンスを高めています。新しいコンソールは、ドメインの作成や更新、ドメインに関する情報をより簡単に入手できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/",
+          "publishedOn": "2021-10-11T20:31:15.000Z",
+          "wordCount": 240,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が改善された管理コンソールを装備"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
-          "author": "hello@smashingmagazine.com (Jonne Kats)",
-          "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
-          "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
-          "publishedOn": "2021-09-24T10:00:00.000Z",
-          "wordCount": 3794,
-          "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "e9efcbb95275a74a59f30cb57399a0672ee40713",
+          "author": "aws@amazon.com",
+          "description": "AWS Application Migration Service (AWS MGN) は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) といった 4 つの追加の AWS リージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/",
+          "publishedOn": "2021-10-11T09:46:45.000Z",
+          "wordCount": 277,
+          "title": "AWS Application Migration Service は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) の各リージョンでご利用いただけるようになりました。"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.",
-          "link": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
-          "publishedOn": "2021-09-24T06:50:00.000Z",
-          "wordCount": 784,
-          "title": "Free Online Workshop: Frustrating Design Patterns And How To Fix Them",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76262eaa-9498-4682-a320-6a7469bef697/sept27-workshop.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "97f02e142a457d7df895293befc9d18f6f2bfcf5",
+          "author": "aws@amazon.com",
+          "description": "PostgreSQL データベースのアップデートの発表に伴い、PostgreSQL のマイナーバージョン 13.4、12.8、11.13、10.18、および 9.6.23 をサポートするために、Amazon Relational Database Service (Amazon RDS) をアップデートしました。また、Outposts の Amazon RDS に PostgreSQL マイナーバージョン 13.4 および 12.8 のサポートを追加しました。このリリースでは、PostgreSQL のセキュリティの脆弱性が解消されており、PostgreSQL コミュニティによって行われたバグ修正や機能改善が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/",
+          "publishedOn": "2021-10-11T09:38:37.000Z",
+          "wordCount": 282,
+          "title": "Amazon RDS for PostgreSQL の新しいマイナーバージョン 13.4、12.8、11.13、10.18 および 9.6.23、 Outposts Supports の Amazon RDS の新しい PostgreSQL マイナーバージョン 13.4 および 12.8"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
-          "link": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
-          "publishedOn": "2021-09-23T11:00:00.000Z",
-          "wordCount": 2157,
-          "title": "Simplifying Form Styles With `accent-color`",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/195a9e83-5686-47fd-80d9-3c1d6dc4655a/simplifying-form-styles-accent-color.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "a91a71f3336f718b7af2bc9882583b34cb071ff8",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Location Service は、デバイスの位置情報更新に距離ベースのフィルタリングを追加します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-location-service-change-detection/",
+          "publishedOn": "2021-10-11T09:35:46.000Z",
+          "wordCount": 248,
+          "title": "Amazon Location Service は、変更検出を追加"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/css-head-tag/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).",
-          "link": "https://smashingmagazine.com/2021/09/css-head-tag/",
-          "publishedOn": "2021-09-22T15:00:00.000Z",
-          "wordCount": 725,
-          "title": "Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5bbafda-ded4-4bd3-bb2a-8c4188693d30/head-2.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "cde5a5087490fa05ae0431ad88b8dd61183ae275",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR と Apache Ranger の統合を使用する場合に、Apache Hive メタデータテーブルを更新するために Apache Spark SQL を使用することについてのサポートを発表します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/",
+          "publishedOn": "2021-10-11T09:33:51.000Z",
+          "wordCount": 324,
+          "title": "Amazon EMR が Apache Ranger 統合が有効になっている場合に Apache Spark SQL をサポートし、Apache Hive メタデータテーブルにデータを挿入したり、Apache Hive メタデータテーブルを更新したりすることが可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
-          "author": "hello@smashingmagazine.com (Matthieu Cneude)",
-          "description": "Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.",
-          "link": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
-          "publishedOn": "2021-09-21T11:30:00.000Z",
-          "wordCount": 4150,
-          "title": "How To Build Your Own Mouseless Development Environment",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5c58e67b-deff-4745-b162-f60f468469ac/mouseless-development-environment.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "f0085b4068a30f81d69132b346ef1c0f37041cff",
+          "author": "aws@amazon.com",
+          "description": "VMware Cloud on AWS Outposts は、共同設計されたソリューションで、事実上 AWS Outposts を備えたデータセンター、コロケーションスペース、またはオンプレミス施設のほぼすべてに、VMware Cloud on AWS をフルマネージドエクスペリエンスとして提供します。VMware のエンタープライズクラスの Software-Defined Data Center (SDDC) ソフトウェアを、AWS Nitro System ベースの EC2 ベアメタルアウトポスト専用インスタンス上で実行します。VMware Cloud on AWS Outposts は、オンプレミスのシステム、ローカルのデータ処理、またはデータレジデンシーへの低レイテンシーのアクセスを必要とする VMware ワークロードのために構築されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/",
+          "publishedOn": "2021-10-11T09:31:40.000Z",
+          "wordCount": 305,
+          "title": "VMware Cloud on AWS Outposts の一般提供開始を発表"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "The last 18 months have been a time of unprecedented turbulence. As the people of the world have flooded online, businesses have joined them, using web development tools to adapt in real-time.",
-          "link": "https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/",
-          "publishedOn": "2021-09-21T09:30:00.000Z",
-          "wordCount": 1686,
-          "title": "How Web Development Tools Are Helping Users Keep Pace With Rapid Change",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d8f1b98f-ddeb-407f-ab88-c34305a5380b/web-development-tools-users-keep-pace-rapid-change.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "e0424da0e327aae881563eaf07c087dd4456de79",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR クラスターで実行されている Apache Spark、Apache Hive および Prestoなどのオープンソースフレームワークを、直接 Amazon SageMaker Studio ノートブックから使用して、ペタバイトスケールのデータ分析や機械学習を実行できるようになりました。Amazon EMR はオープンソースフレームワークを自動的にインストールして設定し、標準のオープンソースと互換性があり、より高速な、パフォーマンスに最適化されたランタイムを提供します。例：Amazon EMR の Spark 3.0 は同等のオープンソースに比べ、1.7 倍高速です。Amazon SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。大量のデータの分析、変換、準備は、データサイエンスと ML ワークフローの基本的なステップです。今回のリリースにて、EMR クラスターで実行されている Apache Spark、Hive および Presto などの一般的なフレームワークを直接 Sagemaker Studio から使用して、データサイエンスや ML ワークフローを簡素化することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/",
+          "publishedOn": "2021-10-11T08:47:49.000Z",
+          "wordCount": 300,
+          "title": "Amazon Sagemaker Studio から直接 Amazon EMR クラスターの Apache Spark、Hive および Presto を使用して、ラージスケールのデータ処理や機械学習ができるようになりました。"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
-          "author": "hello@smashingmagazine.com (Ken Harker)",
-          "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
-          "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
-          "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3974,
-          "title": "Are Imposter Domains Re-Publishing Your Website?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "86ffc324ad6fcf69cddaf165b62a8333a9be939a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 2.8.1 のサポートが開始されました。Apache Kafka 2.8.1 には、いくつかのバグ修正が含まれています。これらの修正の詳細については、Apache Kafka 2.8.1 のリリースノートを確認してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/",
+          "publishedOn": "2021-10-11T08:46:06.000Z",
+          "wordCount": 264,
+          "title": "Amazon MSK で Apache Kafka バージョン 2.8.1 のサポート追加"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
-          "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
-          "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2583,
-          "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "8a6d69891e6d9674e78aa2fd064ce4faa2420329",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda では、異なる AWS アカウントにある Amazon Simple Queue Service (Amazon SQS) キューから関数をトリガーできるようになりました。これまでは、お客様は同じアカウントの SQS キューからのみ Lambda 関数をトリガーできました。本日より、お客様は、各アカウントでイベントソースをレプリケートすることなく、複数の AWS アカウントで Lambda 関数を作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/",
+          "publishedOn": "2021-10-11T08:33:59.000Z",
+          "wordCount": 258,
+          "title": "AWS Lambda が別のアカウントの Amazon SQS キューからの Lambda 関数のトリガーのサポートを開始"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
-          "author": "hello@smashingmagazine.com (Elie Sloïm)",
-          "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
-          "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
-          "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4523,
-          "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "211367e08ca1129b2a4d482b75458d3fd0c6de71",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS コマンドラインインターフェイス (CLI) と AWS SDK を使用して、AWS アカウントの代替連絡先を簡単に表示および更新できるようになりました。これで、アカウントの請求、運用、セキュリティの連絡先をプログラムで最新の状態に保ち、AWS アカウントに関する重要な通知を確実に受け取れるようになります。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/",
+          "publishedOn": "2021-10-11T08:31:53.000Z",
+          "wordCount": 224,
+          "title": "AWS アカウントの代替連絡先をプログラムで管理できるようになりました"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "Integrating a CRM with your business website has numerous benefits. In this article, Zara Cooper explains what these benefits are and why websites should be integrated with a CRM platform.",
-          "link": "https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/",
-          "publishedOn": "2021-09-16T11:00:00.000Z",
-          "wordCount": 2293,
-          "title": "Reasons To Build A CRM-Powered Website For Your Business",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdb5e7f2-9050-4e5f-8b93-ca24f0483188/hubspot-preview-image.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "8c6a508a927361b746254800e6893eef325074ab",
+          "author": "aws@amazon.com",
+          "description": "AWS Fargate で実行している Amazon ECS タスクのシステム時間の精度をモニタリングできるようになりました。 Fargate で動作するタイムセンシティブなワークロードの場合、これによりお客様はクロックエラーのプロキシとして使用されるクロックエラーバウンドをモニタリングし、基準時間とシステム時間の差が閾値を超えたかどうかを知ることができます。この機能は Amazon Time Sync Service を利用して、クロック精度を測定し、コンテナのクロックエラーバウンドを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/",
+          "publishedOn": "2021-10-08T15:01:38.000Z",
+          "wordCount": 222,
+          "title": "Amazon ECS による AWS Fargate のクロック精度のモニタリング"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
-          "author": "hello@smashingmagazine.com (Marcel Moreau)",
-          "description": "For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.",
-          "link": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
-          "publishedOn": "2021-09-15T10:00:00.000Z",
-          "wordCount": 1937,
-          "title": "Reducing The Need For Pseudo-Elements",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c994e024-5695-4cf7-b9b6-dc589e547f19/reducing-need-pseudo-elements.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "12a5842a6325e9e398e042340217fe8120b0f128",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Elastic Container Service (ECS) は、AWS GovCloud (米国) リージョンで統合サービスディスカバリを開始します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/",
+          "publishedOn": "2021-10-08T15:00:49.000Z",
+          "wordCount": 230,
+          "title": "Amazon ECS サービスディスカバリが AWS GovCloud (米国) リージョン内で利用可能に"
         },
         {
-          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "author": "hello@smashingmagazine.com (Tracy Osborn)",
-          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
-          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2083,
-          "title": "The Power Of Pen And Paper Sketching",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "615855ad4aa03507d9411890",
-          "author": null,
-          "description": "In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML",
-          "link": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
-          "publishedOn": "2021-10-13T15:57:42.000Z",
-          "wordCount": 1790,
-          "title": "Firebase Cloud Firestore – Database Crash Course"
+          "id": "c3a5a5bd73b0996b06ae553b48f2105e677e4113",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Monitron iOS アプリケーションのリリースを発表いたします。今回の iOS アプリケーションは、従来の Android アプリケーションに加えて、お客様が Amazon Monitron を利用する際の選択肢が増えました。iPhone ユーザーは、Amazon Monitron iOS アプリケーションを使用して、センサーやゲートウェイ機器を設定し、動作状況のレポートや機器の潜在的な障害に対するアラートを受け取ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-monitron-ios-app/",
+          "publishedOn": "2021-10-08T14:37:21.000Z",
+          "wordCount": 251,
+          "title": "Amazon Monitron が iOS アプリケーション を発売"
         },
         {
-          "id": "615e276e0d91c9077974e6ba",
-          "author": null,
-          "description": "IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one",
-          "link": "https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/",
-          "publishedOn": "2021-10-12T21:17:09.000Z",
-          "wordCount": 2891,
-          "title": "How to Add a Flawless Database Hook to Your React Projects"
+          "id": "df7de09dd9bdc21f371551fabd4a2209330dc100",
+          "author": "aws@amazon.com",
+          "description": "本日、Amplify Geo for JavaScript が、8 月の最初のデベロッパープレビューリリースに続き、一般提供を開始しましたのでお知らせします。Amplify Geo を利用すると、フロントエンドのデベロッパーはウェブアプリケーションに位置情報認識機能をすばやく追加できます。Amplify Geo は、Auth、DataStore、Storage といった既存の Amplify のユースケースのカテゴリーを拡張して、Amazon Location Service の上に構築された抽象化されたクライアントライブラリのセットや、人気のオープンソースライブラリである MapLibre をベースにしたすぐに使えるマップ UI コンポーネントを含んでいます。Amplify Geo は、Amplify Command Line Interface (CLI) ツールもアップデートし、AWS に詳しくない人でも、必要なクラウドサービスをすべてプロビジョニングすることで、一般的なマッピングのユースケースを簡単に実現することができます",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/",
+          "publishedOn": "2021-10-08T14:33:44.000Z",
+          "wordCount": 257,
+          "title": "Amplify Geo for AWS Amplify の一般提供開始を発表"
         },
         {
-          "id": "61642329804854468fda8506",
-          "author": null,
-          "description": "As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast",
-          "link": "https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/",
-          "publishedOn": "2021-10-12T20:53:11.000Z",
-          "wordCount": 784,
-          "title": "Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]"
+          "id": "c5c0dbad165a819c15de5249bdcf9912761ca600",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Email Service (Amazon SES) のお客様は、2048 ビットのドメインキーアイデンティファイドメール (DKIM) キーを使用して、メールのセキュリティを強化できるようになりました。DKIM は、特定のドメインから送られてきたとクレームする電子メールが、そのドメインの所有者によって実際に承認されたものであることを確認するために設計された、E メールセキュリティ基準です。パブリックキー暗号化を使用して、プライベートキーで E メールに署名します。受信者側サーバーはドメインの DNS に公開されたパブリックキーを使用して、送信中に E メールの一部が変更されていないことを確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/",
+          "publishedOn": "2021-10-08T14:31:32.000Z",
+          "wordCount": 258,
+          "title": "Amazon SES が 2048 ビットの DKIM キーをサポート"
         },
         {
-          "id": "61612118804854468fda6b2b",
-          "author": null,
-          "description": "Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in",
-          "link": "https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/",
-          "publishedOn": "2021-10-12T20:52:04.000Z",
-          "wordCount": 1320,
-          "title": "How to Add Form Validation in React Forms using React Hook Form"
+          "id": "6b17bb8ffd4710f2aacc0e022b4168de0bda0680",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift クエリエディタ V2 は、データアナリスト、データサイエンティスト、データベースデベロッパーなどの SQL ユーザー向けのウェブベースのツールにより、Amazon Redshift データウェアハウスおよびデータレイク内のデータへのアクセスを簡単にします。クエリエディタ V2 により、データの探索、分析、共同作業ができます。インフラストラクチャを管理することなく、データの探索に集中できるウェブベースのアプリケーションを提供することで、クエリツール管理の運用コストを削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/",
+          "publishedOn": "2021-10-08T14:02:34.000Z",
+          "wordCount": 243,
+          "title": "Amazon Redshift が、次世代の Amazon Redshift クエリエディタを発表"
         },
         {
-          "id": "616478dc804854468fda89eb",
-          "author": null,
-          "description": "When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in",
-          "link": "https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/",
-          "publishedOn": "2021-10-12T15:35:00.000Z",
-          "wordCount": 961,
-          "title": "How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]"
+          "id": "f022e17cf8e69f4ed70325f7635687ef8ae3da1d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift の横串検索機能により、多くのお客様は、運用データベースのライブデータを Amazon Redshift データウェアハウスのデータおよび Amazon S3 データレイク環境のデータと組み合わせて、企業内のすべてのデータにわたって統合された分析ビューを得ることができます。今回、Amazon Redshift 横串検索のサポートが、既存の Amazon Aurora PostgreSQL および Amazon RDS for PostgreSQL データベースに加えて、Amazon Aurora MySQL および Amazon RDS for MySQL データベースで一般利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/",
+          "publishedOn": "2021-10-08T14:01:45.000Z",
+          "wordCount": 264,
+          "title": "横串検索の新しいデータソースとして、Amazon RDS for MySQL および Amazon Aurora MySQL データベースの一般提供開始を発表"
         },
         {
-          "id": "61604b37804854468fda625c",
-          "author": null,
-          "description": "In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command",
-          "link": "https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/",
-          "publishedOn": "2021-10-12T15:34:47.000Z",
-          "wordCount": 1572,
-          "title": "The Linux AWK Command – Linux and Unix Usage Syntax Examples"
+          "id": "95715c0c652af8f51fb322fb777d3f7d83638a52",
+          "author": "aws@amazon.com",
+          "description": "AWS App Mesh が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS App Mesh はアプリケーションレベルのネットワークを提供し、さまざまな種類のコンピューティングインフラストラクチャにわたり、お客様のサービスが相互に通信することを容易にするサービスメッシュです。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/",
+          "publishedOn": "2021-10-08T14:00:56.000Z",
+          "wordCount": 240,
+          "title": "AWS App Mesh が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に"
         },
         {
-          "id": "615d55dc0d91c9077974d404",
-          "author": null,
-          "description": "Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/",
-          "publishedOn": "2021-10-12T15:34:31.000Z",
-          "wordCount": 1597,
-          "title": "How to Make a Video Game – Create Your Own Game From Scratch Tutorial"
+          "id": "77a19823cd428becc735de65f8286bb0ac247a18",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall で、ルールの順序やデフォルトドロップに関する新しい設定オプションが提供され、Virtual Private Cloud (VPC) のトラフィックをモニタリングするためのルールの書き込みや処理が容易になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/",
+          "publishedOn": "2021-10-08T13:01:57.000Z",
+          "wordCount": 250,
+          "title": "AWS Network Firewall がルールの順序とデフォルトドロップの新しい設定オプションを追加"
         },
         {
-          "id": "6162f83f804854468fda7c7a",
-          "author": null,
-          "description": "In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is",
-          "link": "https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/",
-          "publishedOn": "2021-10-12T15:34:19.000Z",
-          "wordCount": 1416,
-          "title": "Python NamedTuple Examples – How to Create and Work with NamedTuples"
+          "id": "590a866c37159826591dd4c077b8800b290783e0",
+          "author": "aws@amazon.com",
+          "description": "AWS Elastic Beanstalk は、Elastic Beanstalk 環境で動作するデータベースのデカップリングをサポートするようになりました。これまで、Elastic Beanstalk で作成したデータベースインスタンスは、環境のライフサイクルに縛られていました。このリリースにより、データベースインスタンスのライフサイクルがアプリケーションの環境のライフサイクルに縛られることがなくなり、Elastic Beanstalk で管理するデータベースと Beanstalk 環境を切り離すことができます。環境の健全性はデカップリングオペレーションによって影響を受けず、データベースを外部データベースとして運用し続けることができ、複数の環境が接続できるようになります。また、データベースを運用したまま Elastic Beanstalk 環境を終了させるオプションもあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/",
+          "publishedOn": "2021-10-08T13:01:09.000Z",
+          "wordCount": 231,
+          "title": "AWS Elastic Beanstalk が Elastic Beanstalk 環境でのデータベースデカップリングをサポート"
         },
         {
-          "id": "6159ab734aa03507d9412321",
-          "author": null,
-          "description": "What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-blog-book/",
-          "publishedOn": "2021-10-11T17:21:00.000Z",
-          "wordCount": 14932,
-          "title": "How to Start a Blog [Free 70-Page Book]"
+          "id": "46657b3b55667b1b90e88ead51ed4325ed5cd0c5",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/",
+          "publishedOn": "2021-10-08T10:47:19.000Z",
+          "wordCount": 245,
+          "title": "Amazon SageMaker Data Wrangler で時系列データの準備と可視化をする"
         },
         {
-          "id": "615408e064aefe07d3fa0743",
-          "author": null,
-          "description": "In mid-2021, a new Twitter design trend emerged: dynamically updated headers. Developers decided that static headers were boring, and dynamic Twitter headers were the way to go.  Ever since then, many developers (including me) have been creating dynamic banners on Twitter. But what does this actually mean? The idea is",
-          "link": "https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/",
-          "publishedOn": "2021-10-11T14:50:00.000Z",
-          "wordCount": 2257,
-          "title": "How to Create a Dynamic Twitter Header"
+          "id": "2dd717cffb5d31f5b3fd27f3a12b16f589c3c093",
+          "author": "aws@amazon.com",
+          "description": "AWS ソリューションチームは最近、すべての Amazon WorkSpaces 使用状況データを分析し、個々の使用状況に応じて、WorkSpace を最も費用対効果の高い請求オプション (時間単位または月単位) に自動的に変換するソリューションである Amazon Workspaces Cost Optimizer を更新しました。このソリューションは、WorkSpace の使用状況をモニタリングし、コストを最適化するのにも役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-cost-optimizer-v2-4/",
+          "publishedOn": "2021-10-07T07:34:15.000Z",
+          "wordCount": 226,
+          "title": "Amazon Workspaces Cost Optimizer v2.4 のご紹介"
+        },
+        {
+          "id": "7f47a7a3c1815bc53c55dfcb7b7030023f9a3584",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、PostGIS メジャーバージョン 3.1 をサポートするようになりました。この新しいバージョンの PostGIS は、PostgreSQL バージョン 13.4、12.8、11.13、10.18 以降で利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-postgresql-postgis-3-1/",
+          "publishedOn": "2021-10-07T07:33:26.000Z",
+          "wordCount": 260,
+          "title": "Amazon RDS for PostgreSQL が PostGIS 3.1 をサポート"
+        },
+        {
+          "id": "25296fcdd5ab47376583d6370ebf06ff77d69fa6",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Textract は、AWS PrivateLink のサポートを両方の AWS GovCloud (米国) リージョンに拡張します。お客様は、AWS GovCloud (米国) でパブリック IP を使用せずに Amazon Virtual Private Cloud (Amazon VPC) から Amazon Textract にアクセスできるようになりました。トラフィックがインターネットを経由する必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/",
+          "publishedOn": "2021-10-07T07:32:37.000Z",
+          "wordCount": 263,
+          "title": "Amazon Textract が AWS PrivateLink のサポートを AWS GovCloud (米国) リージョンに拡張"
+        },
+        {
+          "id": "3d7a2ec8cfef9ebb8c3ef942f0e952a8b9e21a4d",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 は、Ubuntu 20.04 LTS オペレーティングシステムの休止機能をサポートするようになりました。休止機能を使用すると、EC2 インスタンスを完全に終了して再起動するのではなく、一時停止して後で再開することができます。インスタンスを再開すると、アプリケーションを中断したところから続行できるため、OS とアプリケーションを最初から再起動する必要がありません。休止機能は、アプリケーションの状態の再構築に時間がかかる場合 (デベロッパーのデスクトップなど)、またはスケールアウトの前にアプリケーションの起動手順を準備できる場合に役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/",
+          "publishedOn": "2021-10-07T07:31:47.000Z",
+          "wordCount": 245,
+          "title": "Amazon EC2 休止機能が Ubuntu 20.04 LTS のサポートを追加"
+        },
+        {
+          "id": "123f680666cece9195b733c3a31f38670c89ac62",
+          "author": "aws@amazon.com",
+          "description": "AWS License Manager は、マネージド使用権限のための Delegated Administrator のサポートを開始しました。この機能を使用することで、ライセンス管理者は、管理アカウントの外部の委任されたアカウントから AWS アカウント全体でライセンスを管理および配布できます。委任された管理者を使用すると、組織全体で AWS Marketplace および独立系ソフトウェアベンダーからライセンスを付与し、以前は管理アカウントにのみ提供されていた管理機能の恩恵を受けることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-license-manager-delegated-administrator-managed-entitlements/",
+          "publishedOn": "2021-10-07T07:30:58.000Z",
+          "wordCount": 239,
+          "title": "AWS License Manager がマネージド使用権限のための Delegated Administrator のサポートを開始"
+        },
+        {
+          "id": "777e3ca8525575d538b921bc1e769d392c834943",
+          "author": "aws@amazon.com",
+          "description": "AWS は、AWS クラウドコントロール API の一般提供を発表しました。これは、デベロッパーがクラウドインフラストラクチャを一貫した方法で管理し、最新の AWS 機能をより迅速に活用できるようにするために設計された一連の一般的なアプリケーションプログラムインターフェイス (API) です。クラウドコントロール API を使用すると、デベロッパーは、個別のサービス固有の API を使用する代わりに、5 つの一貫した API を使用して数百の AWS リソースと十数個のサードパーティーのリソースのライフサイクルを管理できます。今回のリリースにより、AWS パートナーネットワーク (APN) パートナーは、新しいリソースが利用可能になったときにカスタム開発作業に数週間を費やす代わりに、ソリューションを既存および将来の AWS 機能およびサービスとどのように統合するかを 1 回の統合で自動化できるようになりました。HashiCorp による Terraform と Pulumi は、今回のリリースの一環としてソリューションを統合しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-announces-cloud-control-api/",
+          "publishedOn": "2021-10-06T17:17:52.000Z",
+          "wordCount": 310,
+          "title": "AWS が AWS クラウドコントロール API の一般提供を発表"
+        },
+        {
+          "id": "499499c1b384a96898cdf2204cf72e8f9652a8a7",
+          "author": "aws@amazon.com",
+          "description": "AWS リージョン全域で、インスタンス、VPC、サブネット、セキュリティグループ、ボリュームなどの AWS リソースを閲覧できるようになりました。これまでは、特定のリソースの検索やステータスのモニタリング、コンソールでのインベントリ取得はマニュアルで実施しなければならず、時間がかかっていました。また、特定のインスタンスがどこのリージョンにあるかを把握する必要があり、あるいはそれを検索するために異なるリージョン間をマニュアルで切り替える必要もありました。Global View では、AWS リージョン全域のすべてのリソースを同じスクリーン上で見ることができるため、リソースカウントのモニタリングや異常が発生した場合の迅速な通知、分散したリソースの検索などに便利です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-global-view-console-regions/",
+          "publishedOn": "2021-10-06T14:05:57.000Z",
+          "wordCount": 236,
+          "title": "Amazon EC2、全リージョンのリソースをすべて閲覧できるコンソールで Global View を提供開始"
+        },
+        {
+          "id": "29381b088de34a29c1a83dfe1d10472235e62b70",
+          "author": "aws@amazon.com",
+          "description": "AWS Device Farm の Desktop Browser Testing 機能があれば、Chrome、Firefox、Internet Explorer ブラウザの異なるバージョンでウェブアプリケーションをテストできます。Microsoft Edge ブラウザのサポートは本日よりご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-device-farm-testing-web-apps-microsoft-edge-browser/",
+          "publishedOn": "2021-10-06T14:02:43.000Z",
+          "wordCount": 223,
+          "title": "AWS Device Farm、Microsoft Edge ブラウザでのウェブアプリテストのサポートを発表"
+        },
+        {
+          "id": "8ee9e136cd380696af5c0bc4d5e09acd559fd386",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-codeguru-security-detectors-python-bandit/",
+          "publishedOn": "2021-10-06T14:01:55.000Z",
+          "wordCount": 256,
+          "title": "Amazon CodeGuru が Python アプリケーションのセキュリティ検出器と Bandit によるセキュリティ分析を発表"
+        },
+        {
+          "id": "c44a1feec1bb4238acd335a655cea6c314287ed0",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-codeguru-recommendations-infer/",
+          "publishedOn": "2021-10-06T14:01:05.000Z",
+          "wordCount": 241,
+          "title": "Amazon CodeGuru に Infer 社のレコメンデーション機能を搭載しました"
+        },
+        {
+          "id": "994a5437e785aad596f67d4359f57f163972b96e",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Events がアジアパシフィック (ムンバイ) リージョンで利用可能となり、そのフットプリントを 13 の AWS リージョンに拡大しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/",
+          "publishedOn": "2021-10-06T13:01:05.000Z",
+          "wordCount": 262,
+          "title": "AWS IoT Events がアジアパシフィック (ムンバイ) リージョンで利用可能に"
+        },
+        {
+          "id": "2fcba867c4fda325916ef2a2dee14f5217d6dee2",
+          "author": "aws@amazon.com",
+          "description": "AWS Snowcone は、14TB のストレージ容量を備えたソリッドステートドライブ (SSD) でご利用可能になりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送を処理する最小の AWS Snow ファミリーデバイスです。今回の提供開始により、AWS Snowcone はハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用可能になりました。Snowcone SSD は、Snowcone と同じマザーボードと工業デザインですが、Snowcone SSD は、次を必要とする新しいデータ転送とエッジコンピューティングのユースケースを可能にします。1) より高いスループットパフォーマンス、2) より強力な耐振動性を備えたオペレーション、3) 拡張された耐久性、および 4) 増加したストレージ容量 (14TB の Snowcone SSD に対し、8TB の Snowcone)。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/",
+          "publishedOn": "2021-10-06T02:51:42.000Z",
+          "wordCount": 321,
+          "title": "AWS が AWS Snowcone SSD を発表"
+        },
+        {
+          "id": "f753aeb97ef2d273119deb3ad3a67d99adba7527",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker JumpStart は、機械学習をすばやく簡単に開始するのに役立ちます。SageMaker JumpStart は、数回クリックするだけで簡単にデプロイできる、最も一般的なユースケース向けの一連のソリューションを提供しており、人気のあるオープンソースモデルをワンクリックでデプロイおよびきめ細かく調整できます。本日より、サンプルのノートブック、テキストモデル、ソリューションなど、マルチモーダル財務テキスト分析ツールのコレクションにアクセスできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/",
+          "publishedOn": "2021-10-06T02:50:54.000Z",
+          "wordCount": 252,
+          "title": "Amazon SageMaker JumpStart で新しいマルチモーダル (長い形式のテキスト、表形式) の財務分析ツールが利用可能に"
+        },
+        {
+          "id": "5e0eaa9eca75397eabb7afa9994dc9ef5b5343f1",
+          "author": "aws@amazon.com",
+          "description": "AWS Step Functions が AWS SDK と統合され、サポートされる AWS のサービスの数が 17 から 200 超に、AWS API アクションが 46 から 9,000 超に拡張されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-step-functions-200-aws-sdk-integration/",
+          "publishedOn": "2021-10-06T02:49:12.000Z",
+          "wordCount": 316,
+          "title": "AWS Step Functions が AWS SDK 統合で 200 を超える AWS のサービスのサポートを追加"
+        },
+        {
+          "id": "aa286b359e1eebb20b6689b57e6eba54881ae20c",
+          "author": "aws@amazon.com",
+          "description": "デバイスの IoT Core への最初の接続で信頼チェーン全体を送信しなくても、AWS IoT Core の Just-in-Time Provisioning および Just-in-Time Registration の機能を使用してデバイスをプロビジョンできるようになりました。これまで、お客様は、IoT Core へのデバイスの最初の接続で TLS ハンドシェイクの一部として、登録済み CA 証明書と登録済み CA 証明書によって署名されたクライアント証明書の両方を提示するようにデバイスを設定する必要がありました。本日より、AWS IoT Core では、Just-in-Time Provisioning および Just-in-Time Registration を使用する際に、IoT Core へのデバイスの最初の接続で CA 証明書を提示することをオプションで選択できるようになりました。この拡張により、お客様は、自らのセルフマネージドクラウドソリューションからなど、ブラウンフィールドデバイスを AWS IoT Core に簡単に移行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-core-just-in-time-provisioning-registration/",
+          "publishedOn": "2021-10-06T02:48:23.000Z",
+          "wordCount": 278,
+          "title": "AWS IoT Core で Just-in-Time Provisioning および Just-in-Time Registration を使用してデバイスをプロビジョニングする際に、オプションで信頼チェーン全体の送信が可能に"
+        },
+        {
+          "id": "6cd7380c69812c557990ef6c810d05ab5e92ff6b",
+          "author": "aws@amazon.com",
+          "description": "AQUA (Advanced Query Accelerator) for Amazon Redshift は、欧州 (ストックホルム)、アジアパシフィック (ソウル)、および米国西部 (北カリフォルニア) の 3 つの追加の AWS リージョンで一般的に利用可能となりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/",
+          "publishedOn": "2021-10-06T02:47:35.000Z",
+          "wordCount": 262,
+          "title": "Amazon Redshift 向けの AQUA が 3 つの追加の AWS リージョンで提供開始"
+        },
+        {
+          "id": "afeb850a7cc73db33a1e4e79a948873651df3de4",
+          "author": "aws@amazon.com",
+          "description": "AWS Data Exchange のサブスクライバーは、自動エクスポートを使用して、数回クリックするだけで、サードパーティーのデータサブスクリプションから任意の Amazon S3 バケットに新しく公開されたリビジョンを自動的にコピーできるようになりました。自動エクスポートを使用すると、サブスクライバーは、新しいリビジョンを手動でエクスポートしたり、新しいリビジョンが公開され次第エクスポートする取り込みパイプラインを構築するためにエンジニアリングのリソースを割り当てたりする必要がなくなります。ファイルベースのサードパーティーデータの頻繁な更新を管理するデータサブスクライバーの場合、自動エクスポートにより時間と労力を大幅に節約できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-data-exchange-export-third-party-data-updates/",
+          "publishedOn": "2021-10-06T02:46:46.000Z",
+          "wordCount": 243,
+          "title": "AWS Data Exchange がサードパーティーのデータ更新の自動エクスポートのサポートを開始"
+        },
+        {
+          "id": "d0da2263357152efb916b75cbb2450591d5dc582",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift の RA3.xlplus ノードが AWS GovCloud (米国) リージョンでご利用いただけるようになりました。マネージドストレージを備えた Amazon Redshift RA3 インスタンスを使用することで、コンピューティングとストレージを個別にスケールして、クエリのパフォーマンスを高速化し、コストを削減できます。RA3 は 3 つの異なるノードタイプで利用可能となっており、ワークロードの要件に応じて料金とパフォーマンスのバランスをとることができます。RA3.xlplus ノードは、RA3.4xlarge と比較して 3 分の 1 の料金で 3 分の 1 のコンピューティング (4 vCPU) とメモリ (32 GiB) を提供します。RA3 ノードは、AWS Nitro System 上に構築され、ローカルキャッシュに匹敵する高帯域幅ネットワークと大容量ハイパフォーマンス SSD を備えています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-ra3-xlplus-aws-govcloud-us-regions/",
+          "publishedOn": "2021-10-06T02:45:56.000Z",
+          "wordCount": 264,
+          "title": "Amazon Redshift が AWS GovCloud (米国) リージョンで RA3.xlplus をリリース"
+        },
+        {
+          "id": "64acdea32910ed2d6222536202a51249b9bec57a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Comprehend が、Amazon Comprehend エンドポイントのコストとセキュリティを最適化するのに役立つ、2 つの新しい AWS Trusted Advisor チェックをサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/",
+          "publishedOn": "2021-10-05T02:31:09.000Z",
+          "wordCount": 266,
+          "title": "Amazon Comprehend が、2 つの Trusted Advisor チェックを追加"
+        },
+        {
+          "id": "096ed599fbef1d8d6a6cb79cd4bfe4d0c6500249",
+          "author": "aws@amazon.com",
+          "description": "Amazon Macie により、いつ機密データ検出ジョブを作成して、どのマネージドデータ識別子を使用するかを選択できるようになりました。これにより、どのデータタイプを機密と見なし、特定のデータガバナンスと組織のプライバシーニーズごとにMacie にアラートを発信してもらいたいかをカスタマイズすることができます。ジョブを作成したならば、Macie で設定して実行する各機密データ検出ジョブで目標としたい個人を特定できる情報 (PII)、財務データ、認証資料などの増え続けるマネージドデータ識別子のリストから選択します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-macie-managed-data-identifiers/",
+          "publishedOn": "2021-09-30T22:05:07.000Z",
+          "wordCount": 254,
+          "title": "Amazon Macie がマネージドデータ識別子の選択のためのサポートを追加"
+        },
+        {
+          "id": "8139e6236e48a999a0f8a44e981ebfdd8c1faf53",
+          "author": "aws@amazon.com",
+          "description": "Amazon ElastiCache for Redis と Amazon ElastiCache for Memcached は、次の追加リージョンで Graviton2 M6g および R6g のインスタンスファミリーをサポートするようになりました: 南米 (サンパウロ)、アジアパシフィック (香港、ソウル)、欧州 (ロンドン、ストックホルム)、北米 (モントリオール)、米国東部 (GovCloud 米国東部)、米国西部 (GovCloud 米国西部)、および中国本土 (寧夏、北京)。お客様は、サブミリ秒のレイテンシーと高いスループットの超高速パフォーマンスを必要とするワークロード用に Amazon ElastiCache を選択しています。Graviton2 M6g および R6g インスタンスを用いると、お客様は旧世代のインスタンスよりも最大 45% 価格/パフォーマンスの改善が得られるようになりました。Graviton2 インスタンスは、Amazon ElastiCache のお客様のデフォルトの選択肢になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elasticache-m6g-r6g-graviton2-regions/",
+          "publishedOn": "2021-09-30T22:01:45.000Z",
+          "wordCount": 317,
+          "title": "Amazon ElastiCache が追加のリージョンでの M6g および R6g Graviton2 ベースのインスタンスのサポートを開始"
+        },
+        {
+          "id": "4c1ec68b24735ad2634221f91578f35f547b15fc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Customer Profiles は、すぐに使用できる Salesforce からの製品購入履歴との統合をサポートするようになりました。お客様がコンタクトセンターに電話をかけたり、メッセージを送信したりすると、Amazon Connect Customer Profiles は、パーソナライズされたカスタマーサービスを提供して問題をすばやく解決するために必要な情報をコンタクトセンターエージェントに提供します。Customer Profiles は、顧客情報 (名前、住所、電話番号、お問い合わせ履歴、購入履歴、未解決の問題など) を複数のアプリケーションから統一された顧客プロファイルにまとめるのを容易にし、エージェントがお客様とのやり取りを始めるとすぐに彼らにそのプロファイルを直接提供するのに役立ちます。エージェントがお客様にサービスを提供するための以前のやり取りを理解したいと思った場合、彼らは通話の分類、通話のセンチメント、トランスクリプトなどの情報をレビューするために、[CTR 詳細] をクリックして Contact Trace Record (連絡先トレースレコード: CTR) 詳細ページにアクセスすることができます。Customer Profiles は、エージェントによってすぐに使用できるか、既存のエージェントアプリケーションに埋め込むことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-customer-profiles-product-purchase-history/",
+          "publishedOn": "2021-09-30T22:00:57.000Z",
+          "wordCount": 241,
+          "title": "Amazon Connect Customer Profiles がお客様とのやり取りをパーソナライズするように製品購入履歴を追加"
+        },
+        {
+          "id": "61e931256ee32c6264e9e75597f2bfd59ad72364",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-communications/",
+          "publishedOn": "2021-09-30T08:33:35.000Z",
+          "wordCount": 221,
+          "title": "Amazon Connect が、通話、テキスト、E メール用の大量のアウトバウンド通信のプレビューでの提供を開始"
+        },
+        {
+          "id": "85efd8aa70acc5c28c7555f45bdcb9e709c1f068",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/",
+          "publishedOn": "2021-09-30T08:32:46.000Z",
+          "wordCount": 258,
+          "title": "Amazon Connect Wisdom の一般提供を開始"
+        },
+        {
+          "id": "07ab871cfa72323d5b753a330c99e7bf2f7991e0",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 用の Red Hat Enterprise Linux with Microsoft SQL Server のリリースに続いて、AWS Launch Wizard を使用して RHEL SQL Server Always On 可用性グループを簡単にデプロイできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/",
+          "publishedOn": "2021-09-30T08:31:55.000Z",
+          "wordCount": 283,
+          "title": "AWS Launch Wizard が Red Hat Enterprise Linux での Microsoft SQL Server Always On デプロイのサポートを開始"
+        },
+        {
+          "id": "17073a0fd2047ab313739d32995fa42991cd45b4",
+          "author": "aws@amazon.com",
+          "description": "Elastic Load Balancing が、ネットワークロードバランサー (NLB) から Application Load Balancer (ALB) へのトラフィックの直接転送をサポートするようになりました。この機能により、AWS PrivateLink を使用して、ALB 上に構築されたアプリケーションの静的 IP アドレスを公開できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/",
+          "publishedOn": "2021-09-30T08:31:06.000Z",
+          "wordCount": 279,
+          "title": "Application Load Balancer が、ネットワークロードバランサーとの直接統合で、AWS PrivateLink および静的 IP アドレスを有効に"
+        },
+        {
+          "id": "123bd165f4a954decac4ae808a4091623d760ae0",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Voice ID は、Amazon Connect のための Machine Learning (機械学習) を利用した音声認証機能であり、コンタクトセンターにおける音声でのやり取りをより安全かつ効率的なものとします。これまで、コンタクトセンターでは、時間のかかる知識ベースの認証プロセスを使用しており、発信者は社会保障番号や生年月日などの個人情報に基づいて複数の質問に回答する必要がありました。Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、会話の自然な流れを変化させることなく、リアルタイムで本人確認を実施します。これにより、エージェントの生産性が向上し、コンタクトセンターの運用コストが削減されます。Amazon Connect Voice ID は、コンタクトセンターインスタンスのためのカスタムウォッチリストからリアルタイムで不正行為者を検出し、コンタクトセンターのオペレーションのセキュリティを向上させます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/",
+          "publishedOn": "2021-09-29T20:03:25.000Z",
+          "wordCount": 265,
+          "title": "Amazon Connect Voice ID の一般提供を開始"
+        },
+        {
+          "id": "342645fa27e36a5a0e252aa8afef875fd312fa76",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日、Amazon EMR がアイドル状態の EMR クラスターの自動終了をサポートするようになったことを発表します。これは、コストを削減するために、EMR クラスターがアイドル状態の場合に自動的に終了する新機能です。担当者がクラスターのアクティビティをモニタリングする必要はありません。既存のクラスターと新しいクラスターの両方のために自動終了を有効にするときにアイドルタイムアウト値を指定できます。EMR は、指定された時間にわたってアイドル状態が継続するとクラスターを自動的に終了します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/",
+          "publishedOn": "2021-09-29T20:02:36.000Z",
+          "wordCount": 249,
+          "title": "コストを削減するためにアイドル状態の EMR クラスターの自動終了が可能に"
+        },
+        {
+          "id": "44030c81365cd9ade39960f3333c79984d327dc0",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS でゲノミクスデータをペタバイト規模で処理するためのゲノミクスおよびライフサイエンス分野のお客様向けのオープンソースツールである Amazon Genomics CLI の一般提供を発表しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-genomics-cli-available/",
+          "publishedOn": "2021-09-29T20:01:47.000Z",
+          "wordCount": 228,
+          "title": "Amazon Genomics CLI の一般提供を開始"
+        },
+        {
+          "id": "be65e29dfa67e58d53a8f7b0b9eb9670aafb8a54",
+          "author": "aws@amazon.com",
+          "description": "AWS ソリューションチームは最近、AWS WAF Security Automations を更新しました。これは、一般的なウェブベースの攻撃をフィルタリングする一連の AWS WAF (ウェブアプリケーションファイアウォール) ルールを自動的にデプロイするソリューションです。ユーザーは、事前設定済みの保護機能を選択することで、AWS WAF ウェブアクセスコントロールリスト (ウェブ ACL) に含まれるルールを定義できます。デプロイされると、AWS WAF は、ウェブリクエストの検査を通じて、Amazon CloudFront ディストリビューションや Application Load Balancer を保護します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-security-automations-v3-2/",
+          "publishedOn": "2021-09-29T20:00:58.000Z",
+          "wordCount": 244,
+          "title": "AWS WAF Security Automations v3.2 のご紹介"
+        },
+        {
+          "id": "c1e0eaa7322f4a82f7ce5b61630cf58ed4700133",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (RDS) for Oracle は、Oracle Database の 12.1、12.2、および 19c バージョンのために、バージョン 21.1 の Oracle Application Express (APEX) をサポートするようになりました。APEX を使用することで、デベロッパーはウェブブラウザ内でアプリケーション全体を構築できるようになります。APEX 21.1 の最新機能の詳細については、Oracle のブログ投稿を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/",
+          "publishedOn": "2021-09-29T00:32:34.000Z",
+          "wordCount": 262,
+          "title": "Amazon RDS for Oracle が Oracle Application Express (APEX) バージョン 21.1 のサポートを開始"
+        },
+        {
+          "id": "dc3c292554e15500e78665ccc1ce3b51711f0df9",
+          "author": "aws@amazon.com",
+          "description": "お客様は、AWS Backup を利用して、不要になったリカバリポイントをより簡単に削除できるようになりました。お客様は、コンソール、CLI、または API からの新しい非同期削除オペレーションを使用して、既存のリカバリポイントを一括でクリーンアップし、バックアップをよりコスト効率よく管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/",
+          "publishedOn": "2021-09-29T00:31:45.000Z",
+          "wordCount": 212,
+          "title": "AWS Backup がリカバリポイントの削除を簡素化"
+        },
+        {
+          "id": "b79655ab9592ef14cd30e500294518c6c6da18c9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 4 つの新しい sqlnet.ora クライアントパラメータをサポートするようになりました。お客様はこれを変更することができます。Amazon RDS for Oracle は、受信セッションの暗号化プロパティを定義するサーバーパラメータを既にサポートしています。これらのクライアントパラメータは、データベースリンクで使用される接続などの発信接続に適用されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/",
+          "publishedOn": "2021-09-29T00:30:56.000Z",
+          "wordCount": 282,
+          "title": "Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの sqlnet.ora クライアントパラメータのサポートを開始"
+        },
+        {
+          "id": "84ea020ee362f447e1f4147468326fcb8769f302",
+          "author": "aws@amazon.com",
+          "description": "AWS Storage Gateway では、Tape Gateway を使用して AWS に保存されている仮想テープをより簡単かつ迅速に検索、表示、および管理できるようになりました。Storage Gateway マネジメントコンソールの [Tapes] (テープ) ページから、テープバーコードやステータスなどの一般的なフィルターを使用してテープを迅速に検索できるようになりました。ドロップダウンメニューから目的のフィルターを選択し、検索を関連するテープのセットにすばやく絞り込むだけで、時間と管理のオーバーヘッドを節約できます。例えば、定義した保持期間を超えてアーカイブされたテープを削除するには、[Archived] (アーカイブ) フィルターを使用して目的の日付範囲を選択し、数回クリックするだけで、指定したフィルターに一致するすべてのテープを削除できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/",
+          "publishedOn": "2021-09-29T00:01:58.000Z",
+          "wordCount": 242,
+          "title": "AWS Storage Gateway が Tape Gateway のテープ管理を簡素化"
+        },
+        {
+          "id": "d87c8cdc6d07c578739115e431fde03c8aa31fad",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Device Defender を使用することにより、お客様は、検出された動作異常の調査に基づいてアラームを検証できるようになりました。アラームを [True positive] (真陽性)、[Benign positive] (良性の陽性)、[False positive] (誤検知)、または [Unknown] (不明) として検証し、検証の説明を提供できます。セキュリティチームやオペレーションチームなどのユーザーは、これを使用してアラームを管理し、応答時間を改善できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/",
+          "publishedOn": "2021-09-29T00:01:06.000Z",
+          "wordCount": 249,
+          "title": "AWS IoT Device Defender がアラーム検証状態の検出のサポートを開始"
+        },
+        {
+          "id": "4f8c7461849b938fd5bcbf06321087743aca7142",
+          "author": "aws@amazon.com",
+          "description": "AWS のお客様は、Microsoft Windows Server 2022 でマネージド Amazon Machine Image (AMI) を使用できるようになりました。これらの AMI を使用すると、Windows Server 2022 を起動して、最新の Windows 機能を AWS で利用できるようになります。Amazon EC2 では、テストの目的でソフトウェアの新機能を有効にする場合でも、コンピューティングインスタンス全体で最新の機能をスケーラブルに導入する場合でも、Windows Server 2022 の起動と実行を簡単に行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/",
+          "publishedOn": "2021-09-28T23:32:35.000Z",
+          "wordCount": 291,
+          "title": "AWS が Amazon EC2 での Microsoft Windows Server 2022 イメージのサポートを発表"
+        },
+        {
+          "id": "33fe53304978335b79012e780c5e87c059aadfc9",
+          "author": "aws@amazon.com",
+          "description": "AWS GovCloud (米国) と AWS 中国 (北京と寧夏) リージョンを除くすべてのパブリック AWS リージョンで Amazon ElastiCache for Redis のオートスケーリング機能の一般提供が開始されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/",
+          "publishedOn": "2021-09-28T23:31:46.000Z",
+          "wordCount": 250,
+          "title": "Amazon ElastiCache for Redis が 17 の追加リージョンでオートスケーリングのサポートを開始"
+        },
+        {
+          "id": "b87f51b6e9a99033b8d4e312ca8c3f6027056959",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Studio は、機械学習 (ML) 用の初の完全統合開発環境 (IDE) です。SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。データサイエンティストや ML デベロッパーは、1 回のクリックですばやく SageMaker Studio ノートブックにサインインしてデータセットの検証やモデルの構築を始めることができます。ライフサイクル設定を使用して Studio 開発環境のカスタマイズを自動化できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/",
+          "publishedOn": "2021-09-28T23:30:58.000Z",
+          "wordCount": 246,
+          "title": "ライフサイクル設定による Amazon SageMaker Studio をカスタマイズが可能に"
+        },
+        {
+          "id": "86763613387c08e47441689bce4fd4840fc37f3b",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/",
+          "publishedOn": "2021-09-28T23:00:58.000Z",
+          "wordCount": 225,
+          "title": "Amazon QuickSight Q が一般公開されました"
+        },
+        {
+          "id": "d62ad26d183e848ae182db570b507b9829b76b78",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudTrail を使用して、Amazon DynamoDB Streams のデータプレーン API アクティビティをフィルタリングして取得できるようになりました。これにより、どの DynamoDB API コールを CloudTrail にログ記録し支払いをするかをよりきめ細かく制御できるようになり、コンプライアンスや監査の要件に対応できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-dynamodb-granular-control-audit-logging-streams-data-plane-api-activity-aws-cloudtrail/",
+          "publishedOn": "2021-09-28T18:05:44.000Z",
+          "wordCount": 258,
+          "title": "Amazon DynamoDB では、AWS CloudTrail でストリーミングのデータプレーン API アクティビティをフィルタリングできるようにすることで、監査ログ記録のよりきめ細かい制御が可能に"
+        },
+        {
+          "id": "1fa386c89abed7257e7c3fcd09de934b3bd4333a",
+          "author": "aws@amazon.com",
+          "description": "本日から、Amazon Lex がアジアパシフィック (ソウル) およびアフリカ (ケープタウン) のリージョンで利用可能になりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声をテキストに変換する自動音声認識 (ASR) と、テキストの意図を認識する自然言語理解 (NLU) の高度な深層学習機能を組み合わせます。これにより、より良いユーザーエクスペリエンスと自然な操作感のアプリケーションを構築できるようになります。Amazon Lex を使用すれば、洗練された自然言語による対話型ボット (「Chatbot」)、仮想エージェント、IVR システムを簡単に作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/",
+          "publishedOn": "2021-09-28T18:04:19.000Z",
+          "wordCount": 242,
+          "title": "Amazon Lex が、アジアパシフィック (ソウル) およびアフリカ (ケープタウン) のリージョンで利用可能に"
+        },
+        {
+          "id": "57b5b37b860c6d98fbb799faee7fb8bfbdc27e4f",
+          "author": "aws@amazon.com",
+          "description": "本日より、対象となるオンデマンドキャパシティー予約で EC2 フリートの使用が可能になりました。オンデマンドキャパシティー予約では、特定のアベイラビリティーゾーンにある Amazon EC2 インスタンスのコンピューティング性能を任意の期間で予約することができます。対象となるキャパシティー予約については、インスタンスはリザーブドキャパシティーで実行されるよう、キャパシティー予約を具体的に対象とする必要があります。これまでは、EC2 フリートの起動時に対象となるキャパシティー予約を使用するオプションはありませんでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/",
+          "publishedOn": "2021-09-28T18:02:40.000Z",
+          "wordCount": 238,
+          "title": "Amazon EC2 フリートのインスタントモードが、対象となる Amazon EC2 オンデマンドキャパシティー予約をサポート"
+        },
+        {
+          "id": "53325467c4418ec35459a933a47606d76d4c3e16",
+          "author": "aws@amazon.com",
+          "description": "AWS Single Sign-On が AWS GovCloud (米国西部) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/",
+          "publishedOn": "2021-09-28T18:01:50.000Z",
+          "wordCount": 268,
+          "title": "AWS Single Sign-On が AWS GovCloud (米国西部) リージョンで利用可能に"
+        },
+        {
+          "id": "911fba3374ad8b05d5fe4abe74be6c607c352a40",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Email Service (Amazon SES) がアジアパシフィック (大阪) AWS リージョンで利用可能になりました。Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/",
+          "publishedOn": "2021-09-27T13:31:54.000Z",
+          "wordCount": 244,
+          "title": "Amazon Simple Email Service がアジアパシフィック (大阪) リージョンで利用可能に"
+        },
+        {
+          "id": "bff8588e898d23fb19229610066678f663cb6b89",
+          "author": "aws@amazon.com",
+          "description": "AWS WAF は、正規表現 (regex) のサポートを拡張し、正規表現パターンをルールステートメント内でインラインで表現できるようにします。これまでは、WAF ルールロジックで単一の正規表現パターンのみを使用する場合でも、ルールステートメントで正規表現パターンのコレクションを提供する正規表現パターンセットを作成する必要がありました。インライン正規表現を使用すると、単一の正規表現パターンを WAF ルールステートメント内に直接含めることができるようになり、ウェブ ACL 内での WAF ルールの表現方法が簡素化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/",
+          "publishedOn": "2021-09-27T13:31:06.000Z",
+          "wordCount": 239,
+          "title": "AWS WAF がインライン正規表現の提供を開始"
+        },
+        {
+          "id": "ea58ff9c783109abbda277ee2a8909c686f7d892",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift RA3.xlplus ノードで、AQUA (Advanced Query Accelerator) for Amazon Redshift が一般利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/",
+          "publishedOn": "2021-09-27T10:32:44.000Z",
+          "wordCount": 255,
+          "title": "AQUA が Amazon Redshift RA3.xlplus ノードで利用可能に"
+        },
+        {
+          "id": "33e129ee7b8bbacd65e800f0a449cf0a5f227a63",
+          "author": "aws@amazon.com",
+          "description": "AWS Service Catalog AppRegistry および AWS Systems Manager Application Manager が、エンドツーエンドの AWS アプリケーション管理エクスペリエンスを提供するようになりました。今回のリリースで、AppRegistry を使用して、インフラストラクチャ内にコード、CI/CD パイプライン、およびプロビジョニング後のプロセスとしてアプリケーションを作成し、Application Manager を使用してアプリケーションの運用データを表示し、運用アクションを実行することができるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/",
+          "publishedOn": "2021-09-27T10:31:54.000Z",
+          "wordCount": 258,
+          "title": "AWS Systems Manager で AWS Service Catalog AppRegistry アプリケーションを管理できるようになりました"
+        },
+        {
+          "id": "ec9848031e1f886093388d53f0cc33f7455afafc",
+          "author": "aws@amazon.com",
+          "description": "本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである AWS Distro for OpenTelemetry の一般利用を開始いたします。今回のリリースにより、Java、.Net、Python、Go、JavaScript で OpenTelemetry API と SDK を使用し、トレースを収集、OpenTelemetry Protocol (OTLP) によってサポートされている AWS X-Ray とモニタリングの送信先に送ることができるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/",
+          "publishedOn": "2021-09-27T10:31:06.000Z",
+          "wordCount": 296,
+          "title": "AWS Distro for OpenTelemetry でのトレースサポートの一般提供開始を発表"
+        },
+        {
+          "id": "391b03e309fe5835d9966dff242344a1d429e9d1",
+          "author": "aws@amazon.com",
+          "description": "EMR Studio は、R、Python、Scala、PySparkで記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR 6.4.0 以降では、EMR Studio において同じ Jupyter ノートブック内で Python、Scala、SparkSQL、および R を使用できるようになったことをお知らせします。これにより、Spark ワークロードのためにさまざまなプログラミング言語を柔軟に使用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/",
+          "publishedOn": "2021-09-25T12:31:46.000Z",
+          "wordCount": 262,
+          "title": "Amazon EMR Studio が Spark ワークロード用の多言語の Jupyter ベースノートブックのサポートを開始"
+        },
+        {
+          "id": "79b5cf6ed6a5d1f8c0fd95cc6f9c245b2f365aaf",
+          "author": "aws@amazon.com",
+          "description": "AWS は、商用ビジネス、宇宙産業分野のスタートアップ企業、および大学がリソースにアクセスすることを可能にする新しい AWS Ground Station の機能である Licensing Accelerator を発表します。これは、オペレーションとミッションに必要な帯域免許をより効率的に保護するのに役立ちます。Licensing Accelerator は、AWS Ground Station のお客様には無料でご利用いただけます。AWS Ground Station は、人工衛星通信の制御や人工衛星データの処理、さらに人工衛星の運用のスケールを可能にするフルマネージドサービスです。Licensing Accelerator を使用すると、AWS Ground Station のお客様は、宇宙ステーションライセンス、リモートセンシングライセンス、国際電気通信連合 (ITU) の調整など、人工衛星ライセンス規制に関する、集約された最新情報を活用して、宇宙機の運用をより迅速に開始およびスケールできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/",
+          "publishedOn": "2021-09-25T12:30:56.000Z",
+          "wordCount": 273,
+          "title": "AWS Ground Station が Licensing Accelerator を発表"
         }
       ]
     }
