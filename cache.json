@@ -501,55 +501,6 @@
           "title": "AWS License Manager がマネージド使用権限のための Delegated Administrator のサポートを開始"
         }
       ]
-    },
-    {
-      "title": "Yahoo!天気・災害 - 東京都の天気",
-      "feedUrl": "https://rss-weather.yahoo.co.jp/rss/days/13.xml",
-      "siteUrl": "https://weather.yahoo.co.jp/weather/jp/13/",
-      "articles": [
-        {
-          "id": "https://weather.yahoo.co.jp/weather/jp/13/4410.html?d=20211014",
-          "author": null,
-          "description": "晴一時雨 - 24℃/17℃",
-          "link": "https://weather.yahoo.co.jp/weather/jp/13/4410.html?d=20211014",
-          "publishedOn": "2021-10-13T13:00:00.000Z",
-          "wordCount": 293,
-          "title": "【 14日（木） 東京（東京） 】 晴一時雨 - 24℃/17℃ - Yahoo!天気・災害"
-        },
-        {
-          "id": "https://weather.yahoo.co.jp/weather/jp/13/4420.html?d=20211014",
-          "author": null,
-          "description": "曇のち晴 - 23℃/18℃",
-          "link": "https://weather.yahoo.co.jp/weather/jp/13/4420.html?d=20211014",
-          "publishedOn": "2021-10-13T13:00:00.000Z",
-          "wordCount": 245,
-          "title": "【 14日（木） 伊豆諸島北部（大島） 】 曇のち晴 - 23℃/18℃ - Yahoo!天気・災害"
-        },
-        {
-          "id": "https://weather.yahoo.co.jp/weather/jp/13/4430.html?d=20211014",
-          "author": null,
-          "description": "曇時々雨 - 25℃/21℃",
-          "link": "https://weather.yahoo.co.jp/weather/jp/13/4430.html?d=20211014",
-          "publishedOn": "2021-10-13T13:00:00.000Z",
-          "wordCount": 245,
-          "title": "【 14日（木） 伊豆諸島南部（八丈島） 】 曇時々雨 - 25℃/21℃ - Yahoo!天気・災害"
-        },
-        {
-          "id": "https://weather.yahoo.co.jp/weather/jp/13/4440.html?d=20211014",
-          "author": null,
-          "description": "晴時々曇 - 29℃/25℃",
-          "link": "https://weather.yahoo.co.jp/weather/jp/13/4440.html?d=20211014",
-          "publishedOn": "2021-10-13T13:00:00.000Z",
-          "wordCount": 242,
-          "title": "【 14日（木） 小笠原諸島（父島） 】 晴時々曇 - 29℃/25℃ - Yahoo!天気・災害"
-        }
-      ]
-    },
-    {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
     }
   ],
   "cliVersion": "1.11.2"
