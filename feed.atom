@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-13T16:44:20.015Z</updated>
+    <updated>2021-10-13T17:01:55.420Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -124,6 +124,46 @@
         <summary type="html"><![CDATA[Amazon EC2 容量予約フリートを使うことで、 予約した Amazon EC2 の容量を新しく作成したインスタンスタイプに簡単にマイグレーションすることができます。容量予約により、容量を予約して特定のインスタンスタイプおよびにアベイラビリティーゾーンへすぐに適用することが可能です。また、いつでもキャンセルすることができます。容量予約フリートにより、インスタンスタイプのプライオリティリスト全体で容量を予約することができます。プライオリティの低いインスタンスタイプに予約した容量が未使用の場合、自動的にプライオリティの高いインスタンスタイプに容量が振り分けられます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:47:22 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634053642]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1447952970964889601#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1447952970964889601#m"/>
+        <updated>2021-10-12T15:51:04.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:47:22 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:38:36 マネジメントコンソール Service disruption: エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634053116]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1447950452809625611#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1447950452809625611#m"/>
+        <updated>2021-10-12T15:41:04.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:38:36 マネジメントコンソール Service disruption: エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:24 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634052624]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1447950451832467466#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1447950451832467466#m"/>
+        <updated>2021-10-12T15:41:03.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:24 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634052623]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1447948439673663488#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1447948439673663488#m"/>
+        <updated>2021-10-12T15:33:04.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
         </author>
     </entry>
     <entry>

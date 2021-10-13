@@ -1,6 +1,49 @@
 {
   "sources": [
     {
+      "title": "AWS障害情報(東京リージョン関連のみ) / @awsstatusjp",
+      "feedUrl": "https://nitter.net/awsstatusjp/rss",
+      "siteUrl": "https://nitter.net/awsstatusjp",
+      "articles": [
+        {
+          "id": "https://nitter.net/awsstatusjp/status/1447952970964889601#m",
+          "author": "@awsstatusjp",
+          "description": "日本時間2021年10月13日(水) 0:47:22 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…",
+          "link": "https://nitter.net/awsstatusjp/status/1447952970964889601#m",
+          "publishedOn": "2021-10-12T15:51:04.000Z",
+          "wordCount": 43,
+          "title": "日本時間2021年10月13日(水) 0:47:22 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634053642"
+        },
+        {
+          "id": "https://nitter.net/awsstatusjp/status/1447950452809625611#m",
+          "author": "@awsstatusjp",
+          "description": "日本時間2021年10月13日(水) 0:38:36 マネジメントコンソール Service disruption: エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…",
+          "link": "https://nitter.net/awsstatusjp/status/1447950452809625611#m",
+          "publishedOn": "2021-10-12T15:41:04.000Z",
+          "wordCount": 43,
+          "title": "日本時間2021年10月13日(水) 0:38:36 マネジメントコンソール Service disruption: エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634053116"
+        },
+        {
+          "id": "https://nitter.net/awsstatusjp/status/1447950451832467466#m",
+          "author": "@awsstatusjp",
+          "description": "日本時間2021年10月13日(水) 0:30:24 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…",
+          "link": "https://nitter.net/awsstatusjp/status/1447950451832467466#m",
+          "publishedOn": "2021-10-12T15:41:03.000Z",
+          "wordCount": 41,
+          "title": "日本時間2021年10月13日(水) 0:30:24 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634052624"
+        },
+        {
+          "id": "https://nitter.net/awsstatusjp/status/1447948439673663488#m",
+          "author": "@awsstatusjp",
+          "description": "日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…",
+          "link": "https://nitter.net/awsstatusjp/status/1447948439673663488#m",
+          "publishedOn": "2021-10-12T15:33:04.000Z",
+          "wordCount": 41,
+          "title": "日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634052623"
+        }
+      ]
+    },
+    {
       "title": "最近の発表",
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
