@@ -6,6 +6,15 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "2b7a2369ff52879174621a66dac5936cf7af988c",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS FPGA Developer キットの仮想イーサネットフレームワークを介した Jumbo フレームのサポートを発表します。このサポートにより、Amazon EC2 F1 インスタンスを使用するデベロッパーは、Jumbo フレームを使用して、インスタンスの最大許容ネットワーク帯域幅を利用し、最大 2 倍のネットワークパフォーマンスを実現できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fpga-jumbo-amazon-ec2-instances/",
+          "publishedOn": "2021-10-14T07:31:59.000Z",
+          "wordCount": 253,
+          "title": "AWS FPGA デベロッパーキットが Amazon EC2 F1 インスタンス向けに仮想イーサネットフレームワークで Jumbo フレームのサポートを開始"
+        },
+        {
           "id": "64a2ed9ca7f54d80e9f5edfefe126306398d2190",
           "author": "aws@amazon.com",
           "description": "独立系ソフトウェアベンダー (ISV) やコンサルティングパートナーを含む AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) から Professional Services の契約内容の確認、提供のキャンセル、提供の有効期限の延長ができるようになりました。AWS Marketplace の Professional Services では、ISV やコンサルティングパートナーが AWS Marketplace に新しい Professional Services のリストを作成し、AWS のお客様に Private Offers を広げることができます。",
@@ -490,6 +499,31 @@
           "publishedOn": "2021-10-08T10:47:19.000Z",
           "wordCount": 245,
           "title": "Amazon SageMaker Data Wrangler で時系列データの準備と可視化をする"
+        }
+      ]
+    },
+    {
+      "title": "Yahoo!天気・災害 - 神奈川県の天気",
+      "feedUrl": "https://rss-weather.yahoo.co.jp/rss/days/14.xml",
+      "siteUrl": "https://weather.yahoo.co.jp/weather/jp/14/",
+      "articles": [
+        {
+          "id": "https://weather.yahoo.co.jp/weather/jp/14/4610.html?d=20211014",
+          "author": null,
+          "description": "晴れ - 24℃/16℃",
+          "link": "https://weather.yahoo.co.jp/weather/jp/14/4610.html?d=20211014",
+          "publishedOn": "2021-10-14T08:00:00.000Z",
+          "wordCount": 280,
+          "title": "【 14日（木） 東部（横浜） 】 晴れ - 24℃/16℃ - Yahoo!天気・災害"
+        },
+        {
+          "id": "https://weather.yahoo.co.jp/weather/jp/14/4620.html?d=20211014",
+          "author": null,
+          "description": "晴時々曇 - 24℃/16℃",
+          "link": "https://weather.yahoo.co.jp/weather/jp/14/4620.html?d=20211014",
+          "publishedOn": "2021-10-14T08:00:00.000Z",
+          "wordCount": 258,
+          "title": "【 14日（木） 西部（小田原） 】 晴時々曇 - 24℃/16℃ - Yahoo!天気・災害"
         }
       ]
     }
