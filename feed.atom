@@ -2,28 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-14T08:30:22.235Z</updated>
+    <updated>2021-10-14T08:53:45.874Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[【 14日（木） 東部（横浜） 】 晴れ - 24℃/16℃ - Yahoo!天気・災害]]></title>
-        <id>https://weather.yahoo.co.jp/weather/jp/14/4610.html?d=20211014</id>
-        <link href="https://weather.yahoo.co.jp/weather/jp/14/4610.html?d=20211014"/>
-        <updated>2021-10-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[晴れ - 24℃/16℃]]></summary>
+        <title type="html"><![CDATA[AWS FPGA デベロッパーキットが Amazon EC2 F1 インスタンス向けに仮想イーサネットフレームワークで Jumbo フレームのサポートを開始]]></title>
+        <id>2b7a2369ff52879174621a66dac5936cf7af988c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fpga-jumbo-amazon-ec2-instances/"/>
+        <updated>2021-10-14T07:31:59.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS FPGA Developer キットの仮想イーサネットフレームワークを介した Jumbo フレームのサポートを発表します。このサポートにより、Amazon EC2 F1 インスタンスを使用するデベロッパーは、Jumbo フレームを使用して、インスタンスの最大許容ネットワーク帯域幅を利用し、最大 2 倍のネットワークパフォーマンスを実現できます。]]></summary>
         <author>
-            <name>Yahoo!天気・災害 - 神奈川県の天気</name>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 14日（木） 西部（小田原） 】 晴時々曇 - 24℃/16℃ - Yahoo!天気・災害]]></title>
-        <id>https://weather.yahoo.co.jp/weather/jp/14/4620.html?d=20211014</id>
-        <link href="https://weather.yahoo.co.jp/weather/jp/14/4620.html?d=20211014"/>
-        <updated>2021-10-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[晴時々曇 - 24℃/16℃]]></summary>
+        <title type="html"><![CDATA[AWS Marketplace が、Professional Services の契約内容の確認や提供のキャンセルおよび延長をサポート]]></title>
+        <id>64a2ed9ca7f54d80e9f5edfefe126306398d2190</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/"/>
+        <updated>2021-10-13T19:37:40.000Z</updated>
+        <summary type="html"><![CDATA[独立系ソフトウェアベンダー (ISV) やコンサルティングパートナーを含む AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) から Professional Services の契約内容の確認、提供のキャンセル、提供の有効期限の延長ができるようになりました。AWS Marketplace の Professional Services では、ISV やコンサルティングパートナーが AWS Marketplace に新しい Professional Services のリストを作成し、AWS のお客様に Private Offers を広げることができます。]]></summary>
         <author>
-            <name>Yahoo!天気・災害 - 神奈川県の天気</name>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkMail が Mobile Device Access Override API と MDM 統合機能を追加]]></title>
+        <id>8cd4d475df068b1a1880e5fda9855f6d5af31d87</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/"/>
+        <updated>2021-10-13T19:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon WorkMail は、Mobile Device Access Rules (MDAR) の機能の拡張を提供できるようになりました。この新しい Mobile Device Access Override API (MDOA) では、CLI を使ってマニュアルで、またはサードパーティーの Mobile Device Management (MDM) ツールを使って自動で、既存の MDAR を調整することができます。お客様は信頼できるサードパーティーの MDM ツールを使用して、セキュリティ体制の評価を実行してから、デバイスに企業リソースへのアクセス許可を付与することができます。新しい API は、デフォルトの MDAR に対する例外の作成と管理を簡素化します。これは、体制の悪いデバイスの WorkMail への接続を許可する必要がある場合や、ユーザーが特定のデバイスの盗難や紛失を報告した場合に適用されます。この場合、個々のデバイスをブロックして、データ漏洩のリスクを軽減することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Tasks が HIPAA に対応]]></title>
+        <id>de701ce25115038ab631a274172f4b763ca12364</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/"/>
+        <updated>2021-10-13T19:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Tasks が HIPAA (Health Insurance Portability and Accountability Act) 対応になりました。Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。HIPAA 対応となることで、保護対象保険情報 (PHI: Protected Health Information) を使用したタスクの優先順位付けや自動化が可能となり、顧客からの問い合わせやサービスリクエストの解決に必要な情報をエージェントに提供することもできます。Salesforce や Zendesk などの顧客関係管理アプリケーション (CRM)、Epic や Cerner などの電子ヘルスレコード (EHR) システム、あるいは自社開発のアプリケーションやビジネス特有のアプリケーションを使って、タスクの優先順位付けや自動化を行うことができます。Amazon Connect は 2017 年より HIPAA 対応です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Instance Scheduler v2.0 の紹介]]></title>
+        <id>11e26d374f5dfd8b0793a7217f9e6c573b26ed70</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/"/>
+        <updated>2021-10-13T19:32:36.000Z</updated>
+        <summary type="html"><![CDATA[AWS Instance Scheduler は、Amazon Elastic Compute Cloud (Amazon EC2 オンデマンドインスタンス) および Amazon Relational Database Service (Amazon RDS) インスタンスのスタートと停止のスケジュールを設定することにより、AWS リソースコストを管理するのに役立つソリューションです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune が Read Replicas 用の Auto Scaling のサポートを開始]]></title>
+        <id>23f07551f36b1af01b3ad700b9b8b451172bdb8d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/"/>
+        <updated>2021-10-13T00:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Neptune Auto Scaling を使用して、指定したパフォーマンスメトリクスの変更に応じて、Read Replicas を自動的に追加または削除できるようになりました。Neptune Read Replicas は、プライマリインスタンスと同じ基になるボリュームを共有し、読み取りスケーリングに適しています。Neptune Auto Scaling を使用すると、平均 CPU 使用率など、Replicas の CloudWatch (CW) メトリクスに必要な値を指定できます。Neptune Auto Scaling では、CW メトリクスが、ユーザーが指定した値に最も近くなるように、Read Replicas の数を調整します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS Anywhere が GPU ベースのワークロードのサポートを開始]]></title>
+        <id>d3d174bc0744f670f28d5e88e03c8dc5d2562398</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ecs-anywhere-gpu/"/>
+        <updated>2021-10-13T00:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Services (ECS) では、お客様は、Amazon ECS Anywhere を使用して、オンプレミスインフラストラクチャを実行するコンテナ化された GPU ベースのワークロードを管理できるようになりました。Amazon ECS Anywhere GPU のサポートにより、お客様は、規制、ネットワークレイテンシー、データ所在地、またはその他の要件のためにオンプレミスで維持する必要がある GPU ベースのアプリケーションをデプロイできます。さらに、エンタープライズは、GPU コンピューティング性能に対する既存の投資を利用して、データをクラウドに転送することなく、機械学習、3D 可視化、画像処理、およびビッグデータのワークロードを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい AWS ソリューションのご紹介: Amazon Lex 上に構築されたセルフサービスの対話型チャットボットである AWS QnABot]]></title>
+        <id>be2cf59bfabe3103eccd2692abb78aef92fc4333</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-aws-qnabot-chatbot-built-amazon-lex/"/>
+        <updated>2021-10-13T00:01:51.000Z</updated>
+        <summary type="html"><![CDATA[AWS QnABot が公式の AWS ソリューション実装としてリリースされたことをお知らせします。AWS QnABot は、Amazon Lex をベースに構築され、お客様の質問に対応して回答し、フィードバックを提供する、オープンソース、マルチチャネル、マルチ言語の対話型チャットボットです。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい AWS ソリューション: Maintaining Personalized Experiences using Machine Learning]]></title>
+        <id>31253bbae9e96075d5de91b46c9c63089afcb689</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/"/>
+        <updated>2021-10-12T22:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning の提供の開始を発表します。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup で AWS Backup Vault Lock が利用可能になり、バックアップ保護のためのレイヤーがさらに追加]]></title>
+        <id>4132ce6b095a67215f07defadf8556e5e6e4f75d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/"/>
+        <updated>2021-10-12T22:01:07.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Backup は、AWS Backup Vault Lock の提供開始を発表しました。この新機能は、不注意または悪意のあるアクションから、お客様がより強力にバックアップを保護できるようにします。これは、お客様が Write-Once-Read-Many (WORM) モデル*を使用してバックアップを確実に保存するための保護手段を実装するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Transfer Family の顧客は、Amazon S3 Access Point のエイリアスをきめ細やかで、シンプルなデータアクセスコントロールに活用できるようになりました]]></title>
+        <id>9411e6efa93e4250b574067e57c086e83d94b77b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/"/>
+        <updated>2021-10-12T20:35:41.000Z</updated>
+        <summary type="html"><![CDATA[AWS Transfer Family は、Amazon S3 の機能である Amazon S3 アクセスポイントをサポートするようになりました。これにより、共有データセットのアクセスを簡単に、きめ細かく管理することができます。S3 アクセスポイントのエイリアスは現在、何百もの SFTP、FTP、FTPS のユーザーやグループによって活用されている共有データセットに使われている S3 バケット名であればどこでも使用することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Braket が D-Wave の Advantage 4.1 の量子アニーリングシステムを提供]]></title>
+        <id>07a86927abde02e4739def856df1ddc656f763cf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/"/>
+        <updated>2021-10-12T20:34:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS 量子コンピューティングサービスである Amazon Braket で D-Wave の Advantage 4.1 量子アニーリングシステムにアクセスできるようになりました。D-Wave によると、新しい Advantage 量子処理ユニット (QPU) は 5,000 を超えるアクティブな量子ビットを備え、15 通りの接続方法があるため、研究者やデベロッパーはより大規模かつ複雑な最適化の問題を研究できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RDS Performance Insights はさらに 4 つのリージョンでご利用可能に]]></title>
+        <id>b78fa969f230d1fccd370677d2b0d4b2937f0363</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/"/>
+        <updated>2021-10-12T20:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) Performance Insights は中東 (バーレーン)、アフリカ (ケープタウン)、欧州 (ミラノ)、アジア太平洋 (大坂) でもご利用可能になりました。Amazon RDS Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup Audit Manager が AWS CloudFormation のサポートを開始]]></title>
+        <id>efef47cc1c0dec9607c4d14d12f0411b50cf02c8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/"/>
+        <updated>2021-10-12T20:33:16.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup Audit Managerer は AWS CloudFormation をサポートし、AWS CloudFormation のテンプレートを使って、データ保護ポリシーのコンプライアンスに関する監査やレポートができるようになりました。AWS CloudFormation テンプレートを使って AWS Backup Audit Manager のプレビルドされたカスタマイズ可能な管理機能をデプロイし、すべてのバックアップがポリシーに準拠しているかどうかを評価することができるようになりました。また、監査レポートを生成することにより、オペレーション状況をモニタリングしたり、バックアップが規制要件に準拠していることを証明したりすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションのサポートを発表]]></title>
+        <id>d023e411ab8df227043796b8dee9e5cbca91b220</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/"/>
+        <updated>2021-10-12T20:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションをサポートしており、AWS アカウントやリージョンが同じでも、異なっても、ドメインから別のドメインへのインデックスの複製や同期を低レイテンシーで自動化することが可能になりました。クロスクラスターレプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup Audit Manager はコンプライアンスレポートを追加しました]]></title>
+        <id>3c6c61e2868ecb4df2905bcdba37095a9a3a298c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/"/>
+        <updated>2021-10-12T20:31:36.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup Audit Manager により、AWS Backup で定義したデータ保護ポリシーのコンプライアンスを追跡するためのレポートを生成できるようになりました。指定した Amazon S3 バケット内のコンプライアンスレポートに、AWS Backup Audit Manager でレポートプランを作ることができます。これらのレポートを使って、データ保護ポリシー違反を特定し、修復を実行し、規制要件を満たすためにデータ保護ポリシーのコンプライアンスを実証することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 容量予約フリートは、インスタンスタイプ全体で、Amazon EC2 容量予約のマイグレーションを容易にします]]></title>
+        <id>10a2457ecf5bfbe30494d91a3f3c4c0f2d63c446</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/"/>
+        <updated>2021-10-12T20:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 容量予約フリートを使うことで、 予約した Amazon EC2 の容量を新しく作成したインスタンスタイプに簡単にマイグレーションすることができます。容量予約により、容量を予約して特定のインスタンスタイプおよびにアベイラビリティーゾーンへすぐに適用することが可能です。また、いつでもキャンセルすることができます。容量予約フリートにより、インスタンスタイプのプライオリティリスト全体で容量を予約することができます。プライオリティの低いインスタンスタイプに予約した容量が未使用の場合、自動的にプライオリティの高いインスタンスタイプに容量が振り分けられます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -64,6 +214,386 @@
         <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
         <author>
             <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda は現在 Amazon MSK のイベントソースとして IAM 認証をサポートしています]]></title>
+        <id>4d873ebbd33d7891b2dbd07b3ef57c2b3d56bc9e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/"/>
+        <updated>2021-10-12T09:35:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda関数は、Amazon MSK トピックでトリガーされ、IAM Access Control によって保護された MSK クラスターにアクセスできるようになりました。これは、Lambda ですでにサポートされている SASL/SCRAM に追加されます。使用を開始するには、Lambda 関数のイベントソースで MSK を選択された場合、Lambda からクラスターに接続してトピックで読み込むために関数の実行ロールを設定できます。この機能は追加料金なしで使用でき、Amazon MSK が AWS Lambda のイベントソースとしてサポートされているすべてのAWS リージョンで利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight が Pixel-Perfect のダッシュボードのサポートを追加]]></title>
+        <id>8dfe8060799fe88f52712f134224cdfd96ae012d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/"/>
+        <updated>2021-10-12T09:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、新しい自由形式レイアウトモードで pixel-perfect のダッシュボードをサポートします。作成者は、自由形式レイアウトでコンテンツのオーバーラップのサポートを含め、QuickSight のダッシュボードでビジュアル要素のサイズや配置を、ピクセルレベルで正確にコントロールできます。さらに作成者は、背景色、透明度、ボーダー色、選択色、ローディングアニメーションの可視性、ビジュアルコンテキストメニュー、オンビジュアルメニューなど、自由形式レイアウトの QuickSight ビジュアルで追加属性を設定できます。自由形式レイアウトは、ビジュアル要素の条件付きレンダリングもサポートしており、作成者はQuickSight パラメータ値に基づいたコンテンツの表示、非表示の設定ができ、内容に応じたテキスト、ビジュアル、イメージの表示が可能です。これらのオプションを組み合わせ、作成者は QuickSight でエンドユーザーがデータから重要な分析を理解できる、複雑でインタラクティブなダッシュボードで創造力を披露することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise は、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (東京) の AWS リージョンで利用可能]]></title>
+        <id>2f9dd1009d6dc1e1e4abb3dfd60d4e7a744318c7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/"/>
+        <updated>2021-10-12T09:33:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise がムンバイ、ソウル、東京の各 AWS リージョンで利用可能となり、そのフットプリントを 11 の AWS リージョンに拡大しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker の高速ファイルモードを発表]]></title>
+        <id>a0dfa34b126c58bd0f71432b7acbf40777b941a0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-sagemaker-fast-file-mode/"/>
+        <updated>2021-10-12T09:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMakerは、トレーニングジョブのデータアクセスのために高速ファイルモードをサポートしています。これで、既存のファイルモードからコードを変更せずにAmazon S3 で直接ストリーミングすることで、ハイパフォーマンスなデータアクセスが可能になります。例えば、100GB のデータセットで K-Means クラスタリングモデルのトレーニングは、ファイルモードで 28 分かかったのに対し、高速ファイルモードでは 5 分ほどでした (82% 減)。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra は 34 言語のサポートを開始]]></title>
+        <id>d4bb2a0b69fe52f3980902239d310a3adc1ddc0d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/"/>
+        <updated>2021-10-12T09:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendraは、34 言語のサポートを追加してドキュメントや、よくある質問をキーワード検索できるようにしました。Amazon Kendra は、機械学習を原動力とする高精度のインテリジェント検索サービスです。サポートされる 1 言語以上のコンテンツをお使いの場合、Amazon Kendra でネイティブ言語サポートを使用し、コンテンツのインデックス作成や検索ができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Personalize で類似アイテムのレコメンデーションの関連性を強化する新しいレシピが提供開始]]></title>
+        <id>9962778e6b44c29b1357c0ff5447ce8810a90b08</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/"/>
+        <updated>2021-10-12T09:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Personalizeの新しいレシピを発表され、このレシピでは与えられたアイテムで、ユーザーアイテムのインタラクションデータと、アイテムのメタデータ両方に基づいた類似アイテムをおすすめします。過去のユーザーインタラクションと、お使いのアイテムに関する情報を組み合わせて、レコメンデーションの関連性を強化し、類似アイテムを確保することでユーザーの注目度が高まります。アイテム間の類似点を評価するために、ユーザー履歴でアイテムが一緒に見つかる頻度を測定します。ベンチマークとして、新しいレシピはインタラクションデータのみを使ったレシピに比べ、類似アイテムを識別する精度が 10.2% 高いことが分かりました。これは、ユーザーが見ているものに一番関連したアイテムを見つけやすくなることを意味します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue DataBrew が AWS アフリカ (ケープタウン) リージョンで利用可能に]]></title>
+        <id>c881aa7c1edc7294e190c7a08b09904aecea495e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/"/>
+        <updated>2021-10-11T21:31:50.000Z</updated>
+        <summary type="html"><![CDATA[データアナリストやデータサイエンティストが分析や機械学習のためにデータを簡単にクリーンアップおよび正規化できるようにするビジュアルデータ準備ツールである AWS Glue DataBrew は、AWS アフリカ (ケープタウン) リージョンでご利用いただけるようになりました。AWS リージョン表を参照して、DataBrew が利用できるリージョンをご確認ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Firewall Manager が AWS Network Firewall ログの一元的なログ記録のサポートを開始]]></title>
+        <id>526b3dddd99f291310690a4be9b17ffb29fded92</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/"/>
+        <updated>2021-10-11T21:30:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Firewall Manager で、Firewall Manager ポリシーを使用してプロビジョンされた AWS Network Firewall のログ記録を設定できるようになりました。Network Firewall の Firewall Manager ポリシーを設定すると、ポリシーの対象となっているすべてのアカウントについてのログ記録を有効にし、Firewall Manager の管理者アカウントでログを一元化できるようになりました。これにより、単一の Firewall Manager ポリシーを介して、複数のアカウントと VPC で AWS Network Firewall のログ記録を簡単に有効にすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Snowcone が米国東部 (オハイオ)、米国西部 (サンフランシスコ)、南米 (サンパウロ) の各リージョンで利用可能に]]></title>
+        <id>c7294ea14ee0834a623e4fe6f36f705c0fae7a5f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/"/>
+        <updated>2021-10-11T21:05:06.000Z</updated>
+        <summary type="html"><![CDATA[AWS Snowcone サービスは、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、および南米 (サンパウロ) でご注文いただけるようになりました。今回のリリースにより、Snowcone は、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、南米 (サンパウロ)、AWS アジアパシフィック (シンガポール)、アジアパシフィック (東京)、カナダ (中部)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、米国東部 (バージニア北部)、および米国西部 (オレゴン) リージョンでご注文いただけるようになりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送デバイスの AWS Snow ファミリーの最も小さなメンバーです。Snowcone は、持ち運び可能で、耐久性と安全性に優れてます。小型かつ軽量でリュックサックに収まり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理し、そのデータをオフライン (デバイスを AWS に発送することにより) またはオンライン (Snowcone で AWS DataSync を使用してネットワーク経由で AWS にデータを送信することにより) で AWS に移動します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アラートマネージャーとルールのサポートを備えた Amazon Managed Service for Prometheus の一般提供を開始]]></title>
+        <id>bfb510cc29ae766ce22009de93ff97cb4ee24be8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-managed-service-prometheus-alert-manager-rules/"/>
+        <updated>2021-10-11T21:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Service for Prometheus が一般公開されました。Amazon Managed Service for Prometheus は、フルマネージドの Prometheus 互換のモニタリングサービスであり、運用メトリクスを大規模かつ簡単にモニタリングして、アラートを発信できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise が AWS GovCloud (米国西部) リージョンで利用可能に]]></title>
+        <id>5af16a17681dd58f527ac4662abe617c0fcec5a7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-sitewise-aws-govcloud-us-west-region/"/>
+        <updated>2021-10-11T21:03:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise が AWS GovCloud (米国西部) リージョンで利用可能となり、そのフットプリントを 8 の AWS リージョンに拡大しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECR Public がコンテナを AWS App Runner に直接起動する機能を追加]]></title>
+        <id>9bb6464d233de83075377f31a2c609284a224364</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ecr-public-containers-aws-app-runner/"/>
+        <updated>2021-10-11T21:02:40.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry Public (Amazon ECR Public) は、ECR Public Gallery から AWS App Runner に直接コンテナを起動して、人気のあるウェブアプリケーションコンテナイメージを迅速にテストするための機能を発表しました。AWS App Runner は、デベロッパーによるウェブアプリケーションや API の迅速なデプロイをより簡単にするフルマネージドサービスです。大規模に、事前のインフラ経験を必要とせずにデプロイできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Events が AWS GovCloud (米国西部) リージョンで利用可能に]]></title>
+        <id>8af390461655be74500acf37fcc9d904c6a6af97</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-events-available-aws-govcloud-us-west-region/"/>
+        <updated>2021-10-11T21:01:51.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Events は、AWS GovCloud (米国西部) リージョンで利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton2 プロセッサを利用する AWS Lambda 関数を使用して最大 34% 優れた料金/パフォーマンスを実現]]></title>
+        <id>a908ebde5b426c0453e0053d7976b40cac767cd8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/"/>
+        <updated>2021-10-11T21:00:59.000Z</updated>
+        <summary type="html"><![CDATA[次世代の AWS Graviton2 プロセッサを利用する AWS Lambda 関数が一般的に利用可能となりました。Arm ベースのプロセッサアーキテクチャを使用する Graviton2 関数は、ウェブおよびモバイルバックエンド、データ、メディア処理などのさまざまなサーバーレスワークロードのために、最大 19% 優れたパフォーマンスを 20% 低いコストで提供するように設計されています。AWS Graviton2 プロセッサを使用する関数は、レイテンシーが低くパフォーマンスが優れているため、ミッションクリティカルなサーバーレスアプリケーションのために使用するのが理想的です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK メディアキャプチャパイプラインは、カスタマイズ可能なメディアキャプチャのための API を設定する機能を追加]]></title>
+        <id>2d222b24fea87136fa2223732b9141354f06e7fb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/"/>
+        <updated>2021-10-11T20:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。メディアキャプチャパイプラインによって、デベロッパーは Amazon Chime SDK ミーティングのコンテンツをキャプチャし、選択した Amazon Simple Storage Service (Amazon S3) バケットに保存できるようになりました。本日よりデベロッパーは、API を設定して音声、動画、コンテンツのストリームをキャプチャする方法を簡単に切り替え、アプリケーションのメディアキャプチャエクスペリエンスを、カスタマイズすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Mac インスタンスが追加の AWS リージョンでご利用可能に]]></title>
+        <id>2f808ce01ad39b82a8702ee5590f9e3760e628c2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/"/>
+        <updated>2021-10-11T20:32:55.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon EC2Mac インスタンスは、欧州 (ストックホルム)、欧州 (ロンドン)、欧州 (フランクフルト)、アジアパシフィック (ソウル)、アジアパシフィック (東京)、アジアパシフィック (ムンバイ)、アジアパシフィック (シドニー) リージョンで利用できます。Apple の Mac mini コンピュータ上に構築された EC2 Mac インスタンスにより、お客様は AWS クラウドでオンデマンドの macOS ワークロードを初めて実行できるようになり、すべての Apple デベロッパーが AWS の柔軟性、スケーラビリティ、およびコストメリットから恩恵を受けることができます。EC2 Mac インスタンスを使用すると、iPhone、iPad、Mac、Apple Watch、Apple TV、および Safari 用アプリケーションを構築するデベロッパーは、macOS 環境を数分でプロビジョニングしてアクセスできます。EC2 Mac を使用すると、デベロッパーは必要に応じて動的に容量を拡張でき、AWS 従量制料金制を活用したアプリケーションの開発、構築、テスト、署名、公開を行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex はフルフィルメントの進捗状況の更新を開始]]></title>
+        <id>982848b3e75cfe2775d194d291f793ee92af62ce</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-lex-progress-updates/"/>
+        <updated>2021-10-11T20:32:06.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon Lexボットを設定するとユーザーリクエストが処理されている間、定期的に更新を行うことができます。カスタマーサポートでの会話は、ビジネスロジックの実行が必要になることが多く、完了までに時間がかかる場合があります。例えば、旅程の変更を航空会社の予約システムで行う場合、ピーク時には数分かかることがあります。通常、サポートエージェントが通話を保留にしてリクエストが実行されるまで、定期的に更新を行います (例:「リクエストを実行中です。ご不便をおかけしますがしばらくお待ちください」)。会話中、このように定期的な更新を自動的に行えるよう、簡単にボットを設定できるようになりました。進捗状況の更新機能を使うことで、ボットビルダーは、仮想コンタクトセンターエージェントとスマートアシスタントの機能をすばやく強化することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が改善された管理コンソールを装備]]></title>
+        <id>e21a4e6b8cbc5442ca3b074f6b84809f7c9627a6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/"/>
+        <updated>2021-10-11T20:31:15.000Z</updated>
+        <summary type="html"><![CDATA[更新された Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) の管理コンソールは、サービスでの OpenSearch や Elasticsearch クラスターの設定管理に関する全体的なエクスペリエンスを高めています。新しいコンソールは、ドメインの作成や更新、ドメインに関する情報をより簡単に入手できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Application Migration Service は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) の各リージョンでご利用いただけるようになりました。]]></title>
+        <id>e9efcbb95275a74a59f30cb57399a0672ee40713</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/"/>
+        <updated>2021-10-11T09:46:45.000Z</updated>
+        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) といった 4 つの追加の AWS リージョンでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for PostgreSQL の新しいマイナーバージョン 13.4、12.8、11.13、10.18 および 9.6.23、 Outposts Supports の Amazon RDS の新しい PostgreSQL マイナーバージョン 13.4 および 12.8]]></title>
+        <id>97f02e142a457d7df895293befc9d18f6f2bfcf5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/"/>
+        <updated>2021-10-11T09:38:37.000Z</updated>
+        <summary type="html"><![CDATA[PostgreSQL データベースのアップデートの発表に伴い、PostgreSQL のマイナーバージョン 13.4、12.8、11.13、10.18、および 9.6.23 をサポートするために、Amazon Relational Database Service (Amazon RDS) をアップデートしました。また、Outposts の Amazon RDS に PostgreSQL マイナーバージョン 13.4 および 12.8 のサポートを追加しました。このリリースでは、PostgreSQL のセキュリティの脆弱性が解消されており、PostgreSQL コミュニティによって行われたバグ修正や機能改善が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Location Service は、変更検出を追加]]></title>
+        <id>a91a71f3336f718b7af2bc9882583b34cb071ff8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-location-service-change-detection/"/>
+        <updated>2021-10-11T09:35:46.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Location Service は、デバイスの位置情報更新に距離ベースのフィルタリングを追加します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR が Apache Ranger 統合が有効になっている場合に Apache Spark SQL をサポートし、Apache Hive メタデータテーブルにデータを挿入したり、Apache Hive メタデータテーブルを更新したりすることが可能に]]></title>
+        <id>cde5a5087490fa05ae0431ad88b8dd61183ae275</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/"/>
+        <updated>2021-10-11T09:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR と Apache Ranger の統合を使用する場合に、Apache Hive メタデータテーブルを更新するために Apache Spark SQL を使用することについてのサポートを発表します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Cloud on AWS Outposts の一般提供開始を発表]]></title>
+        <id>f0085b4068a30f81d69132b346ef1c0f37041cff</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/"/>
+        <updated>2021-10-11T09:31:40.000Z</updated>
+        <summary type="html"><![CDATA[VMware Cloud on AWS Outposts は、共同設計されたソリューションで、事実上 AWS Outposts を備えたデータセンター、コロケーションスペース、またはオンプレミス施設のほぼすべてに、VMware Cloud on AWS をフルマネージドエクスペリエンスとして提供します。VMware のエンタープライズクラスの Software-Defined Data Center (SDDC) ソフトウェアを、AWS Nitro System ベースの EC2 ベアメタルアウトポスト専用インスタンス上で実行します。VMware Cloud on AWS Outposts は、オンプレミスのシステム、ローカルのデータ処理、またはデータレジデンシーへの低レイテンシーのアクセスを必要とする VMware ワークロードのために構築されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Sagemaker Studio から直接 Amazon EMR クラスターの Apache Spark、Hive および Presto を使用して、ラージスケールのデータ処理や機械学習ができるようになりました。]]></title>
+        <id>e0424da0e327aae881563eaf07c087dd4456de79</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/"/>
+        <updated>2021-10-11T08:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR クラスターで実行されている Apache Spark、Apache Hive および Prestoなどのオープンソースフレームワークを、直接 Amazon SageMaker Studio ノートブックから使用して、ペタバイトスケールのデータ分析や機械学習を実行できるようになりました。Amazon EMR はオープンソースフレームワークを自動的にインストールして設定し、標準のオープンソースと互換性があり、より高速な、パフォーマンスに最適化されたランタイムを提供します。例：Amazon EMR の Spark 3.0 は同等のオープンソースに比べ、1.7 倍高速です。Amazon SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。大量のデータの分析、変換、準備は、データサイエンスと ML ワークフローの基本的なステップです。今回のリリースにて、EMR クラスターで実行されている Apache Spark、Hive および Presto などの一般的なフレームワークを直接 Sagemaker Studio から使用して、データサイエンスや ML ワークフローを簡素化することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK で Apache Kafka バージョン 2.8.1 のサポート追加]]></title>
+        <id>86ffc324ad6fcf69cddaf165b62a8333a9be939a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/"/>
+        <updated>2021-10-11T08:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 2.8.1 のサポートが開始されました。Apache Kafka 2.8.1 には、いくつかのバグ修正が含まれています。これらの修正の詳細については、Apache Kafka 2.8.1 のリリースノートを確認してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が別のアカウントの Amazon SQS キューからの Lambda 関数のトリガーのサポートを開始]]></title>
+        <id>8a6d69891e6d9674e78aa2fd064ce4faa2420329</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/"/>
+        <updated>2021-10-11T08:33:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda では、異なる AWS アカウントにある Amazon Simple Queue Service (Amazon SQS) キューから関数をトリガーできるようになりました。これまでは、お客様は同じアカウントの SQS キューからのみ Lambda 関数をトリガーできました。本日より、お客様は、各アカウントでイベントソースをレプリケートすることなく、複数の AWS アカウントで Lambda 関数を作成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS アカウントの代替連絡先をプログラムで管理できるようになりました]]></title>
+        <id>211367e08ca1129b2a4d482b75458d3fd0c6de71</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/"/>
+        <updated>2021-10-11T08:31:53.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS コマンドラインインターフェイス (CLI) と AWS SDK を使用して、AWS アカウントの代替連絡先を簡単に表示および更新できるようになりました。これで、アカウントの請求、運用、セキュリティの連絡先をプログラムで最新の状態に保ち、AWS アカウントに関する重要な通知を確実に受け取れるようになります。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS による AWS Fargate のクロック精度のモニタリング]]></title>
+        <id>8c6a508a927361b746254800e6893eef325074ab</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/"/>
+        <updated>2021-10-08T15:01:38.000Z</updated>
+        <summary type="html"><![CDATA[AWS Fargate で実行している Amazon ECS タスクのシステム時間の精度をモニタリングできるようになりました。 Fargate で動作するタイムセンシティブなワークロードの場合、これによりお客様はクロックエラーのプロキシとして使用されるクロックエラーバウンドをモニタリングし、基準時間とシステム時間の差が閾値を超えたかどうかを知ることができます。この機能は Amazon Time Sync Service を利用して、クロック精度を測定し、コンテナのクロックエラーバウンドを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS サービスディスカバリが AWS GovCloud (米国) リージョン内で利用可能に]]></title>
+        <id>12a5842a6325e9e398e042340217fe8120b0f128</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/"/>
+        <updated>2021-10-08T15:00:49.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon Elastic Container Service (ECS) は、AWS GovCloud (米国) リージョンで統合サービスディスカバリを開始します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Monitron が iOS アプリケーション を発売]]></title>
+        <id>c3a5a5bd73b0996b06ae553b48f2105e677e4113</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-monitron-ios-app/"/>
+        <updated>2021-10-08T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Monitron iOS アプリケーションのリリースを発表いたします。今回の iOS アプリケーションは、従来の Android アプリケーションに加えて、お客様が Amazon Monitron を利用する際の選択肢が増えました。iPhone ユーザーは、Amazon Monitron iOS アプリケーションを使用して、センサーやゲートウェイ機器を設定し、動作状況のレポートや機器の潜在的な障害に対するアラートを受け取ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify Geo for AWS Amplify の一般提供開始を発表]]></title>
+        <id>df7de09dd9bdc21f371551fabd4a2209330dc100</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/"/>
+        <updated>2021-10-08T14:33:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amplify Geo for JavaScript が、8 月の最初のデベロッパープレビューリリースに続き、一般提供を開始しましたのでお知らせします。Amplify Geo を利用すると、フロントエンドのデベロッパーはウェブアプリケーションに位置情報認識機能をすばやく追加できます。Amplify Geo は、Auth、DataStore、Storage といった既存の Amplify のユースケースのカテゴリーを拡張して、Amazon Location Service の上に構築された抽象化されたクライアントライブラリのセットや、人気のオープンソースライブラリである MapLibre をベースにしたすぐに使えるマップ UI コンポーネントを含んでいます。Amplify Geo は、Amplify Command Line Interface (CLI) ツールもアップデートし、AWS に詳しくない人でも、必要なクラウドサービスをすべてプロビジョニングすることで、一般的なマッピングのユースケースを簡単に実現することができます]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SES が 2048 ビットの DKIM キーをサポート]]></title>
+        <id>c5c0dbad165a819c15de5249bdcf9912761ca600</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/"/>
+        <updated>2021-10-08T14:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Email Service (Amazon SES) のお客様は、2048 ビットのドメインキーアイデンティファイドメール (DKIM) キーを使用して、メールのセキュリティを強化できるようになりました。DKIM は、特定のドメインから送られてきたとクレームする電子メールが、そのドメインの所有者によって実際に承認されたものであることを確認するために設計された、E メールセキュリティ基準です。パブリックキー暗号化を使用して、プライベートキーで E メールに署名します。受信者側サーバーはドメインの DNS に公開されたパブリックキーを使用して、送信中に E メールの一部が変更されていないことを確認できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が、次世代の Amazon Redshift クエリエディタを発表]]></title>
+        <id>6b17bb8ffd4710f2aacc0e022b4168de0bda0680</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/"/>
+        <updated>2021-10-08T14:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift クエリエディタ V2 は、データアナリスト、データサイエンティスト、データベースデベロッパーなどの SQL ユーザー向けのウェブベースのツールにより、Amazon Redshift データウェアハウスおよびデータレイク内のデータへのアクセスを簡単にします。クエリエディタ V2 により、データの探索、分析、共同作業ができます。インフラストラクチャを管理することなく、データの探索に集中できるウェブベースのアプリケーションを提供することで、クエリツール管理の運用コストを削減できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[横串検索の新しいデータソースとして、Amazon RDS for MySQL および Amazon Aurora MySQL データベースの一般提供開始を発表]]></title>
+        <id>f022e17cf8e69f4ed70325f7635687ef8ae3da1d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/"/>
+        <updated>2021-10-08T14:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift の横串検索機能により、多くのお客様は、運用データベースのライブデータを Amazon Redshift データウェアハウスのデータおよび Amazon S3 データレイク環境のデータと組み合わせて、企業内のすべてのデータにわたって統合された分析ビューを得ることができます。今回、Amazon Redshift 横串検索のサポートが、既存の Amazon Aurora PostgreSQL および Amazon RDS for PostgreSQL データベースに加えて、Amazon Aurora MySQL および Amazon RDS for MySQL データベースで一般利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Mesh が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に]]></title>
+        <id>95715c0c652af8f51fb322fb777d3f7d83638a52</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/"/>
+        <updated>2021-10-08T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Mesh が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS App Mesh はアプリケーションレベルのネットワークを提供し、さまざまな種類のコンピューティングインフラストラクチャにわたり、お客様のサービスが相互に通信することを容易にするサービスメッシュです。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Network Firewall がルールの順序とデフォルトドロップの新しい設定オプションを追加]]></title>
+        <id>77a19823cd428becc735de65f8286bb0ac247a18</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/"/>
+        <updated>2021-10-08T13:01:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Network Firewall で、ルールの順序やデフォルトドロップに関する新しい設定オプションが提供され、Virtual Private Cloud (VPC) のトラフィックをモニタリングするためのルールの書き込みや処理が容易になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Elastic Beanstalk が Elastic Beanstalk 環境でのデータベースデカップリングをサポート]]></title>
+        <id>590a866c37159826591dd4c077b8800b290783e0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/"/>
+        <updated>2021-10-08T13:01:09.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elastic Beanstalk は、Elastic Beanstalk 環境で動作するデータベースのデカップリングをサポートするようになりました。これまで、Elastic Beanstalk で作成したデータベースインスタンスは、環境のライフサイクルに縛られていました。このリリースにより、データベースインスタンスのライフサイクルがアプリケーションの環境のライフサイクルに縛られることがなくなり、Elastic Beanstalk で管理するデータベースと Beanstalk 環境を切り離すことができます。環境の健全性はデカップリングオペレーションによって影響を受けず、データベースを外部データベースとして運用し続けることができ、複数の環境が接続できるようになります。また、データベースを運用したまま Elastic Beanstalk 環境を終了させるオプションもあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で時系列データの準備と可視化をする]]></title>
+        <id>46657b3b55667b1b90e88ead51ed4325ed5cd0c5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/"/>
+        <updated>2021-10-08T10:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
