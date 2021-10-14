@@ -6,6 +6,42 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "64a2ed9ca7f54d80e9f5edfefe126306398d2190",
+          "author": "aws@amazon.com",
+          "description": "独立系ソフトウェアベンダー (ISV) やコンサルティングパートナーを含む AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) から Professional Services の契約内容の確認、提供のキャンセル、提供の有効期限の延長ができるようになりました。AWS Marketplace の Professional Services では、ISV やコンサルティングパートナーが AWS Marketplace に新しい Professional Services のリストを作成し、AWS のお客様に Private Offers を広げることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/",
+          "publishedOn": "2021-10-13T19:37:40.000Z",
+          "wordCount": 238,
+          "title": "AWS Marketplace が、Professional Services の契約内容の確認や提供のキャンセルおよび延長をサポート"
+        },
+        {
+          "id": "8cd4d475df068b1a1880e5fda9855f6d5af31d87",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkMail は、Mobile Device Access Rules (MDAR) の機能の拡張を提供できるようになりました。この新しい Mobile Device Access Override API (MDOA) では、CLI を使ってマニュアルで、またはサードパーティーの Mobile Device Management (MDM) ツールを使って自動で、既存の MDAR を調整することができます。お客様は信頼できるサードパーティーの MDM ツールを使用して、セキュリティ体制の評価を実行してから、デバイスに企業リソースへのアクセス許可を付与することができます。新しい API は、デフォルトの MDAR に対する例外の作成と管理を簡素化します。これは、体制の悪いデバイスの WorkMail への接続を許可する必要がある場合や、ユーザーが特定のデバイスの盗難や紛失を報告した場合に適用されます。この場合、個々のデバイスをブロックして、データ漏洩のリスクを軽減することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/",
+          "publishedOn": "2021-10-13T19:34:14.000Z",
+          "wordCount": 260,
+          "title": "Amazon WorkMail が Mobile Device Access Override API と MDM 統合機能を追加"
+        },
+        {
+          "id": "de701ce25115038ab631a274172f4b763ca12364",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Tasks が HIPAA (Health Insurance Portability and Accountability Act) 対応になりました。Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。HIPAA 対応となることで、保護対象保険情報 (PHI: Protected Health Information) を使用したタスクの優先順位付けや自動化が可能となり、顧客からの問い合わせやサービスリクエストの解決に必要な情報をエージェントに提供することもできます。Salesforce や Zendesk などの顧客関係管理アプリケーション (CRM)、Epic や Cerner などの電子ヘルスレコード (EHR) システム、あるいは自社開発のアプリケーションやビジネス特有のアプリケーションを使って、タスクの優先順位付けや自動化を行うことができます。Amazon Connect は 2017 年より HIPAA 対応です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/",
+          "publishedOn": "2021-10-13T19:33:24.000Z",
+          "wordCount": 289,
+          "title": "Amazon Connect Tasks が HIPAA に対応"
+        },
+        {
+          "id": "11e26d374f5dfd8b0793a7217f9e6c573b26ed70",
+          "author": "aws@amazon.com",
+          "description": "AWS Instance Scheduler は、Amazon Elastic Compute Cloud (Amazon EC2 オンデマンドインスタンス) および Amazon Relational Database Service (Amazon RDS) インスタンスのスタートと停止のスケジュールを設定することにより、AWS リソースコストを管理するのに役立つソリューションです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/",
+          "publishedOn": "2021-10-13T19:32:36.000Z",
+          "wordCount": 259,
+          "title": "AWS Instance Scheduler v2.0 の紹介"
+        },
+        {
           "id": "23f07551f36b1af01b3ad700b9b8b451172bdb8d",
           "author": "aws@amazon.com",
           "description": "Amazon Neptune Auto Scaling を使用して、指定したパフォーマンスメトリクスの変更に応じて、Read Replicas を自動的に追加または削除できるようになりました。Neptune Read Replicas は、プライマリインスタンスと同じ基になるボリュームを共有し、読み取りスケーリングに適しています。Neptune Auto Scaling を使用すると、平均 CPU 使用率など、Replicas の CloudWatch (CW) メトリクスに必要な値を指定できます。Neptune Auto Scaling では、CW メトリクスが、ユーザーが指定した値に最も近くなるように、Read Replicas の数を調整します。",
@@ -454,51 +490,6 @@
           "publishedOn": "2021-10-08T10:47:19.000Z",
           "wordCount": 245,
           "title": "Amazon SageMaker Data Wrangler で時系列データの準備と可視化をする"
-        },
-        {
-          "id": "2dd717cffb5d31f5b3fd27f3a12b16f589c3c093",
-          "author": "aws@amazon.com",
-          "description": "AWS ソリューションチームは最近、すべての Amazon WorkSpaces 使用状況データを分析し、個々の使用状況に応じて、WorkSpace を最も費用対効果の高い請求オプション (時間単位または月単位) に自動的に変換するソリューションである Amazon Workspaces Cost Optimizer を更新しました。このソリューションは、WorkSpace の使用状況をモニタリングし、コストを最適化するのにも役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-cost-optimizer-v2-4/",
-          "publishedOn": "2021-10-07T07:34:15.000Z",
-          "wordCount": 226,
-          "title": "Amazon Workspaces Cost Optimizer v2.4 のご紹介"
-        },
-        {
-          "id": "7f47a7a3c1815bc53c55dfcb7b7030023f9a3584",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、PostGIS メジャーバージョン 3.1 をサポートするようになりました。この新しいバージョンの PostGIS は、PostgreSQL バージョン 13.4、12.8、11.13、10.18 以降で利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-postgresql-postgis-3-1/",
-          "publishedOn": "2021-10-07T07:33:26.000Z",
-          "wordCount": 260,
-          "title": "Amazon RDS for PostgreSQL が PostGIS 3.1 をサポート"
-        },
-        {
-          "id": "25296fcdd5ab47376583d6370ebf06ff77d69fa6",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon Textract は、AWS PrivateLink のサポートを両方の AWS GovCloud (米国) リージョンに拡張します。お客様は、AWS GovCloud (米国) でパブリック IP を使用せずに Amazon Virtual Private Cloud (Amazon VPC) から Amazon Textract にアクセスできるようになりました。トラフィックがインターネットを経由する必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/",
-          "publishedOn": "2021-10-07T07:32:37.000Z",
-          "wordCount": 263,
-          "title": "Amazon Textract が AWS PrivateLink のサポートを AWS GovCloud (米国) リージョンに拡張"
-        },
-        {
-          "id": "3d7a2ec8cfef9ebb8c3ef942f0e952a8b9e21a4d",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 は、Ubuntu 20.04 LTS オペレーティングシステムの休止機能をサポートするようになりました。休止機能を使用すると、EC2 インスタンスを完全に終了して再起動するのではなく、一時停止して後で再開することができます。インスタンスを再開すると、アプリケーションを中断したところから続行できるため、OS とアプリケーションを最初から再起動する必要がありません。休止機能は、アプリケーションの状態の再構築に時間がかかる場合 (デベロッパーのデスクトップなど)、またはスケールアウトの前にアプリケーションの起動手順を準備できる場合に役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/",
-          "publishedOn": "2021-10-07T07:31:47.000Z",
-          "wordCount": 245,
-          "title": "Amazon EC2 休止機能が Ubuntu 20.04 LTS のサポートを追加"
-        },
-        {
-          "id": "123f680666cece9195b733c3a31f38670c89ac62",
-          "author": "aws@amazon.com",
-          "description": "AWS License Manager は、マネージド使用権限のための Delegated Administrator のサポートを開始しました。この機能を使用することで、ライセンス管理者は、管理アカウントの外部の委任されたアカウントから AWS アカウント全体でライセンスを管理および配布できます。委任された管理者を使用すると、組織全体で AWS Marketplace および独立系ソフトウェアベンダーからライセンスを付与し、以前は管理アカウントにのみ提供されていた管理機能の恩恵を受けることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-license-manager-delegated-administrator-managed-entitlements/",
-          "publishedOn": "2021-10-07T07:30:58.000Z",
-          "wordCount": 239,
-          "title": "AWS License Manager がマネージド使用権限のための Delegated Administrator のサポートを開始"
         }
       ]
     }
