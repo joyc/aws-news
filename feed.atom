@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-17T00:22:06.419Z</updated>
+    <updated>2021-10-18T00:21:41.207Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -539,96 +539,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/"/>
         <updated>2021-10-11T20:31:15.000Z</updated>
         <summary type="html"><![CDATA[更新された Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) の管理コンソールは、サービスでの OpenSearch や Elasticsearch クラスターの設定管理に関する全体的なエクスペリエンスを高めています。新しいコンソールは、ドメインの作成や更新、ドメインに関する情報をより簡単に入手できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Application Migration Service は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) の各リージョンでご利用いただけるようになりました。]]></title>
-        <id>e9efcbb95275a74a59f30cb57399a0672ee40713</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/"/>
-        <updated>2021-10-11T09:46:45.000Z</updated>
-        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) といった 4 つの追加の AWS リージョンでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL の新しいマイナーバージョン 13.4、12.8、11.13、10.18 および 9.6.23、 Outposts Supports の Amazon RDS の新しい PostgreSQL マイナーバージョン 13.4 および 12.8]]></title>
-        <id>97f02e142a457d7df895293befc9d18f6f2bfcf5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/"/>
-        <updated>2021-10-11T09:38:37.000Z</updated>
-        <summary type="html"><![CDATA[PostgreSQL データベースのアップデートの発表に伴い、PostgreSQL のマイナーバージョン 13.4、12.8、11.13、10.18、および 9.6.23 をサポートするために、Amazon Relational Database Service (Amazon RDS) をアップデートしました。また、Outposts の Amazon RDS に PostgreSQL マイナーバージョン 13.4 および 12.8 のサポートを追加しました。このリリースでは、PostgreSQL のセキュリティの脆弱性が解消されており、PostgreSQL コミュニティによって行われたバグ修正や機能改善が含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Location Service は、変更検出を追加]]></title>
-        <id>a91a71f3336f718b7af2bc9882583b34cb071ff8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-location-service-change-detection/"/>
-        <updated>2021-10-11T09:35:46.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Location Service は、デバイスの位置情報更新に距離ベースのフィルタリングを追加します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR が Apache Ranger 統合が有効になっている場合に Apache Spark SQL をサポートし、Apache Hive メタデータテーブルにデータを挿入したり、Apache Hive メタデータテーブルを更新したりすることが可能に]]></title>
-        <id>cde5a5087490fa05ae0431ad88b8dd61183ae275</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/"/>
-        <updated>2021-10-11T09:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR と Apache Ranger の統合を使用する場合に、Apache Hive メタデータテーブルを更新するために Apache Spark SQL を使用することについてのサポートを発表します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Cloud on AWS Outposts の一般提供開始を発表]]></title>
-        <id>f0085b4068a30f81d69132b346ef1c0f37041cff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/"/>
-        <updated>2021-10-11T09:31:40.000Z</updated>
-        <summary type="html"><![CDATA[VMware Cloud on AWS Outposts は、共同設計されたソリューションで、事実上 AWS Outposts を備えたデータセンター、コロケーションスペース、またはオンプレミス施設のほぼすべてに、VMware Cloud on AWS をフルマネージドエクスペリエンスとして提供します。VMware のエンタープライズクラスの Software-Defined Data Center (SDDC) ソフトウェアを、AWS Nitro System ベースの EC2 ベアメタルアウトポスト専用インスタンス上で実行します。VMware Cloud on AWS Outposts は、オンプレミスのシステム、ローカルのデータ処理、またはデータレジデンシーへの低レイテンシーのアクセスを必要とする VMware ワークロードのために構築されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Sagemaker Studio から直接 Amazon EMR クラスターの Apache Spark、Hive および Presto を使用して、ラージスケールのデータ処理や機械学習ができるようになりました。]]></title>
-        <id>e0424da0e327aae881563eaf07c087dd4456de79</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/"/>
-        <updated>2021-10-11T08:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR クラスターで実行されている Apache Spark、Apache Hive および Prestoなどのオープンソースフレームワークを、直接 Amazon SageMaker Studio ノートブックから使用して、ペタバイトスケールのデータ分析や機械学習を実行できるようになりました。Amazon EMR はオープンソースフレームワークを自動的にインストールして設定し、標準のオープンソースと互換性があり、より高速な、パフォーマンスに最適化されたランタイムを提供します。例：Amazon EMR の Spark 3.0 は同等のオープンソースに比べ、1.7 倍高速です。Amazon SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。大量のデータの分析、変換、準備は、データサイエンスと ML ワークフローの基本的なステップです。今回のリリースにて、EMR クラスターで実行されている Apache Spark、Hive および Presto などの一般的なフレームワークを直接 Sagemaker Studio から使用して、データサイエンスや ML ワークフローを簡素化することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MSK で Apache Kafka バージョン 2.8.1 のサポート追加]]></title>
-        <id>86ffc324ad6fcf69cddaf165b62a8333a9be939a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/"/>
-        <updated>2021-10-11T08:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 2.8.1 のサポートが開始されました。Apache Kafka 2.8.1 には、いくつかのバグ修正が含まれています。これらの修正の詳細については、Apache Kafka 2.8.1 のリリースノートを確認してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda が別のアカウントの Amazon SQS キューからの Lambda 関数のトリガーのサポートを開始]]></title>
-        <id>8a6d69891e6d9674e78aa2fd064ce4faa2420329</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/"/>
-        <updated>2021-10-11T08:33:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda では、異なる AWS アカウントにある Amazon Simple Queue Service (Amazon SQS) キューから関数をトリガーできるようになりました。これまでは、お客様は同じアカウントの SQS キューからのみ Lambda 関数をトリガーできました。本日より、お客様は、各アカウントでイベントソースをレプリケートすることなく、複数の AWS アカウントで Lambda 関数を作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS アカウントの代替連絡先をプログラムで管理できるようになりました]]></title>
-        <id>211367e08ca1129b2a4d482b75458d3fd0c6de71</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/"/>
-        <updated>2021-10-11T08:31:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS コマンドラインインターフェイス (CLI) と AWS SDK を使用して、AWS アカウントの代替連絡先を簡単に表示および更新できるようになりました。これで、アカウントの請求、運用、セキュリティの連絡先をプログラムで最新の状態に保ち、AWS アカウントに関する重要な通知を確実に受け取れるようになります。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
