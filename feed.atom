@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-19T00:22:35.868Z</updated>
+    <updated>2021-10-20T00:22:43.101Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中央アメリカ、中東、およびアフリカ向けの Amazon Forecast Weather Index]]></title>
+        <id>c70ddebffedc40c3aa7943013680de35e1e2419c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-forecast-weather-index-central-america-middle-east-africa/"/>
+        <updated>2021-10-19T17:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Forecast Weather Index が中米、中東、およびアフリカの各リージョンで利用できるようになったことをお知らせいたします。Weather Index を使用すれば、地域の最新の気象情報をワンクリックで自動的に需要予測に取り込むことで、予測の精度を高めることができます。追加費用は発生しません。気象条件は、消費者の需要パターン、製品の商品化の決定、人員配置の要件、およびエネルギー消費のニーズに影響を与えます。ただし、需要予測のためにライブ気象情報を取得、クリーニング、および効果的に使用することは困難であり、継続的なメンテナンスが必要となります。今回のリリースにより、北米、南米、ヨーロッパ、アジアパシフィックで Weather Index をご利用になっていたお客様は、需要予測にワンクリックで中米、中東、およびアフリカの 14 日間の天気予報も含めることができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シドニー大学、International Brain Laboratory、交通部中央気象局 (台湾) などの新しいデータセットがオープンデータのレジストリで利用可能に]]></title>
+        <id>e7361c05545e0ca6e9a1b6bf11d6ace32ece5b13</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/new-datasets-available-on-the-registry-of-open-data/"/>
+        <updated>2021-10-19T17:03:34.000Z</updated>
+        <summary type="html"><![CDATA[オープンデータのレジストリで利用可能になったシドニー大学、International Brain Laboratory、交通部中央気象局 (台湾) などの 26 の新しいデータセットを紹介します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 が Microsoft Windows Server 2022 AMI での Microsoft SQL Server の提供を開始]]></title>
+        <id>73ce302d9d82895496872a3ac7c021957c8d2204</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-microsoft-sql-server-windows-ami/"/>
+        <updated>2021-10-19T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Windows Server 2022 上で実行する SQL Server 2019 および 2017 を含む 8 つの新しい Amazon マシンイメージ (AMI) が Amazon EC2 に追加されました。これらの AWS マネージド AMI を使用すると、Windows Server 2022 上で SQL Server を起動して、最新の Windows 機能を AWS で利用できるようになります。AMI は 4 つのエディション (Enterprise、Standard、Web、Express) で利用可能です。詳細については、以下のリストを参照してください。
+ 
+* Windows_Server-2022-English-Full-SQL_2019_Enterprise
+ * Windows_Server-2022-English-Full-SQL_2019_Standard
+ * Windows_Server-2022-English-Full-SQL_2019_Web
+ * Windows_Server-2022-English-Full-SQL_2019_Express
+ * Windows_Server-2022-English-Full-SQL_2017_Enterprise
+ * Windows_Server-2022-English-Full-SQL_2017_Standard
+ * Windows_Server-2022-English-Full-SQL_2017_Web
+ * Windows_Server-2022-English-Full-SQL_2017_Express]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Load Testing on AWS v2.0.0 の紹介]]></title>
+        <id>06c15858555a3751a530379d3a50713cd007f989</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/"/>
+        <updated>2021-10-19T17:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Distributed Load Testing on AWS は、大規模および負荷時のソフトウェアアプリケーションテストを自動化して、リリース前に性能上の潜在的なパフォーマンスの問題を特定することのできるソリューションです。このソリューションは、一定のペースでトランザクションレコードを生成する数多くの接続ユーザーを作成およびシミュレートします。サーバーをプロビジョニングする必要はありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue クローラーが Amazon S3 イベント通知を使用して起動可能に]]></title>
+        <id>30719b8d436c81a5dcbfa67d30fead73316c2571</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/"/>
+        <updated>2021-10-19T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue には、Amazon S3 とリレーショナルデータベース内のデータをスキャンしてスキーマを抽出して、メタデータを最新の状態に維持する AWS Glue Data Catalog に自動的に入力するクローラーが含まれています。この機能により、新しく取り込まれたデータを任意の分析および機械学習ツールですぐに利用することができるので、インサイトを取得するための時間が削減されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS RoboMaker がロボットおよびシミュレーションソフトウェアの拡張設定のサポートを開始]]></title>
         <id>40587046c55d873b855998901bd356044f1ed855</id>
@@ -331,166 +390,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[AWS Instance Scheduler は、Amazon Elastic Compute Cloud (Amazon EC2 オンデマンドインスタンス) および Amazon Relational Database Service (Amazon RDS) インスタンスのスタートと停止のスケジュールを設定することにより、AWS リソースコストを管理するのに役立つソリューションです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Neptune が Read Replicas 用の Auto Scaling のサポートを開始]]></title>
-        <id>23f07551f36b1af01b3ad700b9b8b451172bdb8d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/"/>
-        <updated>2021-10-13T00:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Neptune Auto Scaling を使用して、指定したパフォーマンスメトリクスの変更に応じて、Read Replicas を自動的に追加または削除できるようになりました。Neptune Read Replicas は、プライマリインスタンスと同じ基になるボリュームを共有し、読み取りスケーリングに適しています。Neptune Auto Scaling を使用すると、平均 CPU 使用率など、Replicas の CloudWatch (CW) メトリクスに必要な値を指定できます。Neptune Auto Scaling では、CW メトリクスが、ユーザーが指定した値に最も近くなるように、Read Replicas の数を調整します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS Anywhere が GPU ベースのワークロードのサポートを開始]]></title>
-        <id>d3d174bc0744f670f28d5e88e03c8dc5d2562398</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ecs-anywhere-gpu/"/>
-        <updated>2021-10-13T00:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Services (ECS) では、お客様は、Amazon ECS Anywhere を使用して、オンプレミスインフラストラクチャを実行するコンテナ化された GPU ベースのワークロードを管理できるようになりました。Amazon ECS Anywhere GPU のサポートにより、お客様は、規制、ネットワークレイテンシー、データ所在地、またはその他の要件のためにオンプレミスで維持する必要がある GPU ベースのアプリケーションをデプロイできます。さらに、エンタープライズは、GPU コンピューティング性能に対する既存の投資を利用して、データをクラウドに転送することなく、機械学習、3D 可視化、画像処理、およびビッグデータのワークロードを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい AWS ソリューションのご紹介: Amazon Lex 上に構築されたセルフサービスの対話型チャットボットである AWS QnABot]]></title>
-        <id>be2cf59bfabe3103eccd2692abb78aef92fc4333</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-aws-qnabot-chatbot-built-amazon-lex/"/>
-        <updated>2021-10-13T00:01:51.000Z</updated>
-        <summary type="html"><![CDATA[AWS QnABot が公式の AWS ソリューション実装としてリリースされたことをお知らせします。AWS QnABot は、Amazon Lex をベースに構築され、お客様の質問に対応して回答し、フィードバックを提供する、オープンソース、マルチチャネル、マルチ言語の対話型チャットボットです。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい AWS ソリューション: Maintaining Personalized Experiences using Machine Learning]]></title>
-        <id>31253bbae9e96075d5de91b46c9c63089afcb689</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/"/>
-        <updated>2021-10-12T22:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning の提供の開始を発表します。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup で AWS Backup Vault Lock が利用可能になり、バックアップ保護のためのレイヤーがさらに追加]]></title>
-        <id>4132ce6b095a67215f07defadf8556e5e6e4f75d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/"/>
-        <updated>2021-10-12T22:01:07.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Backup は、AWS Backup Vault Lock の提供開始を発表しました。この新機能は、不注意または悪意のあるアクションから、お客様がより強力にバックアップを保護できるようにします。これは、お客様が Write-Once-Read-Many (WORM) モデル*を使用してバックアップを確実に保存するための保護手段を実装するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family の顧客は、Amazon S3 Access Point のエイリアスをきめ細やかで、シンプルなデータアクセスコントロールに活用できるようになりました]]></title>
-        <id>9411e6efa93e4250b574067e57c086e83d94b77b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/"/>
-        <updated>2021-10-12T20:35:41.000Z</updated>
-        <summary type="html"><![CDATA[AWS Transfer Family は、Amazon S3 の機能である Amazon S3 アクセスポイントをサポートするようになりました。これにより、共有データセットのアクセスを簡単に、きめ細かく管理することができます。S3 アクセスポイントのエイリアスは現在、何百もの SFTP、FTP、FTPS のユーザーやグループによって活用されている共有データセットに使われている S3 バケット名であればどこでも使用することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Braket が D-Wave の Advantage 4.1 の量子アニーリングシステムを提供]]></title>
-        <id>07a86927abde02e4739def856df1ddc656f763cf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/"/>
-        <updated>2021-10-12T20:34:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS 量子コンピューティングサービスである Amazon Braket で D-Wave の Advantage 4.1 量子アニーリングシステムにアクセスできるようになりました。D-Wave によると、新しい Advantage 量子処理ユニット (QPU) は 5,000 を超えるアクティブな量子ビットを備え、15 通りの接続方法があるため、研究者やデベロッパーはより大規模かつ複雑な最適化の問題を研究できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RDS Performance Insights はさらに 4 つのリージョンでご利用可能に]]></title>
-        <id>b78fa969f230d1fccd370677d2b0d4b2937f0363</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/"/>
-        <updated>2021-10-12T20:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) Performance Insights は中東 (バーレーン)、アフリカ (ケープタウン)、欧州 (ミラノ)、アジア太平洋 (大坂) でもご利用可能になりました。Amazon RDS Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Audit Manager が AWS CloudFormation のサポートを開始]]></title>
-        <id>efef47cc1c0dec9607c4d14d12f0411b50cf02c8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/"/>
-        <updated>2021-10-12T20:33:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Audit Managerer は AWS CloudFormation をサポートし、AWS CloudFormation のテンプレートを使って、データ保護ポリシーのコンプライアンスに関する監査やレポートができるようになりました。AWS CloudFormation テンプレートを使って AWS Backup Audit Manager のプレビルドされたカスタマイズ可能な管理機能をデプロイし、すべてのバックアップがポリシーに準拠しているかどうかを評価することができるようになりました。また、監査レポートを生成することにより、オペレーション状況をモニタリングしたり、バックアップが規制要件に準拠していることを証明したりすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションのサポートを発表]]></title>
-        <id>d023e411ab8df227043796b8dee9e5cbca91b220</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/"/>
-        <updated>2021-10-12T20:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションをサポートしており、AWS アカウントやリージョンが同じでも、異なっても、ドメインから別のドメインへのインデックスの複製や同期を低レイテンシーで自動化することが可能になりました。クロスクラスターレプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Audit Manager はコンプライアンスレポートを追加しました]]></title>
-        <id>3c6c61e2868ecb4df2905bcdba37095a9a3a298c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/"/>
-        <updated>2021-10-12T20:31:36.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Audit Manager により、AWS Backup で定義したデータ保護ポリシーのコンプライアンスを追跡するためのレポートを生成できるようになりました。指定した Amazon S3 バケット内のコンプライアンスレポートに、AWS Backup Audit Manager でレポートプランを作ることができます。これらのレポートを使って、データ保護ポリシー違反を特定し、修復を実行し、規制要件を満たすためにデータ保護ポリシーのコンプライアンスを実証することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 容量予約フリートは、インスタンスタイプ全体で、Amazon EC2 容量予約のマイグレーションを容易にします]]></title>
-        <id>10a2457ecf5bfbe30494d91a3f3c4c0f2d63c446</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/"/>
-        <updated>2021-10-12T20:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 容量予約フリートを使うことで、 予約した Amazon EC2 の容量を新しく作成したインスタンスタイプに簡単にマイグレーションすることができます。容量予約により、容量を予約して特定のインスタンスタイプおよびにアベイラビリティーゾーンへすぐに適用することが可能です。また、いつでもキャンセルすることができます。容量予約フリートにより、インスタンスタイプのプライオリティリスト全体で容量を予約することができます。プライオリティの低いインスタンスタイプに予約した容量が未使用の場合、自動的にプライオリティの高いインスタンスタイプに容量が振り分けられます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:47:22 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634053642]]></title>
-        <id>https://nitter.net/awsstatusjp/status/1447952970964889601#m</id>
-        <link href="https://nitter.net/awsstatusjp/status/1447952970964889601#m"/>
-        <updated>2021-10-12T15:51:04.000Z</updated>
-        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:47:22 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
-        <author>
-            <name>@awsstatusjp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:38:36 マネジメントコンソール Service disruption: エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634053116]]></title>
-        <id>https://nitter.net/awsstatusjp/status/1447950452809625611#m</id>
-        <link href="https://nitter.net/awsstatusjp/status/1447950452809625611#m"/>
-        <updated>2021-10-12T15:41:04.000Z</updated>
-        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:38:36 マネジメントコンソール Service disruption: エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
-        <author>
-            <name>@awsstatusjp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:24 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634052624]]></title>
-        <id>https://nitter.net/awsstatusjp/status/1447950451832467466#m</id>
-        <link href="https://nitter.net/awsstatusjp/status/1447950451832467466#m"/>
-        <updated>2021-10-12T15:41:03.000Z</updated>
-        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:24 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
-        <author>
-            <name>@awsstatusjp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  http://status.aws.amazon.com/#management-console_1634052623]]></title>
-        <id>https://nitter.net/awsstatusjp/status/1447948439673663488#m</id>
-        <link href="https://nitter.net/awsstatusjp/status/1447948439673663488#m"/>
-        <updated>2021-10-12T15:33:04.000Z</updated>
-        <summary type="html"><![CDATA[日本時間2021年10月13日(水) 0:30:23 マネジメントコンソール お知らせ エラー発生率上昇 for AWS Management Console  status.aws.amazon.com/#manag…]]></summary>
-        <author>
-            <name>@awsstatusjp</name>
         </author>
     </entry>
 </feed>
