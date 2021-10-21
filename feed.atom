@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-20T00:22:43.101Z</updated>
+    <updated>2021-10-21T00:23:26.892Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用した自動データ有効期限切れのサポートを開始]]></title>
+        <id>cb4320263e037d5ca7a934d998160d1beeb03c72</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/"/>
+        <updated>2021-10-20T10:31:58.000Z</updated>
+        <summary type="html"><![CDATA[スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用して自動データ有効期限をサポートするようになりました。TTL を使用する場合、テーブルの属性または行に有効期限を設定し、Keyspaces はそうした有効期限が切れた属性または行を自動的に削除します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkSpaces Windows Server 2019 バンドルが AWS GovCloud (米国西部) リージョンで利用可能に]]></title>
+        <id>0cf84d2d2e21becde6707b4bd8d5325671f86b3b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/"/>
+        <updated>2021-10-20T10:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon WorkSpaces は、Windows Server 2019 を搭載した新しいバンドルの提供開始により、AWS GovCloud (米国西部) リージョンで、64 ビット Microsoft Office 2019 Professional Plus バンドルオプションとともに Windows 10 デスクトップエクスペリエンスを提供します。この機能は、Windows 10 デスクトップエクスペリエンスを更新し、最新の Windows バージョンを必要とするアプリケーションの実行を可能にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS ネットワークコンピテンシーコンサルティングパートナーのご紹介]]></title>
+        <id>671899499f7c6391b276ce82c8747f8b1100ede7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-networking-competency-partners/"/>
+        <updated>2021-10-20T03:32:37.000Z</updated>
+        <summary type="html"><![CDATA[本日、当社はコンサルティングのための AWS ネットワークコンピテンシーコンサルティングパートナーを発表しました。これらのパートナーは、一貫性のあるネットワークとセキュリティポリシーの開発、およびプライベートバックボーンとクラウドコアを介してトラフィックをルーティングする新しい方法を提供するソリューションに関する深い専門知識を有しています。AWS ネットワークコンピテンシーコンサルティングパートナーは、お客様がクラウドへの安全なイングレスと便利なオンランプを提供して、レイテンシーを軽減し、可用性を向上させ、アプリケーションエクスペリエンスを強化し、クラウドネットワークの可視性とコントロールを提供するのを支援します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppFlow が AWS アフリカ (ケープタウン) リージョンで利用可能に]]></title>
+        <id>77397e677fd1082fcfddbb7673b26c15234b832f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/"/>
+        <updated>2021-10-20T03:30:58.000Z</updated>
+        <summary type="html"><![CDATA[AWS のサービスとクラウドアプリケーション間でお客様がデータを安全に転送するのに役立つフルマネージド統合サービスである Amazon AppFlow は、AWS アフリカ (ケープタウン) リージョンで利用可能になりました。AppFlow を利用すると、Salesforce、SAP、Zendesk、Slack、および ServiceNow などの SaaS (Software-as-a-Service) アプリケーションと、Amazon S3 や Amazon Redshift などの AWS のサービスの間で、たった数回クリックするだけで、エンタープライズ規模でデータフローを実行できます。AWS リージョン表を参照して、Amazon AppFlow が利用できるリージョンをご確認ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeRTOS が対称型マルチプロセッシング (SMP) のサポートを追加]]></title>
+        <id>1102df66346225b6b346ca383e69d58e0c9f3ef1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/"/>
+        <updated>2021-10-20T02:31:55.000Z</updated>
+        <summary type="html"><![CDATA[FreeRTOS は、カーネルに対称型マルチプロセッシング (SMP) サポートを追加します。これにより、FreeRTOS ベースのアプリケーションを設計するデベロッパーがマルチコアマイクロコントローラーの SMP 機能を利用することが可能となります。2 つ以上の同一のプロセッサコアが同じメモリを共有するマルチコアマイクロコントローラを使用すると、オペレーティングシステムはコア間でタスクを分散して、アプリケーションの必要に応じてプロセッサの負荷を分散できます。これにより、アプリケーションはマルチコアマイクロコントローラーのリソース使用率を最適化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porting Assistant for .NET が WCF、OWIN、および System.Web.Mvc アプリケーションの評価と移植のサポートを追加]]></title>
+        <id>16ff083a505f26d01f76f9dca656987510ea2211</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/"/>
+        <updated>2021-10-20T02:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Porting Assistant for .NET は、Windows Communication Foundation (WCF)、Open Web Interface for .NET (OWIN)、および ASP.NET System.Web.Mvc 名前空間の評価と .NET Core 3.1 または .NET 5 への移植をサポートするようになりました。2021 年 2 月の Core WCF プロジェクトの一般提供リリースに続いて、Porting Assistant は、WCF アプリケーションを Core WCF に移植するためのレコメンデーションを評価および提供できるようになりました。また、OWIN および System.Web.Mvc 名前空間の設定の評価と .NET Core 3.1 または .NET 5 への移植もサポートしています。デベロッパーは、既存の Porting Assistant for .NET ツールまたは Porting Assistant for .NET Visual Studio IDE 拡張機能を使用して開始できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中央アメリカ、中東、およびアフリカ向けの Amazon Forecast Weather Index]]></title>
         <id>c70ddebffedc40c3aa7943013680de35e1e2419c</id>
@@ -288,106 +348,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/"/>
         <updated>2021-10-14T18:32:47.000Z</updated>
         <summary type="html"><![CDATA[Apache ActiveMQ 5.16.3 ブローカーが Amazon MQ で起動可能になりました。ActiveMQ のこのバージョンアップデートには、これまでサポートしていたバージョンである ActiveMQ 5.16.2 からのいくつかの修正と機能の改善が含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB の NoSQL Workbench で、サンプルデータのインポートと自動追加が可能になりデータモデルの構築と可視化が簡単に]]></title>
-        <id>e06f9fff2c3a818127f7a6e70690234dcaa22479</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/nosql-workbench-amazon-dynamodb-import-populate-sample-data-build-visualize-data-models/"/>
-        <updated>2021-10-14T10:37:07.000Z</updated>
-        <summary type="html"><![CDATA[ポイントアンドクリックインターフェースを使用して非リレーショナルデータモデルを設計、可視化、クエリするのを助けるクライアント側のツール、NoSQL Workbench for DynamoDB により、データモデルの構築と可視化に役立つサンプルデータインポートおよび自動追加が容易になりました。サンプルデータを csv ファイルから新しいデータモデルおよび既存のデータモデルにインポートできるようになりました。NoSQL Workbench オペレーションビルダから .csv ファイルのクエリ結果をエクスポートすることもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fraud Detector がイベントデータセットのサポートを開始]]></title>
-        <id>88c408c090ca4813dea723b878ff694efc994b47</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-fraud-detector-event-datasets/"/>
-        <updated>2021-10-14T10:36:15.000Z</updated>
-        <summary type="html"><![CDATA[私達は、Amazon Fraud Detector のイベントデータストレージについて発表することができとても興奮しています。この新機能により、お客様は本番稼働の不正データを Amazon Fraud Detector 内に直接簡単に送信および保存できます。このモデルはアカウントの年数や購入頻度などの値を自動的に計算することで新しいイベントに過去のコンテキストを適用できるため、お客様はイベントデータセットを使用して、より予測パフォーマンスの高い機械学習 (ML) モデルをトレーニングできます。新しいトレーニングデータセットを S3 にアップロードせずにモデルを取得できるため素早い動きも可能です。また、保存されたイベントの不正ラベルを更新することにより、オフライン不正調査からフィードバックループをクローズできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fraud Detector がオンライン取引の不正検出のための新たな機械学習モデルをリリース]]></title>
-        <id>8e1d6fc2af82418744be90eaa14e73509a350753</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/"/>
-        <updated>2021-10-14T10:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Fraud Detector は、取引不正検出インサイトモデルを発表できることに興奮しています。このモデルは、オンラインカードレス決済決済の不正を検出するために特別に設計された低レイテンシーの不正検出機械学習 (ML) モデルです。他の Amazon Fraud Detector モデルのように、取引不正インサイトは Amazon および AWS の 20 年以上の不正検出の専門知識を活かしたサービスです。この新しい取引不正インサイトモデルタイプは、Amazon Fraud Detector の前モデルタイプであるオンライン不正インサイトと比較して、不正取引検出率は最大 30% 増、パフォーマンスの維持期間は最大 6 か月長くなりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS は AWS GovCloud (米国) リージョンの MySQL の T3 インスタンスタイプおよび MariaDB データベースをサポート]]></title>
-        <id>60d3c900b67ef662f8a7ad249d982488a0ed4a7a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-t3-mysql-mariadb-aws-govcloud/"/>
-        <updated>2021-10-14T10:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MySQL および AWS GovCloud (米国) リージョンの Amazon RDS for MariaDB を使用する際に、T3 データベースインスタンスタイプを起動できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS がAmazon Fraud Detector 機械学習不正予測の料金を最大 56% 値下げすることを発表]]></title>
-        <id>a064c708640859d4ec95aa6f9fa3706e4c9e67d9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-price-reduction-amazon-fraud-detector/"/>
-        <updated>2021-10-14T10:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Fraud Detector の機械学習 (ML) に基づく不正予測の料金値下げに関する発表ができとても嬉しいです。Fraud Detector は、偽アカウントの作成やオンライン決済詐欺といった、不正の疑いのあるオンライン活動を簡単に特定できるフルマネージドサービスです。内部で ML を使用し、Amazon の 20 年以上かけて蓄積してきた不正検出の専門知識に基づいて、Fraud Detector は、潜在的な不正行為をミリ秒単位で自動的に識別します。機械学習の専門知識は必要ありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS FPGA デベロッパーキットが Amazon EC2 F1 インスタンス向けに仮想イーサネットフレームワークで Jumbo フレームのサポートを開始]]></title>
-        <id>2b7a2369ff52879174621a66dac5936cf7af988c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fpga-jumbo-amazon-ec2-instances/"/>
-        <updated>2021-10-14T07:31:59.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS FPGA Developer キットの仮想イーサネットフレームワークを介した Jumbo フレームのサポートを発表します。このサポートにより、Amazon EC2 F1 インスタンスを使用するデベロッパーは、Jumbo フレームを使用して、インスタンスの最大許容ネットワーク帯域幅を利用し、最大 2 倍のネットワークパフォーマンスを実現できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Marketplace が、Professional Services の契約内容の確認や提供のキャンセルおよび延長をサポート]]></title>
-        <id>64a2ed9ca7f54d80e9f5edfefe126306398d2190</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/"/>
-        <updated>2021-10-13T19:37:40.000Z</updated>
-        <summary type="html"><![CDATA[独立系ソフトウェアベンダー (ISV) やコンサルティングパートナーを含む AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) から Professional Services の契約内容の確認、提供のキャンセル、提供の有効期限の延長ができるようになりました。AWS Marketplace の Professional Services では、ISV やコンサルティングパートナーが AWS Marketplace に新しい Professional Services のリストを作成し、AWS のお客様に Private Offers を広げることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkMail が Mobile Device Access Override API と MDM 統合機能を追加]]></title>
-        <id>8cd4d475df068b1a1880e5fda9855f6d5af31d87</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/"/>
-        <updated>2021-10-13T19:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkMail は、Mobile Device Access Rules (MDAR) の機能の拡張を提供できるようになりました。この新しい Mobile Device Access Override API (MDOA) では、CLI を使ってマニュアルで、またはサードパーティーの Mobile Device Management (MDM) ツールを使って自動で、既存の MDAR を調整することができます。お客様は信頼できるサードパーティーの MDM ツールを使用して、セキュリティ体制の評価を実行してから、デバイスに企業リソースへのアクセス許可を付与することができます。新しい API は、デフォルトの MDAR に対する例外の作成と管理を簡素化します。これは、体制の悪いデバイスの WorkMail への接続を許可する必要がある場合や、ユーザーが特定のデバイスの盗難や紛失を報告した場合に適用されます。この場合、個々のデバイスをブロックして、データ漏洩のリスクを軽減することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Tasks が HIPAA に対応]]></title>
-        <id>de701ce25115038ab631a274172f4b763ca12364</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/"/>
-        <updated>2021-10-13T19:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Tasks が HIPAA (Health Insurance Portability and Accountability Act) 対応になりました。Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。HIPAA 対応となることで、保護対象保険情報 (PHI: Protected Health Information) を使用したタスクの優先順位付けや自動化が可能となり、顧客からの問い合わせやサービスリクエストの解決に必要な情報をエージェントに提供することもできます。Salesforce や Zendesk などの顧客関係管理アプリケーション (CRM)、Epic や Cerner などの電子ヘルスレコード (EHR) システム、あるいは自社開発のアプリケーションやビジネス特有のアプリケーションを使って、タスクの優先順位付けや自動化を行うことができます。Amazon Connect は 2017 年より HIPAA 対応です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Instance Scheduler v2.0 の紹介]]></title>
-        <id>11e26d374f5dfd8b0793a7217f9e6c573b26ed70</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/"/>
-        <updated>2021-10-13T19:32:36.000Z</updated>
-        <summary type="html"><![CDATA[AWS Instance Scheduler は、Amazon Elastic Compute Cloud (Amazon EC2 オンデマンドインスタンス) および Amazon Relational Database Service (Amazon RDS) インスタンスのスタートと停止のスケジュールを設定することにより、AWS リソースコストを管理するのに役立つソリューションです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
