@@ -12,6 +12,42 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "33350c560af8e099efac6e8074ec9495fb4eb5b4",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。本日より、デベロッパーは、Amazon Chime SDK でチャネルフローを使用して、メッセージングチャネルのメンバーに配信される前に、送信中のメッセージに対してビジネスロジックを実行できるようになりました。チャネルフローを使用すると、メッセージから政府発行の ID 番号や電話番号などの機密データ、または罵り言葉を、配信前に削除するフローを作成できます。これは、企業のコミュニケーションポリシーやその他のコミュニケーションガイドラインの遵守に役立つ場合があります。結果を参加者に返信する前に投票への応答の集計などの機能を実行するために、チャネルフローを使用することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/",
+          "publishedOn": "2021-10-21T17:32:26.000Z",
+          "wordCount": 251,
+          "title": "Amazon Chime SDK がメッセージングチャネルフローを発表"
+        },
+        {
+          "id": "d49410d0906e8aae370238920815017b213727a2",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS データベースプレビュー環境での PostgreSQL 14 RC 1 の利用が可能になり、お客様に Amazon Relational Database Service (Amazon RDS) でリリース候補の PostgreSQL 14 をテストしていただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/",
+          "publishedOn": "2021-10-21T17:05:46.000Z",
+          "wordCount": 286,
+          "title": "PostgreSQL 14 RC 1 が Amazon RDS データベースプレビュー環境で利用可能に"
+        },
+        {
+          "id": "164945d33cc98a6b9c46f522d8cfece462cbf3f9",
+          "author": "aws@amazon.com",
+          "description": "AWS Elemental MediaConvert は、IMSC 1.1 テキストプロファイルの字幕のリッチテキストレンダリングと TTML 字幕形式をサポートするようになりました。これらの形式は両方とも、テキストサイズ、位置、両端揃え、色、スタイル、および影付きを含む詳細なフォーマットを可能にします。多くの視聴者にとって、画面上の字幕は視聴体験の重要な部分であり、この機能により、字幕の作成者は画面上でのテキストのレンダリング方法をよりクリエイティブに制御できます。さらに、IMSC と TTML では、右から左へのテキスト、ルビ、垂直テキストなど、テキストローカリゼーションのためのより多くのオプションを使用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/",
+          "publishedOn": "2021-10-21T17:04:57.000Z",
+          "wordCount": 242,
+          "title": "AWS Elemental MediaConvert が IMSC 1.1および TTML 字幕テキストのリッチテキストレンダリングのサポートを開始"
+        },
+        {
+          "id": "22a4b8354008b63bad76c253e6b2a3e2f1b345f1",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkSpaces は、WorkSpaces イメージを最新の AWS ドライバーで最新の状態に保つために使用できる API を提供するようになりました。これまでは、WorkSpaces インスタンスを手動で起動し、ドライバーの更新をインストールして新しいイメージを作成することにより、WorkSpaces イメージを最新の状態に保っていました。このリリースでは、WorkSpaces API を使用して、ご利用のイメージのために最新の AWS ドライバーが利用可能かどうかを確認し、それらの更新をインストールして、更新されたイメージを作成できます。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。WorkSpaces を最新の AWS ドライバーで最新の状態に保つことで、AWS が提供する最新のインスタンスタイプやその他のインフラストラクチャコンポーネントの利点を活用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/",
+          "publishedOn": "2021-10-21T17:01:04.000Z",
+          "wordCount": 239,
+          "title": "最新の AWS ドライバーで更新された新しいイメージを作成するための Amazon WorkSpaces API の発表"
+        },
+        {
           "id": "cb4320263e037d5ca7a934d998160d1beeb03c72",
           "author": "aws@amazon.com",
           "description": "スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用して自動データ有効期限をサポートするようになりました。TTL を使用する場合、テーブルの属性または行に有効期限を設定し、Keyspaces はそうした有効期限が切れた属性または行を自動的に削除します。",
@@ -253,60 +289,6 @@
           "publishedOn": "2021-10-15T23:30:58.000Z",
           "wordCount": 345,
           "title": "Amazon EMR 6.4 リリースバージョンが Apache Spark 3.1.2 のサポートを開始"
-        },
-        {
-          "id": "1074343f71980ff0f521749c0588086bac681fd2",
-          "author": "aws@amazon.com",
-          "description": "AWS CloudFormation のお客様は、AWS Systems Manager の機能である Application Manager を通じて、運用データを表示し、CloudFormation スタックリソースに関連する問題を解決するためのアクションを迅速に実行できるようになりました。この機能を使用すると、お客様は CloudFormation スタックを介してプロビジョンされたリソースのアプリケーションビューを取得できます。デベロッパーは、Application Manager Dashboard から取得した運用メトリクス、ログ、アラート、およびコスト情報を使用して、ライフサイクル全体でスタックリソースを効率的に管理できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-cloudformation-manage-applications-aws-systems-manager/",
-          "publishedOn": "2021-10-15T04:35:36.000Z",
-          "wordCount": 264,
-          "title": "AWS CloudFormation のお客様による AWS Systems Manager でのアプリケーションの管理が可能に"
-        },
-        {
-          "id": "afa82a8550ec98f2d6aca96cc59a07dce5067d2f",
-          "author": "aws@amazon.com",
-          "description": "2021 年 9 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (CDK) の 5 つの新しいバージョン (v1.121.0～v.125.0) がリリースされました。これらのリリースにより、CDK CLI は、CDK プロジェクトのアプリケーションコードでの内部ループ開発の反復を高速化するためのホットスワップデプロイをサポートするようになりました。ホットスワップの初期サポートでは AWS Lambda ハンドラーコードを対象としますが、追加のリソースタイプと、変更を継続的に監視して更新をデプロイする「監視」モードのサポートが計画されています。さらに、ユーザーは自動スタックロールバックを無効にすることで、正常にプロビジョンされたリソースを保持できるため、デプロイと反復の時間がさらに短縮されます。また、これらのリリースは 21 の問題を解決し、ライブラリ全体の 30 を超える異なるモジュールで 40 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/",
-          "publishedOn": "2021-10-15T04:34:13.000Z",
-          "wordCount": 258,
-          "title": "AWS CDK がホットスワップデプロイとロールバックコントロールを使用して開発サイクルを高速化する機能を備えた v1.121.0～v1.125.0 をリリース"
-        },
-        {
-          "id": "5dce74957c5dba6bfaeb183991edfe07bb23ca55",
-          "author": "aws@amazon.com",
-          "description": "AWS Console Mobile Application ユーザーは、iOS アプリケーションと Android アプリケーションの両方で Amazon Elastic Container Service (Amazon ECS) を利用できるようになりました。Console Mobile Application は、ECS クラスター、サービス、設定、タスク、およびコンテナのワークロードをモニタリングするための、安全で使いやすい外出先でのソリューションを提供します。お客様は、ECS タスクを停止したり、ECS サービスのために必要な数のタスクを起動したりすることもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-console-mobile-amazon-elastic-container-service/",
-          "publishedOn": "2021-10-15T04:33:23.000Z",
-          "wordCount": 243,
-          "title": "AWS Console Mobile Application が Amazon Elastic Container Service のサポートを追加"
-        },
-        {
-          "id": "157f1986d03b8b8e5f1b197cabd6a1dc09665447",
-          "author": "aws@amazon.com",
-          "description": "Cloud Development Kit for Kubernetes (CDK8s) の一般提供が開始され、準拠した Kubernetes クラスターで実稼働使用が可能になりました。継続的なコミュニティの関与を確実にするために、cdk8s は現在、公式の CNCF Sandbox プロジェクトにもなっており、AWS Labs GitHub 組織から GitHub の専用ホームである cdk8s-team に移行されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/cdk-kubernetes-cdk8s-available/",
-          "publishedOn": "2021-10-15T04:32:34.000Z",
-          "wordCount": 250,
-          "title": "CDK for Kubernetes (CDK8s) の一般提供を開始"
-        },
-        {
-          "id": "a432f951ce1daba06a03ebad05d46c1473cb29a5",
-          "author": "aws@amazon.com",
-          "description": "Automated Account Configuration は、適切に、かつ、ビジネスと本番のニーズを満たすために必要なリソースを備えた状態で、AWS アカウントがセットアップされるようにするために、効率的でエラーのない、標準化済みの一貫した方法で運用プロセスを自動化するのに役立ちます。このソリューション実装を使用して、次のビジネスクリティカルなサービスを設定およびデプロイできます。\n \n \n \nAWS Backup: Amazon EC2 インスタンス、Amazon RDS、Amazon EFS などの AWS のサービスのバックアップを一元的に管理します。\n \n \nAWS Systems Manager パッチマネージャー: EC2 インスタンスなどのマネージドインスタンスのパッチ適用を自動化します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/",
-          "publishedOn": "2021-10-15T04:31:40.000Z",
-          "wordCount": 254,
-          "title": "新しい AWS ソリューション実装: Automated Account Configuration"
-        },
-        {
-          "id": "ed82a4f2abbdfae2bf539e79f891051479a6351d",
-          "author": "aws@amazon.com",
-          "description": "Apache ActiveMQ 5.16.3 ブローカーが Amazon MQ で起動可能になりました。ActiveMQ のこのバージョンアップデートには、これまでサポートしていたバージョンである ActiveMQ 5.16.2 からのいくつかの修正と機能の改善が含まれています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/",
-          "publishedOn": "2021-10-14T18:32:47.000Z",
-          "wordCount": 256,
-          "title": "Amazon MQ が ActiveMQ バージョン 5.16.3 のサポートを開始"
         }
       ]
     }
