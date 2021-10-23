@@ -12,6 +12,51 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "718e5dad32928ab66d87a7b25dc826e7ebb60004",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager は OpsCenter 内で作業項目の一括編集をサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/",
+          "publishedOn": "2021-10-22T08:34:01.000Z",
+          "wordCount": 243,
+          "title": "AWS Systems Manager OpsCenter で OpsItems を一括編集"
+        },
+        {
+          "id": "634933e1cfe9d41db6021cdf1f2aa7422c9d5f59",
+          "author": "aws@amazon.com",
+          "description": "10 月 19 日、Amazon は Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 11.0.13 および 8.312 のダウンロードが可能となりました。Amazon Corretto 17 のアップデートは、OpenJDK 17 のリポジトリにリリースがタグ付けされ次第まもなく提供されます。Amazon Corretto は、マルチプラットフォームで、本番稼働に対応した、無料の OpenJDK ディストリビューションです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-corretto-october-updates/",
+          "publishedOn": "2021-10-22T08:33:13.000Z",
+          "wordCount": 236,
+          "title": "Amazon Corretto 10 月の四半期更新情報"
+        },
+        {
+          "id": "fdc75d72aca22775b6d0fa6e54b3b45885260320",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift 向け AWS Data Exchange のパブリックプレビューを発表します。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけて購読し、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスを付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/",
+          "publishedOn": "2021-10-22T08:32:25.000Z",
+          "wordCount": 281,
+          "title": "Amazon Redshift 向け AWS Data Exchange を発表 (プレビュー)"
+        },
+        {
+          "id": "f7fc7059d425d81aa93e89cc6e05e87e89aba889",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager (SSM) の機能である、IT 管理者によるリモートサーバー管理プロセスの合理化とスケールを支援する Fleet Manager により、今回、マネージドインスタンスのレポートとフィルタリングエクスペリエンスが強化されました。この新機能では、データに応じたフィルタリングのオプションが表示されるので、推測する必要はありません。フィルタリングの値を記憶したり、マニュアルで入力したりする必要がなくなりました。インスタンス ID や IP アドレスなど、適用可能なフィルタリング条件が自動的に入力されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/",
+          "publishedOn": "2021-10-22T08:31:37.000Z",
+          "wordCount": 260,
+          "title": "AWS Systems Manager Fleet Manager がマネージドインスタンスのアドバンストフィルタリングを提供"
+        },
+        {
+          "id": "dee3ab00a1180c148a33d5e486aacfa17e772507",
+          "author": "aws@amazon.com",
+          "description": "AWS 料金計算ツールが Amazon CloudFront をサポートするようになりました。CloudFront ワークロードのコストを見積もります。これには主にデータ転送とリクエストに関連するコストが含まれています。この計算ツールは、データ転送量に基づいてリクエスト数を見積もるためのヒントを提供するだけでなく、さまざまな使用階層や CloudFront のリージョンごとのコストを詳細に表示します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/",
+          "publishedOn": "2021-10-22T08:30:49.000Z",
+          "wordCount": 229,
+          "title": "AWS 料金計算ツールが Amazon CloudFront をサポート"
+        },
+        {
           "id": "33350c560af8e099efac6e8074ec9495fb4eb5b4",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。本日より、デベロッパーは、Amazon Chime SDK でチャネルフローを使用して、メッセージングチャネルのメンバーに配信される前に、送信中のメッセージに対してビジネスロジックを実行できるようになりました。チャネルフローを使用すると、メッセージから政府発行の ID 番号や電話番号などの機密データ、または罵り言葉を、配信前に削除するフローを作成できます。これは、企業のコミュニケーションポリシーやその他のコミュニケーションガイドラインの遵守に役立つ場合があります。結果を参加者に返信する前に投票への応答の集計などの機能を実行するために、チャネルフローを使用することもできます。",
@@ -262,33 +307,6 @@
           "publishedOn": "2021-10-18T02:46:05.000Z",
           "wordCount": 278,
           "title": "Amazon QuickSight の SPICE 容量上限が 2 倍の 5 億行に"
-        },
-        {
-          "id": "f5478fdaafcf46807c6ee25d629bc599a20e8582",
-          "author": "aws@amazon.com",
-          "description": "AWS Batch コンソールで AWS Step Functions ワークフローを管理できるようになりました。コンソールで Batch ジョブを自動化して、機械学習、データ分析、夜間のバッチ処理を必要とする長時間実行されるビジネスクリティカルなワークフローを構築できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-batch-console-step-functions/",
-          "publishedOn": "2021-10-16T01:34:35.000Z",
-          "wordCount": 292,
-          "title": "AWS Batch が AWS Step Functions ワークフローを視覚化するためのコンソールサポートを追加"
-        },
-        {
-          "id": "1fd2ad6c9c7bc48c009c33c07a73666134fd777d",
-          "author": "aws@amazon.com",
-          "description": "AWS GovCloud (米国西部) リージョンのお客様は Amazon Kendra を使用してインテリジェント検索のアプリケーションの構築ができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-kendra-available-aws-govcloud-us-west-region/",
-          "publishedOn": "2021-10-16T01:32:20.000Z",
-          "wordCount": 220,
-          "title": "Amazon Kendra が AWS GovCloud (米国西部) リージョンで利用可能に"
-        },
-        {
-          "id": "d155c3e39421ff409e23e8e4874b5f5e3c4f94d7",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR 6.4 リリースバージョンは Apache Spark 3.1.2 をサポートするようになりました。これにより、Amazon EMR Runtime for Apache Spark でランタイムパフォーマンスが向上します。Amazon EMR 6.4 は、PrestoDB 0.254 の Presto ランタイムの改善と、メタストアのために AWS Glue Data Catalog を使用する場合の Apache Hive 3.1.2 のランタイムの改善を提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/",
-          "publishedOn": "2021-10-15T23:30:58.000Z",
-          "wordCount": 345,
-          "title": "Amazon EMR 6.4 リリースバージョンが Apache Spark 3.1.2 のサポートを開始"
         }
       ]
     }
