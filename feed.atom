@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-24T00:22:42.140Z</updated>
+    <updated>2021-10-25T00:24:22.619Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -331,16 +331,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-sagemaker-project-image-building-ci-cd-templates/"/>
         <updated>2021-10-18T12:31:05.000Z</updated>
         <summary type="html"><![CDATA[機械学習 (ML) プロジェクトの継続的インテグレーションと継続的デリバリー (CI/CD) リソースを管理する初の専用サービス Amazon SageMaker Projects に、学習、処理、推論に使用する Docker イメージを構築するための CI/CD テンプレートが追加されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight の SPICE 容量上限が 2 倍の 5 億行に]]></title>
-        <id>279b03f91ea09d2f458ac77cbd5b8e5c4e2bda94</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-quicksight-spice-capacity-limit/"/>
-        <updated>2021-10-18T02:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight Enterprise Edition ではより大規模な SPICE データセットをサポートします。以前の各 SPICE データセットは、最大 2 億 5,000 万行、500 GB のデータを保持することができました。今後はすべての新しい SPICE データセットで、Enterprise Edition の場合は 5 億行 (または 500 GB)、Standard Edition の場合は 2,500 万行 (または 25 GB) までのデータに対応できます。これにより、データセットの上限が引き上げられ、より多くのデータを使用してダッシュボードでの作業を加速化できます。詳細については、こちらをご覧ください。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
