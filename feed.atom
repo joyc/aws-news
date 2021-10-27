@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-10-26T00:21:06.326Z</updated>
+    <updated>2021-10-27T00:20:54.458Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新しい AWS ソリューション実装: Web Client for AWS Transfer Family]]></title>
+        <id>235f609b121e2657f920a2cb48beb6127a901b04</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/"/>
+        <updated>2021-10-26T05:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Web Client for AWS Transfer Family は、Secure Shell File Transfer Protocol (SFTP) で AWS Transfer を使用するための直感的なウェブブラウザインターフェースとなります。AWS Transfer Family の採用に加えて、企業 SFTP 環境へのシンプルなウェブポータルを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fault Injection Simulator がスポットインスタンス中断のサポートを開始]]></title>
+        <id>cbf1520b1a0d310a06ec0a8954d49839c40c5dcd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/"/>
+        <updated>2021-10-26T05:30:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS Fault Injection Simulator (FIS) を使用して、Amazon EC2スポットインスタンスの割り込みをスポットインスタンスワークロードに設定できるようになりました。スポットインスタンスを使用すると、Amazon EC2 で容量を戻す必要があるときにスポットインスタンスを返す代わりに、Amazon EC2 でコンピューティングワークロードを大幅な割引で実行できます。スポットインスタンスが中断される可能性は常にあるため、アプリケーションがスポットインスタンスの中断に備えていることを確認する必要があります。ただし、これまでは、アプリケーションの応答方法を評価および改善するために、スポットインスタンスの中断の状況を再現することは困難でした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fault Injection Simulator がスポットの中断のサポートを開始]]></title>
+        <id>003dcb27e8d87438e7c63eb29bb9ebaaa1959828</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/"/>
+        <updated>2021-10-26T02:48:27.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Fault Injection Simulator (FIS) を使用して Amazon EC2 スポットインスタンスの中断をトリガーできます。スポットインスタンスは、オンデマンド料金と比較して最大 90% 割引で利用できる予備の EC2 容量を使用します。割引と引き換えに、Amazon EC2 が容量を戻す必要がある場合、スポットインスタンスは Amazon EC2 によって中断される可能性があります。スポットインスタンスを使用する場合は、中断に備えておく必要があります。FIS を使用すると、ワークロードの回復力をテストし、インスタンスを終了する前に EC2 が送信する中断通知にアプリケーションが反応していることを検証できます。ASG、フリート、EMR などのインスタンスにタグを付けるサービスによって管理されるクラスター内の個々のスポットインスタンスまたはインスタンスのサブセットをターゲットにすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が動画の背景ぼかしのサポートを開始]]></title>
+        <id>5da204fbafb70a68342f8894cd49cecbccbb7027</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/"/>
+        <updated>2021-10-26T02:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、および画面共有をウェブアプリケーションに追加できます。デベロッパーは、動画の背景のぼかしを使用して、ユーザーの周囲を難読化することができるようになりました。これにより、視覚面でのプライバシーを高めることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub が AWS セキュリティ体制の評価と改善の方法を簡素化するために、検出結果のリージョン間の集約のサポートを追加]]></title>
+        <id>ac1caa13e8936db6ce1b7ac87e9c0d606be1ebd4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/"/>
+        <updated>2021-10-26T02:46:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub では、集約リージョンを指定し、一部またはすべてのリージョンをその集約リージョンにリンクできるようになりました。これにより、すべてのアカウントおよびすべてのリンクされたリージョン全体のすべての検出結果を一元的に表示できます。あるリージョンを集約リージョンにリンクすると、検出結果はリージョン間で継続的に同期されます。リンクされたリージョンの検出結果に対する更新は集約リージョンにレプリケートされ、集約リージョンの検出結果に対する更新は、検出結果の発生元のリンクされたリージョンにレプリケートされます。 この機能の詳細については、こちらのドキュメントをお読みください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Panorama Appliance の一般提供を発表]]></title>
+        <id>93273f745176bd51a812d0c7c7dcce083b360896</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-panorama-appliance-available/"/>
+        <updated>2021-10-26T02:46:05.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Panorama Appliance の一般提供を開始しました。AWS Panorama Appliance は、既存のオンプレミスカメラを使用し、コンピュータビジョンを使用してローカルに動画ストリームを分析することにより、お客様がオペレーションを改善し、コストを削減できるようにする新しいデバイスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Transcribe がストリーミング文字起こし向けにカスタム言語モデルのサポートを開始]]></title>
+        <id>7d520d658803aad874bcce498e571a9715b9f0bf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/"/>
+        <updated>2021-10-26T02:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Transcribe は、ストリーミング文字起こし用のカスタム言語モデル (CLM) をサポートするようになります。Amazon Transcribe は、音声をテキストに変換する機能をアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。CLM を使用すると、既存のデータを活用して、文字起こしのユースケースに合わせたカスタム音声エンジンを構築できます。事前の機械学習の経験は必要ありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Synthetics によってアーティファクトを暗号化するための AWS KMS カスタマーマネージドキーのサポートのご紹介]]></title>
+        <id>13d01b6b1459ce1600be8ed03767d7ee0033147c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/"/>
+        <updated>2021-10-26T02:33:39.000Z</updated>
+        <summary type="html"><![CDATA[CloudWatch Synthetics は、CloudWatch Synthetics が Amazon Simple Storage Service (Amazon S3) バケットに保存する canary 実行データを暗号化するために提供する AWS Key Management Service (AWS KMS) キーの使用をサポートするようになりました。デフォルトでは、これらのアーティファクトは AWS マネージドキーを使用して保管時に暗号化されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MySQL on Outposts が新しいマイナーバージョンをサポート]]></title>
+        <id>c13b681865c1912c91645f81d10a69d4d4343742</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/"/>
+        <updated>2021-10-26T02:32:44.000Z</updated>
+        <summary type="html"><![CDATA[MySQL のマイナーバージョン 8.0.23 および 8.0.25 をサポートするように、Amazon Relational Database Service (Amazon RDS) for MySQL on Outposts を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight が新しいテーブルとピボットテーブルの機能強化をリリース]]></title>
+        <id>451f55165a83ebefd761d2bab8a66b0412105c0d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/"/>
+        <updated>2021-10-26T02:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、テーブルとピボットテーブル向けの高度なスタイル設定をサポートするようになりました。作成者は、罫線や色をカスタマイズするために新しくリリースされたオプションを使用して、見た目のよいテーブルを作成したり、デザインパターンを採用したり、標準化されたコーポレートアイデンティティを表形式のビジュアルに適用したりできます。また、合計と小計にカスタムの罫線とスタイルを適用して、損益計算書などの財務報告書を作成することもできます。詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Systems Manager OpsCenter で OpsItems を一括編集]]></title>
         <id>718e5dad32928ab66d87a7b25dc826e7ebb60004</id>
@@ -92,125 +192,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/"/>
         <updated>2021-10-21T17:01:04.000Z</updated>
         <summary type="html"><![CDATA[Amazon WorkSpaces は、WorkSpaces イメージを最新の AWS ドライバーで最新の状態に保つために使用できる API を提供するようになりました。これまでは、WorkSpaces インスタンスを手動で起動し、ドライバーの更新をインストールして新しいイメージを作成することにより、WorkSpaces イメージを最新の状態に保っていました。このリリースでは、WorkSpaces API を使用して、ご利用のイメージのために最新の AWS ドライバーが利用可能かどうかを確認し、それらの更新をインストールして、更新されたイメージを作成できます。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。WorkSpaces を最新の AWS ドライバーで最新の状態に保つことで、AWS が提供する最新のインスタンスタイプやその他のインフラストラクチャコンポーネントの利点を活用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用した自動データ有効期限切れのサポートを開始]]></title>
-        <id>cb4320263e037d5ca7a934d998160d1beeb03c72</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/"/>
-        <updated>2021-10-20T10:31:58.000Z</updated>
-        <summary type="html"><![CDATA[スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用して自動データ有効期限をサポートするようになりました。TTL を使用する場合、テーブルの属性または行に有効期限を設定し、Keyspaces はそうした有効期限が切れた属性または行を自動的に削除します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkSpaces Windows Server 2019 バンドルが AWS GovCloud (米国西部) リージョンで利用可能に]]></title>
-        <id>0cf84d2d2e21becde6707b4bd8d5325671f86b3b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/"/>
-        <updated>2021-10-20T10:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkSpaces は、Windows Server 2019 を搭載した新しいバンドルの提供開始により、AWS GovCloud (米国西部) リージョンで、64 ビット Microsoft Office 2019 Professional Plus バンドルオプションとともに Windows 10 デスクトップエクスペリエンスを提供します。この機能は、Windows 10 デスクトップエクスペリエンスを更新し、最新の Windows バージョンを必要とするアプリケーションの実行を可能にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS ネットワークコンピテンシーコンサルティングパートナーのご紹介]]></title>
-        <id>671899499f7c6391b276ce82c8747f8b1100ede7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-networking-competency-partners/"/>
-        <updated>2021-10-20T03:32:37.000Z</updated>
-        <summary type="html"><![CDATA[本日、当社はコンサルティングのための AWS ネットワークコンピテンシーコンサルティングパートナーを発表しました。これらのパートナーは、一貫性のあるネットワークとセキュリティポリシーの開発、およびプライベートバックボーンとクラウドコアを介してトラフィックをルーティングする新しい方法を提供するソリューションに関する深い専門知識を有しています。AWS ネットワークコンピテンシーコンサルティングパートナーは、お客様がクラウドへの安全なイングレスと便利なオンランプを提供して、レイテンシーを軽減し、可用性を向上させ、アプリケーションエクスペリエンスを強化し、クラウドネットワークの可視性とコントロールを提供するのを支援します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon AppFlow が AWS アフリカ (ケープタウン) リージョンで利用可能に]]></title>
-        <id>77397e677fd1082fcfddbb7673b26c15234b832f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/"/>
-        <updated>2021-10-20T03:30:58.000Z</updated>
-        <summary type="html"><![CDATA[AWS のサービスとクラウドアプリケーション間でお客様がデータを安全に転送するのに役立つフルマネージド統合サービスである Amazon AppFlow は、AWS アフリカ (ケープタウン) リージョンで利用可能になりました。AppFlow を利用すると、Salesforce、SAP、Zendesk、Slack、および ServiceNow などの SaaS (Software-as-a-Service) アプリケーションと、Amazon S3 や Amazon Redshift などの AWS のサービスの間で、たった数回クリックするだけで、エンタープライズ規模でデータフローを実行できます。AWS リージョン表を参照して、Amazon AppFlow が利用できるリージョンをご確認ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeRTOS が対称型マルチプロセッシング (SMP) のサポートを追加]]></title>
-        <id>1102df66346225b6b346ca383e69d58e0c9f3ef1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/"/>
-        <updated>2021-10-20T02:31:55.000Z</updated>
-        <summary type="html"><![CDATA[FreeRTOS は、カーネルに対称型マルチプロセッシング (SMP) サポートを追加します。これにより、FreeRTOS ベースのアプリケーションを設計するデベロッパーがマルチコアマイクロコントローラーの SMP 機能を利用することが可能となります。2 つ以上の同一のプロセッサコアが同じメモリを共有するマルチコアマイクロコントローラを使用すると、オペレーティングシステムはコア間でタスクを分散して、アプリケーションの必要に応じてプロセッサの負荷を分散できます。これにより、アプリケーションはマルチコアマイクロコントローラーのリソース使用率を最適化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porting Assistant for .NET が WCF、OWIN、および System.Web.Mvc アプリケーションの評価と移植のサポートを追加]]></title>
-        <id>16ff083a505f26d01f76f9dca656987510ea2211</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/"/>
-        <updated>2021-10-20T02:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Porting Assistant for .NET は、Windows Communication Foundation (WCF)、Open Web Interface for .NET (OWIN)、および ASP.NET System.Web.Mvc 名前空間の評価と .NET Core 3.1 または .NET 5 への移植をサポートするようになりました。2021 年 2 月の Core WCF プロジェクトの一般提供リリースに続いて、Porting Assistant は、WCF アプリケーションを Core WCF に移植するためのレコメンデーションを評価および提供できるようになりました。また、OWIN および System.Web.Mvc 名前空間の設定の評価と .NET Core 3.1 または .NET 5 への移植もサポートしています。デベロッパーは、既存の Porting Assistant for .NET ツールまたは Porting Assistant for .NET Visual Studio IDE 拡張機能を使用して開始できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中央アメリカ、中東、およびアフリカ向けの Amazon Forecast Weather Index]]></title>
-        <id>c70ddebffedc40c3aa7943013680de35e1e2419c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-forecast-weather-index-central-america-middle-east-africa/"/>
-        <updated>2021-10-19T17:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Forecast Weather Index が中米、中東、およびアフリカの各リージョンで利用できるようになったことをお知らせいたします。Weather Index を使用すれば、地域の最新の気象情報をワンクリックで自動的に需要予測に取り込むことで、予測の精度を高めることができます。追加費用は発生しません。気象条件は、消費者の需要パターン、製品の商品化の決定、人員配置の要件、およびエネルギー消費のニーズに影響を与えます。ただし、需要予測のためにライブ気象情報を取得、クリーニング、および効果的に使用することは困難であり、継続的なメンテナンスが必要となります。今回のリリースにより、北米、南米、ヨーロッパ、アジアパシフィックで Weather Index をご利用になっていたお客様は、需要予測にワンクリックで中米、中東、およびアフリカの 14 日間の天気予報も含めることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シドニー大学、International Brain Laboratory、交通部中央気象局 (台湾) などの新しいデータセットがオープンデータのレジストリで利用可能に]]></title>
-        <id>e7361c05545e0ca6e9a1b6bf11d6ace32ece5b13</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/new-datasets-available-on-the-registry-of-open-data/"/>
-        <updated>2021-10-19T17:03:34.000Z</updated>
-        <summary type="html"><![CDATA[オープンデータのレジストリで利用可能になったシドニー大学、International Brain Laboratory、交通部中央気象局 (台湾) などの 26 の新しいデータセットを紹介します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が Microsoft Windows Server 2022 AMI での Microsoft SQL Server の提供を開始]]></title>
-        <id>73ce302d9d82895496872a3ac7c021957c8d2204</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-microsoft-sql-server-windows-ami/"/>
-        <updated>2021-10-19T17:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Windows Server 2022 上で実行する SQL Server 2019 および 2017 を含む 8 つの新しい Amazon マシンイメージ (AMI) が Amazon EC2 に追加されました。これらの AWS マネージド AMI を使用すると、Windows Server 2022 上で SQL Server を起動して、最新の Windows 機能を AWS で利用できるようになります。AMI は 4 つのエディション (Enterprise、Standard、Web、Express) で利用可能です。詳細については、以下のリストを参照してください。
- 
-* Windows_Server-2022-English-Full-SQL_2019_Enterprise
- * Windows_Server-2022-English-Full-SQL_2019_Standard
- * Windows_Server-2022-English-Full-SQL_2019_Web
- * Windows_Server-2022-English-Full-SQL_2019_Express
- * Windows_Server-2022-English-Full-SQL_2017_Enterprise
- * Windows_Server-2022-English-Full-SQL_2017_Standard
- * Windows_Server-2022-English-Full-SQL_2017_Web
- * Windows_Server-2022-English-Full-SQL_2017_Express]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Load Testing on AWS v2.0.0 の紹介]]></title>
-        <id>06c15858555a3751a530379d3a50713cd007f989</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/"/>
-        <updated>2021-10-19T17:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Distributed Load Testing on AWS は、大規模および負荷時のソフトウェアアプリケーションテストを自動化して、リリース前に性能上の潜在的なパフォーマンスの問題を特定することのできるソリューションです。このソリューションは、一定のペースでトランザクションレコードを生成する数多くの接続ユーザーを作成およびシミュレートします。サーバーをプロビジョニングする必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue クローラーが Amazon S3 イベント通知を使用して起動可能に]]></title>
-        <id>30719b8d436c81a5dcbfa67d30fead73316c2571</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/"/>
-        <updated>2021-10-19T17:00:58.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue には、Amazon S3 とリレーショナルデータベース内のデータをスキャンしてスキーマを抽出して、メタデータを最新の状態に維持する AWS Glue Data Catalog に自動的に入力するクローラーが含まれています。この機能により、新しく取り込まれたデータを任意の分析および機械学習ツールですぐに利用することができるので、インサイトを取得するための時間が削減されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
