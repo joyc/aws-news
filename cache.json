@@ -12,6 +12,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "bf6bbe8ff46581fa4a6c1ad0fad544c7d06c0d10",
+          "author": "aws@amazon.com",
+          "description": "AWS Amplify for JavaScript は、Amplify ストレージカテゴリ経由で Simple Storage Service(Amazon S3) にファイルをアップロードする際の一時停止、再開、キャンセルのアクションに対応しました。Amplify はユースケース指向の UI コンポーネント、ライブラリ、コマンドラインツールのセットを提供し、フロントエンドのウェブやモバイルのデベロッパーがアプリケーションのための AWS クラウドバックエンドを簡単に構築できるようにします。このリリースにより、デベロッパーは、エンドユーザーが加工前ビデオや大容量の生産性の高いドキュメントなど、非常に大きなファイルを確実にアップロードできる体験を提供することができます。アップロードを再開できることは、アップロード中にネットワークが遮断された場合などに有効です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/",
+          "publishedOn": "2021-10-27T02:11:21.000Z",
+          "wordCount": 246,
+          "title": "AWS Amplify for JavaScript がストレージのリジューム可能なファイルアップロードをサポート"
+        },
+        {
+          "id": "db16dde4b914796fd99b35e2b431177e1b280b2a",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS Proxy が Amazon RDS for MySQL major version 8.0 をサポート。MySQL 8.0 は、コミュニティエディションの最新のメジャーバージョンで、パフォーマンス、信頼性、セキュリティ、管理性が向上しています。Amazon RDS for MySQL の詳細については、詳細ページ またはドキュメントをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/",
+          "publishedOn": "2021-10-27T02:10:17.000Z",
+          "wordCount": 257,
+          "title": "Amazon RDS Proxy が Amazon RDS for MySQL Version 8.0 をサポート"
+        },
+        {
           "id": "235f609b121e2657f920a2cb48beb6127a901b04",
           "author": "aws@amazon.com",
           "description": "Web Client for AWS Transfer Family は、Secure Shell File Transfer Protocol (SFTP) で AWS Transfer を使用するための直感的なウェブブラウザインターフェースとなります。AWS Transfer Family の採用に加えて、企業 SFTP 環境へのシンプルなウェブポータルを提供します。",
