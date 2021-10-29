@@ -12,6 +12,51 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "89c061149487724675bdf4814ff1d75a9fc43b29",
+          "author": "aws@amazon.com",
+          "description": "MySQL バージョン 8.0 のアップデートのリリースに続いて、Amazon Relational Database Service (Amazon RDS) for MySQL および Amazon RDS for MySQL on Outposts をアップデートして、MySQL マイナーバージョン 8.0.26 をサポートしました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-mysql-version-8-0-26-global-transaction-identifiers-gitds-delayed-replication/",
+          "publishedOn": "2021-10-28T22:01:52.000Z",
+          "wordCount": 297,
+          "title": "Amazon RDS for MySQL が、グローバルトランザクション識別子 (GITD) と遅延レプリケーションを含む、 新しいマイナーバージョン 8.0.26 をサポート"
+        },
+        {
+          "id": "2d26f562fb8b184513fa11224c17ef495821124b",
+          "author": "aws@amazon.com",
+          "description": "AWS Load Balancer Controller は、Kubernetes クラスターで実行されているアプリケーションにトラフィックをルーティングする Elastic Load Balancing を構成および管理するための Kubernetes ネイティブな方法を提供します。Elastic Load Balancing では、複数のロードバランサーが提供されています。これらはすべて、アプリケーションの耐障害性を高めるのに必要な高い可用性、オートスケーリング、堅牢なセキュリティを特徴としています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/",
+          "publishedOn": "2021-10-28T08:34:09.000Z",
+          "wordCount": 291,
+          "title": "AWS Load Balancer Controller バージョン 2.3 が利用可能になり、ALB IPv6 ターゲットのサポートの提供を開始"
+        },
+        {
+          "id": "d331b29ee6ca1ee37494221431acfac01d990254",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、ユーザー、ユーザー階層、オペレーション時間の 3 つの API での AWS CloudFormation をサポートすることになりました。AWS CloudFormation テンプレートを使用して、他の AWS インフラストラクチャと共にこれらの Amazon Connect リソースを安全、効率的、繰り返し可能な方法でデプロイできるようになりました。加えて、これらのテンプレートを使用して Amazon Connect インスタンス全体の一貫線を維持できます。詳細については、 AWS CloudFormation ユーザーガイドの「Amazon Connect リソースタイプリファレンス」を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/",
+          "publishedOn": "2021-10-28T08:32:32.000Z",
+          "wordCount": 258,
+          "title": "Amazon Connect が、ユーザー、ユーザー階層グループ、オペレーション時間をサポートする AWS CloudFormation をリリース"
+        },
+        {
+          "id": "71e57149aa177fd865885407533c6b5ea883d61a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、オペレーション時間をプログラムで作成および管理するための API の提供を開始しました。この API を使用して、ルートが接触するキューを決定する問い合わせフローで使用されるオペレーション時間をプログラムで設定することができます。さらに、[API の削除] を使用して不要になったオペレーション時間を削除できるようになりました。詳細については、API ドキュメントを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/",
+          "publishedOn": "2021-10-28T08:31:44.000Z",
+          "wordCount": 238,
+          "title": "Amazon Connect が API を起動してオペレーション時間をプログラムで設定"
+        },
+        {
+          "id": "f1e6062ccfd357f82a6624e80f545e672b87a623",
+          "author": "aws@amazon.com",
+          "description": "AWS Audit Manager は、カスタムフレームワーク共有を提供し、AWS アカウントとリージョンをまたぐカスタムフレームワークを共有する安全で簡単な方法です。これにより、複数の AWS アカウントをまたいだカスタムフレームワークの即時アクセスが有効になります。基礎となるカスタムコントロールを手動でコピーしたり移動したりする必要はありません。カスタムフレームワーク共有は、共有されたフレームワークへのクイックアクセスを提供し、これにより、お客様が提供した最新かつ一貫性のある情報をユーザーが常に確認できます。AWS Audit Manager アカウントでのカスタムフレームワーク共有機能は、追加のコストなしでご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/",
+          "publishedOn": "2021-10-28T08:30:57.000Z",
+          "wordCount": 262,
+          "title": "AWS Audit Manager カスタムフレームワークの共有が一般に利用可能に"
+        },
+        {
           "id": "bf6bbe8ff46581fa4a6c1ad0fad544c7d06c0d10",
           "author": "aws@amazon.com",
           "description": "AWS Amplify for JavaScript は、Amplify ストレージカテゴリ経由で Simple Storage Service(Amazon S3) にファイルをアップロードする際の一時停止、再開、キャンセルのアクションに対応しました。Amplify はユースケース指向の UI コンポーネント、ライブラリ、コマンドラインツールのセットを提供し、フロントエンドのウェブやモバイルのデベロッパーがアプリケーションのための AWS クラウドバックエンドを簡単に構築できるようにします。このリリースにより、デベロッパーは、エンドユーザーが加工前ビデオや大容量の生産性の高いドキュメントなど、非常に大きなファイルを確実にアップロードできる体験を提供することができます。アップロードを再開できることは、アップロード中にネットワークが遮断された場合などに有効です。",
@@ -118,87 +163,6 @@
           "publishedOn": "2021-10-26T02:31:55.000Z",
           "wordCount": 236,
           "title": "Amazon QuickSight が新しいテーブルとピボットテーブルの機能強化をリリース"
-        },
-        {
-          "id": "718e5dad32928ab66d87a7b25dc826e7ebb60004",
-          "author": "aws@amazon.com",
-          "description": "AWS Systems Manager は OpsCenter 内で作業項目の一括編集をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/",
-          "publishedOn": "2021-10-22T08:34:01.000Z",
-          "wordCount": 243,
-          "title": "AWS Systems Manager OpsCenter で OpsItems を一括編集"
-        },
-        {
-          "id": "634933e1cfe9d41db6021cdf1f2aa7422c9d5f59",
-          "author": "aws@amazon.com",
-          "description": "10 月 19 日、Amazon は Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 11.0.13 および 8.312 のダウンロードが可能となりました。Amazon Corretto 17 のアップデートは、OpenJDK 17 のリポジトリにリリースがタグ付けされ次第まもなく提供されます。Amazon Corretto は、マルチプラットフォームで、本番稼働に対応した、無料の OpenJDK ディストリビューションです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-corretto-october-updates/",
-          "publishedOn": "2021-10-22T08:33:13.000Z",
-          "wordCount": 236,
-          "title": "Amazon Corretto 10 月の四半期更新情報"
-        },
-        {
-          "id": "fdc75d72aca22775b6d0fa6e54b3b45885260320",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift 向け AWS Data Exchange のパブリックプレビューを発表します。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけて購読し、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスを付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/",
-          "publishedOn": "2021-10-22T08:32:25.000Z",
-          "wordCount": 281,
-          "title": "Amazon Redshift 向け AWS Data Exchange を発表 (プレビュー)"
-        },
-        {
-          "id": "f7fc7059d425d81aa93e89cc6e05e87e89aba889",
-          "author": "aws@amazon.com",
-          "description": "AWS Systems Manager (SSM) の機能である、IT 管理者によるリモートサーバー管理プロセスの合理化とスケールを支援する Fleet Manager により、今回、マネージドインスタンスのレポートとフィルタリングエクスペリエンスが強化されました。この新機能では、データに応じたフィルタリングのオプションが表示されるので、推測する必要はありません。フィルタリングの値を記憶したり、マニュアルで入力したりする必要がなくなりました。インスタンス ID や IP アドレスなど、適用可能なフィルタリング条件が自動的に入力されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/",
-          "publishedOn": "2021-10-22T08:31:37.000Z",
-          "wordCount": 260,
-          "title": "AWS Systems Manager Fleet Manager がマネージドインスタンスのアドバンストフィルタリングを提供"
-        },
-        {
-          "id": "dee3ab00a1180c148a33d5e486aacfa17e772507",
-          "author": "aws@amazon.com",
-          "description": "AWS 料金計算ツールが Amazon CloudFront をサポートするようになりました。CloudFront ワークロードのコストを見積もります。これには主にデータ転送とリクエストに関連するコストが含まれています。この計算ツールは、データ転送量に基づいてリクエスト数を見積もるためのヒントを提供するだけでなく、さまざまな使用階層や CloudFront のリージョンごとのコストを詳細に表示します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/",
-          "publishedOn": "2021-10-22T08:30:49.000Z",
-          "wordCount": 229,
-          "title": "AWS 料金計算ツールが Amazon CloudFront をサポート"
-        },
-        {
-          "id": "33350c560af8e099efac6e8074ec9495fb4eb5b4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。本日より、デベロッパーは、Amazon Chime SDK でチャネルフローを使用して、メッセージングチャネルのメンバーに配信される前に、送信中のメッセージに対してビジネスロジックを実行できるようになりました。チャネルフローを使用すると、メッセージから政府発行の ID 番号や電話番号などの機密データ、または罵り言葉を、配信前に削除するフローを作成できます。これは、企業のコミュニケーションポリシーやその他のコミュニケーションガイドラインの遵守に役立つ場合があります。結果を参加者に返信する前に投票への応答の集計などの機能を実行するために、チャネルフローを使用することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/",
-          "publishedOn": "2021-10-21T17:32:26.000Z",
-          "wordCount": 251,
-          "title": "Amazon Chime SDK がメッセージングチャネルフローを発表"
-        },
-        {
-          "id": "d49410d0906e8aae370238920815017b213727a2",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS データベースプレビュー環境での PostgreSQL 14 RC 1 の利用が可能になり、お客様に Amazon Relational Database Service (Amazon RDS) でリリース候補の PostgreSQL 14 をテストしていただけるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/",
-          "publishedOn": "2021-10-21T17:05:46.000Z",
-          "wordCount": 286,
-          "title": "PostgreSQL 14 RC 1 が Amazon RDS データベースプレビュー環境で利用可能に"
-        },
-        {
-          "id": "164945d33cc98a6b9c46f522d8cfece462cbf3f9",
-          "author": "aws@amazon.com",
-          "description": "AWS Elemental MediaConvert は、IMSC 1.1 テキストプロファイルの字幕のリッチテキストレンダリングと TTML 字幕形式をサポートするようになりました。これらの形式は両方とも、テキストサイズ、位置、両端揃え、色、スタイル、および影付きを含む詳細なフォーマットを可能にします。多くの視聴者にとって、画面上の字幕は視聴体験の重要な部分であり、この機能により、字幕の作成者は画面上でのテキストのレンダリング方法をよりクリエイティブに制御できます。さらに、IMSC と TTML では、右から左へのテキスト、ルビ、垂直テキストなど、テキストローカリゼーションのためのより多くのオプションを使用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/",
-          "publishedOn": "2021-10-21T17:04:57.000Z",
-          "wordCount": 242,
-          "title": "AWS Elemental MediaConvert が IMSC 1.1および TTML 字幕テキストのリッチテキストレンダリングのサポートを開始"
-        },
-        {
-          "id": "22a4b8354008b63bad76c253e6b2a3e2f1b345f1",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkSpaces は、WorkSpaces イメージを最新の AWS ドライバーで最新の状態に保つために使用できる API を提供するようになりました。これまでは、WorkSpaces インスタンスを手動で起動し、ドライバーの更新をインストールして新しいイメージを作成することにより、WorkSpaces イメージを最新の状態に保っていました。このリリースでは、WorkSpaces API を使用して、ご利用のイメージのために最新の AWS ドライバーが利用可能かどうかを確認し、それらの更新をインストールして、更新されたイメージを作成できます。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。WorkSpaces を最新の AWS ドライバーで最新の状態に保つことで、AWS が提供する最新のインスタンスタイプやその他のインフラストラクチャコンポーネントの利点を活用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/",
-          "publishedOn": "2021-10-21T17:01:04.000Z",
-          "wordCount": 239,
-          "title": "最新の AWS ドライバーで更新された新しいイメージを作成するための Amazon WorkSpaces API の発表"
         }
       ]
     }
