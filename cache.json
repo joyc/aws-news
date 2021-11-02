@@ -12,6 +12,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ec89d37d0d34339ae01bdea810aa693fe140b35d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。本日より、Amazon Chime SDK は、Amazon Chime SDK メッセージングチャネルを通じて送信されたメッセージについて、Amazon Pinpoint を介した iOS および Android のプッシュ通知をサポートします。プッシュ通知を使用すると、チャットに Amazon Chime SDK メッセージングを使用するデベロッパーは、ユーザーがアプリケーションを積極的に使用していない場合でも、新しいメッセージについてユーザーに確実に通知することができます。ユーザーは、アプリケーションを切り替えたり、モバイルデバイスをロックして、新しいメッセージや通話が着信したときに通知を受信したりできます。これにより、通知をタップして元のアプリケーションに戻り、会話を続行したり、通話に参加したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-push-notifications/",
+          "publishedOn": "2021-11-01T11:31:45.000Z",
+          "wordCount": 265,
+          "title": "Amazon Chime SDK がプッシュ通知のサポートを開始"
+        },
+        {
+          "id": "fd76fbb65e497a320e5cd133d3f8892e304b7cb3",
+          "author": "aws@amazon.com",
+          "description": "AWS Serverless Application Model (SAM) は、AWS SAM Accelerate のパブリックプレビューを発表します。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。SAM Accelerate は、SAM CLI の新機能であり、デベロッパーがサーバーレスアプリケーションに対してローカルに行われたコード変更をクラウドベースの環境に対してテストすることをより迅速かつ容易にし、ローカルの反復作業から本番環境への準備までの時間を短縮します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-sam-accelerate-test-code-changes-cloud/",
+          "publishedOn": "2021-11-01T11:30:57.000Z",
+          "wordCount": 262,
+          "title": "AWS SAM Accelerate の発表 - クラウドに対してコード変更をすばやくテストする (パブリックプレビュー)"
+        },
+        {
           "id": "94b33c29e0886b518215b1982fb1317069a2f51a",
           "author": "aws@amazon.com",
           "description": "Amazon QuickSight は、SPICE データセットに新しいデータを徐々にロードすることをサポートする Amazon QuickSight の機能である増分リフレッシュの提供を発表しました (データのフルセットをリフレッシュする必要はありません)。 SPICE は、Amazon QuickSight の超高速で、パラレル、インメモリの計算エンジンです。",
@@ -199,96 +217,6 @@
           "publishedOn": "2021-10-27T02:10:17.000Z",
           "wordCount": 257,
           "title": "Amazon RDS Proxy が Amazon RDS for MySQL Version 8.0 をサポート"
-        },
-        {
-          "id": "235f609b121e2657f920a2cb48beb6127a901b04",
-          "author": "aws@amazon.com",
-          "description": "Web Client for AWS Transfer Family は、Secure Shell File Transfer Protocol (SFTP) で AWS Transfer を使用するための直感的なウェブブラウザインターフェースとなります。AWS Transfer Family の採用に加えて、企業 SFTP 環境へのシンプルなウェブポータルを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/",
-          "publishedOn": "2021-10-26T05:31:47.000Z",
-          "wordCount": 250,
-          "title": "新しい AWS ソリューション実装: Web Client for AWS Transfer Family"
-        },
-        {
-          "id": "cbf1520b1a0d310a06ec0a8954d49839c40c5dcd",
-          "author": "aws@amazon.com",
-          "description": "AWS Fault Injection Simulator (FIS) を使用して、Amazon EC2スポットインスタンスの割り込みをスポットインスタンスワークロードに設定できるようになりました。スポットインスタンスを使用すると、Amazon EC2 で容量を戻す必要があるときにスポットインスタンスを返す代わりに、Amazon EC2 でコンピューティングワークロードを大幅な割引で実行できます。スポットインスタンスが中断される可能性は常にあるため、アプリケーションがスポットインスタンスの中断に備えていることを確認する必要があります。ただし、これまでは、アプリケーションの応答方法を評価および改善するために、スポットインスタンスの中断の状況を再現することは困難でした。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/",
-          "publishedOn": "2021-10-26T05:30:59.000Z",
-          "wordCount": 245,
-          "title": "AWS Fault Injection Simulator がスポットインスタンス中断のサポートを開始"
-        },
-        {
-          "id": "003dcb27e8d87438e7c63eb29bb9ebaaa1959828",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Fault Injection Simulator (FIS) を使用して Amazon EC2 スポットインスタンスの中断をトリガーできます。スポットインスタンスは、オンデマンド料金と比較して最大 90% 割引で利用できる予備の EC2 容量を使用します。割引と引き換えに、Amazon EC2 が容量を戻す必要がある場合、スポットインスタンスは Amazon EC2 によって中断される可能性があります。スポットインスタンスを使用する場合は、中断に備えておく必要があります。FIS を使用すると、ワークロードの回復力をテストし、インスタンスを終了する前に EC2 が送信する中断通知にアプリケーションが反応していることを検証できます。ASG、フリート、EMR などのインスタンスにタグを付けるサービスによって管理されるクラスター内の個々のスポットインスタンスまたはインスタンスのサブセットをターゲットにすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/",
-          "publishedOn": "2021-10-26T02:48:27.000Z",
-          "wordCount": 235,
-          "title": "AWS Fault Injection Simulator がスポットの中断のサポートを開始"
-        },
-        {
-          "id": "5da204fbafb70a68342f8894cd49cecbccbb7027",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、および画面共有をウェブアプリケーションに追加できます。デベロッパーは、動画の背景のぼかしを使用して、ユーザーの周囲を難読化することができるようになりました。これにより、視覚面でのプライバシーを高めることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/",
-          "publishedOn": "2021-10-26T02:47:40.000Z",
-          "wordCount": 246,
-          "title": "Amazon Chime SDK が動画の背景ぼかしのサポートを開始"
-        },
-        {
-          "id": "ac1caa13e8936db6ce1b7ac87e9c0d606be1ebd4",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub では、集約リージョンを指定し、一部またはすべてのリージョンをその集約リージョンにリンクできるようになりました。これにより、すべてのアカウントおよびすべてのリンクされたリージョン全体のすべての検出結果を一元的に表示できます。あるリージョンを集約リージョンにリンクすると、検出結果はリージョン間で継続的に同期されます。リンクされたリージョンの検出結果に対する更新は集約リージョンにレプリケートされ、集約リージョンの検出結果に対する更新は、検出結果の発生元のリンクされたリージョンにレプリケートされます。 この機能の詳細については、こちらのドキュメントをお読みください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/",
-          "publishedOn": "2021-10-26T02:46:53.000Z",
-          "wordCount": 288,
-          "title": "AWS Security Hub が AWS セキュリティ体制の評価と改善の方法を簡素化するために、検出結果のリージョン間の集約のサポートを追加"
-        },
-        {
-          "id": "93273f745176bd51a812d0c7c7dcce083b360896",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Panorama Appliance の一般提供を開始しました。AWS Panorama Appliance は、既存のオンプレミスカメラを使用し、コンピュータビジョンを使用してローカルに動画ストリームを分析することにより、お客様がオペレーションを改善し、コストを削減できるようにする新しいデバイスです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-panorama-appliance-available/",
-          "publishedOn": "2021-10-26T02:46:05.000Z",
-          "wordCount": 271,
-          "title": "AWS Panorama Appliance の一般提供を発表"
-        },
-        {
-          "id": "7d520d658803aad874bcce498e571a9715b9f0bf",
-          "author": "aws@amazon.com",
-          "description": "Amazon Transcribe は、ストリーミング文字起こし用のカスタム言語モデル (CLM) をサポートするようになります。Amazon Transcribe は、音声をテキストに変換する機能をアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。CLM を使用すると、既存のデータを活用して、文字起こしのユースケースに合わせたカスタム音声エンジンを構築できます。事前の機械学習の経験は必要ありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/",
-          "publishedOn": "2021-10-26T02:34:35.000Z",
-          "wordCount": 246,
-          "title": "Amazon Transcribe がストリーミング文字起こし向けにカスタム言語モデルのサポートを開始"
-        },
-        {
-          "id": "13d01b6b1459ce1600be8ed03767d7ee0033147c",
-          "author": "aws@amazon.com",
-          "description": "CloudWatch Synthetics は、CloudWatch Synthetics が Amazon Simple Storage Service (Amazon S3) バケットに保存する canary 実行データを暗号化するために提供する AWS Key Management Service (AWS KMS) キーの使用をサポートするようになりました。デフォルトでは、これらのアーティファクトは AWS マネージドキーを使用して保管時に暗号化されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/",
-          "publishedOn": "2021-10-26T02:33:39.000Z",
-          "wordCount": 259,
-          "title": "Amazon CloudWatch Synthetics によってアーティファクトを暗号化するための AWS KMS カスタマーマネージドキーのサポートのご紹介"
-        },
-        {
-          "id": "c13b681865c1912c91645f81d10a69d4d4343742",
-          "author": "aws@amazon.com",
-          "description": "MySQL のマイナーバージョン 8.0.23 および 8.0.25 をサポートするように、Amazon Relational Database Service (Amazon RDS) for MySQL on Outposts を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/",
-          "publishedOn": "2021-10-26T02:32:44.000Z",
-          "wordCount": 244,
-          "title": "Amazon RDS for MySQL on Outposts が新しいマイナーバージョンをサポート"
-        },
-        {
-          "id": "451f55165a83ebefd761d2bab8a66b0412105c0d",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight は、テーブルとピボットテーブル向けの高度なスタイル設定をサポートするようになりました。作成者は、罫線や色をカスタマイズするために新しくリリースされたオプションを使用して、見た目のよいテーブルを作成したり、デザインパターンを採用したり、標準化されたコーポレートアイデンティティを表形式のビジュアルに適用したりできます。また、合計と小計にカスタムの罫線とスタイルを適用して、損益計算書などの財務報告書を作成することもできます。詳細については、こちらをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/",
-          "publishedOn": "2021-10-26T02:31:55.000Z",
-          "wordCount": 236,
-          "title": "Amazon QuickSight が新しいテーブルとピボットテーブルの機能強化をリリース"
         }
       ]
     }
