@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-02T00:21:38.245Z</updated>
+    <updated>2021-11-03T00:21:24.566Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS マネージドノードグループが Bottlerocket のネイティブサポートを追加]]></title>
+        <id>72dd8c4efc10409c546a36ddb8497e872571e317</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-eks-nodes-groups-bottlerocket/"/>
+        <updated>2021-11-02T14:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) は、すべての商用 AWS リージョンの EKS マネージドノードグループにおいて、Bottlerocket のネイティブサポートを追加しました。現在、EKS の顧客の多くは、様々なユースケースに対応した OS を搭載したワーカーノードにアプリケーションをデプロイしています。AWS は、コンテナの実行を目的として構築・最適化された、Linux ベースのミニマルなオープンソース OS Bottlerocket を発表しました。EKS マネージドノードグループと Bottlerocket を組み合わせることで、顧客は本番環境でコンテナを実行するための最新のベストプラクティスを用いて、コンピューティング性能のプロビジョニングと管理を簡単に行うことができます。Bottlerocket は、マネージドノードグループに組み込まれた AMI の選択肢として含まれており、顧客はワンクリックでコンテナに最適化されたワーカーノードをプロビジョニングすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 C6i インスタンスのご紹介]]></title>
+        <id>0765de6e363fd497838197d5f3d9847375ecd337</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/"/>
+        <updated>2021-11-02T14:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Service (AWS) は、コンピューティングに最適化された Amazon EC2 C6i インスタンスの一般提供を開始しました。C6i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサー (コードネーム: Ice Lake) を搭載し、様々なワークロードにおいて C5 インスタンスと比較して最大 15％ のコンピュートティングプライスパフォーマンスを提供し、インテルトータルメモリーエンクリプション (TME) を使用した常時メモリ暗号化を実現しています。C6i インスタンスは、計算負荷の高いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。これらのインスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーション向けに設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise は異なる階層で同じアセットモデルを使用するサポートを発表]]></title>
+        <id>a02f1c24859ce3f6c140e6a00d028279e81436e1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-iot-sitewise-support-same-asset-models-different-hierarchies/"/>
+        <updated>2021-11-02T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise では、顧客が同じアセットモデルを異なるアセットモデル階層で使用できるようになりました。この機能により、顧客は産業活動の仮想的な表現を構築するために必要なモデルの数を減らし、アセットモデリングを簡素化することができます。これまでは、異なるプロダクションサイトに配置された同じ種類のマシンに対して、ユーザーはプロダクションサイトのモデルごとに 1 つのアセットモデルを作成する必要がありました。これにより、ユーザーは 1 つのアセットモデルを作成し、それをすべてのプロダクションサイトモデルで再利用することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fargate がAmazon ECS の Windows コンテナをサポート]]></title>
+        <id>503a6cf288017c29abe688106219d869cb648ceb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/"/>
+        <updated>2021-11-02T14:33:28.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は、Amazon ECS の Windowsコンテナ向けに AWS Fargate を提供することを発表しました。この機能により、Amazon ECS の顧客は、AWS 上で Windows コンテナをより簡単に実行できるようになり、最新のコンテナ技術の導入を簡素化することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.4, 12.8, 11.13, 10.18 をサポート]]></title>
+        <id>fbf16c46b838885d7e0bded594cc8dfc047668ef</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-releases/"/>
+        <updated>2021-11-02T14:32:41.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートの発表を受け、Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL 13.4, 12.8, 11.13, 10.18 をサポートします。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。なお、Amazon Aurora PostgreSQL 9.6 は、2022 年 1 月 31 日にライフサイクルが終了します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が通話録音をサポート]]></title>
+        <id>44356cded0f44ca321a80e49f4e8688af8ca35f4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-phone-call-recording/"/>
+        <updated>2021-11-02T14:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK は、デベロッパーがアプリケーションにリアルタイムのオーディオ、ビデオ、画面共有、メッセージング機能を簡単に追加できるサービスです。PSTN (Public Switched Telephone Network) オーディオ API を利用することで、デベロッパーは、音声メニュー、クリックトゥコール、コールルーティングなどのカスタマイズされたテレフォニーアプリケーションを、サーバーレスの AWS Lambda 関数の俊敏性とオペレーションの簡便性を利用して構築することができます。本日より、デベロッパーは通話録音機能を使って、PSTN および SIP (Session Initiation Protocol) の音声通話を録音し、ご希望のAmazon Simple Storage Service (Amazon S3) バケットに保存することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora PostgreSQL が PostGIS 3.1 をサポート]]></title>
+        <id>c5a98bea5118516200cdb34b9acc4bc8ff1b9657</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-postgis/"/>
+        <updated>2021-11-02T14:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションは、PostGIS メジャーバージョン 3.1 をサポートするようになりました。この新しいバージョンの PostGIS は、PostgreSQL バージョン 13.4、12.8、11.13、10.18 以降で利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Textract が TIFF のサポートを開始し、領収書と請求書の処理用に非同期サポートを追加]]></title>
+        <id>88d6af518253942c832bc6e0c40d6ef85d857df6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/"/>
+        <updated>2021-11-02T13:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Textract は、PNG、JPEG、および PDF 形式に加えて、TIFF (Tag Image File Format) のドキュメントをサポートするようになりました。お客様は、DetectDocumentText、StartDocumentAnalysis、StartDocumentTextDetection、AnalyzeDocument、および AnalyzeExpense といった Amazon Textract API のいずれかを使用して、TIFF ドキュメントを同期または非同期で処理できるようになりました。Amazon Textract は、印刷および手書きのテキストとデータを任意のドキュメントから自動的に抽出する機械学習サービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 スポット配置スコアのご紹介]]></title>
+        <id>a8a68542d240787d2aa592fea03b95dc24c0c550</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/"/>
+        <updated>2021-11-02T13:31:54.000Z</updated>
+        <summary type="html"><![CDATA[本日、スポットのワークロードに最適な場所を見つけるのに役立つ、Amazon EC2 スポット配置スコアを導入します。スポットインスタンスの可用性は、インスタンスタイプ、時刻、リージョン、およびアベイラビリティーゾーンによって異なります。これまでは、スポットインスタンスを最初に起動しようとしない限り、スポット容量のニーズを満たすのに最適なリージョンまたはアベイラビリティーゾーンを見つける方法はありませんでした。今後は、スポット配置スコアが、スポット容量の要件に基づいてリージョンまたはアベイラビリティーゾーンを推奨できます。スポット配置スコアは、任意のリージョンまたはアベイラビリティーゾーンで起動できる、インスタンスタイプの柔軟なワークロードに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 が Auto Scaling グループ、EC2 フリート、およびスポットフリート用の属性ベースの多様なインスタンスタイプを発表]]></title>
+        <id>5011f181e9d213cd489a4579f14d2f4a2b969857</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/"/>
+        <updated>2021-11-02T13:31:05.000Z</updated>
+        <summary type="html"><![CDATA[本日より、ワークロードのインスタンス要件に基づいて EC2 容量をリクエストできます。Amazon EC2 Auto Scaling、EC2 フリート、およびスポットフリート用の新機能である属性ベースの多様なインスタンスタイプにより、EC2 インスタンスタイプを調査および選択しなくても、インスタンスフリートを簡単に作成および維持できます。これは、コンテナ、ビッグデータ、CI/CD などのインスタンスタイプの柔軟なワークロードとフレームワークを実行する場合や、インスタンスフリートで最新世代のインスタンスタイプを自動的に使用する必要があるシンプルな事例で役立ちます。受け入れ可能なインスタンスタイプのリストを作成して維持する代わりに、インスタンス要件を一度定義するだけで、残りの作業を属性ベースの多様なインスタンスタイプに任せることができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Chime SDK がプッシュ通知のサポートを開始]]></title>
         <id>ec89d37d0d34339ae01bdea810aa693fe140b35d</id>
@@ -212,26 +312,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/"/>
         <updated>2021-10-28T08:30:57.000Z</updated>
         <summary type="html"><![CDATA[AWS Audit Manager は、カスタムフレームワーク共有を提供し、AWS アカウントとリージョンをまたぐカスタムフレームワークを共有する安全で簡単な方法です。これにより、複数の AWS アカウントをまたいだカスタムフレームワークの即時アクセスが有効になります。基礎となるカスタムコントロールを手動でコピーしたり移動したりする必要はありません。カスタムフレームワーク共有は、共有されたフレームワークへのクイックアクセスを提供し、これにより、お客様が提供した最新かつ一貫性のある情報をユーザーが常に確認できます。AWS Audit Manager アカウントでのカスタムフレームワーク共有機能は、追加のコストなしでご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify for JavaScript がストレージのリジューム可能なファイルアップロードをサポート]]></title>
-        <id>bf6bbe8ff46581fa4a6c1ad0fad544c7d06c0d10</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/"/>
-        <updated>2021-10-27T02:11:21.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify for JavaScript は、Amplify ストレージカテゴリ経由で Simple Storage Service(Amazon S3) にファイルをアップロードする際の一時停止、再開、キャンセルのアクションに対応しました。Amplify はユースケース指向の UI コンポーネント、ライブラリ、コマンドラインツールのセットを提供し、フロントエンドのウェブやモバイルのデベロッパーがアプリケーションのための AWS クラウドバックエンドを簡単に構築できるようにします。このリリースにより、デベロッパーは、エンドユーザーが加工前ビデオや大容量の生産性の高いドキュメントなど、非常に大きなファイルを確実にアップロードできる体験を提供することができます。アップロードを再開できることは、アップロード中にネットワークが遮断された場合などに有効です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS Proxy が Amazon RDS for MySQL Version 8.0 をサポート]]></title>
-        <id>db16dde4b914796fd99b35e2b431177e1b280b2a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/"/>
-        <updated>2021-10-27T02:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS Proxy が Amazon RDS for MySQL major version 8.0 をサポート。MySQL 8.0 は、コミュニティエディションの最新のメジャーバージョンで、パフォーマンス、信頼性、セキュリティ、管理性が向上しています。Amazon RDS for MySQL の詳細については、詳細ページ またはドキュメントをご覧ください。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
