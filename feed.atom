@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-03T00:21:24.566Z</updated>
+    <updated>2021-11-04T00:21:34.153Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Transit Gateway Network Manager はグローバルネットワークにおけるネットワークとルートの分析を簡素化する新しい API を発表]]></title>
+        <id>ab0efbc5767df12bba20748f3c042cbb3a625738</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/"/>
+        <updated>2021-11-03T12:31:05.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Transit Gateway Network Manager は、グローバルネットワークの自動分析を行い、可視化を目的とした独自のトポロジービューの構築を可能にする新しいAPIを発表しました。以下の API を使用して、グローバルなネットワークリソースの集約されたビューを取得し、ルートを分析し、AWS リージョン間のテレメトリーデータを取得できます:
+ 
+ 
+ 
+グローバルネットワークのネットワークリソースの記述 (GetNetworkResources)
+ 
+ 
+グローバルネットワークのネットワークヘルス情報の取得 (GetNetworkTelemetry )
+ 
+ 
+特定のルートテーブルのネットワークルートの取得 (GetNetworkRoutes )
+ 
+ 
+特定のリソースのネットワークリソース関係の取得 (GetNetworkResourceRelationships)
+ 
+ 
+グローバルネットワークのネットワークリソース数の取得 (GetNetworkResourceCounts)]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QLDB で新しいバージョンの QLDB Shell が利用可能に]]></title>
+        <id>8392fd530808e3a504c993b39209a8eb0df04fca</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-qldb-new-version-qldb-shell/"/>
+        <updated>2021-11-03T04:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quantum Ledger Database (QLDB) で、インストールと使用がより簡単な新しいバージョンの QLDB Shell をご利用いただけるようになります。QLDB のお客様は、お気に入りのオペレーティングシステムに合わせた QLDB Shell をダウンロードして、他のインストール手順を実行したり、依存関係をインストールしたりすることなく、QLDB 台帳のクエリを開始できるようになりました。QLDB Shell はオープンソースであるため、エキスパートのユーザーは、ソースコードから構築し、カスタム要件に合わせて調整できます。更新された QLDB Shell は、クエリランタイム統計を改善し、クエリ出力用にオプションの表形式のデータフォーマットを導入し、優先オプションの保存のための設定ファイルサポートを提供し、表の一覧表示や、台帳、リージョン、およびエンドポイントの切り替えに便利なコマンドを追加します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GameLift が新しいリージョンで利用可能となり、Graviton2 のサポートも利用可能に]]></title>
+        <id>fbec69b3b241891ac464017f818a962fc6505b90</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/new-region-availability-graviton2-support-amazon-gamelift/"/>
+        <updated>2021-11-03T04:33:36.000Z</updated>
+        <summary type="html"><![CDATA[マルチプレイヤーゲーム用のクラウドサーバーをデプロイ、運用、およびスケールするフルマネージドの専用ゲームサーバーホスティングソリューションである Amazon GameLift が、AWS アジアパシフィック (大阪) リージョンでご利用いただけるようになりました。ゲームデベロッパーは、GameLift マルチリージョンフリートを使用して大阪にインスタンスをデプロイできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App2Container が ECS Fargate Windows のサポートを開始]]></title>
+        <id>41fb8e5f1a6a9220c4897378cf0c315b31ffab3e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/"/>
+        <updated>2021-11-03T04:31:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS App2Container (A2C) は、コンテナ化された Windows アプリケーションの AWS Fargate for ECS Windows コンテナへのデプロイをサポートするようになりました。この機能により、ユーザーは、これまでもサポートされていた ECS および EKS に加えて、デプロイランタイムとして AWS Fargate for ECS Windows コンテナをターゲットにできるようになりました。App2Container を使用すると、デベロッパーは、いくつかの簡単な手順で、実行中の Windows ベースの .NET アプリケーションまたは Windows サービスを利用して、分析、コンテナ化、および AWS Fargate for ECS Windows コンテナへのデプロイを実行できます。デベロッパーは、AWS Fargate が提供する Auto Scaling、ホスト管理、およびセキュリティで保護されたアプリケーションライフサイクル管理を利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EKS マネージドノードグループが Bottlerocket のネイティブサポートを追加]]></title>
         <id>72dd8c4efc10409c546a36ddb8497e872571e317</id>
@@ -272,46 +328,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-mysql-version-8-0-26-global-transaction-identifiers-gitds-delayed-replication/"/>
         <updated>2021-10-28T22:01:52.000Z</updated>
         <summary type="html"><![CDATA[MySQL バージョン 8.0 のアップデートのリリースに続いて、Amazon Relational Database Service (Amazon RDS) for MySQL および Amazon RDS for MySQL on Outposts をアップデートして、MySQL マイナーバージョン 8.0.26 をサポートしました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Load Balancer Controller バージョン 2.3 が利用可能になり、ALB IPv6 ターゲットのサポートの提供を開始]]></title>
-        <id>2d26f562fb8b184513fa11224c17ef495821124b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/"/>
-        <updated>2021-10-28T08:34:09.000Z</updated>
-        <summary type="html"><![CDATA[AWS Load Balancer Controller は、Kubernetes クラスターで実行されているアプリケーションにトラフィックをルーティングする Elastic Load Balancing を構成および管理するための Kubernetes ネイティブな方法を提供します。Elastic Load Balancing では、複数のロードバランサーが提供されています。これらはすべて、アプリケーションの耐障害性を高めるのに必要な高い可用性、オートスケーリング、堅牢なセキュリティを特徴としています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が、ユーザー、ユーザー階層グループ、オペレーション時間をサポートする AWS CloudFormation をリリース]]></title>
-        <id>d331b29ee6ca1ee37494221431acfac01d990254</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/"/>
-        <updated>2021-10-28T08:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、ユーザー、ユーザー階層、オペレーション時間の 3 つの API での AWS CloudFormation をサポートすることになりました。AWS CloudFormation テンプレートを使用して、他の AWS インフラストラクチャと共にこれらの Amazon Connect リソースを安全、効率的、繰り返し可能な方法でデプロイできるようになりました。加えて、これらのテンプレートを使用して Amazon Connect インスタンス全体の一貫線を維持できます。詳細については、 AWS CloudFormation ユーザーガイドの「Amazon Connect リソースタイプリファレンス」を参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が API を起動してオペレーション時間をプログラムで設定]]></title>
-        <id>71e57149aa177fd865885407533c6b5ea883d61a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/"/>
-        <updated>2021-10-28T08:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、オペレーション時間をプログラムで作成および管理するための API の提供を開始しました。この API を使用して、ルートが接触するキューを決定する問い合わせフローで使用されるオペレーション時間をプログラムで設定することができます。さらに、[API の削除] を使用して不要になったオペレーション時間を削除できるようになりました。詳細については、API ドキュメントを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Audit Manager カスタムフレームワークの共有が一般に利用可能に]]></title>
-        <id>f1e6062ccfd357f82a6624e80f545e672b87a623</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/"/>
-        <updated>2021-10-28T08:30:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS Audit Manager は、カスタムフレームワーク共有を提供し、AWS アカウントとリージョンをまたぐカスタムフレームワークを共有する安全で簡単な方法です。これにより、複数の AWS アカウントをまたいだカスタムフレームワークの即時アクセスが有効になります。基礎となるカスタムコントロールを手動でコピーしたり移動したりする必要はありません。カスタムフレームワーク共有は、共有されたフレームワークへのクイックアクセスを提供し、これにより、お客様が提供した最新かつ一貫性のある情報をユーザーが常に確認できます。AWS Audit Manager アカウントでのカスタムフレームワーク共有機能は、追加のコストなしでご利用いただけます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
