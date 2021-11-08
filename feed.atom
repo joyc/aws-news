@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-07T00:22:45.326Z</updated>
+    <updated>2021-11-08T00:22:15.999Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -339,26 +339,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/"/>
         <updated>2021-11-02T13:31:05.000Z</updated>
         <summary type="html"><![CDATA[本日より、ワークロードのインスタンス要件に基づいて EC2 容量をリクエストできます。Amazon EC2 Auto Scaling、EC2 フリート、およびスポットフリート用の新機能である属性ベースの多様なインスタンスタイプにより、EC2 インスタンスタイプを調査および選択しなくても、インスタンスフリートを簡単に作成および維持できます。これは、コンテナ、ビッグデータ、CI/CD などのインスタンスタイプの柔軟なワークロードとフレームワークを実行する場合や、インスタンスフリートで最新世代のインスタンスタイプを自動的に使用する必要があるシンプルな事例で役立ちます。受け入れ可能なインスタンスタイプのリストを作成して維持する代わりに、インスタンス要件を一度定義するだけで、残りの作業を属性ベースの多様なインスタンスタイプに任せることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK がプッシュ通知のサポートを開始]]></title>
-        <id>ec89d37d0d34339ae01bdea810aa693fe140b35d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-push-notifications/"/>
-        <updated>2021-11-01T11:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。本日より、Amazon Chime SDK は、Amazon Chime SDK メッセージングチャネルを通じて送信されたメッセージについて、Amazon Pinpoint を介した iOS および Android のプッシュ通知をサポートします。プッシュ通知を使用すると、チャットに Amazon Chime SDK メッセージングを使用するデベロッパーは、ユーザーがアプリケーションを積極的に使用していない場合でも、新しいメッセージについてユーザーに確実に通知することができます。ユーザーは、アプリケーションを切り替えたり、モバイルデバイスをロックして、新しいメッセージや通話が着信したときに通知を受信したりできます。これにより、通知をタップして元のアプリケーションに戻り、会話を続行したり、通話に参加したりできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS SAM Accelerate の発表 - クラウドに対してコード変更をすばやくテストする (パブリックプレビュー)]]></title>
-        <id>fd76fbb65e497a320e5cd133d3f8892e304b7cb3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-sam-accelerate-test-code-changes-cloud/"/>
-        <updated>2021-11-01T11:30:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS Serverless Application Model (SAM) は、AWS SAM Accelerate のパブリックプレビューを発表します。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。SAM Accelerate は、SAM CLI の新機能であり、デベロッパーがサーバーレスアプリケーションに対してローカルに行われたコード変更をクラウドベースの環境に対してテストすることをより迅速かつ容易にし、ローカルの反復作業から本番環境への準備までの時間を短縮します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
