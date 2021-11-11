@@ -12,6 +12,33 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ece8acd62fd8372f900d122af3cbede439560a97",
+          "author": "aws@amazon.com",
+          "description": "Amazon Athena は、クエリのコンピューティングコストを実行プランとともに表示するようになりました。EXPLAIN ANALYZE ステートメントのリリースにより、Athena は指定されたクエリを実行し、各ステージの CPU 使用率および処理された行数とともに、実行プランの詳細な内訳を返すことができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/",
+          "publishedOn": "2021-11-10T05:32:24.000Z",
+          "wordCount": 263,
+          "title": "Amazon Athena がクエリ実行プランにコストの詳細を追加"
+        },
+        {
+          "id": "f429e2e471f5d96f8b107965e385e48d2f161cfa",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN Network Server (LNS) であり、省電力長距離広域ネットワーク (LoRaWAN) テクノロジーを使用するワイヤレスデバイスを AWS クラウドに接続するのを可能にします。現在、AWS IoT Core for LoRaWAN は、Firmware Over-the-Air Update (FUOTA) をサポートしています。これにより、お客様は、LoRa Alliance によって定義された LoRaWAN マルチキャストおよびフラグメンテーションメカニズムを使用して、フィールド内のデバイスに安全で信頼性の高いファームウェアアップデートを配信できます。これらのメカニズムは、デバイスのバッテリー消費を最小限に抑え、大規模なファイル転送 (数百 KB) を処理することを目的としています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/",
+          "publishedOn": "2021-11-10T05:31:36.000Z",
+          "wordCount": 299,
+          "title": "AWS IoT Core for LoRaWAN がマネージドファームウェアの無線通信経由アップデートをサポート"
+        },
+        {
+          "id": "aae6fc67db86c3634361cf485a71c4786b3d92ef",
+          "author": "aws@amazon.com",
+          "description": "委任された単一の管理者アカウントから、組織内のすべてのアカウントで生成されたインサイトを表示できるようになりました。インサイトは、Amazon DevOps Guru がアプリケーションのモニタリング中に運用上の問題を検出したときに生成されるアラートです。これらのインサイトは、現在生じているか、差し迫ったアプリケーションの問題を特定し、問題を引き起こしている可能性のある事象を示し、顧客に影響を及ぼすイベントの発生を防ぐのに役立つ是正措置を推奨します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/",
+          "publishedOn": "2021-11-10T05:30:48.000Z",
+          "wordCount": 297,
+          "title": "Amazon DevOps Guru が AWS Organizations とのマルチアカウントのインサイトの集約のサポートを開始"
+        },
+        {
           "id": "52b381934b08524884df60ae28ab533b079e32a4",
           "author": "aws@amazon.com",
           "description": "AWS DataSync で、Hadoop Distributed File Systems (HDFS) および Amazon S3、Amazon Elastic File System (EFS) 、または Amazon FSx for Windows File Server 間でデータの転送ができるようになりました。DataSync を使用して、Hadoop クラスターの HDFS から AWS ストレージにファイルやフォルダをすばやく、また簡単かつ安全に移行できます。また、DataSync を使用して、ビジネスの継続性維持のために Hadoop クラスターのデータを AWS にレプリケートし、AWS にデータをコピーしてデータレイクに格納できます。また、クラスターおよび AWS 間でデータを転送し、分析や処理を行えます。",
@@ -226,159 +253,6 @@
           "publishedOn": "2021-11-04T18:31:16.000Z",
           "wordCount": 384,
           "title": "AWS Graviton2 ベースの T4g インスタンスが AWS GovCloud (米国西部) リージョンで使用可能に"
-        },
-        {
-          "id": "53f73221dedbb382c217e7d8d10a01e6e8f18c67",
-          "author": "aws@amazon.com",
-          "description": "マルチユーザーの設定では、組織 (アカウント管理者) は、レーサーにアカウント ID での AWS DeepRacer サービスへのアクセスを提供し、AWS DeepRacer コンソールから、トレーニングやストレージへの支出をモニタリングし、トレーニングの有効化/無効化を行い、アカウント内のすべてのユーザーのモデルを表示/管理することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-deepracer-multi-user-account-management/",
-          "publishedOn": "2021-11-04T02:59:16.000Z",
-          "wordCount": 264,
-          "title": "AWS DeepRacer がマルチユーザーアカウント管理を導入"
-        },
-        {
-          "id": "562dc9604eddf3f085af47f54332a979bf446999",
-          "author": "aws@amazon.com",
-          "description": "Amazon MemoryDB for Redis が、AWS CloudFormation のサポートを開始、CloudFormation テンプレートを使用して MemoryDB リソースを管理できるようになります。Amazon MemoryDB for Redis は、Redis と互換性があり、耐久性のあるインメモリデータベースサービスで、超高速なパフォーマンスを実現します。AWS CloudFormation は、インフラストラクチャをコードとして扱うことで、AWS およびサードパーティーのリソースをモデル化、プロビジョニング、管理することができます。CloudFormation を使用すると、コンソールから MemoryDB を個別に設定しなくても、MemoryDB リソースを簡単に作成および管理できるようになります。例えば、CloudFormation テンプレートを使用して、MemoryDB クラスター、サブネットグループ、パラメータグループ、ユーザーを作成できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/",
-          "publishedOn": "2021-11-04T02:58:29.000Z",
-          "wordCount": 296,
-          "title": "Amazon MemoryDB for Redis が AWS CloudFormation のサポートを開始"
-        },
-        {
-          "id": "87480a5d642d6c649c352e8dfd3718c8c9aabf57",
-          "author": "aws@amazon.com",
-          "description": "Amazon Simple Email Service (Amazon SES) が、新しく再設計されたサービスコンソールの開始を発表しました。合理化されたルックアンドフィールを備えた新しいコンソールにより、お客様は、Amazon SES が提供する速度、信頼性、および柔軟性をさらに簡単に活用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-simple-email-service-new-console-experience/",
-          "publishedOn": "2021-11-04T02:56:52.000Z",
-          "wordCount": 278,
-          "title": "Amazon Simple Email Service が、新しいコンソールエクスペリエンスを提供開始"
-        },
-        {
-          "id": "b7115170268f8d88747a412966ba1a41bb7c7aa6",
-          "author": "aws@amazon.com",
-          "description": "本日より、2 つの新しい Amazon CloudWatch メトリクスを使用して、AWS Global Accelerator 環境をモニタリングできます。EC2 インスタンス、Application Load Balancer、ネットワークロードバランサー、Elastic IP アドレスなど、アクセラレーターによって提供される正常なエンドポイントの総数と異常なエンドポイントの総数をモニタリングできるようになりました。2 つの新しいメトリクスを使用すると、CloudWatch アラームを作成して、Global Accelerator エンドポイントの問題をより迅速かつ簡単に検出できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-global-accelerator-support-new-amazon-cloudwatch-metrics/",
-          "publishedOn": "2021-11-04T02:55:17.000Z",
-          "wordCount": 286,
-          "title": "AWS Global Accelerator が 2 つの新しい Amazon CloudWatch メトリクスをサポート開始"
-        },
-        {
-          "id": "be262328847c8b4a1be0e24382a36e67a8543170",
-          "author": "aws@amazon.com",
-          "description": "Amazon マシンイメージ (AMI) を AWS Organizations や Organizational Units (OU) と共有できるようになりました。これまでは、特定の AWS アカウント ID でのみ AMI を共有することができました。AWS Organizations で AMI を共有するには、AWS Organizations に追加されたり、AWS Organizations から削除された AWS アカウントと AMI の共有を明示的に管理する必要がありました。この新機能により、組織変更のために AMI のパーミッションを更新する必要がなくなりました。組織変更があった場合、AMI の共有は自動的に同期されます。この機能により、AWS アカウントの成長と拡張に合わせて、AMI を一元的に管理・運営することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-amazon-machine-images-organizations/",
-          "publishedOn": "2021-11-04T02:54:30.000Z",
-          "wordCount": 334,
-          "title": "Amazon EC2 は AWS Organizations とOrganizational Units 間での Amazon マシンイメージの共有をサポート"
-        },
-        {
-          "id": "73bd0b45f0b18b39ad523282c16c840426d45bbf",
-          "author": "aws@amazon.com",
-          "description": "AWS App Mesh Metric Extension が一般提供を開始しました。Metric Extension により、顧客は App Mesh サービスのメトリクスを収集し、フィルタリングすることで、デバッグやモニタリングの簡素化、利用コストの削減に役立てることができます。App Mesh Metric Extension は、Amazon EC2、Amazon ECS、Amazon EKS、および自己管理型 Kubernetes 上でワークロードを実行しているすべての顧客が利用できます。 AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピュートインフラストラクチャを介して、サービス同士の通信を容易にします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-app-mesh-metric-extension-available/",
-          "publishedOn": "2021-11-04T02:50:30.000Z",
-          "wordCount": 294,
-          "title": "AWS App Mesh Metric Extension が一般提供を開始"
-        },
-        {
-          "id": "46acf3ea036c5e0177fa9ca1411868cb865ef4ad",
-          "author": "aws@amazon.com",
-          "description": "Babelfish for PostgreSQL オープンソースプロジェクトが利用可能になりました。Babelfish for PostgreSQL は、PostgreSQL が Microsoft SQL Server 用に作成されたアプリケーションからのクエリを理解する機能を提供します。Babelfish を使用すると、現在 SQL Server で実行されているアプリケーションを、従来の移行と比較して、わずかな作業のみを必要として PostgreSQL で直接実行できます。Babelfish は、SQL Server のワイヤープロトコルと Microsoft SQL Server クエリ言語である T-SQL を理解しているため、データベースドライバーを切り替えたり、すべてのアプリケーションクエリを書き直したりする必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/babelfish-postgresql-open-source-project/",
-          "publishedOn": "2021-11-04T02:49:41.000Z",
-          "wordCount": 276,
-          "title": "Babelfish for PostgreSQL オープンソースプロジェクトの利用開始を発表"
-        },
-        {
-          "id": "883d52fa98eca0a1b462b1483e68d2ceb93587ee",
-          "author": "aws@amazon.com",
-          "description": "Amazon Transcribe は、自動音声認識 (ASR) サービスで、機械学習の専門知識がなくても、アプリケーションに音声をテキストにする機能を簡単に追加することができます。本日より、Amazon Transcribe は、AWS ストックホルムおよびケープタウンリージョンでのバッチトランスクリプションをサポートします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-transcribe-batch-transcription-aws-stockholm-cape-town-regions/",
-          "publishedOn": "2021-11-04T02:48:53.000Z",
-          "wordCount": 291,
-          "title": "Amazon Transcribe が AWS ストックホルムおよびケープタウンリージョンでのバッチトランスクリプションをサポートしました。"
-        },
-        {
-          "id": "35ea5a7481ed9e075269891428cc0ac8bc1e75be",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lightsail は、AWS CloudFormation をサポートしており、CloudFormation テンプレートを利用して、Lightsail インスタンス、ディスク、データベースで構成されるアプリケーションスタックのプロビジョニングと管理を行うことができます。必要に応じてスタックの自動化や複製を簡単に行うこともできます。これにより、Lightsail コンソールや AWS CLI/SDK に加えて、Lightsail リソースを管理する便利な方法が追加されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/",
-          "publishedOn": "2021-11-04T02:48:05.000Z",
-          "wordCount": 272,
-          "title": "Amazon Lightsail がインスタンス、ディスク、データベースの AWS CloudFormation をサポート"
-        },
-        {
-          "id": "7dc9193fa47db0fef8b10bf4c327875a28a4093d",
-          "author": "aws@amazon.com",
-          "description": "Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新機能であり、Microsoft SQL Server 用に作成されたアプリケーションからのクエリを理解できるようにします。Babelfish を使用すると、現在 SQL Server で実行されているアプリケーションを、従来の移行と比較して、わずかな作業のみを必要として Aurora PostgreSQL で直接実行できます。Babelfish は、SQL Server のワイヤープロトコル (TDS) と Microsoft SQL Server クエリ言語である T-SQL を理解しているため、データベースドライバーを切り替えたり、すべてのアプリケーションクエリを書き直したりする必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/babelfish-aurora-postgresql-now-generally-available/",
-          "publishedOn": "2021-11-04T02:45:02.000Z",
-          "wordCount": 312,
-          "title": "Babelfish for Aurora PostgreSQL の一般提供開始"
-        },
-        {
-          "id": "fd3f6407c4909f54212460cbd73c2f4d224c8bc0",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect Chat では、チャットメッセージのリアルタイムストリームを購読できるようにすることで、お客様にカスタマイズされた体験を提供できる新しい API を提供しています。新しい API を使用すると、Amazon Connect Chat を SMS ソリューションやサードパーティのメッセージングアプリケーション（Facebook Messenger、Twitter など）と統合したり、モバイルプッシュ通知を有効にしたり、チャットメッセージのアクティビティを監視・追跡する分析ダッシュボードを作成したりすることができます。メッセージは Amazon Simple Notification Service (Amazon SNS) を介して公開され、Amazon SNS コンソールにアクセスして新しい SNS トピックを作成することで、数回のクリックで設定することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-chat-real-time-message-streaming-apis/",
-          "publishedOn": "2021-11-04T02:40:55.000Z",
-          "wordCount": 297,
-          "title": "Amazon Connect Chat がリアルタイムメッセージストリーミング API を追加"
-        },
-        {
-          "id": "5378afae72e531b985e12644274a60c01ef47b3d",
-          "author": "aws@amazon.com",
-          "description": "EC2 で最速のブロックストレージパフォーマンスを提供する Amazon EC2 R5b インスタンスが、AWS 欧州 (アイルランドとロンドン) リージョンで利用できるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを提供します。これらのインスタンスは、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-r5b-instances-available-additional-regions/",
-          "publishedOn": "2021-11-04T02:40:08.000Z",
-          "wordCount": 326,
-          "title": "Amazon EC2 R5b インスタンスをご利用いただけるリージョンが 2 つ増えました"
-        },
-        {
-          "id": "c38bdfbf92ae2587901d56acf0afdee344742a7a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Rekognition は機械学習 (ML) をベースにしたサービスで、画像やビデオを分析して、オブジェクト、人、顔、テキスト、シーン、アクティビティ、不適切なコンテンツなどを検出することができます。Celebrity Recognition では 、画像や動画に映っている何万人もの著名人を、顧客が機械学習を使うことにより、自動的に認識することができます。Clebrity Recognition は、制作されたメディアコンテンツにタグを付け、検索可能にするための反復的な手作業を大幅に削減します。8/26 に Rekognition Image のアップデート を実施し、精度の向上 (誤検出・誤認識の低減) と世界の著名人のカバー率向上を実現しました。さらに、認識された著名人ごとに、「性別」、「表情」、「笑顔」の 3 つの属性が追加されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rekognition-video-improved-celebrity-recognition/",
-          "publishedOn": "2021-11-04T02:38:32.000Z",
-          "wordCount": 272,
-          "title": "Amazon Rekognition Video でcelebrity recognition が向上"
-        },
-        {
-          "id": "076ac8aa1f51071b4491b2ac4593c6821c698d45",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect はアジアパシフィック (ソウル) AWS リージョンでの利用が可能になり、Amazon Connect を利用できる AWS リージョンが 10 ヵ所に増えました。韓国のフリーダイヤルと市内の電話番号を請求できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-asia-pacific-seoul-aws-region/",
-          "publishedOn": "2021-11-04T02:36:01.000Z",
-          "wordCount": 268,
-          "title": "Amazon Connect がアジアパシフィック (ソウル) AWS リージョンで利用可能に"
-        },
-        {
-          "id": "decfba01ea58268b755e95457288e371fce8c4b3",
-          "author": "aws@amazon.com",
-          "description": "AWS Marketplace が SaaS 契約の発注管理を発表\n 本日、AWS Marketplace は、SaaS 契約の発注管理を発表しました。これにより、お客様は AWS Marketplace で購入した SaaS 契約の AWS 請求書に発注番号を追加できます。以前は、すべての AWS Marketplace の取引で 1 つの発注番号しか追加できませんでした。これで、AWS Marketplace で取引する際に、SaaS 契約のパブリックオファーとプライベートオファーに固有の発注番号を追加できるようになります。AWS Marketplace で入力された発注番号は、対応する請求書に表示され、ソフトウェア支出の内部予算への割り当てを容易にします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-purchase-order-saas-contracts/",
-          "publishedOn": "2021-11-04T02:34:20.000Z",
-          "wordCount": 284,
-          "title": "AWS Marketplace が SaaS 契約の発注管理を発表"
-        },
-        {
-          "id": "0a6c3c02fea7725004b7a025b09eb135b2500b80",
-          "author": "aws@amazon.com",
-          "description": "視聴者測定のために Nielsen を使用している場合、AWS Elemental MediaLive を使用して、MediaLive チャネルで Nielsen 独自の透かしをエンコードできるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elemental-medialive-nielsen-watermarking/",
-          "publishedOn": "2021-11-04T02:33:33.000Z",
-          "wordCount": 280,
-          "title": "AWS Elemental MediaLive が、視聴者測定のために Nielsen 透かしのサポートを開始"
-        },
-        {
-          "id": "ab0efbc5767df12bba20748f3c042cbb3a625738",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Transit Gateway Network Manager は、グローバルネットワークの自動分析を行い、可視化を目的とした独自のトポロジービューの構築を可能にする新しいAPIを発表しました。以下の API を使用して、グローバルなネットワークリソースの集約されたビューを取得し、ルートを分析し、AWS リージョン間のテレメトリーデータを取得できます:\n \n \n \nグローバルネットワークのネットワークリソースの記述 (GetNetworkResources)\n \n \nグローバルネットワークのネットワークヘルス情報の取得 (GetNetworkTelemetry )\n \n \n特定のルートテーブルのネットワークルートの取得 (GetNetworkRoutes )\n \n \n特定のリソースのネットワークリソース関係の取得 (GetNetworkResourceRelationships)\n \n \nグローバルネットワークのネットワークリソース数の取得 (GetNetworkResourceCounts)",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/",
-          "publishedOn": "2021-11-03T12:31:05.000Z",
-          "wordCount": 291,
-          "title": "AWS Transit Gateway Network Manager はグローバルネットワークにおけるネットワークとルートの分析を簡素化する新しい API を発表"
         }
       ]
     }
