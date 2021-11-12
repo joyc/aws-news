@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-11T00:22:03.880Z</updated>
+    <updated>2021-11-12T00:22:50.625Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK ミーティングが、オレゴン、フランクフルト、およびシンガポールで API エンドポイントの提供を開始]]></title>
+        <id>96f90318136ef75fed2882fc45b34636da3d43be</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-chime-sdk-meetings-api-endpoints/"/>
+        <updated>2021-11-11T20:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK は、米国西部 (オレゴン)、欧州 (フランクフルト)、およびアジアパシフィック (シンガポール) の AWS リージョンでミーティング API エンドポイントを提供するようになりました。これにより、18 の Amazon Chime メディアリージョンのいずれかでホストできるミーティングの作成と管理に使用する AWS リージョンを選択できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が Amazon DocumentDB (MongoDB 互換) のサポートを追加]]></title>
+        <id>88f400b384a25beacfcaa0602646935992f053e8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/"/>
+        <updated>2021-11-11T20:03:45.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup は、Amazon DocumentDB (MongoDB 互換) のサポートを発表しました。これにより、データベース、ストレージ、およびコンピューティング向けにサポートされている他の AWS のサービスとともに、DocumentDB クラスターのデータ保護を一元管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Polly がスペイン語とイタリア語でニューラルテキスト読み上げの音声の提供を開始]]></title>
+        <id>893e8389f34e172139558cdd06408fd7ba7ded7e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-polly-neural-text-speech-voices-spanish-italian/"/>
+        <updated>2021-11-11T20:01:46.000Z</updated>
+        <summary type="html"><![CDATA[テキストを音声に変換するサービス (TTS) である Amazon Polly は、2 つの新しいニューラル TTS 音声の提供を開始します。標準スペイン語には Lucia、イタリア語には Bianca をご利用いただけるようになりました。今回の発表により、12 の言語で 22 のニューラル TTS 音声が提供されるようになりました。これらの音声を使用して、話すアプリケーションを作成し、まったく新しいカテゴリの音声対応製品を構築できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が Amazon Neptune のサポートを追加]]></title>
+        <id>82400722ce93d66ec430987354acc4fc5be67ba9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/"/>
+        <updated>2021-11-11T20:00:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup は、サポートされているサービスのポートフォリオに Amazon Neptune が追加されたことを発表します。これは AWS Backup の新機能であり、データベース、ストレージ、およびコンピューティング向けにサポートされている AWS のサービス全体で一元化されたデータ保護ポリシーを使用して、Amazon Neptune クラスターの自動化された定期的なスナップショットを作成することを可能にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fault Injection Simulator は Amazon CloudWatch アラームと AWS Systems Manager Automation Runbooks のサポートするようになりました。]]></title>
+        <id>eb3691e7fc8816a6354b1484c9402040d1467339</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/"/>
+        <updated>2021-11-11T09:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch アラームの状態をチェックし、AWS Systems Manager (SSM) Automations を実行する AWS Fault Injection Simulator (FIS) 実験を作成し、実行できるようになりました。また、事前に設定された SSM Agent ドキュメントを使用して、I/O、ネットワークブラックホール、パケットロスの障害を Amazon EC2 インスタンスに注入する新しい FIS 実験アクションを実行できるようになりました。テスト環境でも本番環境でも、実際の世界の状況下でアプリケーションがストレスに対してどのように反応するかを予測するのは困難な場合があるため、アラームチェックと自動ランブックを FIS の実験に統合することにより、ネットワークの問題、インスタンスの終了、API のスロットリング、その他の障害状態などの破壊的なイベントを注入する際の信頼性を高めることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Pipelines で再試行ポリシーと再開のサポートを開始]]></title>
+        <id>76e5e569032d0db7af285a515591e4c41c547cec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/"/>
+        <updated>2021-11-11T09:32:35.000Z</updated>
+        <summary type="html"><![CDATA[お客様がモデル構築のステップを定義し、オーケストレートすることを目的として構築されたサービスである Amazon SageMaker Pipelines は、失敗/停止したパイプラインの実行再開と、パイプラインステップの再試行ポリシーをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager の Incident Manager が、新たに 7 つの AWS リージョンで利用可能に]]></title>
+        <id>46b7b23d1679f7ffa03022107d5a8a8446932649</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-systems-manager-incident-manager-7-regions/"/>
+        <updated>2021-11-11T06:31:05.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Systems Manager の Incident Manager が、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ)、米国西部 (北カリフォルニア) の 7 つの AWS リージョンで一般利用可能 (GA) になったことをお知らせいたします。Incident Manager の詳細については、Incident Manager の製品ページを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex がオーストリアドイツ語のサポートを開始]]></title>
+        <id>b975a18cb9181680581572b21a7fe2e866d4b4b7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-lex-launches-support-austrian-german/"/>
+        <updated>2021-11-11T05:49:01.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Lex は、オーストリアドイツ語の言語サポートを発表しました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。これで、オーストリアドイツ語を理解する、堅牢でローカライズされた会話体験を提供できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Toolkits for Cloud9、AWS Toolkits for JetBrains および AWS Toolkits for VS Code 向け AWS Toolkit が 200 を超える新リソースタイプでのインタラクションのサポートを開始]]></title>
+        <id>1a4af821e151feb2c6fc4ecf302791fb06e3a2be</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-toolkits-cloud9-jetbrains-vs-code/"/>
+        <updated>2021-11-11T05:48:11.000Z</updated>
+        <summary type="html"><![CDATA[AWS Toolkit for JetBrains、AWS Toolkit for VS Code および AWS Toolkit for Cloud9 で、お客様は、IDE から離脱せず、 94 のサービス全体で 245 のリソースタイプのリストから選択および表示できるようになりました。このリリースにより、AWS Explorer ペインにデフォルトでリストされている AWS のサービスにアクセスすることに加え、お客様は、何百ものリソースから選択し、やり取りすることができます。この機能は、AWS Cloud Control API を使用して、将来、Toolkit に継続的かつ素早く新しいリソースタイプを追加させます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Translate が AWS KMS 暗号化のサポートを開始]]></title>
+        <id>7d11fa40187bd8a927939e2b00bd23210486c244</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-supports-aws-kms-encryption/"/>
+        <updated>2021-11-11T05:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日より、AWS Key Management Service (KMS) から独自の暗号化キーを使用して、S3 バケットに配置されたデータを暗号化できるようになりました。これまで、Amazon Translate では Amazon S3-SSE を使用してデータを暗号化していました。AWS KMS を使用することで、キーを簡単に作成・管理しながら、幅広い AWS のサービスやアプリケーションで暗号化の使用を制御できるようになります。AWS KMS はセキュアで弾力性の高いサービスで、キーのセキュリティを保護するために FIPS 140-2 で検証されたハードウェアセキュリティモジュールを使用します。AWS KMS は AWS CloudTrail と統合されており、すべてのキーの使用ログを表示できるため、規制およびコンプライアンスの要求に応えるために役立ちます。この機能は、AWS マネジメントコンソールあるいは SDK を介して設定でき、Amazon Translate の非同期バッチ翻訳ジョブをサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Fleet および Spot Fleet が、容量リバランスでの自動インスタンス終了のサポートを開始]]></title>
+        <id>53bf7a0df1b198d240ca6062b1f4cd95da61d887</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-fleet-spot-fleet-capacity-rebalancing/"/>
+        <updated>2021-11-11T05:46:12.000Z</updated>
+        <summary type="html"><![CDATA[今日から、容量リバランスを使用した場合に EC2 Fleet と Spot Fleet にスポットインスタンスを自動的に終了させるよう設定することができます。容量リバランスを使用すれば、表示されたように中断のリスクが上がった場合に、EC2 Fleet と Spot Fleet が EC2 Instance レコメンデーション信号により、 スポットインスタンスの置き換えを試みます。これまで、EC2 Fleet または Spot Fleet は、リバランスのレコメンデーションを受け取ったスポットインスタンスを終了せずに、交換用のスポットインスタンスを起動していました。つまり、ワークロードのリバランスが完了したらインスタンスを手動で終了するか、EC2 によって中断されるまでインスタンスを実行する必要があったのです。EC2 Fleet または Spot Fleet が指定された終了遅延でリバランスレコメンデーションを受信したインスタンスを自動的に終了するよう設定できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Athena がクエリ実行プランにコストの詳細を追加]]></title>
         <id>ece8acd62fd8372f900d122af3cbede439560a97</id>
@@ -253,26 +363,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/"/>
         <updated>2021-11-08T11:30:48.000Z</updated>
         <summary type="html"><![CDATA[本日、Amazon CloudFront がレスポンスヘッダーポリシーのサポートを開始します。CloudFront ディストリビューションが返す HTTP レスポンスに、CORS (cross-origin resource sharing)、セキュリティ、およびカスタムヘッダーを追加できるようになりました。これらのヘッダーを挿入するために、オリジンを設定したり、Lambda@Edge や CloudFront のカスタム機能を使用する必要はもうありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Activity Streams が Graviton2 ベースのインスタンスのサポートを開始]]></title>
-        <id>1b4f3d736bacf23fdbddfc339c08b70924d12e24</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/"/>
-        <updated>2021-11-05T03:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Database Activity Streams が、Amazon Aurora PostgreSQL 互換エディションおよび Amazon Aurora MySQL 互換エディションで Graviton2 ベースのインスタンスのサポートを開始しました。Amazon Aurora 用 Database Activity Streams は、監査とコンプライアンスの目的で、リレーショナルデータベース内のデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護できるようになり、コンプライアンスと規制要件への適合に役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton2 ベースの T4g インスタンスが AWS GovCloud (米国西部) リージョンで使用可能に]]></title>
-        <id>b375ab54bcc7526e78f7e988213ca7ab2dbafbc7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-graviton2-based-t4g-instances-aws-govcloud-us-west-region/"/>
-        <updated>2021-11-04T18:31:16.000Z</updated>
-        <summary type="html"><![CDATA[本日から、Amazon EC2 T4g インスタンスが AWS GovCloud (米国西部) リージョンでご利用可能になりました。T4g インスタンスは、Arm ベースの AWS Graviton2 プロセッサを搭載しており、T3 インスタンスよりも最大 40% 高い価格性能を実現します。これらのインスタンスでは、ベースラインレベルの CPU パフォーマンスが提供されますが、必要に応じていつでも CPU 使用率をバーストさせる機能を備えています。バランスの取れたコンピューティング、メモリ、ネットワークのリソースが提供されます。たとえば、大規模なマイクロサービス、キャッシングサーバー、検索エンジンのインデックス作成、e コマースプラットフォーム、小規模および中規模のデータベース、仮想デスクトップ、ビジネスクリティカルなアプリケーションといった幅広い汎用ワークロードに対応します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
