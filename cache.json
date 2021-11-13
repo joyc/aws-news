@@ -12,6 +12,159 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "bff68f4b5a43980778cbf5817a95528b476486cc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (EKS) on Fargate は、Fluent Bit ログに充実した Kubernetes 固有のメタデータを提供する Kubernetes Fluent Bit フィルターの使用をサポートします。お客様は、アプリケーションログに Kubernetes ポッド、コンテナ、名前空間名などの Kubernetes メタデータを関連させることで、より簡単にアプリケーションの観察やトラブルシューティングを行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/",
+          "publishedOn": "2021-11-12T23:37:41.000Z",
+          "wordCount": 309,
+          "title": "Amazon EKS on AWS Fargate が Fluent Bit Kubernetes Filter のサポートを開始"
+        },
+        {
+          "id": "5b7f847c06b583652bee6834a614002f3983a3a4",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Inference は、機械学習モデルを更新するため、新モデルのデプロイオプションをサポートしています。新しいデプロイガードレールを使用して、生産中の現行モデルから新モデルへ制御された方法で簡単に切り替えることができます。今回の起動で、canary と linear の各モードが導入され、更新中に現行モデルから新モデルへのトラフィック移行のきめ細かい制御ができるようになりました。自動ロールバックなどの安全装置が組み込まれているため、素早く問題を発見して生産に大きな影響が出る前に、自動的な修正作業を実行することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/",
+          "publishedOn": "2021-11-12T23:36:53.000Z",
+          "wordCount": 286,
+          "title": "Amazon SageMaker Inference エンドポイントの新しいデプロイガードレールを発表"
+        },
+        {
+          "id": "705838f4d8897061ff7f1338552323652327d6d7",
+          "author": "aws@amazon.com",
+          "description": "Amazon Translate は、高品質でカスタマイズ可能な言語翻訳をリアルタイムかつ手ごろな料金で提供する、フルマネージド型のニューラル機械翻訳サービスです。本日、Amazon Translate にマラーティー語、ポルトガル語 (ポルトガル)、パンジャブ語のサポートが追加されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/",
+          "publishedOn": "2021-11-12T23:36:06.000Z",
+          "wordCount": 311,
+          "title": "Amazon Translate がアイルランド語、マラーティー語、ポルトガル語 (ポルトガル)、パンジャブ語の 4 言語とバリアントのサポートを追加"
+        },
+        {
+          "id": "f76918853298451e983b64558024c86048dc22ae",
+          "author": "aws@amazon.com",
+          "description": "お客様は、JumpCloud Directory Platform (JumpCloud) をアマゾン ウェブ サービス (AWS) Single Sign-On (SSO) に一度接続し、AWS SSO で AWS へのアクセスを一元管理し、エンドユーザーが JumpCloud を使用してサインインして、割り当てられたすべての AWS アカウントにアクセスできるようになりました。この統合により、ID を管理する管理者やサインインするエンドユーザーにとって慣れ親しんだ JumpCloud におけるエクスペリエンスを維持しながら、複数のアカウントにわたる AWS アクセス管理を簡素化できます。AWS SSO と JumpCloud は、標準ベースの自動化を使用してユーザーとグループを AWS SSO にプロビジョニングし、管理時間を節約してセキュリティを向上させます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/manage-access-jumpcloud-aws-single-sign-on/",
+          "publishedOn": "2021-11-12T23:35:18.000Z",
+          "wordCount": 410,
+          "title": "AWS Single Sign-On で JumpCloud ユーザーの AWS へのアクセスを一元管理"
+        },
+        {
+          "id": "8dca3d8ff069a152313f20023e7f4822e526cc87",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) は、お客様のコンピューティングインフラストラクチャのヘルスに対する可視性を強化しました。Amazon ECSをAmazon Elastic Compute Cloud （Amazon EC2）上、またはAmazon ECS Anywhere を使ってオンプレミスでコンテナ型ワークロードを実行しているお客様は、Amazon ECS APIから直接コンテナインスタンスのコンテナランタイム（すなわちDocker）のヘルスステータスをクエリできるようになりました。これにより、お客様はアプリケーションの回復力を向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecs-container-instance-health-information/",
+          "publishedOn": "2021-11-12T23:34:30.000Z",
+          "wordCount": 273,
+          "title": "Amazon ECS がコンテナインスタンスのヘルス情報を追加"
+        },
+        {
+          "id": "5c47e77a2f3d3d387d5d635f89d3d1812f7665b1",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス（AWS）は、ソフトウェア、インフラストラクチャ、運用の障害による不要なダウンタイムを回避するために、アプリケーションのレジリエンスを定義、検証、追跡するための単一の場所を提供する新サービスAWS Resilience Hubの一般提供を開始したことを発表しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-resilience-hub-general-availability/",
+          "publishedOn": "2021-11-12T23:32:52.000Z",
+          "wordCount": 290,
+          "title": "AWS Resilience Hubの一般提供開始を発表"
+        },
+        {
+          "id": "c63d4dd4492631fe6af2668da8b4151b51529c01",
+          "author": "aws@amazon.com",
+          "description": "AWS Control Tower が、検出ガードレールの同時操作をサポートし、ガードレール管理の迅速化を図ります。個々のガードレールの操作が完了するのを待つことなく、複数の検出ガードレールを有効にすることができるようになりました。Control Tower は、セキュリティ、運用、およびコンプライアンスの体制を強化するためにデプロイできる、すぐに使用できる予防および検出ガードレールをお客様に提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-control-tower-concurrent-operations-detective-guardrails/",
+          "publishedOn": "2021-11-12T23:32:03.000Z",
+          "wordCount": 277,
+          "title": "AWS Control Tower が、検出ガドレールの同時操作をサポート"
+        },
+        {
+          "id": "9574d578065215687b679641cc2a89f98376af88",
+          "author": "aws@amazon.com",
+          "description": "AWS Backupは、アプリケーションのデータ保護を大規模に管理することを容易にする新しいリソース割り当てオプションを導入しています。新しいリソース割り当てオプションは、 AWS がサポートするリソースタイプ、AWSタグとリソースIDの組み合わせを使って選択基準を定義することができ、ビジネスクリティカルなアプリケーションのデータを保存するAWSリソースを自動的に特定し、イミュータブルバックアップを使ってデータを保護することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/",
+          "publishedOn": "2021-11-12T23:31:15.000Z",
+          "wordCount": 249,
+          "title": "AWS Backupは、データ保護ポリシーのための新しいリソース割り当てルールを提供します。"
+        },
+        {
+          "id": "2ee996c714e0f440601fb8ac848b6ed629cf1cb9",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Lex は、南アフリカ英語の言語サポートを発表しました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回新しく南アフリカ英語が追加されたことにより、会話型エクスペリエンスを構築し、拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-lex-south-african-english/",
+          "publishedOn": "2021-11-12T19:35:48.000Z",
+          "wordCount": 257,
+          "title": "Amazon Lex が南アフリカ英語のサポートを開始"
+        },
+        {
+          "id": "938312e650909dc5887fefb016034daa28b524cb",
+          "author": "aws@amazon.com",
+          "description": "2021 年 10 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (AWS CDK) の 5 つの新しいバージョン (v1.126.0〜v.130.0) がリリースされました。AWS CDK には、フルマネージドサービスである AWS AppRunner 向けの高レベル API (L2 construct) が追加されており、デベロッパーはコンテナ化されたウェブアプリケーションや API を、大規模に、しかも事前のインフラ経験を必要とせずに簡単にデプロイすることができます。さらに、CDK CLI は、Amazon ECS タスクと AWS Step Functions のコンテナのホットスワップデプロイ を実行できるようになりました。これらのリリースは 40 の問題を解決し、ライブラリ全体の 50 を超える異なるモジュールで 50 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/",
+          "publishedOn": "2021-11-12T19:35:00.000Z",
+          "wordCount": 339,
+          "title": "AWS CDK が AWS AppRunner 向けの高レベル API および Amazon ECS、AWS Step Functions のホットスワップをサポートする v1.126.0 - v1.130.0 をリリース"
+        },
+        {
+          "id": "a491e64722e4d681ebe2fe0a4d712e350a87b39a",
+          "author": "aws@amazon.com",
+          "description": "お客様は、CyberArk ワークフォースアイデンティティ (CyberArk) を AWS Single Sign-On (SSO) に一度接続し、AWS SSO で AWS へのアクセスを一元管理し、エンドユーザーが CyberArk ワークフォースアイデンティティを使用してサインインして、割り当てられたすべての AWS アカウントにアクセスできるようになりました。この統合により、ID を管理する管理者やサインインするエンドユーザーにとって慣れ親しんだ CyberArk ワークフォースアイデンティティにおけるエクスペリエンスを維持しながら、複数のアカウントにわたる AWS アクセス管理を簡素化できます。AWS SSO と CyberArk ワークフォースアイデンティティは、標準ベースの自動化を使用してユーザーとグループを AWS SSO にプロビジョニングし、管理時間を節約してセキュリティを向上させます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/manage-access-centrally-cyberark-users-aws-single-sign-on/",
+          "publishedOn": "2021-11-12T19:33:40.000Z",
+          "wordCount": 406,
+          "title": "AWS Single Sign-On で CyberArk ユーザーの AWS へのアクセスを一元管理"
+        },
+        {
+          "id": "6b2daa92951c7b13fe3ef21762e6173d117518f0",
+          "author": "aws@amazon.com",
+          "description": "AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) または AWS Marketplace Catalog API を使用して、複数のセルフサービスの変更リクエストを同時に送信できるようになりました。AWS Marketplaceの販売者は、AMI、コンテナ、プロフェッショナルサービス、機械学習製品については AMMP を介して、AMI、コンテナ製品について AWS Marketplace Catalog API を介して、複数のセルフサービス変更リクエストを開始することができるようになりました。販売者は、先行分の変更要求が処理の途中であっても、後続の製品変更リクエストを待たずに送信することができるようになりました。たとえば、販売者が製品情報と製品のバージョン情報を更新する場合、最初の要求が完了するのを待たずに、リクエストを連続して送信できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-marketplace-change-requests-submission/",
+          "publishedOn": "2021-11-12T19:32:18.000Z",
+          "wordCount": 269,
+          "title": "AWS Marketplace が変更要求の提出方法の強化を発表"
+        },
+        {
+          "id": "1734bd8aa23a8c261fe1d3b72bfbbdc74966e720",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight では、IP ベースのアクセス制限、AWS のサービスコントロールポリシーベースの制限、フェデレーション方式の SSO ユーザー向けのメール自動同期、QuickSight アカウントサインアップ時の Bring-Your-own-Role など、AWS 管理者が組織内のより多くのユーザーやアカウントにAmazon QuickSightを安全に展開することを容易にする 4 つの新機能のサポートを開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-quicksight-launches-ip-based-access-restrictions-bring-you-own-role-account-setup/",
+          "publishedOn": "2021-11-12T19:30:57.000Z",
+          "wordCount": 386,
+          "title": "Amazon QuickSight が、IP ベースのアクセス制限とアカウント設定のための Bring-you-own-role を含む 4 つの新しい管理機能をリリース"
+        },
+        {
+          "id": "f10fc330cea24434007b1ba58045e8641dc00636",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Batch は AWS Batch のジョブキューのフェアシェアスケジューリングを導入し、1 つのキューで異なるワークロードを実行することが簡単になります。現在、カスタマーは先入れ先出し (FIFO) でジョブを実行するか、「フェアシェア」ポリシーを決定することができます。これは、リソースを平等に、または管理者が定義した重みと優先順位に基づいて分配できます。ジョブのフェアシェアスケジューリングにより、AWS Batch はワークロードが最初に表すどちらか以外の要素に基づいて、複数のユーザーとワークロードにおけるコンピューティングの割り当てを処理します。これにより、改善された処理効率とユーザーとワークロードの優先重位をより尊重することになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/",
+          "publishedOn": "2021-11-12T08:35:16.000Z",
+          "wordCount": 284,
+          "title": "AWS Batch はフェアシェアスケジューリングを導入します"
+        },
+        {
+          "id": "e843f53d091fadea1ddcfee9e520f417ce76f06e",
+          "author": "aws@amazon.com",
+          "description": "AWS Device Farm の Desktop Browser Testing 機能があれば、Chrome、Firefox、Internet Explorer、Microsoft Edge ブラウザの異なるデスクトップバージョンでウェブアプリケーションをテストできます。今日の起動により、Amazon Virtual Private Cloud (VPC) でホストされているウェブアプリテストのサポートを追加しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/",
+          "publishedOn": "2021-11-12T08:34:29.000Z",
+          "wordCount": 277,
+          "title": "AWS Device Farm、Amazon VPC でのホストされたウェブアプリテストのサポートを発表"
+        },
+        {
+          "id": "a014cc0984c69cad6851b12ef5ce70464f1c6e10",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Notification Service (Amazon SNS) は、Apple デバイスへのモバイルプッシュ通知の送信をトークンベース認証に対応しました。Amazon SNS コンソールまたは API で、新しいプラットフォームアプリケーションを作成する際、トークンベース (.p8 キーファイル) または証明書ベース (.p12 証明書) 認証が選べるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/",
+          "publishedOn": "2021-11-12T08:33:41.000Z",
+          "wordCount": 312,
+          "title": "Amazon SNS で APN モバイルプッシュ通知のトークンベース認証に対応"
+        },
+        {
+          "id": "69b478bfe1131eb265829c3fc9a6b70aa0a16d7e",
+          "author": "aws@amazon.com",
+          "description": "AWS では、AWS License Manager を使用して Windows Server や SQL Server のワークロードを、AWS 提供のライセンスと自分のライセンス (BYOL) とで簡単に切り替えることができるようになりました。ライセンスの切り替え機能は、ビジネスやライセンスのニーズ変化に応じて使用することができます。インスタンスに関するライセンスタイプを変更しても、ワークロードに関するアプリケーション、インスタンス、およびネットワーク構成は保持されるため、時間と労力の節約になります。次回の請求から、新しいライセンスタイプごとに請求されます。オプションにおける柔軟性として、AWS はテナンシーを共通から専用、またはその逆に変更する機能も提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/",
+          "publishedOn": "2021-11-12T08:30:57.000Z",
+          "wordCount": 321,
+          "title": "Amazon EC2 での Windows Server および SQL Server アプリケーションの新しいライセンスタイプの切り替え機能を AWS が発表"
+        },
+        {
           "id": "96f90318136ef75fed2882fc45b34636da3d43be",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK は、米国西部 (オレゴン)、欧州 (フランクフルト)、およびアジアパシフィック (シンガポール) の AWS リージョンでミーティング API エンドポイントを提供するようになりました。これにより、18 の Amazon Chime メディアリージョンのいずれかでホストできるミーティングの作成と管理に使用する AWS リージョンを選択できるようになりました。",
