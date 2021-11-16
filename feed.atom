@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-15T00:22:13.926Z</updated>
+    <updated>2021-11-16T00:21:54.123Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CloudFormation Registry に 34 の新しいリソースタイプを導入]]></title>
+        <id>611b8da256cd23927fc3e133efd73ff8e1d8eed3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/"/>
+        <updated>2021-11-15T18:33:22.000Z</updated>
+        <summary type="html"><![CDATA[2021 年 8 月の最終更新以降、AWS CloudFormation Registry を拡張し、2021 年 8 月から 10 月の間に 34 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラーアクセス許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code を扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョン、管理できるようになりました。さらに、4 つの新しい AWS のサービスがリリース日に CloudFormation のサポートを追加したことをお知らせします。これらのサービスには、Amazon Managed Service for Prometheus、Amazon OpenSearch Service、Amazon MemoryDB for Redisｍ、および Amazon Connect Wisdom が含まれます。CloudFormation は、165 の AWS のサービス、800 以上のリソースタイプ、および 40 以上のサードパーティーのリソースタイプをサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify はリアルタイムデータを使用するアプリケーションをより速く開くため Amplify DataStore 向けの新しい observeQuery API を発表]]></title>
+        <id>86fc1eabfa0b475c7ae1ad22ec3fae36e48f90da</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/"/>
+        <updated>2021-11-15T18:32:33.000Z</updated>
+        <summary type="html"><![CDATA[本日のリリースにより、デベロッパーは AWS Amplify DataStore の新しい observeQuery API を使用して、ローカルに保存されたデータを使用してアプリケーションをより速く開くことができ、コードを追加することなくリアルタイムのデータでアプリケーションの UI を更新することができます。DataStore を利用すると、デバイス (ウェブブラウザまたはモバイルデバイス) にデータを保存し自動的にクラウドとインターネット接続のあるデバイスにデータを同期することにより、フロントエンドのアプリケーションデベロッパーは、オフライン機能を搭載したリアルタイムのアプリケーションを構築できます。新しい observeQuery API を使用すると、デベロッパーは 1 回の API コールで、ローカルに保存されたデータを取得し、クラウドから同期された後続のデータ変更をサブスクライブできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Nimble Studio は、Nimble Studio コンソールを介して起動プロファイルの設定をテストする機能を開始しました。]]></title>
+        <id>fa41ea867921126f47a780728492b50257fcd57a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-nimble-studio-test-launch-profile-configurations/"/>
+        <updated>2021-11-15T18:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Nimble Studio は、現在、管理者がコンソールから直接起動プロファイル設定をテストする機能をサポートしており、アーティストがワークステーションのプロビジョニング時に経験するエラーの数を減らすことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CloudTrail が ErrorRate Insights を発表]]></title>
+        <id>50eca1ea074af7f27aa34d26f3aba191016913d2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cloudtrail-announces-launch-errorrate-insights/"/>
+        <updated>2021-11-15T18:30:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS CloudTrail は、CloudTrail Insights の新機能である CloudTrail ErrorRate Insights を発表しました。この機能により、お客様は API のエラーコードとそのエラー発生率に基づいて、AWS アカウントにおける異常な活動を特定することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub が 3 つの新しい FSBP コントロールと 3 つの新しいパートナーを追加]]></title>
+        <id>eb832d7ef306acee3dd909251c9b58870f90c3ec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-security-hub-three-new-fsbp-controls-partners/"/>
+        <updated>2021-11-15T12:45:58.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub は、お客様の Cloud Security Posture Management (CSPM) を強化する目的で基本的なセキュリティのベストプラクティス標準 (FSBP) に 3 つの新しいコントロールをリリースしました。これらのコントロールは、Elastic Load Balancing と AWS Systems Manager のセキュリティのベストプラクティスに対して完全に自動化されたチェックを実行します。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS のセキュリティ体制を自動的にチェックするための 162 のセキュリティコントロールをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EKS on AWS Fargate が Fluent Bit Kubernetes Filter のサポートを開始]]></title>
         <id>bff68f4b5a43980778cbf5817a95528b476486cc</id>
@@ -332,177 +382,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/"/>
         <updated>2021-11-09T20:01:05.000Z</updated>
         <summary type="html"><![CDATA[サーバーレスアプリケーションの新しいパイプライン設定機能により、組織のベストプラクティスに従った安全な継続的インテグレーションとデプロイ (CI/CD) のパイプラインを作成できるようになりました。AWS サーバーアプリケーションモデルパイプライン (AWS SAM パイプライン) は、AWS SAM CLI の新機能で、デプロイ頻度の加速、変更のリードタイムの短縮、デプロイエラーの低減などの CI/CD の利点を数分でご利用いただけるようになります。AWS SAM パイプラインには CloudBees CI/Jenkins、GitLab CI/CD、GitHub Actions、Bitbucket Pipelines、AWS CodeBuild/CodePipeline などの一般的な CI/CD システム向けに、AWS のデプロイのベストプラクティスに従ったデフォルトのパイプラインテンプレートが用意されています。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker は SageMaker Studio からのカスタムドメインやヘッダーを使った推論テストをサポートするようになりました]]></title>
-        <id>4c0080ce20233ea5f8f24db746a3e317a360deea</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/"/>
-        <updated>2021-11-09T10:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Studio でお客様がカスタム URL のエンドポイントや、特定のヘッダーを必要とするエンドポイントへのテスト推論のリクエストを行えるようになりました。Amazon SageMaker は、ML 専用に構築された幅広い一連の機能をまとめて提供することにより、データサイエンティストとデベロッパーが高品質の機械学習 (ML) モデルを迅速に準備、構築、トレーニング、およびデプロイするのを支援します。Amazon SageMaker Studio は単独のウェブベースビジュアルインターフェイスを装備し、そこではすべてのML開発ステップを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda は Amazon Elastic Container Registry からのクロスアカウントコンテナイメージのプルをサポートするようになりました]]></title>
-        <id>cb9c2cd30a3e5cdd672fd4e71d991de607e3a07d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/"/>
-        <updated>2021-11-09T10:32:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda は AWS Lambda 関数のアカウントとは異なる AWS アカウントの Amazon ECR リポジトリに保存されたコンテナイメージで、関数の作成や更新ができるようになりました。以前は AWS Lambda 関数と同じ AWS アカウントの Amazon ECR リポジトリに保存されているコンテナイメージにのみアクセスできました。Amazon ECR リポジトリに一元化されたアカウントを使用している場合、コンテナイメージを Lambda 関数と同じアカウントの Amazon ECR リポジトリにコピーする必要がありました。Amazon ECR リポジトリに保存されているコンテナイメージに、別のアカウントでアクセスすることで、このワークフローを簡単にすることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lake Formation が AWS PrivateLink のサポートを開始]]></title>
-        <id>7c8efe9f6e4f8121450f09822a90a2a5bfffd7fc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/"/>
-        <updated>2021-11-09T04:47:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lake Formation が、Virtual Private Cloud (VPC) 内のデータレイクにアクセスするためのマネージド VPC エンドポイント (AWS PrivateLink を利用) をサポートするようになりました。  AWS Lake Formation マネージドエンドポイントを使用すると、プライベート IP 接続により、VPC 内およびオンプレミスのクライアントアプリケーションとサービスのデータレイクへのアクセスを承認できるようになりました。また、VPC エンドポイントポリシーを設定して、サービスが AWS Lake Formation にアクセスする方法をよりきめ細かくコントロールすることも可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora Global Database が AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>1219ff61f85bcbe124290ddce785ae783e94e5ff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-aurora-global-database-aws-govcloud/"/>
-        <updated>2021-11-09T04:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora Global Database は、Amazon Aurora の機能です。グローバルに提供するサービス規模のアプリケーションに対応できるように設計されています。単一の Aurora データベースが複数の AWS リージョンにまたがり使用することを可能にし、迅速なレプリケーションにより、低レイテンシーでグローバルな読み込みとリージョン全体での災害復旧を可能にします。本日のリリースにより、Amazon Aurora Global Database は AWS GovCloud (米国東部および米国西部) リージョンで利用可能になります。Amazon Aurora Global Database のお客様は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョン間でレプリケーションできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Vault Lock が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に]]></title>
-        <id>6d3672cab3e713cc486c12c0eec2333ae403b86a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-vault-lock-available-aws-china-regions/"/>
-        <updated>2021-11-09T04:46:20.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Vault Lock が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS Backup を使用すると、お客様は、フルマネージドかつ費用対効果の高いソリューションを通じて、AWS のサービス全体のデータ保護を一元化および自動化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が Red Hat ナレッジベースへのアクセスをサポート開始]]></title>
-        <id>7168b02dd041141127f6d6bcd683a3ee7c3dba40</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/"/>
-        <updated>2021-11-09T04:36:55.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 で Red Hat Enterprise Linux を含むサブスクリプションを実行しているお客様は、追加費用なしで Red Hat ナレッジベースにシームレスにアクセスできるようになります。このナレッジベースは、お客様が技術的な問題を解決するのに役立つ記事、よくある質問 (FAQ)、およびベストプラクティスガイドなどのライブラリです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Time Sync Service でタイムスタンプの生成と比較がより簡単に]]></title>
-        <id>756a33bc03a4e1aa3edbbbbf08517cc4ba2f71b8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/"/>
-        <updated>2021-11-09T03:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Time Sync Service では、オープンソースのデーモンおよびライブラリである ClockBound を使用して、Amazon EC2 インスタンスからタイムスタンプを簡単に生成および比較できるようになりました。この情報は、それぞれのインスタンスの地理的な場所にかかわらず、EC2 インスタンス全体でイベントとトランザクションの順序および一貫性を判断するのに役立ちます。ClockBound は、Amazon EC2 インスタンスのクロックエラーバウンドを計算してそのクロック精度を測定し、インスタンスの現在のクロックに対して、特定のタイムスタンプが過去か未来かを確認できるようにします。ClockBound は、呼び出しごとに、2 つの情報 (現在の時刻および関連する絶対エラー範囲) を同時に返します。これは、ClockBound タイムスタンプの実際の時間が設定された範囲内にあることを意味します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift が SQLAlchemy および Apache Airflow オープンソースフレームワークのネイティブサポートを発表]]></title>
-        <id>fc83e7cf3a053ec22c247ef13fb32295a22cebc8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/"/>
-        <updated>2021-11-09T03:33:29.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースの SQLAlchemy (sqlalchemy-redshift) と Apache Airflow フレームワークのネイティブサポートが Amazon Redshift で利用可能となりました。SQLAlchemy 向けの更新された Amazon Redshift ダイアレクトは、Amazon Redshift のオープンソース Python ドライバーをサポートします。このリリースでは、アイデンティティプロバイダー (IdP) でシングルサインオンを使用して Redshift クラスターに接続し、認証情報の管理の手間を省くことができます。SQLAlchemy および Apache Airflow の最新の Redshift ダイアレクトに移行する際の TIMESTAMPTZ および TIMETZ といったデータ型の使用など、Amazon Redshift の新しい機能を使用することもできます。これらの機能は、sqlalchemy-redshift バージョン 0.8.6 以降で使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DevOps Guru が Amazon EKS メトリクスのカバレッジを拡大し、クラスターごとのメトリクスビューを追加]]></title>
-        <id>795b540bbcf95cd9e5aa61d3da9969648c21b487</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/"/>
-        <updated>2021-11-09T03:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DevOps Guru は、Amazon Elastic Kubernetes Service (EKS) によって管理されるクラスター用のノードおよびポッドレベルで追加のメトリクスをサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS on AWS Outposts がデータベースログの Amazon CloudWatch へのエクスポートのサポートを開始]]></title>
-        <id>e398c9e89601f4aead33aa6669547d05e2f351bc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/"/>
-        <updated>2021-11-09T03:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) on AWS Outposts では、データベースログを Amazon CloudWatch にエクスポートできるようになりました。AWS リージョンの Amazon RDS データベースインスタンスと同じ単一ウィンドウから、すべての Amazon RDS on AWS Outposts データベースインスタンスをモニタリングできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Corretto 17 のサポートのロードマップに関するお知らせ]]></title>
-        <id>53b264b3c353f6c42ecfdce7f9d3bc83adafaf52</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/"/>
-        <updated>2021-11-09T03:31:05.000Z</updated>
-        <summary type="html"><![CDATA[9 月 16 日に Corretto 17 の一般提供をお知らせしました。本日は、Corretto 17 の長期サポート (LTS) を 2028 年 9 月まで提供することをお知らせします。また、このリリース時点において、他の OpenJDK コミュニティとともに、Corretto LTS のリリース頻度を新たに 2 年間とする予定です。詳細については、AWS オープンソースブログの Corretto 17 Announcement の記事をお読みください。Corretto 17 は、ダウンロードページからご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify が Admin UI でさらに充実したデータ管理機能を提供開始]]></title>
-        <id>662a3194fd7d84eabd03efab09ca1a0b343b797a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-launches-data-management-capabilities-admin-ui/"/>
-        <updated>2021-11-09T01:04:10.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify Admin UI では、Faker を使用してシードデータを生成し、CSV ファイルにデータをダウンロードできるようになりました。 これにより、Amplify でのデータの作成および管理が簡素化され、デモデータをより現実的に、すばやく共有可能にすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Snowcone SSD が米国東部 (オハイオ)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンで利用可能に]]></title>
-        <id>1976fea04b65321bf7e6c632721a1eeef368d6f4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-snowcone-ssd-now-available-in-new-regions/"/>
-        <updated>2021-11-09T01:02:33.000Z</updated>
-        <summary type="html"><![CDATA[AWS Snowcone ソリッドステートドライブ (SSD) は、欧州 (フランクフルト)、欧州 (アイルランド)、米国東部 (バージニア北部)、米国西部 (オレゴン) を含むすでに Snowcone SSD が利用可能なリージョンに加えて、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンでご利用いただけるようになりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送デバイスの AWS Snow ファミリーの最も小さなメンバーです。Snowcone はハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用可能です。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れてます。小型かつ軽量でリュックサックに収まり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMR Studio で異なるサブネットにある EMR クラスターに接続する機能の導入]]></title>
-        <id>58bab0123eb20787dbb664126d1fcac3ed7ba252</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/connect-emr-clusters-different-subnets-emr-studio/"/>
-        <updated>2021-11-08T14:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySparkで記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。 本日、EMR Studio Workspace が、EMR Studio に関連付けられているさまざまなサブネット内の EMR クラスターへの接続をサポートするようになったことをお知らせします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker がフルマネージド RStudio Workbench を開始]]></title>
-        <id>30e6879e0ffd0e515628f6ffa4a152c6ec53a994</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-launches-fully-managed-rstudio-workbench/"/>
-        <updated>2021-11-08T14:14:37.000Z</updated>
-        <summary type="html"><![CDATA[本日、業界初のフルマネージド RStudio 統合開発環境 (IDE) である RStudio on Amazon SageMaker のリリースを発表いたします。いくつかの簡単な手順で、現在の RStudio ライセンスを簡単に取得し、セルフマネージド RStudio 環境を 
-Amazon SageMaker に移行することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS が、RDS スナップショットをエクスポートするためのクロスアカウント KMS キーのサポートを開始]]></title>
-        <id>9d307561faf21fd197ad13573fb6d89fa2acab66</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-rds-cross-account-kms-keys-exporting-rds-snapshots/"/>
-        <updated>2021-11-08T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) が、Amazon RDS スナップショットを Amazon S3 にエクスポートするときに、別のアカウントから AWS Key Management Service (KMS) カスタマーマスターキー (CMK) を指定する機能を提供するようになりました。このオプションは、スナップショットを持つ各アカウントでキーを作成する必要をなくすことにより、お客様が KMS キーを整理および統合するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub が、Security Hub API へのプライベートアクセスのための AWS PrivateLink のサポートを追加]]></title>
-        <id>bd14469f64905a9d7e72e10fee2d00c69f1739bc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-security-hub-support-privatelink-private-access-security-hub-apis/"/>
-        <updated>2021-11-08T14:07:31.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub が、AWS PrivateLink を介して Amazon Virtual Private Cloud (VPC) エンドポイントをサポートするようになりました。これにより、VPC 内から Security Hub への API コールを、インターネットを通過することなく安全に開始できます。Security Hub での AWS PrivateLink のサポートが、Security Hub をご利用いただいているすべての AWS リージョンでご利用可能になりました。この新機能を試すには、VPC コンソール、API、または SDK に移動して、VPC で Security Hub の VPC エンドポイントを作成します。これにより、指定したサブネットに Elastic Network Interface が作成されます。インターフェイスには、Security Hub 宛てのトラフィックのエントリポイントとして機能するプライベート IP アドレスがあります。Security Hub と PrivateLink の統合の詳細については、こちらをご覧ください。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
