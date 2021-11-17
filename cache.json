@@ -12,6 +12,78 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "068296f3781369eccb954f265f83841bc1ff5d73",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (EKS) では、AWS CloudFormation を介して、タグ、エンドポイントアクセスコントロール、およびコントロールプレーンのログ記録を設定できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-eks-cluster-configuration-aws-cloudformation/",
+          "publishedOn": "2021-11-16T13:36:32.000Z",
+          "wordCount": 265,
+          "title": "Amazon EKS が AWS CloudFormation を使用して追加のクラスター設定オプションのサポートを追加"
+        },
+        {
+          "id": "d64ed98f0b42c0ffdf3b2058d0d98d101a72c8a6",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Services (Amazon ECS) は、より高速なクラスターオートスケーリングエクスペリエンスをもたらすために、Amazon ECS 容量プロバイダーを改善しました。Amazon ECS クラスターで多数のタスク (100 件を超えるタスク) を起動する必要があるお客様は、クラスターインフラストラクチャがより高速にスケールするのをご実感いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecs-improved-capacity-providers-cluster-auto-scaling/",
+          "publishedOn": "2021-11-16T13:35:45.000Z",
+          "wordCount": 284,
+          "title": "Amazon ECS がより高速なクラスターオートスケーリングを提供するために容量プロバイダーを改善"
+        },
+        {
+          "id": "92f4d4ee75810cbf32f9b414a1a1a92be175e94d",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 M6i インスタンスは、追加の AWS リージョンであるアジアパシフィック (ムンバイ)、欧州 (パリ)、南米 (サンパウロ)、アジアパシフィック (ソウル)、およびアジアパシフィック (シドニー) でご利用いただけます。コンピューティング、メモリ、ストレージ、およびネットワークリソースのバランスを提供するように設計されている M6i インスタンスは、専用ハードウェアと軽量ハイパーバイザーを組み合わせた AWS Nitro System で構築されます。これは、ホストハードウェアのコンピューティングリソースおよびメモリリソースを実質的にすべてお客様のインスタンスに提供します。これらのインスタンスは SAP 認定を受けており、ウェブサーバー、アプリケーションサーバー、エンタープライズアプリケーションをサポートするバックエンドサーバー (Microsoft Exchange Server、SharePoint Server、SAP Business Suite、MySQL、Microsoft SQL Server、PostgreSQL データベースなど)、ゲームサーバー、キャッシュサーバーフリートなどのワークロードや、アプリケーション開発環境に最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-m6i-instances-available-additional-regions/",
+          "publishedOn": "2021-11-16T13:34:57.000Z",
+          "wordCount": 370,
+          "title": "Amazon EC2 M6i インスタンスが新たに 5 つの追加リージョンで利用可能に"
+        },
+        {
+          "id": "398f71bd7ccb1b33d8604d675a2b39bc83c41f72",
+          "author": "aws@amazon.com",
+          "description": "Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日より、翻訳ワークフローをより細かく制御し、柔軟に対応できるようにするために、双方向のカスタム用語をご利用いただけるようになりました。カスタム用語は Amazon Translate の機能です。これにより、お客様の用語ファイルを使用して、ブランド名、キャラクター名、モデル名、他の一意のコンテンツなど、名前付きエンティティの翻訳をカスタマイズできます。双方向のカスタム用語を使用する際に、用語ファイルの最初の列をソース言語として設定しなければならないという制約はなくなりました。今後は、同じ用語ファイルを使用して、特定の言語に翻訳したり、特定の言語から翻訳したりできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-enables-multidirectional-custom-terminology/",
+          "publishedOn": "2021-11-16T13:34:11.000Z",
+          "wordCount": 258,
+          "title": "Amazon Translate で双方向のカスタム用語が利用可能に"
+        },
+        {
+          "id": "0cee2f97efea56eb0662486c590330787caef504",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Quantum Ledger Database (QLDB) がカナダ (中部) リージョンでご利用いただけるようになりました。今回のリリースにより、QLDB は、カナダ (中部)、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、およびアジアパシフィック (東京) といった世界各地の 11 のリージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-qldb-available-canada-central-region/",
+          "publishedOn": "2021-11-16T13:33:23.000Z",
+          "wordCount": 270,
+          "title": "Amazon QLDB がカナダ (中部) リージョンで利用可能に"
+        },
+        {
+          "id": "30d31629b8c2e48bcc181de83a1c38cee752694e",
+          "author": "aws@amazon.com",
+          "description": "Amazon DocumentDB (MongoDB 互換) は、MongoDB のワークロードをサポートする、高速かつスケーラブルで可用性の高いフルマネージド型ドキュメントデータベースサービスです。Amazon DocumentDB では、ドキュメントデータベースとして、JSON データの保存、クエリ、およびインデックス作成を大規模かつ簡単に実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/better-performance-amazon-documentdb-mongodb-graviton2-instances/",
+          "publishedOn": "2021-11-16T13:32:35.000Z",
+          "wordCount": 327,
+          "title": "新しい Graviton2 インスタンスを使用して、Amazon DocumentDB (MongoDB 互換) で最大 30% 優れたパフォーマンスを実現"
+        },
+        {
+          "id": "38efb5b0b7fc5bf694734ac8bb2929b469ee6390",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Microsoft SharePoint 2013 サーバーまたは Microsoft SharePoint 2016 サーバーから、ドキュメントのインデックス作成および検索を行えるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/",
+          "publishedOn": "2021-11-16T13:31:47.000Z",
+          "wordCount": 291,
+          "title": "Amazon Kendra が SharePoint サイトの検索を可能にするために SharePoint コネクタをリリース"
+        },
+        {
+          "id": "b5d3785655cad4b1e91847f4abde65233e43793d",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 M6gd の汎用インスタンスがアジアパシフィック (ムンバイ) と欧州 (ロンドン) でご利用いただけるようになりました。コンピューティング最適化された Amazon EC2 C6gd インスタンスが、アジアパシフィック (ムンバイ)、カナダ (中部)、および欧州 (ロンドン) でご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-m6gd-c6gd-instances-powered-graviton2-additional-regions/",
+          "publishedOn": "2021-11-16T13:30:59.000Z",
+          "wordCount": 539,
+          "title": "AWS Graviton2 を搭載した Amazon EC2 M6gd および C6gd インスタンスが追加のリージョンで利用可能に"
+        },
+        {
           "id": "611b8da256cd23927fc3e133efd73ff8e1d8eed3",
           "author": "aws@amazon.com",
           "description": "2021 年 8 月の最終更新以降、AWS CloudFormation Registry を拡張し、2021 年 8 月から 10 月の間に 34 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラーアクセス許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code を扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョン、管理できるようになりました。さらに、4 つの新しい AWS のサービスがリリース日に CloudFormation のサポートを追加したことをお知らせします。これらのサービスには、Amazon Managed Service for Prometheus、Amazon OpenSearch Service、Amazon MemoryDB for Redisｍ、および Amazon Connect Wisdom が含まれます。CloudFormation は、165 の AWS のサービス、800 以上のリソースタイプ、および 40 以上のサードパーティーのリソースタイプをサポートしています。",
@@ -264,6 +336,15 @@
           "title": "Amazon SageMaker Pipelines で再試行ポリシーと再開のサポートを開始"
         },
         {
+          "id": "1976fea04b65321bf7e6c632721a1eeef368d6f4",
+          "author": "aws@amazon.com",
+          "description": "AWS Snowcone ソリッドステートドライブ (SSD) は、欧州 (フランクフルト)、欧州 (アイルランド)、米国東部 (バージニア北部)、米国西部 (オレゴン) を含むすでに Snowcone SSD が利用可能なリージョンに加えて、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンでご利用いただけるようになりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送デバイスの AWS Snow ファミリーの最も小さなメンバーです。Snowcone はハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用可能です。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れてます。小型かつ軽量でリュックサックに収まり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-snowcone-ssd-now-available-in-new-regions/",
+          "publishedOn": "2021-11-11T09:31:47.000Z",
+          "wordCount": 356,
+          "title": "AWS Snowcone SSD が米国東部 (オハイオ)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンで利用可能に"
+        },
+        {
           "id": "46b7b23d1679f7ffa03022107d5a8a8446932649",
           "author": "aws@amazon.com",
           "description": "本日、AWS Systems Manager の Incident Manager が、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ)、米国西部 (北カリフォルニア) の 7 つの AWS リージョンで一般利用可能 (GA) になったことをお知らせいたします。Incident Manager の詳細については、Incident Manager の製品ページを参照してください。",
@@ -307,51 +388,6 @@
           "publishedOn": "2021-11-11T05:46:12.000Z",
           "wordCount": 299,
           "title": "Amazon EC2 Fleet および Spot Fleet が、容量リバランスでの自動インスタンス終了のサポートを開始"
-        },
-        {
-          "id": "ece8acd62fd8372f900d122af3cbede439560a97",
-          "author": "aws@amazon.com",
-          "description": "Amazon Athena は、クエリのコンピューティングコストを実行プランとともに表示するようになりました。EXPLAIN ANALYZE ステートメントのリリースにより、Athena は指定されたクエリを実行し、各ステージの CPU 使用率および処理された行数とともに、実行プランの詳細な内訳を返すことができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/",
-          "publishedOn": "2021-11-10T05:32:24.000Z",
-          "wordCount": 263,
-          "title": "Amazon Athena がクエリ実行プランにコストの詳細を追加"
-        },
-        {
-          "id": "f429e2e471f5d96f8b107965e385e48d2f161cfa",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN Network Server (LNS) であり、省電力長距離広域ネットワーク (LoRaWAN) テクノロジーを使用するワイヤレスデバイスを AWS クラウドに接続するのを可能にします。現在、AWS IoT Core for LoRaWAN は、Firmware Over-the-Air Update (FUOTA) をサポートしています。これにより、お客様は、LoRa Alliance によって定義された LoRaWAN マルチキャストおよびフラグメンテーションメカニズムを使用して、フィールド内のデバイスに安全で信頼性の高いファームウェアアップデートを配信できます。これらのメカニズムは、デバイスのバッテリー消費を最小限に抑え、大規模なファイル転送 (数百 KB) を処理することを目的としています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/",
-          "publishedOn": "2021-11-10T05:31:36.000Z",
-          "wordCount": 299,
-          "title": "AWS IoT Core for LoRaWAN がマネージドファームウェアの無線通信経由アップデートをサポート"
-        },
-        {
-          "id": "aae6fc67db86c3634361cf485a71c4786b3d92ef",
-          "author": "aws@amazon.com",
-          "description": "委任された単一の管理者アカウントから、組織内のすべてのアカウントで生成されたインサイトを表示できるようになりました。インサイトは、Amazon DevOps Guru がアプリケーションのモニタリング中に運用上の問題を検出したときに生成されるアラートです。これらのインサイトは、現在生じているか、差し迫ったアプリケーションの問題を特定し、問題を引き起こしている可能性のある事象を示し、顧客に影響を及ぼすイベントの発生を防ぐのに役立つ是正措置を推奨します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/",
-          "publishedOn": "2021-11-10T05:30:48.000Z",
-          "wordCount": 297,
-          "title": "Amazon DevOps Guru が AWS Organizations とのマルチアカウントのインサイトの集約のサポートを開始"
-        },
-        {
-          "id": "52b381934b08524884df60ae28ab533b079e32a4",
-          "author": "aws@amazon.com",
-          "description": "AWS DataSync で、Hadoop Distributed File Systems (HDFS) および Amazon S3、Amazon Elastic File System (EFS) 、または Amazon FSx for Windows File Server 間でデータの転送ができるようになりました。DataSync を使用して、Hadoop クラスターの HDFS から AWS ストレージにファイルやフォルダをすばやく、また簡単かつ安全に移行できます。また、DataSync を使用して、ビジネスの継続性維持のために Hadoop クラスターのデータを AWS にレプリケートし、AWS にデータをコピーしてデータレイクに格納できます。また、クラスターおよび AWS 間でデータを転送し、分析や処理を行えます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/",
-          "publishedOn": "2021-11-09T20:01:54.000Z",
-          "wordCount": 338,
-          "title": "AWS DataSync で Hadoop Distributed File Systems (HDFS)および AWS ストレージサービス間のデータのコピーが可能に"
-        },
-        {
-          "id": "5514acb1e6928a4e9c32ca733a8cef81d7f357f1",
-          "author": "aws@amazon.com",
-          "description": "サーバーレスアプリケーションの新しいパイプライン設定機能により、組織のベストプラクティスに従った安全な継続的インテグレーションとデプロイ (CI/CD) のパイプラインを作成できるようになりました。AWS サーバーアプリケーションモデルパイプライン (AWS SAM パイプライン) は、AWS SAM CLI の新機能で、デプロイ頻度の加速、変更のリードタイムの短縮、デプロイエラーの低減などの CI/CD の利点を数分でご利用いただけるようになります。AWS SAM パイプラインには CloudBees CI/Jenkins、GitLab CI/CD、GitHub Actions、Bitbucket Pipelines、AWS CodeBuild/CodePipeline などの一般的な CI/CD システム向けに、AWS のデプロイのベストプラクティスに従ったデフォルトのパイプラインテンプレートが用意されています。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/",
-          "publishedOn": "2021-11-09T20:01:05.000Z",
-          "wordCount": 305,
-          "title": "AWS サーバーレスアプリケーションとお気に入りの CI/CD システムのための CI/CD 設定の簡素化 – 一般提供"
         }
       ]
     }
