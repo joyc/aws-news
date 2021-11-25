@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-24T00:22:23.115Z</updated>
+    <updated>2021-11-25T00:22:30.169Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS App Mesh が ARM64 ベースの Envoy イメージのサポートを開始]]></title>
+        <id>9f79f6ccd371d4d15c4eedb61f30e4c56f413508</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/"/>
+        <updated>2021-11-24T23:37:30.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Mesh が ARM64 ベースの Envoy イメージのサポートを開始しました。App Mesh 最適化 ARM64 Envoy イメージを使用すると、お客様のご要望に合わせて、デプロイの柔軟性とプラットフォームサポートを向上させることができます。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピュートインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Forecast が、精度が最大 40% アップした予測を行い説明可能性を提供する新たな API を発表]]></title>
+        <id>5b763536579092315a6ce8097825c09ab0b50277</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-forecast-api-forecasts-explainability/"/>
+        <updated>2021-11-24T23:36:43.000Z</updated>
+        <summary type="html"><![CDATA[精度が最大 40% アップした予測を行なう Amazon Forecast の 2 つの新しい予測 API を発表できることを嬉しく思います。これは、料金、休日、天気または項目カテゴリなど、どのファクターが最もお客様の予測に影響を与えているかを把握するのに役立ちます。Forecast は、機械学習 (ML) を使用して、より正確な需要予測を生成します。機械学習の経験は不要です。Forecast は、Amazon で使用されているものと同じテクノロジーをフルマネージドサービスとしてデベロッパーに提供し、リソースを管理する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CloudFormation StackSets で同時実行の複数操作送信が可能に]]></title>
+        <id>ab94a9859246fdb1dd665bc9b0c6efd568246a14</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/"/>
+        <updated>2021-11-24T23:35:55.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS CloudFormation StackSets は同時実行の複数操作を実行する機能を発表します。StackSets は、1 回の操作で複数の AWS のアカウントとリージョンにまたがるスタックを作成、更新、または削除できるようにすることで、CloudFormation スタックの機能を拡張します。スタックセット 1 つにつき 2 つ以上の同時に実行する作業を送信できるようになりました。この機能により、StackSets で全処理時間を低減できるようになります。加えて、StackSets に送信した操作をバッチ処理およびキュー処理するためにロジック構築のオーバーヘッドを回避できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Linux 2 AMI が、カーネル 5.10 で利用可能に]]></title>
+        <id>ab31caec79e291a1e8134323a45e0e53bcfbd375</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-linux-2-ami-kernel-5-10/"/>
+        <updated>2021-11-24T23:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Linux 2 が、Linux カーネル (5.10) で Amazon マシンイメージ (AMI) として利用可能になりました。カーネル 5.10 は、インテル Ice Lake プロセッサの最適化や最新世代の Amazon EC2 インスタンスに電力を供給する AWS Graviton2 プロセッサなど、多くの機能とパフォーマンスの向上をもたらします。カーネル 5.10 のライブパッチは、x86 と ARM アーキテクチャの両方で Amazon Linux 2 でサポートされています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Database Migration Service がパーティションデータの S3 への並行ロードのサポートを開始]]></title>
+        <id>5d4a45e8c7930932df88972f0819a5cac4f50d07</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-database-migration-parallel-load-partitioned-data/"/>
+        <updated>2021-11-24T23:34:18.000Z</updated>
+        <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) はパーティションデータの Amazon S3 への並行ロードのサポートを追加することにより機能を拡張しました。これにより、サポートされたデータベースエンジンソースデータから Amazon S3 へのパーティションデータの移行のロード時間が向上します。この機能は、データベースソースのテーブルの各パーティションの Amazon S3 のサブフォルダを作成し、AWS DMS が並行プロセスを実行し各サブフォルダにデータを格納することを許可します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Pinpoint に SMS シミュレーター機能を追加]]></title>
+        <id>825488c5ff417a4f8c77ed5953fd6e67deee99b7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-pinpoint-sms-simulator-feature/"/>
+        <updated>2021-11-24T23:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Pinpoint は、アプリケーションの異なる SMS 送信シナリオ処理をテストする SMS シミュレーター機能を搭載しました。この機能により、SMS メッセージを Amazon Pinpoint が提供する送信先電話番号へ送信することによりシミュレーションを行うことができます。これにより、送信先の国の送信先電話番号を所有しなくても、送信先の国ごとに配信受領を表示できます (メッセージ例を参照)。SMS シミュレーターを使用して、アプリケーションのロジックがシミュレートで正常または失敗した送信により意図した通りに機能しているかをテストすることができます。また、この機能を使用してクォータに影響を与えることなく、送信元アイデンティティスループットをテストすることもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が Amazon MSK のイベントソースとしての mTLS 認証のサポートを開始]]></title>
+        <id>8087cb1279d6cca15e7cdeca1675b01a0eb136df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/"/>
+        <updated>2021-11-24T23:32:43.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda が Amazon MSK および自己管理型 Kafka のイベントソースとしての TLS 認証のサポートを開始しました。お客様には、クライアント証明書を提供し、イベントソースとして構成されている AWS Lambda および Amazon MSK または自己管理型 Kafka ブローカーの間の信頼関係を確立するという選択肢ができました。Lambda は、ポーラーに Kafka ブローカーを信頼させるルート CA 証明書をお客様に提供いただくことにより、自己管理型 Kafka イベントソースのための自己署名型サーバー証明書またはプライベート CA が署名したサーバー証明書をサポートします。自己署名型サーバー証明書のサポートは、MSK イベントソースには必要ありません。これは、すべての MSK ブローカーが Amazon Trust Services CAs が署名したパブリック証明書を使用しており、Lambda がこれをデフォルトで信頼しているためです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syne Tone の一般提供、配信ハイパーパラメータ向けオープンソースライブラリとニューラルアーキテクチャの最適化]]></title>
+        <id>eb3d7ab86e0f57f72b566869385221567cb72789</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/"/>
+        <updated>2021-11-24T23:31:56.000Z</updated>
+        <summary type="html"><![CDATA[本日、ラージスケール向け配信ハイパーパラメータ向けオープンソース Python ライブラリとニューラルアーキテクチャの最適化、Syne Tone の一般提供を発表します。これは、ベイズ最適化、Hyperband および集団ベースのトレーニングなど、複数の最先端のグローバルオプティマイザーの実装を提供するものです。加えて、制約のある多目的な最適化をサポートしており、これによりユーザーは独自のグローバルな最適化アルゴリズムを使用することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify UI が React、Angular、および Vue 向けの新たな Authenticator コンポーネントをリリース]]></title>
+        <id>878586738e85f5efe1372bac862f531d7ea78a8a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-authenticator-ui-component-react-angular-vue/"/>
+        <updated>2021-11-24T23:31:07.000Z</updated>
+        <summary type="html"><![CDATA[本日のリリースにより、AWS Amplify は React、Angular、および Vue で構築したウェブアプリケーション向けの新しい Authenticator UI コンポーネントを提供します。デベロッパーは 1 行のコードでとても簡単にアプリケーションにログイン体験を追加することができます。新しい Authenticator UI コンポーネントは、アプリケーションへユーザーログインと登録ワークフローをすぐに追加できる方法をデベロッパーに提供するだけでなく、完全なデベロッパーの裁量で設計に合わせてレイアウトと動作を変更できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年11月25日(木) 5:13:52 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 http://status.aws.amazon.com/#management-console_1637784832]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1463602587286921219#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1463602587286921219#m"/>
+        <updated>2021-11-24T20:17:03.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年11月25日(木) 5:13:52 マネジメントコンソール 正常稼働中 [復旧済み] エラー発生率上昇 status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年11月25日(木) 4:46:22 マネジメントコンソール お知らせ エラー発生率上昇 http://status.aws.amazon.com/#management-console_1637783182]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1463595541464449027#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1463595541464449027#m"/>
+        <updated>2021-11-24T19:49:04.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年11月25日(木) 4:46:22 マネジメントコンソール お知らせ エラー発生率上昇 status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本時間2021年11月25日(木) 3:55:42 マネジメントコンソール お知らせ エラー発生率上昇 http://status.aws.amazon.com/#management-console_1637780142]]></title>
+        <id>https://nitter.net/awsstatusjp/status/1463582960494387203#m</id>
+        <link href="https://nitter.net/awsstatusjp/status/1463582960494387203#m"/>
+        <updated>2021-11-24T18:59:04.000Z</updated>
+        <summary type="html"><![CDATA[日本時間2021年11月25日(木) 3:55:42 マネジメントコンソール お知らせ エラー発生率上昇 status.aws.amazon.com/#manag…]]></summary>
+        <author>
+            <name>@awsstatusjp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Service Management Connector は、 ServiceNow のガイド付きセットアップで簡単にインストール]]></title>
+        <id>d7b0bfe7ab86bbf13e8133f4e64c33456c30cc9a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-service-management-connector-installation-easier-servicenow-guided-setup/"/>
+        <updated>2021-11-24T12:33:23.000Z</updated>
+        <summary type="html"><![CDATA[本日より、お客様は、ServiceNow のガイド付きセットアップで、AWS Service Management Connector をインストールすることができます。このガイド付きセットアップは、ServiceNow スコープ対象のアプリケーション設定タスクを簡素化し、AWS と ServiceNow の間の接続を確立するために必要な専門知識を最小限に抑えます。ServiceNow の管理者、または Connector スコープ対象のアプリケーションにアクセス許可を持つパワーユーザーは、ガイド付きステップに従って、各タスクに完了またはスキップのマークを付けるだけです（該当する場合）。AWS Service Management Connector のドキュメントには、AWS 環境をセットアップする AWS CloudFormation ベースラインアクセス許可テンプレートも含まれています。したがって、ServiceNow ガイド付きセットアップと AWS ベースラインアクセス許可を使用して、お客様は、統合された AWS のサービスを介したガードレールと検出制御の開発、および AWS と ServiceNow との接続の検証に集中することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SNS が、単一の API リクエストで最大10個のメッセージのバッチを発行するサポートを開始]]></title>
+        <id>53f3340c6e7fd86ddb22e9b25f57118353e3f0df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/"/>
+        <updated>2021-11-24T12:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Notification Service (Amazon SNS) が、発行アクションのメッセージバッチ処理をサポートするようになりました。これにより、最大10個のメッセージを単一のバッチリクエストで、スタンダードトピックまたはFIFOトピックのいずれかに発行できます。メッセージを単一の API リクエストにバッチ処理することは、分離されたアプリケーションを Amazon SNS に接続させることに関連するコストを削減したい人を対象としています。以前は、Amazon SNS では、発行されたメッセージごとに個別の API リクエストを必要としていました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly で新しいフランス語のニューラルテキスト読み上げ音声を新たにローンチ]]></title>
+        <id>248cdd82a56ce025b543567e543fa62b7b6f1315</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/"/>
+        <updated>2021-11-24T12:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、フランス語の Polly 音声である Léa のニューラルテキスト読み上げ (NTTS) バージョンの一般提供の開始を発表します。これで、Amazon Polly のお客様は、NTTS またはスタンダードの音声のいずれかで、 Léa をご利用になれます。今回の発表により、13 の言語で 23 の NTTS 音声が提供されるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ServiceNow 向け AWS Service Management Connector が AWS Systems Manager Change Manager をサポート]]></title>
+        <id>e37ab69e5827c1b614c189fcf495b282f8ec71ae</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/"/>
+        <updated>2021-11-24T12:30:58.000Z</updated>
+        <summary type="html"><![CDATA[本日より、お客様は AWS Systems Manager Change Manager を介して、ServiceNow 内のテンプレートに基づいて AWS リソース/サービスの変更リクエストを行うことができます。ServiceNow 内で承認すると、これらの変更リクエストは、変更テンプレートに関連付けられた AWS Systems Manager Automation ランブックを実行します。AWS Systems Manager Change Manager では、AWS でのインフラストラクチャおよびアプリケーションの設定に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。この統合により、お客様は AWS リソース/サービスのメンテナンス、管理、ガバナンスを、使い慣れた IT Change Management (有効化) プロセスおよびツールで合理化し調整することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Interactive Video Service がストリーミングヘルスのモニタリングのための高解像度のメトリクスを追加]]></title>
         <id>907c9c2778893eff332a688afcd295f865e31874</id>
@@ -567,86 +727,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/"/>
         <updated>2021-11-18T20:00:58.000Z</updated>
         <summary type="html"><![CDATA[Amazon Rekognition のコンテンツモデレーションは深層学習に基づき、不適切、迷惑、または不快な画像や動画を検出できるサービスで、コンテンツの検索と削除をより簡単かつ大規模に行えるようになります。Amazon Rekognition は、35 のサブカテゴリーと 10 の異なるトップレベルのモデレーションカテゴリーの詳細な分類を提供しています。本日より、Amazon Rekognition のコンテンツ修正機能において、画像修正のモデルが改良されており、すべての修正カテゴリの誤検知率が大幅に減少しています。特に露骨なヌードについて、非常に危険なコンテンツの検知率は高い水準を保っています。誤検出率が低下したので、追加の検討を要する画像の量を削減でき、手作業の効率を向上し、コスト削減に結びつきます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard が Amazon EBS gp3、io2、および io2 Block Express ボリュームを使用した Microsoft SQL Server のデプロイのサポートを開始]]></title>
-        <id>8b7ccb228db54554cd437d0755dbcf313e9d4dd9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/"/>
-        <updated>2021-11-17T14:37:47.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard は、Microsoft SQL Server デプロイ用の Amazon Elastic Block Store (EBS) gp3、io2、および io2 Block Express ボリュームをサポートします。Amazon EC2 における SQL Server の高可用性またはシングルノードのデプロイのために Launch Wizard を使用する際に、新世代の EBS ボリュームを最大限に活用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect でプログラムを使用してセキュリティプロファイルを設定するための API が利用可能に]]></title>
-        <id>170b8b1ba4ad69dc0451000b037f188b420b3079</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/"/>
-        <updated>2021-11-17T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、セキュリティプロファイルをプログラムで作成および管理するための API の提供を開始しました。セキュリティプロファイルは、Amazon Connect にアクセスして、Contact Control Panel (CCP) の使用、新しいエージェントの追加、組み込みレポートの表示などのアクションを実行できるユーザーを管理するのに役立ちます。この API を使用すると、Amazon Connect のアクセスコントロールのニーズの変化に応じて、プログラムを使用してセキュリティプロファイルを更新できます。詳細については、API ドキュメントを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CloudFormation で AWS IoT Device Management のサポートを開始]]></title>
-        <id>f4e589f0e2481df1526c069713c4efb88ef88ed5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/"/>
-        <updated>2021-11-17T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Management のリソースが AWS CloudFormation でサポートされるようになりました。数回クリックするだけで、CloudFormation テンプレートを使用して、Job Templates、Fleet Metrics、IoT Logging 設定などの IoT フリート管理インフラストラクチャを、標準化された繰り返し可能な方法で、複数のリージョンとアカウントにわたって事前設定およびデプロイできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify が CDK を使用して Amplify で生成されたリソースをオーバーライドする機能を発表]]></title>
-        <id>d77e14724eddade57b09b0a672c485041d43c238</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-override-amplify-generated-resources-cdk/"/>
-        <updated>2021-11-17T14:34:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify は、デベロッパーがアプリケーションの要件を最適に満たすために、Amplify で生成された IAM、Cognito、および S3 の設定をオーバーライドする機能を発表しました。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。新しいオーバーライド機能により、デベロッパーは Amplify が提供するデフォルトを使用してバックエンドを簡単に設定できますが、引き続ききめ細かいリソース設定をカスタマイズできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Amazon Neptune に接続するためのオープンソース JDBC ドライバーをリリース]]></title>
-        <id>9c215a9e79c370c4c90e2de3b5f5d35c43196e8c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-open-source-jdbc-driver-amazon-neptune/"/>
-        <updated>2021-11-17T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、Amazon Neptune に接続するためのオープンソース Java (JDBC) ドライバーをリリースしました。これにより、お客様は、人気のあるビジネスインテリジェンス (BI) ツールなど、JDBC をサポートするツールやライブラリを使用して Neptune に簡単に接続できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Step Functions の Synchronous Express Workflow が AWS PrivateLink のサポートを開始]]></title>
-        <id>e1bcfd379b41fb34918ced7ddba47bc0a5c1885e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/"/>
-        <updated>2021-11-17T14:31:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS StepFunctions の Synchronous Express Workflow が AWS PrivateLink をサポートするようになりました。これにより、パブリックインターネットを経由せずに Virtual Private Cloud (VPC) から Synchronous Express Workflow を開始できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Customer Profiles がカスタマーサービスをパーソナライズするための問い合わせブロックを提供]]></title>
-        <id>7e438fad12ad317657931051764792d43b0722b3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-block-personalize/"/>
-        <updated>2021-11-17T12:35:06.000Z</updated>
-        <summary type="html"><![CDATA[コードを記述する必要なくコンタクトセンターのマネージャーがコンタクトセンターエクスペリエンスをパーソナライズできる問い合わせブロックが Amazon Connect Customer Profiles で提供されるようになりました。Amazon Connect の問い合わせフロービルダーのグラフィカルユーザーインターフェイスと新しい Customer Profiles 問い合わせブロックを使用すると、コンタクトセンターのマネージャーは、名前や住所などの顧客情報を活用するパーソナルエクスペリエンスを作成できます。例えば、Customer Profiles ブロックの顧客名を使用してパーソナルな挨拶を再生することや、住所に応じて該当するキューに顧客をルーティングすることができます。新しいフローブロックでは、顧客から提供された入力を使用して顧客情報を更新することもできるので、最新の顧客情報でプロファイルを最新の状態に維持できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Greengrass が Microsoft Windows デバイスをサポート]]></title>
-        <id>61b8e08e3f1ce50bfaf37271cda2ed1473e3dc24</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-greengrass-support-windows-devices/"/>
-        <updated>2021-11-17T12:33:41.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Greengrass は、モノのインターネット (IoT) のエッジランタイムおよびクラウドサービスであり、お客様のデバイスソフトウェアの構築、デプロイ、および管理を支援します。このリリースにおいて、AWS IoT Greengrass バージョン 2.5 で Microsoft Windows デバイスのサポートが追加されています。Windows ゲートウェイデバイスは、産業 IoT シナリオにおいて、ローカルセンサーと装置からデータを収集し、アプリケーションビジネスロジックを使用してローカルアクションをトリガーすることによって製造オペレーションを自動化するために広く使用されています。例えば、欠陥が発生しやすい複雑な部品を作製する鋼板の型押しプレスを含む自動車の製造ラインを考えてみましょう。その場合、部品の寸法チェックと表面の欠陥の検出を行うローカル機械学習推論を使用するゲートウェイデバイスにフィードされるビデオカメラストリーミングを使用して品質監理 (QC) オートメーションを構築できます。ゲートウェイは、欠陥が識別された場合にオペレーターに通知できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
