@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-11-29T00:22:44.459Z</updated>
+    <updated>2021-11-30T00:22:22.986Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が強化されたエコーリダクションの提供を開始]]></title>
+        <id>61b24983d145f3126de2c653687cd186034cbaeb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-chime-sdk-echo-reduction/"/>
+        <updated>2021-11-29T02:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。Amazon Chime SDK は、音声エクスペリエンスの改善に役立つ、機械学習 (ML) ベースのエコーリダクションを提供するようになりました。スピーカーから発せられた音がマイクで拾われ、それが通話に循環して戻ると、音響エコーが会議や打ち合わせのための通話を混乱させます。新しい機械学習ベースのエコーリダクション機能は、2 人以上が同時に話す、複雑なやり取りが発生する条件下において、音響エコーを低減し、音質を維持するように設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 Image Builder を使用して、Amazon マシンイメージ (AMI) を AWS Organizations および Organizations ユニットと共有することが可能に]]></title>
+        <id>f982aa39b9bec272523387699e7ca09d91cbb653</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/ec2-image-builder-sharing-amis-aws-organization-units/"/>
+        <updated>2021-11-29T02:41:53.000Z</updated>
+        <summary type="html"><![CDATA[お客様は、EC2 Image Builder において、構築プロセスのイメージディストリビューションフェーズで Amazon マシンイメージ (AMI) を AWS Organizations および Organizational Units (OU) と共有できるようになりました。組織構造が変更された際、お客様は、組織内の個々の AWS アカウントの AMI 許可を手動で更新する必要がなくなります。お客様は、AWS Organizations 内に OU を作成し、それらの OU 内の AWS アカウントの AMI 許可を管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が IPv6 サービスと IPv4 サービス間の通信を可能にする NAT64 および DNS64 機能の提供を開始]]></title>
+        <id>820030b44e870787ae62e84470f40c0436c0ba48</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-nat64-dns64-communication-ipv6-ipv4-services/"/>
+        <updated>2021-11-29T02:39:40.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon Virtual Private Cloud (VPC) の IPv6 AWS リソースは、(AWS NAT ゲートウェイにおける) NAT64 および (Amazon Route 53 Resolver における) DNS64 を使用して IPv4 サービスと通信できます。ワークロードを IPv6 ネットワークに移行しても、引き続き IPv4 ネットワークとサービスにアクセスする必要があります。NAT64 と DNS64 を使用することで、IPv6 リソースは、同じ VPC もしくは接続された VPC、オンプレミスネットワーク、またはインターネット内の IPv4 サービスと通信できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise が簡単に機器データをクラウドに取り込むことを可能にする 3 つの新しい拡張機能を発表]]></title>
+        <id>7c3b64847dc0213f55e6fb8ae855919e47155984</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-sitewise-three-enhancements-ingest-data-cloud/"/>
+        <updated>2021-11-29T02:38:54.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS IoT SiteWise の 3 つの新しい拡張機能を発表します。これにより、お客様は、産業機器から大規模かつ簡単にデータを収集できます。新しい拡張機能により、機器データをクラウドに取り込むために必要な手順の数が減り、AWS IoT SiteWise アセットモデルとアセットを使用して物理的なオペレーションをモデル化するお客様にさらなる柔軟性が提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい AWS Managed Templates for IoT Jobs により、お客様がコードなしで IoT フリートにリモートオペレーションをデプロイすることが可能に]]></title>
+        <id>583d53531ce776754a1ee69f255a2fdc4c2d83b4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-managed-templates-iot-jobs-deploy-operations-iot-fleets/"/>
+        <updated>2021-11-29T02:38:06.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Device Management の新機能である AWS Managed Templates for IoT Jobs により、一般的なリモートオペレーションを AWS IoT コンソールから直接、標準化された方法で IoT デバイスのフリートにデプロイできるようになりました。増分コードは不要です。事前に作成された一連のリモートアクションから選択し、関連する入力を提供して、それらを IoT フリートにすばやくデプロイできます。JSON Job Document でリモートオペレーションを手動で定義する必要はありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が空間 GEOGRAPHY データ型のネイティブサポートを発表]]></title>
+        <id>c4210c49a1eb613c6ee53cd2c04fb403ad63ccab</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-redshift-spatial-geography-datatype/"/>
+        <updated>2021-11-29T02:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift の GEOGRAPHY データ型のサポートが空間分析向けにご利用いただけるようになりました。GEOGRAPHY データ型は、地球の回転楕円体モデルで表すことができ、空間座標系として緯度と経度を使用して参照できる地理的特徴を備えた空間データ向けにより高精度の結果を必要とするクエリで使用されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS PrivateLink での Amazon Translate のサポートを発表]]></title>
+        <id>a693f6c728225fffba635ce6f6114855344c6da0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-privatelink-amazon-translate/"/>
+        <updated>2021-11-29T02:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Translate は、高速で高品質な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。Amazon Translate は AWS PrivateLink を介して Amazon Virtual Private Cloud (VPC) エンドポイントをサポートするようになったため、VPC 内からパブリック IP を使用せずに Amazon Translate への API コールを安全に開始できます。AWS PrivateLink では、Amazon のネットワークから出ることなく VPC と AWS のサービスをプライベートに接続し、内部ネットワークアーキテクチャを大幅に簡素化します。Amazon Translate に接続するためにインターネットゲートウェイ、ネットワークアドレス変換 (NAT) デバイス、またはファイアウォールプロキシを使用する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling がカスタムメトリクスを使用した予測スケーリングのサポートを開始]]></title>
+        <id>a11c36848da8391f27797562baee666d0adde225</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/"/>
+        <updated>2021-11-29T02:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 Auto Scaling の新しい予測スケーリングポリシーにより、カスタムメトリクスを使用して、Auto Scaling グループによって必要とされる EC2 インスタンスの容量を予測できるようになりました。予測スケーリングは、予測される需要に対応するために Auto Scaling グループの容量をプロアクティブに増やします。繰り返し発生する急激な需要の変化が発生するワークロードの場合、予測スケーリングは、容量を過剰にプロビジョンすることなくアプリケーションの応答性を改善するのに役立ちます。これにより、EC2 コストを削減できます。カスタムメトリクスは、事前定義されたメトリクス (CPU 使用率、ネットワーク I/O、および ALB リクエスト数) がアプリケーションのロードをキャプチャするのに十分でない場合に役立ちます。これまでは、ステップスケーリングとターゲット追跡でのみカスタムメトリクスを使用できましたが、今後は予測スケーリングでも使用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Managed Grafana が Amazon Athena および Amazon Redshift データソースと Geomap の視覚化のサポートを追加]]></title>
+        <id>4d5503b5afb7c6c1a26a67e9cd560c8e724b4773</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/"/>
+        <updated>2021-11-29T02:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Grafana は、Amazon Athena および Amazon Redshift 向けの新しいデータソースプラグインを発表します。これにより、お客様は、Amazon Managed Grafana ワークスペースから Athena および Redshift のデータをクエリおよび視覚化したり、これらのデータについてアラートを送信したりできます。Amazon Managed Grafana は、CloudFlare、Zabbix、および Splunk Infrastructure Monitoring のデータソースに加えて、Geomap パネルの視覚化とオープンソースの Grafana バージョン 8.2 もサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elastic Beanstalk が AWS Graviton ベースの Amazon EC2 インスタンスタイプをサポート]]></title>
+        <id>8d7fffa602917d9dd52d2d28accd5f30d0218ed0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/elastic-beanstalk-aws-graviton-ec2/"/>
+        <updated>2021-11-29T02:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Elastic Beanstalk は、AWS Graviton ベースの Amazon Elastic Compute Cloud (Amazon EC2) のインスタンスタイプをサポートするようになりました。AWS Graviton は、Amazon によって構築された arm64 ベースのプロセッサであり、同等の x86 ベースのプロセッサと比較して最大 40% 優れた料金パフォーマンスを提供します。AWS Graviton on Elastic Beanstalk を使用すると、お客様は、Elastic Beanstalk の使いやすさに加えて、arm64 ベースのプロセッサの優れた料金パフォーマンスの恩恵を受けることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Runner がアプリケーションのビルドおよびデプロイのために GitHub Actions をサポート]]></title>
+        <id>d2232ec3fb5ae6cdcb11dc2de594797e279254db</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-app-runner-github-actions-build-deploy-applications/"/>
+        <updated>2021-11-29T02:33:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Runner は、アプリケーションのビルドおよびデプロイのために GitHub Actions をサポートするようになりました。GitHub Actions を使用すると、GitHub イベントでワークフローを開始することにより、複雑なオーケストレーションと CI/CD 機能を GitHub で直接実装できます。GitHub リポジトリにソースコードがある場合は、GitHub Actions を使用して、App Runner が言語ランタイムに基づいて Docker イメージを構築し、生成されたイメージに基づいてアプリケーションをデプロイできるようにすることが可能です。App Runner でサポートされているランタイムについては、ドキュメントを参照してください。GitHub リポジトリにアプリケーションのコンテナイメージが既にある場合は、GitHub Actions を使用し、イメージを直接使用してアプリケーションを App Runner にデプロイできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift のデータ共有の新しいパフォーマンス強化を発表]]></title>
+        <id>614d5bf096e66fd086fac9dd89e4f7ff6ba3c1f8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/enhancements-amazon-redshift/"/>
+        <updated>2021-11-29T02:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift のデータ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を伴うことなく、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。データ共有では、結果のキャッシュや同時実行スケーリングなど、いくつかのパフォーマンス強化のための機能が追加されました。これにより、より広範な一連の分析アプリケーションをサポートし、共有データをクエリするときに重要なパフォーマンス SLA を満たすことができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS WAF が Captcha のサポートを追加]]></title>
+        <id>ab29714a9a0e614505c3ed2cb9d9f13fd1867702</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-waf-captcha-support/"/>
+        <updated>2021-11-29T02:31:46.000Z</updated>
+        <summary type="html"><![CDATA[AWS は本日、AWS WAF Captcha を発表しました。これは、ウェブリクエストが AWS WAF で保護されたリソースに到達することが許可される前に、ユーザーがチャレンジを正常に完了することを要求することで、望ましくないボットトラフィックをブロックするのに役立ちます。Captcha は、Completely Automated Public Turing test to tell Computers and Humans Apart の頭字語であり、ウェブスクレイピング、クレデンシャルスタッフィング、スパムなどのアクティビティを防ぐために、ロボットと人間の訪問者を区別するために一般的に使用されています。ログイン、検索、フォーム送信などのボットのターゲットとなることが多い特定のリソースについて、WAF Captcha のチャレンジを解決することを要求するように AWS WAF ルールを設定できます。AWS WAF Bot Control や Amazon IP Reputation リストなど、AWS マネージドルールから生成されたレート、属性、またはラベルに基づいて、疑わしいリクエストについて WAF Captcha チャレンジを要求することもできます。WAF Captcha のチャレンジは、ボットに対して効果的でありながら、人間にとっては単純なものです。WAF Captcha には音声版が含まれており、WCAG アクセシビリティ要件を満たすように設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight が新しい Exasol データコネクタを追加]]></title>
+        <id>21d0e416433e537e1d18eb2f6a3a340721f594b4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-quicksight-exasol-data-connector/"/>
+        <updated>2021-11-29T02:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、分析用に設計された高性能のインメモリ MPP データベースである Exasol への接続をサポートするようになりました。QuickSight の新しいデータコネクタを使用すると、ビジネスユーザーは、ライブ接続を使用して Exasol のデータに直接接続できるほか、当該データを分析したり、当該データについてのレポートを作成したりできます。あるいは、Exasol から QuickSight の SPICE インメモリエンジンにデータをインポートして、数千人のユーザーにアクセスをスケーリングすることもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Proton で、インフラストラクチャをプロビジョニングする Terraform Open Source のサポート開始]]></title>
         <id>495fa149cc853ee6458857f12c0e09aea870e26e</id>
@@ -952,176 +1092,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-emr-studio-extended-regions/"/>
         <updated>2021-11-23T17:30:49.000Z</updated>
         <summary type="html"><![CDATA[EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio の欧州 (パリ) と南米 (サンパウロ) リージョンでの提供開始についてお知らせいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch がメトリクスの数式の異常検出のサポートを開始]]></title>
-        <id>8de8458e6be8e63825a2e86566ad513a6c960468</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-supports-anomaly-detection-metric-math-expressions/"/>
-        <updated>2021-11-23T11:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudWatch は、メトリクスの数式に基づく異常検出をサポートするようになりました。Amazon CloudWatch 異常検出を利用することで、機械学習アルゴリズムを適用して、システムとアプリケーションのメトリクスを継続的に分析し、通常のベースラインを決定し、最小限のユーザー介入で異常を表面化させることができます。CloudWatch のメトリクスの数式では、メトリクスを集計および変換して、ヘルスおよびパフォーマンスのメトリクスのカスタム視覚化を作成できます。メトリクスの数式は、+、-、/、* などの基本的な数論的関数、AND & OR などの比較演算子や論理演算子、および RATE や INSIGHT_RULE_METRIC などのいくつかの追加の関数をサポートします。例えば、AWS Lambda メトリクスを使用すると、Errors メトリクスを Invocations メトリクスで除算してエラー率を取得したり、異常検出を使用してメトリクスグラフで想定値を視覚化したり、値が想定の範囲外になったときに動的にアラートを受け取るために異常検出アラームを作成したりできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Model Registry がモデルバージョンのクロスアカウント登録のサポートを開始]]></title>
-        <id>1045037ff69f449b82fccaec93aba653c1c8bbc0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/Amazon-sagemaker-model-registry-registration/"/>
-        <updated>2021-11-23T11:31:30.000Z</updated>
-        <summary type="html"><![CDATA[お客様が機械学習モデルをカタログ化できるようにする専用サービスの Amazon SageMaker Model Registry は、モデルバージョンのクロスアカウント登録をサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify が Amplify バックエンドを CDK スタックとしてエクスポートして CDK ベースのパイプラインに統合する機能を発表]]></title>
-        <id>b345c51813522424555ccb96265dcc0c231d5183</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-export-amplify-backends-cdk-stacks-integrate-cdk-based-pipelines/"/>
-        <updated>2021-11-23T08:36:40.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Amplify は、Amplify CLI で生成されたバックエンドを Cloud Development Kit (CDK) スタックとしてエクスポートし、既存の CDK デプロイパイプラインに組み込む機能を発表しました。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。この新機能により、フロントエンドデベロッパーはアプリケーションバックエンドを迅速に構築し、準備が整うたびに、DevOps チームに渡して本番稼働環境にデプロイできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon AppStream 2.0 でサーバーレスフリートタイプである Elastic フリートの起動が可能に]]></title>
-        <id>f2005f12c7b71ea58808c106aee5076c6b783260</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-appstream-2-0-launches-elastic-fleets-serverless-fleet-type/"/>
-        <updated>2021-11-23T08:35:17.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon AppStream 2.0 では、サーバーレスフリートタイプである Elastic フリートをご利用いただけるようになりました。これにより、お客様は、使用量を予測したり、スケーリングポリシーを作成および管理したり、イメージを作成したりすることを必要とせずに、AWS マネージドのストリーミングインスタンスのプールからエンドユーザーにアプリケーションをストリーミングできます。Elastic フリートは、容量を管理したり AppStream 2.0 イメージを作成したりせずにアプリケーションをユーザーにストリーミングすることをご希望のお客様向けに設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Athena が AWS Glue Data Catalog パーティションインデックスを使用してクエリを高速化]]></title>
-        <id>2be488d26ac5458cf69bbb86724621a827d36f25</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/"/>
-        <updated>2021-11-23T08:33:56.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Athena が、クエリプランニングを最適化し、クエリの実行時間を短縮するために、AWS Glue Data Catalog のパーティションインデックスをサポートするようになったことをお知らせします。多数のパーティションを含むテーブルをクエリすると、Athena は AWS Glue Data Catalog から使用可能なパーティションを取得し、クエリに必要なパーティションを特定します。新しいパーティションが追加されると、パーティションの取得に必要な時間が長くなり、クエリの実行時間が長くなる可能性があります。AWS Glue Data Catalog を使用すると、お客様はパーティションインデックスを作成して、数万から数十万のパーティションを持つテーブルのパーティションメタデータを取得およびフィルタリングするために必要な時間を短縮できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core が IoT Credential Provider エンドポイントでマルチアカウント登録証明書のサポートを開始]]></title>
-        <id>880f1903a55b65a242b87a1135d73772c010a854</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/"/>
-        <updated>2021-11-23T08:32:35.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Core Credential Provider エンドポイントでマルチアカウント登録証明書を使用できるようになりました。マルチアカウント登録は AWS IoT Core の機能であり、お客様が複数の AWS アカウントとエンドポイントで同じデバイス証明書を簡単に登録して使用できるようにします。例えば、お客様は同じ証明書をテストアカウントと本番稼働用アカウントに登録できます。その後、お客様は、デバイスが AWS IoT Core に接続するときにアカウントエンドポイントを指定することで、これらの AWS アカウント間でデバイスを簡単に移動できます。これまで、マルチアカウント登録証明書は、IoT データプレーンと IoT Jobs エンドポイントでのみサポートされていました。本日より、お客様は IoT Credential Provider エンドポイントでもマルチアカウント登録証明書をご利用いただけます。詳細については、AWS IoT デバイスのデータとサービスエンドポイントをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect CTI Adapter for Salesforce が機械学習ベースの音声認証をサポート]]></title>
-        <id>a99ebcef0da5ce0016ba49a0b175c8f992861fff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/"/>
-        <updated>2021-11-23T08:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Computer Telephony Integration (CTI) Adapter for Salesforce では、Amazon Connect Voice ID の統合により、コンタクトセンターの認証手順が簡素化され、音声操作がより高速かつ安全になりました。Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、リアルタイムでアイデンティティの確認をサポートしたり、CTI Adapter の Contact Control Panel (CCP) 内に信頼スコアとステータスを表示したりします。CTI Actions および Flows を使用すると、Voice ID インタラクションの結果に基づいて、不正ケースの作成を自動化したり、通話を不正対応エージェントにルーティングしたりできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect CTI Adapter for Salesforce が顧客の問題を迅速に解決するための Wisdom をサポート]]></title>
-        <id>18cb256cd60d557e3fb368ca14f0dd7d68f4aacf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/"/>
-        <updated>2021-11-23T08:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Computer Telephony Integration (CTI) Adapter for Salesforce は、Amazon Connect Wisdom の統合により、エージェントが回答の検索に費やす時間を削減するのをサポートするようになりました。これまで、エージェントは、顧客の問題を解決するためにデータソース全体で情報を手動で検索するために貴重な時間を費やす必要があり、迅速なサポートを提供することができませんでした。Wisdom を使用すると、エージェントは、CTI Adapter 内から Salesforce ナレッジベースを含む接続されたリポジトリ全体で「what is the pet policy in hotel rooms」(ホテルの部屋のペットに関するポリシーとは) などの語句で検索できます。Wisdom は、Contact Lens とリアルタイムで使用された場合、通話中に顧客の問題を検出し、役立つ記事のレコメンデーションをリアルタイムかつプロアクティブに提供するように設計されています。Wisdom ウィジェットは、エージェントの Contact Control Panel (CCP) 内で、またはケース、連絡先、およびアカウントについてのエージェントの Salesforce Lightning 画面レイアウトと一緒に設定できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex のスペルサポートの紹介]]></title>
-        <id>6d9673a494e7c97b35c1dde8fcad5308582607de</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-lex-spelling-support/"/>
-        <updated>2021-11-22T17:04:11.000Z</updated>
-        <summary type="html"><![CDATA[カスタマーサポートの会話では、エージェントが顧客の要求を処理する前に発信者に姓名やアカウント ID などの入力を求めて、情報を確認することがよくあります。本日より、Amazon Lex ボットを設定して、名、姓、E メールアドレス、英数字、および英国の郵便番号の組み込みスロットタイプのスペル (「ZAC」など) または音声の説明 (例: Zebra の場合は Z、Apple の場合は A、Cat の場合は C）をキャプチャできるようになります。発信者は、スペルサポートを使用することで、難しいスペルや区別がつきにくい名前（「Chris (クリス) 」と「Chris (クリス) 」など）を付けることができます。音声による説明を使用することで、「N」と「M」などの紛らわしい文字を明確にすることができます。（例えば、Min のスペルの場合、「Mary の M 、Idea の I、Nancy の N」のように行います。）スペル機能が組み込みのスロットタイプで拡張されるため、ダイアログ管理を簡素化し、エンドユーザーエクスペリエンスを向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Marketplace が、Amazon マシンイメージ (AMI) およびコンテナ製品の前払い契約料金を開始]]></title>
-        <id>d621c37f46eb8a43621e88ee4f94c7b4e06ea1c4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-marketplace-contract-pricing-amazon-machine-images-ami-container-products/"/>
-        <updated>2021-11-22T14:06:34.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS は、サポートされている製品の 1 年、2 年、または 3 年の契約で、お客様が AWS Marketplace から Amazon マシンイメージ (AMI) およびコンテナ製品を購入できるようになったことを発表しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Application Migration Service がエージェントレスレプリケーションのサポートを開始]]></title>
-        <id>b5409d00d2e2058a62003c7bb263afea5c78a5a8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-application-migration-agentless-replication/"/>
-        <updated>2021-11-22T14:05:46.000Z</updated>
-        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) が、VMware vCenter バージョン 6.7 および 7.0 から AWS クラウドへのエージェントレスレプリケーションのサポートを開始しました。AWS Application Migration Service は、AWS へのリフトアンドシフト移行のための主要なサービスです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Virtual Private Cloudc が、7 つの追加 AWS リージョンで独自 IP の持ち込み (BYOIP) のサポートを開始]]></title>
-        <id>67d2125f905252ff235c1144545487529cea560c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-byoip-seven-regions/"/>
-        <updated>2021-11-22T14:04:58.000Z</updated>
-        <summary type="html"><![CDATA[本日より、独自 IP の持ち込み (BYOIP) が 7 つの追加 AWS リージョンで利用可能になります。これらの AWS リージョンは、アフリカ (ケープタウン)、アジアパシフィック (大阪、ソウル)、欧州 (ミラノ、パリ、ストックホルム)、および中東 (バーレーン) です。今回のローンチで、BYOIP はすべての商用リージョン、AWS GovCloud (米国東部)、および AWS GovCloud (米国西部) で利用できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Container Insights が Amazon CloudWatch Application Insights の問題を介してワークロードの問題を視覚化するためのコンソールサポートを追加]]></title>
-        <id>5c51d0f8dd73837208c106296aa73d516b366d4a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-container-insights-console-amazon-cloudwatch-application-insights-problems/"/>
-        <updated>2021-11-22T14:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudWatch Container Insights コンソールから直接Amazon CloudWatch Application Insights の問題を介して、ワークロード固有のモニタリングを簡単にセットアップし、これらのワークロードの状態を表示できるようになりました。これにより、問題の詳細な調査、問題のトラブルシューティング、解決までの平均時間の短縮が簡単になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elastic Disaster Recovery の一般提供開始を発表]]></title>
-        <id>57580ca8bd6c5024d5103a5462c7d3e40319a726</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/"/>
-        <updated>2021-11-22T14:03:22.000Z</updated>
-        <summary type="html"><![CDATA[本日、オンプレミスおよびクラウドベースのアプリケーションの高速で信頼性の高いリカバリにより、組織がダウンタイムとデータ損失を最小限に抑えることを可能にする新しいサービス、AWS Elastic Disaster Recovery (AWS DRS) の一般提供開始を発表します。AWS Elastic Disaster Recovery は、AWS の災害対策のための推奨サービスです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall が ISO への準拠を達成]]></title>
-        <id>c37389ca27eeb626be679c8750d75145a7b48fec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-network-firewall-iso-compliance/"/>
-        <updated>2021-11-22T14:02:35.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Network Firewall はISO 9001、ISO 27001、ISO 27017、ISO 27018、および ISO 27701 規格に準拠しています。AWS では、認証を維持するための広範な統制に対する監査を行い、企業とその顧客情報の機密性、完全性、および可用性に影響を与える可能性のある情報セキュリティリスクを適切に管理しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Rekognition テキスト検出のサーポート言語が 7 言語追加され、精度も向上]]></title>
-        <id>aa1d4b8aade1390b5aa812eabb4b5b06954468be</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-rekognition-text-detection-7-new-languages-accuracy/"/>
-        <updated>2021-11-22T14:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Rekognition は、画像内のテキストを検出して読み取り、見つかった各単語のバウンディングボックスを返せるます。本日より、Amazon Rekognition は画像内のテキスト検出を新たに 7 言語でサポートします。新たな言語は、アラビア語、ロシア語、ドイツ語、フランス語、イタリア語、ポルトガル語、スペイン語です。Amazon Rekognition は、画像内の全てのサポート言語のテキストを自動で検出し抽出します。言語パラメータは必要ありません。また、Amazon Rekognition は全体的にも、画像内の仮想テキストと歪曲したテキストに関しても精度が向上しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EKS Connector でのすべての Kubernetes クラスターの 1 か所での視覚化の一般提供開始]]></title>
-        <id>f48002e461d62b2aacca51f5cab37851ab44de50</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/"/>
-        <updated>2021-11-22T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Elastic Kubernetes Service (EKS) Connector の一般提供を開始することを発表します。EKS Connector を使用して、EKS コンソールを拡張し、AWS 外で Kubernetes クラスターを表示できるようになりました。EKS コンソールを使用して、オンプレミスの Kubernetes クラスター、Amazon Elastic Compute Cloud (EC2) で実行されている自己管理クラスター、他のクラウドプロバイダーのクラスターなどの Kubernetes クラスターを視覚化できます。一度接続すれば、すべてのクラスターのステータス、設定、ワークロードを EKS コンソール上の 1 か所で確認できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
