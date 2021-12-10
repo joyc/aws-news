@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-12-09T00:23:09.448Z</updated>
+    <updated>2021-12-10T00:23:27.907Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue ストリーミング ETL ジョブが AWS Glue スキーマレジストリと統合]]></title>
+        <id>db5ab4874a6c661a3b53d8fd48bdbc098727ce86</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/"/>
+        <updated>2021-12-09T18:46:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue ストリーミングの抽出、変換、ロード (ETL) ジョブを、AWS Glue スキーマレジストリを使用して作成された AWS Glue データカタログテーブルから読み取ることができるようになりました。AWS Glue のストリーミング ETL を使用すると、ストリーミングデータをオンザフライで準備し、数秒で分析できるようにする継続的取り込みパイプラインをセットアップできます。AWS Glue スキーマレジストリを使用すると、データストリームスキーマを一元的に検出、制御、展開させることができます。今回の統合により、ジョブのセットアッププロセスが合理化され、スキーマの適用が簡素化されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager が、最大セッションタイムアウトをサポートし、セッションを開始する理由を注釈に指定できる Session Manager の新機能を発表]]></title>
+        <id>d3ce9652afa9924a63f2dd1e11aa69dce9fe40ba</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/"/>
+        <updated>2021-12-09T18:34:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Systems Manager が、最大セッションタイムアウトをサポートし、セッションを開始する理由を注釈に指定できる Session Manager の新機能を発表しました。AWS Systems Manager は、AWS の運用ハブであり、中央の場所から AWS のアプリケーション全体の運用上の問題を追跡および解決するための統合されたユーザーインターフェイスとなります。AWS Systems Manager Session Manager を使用すると、インタラクティブなブラウザベースのシェルまたはコマンドラインにより、EC2 インスタンス、エッジデバイス、オンプレミスサーバーおよび仮想マシン (VM) を管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 File Gateway が NFS ファイル共有監査のサポートを開始]]></title>
+        <id>3fd9d5e648008bcf817c24df11d3c8a58e14990e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/"/>
+        <updated>2021-12-09T02:28:44.000Z</updated>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 ファイルゲートウェイを使用すると、管理者はロックされたファイルを強制的に閉じることができます]]></title>
+        <id>247f1720c4edcf55aad98cd3ec3c87f4553a59b9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/"/>
+        <updated>2021-12-09T00:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 File Gateway は、ローカルセキュリティグループへのアクセスを提供することにより、Amazon S3 ファイルゲートウェイ- の SMB ファイル共有でロックされたファイルを強制的に閉じることができるようになりました。Amazon S3 File Gateway は、SMB および NFS プロトコルを使用して、オンプレミスのアプリケーションに、事実上無制限のクラウドストレージへのファイルベースのキャッシュアクセスを提供します。SMB 共有上のファイルを使用しているエンドユーザーやアプリケーションは、それらのファイルを閉じずに作業を停止する場合があります。これにより、ファイルは開いた状態またはロックされた状態のままになります。これまで、ゲートウェイ管理者にはこうしたファイルを閉じる許可がありませんでした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS AppSync が、AppSync GraphQL エンドポイントのカスタムドメイン名のサポートを開始]]></title>
         <id>99149edcc58d71446952edfa989bca2a43c74097</id>
@@ -1046,39 +1085,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-unified-agent-application/"/>
         <updated>2021-12-03T20:10:44.000Z</updated>
         <summary type="html"><![CDATA[Amazon Connect が、コンタクトを管理し、お客様の問題を解決するためのエージェントアプリケーションを提供するようになりました。コンタクトセンターで、エージェントは適切なお客様情報を表示し、解決しようとしているお客様の問題の状況に応じたナレッジ記事を表示しながら、複数のコンタクト (音声、チャット、タスク) を簡単に処理できる方法を必要としています。ブラウザでエージェントアプリケーションを起動すると、エージェントはすぐにサインインして顧客認証、通話、チャットを管理し、主要な顧客インサイトやナレッジ記事を表示できます。例えば、エージェントが電話またはチャットを受信すると、Amazon Connect Customer Profiles が、名前、電話番号、E メールアドレスなどの顧客情報を共有します。エージェントが顧客と話している間、Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、リアルタイムで発信者のアイデンティティの確認したり、信頼スコアとステータスを表示したりします。その後、コンタクト全体を通じて、Amazon Connect Wisdom が顧客の問題を検出し、ナレッジ記事にあるレコメンデーションをリアルタイムでプロアクティブに提供します。Amazon Connect エージェントアプリケーションを使用すると、顧客の問題を解決し、個人的な体験を提供し、顧客満足度を向上させるための適切な情報をエージェントに提供するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta、AWS を戦略的クラウドプロバイダーに選定]]></title>
-        <id>cf3be1d9b931fa773a69cde788b3dae940973220</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/meta-selects-aws-key-long-term-strategic-cloud-provider/"/>
-        <updated>2021-12-03T02:55:45.000Z</updated>
-        <summary type="html"><![CDATA[研究開発の拡大、他社とのコラボレーションの促進、業務の効率化に向けて、AWS のサービスとグローバルなインフラストラクチャを活用
- 
-Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをより迅速かつ簡単に導入し、研究から本番環境まで活用する企業を支援]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシュの大規模な医療データ利活用を AWS が支援]]></title>
-        <id>978410a200f23a7bd1aa6b4995ea2a69c59e838d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-supports-roche-harnessing-power-health-data-scale/"/>
-        <updated>2021-12-03T02:52:45.000Z</updated>
-        <summary type="html"><![CDATA[世界最大級のヘルスケア企業であるロシュが、研究におけるセキュアなコラボレーションや新たな診断技術の実現に、AWS テクノロジーを採用
- 患者のケアと臨床アウトカム向上に向けて、医療データからインサイトを引き出す]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aurora、 AWS を活用して「Aurora Driver」の開発を加速]]></title>
-        <id>b44c05935500b1dde0e41e431e88f9f49bcad81d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aurora-accelerates-development-aurora-driver-aws/"/>
-        <updated>2021-12-03T02:52:45.000Z</updated>
-        <summary type="html"><![CDATA[AWS の高性能なインフラストラクチャと豊富な機能ポートフォリオを利用し、機械学習と 1 日数百万回のクラウドベースのシミュレーションにより、自動運転技術の安全かつ迅速なトレーニング、テスト、検証を実施]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

@@ -103,6 +103,42 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "db5ab4874a6c661a3b53d8fd48bdbc098727ce86",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue ストリーミングの抽出、変換、ロード (ETL) ジョブを、AWS Glue スキーマレジストリを使用して作成された AWS Glue データカタログテーブルから読み取ることができるようになりました。AWS Glue のストリーミング ETL を使用すると、ストリーミングデータをオンザフライで準備し、数秒で分析できるようにする継続的取り込みパイプラインをセットアップできます。AWS Glue スキーマレジストリを使用すると、データストリームスキーマを一元的に検出、制御、展開させることができます。今回の統合により、ジョブのセットアッププロセスが合理化され、スキーマの適用が簡素化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/",
+          "publishedOn": "2021-12-09T18:46:44.000Z",
+          "wordCount": 274,
+          "title": "AWS Glue ストリーミング ETL ジョブが AWS Glue スキーマレジストリと統合"
+        },
+        {
+          "id": "d3ce9652afa9924a63f2dd1e11aa69dce9fe40ba",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Systems Manager が、最大セッションタイムアウトをサポートし、セッションを開始する理由を注釈に指定できる Session Manager の新機能を発表しました。AWS Systems Manager は、AWS の運用ハブであり、中央の場所から AWS のアプリケーション全体の運用上の問題を追跡および解決するための統合されたユーザーインターフェイスとなります。AWS Systems Manager Session Manager を使用すると、インタラクティブなブラウザベースのシェルまたはコマンドラインにより、EC2 インスタンス、エッジデバイス、オンプレミスサーバーおよび仮想マシン (VM) を管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/",
+          "publishedOn": "2021-12-09T18:34:44.000Z",
+          "wordCount": 284,
+          "title": "AWS Systems Manager が、最大セッションタイムアウトをサポートし、セッションを開始する理由を注釈に指定できる Session Manager の新機能を発表"
+        },
+        {
+          "id": "3fd9d5e648008bcf817c24df11d3c8a58e14990e",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/",
+          "publishedOn": "2021-12-09T02:28:44.000Z",
+          "wordCount": 287,
+          "title": "Amazon S3 File Gateway が NFS ファイル共有監査のサポートを開始"
+        },
+        {
+          "id": "247f1720c4edcf55aad98cd3ec3c87f4553a59b9",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 File Gateway は、ローカルセキュリティグループへのアクセスを提供することにより、Amazon S3 ファイルゲートウェイ- の SMB ファイル共有でロックされたファイルを強制的に閉じることができるようになりました。Amazon S3 File Gateway は、SMB および NFS プロトコルを使用して、オンプレミスのアプリケーションに、事実上無制限のクラウドストレージへのファイルベースのキャッシュアクセスを提供します。SMB 共有上のファイルを使用しているエンドユーザーやアプリケーションは、それらのファイルを閉じずに作業を停止する場合があります。これにより、ファイルは開いた状態またはロックされた状態のままになります。これまで、ゲートウェイ管理者にはこうしたファイルを閉じる許可がありませんでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/",
+          "publishedOn": "2021-12-09T00:09:44.000Z",
+          "wordCount": 283,
+          "title": "Amazon S3 ファイルゲートウェイを使用すると、管理者はロックされたファイルを強制的に閉じることができます"
+        },
+        {
           "id": "99149edcc58d71446952edfa989bca2a43c74097",
           "author": "aws@amazon.com",
           "description": "本日、AWS AppSync の新機能をリリースいたします。これにより、AWS AppSync GraphQL API でカスタムドメイン名を使用できるようになります。",
@@ -947,33 +983,6 @@
           "publishedOn": "2021-12-03T20:10:44.000Z",
           "wordCount": 272,
           "title": "エージェントエクスペリエンスとお客様とのやり取り改善するために、Amazon Connect で統合されたエージェントアプリケーションをリリース"
-        },
-        {
-          "id": "cf3be1d9b931fa773a69cde788b3dae940973220",
-          "author": "aws@amazon.com",
-          "description": "研究開発の拡大、他社とのコラボレーションの促進、業務の効率化に向けて、AWS のサービスとグローバルなインフラストラクチャを活用\n \nMeta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをより迅速かつ簡単に導入し、研究から本番環境まで活用する企業を支援",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/meta-selects-aws-key-long-term-strategic-cloud-provider/",
-          "publishedOn": "2021-12-03T02:55:45.000Z",
-          "wordCount": 351,
-          "title": "Meta、AWS を戦略的クラウドプロバイダーに選定"
-        },
-        {
-          "id": "978410a200f23a7bd1aa6b4995ea2a69c59e838d",
-          "author": "aws@amazon.com",
-          "description": "世界最大級のヘルスケア企業であるロシュが、研究におけるセキュアなコラボレーションや新たな診断技術の実現に、AWS テクノロジーを採用\n 患者のケアと臨床アウトカム向上に向けて、医療データからインサイトを引き出す",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-supports-roche-harnessing-power-health-data-scale/",
-          "publishedOn": "2021-12-03T02:52:45.000Z",
-          "wordCount": 335,
-          "title": "ロシュの大規模な医療データ利活用を AWS が支援"
-        },
-        {
-          "id": "b44c05935500b1dde0e41e431e88f9f49bcad81d",
-          "author": "aws@amazon.com",
-          "description": "AWS の高性能なインフラストラクチャと豊富な機能ポートフォリオを利用し、機械学習と 1 日数百万回のクラウドベースのシミュレーションにより、自動運転技術の安全かつ迅速なトレーニング、テスト、検証を実施",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aurora-accelerates-development-aurora-driver-aws/",
-          "publishedOn": "2021-12-03T02:52:45.000Z",
-          "wordCount": 408,
-          "title": "Aurora、 AWS を活用して「Aurora Driver」の開発を加速"
         }
       ]
     }
