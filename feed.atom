@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2021-12-10T00:23:27.907Z</updated>
+    <updated>2021-12-11T00:22:02.418Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Toolkit for VS Code に Amazon ECS のトラブルシューティング用 Amazon ECS Exec のサポートが追加]]></title>
+        <id>08e1b938e6b586e1470751ac3bfe9781e3b8e059</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/"/>
+        <updated>2021-12-10T16:10:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Toolkit for VS Code は、Amazon ECS コンテナに接続し、Amazon ECS Exec を使用してコマンドを発行する便利な IDE 機能をデベロッパーに提供します。これにより、VS Code のユーザーは、IDE を離れることなく、Amazon EC2 インスタンスや AWS Fargate で実行されている ECS コンテナにコマンドを実行したり、シェルを取得したりするなど、コンテナを直接操作することができます。ECS Exec は、実行中のコンテナとの接続を確立するために、AWS Systems Manager (SSM) Session Manager を内部で使用します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager がアプリケーションレベルのコストレポートに対応]]></title>
+        <id>c159ae1d0b5c31b7b14374bc7aaf5f863c264b0d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/"/>
+        <updated>2021-12-10T16:04:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager の機能の 1 つである Application Manager は、AWS Cost Explorer との統合により、お客様のアプリケーションのコストを報告し、可視化する新機能を発表しました。Application Manager は、アプリケーションの作成、表示、操作を単一のコンソールで行うための AWS のセントラルハブです。Application Manager を使用すると、AWS CloudFormation、AWS Launch Wizard、AWS Service Catalog App Registry、AWS Resource Groups、Amazon Elastic Kubernetes Service (Amazon EKS)、Amazon Elastic Container Service (Amazon ECS) などの複数の AWS のサービス間でアプリケーションを探して管理できます。この機能を使用することで、IT 専門家は Application Manager コンソール内でアプリケーションやアプリケーションコンポーネントのコストを確認することができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Location に Suggestion 機能を追加]]></title>
+        <id>9011b2cac098c5b911ab9fe43f4957f058655054</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-location-suggestion-capability/"/>
+        <updated>2021-12-10T15:46:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Location Service に Suggestions 機能が追加されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS End-of-support Migration Program (EMP) がインストールメディアを持たないアプリケーションのアシストパッケージングに対応]]></title>
+        <id>6bc660c250a075a9fc3fc4e44588e90360395117</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/"/>
+        <updated>2021-12-10T15:34:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS EMP は、ガイド付きユーザーインターフェイス (UI) 体験を通じて、インストールメディアが利用できないサポートが終了した (EOS) Windows Server アプリケーションのパッケージングのサポートを開始します。本日発表された Guided Reverse Packaging (GRP) 機能では、お客様はアプリケーションに関連するファイルやフォルダを入力でき、ツールがレジストリキーや関連ファイルなどの依存関係を自動的に検索し、ユーザーに提示して確認してもらうことができます。次に、一般的なアプリケーションのワークフローをシミュレーションすることで、依存関係の全範囲を確実に把握することができます。その後、お客様は必要な互換性パッケージを生成し、実行中のアプリケーションと一緒に EC2 のサポートされている新しいバージョンの Windows Server にデプロイすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MariaDB が新しいマイナーバージョン 10.5.13、10.4.22、10.3.32、10.2.41 をサポート]]></title>
+        <id>7ce8055dfad88fc13d56a3387481d8a53f70f4c2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-rds-mariadb-supports-new-minor-versions/"/>
+        <updated>2021-12-10T15:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MariaDB が、MariaDB のマイナーバージョン 10.5.13、10.4.22、10.3.32、および 10.2.41 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、「AWS IoT TwinMaker」を発表]]></title>
+        <id>9e23d02c604871aa2e07f5f6bda123bf3c1b9b25</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-announces-aws-iot-twinmaker/"/>
+        <updated>2021-12-10T05:50:44.000Z</updated>
+        <summary type="html"><![CDATA[ビル、工場、産業設備、製造ラインなど実社会のシステムのデジタルツインを短期間で容易に構築可能な新サービスにより、運用効率の向上とダウンタイムの削減を実現するアプリケーションの構築を支援
+  Carrier、シーメンス、アクセンチュアなどの企業・パートナー各社が AWS IoT TwinMaker を活用]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、自社設計チップ搭載の 3 つの新しい Amazon EC2 インスタンス を発表]]></title>
+        <id>c13b6dc258d4e8606e07f9eb6b5435816a0b348a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-announces-three-new-amazon-ec2-instances-powered-aws/"/>
+        <updated>2021-12-10T05:50:44.000Z</updated>
+        <summary type="html"><![CDATA[新しい AWS Graviton3プロセッサー搭載の Amazon EC2 C7g インスタンスは、AWS Graviton2 プロセッサー搭載の現行世代 C6g インスタンスと比較して、演算負荷の高い処理において 25% 性能が向上
+  AWS Trainium チップ搭載の Amazon EC2 Trn1 インスタンスは、Amazon EC2 での機械学習モデルのトレーニングで、最高のコストパフォーマンスと最速を実現
+  Amazon EC2 Im4gn/Is4gen/I4i インスタンスは、新しい AWS Nitro SSD を搭載し、I/O 負荷の高いワークロードに最適なストレージパフォーマンスを発揮]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Glue ストリーミング ETL ジョブが AWS Glue スキーマレジストリと統合]]></title>
         <id>db5ab4874a6c661a3b53d8fd48bdbc098727ce86</id>
@@ -905,186 +978,6 @@
         <updated>2021-12-06T05:33:45.000Z</updated>
         <summary type="html"><![CDATA[AWS Mainframe Modernization により、メインフレームとレガシーワークロードをより迅速かつ容易にクラウドに移行し、AWS の卓越した俊敏性、柔軟性、コスト削減のメリットが得ることが可能に
  Banco Inter、Accenture、DXC Technology などが活用]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい Amazon S3 Glacier Instant Retrieval ストレージクラスを発表 - ミリ秒単位で取り出し可能な最低コストのアーカイブストレージ]]></title>
-        <id>afa72a34d066747aa85ffa1f5dd75ca95a400949</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/"/>
-        <updated>2021-12-04T01:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Glacier Instant Retrieval は、アクセスされることがほとんどなく、ミリ秒単位の取得が必要な、長期間有効なデータ用に最低コストのストレージを提供する新しいアーカイブストレージクラスです。S3 Glacier Instant Retrieval を使用すると、四半期に一度データにアクセスする場合、S3 標準 – 低頻度アクセスストレージクラスを使用する場合と比較して、ストレージコストを最大 68% 節約できます。S3 Glacier Instant Retrieval は、S3 Standard および S3 標準 – IA ストレージクラスと同じスループットとミリ秒でのアクセスによる、アーカイブストレージへの最速のアクセスを提供します。さらに、既存の S3 Glacier ストレージクラスの名前が S3 Glacier Flexible Retrieval に変更され、無料の一括取得と 10% のストレージ価格の引き下げが含まれるようになり、バックアップや災害対策のユースケースに最適化されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい S3 Intelligent-Tiering Archive Instant Access ティアの発表 – ストレージコストを自動的に最大 68% 節約]]></title>
-        <id>a04da9d0913ce63cc2a8a19afada019ec3b5ebcd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/"/>
-        <updated>2021-12-04T01:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Intelligent-Tiering ストレージクラスに、ミリ秒単位での取得と高スループットのパフォーマンスを必要とするめったにアクセスされないデータに対して最大 68% のコスト削減を実現する、新しいアーカイブインスタントアクセスティアが自動的に含まれるようになりました。S3 Intelligent-Tiering は、パフォーマンスへの影響、取得費用、運用上のオーバーヘッドなしに、アクセス頻度に基づいてデータを最も費用効果の高いアクセスティアに自動的に移動することにより、きめ細かいオブジェクトレベルでストレージコストを自動的に削減できる初めてのクラウドストレージです。S3 Intelligent-Tiering は、高頻度、低頻度、および新しいアーカイブインスタントアクセスティアで、頻繁に、稀に、そして今ではめったにアクセスされないデータに対して、ミリ秒単位でのレイテンシーと高スループットのパフォーマンスを提供します。これで、S3 Intelligent-Tiering を、事実上すべてのワークロード、特にデータレイク、データ分析、新しいアプリケーション、およびユーザー生成コンテンツのデフォルトのストレージクラスとして使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Snow ファミリーがオフラインテープデータ移行機能の提供を開始]]></title>
-        <id>7d5908c650fb311cf685b1b1966ec8466761d210</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/"/>
-        <updated>2021-12-03T22:02:44.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Snow ファミリー は、AWS Snowball Edge 用の安全なオフラインテープデータ移行機能をリリースしました。これにより、既存のテープベースのバックアップワークフローを変更することなく、物理テープに保存されているペタバイトのデータを AWS に移行できます。この機能を使用すると、ネットワーク接続の制限、帯域幅の制約、および高いネットワーク接続コストがある環境から AWS にテープデータを移行できます。テープデータを AWS に移動すると、物理的なテープインフラストラクチャの費用を削減し、テープデータにオンラインでアクセスできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Microservice Extractor for .NET のご紹介]]></title>
-        <id>9aa55c74a3742cc54437245d072feb910d1486c4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-microservice-extractor-net/"/>
-        <updated>2021-12-03T21:42:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Microservice Extractor for .NET は、アプリケーションをより小さなコードプロジェクトに再構築するプロセスを簡素化します。ソースコードとランタイムメトリクスを分析してアプリケーションとその依存関係を視覚的に表現する支援ツールを使用して、.NET アプリケーションを最新化および変換します。このツールは、アプリケーションのソースコードを全体的に視覚化し、コードのリファクタリングを支援し、コードベースを個別のコードプロジェクトに抽出して、チームが独立して開発、構築、運用できるようにし、俊敏性、稼働時間、スケーラビリティを向上させます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 Glacier ストレージクラスが刷新され、Amazon S3 Glacier Flexible Retrieval になりました。ストレージ料金は 10% 引き下げられ、一括取り出しは無料です]]></title>
-        <id>aaf27d82b58096ee9eeaed0783c583f666acfaa7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/"/>
-        <updated>2021-12-03T21:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Glacier ストレージクラスは Amazon S3 Glacier Flexible Retrieval という名前に変更され、10% の料金値下げに加えて無料の一括検索が含まれるようになり、バックアップや災害対策などのユースケースに最適化されました。S3 Glacier Flexible Retrieval はさらに費用効果が高くなり、無料の一括検索は、大規模なデータセットを年に 1〜2 回取得する必要があり、取得コストを気にしたくない場合に最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for Lustre が、Amazon S3 でデータが削除および移動されたときに、ファイルシステムのコンテンツを自動的に更新できるようになりました]]></title>
-        <id>4c34829aec92f5f6d6e0224eea84207d1e89d0dc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/"/>
-        <updated>2021-12-03T21:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for Lustre は、コンピューティングワークロード用の費用効果が高く高性能でスケーラブルなファイルシステムを提供するサービスであり、S3 でデータが削除または移動されたときに、FSx for Luster ファイルシステムのコンテンツを自動的に更新できるようにすることで、Amazon S3 にあるデータの処理をさらに簡単にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 Object Ownership で、S3 内のデータのアクセス管理をシンプル化するためのアクセスコントロールリストの無効化が可能に]]></title>
-        <id>e1d9406f6fe440797f16b1dffb4446fcbb25aa5d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-object-ownership-simplify-access-management-data-s3/"/>
-        <updated>2021-12-03T21:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 が新しい S3 Object Ownership 設定を導入し、アクセスコントロールリスト (ACL) を無効にするバケット所有者が強制され、S3 に保存されているデータのアクセス管理が簡素化されます。このバケットレベルの設定を適用すると、S3 バケット内のすべてのオブジェクトがバケット所有者によって所有され、許可を付与するために ACL が使用されることはなくなります。その結果、データへのアクセスは、IAM ID に適用される AWS Identity and Access Management (IAM) ポリシー、セッションポリシー、Amazon S3 バケットとアクセスポイントポリシー、Virtual Private Cloud (VPC) エンドポイントポリシーを含むポリシーに基づきます。この設定は、バケット内の新規オブジェクトと既存オブジェクトの両方に適用され、IAM ポリシーを使用してこの設定へのアクセスをコントロールできます。この新しい S3 Object Ownership 設定を使用すると、ポリシーのみを使用して、Amazon S3 の共有データセットへのアクセスを簡単に確認、管理、変更できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for Lustre が、ファイルの更新の Amazon S3 への自動エクスポートをサポート開始]]></title>
-        <id>c24fbdb37f22c46d6a6ae919da16910b9b1749b6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/"/>
-        <updated>2021-12-03T21:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for Lustre は、コンピューティングワークロード用のコスト効果が高く高パフォーマンスでスケーラブルなファイルシステムを提供するサービスであり、FSx for Lustre ファイルシステムでデータが更新されるときに S3 バケットのコンテンツを自動的に更新できるようにすることで、Amazon S3 にあるデータの処理をさらに簡単にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup for Amazon S3 のプレビューの発表]]></title>
-        <id>9561fc9fa4e955aabe2a9cc7681ae417c099eef3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-amazon-s3-backup/"/>
-        <updated>2021-12-03T21:12:44.000Z</updated>
-        <summary type="html"><![CDATA[本日、 AWS Backup for Amazon S3 の公開プレビューを発表いたします。AWS Backup で単一のポリシーを作成して、S3 のみ、またはストレージ、コンピューティング、データベース用の他の 11 の AWS のサービスと一緒に保存されたアプリケーションデータの保護を自動化できるようになりました。AWS Backup と AWSOrganizations のシームレスな統合を使用すると、独立してイミュータブルで暗号化されたバックアップを作成し、AWS アカウント全体で S3 バケットとオブジェクトのバックアップと復元を一元管理できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 コンソールが、S3 ポリシーを作成するときに、IAM Access Analyzer からのセキュリティ警告、エラー、および提案をレポートするようになりました]]></title>
-        <id>8c230cc314aa52b873141acd2a878c051ff4e55d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-console-warnings-errors-suggestions-iam-access-analyzer/"/>
-        <updated>2021-12-03T21:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Storage Service (S3) コンソールが、S3 ポリシーを作成するときに、Identity and Access Management (IAM) Access Analyzer からのセキュリティ警告、エラー、および提案をレポートするようになりました。コンソールは、ポリシーを検証するために 100 を超えるポリシーチェックを自動的に実行します。こうしたチェックは時間を節約し、エラーを解決するためのガイドとなり、セキュリティのベストプラクティスを適用するのに役立ちます。S3 コンソールによってレポートされたエラーやセキュリティ警告を解決することにより、ポリシーを S3 バケットまたはアクセスポイントにアタッチする前に、ポリシーが機能していることを検証できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup で VMware ワークロードのサポートを開始]]></title>
-        <id>aa58102968356bf1c4e58c595d58eecbce5533c6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-vmware-workloads/"/>
-        <updated>2021-12-03T21:00:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup を使用すると、オンプレミスとクラウドで VMware ワークロードを VMware CloudTM on AWS として一元的に保護できるようになり、ビジネスと規制コンプライアンスのニーズを満たすことができます。AWS Backup で単一のポリシーを使用して、AWS Backup ですでにサポートされている 12 の AWS のサービス (コンピューティング、ストレージ、データベースなど) とともにハイブリッド VMware 環境を一元的に保護できるようになりました。AWS Backup を使用すると、バックアップ、コピー、および復元の操作をモニタリングし、データガバナンスと規制要件を満たすのに役立つ統合された監査対応レポートを生成できるため、組織のデータ保護ポリシーのコンプライアンスステータスを示すことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management Fleet Indexing が 2 つの追加データソースのサポートを開始 (プレビュー)]]></title>
-        <id>0bdf8bf15b204222ca89385a30a7a82bbbc95cf9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-device-management-fleet-indexing-additional-data-sources-preview/"/>
-        <updated>2021-12-03T20:54:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Management Fleet Indexing が、2 つの追加データソースとの統合を提供するようになりました。シャドウという名前の AWS IoT Core と AWS IoT Device Defender が違反を検出します。このリリースで、フリートインデックスでサポートされるデータソースが 3 (AWS IoT Core レジストリ、シャドウ、接続ライフサイクルイベント) から 5 に増えました 。新たに追加された 2 つのデータソースは、さまざまなサービスやシステムに IoT フリートデータを保存し、フリートモニタリング、ヘルスチェック、無線通信経由 (OTA) の更新、トラブルシューティングのためにデータに定期的にアクセスする IoT のお客様を支援します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 が 3 つのストレージクラスにおける最大 31% の値下げを発表]]></title>
-        <id>e7d57fb51c839e24de52b78f305f7927b98d1752</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/"/>
-        <updated>2021-12-03T20:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 が 3 つの S3 ストレージクラスでストレージ料金を最大 31% 引き下げたことを発表いたします。具体的には、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (大阪)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、米国西部 (北カリフォルニア)、南米 (サンパウロ) の 9 つの AWS リージョンで、S3 標準 – 低頻度アクセスおよび S3 ワンゾーン-低頻度アクセスのストレージ料金を最大 31% 引き下げます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkSpaces が Amazon WorkSpaces Web を導入]]></title>
-        <id>6d16b024cea65a3f7a1e8e3da66286260e40e72e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-workspaces-introduces-amazon-workspaces-web/"/>
-        <updated>2021-12-03T20:42:44.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon WorkSpaces Web の一般提供開始を発表しました。WorkSpaces Web は、エンドユーザーコンピューティングスイートの新機能であり、安全なウェブベースのワークロードを促進するために特別に構築された低コストのフルマネージド WorkSpace です。WorkSpaces Web を使用すると、アプライアンスや専用のクライアントソフトウェアを管理する負担なしで、従業員に内部ウェブサイトおよび SaaS ウェブアプリケーションへのアクセスを安全に提供することが容易になります。WorkSpaces Web は、容量管理、スケーリング、ブラウザーイメージの保守などの一般的なタスクをオフロードしながら、ユーザーの操作に合わせて調整されたシンプルなポリシーツールを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for Lustre が、複数の Amazon S3 バケットのファイルシステムへのリンクをサポート開始]]></title>
-        <id>2ee16b68869c862db941a8d5ba225855d6a1f1c5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/"/>
-        <updated>2021-12-03T20:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for Lustre は、コンピューティングワークロード用の費用効果が高く高性能でスケーラブルなファイルシステムを提供するサービスであり、FSx for Lustre ファイルシステムを複数の S3 バケットにリンクできるようにすることで、Amazon S3 に存在するデータの処理をさらに容易にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for OpenZFS のご紹介]]></title>
-        <id>5ed2608cf40d56faf96418ef292533c22c63872c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-openzfs/"/>
-        <updated>2021-12-03T20:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for OpenZFS を使用すると、AWS でフルマネージドファイルシステムを起動、実行、スケーリングできます。これにより、オンプレミスで実行する ZFS またはその他の Linux ベースのファイルサーバーを置き換え、俊敏性を向上させ、コストを削減できます。FSx for OpenZFS は、Amazon FSx ファミリーのサービスの中で最新のサービスであり、NetApp ONTAP、Windows File Server、Lustre などの広く活用されているファイルシステムを選択することで、フル機能を備えた高性能のファイルストレージを実現できます。FSx for OpenZFS ファイルシステムは、業界標準の NFS プロトコル (v3、v4.0、v4.1、v4.2) を介して、Linux、Windows、および macOS のコンピューティングインスタンスやコンテナからアクセスできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代の Amazon FSx for Lustre ファイルシステムを発表]]></title>
-        <id>c313e81b39023387b59b6e1c43f12b0593ca37a7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/"/>
-        <updated>2021-12-03T20:16:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Graviton プロセッサ上に構築された次世代 Amazon FSx for Lustre ファイルシステムは、パフォーマンスと料金に 3 つの改善をもたらします。まず、新しいファイルシステムは、前世代のファイルシステムと比較して、テラバイトあたり最大 5 倍のスループット (テラバイトあたり最大 1 GB/秒) を実現しています。次に、複数のネットワークインターフェイスを備えたクライアントインスタンスのサポートにより、P4d や DL1 など、 Amazon EC2 インスタンスで最大 400 Gbps のネットワーク帯域幅を駆動できるようになりました。第 3 に、次世代 FSx for Lustre ファイルシステムは、前世代のファイルシステムと比較してスループットのコストを最大 60% 引き下げます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エージェントエクスペリエンスとお客様とのやり取り改善するために、Amazon Connect で統合されたエージェントアプリケーションをリリース]]></title>
-        <id>5b36645077b22e5a9399c6fee0ddc1e4d38ec44f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-unified-agent-application/"/>
-        <updated>2021-12-03T20:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect が、コンタクトを管理し、お客様の問題を解決するためのエージェントアプリケーションを提供するようになりました。コンタクトセンターで、エージェントは適切なお客様情報を表示し、解決しようとしているお客様の問題の状況に応じたナレッジ記事を表示しながら、複数のコンタクト (音声、チャット、タスク) を簡単に処理できる方法を必要としています。ブラウザでエージェントアプリケーションを起動すると、エージェントはすぐにサインインして顧客認証、通話、チャットを管理し、主要な顧客インサイトやナレッジ記事を表示できます。例えば、エージェントが電話またはチャットを受信すると、Amazon Connect Customer Profiles が、名前、電話番号、E メールアドレスなどの顧客情報を共有します。エージェントが顧客と話している間、Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、リアルタイムで発信者のアイデンティティの確認したり、信頼スコアとステータスを表示したりします。その後、コンタクト全体を通じて、Amazon Connect Wisdom が顧客の問題を検出し、ナレッジ記事にあるレコメンデーションをリアルタイムでプロアクティブに提供します。Amazon Connect エージェントアプリケーションを使用すると、顧客の問題を解決し、個人的な体験を提供し、顧客満足度を向上させるための適切な情報をエージェントに提供するのに役立ちます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
