@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-04T01:09:24.472Z</updated>
+    <updated>2022-01-05T01:11:35.087Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue ジョブでのオートスケーリングのご紹介 (プレビュー)]]></title>
+        <id>fbf9ad7691579c9445c2ba03c63017ad7046a9ef</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/autoscaling-aws-glue-jobs-preview/"/>
+        <updated>2022-01-04T19:19:39.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue ジョブのオートスケーリングがプレビューでご利用いただけるようになりました。AWS Glue 3.0 では、バッチジョブとストリーミングジョブの両方で、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex がカタルーニャ語のサポートを開始]]></title>
+        <id>24c6169a21680d98f1fcaef598b69199b4cbbc6d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-lex-catalan/"/>
+        <updated>2022-01-04T19:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex がカタルーニャ語のサポートを開始しました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、構築した会話型エクスペリエンスをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Console Mobile Application がアジアパシフィック (ジャカルタ) リージョンのサポートを追加]]></title>
+        <id>dbfd460bf5e274a3881119e23b7429f71ff5235a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/"/>
+        <updated>2022-01-04T19:16:09.000Z</updated>
+        <summary type="html"><![CDATA[AWS Console Mobile Application のユーザーは、アジアパシフィック (ジャカルタ) リージョンを利用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS が Amazon Fraud Detector のモデル向けに電話番号の機能強化を発表]]></title>
         <id>4f5c00a927fa28c16219e41b31dffe71aaea6e5b</id>
