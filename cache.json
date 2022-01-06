@@ -12,6 +12,51 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "659695da9f15720467fa649f0aa7abbb55713b5c",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue Interactive SessionsとJob Notebooksのプレビューが利用可能になりました。これは、データ統合ジョブの開発プロセスを簡素化するのに役立つAWS Glueの2つの新しいサーバーレス機能です。Interactive Sessionsを使用すると、データエンジニアはデータをインタラクティブに探索して準備できます。Glue Studio Job Notebooksは、最小限のセットアップでサーバーレスノートブックを提供するため、デベロッパーはすぐに始めることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/",
+          "publishedOn": "2022-01-05T19:02:03.000Z",
+          "wordCount": 263,
+          "title": "AWS Glue Interactive SessionsとJob Notebooksの紹介（プレビュー）"
+        },
+        {
+          "id": "2ef17fdb0578357f9b167a7f93f94d73d85f8688",
+          "author": "aws@amazon.com",
+          "description": "AWS GlueでのPersonal Identifiable Information (PII)の検出と修正がプレビューで利用できるようになりました。この機能は、パターンマッチングと機械学習を使用して、AWSGlueジョブの実行中に列レベルとセルレベルの両方でPIIを自動的に検出します。AWS Glueには、PIIの種類とその場所をログに記録し、必要に応じて直ちに是正措置を講じるオプションが含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/",
+          "publishedOn": "2022-01-05T19:01:13.000Z",
+          "wordCount": 256,
+          "title": "AWS GlueでのPersonal Identifiable Information (PII)の検出と修復の発表（プレビュー）"
+        },
+        {
+          "id": "cae5ad2abfc93d0c64370792f21ccf3a1cfa25f5",
+          "author": "aws@amazon.com",
+          "description": "今日より、AWS Resource Groups およびタグエディターがアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/",
+          "publishedOn": "2022-01-05T18:32:50.000Z",
+          "wordCount": 285,
+          "title": "AWS  Resource Groups およびタグエディター、アジアパシフィック (ジャカルタ) リージョンで利用可能に。"
+        },
+        {
+          "id": "b061968d9f506f97620c4e138043568c327d7fb2",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face (「モデルの動物園」とも呼ばれます) の 300 以上の定評あるモデルコレクションと 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決でき、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/",
+          "publishedOn": "2022-01-05T18:32:01.000Z",
+          "wordCount": 277,
+          "title": "Amazon SageMaker JumpStart のタブデータに LightGBM と CatBoost モデルが追加"
+        },
+        {
+          "id": "2ec9f1b946faa46180117ec48a690736fc36e4c3",
+          "author": "aws@amazon.com",
+          "description": "今日、Amazon Elastic Container Service (Amazon ECS) の新しい管理コンソールでクラスターおよびタスク定義作成の新しいワークフローが始まります。柔軟なデフォルトと、コンテナアプリケーションのオブザーバビリティ機能の設定のある簡単で新しいワークフローが使えるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/",
+          "publishedOn": "2022-01-05T18:31:13.000Z",
+          "wordCount": 286,
+          "title": "Amazon ECS で ECS クラスターとタスク定義作成のための簡素化されたコンソールエクスペリエンスを開始"
+        },
+        {
           "id": "fbf9ad7691579c9445c2ba03c63017ad7046a9ef",
           "author": "aws@amazon.com",
           "description": "AWS Glue ジョブのオートスケーリングがプレビューでご利用いただけるようになりました。AWS Glue 3.0 では、バッチジョブとストリーミングジョブの両方で、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。",
