@@ -12,6 +12,51 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "b71df263b0b76610f896ea59367876f4358d6839",
+          "author": "aws@amazon.com",
+          "description": "AWS Storage Gateway が Tape Gateway 上の Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A をサポートするようになり、バックアップワークフローを変更することなく Dell EMC NetWorker と Veeam Backup & Replication のデータを AWS にバックアップおよびアーカイブできるようになりました。この発表によって、Tape Gateway は Microsoft Windows Server 2019 上で実行する Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A をサポートします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/",
+          "publishedOn": "2022-01-06T10:34:19.000Z",
+          "wordCount": 352,
+          "title": "AWS Storage Gateway が Tape Gateway 上での Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A のサポートを開始"
+        },
+        {
+          "id": "80d62a3af26c86eb7a0d6e0b0d07a5967e4414f8",
+          "author": "aws@amazon.com",
+          "description": "AWS Certificate Manager (ACM) Private Certificate Authority (CA) は、Kubernetes コンテナ用のセキュアな認証機関ソリューションを提供するオープンソースプラグインである Private CA Kubernetes cert-manager バージョン 1.0 (v1.0) のリリースを発表します。ACM Private CA は、AWS が管理する高アベイラビリティーのプライベート CA サービスで、cert-manager は Kubernetes の TLS 証明書管理用に広く採用されているソリューションです。証明書ライフサイクル管理に cert-manager を使用するお客様は、このプラグインを ACM Private CA と共に使用して、キーをサーバーメモリにプレーンテキストで保存するデフォルトの cert-manager CA のセキュリティを向上させることができます。v1.0 のプラグインは、2021 年 7 月の v0.3.1 リリースの後継として新機能、メンテナンスの向上、およびバグフィックスが導入され、運用環境対応の状態で提供されます。このリリースでは、各ソフトウェア変更で実行する自動化されたエンドツーエンドの統合テストが追加されています。したがって、現在からのプラグインの変更は、リリースされる前に自動的にテストされます。その結果、品質と運用環境への対応が向上します。プラグインのリポジトリは AWS が所有する ECR リポジトリ内の利用可能なリリースを自動的にマークするので、お客様はプラグインの最新バージョンを常に取得できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/",
+          "publishedOn": "2022-01-06T10:33:31.000Z",
+          "wordCount": 400,
+          "title": "ACM Private CA Kubernetes cert-manager プラグインが運用環境対応に"
+        },
+        {
+          "id": "8c3a3feb389a94d78882c0575b66ec6a19fc0cb4",
+          "author": "aws@amazon.com",
+          "description": "OpenSearch と OpenSearch Dashboards バージョン 1.1 が Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) 上で実行できるようになりました。新しいバージョンには、OpenSearch を実行するクラスターのクラスター間レプリケーションのサポート、履歴データの異常検出、向上したアラートなどの機能向上が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/",
+          "publishedOn": "2022-01-06T10:32:43.000Z",
+          "wordCount": 353,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が OpenSearch バージョン 1.1 のサポートを開始"
+        },
+        {
+          "id": "838bd3beac584ff0a986e2eca4e193d1373672f2",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR on EKS はカスタムイメージ (EMR on EKS 上で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。本日、EMR on EKS は、カスタム Docker コンテナイメージを検証するための自動化された一連のテストを実行するカスタムイメージ検証ツールをオープンソースとして提供しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/",
+          "publishedOn": "2022-01-06T10:31:55.000Z",
+          "wordCount": 292,
+          "title": "Amazon EMR on EKS がカスタム Docker コンテナイメージのテストを簡素化するカスタムイメージ検証ツールをリリース"
+        },
+        {
+          "id": "b6a9d0428353437dc3520f5deae80fbe7f01a6a4",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Blockchain (AMB) では、高度なチェーンコード管理とデータ共有機能を使用して Hyperledger Fabric 2.2 フルマネージドネットワークを起動できるようになりました。AMB は、数回のクリック操作だけでスケーラブルなプライベートブロックチェーンネットワークをセットアップして管理することのできるフルマネージドサービスです。AMB は、ブロックチェーンネットワークの作成に必要とされていたオーバーヘッドを削減し、無数のトランザクションを実行している何千ものアプリケーションからの要求に対処できるよう自動的にスケールします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/",
+          "publishedOn": "2022-01-06T10:31:07.000Z",
+          "wordCount": 303,
+          "title": "Amazon Managed Blockchain (AMB) が Hyperledger Fabric v2.2 のサポートを発表"
+        },
+        {
           "id": "659695da9f15720467fa649f0aa7abbb55713b5c",
           "author": "aws@amazon.com",
           "description": "AWS Glue Interactive SessionsとJob Notebooksのプレビューが利用可能になりました。これは、データ統合ジョブの開発プロセスを簡素化するのに役立つAWS Glueの2つの新しいサーバーレス機能です。Interactive Sessionsを使用すると、データエンジニアはデータをインタラクティブに探索して準備できます。Glue Studio Job Notebooksは、最小限のセットアップでサーバーレスノートブックを提供するため、デベロッパーはすぐに始めることができます。",
