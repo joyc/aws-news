@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-07T01:16:00.592Z</updated>
+    <updated>2022-01-08T01:09:20.746Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud Development Kit (CDK) のローカルテストにおける AWS Serverless Application Model (SAM) CLI サポートのお知らせ]]></title>
+        <id>aaf4141535cd70fbd8bb895529c9fd9df0343d33</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/"/>
+        <updated>2022-01-07T20:47:50.000Z</updated>
+        <summary type="html"><![CDATA[本日 AWS は、AWS Cloud Development Kit アプリケーションのローカルテストに対応した AWS Serverless Application Model CLI (AWS SAM CLI) の一般提供を開始したことを発表します。AWS SAM と AWS CDK は、いずれも IaC (Infrastructure as Code) を利用してアプリケーションを構築するためのオープンソースのフレームワークです。AWS SAM は、JSON や YAML を使ってアプリケーションにインフラストラクチャを記述する SAM テンプレートと、AWS SAM アプリケーションを構築、パッケージ化、テスト、デプロイするツールである SAM CLI で構成されます。AWS CDK は、Python や Node.js. のような使い慣れたプログラミング言語を使用してクラウドアプリケーションリソースを定義するための開発フレームワークです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR on EKS、マネージドエンドポイントを使用して実行されるインタラクティブジョブのカスタマイズされたコンテナイメージのサポートを追加]]></title>
+        <id>0797c625f97a0aeefbfed67f3ecaa59c894b4138</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/"/>
+        <updated>2022-01-07T20:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR on EKS により、お客様は Apache Spark などのオープンソースのビッグデータフレームワークを Amazon EKS で簡単に実行することができます。Amazon EMR on EKS のお客様は、EMR Studio などの統合開発環境 (IDE) を使用してインタラクティブなワークロードを実行するために、マネージドエンドポイント (プレビューで利用可能) を設定し、使用することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS が Internet Protocol version 6 (IPv6) をサポート]]></title>
+        <id>031e539fa4c5984e47878649e90e30c692a9aa0d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-eks-ipv6/"/>
+        <updated>2022-01-07T20:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が IPv6 をサポートしたことにより、お客様は Kubernetes 上のコンテナ型アプリケーションをプライベート IPv4 アドレス空間の限界をはるかに超えてスケールし、最小限の複雑さで高いネットワーク帯域幅を実現することが可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を発表]]></title>
+        <id>0f05881012c04e912e99d228b77a442204913a78</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/"/>
+        <updated>2022-01-07T09:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を一般的にご利用いただけるようになりました。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけてサブスクライブし、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスをサブスクライバーに付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が履歴データの異常検出のサポートを開始]]></title>
+        <id>0092f2440b8e82ad93413c18748ac3f2ac564dc7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/"/>
+        <updated>2022-01-07T09:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) では、過去のデータの傾向、パターン、および季節性を特定するために、履歴データの機械学習ベースの異常検出をご利用いただけるようになりました。履歴データの異常検出により、お客様は、過去のデータから貴重なインサイトを導き出し、アプリケーションの全体的な効率を向上させるための適切なアクションを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) のサポートを開始]]></title>
+        <id>57f3661a4ff839367e0a4553b3d4c4a7cd13c3e8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/"/>
+        <updated>2022-01-07T09:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) をサポートするようになりました。Oracle Database 12.1 の 2021 年 10 月のパスセットアップデート (PSU) がまもなくリリースされます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR on EKS が AWS Graviton ベースの EC2 インスタンス用にカスタマイズされたコンテナイメージのサポートを追加]]></title>
+        <id>088970c4cf757790b901a19dbe8d60fa41f6868a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/"/>
+        <updated>2022-01-07T09:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR on EKS はカスタムイメージ (Amazon EMR on EKS で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。今後は、カスタムイメージ機能を使用して、AWS Graviton ベースのインスタンスのコンテナイメージをカスタマイズできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR on EKS が、デバッグを簡素化するために DescribeJobRun API 応答にエラーメッセージの詳細を追加]]></title>
+        <id>53bb8b83a0c17b4db41a5b2f565402e0fdebe12d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/"/>
+        <updated>2022-01-07T09:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR on EKS は、DescribeJobRun API の一部として追加のエラーメッセージを提供するようになりました。これにより、失敗したジョブを簡単にデバッグすることが可能となります。このリリースでは、EMR on EKS は、DescribeJobRun API 応答の状態の詳細で、詳細なエラーメッセージ (該当するジョブの失敗の根本的な理由であると判断される情報) を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS Proxy が 8 つの追加 AWS リージョンで利用可能に]]></title>
+        <id>e27f6ee3f9886a01cfff8b5fd4f24d17861d4061</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/"/>
+        <updated>2022-01-07T02:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) Proxy は、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (大阪)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 ( バーレーン)、および南米 (サンパウロ) の AWS リージョンでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Snowcone が AWS 欧州 (ロンドン) で利用可能に]]></title>
+        <id>28f57a5dacbd8d0df29e94da8ffc283365829273</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/"/>
+        <updated>2022-01-07T02:20:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Snowcone サービスは、AWS 欧州 (ロンドン) でお客様のご注文に対応できるようになりました。これにより、AWS アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (フランクフルト)、欧州 (アイルランド)、南米 (サンパウロ)、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ) など、既に Snowcone を提供しているリージョンのリストが拡充され、今後も利用可能なリージョンが追加される予定です。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ移行デバイスのうち、AWS Snow ファミリーの最も小さなメンバーです。Snowcone は、AWS 欧州 (ロンドン) で、ハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用いただけるようになりました。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れています。バックパックに収納可能な程度に小型かつ軽量であり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で、AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Logs がクロスアカウントサブスクリプションに関する AWS Organizations のサポートを発表]]></title>
+        <id>155f9dae32949ff2526b2383717b33c295d36036</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/"/>
+        <updated>2022-01-07T02:19:17.000Z</updated>
+        <summary type="html"><![CDATA[CloudWatch Logs により、AWS Organizations のお客様は、CloudWatch Logs サブスクリプションフィルターの送信先アクセスポリシーを簡単に管理できるようになりました。サブスクリプションフィルターは、Amazon Kinesis Data Streams、Amazon Kinesis Data Firehose、Amazon Lambda などのサービスにリアルタイムでログデータを配信できるようにする機能です。サブスクリプションフィルターは、ログデータを他の AWS アカウントと共有するためにも使用されます。これで、送信先アクセスポリシーで組織 ID または組織パスを使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Device Management が、大規模なデプロイの成功率を向上させるためにジョブの自動再試行機能の提供を開始]]></title>
+        <id>672c1a9ae1fb5c9d0de5e9e7d081619fae638bd4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/"/>
+        <updated>2022-01-07T02:18:29.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Device Management ジョブは、新しいジョブ実行再試行構成をサポートするようになりました。これにより、デベロッパーは、失敗したジョブ実行を確実に自動再デプロイすることを通じて、大規模なデプロイの成功率を高めることができます。失敗したデバイスを手動で特定して再デプロイする代わりに、お客様は、再試行動作をトリガーする基準とともに、ジョブのロールアウトまたはデプロイごとに [Job Execution Retry Configuration] (ジョブ実行の再試行構成) で最大再試行回数を定義できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能に]]></title>
+        <id>2f321593e84a89d5d0cd1ec122735b1b71d57422</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/"/>
+        <updated>2022-01-07T02:17:34.000Z</updated>
+        <summary type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK ミーティングが AWS GovCloud (米国) リージョンで利用可能に]]></title>
+        <id>68671beb5830d11b50de34de2aad5fa81e1c5877</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-meetings-aws-govcloud-us-regions/"/>
+        <updated>2022-01-07T02:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すると、デベロッパーは 1 対 1 のミーティングまたはグループ会議で、リアルタイムの音声、動画、および画面共有をウェブおよびモバイルアプリケーションに追加できます。Amazon Chime SDK ミーティングは、AWS GovCloud (米国) リージョンでご利用いただけるようになりました。AWS GovCloud (米国) リージョンでの提供開始により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、ワークロードをクラウドに移行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マネージド型の監査およびセキュリティレイクである AWS CloudTrail Lake を発表]]></title>
+        <id>36e27a41183bccf6bc8dbb2730e7adbe1a2acb6c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/"/>
+        <updated>2022-01-07T02:15:55.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、AWS CloudTrail Lake の一般提供を発表しました。これは、監査、セキュリティ調査、および運用のトラブルシューティングのためにアクティビティログを集約し、不変に保存して、クエリすることを可能にするマネージド型の監査およびセキュリティレイクです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Storage Gateway が Tape Gateway 上での Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A のサポートを開始]]></title>
         <id>b71df263b0b76610f896ea59367876f4358d6839</id>
