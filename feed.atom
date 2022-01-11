@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-10T01:08:34.367Z</updated>
-    <generator>osmosfeed 1.11.3</generator>
+    <updated>2022-01-11T01:11:54.854Z</updated>
+    <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton2 を搭載した Amazon EC2 M6gd および C6gd インスタンスが追加のリージョンで利用可能に]]></title>
+        <id>6abe632a9e8d39a84fc91d0a7483996cdd411780</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/"/>
+        <updated>2022-01-10T21:17:47.000Z</updated>
+        <summary type="html"><![CDATA[本日より、中東地域（バーレーン）において、コンピューティングに最適化されたAmazon EC2 C6gインスタンスの提供を開始しました。用途: 高性能コンピューティング、ビデオエンコーディング、ゲーミング、CPU ベースの機械学習推論アクセラレータなど、コンピューティング集約型アプリケーション。また、ローカルNVMeベースのSSDストレージを搭載しメモリ用に最適化されているAmazon EC2 R6gdインスタンスは、アジア太平洋地域（ムンバイ）、カナダ（セントラル）、ヨーロッパ（パリ）でご利用いただけます。 R6gdインスタンスは、同等のx86ベースのインスタンスと比較して、NVMeストレージGB/vCPUが最大50%増加しており、高速かつ低遅延のストレージへのアクセスを必要とするアプリケーションや、バッチ処理やログ処理などのデータの一時保存、高速キャッシュやスクラッチファイルなどの用途に理想的です。Amazon EC2 C6gおよびR6gdインスタンスは、AWS Graviton2プロセッサを搭載しており、EC2において最高の価格パフォーマンスを実現します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 AMD インスタンスがアジアパシフィック (ムンバイ) AWS リージョンで利用可能に]]></title>
+        <id>2ddfb5d52da5f68ea991653962695c0e2cd3d7e4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/"/>
+        <updated>2022-01-10T21:17:00.000Z</updated>
+        <summary type="html"><![CDATA[今日から Amazon EC2 M5a、M5ad、R5a、R5ad、T3a インスタンスがアジアパシフィック (ムンバイ) リージョンで使用できます。コンピューティング、メモリ、ストレージ、およびネットワークリソースのバランスを提供するように設計されている M6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーを組み合わせた AWS Nitro System で構築されます。これは、ホストハードウェアのコンピューティングリソースおよびメモリリソースを実質的にすべてお客様のインスタンスに提供します。これらのインスタンスは SAP 認定を受けており、ウェブサーバー、アプリケーションサーバー、エンタープライズアプリケーションをサポートするバックエンドサーバー (Microsoft Exchange Server、SharePoint Server、SAP Business Suite、MySQL、Microsoft SQL Server、PostgreSQL データベースなど)、ウェブサーバー、マイクロサービス、マルチプレーヤーゲームサーバー、キャッシュフリートなどのワークロードや、アプリケーション開発環境に最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppStream 2.0 が SAML 2.0 フェデレーティッドユーザー ID 向けにアプリケーションエンタイトルメントの提供を開始]]></title>
+        <id>a0bedf03d06963135a0d7650847c44785f649646</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/"/>
+        <updated>2022-01-10T20:34:38.000Z</updated>
+        <summary type="html"><![CDATA[本日より、SAML 2.0 属性アサーションに基づいて、Amazon AppStream 2.0 スタック内の特定のアプリケーションへのアクセスを制御できます。さらに、SAML 2.0 フェデレーティッドユーザー ID は、単一の SAML 2.0 サービスプロバイダー (SP) アプリケーションから複数の AppStream 2.0 スタックにアクセスできます。これまで、各スタックには、SAML 2.0 ID プロバイダー (IdP) で設定された個別のサービスプロバイダーアプリケーションが必要でした。これらの機能により、AppStream スタックへのアクセスコントロールを合理化し、アプリケーションのアクセス制限のために維持する必要のあるフリートとイメージの数を減らすことができます。例えば、単一の AppStream 2.0 スタックにリレーする IdP 内の単一の SAML 2.0 SP アプリケーションから、あるグループに属するユーザーにあるアプリケーションのセットについての使用権限を付与し、別のグループに別のアプリケーションのセットについての使用権限を付与することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core for LoRaWAN がデバイスとクラウド間の通信を管理およびモニタリングするための 2 つの新機能を発表]]></title>
+        <id>40971cea75d5b935685a46aa7fbe5a6e245f8f7b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/"/>
+        <updated>2022-01-10T20:32:43.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN ネットワークサーバー (LNS) であり、お客様が低電力の長距離広域ネットワーク (LoRaWAN) テクノロジーを使用してワイヤレスデバイスを AWS クラウドに接続できるようにします。現在、AWS IoT Core for LoRaWAN は、 Downlink Queue Management と Network Analyzer の 2 つの新機能をサポートしており、お客様がデバイスとクラウド間の通信を管理およびモニタリングするのに役立ちます。Downlink Message Management 機能を使用することで、お客様は、ダウンリンクメッセージをスケジュール、削除、さらには消去できます。また、Network Analyzer は、メッセージをモニタリングし、アップリンクまたはダウンリンクイベントに関連する問題のトラブルシューティングに役立てるために使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECR がリポジトリプル統計をモニタリングする機能を追加]]></title>
+        <id>ea15db8d5698844036ff35923ce7fdecddc69ef1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/"/>
+        <updated>2022-01-10T20:31:35.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry (ECR) は、Amazon CloudWatch を介してリポジトリプル統計をモニタリングする機能の提供を開始しました。新しいプル統計は、リポジトリごとにイメージプルリクエストを監視することで、使用パターンをモニタリングしたり、異常な動作を特定したりするのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 オンデマンド容量予約がクラスタープレイスメントグループのサポートを開始]]></title>
+        <id>2439754a9d5627946ca5aacc9ca6cb2dbef6a19e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/"/>
+        <updated>2022-01-10T17:05:53.000Z</updated>
+        <summary type="html"><![CDATA[本日より、お客様は Amazon EC2 オンデマンド容量予約を使用して、クラスタープレイスメントグループの容量を予約できます。クラスタープレイスメントグループを使用すると、お客様は EC2 インスタンスを高二分帯域幅を備えたネットワークのセグメント内の論理グループに起動できます。これにより、クラスター内のインスタンス間のレイテンシーを低く抑えつつ、高スループットを実現できます。クラスタープレイスメントグループは、ハイパフォーマンスコンピューティング (HPC) ワークロードや SAP HANA などのインメモリデータベースなど、緊密に結合されたノード間通信を必要とするワークロードを実行する必要があるお客様にとって有益です。クラスタープレイスメントグループのオンデマンド容量予約が追加されたことで、お客様は、クラスター内のコンピューティングリソースをスケールするときに、リザーブドキャパシティが確保されていることについて安心できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudFormation Registry に 37 の新しいリソースタイプを導入]]></title>
+        <id>94447109b1bc563eed15b86c9bb6eedc363fbf24</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/cloudformation-registry-37-resource-types/"/>
+        <updated>2022-01-10T17:04:17.000Z</updated>
+        <summary type="html"><![CDATA[2021 年 11 月の最終更新以降、AWS CloudFormation Registry を拡張し、2021 年 11 月から 12 月の間に 37 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラー許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code として扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョニング、および管理できるようになりました。さらに、3 つの新しい AWS のサービスがリリース日に CloudFormation のサポートを追加したことをお知らせします。これらのサービスには、Amazon CloudWatch Evidently、Amazon CloudWatch RUM、AWS Resilience Hub が含まれます。CloudFormation は、170 の AWS のサービス、830 を超えるリソースタイプ、および 40 を超えるサードパーティーのリソースタイプをサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存の Amazon OpenSearch Service ドメインできめ細かいアクセスコントロールのサポートを開始]]></title>
+        <id>6539fb04ec3c5ea6922505eaae4a5c01d4448df4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-fine-grained-access-control/"/>
+        <updated>2022-01-10T17:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) は、既存のドメインでのきめ細かいアクセスコントロールの有効化をサポートするようになりました。きめ細かいアクセスコントロールにより、ドメインに保存されているデータに対するアクセスコントロールを改善するのに役立ついくつかの機能が追加されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が ES モジュールと Node.js 14 の Top-Level Await のサポートを開始]]></title>
+        <id>6277103679704c037146bffbba4e2f63ff1d0a6c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/"/>
+        <updated>2022-01-10T17:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Node.js 14 ランタイムを使用する AWS Lambda 関数は、ECMAScript モジュールとしてパッケージ化されたコードをサポートするようになりました。これにより、Lambda をご利用のお客様は、Lambda 関数でより幅広い JavaScript パッケージを使用できるようになりました。さらに、Lambda をご利用のお客様は、Node.js 14 言語機能である「Top-Level Await」を利用できるようになりました。Provisioned Concurrency とともに使用することで、非同期初期化タスクを持つ関数のコールドスタートパフォーマンスが向上します。詳細については、Using Node.JS ES Modules and Top-Level Await in AWS Lambda のブログ投稿を参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インスタンスタグが Amazon EC2 インスタンスメタデータサービスで利用可能に]]></title>
+        <id>b6bd2be51c996b98e8b94d3c57360c53216a40ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/"/>
+        <updated>2022-01-10T17:01:52.000Z</updated>
+        <summary type="html"><![CDATA[EC2 インスタンスメタデータサービスからインスタンスのタグにアクセスできるようになりました。タグを使用すると、AWS リソースを目的、所有者、環境などさまざまな方法で分類することができます。割り当てたタグに基づいて特定のリソースをすばやく識別できるので、同じタイプのリソースが多数ある場合に役立ちます。これまでは、コンソールから、または describe-tags API を使用して、インスタンスタグにアクセスできました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QLDB がエクスポート用の JSON 出力形式のサポートを開始]]></title>
+        <id>658e7777b4b253cbe92cd0cc8acb5fadf5eb0a93</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/"/>
+        <updated>2022-01-10T17:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quantum Ledger Database (Amazon QLDB) は、既存の Amazon Ion 出力形式に加えて、QLDB Exports の JSON 出力形式をサポートするようになりました。お客様は、エクスポートをリクエストする際に JSON を選択でき、改行で区切られた JSON 形式でジャーナルデータを受け取ります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Cloud Development Kit (CDK) のローカルテストにおける AWS Serverless Application Model (SAM) CLI サポートのお知らせ]]></title>
         <id>aaf4141535cd70fbd8bb895529c9fd9df0343d33</id>
@@ -282,16 +392,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/"/>
         <updated>2022-01-04T19:16:09.000Z</updated>
         <summary type="html"><![CDATA[AWS Console Mobile Application のユーザーは、アジアパシフィック (ジャカルタ) リージョンを利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Amazon Fraud Detector のモデル向けに電話番号の機能強化を発表]]></title>
-        <id>4f5c00a927fa28c16219e41b31dffe71aaea6e5b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-phone-number-enrichments-amazon-fraud-detector-models/"/>
-        <updated>2022-01-03T17:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Fraud Detector の機械学習 (ML) モデル向けに電話番号の機能強化のリリースを発表できることをうれしく思います。Amazon Fraud Detector (AFD) は、偽アカウントの作成やオンライン決済詐欺といった、不正の疑いのあるオンライン活動を簡単に特定できるフルマネージドサービスです。内部で機械学習を使用し、20 年を超える期間にわたって蓄積してきた AFD の不正検出の専門知識に基づいて、潜在的な不正行為をミリ秒単位で自動的に識別します。機械学習の専門知識は必要ありません。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
