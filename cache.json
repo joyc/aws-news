@@ -12,6 +12,96 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "6b57caa0ae7c3d12fb4b624cf85e33795546ab1e",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) から、Amazon EC2 Hpc6a インスタンスの一般向けの提供を開始したことをお知らせいたします。これらのインスタンスは、数値流体力学、貯留層モデル、気象シミュレーション、有限要素解析など、コンピューティングを多用する高性能コンピューティングワークロードを効率的に実行するように最適化されています。Hpc6a インスタンスは、同等の Amazon EC2 x86 ベースのコンピューティング最適化インスタンスよりも最大 65% 優れた料金パフォーマンスを提供します。Hpc6a インスタンスを使用すると、AWS の伸縮性とスケーラビリティを活用しながら、HPC ワークロードのコストを大幅に削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/",
+          "publishedOn": "2022-01-11T20:39:38.000Z",
+          "wordCount": 301,
+          "title": "Amazon EC2 Hpc6a インスタンスのご紹介"
+        },
+        {
+          "id": "52e354a0a990cdb55d803c6562686a58d6d6d3fb",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Compute Optimizer は、複数の CPU アーキテクチャを活用することで、お客様が EC2 インスタンスをより容易に最適化することを可能にする新機能を発表しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/",
+          "publishedOn": "2022-01-11T20:38:50.000Z",
+          "wordCount": 312,
+          "title": "AWS Compute Optimizer が、複数の EC2 インスタンスアーキテクチャを活用することで最適化をより容易に"
+        },
+        {
+          "id": "6a4cec5c758a20aa34d006ce73d523eb431e8b7b",
+          "author": "aws@amazon.com",
+          "description": "MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.36 および 8.0.27 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。データベースインスタンスのアップグレードの詳細については、Amazon RDS ユーザーガイドを参照してください。また、Amazon RDS マネジメントコンソールで利用できる最新のマイナーバージョンを使用して、フルマネージドの Amazon RDS データベースを作成または更新してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/",
+          "publishedOn": "2022-01-11T20:38:03.000Z",
+          "wordCount": 291,
+          "title": "Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.36 および 8.0.27) のサポートを開始"
+        },
+        {
+          "id": "0f1f6a63d4d00aedbc907f04b568d24eaaaebb67",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Notification Service (Amazon SNS) は、Publish や PublishBatch などの API アクション向けの属性ベースのアクセス制御 (ABAC) をサポートするようになりました。ABAC は、IAM ユーザーやロールなどの IAM リソース、および Amazon SNS トピックなどの AWS リソースにアタッチできるタグに基づいてアクセス許可を定義し、許可管理を簡素化する承認戦略です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/",
+          "publishedOn": "2022-01-11T20:35:21.000Z",
+          "wordCount": 314,
+          "title": "Amazon SNS で属性ベースのアクセス制御 (ABAC) のサポートを開始"
+        },
+        {
+          "id": "be371adb0bb7a67835277b44a9ec970f739522ff",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex は、AWS PrivateLink を介して Amazon Virtual Private Cloud (VPC) エンドポイントをサポートするようになりました。これにより、パブリック IP を使用したり、トラフィックをパブリックインターネットに公開したりすることなく、VPC 内から Amazon Lex V2 API への呼び出しを安全に開始できます。AWS PrivateLink では、Amazon のネットワークから出ることなく VPC と AWS のサービスをプライベートに接続し、内部ネットワークアーキテクチャを大幅に簡素化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/",
+          "publishedOn": "2022-01-11T20:34:32.000Z",
+          "wordCount": 317,
+          "title": "Amazon Lex 向けの AWS PrivateLink のサポートを発表"
+        },
+        {
+          "id": "658467569c2a53359ab26aa88773d28a4eb6b455",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、データサイエンティスト、エンジニア、およびアナリストが EMR Studio を使用して、チーム間でリアルタイムにコラボレーションできるようになったことを発表します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/",
+          "publishedOn": "2022-01-11T20:33:44.000Z",
+          "wordCount": 284,
+          "title": "EMR Studio を使用したリアルタイムのコラボレーションノートブックのご紹介"
+        },
+        {
+          "id": "d3cb6c1817bc30d02ede28a76106b0e6a12cc5d1",
+          "author": "aws@amazon.com",
+          "description": "AWS Toolkit for JetBrains は、Amazon ECS コンテナに接続し、Amazon ECS Exec を使用してコマンドを発行する便利な IDE 機能をデベロッパーに提供します。これにより、デベロッパーは、IDE を離れることなく、Amazon EC2 インスタンスや AWS Fargate で実行されている ECS コンテナにコマンドを実行したり、シェルを取得したりするなど、コンテナを直接操作できます。ECS Exec は、実行中のコンテナとの接続を確立するために、AWS Systems Manager (SSM) Session Manager を内部で使用します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/",
+          "publishedOn": "2022-01-11T20:32:51.000Z",
+          "wordCount": 307,
+          "title": "AWS Toolkit for JetBrains IDE が ECS コンテナのトラブルシューティングのために ECS-Exec のサポートを追加"
+        },
+        {
+          "id": "626fd427b5757ace81ee17308cf693cff299d136",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for SQL Server は、多次元モードで SQL Server Analysis Services (SSAS) のサポートを開始しました。Amazon RDS for SQL Server DB インスタンスに、SSAS を直接インストールするための追加費用は発生しません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/",
+          "publishedOn": "2022-01-11T11:33:31.000Z",
+          "wordCount": 346,
+          "title": "Amazon RDS for SQL Server は、SSAS 多次元のサポートを開始"
+        },
+        {
+          "id": "4d79000101fdd3992a57424f596ad24dd2753a1a",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。EMR Studio では、JupyterLab をベースにしたフルマネージドノートブックを利用できます。JupyterLab は、オープンソース Project Jupyter の次世代ウェブベースでのユーザーインターフェイスです。本日、EMR Studio は JupyterLab v3.1.4 にアップグレードし、向上したユーザーエクスペリエンスと新しいユーザビリティ機能を提供することをお知らせいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/",
+          "publishedOn": "2022-01-11T11:32:41.000Z",
+          "wordCount": 293,
+          "title": "EMR Studio は、JupyterLab v3.1.4 にアップグレードしました。"
+        },
+        {
+          "id": "309ecaa18f69ffd3ba32642a18fe8449803e5c3c",
+          "author": "aws@amazon.com",
+          "description": "AWS Firewall Manager では、組織内のアカウント全体に AWS Shield Advanced の自動アプリケーションレイヤー (L7) DDoS 保護を一元的にデプロイできるようになりました。 AWS Shield Advanced の自動 L7 DDoS 保護は、アプリケーションレイヤー DDoS イベントをブロックし、手動での介入は必要ありません。今回のリリースにより、AWS Firewall Manager のセキュリティ管理者は、AWS Shield Advanced の Firewall Manager セキュリティポリシーを使用して、アカウント間で自動的に L7 DDoS 保護を有効にすることができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/",
+          "publishedOn": "2022-01-11T11:31:04.000Z",
+          "wordCount": 337,
+          "title": "AWS Firewall Manager は、AWS Shield Advanced の自動アプリケーションレイヤー DDoS 緩和策のサポートを開始"
+        },
+        {
           "id": "6abe632a9e8d39a84fc91d0a7483996cdd411780",
           "author": "aws@amazon.com",
           "description": "本日より、中東地域（バーレーン）において、コンピューティングに最適化されたAmazon EC2 C6gインスタンスの提供を開始しました。用途: 高性能コンピューティング、ビデオエンコーディング、ゲーミング、CPU ベースの機械学習推論アクセラレータなど、コンピューティング集約型アプリケーション。また、ローカルNVMeベースのSSDストレージを搭載しメモリ用に最適化されているAmazon EC2 R6gdインスタンスは、アジア太平洋地域（ムンバイ）、カナダ（セントラル）、ヨーロッパ（パリ）でご利用いただけます。 R6gdインスタンスは、同等のx86ベースのインスタンスと比較して、NVMeストレージGB/vCPUが最大50%増加しており、高速かつ低遅延のストレージへのアクセスを必要とするアプリケーションや、バッチ処理やログ処理などのデータの一時保存、高速キャッシュやスクラッチファイルなどの用途に理想的です。Amazon EC2 C6gおよびR6gdインスタンスは、AWS Graviton2プロセッサを搭載しており、EC2において最高の価格パフォーマンスを実現します。",
@@ -334,33 +424,6 @@
           "publishedOn": "2022-01-05T18:31:13.000Z",
           "wordCount": 286,
           "title": "Amazon ECS で ECS クラスターとタスク定義作成のための簡素化されたコンソールエクスペリエンスを開始"
-        },
-        {
-          "id": "fbf9ad7691579c9445c2ba03c63017ad7046a9ef",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue ジョブのオートスケーリングがプレビューでご利用いただけるようになりました。AWS Glue 3.0 では、バッチジョブとストリーミングジョブの両方で、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/autoscaling-aws-glue-jobs-preview/",
-          "publishedOn": "2022-01-04T19:19:39.000Z",
-          "wordCount": 265,
-          "title": "AWS Glue ジョブでのオートスケーリングのご紹介 (プレビュー)"
-        },
-        {
-          "id": "24c6169a21680d98f1fcaef598b69199b4cbbc6d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lex がカタルーニャ語のサポートを開始しました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、構築した会話型エクスペリエンスをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-lex-catalan/",
-          "publishedOn": "2022-01-04T19:18:01.000Z",
-          "wordCount": 259,
-          "title": "Amazon Lex がカタルーニャ語のサポートを開始"
-        },
-        {
-          "id": "dbfd460bf5e274a3881119e23b7429f71ff5235a",
-          "author": "aws@amazon.com",
-          "description": "AWS Console Mobile Application のユーザーは、アジアパシフィック (ジャカルタ) リージョンを利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-01-04T19:16:09.000Z",
-          "wordCount": 263,
-          "title": "AWS Console Mobile Application がアジアパシフィック (ジャカルタ) リージョンのサポートを追加"
         }
       ]
     }
