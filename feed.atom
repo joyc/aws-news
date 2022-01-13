@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-12T01:11:03.510Z</updated>
+    <updated>2022-01-13T01:13:20.848Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SageMaker トレーニングでの ml.g5 インスタンスサポートの発表]]></title>
+        <id>8b417cba919a632c9784735616506886b6da3962</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/"/>
+        <updated>2022-01-12T19:48:59.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA A10G Tensor Core GPU を搭載した ml.g5 インスタンスが Amazon SageMaker トレーニングジョブでサポートされるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データのバッチ取り込みを容易にする Apache Spark 向けの Amazon SageMaker Feature Store コネクタ]]></title>
+        <id>1c44744a332b5fae0e8305580db9f4ca06bd5856</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/"/>
+        <updated>2022-01-12T01:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Feature Store が強化され、データのバッチ取り込みを容易にすることのできる Apache Spark 向けの強力なコネクタが追加されました。Amazon SageMaker Feature Store は、機械学習 (ML) モデル機能を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。これまで、SageMaker Feature Store には、PutRecord API、SageMaker Python SDK の FeatureGroup.ingest 機能、SageMaker Processing ジョブなどの方法でデータを取り込むことが可能でした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EC2 Hpc6a インスタンスのご紹介]]></title>
         <id>6b57caa0ae7c3d12fb4b624cf85e33795546ab1e</id>
@@ -362,106 +382,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/"/>
         <updated>2022-01-07T02:15:55.000Z</updated>
         <summary type="html"><![CDATA[AWS は、AWS CloudTrail Lake の一般提供を発表しました。これは、監査、セキュリティ調査、および運用のトラブルシューティングのためにアクティビティログを集約し、不変に保存して、クエリすることを可能にするマネージド型の監査およびセキュリティレイクです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Storage Gateway が Tape Gateway 上での Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A のサポートを開始]]></title>
-        <id>b71df263b0b76610f896ea59367876f4358d6839</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/"/>
-        <updated>2022-01-06T10:34:19.000Z</updated>
-        <summary type="html"><![CDATA[AWS Storage Gateway が Tape Gateway 上の Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A をサポートするようになり、バックアップワークフローを変更することなく Dell EMC NetWorker と Veeam Backup & Replication のデータを AWS にバックアップおよびアーカイブできるようになりました。この発表によって、Tape Gateway は Microsoft Windows Server 2019 上で実行する Dell EMC NetWorker 19.5 と Veeam Backup & Replication 11A をサポートします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM Private CA Kubernetes cert-manager プラグインが運用環境対応に]]></title>
-        <id>80d62a3af26c86eb7a0d6e0b0d07a5967e4414f8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/"/>
-        <updated>2022-01-06T10:33:31.000Z</updated>
-        <summary type="html"><![CDATA[AWS Certificate Manager (ACM) Private Certificate Authority (CA) は、Kubernetes コンテナ用のセキュアな認証機関ソリューションを提供するオープンソースプラグインである Private CA Kubernetes cert-manager バージョン 1.0 (v1.0) のリリースを発表します。ACM Private CA は、AWS が管理する高アベイラビリティーのプライベート CA サービスで、cert-manager は Kubernetes の TLS 証明書管理用に広く採用されているソリューションです。証明書ライフサイクル管理に cert-manager を使用するお客様は、このプラグインを ACM Private CA と共に使用して、キーをサーバーメモリにプレーンテキストで保存するデフォルトの cert-manager CA のセキュリティを向上させることができます。v1.0 のプラグインは、2021 年 7 月の v0.3.1 リリースの後継として新機能、メンテナンスの向上、およびバグフィックスが導入され、運用環境対応の状態で提供されます。このリリースでは、各ソフトウェア変更で実行する自動化されたエンドツーエンドの統合テストが追加されています。したがって、現在からのプラグインの変更は、リリースされる前に自動的にテストされます。その結果、品質と運用環境への対応が向上します。プラグインのリポジトリは AWS が所有する ECR リポジトリ内の利用可能なリリースを自動的にマークするので、お客様はプラグインの最新バージョンを常に取得できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が OpenSearch バージョン 1.1 のサポートを開始]]></title>
-        <id>8c3a3feb389a94d78882c0575b66ec6a19fc0cb4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/"/>
-        <updated>2022-01-06T10:32:43.000Z</updated>
-        <summary type="html"><![CDATA[OpenSearch と OpenSearch Dashboards バージョン 1.1 が Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) 上で実行できるようになりました。新しいバージョンには、OpenSearch を実行するクラスターのクラスター間レプリケーションのサポート、履歴データの異常検出、向上したアラートなどの機能向上が含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR on EKS がカスタム Docker コンテナイメージのテストを簡素化するカスタムイメージ検証ツールをリリース]]></title>
-        <id>838bd3beac584ff0a986e2eca4e193d1373672f2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/"/>
-        <updated>2022-01-06T10:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR on EKS はカスタムイメージ (EMR on EKS 上で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。本日、EMR on EKS は、カスタム Docker コンテナイメージを検証するための自動化された一連のテストを実行するカスタムイメージ検証ツールをオープンソースとして提供しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Blockchain (AMB) が Hyperledger Fabric v2.2 のサポートを発表]]></title>
-        <id>b6a9d0428353437dc3520f5deae80fbe7f01a6a4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/"/>
-        <updated>2022-01-06T10:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Blockchain (AMB) では、高度なチェーンコード管理とデータ共有機能を使用して Hyperledger Fabric 2.2 フルマネージドネットワークを起動できるようになりました。AMB は、数回のクリック操作だけでスケーラブルなプライベートブロックチェーンネットワークをセットアップして管理することのできるフルマネージドサービスです。AMB は、ブロックチェーンネットワークの作成に必要とされていたオーバーヘッドを削減し、無数のトランザクションを実行している何千ものアプリケーションからの要求に対処できるよう自動的にスケールします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue Interactive SessionsとJob Notebooksの紹介（プレビュー）]]></title>
-        <id>659695da9f15720467fa649f0aa7abbb55713b5c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/"/>
-        <updated>2022-01-05T19:02:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue Interactive SessionsとJob Notebooksのプレビューが利用可能になりました。これは、データ統合ジョブの開発プロセスを簡素化するのに役立つAWS Glueの2つの新しいサーバーレス機能です。Interactive Sessionsを使用すると、データエンジニアはデータをインタラクティブに探索して準備できます。Glue Studio Job Notebooksは、最小限のセットアップでサーバーレスノートブックを提供するため、デベロッパーはすぐに始めることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS GlueでのPersonal Identifiable Information (PII)の検出と修復の発表（プレビュー）]]></title>
-        <id>2ef17fdb0578357f9b167a7f93f94d73d85f8688</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/"/>
-        <updated>2022-01-05T19:01:13.000Z</updated>
-        <summary type="html"><![CDATA[AWS GlueでのPersonal Identifiable Information (PII)の検出と修正がプレビューで利用できるようになりました。この機能は、パターンマッチングと機械学習を使用して、AWSGlueジョブの実行中に列レベルとセルレベルの両方でPIIを自動的に検出します。AWS Glueには、PIIの種類とその場所をログに記録し、必要に応じて直ちに是正措置を講じるオプションが含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS  Resource Groups およびタグエディター、アジアパシフィック (ジャカルタ) リージョンで利用可能に。]]></title>
-        <id>cae5ad2abfc93d0c64370792f21ccf3a1cfa25f5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/"/>
-        <updated>2022-01-05T18:32:50.000Z</updated>
-        <summary type="html"><![CDATA[今日より、AWS Resource Groups およびタグエディターがアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker JumpStart のタブデータに LightGBM と CatBoost モデルが追加]]></title>
-        <id>b061968d9f506f97620c4e138043568c327d7fb2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/"/>
-        <updated>2022-01-05T18:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face (「モデルの動物園」とも呼ばれます) の 300 以上の定評あるモデルコレクションと 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決でき、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS で ECS クラスターとタスク定義作成のための簡素化されたコンソールエクスペリエンスを開始]]></title>
-        <id>2ec9f1b946faa46180117ec48a690736fc36e4c3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/"/>
-        <updated>2022-01-05T18:31:13.000Z</updated>
-        <summary type="html"><![CDATA[今日、Amazon Elastic Container Service (Amazon ECS) の新しい管理コンソールでクラスターおよびタスク定義作成の新しいワークフローが始まります。柔軟なデフォルトと、コンテナアプリケーションのオブザーバビリティ機能の設定のある簡単で新しいワークフローが使えるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
