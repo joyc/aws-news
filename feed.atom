@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-13T01:13:20.848Z</updated>
+    <updated>2022-01-14T01:12:00.235Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift Spectrum がカスタムデータ検証ルールを提供]]></title>
+        <id>fc3ff5e0589ffd62f2520867015f08d4798da409</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/"/>
+        <updated>2022-01-13T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift Spectrum を使用して、Amazon S3 データレイクをクエリする際に、外部テーブルのカスタムデータ検証ルールを特定することができるようになりました。この機能強化により、Redshift Spectrum が、サポートされていないUTF-8 文字や数値のオーバーフローなど、予期せぬ値を含むデータを外部テーブルで処理する方法を制御できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供の発表]]></title>
+        <id>f4d10872d4da2e4d73ceb9db962ae25cd59a5d81</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/"/>
+        <updated>2022-01-13T14:24:59.000Z</updated>
+        <summary type="html"><![CDATA[本日、アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供を発表します。お客様は、これらの新しい Local Zones を使用して、これらの 3 つの都市圏のエンドユーザーまたはオンプレミスインストールに 1 桁ミリ秒のレイテンシーを必要とするアプリケーションを提供できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Launch Wizard に Microsoft SQL Server デプロイ対応の AWS Service Catalog 統合を追加]]></title>
+        <id>d98212f77ce0c213311896e8bb68b5fee924334f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/"/>
+        <updated>2022-01-13T14:18:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS Launch Wizard は、SQL Server デプロイ完了時に、AWS Service Catalog 製品を作成するようになりました。そして、AWS Service Catalog 製品を使用して、EC2 で SQL Server を繰り返しデプロイできます。この機能により、その後の SQL Server デプロイは簡素化され、関連する設定スクリプトを再利用することで時間を節約して、既存の DevOps ツールとの統合が容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Explorer in EMR Studio の紹介]]></title>
+        <id>edb5c7cde3946b3cc0c0fc4ce892260102b843ad</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/"/>
+        <updated>2022-01-13T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio Workspace の機能として、SQL Explorer をご紹介します。この機能により、EMR Studio からデータカタログを参照し、EMR クラスターに対して SQL クエリを実行することができます。本リリースの SQL Explorer in EMR Studio は、Prestoバージョン 0.254.1 以降を実行している EC2 クラスター上の Amazon EMR における SQL クエリの実行をサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fargate がアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>1769e560391aaa2a5549b2d8f897bfefe11feefb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/"/>
+        <updated>2022-01-13T08:59:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS Fargate がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra がクエリ言語のサポートを開始]]></title>
+        <id>22ef954b90b40ade98f42013e097f0c77d5264cd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-kendra-query-language/"/>
+        <updated>2022-01-13T08:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスです。本日、Kendra によるクエリ言語のサポートを発表しました。これにより、お客様は必要に応じてより高度な検索用語と手法を駆使して、より正確な回答を取得できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AppSync が、サーバー側のデータキャッシングのキャッシュエントリ削除のサポートを開始]]></title>
+        <id>52325f36eec9c450ce6833d6e9a1c1370bc3a906</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/"/>
+        <updated>2022-01-13T08:42:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS AppSync はマネージド GraphQL サービスです。このサービスを使用すると、1 つ以上のデータソースからのデータに安全にアクセス、操作、結合するための柔軟な API を作成でき、アプリケーション開発がシンプルになります。本日、AppSync は、AppSync の組み込みサーバー側キャッシュからの特定のエントリの削除をサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が、Amazon EC2 上の Microsoft Windows Server インスタンス向けの新しい起動速度の最適化を発表]]></title>
+        <id>59d8da34c278f7abbe767a01600ccaf7386dd2a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/"/>
+        <updated>2022-01-13T08:35:59.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は、Amazon Elastic Compute Cloud (EC2) で Microsoft Windows Server インスタンスを最大 65% 高速に起動する機能を発表しました。お客様は、Microsoft Windows Server を実行している Amazon マシンイメージ (AMI) にフラグを立てて、起動を高速化できます。フラグが立てられると、AMI から起動されるすべてのインスタンスが自動的により速く起動します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SageMaker トレーニングでの ml.g5 インスタンスサポートの発表]]></title>
         <id>8b417cba919a632c9784735616506886b6da3962</id>
@@ -262,126 +342,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-eks-ipv6/"/>
         <updated>2022-01-07T20:46:13.000Z</updated>
         <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が IPv6 をサポートしたことにより、お客様は Kubernetes 上のコンテナ型アプリケーションをプライベート IPv4 アドレス空間の限界をはるかに超えてスケールし、最小限の複雑さで高いネットワーク帯域幅を実現することが可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を発表]]></title>
-        <id>0f05881012c04e912e99d228b77a442204913a78</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/"/>
-        <updated>2022-01-07T09:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を一般的にご利用いただけるようになりました。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけてサブスクライブし、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスをサブスクライバーに付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が履歴データの異常検出のサポートを開始]]></title>
-        <id>0092f2440b8e82ad93413c18748ac3f2ac564dc7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/"/>
-        <updated>2022-01-07T09:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) では、過去のデータの傾向、パターン、および季節性を特定するために、履歴データの機械学習ベースの異常検出をご利用いただけるようになりました。履歴データの異常検出により、お客様は、過去のデータから貴重なインサイトを導き出し、アプリケーションの全体的な効率を向上させるための適切なアクションを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) のサポートを開始]]></title>
-        <id>57f3661a4ff839367e0a4553b3d4c4a7cd13c3e8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/"/>
-        <updated>2022-01-07T09:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) をサポートするようになりました。Oracle Database 12.1 の 2021 年 10 月のパスセットアップデート (PSU) がまもなくリリースされます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR on EKS が AWS Graviton ベースの EC2 インスタンス用にカスタマイズされたコンテナイメージのサポートを追加]]></title>
-        <id>088970c4cf757790b901a19dbe8d60fa41f6868a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/"/>
-        <updated>2022-01-07T09:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR on EKS はカスタムイメージ (Amazon EMR on EKS で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。今後は、カスタムイメージ機能を使用して、AWS Graviton ベースのインスタンスのコンテナイメージをカスタマイズできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR on EKS が、デバッグを簡素化するために DescribeJobRun API 応答にエラーメッセージの詳細を追加]]></title>
-        <id>53bb8b83a0c17b4db41a5b2f565402e0fdebe12d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/"/>
-        <updated>2022-01-07T09:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR on EKS は、DescribeJobRun API の一部として追加のエラーメッセージを提供するようになりました。これにより、失敗したジョブを簡単にデバッグすることが可能となります。このリリースでは、EMR on EKS は、DescribeJobRun API 応答の状態の詳細で、詳細なエラーメッセージ (該当するジョブの失敗の根本的な理由であると判断される情報) を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS Proxy が 8 つの追加 AWS リージョンで利用可能に]]></title>
-        <id>e27f6ee3f9886a01cfff8b5fd4f24d17861d4061</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/"/>
-        <updated>2022-01-07T02:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) Proxy は、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (大阪)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 ( バーレーン)、および南米 (サンパウロ) の AWS リージョンでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Snowcone が AWS 欧州 (ロンドン) で利用可能に]]></title>
-        <id>28f57a5dacbd8d0df29e94da8ffc283365829273</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/"/>
-        <updated>2022-01-07T02:20:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Snowcone サービスは、AWS 欧州 (ロンドン) でお客様のご注文に対応できるようになりました。これにより、AWS アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (フランクフルト)、欧州 (アイルランド)、南米 (サンパウロ)、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ) など、既に Snowcone を提供しているリージョンのリストが拡充され、今後も利用可能なリージョンが追加される予定です。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ移行デバイスのうち、AWS Snow ファミリーの最も小さなメンバーです。Snowcone は、AWS 欧州 (ロンドン) で、ハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用いただけるようになりました。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れています。バックパックに収納可能な程度に小型かつ軽量であり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で、AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Logs がクロスアカウントサブスクリプションに関する AWS Organizations のサポートを発表]]></title>
-        <id>155f9dae32949ff2526b2383717b33c295d36036</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/"/>
-        <updated>2022-01-07T02:19:17.000Z</updated>
-        <summary type="html"><![CDATA[CloudWatch Logs により、AWS Organizations のお客様は、CloudWatch Logs サブスクリプションフィルターの送信先アクセスポリシーを簡単に管理できるようになりました。サブスクリプションフィルターは、Amazon Kinesis Data Streams、Amazon Kinesis Data Firehose、Amazon Lambda などのサービスにリアルタイムでログデータを配信できるようにする機能です。サブスクリプションフィルターは、ログデータを他の AWS アカウントと共有するためにも使用されます。これで、送信先アクセスポリシーで組織 ID または組織パスを使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management が、大規模なデプロイの成功率を向上させるためにジョブの自動再試行機能の提供を開始]]></title>
-        <id>672c1a9ae1fb5c9d0de5e9e7d081619fae638bd4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/"/>
-        <updated>2022-01-07T02:18:29.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Management ジョブは、新しいジョブ実行再試行構成をサポートするようになりました。これにより、デベロッパーは、失敗したジョブ実行を確実に自動再デプロイすることを通じて、大規模なデプロイの成功率を高めることができます。失敗したデバイスを手動で特定して再デプロイする代わりに、お客様は、再試行動作をトリガーする基準とともに、ジョブのロールアウトまたはデプロイごとに [Job Execution Retry Configuration] (ジョブ実行の再試行構成) で最大再試行回数を定義できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能に]]></title>
-        <id>2f321593e84a89d5d0cd1ec122735b1b71d57422</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/"/>
-        <updated>2022-01-07T02:17:34.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK ミーティングが AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>68671beb5830d11b50de34de2aad5fa81e1c5877</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-meetings-aws-govcloud-us-regions/"/>
-        <updated>2022-01-07T02:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を使用すると、デベロッパーは 1 対 1 のミーティングまたはグループ会議で、リアルタイムの音声、動画、および画面共有をウェブおよびモバイルアプリケーションに追加できます。Amazon Chime SDK ミーティングは、AWS GovCloud (米国) リージョンでご利用いただけるようになりました。AWS GovCloud (米国) リージョンでの提供開始により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、ワークロードをクラウドに移行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネージド型の監査およびセキュリティレイクである AWS CloudTrail Lake を発表]]></title>
-        <id>36e27a41183bccf6bc8dbb2730e7adbe1a2acb6c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/"/>
-        <updated>2022-01-07T02:15:55.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、AWS CloudTrail Lake の一般提供を発表しました。これは、監査、セキュリティ調査、および運用のトラブルシューティングのためにアクティビティログを集約し、不変に保存して、クエリすることを可能にするマネージド型の監査およびセキュリティレイクです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
