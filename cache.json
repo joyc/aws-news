@@ -12,6 +12,15 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "436a8f1d9bb3090cf459bd427a81a8028a0a32b7",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS マネジメントコンソール用のカスタマイズ可能なホームページである新しいコンソールホームの提供を開始しました。これは、お客様が必要な情報にアクセスするための単一の場所を提供するものです。新しいコンソールホームでは、ウィジェットを追加、削除、および再配置することで、コンソールホームのエクスペリエンスをカスタマイズできます。また、一部のウィジェットでは、簡単な要約を表示する通常のビューと、より包括的な概要を表示する拡張ビューのいずれかをお選びいただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/console-home-aws-management-console/",
+          "publishedOn": "2022-01-14T01:55:59.000Z",
+          "wordCount": 277,
+          "title": "AWS マネジメントコンソールで新しいコンソールホームを発表"
+        },
+        {
           "id": "fc3ff5e0589ffd62f2520867015f08d4798da409",
           "author": "aws@amazon.com",
           "description": "Amazon Redshift Spectrum を使用して、Amazon S3 データレイクをクエリする際に、外部テーブルのカスタムデータ検証ルールを特定することができるようになりました。この機能強化により、Redshift Spectrum が、サポートされていないUTF-8 文字や数値のオーバーフローなど、予期せぬ値を含むデータを外部テーブルで処理する方法を制御できるようになります。",
@@ -289,33 +298,6 @@
           "publishedOn": "2022-01-10T17:01:05.000Z",
           "wordCount": 284,
           "title": "Amazon QLDB がエクスポート用の JSON 出力形式のサポートを開始"
-        },
-        {
-          "id": "aaf4141535cd70fbd8bb895529c9fd9df0343d33",
-          "author": "aws@amazon.com",
-          "description": "本日 AWS は、AWS Cloud Development Kit アプリケーションのローカルテストに対応した AWS Serverless Application Model CLI (AWS SAM CLI) の一般提供を開始したことを発表します。AWS SAM と AWS CDK は、いずれも IaC (Infrastructure as Code) を利用してアプリケーションを構築するためのオープンソースのフレームワークです。AWS SAM は、JSON や YAML を使ってアプリケーションにインフラストラクチャを記述する SAM テンプレートと、AWS SAM アプリケーションを構築、パッケージ化、テスト、デプロイするツールである SAM CLI で構成されます。AWS CDK は、Python や Node.js. のような使い慣れたプログラミング言語を使用してクラウドアプリケーションリソースを定義するための開発フレームワークです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/",
-          "publishedOn": "2022-01-07T20:47:50.000Z",
-          "wordCount": 327,
-          "title": "AWS Cloud Development Kit (CDK) のローカルテストにおける AWS Serverless Application Model (SAM) CLI サポートのお知らせ"
-        },
-        {
-          "id": "0797c625f97a0aeefbfed67f3ecaa59c894b4138",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR on EKS により、お客様は Apache Spark などのオープンソースのビッグデータフレームワークを Amazon EKS で簡単に実行することができます。Amazon EMR on EKS のお客様は、EMR Studio などの統合開発環境 (IDE) を使用してインタラクティブなワークロードを実行するために、マネージドエンドポイント (プレビューで利用可能) を設定し、使用することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/",
-          "publishedOn": "2022-01-07T20:47:02.000Z",
-          "wordCount": 283,
-          "title": "Amazon EMR on EKS、マネージドエンドポイントを使用して実行されるインタラクティブジョブのカスタマイズされたコンテナイメージのサポートを追加"
-        },
-        {
-          "id": "031e539fa4c5984e47878649e90e30c692a9aa0d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service (EKS) が IPv6 をサポートしたことにより、お客様は Kubernetes 上のコンテナ型アプリケーションをプライベート IPv4 アドレス空間の限界をはるかに超えてスケールし、最小限の複雑さで高いネットワーク帯域幅を実現することが可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-eks-ipv6/",
-          "publishedOn": "2022-01-07T20:46:13.000Z",
-          "wordCount": 309,
-          "title": "Amazon EKS が Internet Protocol version 6 (IPv6) をサポート"
         }
       ]
     }
