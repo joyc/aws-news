@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-18T01:12:47.679Z</updated>
+    <updated>2022-01-19T01:03:33.775Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -152,86 +152,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/"/>
         <updated>2022-01-12T19:48:59.000Z</updated>
         <summary type="html"><![CDATA[NVIDIA A10G Tensor Core GPU を搭載した ml.g5 インスタンスが Amazon SageMaker トレーニングジョブでサポートされるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データのバッチ取り込みを容易にする Apache Spark 向けの Amazon SageMaker Feature Store コネクタ]]></title>
-        <id>1c44744a332b5fae0e8305580db9f4ca06bd5856</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/"/>
-        <updated>2022-01-12T01:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Feature Store が強化され、データのバッチ取り込みを容易にすることのできる Apache Spark 向けの強力なコネクタが追加されました。Amazon SageMaker Feature Store は、機械学習 (ML) モデル機能を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。これまで、SageMaker Feature Store には、PutRecord API、SageMaker Python SDK の FeatureGroup.ingest 機能、SageMaker Processing ジョブなどの方法でデータを取り込むことが可能でした。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 Hpc6a インスタンスのご紹介]]></title>
-        <id>6b57caa0ae7c3d12fb4b624cf85e33795546ab1e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/"/>
-        <updated>2022-01-11T20:39:38.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) から、Amazon EC2 Hpc6a インスタンスの一般向けの提供を開始したことをお知らせいたします。これらのインスタンスは、数値流体力学、貯留層モデル、気象シミュレーション、有限要素解析など、コンピューティングを多用する高性能コンピューティングワークロードを効率的に実行するように最適化されています。Hpc6a インスタンスは、同等の Amazon EC2 x86 ベースのコンピューティング最適化インスタンスよりも最大 65% 優れた料金パフォーマンスを提供します。Hpc6a インスタンスを使用すると、AWS の伸縮性とスケーラビリティを活用しながら、HPC ワークロードのコストを大幅に削減できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Compute Optimizer が、複数の EC2 インスタンスアーキテクチャを活用することで最適化をより容易に]]></title>
-        <id>52e354a0a990cdb55d803c6562686a58d6d6d3fb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/"/>
-        <updated>2022-01-11T20:38:50.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Compute Optimizer は、複数の CPU アーキテクチャを活用することで、お客様が EC2 インスタンスをより容易に最適化することを可能にする新機能を発表しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.36 および 8.0.27) のサポートを開始]]></title>
-        <id>6a4cec5c758a20aa34d006ce73d523eb431e8b7b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/"/>
-        <updated>2022-01-11T20:38:03.000Z</updated>
-        <summary type="html"><![CDATA[MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.36 および 8.0.27 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。データベースインスタンスのアップグレードの詳細については、Amazon RDS ユーザーガイドを参照してください。また、Amazon RDS マネジメントコンソールで利用できる最新のマイナーバージョンを使用して、フルマネージドの Amazon RDS データベースを作成または更新してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SNS で属性ベースのアクセス制御 (ABAC) のサポートを開始]]></title>
-        <id>0f1f6a63d4d00aedbc907f04b568d24eaaaebb67</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/"/>
-        <updated>2022-01-11T20:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Notification Service (Amazon SNS) は、Publish や PublishBatch などの API アクション向けの属性ベースのアクセス制御 (ABAC) をサポートするようになりました。ABAC は、IAM ユーザーやロールなどの IAM リソース、および Amazon SNS トピックなどの AWS リソースにアタッチできるタグに基づいてアクセス許可を定義し、許可管理を簡素化する承認戦略です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex 向けの AWS PrivateLink のサポートを発表]]></title>
-        <id>be371adb0bb7a67835277b44a9ec970f739522ff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/"/>
-        <updated>2022-01-11T20:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex は、AWS PrivateLink を介して Amazon Virtual Private Cloud (VPC) エンドポイントをサポートするようになりました。これにより、パブリック IP を使用したり、トラフィックをパブリックインターネットに公開したりすることなく、VPC 内から Amazon Lex V2 API への呼び出しを安全に開始できます。AWS PrivateLink では、Amazon のネットワークから出ることなく VPC と AWS のサービスをプライベートに接続し、内部ネットワークアーキテクチャを大幅に簡素化します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMR Studio を使用したリアルタイムのコラボレーションノートブックのご紹介]]></title>
-        <id>658467569c2a53359ab26aa88773d28a4eb6b455</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/"/>
-        <updated>2022-01-11T20:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、データサイエンティスト、エンジニア、およびアナリストが EMR Studio を使用して、チーム間でリアルタイムにコラボレーションできるようになったことを発表します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Toolkit for JetBrains IDE が ECS コンテナのトラブルシューティングのために ECS-Exec のサポートを追加]]></title>
-        <id>d3cb6c1817bc30d02ede28a76106b0e6a12cc5d1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/"/>
-        <updated>2022-01-11T20:32:51.000Z</updated>
-        <summary type="html"><![CDATA[AWS Toolkit for JetBrains は、Amazon ECS コンテナに接続し、Amazon ECS Exec を使用してコマンドを発行する便利な IDE 機能をデベロッパーに提供します。これにより、デベロッパーは、IDE を離れることなく、Amazon EC2 インスタンスや AWS Fargate で実行されている ECS コンテナにコマンドを実行したり、シェルを取得したりするなど、コンテナを直接操作できます。ECS Exec は、実行中のコンテナとの接続を確立するために、AWS Systems Manager (SSM) Session Manager を内部で使用します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
