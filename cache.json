@@ -12,6 +12,60 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "189d3f5779b5598f839399dbd72861608b47b9df",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Systems Manager では、Amazon 所有のコマンドドキュメントの分類がサポートされ、見つけるのが簡単になりましたAWS Systems Manager は、AWS の運用ハブであり、AWS のアプリケーション全体の運用上の問題を追跡および解決するための一元的な統合型ユーザーインターフェイスです。AWS Systems Manager のドキュメント (SSM ドキュメント) は、Systems Manager がマネージドノードで実行する操作を定義します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-command-document/",
+          "publishedOn": "2022-01-19T15:02:59.000Z",
+          "wordCount": 299,
+          "title": "AWS Systems Manager で、Command Document タイプトのドキュメントが分類できるようになりました"
+        },
+        {
+          "id": "2a786e3a5d3b550bebcee00b3dac4ca9e2e5efb1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。Performance Insights のデータを表示する方法の 1 つは、AWS マネジメントコンソールを使用することです。Performance Insights では独自のデータをクエリできるように、パブリック API も提供されています。今回、新しい API エンドポイントが 3 つ追加されました。それは、GetResourceMetadata、ListAvailableResourceDimensions、および ListAvailableResourceMetrics です。これらの新しい API を使えば、Performance Insights が収集したメトリクスに関するメタデータに、プログラムによるアクセスが可能になります。これにより、独自のモニタリングツールや好みのプラットフォームとの、より高質で動的な統合を簡単に実現できます。Performance Insights API の詳細については、「Performance Insights API によるメトリクスの取得」をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/",
+          "publishedOn": "2022-01-19T14:33:59.000Z",
+          "wordCount": 338,
+          "title": "新しい API エンドポイントが Amazon RDS Performance Insights のサポート対象となりました"
+        },
+        {
+          "id": "602039d13227ab99032faa2b5ae75af1d33354d1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Pinpoint のジャーニーでは、各ジャーニー参加者を自動的に再評価して、コンタクトセンターアクティビティを通じてジャーニー参加者に送信できるようになりました。ジャーニーは、SMS、電子メール、プッシュ、音声といった複数のチャネルで使用できる複数ステップキャンペーンです。ジャーニーは、ユーザーエンゲージメント用のユースケースを持つお客様を対象としています。こういったお客様は、高価値なユーザーアクションをもたらすようなターゲットを絞った情報を送りたいと考えています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/",
+          "publishedOn": "2022-01-19T14:27:59.000Z",
+          "wordCount": 266,
+          "title": "Amazon Pinpoint で、コンタクトセンターアクティビティ向けのジャーニーエンドポイント再評価ロジックをサポート開始"
+        },
+        {
+          "id": "4108f2fac09cb7bd9cd69b56b944bf14d0a1ffc4",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise Edgeを使用すると、エッジデータストレージ戦略を定義して、切断中（最大30日）の運用データの損失を防ぎ、再接続時にクラウドへのデータアップロード戦略を選択できます。クラウドにアップロードされたアプリケーションデータは多くの場合タイムクリティカルであり、特定の年齢を超える値は短期間のアクションに関連しない場合があります。逆に、古い履歴データは、長期的な傾向を診断し、タイムクリティカルでないアプリケーションの機器の運用パフォーマンスを深く掘り下げる上で重要になる可能性があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/",
+          "publishedOn": "2022-01-19T05:09:59.000Z",
+          "wordCount": 277,
+          "title": "AWS IoT SiteWise Edgeは、断続的なクラウド接続のための新しいデータストレージとアップロードの優先順位付け戦略をサポートします"
+        },
+        {
+          "id": "cc82605bfa7661be98f78f3348d124f3a9ee6fd9",
+          "author": "aws@amazon.com",
+          "description": "パフォーマンスを向上させる必要がある場合は、派遣後にLaunch Wizardコンソール内からAWS Launch Wizardで派遣されたSAPシステムにノードを追加できるようになりました。これにより、Launch WizardでデプロイされたSAPアプリ（S / 4HANA、BW / 4HANA、およびNetWeaver）をサポートするインフラストラクチャを、同じガイド付きのベストプラクティスに沿った派遣過程を使用してスケーリングできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/",
+          "publishedOn": "2022-01-19T04:56:59.000Z",
+          "wordCount": 278,
+          "title": "AWS Launch Wizardは、パフォーマンス要件の増加に対応するためのHANAベースのSAP派遣のスケーリングをサポートするようになりました"
+        },
+        {
+          "id": "62eb4340bb3848134944f559cce53a31c15828a6",
+          "author": "aws@amazon.com",
+          "description": "AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/",
+          "publishedOn": "2022-01-19T04:51:59.000Z",
+          "wordCount": 289,
+          "title": "AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。"
+        },
+        {
           "id": "649bc1bfd162a9d215dd5285905ef292962e5eed",
           "author": "aws@amazon.com",
           "description": "Amazon Forecast は、AWS CloudFormation をサポートするようになりました。これにより、お客様は、CloudFormation テンプレートを利用して、データセットとデータセットグループのリソースをプロビジョニングおよび管理できるようになりました。また、データセットとデータセットグループのリソースをスタックとして簡単に起動および設定し、テンプレートを使用して、リソースを個別に管理する代わりに、必要に応じてスタック全体を 1 つのユニットとして作成、更新、および削除できます。これは、Forecast コンソールと AWS CLI/SDK に加えて、Forecast データセットとデータセットグループのリソースを管理する新しい便利な方法を追加するものです。",
@@ -100,51 +154,6 @@
           "publishedOn": "2022-01-13T14:00:59.000Z",
           "wordCount": 341,
           "title": "SQL Explorer in EMR Studio の紹介"
-        },
-        {
-          "id": "1769e560391aaa2a5549b2d8f897bfefe11feefb",
-          "author": "aws@amazon.com",
-          "description": "AWS Fargate がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/",
-          "publishedOn": "2022-01-13T08:59:59.000Z",
-          "wordCount": 300,
-          "title": "AWS Fargate がアジアパシフィック (ジャカルタ) リージョンで利用可能に"
-        },
-        {
-          "id": "22ef954b90b40ade98f42013e097f0c77d5264cd",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスです。本日、Kendra によるクエリ言語のサポートを発表しました。これにより、お客様は必要に応じてより高度な検索用語と手法を駆使して、より正確な回答を取得できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-kendra-query-language/",
-          "publishedOn": "2022-01-13T08:51:59.000Z",
-          "wordCount": 283,
-          "title": "Amazon Kendra がクエリ言語のサポートを開始"
-        },
-        {
-          "id": "52325f36eec9c450ce6833d6e9a1c1370bc3a906",
-          "author": "aws@amazon.com",
-          "description": "AWS AppSync はマネージド GraphQL サービスです。このサービスを使用すると、1 つ以上のデータソースからのデータに安全にアクセス、操作、結合するための柔軟な API を作成でき、アプリケーション開発がシンプルになります。本日、AppSync は、AppSync の組み込みサーバー側キャッシュからの特定のエントリの削除をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/",
-          "publishedOn": "2022-01-13T08:42:59.000Z",
-          "wordCount": 267,
-          "title": "AWS AppSync が、サーバー側のデータキャッシングのキャッシュエントリ削除のサポートを開始"
-        },
-        {
-          "id": "59d8da34c278f7abbe767a01600ccaf7386dd2a2",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS は、Amazon Elastic Compute Cloud (EC2) で Microsoft Windows Server インスタンスを最大 65% 高速に起動する機能を発表しました。お客様は、Microsoft Windows Server を実行している Amazon マシンイメージ (AMI) にフラグを立てて、起動を高速化できます。フラグが立てられると、AMI から起動されるすべてのインスタンスが自動的により速く起動します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/",
-          "publishedOn": "2022-01-13T08:35:59.000Z",
-          "wordCount": 322,
-          "title": "AWS が、Amazon EC2 上の Microsoft Windows Server インスタンス向けの新しい起動速度の最適化を発表"
-        },
-        {
-          "id": "8b417cba919a632c9784735616506886b6da3962",
-          "author": "aws@amazon.com",
-          "description": "NVIDIA A10G Tensor Core GPU を搭載した ml.g5 インスタンスが Amazon SageMaker トレーニングジョブでサポートされるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/",
-          "publishedOn": "2022-01-12T19:48:59.000Z",
-          "wordCount": 301,
-          "title": "SageMaker トレーニングでの ml.g5 インスタンスサポートの発表"
         }
       ]
     }
