@@ -2,10 +2,200 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-20T01:18:10.159Z</updated>
+    <updated>2022-01-21T01:04:11.868Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Trusted Advisor が AWS Security Hub と統合]]></title>
+        <id>001464eb6e47b42e0227aa3dc6cdcf7324449a13</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/"/>
+        <updated>2022-01-20T20:20:02.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Trusted Advisor で、AWS Security Hub の Foundation Security Best Practices から自動的に取り込まれる 111 個のチェックが追加されました。Security Hub チェックの全一覧は、ここをクリックしてください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Location Service のマトリックスルーティングを発表]]></title>
+        <id>dc11c7373a28d4ab64ec9f747e6bfcfa61be1169</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-matrix-routing/"/>
+        <updated>2022-01-20T20:19:15.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Location Service にマトリックスルーティングが追加されました。これにより、顧客が複数の出発地から目的地までの運転時間と運転距離をすばやく簡単に計算できるようになります。マトリックスルーティングを使用すると、デベロッパーは 1 回の API リクエストで複数のルート計算におけるレイテンシを低減し、コードを簡素化し、顧客のエクスペリエンスを向上させることができます。例えば、配達ルートの計画を立てるアプリケーションでは、Amazon Location のマトリックスルーティング機能を使用して、所定時間のすべての配達の運転時間と距離をリクエストできるようになります。最大 350 箇所の配送元と 350 箇所の目的地の対の合計 122,500 の運転時間と距離を、単一のリクエストで取得できます。これにより、リクエストの回数とレイテンシーを減らすことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Location Service では、すべてのお客様のユースケースに対してリクエストベースの価格設定を可能にします]]></title>
+        <id>20e5c33bd6e25241471615dd3ff37524d72771bb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/"/>
+        <updated>2022-01-20T20:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Location Service では、アセットベースのアプリケーションを含むすべてのお客様のユースケースに対して、リクエストベースの価格設定を提供できるようになりました。例えば、配達のアプリケーションを構築するデベロッパーが配達先の住所に関連付けられた位置（緯度/経度）を特定する必要がある場合、検索された住所ごとに支払いが可能になります。Amazon Location なら、前払い料金も、必要な最低利用料金も、長期契約も必要ありません。デベロッパーは、アセットベースのアプリケーションに位置認識を追加するのがさらに簡単になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が Amazon CloudWatch でパフォーマンスと容量のメトリクスの提供を開始]]></title>
+        <id>5497651030161d36d854453902ab80fba61803ad</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/"/>
+        <updated>2022-01-20T20:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP で Amazon CloudWatch のメトリクスを利用可能になりました。これにより、ご使用のファイルシステムとボリュームのパフォーマンスとストレージ使用量のメトリクスをモニタリングし、アラームを設定できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Launch Wizard が SUSE Linux Enterprise Server と SAP HANA、S/4HANA、および BW/4HANA の最新バージョンをサポート]]></title>
+        <id>8ef090986feb003571b0ef48ee701eb84da45a70</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/"/>
+        <updated>2022-01-20T20:16:52.000Z</updated>
+        <summary type="html"><![CDATA[AWS Launch Wizard が SAP S/4HANA 2021、SAP BW/4HANA 2021、SAP HANA SPS06、および SUSE Linux Enterprise Server (SLES) 15 SP3 のサポートを開始しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) で利用可能になりました。]]></title>
+        <id>81d098dcb42a40ccffb7603fd1c329b7df3fd838</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/"/>
+        <updated>2022-01-20T20:16:03.000Z</updated>
+        <summary type="html"><![CDATA[AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) のリージョンで利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager Automation の使用で、ウェブフックを通じてサードパーティーアプリケーションでのアクションが可能に]]></title>
+        <id>368a2c20639b7b1f5b54061fdbe12811ba5bd6c3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/"/>
+        <updated>2022-01-20T09:35:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager では、アウトバウンドのウェブフックを使用して、サードパーティーのツールやアプリケーションへの通知の送信やアクションを実行できるようになりました。アウトバウンドのウェブフックでは、Slack などを使用する多くのツールを簡単に統合することができます。Automation ランブックのステップとしてアウトバウンドウェブフックを呼び出し、組織内の既存のコラボレーション、モニタリング、インシデント対応ツールと容易に統合できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PartiQL API コールが消費するスループット容量を DynamoDB が返し、クエリとスループットコストの最適化を支援]]></title>
+        <id>95deecc6e979120d5e71a1ecda698f4b142ed369</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/"/>
+        <updated>2022-01-20T09:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DynamoDB は、SQL 互換のクエリ言語 PartiQL をサポートし、DynamoDB のテーブルデータをクエリ、挿入、更新、および削除することができます。DynamoDB PartiQL API は、オプションのパラメータである ReturnConsumedCapacity をサポートし、消費された読み取りと書き込みの合計容量と、オペレーションに含まれるテーブルとインデックスの統計を返し、クエリとスループットコストの最適化を支援します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Application Insights が Microsoft Active Directory と SharePoint のモニタリングサービスを追加]]></title>
+        <id>fda68342f70a5f47e81eaeaceb62cde035820394</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/"/>
+        <updated>2022-01-20T09:34:07.000Z</updated>
+        <summary type="html"><![CDATA[CloudWatch Application Insights により、AWS で稼働する Microsoft Active Directory と Microsoft SharePoint のモニタリング、アラーム、ダッシュボードを簡単かつ自動的に設定できるようになりました。CloudWatch Application Insights は、お客様が AWS リソースで実行されているエンタープライズアプリケーションのモニタリングとトラブルシューティングを実行できるようにするサービスです。新機能では、Active Directory と SharePoint のワークロードを自動的に検出し、その基盤となる EC2 リソースを決定し、そのヘルスとウェルネスをモニタリングするためのメトリクス、テレメトリ―、ログを設定します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャーロット、デトロイト、ロサンゼルス、ミネアポリスで新しい AWS Wavelength Zone を発表]]></title>
+        <id>b9a15ff58374f9a6bd90bbdaa81d740367877e76</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-wavelength-zones/"/>
+        <updated>2022-01-20T09:33:19.000Z</updated>
+        <summary type="html"><![CDATA[本日より、シャーロット、デトロイト、ロサンゼルス、ミネアポリスにある Verizon の 5G Ultra Wideband ネットワークで、4 つの新しい AWS Wavelength Zone がご利用可能になりました。Wavelength Zone は、以前発表したアトランタ、ボストン、シカゴ、ダラス、デンバー、ヒューストン、ラスベガス、マイアミ、ニューヨーク市、フェニックス、サンフランシスコ、シアトル、ワシントン DC を含む 17 の主要都市でご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Outposts が FedRAMP 認可を取得]]></title>
+        <id>f19259725f73ac94056a2cb677052810d7d481ea</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/"/>
+        <updated>2022-01-20T09:32:32.000Z</updated>
+        <summary type="html"><![CDATA[AWS Outposts は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) で FedRAMP Moderate 認可を、GovCloud (米国西部) および GovCloud (米国東部) で FedRAMP High 認可を得ました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack から AWS Systems Manager Automation のランブックを実行して、オペレーションの問題をより迅速に修正]]></title>
+        <id>4211d8bee77bdba86b4bbc6cdc8d96aa79037dec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/"/>
+        <updated>2022-01-20T09:31:45.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager Automation では、AWS Chatbot を使用して、Slack からランブックを実行し、AWS 環境で安全にオペレーションタスクの実施、問題解決、アクションの実行が可能となりました。Automation ランブックを検索して、必要なインプットを提供し、Slack チャンネルから直接ランブックを実行できるようになりました。また、Slack 内で、ランブック実行の進行状況とステータスを追跡することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Elastic Disaster Recovery がフェイルバックオートメーションのサポートを開始]]></title>
+        <id>a1670a4699096acc4d58e3e817d871221a5a9c5a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-elastic-disaster-recovery-failback-automation/"/>
+        <updated>2022-01-20T09:30:56.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elastic Disaster Recovery (AWS DRS) は、vCenter サーバーへの自動でスケーラブルなフェイルバックをサポートするようになりました。新しい DRS Mass Failback Automation クライアント (DRSFA クライアント) は、大規模なフェイルバックのためのさらなる柔軟性と速度を与えます。これにより、複数の vCenter サーバーを同時にプライマリ vCenter 環境にフェイルバックできます。DRSFA クライアントを使用すると、すべての Recovery インスタンスや Recovery インスタンスのサブセットをフェイルバックできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR Studio が米国西部 (北カリフォルニア) で利用可能に]]></title>
+        <id>ed888701ac56ec4ab607d67fc9075753fe073508</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/"/>
+        <updated>2022-01-20T08:39:47.000Z</updated>
+        <summary type="html"><![CDATA[EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio の提供が米国西部 (北カリフォルニア) リージョンで開始されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.8.26 のサポートを開始]]></title>
+        <id>9d5e3b35eed12ad6a45b8afea102ef3692eab992</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/"/>
+        <updated>2022-01-20T08:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ が、RabbitMQ バージョン 3.8.26 をサポートするようになりました。この RabbitMQ パッチアップデートには、これまでサポートされていたバージョン RabbitMQ 3.8.23 からのいくつかの修正と新機能が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Interactive Video Service がサムネイル設定を追加]]></title>
+        <id>a7de6c922b06f7e431a2085b12f113f1937d83f9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/"/>
+        <updated>2022-01-20T08:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) を使用して、ライブストリームで生成するサムネイルの頻度を設定できるようになりました。 デフォルトでは、Amazon IVS は、標準のライブチャンネルで 60 秒ごとにサムネイル画像を生成します。この機能を使用すると、より頻繁にサムネイルを生成できます。60 秒ごとに最大 12 の画像 (5 秒ごとに 1 つの画像) を生成することに加えて、サムネイル生成を無効にすることもできます。頻繁に画像を生成することにより、ユーザーは、プレビュー画像にサムネイルを使用するアプリやウェブサイトを参照するときにライブストリームで発生していることに関する最新のビューを取得することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto 1 月の四半期更新情報]]></title>
+        <id>0fb1b615de4f7936ec8c04071be2678b3c870b3b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-corretto-january-updates/"/>
+        <updated>2022-01-20T08:36:03.000Z</updated>
+        <summary type="html"><![CDATA[1 月 18 日、Amazon は Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 11.0.14 および 8.322 のダウンロードが可能となりました。Amazon Corretto 17 のアップデートは、OpenJDK 17 のリポジトリにリリースがタグ付けされ次第まもなく提供されます。Amazon Corretto は、マルチプラットフォームで、本番稼働に対応した、無料の OpenJDK ディストリビューションです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Storage Gateway マネジメントコンソールがゲートウェイの作成と管理を簡素化]]></title>
+        <id>01854283ffb3f7583a891247ec2b0cc82ed84690</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/"/>
+        <updated>2022-01-20T08:34:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS Storage Gateway でハイブリッドクラウドストレージワークフローのセットアップと管理をすばやく簡単に開始できるようになりました。Storage Gateway のマネジメントコンソールを使用して、4 つの簡単なステップで新しいゲートウェイをすばやく作成できます。最初のステップでは、ローカルゲートウェイのセットアップを完了します。第 2 のステップでゲートウェイを AWS に接続します。第 3 のステップでゲートウェイをアクティブ化します。第 4 のステップでは、ゲートウェイ設定を最終化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for SQL Server が、新しいマイナーバージョンの SQL Server 2019 および 2017 のサポートを開始]]></title>
+        <id>37a0e5c6e2ef7e114dc74d01190355adb74d9c2f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-sqlserver-supports-new-minor-versions-sql-server-2019-2017/"/>
+        <updated>2022-01-20T02:00:56.000Z</updated>
+        <summary type="html"><![CDATA[パフォーマンスとセキュリティの修正などが含まれた Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用できるようになりました。Amazon RDS for SQL Server は、Express、Web、Standard、および Enterprise の各エディションで、新しいマイナーバージョンである Microsoft SQL Server 2019、2017 をサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Systems Manager で、Command Document タイプトのドキュメントが分類できるようになりました]]></title>
         <id>189d3f5779b5598f839399dbd72861608b47b9df</id>
@@ -112,56 +302,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-direct-connect-australia/"/>
         <updated>2022-01-17T18:24:59.000Z</updated>
         <summary type="html"><![CDATA[本日、AWS は、オーストラリアのシドニーに新しい Direct Connect ロケーションを開設することを発表しました。オーストラリアの AWS のお客様は、自社の施設から NextDC S2 データセンターの AWS へのネットワーク接続を確立して、すべてのパブリック AWS リージョン (中国のリージョンを除く) への高性能で安全なアクセスを利用できるようになりました。これは、シドニーメトロポリタンエリアで 3 つ目の Direct Connect ロケーションとなります。オーストラリアの Direct Connect ロケーションは、キャンベラ、シドニー、メルボルン、パースです。新しいロケーションでは、専用の 1 Gbps、10 Gbps、および 100 Gbps 接続が提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS マネジメントコンソールで新しいコンソールホームを発表]]></title>
-        <id>436a8f1d9bb3090cf459bd427a81a8028a0a32b7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/console-home-aws-management-console/"/>
-        <updated>2022-01-14T01:55:59.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS マネジメントコンソール用のカスタマイズ可能なホームページである新しいコンソールホームの提供を開始しました。これは、お客様が必要な情報にアクセスするための単一の場所を提供するものです。新しいコンソールホームでは、ウィジェットを追加、削除、および再配置することで、コンソールホームのエクスペリエンスをカスタマイズできます。また、一部のウィジェットでは、簡単な要約を表示する通常のビューと、より包括的な概要を表示する拡張ビューのいずれかをお選びいただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift Spectrum がカスタムデータ検証ルールを提供]]></title>
-        <id>fc3ff5e0589ffd62f2520867015f08d4798da409</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/"/>
-        <updated>2022-01-13T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift Spectrum を使用して、Amazon S3 データレイクをクエリする際に、外部テーブルのカスタムデータ検証ルールを特定することができるようになりました。この機能強化により、Redshift Spectrum が、サポートされていないUTF-8 文字や数値のオーバーフローなど、予期せぬ値を含むデータを外部テーブルで処理する方法を制御できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供の発表]]></title>
-        <id>f4d10872d4da2e4d73ceb9db962ae25cd59a5d81</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/"/>
-        <updated>2022-01-13T14:24:59.000Z</updated>
-        <summary type="html"><![CDATA[本日、アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供を発表します。お客様は、これらの新しい Local Zones を使用して、これらの 3 つの都市圏のエンドユーザーまたはオンプレミスインストールに 1 桁ミリ秒のレイテンシーを必要とするアプリケーションを提供できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard に Microsoft SQL Server デプロイ対応の AWS Service Catalog 統合を追加]]></title>
-        <id>d98212f77ce0c213311896e8bb68b5fee924334f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/"/>
-        <updated>2022-01-13T14:18:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard は、SQL Server デプロイ完了時に、AWS Service Catalog 製品を作成するようになりました。そして、AWS Service Catalog 製品を使用して、EC2 で SQL Server を繰り返しデプロイできます。この機能により、その後の SQL Server デプロイは簡素化され、関連する設定スクリプトを再利用することで時間を節約して、既存の DevOps ツールとの統合が容易になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Explorer in EMR Studio の紹介]]></title>
-        <id>edb5c7cde3946b3cc0c0fc4ce892260102b843ad</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/"/>
-        <updated>2022-01-13T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio Workspace の機能として、SQL Explorer をご紹介します。この機能により、EMR Studio からデータカタログを参照し、EMR クラスターに対して SQL クエリを実行することができます。本リリースの SQL Explorer in EMR Studio は、Prestoバージョン 0.254.1 以降を実行している EC2 クラスター上の Amazon EMR における SQL クエリの実行をサポートしています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
