@@ -352,33 +352,6 @@
           "publishedOn": "2022-01-19T14:27:59.000Z",
           "wordCount": 266,
           "title": "Amazon Pinpoint で、コンタクトセンターアクティビティ向けのジャーニーエンドポイント再評価ロジックをサポート開始"
-        },
-        {
-          "id": "4108f2fac09cb7bd9cd69b56b944bf14d0a1ffc4",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT SiteWise Edgeを使用すると、エッジデータストレージ戦略を定義して、切断中（最大30日）の運用データの損失を防ぎ、再接続時にクラウドへのデータアップロード戦略を選択できます。クラウドにアップロードされたアプリケーションデータは多くの場合タイムクリティカルであり、特定の年齢を超える値は短期間のアクションに関連しない場合があります。逆に、古い履歴データは、長期的な傾向を診断し、タイムクリティカルでないアプリケーションの機器の運用パフォーマンスを深く掘り下げる上で重要になる可能性があります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/",
-          "publishedOn": "2022-01-19T05:09:59.000Z",
-          "wordCount": 277,
-          "title": "AWS IoT SiteWise Edgeは、断続的なクラウド接続のための新しいデータストレージとアップロードの優先順位付け戦略をサポートします"
-        },
-        {
-          "id": "cc82605bfa7661be98f78f3348d124f3a9ee6fd9",
-          "author": "aws@amazon.com",
-          "description": "パフォーマンスを向上させる必要がある場合は、派遣後にLaunch Wizardコンソール内からAWS Launch Wizardで派遣されたSAPシステムにノードを追加できるようになりました。これにより、Launch WizardでデプロイされたSAPアプリ（S / 4HANA、BW / 4HANA、およびNetWeaver）をサポートするインフラストラクチャを、同じガイド付きのベストプラクティスに沿った派遣過程を使用してスケーリングできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/",
-          "publishedOn": "2022-01-19T04:56:59.000Z",
-          "wordCount": 278,
-          "title": "AWS Launch Wizardは、パフォーマンス要件の増加に対応するためのHANAベースのSAP派遣のスケーリングをサポートするようになりました"
-        },
-        {
-          "id": "62eb4340bb3848134944f559cce53a31c15828a6",
-          "author": "aws@amazon.com",
-          "description": "AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/",
-          "publishedOn": "2022-01-19T04:51:59.000Z",
-          "wordCount": 289,
-          "title": "AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。"
         }
       ]
     }

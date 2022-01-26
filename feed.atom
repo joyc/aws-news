@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-25T01:12:24.561Z</updated>
+    <updated>2022-01-26T01:13:17.766Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -382,36 +382,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/"/>
         <updated>2022-01-19T14:27:59.000Z</updated>
         <summary type="html"><![CDATA[Amazon Pinpoint のジャーニーでは、各ジャーニー参加者を自動的に再評価して、コンタクトセンターアクティビティを通じてジャーニー参加者に送信できるようになりました。ジャーニーは、SMS、電子メール、プッシュ、音声といった複数のチャネルで使用できる複数ステップキャンペーンです。ジャーニーは、ユーザーエンゲージメント用のユースケースを持つお客様を対象としています。こういったお客様は、高価値なユーザーアクションをもたらすようなターゲットを絞った情報を送りたいと考えています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT SiteWise Edgeは、断続的なクラウド接続のための新しいデータストレージとアップロードの優先順位付け戦略をサポートします]]></title>
-        <id>4108f2fac09cb7bd9cd69b56b944bf14d0a1ffc4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/"/>
-        <updated>2022-01-19T05:09:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT SiteWise Edgeを使用すると、エッジデータストレージ戦略を定義して、切断中（最大30日）の運用データの損失を防ぎ、再接続時にクラウドへのデータアップロード戦略を選択できます。クラウドにアップロードされたアプリケーションデータは多くの場合タイムクリティカルであり、特定の年齢を超える値は短期間のアクションに関連しない場合があります。逆に、古い履歴データは、長期的な傾向を診断し、タイムクリティカルでないアプリケーションの機器の運用パフォーマンスを深く掘り下げる上で重要になる可能性があります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizardは、パフォーマンス要件の増加に対応するためのHANAベースのSAP派遣のスケーリングをサポートするようになりました]]></title>
-        <id>cc82605bfa7661be98f78f3348d124f3a9ee6fd9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/"/>
-        <updated>2022-01-19T04:56:59.000Z</updated>
-        <summary type="html"><![CDATA[パフォーマンスを向上させる必要がある場合は、派遣後にLaunch Wizardコンソール内からAWS Launch Wizardで派遣されたSAPシステムにノードを追加できるようになりました。これにより、Launch WizardでデプロイされたSAPアプリ（S / 4HANA、BW / 4HANA、およびNetWeaver）をサポートするインフラストラクチャを、同じガイド付きのベストプラクティスに沿った派遣過程を使用してスケーリングできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。]]></title>
-        <id>62eb4340bb3848134944f559cce53a31c15828a6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/"/>
-        <updated>2022-01-19T04:51:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
