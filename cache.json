@@ -12,6 +12,96 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "87a161cf0f90e9009d3cb6243a01b8b3b4edf3ab",
+          "author": "aws@amazon.com",
+          "description": "今回 Amazon MQ が、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各 AWS リージョンで、 FedRAMP Moderate の認証を取得しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mq-authorized-fedramp-moderate/",
+          "publishedOn": "2022-01-28T21:53:01.000Z",
+          "wordCount": 257,
+          "title": "Amazon MQ が FedRAMP Moderate の認証を取得"
+        },
+        {
+          "id": "779c1eed6b4752d20466c824bacc9eb5085b936e",
+          "author": "aws@amazon.com",
+          "description": "今後は、Amazon EC2 R6i インスタンス を、カナダ (中部) および南米 (サンパウロ) の新たな AWS リージョンでもご利用可能です。R6i インスタンスは、メモリ使用が多いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System で構築されています。これにより、実質的にホストハードウェアの全てのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。R6i インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名は Ice Lake) を搭載し、R5 インスタンスと比較して最大 15% 優れたコンピューティングのコストパフォーマンスと、インテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。これらのインスタンスは SAP 認定済みであり、SQL および noSQL データベース、Memcached や Redis などの分散ウェブスケールインメモリキャッシュ、SAP HANA などのインメモリデータベース、Hadoop や Spark クラスターなどのリアルタイムビッグデータ分析などのワークロードに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/",
+          "publishedOn": "2022-01-28T18:19:08.000Z",
+          "wordCount": 347,
+          "title": "Amazon EC2 R6i インスタンスが新たに 2 つの追加リージョンで利用可能に"
+        },
+        {
+          "id": "aa87ff6ac19051ff1fb5c3fee828cf4ebff9a1a2",
+          "author": "aws@amazon.com",
+          "description": "今回 Amazon Lightsail に、 世界中のオーディエンスに向けたコンテナ化アプリケーションの配信を、Lightsail Container Services から Lightsail CDN を使用することで最適化する機能が加わりました。Lightsail コンテナは、Lightsail コンソールでのほんの数クリックで、Lightsail CDN ディストリビューションのオリジンとして設定できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/lightsail-cdn-container-services/",
+          "publishedOn": "2022-01-28T18:18:21.000Z",
+          "wordCount": 268,
+          "title": "Lightsail CDN で Lightsail Container Services のオリジンとしての使用が可能に"
+        },
+        {
+          "id": "3ffee45321a03e3ef7097b57614475d953165859",
+          "author": "aws@amazon.com",
+          "description": "Amazon EFS Replication により、ファイルシステムのコピーを、同じ AWS リージョンや二次的なリージョンで最新に保つための、簡単な手段が提供されます。Amazon EFS Replication を使用するお客様は、ファイルデータのレプリケーションを数クリックで行えるようになります。データ変更のモニタリングや同期のための、追加インフラストラクチャーやカスタムプロセスを、手動でプロビジョニングする必要はありません。Amazon EFS Replication は、目標復旧時点 (RPO) と目標復旧時間 (RTO) に分単位で対応するように設計されているため、事業の継続性に加えて、コンプライアンス上の要件を達成することも可能にします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/",
+          "publishedOn": "2022-01-28T18:17:33.000Z",
+          "wordCount": 308,
+          "title": "Amazon Elastic File System Replication の発表"
+        },
+        {
+          "id": "c856cf7c9717017d5f6b4dd90660f224be66f97b",
+          "author": "aws@amazon.com",
+          "description": "Contact Lens for Amazon Connect に、新しくカスタム語彙の機能が加わりました。この機能は、Contact Lens の音声テキスト化エンジンが持つ語彙を拡張するので、各ビジネスの現場では、製品名、ブランド名、そしてドメイン固有の用語に関する音声認識能力が向上します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/",
+          "publishedOn": "2022-01-28T18:16:45.000Z",
+          "wordCount": 245,
+          "title": "Contact Lens for Amazon Connect で文字起こしの精度をチューニングするためのカスタム語彙がサポートされました"
+        },
+        {
+          "id": "8520fa974f30136ddb38822f494602d29347b0d7",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 File Gateway で、スケジュールベースのネットワーク帯域幅のスロットリングがサポートされるようになりました。これにより、データセンターと Amazon S3 ストレージ間のネットワーク使用を、データ同期のために最適化できます。インターネットもしくは DirectConnect アクセスを、他のオンプレミスアプリケーションやユーザーと共有しているお客様は、今後、S3 File Gateway が帯域幅を使用するタイミングとその量を、スケジュールできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/",
+          "publishedOn": "2022-01-28T18:15:57.000Z",
+          "wordCount": 261,
+          "title": "Amazon S3 File Gateway がスケジュールベースのネットワーク帯域幅スロットリングを追加"
+        },
+        {
+          "id": "cddcf5da143eea2a0cba84e1b028c2e5d1fed2a3",
+          "author": "aws@amazon.com",
+          "description": "Amazon GuardDuty は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターアクティビティを継続的にモニタリングおよびプロファイリングして、コンテナワークロードに対する潜在的な脅威を表す悪意のあるまたは疑わしい動作を特定するためにカバレッジを拡張しました。Amazon GuardDuty for EKS Protection は、アカウント内の既存および新規の Amazon EKS クラスターからの Kubernetes 監査ログを分析することにより、コントロールプレーンのアクティビティをモニタリングします。GuardDuty は Amazon EKS と統合されているため、これらのログをオンにしたり保存したりしなくても、Kubernetes 監査ログに直接アクセスできます。脅威が検出されると、GuardDuty は、ポッド ID、コンテナイメージ ID、関連するタグなどのコンテナの詳細を含むセキュリティ検出結果を生成します。 GuardDuty for EKS Protection は、すべての新規および既存の GuardDuty アカウントでデフォルトで有効になり、GuardDuty または Amazon EKS で追加設定する必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/",
+          "publishedOn": "2022-01-28T12:33:45.000Z",
+          "wordCount": 325,
+          "title": "Amazon GuardDuty が Amazon Elastic Kubernetes Service クラスターの保護を開始"
+        },
+        {
+          "id": "996533586917ad5613f5598944b117a19c415787",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 R5b インスタンスが AWS アジアパシフィック (ソウル) リージョンでご利用いただけるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。R5b インスタンスは、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを実現し、R6i インスタンスと比較して 2 倍高い EBS 最適化パフォーマンスを実現します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/",
+          "publishedOn": "2022-01-28T12:32:57.000Z",
+          "wordCount": 306,
+          "title": "Amazon EC2 R5b インスタンスがアジアパシフィック (ソウル) で利用可能に"
+        },
+        {
+          "id": "219f5aa20dbc60cdd877f1090f4604a77e408714",
+          "author": "aws@amazon.com",
+          "description": "本日より、メモリに最適化された Amazon EC2 X2iezn インスタンスをご利用いただけるようになりました。Amazon EC2 X2iezn インスタンスは、インテル Xeon スケーラブルプロセッサの第 2 世代を搭載し、最大 4.5 GHz のオールコアターボ周波数を備えています。これはクラウドで最速です。X2iezn インスタンスは、クラウド内のインテル Xeon スケーラブルプロセッサから最高のオールコアターボ CPU パフォーマンスを実現し、さらに X1e インスタンスよりも最大 55% 優れたコンピューティングのコストパフォーマンスを実現します。これらは、Electronic Design Automation (EDA) ワークロードだけでなく、高いシングルスレッドプロセッサパフォーマンスと大きなメモリフットプリントの恩恵を受けるリレーショナルデータベースにも最適です。高いシングルスレッドコンピューティングパフォーマンスと、32:1 のメモリと vCPU 比を組み合わせることにより、X2iezn インスタンスは、物理検証、静的タイミング分析、電源サインオフ、フルチップゲートレベルシミュレーション、およびライセンスで制限されているデータベースワークロードなどの EDA ワークロードに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
+          "publishedOn": "2022-01-28T12:31:44.000Z",
+          "wordCount": 326,
+          "title": "Amazon EC2 X2iezn インスタンスのご紹介"
+        },
+        {
+          "id": "d6a3a4755f8e5fd2c121e62bb321856dd83285f4",
+          "author": "aws@amazon.com",
+          "description": "Amazon Textract は、スキャンされたドキュメントからテキスト、手書きの文字、データを自動抽出する機械学習サービスです。単純な光学文字認識 (OCR) のレベルにとどまらず、フォームやテーブルのデータも識別、理解したうえで抽出することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/",
+          "publishedOn": "2022-01-28T12:30:55.000Z",
+          "wordCount": 270,
+          "title": "Amazon Textract は、単一ページの PDF ドキュメントの同期サポートと、JPEG 2000 でエンコードされた画像を含む PDF ドキュメントのサポートを追加"
+        },
+        {
           "id": "cb3d6b534614ac6bd77aaad27dfe33130c3b66a3",
           "author": "aws@amazon.com",
           "description": "Amazon DocumentDB (MongoDB 互換) は、ミッションクリティカルな MongoDB ワークロードを運用するための、スケーラブルで高い耐久性を備えたフルマネージドデータベースサービスです。",
