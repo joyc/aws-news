@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-01-30T01:07:05.184Z</updated>
+    <updated>2022-01-31T01:04:34.906Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -252,76 +252,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/"/>
         <updated>2022-01-24T14:46:03.000Z</updated>
         <summary type="html"><![CDATA[AWS Client VPN では、VPN セッションが確立されたときに、AWS Client VPN Desktop アプリケーションにカスタマイズ可能なバナーを表示する機能をすべてのお客様にご利用いただけるようになりました。バナーテキストには、VPN アクセスを許可する前にエンドユーザーに表示されるプライバシーおよびセキュリティに関する通知を含めることができます。今後、お客様は、AWS コンソールまたは API を使用してバナーテキストを設定し、AWS Client Desktop アプリケーション (Windows v2.0.0 以降向けの AWS Client VPN、MacOS v2.0.0 以降向けの AWS Client VPN、Ubuntu Linux v2.0.0 以降向けの AWS Client VPN) で表示できるようになります。お客様は、特定のセキュリティおよびコンプライアンス要件を満たすのに役立つ最大セッション期間を設定することもできます。最大セッション期間は、VPN セッションを確立する前にエンドユーザーに再認証することを求めるトリガーです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アジアパシフィック (大阪) における Amazon RDS スナップショットの S3 へのエクスポート機能のお知らせ]]></title>
-        <id>0372b4b8c6bdab219e03ff5a40b4e70967a54c73</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/"/>
-        <updated>2022-01-24T10:31:06.000Z</updated>
-        <summary type="html"><![CDATA[アジアパシフィック (大阪) の Amazon Relational Database Service (Amazon RDS) で、分析用の効率的なオープンカラムナーストレージ形式である Apache Parquet 形式でスナップショットデータを Amazon S3 にエクスポートできるようになりました。Parquet 形式は、テキスト形式と比較して、エクスポートが最大 2 倍速く、Amazon S3 でのストレージ使用量が最大 6 倍少なくすみます。エクスポートしたデータは、Amazon Athena や Amazon SageMaker などの AWS のツール、または Apache Spark などのオープンソースのビッグデータフレームワークを使用して分析できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub が AWS Health と統合]]></title>
-        <id>770e0f40652a2f7b997400d561f1191927eb5f64</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-security-hub-health/"/>
-        <updated>2022-01-24T06:05:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub は、AWS Health と統合して、AWS Health から自動でセキュリティ関連の検出結果を受信し、AWS のセキュリティ体制の全体像を把握できるようになりました。AWS Health は、リソースのパフォーマンスと AWS のサービスおよびアカウントの可用性に関するアラートを送信します。AWS Health のアラートは一部のセキュリティトピックも対象としていますが、これらのセキュリティ関連のアラートは Security Hub に送信されるようになりました。AWS Health からのセキュリティ関連のアラートの例には、漏えいした AWS アクセスキーに関するアラート、AWS のサービスに関するセキュリティアラート (既知の脆弱性が原因でアップグレードが必要な旧バージョンの Amazon RDS データベースインスタンスなど)、または AWS セキュリティサービスに関連する運用上の問題 (地域的な障害など) に関するのアラートなどがあります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しいデータセットが Meta、ブラジル宇宙機関、ラドバウド大学メディカルセンターなどのオープンデータレジストリで利用可能に]]></title>
-        <id>df9d2ac5840dcef3274147c9807a0c6ae77ad5e2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/new-datasets-registry-open-data/"/>
-        <updated>2022-01-24T06:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Meta、ブラジル宇宙機関、ラドバウド大学メディカルセンターなどからの 19 の新規または更新されたデータセットが、以下のカテゴリのオープンデータレジストリで利用可能ですのでご一読ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Rekognition により、動画のコンテンツモデレーションの精度が向上]]></title>
-        <id>9418793dff2ea69dc1e2c19055632c63c8ffef04</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/"/>
-        <updated>2022-01-24T06:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Rekognition のコンテンツモデレーションは深層学習に基づき、不適切、迷惑、または不快な画像や動画を検出できる機能で、コンテンツの検索と削除をより簡単かつ大規模に行えるようになります。Amazon Rekognition は、35 のサブカテゴリーと 10 の異なるトップレベルのモデレーションカテゴリーにまたがる詳細な分類法を提供しています。2021 年 11 月 5 日、真に安全でないコンテンツの検出率を下げることなく、すべてのモデレーションカテゴリー、特に「露骨なヌード」の誤検出率を減らす、画像モデレーションのモデルを改良したアップデートを発表しました。誤検出率が低下したので、追加の検討を要する画像のボリュームを削減でき、手作業の効率を向上し、コスト削減に結びつきます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 のお客様は EC2 Instance Connect の認証で ED25519 キーが使用可能に]]></title>
-        <id>32e59e8530e97508e1fdb0770ed04d30fbb664d6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/ed25519-keys-authentication-ec2-instance-connect/"/>
-        <updated>2022-01-24T06:02:49.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS のお客様は、コマンドラインインターフェイスから EC2 Instance Connect および EC2 シリアルコンソールを使用して EC2 インスタンスに接続する際に、ED25519 キーを使用してアイデンティティを証明することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat OpenShift Service on AWS (ROSA) がアジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>f62a7628caad61ec4c39cb239930b26b0626462f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/red-hat-openshift-service-aws-rosa-osaka/"/>
-        <updated>2022-01-24T06:02:01.000Z</updated>
-        <summary type="html"><![CDATA[本日、Red Hat OpenShift Service on AWS (ROSA) のアジアパシフィック (大阪) リージョンでの提供開始を発表します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda がイベントソースとして Amazon MSK、Apache Kafka、Amazon MQ for Apache Active MQ、RabbitMQ の Max Batching Window をサポート]]></title>
-        <id>b4bd3147726de2031781189c0c25c2addc1508a4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/"/>
-        <updated>2022-01-24T06:01:13.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda では、デベロッパーがコスト最適化のために Lambda 呼び出しを微調整できる新機能である Max Batching Window のサポートを開始しました。この機能により、Amazon MSK、Apache Kafka、Amazon MQ for Apache Active MQ、RabbitMQ からのデータをイベントソースとして処理する際に、バッチ処理動作の制御ができるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
