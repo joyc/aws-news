@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-01T01:09:11.505Z</updated>
+    <updated>2022-02-02T01:07:22.828Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>d9fd6369c0a7efb24e0ab725ac9c02a16c1f5c9c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/"/>
+        <updated>2022-02-01T20:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face (「モデルの動物園」とも呼ばれます) の定評あるモデルコレクションと 16 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決でき、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>547e4d8fbb6532f9e3ffd0c491780a9592ccbd6a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/"/>
+        <updated>2022-02-01T20:31:15.000Z</updated>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>da3fd13122226c0849341efbe6983240620ec34f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/"/>
+        <updated>2022-02-01T18:48:41.000Z</updated>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>62168df8196e1dfc369ad4638409c6e2e4acec97</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/"/>
+        <updated>2022-02-01T18:46:52.000Z</updated>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight に日時の比較計算と累積計算を追加]]></title>
+        <id>43a2046dd443cb255abd3f68352f2c8cb91d297c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-quicksight-comparative-cumulative-date-time-calculations/"/>
+        <updated>2022-02-01T04:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight で、期間を比較 (前年比など) および累積 (年累計) する関数がサポートされるようになりました。これらの新しい関数により、QuickSight の作成者は複雑な行オフセットや事前に計算された列を使用しなくても、高度な日時計算を迅速に実装できます。そのため、これらの計算を定期的なビジネスレポートの作成、傾向分析、時系列分析に組み込むことができます。詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Managed Workflows for Apache Airflow (MWAA) が Apache Airflow バージョン 2.2 およびウェブサーバープラグインのサポートを開始]]></title>
+        <id>7f31b8541849cd41864b9e6949e35d9ae3ba3602</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/"/>
+        <updated>2022-02-01T04:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Workflows for Apache Airflow (MWAA) で Apache Airflow 2.2 環境を作成できるようになりました。Apache Airflow 2.2 は、お客様がワークフローをオーサリング、スケジュール、および監視するのに役立つ、人気のあるオープンソースツールの最新バージョンです。 さらに MWAA は、2.2 環境から、Airflow ウェブサーバーに Python 要件、プロバイダーパッケージ、およびプラグインをインストールします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が Amazon Fraud Detector モデル用に予測の説明の提供開始を発表]]></title>
+        <id>aa433fc7f5cb09eb62d1cb64d7c85e6b6b2d9d60</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-prediction-explanations-amazon-fraud-detector/"/>
+        <updated>2022-02-01T04:03:30.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、Amazon Fraud Detector 機械学習 (ML) モデル用に予測の説明の提供を開始しました。予測の説明は、AWS コンソールと SDK の両方でご利用いただけます。 予測の説明では不正スコアに対する予測子 (入力変数) の影響が報告されるため、お客様は ML モデルの特定の不正スコアがどのように算出されたのかをより詳しく把握できます。Amazon Fraud Detector (AFD) は、偽アカウントの作成やオンライン決済詐欺といった、不正の疑いのあるオンライン活動を簡単に特定できるフルマネージドサービスです。内部で機械学習を使用し、20 年を超える期間にわたって蓄積してきた AFD の不正検出の専門知識に基づいて、潜在的な不正行為をミリ秒単位で自動的に識別します。機械学習の専門知識は必要ありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Greengrass がカナダ (中部) リージョンで利用可能に]]></title>
+        <id>3dee435e62db6820940c9d040ae7fdc3d29649bb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-greengrass-available-canada-central-region/"/>
+        <updated>2022-02-01T04:02:42.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Greengrass がカナダ (中部) リージョンで利用可能になりました。AWS IoT Greengrass は、モノのインターネット (IoT) のエッジランタイムおよびクラウドサービスであり、お客様のデバイスソフトウェアの構築、デプロイ、および管理を支援します。AWS IoT Greengrass を使用すると、コネクテッドデバイスがインターネットに接続されていない場合でも、AWS Lambda 関数または Docker コンテナ (あるいはその両方) の実行、機械学習モデルに基づく予測の実行、デバイスデータの同期の維持、他のデバイスとの安全な通信を行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppFlow が SAP アプリケーションと AWS間の双方向データ転送のサポートを開始]]></title>
+        <id>a905e2897d821df9074fa844f5e8e2ada47fd15f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/"/>
+        <updated>2022-02-01T04:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon AppFlow と SAP OData API を Amazon AppFlow SAP OData connector と組み合わせて使用して、SAP ERP (ECC、S/4 HANA) と Business Warehouse (BW、BW/4HANA)でレコードを作成および更新できるようになりました。本日のリリースは、SAP OData connector を使用してデータをソースである SAP システムから読み取ることができる既存の機能に基づいています。SAP OData connector は、フローの送信先としても利用できるようになりました。これらの機能を組み合わせることで、AWS と SAP システム間の強力な双方向データ転送が可能になるとともに、AWS PrivateLink のセキュリティもオプションで提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Resilience Hub がさらに 13 の AWS リージョンで利用可能に]]></title>
+        <id>2068a523a3c96c4fa42ea55078cd1e2e00125de5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-resilience-hub-regions/"/>
+        <updated>2022-02-01T04:01:06.000Z</updated>
+        <summary type="html"><![CDATA[AWS でアプリケーションのレジリエンスを一元的に定義、検証、追跡できる AWS Resilience Hub が、新たに 13 の AWS リージョンでリリースされました。追加されたのは、米国西部 (北カリフォルニア)、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (ロンドン)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 (バーレーン)、南米 (サンパウロ) の AWS リージョンです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>6b374f82239e1c1fe6c92065e2c0ceb5186fae0d</id>
