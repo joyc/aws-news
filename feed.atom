@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-03T01:04:15.172Z</updated>
+    <updated>2022-02-04T01:04:44.730Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon SQS が標準キューのためのデッドレターキューの管理エクスペリエンスを強化 (AWS GovCloud (米国) リージョン)]]></title>
+        <id>79ffb0acadf6b6603031aa4e876b175b74e46d7e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/"/>
+        <updated>2022-02-03T16:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Queue Service (SQS) は、デッドレターキュー (DLQ) のソースキューへのリドライブを 2 つの AWS GovCloud (米国) リージョンの両方でサポートして、消費されていないメッセージのライフサイクルを適切にコントロールできるようになりました。デッドレターキューは、Amazon SQS の既存の機能で、アプリケーションが正常に消費できなかったメッセージを保存することができます。Amazon SQS コンソールで、メッセージをデッドレターキューからソースキューへ効率的にリドライブできるようになりました。DLQ リドライブは、デベロッパーのデッドレターキュー管理エクスペリエンスを強化して、消費されていないメッセージの調査、コードエラーからの回復、デッドレターキュー内メッセージの再処理が可能であることを確認してアプリケーションを構築します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が動画の背景差し替えをサポート]]></title>
+        <id>d6e85aff09a861b3089f77ee35ea5c50d2b4f951</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/"/>
+        <updated>2022-02-03T03:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK では、デベロッパーがリアルタイムの音声、動画、および画面共有をウェブアプリケーションに追加することができます。デベロッパーは、ウェブカメラの動画背景を画像に置き換えて、視覚的な干渉を減らし、視覚的プライバシーを向上させることが可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアフリカ (ケープタウン) での提供開始]]></title>
+        <id>9c339e7ddf29e52b46ca661bf40f0ac162b7981b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/"/>
+        <updated>2022-02-03T03:33:28.000Z</updated>
+        <summary type="html"><![CDATA[アフリカ (ケープタウン) AWS リージョンで Apache Kafka アプリケーションを Amazon MSK に接続できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアジアパシフィック (大阪) での提供開始]]></title>
+        <id>b9f7ace40db5a58a52ec622337002ed57958c4f5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/"/>
+        <updated>2022-02-03T03:32:40.000Z</updated>
+        <summary type="html"><![CDATA[アジアパシフィック (大阪) AWS リージョンで Apache Kafka アプリケーションを Amazon MSK に接続できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が SSD ストレージ容量の増加に対応]]></title>
+        <id>382ac93c8cce4cdfba4e7474e8c316bafa7a5fd3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/"/>
+        <updated>2022-02-03T03:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP では、ボタンをクリックするだけで SSD ストレージ容量を増加させることが可能になり、時間とともに変化するストレージニーズへの対応がよりすばやく簡単になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Panorama Appliances の Amazon.com と Amazon ビジネスでの購入が可能になりました]]></title>
+        <id>68998876fec0a2e375653caa91b4cdac3bda5229</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/"/>
+        <updated>2022-02-03T03:31:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Panorama Appliance の Amazon.com、Amazon.ca、Amazon.co.uk、Amazon.fr、Amazon.de、Amazon.it、および Amazon.es での購入が可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イベントソースとしてのAmazon MSKと自己管理型Apache KafkaのAWS Lambda自動スケーリングの改善]]></title>
         <id>edc4c8d207685dec3e89f89e176c6ff43cdbe817</id>
@@ -295,46 +355,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/"/>
         <updated>2022-01-28T18:15:57.000Z</updated>
         <summary type="html"><![CDATA[Amazon S3 File Gateway で、スケジュールベースのネットワーク帯域幅のスロットリングがサポートされるようになりました。これにより、データセンターと Amazon S3 ストレージ間のネットワーク使用を、データ同期のために最適化できます。インターネットもしくは DirectConnect アクセスを、他のオンプレミスアプリケーションやユーザーと共有しているお客様は、今後、S3 File Gateway が帯域幅を使用するタイミングとその量を、スケジュールできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon GuardDuty が Amazon Elastic Kubernetes Service クラスターの保護を開始]]></title>
-        <id>cddcf5da143eea2a0cba84e1b028c2e5d1fed2a3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/"/>
-        <updated>2022-01-28T12:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon GuardDuty は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターアクティビティを継続的にモニタリングおよびプロファイリングして、コンテナワークロードに対する潜在的な脅威を表す悪意のあるまたは疑わしい動作を特定するためにカバレッジを拡張しました。Amazon GuardDuty for EKS Protection は、アカウント内の既存および新規の Amazon EKS クラスターからの Kubernetes 監査ログを分析することにより、コントロールプレーンのアクティビティをモニタリングします。GuardDuty は Amazon EKS と統合されているため、これらのログをオンにしたり保存したりしなくても、Kubernetes 監査ログに直接アクセスできます。脅威が検出されると、GuardDuty は、ポッド ID、コンテナイメージ ID、関連するタグなどのコンテナの詳細を含むセキュリティ検出結果を生成します。 GuardDuty for EKS Protection は、すべての新規および既存の GuardDuty アカウントでデフォルトで有効になり、GuardDuty または Amazon EKS で追加設定する必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 R5b インスタンスがアジアパシフィック (ソウル) で利用可能に]]></title>
-        <id>996533586917ad5613f5598944b117a19c415787</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/"/>
-        <updated>2022-01-28T12:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 R5b インスタンスが AWS アジアパシフィック (ソウル) リージョンでご利用いただけるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。R5b インスタンスは、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを実現し、R6i インスタンスと比較して 2 倍高い EBS 最適化パフォーマンスを実現します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 X2iezn インスタンスのご紹介]]></title>
-        <id>219f5aa20dbc60cdd877f1090f4604a77e408714</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/"/>
-        <updated>2022-01-28T12:31:44.000Z</updated>
-        <summary type="html"><![CDATA[本日より、メモリに最適化された Amazon EC2 X2iezn インスタンスをご利用いただけるようになりました。Amazon EC2 X2iezn インスタンスは、インテル Xeon スケーラブルプロセッサの第 2 世代を搭載し、最大 4.5 GHz のオールコアターボ周波数を備えています。これはクラウドで最速です。X2iezn インスタンスは、クラウド内のインテル Xeon スケーラブルプロセッサから最高のオールコアターボ CPU パフォーマンスを実現し、さらに X1e インスタンスよりも最大 55% 優れたコンピューティングのコストパフォーマンスを実現します。これらは、Electronic Design Automation (EDA) ワークロードだけでなく、高いシングルスレッドプロセッサパフォーマンスと大きなメモリフットプリントの恩恵を受けるリレーショナルデータベースにも最適です。高いシングルスレッドコンピューティングパフォーマンスと、32:1 のメモリと vCPU 比を組み合わせることにより、X2iezn インスタンスは、物理検証、静的タイミング分析、電源サインオフ、フルチップゲートレベルシミュレーション、およびライセンスで制限されているデータベースワークロードなどの EDA ワークロードに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Textract は、単一ページの PDF ドキュメントの同期サポートと、JPEG 2000 でエンコードされた画像を含む PDF ドキュメントのサポートを追加]]></title>
-        <id>d6a3a4755f8e5fd2c121e62bb321856dd83285f4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/"/>
-        <updated>2022-01-28T12:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Textract は、スキャンされたドキュメントからテキスト、手書きの文字、データを自動抽出する機械学習サービスです。単純な光学文字認識 (OCR) のレベルにとどまらず、フォームやテーブルのデータも識別、理解したうえで抽出することが可能です。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
