@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-04T01:04:44.730Z</updated>
+    <updated>2022-02-05T00:57:55.556Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に]]></title>
+        <id>c078b08f8abd451b67ba15b3d2d83b6ae2b6da1a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/"/>
+        <updated>2022-02-04T20:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高く、フルマネージド型の Cassandra 互換のデータベースサービスで、FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Cassandra ワークロードをより簡単に実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppFlow が Custom Connector SDK の提供を開始]]></title>
+        <id>11c2404466d50becf97b2ac4583056f2e80d004d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/"/>
+        <updated>2022-02-04T20:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Custom Connector ソフトウェア開発キット (SDK) を使用して、Amazon AppFlow のカスタムコネクタを構築できるようになりました。SDK を使用すると、AppFlow のコネクタのライブラリに追加することで、プライベート API、オンプレミスのプロプライエタリシステム、およびその他のクラウドサービスに接続できます。オープンソースであり、Java と Python の両方で利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 のお客様が、ごみ箱を使用して、Amazon マシンイメージの誤った削除から回復することが可能に]]></title>
+        <id>bcbc50d6f63413d1a82d244bfad44ad03c4b2e51</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/"/>
+        <updated>2022-02-04T20:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon マシンイメージ (AMI) のためにごみ箱を使用して、誤った削除から回復し、ビジネス継続性のニーズを満たすことができるようになりました。これまでは、誤って AMI の登録を解除した場合、その AMI を回復することはできませんでした。ごみ箱を使用すると、保持期間を指定し、保持期間が満了する前に、必要に応じて登録解除された AMI を回復できます。回復された AMI は、削除前に持っていたタグ、許可、および暗号化ステータスなどの属性を保持し、すぐに起動に使用できます。ごみ箱から復元されなかった AMI は、保持期間が終了すると完全に削除されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Windows File Server がFedRAMPに準拠しました]]></title>
+        <id>f59414aadf55aa87bf055ab98927df71fd4e158c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/"/>
+        <updated>2022-02-04T18:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Windows File Server は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) で FedRAMP Moderateとして、GovCloud (米国西部) および GovCloud (米国東部) で FedRAMP Highとして、それぞれ承認されました。Amazon FSx for Windows File Serverは、これらのリージョンにおいて、国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) としても承認されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Lustre は FedRAMPに準拠しています]]></title>
+        <id>898b8525bb4c228b9d23bed2aea394f9512304ff</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/"/>
+        <updated>2022-02-04T18:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Lusterは、米国東部（バージニア州北部）、米国東部（オハイオ州）、米国西部（カリフォルニア州北部）、米国西部（オレゴン州）ではFedRAMPモデレートとして、AWS GovCloud（米国西部) およびAWSGovCloud（米国東部）ではFedRAMP Highとして承認されています。Amazon FSx for Lusterは、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイドImpact Level 2（DoD SRG IL-2）としても承認されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon SQS が標準キューのためのデッドレターキューの管理エクスペリエンスを強化 (AWS GovCloud (米国) リージョン)]]></title>
         <id>79ffb0acadf6b6603031aa4e876b175b74e46d7e</id>
@@ -295,66 +345,6 @@
         <id>05897f40d0a0fd7377c54bc7b708ef1dd69e4971</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/"/>
         <updated>2022-01-31T05:15:56.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MQ が FedRAMP Moderate の認証を取得]]></title>
-        <id>87a161cf0f90e9009d3cb6243a01b8b3b4edf3ab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mq-authorized-fedramp-moderate/"/>
-        <updated>2022-01-28T21:53:01.000Z</updated>
-        <summary type="html"><![CDATA[今回 Amazon MQ が、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各 AWS リージョンで、 FedRAMP Moderate の認証を取得しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 R6i インスタンスが新たに 2 つの追加リージョンで利用可能に]]></title>
-        <id>779c1eed6b4752d20466c824bacc9eb5085b936e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/"/>
-        <updated>2022-01-28T18:19:08.000Z</updated>
-        <summary type="html"><![CDATA[今後は、Amazon EC2 R6i インスタンス を、カナダ (中部) および南米 (サンパウロ) の新たな AWS リージョンでもご利用可能です。R6i インスタンスは、メモリ使用が多いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System で構築されています。これにより、実質的にホストハードウェアの全てのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。R6i インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名は Ice Lake) を搭載し、R5 インスタンスと比較して最大 15% 優れたコンピューティングのコストパフォーマンスと、インテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。これらのインスタンスは SAP 認定済みであり、SQL および noSQL データベース、Memcached や Redis などの分散ウェブスケールインメモリキャッシュ、SAP HANA などのインメモリデータベース、Hadoop や Spark クラスターなどのリアルタイムビッグデータ分析などのワークロードに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightsail CDN で Lightsail Container Services のオリジンとしての使用が可能に]]></title>
-        <id>aa87ff6ac19051ff1fb5c3fee828cf4ebff9a1a2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/lightsail-cdn-container-services/"/>
-        <updated>2022-01-28T18:18:21.000Z</updated>
-        <summary type="html"><![CDATA[今回 Amazon Lightsail に、 世界中のオーディエンスに向けたコンテナ化アプリケーションの配信を、Lightsail Container Services から Lightsail CDN を使用することで最適化する機能が加わりました。Lightsail コンテナは、Lightsail コンソールでのほんの数クリックで、Lightsail CDN ディストリビューションのオリジンとして設定できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Elastic File System Replication の発表]]></title>
-        <id>3ffee45321a03e3ef7097b57614475d953165859</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/"/>
-        <updated>2022-01-28T18:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EFS Replication により、ファイルシステムのコピーを、同じ AWS リージョンや二次的なリージョンで最新に保つための、簡単な手段が提供されます。Amazon EFS Replication を使用するお客様は、ファイルデータのレプリケーションを数クリックで行えるようになります。データ変更のモニタリングや同期のための、追加インフラストラクチャーやカスタムプロセスを、手動でプロビジョニングする必要はありません。Amazon EFS Replication は、目標復旧時点 (RPO) と目標復旧時間 (RTO) に分単位で対応するように設計されているため、事業の継続性に加えて、コンプライアンス上の要件を達成することも可能にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contact Lens for Amazon Connect で文字起こしの精度をチューニングするためのカスタム語彙がサポートされました]]></title>
-        <id>c856cf7c9717017d5f6b4dd90660f224be66f97b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/"/>
-        <updated>2022-01-28T18:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Contact Lens for Amazon Connect に、新しくカスタム語彙の機能が加わりました。この機能は、Contact Lens の音声テキスト化エンジンが持つ語彙を拡張するので、各ビジネスの現場では、製品名、ブランド名、そしてドメイン固有の用語に関する音声認識能力が向上します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 File Gateway がスケジュールベースのネットワーク帯域幅スロットリングを追加]]></title>
-        <id>8520fa974f30136ddb38822f494602d29347b0d7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/"/>
-        <updated>2022-01-28T18:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 File Gateway で、スケジュールベースのネットワーク帯域幅のスロットリングがサポートされるようになりました。これにより、データセンターと Amazon S3 ストレージ間のネットワーク使用を、データ同期のために最適化できます。インターネットもしくは DirectConnect アクセスを、他のオンプレミスアプリケーションやユーザーと共有しているお客様は、今後、S3 File Gateway が帯域幅を使用するタイミングとその量を、スケジュールできるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
