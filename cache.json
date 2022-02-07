@@ -298,33 +298,6 @@
           "publishedOn": "2022-01-31T18:31:15.000Z",
           "wordCount": 272,
           "title": "Amazon RDS for PostgreSQLとAmazon RDS on AWS OutpostsがPostgreSQL 14をサポートしました。"
-        },
-        {
-          "id": "c9956fa7458e2ff537ae305de3c3c749b5ad5d49",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、および調整します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-apache-parquet/",
-          "publishedOn": "2022-01-31T05:16:58.000Z",
-          "wordCount": 217,
-          "title": "Untitled"
-        },
-        {
-          "id": "54d0cda4ca1180692aaa3785e712aff39f9d264a",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、および調整します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-datasets-up-to-100-gb/",
-          "publishedOn": "2022-01-31T05:16:27.000Z",
-          "wordCount": 218,
-          "title": "Untitled"
-        },
-        {
-          "id": "05897f40d0a0fd7377c54bc7b708ef1dd69e4971",
-          "author": "aws@amazon.com",
-          "description": "",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/",
-          "publishedOn": "2022-01-31T05:15:56.000Z",
-          "wordCount": 238,
-          "title": "Untitled"
         }
       ]
     }
