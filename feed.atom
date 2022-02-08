@@ -2,10 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-07T01:07:02.315Z</updated>
+    <updated>2022-02-08T01:09:01.952Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect がアフリカ（ケープタウン）AWS リージョンで利用可能に]]></title>
+        <id>f16939ef272ca8077ac81b4c4e5d8336322dbf91</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-connect-africa-cape-town/"/>
+        <updated>2022-02-07T19:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect はアフリカ (ケープタウン) AWS リージョンでの利用が可能になり、Amazon Connect を利用できる AWS リージョンが 11 ヵ所に増えました。アフリカのフリーダイヤルと市内の電話番号を請求できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler により JSON および ORC データの準備、データセットの比較およびコード化、およびデータ処理ジョブの駆動をワンクリックで行う]]></title>
+        <id>f93cb075982855f2b057b02182402a6b612f079a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/json-orc-data-processing-jobs-amazon-sagemaker-data-wrangler/"/>
+        <updated>2022-02-07T19:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、および Snowflake などの複数のデータソースからデータをすばやく選択できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習によってパーソナル化された体験を維持することがビジネスドメインおよびユーザーセグメント化をサポート]]></title>
+        <id>a622c1602acd8458bb396fd9a0f9cceba3245098</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/maintaining-personalized-experiences-with-machine-learning-business-domains-user-segmentation/"/>
+        <updated>2022-02-07T19:20:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS Solutions は Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning ソリューションを更新しました。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Comprehend がカスタム Comprehend のモデルコピーを起動]]></title>
+        <id>2ceca49317f62b905f161a5ba1bd51b0cc336c4b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-comprehend-model-copy-custom/"/>
+        <updated>2022-02-07T19:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Comprehend が顧客にソース AWS アカウントからComprehend カスタム分類またはカスタムエンティティ認識モデルにコピーして同一の AWS リージョンの指定されたターゲット AWS アカウントへのモデルコピー機能性をサポートするようになりました。企業顧客および AWS パートナーはしばしば開発段階（構築、テスト、ステージ、デプロイなど）に基づいて、ビジネス機能（データサイエンス、エンジニアリングなど）に基づいて、または両方の組み合わせによりプロビジョニングされた複数の AWS アカウントを使用します。以前は、カスタム Comprehend モデルはトレーニングされた AWS アカウントでのみ使用できました。これは顧客が各 AWS アカウントにトレーニングデータセットおよび注釈をコピーして個別のモデルをトレーニングすることを求めました - これは時間がかかり、高価で、全体のデプロイ速度を減少させました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Secrets Manager がローテーションウィンドウをサポート]]></title>
+        <id>914ed61a6c73c65528b0867e0630f5164233b90a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-secrets-manager-windows/"/>
+        <updated>2022-02-07T19:18:37.000Z</updated>
+        <summary type="html"><![CDATA[AWS Secrets Manager は特定の時間ウィンドウ内でシークレットローテーションをスケジューリングする機能をサポートします。この機能により、シークレットローテーションを特定日の特定時間に限定できます。以前は、Secrets Manager は指定されたローテーションインターバルの最後の24時間内のシークレットの自動ローテーションをサポートしました。本日の起動により、マネージドローテーションの利便性とメンテナンスウィンドウの安全性との間を選択する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLOps Workload Orchestrator が Amazon SageMaker Model Explainability および Model Bias Monitoring のサポートを追加]]></title>
+        <id>d19a958784fc61ad8096c04a549c2a87e5979268</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/"/>
+        <updated>2022-02-07T19:17:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS Solutions は、パイプラインのデプロイプロセスを合理化し、機械学習 (ML) モデルのモデル操作主義のためのアーキテクチャのベストプラクティスを実施する AWS ソリューション実装である MLOps Workload Orchestrator (以前は AWS MLOps Framework として知られる) を更新しました。このソリューションは、モデルモニタリングおよびマルチアカウントガバナンスを含む複数の ML ワークフローオートメーションツールを導入する際の一般的なオペレーションの問題を解決します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift デフォルト IAM ロールが追加 AWS リージョン (KIX、CPT、MXP)で利用可能に]]></title>
+        <id>cabbeba910173713edc8a2fb0cc32c73cbfb12ca</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/"/>
+        <updated>2022-02-07T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、お客様が Redshift コンソールから IAM ロールを作成し、Amazon Redshift クラスターを作成する間にデフォルトの IAM ロールとしてそれを割り当てられるようにすることで、Amazon S3、Amazon SageMaker、AWS Lambda、Amazon Aurora、および AWS Glue などのその他のサービスの使用を簡素しました。デフォルトの IAM ロールは、IAM ロールの Amazon リソースネーム (ARN) を指定する必要性をなくすことで、他の AWS サービスにアクセスする COPY、UNLOAD、CREATE、EXTERNAL FUNCTION、CREATE EXTERNAL TABLE、CREATE EXTERNAL SCHEMA、CREATE MODEL、または CREATE LIBRARY などの SQL オペレーションの簡素化に役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core は IoT のきめ細かな診断のために、デバイスの各デバイスレベルでのロギング機能をサポートするようになりました。]]></title>
+        <id>2cbd178aa18eda497d0976cd5bba7342a8b64735</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/"/>
+        <updated>2022-02-07T19:16:12.000Z</updated>
+        <summary type="html"><![CDATA[デバイスのクライアント ID、ソース IP、または本 ID を使用して AWS IoT デバイスに特化したロギングを設定できます。現在まで、お客様はアカウントレベルで特定のモノのグループ毎にロギングを設定することができました。本日より、AWS IoT はクライアント ID、ソース IP、または本 ID を使用してきめ細かなロギングレベルの設定もサポートします。この拡張はお客様がデバイスをモノとして登録したり追加のモノのグループを定義する必要なくデバイスに特化した問題を診断することを容易にしました。お客様はさらに詳細なロギングを行うために非常に特化したリソースを目標にすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に]]></title>
+        <id>2476a7a9146e69700fb6214260c000f5e7bef99f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-keyspaces-fedramp-apache-cassandra/"/>
+        <updated>2022-02-07T18:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高く、フルマネージド型の Cassandra 互換のデータベースサービスで、FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Cassandra ワークロードをより簡単に実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ElastiCache が AWS PrivateLink のサポートを開始]]></title>
+        <id>9138b27e5f16092d0f1d175f653caf2323042d61</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/"/>
+        <updated>2022-02-07T04:35:19.000Z</updated>
+        <summary type="html"><![CDATA[AWS PrivateLink を使用して、Amazon Virtual Private Cloud (Amazon VPC) から Amazon ElastiCache へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、トラフィックをパブリックインターネットに公開することなく、ネットワークトラフィックを保護しながら、VPC、AWS のサービス、およびオンプレミスネットワーク間のプライベート接続を提供します。Amazon ElastiCache API は、Amazon ElastiCache が利用可能なすべてのリージョンで AWS PrivateLink をサポートしています。詳細な一覧については、サポートされているリージョンを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for OpenZFS で、データのクローン作成および試行を容易にするフルコピーボリュームのサポートを開始]]></title>
+        <id>f72619b0e76b3d0a8d002016f4a1f843a1f0eac5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/"/>
+        <updated>2022-02-07T04:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for OpenZFS で、データのクローン作成および試行を容易にするフルコピーボリュームのサポートを開始しました。これにより、クローン作成に基づくテストの結果をすばやくキャプチャし、それを長期間利用できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MariaDB が MariaDB 10.6 のサポートを開始]]></title>
+        <id>13b42943069e70e060fad85c190b9f888c29e960</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-mariadb-10-6/"/>
+        <updated>2022-02-07T04:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS for MariaDB が MariaDB バージョン 10.6 のサポートを開始しました。このリリースでは、ワークロードのパフォーマンス、スケーラビリティ、信頼性、および管理性を強化するために、次のような複数の MariaDB 機能が導入されています。
+ 
+ 
+ 
+MyRocks ストレージエンジン: RDS for MariaDB で MyRocks ストレージエンジンを使用して、書き込みが集中する高性能ウェブアプリケーションのストレージ消費量を最適化できます。
+ 
+ 
+IAM 統合: Amazon RDS for MariaDB インスタンスで AWS の Identity and Access Management (IAM) を設定し、AWS リソースのアクセス管理を簡素化できるようになりました。IAM を使用すると、すべての AWS リソースへのユーザーアクセスを一元管理することができ、別の AWS リソースと同期していないアクセス許可に起因する問題を避けられます。
+ 
+ 
+柔軟なアップグレード: 以前の MariaDB メジャーリリース (10.2、10.3、10.4、10.5) から RDS for MariaDB 10.6 にワンステップでアップグレードすることが可能です。また、既存の MySQL 5.6 または 5.7 インスタンスのスナップショットを取得し、RDS のスナップショット復元機能を使用して、それを MariaDB 10.6 インスタンスに変換することもできます。
+ 
+ 
+遅延レプリケーション: 災害対策戦略として、リードレプリカをソースデータベースから遅らせる設定可能な期間を設定できるようになりました。MariaDB レプリケーションの標準設定では、ソースとレプリカの間のレプリケーション遅延が最小限に抑えられます。
+ 
+ 
+Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()、ADD_MONTHS() など) を増やすことで、従来の Oracle ストアドプロシージャをそのまま RDS for MariaDB 10.6 に移行できます。
+ 
+ 
+アトミック DDL: DDL ステートメントは、RDS for MariaDB 10.6 ではクラッシュセーフになります。CREATE TABLE、ALTER TABLE、RENAME TABLE、DROP TABLE、DROP DATABASE、および関連する DDL ステートメントがアトミックになりました。以前は、DDL 操作中にクラッシュすると、結果が確定せず、レプリケーション中にエラーが発生する場合がありました。アトミック DDL では、DDL 操作が完全に実行されるか、まったく実行されないかのいずれかです。したがって、DDL 操作中のクラッシュからの復旧は決定論的であり、どのようなサーバークラッシュでも binlog の一貫性が保たれます。
+ 
+ 
+その他の機能強化: JSON_TABLE 関数による SQL 内の JSON データのリレーショナル形式への変換、Innodb による空のテーブルデータの読み込みの高速化、新しい sys_schema による分析とトラブルシューティング、オプティマイザーの機能強化による未使用のインデックスの無視、およびパフォーマンスの向上。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MemoryDB for Redis が AWS PrivateLink のサポートを開始]]></title>
+        <id>9e7dd5c8f1abd86279e00a58aaeebf8df4c41ccc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/"/>
+        <updated>2022-02-07T04:31:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS PrivateLink を使用して、Amazon Virtual Private Cloud (Amazon VPC) から Amazon MemoryDB for Redis へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、トラフィックをパブリックインターネットに公開することなく、ネットワークトラフィックを保護しながら、VPC、AWS のサービス、およびオンプレミスネットワーク間のプライベート接続を提供します。Amazon MemoryDB for Redis API は、Amazon MemoryDB for Redis が利用可能なすべてのリージョンで AWS PrivateLink をサポートしています。詳細な一覧については、サポートされているリージョンを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に]]></title>
         <id>c078b08f8abd451b67ba15b3d2d83b6ae2b6da1a</id>
@@ -179,143 +331,6 @@
         <id>62168df8196e1dfc369ad4638409c6e2e4acec97</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/"/>
         <updated>2022-02-01T18:46:52.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight に日時の比較計算と累積計算を追加]]></title>
-        <id>43a2046dd443cb255abd3f68352f2c8cb91d297c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-quicksight-comparative-cumulative-date-time-calculations/"/>
-        <updated>2022-02-01T04:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight で、期間を比較 (前年比など) および累積 (年累計) する関数がサポートされるようになりました。これらの新しい関数により、QuickSight の作成者は複雑な行オフセットや事前に計算された列を使用しなくても、高度な日時計算を迅速に実装できます。そのため、これらの計算を定期的なビジネスレポートの作成、傾向分析、時系列分析に組み込むことができます。詳細については、こちらをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Workflows for Apache Airflow (MWAA) が Apache Airflow バージョン 2.2 およびウェブサーバープラグインのサポートを開始]]></title>
-        <id>7f31b8541849cd41864b9e6949e35d9ae3ba3602</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/"/>
-        <updated>2022-02-01T04:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Workflows for Apache Airflow (MWAA) で Apache Airflow 2.2 環境を作成できるようになりました。Apache Airflow 2.2 は、お客様がワークフローをオーサリング、スケジュール、および監視するのに役立つ、人気のあるオープンソースツールの最新バージョンです。 さらに MWAA は、2.2 環境から、Airflow ウェブサーバーに Python 要件、プロバイダーパッケージ、およびプラグインをインストールします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Amazon Fraud Detector モデル用に予測の説明の提供開始を発表]]></title>
-        <id>aa433fc7f5cb09eb62d1cb64d7c85e6b6b2d9d60</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-prediction-explanations-amazon-fraud-detector/"/>
-        <updated>2022-02-01T04:03:30.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、Amazon Fraud Detector 機械学習 (ML) モデル用に予測の説明の提供を開始しました。予測の説明は、AWS コンソールと SDK の両方でご利用いただけます。 予測の説明では不正スコアに対する予測子 (入力変数) の影響が報告されるため、お客様は ML モデルの特定の不正スコアがどのように算出されたのかをより詳しく把握できます。Amazon Fraud Detector (AFD) は、偽アカウントの作成やオンライン決済詐欺といった、不正の疑いのあるオンライン活動を簡単に特定できるフルマネージドサービスです。内部で機械学習を使用し、20 年を超える期間にわたって蓄積してきた AFD の不正検出の専門知識に基づいて、潜在的な不正行為をミリ秒単位で自動的に識別します。機械学習の専門知識は必要ありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Greengrass がカナダ (中部) リージョンで利用可能に]]></title>
-        <id>3dee435e62db6820940c9d040ae7fdc3d29649bb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-greengrass-available-canada-central-region/"/>
-        <updated>2022-02-01T04:02:42.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Greengrass がカナダ (中部) リージョンで利用可能になりました。AWS IoT Greengrass は、モノのインターネット (IoT) のエッジランタイムおよびクラウドサービスであり、お客様のデバイスソフトウェアの構築、デプロイ、および管理を支援します。AWS IoT Greengrass を使用すると、コネクテッドデバイスがインターネットに接続されていない場合でも、AWS Lambda 関数または Docker コンテナ (あるいはその両方) の実行、機械学習モデルに基づく予測の実行、デバイスデータの同期の維持、他のデバイスとの安全な通信を行うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon AppFlow が SAP アプリケーションと AWS間の双方向データ転送のサポートを開始]]></title>
-        <id>a905e2897d821df9074fa844f5e8e2ada47fd15f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/"/>
-        <updated>2022-02-01T04:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon AppFlow と SAP OData API を Amazon AppFlow SAP OData connector と組み合わせて使用して、SAP ERP (ECC、S/4 HANA) と Business Warehouse (BW、BW/4HANA)でレコードを作成および更新できるようになりました。本日のリリースは、SAP OData connector を使用してデータをソースである SAP システムから読み取ることができる既存の機能に基づいています。SAP OData connector は、フローの送信先としても利用できるようになりました。これらの機能を組み合わせることで、AWS と SAP システム間の強力な双方向データ転送が可能になるとともに、AWS PrivateLink のセキュリティもオプションで提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resilience Hub がさらに 13 の AWS リージョンで利用可能に]]></title>
-        <id>2068a523a3c96c4fa42ea55078cd1e2e00125de5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-resilience-hub-regions/"/>
-        <updated>2022-02-01T04:01:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS でアプリケーションのレジリエンスを一元的に定義、検証、追跡できる AWS Resilience Hub が、新たに 13 の AWS リージョンでリリースされました。追加されたのは、米国西部 (北カリフォルニア)、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (ロンドン)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 (バーレーン)、南米 (サンパウロ) の AWS リージョンです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>6b374f82239e1c1fe6c92065e2c0ceb5186fae0d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/"/>
-        <updated>2022-01-31T19:02:42.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>f23635d152a09f16f23b61c79ce028382d1fdf2d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/"/>
-        <updated>2022-01-31T19:01:54.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>5c5e76ecd134ccd22d2a64848f347352f252d176</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/"/>
-        <updated>2022-01-31T19:01:14.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS PrivateLinkのメトリクスの提供を開始]]></title>
-        <id>ee66713917940cbeeda48dafb73bebb0627a5055</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/metrics-aws-privatelink/"/>
-        <updated>2022-01-31T18:34:27.000Z</updated>
-        <summary type="html"><![CDATA[PrivateLinkベースのVPCエンドポイントおよびエンドポイントサービスに関する5つの新しいメトリクスにアクセスできるようになりました。AWS PrivateLinkは、フルマネージド型のプライベート接続サービスで、お客様はネットワークトラフィックを非公開にしたまま、AWS上でホストされているAWSサービスやサードパーティサービス、企業内サービスに安全かつ拡張性の高い方法でアクセスできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSアジアパシフィック（大阪）でAmazon EC2 G4dnインスタンスの提供を開始]]></title>
-        <id>6037c3f1725657abbd874b79924e7287b7bf2da8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/"/>
-        <updated>2022-01-31T18:33:40.000Z</updated>
-        <summary type="html"><![CDATA[機械学習モデルを本番環境に導入するためのコスト効率の高いGPUプラットフォームを提供するAmazon EC2 G4dnインスタンスが、アジアパシフィック（大阪）AWSリージョンで利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS Performance InsightsがRDS for Oracleのクエリ実行プランキャプチャをサポートするようになりました。]]></title>
-        <id>9c41d31b96548072fe44433fc1ee46adf4101e5d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/"/>
-        <updated>2022-01-31T18:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS Performance Insights は、Amazon RDS for Oracleのクエリ実行プランの収集と追跡をサポートするようになり、クエリ実行プランの変更がパフォーマンスの悪化やスタックの原因であるかどうかをより容易に特定できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS アジアパシフィック (大阪) リージョンで Amazon Elastic File System (Amazon EFS) が利用可能に]]></title>
-        <id>70c1328cc50113b9f93f24c5fe798bca8ebf07a6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/"/>
-        <updated>2022-01-31T18:32:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS アジアパシフィック (大阪) リージョンのお客様に、Amazon Elastic File System (Amazon EFS) をご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQLとAmazon RDS on AWS OutpostsがPostgreSQL 14をサポートしました。]]></title>
-        <id>23f48bba3220a7cd0812b695b6c1093bb2aacecc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/"/>
-        <updated>2022-01-31T18:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS for PostgreSQL)とAmazon RDS on AWS OutpostsがPostgreSQLメジャーバージョン14をサポートするようになりました。 PostgreSQL 14 は、並列クエリ、重同期ワークロード、パーティション化されたテーブル、論理レプリケーション、およびバキューム処理に関する性能改善を含んでいます。PostgreSQL 14では、クライアントが切断された場合に長時間実行中のクエリをキャンセルしたり、アイドル状態のセッションをタイムアウトさせて終了させたり、ストアドプロシージャがデータを返したりといった新機能も追加され、機能性が向上しています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
