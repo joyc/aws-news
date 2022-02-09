@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-08T01:09:01.952Z</updated>
+    <updated>2022-02-09T01:12:24.691Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -264,73 +264,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/"/>
         <updated>2022-02-03T03:31:05.000Z</updated>
         <summary type="html"><![CDATA[AWS Panorama Appliance の Amazon.com、Amazon.ca、Amazon.co.uk、Amazon.fr、Amazon.de、Amazon.it、および Amazon.es での購入が可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イベントソースとしてのAmazon MSKと自己管理型Apache KafkaのAWS Lambda自動スケーリングの改善]]></title>
-        <id>edc4c8d207685dec3e89f89e176c6ff43cdbe817</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/"/>
-        <updated>2022-02-02T08:31:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambdaは、パフォーマンスを向上させ、顧客のコストを削減するために、イベントソースとしてAmazon MSKと自己管理型Kafkaの自動スケーリングの改善を開始しました。Lambdaは1人のコンシューマーから開始し、OffsetLagメトリック（ソースでのバックログの測定値）を1分ごとにチェックし、3分ごとにスケールアップまたはスケールダウンします。Lambdaでは、Kafkaクラスターのトピックごとにパーティションごとに最大1つのコンシューマーを使用できます。以前は、Lambdaは最大コンシューマー数の50％でKafkaクラスターとの接続を開始し、OffsetLagをチェックし、15分ごとにコンシューマーをスケールアップしていました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Chatは、最大7日間の設定可能なチャット期間をサポートするようになりました]]></title>
-        <id>6378b4547cf3ebf9af655e54c9521fd1f2bfe10d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/"/>
-        <updated>2022-02-02T02:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connectでは、チャット期間を1時間から7日まで設定できるようになりました。これにより、顧客が有効期限が切れる前にチャットインタラクションを再開する必要がある期間を定義できます。Amazon Connectでチャットの期間を設定するには、StartChatContact APIを呼び出して新しいチャット連絡先を作成するときに、オプションの新しいパラメーターを追加するだけです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lexは、会話入力の複数のトランスクリプトと信頼スコアのサポートを起動します]]></title>
-        <id>18394ae8fd9685f4b1853bc98bccc774befbd45f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/"/>
-        <updated>2022-02-02T02:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。会話入力の複数のトランスクリプトと信頼スコアのサポートを発表できることをうれしく思います。トランスクリプトは、ユーザーの会話入力の代替解釈を提供します。各トランスクリプトは、一致の可能性を示す信頼スコアに関連付けられています。トランスクリプトと信頼スコアを使用して、会話のデザインを強化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>d9fd6369c0a7efb24e0ab725ac9c02a16c1f5c9c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/"/>
-        <updated>2022-02-01T20:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face (「モデルの動物園」とも呼ばれます) の定評あるモデルコレクションと 16 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決でき、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>547e4d8fbb6532f9e3ffd0c491780a9592ccbd6a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/"/>
-        <updated>2022-02-01T20:31:15.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>da3fd13122226c0849341efbe6983240620ec34f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/"/>
-        <updated>2022-02-01T18:48:41.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>62168df8196e1dfc369ad4638409c6e2e4acec97</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/"/>
-        <updated>2022-02-01T18:46:52.000Z</updated>
         <author>
             <name>aws@amazon.com</name>
         </author>

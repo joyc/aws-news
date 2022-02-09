@@ -226,69 +226,6 @@
           "publishedOn": "2022-02-03T03:31:05.000Z",
           "wordCount": 293,
           "title": "AWS Panorama Appliances の Amazon.com と Amazon ビジネスでの購入が可能になりました"
-        },
-        {
-          "id": "edc4c8d207685dec3e89f89e176c6ff43cdbe817",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambdaは、パフォーマンスを向上させ、顧客のコストを削減するために、イベントソースとしてAmazon MSKと自己管理型Kafkaの自動スケーリングの改善を開始しました。Lambdaは1人のコンシューマーから開始し、OffsetLagメトリック（ソースでのバックログの測定値）を1分ごとにチェックし、3分ごとにスケールアップまたはスケールダウンします。Lambdaでは、Kafkaクラスターのトピックごとにパーティションごとに最大1つのコンシューマーを使用できます。以前は、Lambdaは最大コンシューマー数の50％でKafkaクラスターとの接続を開始し、OffsetLagをチェックし、15分ごとにコンシューマーをスケールアップしていました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/",
-          "publishedOn": "2022-02-02T08:31:12.000Z",
-          "wordCount": 219,
-          "title": "イベントソースとしてのAmazon MSKと自己管理型Apache KafkaのAWS Lambda自動スケーリングの改善"
-        },
-        {
-          "id": "6378b4547cf3ebf9af655e54c9521fd1f2bfe10d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connectでは、チャット期間を1時間から7日まで設定できるようになりました。これにより、顧客が有効期限が切れる前にチャットインタラクションを再開する必要がある期間を定義できます。Amazon Connectでチャットの期間を設定するには、StartChatContact APIを呼び出して新しいチャット連絡先を作成するときに、オプションの新しいパラメーターを追加するだけです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/",
-          "publishedOn": "2022-02-02T02:02:10.000Z",
-          "wordCount": 224,
-          "title": "Amazon Connect Chatは、最大7日間の設定可能なチャット期間をサポートするようになりました"
-        },
-        {
-          "id": "18394ae8fd9685f4b1853bc98bccc774befbd45f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。会話入力の複数のトランスクリプトと信頼スコアのサポートを発表できることをうれしく思います。トランスクリプトは、ユーザーの会話入力の代替解釈を提供します。各トランスクリプトは、一致の可能性を示す信頼スコアに関連付けられています。トランスクリプトと信頼スコアを使用して、会話のデザインを強化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/",
-          "publishedOn": "2022-02-02T02:01:14.000Z",
-          "wordCount": 217,
-          "title": "Amazon Lexは、会話入力の複数のトランスクリプトと信頼スコアのサポートを起動します"
-        },
-        {
-          "id": "d9fd6369c0a7efb24e0ab725ac9c02a16c1f5c9c",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face (「モデルの動物園」とも呼ばれます) の定評あるモデルコレクションと 16 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決でき、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/",
-          "publishedOn": "2022-02-01T20:33:07.000Z",
-          "wordCount": 227,
-          "title": "Untitled"
-        },
-        {
-          "id": "547e4d8fbb6532f9e3ffd0c491780a9592ccbd6a",
-          "author": "aws@amazon.com",
-          "description": "",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/",
-          "publishedOn": "2022-02-01T20:31:15.000Z",
-          "wordCount": 216,
-          "title": "Untitled"
-        },
-        {
-          "id": "da3fd13122226c0849341efbe6983240620ec34f",
-          "author": "aws@amazon.com",
-          "description": "",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/",
-          "publishedOn": "2022-02-01T18:48:41.000Z",
-          "wordCount": 206,
-          "title": "Untitled"
-        },
-        {
-          "id": "62168df8196e1dfc369ad4638409c6e2e4acec97",
-          "author": "aws@amazon.com",
-          "description": "",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/",
-          "publishedOn": "2022-02-01T18:46:52.000Z",
-          "wordCount": 233,
-          "title": "Untitled"
         }
       ]
     }
