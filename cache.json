@@ -181,51 +181,6 @@
           "publishedOn": "2022-02-03T16:15:57.000Z",
           "wordCount": 250,
           "title": "Amazon SQS が標準キューのためのデッドレターキューの管理エクスペリエンスを強化 (AWS GovCloud (米国) リージョン)"
-        },
-        {
-          "id": "d6e85aff09a861b3089f77ee35ea5c50d2b4f951",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK では、デベロッパーがリアルタイムの音声、動画、および画面共有をウェブアプリケーションに追加することができます。デベロッパーは、ウェブカメラの動画背景を画像に置き換えて、視覚的な干渉を減らし、視覚的プライバシーを向上させることが可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/",
-          "publishedOn": "2022-02-03T03:34:16.000Z",
-          "wordCount": 260,
-          "title": "Amazon Chime SDK が動画の背景差し替えをサポート"
-        },
-        {
-          "id": "9c339e7ddf29e52b46ca661bf40f0ac162b7981b",
-          "author": "aws@amazon.com",
-          "description": "アフリカ (ケープタウン) AWS リージョンで Apache Kafka アプリケーションを Amazon MSK に接続できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/",
-          "publishedOn": "2022-02-03T03:33:28.000Z",
-          "wordCount": 266,
-          "title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアフリカ (ケープタウン) での提供開始"
-        },
-        {
-          "id": "b9f7ace40db5a58a52ec622337002ed57958c4f5",
-          "author": "aws@amazon.com",
-          "description": "アジアパシフィック (大阪) AWS リージョンで Apache Kafka アプリケーションを Amazon MSK に接続できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/",
-          "publishedOn": "2022-02-03T03:32:40.000Z",
-          "wordCount": 266,
-          "title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアジアパシフィック (大阪) での提供開始"
-        },
-        {
-          "id": "382ac93c8cce4cdfba4e7474e8c316bafa7a5fd3",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for NetApp ONTAP では、ボタンをクリックするだけで SSD ストレージ容量を増加させることが可能になり、時間とともに変化するストレージニーズへの対応がよりすばやく簡単になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/",
-          "publishedOn": "2022-02-03T03:31:52.000Z",
-          "wordCount": 264,
-          "title": "Amazon FSx for NetApp ONTAP が SSD ストレージ容量の増加に対応"
-        },
-        {
-          "id": "68998876fec0a2e375653caa91b4cdac3bda5229",
-          "author": "aws@amazon.com",
-          "description": "AWS Panorama Appliance の Amazon.com、Amazon.ca、Amazon.co.uk、Amazon.fr、Amazon.de、Amazon.it、および Amazon.es での購入が可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/",
-          "publishedOn": "2022-02-03T03:31:05.000Z",
-          "wordCount": 293,
-          "title": "AWS Panorama Appliances の Amazon.com と Amazon ビジネスでの購入が可能になりました"
         }
       ]
     }
