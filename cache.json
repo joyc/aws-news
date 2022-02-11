@@ -172,15 +172,6 @@
           "publishedOn": "2022-02-04T18:46:03.000Z",
           "wordCount": 266,
           "title": "Amazon FSx for Lustre は FedRAMPに準拠しています"
-        },
-        {
-          "id": "79ffb0acadf6b6603031aa4e876b175b74e46d7e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Simple Queue Service (SQS) は、デッドレターキュー (DLQ) のソースキューへのリドライブを 2 つの AWS GovCloud (米国) リージョンの両方でサポートして、消費されていないメッセージのライフサイクルを適切にコントロールできるようになりました。デッドレターキューは、Amazon SQS の既存の機能で、アプリケーションが正常に消費できなかったメッセージを保存することができます。Amazon SQS コンソールで、メッセージをデッドレターキューからソースキューへ効率的にリドライブできるようになりました。DLQ リドライブは、デベロッパーのデッドレターキュー管理エクスペリエンスを強化して、消費されていないメッセージの調査、コードエラーからの回復、デッドレターキュー内メッセージの再処理が可能であることを確認してアプリケーションを構築します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/",
-          "publishedOn": "2022-02-03T16:15:57.000Z",
-          "wordCount": 250,
-          "title": "Amazon SQS が標準キューのためのデッドレターキューの管理エクスペリエンスを強化 (AWS GovCloud (米国) リージョン)"
         }
       ]
     }
