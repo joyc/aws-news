@@ -12,6 +12,168 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "69a3f222c6345a5c776ccaf39506c811d6fa64a8",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS 請求コンソールの新しいホームページ使用体験が追加され、AWS の料金が一目でわかります。AWS 請求コンソールを使用すると、AWS の支出を簡単に理解し、請求書を表示して支払い、請求の詳細設定と税に関する設定を管理し、追加の Cloud Financial Management サービスにアクセスできます。この請求コンソールのホームページは、財務、DevOps、または FinOps のユーザーが AWS の支出を速やかに把握し、最も影響が大きい要因を特定するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-billing-console-home/",
+          "publishedOn": "2022-02-11T19:16:04.000Z",
+          "wordCount": 242,
+          "title": "新しい AWS 請求コンソールのホームページ使用体験を発表"
+        },
+        {
+          "id": "e1d424c95cef41da9ccaa003092f6d9bd9044c06",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard では、Red Hat Enterprise Linux バージョン 7.7 と 7.9で SAP をデプロイできるようになりました。これにより、最新の RHEL オペレーティングシステム (OS) バージョンを利用して、AWS で実行されている SAP システムをサポートできます。さらに、今回のリリースでは、既存の RHEL サブスクリプションを導入し、Launch Wizard を使用した新しい SAP デプロイメントもサポートできます。 これにより、AWS Marketplace で提供されるライセンス込みのイメージ、またはRed Hat Cloud Access プログラムのイメージを柔軟に選択することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/",
+          "publishedOn": "2022-02-11T11:36:00.000Z",
+          "wordCount": 301,
+          "title": "AWS Launch Wizard が Red Hat Enterprise Linux の最新バージョンのサポートを開始、またサブスクリプションの持ち込み (BYOS) も可能に"
+        },
+        {
+          "id": "afda5a5acfb62aa33951c009736b16491c3f54c4",
+          "author": "aws@amazon.com",
+          "description": "アプリケーションのリファクタリングを迅速に行う準備はできていますか? AWS Migration Hub Refactor Spaces は、アプリケーションの増分リファクタリングの新しい出発点となります。Refactor Spaces を使用すると、リファクタリングを可能にする基盤のインフラストラクチャの作成と管理ではなく、アプリケーションのリファクタリング自体に注力できます。Refactor Spaces は、複数のアカウントで AWS のサービスをオーケストレートし、徐々にアプリケーションを進化させるリファクタリング環境を整えるため、お客様はより早い段階で価値を実感できます。この Migration Hub の新機能により、アプリケーションがマイクロサービスになったり、マイクロサービスに書き込まれる新たな機能で既存のアプリケーションが拡張されたりすることについてのビジネス上のリスクを低減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/",
+          "publishedOn": "2022-02-11T08:47:39.000Z",
+          "wordCount": 254,
+          "title": "AWS Migration Hub Refactor Spaces – 一般的に利用可能に"
+        },
+        {
+          "id": "a045c45358db1e8a064cd0c4ab9535d777903dab",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Transfer Family がアジアパシフィック (大阪) リージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/",
+          "publishedOn": "2022-02-11T08:46:50.000Z",
+          "wordCount": 286,
+          "title": "AWS Transfer Family が AWS アジアパシフィック (大阪) リージョンで利用可能に"
+        },
+        {
+          "id": "982e76246d2c7005792bf0aa622f1657699926fd",
+          "author": "aws@amazon.com",
+          "description": "Amazon Rekognition は、画像または動画内のテキストを検出して読み取り、見つかった各単語のバウンディングボックスを返します。2021 年 11 月 17 日に、Amazon Rekognition の画像内のテキスト検出で 7 つの新しい言語 (アラビア語、ロシア語、ドイツ語、フランス語、イタリア語、ポルトガル語、スペイン語) のサポートを開始しました。Amazon Rekognition は、ユーザー入力として言語パラメータを必要とすることなく、サポートされているすべての言語の画像内のテキストを自動的に検出して抽出できます。また、Amazon Rekognition では、縦書きのテキストと歪んだテキストについての改善が実装されており、精度が全体的に向上しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/",
+          "publishedOn": "2022-02-11T08:46:01.000Z",
+          "wordCount": 247,
+          "title": "Amazon Rekognition Video で 7 つの新しい言語がサポートされるようになり、テキスト検出の精度も向上"
+        },
+        {
+          "id": "e2f360b78177bacd2370a4c26ee8899757737794",
+          "author": "aws@amazon.com",
+          "description": "AWS App Runner サービスが、Amazon 仮想プライベートクラウド (Amazon VPC) でホストされている他のアプリケーションと通信できるようになりました。これで、App Runner サービスを Amazon Relational Database Service (Amazon RDS) のデータベース、Amazon ElastiCache の Redis キャッシュ、または Amazon MQ のメッセージキューに接続することができます。また、Amazon Elastic Container Service (Amazon ECS)、Amazon Elastic Kubernetes Service (Amazon EKS)、または Amazon Elastic Compute Cloud (Amazon EC2) でサービスを独自のアプリケーションに接続することもできます。その結果、App Runner で実行されているウェブアプリケーションと API は、AWS のデータサービスから強力なサポートを受けて、本稼働アーキテクチャを構築できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/",
+          "publishedOn": "2022-02-10T20:33:33.000Z",
+          "wordCount": 283,
+          "title": "AWS App Runner が Amazon VPC のサポートを追加"
+        },
+        {
+          "id": "ab40714f826256aafed59f80ccdbde33650e83d2",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Organizations コンソールが拡張され、AWS アカウントの代替連絡先を一元的に表示および更新できるようになります。AWS アカウントに関する重要な通知を確実に受け取るために、以前に Accounts SDK をリリースしました。これにより、組織内のアカウントの請求、オペレーション、セキュリティの連絡先をプログラムで管理できるようになりました。今回のリリースで、コンソールを使用すると、各アカウントにログインせずにこのオペレーションを簡単に実行できるようにもなりました。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/",
+          "publishedOn": "2022-02-10T20:32:44.000Z",
+          "wordCount": 235,
+          "title": "AWS Organizations コンソールで、AWS アカウントの代替連絡先を一元管理できるようになりました"
+        },
+        {
+          "id": "34fe47ac57885ce93f6be0d6402bf1d07ef1a220",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 Replication は、新たにアップロードされたオブジェクトを2つ以上の Amazon S3 バケットに複製し、バケットを同期させる、伸縮自在で完全に管理された低コストの機能です。S3 Batch Replication を使えば、バケット間で既存のオブジェクトを同期させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/",
+          "publishedOn": "2022-02-10T10:32:01.000Z",
+          "wordCount": 312,
+          "title": "Amazon S3 Batch Replication は、バケット間の既存データの同期を行います"
+        },
+        {
+          "id": "8c3297d53deb20b8e20fc8e5a5771242c19a14a1",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager の機能のひとつである Distributor で、使用可能なサードパーティーエージェントを選択し、インスタンス上でインストールおよび管理できるようになりました。今回の起動により、ソフトウェアパッケージの作成や保守を行うことなく、構築済みの Alert Logic Managed Detection and Response (MDR) エージェント を Distributor から直接EC２やオンプレミスインスタンスにデプロイすることができるようになりました。現在、既にデフォルトで対応しているサードパーティーおよび AWS のエージェントに加え、Alert Logic MDR もご利用いただけます。Distributor を使って、ご利用可能なこれらのエージェントをインスタンス上でインストールまたは更新したり、あるいはご自分のソフトウェアパッケージを作成して配信したりすることが可能になります。あなたのソフトウェアパッケージは Systems Manager に保存されるので、集中リポジトリによるバージョン管理が行えます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/",
+          "publishedOn": "2022-02-10T10:31:13.000Z",
+          "wordCount": 260,
+          "title": "AWS Systems Manager を使用して、EC２およびオンプレミスインスタンスに Alert Logic MDR Agent を一貫してデプロイできるようになりました"
+        },
+        {
+          "id": "5a3d69039d7ca74a726525c639a99699ceadc7e4",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon CloudFront の AWS マネージドプレフィックスリストを使用して、CloudFront のオリジンに面したサーバーに属する IP アドレスのみからのオリジンへのインバウンド HTTP/HTTPS トラフィックを制限できます。CloudFront が、マネージドプレフィックスリストを CloudFront のオリジンに面したサーバーの IP アドレスで最新の状態に保つので、プレフィックスリストを自分で管理する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/",
+          "publishedOn": "2022-02-10T08:31:14.000Z",
+          "wordCount": 280,
+          "title": "Amazon VPC で Amazon CloudFront 用に AWS が管理するプレフィックスリストのサポートを開始"
+        },
+        {
+          "id": "4748129c95d99988cfa49eb4d2aa34b8997b6c9c",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、および調整します。本日より、SageMaker Autopilot では、新しいメトリクスとレポートが提供されます。これにより、分類の問題に関してモデルのパフォーマンスの可視性が向上します。これらのメトリクスを活用して、モデルリーダーボードの最適なモデルについて、より多くのインサイトを集めることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/",
+          "publishedOn": "2022-02-10T05:49:27.000Z",
+          "wordCount": 282,
+          "title": "Amazon SageMaker Autopilot が分類の問題に関わる Confusion Matrix と追加の新しいインサイトの提供を開始"
+        },
+        {
+          "id": "f41bdd3587201b718205b721a37b110010694cda",
+          "author": "aws@amazon.com",
+          "description": "Amazon Fraud Detector 機械学習 (ML) モデル向けに、新しく位置情報の機能を強化したことを発表いたします。これにより、イベント用として使用する IP アドレス、請求連絡先、および送付先住所間の距離が自動的に計算されます。これにより、より多くの不正行為を防止できます。特に、他人の情報を使ってアカウントを作成しようとしたり、他人のクレジットカードを使って支払処理を行おうとした場合に有効です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-geolocation-enrichment-amazon-fraud-detector-models/",
+          "publishedOn": "2022-02-10T05:47:49.000Z",
+          "wordCount": 262,
+          "title": "AWS が Amazon Fraud Detector のモデル向けに位置情報の機能強化を発表"
+        },
+        {
+          "id": "fd3be830336f120fba254b0b70a51e69d1a3dbf4",
+          "author": "aws@amazon.com",
+          "description": "Amazon DocumentDB (MongoDB 互換) は、ミッションクリティカルな MongoDB ワークロードを運用するための、スケーラブルで高い耐久性を備えたフルマネージド型データベースサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-documentdb-mongodb-r6g-t4g-additional-regions/",
+          "publishedOn": "2022-02-10T05:46:13.000Z",
+          "wordCount": 313,
+          "title": "Amazon DocumentDB (MongoDB 互換) の R6g および T4g インスタンスが、アジアパシフィック (ソウル)、南米 (サンパウロ)、および欧州 (パリ) の各リージョンで利用可能に"
+        },
+        {
+          "id": "a147ea920549ab6a1971291841c9a390aaf34cf3",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager のIncident Manager が、AWS PrivateLink をサポートするようになり、仮想プライベートネットワーク内のマネージド VPC エンドポイントを介してインシデントデータに直接アクセスできるようになりました。AWS Systems Manager は、AWS アプリケーションとリソースの運用ハブであり、ハイブリッドクラウド環境で安全なエンドツーエンドの管理ソリューションを提供します。Incident Manager, の詳細については、製品ページをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/incident-manager-aws-systems-privatelink/",
+          "publishedOn": "2022-02-09T08:46:02.000Z",
+          "wordCount": 279,
+          "title": "AWS Systems Manager の Incident Manager が AWS PrivateLink のサポートを開始"
+        },
+        {
+          "id": "3a93e772648d5d4c7b252f7dbf2f0f944a18b363",
+          "author": "aws@amazon.com",
+          "description": "本日より AWS のお客様は AWS PrivateLink を使って、パブリック IP を使用せずに Amazon Virtual Private Cloud (Amazon VPC) からAmazon Forecast サービスにアクセスできます。このトラフィックは、Amazon Forecast にアクセスするのにインターネットを経由する必要がありません。今回のリリースにより、VPCエンドポイントポリシーを使用して、VPC　エンドポイントの追加のアクセスコントロールを取得することもできます。Forecast は、機械学習 (ML) を使用して、より正確な需要予測を生成するのに役立ちます。機械学習の経験は不要です。Forecast は、Amazon で使用されているものと同じテクノロジーをフルマネージドサービスとしてデベロッパーに提供し、リソースを管理する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-privatelink-support-amazon-forecast/",
+          "publishedOn": "2022-02-08T22:33:30.000Z",
+          "wordCount": 281,
+          "title": "Amazon Forecast 向け AWS PrivateLink のサポートを発表"
+        },
+        {
+          "id": "0038adb8cfc7e858148ef3f236d7b0a28ad0dcd1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Virtual Private Cloud (VPC) により、デュアルスタック VPC で IPv6 のみのサブネットを作成し、AWS アジアパシフィック (ジャカルタ) リージョンのこれらのサブネットで Nitro System に構築された EC2 インスタンスを起動できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/ipv6-only-subnets-ec2-instances-available-jakarta-region/",
+          "publishedOn": "2022-02-08T22:32:42.000Z",
+          "wordCount": 278,
+          "title": "IPv6 のみのサブネットと EC2 インスタンスが AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に"
+        },
+        {
+          "id": "7cd154a4c612129fe3d47b9bf5b85fac3fb55fee",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight で、ビジュアルのタイトルとサブタイトルにリッチテキストフォーマットがサポートされるようになりました。フォントタイプ、サイズ、色、スタイルなどさまざまなフォーマットオプションを選べるリッチコンテキストが、ビジュアルの制作に追加されました。また、さまざまな配置方法のオプションを選択することにより、テキストをよりよく配列できるようになりました。ビジュアルのタイトルとサブタイトルで、ハイパーリンクとパラメータによるダイナミックなテキストがサポートされるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-quicksight-rich-text-titles-subtitles/",
+          "publishedOn": "2022-02-08T01:31:06.000Z",
+          "wordCount": 236,
+          "title": "Amazon QuickSight のビジュアルのタイトルとサブタイトルにリッチテキストフォーマットのオプションが追加"
+        },
+        {
+          "id": "b86ab05abed2ebdf5a2bba6da00aecd2ea13eec3",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx ファイルゲートウェイにより、オンプレミスのファイル共有ユーザーは、Windows Volume Shadow Copy Service (VSS).によって Amazon FSx for Windows ファイルサーバーファイルシステム に保存されている以前のバージョンのファイルを参照および復元できるようになりました。この機能により、事故やマルウェアによる損失が発生した場合でも、ファイルをすばやく簡単にセルフサービスで回復できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/",
+          "publishedOn": "2022-02-07T23:01:06.000Z",
+          "wordCount": 277,
+          "title": "AWS Storage Gateway を使用すると、オンプレミスユーザーは Amazon FSx ファイルゲートウェイの以前のバージョンのファイルをリカバリできます"
+        },
+        {
           "id": "f16939ef272ca8077ac81b4c4e5d8336322dbf91",
           "author": "aws@amazon.com",
           "description": "Amazon Connect はアフリカ (ケープタウン) AWS リージョンでの利用が可能になり、Amazon Connect を利用できる AWS リージョンが 11 ヵ所に増えました。アフリカのフリーダイヤルと市内の電話番号を請求できるようになりました。",
@@ -127,51 +289,6 @@
           "publishedOn": "2022-02-07T04:31:01.000Z",
           "wordCount": 294,
           "title": "Amazon MemoryDB for Redis が AWS PrivateLink のサポートを開始"
-        },
-        {
-          "id": "c078b08f8abd451b67ba15b3d2d83b6ae2b6da1a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高く、フルマネージド型の Cassandra 互換のデータベースサービスで、FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Cassandra ワークロードをより簡単に実行できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/",
-          "publishedOn": "2022-02-04T20:47:53.000Z",
-          "wordCount": 270,
-          "title": "Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に"
-        },
-        {
-          "id": "11c2404466d50becf97b2ac4583056f2e80d004d",
-          "author": "aws@amazon.com",
-          "description": "Custom Connector ソフトウェア開発キット (SDK) を使用して、Amazon AppFlow のカスタムコネクタを構築できるようになりました。SDK を使用すると、AppFlow のコネクタのライブラリに追加することで、プライベート API、オンプレミスのプロプライエタリシステム、およびその他のクラウドサービスに接続できます。オープンソースであり、Java と Python の両方で利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/",
-          "publishedOn": "2022-02-04T20:47:05.000Z",
-          "wordCount": 276,
-          "title": "Amazon AppFlow が Custom Connector SDK の提供を開始"
-        },
-        {
-          "id": "bcbc50d6f63413d1a82d244bfad44ad03c4b2e51",
-          "author": "aws@amazon.com",
-          "description": "Amazon マシンイメージ (AMI) のためにごみ箱を使用して、誤った削除から回復し、ビジネス継続性のニーズを満たすことができるようになりました。これまでは、誤って AMI の登録を解除した場合、その AMI を回復することはできませんでした。ごみ箱を使用すると、保持期間を指定し、保持期間が満了する前に、必要に応じて登録解除された AMI を回復できます。回復された AMI は、削除前に持っていたタグ、許可、および暗号化ステータスなどの属性を保持し、すぐに起動に使用できます。ごみ箱から復元されなかった AMI は、保持期間が終了すると完全に削除されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/",
-          "publishedOn": "2022-02-04T20:46:14.000Z",
-          "wordCount": 256,
-          "title": "Amazon EC2 のお客様が、ごみ箱を使用して、Amazon マシンイメージの誤った削除から回復することが可能に"
-        },
-        {
-          "id": "f59414aadf55aa87bf055ab98927df71fd4e158c",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for Windows File Server は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) で FedRAMP Moderateとして、GovCloud (米国西部) および GovCloud (米国東部) で FedRAMP Highとして、それぞれ承認されました。Amazon FSx for Windows File Serverは、これらのリージョンにおいて、国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) としても承認されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/",
-          "publishedOn": "2022-02-04T18:46:53.000Z",
-          "wordCount": 290,
-          "title": "Amazon FSx for Windows File Server がFedRAMPに準拠しました"
-        },
-        {
-          "id": "898b8525bb4c228b9d23bed2aea394f9512304ff",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for Lusterは、米国東部（バージニア州北部）、米国東部（オハイオ州）、米国西部（カリフォルニア州北部）、米国西部（オレゴン州）ではFedRAMPモデレートとして、AWS GovCloud（米国西部) およびAWSGovCloud（米国東部）ではFedRAMP Highとして承認されています。Amazon FSx for Lusterは、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイドImpact Level 2（DoD SRG IL-2）としても承認されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/",
-          "publishedOn": "2022-02-04T18:46:03.000Z",
-          "wordCount": 266,
-          "title": "Amazon FSx for Lustre は FedRAMPに準拠しています"
         }
       ]
     }
