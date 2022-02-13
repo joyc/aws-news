@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-12T01:12:34.551Z</updated>
-    <generator>osmosfeed 1.12.0</generator>
+    <updated>2022-02-13T01:13:07.063Z</updated>
+    <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
     <entry>
