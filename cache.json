@@ -253,45 +253,9 @@
           "publishedOn": "2022-02-07T18:17:14.000Z",
           "wordCount": 270,
           "title": "Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に"
-        },
-        {
-          "id": "9138b27e5f16092d0f1d175f653caf2323042d61",
-          "author": "aws@amazon.com",
-          "description": "AWS PrivateLink を使用して、Amazon Virtual Private Cloud (Amazon VPC) から Amazon ElastiCache へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、トラフィックをパブリックインターネットに公開することなく、ネットワークトラフィックを保護しながら、VPC、AWS のサービス、およびオンプレミスネットワーク間のプライベート接続を提供します。Amazon ElastiCache API は、Amazon ElastiCache が利用可能なすべてのリージョンで AWS PrivateLink をサポートしています。詳細な一覧については、サポートされているリージョンを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/",
-          "publishedOn": "2022-02-07T04:35:19.000Z",
-          "wordCount": 280,
-          "title": "Amazon ElastiCache が AWS PrivateLink のサポートを開始"
-        },
-        {
-          "id": "f72619b0e76b3d0a8d002016f4a1f843a1f0eac5",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for OpenZFS で、データのクローン作成および試行を容易にするフルコピーボリュームのサポートを開始しました。これにより、クローン作成に基づくテストの結果をすばやくキャプチャし、それを長期間利用できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/",
-          "publishedOn": "2022-02-07T04:33:27.000Z",
-          "wordCount": 240,
-          "title": "Amazon FSx for OpenZFS で、データのクローン作成および試行を容易にするフルコピーボリュームのサポートを開始"
-        },
-        {
-          "id": "13b42943069e70e060fad85c190b9f888c29e960",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS for MariaDB が MariaDB バージョン 10.6 のサポートを開始しました。このリリースでは、ワークロードのパフォーマンス、スケーラビリティ、信頼性、および管理性を強化するために、次のような複数の MariaDB 機能が導入されています。\n \n \n \nMyRocks ストレージエンジン: RDS for MariaDB で MyRocks ストレージエンジンを使用して、書き込みが集中する高性能ウェブアプリケーションのストレージ消費量を最適化できます。\n \n \nIAM 統合: Amazon RDS for MariaDB インスタンスで AWS の Identity and Access Management (IAM) を設定し、AWS リソースのアクセス管理を簡素化できるようになりました。IAM を使用すると、すべての AWS リソースへのユーザーアクセスを一元管理することができ、別の AWS リソースと同期していないアクセス許可に起因する問題を避けられます。\n \n \n柔軟なアップグレード: 以前の MariaDB メジャーリリース (10.2、10.3、10.4、10.5) から RDS for MariaDB 10.6 にワンステップでアップグレードすることが可能です。また、既存の MySQL 5.6 または 5.7 インスタンスのスナップショットを取得し、RDS のスナップショット復元機能を使用して、それを MariaDB 10.6 インスタンスに変換することもできます。\n \n \n遅延レプリケーション: 災害対策戦略として、リードレプリカをソースデータベースから遅らせる設定可能な期間を設定できるようになりました。MariaDB レプリケーションの標準設定では、ソースとレプリカの間のレプリケーション遅延が最小限に抑えられます。\n \n \nOracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()、ADD_MONTHS() など) を増やすことで、従来の Oracle ストアドプロシージャをそのまま RDS for MariaDB 10.6 に移行できます。\n \n \nアトミック DDL: DDL ステートメントは、RDS for MariaDB 10.6 ではクラッシュセーフになります。CREATE TABLE、ALTER TABLE、RENAME TABLE、DROP TABLE、DROP DATABASE、および関連する DDL ステートメントがアトミックになりました。以前は、DDL 操作中にクラッシュすると、結果が確定せず、レプリケーション中にエラーが発生する場合がありました。アトミック DDL では、DDL 操作が完全に実行されるか、まったく実行されないかのいずれかです。したがって、DDL 操作中のクラッシュからの復旧は決定論的であり、どのようなサーバークラッシュでも binlog の一貫性が保たれます。\n \n \nその他の機能強化: JSON_TABLE 関数による SQL 内の JSON データのリレーショナル形式への変換、Innodb による空のテーブルデータの読み込みの高速化、新しい sys_schema による分析とトラブルシューティング、オプティマイザーの機能強化による未使用のインデックスの無視、およびパフォーマンスの向上。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-mariadb-10-6/",
-          "publishedOn": "2022-02-07T04:31:49.000Z",
-          "wordCount": 346,
-          "title": "Amazon RDS for MariaDB が MariaDB 10.6 のサポートを開始"
-        },
-        {
-          "id": "9e7dd5c8f1abd86279e00a58aaeebf8df4c41ccc",
-          "author": "aws@amazon.com",
-          "description": "AWS PrivateLink を使用して、Amazon Virtual Private Cloud (Amazon VPC) から Amazon MemoryDB for Redis へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、トラフィックをパブリックインターネットに公開することなく、ネットワークトラフィックを保護しながら、VPC、AWS のサービス、およびオンプレミスネットワーク間のプライベート接続を提供します。Amazon MemoryDB for Redis API は、Amazon MemoryDB for Redis が利用可能なすべてのリージョンで AWS PrivateLink をサポートしています。詳細な一覧については、サポートされているリージョンを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/",
-          "publishedOn": "2022-02-07T04:31:01.000Z",
-          "wordCount": 294,
-          "title": "Amazon MemoryDB for Redis が AWS PrivateLink のサポートを開始"
         }
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }
