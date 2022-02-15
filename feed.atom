@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-14T01:05:40.318Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T01:16:46.839Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が Chat メトリクス用 Amazon CloudWatch のサポートを開始]]></title>
+        <id>3dd23d8e038b2b3b952d98089e84dc30eba14fd8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-connect-cloudwatch-chat-metrics/"/>
+        <updated>2022-02-14T20:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect が開始した Amazon Cloudwatch の Chat メトリクスで、運用メトリクスが監視しやすくなりました。これで双方向のアクティブチャットといった稼働率メトリクスを収集し、それらを表示、分析することができます。この機能は、CloudWatch からデータアクセスするためのコーディングが不要ですぐに利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune がクラスターごとに最大 128 TiB のストレージをサポート]]></title>
+        <id>3a1429268fe4039196ca6cd4225b8a113662797a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/"/>
+        <updated>2022-02-14T18:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Neptune がクラスターごとに最大 128 TiB のストレージをサポートするようになりました (最小 64 TiB)。この変更により、アプリケーションに新しいクラスターを加えたり、変更を加えたりすることなく、グラフアプリケーションを継続して使用することができます。増加したストレージ制限は、エンジンリリース 1.0.2.2 以降で利用可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune ML がカスタムモデルと SPARQL クエリ言語に対応]]></title>
+        <id>4f5869033572f58fd126eae74fff2726ac19549e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/"/>
+        <updated>2022-02-14T18:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Neptune のグラフデータに対して、Neptune Machine Learning (ML) でカスタム機械学習モデルを定義することができるようになりました。Neptune ML は Amazon Neptune の機械学習機能で、Deep Graph Library (DGL) で開発された Graph Neural Networks (GNNs) を使用して、グラフデータに対する ML モデルの選択とトレーニングという手間のかかる作業を自動化します。今回の発表では、プロパティグラフに対する Apache TinkerPop Gremlin の推論クエリに加え、W3C の Resource Description Framework (RDF) データモデルに対する SPARQL の推論クエリも実行することができます。RDF の新しい機械学習タスクには、目的語分類、目的語回帰、目的語予測、主語予測が含まれます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS ParallelCluster が AWS Directory Service を通じてマルチユーザー環境のサポートを開始]]></title>
+        <id>409787ac80ed89a06361e8bed782e73674069b92</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/"/>
+        <updated>2022-02-14T14:04:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS ParallelCluster は全面的なサポートとメンテナンスが提供されているオープンソースのクラスター管理ツールです。このツールを使用すると、科学者、研究者、IT 管理者が、AWS でハイパフォーマンスコンピューティング (HPC) クラスターのデプロイと管理をより簡単に実行できるようになります。AWS ParallelCluster は、単純なテキストファイルを使用して、HPC アプリケーションに必要なすべてのリソースを自動化された安全な方法でモデル化およびプロビジョニングします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Elemental MediaConnect が AWS PrivateLink のサポートを開始]]></title>
+        <id>17f6d0f0a0d08111695816ec1ffd1ac8d9cb8220</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/"/>
+        <updated>2022-02-14T14:03:27.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elemental MediaConnect は AWS PrivateLink をサポートするようになりました。これにより、お客様の仮想プライベートネットワーク内のプライベートエンドポイントを介して MediaConnect に直接アクセスできるようになりました。これで、仮想プライベートクラウド (VPC) のプライベート IP アドレスを使用して MediaConnect API にアクセスできるようになり、パブリック IP を使用する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が AWS CloudFormation Hooks の一般提供を発表]]></title>
+        <id>482a25a5326010c6ca9526c0bd750df8746c9b91</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/"/>
+        <updated>2022-02-14T14:02:39.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、AWS CloudFormation Hooks の一般提供の開始を発表しました。これは、CloudFormation スタック操作を作成、更新、または削除する前に、カスタムロジックを呼び出してアクションを自動化したり、リソース設定を検査したりできるようにする機能です。100 万を超えるお客様が毎週 AWS CloudFormation を使用して、クラウドアプリケーションとインフラストラクチャを安全で予測可能かつ再現可能な方法で、モデル化、プロビジョニング、および管理しています。AWS CloudFormation Hooks を使用することで、お客様は、非準拠リソースについて、リソースプロパティを検証して警告を送信したり、プロビジョニング操作を防止したりして、セキュリティとコンプライアンスのリスクを軽減し、運用オーバーヘッドを削減し、コストを最適化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue DataBrew が変換として複数列とカスタムソートのサポートを開始]]></title>
+        <id>331f44814f9347279b819b9a5580ad47b721cace</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/"/>
+        <updated>2022-02-14T14:01:51.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue DataBrew をご利用のお客様は、DataBrew のデータセットで 1 つまたは複数の列をカスタムソートできるようになりました。これにより、お客様は列の値をより簡単に検索およびグループ化できます。この変換は、コードを記述することなく、さまざまなソート順を使用して 1 つまたは複数のディメンションでデータを並べ替えることを希望するユーザーのために用意されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue DataBrew が変換として E.164 電話番号の標準化のサポートを開始]]></title>
+        <id>e54d0ef4f44c720d283701743fb1ee7f8e59902e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/"/>
+        <updated>2022-02-14T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue DataBrew をご利用のお客様は、DataBrew のインタラクティブなポイントアンドクリックのビジュアルインターフェイスを使用して、データセット内の電話番号を E.164 標準の電話番号形式にフォーマットできるようになりました。E.164 は、電話番号を [+] [国番号] [市外局番を含む加入者番号] として標準化する国際電話番号計画であり、最大 15 桁です。この変換は、コードを記述せずに、ダウンストリームのソフトウェアシステム統合のために電話番号の標準化を加速したいユーザーのために用意されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しい AWS 請求コンソールのホームページ使用体験を発表]]></title>
         <id>69a3f222c6345a5c776ccaf39506c811d6fa64a8</id>
@@ -162,116 +242,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/ipv6-only-subnets-ec2-instances-available-jakarta-region/"/>
         <updated>2022-02-08T22:32:42.000Z</updated>
         <summary type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) により、デュアルスタック VPC で IPv6 のみのサブネットを作成し、AWS アジアパシフィック (ジャカルタ) リージョンのこれらのサブネットで Nitro System に構築された EC2 インスタンスを起動できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight のビジュアルのタイトルとサブタイトルにリッチテキストフォーマットのオプションが追加]]></title>
-        <id>7cd154a4c612129fe3d47b9bf5b85fac3fb55fee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-quicksight-rich-text-titles-subtitles/"/>
-        <updated>2022-02-08T01:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight で、ビジュアルのタイトルとサブタイトルにリッチテキストフォーマットがサポートされるようになりました。フォントタイプ、サイズ、色、スタイルなどさまざまなフォーマットオプションを選べるリッチコンテキストが、ビジュアルの制作に追加されました。また、さまざまな配置方法のオプションを選択することにより、テキストをよりよく配列できるようになりました。ビジュアルのタイトルとサブタイトルで、ハイパーリンクとパラメータによるダイナミックなテキストがサポートされるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Storage Gateway を使用すると、オンプレミスユーザーは Amazon FSx ファイルゲートウェイの以前のバージョンのファイルをリカバリできます]]></title>
-        <id>b86ab05abed2ebdf5a2bba6da00aecd2ea13eec3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/"/>
-        <updated>2022-02-07T23:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx ファイルゲートウェイにより、オンプレミスのファイル共有ユーザーは、Windows Volume Shadow Copy Service (VSS).によって Amazon FSx for Windows ファイルサーバーファイルシステム に保存されている以前のバージョンのファイルを参照および復元できるようになりました。この機能により、事故やマルウェアによる損失が発生した場合でも、ファイルをすばやく簡単にセルフサービスで回復できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect がアフリカ（ケープタウン）AWS リージョンで利用可能に]]></title>
-        <id>f16939ef272ca8077ac81b4c4e5d8336322dbf91</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-connect-africa-cape-town/"/>
-        <updated>2022-02-07T19:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect はアフリカ (ケープタウン) AWS リージョンでの利用が可能になり、Amazon Connect を利用できる AWS リージョンが 11 ヵ所に増えました。アフリカのフリーダイヤルと市内の電話番号を請求できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler により JSON および ORC データの準備、データセットの比較およびコード化、およびデータ処理ジョブの駆動をワンクリックで行う]]></title>
-        <id>f93cb075982855f2b057b02182402a6b612f079a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/json-orc-data-processing-jobs-amazon-sagemaker-data-wrangler/"/>
-        <updated>2022-02-07T19:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、および Snowflake などの複数のデータソースからデータをすばやく選択できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機械学習によってパーソナル化された体験を維持することがビジネスドメインおよびユーザーセグメント化をサポート]]></title>
-        <id>a622c1602acd8458bb396fd9a0f9cceba3245098</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/maintaining-personalized-experiences-with-machine-learning-business-domains-user-segmentation/"/>
-        <updated>2022-02-07T19:20:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS Solutions は Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning ソリューションを更新しました。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend がカスタム Comprehend のモデルコピーを起動]]></title>
-        <id>2ceca49317f62b905f161a5ba1bd51b0cc336c4b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-comprehend-model-copy-custom/"/>
-        <updated>2022-02-07T19:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend が顧客にソース AWS アカウントからComprehend カスタム分類またはカスタムエンティティ認識モデルにコピーして同一の AWS リージョンの指定されたターゲット AWS アカウントへのモデルコピー機能性をサポートするようになりました。企業顧客および AWS パートナーはしばしば開発段階（構築、テスト、ステージ、デプロイなど）に基づいて、ビジネス機能（データサイエンス、エンジニアリングなど）に基づいて、または両方の組み合わせによりプロビジョニングされた複数の AWS アカウントを使用します。以前は、カスタム Comprehend モデルはトレーニングされた AWS アカウントでのみ使用できました。これは顧客が各 AWS アカウントにトレーニングデータセットおよび注釈をコピーして個別のモデルをトレーニングすることを求めました - これは時間がかかり、高価で、全体のデプロイ速度を減少させました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Secrets Manager がローテーションウィンドウをサポート]]></title>
-        <id>914ed61a6c73c65528b0867e0630f5164233b90a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-secrets-manager-windows/"/>
-        <updated>2022-02-07T19:18:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Secrets Manager は特定の時間ウィンドウ内でシークレットローテーションをスケジューリングする機能をサポートします。この機能により、シークレットローテーションを特定日の特定時間に限定できます。以前は、Secrets Manager は指定されたローテーションインターバルの最後の24時間内のシークレットの自動ローテーションをサポートしました。本日の起動により、マネージドローテーションの利便性とメンテナンスウィンドウの安全性との間を選択する必要がなくなります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLOps Workload Orchestrator が Amazon SageMaker Model Explainability および Model Bias Monitoring のサポートを追加]]></title>
-        <id>d19a958784fc61ad8096c04a549c2a87e5979268</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/"/>
-        <updated>2022-02-07T19:17:48.000Z</updated>
-        <summary type="html"><![CDATA[AWS Solutions は、パイプラインのデプロイプロセスを合理化し、機械学習 (ML) モデルのモデル操作主義のためのアーキテクチャのベストプラクティスを実施する AWS ソリューション実装である MLOps Workload Orchestrator (以前は AWS MLOps Framework として知られる) を更新しました。このソリューションは、モデルモニタリングおよびマルチアカウントガバナンスを含む複数の ML ワークフローオートメーションツールを導入する際の一般的なオペレーションの問題を解決します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift デフォルト IAM ロールが追加 AWS リージョン (KIX、CPT、MXP)で利用可能に]]></title>
-        <id>cabbeba910173713edc8a2fb0cc32c73cbfb12ca</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/"/>
-        <updated>2022-02-07T19:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift は、お客様が Redshift コンソールから IAM ロールを作成し、Amazon Redshift クラスターを作成する間にデフォルトの IAM ロールとしてそれを割り当てられるようにすることで、Amazon S3、Amazon SageMaker、AWS Lambda、Amazon Aurora、および AWS Glue などのその他のサービスの使用を簡素しました。デフォルトの IAM ロールは、IAM ロールの Amazon リソースネーム (ARN) を指定する必要性をなくすことで、他の AWS サービスにアクセスする COPY、UNLOAD、CREATE、EXTERNAL FUNCTION、CREATE EXTERNAL TABLE、CREATE EXTERNAL SCHEMA、CREATE MODEL、または CREATE LIBRARY などの SQL オペレーションの簡素化に役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core は IoT のきめ細かな診断のために、デバイスの各デバイスレベルでのロギング機能をサポートするようになりました。]]></title>
-        <id>2cbd178aa18eda497d0976cd5bba7342a8b64735</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/"/>
-        <updated>2022-02-07T19:16:12.000Z</updated>
-        <summary type="html"><![CDATA[デバイスのクライアント ID、ソース IP、または本 ID を使用して AWS IoT デバイスに特化したロギングを設定できます。現在まで、お客様はアカウントレベルで特定のモノのグループ毎にロギングを設定することができました。本日より、AWS IoT はクライアント ID、ソース IP、または本 ID を使用してきめ細かなロギングレベルの設定もサポートします。この拡張はお客様がデバイスをモノとして登録したり追加のモノのグループを定義する必要なくデバイスに特化した問題を診断することを容易にしました。お客様はさらに詳細なロギングを行うために非常に特化したリソースを目標にすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に]]></title>
-        <id>2476a7a9146e69700fb6214260c000f5e7bef99f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-keyspaces-fedramp-apache-cassandra/"/>
-        <updated>2022-02-07T18:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高く、フルマネージド型の Cassandra 互換のデータベースサービスで、FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Cassandra ワークロードをより簡単に実行できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
