@@ -12,6 +12,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9974d37caeb64898276c5ee125dafad52d558f86",
+          "author": "aws@amazon.com",
+          "description": "AWS Resource Access Manager (AWS RAM) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。AWS RAM は、組織内の AWS アカウント間または AWS Organizations 内の組織単位 (OU) 間で、ならびにサポートされているリソースタイプの AWS Identity and Access Management (IAM) ロールおよび IAM ユーザーとの間で、AWS リソースを安全に共有するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/",
+          "publishedOn": "2022-02-17T21:31:15.000Z",
+          "wordCount": 271,
+          "title": "AWS Resource Access Manager が PCI DSS に準拠",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5bbdbe6918efde45234307e8647843b35312ad1d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift が、Redshift 同時実行スケーリングクラスターに対してより効率的なクエリ処理を提供できるようになりました。同時実行スケーリングは、数千人の同時ユーザーからの予測できない需要を処理するための容量を自動的に追加または削除します。\n 自動ワークロード管理 (AutoWLM) は、クエリをより効率的に処理するように設計されており、同時実行スケーリングクラスターで有効になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/",
+          "publishedOn": "2022-02-17T21:25:14.000Z",
+          "wordCount": 231,
+          "title": "Amazon Redshift 同時実行スケーリングの自動ワークロード管理を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e5846ca1d200a6cbe7fccb6447162f7d697d1d84",
+          "author": "aws@amazon.com",
+          "description": "AWS WAF では、クレデンシャルスタッフィング攻撃、ブルートフォース試行、その他の異常ログインアクティビティからアプリケーションのログインページを保護するために AWS WAF Fraud Control - Account Takeover Prevention を立ち上げたことを発表しました。Account Takeover Prevention により、ネットワークのエッジでアカウントの乗っ取り試行をプロアクティブに阻止できます。Account Takeover Prevention を利用すれば、不正アクティビティにつながる可能性のある不正アクセスを防止したり、影響を受けるユーザーに知らせて、予防措置を講じられるようにしたりすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/",
+          "publishedOn": "2022-02-17T13:07:14.000Z",
+          "wordCount": 321,
+          "title": "クレデンシャルスタッフィング攻撃からログインページを保護するために AWS WAF で AWS WAF Fraud Control - Account Takeover Prevention を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a46f1cbef89d0b7d4c19907fda1a627de8f05a00",
+          "author": "aws@amazon.com",
+          "description": "Amazon MQ が、RabbitMQ バージョン 3.9.13 をサポートするようになりました。この RabbitMQ アップデートには、これまでサポートされていたバージョン RabbitMQ 3.8.26 からのいくつかの修正と機能強化が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/",
+          "publishedOn": "2022-02-17T13:04:14.000Z",
+          "wordCount": 264,
+          "title": "Amazon MQ が RabbitMQ バージョン 3.9.13 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b442cb81a38ece8785c002eb1cac72286e1dec8c",
+          "author": "aws@amazon.com",
+          "description": "本日、アマゾン ウェブ サービス (AWS) では、AWS Single Sign-On (AWS SSO) におけるセキュリティとプライバシーのカスタマーコンプライアンス要件への対応が拡大したことを発表しました。AWS SSO は、PCI DSS (Payment Card Industry – Data Security Standard) コンプライアンスを達成し、PROTECTED (保護対象) レベルの Information Security Registered Assessors Program (IRAP) 評価を取得しました。これらは追加であり、国際標準化機構 (ISO、International Organization for Standardization)、System and Organization Controls (SOC) 1、2、および 3、Esquema Nacional de Seguridad (ENS) の「高」、金融市場監査局 (FINMA、Financial Market Supervisory Authority) の International Standard on Assurance Engagements (ISAE) 3000 Type 2 Report の要件、および Multi-Tier Cloud Security (MTCS) に対するカスタマーコンプライアンスの既存の AWS SSO サポートが既に提供されています。結果として、お客様は、コンプライアンス標準に従う必要のある環境におけるマルチアカウントアクセス管理およびアプリケーション認証をさらに簡素化できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-sso-expands-support-customer-compliance/",
+          "publishedOn": "2022-02-17T13:01:14.000Z",
+          "wordCount": 316,
+          "title": "AWS SSO で PCI-DSS および IRAP に対するカスタマーコンプライアンスのサポートを拡張",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "012d2b1971db879773e87a8255f3044ee637b2d3",
           "author": "aws@amazon.com",
           "description": "AWS の量子コンピューティングサービスである Amazon Braket を使用すれば、量子コンピューターによる科学研究やソフトウェア開発を簡単に始めることができます。本日、Amazon Braket で Rigetti の新しい超電導方式量子ゲート型の 80 キュービットプロセッサ Aspen-M-1 のサポートが追加されました。このリリースにより、Braket で初めてマルチチップの量子プロセッサアーキテクチャを利用できるようになりました。この新しい 80 キュービット量子プロセッサを使用すると、前世代の Rigetti デバイスでサポートされているキュービット数の最大 2 倍のキュービットから成る量子回路を実行できるため、より大きな問題に取り組むことができます。",
@@ -199,60 +249,6 @@
           "publishedOn": "2022-02-11T19:16:04.000Z",
           "wordCount": 242,
           "title": "新しい AWS 請求コンソールのホームページ使用体験を発表"
-        },
-        {
-          "id": "e1d424c95cef41da9ccaa003092f6d9bd9044c06",
-          "author": "aws@amazon.com",
-          "description": "AWS Launch Wizard では、Red Hat Enterprise Linux バージョン 7.7 と 7.9で SAP をデプロイできるようになりました。これにより、最新の RHEL オペレーティングシステム (OS) バージョンを利用して、AWS で実行されている SAP システムをサポートできます。さらに、今回のリリースでは、既存の RHEL サブスクリプションを導入し、Launch Wizard を使用した新しい SAP デプロイメントもサポートできます。 これにより、AWS Marketplace で提供されるライセンス込みのイメージ、またはRed Hat Cloud Access プログラムのイメージを柔軟に選択することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/",
-          "publishedOn": "2022-02-11T11:36:00.000Z",
-          "wordCount": 301,
-          "title": "AWS Launch Wizard が Red Hat Enterprise Linux の最新バージョンのサポートを開始、またサブスクリプションの持ち込み (BYOS) も可能に"
-        },
-        {
-          "id": "afda5a5acfb62aa33951c009736b16491c3f54c4",
-          "author": "aws@amazon.com",
-          "description": "アプリケーションのリファクタリングを迅速に行う準備はできていますか? AWS Migration Hub Refactor Spaces は、アプリケーションの増分リファクタリングの新しい出発点となります。Refactor Spaces を使用すると、リファクタリングを可能にする基盤のインフラストラクチャの作成と管理ではなく、アプリケーションのリファクタリング自体に注力できます。Refactor Spaces は、複数のアカウントで AWS のサービスをオーケストレートし、徐々にアプリケーションを進化させるリファクタリング環境を整えるため、お客様はより早い段階で価値を実感できます。この Migration Hub の新機能により、アプリケーションがマイクロサービスになったり、マイクロサービスに書き込まれる新たな機能で既存のアプリケーションが拡張されたりすることについてのビジネス上のリスクを低減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/",
-          "publishedOn": "2022-02-11T08:47:39.000Z",
-          "wordCount": 254,
-          "title": "AWS Migration Hub Refactor Spaces – 一般的に利用可能に"
-        },
-        {
-          "id": "a045c45358db1e8a064cd0c4ab9535d777903dab",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Transfer Family がアジアパシフィック (大阪) リージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/",
-          "publishedOn": "2022-02-11T08:46:50.000Z",
-          "wordCount": 286,
-          "title": "AWS Transfer Family が AWS アジアパシフィック (大阪) リージョンで利用可能に"
-        },
-        {
-          "id": "982e76246d2c7005792bf0aa622f1657699926fd",
-          "author": "aws@amazon.com",
-          "description": "Amazon Rekognition は、画像または動画内のテキストを検出して読み取り、見つかった各単語のバウンディングボックスを返します。2021 年 11 月 17 日に、Amazon Rekognition の画像内のテキスト検出で 7 つの新しい言語 (アラビア語、ロシア語、ドイツ語、フランス語、イタリア語、ポルトガル語、スペイン語) のサポートを開始しました。Amazon Rekognition は、ユーザー入力として言語パラメータを必要とすることなく、サポートされているすべての言語の画像内のテキストを自動的に検出して抽出できます。また、Amazon Rekognition では、縦書きのテキストと歪んだテキストについての改善が実装されており、精度が全体的に向上しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/",
-          "publishedOn": "2022-02-11T08:46:01.000Z",
-          "wordCount": 247,
-          "title": "Amazon Rekognition Video で 7 つの新しい言語がサポートされるようになり、テキスト検出の精度も向上"
-        },
-        {
-          "id": "e2f360b78177bacd2370a4c26ee8899757737794",
-          "author": "aws@amazon.com",
-          "description": "AWS App Runner サービスが、Amazon 仮想プライベートクラウド (Amazon VPC) でホストされている他のアプリケーションと通信できるようになりました。これで、App Runner サービスを Amazon Relational Database Service (Amazon RDS) のデータベース、Amazon ElastiCache の Redis キャッシュ、または Amazon MQ のメッセージキューに接続することができます。また、Amazon Elastic Container Service (Amazon ECS)、Amazon Elastic Kubernetes Service (Amazon EKS)、または Amazon Elastic Compute Cloud (Amazon EC2) でサービスを独自のアプリケーションに接続することもできます。その結果、App Runner で実行されているウェブアプリケーションと API は、AWS のデータサービスから強力なサポートを受けて、本稼働アーキテクチャを構築できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/",
-          "publishedOn": "2022-02-10T20:33:33.000Z",
-          "wordCount": 283,
-          "title": "AWS App Runner が Amazon VPC のサポートを追加"
-        },
-        {
-          "id": "ab40714f826256aafed59f80ccdbde33650e83d2",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Organizations コンソールが拡張され、AWS アカウントの代替連絡先を一元的に表示および更新できるようになります。AWS アカウントに関する重要な通知を確実に受け取るために、以前に Accounts SDK をリリースしました。これにより、組織内のアカウントの請求、オペレーション、セキュリティの連絡先をプログラムで管理できるようになりました。今回のリリースで、コンソールを使用すると、各アカウントにログインせずにこのオペレーションを簡単に実行できるようにもなりました。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/",
-          "publishedOn": "2022-02-10T20:32:44.000Z",
-          "wordCount": 235,
-          "title": "AWS Organizations コンソールで、AWS アカウントの代替連絡先を一元管理できるようになりました"
         }
       ]
     }
