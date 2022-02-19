@@ -240,15 +240,6 @@
           "wordCount": 254,
           "title": "AWS Glue DataBrew が変換として E.164 電話番号の標準化のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "69a3f222c6345a5c776ccaf39506c811d6fa64a8",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS 請求コンソールの新しいホームページ使用体験が追加され、AWS の料金が一目でわかります。AWS 請求コンソールを使用すると、AWS の支出を簡単に理解し、請求書を表示して支払い、請求の詳細設定と税に関する設定を管理し、追加の Cloud Financial Management サービスにアクセスできます。この請求コンソールのホームページは、財務、DevOps、または FinOps のユーザーが AWS の支出を速やかに把握し、最も影響が大きい要因を特定するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-billing-console-home/",
-          "publishedOn": "2022-02-11T19:16:04.000Z",
-          "wordCount": 242,
-          "title": "新しい AWS 請求コンソールのホームページ使用体験を発表"
         }
       ]
     }

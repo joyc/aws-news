@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-18T01:16:04.655Z</updated>
+    <updated>2022-02-19T01:11:30.185Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -233,16 +233,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/"/>
         <updated>2022-02-14T14:01:02.000Z</updated>
         <summary type="html"><![CDATA[AWS Glue DataBrew をご利用のお客様は、DataBrew のインタラクティブなポイントアンドクリックのビジュアルインターフェイスを使用して、データセット内の電話番号を E.164 標準の電話番号形式にフォーマットできるようになりました。E.164 は、電話番号を [+] [国番号] [市外局番を含む加入者番号] として標準化する国際電話番号計画であり、最大 15 桁です。この変換は、コードを記述せずに、ダウンストリームのソフトウェアシステム統合のために電話番号の標準化を加速したいユーザーのために用意されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい AWS 請求コンソールのホームページ使用体験を発表]]></title>
-        <id>69a3f222c6345a5c776ccaf39506c811d6fa64a8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-billing-console-home/"/>
-        <updated>2022-02-11T19:16:04.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS 請求コンソールの新しいホームページ使用体験が追加され、AWS の料金が一目でわかります。AWS 請求コンソールを使用すると、AWS の支出を簡単に理解し、請求書を表示して支払い、請求の詳細設定と税に関する設定を管理し、追加の Cloud Financial Management サービスにアクセスできます。この請求コンソールのホームページは、財務、DevOps、または FinOps のユーザーが AWS の支出を速やかに把握し、最も影響が大きい要因を特定するのに役立ちます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
