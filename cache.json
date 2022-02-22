@@ -12,6 +12,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "911313b19b0f6476ef63441a5121ed220ee54385",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift のデータ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を伴うことなく、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。同じ AWS アカウント内およびアカウント間のクラスター間でデータを共有する機能は既に利用可能です。異なる AWS リージョンの Redshift クラスター間でのデータ共有が利用可能になりました。クロスリージョンのデータ共有は、すべての Amazon Redshift RA3 ノードタイプでサポートされています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/",
+          "publishedOn": "2022-02-21T08:39:14.000Z",
+          "wordCount": 239,
+          "title": "Amazon Redshift クロスリージョンデータ共有のお知らせ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9974d37caeb64898276c5ee125dafad52d558f86",
           "author": "aws@amazon.com",
           "description": "AWS Resource Access Manager (AWS RAM) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。AWS RAM は、組織内の AWS アカウント間または AWS Organizations 内の組織単位 (OU) 間で、ならびにサポートされているリソースタイプの AWS Identity and Access Management (IAM) ロールおよび IAM ユーザーとの間で、AWS リソースを安全に共有するのに役立ちます。",
@@ -129,116 +139,6 @@
           "publishedOn": "2022-02-16T08:31:15.000Z",
           "wordCount": 247,
           "title": "Amazon Elastic File System のサブミリ秒の読み取りレイテンシーを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a4e7719d68737a2a0d7057c637aab83b78f86f00",
-          "author": "aws@amazon.com",
-          "description": "AWS マネージドサービス (AMS) Accelerate が、AWS GovCloud (米国) で一般利用可能になり、パブリックセクターおよび商業セクターの両方のお客様とそのパートナーに、GovCloud リージョンでの AWS マネージドサービスのオペレーション機能のメリットを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/",
-          "publishedOn": "2022-02-15T04:05:40.000Z",
-          "wordCount": 240,
-          "title": "AWS マネージドサービスが、AWS GovCloud (米国) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9284b9f4414d1da98754cce3890b9ab069c146f1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift が、Kinesis Data Streams (KDS) のストリーミング取り込みのサポートを開始します。Amazon Redshift のストリーミング取り込みを使用すると、データを Amazon Redshift に取り込む前に Amazon S3 でステージングする必要がなくなり、1 秒あたり数百メガバイトのストリーミングデータをデータウェアハウスに取り込みながら、数秒で低レイテンシーを実現できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/",
-          "publishedOn": "2022-02-15T04:04:51.000Z",
-          "wordCount": 282,
-          "title": "Amazon Redshift が、Kinesis データストリームのストリーミング取り込みのパブリックプレビューを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2a9549dccdb851503a344ace03ff1ba70edf22be",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Control Tower を AWS Foundational Security Best Practices の最新の更新に合わせる、AWS Control Tower の新機能を発表いたしました。 しいベストプラクティスとコントロールが特定および開発されるたびに、AWS Control Tower が機能を追加して、AWS アカウントとワークロードが整合していることを確認する必要があります。今回のリリースの新機能には、ライフサイクルポリシーとアクセスログバケットのアクセスログのサポート、およびLambda 関数のデッドレターキューの追加が含まれます。さらに、このリリースでは AWS Control Tower が更新され、AWS Config のサービスにリンクされたロールを使用して、AWS Config のベストプラクティスに一致するように構成ルールをセットアップおよび管理します。この変更により、構成データを暗号化するための AWS Control Tower KMS 構成プロセスが効率化され、CloudTrail の関連するステータスメッセージングが改善されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/",
-          "publishedOn": "2022-02-15T04:03:27.000Z",
-          "wordCount": 287,
-          "title": "AWS Control Tower が、AWS のベストプラクティスとリージョン拒否の更新されたサポートの提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3dd23d8e038b2b3b952d98089e84dc30eba14fd8",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect が開始した Amazon Cloudwatch の Chat メトリクスで、運用メトリクスが監視しやすくなりました。これで双方向のアクティブチャットといった稼働率メトリクスを収集し、それらを表示、分析することができます。この機能は、CloudWatch からデータアクセスするためのコーディングが不要ですぐに利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-connect-cloudwatch-chat-metrics/",
-          "publishedOn": "2022-02-14T20:01:31.000Z",
-          "wordCount": 242,
-          "title": "Amazon Connect が Chat メトリクス用 Amazon CloudWatch のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3a1429268fe4039196ca6cd4225b8a113662797a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Neptune がクラスターごとに最大 128 TiB のストレージをサポートするようになりました (最小 64 TiB)。この変更により、アプリケーションに新しいクラスターを加えたり、変更を加えたりすることなく、グラフアプリケーションを継続して使用することができます。増加したストレージ制限は、エンジンリリース 1.0.2.2 以降で利用可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/",
-          "publishedOn": "2022-02-14T18:32:02.000Z",
-          "wordCount": 263,
-          "title": "Amazon Neptune がクラスターごとに最大 128 TiB のストレージをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4f5869033572f58fd126eae74fff2726ac19549e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Neptune のグラフデータに対して、Neptune Machine Learning (ML) でカスタム機械学習モデルを定義することができるようになりました。Neptune ML は Amazon Neptune の機械学習機能で、Deep Graph Library (DGL) で開発された Graph Neural Networks (GNNs) を使用して、グラフデータに対する ML モデルの選択とトレーニングという手間のかかる作業を自動化します。今回の発表では、プロパティグラフに対する Apache TinkerPop Gremlin の推論クエリに加え、W3C の Resource Description Framework (RDF) データモデルに対する SPARQL の推論クエリも実行することができます。RDF の新しい機械学習タスクには、目的語分類、目的語回帰、目的語予測、主語予測が含まれます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/",
-          "publishedOn": "2022-02-14T18:31:13.000Z",
-          "wordCount": 288,
-          "title": "Amazon Neptune ML がカスタムモデルと SPARQL クエリ言語に対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "409787ac80ed89a06361e8bed782e73674069b92",
-          "author": "aws@amazon.com",
-          "description": "AWS ParallelCluster は全面的なサポートとメンテナンスが提供されているオープンソースのクラスター管理ツールです。このツールを使用すると、科学者、研究者、IT 管理者が、AWS でハイパフォーマンスコンピューティング (HPC) クラスターのデプロイと管理をより簡単に実行できるようになります。AWS ParallelCluster は、単純なテキストファイルを使用して、HPC アプリケーションに必要なすべてのリソースを自動化された安全な方法でモデル化およびプロビジョニングします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/",
-          "publishedOn": "2022-02-14T14:04:14.000Z",
-          "wordCount": 297,
-          "title": "AWS ParallelCluster が AWS Directory Service を通じてマルチユーザー環境のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "17f6d0f0a0d08111695816ec1ffd1ac8d9cb8220",
-          "author": "aws@amazon.com",
-          "description": "AWS Elemental MediaConnect は AWS PrivateLink をサポートするようになりました。これにより、お客様の仮想プライベートネットワーク内のプライベートエンドポイントを介して MediaConnect に直接アクセスできるようになりました。これで、仮想プライベートクラウド (VPC) のプライベート IP アドレスを使用して MediaConnect API にアクセスできるようになり、パブリック IP を使用する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/",
-          "publishedOn": "2022-02-14T14:03:27.000Z",
-          "wordCount": 285,
-          "title": "AWS Elemental MediaConnect が AWS PrivateLink のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "482a25a5326010c6ca9526c0bd750df8746c9b91",
-          "author": "aws@amazon.com",
-          "description": "AWS は、AWS CloudFormation Hooks の一般提供の開始を発表しました。これは、CloudFormation スタック操作を作成、更新、または削除する前に、カスタムロジックを呼び出してアクションを自動化したり、リソース設定を検査したりできるようにする機能です。100 万を超えるお客様が毎週 AWS CloudFormation を使用して、クラウドアプリケーションとインフラストラクチャを安全で予測可能かつ再現可能な方法で、モデル化、プロビジョニング、および管理しています。AWS CloudFormation Hooks を使用することで、お客様は、非準拠リソースについて、リソースプロパティを検証して警告を送信したり、プロビジョニング操作を防止したりして、セキュリティとコンプライアンスのリスクを軽減し、運用オーバーヘッドを削減し、コストを最適化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/",
-          "publishedOn": "2022-02-14T14:02:39.000Z",
-          "wordCount": 294,
-          "title": "AWS が AWS CloudFormation Hooks の一般提供を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "331f44814f9347279b819b9a5580ad47b721cace",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue DataBrew をご利用のお客様は、DataBrew のデータセットで 1 つまたは複数の列をカスタムソートできるようになりました。これにより、お客様は列の値をより簡単に検索およびグループ化できます。この変換は、コードを記述することなく、さまざまなソート順を使用して 1 つまたは複数のディメンションでデータを並べ替えることを希望するユーザーのために用意されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/",
-          "publishedOn": "2022-02-14T14:01:51.000Z",
-          "wordCount": 244,
-          "title": "AWS Glue DataBrew が変換として複数列とカスタムソートのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e54d0ef4f44c720d283701743fb1ee7f8e59902e",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue DataBrew をご利用のお客様は、DataBrew のインタラクティブなポイントアンドクリックのビジュアルインターフェイスを使用して、データセット内の電話番号を E.164 標準の電話番号形式にフォーマットできるようになりました。E.164 は、電話番号を [+] [国番号] [市外局番を含む加入者番号] として標準化する国際電話番号計画であり、最大 15 桁です。この変換は、コードを記述せずに、ダウンストリームのソフトウェアシステム統合のために電話番号の標準化を加速したいユーザーのために用意されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/",
-          "publishedOn": "2022-02-14T14:01:02.000Z",
-          "wordCount": 254,
-          "title": "AWS Glue DataBrew が変換として E.164 電話番号の標準化のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
