@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-22T01:09:56.143Z</updated>
+    <updated>2022-02-23T01:18:29.547Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ がアフリカ (ケープタウン) リージョンで利用可能に]]></title>
+        <id>af2913363be81306ba8706aa7f59a6fe52724235</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-africa-region/"/>
+        <updated>2022-02-22T03:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ が、アフリカ (ケープタウン) リージョンの追加で、合計 25 のリージョンで利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自動調整予算のご紹介]]></title>
+        <id>11ae085f828a52267f6b1b463b833d27324efa88</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/auto-adjusting-budgets/"/>
+        <updated>2022-02-22T03:02:14.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Budgets を使用して自動調整予算を作成できます。自動調整予算は、指定した期間の取得原価または使用量に基づいて予算額を動的に設定します。これにより、予算制限を設定する際の当て推量が減り、支出パターンの変化に応じて最新の状態に保つことができます。自動調整予算は、すべての公開 AWS リージョン で一般的にご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS は、QUIC プロトコルの新しいオープンソース実装である s2n-quic を導入]]></title>
+        <id>4e1f04b1565bc8356eabb354f6803a08e44e7f7a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/"/>
+        <updated>2022-02-22T02:56:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS 暗号化オープンソースライブラリで、QUIC プロトコルのオープンソース Rust 実装である s2n-quic が利用可能になったことをお知らせします。また、TLS プロトコルの AWS のオープンソース C 実装である s2n の名前が s2n-tls になります。 s2n-quic は、シンプルさを優先して、高速で小型になるように設計された API を搭載しています。 Rust で記述されているため、パフォーマンス、スレッド、メモリの安全性など、いくつかの利点を享受できます。TLS 1.3 ハンドシェイクの場合、s2n-quic は s2n-tls、または TLS のオープンソース Rust 実装である Rustls に依存します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry を使用した Amazon EKS Fargate をサポート対象に追加]]></title>
+        <id>3f81ffa9a7bce795f82ad69800ddaa1cb2da8442</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/"/>
+        <updated>2022-02-22T02:50:14.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用した AWS Fargate で、Amazon Elastic Kubernetes Service (EKS) で実行するアプリケーションのメトリクス収集をサポート対象に追加しました。ADOT は、AWS がサポートする OpenTelemetry プロジェクトの安全なディストリビューションです。お客様は、CPU、メモリ、ディスク、ネットワークなどの EKS Fargate メトリクスを簡単に収集し、Amazon CloudWatch の他のコンテナメトリクスと一緒に分析できるようになりました。これにより、お客様は CloudWatch Container Insights コンソールでアプリケーションのパフォーマンスとリソース使用率を直接観察できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Redshift クロスリージョンデータ共有のお知らせ]]></title>
         <id>911313b19b0f6476ef63441a5121ed220ee54385</id>
@@ -103,36 +143,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/"/>
         <updated>2022-02-16T20:35:15.000Z</updated>
         <summary type="html"><![CDATA[Amazon CodeGuru は機械学習を利用したデベロッパーツールで、セキュリティの脆弱性を検出し、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect がサードパーティーのデータとの統合のための CloudFormation サポートの提供を開始]]></title>
-        <id>f5569756c31c8dc4c4c9957a752d0cfcba2a3ba5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-connect-cloudformation-integrations-third-party-data/"/>
-        <updated>2022-02-16T08:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、サードパーティーのデータ統合サービスで CloudFormation のサポートを開始しました。データ統合により、Amazon Connect をご利用のお客様は、CRM、品質管理、請求ソフトウェア、注文管理ソリューションなどのサードパーティーの SaaS アプリケーションからデータをダウンロードできます。AWS CloudFormation テンプレートを使用することで、他の AWS インフラストラクチャとともに、安全、効率的、繰り返し可能な方法でデータ統合をデプロイできるようになりました。例えば、データ統合を使用することで、スケジュールされた同期を介して Salesforce からナレッジ記事をダウンロードし、Amazon Connect エージェントアプリケーションに Wisdom 記事として表示することで、エージェントが発信者の問題を迅速に解決し、生産性を向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 C6a インスタンスのご紹介]]></title>
-        <id>cfb3256822ebdde96975fdca77887bdf7a090794</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/"/>
-        <updated>2022-02-16T08:32:03.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) は、コンピューティング最適化 Amazon EC2 C6a インスタンスの一般提供を開始しました。C6a インスタンスは、最大 3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC プロセッサ (コード名 Milan) を搭載し、さまざまなワークロードで C5a インスタンスと比較して最大 15% 優れたコンピューティング料金パフォーマンスを実現します。また、同等の x86 ベースの EC2 インスタンスよりも 10% 低いコストでご利用いただけます。C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Elastic File System のサブミリ秒の読み取りレイテンシーを発表]]></title>
-        <id>afd1e49af9822f392f1dc7c9633dc5826741b021</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/sub-millisecond-read-latencies-amazon-elastic-file-system/"/>
-        <updated>2022-02-16T08:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic File System (Amazon EFS) は、すべての新規および既存の 1 ゾーンおよび標準汎用ファイルシステムのサブミリ秒の読み取りレイテンシーをサポートするようになりました。コンテンツ管理システム、分析、DevOps、機械学習推論など、レイテンシーの影響を受けやすいアプリケーションでは、平均 600 マイクロ秒の読み取りレイテンシーを実現できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
