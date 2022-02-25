@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-24T01:17:18.823Z</updated>
+    <updated>2022-02-25T01:15:15.521Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight の新しいコミュニティハブのお知らせ]]></title>
+        <id>9dc7e50df084fbe2b9112a8c410af9153ba184a9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-quicksight-community-hub/"/>
+        <updated>2022-02-24T23:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight の新しいコミュニティハブをお知らせします。これにより投稿者と管理者が、すべてが集まったハブで QuickSight を始められ、QuickSight の知識を深め、他の QuickSight ユーザーとつながることができます。これにより、ユーザーは学習リソースを求めたり他の QuickSight ユーザーと連絡をとったりするのにさまざまな多くのリソースを検索する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra は FedRAMP Moderate 準拠になりました]]></title>
+        <id>93f4bbd26486480cb5fc9f9b8663cb75f1c6ee3d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-kendra-fedramp-compliant/"/>
+        <updated>2022-02-24T23:34:14.000Z</updated>
+        <summary type="html"><![CDATA[今回 Amazon Kendra が、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各リージョンで、 FedRAMP Moderate の認証を取得しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker が JumpStart モデル用の新しい API を追加]]></title>
+        <id>ad19a2eda5431e6c1af0984e6c83fb3214ac5afb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/"/>
+        <updated>2022-02-24T08:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face、および Gluon CV (「モデルの動物園」とも呼ばれます) の 322 の定評あるモデルコレクションと、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決する 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AppSync がカスタムレスポンスヘッダーのサポートを追加]]></title>
+        <id>1a51b7469507ebc884da4416e468a97440cc0ddf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/"/>
+        <updated>2022-02-24T08:36:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS AppSync は、GraphQL および Real-time API の開発と管理を容易にするフルマネージドサービスです。これにより、単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Firewall Manager が AWS WAF マネージドルールグループのバージョニングをサポート]]></title>
         <id>1fcccba7d471df3f8ef9c9ec7e1ec41a04d265f2</id>
@@ -62,27 +102,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/"/>
         <updated>2022-02-21T08:39:14.000Z</updated>
         <summary type="html"><![CDATA[Amazon Redshift のデータ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を伴うことなく、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。同じ AWS アカウント内およびアカウント間のクラスター間でデータを共有する機能は既に利用可能です。異なる AWS リージョンの Redshift クラスター間でのデータ共有が利用可能になりました。クロスリージョンのデータ共有は、すべての Amazon Redshift RA3 ノードタイプでサポートされています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resource Access Manager が PCI DSS に準拠]]></title>
-        <id>9974d37caeb64898276c5ee125dafad52d558f86</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/"/>
-        <updated>2022-02-17T21:31:15.000Z</updated>
-        <summary type="html"><![CDATA[AWS Resource Access Manager (AWS RAM) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。AWS RAM は、組織内の AWS アカウント間または AWS Organizations 内の組織単位 (OU) 間で、ならびにサポートされているリソースタイプの AWS Identity and Access Management (IAM) ロールおよび IAM ユーザーとの間で、AWS リソースを安全に共有するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift 同時実行スケーリングの自動ワークロード管理を発表]]></title>
-        <id>5bbdbe6918efde45234307e8647843b35312ad1d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/"/>
-        <updated>2022-02-17T21:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift が、Redshift 同時実行スケーリングクラスターに対してより効率的なクエリ処理を提供できるようになりました。同時実行スケーリングは、数千人の同時ユーザーからの予測できない需要を処理するための容量を自動的に追加または削除します。
- 自動ワークロード管理 (AutoWLM) は、クエリをより効率的に処理するように設計されており、同時実行スケーリングクラスターで有効になりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

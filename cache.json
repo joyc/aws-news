@@ -12,6 +12,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9dc7e50df084fbe2b9112a8c410af9153ba184a9",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight の新しいコミュニティハブをお知らせします。これにより投稿者と管理者が、すべてが集まったハブで QuickSight を始められ、QuickSight の知識を深め、他の QuickSight ユーザーとつながることができます。これにより、ユーザーは学習リソースを求めたり他の QuickSight ユーザーと連絡をとったりするのにさまざまな多くのリソースを検索する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-quicksight-community-hub/",
+          "publishedOn": "2022-02-24T23:40:15.000Z",
+          "wordCount": 238,
+          "title": "Amazon QuickSight の新しいコミュニティハブのお知らせ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "93f4bbd26486480cb5fc9f9b8663cb75f1c6ee3d",
+          "author": "aws@amazon.com",
+          "description": "今回 Amazon Kendra が、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各リージョンで、 FedRAMP Moderate の認証を取得しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-kendra-fedramp-compliant/",
+          "publishedOn": "2022-02-24T23:34:14.000Z",
+          "wordCount": 239,
+          "title": "Amazon Kendra は FedRAMP Moderate 準拠になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ad19a2eda5431e6c1af0984e6c83fb3214ac5afb",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face、および Gluon CV (「モデルの動物園」とも呼ばれます) の 322 の定評あるモデルコレクションと、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決する 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/",
+          "publishedOn": "2022-02-24T08:42:14.000Z",
+          "wordCount": 263,
+          "title": "Amazon SageMaker が JumpStart モデル用の新しい API を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1a51b7469507ebc884da4416e468a97440cc0ddf",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync は、GraphQL および Real-time API の開発と管理を容易にするフルマネージドサービスです。これにより、単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが容易になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/",
+          "publishedOn": "2022-02-24T08:36:17.000Z",
+          "wordCount": 258,
+          "title": "AWS AppSync がカスタムレスポンスヘッダーのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "1fcccba7d471df3f8ef9c9ec7e1ec41a04d265f2",
           "author": "aws@amazon.com",
           "description": "AWS Firewall Manager で AWS WAF マネージドルールグループのバージョニングを行い、Firewall Manager を使用して AWS WAF ポリシーを設定するときに AWS WAF マネージドルールグループの特定のバージョンを選択できるようになりました。",
@@ -69,26 +109,6 @@
           "publishedOn": "2022-02-21T08:39:14.000Z",
           "wordCount": 239,
           "title": "Amazon Redshift クロスリージョンデータ共有のお知らせ",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9974d37caeb64898276c5ee125dafad52d558f86",
-          "author": "aws@amazon.com",
-          "description": "AWS Resource Access Manager (AWS RAM) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。AWS RAM は、組織内の AWS アカウント間または AWS Organizations 内の組織単位 (OU) 間で、ならびにサポートされているリソースタイプの AWS Identity and Access Management (IAM) ロールおよび IAM ユーザーとの間で、AWS リソースを安全に共有するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/",
-          "publishedOn": "2022-02-17T21:31:15.000Z",
-          "wordCount": 271,
-          "title": "AWS Resource Access Manager が PCI DSS に準拠",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5bbdbe6918efde45234307e8647843b35312ad1d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift が、Redshift 同時実行スケーリングクラスターに対してより効率的なクエリ処理を提供できるようになりました。同時実行スケーリングは、数千人の同時ユーザーからの予測できない需要を処理するための容量を自動的に追加または削除します。\n 自動ワークロード管理 (AutoWLM) は、クエリをより効率的に処理するように設計されており、同時実行スケーリングクラスターで有効になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/",
-          "publishedOn": "2022-02-17T21:25:14.000Z",
-          "wordCount": 231,
-          "title": "Amazon Redshift 同時実行スケーリングの自動ワークロード管理を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
