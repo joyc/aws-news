@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-25T01:15:15.521Z</updated>
+    <updated>2022-02-26T01:08:28.649Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Transfer Family がログインバナーのサポートを開始]]></title>
+        <id>01967ae1d51b2d0989d4004023ea2e9dceef8a0f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/"/>
+        <updated>2022-02-26T00:26:14.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始]]></title>
+        <id>f625b57d9484997e449505dc1daed54ee955a62f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/"/>
+        <updated>2022-02-26T00:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS for SQL Server は、Standard Edition において、すべての AWS リージョンのマルチ AZ 設定用に Always On 可用性グループ (AG) の提供を開始しました。新たな高可用性オプションにより SQL Server におけるエンタープライズグレードの本稼働ワークロードの要件を満たすことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE DCV が新しい UI ライブラリを備えたウェブクライアント SDK 1.1.0 をリリース]]></title>
+        <id>f46c3e4f6f02e05e3305d3b496281fa0969caf48</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/"/>
+        <updated>2022-02-25T09:59:14.000Z</updated>
+        <summary type="html"><![CDATA[NICE DCV ウェブクライアントソフトウェア開発キット (SDK) バージョン 1.1.0 には、React コンポーネントとして記述されたユーザーインターフェイス (UI) ライブラリが導入されています。デベロッパーは、ユーザーインターフェイスを最初から構築する代わりに、React UI コンポーネントを使用および変更して、アプリケーションをより高速に構築できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Translate で、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、およびスペイン語のフォーマル度のカスタマイズが可能に]]></title>
+        <id>fc884895ef2a6dec8d06f8ce9f32a730728e1524</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-translate-formality-customization/"/>
+        <updated>2022-02-25T09:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日、フォーマル度のカスタマイズ機能をご紹介します。この機能を使用すると、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、スペイン語の 6 つのターゲット言語の翻訳出力のフォーマル度をカスタマイズできます。これで、コミュニケーションのニーズに合わせて、翻訳された出力のフォーマル度をカスタマイズできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Snowcone SSD が、アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) で利用可能に]]></title>
+        <id>91d448f41841f178da2f8d78c9dae884ec6bd15e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/"/>
+        <updated>2022-02-25T09:47:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS Snowcone ソリッドステートドライブ (SSD) は、既に Snowcone SSD の利用が可能となっている AWS 米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン) に追加されるかたちで、AWS アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) の各リージョンでご利用いただけるようになりました。これらの利用可能なリージョンのリストは、今後も拡大予定です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE DCV が高い色精度とゲームコントローラーをサポートするバージョン 2022.0 をリリース]]></title>
+        <id>3ee149e8651a3d899b570e97d981c6deb0ae7b96</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/"/>
+        <updated>2022-02-25T09:41:16.000Z</updated>
+        <summary type="html"><![CDATA[NICE DCV バージョン 2022.0 には、ゲームコントローラーのサポートや高い色精度のサポートなどの複数の新機能が導入されています。NICE DCV は、ハイパフォーマンスなリモートディスプレイプロトコルです。これを使用することで、リモートデスクトップまたはアプリケーションのセッション (ハイパフォーマンス GPU を搭載したサーバーでホストされた 3D グラフィックスアプリケーションなど) に安全にアクセスできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が PIVOT および UNPIVOT の SQL 演算子のサポートを発表]]></title>
+        <id>58e8e5088d90c95d1c78aa5c9ed9948aa0e74eaf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-support-pivot-unpivot-sql-operators/"/>
+        <updated>2022-02-25T09:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、データモデリング、データ分析、およびデータ表示のために、行を列に、または列を行に、高いパフォーマンスで転置するのに役立つ PIVOT および UNPIVOT の SQL 演算子をサポートするようになりました。また、PIVOT と UNPIVOT を使用して、既存のデータウェアハウスシステムから Amazon Redshift に簡単に移行することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MariaDB が遅延レプリケーションのサポートを開始]]></title>
+        <id>07a1f860cafbc981d843e815a365ce6ebab1c03b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/"/>
+        <updated>2022-02-25T04:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MariaDB では遅延レプリケーションがサポートされ、リードレプリカをソースデータベースより遅らせる時間を設定できるようになりました。MariaDB レプリケーションの標準設定では、ソースとレプリカの間のレプリケーション遅延が最小限に抑えられます。遅延レプリケーションでは、災害対策の戦略として意図的な遅延を導入できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon QuickSight の新しいコミュニティハブのお知らせ]]></title>
         <id>9dc7e50df084fbe2b9112a8c410af9153ba184a9</id>

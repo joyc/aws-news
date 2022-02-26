@@ -12,6 +12,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "01967ae1d51b2d0989d4004023ea2e9dceef8a0f",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/",
+          "publishedOn": "2022-02-26T00:26:14.000Z",
+          "wordCount": 239,
+          "title": "AWS Transfer Family がログインバナーのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f625b57d9484997e449505dc1daed54ee955a62f",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for SQL Server は、Standard Edition において、すべての AWS リージョンのマルチ AZ 設定用に Always On 可用性グループ (AG) の提供を開始しました。新たな高可用性オプションにより SQL Server におけるエンタープライズグレードの本稼働ワークロードの要件を満たすことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/",
+          "publishedOn": "2022-02-26T00:20:14.000Z",
+          "wordCount": 306,
+          "title": "Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f46c3e4f6f02e05e3305d3b496281fa0969caf48",
+          "author": "aws@amazon.com",
+          "description": "NICE DCV ウェブクライアントソフトウェア開発キット (SDK) バージョン 1.1.0 には、React コンポーネントとして記述されたユーザーインターフェイス (UI) ライブラリが導入されています。デベロッパーは、ユーザーインターフェイスを最初から構築する代わりに、React UI コンポーネントを使用および変更して、アプリケーションをより高速に構築できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/",
+          "publishedOn": "2022-02-25T09:59:14.000Z",
+          "wordCount": 275,
+          "title": "NICE DCV が新しい UI ライブラリを備えたウェブクライアント SDK 1.1.0 をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fc884895ef2a6dec8d06f8ce9f32a730728e1524",
+          "author": "aws@amazon.com",
+          "description": "Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日、フォーマル度のカスタマイズ機能をご紹介します。この機能を使用すると、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、スペイン語の 6 つのターゲット言語の翻訳出力のフォーマル度をカスタマイズできます。これで、コミュニケーションのニーズに合わせて、翻訳された出力のフォーマル度をカスタマイズできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-translate-formality-customization/",
+          "publishedOn": "2022-02-25T09:53:14.000Z",
+          "wordCount": 242,
+          "title": "Amazon Translate で、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、およびスペイン語のフォーマル度のカスタマイズが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "91d448f41841f178da2f8d78c9dae884ec6bd15e",
+          "author": "aws@amazon.com",
+          "description": "AWS Snowcone ソリッドステートドライブ (SSD) は、既に Snowcone SSD の利用が可能となっている AWS 米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン) に追加されるかたちで、AWS アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) の各リージョンでご利用いただけるようになりました。これらの利用可能なリージョンのリストは、今後も拡大予定です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/",
+          "publishedOn": "2022-02-25T09:47:14.000Z",
+          "wordCount": 331,
+          "title": "AWS Snowcone SSD が、アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3ee149e8651a3d899b570e97d981c6deb0ae7b96",
+          "author": "aws@amazon.com",
+          "description": "NICE DCV バージョン 2022.0 には、ゲームコントローラーのサポートや高い色精度のサポートなどの複数の新機能が導入されています。NICE DCV は、ハイパフォーマンスなリモートディスプレイプロトコルです。これを使用することで、リモートデスクトップまたはアプリケーションのセッション (ハイパフォーマンス GPU を搭載したサーバーでホストされた 3D グラフィックスアプリケーションなど) に安全にアクセスできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/",
+          "publishedOn": "2022-02-25T09:41:16.000Z",
+          "wordCount": 302,
+          "title": "NICE DCV が高い色精度とゲームコントローラーをサポートするバージョン 2022.0 をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "58e8e5088d90c95d1c78aa5c9ed9948aa0e74eaf",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift は、データモデリング、データ分析、およびデータ表示のために、行を列に、または列を行に、高いパフォーマンスで転置するのに役立つ PIVOT および UNPIVOT の SQL 演算子をサポートするようになりました。また、PIVOT と UNPIVOT を使用して、既存のデータウェアハウスシステムから Amazon Redshift に簡単に移行することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-support-pivot-unpivot-sql-operators/",
+          "publishedOn": "2022-02-25T09:35:17.000Z",
+          "wordCount": 267,
+          "title": "Amazon Redshift が PIVOT および UNPIVOT の SQL 演算子のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "07a1f860cafbc981d843e815a365ce6ebab1c03b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB では遅延レプリケーションがサポートされ、リードレプリカをソースデータベースより遅らせる時間を設定できるようになりました。MariaDB レプリケーションの標準設定では、ソースとレプリカの間のレプリケーション遅延が最小限に抑えられます。遅延レプリケーションでは、災害対策の戦略として意図的な遅延を導入できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/",
+          "publishedOn": "2022-02-25T04:05:14.000Z",
+          "wordCount": 241,
+          "title": "Amazon RDS for MariaDB が遅延レプリケーションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9dc7e50df084fbe2b9112a8c410af9153ba184a9",
           "author": "aws@amazon.com",
           "description": "Amazon QuickSight の新しいコミュニティハブをお知らせします。これにより投稿者と管理者が、すべてが集まったハブで QuickSight を始められ、QuickSight の知識を深め、他の QuickSight ユーザーとつながることができます。これにより、ユーザーは学習リソースを求めたり他の QuickSight ユーザーと連絡をとったりするのにさまざまな多くのリソースを検索する必要がなくなります。",
