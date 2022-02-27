@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-26T01:08:28.649Z</updated>
+    <updated>2022-02-27T01:15:43.339Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>b88ad62e8d7fdd6a49fe0d0d934d42ec7aed87f2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/"/>
+        <updated>2022-02-26T02:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。これは、悪意のあるアクティビティのために AWS アカウントとワークロードを継続的にモニタリングし、可視化と修復のための詳細なセキュリティ調査結果を提供する脅威検出サービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Transfer Family がログインバナーのサポートを開始]]></title>
         <id>01967ae1d51b2d0989d4004023ea2e9dceef8a0f</id>

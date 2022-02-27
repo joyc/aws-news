@@ -12,6 +12,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "b88ad62e8d7fdd6a49fe0d0d934d42ec7aed87f2",
+          "author": "aws@amazon.com",
+          "description": "Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。これは、悪意のあるアクティビティのために AWS アカウントとワークロードを継続的にモニタリングし、可視化と修復のための詳細なセキュリティ調査結果を提供する脅威検出サービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-02-26T02:05:14.000Z",
+          "wordCount": 266,
+          "title": "Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "01967ae1d51b2d0989d4004023ea2e9dceef8a0f",
           "author": "aws@amazon.com",
           "description": "本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。",
