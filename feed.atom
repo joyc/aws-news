@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-02-27T01:15:43.339Z</updated>
+    <updated>2022-02-28T01:15:04.975Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift デフォルト IAM ロールが、AWS GovCloud (米国) リージョンで利用可能に]]></title>
+        <id>3ae2634044fe36d52e149e37f6873c7053c09855</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/"/>
+        <updated>2022-02-27T19:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、お客様が Amazon Redshift コンソールから AWS Identity and Access Management (IAM) ロールを作成し、Amazon Redshift クラスターを作成する間にデフォルトの IAM ロールとしてそれを割り当てられるようにすることで、Amazon S3、Amazon SageMaker、AWS Lambda、Amazon Aurora、および AWS Glue などのその他のサービスの使用を簡素化しました。デフォルトの IAM ロールは、IAM ロールの Amazon リソースネーム (ARN) を指定する必要性をなくすことで、他の AWS のサービスにアクセスする COPY、UNLOAD、CREATE、EXTERNAL FUNCTION、CREATE EXTERNAL TABLE、CREATE EXTERNAL SCHEMA、CREATE MODEL、または CREATE LIBRARY などの SQL オペレーションの簡素化に役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS Custom for Oracle が Oracle データベース 12.1 のサポートを開始]]></title>
+        <id>aa61b7898bee5697dd7bca3d81f360395dd1d48f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/"/>
+        <updated>2022-02-27T19:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS Custom for Oracle が Oracle データベースバージョン 12.1 のサポートを開始しました。Amazon RDS Custom は、基盤となるオペレーティングシステムとデータベース環境のカスタマイズを必要とするアプリケーション向けマネージドデータベースサービスです。Oracle データベースバージョン 12.1 のサポートにより、Amazon RDS Custom で Oracle E-Business Suite アプリケーションを実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup for Amazon S3 の一般提供を発表]]></title>
+        <id>40b9b26fa5657019ff3e875a419e5df4f5683dc1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/"/>
+        <updated>2022-02-27T18:50:14.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は AWS Backup for Amazon S3 を一般提供し、AWS Backup でサポートされる一連のサービスに Amazon S3 を追加することを発表します。コンピューティング、ストレージ、データベースに関する AWS のその他のサービスとともに、Amazon S3 に保存されているアプリケーションデータのバックアップと復元を集中的に自動化することが簡単になります。AWS Backup は AWS Organizations とシームレスに統合されているため、すべてのアカウントにわたって S3 データのイミュータブルなバックアップの作成と管理を集中的に行い、不注意なアクションや悪意のあるアクションからデータを保護し、数回クリックするだけで指定時点にデータを復元することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue ジョブ実行のインサイトの発表]]></title>
+        <id>334d8ec242fd85afe64cfaf80c16cc932c2aac6f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/"/>
+        <updated>2022-02-27T12:41:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue は、ジョブ実行のインサイトを提供するようになりました。これは、エラーの原因とパフォーマンスのボトルネックを特定できるようにすることで、Apache Spark ジョブの開発時間を短縮する機能です。AWS Glue は、サーバーレスの Apache Spark と Python を使用して、お客様が分析用のデータを検出、準備、結合できるようにするデータ統合サービスです。Spark の分散処理と「遅延実行」モデルでは、データエンジニアがエラーを診断してパフォーマンスを調整するのは困難で時間がかかります。今回のリリースにより、AWS Glue は、Spark ジョブのエラーの自動分析と解釈を行い、プロセスを高速化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle and Amazon Aurora 用の Database Activity Streams がアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>3e96caa95009eed8a527b6405f6eb11baa71f669</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/"/>
+        <updated>2022-02-27T12:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle と Amazon Aurora は、アジアパシフィック (ジャカルタ) リージョンの Database Activity Streams のサポートを開始しました。Database Activity Streams は、リレーショナルデータベースがコンプライアンスおよび規制要件を満たすためのデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
         <id>b88ad62e8d7fdd6a49fe0d0d934d42ec7aed87f2</id>
@@ -182,16 +232,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/"/>
         <updated>2022-02-22T02:50:14.000Z</updated>
         <summary type="html"><![CDATA[本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用した AWS Fargate で、Amazon Elastic Kubernetes Service (EKS) で実行するアプリケーションのメトリクス収集をサポート対象に追加しました。ADOT は、AWS がサポートする OpenTelemetry プロジェクトの安全なディストリビューションです。お客様は、CPU、メモリ、ディスク、ネットワークなどの EKS Fargate メトリクスを簡単に収集し、Amazon CloudWatch の他のコンテナメトリクスと一緒に分析できるようになりました。これにより、お客様は CloudWatch Container Insights コンソールでアプリケーションのパフォーマンスとリソース使用率を直接観察できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift クロスリージョンデータ共有のお知らせ]]></title>
-        <id>911313b19b0f6476ef63441a5121ed220ee54385</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/"/>
-        <updated>2022-02-21T08:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift のデータ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を伴うことなく、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。同じ AWS アカウント内およびアカウント間のクラスター間でデータを共有する機能は既に利用可能です。異なる AWS リージョンの Redshift クラスター間でのデータ共有が利用可能になりました。クロスリージョンのデータ共有は、すべての Amazon Redshift RA3 ノードタイプでサポートされています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
