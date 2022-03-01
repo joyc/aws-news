@@ -12,6 +12,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "03e3329b0f497db770e873a812aaf3f69b73ab3e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Customer Profiles は、Salesforce、Marketo、および ServiceNow からの大量のデータの取り込みをサポートするようになりました。Customer Profiles は、大量のデータをバッチに分割し、お客様側での設定を必要とせずにそれらを並行して取り込みます。これにより、お客様は必要なだけのデータを Customer Profiles に簡単に取り込むことができます。これは、顧客情報の統一されたビューを構築し、よりパーソナライズされた顧客サービスを提供するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-connect-customer-profiles-data/",
+          "publishedOn": "2022-02-28T14:02:14.000Z",
+          "wordCount": 242,
+          "title": "Amazon Connect Customer Profiles が顧客データの大量取り込みのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "964427fa9d1e4d68bbbeadfe7a509206116898c3",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Transfer Family は、マネージドワークフロー機能の強化を発表しました。これにより、ファイルの移動や名前の変更、アーカイブ用のソースファイルの保持、ユーザー固有のフォルダへのファイルの動的ルーティング、AWS CloudFormation および AWS CloudWatch メトリクスを使用したワークフローのデプロイとモニタリングなど、ファイル処理手順の自動化にかかる時間をさらに削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-enhancements-workflows/",
+          "publishedOn": "2022-02-28T13:56:14.000Z",
+          "wordCount": 245,
+          "title": "AWS Transfer Family がワークフローの強化を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "3ae2634044fe36d52e149e37f6873c7053c09855",
           "author": "aws@amazon.com",
           "description": "Amazon Redshift は、お客様が Amazon Redshift コンソールから AWS Identity and Access Management (IAM) ロールを作成し、Amazon Redshift クラスターを作成する間にデフォルトの IAM ロールとしてそれを割り当てられるようにすることで、Amazon S3、Amazon SageMaker、AWS Lambda、Amazon Aurora、および AWS Glue などのその他のサービスの使用を簡素化しました。デフォルトの IAM ロールは、IAM ロールの Amazon リソースネーム (ARN) を指定する必要性をなくすことで、他の AWS のサービスにアクセスする COPY、UNLOAD、CREATE、EXTERNAL FUNCTION、CREATE EXTERNAL TABLE、CREATE EXTERNAL SCHEMA、CREATE MODEL、または CREATE LIBRARY などの SQL オペレーションの簡素化に役立ちます。",
@@ -199,46 +219,6 @@
           "publishedOn": "2022-02-23T08:37:15.000Z",
           "wordCount": 275,
           "title": "AWS Firewall Manager が AWS WAF マネージドルールグループのバージョニングをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "af2913363be81306ba8706aa7f59a6fe52724235",
-          "author": "aws@amazon.com",
-          "description": "Amazon MQ が、アフリカ (ケープタウン) リージョンの追加で、合計 25 のリージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-africa-region/",
-          "publishedOn": "2022-02-22T03:08:14.000Z",
-          "wordCount": 244,
-          "title": "Amazon MQ がアフリカ (ケープタウン) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "11ae085f828a52267f6b1b463b833d27324efa88",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Budgets を使用して自動調整予算を作成できます。自動調整予算は、指定した期間の取得原価または使用量に基づいて予算額を動的に設定します。これにより、予算制限を設定する際の当て推量が減り、支出パターンの変化に応じて最新の状態に保つことができます。自動調整予算は、すべての公開 AWS リージョン で一般的にご利用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/auto-adjusting-budgets/",
-          "publishedOn": "2022-02-22T03:02:14.000Z",
-          "wordCount": 247,
-          "title": "自動調整予算のご紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4e1f04b1565bc8356eabb354f6803a08e44e7f7a",
-          "author": "aws@amazon.com",
-          "description": "AWS 暗号化オープンソースライブラリで、QUIC プロトコルのオープンソース Rust 実装である s2n-quic が利用可能になったことをお知らせします。また、TLS プロトコルの AWS のオープンソース C 実装である s2n の名前が s2n-tls になります。 s2n-quic は、シンプルさを優先して、高速で小型になるように設計された API を搭載しています。 Rust で記述されているため、パフォーマンス、スレッド、メモリの安全性など、いくつかの利点を享受できます。TLS 1.3 ハンドシェイクの場合、s2n-quic は s2n-tls、または TLS のオープンソース Rust 実装である Rustls に依存します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/",
-          "publishedOn": "2022-02-22T02:56:14.000Z",
-          "wordCount": 261,
-          "title": "AWS は、QUIC プロトコルの新しいオープンソース実装である s2n-quic を導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3f81ffa9a7bce795f82ad69800ddaa1cb2da8442",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用した AWS Fargate で、Amazon Elastic Kubernetes Service (EKS) で実行するアプリケーションのメトリクス収集をサポート対象に追加しました。ADOT は、AWS がサポートする OpenTelemetry プロジェクトの安全なディストリビューションです。お客様は、CPU、メモリ、ディスク、ネットワークなどの EKS Fargate メトリクスを簡単に収集し、Amazon CloudWatch の他のコンテナメトリクスと一緒に分析できるようになりました。これにより、お客様は CloudWatch Container Insights コンソールでアプリケーションのパフォーマンスとリソース使用率を直接観察できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/",
-          "publishedOn": "2022-02-22T02:50:14.000Z",
-          "wordCount": 286,
-          "title": "Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry を使用した Amazon EKS Fargate をサポート対象に追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
