@@ -12,6 +12,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "7369322bf816a0139e10bef8ab70216286661023",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda で、マネージドランタイムおよびコンテナベースイメージの両方として .NET 6 がサポートされるようになりました。Lambda で .NET 6 を使用してサーバーレスアプリケーションを作成するデベロッパーは、ロギングの改善、最上位レベルのステートメントを使った関数定義の簡素化、ソースジェネレーターを使ったパフォーマンスの向上などの新機能を利用できます。.NET 6 を使用することで、.NET の新しい言語機能とパフォーマンス最適化も提供されます。 Lambda による .NET 6 のサポートの詳細については、.NET 6 runtime now available in AWS Lambda のブログ投稿をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/",
+          "publishedOn": "2022-03-01T08:31:13.000Z",
+          "wordCount": 299,
+          "title": "AWS Lambda が .NET 6 のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "03e3329b0f497db770e873a812aaf3f69b73ab3e",
           "author": "aws@amazon.com",
           "description": "Amazon Connect Customer Profiles は、Salesforce、Marketo、および ServiceNow からの大量のデータの取り込みをサポートするようになりました。Customer Profiles は、大量のデータをバッチに分割し、お客様側での設定を必要とせずにそれらを並行して取り込みます。これにより、お客様は必要なだけのデータを Customer Profiles に簡単に取り込むことができます。これは、顧客情報の統一されたビューを構築し、よりパーソナライズされた顧客サービスを提供するのに役立ちます。",
@@ -209,16 +219,6 @@
           "publishedOn": "2022-02-24T08:36:17.000Z",
           "wordCount": 258,
           "title": "AWS AppSync がカスタムレスポンスヘッダーのサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1fcccba7d471df3f8ef9c9ec7e1ec41a04d265f2",
-          "author": "aws@amazon.com",
-          "description": "AWS Firewall Manager で AWS WAF マネージドルールグループのバージョニングを行い、Firewall Manager を使用して AWS WAF ポリシーを設定するときに AWS WAF マネージドルールグループの特定のバージョンを選択できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-firewall-manager-waf-rule-group/",
-          "publishedOn": "2022-02-23T08:37:15.000Z",
-          "wordCount": 275,
-          "title": "AWS Firewall Manager が AWS WAF マネージドルールグループのバージョニングをサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
