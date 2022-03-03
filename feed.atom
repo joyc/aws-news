@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-02T01:24:29.923Z</updated>
+    <updated>2022-03-03T01:25:36.831Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -192,26 +192,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-kendra-fedramp-compliant/"/>
         <updated>2022-02-24T23:34:14.000Z</updated>
         <summary type="html"><![CDATA[今回 Amazon Kendra が、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各リージョンで、 FedRAMP Moderate の認証を取得しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker が JumpStart モデル用の新しい API を追加]]></title>
-        <id>ad19a2eda5431e6c1af0984e6c83fb3214ac5afb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/"/>
-        <updated>2022-02-24T08:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face、および Gluon CV (「モデルの動物園」とも呼ばれます) の 322 の定評あるモデルコレクションと、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決する 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AppSync がカスタムレスポンスヘッダーのサポートを追加]]></title>
-        <id>1a51b7469507ebc884da4416e468a97440cc0ddf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/"/>
-        <updated>2022-02-24T08:36:17.000Z</updated>
-        <summary type="html"><![CDATA[AWS AppSync は、GraphQL および Real-time API の開発と管理を容易にするフルマネージドサービスです。これにより、単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが容易になります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

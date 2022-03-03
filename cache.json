@@ -200,26 +200,6 @@
           "wordCount": 239,
           "title": "Amazon Kendra は FedRAMP Moderate 準拠になりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ad19a2eda5431e6c1af0984e6c83fb3214ac5afb",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face、および Gluon CV (「モデルの動物園」とも呼ばれます) の 322 の定評あるモデルコレクションと、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決する 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/",
-          "publishedOn": "2022-02-24T08:42:14.000Z",
-          "wordCount": 263,
-          "title": "Amazon SageMaker が JumpStart モデル用の新しい API を追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1a51b7469507ebc884da4416e468a97440cc0ddf",
-          "author": "aws@amazon.com",
-          "description": "AWS AppSync は、GraphQL および Real-time API の開発と管理を容易にするフルマネージドサービスです。これにより、単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが容易になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/",
-          "publishedOn": "2022-02-24T08:36:17.000Z",
-          "wordCount": 258,
-          "title": "AWS AppSync がカスタムレスポンスヘッダーのサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     }
