@@ -12,6 +12,156 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "31b68582faca9971ce75f27e6b024e6f40c70614",
+          "author": "aws@amazon.com",
+          "description": "AWS App Runner は、Java ベースのウェブアプリケーションを構築および実行するための Java 言語プラットフォームのサポートを開始しました。App Runner の Java 言語プラットフォームは、2 つの Amazon Corretto ランタイム (Corretto 11 と Corretto 8) で起動しました。どちらのランタイムも、それぞれの Corretto ランタイムバージョンに加えて、Maven ツールと Gradle ツールをアプリケーションのコンテナに追加します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/",
+          "publishedOn": "2022-03-03T02:38:18.000Z",
+          "wordCount": 263,
+          "title": "AWS App Runner は Java プラットフォームを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5a1dd756690702c90df514f690692d5e22725ff0",
+          "author": "aws@amazon.com",
+          "description": "AWS App Mesh は、Envoy プロキシをモニタリングし、正常に保つのに役立つ新しいコンポーネントである Agent for Envoy を導入します。Agent for Envoy は、Envoy 接続のドレインも容易にし、アプリケーションの障害に対する耐性を高めます。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピューティングインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/",
+          "publishedOn": "2022-03-03T02:37:30.000Z",
+          "wordCount": 256,
+          "title": "AWS App Mesh が Agent for Envoy を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cd816a02127f9485a75332a6bab2341feb73630d",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch エージェントは、Linux を実行している Amazon Elastic Compute Cloud (Amazon EC2) 高速コンピューティングインスタンスからの NVIDIA GPU パフォーマンスメトリクスのコレクションのサポートを開始しました。GPU ベースのインスタンスは、数千のコンピューティングコアを備えた NVIDIA GPU へのアクセスを提供します。これらのインスタンスを使用して、科学、工学、およびレンダリングのアプリケーションを高速化できます。お客様は、CloudWatch エージェントをインストールおよび設定して、Amazon EC2、オンプレミスホスト、およびコンテナ化されたアプリケーションからシステムとアプリケーションのメトリクスを収集し、CloudWatch に送信できます。CloudWatch は、アプリケーションをモニタリングし、リソース使用率の最適化を行うためのデータと実用的なインサイトを提供します。GPU メトリクスは、EC2 アクセラレーションインスタンスで GPU コプロセッサーの使用率をモニタリングしたいユーザーを対象としています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/",
+          "publishedOn": "2022-03-03T02:36:40.000Z",
+          "wordCount": 274,
+          "title": "Amazon CloudWatch エージェントは、NVIDIA GPU メトリクスのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ee752d05bb7868fe1f13333eb3d11b3e51688c11",
+          "author": "aws@amazon.com",
+          "description": "Simple Storage Service (Amazon S3) は、リクエストの整合性チェックを最大 90% 高速化します。クラウドで初めて、アップロードおよびダウンロードリクエストのデータ整合性チェックをサポートする 4 つのチェックサムアルゴリズムから選択できます。さらに、AWS SDK および S3 API の機能強化により、チェックサムの効率が大幅に向上し、パフォーマンスが向上し、データ検証のコストが削減されます。S3 からデータを保存または取得するときにチェックサムを自動的に計算および検証でき、新しい S3 API または S3 Inventory レポートを使用していつでもチェックサム情報にアクセスできます。データ検証にチェックサムを使用することは、データの耐久性のベストプラクティスであり、これらの機能により、パフォーマンスが向上し、そのためのコストが削減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/",
+          "publishedOn": "2022-03-03T02:35:53.000Z",
+          "wordCount": 291,
+          "title": "Amazon S3 が、リクエストの整合性チェックを最大 90% 高速化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "181d328489281b546d0904384ad66f64501a7098",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch エージェントは、設定可能なログフィルター式のサポートを追加しました。お客様は CloudWatch エージェントをインストールして設定して、Amazon Elastic Compute Cloud (EC2)、オンプレミスホスト、コンテナ化されたアプリケーションからシステムとアプリケーションのログを収集し、CloudWatch に送信できます。この新しい設定オプションは、指定された条件を満たすログイベントのみを収集するユーザー向けです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/",
+          "publishedOn": "2022-03-03T02:35:05.000Z",
+          "wordCount": 239,
+          "title": "Amazon CloudWatch エージェントは、ログフィルター式のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "859d15db97e65e7485b12a4c6ad33251ae8788f7",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue Schema Registry は、Protocol Buffers (Protobuf) スキーマのサポートを開始しました。これにより、お客様は Protobuf スキーマを使用して、ストリーミングデータの進化を管理し、データストリームからデータレイクまでのデータ品質を一元管理できます。Glue Schema Registry は、Apache Kafka/Amazon Managed Streaming for Apache Kafka (Amazon MSK)、Amazon Kinesis Data Streams および Kafka Streams 用に開発された Java アプリケーションと統合する Protobuf 用の Apache ライセンスのシリアライザーとデシリアライザーとなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/",
+          "publishedOn": "2022-03-03T02:34:17.000Z",
+          "wordCount": 284,
+          "title": "AWS Glue Schema Registry が Protocol Buffers (Protobuf) スキーマのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f4ea26e0be3be8fed390688d03415b3562f34736",
+          "author": "aws@amazon.com",
+          "description": "AWS Serverless Application Model (SAM) CLI は、TypeScript ネイティブサポートのパブリックプレビューを発表します。SAM CLI は、サーバーレスアプリケーションの初期化と設定、ローカルおよび AWS クラウドでの構築とテスト、AWS CloudFormation を使用したデプロイを目的としたデベロッパーツールです。SAM CLI の構築、テスト、およびデプロイ機能は、Visual Studio Code、JetBrains、WebStorm などの IDE からも使用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/",
+          "publishedOn": "2022-03-03T02:33:28.000Z",
+          "wordCount": 278,
+          "title": "AWS Serverless Application Model (AWS SAM) CLI での TypeScript ネイティブサポート (esbuild を使用) (パブリックプレビュー) を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6f191ed8703a425b2fec5cf3cc73f5826299c65a",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch エージェントで、CloudWatch がログイベントを保持する期間を指定できるようになりました。CloudWatch エージェントをインストールして設定して、Amazon Elastic Compute Cloud (EC2)、オンプレミスホスト、コンテナ化されたアプリケーションからシステムとアプリケーションのログを収集し、CloudWatch に送信できます。この新しい設定オプションは、エージェントをデプロイするときにロググループの保持期間を統一したいユーザー向きです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/",
+          "publishedOn": "2022-03-03T02:32:40.000Z",
+          "wordCount": 245,
+          "title": "Amazon CloudWatch エージェントが、ロググループの保持期間を設定可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "18b9ee13f70d8d25e2df421552bd55d634d1cc8e",
+          "author": "aws@amazon.com",
+          "description": "支払いプロファイルは、AWS サービスプロバイダー (「レコードの販売者」とも呼ばれます) による支払い設定をカスタマイズできる新しい支払い機能です。支払いプロファイルを使用すると、選択した支払い方法を使用して、さまざまなサービスプロバイダーから AWS の請求書を自動的に支払うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/",
+          "publishedOn": "2022-03-03T02:31:52.000Z",
+          "wordCount": 222,
+          "title": "AWS の支払い設定をカスタマイズするための支払いプロファイルを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "89ddf27cf610a26b6e5a2c6b88e3d5008d77cb59",
+          "author": "aws@amazon.com",
+          "description": "AWS Amplify で、The Authenticator UI Library for Flutter の一般提供が発表されます。Authenticator UI ライブラリを使用すると、Flutter デベロッパーは数分でログイン/登録エクスペリエンスを作成できます。デベロッパーが認証カテゴリを追加し、Amplify CLI または Amplify Studio から認証と検証の属性を設定すると、それに応じて Authenticator のログイン/登録フォームが表示されます。デベロッパーは、Authenticator フォームにカスタムテーマを適用し、ログイン/サインアップフィールドの検証をオーバーライドすることもできます。デベロッパーは、サインアップフォームで使用されるプロファイル属性フィールドを追加/削除することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-amplify-authenticator-ui-library-flutter/",
+          "publishedOn": "2022-03-03T02:31:04.000Z",
+          "wordCount": 262,
+          "title": "AWS Amplify で、The Authenticator UI Library for Flutter の一般提供を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "00a09f72f856ddf4a35230871186eef646466ef3",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue DataBrew をご利用のお客様は、DataBrew のレシピジョブ用に、自動生成ファイルではなく、単一または複数の出力ファイルを選択できるようになりました。お客様は、出力が小さい場合、またはダウンストリームシステムが出力をより簡単に使用する必要がある場合 (視覚化ツールなど) に、単一の出力ファイルを生成できます。場合によっては、効率的なストレージと転送のために出力ファイルのパーティションをカスタマイズしたいことがあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-output-files-recipe-jobs/",
+          "publishedOn": "2022-03-03T01:54:54.000Z",
+          "wordCount": 243,
+          "title": "AWS Glue DataBrew で、レシピジョブ用に生成する単一または複数の出力ファイルの指定が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "574a926b7341cd08c1e9db6bc2bce1382feb7c7f",
+          "author": "aws@amazon.com",
+          "description": "Amazon Neptune は、AWS アフリカ (ケープタウン) リージョンにおいて、エンジンバージョン 1.1.0.0 以降で利用可能になりました。R5、R5d、および T3 インスタンスタイプを使用して Neptune クラスターを作成できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-neptune-africa-region/",
+          "publishedOn": "2022-03-03T01:53:19.000Z",
+          "wordCount": 271,
+          "title": "Amazon Neptune が AWS アフリカ (ケープタウン) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e3bbf84de55fb1e0dfbe7a0e55123718b9a4acd7",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 Auto Scaling の Warm Pool は、2 つの新機能、すなわち、Warm Pool インスタンスの休止機能、およびスケールイン時に実行中のインスタンスを Warm Pool に戻すように Auto Scaling グループを設定する機能をサポートするようになりました。Warm Pool を使用すると、インスタンスを EC2 インスタンスの事前に初期化されたプールからサービスに移行することで、より迅速にスケールアウトできます。Warm Pool は、ギガバイト単位のデータのロード、サービスのプロビジョニング、カスタムスクリプトの実行など、時間のかかる初期化手順があり、EC2 インスタンスがトラフィックを処理できるようになるまでに数分以上かかる可能性があるアプリケーションに最適です。\n \n \n \nWarm Pool の休止機能のサポートは、メモリ状態の重要なスケールアウトを伴うアプリケーションをより迅速に支援します。以前にサポートされていた停止状態と実行状態に加えて、Warm Pool インスタンスを休止状態にすることを選択できるようになりました。休止を選択すると、稼働前に重要なメモリ状態を再構築する必要があるインスタンスについて、ディスクの状態だけでなく EC2 インスタンスの状態全体を事前に初期化できます。\n \n \nWarm Pool にスケールインすると、スケールイン中に新しい Warm Pool インスタンスを再構築する必要がなくなります。この機能拡張により、スケールインイベント中に実行中のインスタンスを Warm Pool に戻すことができます。これまで、EC2 Auto Scaling は、スケールイン中に実行中の「稼働中」のインスタンスの 1 つを終了してから、新しいインスタンスを起動して事前に初期化し、Warm Pool を補充していました。今後は、インスタンスをご希望の状態 (停止、休止、または実行中ではあるがアイドル状態) で Warm Pool に戻すことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/",
+          "publishedOn": "2022-03-03T01:50:04.000Z",
+          "wordCount": 300,
+          "title": "Amazon EC2 Auto Scaling Warm Pool が、インスタンスの休止機能と、スケールイン時にインスタンスを Warm Pool に戻す機能のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "63f0411a60322c0fac17b4896fa7be841bc85a28",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) では、AWS Identity and Access Management (IAM) を使用して、Amazon RDS for MariaDB インスタンスのデータベースアクセスを管理できるようになりました。データベースの管理者はデータベースユーザーと IAM ユーザーやロールを関連付けることができるようになりました。IAM を使用することで、AWS リソースへのユーザーアクセスを 1 か所で管理でき、別の AWS リソースと同期していない許可に起因する問題を回避できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-iam-authentication/",
+          "publishedOn": "2022-03-03T01:47:38.000Z",
+          "wordCount": 284,
+          "title": "Amazon RDS for MariaDB が IAM 認証のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "110f4a0be1f3a8ef659db13dd8a5b742d0ff9736",
+          "author": "aws@amazon.com",
+          "description": "AWS Firewall Manager では、AWS Network Firewall をデプロイし、集約型デプロイモデルを使用してトラフィックを検査できるようになりました。これまで、Firewall Manager では、分散型デプロイモデルでのみ AWS Network Firewall をデプロイすることが可能でした。このモデルでは、保護が必要な各 VPC に AWS Network Firewall をデプロイすることになります。このリリースでは、お客様は Firewall Manager を使用して、分散型デプロイモデルまたは集約型デプロイモデルのいずれかで AWS Network Firewall をデプロイできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/",
+          "publishedOn": "2022-03-03T01:46:50.000Z",
+          "wordCount": 304,
+          "title": "AWS Firewall Manager が AWS Network Firewall の集約型デプロイモデルのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "7369322bf816a0139e10bef8ab70216286661023",
           "author": "aws@amazon.com",
           "description": "AWS Lambda で、マネージドランタイムおよびコンテナベースイメージの両方として .NET 6 がサポートされるようになりました。Lambda で .NET 6 を使用してサーバーレスアプリケーションを作成するデベロッパーは、ロギングの改善、最上位レベルのステートメントを使った関数定義の簡素化、ソースジェネレーターを使ったパフォーマンスの向上などの新機能を利用できます。.NET 6 を使用することで、.NET の新しい言語機能とパフォーマンス最適化も提供されます。 Lambda による .NET 6 のサポートの詳細については、.NET 6 runtime now available in AWS Lambda のブログ投稿をご覧ください。",
@@ -119,86 +269,6 @@
           "publishedOn": "2022-02-26T00:20:14.000Z",
           "wordCount": 306,
           "title": "Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f46c3e4f6f02e05e3305d3b496281fa0969caf48",
-          "author": "aws@amazon.com",
-          "description": "NICE DCV ウェブクライアントソフトウェア開発キット (SDK) バージョン 1.1.0 には、React コンポーネントとして記述されたユーザーインターフェイス (UI) ライブラリが導入されています。デベロッパーは、ユーザーインターフェイスを最初から構築する代わりに、React UI コンポーネントを使用および変更して、アプリケーションをより高速に構築できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/",
-          "publishedOn": "2022-02-25T09:59:14.000Z",
-          "wordCount": 275,
-          "title": "NICE DCV が新しい UI ライブラリを備えたウェブクライアント SDK 1.1.0 をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fc884895ef2a6dec8d06f8ce9f32a730728e1524",
-          "author": "aws@amazon.com",
-          "description": "Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日、フォーマル度のカスタマイズ機能をご紹介します。この機能を使用すると、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、スペイン語の 6 つのターゲット言語の翻訳出力のフォーマル度をカスタマイズできます。これで、コミュニケーションのニーズに合わせて、翻訳された出力のフォーマル度をカスタマイズできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-translate-formality-customization/",
-          "publishedOn": "2022-02-25T09:53:14.000Z",
-          "wordCount": 242,
-          "title": "Amazon Translate で、フランス語、ドイツ語、ヒンディー語、イタリア語、日本語、およびスペイン語のフォーマル度のカスタマイズが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "91d448f41841f178da2f8d78c9dae884ec6bd15e",
-          "author": "aws@amazon.com",
-          "description": "AWS Snowcone ソリッドステートドライブ (SSD) は、既に Snowcone SSD の利用が可能となっている AWS 米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン) に追加されるかたちで、AWS アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) の各リージョンでご利用いただけるようになりました。これらの利用可能なリージョンのリストは、今後も拡大予定です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/",
-          "publishedOn": "2022-02-25T09:47:14.000Z",
-          "wordCount": 331,
-          "title": "AWS Snowcone SSD が、アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3ee149e8651a3d899b570e97d981c6deb0ae7b96",
-          "author": "aws@amazon.com",
-          "description": "NICE DCV バージョン 2022.0 には、ゲームコントローラーのサポートや高い色精度のサポートなどの複数の新機能が導入されています。NICE DCV は、ハイパフォーマンスなリモートディスプレイプロトコルです。これを使用することで、リモートデスクトップまたはアプリケーションのセッション (ハイパフォーマンス GPU を搭載したサーバーでホストされた 3D グラフィックスアプリケーションなど) に安全にアクセスできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/",
-          "publishedOn": "2022-02-25T09:41:16.000Z",
-          "wordCount": 302,
-          "title": "NICE DCV が高い色精度とゲームコントローラーをサポートするバージョン 2022.0 をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "58e8e5088d90c95d1c78aa5c9ed9948aa0e74eaf",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、データモデリング、データ分析、およびデータ表示のために、行を列に、または列を行に、高いパフォーマンスで転置するのに役立つ PIVOT および UNPIVOT の SQL 演算子をサポートするようになりました。また、PIVOT と UNPIVOT を使用して、既存のデータウェアハウスシステムから Amazon Redshift に簡単に移行することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-support-pivot-unpivot-sql-operators/",
-          "publishedOn": "2022-02-25T09:35:17.000Z",
-          "wordCount": 267,
-          "title": "Amazon Redshift が PIVOT および UNPIVOT の SQL 演算子のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "07a1f860cafbc981d843e815a365ce6ebab1c03b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB では遅延レプリケーションがサポートされ、リードレプリカをソースデータベースより遅らせる時間を設定できるようになりました。MariaDB レプリケーションの標準設定では、ソースとレプリカの間のレプリケーション遅延が最小限に抑えられます。遅延レプリケーションでは、災害対策の戦略として意図的な遅延を導入できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/",
-          "publishedOn": "2022-02-25T04:05:14.000Z",
-          "wordCount": 241,
-          "title": "Amazon RDS for MariaDB が遅延レプリケーションのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9dc7e50df084fbe2b9112a8c410af9153ba184a9",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight の新しいコミュニティハブをお知らせします。これにより投稿者と管理者が、すべてが集まったハブで QuickSight を始められ、QuickSight の知識を深め、他の QuickSight ユーザーとつながることができます。これにより、ユーザーは学習リソースを求めたり他の QuickSight ユーザーと連絡をとったりするのにさまざまな多くのリソースを検索する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-quicksight-community-hub/",
-          "publishedOn": "2022-02-24T23:40:15.000Z",
-          "wordCount": 238,
-          "title": "Amazon QuickSight の新しいコミュニティハブのお知らせ",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "93f4bbd26486480cb5fc9f9b8663cb75f1c6ee3d",
-          "author": "aws@amazon.com",
-          "description": "今回 Amazon Kendra が、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各リージョンで、 FedRAMP Moderate の認証を取得しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-kendra-fedramp-compliant/",
-          "publishedOn": "2022-02-24T23:34:14.000Z",
-          "wordCount": 239,
-          "title": "Amazon Kendra は FedRAMP Moderate 準拠になりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
