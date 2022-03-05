@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-04T01:25:45.926Z</updated>
+    <updated>2022-03-05T01:18:04.817Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS は中国を拠点とするお客様向けに中国人民元でのお支払いのサポートを強化]]></title>
+        <id>800fb46f7d12d159e69f2c10e77d8773f95ec649</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/"/>
+        <updated>2022-03-04T19:31:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、Amazon Web Services, Inc. (以下「AWS Inc.」) からの請求書に対する中国人民元でのお支払いのサポートを強化しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS QnABot が Genesys Cloud コンタクトセンター、クライアントフィルター、機密情報のログのリダクションのサポートを追加]]></title>
+        <id>b12744a3da18a91f9678fb9355f9f4a29ab60a50</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/"/>
+        <updated>2022-03-04T19:31:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS ソリューションは、AWS QnABot をアップデートしました。AWS QnABot は、Amazon Lex をベースに構築された、オープンソース、マルチチャネル、マルチ言語の対話型 chatbot で、顧客の質問、返答、フィードバックに対応します。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.8.27 のサポートを開始]]></title>
+        <id>066ad2875132b543aa6123209da2e4cdc981916a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/"/>
+        <updated>2022-03-04T19:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ は、バージョン 3.8.26 に対するいくつかの修正を含む、RabbitMQ バージョン 3.8.27 のサポートを提供するようになりました。Amazon MQ は、AWS でより簡単にメッセージブローカーのセットアップや運用を行うことを可能にする Apache ActiveMQ および RabbitMQ 向けの、マネージド型メッセージブローカーサービスです。Amazon MQ を使用して、運用上の負担を軽減し、メッセージブローカーのプロビジョニング、セットアップ、メンテナンスを管理することができます。Amazon MQ は業界標準の API とプロトコルを使用して現在のアプリケーションに接続するため、コードを書き直すこともなく AWS への移行を簡単に実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.5、12.9、11.14、10.19 をサポート]]></title>
+        <id>b84d4f7f32538b58ff4e3b53a9d8445009df5927</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-aurora-supports-additional-postgresql-versions/"/>
+        <updated>2022-03-04T19:20:23.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートに関する発表を受けて、AWS では Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL バージョン 13.5、12.9、11.14 および 10.19 が、商用リージョンおよび AWS GovCloud (米国) リージョンでサポートされるようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 Hibernation がアジアパシフィック (ジャカルタ) とアジアパシフィック (大阪) AWS リージョンで利用可能に]]></title>
+        <id>a1e21c965fbe37e6605bf349f2ddfc4332a5b87e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/"/>
+        <updated>2022-03-04T19:19:35.000Z</updated>
+        <summary type="html"><![CDATA[EC2 Hibernation 機能がアジアパシフィック (ジャカルタ) とアジアパシフィック (大阪) AWS リージョンで利用可能になりました。休止機能により、EC2 インスタンスの起動、インスタンスの自由なセットアップと一時停止、そして一時停止状態のインスタンスを必要に応じて再開することが可能になります。インスタンスとアプリケーションは、コールドブートからメモリフットプリントを再構築する代わりに、中断したところからすぐに再開します。休止機能を使用すれば、事前ウォーミング済みのインスタンスフリートを維持することで、既存のアプリケーションを修正することなく、短時間で稼働状態に入ることができます。休止機能は Linux と Windows OS が動作するインスタンスで利用可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Braket が Oxford Quantum Circuits の新しい量子処理ユニットへのサポートを追加し、欧州 (ロンドン) リージョンで利用可能に]]></title>
+        <id>ea9809f5964b4da02af4c03ff7328c8c6ce0f6ec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/"/>
+        <updated>2022-03-04T19:18:29.000Z</updated>
+        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスの Amazon Braket は、英国の Oxford Quantum Circuits (OQC) の新しい超伝導ゲートベース量子処理ユニット (QPU) である通称 Lucy というサポートを追加しました。今回のリリースにより、欧州のお客様は、より多くの種類の量子ハードウェアを、欧州の一般的な勤務時間中に利用できるようになりました。さらに、お客様は Amazon Braket 上の 2 種類の超伝導ゲート型デバイスで量子プログラムを実行することで、異なるプロバイダー間の量子ハードウェアを比較対照することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GameLift が FlexMatch への 3 つのアップデートを発表し、より優れた柔軟性を実現]]></title>
+        <id>6b1d01216a67b386d9bb159f24e0280a7ba9b336</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/"/>
+        <updated>2022-03-04T19:17:41.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) マネージドサービスである Amazon GameLift の FlexMatch について 3 つのアップデートをお知らせいたします。GameLift FlexMatch は、強力なマッチメイキングアルゴリズムと柔軟なデベロッパー定義のルールを使用して AWS 規模で高品質のマッチを作成する機能として 2017 年にリリースされました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Application Migration Service が Windows Server 2003、2008、2022 および Windows 10 のサポートを開始]]></title>
+        <id>8f50c68abe709a7b28a877e5e8bd6960cc434abd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/"/>
+        <updated>2022-03-04T19:16:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) は、Windows Server 2003 (32 ビットおよび 64 ビット)、および Windows Server 2008 (32 ビットおよび 64 ビット) のサポートを追加しました。Application Migration Service を使用して、これらのレガシーオペレーティングシステムで動作するアプリケーションをリホストできるようになりました。Application Migration Service は、Windows 10 および Windows Server 2022 のサポートも追加しました。サービスのサポート対応オペレーティングシステム一覧を参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Container Insights は AWS Distro for OpenTelemetry を使用した Helm チャートをサポート対象に追加]]></title>
+        <id>09eec0f07622702c7f4b0806efb2cc76b5d9a0c4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/"/>
+        <updated>2022-03-04T19:16:05.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用して Amazon EKS on EC2 用 Helm チャートをサポート対象とし、お客様が EKS 上に構築されたアプリケーションを容易に定義、インストール、アップグレードできるようにしました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK Serverless が欧州 (アイルランド) で利用可能に]]></title>
+        <id>e0c7e1b5b9a232798fbcc097e12f43b2f0edf480</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-serverless-available-europe-ireland/"/>
+        <updated>2022-03-04T08:36:17.000Z</updated>
+        <summary type="html"><![CDATA[欧州 (アイルランド) AWS リージョンで、Apache Kafka アプリケーションを Amazon MSK Serverless に接続できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が Customer Carbon Footprint Tool の提供を開始]]></title>
+        <id>8f9402c8b8d1c86ea63334d480448f485987fe61</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-04T08:35:28.000Z</updated>
+        <summary type="html"><![CDATA[本日より、新しい Customer Carbon Footprint Tool の提供が開始され、お客様の AWS ワークロードによる環境への影響を算出できるようになりました。この新しいツールは、理解しやすいデータの可視化によって、二酸化炭素排出量の履歴、AWS の使用量が増加した場合に見込まれる排出量の評価、オンプレミスのデータセンターの代わりに AWS を導入したことで回避できた二酸化炭素排出量の推定値、現在の使用状況に基づく排出量の予測値をお客様に提供いたします。排出量の予測値は現在の使用状況に基づくものですが、Amazon が行う二酸化炭素への取り組みにより、お客様の二酸化炭素排出量が今後どのように推移するかも示されます。Amazon では、2025 年までに再生可能エネルギーの使用率を 100% にし、また The Climate Pledge の一環として 2040 年までにネットゼロカーボンを達成する、という取り組みを継続的に実施していきます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS App Runner は Java プラットフォームを追加]]></title>
         <id>31b68582faca9971ce75f27e6b024e6f40c70614</id>
@@ -239,36 +349,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/"/>
         <updated>2022-02-27T12:35:14.000Z</updated>
         <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle と Amazon Aurora は、アジアパシフィック (ジャカルタ) リージョンの Database Activity Streams のサポートを開始しました。Database Activity Streams は、リレーショナルデータベースがコンプライアンスおよび規制要件を満たすためのデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>b88ad62e8d7fdd6a49fe0d0d934d42ec7aed87f2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/"/>
-        <updated>2022-02-26T02:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。これは、悪意のあるアクティビティのために AWS アカウントとワークロードを継続的にモニタリングし、可視化と修復のための詳細なセキュリティ調査結果を提供する脅威検出サービスです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family がログインバナーのサポートを開始]]></title>
-        <id>01967ae1d51b2d0989d4004023ea2e9dceef8a0f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/"/>
-        <updated>2022-02-26T00:26:14.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始]]></title>
-        <id>f625b57d9484997e449505dc1daed54ee955a62f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/"/>
-        <updated>2022-02-26T00:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for SQL Server は、Standard Edition において、すべての AWS リージョンのマルチ AZ 設定用に Always On 可用性グループ (AG) の提供を開始しました。新たな高可用性オプションにより SQL Server におけるエンタープライズグレードの本稼働ワークロードの要件を満たすことができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
