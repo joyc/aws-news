@@ -12,6 +12,146 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "3e98ce3f7bacdaaf34e5d86db777ea4b435e1931",
+          "author": "aws@amazon.com",
+          "description": "LZ4 データ圧縮の導入により、Amazon FSx for OpenZFS ファイルシステムで 2 種類の圧縮オプションから選択できるようになりました。LZ4 は、(Z スタンダードに加えて) 非常に人気のあるもう 1 つのパフォーマンス最適化圧縮オプションで、個々のワークロードのニーズに基づいてストレージの効率とパフォーマンスを最適化することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/",
+          "publishedOn": "2022-03-05T13:47:39.000Z",
+          "wordCount": 260,
+          "title": "Amazon FSx for OpenZFS で 2 種類の圧縮オプションが選択可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9bb28c0d9e3ecb5bc049569ffb8944b219221235",
+          "author": "aws@amazon.com",
+          "description": "PostgreSQL および MySQL 用の Amazon Relational Database Service (Amazon RDS) は、3 つのアベイラビリティーゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた新しいマルチ AZ 配置オプションのサポートを開始しました。このデプロイオプションは、書き込みトランザクションに最適化されており、書き込みレイテンシーの短縮、自動フェイルオーバー、読み取り容量の拡大が必要なワークロードに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/",
+          "publishedOn": "2022-03-05T13:46:51.000Z",
+          "wordCount": 323,
+          "title": "最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒以下の自動フェイルオーバー、読み取り可能なスタンバイインスタンスを備えた新しい Amazon RDS マルチ AZ オプションを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "da3500e6dc4999e668391daec84e19b8b48d89ba",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation を使用して、Amazon Managed Streaming for Apache Kafka (MSK) のクラスター構成と SASL/SCRAM シークレットを管理できるようになりました。AWS CloudFormation の Amazon MSK サポートの詳細については、AWS CloudFormation のドキュメントを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/",
+          "publishedOn": "2022-03-05T13:46:03.000Z",
+          "wordCount": 268,
+          "title": "Amazon MSK が AWS CloudFormation サポートを強化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "32f9d3e322a1a3f841ca6dbf6ed2f3037ae2df45",
+          "author": "aws@amazon.com",
+          "description": "本日、オープンソースのフロントエンドライブラリである AWS IoT SiteWise 用 IoT アプリケーションキットの発売を発表いたします。これにより、デベロッパーは、AWS IoT SiteWise に接続されているプロセス、デバイス、機器から産業データを視覚化するアプリケーションを迅速に構築できます。IoT アプリケーションキットは、棒グラフ、折れ線グラフ、散布図、タイムラインビューなど、IoT データを管理および視覚化するためのユーザーインターフェイス (UI) コンポーネントです。デベロッパーは、これらの UI コンポーネントを使用して、さまざまなユースケースや独自のビジネスニーズに合わせた独自のアプリケーションを構築できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/",
+          "publishedOn": "2022-03-05T13:35:51.000Z",
+          "wordCount": 240,
+          "title": "AWS IoT SiteWise が、産業データを視覚化する独自のウェブアプリケーションを作成するための新しい開発ライブラリを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e448278de64d419458096f42228c5b2d5c035887",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/",
+          "publishedOn": "2022-03-05T13:35:04.000Z",
+          "wordCount": 284,
+          "title": "Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f4595f2a119ad586444f753293904f2846d5b6c8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (ECS) のお客様は、AWS Fault Injection Simulator (FIS) 実験を使用して、タスクレベルのコンテナー障害を試せるようになりました。この新しい AWS FIS 障害アクションを使用すると、AWS Fargate または Amazon EC2 インフラストラクチャにデプロイされているかどうかに関係なく、コンテナベースのアプリケーションでのタスクの実行を停止できるため、分散システムで見つけるのが困難な隠れたバグの発見、死角の監視、パフォーマンスのボトルネックの解消ができます。AWS FIS 実験は、カオスエンジニアリング、ゲームデイテスト、継続的配信などのユースケースで、アプリケーションの復元力を測定、検証、改善するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fault-injection-simulator-task-faults/",
+          "publishedOn": "2022-03-05T13:34:16.000Z",
+          "wordCount": 279,
+          "title": "Amazon Fault Injection Simulator が、Amazon Elastic Container Service のタスクレベルのフォールトのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c8f67c7a1c83c0c25c021b705c8026127d4b856e",
+          "author": "aws@amazon.com",
+          "description": "AWS Trusted Advisor Priority が、AWS Enterprise Support のお客様向けにプレビューで利用できるようになり、クラウド最適化のレコメンデーションの優先ビューと、これらのレコメンデーションのステータスを追跡できる機能を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-trusted-advisor-priority-enterprise-customers/",
+          "publishedOn": "2022-03-05T13:33:28.000Z",
+          "wordCount": 255,
+          "title": "AWS Trusted Advisor が AWS Enterprise Support のお客様に優先度を導入 (プレビュー)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "773dd0c0d2e881bb30be0b52414b36358d6fdd57",
+          "author": "aws@amazon.com",
+          "description": "本日より、16 歳以上で、現在世界中の高校または学部のカリキュラムに登録している学生は、DeepRacer Student Virtual League に参加して、賞品、栄誉、基調講演を特徴とするグローバルクラウドコンピューティングコミュニティのための学習カンファレンスである、AWS re:Invent 2022 への参加旅行を獲得するチャンスを得ることができます。AWS DeepRacer Student League は、機械学習の基本とその現実的応用に関する数十時間の無料の機械学習モデルトレーニングと教材へのアクセスを提供します。学生は AWS DeepRacer を使用して、仮想レースカーを機能させるために機械学習モデルをトレーニングする方法を学習することで、理論を実践的なアクションに具現化できます。すべてクレジットカードは必要ありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/",
+          "publishedOn": "2022-03-05T13:32:41.000Z",
+          "wordCount": 268,
+          "title": "学生の皆様、エンジンを始動しましょう AWS DeepRacer Student Virtual League が現在進行中です",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "65b012918066204331e9fe14db73357db3e86b1a",
+          "author": "aws@amazon.com",
+          "description": "Amazon MQ が、アジアパシフィック (ジャカルタ) リージョンの追加で、合計 26 のリージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-mq-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-03-05T13:31:52.000Z",
+          "wordCount": 243,
+          "title": "Amazon MQ がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4241bf1ff39ce0befd33682e22ed43492478f6b1",
+          "author": "aws@amazon.com",
+          "description": "これで、ログを Amazon CloudWatch Logs または Amazon S3 に送信することで、Amazon Fault Injection Simulator (FIS) の実験アクティビティを記録できるようになりました。AWS FIS の実験ログには、開始時刻と終了時刻、アクション名、ターゲットリソース ARN など、実験、アクション、ターゲットに関する詳細情報が含まれています。これらのログを使用することで、AWS FIS 実験によって実行されたアクティビティを識別し、それらをシステムの応答および監視および可観測性ツールと関連付けて、改善を実施することができます。さらに、AWS マネジメントコンソールで実験のタイムラインチャートを使用して、実行中または完了した実験を監視できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/",
+          "publishedOn": "2022-03-05T13:31:04.000Z",
+          "wordCount": 275,
+          "title": "Amazon Fault Injection Simulator が Amazon CloudWatch Logs および Amazon S3 へのロギングをサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c243790a04a034a3981b4536eb3e72a177207f35",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup は AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに AWS Backup に直接アクセスできるようになりました。PrivateLink を使用して、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャを簡素化できます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-privatelink-support-backup/",
+          "publishedOn": "2022-03-05T10:48:37.000Z",
+          "wordCount": 270,
+          "title": "AWS Backup 向けの AWS PrivateLink のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "19a6e4e019328645454b6cd2da0e2fa75b721d75",
+          "author": "aws@amazon.com",
+          "description": "Amazon FinSpace をご利用のお客様は、AWS SDK と CLI を使用して Amazon FinSpace アプリケーションユーザーを管理できるようになりました。これらの API を使用して、お客様は、Amazon FinSpace が組織のアクセス管理ルールを満たせるように、Amazon FinSpace をアイデンティティ管理プロビジョニングプロセスに統合できます。例えば、ユーザーが FinSpace を使用する定量的調査チームに参加する場合に、FinSpace でユーザーアカウントが自動的に作成されるようにできます。同様に、ユーザーが顧客の組織を離れたり、その職務が変更となったりした場合には、組織全体のアプリケーション権限付与ワークフローの一環として、それらのユーザーが FinSpace で自動的に非アクティブ化されるようにできます。この新機能は、Amazon FinSpace の既存のシングルサインオン機能に追加され、アクセスを管理するためのより効果的なコントロールをお客様に提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-finspace-user-apis/",
+          "publishedOn": "2022-03-05T10:47:49.000Z",
+          "wordCount": 264,
+          "title": "Amazon FinSpace が新しい User API をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2d616d29a86fd100aaf5c14359397d5a0fdc694f",
+          "author": "aws@amazon.com",
+          "description": "本日より、NAT64 および DNS64 の機能は、すべての AWS 商用リージョンおよび AWS GovCloud (米国) リージョンでご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/",
+          "publishedOn": "2022-03-05T10:47:01.000Z",
+          "wordCount": 337,
+          "title": "AWS がすべての AWS 商用リージョンおよび AWS GovCloud (米国) リージョンで NAT64 および DNS64 の機能を拡張",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "95adcba67be5d121603cae737737aa08a2df0538",
+          "author": "aws@amazon.com",
+          "description": "統合された AWS Health Dashboard を発表します。これは、AWS Service Health Dashboard と Personal Health Dashboard を接続して単一のエクスペリエンスとした新しいダッシュボードです。この新しいダッシュボードは、より応答性が高く正確なビュー、改善された使いやすさ、およびより高度なオペレーションの回復性を提供するように設計されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/",
+          "publishedOn": "2022-03-05T10:46:13.000Z",
+          "wordCount": 261,
+          "title": "新しい統合された AWS Health Dashboard の最初のイテレーションを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "800fb46f7d12d159e69f2c10e77d8773f95ec649",
           "author": "aws@amazon.com",
           "description": "AWS は、Amazon Web Services, Inc. (以下「AWS Inc.」) からの請求書に対する中国人民元でのお支払いのサポートを強化しました。",
@@ -329,26 +469,6 @@
           "publishedOn": "2022-02-27T18:50:14.000Z",
           "wordCount": 311,
           "title": "AWS Backup for Amazon S3 の一般提供を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "334d8ec242fd85afe64cfaf80c16cc932c2aac6f",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue は、ジョブ実行のインサイトを提供するようになりました。これは、エラーの原因とパフォーマンスのボトルネックを特定できるようにすることで、Apache Spark ジョブの開発時間を短縮する機能です。AWS Glue は、サーバーレスの Apache Spark と Python を使用して、お客様が分析用のデータを検出、準備、結合できるようにするデータ統合サービスです。Spark の分散処理と「遅延実行」モデルでは、データエンジニアがエラーを診断してパフォーマンスを調整するのは困難で時間がかかります。今回のリリースにより、AWS Glue は、Spark ジョブのエラーの自動分析と解釈を行い、プロセスを高速化します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/",
-          "publishedOn": "2022-02-27T12:41:14.000Z",
-          "wordCount": 253,
-          "title": "AWS Glue ジョブ実行のインサイトの発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3e96caa95009eed8a527b6405f6eb11baa71f669",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle と Amazon Aurora は、アジアパシフィック (ジャカルタ) リージョンの Database Activity Streams のサポートを開始しました。Database Activity Streams は、リレーショナルデータベースがコンプライアンスおよび規制要件を満たすためのデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/",
-          "publishedOn": "2022-02-27T12:35:14.000Z",
-          "wordCount": 277,
-          "title": "Amazon RDS for Oracle and Amazon Aurora 用の Database Activity Streams がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
