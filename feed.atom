@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-08T01:17:20.098Z</updated>
+    <updated>2022-03-09T01:21:10.098Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra にクエリ用のスペルチェッカーが追加]]></title>
+        <id>ca7b41935c2b8cf7aaf4230e61d4bfa432fba5c4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/"/>
+        <updated>2022-03-08T22:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を活用したインテリジェントな検索サービスです。Amazon Kendra は、組織がより関連性の高い情報を顧客や従業員に必要に応じて提供するのに役立ちます。本日より、AWS のお客様は、クエリ内の単語にスペルミスがある場合にスペル修正の提案する Amazon Kendra のスペルチェッカーをご使用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Security Hub で、セキュリティ体制のモニタリングのために、13 のコントロールとパートナー 2 社の利用が可能に]]></title>
         <id>06f7378ce0a3a2aebde4368f97448ddc158dd126</id>

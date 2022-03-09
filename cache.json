@@ -12,6 +12,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ca7b41935c2b8cf7aaf4230e61d4bfa432fba5c4",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を活用したインテリジェントな検索サービスです。Amazon Kendra は、組織がより関連性の高い情報を顧客や従業員に必要に応じて提供するのに役立ちます。本日より、AWS のお客様は、クエリ内の単語にスペルミスがある場合にスペル修正の提案する Amazon Kendra のスペルチェッカーをご使用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/",
+          "publishedOn": "2022-03-08T22:00:53.000Z",
+          "wordCount": 248,
+          "title": "Amazon Kendra にクエリ用のスペルチェッカーが追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "06f7378ce0a3a2aebde4368f97448ddc158dd126",
           "author": "aws@amazon.com",
           "description": "AWS Security Hub は、お客様の Cloud Security Posture Management (CSPM) を強化する目的で Foundational Security Best Practice standard (FSBP) 向けに 13 の新しいコントロールをリリースしました。これらのコントロールは、Amazon CloudFront、Amazon EC2、Amazon OpenSearch、Amazon Relational Database Service (RDS)、Amazon Simple Storage Service (S3)、および AWS Virtual Private Network (VPN) のセキュリティのベストプラクティスに対して完全自動チェックを実行します。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS でセキュリティ体制を自動的にチェックするための 175 のセキュリティコントロールをサポートするようになりました。",
