@@ -12,6 +12,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "f5c20d42c54b9ac21700b896c4652cb88adc4d9b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB のマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、および 10.2.43 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/",
+          "publishedOn": "2022-03-10T11:57:16.000Z",
+          "wordCount": 261,
+          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、10.2.43 をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "72a212cd0d57707f44c21509afd54a7e8d7cfed3",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker サーバーレスおよび非同期推論は、Amazon SageMaker Python SDK をサポートするようになりました。これにより、デプロイに必要な手順が抽象化され、モデルのデプロイワークフローが簡素化されます。SageMaker Python SDK は、Amazon SageMaker に機械学習モデルをデプロイするためのオープンソースライブラリです。最適化された機械学習フレームワーク、SageMaker がサポートするファーストパーティーのアルゴリズムのいずれかを使用するか、Python SDK を使用して独自のモデルをデプロイすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/",
+          "publishedOn": "2022-03-10T11:56:27.000Z",
+          "wordCount": 269,
+          "title": "Amazon SageMaker サーバーレス推論 (プレビュー) と非同期推論が SageMaker Python SDK のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cea0b5bfab70f62618a4ef0a74eb08f3120f3386",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight が、24 時間ごとの直接クエリコントロールの自動更新をサポートするようになりました。この新機能は、QuickSight リーダーが、直接クエリデータセットからコントロール値を手動で更新しなくても、ダッシュボードのコントロールを使用できる、より効率化されたエクスペリエンスを実現します。QuickSight データの更新の詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/",
+          "publishedOn": "2022-03-10T08:32:43.000Z",
+          "wordCount": 236,
+          "title": "Amazon QuickSight で、直接クエリの自動更新コントロールが有効になります",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e368f58c01fe092fc3f36355e1c3b25f617f154f",
+          "author": "aws@amazon.com",
+          "description": "AWS の量子コンピューティングサービスである Amazon Braket が、ゲートベースの量子デバイスおよびシミュレーター用の OpenQASM 3.0のサポートを追加しました。今回のリリースでは、Braket SDK を使用して以前と同じようにプログラムを構築および実行するか、Braket SDK および API を介して同等の OpenQASM 3.0 文字列を直接提供するかをお客様が選択できます。Amazon Braket による OpenQASM 3.0 の導入と継続的なサポートにより、さまざまな開発環境間で量子プログラムを簡単に移行できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/",
+          "publishedOn": "2022-03-10T08:31:55.000Z",
+          "wordCount": 275,
+          "title": "Amazon Braket が、OpenQASM 3.0 のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3a504c2bac49ede99b240e0bf17a6b6480cfcc5a",
+          "author": "aws@amazon.com",
+          "description": "複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/",
+          "publishedOn": "2022-03-10T08:31:06.000Z",
+          "wordCount": 290,
+          "title": "Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0d25974d19e40be3067aef9b2a2a0c4389775312",
           "author": "aws@amazon.com",
           "description": "Amazon FSx for OpenZFS ファイルシステムでのデータの保存方法をカスタマイズして、データベースアプリケーションや、小刻みなデータの読み書きを定常的に行うその他のワークロードのパフォーマンスを最適化できるようになりました。",
@@ -359,26 +409,6 @@
           "publishedOn": "2022-03-04T19:16:05.000Z",
           "wordCount": 318,
           "title": "Amazon CloudWatch Container Insights は AWS Distro for OpenTelemetry を使用した Helm チャートをサポート対象に追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e0c7e1b5b9a232798fbcc097e12f43b2f0edf480",
-          "author": "aws@amazon.com",
-          "description": "欧州 (アイルランド) AWS リージョンで、Apache Kafka アプリケーションを Amazon MSK Serverless に接続できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-serverless-available-europe-ireland/",
-          "publishedOn": "2022-03-04T08:36:17.000Z",
-          "wordCount": 260,
-          "title": "Amazon MSK Serverless が欧州 (アイルランド) で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8f9402c8b8d1c86ea63334d480448f485987fe61",
-          "author": "aws@amazon.com",
-          "description": "本日より、新しい Customer Carbon Footprint Tool の提供が開始され、お客様の AWS ワークロードによる環境への影響を算出できるようになりました。この新しいツールは、理解しやすいデータの可視化によって、二酸化炭素排出量の履歴、AWS の使用量が増加した場合に見込まれる排出量の評価、オンプレミスのデータセンターの代わりに AWS を導入したことで回避できた二酸化炭素排出量の推定値、現在の使用状況に基づく排出量の予測値をお客様に提供いたします。排出量の予測値は現在の使用状況に基づくものですが、Amazon が行う二酸化炭素への取り組みにより、お客様の二酸化炭素排出量が今後どのように推移するかも示されます。Amazon では、2025 年までに再生可能エネルギーの使用率を 100% にし、また The Climate Pledge の一環として 2040 年までにネットゼロカーボンを達成する、という取り組みを継続的に実施していきます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/",
-          "publishedOn": "2022-03-04T08:35:28.000Z",
-          "wordCount": 275,
-          "title": "AWS が Customer Carbon Footprint Tool の提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
