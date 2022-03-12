@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-11T01:23:43.669Z</updated>
+    <updated>2022-03-12T01:12:54.196Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -102,6 +102,16 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/"/>
         <updated>2022-03-09T08:31:13.000Z</updated>
         <summary type="html"><![CDATA[Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日より、Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始することをお知らせいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が Customer Carbon Footprint Tool の提供を開始]]></title>
+        <id>8f9402c8b8d1c86ea63334d480448f485987fe61</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-09T07:46:05.000Z</updated>
+        <summary type="html"><![CDATA[本日より、新しい Customer Carbon Footprint Tool の提供が開始され、お客様の AWS ワークロードによる環境への影響を算出できるようになりました。この新しいツールは、理解しやすいデータの視覚化を使用して、履歴的な CO2 排出量のお客様への提示、AWS 使用量の増加に伴う排出量傾向の評価、オンプレミスデータセンターの代わりに AWS を使用することによって回避された推定 CO2 排出量の概算、および現在の使用量に基づく予想排出量のレビューを行います。排出量の予測値は現在の使用状況に基づくものですが、Amazon が行う二酸化炭素排出削減の取り組みにより、お客様の二酸化炭素排出量が今後どのように推移するかも示されます。Amazon では、2030 年としていた当初の目標を 5 年前倒しにして 2025 年までに再生可能エネルギーの使用率を 100% にする取り組みを継続するとともに、The Climate Pledge の一環として 2040 年までにカーボンニュートラルを達成するよう行動しています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -272,136 +282,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/"/>
         <updated>2022-03-05T13:31:04.000Z</updated>
         <summary type="html"><![CDATA[これで、ログを Amazon CloudWatch Logs または Amazon S3 に送信することで、Amazon Fault Injection Simulator (FIS) の実験アクティビティを記録できるようになりました。AWS FIS の実験ログには、開始時刻と終了時刻、アクション名、ターゲットリソース ARN など、実験、アクション、ターゲットに関する詳細情報が含まれています。これらのログを使用することで、AWS FIS 実験によって実行されたアクティビティを識別し、それらをシステムの応答および監視および可観測性ツールと関連付けて、改善を実施することができます。さらに、AWS マネジメントコンソールで実験のタイムラインチャートを使用して、実行中または完了した実験を監視できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup 向けの AWS PrivateLink のサポートを発表]]></title>
-        <id>c243790a04a034a3981b4536eb3e72a177207f35</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-privatelink-support-backup/"/>
-        <updated>2022-03-05T10:48:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに AWS Backup に直接アクセスできるようになりました。PrivateLink を使用して、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャを簡素化できます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FinSpace が新しい User API をリリース]]></title>
-        <id>19a6e4e019328645454b6cd2da0e2fa75b721d75</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-finspace-user-apis/"/>
-        <updated>2022-03-05T10:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FinSpace をご利用のお客様は、AWS SDK と CLI を使用して Amazon FinSpace アプリケーションユーザーを管理できるようになりました。これらの API を使用して、お客様は、Amazon FinSpace が組織のアクセス管理ルールを満たせるように、Amazon FinSpace をアイデンティティ管理プロビジョニングプロセスに統合できます。例えば、ユーザーが FinSpace を使用する定量的調査チームに参加する場合に、FinSpace でユーザーアカウントが自動的に作成されるようにできます。同様に、ユーザーが顧客の組織を離れたり、その職務が変更となったりした場合には、組織全体のアプリケーション権限付与ワークフローの一環として、それらのユーザーが FinSpace で自動的に非アクティブ化されるようにできます。この新機能は、Amazon FinSpace の既存のシングルサインオン機能に追加され、アクセスを管理するためのより効果的なコントロールをお客様に提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS がすべての AWS 商用リージョンおよび AWS GovCloud (米国) リージョンで NAT64 および DNS64 の機能を拡張]]></title>
-        <id>2d616d29a86fd100aaf5c14359397d5a0fdc694f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/"/>
-        <updated>2022-03-05T10:47:01.000Z</updated>
-        <summary type="html"><![CDATA[本日より、NAT64 および DNS64 の機能は、すべての AWS 商用リージョンおよび AWS GovCloud (米国) リージョンでご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい統合された AWS Health Dashboard の最初のイテレーションを発表]]></title>
-        <id>95adcba67be5d121603cae737737aa08a2df0538</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/"/>
-        <updated>2022-03-05T10:46:13.000Z</updated>
-        <summary type="html"><![CDATA[統合された AWS Health Dashboard を発表します。これは、AWS Service Health Dashboard と Personal Health Dashboard を接続して単一のエクスペリエンスとした新しいダッシュボードです。この新しいダッシュボードは、より応答性が高く正確なビュー、改善された使いやすさ、およびより高度なオペレーションの回復性を提供するように設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS は中国を拠点とするお客様向けに中国人民元でのお支払いのサポートを強化]]></title>
-        <id>800fb46f7d12d159e69f2c10e77d8773f95ec649</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/"/>
-        <updated>2022-03-04T19:31:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、Amazon Web Services, Inc. (以下「AWS Inc.」) からの請求書に対する中国人民元でのお支払いのサポートを強化しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS QnABot が Genesys Cloud コンタクトセンター、クライアントフィルター、機密情報のログのリダクションのサポートを追加]]></title>
-        <id>b12744a3da18a91f9678fb9355f9f4a29ab60a50</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/"/>
-        <updated>2022-03-04T19:31:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS ソリューションは、AWS QnABot をアップデートしました。AWS QnABot は、Amazon Lex をベースに構築された、オープンソース、マルチチャネル、マルチ言語の対話型 chatbot で、顧客の質問、返答、フィードバックに対応します。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.8.27 のサポートを開始]]></title>
-        <id>066ad2875132b543aa6123209da2e4cdc981916a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/"/>
-        <updated>2022-03-04T19:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon MQ は、バージョン 3.8.26 に対するいくつかの修正を含む、RabbitMQ バージョン 3.8.27 のサポートを提供するようになりました。Amazon MQ は、AWS でより簡単にメッセージブローカーのセットアップや運用を行うことを可能にする Apache ActiveMQ および RabbitMQ 向けの、マネージド型メッセージブローカーサービスです。Amazon MQ を使用して、運用上の負担を軽減し、メッセージブローカーのプロビジョニング、セットアップ、メンテナンスを管理することができます。Amazon MQ は業界標準の API とプロトコルを使用して現在のアプリケーションに接続するため、コードを書き直すこともなく AWS への移行を簡単に実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.5、12.9、11.14、10.19 をサポート]]></title>
-        <id>b84d4f7f32538b58ff4e3b53a9d8445009df5927</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-aurora-supports-additional-postgresql-versions/"/>
-        <updated>2022-03-04T19:20:23.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートに関する発表を受けて、AWS では Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL バージョン 13.5、12.9、11.14 および 10.19 が、商用リージョンおよび AWS GovCloud (米国) リージョンでサポートされるようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EC2 Hibernation がアジアパシフィック (ジャカルタ) とアジアパシフィック (大阪) AWS リージョンで利用可能に]]></title>
-        <id>a1e21c965fbe37e6605bf349f2ddfc4332a5b87e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/"/>
-        <updated>2022-03-04T19:19:35.000Z</updated>
-        <summary type="html"><![CDATA[EC2 Hibernation 機能がアジアパシフィック (ジャカルタ) とアジアパシフィック (大阪) AWS リージョンで利用可能になりました。休止機能により、EC2 インスタンスの起動、インスタンスの自由なセットアップと一時停止、そして一時停止状態のインスタンスを必要に応じて再開することが可能になります。インスタンスとアプリケーションは、コールドブートからメモリフットプリントを再構築する代わりに、中断したところからすぐに再開します。休止機能を使用すれば、事前ウォーミング済みのインスタンスフリートを維持することで、既存のアプリケーションを修正することなく、短時間で稼働状態に入ることができます。休止機能は Linux と Windows OS が動作するインスタンスで利用可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Braket が Oxford Quantum Circuits の新しい量子処理ユニットへのサポートを追加し、欧州 (ロンドン) リージョンで利用可能に]]></title>
-        <id>ea9809f5964b4da02af4c03ff7328c8c6ce0f6ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/"/>
-        <updated>2022-03-04T19:18:29.000Z</updated>
-        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスの Amazon Braket は、英国の Oxford Quantum Circuits (OQC) の新しい超伝導ゲートベース量子処理ユニット (QPU) である通称 Lucy というサポートを追加しました。今回のリリースにより、欧州のお客様は、より多くの種類の量子ハードウェアを、欧州の一般的な勤務時間中に利用できるようになりました。さらに、お客様は Amazon Braket 上の 2 種類の超伝導ゲート型デバイスで量子プログラムを実行することで、異なるプロバイダー間の量子ハードウェアを比較対照することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon GameLift が FlexMatch への 3 つのアップデートを発表し、より優れた柔軟性を実現]]></title>
-        <id>6b1d01216a67b386d9bb159f24e0280a7ba9b336</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/"/>
-        <updated>2022-03-04T19:17:41.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) マネージドサービスである Amazon GameLift の FlexMatch について 3 つのアップデートをお知らせいたします。GameLift FlexMatch は、強力なマッチメイキングアルゴリズムと柔軟なデベロッパー定義のルールを使用して AWS 規模で高品質のマッチを作成する機能として 2017 年にリリースされました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Application Migration Service が Windows Server 2003、2008、2022 および Windows 10 のサポートを開始]]></title>
-        <id>8f50c68abe709a7b28a877e5e8bd6960cc434abd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/"/>
-        <updated>2022-03-04T19:16:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) は、Windows Server 2003 (32 ビットおよび 64 ビット)、および Windows Server 2008 (32 ビットおよび 64 ビット) のサポートを追加しました。Application Migration Service を使用して、これらのレガシーオペレーティングシステムで動作するアプリケーションをリホストできるようになりました。Application Migration Service は、Windows 10 および Windows Server 2022 のサポートも追加しました。サービスのサポート対応オペレーティングシステム一覧を参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Container Insights は AWS Distro for OpenTelemetry を使用した Helm チャートをサポート対象に追加]]></title>
-        <id>09eec0f07622702c7f4b0806efb2cc76b5d9a0c4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/"/>
-        <updated>2022-03-04T19:16:05.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用して Amazon EKS on EC2 用 Helm チャートをサポート対象とし、お客様が EKS 上に構築されたアプリケーションを容易に定義、インストール、アップグレードできるようにしました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
