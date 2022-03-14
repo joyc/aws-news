@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-13T01:15:20.003Z</updated>
+    <updated>2022-03-14T01:20:49.991Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
@@ -162,36 +162,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-detective-enhances-search-support-security-root-cause-analysis/"/>
         <updated>2022-03-07T15:16:13.000Z</updated>
         <summary type="html"><![CDATA[Amazon Detective は、ワイルドカード文字と IP アドレスのクラスレスドメイン間ルーティング (CIDR) 表記のサポートを追加することにより、検索機能を改善しました。Amazon Detective は、AWS CloudTrail、Amazon VPC Flow Logs、Amazon GuardDuty などのソースからのデータを抽出して、お客様の AWS 環境全体で観察されたリソースの動作とインタラクションを要約するグラフモデルに整理することで、お客様がセキュリティ調査を実施するのをサポートします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Data Provider for SAP で JDK11 および追加の Amazon EC2 インスタンスタイプのサポートを開始]]></title>
-        <id>1f117244da4d3258c2f3411d18faf81a8511afc6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/"/>
-        <updated>2022-03-07T10:35:32.000Z</updated>
-        <summary type="html"><![CDATA[AWS Data Provider for SAP バージョン 4.1 が、AWS GovCloud (米国) リージョンを含むすべての商用リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アマゾン ウェブ サービスの MySQL 用の JDBC ドライバーで、より高速なデータベースフェイルオーバーを実現]]></title>
-        <id>e566608de7e743e669b55f834e440d95286b8dc2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-web-services-jdbc-driver-mysql-failover/"/>
-        <updated>2022-03-07T10:32:06.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) の MySQL 用 Java (JDBC) ドライバーの一般提供が開始され、Amazon RDS または Amazon Aurora MySQL 互換エディションのデータベースクラスターで使用できるようになりました。このデータベースドライバーが、データベースクラスターのステータスをモニタリングし、クラスターのトポロジーをキャッシュすることで、フェイルオーバー時間を最小限に抑えます。 ノードに障害が発生した場合の DNS 名解決の速度を向上させるためにキャッシュが使用したことで、フェイルオーバー時間が数分から数秒に短縮しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup 向けの AWS PrivateLink のサポートを発表]]></title>
-        <id>c243790a04a034a3981b4536eb3e72a177207f35</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-privatelink-support-backup/"/>
-        <updated>2022-03-07T04:31:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに AWS Backup に直接アクセスできるようになりました。PrivateLink を使用して、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャを簡素化できます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

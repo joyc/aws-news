@@ -170,36 +170,6 @@
           "wordCount": 252,
           "title": "Amazon Detective が検索を強化し、セキュリティの根本原因分析をより適切にサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1f117244da4d3258c2f3411d18faf81a8511afc6",
-          "author": "aws@amazon.com",
-          "description": "AWS Data Provider for SAP バージョン 4.1 が、AWS GovCloud (米国) リージョンを含むすべての商用リージョンで利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/",
-          "publishedOn": "2022-03-07T10:35:32.000Z",
-          "wordCount": 307,
-          "title": "AWS Data Provider for SAP で JDK11 および追加の Amazon EC2 インスタンスタイプのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e566608de7e743e669b55f834e440d95286b8dc2",
-          "author": "aws@amazon.com",
-          "description": "アマゾン ウェブ サービス (AWS) の MySQL 用 Java (JDBC) ドライバーの一般提供が開始され、Amazon RDS または Amazon Aurora MySQL 互換エディションのデータベースクラスターで使用できるようになりました。このデータベースドライバーが、データベースクラスターのステータスをモニタリングし、クラスターのトポロジーをキャッシュすることで、フェイルオーバー時間を最小限に抑えます。 ノードに障害が発生した場合の DNS 名解決の速度を向上させるためにキャッシュが使用したことで、フェイルオーバー時間が数分から数秒に短縮しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-web-services-jdbc-driver-mysql-failover/",
-          "publishedOn": "2022-03-07T10:32:06.000Z",
-          "wordCount": 259,
-          "title": "アマゾン ウェブ サービスの MySQL 用の JDBC ドライバーで、より高速なデータベースフェイルオーバーを実現",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c243790a04a034a3981b4536eb3e72a177207f35",
-          "author": "aws@amazon.com",
-          "description": "AWS Backup は AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに AWS Backup に直接アクセスできるようになりました。PrivateLink を使用して、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャを簡素化できます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-privatelink-support-backup/",
-          "publishedOn": "2022-03-07T04:31:05.000Z",
-          "wordCount": 270,
-          "title": "AWS Backup 向けの AWS PrivateLink のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     }
