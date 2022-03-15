@@ -12,6 +12,156 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "cc7b0ff2c2add5b24cb6febde88dcea73a6c9a85",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、MSK Connect のカスタム設定プロバイダーが利用可能になりました。この機能により、Amazon Secrets Manager のようなプロバイダーでシークレットを保存し、コネクタやワーカーの設定プロパティにパスワードやその他の認証情報を保存することを避けることができます。MSK Connect プラグインの一部として、Apache Kafka と互換性のある任意の ConfigProvider を提供し、これを使用して設定をフェッチすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/",
+          "publishedOn": "2022-03-14T15:33:35.000Z",
+          "wordCount": 260,
+          "title": "Amazon MSK Connect が外部シークレットと config プロバイダーによる設定のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ba17395b5adf6470dedadd3d5a4d8d8c84be444f",
+          "author": "aws@amazon.com",
+          "description": "Amazon Comprehend は、機械学習を使用してテキストからインサイトを見つける自然言語処理 (NLP) サービスの 1 つです。本日より、Comprehend で Targeted Sentiment が提供されます。本機能、テキスト内のエンティティに対する感情（ポジティブ (肯定的) 、ネガティブ (否定的) 、ニュートラル (中立的) 、または混在）を識別することで、より詳細な感情のインサイトを提供する新しい API です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/",
+          "publishedOn": "2022-03-14T15:32:47.000Z",
+          "wordCount": 264,
+          "title": "Amazon Comprehend でエンティティベースの感情分析のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ec8f3af528dc24fda20032ca0adbd664e4c434d5",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 では、Amazon Machine Images (AMI) の所有者向けに「lastLaunchedTime」と呼ばれる新しいプロパティが追加されました。このプロパティ使用すれば、AMI の所有者は、AMI が EC2 インスタンスの起動に最後に使用されたときのタイムスタンプを表示できるのようになります。これにより、AMI の所有者は、AMI、特に公的に共有されている AMI の使用状況を理解し、AMI の廃止または登録解除について情報に基づいた決定を下すことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/",
+          "publishedOn": "2022-03-14T15:32:00.000Z",
+          "wordCount": 249,
+          "title": "Amazon EC2 が AMI を使用して最新のインスタンス起動のタイムスタンプを表示するための新しい AMI プロパティをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8b833c47cc3ced81e670e30d54439733c9788fed",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for SQL Server で M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/",
+          "publishedOn": "2022-03-14T15:31:11.000Z",
+          "wordCount": 355,
+          "title": "Amazon RDS for SQL Server で M6i と R6i インスタンスのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "43cea26a995e635d96a3d06546e46efc895a0574",
+          "author": "aws@amazon.com",
+          "description": "本日、Swift のみを使用するように書き換えられた Amplify iOS ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Swift デベロッパーは、認証、ストレージ、データ、API などのクラウドベースのアプリ機能を追加できます。基になるオープンソースコードをデバッグしたり、提供したりするために Objective-C に移行する必要はありません。今後のリリースでは、追加の Amplify ユースケースのほか、構造化された同時実行などの Swift ベースの言語機能へのサポートを追加する予定です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/",
+          "publishedOn": "2022-03-14T07:36:44.000Z",
+          "wordCount": 259,
+          "title": "Swift のみを使用するように書き換えられた Amplify iOS ライブラリ (デベロッパープレビュー) の発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b9fb2b3f58fc7c0a80754ac7c264f575c146b27c",
+          "author": "aws@amazon.com",
+          "description": "Amazon Aurora PostgreSQL 互換エディションで、複数メジャーバージョンアップグレードがサポートされるようになりました。これにより、複数のメジャーバージョンをまたいだメジャーバージョンアップデートを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/",
+          "publishedOn": "2022-03-14T07:35:57.000Z",
+          "wordCount": 305,
+          "title": "Amazon Aurora で Aurora PostgreSQL 11 以降への複数メジャーバージョンアップグレードをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "15793c7c84f77582c7e0277e8d92890996952ad3",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Genomics CLI のワークフロー管理ツールのカタログに、ゲノミクス分析のために Snakemake が追加されたことを発表しました。このカタログには、Cromwell、Nextflow、および miniWDL も含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/",
+          "publishedOn": "2022-03-14T07:32:43.000Z",
+          "wordCount": 257,
+          "title": "Amazon Genomics CLI に Snakemake ワークフロー管理システムが追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7cae56bb65880a3f01d75a58e808a7ff9a9c2b0d",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon DevOps Guru と Amazon CodeGuru Profiler の統合が利用可能になったことを発表します。この統合により、DevOps Guru コンソールでインサイトとして Amazon CodeGuru Profiler からのレコメンデーションにアクセスできるようになり、アプリケーションのパフォーマンスの問題と、その問題の原因である基になるコードを簡単に紐づけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/",
+          "publishedOn": "2022-03-14T07:31:51.000Z",
+          "wordCount": 294,
+          "title": "CodeGuru Profiler との統合により Amazon DevOps Guru の Lambda へのサポートを拡張",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4b20944d16373c46e1cb76fb386894a5dfbd35a9",
+          "author": "aws@amazon.com",
+          "description": "コンテナワークロードを実行するために設計された Linux ベースのオペレーティングシステムである Bottlerocket は、NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプをサポートするようになりました。お客様は、機械学習、動画エンコーディング、ストリーミングワークロードなど、GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナが重要な役割を果たすホストオペレーティングシステムを使用できるようになりました。これは、お客様が、基盤となる専用のコンピューティングハードウェアを利用する単一のオペレーティングシステムで標準化するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/",
+          "publishedOn": "2022-03-14T06:46:49.000Z",
+          "wordCount": 282,
+          "title": "Bottlerocket が NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "60272685f08eb8eaa3c0a9b0cc65a2977ca592c3",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (RDS) for Oracle は、Oracle Database 21c をサポートするようになりました。Oracle Database 21c 用に Amazon RDS インスタンスを起動できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/",
+          "publishedOn": "2022-03-14T06:46:00.000Z",
+          "wordCount": 328,
+          "title": "Amazon RDS for Oracle で Oracle Database 21c のサポートを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "aa6e77d7a158fb4d0b58fc9d0ae2caf357d9ba5e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect の問い合わせ履歴とサードパーティーアプリケーションの異種の顧客データを 1 つの顧客プロファイルに統合した Amazon Connect Customer Profiles は、Salesforce や S3 などのソースからの顧客データを 1 つのプロファイルに集約する方法を設定するためのノーコードエクスペリエンスを提供するようになりました。これは、コードを記述せずにデータを顧客プロファイルに追加する方法をカスタマイズすることによって、管理者がエージェントに必要な顧客情報を簡単に提供できるようにするのに役立ちます。管理者は、Amazon Connect の AWS コンソールを介して、データを顧客プロファイルにマッピングする方法をカスタマイズしたり、プロファイルにユーザー定義のデータ属性を作成したり、プロファイルの検索に使用できる検索キーをカスタマイズしたりできます。リリース時には、Amazon Simple Storage Service (Amazon S3)、Salesforce、ServiceNow、Zendesk、Marketo といったデータソースがサポートされます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/",
+          "publishedOn": "2022-03-14T06:32:06.000Z",
+          "wordCount": 254,
+          "title": "Amazon Connect Customer Profiles でコンソールでデータ集約のカスタマイズが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2f4c0685a5a0110c14bbf755d03c557ae9d2bccb",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB は、各リクエストのオプションのパラメータとして、PartiQL オペレーションで処理される項目数の制限をサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/",
+          "publishedOn": "2022-03-14T06:31:17.000Z",
+          "wordCount": 240,
+          "title": "Amazon DynamoDB が PartiQL オペレーションの制限リクエストオプションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "715571dc1f092ef35cf9628b43049e04d549d0e7",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/",
+          "publishedOn": "2022-03-14T03:33:02.000Z",
+          "wordCount": 249,
+          "title": "Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b0d158c98775339fb17ce08522a6d6ccca743f53",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/",
+          "publishedOn": "2022-03-14T03:32:14.000Z",
+          "wordCount": 293,
+          "title": "Amazon ECS Update Service API が Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "67d143df1c0ad9aa9add365544d1a9b0c1ea7e69",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/",
+          "publishedOn": "2022-03-14T03:31:12.000Z",
+          "wordCount": 261,
+          "title": "AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "f5c20d42c54b9ac21700b896c4652cb88adc4d9b",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB のマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、および 10.2.43 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
@@ -129,46 +279,6 @@
           "publishedOn": "2022-03-08T22:00:53.000Z",
           "wordCount": 248,
           "title": "Amazon Kendra にクエリ用のスペルチェッカーが追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "06f7378ce0a3a2aebde4368f97448ddc158dd126",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub は、お客様の Cloud Security Posture Management (CSPM) を強化する目的で Foundational Security Best Practice standard (FSBP) 向けに 13 の新しいコントロールをリリースしました。これらのコントロールは、Amazon CloudFront、Amazon EC2、Amazon OpenSearch、Amazon Relational Database Service (RDS)、Amazon Simple Storage Service (S3)、および AWS Virtual Private Network (VPN) のセキュリティのベストプラクティスに対して完全自動チェックを実行します。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS でセキュリティ体制を自動的にチェックするための 175 のセキュリティコントロールをサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/",
-          "publishedOn": "2022-03-07T21:47:01.000Z",
-          "wordCount": 459,
-          "title": "AWS Security Hub で、セキュリティ体制のモニタリングのために、13 のコントロールとパートナー 2 社の利用が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b85ad936e1794cdba5ac312d2d837fab1537064c",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、SQL クエリ結果を JSON 形式で Amazon S3 にアンロードするためのサポートを追加します。これは、スキーマ定義をサポートする軽量で広く使用されているデータ形式です。Amazon Redshift の UNLOAD コマンドの提供開始により、既にサポートされている区切りテキスト、CSV、および Apache Parquet 形式に加えて JSON を使用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/",
-          "publishedOn": "2022-03-07T21:46:12.000Z",
-          "wordCount": 262,
-          "title": "Amazon Redshift が JSON ファイルへのデータのアンロードのサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "61161ec562a19c1829976aedc729a292d28172f7",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS は、受賞歴のある AWS DeepRacer League Virtual Circuit の 2022 シーズンを開始します。あらゆるスキルレベルのデベロッパーが、機械学習 (ML) スキルを向上させ、世界初のグローバル自律レースリーグで競います。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-deepracer-league-virtual-circuit-2022/",
-          "publishedOn": "2022-03-07T15:17:02.000Z",
-          "wordCount": 295,
-          "title": "2022 AWS DeepRacer League Virtual Circuit の開始を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1ef827dcecc1146ad39c36de2cf0afa7404833a1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Detective は、ワイルドカード文字と IP アドレスのクラスレスドメイン間ルーティング (CIDR) 表記のサポートを追加することにより、検索機能を改善しました。Amazon Detective は、AWS CloudTrail、Amazon VPC Flow Logs、Amazon GuardDuty などのソースからのデータを抽出して、お客様の AWS 環境全体で観察されたリソースの動作とインタラクションを要約するグラフモデルに整理することで、お客様がセキュリティ調査を実施するのをサポートします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-detective-enhances-search-support-security-root-cause-analysis/",
-          "publishedOn": "2022-03-07T15:16:13.000Z",
-          "wordCount": 252,
-          "title": "Amazon Detective が検索を強化し、セキュリティの根本原因分析をより適切にサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
