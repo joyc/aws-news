@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/aws-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-15T01:22:45.177Z</updated>
+    <updated>2022-03-16T01:24:02.840Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が、リソースベースのポリシーでの PrincipalOrgID のサポート開始を発表]]></title>
+        <id>aba84afb4fa5d88f53f5e941e004114ce196c0c5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/"/>
+        <updated>2022-03-15T07:36:39.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda が、Lambda 関数のリソースベースのポリシーで aws:PrincipalOrgID 条件キーをサポートするようになりました。お客様は、特定のバージョンやエイリアスを含む Lambda 関数のリソースベースのポリシーを使用して、他の AWS アカウントまたは AWS のサービスの使用許可を付与できるようになります。aws:PrincipalOrgID 条件キーは、IAM プリンシパルの AWS 組織を使用して AWS リソースへのアクセスをコントロールするように設計されています。関数リソースベースのポリシーでこの条件キーを使用することで、Lambda 関数にアクセスするすべてのプリンシパルが組織内のアカウントからであることを要求できるようになりました。さらに、アカウントを追加および削除する場合、aws:PrincipalOrgID キーを含むポリシーには、正しいアカウントが自動的に含まれ、手動更新を最小限に抑えるのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.37 および 8.0.28) のサポートを開始]]></title>
+        <id>b28e2e8a414f3a307b0e8166fc21911b4815da49</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/"/>
+        <updated>2022-03-15T07:32:45.000Z</updated>
+        <summary type="html"><![CDATA[MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.37 および 8.0.28 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。データベースインスタンスのアップグレードの詳細については、Amazon RDS ユーザーガイドを参照してください。また、Amazon RDS マネジメントコンソールで利用できる最新のマイナーバージョンを使用して、フルマネージドの Amazon RDS データベースを作成または更新してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 のアカウントレベルのブロックパブリックアクセスを Lightsail バケットに拡張]]></title>
+        <id>03fdbf828254d36233e83409175849763949cce3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/"/>
+        <updated>2022-03-15T03:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lightsail オブジェクトストレージで、ウェブサイトやアプリケーションで使用できる画像、動画、HTML ファイルなどの静的コンテンツを保存できる機能がご利用いただけるようになりました。Amazon S3 のアカウントレベルのブロックパブリックアクセス設定はすぐに有効となり、Lightsail オブジェクトストレージサービスのバケットに適用されます。この変更は、バケットが存在しているのが Amazon S3 または Lightsail のいずれであるかにかかわらず、すべてのバケットのセキュリティを向上させるためのものです。アカウントに S3 ブロックパブリックアクセス (BPA) 設定を追加すると、意図せずにパブリックインターネットに公開されることがないように、バケット内のデータが保護されます。アカウントレベルの BPA が有効になっている場合、バケットとオブジェクトに現在設定されているバケットアクセス許可にかかわらず、バケットとオブジェクトは「プライベート」になります (インターネット上のどのユーザーもアクセスすることはできません)。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 の X2idn および X2iedn インスタンスのご紹介]]></title>
+        <id>f184323ddb583ce1787a1f4b2edbcf1d35c18456</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/"/>
+        <updated>2022-03-15T03:33:28.000Z</updated>
+        <summary type="html"><![CDATA[本日より、メモリ最適化された Amazon EC2 の X2idn および X2iedn インスタンスが一般的にご利用いただけるようになりました。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon MSK Connect が外部シークレットと config プロバイダーによる設定のサポートを開始]]></title>
         <id>cc7b0ff2c2add5b24cb6febde88dcea73a6c9a85</id>
@@ -157,6 +197,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始]]></title>
+        <id>e448278de64d419458096f42228c5b2d5c035887</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/"/>
+        <updated>2022-03-10T17:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、10.2.43 をサポート]]></title>
         <id>f5c20d42c54b9ac21700b896c4652cb88adc4d9b</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/"/>
@@ -202,76 +252,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/"/>
         <updated>2022-03-10T08:31:06.000Z</updated>
         <summary type="html"><![CDATA[複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for OpenZFS ファイルシステムでのデータの保存方法をカスタマイズして、データベースアプリケーションのパフォーマンスを最適化できるようになりました]]></title>
-        <id>0d25974d19e40be3067aef9b2a2a0c4389775312</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/"/>
-        <updated>2022-03-09T08:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for OpenZFS ファイルシステムでのデータの保存方法をカスタマイズして、データベースアプリケーションや、小刻みなデータの読み書きを定常的に行うその他のワークロードのパフォーマンスを最適化できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設定の変更が可能な暗号スイートが Amazon Aurora PostgreSQL に利用可能になりました]]></title>
-        <id>4bb0e8ec01ae44aa06b0c3e8f44500bc6d36ad9e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/"/>
-        <updated>2022-03-09T08:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Keyspaces が、AWS SDK を使用したリソース管理の自動化を支援]]></title>
-        <id>f14ee8b3237e871947e541c6e4184306667f3f7b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-keyspaces-automate-resource-management-sdk/"/>
-        <updated>2022-03-09T08:33:23.000Z</updated>
-        <summary type="html"><![CDATA[スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、AWS SDK を使用して、リソース管理を自動化できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が、Oracle Database 12.1 用 2021 年 10 月パッチセットの更新 (PSU) のサポートを開始]]></title>
-        <id>67f468417ea854df4838fe418b1620c812710eab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-patch-set-update-psu-oracle-database-12-1/"/>
-        <updated>2022-03-09T08:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle が、Oracle Database 12.1 の 2021 年 10 月のパッチセットアップデート (PSU) をサポートするようになりました。Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) はすでにリリースされています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始]]></title>
-        <id>573827e3af9185db5d876eb8bf875506f5384b57</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/"/>
-        <updated>2022-03-09T08:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日より、Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始することをお知らせいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Customer Carbon Footprint Tool の提供を開始]]></title>
-        <id>8f9402c8b8d1c86ea63334d480448f485987fe61</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-09T07:46:05.000Z</updated>
-        <summary type="html"><![CDATA[本日より、新しい Customer Carbon Footprint Tool の提供が開始され、お客様の AWS ワークロードによる環境への影響を算出できるようになりました。この新しいツールは、理解しやすいデータの視覚化を使用して、履歴的な CO2 排出量のお客様への提示、AWS 使用量の増加に伴う排出量傾向の評価、オンプレミスデータセンターの代わりに AWS を使用することによって回避された推定 CO2 排出量の概算、および現在の使用量に基づく予想排出量のレビューを行います。排出量の予測値は現在の使用状況に基づくものですが、Amazon が行う二酸化炭素排出削減の取り組みにより、お客様の二酸化炭素排出量が今後どのように推移するかも示されます。Amazon では、2030 年としていた当初の目標を 5 年前倒しにして 2025 年までに再生可能エネルギーの使用率を 100% にする取り組みを継続するとともに、The Climate Pledge の一環として 2040 年までにカーボンニュートラルを達成するよう行動しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kendra にクエリ用のスペルチェッカーが追加]]></title>
-        <id>ca7b41935c2b8cf7aaf4230e61d4bfa432fba5c4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/"/>
-        <updated>2022-03-08T22:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を活用したインテリジェントな検索サービスです。Amazon Kendra は、組織がより関連性の高い情報を顧客や従業員に必要に応じて提供するのに役立ちます。本日より、AWS のお客様は、クエリ内の単語にスペルミスがある場合にスペル修正の提案する Amazon Kendra のスペルチェッカーをご使用いただけます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
