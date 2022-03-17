@@ -12,6 +12,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "924821ffb79eec785ef5af04fe75054b5a68fe78",
+          "author": "aws@amazon.com",
+          "description": "Amazon Cognito では、Amazon Cognito ユーザープールが設定されているのと同じリージョンで、Amazon Simple Email Service (Amazon SES) と Amazon Simple Notification Service (Amazon SNS) を使用できるようになりました。これらのサービスを同じリージョンに統合することで、より簡単にレイテンシを短縮し、リージョン構成のベストプラクティスに従うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/",
+          "publishedOn": "2022-03-16T05:33:43.000Z",
+          "wordCount": 267,
+          "title": "Amazon Cognito は、Amazon SES および Amazon SNS とのリージョン内統合のサポートを開始します",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b63c38d67ada1f9a99b077cd383ed4e7ecd59050",
+          "author": "aws@amazon.com",
+          "description": "2022年3月の間に、Amazon はすべてのリージョンで Amazon Route 53 Resolver DNS ファイアウォールを使用するコストを削減しています。まず、Amazon は 3 月 1 日より、クエリのボリュームが増えるにつれてクエリ処理料金を削減できる新しい段階的な価格設定を開始します。次に、Amazon は内部最適化を実装して、課金される DNS クエリの数を減らしています。これらの最適化によって、検査される DNS クエリの数が減ったり、セキュリティ体制にその他の変更が加えられたりすることはありません。Amazon のお客様は、これらのコスト削減が今後の Route 53 の請求に自動的に反映されることを確認できます。詳細については、Amazon Route 53 の料金ページをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/",
+          "publishedOn": "2022-03-16T04:55:27.000Z",
+          "wordCount": 242,
+          "title": "Amazon Route 53 Resolver DNS ファイアウォールはサービスコストを大幅に削減します",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "01bbefd687a0a4001f0ef4ea8e733b3d9daca005",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Chat を使用すると、エージェントと顧客はメッセージを作成するときにリッチテキスト形式を使用できるようになり、メッセージに強調と構造をすばやく追加して、理解を深めることができます。使用可能なフォーマットオプションには、太字、斜体、ハイパーリンク、箇条書き、番号付きリストがあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-rich-chat-formatting/",
+          "publishedOn": "2022-03-16T04:54:40.000Z",
+          "wordCount": 227,
+          "title": "Amazon Connect は、チャットメッセージのリッチフォーマットをサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3def72dedbaeecaa4f4bc16ba064ad4091c9f192",
+          "author": "aws@amazon.com",
+          "description": "Amazon EventBridge のアップデートされたコンソール機能は、EventBridge が利用可能なすべての AWS リージョンで一般提供を開始しています。お客様はこれらの新機能を使用して、イベントパターンのテストや設定、イベントの変換、ルールやターゲットの設定などの経験を向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/",
+          "publishedOn": "2022-03-16T04:52:09.000Z",
+          "wordCount": 255,
+          "title": "Amazon EventBridge がマネジメントコンソールでルールフィルタリングとイベント変換機能の強化を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7ee8ec01802cae03e97d43663967d54ed6462502",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。ライブ文字起こしは、Amazon Transcribe との統合により、字幕やトランスクリプトとして使用するためのライブ音声の文字起こしを生成するものです。本日より、デベロッパーは自動言語識別を使用して、話された言語を検出し、その言語での文字起こしを生成することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/",
+          "publishedOn": "2022-03-16T04:50:55.000Z",
+          "wordCount": 258,
+          "title": "Amazon Chime SDK が自動言語識別によるライブ文字起こしに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e06a62290726813daf7421fe51ad8645fdcc3055",
+          "author": "aws@amazon.com",
+          "description": "AWS CodeBuild の Graviton2 を使用した Arm へのサポートが、欧州 (パリ)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ロンドン) で利用可能となりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/",
+          "publishedOn": "2022-03-16T04:48:40.000Z",
+          "wordCount": 272,
+          "title": "AWS CodeBuild がさらに 4 つのリージョンで Arm ベースのワークロードをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9627fa4158afc895143f93eeaae15ed12479c9a8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize により、デベロッパーは、ML の専門知識を必要とせず、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。Personalize は、テンプレートとも呼ばれる JSON/YAML テキストファイルによってリソースのセットアップとデプロイメントを自動化できる AWS のサービス、AWS CloudFormation をサポートするようになりました。これらのテンプレートを使用して、Personalize リソースであるスキーマ、データセット、およびデータセットグループのリソースの作成または削除、データセットインポートジョブのセットアップ、およびソリューションの構成を行うことができます。さらに、CloudFormation を使用して、これらの個別リソースの完全なライフサイクルや、それらの集合 (スタック) を繰り返し効率的に構成、プロビジョニング、管理することができます。CloudFormation テンプレートのサポートには、Personalize Console と AWS CLI/SDK に加えて、Personalize サービスリソースをプロビジョニングする無料の新しい方法が追加されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/",
+          "publishedOn": "2022-03-16T04:47:52.000Z",
+          "wordCount": 258,
+          "title": "Amazon Personalize が AWS CloudFormation テンプレートをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1993d7ed23280a1a550d2c758478eb65eb4da692",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue DataBrew のお客様は、AWS Glue コンソールで適切なリソースポリシーを作成すれば、他の AWS アカウントから AWS Glue Data Catalog S3 テーブルへアクセスできるようになりました。ポリシーを作成後、関連する Data Catalog S3 テーブルを、DataBrew データセット作成時に入力ソースとして選択できます。これにより、DataBrew でクリーニングや変換を行う前に、アカウント間でそのデータを簡単に共有することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/",
+          "publishedOn": "2022-03-16T04:47:04.000Z",
+          "wordCount": 255,
+          "title": "AWS Glue DataBrew がクロスアカウント Glue Data Catalog S3 アクセスをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "aba84afb4fa5d88f53f5e941e004114ce196c0c5",
           "author": "aws@amazon.com",
           "description": "AWS Lambda が、Lambda 関数のリソースベースのポリシーで aws:PrincipalOrgID 条件キーをサポートするようになりました。お客様は、特定のバージョンやエイリアスを含む Lambda 関数のリソースベースのポリシーを使用して、他の AWS アカウントまたは AWS のサービスの使用許可を付与できるようになります。aws:PrincipalOrgID 条件キーは、IAM プリンシパルの AWS 組織を使用して AWS リソースへのアクセスをコントロールするように設計されています。関数リソースベースのポリシーでこの条件キーを使用することで、Lambda 関数にアクセスするすべてのプリンシパルが組織内のアカウントからであることを要求できるようになりました。さらに、アカウントを追加および削除する場合、aws:PrincipalOrgID キーを含むポリシーには、正しいアカウントが自動的に含まれ、手動更新を最小限に抑えるのに役立ちます。",
@@ -209,56 +289,6 @@
           "publishedOn": "2022-03-10T17:21:47.000Z",
           "wordCount": 283,
           "title": "Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f5c20d42c54b9ac21700b896c4652cb88adc4d9b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB のマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、および 10.2.43 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/",
-          "publishedOn": "2022-03-10T11:57:16.000Z",
-          "wordCount": 261,
-          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、10.2.43 をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "72a212cd0d57707f44c21509afd54a7e8d7cfed3",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker サーバーレスおよび非同期推論は、Amazon SageMaker Python SDK をサポートするようになりました。これにより、デプロイに必要な手順が抽象化され、モデルのデプロイワークフローが簡素化されます。SageMaker Python SDK は、Amazon SageMaker に機械学習モデルをデプロイするためのオープンソースライブラリです。最適化された機械学習フレームワーク、SageMaker がサポートするファーストパーティーのアルゴリズムのいずれかを使用するか、Python SDK を使用して独自のモデルをデプロイすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/",
-          "publishedOn": "2022-03-10T11:56:27.000Z",
-          "wordCount": 269,
-          "title": "Amazon SageMaker サーバーレス推論 (プレビュー) と非同期推論が SageMaker Python SDK のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cea0b5bfab70f62618a4ef0a74eb08f3120f3386",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight が、24 時間ごとの直接クエリコントロールの自動更新をサポートするようになりました。この新機能は、QuickSight リーダーが、直接クエリデータセットからコントロール値を手動で更新しなくても、ダッシュボードのコントロールを使用できる、より効率化されたエクスペリエンスを実現します。QuickSight データの更新の詳細については、こちらをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/",
-          "publishedOn": "2022-03-10T08:32:43.000Z",
-          "wordCount": 236,
-          "title": "Amazon QuickSight で、直接クエリの自動更新コントロールが有効になります",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e368f58c01fe092fc3f36355e1c3b25f617f154f",
-          "author": "aws@amazon.com",
-          "description": "AWS の量子コンピューティングサービスである Amazon Braket が、ゲートベースの量子デバイスおよびシミュレーター用の OpenQASM 3.0のサポートを追加しました。今回のリリースでは、Braket SDK を使用して以前と同じようにプログラムを構築および実行するか、Braket SDK および API を介して同等の OpenQASM 3.0 文字列を直接提供するかをお客様が選択できます。Amazon Braket による OpenQASM 3.0 の導入と継続的なサポートにより、さまざまな開発環境間で量子プログラムを簡単に移行できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/",
-          "publishedOn": "2022-03-10T08:31:55.000Z",
-          "wordCount": 275,
-          "title": "Amazon Braket が、OpenQASM 3.0 のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3a504c2bac49ede99b240e0bf17a6b6480cfcc5a",
-          "author": "aws@amazon.com",
-          "description": "複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/",
-          "publishedOn": "2022-03-10T08:31:06.000Z",
-          "wordCount": 290,
-          "title": "Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
