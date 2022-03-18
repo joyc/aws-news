@@ -12,6 +12,136 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "262d592c11415e6999cdfc83dc23f031ef4e10ee",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/",
+          "publishedOn": "2022-03-17T06:35:16.000Z",
+          "wordCount": 270,
+          "title": "Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "af791d370fac533e6faa258a35030b8ebd0492fd",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョンについて FedRAMP High の認定を達成しました。これで、AWS Network Firewall を使用して、FedRAMP High の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/",
+          "publishedOn": "2022-03-17T06:34:28.000Z",
+          "wordCount": 284,
+          "title": "AWS Network Firewall が FedRAMP High コンプライアンスを達成",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5a8056f9653612e5b926f6e4d09efc936c3c4818",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) は、Amazon ECS Anywhere を使用して Windows オペレーティングシステムで実行されているオンプレミスワークロードの管理をサポートするようになりました。Amazon ECS Anywhere は、Amazon ECS の機能であり、お客様が、仮想マシン (VM)、ベアメタルサーバー、その他のカスタマーマネージドのインフラストラクチャなど、コンテナベースのアプリケーションをオンプレミスでより簡単に実行および管理することを可能にします。Windows 上で実行されているオンプレミスのコンテナ化されたワークロードを管理する必要があるお客様は、ECS Anywhere を使用してそれらをより簡単にオーケストレートできるようになりました。デベロッパーは、追加のコンテナオーケストレーションソフトウェアを実行したり、Windows ベースのワークロードを Linux OS 用に変換したりする必要がなくなりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/",
+          "publishedOn": "2022-03-17T06:33:39.000Z",
+          "wordCount": 264,
+          "title": "Amazon ECS が Windows OS でのオンプレミスワークロードオーケストレーションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1f35a6eb4ac574bca425d33bf9bd0a686d715d54",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS Cost Anomaly Detection アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。aこれにより、既存のチャットチャネル内で個々の AWS Cost Anomaly Detection アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/",
+          "publishedOn": "2022-03-17T06:31:04.000Z",
+          "wordCount": 316,
+          "title": "AWS Cost Anomaly Detection が AWS Chatbot との統合をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "feea631d5ac33eca94db1029c39f9e3f59047f3c",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for PostgreSQL が、mysql_fdw のサポートを追加しました。これにより、PostgreSQL データベースを接続して、個別の Amazon Aurora MySQL 互換、MySQL、および MariaDB データベースに保存されているデータを取得できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/",
+          "publishedOn": "2022-03-17T04:40:26.000Z",
+          "wordCount": 267,
+          "title": "Amazon RDS for PostgreSQL が、Amazon Aurora、MySQL、および MariaDB データベースの mysql_fdw 拡張機能のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0548dc3762b62c80652efa3749dba8a2df1d6bd9",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、完全に設計された日本の地図を含めて、道路、建物、ランドマーク、および水の機能を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/",
+          "publishedOn": "2022-03-17T04:39:39.000Z",
+          "wordCount": 293,
+          "title": "Amazon Location Service の 2 つの新しい HERE マップスタイルを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "033e06778395e0abd5e91aa5f855d48b1eca67f2",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポートするようになりました。以前のバージョンの PostgreSQL における既知のセキュリティの脆弱性を修正し、PostgreSQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。リリースの詳細については、PostgreSQL コミュニティの発表を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/",
+          "publishedOn": "2022-03-17T04:37:56.000Z",
+          "wordCount": 278,
+          "title": "Amazon RDS for PostgreSQL が PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b985f9d51f7d84b555b412484186ecc353790d48",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lookout for Vision が、すべての AWS のお客様に一般提供を開始を開始しました。選択したハードウェアデバイスに、トレーニング済みの Amazon Lookout for Vision モデルをデプロイし、クラウドに依存することなくローカルで推論を実行できます。トレーニング済みのモデルは、NVIDIA Jetson エッジアプライアンスまたは x86 コンピューティングプラットフォーム (NVIDIA GPU アクセラレーターを備えた Linux を実行しているもの) にデプロイできます。AWS IoT Greengrass を使用して、エッジ互換のカスタマイズされたモデルをデバイスのフリートにデプロイして管理できます。AWS IoT Greengrass は、オープンソースのエッジランタイムであり、デバイスソフトウェアを構築、デプロイ、管理するためのクラウドサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/",
+          "publishedOn": "2022-03-17T04:34:55.000Z",
+          "wordCount": 330,
+          "title": "Amazon Lookout for Vision を使用してエッジでの製品欠陥の目視検査を自動化 - 一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f9a8e27daf87eeaa197060b62487e2ef9cd2b638",
+          "author": "aws@amazon.com",
+          "description": "AWS は、AWS AppConfig機能フラグの一般提供開始を発表いたしました。機能フラグを使用することで、新しい機能を安全かつ自信を持ってすばやく展開できます。AWS AppConfig は AWS Systems Manager の機能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/",
+          "publishedOn": "2022-03-17T04:32:14.000Z",
+          "wordCount": 252,
+          "title": "AWS AppConfig 機能フラグの一般提供開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c708eb361cf68800b84a3d8c65e361fb4443a9b1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。Amazon Voice Focus は人工知能を利用して、扇風機、芝刈り機、犬の鳴き声などの背景の雑音を低減することができます。本日より、デベロッパーは Amazon Chime SDK Public Switched Telephone Network (PSTN) の音声アプリケーションで Amazon Voice Focus を使用して、PSTN 音声通話における不要なノイズを低減することができます。ビルダーは、カスタマーサービスでの会話にこの機能を使用して、通話者のエクスペリエンスを向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/",
+          "publishedOn": "2022-03-17T03:48:41.000Z",
+          "wordCount": 270,
+          "title": "Amazon Chime SDK が電話のノイズ削減機能 Amazon Voice Focus のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c243e2f62ea9ad3ead1f8c118e290775c573cbb9",
+          "author": "aws@amazon.com",
+          "description": "AWS IQ のエキスパートは、ワンクリックで提案を完了できるようになりました。これまで、追加の支払いが不要な場合でも、提案を終了するには最終的な支払いリクエストを送信する必要がありました。追加の支払いをリクエストすることなく、オープンプロポーザル内で [Complete] (完了) ボタンを選択することができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/",
+          "publishedOn": "2022-03-17T03:47:52.000Z",
+          "wordCount": 228,
+          "title": "AWS IQ のエキスパートはワンクリックで提案の完了が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "56ba76c4bdffcd0a2fd1dd0250ef323785af9378",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) 向けの Amazon CloudWatch Container Insights が、AWS アジアパシフィック (大阪) とアジアパシフィック (ジャカルタ) リージョンで利用できるようになりました。Container Insights を使用すると、自動化されたダッシュボードを介して、コンテナ化されたアプリケーションやマイクロサービス環境のモニタリング、隔離、および診断ができます。これは、クラスター、サービス、タスク、コンテナなどの Amazon ECS および AWS Fargate リソースのパフォーマンスとヘルスを可視化するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/",
+          "publishedOn": "2022-03-17T03:47:02.000Z",
+          "wordCount": 269,
+          "title": "Amazon ECS 向けの Amazon CloudWatch Container Insights が AWS アジアパシフィック (大阪) とアジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "188335b823f714b8e1dd17d24b52457421543c2b",
+          "author": "aws@amazon.com",
+          "description": "3 つのアベイラビリティーゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた Amazon Relational Database Service (Amazon RDS) マルチ AZ 配置オプションが、米国東部 (オハイオ)とアジアパシフィック (東京) リージョンで利用可能となりました。このデプロイオプションには、最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒以下の自動フェイルオーバー、読み取り可能なスタンバイインスタンスが備わっています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/",
+          "publishedOn": "2022-03-17T03:46:12.000Z",
+          "wordCount": 328,
+          "title": "最大 2 倍高速のトランザクションコミットレイテンシーを備えた新しい Amazon RDS マルチ AZ オプションが米国東部 (オハイオ)とアジアパシフィック (東京) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "924821ffb79eec785ef5af04fe75054b5a68fe78",
           "author": "aws@amazon.com",
           "description": "Amazon Cognito では、Amazon Cognito ユーザープールが設定されているのと同じリージョンで、Amazon Simple Email Service (Amazon SES) と Amazon Simple Notification Service (Amazon SNS) を使用できるようになりました。これらのサービスを同じリージョンに統合することで、より簡単にレイテンシを短縮し、リージョン構成のベストプラクティスに従うことができます。",
@@ -279,16 +409,6 @@
           "publishedOn": "2022-03-14T03:31:12.000Z",
           "wordCount": 261,
           "title": "AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e448278de64d419458096f42228c5b2d5c035887",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/",
-          "publishedOn": "2022-03-10T17:21:47.000Z",
-          "wordCount": 283,
-          "title": "Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
