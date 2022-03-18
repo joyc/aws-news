@@ -1,5 +1,6 @@
 cacheUrl: https://joyc.github.io/bc-news/cache.json
 sources:
+  - href: https://rsshub.app/jinse/lives
   - href: https://rsshub.app/panewslab/newsflash
   - href: https://rsshub.app/blockbeats/flash
   - href: https://rsshub.app/blockbeats/news
