@@ -1,409 +1,185 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://joyc.github.io/aws-news/index.html</id>
+    <id>https://joyc.github.io/bc-news/index.html</id>
     <title>Aws::News</title>
-    <updated>2022-03-18T01:24:24.837Z</updated>
+    <updated>2022-03-18T03:21:37.156Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="https://joyc.github.io/aws-news/index.html"/>
-    <link rel="self" href="https://joyc.github.io/aws-news/feed.atom"/>
+    <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
+    <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表]]></title>
-        <id>262d592c11415e6999cdfc83dc23f031ef4e10ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/"/>
-        <updated>2022-03-17T06:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。]]></summary>
+        <title type="html"><![CDATA[Lunar Labs完成1000万美元融资，Hypersphere Ventures和Arrington Capital领投]]></title>
+        <id>https://www.theblockbeats.info/flash/72173</id>
+        <link href="https://www.theblockbeats.info/flash/72173"/>
+        <updated>2022-03-18T01:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 18 日，抵押借贷协议开发团队 Lunar Labs 完成 1000 万美元融资，本轮融资由 Hypersphere Ventures 和 Arrington Capital 领投，Lemniscap、Robot Ventures、Signum Capital 等参投。融资将用于推动 Moonwell Artemis 的开发。
+
+据悉，Lunar Labs 是波卡智能合约平台 Moonbeam 上的抵押借贷协议开发团队。Moonwell Artemis 的工作方式与 Aave、MakerDAO 和 Compound 等借贷产品类似，允许用户借出加密货币并获得超额抵押贷款。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Network Firewall が FedRAMP High コンプライアンスを達成]]></title>
-        <id>af791d370fac533e6faa258a35030b8ebd0492fd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/"/>
-        <updated>2022-03-17T06:34:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョンについて FedRAMP High の認定を達成しました。これで、AWS Network Firewall を使用して、FedRAMP High の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。]]></summary>
+        <title type="html"><![CDATA[以太坊扩容协议Optimism以16.5亿美元获得1.5亿美元融资，Paradigm和a16z领投]]></title>
+        <id>https://panewslab.com/zh/sqarticledetails/1647535275767451.html</id>
+        <link href="https://panewslab.com/zh/sqarticledetails/1647535275767451.html"/>
+        <updated>2022-03-17T16:41:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月18日消息，以太坊扩容协议Optimism以16.5亿美元估值完成了1.5亿美元B轮融资，本轮融资由a16z和Paradigm领投，融资将用于团队扩张等。据Optimism官方信息，在主网上线以来，已为用户节省了10亿美元的Gas费，部署了数千份智能合约。Optimism首席执行官Jinglan Wang在接受TechCrunch采访时表示，Optimism不会从运营系统的中心化部分中获利，而在赚取收入的同时，将所有收入返还用于资助以太坊的公共产品。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon ECS が Windows OS でのオンプレミスワークロードオーケストレーションのサポートを開始]]></title>
-        <id>5a8056f9653612e5b926f6e4d09efc936c3c4818</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/"/>
-        <updated>2022-03-17T06:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) は、Amazon ECS Anywhere を使用して Windows オペレーティングシステムで実行されているオンプレミスワークロードの管理をサポートするようになりました。Amazon ECS Anywhere は、Amazon ECS の機能であり、お客様が、仮想マシン (VM)、ベアメタルサーバー、その他のカスタマーマネージドのインフラストラクチャなど、コンテナベースのアプリケーションをオンプレミスでより簡単に実行および管理することを可能にします。Windows 上で実行されているオンプレミスのコンテナ化されたワークロードを管理する必要があるお客様は、ECS Anywhere を使用してそれらをより簡単にオーケストレートできるようになりました。デベロッパーは、追加のコンテナオーケストレーションソフトウェアを実行したり、Windows ベースのワークロードを Linux OS 用に変換したりする必要がなくなりました。]]></summary>
+        <title type="html"><![CDATA[轻量级区块链协议Mina完成9200万美元融资，FTX Ventures和三箭资本领投]]></title>
+        <id>https://www.theblockbeats.info/flash/72167</id>
+        <link href="https://www.theblockbeats.info/flash/72167"/>
+        <updated>2022-03-17T16:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 18 日，轻量级区块链协议 Mina 宣布完成 9200 万美元战略和私募轮融资，本轮融资由 FTX Ventures 和三箭资本领投，Alan Howard、Amber Group、Blockchain.com、Brevan Howard、Circle Ventures、Finality Capital Partners、 Pantera 等参投。本轮融资资金将用于通过吸引世界级的开发人员来加速 Mina 的大范围推广和采用。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Cost Anomaly Detection が AWS Chatbot との統合をサポート]]></title>
-        <id>1f35a6eb4ac574bca425d33bf9bd0a686d715d54</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/"/>
-        <updated>2022-03-17T06:31:04.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS Cost Anomaly Detection アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。aこれにより、既存のチャットチャネル内で個々の AWS Cost Anomaly Detection アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。]]></summary>
+        <title type="html"><![CDATA[Optimism以16.5亿美元估值完成1.5亿美元B轮融资，a16z和Paradigm领投]]></title>
+        <id>https://www.theblockbeats.info/flash/72164</id>
+        <link href="https://www.theblockbeats.info/flash/72164"/>
+        <updated>2022-03-17T16:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 18 日，以太坊二层扩容方案 Optimism 宣布以 16.5 亿美元估值完成 1.5 亿美元 B 轮融资，本轮融资由 a16z 和 Paradigm 领投，其他具体融资信息暂未透露。
+
+Optimism 首席执行官 Jinglan Wang 在接受采访时表示，「Optimism 不会从运营系统的中心化部分中获利，因此我们希望消除让自己保持中心化的经济激励，在我们赚取收入的同时，我们将所有这些收入用于资助以太坊上的公共产品。」]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が、Amazon Aurora、MySQL、および MariaDB データベースの mysql_fdw 拡張機能のサポートを開始]]></title>
-        <id>feea631d5ac33eca94db1029c39f9e3f59047f3c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/"/>
-        <updated>2022-03-17T04:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for PostgreSQL が、mysql_fdw のサポートを追加しました。これにより、PostgreSQL データベースを接続して、個別の Amazon Aurora MySQL 互換、MySQL、および MariaDB データベースに保存されているデータを取得できるようになります。]]></summary>
+        <title type="html"><![CDATA[Polygon网络计划于3月18日18:30进行硬分叉升级]]></title>
+        <id>https://www.theblockbeats.info/flash/72161</id>
+        <link href="https://www.theblockbeats.info/flash/72161"/>
+        <updated>2022-03-17T16:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 17 日，Polygon 网络计划于北京时间 3 月 18 日 18:30 进行硬分叉升级，本次硬分叉旨在将 Heimdall 更新至 Heimdall v0.2.8。
+
+律动此前报道，Polygon 网络此前曾于 3 月 15 日出现大范围网络问题导致 Binance 暂停 MATIC 的存取款服务。针对该事件，Polygon 开发团队表示，「上周网络中断导致 heimdall 和 bor 停止运行，问题出在 heimdall。新创建的 span 将于 3 月 20 日运行，在这之前，团队需要确保 HeimDall 处于一个可以开始正常创建新 span 的状态。而这需要更新到 HeimDall，把这些 span 回填到 HeimDall DB 中。」]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Location Service の 2 つの新しい HERE マップスタイルを発表]]></title>
-        <id>0548dc3762b62c80652efa3749dba8a2df1d6bd9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/"/>
-        <updated>2022-03-17T04:39:39.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、完全に設計された日本の地図を含めて、道路、建物、ランドマーク、および水の機能を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。]]></summary>
+        <title type="html"><![CDATA[轻量级公链Mina完成9200万美元融资，FTX Ventures和三箭资本领投]]></title>
+        <id>https://panewslab.com/zh/sqarticledetails/1647534342289448.html</id>
+        <link href="https://panewslab.com/zh/sqarticledetails/1647534342289448.html"/>
+        <updated>2022-03-17T16:25:42.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月18日消息，轻量级公链 Mina宣布完成9200万美元战略和私募轮融资，FTX Ventures和三箭资本（Three Arrows Capital）领投，Alan Howard、Amber Group、Blockchain.com、Brevan Howard、Circle Ventures、Finality Capital Partners、Pantera等参投。Mina称融资将用于加速零知识证明的采用。Mina协议实现了更安全和私密的Web3，用户通过部署零知识证明应用程序或智能合同来拥有自己的数据。独特的隐私和安全功能以及通过其zkApp连接到任何网站的能力使Web3更加安全和私密，目标是使成为 Web3首选的隐私和端到端安全层。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポート開始]]></title>
-        <id>033e06778395e0abd5e91aa5f855d48b1eca67f2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/"/>
-        <updated>2022-03-17T04:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポートするようになりました。以前のバージョンの PostgreSQL における既知のセキュリティの脆弱性を修正し、PostgreSQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。リリースの詳細については、PostgreSQL コミュニティの発表を参照してください。]]></summary>
+        <title type="html"><![CDATA[美参议员Warren：正在引入法案以规范与受制裁的俄罗斯实体开展业务的加密公司]]></title>
+        <id>https://panewslab.com/zh/sqarticledetails/1647533489525445.html</id>
+        <link href="https://panewslab.com/zh/sqarticledetails/1647533489525445.html"/>
+        <updated>2022-03-17T16:11:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月18日消息，美国参议员 Elizabeth Warren (D-MA) 在听证会中表示，委内瑞拉、伊朗和朝鲜已经使用加密货币来规避制裁，反对加密市场对俄罗斯来说太小/流动性太差的观点，并询问普京是否可以使用多个区块链和“混合服务”来隐藏资产，Chainalysis 联合创始人兼首席战略官 Jonathan Levin回应称，混合服务每天只处理大约 30 美元，普京和寡头不太可能利用这些服务来大规模逃避制裁。Warren表示她正在引入一项法案，以规范与受制裁的俄罗斯实体开展业务的加密公司。据CoinDesk报道，Warren正与参议员 Jack Reed (DR.I.)、Mark Warner (D-Va.) 和 Jon Tester (D-Mont.) 等人一起推出的《数字资产制裁合规增强法》将允许美国总统添加非美国- 如果他们支持逃避制裁，基于加密货币的公司将被列入制裁名单。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Lookout for Vision を使用してエッジでの製品欠陥の目視検査を自動化 - 一般提供を開始]]></title>
-        <id>b985f9d51f7d84b555b412484186ecc353790d48</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/"/>
-        <updated>2022-03-17T04:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lookout for Vision が、すべての AWS のお客様に一般提供を開始を開始しました。選択したハードウェアデバイスに、トレーニング済みの Amazon Lookout for Vision モデルをデプロイし、クラウドに依存することなくローカルで推論を実行できます。トレーニング済みのモデルは、NVIDIA Jetson エッジアプライアンスまたは x86 コンピューティングプラットフォーム (NVIDIA GPU アクセラレーターを備えた Linux を実行しているもの) にデプロイできます。AWS IoT Greengrass を使用して、エッジ互換のカスタマイズされたモデルをデバイスのフリートにデプロイして管理できます。AWS IoT Greengrass は、オープンソースのエッジランタイムであり、デバイスソフトウェアを構築、デプロイ、管理するためのクラウドサービスです。]]></summary>
+        <title type="html"><![CDATA[ApeCoin能做什么？读懂无聊猿BAYC生态Token]]></title>
+        <id>https://www.theblockbeats.info/news/29820</id>
+        <link href="https://www.theblockbeats.info/news/29820"/>
+        <updated>2022-03-17T14:52:28.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Bored Apes NFT project gets official 『ApeCoin』 token
+
+》
+原文作者：Lucas Matney
+原文编译：深链财经 Tanker
+
+
+
+作为增长最快的加密初创公司之一，Yuga Labs 经历了特别爆炸性的一年。
+
+
+加密创企 Yuga Labs 是 NFT 项目「无聊猿」(BAYC) 的母公司。该项目自去年 4 月推出以来，已经迅速成长为 NFT 市场内按市值计算最有价值的 NFT 项目。据了解，目前这 10,000 个「无聊猿」NFT 中最便宜的一个 NFT 售价约为 240,000 美元。有报道称，这家初创公司正在寻求以 50 亿美元的估值完成新一轮融资。此前就有消息称，Yuga Labs 前期在大肆炒作一个名为「ApeCoin」的  Token，准备进军 P2E（边玩边赚）游戏领域。
+
+
+也许 Yuga Labs 也意识到，要想获得进一步发展，仅仅靠着数百万美元一个的猿猴 NFT 是无法吸引到硅谷风投公司兴趣的，只有将目光转向新的游戏领域、发行 Token，才能够加入围绕这些 IP 构建出的主流加密经济。就在上周，Yuga Labs 宣布，已经从 Larva Labs 手中收购了 CryptoPunks 和 Meebits 这两个 NFT 系列，包括品牌、艺术版权和其他知识产权。
+
+
+过去，你可能以为加密公司不太容易吸引到硅谷风险投资家的关注，但实际上，随着这些「猿猴」图片价值已经飙升到数百万美元，Yuga Labs 已经获得了投资者的青睐。与此同时，Yuga Labs 希望从游戏和 Token 入手，深度激发围绕其 IP 构建的主流加密经济，从而进一步加速市场扩展。上周，Yuga Labs 宣布收购 Larva Labs 开发的 CryptoPunks 和 Meebits NFT 系列，他们计划将…]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 新闻</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS AppConfig 機能フラグの一般提供開始を発表]]></title>
-        <id>f9a8e27daf87eeaa197060b62487e2ef9cd2b638</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/"/>
-        <updated>2022-03-17T04:32:14.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、AWS AppConfig機能フラグの一般提供開始を発表いたしました。機能フラグを使用することで、新しい機能を安全かつ自信を持ってすばやく展開できます。AWS AppConfig は AWS Systems Manager の機能です。]]></summary>
+        <title type="html"><![CDATA[套利者利用Bored Ape NFTX vault获得超6万枚ApeCoin空投]]></title>
+        <id>https://www.theblockbeats.info/flash/72146</id>
+        <link href="https://www.theblockbeats.info/flash/72146"/>
+        <updated>2022-03-17T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，Parsec Finance 创始人 Will Sheehan 在社交媒体上表示，有套利者利用 Bored Ape NFTX vault 获得 60564 枚 ApeCoin 空投，具体操作方式为先购买碎片化 Token、然后赎回完整 NFT 、再认领 ApeCoin 空投，最后重新供给碎片化 Token。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が電話のノイズ削減機能 Amazon Voice Focus のサポートを開始]]></title>
-        <id>c708eb361cf68800b84a3d8c65e361fb4443a9b1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/"/>
-        <updated>2022-03-17T03:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。Amazon Voice Focus は人工知能を利用して、扇風機、芝刈り機、犬の鳴き声などの背景の雑音を低減することができます。本日より、デベロッパーは Amazon Chime SDK Public Switched Telephone Network (PSTN) の音声アプリケーションで Amazon Voice Focus を使用して、PSTN 音声通話における不要なノイズを低減することができます。ビルダーは、カスタマーサービスでの会話にこの機能を使用して、通話者のエクスペリエンスを向上させることができます。]]></summary>
+        <title type="html"><![CDATA[日本加密银行Kyash完成4100万美元D轮融资，Block等参投]]></title>
+        <id>https://www.theblockbeats.info/flash/72143</id>
+        <link href="https://www.theblockbeats.info/flash/72143"/>
+        <updated>2022-03-17T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 17 日，日本加密银行 Kyash 宣布完成 4100 万美元（49 亿日元）D 轮融资，日本邮政投资公司、Block、Greyhound Capital、SMBC Nikko Securities、Altos Ventures、Goodwater Capital、StepStone Group、JAFCO Group、Mitsui Sumitomo Insurance Capital 等参投。Kyash 首席执行官 Shinichi Takatori 表示，本轮融资将用于团队人员扩充并促进产品增长。据悉，这笔交易是 Block 在亚太地区的首次投资。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS IQ のエキスパートはワンクリックで提案の完了が可能に]]></title>
-        <id>c243e2f62ea9ad3ead1f8c118e290775c573cbb9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/"/>
-        <updated>2022-03-17T03:47:52.000Z</updated>
-        <summary type="html"><![CDATA[AWS IQ のエキスパートは、ワンクリックで提案を完了できるようになりました。これまで、追加の支払いが不要な場合でも、提案を終了するには最終的な支払いリクエストを送信する必要がありました。追加の支払いをリクエストすることなく、オープンプロポーザル内で [Complete] (完了) ボタンを選択することができるようになりました。]]></summary>
+        <title type="html"><![CDATA[Binance上线首个DeFi小程序PancakeSwap]]></title>
+        <id>https://www.theblockbeats.info/flash/72131</id>
+        <link href="https://www.theblockbeats.info/flash/72131"/>
+        <updated>2022-03-17T13:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 17 日，Binance 移动客户端上线首个 DeFi 项目 PancakeSwap 以及其币安 DeFi 钱包的小程序。用户可以在最新版 Binance 移动端中直接访问该小程序，创建 DeFi 钱包、充提资金和使用 PancakeSwap，同时可以直接在 Binance 客户端体验去中心化应用。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon ECS 向けの Amazon CloudWatch Container Insights が AWS アジアパシフィック (大阪) とアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>56ba76c4bdffcd0a2fd1dd0250ef323785af9378</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/"/>
-        <updated>2022-03-17T03:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) 向けの Amazon CloudWatch Container Insights が、AWS アジアパシフィック (大阪) とアジアパシフィック (ジャカルタ) リージョンで利用できるようになりました。Container Insights を使用すると、自動化されたダッシュボードを介して、コンテナ化されたアプリケーションやマイクロサービス環境のモニタリング、隔離、および診断ができます。これは、クラスター、サービス、タスク、コンテナなどの Amazon ECS および AWS Fargate リソースのパフォーマンスとヘルスを可視化するのに役立ちます。]]></summary>
+        <title type="html"><![CDATA[ApeCoin空投已于今日20:30时开放领取，Gas费用一度涨至221gwei]]></title>
+        <id>https://www.theblockbeats.info/flash/72128</id>
+        <link href="https://www.theblockbeats.info/flash/72128"/>
+        <updated>2022-03-17T13:41:04.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 17 日，据 Etherscan 数据显示, 由于 ApeCoin 空投已于今日 20:30 时开放领取，因空投领取量激增，Gas 费用一度涨至 221 gwei。截止发稿时，本次空投领取活动已燃烧 54.67 枚 ETH。]]></summary>
         <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最大 2 倍高速のトランザクションコミットレイテンシーを備えた新しい Amazon RDS マルチ AZ オプションが米国東部 (オハイオ)とアジアパシフィック (東京) で利用可能に]]></title>
-        <id>188335b823f714b8e1dd17d24b52457421543c2b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/"/>
-        <updated>2022-03-17T03:46:12.000Z</updated>
-        <summary type="html"><![CDATA[3 つのアベイラビリティーゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた Amazon Relational Database Service (Amazon RDS) マルチ AZ 配置オプションが、米国東部 (オハイオ)とアジアパシフィック (東京) リージョンで利用可能となりました。このデプロイオプションには、最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒以下の自動フェイルオーバー、読み取り可能なスタンバイインスタンスが備わっています。]]></summary>
+        <title type="html"><![CDATA[ApeCoin：迈向Web3迪士尼的最后一块版图]]></title>
+        <id>https://www.theblockbeats.info/news/29825</id>
+        <link href="https://www.theblockbeats.info/news/29825"/>
+        <updated>2022-03-17T12:52:28.000Z</updated>
+        <summary type="html"><![CDATA[没有一家运营 IP 的公司是不想成为迪士尼的。
+
+
+仅靠一个个创作出来的 IP 形象，迪士尼挣到了多少钱？据统计，2021 年全球最赚钱的 10 个 IP 中，迪士尼一家就占据了半壁江山，5 个 IP（维尼熊、米老鼠和他的朋友们、星球大战、迪士尼公主、漫威电影宇宙）总收入 3110 亿美元。
+
+
+围绕 IP 为核心，迪士尼建立了闭环且全面的盈利手段，覆盖了消费者可以接触到的方方面面，主题乐园、电影制作、流媒体、零售……一个个由人所创作出来的虚拟形象，一旦到了迪士尼手中，他们就摇身一变成为了马力全开的印钞机，以其他公司艳羡的速度产出着源源不断的营收。
+
+
+迪士尼的诞生和繁荣，离不开现代版权体系的建立，「地表最强法务部」的诨号也足以说明司法体系对维系迪士尼繁荣的重要性。当 Web3 的时代到来，无需许可、去中心化的链上世界，借助于 NFT、ERC-20、DAO 等全新的技术和组织形式，链上世界的原住民们能否复刻一个去中心化的迪士尼、甚至超越迪士尼？
+
+
+3 月 17 日，BAYC 地板价突破 100 ETH。这意味着一个「猴子头像」的价格已经高达约 30 万美元。有人从中看到了炒作和荒诞，而有的人却看到了团队对 IP 运营的强劲实力。估值 50 亿美元的 BAYC 团队，尽管距离迪士尼 2500 亿美元的市值仍相距甚远，但这个诞生尚不足一年的项目，已经让我们看到了 Web3 版本迪士尼诞生的可能性。
+
+
+米老鼠与无聊猿猴
+
+
+1923 年，华特·迪士尼卖掉了自己的摄影机带着未完成的《爱丽丝在卡通国》的影片胶卷购买了去往洛杉矶的单程车票，那一年他和哥哥洛伊·迪士尼成立了迪士尼兄弟工作室，5 年后在去往好莱坞的车上创造了以老鼠为原型的卡通形象莫蒂默，在妻子的建议下更名为米奇，至此之后这个传奇的卡通老鼠形象在迪士尼的笔下影响了一代又一代人。
+
+
+生活在纽约的华裔插画师塞内卡，是受到迪…]]></summary>
         <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Cognito は、Amazon SES および Amazon SNS とのリージョン内統合のサポートを開始します]]></title>
-        <id>924821ffb79eec785ef5af04fe75054b5a68fe78</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/"/>
-        <updated>2022-03-16T05:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Cognito では、Amazon Cognito ユーザープールが設定されているのと同じリージョンで、Amazon Simple Email Service (Amazon SES) と Amazon Simple Notification Service (Amazon SNS) を使用できるようになりました。これらのサービスを同じリージョンに統合することで、より簡単にレイテンシを短縮し、リージョン構成のベストプラクティスに従うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Route 53 Resolver DNS ファイアウォールはサービスコストを大幅に削減します]]></title>
-        <id>b63c38d67ada1f9a99b077cd383ed4e7ecd59050</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/"/>
-        <updated>2022-03-16T04:55:27.000Z</updated>
-        <summary type="html"><![CDATA[2022年3月の間に、Amazon はすべてのリージョンで Amazon Route 53 Resolver DNS ファイアウォールを使用するコストを削減しています。まず、Amazon は 3 月 1 日より、クエリのボリュームが増えるにつれてクエリ処理料金を削減できる新しい段階的な価格設定を開始します。次に、Amazon は内部最適化を実装して、課金される DNS クエリの数を減らしています。これらの最適化によって、検査される DNS クエリの数が減ったり、セキュリティ体制にその他の変更が加えられたりすることはありません。Amazon のお客様は、これらのコスト削減が今後の Route 53 の請求に自動的に反映されることを確認できます。詳細については、Amazon Route 53 の料金ページをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect は、チャットメッセージのリッチフォーマットをサポートするようになりました]]></title>
-        <id>01bbefd687a0a4001f0ef4ea8e733b3d9daca005</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-rich-chat-formatting/"/>
-        <updated>2022-03-16T04:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Chat を使用すると、エージェントと顧客はメッセージを作成するときにリッチテキスト形式を使用できるようになり、メッセージに強調と構造をすばやく追加して、理解を深めることができます。使用可能なフォーマットオプションには、太字、斜体、ハイパーリンク、箇条書き、番号付きリストがあります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EventBridge がマネジメントコンソールでルールフィルタリングとイベント変換機能の強化を開始]]></title>
-        <id>3def72dedbaeecaa4f4bc16ba064ad4091c9f192</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/"/>
-        <updated>2022-03-16T04:52:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EventBridge のアップデートされたコンソール機能は、EventBridge が利用可能なすべての AWS リージョンで一般提供を開始しています。お客様はこれらの新機能を使用して、イベントパターンのテストや設定、イベントの変換、ルールやターゲットの設定などの経験を向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が自動言語識別によるライブ文字起こしに対応]]></title>
-        <id>7ee8ec01802cae03e97d43663967d54ed6462502</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/"/>
-        <updated>2022-03-16T04:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。ライブ文字起こしは、Amazon Transcribe との統合により、字幕やトランスクリプトとして使用するためのライブ音声の文字起こしを生成するものです。本日より、デベロッパーは自動言語識別を使用して、話された言語を検出し、その言語での文字起こしを生成することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CodeBuild がさらに 4 つのリージョンで Arm ベースのワークロードをサポート]]></title>
-        <id>e06a62290726813daf7421fe51ad8645fdcc3055</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/"/>
-        <updated>2022-03-16T04:48:40.000Z</updated>
-        <summary type="html"><![CDATA[AWS CodeBuild の Graviton2 を使用した Arm へのサポートが、欧州 (パリ)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ロンドン) で利用可能となりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Personalize が AWS CloudFormation テンプレートをサポート]]></title>
-        <id>9627fa4158afc895143f93eeaae15ed12479c9a8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/"/>
-        <updated>2022-03-16T04:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Personalize により、デベロッパーは、ML の専門知識を必要とせず、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。Personalize は、テンプレートとも呼ばれる JSON/YAML テキストファイルによってリソースのセットアップとデプロイメントを自動化できる AWS のサービス、AWS CloudFormation をサポートするようになりました。これらのテンプレートを使用して、Personalize リソースであるスキーマ、データセット、およびデータセットグループのリソースの作成または削除、データセットインポートジョブのセットアップ、およびソリューションの構成を行うことができます。さらに、CloudFormation を使用して、これらの個別リソースの完全なライフサイクルや、それらの集合 (スタック) を繰り返し効率的に構成、プロビジョニング、管理することができます。CloudFormation テンプレートのサポートには、Personalize Console と AWS CLI/SDK に加えて、Personalize サービスリソースをプロビジョニングする無料の新しい方法が追加されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue DataBrew がクロスアカウント Glue Data Catalog S3 アクセスをサポート]]></title>
-        <id>1993d7ed23280a1a550d2c758478eb65eb4da692</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/"/>
-        <updated>2022-03-16T04:47:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue DataBrew のお客様は、AWS Glue コンソールで適切なリソースポリシーを作成すれば、他の AWS アカウントから AWS Glue Data Catalog S3 テーブルへアクセスできるようになりました。ポリシーを作成後、関連する Data Catalog S3 テーブルを、DataBrew データセット作成時に入力ソースとして選択できます。これにより、DataBrew でクリーニングや変換を行う前に、アカウント間でそのデータを簡単に共有することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda が、リソースベースのポリシーでの PrincipalOrgID のサポート開始を発表]]></title>
-        <id>aba84afb4fa5d88f53f5e941e004114ce196c0c5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/"/>
-        <updated>2022-03-15T07:36:39.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda が、Lambda 関数のリソースベースのポリシーで aws:PrincipalOrgID 条件キーをサポートするようになりました。お客様は、特定のバージョンやエイリアスを含む Lambda 関数のリソースベースのポリシーを使用して、他の AWS アカウントまたは AWS のサービスの使用許可を付与できるようになります。aws:PrincipalOrgID 条件キーは、IAM プリンシパルの AWS 組織を使用して AWS リソースへのアクセスをコントロールするように設計されています。関数リソースベースのポリシーでこの条件キーを使用することで、Lambda 関数にアクセスするすべてのプリンシパルが組織内のアカウントからであることを要求できるようになりました。さらに、アカウントを追加および削除する場合、aws:PrincipalOrgID キーを含むポリシーには、正しいアカウントが自動的に含まれ、手動更新を最小限に抑えるのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.37 および 8.0.28) のサポートを開始]]></title>
-        <id>b28e2e8a414f3a307b0e8166fc21911b4815da49</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/"/>
-        <updated>2022-03-15T07:32:45.000Z</updated>
-        <summary type="html"><![CDATA[MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.37 および 8.0.28 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。データベースインスタンスのアップグレードの詳細については、Amazon RDS ユーザーガイドを参照してください。また、Amazon RDS マネジメントコンソールで利用できる最新のマイナーバージョンを使用して、フルマネージドの Amazon RDS データベースを作成または更新してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 のアカウントレベルのブロックパブリックアクセスを Lightsail バケットに拡張]]></title>
-        <id>03fdbf828254d36233e83409175849763949cce3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/"/>
-        <updated>2022-03-15T03:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail オブジェクトストレージで、ウェブサイトやアプリケーションで使用できる画像、動画、HTML ファイルなどの静的コンテンツを保存できる機能がご利用いただけるようになりました。Amazon S3 のアカウントレベルのブロックパブリックアクセス設定はすぐに有効となり、Lightsail オブジェクトストレージサービスのバケットに適用されます。この変更は、バケットが存在しているのが Amazon S3 または Lightsail のいずれであるかにかかわらず、すべてのバケットのセキュリティを向上させるためのものです。アカウントに S3 ブロックパブリックアクセス (BPA) 設定を追加すると、意図せずにパブリックインターネットに公開されることがないように、バケット内のデータが保護されます。アカウントレベルの BPA が有効になっている場合、バケットとオブジェクトに現在設定されているバケットアクセス許可にかかわらず、バケットとオブジェクトは「プライベート」になります (インターネット上のどのユーザーもアクセスすることはできません)。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 の X2idn および X2iedn インスタンスのご紹介]]></title>
-        <id>f184323ddb583ce1787a1f4b2edbcf1d35c18456</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/"/>
-        <updated>2022-03-15T03:33:28.000Z</updated>
-        <summary type="html"><![CDATA[本日より、メモリ最適化された Amazon EC2 の X2idn および X2iedn インスタンスが一般的にご利用いただけるようになりました。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MSK Connect が外部シークレットと config プロバイダーによる設定のサポートを開始]]></title>
-        <id>cc7b0ff2c2add5b24cb6febde88dcea73a6c9a85</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/"/>
-        <updated>2022-03-14T15:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、MSK Connect のカスタム設定プロバイダーが利用可能になりました。この機能により、Amazon Secrets Manager のようなプロバイダーでシークレットを保存し、コネクタやワーカーの設定プロパティにパスワードやその他の認証情報を保存することを避けることができます。MSK Connect プラグインの一部として、Apache Kafka と互換性のある任意の ConfigProvider を提供し、これを使用して設定をフェッチすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend でエンティティベースの感情分析のサポートを開始]]></title>
-        <id>ba17395b5adf6470dedadd3d5a4d8d8c84be444f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/"/>
-        <updated>2022-03-14T15:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend は、機械学習を使用してテキストからインサイトを見つける自然言語処理 (NLP) サービスの 1 つです。本日より、Comprehend で Targeted Sentiment が提供されます。本機能、テキスト内のエンティティに対する感情（ポジティブ (肯定的) 、ネガティブ (否定的) 、ニュートラル (中立的) 、または混在）を識別することで、より詳細な感情のインサイトを提供する新しい API です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が AMI を使用して最新のインスタンス起動のタイムスタンプを表示するための新しい AMI プロパティをサポート]]></title>
-        <id>ec8f3af528dc24fda20032ca0adbd664e4c434d5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/"/>
-        <updated>2022-03-14T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 では、Amazon Machine Images (AMI) の所有者向けに「lastLaunchedTime」と呼ばれる新しいプロパティが追加されました。このプロパティ使用すれば、AMI の所有者は、AMI が EC2 インスタンスの起動に最後に使用されたときのタイムスタンプを表示できるのようになります。これにより、AMI の所有者は、AMI、特に公的に共有されている AMI の使用状況を理解し、AMI の廃止または登録解除について情報に基づいた決定を下すことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server で M6i と R6i インスタンスのサポートを開始]]></title>
-        <id>8b833c47cc3ced81e670e30d54439733c9788fed</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/"/>
-        <updated>2022-03-14T15:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for SQL Server で M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift のみを使用するように書き換えられた Amplify iOS ライブラリ (デベロッパープレビュー) の発表]]></title>
-        <id>43cea26a995e635d96a3d06546e46efc895a0574</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/"/>
-        <updated>2022-03-14T07:36:44.000Z</updated>
-        <summary type="html"><![CDATA[本日、Swift のみを使用するように書き換えられた Amplify iOS ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Swift デベロッパーは、認証、ストレージ、データ、API などのクラウドベースのアプリ機能を追加できます。基になるオープンソースコードをデバッグしたり、提供したりするために Objective-C に移行する必要はありません。今後のリリースでは、追加の Amplify ユースケースのほか、構造化された同時実行などの Swift ベースの言語機能へのサポートを追加する予定です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora で Aurora PostgreSQL 11 以降への複数メジャーバージョンアップグレードをサポート]]></title>
-        <id>b9fb2b3f58fc7c0a80754ac7c264f575c146b27c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/"/>
-        <updated>2022-03-14T07:35:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションで、複数メジャーバージョンアップグレードがサポートされるようになりました。これにより、複数のメジャーバージョンをまたいだメジャーバージョンアップデートを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Genomics CLI に Snakemake ワークフロー管理システムが追加]]></title>
-        <id>15793c7c84f77582c7e0277e8d92890996952ad3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/"/>
-        <updated>2022-03-14T07:32:43.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Genomics CLI のワークフロー管理ツールのカタログに、ゲノミクス分析のために Snakemake が追加されたことを発表しました。このカタログには、Cromwell、Nextflow、および miniWDL も含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeGuru Profiler との統合により Amazon DevOps Guru の Lambda へのサポートを拡張]]></title>
-        <id>7cae56bb65880a3f01d75a58e808a7ff9a9c2b0d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/"/>
-        <updated>2022-03-14T07:31:51.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon DevOps Guru と Amazon CodeGuru Profiler の統合が利用可能になったことを発表します。この統合により、DevOps Guru コンソールでインサイトとして Amazon CodeGuru Profiler からのレコメンデーションにアクセスできるようになり、アプリケーションのパフォーマンスの問題と、その問題の原因である基になるコードを簡単に紐づけることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottlerocket が NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプのサポートを追加]]></title>
-        <id>4b20944d16373c46e1cb76fb386894a5dfbd35a9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/"/>
-        <updated>2022-03-14T06:46:49.000Z</updated>
-        <summary type="html"><![CDATA[コンテナワークロードを実行するために設計された Linux ベースのオペレーティングシステムである Bottlerocket は、NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプをサポートするようになりました。お客様は、機械学習、動画エンコーディング、ストリーミングワークロードなど、GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナが重要な役割を果たすホストオペレーティングシステムを使用できるようになりました。これは、お客様が、基盤となる専用のコンピューティングハードウェアを利用する単一のオペレーティングシステムで標準化するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle で Oracle Database 21c のサポートを提供開始]]></title>
-        <id>60272685f08eb8eaa3c0a9b0cc65a2977ca592c3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/"/>
-        <updated>2022-03-14T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) for Oracle は、Oracle Database 21c をサポートするようになりました。Oracle Database 21c 用に Amazon RDS インスタンスを起動できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Customer Profiles でコンソールでデータ集約のカスタマイズが可能に]]></title>
-        <id>aa6e77d7a158fb4d0b58fc9d0ae2caf357d9ba5e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/"/>
-        <updated>2022-03-14T06:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect の問い合わせ履歴とサードパーティーアプリケーションの異種の顧客データを 1 つの顧客プロファイルに統合した Amazon Connect Customer Profiles は、Salesforce や S3 などのソースからの顧客データを 1 つのプロファイルに集約する方法を設定するためのノーコードエクスペリエンスを提供するようになりました。これは、コードを記述せずにデータを顧客プロファイルに追加する方法をカスタマイズすることによって、管理者がエージェントに必要な顧客情報を簡単に提供できるようにするのに役立ちます。管理者は、Amazon Connect の AWS コンソールを介して、データを顧客プロファイルにマッピングする方法をカスタマイズしたり、プロファイルにユーザー定義のデータ属性を作成したり、プロファイルの検索に使用できる検索キーをカスタマイズしたりできます。リリース時には、Amazon Simple Storage Service (Amazon S3)、Salesforce、ServiceNow、Zendesk、Marketo といったデータソースがサポートされます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB が PartiQL オペレーションの制限リクエストオプションのサポートを開始]]></title>
-        <id>2f4c0685a5a0110c14bbf755d03c557ae9d2bccb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/"/>
-        <updated>2022-03-14T06:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DynamoDB は、各リクエストのオプションのパラメータとして、PartiQL オペレーションで処理される項目数の制限をサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化]]></title>
-        <id>715571dc1f092ef35cf9628b43049e04d549d0e7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/"/>
-        <updated>2022-03-14T03:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS Update Service API が Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新のサポートを開始]]></title>
-        <id>b0d158c98775339fb17ce08522a6d6ccca743f53</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/"/>
-        <updated>2022-03-14T03:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始]]></title>
-        <id>67d143df1c0ad9aa9add365544d1a9b0c1ea7e69</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/"/>
-        <updated>2022-03-14T03:31:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
+            <name>TheBlockBeats - 新闻</name>
         </author>
     </entry>
 </feed>
