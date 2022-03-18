@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-18T03:45:38.234Z</updated>
+    <updated>2022-03-18T03:57:33.517Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -226,6 +226,26 @@ ERC4626 开发者表示，目前虽然该标准经过审计，但并不意味是
 新版本包含可在Kwenta上以10倍杠杆交易的永续合约市场；合并部署Synthetix在所有支持链上的债务池；在Optimism上推出AAVE和UNI的合成资产sAAVE与sUNI。]]></summary>
         <author>
             <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更高效的「金钱乐高」？梳理Terra生态的「DeFi联动」]]></title>
+        <id>https://www.theblockbeats.info/news/29844</id>
+        <link href="https://www.theblockbeats.info/news/29844"/>
+        <updated>2022-03-18T03:18:17.000Z</updated>
+        <summary type="html"><![CDATA[更高效的「金钱乐高」？梳理Terra生态的「DeFi联动」]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nansen数据告诉你，NFT是否是加密货币的避风港]]></title>
+        <id>https://www.theblockbeats.info/news/29823</id>
+        <link href="https://www.theblockbeats.info/news/29823"/>
+        <updated>2022-03-18T02:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Nansen数据告诉你，NFT是否是加密货币的避风港]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
         </author>
     </entry>
     <entry>
