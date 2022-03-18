@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-18T05:53:49.738Z</updated>
+    <updated>2022-03-18T06:24:43.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[科技巨头们为什么要“跨界造芯”？]]></title>
-        <id>https://www.36kr.com/p/1659735378901125</id>
-        <link href="https://www.36kr.com/p/1659735378901125"/>
-        <updated>2022-03-18T05:18:45.000Z</updated>
-        <summary type="html"><![CDATA[无论是车企、手机厂商还是互联网大厂，都接二连三的扎进“造芯”赛道，甚至于连地产、家电、百货、水泥厂等企业也直接横跨到科技业开始造芯之路 ... 早在2010年苹果发布iPhone 4明确向外界宣布自研处理器A4后，“造芯”就已经不再是芯片公司的专场，谷歌、特斯拉、微软、百度、亚马逊、阿里巴巴、腾讯等科技巨头接连入局 ... 当我们把目光转到全球的互联网公司，会发现这个趋势更加明显，几乎所有涉及云计算和AI的科技巨头都在做芯片。]]></summary>
-        <author>
-            <name>36Kr</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[NFT基础设施服务商Project Galaxy公布空投细则]]></title>
         <id>https://www.theblockbeats.info/flash/72254</id>
@@ -57,13 +47,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[穿越牛熊，加密货币数量屡创新高]]></title>
-        <id>https://cn.investing.com/analysis/article-200470952</id>
-        <link href="https://cn.investing.com/analysis/article-200470952"/>
-        <updated>2022-03-18T03:25:00.000Z</updated>
-        <summary type="html"><![CDATA[世界可能面临二战以来最严重的地缘政治威胁，加上法定货币购买力的削弱和欧洲难民危机，许多市场参与者可能会转向加密货币 ... 在11 月 10 日领先的加密货币BTC和ETH达到历史新高之后，价格走势随即出现反转，截至 3 月 16 日，加密货币仍旧处于弱势 ... 加密货币的无论价格方向和整体市值如何，该资产类别的数量一直在爆发式增长，且这种增长持续了十多年。]]></summary>
+        <title type="html"><![CDATA[如何对NFT进行估值：技术、功能和享乐价值]]></title>
+        <id>https://www.0daily.com/post/5177224</id>
+        <link href="https://www.0daily.com/post/5177224"/>
+        <updated>2022-03-18T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[原文作者： rohanda.eth
+原文编译：@Forest_Ventures，Dinzz
+NFT（非同质化代币）的定价与BTC、ETH等同质化代币不同。NFT的价值取决于其类别、设计，以及在某些情况下的金融属性以及效用。随着越来越多的人开始了解NFT，仍然没有答案的问题是：
+NFT 如何获得价值？
+现实情况是，这背后没有确切的科学依据，也没有非黑即白的答案—即使不总是，也大多是灰色的。但是，与蒙娜丽莎或杰克逊·波洛克等不可伪造的实物艺术品不同，NFT有一些独特的数字可追溯的特征，可以客观地进行估值。我认为，在对NFT进行估值时，应该考虑到这些特征或价值系数。这些价值系数可以分为：
+1. 技术价值：链的安全性、去中心化程度以及稀缺性。
+2. 功能性价值：NFT的实用性和流动性。
+3. 享乐价值：对NFT的期许性，NFT创造者+社区。
+1. 技术价值
+链的安全性
+NFT的意义在于它们是不可更改，是有保障的数字资产（建立在它们的底层区块链基础设施保持不可更改和有保障之上）。因此，以太坊是NFT网络的统治者，这在很大程度上要归功于它是当今最安全的智能合约平台，而且这种主导地位有望在可预见的未来延续下去。
+
+以太坊上的 NFT 项目数量
+换句话说，在可靠的链上铸造NFT有助于保证它的价值，这就是为什么以太坊上铸造的NFT目前比其他链铸造的NFT更有价值。
+稀缺性
+这是价值体现的一个主要原因，类似于同质化代币的总供应量。稀有度因素是NFT最核心的元素，收藏品中最稀有的NFT通常是市场上最有价值的。以下面的CryptoPunks为例子，是对稀缺性和售价之间关系的简单描述，提供了对市场价值的洞察，以及验证市场估值的快速公式模型。
+
+资料来源：Cointelegraph
+这并不是说，这个数学公式对CryptoPunks有效，它也会对其他NFT项目有效，它们的特征和属性是不同的。NFT创造者…]]></summary>
         <author>
-            <name>英为财情</name>
+            <name>PANews</name>
         </author>
     </entry>
     <entry>
@@ -97,13 +105,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【链得得早报】俄罗斯立法者：加密资产可以帮助俄罗斯重返全球金融市场]]></title>
-        <id>https://www.tmtpost.com/6044656.html</id>
-        <link href="https://www.tmtpost.com/6044656.html"/>
-        <updated>2022-03-18T02:52:00.000Z</updated>
-        <summary type="html"><![CDATA[他指出，来自世界领先的加密货币交易所的专家正在为立法者设计俄罗斯数字资产监管框架的工作提供建议 ... 负责提出全面加密法规的杜马工作组成员 Yakubovsky 表示，新立法可以为俄罗斯提供进入金融市场的机会，而西方政府现在正试图为莫斯科关闭金融市场 ... 俄罗斯联邦储蓄银行(Sberbank)已从俄罗斯央行(BANK of Russia)获得发行和交易数字资产的许可证，而就在两个月前，俄罗斯央行曾呼吁全面禁止交易、挖采和使用加密货币。]]></summary>
+        <title type="html"><![CDATA[ApeCoin：迈向Web3迪士尼的最后一块版图]]></title>
+        <id>https://www.0daily.com/post/5177222</id>
+        <link href="https://www.0daily.com/post/5177222"/>
+        <updated>2022-03-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[没有一家运营 IP 的公司是不想成为迪士尼的。
+仅靠一个个创作出来的 IP 形象，迪士尼挣到了多少钱？据统计，2021 年全球最赚钱的 10 个 IP 中，迪士尼一家就占据了半壁江山，5 个 IP（维尼熊、米老鼠和他的朋友们、星球大战、迪士尼公主、漫威电影宇宙）总收入 3110 亿美元。
+围绕 IP 为核心，迪士尼建立了闭环且全面的盈利手段，覆盖了消费者可以接触到的方方面面，主题乐园、电影制作、流媒体、零售……一个个由人所创作出来的虚拟形象，一旦到了迪士尼手中，他们就摇身一变成为了马力全开的印钞机，以其他公司艳羡的速度产出着源源不断的营收。
+迪士尼的诞生和繁荣，离不开现代版权体系的建立，「地表最强法务部」的诨号也足以说明司法体系对维系迪士尼繁荣的重要性。当 Web3 的时代到来，无需许可、去中心化的链上世界，借助于 NFT、ERC-20、DAO 等全新的技术和组织形式，链上世界的原住民们能否复刻一个去中心化的迪士尼、甚至超越迪士尼？
+3 月 17 日，BAYC 地板价突破 100 ETH。这意味着一个「猴子头像」的价格已经高达约 30 万美元。有人从中看到了炒作和荒诞，而有的人却看到了团队对 IP 运营的强劲实力。估值 50 亿美元的 BAYC 团队，尽管距离迪士尼 2500 亿美元的市值仍相距甚远，但这个诞生尚不足一年的项目，已经让我们看到了 Web3 版本迪士尼诞生的可能性。
+米老鼠与无聊猿猴
+1923 年，华特·迪士尼卖掉了自己的摄影机带着未完成的《爱丽丝在卡通国》的影片胶卷购买了去往洛杉矶的单程车票，那一年他和哥哥洛伊·迪士尼成立了迪士尼兄弟工作室，5 年后在去往好莱坞的车上创造了以老鼠为原型的卡通形象莫蒂默，在妻子的建议下更名为米奇，至此之后这个传奇的卡通老鼠形象在迪士尼的笔下影响了一代又一代人。
+生活在纽约的华裔插画师塞内卡，是受到迪士尼影响的一代人中最为普通的…]]></summary>
         <author>
-            <name>链得得</name>
+            <name>区块律动BlockBeats</name>
         </author>
     </entry>
     <entry>
@@ -171,26 +186,6 @@ Lubin 说，“当合并发生时，我们每天燃烧的ETH将比发放的更�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VC正在吃掉整个Web3.0]]></title>
-        <id>https://www.chinaventure.com.cn/news/80-20220318-367834.html</id>
-        <link href="https://www.chinaventure.com.cn/news/80-20220318-367834.html"/>
-        <updated>2022-03-18T02:33:59.000Z</updated>
-        <summary type="html"><![CDATA[无论其他VC机构此时是否准备好迎接Web3.0，这家1972 年创立、此前只投能源、金融、互联网赛道的资本巨头已经做出表率：将注意力转移至更为前沿的新一代互联网技术 ... 在向 Web3.0演进过程中，有很多介于Web2.0和Web3.0的混合形态产品出现，例如NFT交易平台Opensea，艺术创作者将作品挂在平台上，并获得最大话收益，平台则以收取手续费为盈利，这类似与将传统的电商与去中心化交易模式结合 ... 前Twitter CEO杰克·多西对Web3.0极其不满：“你们并不拥有Web3.0，风投VC和他们的有限合伙人拥有，Web3.0永远不会逃脱他们的（资金）刺激”。]]></summary>
-        <author>
-            <name>胥崟涛</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无聊猿与Clubhouse，复盘NFT交易平台OpenSea崛起的关键因素]]></title>
-        <id>https://www.tmtpost.com/6044201.html</id>
-        <link href="https://www.tmtpost.com/6044201.html"/>
-        <updated>2022-03-18T02:02:00.000Z</updated>
-        <summary type="html"><![CDATA[但 Beeple 的作品并不是在 OpenSea 上交易的，而是在另一个 NFT 交易所 Nifty Gateway，如果是最大的交易，它都不发生在 OpenSea 上，OpenSea 是怎么占到这个市场份额的 98% 的呢 ... OpenSea 本身，在行业里也做出了很多贡献，它提供的 API 让你可以轻松的展示项目 ，而且还做了教程，告诉你怎么发行 NFT，很多新的 NFT 项目都是参照 OpenSea 的模板做的 ... 后来无聊猿又说我们要给大家再发一条狗，只要你买了无聊猿，他会再免费空投你一条狗，来自 Bored Ape Kennel Club。]]></summary>
-        <author>
-            <name>硅谷101</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数字证券平台InvestaX完成A轮融资，Coinbase Ventures等参投]]></title>
         <id>https://www.theblockbeats.info/flash/72182</id>
         <link href="https://www.theblockbeats.info/flash/72182"/>
@@ -212,56 +207,6 @@ Lubin 说，“当合并发生时，我们每天燃烧的ETH将比发放的更�
 据悉，Lunar Labs 是波卡智能合约平台 Moonbeam 上的抵押借贷协议开发团队。Moonwell Artemis 的工作方式与 Aave、MakerDAO 和 Compound 等借贷产品类似，允许用户借出加密货币并获得超额抵押贷款。]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html"/>
-        <updated>2022-03-18T00:41:36.000Z</updated>
-        <summary type="html"><![CDATA[上周，国外网友发现，一家西方的证书机构拒绝为俄罗斯域名颁发 HTTPS 证书，甚至还吊销已经颁发的有效证书 ... 如果所有西方的证书机构都这样做，吊销俄罗斯的 HTTPS 证书，那么俄罗斯网站就不能进行加密通信，使用会大大受限，整个在线支付都会瘫痪 ... 俄罗斯政府预见到了这种风险，就建了一个自已的证书机构，访问网站 gosuslugi.ru/TLS（下图）可以申请俄罗斯政府颁发的 HTTPS 证书。]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流媒体音乐服务Spotify拟试水NFT：招募Web3人才]]></title>
-        <id>https://finance.sina.com.cn/tech/2022-03-18/doc-imcwiwss6700487.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2022-03-18/doc-imcwiwss6700487.shtml"/>
-        <updated>2022-03-18T00:02:32.000Z</updated>
-        <summary type="html"><![CDATA[流媒体音乐服务Spotify正计划在其流媒体服务中融合区块链技术和非同质化代币（NFT），此举令加密货币和音乐行业都颇感兴奋，认为有望借助NFT来提升艺人的收入 ... 包括Royal和Catalog在内的创业公司已经开始出售由音乐人制作的NFT，他们通常将加密货币宣传成一种可以替代Spotify等流媒体服务的商业模式，宣称这种模式的利润更高，不必向平台支付佣金 ... Spotify的另外一份招聘启事是为“创新和市场情报”部门招募一名管理者，表明这家流媒体音乐服务计划寻找一名在“内容、创作、媒体Web和新兴技术行业”都有经验的人才，帮助其定义“Spotify的登月计划”。]]></summary>
-        <author>
-            <name>新浪科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[车圈呼唤罗永浩]]></title>
-        <id>https://www.huxiu.com/article/510497.html?f=rss</id>
-        <link href="https://www.huxiu.com/article/510497.html?f=rss"/>
-        <updated>2022-03-17T23:16:19.000Z</updated>
-        <summary type="html"><![CDATA[这时，如果我们追忆往昔就会猛然想起来，将“定义下一个十年的个人电脑”TNT售价一下子就拉到了9999元的罗永浩老师，确实是个实在人 ... 在2018年5月，在这个距离他离开锤子科技还有1年多的时间点，罗永浩在国家体育馆“鸟巢”召开了史无前例的盛大发布会 ... 坚果手机之外，罗永浩在其微博上预热了近一个月的“跨时代”产品，终于问世。]]></summary>
-        <author>
-            <name>DamonZhou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法治日报评论：虚拟货币不是传销“遮羞布”]]></title>
-        <id>https://finance.sina.com.cn/tech/2022-03-18/doc-imcwiwss6686860.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2022-03-18/doc-imcwiwss6686860.shtml"/>
-        <updated>2022-03-17T21:42:24.000Z</updated>
-        <summary type="html"><![CDATA[上海市公安局召开新闻发布会，披露上海首例利用虚拟货币实施网络传销犯罪案 ... 如今年2月，最高人民法院在修改关于审理非法集资刑事案件相关司法解释时，就结合司法新实践和犯罪新形式，特别增加了虚拟货币交易等新型非法吸收资金的行为方式，为依法惩治虚拟货币领域非法集资犯罪提供了依据 ... 虚拟货币等时髦概念不是网络传销的“遮羞布”，区块链等新兴技术也不是违法犯罪的挡箭牌。]]></summary>
-        <author>
-            <name>媒体滚动</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US must invest in Digital assets to protect its interests, Chainalysis founder tells Congress. He joins a chorus of experts calling on policymaker...]]></title>
-        <id>https://markets.businessinsider.com/news/currencies/crypto-senate-hearing-ukraine-russia-opportunity-war-transparency-finance-chainalysis-2022-3</id>
-        <link href="https://markets.businessinsider.com/news/currencies/crypto-senate-hearing-ukraine-russia-opportunity-war-transparency-finance-chainalysis-2022-3"/>
-        <updated>2022-03-17T19:05:50.000Z</updated>
-        <summary type="html"><![CDATA["We need to make sure we continue to invest in Financial Technology and build the Financial rails that will be used by the Globe in the 21st century," Levin said at Thursday's Senate hearing ... Chainalysis cofounder Jonathan Levin told the the Senate Committee on Banking, Housing, and Urban affairs that the sector should be at the forefront of protecting US interests — namely national security and public safety — and increasing transparency in Finance ... In the Thursday hearing, Levin said that similar to how open Access to the internet has allowed the world to witness the horrors of Russia's war on Ukraine, a well-supported cryptocurrency market could help shine a Light on illicit activities in the Financial world.]]></summary>
-        <author>
-            <name>Phil Rosen</name>
         </author>
     </entry>
     <entry>
@@ -329,26 +274,6 @@ Optimism 首席执行官 Jinglan Wang 在接受采访时表示，「Optimism 不
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paradigm and A16Z back Ethereum scaling startup Optimism at $1.65B valuation]]></title>
-        <id>https://techcrunch.com/2022/03/17/paradigm-and-a16z-back-ethereum-scaling-startup-optimism-at-1-65b-valuation/</id>
-        <link href="https://techcrunch.com/2022/03/17/paradigm-and-a16z-back-ethereum-scaling-startup-optimism-at-1-65b-valuation/"/>
-        <updated>2022-03-17T16:05:53.000Z</updated>
-        <summary type="html"><![CDATA[‘One such scaling startup, Optimism, has found new backing from Silicon Valley’s most high-profile crypto investors — Paradigm and Andreessen Horowitz ... ‘The Ethereum scaling startup tells TechCrunch they’ve closed a $150 million Series B funding round Co-led by Andreessen Horowitz and Paradigm at a $1.65 billion valuation ... ‘Lately, the Company has focused on reducing the complexity of its codebase and promoting close compatibility with code written for Ethereum so that developers Don’t have to alter their existing applications to be compatible with Optimism.]]></summary>
-        <author>
-            <name>Lucas Matney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股异动 | 美联国际教育(METX.US)涨超13%，宣布推出区块链英语课程]]></title>
-        <id>https://cn.investing.com/news/stock-market-news/article-2089730</id>
-        <link href="https://cn.investing.com/news/stock-market-news/article-2089730"/>
-        <updated>2022-03-17T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[3月17日(周四)，美联国际教育(METX.US)股价走高，截止发稿，该股涨超13%，报0.195美元 ... 此前宣布与火大教育合作推出区块链英语课程，旨在为区块链行业从业者及对区块链行业有兴趣的学习者，提供全面、专业且有针对性的英语课程指导 ... 美联国际教育首席执行官彭斯光表示，随着区块链行业在中国乃至全球的快速发展，将区块链英语课程引入市场，有助于区块链行业的人们有效学习英语。]]></summary>
-        <author>
-            <name>英为财情</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ApeCoin能做什么？读懂无聊猿BAYC生态Token]]></title>
         <id>https://www.theblockbeats.info/news/29820</id>
         <link href="https://www.theblockbeats.info/news/29820"/>
@@ -398,16 +323,6 @@ Bored Apes NFT project gets official 『ApeCoin』 token
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why investment companies are bullish about the metaverse]]></title>
-        <id>https://venturebeat.com/2022/03/17/why-investment-companies-are-bullish-about-the-metaverse/</id>
-        <link href="https://venturebeat.com/2022/03/17/why-investment-companies-are-bullish-about-the-metaverse/"/>
-        <updated>2022-03-17T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[When Hiro Capital launched its First Fund back in 2018, Venture-backed gaming companies had a strong year, raising about $6.1 billion, according to Crunchbase Data – yet the metaverse was still living in the realm of fiction ... “The size and allocation of investment in metaverse as a theme has pretty much tracked with the public interest in it,” says Luke Alvarez, founding general partner of Hiro ... ‘In part, that’s because there are a number of gaming and Tech communities with their own takes on what the metaverse entails, and what it will take for a fully realized metaverse to Spring to life.]]></summary>
-        <author>
-            <name>VentureBeat</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Binance上线首个DeFi小程序PancakeSwap]]></title>
         <id>https://www.theblockbeats.info/flash/72131</id>
         <link href="https://www.theblockbeats.info/flash/72131"/>
@@ -425,16 +340,6 @@ Bored Apes NFT project gets official 『ApeCoin』 token
         <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 17 日，据 Etherscan 数据显示, 由于 ApeCoin 空投已于今日 20:30 时开放领取，因空投领取量激增，Gas 费用一度涨至 221 gwei。截止发稿时，本次空投领取活动已燃烧 54.67 枚 ETH。]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you’Re a Russian YouTuber, how do you get paid Now?]]></title>
-        <id>https://www.theverge.com/2022/3/17/22982122/russia-youtube-crypto-creators-pay-ruble</id>
-        <link href="https://www.theverge.com/2022/3/17/22982122/russia-youtube-crypto-creators-pay-ruble"/>
-        <updated>2022-03-17T13:33:43.000Z</updated>
-        <summary type="html"><![CDATA[‘Patreon, his other payment option for the Russian Club, “kind of works,” but because many Russian banks have been kicked out of Swift, he can’t withdraw his money ... ‘(Russia is the third-largest miner of Bitcoin.) The Russian invasion of Ukraine, and the international response to it, is a Real-world test of cryptocurrency’s value to ordinary people ... ‘Russian oligarchs have been on notice since the 2014 invasion of Ukraine by Russia — they’ve had time to start moving their money, says Salman Banaei, head of public policy at Chainalysis.]]></summary>
-        <author>
-            <name>Elizabeth Lopatto</name>
         </author>
     </entry>
     <entry>
@@ -583,26 +488,6 @@ ve代币的弊端
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ukraine’s Digital Ministry Is a Formidable War Machine]]></title>
-        <id>https://www.wired.com/story/ukraine-digital-ministry-war</id>
-        <link href="https://www.wired.com/story/ukraine-digital-ministry-war"/>
-        <updated>2022-03-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[‘Valeriya Ionan, a deputy minister at Ukraine’s Ministry for Digital Transformation, was breastfeeding her two-month-old Son Mars when the First explosions boomed over Kyiv in the early hours of February 24 ... Comedian turned politician Volodymyr Zelensky handed Fedorov the newly-created Ministry for Digital Transformation in August 2019, shortly after the entrepreneur helped him Win the presidential election with a slick Digital campaign ... ‘‘‘The ministry’s staff, WHO sometimes wore matching hoodies as they worked in the government’s western Kyiv offices, came to think of themselves as a formidable unit of “freaks” inside the government machine, says Mstyslav Banik, the ministry’s head of E-services development, WHO has known Fedorov since they both worked in Digital Marketing.]]></summary>
-        <author>
-            <name>Tom Simonite, Gian M. Volpicelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conti Leak: A Ransomware Gang's Chats Expose Its Crypto Plans]]></title>
-        <id>https://www.wired.com/story/conti-ransomware-crypto-payments</id>
-        <link href="https://www.wired.com/story/conti-ransomware-crypto-payments"/>
-        <updated>2022-03-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Leaked files from cybercrime Group Conti show it started building a crypto payment platform, a social network—and even had plans for a casino ... ‘‘The researcher, WHO has remained anonymous for safety reasons, exposed the Conti ransomware gang’s inner workings on February 27 via a Twitter account after the hacking Group backed Vladimir Putin’s Ukraine invasion days earlier ... In February, just days before the Conti files were leaked, Stern traded Messages with One member of the team and discussed creating a system using the Rust programming language and the potential to use Smart contracts with ransomware.]]></summary>
-        <author>
-            <name>Matt Burgess</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[APE空投可能价值十万美金？一文探讨APE的估值情况]]></title>
         <id>https://www.0daily.com/post/5177211</id>
         <link href="https://www.0daily.com/post/5177211"/>
@@ -664,16 +549,6 @@ $APE 价格可能是多少以及空投有多大
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 things before the opening Bell]]></title>
-        <id>https://markets.businessinsider.com/news/stocks/10-things-before-the-opening-bell-march-17-2022-3</id>
-        <link href="https://markets.businessinsider.com/news/stocks/10-things-before-the-opening-bell-march-17-2022-3"/>
-        <updated>2022-03-17T10:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Looking to combat historic inflation, the Federal Reserve raised its Benchmark rate by 0.25 percentage points on Wednesday, matching most expectations ... It is a long-awaited Move and One that brings an end to an unprecedented era of easy-money policies that kept the economy afloat and stock markets riding high through the pandemic ... Rates offered by lenders are directly influenced by the Fed's Benchmark rate, and when the central BANK hikes, borrowing costs climb for everything from car loans, credit card payments, and mortgages.]]></summary>
-        <author>
-            <name>Phil Rosen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[浅析LooksRare运营近况：上线两个月，真实交易量增长至OpenSea的8%]]></title>
         <id>https://www.0daily.com/post/5177210</id>
         <link href="https://www.0daily.com/post/5177210"/>
@@ -705,16 +580,6 @@ LooksRare是建立在以太坊上的新一代NFT交易市场，不可避免地�
 NFT综合交易市场的竞争，无疑是剧烈而残酷的。在2020年以前出现的NFT市场，只有OpenSea一家独大，其他NFT市场根本不具备与之一战的能力。Rarible曾在2020年7月份凭借着交易奖励而一度占据NFT市场近50%的份额，但是，如今的日均交易额已不值一提，甚至远远少于后起之秀LooksRare。NFT市场本身的飞速发展、热点的更迭、外部政策的变化等，都不断带来新的问题。LooksRare能走多远？团队的交付是否符合预期甚至超出预期？拭目以待。]]></summary>
         <author>
             <name>星球君的朋友们</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore cryptocurrency on your own time with this $30 course bundle]]></title>
-        <id>https://mashable.com/deals/march-17-crypto-bundle</id>
-        <link href="https://mashable.com/deals/march-17-crypto-bundle"/>
-        <updated>2022-03-17T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As of March 17, you can slash 98% off The Essential 2022 Cryptocurrency & NFT Trading Bundle — worth $1,791 — and get it for $29.99 ... As the executive order on Digital assets announced last week signifies, cryptocurrency is the future — whether we like it or not ... Instead of poking around on Reddit and watching your favorite TikToker's videos, a solid way to learn the ropes of crypto is through this Essential 2022 Cryptocurrency and NFT Trading Bundle.]]></summary>
-        <author>
-            <name>Mashable</name>
         </author>
     </entry>
     <entry>
@@ -818,16 +683,6 @@ Kim 解释说，NG+…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[萨尔瓦多寻求发行10亿美元比特币债券，但市场对其前景并不看好]]></title>
-        <id>https://cn.investing.com/news/cryptocurrency-news/article-2089597</id>
-        <link href="https://cn.investing.com/news/cryptocurrency-news/article-2089597"/>
-        <updated>2022-03-17T07:44:00.000Z</updated>
-        <summary type="html"><![CDATA[英为财情Investing.com-上周五，萨尔瓦多财政部长Alejandro Zelaya表示，该国仍然在寻求发行比特币债券的合适时机，可能会在3月15日至20日发行 ... 此前，萨尔瓦多总统Nayib Bukele表示，拟在3月发行该国首批规模10亿美元的比特币债券，并将募资所得用于购买加密货币以及建设萨尔瓦多所谓的“比特币城（Bitcoin City）” ... 一些分析师指出，这批比特币债券的年面值利率只有6.5%——远低于萨尔瓦多主权债券的收益率，如此低的收益率对于投资者来说并不具备太多吸引力。]]></summary>
-        <author>
-            <name>英为财情</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NFT数据日报 | NFT整体市值达到180亿美元（3.17）]]></title>
         <id>https://www.0daily.com/post/5177199</id>
         <link href="https://www.0daily.com/post/5177199"/>
@@ -857,16 +712,6 @@ NFT颓势已现：肝不起了，卷不动了
 盘点受巨鲸欢迎的10款“平价”NFT]]></summary>
         <author>
             <name>不一样的NFT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个行业今年“凶猛”：产品开卖几十秒就售罄，大厂纷纷入局]]></title>
-        <id>https://www.36kr.com/p/1658411188467845</id>
-        <link href="https://www.36kr.com/p/1658411188467845"/>
-        <updated>2022-03-17T06:27:42.000Z</updated>
-        <summary type="html"><![CDATA[需要明确的是，NFT（非同质化代币）和数字藏品虽然都使用区块链技术来解决数字作品的确权难题，却存在差异——NFT关注数字作品的资产属性和流转价值，数字藏品则提倡剥离金融属性，更加关注数字藏品本身的价值，锚定其版权价值 ... “鲸探”强调该处罚是依据《蚂蚁链数字藏品平台用户协议》而实施，官方表示坚决反对任何形式的数字藏品转售，称这种行为往往存在欺诈风险，容易引发不良炒作，与数字藏品的定位相违背 ... 从行业发展阶段看，热闹的数字藏品才刚起步，各家规则各不相同——但唯一能够确定的是，在这个新市场上，无论是入局群体还是产品形态，未来都将更加丰富。]]></summary>
-        <author>
-            <name>36Kr</name>
         </author>
     </entry>
 </feed>
