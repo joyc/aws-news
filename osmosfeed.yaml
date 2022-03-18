@@ -8,5 +8,5 @@ sources:
 #  - href: https://rss-weather.yahoo.co.jp/rss/days/14.xml
 #  - href: https://rss-weather.yahoo.co.jp/rss/days/13.xml
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
-siteTitle: "Aws::News"
-cacheMaxDays: 7
+siteTitle: "BlockChain::News"
+cacheMaxDays: 5
