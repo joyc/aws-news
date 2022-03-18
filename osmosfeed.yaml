@@ -1,7 +1,10 @@
-cacheUrl: https://joyc.github.io/aws-news/cache.json
+cacheUrl: https://joyc.github.io/bc-news/cache.json
 sources:
-  - href: https://nitter.net/awsstatusjp/rss
-  - href: https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/
+  - href: https://rsshub.app/panewslab/newsflash
+  - href: https://rsshub.app/blockbeats/flash
+  - href: https://rsshub.app/blockbeats/news
+#  - href: https://nitter.net/awsstatusjp/rss
+#  - href: https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/
 #  - href: https://rss-weather.yahoo.co.jp/rss/days/14.xml
 #  - href: https://rss-weather.yahoo.co.jp/rss/days/13.xml
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
