@@ -2,10 +2,232 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-18T03:22:11.997Z</updated>
+    <updated>2022-03-18T03:45:38.234Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【金色晨讯 | 3月18日隔夜重要动态一览】21:00-7:00关键词：摩根大通、Mina、Optimism、Kyash 
+1.摩根大通据称已处理俄罗斯偿债款项 并将资金转给花旗； 
+2.俄罗...]]></title>
+        <id>https://www.jinse.com/lives/293676</id>
+        <link href="https://www.jinse.com/lives/293676"/>
+        <updated>2022-03-18T03:45:06.796Z</updated>
+        <summary type="html"><![CDATA[【金色晨讯 | 3月18日隔夜重要动态一览】21:00-7:00关键词：摩根大通、Mina、Optimism、Kyash 
+1.摩根大通据称已处理俄罗斯偿债款项 并将资金转给花旗； 
+2.俄罗斯立法者：加密资产可以帮助俄罗斯重返全球金融市场； 
+3.Mina完成9200万美元融资，FTX Ventures和三箭资本领投； 
+4.Optimism以16.5亿美元的估值完成1.5亿美元的B轮融资； 
+5.美国参议员宣布针对外国加密货币公司的制裁法案； 
+6.ProShares元宇宙ETF在纽约证券交易平台Arca开启交易； 
+7.美国民主党人：必须保护工人和经济免受加密货币滥用的影响； 
+8.日本加密银行Kyash完成4100万美元D轮融资； 
+9.NFT市场Rarible宣布完成Polygon集成并将推出多链钱包。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Serum推出50万美元生态激励用于开发跨链交易平台】3月18日消息，Solana 生态去中心化交易平台 Serum 推出生态激励奖，将通过投资最高 50 万美元以及额外的 SRM...]]></title>
+        <id>https://www.jinse.com/lives/293677</id>
+        <link href="https://www.jinse.com/lives/293677"/>
+        <updated>2022-03-18T03:45:06.775Z</updated>
+        <summary type="html"><![CDATA[【Serum推出50万美元生态激励用于开发跨链交易平台】3月18日消息，Solana 生态去中心化交易平台 Serum 推出生态激励奖，将通过投资最高 50 万美元以及额外的 SRM 代币奖励，激励开发基于 Serum 订单簿模式的跨链交易平台。Serum 要求该交易平台无需用户使用 Phantom 钱包，也无需用户持有 SOL，而是可以通过 MetaMask 钱包直接进行交易。
+原文链接]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【比特币矿企TeraWulf计划到2025年部署挖矿能力达800兆瓦】3月18日消息，绿色比特币矿企TeraWulf今天宣布其挖矿业务和数字资产基础设施建设的进展。TeraWulf称其...]]></title>
+        <id>https://www.jinse.com/lives/293683</id>
+        <link href="https://www.jinse.com/lives/293683"/>
+        <updated>2022-03-18T03:45:06.736Z</updated>
+        <summary type="html"><![CDATA[【比特币矿企TeraWulf计划到2025年部署挖矿能力达800兆瓦】3月18日消息，绿色比特币矿企TeraWulf今天宣布其挖矿业务和数字资产基础设施建设的进展。TeraWulf称其正在开发两个完全集成的环境清洁比特币挖矿设施，分别是纽约的Lake Mariner和宾夕法尼亚州的Nautilus Cryptomine，目标是到2025年部署800兆瓦的挖矿能力，实现每秒超过23 exahash的预期算力。该公司宣布，Lake Marine设施于2022年3月4日开始挖矿作业，利用超过90%的零碳能源，TeraWulf目前预计到4月底将有4000台比特币矿机在该设施运营。 该公司预计将于2022年第三季度开始在Nautilus工厂进行挖矿，一旦完成，将由TeraWulf提供150兆瓦的挖矿能力。（美通社）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【澳大利亚监察部门就 "虚假 "加密广告起诉Meta公司】金色财经报道，澳大利亚竞争监督机构周五表示，已经开始对Facebook所有者Meta Platforms Inc（FB.O）提起诉...]]></title>
+        <id>https://www.jinse.com/lives/293678</id>
+        <link href="https://www.jinse.com/lives/293678"/>
+        <updated>2022-03-18T03:45:06.720Z</updated>
+        <summary type="html"><![CDATA[【澳大利亚监察部门就 "虚假 "加密广告起诉Meta公司】金色财经报道，澳大利亚竞争监督机构周五表示，已经开始对Facebook所有者Meta Platforms Inc（FB.O）提起诉讼，指控这家社交媒体公司在该国从事虚假或误导性加密货币广告。Meta发布了以 "澳大利亚知名公众人物 "为主角的广告，宣传加密货币投资或赚钱计划。 
+据澳大利亚竞争和消费者委员会（ACCC）称，Meta公司知道Facebook上显示名人代言的加密货币骗局广告，但没有采取足够的措施来解决这个问题。该监管机构正在寻求声明、禁令、处罚、费用和其他命令。（路透社）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今日恐慌与贪婪指数为25，等级转为极度恐慌】金色财经报道，今日恐慌与贪婪指数为25（昨日为27），恐慌程度小幅上升，等级转为极度恐慌。注：恐慌指数阈值为0-...]]></title>
+        <id>https://www.jinse.com/lives/293680</id>
+        <link href="https://www.jinse.com/lives/293680"/>
+        <updated>2022-03-18T03:45:06.653Z</updated>
+        <summary type="html"><![CDATA[【今日恐慌与贪婪指数为25，等级转为极度恐慌】金色财经报道，今日恐慌与贪婪指数为25（昨日为27），恐慌程度小幅上升，等级转为极度恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【阿根廷参议院将对IMF不鼓励使用加密货币的协议进行表决】金色财经报道，阿根廷参议院将对该国本月早些时候与国际货币基金组织(IMF)达成的一份意向书进行表决，...]]></title>
+        <id>https://www.jinse.com/lives/293682</id>
+        <link href="https://www.jinse.com/lives/293682"/>
+        <updated>2022-03-18T03:45:06.606Z</updated>
+        <summary type="html"><![CDATA[【阿根廷参议院将对IMF不鼓励使用加密货币的协议进行表决】金色财经报道，阿根廷参议院将对该国本月早些时候与国际货币基金组织(IMF)达成的一份意向书进行表决，其中包括一项不鼓励使用加密货币的条款。该协议将重组该国在2018年获得的450亿美元的贷款。 
+加密货币条款是阿根廷和IMF于3月3日签署的《技术谅解备忘录》（TMU）的一部分。该协议已于3月11日获得阿根廷国民议会下院众议院的批准，并计划在周四晚些时候由参议院讨论以获得最终批准。 
+根据意向书，阿根廷还计划继续其支付数字化进程，"以提高支付系统和现金管理的效率和成本"。 
+据悉，阿根廷在2月份录得52.3%的同比通胀率，已经成为南美洲该地区领先的加密货币中心之一。根据当地交易所提供的信息，稳定币的购买量在2020年增加了6倍。（coindesk）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Sberbank获得发行和交易数字资产的许可证】3月18日消息，俄罗斯联邦储蓄银行(Sberbank)已从俄罗斯央行(Bank of Russia)获得发行和交易数字资产的许可证，而就...]]></title>
+        <id>https://www.jinse.com/lives/293681</id>
+        <link href="https://www.jinse.com/lives/293681"/>
+        <updated>2022-03-18T03:45:06.576Z</updated>
+        <summary type="html"><![CDATA[【Sberbank获得发行和交易数字资产的许可证】3月18日消息，俄罗斯联邦储蓄银行(Sberbank)已从俄罗斯央行(Bank of Russia)获得发行和交易数字资产的许可证，而就在两个月前，俄罗斯央行曾呼吁全面禁止交易、挖采和使用加密货币。俄罗斯最大的零售银行俄罗斯联邦储蓄银行(Sberbank)最近表示，由于入侵乌克兰引发的制裁开始打击受俄罗斯影响的行业，该银行正撤出欧洲市场，其欧洲分支机构正面临资金外流。今年1月，Sberbank向俄罗斯央行申请了为企业客户发行自己的数字代币的许可证。Sberbank寻求为使用它的公司提供数字资产。（CoinDesk）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【美国游戏零售商GameStop计划在7月底前推出NFT市场】3月18日消息，美国游戏零售商GameStop在其第四财季财报中表示，计划在7月底之前推出 NFT市场。GameStop曾在...]]></title>
+        <id>https://www.jinse.com/lives/293679</id>
+        <link href="https://www.jinse.com/lives/293679"/>
+        <updated>2022-03-18T03:45:06.513Z</updated>
+        <summary type="html"><![CDATA[【美国游戏零售商GameStop计划在7月底前推出NFT市场】3月18日消息，美国游戏零售商GameStop在其第四财季财报中表示，计划在7月底之前推出 NFT市场。GameStop曾在2月份宣布与NFT二层解决方案ImmutableX合作，推出NFT计划。GameStop在其财报中表示，合作伙伴关系将为其提供高达1.5亿美元的IMX代币，以实现某些里程碑。在2月份宣布的Immutable X合作伙伴关系中，GameStop表示预计其NFT市场将包括“数十亿易于买卖的低成本游戏内资产”，特别提到数字房地产和游戏内皮肤。（CoinDesk）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【数字证券平台InvestaX完成A轮融资，Coinbase Ventures等参投】金色财经报道，新加坡金融管理局（MAS）许可数字证券平台 InvestaX 宣布完成 A 轮融资，包括 Coi...]]></title>
+        <id>https://www.jinse.com/lives/293684</id>
+        <link href="https://www.jinse.com/lives/293684"/>
+        <updated>2022-03-18T03:45:06.475Z</updated>
+        <summary type="html"><![CDATA[【数字证券平台InvestaX完成A轮融资，Coinbase Ventures等参投】金色财经报道，新加坡金融管理局（MAS）许可数字证券平台 InvestaX 宣布完成 A 轮融资，包括 Coinbase Ventures、Gate Ventures、Token Bay Capital、Sustainability Exchange Group (SEG)、Global Blockchain Ventures、Startup-O、JST Capital、Baksh Capital、Thakral Corporation Ltd、Woodside Holdings Investment Management 和 Balaji Srinivasan参投。 
+据悉，InvestaX 是一家获得 MAS 许可的数字证券平台，为私人市场资产的数字证券发行、交易和托管提供端到端解决方案。（businesswire）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【纳指期货跌1% 标普500指数期货跌0.7%】行情显示，纳指期货跌1%，标普500指数期货跌0.7%，道指期货跌约0.6%。]]></title>
+        <id>https://www.jinse.com/lives/293685</id>
+        <link href="https://www.jinse.com/lives/293685"/>
+        <updated>2022-03-18T03:45:06.442Z</updated>
+        <summary type="html"><![CDATA[【纳指期货跌1% 标普500指数期货跌0.7%】行情显示，纳指期货跌1%，标普500指数期货跌0.7%，道指期货跌约0.6%。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【A股开盘：深证区块链50指数下跌0.56%】金色财经消息，A股开盘，上证指数报3207.15点，开盘下跌0.25%，深证成指报12222.22点，开盘下跌0.55%，深证区块链50指数...]]></title>
+        <id>https://www.jinse.com/lives/293686</id>
+        <link href="https://www.jinse.com/lives/293686"/>
+        <updated>2022-03-18T03:45:06.361Z</updated>
+        <summary type="html"><![CDATA[【A股开盘：深证区块链50指数下跌0.56%】金色财经消息，A股开盘，上证指数报3207.15点，开盘下跌0.25%，深证成指报12222.22点，开盘下跌0.55%，深证区块链50指数报3109.1点，开盘下跌0.56%。区块链板块开盘下跌0.68%，数字货币板块开盘下跌1.23%。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ApeCoin存款与交易上线Bitfinex】3月18日，据官方消息，ApeCoin（ERC-20）存款与交易上线Bitfinex。据悉，ApeCoin旨在支持艺术、游戏、娱乐、数字与物理事件以...]]></title>
+        <id>https://www.jinse.com/lives/293690</id>
+        <link href="https://www.jinse.com/lives/293690"/>
+        <updated>2022-03-18T03:45:06.346Z</updated>
+        <summary type="html"><![CDATA[【ApeCoin存款与交易上线Bitfinex】3月18日，据官方消息，ApeCoin（ERC-20）存款与交易上线Bitfinex。据悉，ApeCoin旨在支持艺术、游戏、娱乐、数字与物理事件以及一切关于Web3的叙事的发展。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Binance将停止加拿大安大略省用户新账户注册与现有账户交易】3月18日消息，经 Binance 向加拿大安大略省证券委员会（OSC）的承诺中证实，Binance 将停止加拿大...]]></title>
+        <id>https://www.jinse.com/lives/293688</id>
+        <link href="https://www.jinse.com/lives/293688"/>
+        <updated>2022-03-18T03:45:06.299Z</updated>
+        <summary type="html"><![CDATA[【Binance将停止加拿大安大略省用户新账户注册与现有账户交易】3月18日消息，经 Binance 向加拿大安大略省证券委员会（OSC）的承诺中证实，Binance 将停止加拿大安大略省用户新账户注册与现有账户交易。Binance 可能将向安大略省部分用户提供费用减免和报销，并聘请独立第三方监督其承诺的实施。（路透社）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DeFi借贷协议Timeswap将于3月22日0:00上线主网】3月18日消息，Polygon 上 DeFi 借贷协议 Timeswap 将于北京时间 2022 年 3 月 22 日 0:00 上线主网。 
+此前报...]]></title>
+        <id>https://www.jinse.com/lives/293689</id>
+        <link href="https://www.jinse.com/lives/293689"/>
+        <updated>2022-03-18T03:45:06.269Z</updated>
+        <summary type="html"><![CDATA[【DeFi借贷协议Timeswap将于3月22日0:00上线主网】3月18日消息，Polygon 上 DeFi 借贷协议 Timeswap 将于北京时间 2022 年 3 月 22 日 0:00 上线主网。 
+此前报道，Timeswap 完成种子轮融资，Multicoin Capital 领投。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【数据：BAYC NFT最近24小时成交额排名第一】金色财经报道，根据NFTScan的数据显示，Bored Ape Yacht Club NFT最近24小时平均成交价格为103.86 ETH，成交额为15,...]]></title>
+        <id>https://www.jinse.com/lives/293687</id>
+        <link href="https://www.jinse.com/lives/293687"/>
+        <updated>2022-03-18T03:45:06.209Z</updated>
+        <summary type="html"><![CDATA[【数据：BAYC NFT最近24小时成交额排名第一】金色财经报道，根据NFTScan的数据显示，Bored Ape Yacht Club NFT最近24小时平均成交价格为103.86 ETH，成交额为15,995.86ETH，排名第一。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【以太坊上代币化Vault标准ERC4626正式推出】3月18日消息，以太坊上代币化 Vault 标准 ERC4626 正式推出，目前支持该标准的协议包括 Balancer、Maple Finance、Y...]]></title>
+        <id>https://www.jinse.com/lives/293691</id>
+        <link href="https://www.jinse.com/lives/293691"/>
+        <updated>2022-03-18T03:45:06.114Z</updated>
+        <summary type="html"><![CDATA[【以太坊上代币化Vault标准ERC4626正式推出】3月18日消息，以太坊上代币化 Vault 标准 ERC4626 正式推出，目前支持该标准的协议包括 Balancer、Maple Finance、Yearn Finance V3、Convex 等。 
+目前 Github 上的 ERC4626 报告包含了路由这样的开源基础设施以及 Convex 和 Fuse 的策略，其中路由允许在单个交易中将代币在任何两个 ERC4626 代币中转移。 
+ERC4626 开发者表示，目前虽然该标准经过审计，但并不意味是完全安全的。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【韩国政府考虑将实施虚拟货币征税的时间推迟到2024年初】3月18日消息，韩国候任总统尹锡悦的总统过渡委员会正在考虑将实施虚拟货币征税的时间再推迟一年，直到2...]]></title>
+        <id>https://www.jinse.com/lives/293693</id>
+        <link href="https://www.jinse.com/lives/293693"/>
+        <updated>2022-03-18T03:45:06.062Z</updated>
+        <summary type="html"><![CDATA[【韩国政府考虑将实施虚拟货币征税的时间推迟到2024年初】3月18日消息，韩国候任总统尹锡悦的总统过渡委员会正在考虑将实施虚拟货币征税的时间再推迟一年，直到2024年初。这是因为执政党和在野党普遍认为，在实施虚拟货币税之前，必须先建立市场规则。韩国政府原计划从今年1月开始，对每年超过250万韩元的虚拟货币转让收入征收22%的税金。但是执政党和野党在大选之前的去年11月末表示“征税体系还没有形成”，达成了将虚拟货币税金的征收推迟1年（到2023年）的协议。此次总统过渡委员会考虑对此再次延期1年。（韩国日报）]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【数据：共识层（原ETH2）合约地址余额突破1044万枚ETH】3月18日消息，根据Tokenview链上数据监测，当前共识层（原ETH2） 合约地址余额为10,449,890TH，近一周内...]]></title>
+        <id>https://www.jinse.com/lives/293694</id>
+        <link href="https://www.jinse.com/lives/293694"/>
+        <updated>2022-03-18T03:45:05.997Z</updated>
+        <summary type="html"><![CDATA[【数据：共识层（原ETH2）合约地址余额突破1044万枚ETH】3月18日消息，根据Tokenview链上数据监测，当前共识层（原ETH2） 合约地址余额为10,449,890TH，近一周内新增386,848枚ETH，交易笔数185,944笔。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DeFi保险平台Nexus Mutual将在V2中引入Syndicate网络】3月18日消息，DeFi保险平台Nexus Mutual将在NexusV2中引入Syndicate网络。Syndicate是管理质押NXM的组织...]]></title>
+        <id>https://www.jinse.com/lives/293692</id>
+        <link href="https://www.jinse.com/lives/293692"/>
+        <updated>2022-03-18T03:45:05.966Z</updated>
+        <summary type="html"><![CDATA[【DeFi保险平台Nexus Mutual将在V2中引入Syndicate网络】3月18日消息，DeFi保险平台Nexus Mutual将在NexusV2中引入Syndicate网络。Syndicate是管理质押NXM的组织，其成员可以决定质押分配和权重，以及为保险政策定价，而不具备智能合约或技术专长的成员可以将他们的NXM委托给NexusV2中的可信Syndicate。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Synthetix已发布Diphda版本，包含永续合约市场、债务池合并等更新】3月18日消息，合成资产协议Synthetix博客宣布已于北京时间2022年3月18日3:00发布Diphda版本...]]></title>
+        <id>https://www.jinse.com/lives/293695</id>
+        <link href="https://www.jinse.com/lives/293695"/>
+        <updated>2022-03-18T03:45:05.873Z</updated>
+        <summary type="html"><![CDATA[【Synthetix已发布Diphda版本，包含永续合约市场、债务池合并等更新】3月18日消息，合成资产协议Synthetix博客宣布已于北京时间2022年3月18日3:00发布Diphda版本，目前债务池合并已开始，Layer1与Layer2之间的存取款已暂停，北京时间3月19日1:00债务池将完成合并。 
+新版本包含可在Kwenta上以10倍杠杆交易的永续合约市场；合并部署Synthetix在所有支持链上的债务池；在Optimism上推出AAVE和UNI的合成资产sAAVE与sUNI。]]></summary>
+        <author>
+            <name>金色财经 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lunar Labs完成1000万美元融资，Hypersphere Ventures和Arrington Capital领投]]></title>
         <id>https://www.theblockbeats.info/flash/72173</id>
@@ -180,6 +402,16 @@ Bored Apes NFT project gets official 『ApeCoin』 token
 生活在纽约的华裔插画师塞内卡，是受到迪…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foresight Ventures：将预留1-2亿美元投资加密资产、NFT、区块链和元宇宙行业]]></title>
+        <id>https://www.theblockbeats.info/flash/72113</id>
+        <link href="https://www.theblockbeats.info/flash/72113"/>
+        <updated>2022-03-17T12:40:38.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 17 日，据 blockworks 报道，加密风投 Foresight Ventures 表示将位加密资产、NFT、区块链和元宇宙行业投资预留 1-2 亿美元，用于未来 3 年在相关领域进行风险投资。Foresight Ventures 当前的投资组合主要包括金融服务平台 Matrixport 和元宇宙开发商 Everyrealm，此外 Binance Labs、Polygon、Chainlink、Avalanche、OKEx 和 NGC 也是 Foresight 合作伙伴生态系统的一部分。数据显示，Foresight 目前管理的资产规模已经达到 1.5 亿美元，主要通过股票和数字代币投资于一级和二级市场。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
 </feed>
