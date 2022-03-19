@@ -6,6 +6,66 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/sqarticledetails/1647678699430644.html",
+          "author": "PA一线",
+          "description": "PANews 3月19日消息，据Cointelegragh报道，加密贷款机构BlockFi确认其第三方供应商之一Hubspot发生了数据泄露事件。Hubspot存储了BlockFi的用户数据，包括姓名、电子邮件地址和电话号码。 根据公告，黑客在3月18日盗窃了BlockFi的客户数据。Hubspot已经证实，一个未经授权的第三方获得了存放在其平台上的某些BlockFi客户数据。目前BlockFi正在配合Hubspot的调查，以明确数据泄露的整体影响。虽然被盗数据的具体细节尚未被确定和披露，但BlockFi强调，密码、政府颁发的身份证和社会安全号码等数据从未存储在Hubspot上。",
+          "link": "https://panewslab.com/zh/sqarticledetails/1647678699430644.html",
+          "publishedOn": "2022-03-19T08:31:39.000Z",
+          "wordCount": 93,
+          "title": "加密贷款机构BlockFi的供应商Hubspot发生数据泄露",
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "https://panewslab.com/zh/sqarticledetails/1647675342603994.html",
+          "author": "PA一线",
+          "description": "PANews 3月19日消息，据Etherscan数据显示，匿名买家（地址为 0xf8c9cf133252a1a0b2c4b527381eaa94eaef62a6）今日在Gem平台批量购买9枚BAYC NFT，共花费862.69枚ETH。",
+          "link": "https://panewslab.com/zh/sqarticledetails/1647675342603994.html",
+          "publishedOn": "2022-03-19T07:35:43.000Z",
+          "wordCount": 98,
+          "title": "匿名买家斥资862 ETH在在Gem平台购买9枚BAYC NFT",
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "https://panewslab.com/zh/sqarticledetails/1647675296876993.html",
+          "author": "PA一线",
+          "description": "PANews 3月19日消息，根据DAO分析网站DeepDAO的数据，目前所有网络的DAO金库中持有95亿美元，其中以太坊上的DAO金库规模突破82亿美元，另外13亿美元由Solana区块链上的DAO持有。DeepDAO于2020年2月推出，目前囊括了超过4832个DAO组织的数据。",
+          "link": "https://panewslab.com/zh/sqarticledetails/1647675296876993.html",
+          "publishedOn": "2022-03-19T07:34:57.000Z",
+          "wordCount": 92,
+          "title": "数据：以太坊上的DAO金库规模突破82亿美元",
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "https://panewslab.com/zh/sqarticledetails/1647668383748501.html",
+          "author": "PA一线",
+          "description": "PANews 3月19日消息，Yuga Labs在社交媒体上公布其新项目“Otherside”的宣传视频，视频内出镜的NFT系列包括Bored Ape Yacht Club、Mutant Ape Yacht Club、CryptoPunks、Meebits、CoolCats、World of Women以及Nouns。",
+          "link": "https://panewslab.com/zh/sqarticledetails/1647668383748501.html",
+          "publishedOn": "2022-03-19T05:39:44.000Z",
+          "wordCount": 103,
+          "title": "Yuga Labs公布新项目“Otherside”宣传视频，BAYC等多个NFT系列出镜",
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "https://panewslab.com/zh/sqarticledetails/1647668120501500.html",
+          "author": "PA一线",
+          "description": "PANews 3月19日消息，跨链桥Across Protocol在社群公布其ACX空投提案初稿。据该提案内容显示，本次空投计划总量为1000万枚，占总供应量的10%。 其中20%将发放给在3月11日前加入Discord并拥有联合创始人身份的社群成员，50%将发放给在代币公布前投入资产的LP和Across Protocol推荐新用户的成员，10%将发放给在3月11日前使用该协议桥接资产的早期用户，剩余 20%将发放给Across Protocol的重要早期贡献者。该提案将在社群进行4天公示，并进行为期3天的投票环节，在赞成票多于100票且高于反对票的情况下视为通过。",
+          "link": "https://panewslab.com/zh/sqarticledetails/1647668120501500.html",
+          "publishedOn": "2022-03-19T05:35:21.000Z",
+          "wordCount": 99,
+          "title": "跨链桥Across Protocol公布空投提案，计划发放1000万枚ACX",
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "https://panewslab.com/zh/sqarticledetails/1647665672889644.html",
+          "author": "PA一线",
+          "description": "PANews 3月19日消息，由著名导演罗兰·艾默里奇执导的科幻灾难大片《月球陨落》宣布于3月25日在中国大陆上映，并将在3月22日在中国大陆同期发售系列数字藏品。该影片的系列数字藏品由影片导演罗兰·艾默里奇亲自设计，将在数字版权价值服务平台的专属品牌馆“十三楼”独家发售。",
+          "link": "https://panewslab.com/zh/sqarticledetails/1647665672889644.html",
+          "publishedOn": "2022-03-19T04:54:33.000Z",
+          "wordCount": 92,
+          "title": "灾难片巨制《月球陨落》数字藏品将于3月22日发售",
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
           "id": "https://panewslab.com/zh/sqarticledetails/1647656421642347.html",
           "author": "PA一线",
           "description": "PANews 3月19日消息，据NFTGO.io最新数据显示，“无聊猿”Bored Ape Yacht Club（BAYC）交易总额已突破15亿美元，创历史新高，目前为15.3亿美元，市值达到9.2134亿美元。由于BAYC开发公司YugaLabs推出ApeCoin，BAYC和其他“猿猴”系列NFT交易额近两日出现大幅增长，BAYC地板价一度突破100ETH，目前回落至92.69ETH。",
@@ -352,6 +412,26 @@
       "feedUrl": "https://rsshub.app/blockbeats/flash",
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
+        {
+          "id": "https://www.theblockbeats.info/flash/72398",
+          "author": null,
+          "description": "律动 BlockBeats 消息，3 月 19 日，根据 Winamp 公司透露，这家数字媒体播放器先驱将会把其标志性皮肤制作为 NFT 并进行拍卖。据悉，Winamp 基金会将于 5 月 16 日以 NFT 形式发布经典 Winamp 皮肤，并且上架 OpenSea NFT 市场，拍卖活动将截止到 5 月 22 日。Winamp 公司称，之后他们还将出售由 20 位数字艺术家创作 20 件基于 Winamp 原版皮肤的 NFT 艺术品和 1997 件衍生 NFT。Winamp 表示，Winamp 基金会将获得 80% 的首次销售收入所得，剩余资金将用于慈善捐赠给比利时非营利组织 Music Fund，为冲突地区和发展中国家的音乐学校和社会艺术项提供支持。",
+          "link": "https://www.theblockbeats.info/flash/72398",
+          "publishedOn": "2022-03-19T12:05:08.000Z",
+          "wordCount": null,
+          "title": "数字媒体播放器Winamp将于5月16日发布标志性皮肤NFT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/flash/72392",
+          "author": null,
+          "description": "律动 BlockBeats 消息，3 月 19 日，加密货币金融机构 BlockFi 确认其第三方供应商之一 Hubspot 被黑客攻击导致发生数据泄露。Hubspot 存储的用户数据包括姓名、电子邮件地址和电话号码。根据公告，黑客于 3 月 18 日获得 BlockFi 的客户数据，这些数据存储在 Hubspot 这个客户关系管理平台上。BlockFi 正在支持 Hubspot 的调查，以明确数据泄露的整体影响。虽然被破坏的数据的确切细节尚未被确定和披露，但 BlockFi 强调包括用户密码、政府颁发的身份证和社会安全号码等数据从未存储在 Hubspot 上。",
+          "link": "https://www.theblockbeats.info/flash/72392",
+          "publishedOn": "2022-03-19T09:05:08.000Z",
+          "wordCount": null,
+          "title": "BlockFi供应商Hubspot发生数据泄露，正合作调查相关影响",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theblockbeats.info/flash/72386",
           "author": null,
@@ -836,6 +916,46 @@
       "feedUrl": "https://rsshub.app/odaily",
       "siteUrl": "https://www.0daily.com",
       "articles": [
+        {
+          "id": "https://www.0daily.com/post/5177096",
+          "author": "Footprint",
+          "description": "Feb. 2022, Vincy\nData Source: Footprint Analytics - Lido Dashboard\nLido 是基于 Ethereum 2.0 Beacon Chain 上建造的平台，用户无需锁定 ETH 的同时还可获得质押的奖励，并 1∶1 获得 Token stETH，以参与 DeFi 市场其他的服务。\n在短短 3 个月内，Lido 以 139.8 亿美元的 TVL 创下历史新高，并超越 AAVE、Convex Finance 协议，在 DeFi 项目中位居第三。\n让我们来分析一下，TVL 增长快速的 Lido 是否是一个值得使用的平台？\nLido 支持多条主流公链，具有创新的 Tokenomics\nLido 所做的业务为 POS（Proof of Stake）公链的质押池服务，目前支持 Ethereum 2.0、Terra、Solana 和 Kusama 四条公链。据 Footprint Analytics 显示，截止 3 月 1 日，Lido 的 TVL 为 139.8 亿美元创下历史新高，其中占比最大的是 Terra（56%），其次是 Ethereum（41%），其他的公链占比甚少。\n\nFootprint Analytics - TVL of Lido\nLido 通过支持这 4 条公链可整合很多的头部协议，并发行对应公链 Token 衍生品为权益持有者的资产提供流动性。用户不仅可以选择质押 ETH、SOL、LUNA 和 KSM 的加密货币获得同比例 Token stETH、stSOL、stLUNA 和 stKSM，还能获得 4.5% 至 18% 的年化收益。\n\nScreenshot Source - Lido website\nLido 还发行原生 Token LDO，截止 3 月 1 日，LDO 的价格为 2.08 美元，对比上述…",
+          "link": "https://www.0daily.com/post/5177096",
+          "publishedOn": "2022-03-19T10:00:00.000Z",
+          "wordCount": 3,
+          "title": "是什么让Lido成为顶级的ETH质押协议？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.0daily.com/post/5177250",
+          "author": "链捕手",
+          "description": "原文作者：Paul Veradittakit ，Pantera Capital合伙人\n原文标题：《Web3 OS》\n原文翻译：MK，链捕手\n前言\nDAO 等 Web3 原生业务正在以前所未有的速度启动和增长。直至 2021 年，DAO 的资产管理规模总量增长了 40 倍，到年底达到了 160 亿美元的峰值，而 DAO 成员从 13,000 名增长到近 160 万参与者。\n尽管 Web3 商业模式越来越受欢迎，但大多数企业在处理财务方面的流程和基础设施都很差。像工资、税务报告和交易跟踪这样的任务通常都是通过像Excel电子表格这样不舒服的解决方案来处理的，随着企业规模和复杂性的增长，这些解决方案极易出错且不可持续。\nMultis是专为 Web3 企业和 DAO 设计的新型加密资产管理平台。在项目启动后的 2 周内，超过 300 家组织设立了 Multis 账户，包括 Compound Labs、The Sandbox 和 Teller Finance。该项目已从红杉资本、Y Combinator、MakerDAO、Ryan Selkis、Jack Altman 以及其他几个Web2和Web3知名投资者那里筹集了700万美元的投资。\nMultis 建立在 Gnosis Safe 之上——一个功能强大的智能合约钱包，具有多重签名交易、硬件钱包的安全性以及与 DeFi （去中心化金融）协议的原生集成等功能。Gnosis 已成为加密组织如何持有其资产的行业标准，在 Gnosis Safe 中持有的数字资产超过 860 亿美元的数字资产。 \nMultis 与企业的 Gnosis Safe 集成，并通过以下功能为团队提供更大的可见性和对其财务的控制：\n\n监控资产、资金流入和流出，并在不同区块链上为企业展现不同钱包的余额历史记录\n\n通过自定义注释和标签分析交易，使团队能够轻松搜索和过滤他们…",
+          "link": "https://www.0daily.com/post/5177250",
+          "publishedOn": "2022-03-19T09:28:28.000Z",
+          "wordCount": 3,
+          "title": "Pantera Capital合伙人：详解Web3财务管理工具Multis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.0daily.com/post/5177249",
+          "author": "Moni",
+          "description": "本文来自 Blockworks，原文作者：Macauley Peterson\nOdaily 星球日报译者 | Moni\n\n\n2022 年，越来越多人把目光聚焦在 NFT 领域，DeFi 市场光彩似乎已不复以往。\n数据不会说谎，从 Coingecko 提供的分析来看，“寿司” SushiSwap 早已跌出 DEX 交易量排名前十，而 Aave 锁仓量也在 2021 年 10 月触及 200 亿美元峰值后缩水至 120 亿美元左右，几乎腰斩。\n那么，DeFi 协议会就此认输吗？显然不会！事实上，Aave 和 Sushi 这两个蓝筹 DeFi 协议正试图通过创新再次吸引投资者的眼球。\nSushiSwap 的 DAO 团队已经在Polygon 权益证明区块链上推出了新产品测试版，该项目被称为 Trident，旨在通过构建和部署自动化做市（AMM）模式的生产框架，让任何开发人员都可以使用 Trident 创建自定义 AMM，继而为 DeFi 投资者提供一套全新的“DeFi 乐高”。与此同时，Aave V3 也宣布在六个不同的区块链上线，包括 Polygon、Arbitrum、Avalanche、Fantom、Harmony 和 Optimism，以太坊主网上线日期尚未确定。Aave v3 升级将引入跨链资产流动性、社区贡献工具、Gas 优化模型、高效模式等新功能，此外还将集成一系列去中心化应用。\n坦率地说，Aave 和 Sushi 都是当年“DeFi Summer”时期最受推崇的 DeFi 项目之一，尽管这两个协议的治理代币价格出现下跌，但这两个协议的总锁仓量依然达到 160 亿美元左右（星球君 o-daily 注：根据 Coingecko 数据显示，SUSHI 较 2021 年 3 月的 23.05 美元峰值下跌了约 88%，而 AAVE 则相较于 2021 年 5 月的 631.…",
+          "link": "https://www.0daily.com/post/5177249",
+          "publishedOn": "2022-03-19T07:11:46.000Z",
+          "wordCount": 3,
+          "title": "Aave和Sushi「新品」发布能否引领DeFi卷土重来？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.0daily.com/post/5177119",
+          "author": "DAOrayaki",
+          "description": "原文作者: Aragon\n原文标题: Who will Build the next 10,000 DAOs?\n\n在上一次更新的研究中，我们阐述了从数据分析和与DAOnauts的对话中产生的三个设计原则：简单性、模块化和适应性。在我们最新一轮的研究中，我们已经确定了三个角色，它们代表了谁将构建下一批10000个DAO，以及我们为谁构建DAO。\n与任何新技术一样，只有那些在前沿领域工作的人才有机会、有兴趣、有决心去冒险测试它。这些人自己建造了第一批1000个DAO。他们自然而然地关注DeFi和基础设施等领域，同时也关注到NFT等新兴现象。\n随着 DAO 平台和工具的改进，采用曲线变得陡峭，到 2021 年，生态系统内的多样性出现了爆炸式增长。第二次浪潮建立在第一次浪潮的基础上，投资俱乐部、VC DAO、游戏公会、服务 DAO 以及艺术和音乐创作者将他们的社区代币化。第三次浪潮可能更加细化。它将包括去中心化科学（DeSci）、人才平台，甚至更多的现实世界资产的代币化，但它也将包括第一波和第二波浪潮的下一版本。到第三次浪潮爆发时，DAO将多样化，我们可以开始考虑大规模采用。\n\n在两周的时间里，我们的研究团队对12位第三波DAO创始人进行了深入采访，我们称他们为“中间建设者”。从这些采访中收集的数据中，我们能够看到不同的特征集群，这些特征代表了一些趋势。然后，我们将团队细分为不同的人物角色，以代表他们不同的思维方式和方法。\n在我们深入探讨它们的差异之前，中级建设者具有以下特征：\n\n初学者：不是 DAO 专家，但已经积极参与 DAO 并且足够成熟以弥合大规模采用的差距。\n\n对区块链技术有可能实现的愿景，这在其先前（传统）行业的限制下很难实现。\n\n担心他们的 DAO 将被困在不灵活或不合适的初始设置中。\n\n该小组的三个子集对这些关键问题有不同的方法：\n\n“自治”对他们意味着什么。\n\n他…",
+          "link": "https://www.0daily.com/post/5177119",
+          "publishedOn": "2022-03-19T07:00:00.000Z",
+          "wordCount": 3,
+          "title": "谁将构建下一批10000个DAO，修补匠、前瞻者还是制作人？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.0daily.com/post/5177248",
           "author": "星球君的朋友们",
