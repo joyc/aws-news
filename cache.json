@@ -780,6 +780,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/29859",
+          "author": null,
+          "description": "原文标题：《Profiting from inefficiencies in the crypto markets: funding rates》  \n原文作者：kasper vandeloock，Musca Capital 量化交易员\n原文编译：胡韬，链捕手\n\n\n回到 2015-2016 年的美好时光，如果你是一位雄心勃勃的交易员并且有套利经验，你可以通过简单地在不同交易平台套利两种加密货币之间的价差轻松赚取百分之几的利润。\n\n\n然而，今天，通过使用简单的套利策略来盈利要困难得多。从那时起，这个行业已经成熟了很多。首先，加密货币的总市值从 2016 年初的 100 亿增长到 2021 年底的近 3 万亿，其次，交易平台大幅改善。这当然吸引了许多传统金融领域的量化交易者利用这个机会（Alameda Research、Wintermute、MNGR 等）。\n\n\n然而，即使所有这些大公司都加入了这一行列，小公司/个人仍然可以利用许多无效市场问题。让我们看一些利用这些无效市场的德尔塔中性策略的例子，特别是收集资金（来自永续合约）。\n\n \n\n\n德尔塔中性和市场中性的区别是什么？\n\n \n\n\n德尔塔中性（Delta-neutral）是一种策略，其中对特定资产的总敞口为 0。例如，假设你发现 Binance 和 FTX 之间的价格差异。\n\n\n\n\n\n\n\n\n\n\n\n\n\n你可以从中赚钱的一种方法是在 Binance 上借出 1ETH 并将其出售。在 FTX 上购买 1ETH 并将其发送给 Binance 以偿还你的贷款。这样你就没有风险敞口，但仍然可以获利。\n\n\n\n\n\n\n\n\n\n\n\n然而，市场中性有点不同。这仅仅意味着你对该资产类别市场的总敞口为 0。大多数情况下，你会选择同一类别的资产组合，在此示例中，我们使用的是 layer 1 的 Ethereum 和 Cardano。\n\n\n\n\n\n\n\n\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/29859",
+          "publishedOn": "2022-03-20T05:56:18.000Z",
+          "wordCount": null,
+          "title": "如何利用资金费率在加密市场中套利？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/29858",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《Gitcoin 第 13 轮捐赠开始，盘点值得关注的项目》\n\n\nGitcoin 捐助活动已经进入了第 13 期，本次活动 3 月 9 日开始至 3 月 23 日结束。在本轮捐助活动中，主奖金池的资金已经从上一轮的 100 万元提高到了 120 万美元。此外，还对属于特定领域的项目设立了针对性的配捐奖金池。参与本轮捐赠的项目数量目前已经达到了 778 个。律动 Blockbeats 对当前接受捐赠金额排名靠前的项目进行了观察，发现其中针对底层开发、社区教育类的项目占比明显增高。而在排名靠前的项目中，已经较少看到如 DeFi 协议等有潜在空投机会的项目。\n\n\n \n\n《ApeCoin：迈向 Web3 迪士尼的最后一块版图》\n\n\n \n\n没有一家运营 IP 的公司是不想成为迪士尼的。迪士尼的诞生和繁荣，离不开现代版权体系的建立。当 Web3 的时代到来，无需许可、去中心化的链上世界的原住民们能否复刻一个去中心化的迪士尼、甚至超越迪士尼？估值 50 亿美元的 BAYC 团队，尽管距离迪士尼 2500 亿美元的市值仍相距甚远，但这个诞生尚不足一年的项目，已经让我们看到了 Web3 版本迪士尼诞生的可能性。\n\n\n \n\n《那些十几岁的加密后浪们》\n\n\n \n\n一个由 12 岁的小学生所开发的 The RandomDAO 项目莫名的席卷了币圈。3 月 10 日，Huang Zheng 在推特上宣布，RND 空投已结束申领、完成领取。截止至当日，RND 总市值约为 3200 万美元。十几岁的开发者、KOL、甚至项目方，后浪们的力量比你想象中更大。既…",
@@ -956,6 +966,16 @@
       "feedUrl": "https://rsshub.app/odaily",
       "siteUrl": "https://www.0daily.com",
       "articles": [
+        {
+          "id": "https://www.0daily.com/post/5177255",
+          "author": "CryptoPunk",
+          "description": "原文作者：Wei Lien Dang\n原文编译：阿法兔\nUnusual Capital参投了Ebay、Instagram、Dropbox等项目；Wei Lien Dang是Unusual Capital的合伙人，也是云原生安全公司StackRox的联合创始人（StackRox后来被Red Hat收购，了解Red Hat可以看这一篇：从红帽公司的崛起聊聊开源商业模式）的联合创始人，他从投资和创业的角度，对Web3安全领域提出了一些思考，笔者给Wei的文章进行了一些注释，供大家共同探讨和思考。\n一组数据\n先来看一组数据：\n\n根据Crunchbase的数据，2021年，在该加密安全（Security&Regtech）领域投资的风投资金已经超过10亿美元。注意，这个数字在2020年，风险投资总额还不到1亿美元。\n\n\n图片来源：Crunchbase\n随着加密市场的火热，投资者已经开始关注安全性和合规性功能。\n互联网安全的演化\n\n在Web 1.0和Web 2.0中，互联网安全随着应用架构的演化而改变，以协助全新的互联网经济模式的构建；在Web 1.0时代，安全套接字协议（SSL）是由网景公司（A16Z创始人的之前的创业公司，以研发浏览器而闻名）开创的，逐步为用户浏览器和这些服务器之间提供安全通信。Web2.0时代如谷歌、微软、亚马逊这些大厂，和证书机构，在推动传输层安全（TLS：Transport Layer Security）方面发挥了核心作用，从某个角度来看，TLS是SSL的演化。\n什么是SSL（Secure Socket Layer）?\n1994年，Netscape公司开发了SSL，起初它被设想为一个系统：主要是为了确保网络上客户端（Client）和服务器（Server）系统之间的安全通信。渐渐地，IETF（国际互联网工程任务组）采用了该协议并将其标准化。\n啥是IETF?\n互联网…",
+          "link": "https://www.0daily.com/post/5177255",
+          "publishedOn": "2022-03-20T09:30:00.000Z",
+          "wordCount": 3,
+          "title": "关于目前Web3安全的思考和方向探索",
+          "imageUrl": null
+        },
         {
           "id": "https://www.0daily.com/post/5177243",
           "author": "Katie 辜",
