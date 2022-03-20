@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-20T01:44:08.861Z</updated>
+    <updated>2022-03-20T03:49:54.285Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cool Cats NFT系列24小时交易量为593.9万美元，增幅超900%]]></title>
+        <id>https://www.theblockbeats.info/flash/72404</id>
+        <link href="https://www.theblockbeats.info/flash/72404"/>
+        <updated>2022-03-20T01:14:13.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 20 日，据 NFTGo.io 数据显示，Cool Cats NFT 系列 24 小时成交额为 593.9 万美元，增幅 928.93%，地板价已升至 8.88ETH。
+
+律动此前报道，CoolCats NFT 系列出现在 Yuga Labs 新项目「Otherside」的宣传视频中。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数字媒体播放器Winamp将于5月16日发布标志性皮肤NFT]]></title>
         <id>https://www.theblockbeats.info/flash/72398</id>
