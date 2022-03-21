@@ -523,6 +523,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/flash/72455",
+          "author": null,
+          "description": "律动 BlockBeats 消息，3 月 21 日，FTX 宣布成立 FTX Australia Pty Ltd，标志着 FTX 持续全球扩张的又一重要里程碑。\n \n澳洲是亚太地区享有盛誉的金融中心，这个快速发展的市场也正在受到 FTX 重视。澳洲对于采用新技术，尤其是涉及到金融服务的新技术，向来采取积极开放的态度。此次「FTX Australia」的成立彰显了 FTX 长期致力于深入本地市场的战略布局。\n \n「FTX Australia」的总部将设在澳洲的金融中心悉尼。「FTX Australia」持有澳洲金融服务执照（AFSL）并担任场外衍生品的发行人，提供包括期权、期货、差价合约（CFD）及底层数字资产、杠杆代币等产品。\n \nFTX 的 CEO 暨创始人 SBF 表示：「我们很高兴能将 FTX 的创新产品和服务引入澳洲市场。FTX Australia 的成立让所有本地用户能够在这个已注册和获得执照的平台上放心交易。与 FTX 开展运营的其他司法管辖区一样，我们已分配大量资源来积极与当地监管机构合作。我们希望成为包括澳洲在内的全球政策讨论的积极参与者，并始终将参与制定新的数字资产许可制度作为工作重点。」",
+          "link": "https://www.theblockbeats.info/flash/72455",
+          "publishedOn": "2022-03-20T23:17:05.000Z",
+          "wordCount": null,
+          "title": "FTX成立「FTX Australia」，已获澳洲监管许可开展业务",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/flash/72452",
           "author": null,
           "description": "律动BlockBeats消息，3月20日，元宇宙平台Oorbit宣布完成500万美元种子轮融资，本轮融资由Deadmau5 和 HOF Capital等参投，天使投资人包括NBA达拉斯独行侠队老板 Mark Cuban（马克·库班）。本轮融资资金将用于支持平台扩张和用户增长。该平台预计将于2022年年底上线。",
@@ -1194,6 +1204,16 @@
           "publishedOn": "2022-03-19T04:37:41.000Z",
           "wordCount": 3,
           "title": "Art Blocks：生成艺术自动售货机，累计交易额超13亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.0daily.com/post/5177016",
+          "author": "郝方舟",
+          "description": "「每周编辑精选」是Odaily星球日报的一档“功能性”栏目。星球日报在每周覆盖大量即时资讯的基础上，也会发布许多优质的深度分析内容，但它们也许会藏在信息流和热点新闻中，与你擦肩而过。\n因此，我们编辑部将于每周六从过去7天发布的内容中，摘选一些值得花费时间品读、收藏的优质文章，从数据分析、行业判断、观点输出等角度，给身处加密世界的你带来新的启发。\n下面，来和我们一起阅读吧：\n\n投资与创业\n你真的了解恐慌与贪婪指数吗？\n一些关于“恐慌与贪婪指数”的小知识，比如它的区间、计算方法、适用范围和局限性等。\n“恐慌与贪婪指数更多的是作为一个日常指标，而不是作为长期交易的工具……对记录在日志中的交易活动进行分析，剔除无关紧要的内容，打磨有价值的内容，这是非常重要的。”\n拆解10个顶级Web3企业的经营之道：什么让他们强盛\n接触并调研过大量公司的Mario Gabriele，从九家优秀公司和加密项目中总结出了十条最有影响力的经验教训，分别是：1. 做一个坚持不懈的招聘者（Stripe）；2. 最大化深度工作时间（Levels）；3. 痴迷于你的客户（Coupang）；4. 调整激励措施（AngelList） ；5. 像民族国家一样思考 (Terra) ；6. 投资软实力 (FTX）；7. 保留可选性（OpenSea）；8. 强化您的优势（老虎环球）；9. 找到你的反定位（Telegram）；10. 主动重塑自己。\nForesight Ventures: Crypto思潮编年史（1997 - 2022）\n超长的一篇文章，以时间顺序重新回顾在Crypto发展史中那些重要的观点和叙事（包含了约40篇文章，像是一篇“25年编辑精选”），可以看到不同时期行业内外人士对Crypto的点评，了解他们当初如何看待和预判行业，非常有趣，并能直观感受到行业在加速。\n加密交易员Ansem：2022年第二季度加密…",
+          "link": "https://www.0daily.com/post/5177016",
+          "publishedOn": "2022-03-19T01:01:00.000Z",
+          "wordCount": 3,
+          "title": "每周编辑精选 Weekly Editors' Picks（0312-0318）",
           "imageUrl": null
         },
         {
