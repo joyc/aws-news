@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-23T13:26:29.459Z</updated>
+    <updated>2022-03-23T18:13:33.858Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -634,16 +634,6 @@ SEC、ビットコインETFの審査延期──ウィズダムツリーとワ�
         <summary type="html"><![CDATA[仮想通貨取引所FTXのサム・バンクマン＝フリードCEOは21日、オーストラリア・ブロックチェーンウィークの基調講演を行った。イベント初日はオーストラリア証券取引所（ASX）本部で開催された。]]></summary>
         <author>
             <name>Cointelegraph By Jesse Coghlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VCまとめ： NFT、仮想通貨住宅ローン、5Gネットワーク、Web3開発が数百万ドルを調達など]]></title>
-        <id>https://jp.cointelegraph.com/news/vc-roundup-nfts-crypto-mortgages-5g-network-and-web3-devs-raise-millions</id>
-        <link href="https://jp.cointelegraph.com/news/vc-roundup-nfts-crypto-mortgages-5g-network-and-web3-devs-raise-millions"/>
-        <updated>2022-03-21T03:10:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨通貨市場はここ数ヶ月、大きな前進を遂げることができていないが、それでも業界関係者は動きを止めることはない。ノンファンジブルトークン（NFT）、仮想通貨による住宅ローン、ブロックチェーンを利用した携帯電話ネットワーク、Web3ゲームなどは、いずれもベンチャーキャピタルの関心を集めている。]]></summary>
-        <author>
-            <name>Cointelegraph By Sam Bourgi</name>
         </author>
     </entry>
 </feed>
