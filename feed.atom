@@ -2,10 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-23T00:37:01.901Z</updated>
+    <updated>2022-03-23T06:10:35.513Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[奢侈品牌宝格丽在Polygon网络上推出手表NFT系列「Octo Finissimo Ultra」]]></title>
+        <id>https://www.theblockbeats.info/flash/72905</id>
+        <link href="https://www.theblockbeats.info/flash/72905"/>
+        <updated>2022-03-23T04:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，奢侈品牌宝格丽（Bulgari）在 Polygon 网络上推出 NFT 系列「Octo Finissimo Ultra」。Octo Finissimo Ultra NFT 的灵感来自于被称为世界上最薄的机械表的最新款 Octo Finissimo Ultra 手表，Octo Finissimo Ultra 仅生产 10 件。
+
+此外宝格丽称，这是 Octo Finissimo 世界纪录系列的最后一件。它也标志着机械世界与数字世界进入 NFT 领域的动态连接。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexo推出1.5亿美元Web3投资基金]]></title>
+        <id>https://www.theblockbeats.info/flash/72908</id>
+        <link href="https://www.theblockbeats.info/flash/72908"/>
+        <updated>2022-03-23T04:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，加密借贷平台 Nexo 宣布推出 1.5 亿美元内部 Web3 投资基金。该公司的风险投资部门 Nexo Ventures 计划将资金投入到区块链的游戏、DeFi 和 NFT 等领域。公司风险投资部门的企业财务和投资主管 Tatiana Metodieva 表示，该基金将「推动数字资产的用户推广和 Web3 生态系统的扩展」。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs亲笔：40亿美元故事的起源—「让我们做个NFT吧」]]></title>
+        <id>https://www.theblockbeats.info/news/29874</id>
+        <link href="https://www.theblockbeats.info/news/29874"/>
+        <updated>2022-03-23T04:08:55.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《「Let's make a NFT」》
+原文来源：Yuga Labs
+
+
+
+原文编译：律动 BlockBeats
+
+
+3 月 23 日，无聊猿母公司 Yuga Labs 以 40 亿美元估值完成 4.5 亿美元融资，a16z 领投，Animoca Brands、LionTree、Sound Ventures、Thrive Capital、FTX、 MoonPay 等参投。
+
+
+从开局一张图，到现在 40 亿美元的估值，从默默无闻到现在体育、文娱、VC 的众星捧月，Yuga Labs 仅用了一年多的时间。收购知名 IP，推出 Ape Coin，用激动人心的视频告诉大家 Otherside 与其他 IP 的到来，最后用 4.5 亿美元 a16z 领投的融资消息将情绪推向高潮。
+
+
+而 Yuga Labs 的创始团队，也在官网写下了自己的故事。所有的一切，都源于 2021 年 2 月 1 日的那句：「我们做个 NFT 吧」。律动 BlockBeats 将其翻译如下：
+
+
+我们从详细的商业计划开始。
+
+
+Yuga Labs 由四个朋友创立：Gargamel、Gordon、Tomato 和 Sass。
+
+
+一切都源于这句话：
+
+
+
+
+
+
+（「在我看来，戈登在他手机上给我的个人资料照片有点粗鲁？？」-Garga）
+
+
+
+别急，让我们，从头开始
+
+
+Gordon 和 Garga 在 2017 年首次对加密货币感兴趣。那个时候他们很激动，但 Twitter 上尽是些「shitposting」。
+
+
+你可以阅读 Crypto Twitter 上的所有内容，而只抓住正在发生的事情的表面。此外，您在浏览 Crypto Twitter 寻找 alpha（寻找下一个垃圾币）时遇到的疯狂角色真的很有吸引力。如此多的百万富翁（还有很多假装的）拥有动漫个人资料图片，互相发单调的 meme 图。…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰国证券交易委员会限制将加密货币作为支付手段]]></title>
+        <id>https://www.theblockbeats.info/flash/72881</id>
+        <link href="https://www.theblockbeats.info/flash/72881"/>
+        <updated>2022-03-23T03:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，泰国证券交易委员会发布规则，限制将加密货币作为支付手段，要求数字资产运营商从 4 月 1 日起开始遵守该规则。（金十）]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国银行市场部主管以103.9ETH买入BAYC#4097]]></title>
+        <id>https://www.theblockbeats.info/flash/72902</id>
+        <link href="https://www.theblockbeats.info/flash/72902"/>
+        <updated>2022-03-23T03:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，美国银行 (Bank of America) 市场部主管以 103.9ETH 买入 Bored Ape Yacht Club#4097，并称美国银行正在密切关注 NFT 领域。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave社区提议与Balancer战略合作，并购入30万枚BAL]]></title>
+        <id>https://www.theblockbeats.info/flash/72896</id>
+        <link href="https://www.theblockbeats.info/flash/72896"/>
+        <updated>2022-03-23T03:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，Aave 社区提议与 Balancer 达成战略合作，将储备中的 14,666.67 枚 AAVE 兑换成 200,000 枚 BAL。并部署 Bonding Curve 在市场上购买 100,000 枚 BAL，成本为 1,105,500 美元。
+
+据悉，此前 Aave 团队的 BAL 储备为 1604 枚，此次购买让其 BAL 持仓进入前八。所有 300,000 枚 BAL 都将按 BAL:ETH (80:20) 存入 Balancer V2 池。当 3 月 28 日 Balancer 新 Token 经济学启动，BAL 将被部署以赚取收益并用于将激励引导到新的 aToken 提升池。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalanche Bridge将支持BTC网络，并将推出钱包Core]]></title>
+        <id>https://www.theblockbeats.info/flash/72890</id>
+        <link href="https://www.theblockbeats.info/flash/72890"/>
+        <updated>2022-03-23T03:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，Avalanche 宣布 Avalanche Bridge 将支持 BTC 网络，从而将 BTC 资产桥接至 Avalanche DeFi 生态。
+
+同时 Avalanche 将发布针对 Web3 用户的钱包 Core。该钱包将内嵌 Avalanche Bridge，同时钱包用户能够直接与 Avalanche 网络上的 dApp 交互。Core 将分为两阶段发布：3 月下旬将推出 Core 浏览器插件版，第二季度初推出 Core 移动端应用程序。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[01 Exchange：Solana上的去中心化衍生品交易平台 ｜ 项目介绍]]></title>
+        <id>https://www.theblockbeats.info/news/29873</id>
+        <link href="https://www.theblockbeats.info/news/29873"/>
+        <updated>2022-03-23T03:45:55.000Z</updated>
+        <summary type="html"><![CDATA[随着 DeFi 发展的愈加深入，人们对其探索的角度也愈加丰富。衍生品作为金融市场最重要的组成部分之一，给投资者带来了对冲市场风险的作用，同时也提供了多元化的收益途径，人们对 DeFi 衍生品赛道的探索，也逐渐步入深水区。
+
+
+ 
+
+01 发展起源
+
+
+ 
+
+不过对于加密市场来说，衍生品的发展仍处于早期阶段，加密衍生品市场目前多由中心化交易所主导。中心化交易所 (CEX) 有丰富的产品功能，给用户带来了多样化的体验。虽说中心化交易所大大方便了我们各方面的交易需求，但交易者还是需要面临由于其中心化带来的风险，如清算机制不透明、极端行情之下常无法交易等，而去中心化相对的公平与安全，凸显人们对其尝试与践行的必要性。
+
+
+ 
+
+不过现有的去中心化交易所 (DEX) 仍然存在 Gas 费较高、流动性不足等许多缺陷，随着 Layer2 的推出，问题也得以缓解。目前，链上的大部分永续合约 DEX 选择虚拟自动化做市商（vAMM）或者以提供订单簿（如 DYDX、INJ）的模式实现交易。不过 vAMM 制约了用户使用限价订单的灵活性，而一些使用订单簿模式的 DEX 他们的订单簿多在集中式服务器上运行。偏中心化的运营方式，有可能会带给用户一些未暴露的风险。
+
+
+ 
+
+那么能否做一个既有中心化灵活的功能，又保证完全去中心化的交易所呢？01 团队也是这样想的，01 Exchange 最初来源于一群交易员与朋友开始做的一个实验，他们想看看能否做一个拥有中心化交易所提供的所有功能的完全去中心化的交易所。就如其化名联合创始人 Stratos 所说的：「团队的最终愿景是建立一种不影响去中心化的交易体验，同时提供与任何中心化交易所相同的功能。」以达到两全其美的目的。
+
+
+ 
+
+01 的使用与特点
+
+
+ 
+
+衍生品给 DeFi 带来了多样化的玩法，期货、期权也逐渐被更多交易者所熟悉，而且越来越多的加密货币平台关…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0xSoros：2022年Q2行业展望及投资组合项目进展]]></title>
+        <id>https://www.0daily.com/post/5177348</id>
+        <link href="https://www.0daily.com/post/5177348"/>
+        <updated>2022-03-23T03:25:54.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：0xSorosSubstack
+
+0xSoros 三月投资组合 （非投资建议）
+关于DeFiKingdom、Subnet和跨链、Harmony、GameFi未来形态、AXS Killer
+DeFi Kingdom（下文统称DFK）是Avalanche第一批重点扶持的Subnet项目，DFK将以DFK Chain的形式在Avalanche上部署DeFi Kingdom Crystalvale版本（下文统称DFK水晶宫）。
+DFK水晶宫将拥有自己的代币CRYSTAL，发布后将开启流动性挖矿激励，以AVAX/JEWEL/CRYSTAL的单币/双币LP形式。Avalanche将拿出价值1500万美金的 AVAX 代币激励DFK水晶宫。JEWEL 将作为DeFi Kingdom多链生态通用的Gas费，并开启燃烧和通缩模式。
+三月底DFK水晶宫发布后，很快能看到CRYSTAL的推出将对JEWEL的价格影响。团队对LP池的激励设计将一定程度影响JEWEL的价格。团队确立了以JEWEL作为DFK生态宇宙母币的核心方向，因此在DFK水晶宫发布后，JEWEL价格很大概率会迎来一波涨幅。
+DFK团队是比较有良心的，原本有许多机会榨取用户，但是选择与社区共同成长：DFK项目方拒绝了数个交易所的上所邀请（在游戏未完全开发出来前上所是一种透支消耗的行为）
+介于目前团队还没有开发出PVP等游戏对战模式，不能否认目前DFK仍是一款披着GameFi外衣的DeFi。DFK早期没有机构进场，没有机构的低成本锁仓筹码，也就没有持续的卖压；重要的是在过去的三个月内，DFK团队力排众议，不管用户流失，没有开发游戏，坚持做自己的Subnet和跨链。这种战略取舍，需要勇气。
+目前大多数JEWEL的筹码仍然在锁仓中（提供LP的奖励筹码大部分是锁仓的），将在今年7月份陆续解锁，线性解锁两年时间。
+因为DFK的游戏尚…]]></summary>
+        <author>
+            <name>星球君的朋友们</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索NFT价格定义的方法论]]></title>
+        <id>https://www.theblockbeats.info/news/29872</id>
+        <link href="https://www.theblockbeats.info/news/29872"/>
+        <updated>2022-03-23T03:24:55.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Exploring NFT Price Distribution Across Collections》  
+原文作者：Gringotts DAO
+原文编译：Block unicorn
+
+
+虚拟土地、PFP（NFT 头像）和游戏资产等 NFT 类别是评估项目和收藏品的常用框架。然而，这些资产的一个较少讨论且有时违反直觉的属性是其在集合中的价格「等级」，以及相同价格等级的资产如何在集合和 NFT 类别中表现。
+
+
+Gringotts DAO 的使命是成为 NFT 持有者获得流动性的一站式商店。随着新的 NFT 金融化协议的迅速出现，我们着手评估不同方法在用户寻求流动性的 NFT 类型的背景下的效果。我们没有仅仅关注资产类别，而是研究了所有这些资产共有的属性——它们的价格。
+
+
+更具体地说，我们试图回答 3 个问题：
+
+
+NFT 在整个市场的价格分布情况如何？
+
+
+是否出现了价格分布模式，如果有，它们有多普遍？
+
+
+从这些分布中，我们如何定义可能使给定 NFT 比其他流动性方法更适合某些流动性方法的价格「等级」？
+
+
+主要发现之一是集合和 NFT 类别中的项目可能比同一集合中的项目表现得更相似。因此，价格分布分析可以让用户和开发人员更全面地了解在哪里最好地找到流动性，以及金融化方法的潜在市场。
+
+
+方法
+
+
+NFTBank 是一种算法资产估值产品，它使用机器学习根据类似资产的过去定价来预测 NFT 价格。我们从 NFT 银行提取了超过 3 个月的数据。首先是 2021 年 12 月 15 日（279 次收藏，约 240 万 NFT，约 370 万 ETH 市值），然后是 2022 年 1 月 13 日（540 次收藏，约 1420 万 NFT，约 890 万 ETH 市值），大多数最近于 2022 年 2 月 27 日（538 个收藏，约 1480 万 NFT，约 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[固定利率协议Anchor Protocol添加支持sAVAX为抵押品]]></title>
+        <id>https://www.theblockbeats.info/flash/72878</id>
+        <link href="https://www.theblockbeats.info/flash/72878"/>
+        <updated>2022-03-23T02:48:57.000Z</updated>
+        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 23 日，Terra 生态固定利率协议 Anchor Protocol 宣布添加支持 sAVAX 为抵押品。用户可通过 Avalanche 生态流动性市场协议 BENQI 将 AVAX 转换为 sAVAX，然后使用 Anchor 协议在 Avalanche 上的 xAnchor 版本，实现抵押 sAVAX，通过 Wormhole 协议借贷 UST。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haun Ventures：募资15亿美元后，将如何构建Web3生态系统？]]></title>
+        <id>https://www.0daily.com/post/5177347</id>
+        <link href="https://www.0daily.com/post/5177347"/>
+        <updated>2022-03-23T02:34:13.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Katie Haun，Haun Ventures创始人
+原文标题：《Introducing Haun Ventures》
+原文编译：谷昱，链捕手
+相关阅读
+《a16z前合伙人单飞成立新基金，KRH会成为下一个Paradigm吗？》
+今天，我们将介绍Haun Ventures，这是一家从头开始设计的公司，旨在帮助创始人构建下一代互联网。我们已经筹集了 15 亿美元的资金来支持 web3 的发展。我们将通过两个平台进行投资：一个 5 亿美元的早期基金和一个 10 亿美元的加速基金。
+我的 web3 之路
+我的加密之路与冒险之路是非常规的。我在美国司法部工作了十多年，起诉有组织犯罪、谋杀、公共腐败、监狱团伙、白领犯罪和洗钱。2014 年，我创建了政府首批加密货币工作组之一。在这项工作的过程中，这些技术的巨大潜力很快变得清晰起来。像任何工具一样，它们可以用于好的或坏的，但我们才刚刚开始触及好处的表面。
+离开政府后，我与该领域的一些最了不起的建设者和投资者合作，其中包括 2017 年招募我加入 Coinbase 董事会的 Brian Armstrong。在那里，我遇到了我的朋友和前合伙人 Chris Dixon，我和他一起创办并扩展了世界上最早和最大的加密风投机构之一。多年来与创始人的合作激发了我自己的创业精神，我开始考虑根据我的经验建立一些新的东西。具体来说，我一直认为将加密货币世界与不同的受众联系起来——无论是政府、学术界、企业还是其他——以促进更好地了解这种新兴技术的好处的价值。所有这一切促成了 Haun Ventures 的成立。
+Web3 已经超越了它的金融起源——它现在提供了技术构建模块，为数字世界的下一次迭代提供动力
+我们认为比特币是发起一千次实验的原始突破。数字化、去中心化共识的首次实施为网络激励对齐和非主权价值存储解锁了无数新方法。自其发明以来的十年中，w…]]></summary>
+        <author>
+            <name>链捕手</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星球日报 | 桥水基金计划首次投资加密基金；三箭资本新增持7501.83枚ETH（3月23日）]]></title>
         <id>https://www.0daily.com/post/5177345</id>
@@ -4097,151 +4342,6 @@ Foresight Ventures: Crypto思潮编年史（1997 - 2022）
 加密交易员Ansem：2022年第二季度加密…]]></summary>
         <author>
             <name>郝方舟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「无聊猿」豪掷40亿美金回馈持有者，NFT Hodlers将迎来空投春天？]]></title>
-        <id>https://www.theblockbeats.info/news/29854</id>
-        <link href="https://www.theblockbeats.info/news/29854"/>
-        <updated>2022-03-18T15:09:35.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：OKLink  
-原文作者：0x6617
-
-
-
-去年 10 月，BAYC（Bored Ape Yacht Club）团队在推特上透露出了将在 2022 年 Q1 推出 Token 的想法。
-他们说，「WEN TOKEN（什么时候发 ERC20 
-
-Token
-
-）」是一个常常被社区问到的问题，为了持有者以及广泛的 NFT 社群，团队希望以更健全的方式来执行。
-
-
-而今，$APE（ApeCoin）终于推出，伴随着此前 BAYC 母公司 Yuga Labs 大刀阔斧地收购 CryptoPunks 和 Meebits，与顶级链游公司 Animoca Brands 合作开发秘密项目的造势，以及「Yuga Labs 正在构建区块链的迪士尼，Web 3.0 的漫威宇宙」的光环下，15% $APE 的空投比例被认为让一群已经自由的人更加自由。
-空投开启后，Gas 费用涨超 300 Gwei，OKLink 数据显示，截至撰稿，ApeCoin 合约已经销毁了 207 枚 ETH，排名第 6。
-
-
-
-
-图片来源：OKLink
-
-
-目前，15,177 个有资格领取的地址已有 80% 完成了领取，总计 1.5 亿枚$APE 的空投，也已被认领了近 1.12 亿枚，剩余数量 3,800 万枚，总价值超 5 亿美元。
-
-
-
-
-图片来源：Dune Analytics
-
-
-空前的热度让$APE 一推出，就攫取了市场大部分的注意力，甚至还引发了科学家们的「套利内卷」。
-其中一位科学家，通过 NFTX 中闪电贷贷出 BAYC NFT 碎片化后的 ERC20 BAYC 
-
-Token
-
-，再由此赎回 BAYC NFTs，最终获得 60,564 $APE。
-
-
-短短一日，因$APE 而沸腾的加密社区，我们看到了链上套利手法的翻新，在 NFT 金融化的新趋势下，NFT 的套利、攻击手法的复杂程度也开始向 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3游戏开发平台Joyride完成1400万美元融资，Coinbase Ventures和Animoca Brands等参投]]></title>
-        <id>https://www.theblockbeats.info/flash/72332</id>
-        <link href="https://www.theblockbeats.info/flash/72332"/>
-        <updated>2022-03-18T14:51:10.000Z</updated>
-        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 18 日，Web3 游戏开发平台 Joyride 宣布完成 1400 万美元融资，Coinbase Ventures、Animoca Brands、Solana Ventures、Dapper Labs、BITKRAFT Ventures、SuperLayer、Modern Times Group 和 Mirana Ventures 等参投。本轮融资将用于为钱包支持更多区块链、添加新 NFT 功能、市场集成以及助推 Joyride 平台上的首批游戏。]]></summary>
-        <author>
-            <name>TheBlockBeats - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multicoin Capital投资的公链Aptos究竟是何方神圣？]]></title>
-        <id>https://www.theblockbeats.info/news/29848</id>
-        <link href="https://www.theblockbeats.info/news/29848"/>
-        <updated>2022-03-18T14:09:35.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Multicoin 又扩张了哪些版图？一文带你了解前 Facebook Diem 团队主导的 Aptos
-
-》
-原文作者：召猫；编辑：Doge
-本文来自微信公众号：老雅痞
-
-
-在浏览区块链资讯之时，我们时常会看到某某项目拿了哪些资方的融资。但对于这些与普通用户距离较远的投资机构，大家可能并不清楚其布局，也无从辨别其是否对项目有增益作用或是对我们的投资决策起到帮助。只是对几个比较常见的名字感到熟悉，例如 Consensys、a16z crypto、Three Arrows Capital、FTX Ventures、Coinbase Ventures、Binance Ventures 等等。今天，召猫带大家盘点下创建自 2017 年 5 月加密原生基金 Multicoin Capital，并重点介绍其合伙人 Kyle Samani 推崇的新公链项目 Aptos。
-
-
-
-
-
-布局纵览
-
-
-Multicoin Capital 投资涵盖区块链的各个赛道，投资于突破计算机科学和技术界限的技术努力、支持全球范围内信任最小化计算的基础设施，以及需要信任最小化属性的消费者和企业应用程序。按照类别分类包括基础设施层面、L1、L2、企业向、隐私、身份、移动端等，投资项目众多，本文仅罗列几个行业知名项目，其余项目可自行从其管网查阅。
-
-
-
-
-
-Coin98 是一个一体化的 DeFi 平台，为一整套产品提供支持，包括 Coin98 钱包、Coin98 交易所和 Space Gate（跨链桥）。Coin98 旨在满足行业未开发的需求，成为将 TradFi 用户连接到任何 DeFi 服务或区块链的首选网关。
-
-
-
-
-
-Near 是 NEAR 协议的创建者。NEAR 协议由经验丰富的有竞争力的程序员团队设计和开发，通过使用一种新颖的分片方法和称为 Nightshade 的共识机制实现了全球…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链游戏平台C2X完成2500万美元融资，FTX Ventures、Jump Crypto和Animoca Brands领投]]></title>
-        <id>https://www.theblockbeats.info/flash/72311</id>
-        <link href="https://www.theblockbeats.info/flash/72311"/>
-        <updated>2022-03-18T13:16:10.000Z</updated>
-        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 18 日，基于 Terra 的区块链游戏平台 C2X 宣布完成 2500 万美元融资，FTX Ventures、Jump Crypto 和 Animoca Brands 领投，Hashed、Terra、Transcend Fund、Galaxy Interactive、Skybound、Blockchain Coinvestors、DeFiance Capital、Play Ventures、Cryptocom、Infinity Ventures Crypto 、Unanimous Capital、Bowei、Xsolla、Huobi Ventures、Goal Ventures、Concept Art House 和 Agnitio Capital 等参投。本轮投资以私募 Token 销售的形式，以 5 亿美元估值进行。
-
-律动此前报道，FTX 于今日开启 C2X (CTX) 预售，参与预售需要用户通过 KYC2 级认证，并质押至少 150 个 FTT。]]></summary>
-        <author>
-            <name>TheBlockBeats - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin协议Angle Protocol上线Router合约，以降低用户gas费用]]></title>
-        <id>https://www.theblockbeats.info/flash/72317</id>
-        <link href="https://www.theblockbeats.info/flash/72317"/>
-        <updated>2022-03-18T13:16:10.000Z</updated>
-        <summary type="html"><![CDATA[律动 BlockBeats 消息，3 月 18 日，去中心化 Stablecoin 协议 Angle Protocol 宣布上线 Router 合约，该合约允许用户在与协议交互时将多个操作组合成一笔交易，从而显著降低用户使用协议时产生的 gas 费用。]]></summary>
-        <author>
-            <name>TheBlockBeats - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千万美金赌局背后：Luna到底是不是庞氏骗局？]]></title>
-        <id>https://www.0daily.com/post/5177241</id>
-        <link href="https://www.0daily.com/post/5177241"/>
-        <updated>2022-03-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[研究员：许潇鹏
-这一年市值如火箭般蹿升的Luna近来再次成为行业焦点，Terra的联合创始人兼CEO DO kwon与加密KOL Sensei Algod对于Luna价格能否在一年后站在88美金以上，开了一个百万美元的赌局（后DO kwon要求加注到1000万美元）。
-Terra作为这一年间崛起势能最强的公链之一，具有很高的研究和讨论价值。
-Mint Ventures也在2021年8月初发布了关于Terra的首篇研报《Terra：稳定币军团的崛起之路》。此后，我们一直关注着Terra生态的发展。
-本文是我们截至目前对Terra的思考，仅作为抛砖引玉。
-我们的Twitter：https://twitter.com/mintventures2
-观点摘要
-● 尽管有着庞氏的影子，但目前Terra不是传统意义上的庞氏骗局。
-● 市场对于Terra的真正的分歧点在于其公链发展模式的合理性。支持者认为Terra的高息存款类似于互联网领域的获客和留存补贴，尽管前期有巨量亏损，但是从用户总的生命周期来看，目前补贴的钱未来会从长期的生态繁荣中迂回地赚回来；反对者认为Terra的这种补贴+公链代币&稳定币挂钩的发展模式难以形成稳态，最终会在某次Luna价格大跌的负螺旋中走向死亡。
-● Terra的挑战之一在于其代币Luna的“经济带宽”不足，这使得UST比DAI更加脆弱。
-● Terra的挑战之二在于其公链+稳定币增长的业务循环可能被多种内外部因素打断，螺旋从向上转为下坠，作为Luna和UST的投资者，需要对这些因素非常关注。
-本文仅作为讨论之用，可能存在事实、数据、观点上的偏颇和错误，请勿作为投资依据，也期待更多的投资人提供差异化的观点，参与到讨论之中。
-正文开始
-在争议Terra是不是庞氏骗局之前，我们有必要达成共识：什么是庞氏骗局？
-第一节  什么是庞氏？
-庞氏即以新投资者的钱支付旧投资…]]></summary>
-        <author>
-            <name>Mint Ventures</name>
         </author>
     </entry>
 </feed>
