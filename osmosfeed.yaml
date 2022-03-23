@@ -1,9 +1,10 @@
 cacheUrl: https://joyc.github.io/bc-news/cache.json
 sources:
-  - href: https://rsshub.app/panewslab/newsflash
-  - href: https://rsshub.app/blockbeats/flash
-  - href: https://rsshub.app/blockbeats/news
-  - href: https://rsshub.app/odaily
+  - href: https://rss.app/feeds/Gi5lP9ProAbP2UYd.xml
+#   - href: https://rsshub.app/panewslab/newsflash
+#   - href: https://rsshub.app/blockbeats/flash
+#   - href: https://rsshub.app/blockbeats/news
+#   - href: https://rsshub.app/odaily
 #  - href: https://rsshub.app/readhub/blockchain
 #  - href: https://rsshub.app/jinse/lives 
 #  - href: https://nitter.net/awsstatusjp/rss
@@ -12,4 +13,4 @@ sources:
 #  - href: https://rss-weather.yahoo.co.jp/rss/days/13.xml
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
 siteTitle: "BlockChain::News"
-cacheMaxDays: 5
+cacheMaxDays: 3
