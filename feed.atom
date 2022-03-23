@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-23T13:22:15.022Z</updated>
+    <updated>2022-03-23T13:26:29.459Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -14,6 +14,46 @@
         <summary type="html"><![CDATA[「好みのNFTは〇〇」や「〇〇コミュニティの雰囲気がいいよね」といった会話が日本のNFTの界隈でよく聞かれる。もちろん、双方ともNFT売買の判断をする上で重要だ。しかし、今後、「ユーティリティ」という新しい軸が重要視される時代になるかもしれない。]]></summary>
         <author>
             <name>Cointelegraph By  Cointelegraph Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン、Minaプロトコル統合でプライバシー強化と検証性向上を目指す]]></title>
+        <id>https://coinpost.jp/?p=275595</id>
+        <link href="https://coinpost.jp/?p=275595"/>
+        <updated>2022-03-23T09:36:46.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのスケーラビリティソリューションを提供するポリゴンは、9月9日、Polygon POS上で「Mina」プロトコルの実装に取り組むと発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日ハムの新庄監督、最高額1,000万円の限定NFTなど販売へ]]></title>
+        <id>https://coinpost.jp/?p=332999</id>
+        <link href="https://coinpost.jp/?p=332999"/>
+        <updated>2022-03-23T09:31:30.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球チーム「北海道日本ハムファイターズ」で監督を務める新庄剛志氏は22日、自身のNFT（非代替性トークン）を販売することを発表した。最高額は1,000万円、収益の一部は、「BIGBOSS基金」で活用される予定だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧州中央銀行ラガルド総裁、仮想通貨の制裁回避利用を警戒]]></title>
+        <id>https://coinpost.jp/?p=333008</id>
+        <link href="https://coinpost.jp/?p=333008"/>
+        <updated>2022-03-23T09:07:43.000Z</updated>
+        <summary type="html"><![CDATA[クリスティーヌ・ラガルド氏は、仮想通貨（暗号資産）が対ロシア経済制裁を迂回する手段として使用される可能性について触れ、仮想通貨取引所などのサービス・プロバイダーが「共犯者」であると指摘した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米フロリダ州知事、ビットコインを使った納税対応に意欲]]></title>
+        <id>https://coinpost.jp/?p=333009</id>
+        <link href="https://coinpost.jp/?p=333009"/>
+        <updated>2022-03-23T08:44:25.000Z</updated>
+        <summary type="html"><![CDATA[米フロリダ州の知事は分散化された仮想通貨による企業の納税対応に向けて調整していると発言。昨年12月に続き、ビットコインでの納税に意欲的な姿勢を示した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
         </author>
     </entry>
     <entry>
@@ -48,6 +88,16 @@ LINE、NFTを本格展開──吉本興業やスクエニなどと100種類以�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LINEのNFTマーケットプレイス、4月13日から提供へ　吉本興業など17コンテンツと提携]]></title>
+        <id>https://coinpost.jp/?p=332888</id>
+        <link href="https://coinpost.jp/?p=332888"/>
+        <updated>2022-03-23T07:58:59.000Z</updated>
+        <summary type="html"><![CDATA[メッセージアプリを提供するLINEは23日、NFTマーケットプレイス「LINE NFT」を4月13日から提供開始する。吉本興業ホールディングスなど17コンテンツと提携し、100種類以上のNFT販売を行う計画だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英国人投資家、トークンやNFTへの関心が高まる＝調査]]></title>
         <id>https://jp.cointelegraph.com/news/tokens-pose-lesser-risk-than-gold-and-oil-for-uk-investors-survey</id>
         <link href="https://jp.cointelegraph.com/news/tokens-pose-lesser-risk-than-gold-and-oil-for-uk-investors-survey"/>
@@ -55,6 +105,16 @@ LINE、NFTを本格展開──吉本興業やスクエニなどと100種類以�
         <summary type="html"><![CDATA[英国の投資家を対象にした調査によれば、アクセスのしやすさや市場の成長への期待感から、仮想通貨といった新しい資産への関心が高まっている。]]></summary>
         <author>
             <name>Cointelegraph By Arijit Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astar Networkとdouble jumpが提携、IPを活⽤したNFTビジネス展開へ]]></title>
+        <id>https://coinpost.jp/?p=332781</id>
+        <link href="https://coinpost.jp/?p=332781"/>
+        <updated>2022-03-23T07:37:29.000Z</updated>
+        <summary type="html"><![CDATA[⽇本発パブリックブロックチェーンAstar Networkは23日、ブロックチェーンゲームなど手掛けるdouble jump.tokyo株式会社との提携を発表した。今後は協業して、IPを活用したNFT分野のエコシステムの拡大行っていく予定だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
         </author>
     </entry>
     <entry>
@@ -89,6 +149,16 @@ LINE、NFTを本格展開──吉本興業やスクエニなどと100種類以�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[仮想通貨取引所FTX、インディーゲーム「Storybook Brawl」開発会社を買収]]></title>
+        <id>https://coinpost.jp/?p=332880</id>
+        <link href="https://coinpost.jp/?p=332880"/>
+        <updated>2022-03-23T06:23:48.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTXは22日、デジタルカードゲーム「Storybook Brawl」の開発元である「Good Luck Games」の買収を発表した。FTXのゲーム部門FTX Gamingに統合されることになる。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FRBのタカ派姿勢、ビットコインの下落圧力となるか]]></title>
         <id>https://www.coindeskjapan.com/?p=144279</id>
         <link href="https://www.coindeskjapan.com/144279/"/>
@@ -107,6 +177,16 @@ FRBのタカ派姿勢、ビットコインの下落圧力となるか first appe
         <summary type="html"><![CDATA[2022年の暗号資産は3か月を経過した時点で、保ち合い推移が続く展開となっている。暗号資産時価総額は年初から概ね1.5～2.0兆ドルでの保ち合い推移、BTC/USDも概ね35,000～45,000ドルでの保ち合い相場が継続していることがわかる。]]></summary>
         <author>
             <name>Cointelegraph By  Cointelegraph Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bitFlyer、24日よりシンボル（XYM）上場へ]]></title>
+        <id>https://coinpost.jp/?p=332949</id>
+        <link href="https://coinpost.jp/?p=332949"/>
+        <updated>2022-03-23T05:54:54.000Z</updated>
+        <summary type="html"><![CDATA[国内大手仮想通貨取引所を運営する株式会社bitFlyerは、3月24日より「シンボル（XYM）」の付与、及びアルトコイン販売所におけるXYMの取り扱い開始予定を発表した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -140,6 +220,16 @@ FRBのタカ派姿勢、ビットコインの下落圧力となるか first appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jelurida、スイスの「ブロックチェーン技術協会」との提携を発表]]></title>
+        <id>https://coinpost.jp/?p=332827</id>
+        <link href="https://coinpost.jp/?p=332827"/>
+        <updated>2022-03-23T05:00:40.000Z</updated>
+        <summary type="html"><![CDATA[ジェルリダ（Jelurida）が18日、スイスのティチーノ州を拠点とするシンクタンク「Ticino Blockchain Technologies Association（ティチーノ・ブロックチェーン技術協会）」とのパートナーシップ締結を発表。また、Play-to-Earnゲームの新ロードマップも公開された。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[おひとりさま・同性婚の相続をもっとかんたんに。オンライン相続支援サービス『サラス』正式版リリースのお知らせ]]></title>
         <id>fb4c4acd4fe6a4666d0e0cbe2f5bc677</id>
         <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36263df140f9363d06de9c60c2350d667"/>
@@ -160,6 +250,36 @@ FRBのタカ派姿勢、ビットコインの下落圧力となるか first appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ニューヨーク州議会、仮想通貨マイニング規制案の議論進む]]></title>
+        <id>https://coinpost.jp/?p=332884</id>
+        <link href="https://coinpost.jp/?p=332884"/>
+        <updated>2022-03-23T03:54:48.000Z</updated>
+        <summary type="html"><![CDATA[米ニューヨーク州の環境保全委員会は仮想通貨マイニングに関する規制案を可決。州議会の上院と下院でも審議が進む形となった一方で、採掘企業の新設に関する条項の一部は変更された。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com、FIFAワールドカップ2022の公式スポンサーへ]]></title>
+        <id>https://coinpost.jp/?p=332790</id>
+        <link href="https://coinpost.jp/?p=332790"/>
+        <updated>2022-03-23T03:30:28.000Z</updated>
+        <summary type="html"><![CDATA[FIFAは、仮想通貨取引所などを運営するCrypto.comが、2022年カタールワールドカップの公式スポンサーを務めることを発表。パートナーシップの内容や関係者のコメントが公開されている。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OECD、仮想通貨の国際的な税務報告の枠組みを協議へ]]></title>
+        <id>https://coinpost.jp/?p=332749</id>
+        <link href="https://coinpost.jp/?p=332749"/>
+        <updated>2022-03-23T03:21:08.000Z</updated>
+        <summary type="html"><![CDATA[経済協力開発機構（OECD）はビットコインなど仮想通貨取引について、税務情報交換の枠組みを示す協議文書を発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【老舗画廊×NFT×メタバース】老舗画廊にてデジタルアートを取り入れた新たな試み]]></title>
         <id>5213f58f66f463e034d3be044b8ec726</id>
         <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9369dd68e5c60c2350d667"/>
@@ -167,6 +287,16 @@ FRBのタカ派姿勢、ビットコインの下落圧力となるか first appe
         <summary type="html"><![CDATA[株式会社META ART MANAGEMENTのプレスリリース（2022年3月23日 12時03分） 老舗画廊×NFT×メタバース 老舗画廊にてデジタルアートを取り入れた新たな試み]]></summary>
         <author>
             <name>株式会社META ART MANAGEMENT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worldcoin、a16zなどから約110億円を資金調達＝The Information]]></title>
+        <id>https://coinpost.jp/?p=332810</id>
+        <link href="https://coinpost.jp/?p=332810"/>
+        <updated>2022-03-23T02:59:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨プロジェクトWorldcoinは、a16zなどの投資家から新たに1億ドル（約110億円）を調達していると報じられた。同プロジェクトは全世界への仮想通貨の配布を計画している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -191,6 +321,16 @@ FRBのタカ派姿勢、ビットコインの下落圧力となるか first appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NFTスタジオYuga Labs、FTXやa16zから550億円超を資金調達]]></title>
+        <id>https://coinpost.jp/?p=332789</id>
+        <link href="https://coinpost.jp/?p=332789"/>
+        <updated>2022-03-23T02:12:07.000Z</updated>
+        <summary type="html"><![CDATA[NFTスタジオのYuga Labsは総額550億円以上の資金調達ラウンドの完了を発表。仮想通貨取引所FTXや大手VCa16z、ブロックチェーンゲームスタジオのAnimoca Brandsなどが出資に参加した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ビットコイン 強気と弱気の境目でこう着状態【仮想通貨相場】]]></title>
         <id>https://jp.cointelegraph.com/news/kraken-intelligence-report-2022-0323</id>
         <link href="https://jp.cointelegraph.com/news/kraken-intelligence-report-2022-0323"/>
@@ -198,6 +338,16 @@ FRBのタカ派姿勢、ビットコインの下落圧力となるか first appe
         <summary type="html"><![CDATA[今回の注目は、ビットコインのSOPR。強気相場への転換かどうかを見極める上で重要な1の水準でこう着状態が続いている。]]></summary>
         <author>
             <name>Cointelegraph By  Cointelegraph Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bored ApesのNFTスタートアップYuga Labs、約4836億円のモンスター評価額でシードラウンドを調達]]></title>
+        <id>476794</id>
+        <link href="https://jp.techcrunch.com/2022/03/23/2022-03-22-bored-apes-nft-startup-yuga-labs-raises-at-monster-4-billion-valuation/"/>
+        <updated>2022-03-23T01:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Bored Apes Yacht Clubを運営するこのマイアミのNFT企業は、これまで資金調達を行っていなかったが、以前からNFTブームの主要企業を支援しようとするVCからの注目を集めていた。 Read More]]></summary>
+        <author>
+            <name>Lucas Matney,katsuyukiyasui</name>
         </author>
     </entry>
     <entry>
@@ -234,6 +384,16 @@ Crypto.comが「2022 FIFAワールドカップ」公式スポンサーに first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[エルサルバドル、ビットコイン債券の発行を延期へ]]></title>
+        <id>https://coinpost.jp/?p=332744</id>
+        <link href="https://coinpost.jp/?p=332744"/>
+        <updated>2022-03-22T23:55:56.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルのAlejandro Zelaya財務大臣は、仮想通貨ビットコイン建の債券のリリースを延期すると発表。延期の理由や今後の予定が明らかになった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BIS、国際決済でのCBDC利用可能性を実証]]></title>
         <id>https://jp.cointelegraph.com/news/bis-joint-pilot-institutions-can-use-cbdcs-for-international-settlements</id>
         <link href="https://jp.cointelegraph.com/news/bis-joint-pilot-institutions-can-use-cbdcs-for-international-settlements"/>
@@ -241,6 +401,16 @@ Crypto.comが「2022 FIFAワールドカップ」公式スポンサーに first 
         <summary type="html"><![CDATA[国際決済銀行（BIS）イノベーションハブは、オーストラリア、マレーシア、シンガポール、南アフリカの中央銀行と共同で、国際決済のための中央銀行デジタル通貨（CBDC）プラットフォームの実験的なパイロットを完了した。]]></summary>
         <author>
             <name>Cointelegraph By Prashant Jha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米グレースケール、スマートコントラクト銘柄のファンドをローンチ]]></title>
+        <id>https://coinpost.jp/?p=332738</id>
+        <link href="https://coinpost.jp/?p=332738"/>
+        <updated>2022-03-22T23:25:07.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨運用企業グレースケールは、スマートコントラクトプラットフォームに特化したファンドをローンチ。エイダやソラナなど、イーサリアム以外のスマートコントラクト銘柄に分散投資する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -404,6 +574,16 @@ SEC、ビットコインETFの審査延期──ウィズダムツリーとワ�
         <summary type="html"><![CDATA[中国の大手ソーシャルメディア・プラットフォームやインターネット大手は、規制が明確でなく、政府の取り締まりを恐れているとして、ノンファンジブルトークン（NFT）プラットフォームのアカウントを制限または削除する方針を示した。]]></summary>
         <author>
             <name>Cointelegraph By Prashant Jha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜWeb3の富裕層は現金ではなく暗号通貨を寄付しているのか]]></title>
+        <id>476568</id>
+        <link href="https://jp.techcrunch.com/2022/03/22/2022-03-20-web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/"/>
+        <updated>2022-03-21T23:30:01.000Z</updated>
+        <summary type="html"><![CDATA[… Read More]]></summary>
+        <author>
+            <name>Anita Ramaswamy,Nariko Mizoguchi</name>
         </author>
     </entry>
     <entry>

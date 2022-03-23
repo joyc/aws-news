@@ -626,6 +626,280 @@
       "feedUrl": "https://media.cryptocurrency-association.org/?feed=rss2",
       "siteUrl": "https://media.cryptocurrency-association.org",
       "articles": []
+    },
+    {
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "feedUrl": "https://coinpost.jp/?feed=rss2",
+      "siteUrl": "https://coinpost.jp",
+      "articles": [
+        {
+          "id": "https://coinpost.jp/?p=275595",
+          "author": "幸田直子",
+          "description": "イーサリアムのスケーラビリティソリューションを提供するポリゴンは、9月9日、Polygon POS上で「Mina」プロトコルの実装に取り組むと発表した。",
+          "link": "https://coinpost.jp/?p=275595",
+          "publishedOn": "2022-03-23T09:36:46.000Z",
+          "wordCount": 398,
+          "title": "ポリゴン、Minaプロトコル統合でプライバシー強化と検証性向上を目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": ""
+          },
+          "imageUrl": "https://coinpost.jp/wp-content/themes/coinpost_t/images/og-image.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332999",
+          "author": "S.Inosita",
+          "description": "プロ野球チーム「北海道日本ハムファイターズ」で監督を務める新庄剛志氏は22日、自身のNFT（非代替性トークン）を販売することを発表した。最高額は1,000万円、収益の一部は、「BIGBOSS基金」で活用される予定だ。",
+          "link": "https://coinpost.jp/?p=332999",
+          "publishedOn": "2022-03-23T09:31:30.000Z",
+          "wordCount": 391,
+          "title": "日ハムの新庄監督、最高額1,000万円の限定NFTなど販売へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/baseball1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/baseball1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=333008",
+          "author": "AKIRA.H",
+          "description": "クリスティーヌ・ラガルド氏は、仮想通貨（暗号資産）が対ロシア経済制裁を迂回する手段として使用される可能性について触れ、仮想通貨取引所などのサービス・プロバイダーが「共犯者」であると指摘した。",
+          "link": "https://coinpost.jp/?p=333008",
+          "publishedOn": "2022-03-23T09:07:43.000Z",
+          "wordCount": 369,
+          "title": "欧州中央銀行ラガルド総裁、仮想通貨の制裁回避利用を警戒",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ecb-1-e1562553998784.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ecb-1-e1562553998784.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=333009",
+          "author": "Noah Sakamaki",
+          "description": "米フロリダ州の知事は分散化された仮想通貨による企業の納税対応に向けて調整していると発言。昨年12月に続き、ビットコインでの納税に意欲的な姿勢を示した。",
+          "link": "https://coinpost.jp/?p=333009",
+          "publishedOn": "2022-03-23T08:44:25.000Z",
+          "wordCount": 380,
+          "title": "米フロリダ州知事、ビットコインを使った納税対応に意欲",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/floridamiami032921.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/floridamiami032921.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332888",
+          "author": "S.Inosita",
+          "description": "メッセージアプリを提供するLINEは23日、NFTマーケットプレイス「LINE NFT」を4月13日から提供開始する。吉本興業ホールディングスなど17コンテンツと提携し、100種類以上のNFT販売を行う計画だ。",
+          "link": "https://coinpost.jp/?p=332888",
+          "publishedOn": "2022-03-23T07:58:59.000Z",
+          "wordCount": 403,
+          "title": "LINEのNFTマーケットプレイス、4月13日から提供へ　吉本興業など17コンテンツと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/shalkhfaldksa-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/shalkhfaldksa-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332781",
+          "author": "S.Inosita",
+          "description": "⽇本発パブリックブロックチェーンAstar Networkは23日、ブロックチェーンゲームなど手掛けるdouble jump.tokyo株式会社との提携を発表した。今後は協業して、IPを活用したNFT分野のエコシステムの拡大行っていく予定だ。",
+          "link": "https://coinpost.jp/?p=332781",
+          "publishedOn": "2022-03-23T07:37:29.000Z",
+          "wordCount": 401,
+          "title": "Astar Networkとdouble jumpが提携、IPを活⽤したNFTビジネス展開へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/Astar1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/Astar1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332880",
+          "author": "幸田直子",
+          "description": "仮想通貨取引所FTXは22日、デジタルカードゲーム「Storybook Brawl」の開発元である「Good Luck Games」の買収を発表した。FTXのゲーム部門FTX Gamingに統合されることになる。",
+          "link": "https://coinpost.jp/?p=332880",
+          "publishedOn": "2022-03-23T06:23:48.000Z",
+          "wordCount": 431,
+          "title": "仮想通貨取引所FTX、インディーゲーム「Storybook Brawl」開発会社を買収",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332949",
+          "author": "CoinPost編集部",
+          "description": "国内大手仮想通貨取引所を運営する株式会社bitFlyerは、3月24日より「シンボル（XYM）」の付与、及びアルトコイン販売所におけるXYMの取り扱い開始予定を発表した。",
+          "link": "https://coinpost.jp/?p=332949",
+          "publishedOn": "2022-03-23T05:54:54.000Z",
+          "wordCount": 368,
+          "title": "bitFlyer、24日よりシンボル（XYM）上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/bitFlyer_xym-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/bitFlyer_xym-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332827",
+          "author": "CoinPost編集部",
+          "description": "ジェルリダ（Jelurida）が18日、スイスのティチーノ州を拠点とするシンクタンク「Ticino Blockchain Technologies Association（ティチーノ・ブロックチェーン技術協会）」とのパートナーシップ締結を発表。また、Play-to-Earnゲームの新ロードマップも公開された。",
+          "link": "https://coinpost.jp/?p=332827",
+          "publishedOn": "2022-03-23T05:00:40.000Z",
+          "wordCount": 444,
+          "title": "Jelurida、スイスの「ブロックチェーン技術協会」との提携を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/jelurida_20210422_kk_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/jelurida_20210422_kk_1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332884",
+          "author": "Noah Sakamaki",
+          "description": "米ニューヨーク州の環境保全委員会は仮想通貨マイニングに関する規制案を可決。州議会の上院と下院でも審議が進む形となった一方で、採掘企業の新設に関する条項の一部は変更された。",
+          "link": "https://coinpost.jp/?p=332884",
+          "publishedOn": "2022-03-23T03:54:48.000Z",
+          "wordCount": 384,
+          "title": "ニューヨーク州議会、仮想通貨マイニング規制案の議論進む",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/mining-eye.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/mining-eye.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332790",
+          "author": "CoinPost編集部",
+          "description": "FIFAは、仮想通貨取引所などを運営するCrypto.comが、2022年カタールワールドカップの公式スポンサーを務めることを発表。パートナーシップの内容や関係者のコメントが公開されている。",
+          "link": "https://coinpost.jp/?p=332790",
+          "publishedOn": "2022-03-23T03:30:28.000Z",
+          "wordCount": 401,
+          "title": "Crypto.com、FIFAワールドカップ2022の公式スポンサーへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/FIFA-World-Cup.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/FIFA-World-Cup.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332749",
+          "author": "A.Yamada",
+          "description": "経済協力開発機構（OECD）はビットコインなど仮想通貨取引について、税務情報交換の枠組みを示す協議文書を発表した。",
+          "link": "https://coinpost.jp/?p=332749",
+          "publishedOn": "2022-03-23T03:21:08.000Z",
+          "wordCount": 372,
+          "title": "OECD、仮想通貨の国際的な税務報告の枠組みを協議へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/reworldregulation.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/reworldregulation.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332810",
+          "author": "AKIRA.H",
+          "description": "仮想通貨プロジェクトWorldcoinは、a16zなどの投資家から新たに1億ドル（約110億円）を調達していると報じられた。同プロジェクトは全世界への仮想通貨の配布を計画している。",
+          "link": "https://coinpost.jp/?p=332810",
+          "publishedOn": "2022-03-23T02:59:28.000Z",
+          "wordCount": 413,
+          "title": "Worldcoin、a16zなどから約110億円を資金調達＝The Information",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/fundingdata0506211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/fundingdata0506211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332789",
+          "author": "Noah Sakamaki",
+          "description": "NFTスタジオのYuga Labsは総額550億円以上の資金調達ラウンドの完了を発表。仮想通貨取引所FTXや大手VCa16z、ブロックチェーンゲームスタジオのAnimoca Brandsなどが出資に参加した。",
+          "link": "https://coinpost.jp/?p=332789",
+          "publishedOn": "2022-03-23T02:12:07.000Z",
+          "wordCount": 441,
+          "title": "NFTスタジオYuga Labs、FTXやa16zから550億円超を資金調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/bayc-ios-game-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/bayc-ios-game-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332744",
+          "author": "K.Kobayashi",
+          "description": "エルサルバドルのAlejandro Zelaya財務大臣は、仮想通貨ビットコイン建の債券のリリースを延期すると発表。延期の理由や今後の予定が明らかになった。",
+          "link": "https://coinpost.jp/?p=332744",
+          "publishedOn": "2022-03-22T23:55:56.000Z",
+          "wordCount": 375,
+          "title": "エルサルバドル、ビットコイン債券の発行を延期へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Elsalvadorbitcoin1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Elsalvadorbitcoin1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=332738",
+          "author": "K.Kobayashi",
+          "description": "米仮想通貨運用企業グレースケールは、スマートコントラクトプラットフォームに特化したファンドをローンチ。エイダやソラナなど、イーサリアム以外のスマートコントラクト銘柄に分散投資する。",
+          "link": "https://coinpost.jp/?p=332738",
+          "publishedOn": "2022-03-22T23:25:07.000Z",
+          "wordCount": 431,
+          "title": "米グレースケール、スマートコントラクト銘柄のファンドをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/grayscale_5.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/grayscale_5.jpg"
+        }
+      ]
+    },
+    {
+      "title": "ブロックチェーン – TechCrunch Japan",
+      "feedUrl": "https://jp.techcrunch.com/news/blockchain/feed/",
+      "siteUrl": "https://jp.techcrunch.com",
+      "articles": [
+        {
+          "id": "476794",
+          "author": "Lucas Matney,katsuyukiyasui",
+          "description": "Bored Apes Yacht Clubを運営するこのマイアミのNFT企業は、これまで資金調達を行っていなかったが、以前からNFTブームの主要企業を支援しようとするVCからの注目を集めていた。 Read More",
+          "link": "https://jp.techcrunch.com/2022/03/23/2022-03-22-bored-apes-nft-startup-yuga-labs-raises-at-monster-4-billion-valuation/",
+          "publishedOn": "2022-03-23T01:45:05.000Z",
+          "wordCount": 311,
+          "title": "Bored ApesのNFTスタートアップYuga Labs、約4836億円のモンスター評価額でシードラウンドを調達",
+          "imageUrl": "https://jp.techcrunch.com/wp-content/uploads/2022/03/nWay-BAYC-blockchain-game-1-e1647461653135.webp?w=1024"
+        },
+        {
+          "id": "476568",
+          "author": "Anita Ramaswamy,Nariko Mizoguchi",
+          "description": "… Read More",
+          "link": "https://jp.techcrunch.com/2022/03/22/2022-03-20-web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/",
+          "publishedOn": "2022-03-21T23:30:01.000Z",
+          "wordCount": 334,
+          "title": "なぜWeb3の富裕層は現金ではなく暗号通貨を寄付しているのか",
+          "imageUrl": "https://jp.techcrunch.com/wp-content/uploads/2022/03/crypto.webp?w=1024"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"
