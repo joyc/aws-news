@@ -1333,6 +1333,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/flash/72821",
+          "author": null,
+          "description": "律动 BlockBeats 消息，3 月 23 日，FTX 宣布收购卡牌游戏《Storybook Brawl》开发商 Good Luck Games，具体收购金额暂未透露。本次收购为 FTX 首次涉足游戏开发，旨在与 Good Luck Games 团队合作，推动 NFT 和区块链技术在游戏领域内的应用，开发出受玩家欢迎的区块链游戏和模式。\n\nGood Luck Games 是卡牌游戏《Storybook Brawl》的开发商，该游戏玩法类似《炉石传说》，玩家可组建自己的卡组与对手进行回合制卡牌对战，目前《Storybook Brawl》在 Steam 平台的总体评价为「特别好评」。",
+          "link": "https://www.theblockbeats.info/flash/72821",
+          "publishedOn": "2022-03-22T17:29:16.000Z",
+          "wordCount": null,
+          "title": "FTX收购卡牌游戏《Storybook Brawl》开发商Good Luck Games",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/flash/72824",
+          "author": null,
+          "description": "律动 BlockBeats 消息，3 月 23 日，Alameda 联席 CEO Sam Trabucco 在社交媒体发文表示，Alameda Research 参与了 3 月 18 日跨链桥项目 Stargate 的公开发行并购买了所有份额（1 亿枚，占总供应量 10%）的 STG。跨链资产管理开辟了一系列可能的 DeFi 用例，使 Alameda 等公司的资本分配更加无缝，并有助于提高加密市场的效率。Alameda 喜欢这个团队和他们正在做的事情，并相信他们正在构建的东西和技术非常重要。\n\n此外，Sam Trabucco 表示 Alameda 在 3 年内不会出售 STG，将对该项目和团队进行长期投资，同时不会干预项目的治理，将放弃其 aSTG 的投票权，以便投票权在早期社区成员之间更加平等地分配。\n\n律动此前报道，由跨链互操作协议开发团队 LayerZero Labs（SushiSwap 联合创始人 0xMaki 参与）开发的跨链桥项目 Stargate 宣布将于美国东部时间 3 月 17 日 12 时（北京时间 3 月 18 日 0 时）启动公开发行，本次公开发行将采取拍卖模式，共发行 1 亿枚 STG（占总供应量 10%），最高价格为 0.25 美元，参与所得 Token 将锁仓 12 个月后在 6 个月内线性解锁。",
+          "link": "https://www.theblockbeats.info/flash/72824",
+          "publishedOn": "2022-03-22T17:29:16.000Z",
+          "wordCount": null,
+          "title": "Alameda联席CEO：购买了Stargate公开发行的所有STG，3年内不会出售",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/flash/72818",
+          "author": null,
+          "description": "律动 BlockBeats 消息，3 月 23 日，NFT 聚合交易平台 Gem 宣布推出安全模式，该模式使用 mixtX Flashbots API，旨在保护用户在批量扫货时遭遇三明治攻击，或避免发生因单独 NFT 交易失败导致批量扫货失败并浪费 gas 费的情况。",
+          "link": "https://www.theblockbeats.info/flash/72818",
+          "publishedOn": "2022-03-22T16:29:16.000Z",
+          "wordCount": null,
+          "title": "NFT聚合交易平台Gem推出安全模式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/flash/72815",
           "author": null,
           "description": "律动 BlockBeats 消息，3 月 22 日，据 The Block 报道，纽约州议会环境保护委员会将于本周二开会讨论一项提议暂停 PoW 挖矿的法案。据悉，该法案若实施，纽约州内将咱 2 年时间内禁止加密矿企在纽约州内进行 PoW 挖矿，纽约州议会环境保护委员会认为 PoW 挖矿「将大大增加纽约州的能源使用量，并违反《气候领导和社区保护法》的相关规定。该法案于去年 5 月首次提出，但其早期版本于去年 6 月在议会中被否决。",
@@ -1871,56 +1901,6 @@
           "wordCount": null,
           "title": "Stablecoin协议Angle Protocol上线Router合约，以降低用户gas费用",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/flash/72302",
-          "author": null,
-          "description": "律动 BlockBeats 消息，3 月 18 日，据彭博社报道，加密交易平台 MaiCoin 正在进行 C 轮融资，其估值可能在 4 亿美元左右，并考虑两年内在美国纳斯达克证券交易所上市。MaiCoin 将利用所得资金向东南亚地区扩张。",
-          "link": "https://www.theblockbeats.info/flash/72302",
-          "publishedOn": "2022-03-18T12:16:10.000Z",
-          "wordCount": null,
-          "title": "加密交易平台MaiCoin正寻求以4亿美元估值进行C轮融资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/flash/72299",
-          "author": null,
-          "description": "律动 BlockBeats 消息，3 月 18 日，Web3 游戏公司 Trailblazers Games 宣布完成 820 万美元融资，Makers Fund 领投，Play Ventures、Fabric Ventures参投，Aleksander Larsen、Chris Lee、Oliver Löffler、Santiago Santos、Itamar Lesuisse 和 Sagi Shorrer 等天使投资人也参与投资。\n\nTrailblazer 的团队采取布式和远程办公形式，该笔资金将用于区块链游戏 Eternal Dragons 的开发工作，包括扩展合作伙伴关系以及扩大团队。",
-          "link": "https://www.theblockbeats.info/flash/72299",
-          "publishedOn": "2022-03-18T12:16:10.000Z",
-          "wordCount": null,
-          "title": "Web3游戏公司Trailblazers Games完成820万美元融资，Makers Fund领投",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/flash/72293",
-          "author": null,
-          "description": "律动 BlockBeats 消息，３月 18 日，Vitalik Buterin 登上《时代》杂志封面。在《时代》的专访中，他表示「我在 2022 年做出的决定之一是尝试更加冒险，减少中立，我宁愿以太坊冒犯一些人，也不愿它变成毫无意义的东西」。文章中还系统地介绍了 Vitalik Buterin 的经历与以太坊的发展历史，并大篇幅探讨了他对以太坊超越技术意义的社会价值的展望。",
-          "link": "https://www.theblockbeats.info/flash/72293",
-          "publishedOn": "2022-03-18T11:16:10.000Z",
-          "wordCount": null,
-          "title": "V神登上《时代》杂志封面",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/flash/72275",
-          "author": null,
-          "description": "律动 BlockBeats 消息，3 月 18 日，据 L2Beat 数据显示，以太坊二层扩容方案 zkSync 总锁仓量已超 1.32 亿美元，创历史新高，7 日涨幅达 62.78%。",
-          "link": "https://www.theblockbeats.info/flash/72275",
-          "publishedOn": "2022-03-18T06:55:01.000Z",
-          "wordCount": null,
-          "title": "以太坊二层扩容方案zkSync锁仓量超1.32亿美元，创历史新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/flash/72272",
-          "author": null,
-          "description": "律动 BlockBeats 消息，3 月 18 日，Web3 MMORPG 游戏 Ultiverse 完成种子轮融资，本轮融资由 Binance Labs 和 Defiance Capital 共同领投，三箭资本和 SkyVision Capital 参投，具体融资金额暂未透露。\n\nUltiverse 是 BNB Chain 上 MMORPG 游戏，旨在成为 Web3 领域首款 AAA 游戏，其 P2E 系统鼓励玩家从社区建设中受益。",
-          "link": "https://www.theblockbeats.info/flash/72272",
-          "publishedOn": "2022-03-18T06:47:01.000Z",
-          "wordCount": null,
-          "title": "Web3 MMORPG游戏Ultiverse完成种子轮融资，Binance Labs等领投",
-          "imageUrl": null
         }
       ]
     },
@@ -2108,46 +2088,6 @@
           "wordCount": null,
           "title": "Multicoin Capital投资的公链Aptos究竟是何方神圣？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29852",
-          "author": null,
-          "description": "原文标题：《DAOs: a Paradigm Shift》\n原文作者：Jan Baeriswyl，Outlier Ventures\n原文编译：比得潘，律动 BlockBeats\n\n\n比特币网络作为第一个 DAO（去中心化自治组织）可以看作是与荷兰东印度公司一样的重大发明，它将不断升级我们的组织架构以适应当下的数字时代，会极大地改变我们的经济格局。\n\n\n我们正处于从分层式命令、控制结构到异构、自组织网络的范式转变的开端。\n\n\n在本文中，我们将具体阐述为什么 DAO 可以被描述为我们组织方式的范式转变，DAO 在结构层面上有哪些不同之处，它们的网络结构是如何有助于扩展人类组织和集体智慧的。同时，文章还总结了当下几种活跃 DAO 的用例，以及将如何实现与这些大胆主张相符的工作的未来。\n\n\nDAO 的简短定义\n\n\n关于 DAO 的定义已经写得够多了，这篇文章假设了一个工作定义，大致如下： \n\n\n— Vitalik 将 DAO 描述为「一个资本化的组织，其中软件协议为其操作提供信息，将自动化置于其中心，将人类置于其边缘」。 \n— Coopahtroopa 在最近的 DAO 的前景一文中，将 DAO 则定义为「具有共享上限和银行账户的互联网社区」。\n\n\n这两种描述都指出了 DAO 与传统组织（例如公司）之间的结构差异：不是人类层次结构，而是由流动社区包围的自动化软件协议。在阐述这种不同的结构是如何实现规模上的飞跃之前，我们将从这种结构差异开始来谈。\n\n\n网络结构取代金字塔结构\n\n\nDAO 是一种真正的范式转变，因为新兴的创新触及了人类组织的基本组成部分。从等级式命令、控制结构（目前基本上从国家到公司的所有现代组织都不同程度的采用了这种结构），到异构的、自组织的网络。\n\n\n这种范式转变可以从两个基本轴方向来概述：结构轴和数量轴。\n\n\n在结构层面，网络结构将取代金字塔结构成为人类组织的主导…",
-          "link": "https://www.theblockbeats.info/news/29852",
-          "publishedOn": "2022-03-18T10:09:35.000Z",
-          "wordCount": null,
-          "title": "DAO：一种组织结构的范式转变",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29851",
-          "author": null,
-          "description": "原文来源：OKX\n\n\n2022 年 2 月 15 日消息，万事达卡计划招聘 500 名加密专家，旨在为银行提供加密领域相关的策略制定、风险管理等咨询服务。据悉，该部门当前已有 2000 余名数据科学等领域的专业人士，扩张比例约为 20%。万事达卡此次大张旗鼓的招聘举动，不仅展现了自身顺应数字时代发展趋势，积极进军加密领域的战略布局，也说明了伴随着区块链行业底层设施的不断完善，以及网络生态的持续发展，加密行业正在加速接近主流，并成为众多发展受阻亟需打开瓶颈的传统企业和机构纷纷抢滩的重要赛道。\n\n\n除了万事达卡之外，微软、谷歌、高盛，摩根大通，迪士尼，亚马逊等各领域头部公司，也纷纷开始开启了相关领域的人才建设工作，并以人才为驱动，快速构建属于自己的加密业务。而欧易等加密领域的原生头部企业，更是在现有人才培养体系不断完善的基础上，将目光聚焦于被称为人才摇篮的各大名校，以科普、赞助等形式，助力加密行业的获得更多曝光及关注，也吸引更多富有才华和想象的年轻人进入加密行业，推动行业的持续发展。\n\n\n2021 加密行业蓬勃发展，行情向左发展向右\n\n\n2021 年是加密行业多点开花，突飞猛进的一年：\n\n\n基础设施方面：沉淀多年且创新氛围更加浓郁的公链龙头以太坊开启 2.0 征程，其 POS 机制（权益证明）和分片链（Shard Chains）技术将大幅提升网络的整体性能，为链上生态的持续发展提供更有力的保障。届时，项目方和用户会体验到更优质的开发环境和交易体验。而且，受益于以太坊因性能限制导致的资源溢出，大量公链开始在资金及项目迁移的过程中获得了发展契机。Solana、Avalanche、BSC、OEC 等公链相继崛起，Flow 等细分领域的应用链也获得了大量的关注。可以说，多链并行共同发展的格局已经显现。基础设施的多元化发展，也为链上应用的创新提供了更多可能性。\n\n\n主流接纳度方面：去年之…",
-          "link": "https://www.theblockbeats.info/news/29851",
-          "publishedOn": "2022-03-18T10:09:35.000Z",
-          "wordCount": null,
-          "title": "左手科普布道右手人才培养，欧易OKX携手高校助力行业边界拓展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29849",
-          "author": null,
-          "description": "原文标题：《成为链上数据分析师之路——读懂以太坊交易》\n原文作者：Mabrary\n\n\n\n链上数据分析的流程可以从数据出发来解读行为，再到意图直至交易心理。其中，行为可以是交易者的行为，可以是合约的行为，也可以是市场的行为。对交易者意图的判断和长期的观察可以得出其交易心理，从合约行为可以更精准地了解合约创建者（项目方）的意图，代码不说谎。最后，对某些特定行为和意图的分析可以得出市场整体的心理状态和心理预期。\n\n\n而链上数据的核心就是交易数据，那么本文我们就从交易数据开始解读，从浅入深，按照从整体到细节的顺序，以以太坊的工作原理为基线理解浏览器中的交易数据。\n\n\n我们把交易数据中需要了解的概念按照从浅到深的顺序分为三级，大家可以根据自己的基础有选择地阅读：\n\n\n一级关键词：普通交易｜合约交易\n\n\n二级关键词：外部账户｜内部账户｜内部交易\n\n\n三级关键词：Transfer｜Transaction｜事件｜日志\n\n\n一、以太坊交易类型\n\n\n首先，以太坊中的交易可以大致分为两种：外部地址交易 (图 1)&合约交易 (图 2)。\n\n\n\n\n  图 1：外部账户地址交易概览页  \n\n\n普通地址交易是指仅涉及以太坊原生Token (native token)Ether 的转移，不涉及合约的调用以及以太坊中其它 \n\nToken\n\n 的交易。普通交易中的数据可以大概分为四大块：交易哈希、时间等归于交易索引 (index)，提供定位交易的信息。交易金额具体是指 Ether 转移的数量，交易的发送方 (sender) 和接收方 (receiver) 互为本次交易中的交易对手。Gas 费的消耗是本次交易发送方需要承担的交易成本。\n\n\n\n\n  图 2：0x513d 和 Metamask Router 合约交易概览页  \n\n\n我们看到，涉及智能合约的浏览器交易概览页会多出三块内容：\n\n\n(1) 以太坊执行交…",
-          "link": "https://www.theblockbeats.info/news/29849",
-          "publishedOn": "2022-03-18T07:12:43.000Z",
-          "wordCount": null,
-          "title": "如何通过链上数据，看懂以太坊交易信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29846",
-          "author": null,
-          "description": "撰文：0x76@BlockBeats\n\n\n以太坊自推出开始，便清晰的绘制了未来开发的路线图。在最初的设想中，以太坊将一共需要经历四个主要开发阶段，他们分别是：边境（Frontier）、家园（Homestead）、都会（Metropolis）以及宁静（Serenity）。\n\n\n截止目前，前三阶段的升级目标已经于 2020 年前基本完成。以太坊近两年的主要开发工作已经集中到完成最后一个阶段的升级任务中。而在最初的设想中，宁静（Serenity）阶段升级的主要目标，是将以太坊从目前的 PoW 工作量证明机制切换到更加节能的 PoS 机制。\n\n\n名称频繁修改，升级一拖再拖\n\n\n随着以太坊推出后链上生态的逐步发展，许多之前没有预料到的新问题被不断发现。因此，早年间提出的升级计划也被不断修改和完善。\n\n\n2017 年，以太坊 2.0 的概念被开发团队提出。新的以太坊 2.0 升级计划基本包含了之前宁静（Serenity）升级的主要内容，并针对已经出现的扩展性难题，提出了分片的全新解决思路。在当年，整个 2.0 升级方案计划在 2020 年最终完成。\n\n\n在以太坊 2.0 升级计划中，整个升级将分为 3 个独立的阶段，他们是：\n\n\nPhase 0 阶段：完成 PoW 向 PoS 的转换；\n\nPhase 1 阶段：增加分片；\n\nPhase 2 阶段：升级虚拟机和执行环境；\n\n\n当然我们已经看到，截止到今天也就是 2022 年，曾经以太坊 2.0 升级计划中的 Phase 0 阶段依然没有完全落地。\n\n\n不过在升级计划不断跳票的这几年中，区块链底层技术也在不断发展完善。尤其随着 Rollup 扩容技术的异军突起，以太坊基金会又对升级目标进行了修改，以便更好的结合 Rollup 技术完成以太坊的扩容。\n\n\n最终在今年年初，以太坊基金会对整个以太坊 2.0 升级计划以及名称进行了重新修订。在最新…",
-          "link": "https://www.theblockbeats.info/news/29846",
-          "publishedOn": "2022-03-18T07:00:43.000Z",
-          "wordCount": null,
-          "title": "以太坊Merge发生前，还有哪些必须完成的工作？",
-          "imageUrl": null
         }
       ]
     },
@@ -2156,6 +2096,16 @@
       "feedUrl": "https://rsshub.app/odaily",
       "siteUrl": "https://www.0daily.com",
       "articles": [
+        {
+          "id": "https://www.0daily.com/post/5177345",
+          "author": "十文",
+          "description": "头条\n\n桥水基金计划首次投资加密基金\n两名知情人士表示，桥水基金计划支持一家外部加密投资工具，目前无意直接投资加密资产。与总资产管理规模相比，桥水的投资规模微不足道，其他著名的加密货币投资者正在就投资该基金进行谈判。（CoinDesk）\n美国SEC推迟决定是否批准WisdomTree和One River现货比特币ETF\n美国证券交易委员会SEC周一推迟了是否允许WisdomTree和One River的现货比特币ETF上市和交易的决定。SEC将是否批准上市和交易WisdomTree的比特币信托的决定推迟至5月15日，将是否批准上市和交易One River的碳中和比特币信托的决定推迟至6月2日。（Finance Magnates）\n三箭资本今日增持7501.83枚ETH，价值2243.7万美金\n星球日报讯 据KingData数据监控，被KingData大户地址追踪标记为三箭资本的地址（0x4862733B5FdDFd35f35ea8CCf08F5045e57388B3）在6小时前持续增持7501.83枚ETH，价值2243.7万美金。\n\n美国纽约州立法者将在周二讨论一项提议暂停PoW挖矿的法案\n星球日报讯 美国纽约州议员将于周二讨论一项法案，该法案提议暂停工作证明（PoW）加密挖矿两年。\n纽约州议会环境保护委员会（Environmental Conservation Committee）将就该法案的修订版本举行会议。该法案于去年5月首次提出。去年6月，该法案的早期版本在议会中被否决。随着立法者努力推动该法案，哥伦比亚大学的一项新研究认为，纽约州州长有权实施暂停。（The Block）\n\n加密货币\n\nETC预计将于4月30日减产20%\n据Viawallet最新数据显示，ETC预计将于39天后的4月30日进行减产，届时其区块奖励将由3.2 ETC降低至2.56 ETC，减产幅度为…",
+          "link": "https://www.0daily.com/post/5177345",
+          "publishedOn": "2022-03-22T23:39:51.000Z",
+          "wordCount": 3,
+          "title": "星球日报 | 桥水基金计划首次投资加密基金；三箭资本新增持7501.83枚ETH（3月23日）",
+          "imageUrl": null
+        },
         {
           "id": "https://www.0daily.com/post/5177341",
           "author": "链捕手",
@@ -2594,156 +2544,6 @@
           "publishedOn": "2022-03-18T13:00:00.000Z",
           "wordCount": 3,
           "title": "千万美金赌局背后：Luna到底是不是庞氏骗局？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177237",
-          "author": "D-Tiger Research",
-          "description": "ConsenSys首席执行官Joe Lubin在接受采访时表示，MetaMask很快将推出去中心化自治组织（DAO），新的DAO不参与管理MetaMask，只为MetaMask的更新提供资金，还计划发行Token。\nD-Tiger将带你从各个维度分析MetaMask，为什么“小狐狸”是加密圈内不可或缺的工具，甚至在一定程度上代表了链上的身份。\n基本信息\n\nMetaMask是一个使用互联网浏览器就能访问，且以低门槛与以太坊网络进行交互的工具钱包。随着DEFI、NFT、Layer2等热门板块的崛起，钱包交互的频率增加，作为最早的交互工具Metamask开始被广泛运用。根据公开数据，截止目前，MetaMask的月活跃用户已达到3000万。\n\n以太坊全网活跃地址在历史巅峰在 800 万左右，而Meta钱包的月活跃数量远远超出于此，由此表明MetaMask钱包现在已经成为了大量加密的首选。在庞大的以太坊生态里，任何一个应用都会支持MetaMask，使用MetaMask已经成为一件非常日常的事情，区块链中钱包已经开始成为一种身份象征，钱包地址即是个人身份。\n据 Dune Analytics 数据显示，MetaMask Swap 2021年收入已超过 2.5 亿美元，可能是2021年最优秀的加密产品之一。相比之下，Sushiswap 和 Curve 今年收入分别为 7000 万美元和 1200 万美元，这两个 DEX 的收入之和还不到 MetaMask 总收入的一半。\n截止到2022-03-17，Metamask 钱包总交易量达203亿美元，且2022年，每月交易费收入约为1000万美元。\n\n背景\nMetamask最初的愿景并不是作为钱包插件之类的消费者项目，而是希望成为一种开发工具。\n根据 ConsenSys 首席执行官 Joe Lubin 的说法，MetaMask 正在追求“渐进式去…",
-          "link": "https://www.0daily.com/post/5177237",
-          "publishedOn": "2022-03-18T12:30:00.000Z",
-          "wordCount": 3,
-          "title": "不可或缺的MetaMask与Web3.0加密新世界",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177246",
-          "author": "区块律动BlockBeats",
-          "description": "原文标题：《DAOs: a Paradigm Shift》\n原文作者：Jan Baeriswyl，Outlier Ventures\n原文编译：比得潘，律动 BlockBeats\n比特币网络作为第一个 DAO（去中心化自治组织）可以看作是与荷兰东印度公司一样的重大发明，它将不断升级我们的组织架构以适应当下的数字时代，会极大地改变我们的经济格局。\n我们正处于从分层式命令、控制结构到异构、自组织网络的范式转变的开端。\n在本文中，我们将具体阐述为什么 DAO 可以被描述为我们组织方式的范式转变，DAO 在结构层面上有哪些不同之处，它们的网络结构是如何有助于扩展人类组织和集体智慧的。同时，文章还总结了当下几种活跃 DAO 的用例，以及将如何实现与这些大胆主张相符的工作的未来。\nDAO 的简短定义\n关于 DAO 的定义已经写得够多了，这篇文章假设了一个工作定义，大致如下：\n— Vitalik 将 DAO 描述为「一个资本化的组织，其中软件协议为其操作提供信息，将自动化置于其中心，将人类置于其边缘」。— Coopahtroopa 在最近的DAO 的前景一文中，将 DAO 则定义为「具有共享上限和银行账户的互联网社区」。\n这两种描述都指出了 DAO 与传统组织（例如公司）之间的结构差异：不是人类层次结构，而是由流动社区包围的自动化软件协议。在阐述这种不同的结构是如何实现规模上的飞跃之前，我们将从这种结构差异开始来谈。\n网络结构取代金字塔结构\nDAO 是一种真正的范式转变，因为新兴的创新触及了人类组织的基本组成部分。从等级式命令、控制结构（目前基本上从国家到公司的所有现代组织都不同程度的采用了这种结构），到异构的、自组织的网络。\n这种范式转变可以从两个基本轴方向来概述：结构轴和数量轴。\n在结构层面，网络结构将取代金字塔结构成为人类组织的主导形式。在数量级别上，DAO 可以有效扩展人类的协作，…",
-          "link": "https://www.0daily.com/post/5177246",
-          "publishedOn": "2022-03-18T12:00:00.000Z",
-          "wordCount": 3,
-          "title": "详解DAO的三种主要用例：如何实现组织结构的范式转变",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177245",
-          "author": "区块律动BlockBeats",
-          "description": "作者：0x76@BlockBeats\n以太坊自推出开始，便清晰的绘制了未来开发的路线图。在最初的设想中，以太坊将一共需要经历四个主要开发阶段，他们分别是：边境（Frontier）、家园（Homestead）、都会（Metropolis）以及宁静（Serenity）。\n截止目前，前三阶段的升级目标已经于 2020 年前基本完成。以太坊近两年的主要开发工作已经集中到完成最后一个阶段的升级任务中。而在最初的设想中，宁静（Serenity）阶段升级的主要目标，是将以太坊从目前的 PoW 工作量证明机制切换到更加节能的 PoS 机制。\n名称频繁修改，升级一拖再拖\n随着以太坊推出后链上生态的逐步发展，许多之前没有预料到的新问题被不断发现。因此，早年间提出的升级计划也被不断修改和完善。\n2017 年，以太坊 2.0 的概念被开发团队提出。新的以太坊 2.0 升级计划基本包含了之前宁静（Serenity）升级的主要内容，并针对已经出现的扩展性难题，提出了分片的全新解决思路。在当年，整个 2.0 升级方案计划在 2020 年最终完成。\n在以太坊 2.0 升级计划中，整个升级将分为 3 个独立的阶段，他们是：\nPhase 0 阶段：完成 PoW 向 PoS 的转换；\nPhase 1 阶段：增加分片；\nPhase 2 阶段：升级虚拟机和执行环境；\n当然我们已经看到，截止到今天也就是 2022 年，曾经以太坊 2.0 升级计划中的 Phase 0 阶段依然没有完全落地。\n不过在升级计划不断跳票的这几年中，区块链底层技术也在不断发展完善。尤其随着 Rollup 扩容技术的异军突起，以太坊基金会又对升级目标进行了修改，以便更好的结合 Rollup 技术完成以太坊的扩容。\n最终在今年年初，以太坊基金会对整个以太坊 2.0 升级计划以及名称进行了重新修订。在最新的路线图中，曾经的以太坊 2.0 概念被弃用…",
-          "link": "https://www.0daily.com/post/5177245",
-          "publishedOn": "2022-03-18T11:30:00.000Z",
-          "wordCount": 3,
-          "title": "The Merge升级成功后，对以太坊生态会产生哪些影响？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177216",
-          "author": "Chainlink",
-          "description": "Chainlink 2022春季黑客松现已正式开放报名！ \n此次Chainlink黑客松将于4月22日开始，旨在为整个生态系统的构建者提供所需资源，加速Web3创新，增加去中心化应用程序的采用。\n无论是刚刚在Web3中迈出第一步的新手，还是已经构建过DeFi和NFT协议的富有经验的开发者，Chainlink黑客松为所有开发者提供了一个开放的环境，那些对去中心化技术充满热情的人可以在其中学习、协作和竞争。 \n本次黑客松活动免费向所有Web3开发者开放——只需点击此处注册。\n为什么要参与Chainlink黑客松？\nWeb3开发正变得越来越复杂。驾驭不同的区块链和layer-2解决方案，跟上不断扩展的专业术语和日新月异的行业发展，对智能合约开发者来说，都是一种挑战，无论他们经验有多丰富。\nChainlink 2022春季黑客松旨在帮助开发者简化学习过程。Web3开发者通过参加黑客松活动，可以学习帮助他们在任何区块链或L2上构建应用的基本技能——为在多链生态系统中取得成功做好准备。\n黑客松详情\nChainlink 2022春季黑客松主要有两个目标： \n\n为新手或经验不足的Web3开发者提供一个低风险的环境，让他们建立自己的第一个dApp\n\n为希望启动和扩展其Web3项目的经验丰富的开发者提供高质量的黑客松体验\n\n启动您的智能合约学习之旅\n通过注册Chainlink 2022春季黑客松，Web3新手可以在学习过程中获得世界级的支持。 \n具体来说，黑客松为所有参与者提供以下免费资源：\n\n世界一流的教育资源\n\n优质的学习资料 \n\n现场研讨会与实践指导\n\n参与技术布道者的Q&A问答\n\n与志同道合的朋友组成广阔的社交圈\n\n如果您是一名开发者，希望扩展您的技术技能，并想要获得建立一个面向多链世界的全功能Web3应用的经验，那么此次黑客松，就是一条加速这个进程的快车道。\n引导和扩展您的Web3项目\nChainlink 2022春季黑客松还为关注奖品的开发老手提供了传统的黑客松赛事体验。\n目前奖金超过30万美元，并且还在不断增长，提供奖项的领域包括：\n\nNFT和游戏\n\nDeFi\n\nDAO\n\n社会影响力\n\n科技界的女性 \n\nChainlink服务 \n\n在所有参赛项目中，将选出一个最杰出的项目获得黑客松大奖，另外还会有40个高质量项目奖金名额。\n对于展示杰出人才和创新的杰出项目，Chainlink 2022春季黑客松将提供VC推介日机会——项目团队将有机会与行业领先的VC会面。更多关于奖品和VC推介日的信息可以点此了解。\n无论开发者选择构建哪种类型的项目，Chainlink 2022春季黑客松都能帮助卓越的团队迈向成长的下一个阶段，更快速地获得成功。 \n加入成千上万的创作者、艺术家和开发者行列\nChainlink 2022春季黑客松将成为迄今为止最大规模的Chainlink黑客松，汇集数千名创作者、艺术家、开发人员和导师，以构建推动行业向前发展的去中心化应用。 \n如果您是一名智能合约开发者，本次黑客松就是您开始构建下一代Web3应用最好的起点。\n关于 Chainlink\nChainlink为预言机服务的开发、访问和销售建立了行业标准，可服务于任何区块链上的混合型智能合约。Chainlink预言机网络可以将智能合约可靠地连接至任何外部API，并安全地展开链下计算，为应用实现丰富的功能。Chainlink目前为DeFi、保险和游戏等各大行业保障了数百万亿美元资产，并为全球企业和领先的数据提供商提供通用的门户，一站式接入所有区块链。 \n想要了解关于Chainlink预言机的更多内容，请访问chain.link，或访问docs.chain.link阅读Chainlink文档。想要讨论集成相关事宜，请联系Chainlink专家。",
-          "link": "https://www.0daily.com/post/5177216",
-          "publishedOn": "2022-03-18T11:25:32.000Z",
-          "wordCount": 3,
-          "title": "Chainlink 2022春季黑客松开始报名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177184",
-          "author": "MantaNetwork",
-          "description": "Dolphin 测试网是 Manta Network 和先行网 Calamari Network 的测试网，为了保证新产品可以安全上线 Manta 和 Calamari 主网，这些产品和功能将首先在测试网上得到验证。\n通过 Dolphin 测试网, 用户可以体验不同平行链资产间的隐私转账。Dolphin 测试网上所有的隐私交易都通过零知识证明（zkSNARK） 进行加密保护。测试网数据可通过 Dolphin 测试网 区块浏览器进行查询( https://dolphin.subscan.io/)。\nDolphin 测试网进展\n2021年12月10日，Manta & Calamari Network 上线了隐私转账测试网「Dolphin」。自上线以来，Dolphin 测试网收到了来自社区的广泛关注和兴趣。在过去的3个月时间里，测试网钱包地址超过2,100个，转账数量超过 30,000笔。\n数据表现\n自 Dolphin 测试网上线以来，我们收到了423份问卷反馈, 用户对于测试网的给出了4.5分的评分（总分为5）。其中大部分用户表示隐私支付产品简洁，体验流畅。最主要的不足点在于 ZKP 生成的速度较慢，这一点我们将在即将发布的 V2版本中进行大幅改进。\n\n2021年12月10日\n\nDolphin 测试网上线，macOS 版本 ZKP signer 发布；\n\n2021年12月28日\n\nWindows 版本 ZKP signer 发布；\n\n2022年1月14日\n\nLinux (Ubuntu) 版本 ZKP signer 发布；\n\n2022年2月2日\n\nDolphin 测试网转账数量超过 10,000笔；\n\n2022年3月14日\n\nDolphin 测试网转账数量超过 30,000笔；\n\nV2 版本 Dolphin 测试网功能\n本月我们将发布V2版本 Dolphin 测试网；下个版本将引…",
-          "link": "https://www.0daily.com/post/5177184",
-          "publishedOn": "2022-03-18T10:55:22.000Z",
-          "wordCount": 3,
-          "title": "Dolphin测试网转账数量超30,000笔，V2版本即将发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177244",
-          "author": "星球君的朋友们",
-          "description": "2021年3月份一只像素风的小幽灵在AAVE的加持下横空出世。特工任务，传送门上线，质押挖矿，稀有度养殖......持续创新的NFT+DeFi项目Aavegotchi在一周年之际迎来了Gotchiverse的新篇章。本文将主要围绕三部分展开，带大家提前了解布局Gotchiverse。\n\n什么是Gotchiverse？\nGotchiverse是第一款可以在浏览器上运行的DeFi游戏，是专门为Aavegotchis打造的沉浸式GameFi体验游乐场，玩家可以在游戏中探索、建造、战斗、和朋友社交，同时还能通过游戏赚钱。\n“Gotchiverse是对区块链真正的全面拥抱。虽然一些元老级项目使用NFT作为辅助角色，但Gotchiverse完全融合了NFT以及加密货币的其他最佳部分，如DAO治理、智能合约定义的游戏，以及100%的链上制作体验。” Aavegotchi的创始人gldnxross表示道。\n作为Aavegotchis工作生活的地方，Gotchiverse拥有广阔的土地，包括三个不同的区域：Citaadel（城堡）、The Grid（网格）和 The Beyond（荒芜之地）。\nCitaadel（城堡）\nCitaadel（城堡）的安全系数最高，小鬼们可以自由地在里面玩耍，城堡能够受到阻止清算者入侵的保护，这里也就成为了Aavegotchis的大基地。\nThe Grid（网格）\n网格是Gotchiverse的另一个区域，包括了城堡以外的一切。网格中的地块（地块可以建造墙壁和塔楼）非常丰富，但网格不像城堡那样受到保护，应该多加小心，每个角落都潜伏着清算者。\n类似于城堡里的大门户，网格也有个关键地标——The Aarena “竞技场”，在竞技场内，一向peace and love的小鬼们，偶尔也会有攻击性。Aavegotchis相互战斗，拥有足够高精神值的 Aavegotchis …",
-          "link": "https://www.0daily.com/post/5177244",
-          "publishedOn": "2022-03-18T09:50:11.000Z",
-          "wordCount": 3,
-          "title": "Aavegotchi即将上线其元宇宙Gotchiverse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177242",
-          "author": "秦晓峰",
-          "description": "据官方消息，DeFi 借贷协议「Moonwell」近期完成 1000 万美元融资，估值为 9000 万美元；本轮融资由 Hypersphere Ventures 和 Arrington Capital 共同牵头，其他参投机构包括Lemniscap、C Squared、Mirana Ventures、Robot Ventures、Signum Capital、KeyChain Capital 以及 FMFW 等。\nMoonwell 是一个基于 Moonbeam 和 Moonriver 的开放式借贷 DeFi 协议，与 Aave、MakerDAO 和 Compound 等借贷产品类似，允许用户超额抵押并借出加密货币。\n目前以太坊网络可扩展性较差，一些 DeFi 协议通常选择新生态公链（Solana、Avalanche、Fantom等）进行构建，Moonwell 为何选择了 Moonbeam？\nMoonwell 官方解释称，Moonbeam 是 Polkadot 上第一个完全兼容以太坊虚拟机 (EVM) 的平行链，既具有 Polkadot 的可扩展性和互操作性，又兼具以太坊的易用性，对以太坊开发者社区更友好。并且，由于 Moonbeam 与 EVM 兼容，以太坊、Fantom 和其他 EVM 兼容链的用户将能够使用 MetaMask 等熟悉的工具与 Moonwell 进行交互。\n“Moonwell 可能会成为首个开放式贷款协议，不仅适用于 Moonbeam，也适用于所有平行链。这将有助于激发 Moonbeam 的愿景，使其成为 XC20 和 ERC20 资产的汇聚地。我们被该团队在 Moonbeam 生态系统中的信念，以及他们在 DeFi 上的整体经验和知识的深度所吸引。”Arrington Capital 合伙人 Ninos Mansor 表示。\n作为 Polkadot 生态的「传统」，项目通常会在先行网上部署，以测试新功能，Moonwell 也不例外。今年 2 月 10 日，Moonwell Apollo 上线 Moonriver（Moonbeam 先行网）；仅仅一个多月，该平台锁仓总价值已经达到 2.4 亿美元，目前支持 6 种资产借贷：MOVR、BTC、WETH、USDC、USDT、FRAX。\n根据官方规划，Moonwell Artemis 将于今年 4 月在 Moonbeam 上推出。\n代币方面，Moonwell 采取双币制，分别是：MFAM（Moonriver 网络）以及 WELL（Moonbeam 网络）。\nMFAM 是 Moonwell Apollo 的原生治理代币，可以在 Moonwell 安全模块中质押获得收益。当 Moonwell Artemis 启动时，将发行治理代币 WELL，并分发给项目投资者、Moonwell 用户和其他 Moonwell 社区成员；WELL 不会附带投票权，但持有者可以在协议中进行质押获得收益。\n团队方面，Moonwell 核心团队由几位前 Coinbase 和 Google 工程师组成。其中联合创始人 Luke Youngblood 是前 Coinbase 高级参谋工程师和 AWS 首席工程师，曾构建 Coinbase 价格预言机以及质押奖励基础设施，并参与构建 Tezos 验证节点基础设施，启动 Tezos 网络。另外，Moonwell 也与罗马区块链实验室(RBL) 展开合作，后者构建了 Avalanche 上借贷协议 Benqi。",
-          "link": "https://www.0daily.com/post/5177242",
-          "publishedOn": "2022-03-18T09:27:09.000Z",
-          "wordCount": 3,
-          "title": "融资1000万美元，借贷协议「Moonwell」已锁仓2.4 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177238",
-          "author": "ceinwen",
-          "description": "还记得去年年初“史诗级轧空”、“韭菜倒割华尔街对冲基金”、甚至被Netflix相中了影视改编权的GameStop事件吗？\n3月18日，美国游戏零售商GameStop在其第四季度的财报中表示，计划在7月底之前推出NFT市场。事实上，早在去年4月，GameStop就陆续开始招聘具有区块链工作经验的员工，以创建一个新的NFT部门，并寻求与加密货币合作伙伴共同推动该公司进入加密领域。\n对于GameStop来说，NFT与游戏之间的紧密联系，是其进军加密领域的天然优势。此次布局或是GameStop摆脱“Meme股”印象、结束数年亏损的转折点。\n\n\n从游戏市场的风向标到夕阳产业\nGameStop也被叫作“游戏驿站”，是美国最大的视频游戏零售商，在全世界范围内经营着5889家连锁商店。\\t除了家用机和电脑游戏，GameStop同时还售卖游戏杂志，游戏攻略以及与娱乐相关的DVD等。\nGameStop在当时占据着游戏零售行业的统治地位，并且只要有新游戏发布，GameStop的门口（无论多偏僻）都会排起长长的队伍。它的销售数据也被看作是判断一款游戏是否成功的晴雨表。\n但是，就是这样一家企业也难逃数字化带来的冲击。\n互联网以及电子商务的发展，让玩家开始习惯线上消费，实体卖家逐渐在行业变革中衰落。对于GameStop而言，在线下载是其面临的首要难题。体验过数字版的玩家，都会被其快捷方便所吸引。逐渐，传统光盘类的游戏销量下滑，门店客流丧失。GameStop也从游戏行业的风向标变成了夕阳产业，销售份额不断缩减。\n据相关信息显示，GameStop自2016年来营收连年下滑，大量门店关闭，股价一路走低，从20美元跌至不足4美元，到了2019年一度连股息都发不出来。在加上2020年的疫情，让GameStop徘徊在破产的边缘。\n“做空”事件让GameStop起死回生？\n对于一家曾经辉煌过的企业来说，这些经历不得不让人唏嘘感慨。但是华尔街的狼群们却在此闻到了血腥味儿。由于GameStop经营不善，毫不意外地成为了市场里最不被看好的股票，被“做空”也是理所当然。\n然而Reddit上有一个讨论股票的板块，名为WallStreetBets，里面汇聚了一些对GameStop股票的推崇极为狂热，间或夹杂对空头憎恨的年轻人。他们不断地开始购入GameStop的股票，与空军对抗，这也让GME的股价滚起了雪球，从不足3美元重返20美元。后期GME的股价也是坐上了火箭，多次触发熔断停牌。\n这件事情也引起了广泛的关注，马斯克也曾发推贴出WSB的讨论链接，带动节奏。这场“股市”大战让GameStop成为了焦点，散户们胜利的欢呼响彻WSB，也让GameStop享受了短暂的起死回生。\nGameStop开发NFT市场，进军加密领域\n本次股市事件虽然让GameStop再度回到了大众的视野，却无法挽回其经营失败濒临破产的问题。市场对其复苏仍然抱有期望吗？\nGameStop似乎下定决心在业务上作出改革，试图从主营实体零售业务中转型至游戏电商，并向NFT市场发展。\n早在今年1月，就有消息称GameStop雇了20多人来运作NFT部门。该部门用于购买、销售和交易虚拟视频游戏商品的NFT（如虚拟化身服装和武器），与选定的游戏开发商和发行商合作，并在其市场上线NFT。\n受此消息影响，GameStop股价在盘后交易中应声大涨31%，一度达到近期最高点的170美元。二级市场表现也反映出公众对GameStop转型的支持和看好。\n此外，GameStop还与以太坊L2解决方案Immutable X建立了合作伙伴关系。二者共同建立了高达1亿美元的IMX资金池以支援有NFT计划的开发者。双方的合作可谓是相辅相成，Immutable X可以提供区块链技术方面的支持，GameStop则可以贡献其多年积攒的声誉和品牌。\nImmutable X创始人Robbie Ferguson 认为：“这是游戏和区块链产业的飞跃式发展，进一步验证了NFT及区块链具有巨大的效用，并且正在接触更广泛的受众。”\nGameStop这一系列的合作也验证了其进军NFT市场的决心。当元宇宙、NFT成为游戏行业的风口时，各大游戏商、品牌也在伺机而动。\n而对于GameStop来说，其本身的业务也与NFT属性天然契合，游戏的收藏性和纪念价值而存在的NFT逻辑类似。本次转型也是GameStop顺应数字时代发展的必经之路。",
-          "link": "https://www.0daily.com/post/5177238",
-          "publishedOn": "2022-03-18T09:14:21.000Z",
-          "wordCount": 3,
-          "title": "进军NFT市场——GameStop的转型之路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177240",
-          "author": "Moonbeam Network",
-          "description": "「Moonbeam生态说」是Moonbeam中文爱好者社区联合Moonbeam中文高级大使组织的社区AMA活动。该活动为已部署Moonriver或Moonbeam的项目方提供了在主流Moonbeam非官方中文社区内介绍自己的项目信息，包括：项目介绍、团队介绍、技术优势等，帮助社区内的Moonbeam爱好者快速了解活跃在Moonbeam生态内的优质项目。\n本期Moonbeam生态说由Linear Finance和Moonbeam中文社区联合举办，深入了解Linear Finance和Chaotic Finance。\nTracy：Moonbeam爱好者们，大家好！我是Tracy，Moonbeam中国市场大使，本人长期以来一直是Moonbeam生态圈的爱好者，很荣幸成为今天AMA的主持人。\n今天，我们将从我们的嘉宾 Kevin Tai（Linear Finance和Chaotic Finance的项目负责人）那里了解更多关于Linear Finance团队的信息。\n首先，请简短介绍一下你自己和Linear Finance，以及在Moonriver上的一个社区驱动的Delta-One资产协议Chaotic Finance。另外，Linear Finance和Chaotic Finance之间有什么区别？\nKevin：大家好，我是Kevin Tai，是Linear Finance和Chaotic Finance项目负责人。\nLinear Finance是一个跨链兼容（以太坊和BSC）、去中心化合成资产协议，允许用户获得多样资产的合成功能，包含数字资产、大宗商品和市场指数。\nChaotic Finance是团队通过Moonriver在Kusama网络上的集成。两者的主要区别是Chaotic允许用户交易高达四倍的杠杆。Chaotic的合成资产均允许永续交易，意味着用户将能够交易多头和空头…",
-          "link": "https://www.0daily.com/post/5177240",
-          "publishedOn": "2022-03-18T09:04:09.000Z",
-          "wordCount": 3,
-          "title": "Moonbeam生态说：走近Linear Finance团队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177239",
-          "author": "念银思唐",
-          "description": "本文来自Decrypt，原文作者：Kate Irwin\nOdaily 星球日报译者 | 念银思唐\n\nTwitter 上周发布了一份关于过去两年最大趋势的报告，其中金融（包括加密货币）位居榜首。\n这家社交媒体巨头的一名代表分享说，金融是目前该公司网站上“增长最快的话题”，根据其趋势报告，加密货币在金融类别中位居首位。仅在过去的三个月里，Twitter 用户就发布了近 3 亿条关于加密货币的推文。\n金融类推文在普通用户中同比增长 78%，这意味着它在非专业人士中获得了巨大的吸引力。\nTwitter 上最流行的加密话题是比特币、以太坊和 Ripple。在此之后，Cardano、DeFi、Coinbase 和 Binance 是其他受关注的话题。\nTwitter 金融服务总监 Jeff Melei 在一篇博客中写道：“我们见证了情绪高涨的加密爱好者的崛起，Twitter 上的用户考虑投资加密货币的可能性比非 Twitter 上的用户高 3.2 倍。”\n该报告称，Twitter 上关于 NFT 的讨论也出现了爆炸式增长，增幅达 242%。去中心化交易所、DApp 和稳定币是其他流行的加密货币话题，最近在 Twitter 上也出现了类似的百分比增长。\n在社交代币方面，关于“粉丝代币（fan tokens）”的推文数量同比增长了 994%。\nTwitter 将比特币 ATM 机、NFT 股票（投资 NFT 公司的股票）、Zcash 和 Cypherpunk（加密朋克）运动（其追随者自上世纪 90 年代初就倡导数字隐私）列为其网站上的“新兴话题”。Twitter 推测，“关于入门级产品的新话题可能会让普通人更愿意投资。”\n在其报告中，考虑到其创始人兼前首席执行官 Jack Dorsey 对比特币的热情，以及 Twitter 对于加密业务的一系列探索，Twitter 对加密货币和NFT整体持乐观态度，这并不令人意外。\n2021 年 9 月，Twitter 开始逐步面向用户推出基于闪电网络的比特币小费支付功能。据悉，Twitter 用户可以通过两种方式进行比特币支付：第一种是通过包括 Square Cash App 和 Go Fund Me 在内的支付选项菜单，将允许用户向比特币地址发送小费或以传统方式汇款。另一种是通过 Strike，它是一种建立在闪电网络之上的支付应用程序。\n此后今年 2 月，Twitter 宣布其移动端用户可以将以太坊地址添加到潜在打赏对象列表中。一位 Twitter 发言人表示，所有同意公司打赏政策的用户都可以使用以太坊钱包，但新功能尚不支持 ENS 域名。该公司证实，将支持使用 ETH 和 ERC-20 代币（包括基于以太坊的稳定币）支付小费。Twitter 还表示，已在尼日利亚、加纳和印度推出打赏功能。\n除了支付功能外，Twitter 也在探索 NFT 身份验证的相关功能。\n今年 1 月，Twitter 宣布推出 NFT 个人头像验证功能，某些用户将能够从其加密钱包中导入 NFT，并将其设置为 Twitter 头像。通过使用 OpenSea API、元数据和收藏验证，该集成允许用户无缝验证所有权并发现关键的 NFT 信息，包括 NFT 名称、其原始创建者、其收藏描述和艺术品的其他属性。目前 NFT 验证仅适用于使用 Twitter Blue 的用户。\n同月，Twitter 加密工程负责人 Tess Rinearson 推文显示，该公司正在为其加密业务招聘一名高级产品经理。该职位被描述为 Twitter 一个新团队的成员，该团队探索“去中心化技术，包括区块链、加密和 Web3”。该岗位更加专注于创作者收入部分，“尤其是创作者的盈利。我们将密切关注 NFT 和 NFT 工具、社交代币、DAO 等等”。\n总的来说，Twitter 认为，加密货币“可以帮助无银行账户的人”，这意味着加密货币可以成为那些无法开设或访问传统银行账户的人的数字金融替代品。这个社交媒体平台还向任何想要发布 NFT 的人提供了建议：“不要盲目地跟随 NFT 的潮流——创造一些对你所在社区有意义的事物。”",
-          "link": "https://www.0daily.com/post/5177239",
-          "publishedOn": "2022-03-18T09:00:15.000Z",
-          "wordCount": 3,
-          "title": "Twitter趋势报告：加密货币和NFT话题数同比增长242%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177236",
-          "author": "深潮TechFlow",
-          "description": "原文作者：Martin Lee\n原文编译：TechFlow Intern\n\n简介\n一个真正去中心化的世界需要去中心化的货币。目前，去中心化的金融（DeFi）是由中心化的稳定币支撑的。这是一个故障点，可能会对整个使用DeFi作为流动性支柱的应用的去中心化生态系统产生连带影响。\nTerra的创建是为了提供一个中心化稳定币的替代方案，其协议已经发展成为总锁定价值的第2大区块链。\n\n什么是Terra？\nTerra是一个多维协议，它不仅是一个稳定币协议，也是一个一层区块链，开发者可以在上面构建去中心化的应用程序。Terra是由Terraform Labs的团队创建的，该团队由Do Kwon和Daniel Shin于2018年创立。Do Kwon是Terraform Labs的现任CEO。\n\nTerra协议\nTerra协议是一个公共区块链协议，用于创建去中心化的算法稳定币。去中心化的算法稳定币是与资产挂钩的代币，在这种情况下是与法定货币挂钩。价格挂钩是通过代码中设置的规则来维持的，而不是由标的资产来支持。非算法稳定币，如USDT和USDC，由等值的美元或类似美元的资产支持。\n\n关键数据\n目前，Terra支持创建22种货币的稳定币，范围从主要货币如美元、英镑、日元到较小的货币如新加坡元和MNT。用户能够将LUNA代币换成同等价值的稳定币UST，反之亦然。用LUNA换取稳定币会消耗LUNA，导致供应紧缩。同样，用UST换LUNA也会消耗UST。例如，如果1LUNA=50美元，交换1LUNA将产生50UST（TerraUSD）并燃烧掉1LUNA。\n每当UST与美元挂钩脱钩时，就会为用户创造一个套利机会。在这种情况下，用户会被激励朝着套利的方向进行交换，以保持挂钩。\n当1UST>1USD时，用户用LUNA交换UST，然后卖出UST换取USD，赚取差价。在相反的情况下（1UST<1USD），用户…",
-          "link": "https://www.0daily.com/post/5177236",
-          "publishedOn": "2022-03-18T09:00:00.000Z",
-          "wordCount": 3,
-          "title": "Nansen：Terra，不仅仅是稳定币",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177235",
-          "author": "区块律动BlockBeats",
-          "description": "作者：0x21，BlockBeats\n相比于 ERC-20Token，NFT 资产的独特属性让其流动性和数据的可视化成为了难点。即使是 BAYC 这样的顶级项目，在 YugaLabs 宣布了收购了 CrytpoPunks 和 Meebits 又宣布发行 ApeCoin 这样的重大消息，地板价从 60ETH 左右提升到了将近 100ETH 左右，但是整体的交易数量也不过几十笔而已，数据的基数过小，让很多玩家无法通过 ERC-20 的数据标准再去衡量 NFT 项目的走势。\n另一方面 NFT 所继承的文化属性将「Buidl」的形式集成在了社区，社区的活动、成员的凝聚力，成为了一个项目能否成功的必要条件，参与社区成为了每个玩家的必修课。仿佛让 NFT 市场的数据变得无迹可寻。即使是可是化的数据往往也会落后于社区的活动与信息。\n那么 NFT 市场的数据是真的没那么重要吗？\n本文讲从长期 NFT 玩家和短期 NFT 玩家两个层面，通过可视化的市场数据来探讨从中我们究竟能看到什么规律，NFT 玩家该如何利用数据来配合市场消息，对 NFT 项目进行初步的判断。\n短期的活跃指数\n随着一年来 NFT 市场趋于成熟，市场上的项目呈现了百花齐放的态势，根据 Nansen NFT Index 指数，每天有接近 1600 个 NFT 项目以不同形式发售，这也意味着玩家们早已脱离了一年前「二选一」的窘境，有了更多的选择，短线投资也成为了众多 NFT 玩家的首要选择。\n对 KOL 的地址监控\n短线投资，也就是通过低买高卖的方式在短期内进行交易，对于普通玩家来说，搭上「巨鲸」和 KOL 的便车是短线投资最为简单的方式。这也是为什么像 Pranksy 这样的 NFT 巨鲸每次出手都会掀起一阵波澜。\n以几天前 Pranksy 交易 NFT RaidParty Fighters 为例：\n\n数据显示，在 3 天前 …",
-          "link": "https://www.0daily.com/post/5177235",
-          "publishedOn": "2022-03-18T08:30:00.000Z",
-          "wordCount": 3,
-          "title": "如何从链上数据分析NFT背后的市场规律？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177229",
-          "author": "不一样的NFT",
-          "description": "NFT 数据日报是由 Odaily星球日报与 NFT 数据整合平台 NFTGO.io 合作的一档栏目，旨在向 NFT 爱好者与投资者展示近 24 小时的 NFT 市场整体规模、交易活跃度、子领域市占比，成交量、流动性指标、受巨鲸欢迎等维度下排前五的 NFT 项目，以及各主要元宇宙平台上 NFT 的最新成交价格等数据。\n宏观市场指标\n截至 3 月 18 日 15 时，NFT 整体市值 181.12 亿美元，较 24 小时前增长 0.31%；过去 24 小时内总交易量约 1.98 亿美元，日环比增长 22.75%。\n\n按市场占比，排前三的子领域分别为 PFP（54.68%）、Collectibles（14.16%）、Art（8.93%）。\n\n项目排名\n按过去 24 小时成交量，排名前五的项目分别为 Terraforms by Mathcastles（6944 万美元）、Bored Ape Yacht Club（4408 万美元）、Mutant Ape Yacht Club（2182 万美元）、Bored Ape Kennel Club（741 万美元）和 CryptoPunks（415 万美元）。\n\n按过去 24 小时流动性指标（注：流动性=交易量 / NFT 总供应量），排名前五的项目分别为 Kibatsu Mecha（25.49%）、10KTF: GUCCI GRAIL MINT PASS（16.75%）、MPL Official（16.70%）、GNSS by MGXS（14.23%）和 Frenly Pandas（8.36%）。\n\n特色数据\n过去 24 小时，巨鲸购买的“平价 NFT”中排前五的分别是：Eclipse - Ox、Floating art、Crypto Conquest Space、Cranky Critters NFT #4754 和 Steampunk Mechanic。\n\n最受巨鲸欢迎项目排前五的分别是：Bored Ape Yacht Club、Azuki、Bored Ape Kennel Club、Good Morning Cafe 和 CyberBrokers V3。\n\n元宇宙平台中，过去 24 小时内，Decentraland 上的地块最低成交价为 2.602 ETH、平均成交价为 5.6492 ETH；The Sandbox 上的地块最低成交价为 2.3975 ETH、平均成交价为 3.1192 ETH；Cryptovoxels 上的地块最低成交价为 1.051 ETH、平均成交价为 1.4278 ETH。\n\n欢迎前往 NFTGO.io 官网查阅更丰富维度的 NFT 数据。\n相关阅读\nAPE空投可能价值十万美金？一文探讨APE的估值情况\n关于ApeCoin，BAYC持有者应注意这五点\nNFT颓势已现：肝不起了，卷不动了\n浅谈NFT稀有度玄学",
-          "link": "https://www.0daily.com/post/5177229",
-          "publishedOn": "2022-03-18T06:58:16.000Z",
-          "wordCount": 3,
-          "title": "NFT数据日报 | BAYC在过去24小时内最受巨鲸欢迎（3.18）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177226",
-          "author": "SupraOracles",
-          "description": "使用计算器帮助计算您的加密税收负担\n无论您是认真的加密货币交易者还是投资者，还是仅持有几千美元的加密货币，管理您的加密货币资产和年度税收都可能是一场噩梦。 各国的法规各不相同，但在美国，美国国税局就如何处理与个人税收负担相关的加密货币，发布了有限的甚至有时是相互矛盾的信息。\n您可能已经从您使用过的任何加密货币交易所或交易平台收到税务文件。 这些信息可能是最新的或准确的，也可能不是最新的或准确的，因此准确了解美国税务局对加密货币的看法很重要。\n根据美国国税局网站，“虚拟货币被视为财产，适用于财产交易的一般税收原则适用于使用虚拟货币的交易。”\n此外，美国国税局规定：“当你出售虚拟货币时，你必须确认出售的任何资本收益或损失，但须遵守资本损失可扣除的任何限制。” 这意味着如果您在购买后持有加密货币不到一年，您通常需要负责支付短期资本利得税，如果您持有加密货币超过一年，您通常需要承担责任用于长期资本利得税。\n\n与投资加密货币的人不同，如果您获得加密货币作为全职工作或独立承包服务的补偿，则将被视为普通收入。\n所有这些似乎都令人困惑，但幸运的是，有各种免费且易于使用的计算器可以让您计算您的加密货币税负。\n您可以输入各种因素，包括您购买的加密货币数量、您的固定收入、您可能获得的其他投资收入以及可能影响您的整体税单的其他因素。 这样，您可以避免不愉快的意外和可能让您和您的钱包受伤的潜在审计。\n在本文中，我们将回顾排名前 5 位的加密税计算器、它们的功能和定价选项，以便您可以明智地选择最适合您个人需求的产品。 请注意，这些计算器仅针对居住在美国的投资者和交易者。\n目录\n\nTaxAct – 比特币税收计算器\n\n加密税计算器\n\nZenLedger\n\nTokenTax\n\nCoinTracker\n\n加密税收计算器和信息—非美国的投资者和交易员\n\nTaxAct – 比特币税收计算器\nTaxAct 比特币…",
-          "link": "https://www.0daily.com/post/5177226",
-          "publishedOn": "2022-03-18T06:21:17.000Z",
-          "wordCount": 3,
-          "title": "SupraOracles专题报告：详解排名前5的加密货币税收计算器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.0daily.com/post/5177220",
-          "author": "二十三画生",
-          "description": "中美最高层约于北京时间3月18日晚就中美关系和双方共同关心的问题交换意见，金融市场对此持乐观积极态度，北京时间18日凌晨，美股周四收高，加密市场整体也表现相对强势。从技术图上看，BTC短线回踩测试MA65，多头表现相对强势，上方仍有上攻空间。BTC下方重要支撑位在39000美元附近，上方重要阻力位为42000美元。\n摘要\n1.中国货币政策将偏向宽松，中美货币政策进一步走向分化。\n2.BTC目前再度回踩测试MA65，多头表现相对强势，后市趋于震荡。\n3.矿工抛售量明显有所回升，矿工出现抛售迹象，BTC反弹阻力上升。\n4.BTC巨鲸地址数短线有所回落，DeFi中BTC锁仓量略有增加，市场多空博弈激烈。\n5.市场恐慌情绪有所减弱，资金看多力量有所下降。\n6.BTC合约市场空头持仓占优，多空持仓人数比震荡走高，BTC多空博弈激烈。\n7.今日加密市场板块涨跌不一，市场观望情绪浓厚。\n一、宏观市场与币圈要闻\n在美联储宣布加息前不到24小时，国务院金融稳定发展委员会（下称“金稳委”）召开专题会议，要求“切实振作一季度经济，货币政策要主动应对，新增贷款要保持适度增长”，分析人士认为，中国货币政策将偏向宽松，中美货币政策进一步走向分化。\n另外，外交部发言人华春莹宣布：国家主席习近平将应约于北京时间3月18日晚，同美国总统拜登就中美关系和双方共同关心的问题交换意见。北京时间18日凌晨，美股周四收高。道指录得连续第四个交易日上涨。这意味市场对中美高层会面持积极态度，其可能有助于缓解高通胀问题。整体上看，中美博弈成为近期影响金融市场的主要因素，加密市场目前多头仍然保持一定优势。\n二、技术分析\n据火币行情显示，BTC短线出现一定回撤，目前再度回踩测试MA65，多头表现相对强势，后市趋于震荡。BTC下方重要支撑位在39000美元附近，上方重要阻力位为42000美元。\n\n三、矿工累积指标\n据bytetree数据显示，从矿工生产和抛售累积数据可以看到，矿工生产量变化不大，矿工抛售量明显走高，矿工24小时净累积72枚BTC。整体上看，矿工抛售量明显有所回升，矿工出现抛售迹象，BTC反弹阻力上升。\n\n四、链上指标\n据Oklink数据显示，通过观察BTC巨鲸地址数可以发现，BTC巨鲸地址数有所回落，大户略有一定抛售迹象。今日截止13：00，DeFi中BTC锚定资产的锁仓量为341147（昨日340945）枚，DeFi中BTC锁仓量净增加202枚。综合来看，BTC巨鲸地址数短线有所回落，DeFi中BTC锁仓量略有增加，市场多空博弈激烈。\n\n五、恐慌指数与买卖强弱指标\n据alternative.me数据显示，今日恐慌与贪婪指数为25（昨日27），市场恐慌情绪有所减弱。据百度搜索指数显示，比特币搜索量有所回落，市场关注度有所下降。根据多伦多交易所数据显示，BTCC全天成交量107144（昨天1560485）份。据OKLink数据显示，灰度GBTC溢价率为-27.06%（昨日-27.52%），GBTC溢价率略有回升。据币coin数据显示，截止今日13时，BTC当前资金费率-0.014%（昨日+0.006%），资金做空情绪上升；目前比特币RSI 14（买卖相对强弱指数）为51.76（昨日53.84），场内买盘力量略有回落。综合来看，市场恐慌情绪有所减弱，资金看多力量有所下降，市场多空博弈激烈。\n\n六、合约指标\n据币coin数据显示，截止13：00，BTC在Bitmex上多空持仓量比为：多头48.69%，空头51.31%，空头持仓占优。据OKx合约数据显示，在小时图上，BTC多空持仓人数比震荡走高。综合来看，BTC合约市场空头持仓占优，多空持仓人数比震荡走高，BTC多空博弈激烈。\n七、主流资产与热门币种\n据CoinGecko数据显示，今日24小时涨幅前五的币种分别为：XIDO（82.7%）、MINA（20.0%）、Cake（13.2%）、AAVE（10.2%）、SNX（6.8%）；目前在24小时内，排名前一百板块中涨幅前五板块有：Celo生态（9.1%）、FaaS（3.9%）、Yield Farming（3.7%）、借贷市场（3.5%）、Social Money（2.7%）。整体上看，今日加密市场板块涨跌不一，市场观望情绪浓厚。",
-          "link": "https://www.0daily.com/post/5177220",
-          "publishedOn": "2022-03-18T06:19:53.000Z",
-          "wordCount": 3,
-          "title": "每日行情解读 | 加密市场多头相对强势，BTC后市仍有上攻空间",
           "imageUrl": null
         }
       ]
