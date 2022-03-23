@@ -1,6 +1,9 @@
 cacheUrl: https://joyc.github.io/bc-news/cache.json
 sources:
   - href: https://rss.app/feeds/Gi5lP9ProAbP2UYd.xml
+  - href: https://www.coindeskjapan.com/feed/
+  - href: https://jp.cointelegraph.com/rss
+  - href: https://media.cryptocurrency-association.org/?feed=rss2
 #   - href: https://rsshub.app/panewslab/newsflash
 #   - href: https://rsshub.app/blockbeats/flash
 #   - href: https://rsshub.app/blockbeats/news
