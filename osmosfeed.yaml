@@ -1,21 +1,22 @@
 cacheUrl: https://joyc.github.io/bc-news/cache.json
 sources:
-  - href: https://rss.app/feeds/Gi5lP9ProAbP2UYd.xml
-  - href: https://www.coindeskjapan.com/feed/
-  - href: https://jp.cointelegraph.com/rss
-  - href: https://media.cryptocurrency-association.org/?feed=rss2
-  - href: https://coinpost.jp/?feed=rss2
-  - href: https://jp.techcrunch.com/news/blockchain/feed/
+#   - href: https://rss.app/feeds/Gi5lP9ProAbP2UYd.xml
+#   - href: https://www.coindeskjapan.com/feed/
+#   - href: https://jp.cointelegraph.com/rss
+#   - href: https://media.cryptocurrency-association.org/?feed=rss2
+#   - href: https://coinpost.jp/?feed=rss2
+#   - href: https://jp.techcrunch.com/news/blockchain/feed/
 #   - href: https://rsshub.app/panewslab/newsflash
 #   - href: https://rsshub.app/blockbeats/flash
-#   - href: https://rsshub.app/blockbeats/news
+  - href: https://rsshub.app/blockbeats/news
 #   - href: https://rsshub.app/odaily
-#  - href: https://rsshub.app/readhub/blockchain
-#  - href: https://rsshub.app/jinse/lives 
-#  - href: https://nitter.net/awsstatusjp/rss
-#  - href: https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/
-#  - href: https://rss-weather.yahoo.co.jp/rss/days/14.xml
-#  - href: https://rss-weather.yahoo.co.jp/rss/days/13.xml
-#  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
+  - href: https://rsshub.app/readhub/blockchain
+#   - href: https://rsshub.app/jinse/lives 
+#   - href: https://nitter.net/awsstatusjp/rss
+#   - href: https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/
+#   - href: https://rss-weather.yahoo.co.jp/rss/days/14.xml
+#   - href: https://rss-weather.yahoo.co.jp/rss/days/13.xml
+  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
 siteTitle: "BlockChain::News"
+timezone: Asia/Tokyo
 cacheMaxDays: 3
