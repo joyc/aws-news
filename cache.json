@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/29884",
+          "author": null,
+          "description": "NFT抢了谁的蛋糕？",
+          "link": "https://www.theblockbeats.info/news/29884",
+          "publishedOn": "2022-03-24T04:00:39.000Z",
+          "wordCount": null,
+          "title": "NFT抢了谁的蛋糕？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/29883",
+          "author": null,
+          "description": "英伟达GTC专题讨论会：如何构建工业元宇宙",
+          "link": "https://www.theblockbeats.info/news/29883",
+          "publishedOn": "2022-03-24T03:31:39.000Z",
+          "wordCount": null,
+          "title": "英伟达GTC专题讨论会：如何构建工业元宇宙",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/29882",
           "author": null,
           "description": "原文标题：《\n\nProto-Danksharding FAQ\n\n\n\n》\n原文作者：Vitalik Buterin\n原文编译：\n\nKyle，巴比特\n\n\n\n以太坊创始人 Vitalik Buterin 近日针对与 Proto-danksharding（又名 EIP-4844）有关的疑问近了解答。Danksharding 为以太坊提出的新分片设计，这种技术究竟能带来什么？\n\n\n什么是 Danksharding？\n\n\nDanksharding 是为以太坊提出的新分片设计，与之前的设计相比，它引入了一些显着的简化。\n\n\n自 2020 年以来的所有最近的以太坊分片提案（包括 Danksharding 和之前的 Danksharding）与大多数非以太坊分片提案的主要区别在于以太坊以汇总（Rollup）为中心的路线图：以太坊分片没有为交易提供更多空间，而是为数据提供，以太坊协议本身不会尝试解释。验证 blob 只需检查 blob 是否可用，即是否可以从网络下载。这些 blob 中的数据空间预计将由支持高吞吐量事务的第 2 层（Layer2）Rollup 协议使用。\n\n\nDanksharding 引入的主要创新是合并费用市场：不再有固定数量的分片，每个分片都有不同的区块和不同的区块提议者，在 Danksharding 中，只有一个提议者选择进入该槽的所有交易和所有数据.\n\n\n为避免这种设计对验证者提出高系统要求，我们引入了提议者/构建者分离 (PBS)：称为区块构建者的一类特殊参与者竞标选择 slot 的权利，提议者只需要选择出价最高的有效 header 即可。只有区块构建者需要处理整个区块（在这里，也可以使用第三方去中心化预言机协议来实现分布式区块构建者）；所有其他验证者和用户都可以通过数据可用性采样非常有效地验证区块（请记住：区块的「大」部分只是数据）。\n\n\n什么是 proto-dan…",

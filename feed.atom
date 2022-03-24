@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-24T00:34:04.170Z</updated>
+    <updated>2022-03-24T06:10:00.682Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT抢了谁的蛋糕？]]></title>
+        <id>https://www.theblockbeats.info/news/29884</id>
+        <link href="https://www.theblockbeats.info/news/29884"/>
+        <updated>2022-03-24T04:00:39.000Z</updated>
+        <summary type="html"><![CDATA[NFT抢了谁的蛋糕？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达GTC专题讨论会：如何构建工业元宇宙]]></title>
+        <id>https://www.theblockbeats.info/news/29883</id>
+        <link href="https://www.theblockbeats.info/news/29883"/>
+        <updated>2022-03-24T03:31:39.000Z</updated>
+        <summary type="html"><![CDATA[英伟达GTC专题讨论会：如何构建工业元宇宙]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对Layer2有关键影响的EIP-4844，V神是如何解读的？]]></title>
         <id>https://www.theblockbeats.info/news/29882</id>
