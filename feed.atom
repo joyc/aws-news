@@ -2,10 +2,370 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-24T06:10:00.682Z</updated>
+    <updated>2022-03-24T12:13:47.119Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Banner会是NFT市场中的下一片蓝海吗？]]></title>
+        <id>https://www.theblockbeats.info/news/29897</id>
+        <link href="https://www.theblockbeats.info/news/29897"/>
+        <updated>2022-03-24T10:27:21.000Z</updated>
+        <summary type="html"><![CDATA[撰文：0x555, 律动 BlockBeats  
+
+
+当 PFP 开始风靡，大家习惯溯源，去找到头像这样的社交资本玩法的发祥地，而 QQ 秀是被提及最频繁的。人们发现，从 QQ 秀开始，虚拟空间上的第二人生就有了苗头。
+
+
+而除了 QQ 秀，QQ 空间是另一个不能被忽略的虚拟世界。
+
+
+2005 年，QQ 空间在 QQ 面板上一个不起眼的「小窝」开始内测。在最开始，QQ 空间的定位就是「展示自我和与他人互动的平台」，后来它成为了当时中国最早的互联网精神家园之一。
+
+
+2006 年 5 月，QQ 空间推出「黄钻贵族」服务，这是继 QQ 秀「红钻」之后的第二个「钻石」体系，用户只需要每个月花费 10 元就可以享受多项特权，包括个性空间皮肤、照片大头贴、个性域名等等，其运营逻辑与「红钻」如出一辙。其中最重要的特权便是用户可以根据自己的需求去装扮空间，这次转型使得 QQ 空间开始吸引了大规模用户，进一步拓宽了依靠社交网络增值服务变现的空间。
+
+
+
+
+
+
+
+现在看来，当时的 QQ 空间装扮在艺术性方面乏善可陈，但通过每个人的自由选择和设计，它确实成为了千禧一代的年轻人在那个年代里能在标榜个性的同时追求群体认同的一种媒介，切实满足了用户的社交需求。在那时人们对于日新月异的互联网是感到新奇的，而大部分用户还并没有在虚拟物品上消费的习惯，每月 10 元就能成为「贵族」让自己变得更加与众不同，个人空间的装扮更为社交平添了一丝「奢侈」属性。
+
+
+数据更能说明人们对这种社交资本的推崇。受「黄钻贵族」影响，2007 财年，腾讯的互联网增值业务收入同比增长 37.7%，达到 25.14 亿元。直到今天在「黄钻贵族」会员体系中，空间装扮仍然占据主要位置。可见，从「红钻」到「黄钻」，腾讯发现了个人空间的装扮这片蓝海，它确实是一门好生意，一招鲜赚得盆满钵满。
+
+
+与 QQ 空间装扮类似，与现在 NFT …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了侧链，Polygon还在布局哪7种基于ZK的产品？]]></title>
+        <id>https://www.theblockbeats.info/news/29896</id>
+        <link href="https://www.theblockbeats.info/news/29896"/>
+        <updated>2022-03-24T10:01:21.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Jerry Sun
+原文编译：0x9F，律动 BlockBeats
+
+
+本文梳理自 Messari 研究员 Jerry Sun 在个人社交媒体平台上的观点，律动 BlockBeats 对其整理翻译如下：
+
+
+许多人因为 Polygon 的侧链而知道它。便宜的 Gas 费，高速的 Tx 吞吐量...... 都是好东西。
+
+
+但除了侧链之外，这家公司也在建立一系列 L2 和基础设施产品。在未来几个月里，你将一定会听到更多它们的消息，让我解释一下原因。
+
+
+
+
+
+
+
+首先我们要明确一点：Polygon 期待一个以以太坊为中心的世界。更确切地说，一个由零知识（ZK）证明促成的世界。
+
+
+不光动嘴说，他们也用钱支持他们的这一信念。该团队正投入超过 10 亿美元来支持基于 ZK 的项目。他们用这笔资金做了什么？他们已经构建了一个项目组合，即将启动。
+
+
+Polygon 有多个 L2 正在开发中，其中大部分是 ZK Rollups（ZKR）。他们还在建立一个数据可用性平台和一个开发工具包。
+
+
+让我们分别看看。
+
+
+
+
+
+
+
+Polygon Hermez 
+
+
+
+
+
+
+
+Hermez 是一个已经推出的去中心化 ZKR。但它现在在技术上仅限于支付和转账。这种情况不久之后应该就会改善。Hermez 2.0 的测试正在进行中。Hermez 2.0 增加了一个 ZK EVM，让 dapp 们可以在 ZKR 上轻松运行他们的智能合约。
+
+
+Polygon Zero
+
+
+
+
+
+
+
+Zero 和速度相关，充分满足用户对速度的需求。它使用递归证明生成来增加每次处理的交易数量。这不仅使网络速度更快，还使计算处理变得更容易。
+
+
+Polygon Miden
+
+
+
+
+
+
+
+Miden 和 Miden VM 相关，是 ZK-STARK 的通用 ZK VM。ZK-STARK 与 ZK 证明中使用的典型的 ZK-SNARK 略有不同。STARK 不需要像 SNARK 通常那样依赖一个可信设置，而且是后量子安全（post-quantum secure）的。
+
+
+Polygon Nightfall
+
+
+
+
+
+
+
+这是与安永会计师事务所的合作。两家公司希望一起为企业建立一个可扩展的解决方案。Nightfall 是一个利用 ZK 证明隐私功能的 Optimistic rollup，将合法且符合 KYC 标准。
+
+
+上面四个项目展示了 Polygon 正在研究的四种 L2 解决方案：
+
+1. 去中心化的 ZKR 
+2. 递归 ZKR 
+3. 基于 STARK 的 ZKR 
+4. 以企业为重点的 ZKR
+
+
+现在我们来看一些即将推出的基础设施产品。
+
+
+Polygon Avail
+
+
+
+
+
+
+
+Avail 是一个数据可用性平台。数据可用性一直是一个热门话题，因为如果不是所有节点都能获得完整和正确的数据，就很难扩展区块链。Avail 是一个独立的网络，旨在只跟踪状态机的数据变化。
+
+
+Polygon Edge
+
+
+
+
+
+
+
+Edge 是一个开源的软件开发工具包（SDK），面向想要构建自己区块链的开发者。未来的区块链可能是一个 L2 链或独立的链。无论是哪种，Edge 都有助于起步。
+
+
+1 亿美元生态系统基金
+
+
+为了支持这个即将发布的 L2/网络生态系统，Polygon 还成立了一个 1 亿美元的生态系统基金来投资 dapp。
+
+
+其中一部分给了 Polygon Studios，这是一个正在开放饱受期待的游戏和 NFT 的团队。如果你喜欢区块链游戏，请关注他们。
+
+
+
+
+
+
+
+原文链接
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊2.0将带来的5大变化]]></title>
+        <id>https://www.theblockbeats.info/news/29893</id>
+        <link href="https://www.theblockbeats.info/news/29893"/>
+        <updated>2022-03-24T08:46:21.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《5 Major Changes to be Brought about by Ethereum Upgrade》
+原文来源：LuckyHash
+
+原文编译：0x9F，律动 BlockBeats
+
+
+根据以太坊联合创始人 V 神（Vitalik Buterin）的说法，这次升级将提升以太坊的功能，推进以太坊的大规模采用。本文将回顾以太坊 2.0 的基础功能，并探讨升级将会给它带来哪些变化。
+
+
+自 2015 年问世以来，以太坊一直广受欢迎，但最近其昂贵的交易费用和低可扩展性对复杂应用程序的执行产生了负面影响，用户对以太坊改进的需求变得越来越迫切。以太坊 2.0 已经酝酿了一段时间，这是多年来以太坊网络最大的变化，旨在解决当前基础设施的一些问题。
+
+
+升级进度？
+
+
+以太坊的升级不是一蹴而就的，涉及多个将在未来几年内进行的重大升级。目前的以太坊存在和比特币一样的共识机制——工作证明（PoW）。尽管 PoW 区块链去中心化且安全可靠，但它们要求矿工使用高计算能力来解决复杂的加密问题（竞争交易验证权），因而减慢了链上交易速度。算力的竞争提高了能耗，让 PoW 区块链饱受环保主义者的批评。
+
+
+
+
+
+
+
+以太坊正在从 PoW 转向 PoS 共识机制。PoS 是一种替代共识机制，允许验证者通过质押治理 Token 来进行验证。随后，以太坊通过分析多种因素（如赌注大小、持续时间等），相应地选择随机验证者。
+
+
+这次升级（以太坊合并）代表着以太坊正式切换到权益证明共识，将通过质押的 ETH 而不是能源密集型挖矿来保障网络的安全。这是实现以太坊愿景的一个真正令人兴奋的步骤--更多的可扩展性、安全性和可持续性。
+
+
+V 神和 Ethereum.org 都估计以太坊合并将在 2022 年第二季度完全交付。
+
+
+以太坊信标链是以太坊的一个测试分支，在 PoS 机制上工作。目前，信标链有…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别再复制Compound的代码了]]></title>
+        <id>https://www.theblockbeats.info/news/29888</id>
+        <link href="https://www.theblockbeats.info/news/29888"/>
+        <updated>2022-03-24T08:46:21.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《别再复制 Compound 的代码了》
+原文作者：Jackson[1]
+
+
+前段时间看 Compound[2] 的代码，发现两个可能影响资金安全的漏洞。
+
+
+漏洞一
+
+
+发现 Compound 的一个严重漏洞[3]
+
+
+这个漏洞的主要原因是 Compound 采用的这种资金池净值的算法可以被攻击，攻击者可以在资金池份额很小时，恶意转入一定量资金导致净值达到一个极大的值，从而让后面存入资金时，份额=资金/份额，整除后结果为 0，也就是说用户存入资金确得不到份额！然后攻击者就可以取回份额，盗走用户的资金。
+
+
+这个漏洞的利用条件比较苛刻，基本上只有在创建资金池的时候才有攻击的可能，但是，对于合约这种极其关键的东西，应该严谨对待，不能因为难以利用就置之不理，特别是这个漏洞要堵上是非常简单的。
+
+
+因此给 Compound 的漏洞赏金计划邮箱发了一封邮件，告知了这个问题，但是至今没有收到回复。
+
+
+担心是邮件没有收到，我又联系了 CertiK，希望通过他们来联系上 Compound，但是当 CertiK 表示这个漏洞他们已经知道了，并说这个漏洞很难被利用，可以通过运营手段规避。想想确实是这样，这个漏洞虽然可能被利用，但是难以被利用，不必大惊小怪。
+
+
+漏洞二
+
+
+发现 Compound 的第二个严重漏洞[4]
+
+
+这个漏洞则似曾相识，基本逻辑还是回调、重入，但是漏洞确比第一个更加严重，而且也容易被利用一些，只要有带钩子的 Token，就可以攻击！
+
+
+于是我第一时间联系 CertiK，然后他们的回复依然是，这个漏洞他们已经发现了！
+
+
+这次我就不是很理解了，后果如此严重，又比较容易被利用的漏洞，为什么被大家发现了还能够存在？而且堵上这个漏洞只需要调换一下两句代码的顺序就可以了，这样简单却能解决大问题的事情，却没有人做？难道仅仅是因为 Compound 没有带钩子的 Token？
+
+
+这让我对漏洞的认知产生了怀疑！第一次在本站发布这个漏洞后没多久，觉得内容比较敏感，我就把主要内容都删除了。
+
+
+漏洞终于被利用
+
+
+然而，漏洞还是被利用了。March-15-2022 06:28:40 PM +8 UTC，Hundred Finance 遭受攻击，黑客获利 2363 ETH，总价值超过 4000 万人民币。Hundred Finance 代码源自 Compound。利用的漏洞和上文中的第二个思路相同。事实上，黑客可以更狠一些，攻击的时候同时调用 exitMarket() 退出借贷市场，从而攻击者赎回、借款时，欠款会被全部忽略！
+
+
+反思
+
+
+通过这段时间对 Compound 代码的阅读，以及关于漏洞的沟通过程，都让我比较吃惊，他们对于漏洞的态度竟然如此漠然！是什么原因导致了这样的局面，Compound，审计公司分别是如何考虑的？无从知晓。
+
+
+这或许就是币圈基本上过几天就要发生一起攻击事件的主要原因！
+
+
+代码是别人的，但是复制过来后，漏洞却是需要自己承受的，如此局面下，我们能够做的，就是严谨对待自己的项目和代码，因为出了问题后，Compound 和审计公司都不会为你负责，可能还觉得你活该！
+
+
+参考资料
+
+
+[1]jackson: https://learnblockchain.cn/people/245
+[2]Compound: https://learnblockchain.cn/article/3167
+[3] 发现 Compound 的一个严重漏洞 | 登链社区 | 深入浅出区块链技术: https://learnblockchain.cn/article/3591
+[4] 发现 Compound 的第二个严重漏洞 | 登链社区 | 深入浅出区块链技术: https://learnblockchain.cn/article/3724
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink发布Startup with Chainlink计划]]></title>
+        <id>https://www.theblockbeats.info/news/29891</id>
+        <link href="https://www.theblockbeats.info/news/29891"/>
+        <updated>2022-03-24T07:46:21.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Chainlink
+
+
+
+
+
+Chainlink 是 Web3 生态中至关重要的基础设施，为整个智能合约生态提供了所需的链下服务，包括安全的喂价、可验证的随机数以及信任最小化的智能合约自动化服务。 
+
+
+为了掀起新一轮的智能合约创新和应用浪潮，Chainlink Labs 正式发布 Startup with Chainlink 计划。该计划旨在赋能早期的 Web3 初创公司，扶持这些团队打造出下一代应用，并为区块链和智能合约行业开创未来。简而言之，Startup with Chainlink 会为创始团队提供实现成功的蓝图。 
+
+
+计划具体内容
+
+
+Startup with Chainlink 主要聚焦早期项目，如果你的团队正在区块链和智能合约领域展开前沿创新，欢迎前来报名。 
+
+
+Startup with Chainlink 社区的团队可以加入全球创始人和创业者网络，并有机会扩大行业人脉。该计划将为各个团队提供扩展、运营以及行业最佳实践等一系列优选资源。另外，参与者还有机会参加线下活动和线上研讨会等各类社区组织的活动。
+
+
+社区中的项目如果展现出过人的能力和盈利水平，还将获得 Startup with Chainlink 团队提供的额外支持。为了帮助项目更高效地发布和扩展，我们将为它们提供以下机会：
+
+
+· 与 Alchemy、Blockdaemon、Ceramic、Filecoin 以及 The Graph 等行业顶尖服务提供商直接展开合作，并获得特殊帮助。 
+
+
+· 获得技术、法律、设计和营销等各个领域专家的手把手指导。  
+
+
+· 获得顶尖的风投资源，利用这些资源帮项目迈上更高的台阶。
+
+
+计划圆满结束后，项目还可以继续留在 Startup with Chainlink 网络中。该计划旨在为热衷于 Web3 开发的团队建立、维持并巩固联系。
+
+
+Startup with Chainlink 的底层逻辑
+
+
+Startup with Chainlink 希望成为区块链行业中最有利于创始人发展的计划。该计划的核心目标是为创始人提供所需工具，成功实现其愿景。
+
+
+参与计划无需付费，Startup with Chainlink 的目的不在盈利，而是要打造一个多链生态网络，孵化 Web3 行业中最据潜力的项目。
+
+
+如果你希望升级自己的项目，并打造出能推动区块链行业发展的产品或服务，欢迎报名参与 Startup with Chainlink 计划。
+
+
+本文来自投稿，不代表律动 BlockBeats 观点。
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT抢了谁的蛋糕？]]></title>
         <id>https://www.theblockbeats.info/news/29884</id>
