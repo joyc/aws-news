@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-25T00:30:43.064Z</updated>
+    <updated>2022-03-25T06:10:28.684Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THORchain的无清算借贷，可能是改变DeFi的王牌]]></title>
+        <id>https://www.theblockbeats.info/news/29901</id>
+        <link href="https://www.theblockbeats.info/news/29901"/>
+        <updated>2022-03-25T03:55:43.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：0x137，律动 BlockBeats
+
+
+在最近关于 DeFi 的讨论中，我反复听到了一个名字——THORchain，这个沉默数月的项目，最近似乎又有了一些热度。原本只是打算作为一个热点追踪，却在仔细研究后变得有些兴奋，THORchain 即将推出的 THORFi，很可能成为 DeFi 借贷的新模式。
+
+
+THORchain？是那个被盗的项目吗？
+
+
+在进入 THORFi 兔子洞之前，我们先来了解一下 THORchain 到底是什么，毕竟于不少人而言，对 THORchain 的印象仍然是那个「被盗的项目」。
+
+
+THORchain 是用 Cosmos SDK 建造的一条应用链，旨在启用非本地加密资产来实现各原生资产的跨链交易，比如直接用 BTC 交换 ETH。这听上去像是一个跨链桥，但实际上却有很大的区别。
+
+
+就现在来说，进行跨链的资产转移主要有两种方式：一是跨链桥，二是中心化交易平台。两种方式都有不同程度的中心化或者说托管风险，而 THORchain 独特的地方就在于它打造的是一个完全去中心化的「跨链」交易渠道。（律动注，在《当你在进行跨链时，资产真的转移了么？》一文中对资产跨链有详细介绍）
+
+
+THORSwap 是 THORchain 上的主要应用，它其实更像一个跨链的 Uniswap，为各底层 L1、L2 链的原生 Token 提供流动性池，用户通过交易来实现资产跨链。但与 Uniswap 为每个交易对提供流动性不同，THORchain 的交易逻辑是以 RUNE Token 为中心的。
+
+
+
+
+
+
+以 BTC 兑 ETH 为例，用户实际上是先用 BTC 在 BTC-RUNE 池中换取 RUNE，然后再用 RUNE 在 ETH-RUNE 池中换 ETH。这样的逻辑有一个好处，就是为 RUNE 捕获协议价值创造了可能性。
+
+
+THORchain 的共识机制规…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO没有元年]]></title>
+        <id>https://www.theblockbeats.info/news/29900</id>
+        <link href="https://www.theblockbeats.info/news/29900"/>
+        <updated>2022-03-25T03:55:43.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：《
+
+2022 年是 DAO 元年吗？
+
+》
+原文作者：Beam | H.Forest Ventures
+
+
+2020 年夏天，我们利用 AMM 打通了去中心化世界关于金融的最后一点点障碍，之后借贷平台 Compound 推出
+
+Token
+
+，该
+
+Token
+
+用于在称为流动性挖矿的过程中作为奖励发放给用户，随后无数模仿 DeFi 概念的其他协议纷纷涌现，Token 价格飙升，DeFi 爆发了。我们叫它 DeFi Summer，或者我们把 2020 年称为 DeFi 元年。
+ 
+
+2021 年 3 月，经过 14 天的网上竞价，美国一名艺术家的数字作品《每一天：前 5000 天》最终以折合人民币约 4.5 亿的价格成交。随后，海量的用户和资金如潮水般涌入 NFT 领域，PFP 市场一图难求，受此热潮影响以太坊 gas 费居高不下，这一年，被我们称为 NFT 元年。
+
+
+2022 年，当我们习惯了以暴富效应划分的年月日，当我们习惯海量资本的涌入，当我们习惯了不眠不休地挖矿、抢白，下一次的概念爆发，下一次的叙事升级，下一次的宏大视角，应该诞生在哪个赛道？
+
+
+有人说，2022 年，应该是 DAO 元年。
+
+
+然而实际上，当你在搜索栏键入「DAO 元年」时，会发现从 2016 年起的每一年都被称为 DAO 元年。
+
+
+元年，元年，哪一年才是真正的元年，未来，未来，DAO 的未来究竟什么时候来。
+
+
+01 现代组织的另一种可能
+
+
+1937 年，罗纳德·科斯，即科斯定理的提出者，在其具有里程碑意义的文章《企业的性质》与《社会成本问题》（这两篇文章让他获得了 1991 年诺贝尔奖）中提出：当参与市场交易的成本太高时，人们会自然地组织在一起，形成多少有些正式的机构，比如协会、合伙企业、公司、商会或其他类型的组织。
+
+
+传统组织在运作与生产时，容易遇到的交易成本问题，主要是…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫聊数字身份与Web3]]></title>
         <id>https://www.theblockbeats.info/news/29892</id>
