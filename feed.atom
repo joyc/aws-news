@@ -2,10 +2,291 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-25T06:10:28.684Z</updated>
+    <updated>2022-03-25T12:13:40.611Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[零成本获利1亿美元，目瞪口呆的稳定币套利策略]]></title>
+        <id>https://www.theblockbeats.info/news/29909</id>
+        <link href="https://www.theblockbeats.info/news/29909"/>
+        <updated>2022-03-25T10:40:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《How One Stablecoins Arbitrage Strategy Quietly Making US$113 Million Profit in 4 Months without Capital》
+原文作者：EigenPhi
+原文编译：0x137、0x22D，律动BlockBeats
+
+
+TL;DR
+
+
+1. 在过去四个月里，针对 MIM-UST 的套利策略收益超过 1.13 亿美元。
+
+
+2. 这本质上是一个不需要资本投入的高级闪电贷策略，仅依靠支付 gas 费就获得高达 650 倍的回报，不用像三明治套利那样向矿工支付高昂「小费」，也不需要智能合约的编码能力。
+
+
+3. 该策略始终在相对「低调」的流动性池中寻找机会，因此不容易被公众尤其是三明治攻击者发现。
+
+
+4. 因为该策略使用闪电贷，在交易过程中没有仓位，因此无任何风险敞口。此外该策略涉及两种 Stablecoin，降低了 Stablecoin 崩盘带来的不确定性。
+
+
+5. 像 EigenPhi 这样的工具能帮助我们洞察到不断增加的闪电贷流动性，它们为类似的套利策略提供了几乎无限的免费杠杆，需要特别注意。
+
+
+「在沉默中努力，让成功自己发声。」—— 佚名
+
+
+关于 NFT、三明治攻击和 Flashbots 的 MEV 话题在过去几个月吵得震耳欲聋。要利用这些策略，必须知道如何将复杂的指标编织到智能合约的代码中，不断切换 Token 和流动性池，这需要大量的开发、更新和代码调试工作，以适应新兴或者不断完善的协议。更不用提为成功执行三明治策略而不断飙升的资本投入，尤其是在涉及 Stablecoin 的情况下。
+
+
+然而，自 2021 年 11 月 14 日以来，一个不需要开发智能合约、仅在 MIM 和 UST 两个 Stablecoin 之间执行的套利策略，却收割了超过 1.13 亿美元的利润…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近期你需要关注的10个NFT项目]]></title>
+        <id>https://www.theblockbeats.info/news/29906</id>
+        <link href="https://www.theblockbeats.info/news/29906"/>
+        <updated>2022-03-25T08:01:32.000Z</updated>
+        <summary type="html"><![CDATA[撰文：0x21&0x555，律动 BlockBeats
+
+
+过去的一个月里，NFT 市场出现了剧烈的波动，以太坊上 Gas fee 一度低至个位数, 引起了 NFT 玩家的恐慌，NFT 进入熊市的观点在社区各个社区中蔓延。曾经稍有人气的 NFT 项目「一白难求」的场面一去不回，造成现在玩家手里即使拥有很多白名单，却不敢 Mint 的局面。许多即将发售的 NFT 项目也因为市场的原因选择不同程度的延期。
+
+
+随着 ApeCoin 的发行，重新点燃了人们对 NFT 市场的热情，OpenSea 的交易总额虽然并没有达到 1 月初的峰值，但是也明显有了好转。以 BAYC 和 Azuki 为首的 NFT 蓝筹项目屡创新高。
+
+
+即将发售的 NFT 中也不乏质量精美，团队专业的项目。
+
+
+根据当前社区的热度，律动 BlockBeats 整理了近期值得关注的 NFT 项目汇总如下。
+
+
+KOPOKO
+
+
+
+
+
+
+
+
+
+推特粉丝：14K
+
+Discord：邀请制
+
+发售时间：3.29
+
+
+简介：KLONE 是由艺术家 KOPOKO 设计的新一代虚拟形象，每一个都是手工制作。总量共 1000 个，其中有 9 个稀有和 1 个超级稀有，共 300 个白名单，每个白名单可以铸造 2 个 KLONES，铸造价格为 0.08ETH，其余 400 个 KLONES 将参与公开发售。
+
+
+Mutant Shiba Club
+
+
+
+
+
+
+
+推特粉丝：226K
+
+Discord 在线：17,911
+
+发售时间：3.30
+
+
+简介：Mutant Shiba Club 是一个相比来说制作周期和宣传周期都长的 NFT 项目，从 2022 年 1 月 1 日开始宣发便迅速在社交媒体引起讨论，无论是画面质量还是热度都非常出色，无疑是本月即将发售的重点 NFT 项目。
+
+
+LonelyPop
+
+
+
+
+
+
+
+推特粉丝：3…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3求职者必读：Paradigm合伙人解读Token激励]]></title>
+        <id>https://www.theblockbeats.info/news/29904</id>
+        <link href="https://www.theblockbeats.info/news/29904"/>
+        <updated>2022-03-25T08:01:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Token compensation: a brief explainer for job candidates》
+原文作者：Dan McCarthy，Paradigm
+原文编译：0x9F，律动 BlockBeats
+
+
+过去的几个月里，人才市场对 Web3 公司产生了重大转变。来自 Web2 技术、传统金融和大律师事务所的优秀人才涌入了这一领域，但他们往往并不十分了解加密公司通用的薪酬结构。
+
+
+假设你是这些人当中的一员，并且你得到了一份薪酬附带 Token 的工作机会。在你签署（或不签署）入职合同之前，一定要了解你能得到什么，以便对标更「标准」的薪酬方案对其评估。
+
+
+加入 Web3 创业公司的一大好处是，许多情况下薪酬里带有 Token，有时还与传统股权相结合。我们要清楚：Token 本质上并不是传统的股权，但它们可能有一些粗略相似之处。与股权一样，Token 能大幅升值，而且它们往往比标准股权更早具有流动性。Token 权利还可以让员工直接参与并为他们正在构建的协议做出贡献，从而增加更多的激励一致性。
+
+
+作为一个潜在员工，你应该考虑到 Token 有别于传统的股权（例如，期权或 RSU），只不过有几个相似之处：
+
+
+1. 与获得股权激励一样，获得 Token 激励也是有代价的——Token 价值与网络规模相关，要想让 Token 不贬值，就得促进网络规模增长，你要为此努力。
+
+
+2. 公司应该会设法使 Token 激励尽量不影响员工纳税。具体来说，员工不必为尚未流通的 Token 或 Token 权利报告大量收入（这将要你自掏腰包履行纳税义务）。
+
+
+3. 大多数公司会根据每个人持有的相对股本，从保留的 Token 池中向员工分配 Token，因此 Token 激励通常可以看成股权激励。
+
+
+Token 价值：发行前或发行后
+
+
+谨记 Token 激励的一个关键点在于激励是在 Token 发行前还是发行后。发行前的 Token 激励通常类似早期私人公司股票的期权结构。发行前的 Token 在铸造时价值很低，其价值主要取决于未来一些尚不确定的发行活动。与股票期权一样，收到还没上市的 Token 没有税收负担——但它们在使用时可能会产生税款，就像你在行使 NSO（非限定股票期权）时要纳税一样。
+
+
+Token 发行后的激励则不一样，它的一些属性让人联想到受限股票单位（RSU）。Token 在一个有流动性的市场中（尽管它们可能受到分配周期和锁仓的限制），而且接收者在收到 Token 后会被立即征税。如果你的 Token 还在分配周期，你应该考虑提交一个 83(b) Election，以尽量减少还在分配周期的 Token 对税收的影响。不然，基于当时市场价格，这些 Token 都是你要报告的收入。
+
+
+分配周期
+
+
+大多数 Token 激励从你受雇第一天开始，就处于分配周期中，类似于传统股权的分配周期表。如果你没有在整个分配周期表中维持雇员身份，你就会失去一部分 Token 激励。再说一次，你要为此努力。
+
+
+Token 激励通常也会有一个单独的锁仓，防止你在一定时间内转移你处于分配周期的 Token。例如，你可能会获得发行之后的 Token，但在网络启动后的一年内都无法出售。锁仓通常有豁免条款，允许你在锁仓期到期前对 Token 进行质押或投票。
+
+
+虽然有关联，但分配周期和锁仓是不一样的，因为分配周期意味着有没收的风险，其目的是使雇员激励措施与网络长期增长相一致，而锁仓只是一种转移限制，更侧重于防止倾销。
+
+
+纳税
+
+
+最后，与所有激励措施一样，你都应该咨询律师或税务顾问，特别是如果你的 Token 激励涉及传统股权激励中不常见的机制（例如，交易窗口、以公司达到特定里程碑为条件的锁仓期或将股权转换为 Token 的选项）。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talk With ENF：聊一聊Web3生态中的二次融资]]></title>
+        <id>https://www.theblockbeats.info/news/29905</id>
+        <link href="https://www.theblockbeats.info/news/29905"/>
+        <updated>2022-03-25T08:01:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《聊一聊二次融资以及如何在 Web3 中为公共产品提供资金 | 非正式柚谈 005 期》
+原文来源：EOS 网络基金会
+
+
+2022 年 3 月 24 日 21：00，由 EOS 网络基金会发起的非正式柚谈（Talk With ENF）005 期开播！本期活动，我们邀请到了 EOS Nation CEO Daniel Keyes 以及.gems CEO Martin Breuer，做客 EOS 网络基金会中文 Twitter Space，与大家分享有关「二次融资以及如何在 Web3 中为公共产品提供资金」等话题。
+
+
+本文为本次 AMA 活动的精彩内容回顾，内容有所编辑。
+
+
+开场白
+
+
+主持人 Daisy：
+
+
+各位区块链生态的老朋友新朋友们，大家晚上好！很高兴非正式柚谈（Talk With ENF）又与大家见面啦，我是本次活动的主持人 Daisy。
+今天这期节目，我们有幸邀请到了 EOS Nation CEO Daniel Keyes 以及.gems CEO Martin Breuer。
+
+
+依据惯例，我们都会为正在参与活动的大家准备惊喜福利，今天这次 AMA 也不例外，EOS 网络基金会联合 Pomelo，为大家带来双重惊喜福利：
+
+
+活动预热阶段在 EOS 网络基金会的活动推特下留言您感兴趣的问题，被嘉宾选中回答的 5 位幸运提问者每人将可获得 20 EOS 奖励。
+
+
+另外，EOS 网络基金会将在完成推特活动任务的用户中抽取 10 名幸运奖，每人获得 10 EOS 奖励。
+
+
+福利多多，诚意满满，今晚 AMA 的精彩内容千万不要错过哦！
+
+
+行了，那接下来咱们切入正题。让我们首先欢迎嘉宾们自我介绍一下！
+
+
+EOS Nation CEO Daniel Keyes：
+
+
+大家好，我是 EOS Nation 的 CEO Daniel Keyes，很高兴再次做…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于以太坊合并，这些流传已久的错误观点需要厘清]]></title>
+        <id>https://www.theblockbeats.info/news/29903</id>
+        <link href="https://www.theblockbeats.info/news/29903"/>
+        <updated>2022-03-25T07:01:32.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：domotheus，加密 KOL
+原文编译：0xCC，律动 BlockBeats
+
+
+原文标题：《ethereum should know: Proof of Stake edition》
+
+
+
+随着合并的临近，越来越多的文章在向人们发出信号：它确实快要临近了。这也带来了和 PoS 相关的一系列问题的讨论，人们在反复讨论着同样的话题和同样的误解。在上周 Kiln 测试网成功合并时，我已经在一定程度上看到了这一状况，今后我们还会看到更多类似的东西，所以我将一些常见的问题、观点归纳如下。
+
+
+每当看到有人提出这些观点时，我就可以把这篇文章分享给他，我希望大家也可以这样做。如果本文存在一些纰漏，还望斧正或提出补充建议。
+
+
+
+什么是合并？
+
+
+
+更多的信息可以在 ethmerge.com 上找到，所以本部分将简单介绍。
+
+
+在合并之后，Ethereum 将采取 PoS（股权证明）而不是 PoW（工作量证明）共识。合并并非「ETH 2.0」、也不存在「ETH 2.0」，这已经是一个过时的术语。
+
+
+如果是 ETH 持有者，则不需要做任何事情。合并后你仍将持有相同数量的 ETH，没有「ETH2 币」，也不需要进行任何迁移。一切都完全相同，只有共识机制发生了变化。
+
+
+之所以被称为「合并」，是因为 ETH 将信标链（共识层）与现存的链（执行层）合并，并抛弃了执行层的 PoW 部分。
+
+
+解释一下，「共识」只是一个花哨的词汇，其含义是指如何对交易进行排序并保证安全性。PoW 和 PoS 都是实现共识的不同手段。
+
+
+PoW："打乱区块顺序的成本太高了，因为按规则办事更划算。"
+
+
+PoS：「扰乱区块顺序的成本太高了，因为如果我这样做就会失去我抵押的所有钱。」
+
+
+由于只是共识机制的改变，PoS 本身并不会大幅降低 Gas 费用。
+
+
+
+为什么合并？
+
+
+
+降低安全成本，因为达成…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THORchain的无清算借贷，可能是改变DeFi的王牌]]></title>
         <id>https://www.theblockbeats.info/news/29901</id>
