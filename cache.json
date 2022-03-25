@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/29907",
+          "author": null,
+          "description": "原文标题：《Web3 基础设施——Pocket Network》\n原文作者：Beam，H.Forest Ventures\n\n\n「 2022 年 EthDenver 上，协议专家 Daniel Olshansky 就 Pocket network 进行了演讲，同时他们为那些与 Pocket 集成的最佳项目分发多个奖品来支持生态系统的发展。 」\n\n\nPocket network 通过在所有区块链参与者（应用程序开发人员和全节点运行者）之间建立激励机制，并通过分散的节点结构提供对区块链数据的访问，属于 web3 基础设施赛道。简单来说，Pocket network 的使命是为 web3 应用程序提供可靠的、区块链不可知的、去中心化的 API 访问，而成本远远低于中心化竞争对手（如 Infura）。\n\n\n在了解 Pocket network 具体是做什么的之前，需要了解一下 web3 应用程序开发的相关知识。如果你是一个开发者，在完美运行你的协议之前，比如你在公链上部署了一个借贷协议，用户来与你的协议进行交互，你需要来自公链上的数据，这通常是以 API 会话请求的形式进行操作的。目前，区块链开发者们一般是使用像 Infura 这样的中心化区块链基础设施调用和返回公链上的数据。\n\n\n但这其实有一个隐患，这些 web3 的 API 提供商购买数据中心、自建服务器并投入硬件研究的费用相当高，所以大部分的 web3 API 提供商通常是在现有的 web2 平台上运行的（如 AWS，亚马逊云）。也就是说，在我们从上到下的去中心化架构里，出现了一个关键环节是中心化的。\n\n\nPocket network 可以解决这个问题，它是一个围绕着节点的供给和需求建立的价值交换平台，其生态参与者分为：\n\n\n节点的供给方，他们可以采用质押 POKT 的方式加入协议，提供节点运营服务；\n\n\n节点的需求方，即各类…",
+          "link": "https://www.theblockbeats.info/news/29907",
+          "publishedOn": "2022-03-25T14:04:45.000Z",
+          "wordCount": null,
+          "title": "详解Pocket Network：Web3基础设施",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/29909",
           "author": null,
           "description": "原文标题：《How One Stablecoins Arbitrage Strategy Quietly Making US$113 Million Profit in 4 Months without Capital》\n原文作者：EigenPhi\n原文编译：0x137、0x22D，律动BlockBeats\n\n\nTL;DR\n\n\n1. 在过去四个月里，针对 MIM-UST 的套利策略收益超过 1.13 亿美元。\n\n\n2. 这本质上是一个不需要资本投入的高级闪电贷策略，仅依靠支付 gas 费就获得高达 650 倍的回报，不用像三明治套利那样向矿工支付高昂「小费」，也不需要智能合约的编码能力。\n\n\n3. 该策略始终在相对「低调」的流动性池中寻找机会，因此不容易被公众尤其是三明治攻击者发现。\n\n\n4. 因为该策略使用闪电贷，在交易过程中没有仓位，因此无任何风险敞口。此外该策略涉及两种 Stablecoin，降低了 Stablecoin 崩盘带来的不确定性。\n\n\n5. 像 EigenPhi 这样的工具能帮助我们洞察到不断增加的闪电贷流动性，它们为类似的套利策略提供了几乎无限的免费杠杆，需要特别注意。\n\n\n「在沉默中努力，让成功自己发声。」—— 佚名\n\n\n关于 NFT、三明治攻击和 Flashbots 的 MEV 话题在过去几个月吵得震耳欲聋。要利用这些策略，必须知道如何将复杂的指标编织到智能合约的代码中，不断切换 Token 和流动性池，这需要大量的开发、更新和代码调试工作，以适应新兴或者不断完善的协议。更不用提为成功执行三明治策略而不断飙升的资本投入，尤其是在涉及 Stablecoin 的情况下。\n\n\n然而，自 2021 年 11 月 14 日以来，一个不需要开发智能合约、仅在 MIM 和 UST 两个 Stablecoin 之间执行的套利策略，却收割了超过 1.13 亿美元的利润…",
