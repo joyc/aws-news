@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-03-26T00:32:49.880Z</updated>
+    <updated>2022-03-26T06:10:04.751Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBF、Circle创始人等知名企业家谈NFT、稳定币，金融与监管]]></title>
+        <id>https://www.theblockbeats.info/news/29910</id>
+        <link href="https://www.theblockbeats.info/news/29910"/>
+        <updated>2022-03-26T03:52:50.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Foundational technology for a new financial system
+
+》
+原文来源：Bank for International Settlements
+
+原文听译：阿法兔，阿法兔研究笔记
+
+
+
+
+
+
+
+2022 年 3 月 23 日至 3 月 24 日，国际清算银行（BIS）召开了国际清算银行创新峰会，其中在 Panel 1 讨论环节中，邀请了 Circle 的 CEO Jeremy Allaire、FTX 的 CEO Sam Bankman-Fried 和 Fireblocks 的 CEO Michale Shaulov。
+
+
+笔者全程参加了会议并对内容进行了听译，到底加密领域的知名企业家如何看到央行数字货币？如何看待监管和技术创新之间的关系？以下是 Panel 1 的全文。
+
+
+*注：由于设备和网络、语速等问题，笔者对原话的揣摩不一定准确，仅供参考，必要的地方增加了注释由读者自己来做推演和判断，以会议官方表达为准。不提供任何投资建议，不接任何 PR 需求，本文不构成任何投资上的建议。
+
+
+
+核心观点摘要
+
+
+· 未来，我们将看到相当多的去中介化的现象。用户可以更公平地进入金融市场，我们正在趋近于一个世界，在这个世界里，每个用户，无论是一家复杂的交易公司，还是普通人，都可以获得公平的金融应用、协议和流动性。
+  
+· 从本质上讲，NFT 不仅仅是数字艺术，它实际上还存在其他影响，包括安全、参与其他金融应用等等。而且我们实际上看到很多参与者，包括很多大的资产管理公司和投资银行，他们开始研究如何将 NFT 传播到一级和二级市场。
+ 
+· 大家将能够为抽象访问 DeFi 的去中心化的的金融空间的复杂性。但真正的问题在于，到底谁将能够创造最好的体验，持续链接这些服务的体验，这仍然是一个开放问题。
+ 
+· 新的基础设施，正在为价值…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将互联网还给用户（二）]]></title>
+        <id>https://www.theblockbeats.info/news/29908</id>
+        <link href="https://www.theblockbeats.info/news/29908"/>
+        <updated>2022-03-26T02:12:50.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+深入研究用户拥有的互联网：第二部分
+
+》
+原文作者：Sofia Blikstad
+原文编译：Block unicorn
+
+
+Web3 旨在赋予网络中的任何参与者自治的权力和控制权，但要去除中介，我们需要将网络层与应用层分开的方法，进入数据中心。
+
+
+社会已经变得依赖数据，我们的经济正日益成为数据经济。然而，这种经济目前依赖于少数几个数据孤岛：出于竞争原因，大型科技垄断企业将我们的数据保密。在本文中，我将介绍分散数据层--这是理解 Web3 用例的先决条件概念。
+
+
+但在我继续梳理我们所处的 Web3 仙境之前，让我们做一个简短的回顾。Web3 通常被描述为去中心化的网络，但仍是一个正在建设中的术语。然而，最终目标是成为一个安全、透明和依赖的点对点生态系统--新的和改进的网络。要做到这一点，我们需要将网络层与应用层分开。那么，让我们来看看数据吧。这是《深入研究用户拥有的互联网：第二部分》，请点击此处阅读第一部分。
+
+
+Web3 的相关技术
+
+
+这个领域的许多建造者最初被早期的意识形态--隐私、权力下放和自我主权--所吸引，许多人把它们误认为是价值主张 (包括我自己)。然而，出于这些原因，普通最终用户并不采用技术。相反，Web3 最强大的功能是它可以通过递增的可组合性进行扩展和改进--有才华的构建者改进事物的状态，而更多有才华的构建者在顶端改进。
+
+
+虽然有大量令人眼花缭乱的技术、框架和链实现属于 Web3 保护伞，但以下是支持这一点的核心技术：
+
+
+1. 加密密钥和分散标识 (DID) 可实现直接数据管理，使任何人都可以签署、交易和参与分散网络。
+2. 智能合约确保经济活动在可执行代码中是公开、透明和基于规则。
+3. 数据可组合性允许对等网络自由共享代码、数据和合同并与之交互，封闭的网络正在变得开放。
+4. 分布式存储系统可以跨多个服务器拆分数据，并根据内容而…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[详解Pocket Network：Web3基础设施]]></title>
         <id>https://www.theblockbeats.info/news/29907</id>
@@ -817,48 +901,6 @@ Startup with Chainlink 希望成为区块链行业中最有利于创始人发展
         <link href="https://www.theblockbeats.info/news/29883"/>
         <updated>2022-03-24T03:31:39.000Z</updated>
         <summary type="html"><![CDATA[英伟达GTC专题讨论会：如何构建工业元宇宙]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对Layer2有关键影响的EIP-4844，V神是如何解读的？]]></title>
-        <id>https://www.theblockbeats.info/news/29882</id>
-        <link href="https://www.theblockbeats.info/news/29882"/>
-        <updated>2022-03-23T14:37:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Proto-Danksharding FAQ
-
-
-
-》
-原文作者：Vitalik Buterin
-原文编译：
-
-Kyle，巴比特
-
-
-
-以太坊创始人 Vitalik Buterin 近日针对与 Proto-danksharding（又名 EIP-4844）有关的疑问近了解答。Danksharding 为以太坊提出的新分片设计，这种技术究竟能带来什么？
-
-
-什么是 Danksharding？
-
-
-Danksharding 是为以太坊提出的新分片设计，与之前的设计相比，它引入了一些显着的简化。
-
-
-自 2020 年以来的所有最近的以太坊分片提案（包括 Danksharding 和之前的 Danksharding）与大多数非以太坊分片提案的主要区别在于以太坊以汇总（Rollup）为中心的路线图：以太坊分片没有为交易提供更多空间，而是为数据提供，以太坊协议本身不会尝试解释。验证 blob 只需检查 blob 是否可用，即是否可以从网络下载。这些 blob 中的数据空间预计将由支持高吞吐量事务的第 2 层（Layer2）Rollup 协议使用。
-
-
-Danksharding 引入的主要创新是合并费用市场：不再有固定数量的分片，每个分片都有不同的区块和不同的区块提议者，在 Danksharding 中，只有一个提议者选择进入该槽的所有交易和所有数据.
-
-
-为避免这种设计对验证者提出高系统要求，我们引入了提议者/构建者分离 (PBS)：称为区块构建者的一类特殊参与者竞标选择 slot 的权利，提议者只需要选择出价最高的有效 header 即可。只有区块构建者需要处理整个区块（在这里，也可以使用第三方去中心化预言机协议来实现分布式区块构建者）；所有其他验证者和用户都可以通过数据可用性采样非常有效地验证区块（请记住：区块的「大」部分只是数据）。
-
-
-什么是 proto-dan…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
