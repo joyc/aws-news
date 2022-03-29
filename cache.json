@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/29940",
+          "author": null,
+          "description": "原文标题：《Ronin  Community Alert: Ronin Validators Compromised》\n原文来源：Ronin 博客\n原文编译：胡韬，链捕手  \n\n\n\n关键点\n\n\n \n \nRonin 桥被盗 173,600 ETH和 2550 万 USDC。\n\n\n \nRonin 桥和 Katana Dex 已经停止使用。\n\n\n \n我们正在与执法人员、密码学家和投资者合作，以确保所有资金都得到追回或报销。Ronin 上的所有 AXS、RON 和 SLP 目前都是安全的。\n\n\n \n今天早些时候，我们发现在 3 月 23 日，Sky Mavis 的 Ronin 验证器节点和 Axie DAO 验证器节点遭到破坏，导致在两笔交易（ 1 和 2 ）中从 Ronin 桥接了 173,600 个以太坊和 2550 万美元的 USDC。攻击者使用被黑的私钥来伪造假提款。我们今天早上在报告用户无法从跨链桥中提取 5k ETH 后发现了这次攻击。 \n\n\n\n 有关攻击的详细信息\n\n\nSky Mavis 的 Ronin 链目前由 9 个验证节点组成。为了识别存款事件或取款事件，需要九个验证者签名中的五个。攻击者设法控制了 Sky Mavis 的四个 Ronin 验证器和一个由 Axie DAO 运行的第三方验证器。 \n\n\n验证器密钥方案被设置为去中心化的，因此它限制了与此类似的攻击方向，但攻击者通过我们的无gas RPC 节点发现了一个后门，他们滥用该后门来获取 Axie DAO 验证器的签名。  \n\n\n这可以追溯到 2021 年 11 月，当时 Sky Mavis 请求 Axie DAO 帮助分发免费交易，因为用户负载巨大。Axie DAO 允许 Sky Mavis 代表其签署各种交易。这已于 2021 年 12 月停止，但未撤销许可名单访问权限。 \n\n\n一旦攻击者获得了 Sky …",
+          "link": "https://www.theblockbeats.info/news/29940",
+          "publishedOn": "2022-03-29T16:31:30.000Z",
+          "wordCount": null,
+          "title": "Ronin被盗官方梳理：6天前发现漏洞，5个私钥被盗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/29937",
+          "author": null,
+          "description": "原文标题：《加密之「眼」：Worldcoin 正在推动一场社会学实验》\n原文作者：Jiawei（Twitter：@Elegy4TheArctic）  \n\n\n据 tripleA 估算，截至 2021 年，全球拥有超过 3 亿加密货币用户，平均拥有率为 3.9%。\n\n\n在此背景下，由著名硅谷孵化器 Y Combinator 的前 CEO Sam Altman 联合创办的 Worldcoin，愿景纯粹而又显得有些疯狂：推出「一种新的、集体拥有的全球货币，公平地分配给尽可能多的人」；「在一个人人共有的加密网络中连接第一批十亿用户」。\n\n\n称其「疯狂」是因为，比特币筚路蓝缕地走过十三年的时光，才堪堪使加密货币迈过 3 亿用户的里程碑。\n\n\n但 Worldcoin 团队提出了让人无法拒绝的理由：「区块链和密码学等革命性新技术可以让我们共同做一些甚至政府都无法做到的事情——在全球范围内增加个人赋权和机会平等」。\n\n\n如此浪漫的叙事，理所当然地吸引了一些顶级风投：\n\n\n去年 6 月，Worldcoin 以 10 亿美元的估值融资了 2500 万美元，Digital Currency Group、Coinbase Ventures、a16z、Multicoin Capital，以及包括 LinkedIn 创始人 Reid Hoffman 和 FTX 创始人 Sam Bankman-Fried 在内的天使投资人参投。今年 3 月底，Worldcoin 以 30 亿美元估值筹集 1 亿美元融资，a16z 继续加码。\n\n\n然而，这样的漫长道路不免遇到一些阻碍——大规模分发的首要问题是：如何使 Token 分发到真正的「人」手中，而非代码或机器？如何避免同一人的重复领取？即，在不进行任何 KYC 的情况下，如何证明你是你？\n\n\nWorldcoin 给出的答案是加密之眼——「Orb」。\n\n\nThe O…",
+          "link": "https://www.theblockbeats.info/news/29937",
+          "publishedOn": "2022-03-29T14:25:30.000Z",
+          "wordCount": null,
+          "title": "30亿美元的乌托邦概念，Worldcoin的社会学实验",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/29938",
           "author": null,
           "description": "原文标题：《「It's Pretty Wild To Have The Opportunity To Shape The Future Of Finance..」Tim Beiko Talks About Life In The Ethereum Foundation & The Merge》\n原文作者：Dennis Ray，CryptoStaker\n原文编译：Kxp，律动 BlockBeats\n\n\n\nTim Beiko 是 Ethereum 基金会的知名人物之一，他的文章及 Ethereum 相关的内容更新多次被大型金融新闻机构转发。\n\n\n\n从 2018 年开始，他便在 Ethereum 从事全职工作，直在 2021 年就任 Ethereum 基金会之前，他一直在 Joseph Lubin 的 ConsenSys 工作。\n\n\n作为负责协议升级和开发者会议的领导人之一，Tim 目前正大力筹备 Ethereum 的合并事宜。按照计划，合并将在今年夏天进行。\n\n\n\n在本期当中，我和 Tim 聊了聊 Ethereum 合并、Ethereum 主流采用情况、他在 Crypto 中最大的遗憾以及与 Vitalik Buterin 一起工作的感受等话题。\n\n\n\n我还询问了r/Ethereum、r/ethStaker 和 r/CryptoCurrency有没有什么想问的问题，并从中选出了一些不错的问题，等待 Tim 为我们做出解答。\n\n\n\nTim，在我们进入正题之前，能跟我们简单的介绍一下自己吗？你工作的动力又源自哪里呢？\n\n\nTim：「最令我兴奋的事情莫过于带领项目从研究阶段落实到实际开发阶段，也就是整个研发过程的完成。Ethereum 正致力于发展交叉学科创新，并将其纳入了核心路线图。所以对于像我这样的人来说，Ethereum 简直再好不过了。我还从与我一同共事的人的身上学到了很多东…",
@@ -163,26 +183,6 @@
           "publishedOn": "2022-03-28T01:48:30.000Z",
           "wordCount": null,
           "title": "人是新的Web3平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29914",
-          "author": null,
-          "description": "原文标题：《Realmverse 来了！颠覆游戏理念的 Loot 潜能将被打开》\n原文来源：D1 Intern’s Newsletter\n原文作者：D1 Intern\n\n\n作为 Loot 生态的衍生品项目，D1 Ventures 认为，凭借其背后团队强大的游戏开发和解决实际问题的能力、广泛吸纳第三方独立开发者后的社区潜力、一个设计得当的游戏内循环经济系统，以及降低进入门槛扩展普通玩家的机制，Realms 有潜力成为 a next big game on chain。\n\n\n另一方面，从目前为止发布的 NFT 资产及其已释放\n\nToken\n\n LORDS 市值来看，D1 Ventures 认为，该项目处于被低估的状态，随着近期交付关键时间节点的来临，Realm 有潜力跃升成为最有影响力的 Loot 元宇宙游戏项目（如果说不是唯一一个）。毕竟，对于 Loot 持有人来说，在经历 Loot  颠覆了人们对 NFT 的想象、Mint 若干个无用归零的 Loot 衍生品后，终于迎来了第一个具有可玩性和经济收益的链上游戏。\n\n\nRealms 简介\n\n\nRealms 团队黑客松起家，一开始目标仅为 Loot 生态（Loot 及其衍生品资产）呈现数据图谱相关的 dashboard，后 Bibliotheca 的团队加入，其愿景也变成「在二层链上帮助不断扩展基于互动元游戏的链上 hyperverse」。\n\n\n作为 Loot bag 的衍生品，Realms 初始发行的资产为 8000 个 Realm NFT 地块，这是一系列王国城邦，每一个 Realm NFT 都有自身独特的地理位置：它们或为城市或为地区，或毗邻河流水域或临近港口；每一个 Realm 都盛产不同的矿产资源，总共有 22 种不同 Resources （资源）的组合，每种资源的数量（稀缺度）各不相同；此外，有 50 个 Realm …",
-          "link": "https://www.theblockbeats.info/news/29914",
-          "publishedOn": "2022-03-27T02:34:09.000Z",
-          "wordCount": null,
-          "title": "Realms，可玩性与经济收益兼备的Loot衍生链游",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29913",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《别怕，其实 Web3.0 的世界很安全》\n\n\n \n\n「我钱包里的 ETH 都没了！」近日 DeFinance 创始人 Arthur 在社交媒体上表示其遭受鱼叉式网络钓鱼攻击。理论上来说 Web3.0 其实应该是更安全的。Web2.0 应用常遇到的 DoS 攻击也被 Gas 机制所解决。本文出自加密钱包 ZenGo 联创 Tal Be'ery，文中就 Web3.0 固有的安全优势进行了详细解读，并提出了现存问题的潜在解决方案。\n\n\n \n\n《所有的异见，都是时间的函数》\n\n\n \n\n听《三五环》播客，主播与 Flomo 创始人少楠的聊天中，提到「新技术并不代表好产品，二者间不是等号的关系」，最经典的例子就是 iPhone，在那个各大品牌手机比拼各种键盘、音乐播放、滑盖折叠旋转等等新功能的年代，iPhone 降临。但我们能说追求键盘、音乐播放、滑盖折叠旋转的手机做错了吗？不能。正如 Mable 在即刻上所说，「我们大家之间所有的异见，都是时间的函数。」本文 Matti 的这篇《Unfollow the Money》译成中文，希望能为读者带来新的角度与思考。\n\n\n \n\n《THORchain 的无清算借贷，可能是改变 DeFi 的王牌》\n\n\n \n\n最近关于 DeFi 的讨论中，我反复听到了一个名字——THORchain，这个沉默数月的项目，最近似乎又有了一些热度。原本只是打算作为一个热点追踪，却在仔细研究后变得有些兴奋，THORchain 即将推出的 THORFi，很可能成为 DeFi 借贷的新模式。\n\n\n \n\n《Banner 会是 N…",
-          "link": "https://www.theblockbeats.info/news/29913",
-          "publishedOn": "2022-03-27T01:34:09.000Z",
-          "wordCount": null,
-          "title": "周末荐读：Banner会是NFT市场中的下一片蓝海吗；以太坊2.0将带来的5大变化",
           "imageUrl": null
         }
       ]
