@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/29945",
+          "author": null,
+          "description": "摘要\n\n\n· 基于 1 期基金的强势表现，gCC 成立了更大的 2 期基金。 \n\n\n· gCC1 期基金的资产价值从 2100 万美元增长到 5.16 亿美元，获得了 24.6 倍的基金回报倍数（TVPI）（截至 2022 年 1 月 4 日）。 \n· 这使得 gCC 1 期基金在所有风险投资公司中的表现排名前 1%。（根据 AngelList 的数据）。 \n\n\n· gCC 2 期基金将在全球范围内投资 50 家左右的杰出初创公司，行业涵盖基础设施、开发工具、游戏、DeFi、Metaverse、DAO 和公会以及 Web3 应用等。 \n\n\n· gCC 2 期基金通过初始及后续投资的形式，每个项目的投资额预计将在 50 万至 500 万美元之间。 \n\n\n· Hironao Kunimitsu、Rui Zhang 和 Miko Matsumura 三位来自 gCC 1 期基金的合伙人将会领导 gCC 2 期基金。\n\n\n\n3 月 31 日，gumi Cryptos Capital (gCC)，领先的区块链行业风险投资公司，今日宣布完成 1.1 亿早期美元基金融资，将专注于投资区块链行业初创公司。这是基于其支持种子阶段创始人的 2100 万美元的 gCC 1 期基金的优秀业绩表现。\n\n\ngCC 1 期基金投资了 36 家公司，并已为该领域许多优秀的企业家提供了支持，其中包括领投 NFT 交易平台 OpenSea 的战略种子轮和参投 YGG 游戏公会种子轮。gCC 1 期基金的投资组合中还包含许多独角兽项目的早期投资，包括 Celsius Network、Qredo、Agoric、Astar、 1inch 以及 VEGA protocol 等。\n\n\n执行合伙人张睿（Rui Zhang）表示，「我们在区块链行业中经验丰富、有自信、有信用、持续提供增值，长期偏好，是一家专注于独角兽和巨无…",
+          "link": "https://www.theblockbeats.info/news/29945",
+          "publishedOn": "2022-03-31T00:00:27.000Z",
+          "wordCount": null,
+          "title": "gumi Cryptos Capital (gCC) 完成1.1亿早期美元基金融资，投资区块链行业初创公司",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/29949",
           "author": null,
           "description": "原文标题：《The 25 crypto startups that Y Combinator is backing in its W22 batch》\n原文来源：Lucas Matney，TechCrunch\n原文编译：\n\n深潮 TechFlow\n\n\n\n硅谷第一孵化器 Y Combinator 也曾是 WEB3 明星企业的摇篮，Coinbase、OpenSea 等从这里走出。\n\n\n \n\n一个有意思的事情是，Y Combinator 的金融科技和加密货币负责人 Harj Taggar 最近接受 The Block 时透露，当 Coinbase 参加 2012 年夏季计划时，YC 并不相信 Crypto。\n\n\n \n\n如今，越来越多的加密初创企业出现在 YC 的 DEMO DAY 中，在最新的 W22 中，有 25 家初创企业加入其中，这是来自 Techcrunch 记者 Lucas Matney 的搜集整理，与大家分享。\n\n\n \n\nSimpleHash\n\n\n简介：「SimpleHash 允许 Web3 开发人员从单个 API 查询所有 NFT 数据。我们为多个区块链编制索引，处理边缘案例，提供快速媒体 CDN，并且可以在几行代码中集成。」\n\n\n \n\n创始人：Alex Kilkka 之前是 NFT 社交网络 Showtime 的联合创始人，Olly Wilson 是 Portage Ventures 的 EIR。\n\n\n \n\n评价：NFT 市场在 Ethereum 上已经取得了巨大的进步，但众所周知，未来任何与 NFT 相关的主流都将依赖于降低交易成本的第二层区块链。这为初创公司创造了机会，同时也给他们带来了跨链难题，SimpleHash 正在试图将其简化。\n\n\nNFTScoring\n\n\n简介：「NFTScoring 是你发现、分析和交易 NFT 的地方。我们为您提供了在任何特定时…",
@@ -143,96 +153,6 @@
           "publishedOn": "2022-03-28T14:52:42.000Z",
           "wordCount": null,
           "title": "从互联网市场发展，预测Web3趋势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29924",
-          "author": null,
-          "description": "原文作者：Lito Coen\n原文编译：0x9F，律动 BlockBeats\n\n\n本文梳理自 CryptoTesters 创始人 Lito Coen 在个人社交媒体平台上的观点，律动 BlockBeats 对其整理翻译如下：\n\n\n众所周知我看好 ETH，所以我想分享一些我认为安全且收益高的 ETH 收益方式。这些高收益技巧涉及利用有息的 ETH Token（如 stETH）。\n\n\n以太坊最大收益指数\n\n\n这是因为在 DeFi 借贷协议中，ETH 的借贷利率远低于质押获得的利息。以太坊最大收益指数（ETHMAXY）正好可以实现这一点。\n\n\n\n\n\n\n\n它由 stETH 组成，stETH 作为抵押品存入，借出 ETH 并兑换成 stETH 再存入——这个过程重复进行，直到 Token 的杠杆率达到 3 倍。用户什么都不用管，买 Token 就行了，杠杆会由 Galleon DAO 控制。\n\n\n优点：易于使用，一键操作\n\n\n缺点：2% 的流动性费用，声称的 10% APR 貌似是错的，可能要低一点。\n\n\n奖励：你可以通过 ETHMAXY/ETH 的流动性挖矿在 GBL 和 DRINK 官方 Token 中获得 10% 的额外收益，但要注意这可能会由于他们各自的价格而波动。\n\n\nInstadapp 智能合约钱包\n\n\n实现这一杠杆的另一种方法是使用 Instadapp 的智能合约钱包。\n\n\n\n\n\n\n\n它的工作原理完全相同，唯一的区别是在这里你自己管理自己的头寸。Instadapp 只是允许你使用 Flash loans 将多个交易捆绑在一起。\n\n\n存入 stETH -> 借出 ETH -> 在 Curve 兑换成 stETH 并存入……你可以用 4 倍杠杆达到 8.7% 的 APR。\n\n\n优点：更高的杠杆率，不用给「managers」流动性费用。\n\n\n缺点：gas 费成本高，因为这涉及…",
-          "link": "https://www.theblockbeats.info/news/29924",
-          "publishedOn": "2022-03-28T10:03:07.000Z",
-          "wordCount": null,
-          "title": "8种套利收益方式，只需ETH借贷和质押",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29923",
-          "author": null,
-          "description": "原文标题：《\n\n从 MVP 到 MVD：Web3 思维的演化之路\n\n》\n原文来源：NFTGo\n\n\n\n从最小可行性产品到最小可行性 DAO\n\n\n\nMVP 这一概念最初由 Eric Ries 在《精益创业》（Lean Startup）中提出，意思是用最快、最简明的方式建立一个可用的产品原型，通过这个最简单的原型来测试产品是否符合市场预期，并通过不断的快速迭代来修正产品，最终适应市场需求。\n\n\n\n快速试错，快速迭代。通过创造产品，满足用户需求，需求转化功能，功能带来用户增长。\n\n\n\n而如今，由 DAO 而起的社区形态正让这个创新飞轮发生范式转变。随着 2021 年加密热潮兴起，据估计，DAO 现在共有大约 100 万参与者。根据 ConsenSys 的数据，Top 20 DAOs 合计持有超过 140 亿美元的数字资产。此前，我们往往会说，没有好的创意和想法便没有用户，消费者通过数据货币化成为新的产品。在 Web3 领域，某种程度上，没有社区基础，便没有项目，消费者由「产品」转变为社区成员、投资者、利益共享者等多元角色。\n\n\n\n权利等级制度变得更加扁平化，Web3 促进了创造者驱动的经济，同时奖励消费者参与，从而开启社交网络的新时代。下一次，在开始设计一个 MVP 前，不如从对产品本身的价值假设这一端，转化到以社区为基础的共识交换思维。\n\n\n\n价值假设（Value Hypothesis）：用户是否认为产品对他有用、有价值，用户是否会觉得产品「惊艳」、「远超其他产品」？\n\n\n\n共识交换（Consensus  Exchange）：发起者通过提出一个有价值的共识，驱动更多人凝聚起来相互影响，进行价值交换及自主传播，用户是否认同这个价值？\n\n\n\n\n试想，用户如何成为你的利益共享者和创业伙伴，而不单单是你的消费者？\n\n\n\n\n  图片来源：NFTGo.io  \n\n\n4M 要素开启 MVD\n\n…",
-          "link": "https://www.theblockbeats.info/news/29923",
-          "publishedOn": "2022-03-28T09:48:07.000Z",
-          "wordCount": null,
-          "title": "当消费者成为创业伙伴：谈最小可行性DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29922",
-          "author": null,
-          "description": "原文标题：《NFT 预言机赛道分析》\n原文作者：DaPangDun、zhihong、realAlitta\n\n\n一、引言\n\n\n承接上篇，我们分析了NFT 的流动性问题，在文章中，我们指出：\n\n\nNFT 要想与 DEFI 进行结合，其中非常重要的基础设施就是「NFT 预言机」\n\n\n本篇我们将与大家一起探讨市面上 NFT 预言机相关项目及其所采用的的定价机制或模型，以全面了解这个赛道当前的发展方向和发展情况。\n\n\n二、项目调研\n\n\n我们搜集了目前针对 NFT 价格的预言机项目，主要有：\n\n\nAbacus 、Upshot、Nftgo、Banksea\n\n\n其中 Nftgo 暂时未查找到关于其相关的预言机机制，官网说会开发，估计没做好，所以排除\n\n\n我们来一个个了解\n\n\n1、Abacus\n\n\n主网站、白皮书、相关资料\n\n\n1.1 介绍\n\n\nAbacus 有两套定价机制：\n\n\n1）同行激励定价（在上一篇文章中已经详细说明了，参考 3.5）\n\n\n\n\n\n  Abacus 的同行激励定价模型介绍\n  \n\n2）Abacus Spot（在上一篇文章中已经详细说明了，参考 3.5）\n\n\n**Abacus Spot 通过为交易者创造一个流动市场来推测 NFT 池的价值，实现对 NFT 实时估值。**流动性是由交易者最初进入资金池并在其整个生命周期内进一步铸造产生的。该协议通过要求所有者通过向持有人支付费用或通过公开拍卖将收益与池中的流动性交换来退出，将 NFT 交易的价值与真实的 NFT 价值挂钩。\n\n\n1.2 它是如何工作的？\n\n\n1.2.1 创建一个池\n\n\n1）NFT 所有者首先将其 NFT 存入池库，选择退出费用，代表其 NFT 池的 Token 的初始 NFT 估值。NFT 现在被锁定在池中，提取它的唯一方法是支付退出费或在拍卖中出售。\n\n\n2）开始对池\n\nToken\n\n进行荷兰拍卖（以初始 …",
-          "link": "https://www.theblockbeats.info/news/29922",
-          "publishedOn": "2022-03-28T09:43:07.000Z",
-          "wordCount": null,
-          "title": "梳理NFT预言机赛道，Upshot等3个项目对比",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29921",
-          "author": null,
-          "description": "原文标题：《\n\nVibe，Web3 的不可或缺\n\n》\n原文作者：AlphaPing（@byobu4）、吴六木（@WuLiumu）\n\n\n「你听说过 Vibe 风吗？」如果你是一位潮流圈的玩家，过去 2 年你可能听过，甚至追随过这个潮流。潮流圈资深玩家认为：「Vibe 的精髓就在于随意感，穿着单品只取决于你个人审美中最舒适的一环，一旦陷入搜寻「氧化鞋底」的套路，就会变成刻意生硬的摆拍，失去真正自在随性的 Vibe，你刻意维持的样子是对「Vibe」精神最大的违背」。\n\n\n很显然，随意、舒适、自在、自然等关键词是 Vibe 最重要的内核。\n\n\n在 web3，在各种 DAO 里，我们同样看到 Vibe 的影子，通过对多个不同 DAO 的观察和自身经历，我们逐渐发现 vibe 的重要性。在这篇文章中，我们试图从通过对一些 DAO 的观察来理解 Vibe，欢迎和我们一起探讨。\n\n\nFWB（一个 DAO）创始人 Trevor 接受纽约时报的采访时，他说道，在 FWB，大家能得到的是 Vibe，token 反映出 Vibe 的价值。作为 web3 最具标志性的 DAO，FWB 显然是 web3 里「Vibe 风」践行得最彻底的 DAO。那究竟什么是 Vibe?\n\n\n\n\n\n本篇目录\n\n\n什么是 Vibe？\n\n\n为什么 Vibe 如此重要？\n\n\nVibe 对 DAO/web3 社区来说意味着什么？\n\n\nVibe 的产生方式？\n\n\n什么样的行为会削弱 Vibe？\n\n\n本期相关播客：EP05：确认过眼神，遇上 Vibe 的人\n\n\n什么是 Vibe？\n\n\n什么是 Vibe？似乎它就像艺术品，我们难以给出一个精确和官方的定义，但我们试图从几个侧面去理解它。Vibe 直译是「共鸣、氛围、感应」，其中我认为在中文语境里，「共鸣」最能传达这种状态。「共鸣」在物理意义上是指物体因共振而发声的现象，在精神层面是指…",
-          "link": "https://www.theblockbeats.info/news/29921",
-          "publishedOn": "2022-03-28T08:29:07.000Z",
-          "wordCount": null,
-          "title": "高于meme的Vibe，Web3世界不可缺少的元素",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29920",
-          "author": null,
-          "description": "原文标题：《A&T Talk：古典 VC 为何改「道」——和 Web2 VC 聊 Web3》\n原文来源：\n\nAnT Capital 微信公众号\n原文作者：\n\nA&T Capital\n\n\n\n\n\n以下为近期 A&T 小伙伴与两位同业深入交流的文字记录，我们邀请到两位转型 Web3 投资的传统机构资深投资人，以下简称 Peter、David（均为化名），和他们一起聊聊作为有丰富传统投资经验的投资人，在转型做 Web3 投资中的逻辑和思考。\n\n\n\n\n\n法律免责声明：\n\n以上内容，仅代表嘉宾个人学术意见，供行业学习交流，不代表本机构及嘉宾任职机构立场和观点。\n\n\n\n\n\n问：你是什么时候开始相信 Web3 的？\n\n\n\n\n\nPeter：\n\n\n\n从我 2016 年参加一个 Hackathon 的时候就开始了。那段时间，以太坊刚刚遭遇了众所周知的 DAO 黑客攻击，但我看到的是，虽然 ETH 经历非常大的冲击，但那时候很多开发者只是专注于 build 有趣的东西，而不是非常在意 ETH 的价格涨跌。\n\n\n\n\n\nTodd:\n\n\n\n我是从 2021 年 1 月开始相信 Web3 的。虽然我从 2018 年开始加入 Crypto 世界，但我不会把 Crypto 视为 Web3，它只是更多关于区块链，一种新技术。直到我看到 Mirror.xyz，它确实给这个行业带来了一些不同的东西和价值。与 Web2 平台的知乎或 Medium 相比，Mirror 为内容创作者提供了一个选择，可以帮助他们筹集在创作过程中需要的资金。而这在 Web2 中是很难实现的。\n\n\n\n\n\nPeter:\n\n\n\n如果站在用户体验的角度，我确实同意你对 Mirror 看法。对我来说，DeFi 也是 Web3，尽管他们不是 Web3 的应用。在 Uniswap 之前，有一个很有名的 DEX 叫 DDEX，我是那个应用的活跃的用户，因为…",
-          "link": "https://www.theblockbeats.info/news/29920",
-          "publishedOn": "2022-03-28T08:29:07.000Z",
-          "wordCount": null,
-          "title": "古典VC在Web3投资中的逻辑与思考",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29918",
-          "author": null,
-          "description": "FTX .US 董事长 Brett Harrison 昨日发文表示在 Gather 建设了一个线上办公室，方便进行工作沟通。还有许多其他的 Web 3 从业者也开始探索使用 Gather 开会，使会议变得更加有趣。我们期望未来可以在元宇宙中承载工作与生活，Gather 用我们熟悉的电子游戏画风，在现实世界与元宇宙之间建起了一座桥梁，那么 Gather 到底有什么魅力可以吸引这么多人使用呢？\n\n\n\n\n\n\n\n项目简介\n\n\n \n\n当你的办公室看起来像一个电子游戏时，的确比枯燥地面对着电脑要吸引人得多。Gather 最初于 2020 年 5 月由四个从未见过面的团队成员发起，主要希望解决「如何在线上与远方的朋友、家人保持亲密关系」的问题。也就是希望人们在虚拟世界里，也可以达到和现实世界中交互一样的效果。\n\n\n \n\n人们不仅可以在这里工作，还能进行学习和社交。整个界面采用像素风的设计，用户进行登入时，可以根据自己的用途，建立一个自己的空间，官网中给了三种模版，建立办公区，组织活动，或者探索其他社交，选中后确定人员规模和空间名称，即可创建。\n\n\n \n\n\n\n\n \n\n\n网站上会给出不同风格的模版供用户自行选择，除了选择传统办公室样式之外，还可以选择海盗船、空间站、公园等，当然，用户也可以选择完全从零开始自己创造自己想要的办公室，这也带给了用户玩建造类游戏的快乐。在这之后，用户可以从中建立自己的虚拟角色并命名，确认自己的麦克风与视频功能都打开后，用户就可以进入到自己建造的空间了。\n\n\n \n\n\n\n\n \n\n\n进入空间后如下所示，可以看到画面中间有一个自己的小小化身，用户可通过键盘中的「WSAD」四个按键操纵化身上下左右走动。\n\n\n \n\n\n\n\n \n\n\nGather 中最有特色的就是化身在场景之中的互动。当你的化身在靠近别人的化身的一定范围内，界面上方会弹出视频画面，视讯功能就会自主开启，双方可自由…",
-          "link": "https://www.theblockbeats.info/news/29918",
-          "publishedOn": "2022-03-28T04:42:30.000Z",
-          "wordCount": null,
-          "title": "Gather：FTX 都在使用的会议平台 ｜ 项目介绍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29917",
-          "author": null,
-          "description": "原文标题：《NFT Minting Behavior: What does the data teach us about the market?》\n原文来源：Nansen\n\n\n\nNFT 铸造者的行为，可以作为短期市场趋势的一个信号。利用 Nansen 面板数据，我们探讨了与 NFT 铸造有关的趋势。\n\n\n总结\n\n\n在 Chainalysis 之前分享的见解，观察到，20% 的 NFT 铸造者们在 Mint 阶段从购买的 NFT 中实现了利润。虽然他们的报告确立了 NFT 铸造者的优势，但它促使我们更深入地挖掘 NFT 铸造者的行为。利用来自 Nansen 仪表板的数据，我们探索与 NFT 铸造有关的趋势。我们的分析显示，NFT 铸造者的行为可以作为短期市场趋势的信号，就像我们观察矿工的行为作为比特币价格的代表一样。\n\n\n来自 Nansen NFT 指数和市场趋势面板的数据捕捉到了近期市场的下跌趋势，这样的趋势也反映在 NFT 矿工的行为中。我们的发现揭示了这样一个现象：3 分之一的铸造 NFT 中就有一个高于地板价和铸造成本，成交。同样地，3 分之一 NFTs 中，最终成为没流动性的收藏品，在铸造后几乎没有交易活动。\n\n\n通过 NFT 铸造者行为了解 NFT 市场\n\n\n\n\n\n\n\n在过去的 30 天里，我们看到 NFT 市场出现了轻微下跌，Nansen NFT-500（ETH）指数以 ETH 计价时下跌了-5.23%，以美元计价时下跌了-0.89%。这样的走势与大盘走势一致，由于市场预期加息以及俄罗斯和乌克兰之间的战争，市场情绪主要是「风险厌恶」。这样的情绪也反映在铸造的销售量上，在过去 30 天里，销售量有所下降。虽然 Nansen NFT-500 指数反映了这种市场情绪，但我们也能够通过 NFT 铸造者们的行为观察到这种趋势。\n\n\n\n\n\n自 2022 年开始，用于铸造的…",
-          "link": "https://www.theblockbeats.info/news/29917",
-          "publishedOn": "2022-03-28T03:48:30.000Z",
-          "wordCount": null,
-          "title": "Nansen：从NFT mint数据看市场短期趋势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29915",
-          "author": null,
-          "description": "原文来源：BlackHoleDAO\n\n\nBlackHoleDAO 是一个基于 DAO 治理的去中心化资产管理协议。在 DeFi 3.0 基础之上构建了一套全新的标准化模型，被称之为「BlackHole DAO Protocol(BHDP)」，BHDP 销毁机制借鉴传统股票市场拆分与合并原理解决了市场高通胀与通缩之间的不平衡问题。推出鉴于 DAOs 信用借贷服务。\n\n\n简单的理解成一个资产管理公司服务协议，在这个协议里面包含拆分和合并功能，基于协议本身又做了无抵押信用贷服务。\n\n\n\n1.0 协议组成部分\n\n\n\n\n\n\n协议的重要组成部分：\n\n\nBHDP：BlackHole DAO Protocol(黑洞资产自治管理协议)\n\n\nBHDP 极致通缩公式：X-【X/(Y*H)】=Z\n\n\nVC Pool：拥有一切优质 Token 资产的资金池\n\n\nDonation Pool：一种由投资机构，DAOs 和个人投资能获取高额回报的资产池。\n\n\nDAOs：是指各种不同的 DAO 社区\n\n\nTransaction Fee Pool：交易税累计资产池\n\n\nBlack Hole Reactor：到达一定数量 BUSD，反应堆会被打开\n\n\n1.1BHDP 设计亮点\n\n\nBHDP 是 BlackHole DAO Protocol 协议的全名称，从上述图可以看出，协议是由一个国库来支撑，其中智能合约衔接了 VC Pool 和 Donation Pool，VC Pool 支持多资产凭证来投资，其中一部分用于销毁流动性池中的 BHO，另外一部分用于 DAOs 投资成功之后的信用贷，而 Donation Pool 接受投资机构、DAOs 团队即个人 BUSD 直接投资，最终按 BUSD 进行回报，其中 Transaction tax pool 支撑了 Donation Pool、DAOs 社区、Black H…",
-          "link": "https://www.theblockbeats.info/news/29915",
-          "publishedOn": "2022-03-28T02:48:30.000Z",
-          "wordCount": null,
-          "title": "详解去中心化资产管理协议BlackHoleDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/29916",
-          "author": null,
-          "description": "原文标题：《People are the New Platforms》\n原文作者：David Phelp\n原文编译：Block unicorn\n\n\n\n\n\n在 Web3 中，平台通过成为协议而成功——这意味着人们通过成为平台而成功。可能不再有三个词的畏缩组合，但是——上帝保佑我们——扎克是对的：\n\n\n「我已经谈了很多我认为我们应该以人为中心而不是应用程序来设计我们的计算平台，我想这就是我所说的。\n\n\n在今天的手机上，最基本的元素是应用程序，对吗？这就是你的手机的组织原则和你如何驾驭它。\n\n\n但我希望，在未来，组织原则将是你，你的身份，你的东西，你的数字产品，你的人脉，然后你将能够在不同的体验和不同的设备之间无缝地切换。」 ——采访本·汤普森\n\n\n尽管马克·扎克伯格听起来可能与现实脱节，但不幸的是，他与他新品牌的虚拟世界非常接触，这一点让我们注意三个方面。\n\n\n首先，扎克伯格从碎片化中感觉到了铺设在线铁路轨道的机会--这是一项将普遍适用于互联网、甚至可能适用于所有计算机的「组织原则」。我们可以说，互联网仍然在一个相当于农业的经济中运行，因为最宝贵的数字商品--数据--被委托给各个平台的地方：Spotify、YouTube、Twitter、TikTok，当然还有 Facebook。扎克伯格认为，虚拟世界是这些地方经济体之间的一条铁路，允许它们在获得用户许可的情况下交换数据。有权力的用户并不意味着他们有财务上的好处。毕竟，扎克伯格的在线铁路轨道建设也是一种代价。\n\n\n其次，尽管扎克伯格希望铺设轨道，使数据能够跨平台普遍传输，但他也想让数据收集、控制和交流变得更加分散。扎克伯格暗示，新互联网的基础是一种储藏箱，里面塞满了被遗忘的毛衣和我们最喜欢的乐队的废弃海报：「你的身份，你的东西，你的数字产品，你的人脉。」扎克伯格明白，在 Web3 中，碎片化是不可避免的，因为用户开始拥有和管理他…",
-          "link": "https://www.theblockbeats.info/news/29916",
-          "publishedOn": "2022-03-28T01:48:30.000Z",
-          "wordCount": null,
-          "title": "人是新的Web3平台",
           "imageUrl": null
         }
       ]
