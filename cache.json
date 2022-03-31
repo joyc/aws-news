@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/29960",
+          "author": null,
+          "description": "原文标题：《STEPN：Gamefi2.0，身体意识，高等快乐与社交属性》\n原文作者：Jinji 金桔、Mingzin，N-SPACE DAO\n原文编辑：Mingzin\n\n\nWeb3.0 世界可以定义为虚拟现实 (virtual reality) 和增强现实 (augmented reality) 所形成的空间，实现了获得定义「现实」的权力和演绎其数字化呈现。但这种「逼真拟像」与物理世界错综复杂的关系也无法避免地和现实产生极大的暧昧。在这之前，《使命召唤》、《战地》等游戏早已经通过混淆现实大型事件（如战争）等方式模糊着现实世界与虚拟世界的界限。\n\n\n随着区块链领域新颖玩法的迭代革新，全新商业模式的出现也促使了 GameFi 的兴起。GameFi 是游戏行业向「新食利资本主义」转型的产物，它采用全面资产化的经营模式获取盈利。在 GameFi1.0 中，由于激励机制的娱乐性极大幅度缩减，玩家在自愿的情况下也被迫地变形成为了为受资本诱惑驱使的无情「打金机器」；这也在某种意义上加剧了玩家用户在虚拟世界身份认同的集体焦虑，游戏从娱乐产品（或有更深刻的学习、社交性）也变相成了机械作业般的束缚。\n\n\n与 GameFi1.0 不同的是，以 STEPN 为代表的 GameFi2.0 游戏正在着手完善虚拟空间的线下可扩展性与社交属性、虚拟与物理空间的互通。STEPN 用户通过精神价值体现，运动理念与社交属性三重奏下满足了 GameFi1.0 语境下所被长期忽视的、虚拟世界和物理世界双重身份焦虑的心理诉求，以此完成共识性文化与落地性完整建设。\n\n\n\n\n\nSTEPN 尝试解决了传统 GameFi 娱乐性和投资性所象征的矛与盾。投资回报作为首要目的的 GameFi1.0 长期存在如下问题：\n\n\n1. 资金盘普遍缺乏可长期运行的经济模型，NFT 价值与用户数量在经历峰值后，都无法避免长期缓慢下降的结果…",
+          "link": "https://www.theblockbeats.info/news/29960",
+          "publishedOn": "2022-03-31T09:08:32.000Z",
+          "wordCount": null,
+          "title": "STEPN：GameFi2.0，身体意识，高等快乐与社交属性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/29958",
+          "author": null,
+          "description": "内容来源：《Unchained Podcast》Ep.335\n\n内容整理：0x137，律动 BlockBeats\n\n\n从 1 月 27 日开始，被标记为 Luna 基金会（Luna Foundation Guard，LFG）的地址里比特币持仓量不断增加，平均两天增持约 3000 枚 BTC。\n\n\n\n\n\n\nLuna 基金会持仓数据，律动将持续更新\n\n\n\nTerra 发展至今已经成为了加密行业不可忽视的庞大生态，TVL 仅次于以太坊、UST 也成为了第四大 Stablecoin。但在生态不断生长的同时，不少人也开始担心 LUNA 死亡螺旋的风险。\n\n\n此前，Tether 的 USDT 也曾持有部分 BTC 作为抵押，因此不少人将 LFG 此次购入 BTC 的行为视为对「LUNA 庞氏」的支撑。\n\n\n然而 UST 与 USDT 有着很大的区别，UST 的目标是成为全球最大的去中心化 Stablecoin，这就要求 UST 保持中立的资产身份。在这样的背景下，将 BTC 纳入 UST 背书体系就有了超越简单经济学的意义。\n\n\n最近 Terraform Labs CEO Do Kwon 接受了知名加密播客《Unchained Podcast》采访，回答了有关 UST 新背书机制、Anchor 收益以及 THORchain 集成 LUNA 的问题，律动 BlockBeats 将相关内容整理翻译如下：\n\n\n\n关于 UST 新背书机制\n\n\n新机制如何运行？\n\n\nLFG 最近宣布，正在通过 BTC 启动一个大规模外汇储蓄。LFG 为其提供了 30 亿美元启动金，但 LFG 希望 BTC 储蓄能在未来一年成为 UST 市值的重要部分。\n\n\n此前，用户需要用 1 美元 LUNA 兑换 1 UST，目的是通过 LUNA 的张缩来吸收对于去中心化 stablecoin 的需求波动。目前 Terra …",
+          "link": "https://www.theblockbeats.info/news/29958",
+          "publishedOn": "2022-03-31T08:08:32.000Z",
+          "wordCount": null,
+          "title": "对话Luna创始人Do Kwon：UST的比特币赌局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/29956",
+          "author": null,
+          "description": "原文来源：Ankr\n\n\nWeb3 基础设施平台 Ankr 近期推出了一套全新的区块链游戏 SDK（软件开发工具包 Software Development Kit），为开发者提供了一种与 Web3 交互的简单方法，特别是从 Web3 基础设施到 NFT、市场和多链钱包等一整套资源，让构建区块链游戏变得更加简单。\n\n\nAnkr SDK 帮助游戏工作室在流行的 Unity 和 Unreal 引擎上将游戏连接到 Web3（Unreal 即将发布），使用现成的解决方案节省大量时间。\n\n\n轻松集成区块链、Crypto 和 NFT\n\n\nAnkr SDK 提供了一站式解决方案，通过提供完整的区块链、Crypto 和 Web3 功能帮助游戏提升到更高的级别。\n\n\n轻松集成 Web3 钱包\n\n\n让玩家轻松连接 Web3 钱包，通过游戏内部交易获得更优秀的用户体验。\n\n\n打造一流的 NFT 策略\n\n\n轻松访问集成，为游戏开发环境中的所有资产铸造、出租和交易 NFT。\n\n\n针对移动 Web3 进行了优化\n\n\n确保玩家获得最灵敏、最愉快的移动体验。\n\n\n打造无缝多链体验\n\n\n帮助游戏检测、连接到多链，并在多链间快速切换。\n\n\n发布和分发游戏 Token\n\n\n创建游戏内 Token 并将其传递给世界各地的玩家。\n\n\n点此下载 Unity SDK 。\n\n\nAnkr SDK 在区块链游戏中的应用\n\n\n轻松将游戏连接到目标区块链\n\n\nAnkr SDK 帮助游戏在 BNB Chain、Ethereum、Polygon、Fantom、Avalanche 等平台上运行。未来，还将允许开发者在自己的链上构建游戏，同时根据需要连接到其他子网，实现子网跨链。\n\n\n解锁创新的 GameFi 奖励解决方案\n\n\n在游戏中实现 DeFi 无限潜力，通过集成 Staking、DEX、借贷等应用程序，为玩家提供更多 Play-to-earn 解决方案。\n\n\n游戏发行后为玩家提供无缝体验\n\n\n社区希望游戏玩法快速且无缝。高性能的 Ankr Protocol 节点可以确保游戏内道具和 NFT 能够快速轻松地进行交易，并保障不会造成游戏中断。通过全球独立提供商运营的企业级节点，为全球用户提供更可靠、快速和高效的体验。\n\n\n处理极端游戏流量和规模\n\n\n随着游戏玩家的指数增长，游戏发行商的基础设施也需要随之扩展。Ankr Protocol 节点遵守最高性能基准和技术规范，以确保基础设施始终符合用户平台需求。\n\n\n保持游戏基础设施去中心化\n\n\n去中心化是区块链游戏的关键，Ankr Protocol 与区块链宗旨一致，通过全球分布的独立节点提供商来支持区块链游戏，避免出现单点故障。\n\n\n未来前景\n\n\n据 DappRadar 显示，目前市场上已经有近 1500 个区块链游戏，我们可以肯定地说，未来几年将会出现更多的区块链游戏项目。Ankr 致力于持续为开发者提供行业领先 Web3 基础设施，随着区块链游戏的不断发展壮大，Ankr 也将携手和合作伙伴创造更多新功能和机会，为行业带来更多优秀产品。 \n\n\n本文来自投稿，不代表律动 BlockBeats 观点。  \n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/29956",
+          "publishedOn": "2022-03-31T07:08:32.000Z",
+          "wordCount": null,
+          "title": "Ankr发布区块链游戏SDK，将游戏轻松连接到Web3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/29955",
+          "author": null,
+          "description": "原文作者：0xclancularius，律动 BlockBeats\n\n\n\n\n\n如果说，几天前 Web2 的投资人在直播中怀旧和 Web3 新生从业者人人顶着几万美元的头像聊要不要辍学的场景，已经让大家感觉到 Web2 与 Web3 的割裂，那 3 月 30 日晚，Web3 世界一级市场的热情让割裂的情绪达到高潮。\n\n\n\n\n\n几个小时内，数个项目宣布完成融资，金额少则数百万美元，多则 6.2 亿美元，粗略统计，一夜之间 Web3 世界就完成了超 10 亿美元的融资。红杉资本、a16z、Tiger Global 、Lightspeed 这些曾经在互联网世界大杀四方的顶级投资机构频频出现，选中了他们眼中的未来。\n\n\n红杉、a16z 这些老面孔大家已经很熟悉，律动也在《「All In Crypto」的红杉资本，今年一共投资了多少加密项目？》和《黑猫白猫》中介绍过，今天再为大家带另一家巨头 Lightspeed（光速资本）的介绍，本文原发布于今年1月，他们对加密的关注，势必是让 Lightspeed的名字频繁出现在Web3世界中。\n\n\n\n\n光速创投（Lightspeed Venture Partners）这个名字最近出现在加密世界的频率有点高。\n\n\n\n\n2022 年伊始，FTX 就扔下一枚重磅消息，宣布推出 20 亿美元的 Web3 创投基金 FTX Ventures，并招揽了光速创投合伙人 Amy Wu 来管理。消息一出，市场的焦点顿时落在已经有着 20 年 VC 历史的光速身上。\n\n\n\n\n\n2021 年 Crypto 市场的漫长牛市，催生了大量原生加密机构，也吸引了更多传统金融机构的目光，光速创投就是其中之一。这一年，光速创投不仅在 Crypto 一级市场频频出手，还与 FTX、Solana 联手推出一亿美元的链游基金，在 NFT、GameFi、DeFi、公链和基础设施的布局全面…",
+          "link": "https://www.theblockbeats.info/news/29955",
+          "publishedOn": "2022-03-31T05:08:32.000Z",
+          "wordCount": null,
+          "title": "Web3世界的新巨头，Lightspeed光速创投的Crypto布局",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/29951",
           "author": null,
           "description": "原文标题：《He became as rich as Mark Zuckerberg virtually overnight. How Binance founder 『C.Z.』 Zhao became a $74 billion man while moving fast and breaking things in crypto》\n原文来源：Vivienne Walt，Fortune\n原文编译：饼干，链捕手\n\n\n\n\n\n在伦敦最时尚的酒店，身材修长的 CZ 身穿深蓝色西装和白衬衫，在服务员眼中显得不起眼。因此，当他与其他富翁吃早餐时，服务员将他带到餐厅的一个荒凉的角落，在接下来的一个小时里，这位加密货币的超级亿万富翁仍然很低调。\n\n\n如果马克·扎克伯格走进来喝咖啡，马上会被服务员认出。诚然，CZ 与扎克伯格不同，在加密行业外几乎无人知晓。然而，这位 44 岁的 Binance 创始人兼首席执行官的身价与扎克伯格相当。彭博社估计，CZ 的净资产已高达 960 亿美元。尽管这个数字随着加密市场波动很大，到 3 月下旬仅为 740 亿美元，但这仍然使他成为地球上最富有的人之一。CZ 似乎对财富应该给别人留下深刻印象的想法感到困惑。「如果他们认为我的身价有那么多，那就随他们吧。」CZ 告诉我，「这是虚构的定价。」\n\n\n对于那些知道他的人来说，CZ 处于一个有可能彻底颠覆经济领域的行业顶端。无论用什么技术指标考核，他以闪电般的速度登顶。自 2017 年创立 Binance 以来，从无到有将其打造成为全球最大的加密货币交易平台，该平台现在大约拥有 1 亿用户。据该公司称，Binance 的交易量比任何其他平台都多得多，在 2021 年的加密繁荣年，总交易量达到惊人的 34.1 万亿美元，交易平台从每笔交易中收取佣金。Binance 内部消息人士称，根据交易量和费用以及加密货币的预计…",
