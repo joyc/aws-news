@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-02T06:09:10.464Z</updated>
+    <updated>2022-04-02T12:11:54.468Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深入解读LayerZero如何实现全链互操作性]]></title>
+        <id>https://www.theblockbeats.info/news/29994</id>
+        <link href="https://www.theblockbeats.info/news/29994"/>
+        <updated>2022-04-02T09:50:07.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《LayerZero - An Omnichain Interoperability Protocol》
+原文作者：Ryan Zarick，
+
+LayerZero Official
+
+
+原文编译：ETH 中文站
+
+
+对于跨链桥接和通信，基本上每一种现有的方案都是这两大类的其中一种：第一种是由一条形成共识的中间链在不同链之间验证和转发消息；第二种是在链上运行一个轻节点。我们来讨论一下。
+
+
+中间链 (Middle Chain)
+
+
+
+中间链接收、验证和转发各条链之间的消息。在这种模式下，中间链具有对所有消息的完全签名权，这种设计会使得其成为一个单点故障。在共识被破坏的情况下，所有链上的流动性都会立即被盗。现在的中间链仅与数亿美元的资产绑定，而需要保证数百亿美元资产的安全。随着这些链变得越来越去中心化，当这个巨大的蜜罐被利用时，问题就严重了。
+
+
+
+链上轻节点 (On-Chain Light Node)
+
+
+
+
+
+
+
+
+
+
+链上轻节点接收并验证对立链的区块头。包含消息的交易证明被转发并在链上对照区块头进行验证。这是在链之间传送消息最安全的方式。不幸的是，这也是最昂贵的。在以太坊上运行一个链上轻节点，每条对立链每天都要花费成千上万的美元。
+
+
+
+超轻节点 (Ultra Light Node)
+
+
+
+链上轻节点极其安全，但同时也极其昂贵。中间链不贵，但没那么安全。
+
+
+
+
+
+
+
+
+
+接下来介绍的是超轻节点 (Ultra Light Node, ULN)，具有轻节点的安全性和中间链的低成本。超轻节点通过执行与链上轻节点相同的验证来实现；但不是按顺序保留所有区块头，而是由去中心化预言机按需分发区块头。
+
+
+
+LayerZero
+
+
+
+LayerZero 是一个用户应用 User Application (UA) 结构的链上端点，这个端点运行着一个超轻节点 (ULN)。Laye…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定币利率长期高达20%，Anchor也是庞氏吗？]]></title>
+        <id>https://www.theblockbeats.info/news/29974</id>
+        <link href="https://www.theblockbeats.info/news/29974"/>
+        <updated>2022-04-02T05:24:07.000Z</updated>
+        <summary type="html"><![CDATA[撰文：0x76
+
+
+本文原本作为一篇讨论 PoS 公链中无风险利率文章中的典型案例写作，但过程中发现已经完全能够独立成篇，因此单独列出提前发表。
+
+
+Terra 可以说是目前加密行业中，金融架构设计最为复杂的公链。其原生稳定币 UST 的发行与锚定模式也引发了许多激烈的争议。本段我们暂且不去讨论 Terra 是否为旁氏骗局的问题，而是重点关注其生态中的两个重要利率：Luna 的 PoS 质押利率与 Anchor 的 UST 存款利率。
+
+
+谁才是 Terra 上的无风险利率？
+
+
+由于 Terra 的主要目标并不是单纯建立一个智能合约平台，而是发行稳定币 UST 并促进其采用。因此，Terra 的经济模型也与其他智能合约公链明显不同。Terra 的原生代币 Luna 不仅用于支付公链 gas 费以及参与治理，还需要通过燃烧 Luna 发行稳定币 UST。
+
+
+因此对于 Terra 来说，其生态中似乎天然存在着两套货币系统，而这两个代币也各自拥有相对独立的利率体系。其中一个是以 Terra 的 PoS 质押收益率决定的 Luna 利率，另一个就是由 Terra 中著名存款应用 Anchor 提供的 UST 稳定币存款利率。
+
+
+目前，Luna 的利率约为 7%，而 UST 在 Anchor 中的存款利率则高达 19.4%（见下图）。
+
+
+
+
+
+
+
+那么，谁才能够代表 Terra 生态的无风险利率？
+
+
+依据前文的分析可知，由铸币权担保的 PoS 质押收益率可以被认为是无风险的。因此，能够在 Terra 中进行 PoS 质押的 Luna 及其收益率显然更适合作为 Terra 的无风险利率。
+
+
+那么下一个问题便是，由 Anchor 提供的高达 19.4% 的 UST 存款利率，是否也可以被当作无风险利率看待？或者说，Anchor 提供的利率是同样由铸币权担保的，还是来自于协议正…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道吗？炒鞋的那帮人，现在去炒数字藏品了]]></title>
+        <id>https://www.theblockbeats.info/news/29973</id>
+        <link href="https://www.theblockbeats.info/news/29973"/>
+        <updated>2022-04-02T05:24:07.000Z</updated>
+        <summary type="html"><![CDATA[「炒鞋、炒手办潮玩早没那么火热了，现在圈子里都是炒数字藏品了。」球鞋玩家老刘介绍着。
+
+
+在 2019 年 9 月，Supreme 19 FW 的开季赠品伞兵玩具在二级市场上被炒至 2000 多元的消息刷爆了鞋圈，限量款球鞋、潮玩单品疯狂炒作，创造了无数的财富神话。但随着后来「鞋穿不炒」的监管限制，现在的球鞋潮玩市场早就没有了昔日的火热景象，甚至有些惨淡。鞋圈玩家平时除了偶尔盯一下限量款球鞋的发售，目光都转向了另一个市场——数字藏品。
+
+
+
+
+
+「给你看看这玩意有多赚钱，」老刘发来了一张数字藏品二级市场的报价截图，「这些原本只有几块钱甚至免费的图片，现在能卖几万块钱，你敢相信吗？」
+
+
+
+
+
+
+
+
+朋友圈中流传的数字藏品二级市场的报价图
+
+
+NFT 的名字早已传遍各个角落，在区块链应用中，成为比比特币更出圈的物种。文娱体育奢侈品带动了这个目前市值超过 170 亿美元的赛道的同时，数字藏品概念也火了。
+
+
+
+
+在国内腾讯、百度等各大厂的布局下，这个概念迅速崛起，A 股相关概念的二级市场表现已经惊人，而在另一片非公开的交易市场内，上演着更加夸张的财富效应。NFT 和数字藏品，这两个看似可以相互替换的名词，却有着完全割裂的市场和玩家。
+
+
+年轻人的新暴富梦
+
+
+「数字藏品能赚 7 万倍，NFT 能吗？」在谈及数字藏品和 NFT 时，00 后数字藏品爱好者小王问道。
+
+
+
+
+2021 年 9 月 24 日，蚂蚁集团声明称，接网友举报，蚂蚁链与阿里拍卖联手下架一起涉嫌网络欺诈的交易。一位 ID 名为「街舞怪才」的用户在拍卖平台发布「亚运会火炬」的相关竞价信息。蚂蚁链表示，「街舞怪才」在拍卖页面附上了数字火炬藏品的详情图，混淆了数字藏品和实体火炬的差异，对买家造成误导，涉嫌欺诈，因此平台下架对应违规商品并对用户进行相应违规处理。杭州亚运会火炬 NFT 限量发行 21000 份，售价 3…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3新创作者经济报告：144个创作者经济平台+100家VC]]></title>
         <id>https://www.theblockbeats.info/news/29971</id>
@@ -663,42 +819,6 @@ Ankr SDK 帮助游戏在 BNB Chain、Ethereum、Polygon、Fantom、Avalanche 等
 
 
 对于那些知道他的人来说，CZ 处于一个有可能彻底颠覆经济领域的行业顶端。无论用什么技术指标考核，他以闪电般的速度登顶。自 2017 年创立 Binance 以来，从无到有将其打造成为全球最大的加密货币交易平台，该平台现在大约拥有 1 亿用户。据该公司称，Binance 的交易量比任何其他平台都多得多，在 2021 年的加密繁荣年，总交易量达到惊人的 34.1 万亿美元，交易平台从每笔交易中收取佣金。Binance 内部消息人士称，根据交易量和费用以及加密货币的预计…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gumi Cryptos Capital (gCC) 完成1.1亿早期美元基金融资，投资区块链行业初创公司]]></title>
-        <id>https://www.theblockbeats.info/news/29945</id>
-        <link href="https://www.theblockbeats.info/news/29945"/>
-        <updated>2022-03-31T00:00:27.000Z</updated>
-        <summary type="html"><![CDATA[摘要
-
-
-· 基于 1 期基金的强势表现，gCC 成立了更大的 2 期基金。 
-
-
-· gCC1 期基金的资产价值从 2100 万美元增长到 5.16 亿美元，获得了 24.6 倍的基金回报倍数（TVPI）（截至 2022 年 1 月 4 日）。 
-· 这使得 gCC 1 期基金在所有风险投资公司中的表现排名前 1%。（根据 AngelList 的数据）。 
-
-
-· gCC 2 期基金将在全球范围内投资 50 家左右的杰出初创公司，行业涵盖基础设施、开发工具、游戏、DeFi、Metaverse、DAO 和公会以及 Web3 应用等。 
-
-
-· gCC 2 期基金通过初始及后续投资的形式，每个项目的投资额预计将在 50 万至 500 万美元之间。 
-
-
-· Hironao Kunimitsu、Rui Zhang 和 Miko Matsumura 三位来自 gCC 1 期基金的合伙人将会领导 gCC 2 期基金。
-
-
-
-3 月 31 日，gumi Cryptos Capital (gCC)，领先的区块链行业风险投资公司，今日宣布完成 1.1 亿早期美元基金融资，将专注于投资区块链行业初创公司。这是基于其支持种子阶段创始人的 2100 万美元的 gCC 1 期基金的优秀业绩表现。
-
-
-gCC 1 期基金投资了 36 家公司，并已为该领域许多优秀的企业家提供了支持，其中包括领投 NFT 交易平台 OpenSea 的战略种子轮和参投 YGG 游戏公会种子轮。gCC 1 期基金的投资组合中还包含许多独角兽项目的早期投资，包括 Celsius Network、Qredo、Agoric、Astar、 1inch 以及 VEGA protocol 等。
-
-
-执行合伙人张睿（Rui Zhang）表示，「我们在区块链行业中经验丰富、有自信、有信用、持续提供增值，长期偏好，是一家专注于独角兽和巨无…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
