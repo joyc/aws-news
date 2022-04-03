@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-03T12:11:38.937Z</updated>
+    <updated>2022-04-03T18:08:05.503Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -687,61 +687,6 @@ Discord 私信链接是是黑客常用的行骗手段，黑客往往会通过 Di
 
 
 Discord 服务器被黑客攻击几乎是每一个火爆的 NFT 项目都会经历的事情，黑客会攻击服务器管理员的账号，之后在服务器的各个频道发布假公告，骗社区成员去黑客早就搭建好的假网站购买假的 NFT。而如今的黑客会通过发送诈骗网站等方式骗取服务器管理员的 token，这样即使管理员开启 2FA 双重认证也无济于事。而如果黑…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supernova，首个Internet Computer全球黑客松]]></title>
-        <id>https://www.theblockbeats.info/news/29965</id>
-        <link href="https://www.theblockbeats.info/news/29965"/>
-        <updated>2022-04-01T03:27:41.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：Supernova 黑客松
-
-
-Internet Computer 是第三代区块链－它是全球开发和部署 Web3 DApp、DeFi、游戏、NFT、社交媒体和元宇宙项目最快、成本最低的区块链，支持项目扩容至百万级别用户，且完全上链。
-
-
- 
-
- DFINITY 基金会很高兴宣布将举办首届 Internet Computer 全球黑客松"Supernova"。本次黑客松将于 2022 年 5 月 10 日开启，并于 6 月 20 日收官，持续 6 周，参与者可于 6 月 20 日 23:45 分（太平洋时间）之前随时提交项目。
-
-
- 
-
- 本届黑客松总奖池叠加额外 Grants 总计 600 万美元，包含分赛道奖项和开发者基金。赞助者和裁判来自：Polychain Capital、ElectrInternet Computer Capital、火币、Foresight Ventures、Tomahawk.VC、Animal Ventures 等!
-
-
- 
-
- 时间表： 
-
-
- 
-
- 以下是 Supernova 黑客松的重要事件和里程碑一览表。
-
-
- 
-
- 
-
- 本届黑客松也包含一系列教育工作坊，介绍和演示如何在 Internet Computer 搭建去中心化的应用。考虑到时差，每个工作坊将安排两次：一次适合 UTC-7 到 UTC+3 时区（如美国、欧洲）参与者，一次适合其它时区（如亚洲）的参与者。全部工作坊的参与链接均可通过本页面查找，在每个工作坊开始前也会邮件通知。
-
-
- 
-
- · 3 月 29 日，星期二： Devpost 注册通道开启
-
-
- 
-
- · 3 月 29 日，星期二（太平洋时间上午 9:00 / 欧洲中部时间下午 6:00）：工作坊 #1：介绍在 INTERNET COMPUTER 上开发- Motoko 和 Rust（选项 1）
-
-
- 
-
- ·…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
