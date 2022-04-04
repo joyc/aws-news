@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-04T12:18:20.255Z</updated>
+    <updated>2022-04-04T18:11:37.241Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Buterin：为比特币最大主义者辩护]]></title>
+        <id>https://www.theblockbeats.info/news/30002</id>
+        <link href="https://www.theblockbeats.info/news/30002"/>
+        <updated>2022-04-04T13:18:48.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《In Defense of Bitcoin Maximalism》
+原文作者：Vitalik Buterin
+原文来源：Vitalik Buterin 官网
+原文编译：Captain Hiro，巴比特
+
+
+我们这么多年来一直听到的是——区块链是未来，比特币才不是呢；世界的未来不会只存在一种主要的加密货币，甚至不是几种，而是有许多加密货币——而获胜的加密货币将在一个中央控制下拥有强有力的领导，从而迅速适应用户的规模需求；人们还会说，比特币是一个「boomer coin‌（老掉牙的币种）」，以太坊很快就会跟上它的步伐，以太坊将是更新、更有活力的资产，它将吸引新一波的大众用户，他们不关心奇怪的自由主义意识形态或「私有财产神圣不可侵犯」，被有毒的和反政府心态拒之门外，他们只希望区块链 DeFi 和游戏能够快速、有效。
+
+
+但是，如果这种叙述都是错误的，而比特币最大主义者（Bitcoin Maximalist）的想法、习惯和做法实际上是非常接近正确的呢？如果比特币远不止是一个与网络效应挂钩的过时的文玩石头呢？如果比特币最大主义者实际上深深地明白，他们是在一个非常敌对和不确定的世界中运作，那里有他们需要争取的东西，而他们的行动、个性和对协议设计的理念深深地反映了这个事实呢？如果我们生活在一个由诚实的加密货币（其中有非常少的）和骗子的加密货币（其中有非常多的）组成的世界里，而为了防止前者转向后者，一定程度上的坚持（dose of intolerance）实际上是必要的呢？这就是我写的这篇文章要提出的论点。
+
+
+
+
+我们生活在一个危险的世界，保护自由是一件严肃的事情
+
+
+
+
+我希望这一点要比六周前更加明显，当时许多人仍然认真地认为弗拉基米尔 - 普京是一个被误解的善者，他只是想保护俄罗斯，把西方文明从「同性恋（北约）」的灾难中拯救出来。但这个观点仍然值得重复。我们生活在一个危险…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万向区块链肖风：在元宇宙思考「去中心化」]]></title>
         <id>https://www.theblockbeats.info/news/30001</id>
@@ -469,95 +498,6 @@ LayerZero
 
 
 LayerZero 是一个用户应用 User Application (UA) 结构的链上端点，这个端点运行着一个超轻节点 (ULN)。Laye…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定币利率长期高达20%，Anchor也是庞氏吗？]]></title>
-        <id>https://www.theblockbeats.info/news/29974</id>
-        <link href="https://www.theblockbeats.info/news/29974"/>
-        <updated>2022-04-02T05:24:07.000Z</updated>
-        <summary type="html"><![CDATA[撰文：0x76
-
-
-本文原本作为一篇讨论 PoS 公链中无风险利率文章中的典型案例写作，但过程中发现已经完全能够独立成篇，因此单独列出提前发表。
-
-
-Terra 可以说是目前加密行业中，金融架构设计最为复杂的公链。其原生稳定币 UST 的发行与锚定模式也引发了许多激烈的争议。本段我们暂且不去讨论 Terra 是否为旁氏骗局的问题，而是重点关注其生态中的两个重要利率：Luna 的 PoS 质押利率与 Anchor 的 UST 存款利率。
-
-
-谁才是 Terra 上的无风险利率？
-
-
-由于 Terra 的主要目标并不是单纯建立一个智能合约平台，而是发行稳定币 UST 并促进其采用。因此，Terra 的经济模型也与其他智能合约公链明显不同。Terra 的原生代币 Luna 不仅用于支付公链 gas 费以及参与治理，还需要通过燃烧 Luna 发行稳定币 UST。
-
-
-因此对于 Terra 来说，其生态中似乎天然存在着两套货币系统，而这两个代币也各自拥有相对独立的利率体系。其中一个是以 Terra 的 PoS 质押收益率决定的 Luna 利率，另一个就是由 Terra 中著名存款应用 Anchor 提供的 UST 稳定币存款利率。
-
-
-目前，Luna 的利率约为 7%，而 UST 在 Anchor 中的存款利率则高达 19.4%（见下图）。
-
-
-
-
-
-
-
-那么，谁才能够代表 Terra 生态的无风险利率？
-
-
-依据前文的分析可知，由铸币权担保的 PoS 质押收益率可以被认为是无风险的。因此，能够在 Terra 中进行 PoS 质押的 Luna 及其收益率显然更适合作为 Terra 的无风险利率。
-
-
-那么下一个问题便是，由 Anchor 提供的高达 19.4% 的 UST 存款利率，是否也可以被当作无风险利率看待？或者说，Anchor 提供的利率是同样由铸币权担保的，还是来自于协议正…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道吗？炒鞋的那帮人，现在去炒数字藏品了]]></title>
-        <id>https://www.theblockbeats.info/news/29973</id>
-        <link href="https://www.theblockbeats.info/news/29973"/>
-        <updated>2022-04-02T05:24:07.000Z</updated>
-        <summary type="html"><![CDATA[「炒鞋、炒手办潮玩早没那么火热了，现在圈子里都是炒数字藏品了。」球鞋玩家老刘介绍着。
-
-
-在 2019 年 9 月，Supreme 19 FW 的开季赠品伞兵玩具在二级市场上被炒至 2000 多元的消息刷爆了鞋圈，限量款球鞋、潮玩单品疯狂炒作，创造了无数的财富神话。但随着后来「鞋穿不炒」的监管限制，现在的球鞋潮玩市场早就没有了昔日的火热景象，甚至有些惨淡。鞋圈玩家平时除了偶尔盯一下限量款球鞋的发售，目光都转向了另一个市场——数字藏品。
-
-
-
-
-
-「给你看看这玩意有多赚钱，」老刘发来了一张数字藏品二级市场的报价截图，「这些原本只有几块钱甚至免费的图片，现在能卖几万块钱，你敢相信吗？」
-
-
-
-
-
-
-
-
-朋友圈中流传的数字藏品二级市场的报价图
-
-
-NFT 的名字早已传遍各个角落，在区块链应用中，成为比比特币更出圈的物种。文娱体育奢侈品带动了这个目前市值超过 170 亿美元的赛道的同时，数字藏品概念也火了。
-
-
-
-
-在国内腾讯、百度等各大厂的布局下，这个概念迅速崛起，A 股相关概念的二级市场表现已经惊人，而在另一片非公开的交易市场内，上演着更加夸张的财富效应。NFT 和数字藏品，这两个看似可以相互替换的名词，却有着完全割裂的市场和玩家。
-
-
-年轻人的新暴富梦
-
-
-「数字藏品能赚 7 万倍，NFT 能吗？」在谈及数字藏品和 NFT 时，00 后数字藏品爱好者小王问道。
-
-
-
-
-2021 年 9 月 24 日，蚂蚁集团声明称，接网友举报，蚂蚁链与阿里拍卖联手下架一起涉嫌网络欺诈的交易。一位 ID 名为「街舞怪才」的用户在拍卖平台发布「亚运会火炬」的相关竞价信息。蚂蚁链表示，「街舞怪才」在拍卖页面附上了数字火炬藏品的详情图，混淆了数字藏品和实体火炬的差异，对买家造成误导，涉嫌欺诈，因此平台下架对应违规商品并对用户进行相应违规处理。杭州亚运会火炬 NFT 限量发行 21000 份，售价 3…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
