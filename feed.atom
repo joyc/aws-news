@@ -2,10 +2,261 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-06T06:10:17.579Z</updated>
+    <updated>2022-04-06T12:19:09.434Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[福布斯2022加密富豪榜，牛市后又多了7位亿万富翁]]></title>
+        <id>https://www.theblockbeats.info/news/30028</id>
+        <link href="https://www.theblockbeats.info/news/30028"/>
+        <updated>2022-04-06T09:19:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《The Richest Crypto And Blockchain Billionaires In The World 2022》
+原文作者：福布斯
+原文编译：胡韬，链捕手
+
+
+
+
+
+
+从 Elon Musk 推动 Dogecoin 的崛起，到 Web3 创新和 NFT，再到比特币和其他加密 Token 的剧烈波动，对于加密货币世界来说，这是一个疯狂的 12 个月。
+
+
+在所有这些行动中，2 万亿美元的加密经济也不缺钱。只需看看周二发布的福布斯年度世界亿万富翁名单中创纪录的 19 位亿万富翁——比去年多 7 位，他们通过加密货币和区块链技术赚钱。
+
+
+名单上的新人包括 Web3 基础设施公司 Alchemy 的创始人和 NFT 市场 OpenSea 的创始人。榜单上最富有的三位——CZ、Sam Bankman-Fried 和 Brian Armstrong——都掌管着加密货币交易平台。
+
+
+ 
+
+1、CZ
+
+
+
+
+
+
+
+净资产：650 亿美元
+
+
+财富来源：Binance
+
+
+国籍：加拿大
+
+
+加密行业首富，Binance 创始人兼首席执行官「CZ」是全球第 19 名富豪。福布斯估计，他至少拥有全球领先的加密交易平台 Binance 70% 的股份。据报道，去年该公司促成了约三分之二的中心化交易平台处理的所有交易量，估计收入超过 160 亿美元。根据这些估计，福布斯已将其对 CZ 财富的评估从去年的 19 亿美元上调。这位 44 岁的人物还持有一小部分比特币和数量不详的 BNB。Binance 在 2 月份宣布，计划斥资 2 亿美元通过 SPAC 交易购买福布斯的少数股权。
+
+
+ 
+
+2、Sam Bankman-Fried
+
+
+
+
+
+
+
+净资产：240 亿美元
+
+
+财富来源：FTX
+
+
+国籍：美国
+
+
+这位 30 岁的年轻人于 2021 年底与他的交易平台 FT…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3求职者必读：如何学习Web3？]]></title>
+        <id>https://www.theblockbeats.info/news/30027</id>
+        <link href="https://www.theblockbeats.info/news/30027"/>
+        <updated>2022-04-06T09:19:40.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Bubba
+原文编译：0x9F，律动 BlockBeats
+
+
+本文梳理自加密 KOL Bubba 在个人社交媒体平台上的观点，律动 BlockBeats 对其整理翻译如下：
+
+
+这篇文章将告诉你在 Web3 中走上人生巅峰究竟需要些什么。对自信且努力的人而言，这里有无穷的机会。以下是本文概述的赢在 Web3 之 4 大方面。
+
+1. 一切皆有可能
+2. 学习
+3. 找工作
+4. 创业
+
+
+1. 一切皆有可能
+
+
+让我们从深入了解一切皆有可能，来重新定义你的人生。
+
+
+别人的故事可以给你带来信心。你，和这里提到的每个人没什么不同。持之以恒，永不丢掉希望，Web3 就能成为你未来的现实。
+
+
+首先是 Your Crypto Fren 的故事，Your Crypto Fren 从 2012 年开始专门从事编程，现在在一家 P2E 链游做兼职开发。他说在 Web2 公司工作会逐渐摧毁创造力，而现在他终于又想起来他为什么如此喜欢编程。对他而言，编程从来不是什么「正式」或「严肃」的事情，而是通过构建自己喜欢的主题网站来表达观点的一种方式。构建 Web3，让他觉得玩得很开心。「每天你都会学到新东西，每一个挑战都超级有趣，即使晚睡早起累得要死也无所谓。」
+
+
+然后是 Route 2 FI 的经历，他在去年辞去朝九晚五的工作，开始从事自己的项目。他的最后一份工作是在工程领域的一家小公司当经理，工资优渥，还配了一辆小汽车。为什么要放弃这样一份工作呢？有两个原因。首先是工作让他没有时间锻炼、读书、写作和陪伴亲友，而「金钱能买到的最好的东西就是控制你的时间」。其次，他发现他可以从股票投资中获得足够的钱用以支付生活费用，还可以从博客和推特上获取额外收入，「再做一份朝九晚五的工作是毫无意义的」。
+
+
+最后如果你想要尝试在网上赚取额外收入，不妨看看 The DeFi Edge 分享的推特涨粉攻略，他的推特粉丝在 11 周内从 0 人增加到了 12 万人。
+
+
+2. 自学
+
+
+你有多少价值，与你能赚多少钱息息相关。而在加密领域，你不需要上大学就能获得很高的价值。只要滚动鼠标，每天花点时间学习下面介绍的学习资源，就能成为 Web3 领域的专家。
+
+
+首先是 Farza 就开发人员如何进入加密工作给出的建议：从了解以太坊上的智能合约开始，到在 Solana 上部署 NFT，再到在 Polygon 上构建自己的 ENS 域名服务。
+
+
+其次你可以订阅 Dapp University 的 YouTube 频道。入门 Web3 也要从看懂智能合约开始，Chris Cantino 写了一份阅读指南。
+
+
+至于 Web3 中备受热捧的技能还有哪些？The DeFi Edge 写了一篇Web3 职业选择和求职建议的文章。而 Connor Daly 的文章则科普了区块链开发必须要明白的概念。
+
+
+最后，The DeFi Edge 还对如何成为一个有影响力的人并以此获得报酬给出了建议。
+
+
+3. 找工作
+
+
+Web3 是去中心化的，这意味着找工作没有 Indeed 和 Glassdoor 这样的中心化平台。
+
+
+然而，这样有一些还不太为人所知的资源可以分享。如果你是求职者或雇主，可以加入 The Daily Ape 创始人 Darren Lau 管理的两个 Telegram 群组：
+
+Daily Ape Board
+Daily Ape HR
+
+
+4. 创业
+
+
+如果你对当个打工人，Web3 也允许你创业当自己的老板。开源代码让任何人都可以直接编辑、修改和执行区块链上的项目。
+
+
+在这里一切皆有可能，只要你愿意为之努力。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameFi玩家之间的共识博弈]]></title>
+        <id>https://www.theblockbeats.info/news/30026</id>
+        <link href="https://www.theblockbeats.info/news/30026"/>
+        <updated>2022-04-06T08:19:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+The Consensus Game Among GameFi Players
+
+》
+原文作者：Research DAO  
+原文编译：Dinzz，H.Forest Ventures
+
+
+
+  介绍  
+
+
+
+在 DeFi 和 GameFi 的金融属    性背后，参与者通过评估其他参与者的平均行动共识（即大多数参与者将会采用的行动）来调整博弈策略进行游戏。
+
+
+为什么不是单纯的决策，而是动态的博弈？
+
+
+因为玩家 A 的决定会影响玩家 B 的决定，进而影响玩家 A 自己的决定。因此，玩家将体验到游戏的复杂性，因为他们的决定（或有时是预期的决定）会同时发生在所有玩家身上。游戏的发展将是多维的并且实时发生，特别是在具有足够深度和流动性的市场中。
+
+
+
+
+
+参与市场意味着参与博弈。在评估了市场上所有参与者的平均共识之后，必须选择一个低于平均共识的行动才能获得胜利。如果参与者的行为高于平均共识，将会失败。
+
+
+本文讨论了 GameFi 的独特功能及其固有的系统属性，它被游戏系统中的多方使用，以促进达成共识。以 GameFi 的各种利益群体为例，包括开发者、公会、普通玩家。游戏中有玩家可以看到整个市场的全景，他们可以通过预判其他玩家可能采取的行动而行动，选择赢面更大的行动路线以在游戏中获得优势。
+
+
+在本文中，我们将分析最典型的 GameFi 游戏 Axie Infinity 和 GameFi 领域最重要的公会 YGG。我们希望通过我们的努力，带你深入了解 GameFi 的主要功能和内在逻辑。
+
+
+
+
+
+
+内容提要
+
+
+
+1.「猜平均数的 2/3」游戏
+
+
+1.1 两个玩家猜「平均数的 2/3」博弈：「严格优势策略」最小数为「0」。
+
+
+1.2 多人「猜平均数」游戏：在评估所有玩家选择的数字的平均值后，获胜者可以通过提供比平均数低 1/3 的数字来获得胜利。
+
+
+ …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nansen现已支持用户查看Arbitrum生态NFT市场Treasure相关数据]]></title>
+        <id>https://www.theblockbeats.info/news/30023</id>
+        <link href="https://www.theblockbeats.info/news/30023"/>
+        <updated>2022-04-06T07:19:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Nansen's Coverage of NFTs on Arbitrum One: A Deep Dive》
+原文来源：Nansen
+
+
+
+
+
+
+4 月 6 日，Nansen 宣布已覆盖 Arbitrum 生态 NFT 市场 Treasure。现在注册 Nansen, 可以免费获得 Arbitrum 上 NFT 市场趋势和概述。Nansen 的正式用户还拥有 Mint Master(铸造大师) 的额外功能，并且能够用 NFT 上帝模式、NFT 钱包分析器和 NFT 项目分析器深入到各个项目和钱包。这使用户在投资基于 Arbitrum 上 NFT 项目时能够发现机会，进行调查并做出战略决策。
+
+
+根据 Nansen 新增 Treasure NFT 市场的数据显示：
+
+
+1. 与 2021 年第四季度相比，2022 年第一季度 Arbitrum 处理的交易量和完成的交易数量都有所增加。年初至今，我们见证了 Arbitrum 网络 NFT 用户 205% 的增长。
+
+
+2. 新老用户的增长在 Arbitrum One 上仍然是不稳定的。
+
+
+3. 今年初以来，一周能卖掉 10 个以上和 1000 个以上 NFT 的项目方，都在 Arbitrum 上出现了增长。
+
+
+4. 目前有 4.5% 的钱包在其基于 Arbitrum 的 NFT 中取得了至少 100% 的投资回报，前 20 名钱包的投资回报率都超过了 10000%。这在很大程度上是通过 Treasure 的免费铸造模式实现的，该模式推出了流行的 Smol Brains 和 Legions 系列 NFT。
+
+
+由于低交易手续费的好处，越来越多的用户转向 Arbitrum 网络，使该协议锁定了超过 40 亿美元的 TVL，这一点并不奇怪。在 Arbitrum 的众多发展中，Treasure 已经成为其最大的 NFT…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科普：闪电网络如何帮助比特币扩展]]></title>
         <id>https://www.theblockbeats.info/news/30019</id>
