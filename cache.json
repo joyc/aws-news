@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30029",
+          "author": null,
+          "description": "原文标题：《\n\n以太坊 2.0 合并之后，这些类型的应用将成为游戏规则改变者\n\n》\n原文作者：@CroissantEth\n原文编译：Kyle，元宇宙之道\n\n\n这篇文章的主题适用于那些喜欢「超前思考」的人。\n\n\n以太坊正在发生变化，而且变化很快。随着我们过渡到权益证明（PoS），明年将给以太坊网络带来根本性的变化。\n\n\n这里有一些需要注意的事情……\n\n\n最近讨论 ETH 2.0 的内容非常多。在这个帖子中，我将特别关注那些可能改变游戏规则的项目。前提是，只有 ETH 2.0 及其引入的升级才能使事情成为可能。\n\n\n1. 质押池\n\n\n以太坊合并后，网络上的质押者将开始收到 token 释放和交易费用。验证者资格需要 32 ETH 来质押才能获得。然而，「质押池」模式让多个小用户聚集在一起成为验证者并分配奖励。\n\n\n像 Lido Finance + Rocket Pool 这样的服务必将受到关注。\n\n\n\n\n\n2. 质押衍生品\n\n\n质押衍生品通常是代表被质押的 ETH 的 ERC-20 token。\n\n\n与通常质押的 ETH 不同，质押衍生品让质押的 ETH 可以像任何其他 ERC-20 代币一样在 DeFi 中使用。\n\n\n最安全的 + 流动性的结合将吸收数百亿的价值。\n\n\n\n\n\n3. stETH 策略\n\n\n现在我们已经介绍了代币化质押 ETH，其实还有其他的用例。\n\n\nstETH 的需求量很大。最高收益生成协议将从试图最大化收益的用户那里获得回报。\n\n\n收益策略 + stETH 是一个美味的组合。\n\n\n\n\n\n\n\n\n4. 跨 Rollup 架构\n\n\n跨链的东西很酷，但是跨 rollup 工具呢？这是人们没有足够密切关注的东西。弥合 Optimistic Rollup 和 zkrollup 之间沟壑的 dApp 将会有一个美好的未来。\n\n\n例如，Hop Protocol\n\n\n\n\n\n5. 中继服务\n\n\nRollups 使用了 calldata。Calldata 很昂贵，以太坊网络上最昂贵的操作之一是写入存储。对于像 Arbitrum & Optimism 这样的 Rollup，支持捆绑 txs 的机器人网络将非常有助于降低成本。\n\n\n例如，GnosisDAO + Argent\n\n\n6. zkProofs\n\n\n这不仅是 ETH 2.0 的季节，而且是 zkproof 的季节。这是多年研究的结果。zkproof 技术可以将 ETH 扩展到难以置信的水平。这些 dApp 已经上线并将帮助数十亿用户使用 ETH\n\n\n例如，zkSync，路印\n\n\n\n\n\n7. 流媒体/支付\n\n\nLayer 2 的扩展将为 L2 本地 dApps 的真正增长奠定基础。这就是像流媒体这样的东西将真正大放异彩的地方。一旦它们被进一步采用，用户将涌向这些具有无与伦比的 UX 的解决方案。\n\n\n例如，Sablier + Splits\n\n\n\n\n\n8. 多链治理\n\n\n代币不是投票的最佳选择，因为它们：\n\n\n- 受链安全风险限制\n\n\n- 不利于参与\n\n\n竞争正在为跨链 DAO 工具建立下一个行业标准。有很多独特的方法实现这一点。\n\n\n例如，Guild\n\n\n\n\n\n9. 隐私\n\n\n提到 zkproof，就不能不提到隐私，对吧？我们的隐私对我们来说应该是最重要的。zkproofs 可以在不泄露底层信息的情况下对任意功能进行零知识验证。这是非常重要的。\n\n\n\n\n\n10. 反事实（Counterfactual）钱包\n\n\n反事实钱包将使用户能够直接使用 ETH 到 L2，同时避免初始 L1 存款的高 gas 成本这项技术将被顶级 CEX 和 DeFi 协议用于带来大量新用户\n\n\n例如，路印\n\n\n\n\n\n11. 跨链账户\n\n\n许多权益证明区块链一直在悄悄致力于跨链的未来。跨链账户将允许不同的区块链轻松与 ETH 上的所有智能合约进行交互。这将有助于释放数十亿的资金……\n\n\n例如，Cosmos\n\n\n\n\n\n回到基本面？\n\n\n我在这个帖子中描述的所有内容可能是我们下一次趋势所需的火花。如果它们相应地发挥作用，这将为 ETH 带来令人耳目一新的新篇章。\n\n\n这些不是你想要忽略的事情。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30029",
+          "publishedOn": "2022-04-06T14:02:14.000Z",
+          "wordCount": null,
+          "title": "以太坊2.0合并后，你不得不关注的11个应用类别",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30028",
           "author": null,
           "description": "原文标题：《The Richest Crypto And Blockchain Billionaires In The World 2022》\n原文作者：福布斯\n原文编译：胡韬，链捕手\n\n\n\n\n\n\n从 Elon Musk 推动 Dogecoin 的崛起，到 Web3 创新和 NFT，再到比特币和其他加密 Token 的剧烈波动，对于加密货币世界来说，这是一个疯狂的 12 个月。\n\n\n在所有这些行动中，2 万亿美元的加密经济也不缺钱。只需看看周二发布的福布斯年度世界亿万富翁名单中创纪录的 19 位亿万富翁——比去年多 7 位，他们通过加密货币和区块链技术赚钱。\n\n\n名单上的新人包括 Web3 基础设施公司 Alchemy 的创始人和 NFT 市场 OpenSea 的创始人。榜单上最富有的三位——CZ、Sam Bankman-Fried 和 Brian Armstrong——都掌管着加密货币交易平台。\n\n\n \n\n1、CZ\n\n\n\n\n\n\n\n净资产：650 亿美元\n\n\n财富来源：Binance\n\n\n国籍：加拿大\n\n\n加密行业首富，Binance 创始人兼首席执行官「CZ」是全球第 19 名富豪。福布斯估计，他至少拥有全球领先的加密交易平台 Binance 70% 的股份。据报道，去年该公司促成了约三分之二的中心化交易平台处理的所有交易量，估计收入超过 160 亿美元。根据这些估计，福布斯已将其对 CZ 财富的评估从去年的 19 亿美元上调。这位 44 岁的人物还持有一小部分比特币和数量不详的 BNB。Binance 在 2 月份宣布，计划斥资 2 亿美元通过 SPAC 交易购买福布斯的少数股权。\n\n\n \n\n2、Sam Bankman-Fried\n\n\n\n\n\n\n\n净资产：240 亿美元\n\n\n财富来源：FTX\n\n\n国籍：美国\n\n\n这位 30 岁的年轻人于 2021 年底与他的交易平台 FT…",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-04-04T07:37:44.000Z",
           "wordCount": null,
           "title": "万向区块链肖风：在元宇宙思考「去中心化」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30000",
-          "author": null,
-          "description": "原文标题：《The roads not taken》\n原文作者：Vitalik Buterin\n原文来源：Vitalik Buterin 官网\n原文编译：Kxp，律动 BlockBeats \n\n\n\nEthereum 协议开发社区在 Ethereum 的早期阶段做出了很多决定，对项目的发展轨迹产生了重大影响。在有些情况下，Ethereum 开发者做出了理智的决定，解决了 Bitcoin 遇到的一些问题。而在其它一些情况中，我们也在创造全新的东西，利用诸多选择填补过往的空白。还有些时候，我们需要在复杂与简易之间做出权衡，因为二者分别适用于不同的情景。\n\n\n\n\n本篇文章我将介绍一些分叉功能，其中很多都在核心开发者的圈子当中认真讨论过；但剩下没有讨论的功能此时此刻也应该被提上日程。同时，我们也期待看到一个不同的 Ethereum，并从中学到新的东西。\n\n\n\n我们是否应该采用一个简易版的权益证明\n\n\nEthereum 很快将合并到的 Gasper 权益证明系统虽然复杂，但却功能强大，具有以下特性：\n\n强大的单区块确认——一旦交易被纳入区块，通常在几秒钟内，该区块就会被固化。除非有很大一部分节点诚信度低，或者存在极端的网络延迟，否则它无法被逆转。 \n\n\n经济确定性——一旦区块最终确定下来，在攻击者没有损失数百万 ETH 的情况下，它也不可逆转。 \n\n\n可预测性高的回报——验证者在每个周期（6.4 分钟）都能获得可靠奖励，减少了对资金池的激励。 \n\n\n支持较多数量验证者——与其他大多数具有上述特性的链不同，Ethereum 信标链支持数十万的验证者（例如，Tendermint 提供比 Ethereum 更快的确定性，但它只支持数百个验证者）。\n\n\n\n但制作一个具有这些特性的系统相当困难，需要进行多年的研究，经历无数次的失败，并花费大量的精力，而且最终结果也会非常复杂。\n\n\n\n\n\n\n如果我…",
-          "link": "https://www.theblockbeats.info/news/30000",
-          "publishedOn": "2022-04-04T05:37:44.000Z",
-          "wordCount": null,
-          "title": "听V神讲述，那些以太坊没有走的路",
           "imageUrl": null
         }
       ]
