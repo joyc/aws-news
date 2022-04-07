@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30033",
+          "author": null,
+          "description": "2022会是游戏的应用链元年吗？",
+          "link": "https://www.theblockbeats.info/news/30033",
+          "publishedOn": "2022-04-07T03:44:06.000Z",
+          "wordCount": null,
+          "title": "2022会是游戏的应用链元年吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30029",
           "author": null,
           "description": "原文标题：《\n\n以太坊 2.0 合并之后，这些类型的应用将成为游戏规则改变者\n\n》\n原文作者：@CroissantEth\n原文编译：Kyle，元宇宙之道\n\n\n这篇文章的主题适用于那些喜欢「超前思考」的人。\n\n\n以太坊正在发生变化，而且变化很快。随着我们过渡到权益证明（PoS），明年将给以太坊网络带来根本性的变化。\n\n\n这里有一些需要注意的事情……\n\n\n最近讨论 ETH 2.0 的内容非常多。在这个帖子中，我将特别关注那些可能改变游戏规则的项目。前提是，只有 ETH 2.0 及其引入的升级才能使事情成为可能。\n\n\n1. 质押池\n\n\n以太坊合并后，网络上的质押者将开始收到 token 释放和交易费用。验证者资格需要 32 ETH 来质押才能获得。然而，「质押池」模式让多个小用户聚集在一起成为验证者并分配奖励。\n\n\n像 Lido Finance + Rocket Pool 这样的服务必将受到关注。\n\n\n\n\n\n2. 质押衍生品\n\n\n质押衍生品通常是代表被质押的 ETH 的 ERC-20 token。\n\n\n与通常质押的 ETH 不同，质押衍生品让质押的 ETH 可以像任何其他 ERC-20 代币一样在 DeFi 中使用。\n\n\n最安全的 + 流动性的结合将吸收数百亿的价值。\n\n\n\n\n\n3. stETH 策略\n\n\n现在我们已经介绍了代币化质押 ETH，其实还有其他的用例。\n\n\nstETH 的需求量很大。最高收益生成协议将从试图最大化收益的用户那里获得回报。\n\n\n收益策略 + stETH 是一个美味的组合。\n\n\n\n\n\n\n\n\n4. 跨 Rollup 架构\n\n\n跨链的东西很酷，但是跨 rollup 工具呢？这是人们没有足够密切关注的东西。弥合 Optimistic Rollup 和 zkrollup 之间沟壑的 dApp 将会有一个美好的未来。\n\n\n例如，Hop Protocol\n\n\n\n\n\n5. 中继服务\n\n\nRollups 使用了 calldata。Calldata 很昂贵，以太坊网络上最昂贵的操作之一是写入存储。对于像 Arbitrum & Optimism 这样的 Rollup，支持捆绑 txs 的机器人网络将非常有助于降低成本。\n\n\n例如，GnosisDAO + Argent\n\n\n6. zkProofs\n\n\n这不仅是 ETH 2.0 的季节，而且是 zkproof 的季节。这是多年研究的结果。zkproof 技术可以将 ETH 扩展到难以置信的水平。这些 dApp 已经上线并将帮助数十亿用户使用 ETH\n\n\n例如，zkSync，路印\n\n\n\n\n\n7. 流媒体/支付\n\n\nLayer 2 的扩展将为 L2 本地 dApps 的真正增长奠定基础。这就是像流媒体这样的东西将真正大放异彩的地方。一旦它们被进一步采用，用户将涌向这些具有无与伦比的 UX 的解决方案。\n\n\n例如，Sablier + Splits\n\n\n\n\n\n8. 多链治理\n\n\n代币不是投票的最佳选择，因为它们：\n\n\n- 受链安全风险限制\n\n\n- 不利于参与\n\n\n竞争正在为跨链 DAO 工具建立下一个行业标准。有很多独特的方法实现这一点。\n\n\n例如，Guild\n\n\n\n\n\n9. 隐私\n\n\n提到 zkproof，就不能不提到隐私，对吧？我们的隐私对我们来说应该是最重要的。zkproofs 可以在不泄露底层信息的情况下对任意功能进行零知识验证。这是非常重要的。\n\n\n\n\n\n10. 反事实（Counterfactual）钱包\n\n\n反事实钱包将使用户能够直接使用 ETH 到 L2，同时避免初始 L1 存款的高 gas 成本这项技术将被顶级 CEX 和 DeFi 协议用于带来大量新用户\n\n\n例如，路印\n\n\n\n\n\n11. 跨链账户\n\n\n许多权益证明区块链一直在悄悄致力于跨链的未来。跨链账户将允许不同的区块链轻松与 ETH 上的所有智能合约进行交互。这将有助于释放数十亿的资金……\n\n\n例如，Cosmos\n\n\n\n\n\n回到基本面？\n\n\n我在这个帖子中描述的所有内容可能是我们下一次趋势所需的火花。如果它们相应地发挥作用，这将为 ETH 带来令人耳目一新的新篇章。\n\n\n这些不是你想要忽略的事情。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -73,16 +83,6 @@
           "publishedOn": "2022-04-05T08:33:43.000Z",
           "wordCount": null,
           "title": "Multicoin Capital：如何找到下一个Solana？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30002",
-          "author": null,
-          "description": "原文标题：《In Defense of Bitcoin Maximalism》\n原文作者：Vitalik Buterin\n原文来源：Vitalik Buterin 官网\n原文编译：Captain Hiro，巴比特\n\n\n我们这么多年来一直听到的是——区块链是未来，比特币才不是呢；世界的未来不会只存在一种主要的加密货币，甚至不是几种，而是有许多加密货币——而获胜的加密货币将在一个中央控制下拥有强有力的领导，从而迅速适应用户的规模需求；人们还会说，比特币是一个「boomer coin‌（老掉牙的币种）」，以太坊很快就会跟上它的步伐，以太坊将是更新、更有活力的资产，它将吸引新一波的大众用户，他们不关心奇怪的自由主义意识形态或「私有财产神圣不可侵犯」，被有毒的和反政府心态拒之门外，他们只希望区块链 DeFi 和游戏能够快速、有效。\n\n\n但是，如果这种叙述都是错误的，而比特币最大主义者（Bitcoin Maximalist）的想法、习惯和做法实际上是非常接近正确的呢？如果比特币远不止是一个与网络效应挂钩的过时的文玩石头呢？如果比特币最大主义者实际上深深地明白，他们是在一个非常敌对和不确定的世界中运作，那里有他们需要争取的东西，而他们的行动、个性和对协议设计的理念深深地反映了这个事实呢？如果我们生活在一个由诚实的加密货币（其中有非常少的）和骗子的加密货币（其中有非常多的）组成的世界里，而为了防止前者转向后者，一定程度上的坚持（dose of intolerance）实际上是必要的呢？这就是我写的这篇文章要提出的论点。\n\n\n\n\n我们生活在一个危险的世界，保护自由是一件严肃的事情\n\n\n\n\n我希望这一点要比六周前更加明显，当时许多人仍然认真地认为弗拉基米尔 - 普京是一个被误解的善者，他只是想保护俄罗斯，把西方文明从「同性恋（北约）」的灾难中拯救出来。但这个观点仍然值得重复。我们生活在一个危险…",
-          "link": "https://www.theblockbeats.info/news/30002",
-          "publishedOn": "2022-04-04T13:18:48.000Z",
-          "wordCount": null,
-          "title": "Vitalik Buterin：为比特币最大主义者辩护",
           "imageUrl": null
         }
       ]
