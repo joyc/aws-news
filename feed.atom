@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-09T12:12:15.279Z</updated>
+    <updated>2022-04-09T18:09:06.802Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peter Thiel：比特币是传统金融体系的最终替代品]]></title>
+        <id>https://www.theblockbeats.info/news/30091</id>
+        <link href="https://www.theblockbeats.info/news/30091"/>
+        <updated>2022-04-09T14:09:56.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Peter Thiel Pumps Bitcoin, Calls Warren Buffett A 『Sociopathic Grandpa』
+
+》
+原文来源：Forbes
+原文作者：Abram Brown
+本文来自微信公众号：老雅痞
+
+
+数十家公司正在利用周三至周六举行的 Bitcoin 2022 会议作为一个场所，并向行业内外分享公告。
+
+
+纽约市和硅谷在 2021 年的区块链初创企业融资方面继续领先，分别为 65 亿美元和 39 亿美元。但根据市场研究公司 CB Insights 的数据，迈阿密现在与洛杉矶并列，后者融资的数额超过洛杉矶 7.6 亿美元的资金。
+
+
+加密货币交易平台 FTX 去年买下了迈阿密市中心的 NBA 球馆的命名权，取代了美国航空公司。迄今为止，迁往迈阿密的最大的加密货币公司 Blockchain.com 将在时髦的 Wynwood 区安置 200 名员工，其他科技公司和投资者也在那里开店。
+
+
+Blockchain.com 首席执行官兼联合创始人彼得-史密斯说：「温伍德真的有那种精神，当一个新的技术部门建立起来时，你正在寻找这种精神，」他把它与旧金山的南市场社区和纽约的布鲁克林相比较。「最终你想和其他科技公司在一起」。
+
+
+许多人提到了当地官员培养的加密友好环境，主要是迈阿密市长弗朗西斯 · 苏亚雷斯的功劳，他通过吸引科技投资和成为美国的加密货币友好市长之一吸引了全国的关注。
+
+
+其他人指出，迈阿密和佛罗里达都是商业友好型城市，在疫情期间仍然开放，使其作为一个人们可以远程工作的地方更具吸引力。
+
+
+总部位于佛罗里达州 Plantation 的多资产经纪商 TradeStation 的首席执行官 John Bartleman 说："很难否认这是一个了不起的机会，公司可以来这里建立他们在加密货币领域的项目。
+
+
+Bartleman …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STEPN：我们将如何推动下一阶段的用户增长？]]></title>
         <id>https://www.theblockbeats.info/news/30089</id>
@@ -452,16 +493,6 @@ Part.1 Insight
 
 
 3…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022会是游戏的应用链元年吗？]]></title>
-        <id>https://www.theblockbeats.info/news/30033</id>
-        <link href="https://www.theblockbeats.info/news/30033"/>
-        <updated>2022-04-07T03:44:06.000Z</updated>
-        <summary type="html"><![CDATA[2022会是游戏的应用链元年吗？]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

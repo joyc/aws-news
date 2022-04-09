@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30091",
+          "author": null,
+          "description": "原文标题：《\n\nPeter Thiel Pumps Bitcoin, Calls Warren Buffett A 『Sociopathic Grandpa』\n\n》\n原文来源：Forbes\n原文作者：Abram Brown\n本文来自微信公众号：老雅痞\n\n\n数十家公司正在利用周三至周六举行的 Bitcoin 2022 会议作为一个场所，并向行业内外分享公告。\n\n\n纽约市和硅谷在 2021 年的区块链初创企业融资方面继续领先，分别为 65 亿美元和 39 亿美元。但根据市场研究公司 CB Insights 的数据，迈阿密现在与洛杉矶并列，后者融资的数额超过洛杉矶 7.6 亿美元的资金。\n\n\n加密货币交易平台 FTX 去年买下了迈阿密市中心的 NBA 球馆的命名权，取代了美国航空公司。迄今为止，迁往迈阿密的最大的加密货币公司 Blockchain.com 将在时髦的 Wynwood 区安置 200 名员工，其他科技公司和投资者也在那里开店。\n\n\nBlockchain.com 首席执行官兼联合创始人彼得-史密斯说：「温伍德真的有那种精神，当一个新的技术部门建立起来时，你正在寻找这种精神，」他把它与旧金山的南市场社区和纽约的布鲁克林相比较。「最终你想和其他科技公司在一起」。\n\n\n许多人提到了当地官员培养的加密友好环境，主要是迈阿密市长弗朗西斯 · 苏亚雷斯的功劳，他通过吸引科技投资和成为美国的加密货币友好市长之一吸引了全国的关注。\n\n\n其他人指出，迈阿密和佛罗里达都是商业友好型城市，在疫情期间仍然开放，使其作为一个人们可以远程工作的地方更具吸引力。\n\n\n总部位于佛罗里达州 Plantation 的多资产经纪商 TradeStation 的首席执行官 John Bartleman 说：\"很难否认这是一个了不起的机会，公司可以来这里建立他们在加密货币领域的项目。\n\n\nBartleman …",
+          "link": "https://www.theblockbeats.info/news/30091",
+          "publishedOn": "2022-04-09T14:09:56.000Z",
+          "wordCount": null,
+          "title": "Peter Thiel：比特币是传统金融体系的最终替代品",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30089",
           "author": null,
           "description": "原文标题：《\n\nSTEPN pushes the frontiers of fitness with NFTs\n\n》\n原文来源：STEPN\n原文编译：czgsws，律动BlockBeats\n\n\n1997 年 7 月 2 日，泰国政府被迫解除泰铢与美元的锚定。这一事件引发了大规模恐慌，泰铢贬值，人们争先恐后的抛售资产引发金融市场暴跌，并导致大量资本逃离该国。\n\n\n一场国际连锁反应开始启动，使整个亚洲经济体的货币贬值。印尼盾暴跌 80%，韩元暴跌近 50%，马来西亚林吉特暴跌 45%。\n\n\n尽管我们设法避免了全球经济全面崩溃，但 1997 年亚洲金融危机仍然对该地区以及整个世界经济造成了严重的金融后果。\n\n\n历史先例\n\n\n游戏和 Move to Earn 领域的游戏设计师可以从现实世界的历史事件中学到很多东西。「那些不学习历史的人注定要重蹈覆辙。」这句谚语被无数案例一遍又一遍的证实。\n\n\n在许多方面，设计游戏就像运营一个虚拟国家，拥有自己的国库、公民和数字经济。\n\n\n随着 STEPN 的普及，我们自己也在迅速成为一个虚拟国家，随之而来的是设计货币政策的所有复杂过程。\n\n\n看看该领域最大的游戏 P2E 游戏的数字经济，一个常见的问题是恶性通货膨胀。最突出的例子是 Axie Infinity，其游戏内货币 SLP 的价格在过去几个月中暴跌了 90% 以上。\n\n\n诚然，我们对 Axie 这个 P2E 的先驱表示敬意。这款游戏正在改变世界各地人们的生活，尤其是在东南亚，它同时让数百万人加入 Web3。\n\n\n但是，尽管 Axie 已经制定了限制供应和稳定价格的措施，但这种波动对经济结构造成了严重后果，抹去了数百万美元的价值，并产生了 FUD 和不可预测性。\n\n\n当我们从头开始构建 STEPN 时，我们正在努力站在巨人的肩膀上，从前人那里学习宝贵的经验。我们的首要任务是设计一个充满活力、有…",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-04-07T14:55:23.000Z",
           "wordCount": null,
           "title": "IOSG：预言机，让Web3变得更好了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30033",
-          "author": null,
-          "description": "2022会是游戏的应用链元年吗？",
-          "link": "https://www.theblockbeats.info/news/30033",
-          "publishedOn": "2022-04-07T03:44:06.000Z",
-          "wordCount": null,
-          "title": "2022会是游戏的应用链元年吗？",
           "imageUrl": null
         }
       ]
