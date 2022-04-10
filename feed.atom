@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-10T06:10:15.219Z</updated>
+    <updated>2022-04-10T12:12:08.785Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融大鳄、科技名流齐聚，回顾「迈阿密比特币2022」大会上的精彩时刻]]></title>
+        <id>https://www.theblockbeats.info/news/30104</id>
+        <link href="https://www.theblockbeats.info/news/30104"/>
+        <updated>2022-04-10T09:38:13.000Z</updated>
+        <summary type="html"><![CDATA[金融大鳄、科技名流齐聚，回顾「迈阿密比特币2022」大会上的精彩时刻]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve生态是套娃还是DeFi乐高的巧妙组合？尝试读懂Redacted Cartel]]></title>
+        <id>https://www.theblockbeats.info/news/30103</id>
+        <link href="https://www.theblockbeats.info/news/30103"/>
+        <updated>2022-04-10T08:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Curve生态是套娃还是DeFi乐高的巧妙组合？尝试读懂Redacted Cartel]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：「野蛮人」Tiger Global；Web3求职者必读]]></title>
         <id>https://www.theblockbeats.info/news/30102</id>
