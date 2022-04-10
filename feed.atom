@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-10T00:34:21.093Z</updated>
+    <updated>2022-04-10T06:10:15.219Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：「野蛮人」Tiger Global；Web3求职者必读]]></title>
+        <id>https://www.theblockbeats.info/news/30102</id>
+        <link href="https://www.theblockbeats.info/news/30102"/>
+        <updated>2022-04-10T04:09:22.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+
+《1 年投 358 个项目的「野蛮人」Tiger Global，正在加速布局 Crypto》
+
+
+ 
+
+据最新的数据，今年 Q1，Tiger Global 已参与了 19 笔投资交易，环比上一季度增长了 90%。
+
+
+那么，Tiger Global 在 Crypto 具体进行了哪些布局，又是如何做到令一众 VC 难以望其项背的，它的投资风格有哪些特征，是怎样诞生与发展的？为何被视为入侵 VC 圈的「野蛮人」？本文详细梳理 Tiger Global 的加密投资组合、投资风格及发展历程。
+
+
+《Frank Frank Frank，谁是 Frank？》
+
+
+ 
+
+4 月 7 日，一只北极熊走路的视频疯狂在各大 NFT 社区中传播，这些北极熊有的有镭射眼，有的戴着 Nouns 的眼镜代表着 Web3 独有的特征，也有牛仔，有警察，有一些我们生活中常见的元素。就是这种看似非常「魔性」的 Meme 类 NFT，目前的价格已经到达了 0.7ETH 左右。它的名字叫做 Frank，它们今天席卷了 Twitter 和 Discord 等社交平台，谁是 Frank？今天我们都是 Frank。
+
+
+《接下来，你要关注哪些 NFT 基础设施？》
+
+
+ 
+
+谁会带领我们进入 NFT 下一阶段？在采访了 20 多个创始人，花费大量时间听播客、读书、浏览 OpenSea 和 Discord 之后，关注了以下这些具体的推动者。它们在为 NFT 从投机性的交易资产变成有生产力的数字商品构建基础设施。
+
+
+《Bitcoin2022 迈阿密大会已正式开幕，日程及重…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peter Thiel：比特币是传统金融体系的最终替代品]]></title>
         <id>https://www.theblockbeats.info/news/30091</id>
@@ -430,69 +472,6 @@ Pantera Capital 由前 Tiger Management Head of Macro Trading 和 CFO Dan Morehe
 
 
 专辑「GOD SAVE THE QUEEN」…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG：预言机，让Web3变得更好了吗？]]></title>
-        <id>https://www.theblockbeats.info/news/30056</id>
-        <link href="https://www.theblockbeats.info/news/30056"/>
-        <updated>2022-04-07T14:55:23.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-IOSG Weekly Brief｜预言机，让 Web3 变得更好了吗？#118
-
-》
-原文来源： IOSG
-
-
-
-Part.1 Insight
-
-
-预言机，让 Web3 变得更好了吗？
-
-
-作者：Sally, IOSG Ventures
-本文仅做行业学习交流之用，不构成任何投资参考建议
-
-
-预言机：构建信任的机器
-
-
-预言机（oracle）通常被认为是链上和链下数据的桥梁和窗口。简而言之，预言机是一个为区块链项目提供真实世界数据服务的中间件。
-
-
-
-来源: IOSG
-
-
-如果我们把区块链定义成信任机器，那么预言机本质上可以被称为维护和构建信任的机器。事实上，区块链本身并不能产生信任，信任的输入来自于预言机。绝大多数区块链项目如果没有接入预言机则会如同视野尽失地在黑夜中行走，难以生存。
-
-
-众所周知，区块链是一个封闭的黑匣子，并不具备发起网络调用的能力。然而智能合约则由于共识机制需要请第三方对数据进行验证。为了方便理解，我们可以将预言机扮演的角色当成是两个文明之间的使者，就像《三体》中维系人类与三体文明沟通的「智子」。只有通过预言机的数据输送，智能合约才能获取来自互联网和现实世界的确定性信息，包括股票价格、汇率、总统大选的最终结果等。
-
-
-四大谱系
-
-
-根据形式，我们可以将预言机分为四种，分别为：软件预言机、硬件预言机、中心化预言机和去中心化预言机：
-
-
-1. 软件预言机
-
-
-软件预言机连接到互联网，可以通过 API 实时访问、传输来自任何第三方服务器或网站的数据和信息，如商品价格、天气指数、航班号等，并将其写入智能合约中。
-
-
-2. 硬件预言机
-
-
-硬件预言机在 IoT 中被广泛采用，用作电子传感器和数据收集器。它将物理事件转换为数字值，以便智能合约可以理解它们。条码扫描仪、银行卡 POS 机、收集各种医疗数据的医疗设备等都可以被当作为硬件预言机。
-
-
-3…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
