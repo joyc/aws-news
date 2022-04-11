@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30105",
+          "author": null,
+          "description": "原文标题：《\n\nDAO 是否从合作社演变而来？\n\n》\n原文作者：Austin Robey\n本文来自微信公众号：老雅痞\n\n\n\n\n\n2014 年，在以太坊推出的前一年，纽约新学校的学者-活动家和教授 Trebor Scholz 创造了一个新术语。\"平台合作主义\"。在一篇博文中，Scholz 概述了对挖掘式 Web 2.0 共享经济的大胆替代：作为合作社运作的平台，由其工人和用户集体拥有和控制。其目的是要找到方法，迎来一个由司机拥有的共享汽车应用、由个人购物者拥有的杂货配送平台、以及由创作者拥有的 Patreon 等网站的未来。\n\n\n自 2014 年以来，平台合作主义已经成为一种日益增长的全球科技界亚文化。在纽约、香港和柏林的会议上，潦倒的社区组织者和社会企业家每年都会聚集在一起，相互支持，交流故事，并对寻找资金的困境表示安慰。\n\n\n几年前，我创建了一个名为 Ampled 的数字合作社，这是一个艺术家和工人拥有的音乐人的 Patreon 替代品。最近，我还参加了几个 DAO，包括 Forefront、Seed Club 和 Friends With Benefits。一脚踏入平台合作主义运动，另一脚踏入 DAO 空间，是很有启发性的，我开始相信这两个领域在人类组织、集体所有制和文化生产方面都产生了宝贵的新工具。虽然有时看起来这些创新是在平行隔离的情况下发生的，但我相信这两个社区有很多东西可以相互学习--甚至为两者之间有意义的混合方法打开大门。\n\n\n\n\n\n合作社，是指由工人、客户或两者共同拥有所有权的企业，并在一员一票的基础上运作。虽然这种所有权结构构成了合作社模式的基础，但其应用和文化是多种多样的。\n\n\n合作社：\n\n\n消费者合作社\n采购合作社\n\n多个利益相关者的合作社\n\n住房合作社\n\n营销合作社\n\n生产者合作社\n\n\nDAO 是以区块链为基础的 Token 协调的互联网原生组织，也…",
+          "link": "https://www.theblockbeats.info/news/30105",
+          "publishedOn": "2022-04-11T03:14:32.000Z",
+          "wordCount": null,
+          "title": "DAO是否从合作社演变而来？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30104",
           "author": null,
           "description": "金融大鳄、科技名流齐聚，回顾「迈阿密比特币2022」大会上的精彩时刻",
@@ -73,16 +83,6 @@
           "publishedOn": "2022-04-09T02:56:46.000Z",
           "wordCount": null,
           "title": "Web3的产品架构和Web2到底有什么区别？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30063",
-          "author": null,
-          "description": "原文标题：《\n\n怎么通过看懂 Etherscan 了解 NFT 项目情况？\n\n》\n原文作者：今天有更懂这个世界一点了吗\n本文来自微信公众号：今天有更懂这个世界一点了吗\n\n\n看懂 Etherscan 是成为区块链老炮入门的必要条件。\n\n\nEtherscan 区块链浏览器包含了交易、区块、钱包地址、智能合约等所有区块链公开数据，通过这些信息你可以明白谁在什么时候做了什么事情。\n\n\n我们今天以 Doodles 为案例，带领大家走一遍分析 Doodles 数据的全流程。\n\n\n首先打开 Etherscan 官网，可以在输入框中输入地址进行检索。\n\n\n\n\n\n如果你知道 Doodles 的地址可以直接粘贴进去，如果不知道可以打开 Opensea 进入 Doodles 的某个具体 NFT 主页后，在左侧的 details 中点击 contract address 跳转至 Etherscan 详情页。\n\n\n\n\n\n详情页如下图所示，一般你只需要关注合约余额、合约交互记录和合约代码三部分就足以了解该项目的大部分信息。\n\n\n\n\n\nbalance 表示该地址所存放的 ETH 数额，我们在 mint 某个 NFT 项目的时候，缴纳的费用实际上是先到了 NFT 合约地址，然后再由项目方进行一步提款的动作将 ETH 转移至自己的个人地址，通过它你可以知道项目方赚了多少钱，是否进行了提款。\n\n\ntransactions 存储了这个地址从诞生至今所有与智能合约交互的行为记录，通过它你可以知道项目方、用户在什么时间进行了什么操作。\n\n\n若项目方将合约进行开源，你可以在 contract 中查看到智能合约代码，以及可以对智能合约进行读写操作，其中写操作是需要 owner 权限才可进行。\n\n\n首先从 transactions 开始，先看一下表头这些字段的含义：\n\n\nTxn Hash：交易哈希，这一次交易的唯一标识\n…",
-          "link": "https://www.theblockbeats.info/news/30063",
-          "publishedOn": "2022-04-08T14:15:47.000Z",
-          "wordCount": null,
-          "title": "善用Etherscan，教你看懂NFT项目情况",
           "imageUrl": null
         }
       ]

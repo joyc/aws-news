@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-11T00:35:10.362Z</updated>
+    <updated>2022-04-11T06:11:01.602Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAO是否从合作社演变而来？]]></title>
+        <id>https://www.theblockbeats.info/news/30105</id>
+        <link href="https://www.theblockbeats.info/news/30105"/>
+        <updated>2022-04-11T03:14:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+DAO 是否从合作社演变而来？
+
+》
+原文作者：Austin Robey
+本文来自微信公众号：老雅痞
+
+
+
+
+
+2014 年，在以太坊推出的前一年，纽约新学校的学者-活动家和教授 Trebor Scholz 创造了一个新术语。"平台合作主义"。在一篇博文中，Scholz 概述了对挖掘式 Web 2.0 共享经济的大胆替代：作为合作社运作的平台，由其工人和用户集体拥有和控制。其目的是要找到方法，迎来一个由司机拥有的共享汽车应用、由个人购物者拥有的杂货配送平台、以及由创作者拥有的 Patreon 等网站的未来。
+
+
+自 2014 年以来，平台合作主义已经成为一种日益增长的全球科技界亚文化。在纽约、香港和柏林的会议上，潦倒的社区组织者和社会企业家每年都会聚集在一起，相互支持，交流故事，并对寻找资金的困境表示安慰。
+
+
+几年前，我创建了一个名为 Ampled 的数字合作社，这是一个艺术家和工人拥有的音乐人的 Patreon 替代品。最近，我还参加了几个 DAO，包括 Forefront、Seed Club 和 Friends With Benefits。一脚踏入平台合作主义运动，另一脚踏入 DAO 空间，是很有启发性的，我开始相信这两个领域在人类组织、集体所有制和文化生产方面都产生了宝贵的新工具。虽然有时看起来这些创新是在平行隔离的情况下发生的，但我相信这两个社区有很多东西可以相互学习--甚至为两者之间有意义的混合方法打开大门。
+
+
+
+
+
+合作社，是指由工人、客户或两者共同拥有所有权的企业，并在一员一票的基础上运作。虽然这种所有权结构构成了合作社模式的基础，但其应用和文化是多种多样的。
+
+
+合作社：
+
+
+消费者合作社
+采购合作社
+
+多个利益相关者的合作社
+
+住房合作社
+
+营销合作社
+
+生产者合作社
+
+
+DAO 是以区块链为基础的 Token 协调的互联网原生组织，也…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融大鳄、科技名流齐聚，回顾「迈阿密比特币2022」大会上的精彩时刻]]></title>
         <id>https://www.theblockbeats.info/news/30104</id>
@@ -237,65 +289,6 @@ web3 的产品架构和 web2 到底有什么区别？
 
 
 但在拆解之前，需要先回答一个问题，我周围很多朋友说，区块链到底能带给我们什么改变呢？是手机之于电脑的便携，还是 VR 之于屏幕的沉浸？其实这个问题我也没有答案，主要的原因就在于，区块链从架构上就决定了它无法为用户提供很深的体验差异感知，因为从两者的架构图来看，呈现给用户的展现层-前端是没有任何变化的，有变化的均为用户无法肉眼直观感受到的后端及数据层差异，这也就导致区块链的想象空间一直比较抽象，大家可以知道因为移动互联网的出现可以手机点餐、打车，VR 出现大家可以知道看电影、玩游戏，因为这些全都是显示层前…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[善用Etherscan，教你看懂NFT项目情况]]></title>
-        <id>https://www.theblockbeats.info/news/30063</id>
-        <link href="https://www.theblockbeats.info/news/30063"/>
-        <updated>2022-04-08T14:15:47.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-怎么通过看懂 Etherscan 了解 NFT 项目情况？
-
-》
-原文作者：今天有更懂这个世界一点了吗
-本文来自微信公众号：今天有更懂这个世界一点了吗
-
-
-看懂 Etherscan 是成为区块链老炮入门的必要条件。
-
-
-Etherscan 区块链浏览器包含了交易、区块、钱包地址、智能合约等所有区块链公开数据，通过这些信息你可以明白谁在什么时候做了什么事情。
-
-
-我们今天以 Doodles 为案例，带领大家走一遍分析 Doodles 数据的全流程。
-
-
-首先打开 Etherscan 官网，可以在输入框中输入地址进行检索。
-
-
-
-
-
-如果你知道 Doodles 的地址可以直接粘贴进去，如果不知道可以打开 Opensea 进入 Doodles 的某个具体 NFT 主页后，在左侧的 details 中点击 contract address 跳转至 Etherscan 详情页。
-
-
-
-
-
-详情页如下图所示，一般你只需要关注合约余额、合约交互记录和合约代码三部分就足以了解该项目的大部分信息。
-
-
-
-
-
-balance 表示该地址所存放的 ETH 数额，我们在 mint 某个 NFT 项目的时候，缴纳的费用实际上是先到了 NFT 合约地址，然后再由项目方进行一步提款的动作将 ETH 转移至自己的个人地址，通过它你可以知道项目方赚了多少钱，是否进行了提款。
-
-
-transactions 存储了这个地址从诞生至今所有与智能合约交互的行为记录，通过它你可以知道项目方、用户在什么时间进行了什么操作。
-
-
-若项目方将合约进行开源，你可以在 contract 中查看到智能合约代码，以及可以对智能合约进行读写操作，其中写操作是需要 owner 权限才可进行。
-
-
-首先从 transactions 开始，先看一下表头这些字段的含义：
-
-
-Txn Hash：交易哈希，这一次交易的唯一标识
-…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
