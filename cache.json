@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30111",
+          "author": null,
+          "description": "可以退款的ERC721R会成为闯入NFT市场的鲶鱼吗？",
+          "link": "https://www.theblockbeats.info/news/30111",
+          "publishedOn": "2022-04-12T03:21:19.000Z",
+          "wordCount": null,
+          "title": "可以退款的ERC721R会成为闯入NFT市场的鲶鱼吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30108",
           "author": null,
           "description": "原文标题：《\n\n如何利用推特寻找更多的加密 Alpha？\n\n》\n原文作者：Aylo\n原文编译：TechFLow intern\n\n\nTwitter 上有太多的 Alpha。仅凭 Twitter 上的信息，你可以很快从 0 美元涨到 10 万美元，但你需要了解如何去做，下面从 Crypto Twitter 获得更多阿尔法的 6 种方法 ：\n\n\n1. 使用 Twitter 列表\n\n\n这是基本技巧，但大多数人都懒得这样做。您需要按类别组织这些列表，以便您可以快速浏览不同的部门、链接等。我将在接下来的几周内公开我的列表。\n\n\n\n\n\n2. 使用 Tweetdeck\n\n\n如果你想组织你看到的加密内容，这是必不可少的。您可以将任何人的公开列表添加到 Tweetdeck。如果不使用 Tweetdeck 列，您将无法最大限度地提高列表的有效性。 \n\n\n其他列提示：\n\n\n添加你想监控的现金标签作为专栏，但修改设置，以尝试过滤最吸引人的推文。例如，最少 10 个 RTs/likes 等我将各种词静音，例如赠品、竞争、白名单等。这有助于消除噪音。\n\n\n\n\n\n有时，也值得将关键的叙事作为栏目添加。例如 Avax 子网、Eth 合并、稳定币战争等。这将帮助您了解某些叙事的强度。 \n\n\n3. 将关键个人和帐户放在通知上。\n\n\n加密货币中的信息速度是闪电般的。如果您是交易员，则更是如此。 我采用了一些策略：\n\n\n我把 @peckshield 放在通知栏里，因为他们通常是最快发布 Defi 漏洞的地方。我已经能够从这个账户的通知中捕捉到一些做空的机会。\n\n\n\n\n\n我通知上的所有账户都影响我主要账户的投资。这是一个简单的问题，但很多人都没有这样做。\n\n\n几天前，Terra 在推特上说他们已经购买了价值 1 亿美元的 AVAX，并宣布与 Avalanche 进行战略合作。迅速看到这一点会给你一个明确的做多机会。\n\n\n\n\n\n但要小心选择谁。例如，不要选择 BitBoy。\n\n\n\n\n\n4. 使用 IFTTT\n\n\nIFTTT 是一个令人难以置信的工具，它允许你跨应用程序、设备和服务自动采取行动。\n\n\n\n\n\nIFTTT 技巧 1：\n\n\n你可以使用 IFTTT 将具有特定内容的推文保存到谷歌电子表格中。这可以适用于任何你想保持关注的话题。例如，任何包含 StarkNet 的推文。\n\n\nIFTTT 技巧 2:\n\n\nIFTT 可以在每次有新的推文符合你的搜索查询时发送通知。我用它来监视任何谈论我认为不受关注的项目的人，并希望确保我知道是否有大客户开始提及它们。\n\n\n5. 监控 Chad_follows\n\n\nChad_follows 实时推送推特大 V 新关注的账号。你会发现有趣的人可以关注，并且找的一些不错的并且早期项目。\n\n\n6. 收藏推文\n\n\n养成将好的推文/文章加入书签的习惯，这样你就可以在以后阅读它们。\n\n\n几乎每一个流行的加密货币话题都会有一个好的主题。你不可能实时阅读它们。在每个星期结束时回顾你所有的书签。如果你所在的地方有 Twitter Blue，就注册它，并将这些推文整理到书签文件夹中。每个月 3 美元的费用对这个功能来说是非常值得的。\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-04-10T04:09:22.000Z",
           "wordCount": null,
           "title": "周末荐读：「野蛮人」Tiger Global；Web3求职者必读",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30091",
-          "author": null,
-          "description": "原文标题：《\n\nPeter Thiel Pumps Bitcoin, Calls Warren Buffett A 『Sociopathic Grandpa』\n\n》\n原文来源：Forbes\n原文作者：Abram Brown\n本文来自微信公众号：老雅痞\n\n\n数十家公司正在利用周三至周六举行的 Bitcoin 2022 会议作为一个场所，并向行业内外分享公告。\n\n\n纽约市和硅谷在 2021 年的区块链初创企业融资方面继续领先，分别为 65 亿美元和 39 亿美元。但根据市场研究公司 CB Insights 的数据，迈阿密现在与洛杉矶并列，后者融资的数额超过洛杉矶 7.6 亿美元的资金。\n\n\n加密货币交易平台 FTX 去年买下了迈阿密市中心的 NBA 球馆的命名权，取代了美国航空公司。迄今为止，迁往迈阿密的最大的加密货币公司 Blockchain.com 将在时髦的 Wynwood 区安置 200 名员工，其他科技公司和投资者也在那里开店。\n\n\nBlockchain.com 首席执行官兼联合创始人彼得-史密斯说：「温伍德真的有那种精神，当一个新的技术部门建立起来时，你正在寻找这种精神，」他把它与旧金山的南市场社区和纽约的布鲁克林相比较。「最终你想和其他科技公司在一起」。\n\n\n许多人提到了当地官员培养的加密友好环境，主要是迈阿密市长弗朗西斯 · 苏亚雷斯的功劳，他通过吸引科技投资和成为美国的加密货币友好市长之一吸引了全国的关注。\n\n\n其他人指出，迈阿密和佛罗里达都是商业友好型城市，在疫情期间仍然开放，使其作为一个人们可以远程工作的地方更具吸引力。\n\n\n总部位于佛罗里达州 Plantation 的多资产经纪商 TradeStation 的首席执行官 John Bartleman 说：\"很难否认这是一个了不起的机会，公司可以来这里建立他们在加密货币领域的项目。\n\n\nBartleman …",
-          "link": "https://www.theblockbeats.info/news/30091",
-          "publishedOn": "2022-04-09T14:09:56.000Z",
-          "wordCount": null,
-          "title": "Peter Thiel：比特币是传统金融体系的最终替代品",
           "imageUrl": null
         }
       ]
