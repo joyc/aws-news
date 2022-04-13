@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-13T00:35:58.547Z</updated>
+    <updated>2022-04-13T06:11:13.606Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近期你需要关注的11个NFT项目]]></title>
+        <id>https://www.theblockbeats.info/news/30149</id>
+        <link href="https://www.theblockbeats.info/news/30149"/>
+        <updated>2022-04-13T04:35:00.000Z</updated>
+        <summary type="html"><![CDATA[撰文：0x21&0x555，律动 BlockBeats
+
+
+4 月初，Azuki 所带来的空投，又一次点燃了市场的情绪，以 Azuki、Clone X 为首的蓝筹 NFT 项目又迎来了一波的上涨，然而这次上涨也仅仅持续了一周的时间，各大项目均迎来了不同程度的回落。「仿盘」、「山寨」NFT 又成为了主流，一时间社区中呈现出了「静止」的状态，似乎在酝酿着更大的能量。
+
+
+VeeFriends、Ape Land 等老牌 NFT 项目继续开疆拓土，备受关注的 Moonbirds、ProjectPXN 开始发力。4 月中下旬的 NFT 市场势必会展开一场风起云涌的「厮杀」。
+
+
+根据当前社区的热度，律动 BlockBeats 整理了近期值得关注的 NFT 项目汇总如下。
+
+
+VeeFriends Series2
+
+
+
+
+
+
+
+推特粉丝：220k
+
+
+Discord：342,990
+
+
+发售时间：4 月 12 日
+
+
+简介：顶着无数光环的 VeeFriends 即将开放第二季的售卖，总量将会从第一季的 10255 个扩展至 55555 个，售价为 995 美元。其中 32000 个以白名单形式发售（Friend List）10255 个免费送给第一季 Veefriends 的持有者，10000 个公售。VeeFriends 的创作者 Gary Vaynerchuk 也在推特上表示，在盲盒揭示之前，第二季的所有系列都不会提前公布。
+
+
+Ghxsts Comics
+
+
+
+
+
+
+
+推特粉丝：114k
+
+
+Discord：6,414
+
+
+发售时间：4 月 13 日
+
+
+简介：Ghxsts comics 是加密艺术家公羊所创作的漫画故事系列，总量 1000 个 NFT 将取消公售，仅对 Allowlist 的用户开放。
+
+
+Moonbirds
+
+
+
+
+
+
+
+推特粉丝：119k
+
+
+Discord…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以阿迪达斯NFT为例， 带你了解什么是ERC1155]]></title>
+        <id>https://www.theblockbeats.info/news/30148</id>
+        <link href="https://www.theblockbeats.info/news/30148"/>
+        <updated>2022-04-13T04:35:00.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+ERC1155 是什么？以阿迪达斯 NFT 为例解析
+
+》
+原文作者：今天有更懂这个世界一点了吗
+本文来自微信公众号：今天有更懂这个世界一点了吗
+
+
+三大标准协议 ERC20、ERC721（衍生 ERC721A）和 ERC1155，在之前的文章中已经为大家介绍并实战了前 2 个，但第三个 1155 一直没有遇到不错的例子来讲解，恰好昨天有朋友疑惑为什么阿迪达斯的 NFT 只有一个 item 却有 3 万人持有，研究了一下觉得是一个不错的例子，故写下本文来以此阐述什么是 ERC1155。
+
+
+我们先看一下阿迪达斯 NFT 是什么情况，opensea 网址如下：https://opensea.io/collection/adidasoriginals。
+
+
+我们进入后可以看到只有 1 个 NFT，但却有 2 万余人持有它，这时候下意识你可能会猜测它是共享 NFT？或是碎片化 NFT 吗？
+
+
+
+
+
+进入该 NFT 的详情页，我们可以看到共有 21.7K 人持有它。
+
+
+
+
+
+再往下可看到有很多持有者挂单，并且价格不一。   
+
+
+
+
+
+我们点击购买，可以发现要求支付 1.499ETH，即所有挂单价格的最低价。
+
+
+
+
+
+到这里你会感觉好像确实和平时常见的 NFT 看起来不一样，怪怪的。
+
+
+然后我们再点击 details 看一下，Token Id 是 0，众所周知大多数 NFT 的 toklen id 都是递增的，即我发行一万个 NFT，ID 应该是从 0 递增至一万的，但是阿迪达斯发行了 3 万个，按照常理应该有 3 万个 NFT，且 ID 是递增至 3 万的，但为什么这里只有 1 个 ID 为 0 的 NFT 呢？
+
+
+我们继续向下看，它的协议是 ERC1155，猫腻可能是出在这里，大家也许会发现自己在 opensea 上传的 NFT 也用的是 1155 协…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022一季度行业报告：DeFi总锁仓量环比下降16%；NFT季度交易额创新高]]></title>
         <id>https://www.theblockbeats.info/news/30134</id>

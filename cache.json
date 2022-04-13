@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30149",
+          "author": null,
+          "description": "撰文：0x21&0x555，律动 BlockBeats\n\n\n4 月初，Azuki 所带来的空投，又一次点燃了市场的情绪，以 Azuki、Clone X 为首的蓝筹 NFT 项目又迎来了一波的上涨，然而这次上涨也仅仅持续了一周的时间，各大项目均迎来了不同程度的回落。「仿盘」、「山寨」NFT 又成为了主流，一时间社区中呈现出了「静止」的状态，似乎在酝酿着更大的能量。\n\n\nVeeFriends、Ape Land 等老牌 NFT 项目继续开疆拓土，备受关注的 Moonbirds、ProjectPXN 开始发力。4 月中下旬的 NFT 市场势必会展开一场风起云涌的「厮杀」。\n\n\n根据当前社区的热度，律动 BlockBeats 整理了近期值得关注的 NFT 项目汇总如下。\n\n\nVeeFriends Series2\n\n\n\n\n\n\n\n推特粉丝：220k\n\n\nDiscord：342,990\n\n\n发售时间：4 月 12 日\n\n\n简介：顶着无数光环的 VeeFriends 即将开放第二季的售卖，总量将会从第一季的 10255 个扩展至 55555 个，售价为 995 美元。其中 32000 个以白名单形式发售（Friend List）10255 个免费送给第一季 Veefriends 的持有者，10000 个公售。VeeFriends 的创作者 Gary Vaynerchuk 也在推特上表示，在盲盒揭示之前，第二季的所有系列都不会提前公布。\n\n\nGhxsts Comics\n\n\n\n\n\n\n\n推特粉丝：114k\n\n\nDiscord：6,414\n\n\n发售时间：4 月 13 日\n\n\n简介：Ghxsts comics 是加密艺术家公羊所创作的漫画故事系列，总量 1000 个 NFT 将取消公售，仅对 Allowlist 的用户开放。\n\n\nMoonbirds\n\n\n\n\n\n\n\n推特粉丝：119k\n\n\nDiscord…",
+          "link": "https://www.theblockbeats.info/news/30149",
+          "publishedOn": "2022-04-13T04:35:00.000Z",
+          "wordCount": null,
+          "title": "近期你需要关注的11个NFT项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30148",
+          "author": null,
+          "description": "原文标题：《\n\nERC1155 是什么？以阿迪达斯 NFT 为例解析\n\n》\n原文作者：今天有更懂这个世界一点了吗\n本文来自微信公众号：今天有更懂这个世界一点了吗\n\n\n三大标准协议 ERC20、ERC721（衍生 ERC721A）和 ERC1155，在之前的文章中已经为大家介绍并实战了前 2 个，但第三个 1155 一直没有遇到不错的例子来讲解，恰好昨天有朋友疑惑为什么阿迪达斯的 NFT 只有一个 item 却有 3 万人持有，研究了一下觉得是一个不错的例子，故写下本文来以此阐述什么是 ERC1155。\n\n\n我们先看一下阿迪达斯 NFT 是什么情况，opensea 网址如下：https://opensea.io/collection/adidasoriginals。\n\n\n我们进入后可以看到只有 1 个 NFT，但却有 2 万余人持有它，这时候下意识你可能会猜测它是共享 NFT？或是碎片化 NFT 吗？\n\n\n\n\n\n进入该 NFT 的详情页，我们可以看到共有 21.7K 人持有它。\n\n\n\n\n\n再往下可看到有很多持有者挂单，并且价格不一。   \n\n\n\n\n\n我们点击购买，可以发现要求支付 1.499ETH，即所有挂单价格的最低价。\n\n\n\n\n\n到这里你会感觉好像确实和平时常见的 NFT 看起来不一样，怪怪的。\n\n\n然后我们再点击 details 看一下，Token Id 是 0，众所周知大多数 NFT 的 toklen id 都是递增的，即我发行一万个 NFT，ID 应该是从 0 递增至一万的，但是阿迪达斯发行了 3 万个，按照常理应该有 3 万个 NFT，且 ID 是递增至 3 万的，但为什么这里只有 1 个 ID 为 0 的 NFT 呢？\n\n\n我们继续向下看，它的协议是 ERC1155，猫腻可能是出在这里，大家也许会发现自己在 opensea 上传的 NFT 也用的是 1155 协…",
+          "link": "https://www.theblockbeats.info/news/30148",
+          "publishedOn": "2022-04-13T04:35:00.000Z",
+          "wordCount": null,
+          "title": "以阿迪达斯NFT为例， 带你了解什么是ERC1155",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30134",
           "author": null,
           "description": "原文标题：《OKLink Insights｜2022 Q1 加密行业报告》\n原文来源：\n\n欧科云链\n\n\n\n\n\nTL;DR\n\n\n宏观&BTC\n\n\n2022 Q1 Crypto 主要受两个外部因素影响：货币政策&地缘政治，不确定性风险的增加导致比特币价格两次探底。Crypto 整体市值环比下降，Stablecoin 占比小幅扩大。尽管价格出现下跌，但并不阻止机构和上市公司继续增持比特币。空头信号出现，交易平台 Stablecoin 净流出。\n\n\n以太坊&公链\n\n\nETH 的多项指标在 Q1 都不及 BTC，ETH/BTC=0.1 仍是一个需继续努力的目标。ETH 的月销毁量在 1 月创下新高后持续走低，因 EIP-1559 的实施，其年通胀速度下降了 64%。链上活跃度下降，ETH 矿工收入环比跌幅达到了 30%，Gas 价格降至 8 个月低点。2022 年是以太坊向 PoS 转型的关键一年，ETH 2.0 存款合约质押数量突破 1,000 万枚。非 EVM 公链竞相推出 EVM 兼容版本，加速多链生态繁荣，以太坊 TVL 的主导地位持续下降。\n\n\nDeFi\n\n\nDeFi 板块总 TVL 收于 1818 亿美元，较 2021 Q4 环比下降 16%，远高于比特币（-1.23%）、以太坊（-1.17%）以及 Crypto 整体市值（-2.27%）的跌幅。Lido 表现亮眼，Aave V3 做出重要创新。相比 DeFi 锁仓量整体的颓势，Layer2 呈现出了逆势上涨的态势。\n\n\nNFT\n\n\nNFT Q1 的交易额创历史新高，突破 110 亿美元，环比上涨 40%。BAYC、MAYC、Azuki、CryptoPunks 以及 CLONE X 是 2022 年 Q1 NFT 交易额 Top5。NFT 市场玩法复杂化，融合元宇宙、GameFi、DeFi 成新趋势。从空投 NFT 到空投…",
