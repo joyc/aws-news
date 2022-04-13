@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-12T18:09:48.165Z</updated>
+    <updated>2022-04-13T00:35:58.547Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -381,26 +381,6 @@ DAO 是否从合作社演变而来？
 
 
 DAO 是以区块链为基础的 Token 协调的互联网原生组织，也…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融大鳄、科技名流齐聚，回顾「迈阿密比特币2022」大会上的精彩时刻]]></title>
-        <id>https://www.theblockbeats.info/news/30104</id>
-        <link href="https://www.theblockbeats.info/news/30104"/>
-        <updated>2022-04-10T09:38:13.000Z</updated>
-        <summary type="html"><![CDATA[金融大鳄、科技名流齐聚，回顾「迈阿密比特币2022」大会上的精彩时刻]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve生态是套娃还是DeFi乐高的巧妙组合？尝试读懂Redacted Cartel]]></title>
-        <id>https://www.theblockbeats.info/news/30103</id>
-        <link href="https://www.theblockbeats.info/news/30103"/>
-        <updated>2022-04-10T08:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Curve生态是套娃还是DeFi乐高的巧妙组合？尝试读懂Redacted Cartel]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
