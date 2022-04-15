@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-15T06:10:29.637Z</updated>
+    <updated>2022-04-15T12:13:11.448Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[下周即将内测的3A大作Big Time，会迎来Web3游戏的大时代吗？]]></title>
+        <id>https://www.theblockbeats.info/news/30200</id>
+        <link href="https://www.theblockbeats.info/news/30200"/>
+        <updated>2022-04-15T07:05:12.000Z</updated>
+        <summary type="html"><![CDATA[相比书籍或电影，电子游戏是一种较为年轻的文化娱乐方式，不过至今也存在了 50 多年。90 年代后期，互联网的兴起迎来了投币式游戏向在线网络游戏的转变，并带来了一场持续的新玩家浪潮。
+
+
+
+而在过去的十年里，许多新技术也相继涌现，如区块链、智能合约以及 NFT 等，逐渐开启了 Web3 游戏全新的可能性，并有望再次颠覆这个行业。其中，CryptoKitties、Decentraland、和 Axie Infinity 等产品则开创了 Web3 游戏中的许多关键机制，包括不可替代属性、虚拟土地销售和 Play to Earn。
+
+
+
+如今，游戏的商业模式仍在不断创新，并围绕着 NFT 的可验证稀缺性、流动性和游戏内效用等逐渐展开。而近期，于本月 19 日即将开启内测、由 Decentraland 联创等明星团队所打造的 Big Time，便是一款玩家期待已久的 Web3 游戏。接下来，律动 BlockBeats 将为大家详细地介绍下这个注入了 NFT 游戏玩法的 AAA 大作。
+
+
+
+项目概述
+
+
+
+Big Time Studios 旨在打造一个 Web3 游戏工作室，不断降低 Web3 游戏的门槛，它将传统 AAA 级游戏公司的最佳创意与加密公司的最新技术相结合，为那些真正喜欢游戏的人制作一款免费的游戏，让他们愿意在其中投入时间来玩。
+
+
+
+与传统游戏不同，这款游戏中的人物、道具等均是所有权属于玩家的 NFT 资产，为玩家提供了新的灵活性和安全性。玩家可以在公开市场上交易或租赁它们，同时还能够验证这些资产的稀缺性以及出处，玩家将拥有它们属性更多的透明度。
+
+
+
+而区别于去年火热的 GameFi 1.0 游戏，这款游戏则具有更高的可玩性，前者往往通过较高的回报吸引玩家进场，但难以长期维持。Big Time Studios 则希望用户在玩游戏时是因为它有趣，并尽可能获得一种身临其…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[慢雾：区块链黑暗森林自救手册（完整版）]]></title>
         <id>https://www.theblockbeats.info/news/30196</id>
