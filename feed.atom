@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-16T00:35:09.113Z</updated>
+    <updated>2022-04-16T06:09:57.467Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nirvana：新的庞氏还是算法稳定币的涅槃？]]></title>
+        <id>https://www.theblockbeats.info/news/30205</id>
+        <link href="https://www.theblockbeats.info/news/30205"/>
+        <updated>2022-04-16T05:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Nirvana：新的庞氏还是算法稳定币的涅槃？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra与雪崩协议两大创始人对话：平行宇宙的交汇]]></title>
+        <id>https://www.theblockbeats.info/news/30204</id>
+        <link href="https://www.theblockbeats.info/news/30204"/>
+        <updated>2022-04-16T04:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Terra与雪崩协议两大创始人对话：平行宇宙的交汇]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探讨Service DAO的机遇和挑战]]></title>
+        <id>https://www.theblockbeats.info/news/30202</id>
+        <link href="https://www.theblockbeats.info/news/30202"/>
+        <updated>2022-04-16T02:51:07.000Z</updated>
+        <summary type="html"><![CDATA[探讨Service DAO的机遇和挑战]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022趋势与潜力项目价值研究：BTC,Telegram+, 音乐Opul等]]></title>
         <id>https://www.theblockbeats.info/news/30201</id>
