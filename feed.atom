@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-18T12:14:30.181Z</updated>
+    <updated>2022-04-18T18:10:38.357Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊分布式验证者规范]]></title>
+        <id>https://www.theblockbeats.info/news/30232</id>
+        <link href="https://www.theblockbeats.info/news/30232"/>
+        <updated>2022-04-18T12:37:39.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Ethereum Distributed Validator Specification》
+原文作者：Aditya Asgaonkar
+原文编译：ETH 中文
+
+
+引介
+
+
+动因
+
+
+传统的验证者客户端设置
+
+
+以太坊验证者通过用他们的质押私钥对消息签名 (例如区块或证明) 来参与权益证明 (PoS) 协议。质押私钥只能通过客户端软件来访问，客户端根据分配给验证者的职责安排消息的创建和签名。传统的验证者客户端设置会有一些风险：
+
+
+· 质押私钥存在一个地方。如果一个攻击者获得了这个密钥，它可以创建冲突的消息，从而导致验证存款被罚没。
+
+
+ 不运行自己的验证者的质押者需要把他们的质押私钥交给运营商。为了保证他们质押私钥的安全，他们必须信任该运营商。
+
+
+· 如果验证者客户端软件不能创建及时的消息以履行验证者职责，该验证者会遭受怠工惩罚 (inactivity)，余额会减少。
+
+
+ 这可能是由于软件崩溃、断网、硬件故障等原因造成的。
+
+
+· 如果验证者客户端连接的信标节点出现故障，验证者可能跟在一个少数节点所在的分叉上，导致在 PoS 协议的其他部分显示是离线状态。
+
+
+分布式验证者协议
+
+
+分布式验证者协议提供了一个解决方案，以减轻与传统的单个验证者设置相关的风险与担忧。此外，该协议还可以用来实现先进的质押设置，例如去中心化的质押池。
+
+
+基本概念
+
+
+请注意：请参考词汇表，了解分布式验证者规范中引入的新术语的解释。（译者注：见文末）
+
+
+分布式验证者背后的两个基本概念是：
+
+
+· 共识：单个验证者的职责被分给几个共同验证者 (co-validator) ，他们必须协作，在对任何消息签名之前就如何投票达成一致。
+
+
+· M-of-N 门限签名 (threshold signatures)：验证者的质押私钥被分割为 N 个部分，每个共同验证者持有一个 share 。…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andre Cronje：Crypto已死，Crypto万岁]]></title>
         <id>https://www.theblockbeats.info/news/30230</id>
@@ -229,36 +289,6 @@ Akon：我认为人们会喜欢它。我有一些从未发布的歌曲通过这�
 
 
 Akon：是的，我在我的朋友圈里一直在讨论 NFT，人们都…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nirvana：新的庞氏还是算法稳定币的涅槃？]]></title>
-        <id>https://www.theblockbeats.info/news/30205</id>
-        <link href="https://www.theblockbeats.info/news/30205"/>
-        <updated>2022-04-16T05:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Nirvana：新的庞氏还是算法稳定币的涅槃？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra与雪崩协议两大创始人对话：平行宇宙的交汇]]></title>
-        <id>https://www.theblockbeats.info/news/30204</id>
-        <link href="https://www.theblockbeats.info/news/30204"/>
-        <updated>2022-04-16T04:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Terra与雪崩协议两大创始人对话：平行宇宙的交汇]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探讨Service DAO的机遇和挑战]]></title>
-        <id>https://www.theblockbeats.info/news/30202</id>
-        <link href="https://www.theblockbeats.info/news/30202"/>
-        <updated>2022-04-16T02:51:07.000Z</updated>
-        <summary type="html"><![CDATA[探讨Service DAO的机遇和挑战]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
