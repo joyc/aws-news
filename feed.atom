@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-18T06:10:58.119Z</updated>
+    <updated>2022-04-18T12:14:30.181Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Andre Cronje：Crypto已死，Crypto万岁]]></title>
+        <id>https://www.theblockbeats.info/news/30230</id>
+        <link href="https://www.theblockbeats.info/news/30230"/>
+        <updated>2022-04-18T08:55:23.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《The rise and fall of crypto culture》
+原文作者：Andre Cronje
+原文编译：0x22D、0x9F，律动 BlockBeats
+ 
+Crypto 已死，Crypto 万岁。
+ 
+我希望我年纪更老一些。我希望我的年龄大到让我曾见证货币政策诞生的时刻，我希望我能看到他们犯下的错误。因为，我们正在重蹈覆辙。
+ 
+我经常觉得 Crypto 领域中许多正在被创造出的东西，是被那些在维基百科中学习债券、铸币税、债务工具的人创造出来的。他们对自己说：「我可以做得比之前的人更好」。
+ 
+这样的事在编写代码的时候也经常发生。你发现了另一个组织或开发者编写的一段新代码，很快你就开始寻找错误，「这里不是必需的」，「这里本可以写得更好」，「他们为什么这样写？这一段毫无意义」，然后开始「我可以做得更好」。所以你在接下来的几天、几周甚至几个月的时间里重新设计了代码，然后你撞上了第一堵墙，必须做出一些调整，接着是第二个、第三个等等。最终，你的代码看起来就和他们的几乎完全一样了。当你终于明白为什么它是这样的时候，你就会感受到「哦，对，这就是为什么」。
+ 
+货币政策也是如此，不能孤立地看待货币供应、发行、债务、公债、铸币税、债券、商品、证券、衍生品。它们的存在是有原因的。但 Crypto 是全新的一代，「我们可以做得更好」的一代。
+ 
+对 Crypto 文化的蔑视和对 Crypto 精神的热忱，我从来都直言不讳。这听起来有些奇怪，但 Crypto 精神是类似自我主权、自我监护、自我赋能这样的概念，而 Crypto 文化是类似财富、权益、致富和 ego 这样的概念。
+ 
+Crypto 文化扼杀了 Crypto 精神。
+ 
+一位教授曾告诉我，「协议的出现，是为糟糕而非美好的时候准备的」。监管和立法也是如此。它们在最糟糕、你最需要它们的时候出现，而不是在有蜜月和香槟的美好时光里。
+ 
+我现在比以往任何时候都认为，监管是必要的，甚至是必需的。不是作为一种预防机制，而是作为一种保护机制。这就像孩子试图把手指伸进电源插座，你在他们能够了解他们不该这样做之前阻止他们。总有一天他们会明白，但不是今天。
+ 
+Crypto 已死，Crypto 万岁。
+ 
+我们正在进入全新的时代，眼下的迭代将造就恶土，其中有无名的钱包潜伏在阴影里。我们将看到一个崭新的区块链经济的崛起，它不由贪婪驱动，而由信任驱动（并非信任最小化）。绕了一圈显得有些讽刺，但我发现自己比以前更激动。我不会再踏入恶土，但我对这个新的未来感到极度兴奋。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密叙事的渐进式去中心化]]></title>
         <id>https://www.theblockbeats.info/news/30210</id>
