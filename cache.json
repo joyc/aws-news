@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30249",
+          "author": null,
+          "description": "原文标题：《\n\nCoordination and Crypto Charity\n\n》\n原文作者:   Takens Theorem\n原文编译：DAOrayaki，DoraFactory\n\n\n十万条以太坊主网的交易记录，显示了区块链慈善捐赠是如何协调的。\n\n\n加密货币有一个奇怪的矛盾点。它强调个人主权，一些人认为这是一个核心的概念。但也有一种看似相反的力量，将之视为协调和共识的过程。这种矛盾不难解释。在加密货币中，如果没有信任最小化的协调，你就不可能有主权的个人。如同一个硬币的两面。虽然我们更常讨论自我银行和自我托管，但人们正在关注加密货币空间所带来的丰富的协调形式。\n\n\n一个鼓舞人心的协调案例是慈善捐赠。加密货币是一个天然的慈善媒介。它最大限度地减少了可能限制捐赠的中介、门槛和边界。捐赠可以瞬间到达募捐目标。这个过程既可以是匿名的，也可以在公共账簿上公布，让所有人看到，作为「捐赠的证明」。\n\n\n因为慈善机构有时会使用公共地址，我们可以从区块链中挖掘出这种协调模式。因此，DAOrayaki 社区对《加密社区如何协调慈善捐赠》一文，进行编译。此文中，搜集了一个适度的数据集，其中包括对以太坊主网上约 20 个公共地址的 100,000 个输入（完整列表和重要注意事项见附录）。这只是整个加密货币捐赠的一个子集，集中在使用 Etherscan API 的数据样本上。尽管不完整，这个链上的捐赠记录揭示了协调的力量，速度和效率，以及不同的协调形式。\n\n\n在调查这个数据样本时，观察到四种清晰的协调模式，并在下文中总结了这些模式：病毒式、基于倡议的、自动化和自发式。这些特征对于人道主义行动尤其重要，因为此时全球都十分关切，需要资源迅速到位。所以在总结这些模式之前，我们想先举几个重要的例子。\n\n\n关注案例\n\n\n有两个很容易发现的案例。第一个发生在 2021 年，当时印度遭遇了最大的一波 COV…",
+          "link": "https://www.theblockbeats.info/news/30249",
+          "publishedOn": "2022-04-19T14:51:39.000Z",
+          "wordCount": null,
+          "title": "加密世界协调慈善捐赠的四种模式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30248",
           "author": null,
           "description": "原文标题：《Berkeley Blockchain Xcelerator: 2022 Cohort Announcement and Ecosystem News》\n原文作者：Berkeley Blockchain Xcelerator\n\n\n原文编译：麟奇，链捕手\n\n\n\n导读：近日，加州大学伯克利分校区块链加速器公布 2022 年批次孵化项目，Anorra、Auth3 Network 等 20 个项目从 300 份申请中入围。\n\n\n此前，Blockchain Xcelerator 在前四批活动中孵化 65 个团队，后续融资超过 4 亿美元，其中包括 Acala、Automata、Astar、Manta Network 等知名项目，是美国一流的高校区块链加速器。\n\n\n以下是本批次项目的具体名单：\n\n\n \n\nAlfredPay\n\n\nAlfredPay 是一个拉丁美洲的汇款平台，旨在为用户提供一种方便且经济实惠的汇款和收款方式。我们与受监管的金融机构和现金网络合作，提供即时获取当地货币或美元的功能，以换取 USDC。\n\n\n \n\nAnifie, Inc.\n\n\n后疫情时代的数字化趋势迫使音乐和时尚品牌寻找新的盈利方式。Anifie 使用我们的专有软件帮助音乐和时尚品牌创建、销售和提升 NFT 的价值。我们能使不同品牌的内容 IP，以 NFT 的形势出售。同步 NFT 的销售，我们的客户在我们的元宇宙中举办活动，从而使其社区更强大，进一步利好 NFT。\n\n\n \n\nAnorra\n\n\nAnorra 是一款建立在 Solana 上，使用虚幻引擎打造的，基于浏览器的 Free-to-Play 移动端 MMO 游戏。Anorra 为用户提供了方便、有趣且简化的参与 DeFi 的方式。我们的目标是通过史诗级游戏或 GameFi 扩大 DeFi 在不同人群中的应用。我们特别致力于打破这一领域的障碍并…",
@@ -63,26 +73,6 @@
           "publishedOn": "2022-04-17T10:00:27.000Z",
           "wordCount": null,
           "title": "NFT被盗事件频发，资产安全如何保障？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30208",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《Nirvana：新的庞氏还是算法稳定币的涅槃？》\n\n\n\n如何让项目在维持高 APY 的同时保证稳定性，防止恶性通货膨胀，让任何阶段入场的投资者都能在获利后「健康」地离场，是现阶段 DeFi 项目在探索的目标，而 Solana 网络上的一个名为 Nirvana 的算法稳定币协议似乎交出了它的答卷。仅仅正式上线 10 天就创造了超过 10 倍的收益、号称能够实现「负利率零清算风险借贷」的 Nirvana 究竟是新的庞氏还是算法稳定币的涅槃呢？\n\n\n\n《持续分化的 NFT 市场：新的金字塔正在形成》\n\n\n \n\n3 月中下旬，Yuga Labs 打出了一套行云流水、威力巨大的组合拳，几乎以一己之力将熊打跑。此后，「蓝筹」间悄然出现了分化：BAYC 的地板价重新回到 100ETH 上方，Azuki 不断刷新历史新高，而 CyberKongz 和土地板块却在这轮狂欢中黯然失色。各个 NFT 项目在自身能力与发展方向上的分化是动态的，以「蓝筹」进行项目等级划分不仅模糊，且具有时延性。本文尝试为「蓝筹」这个区间重新分层，从运营、营销及发展路线上观察目前蓝筹项目的金字塔应该是什么样子。\n\n\n \n\n《9 天暴涨 365 倍的 CultDAO，「信徒」还是「邪教」？》\n\n\n \n\nCultDAO 步步为营，在 unicrypt 上募资，找 SolidProof 审计，尽管 Token 上线后近 2 个月寂寂无闻，但最终在 3 月底迎来爆发，9 天暴涨 365 倍。巨大的财富效应、神秘项目方、KOL 做「守护者」、意识形态加持等因素杂糅在一起，让它迅…",
-          "link": "https://www.theblockbeats.info/news/30208",
-          "publishedOn": "2022-04-17T06:00:27.000Z",
-          "wordCount": null,
-          "title": "周末荐读：Nirvana是新庞氏还是算稳涅槃？四大Layer2协议交互指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30207",
-          "author": null,
-          "description": "原文标题：《\n\nAn Interview with Nvidia CEO Jensen Huang about Manufacturing Intelligence\n\n》\n原文来源：Stratechery\n原文编译：Kxp，律动 BlockBeats\n\n\n如果我们理想的元宇宙仍然是游戏或者科幻电影里那样的世界，那英伟达绝对是当下最接近实现元宇宙场景的巨头，在去年的 GTC 大会上，CEO 黄仁勋介绍了其旗下的 Omniverse 平台，基于真实世界的各种物理特性，让开发者创建虚拟世界，换句话说，就是一个将 3D 世界连接至共享虚拟世界的平台。\n\n\n而在 2022 年的 GTC 大会，黄仁勋又带来了新的概念：智能制造（Manufacturing Intelligence），一种人工智能通过机器学习创造人工智能的理念。\n\n\n为了了解智能制造的概念，以及其对未来元宇宙的可能作用，Stratechery 请到了黄仁勋，与他聊了聊对人工智能和机器学习的理解。律动 BlockBeats 将文章翻译如下，希望能对读者有所帮助。\n\n\nBen：非常高兴今天能与你交流，我一直是你的粉丝。大学时期我曾经造过电脑，当时很想得到一块 TNT 卡。当时 3Dfx 出了一款，但是当时我在想，Nvidia 的肯定比这个要厉害。如今 25 年已经过去了，我终于有机会和你当面交谈，看到你还在这个领域，我的心情非常激动。\n\n\n黄仁勋：TNT 确实让我们出了名，RIVA 128风险很高，我们发明了几样东西才将其做成。第一个是浮点设置引擎，第二个是纹理缓存，然后第三个是宽内存，并将内存性能提升到了了当时的极限。这三样事物十分具有突破性，而在 TNT 中，我们把所有的东西都增加了一倍——我们做了双纹理，建立了双像素流水线。不过，这只是一个开始，TNT 将成为搭建多像素流水线架构的基础，这一开创性的工作将图形架构带入了…",
-          "link": "https://www.theblockbeats.info/news/30207",
-          "publishedOn": "2022-04-17T04:26:18.000Z",
-          "wordCount": null,
-          "title": "对话英伟达CEO黄仁勋：用AI去创造AI",
           "imageUrl": null
         }
       ]
