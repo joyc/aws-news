@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-19T00:35:14.728Z</updated>
+    <updated>2022-04-19T06:11:09.535Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bankless：以太坊帝国时代将至]]></title>
+        <id>https://www.theblockbeats.info/news/30234</id>
+        <link href="https://www.theblockbeats.info/news/30234"/>
+        <updated>2022-04-19T04:13:23.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+以太坊的「帝国模式」
+
+》
+原文来源：David Hoffman，Bankless 联合创始人
+原文编译：南风，Unitimes 
+
+
+Crypto 领域流行部落主义，一直如此。
+
+
+CoinGecko 市值排行榜的第一名只有一个，我们都想要成为第一。
+
+
+当前，Crypto 领域有足够的空间来「做大蛋糕」；我们只是处于诸多 Crypto 网络漫长增长阶段的前几个回合。在这场寒武纪大爆发的初期，对于多链有如此多的空间，以至于整个 Crypto 生态系统可以容纳的 L1 区块链的数量似乎并没有限制！
+
+
+这些部落主义和内斗是怎么回事？每条 L1 链都有空间，对吧？
+
+
+并非如此。
+
+
+我们能把蛋糕做大并不重要；当某个 L1 链生态系统占据最大份额时 (越大越好)，这场游戏最终不可避免地会倒塌。
+
+
+区块链就像国际象棋：如果你没有走最好的一步，那么就等同于你走错了一步。如果你给你的对手一点空间，他们就一定会抓住。如果你把什么东西留在桌子上，就会有人立刻把它抢走。如果你没有去竞争第一名的位置，那么你就会受到其他人的支配。
+
+
+因此，每条链都必须竞争第一的位置。
+
+
+流动性带来的流动性。资本产生资本。网络效应产生网络效应。获胜的 L1 链会抓住所有这些东西。
+
+
+货币之战是 Crypto 行业的日常。
+
+
+「货币溢价」是 Crypto 领域最稀缺的资源。这是每个区块链都想要的东西，但不是每个区块链都能拥有。比特币拥有很多。以太坊有一些。其他的链拥有的都很少。
+
+
+货币溢价只有这么多。
+
+
+这就是为什么存在部落主义。这就是我们一直争吵的原因。只有一个头号加密网络，而我们都想成为第一。
+
+
+民族国家的货币之战
+
+
+同样的竞争也发生在民族国家的层面。
+
+
+基于几个世纪的时间框架，你会看到民族国家相互竞争、勾结和战争，以占据全球权力的第一位置。
+
+
+民族国家为了垄断暴力而竞…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊分布式验证者规范]]></title>
         <id>https://www.theblockbeats.info/news/30232</id>
