@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30248",
+          "author": null,
+          "description": "原文标题：《Berkeley Blockchain Xcelerator: 2022 Cohort Announcement and Ecosystem News》\n原文作者：Berkeley Blockchain Xcelerator\n\n\n原文编译：麟奇，链捕手\n\n\n\n导读：近日，加州大学伯克利分校区块链加速器公布 2022 年批次孵化项目，Anorra、Auth3 Network 等 20 个项目从 300 份申请中入围。\n\n\n此前，Blockchain Xcelerator 在前四批活动中孵化 65 个团队，后续融资超过 4 亿美元，其中包括 Acala、Automata、Astar、Manta Network 等知名项目，是美国一流的高校区块链加速器。\n\n\n以下是本批次项目的具体名单：\n\n\n \n\nAlfredPay\n\n\nAlfredPay 是一个拉丁美洲的汇款平台，旨在为用户提供一种方便且经济实惠的汇款和收款方式。我们与受监管的金融机构和现金网络合作，提供即时获取当地货币或美元的功能，以换取 USDC。\n\n\n \n\nAnifie, Inc.\n\n\n后疫情时代的数字化趋势迫使音乐和时尚品牌寻找新的盈利方式。Anifie 使用我们的专有软件帮助音乐和时尚品牌创建、销售和提升 NFT 的价值。我们能使不同品牌的内容 IP，以 NFT 的形势出售。同步 NFT 的销售，我们的客户在我们的元宇宙中举办活动，从而使其社区更强大，进一步利好 NFT。\n\n\n \n\nAnorra\n\n\nAnorra 是一款建立在 Solana 上，使用虚幻引擎打造的，基于浏览器的 Free-to-Play 移动端 MMO 游戏。Anorra 为用户提供了方便、有趣且简化的参与 DeFi 的方式。我们的目标是通过史诗级游戏或 GameFi 扩大 DeFi 在不同人群中的应用。我们特别致力于打破这一领域的障碍并…",
+          "link": "https://www.theblockbeats.info/news/30248",
+          "publishedOn": "2022-04-19T10:50:45.000Z",
+          "wordCount": null,
+          "title": "20个新项目，伯克利区块链加速器2022年孵化项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30234",
           "author": null,
           "description": "原文标题：《\n\n以太坊的「帝国模式」\n\n》\n原文来源：David Hoffman，Bankless 联合创始人\n原文编译：南风，Unitimes \n\n\nCrypto 领域流行部落主义，一直如此。\n\n\nCoinGecko 市值排行榜的第一名只有一个，我们都想要成为第一。\n\n\n当前，Crypto 领域有足够的空间来「做大蛋糕」；我们只是处于诸多 Crypto 网络漫长增长阶段的前几个回合。在这场寒武纪大爆发的初期，对于多链有如此多的空间，以至于整个 Crypto 生态系统可以容纳的 L1 区块链的数量似乎并没有限制！\n\n\n这些部落主义和内斗是怎么回事？每条 L1 链都有空间，对吧？\n\n\n并非如此。\n\n\n我们能把蛋糕做大并不重要；当某个 L1 链生态系统占据最大份额时 (越大越好)，这场游戏最终不可避免地会倒塌。\n\n\n区块链就像国际象棋：如果你没有走最好的一步，那么就等同于你走错了一步。如果你给你的对手一点空间，他们就一定会抓住。如果你把什么东西留在桌子上，就会有人立刻把它抢走。如果你没有去竞争第一名的位置，那么你就会受到其他人的支配。\n\n\n因此，每条链都必须竞争第一的位置。\n\n\n流动性带来的流动性。资本产生资本。网络效应产生网络效应。获胜的 L1 链会抓住所有这些东西。\n\n\n货币之战是 Crypto 行业的日常。\n\n\n「货币溢价」是 Crypto 领域最稀缺的资源。这是每个区块链都想要的东西，但不是每个区块链都能拥有。比特币拥有很多。以太坊有一些。其他的链拥有的都很少。\n\n\n货币溢价只有这么多。\n\n\n这就是为什么存在部落主义。这就是我们一直争吵的原因。只有一个头号加密网络，而我们都想成为第一。\n\n\n民族国家的货币之战\n\n\n同样的竞争也发生在民族国家的层面。\n\n\n基于几个世纪的时间框架，你会看到民族国家相互竞争、勾结和战争，以占据全球权力的第一位置。\n\n\n民族国家为了垄断暴力而竞…",
