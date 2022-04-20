@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-20T00:37:06.497Z</updated>
+    <updated>2022-04-20T06:10:45.981Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全方位解读投资DAO，新趋势下的问题与风险]]></title>
+        <id>https://www.theblockbeats.info/news/30246</id>
+        <link href="https://www.theblockbeats.info/news/30246"/>
+        <updated>2022-04-20T02:32:23.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+对投资 DAO 的一些思考
+
+》
+原文作者：Marina，W3.Hitchhiker
+
+
+在 2021 年的 7 月末，一个名为「PleasrDAO「的去中心化自治组织聚集在一起，花费高达 400 万美元购买下 Wu-Tang Clan 专辑「Once Upon a Time in Shaolin」的唯一现存副本。其实这不是 PleasrDAO 第一次花大手笔购买收藏品了，早在 6 月该组织就以 400 万美元购买了原始 Doge meme 的 NFT。PleasrDAO 拥有数百万美元的资金专门投资于稀有收藏品，它看起来像是一家常规的投资公司，但是我们都知道，它最大的不同是运行在区块链技术上，这种组织也就是为我们熟知的 DAO（Decentralized Autonomous Organization 去中心化自治组织）。
+
+
+最近一些 DAO 开始吸引了传统投资市场和加密 KOL 的注意，其中不乏亿万富翁马克. 库班，他称 DAO 为资本主义和进步主义的终极结合。著名加密投资机构 A16Z 还专门领导和布局了对于 DAO 的投资金额，据披露达数百万美元。
+
+
+
+
+随着 2021 年加密市场大牛市的行情驱使，各个赛道都开始在紧锣密鼓的投融资，DAO 也在这两年赚足了市场投资者的眼球。不同于传统加密 VC 的公司实体运作方式，Ventures DAO（也就是我们平常称作的投资 DAO）也开始大放光彩，市场也开始预测投资 DAO 将成为下一个趋势，最主要的原因还是在于这种方式能够将人才从传统的企业框架中解放出来，并且如果社区在治理方面表现出色，每个成员都可以分到一杯羹。
+
+
+最近的市场除了 STEPN 这个链游热点之外，还有 CULT.DAO 这个去中心化的风投机构掀起的 FOMO 情绪。普通用户难以参与到一级市场的投资，特别是在市场过热的时候，CULT.DA…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密世界协调慈善捐赠的四种模式]]></title>
         <id>https://www.theblockbeats.info/news/30249</id>
