@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-19T18:15:09.126Z</updated>
+    <updated>2022-04-20T00:37:06.497Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -295,29 +295,6 @@ Crypto 已死，Crypto 万岁。
 
 
 事情显然不再那么简单了。首先，我们不需要去猎取食物。我们打开 DoorDash 或 Uber…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT被盗事件频发，资产安全如何保障？]]></title>
-        <id>https://www.theblockbeats.info/news/30209</id>
-        <link href="https://www.theblockbeats.info/news/30209"/>
-        <updated>2022-04-17T10:00:27.000Z</updated>
-        <summary type="html"><![CDATA[视频来源：创宇区块链实验室
-
-
-4 月 1 日，周杰伦在 INS 上发文，表示自己价值超 300 万 的 NFT 被盗。而后一周，超 30 个 NFT 相继被盗，NFT 也再度进入大众的视野。也引起了大家对 NFT 安全性的热议。作为未来数字时代身份证明 NFT，真的足够安全吗，知道创宇区块链安全实验室本期视频从 NFT 铸造-交易过程带你了解 NFT 及安全性问题。  
-
-
-
-
-更多 NFT 防骗指南请关注文章：《请把这份 NFT 防盗指南转发给周杰伦》 
-
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
