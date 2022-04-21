@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-21T06:10:28.463Z</updated>
+    <updated>2022-04-21T12:17:34.904Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[亚洲NFT的荆棘之路]]></title>
+        <id>https://www.theblockbeats.info/news/30271</id>
+        <link href="https://www.theblockbeats.info/news/30271"/>
+        <updated>2022-04-21T09:36:39.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+亚洲 NFT 的荆棘之路
+
+》
+原文作者：老雅痞
+本文来自微信公众号：老雅痞
+
+
+NFT 市场的狂欢
+
+
+2021 年，NFT 取得了举世瞩目的成绩，截至 21 年底，已经具有数百亿美元的市值体量，仅 2021 年一年的时间里，其市值相比于 2020 年就膨胀了几百倍，资本是敏锐的，各个公司和机构紧盯着这个巨大的增量市场。众多传统消费领域企业拥抱 NFT 市场，利用 NFT 来进行营销，奥迪基于新奥迪 A8L 系列发布五款 NFT。法国奢侈品牌路易威登推出一款 NFT 游戏，耐克也收购了 NFT 领域的 Rtfkt，这是一家 2020 年成立的初创公司，创建了运动鞋和其他收藏品的 NFT。
+
+
+从 2022 年初开始，大量的亚洲资金也开始流入了 NFT 市场，在最近这段时间内，也涌现出了一些知名的带有东方元素的 NFT 系列，在这其中就有我们熟知的冷兔、阿狸、小幽灵 杰伦熊和 Azuki 等等。直到最近一周，市场也由 Moonbirds 和一些社交 NFT Pass 让整个市场陷入了一场狂欢盛宴。
+
+
+不过全球各个地区由于监管环境方面的原因，发展情况也各不相同，一些毫无价值的 NFT 被炒到了很高的价格，在目前 NFT 市场监管相对不够完善的情况下，这是比较令人担忧的，NFT 市场仍存在着哪些制约因素和驱动因素，值得进一步深度研究。
+
+
+国产 PFP NFT 之痛
+
+
+从顶着国产之光的光环横空出世，到最后引起全网群嘲黯然离场。阿狸团队用自己步步脚滑的战略打法，为社区成员在 2 月份上演了一场别开生面的「大戏」。
+
+
+2022 年 2 月 15 日，中国的知名 IP 项目阿狸系列 NFT 上线，随后，项目爆出技术漏洞，用户在不打开盲盒的情况下也可以访问对应的元数据和图片，最让人哭笑不得的是，在提供 NFT Mint 的官网右上方，原本用来链接以太坊钱包的 Co…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为失败而生：算法Stablecoin的内在脆弱性]]></title>
         <id>https://www.theblockbeats.info/news/30270</id>
