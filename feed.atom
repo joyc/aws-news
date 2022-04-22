@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-21T18:10:34.668Z</updated>
+    <updated>2022-04-22T00:39:54.492Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -356,54 +356,6 @@ Coordination and Crypto Charity
 
 
 有两个很容易发现的案例。第一个发生在 2021 年，当时印度遭遇了最大的一波 COV…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20个新项目，伯克利区块链加速器2022年孵化项目一览]]></title>
-        <id>https://www.theblockbeats.info/news/30248</id>
-        <link href="https://www.theblockbeats.info/news/30248"/>
-        <updated>2022-04-19T10:50:45.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Berkeley Blockchain Xcelerator: 2022 Cohort Announcement and Ecosystem News》
-原文作者：Berkeley Blockchain Xcelerator
-
-
-原文编译：麟奇，链捕手
-
-
-
-导读：近日，加州大学伯克利分校区块链加速器公布 2022 年批次孵化项目，Anorra、Auth3 Network 等 20 个项目从 300 份申请中入围。
-
-
-此前，Blockchain Xcelerator 在前四批活动中孵化 65 个团队，后续融资超过 4 亿美元，其中包括 Acala、Automata、Astar、Manta Network 等知名项目，是美国一流的高校区块链加速器。
-
-
-以下是本批次项目的具体名单：
-
-
- 
-
-AlfredPay
-
-
-AlfredPay 是一个拉丁美洲的汇款平台，旨在为用户提供一种方便且经济实惠的汇款和收款方式。我们与受监管的金融机构和现金网络合作，提供即时获取当地货币或美元的功能，以换取 USDC。
-
-
- 
-
-Anifie, Inc.
-
-
-后疫情时代的数字化趋势迫使音乐和时尚品牌寻找新的盈利方式。Anifie 使用我们的专有软件帮助音乐和时尚品牌创建、销售和提升 NFT 的价值。我们能使不同品牌的内容 IP，以 NFT 的形势出售。同步 NFT 的销售，我们的客户在我们的元宇宙中举办活动，从而使其社区更强大，进一步利好 NFT。
-
-
- 
-
-Anorra
-
-
-Anorra 是一款建立在 Solana 上，使用虚幻引擎打造的，基于浏览器的 Free-to-Play 移动端 MMO 游戏。Anorra 为用户提供了方便、有趣且简化的参与 DeFi 的方式。我们的目标是通过史诗级游戏或 GameFi 扩大 DeFi 在不同人群中的应用。我们特别致力于打破这一领域的障碍并…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
