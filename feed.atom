@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-22T18:10:06.485Z</updated>
+    <updated>2022-04-23T00:35:30.490Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -620,90 +620,6 @@ Cathy Merrill：无法停止购买。这就是大家想讨论的问题。让我�
 
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢雾：揭露浏览器恶意书签如何盗取你的Discord账户]]></title>
-        <id>https://www.theblockbeats.info/news/30268</id>
-        <link href="https://www.theblockbeats.info/news/30268"/>
-        <updated>2022-04-20T12:08:33.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《慢雾：揭露浏览器恶意书签如何盗取你的 Discord Token》
-原文作者：耀，慢雾安全团队
-
-
-
-
-
-背景
-
-
-
-区块链的世界遵循黑暗森林法则，在这个世界我们随时可能遭受到来自不明的外部攻击，作为普通用户不进行作恶，但是了解黑客的作恶的方式是十分必要的。
-
-
-慢雾安全团队此前发布了区块链黑暗森林自救手册
-
-
-（https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook），其中提到了不少关于针对 NFT 项目方的 Discord 进行攻击的手法，为了帮助读者对相关钓鱼方式有更清晰的认知，本文将揭露其中一种钓鱼方法，即通过恶意的书签来盗取项目方 Discord 账号的 Token，用来发布虚假信息等诱导用户访问钓鱼网站，从而盗取用户的数字资产。
-
-
-
-
-钓鱼事件
-
-
-
-
-先来回顾一起 Discord 钓鱼事件：2022 年 3 月 14 日，一则推特称 NFT 项目 Wizard Pass 的 Discord 社区被诈骗者入侵，目前已造成 BAYC、Doodles、Clone X 等 NFT 被盗，详情如下：
-
-
-
-
-
-
-
-
-
-（来源：https://twitter.com/SerpentAU/status/1503232270219431941）
-
-
-
-牵出其中一个解读：
-
-
-
-
-
-
-
-
-（来源：https://twitter.com/sentinelwtf/status/1496293768542429187）
-
-
-
-该解读里说的 bookmark 就是浏览器书签，这个书签里的内容可以是一段 JavaScript 恶意代码，当 Discord 用户点击时，恶意 JavaScript 代码就会在用户所在的 Discord 域内执行，盗取 Discord Token，攻击者获得项目方…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博专访：当下最具流量的比特币「狂人」]]></title>
-        <id>https://www.theblockbeats.info/news/30267</id>
-        <link href="https://www.theblockbeats.info/news/30267"/>
-        <updated>2022-04-20T08:51:31.000Z</updated>
-        <summary type="html"><![CDATA[彭博专访：当下最具流量的比特币「狂人」]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据告诉你，ETH「燃烧」得有多剧烈]]></title>
-        <id>https://www.theblockbeats.info/news/30266</id>
-        <link href="https://www.theblockbeats.info/news/30266"/>
-        <updated>2022-04-20T08:51:31.000Z</updated>
-        <summary type="html"><![CDATA[数据告诉你，ETH「燃烧」得有多剧烈]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
