@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30314",
+          "author": null,
+          "description": "原文标题：《\n\n我眼中的创作者经济\n\n》\n原文作者：堆烟 #7170，DAOSquare\n\n\n\n突然发现，已经一年多没有输出了，也没有更新 Lore。\n\n\n今天，强制接了一个任务，整理下个人对创作者经济的理解。\n\n\n开发经历\n\n\n2014~2015 年中，笔者一直在开发楚辞，定位是基于语义网、开放的中文知识库。那段时间，一直发愁的是数据量和应用场景，有时也会想开放的反面：隐私和不公开——定位于私人的知识管理、企业的知识管理。\n\n\n2015 下半年开始，媒体上冒出不少唱衰 Evernote 的文章：从硅谷宠儿到麻烦缠身，独角兽 Evernote 走向衰落的内幕。笔者心想，也许可以试试从笔记这个形式入手，毕竟容易扩展：笔记是个坑，什么都能往里面装啊（文字，图片/截屏，声音，视频，手写笔迹等等）。\n\n\n结合那段时间的思考，楚辞如果抛弃了知识定义，只保留数据会怎样？那就是 JSON——用户群体可以定位为极客的笔记项目？\n\n\n于是，Lore 诞生了。\n\n\n随着对效率、易用性的需求，Lore 在 JSON 编辑器和模板的概念之后，逐步引入了 JSON 的可视化模板、思维导图、答题、分析框架等内容形式。\n\n\n\n\n\n也是从 2015 年，我开始亡羊补牢在知乎输出。——嗯，强制输出。\n\n\n但是，对于盈利，虽然有不少思考，却由于各种原因，始终没有实现。\n\n\nUGC 中的利益分配模型\n\n\n这个模型最初考虑的是数据方面的收益分配，涉及平台、原始拥有者、提交数据者、数据的归一化处理者、传播链中的用户等角色。\n\n\n\n\n\n这一时期，无论是上面的 UGC 利益分配模型，还是下面关于广告平台的想法，整体上仍然是平台思维。\n\n\n\n\n\n去中心化\n\n\n2019 年，Google Reader、Google+相继被关闭。\n\n\n2020 年春节后，笔者开始进入币圈，接触的一系列项目，让我不再局限于笔记、知识管理，很多…",
+          "link": "https://www.theblockbeats.info/news/30314",
+          "publishedOn": "2022-04-24T14:27:22.000Z",
+          "wordCount": null,
+          "title": "从创作者的角度，看Web3世界中创作者经济的痛点与机遇",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30309",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《算法稳定币的魔戒梦：LUNA 之后，不会再有下一个 UST》\n\n\n \n\n最近，NEAR 在完成 3.5 亿美元融资后，迅速启动自己的算稳项目 USN，希望通过借鉴 LUNA- UST 的模式推动自己生态的发展。稳定币作为加密领域最大的赛道，吸引着无数项目的眼光。但因为对启动成本、做市能力的要求高，这条赛道一直被机构独占。算法稳定币以自己独特的双币机制，希望通过摆脱背书实现弯道超车，但大多项目都迅速夭折。在 UST「大获成功」后，人们对算稳的未来又有了新的希望，但纯粹的去中心化算稳真的行得通吗？\n\n\n本文中，就该问题与 Multicoin 合伙人 Mable Jiang、dForce 创始人杨民道，以及真本聪索老师做探讨，从 VC、从业者、投资者这角度对算稳的困局和未来进行了思考。\n\n\n \n\n《Andre Cronje：Crypto 已死，Crypto 万岁》\n\n\n \n\n我们正在进入全新的时代，眼下的迭代将造就恶土，其中有无名的钱包潜伏在阴影里。我们将看到一个崭新的区块链经济的崛起。Crypto 精神是类似自我主权、自我监护、自我赋能这样的概念，而 Crypto 文化是类似财富、权益、致富和 ego 这样的概念。Crypto 文化扼杀了 Crypto 精神。\n\n\n \n\n《数据告诉你，ETH「燃烧」得有多剧烈》\n\n\n \n\nETH 是以太坊的燃料，当你在智能合约上执行交易时就要用到它，而它一旦使用就被销毁。以太坊上平均每天发生 100 多万笔交易，价值约为 201 亿美元。是不是很吃惊？照目前的使用情况，ETH 的供应量低于 1 …",
@@ -93,46 +103,6 @@
           "publishedOn": "2022-04-22T07:24:40.000Z",
           "wordCount": null,
           "title": "请回答1739：加密货币在美国各州政治走向",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30280",
-          "author": null,
-          "description": "原文作者：Bitcoin.com\n\n\n\n\n\n据 Bitcoin.com 报道，4 月 22 日，全球首个提供 GaaS 服务（GameFi as a Service）的平台 Game Space 正式上线，并宣布从头部风投基金、游戏上市公司与加密交易平台处获得超过 700 万美元的融资。\n\n\n\nGame Space 面向大型游戏公司提供 GameFi 一站式服务，尤其提供了一键快速集成的 SDK，以及可嵌入游戏的 NFT 交易引擎，可帮助 GameFi 项目缩短半年的上线时间，大大降低游戏公司进入 Web3 的门槛。\n\n\n\nGame Space CEO Michael Cameron 表示，Game Space 将在未来 5 年深耕 GameFi 生态，持续迭代 GaaS 服务，帮助传统游戏厂商快速拥有商业级的 NFT 开发、管理和安全能力。\n\n\n\nMichael Cameron 同时表示，本次发布的 GaaS 平台已经研发超过 1 年。新资金将用于继续研发 GaaS 平台和相关案例的开发，包括 NFT 交易引擎二期、多链部署、商业级的 NFT 管理后台、游戏 DAO 组件、跨游戏 NFT 等。本月，Game Space 将上线首款经典游戏链改版本 Merge Bird。目前 Game Space 已开放公测申请，游戏公司可在官网 https://game.space 申请公测合作。\n\n\n\n \n帮助游戏公司一键 GameFi 改造\n\n\n \n根据 DappRadar 的数据，2021 年全球主要风投基金对 GameFi 领域的投资达到创纪录的 40 亿美元，而 2020 年这一数字仅为 8000 万美元，投资规模的增长达到了 50 倍。GameFi 也吸引了大量传统世界的用户，超过一半的区块链使用量来自于游戏用户。\n\n\n\n通过 GameFi，加密货币、Play-to-Earn…",
-          "link": "https://www.theblockbeats.info/news/30280",
-          "publishedOn": "2022-04-22T04:15:15.000Z",
-          "wordCount": null,
-          "title": "全球首个GaaS平台Game Space上线，游戏行业正式进入一键链改时代",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30279",
-          "author": null,
-          "description": "「无聊猿」在 NFT 领域高歌猛进，国外顶级明星们的 FOMO 与炫耀对猴子的推广功不可没。更有意思的是，大部分明星并不是自己买的无聊猿，而是通过一个叫 MoonPay 的工具。\n\n\n\n\n\n\n\n如图所示，Gwyneth Paltrow（曾在钢铁侠中饰演小辣椒）的 BAYC 由 MoonPay 服务购买，Paris Hilton 的 BAYC 同样由此而来。\n\n\n\n\n\n\n\n歌手 Post Malone、主持人 Jimmy Fallon 的 BAYC 也由 MoonPay 经手。\n\n\n近日该平台获来自 60 多个音乐、体育、媒体和娱乐领域的名人或旗下组织所投的 8700 万美元融资，MoonPay 称这笔资金应属去年 11 月底 A 轮所融资的 5.55 亿元的一部分（律动注：A 轮由 Coatue 和 Tiger Global 领投）。\n\n\n \n\n与其他各个项目大多来自 Web3 VC 投资不同，此次 MoonPay 投资者，大多为一些有名之士，不仅有流行歌手 Justin Bieber、说唱歌手 Snoop Dogg、希尔顿酒店继承人 Paris Hilton、网球运动员莎拉波娃，还有众多知名演员，如 Bruce Willis、Matthew McConaughey、Gwyneth Paltrow 等，其中有些投资者为曾在该平台购买 NFT 的客户，在给予 MoonPay 不菲投资以外，还为其带来巨大的曝光度。\n\n\n \n\nMoonPay 到底有何引力，可吸引如此多名人统一支持？\n\n\n \n\nMoonPay 有什么用\n\n\n \n\n新玩家进入加密世界的第一步，就是拥有钱包。这是相对复杂的一步，何为加密钱包，何为 gas，如何使用，如何将现金兑换成 Token，兑换成何种 Token，从哪里购买，如何操作等都是新人需要面对的问题。\n\n\n \n\nMoonPay 的联合创始人兼首席执行官 …",
-          "link": "https://www.theblockbeats.info/news/30279",
-          "publishedOn": "2022-04-22T03:54:15.000Z",
-          "wordCount": null,
-          "title": "国外明星为什么都用MoonPay买BAYC？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30277",
-          "author": null,
-          "description": "原文标题：《\n\n深度解析：NBA 的 16 进制合约漏洞是怎么被科学家薅秃噜皮的？\n\n》\n原文作者：今天有更懂这个世界一点了吗\n本文来自微信公众号：今天有更懂这个世界一点了吗\n\n\n这是我目前写过最精彩、最长、也是最辛苦的一篇文章，犹如破案一般抽丝剥茧为大家讲清楚了科学家是怎么薅到羊毛的，请一定完成全文阅读，相信对你定会有很大收获！    \n\n\n今早一觉睡起来看群里大家都在讨论昨晚 NBA 带给科学家的狂欢，据说有人直接 free mint 了 100 个，按照现在 0.4ETH 的地板价也有一百万人民币了，原由是合约又出现了漏洞，所以来看看到底是怎么回事。\n\n\nNBA 于昨日发售了他们的 NFT 系列 The Association NFT，将 240 个球员各制作了 75 个 NFT，总共供应 18000 个，白名单持有者可以 free mint 1 个，这句话重点圈起来，之前的讲过的 Gh0stlyGh0sts 的那篇文章也是 free mint，只需要缴纳 gas 费就可以 mint 到坐等升值，在肉眼可见的获利空间下如果能再发现点合约漏洞，比如绕过白名单或者绕过 mint 1 个的限制，那不得把羊毛薅秃噜皮了，所以每当出现这种 NFT 项目都会有大量科学家盯着找漏洞，NBA 这次整了个王炸，白名单限制和 mint 1 个限制都被攻破了。\n\n\n\n\n\n这次漏洞对于辛辛苦苦干白名单的用户也是很大的打击，没有白名单的能 mint 也就算了，还可以无限 mint，导致把有白名单的用户名额都抢了，甚至很多用户当初都是在场外花费几千美金购买的白名单。并且在 mint 时涌进去一大堆科学家导致 gas 费飙升，白名单用户也受了无妄之灾被迫缴纳更多 gas（毕竟白名单的目的之一就是避免 gas war），所以也有大量的用户在维权哭诉，白名单用户在 DC 哀嚎一片。\n\n\n\n\n\n这的问题…",
-          "link": "https://www.theblockbeats.info/news/30277",
-          "publishedOn": "2022-04-22T03:19:15.000Z",
-          "wordCount": null,
-          "title": "深度解析：NBA的16进制合约漏洞是怎么被科学家利用的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30275",
-          "author": null,
-          "description": "原文标题：《\n\nCopyright Vulnerabilities in NFTs\n\n》\n原文作者：James Grimmelmann, Yan Ji, Tyler Kell\n原文编译：Shaun@DAOrayaki.org，\n\nDAOrayaki\n\n\n\n许多 NFT 和 DAO 旨在提供新的或更方便的方式来拥有和销售创意作品。Beeple 的 NFT 作品「EVERYDAYS: The First 5000 Days」在拍卖会上以 6900 万美元的价格售出。一些观察家认为，Bored Ape Yacht Club（无聊猿游艇俱乐部）的惊人崛起是因为其对版权许可方法的个性化处理。更多的艺术家和开发人员正在一头扎进这个行业。\n\n\n但与此同时，许多项目都对版权如何适用于 NFT 的问题所苦恼\n\n\n1、当 SpiceDAO 购买了导演 Alejandro Jodorowsky 为从未拍摄过的《沙丘》版本制作的插图丰富的宣传册时，一些参与者希望购买这本书能让他们将 Jodorowsky 的愿景带到银幕上。但这个计划很快就被否决了，因为沙丘版权的所有者否决了这个想法。\n\n\n2、「Right-clickers/鼠标右键单击者」从流行的 NFTs 中保存了艺术品的 JPEG 副本。这些 NFTs 的所有者说这是对版权的侵犯。两双方说法中只有一个是正确的。\n\n\n3、昆汀·塔伦蒂诺和米拉麦克斯因《低俗小说》NFT 的权利而陷入诉讼。\n\n\n4、使用被盗艺术品的 NFT 数量太多。\n\n\n我们希望在这篇博文中澄清关于 NFT 版权的一些困惑，并帮助在该领域工作的人了解将 NFT 纳入版权法框架所需要面对的挑战。我们的底线很简单：对 NFT 的所有权可以用来让所有者对创意作品进行实质性控制，但这种控制不是自动的。除非创作者采取积极措施确保 NFT 的权利，否则版权法不会赋予 NFT 所有者任何权利…",
-          "link": "https://www.theblockbeats.info/news/30275",
-          "publishedOn": "2022-04-22T02:16:15.000Z",
-          "wordCount": null,
-          "title": "将NFT纳入版权法框架需要面对哪些挑战？",
           "imageUrl": null
         }
       ]
