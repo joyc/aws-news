@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30317",
+          "author": null,
+          "description": "原文标题：《\n\nStepN 兵发 Web3 铁王座｜StepN&Axie 新旧双王数据剖析\n\n》\n原文作者：CryptoOcean，H.Forest Ventures\n\n\n毫无疑问，Stepn 已成为 2022 年一季度加密货币市场上最火的应用，日前 Twitter 关注人数已突破 20w 大关。作为 Move to Earn 的龙头，Stepn 游戏机制的设计与 Axie 有众多相似之处，例如双 Token 机制、繁衍系统、能量系统；不过遗憾的是，Axie 作为 2021 年的 Gamefi 龙头，目前已经陷入新增用户不足、恶性通胀的尴尬境地。\n\n\nStepn 与 Axie 都是由币安 Launchpad 所孵化，两者有着相同的资源扶持力度，从 Stepn 目前的火爆程度来看，它极有可能登顶 2022 年 Gamefi 铁王座。Stepn 不但吸取 Axie 的前车之鉴对\n\nToken\n\n的经济模型进行了优化，例如：增加\n\nToken\n\n消耗场景与氪金场景，严格的防作弊机制与有趣的邀请码诞生机制（注：用户每运动 50 分钟才能产生一个邀请码）；还用 Web3.0 的方式解决了社会上存在已久的「最后一公里」的问题，例如我的 Crypto degen 同事们，豪车也不开了，每天坐地铁上下班只是为了用 Stepn 完成地铁站到公司的最后一公里。Stepn 的设计机制源于 Axie，通过回顾 Axie 数据是否能够推演出未来 Stepn 的走势？以及推演出目前 Stepn 处在生命周期中的哪个阶段？\n\n\n观察维度选取\n\n\n近日 Stepn 的推特关注人数突破 20w 大关，我们不妨从这个点切入；以 Axie 与 Stepn 推特受到的关注度一致作为切点，看看 Axie 同期的数据情况：\n\n\n\n\n\nStepn：2022 年 4 月 8 日，推特关注人数突破 20w（当前推特关注人数…",
+          "link": "https://www.theblockbeats.info/news/30317",
+          "publishedOn": "2022-04-25T03:39:49.000Z",
+          "wordCount": null,
+          "title": "Stepn及Axie数据剖析：Stepn兵发Web3铁王座",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30316",
+          "author": null,
+          "description": "撰文：0xCookie，律动BlockBeats\n\n\n最近，以 Gh0stly Gh0sts、tiny dinos 为首的「跨链 NFT」的上涨引人瞩目。\n\n\n\n作为 Free Mint 的项目，如此的涨幅可谓惊人。\n\n\n这些「跨链 NFT」并不需要持有者使用跨链桥工具以实现转移，只需要通过调用合约中的 traverseChains 函数即可，TofuNFT 等平台也很快跟进将合约函数调用进行了更为傻瓜式的封装，帮助持有者实现一键转移。NFT 像 FT 一样在各链间自由穿梭是如此容易，而 FT 们从单链应用到多链应用快速成长的过程，也让 NFT 玩家们对「跨链 NFT」充满了期待。\n\n\n不少 NFT 玩家对「跨链 NFT」有着良好的「第一印象」，主要来自这三个方面——「可通用的」社交价值、「可最大化的」收益和「更有趣的」游戏拓展，但这些良好的「第一印象」似乎并没有想象中那么美丽。短期的 FOMO 逐渐归于平静后，让我们重新思考，「跨链 NFT」是否有着足够坚实的价值逻辑？\n\n\n深究「第一印象」\n\n\n「可通用的」社交价值\n\n\n社交价值是 PFP 类 NFT 的核心价值之一。简单粗暴地来说，就是炫耀的「炫」。无法跨链流通的 PFP 在社交属性上有「不可通用」的局限性——假设在非 ETH 主网的某其他链生态上出现了一款爆火的应用，在 ETH 主网上大手笔买入的 CryptoPunks、BAYC、Azuki 等等要怎么「炫」？\n\n\n\n有个朋友正向我表达了这样的担忧，「就拿 Solana 生态上的 StepN 来说，如果以后更新了一些具有强社交属性的功能，比如可以加入运动小组在世界地图上显示自己的运动轨迹，又比如可以向其他用户约跑，那么我在 ETH 主网上的 PFP 要怎么在 Solana 生态的应用上做头像呢？\n\n」\n\n\n\n\nGh0stly Gh0sts 与 tiny dinos …",
+          "link": "https://www.theblockbeats.info/news/30316",
+          "publishedOn": "2022-04-25T03:39:49.000Z",
+          "wordCount": null,
+          "title": "「跨链NFT」的价值逻辑够硬吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30315",
+          "author": null,
+          "description": "原文标题：《A16z：Web3 的 6 大攻击类型和经验教训》\n原文作者：Riyaz Faizullabhoy，Matt Gleason，\n\na16z\n\n\n原文编译：DeFi 之道\n\n\nWeb3 的安全性在很大程度上取决于区块链做出承诺的特殊能力和对人类干预的弹性。但相关的最终性特征 -- 交易通常是不可逆的 -- 使这些软件控制的网络成为攻击者的诱人目标。事实上，随着区块链 -- 作为 Web3 基础的分布式计算机网络 -- 及其伴随的技术和应用不断积累价值，它们成为了攻击者越来越垂涎的目标。\n\n\n尽管 Web3 与早期的互联网不同，但我们已经观察到了与以前的软件安全趋势的共同之处。在许多情况下，最大的问题仍然和以前一样。通过研究这些领域，防御者 -- 无论是建设者、安全团队，还是日常的加密用户 -- 可以更好地保护他们自己、项目和钱包免受潜在黑客的侵害。下面我们将介绍一些共同的主题和基于我们经验的预测。\n\n\n追逐金钱\n\n\n攻击者通常以投资回报最大化为目标。他们可以花费更多的时间和精力来攻击具有更多「总价值锁定」（TVL）的协议，因为潜在的回报更大。\n\n\n资源最丰富的黑客组织更经常地攻击高价值系统。最具价值的新型攻击也更频繁地瞄准这些有价值的目标。\n\n\n低成本攻击 -- 如网络钓鱼 -- 永远不会消失，而且我们预计在可预见的未来，它们会变得更加普遍。\n\n\n弥补漏洞\n\n\n随着开发人员从经过验证的攻击中学习，他们可能会改善 Web3 软件的状态，使其变得「默认安全」。通常情况下，这涉及到收紧应用程序接口，或 API，使人们更难错误引入漏洞。\n\n\n虽然安全问题始终是一项进展中的工作 -- 而且可以肯定的是，没有什么东西是可以防黑客的 -- 但防御者和开发者可以通过消除攻击者容易实现的目标来提高攻击成本。\n\n\n随着安全实践的改进和工具的成熟，以下攻击的成功率可能会大幅下降：治理攻…",
+          "link": "https://www.theblockbeats.info/news/30315",
+          "publishedOn": "2022-04-25T02:39:49.000Z",
+          "wordCount": null,
+          "title": "A16z：Web3的6大攻击类型和经验教训",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30314",
           "author": null,
           "description": "原文标题：《\n\n我眼中的创作者经济\n\n》\n原文作者：堆烟 #7170，DAOSquare\n\n\n\n突然发现，已经一年多没有输出了，也没有更新 Lore。\n\n\n今天，强制接了一个任务，整理下个人对创作者经济的理解。\n\n\n开发经历\n\n\n2014~2015 年中，笔者一直在开发楚辞，定位是基于语义网、开放的中文知识库。那段时间，一直发愁的是数据量和应用场景，有时也会想开放的反面：隐私和不公开——定位于私人的知识管理、企业的知识管理。\n\n\n2015 下半年开始，媒体上冒出不少唱衰 Evernote 的文章：从硅谷宠儿到麻烦缠身，独角兽 Evernote 走向衰落的内幕。笔者心想，也许可以试试从笔记这个形式入手，毕竟容易扩展：笔记是个坑，什么都能往里面装啊（文字，图片/截屏，声音，视频，手写笔迹等等）。\n\n\n结合那段时间的思考，楚辞如果抛弃了知识定义，只保留数据会怎样？那就是 JSON——用户群体可以定位为极客的笔记项目？\n\n\n于是，Lore 诞生了。\n\n\n随着对效率、易用性的需求，Lore 在 JSON 编辑器和模板的概念之后，逐步引入了 JSON 的可视化模板、思维导图、答题、分析框架等内容形式。\n\n\n\n\n\n也是从 2015 年，我开始亡羊补牢在知乎输出。——嗯，强制输出。\n\n\n但是，对于盈利，虽然有不少思考，却由于各种原因，始终没有实现。\n\n\nUGC 中的利益分配模型\n\n\n这个模型最初考虑的是数据方面的收益分配，涉及平台、原始拥有者、提交数据者、数据的归一化处理者、传播链中的用户等角色。\n\n\n\n\n\n这一时期，无论是上面的 UGC 利益分配模型，还是下面关于广告平台的想法，整体上仍然是平台思维。\n\n\n\n\n\n去中心化\n\n\n2019 年，Google Reader、Google+相继被关闭。\n\n\n2020 年春节后，笔者开始进入币圈，接触的一系列项目，让我不再局限于笔记、知识管理，很多…",
@@ -63,16 +93,6 @@
           "publishedOn": "2022-04-23T02:37:19.000Z",
           "wordCount": null,
           "title": "Cobie详论ApeCoin质押提案：创造新价值比玩空壳游戏有意义",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30303",
-          "author": null,
-          "description": "原文标题：《\n\nX to Earn：对死亡螺旋的正式挑战\n\n》\n原文作者：Andy, IOSG Ventures\n原文编辑：Elaine，IOSG Ventures\n\n\n写在前面\n\n\n自 Axie Infinity 大火后，类 Axie 的 Play to Earn 游戏们雨后春笋般一茬又一茬的冒了出来，然而在 Axie 给币圈和游戏圈表演了一段精彩的死亡螺旋过山车后，目前还没能出现一款真正能和 Axie 的精彩故事媲美的 P2E 游戏：市值不够、热度不够、创意不够，或者单纯的还没做好 \n\n\n\n\n\n结果是 Axie 的 P2E 不光给其他链游上了一课，同时也给了同样聪明的非链游市场一个灵感：如果 Play to Earn 能火成这样，那别的 X to Earn (X2E) 是不是也有机可乘？于是最近两个月市场终于看到了在 Axie 之后、再一次让我们感受到精彩的 X2E 产品：STEPN。\n\n\n其他研报复述多次的产品介绍我这里就先一句话概括：STEPN 是一款 Move to Earn 游戏，用户购买跑鞋 NFT 来跑步赚取\n\nToken\n\n - 当前 STEPN 已拥有 1 百万用户、30 万 DAU，治理 Token 市值从 IEO 的 8 百万，于不到两个月的时间直达 200 亿。\n\n\n由于此文发布时 STEPN 依旧属于上升期，很多已经入场或在场外观望、甚至其他 X2E 的创业者都在密切关注一个问题：STEPN 什么时候到达最高点开始进入死亡螺旋？非常能够理解在 Ponzinomics (旁氏经济) 下，死亡螺旋是市场不可逃避话题。然而在市场趋向 X2E 热度继续疯狂发力时，我们不仅不能对死亡螺旋避而不谈，反而更应该主动去了解死亡螺旋代表着什么，挑战如何在死亡螺旋的阴影下将项目做的长久，怎样的运营和理念才能在死亡螺旋的阴影下让用户、项目方与投资者同时最大化长期价值。…",
-          "link": "https://www.theblockbeats.info/news/30303",
-          "publishedOn": "2022-04-22T14:09:20.000Z",
-          "wordCount": null,
-          "title": "X to Earn：对死亡螺旋的正式挑战",
           "imageUrl": null
         }
       ]
