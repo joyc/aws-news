@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30360",
+          "author": null,
+          "description": "毕业证书可以证明我们就读过的院校，奖励证书可以证明我们所获得的荣誉，专业技能证书可以证明自身的工作能力，这一张张的标签串联起来足以刻画出我们的生活轨迹。不止如此，游戏中我们拥有段位证明，工作中我们拥有经历证明，就连刷视频的时候也会被大数据推送符合我们兴趣偏好的内容，背后隐藏着我们的标记证明。\n\n\n \n\n千千万万人生活的轨迹，构成属于我们一串串的数据凭证，不过，这些凭证都被隔离在相对封闭数据库中。我们的学历证明存在于官方机构中，信贷记录存在于金融机构中，在一个 App 中的习惯仅在相关联之处体现。\n\n\n \n\n除了这些存在于我们的日常生活中的场景，在链上我们也需要这样的凭证。当用户在一些借贷项目中（如 AAVE 或 Compound）进行进行抵押贷款且及时归还，未被清算无任何不良记录时，这生成的凭证就记录并证明了该用户的良好信用。其他平台或借款人也可以凭此证明衡量借出款项的额度，风险性等因素。当用户在新项目启动后，有无参与，做过多少贡献，曾有过何种投票历史，用户的所有行为数据都也可以生成凭证，社区即可根据这些凭证按比例奖励贡献者。\n\n\n \n\n不过，当前机构间的封闭性导致这些信息并不对本该拥有这些数据的个人或需要这些数据的应用程序开放，这也造成了当前分裂的局面。\n\n\n \n\nProject Galaxy 则想通过建立一个开放的凭证数据网络来帮助用户解决当前问题。\n\n\n \n\nProject Galaxy 在做什么\n\n\n \n\nProject Galaxy 想要通过链上、链下两个维度多个数据源搜集凭证数据，进行网络管理。其指出，对于链上凭证，策展人可以提供子图查询或静态快照。在链下，则已与 Snapshot.org、Twitter 和 Github 等数据源集成。\n\n\n \n\n通过这些凭证数据，Project Galaxy 构建了一个基于 Web3 DID（Decentralized ID…",
+          "link": "https://www.theblockbeats.info/news/30360",
+          "publishedOn": "2022-04-28T09:36:30.000Z",
+          "wordCount": null,
+          "title": "Project Galaxy：拥有一份自己的Web3简历｜项目介绍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30361",
+          "author": null,
+          "description": "加密空投是否真的不欢迎羊毛党？",
+          "link": "https://www.theblockbeats.info/news/30361",
+          "publishedOn": "2022-04-28T09:24:55.000Z",
+          "wordCount": null,
+          "title": "加密空投是否真的不欢迎羊毛党？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30352",
           "author": null,
           "description": "撰文：0x21，律动BlockBeats\n\n\n过去的一年里 NFT 市场无论是纯艺术类还是头像类的 NFT 都在不断创造一个又一个历史，唯独音乐 NFT 被打上「异类」的标签，人们没办法把将音乐变成你的社交头像，向你的朋友炫耀，也很难通过波形去找到你志同道合的朋友。\n\n\n有人说当前的市场不是为音乐 NFT 而生的，也有人说音乐 NFT 还没有找到合适的路，但是不可否认，音乐置于每个人都是无比重要的。\n\n\nWeb3 创作者经济的出现打破了偶像与粉丝的壁垒，Play to Earn 的流行，也预示 X to Earn 将会成为未来必然的趋势，游戏、学习、跑步的「Earn」模式都开始初具规模，音乐也将成为其中之一。\n\n\nElement.Black\n\n\nElement.Black 是一家致力于通过音乐、游戏、艺术、影视与创作者经济相结合，打造全新 Web3 社交平台的公司。Element.Black 旗下的 Music Infinity 初次将 Create to Earn 和 Listen to Earn 相结合，构建一个 X to Earn 与创作者经济的生态。整个经济模型也围绕着创作者和听众两个角色而发展。\n\n\n目前音乐创作者可以通过两种渠道来完成获取收益，一是通过购买音乐盲盒进行二次创作获得收益。二是 Music Infinity 也同样支持原创音乐人进驻平台赚取收益。\n\n\n听众同样也有两种选择的方式，一种是通过购买 Music Box NFT 收听音乐广场的音乐实现 Listen to Earn，另一种听众也可以选择将 Music Infinity 作为单纯的音乐平台免费听歌，不但能够发掘不同的原创歌曲，还能找到完全以音乐为载体的 NFT 社区。\n\n\n当然，在当前 NFT 市场中头像类仍然处于一家独大的状况，因为头像可以更为直观的表达玩家的喜恶，甚至能通过社交媒体达成某种…",
