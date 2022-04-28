@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-28T12:19:19.957Z</updated>
+    <updated>2022-04-28T18:15:05.892Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门 | ERC721专题第二讲：ERC721相关接口]]></title>
+        <id>https://www.theblockbeats.info/news/30362</id>
+        <link href="https://www.theblockbeats.info/news/30362"/>
+        <updated>2022-04-28T14:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Solidity极简入门 | ERC721专题第二讲：ERC721相关接口]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project Galaxy：拥有一份自己的Web3简历｜项目介绍]]></title>
         <id>https://www.theblockbeats.info/news/30360</id>
@@ -418,88 +428,6 @@ ERC721 主合约在 tokenURI() 函数中调用了 toString()：
 
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[众多传奇球星背书的 TopGoal 能成为足球元宇宙的 NBA Top Shot 么？]]></title>
-        <id>https://www.theblockbeats.info/news/30327</id>
-        <link href="https://www.theblockbeats.info/news/30327"/>
-        <updated>2022-04-26T03:50:19.000Z</updated>
-        <summary type="html"><![CDATA[2021 年，「NFT」当选为《柯林斯词典》年度词汇。在这一年，整个 NFT 市场也迎来了它的爆发期。其中，NBA Top Shot 打响了 NFT 出圈的第一枪，它重塑了球迷与球员以及俱乐部之间的互动体验。
-
-
-随后，NFT 的风靡扩展到了足球、橄榄球、板球等领域，不断推动着体育 NFT 赛道的加速发展。德勤公司甚至估计，在 2022 年将会有 20 亿美元的收入来自于体育 NFT，接下来体育 NFT 赛道或将迎来爆发。
-
-
-作为头部交易平台的 Binance，早早地就关注到了体育这一赛道。无论是此前投资粉丝 Token 平台 Chiliz，还是寻求赞助巴塞罗那俱乐部，Binance 都在该领域进行着积极地布局。而去年 11 月，一个足球 NFT 收藏品平台及体育元宇宙项目 TopGoal 走入了大众的视线，币安 CEO 赵长鹏 CZ 更是打破了惯例，参与到了该项目的直播中。
-
-
-
-
-
-
-
-在 TopGoal 平台的「Return of Legends」S2 NFT 卡发布之际，CZ 与意大利足球传奇人物亚历山德罗·德尔·皮耶罗（Alessandro Del Piero）于 11 月 15 日就「体育 NFT 的未来」进行了讨论，并在现场回答了球迷众多相关的问题，当时观看人数超过了 10 万。那么受到 CZ 青睐的 TopGoal 具体是一个怎样的项目，接下来律动 BlockBeats 将为大家做个详细地分析。
-
-
-TopGoal：连接球迷、球员和俱乐部的体育元宇宙
-
-
-TopGoal 是一个基于 NFT 的官方授权数字收藏品平台，它与世界著名的足球球星、俱乐部以及头部加密货币机构币安合作，为全世界球迷提供基于 NFT 和加密游戏的最佳互动体验。目前，包括皮耶罗、迈克尔·欧文、古蒂、里瓦尔多等在内的众多知名球星已经加入其中。
-
-
-此外，TopGoal 还是一个专注于区块链…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG：Web3投资，方向>团队>产品？]]></title>
-        <id>https://www.theblockbeats.info/news/30325</id>
-        <link href="https://www.theblockbeats.info/news/30325"/>
-        <updated>2022-04-26T03:50:19.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-IOSG Weekly Brief | Web3 投资，方向 > 团队 > 产品？#121
-
-》
-原文来源：
-
- IOSG Ventures
-
-
-
-Part.1 Insight   Web3 投资，方向 > 团队 > 产品？
-
-
-作者：Momir，IOSG Ventures
-本文仅做行业学习交流之用，不构成任何投资参考
-
-
-2007 年，马克安德森（Marc Andreessen）发表了一篇著名的文章《The only thing that matters》，认为在市场、团队和产品这三个维度中，市场应是投资者评估初创企业时最需重视的方面。对于可投资的领域，马克主要看好的是那些发现真正需求并有大量潜在客户的的公司。"产品不需要非常完美，它只要基本能用就行。"
-
-
-Uniswap 的例子
-
-
-如果你在 2018 年以产品为优先判断标准，那么你很有可能会因此而错过 Uniswap 这个独角兽。而大多数金融领域的专业人士很可能也会告诉你，它的设计是相当愚蠢的。
-
-
-如果你把注意力放在团队上，你会对没有经验的创始人、初次创业者、没有金融背景的人建立金融应用的资格等方面心存疑虑。
-
-
-然而，如果你将注意力放在市场方向上，你就会注意到，对链上交易场所有很大的潜在需求，可以支持价格发现和价值交换，而 Uniswap 是第一个真正发挥作用的项目。这就是它值得投资之处。
-
-
-在 Uniswap 之前的尝试，要么是在链上不可行的订单簿，要么是像 Bancor 这样的 AMM 设计，需要使用他们的治理令牌才能进行交易，会对用户体验产生负面影响。
-
-
-「是否先进入市场并没有那么重要。相反，最先找到产品与市场完美匹配的人才最可能是长期赢家」
-
-
-由于时机恰当，功能良好，Unsiwap 成为独角兽和数十亿美元的项目。这并不是要低估或贬低创始人的重要性。如果没有天赋，他们就无法注意到需求，…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

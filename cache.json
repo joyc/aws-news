@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30362",
+          "author": null,
+          "description": "Solidity极简入门 | ERC721专题第二讲：ERC721相关接口",
+          "link": "https://www.theblockbeats.info/news/30362",
+          "publishedOn": "2022-04-28T14:40:18.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门 | ERC721专题第二讲：ERC721相关接口",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30360",
           "author": null,
           "description": "毕业证书可以证明我们就读过的院校，奖励证书可以证明我们所获得的荣誉，专业技能证书可以证明自身的工作能力，这一张张的标签串联起来足以刻画出我们的生活轨迹。不止如此，游戏中我们拥有段位证明，工作中我们拥有经历证明，就连刷视频的时候也会被大数据推送符合我们兴趣偏好的内容，背后隐藏着我们的标记证明。\n\n\n \n\n千千万万人生活的轨迹，构成属于我们一串串的数据凭证，不过，这些凭证都被隔离在相对封闭数据库中。我们的学历证明存在于官方机构中，信贷记录存在于金融机构中，在一个 App 中的习惯仅在相关联之处体现。\n\n\n \n\n除了这些存在于我们的日常生活中的场景，在链上我们也需要这样的凭证。当用户在一些借贷项目中（如 AAVE 或 Compound）进行进行抵押贷款且及时归还，未被清算无任何不良记录时，这生成的凭证就记录并证明了该用户的良好信用。其他平台或借款人也可以凭此证明衡量借出款项的额度，风险性等因素。当用户在新项目启动后，有无参与，做过多少贡献，曾有过何种投票历史，用户的所有行为数据都也可以生成凭证，社区即可根据这些凭证按比例奖励贡献者。\n\n\n \n\n不过，当前机构间的封闭性导致这些信息并不对本该拥有这些数据的个人或需要这些数据的应用程序开放，这也造成了当前分裂的局面。\n\n\n \n\nProject Galaxy 则想通过建立一个开放的凭证数据网络来帮助用户解决当前问题。\n\n\n \n\nProject Galaxy 在做什么\n\n\n \n\nProject Galaxy 想要通过链上、链下两个维度多个数据源搜集凭证数据，进行网络管理。其指出，对于链上凭证，策展人可以提供子图查询或静态快照。在链下，则已与 Snapshot.org、Twitter 和 Github 等数据源集成。\n\n\n \n\n通过这些凭证数据，Project Galaxy 构建了一个基于 Web3 DID（Decentralized ID…",
@@ -103,26 +113,6 @@
           "publishedOn": "2022-04-26T10:15:45.000Z",
           "wordCount": null,
           "title": "Binance一季度总交易额约为5.54万亿美元，为纳斯达克交易额的29.7%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30327",
-          "author": null,
-          "description": "2021 年，「NFT」当选为《柯林斯词典》年度词汇。在这一年，整个 NFT 市场也迎来了它的爆发期。其中，NBA Top Shot 打响了 NFT 出圈的第一枪，它重塑了球迷与球员以及俱乐部之间的互动体验。\n\n\n随后，NFT 的风靡扩展到了足球、橄榄球、板球等领域，不断推动着体育 NFT 赛道的加速发展。德勤公司甚至估计，在 2022 年将会有 20 亿美元的收入来自于体育 NFT，接下来体育 NFT 赛道或将迎来爆发。\n\n\n作为头部交易平台的 Binance，早早地就关注到了体育这一赛道。无论是此前投资粉丝 Token 平台 Chiliz，还是寻求赞助巴塞罗那俱乐部，Binance 都在该领域进行着积极地布局。而去年 11 月，一个足球 NFT 收藏品平台及体育元宇宙项目 TopGoal 走入了大众的视线，币安 CEO 赵长鹏 CZ 更是打破了惯例，参与到了该项目的直播中。\n\n\n\n\n\n\n\n在 TopGoal 平台的「Return of Legends」S2 NFT 卡发布之际，CZ 与意大利足球传奇人物亚历山德罗·德尔·皮耶罗（Alessandro Del Piero）于 11 月 15 日就「体育 NFT 的未来」进行了讨论，并在现场回答了球迷众多相关的问题，当时观看人数超过了 10 万。那么受到 CZ 青睐的 TopGoal 具体是一个怎样的项目，接下来律动 BlockBeats 将为大家做个详细地分析。\n\n\nTopGoal：连接球迷、球员和俱乐部的体育元宇宙\n\n\nTopGoal 是一个基于 NFT 的官方授权数字收藏品平台，它与世界著名的足球球星、俱乐部以及头部加密货币机构币安合作，为全世界球迷提供基于 NFT 和加密游戏的最佳互动体验。目前，包括皮耶罗、迈克尔·欧文、古蒂、里瓦尔多等在内的众多知名球星已经加入其中。\n\n\n此外，TopGoal 还是一个专注于区块链…",
-          "link": "https://www.theblockbeats.info/news/30327",
-          "publishedOn": "2022-04-26T03:50:19.000Z",
-          "wordCount": null,
-          "title": "众多传奇球星背书的 TopGoal 能成为足球元宇宙的 NBA Top Shot 么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30325",
-          "author": null,
-          "description": "原文标题：《\n\nIOSG Weekly Brief | Web3 投资，方向 > 团队 > 产品？#121\n\n》\n原文来源：\n\n IOSG Ventures\n\n\n\nPart.1 Insight   Web3 投资，方向 > 团队 > 产品？\n\n\n作者：Momir，IOSG Ventures\n本文仅做行业学习交流之用，不构成任何投资参考\n\n\n2007 年，马克安德森（Marc Andreessen）发表了一篇著名的文章《The only thing that matters》，认为在市场、团队和产品这三个维度中，市场应是投资者评估初创企业时最需重视的方面。对于可投资的领域，马克主要看好的是那些发现真正需求并有大量潜在客户的的公司。\"产品不需要非常完美，它只要基本能用就行。\"\n\n\nUniswap 的例子\n\n\n如果你在 2018 年以产品为优先判断标准，那么你很有可能会因此而错过 Uniswap 这个独角兽。而大多数金融领域的专业人士很可能也会告诉你，它的设计是相当愚蠢的。\n\n\n如果你把注意力放在团队上，你会对没有经验的创始人、初次创业者、没有金融背景的人建立金融应用的资格等方面心存疑虑。\n\n\n然而，如果你将注意力放在市场方向上，你就会注意到，对链上交易场所有很大的潜在需求，可以支持价格发现和价值交换，而 Uniswap 是第一个真正发挥作用的项目。这就是它值得投资之处。\n\n\n在 Uniswap 之前的尝试，要么是在链上不可行的订单簿，要么是像 Bancor 这样的 AMM 设计，需要使用他们的治理令牌才能进行交易，会对用户体验产生负面影响。\n\n\n「是否先进入市场并没有那么重要。相反，最先找到产品与市场完美匹配的人才最可能是长期赢家」\n\n\n由于时机恰当，功能良好，Unsiwap 成为独角兽和数十亿美元的项目。这并不是要低估或贬低创始人的重要性。如果没有天赋，他们就无法注意到需求，…",
-          "link": "https://www.theblockbeats.info/news/30325",
-          "publishedOn": "2022-04-26T03:50:19.000Z",
-          "wordCount": null,
-          "title": "IOSG：Web3投资，方向>团队>产品？",
           "imageUrl": null
         }
       ]
