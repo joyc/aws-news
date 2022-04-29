@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30391",
+          "author": null,
+          "description": "原文标题：《\n\n2022 Web3 所有权经济\n\n》\n原文作者：李津、Geoff Hamilton、Jesse Walden、Spencer Noon、Derek Walkush、Medha Kothari\n原文编译：Block unicorn\n\n\n在万维网发展的 30 年里，少数几家公司控制着大部分用户注意力和广告收入，封闭的生态系统阻碍了独立开发者的创新。最大互联网平台的经济利益与它们最有价值的贡献者--它们的用户--之间的关系很不协调。\n\n\n\n\n\n长期以来，所有权一直被硅谷初创企业接受，通过授予期权来调整员工的激励措施。尽管如此，绝大多数互联网用户拥有他们贡献的服务的恰好是 0%。创作者不拥有他们的内容，开发者不能控制他们的代码，消费者对自己使用的平台没有任何干涉政策和决定权力。这种情景一度没有受到质疑，但现在看起来越来越过时了。\n\n\n这开始通过所有权经济（通常称为 web3）改变，产品和服务将用户变成所有者。\n\n\n从比特币和以太坊开始——两者都奖励使用原生 Token 保护网络的参与者——在所有类别的软件中变得普遍，从开发者基础设施和 DeFi 中的新金融市场到消费产品、市场和社交。 \n\n\n用户拥有的新互联网\n\n\n如果上一代软件建立在用户生成内容的基础上，那么下一代软件将由用户拥有，数字所有权作为构建块来实现新颖的用户体验。就其核心而言，所有制经济不仅为建设者利用市场激励来启动新网络提供了一个强大的新工具，它还具有通过更广泛地分配财富创造资产来创造积极社会变革的潜力。\n\n\n自 Jesse Walden 发布用户拥有的互联网的最初愿景以来的两年中，格局发生了巨大的变化和扩大。现在所有制经济中有超过 15000 个项目，从用户拥有的金融市场到用户拥有的社交网络、投资俱乐部和数字资产。虽然所有权经济仍然只占所有互联网平台的一小部分，但它是一个快速增长的部分。以太坊是支持所…",
+          "link": "https://www.theblockbeats.info/news/30391",
+          "publishedOn": "2022-04-29T14:53:17.000Z",
+          "wordCount": null,
+          "title": "Web3所有权经济：让用户拥有的新互联网",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30389",
           "author": null,
           "description": "原文作者：0x137，律动 BlockBeats\n\n\n\n\n过去两天时间里，我的推特 Feed 突然被「#WeAreOkay」「#WAGBO」这些标语刷屏了，当时自己没太注意，直到今早打开 OpenSea，才发现了这个 2 天百倍的「Solana 蓝筹」NFT——Okay Bears。\n\n\n\n这个 PFP 项目于 4 月 27 日，也就是两天前在 Solana NFT 市场 Magic Eden 上以 1.5 SOL 的 mint 价格开启公售。此后一天内二级市场交易量迅速飙升达到 1,840 万美元，直接拉动了整个 Solana 生态的交易量。\n\n\n\n\n\n\n\n\n\n\n如果你对这个数字没有概念的话，我们可以做一个简单的比较。在 28 日一天时间里，新推出的 VeeFriends V2 交易量为 1,300 万美元、Yuga Labs 的 Meebits 交易量为 1,200 万美元、备受瞩目的新项目 Imaginary Ones 交易量则是 1,000 万美元。这意味着，这个「名不见经传」的 Solana 项目在一天之内击败了几乎所有以太坊 NFT 项目。\n\n\n\n而在撰写本文时，Okay Bears 在 Magic Eden 上的 24 小时交易量已超过创纪录的 3500 万美元，地板价飙升至 100 SOL。\n\n\n\n\n\n\n\n\n\n\nOkay Bear：It's okay to be okay\n\n\n\nOkay Bears 系列由一万只有着不同颜色皮肤、穿着不同服装的熊组成，如果你仔细观察的话，会发现 Okay Bears 和无聊猿有着极大的相似之处：百无聊赖的眼神、各式各样的皮肤和着装，甚至嘴形都一模一样。毫无疑问，这就是一个 Solana 上的「猴子仿盘」，只不过是把无聊猿换做了「淡定熊」。\n\n\n\n在项目官网上，我们能看到这样一段介绍：\n\n\n\n「在一个由赢家和输家、英雄和恶棍、…",
@@ -143,16 +153,6 @@
           "publishedOn": "2022-04-27T08:10:58.000Z",
           "wordCount": null,
           "title": "Polygon共识大会2022倒计时，Aishwary Gupta 4月29日空降BitKeep直播间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30331",
-          "author": null,
-          "description": "详解NFT借贷的运作方式及借贷平台",
-          "link": "https://www.theblockbeats.info/news/30331",
-          "publishedOn": "2022-04-27T02:42:38.000Z",
-          "wordCount": null,
-          "title": "详解NFT借贷的运作方式及借贷平台",
           "imageUrl": null
         }
       ]
