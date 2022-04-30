@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-30T00:41:12.136Z</updated>
+    <updated>2022-04-30T06:10:29.766Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[找到下一个Okay Bear：如何评估NFT的价值]]></title>
+        <id>https://www.theblockbeats.info/news/30393</id>
+        <link href="https://www.theblockbeats.info/news/30393"/>
+        <updated>2022-04-30T05:30:26.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《NFT Projects: How To Analyze Them Like A VC Pro》
+原文作者：Magic Eden
+
+
+
+
+原文编译：Kxp，律动 BlockBeats
+
+
+
+NFT 的世界对普通人来说可能很难驾驭，你的 NFT 可能在顷刻之间就突破了地板价。如果你开始自己炒作，觉得自己是世界上最厉害的 NFT 交易员，那下一秒你的 NFT 很可能就变得一文不值。
+
+
+在本篇文章中，我们对一个长期困扰人们的问题作出了回答：我们该如何评估数字资产的价值？
+
+
+在开始阅读之前，你可以准备好一个笔记本，因为接下来的内容可能会改变你的生活。现在，就让我们一起进入正题吧。
+
+
+NFT 的项目类型与价值评估
+
+
+要想从成千上万个不同的 NFT 项目中挖掘到好的项目实属不易，因为它们真的类型各异，各有千秋。为了方便读者理解，我们在本文中将其简化为七种不同的类别，具体如下：
+
+
+1. 数字收藏品 NFT
+
+
+
+
+
+
+图片来源：Tanyo Gochev
+
+
+
+在过去的几年里，收藏品市场得到了进一步的拓展。2021 年，一张勒布朗·詹姆斯新秀卡的售价超过了 520 万美元，反映出了时下体育类收藏品市场的巨额增长。
+
+
+这在 NFT 世界中已经不再稀奇，目前Turtles这类数字 NFT 作品的总销售量已经超过了 6.9 万 SOL，这也说明人们在 Solana 上对数字收藏品有很高的需求。
+
+
+那么，是什么提高了 NFT 数字收藏品的价值呢？我想这个问题的答案在现实世界的收藏品身上就能找到答案，那就是稀缺性。
+
+
+勒布朗·詹姆斯的新秀卡之所以那么值钱，不仅是因为体育类收藏品卡片本身很有价值，且勒布朗被公认为有史以来最好的球员之一，更重要是因为世界上只有 23 张这样的卡。同理，只要你的收藏品越稀有，其价值就越大。
+
+
+2. 艺术品 NFT
+
+
+
+
+
+
+
+你在二级市场上…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：被马斯克收购后的推特会是什么样子？]]></title>
+        <id>https://www.theblockbeats.info/news/30392</id>
+        <link href="https://www.theblockbeats.info/news/30392"/>
+        <updated>2022-04-30T05:00:26.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+
+《440 亿美元成交，被马斯克收购后的推特会是什么样子？》
+
+
+ 
+
+4 月 25 日，据知情人士表示，推特准备接受埃隆·马斯克每股 54.20 美元的出价，不出意外的话，这家全球最大的社交媒体，将以约 440 亿美元的估值，被「全球精神领袖」马斯克收入囊中，成为后者在电动车、航天、脑机领域外的另一大产业。
+
+
+作为这个星球上最有影响力的企业家，我们可以从马斯克此前的言论去反推其统治下的推特会变成什么样子。与加密世界紧密相连的推特里，是否能让被马斯克一手捧红的狗狗币从 meme 转变成实用工具？
+
+
+ 
+
+《「跨链 NFT」的价值逻辑够硬吗？》
+
+
+ 
+
+最近，以 Gh0stly Gh0sts、tiny dinos 为首的「跨链 NFT」的上涨引人瞩目。这些「跨链 NFT」并不需要持有者使用跨链桥工具以实现转移，只需要通过调用合约中的 traverseChains 函数即可。不少 NFT 玩家对「跨链 NFT」有着良好的「第一印象」，主要来自这三个方面——「可通用的」社交价值、「可最大化的」收益和「更有趣的」游戏拓展，但这些良好的「第一印象」似乎并没有想象中那么美丽。短期的 FOMO 逐渐归于平静后，让我们重新思考，「跨链 NFT」是否有着足够坚实的价值逻辑？
+
+
+ 
+
+《Near 原生稳定币 USN 解析：与 UST 有本质不同》
+
+
+ 
+
+近期，Near 也要搞算稳的消息曾经引发了社区极大的争议。毕竟，一个平台型公链推出自己的算稳，不但有损平台的中立性，也会在市场下行时为自身生态平添很多无谓的风险。然而当前天 USN 真正…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3所有权经济：让用户拥有的新互联网]]></title>
         <id>https://www.theblockbeats.info/news/30391</id>
@@ -706,114 +815,6 @@ Element.Black 是一家致力于通过音乐、游戏、艺术、影视与创作
 
 
 比如，以太坊星系是我们目前最了解的一个公链星系，除了主链恒星，它还会有 Star…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参考国家经济体系，探讨DAO应如何建立内部经济]]></title>
-        <id>https://www.theblockbeats.info/news/30346</id>
-        <link href="https://www.theblockbeats.info/news/30346"/>
-        <updated>2022-04-27T15:17:07.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Building an Economy Within a DAO
-
-》
-原文作者： Shreyas Hariharan
-
-
-原文编译：Lolifox，dao2
-
-
-这篇文章是基于我在 Crypto, Culture, & Society 的演讲上撰写的。Crypto, Culture, & Society 是一个学习型 DAO，它正在为加密货币建立一个人文学科教育。
-
-
-尽管越来越多复杂的活动已经转移到了数字世界，但我们以数字原生方式进行协作的工具并没有以同样的速度发展起来。DAO 作为一种关键的协作机制正在崭露头角，但它们仍然处于起步阶段。为了发挥其最大的潜力，DAO 应该像国家地区一样，努力建立繁荣的内部经济，为其使命服务。
-
-
-这篇文章涵盖了 DAO 如何建立内部经济，使用它们的原生 Token 和国库来实现它们的目标，并应用经济学、历史和人类学的模型来有效运作。
-
-
-I. 如何建立经济
-
-
-为什么日本、韩国和中国大陆能够成功？
-
-
-乔-斯图特韦尔（Joe Studwell）所写的《亚洲如何运作》一书，详细介绍了包括日本、韩国、中国大陆和其他国家或地区在内的亚洲政府为建立成功的经济所应用的经济模型。
-
-
-这些国家或地区的成功与西方大学以及国际货币基金组织（IMF）和世界贸易组织（WTO）等机构所强调的传统经济理念相悖。无拘束的自由市场可能对不发达的经济体有害。成功的亚洲经济体对于哪些经济领域开放以及何时开放等方面都是有思考的。
-
-
-书中引用的策略包括：
-
-
-- 土地改革：将土地从效率低下的封建地主手中分配给小农户
-
-
-- 进出口政策：对出口进行补贴，对战略上重要的进口产品征收关税
-
-
-- 移民政策：允许经过挑选的技术工人，限制外国人的土地所有权
-
-
-- 保护本地工业：保护本地农民和制造商不受外国竞争影响 
-
-
-- 货币保护：使货币贬值，使出口更具竞争力…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX巴哈马大会进行时]]></title>
-        <id>https://www.theblockbeats.info/news/30348</id>
-        <link href="https://www.theblockbeats.info/news/30348"/>
-        <updated>2022-04-27T15:17:07.000Z</updated>
-        <summary type="html"><![CDATA[备受瞩目的 Crypto Bahamas 大会今日在巴哈马正式揭幕，该会议由 FTX 和 SALT 主办，自美东时间 4 月 26 日起至 29 日为期四天，旨在展现加密行业及传统金融行业的顶尖参与者之间的合作以及独特体验。大会讨论内容将涵盖比特币、DeFi、NFT、GameFi、Web3.0 以及行业监管等，所有参与者均为受邀参加。
-
-
-出席嘉宾
-
-
-本次大会的知名出席嘉宾包括 SBF(FTX 创始人)、托尼·布莱尔 (1997-2007 年间英国前首相)、比尔·克林顿 (第 42 任美国总统)、凯瑟琳·伍德 (方舟投资 CEO)、汤姆·布拉迪 (超级碗冠军)、菲利浦·戴维斯 (现任巴哈马总理) 等。
-
-
-
-
-
-
-
-
-大会议程
-
-
-4 月 26 日——欢迎酒会
-
-出席嘉宾：OKX、Fenwick 等
-
-4 月 27 日——开幕仪式；Layer 1 公链发展；加密投资组合；游戏与 Web3；NFT 文化、应用场景及监管；DeFi 未来；加密资产安全；比特币未来以及闪电网络等
-
-出席嘉宾：SBF、Michael Lewis、Mike Novogratz、Cathie Wood 等
-
-4 月 28 日——加密行业 Alpha 及大趋势；多链未来；稳定币及传统金融；数字资产基础设施；加密挖矿及链上分析；加密行业监管等
-
-出席嘉宾：Su Zhu、Amy Wu、Charles Cascarilla 等
-
-4 月 29 日——政府如何应用加密技术；产加密行业共识创造；Solana 生态发展；加密 VC 的下一个风口等
-
-出席嘉宾：Andrew Yang、Constance Wang 等
-
-律动将持续关注大会动态。
-
-官网链接
-
-官方频道
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
