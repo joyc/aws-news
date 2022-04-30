@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-04-30T06:10:29.766Z</updated>
+    <updated>2022-04-30T12:12:57.814Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3创业指南：如何进行冷启动并完成早期用户吸引｜Web3 Master Class（第一期）]]></title>
+        <id>https://www.theblockbeats.info/news/30394</id>
+        <link href="https://www.theblockbeats.info/news/30394"/>
+        <updated>2022-04-30T08:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Web3创业指南：如何进行冷启动并完成早期用户吸引｜Web3 Master Class（第一期）]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[找到下一个Okay Bear：如何评估NFT的价值]]></title>
         <id>https://www.theblockbeats.info/news/30393</id>
