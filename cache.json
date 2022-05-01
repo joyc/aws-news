@@ -124,26 +124,6 @@
           "wordCount": null,
           "title": "Solidity极简入门 | ERC721专题第二讲：ERC721相关接口",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30360",
-          "author": null,
-          "description": "毕业证书可以证明我们就读过的院校，奖励证书可以证明我们所获得的荣誉，专业技能证书可以证明自身的工作能力，这一张张的标签串联起来足以刻画出我们的生活轨迹。不止如此，游戏中我们拥有段位证明，工作中我们拥有经历证明，就连刷视频的时候也会被大数据推送符合我们兴趣偏好的内容，背后隐藏着我们的标记证明。\n\n\n \n\n千千万万人生活的轨迹，构成属于我们一串串的数据凭证，不过，这些凭证都被隔离在相对封闭数据库中。我们的学历证明存在于官方机构中，信贷记录存在于金融机构中，在一个 App 中的习惯仅在相关联之处体现。\n\n\n \n\n除了这些存在于我们的日常生活中的场景，在链上我们也需要这样的凭证。当用户在一些借贷项目中（如 AAVE 或 Compound）进行进行抵押贷款且及时归还，未被清算无任何不良记录时，这生成的凭证就记录并证明了该用户的良好信用。其他平台或借款人也可以凭此证明衡量借出款项的额度，风险性等因素。当用户在新项目启动后，有无参与，做过多少贡献，曾有过何种投票历史，用户的所有行为数据都也可以生成凭证，社区即可根据这些凭证按比例奖励贡献者。\n\n\n \n\n不过，当前机构间的封闭性导致这些信息并不对本该拥有这些数据的个人或需要这些数据的应用程序开放，这也造成了当前分裂的局面。\n\n\n \n\nProject Galaxy 则想通过建立一个开放的凭证数据网络来帮助用户解决当前问题。\n\n\n \n\nProject Galaxy 在做什么\n\n\n \n\nProject Galaxy 想要通过链上、链下两个维度多个数据源搜集凭证数据，进行网络管理。其指出，对于链上凭证，策展人可以提供子图查询或静态快照。在链下，则已与 Snapshot.org、Twitter 和 Github 等数据源集成。\n\n\n \n\n通过这些凭证数据，Project Galaxy 构建了一个基于 Web3 DID（Decentralized ID…",
-          "link": "https://www.theblockbeats.info/news/30360",
-          "publishedOn": "2022-04-28T09:36:30.000Z",
-          "wordCount": null,
-          "title": "Project Galaxy：拥有一份自己的Web3简历｜项目介绍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30361",
-          "author": null,
-          "description": "加密空投是否真的不欢迎羊毛党？",
-          "link": "https://www.theblockbeats.info/news/30361",
-          "publishedOn": "2022-04-28T09:24:55.000Z",
-          "wordCount": null,
-          "title": "加密空投是否真的不欢迎羊毛党？",
-          "imageUrl": null
         }
       ]
     },
