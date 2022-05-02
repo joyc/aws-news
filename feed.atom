@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-02T00:39:40.233Z</updated>
+    <updated>2022-05-02T06:11:03.517Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家如何偷走你卖出NFT的利润]]></title>
+        <id>https://www.theblockbeats.info/news/30398</id>
+        <link href="https://www.theblockbeats.info/news/30398"/>
+        <updated>2022-05-02T02:24:59.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《深度分析：科学家是怎么偷走了你卖出 NFT 的利润？》
+
+原文作者：今天有更懂这个世界一点了吗
+
+本文来自微信公众号：今天有更懂这个世界一点了吗
+
+
+大家可以关注我的公众号《今天有更懂这个世界一点了吗 》查阅往期文章，与我进行更深度的交流探讨，也可以关注我的推特：jason_chen998    
+
+
+前天在读者群里，有人发出了一个看起来很奇怪的地址，我们先看一下他的交易记录，请先观察一下，你发现什么问题了吗？
+
+
+
+
+
+这个地址在同一个时间点将同一个 NFT 进行了买入和卖出的交易，这意味着什么呢？我们进入 opensea 的交易记录找到其中一个 NFT 的记录来看一下，买入花费 0.08E，卖出 0.56E，翻了 7 倍，账面利润 0.48E。
+
+
+
+
+
+这个收益还不错对吧，但是你要知道，这个地址有 300 次这样的交易，平均每 3 小时产生一次，源源不断的产生利润，一天可以赚十多万 RMB。
+
+
+又到了破案的时候，带着大家顺藤摸瓜抽丝剥茧来看看这么神奇的操作到底是怎么回事。
+
+
+熟悉 DeFi 的朋友应该都清楚夹子机器人，下意识也会认为这可能是夹子，我当时也是这样认为，但实际上不是的。
+
+
+这里先简单科普一下什么叫夹子机器人，后面会单独出一篇讲它的文章，夹子机器人会监测链上的买入情况，当有大单买进某个币时，肯定会拉高币价，于是立刻赶在他之前提高 gas 费抢先买入，当大单买进成功后拉高了币价，再立刻卖出，从而获利，整个过程是在很短的时间完成。
+
+
+但为什么说今天要讲的情况不是夹子机器人，是因为 NFT 与 FT 最大的区别是非同质化的，唯一的，即买卖是有「指向性」的，即买方和卖方都对同一个 NFT 交易，如张三要卖出 Azuki#9527，李四也想买 Azuki#9527，两者之间才会产生交易，我即使以低价买入了某个 NFT，那我无法立刻找到要高价买它的人…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Nansen「捕鲸」：跟踪聪明的钱来捕捉Alpha]]></title>
         <id>https://www.theblockbeats.info/news/30396</id>
@@ -262,46 +306,6 @@ NFT 的项目类型与价值评估
  
 
 近期，Near 也要搞算稳的消息曾经引发了社区极大的争议。毕竟，一个平台型公链推出自己的算稳，不但有损平台的中立性，也会在市场下行时为自身生态平添很多无谓的风险。然而当前天 USN 真正…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3所有权经济：让用户拥有的新互联网]]></title>
-        <id>https://www.theblockbeats.info/news/30391</id>
-        <link href="https://www.theblockbeats.info/news/30391"/>
-        <updated>2022-04-29T14:53:17.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-2022 Web3 所有权经济
-
-》
-原文作者：李津、Geoff Hamilton、Jesse Walden、Spencer Noon、Derek Walkush、Medha Kothari
-原文编译：Block unicorn
-
-
-在万维网发展的 30 年里，少数几家公司控制着大部分用户注意力和广告收入，封闭的生态系统阻碍了独立开发者的创新。最大互联网平台的经济利益与它们最有价值的贡献者--它们的用户--之间的关系很不协调。
-
-
-
-
-
-长期以来，所有权一直被硅谷初创企业接受，通过授予期权来调整员工的激励措施。尽管如此，绝大多数互联网用户拥有他们贡献的服务的恰好是 0%。创作者不拥有他们的内容，开发者不能控制他们的代码，消费者对自己使用的平台没有任何干涉政策和决定权力。这种情景一度没有受到质疑，但现在看起来越来越过时了。
-
-
-这开始通过所有权经济（通常称为 web3）改变，产品和服务将用户变成所有者。
-
-
-从比特币和以太坊开始——两者都奖励使用原生 Token 保护网络的参与者——在所有类别的软件中变得普遍，从开发者基础设施和 DeFi 中的新金融市场到消费产品、市场和社交。 
-
-
-用户拥有的新互联网
-
-
-如果上一代软件建立在用户生成内容的基础上，那么下一代软件将由用户拥有，数字所有权作为构建块来实现新颖的用户体验。就其核心而言，所有制经济不仅为建设者利用市场激励来启动新网络提供了一个强大的新工具，它还具有通过更广泛地分配财富创造资产来创造积极社会变革的潜力。
-
-
-自 Jesse Walden 发布用户拥有的互联网的最初愿景以来的两年中，格局发生了巨大的变化和扩大。现在所有制经济中有超过 15000 个项目，从用户拥有的金融市场到用户拥有的社交网络、投资俱乐部和数字资产。虽然所有权经济仍然只占所有互联网平台的一小部分，但它是一个快速增长的部分。以太坊是支持所…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
