@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-03T06:10:55.729Z</updated>
+    <updated>2022-05-03T12:16:10.212Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sharding Capital合伙人：为什么年轻力量更应该参与Web3创业和投资]]></title>
+        <id>https://www.theblockbeats.info/news/30397</id>
+        <link href="https://www.theblockbeats.info/news/30397"/>
+        <updated>2022-05-03T06:43:49.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Belinda Zhou
+
+
+原文来源：Sharding Capital
+
+
+
+本文梳理了 Sharding Capital 合伙人 Belinda Zhou 在 AFIC 创业大赛纽约站的演讲分享。
+ 
+整理翻译如下：
+ 
+最近，我在参与区块链活动的时候遇到了不少新生力量，比如 14 岁的 solana 开发者，16 岁在 Avalanche gamefi 项目的美术 creative lead。他们这一代出生就已经浸淫在 web2，习惯了创造和分享，web2 对他们来说已然是传统行业。在 web3 世界，他们可以通过认知的提升颠覆传统创业的年龄偏见，实现更快速、更正向的个人价值探索和经验积累。
+ 
+我本人是在 2017 年进入区块链行业，即当过 web3 创业者也当过 web3 投资者，算是一个比较全面的 web3 体验官。我经常被问到，为什么我年纪才二十多岁，却拥有这么多的从业经验和丰富的人脉资源。其实这个答案就是因为我的行业是 web3，一个高速发展变革的行业，web3 行业很多年轻人都算年轻但经验丰富，因为敢被给到 ownership，这点我认为在 web3 世界尤为可贵。
+ 
+
+
+WEB3 消除年龄偏见 给予年轻人最快的自身价值探索
+
+
+
+举个具体点的例子，作为程序员，在 web3 的世界，只要有一定能力，他们可以根据贡献得到合理甚至丰厚的激励，可以去参与以太坊、Solana 或 Near 等开发系统的生态建设，可以去像 Gitcoin 这样开源软件和社区捐助平台提交自己的项目，可以去像 Immunefi 这样的 web3 漏洞赏金平台当白帽黑客检查项目方的智能合约，可以去参与感兴趣的去中心化自治组织（DAO）参与开发。在 web2，咱可能就是一个普通的程序员，没法有这么多的高光时刻。
+ 
+每年的 iOS 开发者大会，苹果都积极吸纳人才和技术不断发展，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OkLetsPlay宣布与RTE和Galaxy Racer建立合作伙伴关系]]></title>
         <id>https://www.theblockbeats.info/news/30401</id>
