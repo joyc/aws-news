@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-03T00:38:15.087Z</updated>
+    <updated>2022-05-03T06:10:55.729Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OkLetsPlay宣布与RTE和Galaxy Racer建立合作伙伴关系]]></title>
+        <id>https://www.theblockbeats.info/news/30401</id>
+        <link href="https://www.theblockbeats.info/news/30401"/>
+        <updated>2022-05-03T03:46:23.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：OkLetsPlay
+
+
+OkLetsPlay（OKLP）宣布与 RTE（Riva Technology & Entertainment）和 Galaxy Racer 建立合作伙伴关系，这两家机构在电子竞技领域及其他领域拥有无与伦比的游戏和技术创新能力。
+
+
+OkLetsPlay 的世界级电子竞技平台与全球最大的电子竞技、游戏和生活方式组织 Galaxy Racer 之间的合作可能会改变游戏规则。与 Galaxy Racer 这样的巨头合作预示着 OkLetsPlay 上线后或将无可避免迎来的快速增长。
+
+
+
+
+
+
+
+OkLetsPlay 是用于竞技和休闲 PC、移动和在线视频游戏的现金和加密电子竞技锦标赛平台（拥有相关专利），该平台近期于 Polkastarter 平台启动，并在 30 分钟内即完成了 125 万美元的 ID0，其原生 Token OKLP 现已上线 CEX (MEXC Global) 和 DEX (QuickSwap)。
+
+
+OkLetsPlay 团队一直在开发市场领先的产品，现在正从应用程序构建和测试过渡到备受期待的发布环节，正式屹立于聚光灯下。用户可以期待从 OkLetsPlay 中听到更多消息，因为 OkLetsPlay 会在正式发布前几周官宣与应用程序、合作伙伴关系和游戏集成相关的激动人心的消息。
+
+
+与 RTE 和 Galaxy Racer 的合作不仅使 OkLetsPlay 在市场上的地位向前迈进了一步，同时也对 OkLetsPlay 的项目范围、资源可及性、进入市场战略和长期目标具有显著的推动作用。竞争激烈的电子竞技市场正在经历爆炸式增长。
+
+
+RTE (Riva Technology & Entertainment) 
+
+
+20 年来，RTE 一直在投资一些全球最成功的娱乐品牌，包括 OkLetsPlay、Galaxy Race…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBF和超模吉赛尔宣布捐赠10亿美元，为贫困社区创造生存权]]></title>
         <id>https://www.theblockbeats.info/news/30400</id>
