@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-02T18:14:39.000Z</updated>
+    <updated>2022-05-03T00:38:15.087Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -198,79 +198,6 @@ Katie 辜，星球日报
 现在你拥有了你的代币，比如 $LOKA。
 开始搜索募资公告/代币的私下销售，你可以追踪谁在种子轮进行私人投资。
 像 a16z 或 Binance 这样的公司可能会在 Medium/accessibl…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVM等效性：开启以太坊增长的新范式]]></title>
-        <id>https://www.theblockbeats.info/news/30395</id>
-        <link href="https://www.theblockbeats.info/news/30395"/>
-        <updated>2022-04-30T11:09:22.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《EVM Equivalence》
-原文作者：David Hoffman，Bankless 联合创始人
-
-
-原文编译：南风，Unitimes
-
-
-
-·EVM 等效性：与 EVM (以太坊虚拟机) 规范完全一致。 
-
-
-EVM 等效性的设计理念是创建与以太坊有着「最小差异」的 Optimistic Rollup。 
-
-
-EVM 等效性将以太坊的属性扩展到了 L2s 网络。它模糊了以太坊 L1 和 L2 Rollups 开始之间的界限。
-
-
- 这就是在「在以太坊上扩展」和「扩展以太坊本身」之间的区别。
-
-
- 完美克隆以太坊 EVM 的 Optimistic Rollups 不仅共享以太坊的安全性，而且还共享以太坊网络效应的方方面面。
-
-
- 其他 L2 设计结构不具有获取以太坊所有网络效应的同等特权，并且总是比具备 EVM 等效性的 L2 网络更加专门化。 
-
-
-
-
-
-EVM 兼容性已死。EVM 兼容性要么通过坚持以太坊标准来优化通用性 (因此选择与其他所有人相同的标准)，要么构建完全不同的、为特定用例高度优化的东西 (比如 ZK-Rollups)。 
-
-
-想要将以太坊的全部力量完全延伸到 L2s 网络，我们需要的不仅仅是 EVM 兼容性。 
-
-
-我们需要 EVM 等效性。
-
-
-1. 兼容性 vs 等效性 
-
-
-当 Optimism 团队去年引入 EVM 等效性时，他们讨论了等效性和兼容性之间的技术差异。
-
-
-Rollups 被誉为我们的扩容救世主：「终于有一个可以运行 Uniswap 的 L2 网络了！」 
-
-
-最早的一些 Rollups 网络是通过完全重新创建 Uniswap 来实现的，也即在一个定制的 Rollup 之上使用定制的代码。 
-
-
-这还不够好。
-
-
-EVM 的网络效应远远超出了 Solidity。大量支持工具赋予了以太坊开发人员超能力。因为这些工具也运…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3创业指南：如何进行冷启动并完成早期用户吸引｜Web3 Master Class（第一期）]]></title>
-        <id>https://www.theblockbeats.info/news/30394</id>
-        <link href="https://www.theblockbeats.info/news/30394"/>
-        <updated>2022-04-30T08:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Web3创业指南：如何进行冷启动并完成早期用户吸引｜Web3 Master Class（第一期）]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
