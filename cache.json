@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30404",
+          "author": null,
+          "description": "原文来源：\n\nThe Money Movement\n\n\n原文编译：kxp，律动 BlockBeats\n\n\n几天前，Binance 创始人 CZ 做客 Circle CEO Jeremy Allaire 的 The Money Movement 栏目，进行了近 1 个小时的对话。双方并没有聊 Stablecoin 相关的内容，而是从更宏观的角度，聊了聊区块链对世界的影响。\n\n\n\n从 2020 年开始，全球如同打开了潘多拉的魔盒一般发生变化，我们在关注行业内各个赛道项目的同时，获取宏观发展的信息也相当必要。律动 BlockBeats 将二人的对话听译如下，希望能对读者有所帮助。\n\n\nJeremy Allaire：你好，我是 Jeremy Allaire，欢迎来到 The Money Movement，非常期待我们今天的对话。欢迎你，CZ。\n\n\nCZ：很高兴来到这里，谢谢你邀请我。\n\n\nJeremy：首先我想先谈一谈你选择这一行业的原因以及对于未来的愿景。我想我们每个人都有自己的故事，来到 Crypto 市场当中都想有一番作为，比如建立一个新的全球金融体系、新的经济体系，或者世界经济活动的新方式。我很想听听你的见解，你觉得 Crypto 将给世界带来什么？在未来十年当中世界会因为 Crypto 的发展而发生什么变化？\n\n\nCZ：从根本上说，我认为 Crypto 区块链是一项新技术，用于建立信任的账簿系统。不过，就像互联网的第一个应用只是用于信息交流一样，Crypto 一开始只有金钱属性。我认为借助 Crypto，我们可以改进我们现有的货币，从而金融部门和金融科技。我们目前的货币系统尚存诸多缺陷，而在我看来，我们需要在保证合规性、安全性、易用性的同时，提高交易的效率。因为，我们需要推进 Crypto 技术的发展，为人们提供使用这种新技术的机会。\n\n\nJeremy：我很想听听你对 C…",
+          "link": "https://www.theblockbeats.info/news/30404",
+          "publishedOn": "2022-05-04T03:50:37.000Z",
+          "wordCount": null,
+          "title": "CZ对话Circle：既然无法永远保护美元，就应该拥抱未来",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30397",
           "author": null,
           "description": "原文作者：Belinda Zhou\n\n\n原文来源：Sharding Capital\n\n\n\n本文梳理了 Sharding Capital 合伙人 Belinda Zhou 在 AFIC 创业大赛纽约站的演讲分享。\n \n整理翻译如下：\n \n最近，我在参与区块链活动的时候遇到了不少新生力量，比如 14 岁的 solana 开发者，16 岁在 Avalanche gamefi 项目的美术 creative lead。他们这一代出生就已经浸淫在 web2，习惯了创造和分享，web2 对他们来说已然是传统行业。在 web3 世界，他们可以通过认知的提升颠覆传统创业的年龄偏见，实现更快速、更正向的个人价值探索和经验积累。\n \n我本人是在 2017 年进入区块链行业，即当过 web3 创业者也当过 web3 投资者，算是一个比较全面的 web3 体验官。我经常被问到，为什么我年纪才二十多岁，却拥有这么多的从业经验和丰富的人脉资源。其实这个答案就是因为我的行业是 web3，一个高速发展变革的行业，web3 行业很多年轻人都算年轻但经验丰富，因为敢被给到 ownership，这点我认为在 web3 世界尤为可贵。\n \n\n\nWEB3 消除年龄偏见 给予年轻人最快的自身价值探索\n\n\n\n举个具体点的例子，作为程序员，在 web3 的世界，只要有一定能力，他们可以根据贡献得到合理甚至丰厚的激励，可以去参与以太坊、Solana 或 Near 等开发系统的生态建设，可以去像 Gitcoin 这样开源软件和社区捐助平台提交自己的项目，可以去像 Immunefi 这样的 web3 漏洞赏金平台当白帽黑客检查项目方的智能合约，可以去参与感兴趣的去中心化自治组织（DAO）参与开发。在 web2，咱可能就是一个普通的程序员，没法有这么多的高光时刻。\n \n每年的 iOS 开发者大会，苹果都积极吸纳人才和技术不断发展，…",
@@ -53,16 +63,6 @@
           "publishedOn": "2022-05-02T02:24:59.000Z",
           "wordCount": null,
           "title": "科学家如何偷走你卖出NFT的利润",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30396",
-          "author": null,
-          "description": "原文标题：《在 Nansen「捕鲸」寻找 Alpha 的小技巧》\n原文作者：\n\nCrypto FI\n\n\n原文编译：\n\nKatie 辜，星球日报\n\n\n我们和 @Daryllautk 和 @Darrenlautf 与 @nansen_ai 坐下来，讨论了一个寻找 Alpha 的策略。\n\n\n我将尽量涵盖最重要的要点，让我们开始吧。\n\n\n1. 策略\n\n\n首先，你需要理解「聪明的钱」（ smart money）。\n聪明的钱通常是属于巨鲸的钱，这些钱能带来最大的利润。\n\n\n2. 使用 Nansen\n\n\n我们大多数人都熟悉 Etherscan 浏览器。\n然而，它不能让我们汇总数据和追踪资金流入。\n在这里我强烈推荐使用 Nansen。\n\n\n3. 打开 Nansen 开始第一步\n\n\n进入「聪明的钱」买入的代币，研究你以前没有见过的代币。\n\n\n4. 利用历史数据\n\n\n在 Nansen 的 Token God Mode（代币神模式）中找到这些代币。\n按交易量排序并滚动浏览过去几天/几周代币情况。\n这样你就不必查看小额交易。\n\n\n5.「捕鲸」开始\n\n\n你应该能够轻松识别一些「聪明的钱」的钱包，如 Binance/Sequoia\n其中一些有名的钱包容易被捕抓到，而另一些则比较神秘。\n你的工作就是尽可能地「人肉」这些未知的钱包。\n\n\n6. Etherscan 浏览器\n\n\n如果一个交易吸引了你的兴趣，在 Etherscan 中打开它。\n有一些特定的方法可以查看代币是否是私人出售代币。\n例如，如果它是从 Deployer 部署的，那么它就是私人出售代币。\n到了这一步，事情开始变得有趣。\n\n\n7. 外部研究\n\n\n现在你拥有了你的代币，比如 $LOKA。\n开始搜索募资公告/代币的私下销售，你可以追踪谁在种子轮进行私人投资。\n像 a16z 或 Binance 这样的公司可能会在 Medium/accessibl…",
-          "link": "https://www.theblockbeats.info/news/30396",
-          "publishedOn": "2022-05-01T03:41:39.000Z",
-          "wordCount": null,
-          "title": "在Nansen「捕鲸」：跟踪聪明的钱来捕捉Alpha",
           "imageUrl": null
         }
       ]
