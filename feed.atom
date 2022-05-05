@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-05T00:38:47.625Z</updated>
+    <updated>2022-05-05T06:11:39.405Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAO不需要CEO，他们需要一个使命]]></title>
+        <id>https://www.theblockbeats.info/news/30407</id>
+        <link href="https://www.theblockbeats.info/news/30407"/>
+        <updated>2022-05-05T03:45:33.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+DAO 不需要 CEO，他们需要一个使命
+
+》
+原文作者：Samantha Marin
+原文编译：Block unicorn
+
+
+几周前，推特上有一个热门话题：
+
+
+「DAO 不需要 CEO，他们需要一个使命」
+
+
+这些评论充满了褒贬不一的评论-一些人持严重不同意见，认为单一的 CEO 权力过于集中，而另一些人则认为，DAO 需要更多的方向，而集中权力的领导者可以提供这种指导。
+
+
+他们都是对的，DAO 对方向和统一的渴望是理所当然的——今天 DAO 的混乱很快就会变得非常令人厌倦。但是，首席执行官是分权的对立面，如果一家 DAO 有 CEO，它还会是一家 DAO 吗？
+
+
+我认为这条推文应该是这样写的：
+
+
+「DAO 应该有一个明确的使命，指引每个人。」
+
+
+因为我们在道斯需要更多的团结，不是吗？每个在 DAO 工作过的人都可能知道离开泊位，寻找那颗北极星指引他们前进的感觉，那颗北极星就是任务。
+
+
+今天，我将探索如何在去中心化系统中定义使命。然后，我将提出 DAO 可以用来尽快建立和完善他们的任务的三个策略。
+
+
+像鱼群一样的追求使命
+
+
+Cabin Dao 在一篇关于去中心化品牌的文章中写道：「想想一群鱼，它们是如何完美地游动的，但没有任何明确的指示或地图来指明它们的去向。」首先，将 DAO 视为一群鱼，将 DAO 的表达视为整个鱼群在穿过大海驶向目的地的过程中不断变化。
+
+
+他们将这描述为一个关键的「感知和响应」过程，允许 DAO 作为一个整体移动，但不会陷入旧的、缓慢的方式。
+
+
+作为一群鱼的使命听起来很棒。但是，就像一群向南飞的鸟儿或一群一致游动的鱼一样，我们如何学会在不采用等级结构的情况下一致行动？
+
+
+让我们看看动物是如何做到这一点的，目前尚无定论--大雁有明确的领头羊，但其他鸟群仍在研究中。
+
+
+然而，这种鱼更容易研究，并产生有趣的发现。《…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3.0的浪潮，科学DAO不能缺席]]></title>
         <id>https://www.theblockbeats.info/news/30403</id>
@@ -228,124 +286,6 @@ RTE (Riva Technology & Entertainment)
 
 
 20 年来，RTE 一直在投资一些全球最成功的娱乐品牌，包括 OkLetsPlay、Galaxy Race…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF和超模吉赛尔宣布捐赠10亿美元，为贫困社区创造生存权]]></title>
-        <id>https://www.theblockbeats.info/news/30400</id>
-        <link href="https://www.theblockbeats.info/news/30400"/>
-        <updated>2022-05-02T08:35:25.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：FTX  
-
-
-2021 年 6 月，巴西超模吉赛尔（Gisele Bndchen）和她的丈夫 Tom Brady 分别成为了 FTX 的环境暨社会倡议顾问和品牌大使，并成为 FTX 的股东。日前在 Crypto Bahamas 会议上，吉赛尔和 SBF 宣布要捐出 10 亿美元，这是 Bndchen 作为 FTX 环境暨社会倡议负责人之后的首次公开亮相。
-
-
-此外，因为吉赛尔的超模身份，她和 SBF 的时尚照也登上了 VOGUE——全球最具影响力的时尚杂志之一。
-
-
-对传奇超模吉赛尔（Gisele Bndchen）来说，为 Chanel、Versace、Gucci 这样的奢持品牌站台、走秀、代言并不陌生，但作为新晋加密行业指标人物，吉赛尔最近正在适应她的新身份：FTX 大使及 FTX 环境和社会倡议顾问。
-
-
-吉赛尔过去对环境议题相当重视，在担任联合国全球环境亲善大使期间，利用其影响力呼吁各国政府应对气候危机。现在，吉赛尔则是希望将环境议题与加密市场的潜力结合起来！
-
-
-听起来有点矛盾，毕竟加密行业先前才因为比特币的高耗能饱受批评。那么吉赛尔和 FTX 打算怎么做呢？
-
-
-
-
-
-捐赠 10 亿美元要先用在哪里？给予生存权和教育
-
-
-吉赛尔在 SALT Crypto Bahamas 会议上表示，她计划用新身份（FTX 环境和社会倡议顾问）寻找相关组织合作，解决 FTX 的碳足迹问题，同时展现加密货币作为更好的金融系统，为整个产业树立标竿。
-
-
-吉赛尔同时也宣布，FTX 创办人 SBF 已经承诺今年将捐赠 10 亿美元用作慈善用途。
-
-
-至于 10 亿美元将用在什么地方，吉赛尔回答道：给予生存权（Enpowerment）和教育（Education）
-
-
-「从给予生存权和教育开始。
-
-
-贫困的国家往往最缺乏环境保护的观念，这是因为他们别无选择，所以只能开采自然资源。开…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[听元宇宙老炮儿讲述19年的行业教训]]></title>
-        <id>https://www.theblockbeats.info/news/30399</id>
-        <link href="https://www.theblockbeats.info/news/30399"/>
-        <updated>2022-05-02T07:35:25.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Lessons From 19 Years in the Metaverse》
-
-
-
-原文作者：Charlie Warzel
-
-
-原文来源：The Atlantic Newsletter
-原文编译：Kxp，律动 BlockBeats
-
-
-
-2003 年，Wagner James Au 是湾区一名年轻的自由撰稿人，为 Salon 和 Wired 报道大型多人游戏，如 The Sims Online。在那期间他曾接到一个任务，负责审查一款新的虚拟世界游戏，由一家名为 Linden Labs 的公司制作，名为 Second Life。于是，他便开始了解这个新生的数字世界，不久之后，他遇到了开发商，他们向他提出了一个有趣的提议，让他以记者的身份参与游戏。Au 可以报道 Second Life 的一切，包括怪事、骚扰和网络犯罪。最终，Au 写了一本关于该游戏的权威书籍《Second Life 的诞生：来自新世界的笔记》。如今，他仍然在他的博客「新世界笔记」栏目上详尽地报道着 Second Life 的发展，这是一个运行时间最长的元数据新闻网站。他最近的一篇文章是关于在游戏中经营数字业务的俄罗斯籍 Second Life 玩家，他们现在正试图通过逃离这个国家来逃避制裁。
-
-
-简而言之，Au 是为数不多的对元宇宙社区有真实看法和经验的人之一。自从 Facebook 改名为 Meta 之后，元宇宙的概念就被一个突如其来的炒作周期所吞噬。各大品牌纷纷涌入这个空间，人们开始发布关于元宇宙的各种消息，也有很多人把元宇宙斥为「无用之物」。但正如 Au 的经历所显示的，几十年来，有数以百万计的人一直在尽职尽责地在数字世界里耕耘、创作。
-
-
-Au 是这个领域的敏锐观察者，在某种程度上，他也是数字世界的倡导者。但同时，他也是一位记者和评论家。他对元宇宙社区的前景充满希望，但也在深刻探讨着那些…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家如何偷走你卖出NFT的利润]]></title>
-        <id>https://www.theblockbeats.info/news/30398</id>
-        <link href="https://www.theblockbeats.info/news/30398"/>
-        <updated>2022-05-02T02:24:59.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《深度分析：科学家是怎么偷走了你卖出 NFT 的利润？》
-
-原文作者：今天有更懂这个世界一点了吗
-
-本文来自微信公众号：今天有更懂这个世界一点了吗
-
-
-大家可以关注我的公众号《今天有更懂这个世界一点了吗 》查阅往期文章，与我进行更深度的交流探讨，也可以关注我的推特：jason_chen998    
-
-
-前天在读者群里，有人发出了一个看起来很奇怪的地址，我们先看一下他的交易记录，请先观察一下，你发现什么问题了吗？
-
-
-
-
-
-这个地址在同一个时间点将同一个 NFT 进行了买入和卖出的交易，这意味着什么呢？我们进入 opensea 的交易记录找到其中一个 NFT 的记录来看一下，买入花费 0.08E，卖出 0.56E，翻了 7 倍，账面利润 0.48E。
-
-
-
-
-
-这个收益还不错对吧，但是你要知道，这个地址有 300 次这样的交易，平均每 3 小时产生一次，源源不断的产生利润，一天可以赚十多万 RMB。
-
-
-又到了破案的时候，带着大家顺藤摸瓜抽丝剥茧来看看这么神奇的操作到底是怎么回事。
-
-
-熟悉 DeFi 的朋友应该都清楚夹子机器人，下意识也会认为这可能是夹子，我当时也是这样认为，但实际上不是的。
-
-
-这里先简单科普一下什么叫夹子机器人，后面会单独出一篇讲它的文章，夹子机器人会监测链上的买入情况，当有大单买进某个币时，肯定会拉高币价，于是立刻赶在他之前提高 gas 费抢先买入，当大单买进成功后拉高了币价，再立刻卖出，从而获利，整个过程是在很短的时间完成。
-
-
-但为什么说今天要讲的情况不是夹子机器人，是因为 NFT 与 FT 最大的区别是非同质化的，唯一的，即买卖是有「指向性」的，即买方和卖方都对同一个 NFT 交易，如张三要卖出 Azuki#9527，李四也想买 Azuki#9527，两者之间才会产生交易，我即使以低价买入了某个 NFT，那我无法立刻找到要高价买它的人…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
