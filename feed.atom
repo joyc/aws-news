@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-05T12:20:22.003Z</updated>
+    <updated>2022-05-05T18:13:56.356Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重新解构NFT：Token化商业的哲学思维]]></title>
+        <id>https://www.theblockbeats.info/news/30414</id>
+        <link href="https://www.theblockbeats.info/news/30414"/>
+        <updated>2022-05-05T14:02:46.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+重新解构 NFT：Token 化商业的哲学思维！
+
+》
+原文整理：老雅痞
+本文来自微信公众号：老雅痞
+
+
+内容来自对《Not Boring》访谈栏目的整理。
+
+
+对话来自主持人 Packy McCormick 和 Alex Danco。Alex 就职于 Shopify，职位是 Systems & Crypto person。
+
+
+希望可以给你带来新的视角和启发。
+
+
+主持人：我们都为加拿大人工作——你在 Social Capital，我在 Breather——然后我们都写了时事通讯。从那以后，我们朝着不同的方向前进——我正在做一个时事通讯和一家基金，而你已经把时事通讯放慢了更新速度，并成为 Shopify 的全职运营商。
+
+
+我记得当你接受这份工作时，我在想，a) 太酷了！b) 你将在 Shopify 做什么具体工作呢？c）Shopify 会到达哪里呢？对于那些没有使用 Shopify 的人，你能否定义 Shopify 今天是什么以及你认为未来十年它将成为什么？
+
+
+Alex ：我简单的描述 Shopify 吧：它让每个人都能更好地开展商务活动，具体而言，我们通过软件做到这一点：我们在建立电子商务平台。我们的工作是以一种独特的方式来构建该平台，为商家——以及许多其他人服务，如应用程序开发人员、代理商和现在的买家——我们会提供最好的互联网软件服务。
+
+
+
+
+
+主持人：Alex Danco，你在 Shopify 做什么？当然，除了 Shopify wallet-aware。
+
+
+
+
+
+让我们直接进入 Web3。几个月前你第一次发推特「gm」时，我以为你在讽刺。然后你改变了你的头像。现在你正在运营一个区块链团队——你在 LinkedIn 的头衔是「Systems & Crypto person」。你接触加密货币有一段时间了？你对它有什么兴趣？
+
+
+Alex ：哈，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话内容平台Slash：Web3应该有一个Onlyfans]]></title>
         <id>https://www.theblockbeats.info/news/30412</id>
@@ -440,42 +489,6 @@ WEB3 消除年龄偏见 给予年轻人最快的自身价值探索
 举个具体点的例子，作为程序员，在 web3 的世界，只要有一定能力，他们可以根据贡献得到合理甚至丰厚的激励，可以去参与以太坊、Solana 或 Near 等开发系统的生态建设，可以去像 Gitcoin 这样开源软件和社区捐助平台提交自己的项目，可以去像 Immunefi 这样的 web3 漏洞赏金平台当白帽黑客检查项目方的智能合约，可以去参与感兴趣的去中心化自治组织（DAO）参与开发。在 web2，咱可能就是一个普通的程序员，没法有这么多的高光时刻。
  
 每年的 iOS 开发者大会，苹果都积极吸纳人才和技术不断发展，…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OkLetsPlay宣布与RTE和Galaxy Racer建立合作伙伴关系]]></title>
-        <id>https://www.theblockbeats.info/news/30401</id>
-        <link href="https://www.theblockbeats.info/news/30401"/>
-        <updated>2022-05-03T03:46:23.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：OkLetsPlay
-
-
-OkLetsPlay（OKLP）宣布与 RTE（Riva Technology & Entertainment）和 Galaxy Racer 建立合作伙伴关系，这两家机构在电子竞技领域及其他领域拥有无与伦比的游戏和技术创新能力。
-
-
-OkLetsPlay 的世界级电子竞技平台与全球最大的电子竞技、游戏和生活方式组织 Galaxy Racer 之间的合作可能会改变游戏规则。与 Galaxy Racer 这样的巨头合作预示着 OkLetsPlay 上线后或将无可避免迎来的快速增长。
-
-
-
-
-
-
-
-OkLetsPlay 是用于竞技和休闲 PC、移动和在线视频游戏的现金和加密电子竞技锦标赛平台（拥有相关专利），该平台近期于 Polkastarter 平台启动，并在 30 分钟内即完成了 125 万美元的 ID0，其原生 Token OKLP 现已上线 CEX (MEXC Global) 和 DEX (QuickSwap)。
-
-
-OkLetsPlay 团队一直在开发市场领先的产品，现在正从应用程序构建和测试过渡到备受期待的发布环节，正式屹立于聚光灯下。用户可以期待从 OkLetsPlay 中听到更多消息，因为 OkLetsPlay 会在正式发布前几周官宣与应用程序、合作伙伴关系和游戏集成相关的激动人心的消息。
-
-
-与 RTE 和 Galaxy Racer 的合作不仅使 OkLetsPlay 在市场上的地位向前迈进了一步，同时也对 OkLetsPlay 的项目范围、资源可及性、进入市场战略和长期目标具有显著的推动作用。竞争激烈的电子竞技市场正在经历爆炸式增长。
-
-
-RTE (Riva Technology & Entertainment) 
-
-
-20 年来，RTE 一直在投资一些全球最成功的娱乐品牌，包括 OkLetsPlay、Galaxy Race…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
