@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30440",
+          "author": null,
+          "description": "原文标题：《\n\n通过 DAO 拆分风险投资\n\n》\n原文作者：Peter 『pet3rpan』\n原文编译：Block unicorn\n\n\n服务 DAO、孵化 DAO、投资 DAO\n\n\n过去，人们曾多次尝试颠覆风险投资：\n\n\n1. 天使投资者的激增 (AngelList，2010)。\n\n\n2. 股权众筹的制定和监管 (就业法案，2012 年)。\n\n\n3. 通过Token销售进行加密众筹 ICO(2013)\n\n\n虽然其中许多努力成功地为创始人创造了更多的被动资本供应，但它们在很大程度上没有充分满足创始人的运营需求，这些需求使项目能够更快地投放市场并在其整个生命周期中取得成功：人才、设计、产品、营销、研究、经济、工程、社区建设、业务发展、监管指导和领域专业知识。\n\n\n资本本身是充裕的，但有价值的服务却不是。尽管有大量资本流入科技和加密生态系统，但高价值服务仍然稀缺。\n\n\n我们认为这是基于以下因素：\n\n\n- 创始人没有关于投资者可以提供的服务质量的可公开核实的数据，也没有许多创始人对投资者进行尽职调查。因此，许多创始人无法根据他们提供的服务来优化他们的投资者。\n\n\n- 缺乏关于投资者的高质量数据，导致了一种以销售为导向的风险环境，投资者承诺过高，但回报不足。与受制于合同义务的服务提供商、甚至受制于既定时间表的创始人不同，投资者不会被要求遵守相同的标准，尽管他们只能通过提议的价值主张获得竞争激烈的几轮融资。\n\n\n因此，无论是加密还是更广泛的风险投资领域，融资格局都主要由被动资本构成。\n\n\n尽管 1kx 和少数其他基金每天都在努力成为常态的例外，但我们一直无法推动更广泛的投资者格局发生根本性变化。幸运的是，我们相信一种转变即将到来--我们相信这种转变始于 Service Daos。在我们谈论 Service Daos 之前，让我们先来看看参与风险融资版图的 Dao 的血统。\n\n\n投资 D…",
+          "link": "https://www.theblockbeats.info/news/30440",
+          "publishedOn": "2022-05-06T14:09:34.000Z",
+          "wordCount": null,
+          "title": "拆分风险投资：从投资DAO到服务DAO",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30439",
           "author": null,
           "description": "原文标题：《\n\nSolidity 极简入门 ERC721 专题：4. BAYC 合约严重漏洞\n\n》\n\n\n原文来源：0xAA  \n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n不知不觉我已经完成了 Solidity 极简教程的前 13 讲（基础），内容包括：Helloworld.sol，变量类型，存储位置，函数，控制流，构造函数，修饰器，事件，继承，抽象合约，接口，库，异常。在进阶内容之前，我决定做一个 ERC721 的专题，把之前的内容综合运用，帮助大家更好的复习基础知识，并且更深刻的理解 ERC721 合约。希望在学习完这个专题之后，每个人都能发行自己的 NFT。\n\n\nTL;DR 太长不看\n\n\n- 在我查看 BAYC 合约的时候我发现了两个严重漏洞，其中一个可能会导致 BAYC 超发，超过设定的供应量上限 10,000 枚。\n\n\n- 超发漏洞是由合约中用于项目方预留 BAYC NFT 的 reserveApes 函数没有检查是否超发，owner 地址可以随时铸造，不受供应量上限的限制。\n\n\n- 两种情况下漏洞会被触发：项目方做恶（几乎不可能）和黑客盗取 owner 私钥（有可能）。\n\n\n- 受漏洞影响的包括 BAYC 以及复用其代码的其他 NFT 项目方。\n\n\n- 最简单的解决办法就是 BAYC 项目方放弃 ownership。\n\n\n- 发现这两个漏洞并不难，我肯定不是第一个发现的（见这篇去年 10 月的博客），但是这些漏洞并没有引起足够的重视。鉴于现在 BAYC 市值超过 40 亿美元，希望能引起项目方的重视。\n\n\n声明：本文只是技术探讨，没有 FUD BA…",
@@ -143,16 +153,6 @@
           "publishedOn": "2022-05-04T06:30:58.000Z",
           "wordCount": null,
           "title": "ENS数字域名市场爆火背后的冷思考",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30404",
-          "author": null,
-          "description": "原文来源：\n\nThe Money Movement\n\n\n原文编译：kxp，律动 BlockBeats\n\n\n几天前，Binance 创始人 CZ 做客 Circle CEO Jeremy Allaire 的 The Money Movement 栏目，进行了近 1 个小时的对话。双方并没有聊 Stablecoin 相关的内容，而是从更宏观的角度，聊了聊区块链对世界的影响。\n\n\n\n从 2020 年开始，全球如同打开了潘多拉的魔盒一般发生变化，我们在关注行业内各个赛道项目的同时，获取宏观发展的信息也相当必要。律动 BlockBeats 将二人的对话听译如下，希望能对读者有所帮助。\n\n\nJeremy Allaire：你好，我是 Jeremy Allaire，欢迎来到 The Money Movement，非常期待我们今天的对话。欢迎你，CZ。\n\n\nCZ：很高兴来到这里，谢谢你邀请我。\n\n\nJeremy：首先我想先谈一谈你选择这一行业的原因以及对于未来的愿景。我想我们每个人都有自己的故事，来到 Crypto 市场当中都想有一番作为，比如建立一个新的全球金融体系、新的经济体系，或者世界经济活动的新方式。我很想听听你的见解，你觉得 Crypto 将给世界带来什么？在未来十年当中世界会因为 Crypto 的发展而发生什么变化？\n\n\nCZ：从根本上说，我认为 Crypto 区块链是一项新技术，用于建立信任的账簿系统。不过，就像互联网的第一个应用只是用于信息交流一样，Crypto 一开始只有金钱属性。我认为借助 Crypto，我们可以改进我们现有的货币，从而金融部门和金融科技。我们目前的货币系统尚存诸多缺陷，而在我看来，我们需要在保证合规性、安全性、易用性的同时，提高交易的效率。因为，我们需要推进 Crypto 技术的发展，为人们提供使用这种新技术的机会。\n\n\nJeremy：我很想听听你对 C…",
-          "link": "https://www.theblockbeats.info/news/30404",
-          "publishedOn": "2022-05-04T03:50:37.000Z",
-          "wordCount": null,
-          "title": "CZ对话Circle：既然无法永远保护美元，就应该拥抱未来",
           "imageUrl": null
         }
       ]
