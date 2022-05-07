@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-07T12:13:53.047Z</updated>
+    <updated>2022-05-07T18:09:14.496Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从虚拟走向现实，元宇宙将属于谁？]]></title>
+        <id>https://www.theblockbeats.info/news/30463</id>
+        <link href="https://www.theblockbeats.info/news/30463"/>
+        <updated>2022-05-07T14:22:07.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+元宇宙的梦想与现实
+
+》
+原文作者：turbulence
+原文编译：Block unicorn
+
+
+人类的感官究竟在多大程度上能够被替代或欺骗？全面数字化究竟是不是人类前进的方向？如果生活中的一切皆可以被数字化，那么生活本身的意义又在哪里？
+
+
+「元宇宙」一词最初出现在科幻小说中。美国科幻作家尼尔・斯蒂芬森（Neal Stephenson）在他 1992 年发表的科幻小说《雪崩》（Snow Crash）中首次创造了「元宇宙」一词。在这部小说里，所谓元宇宙指的是一种现实世界与通过增强现实技术和虚拟现实技术创造出的虚拟世界相混合的状态。这部作品在科幻界的影响力虽然不如另一位科幻大师威廉・吉布森（William Gibson）在 1984 年发表的题材类似的作品《神经漫游者》（Neuromancer），但自此之后，随着网络世界的发展一日千里，「元宇宙」一词就停驻在了人们的视野之中，而后还不时地被各种作品所借鉴。
+
+
+2018 年的科幻电影《头号玩家》（Ready Player One）被很多人认为是对元宇宙概念最为形象化的解释。借助虚拟设备，人们可以在现实世界和虚拟世界之间自由地穿梭。不用问，更加无拘无束的虚拟世界所能带给人的惊奇和快乐都远超现实世界。
+
+
+如果说被科幻电影所借鉴，元宇宙概念在当时还局限在科幻迷的范围之内，那么从 2021 年 10 月开始，这个概念便正式「破圈」，让之前对此一无所知的人们也开始争相讨论。
+
+
+2021 年 10 月，有 17 年历史的美国社交网络巨头「脸书」（Facebook）公司的创始人马克・扎克伯格（Mark Zuckerberg）发表了一封《创始人的信：2021》（Founder's Letter，2021），宣布脸书公司更名为「Meta」，展示其向元宇宙进发的决心——互联网世界的一件大事发生了。尽管元宇宙一词的创造者尼尔・…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Messari波卡一季度报告：平行链拍卖后热度下降，开发者活跃度高]]></title>
         <id>https://www.theblockbeats.info/news/30461</id>
@@ -814,64 +845,6 @@ Axie Infinity 背后的 Sky Mavis 公司的联合创始人兼首席运营官 Ale
 
 
 Gabby：作为来自发展中国家的玩家，菲律宾一直是游戏的启动国家之一，因为有很多喜欢玩游戏的人并且在社交方面非常活跃，但人们并不总是能够因为他们在游戏中花费的时间和精力而获得现实世界的奖励。现在有了游戏 NFT，人们可以拥有自己的资产，进而参与到游戏经济中。因此，对于来自我…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAO不需要CEO，他们需要一个使命]]></title>
-        <id>https://www.theblockbeats.info/news/30407</id>
-        <link href="https://www.theblockbeats.info/news/30407"/>
-        <updated>2022-05-05T03:45:33.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-DAO 不需要 CEO，他们需要一个使命
-
-》
-原文作者：Samantha Marin
-原文编译：Block unicorn
-
-
-几周前，推特上有一个热门话题：
-
-
-「DAO 不需要 CEO，他们需要一个使命」
-
-
-这些评论充满了褒贬不一的评论-一些人持严重不同意见，认为单一的 CEO 权力过于集中，而另一些人则认为，DAO 需要更多的方向，而集中权力的领导者可以提供这种指导。
-
-
-他们都是对的，DAO 对方向和统一的渴望是理所当然的——今天 DAO 的混乱很快就会变得非常令人厌倦。但是，首席执行官是分权的对立面，如果一家 DAO 有 CEO，它还会是一家 DAO 吗？
-
-
-我认为这条推文应该是这样写的：
-
-
-「DAO 应该有一个明确的使命，指引每个人。」
-
-
-因为我们在道斯需要更多的团结，不是吗？每个在 DAO 工作过的人都可能知道离开泊位，寻找那颗北极星指引他们前进的感觉，那颗北极星就是任务。
-
-
-今天，我将探索如何在去中心化系统中定义使命。然后，我将提出 DAO 可以用来尽快建立和完善他们的任务的三个策略。
-
-
-像鱼群一样的追求使命
-
-
-Cabin Dao 在一篇关于去中心化品牌的文章中写道：「想想一群鱼，它们是如何完美地游动的，但没有任何明确的指示或地图来指明它们的去向。」首先，将 DAO 视为一群鱼，将 DAO 的表达视为整个鱼群在穿过大海驶向目的地的过程中不断变化。
-
-
-他们将这描述为一个关键的「感知和响应」过程，允许 DAO 作为一个整体移动，但不会陷入旧的、缓慢的方式。
-
-
-作为一群鱼的使命听起来很棒。但是，就像一群向南飞的鸟儿或一群一致游动的鱼一样，我们如何学会在不采用等级结构的情况下一致行动？
-
-
-让我们看看动物是如何做到这一点的，目前尚无定论--大雁有明确的领头羊，但其他鸟群仍在研究中。
-
-
-然而，这种鱼更容易研究，并产生有趣的发现。《…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
