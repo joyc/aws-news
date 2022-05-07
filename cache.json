@@ -124,36 +124,6 @@
           "wordCount": null,
           "title": "DAO不需要CEO，他们需要一个使命",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30403",
-          "author": null,
-          "description": "原文标题：《How Web3 Technologies Can Help Improve the Scientific Recor》\n原文来源：DeSci Foundation\n原文编译：老雅痞\n\n\n科学是知识和进步的基础，作为一种基本的公共产品，科学需要可靠、透明和公开的访问。本文讨论了科学的现状如何在所有这些方面得到改善。Web3 技术为改变现状提供了令人兴奋的可能性，一场新的去中心化科学（DeSci）运动正在开始利用这些新技术来改善科学。\n\n\n技术创新在历史上使我们生产、验证、保存和传播知识的能力得到了巨大的改善。从 15 世纪印刷术的发明——它首次使知识的大规模传播成为可能，到 20 世纪互联网的发明--它极大地降低了分享信息的交易成本。\n\n\n科学出版面临什么问题？\n\n\n科学出版物市场主要由五家大型营利性公司（Elsevier、Black & Wiley、Taylor & Francis、Springer Nature 和 SAGE）主导，它们共同控制着 50% 以上的市场。全世界科学论文使用权的销售额超过 190 亿美元，就收入而言，科学出版业介于音乐业和电影业之间。\n\n\n出版公司的两种主要商业模式是「付费获取」和「付费出版」。这两种模式都依靠科学家的无偿劳动来进行同行评议。这相当于科学家非自愿地向出版业捐赠了数十亿美元，主要用公共资金或研究人员的私人时间来提高出版社的利润，并剥夺了科学家进行高质量裁判工作的公平回报。这里有一个来自弗吉尼亚大学的很好的测验，让人感受到了钱的重要性。\n\n\n访问付费\n\n\n在付费获取模式中，期刊向个人和机构（如大学图书馆）收取订阅费或访问费。每份期刊的年度订阅费用通常为数百美元，获取单篇文章的费用通常在 20 美元至 100 美元之间。\n\n\n大学、图书馆和政府等机构订户得到的是捆绑式「交易」，其中往往不仅包括出版商排名最靠前的期刊，还包…",
-          "link": "https://www.theblockbeats.info/news/30403",
-          "publishedOn": "2022-05-04T11:00:58.000Z",
-          "wordCount": null,
-          "title": "Web3.0的浪潮，科学DAO不能缺席",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30406",
-          "author": null,
-          "description": "原文标题：《Solidity 极简入门 ERC721 专题：3. ERC721 主合约》  \n原文来源：0xAA  \n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n不知不觉我已经完成了 Solidity 极简教程的前 13 讲（基础），内容包括：Helloworld.sol，变量类型，存储位置，函数，控制流，构造函数，修饰器，事件，继承，抽象合约，接口，库，异常。在进阶内容之前，我决定做一个 ERC721 的专题，把之前的内容综合运用，帮助大家更好的复习基础知识，并且更深刻的理解 ERC721 合约。希望在学习完这个专题之后，每个人都能发行自己的 NFT。本文为该系列第三讲，第一讲为：《Solidity 极简入门 | ERC721 专题第一讲：合约概览与相关库》；第二讲为：《Solidity 极简入门 | ERC721 专题第二讲：ERC721 相关接口》\n\n\n\n\nERC721 主合约\n\n\n我在 ERC721 前两讲介绍了它的相关库和接口，终于这讲可以介绍主合约了。ERC721 主合约包含 6 个状态变量和 28 个函数，我们将会一一介绍。并且，我给 ERC721 代码增加了中文注释，方便大家使用。\n\n\n状态变量\n\n\n\n\n\n\n\n\n· _name 和_symbol 是两个 string，存储 Token 的名称和代号。 \n\n\n· _owners 是 tokenId 到 owner 地址的 Mapping，存储每个 Token 的持有人。 \n\n\n· _balances 是 owner 地址到持币数量的 Mapping，存储每个地址的持仓量。 \n\n\n· _tokenApprovals 是 tokenId 到授权地址的 Mapping，存储每个 token 的授权信息。…",
-          "link": "https://www.theblockbeats.info/news/30406",
-          "publishedOn": "2022-05-04T08:30:58.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门 | ERC721专题第三讲：ERC721主合约",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30405",
-          "author": null,
-          "description": "原文标题：《ENS数字域名市场爆火背后的冷思考》\n原文作者：郝天，链上观\n\n\n风乍起，吹皱 NFT 市场一池春水。不吹不黑，接下来的 thread，我将基于过去几天对 @ensdomain 数字域名市场的深入观察，并结合 @duneanalytics 上的链上数据的客观反应，谈一谈我对这波 ENS 域名 NFT 社区化炒作的可圈可点之处及些许隐忧：\n\n\n这是一次典型的 NFT 社区行动快闪秀，短短一周内，不仅将 3、4 位数数字域名成功炒热，且地板价分别达到了 10ETH 和 2ETH 以上，还给 @ens.eth 官方创造了连续数日创纪录的营收，仅 5.1-5.2 日两天就创造了近 300 万美元的收入，逼近 3 月份一整月的水平。此外，还刺激$ENS 走了一波翻倍行情。实际经济效益很成功！\n \n\n\n\n为什么会火，主要原因有三：\n\n\n\n\n1）数字域名是 ENS 系统的绝对稀缺资源，容易 NFT 化。作为 web3 的门户级战略入口，ENS 原本实用导向的域名价值发现太慢了，而一旦锁定 3、4 位数字域名总共也就 1.1 万个，而且数字域名短小好记可以赋予持有者一种社交文化标签，就像 avater 类 NFT 一样能够快速起势；\n\n\n\n\n2）在 NFT 世界里，社区的力量很可怕，可以逆势平地起高楼。此次数字域名炒作潮由 @10kclub 发起，社区内有不少 BAYC 大佬的身影，且得到 twitter 诸多数十万粉丝大 V 的响应，最关键是有大资本和财阀操盘的身影，因此社区共识很强，很容易短时间掀起热潮；\n\n\n\n\n3）不像其他 NFT，数量是锁死的，错过了最佳进场时机，要么高位接盘要么只能观望，ENS 数字域名有极大的延展性，错过 3 位数，还有 4 位数，再错过还有 5 位数，此外还能延展到 3、4 位数的字母。这种玩法能把 fomo 情绪上的跟风参与发挥到极致，因此会持…",
-          "link": "https://www.theblockbeats.info/news/30405",
-          "publishedOn": "2022-05-04T06:30:58.000Z",
-          "wordCount": null,
-          "title": "ENS数字域名市场爆火背后的冷思考",
-          "imageUrl": null
         }
       ]
     },
