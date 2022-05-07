@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30461",
+          "author": null,
+          "description": "原文标题：《State of Polkadot Q1 2022》\n原文作者：Nicholas Garcia\n\n\n原文来源：Messari\n\n\n原文编译：\n\nKIKO，PolkaWorld\n\n\n核心观点\n\n\n经过五年的研发，Polkadot（波卡）平行链现已上线。\n\n\n在 2022 年第一季度结束时，13 条平行链赢得了平行链插槽，绑定了 1.278 亿个 DOT（占总供应量的 11%；价值 29 亿美元）。\n\n\n从目前至 2023 年 2 月，计划再进行 28 次平行链插槽 auction（总数达到 41 次）。\n\n\nPolkadot 价格和用户账户数在第一次平行链插槽 auction 时创下历史新高；然而自那以后，这两个指标都在稳步下降。\n\n\nPolkadot 有着均匀分布的验证人集，99% 的验证人拥有 1.8-260 万个 DOT。\n\n\nPolkadot 的开发者活动仍然是加密领域中最活跃的。\n\n\n下一个主要里程碑是跨共识消息格式 XCM、平行线程的实现和性能升级。\n\n\n\n\n\n波卡简介\n\n\nPolkadot 是一个提名权益证明 (NPoS) 区块链网络，旨在支持各种互连的、服务于特定应用的 Layer 1 链，即平行链。Polkadot 中构建的每条链都使用 Parity Technologies 的区块链开发框架 Substrate，它允许开发人员选择最适合其专业应用链的特定组件。Polkadot 指的是一整个生态系统，即接入到单个基础平台「中继链」的的所有平行链。该基础平台不支持应用程序功能，而是包含所有验证人，并负责保护、管理和连接平行链。\n\n\n\n\n\n经过大约五年的研发，第一批平行链于 2021 年 12 月 17 日上线。截至 2022 年第一季度结束时，13 条平行链赢得了平行链插槽，绑定了 1.278 亿个 DOT（占总供应量的 11%，价值 29 亿美元…",
+          "link": "https://www.theblockbeats.info/news/30461",
+          "publishedOn": "2022-05-07T09:52:34.000Z",
+          "wordCount": null,
+          "title": "Messari波卡一季度报告：平行链拍卖后热度下降，开发者活跃度高",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30459",
+          "author": null,
+          "description": "原文标题：《7 Essential Ingredients of a Metaverse》  \n  原文作者：Liz Harkavy、Eddy Lazzarin、Arianna Simpson  \n原文编译：胡韬，链捕手\n\n\n\n自 90 年代创造「元宇宙」以来，一直有很多关于「元宇宙」的讨论，但尤其是在大流行期间（鉴于在线活动激增），在 Facebook 更名为 Meta 之后更是如此。 \n\n\n这只是一种不透明的营销说法吗？元宇宙 到底是 什么？一个人如何定义这个术语，以及在哪里划清元宇宙和另一个虚拟世界之间的界限？这些是人们对元宇宙提出的常见问题，因此我们认为应该概述我们如何看待它以及元宇宙如何与 web3 相交织。 \n\n\n在许多方面，元宇宙只是互联网发展的另一个名称：比当今存在的更具社交性、身临其境、经济上更加复杂。从广义上讲，对于如何实现这一点，有两种相互竞争的愿景：一种是去中心化的、慷慨的产权和新的边界、可互操作、开放并由构建和维护它的社区拥有；另一种是集中的、封闭的，受制于公司的兴起，并且经常从它的创造者、贡献者和居民那里榨取痛苦的经济租金。\n\n\n比较这两种愿景的关键维度是开放与封闭，它们之间的差异可以概念化如下：\n\n\n\n\n\n一个开放的元宇宙是去中心化的，允许用户控制身份，强制执行产权，调整激励措施，并确保用户（而非平台）获得价值。除其他标准外，开放的元宇宙也是透明的、无需许可的、可互操作的和可组合的（其他人可以在元宇宙内和跨元宇宙自由构建）。 \n\n\n实现一个「真正的」元宇宙——开放与封闭——需要这个广受欢迎的状态所固有的七个基本要素。我们认为，这些对于满足被称为元宇宙的最低要求是必要的。我们的目标是为建设者和潜在参与者清除关于什么是真正的元宇宙和不是真正的元宇宙的错误信息的迷雾，并为评估早期的元宇宙尝试提供一个框架。\n\n\n\n1. 去中心化\n\n\n去中心化是适当元宇…",
+          "link": "https://www.theblockbeats.info/news/30459",
+          "publishedOn": "2022-05-07T06:52:34.000Z",
+          "wordCount": null,
+          "title": "a16z：构建元宇宙的7个基本要素",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30460",
+          "author": null,
+          "description": "和 Web2 创业一样，融资也是 Web3 创业不可缺少的一环。\n\n\n我们听过很多精彩的融资故事，听过 Matt Huang 24 岁来北京旅游顺便投资了字节跳动，听过 Wework 与软银之间的支持与妥协，也听过滴滴口头融资成为 OFO 命运拐点的故事。\n\n\nWeb2 的融资故事在 Web3 行业依然存在，甚至更加精彩，产品没有地域限制，融资一样没有，任何一款面向全球的 Web3 产品，都可以在全球寻找融资。\n\n\n那么，Web3 创业者在融资时，如何认识机构？如何与他们沟通？有没有方法论？\n\n\n为了让新入场的 Web3 创业者们更了解这个世界的规则，律动 BlockBeats 主办的「Web3 Master Class」系列活动第二期将邀请 Project Galaxy 的联合创始人 Harry。Web3 数据凭证应用 Project Galaxy 在今年 1 月拿了 1000 万美元的融资，机构阵容非常抢眼，Multicoin、Binance、云九、Coinbase、Alameda 等顶级机构均有参与。\n\n\n通过 Project Galaxy 的经验，我们希望为大家梳理「如何获得融资？」、「如何与交易平台沟通？」等等创业者关心的问题。\n\n\n活动简介\n\n\n想在 Web3 中创业却不知从何下手？律动 Web3 Master Class 系列活动带你了解创业必知干货。5 月 7 日晚 20:00，律动 BlockBeats 邀请当下最热门的项目 Project Galaxy 的联合创始人 Harry，为大家讲述 Project Galaxy 早期在融资时总结出的各种经验。欢迎 Web3 建设者共同来交流对话。\n\n\n活动时间\n\n\n北京时间 5 月 7 日 20:00\n\n\n活动嘉宾\n\n\nProject Galaxy 联合创始人 Harry\n\n\n直播地址\n\n\n\n\n\n律动 BlockBeats Twitter Space：https://twitter.com/i/spaces/1dRJZlgnloDKB\n\n\n关于 Web3.0 Master Class\n\n\n\n\n\n\n\n\n\n\n\n\nWeb3.0 Master Class 是由律动 BlockBeats 发起的面向 Web 3 爱好者、创业者以及从业者们的系列活动。邀请富有经验的创业者、投资人/机构、开发者、社区等行业先驱传授讲述自身创业经验、产品运营技巧、项目投资方向等多维度干货内容。\n\n\n\n\n\n\n\n\n\n加入律动 BlockBeats Discord，共话 Web3 发展\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30460",
+          "publishedOn": "2022-05-07T05:52:34.000Z",
+          "wordCount": null,
+          "title": "Project Galaxy带你了解Web3创业者如何拿到融资 | Web3.0 Master Class（第二期）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30443",
           "author": null,
           "description": "原文作者：0x137，律动 BlockBeats\n\n\n在 Stepn 后，我们看到了各种 X2Earn 应用，在律动 BlockBeats 看来，Stepn 的火热打响了 Web3 应用崛起的第一枪。在 10 年发展路程里，我们看到了区块链随着技术革新，不断普及的过程：16-17 年以太坊崛起，区块链摆脱了「寻找下一个比特币」的叙事，各种形式的 IC0 为「加密行业」打下了基础；19-20 年 DeFi Summer 的崛起为区块链找到了「应用场景」，区块链技术在 DeFi、NFT、Layer 1、Layer 2 等协议层面实现突围，「Web3」的概念诞生并开始普及；22 年 Stepn 的出圈，区块链技术开始在应用层面突飞猛进，走出了互联网在 Facebook、Uber 等应用繁荣发展阶段的特征。\n\n\n在本文中，律动 BlockBeats 作者访谈了 NFT 社交平台 Atem 项目团队，从项目简介和定位、发展阶段与工作重心、开发团队与融资情况等方面进行了深入了解。未来，律动 BlockBeats 将会持续关注 Web3 领域的应用发展，与创始团队密切交流，深度跟踪 Web3 发展的新浪潮。\n\n\nAtem：基于 NFT 的社交网络\n\n\nAtem 想做的，是一个基于 NFT 的群组社交平台，旨在通过 NFT 把用户连接起来，探索基于 NFT 的社交网络，并丰富 NFT 资产与持有者，以及持有者彼此之间的关系表达。Atem 平台上的群组基于个人拥有的 Token 或 NFT 形成，并与交易实现无缝结合。用户根据自己持有的 NFT，可以很方便的进入各种各样的社群里，并可以很方便的和群里的人讨论，或进行点对点交易。\n\n\n\n\n\n\n\n所有群组和频道都采取 DAO 治理制式，由用户共同决定社区的规则，比如决定群组名称、徽标、用户禁言，以及创建可跨 dApps 使用的去中心化社区 NFT…",
