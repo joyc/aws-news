@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-07T00:35:36.883Z</updated>
+    <updated>2022-05-07T06:11:13.660Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对话NFT社交平台Atem：为NFT社群打造的专属Discord]]></title>
+        <id>https://www.theblockbeats.info/news/30443</id>
+        <link href="https://www.theblockbeats.info/news/30443"/>
+        <updated>2022-05-07T03:31:52.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：0x137，律动 BlockBeats
+
+
+在 Stepn 后，我们看到了各种 X2Earn 应用，在律动 BlockBeats 看来，Stepn 的火热打响了 Web3 应用崛起的第一枪。在 10 年发展路程里，我们看到了区块链随着技术革新，不断普及的过程：16-17 年以太坊崛起，区块链摆脱了「寻找下一个比特币」的叙事，各种形式的 IC0 为「加密行业」打下了基础；19-20 年 DeFi Summer 的崛起为区块链找到了「应用场景」，区块链技术在 DeFi、NFT、Layer 1、Layer 2 等协议层面实现突围，「Web3」的概念诞生并开始普及；22 年 Stepn 的出圈，区块链技术开始在应用层面突飞猛进，走出了互联网在 Facebook、Uber 等应用繁荣发展阶段的特征。
+
+
+在本文中，律动 BlockBeats 作者访谈了 NFT 社交平台 Atem 项目团队，从项目简介和定位、发展阶段与工作重心、开发团队与融资情况等方面进行了深入了解。未来，律动 BlockBeats 将会持续关注 Web3 领域的应用发展，与创始团队密切交流，深度跟踪 Web3 发展的新浪潮。
+
+
+Atem：基于 NFT 的社交网络
+
+
+Atem 想做的，是一个基于 NFT 的群组社交平台，旨在通过 NFT 把用户连接起来，探索基于 NFT 的社交网络，并丰富 NFT 资产与持有者，以及持有者彼此之间的关系表达。Atem 平台上的群组基于个人拥有的 Token 或 NFT 形成，并与交易实现无缝结合。用户根据自己持有的 NFT，可以很方便的进入各种各样的社群里，并可以很方便的和群里的人讨论，或进行点对点交易。
+
+
+
+
+
+
+
+所有群组和频道都采取 DAO 治理制式，由用户共同决定社区的规则，比如决定群组名称、徽标、用户禁言，以及创建可跨 dApps 使用的去中心化社区 NFT…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Bahamas大会记录：华尔街正在拥抱加密金融]]></title>
+        <id>https://www.theblockbeats.info/news/30444</id>
+        <link href="https://www.theblockbeats.info/news/30444"/>
+        <updated>2022-05-07T03:31:52.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Boomer Bankers Bow to Blockchain Billionaires on the Beach in the Bahamas》
+原文作者：Akash Pasricha
+原文来源：The Information
+原文编译：FTX
+
+
+由 SALT 和 FTX 主办的区块链大会 Crypto Bahamas 于上周落幕。和 SALT 以往举行的会议不同，Crypto Bahamas 除了主题变化，此次地点也移师到了巴哈马首都拿骚。会议盛况令人印象深刻，吸引了许多传统投行人士。加密金融的魅力在哪？听听传统投行人士怎么说。
+
+
+本篇文章由 The Information 资深商业记者 Akash Pasricha 撰写，由笔者整理翻译。
+
+
+
+「这是 LaGuardia 机场，这座机场建于 1920 年代
+
+。」
+
+（作者注：LaGuardia 机场是美国纽约市三大机场之一，因为最接近曼哈顿，故使用率颇高。此机场最常起降广体客机。）
+
+
+
+天桥资本暨 SALT 创办人 Anthony Scaramucci 在一张白纸上边画边解释。Akash Pasricha 此时正和 Anthony Scaramucci 在巴哈马的酒店比邻而坐，努力理解为何 Anthony Scaramucci 如此看好加密货币。
+
+
+「LaGuardia 机场很老旧，当时在建造的时候就是边修边改，这次增建了某个设施、过一阵子再修建另个地方，到了 2020 年，LaGuardia 机场看起来就很糟糕。」
+
+
+Anthony Scaramucci 将现代金融比喻成了 LaGuardia 机场，指出现代金融就是从过往经济大事件中不断修修补补的制度。
+
+
+「现代金融就像 LaGuardia 机场。然后你就看到全新的迪拜机场，非常壮观。所以你看，这是（指 LaGuardia 机场）摩根大…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从DAO的成员资格与治理机制，浅谈新人如何入门DAO]]></title>
+        <id>https://www.theblockbeats.info/news/30441</id>
+        <link href="https://www.theblockbeats.info/news/30441"/>
+        <updated>2022-05-07T01:31:52.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+What is Membership in a DAO?
+
+》
+原文作者:   Gideonro
+原文编译：shaun@DAOrayaki.org，DAOrayaki
+
+
+加入 DAO，即代表认同它的工作方式
+   
+
+
+
+
+为了理解人们为何会加入一个去中心化的自治组织（DAO），「无许可/Permissionlessness」这个词是一个不错的切入点。对切入点找到一个最合适的定义，是打开未知领域的万能钥匙，我喜欢下面这个关于「无许可」的定义：
+
+
+如果通过遵守公开声明的程序，不需要权威机构的许可就可以参与该系统或基础设施的使用、开发和治理，那么这个技术社会系统就被视为是无许可的。—Kelsie Nabben and Michael Zargham
+
+
+我认为，DAO 在本质上就是无许可的。融入/加入 DAO 并不是由某人对你个人做出的雇用决定。正如 Nabben 和 Zargham 所说，它是由你是否遵守 "公开声明的程序 "决定的。当你决定遵守这个程序，就代表你已经成为 DAO 成员的一份子。
+
+
+现实情况是，我们仍处于 DAO 成员的早期阶段。今天，大多数 DAO 的入职程序相当简单，通常归结为拥有一个代币。就像进入地铁系统一样，你只需出示地铁票，就可以进入。但是，这种简单的，以代币为门槛的 DAO 成员资格，仅仅是通过"遵守公共程序 "而加入 DAO 的表面现象。
+
+
+DAO 的「膜」
+
+
+未来组织的融入形式会比今天更具有渗透性。像所有的组织一样，DAO 也有边界，用于将其内部运作与周围环境分开。Nabben 和 Zargham 指出，任何人都可以在没有获得某些权威批准的情况下跨越未经许可的边界。只要遵守公开声明的程序，你就能参与。
+
+
+一般来说，当模拟者经过充分的对自然设计的测试后，就会知道自己是否正朝着正确的方向前进。「无许可」模拟了一些生活本身…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拆分风险投资：从投资DAO到服务DAO]]></title>
         <id>https://www.theblockbeats.info/news/30440</id>
