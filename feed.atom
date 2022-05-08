@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-08T00:36:57.178Z</updated>
+    <updated>2022-05-08T06:10:59.799Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[链上数据解读Stablecoin战争：谁正在赢得这场战争？]]></title>
+        <id>https://www.theblockbeats.info/news/30462</id>
+        <link href="https://www.theblockbeats.info/news/30462"/>
+        <updated>2022-05-08T02:14:29.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+如火如荼的「Stablecoin 战争」
+
+》
+原文作者：Ben Giove，Bankless 撰稿人
+原文编译：南风，Unitimes
+
+
+做好准备，Stablecoin 战争已经开始了。
+
+
+Stablecoin 已经成为 Crypto 行业中规模最大、增长最快的领域之一，总市值超过 1800 亿美元——这一数字在过去一年增长了 109%，在过去两年增长了 1748%。
+ 
+
+上图：各大 Stablecoin 的供应增长情况。来源：The Block
+
+
+在加密经济的这个领域，Stablecoin 的潜在市场规模达数万亿美元，而作为一种「货币」形式，这些资产受益于流动性带来的巨大网络效应。正因如此，早期的 Stablecoin 赢家可以很容易地成为根深蒂固的在位者。
+
+
+这当然引出了一个问题：谁正在赢得这场 Stablecoin 战争？哪些 Stablecoin 的增长最快？在链上的各种用例中，哪些 Stablecoin 是最具流动性和被采用的？
+
+
+让我们找出答案。
+
+
+01. 主要参与者
+
+
+在深入研究一些数据来了解当前 Stablecoin 战争的状态之前，让我们简要地了解 7 个主要的 Stablecoin/货币发行方，这样我们就可以对这些 Stablecoin 的运作方式以及它们成功背后的一些驱动因素有一个高层次的了解。
+
+
+出于我们的目的，我们将谈及 USDC、USDT、BUSD、UST、DAI、FRAX、FEI，以及 OHM (虽然 OHM 不是一种 Stablecoin，而是一种「非锚定货币」)。
+
+
+虽然这 7 种 Stablecoin 不一定是市值最大的，但它们 (原因如下所述) 处于保持或增长市场份额的最佳位置，而且是 DeFi 行业竞争最激烈的垂直领域之一。
+
+
+1. 中心化 Stablecoin：USDC、USDT 和 BUSD…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从虚拟走向现实，元宇宙将属于谁？]]></title>
         <id>https://www.theblockbeats.info/news/30463</id>
@@ -606,55 +655,6 @@ ETH 通胀率从 2021 年一季度的 1.10% 下降至 2022 年一季度的 0.51%
 
 
 在借贷加密资产时，AAVE 提供两种选择：固定利率借贷和浮动利率借贷。可以选择固定的借款利率，该利率非常高，但不会随时间变化（或变化很小）。在这种情况下，您将支付安全费用。另一方面，您可以选择浮动借贷利率，平均来说，该利率低于固定利率，但会受到市场风险的影响。它导致借入资本的效率更高，但风险更高。因此，对于大型市场参与者来说…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新解构NFT：Token化商业的哲学思维]]></title>
-        <id>https://www.theblockbeats.info/news/30414</id>
-        <link href="https://www.theblockbeats.info/news/30414"/>
-        <updated>2022-05-05T14:02:46.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-重新解构 NFT：Token 化商业的哲学思维！
-
-》
-原文整理：老雅痞
-本文来自微信公众号：老雅痞
-
-
-内容来自对《Not Boring》访谈栏目的整理。
-
-
-对话来自主持人 Packy McCormick 和 Alex Danco。Alex 就职于 Shopify，职位是 Systems & Crypto person。
-
-
-希望可以给你带来新的视角和启发。
-
-
-主持人：我们都为加拿大人工作——你在 Social Capital，我在 Breather——然后我们都写了时事通讯。从那以后，我们朝着不同的方向前进——我正在做一个时事通讯和一家基金，而你已经把时事通讯放慢了更新速度，并成为 Shopify 的全职运营商。
-
-
-我记得当你接受这份工作时，我在想，a) 太酷了！b) 你将在 Shopify 做什么具体工作呢？c）Shopify 会到达哪里呢？对于那些没有使用 Shopify 的人，你能否定义 Shopify 今天是什么以及你认为未来十年它将成为什么？
-
-
-Alex ：我简单的描述 Shopify 吧：它让每个人都能更好地开展商务活动，具体而言，我们通过软件做到这一点：我们在建立电子商务平台。我们的工作是以一种独特的方式来构建该平台，为商家——以及许多其他人服务，如应用程序开发人员、代理商和现在的买家——我们会提供最好的互联网软件服务。
-
-
-
-
-
-主持人：Alex Danco，你在 Shopify 做什么？当然，除了 Shopify wallet-aware。
-
-
-
-
-
-让我们直接进入 Web3。几个月前你第一次发推特「gm」时，我以为你在讽刺。然后你改变了你的头像。现在你正在运营一个区块链团队——你在 LinkedIn 的头衔是「Systems & Crypto person」。你接触加密货币有一段时间了？你对它有什么兴趣？
-
-
-Alex ：哈，…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

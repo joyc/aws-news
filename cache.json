@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30462",
+          "author": null,
+          "description": "原文标题：《\n\n如火如荼的「Stablecoin 战争」\n\n》\n原文作者：Ben Giove，Bankless 撰稿人\n原文编译：南风，Unitimes\n\n\n做好准备，Stablecoin 战争已经开始了。\n\n\nStablecoin 已经成为 Crypto 行业中规模最大、增长最快的领域之一，总市值超过 1800 亿美元——这一数字在过去一年增长了 109%，在过去两年增长了 1748%。\n \n\n上图：各大 Stablecoin 的供应增长情况。来源：The Block\n\n\n在加密经济的这个领域，Stablecoin 的潜在市场规模达数万亿美元，而作为一种「货币」形式，这些资产受益于流动性带来的巨大网络效应。正因如此，早期的 Stablecoin 赢家可以很容易地成为根深蒂固的在位者。\n\n\n这当然引出了一个问题：谁正在赢得这场 Stablecoin 战争？哪些 Stablecoin 的增长最快？在链上的各种用例中，哪些 Stablecoin 是最具流动性和被采用的？\n\n\n让我们找出答案。\n\n\n01. 主要参与者\n\n\n在深入研究一些数据来了解当前 Stablecoin 战争的状态之前，让我们简要地了解 7 个主要的 Stablecoin/货币发行方，这样我们就可以对这些 Stablecoin 的运作方式以及它们成功背后的一些驱动因素有一个高层次的了解。\n\n\n出于我们的目的，我们将谈及 USDC、USDT、BUSD、UST、DAI、FRAX、FEI，以及 OHM (虽然 OHM 不是一种 Stablecoin，而是一种「非锚定货币」)。\n\n\n虽然这 7 种 Stablecoin 不一定是市值最大的，但它们 (原因如下所述) 处于保持或增长市场份额的最佳位置，而且是 DeFi 行业竞争最激烈的垂直领域之一。\n\n\n1. 中心化 Stablecoin：USDC、USDT 和 BUSD…",
+          "link": "https://www.theblockbeats.info/news/30462",
+          "publishedOn": "2022-05-08T02:14:29.000Z",
+          "wordCount": null,
+          "title": "链上数据解读Stablecoin战争：谁正在赢得这场战争？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30463",
           "author": null,
           "description": "原文标题：《\n\n元宇宙的梦想与现实\n\n》\n原文作者：turbulence\n原文编译：Block unicorn\n\n\n人类的感官究竟在多大程度上能够被替代或欺骗？全面数字化究竟是不是人类前进的方向？如果生活中的一切皆可以被数字化，那么生活本身的意义又在哪里？\n\n\n「元宇宙」一词最初出现在科幻小说中。美国科幻作家尼尔・斯蒂芬森（Neal Stephenson）在他 1992 年发表的科幻小说《雪崩》（Snow Crash）中首次创造了「元宇宙」一词。在这部小说里，所谓元宇宙指的是一种现实世界与通过增强现实技术和虚拟现实技术创造出的虚拟世界相混合的状态。这部作品在科幻界的影响力虽然不如另一位科幻大师威廉・吉布森（William Gibson）在 1984 年发表的题材类似的作品《神经漫游者》（Neuromancer），但自此之后，随着网络世界的发展一日千里，「元宇宙」一词就停驻在了人们的视野之中，而后还不时地被各种作品所借鉴。\n\n\n2018 年的科幻电影《头号玩家》（Ready Player One）被很多人认为是对元宇宙概念最为形象化的解释。借助虚拟设备，人们可以在现实世界和虚拟世界之间自由地穿梭。不用问，更加无拘无束的虚拟世界所能带给人的惊奇和快乐都远超现实世界。\n\n\n如果说被科幻电影所借鉴，元宇宙概念在当时还局限在科幻迷的范围之内，那么从 2021 年 10 月开始，这个概念便正式「破圈」，让之前对此一无所知的人们也开始争相讨论。\n\n\n2021 年 10 月，有 17 年历史的美国社交网络巨头「脸书」（Facebook）公司的创始人马克・扎克伯格（Mark Zuckerberg）发表了一封《创始人的信：2021》（Founder's Letter，2021），宣布脸书公司更名为「Meta」，展示其向元宇宙进发的决心——互联网世界的一件大事发生了。尽管元宇宙一词的创造者尼尔・…",
@@ -133,16 +143,6 @@
           "publishedOn": "2022-05-06T01:59:26.000Z",
           "wordCount": null,
           "title": "深度解析利率衍生品在加密货币中的应用：利率掉期和利率期货",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30414",
-          "author": null,
-          "description": "原文标题：《\n\n重新解构 NFT：Token 化商业的哲学思维！\n\n》\n原文整理：老雅痞\n本文来自微信公众号：老雅痞\n\n\n内容来自对《Not Boring》访谈栏目的整理。\n\n\n对话来自主持人 Packy McCormick 和 Alex Danco。Alex 就职于 Shopify，职位是 Systems & Crypto person。\n\n\n希望可以给你带来新的视角和启发。\n\n\n主持人：我们都为加拿大人工作——你在 Social Capital，我在 Breather——然后我们都写了时事通讯。从那以后，我们朝着不同的方向前进——我正在做一个时事通讯和一家基金，而你已经把时事通讯放慢了更新速度，并成为 Shopify 的全职运营商。\n\n\n我记得当你接受这份工作时，我在想，a) 太酷了！b) 你将在 Shopify 做什么具体工作呢？c）Shopify 会到达哪里呢？对于那些没有使用 Shopify 的人，你能否定义 Shopify 今天是什么以及你认为未来十年它将成为什么？\n\n\nAlex ：我简单的描述 Shopify 吧：它让每个人都能更好地开展商务活动，具体而言，我们通过软件做到这一点：我们在建立电子商务平台。我们的工作是以一种独特的方式来构建该平台，为商家——以及许多其他人服务，如应用程序开发人员、代理商和现在的买家——我们会提供最好的互联网软件服务。\n\n\n\n\n\n主持人：Alex Danco，你在 Shopify 做什么？当然，除了 Shopify wallet-aware。\n\n\n\n\n\n让我们直接进入 Web3。几个月前你第一次发推特「gm」时，我以为你在讽刺。然后你改变了你的头像。现在你正在运营一个区块链团队——你在 LinkedIn 的头衔是「Systems & Crypto person」。你接触加密货币有一段时间了？你对它有什么兴趣？\n\n\nAlex ：哈，…",
-          "link": "https://www.theblockbeats.info/news/30414",
-          "publishedOn": "2022-05-05T14:02:46.000Z",
-          "wordCount": null,
-          "title": "重新解构NFT：Token化商业的哲学思维",
           "imageUrl": null
         }
       ]
