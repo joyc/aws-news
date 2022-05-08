@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30464",
+          "author": null,
+          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《14 个新项目，Binance Labs 第 4 季全球孵化计划项目一览》\n\n\n近日，Binance Labs 第 4 季全球孵化计划已正式启动，通过该计划，其将继续支持更多有潜力的区块链项目。本季度有超过 500 个项目提出了申请。最终，Binance Labs 选择了 14 个最具潜力及最适合该计划的项目，它们分布在了 Web3 基础设施/工具、GameFi / Metaverse、DeFi 等赛道。律动 BlockBeats 将对这些项目一一做出介绍。\n\n\n《Yuga Labs 的 Otherside 卖地卖错了吗？》\n\n\n \n\n99% 的「蓝筹」NFT 参与者并不想玩游戏或探索元宇宙。绝大多数人都是为了 NGU（价格上涨）而来，把 HODL 当作一种投资，或者在乎的是 NFT 俱乐部的排他性。其它 NFT 项目则不然，它们的社区对玩游戏和探索新的网络世界更加有热情。NFT 世界不是一个同质化的部落，它是由许多不同的新兴社区组成的。本文梳理自 NFT 游戏 Liquid Lands 创始人 dav 在个人社交媒体平台上的观点。\n\n\n《ENS 数字域名市场爆火背后的冷思考》\n\n\n \n\n风乍起，吹皱 NFT 市场一池春水。Yuga labs 时代的 NFT 基调是大家都被项目方带着节奏走，而到了域名时代的 NFT 基调则是由每一个 Web3 从业者共同定义的。本文将谈一谈对于这波 ENS 域名 NFT 社区化炒作的可圈可点之处及些许隐忧。\n\n\n \n\n《听元宇宙老炮儿讲述 19 年的行业教训》\n\n\n \n\nAu 是这个领域的敏…",
+          "link": "https://www.theblockbeats.info/news/30464",
+          "publishedOn": "2022-05-08T06:01:51.000Z",
+          "wordCount": null,
+          "title": "周末荐读：Binance Labs第4季孵化计划项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30462",
           "author": null,
           "description": "原文标题：《\n\n如火如荼的「Stablecoin 战争」\n\n》\n原文作者：Ben Giove，Bankless 撰稿人\n原文编译：南风，Unitimes\n\n\n做好准备，Stablecoin 战争已经开始了。\n\n\nStablecoin 已经成为 Crypto 行业中规模最大、增长最快的领域之一，总市值超过 1800 亿美元——这一数字在过去一年增长了 109%，在过去两年增长了 1748%。\n \n\n上图：各大 Stablecoin 的供应增长情况。来源：The Block\n\n\n在加密经济的这个领域，Stablecoin 的潜在市场规模达数万亿美元，而作为一种「货币」形式，这些资产受益于流动性带来的巨大网络效应。正因如此，早期的 Stablecoin 赢家可以很容易地成为根深蒂固的在位者。\n\n\n这当然引出了一个问题：谁正在赢得这场 Stablecoin 战争？哪些 Stablecoin 的增长最快？在链上的各种用例中，哪些 Stablecoin 是最具流动性和被采用的？\n\n\n让我们找出答案。\n\n\n01. 主要参与者\n\n\n在深入研究一些数据来了解当前 Stablecoin 战争的状态之前，让我们简要地了解 7 个主要的 Stablecoin/货币发行方，这样我们就可以对这些 Stablecoin 的运作方式以及它们成功背后的一些驱动因素有一个高层次的了解。\n\n\n出于我们的目的，我们将谈及 USDC、USDT、BUSD、UST、DAI、FRAX、FEI，以及 OHM (虽然 OHM 不是一种 Stablecoin，而是一种「非锚定货币」)。\n\n\n虽然这 7 种 Stablecoin 不一定是市值最大的，但它们 (原因如下所述) 处于保持或增长市场份额的最佳位置，而且是 DeFi 行业竞争最激烈的垂直领域之一。\n\n\n1. 中心化 Stablecoin：USDC、USDT 和 BUSD…",
