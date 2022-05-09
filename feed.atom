@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-09T06:11:27.075Z</updated>
+    <updated>2022-05-09T12:20:13.479Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mintbase：Near上的NFT格子铺 ｜项目介绍]]></title>
+        <id>https://www.theblockbeats.info/news/30468</id>
+        <link href="https://www.theblockbeats.info/news/30468"/>
+        <updated>2022-05-09T08:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Mintbase 最初曾是以太坊项目，但因以太坊费用高昂，遂迁移部署至 Near 公链。许多 NFT 项目开始把 Arweave 作为永久存储层，该项目当前也已与 Arweave 达成集成，确保用户的 NFT 资产、元数据等永久储存在链上。
+
+
+ 
+
+Mintbase 不仅是一个交易市场，还可作为产品构建引擎使用。创作者与开发人员可使用该平台工具包创建自己的 NFT 商店，为其命名，部署自己的合约，从中铸造且销售音乐、艺术品、门票、摄影、会员资格等 NFT，甚至可进行版税收入的分配。用户无需掌握编程知识也可进行铸造，对于新手而言也十分容易上手。
+
+
+ 
+
+使用教程
+
+
+ 
+
+铸造 NFT 的操作过程非常便捷。该项目部署在 Near 上，因此用户需使用 Near 钱包连接该平台。
+
+
+ 
+
+与其他钱包直接注册即可使用不同，在注册账户并且成功验证助记词之后，还需充值 0.1 Near 转入该账户以完成激活，可通过三种方式，支持从 UTORG、MoonPay 直接购买，或直接自交易所转账。
+
+
+ 
+
+
+
+
+ 
+
+
+充值后，可认领 XXX.near 作为自身账户，此时用户已成功拥有一个 Near 钱包账户。将钱包连接到 Mintbase 即可使用，用户点击 Create 页面跳转后创建店铺。
+
+
+ 
+
+
+
+
+ 
+
+
+填写名称及符号后需支付 6.5 Near 进行部署。
+
+
+ 
+
+
+
+
+ 
+
+
+而后，单击 Mint 则可创造 NFT 细节，具体包括数量、名称、简介说明、主图、类别等。
+
+
+ 
+
+
+
+
+ 
+
+
+在该平台，面向各类群体，用户可实现各类现实世界的资产进行 Token 化。艺术家可发布艺术品，音乐家可创作曲目从中发售，活动组织者同样可将活动门票或会员资格等都铸造为 NFT 出售。
+
+
+ 
+
+用户可从该平台中设置高达 50% 的永久版税，最多可以添加 25 个钱包，这些钱包加起…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点Mecha Morphing近期大事件，2.0版本将于5月27日上线]]></title>
+        <id>https://www.theblockbeats.info/news/30467</id>
+        <link href="https://www.theblockbeats.info/news/30467"/>
+        <updated>2022-05-09T06:23:20.000Z</updated>
+        <summary type="html"><![CDATA[据官方近期公布的信息显示，Mecha Morphing 作为 NFT METAVERSE GAMEFI 2022 的金牌赞助商参展。其CEO, Marilyn Vu 作为邀请嘉宾登台为世界各地的同行介绍 Mecha Morphing 以及对链游行业的理解及展望。
+
+
+
+
+
+
+
+
+
+
+
+图为 Marilyn Vu 在展会上向世界各地的同行介绍 Mecha Morphing 
+
+
+
+图为 Marilyn
+Vu 在展会红毯
+
+
+
+此外，作为游戏的领投机构，YGG最近获得了高达1500万美金的融资。而在融资之后，第一时间联合 Mecha Morphing 举办了 AMA。在 AMA 上双方交流了对于链游行业未来的发展，以及对 Mecha Morphing 未来发展的期许。值得注意的是，YGG 作为游戏公会已经在 Mecha Morphing 建立公会并筹备了 5000 的 NFT 用于打金。这样的规模在 YGG 的投资矩阵中脱颖而出。不难看出 YGG 对于 Mecha Morphing 有着极高的期许。
+
+
+
+
+
+
+
+
+图为 Mecha Morphing 和 YGG AMA 的宣传图
+
+
+
+而在最近，Mecha Morphing 也开启了他的中文社区大使招募。招募细则如下。
+
+
+
+Mecha Morphing 中文区社区大使开始招募
+
+
+
+我们欢迎热爱 MechaMorphing，愿意与 MechaMorphing 一起成长的您加入
+
+
+有意向的玩家可以发送邮件到 mechamorphinggaming@gmail.com
+
+
+邮件标题为「名字+中文区社区大使」，内容为你的联系方式（电报号）和你对于社区成长的计划。
+
+
+ 
+
+要求：
+
+
+互动量：每日下午 4 点前，大家统计一下每天自己的群内发言。最低 30 条。录入表格，每两周发言量最多的人获得我们一个空投盲盒（400u)。
+
+
+ 
+
+互动交流群：社区大使可以额外发展游戏交流群，对于每个群我们有额外的补贴：日互动条数大于 40，人数大于 100 的群，每月补贴 50U。日互动条数 100，人数大于 200 的群，每月补贴 100U。日互动条数 200，人数大于 400 的群，每月补贴 200U。再往上可以和官方商议。
+
+
+ 
+
+商务合作：社区大使可以代表项目和合作方进行合作交流。对于谈成合作方面，分为固定奖励和抽成。社区大使每谈成一个合作，奖励 20U。抽成为合作整体收益的 5%。（例如，如果引入大户进场资金为 10WU，则分成为 5000U)
+
+
+ 
+
+盲盒销售：给社区大使生成邀请码，玩家用邀请码购买盲盒可以获得折扣。销售数量小于 75 个，则分成为销售额的 5%。销售数量在 75-200 个，则分成为销售额 7.5%。销售数量大于 200 个时，分成为销售额 10%。
+
+
+ 
+
+用户推荐奖励 10% 加上社区大使奖励最高可达到 20%
+
+
+
+
+
+图为 Mecha Morphing 中文社区大使招募图
+
+
+
+20% 的高额奖励以及众多弹性奖励，使得招募计划在实施初期就获得了一众KOL的追捧。 众多KOL将自身热度和资源引入Mecha Morphing社区，不断招募新人加盟。整个 Mecha Morphing 生态已经开启了新一轮的良性循环。
+
+
+与此同时，官方近期公布 Mecha Morphing 2.0 版本的上线时间为 5 月 27 号。在 2.0 版本中机甲系统，人物组合技能，强化系统，PVP 系统和竞技场系统都将上线。随着游戏机制的不断完善和游戏内容的不断补充，势必将再度吸引众多玩家的关注。我们有理由相信在链游市场接近饱和的今天，Mecha Morphing 将带我们创造出一片新的领域。 
+
+
+本文来自投稿，不代表律动 BlockBeats 观点
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoraHacks社区值得关注的21个潜力项目]]></title>
         <id>https://www.theblockbeats.info/news/30466</id>
