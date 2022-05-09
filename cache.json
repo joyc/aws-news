@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30466",
+          "author": null,
+          "description": "原文标题：《DoraHacks 上值得关注的潜力项目》\n\n\nDoraHacks 成立于 2014 年，是目前亚洲乃至世界上最具影响力的极客和开发者社区, 也是最大的国际黑客松组织者之一。开源开发者平台 DoraHacks.io 提供二次方资助, Grant, 黑客马拉松, Bounty 等一系列工具，激励全球开源社区的发展。\n\n\n自 DoraHacks.io 上线以来仅在 2021 年一年，就有 20+主流 Web3 生态使用平台举办 hackathon、发放 Grant。，包括 Solana，BNB Chain（原 BSC），Polygon，Filecoin，Harmony，ETH，Flow，Celo 等，并为它们带去了总计 2000+新的早期极客开源项目。\n\n\n今年二月, 以太坊在美国的最大规模黑客松活动 ETHDenver 22 使用了 DoraHacks.io 作为线上和线下的黑客松项目支持平台，吸引了世界各地 330 个以太坊生态早期项目的参与。\n\n\n之前，我们一起回顾了 DoraHacks 平台上涌现出来的优质项目，它们在各个领域赛道开始展露头角，并且吸引了世界各地知名的投资人目光。现在，就让我们开启一场发现之旅，看看 DoraHacks 上有哪些还未被挖掘的「宝藏」。\n\n\n1、IdenDeFi\n\n\n参加 Grant：ETHDenver 2022, Avalanche Grant 1\n\n\nDoraHacks Profile: https://dorahacks.io/buidl/2170?roundProj=1468\n\n\n项目简介：IdenDeFi 是一个采用了零知识证明的去中心化的链上 KYC 协议。通过 KYC 的用户会获得一个不可转移的 NFT，所有的 DeFi 协议可以通过 NFT 来认证有资格的用户并给他们开放权益和奖励。\n\n\n2、DAOrayaki\n…",
+          "link": "https://www.theblockbeats.info/news/30466",
+          "publishedOn": "2022-05-09T04:18:40.000Z",
+          "wordCount": null,
+          "title": "DoraHacks社区值得关注的21个潜力项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30465",
+          "author": null,
+          "description": "作为比特币后最出圈的区块链应用，NFT 的发展已经远超我们的想象。但除了可以用作 PFP 和社交资本的故事，NFT 下一步的重点，是应用性。\n\n\nNFT 当然已经在某些生态里开始有了应用性，但 NFT 的能力远不止此。如果仅仅是创造一个生态让 NFT 去适应，似乎并不能说明 NFT 的普适。为了找到 NFT 更广泛的应用，律动 BlockBeats 与前阿里巴巴大文娱战略委员会首席代表、华纳兄弟电影公司国际部经理穆晓澄老师聊了聊。\n\n\n穆晓澄已于近日正式加盟 IP-powered NFT as a Service 平台 Euterpe 担任顾问一职。作为好莱坞资深制片人、导演和高管，他将深度参与 Euterpe 的战略规划和版权布局。在对话中，穆老师以一个跑通过电影行业流程的业内人士角度，解读了 NFT 对内容行业究竟能产生怎样的改变。\n\n\n\n\n\n以下为本次对话内容，律动 BlockBeats 整理如下：  \n\n\n为什么看好 NFT 这条赛道\n\n\n律动 BlockBeats：作为第一代赴美中国电影人，您从什么时候开始了解 NFT？\n\n\n穆晓澄：之前有一个契机，2015 年我从华纳离职后和高晓松一起加入了阿里音乐。我当时作为阿里大文娱驻美国的首席代表，工作之一是把美国文娱产业的发展趋势介绍给阿里总部的高管。那个时候，美国的文娱产业已经在聊区块链在行业里怎么应用的事了。\n\n\n2016 年，伯克利音乐学院对区块链在音乐行业怎么应用自然产生了兴趣。于是伯克利音乐学院的创意研究所与 MIT 媒体实验室合作，推出了一个「Open Music Initiative」（开放音乐计划），YouTube、Netflix 还有几大唱片公司都参加了这个活动。这个活动的宗旨是什么？就是要解决音乐行业里面版权管理和收益分配的问题。今天来看，NFT 实际上就是一个解决方案。\n\n\n所以 2021 年上半年…",
+          "link": "https://www.theblockbeats.info/news/30465",
+          "publishedOn": "2022-05-09T03:37:40.000Z",
+          "wordCount": null,
+          "title": "对话穆晓澄：文化是人类的终极追求，NFT是艺术的延伸",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30464",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《14 个新项目，Binance Labs 第 4 季全球孵化计划项目一览》\n\n\n近日，Binance Labs 第 4 季全球孵化计划已正式启动，通过该计划，其将继续支持更多有潜力的区块链项目。本季度有超过 500 个项目提出了申请。最终，Binance Labs 选择了 14 个最具潜力及最适合该计划的项目，它们分布在了 Web3 基础设施/工具、GameFi / Metaverse、DeFi 等赛道。律动 BlockBeats 将对这些项目一一做出介绍。\n\n\n《Yuga Labs 的 Otherside 卖地卖错了吗？》\n\n\n \n\n99% 的「蓝筹」NFT 参与者并不想玩游戏或探索元宇宙。绝大多数人都是为了 NGU（价格上涨）而来，把 HODL 当作一种投资，或者在乎的是 NFT 俱乐部的排他性。其它 NFT 项目则不然，它们的社区对玩游戏和探索新的网络世界更加有热情。NFT 世界不是一个同质化的部落，它是由许多不同的新兴社区组成的。本文梳理自 NFT 游戏 Liquid Lands 创始人 dav 在个人社交媒体平台上的观点。\n\n\n《ENS 数字域名市场爆火背后的冷思考》\n\n\n \n\n风乍起，吹皱 NFT 市场一池春水。Yuga labs 时代的 NFT 基调是大家都被项目方带着节奏走，而到了域名时代的 NFT 基调则是由每一个 Web3 从业者共同定义的。本文将谈一谈对于这波 ENS 域名 NFT 社区化炒作的可圈可点之处及些许隐忧。\n\n\n \n\n《听元宇宙老炮儿讲述 19 年的行业教训》\n\n\n \n\nAu 是这个领域的敏…",
@@ -93,16 +113,6 @@
           "publishedOn": "2022-05-07T01:31:52.000Z",
           "wordCount": null,
           "title": "从DAO的成员资格与治理机制，浅谈新人如何入门DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30440",
-          "author": null,
-          "description": "原文标题：《\n\n通过 DAO 拆分风险投资\n\n》\n原文作者：Peter 『pet3rpan』\n原文编译：Block unicorn\n\n\n服务 DAO、孵化 DAO、投资 DAO\n\n\n过去，人们曾多次尝试颠覆风险投资：\n\n\n1. 天使投资者的激增 (AngelList，2010)。\n\n\n2. 股权众筹的制定和监管 (就业法案，2012 年)。\n\n\n3. 通过Token销售进行加密众筹 ICO(2013)\n\n\n虽然其中许多努力成功地为创始人创造了更多的被动资本供应，但它们在很大程度上没有充分满足创始人的运营需求，这些需求使项目能够更快地投放市场并在其整个生命周期中取得成功：人才、设计、产品、营销、研究、经济、工程、社区建设、业务发展、监管指导和领域专业知识。\n\n\n资本本身是充裕的，但有价值的服务却不是。尽管有大量资本流入科技和加密生态系统，但高价值服务仍然稀缺。\n\n\n我们认为这是基于以下因素：\n\n\n- 创始人没有关于投资者可以提供的服务质量的可公开核实的数据，也没有许多创始人对投资者进行尽职调查。因此，许多创始人无法根据他们提供的服务来优化他们的投资者。\n\n\n- 缺乏关于投资者的高质量数据，导致了一种以销售为导向的风险环境，投资者承诺过高，但回报不足。与受制于合同义务的服务提供商、甚至受制于既定时间表的创始人不同，投资者不会被要求遵守相同的标准，尽管他们只能通过提议的价值主张获得竞争激烈的几轮融资。\n\n\n因此，无论是加密还是更广泛的风险投资领域，融资格局都主要由被动资本构成。\n\n\n尽管 1kx 和少数其他基金每天都在努力成为常态的例外，但我们一直无法推动更广泛的投资者格局发生根本性变化。幸运的是，我们相信一种转变即将到来--我们相信这种转变始于 Service Daos。在我们谈论 Service Daos 之前，让我们先来看看参与风险融资版图的 Dao 的血统。\n\n\n投资 D…",
-          "link": "https://www.theblockbeats.info/news/30440",
-          "publishedOn": "2022-05-06T14:09:34.000Z",
-          "wordCount": null,
-          "title": "拆分风险投资：从投资DAO到服务DAO",
           "imageUrl": null
         }
       ]
