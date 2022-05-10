@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30496",
+          "author": null,
+          "description": "原文标题：《\n\nIOSG Weekly Brief ｜Rollup 赋能新的金融体系 - 多链 DeFi #123\n\n》\n原文来源：\n\nIOSG Ventures\n\n\n\nPart.1 Insight\n\n\n本文仅做行业学习交流之用，不构成任何投资参考\n\n\n引言\n\n\nDeFi 经过五年的高速发展，基础积木/基建领域的各个大方向的赢家已定，市场格局无太多变动。由于缺乏新的金融基建创新，以太坊 DeFi 领域最容易捡的果实已经几乎被捡完，多链 DeFi 是后来新进创业者为数不多的叙事方向，不过目前来看大多数的其他公链上金融协议基本上还是在沿着以太坊 DeFi 前辈们开拓的路径中做一个追随者、复刻者。\n\n\n一方面是因为多链叙事的爆发以及以太坊生态逐渐饱和，其他链上的活动也逐渐增加。不过有意思的是，巨鲸们依然展现出了对于安全方面的强烈偏爱。以太坊上最大的协议 Curve.fi 的 TVL 比建立在 Avalanche 和 Solana 之上的所有的 DeFi 应用的 TVL 的总和还要多（这是否也标志着前两三年人们争论的 DeFi 商业模式和产品体验上到底该偏向 retail 还是 insitution 论题的尘埃落定？）。\n\n\n另一方面，因为这些多链可以提供更低的手续费，一些无法承受以太坊费用的用户也被挤出到其他链上。然而考虑到这些用户实际提供的资本和交易量仍是微不足道的，基于目前大多数主流的单体区块链的架构的平台，它们实际上将难以承受 DeFi 巨大的吞吐量。\n\n\n\nDeFi Map; 来源：IOSG Ventures\n\n\n多链 DeFi 扩张一直是 2021 年的 DeFi 发展的新焦点。其中 BSC-Chain、Polygon、Terra、Avalanche 和 Solana 也做了诸多讨论，虽然这些链大多定位为以太坊的竞争对手，但 Polygon 领导层和社区选择支持以太坊的…",
+          "link": "https://www.theblockbeats.info/news/30496",
+          "publishedOn": "2022-05-10T14:36:59.000Z",
+          "wordCount": null,
+          "title": "IOSG：多链DeFi扩张，Rollup为新的金融体系赋能",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30492",
           "author": null,
           "description": "原文作者：0x137，律动 BlockBeats\n\n\n\n用「所有人都在期待末日来临」这句话形容 2022 年以来的市场情绪再适合不过了。因为 CPI 指数过热，市场一进入年初就全是加息的呼声，25 个点、50 个点、75 个点......\n\n\n现在加息来了，市场崩了，人们也迎来了自己呼唤已久的末日。打开金融版面，头条便是「全球股市经历近年来最惨痛一天」，VIX 恐慌指数也到达自新冠爆发以来的历史高点。\n\n\n\n\n\n\n\n\n\n\n\n在这种全球大崩盘的情况下，往往会出现「the Correlation of One」的情况，当大规模仓位出现敞口，人们不得不抛售自己的其它资产来填窟窿，造成所有资产的价格都出现暴跌。\n\n\n这种「恐慌砸盘」也同样影响到了币圈，比特币和以太坊均有不同程度的下跌。而在恐慌情绪和资本围剿的夹击下，Luna 成了当前加密市场最惨的「受害者」。\n\n\n今晨 8 点，由于 Luna 价格下跌，导致大规模清算，Luna 触发了「众人期待」的死亡螺旋。截至目前 Luna 价格跌至 29 美元附近，UST 脱锚最低跌至 0.6 美元附近，Luna 庞氏再次崩塌。\n\n\n此次死亡螺旋，是「UST 脱锚史」上最严重的一次，「Luna 庞氏」这个在币圈里也只有硬核玩家们才讨论的话题，今天甚至上了微博热搜。\n\n\n\n\n\n\n\n究竟发生了什么？让我们从上周日凌晨开始梳理整个过程。\n\n\n5 月 8 日晚，推特上的巨鲸预警账号开始疯狂「报警」，每隔一小时就有一条抛售 UST 的消息，且交易金额均在百万级别。\n\n\n\n\n\n\n\n此时的 UST 因受到抛压，已经出现了一定程度的脱锚，UST-3Crv 池的流动性也开始倾斜，但 LFG 迅速出面救火，阻止了情况的进一步恶化。\n\n\n\n\n\n\n\n读到这里你可能会好奇，UST 市值不是有 170 亿么？怎么这种小级别的抛售就对锚定造成威胁了？\n\n\n没错，UST 是…",
@@ -93,26 +103,6 @@
           "publishedOn": "2022-05-09T03:37:40.000Z",
           "wordCount": null,
           "title": "对话穆晓澄：文化是人类的终极追求，NFT是艺术的延伸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30464",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n\n《14 个新项目，Binance Labs 第 4 季全球孵化计划项目一览》\n\n\n近日，Binance Labs 第 4 季全球孵化计划已正式启动，通过该计划，其将继续支持更多有潜力的区块链项目。本季度有超过 500 个项目提出了申请。最终，Binance Labs 选择了 14 个最具潜力及最适合该计划的项目，它们分布在了 Web3 基础设施/工具、GameFi / Metaverse、DeFi 等赛道。律动 BlockBeats 将对这些项目一一做出介绍。\n\n\n《Yuga Labs 的 Otherside 卖地卖错了吗？》\n\n\n \n\n99% 的「蓝筹」NFT 参与者并不想玩游戏或探索元宇宙。绝大多数人都是为了 NGU（价格上涨）而来，把 HODL 当作一种投资，或者在乎的是 NFT 俱乐部的排他性。其它 NFT 项目则不然，它们的社区对玩游戏和探索新的网络世界更加有热情。NFT 世界不是一个同质化的部落，它是由许多不同的新兴社区组成的。本文梳理自 NFT 游戏 Liquid Lands 创始人 dav 在个人社交媒体平台上的观点。\n\n\n《ENS 数字域名市场爆火背后的冷思考》\n\n\n \n\n风乍起，吹皱 NFT 市场一池春水。Yuga labs 时代的 NFT 基调是大家都被项目方带着节奏走，而到了域名时代的 NFT 基调则是由每一个 Web3 从业者共同定义的。本文将谈一谈对于这波 ENS 域名 NFT 社区化炒作的可圈可点之处及些许隐忧。\n\n\n \n\n《听元宇宙老炮儿讲述 19 年的行业教训》\n\n\n \n\nAu 是这个领域的敏…",
-          "link": "https://www.theblockbeats.info/news/30464",
-          "publishedOn": "2022-05-08T06:01:51.000Z",
-          "wordCount": null,
-          "title": "周末荐读：Binance Labs第4季孵化计划项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30462",
-          "author": null,
-          "description": "原文标题：《\n\n如火如荼的「Stablecoin 战争」\n\n》\n原文作者：Ben Giove，Bankless 撰稿人\n原文编译：南风，Unitimes\n\n\n做好准备，Stablecoin 战争已经开始了。\n\n\nStablecoin 已经成为 Crypto 行业中规模最大、增长最快的领域之一，总市值超过 1800 亿美元——这一数字在过去一年增长了 109%，在过去两年增长了 1748%。\n \n\n上图：各大 Stablecoin 的供应增长情况。来源：The Block\n\n\n在加密经济的这个领域，Stablecoin 的潜在市场规模达数万亿美元，而作为一种「货币」形式，这些资产受益于流动性带来的巨大网络效应。正因如此，早期的 Stablecoin 赢家可以很容易地成为根深蒂固的在位者。\n\n\n这当然引出了一个问题：谁正在赢得这场 Stablecoin 战争？哪些 Stablecoin 的增长最快？在链上的各种用例中，哪些 Stablecoin 是最具流动性和被采用的？\n\n\n让我们找出答案。\n\n\n01. 主要参与者\n\n\n在深入研究一些数据来了解当前 Stablecoin 战争的状态之前，让我们简要地了解 7 个主要的 Stablecoin/货币发行方，这样我们就可以对这些 Stablecoin 的运作方式以及它们成功背后的一些驱动因素有一个高层次的了解。\n\n\n出于我们的目的，我们将谈及 USDC、USDT、BUSD、UST、DAI、FRAX、FEI，以及 OHM (虽然 OHM 不是一种 Stablecoin，而是一种「非锚定货币」)。\n\n\n虽然这 7 种 Stablecoin 不一定是市值最大的，但它们 (原因如下所述) 处于保持或增长市场份额的最佳位置，而且是 DeFi 行业竞争最激烈的垂直领域之一。\n\n\n1. 中心化 Stablecoin：USDC、USDT 和 BUSD…",
-          "link": "https://www.theblockbeats.info/news/30462",
-          "publishedOn": "2022-05-08T02:14:29.000Z",
-          "wordCount": null,
-          "title": "链上数据解读Stablecoin战争：谁正在赢得这场战争？",
           "imageUrl": null
         }
       ]
