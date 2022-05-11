@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-11T12:21:17.486Z</updated>
+    <updated>2022-05-11T18:13:56.956Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ConsenSys开发者：以太坊合并的Plan A和Plan B]]></title>
+        <id>https://www.theblockbeats.info/news/30508</id>
+        <link href="https://www.theblockbeats.info/news/30508"/>
+        <updated>2022-05-11T14:05:54.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+以太坊合并的 Plan A 和 Plan B
+
+》
+原文作者：Ben Edgington，ConsenSys 开发者
+原文编译：隔夜的粥，元宇宙之道
+
+
+本周你绝对应该阅读一下这个，Tim Beiko 带来了 AllCoreDevs 更新 011，这篇文章全面地告诉了我们以太坊在通往合并的道路上还剩下些什么。
+
+
+那问题来了，什么时候合并？
+
+
+这是很多人现在唯一感兴趣的问题，而官方的回答是「当它准备好时」，这是事实，但这种回答没有什么帮助。所以，让我们把它拆解开来。
+
+
+这涉及到两个有些独立的部分，而它们使得预测不那么直接。第一个部分是简单的，即客户端对合并的准备情况，而第二个部分是以太坊的难度炸弹。
+
+
+
+
+
+什么是以太坊的难度炸弹？
+
+
+难度炸弹（有时被称为冰川期）是以太坊早期就存在的一种机制，它的功能是在达到一定的区块高度之后，开始以指数方式增加工作量证明（PoW）区块挖矿的难度，这反过来会增加区块之间的间隔时间。目前有一个 Dune 仪表板‌显示出块生产率如何随着难度炸弹生效而迅速下降，然后我们可通过硬分叉重置它进行恢复。
+
+
+难度炸弹的想法是双重的，首先它为开发者提供了一个强制功能，拆除或延迟难度炸弹需要通过硬分叉，我们的想法是，如果我们要通过硬分叉做到这一点，那么我们将利用这个机会进行协议升级。特别是在早期，难度炸弹的目的是鼓励迅速转向权益证明（PoS）共识机制。在我看来，它在这方面几乎是失败了，证据是（a）我们仍然没有成功转向 PoS，并且至少已经推迟了 5 次难度炸弹，以及（b）Arrow Glacier 和 Muir Glacier 这两次硬分叉都只推迟了难度炸弹，而没有做任何其他事情，它的主要影响只是使计划变得复杂化。
+
+
+而难度炸弹的第二个更现实的目的，是阻止矿工在 PoS 激活后继续参与 PoW 挖矿。矿工需要自己拆除难度炸弹，这并…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聚焦Web3 DAO工具的未来]]></title>
         <id>https://www.theblockbeats.info/news/30506</id>
@@ -54,6 +97,39 @@ DAO 需要工具
 
 
 虽然这种结构为 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8400万美元撬动400亿金融帝国，UST崩盘始末]]></title>
+        <id>https://www.theblockbeats.info/news/30504</id>
+        <link href="https://www.theblockbeats.info/news/30504"/>
+        <updated>2022-05-11T07:05:54.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：0x137，律动 BlockBeats
+
+
+下载律动BlockBeats APP，随时了解一手消息：https://www.theblockbeats.info/download
+
+
+
+
+1997 年，传奇金融杀手索罗斯和他的巨鳄盟友围猎东南亚泡沫市场，大量抛售泰铢并迅速耗尽了泰国央行 300 亿美元外汇储备，最终迫使泰铢实行浮动汇率制，将东南亚国家进一步推入金融危机深渊。
+
+
+2008 年，华尔街投行巨头雷曼兄弟因大量次信贷坏账出现敞口，负债净额远超公司市值数倍，被迫在纽约南区联邦地区法院提交破产申请，险些摧毁整个现代金融系统。
+
+
+这些史诗般的资本对决故事在过去十几年里传遍世界的街头巷尾，成为历史的标志性事件，被人们当作教科书反复研习。但谁会想到，同样的故事竟然在仅有 10 年发展史的加密市场再次上演，并通过链上痕迹在所有人面前进行「实时转播」。
+
+
+5 月 10 日，Terra 生态的原生算法稳定币 UST 因资本围猎和债务危机，出现严重脱锚事件，最低跌至 0.6 美元。这个 TVL 近 200 亿美元的第二大公链生态，在短短 2 天时间同时重演了泰铢和雷曼的恐怖灾难。
+
+
+Margin Call：UST 崩盘生死时速
+
+
+Terra 作为加密市场第二大公链生态，一直是一个饱受争议的对象。一方面，通过 Luna-UST 双币机制，Terra 生态成功将自己的算法稳定币 UST 推广到整个加密市场，迅速提升 Luna 的价格和市值；一方面其用于推广 UST 的「宣传机器」Anchor Protocol 则饱受诟病，普遍被认为是不可持续的「庞氏骗局」。（律动注，更多关于 Luna-UST 和 Anchor 机制的内容可参考律动文章《解析 Terra 生态：读懂 LUNA、Mirror 及 Anchor Token 经济学》以及《稳定币利率长期高达 20%，Anc…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
@@ -629,81 +705,6 @@ Mecha Morphing 中文区社区大使开始招募
 本文来自投稿，不代表律动 BlockBeats 观点
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoraHacks社区值得关注的21个潜力项目]]></title>
-        <id>https://www.theblockbeats.info/news/30466</id>
-        <link href="https://www.theblockbeats.info/news/30466"/>
-        <updated>2022-05-09T04:18:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《DoraHacks 上值得关注的潜力项目》
-
-
-DoraHacks 成立于 2014 年，是目前亚洲乃至世界上最具影响力的极客和开发者社区, 也是最大的国际黑客松组织者之一。开源开发者平台 DoraHacks.io 提供二次方资助, Grant, 黑客马拉松, Bounty 等一系列工具，激励全球开源社区的发展。
-
-
-自 DoraHacks.io 上线以来仅在 2021 年一年，就有 20+主流 Web3 生态使用平台举办 hackathon、发放 Grant。，包括 Solana，BNB Chain（原 BSC），Polygon，Filecoin，Harmony，ETH，Flow，Celo 等，并为它们带去了总计 2000+新的早期极客开源项目。
-
-
-今年二月, 以太坊在美国的最大规模黑客松活动 ETHDenver 22 使用了 DoraHacks.io 作为线上和线下的黑客松项目支持平台，吸引了世界各地 330 个以太坊生态早期项目的参与。
-
-
-之前，我们一起回顾了 DoraHacks 平台上涌现出来的优质项目，它们在各个领域赛道开始展露头角，并且吸引了世界各地知名的投资人目光。现在，就让我们开启一场发现之旅，看看 DoraHacks 上有哪些还未被挖掘的「宝藏」。
-
-
-1、IdenDeFi
-
-
-参加 Grant：ETHDenver 2022, Avalanche Grant 1
-
-
-DoraHacks Profile: https://dorahacks.io/buidl/2170?roundProj=1468
-
-
-项目简介：IdenDeFi 是一个采用了零知识证明的去中心化的链上 KYC 协议。通过 KYC 的用户会获得一个不可转移的 NFT，所有的 DeFi 协议可以通过 NFT 来认证有资格的用户并给他们开放权益和奖励。
-
-
-2、DAOrayaki
-…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话穆晓澄：文化是人类的终极追求，NFT是艺术的延伸]]></title>
-        <id>https://www.theblockbeats.info/news/30465</id>
-        <link href="https://www.theblockbeats.info/news/30465"/>
-        <updated>2022-05-09T03:37:40.000Z</updated>
-        <summary type="html"><![CDATA[作为比特币后最出圈的区块链应用，NFT 的发展已经远超我们的想象。但除了可以用作 PFP 和社交资本的故事，NFT 下一步的重点，是应用性。
-
-
-NFT 当然已经在某些生态里开始有了应用性，但 NFT 的能力远不止此。如果仅仅是创造一个生态让 NFT 去适应，似乎并不能说明 NFT 的普适。为了找到 NFT 更广泛的应用，律动 BlockBeats 与前阿里巴巴大文娱战略委员会首席代表、华纳兄弟电影公司国际部经理穆晓澄老师聊了聊。
-
-
-穆晓澄已于近日正式加盟 IP-powered NFT as a Service 平台 Euterpe 担任顾问一职。作为好莱坞资深制片人、导演和高管，他将深度参与 Euterpe 的战略规划和版权布局。在对话中，穆老师以一个跑通过电影行业流程的业内人士角度，解读了 NFT 对内容行业究竟能产生怎样的改变。
-
-
-
-
-
-以下为本次对话内容，律动 BlockBeats 整理如下：  
-
-
-为什么看好 NFT 这条赛道
-
-
-律动 BlockBeats：作为第一代赴美中国电影人，您从什么时候开始了解 NFT？
-
-
-穆晓澄：之前有一个契机，2015 年我从华纳离职后和高晓松一起加入了阿里音乐。我当时作为阿里大文娱驻美国的首席代表，工作之一是把美国文娱产业的发展趋势介绍给阿里总部的高管。那个时候，美国的文娱产业已经在聊区块链在行业里怎么应用的事了。
-
-
-2016 年，伯克利音乐学院对区块链在音乐行业怎么应用自然产生了兴趣。于是伯克利音乐学院的创意研究所与 MIT 媒体实验室合作，推出了一个「Open Music Initiative」（开放音乐计划），YouTube、Netflix 还有几大唱片公司都参加了这个活动。这个活动的宗旨是什么？就是要解决音乐行业里面版权管理和收益分配的问题。今天来看，NFT 实际上就是一个解决方案。
-
-
-所以 2021 年上半年…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
