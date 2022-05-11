@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-11T06:12:43.633Z</updated>
+    <updated>2022-05-11T12:21:17.486Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[聚焦Web3 DAO工具的未来]]></title>
+        <id>https://www.theblockbeats.info/news/30506</id>
+        <link href="https://www.theblockbeats.info/news/30506"/>
+        <updated>2022-05-11T09:44:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Spotlight: The DAO revolution- or the future of web3 DAO Tooling
+
+》
+原文作者:  Henri.M
+原文编译：Natalie@DAOrayaki，
+
+DAOrayaki
+
+
+
+web3 DAO 工具的未来
+
+
+为什么 DAO 正在努力实现成为 web3 领导力量的使命，以及 DAO 工具如何改变游戏规则。
+
+
+著名的网络自由主义者约翰·佩里·巴洛 ( John Perry Barlow ) 曾宣称，「网络空间」由交易、关系和思想本身组成。随着 DAO 的出现及其在去年的迅速普及，这是一个仍在学习如何自立的生态系统中以指数方式进行的测试。
+
+
+DAO 开启了一个全新的可能性世界。去中心化自治组织（以及 DAC—去中心化自治公司）使涌入加密行业的一大批人才能够围绕共同目标自主合作，远离集中化的障碍。
+
+
+Coopahtroopa 用通俗的话来定义它：「DAO 是具有共享上限和共享银行账户的互联网社区。「
+
+
+即便如此，数字社区也有各种形式和规模，不同的需求、目标和结构。有社交 DAO、收藏家 DAO、投资者 DAO、协议 DAO，而且名单还在继续……
+
+
+
+
+
+DAO 需要工具
+
+
+从上图中我们可以看出，DAO 的概念非常广泛。如果有人从这个列表中随机挑选两个 DAO 并进行比较，他很可能会得出结论，这是两个完全不同的组织或「企业」——它们具有不同的抱负、身份和特征以及工作方式不同。
+
+
+然而，即使我们将它们分成几部分，我们也会为所有这些组织找到一个共同的底层结构，因为它们都需要一个社交空间或消息工具供成员进行交流（即 Discord 或 Telegram）——一种治理机制，通过它，成员可以做出集体决策（比如 Snapshot），以及为 DAO 投票支持的运营提供资金的国库。
+
+
+虽然这种结构为 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nansen研究：投资Crypto加密货币，需要注意的事情]]></title>
         <id>https://www.theblockbeats.info/news/30503</id>
