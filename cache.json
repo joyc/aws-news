@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30503",
+          "author": null,
+          "description": "原文来源：Nansen\n\n\n\n在这篇文章中，我们分析了对加密货币项目进行尽职调查时需要注意的关键因素和指标，以及如何使用 Nansen 发现 Alpha 信号并进行调查。\n\n\n注：Nansen现已开放免费版本，点击此处注册\n\n\n简介\n\n\n自 2009 年以来，Crypto 已经走过了漫长的道路，从最开始被认为是「空气」，到如今有可能为下一代互联网和生活方式提供动力。项目方开始变得更加复杂，有许多使用案例在垂直领域，如 DeFi、NFT 和游戏最近一直在爆炸性增长。像 Meta（原 Facebook）和 Block（原 Square，Inc）这样的行业巨头也已经调整了他们的业务，以利用蓬勃发展的数字化市场。\n\n\n自 2020 年 11 月以来，加密市场的市值已经上升了五倍，在 2021 年 11 月达到 3 万亿美元，当时比特币和 ETH 达到了历史新高，加密行业被许多传统金融机构称为「大到不可忽视」。\n\n\n为了让非 Crypto 用户更容易在加密货币世界中投资起步，我们汇总了一些我们最喜欢的评估市场和加密货币项目方的指标清单。\n\n\n聪明钱指标\n\n\n如果你熟悉 Nansen，你现在应该对我们的 Smart Money 标签很熟悉。聪明钱是 Nansen 的一个标签，包括聪明的 LP、更聪明的 LP、闪电贷玩家、巨鲸玩家、VC 基金、聪明的 NFT 交易员、聪明的 NFT 持有者、聪明的 NFT 早期收集者、聪明的 NFT 铸造者，请看我们对钱包标签的定义。\n\n\n聪明钱指的是非常活跃和多产的钱包，具体来说，这将是任何被认为是基金、聪明钱 LP、闪电贷或巨鲸钱包，具有做出精明的投资决策和领先的历史。因此，聪明钱持有量是某个项目/协议的可能的积极指标之一。\n\n\nNansen 允许用户设置高度定制的智能警报，以便在这些钱包进行新的交易和投资时实时通知他们。\n\n\n\n\n\n聪明钱链上活动\n…",
+          "link": "https://www.theblockbeats.info/news/30503",
+          "publishedOn": "2022-05-11T05:13:04.000Z",
+          "wordCount": null,
+          "title": "Nansen研究：投资Crypto加密货币，需要注意的事情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30502",
+          "author": null,
+          "description": "原文标题：《\n\nTerra 算稳信仰崩塌？Anchor 借贷机制深入解读\n\n》\n原文作者：Alice，Jonas，Foresight Research\n\n\n内容摘要\n\n\n由于 Terra UST 与美元严重脱锚，导致大批投资者撤资离场。作为 Terra 生态中最重要的协议，Anchor 协议的存款总额从 140 亿美元暴跌至 70 亿美元以下，该协议Token ANC 当天下跌了 48%。\n\n\n如果能保持良性商业循环，Anchor 协议的商业模式在理论上是可行的，但其最大的问题在于实际借款率过低，资金利用效率低下。Anchor 协议产生的收入（借款人支付的利息+质押收益）无法与支出（存款人年化 19.5% 的 APY）相平衡，两方的亏空则依靠国库长期输血。\n\n\n在 Terra 此次暴跌之前，Anchor 做过不同的尝试提实际高借款率。比如，给借款人发放 ANC \n\nToken\n\n激励、计划推出 Borrow V2 以绑定 sol avax 等其他公链资产，并提供更优惠的借款条件。这些尝试尚未见到成效，Anchor 距离在没有外部资金持续注入的情况下实现自给自足还很遥远。\n\n\n以资金储备所能够争取到的时间来看，至 2022 年 6 月份时 Terra 国库储备才会完全耗尽，但是 Terra 算稳帝国的金融风暴来的比我们想象得快。\n\n\n暴跌之时，稳定币发行平台的信用、市场信心以及社区沟通非常重要，尤其是说服参与者同意在某个价格点上不再抛售，在一定程度上这点非常重要。\n\n\n随着质押逐渐解锁，预计后面 21 天 LUNA 或持续有抛压，将对 Anchor 的 TVL 形成较大压力。希望 Anchor 能逢凶化吉的挺过这关，从灰烬中涅槃，重新进入良性循环轨道。\n\n\n前言\n\n\n2022 年 5 月 10 日 UST 与美元严重脱锚，24 小时内最低跌至 0.6 美元，Terra 的算法…",
+          "link": "https://www.theblockbeats.info/news/30502",
+          "publishedOn": "2022-05-11T04:51:04.000Z",
+          "wordCount": null,
+          "title": "Terra算稳信仰崩塌？Anchor借贷机制深入解读",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30496",
           "author": null,
           "description": "原文标题：《\n\nIOSG Weekly Brief ｜Rollup 赋能新的金融体系 - 多链 DeFi #123\n\n》\n原文来源：\n\nIOSG Ventures\n\n\n\nPart.1 Insight\n\n\n本文仅做行业学习交流之用，不构成任何投资参考\n\n\n引言\n\n\nDeFi 经过五年的高速发展，基础积木/基建领域的各个大方向的赢家已定，市场格局无太多变动。由于缺乏新的金融基建创新，以太坊 DeFi 领域最容易捡的果实已经几乎被捡完，多链 DeFi 是后来新进创业者为数不多的叙事方向，不过目前来看大多数的其他公链上金融协议基本上还是在沿着以太坊 DeFi 前辈们开拓的路径中做一个追随者、复刻者。\n\n\n一方面是因为多链叙事的爆发以及以太坊生态逐渐饱和，其他链上的活动也逐渐增加。不过有意思的是，巨鲸们依然展现出了对于安全方面的强烈偏爱。以太坊上最大的协议 Curve.fi 的 TVL 比建立在 Avalanche 和 Solana 之上的所有的 DeFi 应用的 TVL 的总和还要多（这是否也标志着前两三年人们争论的 DeFi 商业模式和产品体验上到底该偏向 retail 还是 insitution 论题的尘埃落定？）。\n\n\n另一方面，因为这些多链可以提供更低的手续费，一些无法承受以太坊费用的用户也被挤出到其他链上。然而考虑到这些用户实际提供的资本和交易量仍是微不足道的，基于目前大多数主流的单体区块链的架构的平台，它们实际上将难以承受 DeFi 巨大的吞吐量。\n\n\n\nDeFi Map; 来源：IOSG Ventures\n\n\n多链 DeFi 扩张一直是 2021 年的 DeFi 发展的新焦点。其中 BSC-Chain、Polygon、Terra、Avalanche 和 Solana 也做了诸多讨论，虽然这些链大多定位为以太坊的竞争对手，但 Polygon 领导层和社区选择支持以太坊的…",
