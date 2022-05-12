@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30531",
+          "author": null,
+          "description": "LiquiFi：为Web3公司自动化管理Token归属的平台｜项目介绍",
+          "link": "https://www.theblockbeats.info/news/30531",
+          "publishedOn": "2022-05-12T05:02:02.000Z",
+          "wordCount": null,
+          "title": "LiquiFi：为Web3公司自动化管理Token归属的平台｜项目介绍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30532",
+          "author": null,
+          "description": "原文标题：《\n\nForesight Ventures：请回答 2018\n\n》\n原文来源：Hippy，Foresight Research\n\n\n律动注：这篇文章原发表于 2022 年 1 月，当时比特币从高点回落至 3 万美元附近，一度引发市场担忧。彼时 LUNA 尚未崩盘甚至价格还在不断攀升。时间回到 2022 年 5 月，LUNA 似乎没有逃过死亡螺旋的诅咒，在短短一天内从 110 美元的高点暴跌 99%，当前已跌破 0.4 美元。市场上多数 Altcoin 的 24 小时跌幅均超过 30%，整个加密市场被恐慌情绪笼罩。\n\n\n那么对于在去年才刚刚接触到 Crypto 的用户来说，或许这是你们第一次感受到加密市场的变幻莫测；对于久经沙场经历过牛熊的用户来说，也同样会有迷茫的时刻。到底是坚守还是离开？看完这篇文章或许你们心中自有判断。\n\n\n以下为原文\n\n\n「牛市我并不了解，但是我太懂熊市了」\n\n\n——18 年高点入场的小韭菜如是说\n\n\n写在前面\n\n\n最近有许多老朋友与我谈「梦回 2018」，也有很多老韭菜开始写《熊市生存指南》，更多在这轮牛市入场的新朋友迫切的想知道市场到底会怎么样。看到这些新朋友们的热切眼神让我想起在 2018 年听老韭菜吹牛的自己，对未来的市场充满了信心，却不知道等待我的是长达 3 年的漫漫长熊。\n\n\n当然写这篇文章也不代表我们判断未来市场即将进入熊市，我们只是单纯的回忆下 2018 年数字货币市场是什么样子，以及一起思考作为数字货币市场的参与者如何在周期起伏中 Live long and prosper。\n\n\n市场概览——鱼龙混杂与怪力乱神的时代\n\n\n\n\n\n二级市场的顶点出现在 2018 年 1 月，整个数字货币市场市值超过八千亿美金，约为 2021 年 ATH 的三分之一。当时市场上充斥着山寨币，比特币占比在市值高点的当日达到最低 33.39%，市场依…",
+          "link": "https://www.theblockbeats.info/news/30532",
+          "publishedOn": "2022-05-12T04:53:59.000Z",
+          "wordCount": null,
+          "title": "加密市场梦回2018，坚守还是离开？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30508",
           "author": null,
           "description": "原文标题：《\n\n以太坊合并的 Plan A 和 Plan B\n\n》\n原文作者：Ben Edgington，ConsenSys 开发者\n原文编译：隔夜的粥，元宇宙之道\n\n\n本周你绝对应该阅读一下这个，Tim Beiko 带来了 AllCoreDevs 更新 011，这篇文章全面地告诉了我们以太坊在通往合并的道路上还剩下些什么。\n\n\n那问题来了，什么时候合并？\n\n\n这是很多人现在唯一感兴趣的问题，而官方的回答是「当它准备好时」，这是事实，但这种回答没有什么帮助。所以，让我们把它拆解开来。\n\n\n这涉及到两个有些独立的部分，而它们使得预测不那么直接。第一个部分是简单的，即客户端对合并的准备情况，而第二个部分是以太坊的难度炸弹。\n\n\n\n\n\n什么是以太坊的难度炸弹？\n\n\n难度炸弹（有时被称为冰川期）是以太坊早期就存在的一种机制，它的功能是在达到一定的区块高度之后，开始以指数方式增加工作量证明（PoW）区块挖矿的难度，这反过来会增加区块之间的间隔时间。目前有一个 Dune 仪表板‌显示出块生产率如何随着难度炸弹生效而迅速下降，然后我们可通过硬分叉重置它进行恢复。\n\n\n难度炸弹的想法是双重的，首先它为开发者提供了一个强制功能，拆除或延迟难度炸弹需要通过硬分叉，我们的想法是，如果我们要通过硬分叉做到这一点，那么我们将利用这个机会进行协议升级。特别是在早期，难度炸弹的目的是鼓励迅速转向权益证明（PoS）共识机制。在我看来，它在这方面几乎是失败了，证据是（a）我们仍然没有成功转向 PoS，并且至少已经推迟了 5 次难度炸弹，以及（b）Arrow Glacier 和 Muir Glacier 这两次硬分叉都只推迟了难度炸弹，而没有做任何其他事情，它的主要影响只是使计划变得复杂化。\n\n\n而难度炸弹的第二个更现实的目的，是阻止矿工在 PoS 激活后继续参与 PoW 挖矿。矿工需要自己拆除难度炸弹，这并…",
@@ -93,16 +113,6 @@
           "publishedOn": "2022-05-10T04:31:39.000Z",
           "wordCount": null,
           "title": "欧易研究院：比特币跌破3万美元后，市场直面5月加息以来的两种走向",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30489",
-          "author": null,
-          "description": "原文标题：《Messari：深度解析 Optimism 估值模型，市值约为 90 亿美元》\n原文来源：Messari\n原文编译：DeFi 之道\n\n\n本文要点：\n\n\n- Optimism 空投和生态系统激励计划将开启以太坊扩展解决方案的新时代。\n\n\n- Perpetual Protocol、Uniswap 和 Synthetix 是 Optimism 上最大的应用程序，主导着交易活动和 TVL。\n\n\n- Optimism 网络通过其排序器产生收入。OP \n\nToken\n\n持有者与公民之家共享治理权，但对网络保持足够的控制权以产生价值。\n\n\n- 根据我们的估值模型，Optimism 应该是上市时排名前 20 的加密资产，市值约为 90 亿美元。\n\n\nOptimism 空投计划已经官宣，标志着 L2 战争已经打响。\n\n\n上周，Optimism 宣布了针对活跃用户和社区成员的追溯\n\nToken\n\n空投。该项目引起了社区的极大兴趣，因为它承诺为以太坊生态系统带来急需的可扩展性。目前，它是 TVL 第二大的 Rollup 扩展方案，并且可能是\n\nToken\n\n发布时按市值计算的最大 Rollup。\n\n\nOptimism 的愿景是创造一个正增长的飞轮，为生态系统内的所有参与者提供价值。排序器（Sequencer）负责向 Optimism 添加和排序交易。它通过出售区块空间来产生收入。目前，这笔收入归于 Optimism Foundation，这是一个非营利组织，将所有盈余捐赠给网络上的公共产品。随着越来越多的开发者和用户通过这笔资金获得激励，网络上的活动应该会增加，从而增加对区块空间的需求并使飞轮旋转得更快。\n\n\n\n\n\nOptimism PBC，即后来的 OP Labs PBC，于 2020 年 1 月从 Plasma Group 中诞生。Plasma Group 的贡献者包括以太坊基金…",
-          "link": "https://www.theblockbeats.info/news/30489",
-          "publishedOn": "2022-05-09T14:27:09.000Z",
-          "wordCount": null,
-          "title": "Messari：L2战争已经打响，解析Optimism估值模型",
           "imageUrl": null
         }
       ]
