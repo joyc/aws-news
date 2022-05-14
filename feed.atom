@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-14T00:44:50.515Z</updated>
+    <updated>2022-05-14T06:29:07.087Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metamask项目方给Solidity程序员的16个安全建议]]></title>
+        <id>https://www.theblockbeats.info/news/30542</id>
+        <link href="https://www.theblockbeats.info/news/30542"/>
+        <updated>2022-05-14T04:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Metamask项目方给Solidity程序员的16个安全建议]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foresight Ventures：Crypto在崩溃与融合中步入新生]]></title>
         <id>https://www.theblockbeats.info/news/30541</id>
@@ -230,49 +240,6 @@ Foresight Ventures：请回答 2018
 
 
 二级市场的顶点出现在 2018 年 1 月，整个数字货币市场市值超过八千亿美金，约为 2021 年 ATH 的三分之一。当时市场上充斥着山寨币，比特币占比在市值高点的当日达到最低 33.39%，市场依…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys开发者：以太坊合并的Plan A和Plan B]]></title>
-        <id>https://www.theblockbeats.info/news/30508</id>
-        <link href="https://www.theblockbeats.info/news/30508"/>
-        <updated>2022-05-11T14:05:54.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-以太坊合并的 Plan A 和 Plan B
-
-》
-原文作者：Ben Edgington，ConsenSys 开发者
-原文编译：隔夜的粥，元宇宙之道
-
-
-本周你绝对应该阅读一下这个，Tim Beiko 带来了 AllCoreDevs 更新 011，这篇文章全面地告诉了我们以太坊在通往合并的道路上还剩下些什么。
-
-
-那问题来了，什么时候合并？
-
-
-这是很多人现在唯一感兴趣的问题，而官方的回答是「当它准备好时」，这是事实，但这种回答没有什么帮助。所以，让我们把它拆解开来。
-
-
-这涉及到两个有些独立的部分，而它们使得预测不那么直接。第一个部分是简单的，即客户端对合并的准备情况，而第二个部分是以太坊的难度炸弹。
-
-
-
-
-
-什么是以太坊的难度炸弹？
-
-
-难度炸弹（有时被称为冰川期）是以太坊早期就存在的一种机制，它的功能是在达到一定的区块高度之后，开始以指数方式增加工作量证明（PoW）区块挖矿的难度，这反过来会增加区块之间的间隔时间。目前有一个 Dune 仪表板‌显示出块生产率如何随着难度炸弹生效而迅速下降，然后我们可通过硬分叉重置它进行恢复。
-
-
-难度炸弹的想法是双重的，首先它为开发者提供了一个强制功能，拆除或延迟难度炸弹需要通过硬分叉，我们的想法是，如果我们要通过硬分叉做到这一点，那么我们将利用这个机会进行协议升级。特别是在早期，难度炸弹的目的是鼓励迅速转向权益证明（PoS）共识机制。在我看来，它在这方面几乎是失败了，证据是（a）我们仍然没有成功转向 PoS，并且至少已经推迟了 5 次难度炸弹，以及（b）Arrow Glacier 和 Muir Glacier 这两次硬分叉都只推迟了难度炸弹，而没有做任何其他事情，它的主要影响只是使计划变得复杂化。
-
-
-而难度炸弹的第二个更现实的目的，是阻止矿工在 PoS 激活后继续参与 PoW 挖矿。矿工需要自己拆除难度炸弹，这并…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

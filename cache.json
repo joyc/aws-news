@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30542",
+          "author": null,
+          "description": "Metamask项目方给Solidity程序员的16个安全建议",
+          "link": "https://www.theblockbeats.info/news/30542",
+          "publishedOn": "2022-05-14T04:23:02.000Z",
+          "wordCount": null,
+          "title": "Metamask项目方给Solidity程序员的16个安全建议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30541",
           "author": null,
           "description": "原文标题：《\n\nForesight Ventures: Crypto 在崩溃与融合中步入新生\n\n》\n原文作者：msfew，Foresight Research\n\n\nCrypto is dead. Long live crypto.\n\n\nAC 认为: Crypto 走得是早年货币政策的老路, 在重蹈覆辙, 在重新犯下货币政策以前曾犯过的错. 屠龙者可能在慢慢变成恶龙. 一波又一波的 Crypto 浪潮将它迭代成了另一个模样, 我们记不得当初是为什么出发. Crypto 文化扼杀了 Crypto 精神.\n\n\n确实, 仿佛真的是这样. 我们不再优先考虑核心价值 (去中心化, 安全性, 隐私, 所有权, 创新), 而是关注于短期的贪婪所带来的刺激 (接盘, 炒作, 因为狂热挤得头破血流). 这样的现状是比较悲哀的.\n\n\n\n \n这些只是少有的一些黑暗面, 但:  \n\n\n越来越多公链热爱稳定币, 稳定币庞氏化, 机制太过简单粗暴 (本文写于 22 年 4 月, 当时 Terra 并未崩盘). 理论 TPS 奇高无比, 但每秒 TPS 低于以太坊.\n\n\n大多数 DeFi 项目越来越喜欢拥抱监管, 反而违背了中介少与无须许可的初心.\n\n\n大多数 GameFi 一点都不好玩, 无解的经济系统的结局永远是死亡螺旋.\n\n\n大多数 NFT 土狗化, 炒无用之用或者基本无用的社区概念, 越贵越是艺术, 空投的Token也是喂养庞氏的空气, 无法落地, 只是为了套娃把故事继续.\n\n\n大多数 DAO 白嫖化, 一个口号就能让人信心满满地充值, 人人都加了不下十个 DAO, DAO 比人多, 且做事效率奇低.\n\n\n大多数项目\n\nToken\n\n无用, 虽是说有治理的效用, 但是 Staking 的过程真的是为了投票吗? 几个不痛不痒的投票真的让用户拥有协议的一部分了吗?\n\n\n\n\n\n去中心化\n\n\n中心化等于低…",
@@ -53,16 +63,6 @@
           "publishedOn": "2022-05-12T04:53:59.000Z",
           "wordCount": null,
           "title": "加密市场梦回2018，坚守还是离开？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30508",
-          "author": null,
-          "description": "原文标题：《\n\n以太坊合并的 Plan A 和 Plan B\n\n》\n原文作者：Ben Edgington，ConsenSys 开发者\n原文编译：隔夜的粥，元宇宙之道\n\n\n本周你绝对应该阅读一下这个，Tim Beiko 带来了 AllCoreDevs 更新 011，这篇文章全面地告诉了我们以太坊在通往合并的道路上还剩下些什么。\n\n\n那问题来了，什么时候合并？\n\n\n这是很多人现在唯一感兴趣的问题，而官方的回答是「当它准备好时」，这是事实，但这种回答没有什么帮助。所以，让我们把它拆解开来。\n\n\n这涉及到两个有些独立的部分，而它们使得预测不那么直接。第一个部分是简单的，即客户端对合并的准备情况，而第二个部分是以太坊的难度炸弹。\n\n\n\n\n\n什么是以太坊的难度炸弹？\n\n\n难度炸弹（有时被称为冰川期）是以太坊早期就存在的一种机制，它的功能是在达到一定的区块高度之后，开始以指数方式增加工作量证明（PoW）区块挖矿的难度，这反过来会增加区块之间的间隔时间。目前有一个 Dune 仪表板‌显示出块生产率如何随着难度炸弹生效而迅速下降，然后我们可通过硬分叉重置它进行恢复。\n\n\n难度炸弹的想法是双重的，首先它为开发者提供了一个强制功能，拆除或延迟难度炸弹需要通过硬分叉，我们的想法是，如果我们要通过硬分叉做到这一点，那么我们将利用这个机会进行协议升级。特别是在早期，难度炸弹的目的是鼓励迅速转向权益证明（PoS）共识机制。在我看来，它在这方面几乎是失败了，证据是（a）我们仍然没有成功转向 PoS，并且至少已经推迟了 5 次难度炸弹，以及（b）Arrow Glacier 和 Muir Glacier 这两次硬分叉都只推迟了难度炸弹，而没有做任何其他事情，它的主要影响只是使计划变得复杂化。\n\n\n而难度炸弹的第二个更现实的目的，是阻止矿工在 PoS 激活后继续参与 PoW 挖矿。矿工需要自己拆除难度炸弹，这并…",
-          "link": "https://www.theblockbeats.info/news/30508",
-          "publishedOn": "2022-05-11T14:05:54.000Z",
-          "wordCount": null,
-          "title": "ConsenSys开发者：以太坊合并的Plan A和Plan B",
           "imageUrl": null
         }
       ]
