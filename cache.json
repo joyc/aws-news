@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30567",
+          "author": null,
+          "description": "原文标题：《\n\nDecentralized Society: Finding Web3』s Soul\n\n\n\n》\n原文作者：\n\nE. Glen Weyl, Puja Ohlhaver, Vitalik Buterin\n\n\n原文编译：\n\nShaun@DAOrayaki.org，\n\nDAOrayaki\n\n\n\n「道者，万物之奥，善人之宝，不善人之所保」\n——《老子》第六十二章\n\n\n「去中心化社会：找寻 Web3 的灵魂」，是 Vitalik 等人的最新论文，本文讲述了如何通过灵魂绑定\n\nToken\n\n实现更丰富、更多元的生态系统即「去中心化社会（DeSoc）以及去中心化社会中的关键的可分解的产权和增强的治理机制」。因此，DAOrayaki 社区特翻译此文并组织多场 Podcast 深度分析。因全文过长，我们将会分上、中、下三篇发出。本文为该系列中篇，上篇请查看：Vitalik 等最新论文：找寻 Web3 的灵魂（上）\n\n\n4.8 从私人和公共物品到复合型网络物品\n\n\n更为广泛的说，SBTs 可以让我们有效地代表和管理处于完全私人和完全公共之间的任何资产和商品。在现实中，即使是个人消费的商品也有积极的溢出效应，就像能够使消费者更好地对家庭或社区做出贡献一样，即使是全球最可用的公共商品（例如气候），也不可避免地对一些人比其他人更有用（例如塞舌尔对西伯利亚）。同样，人类的动机很少是完全自私或完全利他的，会有许多预先存在的合作模式，只是这种模式在有些社区少，有些社区多。\n\n\n然而，今天的机制设计假定原子化、自私的代理没有预先存在的合作，这往往使机制容易受到无辜过度协调 [8]。最坏的情况是已经合作的群体故意勾结。因此，即使是最好的公共融资模式，包括二次方融资 (QF)，也无法扩展。QF 通过为少数人的集中行动提供减少的奖励来鼓励协调，同时又为多数人的集体行动提供增加的奖励。\n\n\n10 个人…",
+          "link": "https://www.theblockbeats.info/news/30567",
+          "publishedOn": "2022-05-16T14:46:14.000Z",
+          "wordCount": null,
+          "title": "Vitalik等最新论文：去中心化社会——找寻Web3的灵魂（中）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30566",
           "author": null,
           "description": "原文标题：《对话 a16z 合伙人 Chris Dixon：「区块空间」是未来十年最佳产品》\n\n原文来源： The Generalist\n原文编译：\n\nKatie 辜，Odaily 星球日报\n\n\n\n牛市多赚钱，熊市多学习。\n\n\n理解区块空间是理解加密货币和 Web3 世界的基础。这也是为未来潜在的市场复苏做好准备。\n\n\n就在几个月前，a16z Crypto 合伙人 Chris Dixon 称区块空间是本世纪 20 年代的「最佳产品」。我们有幸邀请到 a16z 的加密货币负责人进一步解释为什么这么说，以及我们可以就此进行哪些布局。\n\n\n以下是投资者、运营方和创始人们应该了解的有关区块空间的内容。\n\n\n1. 区块空间是什么？\n\n\n区块空间是区块链上可以运行代码和存储数据的空间。与传统计算空间的不同之处在于，在区块链出现之前，软件总是服从于硬件，最终服从于硬件的所有者。如 Meta 公司控制着运行 Facebook 的硬件，所以它最终控制着 Facebook。\n\n\n区块链的构建方式是不同的：利用共识机制，实现软件「负责」硬件。\n\n\n区块链创业者通过编写软件代码，对产品未来的行为做出强有力的承诺。\n\n\n2. 这是一个有趣的表达。我以前从未见过从软件和硬件之间关系的角度来讨论这个话题，你真正讨论的其实是控制问题，对吗？\n\n\n是的。假设谷歌发行了 GoogleCoin。谷歌声称世界上只有 2100 万枚Token。但驱动谷歌\n\nToken\n\n的软件运行在谷歌控制的服务器上。因为谷歌控制硬件，硬件控制软件，进一步控制\n\nToken\n\n数量。\n\n\n对比比特币。比特币承诺只会有 2100 万个比特币，这条规则被嵌入在比特币区块链的架构（代码）中。即使很多运行比特币代码的人（矿工）试图颠覆这些规则也很难做到（硬件控制权太分散了）。\n\n\n这就是区块空间的不同之处。构建在区块链生态之上的开发人员和…",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-05-14T06:16:25.000Z",
           "wordCount": null,
           "title": "如何通过免费的Nansen找到Alpha？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30542",
-          "author": null,
-          "description": "Metamask项目方给Solidity程序员的16个安全建议",
-          "link": "https://www.theblockbeats.info/news/30542",
-          "publishedOn": "2022-05-14T04:23:02.000Z",
-          "wordCount": null,
-          "title": "Metamask项目方给Solidity程序员的16个安全建议",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-16T12:21:14.506Z</updated>
+    <updated>2022-05-16T18:10:23.820Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik等最新论文：去中心化社会——找寻Web3的灵魂（中）]]></title>
+        <id>https://www.theblockbeats.info/news/30567</id>
+        <link href="https://www.theblockbeats.info/news/30567"/>
+        <updated>2022-05-16T14:46:14.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Decentralized Society: Finding Web3』s Soul
+
+
+
+》
+原文作者：
+
+E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin
+
+
+原文编译：
+
+Shaun@DAOrayaki.org，
+
+DAOrayaki
+
+
+
+「道者，万物之奥，善人之宝，不善人之所保」
+——《老子》第六十二章
+
+
+「去中心化社会：找寻 Web3 的灵魂」，是 Vitalik 等人的最新论文，本文讲述了如何通过灵魂绑定
+
+Token
+
+实现更丰富、更多元的生态系统即「去中心化社会（DeSoc）以及去中心化社会中的关键的可分解的产权和增强的治理机制」。因此，DAOrayaki 社区特翻译此文并组织多场 Podcast 深度分析。因全文过长，我们将会分上、中、下三篇发出。本文为该系列中篇，上篇请查看：Vitalik 等最新论文：找寻 Web3 的灵魂（上）
+
+
+4.8 从私人和公共物品到复合型网络物品
+
+
+更为广泛的说，SBTs 可以让我们有效地代表和管理处于完全私人和完全公共之间的任何资产和商品。在现实中，即使是个人消费的商品也有积极的溢出效应，就像能够使消费者更好地对家庭或社区做出贡献一样，即使是全球最可用的公共商品（例如气候），也不可避免地对一些人比其他人更有用（例如塞舌尔对西伯利亚）。同样，人类的动机很少是完全自私或完全利他的，会有许多预先存在的合作模式，只是这种模式在有些社区少，有些社区多。
+
+
+然而，今天的机制设计假定原子化、自私的代理没有预先存在的合作，这往往使机制容易受到无辜过度协调 [8]。最坏的情况是已经合作的群体故意勾结。因此，即使是最好的公共融资模式，包括二次方融资 (QF)，也无法扩展。QF 通过为少数人的集中行动提供减少的奖励来鼓励协调，同时又为多数人的集体行动提供增加的奖励。
+
+
+10 个人…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话a16z合伙人：如Web3愿景实现，区块空间或成重要新计算资源]]></title>
         <id>https://www.theblockbeats.info/news/30566</id>
@@ -600,16 +650,6 @@ Nansen：免费版本解决的问题是：
 4 一些顶级项目的数据，如 Lido、LooksRare、AAVE、Axie。并且我们提供了从数据层面研究项目的分析思路和框架。
  
 律动 BlockBeats…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metamask项目方给Solidity程序员的16个安全建议]]></title>
-        <id>https://www.theblockbeats.info/news/30542</id>
-        <link href="https://www.theblockbeats.info/news/30542"/>
-        <updated>2022-05-14T04:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Metamask项目方给Solidity程序员的16个安全建议]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
