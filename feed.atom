@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-16T00:39:18.108Z</updated>
+    <updated>2022-05-16T06:12:08.245Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对话MetaMail：Web3.0为Email提供的完美方案]]></title>
+        <id>https://www.theblockbeats.info/news/30552</id>
+        <link href="https://www.theblockbeats.info/news/30552"/>
+        <updated>2022-05-16T03:57:12.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：0x137，律动 BlockBeats
+
+
+在 Stepn 后，我们看到了各种 X2Earn 应用，在律动 BlockBeats 看来，Stepn 的火热打响了 Web3 应用崛起的第一枪。在 10 年发展路程里，我们看到了区块链随着技术革新，不断普及的过程：16-17 年以太坊崛起，区块链摆脱了「寻找下一个比特币」的叙事，各种形式的 IC0 为「加密行业」打下了基础；19-20 年 DeFi Summer 的崛起为区块链找到了「应用场景」，区块链技术在 DeFi、NFT、Layer 1、Layer 2 等协议层面实现突围，「Web3」的概念诞生并开始普及；22 年 Stepn 的出圈，区块链技术开始在应用层面突飞猛进，走出了互联网在 Facebook、Uber 等应用繁荣发展阶段的特征。
+
+
+在本文中，律动 BlockBeats 作者访谈了 Web3.0 邮箱应用 MetaMail 项目团队，从项目简介和定位、发展阶段与工作重心、开发团队与融资情况等方面进行了深入了解。未来，律动 BlockBeats 将会持续关注 Web3 领域的应用发展，与创始团队密切交流，深度跟踪 Web3 发展的新浪潮。
+
+
+项目简介
+
+
+MetaMail 是一个利用 Web3 优势解决传统电子邮箱安全性以及垃圾邮件等问题的邮箱应用。如今，尽管电子邮件已是全球范围内使用最广泛的通信渠道，但其仍有一些重要的问题没有得到解决。
+
+
+一方面，传统邮箱缺乏方便的加密方式，在 SMTP 协议下的邮件内容多为明文传输，容易出现泄露或伪造等风险。另一方面，垃圾邮件泛滥也是我们在使用邮箱时一个令人头疼的问题。由于垃圾邮件发送者制造女巫攻击的成本几乎为零，目前的邮箱应用很难从根本上解决垃圾邮件的问题。
+
+
+但通过区块链技术，这两方面的问题都可以得到很自然地解决。MetaMail 通过使用 Web3 域名或…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「加密资本论」四部曲之二（上）：没有硝烟的战场——VC还是token fund？]]></title>
+        <id>https://www.theblockbeats.info/news/30551</id>
+        <link href="https://www.theblockbeats.info/news/30551"/>
+        <updated>2022-05-16T03:57:12.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《加密资本论四部曲之二（上）：没有硝烟的战场——VC 还是 token fund？》
+原文来源：Just Blockchain News
+
+
+前言：
+
+
+这个系列的文章，主要是以从业者和学者的双重角度，讲讲我对于股权投融资、币权投融资过去、现状和未来的回顾、阐述和思考。本文为该系列第二部，第一部详见《「加密资本论」四部曲之一：Token issuance，融资新范式》。
+
+
+我们应该怎样对待新兴的币权项目？散户如何尽可能快速判断币权融资项目的合理性？监管机构又应该如何从技术和行业自律角度予以调和？传统 VC 如何在自己的股权法律框架下，尽可能参与币权的利益？以及，作为一个创业者，如何选择股权和币权融资对于自己项目发展起到帮助？
+
+
+壹
+  
+曾经我在创业时，时常遇到所有创业者都面临的两个灵魂拷问：
+
+
+（1）如果阿里或者腾讯的资深人士出来做了一个和你相似的项目，你该怎么办？
+
+
+（2）如果红杉、IDG 或者高瓴投了你的竞争对手，你该怎么办？
+
+
+进入 web3 以后，大体上没人敢这么问我了。
+
+
+这个回答很简单。
+
+
+针对（1）：无所谓，击败他们就是。Web3 可没有阿里、腾讯，就算是 Facebook 都还没成功过。
+
+
+针对（2）：无所谓，大洋彼岸的用户可不会因为项目背后站着一个中国的知名资本就开始 fomo。
+
+
+在这里，对于我以上提到的名字，我没有任何冒犯之意。只是，web3 相比于 web2 进一步抹去了地理框架带来的商业护城河，而将所有项目直接抛向了无差别的国际竞争市场。毕竟，在 web3，可没有什么「英国的币安」、「中国的 uniswap」或者「韩国的 opensea」这样描述项目的叙事逻辑。
+
+
+所以——当我们提到 VC 和 token fund 之间的竞争时，就要想到，谁能获得更好的 deal sourcing，以及在全球范围内为 web3 项目…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LD Capital公开信：请保持谨慎和乐观，优秀的项目往往诞生于熊市]]></title>
         <id>https://www.theblockbeats.info/news/30549</id>
@@ -429,66 +506,6 @@ Nansen：免费版本解决的问题是：
         <link href="https://www.theblockbeats.info/news/30542"/>
         <updated>2022-05-14T04:23:02.000Z</updated>
         <summary type="html"><![CDATA[Metamask项目方给Solidity程序员的16个安全建议]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foresight Ventures：Crypto在崩溃与融合中步入新生]]></title>
-        <id>https://www.theblockbeats.info/news/30541</id>
-        <link href="https://www.theblockbeats.info/news/30541"/>
-        <updated>2022-05-13T14:57:16.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Foresight Ventures: Crypto 在崩溃与融合中步入新生
-
-》
-原文作者：msfew，Foresight Research
-
-
-Crypto is dead. Long live crypto.
-
-
-AC 认为: Crypto 走得是早年货币政策的老路, 在重蹈覆辙, 在重新犯下货币政策以前曾犯过的错. 屠龙者可能在慢慢变成恶龙. 一波又一波的 Crypto 浪潮将它迭代成了另一个模样, 我们记不得当初是为什么出发. Crypto 文化扼杀了 Crypto 精神.
-
-
-确实, 仿佛真的是这样. 我们不再优先考虑核心价值 (去中心化, 安全性, 隐私, 所有权, 创新), 而是关注于短期的贪婪所带来的刺激 (接盘, 炒作, 因为狂热挤得头破血流). 这样的现状是比较悲哀的.
-
-
-
- 
-这些只是少有的一些黑暗面, 但:  
-
-
-越来越多公链热爱稳定币, 稳定币庞氏化, 机制太过简单粗暴 (本文写于 22 年 4 月, 当时 Terra 并未崩盘). 理论 TPS 奇高无比, 但每秒 TPS 低于以太坊.
-
-
-大多数 DeFi 项目越来越喜欢拥抱监管, 反而违背了中介少与无须许可的初心.
-
-
-大多数 GameFi 一点都不好玩, 无解的经济系统的结局永远是死亡螺旋.
-
-
-大多数 NFT 土狗化, 炒无用之用或者基本无用的社区概念, 越贵越是艺术, 空投的Token也是喂养庞氏的空气, 无法落地, 只是为了套娃把故事继续.
-
-
-大多数 DAO 白嫖化, 一个口号就能让人信心满满地充值, 人人都加了不下十个 DAO, DAO 比人多, 且做事效率奇低.
-
-
-大多数项目
-
-Token
-
-无用, 虽是说有治理的效用, 但是 Staking 的过程真的是为了投票吗? 几个不痛不痒的投票真的让用户拥有协议的一部分了吗?
-
-
-
-
-
-去中心化
-
-
-中心化等于低…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
