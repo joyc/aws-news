@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30572",
+          "author": null,
+          "description": "原文作者：Vitalik Buterin\n原文编译：czgsws、0x9F，律动 BlockBeats\n\n\n本文梳理自 V 神在个人社交媒体平台上的观点，律动 BlockBeats 对其整理翻译如下：\n\n\n我的思想和价值观中一直存在着诸多为人熟知的矛盾，我一直在思考这些问题，但仍未能完全解决：\n\n\n我渴望看到以太坊成为一个更像比特币的系统，重视长期的稳定性，包括文化上的稳定，但我意识到实现这一目标，需要大量积极协调的短期变化，这两者之间存在矛盾。\n\n\n我倾向减少对个人的依赖，并尝试建立经得起时间考验的固定系统，而我同时又对「活跃玩家」及其在帮助世界前进中的作用表示欣赏，这两者之间存在矛盾。\n\n\n我渴望看到以太坊成为能在真正极端情况下生存的 L1，但我意识到以太坊中很多关键应用目前依赖着非常脆弱的安全假设，这两者之间存在矛盾。\n\n\n我对权力下放等事物充满热爱，但我意识到我在许多（尽管绝对不是所有）具体政策问题上，认同知识精英而不是「人民」，这两者之间存在矛盾。\n\n\n我渴望看到更多国家采用激进的政策实验（例如加密国家），但我意识到往往更中心化的管理才最有可能在这些事情上付出行动，这两者之间存在矛盾。\n\n\n我渴望在有趣的文化里看到更多多样性，但我意识到维持一种有别于主流的文化，似乎往往需要某种形式的疯魔或抱团，这些都是我思想上讨厌的东西，这两者之间存在矛盾。\n\n\n我不喜欢许多现代金融区块链「应用」（例如 300 万美元的「无聊猿」），但我不情愿地接受这样一个事实——这些东西是维持加密经济运行的重要部分，并为所有我喜欢的 DAO 和治理实验买单，这两者之间存在矛盾。\n\n\n我渴望加密能超越金融，但我意识到金融（包括支付+主权）仍然是迄今为止最成功的加密应用类别，尤其受到第三世界居民、人权活动家和弱势群体的欢迎，这两者之间存在矛盾。\n\n\n我渴望尽可能简化 L1，同时我又渴望尽可能简化整个生态系统，这两者之间存在矛盾。（因为一个简单的 L1 通常会将其复杂性「导出」至堆栈的更高层，用户不得不接受。）\n\n\n我渴望成为一个正和的调停者，能成为每个人的朋友，同时我又渴望当我们面临真正的邪恶时，坚定地站在正义这边对抗邪恶，这两者之间存在矛盾。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30572",
+          "publishedOn": "2022-05-17T04:19:51.000Z",
+          "wordCount": null,
+          "title": "V神：我一直在思考的矛盾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30573",
+          "author": null,
+          "description": "原文来源：StarkNet | 中文\n\n\n上周 StarkNet 主网 Alpha 内测版上线，跨链桥 StarkGate 可在主网使用，下面展示如何使用 StarkGate  ：\n\n\n\n1、\n\n\n首先准备\n\nStarkGate 主网：\nhttps://starkgate.starknet.io   \n\nStarkGate Goerli 测试网：\nhttps://goerli.starkgate.starknet.io   \n\n\nL1 goerli 水龙头\nhttps://goerlifaucet.com \nhttps://faucet.paradigm.xyz \nL2 goerli 水龙头\nhttps://faucet.goerli.starknet.io\n\n\n以太坊 L1 钱包使用 MetaMask（以下称为 MM），StarkNet 使用钱包 Argent X 或  Braavos；\n\n\nArgent X 需要手动添加 ETH 合约地址：\n0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7 \n\n\n下载： \nArgent X：\nhttps://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb… \nBraavos：\nhttps://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma\n\n\n注意：\n\n\n目前仅可使用 Chrome 浏览器 ；\n\n\n转账完成前不要关闭窗口 ；\n\n\n目前不支持隐私模式  ；\n\n\n\n2、\n\n\n下面开始使用： \n\n\n安装 Argent X 钱包，保存好助记词 \n…",
+          "link": "https://www.theblockbeats.info/news/30573",
+          "publishedOn": "2022-05-17T04:10:51.000Z",
+          "wordCount": null,
+          "title": "手把手教你使用StarkNet跨链桥StarkGate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30570",
+          "author": null,
+          "description": "原文标题：《2022 年所有权经济的最新进展》\n原文来源：Variant\n原文作者：Li Jin, Geoff Hamilton, Jesse Walden, Spencer Noon, Derek Walkush, Medha Kothari\n\n\n在万维网发展的 30 年里，少数公司控制了大部分用户注意力和广告收入，封闭的生态系统阻碍了独立开发者的创新。最大的互联网平台的经济利益与其最有价值的贡献者——用户——的利益并不一致。\n  \n\n\n\n\n长期以来，所有权一直受到硅谷初创企业的欢迎，它们通过授予期权来激励员工。尽管如此，绝大多数的互联网用户拥有他们所贡献的服务的 0%。创作者不能拥有他们的内容，开发者不能控制他们的代码，消费者不能影响他们所使用的平台的政策或决策。这种情况曾经不受质疑，但现在看起来越来越过时。\n\n\n通过所有权经济 (通常称为 web3)，这种情况开始改变，产品和服务将用户转变为所有者。\n\n\n\n\n\n一切都是从比特币和以太坊开始的，它们都奖励那些用自己的原生Token保护网络的参与者，这正在成为从开发者基础设施和 DeFi 的新金融市场到消费产品、市场和社交的所有类别软件的普遍现象。\n\n\n一个由用户拥有的新互联网\n\n\n如果上一代软件建立在用户生成内容的基础上，那么下一代软件将由用户所有，数字所有权将被用作实现新颖的用户体验的基石。其核心是，所有权经济不仅为建设者提供了一个强大的新工具，让他们利用市场激励来启动新的网络，它还具有通过更广泛的财富积累资产分配来创造积极社会变革的潜力。\n\n\n在 Jesse Walden 发表用户拥有互联网的最初愿景后的两年时间里，情况发生了戏剧性的变化，并不断扩大。从用户拥有的金融市场到用户拥有的社交网络、投资俱乐部和数字资产，现在有超过 15000 个所有权经济项目。虽然所有权经济仍只占所有互联网平台的一小部分，但它是一个快速增…",
+          "link": "https://www.theblockbeats.info/news/30570",
+          "publishedOn": "2022-05-17T03:40:51.000Z",
+          "wordCount": null,
+          "title": "总览2022年所有权经济的最新进展",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30567",
           "author": null,
           "description": "原文标题：《\n\nDecentralized Society: Finding Web3』s Soul\n\n\n\n》\n原文作者：\n\nE. Glen Weyl, Puja Ohlhaver, Vitalik Buterin\n\n\n原文编译：\n\nShaun@DAOrayaki.org，\n\nDAOrayaki\n\n\n\n「道者，万物之奥，善人之宝，不善人之所保」\n——《老子》第六十二章\n\n\n「去中心化社会：找寻 Web3 的灵魂」，是 Vitalik 等人的最新论文，本文讲述了如何通过灵魂绑定\n\nToken\n\n实现更丰富、更多元的生态系统即「去中心化社会（DeSoc）以及去中心化社会中的关键的可分解的产权和增强的治理机制」。因此，DAOrayaki 社区特翻译此文并组织多场 Podcast 深度分析。因全文过长，我们将会分上、中、下三篇发出。本文为该系列中篇，上篇请查看：Vitalik 等最新论文：找寻 Web3 的灵魂（上）\n\n\n4.8 从私人和公共物品到复合型网络物品\n\n\n更为广泛的说，SBTs 可以让我们有效地代表和管理处于完全私人和完全公共之间的任何资产和商品。在现实中，即使是个人消费的商品也有积极的溢出效应，就像能够使消费者更好地对家庭或社区做出贡献一样，即使是全球最可用的公共商品（例如气候），也不可避免地对一些人比其他人更有用（例如塞舌尔对西伯利亚）。同样，人类的动机很少是完全自私或完全利他的，会有许多预先存在的合作模式，只是这种模式在有些社区少，有些社区多。\n\n\n然而，今天的机制设计假定原子化、自私的代理没有预先存在的合作，这往往使机制容易受到无辜过度协调 [8]。最坏的情况是已经合作的群体故意勾结。因此，即使是最好的公共融资模式，包括二次方融资 (QF)，也无法扩展。QF 通过为少数人的集中行动提供减少的奖励来鼓励协调，同时又为多数人的集体行动提供增加的奖励。\n\n\n10 个人…",
