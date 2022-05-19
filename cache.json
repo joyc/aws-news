@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30616",
+          "author": null,
+          "description": "原文标题：《\n\nDID，web3.0 最重要的一块拼图\n\n》\n原文作者：\n\n阿空，星空价值投资\n\n\n有时候看得太远似乎不太好。\n\n\n对于投资而言，强调看得更远并没有错，但可能也要兼顾一下现状。不然极容易进入到「眼高手低」的困境当中，就好像跟哲学一样。之前听很多新闻说有人学哲学，学到德里达，学到鲍德里亚，就陷入了虚无主义，觉得人都是走向死亡，做任何事情还有什么意义呢？\n\n\n投资也有点类似，但可能更具象一点。最近看到了 Vitalik 等业内大佬，写了一篇论文叫做《寻找 web3.0 的灵魂》。整个论文的主旨就是针对 web3.0 生态系统的构想，称之为「DeSoc」，什么意思呢？就是围绕 DID 所建立「去中心化社会」。\n\n\n关于 DID 的意义，我在《我看 DeFi:什么才是 2.0？》提过，在跟传统 VC 的分享会上也提到过。但这只是对一部分人来说比较重要。比如创业者，他们看到 DID 作为 web3.0 关键拼图，可以去创业；又比如 VC 机构，他们可以去孵化更多做 DID 的项目，做赛道布局。\n\n\n但是对于个人投资，甚至包括我，其实除了关注赛道的发展，能做的也不是太多，因为太早期了，没有好的投资标的（说到底因为资金体量和精力都有限）。其实不单单是 DID，包括 DAO 也是一样的，看到的东西很多，能做的事情又很少-----说白了就是看到了趋势，又很难找到赚钱的机会。\n\n\n我也一直在思考，直到今天社群的几个朋友在关于空投、did 展开了一些讨论，我意识到，抵抗哲学带来的虚无主义影响需要的是用「体会生活的存在感」来对冲，而对于投资来说，过于前瞻的思路也要去用沉浸式感知行业的方式，来找到适合我们自己的破局点。\n\n\n今天就聊一聊关于 DID 的一些思考；\n\n\n1）为什么我说 DID 是 web3.0 最重要的一块拼图；\n\n\n2）在发现这种未曾到来的趋势时，我们该做些什么。\n\n…",
+          "link": "https://www.theblockbeats.info/news/30616",
+          "publishedOn": "2022-05-19T15:06:29.000Z",
+          "wordCount": null,
+          "title": "探讨DID的想象空间：Web3.0和元宇宙不可或缺的一环",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30617",
           "author": null,
           "description": "原文标题：《NFT visionaries are doubling down on community ethos amid a bearish cycle？\n\n原文作者：Tom Farren\n\n文章编译：0x21，律动 BlockBeats\n\n\n过去的几周里，加密市场到达了一年内的冰点，无论是 UST 的崩盘事件还是 Azuki 创始人「自爆」都对市场产生了不小的影响，加剧了人们心中的恐慌。根据律动此前消息，5 月 18 日 OpenSea 日 ETH 交易量已经到达 2021 年 12 月 21 日以来的最低水平，虽然 Solna 链上的 NFT 呈现出逆势上涨的状态，但作为 NFT 龙头的 ETH 主网各种蓝筹项目都接近「腰斩」。伴随着币价大跌，大部分的 NFT 玩家选择「躺平」，这也是自 NFT 热潮开始，市场经历的第一次真正的熊市。那么在熊市期间，除了躺平以外，我们还能做什么？来自英国 Cointelegraph 的记者 Tom Farren 对于 NFT 投资专家的观点进行深入的分析，律动将原文翻译如下。\n\n\n《时代杂志》、Rarible 和 NFT 策展顾问 Aleksandra Artamonovskaja 分享了他们的观点，随着市场进入低迷期，头部的 NFT 项目和一些 KOL 都希望维护原本的价值观和远景以求度过熊市。\n\n\n当 YugaLabs 售卖 Otherside 土地而引发的 GasWar 之前的几个小时，NFT 市场的兴奋与狂热达到了历史的顶点。\n\n\n但是，根据大多数的新闻报导，在经历了为期一年的疯狂增长，这个聚焦于投机同时带有文化属性的 NFT 市场早就该拥有一个喘息的机会——也就是因为铸造 Otherside 土地而出现的戏剧性转变。直到现在，市场经济得以平静，正式进入了第一个熊市周期。\n\n\n根据 OpenSea 的数据统计，各家媒体均对…",
@@ -133,36 +143,6 @@
           "publishedOn": "2022-05-17T10:32:22.000Z",
           "wordCount": null,
           "title": "加密老炮给新人在熊市的一些建议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30572",
-          "author": null,
-          "description": "原文作者：Vitalik Buterin\n原文编译：czgsws、0x9F，律动 BlockBeats\n\n\n本文梳理自 V 神在个人社交媒体平台上的观点，律动 BlockBeats 对其整理翻译如下：\n\n\n我的思想和价值观中一直存在着诸多为人熟知的矛盾，我一直在思考这些问题，但仍未能完全解决：\n\n\n我渴望看到以太坊成为一个更像比特币的系统，重视长期的稳定性，包括文化上的稳定，但我意识到实现这一目标，需要大量积极协调的短期变化，这两者之间存在矛盾。\n\n\n我倾向减少对个人的依赖，并尝试建立经得起时间考验的固定系统，而我同时又对「活跃玩家」及其在帮助世界前进中的作用表示欣赏，这两者之间存在矛盾。\n\n\n我渴望看到以太坊成为能在真正极端情况下生存的 L1，但我意识到以太坊中很多关键应用目前依赖着非常脆弱的安全假设，这两者之间存在矛盾。\n\n\n我对权力下放等事物充满热爱，但我意识到我在许多（尽管绝对不是所有）具体政策问题上，认同知识精英而不是「人民」，这两者之间存在矛盾。\n\n\n我渴望看到更多国家采用激进的政策实验（例如加密国家），但我意识到往往更中心化的管理才最有可能在这些事情上付出行动，这两者之间存在矛盾。\n\n\n我渴望在有趣的文化里看到更多多样性，但我意识到维持一种有别于主流的文化，似乎往往需要某种形式的疯魔或抱团，这些都是我思想上讨厌的东西，这两者之间存在矛盾。\n\n\n我不喜欢许多现代金融区块链「应用」（例如 300 万美元的「无聊猿」），但我不情愿地接受这样一个事实——这些东西是维持加密经济运行的重要部分，并为所有我喜欢的 DAO 和治理实验买单，这两者之间存在矛盾。\n\n\n我渴望加密能超越金融，但我意识到金融（包括支付+主权）仍然是迄今为止最成功的加密应用类别，尤其受到第三世界居民、人权活动家和弱势群体的欢迎，这两者之间存在矛盾。\n\n\n我渴望尽可能简化 L1，同时我又渴望尽可能简化整个生态系统，这两者之间存在矛盾。（因为一个简单的 L1 通常会将其复杂性「导出」至堆栈的更高层，用户不得不接受。）\n\n\n我渴望成为一个正和的调停者，能成为每个人的朋友，同时我又渴望当我们面临真正的邪恶时，坚定地站在正义这边对抗邪恶，这两者之间存在矛盾。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/30572",
-          "publishedOn": "2022-05-17T04:19:51.000Z",
-          "wordCount": null,
-          "title": "V神：我一直在思考的矛盾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30573",
-          "author": null,
-          "description": "原文来源：StarkNet | 中文\n\n\n上周 StarkNet 主网 Alpha 内测版上线，跨链桥 StarkGate 可在主网使用，下面展示如何使用 StarkGate  ：\n\n\n\n1、\n\n\n首先准备\n\nStarkGate 主网：\nhttps://starkgate.starknet.io   \n\nStarkGate Goerli 测试网：\nhttps://goerli.starkgate.starknet.io   \n\n\nL1 goerli 水龙头\nhttps://goerlifaucet.com \nhttps://faucet.paradigm.xyz \nL2 goerli 水龙头\nhttps://faucet.goerli.starknet.io\n\n\n以太坊 L1 钱包使用 MetaMask（以下称为 MM），StarkNet 使用钱包 Argent X 或  Braavos；\n\n\nArgent X 需要手动添加 ETH 合约地址：\n0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7 \n\n\n下载： \nArgent X：\nhttps://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb… \nBraavos：\nhttps://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma\n\n\n注意：\n\n\n目前仅可使用 Chrome 浏览器 ；\n\n\n转账完成前不要关闭窗口 ；\n\n\n目前不支持隐私模式  ；\n\n\n\n2、\n\n\n下面开始使用： \n\n\n安装 Argent X 钱包，保存好助记词 \n…",
-          "link": "https://www.theblockbeats.info/news/30573",
-          "publishedOn": "2022-05-17T04:10:51.000Z",
-          "wordCount": null,
-          "title": "手把手教你使用StarkNet跨链桥StarkGate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30570",
-          "author": null,
-          "description": "原文标题：《2022 年所有权经济的最新进展》\n原文来源：Variant\n原文作者：Li Jin, Geoff Hamilton, Jesse Walden, Spencer Noon, Derek Walkush, Medha Kothari\n\n\n在万维网发展的 30 年里，少数公司控制了大部分用户注意力和广告收入，封闭的生态系统阻碍了独立开发者的创新。最大的互联网平台的经济利益与其最有价值的贡献者——用户——的利益并不一致。\n  \n\n\n\n\n长期以来，所有权一直受到硅谷初创企业的欢迎，它们通过授予期权来激励员工。尽管如此，绝大多数的互联网用户拥有他们所贡献的服务的 0%。创作者不能拥有他们的内容，开发者不能控制他们的代码，消费者不能影响他们所使用的平台的政策或决策。这种情况曾经不受质疑，但现在看起来越来越过时。\n\n\n通过所有权经济 (通常称为 web3)，这种情况开始改变，产品和服务将用户转变为所有者。\n\n\n\n\n\n一切都是从比特币和以太坊开始的，它们都奖励那些用自己的原生Token保护网络的参与者，这正在成为从开发者基础设施和 DeFi 的新金融市场到消费产品、市场和社交的所有类别软件的普遍现象。\n\n\n一个由用户拥有的新互联网\n\n\n如果上一代软件建立在用户生成内容的基础上，那么下一代软件将由用户所有，数字所有权将被用作实现新颖的用户体验的基石。其核心是，所有权经济不仅为建设者提供了一个强大的新工具，让他们利用市场激励来启动新的网络，它还具有通过更广泛的财富积累资产分配来创造积极社会变革的潜力。\n\n\n在 Jesse Walden 发表用户拥有互联网的最初愿景后的两年时间里，情况发生了戏剧性的变化，并不断扩大。从用户拥有的金融市场到用户拥有的社交网络、投资俱乐部和数字资产，现在有超过 15000 个所有权经济项目。虽然所有权经济仍只占所有互联网平台的一小部分，但它是一个快速增…",
-          "link": "https://www.theblockbeats.info/news/30570",
-          "publishedOn": "2022-05-17T03:40:51.000Z",
-          "wordCount": null,
-          "title": "总览2022年所有权经济的最新进展",
           "imageUrl": null
         }
       ]
