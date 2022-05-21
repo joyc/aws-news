@@ -134,16 +134,6 @@
           "wordCount": null,
           "title": "NFT熊市期间，除了「躺平」我们还应该关注什么？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30612",
-          "author": null,
-          "description": "原文作者：0x137，律动 BlockBeats\n\n\n在 Stepn 后，我们看到了各种 X2Earn 应用，在律动 BlockBeats 看来，Stepn 的火热打响了 Web3 应用崛起的第一枪。在 10 年发展路程里，我们看到了区块链随着技术革新，不断普及的过程：16-17 年以太坊崛起，区块链摆脱了「寻找下一个比特币」的叙事，各种形式的 IC0 为「加密行业」打下了基础；19-20 年 DeFi Summer 的崛起为区块链找到了「应用场景」，区块链技术在 DeFi、NFT、Layer 1、Layer 2 等协议层面实现突围，「Web3」的概念诞生并开始普及；22 年 Stepn 的出圈，区块链技术开始在应用层面突飞猛进，走出了互联网在 Facebook、Uber 等应用繁荣发展阶段的特征。\n\n\n在本文中，律动 BlockBeats 作者访谈了 Web3.0 数据分析协议 KNN3 项目团队，从项目简介和定位、发展阶段与工作重心、开发团队与融资情况等方面进行了深入了解。未来，律动 BlockBeats 将会持续关注 Web3 领域的应用发展，与创始团队密切交流，深度跟踪 Web3 发展的新浪潮。\n\n\n项目简介\n\n\n\nKNN3 Network 是基于算法构建的动态用户关系图谱，旨在通过为应用提供无需许可且可组合的关系数据解决方案，成为 Web3.0 的核心基础设施，及其生态内应用的通用组件。\n\n\n\n\n\n\n\n\n在当前数据丰富的 Web3.0 世界，开发者做应用的一件事就是去各条公链上与数据打交道，这是一个非常繁琐的工作。一个充满想象力的小型团队或许拥有很好的产品经理和交互设计师，但从产品架构的角度来看，如果团队没有深度解析链上数据的能力，已经很难再搭建出有创新意义的产品应用了。\n\n\nKNN3 在 Web3.0 生态的作用，就是与 The Graph、RSS3 等一类的信…",
-          "link": "https://www.theblockbeats.info/news/30612",
-          "publishedOn": "2022-05-19T03:00:06.000Z",
-          "wordCount": null,
-          "title": "对话KNN3：Web3也需要有用的算法",
-          "imageUrl": null
         }
       ]
     },
