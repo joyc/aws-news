@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30635",
+          "author": null,
+          "description": "2021 年 11 月 2 日，去中心化自治组织 CityDAO 在推特上发布了一则视频宣告对美国怀俄明州一处地皮的所有权，并将一面旗帜插在上面。\n\n\n\n\n\n这是一块 40 英亩的地皮，位于蒙大拿州边界以南，黄石国家公园以东，地处怀俄明州西北部肖肖尼国家森林（Shoshone National Forest），离 Kanye West 的牧场只有几英里。\n \n显然，这里既算不上是四通八达的交通枢纽，也没有丰富的自然资源。它仅有一口水井，地形多岩石，距离机场大约 45 分钟路程。\n \n正如 CityDAO 一再强调的，这只是一个「概念验证」的实验项目，但不可否认的是，它意义重大，尤其是对加密行业来说，因为它是一次在以太坊区块链上建设未来城市的实验，是人类首次以 DAO 的形式拥有一块土地，并且实现了外国人在美国购买和管理土地在法律上的可能性。\n \n近日，CityDAO 地块计划又有了新进展，通过发行 Parcel 0 NFT，向 CityDAO 社区成员开放代表真实地块部分权益的申领计划。\n \n本文将介绍 Parcel 0 NFT 的申领详情，Parcel 0 NFT 和 Citizen NFT 各自对应的权限，以及对于想要在二级市场入手 Parcel 0 NFT 的买家来说尤为重要的「Parcel 0 NFT 代表的具体权益」。\n \n项目背景\n\n\n对于不熟悉 CityDAO 的人来说，这里有必要科普一下这个项目的背景。\n \n2021 年 7 月 1 日，怀俄明州 DAO 有限责任公司（DAOllc）法案生效。根据该法案：「除非组织章程或运营协议中另有规定，否则去中心化自治组织的管理应归属于其成员（如果由成员管理）或智能合约（如果通过算法管理）（第 11 页）。」简单来说，就是怀俄明州承认去中心化自治组织 (DAO) 的合法性，并允许 DAO 成员投票决定组织未来的发展，只要…",
+          "link": "https://www.theblockbeats.info/news/30635",
+          "publishedOn": "2022-05-21T03:09:47.000Z",
+          "wordCount": null,
+          "title": "你知道吗？NFT已经能在美国买地了",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30634",
           "author": null,
           "description": "原文标题：《以太坊上海 Web 3.0 开发者峰会「云端」顺利召开，大神云集共商互联网未来》\n原文来源：以太坊上海 Web 3.0 开发者峰会\n\n\n\n2022 年 5 月 20 日，中国上海——由以太坊上海（ETH Shanghai）筹委会成员（低维科技与 Omniverse）主办，中国生物多样性保护与绿色发展基金会（下简称\"中国绿发会\"）和通商中国协办，并获得以太坊基金会大力支持的以太坊上海 Web 3.0 开发者峰会已于 5 月 20 日在线上成功举办。围绕\"Web3.0 对于未来网络世界格局的影响\"这一主题，峰会邀请了多位国内外政商学界重磅嘉宾，中华人民共和国科学技术部前秘书长、国际欧亚科学院院士张景安先生，中国绿发会副理事长兼秘书长周晋峰博士，前美国驻华大使特里·布兰斯塔德先生（Terry Branstad），以太坊联合创始人维塔利克·布特林先生（Vitalik Buterin），通商中国总裁陈佩玲女士，ConsenSys 创始人约瑟夫·卢宾（Joseph Lubin）先生，Mask Network 创始人阎晗先生以及纯白矩阵首席执行官、ChainIDE 创始人吴啸先生等专业人士在会上发表了深切主题的洞察演讲，得到了观众们的热烈反馈。\n\n\n20 日上午 9 时，峰会正式拉开帷幕。本次峰会时逢特殊时刻，通过线上直播平台与海内外开发者交流互动，参与热度持续发酵。时长一整天的峰会内容丰富，精彩不断。\n\n\n中华人民共和国科学技术部前秘书长、国际欧亚科学院院士张景安先生在峰会上为当天的行业闭门研讨会发表了开幕致辞。张景安先生在发言中表示：「互联网在中国经历了从低到高，从小到大这样一个上升的技术发展历程。政府在『十四五』发展规划以及各项政策方面也在强调鼓励科技创新，为推进中国互联网进步打下了坚实的环境基础。我们相信，新一代 Web 3.0 互联网技术在中国的未来发展空间是很大的…",
@@ -113,26 +123,6 @@
           "publishedOn": "2022-05-19T03:00:06.000Z",
           "wordCount": null,
           "title": "对话KNN3：Web3也需要有用的算法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30611",
-          "author": null,
-          "description": "原文来源：DoraHacks\n\n\n\n新加坡时间，2022 年 5 月 18 日—去中心化全球极客组织和全球领先的 Web3 开发者激励平台 DoraHacks 宣布，完成了 2000 万美金的 B1 轮融资。本轮融资由 FTX Ventures 和 Liberty City Ventures 联合领投，Circle Ventures, Gemini Frontier Fund, Sky9 Capital, Crypto.com Capital, Amber Group 等跟投。\n\n\nDoraHacks 去年宣布获得来自 Binance Labs 的 800 万美金战略投资，以及 Dora Factory 超过 2000 万美金的融资。Dora Factory 是由 DoraHacks 孵化的「DAO 即服务」去中心化治理基础设施。本轮融资后，包括 DoraHacks 和 Dora Factory 在内的 Dora 生态核心基础设施在过去 18 个月的总融资额度超过 5000 万美金（但不包括 Dora Grant DAO 和 Dora Ventures 等 Dora 生态去中心化组织）。\n\n\nDoraHacks 因为通过全球黑客松不断推进开源运动和极客运动的发展而广为人知，并支持了很多世界一流的 Web3 初创项目。截至目前，有超过 2000 个初创公司和开发者团队在 DoraHacks 平台上获得了超过 2500 万美金资助。\n\n\n包括 Solana，Polygon，Avalanche 在内的 40+ Web3 生态将 DoraHacks 视为黑客松和社区资助项目的核心基础设施，通过与 DoraHacks 合作来接触全球开发者和社区。\n\n\nDoraHacks 一直在推动资助技术和去中心化治理基础设施方面的关键研究工作。在向多链生态和社区推出了二次方投票和去中心化资助后，D…",
-          "link": "https://www.theblockbeats.info/news/30611",
-          "publishedOn": "2022-05-18T14:38:21.000Z",
-          "wordCount": null,
-          "title": "DoraHacks已完成2000万美金的B1轮融资，FTX Ventures 和 Libterty City Ventures联合领投",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30605",
-          "author": null,
-          "description": "原文标题：《\n\nForesight Ventures：熊市，回归范式变革的公式寻找投资机会\n\n》\n原文作者：Forest, Foresight Ventures Co-Founder\n\n\n范式变革的公式\n\n\n范式变革发生的公式在 1769 年第一次工业革命发生后两百多年不断被验证，蒸汽机，交流电，互联网以及比特币。\n\n\n\n\n\n范式变革发生的公式在 1769 年第一次工业革命发生后两百多年不断被验证，蒸汽机，交流电，互联网以及比特币。\n\n\n需求和技术不能独自成功\n\n\n1.5 万亿美金市值的 Amazon，最早是线上售卖图书的公司，Bezos 发现图书市场巨大，但集中度很低，中间商抽成和实体店铺成本很高。\n\n\n这里用户的需求是：1. 更低的价格；2.  更多的书目；3、更快地检索书目。\n\n\n而技术是如何匹配这些需求的：1. 互联网商业不需要实体店铺成本，且承担更少的人工成本；2. 相比实体书店有限的面积，互联网的存储空间几乎是无限的；3、电子检索无限缩短了寻找书目的时间。\n\n\n\n\n\n世界上最大的独角兽字节跳动，其子公司 Tiktok 的收入已经超过了 Twitter 和 Snap 的总和。创始人张一鸣的初衷是用算法将内容推送给用户，他尝试了漫画，笑话，新闻和短视频等内容，均取得了不同程度的成功，其中短视频 app 开创了一个新的互联网时代。\n\n\n这里用户的需求是：1. 多样化的内容；2. 承载更多信息的内容；3. 符合其喜好的内容；4. 基于喜好的社交关系。\n\n\n在张一鸣初次融资的时候并未获得很多 VC 的认可，沈南鹏采访中讲述主要原因有两点：1. 基于算法的内容推荐模式之前没有成功过。2. 其他巨头也在做同样的尝试。\n\n\n字节跳动的成功离不开技术的支持：1. 张一鸣开发出了更加符合用户需求的算法。2. 4G 带来更快的网络体验使得在线观看短视频成为可能。3. 短视频承载了比文…",
-          "link": "https://www.theblockbeats.info/news/30605",
-          "publishedOn": "2022-05-18T14:38:21.000Z",
-          "wordCount": null,
-          "title": "Foresight Ventures：熊市，回归范式变革的公式寻找投资机会",
           "imageUrl": null
         }
       ]
