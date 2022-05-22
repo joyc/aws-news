@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-22T00:38:47.998Z</updated>
+    <updated>2022-05-22T06:09:49.561Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -500,52 +500,6 @@ V 神：以太坊生态过于专注金融应用，需开发更多其他领域应
 
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探讨DID的想象空间：Web3.0和元宇宙不可或缺的一环]]></title>
-        <id>https://www.theblockbeats.info/news/30616</id>
-        <link href="https://www.theblockbeats.info/news/30616"/>
-        <updated>2022-05-19T15:06:29.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-DID，web3.0 最重要的一块拼图
-
-》
-原文作者：
-
-阿空，星空价值投资
-
-
-有时候看得太远似乎不太好。
-
-
-对于投资而言，强调看得更远并没有错，但可能也要兼顾一下现状。不然极容易进入到「眼高手低」的困境当中，就好像跟哲学一样。之前听很多新闻说有人学哲学，学到德里达，学到鲍德里亚，就陷入了虚无主义，觉得人都是走向死亡，做任何事情还有什么意义呢？
-
-
-投资也有点类似，但可能更具象一点。最近看到了 Vitalik 等业内大佬，写了一篇论文叫做《寻找 web3.0 的灵魂》。整个论文的主旨就是针对 web3.0 生态系统的构想，称之为「DeSoc」，什么意思呢？就是围绕 DID 所建立「去中心化社会」。
-
-
-关于 DID 的意义，我在《我看 DeFi:什么才是 2.0？》提过，在跟传统 VC 的分享会上也提到过。但这只是对一部分人来说比较重要。比如创业者，他们看到 DID 作为 web3.0 关键拼图，可以去创业；又比如 VC 机构，他们可以去孵化更多做 DID 的项目，做赛道布局。
-
-
-但是对于个人投资，甚至包括我，其实除了关注赛道的发展，能做的也不是太多，因为太早期了，没有好的投资标的（说到底因为资金体量和精力都有限）。其实不单单是 DID，包括 DAO 也是一样的，看到的东西很多，能做的事情又很少-----说白了就是看到了趋势，又很难找到赚钱的机会。
-
-
-我也一直在思考，直到今天社群的几个朋友在关于空投、did 展开了一些讨论，我意识到，抵抗哲学带来的虚无主义影响需要的是用「体会生活的存在感」来对冲，而对于投资来说，过于前瞻的思路也要去用沉浸式感知行业的方式，来找到适合我们自己的破局点。
-
-
-今天就聊一聊关于 DID 的一些思考；
-
-
-1）为什么我说 DID 是 web3.0 最重要的一块拼图；
-
-
-2）在发现这种未曾到来的趋势时，我们该做些什么。
-
-…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
