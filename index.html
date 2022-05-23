@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-23 datetime="2022-05-23T08:57:18.000Z">2022-05-23</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-23 datetime="2022-05-23T08:57:18.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-23 datetime="2022-05-23T14:04:32.000Z">2022-05-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-23 datetime="2022-05-23T14:04:32.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,147 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/30643"
+                        open
+                      >
+                        <summary class="article-expander__title">Solidity极简入门 | 第一讲：HelloWeb3 (三行代码)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/30643">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《
+
+Solidity 极简入门:1. HelloWeb3 (三行代码)
+
+》
+
+
+
+
+原文来源：0xAA  
+
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码开源在：github: github.com/AmazingAng/WTFSolidity
+
+
+Solidity 简述
+
+
+Solidity 是以太坊虚拟机（EVM）智能合约的语言。同时，我也觉得 solidity 是玩链上项目必备的技能：区块链项目大部分是开源的，如果你能读懂代码，能帮你规避很多亏钱项目。
+
+
+Solidity 具有两个特点：
+
+
+- 基于对象：学会之后，能帮你挣钱找对象。
+- 高级：不会 solidity，在币圈显得很 low。
+
+
+开发工具：remix
+
+
+本教程中，我会用 remix 来跑 solidity 合约。remix 是以太坊官方推荐的智能合约开发 IDE，适合新手，可以在浏览器中快速部署测试智能合约，你不需要在本地安装任何程序。
+
+
+网址：remix.ethereum.org
+
+
+
+
+
+
+进入 remix，我们可以看到最左边的菜单有三个按钮，分别对应文件（写代码的地方），编译（跑代码），部署（部署到链上）。我们点新建（Create New File）按钮，就可以创建一个空白的 solidity 合约。
+
+
+
+  remix 面板
+
+
+第一个 Solidity 程序：
+
+
+很简单，只有 1 行注释+3 行代码：  
+
+
+
+
+
+我们拆开分析，学习 solidity 代码源文件的结构：
+
+
+1. 第 1 行是注释，会写一下这个代码所用的软件许可（license），这里用的是 MIT license。如果不写许可，编译时会警告（warning），但程序可以运行。solidity 的注释由「//」开头，后面跟注释的内容（不会被程序运行）。
+
+
+
+
+
+  2. 第 2 行声明源文件所用的 solidity 版本，因为不同版本语法有差别。
+
+
+
+
+
+这行代码意思是源文件将不允许低于 0.8.4 版本的编译器编译。
+
+
+3. 第 3-4 行是合约部分，第 3 行创建合约（contract），并声明合约的名字 HelloWeb3。第 4 行是合约的内容，我们声明了一个 string（字符串）变量_string，并给他赋值「Hello Web3!」。  
+
+
+
+
+
+以后我们会更细的介绍 solidity 中的变量。
+
+
+编译并部署代码
+
+
+在编辑代码的页面，按 ctrl+S 就可以编译代码，非常方便。
+
+
+编译好之后，点击左侧菜单的「部署」按钮，进入部署页面。
+
+
+
+
+
+在默认情况下，remix 会用 JS 虚拟机来模拟以太坊链，运行智能合约，类似在浏览器里跑一条测试链。并且 remix 会分配几个测试账户给你，每个里面有 100 ETH（测试 Token），可劲儿用。你点 Deploy（黄色按钮），就可以部署咱们写好的合约了。
+
+
+
+
+
+部署成功后，你会在下面看到名为 HELLOWEB3 的合约，点击_string，就能看到我们代码中写的「Hello Web3!」了。
+
+
+总结
+
+
+第一讲，我们简单介绍了 solidity，remix 工具，并完成了第一个 solidity 程序--HelloWeb3。接下来我们会介绍 solidity 的各种变量类型。
+中文 solidity 资料推荐：
+
+
+Solidity 中文文档（官方文档的中文翻译）：https://solidity-cn.readthedocs.io/zh/develop/introduction-to-smart-contracts.html
+
+
+崔棉大师 solidity 教程（web3 技术教学博主，我看他视频学到了很多）：  https://space.bilibili.com/286084162
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -473,88 +614,6 @@ Web3 的关键在于变得更加独立和自主。这是通过区块链和分布
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/30633"
-                        open
-                      >
-                        <summary class="article-expander__title">ETH还是Solana的NFT：鸡生蛋的问题</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/30633">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Meets Okay Bears》
-
-原文作者：Mr.Fox
-
-文章编译：0x21，律动 BlockBeats
-
-
-NFT 市场经过过去半个月的持续震荡之后，重新回归于平静，ETH 链上的 NFT 项目迎来了整个周中的寒冬，相比之下，作为最大的 NFT 交易平台 Opensea 支持了 Solana 链上 NFT 的交易，让更多独特的项目走入大部分人的目光，长期「霸榜」的 YugaLas 在近一周的交易量中也败下阵来，以 Okay Bear 为首的 SolanaNFT 开始崛起，甚至是 Okay Bear 的仿盘们都开始频繁登顶，各大社交媒体对于这个现象呈现出褒贬不一态度。Real Vision 的 NFT 专栏作者 Mr.Fox，总结了过去一周 NFT 市场动态，并且对 Okay Bear 所带来的「新风向」进行了深度的分析与反思。律动 BlockBeats 将原文翻译如下：
-
-
-回顾
-
-
-简单来说，在过去的 7 天里，NFT 市场开始从上周遭受的混乱中，逐渐重建。目前看来，虽然进展比较缓慢，但是这并不意味一切开始停滞不前。回顾过去一周的种种迹象，我们把这些信息拆解来做一次分析。
-
-
-在过去的一周里，我们看到整体 NFT 市场处于横盘的状态，但是仍然有一些 NFT 的地板价有所上升，让我们看看下面的截图。
-
-
-
-
-
-
-
-但是本周一些 NFT 的情况变得更糟了，特别是在 Fidenzas, Ringers, 和 Azukis 这些项目地板价有了明显的下降。
-
-
-对于 Fidenzas 和 Ringers 来说，这些损失是从上周两个项目经历的大规模上涨后的回调，同时也因为其他 NFT 迎来下跌的原因。许多人认为，随着人们对 NFT 市场大熊市的担忧加剧，投资者正在把他们的 ETH 从投机性的头像类 NFT 转向到如数字艺术品类等更长期的 NFT 中；因此 Fide…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/30635"
-                        open
-                      >
-                        <summary class="article-expander__title">你知道吗？NFT已经能在美国买地了</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/30635">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2021 年 11 月 2 日，去中心化自治组织 CityDAO 在推特上发布了一则视频宣告对美国怀俄明州一处地皮的所有权，并将一面旗帜插在上面。
-
-
-
-
-
-这是一块 40 英亩的地皮，位于蒙大拿州边界以南，黄石国家公园以东，地处怀俄明州西北部肖肖尼国家森林（Shoshone National Forest），离 Kanye West 的牧场只有几英里。
- 
-显然，这里既算不上是四通八达的交通枢纽，也没有丰富的自然资源。它仅有一口水井，地形多岩石，距离机场大约 45 分钟路程。
- 
-正如 CityDAO 一再强调的，这只是一个「概念验证」的实验项目，但不可否认的是，它意义重大，尤其是对加密行业来说，因为它是一次在以太坊区块链上建设未来城市的实验，是人类首次以 DAO 的形式拥有一块土地，并且实现了外国人在美国购买和管理土地在法律上的可能性。
- 
-近日，CityDAO 地块计划又有了新进展，通过发行 Parcel 0 NFT，向 CityDAO 社区成员开放代表真实地块部分权益的申领计划。
- 
-本文将介绍 Parcel 0 NFT 的申领详情，Parcel 0 NFT 和 Citizen NFT 各自对应的权限，以及对于想要在二级市场入手 Parcel 0 NFT 的买家来说尤为重要的「Parcel 0 NFT 代表的具体权益」。
- 
-项目背景
-
-
-对于不熟悉 CityDAO 的人来说，这里有必要科普一下这个项目的背景。
- 
-2021 年 7 月 1 日，怀俄明州 DAO 有限责任公司（DAOllc）法案生效。根据该法案：「除非组织章程或运营协议中另有规定，否则去中心化自治组织的管理应归属于其成员（如果由成员管理）或智能合约（如果通过算法管理）（第 11 页）。」简单来说，就是怀俄明州承认去中心化自治组织 (DAO) 的合法性，并允许 DAO 成员投票决定组织未来的发展，只要…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -562,8 +621,8 @@ NFT 市场经过过去半个月的持续震荡之后，重新回归于平静，E
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2371184689">
-        <time id="build-timestamp" datetime="2022-05-23T12:15:28.587Z">2022-05-23T12:15:28.587Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2373117227">
+        <time id="build-timestamp" datetime="2022-05-23T18:10:21.645Z">2022-05-23T18:10:21.645Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
