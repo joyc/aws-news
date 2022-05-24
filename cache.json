@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30652",
+          "author": null,
+          "description": "原文标题：《\n\nSolidity 极简入门:2. 数值类型\n\n》\n\n\n\n\n原文来源：0xAA  \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在 github：github.com/AmazingAng/WTFSolidity\n\n\nSolidity 中的变量类型数值类型 (Value Type)：包括布尔型，整数型等等，这类变量赋值时候直接传递数值。引用类型 (Reference Type)：包括数组和结构体，这类变量占空间大，赋值时候直接传递地址（类似指针）。映射类型 (Mapping Type): Solidity 里的哈希表。函数类型 (Function Type)：Solidity 文档里把函数归到数值类型，但我觉得他跟其他类型差别很大，所以单独分一类。\n\n\n我们只介绍一些常用的类型，不常用的不讲。这篇介绍数值类型，第 3 讲介绍函数类型，第 4 讲介绍引用和映射。\n\n\n数值类型 1. 布尔型\n\n\n布尔型是二值变量，取值为 true 或 false。\n\n\n\n\n\n布尔值的运算符，包括：\n\n\n!（逻辑非）\n&&（逻辑与，\"and\"）\n||（逻辑或，\"or\"）\n==（等于）\n!=（不等于）\n\n\n代码：\n\n\n\n\n\n上面的代码中：变量_bool 的取值是 true；_bool1 是_bool 的非，为 false；_bool && _bool1 为 false；_bool || _bool1 为 true；_bool == _bool1 为 false；_bool != _bool1 为 true。\n\n\n2. 整型\n\n\n整型是 solidity 中的整数，最常用的包括\n\n\n\n\n\n常用的整型运算符包括：\n\n\n比较运算符（返回布尔值）： <=， <， ==， !=， >=， >\n算数运算符： +， -，一元运算 -， +， *， /， %（取余），**（幂）\n\n\n代码：\n\n\n\n\n\n大家可以跑一下代码，看看这 4 个变量分别是多少。答对奖励个 POAP？\n\n\n3. 地址类型\n\n\n地址类型 (address) 存储一个 20 字节的值（以太坊地址的大小）。地址类型也有成员变量，并作为所有合约的基础。有普通的地址和可以转账 ETH 的地址（payable）。payable 的地址拥有 balance 和 tranfer() 两个成员，方便查询 ETH 余额以及转账。\n\n\n代码\n\n\n\n\n\n下一讲介绍函数的时候，会介绍如何使用地址类型。\n\n\n4. 定长字节数组\n\n\n字节数组 bytes 分两种，一种定长（byte, bytes8, bytes32），另一种不定长。定长的属于数值类型，不定长的是引用类型（之后讲）。\n定长 bytes 可以存一些数据，消耗 gas 比较少。\n\n\n代码：\n\n\n\n\n\nMiniSolidity 变量以字节的方式存储进变量_byte32，转换成 16 进制为：0x4d696e69536f6c69646974790000000000000000000000000000000000000000\n\n\n_byte 变量存储_byte32 的第一个字节，为 0x4d。\n\n\n5. 枚举 enum\n\n\n枚举（enum）是 solidity 中用户定义的数据类型。它主要用于为 uint 分配名称，是程序易于阅读和维护。它与 C 语言中的 enum 类似，把名称从 0 开始 uint 表示：\n\n\n\n\n\n  它可以显式的和 uint 相互转换，并会检查转换的正整数是否在枚举的长度内，不然会报错：\n\n\n\n\n\n\n\nenum 的一个比较冷门的变量，几乎没什么人用。\n\n\n总结\n\n\n\n\n\n\n\n在第二讲，我们介绍了 solidity 中 4 种变量类型，并详细介绍了数值变量（value type) 中的布尔型，整型，地址，定长字节数组和枚举。之后我们会介绍其他几种类型。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30652",
+          "publishedOn": "2022-05-24T14:34:27.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门 | 第二讲：数值类型",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30650",
           "author": null,
           "description": "原文作者：0x711、Bob, 律动 BlockBeats  \n\n\nHop Protocol 最近的骚操作实在吸睛。交互项目获得空投是行业默认玩法，不管如何交互，或多或少都可以获得奖励，但 Hop Protocol 开创了一个新玩法：举报 to Earn。\n\n\n在 5 月 6 日，跨链桥 Hop Protocol 官方公布空投细则之后表示，在最初符合空投条件的 43,058 个地址中，已有 10,253 个已被认定为女巫攻击者（指个人试图创建多个帐户身份, 进行欺骗和伪装），并已取消其在本次空投计划中的资格。空投开放领取前，报告 20 个以上关联女巫攻击者地址的用户，将有机会获得 HOP Token 奖励。\n\n\n效仿者接踵而至。5 月 24 日，Optimism 官方表示，社区举报超 1.7 万个刷单地址，超 1400 万枚 OP Token 将重新分配。\n\n\n\n  欧科云链链上大师统计 Optimism 官方 4/28 和 5/24 公布的空投信息\n  \n\nHop 显然很开心，他们还认为空投似乎进入了一个全新的时代。\n\n\n\n\n\n「举报 to Earn」的客观存在使得所有 Web3.0 原住民无法避而不见，普通用户如何才能在撸空投的同时，做到链上没有「把柄」而被举报？\n\n\n律动 BlockBeats 梳理了一些 Hop Protocol 官方公布的确认为女巫攻击的地址，了解项目方眼中女巫攻击者的用户画像与典型攻击行为图鉴，或许可以防止玩家们再次花钱走弯路。\n\n\n实例\n\n\n案例一\n\n\nSybil Attacker Report #3（女巫攻击者报告 #3）：\n\n\n在该用户使用完 HOP 之后，接下来所有 516 个地址的资金在 Arbitrum 上转移至同一地址。\n\n\nSybil Attacker Report · Issue #3\n\n\n案例二\n\n\nSybil Attacker Report #592（女巫攻击者报告 #592）：\n\n\n158 个地址，在 Optimism 和 Arbitrum 上有完全类似的活动，他们在 FTM、GNO 和 Polygon 链上的所有的交易都在一天内完成，并且之后就没有任何交易记录了。行为活跃相似度超 95%，相信它们由同一名女巫攻击者控制。\n\n\nSybil Attacker Report · Issue #592\n\n\n案例三\n\n\nSybil Attacker Report #582（女巫攻击者报告 #582）：  \n\n\n\n\n所有符合空投条件的地址节点 Hop 交易的时间戳，被基于著名的 Union-Find 图形算法（并查集算法）所捕获，对 Hop Explorer 实施逆向工程并使用 Covalent 的 API，来全自动审核每个关联地址是否存在关联并达到女巫攻击者标准。\n\n\nSybil Attacker Report · Issue #582  \n\n\n特征梳理\n\n\n女巫地址的判定主要依据以下几点：\n\n\n1、多个地址有统一的资金分发或归集地址，证明是一个女巫攻击者发起，如：\n\n\n\n\n\n图源：\n\nSybil Attacker Report #275\n\n\n2、多个地址在转账记录上有明显的关联性，如：\n\n\n\n\n\n\n\n图源：\n\nSybil Attacker Report #367\n\n\n3、女巫攻击在多处有批量操作痕迹，包括但不限于：短时间内批量转账、gas value 相同、交互金额相似等。\n\n\n4、女巫地址交互历史有往期其他项目的攻击记录，如有的地址为获取 Project Galaxy 项目奖励，曾在 OpenSea 上创建雷同的收藏集，并进行刷单交易。\n\n\n5、用户通过社交网络自曝攻击行为。\n\n\n可行的对策\n\n\n1、通过混币平台等方法尽可能掩盖钱包间的转账关系。\n\n\n2、女巫攻击的行为应尽可能「随机化」，集中式的批量操作已经成为赏金猎人的头号捕猎目标。\n\n\n3、针对不同项目采用不同的钱包地址，最好做一个项目新设一批钱包地址。\n\n\n4、做精少数账户，目前社区举报多以十个地址为女巫攻击的下限。\n\n\n5、低调，你懂的。\n\n\n所谓魔高一尺，道高一丈。Hop 和 Optimism 此次空投正式宣告女巫攻击与赏金猎人的长期较量已经拉开。这种博弈注定是长期且充满变数的。本文在此对女巫攻击和赏金猎人不做道德评价，但仍提倡鼓励用户真实、单纯的去与项目做交互，多了解项目和社区，为社区做有意义的贡献或许会收到更大的回报。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -103,26 +113,6 @@
           "publishedOn": "2022-05-22T07:52:28.000Z",
           "wordCount": null,
           "title": "Music Infinity探索Web3.0下的音乐新形式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30638",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n《ETH 还是 Solana 的 NFT：鸡生蛋的问题》\n\n\nNFT 市场经过过去半个月的持续震荡之后，重新回归于平静，ETH 链上的 NFT 项目迎来了整个周中的寒冬，相比之下，作为最大的 NFT 交易平台 Opensea 支持了 Solana 链上 NFT 的交易，让更多独特的项目走入大部分人的目光。以 Okay Bear 为首的 SolanaNFT 开始崛起，各大社交媒体对于这个现象呈现出褒贬不一态度。Real Vision 的 NFT 专栏作者 Mr.Fox，总结了过去一周 NFT 市场动态，并且对 Okay Bear 所带来的「新风向」进行了深度的分析与反思。\n\n\n \n\n《V 神：我一直在思考的矛盾》\n\n\n \n\n「我渴望看到以太坊成为一个更像比特币的系统，重视长期的稳定性，包括文化上的稳定，但我意识到实现这一目标，需要大量积极协调的短期变化，这两者之间存在矛盾。」本文梳理自 V 神在个人社交媒体平台上的观点，以太坊和加密的发展中，V 神存在怎样无法解决的矛盾？\n\n\n \n\n《格局动荡，找到周期和结构的规律》\n\n\n \n\n我们现在处于一个异常复杂的世界，面临着二战以来最严峻的供应冲击，再加上全球疫情的扩散，我们不禁想知道未来会不会出现经济衰退。本文中，Real Vision 的 CEO 和联合创始人 Raoul Pal 将借助大量的信息和图表与大家分享看法。\n\n\n \n\n《熊市中，红杉合伙人给加密创始人的 10 条建议》\n\n\n \n\n熊市是扩大优势和巩固市场领导者地位的良机，但你需要生存下来才能抓住这个机会。首先，我们得拥抱现实，现…",
-          "link": "https://www.theblockbeats.info/news/30638",
-          "publishedOn": "2022-05-22T05:52:28.000Z",
-          "wordCount": null,
-          "title": "周末荐读：ETH还是Solana的NFT；熊市中的一些建议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30637",
-          "author": null,
-          "description": "原文标题：《Analysing Data In Web3 with SQL》  \n原文作者：GOKE ADEKUNLE\n\n\n原文编译：老雅痞\n\n\n本文来自微信公众号：老雅痞\n\n\n你想知道如何在 Web3 中成为一名高效的数据分析师吗？还是，你只想构建一个 Web3 分析仪来对感兴趣的 Web3 数据感进行分析？不管怎样，欢迎你阅读本文。\n\n\n\n作为一个数据人，Web3 数据中最具挑战性的部分是理解数据本身。根据我的经验，有一件事让我觉得很容易，那就是把每个人都看作是一个巨大的数据仓库和以太坊区块链上面的协议，作为仓库中包含多个表和视图的各种模式。PS：这也适用于其他区块链。\n\n\n对于这篇文章，我将努力使事情变得简洁，并使用这些主题突出它们：\n\n\n·Web3 数据流和景观。了解 Web3，去中心化的数据存储。 \n\n\n·用于解码交易数据的工具：与 Web3 数据栈一起的工具概述，以及如何利用它们\n\n\n让我们开始吧!\n\n\nWeb3 的数据流和景观\n\n\nWeb3 的关键在于变得更加独立和自主。这是通过区块链和分布式对等网络而不是服务器-客户端关系来实现的。这使得数据流和格式与我们在 Web2 中习惯的不同。通过研究，我发现了像 Dune Analytics 和 Flipside Crypto 这样的数据映射器，它们具有解码的区块链数据和内置的可视化工具，供对 Web3 感兴趣的数据科学家使用和构建。\n\n\n\n\n图片来源\n\n\n上面的图片显示了从不同的区块链模式中提取数据进行分析的不同方式，在此以以太坊为例。\n\n\n如果你曾经在以太坊（或任何启用智能合约的区块链）上进行过交易，那么你可能已经在区块资源管理器上查找过它，并看到了这种信息：\n\n\n\n\n\n\n通过 Etherscan 区块浏览器看到的以太坊区块链上的交易示例\n\n\n\n学会阅读交易细节将是所有以太坊数据分析和知识的基础，但了解 Toke…",
-          "link": "https://www.theblockbeats.info/news/30637",
-          "publishedOn": "2022-05-22T05:52:28.000Z",
-          "wordCount": null,
-          "title": "如何使用SQL分析Web3中的数据​",
           "imageUrl": null
         }
       ]
