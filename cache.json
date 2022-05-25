@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30659",
+          "author": null,
+          "description": "原文标题：《\n\nForesight Ventures: 解读 zk, zkVM, zkEVM 及其未来\n\n》\n原文作者：Suning Yao @ Foresight Ventures\n\n\nTL; DR\n\n\n零知识证明技术, 可以保证计算的完整性、正确性和隐私, 在区块链扩容和隐私中有应用.\n\n\nzk-SNARK 和 zk-STARK 各有优点, 而它们的合理结合更加有潜力.\n\n\nzkVM 能赋予应用零知识证明能力, zkVM 分为使用主流、EVM 或全新指令集.\n\n\nEVM 的适配包括 EVM 兼容性、等同性和 Specification 上的适配.\n\n\nzkEVM 是兼容 EVM 而又零知识证明友好的环境, 主要分为原生和编译流派.\n\n\n基于原生的 zkEVM 是以太坊和区块链的未来.\n\n\n支持 Solidity 生态的通用 zkVM 是 Web3 的未来.\n\n\n0. 零知识证明\n\n\n不严谨但简单易懂地来介绍一下零知识证明:\n\n\n你在上小学. 老师是验证者, 你作为学生是证明者. 你如何证明你掌握了一元二次方程的求解公式呢? 那就需要数学考试.\n\n\n老师会随机出 10 道相关的题目, 而你如果掌握了, 则可以把他们都做出来. 在这个过程中, 你没有背诵或者默写求解公式的具体内容, 但是老师却可以很简单地验证你的知识掌握程度.\n\n\n\n\n\n其实这就是 Tartaglia 与 Cardano (对的, 就是这个名字) 争夺谁是一元三次方程发现者时所采用的方法. 他们都不想告诉对方自己公式的内容, 但是通过做题, 就可以很容易地验证且过程中不透露知识地, 判断他们是否掌握了这一知识.  \n\n\n零知识证明有什么用呢? 用处就是, 整个过程可以节省计算算力和压缩链上空间, 同时也可以对隐私有保护, 符合区块链去信任的特点以及密码学的基因.\n\n\n1. SNARK 和 STARK\n\n\n区…",
+          "link": "https://www.theblockbeats.info/news/30659",
+          "publishedOn": "2022-05-25T10:27:22.000Z",
+          "wordCount": null,
+          "title": "Foresight Ventures：解读zk、zkVM、zkEVM及其未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30657",
+          "author": null,
+          "description": "撰文：Crescent，律动 BlockBeats\n\n\n当下各种应用程序 App 已经深深融入人们的生活，人们在不同电子设备上使用起来得心应手。不过这些应用的背后到底是如何运行，并不为大多数人所知。要知道，创建者要想确保自己的应用程序 App 正常工作，那就需要购买和维护隐藏在其背后的云基础架构。\n\n\n \n\n就服务器而言，开发好 App 后，需将数据部署到服务器，通常通过 AWS、Azure、Oracle 等公司购买，且在一般情况下，公司为安全着想，都会额外购买一些容量，这些容量常处于空闲状态，如此一来增加了高昂的运营成本。与此相同，个人购买电脑后，电脑中的 CPU 以及显卡资源也并不会被充分利用，据 Gartner 调研发现全球数据中心服务器 CPU 利用率只有 6%～12%，这意味着在全球闲置或未完全使用的计算机中存在大量未开发的 CPU 算力，致使这些空闲的资源产生了严重的浪费。\n\n\n \n\n那么如何解决这个问题呢？能否把闲置的资源进行调度，让它能够充分发挥自身价值？\n\n\n \n\nCPUcoin 在解决的就是此类问题，它构建了一个 IaaS（基础架构即服务）解决方案，通过为未使用的 CPU/GPU 功率创建新的共享经济，在大幅降低服务器托管成本的同时还可使矿工利用闲置的 CPU/GPU 资源产生盈利。使普通用户也可轻松利用自己的服务器、PC 或移动设备增加收入。\n\n\n \n\n项目详解\n\n\n \n\nCPUcoin 在构建一个「计算全球网络」CGN，CGN 将全球尚未开发的 CPU 资源汇集到一起形成一个可扩展且全天候运行的庞大的计算网络，实现各个平台之间的计算资源共享。CGN 可提供分散式服务器应用程序 DService，DService 作为一个服务器组件，是为在 CGN 环境中运行而开发的服务器软件单元，执行 API 发出的请求。\n\n\n \n\nCGN 用于提供驱动 DApp …",
+          "link": "https://www.theblockbeats.info/news/30657",
+          "publishedOn": "2022-05-25T07:54:22.000Z",
+          "wordCount": null,
+          "title": "CPUcoin：高效利用原被浪费的CPU资源 ｜ 项目介绍",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30658",
           "author": null,
           "description": "原文作者：《BrightID 的验证和使用 FAQ》\n原文作者：superalloy.eth\n\n\n\n写在开头，利益相关，本人是 BrightID 中文区的官方验证官之一，写这篇文章的目的也是为了减轻自己的工作量，因为 DISCORD 社群每天好多重复的问题来来回回，也很头疼。所以这里将常见问题梳理了一下，并尽量保持简单。为了节省彼此时间，只讲干货。\n\n\nQ1: BrightID 是什么？\n\n\nA1：BrightID 是一个去中心化的身份网，用于帮助各个项目方确认用户只使用一个帐户。Brightid 确保每个帐户都是独一无二的，并且是由人工创建的。\n\n\nQ2：怎么使用 BrightID？\n\n\nA2：我们现在 brightID 已经有了中文的使用教程，基本操作请查看文档都能找到答案，https://brightid.gitbook.io/brightid-zh/，BrightID 使用前需要先获得验证。\n\n\nQ3：怎么获得 Bright 验证，需要准备什么？\n\n\nA3：准备两台设备，一台参加 ZOOM 会议 (手机或电脑)，参加验证会议时需要打开视频，一台安装 BrightID APP，参加认证会议时扫码；\n\n\nBrightID APP 下载地址：https://www.brightid.org/， 链接通向 Applestore，GooglePlay，以及安卓 apk；安装后，正常注册一下用户名/头像，除此之外，什么都不需要做。\n\n\nQ4：怎么参加 BrightID 的验证会议？\n\n\nA4：会议地点是 ZOOM，周一至周六，北京时间每天晚上 5/9/11 点三场，https://meet.brightid.org/#/，从上述网站查看场次和时间安排，进入会议；zoom 可以不用下载，用浏览器就可以进去。\n\n\nQ5：参加验证会议是否需要预约？\n\n\nA5: 不需要预约。一般情况下…",
