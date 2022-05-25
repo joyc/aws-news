@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30658",
+          "author": null,
+          "description": "原文作者：《BrightID 的验证和使用 FAQ》\n原文作者：superalloy.eth\n\n\n\n写在开头，利益相关，本人是 BrightID 中文区的官方验证官之一，写这篇文章的目的也是为了减轻自己的工作量，因为 DISCORD 社群每天好多重复的问题来来回回，也很头疼。所以这里将常见问题梳理了一下，并尽量保持简单。为了节省彼此时间，只讲干货。\n\n\nQ1: BrightID 是什么？\n\n\nA1：BrightID 是一个去中心化的身份网，用于帮助各个项目方确认用户只使用一个帐户。Brightid 确保每个帐户都是独一无二的，并且是由人工创建的。\n\n\nQ2：怎么使用 BrightID？\n\n\nA2：我们现在 brightID 已经有了中文的使用教程，基本操作请查看文档都能找到答案，https://brightid.gitbook.io/brightid-zh/，BrightID 使用前需要先获得验证。\n\n\nQ3：怎么获得 Bright 验证，需要准备什么？\n\n\nA3：准备两台设备，一台参加 ZOOM 会议 (手机或电脑)，参加验证会议时需要打开视频，一台安装 BrightID APP，参加认证会议时扫码；\n\n\nBrightID APP 下载地址：https://www.brightid.org/， 链接通向 Applestore，GooglePlay，以及安卓 apk；安装后，正常注册一下用户名/头像，除此之外，什么都不需要做。\n\n\nQ4：怎么参加 BrightID 的验证会议？\n\n\nA4：会议地点是 ZOOM，周一至周六，北京时间每天晚上 5/9/11 点三场，https://meet.brightid.org/#/，从上述网站查看场次和时间安排，进入会议；zoom 可以不用下载，用浏览器就可以进去。\n\n\nQ5：参加验证会议是否需要预约？\n\n\nA5: 不需要预约。一般情况下…",
+          "link": "https://www.theblockbeats.info/news/30658",
+          "publishedOn": "2022-05-25T04:37:10.000Z",
+          "wordCount": null,
+          "title": "BrightID的使用教程与验证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30656",
+          "author": null,
+          "description": "撰文：0xLaughing，律动 BlockBeats\n\n\n「SOL Community > ETH Community.」\n\n\nOrangie 发了这样一条推文。Orangie 是 Twitter 上的一个拥有超过 160k 粉丝的 NFT KOL，虽然他现在仍然用 MAYC 作为头像，但很明显他已经把目光转向了 Solana NFT。随着 Okay Bears 的爆火，越来越多的 NFT 玩家注意到了 Solana 这条公链。\n\n\n\n\n\n\nSolana NFT 在 OpenSea 上崭露头角\n\n\n\nNFT 市场里，Solana 的支持者历来以「交易速度快」、「几乎没有手续费」、「低门槛」等优点来宣传布道。但与此同时，对 Solana NFT 的批评也有很多：「到处都是 rug pulls」、「经常宕机」、「不像以太坊那样去中心化」等等，甚至嘲笑它是那些支付不起 Gas 的 NFT 玩家退而求其次选择的「穷人区块链」。\n\n\n所以真实的 Solana NFT 市场是什么样的呢？本文将从近几个月以来 NFT 市场的变化着手，通过与 Ethereum NFT 市场的对比来探讨 Solana NFT 市场的潜力与前景。\n\n\nNFT 市场：「悬崖已现」\n\n\nNFT 的热度从 2020 年开始一路飙升，从 Cryptopunk、BAYC 出现，到 Doodles、Azuki、Moonbirds 等 PFP NFT 项目层出不穷，同时有内马尔、周杰伦、埃米纳姆等众多明星入圈让 NFT 逐步进入大众视野并以极快的速度为人们所熟知。\n\n\nNFT 项目方们也尝试着从多个方面进行创新。从最开始的创造社交场景的头像 NFT 项目，不同的画风迎合不同的投资者的喜好；到后来的 Pass NFT，提供分析工具权益或是 Alpha 社区权益；发行代币、打造 IP、持续创造收益的「铲子」等各种新玩法不断被…",
+          "link": "https://www.theblockbeats.info/news/30656",
+          "publishedOn": "2022-05-25T03:47:10.000Z",
+          "wordCount": null,
+          "title": "Solana上的NFT，红海中的「下沉市场」",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30652",
           "author": null,
           "description": "原文标题：《\n\nSolidity 极简入门:2. 数值类型\n\n》\n\n\n\n\n原文来源：0xAA  \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在 github：github.com/AmazingAng/WTFSolidity\n\n\nSolidity 中的变量类型数值类型 (Value Type)：包括布尔型，整数型等等，这类变量赋值时候直接传递数值。引用类型 (Reference Type)：包括数组和结构体，这类变量占空间大，赋值时候直接传递地址（类似指针）。映射类型 (Mapping Type): Solidity 里的哈希表。函数类型 (Function Type)：Solidity 文档里把函数归到数值类型，但我觉得他跟其他类型差别很大，所以单独分一类。\n\n\n我们只介绍一些常用的类型，不常用的不讲。这篇介绍数值类型，第 3 讲介绍函数类型，第 4 讲介绍引用和映射。\n\n\n数值类型 1. 布尔型\n\n\n布尔型是二值变量，取值为 true 或 false。\n\n\n\n\n\n布尔值的运算符，包括：\n\n\n!（逻辑非）\n&&（逻辑与，\"and\"）\n||（逻辑或，\"or\"）\n==（等于）\n!=（不等于）\n\n\n代码：\n\n\n\n\n\n上面的代码中：变量_bool 的取值是 true；_bool1 是_bool 的非，为 false；_bool && _bool1 为 false；_bool || _bool1 为 true；_bool == _bool1 为 false；_bool != _bool1 为 true。\n\n\n2. 整型\n\n\n整型是 solidity 中的整数，最常用的包括\n\n\n\n\n\n常用的整型运算符包括：\n\n\n比较运算符（返回布尔值）： <=， <， ==， !=， >=， >\n算数运算符： +， -，一元运算 -， +， *， /， %（取余），**（幂）\n\n\n代码：\n\n\n\n\n\n大家可以跑一下代码，看看这 4 个变量分别是多少。答对奖励个 POAP？\n\n\n3. 地址类型\n\n\n地址类型 (address) 存储一个 20 字节的值（以太坊地址的大小）。地址类型也有成员变量，并作为所有合约的基础。有普通的地址和可以转账 ETH 的地址（payable）。payable 的地址拥有 balance 和 tranfer() 两个成员，方便查询 ETH 余额以及转账。\n\n\n代码\n\n\n\n\n\n下一讲介绍函数的时候，会介绍如何使用地址类型。\n\n\n4. 定长字节数组\n\n\n字节数组 bytes 分两种，一种定长（byte, bytes8, bytes32），另一种不定长。定长的属于数值类型，不定长的是引用类型（之后讲）。\n定长 bytes 可以存一些数据，消耗 gas 比较少。\n\n\n代码：\n\n\n\n\n\nMiniSolidity 变量以字节的方式存储进变量_byte32，转换成 16 进制为：0x4d696e69536f6c69646974790000000000000000000000000000000000000000\n\n\n_byte 变量存储_byte32 的第一个字节，为 0x4d。\n\n\n5. 枚举 enum\n\n\n枚举（enum）是 solidity 中用户定义的数据类型。它主要用于为 uint 分配名称，是程序易于阅读和维护。它与 C 语言中的 enum 类似，把名称从 0 开始 uint 表示：\n\n\n\n\n\n  它可以显式的和 uint 相互转换，并会检查转换的正整数是否在枚举的长度内，不然会报错：\n\n\n\n\n\n\n\nenum 的一个比较冷门的变量，几乎没什么人用。\n\n\n总结\n\n\n\n\n\n\n\n在第二讲，我们介绍了 solidity 中 4 种变量类型，并详细介绍了数值变量（value type) 中的布尔型，整型，地址，定长字节数组和枚举。之后我们会介绍其他几种类型。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
