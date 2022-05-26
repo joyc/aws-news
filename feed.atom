@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-25T18:10:21.363Z</updated>
+    <updated>2022-05-26T00:40:59.597Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -918,52 +918,6 @@ Solidity 中文文档（官方文档的中文翻译）：https://solidity-cn.rea
 原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ对于LUNA与UST崩盘事件的七个观点]]></title>
-        <id>https://www.theblockbeats.info/news/30642</id>
-        <link href="https://www.theblockbeats.info/news/30642"/>
-        <updated>2022-05-23T08:57:18.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《CZ 常见问题解答系列八：CZ 对于 LUNA 与 UST 崩盘事件的观点》
-原文来源：Binance 官网
-原文作者：CZ
-
-
-在过去的一周里，UST 与 LUNA 的崩盘影响了整个币圈。事实上，我参加的每一次采访都在一定程度上围绕着这个议题。为了更清楚阐述我对这件事情的想法，在这里我汇整了我的答案，包括我的观点、经验教训、溢出效应、系统性风险、弹性、法规等等。
-
-
-
-UST 与 LUNA 事件是一个令人遗憾的事件，影响了许多人。在 Binance，我们的首要任务始终是保护受影响的用户。可悲的是，目前没有完美无缺的解决方案。社区讨论了许多提案。不幸的是，每个都有其缺点。
-
-
-
-我在社交网站上公开表达了我对这件事的看法，
-
-Binance
-
-支持 Terra 项目团队优先赔付散户交易者。
-
-
-
-这里有很多教训要学习
-
-
-让我们来看看设计缺陷。从理论上讲，当使用不同的资产作为抵押品与一种资产挂钩时，总会有可能出现抵押不足或脱锚的情况。即使超额抵押 10 倍，抵押资产也可能崩盘超过 10 倍。在这个世界上，没有什么是 100% 稳定的。
-
-
-
-最愚蠢的设计缺陷是认为铸造更多资产会增加其总价值（市值）。印钱不创造价值；它只会稀释现有的持有者手上的资产。以指数方式铸造 LUNA 使问题变得更糟。设计这个的人应该检查他们的脑袋。
-
-
-
-另一个根本缺陷是过于激进的激励措施。具体来说，Anchor 以 20% 固定 APY 来推动增长。就基本面而言。确实可以使用激励措施来吸引用户加入的生态系统。但最终，仍需要产生「收入」来维持它，即收入多于支出。否则，将耗尽资本并崩盘。
-
-
-
-然而，在这种情况下，「收入」的概念被混淆了，因为项目团队可能将他们自己的 Token 销售或升值包含在 LUNA 的价值中作为「收入」。这种方法是有缺陷的。人们进来是因为激励，是的，LUNA 的估值上升…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
