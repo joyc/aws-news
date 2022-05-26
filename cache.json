@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30686",
+          "author": null,
+          "description": "原文来源：欧科云链 OKLink\n\n\n以太坊正大踏步拥抱 PoS，虽然距离最终的以太坊主网融合还有许多问题待解决，但虽迟必到。矿工也许是这次 ETH2.0 升级最大的「受害者」，他们将何去何从？\n\n\n一、Merge：矿业的终结\n\n\n以太坊的共识机制正式计划从工作量证明 (POW) 转向权益证明 (POS)，已经走过了 4 年的时间。以太坊信标链 (Beacon Chain) 作为 ETH2.0 路线图的第一步 (Phase 0) 就是要为以太坊网络的共识层引入更加安全、环境更友好的权益证明，并且在与 ETH1.0 融合 (Merge) 后最终取代耗费能源且愈加中心化的工作证明。\n\n\n\n\n\n\n\n\n\nPoW 阶段的以太坊，矿工 (Miner) 通过哈希碰撞争夺记账权，给交易排序。而采用权益证明后的以太坊，人们通过在一条新链 (信标链) 上质押以太坊，随机地成为验证者为网络中的交易排序，从而形成世界状态的共识。在以太坊正式融合后，网络整体的能耗将会减少 99%。\n\n\n\n\n\n\n\n\nETH2.0 总质押数 (ETH)\n\n\n\n目前，ETH2.0 的质押合约中已经拥有超过 126 万个以太坊，占到了流通量的 10.7%。有超过 40 万的地址参与了 PoS 共识层存款，每个地址至少质押 32 枚以太坊。其中，不乏 OKX、Kraken、Coinbase 等中心化交易平台、ETH2.0 质押的流动性协议 Lido 和一些市场深度玩家的大力参与。\n\n\n\n\n\n\n\n\nETH2.0 质押率\n\n\n\n然而，尽管由 PoW 到 PoS 的转换对于行业整体是有益的（尤其是对于环境而言），以太坊不再需要消耗能源来保证网络的安全。但同时也的确标志着这个承载着 70% 以上 Dapp 的第二大 Crypto 生态矿业的终结。\n\n\n二、来自矿工的压力\n\n\n以太坊的融合可能会面临来自矿工两方面带来的压力：算力骤减 …",
+          "link": "https://www.theblockbeats.info/news/30686",
+          "publishedOn": "2022-05-26T14:25:10.000Z",
+          "wordCount": null,
+          "title": "以太坊Merge后矿工将何去何从？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30670",
+          "author": null,
+          "description": "原文标题：《\n\nDAO 的激励机制\n\n》\n原文作者：Marina，W3.Hitchhiker\n\n\n在中文的加密圈子，如果要说最近 DAO 的表现，SeeDAO 的发展和融资情况可圈可点。该 DAO 于 2022 年 1 月底以 3000 万美元估值完成 A 轮融资。在这之前，前身 CryptoC 公司的主要业务重心是放在 NFT 内容的生产和社区搭建上，特别是内容创作者、平台以及资本方的关系上；从公司架构中脱离出来的 SeeDAO 的宗旨是构建 Web3 的创作者经济系统，第一阶段的目标是成为 DAO 的孵化器。\n\n\n虽然 DAO 这个概念在 2013 年就已经出现，但是如果没有深入其中区参与一个 DAO 的话，那么你是不会真正了解一个 DAO 的运作模式的，当然也不会知道 SeeDAO 为什么会以那么高的估值完成融资。但这不是本文要探讨的核心，SeeDAO 在孵化 DAO 的项目上有条不紊的进行着，我们有理由相信未来在中国会诞生更多优秀的 DAO。\n\n\n全球新冠疫情导致越来越多的人「被迫」在家办公，DAO 作为一类灵活的组织开始吸引了更多优秀的贡献者，无论他们是积极的，还是被动参与的。这是一个有趣的趋势，不过这又开始引发我们的思考，DAO 和公司的运作到底有着怎样本质的区别？\n\n\n\n  传统公司和 DAO 的简化对比关系\n  \n传统公司和 DAO 的简化对比关系传统的 Web2 市场，用户创造的价值大部分都已被中心化的大平台所摄取；在 DAO 的框架下，成员可以获取创造价值的一部分；\n\n\n这类获取价值的形式发生转变，带来最直接的结果是成员可以根据每个 DAO 中的治理权来激励做出更好的贡献，从而使整个组织具备更强的生产力；\n\n\n公司服务的是客户，DAO 服务的是社区成员；\n\n\n有一点我们可以明确：DAO 是一群人为了一个共同的目标聚集在一起，不论是 VentureDAO，…",
+          "link": "https://www.theblockbeats.info/news/30670",
+          "publishedOn": "2022-05-26T14:25:10.000Z",
+          "wordCount": null,
+          "title": "深度解析DAO的激励机制",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30668",
           "author": null,
           "description": "不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。\n\n\n我们常说，在熊市中你需要做的只有 Build。那么，该\n\nBuild 什么？去哪 Build？\n\n\n律动 Web3 招聘墙\n\n\n律动希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。\n\n\n\nFTX US\n招聘岗位：BD、合规、工程师等\n工作语言：英文\n联系方式：https://jobs.lever.co/FTXUS\n\n\nBinance US\n\n\n招聘岗位：BD、工程师、市场、数据分析、财务、产品等\n\n\n工作语言：英文/中文\n工作地点：可远程/美国/新加坡/上海 \n\n\n联系方式：https://jobs.lever.co/BAMTradingServices\n\n\nBinance\n招聘岗位：BD、工程师、市场、数据分析、财务、产品等\n工作语言：英文/中文 \n工作地点：可远程/全球\n\n\n联系方式：Binance 首页底部 职业机会\n\n\nMessari \n招聘岗位：工程师、市场、研究员等\n工作语言：英文\n工作地点：可远程/全球 \n联系方式：https://messari.io/careers\n\n\nCoinlist \n招聘岗位：运营、客服、产品、工程师等\n\n\n工作语言：英文\n工作地点：可远程/美国/英国/新加坡\n\n\n联系方式：https://coinlist.co/jobs \n\n\nSolana Labs \n招聘岗位：工程师、投资实习生、动效设计师等\n\n\n工…",
@@ -143,26 +163,6 @@
           "publishedOn": "2022-05-24T08:16:00.000Z",
           "wordCount": null,
           "title": "Messari：进入Flow区块链宇宙",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30647",
-          "author": null,
-          "description": "原文作者：Johns\n\n\nsqueeth 是去中心化期权团队 opyn 发明的一种创新性 defi 衍生品，该产品基于著名投资机构 paradigm 于 21 年 8 月在论文中提出的（乘方永续合约）概念进行构建。\n\n\nSqueeth 是 opyn 的一份合约，用于追踪以太坊价格的平方。squeeth 系统通过将资金支付通常从多头转移到空头来工作。如下图所示：\n\n\n\n\n\n\n\n- 多头支付空头资金\n- 空头支付多头 2* (eth return) + (eth return)²\n- 多头和空头交换隐含波动率\n- 空头从存入的 eth 资金中获得抵押回报\n\n\n多头 squeeth 回报\n\n\n有一种简单的方法可以考虑 squeeth 头寸（如果隐含波动率没有变化）的每日回报。\n\n\nLong squeeth return  2 * (eth return) + (eth return)²-funding\n\n\n如果资金费率为 0.24%（见下文），一天的 eth 回报率为 5%，则回报将（大约）为：\n2 * (5%) + (5%)² -0.24% = 10.01%\n\n\n\n\n\n\n\n空头 squeeth 回报\n\n\nLong squeeth return 与 short squeeth return 相反，增加了 ETH 抵押品的回报。\n\n\nShort squeeth return  -2 * (eth return)—(eth return)²+ funding + CR*(eth return)\n\n\n（其中 CR 是抵押品比率）。如果抵押品比率为 2，则收益为：\n(eth return)² +funding\n\n\n如果资金费率为 0.24%，一天的 eth 收益为 5%，则收益为：\n(5%)² +0.24% = -0.01%\n\n\nSqueeth greeks (squeeks)\n\n\n考虑…",
-          "link": "https://www.theblockbeats.info/news/30647",
-          "publishedOn": "2022-05-24T05:00:56.000Z",
-          "wordCount": null,
-          "title": "Opyn的新型衍生品Squeeth使用教程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30644",
-          "author": null,
-          "description": "原文标题：《\n\n如何做好 DAO 工作？这里都是经验之谈\n\n》\n原文作者：Kyle，元宇宙之道\n\n\n控制共享经济资源和/或协议规则的结构，每个 DAO 的运作方式可能不同。一些 DAO 是私有的，而另一些则开放给任何人加入和贡献。对于某些 DAO，活跃的贡献者可以从 DAO 获得报酬。\n\n\nDAO 一直是我最喜欢花时间在加密领域的空间之一。世界各地的人们聚集在一起以实现共同使命的能力令人兴奋，特别是由于各种任意障碍（例如地点、年龄、兼职、非传统教育/工作经验），同样的一个团体不可能在传统公司下成立时。有关 DAO 潜力的更多信息，请参阅我的 DAO 初学者指南。\n\n\n这篇文章涵盖了我在 DAO 工作中得到的一些主要收获。我的大部分 DAO 工作经验都是作为 Gitcoin DAO 的委托人，但我也参与并观察了许多其他 DAO 项目。没有完美的 DAO 结构，每个 DAO 都有自己的文化，所以适用于一个 DAO 的东西不一定适用于另一个 DAO。以下是我个人的经验和观点，其他人可能有不同的看法。整个领域也在不断地迭代以找出哪些有效，哪些无效。\n\n\n当最初启动一个 DAO 时：\n\n\n- 确立明确的使命。\n\n\n这对于保持多元化和不断发展的社区随着时间的推移保持一致并指导决策至关重要。如果有人带着超出范围的资金提案来到 DAO，那应该很容易去说「不」。如果 DAO 的优先事项不明确，那么让团队专注于完成任务将更具挑战性。\n\n\n- 考虑渐进式权力下放或去中心化。\n\n\n虽然许多 DAO 的意图是完全分散运营和决策制定，但在没有指导或领导的情况下将社区放入 DAO 结构通常会导致缺乏有效的协调。创始团队几乎总是拥有最多的背景信息，并且理想地为 DAO 设定路线，以便随着时间的推移逐步赋予更广泛的社区权力。例如，新成立的 Optimism Collective 有一个工作章程，该章程将 O…",
-          "link": "https://www.theblockbeats.info/news/30644",
-          "publishedOn": "2022-05-24T01:54:56.000Z",
-          "wordCount": null,
-          "title": "从运营、文化的角度思考，如何做好DAO工作？",
           "imageUrl": null
         }
       ]
