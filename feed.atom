@@ -2,10 +2,232 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-27T00:40:03.313Z</updated>
+    <updated>2022-05-27T06:12:04.257Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一周50倍，哥布林NFT的「模仿游戏」]]></title>
+        <id>https://www.theblockbeats.info/news/30692</id>
+        <link href="https://www.theblockbeats.info/news/30692"/>
+        <updated>2022-05-27T05:49:37.000Z</updated>
+        <summary type="html"><![CDATA[撰文：0x21，0xLaughing，律动 BlockBeats
+
+
+「My precious！」
+
+
+
+
+
+
+
+相信大部分人看到新晋的「榜一大哥」goblintown 的第一反应想到的是来自电影《指环王》中土世界的咕噜，脑海中回荡的是它不停在嘴里念叨着的「my precious」古怪声音。试想一下，用咕噜的发音不停的在重复「wen road map？」、「wen token?」、「airdrop!」这些词汇会是怎样的效果。
+
+
+没错，在刚刚结束不久的 goblintown NFT 的 twitter space 上，所有顶着 goblintown NFT 的持有人就是用这样的「魔性」的方式，又一次洗脑了 NFT 的玩家们，twitter space 的录屏疯狂的在各大社交媒体和社区之间传播。这个长达 3 小时的 twitter space，播放超过 4.5 万次。就连 Neo Tokyo 的创始人 Ellio Trades 都发推说：「xxx，我也想发出 goblin 的声音」
+
+
+
+
+
+
+
+没有 Road、匿名创始团队、freemint、CC0、更重要的是难以直视，无论从哪个方面来看，goblitown NFT 本就不那么具有「明星相」，更何况是在 NFT 市场遭遇寒冬的情况下。那么 goblintown 是如何从 0.04ETH 的二级市场地板价，在短短 5 天内「逆市」上涨，达到了 2ETH 左右，并且成功拿下了 OpenSea「榜一」的呢？
+
+
+模仿游戏
+
+
+
+
+
+
+
+5 月 21 日，goblintown 官推正式宣布开始 mint，实际上链上监控显示在 5 月 20 日合约已经开放了 mint，在 goblintown 官推宣布以后，也一直不温不火。
+
+
+
+
+
+
+
+直到The Block的创始人Mike DAOdas在推特上轻描淡写地说了一句他也参与了这次 f…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话Web3医疗保健组织DeHealth共有人Denys Tsvaig]]></title>
+        <id>https://www.theblockbeats.info/news/30691</id>
+        <link href="https://www.theblockbeats.info/news/30691"/>
+        <updated>2022-05-27T05:06:37.000Z</updated>
+        <summary type="html"><![CDATA[您能先向我们的观众介绍一下自己吗？
+
+
+Denys Tsvaig: 大家好，我的名字是 Denys Tsvaig。我是 DeHealth（Web 3.0 世界的医疗保健组织）的 co-owner，也是一位技术企业家和区块链爱好者。
+
+
+请简单谈谈 DeHealth 这个项目。这个想法是如何产生的，它将如何帮助社会？
+
+
+Denys Tsvaig: 根据联合国的一份报告，超过 30 亿人无法获得负担得起的优质医疗保健服务。我们决定与我的合作伙伴 Anna Bondarenko 一起建立医疗保健数字基础设施和透明的医疗保健数据市场。
+
+
+作为第一步，我们接管了乌克兰的医疗信息系统 www.askep.net。本次合并时，系统覆盖了 1+百万患者的数据。然而，这一数字在 2021 年增加了三倍，由于新的 Covid-19 流行。
+
+
+2022 年，我们与 Anna 及其团队一起，为全球医疗保健领域推出了加密货币 DHLT（去中心化健康通证）。我们开始研究人工智能，帮助预测疾病并帮助保持健康。
+
+
+DeHealth 是一个数字医疗保健中心，可让用户访问远程医疗和医疗数据库。它是一个多功能平台，使用户能够有效地维护自己的健康，安全地存储最新的医疗数据，并将患者的医疗资产货币化。借助 AI、AR 和区块链技术，DeHealth 打破了边界，让全世界的医疗保健都可访问且安全。
+
+
+今天，DeHealth 正在构建其 MetaHealth 元宇宙，它将为所有用户提供远程医疗服务和其他医疗服务，并可能获得额外收入。正如我们所知，它将改变医学。
+
+
+幼儿时期用户可以借助人工智能在 DeHealth 的电子健康卡上收集个人病史。反过来，这种结构化数据使医生能够减少收集患者健康信息、评估风险、做出更具体的诊断或调整治疗的时间。人们会活得更长更好。
+
+
+此外，对于一家著名的制药商来说，DeHealt…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Buterin：评估算法Stablecoin的两个思想实验]]></title>
+        <id>https://www.theblockbeats.info/news/30690</id>
+        <link href="https://www.theblockbeats.info/news/30690"/>
+        <updated>2022-05-27T04:55:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Two thought experiments to evaluate automated stablecoins
+
+》
+原文作者：Vitalik Buterin
+原文编译：
+
+Block unicorn
+
+
+
+特别感谢 Dan Robinson、Hayden Adams 和 Dankrad Feist 的反馈和审查。
+
+
+
+最近的 LUNA 崩溃导致了数百亿美元的损失，引发了对「算法 Stablecoin」这一类别的批评风暴，许多人认为它们是一种「根本上有缺陷的产品」。加强对 defi 财务机制的审查，尤其是那些非常努力优化「资本效率」的算法 Stablecoin 机制，是非常受欢迎的。更大程度的承认目前表现并不能保证未来的回报 (甚至不能保证未来不会完全崩溃)，则更受欢迎。然而，市场情绪非常错误的地方在于，用同样的说法来描绘所有的去中心化加密算法  Stablecoin，一棒子打死所有的算法 Stablecoin 项目。
+
+
+
+
+虽然有很多算法 Stablecoin 设计从根本上存在缺陷，最终注定会崩溃，也有很多 Stablecoin 在理论上可以生存，但风险很高，但也有很多 Stablecoin 在理论上非常稳健，并在实践中经受住了加密市场条件的极端测试。因此，我们需要的不是 Stablecoin 支持者主义或 Stablecoin 末日论，而是回归基于原则的思考。那么，有哪些好的原则可以用来评估一个特定的算法 Stablecoin 币是否真正稳定呢? 对我来说，我开始测试 Stablecoin 的两个思维实验反应。
+
+
+提示: 什么是算法 Stablecoin?  
+
+
+就本文而言，算法 Stablecoin 是一个具有以下属性的系统:
+
+
+
+
+1. 它发行一种 Stablecoin，试图锚定一个特定的价格指数。通常，目标是 1 美元，但也有其他选择…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肖风：元宇宙的十大经济规则]]></title>
+        <id>https://www.theblockbeats.info/news/30689</id>
+        <link href="https://www.theblockbeats.info/news/30689"/>
+        <updated>2022-05-27T04:50:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《肖风：元宇宙的十大经济规则》
+原文作者：肖风，万向区块链
+
+
+
+热烈祝贺元宇宙三十人论坛今天正式成立，我要分享的题目叫做「元宇宙的十大经济规则」。大家知道元宇宙应该是小荷才露尖尖角，现在我们去讨论元宇宙的经济规则，肯定有很大一部分是在猜想。所以，里面肯定会有很多在未来被证明不对的地方。但是我坚信一点，元宇宙的经济规则一定会不同于互联网的经济规则，就好像互联网的经济规则不同于制造业的经济规则，一定会有不同。我们大家一起共同探讨不同在哪里。
+
+
+
+
+
+
+首先，从产权制度和资本收益分配制度的角度来说，过去我们可以粗略的划分为三种模式。工业经济模式或者制造业经济模式叫做「主街模式」，主街本来是对应着华尔街，华尔街是金融资本，「主街」是工业资本、产业资本。「主街模式」从产权股权角度看是集中的，同时资本的收益是独享的。那个阶段会有很多的大资本家，福特、卡耐基、洛克菲勒等主街的大资本家。但是到了硅谷模式，也可以称之为信息经济模式，产权是分散的，创始人、A、B、C 轮融资，同时很多股权以员工期权的方式分配给员工，因为它的股权结构是分散的，所以硅谷模式下不会有大资本家，大部分都是职业经理人，有创始人+职业经理人，很难出现卡耐基、洛克菲勒这样的大资本家。从资本收益角度来说，也从独享变成为分享，这是分散的资本结构和分享的资本收益。
+
+
+
+
+
+
+
+
+
+在元宇宙经济体系里面，所谓的股权制度就被消散了，不一定存在了，或者即使存在，它的价值也被大幅度消减。从资本收益角度来看，它是共享的模式。所有的贡献者、参与者大家以利益相关者的组织方式，通过智能合约实现大规模协作，从而共享元宇宙所实现的价值，这是我想说的资本制度方面可能会有不同。
+
+
+
+
+
+
+
+
+
+第二，从价值创造的规律来说。制造业经济、互联网经济和元宇宙经济，也是不同的。制造业经济，价值创造规律是要使公司价值最大化。到了互联网时代，已经不…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解DAO的另类视角：新奇的搜索引擎]]></title>
+        <id>https://www.theblockbeats.info/news/30687</id>
+        <link href="https://www.theblockbeats.info/news/30687"/>
+        <updated>2022-05-27T03:50:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《DAOs as novelty search engines
+
+》
+原文作者：olly.eth
+原文编译：0x123 ，H.Forest_Ventures 
+
+
+本文介绍了 DAO 由于其组织结构而具有的特殊能力，能够作为全新的搜索工具帮助组织更好地发展。并且阐述了公司等级制度的优缺点，和 DAO 组织进行对比，更生动形象的展现出 DAO 的优点和特殊性。
+
+
+DAO 作为一个协作网络，在未来很可能会展现出其独特的作用。要确定它的角色，就需要跳出现状去思考。就像蹒跚学步的孩子迈出第一步一样，今天的 DAO 还不成熟、不稳定，并很可能绊倒。
+
+
+虽然很想一笔带过，尤其是在「严肃」的创新领域，但它们的结构的确使它们具有独特的能力，能够作为载体去探索发现新事物。我们将简要介绍它的结构，并完成以下几点：
+
+
+
+
+
+DAO 作为全新的搜索引擎，使许多合作团队收集和整合基础信息，从而更有效地探索搜索空间。
+ 
+搜寻新奇事物—发现的另一范式
+ 
+设想自己现在在湖边，你尝试达到彼岸，并必须通过跳过地面的垫脚石来做到这一点。然而，大雾弥漫，你只能看见脚边最近的垫脚石。随着你踏着垫脚石往前进，海岸逐渐消失在你身后。
+
+
+
+
+
+前进途中，你的眼前出现了分叉口，你将做出决定。哪条路是最好的呢？尽管大雾让你看不见任何一条路将通往何处，但你必须做出选择。
+
+
+
+ 
+斯坦利和雷曼（2015）将以上案例与搜索发现类比。湖泊代表了所有可能性的抽象空间，而垫脚石表示导航策略。你的旅程是在这个充满了所有可能性的空间中不断探索的过程。问题在于，当你不了解前方的路，你该如何前进。
+
+
+我们可以通过将所有可能性的空间视为一个房间来重新定义这一点。现在将你自己想象成画家，在房间里尝试创作成为下一个莫奈。作为一个搜索空间，我们这颗稀有钻石早已经在那里。你的目的是绕过众多毫无意义的死胡同并找到它。
+
+
+当你创作…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊Merge后矿工将何去何从？]]></title>
         <id>https://www.theblockbeats.info/news/30686</id>
@@ -666,160 +888,6 @@ NFT 的热度从 2020 年开始一路飙升，从 Cryptopunk、BAYC 出现，到
 
 
 NFT 项目方们也尝试着从多个方面进行创新。从最开始的创造社交场景的头像 NFT 项目，不同的画风迎合不同的投资者的喜好；到后来的 Pass NFT，提供分析工具权益或是 Alpha 社区权益；发行代币、打造 IP、持续创造收益的「铲子」等各种新玩法不断被…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门 | 第二讲：数值类型]]></title>
-        <id>https://www.theblockbeats.info/news/30652</id>
-        <link href="https://www.theblockbeats.info/news/30652"/>
-        <updated>2022-05-24T14:34:27.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Solidity 极简入门:2. 数值类型
-
-》
-
-
-
-
-原文来源：0xAA  
-
-
-我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
-
-
-所有代码开源在 github：github.com/AmazingAng/WTFSolidity
-
-
-Solidity 中的变量类型数值类型 (Value Type)：包括布尔型，整数型等等，这类变量赋值时候直接传递数值。引用类型 (Reference Type)：包括数组和结构体，这类变量占空间大，赋值时候直接传递地址（类似指针）。映射类型 (Mapping Type): Solidity 里的哈希表。函数类型 (Function Type)：Solidity 文档里把函数归到数值类型，但我觉得他跟其他类型差别很大，所以单独分一类。
-
-
-我们只介绍一些常用的类型，不常用的不讲。这篇介绍数值类型，第 3 讲介绍函数类型，第 4 讲介绍引用和映射。
-
-
-数值类型 1. 布尔型
-
-
-布尔型是二值变量，取值为 true 或 false。
-
-
-
-
-
-布尔值的运算符，包括：
-
-
-!（逻辑非）
-&&（逻辑与，"and"）
-||（逻辑或，"or"）
-==（等于）
-!=（不等于）
-
-
-代码：
-
-
-
-
-
-上面的代码中：变量_bool 的取值是 true；_bool1 是_bool 的非，为 false；_bool && _bool1 为 false；_bool || _bool1 为 true；_bool == _bool1 为 false；_bool != _bool1 为 true。
-
-
-2. 整型
-
-
-整型是 solidity 中的整数，最常用的包括
-
-
-
-
-
-常用的整型运算符包括：
-
-
-比较运算符（返回布尔值）： <=， <， ==， !=， >=， >
-算数运算符： +， -，一元运算 -， +， *， /， %（取余），**（幂）
-
-
-代码：
-
-
-
-
-
-大家可以跑一下代码，看看这 4 个变量分别是多少。答对奖励个 POAP？
-
-
-3. 地址类型
-
-
-地址类型 (address) 存储一个 20 字节的值（以太坊地址的大小）。地址类型也有成员变量，并作为所有合约的基础。有普通的地址和可以转账 ETH 的地址（payable）。payable 的地址拥有 balance 和 tranfer() 两个成员，方便查询 ETH 余额以及转账。
-
-
-代码
-
-
-
-
-
-下一讲介绍函数的时候，会介绍如何使用地址类型。
-
-
-4. 定长字节数组
-
-
-字节数组 bytes 分两种，一种定长（byte, bytes8, bytes32），另一种不定长。定长的属于数值类型，不定长的是引用类型（之后讲）。
-定长 bytes 可以存一些数据，消耗 gas 比较少。
-
-
-代码：
-
-
-
-
-
-MiniSolidity 变量以字节的方式存储进变量_byte32，转换成 16 进制为：0x4d696e69536f6c69646974790000000000000000000000000000000000000000
-
-
-_byte 变量存储_byte32 的第一个字节，为 0x4d。
-
-
-5. 枚举 enum
-
-
-枚举（enum）是 solidity 中用户定义的数据类型。它主要用于为 uint 分配名称，是程序易于阅读和维护。它与 C 语言中的 enum 类似，把名称从 0 开始 uint 表示：
-
-
-
-
-
-  它可以显式的和 uint 相互转换，并会检查转换的正整数是否在枚举的长度内，不然会报错：
-
-
-
-
-
-
-
-enum 的一个比较冷门的变量，几乎没什么人用。
-
-
-总结
-
-
-
-
-
-
-
-在第二讲，我们介绍了 solidity 中 4 种变量类型，并详细介绍了数值变量（value type) 中的布尔型，整型，地址，定长字节数组和枚举。之后我们会介绍其他几种类型。
-
-
-原文链接
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
