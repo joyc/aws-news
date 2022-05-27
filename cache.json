@@ -124,46 +124,6 @@
           "wordCount": null,
           "title": "Solidity极简入门 | 第二讲：数值类型",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30650",
-          "author": null,
-          "description": "原文作者：0x711、Bob, 律动 BlockBeats  \n\n\nHop Protocol 最近的骚操作实在吸睛。交互项目获得空投是行业默认玩法，不管如何交互，或多或少都可以获得奖励，但 Hop Protocol 开创了一个新玩法：举报 to Earn。\n\n\n在 5 月 6 日，跨链桥 Hop Protocol 官方公布空投细则之后表示，在最初符合空投条件的 43,058 个地址中，已有 10,253 个已被认定为女巫攻击者（指个人试图创建多个帐户身份, 进行欺骗和伪装），并已取消其在本次空投计划中的资格。空投开放领取前，报告 20 个以上关联女巫攻击者地址的用户，将有机会获得 HOP Token 奖励。\n\n\n效仿者接踵而至。5 月 24 日，Optimism 官方表示，社区举报超 1.7 万个刷单地址，超 1400 万枚 OP Token 将重新分配。\n\n\n\n  欧科云链链上大师统计 Optimism 官方 4/28 和 5/24 公布的空投信息\n  \n\nHop 显然很开心，他们还认为空投似乎进入了一个全新的时代。\n\n\n\n\n\n「举报 to Earn」的客观存在使得所有 Web3.0 原住民无法避而不见，普通用户如何才能在撸空投的同时，做到链上没有「把柄」而被举报？\n\n\n律动 BlockBeats 梳理了一些 Hop Protocol 官方公布的确认为女巫攻击的地址，了解项目方眼中女巫攻击者的用户画像与典型攻击行为图鉴，或许可以防止玩家们再次花钱走弯路。\n\n\n实例\n\n\n案例一\n\n\nSybil Attacker Report #3（女巫攻击者报告 #3）：\n\n\n在该用户使用完 HOP 之后，接下来所有 516 个地址的资金在 Arbitrum 上转移至同一地址。\n\n\nSybil Attacker Report · Issue #3\n\n\n案例二\n\n\nSybil Attacker Report #592（女巫攻击者报告 #592）：\n\n\n158 个地址，在 Optimism 和 Arbitrum 上有完全类似的活动，他们在 FTM、GNO 和 Polygon 链上的所有的交易都在一天内完成，并且之后就没有任何交易记录了。行为活跃相似度超 95%，相信它们由同一名女巫攻击者控制。\n\n\nSybil Attacker Report · Issue #592\n\n\n案例三\n\n\nSybil Attacker Report #582（女巫攻击者报告 #582）：  \n\n\n\n\n所有符合空投条件的地址节点 Hop 交易的时间戳，被基于著名的 Union-Find 图形算法（并查集算法）所捕获，对 Hop Explorer 实施逆向工程并使用 Covalent 的 API，来全自动审核每个关联地址是否存在关联并达到女巫攻击者标准。\n\n\nSybil Attacker Report · Issue #582  \n\n\n特征梳理\n\n\n女巫地址的判定主要依据以下几点：\n\n\n1、多个地址有统一的资金分发或归集地址，证明是一个女巫攻击者发起，如：\n\n\n\n\n\n图源：\n\nSybil Attacker Report #275\n\n\n2、多个地址在转账记录上有明显的关联性，如：\n\n\n\n\n\n\n\n图源：\n\nSybil Attacker Report #367\n\n\n3、女巫攻击在多处有批量操作痕迹，包括但不限于：短时间内批量转账、gas value 相同、交互金额相似等。\n\n\n4、女巫地址交互历史有往期其他项目的攻击记录，如有的地址为获取 Project Galaxy 项目奖励，曾在 OpenSea 上创建雷同的收藏集，并进行刷单交易。\n\n\n5、用户通过社交网络自曝攻击行为。\n\n\n可行的对策\n\n\n1、通过混币平台等方法尽可能掩盖钱包间的转账关系。\n\n\n2、女巫攻击的行为应尽可能「随机化」，集中式的批量操作已经成为赏金猎人的头号捕猎目标。\n\n\n3、针对不同项目采用不同的钱包地址，最好做一个项目新设一批钱包地址。\n\n\n4、做精少数账户，目前社区举报多以十个地址为女巫攻击的下限。\n\n\n5、低调，你懂的。\n\n\n所谓魔高一尺，道高一丈。Hop 和 Optimism 此次空投正式宣告女巫攻击与赏金猎人的长期较量已经拉开。这种博弈注定是长期且充满变数的。本文在此对女巫攻击和赏金猎人不做道德评价，但仍提倡鼓励用户真实、单纯的去与项目做交互，多了解项目和社区，为社区做有意义的贡献或许会收到更大的回报。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/30650",
-          "publishedOn": "2022-05-24T09:17:00.000Z",
-          "wordCount": null,
-          "title": "如何防止撸空投被举报：从Hop官方报告梳理判定逻辑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30651",
-          "author": null,
-          "description": "原文标题：《黑客创业史：Fireblocks，半年估值翻 3 倍，Web3 领域的 Shopify》\n原文作者：阿法兔，阿法兔研究笔记\n\n\n\n根据美国联邦贸易委员会的数据：2020 年 10 月至 2021 年 3 月期间，因为安全问题，有将近 7000 人在加密领域损失的金额达 8000 多万美元，比一年前增加了 1000%；\n\n\n\n\n作为加密生态中的重要基础设施，Fireblocks 这个公司值得研究。创始人是以色列 Hacker 出身，连续创业者，估值在半年翻了三倍，今年 3 月他还参加了国际清算银行的创新峰会，作为企业家代表谈了对数字资产的看法。\n（注意，本文的黑客指热衷网络安全技术的专家，而不是涉嫌计算机犯罪的骇客）\n\n\n\n\nFireblocks 的创业究竟是一个怎样的故事？Fireblocks 的发展能给今天的创业者和投资人带来了怎样的启示？它的估值是太高了吗？是本文试图探讨的几个问题。\n\n\n公司简介  \n\n\n2018 年成立的 Fireblocks，核心技术产品主要由 Fireblocks Networks 和基于 MPC 的钱包基础设施组成。\n\n\n\n\n\n\n\n\n\nFireblocks Network，本质上是一类信息传递基础设施层，允许机构目前在不同的区块链上进行安全结算，而不容易受到各种攻击，并对操作过程进行了简化。Fireblocks 目前在为 1000 多家金融机构提供服务，从对冲基金、交易平台再到到世界上的知名大银行，还与很多支付服务提供商进行合作，也曾经监控到很多资产被非法转移的案例。\n\n\n\n\n\n\n\n\n\n客户见上图，主要包括银行、金融科技公司、交易平台、流动性提供商、场外交易商和对冲基金等，主要业务是构建安全基础设施和托管服务，帮助客户安全地管理各种产品和服务的数字资产。\n\n\n什么是 MPC？\n\n\nMPC，多方安全计算（Secure Multi-Pa…",
-          "link": "https://www.theblockbeats.info/news/30651",
-          "publishedOn": "2022-05-24T09:16:00.000Z",
-          "wordCount": null,
-          "title": "Fireblocks创业史：半年估值翻3倍，Web3领域的Shopify",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30649",
-          "author": null,
-          "description": "原文作者：atareh\n原文编译：czgsws，律动 BlockBeats\n\n\n\n\n\n5 月 21 日，NFT 市场 OpenSea 宣布推出全新 Web3 NFT 市场协议 Seaport，今天我想表达的是为什么它对去中心化很重要，以及这将如何从根本上改变我们购买/出售/交易 NFT 的方式。\n\n\n\n通过 Uniswap 来思考 Seaport\n\n\n我们或许可以像看待 Uniswap 那样看待今天 NFT 领域的 Seaport。\n\n\n\n\n众所周知，Uniswap 用开源去中心化交易改变了加密货币交易的游戏规则，并成功开启了 2020 年的 DeFi Summer。而 OpenSea 推出的 Seaport，可能具有同样的潜力。\n\n\n\nUniswap 作为开源平台，后继出现了多个不同链的模仿者（例如 Sushiswap、Pancakeswap），这导致了 DEX 和 DeFi 的大规模增长和创新。OpenSea 推出的 Web3 市场协议的这一举动吹响了竞争开始的号角：「是时候出发了，最好的市场才能在竞争中获胜」。\n\n\n\n\n\nSeaport 协议是什么？\n\n\nSeaport 核心智能合约是开源的，本质上是去中心化的，没有合约所有者、具有可升级性以及其他特性。\n\n\n如今的 OpenSea 公司对其平台拥有 100% 控制权，因此对代码的任何更改（如接受 APE）都是由 OpenSea 一人「当家作主」（中心化）。\n\n\n在合约中，协议类似于「标准」。我们都熟悉的是电子邮件使用 SMTP 协议（简单邮件传输协议）。它是通过互联网发送电子邮件的标准协议，谷歌、雅虎...... 每个电子邮件客户端都使用它。\n\n\n使用协议可以做的一件大事就是「转移」你的账户，或者我们称之为互操作性。如果你认为 Yahoo 邮箱的界面布局很丑，你不喜欢它，或每天收到了太多的垃圾邮件，你可以将账号转移到…",
-          "link": "https://www.theblockbeats.info/news/30649",
-          "publishedOn": "2022-05-24T09:16:00.000Z",
-          "wordCount": null,
-          "title": "Seaport：OpenSea自己的Web3交易协议有什么特点？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30648",
-          "author": null,
-          "description": "原文标题：《进入Flow区块链宇宙》\n原文来源：Messari\n\n\n报告要点：\n\n\n·Flow 区块链早期因 NBA Top Shot NFT 大获成功，目前全网拥有超过 300 万活跃用户，其中包括验证和委托节点。\n\n\n·Flow 当前在 C2C 的 NFT 交易中居于领先地位，超越以太坊和 Solana。\n\n\n·Flow 最近宣布了 7.25 亿美元的生态基金，进一步支持生态的开发者和用户。\n\n\n2021 年 Q2-Q3，NFT 市场资金大量流入，估计成交金额增加超过 8000%，自此之后，个人投资者、独立艺术家和消费巨头纷纷将注意力投向 NFT 市场，迎来了所谓的\"文艺复兴 2.0\"。提供 NFT 铸造和交易服务的平台加快技术创新的步伐，并成为个人投资者参与加密市场和 Web3 世界的门户。\n\n\nFlow 就是其中最知名的平台之一。Flow 是由 dapper Labs 开发的一个一层（L1）权益证明（PoS）区块链，旨在为 Dapper Labs、独立项目方、开发者以及艺术家提供一个平台，打造去中心化的应用，避免复杂的以太坊二层（L2）网络扩容方案。Flow 区块链采用独特的多角色网络架构设计，相较于以太坊 L2 的分片方案更简单，且更高效，网络速度和吞吐量均有所提升。\n\n\n历史简述\n\n\n2019 年 Q4，Flow 区块链首次发布了 Flow 开发者预览版本，允许开发者进行智能合约开发，而无需访问完整实例。在此之前，它已经获得了三轮私募融资，从 Coinbase、三星和 Union Square Ventures（USV）在内的 80 多家 VC 募集了超过 3000 万美元。\n\n\n在此期间，Dapper Labs 利用 Flow 开发者预览版本开发了 NBA Top Shot－市场上最早也是最知名的体育 NFT 项目 之一。NBA Top Shot 的成功，加上…",
-          "link": "https://www.theblockbeats.info/news/30648",
-          "publishedOn": "2022-05-24T08:16:00.000Z",
-          "wordCount": null,
-          "title": "Messari：进入Flow区块链宇宙",
-          "imageUrl": null
         }
       ]
     },
