@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30700",
+          "author": null,
+          "description": "原文作者：\n\n小毛哥、N_0\n\n\n\n\n\n\nVitalik Buterin 在今年 1 月的文章中提出 Soulbound Token (SBT)「灵魂绑定代币」的理论，并提到具有社交价值的 NFT 可以尝试进行灵魂绑定代币的尝试。橙皮书同时也在「为什么灵魂绑定代币是个好主意」文章中详情解释这一概念并提出将社交行为上链的「人情币」相关畅想。关于如何定义 NFT 赋能的话题已经在该领域已经讨论许久，NFT 社区长期以来都有一些争议性的讨论：\n- NFT 赋能目前没有技术标准和链上框架，在区块链上不易量化；\n- NFT 所有者无法选择他们想要的实用程序，而是被动地等待空投；\n- 目前没有 NFT 项目方和用户共同基于链上行为进行决定和维护奖励的链上技术框架；\n令人欣慰得失，很多 NFT 项目仍在尝试对 NFT 赋能的角度进行一些创新。比如，Moonbird 的 Nesting 机制赋 把「时间」这个重要维度上链的赋能机制。在创建和运营 NFT 项目的过程中，我们曾设想是否可把持有者的行为上链并获得相应奖励？基于这些理论，我们越来越感觉到 Soulbound Token（SBT) 可以在解决这些赋能问题方面发挥非常重要的作用。\n\n\n\n不止是 NFT 本身，NFT 的权益可以被灵魂绑定吗？\n\n\nNFT 对标持有者的 Soul 以及链上行为\n\n\n- 持有者的行为（hodl 或买卖）决定可以获得多少灵魂绑定代币（SBT）\n\n\nNFT Soulbound Token - 对标持有者的权益\n\n\n- 灵魂生成的灵魂绑定代币 Soulbound Token (SBT) 可用于解锁项目的奖励和收益\n\n\n\n这套机制的明确目的之一：NFT 持有者可以主动选择和解锁获得项目的哪些收益，而不是每次都需查看钱包时被动接收未知的空投。\n\n例如，头像类 NFT 项目发行主要的 PFP 后通常空投新的 NFT（例…",
+          "link": "https://www.theblockbeats.info/news/30700",
+          "publishedOn": "2022-05-28T13:54:04.000Z",
+          "wordCount": null,
+          "title": "Proof of Utility赋能证明：通过SBT技术框架量化NFT权益的解决方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30699",
+          "author": null,
+          "description": "当 CryptoPunks 被打上了 New Monalisa 的标签，当纽约时代广场亮起 The World Has Woken Up to NFTs 的标语，每个 NFT 玩家便已深知，属于加密艺术的时代来临了。NFT 从无人问津到频繁破圈仅仅用了不到一年，这一年里我们看到头像、土地、空间、会员卡以及其他以 NFT 为核心的形式一次又一次地冲击着我们的想象力。 \n\n\n\n\n\n\n\n\n回顾往昔，NFT 的「新技术」最初的形态，是艺术。它从萌芽到现在的形态，进行了无数次更新迭代。早在以用户为中心的 Web2 时代，对于网络空间的艺术创意就开始野蛮生长。在 2017 年 Reddit Place 活动中，一个 1000x1000 像素的白板，由每个参与者扮演其中的一个像素色块来进行「绘画」，经过一周的「争夺」，成就了互联网时代最为伟大的作品之一。在这个将近 80 万人同时参与的活动中，你永远不知道下一秒会发生什么，也就是这样的不确定性，让我们看到了联创的艺术和策展的魅力。\n\n\n\n\n\n当下 Web3 的精神内核与 Reddit Place 的创作过程与无比契合，NFT 成为了艺术表达与创作者经济的桥梁，让艺术家创作的数字艺术变成能够在二级市场自由流通的资产。那么如果用一个 DAO 的形态来展现 Reddit Place 的可组合性，会是怎样的效果呢？如果将当下热门的 Pass 的形式与加密艺术紧密结合，又会爆发出怎样的灵感呢？BCA P01NT 也许会给你答案。 \n\n\nP01NT—BCA  Labs\n\n\n\n\n虽然如今人们为 NFT 开发出了更多功能，但是大部分人仍然习惯于把 NFT 当做是一种社交资本，这也是如今的头像、艺术收藏类 NFT 总市值高达 150 亿美金的原因。艺术是 NFT 最先跑通的应用场景，而收藏、展示、社交也成为了 NFT 玩家群体中最常出现的链式反应。而当人们…",
+          "link": "https://www.theblockbeats.info/news/30699",
+          "publishedOn": "2022-05-28T11:54:04.000Z",
+          "wordCount": null,
+          "title": "P01NT：用DAO的方式让更多人知道你的PFP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30698",
           "author": null,
           "description": "原文标题：《\n\nA Theory of Justice for Web3\n\n》\n原文作者：Li Jin & Katie Parrott\n原文编译：Kxp，律动 BlockBeats\n\n\n\n所有认识我的人都知道，已故政治哲学家约翰·罗尔斯的观点在我的思想体系中占据着重要地位。尽管他的巨著《正义论》是半个世纪以前发表的了，但鉴于各平台还在寻求新的盈利机会，进一步拉大贫富差距，罗尔斯的思想在今天的互联网时代仍然适用。他在书中提出的运用」无知之幕「实现社会资源公平分配的理论非常适合于我们当下对于 Web3 的探讨。\n\n\n今天早些时候，这篇文章发表在了《哈佛商业评论》上。在本文当中，我借用罗尔斯的正义论对 Web2 和 Web3 进行了评估，并为 Web3 的发展提供了一套指导性原则，用以创造一个更公平、更美好的互联网环境。我希望这篇文章能引发人们关于 Web3 发展的探讨，并更多的关注我们作为生态系统的建设者和参与者所产生的影响。如果你喜欢这篇文章，欢迎加入Twitter上的讨论。\n\n\n\n\n\n\n\n\nMagdiel Lopez/Belmont Creative\n\n\n关于 Web3 最为普遍的说法是，它旨在打造一个更加美好、公平的互联网。具体而言，在 Web3 支持者设想出的互联网中，用户可以从少数中心化的机构手中夺回权力，并且每位网民都能享受到公平的互联网环境。\n\n\n\n不过，Web2 一开始时也有类似的设定，即赋予个人创作者权力并移除中介机构，而却并没有实现。如今，站在互联网新时代的风口浪尖，我们应该问问自己：Web3 是否真正实现了机会的民主化？如果不是，我们如何才能更好地设计出公平的平台和治理系统？\n\n\n社会和政治哲学家约翰·罗尔斯（John Rawls）在其 1971 年发表的著作《正义论》中提出了「无知之幕」的思想实验，为这些问题提供了一个有效的思维框架。罗尔斯认为，在建立一…",
@@ -153,16 +173,6 @@
           "publishedOn": "2022-05-26T09:23:13.000Z",
           "wordCount": null,
           "title": "Terra 2.0发布在即，哪些交易平台支持新链迁移并发放空投？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30661",
-          "author": null,
-          "description": "原文标题：《解密 Token 经济学：从 Token 供需中制定投资策略》\n  原文作者：Ron @0xnyew\n原文编译：Techflow Intern  \n\n\n\nToken 经济学——Twitter 加密圈经常抛出这个词，但人们除了「DYOR」之外从未解释过它。以下是面向初学者的一份「Token 经济学」的简单指南。\n\n\n在这篇指南中，我将介绍：\n\n\n \n \n- Token 经济学的定义；\n\n- 分析 Token 经济学的框架；\n\n- 3 个研究 Token 经济学的要点；\n \nToken 经济学的定义 \n\n\n\n 简而言之，供应和需求。供求关系实际上是 Token 经济学最基本的层面，意愿买家和意愿卖家交易 Token。\n\n\n\n 分析 Token 经济学的简单框架\n\n\n\n \n \n- 目前市场上有多少 Token？\n- Token 的总供应量是多少？\n- 随着时间的推移，市场供应将如何变化？\n- 谁将获得大部分供应？他们什么时候可以卖出？\n\n\n \n要回答它们，我们需要来看看数据。您需要了解的指标有：\n\n\n \n（一) 供应量 \n\n\n \n \n 流通供应量（Circulating Supply）：现在市场上 Token 的数量\n\n\n \n 总供应量（Total Supply）：在区块链上共创建了的 Token 数量\n\n\n \n 最大供应量（Max Supply）：最多可以存在多少数量的 Token\n\n\n \n他们是什么意思呢？请看下图\n\n\n\n\n\n我们需要知道：\n\n\n \n \n- 尚未解锁的数量；\n- 已经释放到市场的数量；\n- 已经销毁的数量（通过燃烧，我们稍后会谈到）；\n \n为什么要关心这些？\n\n\n它可以帮助我们掌握当前和未来的供应。此外，还可以提前预测市场的反应。\n\n\n \n \n - 如果供应减少 50%？物以稀为贵！\n - 如果 1 亿的供应量充斥市场？船要沉了！\n\n\n现在让我们把…",
-          "link": "https://www.theblockbeats.info/news/30661",
-          "publishedOn": "2022-05-26T02:14:42.000Z",
-          "wordCount": null,
-          "title": "面向初学者的一份「Token经济学」的简单指南",
           "imageUrl": null
         }
       ]

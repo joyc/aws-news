@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-28T12:13:33.235Z</updated>
+    <updated>2022-05-28T18:09:46.357Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proof of Utility赋能证明：通过SBT技术框架量化NFT权益的解决方案]]></title>
+        <id>https://www.theblockbeats.info/news/30700</id>
+        <link href="https://www.theblockbeats.info/news/30700"/>
+        <updated>2022-05-28T13:54:04.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：
+
+小毛哥、N_0
+
+
+
+
+
+
+Vitalik Buterin 在今年 1 月的文章中提出 Soulbound Token (SBT)「灵魂绑定代币」的理论，并提到具有社交价值的 NFT 可以尝试进行灵魂绑定代币的尝试。橙皮书同时也在「为什么灵魂绑定代币是个好主意」文章中详情解释这一概念并提出将社交行为上链的「人情币」相关畅想。关于如何定义 NFT 赋能的话题已经在该领域已经讨论许久，NFT 社区长期以来都有一些争议性的讨论：
+- NFT 赋能目前没有技术标准和链上框架，在区块链上不易量化；
+- NFT 所有者无法选择他们想要的实用程序，而是被动地等待空投；
+- 目前没有 NFT 项目方和用户共同基于链上行为进行决定和维护奖励的链上技术框架；
+令人欣慰得失，很多 NFT 项目仍在尝试对 NFT 赋能的角度进行一些创新。比如，Moonbird 的 Nesting 机制赋 把「时间」这个重要维度上链的赋能机制。在创建和运营 NFT 项目的过程中，我们曾设想是否可把持有者的行为上链并获得相应奖励？基于这些理论，我们越来越感觉到 Soulbound Token（SBT) 可以在解决这些赋能问题方面发挥非常重要的作用。
+
+
+
+不止是 NFT 本身，NFT 的权益可以被灵魂绑定吗？
+
+
+NFT 对标持有者的 Soul 以及链上行为
+
+
+- 持有者的行为（hodl 或买卖）决定可以获得多少灵魂绑定代币（SBT）
+
+
+NFT Soulbound Token - 对标持有者的权益
+
+
+- 灵魂生成的灵魂绑定代币 Soulbound Token (SBT) 可用于解锁项目的奖励和收益
+
+
+
+这套机制的明确目的之一：NFT 持有者可以主动选择和解锁获得项目的哪些收益，而不是每次都需查看钱包时被动接收未知的空投。
+
+例如，头像类 NFT 项目发行主要的 PFP 后通常空投新的 NFT（例…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P01NT：用DAO的方式让更多人知道你的PFP]]></title>
+        <id>https://www.theblockbeats.info/news/30699</id>
+        <link href="https://www.theblockbeats.info/news/30699"/>
+        <updated>2022-05-28T11:54:04.000Z</updated>
+        <summary type="html"><![CDATA[当 CryptoPunks 被打上了 New Monalisa 的标签，当纽约时代广场亮起 The World Has Woken Up to NFTs 的标语，每个 NFT 玩家便已深知，属于加密艺术的时代来临了。NFT 从无人问津到频繁破圈仅仅用了不到一年，这一年里我们看到头像、土地、空间、会员卡以及其他以 NFT 为核心的形式一次又一次地冲击着我们的想象力。 
+
+
+
+
+
+
+
+
+回顾往昔，NFT 的「新技术」最初的形态，是艺术。它从萌芽到现在的形态，进行了无数次更新迭代。早在以用户为中心的 Web2 时代，对于网络空间的艺术创意就开始野蛮生长。在 2017 年 Reddit Place 活动中，一个 1000x1000 像素的白板，由每个参与者扮演其中的一个像素色块来进行「绘画」，经过一周的「争夺」，成就了互联网时代最为伟大的作品之一。在这个将近 80 万人同时参与的活动中，你永远不知道下一秒会发生什么，也就是这样的不确定性，让我们看到了联创的艺术和策展的魅力。
+
+
+
+
+
+当下 Web3 的精神内核与 Reddit Place 的创作过程与无比契合，NFT 成为了艺术表达与创作者经济的桥梁，让艺术家创作的数字艺术变成能够在二级市场自由流通的资产。那么如果用一个 DAO 的形态来展现 Reddit Place 的可组合性，会是怎样的效果呢？如果将当下热门的 Pass 的形式与加密艺术紧密结合，又会爆发出怎样的灵感呢？BCA P01NT 也许会给你答案。 
+
+
+P01NT—BCA  Labs
+
+
+
+
+虽然如今人们为 NFT 开发出了更多功能，但是大部分人仍然习惯于把 NFT 当做是一种社交资本，这也是如今的头像、艺术收藏类 NFT 总市值高达 150 亿美金的原因。艺术是 NFT 最先跑通的应用场景，而收藏、展示、社交也成为了 NFT 玩家群体中最常出现的链式反应。而当人们…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从《正义论》看Web3]]></title>
         <id>https://www.theblockbeats.info/news/30698</id>
@@ -740,105 +818,6 @@ CPI、FOMC 与 FED
 
 
 新 Token 分配…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向初学者的一份「Token经济学」的简单指南]]></title>
-        <id>https://www.theblockbeats.info/news/30661</id>
-        <link href="https://www.theblockbeats.info/news/30661"/>
-        <updated>2022-05-26T02:14:42.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《解密 Token 经济学：从 Token 供需中制定投资策略》
-  原文作者：Ron @0xnyew
-原文编译：Techflow Intern  
-
-
-
-Token 经济学——Twitter 加密圈经常抛出这个词，但人们除了「DYOR」之外从未解释过它。以下是面向初学者的一份「Token 经济学」的简单指南。
-
-
-在这篇指南中，我将介绍：
-
-
- 
- 
-- Token 经济学的定义；
-
-- 分析 Token 经济学的框架；
-
-- 3 个研究 Token 经济学的要点；
- 
-Token 经济学的定义 
-
-
-
- 简而言之，供应和需求。供求关系实际上是 Token 经济学最基本的层面，意愿买家和意愿卖家交易 Token。
-
-
-
- 分析 Token 经济学的简单框架
-
-
-
- 
- 
-- 目前市场上有多少 Token？
-- Token 的总供应量是多少？
-- 随着时间的推移，市场供应将如何变化？
-- 谁将获得大部分供应？他们什么时候可以卖出？
-
-
- 
-要回答它们，我们需要来看看数据。您需要了解的指标有：
-
-
- 
-（一) 供应量 
-
-
- 
- 
- 流通供应量（Circulating Supply）：现在市场上 Token 的数量
-
-
- 
- 总供应量（Total Supply）：在区块链上共创建了的 Token 数量
-
-
- 
- 最大供应量（Max Supply）：最多可以存在多少数量的 Token
-
-
- 
-他们是什么意思呢？请看下图
-
-
-
-
-
-我们需要知道：
-
-
- 
- 
-- 尚未解锁的数量；
-- 已经释放到市场的数量；
-- 已经销毁的数量（通过燃烧，我们稍后会谈到）；
- 
-为什么要关心这些？
-
-
-它可以帮助我们掌握当前和未来的供应。此外，还可以提前预测市场的反应。
-
-
- 
- 
- - 如果供应减少 50%？物以稀为贵！
- - 如果 1 亿的供应量充斥市场？船要沉了！
-
-
-现在让我们把…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
