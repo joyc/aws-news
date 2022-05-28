@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-28T00:40:34.932Z</updated>
+    <updated>2022-05-28T06:11:01.246Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[慢雾：29枚Moonbirds NFT被盗事件溯源分析]]></title>
+        <id>https://www.theblockbeats.info/news/30696</id>
+        <link href="https://www.theblockbeats.info/news/30696"/>
+        <updated>2022-05-28T04:41:57.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：慢雾科技
+原文作者：山哥&耀，慢雾安全团队
+
+
+事件背景  
+
+
+5 月 25 日，推特用户 @0xLosingMoney 称监测到 ID 为 @Dvincent_ 的用户通过钓鱼网站 p2peers.io 盗走了 29 枚 Moonbirds 系列 NFT，价值超 70 万美元，钓鱼网站目前已无法访问。该用户表示，域名 sarek.fi 和 p2peers.io 都曾在过去的黑客事件中被使用。  
+
+
+
+推特原文
+
+
+搜集相关信息  
+
+
+慢雾安全团队收到相关情报并针对此次被盗事件进行朔源分析。
+
+
+
+
+我们开始在 Twitter 上搜集并分析此钓鱼事件的相关信息时，发现 @Dvincent_ 就是黑客的 Twitter 账号，目前该账户已经被注销。而根据 5 月 10 日的记录，推特用户 @just1n_eth（BAYC 系列 NFT 持有者）就表示 @Dvincent_ 曾与其联系交易 BAYC NFT，但由于对方坚持使用 p2peers.io，交易最后并未达成。  
+
+
+
+推特原文
+
+
+在该推特评论下用户 @jbe61 表示自己曾遇到同一个人并给出了对话截图：  
+
+
+
+
+
+5 月 25 日晚，@0xLosingMoney 继续在 Twitter 公布了黑客的钱包等相关信息。  
+
+
+
+推特原文
+
+
+下面是 @0xLosingMoney 给出的黑客地址：
+
+
+· 0xe8250Bb4eFa6D9d032f7d46393CEaE18168A6B0D
+· 0x8e73fe4d5839c60847066b67ea657a67f42a0adf
+· 0x6035B92fd5102b6113fE90247763e0ac22bfEF63
+· 0xBf41EFdD1b815556c2416DcF427f2e896142aa53
+· 0x29C80c2690F91A4780…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【STEPN回应争议：我们为什么要清退大陆用户】中文社区恐慌中夹杂着小道消息的传播，「团队被抓」、「GPS 数据被监管」等信息加剧社区的不安。]]></title>
         <id>https://www.theblockbeats.info/news/30694</id>
@@ -690,46 +749,6 @@ Token 经济学的定义
 
 
 现在让我们把…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熊市里，这10种Token经济学设计或存在较大缺陷]]></title>
-        <id>https://www.theblockbeats.info/news/30660</id>
-        <link href="https://www.theblockbeats.info/news/30660"/>
-        <updated>2022-05-25T14:04:06.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-盘点 10 种在 Crypto 熊市可能归零的 Token 设计类型
-
-》
-原文作者：NoSleepJon
-原文编译：隔夜的粥，元宇宙之道
-
-
-有一种无奈，叫「你最喜欢的项目，它的 Token 设计很烂」。
-
-
-大多数 Token 是为了退出流动性和转移法律责任，而不是为了去中心化而推出的。在发布 Token 时，「去中心化」可能都不是考虑因素。你可以大声说出来，因为这些 Token 完全没有用处。你所能做的，就是在项目论坛中查看客户服务投诉，并质押这些 Token，然后用于获取更多无用的客户服务 Token。
-
-
-但如果市场会买你卖的任何东西，那为什么不推出一个 Token 呢？你可以责怪 VC，你可以责怪贪婪的团队，你可以责怪愚蠢的人，你可以责怪美联储，如果它能让你的灵魂放松，你可以做任何你想做的事。归根结底，这是一个被打破的激励循环，如果每个人都在推动这个循环，那么真的没有任何一个团体可以责备。
-
-
-
-
-
-随着时间的推移，市场参与者会变得更加敏锐，并意识到大多数 Token 只是无用的治理 Token。因此，项目方必须提高游戏水平，以出售无用的（产品）Token。你不能再仅仅推出一个治理 Token，你需要「Token 经济学」和各种空气清新剂来掩盖你的狗屎 Token 有多糟糕。在大多数情况下，这些 Token 都会归零，谢天谢地。公平地说，这些项目当中有很多都有很棒的创新产品，但这并不意味着它们的 Token 就很棒。
-
-
-
-
-
-一些值得反思的 Token 经济学设计：
-
-
-1. 每一个 shitcoin 都会有质押（staking），质押只是用 shitcoin 来作为奖励，以激励你持有 shitcoin，并暂时降低 shitcoin 的抛售压力。APY 没有任何意义，因为这是以 shitcoin 定价的，质押通过锁定供应使资产更加缺乏流动性，所…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
