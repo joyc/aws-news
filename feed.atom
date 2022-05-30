@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-05-30T00:44:13.858Z</updated>
+    <updated>2022-05-30T06:13:13.340Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[熊市终极指南：初中高级Crypto玩家的投资策略]]></title>
+        <id>https://www.theblockbeats.info/news/30704</id>
+        <link href="https://www.theblockbeats.info/news/30704"/>
+        <updated>2022-05-30T03:45:28.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《How to Survive a Crypto Bear Market》
+原文作者：frogmonkee，Bankless 
+原文编译：Katie 辜，Odaily 星球日报
+
+
+
+熊市中，市场状况低迷。人们很容易失去信心，被恐惧所驱使，只做短期投资。这些冲动的决定，会让你付出代价。因此，我们必须首先确定目标是什么，遵循哪些投资原则，投资组合管理策略是什么。
+
+
+本文将为初级、中级和高级加密交易者提供策略建议，助你在下一轮牛市中处于最佳位置。
+
+
+
+  首先，我们正处于熊市吗？  
+
+
+
+让我们先把基本定义对齐。根据 Investopedia：
+
+
+ “熊市是指市场经历了长期的价格下跌。它通常描述的情况是，由于投资者普遍悲观和消极情绪，证券价格从近期高点下跌 20% 或更多。” 
+
+
+根据 CMC 的数据，加密货币的市值在去年 11 月初达到峰值，略低于 3 万亿美元。截至发稿时，加密货币的价值约为 1.25 万亿美元。
+
+
+
+
+
+在我看来，我们当然正处于熊市中。这不是你我能决定的。而这时，先不要急于将最近的价格走势归看做熊市，问问你自己，这感觉像熊市吗？这取决于你选择如何解读市场情绪
+
+
+在我疯狂押注加密货币时，我注意到人们的热情明显下降。越来越少的人在跟进新的 NFT 项目或冒险使用小市值Token，更多的人正在将他们的资产转为 ETH、BTC 或稳定币。
+
+
+
+  熊市三大指导原则  
+
+
+
+ 
+熊市就是机会。没有人想要熊市，但如果你处理得当，你会受益。聪明的投资者可以在熊市中稳步积累资产，在下一次牛市中赢得巨大回报。
+
+
+活下去。这就是你的目标。在牛市中，你的目标是积累财富并获利。在熊市中，你的目标是在下一个牛市中生存下来，同时尽可能少损失你的资产。如果你在熊市期间专注于增加收入，你将面临一场艰苦的战斗。我建议专注于保留你的净资产，并在下一个牛市周期的开…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手把手教你与隐私网络Aztec Network交互]]></title>
         <id>https://www.theblockbeats.info/news/30702</id>
@@ -616,16 +670,6 @@ TL;DR：
 · 0x29C80c2690F91A4780…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【STEPN回应争议：我们为什么要清退大陆用户】中文社区恐慌中夹杂着小道消息的传播，「团队被抓」、「GPS 数据被监管」等信息加剧社区的不安。]]></title>
-        <id>https://www.theblockbeats.info/news/30694</id>
-        <link href="https://www.theblockbeats.info/news/30694"/>
-        <updated>2022-05-27T12:49:22.000Z</updated>
-        <summary type="html"><![CDATA[文章链接]]></summary>
-        <author>
-            <name>穷玩屌_富玩婊</name>
         </author>
     </entry>
 </feed>
