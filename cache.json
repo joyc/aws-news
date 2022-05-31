@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30718",
+          "author": null,
+          "description": "原文标题：《\n\nIOSG Weekly Brief ｜Seaport，OpenSea Token化的开端？\n\n》\n原文来源：IOSG\n\n\nPart.1 Insight\n\n\nSeaport，OpenSea Token化的开端？\n\n\n作者：Chloe, IOSG Ventures\n本文仅做行业学习交流之用，不构成任何投资参考\n\n\nTL;DR\n\n\n- 5 月 21 日，OpenSea 宣布推出自己的开源交易协议 Seaport，引起广泛关注。\n- 目前 OpenSea 所使用的协议是 Wyvern v2，Wyvern 是一个开源的交易协议。\n- Seaport 通过使用 Solidity 汇编语言实现 gas fee 优化，据估计能降低 50% 左右的 gas。\n- Seaport 更加开发者友好，能赋能开发者建立自己的 NFT 交易市场。\n- OpenSea 将开启 NFT 易 NFT 的新交易模式，有效提高二级市场 NFT 的流动性。\n- 开源和去中心化是 Web3.0 时代的大势，NFT 交易市场将有更加激烈的竞争和更多的创新。\n\n\n\n\n\n5 月 21 日，OpenSea 宣布推出开源 NFT 市场交易协议 Seaport，在推特上引起热议。有人称 OpenSea 的这一举措旨在成为 NFT 界的 Uniswap，也有人称 Seaport 有望开启又一个 NFT Summer。一时间众说纷纭，笔者也借此机会与大家共同探讨关于 Seaport 的几大热点与问题：\n\n\n- OpenSea 现在使用的协议 Wyvern 是什么？有何优劣？\n- Seaport 比起 Wyvern 有什么优势？如何在代码层面上实现这些优势？\n\n- Seaport 会给 OpenSea 和行业带来什么影响？\n\n\n被取代的 Wyvern Protocol\n\n\n在 Etherscan 上查询过 NFT 交…",
+          "link": "https://www.theblockbeats.info/news/30718",
+          "publishedOn": "2022-05-31T14:55:42.000Z",
+          "wordCount": null,
+          "title": "开源NFT交易协议Seaport，是否能成为开发者真正的港湾？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30719",
+          "author": null,
+          "description": "原文标题：《\n\nA&T Family ：我们为什么投资 Commonwealth？\n\n》\n原文来源：\n\nA&T Capital\n\n\n\n\n\n\n融资信息\n\n\n初创公司 Common 在其 A 轮融资中筹集了 2000 万美元，A&T Capital、Spark Capital、Polychain、Jump、Wintermute、Mirana Ventures 等参与本轮投资。\n\n\n\n\nCommon 的新资金将用于其 DAO 治理和管理平台 Commonwealth 的进一步发展和去中心化，Commonwealth 在 dYdX、Axie Infinity、NEAR、Solana、BitDAO 和 Polygon 等项目的 700 多个去中心化社区中已经拥有超过 60,000 名活跃用户。\n\n\n\n\n\n我们为什么要投资 Commonwealth？  \n\n\n1. 项目简介  \n\n\nCommonwealth 为 DAO 提供去中心化社区论坛和治理工具，允许 DAO 能在其平台上轻松部署 DAO 治理合约、为社区新提案进行众筹，并为 DAO 成员提供聊天平台和网络论坛。\n\n\n\n\n未来，Commonwealth 计划为 DAO 推出应用商店功能，让每个社区都可以选择定制自己的功能。并支持用户进行社区讨论和投票治理。Commonwealth 提供了从社区讨论到执行提案、社区治理的一站式平台，Commonwealth 未来会发行 $CMN 代币，代币持有者可以获得社区治理等费用作为分红。\n\n\n\n  图片来源：Commonweath  \n2. 投资逻辑  \n\n\n产品方向明确\n\n\n\n\n用户可以在 Commonwealth 建立去中心化社区以及社交论坛，还可以根据需求进行链上治理投票或者是链下快照投票。丰富的功能使 Commonwealth 支持类型多样的去中心化组织，比如协议治理（Uniswap、…",
+          "link": "https://www.theblockbeats.info/news/30719",
+          "publishedOn": "2022-05-31T13:55:42.000Z",
+          "wordCount": null,
+          "title": "A&T Capital ：我们为什么投资Commonwealth？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30717",
           "author": null,
           "description": "原文作者：Bob，BlockBeats\n\n\n\n\n最近，一个名为「rektguy」的 NFT 系列异军突起，一度登顶 OpenSea 日交易额排行榜，引人注目。\n\n\n\n\n\n\n\n来源：OpenSea 官网 5 月 30 日数据\n\n\n\nrekt，是英文单词 wrecked 的同音简写，如果要给 rektguy 找个汉化的解释，「他搞砸了」是一个比较形象的状态。\n\n\n\n\n\n\n\n\n\n来源：rektguy 官网\n\n\n\n「6 个月前，我对日常工作感到无聊，所以做了一个涂鸦（rektguy 草图）。（我觉得）生命是狂荡不羁的。」rektguy 的主创 OSF 这样阐释其创作的灵感来源。\n\n\n\n该 PFP 项目在通过 premint.xyz 送出 1500 个资格后，其余全都给了「OSF 的 NFT 宇宙」相关 NFT 的持有者，且全部为免费铸造。rektguy 于 5 月 22 日开启铸造。在 5 月 27 日铸造终止的同时，开启 PFP 盲盒。至少有 11,000 枚 rektguy 可供铸造。实际共计铸造 8814 枚。\n\n\n\n创始人 OSF\n\n\n\nOvie Faruq，又名 OSF，是一位前华尔街交易员，后来成为 Web3 / NFT 投资者，创作者和艺术家。在全职进入 NFT 领域之前，OSF 的大部分职业生涯都在传统金融领域度过，即在巴克莱银行担任交易员。\n\n\n\n\n\n\n\nOSF 于 2022 年 4 月出席在迈阿密举行的 SuperRare 活动\n\n\n\n\n\n他对于交易的热爱溢于言表，「作为交易员，最好的部分是冒险。与这个领域的很多人类似，我喜欢冒险。作为一名交易员，我基本上可以日复一日地做一份以此为生的工作，我真的很喜欢这样做」。\n\n\n\n2021 年，在了解到 NFT 之后，OSF 开始大展拳脚。在 2021 年 5 月的无聊猿游艇俱乐部（Bored Ape Yacht Club…",
