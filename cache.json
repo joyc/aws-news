@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30720",
+          "author": null,
+          "description": "原文作者：0x137，律动 BlockBeats\n\n\n五月初，Messari 在自己的报告里对 Optimism 做了深度分析，并给出了 90 亿美元的估值。经历多轮巨额融资后，Optimism 已是 a16z、Paradigm 等顶级 VC 之间的共识。随着空投消息的放出，Optimism 再次成为市场的热点话题。\n\n\n无疑，OP 的到来，是加密发展史上的又一标志性事件，它象征着以太坊扩容开启了新的篇章。而在这历史性时刻的背后，是几个「以太坊极客」书写的传奇故事。\n\n\nThe Plasma Dream\n\n\n在 2017 年年中，Vitalik 和 Joseph Poon 共同撰写了一篇名为《Plasma: 可扩容的自主智能合约》的论文，并在这篇论文里首次提出了 Plasma 架构。这是最早用于解决以太坊扩容性问题的方案，当时正值加密游戏 Crypto Kitty 大热，以太坊链上交易量激增，人们为了购买一只加密小猫，需要等上十几分钟，同时支付昂贵的 Gas 费用，以太坊的扩容性已经成了一个必须解决的问题。\n\n\nPlasma 方案提出后不久就引起了三个以太坊核心开发者和研究者的强烈共鸣，他们聚到了一起，成立了一个非营利研究小组 Plasma Group 来构建与实现 Vitalik 的「以太坊最终愿景」。\n\n\n 三个人中，Karl Floersch 是最为「Optimistic」的那个，永远满脸笑容，说话充满激情，是不折不扣的乐观主义者。Karl 是以太坊基金会的 OG 开发者，与 Vitalik 的关系也很近，在看到论文后激动不已，第一时间就采取了行动。\n\n\n\n\n\n\n\nJinglan Wang 是经验丰富的区块链布道者。她在 MIT 时期加入了学校的比特币俱乐部，开启了自己的加密之旅，后来又到纳斯达克担任区块链产品经理，并创立了贸易融资公司 Eximchain。之后，她又…",
+          "link": "https://www.theblockbeats.info/news/30720",
+          "publishedOn": "2022-06-01T02:30:47.000Z",
+          "wordCount": null,
+          "title": "Optimism的诞生故事：3人、5年、90亿美元估值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30722",
+          "author": null,
+          "description": "原文作者：@cwweb3，DAO爱好者\n原文标题：《融资 2300 万刀，帮 DAO 给贡献者发工资交医保的 Utopia 正在构建 DAO 经济最重要的基础设施》\n\n\n做 DAO 薪酬支付系统的 Utopia 拿到了 Paradigm 领投的 2300 万刀，估值 1.15 亿刀。这是个创立只有一年多的 8 人团队，客户有 Sushi 、Lido 、YGG 、FWB 等。\n\n\nUtopia 是什么\n\n\n大部分朋友应该没听过，两周前参加了他们 deal call, 简单总结下接收到的信息。\n\n\nUtopia 几位创始人一年半前在一黑客松结识，他们尝试搞了个 NFT Market 产品，没做起来。之后 DAO 逐渐变的热闹起来，他们发现绝大部分 DAO 的财务还是跑在 google sheet 上。（太真实了，我参与的 DAO 现在做预算 P&L 都还是在用 google sheet，发钱就是手动操作钱包) 所以他们构建了现在的支付系统。\n\n\n这个团队在成立的前 8 个月一直是 4 个人，到现在才刚刚 8 个人。这是一个很亚洲的团队，四位联创里三位是亚裔。。他们已经发了一些 offer，马上会扩充到 12 人。最新要加入都是猛人，包括 Calvin Liu，这兄弟是 Compound 的第一位非技术员工，Compound 战略负责人，也是一个 Venture 的发起人。他加入 Utopia 后同时是战略负责人。\n\n\nUtopia 目前的产品是基于 Gnosis 构建的。这套薪资管理和支付系统已经有不少客户，并且增长很好，4 月通过这套系统支付了 1500 万刀工资，如果把 DAO 自己原生代币算进来，他们管理 60 亿刀资产了（这个数字略虚，因为 DAO 自己的 token 大都流动性很差，算的时候要打大大的折扣）\n\n\n具体产品层要构建的有 ：\n\n\n· 预算系统 \n· 记账系…",
+          "link": "https://www.theblockbeats.info/news/30722",
+          "publishedOn": "2022-06-01T02:09:47.000Z",
+          "wordCount": null,
+          "title": "Utopia：拿到Paradigm领投的2300万美元融资，DAO最重要的基础设施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30721",
+          "author": null,
+          "description": "自STEPN 在社交媒体上发布《关于清查中国大陆帐户的公告》后，社区哗然。短短几天，这个曾经被认为是Web3 应用的龙头口碑开始急转直下。在经历了社区恐慌、创始人与KOL争论等等一系列事件后，创始人Jerry于6月1日凌晨在STEPN华语社区发布了公开信，反省自己，也强调了正在尽可能地找到这种方案。\n\n\n\n\n\n以下为这封公开信的全部内容：\n\n\n大家好，我是 Jerry。 \n\n\n我话不多，但是憋了几天，辗转难眠，起来给大家写点心里话。 \n\n\n首先想先跟一直喜爱我们产品的用户郑重的说一声谢谢。谢谢你们在各种舆论的风口浪尖还依然愿意支持我们、和我们站在一起。我知道我个人在一些场合说过的一些话，虽然本意只是针对少部分的『坏』人，却没能照顾到这些绝大多数拥护我们产品的兄弟姐妹们，为此，我这些天一直在反省，并回顾我们一路走来的路。 \n\n\n我们从 Discord 建立的第一天起，就一直坚持直面社区用户、媒体，并没有采用 PR 公关公司，这种做法把我们推到了聚光灯下。前些日子，Yawn 和我都经受了巨大的压力。[清退] 公告发布后面对的不只是用户的质疑、愤怒，里面还掺杂许多不怀好意者的造谣、诽谤、威胁，我们疲于奔命，焦头烂额，却没有第一时间来社区跟大家坦诚面对交流，对此我们深刻反思。未来我会在产品开发之余多留一些时间跟大家坦诚交流，我还会心直口快，Yawn 还会大嘴巴（一不小心就在 AMA 里面把最新开发的进展说漏嘴了），我们还是我们，但我们会成长，并且不会退缩。 \n\n\n我深知我们能走到今天，主要是因为我们幸运，幸运地有了从最开始就站在我们身后支持 STEPN 的你们，幸运地得到了你们耐心的反馈和建议，幸运地获得了你们的宽容和谅解。 \n\n\n作为 co-founder，我却更喜欢另一个身份，就是产品经理。9 个月前的一纸线稿，发展到今天成为改变百万人生活习惯现象级 app，这是我最自豪之所在…",
+          "link": "https://www.theblockbeats.info/news/30721",
+          "publishedOn": "2022-06-01T01:47:47.000Z",
+          "wordCount": null,
+          "title": "STEPN创始人：我们正在尽可能地找到一个折中方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30716",
+          "author": null,
+          "description": "原文标题：《\n\nToken 经济学：从理解用户想要什么开始\n\n》\n原文作者：Packy McCormick & Tina He\n原文编译：南风，Unitimes\n\n\n当试图理解 Token 时，我们很容易从我们已知的知识中得出结论。\n\n\n有时，Token 的功能类似于公司的股权，拥有 Token 类似于持有该项目潜在收益的股份。其他时候，Token 的作用就像「感恩的 Token」，象征着亲密朋友之间最纯粹的善意。其广泛的角色并不是一个 bug，而是一种在最抽象的意义上表示价值的特征，其意义由系统的设计赋予。换句话说，Token 不一定有任何内在价值，但有相对价值。它是一个被特定系统普遍认可和执行的价值单位的封装。\n\n\nToken 几乎不是一个新概念。贝壳和珠子是最早作为交换媒介的 Token。其他我们今天所熟悉的——比如赌场筹码、信用卡积分、股票证书、音乐会门票和俱乐部会员——都是各种形式的 Token，因为它们代表了一种普遍认可的价值单位，并由发行该 Token 的系统强制执行。当各自的系统未能强制执行和认可这些 Token 的价值时，司法管辖区可以介入以保护 Token 持有者。\n\n\n想想你最近与之交互的 Token：它允许你做哪些你在不持有它的情况下无法做到的事情？你为什么持有它并想要持有更多？如果你放弃或转让 Token 的所有权，会发生什么情况？对许多人来说，这些问题的答案是「获得更多 Token」。对其他人来说，持有 Token 可以让他们有参与自己非常关心的项目和社区的权利。前者涉及的是持有 Token 的经济学，后者涉及的是访问权。\n\n\n当系统中的价值累积与 Token 的价值累积不一致时，Token 设计就很糟糕。Gabriel Shapiro 恰如其分地将 UNI、COMP 以及最近推出的 APE 等 Token 描述为「关联价值」(value by …",
+          "link": "https://www.theblockbeats.info/news/30716",
+          "publishedOn": "2022-06-01T01:47:47.000Z",
+          "wordCount": null,
+          "title": "Token经济学：从理解用户想要什么开始",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30718",
           "author": null,
           "description": "原文标题：《\n\nIOSG Weekly Brief ｜Seaport，OpenSea Token化的开端？\n\n》\n原文来源：IOSG\n\n\nPart.1 Insight\n\n\nSeaport，OpenSea Token化的开端？\n\n\n作者：Chloe, IOSG Ventures\n本文仅做行业学习交流之用，不构成任何投资参考\n\n\nTL;DR\n\n\n- 5 月 21 日，OpenSea 宣布推出自己的开源交易协议 Seaport，引起广泛关注。\n- 目前 OpenSea 所使用的协议是 Wyvern v2，Wyvern 是一个开源的交易协议。\n- Seaport 通过使用 Solidity 汇编语言实现 gas fee 优化，据估计能降低 50% 左右的 gas。\n- Seaport 更加开发者友好，能赋能开发者建立自己的 NFT 交易市场。\n- OpenSea 将开启 NFT 易 NFT 的新交易模式，有效提高二级市场 NFT 的流动性。\n- 开源和去中心化是 Web3.0 时代的大势，NFT 交易市场将有更加激烈的竞争和更多的创新。\n\n\n\n\n\n5 月 21 日，OpenSea 宣布推出开源 NFT 市场交易协议 Seaport，在推特上引起热议。有人称 OpenSea 的这一举措旨在成为 NFT 界的 Uniswap，也有人称 Seaport 有望开启又一个 NFT Summer。一时间众说纷纭，笔者也借此机会与大家共同探讨关于 Seaport 的几大热点与问题：\n\n\n- OpenSea 现在使用的协议 Wyvern 是什么？有何优劣？\n- Seaport 比起 Wyvern 有什么优势？如何在代码层面上实现这些优势？\n\n- Seaport 会给 OpenSea 和行业带来什么影响？\n\n\n被取代的 Wyvern Protocol\n\n\n在 Etherscan 上查询过 NFT 交…",
@@ -133,16 +173,6 @@
           "publishedOn": "2022-05-30T03:45:28.000Z",
           "wordCount": null,
           "title": "熊市终极指南：初中高级Crypto玩家的投资策略",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30702",
-          "author": null,
-          "description": "原文标题：《Aztec network 分析和使用教程》\n原文作者：Johns\n原文来源：Johns Medium\n\n\nAztec 是一个开源的第 2 层网络，也为以太坊带来了可扩展性和隐私性。Aztec 使用 zkSNARK 证明通过 zkRollup 的服务提供隐私和扩展。\n\n\nAztec 最近完成了由顶级加密基金 Paradigm 领投的 1700 万美金的 A 轮融资，其他著名投资机构还包括 IOSG Ventures 和以太坊创始人 V 神。\n\n\n\nAztec 的研究团队总部位于伦敦，该团队由许多技术性成员组成，并且在以太坊上为 layer2 带来了多项技术突破，团队在 2019 年发明了零知识证明系统 plonk，这在区块链行业做零知识证明的开发团队间很有影响力。\n\n\n\n以太坊创始人 V 神多次在推特提到 Aztec 的优秀工作。\n\n\n\nAztec 有两个主要作用，第一，保护用户交互时候的隐私性，这点已经有成型的产品 zk.money。第二，用户可通过 Aztec 提供可编程的隐私合约，建立完全隐私的应用。\n\n\n\nAztec 团队发明的通用型 ZK-SNARK 技术 plonk 是一个兼顾性能和安全的零知识证明技术，编程语言 noir 是 Aztec 的 rust 形式语言，用户可通过 noir 在 plonk 中实现可编程的隐私保护合约。根据不同的隐私需求和应用场景，设计出新的应用，创建出下一代隐私的去中心化金融服务。\n\n\n\n\n\nNoir 为开发人员提供了为主网协议编写自定义逻辑的工具，从 DeFi 到资本市场和订单簿。\n\n\n\nNoir 为工程师提供了以下关键：\n\n\n\n1. 自定义私人交易；\n\n\n2. 任何曲线上的签名；\n\n\n3. 来自电路的以太坊合约调用；\n\n\n4. Aztec 标准库—常见加密原语的高效审计版本。\n\n\n可编程的隐私合约非常重要，会给 DeFi 世界带来一条新的道路，例如你可以在 Aztec 网络上的 Uniswap 进行匿名交互，创建隐私的去中心化交易平台，保证交易的私密性。你可以建立私密的加权投票应用，保护投票者的隐私。你也可以建立身份认可程序，使用户在不透露个人隐私的情况下证明自己属于某个团体。诸如此类，你可以通过 Aztec 建立很多隐私应用。\n\n\n\n下面详细介绍 ZK.MONEY 的交互教程。\n\n\n\n打开官网：\n\n\n\n\n\n\n\n\n\n点击 ZK.MONEY。\n \n\n\n\n\n\n\n\n点击现在屏蔽。\n\n\n\n\n\n\n\n\n\n\n\n\n连接钱包，签名。\n\n\n\n\n\n\n\n\n\n取用户名。\n\n\n\n\n\n  这里注意，如果你输入用户名后显示红色感叹号，说明这个名字已经被人注册了。你需要换一个名字。  \n\n\n\n\n\nOk，这个名字可以用。\n\n\n点击 Register。\n\n\n\n\n\n\n\n\n\n点击签名。\n\n\n\n\n\n\n\n\n\n这个时候在创建账户中，不要关闭网页。\n\n\n\n\n\n\n\n\n\n账户创建成功后，注意至少要 Shield 0.01 ETH。\n\n\n\n\n\n\n\n\n\n点击 Shield。\n\n\n\n\n\n\n\n\n\n钱包确认。\n\n\n\n\n\n\n\n\n\nShield 中稍等一下。\n\n\n\n\n\n\n\n\n\n钱包签名。\n\n\n\n\n\n\n\n\n\n这个时候我们可以在右上角看到账户创建成功。\n\n\n\n\n\n  但是这两个圆点是黄色的，我们要等它变成绿色才算正式完成账户创建，这个过程需要几个小时。  \n\n\n\n\n\n  还有一点注意一下，我们每次在 Shield 或者 Send 的时候，都可以自己选择 Fee，Fee 越高交互过程越快。  \n\n\n\n\n\n\n\n\n\n几个小时后这里变成了绿色，点击发送。\n\n\n\n\n\n\n\n\n\n接受者可以填写用户名或者以太坊地址都可以。然后注意黄色的警告，软件尚未审计，金额上限为 30 ETH，风险自担。\n\n\n\n\n\n\n\n\n\n填好用户名，点击下一个。\n\n\n\n\n\n\n\n\n\n阅读交易面板，确认发送。\n\n\n\n\n\n\n\n\n\n钱包签名。\n\n\n\n\n\n\n\n\n\n这个界面稍微等待一下。\n\n\n\n\n\n\n\n\n\n然后我们在主页面看到了发送记录，等是黄色的，需要等一段时间才会变成绿色。\n\n\n\n\n\n\n\n\n\n\n\n一段时间后，我们看到发送方和接受方的灯都变成了绿色，交互结束。\n\n\n声明：本教程仅作学习交流，不是投资建议。\n\n\n原文链接\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/30702",
-          "publishedOn": "2022-05-29T13:17:26.000Z",
-          "wordCount": null,
-          "title": "手把手教你与隐私网络Aztec Network交互",
           "imageUrl": null
         }
       ]
