@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-01T06:16:47.824Z</updated>
+    <updated>2022-06-01T12:17:47.231Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6个新项目，BNB Chain黑客松获奖项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/30726</id>
+        <link href="https://www.theblockbeats.info/news/30726"/>
+        <updated>2022-06-01T07:33:43.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《一文速览 BNB Chain 全球黑客松六大赛道冠军项目》
+原文作者：Morty，深潮 TechFlow
+
+
+
+5 月 31 日，由 BNB Chain 和 DoraHacks 联合主办的 Revelation：BNB Chain 全球黑客松暨 BNB 长期 Grant Round-1 活动结束了，本次活动共有 216 个参与项目，最终不同赛道的六个项目通过评选脱颖而出。让我们来看一下这些优胜项目们。
+
+
+
+
+
+
+
+ InsurAce.io Protocol（@InsurAce_io）
+
+
+
+
+
+
+
+InsurAce 是由 Venus Protocol 赞助的突破性 DeFi 赛道的冠军。InsurAce 是一个去中心化多链保险协议，主要职能是为 DeFi 投资者提供稳定的保险服务，以便降低其风险敞口。InsurAce 的优势是低保费、跨链&多链、可持续投资回报。
+
+
+目前，InsurAce 已经覆盖了分布在 20 条公链上，超过 120 个协议，并在 Ethereum、BSC、Polygon 和 Avalanche 上部署了一个即用版本。
+
+
+官网
+
+
+该赛道的亚军和季军分别是 Velvet Captial（@Velvet_Capital）和 Weave（@Weave_Financial）。Velvet Captial 是一个多链 DeFi 协议，可以帮助用户创建加密货币投资组合和指数。Weave 支持用户创建+定制自动 DeFi 策略，帮助 DeFi 新玩家快速进入 DeFi 世界。
+
+
+
+Aquari（@AquariOfficial）
+
+
+
+
+
+
+
+Aquari 是由 HashKey Capital 赞助的区块链公益赛道的冠军。Aquari 被推出的目的是资助环保组织以消除海洋污染，他们的解题思路是梳理河流污染，工作主要集中在印度。Aquari 通过加密货…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism的诞生故事：3人、5年、90亿美元估值]]></title>
         <id>https://www.theblockbeats.info/news/30720</id>

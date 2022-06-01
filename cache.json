@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30726",
+          "author": null,
+          "description": "原文标题：《一文速览 BNB Chain 全球黑客松六大赛道冠军项目》\n原文作者：Morty，深潮 TechFlow\n\n\n\n5 月 31 日，由 BNB Chain 和 DoraHacks 联合主办的 Revelation：BNB Chain 全球黑客松暨 BNB 长期 Grant Round-1 活动结束了，本次活动共有 216 个参与项目，最终不同赛道的六个项目通过评选脱颖而出。让我们来看一下这些优胜项目们。\n\n\n\n\n\n\n\n InsurAce.io Protocol（@InsurAce_io）\n\n\n\n\n\n\n\nInsurAce 是由 Venus Protocol 赞助的突破性 DeFi 赛道的冠军。InsurAce 是一个去中心化多链保险协议，主要职能是为 DeFi 投资者提供稳定的保险服务，以便降低其风险敞口。InsurAce 的优势是低保费、跨链&多链、可持续投资回报。\n\n\n目前，InsurAce 已经覆盖了分布在 20 条公链上，超过 120 个协议，并在 Ethereum、BSC、Polygon 和 Avalanche 上部署了一个即用版本。\n\n\n官网\n\n\n该赛道的亚军和季军分别是 Velvet Captial（@Velvet_Capital）和 Weave（@Weave_Financial）。Velvet Captial 是一个多链 DeFi 协议，可以帮助用户创建加密货币投资组合和指数。Weave 支持用户创建+定制自动 DeFi 策略，帮助 DeFi 新玩家快速进入 DeFi 世界。\n\n\n\nAquari（@AquariOfficial）\n\n\n\n\n\n\n\nAquari 是由 HashKey Capital 赞助的区块链公益赛道的冠军。Aquari 被推出的目的是资助环保组织以消除海洋污染，他们的解题思路是梳理河流污染，工作主要集中在印度。Aquari 通过加密货…",
+          "link": "https://www.theblockbeats.info/news/30726",
+          "publishedOn": "2022-06-01T07:33:43.000Z",
+          "wordCount": null,
+          "title": "6个新项目，BNB Chain黑客松获奖项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30720",
           "author": null,
           "description": "原文作者：0x137，律动 BlockBeats\n\n\n五月初，Messari 在自己的报告里对 Optimism 做了深度分析，并给出了 90 亿美元的估值。经历多轮巨额融资后，Optimism 已是 a16z、Paradigm 等顶级 VC 之间的共识。随着空投消息的放出，Optimism 再次成为市场的热点话题。\n\n\n无疑，OP 的到来，是加密发展史上的又一标志性事件，它象征着以太坊扩容开启了新的篇章。而在这历史性时刻的背后，是几个「以太坊极客」书写的传奇故事。\n\n\nThe Plasma Dream\n\n\n在 2017 年年中，Vitalik 和 Joseph Poon 共同撰写了一篇名为《Plasma: 可扩容的自主智能合约》的论文，并在这篇论文里首次提出了 Plasma 架构。这是最早用于解决以太坊扩容性问题的方案，当时正值加密游戏 Crypto Kitty 大热，以太坊链上交易量激增，人们为了购买一只加密小猫，需要等上十几分钟，同时支付昂贵的 Gas 费用，以太坊的扩容性已经成了一个必须解决的问题。\n\n\nPlasma 方案提出后不久就引起了三个以太坊核心开发者和研究者的强烈共鸣，他们聚到了一起，成立了一个非营利研究小组 Plasma Group 来构建与实现 Vitalik 的「以太坊最终愿景」。\n\n\n 三个人中，Karl Floersch 是最为「Optimistic」的那个，永远满脸笑容，说话充满激情，是不折不扣的乐观主义者。Karl 是以太坊基金会的 OG 开发者，与 Vitalik 的关系也很近，在看到论文后激动不已，第一时间就采取了行动。\n\n\n\n\n\n\n\nJinglan Wang 是经验丰富的区块链布道者。她在 MIT 时期加入了学校的比特币俱乐部，开启了自己的加密之旅，后来又到纳斯达克担任区块链产品经理，并创立了贸易融资公司 Eximchain。之后，她又…",
