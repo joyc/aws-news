@@ -134,56 +134,6 @@
           "wordCount": null,
           "title": "DAOrayaki：通过计算机辅助DAO治理流程归纳",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30711",
-          "author": null,
-          "description": "原文标题：《Some investors got rich before a popular stablecoin imploded, erasing $60 billion in value》\n原文作者：MacKenzie Sigalos\n\n\n原文编译：Moni，Odaily 星球日报\n\n\n虽然 LUNA 暴跌让大多数投资者遭受巨额损失，但一些投资机构却在市场崩盘之前大赚了一笔，最新数据显示，获利的加密风投机构主要包括 Pantera Capital、Hack VC、Galaxy Digital、以及双子星交易所创始人 Winklevoss 兄弟支持的香港加密风投 CMCC Global，其中 Pantera Capital 对 LUNA 的 170 万美元投资获得了 100 倍回报，Hack VC 和 CMCC Global 没有披露确切收益，仅透露分别在 2021 年 12 月和 2022 年 3 月提前退出。\n\n\n谁在 LUNA 崩盘前成功离场？\n\n\n数据来看，LUNA 闪崩中的最大赢家可能是 Pantera Capital，这家加密对冲基金获得了高达 100 倍的投资回报。\n\n\nPantera Capital 联席首席投资官 Joey Krug 表示，他们在 2021 年 1 月到 2022 年 4 月出售了约 87% 的 LUNA 头寸，5 月又出售了 8% 的 LUNA 头寸（此时市场已处于崩盘状态），另有 5% 的 LUNA 头寸被「卡住了」。可是，就算他们被「卡住」的 LUNA 一文不值，根据所有这些提前抛售的头寸价值计算，这家加密基金对 LUNA 初始投资获得的回报大约达到 1.71 亿美元。\n\n\n然而，有些事情令人感到不寻常，因为 Pantera Capital 首席执行官 Dan Morehead 曾在 2021 年 12 月还在不断「吹捧」LUNA…",
-          "link": "https://www.theblockbeats.info/news/30711",
-          "publishedOn": "2022-05-30T11:46:50.000Z",
-          "wordCount": null,
-          "title": "Luna幸运逃顶的VC们",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30709",
-          "author": null,
-          "description": "原文作者：Raoul Pal，Global Macro Investor、Real Vision 创始人\n\n原文编译：0x137\n\n\nRaoul Pal 是全球宏观金融研究机构 Global Macro Investor 和 Real Vision 的创始人，也是当前加密领域最知名的 KOL 之一。本文梳理自 Raoul Pal 在个人社交媒体平台上的观点，律动 BlockBeats 对其整理翻译如下：\n\n\n现在 Twitter 上的很多人都认为科技股已死，然而实际情况是，纳斯达克指数已经回到了 150 周移动平均线的趋势上。\n\n\n\n\n\n\n\n换句话说，纳指目前处于对数回归通道的底部，实际上非常「便宜」，但在峰值中也可以看到更多的下行空间。\n\n\n\n\n\n\n\n估值回到了平均水平。\n\n\n\n\n\n\n\n但是，大规模长期收益衰退也可能会导致与股市与长期趋势产生较大的偏差，例如 2001 年和 2008 年那样。\n\n\n\n\n\n\n\n因此真正的问题是，我们是否会经历一场更持久的经济衰退，导致收益被压垮？由于过度紧缩的货币政策而导致的衰退似乎已非常明显，下面这张来自 Bittel Julien 的图表显示了利率、大宗商品和美元的变化率。\n\n\n\n\n\n\n\n这张图表表明的是，由于需求冲击，我们面临着非常急剧的增长收缩的风险，因为更高的商品价格和更高的借贷成本扼杀了需求。\n\n\n而下面这样图表也暗示了相同的风险。\n\n\n\n\n\n\n\n还有这张。\n\n\n\n\n\n\n\n纳指已经 Price In 了一个温和的衰退场景，但我相信可以Price In的空间还很大……\n\n\n\n\n\n\n\n我的 base case 类比是 1974 年，当时由于高油价和高利率，导致增长崩溃，ISM 指数在 4 个月内从 56 下跌至 30，成为历史上最快的跌幅之一。但随着美联储降息，衰退都很快结束了，即使 CPI 和石油价格仍在上涨。\n\n\n\n\n\n\n\n20…",
-          "link": "https://www.theblockbeats.info/news/30709",
-          "publishedOn": "2022-05-30T10:05:16.000Z",
-          "wordCount": null,
-          "title": "在宏观机构眼里，市场是否到底了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30708",
-          "author": null,
-          "description": "原文标题：《一文速览以太坊 HackMoney 2022 黑客松十大获奖项目》\n原文来源：深潮 TechFlow\n原文作者：Morty\n\n\n5 月 6 日开启的以太坊 HackMoney 黑客松活动于 5 月 27 日落下了帷幕，总计有 1205 名开发者参与，共推出了 214 个新项目，并获得超过 30 万美金的奖金，是有史以来最大的黑客松活动。让我们来看一下赢得这次黑客松 Grant 的十个项目。\n\n\nWhip\n\n\nWhip 是一个财务风险分析仪表盘与 DAO 风险策略回测产品。它将通过实时数据馈送，为协议和 DAO 国库建立一个风险模型。本质来讲，Whip 是一个 DAO 工具，能够帮助很多 DAO 国库来控制风险，以进行风险更低的金融行为。它最大的特点是，对用户友好。\n\n\n团队 Twitter：https://twitter.com/VaughnMcK\n\n\n\nWido Router\n\n\nWido Router 是一个跨链银行，支持用户一键存取款。它基于 LayerZero 和 Stargate Finance 构建，主要目的是补足 Stargate 这样的跨链协议在存取款、流动性挖矿等方面的不足，因为目前来看，Stargate 所做的工作往往只针对跨链和统一流动性资金池。据其在官网的介绍，在 Wido Router 的基础上，它能够做的事情还有很多，比如 DeFi 稳定币收益看板、投资前盈亏计算器、以太坊 Gas 减免等。\n\n\n官网：https://www.joinwido.com/\n\n\n\nOK Vault\n\n\nOK Vault 是一个反向投标拍卖 (RBA) 生成器。RBA 本身是一种较为新颖的拍卖形式，对散户友好，对巨鲸不友好。基本流程是用户参与拍卖，出价最低且唯一的出价者赢得拍卖。对此，评委会表示：该项目所拥有的「独特的拍卖系统」以及「与 Coinbase W…",
-          "link": "https://www.theblockbeats.info/news/30708",
-          "publishedOn": "2022-05-30T09:36:16.000Z",
-          "wordCount": null,
-          "title": "10个新项目，以太坊HackMoney黑客松获奖项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30668",
-          "author": null,
-          "description": "不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。\n\n\n我们常说，在熊市中你需要做的只有 Build。那么，该\n\nBuild 什么？去哪 Build？\n\n\nBlockBeats Web3 招聘墙\n\n\nBlockBeats 希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。\n\n\nBlockBeats\n招聘岗位：海外运营、iOS 开发（希望你对 Crypto 领域有所了解）\n\n工作语言：中文/英文\n联系方式：contact@theblockbeats.org\n\n\nRSS3\n招聘岗位：工程师、市场、HR、设计\n工作语言：中文/英文\n工作地点：全远程分布式办公\n联系方式：https://rss3.notion.site/Open-Source-Remote-RSS3-Offering-the-Dopest-Positions\n\n\n\n\nOKX\n招聘岗位：BD、工程师、财务、市场、运营、产品、HR 等\n工作语言：英文/中文\n工作地点：部分可远程/香港/新加坡/马拉西亚\n联系方式：https://boards.greenhouse.io/OKX\n\n\n\nFTX US\n招聘岗位：BD、合规、工程师等\n工作语言：英文\n联系方式：https://jobs.lever.co/FTXUS\n\n\nBinance US\n\n\n招聘岗位：BD、工程师、市场、数据分析、财务、产品等\n\n\n工作语言：英文/中文\n工作地点：可远程/美国/新加坡…",
-          "link": "https://www.theblockbeats.info/news/30668",
-          "publishedOn": "2022-05-30T09:31:16.000Z",
-          "wordCount": null,
-          "title": "Web2裁员潮，Web3求人潮 | Web3招聘墙",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30707",
-          "author": null,
-          "description": "原文标题：《A&T Family：我们为什么要投资 Commonwealth？》\n原文来源：AnT Capital\n\n\n01 融资信息\n\n\n初创公司 Common 在其 A 轮融资中筹集了 2000 万美元，A&T Capital、Spark Capital、Polychain、Jump、Wintermute、Mirana Ventures 等参与本轮投资。\n\n\n\nCommon 的新资金将用于其 DAO 治理和管理平台 Commonwealth 的进一步发展和去中心化，Commonwealth 在 dYdX、Axie Infinity、NEAR、Solana、BitDAO 和 Polygon 等项目的 700 多个去中心化社区中已经拥有超过 60,000 名活跃用户。\n\n\n\n图片来源：Twitter @hicommonwealth\n\n\n02 我们为什么要投资 Commonwealth？\n\n\n1 项目简介\n\n\n\nCommonwealth 为 DAO 提供去中心化社区论坛和治理工具，允许 DAO 能在平台上轻松部署 DAO 治理合约、为社区新提案进行众筹，并为 DAO 成员提供聊天平台和网络论坛。\n\n\n未来，Commonwealth 计划为 DAO 推出应用商店功能，让每个社区都可以选择定制自己的功能。并支持用户进行社区讨论和投票治理。Commonwealth 提供了从社区讨论到执行提案、社区治理的一站式平台，Commonwealth 未来会发行 CMN Token，Token 持有者可以获得社区治理等费用作为分红。\n\n\n\n图片来源：Commonweath\n\n\n2 投资逻辑\n\n\n产品方向明确\n\n\n用户可以建立去中心化社区，建立论坛社交，还可以根据需求进行链上治理投票或者是链下快照投票。丰富的功能使 Commonwealth 支持类型多样的去中心化组织，比如协议治理（Uniswa…",
-          "link": "https://www.theblockbeats.info/news/30707",
-          "publishedOn": "2022-05-30T09:31:16.000Z",
-          "wordCount": null,
-          "title": "AnT Capital：我们为什么投资Commonwealth？",
-          "imageUrl": null
         }
       ]
     },
