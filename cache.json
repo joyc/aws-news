@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30735",
+          "author": null,
+          "description": "原文标题：《Flavors of Standalone Multichain Architecture》\n原文作者：Shanav K Mehta，Jump Crypto\n原文编译：郭倩雯，链捕手\n\n\n\n  概述  \n\n\n\n长期以来，可扩展性一直是该领域广泛讨论的话题。围绕单片式区块链与模块化区块链、横向与纵向扩展的讨论长期以来一直是社群交流的重点。\n\n\n一种流行观点因此应运而生——为特定应用程序或用例建立专门的执行环境或者甚至是最终性（即 finality，指区块链上的交易达到了交易状态确认的状态）工具。这种想法具体指，基于每个产品、每个应用程序的安全和速度需求，对共识和计算进行分离与优化，这在理论上可以减轻单一底层区块链的负载并提升其性能。但这种方法长期受制于一点：这种架构下确保互操作性所需的基础设施是极其复杂的。\n\n\n在过去的几年里，我们通过不同的方式应对这些挑战，取得重大进展。更重要的是，在过去几个月里，几个独立多链环境的通信层已上线，这些通信层可以说是这块「拼图」中最重要的一块。同时，在过去几周，更多的 L1/L2 区块链宣布调整架构，为特定应用的区块链提供开箱即用的基础设施，再一次重新激发了相关讨论。\n\n\n在这篇文章中，我们详细研究了为追求这一愿景而开发的各种形式的架构，并比较了它们在共享共识、容量和互操作性方面的取舍。具体来说，我们研究了五个独立的多链架构：Polkadot、Cosmos、Avalanche、Polygon Supernets 和 Binance BAS。\n\n\n 注：该文章主要关注独立多链基础设施，在此特定应用的区块链会共享验证者组或共识算法。\n\n\n\n  比较标准  \n\n\n\n独立多链生态系统的连接程度各有不同，低至共享开发者工具包，高至共享验证者集、最终性工具和状态。客观来说，每种方法各有优势，但都对共享安全的维护和速度/能力进行了一定程度的优化…",
+          "link": "https://www.theblockbeats.info/news/30735",
+          "publishedOn": "2022-06-03T01:43:25.000Z",
+          "wordCount": null,
+          "title": "Jump Crypto：详解Cosmos、Avalanche等五大多链架构的特点与优劣势",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30732",
           "author": null,
           "description": "原文标题：《Are DAO Token Swaps Effective for Treasury Diversification?》\n原文作者：Darsh Patel\n原文编译：Demo @DAOrayaki， DoraFactory\n\n\n多元化到其他加密资产，无论是稳定的还是非稳定的，正迅速成为 DAO 资金管理议程的核心，但如何做到这一点仍有待讨论。财库互换 (Treasury Swaps) 代表了 DAO 在与其他协议形成战略联盟的同时，从自己的治理 Token 多样化的最新尝试。在这篇文章中，DAOrayaki 社区将探讨 Token 互换 (token swaps) 是否真的会导致投资组合多样化，以及治理 Token 的交换是否有必要在战略上协调两个项目。\n\n\n财库互换 101\n\n\n\n这很可能是第一次财库互换\n\n\nDAO 财库互换是 DAO 可以通过将本地治理 Token 与其他 DAO 的 Token 交易来与其他 DeFi 协议集成的提议。这使得 DAO 可以参与彼此的治理并形成战略联盟，利用其持有的实力从本质上交易整个 DeFi 生态系统的影响力。在包括 Balancer DAO 创始人 Fernando Martinelli 在内的许多 DAO 财库互换支持者设想的乌托邦式未来中，许多 DAO 将拥有彼此的一小部分并积极参与彼此的治理过程。\n\n\n作为 DAO 财库互换的先驱之一，Balancer 社区已与 Fei、mStable、PrimeDAO 和 GnosisDAO 进行了成功的互换——最近提出了与另一位以太坊重量级人物 Aave 进行潜在互换的提议。Balancer 与 Fei 的第一次成功的财库互换涉及将 200,000 BAL 换成 FEI Stablecoin（2,454,000）和 TRIBE 治理 Token（2,598,000）的等量部分…",
@@ -113,26 +123,6 @@
           "publishedOn": "2022-06-01T01:47:47.000Z",
           "wordCount": null,
           "title": "Token经济学：从理解用户想要什么开始",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30718",
-          "author": null,
-          "description": "原文标题：《\n\nIOSG Weekly Brief ｜Seaport，OpenSea Token化的开端？\n\n》\n原文来源：IOSG\n\n\nPart.1 Insight\n\n\nSeaport，OpenSea Token化的开端？\n\n\n作者：Chloe, IOSG Ventures\n本文仅做行业学习交流之用，不构成任何投资参考\n\n\nTL;DR\n\n\n- 5 月 21 日，OpenSea 宣布推出自己的开源交易协议 Seaport，引起广泛关注。\n- 目前 OpenSea 所使用的协议是 Wyvern v2，Wyvern 是一个开源的交易协议。\n- Seaport 通过使用 Solidity 汇编语言实现 gas fee 优化，据估计能降低 50% 左右的 gas。\n- Seaport 更加开发者友好，能赋能开发者建立自己的 NFT 交易市场。\n- OpenSea 将开启 NFT 易 NFT 的新交易模式，有效提高二级市场 NFT 的流动性。\n- 开源和去中心化是 Web3.0 时代的大势，NFT 交易市场将有更加激烈的竞争和更多的创新。\n\n\n\n\n\n5 月 21 日，OpenSea 宣布推出开源 NFT 市场交易协议 Seaport，在推特上引起热议。有人称 OpenSea 的这一举措旨在成为 NFT 界的 Uniswap，也有人称 Seaport 有望开启又一个 NFT Summer。一时间众说纷纭，笔者也借此机会与大家共同探讨关于 Seaport 的几大热点与问题：\n\n\n- OpenSea 现在使用的协议 Wyvern 是什么？有何优劣？\n- Seaport 比起 Wyvern 有什么优势？如何在代码层面上实现这些优势？\n\n- Seaport 会给 OpenSea 和行业带来什么影响？\n\n\n被取代的 Wyvern Protocol\n\n\n在 Etherscan 上查询过 NFT 交…",
-          "link": "https://www.theblockbeats.info/news/30718",
-          "publishedOn": "2022-05-31T14:55:42.000Z",
-          "wordCount": null,
-          "title": "开源NFT交易协议Seaport，是否能成为开发者真正的港湾？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30719",
-          "author": null,
-          "description": "原文标题：《\n\nA&T Family ：我们为什么投资 Commonwealth？\n\n》\n原文来源：\n\nA&T Capital\n\n\n\n\n\n\n融资信息\n\n\n初创公司 Common 在其 A 轮融资中筹集了 2000 万美元，A&T Capital、Spark Capital、Polychain、Jump、Wintermute、Mirana Ventures 等参与本轮投资。\n\n\n\n\nCommon 的新资金将用于其 DAO 治理和管理平台 Commonwealth 的进一步发展和去中心化，Commonwealth 在 dYdX、Axie Infinity、NEAR、Solana、BitDAO 和 Polygon 等项目的 700 多个去中心化社区中已经拥有超过 60,000 名活跃用户。\n\n\n\n\n\n我们为什么要投资 Commonwealth？  \n\n\n1. 项目简介  \n\n\nCommonwealth 为 DAO 提供去中心化社区论坛和治理工具，允许 DAO 能在其平台上轻松部署 DAO 治理合约、为社区新提案进行众筹，并为 DAO 成员提供聊天平台和网络论坛。\n\n\n\n\n未来，Commonwealth 计划为 DAO 推出应用商店功能，让每个社区都可以选择定制自己的功能。并支持用户进行社区讨论和投票治理。Commonwealth 提供了从社区讨论到执行提案、社区治理的一站式平台，Commonwealth 未来会发行 $CMN 代币，代币持有者可以获得社区治理等费用作为分红。\n\n\n\n  图片来源：Commonweath  \n2. 投资逻辑  \n\n\n产品方向明确\n\n\n\n\n用户可以在 Commonwealth 建立去中心化社区以及社交论坛，还可以根据需求进行链上治理投票或者是链下快照投票。丰富的功能使 Commonwealth 支持类型多样的去中心化组织，比如协议治理（Uniswap、…",
-          "link": "https://www.theblockbeats.info/news/30719",
-          "publishedOn": "2022-05-31T13:55:42.000Z",
-          "wordCount": null,
-          "title": "A&T Capital ：我们为什么投资Commonwealth？",
           "imageUrl": null
         }
       ]
