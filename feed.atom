@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-05T06:09:29.523Z</updated>
+    <updated>2022-06-05T12:13:24.708Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何打造一个开源项目并获得盈利？]]></title>
+        <id>https://www.theblockbeats.info/news/30759</id>
+        <link href="https://www.theblockbeats.info/news/30759"/>
+        <updated>2022-06-05T09:04:50.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《The Economics of Open Source》
+原文作者：BlockScience
+原文编译：Tan zhi Xuan's@DAOrayaki.org，DoraFactory
+
+
+开源软件一直被大多数人误解为「免费的公共物品」，而这是由那些善意的程序员慷慨地呈现给你的，他们要么没有商业思维，要么对利他主义有着极端的偏好。虽然这个假设有一丝丝的真实性，但它远比我们看到的要多。它不仅是 IT 行业进步的强大力量，而且，如果做得好的话，这是私人组织很少能比拟的独特竞争优势。经过一番研究，DAOrayaki 社区将从以下几个方面讨论开源经济学。
+
+
+
+
+1. 你如何定义开源软件？
+
+
+2. 这发展理念的历史和产生的影响是什么？
+
+
+3. 它在财务上是如何运作的，并且能否在一个高度私有化的行业中竞争？
+
+
+4. 开源项目的经济性是否使其成为具有吸引力的风险投资？
+
+
+
+
+
+VC 对开源项目的投资同比增长（图片来源：Battery：https://www.scribd.com/document/536774580/Battery-Ventures-OpenCloud-Report-2021）
+
+
+
+
+定义 OSS
+
+
+
+
+OpenSource.com 的定义如下：
+
+
+开源软件是具有源代码的软件，任何人都可以检查、修改和加强。「源代码」是大多数计算机用户从未见过的软件部分；它是计算机程序员可以操作的代码，以改变一个软件——一个「程序」或「应用程序」——的运行方式。能够接触到计算机程序源代码的程序员可以通过增加功能或修复无法正常运行的部分来改进该程序。
+
+
+你会注意到的第一件事是，定义中没有包括「免费」这个词。尽管大多数开源工具都是免费的（我们稍后会谈到货币化），但这定义围绕的中心是在源代码的可用性，以及你作为一个独立的开发者对项目的贡献，对它进行询问的权利。开源…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：Optimism的诞生故事；市场是否已经到底？]]></title>
         <id>https://www.theblockbeats.info/news/30742</id>
