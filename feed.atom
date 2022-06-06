@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-06T12:15:24.276Z</updated>
+    <updated>2022-06-06T18:09:47.141Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12个领域梳理DAO的操作系统]]></title>
+        <id>https://www.theblockbeats.info/news/30775</id>
+        <link href="https://www.theblockbeats.info/news/30775"/>
+        <updated>2022-06-06T14:16:44.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Updating the DAO Operating System
+
+》
+
+
+原文作者：siddhearta
+原文编译：SueT@DAOrayaki.org， DoraFactory
+
+
+
+
+
+本文深入探讨了 DAO 的操作系统。作者认为所有的组织都需要操作系统，DAO 也不例外。文章首先分析了一个好的操作系统和槽糕的操作系统的特征是如何的，并将其类比到 DAO 组织中去。「DAO 提供了一个改变我们工作方式的机会，但如果它们要成为工作的未来，我们需要升级我们的组织方式。我们需要一个新的操作系统。」作者随之继续介绍了 TEAL，即进化型组织系统，并认为 DAO 与 TEAL 组织十分相似，享有许多共同的核心元素。然后以进化型组织为基点，从 12 个领域梳理了一个更新更好的 DAO 的操作系统，包括目的、权力、结构、战略、资源、工作流程、会议、信息、社区成员、掌握和报酬。最后作者认为 DAO 的未来非常美好并值得畅想，我们应该更新我们工作的方式（即操作系统）来建立更好的 DAO 的世界。
+
+
+
+资料来源：circlesandsticks
+
+
+
+
+你的 DAO 已经有了一个操作系统
+
+
+我们都熟悉计算机操作系统（OS），它是用户和计算机之间的接口。一个充满漏洞或设计不良的操作系统会带来糟糕的用户体验，并使一个原本非常强大的工具变得毫无用处。
+
+
+组织也有操作系统。组织操作系统决定了人们在组织内一起工作的方式，以及该组织将如何运作。就像在计算机操作系统中一样，组织操作系统中的漏洞会造整个系统不起作用，激化团队冲突，并破坏社区的氛围。
+
+
+在 DAO 中，你可能对「运营」一词十分熟悉，但一个有效的操作系统所包含的内容要素远不止有「运营」。DAO 运营是你的操作系统的一部分，但它不是你操作系统的全部。操作系统是指整个系统，是允许 DAO 成员在其组织中有效工作并实现目的的…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年Consensus（共识大会）将于6月9日开幕，重要议程抢先看]]></title>
         <id>https://www.theblockbeats.info/news/30773</id>
@@ -782,79 +822,6 @@ Cheers DAY 听起来很有趣，什么活动呢？
 
 
 Baselabs：哈哈，这个活动其实是社区用户最早在 #suggestion 频道提议的，首先感谢大家的建议，我…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hutt Capital 2021-2022年度加密VC增长报告]]></title>
-        <id>https://www.theblockbeats.info/news/30739</id>
-        <link href="https://www.theblockbeats.info/news/30739"/>
-        <updated>2022-06-04T04:01:18.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-
-
-Hutt Capital Blockchain VC Landscape—2022 Edition
-
-
-》
-原文来源：Hutt Capital  
-原文编译：老雅痞
-本文来自微信公众号：老雅痞
-
-
-
-
-很高兴能发布我们对区块链风险投资领域的第四次年度回顾，对于区块链风险领域来说，去年是特别繁荣的一年，本着我们行业的透明精神，我们希望能公开分享汇总的数据。
-
-
-
-
-
-本报告只关注区块链风险投资基金，目的是了解机构 LPs 的可投资范围，这与我们在领先的独立区块链风险投资基金平台 Hutt Capital 的任务一致。
-
-
-所有数据都来自 Hutt Capital 的内部跟踪系统，显示了区块链风险投资基金的当前规模。
-
-
-
-
-摘要
-
-
-
-
-今年是区块链风险投资基金成立的创纪录的一年，在过去的 12 个月里，有 76 个新的区块链风险投资基金成立。我们目前正在跟踪 155 个区块链风险基金，比一年前的 79 个有所增加，同比增长 96%。
-
-
-
-
-
-区块链风险投资领域正在快速增长，但基金所掌握的资本额度扩张得更快。这些区块链风险投资基金在目前的基金中拥有 309 亿美元的承诺资本，而一年前只有 68 亿美元，年增长率为 357%。区块链风险投资已不再是过去几年的山寨产业。  
-
-
-
-
-
-平均基金规模比一年前增长了 132%，从 8600 万美元到 1.99 亿美元，表明现有的基金正在迅速扩大规模。基金规模的中位数增长了 50%，从 5000 万美元增加到 7500 万美元，因为少数最大的基金对平均数字产生了巨大的影响。  
-
-
-
-
-
-区块链 VC 基金系列
-
-
-
-
-在 155 只区块链风险投资基金中，有 100 只首期基金，36 只 S 基金（Secondary fund），19 只 third funds 。
-
-
-
-
-
-寿命较长的基金拥有最多的资本。thir…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
