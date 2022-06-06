@@ -2,10 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-06T00:44:09.180Z</updated>
+    <updated>2022-06-06T06:11:07.143Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web2裁员潮，Web3求人潮 | Web3招聘墙 （6.6更新）]]></title>
+        <id>https://www.theblockbeats.info/news/30668</id>
+        <link href="https://www.theblockbeats.info/news/30668"/>
+        <updated>2022-06-06T04:59:44.000Z</updated>
+        <summary type="html"><![CDATA[不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。
+
+
+我们常说，在熊市中你需要做的只有 Build。那么，该
+
+Build 什么？去哪 Build？
+
+
+BlockBeats Web3 招聘墙
+
+
+BlockBeats 希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。
+
+
+BlockBeats
+招聘岗位：海外运营、iOS 开发（希望你对 Crypto 领域有所了解）
+
+工作语言：中文/英文
+联系方式：contact@theblockbeats.org
+
+
+Old Fashion Research
+招聘岗位：DeFi 投资分析师、NFT/GameFi 投资分析师
+工作地点：远程
+工作语言：英文
+联系方式：https://www.ofr.asia/
+
+
+NFTGo
+招聘岗位：工程师、设计、产品运营、NFT 研究分析师
+工作语言：中文
+工作地点：杭州/新加坡/远程
+联系方式：https://angel.co/company/nftgo/jobs
+
+
+RSS3
+招聘岗位：工程师、市场、HR、设计
+工作语言：中文/英文
+工作地点：全远程分布式办公
+联系方式：https://rss3.notion.site/Open-Source-Remote-RSS3-Offering-the-Dopest-Positions
+
+
+
+
+OKX
+招聘岗位：BD、工程师、财务、市场、运营、产品、HR 等
+工作语言：英文/中文
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT流动性解决商XCarnival将于6月6日上线以太坊，推出限时96小时激励活动]]></title>
+        <id>https://www.theblockbeats.info/news/30762</id>
+        <link href="https://www.theblockbeats.info/news/30762"/>
+        <updated>2022-06-06T04:59:44.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：XCarnival
+
+
+XCarnival 以太坊主网将于 6 月 6 日 12:00 AM（UTC）正式启动，团队将同步推进 Polygon、Solona、AVAX 等公链的跨链部署准备。
+
+
+
+XCarnival 测试网成功完成 
+
+
+上线以太坊这一里程碑时刻意味着我们对 NFT 流动性的持续创新探索和努力即将得到检验。早期，XCarnival 在 BNB Chain 生态以点对点（Peer 2 Peer）切入，推出 XBroker 和 Megabox 两款产品，解决了 BNB Chain 生态 NFT 项目抵押借贷中的瓶颈问题。2022 年今年 5 月，推出的以太坊点对池借贷产品 XPawn，在全生态成员的共同努力下，我们顺利完成了以太坊测试网的公测。全球超过 5000 用户参与，TVL 超过 50000ETH，社区提出的产品建议超过 300 条。
+
+
+测试网的成功部署，可以成功证明 XCarnivl 的启动功能已达到完整实现的标准。在这期间，我们还完成了一些功能开发和升级工作，并继续不断修复测试小缺陷和进行性能改进，以确保用户资产的安全。
+
+
+核心合作伙伴为 XCarnival 以太坊主网启动提供强大支持
+
+
+构建一个 NFT 协议平台，离不开合作伙伴的支持。我们秉承 WEB3 的精神，通过一个开放的、分布式的形式，不断探索 NFT 抵押借贷的基础设施功能。我们邀请了许多生态伙伴一同构建面向用户的应用程序，使 XCarnival 更易于访问和使用。
+
+
+在此特别感谢（项目方按首字母排序）：
+
+
+核心 DAO 合作伙伴：7UP DAO。帮助 XCarnival 建立和 DAO 的链接以及更多的社区合作机会
+
+
+核心 Solana NFT 生态合作伙伴：Banksea。帮助 XCarnival 建立在 Solana 公链的生态矩阵
+
+
+核心钱包类应用合作伙伴：…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点：为什么说世界上最高效的市场运行在区块链]]></title>
+        <id>https://www.theblockbeats.info/news/30761</id>
+        <link href="https://www.theblockbeats.info/news/30761"/>
+        <updated>2022-06-06T03:59:44.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《世界上最高效的市场运行在区块链》
+原文作者：tradingstrategy
+
+原文编译：Block unicorn
+
+
+
+
+区块链技术带来创新，这种创新的本质往往在公众争论中消失了——争论集中在对区块链的负面看法。我们研究了区块链在什么地方以及为什么会对传统金融服务构成挑战性的竞争。
+
+
+
+
+作为一个例子，我们展示了 Uniswap 的去中心化交易平台，并将其与传统交易平台 (包括加密交易平台和股票交易平台) 进行比较。由于新的智能合约商业模式提高了效率，Uniswap 可以为消费者提供比传统竞争对手低 20 倍的成本。Uniswap 的开放和透明也确保了市场更加公平，减少了有害商业行为的空间。
+
+
+
+
+
+
+背景
+
+
+
+
+最近，有关于区块链没有解决任何实际问题的讨论。最近，著名计算机科学家 David S. H. Rosenthal 发表了一场演讲，他在演讲中批评了区块链，并解释了他为什么不相信它们（区块链）能创造价值。许多有影响力的技术人士都采纳了这一观点，比如微软云计算服务首席技术官马克·罗斯诺维奇 (Mark Russinovich)，虽然提出的一些批评是有效的，但批评集中在区块链技术的薄弱领域，只建立在加密货币的历史上。这些聪明人是自己领域的专家，但他们可能不会研究最新的工程成果，也不会研究当代加密、共识和金融科技解决方案的现状。
+
+
+
+
+
+
+这些论点在几年前可能是正确的重复论点，但今天被揭穿了：
+
+
+
+
+1. 能源消耗:市值排名前 20 的 Token 中，只有一个使用了对能源敏感的工作量证明共识 (以太坊合并将在 2022 年夏天将链过渡到股权证明)。
+
+
+
+
+2. 恐怖分子和犯罪用途：根据事实和数据，这是一个政治上被夸大的问题，正如《2022 年国家加密货币犯罪和国家洗钱风险评估》所看到的。
+
+
+
+
+3. 加密货币投资的投机风险：与纳斯达克股票波动…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何打造一个开源项目并获得盈利？]]></title>
         <id>https://www.theblockbeats.info/news/30759</id>
