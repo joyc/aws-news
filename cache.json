@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30812",
+          "author": null,
+          "description": "原文来源：StarkNet Intern \n原文编译：Kxp，BlockBeats\n\n\n本文梳理自 StarkNet Intern 在社交媒体平台上的观点，BlockBeats 对其整理翻译如下：\n\n\n概要：\n\n\n1. STARKs 证明了链上计算的完整性，使扩展成为可能\n2. StarkEx 是一个用于特定应用的扩容引擎\n3. StarkNet 是一个无需许可的 Layer 2 网络\n\n\n\nSTARKs\n\n\n在 STARK 方案中，只需要生成一份证明，计算结果就可以在简单几步内得到验证。 \n\n\n有了 STARKs，较大的计算可以在链下进行，减少了区块链上验证所需的计算量。只需几步链上操作，验证者就可以验证大规模的链下计算。\n\n\n\nSTARKs 解决方案可以用单一 STARK 证明进行组合、计算以及验证成千上万的区块链交易，处理成本将分摊到一批交易的所有交易中，保证了 Ethereum 的安全性，降低了 Gas 费用。\n\n\n\n低计算成本的好处在于，它将方便新类型的应用在链上完成搭建，改善了用户体验，降低了 Gas 成本，并确保了 Ethereum 的安全性。\n\n\n\nStarkEx\n\n\nStarkWare 为 Ethereum 扩容提供了两种解决方案：StarkEx 和 StarkNet。\n\n\n\nStarkEx 可以提供许可的、针对特定应用的扩容解决方案。有了 StarkEx，链下计算的成本将大幅下降。STARK 证明是在链外生成的，以验证执行情况，可以覆盖 12000-500000 个交易。同时，STARK 验证器可以在链上验证该证明。\n\n\n\n所有交易只用被验证一次，且每笔交易分摊下来的 Gas 成本低得惊人。\n\n\n\n你可以在 StarkEx 上找到像 dYdX（永续交易）、Immutable 和 Sorare（NFT 铸币和交易）、DeversiFi（现货交易）和 Celer（DeFi 池）等应用。\n\n\n\n为了满足市场和客户的需求，StarkEx 正在进行扩容。\n\n\n\nStarkNet\n\n\n\nStarkNet 是一个无需许可的 Layer 2 网络，任何人都可以在这里部署智能合约。\n\n\n\nStarkNet 的生态系统类似于 Ethereum，任何合约都可以与 StarkNet 上的任何其他合约互动，协议也可以进行自由组合。同时，非同步消息传递功能允许 StarkNet 与 Ethereum 合约进行通信。\n\n\n\nStarkNet 的排序器可以批量处理交易，而不像 StarkEx 那样由应用程序提交交易。目前，StarkNet 的排序器由 StarkWare 运营，下一步将计划完成去中心化。\n\n\n\n一旦应用程序部署了 Cairo 合约，就不再需要额外的运营商基础设施。StarkNet 将支持 Rollup 数据的可用性，意味着 Rollup 状态与 STARK 证明将一起被写入 Ethereum。\n\n\n\nStarkNet 的开发者构建了应用程序、工具和基础设施，而 DeFi、游戏、投票、AI 等功能已经可以在 Testnet 上运行了。另外，StarkNet 还建立了开发者工具，如区块探索器、本地测试环境和几种语言的 SDK。\n\n\n\n在 Shamans 平台上，你可以自由提出改进意见、新功能以及最优方法。\n\n\n\n总结\n\n\n\nStarkEx 和 StarkNet 都是基于 STARK 的扩容解决方案，每一个都兼备了可扩展性、低成本和安全性，只是操作参数有所不同。对于 StarkEx 来说，一个独立且兼容 StarkEx 的 API 的应用程序可能是最合适的选择。\n\n\n\n对于那些与其他协议同步互动或需要比 StarkEx 提供更多功能的协议来说，使用 StarkNet 可能才是更优的选择。\n\n\n\n\n\n\n\nSTARKs 彻底改变了 Ethereum 上的应用程序，与此同时，StarkEx 和 StarkNet 也为区块链的应用创造了更多可能。\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30812",
+          "publishedOn": "2022-06-08T09:24:00.000Z",
+          "wordCount": null,
+          "title": "分不清楚？STARKs、StarkEx、StarkNet 分别都是什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30810",
+          "author": null,
+          "description": "原文来源：DeHealth\n\n\n当你和团队开发一个数百万美元的业务时，你应该总是做好各种准备。没有人知道现实中的全球经济会发生什么，以及我们将会面临哪些新的「黑天鹅」。\n\n\n\n作为 DeHealth 公司首席执行官，我想完全真诚地告诉大家 DeHealth 公司正在发生的事情以及我们今天的发展方向。\n\n让我们先从 DeHealth 的背景说起。\n\n\n\nDeHealth（DEcentralized HEALTHcare）是一个品牌和国际集团公司，总部设在英国，研究中心遍布全球，从美国到新西兰。公司创始人来自乌克兰和以色列。乌克兰是 DeHealth 的研发中心之一，拥有一支强大的开发团队。DeHealth 在乌克兰的本地子品牌是 SaaS 平台 ASKEP。\n\n\n\n今天，DeHealth 受到来自世界各地的 35,000 多名医生、650 家医疗中心和 3,200,000 多名患者的信赖。\n\n\n\n另外，有必要详细介绍一下该解决方案及其组成部分。\n\n\n\nDeHealth APP——基于 AI 和医疗数据的移动应用\n\n\n\n为了让 App 充分发挥作用，有必要收集、处理、分析、构建个人健康数据并将其打包成成品，同时用它来训练 AI。医疗数据是医疗行业中最敏感、最重要和最有价值的资产，我们优先考虑数据存储的安全性，尊重数据治理和安全标准——数据保护法、GDPR（通用数据保护条例）、HIPAA（健康保险便利和责任法案）、数据保护条例。我们的内部团队以及 Hacken 和白帽黑客社区等独立专家也保证了我们产品的高质量网络安全。\n\n\n\nDHLT 网络：健康数据和数字资产的去中心化存储、数据预言机协议，以及激励层。DHLT 协议数字化并保护每个人的全球健康数据。存储器每天接收关于个人（用户）健康状况的临床、医疗和个人数据，并将其去身份化、结构化并组合成一个网络。\n\n\n\nDeHealth AI…",
+          "link": "https://www.theblockbeats.info/news/30810",
+          "publishedOn": "2022-06-08T08:53:00.000Z",
+          "wordCount": null,
+          "title": "DeHealth：在Web3中，颠覆全球医疗保健",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30806",
           "author": null,
           "description": "原文标题：《\n\nInside the Mind of an Ape: Fiskantes\n\n》\n原文来源：Nansen\n原文编译：DeFi 之道\n\n\n\nNansen 团队采访了一位顶级加密交易员，并分析了他们的其中一个钱包。\n\n\n\n数月来，Zee Prime Capital 在推特的个人简介中戏称自己为「And Others Capital」（加密媒体会按名称列出知名 VC 公司的名字，而新的 VC 会被降级为「其他投资者」），该 VC 在 2020-2022 年周期的后半期成为了行业领先的投资机构，其在各种 layer 1、基础设施、DeFi 以及 P2E 项目中进行了早期投资。\n\n\n\n\n \n而 Zee Prime 的崛起，在很大程度上要归功于其创始合伙人之一 Fiskantes 不断增长的知名度，而他的亮点之一是正确地预测高吞吐量区块链最终会因为 200 年前的「能源消耗悖论」而变得拥堵，他在早期就预判到了 NFT 的崛起，并为 Zee Prime 的持续成功做出了贡献。目前，Zee Prime 管理着多只基金，其中包括 2022 年完成融资的 3500 万美元旗舰基金 Zee Prime II。\n\n\n\n然而，Fiskantes 的旅程并非一帆风顺，在他取得当前的成功之前，他是一名经验丰富的扑克玩家和一名潜在的奶酪贩子，他在陷入困境的 Gouda 奶酪生意上耗尽了自己的资金。房地产投资帮助 Fiskantes 重新站稳了脚跟，他最终凭借谨慎、跨学科的方法在加密领域大放异彩。\n\n\n\n在接受 Nansen 的采访时，我们惊讶地发现 Fiskantes 广泛的专业知识在很大程度上是自学者阅读习惯的副产品。Zee Prime 是一个知名的 Smart Money NFT 钱包背后的力量，而成功的加密投资需要「在你的内心让某些东西死去」。\n\n\n\n请继续阅读，以深入了解 Fiska…",
