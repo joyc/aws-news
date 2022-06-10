@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30841",
+          "author": null,
+          "description": "原文作者：Small Cap Scientist\n原文编译：0x711，BlockBeats\n\n\n\n\n本文梳理自 DeFi 分析师 @SmallCapScience 在个人社交媒体平台上的观点，BlockBeats 对其整理翻译如下：  \n\n\n今天的研究主题是 stETH/ETH，其交易对流动性正在耗尽。\n\n\n众所周知，\n\nstETH 是 ETH 在 Lido 上的质押版本，其用意在于保护 ETH 在合并后的安全性。\n\n\n因此，stETH 与 ETH 应该是一比一对应的关系，并在 Curve 上有一个流动性池。 \n\n\n然而，现在 Curve 上的流动性池变得极端不平衡，stETH 的占比已经接近 75%，倾斜比例前所未有。\n\n\n\n\n\n\n\n这导致了\n\nstETH 对 ETH 的兑换比例已经变为 1.03：1，并且倾斜程度还在加剧。\n\n\n\n\n\n理论上来说，脱锚的节奏是由流动性池的倾斜比例和 A 因子决定。\n\n\n有关 A 因子的问题，可以参照@Tetranode 的推文。简单来说，stETH 池目前正处于临界水平，脱锚随时可能会加速。\n\n\nstETH 与 ETH 一比一锚定，而且合并几个月内就将发生，现在买入 stETH 似乎是可以躺赚的套利操作，这与没有资产支撑的 UST 有很大不同，那么投资者为什么在退出呢？\n\n\n我观察到 Alameda Research 正在撤出他们的仓位。在几个小时内，不顾滑点损失，撤出了接近 5 万枚 stETH。\n\n\n\n\n\n众所周知，Alameda 在市场上的嗅觉十分灵敏...\n\n\n\n\n\n\n\n\n\n\n\n事实上，他们是 Lido 上 stETH 的七大持仓者之一，他们此举很有可能会引发挤兑潮。\n\n\n再看看其他的大持仓者。从借贷平台 Celsius 开始。\n\n\nCelsius 拥有接近 45 万枚 stETH，价值约 15 亿美元。他们将这些 stETH …",
+          "link": "https://www.theblockbeats.info/news/30841",
+          "publishedOn": "2022-06-10T10:05:33.000Z",
+          "wordCount": null,
+          "title": "机构正在撤出stETH池子，挤兑脱锚会发生吗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30839",
+          "author": null,
+          "description": "撰文： Ashley，BlockBeats\n\n\n对于个人、加密公司或 DAO 而言，他们需要管理诸如现金流、工资单等不同链上交易活动，而这些交易常常发生在不同链上，进行整合时是一件困难的事情。\n\n\nCoinshift 是一家印度的加密创业公司，提供了一款多链资金管理平台。该平台运行在基于 Gnosis 安全协议的 ETH 链上，计划向新的区块链网络扩张，在最新的 A 轮融资中筹集了 1700 万美元。\n\n\n\n项目逻辑\n\n\nCoinshift 的愿景是为个人、DAO、 WEB3 公司提供一个基于加密货币的多链资金管理平台，网页会设置一些功能参数，用户还能够根据自己的需求选择定制化界面。\n\n\nCoinshift 资金管理平台在官网注册时会有三个不同的选项：个人、DAO、 WEB3 公司。注册之后都会要求连接冷钱包，Coinshift 不持有任何私钥，必须在连接钱包之后才能签署和执行事务。账户创建完成之后 Coinshift 使用通过私钥创建的加密密钥对数据进行加密。可以将同事添加进列表，邀请他们一同安全地共享加密密钥，进行协作办公。\n\n\n在协作办公方面，Coinshift 支持三种形式：1-of-n: 组织内的只要有一个人同意那么这笔交易达成；2-2: 组织内的两个人都要同意这笔交易才能达成交易；2/3:只要 3 个人中的 2 个人批准交易这笔交易即可达成。\n\n\n\n\n\n打开 Coinshift，你可以看到一个干净简洁的页面，显示你的资金动向，在左侧有不同的分类，也展示了它的四大主要功能。\n\n\n1. 付款：一键支付给人员和团队，能够通过一键处理减少 50% 的 GAS 费。并且在付款之后，收款人能够立即使用收入进行交易，投资 DeFi 后，也能够立即拿到复利。\n\n\n2. 人员：团队和人员的自由管理。\n\n\n3. 交易：基于 Paraswap 可以对你的虚拟货币进行交易。右上角有一个…",
+          "link": "https://www.theblockbeats.info/news/30839",
+          "publishedOn": "2022-06-10T09:05:33.000Z",
+          "wordCount": null,
+          "title": "Coinshift：个人与DAO的资产管理平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30840",
+          "author": null,
+          "description": "撰文：0xLaughing，律动 BlockBeats  \n\n\n从去年年初开始，NFT 的热度一路飙升，前有 Cryptopunks、BAYC 横空出世，后有 Doodle、Azuki 进一步拼接蓝筹版图，从用于社交场景的头像类 NFT，到后续为持有者提供权益的 PASS NFT，NFT 市场愈发繁荣，总市值一度超过了 368 亿美元，创造了史无前例的「NFT SUMMER」。\n\n\n面对火热的 NFT 市场，库里、内马尔、周杰伦、埃米纳姆都投身其中成为了 NFT 玩家，更有刘畊宏、余文乐、方力钧等明星和艺术家参与发售了自己的 NFT 项目。由此可见，明星和艺术家们对这个新兴领域充满了好奇心。\n\n\n\nThe GODA 在 OpenSea 的日交易量占据榜首且远超第二名\n\n\n如何将传统市场的优秀艺术家资源对接到 NFT 市场呢？在 OpenSea「霸榜」的 GODA 就做了这个尝试。\n\n\nGODA 简介\n\n\nGODA 是什么？\n\n\n\n\nGODA 官网的主界面\n\n\n从官网可以了解到，GODA 是一个数字资产画廊。\n\n\n它主要面向两类人群：传统艺术家和收藏家。\n\n\n对于传统艺术家，GODA「为希望探索数字化新媒体的头部当代艺术家提供值得信赖和精心策划的资源」，GODA 会与传统的艺术家在数字艺术空间中进行密切的合作，确保艺术家们的作品有机且真实地投放到 NFT 市场。\n\n\n对于收藏家，GODA 会筛选传统艺术领域的知名人物，并将他们的作品投放给收藏家们。\n\n\n一言以蔽之，GODA 是一个有着丰富的潮流明星艺术家资源的孵化平台。\n\n\nThe GODA Mint Pass 是什么？\n\n\n\nThe GODA Mint Pass 是 GODA 面向收藏家发售的 Pass NFT，发售总量为 1,000 个，发售价格为 1 ETH，在昨天凌晨发售后，地板价曾一度接近 9 ETH，现在回落至 …",
+          "link": "https://www.theblockbeats.info/news/30840",
+          "publishedOn": "2022-06-10T09:05:33.000Z",
+          "wordCount": null,
+          "title": "潮流艺术圈降维打击，GODA才是NFT黑马",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30836",
           "author": null,
           "description": "原文标题：《Web3 游戏：现状与未来》\n原文作者：Joel John，Siddharth\n原文编译：南风\n原文来源：Unitimes 微信公众号\n\n\n我们很容易抨击 Web3 游戏目前的形式。它们有着蹩脚的体验。用户需要储存密钥，通过匝道，然后花费数千美元才能体验游戏的乐趣。当传统的主机游戏只需玩家花很少的成本就能获得更好的体验时，为什么还要费心去做这些呢？当玩家们在一个蹩脚的 Web3 游戏产品上赔钱的时候，谁还愿意面对一群尖叫着 WAGMI (我们会成功的) 的 Web3 游戏拥趸呢？好吧，我不会。我喜欢《侠盗猎车手 5》和《荒野大镖局》，现在的 Web3 游戏要想和它们竞争还太牵强了。 \n\n\n但作为一名在游戏中投入大量时间的投资者，我认为 Web3 游戏的某些方面我们并没有注意到。所以今天我想花点时间解释一下，为什么这一领域并非一个可能在未来几年消亡的短暂潮流。这个话题是我在查看 Nansen 平台的行业 NFT 指数时引起了我的兴趣。我注意到这个包含了 50 款游戏的指数自今年年初以来已经下跌了 65% (如下图所示)。相比之下，标准普尔 500 指数下跌了 17%。比特币下跌了 37%。还好我们有 StepN 帮助人们通过步行谋生。 \n\n\n\n \n为何无人关心\n\n\n撇开讽刺不谈，反对 Web3 游戏的论点相对简单。首先，在技术技能和资金方面存在很高的进入壁垒。当你开始接触 Web3 游戏时，你会发现它们的图像与传统的 AAA 游戏相差甚远。假设游戏图像可以被忽略，这些游戏通常也缺乏故事情节。但这年头谁为了故事玩游戏啊。也许，Web3 游戏有一个强大的社区？或许并不是。Web3 游戏社区可能充斥着希望快速赚钱的用户。好吧，也许有很多钱可以赚？可能也不是。市场已经饱和，自 2021 年第二季度以来，「边玩边赚」(P2E) 游戏经济中的资本收入已经减少。\n\n\nWeb3 …",

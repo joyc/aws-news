@@ -2,10 +2,189 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-10T06:10:16.535Z</updated>
+    <updated>2022-06-10T12:14:37.189Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[机构正在撤出stETH池子，挤兑脱锚会发生吗]]></title>
+        <id>https://www.theblockbeats.info/news/30841</id>
+        <link href="https://www.theblockbeats.info/news/30841"/>
+        <updated>2022-06-10T10:05:33.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Small Cap Scientist
+原文编译：0x711，BlockBeats
+
+
+
+
+本文梳理自 DeFi 分析师 @SmallCapScience 在个人社交媒体平台上的观点，BlockBeats 对其整理翻译如下：  
+
+
+今天的研究主题是 stETH/ETH，其交易对流动性正在耗尽。
+
+
+众所周知，
+
+stETH 是 ETH 在 Lido 上的质押版本，其用意在于保护 ETH 在合并后的安全性。
+
+
+因此，stETH 与 ETH 应该是一比一对应的关系，并在 Curve 上有一个流动性池。 
+
+
+然而，现在 Curve 上的流动性池变得极端不平衡，stETH 的占比已经接近 75%，倾斜比例前所未有。
+
+
+
+
+
+
+
+这导致了
+
+stETH 对 ETH 的兑换比例已经变为 1.03：1，并且倾斜程度还在加剧。
+
+
+
+
+
+理论上来说，脱锚的节奏是由流动性池的倾斜比例和 A 因子决定。
+
+
+有关 A 因子的问题，可以参照@Tetranode 的推文。简单来说，stETH 池目前正处于临界水平，脱锚随时可能会加速。
+
+
+stETH 与 ETH 一比一锚定，而且合并几个月内就将发生，现在买入 stETH 似乎是可以躺赚的套利操作，这与没有资产支撑的 UST 有很大不同，那么投资者为什么在退出呢？
+
+
+我观察到 Alameda Research 正在撤出他们的仓位。在几个小时内，不顾滑点损失，撤出了接近 5 万枚 stETH。
+
+
+
+
+
+众所周知，Alameda 在市场上的嗅觉十分灵敏...
+
+
+
+
+
+
+
+
+
+
+
+事实上，他们是 Lido 上 stETH 的七大持仓者之一，他们此举很有可能会引发挤兑潮。
+
+
+再看看其他的大持仓者。从借贷平台 Celsius 开始。
+
+
+Celsius 拥有接近 45 万枚 stETH，价值约 15 亿美元。他们将这些 stETH …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinshift：个人与DAO的资产管理平台]]></title>
+        <id>https://www.theblockbeats.info/news/30839</id>
+        <link href="https://www.theblockbeats.info/news/30839"/>
+        <updated>2022-06-10T09:05:33.000Z</updated>
+        <summary type="html"><![CDATA[撰文： Ashley，BlockBeats
+
+
+对于个人、加密公司或 DAO 而言，他们需要管理诸如现金流、工资单等不同链上交易活动，而这些交易常常发生在不同链上，进行整合时是一件困难的事情。
+
+
+Coinshift 是一家印度的加密创业公司，提供了一款多链资金管理平台。该平台运行在基于 Gnosis 安全协议的 ETH 链上，计划向新的区块链网络扩张，在最新的 A 轮融资中筹集了 1700 万美元。
+
+
+
+项目逻辑
+
+
+Coinshift 的愿景是为个人、DAO、 WEB3 公司提供一个基于加密货币的多链资金管理平台，网页会设置一些功能参数，用户还能够根据自己的需求选择定制化界面。
+
+
+Coinshift 资金管理平台在官网注册时会有三个不同的选项：个人、DAO、 WEB3 公司。注册之后都会要求连接冷钱包，Coinshift 不持有任何私钥，必须在连接钱包之后才能签署和执行事务。账户创建完成之后 Coinshift 使用通过私钥创建的加密密钥对数据进行加密。可以将同事添加进列表，邀请他们一同安全地共享加密密钥，进行协作办公。
+
+
+在协作办公方面，Coinshift 支持三种形式：1-of-n: 组织内的只要有一个人同意那么这笔交易达成；2-2: 组织内的两个人都要同意这笔交易才能达成交易；2/3:只要 3 个人中的 2 个人批准交易这笔交易即可达成。
+
+
+
+
+
+打开 Coinshift，你可以看到一个干净简洁的页面，显示你的资金动向，在左侧有不同的分类，也展示了它的四大主要功能。
+
+
+1. 付款：一键支付给人员和团队，能够通过一键处理减少 50% 的 GAS 费。并且在付款之后，收款人能够立即使用收入进行交易，投资 DeFi 后，也能够立即拿到复利。
+
+
+2. 人员：团队和人员的自由管理。
+
+
+3. 交易：基于 Paraswap 可以对你的虚拟货币进行交易。右上角有一个…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[潮流艺术圈降维打击，GODA才是NFT黑马]]></title>
+        <id>https://www.theblockbeats.info/news/30840</id>
+        <link href="https://www.theblockbeats.info/news/30840"/>
+        <updated>2022-06-10T09:05:33.000Z</updated>
+        <summary type="html"><![CDATA[撰文：0xLaughing，律动 BlockBeats  
+
+
+从去年年初开始，NFT 的热度一路飙升，前有 Cryptopunks、BAYC 横空出世，后有 Doodle、Azuki 进一步拼接蓝筹版图，从用于社交场景的头像类 NFT，到后续为持有者提供权益的 PASS NFT，NFT 市场愈发繁荣，总市值一度超过了 368 亿美元，创造了史无前例的「NFT SUMMER」。
+
+
+面对火热的 NFT 市场，库里、内马尔、周杰伦、埃米纳姆都投身其中成为了 NFT 玩家，更有刘畊宏、余文乐、方力钧等明星和艺术家参与发售了自己的 NFT 项目。由此可见，明星和艺术家们对这个新兴领域充满了好奇心。
+
+
+
+The GODA 在 OpenSea 的日交易量占据榜首且远超第二名
+
+
+如何将传统市场的优秀艺术家资源对接到 NFT 市场呢？在 OpenSea「霸榜」的 GODA 就做了这个尝试。
+
+
+GODA 简介
+
+
+GODA 是什么？
+
+
+
+
+GODA 官网的主界面
+
+
+从官网可以了解到，GODA 是一个数字资产画廊。
+
+
+它主要面向两类人群：传统艺术家和收藏家。
+
+
+对于传统艺术家，GODA「为希望探索数字化新媒体的头部当代艺术家提供值得信赖和精心策划的资源」，GODA 会与传统的艺术家在数字艺术空间中进行密切的合作，确保艺术家们的作品有机且真实地投放到 NFT 市场。
+
+
+对于收藏家，GODA 会筛选传统艺术领域的知名人物，并将他们的作品投放给收藏家们。
+
+
+一言以蔽之，GODA 是一个有着丰富的潮流明星艺术家资源的孵化平台。
+
+
+The GODA Mint Pass 是什么？
+
+
+
+The GODA Mint Pass 是 GODA 面向收藏家发售的 Pass NFT，发售总量为 1,000 个，发售价格为 1 ETH，在昨天凌晨发售后，地板价曾一度接近 9 ETH，现在回落至 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3游戏的道路与梦想]]></title>
         <id>https://www.theblockbeats.info/news/30836</id>
