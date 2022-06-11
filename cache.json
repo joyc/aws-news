@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30842",
+          "author": null,
+          "description": "原文作者：CryptoJoe（Rebirth DAO创始人，资深交易员）\n原文编译：czgsws，BlockBeats\n\n\n\nstETH 脱锚，价值跌至 0.95 ETH。\n\n\n\n\n\n流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平台 Celsius 濒临破产的传闻，这一切可能会引发 stETH 的大量抛售，我和 Messari 分析师@Riley_gmi最近一直在研究这个，以下是我们的一些发现。\n\n\n首先，什么是 Lido & stETH？\n\n\n\nLido 为用户提供 ETH 流动性质押服务，用户可以锁定任意数量的 ETH，然后收到权益 Token stETH 用于在 DeFi 中赚取收益。\n\n\n合并后，每个 stETH 可正常兑换 1 ETH。\n\n\n每个 stETH 只能通过信标链的上线来赎回。在那之前，ETH 2.0 质押合约中的 1280 万 ETH 是不具备流动性的。\n\n\nLido 持有这 1280 万枚 ETH 中的 32%（大约 410 万枚）\n\n\n\n\n\n在我们深入研究 Celsius 的资产负债表并追踪 Smart Money 地址之前，让我们先看看 stETH 应该如何定价：\n\n\n正如 Lido 所说的，stETH 锚定 ETH（在信标链上），现在市场现在开始重新定价 stETH 的公允价格。\n\n\n但考虑到这项投资的流动性动态，stETH 的价格打多少折扣是公平的？\n\n\nstETH 定价应该由以下 4 件事综合决定\n\n\n· 当前市场对流动性的渴望程度（需求/供应）\n· 当前市场的成交量和流动性（市场如何应对抛压）\n· 成功/延迟合并的可能性\n· 智能合约风险\n\n\n详细来说\n\n\n1. 对市场流动性的渴望程度\n\n\n\n在市场周期的不同阶段，对流动性的需求起起落落。当价格上涨，流动性高时，平仓容易，成本低，反之亦然。\n\n\n通过链上数据，我们已经看…",
+          "link": "https://www.theblockbeats.info/news/30842",
+          "publishedOn": "2022-06-11T10:15:36.000Z",
+          "wordCount": null,
+          "title": "机构撤离Lido进行时，stETH风险究竟有多严重？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30838",
+          "author": null,
+          "description": "原文作者：0x137，BlockBeats\n\n\n最近，一个叫做 Planet 的应用受到了很多「硬核用户」们的关注。Planet 来自 Livid，V2EX 创始人，这个传奇论坛是互联网极客的聚集地，以浓厚的开发氛围著称，但在用户群体壮大的过程中，V2EX 也遇到了很多问题，甚至一度被称为「水深火热之地」。而在 V2EX 的痛苦和思考中，Planet 也随之诞生了。\n\n\nPlanet\n\n\nPlanet 是由 IPFS 和 ENS 支持的去中心化博客和网站平台，使用 IPFS 来实现点对点的内容分发，旨在帮助用户以去中心化的方式构建自己或关注他人的网站。通过 Planet，用户可以直接在自己的电脑上发布博客或网站至 IPFS，并且可以将它们和自己的 ENS 域名绑定。\n\n\n\n\n\n\n\n这是一个「果味十足」的开源应用，目前仅支持 macOS，用户在自己的 Mac 上安装 Planet 后，就可以在不依赖中心化服务的情况下直接触及自己的信息来源和受众。目前应用的开发还处于早期阶段，版本也还在持续更新，但对不少互联网硬核用户来说，Planet 的确带来了很多新奇的体验。\n\n\n源自痛苦：为什么要做 Planet？\n\n\n在播客《枫言枫语》第 67 期节目中，Livid 谈到了自己创作 Planet 的初衷，这个新奇的应用源自困扰 Livid 数年的痛苦。\n\n\n作为一个天才开发者，Livid 有着极为丰富的互联网经验。05 年成为当时 eBay 全球最年轻的程序员；07 年离开 ebay 加入六间房，成为 iOS 游戏产品总监；08 年加入顺网科技，作为总监设计创作了「网维大师 7.0」的新 UI。也正是在这些不同的经历中，Livid 深刻感受到了一个寄生在所有互联网公司身上的痛点，「平台做大后，最苦的是运维的人」。\n\n\n2010 年，Livid 上线了 V2EX，并在很长一段时间里都是自…",
+          "link": "https://www.theblockbeats.info/news/30838",
+          "publishedOn": "2022-06-11T03:15:36.000Z",
+          "wordCount": null,
+          "title": "Planet：V2EX站长的去中心化社媒探索",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30841",
           "author": null,
           "description": "原文作者：Small Cap Scientist\n原文编译：0x711，BlockBeats\n\n\n\n\n本文梳理自 DeFi 分析师 @SmallCapScience 在个人社交媒体平台上的观点，BlockBeats 对其整理翻译如下：  \n\n\n今天的研究主题是 stETH/ETH，其交易对流动性正在耗尽。\n\n\n众所周知，\n\nstETH 是 ETH 在 Lido 上的质押版本，其用意在于保护 ETH 在合并后的安全性。\n\n\n因此，stETH 与 ETH 应该是一比一对应的关系，并在 Curve 上有一个流动性池。 \n\n\n然而，现在 Curve 上的流动性池变得极端不平衡，stETH 的占比已经接近 75%，倾斜比例前所未有。\n\n\n\n\n\n\n\n这导致了\n\nstETH 对 ETH 的兑换比例已经变为 1.03：1，并且倾斜程度还在加剧。\n\n\n\n\n\n理论上来说，脱锚的节奏是由流动性池的倾斜比例和 A 因子决定。\n\n\n有关 A 因子的问题，可以参照@Tetranode 的推文。简单来说，stETH 池目前正处于临界水平，脱锚随时可能会加速。\n\n\nstETH 与 ETH 一比一锚定，而且合并几个月内就将发生，现在买入 stETH 似乎是可以躺赚的套利操作，这与没有资产支撑的 UST 有很大不同，那么投资者为什么在退出呢？\n\n\n我观察到 Alameda Research 正在撤出他们的仓位。在几个小时内，不顾滑点损失，撤出了接近 5 万枚 stETH。\n\n\n\n\n\n众所周知，Alameda 在市场上的嗅觉十分灵敏...\n\n\n\n\n\n\n\n\n\n\n\n事实上，他们是 Lido 上 stETH 的七大持仓者之一，他们此举很有可能会引发挤兑潮。\n\n\n再看看其他的大持仓者。从借贷平台 Celsius 开始。\n\n\nCelsius 拥有接近 45 万枚 stETH，价值约 15 亿美元。他们将这些 stETH …",
