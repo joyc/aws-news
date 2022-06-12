@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30859",
+          "author": null,
+          "description": "原文标题：《Solidity 极简入门: 4. 变量数据存储和作用域 storage/memory/calldata》\n原文作者：0xAA\n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在：github.com/AmazingAng/WTFSolidity\n\n\n\nSolidity 中的引用类型\n\n\n引用类型 (Reference Type)：包括数组（array），结构体（struct）和映射（mapping），这类变量占空间大，赋值时候直接传递地址（类似指针）。由于这类变量比较复杂，占用存储空间大，我们在使用时必须要声明数据存储的位置。\n\n\n数据位置\n\n\nsolidity 数据存储位置有三类：storage，memory 和 calldata。不同存储位置的 gas 成本不同。storage 类型的数据存在链上，类似计算机的硬盘，消耗 gas 多；memory 和 calldata 类型的临时存在内存里，消耗 gas 少。大致用法：\n\n\n1.storage：合约里的状态变量默认都是 storage，存储在链上。\n\n\n2.memory：函数里的参数和临时变量一般用 memory，存储在内存中，不上链。\n\n\n3.calldata：和 memory 类似，存储在内存中，不上链。与 memory 的不同点在于 calldata 变量不能修改（immutable），一般用于函数的参数。例子：\n\n\n\n\n\n\n不同类型相互赋值时的规则\n\n\n在不同存储类型相互赋值时候，有时会产生独立的副本（修改新变量不会影响原变量），有时会产生引用（修改新变量会影响原变量）。规则如下：\n\n\n1.storage（合约的状态变量）赋值给本地 storage（函数里的）时候，会创建引用…",
+          "link": "https://www.theblockbeats.info/news/30859",
+          "publishedOn": "2022-06-12T11:05:19.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门 | 第四讲：变量数据存储和作用域",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30844",
+          "author": null,
+          "description": "原文标题：《Gitcoin 第 14 轮优质项目汇总》\n原文作者：3344521.eth，追风 Lab\n\n\n一、Gitcoin 简介\n\n\n\n\n\nGitcoin 是一个具有社区属性的数字产品开发平台，创造金融自由，定义开放网络的未来。\n\n\nGitcoin 是一个自 2017 年发起的开源软件开发激励平台，旨在通过区块链支持各类开源项目，促进开源运动的发展，区块链等项目可以在该平台上用一定的报酬找到需要的开发者。随着 Gitcoin 的发展，目前已延伸出了黑客马拉松「Hackathons」、众筹捐赠「Grants」、加速器孵化「Kernel」和社交属性「Kudos」等不同版块。\n\n\n自 2017 年 11 月推出以来，Gitcoin 已为 10035 名不同的 Earner 促成了 1,699,878 笔完整的交易，累计募集了超过 3600 万美元。\n\n\n此前，Gitcoin 捐赠活动曾资助了 Uniswap、Dark Forest、Coin Center、POAP、Bankless 等优质项目。\n\n\n下面整理了第 14 轮一些优质项目，仅作为个人观点，不做投资建议。\n\n\n在捐款前建议验证下Gitcoin 身份。\n\n\n1）JediSwap\n\n\n\n\n\nStarkNet 上的第一个 AMM，可实现资产的即时无气交换\n\n\n官方推特\n\n\n官方链接\n\n\n捐款链接\n\n\n2）zkRollups.xyz\n\n\n\n\n\n聚合所有构建 zkRollups、基于 zkRollups 以及为 zkRollups 构建的项目。\n\n\n官方推特\n\n\n官方链接 \n\n\n捐款链接  \n\n\n3）Lenster\n\n\n\n\n\nLenster 是使用 LensProtocol 构建的去中心化且无需许可的社交媒体应用程序\n\n\n官方推特 \n\n\n官方链接 \n\n\n捐款链接  \n\n\n4）DefiLlama\n\n\n\n\n\n公开透明的 DeFi…",
+          "link": "https://www.theblockbeats.info/news/30844",
+          "publishedOn": "2022-06-12T05:05:19.000Z",
+          "wordCount": null,
+          "title": "Gitcoin第14轮捐赠开始，盘点值得关注的项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30843",
+          "author": null,
+          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《Nansen 分析：Token 解锁后，哪家 VC 跑得最快？》\n\n\n \n我们或许可以把「VC 抛售」看做项目评价新维度。本文梳理自 Nansen 分析师 Andrew T 在个人社交媒体平台上的观点。市场走势很糟糕，但随着主要基金抛售数百万本已低迷的资产，早期机构解锁后的情况变得更糟，让我们看一下最近的例子，并分析如何保护自己。\n\n\n《机构撤离 Lido 进行时，stETH 风险究竟有多严重？》\n\n\nLido 流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平台 Celsius 濒临破产的传闻，这一切可能会引发 stETH 的大量抛售，资深交易员CryptoJoe与 Messari 分析师@Riley_gmi最近一直在研究这个，以下是他们的一些发现。\n\n《Mint 就给钱的 FTC，白热化的 Free Mint》\n\n\n \n近期爆火的 goblintown 和它的仿盘们似乎点燃了 Free Mint 赛道，各种博人眼球的 NFT 项目层出不穷，它们都试图通过千奇百怪的创意来吸引注意力。一时之间，各个 NFT 社群都逐渐沉迷于打「图狗」，希望能够抓住下一个暴涨的「哥布林」。通过 Free Mint，NFT 玩家们仅仅只需要支付 gas 费就能够以小博大，NFT 项目方也可以通过二级市场交易版税来回收成本进而盈利，但随着这种模式的 NFT 项目越来越多，市场似乎也有些疲惫了。这时，如果有一个 NFT 项目愿意支付给你 0.01ETH 去 mint 会怎么样？\n\n\n \n《2000 万 OP 被盗背后安全警惕：任何多签…",
+          "link": "https://www.theblockbeats.info/news/30843",
+          "publishedOn": "2022-06-12T04:05:19.000Z",
+          "wordCount": null,
+          "title": "周末荐读：2000万OP被盗背后安全警惕；Token解锁后，哪家VC跑得最快",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30842",
           "author": null,
           "description": "原文作者：CryptoJoe（Rebirth DAO创始人，资深交易员）\n原文编译：czgsws，BlockBeats\n\n\n\nstETH 脱锚，价值跌至 0.95 ETH。\n\n\n\n\n\n流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平台 Celsius 濒临破产的传闻，这一切可能会引发 stETH 的大量抛售，我和 Messari 分析师@Riley_gmi最近一直在研究这个，以下是我们的一些发现。\n\n\n首先，什么是 Lido & stETH？\n\n\n\nLido 为用户提供 ETH 流动性质押服务，用户可以锁定任意数量的 ETH，然后收到权益 Token stETH 用于在 DeFi 中赚取收益。\n\n\n合并后，每个 stETH 可正常兑换 1 ETH。\n\n\n每个 stETH 只能通过信标链的上线来赎回。在那之前，ETH 2.0 质押合约中的 1280 万 ETH 是不具备流动性的。\n\n\nLido 持有这 1280 万枚 ETH 中的 32%（大约 410 万枚）\n\n\n\n\n\n在我们深入研究 Celsius 的资产负债表并追踪 Smart Money 地址之前，让我们先看看 stETH 应该如何定价：\n\n\n正如 Lido 所说的，stETH 锚定 ETH（在信标链上），现在市场现在开始重新定价 stETH 的公允价格。\n\n\n但考虑到这项投资的流动性动态，stETH 的价格打多少折扣是公平的？\n\n\nstETH 定价应该由以下 4 件事综合决定\n\n\n· 当前市场对流动性的渴望程度（需求/供应）\n· 当前市场的成交量和流动性（市场如何应对抛压）\n· 成功/延迟合并的可能性\n· 智能合约风险\n\n\n详细来说\n\n\n1. 对市场流动性的渴望程度\n\n\n\n在市场周期的不同阶段，对流动性的需求起起落落。当价格上涨，流动性高时，平仓容易，成本低，反之亦然。\n\n\n通过链上数据，我们已经看…",

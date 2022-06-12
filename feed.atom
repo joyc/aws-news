@@ -2,10 +2,196 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-12T06:11:00.186Z</updated>
+    <updated>2022-06-12T12:12:26.441Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门 | 第四讲：变量数据存储和作用域]]></title>
+        <id>https://www.theblockbeats.info/news/30859</id>
+        <link href="https://www.theblockbeats.info/news/30859"/>
+        <updated>2022-06-12T11:05:19.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 4. 变量数据存储和作用域 storage/memory/calldata》
+原文作者：0xAA
+
+
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码开源在：github.com/AmazingAng/WTFSolidity
+
+
+
+Solidity 中的引用类型
+
+
+引用类型 (Reference Type)：包括数组（array），结构体（struct）和映射（mapping），这类变量占空间大，赋值时候直接传递地址（类似指针）。由于这类变量比较复杂，占用存储空间大，我们在使用时必须要声明数据存储的位置。
+
+
+数据位置
+
+
+solidity 数据存储位置有三类：storage，memory 和 calldata。不同存储位置的 gas 成本不同。storage 类型的数据存在链上，类似计算机的硬盘，消耗 gas 多；memory 和 calldata 类型的临时存在内存里，消耗 gas 少。大致用法：
+
+
+1.storage：合约里的状态变量默认都是 storage，存储在链上。
+
+
+2.memory：函数里的参数和临时变量一般用 memory，存储在内存中，不上链。
+
+
+3.calldata：和 memory 类似，存储在内存中，不上链。与 memory 的不同点在于 calldata 变量不能修改（immutable），一般用于函数的参数。例子：
+
+
+
+
+
+
+不同类型相互赋值时的规则
+
+
+在不同存储类型相互赋值时候，有时会产生独立的副本（修改新变量不会影响原变量），有时会产生引用（修改新变量会影响原变量）。规则如下：
+
+
+1.storage（合约的状态变量）赋值给本地 storage（函数里的）时候，会创建引用…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitcoin第14轮捐赠开始，盘点值得关注的项目]]></title>
+        <id>https://www.theblockbeats.info/news/30844</id>
+        <link href="https://www.theblockbeats.info/news/30844"/>
+        <updated>2022-06-12T05:05:19.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Gitcoin 第 14 轮优质项目汇总》
+原文作者：3344521.eth，追风 Lab
+
+
+一、Gitcoin 简介
+
+
+
+
+
+Gitcoin 是一个具有社区属性的数字产品开发平台，创造金融自由，定义开放网络的未来。
+
+
+Gitcoin 是一个自 2017 年发起的开源软件开发激励平台，旨在通过区块链支持各类开源项目，促进开源运动的发展，区块链等项目可以在该平台上用一定的报酬找到需要的开发者。随着 Gitcoin 的发展，目前已延伸出了黑客马拉松「Hackathons」、众筹捐赠「Grants」、加速器孵化「Kernel」和社交属性「Kudos」等不同版块。
+
+
+自 2017 年 11 月推出以来，Gitcoin 已为 10035 名不同的 Earner 促成了 1,699,878 笔完整的交易，累计募集了超过 3600 万美元。
+
+
+此前，Gitcoin 捐赠活动曾资助了 Uniswap、Dark Forest、Coin Center、POAP、Bankless 等优质项目。
+
+
+下面整理了第 14 轮一些优质项目，仅作为个人观点，不做投资建议。
+
+
+在捐款前建议验证下Gitcoin 身份。
+
+
+1）JediSwap
+
+
+
+
+
+StarkNet 上的第一个 AMM，可实现资产的即时无气交换
+
+
+官方推特
+
+
+官方链接
+
+
+捐款链接
+
+
+2）zkRollups.xyz
+
+
+
+
+
+聚合所有构建 zkRollups、基于 zkRollups 以及为 zkRollups 构建的项目。
+
+
+官方推特
+
+
+官方链接 
+
+
+捐款链接  
+
+
+3）Lenster
+
+
+
+
+
+Lenster 是使用 LensProtocol 构建的去中心化且无需许可的社交媒体应用程序
+
+
+官方推特 
+
+
+官方链接 
+
+
+捐款链接  
+
+
+4）DefiLlama
+
+
+
+
+
+公开透明的 DeFi…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：2000万OP被盗背后安全警惕；Token解锁后，哪家VC跑得最快]]></title>
+        <id>https://www.theblockbeats.info/news/30843</id>
+        <link href="https://www.theblockbeats.info/news/30843"/>
+        <updated>2022-06-12T04:05:19.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+《Nansen 分析：Token 解锁后，哪家 VC 跑得最快？》
+
+
+ 
+我们或许可以把「VC 抛售」看做项目评价新维度。本文梳理自 Nansen 分析师 Andrew T 在个人社交媒体平台上的观点。市场走势很糟糕，但随着主要基金抛售数百万本已低迷的资产，早期机构解锁后的情况变得更糟，让我们看一下最近的例子，并分析如何保护自己。
+
+
+《机构撤离 Lido 进行时，stETH 风险究竟有多严重？》
+
+
+Lido 流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平台 Celsius 濒临破产的传闻，这一切可能会引发 stETH 的大量抛售，资深交易员CryptoJoe与 Messari 分析师@Riley_gmi最近一直在研究这个，以下是他们的一些发现。
+
+《Mint 就给钱的 FTC，白热化的 Free Mint》
+
+
+ 
+近期爆火的 goblintown 和它的仿盘们似乎点燃了 Free Mint 赛道，各种博人眼球的 NFT 项目层出不穷，它们都试图通过千奇百怪的创意来吸引注意力。一时之间，各个 NFT 社群都逐渐沉迷于打「图狗」，希望能够抓住下一个暴涨的「哥布林」。通过 Free Mint，NFT 玩家们仅仅只需要支付 gas 费就能够以小博大，NFT 项目方也可以通过二级市场交易版税来回收成本进而盈利，但随着这种模式的 NFT 项目越来越多，市场似乎也有些疲惫了。这时，如果有一个 NFT 项目愿意支付给你 0.01ETH 去 mint 会怎么样？
+
+
+ 
+《2000 万 OP 被盗背后安全警惕：任何多签…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[机构撤离Lido进行时，stETH风险究竟有多严重？]]></title>
         <id>https://www.theblockbeats.info/news/30842</id>
