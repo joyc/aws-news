@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30862",
+          "author": null,
+          "description": "原文标题：《Web3 competitive advantage: Winning in open and decentralized ecosystems》\n原文作者：Sangeet Paul Choudary\n原文编译：Skyhigh Feng @DAOrayaki.org，DoraFactory\n\n\n\n在用户零转换成本和所有代码是可分叉的时候该如何竞争？\n\n\n\n竞争是获取和管理稀缺资源以创造优势的艺术。技术的变化改变了资源的稀缺性，从而改变了竞争的基础。「新竞争者」看起来与「老竞争者」不同，很大程度上是因为现在稀缺资源与以前稀缺资源不一样了。\n\n\n\n\n开放性为竞争增加了一个有趣的维度。开放组织可以发现潜在的能力，使之变得丰富，转换了其稀缺性。同样地，开放以前的稀缺资源，让它成为商品，并以此改变竞争的基础。\n\n\n\n\n随着 web3 的兴起，我们正在进入一个竞争优势的新时代。稀缺性再次发生变化，竞争的基础也是如此。这篇文章 (我们即将出现的 web3 攻略的部分) 围绕这种新的稀缺性以及公司将如何在这个新时代竞争，提出了一些初步的想法。\n\n\n\n\n竞争伴随着稀缺性\n\n\n为了理解新的稀缺性所在，我们需要更好地理解企业如何获取和管理稀缺资源。\n\n\n\n\n基于资源的竞争\n\n\n在工业时代，企业竞争的基础是获得稀缺资源。稀缺资源包括获取特殊供应来源 (如油田和矿山) 或独特的知识产权 (如可口可乐的配方)。\n\n\n对于数字时代的公司来说，这些大多都会转化为竞争优势。谷歌的搜索算法作为商业机密继续受到保护，这也是提供他们竞争优势的关键资源。\n\n\n\n\n当 Airbnb 成功抢占了 Craigslist，并将 Craigslist 的用户基础拉到自己的时候，Craigslist 失去了其稀缺资源——由卖家创建的挂牌信息——转移到 Airbnb。作为回应，Craigslist 开始向所有试图效仿…",
+          "link": "https://www.theblockbeats.info/news/30862",
+          "publishedOn": "2022-06-13T03:32:47.000Z",
+          "wordCount": null,
+          "title": "识别Web3新的稀缺性：开源开发者",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30860",
           "author": null,
           "description": "原文标题：《EVM 网络效应：为什么说 EVM 可能比以太坊本身更重要？》\n原文作者：Nir & Krishna Nandakumar\n\n\n原文编译：Unitimes\n\n\n\n\n\n前言：本文为 Nir 与 Krishna Nandakumar 共同撰写，Vernon Johnson、David Phelps、Carlos Diaz-Pedron、Tomer Ben-David 和 Jad Esber  对撰写本文提供了大量帮助。\n  \n\n\n对整个区块链行业而言，EVM 可能比以太坊区块链本身更重要。\n\n\n实际上，大家所熟知的以太坊只是以太坊区块链的一种实现。另一方面，以太坊虚拟机 (EVM) 是基于区块链的开源软件，允许开发者创建去中心化的应用。它是全球虚拟计算机，记录以太坊网络存储和达成共识的每个智能合约的状态。Solidity 是它的编程语言。\n\n\n \nEVM 是第一个为开发者提供智能合约功能的软件，并且已经成长为一个蓬勃发展的生态系统，其极具价值的开发者网络效应超越了以太坊区块链本身。事实上，一些使用 EVM 的知名区块链有自己的代币经济和共识机制，完全独立于 ETH 代币和 ETH 挖矿。其他 EVM 链上的创新、基础设施和用户增长能够被以太坊区块链无缝地使用，反之亦然。\n\n\n无需许可协议的网络效应 \n\n\n网络效应是一种现象，用户或参与者的增加可以提高商品或服务的价值，有时是指数级地提高。例如，就互联网对你的价值而言，每个人都在使用互联网要比只有少数人/组织使用互联网更使其具有价值。社交网络是另一个常见的例子。\n\n\n开源软件和生态系统受益于类似的网络效应：开发者在开源软件的基础上开发或集成的越多，它对每个人来说就越有价值。但这还不是 OSS (开源软件) 能够从中受益的全部。如果网络之上的大部分基础设施和应用也是开源的，那么网络效应将成倍增加。\n\n\n这就是 EVM 网…",

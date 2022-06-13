@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-13T00:43:34.318Z</updated>
+    <updated>2022-06-13T06:11:55.387Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[识别Web3新的稀缺性：开源开发者]]></title>
+        <id>https://www.theblockbeats.info/news/30862</id>
+        <link href="https://www.theblockbeats.info/news/30862"/>
+        <updated>2022-06-13T03:32:47.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Web3 competitive advantage: Winning in open and decentralized ecosystems》
+原文作者：Sangeet Paul Choudary
+原文编译：Skyhigh Feng @DAOrayaki.org，DoraFactory
+
+
+
+在用户零转换成本和所有代码是可分叉的时候该如何竞争？
+
+
+
+竞争是获取和管理稀缺资源以创造优势的艺术。技术的变化改变了资源的稀缺性，从而改变了竞争的基础。「新竞争者」看起来与「老竞争者」不同，很大程度上是因为现在稀缺资源与以前稀缺资源不一样了。
+
+
+
+
+开放性为竞争增加了一个有趣的维度。开放组织可以发现潜在的能力，使之变得丰富，转换了其稀缺性。同样地，开放以前的稀缺资源，让它成为商品，并以此改变竞争的基础。
+
+
+
+
+随着 web3 的兴起，我们正在进入一个竞争优势的新时代。稀缺性再次发生变化，竞争的基础也是如此。这篇文章 (我们即将出现的 web3 攻略的部分) 围绕这种新的稀缺性以及公司将如何在这个新时代竞争，提出了一些初步的想法。
+
+
+
+
+竞争伴随着稀缺性
+
+
+为了理解新的稀缺性所在，我们需要更好地理解企业如何获取和管理稀缺资源。
+
+
+
+
+基于资源的竞争
+
+
+在工业时代，企业竞争的基础是获得稀缺资源。稀缺资源包括获取特殊供应来源 (如油田和矿山) 或独特的知识产权 (如可口可乐的配方)。
+
+
+对于数字时代的公司来说，这些大多都会转化为竞争优势。谷歌的搜索算法作为商业机密继续受到保护，这也是提供他们竞争优势的关键资源。
+
+
+
+
+当 Airbnb 成功抢占了 Craigslist，并将 Craigslist 的用户基础拉到自己的时候，Craigslist 失去了其稀缺资源——由卖家创建的挂牌信息——转移到 Airbnb。作为回应，Craigslist 开始向所有试图效仿…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVM网络效应：为什么说EVM可能比以太坊本身更重要？]]></title>
         <id>https://www.theblockbeats.info/news/30860</id>
