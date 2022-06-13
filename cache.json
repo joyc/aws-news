@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30876",
+          "author": null,
+          "description": "原文标题：《为什么元宇宙需要 NFT？》\n原文作者：punk6529 \n原文编译：Block unicorn\n\n\n\n\n\n1/35、关于为什么 Metaverse 需要加密，特别是为什么 Metaverse 需要 NFT。至关重要的是，元节的所有权层最终位于公共区块链上而不是私有数据库中。\n\n\n\n\n\n\n2、第一个主题: 什么是元宇宙?\n\n\n\n\nFacebook 吗? 是 Epic 吗? 它是苹果吗? 是 Otherside 吗? Decentraland 吗？在我看来，都不是，元宇宙不是这些东西。\n\n\n\n\n最抽象层的元宇宙是互联网，但和互联网有两个区别。\n\n\n\n\n\n\n3、第一个区别是互联网的可视化层将会变得越来越好。今天，我们在互联网上有免费的全球视频会议和 4K 电影。我们以前没有，十年后，我们将拥有功能扩展和混合现实。\n\n\n\n\n\n\n4、什么是「功能扩展/混合现实」?\n\n\n\n\n想象一下一副大小/重量/款式的太阳镜。\n\n\n\n\n这些眼镜将能够在普通现实、增强现实 (数字物体覆盖在你的视野上) 和虚拟现实之间切换。\n\n\n\n\n\n\n5、我们大部分时间会花在增强现实上，而不是虚拟现实。\n\n\n想象一下，增强现实技术正在打破笔记本电脑和手机屏幕的束缚。\n\n\n\n\n想象一下，你走在海滩上，没有拿起手机去看一条通知，只看到它在你的眼角。\n\n\n\n\n\n\n6、想象一名同事瞬移到你的办公室与你聊天或进行头脑风暴，他们或多或少看起来就像真的一样。\n\n\n\n\n大兄弟，如果 Zoom/COVID 减少了商务旅行/出差，想象下，如果能瞬间移动你会做什么?\n\n\n\n\n\n\n7、你偶尔会突然进入虚拟现实。也许你想和你的同事在一个有数据和文件的房间里走动，一个虚拟的工作空间。也许你想看看你计划参观的酒店，走过去看看海滩，看看游泳池。\n\n\n\n\n\n\n8、但你大部分时间会在增强现实中。对于整天盯着屏幕的知识工作者 (我) 来说，…",
+          "link": "https://www.theblockbeats.info/news/30876",
+          "publishedOn": "2022-06-13T14:10:58.000Z",
+          "wordCount": null,
+          "title": "增强现实还是混合现实？解析NFT在元宇宙为何至关重要",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30875",
           "author": null,
           "description": "原文标题：《Staking, pegging and other stuff》\n原文作者：Cobie\n原文来源：Cobie Substack\n原文编译：Kxp、0x711，BlockBeats\n\n\n\n本文梳理自加密 KOL Cobie 在 Substack 平台上的观点，BlockBeats 对其整理翻译如下： \n\n\n信息披露\n\n\n首先，我需要提示一下，本文的内容不构成投资建议，因为我没有资格提供财务建议，文章内容仅是我个人的想法。\n\n\n其次，我之前参与了 Lido 的建设，而这个项目是本文中的一个主题。现在我已不再为 Lido 工作，当然也不会为 Lido 写这篇文章。事实上，我在项目很早期做出了贡献。我已经有一年多没有参与 Lido 的贡献。我也没有把这篇文章给 Lido 的人看过——因为如果他们发现一些错误，我还得去修改内容。\n\n\n最后，我持有一些 LDO、ETH 和 stETH。所以我很有可能带有偏见。但我尽可能做到立场公正。\n\n\nLido 简介\n\n\n\n这是我在 2020 年 10 月发表的介绍 Lido 的博客文章：介绍 Lido。\n\n\n简单来说，这是一个典型的 ETH 质押协议。一个可提供质押 ETH Token 化版本（stETH）的质押池。\n\n\n例如，你质押 1 ETH，Lido 给你 1 stETH 作为回报。你的 ETH 与 Lido 选择的一组节点运营商中的一个验证者进行质押。随着该 ETH 获得质押奖励，您的 stETH 余额会自动更改以匹配该信标链余额。\n\n\n在 ETH 开发人员最终发布合并和随后的分叉后，stETH 将能够「取消抵押」并且可以赎回原来的 ETH。\n\n\n由于以太坊将他们的质押设计得有点奇怪，并且随着信标链于 2020 年底推出但仍没有具体的合并日期，Lido 变得非常受欢迎。对于用户来说，这是最流行的质押 ETH 的方式。\n\n\nst…",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-06-11T10:15:36.000Z",
           "wordCount": null,
           "title": "机构撤离Lido进行时，stETH风险究竟有多严重？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30838",
-          "author": null,
-          "description": "原文作者：0x137，BlockBeats\n\n\n最近，一个叫做 Planet 的应用受到了很多「硬核用户」们的关注。Planet 来自 Livid，V2EX 创始人，这个传奇论坛是互联网极客的聚集地，以浓厚的开发氛围著称，但在用户群体壮大的过程中，V2EX 也遇到了很多问题，甚至一度被称为「水深火热之地」。而在 V2EX 的痛苦和思考中，Planet 也随之诞生了。\n\n\nPlanet\n\n\nPlanet 是由 IPFS 和 ENS 支持的去中心化博客和网站平台，使用 IPFS 来实现点对点的内容分发，旨在帮助用户以去中心化的方式构建自己或关注他人的网站。通过 Planet，用户可以直接在自己的电脑上发布博客或网站至 IPFS，并且可以将它们和自己的 ENS 域名绑定。\n\n\n\n\n\n\n\n这是一个「果味十足」的开源应用，目前仅支持 macOS，用户在自己的 Mac 上安装 Planet 后，就可以在不依赖中心化服务的情况下直接触及自己的信息来源和受众。目前应用的开发还处于早期阶段，版本也还在持续更新，但对不少互联网硬核用户来说，Planet 的确带来了很多新奇的体验。\n\n\n源自痛苦：为什么要做 Planet？\n\n\n在播客《枫言枫语》第 67 期节目中，Livid 谈到了自己创作 Planet 的初衷，这个新奇的应用源自困扰 Livid 数年的痛苦。\n\n\n作为一个天才开发者，Livid 有着极为丰富的互联网经验。05 年成为当时 eBay 全球最年轻的程序员；07 年离开 ebay 加入六间房，成为 iOS 游戏产品总监；08 年加入顺网科技，作为总监设计创作了「网维大师 7.0」的新 UI。也正是在这些不同的经历中，Livid 深刻感受到了一个寄生在所有互联网公司身上的痛点，「平台做大后，最苦的是运维的人」。\n\n\n2010 年，Livid 上线了 V2EX，并在很长一段时间里都是自…",
-          "link": "https://www.theblockbeats.info/news/30838",
-          "publishedOn": "2022-06-11T03:15:36.000Z",
-          "wordCount": null,
-          "title": "Planet：V2EX站长的去中心化社媒探索",
           "imageUrl": null
         }
       ]
