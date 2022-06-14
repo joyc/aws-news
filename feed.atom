@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-13T18:10:32.195Z</updated>
+    <updated>2022-06-14T00:46:15.694Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -561,77 +561,6 @@ Lido 流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平
 
  
 《2000 万 OP 被盗背后安全警惕：任何多签…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机构撤离Lido进行时，stETH风险究竟有多严重？]]></title>
-        <id>https://www.theblockbeats.info/news/30842</id>
-        <link href="https://www.theblockbeats.info/news/30842"/>
-        <updated>2022-06-11T10:15:36.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：CryptoJoe（Rebirth DAO创始人，资深交易员）
-原文编译：czgsws，BlockBeats
-
-
-
-stETH 脱锚，价值跌至 0.95 ETH。
-
-
-
-
-
-流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平台 Celsius 濒临破产的传闻，这一切可能会引发 stETH 的大量抛售，我和 Messari 分析师@Riley_gmi最近一直在研究这个，以下是我们的一些发现。
-
-
-首先，什么是 Lido & stETH？
-
-
-
-Lido 为用户提供 ETH 流动性质押服务，用户可以锁定任意数量的 ETH，然后收到权益 Token stETH 用于在 DeFi 中赚取收益。
-
-
-合并后，每个 stETH 可正常兑换 1 ETH。
-
-
-每个 stETH 只能通过信标链的上线来赎回。在那之前，ETH 2.0 质押合约中的 1280 万 ETH 是不具备流动性的。
-
-
-Lido 持有这 1280 万枚 ETH 中的 32%（大约 410 万枚）
-
-
-
-
-
-在我们深入研究 Celsius 的资产负债表并追踪 Smart Money 地址之前，让我们先看看 stETH 应该如何定价：
-
-
-正如 Lido 所说的，stETH 锚定 ETH（在信标链上），现在市场现在开始重新定价 stETH 的公允价格。
-
-
-但考虑到这项投资的流动性动态，stETH 的价格打多少折扣是公平的？
-
-
-stETH 定价应该由以下 4 件事综合决定
-
-
-· 当前市场对流动性的渴望程度（需求/供应）
-· 当前市场的成交量和流动性（市场如何应对抛压）
-· 成功/延迟合并的可能性
-· 智能合约风险
-
-
-详细来说
-
-
-1. 对市场流动性的渴望程度
-
-
-
-在市场周期的不同阶段，对流动性的需求起起落落。当价格上涨，流动性高时，平仓容易，成本低，反之亦然。
-
-
-通过链上数据，我们已经看…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
