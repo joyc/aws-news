@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30883",
+          "author": null,
+          "description": "原文标题：《当 DAO 快速发展时，容易面临哪些问题？》\n原文作者：Marina，W3.Hitchhiker；修订：Evelyn，\n\nW3.Hitchhiker\n\n\n\n6 月，DAO 的管理平台 Dework 完成了 500 万美元的种子轮融资，由著名加密投资机构 Paradigm 和 Pace Capital 领投；DAO 的薪酬支付系统 Utopia 获得了一笔由 Paradigm 领投的 2300 万美元的 A 轮融资；DAO 运营平台 CharmVerse 完成 380 万美元种子轮融资，Spartan Group 等参投... ...\n\n\nDAO 就这样在我们的视野里不断的斩获越来越「巨额」的融资，甚至 Polychain 的创始人 Olaf Carlson-Wee 也公开对 DAO 表示赞扬：他认为 DAO 募资的金额规模已超过传统 IPO，同时在 2022 年的募资金额也将会超过 1 万亿美元。\n\n\n同时，市场上也出现了很多关于 DAO 的激烈讨论。比如 DAO 是否可以取代传统的公司去运营？DAO 将会有很大的概率超过加密投资 VC？DAO 作为一种新型的社会分工合作方式是如何吸引更多优质人员加入的？\n\n\n不管怎样，DAO 的时代正在到来，没有人可以阻挡。特别是在现在的市场环境下，没有太多新的热点，除了偶尔爆火的几个 NFT 项目，DAO 开始被被无数人寄予厚望——DAO 开始细分化，面对不同的场景产生了各类形形色色的 DAO。如果我们将视野放在一个具体的 DAO 时，我们会有这样的疑问：当 DAO 有越来越多的新人加入时，且业务拓展的速度跟不上人员的加入时，是否会产生诸多问题？\n\n\n本文将尝试去探讨 DAO 在快速发展中常见的困境和解决方案，仅供交流，不做投资建议。\n\n\n\n  1、DAO 的贡献者  \n\n\n\n不管是什么组织，其最核心的，同时也是最基础的部分…",
+          "link": "https://www.theblockbeats.info/news/30883",
+          "publishedOn": "2022-06-14T14:15:52.000Z",
+          "wordCount": null,
+          "title": "当DAO快速发展时，容易面临哪些问题？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30882",
           "author": null,
           "description": "DeFi 最大的特色之一是它的可组合性，无需许可的开放式区块链协议，让资产可以在协议间自由流动。借贷协议是 DeFi 生态的重要基础建设之一，为存款用户提供利息收益，为借款用户提供所需资产，有了这样的基础服务，用户可在 DeFi 生态中做出更复杂的交易，包括加杠杆、卖空、套利等操作。\n \n以太坊生态中，最大的借贷协议是 Compound 和 Aave，尽管目前全球不景气，但这两个平台的资产存款量仍超过 150 亿美元，其中 Compound 平台上的资产使用率为 25%，Aave 平台上的资产使用率为 32%。在这两大平台奠定了 DeFi 借贷的基础及商业模式后，市场上出现许多分叉它们代码的项目，但到目前为止还没有其他借贷项目的资产规模能超过 Compound 和 Aave。\n \n去年底，研发一年半的以太坊借贷项目 Euler Finance 低调上线，基于去中心化借贷这一核心理念，融入了许多创新设计，为了跟上市场的变化，Euler 协议的代码全部自研，加上强大的团队阵容，获得了 Paradigm 等顶级机构的投资。\n \n至今 Euler 已在以太坊主网上运行了 6 个月，平台数据持续攀升。Euler 和 Compound、Aave 到底有什么不同，和其它新上线的借贷协议相比有何优势，本文从 8 个角度来拆解分析。\n \n自创建借贷市场\n \nCompound 和 Aave 运行了这么多年，目前支持借贷的资产约 20 和 30 个，几乎都是市值排名前 100 的蓝筹资产，可以说这两个平台是针对蓝筹资产设计的。\n \nEuler 在运行 6 个月间，目前已支持了 60 个资产，其中除了蓝筹资产外，也有些高风险资产和长尾资产。Euler 之所以能快速支持资产种类，是因为任何人都能在平台上创建出新的借贷市场，流程是全自动化的。Compound、Aave 如果要支持新资产，是需要通过治理…",
@@ -113,26 +123,6 @@
           "publishedOn": "2022-06-12T11:05:19.000Z",
           "wordCount": null,
           "title": "Solidity极简入门 | 第四讲：变量数据存储和作用域",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30844",
-          "author": null,
-          "description": "原文标题：《Gitcoin 第 14 轮优质项目汇总》\n原文作者：3344521.eth，追风 Lab\n\n\n一、Gitcoin 简介\n\n\n\n\n\nGitcoin 是一个具有社区属性的数字产品开发平台，创造金融自由，定义开放网络的未来。\n\n\nGitcoin 是一个自 2017 年发起的开源软件开发激励平台，旨在通过区块链支持各类开源项目，促进开源运动的发展，区块链等项目可以在该平台上用一定的报酬找到需要的开发者。随着 Gitcoin 的发展，目前已延伸出了黑客马拉松「Hackathons」、众筹捐赠「Grants」、加速器孵化「Kernel」和社交属性「Kudos」等不同版块。\n\n\n自 2017 年 11 月推出以来，Gitcoin 已为 10035 名不同的 Earner 促成了 1,699,878 笔完整的交易，累计募集了超过 3600 万美元。\n\n\n此前，Gitcoin 捐赠活动曾资助了 Uniswap、Dark Forest、Coin Center、POAP、Bankless 等优质项目。\n\n\n下面整理了第 14 轮一些优质项目，仅作为个人观点，不做投资建议。\n\n\n在捐款前建议验证下Gitcoin 身份。\n\n\n1）JediSwap\n\n\n\n\n\nStarkNet 上的第一个 AMM，可实现资产的即时无气交换\n\n\n官方推特\n\n\n官方链接\n\n\n捐款链接\n\n\n2）zkRollups.xyz\n\n\n\n\n\n聚合所有构建 zkRollups、基于 zkRollups 以及为 zkRollups 构建的项目。\n\n\n官方推特\n\n\n官方链接 \n\n\n捐款链接  \n\n\n3）Lenster\n\n\n\n\n\nLenster 是使用 LensProtocol 构建的去中心化且无需许可的社交媒体应用程序\n\n\n官方推特 \n\n\n官方链接 \n\n\n捐款链接  \n\n\n4）DefiLlama\n\n\n\n\n\n公开透明的 DeFi…",
-          "link": "https://www.theblockbeats.info/news/30844",
-          "publishedOn": "2022-06-12T05:05:19.000Z",
-          "wordCount": null,
-          "title": "Gitcoin第14轮捐赠开始，盘点值得关注的项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30843",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《Nansen 分析：Token 解锁后，哪家 VC 跑得最快？》\n\n\n \n我们或许可以把「VC 抛售」看做项目评价新维度。本文梳理自 Nansen 分析师 Andrew T 在个人社交媒体平台上的观点。市场走势很糟糕，但随着主要基金抛售数百万本已低迷的资产，早期机构解锁后的情况变得更糟，让我们看一下最近的例子，并分析如何保护自己。\n\n\n《机构撤离 Lido 进行时，stETH 风险究竟有多严重？》\n\n\nLido 流动性正在枯竭，Smart Money 正在撤出资金，再加上借贷平台 Celsius 濒临破产的传闻，这一切可能会引发 stETH 的大量抛售，资深交易员CryptoJoe与 Messari 分析师@Riley_gmi最近一直在研究这个，以下是他们的一些发现。\n\n《Mint 就给钱的 FTC，白热化的 Free Mint》\n\n\n \n近期爆火的 goblintown 和它的仿盘们似乎点燃了 Free Mint 赛道，各种博人眼球的 NFT 项目层出不穷，它们都试图通过千奇百怪的创意来吸引注意力。一时之间，各个 NFT 社群都逐渐沉迷于打「图狗」，希望能够抓住下一个暴涨的「哥布林」。通过 Free Mint，NFT 玩家们仅仅只需要支付 gas 费就能够以小博大，NFT 项目方也可以通过二级市场交易版税来回收成本进而盈利，但随着这种模式的 NFT 项目越来越多，市场似乎也有些疲惫了。这时，如果有一个 NFT 项目愿意支付给你 0.01ETH 去 mint 会怎么样？\n\n\n \n《2000 万 OP 被盗背后安全警惕：任何多签…",
-          "link": "https://www.theblockbeats.info/news/30843",
-          "publishedOn": "2022-06-12T04:05:19.000Z",
-          "wordCount": null,
-          "title": "周末荐读：2000万OP被盗背后安全警惕；Token解锁后，哪家VC跑得最快",
           "imageUrl": null
         }
       ]
