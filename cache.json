@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30878",
+          "author": null,
+          "description": "原文作者：Zero Knowledge Validator\n原文编译：TechFlow intern\n\n\n熊市深耕，牛市收获，Gitcoin 的捐赠一直是 Web3 的武器库，但行好事莫问前程，说不定在下次牛市中，你播下的种子已长成参天大树。\n\n\n这篇文章，让我们一起回顾一下这次 Gitcoin 捐赠中的，23 个 ZK 生态项目。\n\n\n1.Aztec Protocol\n\n\n\n\n\n\n \n该赠款旨在资助开发 Dune 仪表板以跟踪 Aztec 上的链上活动。\n\n\n捐款链接\n\n\n2.OtterCash\n\n\n\n\n\nOtterCash 正在 Solana 上构建开源的、便宜的零知识开发工具。\n\n\n捐款链接\n\n\n3.cabalxyz\n\n\n\n\n\n\nCabalxyz 是一个 Discord 的机器人，它允许服务器所有者使用 ETH 身份（即 NFT 所有权）控制对频道的访问，同时允许用户维护他们的隐私。\n\n\n捐款链接\n\n\n4.Circify\n\n\n\n\n \n\n\nCircify 是一个编译器构建工具包，可以轻松构建从高级、有状态语言（如 C）到电路（和其他类似约束的表示）的编译器。\n\n\n捐款链接\n\n\n5.Iden3\n\n\n\n\n\n\nIdenthree 正在寻求资助 Circom，这是一种电路编程语言和编译器，允许程序员为 ZK 证明设计和创建自己的算术电路。\n\n\n赠款链接\n\n\n6.ZKHack\n\n\n\n\n\n\nZK HACK 是一个在线系列活动和专注于 ZK 的社区！通过入门研讨会和高级解谜比赛、学习小组和视频系列，ZK Hack 旨在教参与者如何使用 ZK 工具。\n\n\n捐款链接\n\n\n7.Sin7Y\n\n\n\n\n\n\nSin7Y 是一个小型项目孵化器和区块链技术研究团队。Sin7Y 由顶尖的区块链开发人员提供支持，分析最前沿的技术，包括 ZK-EVM、Layer2、跨链、隐私计算、自主支付解决方案等。他们每…",
+          "link": "https://www.theblockbeats.info/news/30878",
+          "publishedOn": "2022-06-14T03:53:53.000Z",
+          "wordCount": null,
+          "title": "Gitcoin第14轮值得关注的23个ZK项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30876",
           "author": null,
           "description": "原文标题：《为什么元宇宙需要 NFT？》\n原文作者：punk6529 \n原文编译：Block unicorn\n\n\n\n\n\n1/35、关于为什么 Metaverse 需要加密，特别是为什么 Metaverse 需要 NFT。至关重要的是，元节的所有权层最终位于公共区块链上而不是私有数据库中。\n\n\n\n\n\n\n2、第一个主题: 什么是元宇宙?\n\n\n\n\nFacebook 吗? 是 Epic 吗? 它是苹果吗? 是 Otherside 吗? Decentraland 吗？在我看来，都不是，元宇宙不是这些东西。\n\n\n\n\n最抽象层的元宇宙是互联网，但和互联网有两个区别。\n\n\n\n\n\n\n3、第一个区别是互联网的可视化层将会变得越来越好。今天，我们在互联网上有免费的全球视频会议和 4K 电影。我们以前没有，十年后，我们将拥有功能扩展和混合现实。\n\n\n\n\n\n\n4、什么是「功能扩展/混合现实」?\n\n\n\n\n想象一下一副大小/重量/款式的太阳镜。\n\n\n\n\n这些眼镜将能够在普通现实、增强现实 (数字物体覆盖在你的视野上) 和虚拟现实之间切换。\n\n\n\n\n\n\n5、我们大部分时间会花在增强现实上，而不是虚拟现实。\n\n\n想象一下，增强现实技术正在打破笔记本电脑和手机屏幕的束缚。\n\n\n\n\n想象一下，你走在海滩上，没有拿起手机去看一条通知，只看到它在你的眼角。\n\n\n\n\n\n\n6、想象一名同事瞬移到你的办公室与你聊天或进行头脑风暴，他们或多或少看起来就像真的一样。\n\n\n\n\n大兄弟，如果 Zoom/COVID 减少了商务旅行/出差，想象下，如果能瞬间移动你会做什么?\n\n\n\n\n\n\n7、你偶尔会突然进入虚拟现实。也许你想和你的同事在一个有数据和文件的房间里走动，一个虚拟的工作空间。也许你想看看你计划参观的酒店，走过去看看海滩，看看游泳池。\n\n\n\n\n\n\n8、但你大部分时间会在增强现实中。对于整天盯着屏幕的知识工作者 (我) 来说，…",
