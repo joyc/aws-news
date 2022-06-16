@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30900",
+          "author": null,
+          "description": "原文标题：《创业狂人的雷曼时刻，加密独角兽 Celsius 危机始末》\n原文作者： 0xergou，深潮 TechFlow\n\n\n「Celsius Network 的用户数量是所有 DeFi 总和的两倍……那是因为我们将 80% 回馈给我们的社区，而 Maker 和其他项目则将 50% 留给自己。」\n \n2019 年，加密借贷平台 Celsius 创始人 Alex Mashinsky 在推特上如此炫耀，引发 DeFi 爱好者的回击，有人反驳道，「DeFi 协议让我们完全控制自己的钱，然而在你们倒闭的那一刻，我们没有办法拿回我们的资金……」\n \n知名数据网站 DeFiPrime 选择直接下架 Celsius Network。\n \n「我们将 Celsius Network 下架。不透明的公司，疯狂的 CEO，这是强烈的危险信号，所以我们不再推荐这个产品了。」AAVE 创始人 Stani 趁势表态，「应该将所有 CeFi 从 DeFi Prime 下架」。\n \n\n \n近 3 年后，已成长为加密独角兽的 Celsius Network 却突然发布公告：暂停平台一切提现、交易和转账。\n \n对于大多数华人而言，Celsius Network 或许稍显陌生，但是创始人以及公司的故事具有传奇故事所要求的几乎所有要素：\n \n一名乌克兰人揣着 100 美元来到美国变身创业狂人，创立 8 家公司，打造出 3 家独角兽企业；做 VC，募资 10 亿美元，退出超 30 亿美元，IRR 54% ；Celsius 两次因被盗损失资产；前 CFO Moshe Hegog 被逮捕；色情明星从事高管……\n \n如今，伴随大规模资金挤兑，暂停提现，资产规模一度高达 300 亿美元的 Celsius Network 来到了「雷曼时刻」。危机从何而来？这次，创业狂人 Mashinsky 能否再次力挽狂澜？\n\n\n\n\n狂人…",
+          "link": "https://www.theblockbeats.info/news/30900",
+          "publishedOn": "2022-06-16T15:52:29.000Z",
+          "wordCount": null,
+          "title": "Celsius危机始末：管理超300亿美元资产的明星CeFi是如何成为众矢之的的？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30903",
           "author": null,
           "description": "原文标题：《8 Projects I'm Bullish On This Bear Market》\n原文作者：David Hoffman\n\n\n原文编译：Katie 辜，Odaily 星球日报\n\n\n\n\n最近我们都在关注跌跌不休的价格走势，但不要忘记 Web3 正处于建设阶段。\n\n\n熊市使 CEO 能够从基本原则角度进行思考，花更多的时间来打造有意义的技术。随着大批新进的加密用户，有大量的新领域需要建设。2021 年，Web3 领域从 0 发展到 1。现在，我们需要头脑清醒且资金充足的公司按照蓝图做大做强。\n\n\n今天，我将重点介绍 8 家站在加密世界前沿的项目。他们正在开发一些非常酷的产品。\n\n\n1. Obol Network——分布式验证器技术（DVT）\n\n\n\n\n\n官网：Obol.tech\n\n\nObol 是「分布式验证器技术」（DVT）的先驱。DVT 可以同时运行在多台机器和客户机上，同时仍然像网络上的单个验证器一样运行。DVT 允许许多计算机联机，并让所有计算机共同参与私钥签名。\n\n\n这项技术有利于创建具有竞争力的 ETH 质押 基础设施，减少网络垄断。Obol 的目标是让验证器的正常运行时间变得更有竞争力，同时将最大限度降低风险，为质押网络提供公平的竞争环境。\n\n\nObol 用例：\n\n\n· DAO 不会信任单个成员质押其资金库的 ETH，但可能会信任一组成员共同运行验证器，并共担责任；\n\n\n· 成员不会单独拥有 32 个 ETH，但可以将所有 ETH 聚集，构建一个共享节点；\n\n\n· 托管人可能不会把客户的 ETH 托付给单一的质押运营商，但他们可能会信任通过 Obol 技术合作的运营商网络。\n\n\nObol 如何脱颖而出：\n\n\n1.Obol 被集成到每个质押协议和消费者质押软件中；\n\n\n2.每家质押服务公司和协议（Coinbase Cloud、Lido、RocketPoo…",
@@ -133,16 +143,6 @@
           "publishedOn": "2022-06-14T08:58:35.000Z",
           "wordCount": null,
           "title": "熊市有3个阶段，我们刚进入第2个",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30878",
-          "author": null,
-          "description": "原文作者：Zero Knowledge Validator\n原文编译：TechFlow intern\n\n\n熊市深耕，牛市收获，Gitcoin 的捐赠一直是 Web3 的武器库，但行好事莫问前程，说不定在下次牛市中，你播下的种子已长成参天大树。\n\n\n这篇文章，让我们一起回顾一下这次 Gitcoin 捐赠中的，23 个 ZK 生态项目。\n\n\n1.Aztec Protocol\n\n\n\n\n\n\n \n该赠款旨在资助开发 Dune 仪表板以跟踪 Aztec 上的链上活动。\n\n\n捐款链接\n\n\n2.OtterCash\n\n\n\n\n\nOtterCash 正在 Solana 上构建开源的、便宜的零知识开发工具。\n\n\n捐款链接\n\n\n3.cabalxyz\n\n\n\n\n\n\nCabalxyz 是一个 Discord 的机器人，它允许服务器所有者使用 ETH 身份（即 NFT 所有权）控制对频道的访问，同时允许用户维护他们的隐私。\n\n\n捐款链接\n\n\n4.Circify\n\n\n\n\n \n\n\nCircify 是一个编译器构建工具包，可以轻松构建从高级、有状态语言（如 C）到电路（和其他类似约束的表示）的编译器。\n\n\n捐款链接\n\n\n5.Iden3\n\n\n\n\n\n\nIdenthree 正在寻求资助 Circom，这是一种电路编程语言和编译器，允许程序员为 ZK 证明设计和创建自己的算术电路。\n\n\n赠款链接\n\n\n6.ZKHack\n\n\n\n\n\n\nZK HACK 是一个在线系列活动和专注于 ZK 的社区！通过入门研讨会和高级解谜比赛、学习小组和视频系列，ZK Hack 旨在教参与者如何使用 ZK 工具。\n\n\n捐款链接\n\n\n7.Sin7Y\n\n\n\n\n\n\nSin7Y 是一个小型项目孵化器和区块链技术研究团队。Sin7Y 由顶尖的区块链开发人员提供支持，分析最前沿的技术，包括 ZK-EVM、Layer2、跨链、隐私计算、自主支付解决方案等。他们每…",
-          "link": "https://www.theblockbeats.info/news/30878",
-          "publishedOn": "2022-06-14T03:53:53.000Z",
-          "wordCount": null,
-          "title": "Gitcoin第14轮值得关注的23个ZK项目",
           "imageUrl": null
         }
       ]
