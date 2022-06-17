@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-17T12:15:26.980Z</updated>
+    <updated>2022-06-17T18:09:42.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[流动性危机突现，BlockFi也将面临暴雷风险？]]></title>
+        <id>https://www.theblockbeats.info/news/30927</id>
+        <link href="https://www.theblockbeats.info/news/30927"/>
+        <updated>2022-06-17T14:18:19.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Celsius 和三箭之后，BlockFi 也已处于暴雷前夜》
+原文作者： Otteroooo
+原文编译：
+
+Azuma ，Odaily 星球日报 
+
+
+今日早间，加密货币分析师 Otteroooo 于个人推特发布了一篇关于 CeFi（中心化金融服务机构）巨头 BlockFi 资金状况的详尽调查，得出结论称 BlockFi 很有可能也将陷入流动性危机，原因是该平台已在 Celsius、三箭资本、SEC 罚款等一连串事件中损失巨额资金。
+
+
+
+
+
+
+以下为 Otteroooo 的调查详情，由 Odaily 星球日报编译。
+
+
+调查结论：
+
+
+BlockFi 将在 2022 年底遭遇流动性危机。（90% 确定）
+BlockFi 在 2022 年间已经损失巨额资金。（101% 确定）
+
+
+全文共有五个部分：
+
+
+Celsius 的连带影响；
+三箭资本的崩盘；
+BlockFi 的错误押注；
+SEC 的罚款；
+BlockFi 的应对策略。
+
+
+Part 1：Celsius 的连带影响
+
+
+在 Celsius 出现了流动性问题甚至面临重组之后，其他 CeFi 平台的用户也受到惊吓，恐慌情绪驱使下，大量用户宁可放弃收益也要尽快从中心化平台中赎回自己的资产。
+
+
+仅在今天一天，我们就看到了 2000 BTC 和 5000 ETH 流出 BlockFi 钱包。
+
+
+注意，这仅仅是一天的流出。
+
+
+
+
+
+
+想想我之前曾说过的，流动性危机将会是一场反向的懦夫游戏（指在平台陷入信任危机之时，最先退出的用户反而能保住收益，最信任平台的用户往往却会丢失资产），用户应该想清楚自己现在该做什么。
+
+
+而对于 BlockFi 来说，这却是他们即将面临的最大挑战。
+
+
+Part2：三箭资本的崩盘
+
+
+三箭资本是加密货币领域规模最大的对冲基金之一，该平台却在几天之内陷入了存亡危机之中。三箭的联合创始…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 中的游戏治理（二）: 6 种治理模型介绍]]></title>
         <id>https://www.theblockbeats.info/news/30926</id>
@@ -766,176 +835,6 @@ Bitcoin super cycle
 
 
 我并不是 super cycle 的拥趸。因为如果这样的话——把它…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三箭资本发生了什么？（传言汇总）]]></title>
-        <id>https://www.theblockbeats.info/news/30886</id>
-        <link href="https://www.theblockbeats.info/news/30886"/>
-        <updated>2022-06-15T04:45:50.000Z</updated>
-        <summary type="html"><![CDATA[每轮牛熊转换，都会有一些曾经为人熟知的机构、资本、项目离开视线，当市场规模越来越大，更替来的也愈加猛烈，我们看到了市值前五的 LUNA 一夜归零，看到美国最大借贷平台 Celsius 不得不暂停提款，而从昨天开始，市场上传言在一级与二级市场颇为活跃的三箭资本也发生了流动性危机。今早三箭创始人 Su Zhu 在社交媒体的发言似乎也在印证传言，Su Zhu 表示「我们正在与有关方面进行沟通，并致力于将问题解决。」
-
-
-关于三箭资本究竟发生了什么，最终还要等官方确认，但我们可以通过一些 KOL 的分析和信息，对三箭状况有个大致轮廓。综合几个 KOL 的信息，这场危机除了各种山寨暴跌导致资产下降和在一些平台的交易亏损外，主要分两部分：GBTC 和 stETH。
-
-
-GBTC 
-
-
-
-根据公开资料，截至 2020 年年底，三箭资本是灰度 GBTC 的最大持仓者，持有 5.6168% 的 GBTC 份额，当时市值约为 12.4 亿美元。
-
-
-众所周知，GBTC 不能赎回，只能二级市场卖，如果三箭要补 Margin call 只能在二级抛售 GBTC。
-
-
-
-
-
-比比特币下跌更严重的是，三箭资本似乎利用杠杆购买比特币。据加密交易员 degentrading 在其社交网站披露，三箭资本与多个主流借贷平台（如 BlockFi、Genesis、Nexo 和 Celsius 等）均有借贷头寸。因此三箭资本如被清算，波及面将会极其广泛。
-
-
-stETH
-
-
-
-stETH 最近的问题主要来源于借贷平台鼓励循环借贷，三箭资本似乎就在循环借贷上杠杆，而市场下跌也让三箭不得不抛售。
-
-
-据交易员 MoonOverload 在社交网站总结，人们认为 Celsius 是最大的 stETH 倾销者，但事实并非如此：最大抛售来自是自三箭资本。两个机构的卖出时机不同，Celsius 大部分的抛售在一周前，三箭则卖在近两天。链上数据显示，三箭正通过其拥有的每个账户和种子轮投资地址抛售 stETH。
-
-
-MoonOverload 认为这些抛售大多看起来像是要偿还他们的债务和借款。
-
-
-
-
-
-Luna
-
-
-很多观点认为 LUNA 的崩盘也是三箭遭遇问题的重要原因，Terra 研究论坛成员 FatMan 表示，三箭资本曾以 5.596 亿美元的价格购买了 1090 万枚 LUNA，现在价值 670.45 美元。
-
-
-
-
-
-不过，也有观点表示三箭在 LUNA 上并未亏钱。LUNA 对三箭资本的影响无法确认。
-
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过思维的数字化来解决人际交流障碍的区块链网络]]></title>
-        <id>https://www.theblockbeats.info/news/30885</id>
-        <link href="https://www.theblockbeats.info/news/30885"/>
-        <updated>2022-06-15T04:31:50.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Blockchain network enables digitizing the mind to eliminate bottlenecks in human communication》
-原文作者：SARAH JANSEN
-原文来源：COINTELEGRAPH
-原文编译：Tau 中国社区
-
-
-
-如果不采用人工智能，在大规模人群中开展的人际交流会让知识传播产生延迟。
- 
-人际间的讨论是一个极为重要的社交活动。在讨论过程中可交流思想和知识，继而产生新的发现。目前，在 20 人以上的团体中开展的讨论，其效率之低是难以承受的水平。这是因为，由于人脑的信息接受量与处理能力有限，参与讨论的人数越多，各个参与者所能正确处理的信息量将越发减少。在此概念上进一步发展，我们认为目前的软件升级方式往往无法通过直接汇总各终端用户的意见来从用户的角度设计出最佳的功能。而去中心化社交平台 Tau 可通过将人的思维进行数字化来解决此问题。
- 
-Tau 的目标是通过提高知识创造的效率，并利用知识解决当今世界所面临的复杂问题，从而使我们的社会更加完善。Tau 团队认为，如果数十亿人可以同时进行高效的讨论，社会的发展将得到大幅度的加速。例如，如果使用适当的工具，几千位科学家可高效率的讨论癌症的潜在疗法，以创纪录的速度发现最佳方案。
- 
-
-
-思维的数字化
-
-
-在一个更高效的交流模式中，通过让网络能理解各个用户的意见，用户作为一个整体可自行对该网络的设计进行定义。作为此结果，该网络能汇总由各个用户直接输入的意见而自动化的进行升级。
- 
-Tau 是世界上首个能达成此功能的，基于区块链的去中心化社交网络。在 Tau 上，可汇总各个用户的想法、建议和知识，并实时的升级自身代码。无论用户数量达到任何规模，都能让所有用户共同决定 Tau 应该实现什么功能、以及 Tau 应该如何进化。
- 
-在 Tau 上，将…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAO规模化时，如何处理看似「无聊」的现实问题？]]></title>
-        <id>https://www.theblockbeats.info/news/30884</id>
-        <link href="https://www.theblockbeats.info/news/30884"/>
-        <updated>2022-06-15T03:05:50.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《It’s time for DAOs to get a little more boring》  
-原文作者:   Samantha
-原文编译：wonder @DAOrayaki.org，DoraFactory
-
-
-
-
-
-
-
-
-
-DAO 一直以来的代名词是自由、权利下放、无边界.... 似乎一切那么符合人性。但为了获得更广泛的应用，DAO 需要变得无聊。
-
-
-
-
-
-无聊不是一个贬义词，而是面对人性时的自律和束缚。
-
-
-
-
-对于 DAO 的发展，它需要变得非常非常无聊，如同 HR 部门那样的无聊。DAO 的贡献者们能忍受多少波动、不确定性，或是兴奋的事物？
-
-
-
-
-和 DAOrayaki 社区一起来理解下什么是 DAO 的无聊：
-
-
-
-
-DAO 需要深入思考工作的方方面面，正在如今大多数 DAO 建设者眼中是很无聊的事情，但实际上却对吸引来自各行各业的更多不同的贡献者至关重要的。
-
-
-
-
-这其中包括责任、税收、健康保险、带薪休假、育儿假。
-
-
-
-
-例如，美国公民并不能通过政府获得健康保险。因此，如果美国的贡献者要成为全职投入 DAO，他们将不得不就如何获得医保做出一些艰难的决定。对于患有慢性病的人，甚至只是戴眼镜的人，医保都是必不可少的。我相信医保问题是阻碍许多美国贡献者踏出这一步的原因。
-
-
-
-
-但是还有很多其他因素阻碍了贡献者们付诸行动——责任、休假、税收和退休计划的不确定性等因素都让贡献者们加入 DAO 变得更加困难。
-
-
-
-
-为了给贡献者们提供其中一些好处，DAO 需要一个法律包装。当然，这听起来很可怕。但是，DAO 可以从小处着手——也许可以通过引入休息日政策，或者就如何处理育儿假达成协议。
-
-
-
-
-
-
-
-a16z 为 DAO 提出的「法律包装」框架一开始可能看起来很吓人....，这就是为什么 DAO 应该从小处着手，先处理他们可以处理的事情。
-
-
-
-
-…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
