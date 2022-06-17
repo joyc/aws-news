@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30922",
+          "author": null,
+          "description": "原文标题：《Concensus 参会+熊市感想》\n原文作者：高小猫\n\n\n\n这几天去 Austin 参加了 coindesk 办的 concensus 大会，正好这几天大跌，两件事情给我个人的感触都挺多的，就想写篇文章，依次聊聊这两件事情。\n\n\nConcensus 大会\n\n\n\nConcensus 因为疫情的原因，过去两年都是在线上举办，今年因为疫情再也不是个事儿了，终于重新改成了线下举办。\n\n\n总体来说这个会要比 ethglobal 的系列会，比如 ethdenver 等等会议更加偏 business，比较注重综合性，内容也对新手比较友好，比较硬核的内容不多。\n\n\n写到这里想顺便提一下我了解的各大 crypto 会议的异同。\n\n\n如果是开发者，想要进入 web3 世界学习，我会比较推荐去 ethdenver，或者其它的 ethglobal 办的线上或者线下的会议，比如 eth amsterdam，eth cc paris，eth new york 等等。这些会议开发者气氛很浓厚，也有对应的 hackathon 活动。\n\n\n如果是 bitcoin 爱好者，可以去每年的 bitcoin miami 大会。\n\n\npermissionless 听说比较 focus 在 defi 这个细分领域，我还没去过不太清楚。\n\n\nconcensus 偏商业，比较适合一个团队已经有了成熟的产品了，来这里找一些 to b 的客户进一步打开市场，或者寻找一些合作伙伴。展台偏贵（据说十几万美金），不是很平民化。\n\n\n听说 solana 的活动开发者氛围也非常好，不过 solana 背后的 vc 氛围太浓厚了，散户了解了也赚不到钱，还是算了。\n\n\n\n\n这里随便聊几个我还记得有印象的。\n\n\n一： fireblocks\n\n\n\nfireblocks，是一家做钱包托管的业务。他们发展很快，已经从一年前的几十个人发…",
+          "link": "https://www.theblockbeats.info/news/30922",
+          "publishedOn": "2022-06-17T03:41:50.000Z",
+          "wordCount": null,
+          "title": "Concensus2022参会随笔，与熊市感想",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30921",
+          "author": null,
+          "description": "近期关于 stETH 的脱锚问题，引发市场关注。前有 LUNA 与 UST 为鉴，加之市场动荡，大家对 stETH 的脱锚恐慌愈发强烈。为了梳理 stETH 问题的核心，欧易 OKX 平台与 BlockBeats 请到了 dForce 创始人 Yang Mindao、ResearchDAO 研究员 Scott、零 X 干货铺成员 Gene、欧易 OKX 赚币业务板块的 Steven，尝试为大家理清 stETH 的风险与机会。\n\n\nBlockBeats：先请 4 位嘉宾做简单的自我介绍。\n\n\nMinDao：我是 DeForce 的创始人，我们主要是在 DeFi 领域做包括稳定币，还有借贷等。我们也在 Staking 介入做抵押，今天非常高兴能过来跟大家分享一下我们对于这个事件的一些观察。\n\n\nScott： Hello 大家好，非常感谢 OKX 邀请我来到今晚的 Space，我是 ResearchDao 的研究员，今年金融硕士应届生。其实我 16 年就开始研究比特币了，之前也一直在传统金融研究所实习，后面发现自己还是更喜欢 Crypto，所以就决定毕业之后要继续当这个行业的研究员。很高兴今晚我们跟大家一起探讨 stETH 的话题。\n\n\nGene：Hello，谢谢邀请，我是 Gene，零 X 干货铺的早期成员，现在也在一家机构负责电商的资管。我在进入行业之前是一直是在美国做律师，算是有一些跨界，但是一直有深入的去实践，现在这次刚好 stETH 跟我们也有一些业务上的相关，非常荣幸有机会今天跟大家一起讨论，谢谢。\n\n\nSteven：谢谢主持人，大家好，我是 Steven，然后负责欧易 OKX 的金融服务板块，主要是在交易平台里面给大家提供一些基于币本位金融服务，或者说币本位的这种理财服务。\n\n\nBlockBeats：好的，我们正式开始。关于 stETH，以太坊 2.0 流动性质押协…",
+          "link": "https://www.theblockbeats.info/news/30921",
+          "publishedOn": "2022-06-17T03:31:50.000Z",
+          "wordCount": null,
+          "title": "stETH的风险与机会-欧易&BlockBeats AMA实录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30899",
+          "author": null,
+          "description": "原文标题：《A series on different models of Game Governance》\n原文作者：taetaehoho.eth @1kx network\n原文编译：比得潘 @BlockBeats \n\n\n这是关于游戏中使用不同治理模型的一个系列分析，在讨论不同模型之前，我想先谈谈：\n\n\n1）什么是游戏治理？\n2）Web3 游戏中治理流程的必要性，以及利与弊\n3）未来 Web3 中可能存在的游戏治理系统\n\n\n\n\n\n什么是游戏治理？\n\n\n\n游戏治理是游戏的利益相关者参与其演变的一个过程。\n\n\n它可以采用像通过公共论坛提供有机反馈一样的间接形式，然后由开发工作室进行迭代；也可以使用像对通过社区讨论产生的内容提案进行投票一样的直接方式。不过，这两种方法目前都有被使用过。\n\n\n\n原视频链接\n\n\n此外，它还既可以做到像对单个内容更新的投票一样精细，也可以像控制生态系统中的参数一样从内容本身抽象出来，如原生 DEX 上的 bps 交易费、p2e 机制等。\n\n游戏治理过程可视化\n\n\n这个过程发生的结构在多个游戏中是不同的，在「Aggregation games」中可以：\n\n\n- 通过公共论坛等有机来源抓取对游戏各个阶段更新的回复；\n- 创建一个代表玩家利益的委员会，为其汇总玩家反馈；\n- 要求玩家自己创建提案。\n\n\n而在「Filtering games」中则可以选择：\n\n\n- 所有信息过滤都发生在工作室内，无需玩家输入；\n- 可根据来源对提案给予额外的权重；\n- 所有通过投票的提案都将必须执行。\n\n\nWeb3 中的游戏治理\n\n\n\n留存\n\n\n游戏治理提高了留存率。\n\n\n随着 GaaS（Game as a Service）的流行，游戏继续提供满足消费者需求的体验变得很重要。因此，这导致了专门用于收集和汇总玩家反馈的方法和人力的增加，正如我们将会看到，许多游戏治理机制的出现是…",
+          "link": "https://www.theblockbeats.info/news/30899",
+          "publishedOn": "2022-06-17T03:31:50.000Z",
+          "wordCount": null,
+          "title": "Web3 中的游戏治理（一）: 什么是游戏治理及利与弊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30919",
+          "author": null,
+          "description": "原文标题：《\n\n 解读传统四类游戏玩家类型，Web3 游戏可以从中学到什么？\n\n》\n原文作者：Sensei.p2e\n原文编译：TechFlow intern\n\n\nGamefi 依然是 Web3 大海中恶魔果实，其破圈和吸金能力也许能够为下一轮牛市掀开新的篇章，但其缺点也显而易见。这篇文章主要描述了传统游戏公司是怎么样分类和吸引他们的玩家，以及 Web3 游戏又带来了什么新类型，我们能够从传统游戏中学到什么。\n\n\n1996 年，游戏先驱之一的 Richard Bartle 根据游戏玩家的心理将他们分为四类，这些类别是什么？为什么它们在 Web3 游戏开发中很重要？这是一篇适用于游戏玩家和游戏开发者的文章。\n\n\n心理学是研究心灵以及它如何影响一个人行为的学科。在电子游戏中，这转化为玩家在游戏环境中的思考和互动方式。一些游戏玩家的竞技能力很强，而另一些则没有，他们只想着登录游戏去与朋友交流。\n\n\n了解这些不同类型的游戏玩家，将有助于开发人员围绕他们想要吸引的特定游戏玩家类型来构建他们的游戏设计、经济和机制。\n\n\n因此，1996 年，Richard Bartle 创建了「Bartle 游戏玩家分类法」\n\n\n他根据玩家在游戏中的行为以及他们更愿意与谁/什么互动，将玩家分为 4 组。玩家是否更关注游戏世界或其他玩家？玩家是否更关心剧情或互动？\n\n\nErwin. A 和 Brandon. D 然后创建了一系列问题和一个评分公式，根据 Bartle 的模型将玩家又分为这四组：\n\n\n1、The Achievers\n2、The explorers\n3、The socializers\n4、The killers\n\n\n\n\n\n1、The Achievers\n\n\n这类玩家致力于完成和收集常人难以达到的游戏数据、记录和物品。克服挑战并积累奖励是他们的主要目标，这类玩家自己设定目标，并推动自己实现这些目标…",
+          "link": "https://www.theblockbeats.info/news/30919",
+          "publishedOn": "2022-06-17T02:31:50.000Z",
+          "wordCount": null,
+          "title": "从传统游戏玩家类别，探讨Web3游戏玩家行为模式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30900",
           "author": null,
           "description": "原文标题：《创业狂人的雷曼时刻，加密独角兽 Celsius 危机始末》\n原文作者： 0xergou，深潮 TechFlow\n\n\n「Celsius Network 的用户数量是所有 DeFi 总和的两倍……那是因为我们将 80% 回馈给我们的社区，而 Maker 和其他项目则将 50% 留给自己。」\n \n2019 年，加密借贷平台 Celsius 创始人 Alex Mashinsky 在推特上如此炫耀，引发 DeFi 爱好者的回击，有人反驳道，「DeFi 协议让我们完全控制自己的钱，然而在你们倒闭的那一刻，我们没有办法拿回我们的资金……」\n \n知名数据网站 DeFiPrime 选择直接下架 Celsius Network。\n \n「我们将 Celsius Network 下架。不透明的公司，疯狂的 CEO，这是强烈的危险信号，所以我们不再推荐这个产品了。」AAVE 创始人 Stani 趁势表态，「应该将所有 CeFi 从 DeFi Prime 下架」。\n \n\n \n近 3 年后，已成长为加密独角兽的 Celsius Network 却突然发布公告：暂停平台一切提现、交易和转账。\n \n对于大多数华人而言，Celsius Network 或许稍显陌生，但是创始人以及公司的故事具有传奇故事所要求的几乎所有要素：\n \n一名乌克兰人揣着 100 美元来到美国变身创业狂人，创立 8 家公司，打造出 3 家独角兽企业；做 VC，募资 10 亿美元，退出超 30 亿美元，IRR 54% ；Celsius 两次因被盗损失资产；前 CFO Moshe Hegog 被逮捕；色情明星从事高管……\n \n如今，伴随大规模资金挤兑，暂停提现，资产规模一度高达 300 亿美元的 Celsius Network 来到了「雷曼时刻」。危机从何而来？这次，创业狂人 Mashinsky 能否再次力挽狂澜？\n\n\n\n\n狂人…",
@@ -113,16 +153,6 @@
           "publishedOn": "2022-06-15T03:05:50.000Z",
           "wordCount": null,
           "title": "DAO规模化时，如何处理看似「无聊」的现实问题？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30883",
-          "author": null,
-          "description": "原文标题：《当 DAO 快速发展时，容易面临哪些问题？》\n原文作者：Marina，W3.Hitchhiker；修订：Evelyn，\n\nW3.Hitchhiker\n\n\n\n6 月，DAO 的管理平台 Dework 完成了 500 万美元的种子轮融资，由著名加密投资机构 Paradigm 和 Pace Capital 领投；DAO 的薪酬支付系统 Utopia 获得了一笔由 Paradigm 领投的 2300 万美元的 A 轮融资；DAO 运营平台 CharmVerse 完成 380 万美元种子轮融资，Spartan Group 等参投... ...\n\n\nDAO 就这样在我们的视野里不断的斩获越来越「巨额」的融资，甚至 Polychain 的创始人 Olaf Carlson-Wee 也公开对 DAO 表示赞扬：他认为 DAO 募资的金额规模已超过传统 IPO，同时在 2022 年的募资金额也将会超过 1 万亿美元。\n\n\n同时，市场上也出现了很多关于 DAO 的激烈讨论。比如 DAO 是否可以取代传统的公司去运营？DAO 将会有很大的概率超过加密投资 VC？DAO 作为一种新型的社会分工合作方式是如何吸引更多优质人员加入的？\n\n\n不管怎样，DAO 的时代正在到来，没有人可以阻挡。特别是在现在的市场环境下，没有太多新的热点，除了偶尔爆火的几个 NFT 项目，DAO 开始被被无数人寄予厚望——DAO 开始细分化，面对不同的场景产生了各类形形色色的 DAO。如果我们将视野放在一个具体的 DAO 时，我们会有这样的疑问：当 DAO 有越来越多的新人加入时，且业务拓展的速度跟不上人员的加入时，是否会产生诸多问题？\n\n\n本文将尝试去探讨 DAO 在快速发展中常见的困境和解决方案，仅供交流，不做投资建议。\n\n\n\n  1、DAO 的贡献者  \n\n\n\n不管是什么组织，其最核心的，同时也是最基础的部分…",
-          "link": "https://www.theblockbeats.info/news/30883",
-          "publishedOn": "2022-06-14T14:15:52.000Z",
-          "wordCount": null,
-          "title": "当DAO快速发展时，容易面临哪些问题？",
           "imageUrl": null
         }
       ]
