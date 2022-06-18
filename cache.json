@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30929",
+          "author": null,
+          "description": "原文标题：《Foresight Ventures: 打破「围墙花园」，Web 3.0 重塑社交范式》\n原文作者：Alice@Foresight Ventures，Foresight Research\n\n\n文章摘要\n\n\nWeb3 社交需要更多 Crypto-native 的创新玩法，而非 Web2 Copycat。社交范式的变革将是一场以「平台为中心」到「用户为中心」的社交文艺复兴，新叙事包括五个关键主题：社交图谱、去中心化身份、隐私保护、可组合性、Token 化，我们仍处于社交范式变革的早期。\n\n\n社交赛道从下至上可划分成四个 Layers：数据层，协议层，隐私层和应用层。其中协议层最为核心。协议层长期看好能持续吸引用户产生新的关系、身份、荣誉的社交协议和基础数据网络。应用层看好能形成可持续 tokenomics 的社交应用。此外，灵魂绑定\n\nToken\n\n（SBT）形成的社交关系或许可以兼顾可组合性与弱金融属性，将链上社交\n\nToken\n\n的核心价值回归到关系证明本身，成为真正有效的社交凭证。\n\n\nWeb3 去中心化的社交网络应当是什么样的？\n\n\n如今很多 Web3 社交产品仍旧沿用 Web2 商业模式, 但这样的单打独斗很难。我们需要的不是诸如 Web 3 Twitter，Web 3 Facebook 之类的 copycat，而是更多 native 的创新玩法。\n\n\n\n\n\n漫谈 Web3 社交范式变革\n\n\nWeb2 每个人都生活在社交巨头们铸造的「围墙花园」中，用户待在「围墙花园」里的时间越长，「围墙」缔造者就对他们越了解，但一旦去到另一座花园我们必须舍弃所有的社交关系和数据，净身出户。在 Web3 塑造一个更加公正、自由、平等的互联网环境将成为可能。\n\n\n正如欧洲文艺复兴带来了从「神」到「人」的人文主义思潮变革，Web2 社交到 Web3 社交的演化，也将是一场轰轰烈…",
+          "link": "https://www.theblockbeats.info/news/30929",
+          "publishedOn": "2022-06-18T03:02:09.000Z",
+          "wordCount": null,
+          "title": "打破「围墙花园」，Web3.0重塑社交范式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30928",
+          "author": null,
+          "description": "原文标题：《The Hitchhiker's Guide to Ethereum》  \n原文作者:   Jon Charbonneau\n原文编译：xinyang@DAOrayaki.org， DoraFactory\n\n\n\n\n\n核心要点：\n\n\n以太坊是唯一一个主要协议，意在建立可扩展的统一的结算和数据可用性层\n在利用以太坊的安全性的同时，rollup 扩大了计算量\n所有的道路都通向中心化区块生产、去中心化的无需信任区块验证和抗审查这一终局。\n诸如发起者—建设者分离和弱无状态等创新，带来了权力分离（建设和验证），可以在实现可扩展性的同时，不牺牲安全性或去中心化目标\nMEV 现在是前沿和中心——许多设计都是为了减轻其危害和防止其中心化倾向而计划的\nDanksharding 结合了前沿研究的多种途径，为以太坊以 rollup 为中心的路线图提供所需的可扩展基础层\n我确实期待 Danksharding 在我们的有生之年得到实施\n\n\n\n\n\n\n\n目录\n\n\n第 1 部分 通往 Danksharding 之路\n\n\n原始的数据分片设计——独立分片提议\n数据可用性抽样（DAS）\nKZG 承诺（KZG Commitment）\nKZG 承诺 vs. 欺诈证明\n协议内的发起者和建设者分离\n审查抵抗列表（Censorship Resistance List, crList）\n2D KZG 策略\nDanksharding\nDanksharding——诚实多数验证\nDanksharding——重建\nDanksharding——私人随机抽样的恶意多数安全\nDanksharding——关键总结\nDanksharding——在区块链扩展上的制约\n原生的 danksharding（EIP-4844）\n多维度的 EIP-1559\n\n\n第 2 部分 历史和状态管理\n\n\nCalldata gas 成本缩减及 callda…",
+          "link": "https://www.theblockbeats.info/news/30928",
+          "publishedOn": "2022-06-18T01:02:09.000Z",
+          "wordCount": null,
+          "title": "Delphi Digital：行业最全以太坊进阶指南",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30927",
           "author": null,
           "description": "原文标题：《Celsius 和三箭之后，BlockFi 也已处于暴雷前夜》\n原文作者： Otteroooo\n原文编译：\n\nAzuma ，Odaily 星球日报 \n\n\n今日早间，加密货币分析师 Otteroooo 于个人推特发布了一篇关于 CeFi（中心化金融服务机构）巨头 BlockFi 资金状况的详尽调查，得出结论称 BlockFi 很有可能也将陷入流动性危机，原因是该平台已在 Celsius、三箭资本、SEC 罚款等一连串事件中损失巨额资金。\n\n\n\n\n\n\n以下为 Otteroooo 的调查详情，由 Odaily 星球日报编译。\n\n\n调查结论：\n\n\nBlockFi 将在 2022 年底遭遇流动性危机。（90% 确定）\nBlockFi 在 2022 年间已经损失巨额资金。（101% 确定）\n\n\n全文共有五个部分：\n\n\nCelsius 的连带影响；\n三箭资本的崩盘；\nBlockFi 的错误押注；\nSEC 的罚款；\nBlockFi 的应对策略。\n\n\nPart 1：Celsius 的连带影响\n\n\n在 Celsius 出现了流动性问题甚至面临重组之后，其他 CeFi 平台的用户也受到惊吓，恐慌情绪驱使下，大量用户宁可放弃收益也要尽快从中心化平台中赎回自己的资产。\n\n\n仅在今天一天，我们就看到了 2000 BTC 和 5000 ETH 流出 BlockFi 钱包。\n\n\n注意，这仅仅是一天的流出。\n\n\n\n\n\n\n想想我之前曾说过的，流动性危机将会是一场反向的懦夫游戏（指在平台陷入信任危机之时，最先退出的用户反而能保住收益，最信任平台的用户往往却会丢失资产），用户应该想清楚自己现在该做什么。\n\n\n而对于 BlockFi 来说，这却是他们即将面临的最大挑战。\n\n\nPart2：三箭资本的崩盘\n\n\n三箭资本是加密货币领域规模最大的对冲基金之一，该平台却在几天之内陷入了存亡危机之中。三箭的联合创始…",
@@ -123,16 +143,6 @@
           "publishedOn": "2022-06-16T03:42:51.000Z",
           "wordCount": null,
           "title": "称被三箭挪用百万资金客户：三箭把每个人都拉下水",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30889",
-          "author": null,
-          "description": "原文标题：《万字长文详解 YC 孵化器是如何做到 6000 亿美元总价值的！》\n原文来源：readthegeneralist\n原文作者：Mario Gabriele\n本文来自微信公众号：老雅痞\n\n\n可行的见解\n\n\n如果你只有几分钟的时间，以下是投资者、经营者和创始人应该了解的 Y Combinator 的情况。\n\n\n全栈式风险投资：YC 最有名的是为初创公司创始人提供三个月的创业指导。这种思维模式已经过时了。由保罗-格雷厄姆（Paul Graham）创立的这个组织现在提供从初创到上市前的各种需求。\n\n\n网络效应：YC 是一家具有网络效应的风险投资公司。通过将其投资组合分成若干组，并通过「Bookface「等内部工具将它们连接起来，它已经创建了一个结构，随着规模的扩大而变得更加强大。\n\n\n定价能力：随着风险资本的竞争越来越激烈，创业公司的估值也随之上升。在 YC 却不是这样。该孵化器设法以著名的压低估值来投资初创企业，在过去的十年中，相对于市场而言，这种做法已经相当普及。\n\n\n多样性的问题：与行业基准相比，YC 投资于更多的女性、黑人和拉丁裔创办的企业。而且其数字近年来有增无减。许多人认为 YC 可以做得更多，以增加边缘群体创始人的数量。\n\n\n布局全球：在最新一批 YC 孵化器的创业公司中，只有 49% 的项目来自美国。随着 YC 在美国给创业者提供更多的种子前基金和种子基金，YC 已经成功吸引了来自印度、墨西哥和尼日利亚等国家的有前途的企业家。但只有中国它还没有布局。\n\n\nY Combinator 比风险投资领域的任何其他参与者拥有更多的武器。没有哪个投资公司拥有如此明显的网络效应、定价权和品牌资产（YC 全部拥有这些特质）。也许这是因为 YC 并不是一家真正意义上的风险投资公司吧，至少不是一家传统的风险投资公司。根据你解析它的角度，你可以说它是下面这五种东西中的任何一种：…",
-          "link": "https://www.theblockbeats.info/news/30889",
-          "publishedOn": "2022-06-15T14:48:39.000Z",
-          "wordCount": null,
-          "title": "6000亿美元总价值，YC孵化器的缘起和演变",
           "imageUrl": null
         }
       ]
