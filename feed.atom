@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-19T12:13:05.012Z</updated>
+    <updated>2022-06-19T18:09:13.348Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第七讲：控制流，用Solidity实现插入排序]]></title>
+        <id>https://www.theblockbeats.info/news/30951</id>
+        <link href="https://www.theblockbeats.info/news/30951"/>
+        <updated>2022-06-19T12:06:50.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 7. 控制流，用 solidity 实现插入排序》
+原文作者：0xAA
+
+
+
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+
+
+
+所有代码开源在 github ：github.com/AmazingAng/WTFSolidity
+
+
+这一讲，我们将介绍 solidity 中的控制流，然后讲如何用 solidity 实现插入排序（InsertionSort），一个看起来简单，但实际上很容易写出 bug 的程序。
+
+
+控制流
+
+
+Solidity 的控制流与其他语言类似，主要包含以下几种：
+
+
+if-else
+
+
+
+
+
+for 循环
+
+
+
+
+
+while 循环
+
+
+
+
+
+do-while 循环
+
+
+
+
+
+三元运算符
+
+
+三元运算符是 solidity 中唯一一个接受三个操作数的运算符，规则 条件? 条件为真的表达式:条件为假的表达式。此运算符经常用作 if 语句的快捷方式。
+
+
+
+
+
+另外还有 continue（立即进入下一个循环）和 break（跳出当前循环）关键字可以使用。
+
+
+用 solidity 实现插入排序
+
+
+写在前面：90% 以上的人用 solidity 写插入算法都会出错。
+
+
+插入排序
+
+
+排序算法解决的问题是将无序的一组数字，例如 [2, 5, 3, 1]，从小到大一次排列好。插入排序（InsertionSort）是最简单的一种排序算法，也是很多人学习的第一个算法。它的思路很简答，从前往后，依次将每一个数和排在他前面的数字比大小，如果比前面的数字小，就互换位置。示意图：
+
+
+
+
+插入排序 
+
+
+python 代码
+
+
+我们可以先看一下插入排序的 python 代码：
+
+
+
+
+
+改写成 solidity 后有 BUG！
+
+
+一共 8 行 python 代码就可以完成插入排序，非常简单。那么我们将它改写成 solidity 代码，将函数，变量，循环等等都做了相应的转换，只需要 9 行代码：
+
+
+
+
+
+那我们把改好的放到 remix 上去跑，输入 [2, 5, 3, 1]。BOOM！有 bug！改了半天，没找到 bug 在哪。我又去 google 搜」solidity insertion sort」，然后发现网上用 solidity 写的插入算法教程都是错的，比如：Sorting in Solidity without Comparison
+
+
+
+正确的 solidity 插入排序
+
+
+花了几个小时，在 Dapp-Learning 社群一个朋友的帮助下，终于找到了 bug 所在。solidity 中最常用的变量类型是 uint，也就是正整数，取到负值的话，会报 underflow 错误。而在插入算法中，变量 j 有可能会取到-1，引起报错。
+
+
+这里，我们需要把 j 加 1，让它无法取到负值。正确代码：
+
+
+
+
+
+运行后的结果：
+
+
+
+
+
+总结
+
+
+这一讲，我们介绍了 solidity 中控制流，并且用 solidity 写了插入排序。看起来很简单，但实际很难。这就是 solidity，坑很多，每个月都有项目因为这些小 bug 损失几千万甚至上亿美元。掌握好基础，不断练习，才能写出更好的 solidity 代码。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity极简入门｜第六讲：映射类型 mapping]]></title>
         <id>https://www.theblockbeats.info/news/30950</id>
@@ -425,212 +561,6 @@ Halborn 的安全研究人员披露了一个实例，在某种情况下，可以
 1、我们测试过的所有桌面操作系统以及浏览器；
 2、我们使用 Google Chrome、Chromium 和 Firefox 浏览器在 Windows、macOS 和 Linux 上进行了测试；
 3…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concensus2022参会随笔，与熊市感想]]></title>
-        <id>https://www.theblockbeats.info/news/30922</id>
-        <link href="https://www.theblockbeats.info/news/30922"/>
-        <updated>2022-06-17T03:41:50.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Concensus 参会+熊市感想》
-原文作者：高小猫
-
-
-
-这几天去 Austin 参加了 coindesk 办的 concensus 大会，正好这几天大跌，两件事情给我个人的感触都挺多的，就想写篇文章，依次聊聊这两件事情。
-
-
-Concensus 大会
-
-
-
-Concensus 因为疫情的原因，过去两年都是在线上举办，今年因为疫情再也不是个事儿了，终于重新改成了线下举办。
-
-
-总体来说这个会要比 ethglobal 的系列会，比如 ethdenver 等等会议更加偏 business，比较注重综合性，内容也对新手比较友好，比较硬核的内容不多。
-
-
-写到这里想顺便提一下我了解的各大 crypto 会议的异同。
-
-
-如果是开发者，想要进入 web3 世界学习，我会比较推荐去 ethdenver，或者其它的 ethglobal 办的线上或者线下的会议，比如 eth amsterdam，eth cc paris，eth new york 等等。这些会议开发者气氛很浓厚，也有对应的 hackathon 活动。
-
-
-如果是 bitcoin 爱好者，可以去每年的 bitcoin miami 大会。
-
-
-permissionless 听说比较 focus 在 defi 这个细分领域，我还没去过不太清楚。
-
-
-concensus 偏商业，比较适合一个团队已经有了成熟的产品了，来这里找一些 to b 的客户进一步打开市场，或者寻找一些合作伙伴。展台偏贵（据说十几万美金），不是很平民化。
-
-
-听说 solana 的活动开发者氛围也非常好，不过 solana 背后的 vc 氛围太浓厚了，散户了解了也赚不到钱，还是算了。
-
-
-
-
-这里随便聊几个我还记得有印象的。
-
-
-一： fireblocks
-
-
-
-fireblocks，是一家做钱包托管的业务。他们发展很快，已经从一年前的几十个人发…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stETH的风险与机会-欧易&BlockBeats AMA实录]]></title>
-        <id>https://www.theblockbeats.info/news/30921</id>
-        <link href="https://www.theblockbeats.info/news/30921"/>
-        <updated>2022-06-17T03:31:50.000Z</updated>
-        <summary type="html"><![CDATA[近期关于 stETH 的脱锚问题，引发市场关注。前有 LUNA 与 UST 为鉴，加之市场动荡，大家对 stETH 的脱锚恐慌愈发强烈。为了梳理 stETH 问题的核心，欧易 OKX 平台与 BlockBeats 请到了 dForce 创始人 Yang Mindao、ResearchDAO 研究员 Scott、零 X 干货铺成员 Gene、欧易 OKX 赚币业务板块的 Steven，尝试为大家理清 stETH 的风险与机会。
-
-
-BlockBeats：先请 4 位嘉宾做简单的自我介绍。
-
-
-MinDao：我是 DeForce 的创始人，我们主要是在 DeFi 领域做包括稳定币，还有借贷等。我们也在 Staking 介入做抵押，今天非常高兴能过来跟大家分享一下我们对于这个事件的一些观察。
-
-
-Scott： Hello 大家好，非常感谢 OKX 邀请我来到今晚的 Space，我是 ResearchDao 的研究员，今年金融硕士应届生。其实我 16 年就开始研究比特币了，之前也一直在传统金融研究所实习，后面发现自己还是更喜欢 Crypto，所以就决定毕业之后要继续当这个行业的研究员。很高兴今晚我们跟大家一起探讨 stETH 的话题。
-
-
-Gene：Hello，谢谢邀请，我是 Gene，零 X 干货铺的早期成员，现在也在一家机构负责电商的资管。我在进入行业之前是一直是在美国做律师，算是有一些跨界，但是一直有深入的去实践，现在这次刚好 stETH 跟我们也有一些业务上的相关，非常荣幸有机会今天跟大家一起讨论，谢谢。
-
-
-Steven：谢谢主持人，大家好，我是 Steven，然后负责欧易 OKX 的金融服务板块，主要是在交易平台里面给大家提供一些基于币本位金融服务，或者说币本位的这种理财服务。
-
-
-BlockBeats：好的，我们正式开始。关于 stETH，以太坊 2.0 流动性质押协…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 中的游戏治理（一）: 什么是游戏治理及利与弊]]></title>
-        <id>https://www.theblockbeats.info/news/30899</id>
-        <link href="https://www.theblockbeats.info/news/30899"/>
-        <updated>2022-06-17T03:31:50.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《A series on different models of Game Governance》
-原文作者：taetaehoho.eth @1kx network
-原文编译：比得潘 @BlockBeats 
-
-
-这是关于游戏中使用不同治理模型的一个系列分析，在讨论不同模型之前，我想先谈谈：
-
-
-1）什么是游戏治理？
-2）Web3 游戏中治理流程的必要性，以及利与弊
-3）未来 Web3 中可能存在的游戏治理系统
-
-
-
-
-
-什么是游戏治理？
-
-
-
-游戏治理是游戏的利益相关者参与其演变的一个过程。
-
-
-它可以采用像通过公共论坛提供有机反馈一样的间接形式，然后由开发工作室进行迭代；也可以使用像对通过社区讨论产生的内容提案进行投票一样的直接方式。不过，这两种方法目前都有被使用过。
-
-
-
-原视频链接
-
-
-此外，它还既可以做到像对单个内容更新的投票一样精细，也可以像控制生态系统中的参数一样从内容本身抽象出来，如原生 DEX 上的 bps 交易费、p2e 机制等。
-
-游戏治理过程可视化
-
-
-这个过程发生的结构在多个游戏中是不同的，在「Aggregation games」中可以：
-
-
-- 通过公共论坛等有机来源抓取对游戏各个阶段更新的回复；
-- 创建一个代表玩家利益的委员会，为其汇总玩家反馈；
-- 要求玩家自己创建提案。
-
-
-而在「Filtering games」中则可以选择：
-
-
-- 所有信息过滤都发生在工作室内，无需玩家输入；
-- 可根据来源对提案给予额外的权重；
-- 所有通过投票的提案都将必须执行。
-
-
-Web3 中的游戏治理
-
-
-
-留存
-
-
-游戏治理提高了留存率。
-
-
-随着 GaaS（Game as a Service）的流行，游戏继续提供满足消费者需求的体验变得很重要。因此，这导致了专门用于收集和汇总玩家反馈的方法和人力的增加，正如我们将会看到，许多游戏治理机制的出现是…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从传统游戏玩家类别，探讨Web3游戏玩家行为模式]]></title>
-        <id>https://www.theblockbeats.info/news/30919</id>
-        <link href="https://www.theblockbeats.info/news/30919"/>
-        <updated>2022-06-17T02:31:50.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
- 解读传统四类游戏玩家类型，Web3 游戏可以从中学到什么？
-
-》
-原文作者：Sensei.p2e
-原文编译：TechFlow intern
-
-
-Gamefi 依然是 Web3 大海中恶魔果实，其破圈和吸金能力也许能够为下一轮牛市掀开新的篇章，但其缺点也显而易见。这篇文章主要描述了传统游戏公司是怎么样分类和吸引他们的玩家，以及 Web3 游戏又带来了什么新类型，我们能够从传统游戏中学到什么。
-
-
-1996 年，游戏先驱之一的 Richard Bartle 根据游戏玩家的心理将他们分为四类，这些类别是什么？为什么它们在 Web3 游戏开发中很重要？这是一篇适用于游戏玩家和游戏开发者的文章。
-
-
-心理学是研究心灵以及它如何影响一个人行为的学科。在电子游戏中，这转化为玩家在游戏环境中的思考和互动方式。一些游戏玩家的竞技能力很强，而另一些则没有，他们只想着登录游戏去与朋友交流。
-
-
-了解这些不同类型的游戏玩家，将有助于开发人员围绕他们想要吸引的特定游戏玩家类型来构建他们的游戏设计、经济和机制。
-
-
-因此，1996 年，Richard Bartle 创建了「Bartle 游戏玩家分类法」
-
-
-他根据玩家在游戏中的行为以及他们更愿意与谁/什么互动，将玩家分为 4 组。玩家是否更关注游戏世界或其他玩家？玩家是否更关心剧情或互动？
-
-
-Erwin. A 和 Brandon. D 然后创建了一系列问题和一个评分公式，根据 Bartle 的模型将玩家又分为这四组：
-
-
-1、The Achievers
-2、The explorers
-3、The socializers
-4、The killers
-
-
-
-
-
-1、The Achievers
-
-
-这类玩家致力于完成和收集常人难以达到的游戏数据、记录和物品。克服挑战并积累奖励是他们的主要目标，这类玩家自己设定目标，并推动自己实现这些目标…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

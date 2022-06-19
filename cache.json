@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30951",
+          "author": null,
+          "description": "原文标题：《Solidity 极简入门: 7. 控制流，用 solidity 实现插入排序》\n原文作者：0xAA\n\n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n\n\n\n所有代码开源在 github ：github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将介绍 solidity 中的控制流，然后讲如何用 solidity 实现插入排序（InsertionSort），一个看起来简单，但实际上很容易写出 bug 的程序。\n\n\n控制流\n\n\nSolidity 的控制流与其他语言类似，主要包含以下几种：\n\n\nif-else\n\n\n\n\n\nfor 循环\n\n\n\n\n\nwhile 循环\n\n\n\n\n\ndo-while 循环\n\n\n\n\n\n三元运算符\n\n\n三元运算符是 solidity 中唯一一个接受三个操作数的运算符，规则 条件? 条件为真的表达式:条件为假的表达式。此运算符经常用作 if 语句的快捷方式。\n\n\n\n\n\n另外还有 continue（立即进入下一个循环）和 break（跳出当前循环）关键字可以使用。\n\n\n用 solidity 实现插入排序\n\n\n写在前面：90% 以上的人用 solidity 写插入算法都会出错。\n\n\n插入排序\n\n\n排序算法解决的问题是将无序的一组数字，例如 [2, 5, 3, 1]，从小到大一次排列好。插入排序（InsertionSort）是最简单的一种排序算法，也是很多人学习的第一个算法。它的思路很简答，从前往后，依次将每一个数和排在他前面的数字比大小，如果比前面的数字小，就互换位置。示意图：\n\n\n\n\n插入排序 \n\n\npython 代码\n\n\n我们可以先看一下插入排序的 python 代码：\n\n\n\n\n\n改写成 solidity 后有 BUG！\n\n\n一共 8 行 python 代码就可以完成插入排序，非常简单。那么我们将它改写成 solidity 代码，将函数，变量，循环等等都做了相应的转换，只需要 9 行代码：\n\n\n\n\n\n那我们把改好的放到 remix 上去跑，输入 [2, 5, 3, 1]。BOOM！有 bug！改了半天，没找到 bug 在哪。我又去 google 搜」solidity insertion sort」，然后发现网上用 solidity 写的插入算法教程都是错的，比如：Sorting in Solidity without Comparison\n\n\n\n正确的 solidity 插入排序\n\n\n花了几个小时，在 Dapp-Learning 社群一个朋友的帮助下，终于找到了 bug 所在。solidity 中最常用的变量类型是 uint，也就是正整数，取到负值的话，会报 underflow 错误。而在插入算法中，变量 j 有可能会取到-1，引起报错。\n\n\n这里，我们需要把 j 加 1，让它无法取到负值。正确代码：\n\n\n\n\n\n运行后的结果：\n\n\n\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中控制流，并且用 solidity 写了插入排序。看起来很简单，但实际很难。这就是 solidity，坑很多，每个月都有项目因为这些小 bug 损失几千万甚至上亿美元。掌握好基础，不断练习，才能写出更好的 solidity 代码。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30951",
+          "publishedOn": "2022-06-19T12:06:50.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第七讲：控制流，用Solidity实现插入排序",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30950",
           "author": null,
           "description": "原文标题：《Solidity 极简入门: 6. 映射类型 mapping》\n原文作者：0xAA\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n\n所有代码开源在 github ：github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将介绍 solidity 中的哈希表：映射（Mapping）类型。\n\n\n映射 Mapping\n\n\n在映射中，人们可以通过键（Key）来查询对应的值（Value），比如：通过一个人的 id 来查询他的钱包地址。\n\n\n声明映射的格式为 mapping(_KeyType => _ValueType)，其中 _KeyType 和 _ValueType 分别是 Key 和 Value 的变量类型。例子：\n\n\n\n\n\n映射的规则\n\n\n规则 1：映射的 _KeyType 只能选择 solidity 默认的类型，比如 uint，address 等，不能用自定义的结构体。而 _ValueType 可以使用自定义的类型。下面这个例子会报错，因为 _KeyType 使用了我们自定义的结构体：\n\n\n\n\n\n规则 2：映射的存储位置必须是 storage，因此可以用于合约的状态变量，函数中的 stoage 变量。不能用于 public 函数的参数或返回结果中。\n\n\n规则 3：如果映射声明为 public，那么 solidity 会自动给你创建一个 getter 函数，可以通过 Key 来查询对应的 Value。\n\n\n规则 4：给映射新增的键值对的语法为 _Var[_Key] = _Value ，其中 _Var 是映射变量名，_Key 和 _Value 对应新增的键值对。例子：\n\n\n\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中哈希表——映射（Mapping）的用法。至此，我们已经学习了所有常用变量种类，之后我们会学习控制流 if-else, while 等。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -93,46 +103,6 @@
           "publishedOn": "2022-06-17T07:52:33.000Z",
           "wordCount": null,
           "title": "安全指南：如何防御MetaMask浏览器钱包漏洞？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30922",
-          "author": null,
-          "description": "原文标题：《Concensus 参会+熊市感想》\n原文作者：高小猫\n\n\n\n这几天去 Austin 参加了 coindesk 办的 concensus 大会，正好这几天大跌，两件事情给我个人的感触都挺多的，就想写篇文章，依次聊聊这两件事情。\n\n\nConcensus 大会\n\n\n\nConcensus 因为疫情的原因，过去两年都是在线上举办，今年因为疫情再也不是个事儿了，终于重新改成了线下举办。\n\n\n总体来说这个会要比 ethglobal 的系列会，比如 ethdenver 等等会议更加偏 business，比较注重综合性，内容也对新手比较友好，比较硬核的内容不多。\n\n\n写到这里想顺便提一下我了解的各大 crypto 会议的异同。\n\n\n如果是开发者，想要进入 web3 世界学习，我会比较推荐去 ethdenver，或者其它的 ethglobal 办的线上或者线下的会议，比如 eth amsterdam，eth cc paris，eth new york 等等。这些会议开发者气氛很浓厚，也有对应的 hackathon 活动。\n\n\n如果是 bitcoin 爱好者，可以去每年的 bitcoin miami 大会。\n\n\npermissionless 听说比较 focus 在 defi 这个细分领域，我还没去过不太清楚。\n\n\nconcensus 偏商业，比较适合一个团队已经有了成熟的产品了，来这里找一些 to b 的客户进一步打开市场，或者寻找一些合作伙伴。展台偏贵（据说十几万美金），不是很平民化。\n\n\n听说 solana 的活动开发者氛围也非常好，不过 solana 背后的 vc 氛围太浓厚了，散户了解了也赚不到钱，还是算了。\n\n\n\n\n这里随便聊几个我还记得有印象的。\n\n\n一： fireblocks\n\n\n\nfireblocks，是一家做钱包托管的业务。他们发展很快，已经从一年前的几十个人发…",
-          "link": "https://www.theblockbeats.info/news/30922",
-          "publishedOn": "2022-06-17T03:41:50.000Z",
-          "wordCount": null,
-          "title": "Concensus2022参会随笔，与熊市感想",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30921",
-          "author": null,
-          "description": "近期关于 stETH 的脱锚问题，引发市场关注。前有 LUNA 与 UST 为鉴，加之市场动荡，大家对 stETH 的脱锚恐慌愈发强烈。为了梳理 stETH 问题的核心，欧易 OKX 平台与 BlockBeats 请到了 dForce 创始人 Yang Mindao、ResearchDAO 研究员 Scott、零 X 干货铺成员 Gene、欧易 OKX 赚币业务板块的 Steven，尝试为大家理清 stETH 的风险与机会。\n\n\nBlockBeats：先请 4 位嘉宾做简单的自我介绍。\n\n\nMinDao：我是 DeForce 的创始人，我们主要是在 DeFi 领域做包括稳定币，还有借贷等。我们也在 Staking 介入做抵押，今天非常高兴能过来跟大家分享一下我们对于这个事件的一些观察。\n\n\nScott： Hello 大家好，非常感谢 OKX 邀请我来到今晚的 Space，我是 ResearchDao 的研究员，今年金融硕士应届生。其实我 16 年就开始研究比特币了，之前也一直在传统金融研究所实习，后面发现自己还是更喜欢 Crypto，所以就决定毕业之后要继续当这个行业的研究员。很高兴今晚我们跟大家一起探讨 stETH 的话题。\n\n\nGene：Hello，谢谢邀请，我是 Gene，零 X 干货铺的早期成员，现在也在一家机构负责电商的资管。我在进入行业之前是一直是在美国做律师，算是有一些跨界，但是一直有深入的去实践，现在这次刚好 stETH 跟我们也有一些业务上的相关，非常荣幸有机会今天跟大家一起讨论，谢谢。\n\n\nSteven：谢谢主持人，大家好，我是 Steven，然后负责欧易 OKX 的金融服务板块，主要是在交易平台里面给大家提供一些基于币本位金融服务，或者说币本位的这种理财服务。\n\n\nBlockBeats：好的，我们正式开始。关于 stETH，以太坊 2.0 流动性质押协…",
-          "link": "https://www.theblockbeats.info/news/30921",
-          "publishedOn": "2022-06-17T03:31:50.000Z",
-          "wordCount": null,
-          "title": "stETH的风险与机会-欧易&BlockBeats AMA实录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30899",
-          "author": null,
-          "description": "原文标题：《A series on different models of Game Governance》\n原文作者：taetaehoho.eth @1kx network\n原文编译：比得潘 @BlockBeats \n\n\n这是关于游戏中使用不同治理模型的一个系列分析，在讨论不同模型之前，我想先谈谈：\n\n\n1）什么是游戏治理？\n2）Web3 游戏中治理流程的必要性，以及利与弊\n3）未来 Web3 中可能存在的游戏治理系统\n\n\n\n\n\n什么是游戏治理？\n\n\n\n游戏治理是游戏的利益相关者参与其演变的一个过程。\n\n\n它可以采用像通过公共论坛提供有机反馈一样的间接形式，然后由开发工作室进行迭代；也可以使用像对通过社区讨论产生的内容提案进行投票一样的直接方式。不过，这两种方法目前都有被使用过。\n\n\n\n原视频链接\n\n\n此外，它还既可以做到像对单个内容更新的投票一样精细，也可以像控制生态系统中的参数一样从内容本身抽象出来，如原生 DEX 上的 bps 交易费、p2e 机制等。\n\n游戏治理过程可视化\n\n\n这个过程发生的结构在多个游戏中是不同的，在「Aggregation games」中可以：\n\n\n- 通过公共论坛等有机来源抓取对游戏各个阶段更新的回复；\n- 创建一个代表玩家利益的委员会，为其汇总玩家反馈；\n- 要求玩家自己创建提案。\n\n\n而在「Filtering games」中则可以选择：\n\n\n- 所有信息过滤都发生在工作室内，无需玩家输入；\n- 可根据来源对提案给予额外的权重；\n- 所有通过投票的提案都将必须执行。\n\n\nWeb3 中的游戏治理\n\n\n\n留存\n\n\n游戏治理提高了留存率。\n\n\n随着 GaaS（Game as a Service）的流行，游戏继续提供满足消费者需求的体验变得很重要。因此，这导致了专门用于收集和汇总玩家反馈的方法和人力的增加，正如我们将会看到，许多游戏治理机制的出现是…",
-          "link": "https://www.theblockbeats.info/news/30899",
-          "publishedOn": "2022-06-17T03:31:50.000Z",
-          "wordCount": null,
-          "title": "Web3 中的游戏治理（一）: 什么是游戏治理及利与弊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30919",
-          "author": null,
-          "description": "原文标题：《\n\n 解读传统四类游戏玩家类型，Web3 游戏可以从中学到什么？\n\n》\n原文作者：Sensei.p2e\n原文编译：TechFlow intern\n\n\nGamefi 依然是 Web3 大海中恶魔果实，其破圈和吸金能力也许能够为下一轮牛市掀开新的篇章，但其缺点也显而易见。这篇文章主要描述了传统游戏公司是怎么样分类和吸引他们的玩家，以及 Web3 游戏又带来了什么新类型，我们能够从传统游戏中学到什么。\n\n\n1996 年，游戏先驱之一的 Richard Bartle 根据游戏玩家的心理将他们分为四类，这些类别是什么？为什么它们在 Web3 游戏开发中很重要？这是一篇适用于游戏玩家和游戏开发者的文章。\n\n\n心理学是研究心灵以及它如何影响一个人行为的学科。在电子游戏中，这转化为玩家在游戏环境中的思考和互动方式。一些游戏玩家的竞技能力很强，而另一些则没有，他们只想着登录游戏去与朋友交流。\n\n\n了解这些不同类型的游戏玩家，将有助于开发人员围绕他们想要吸引的特定游戏玩家类型来构建他们的游戏设计、经济和机制。\n\n\n因此，1996 年，Richard Bartle 创建了「Bartle 游戏玩家分类法」\n\n\n他根据玩家在游戏中的行为以及他们更愿意与谁/什么互动，将玩家分为 4 组。玩家是否更关注游戏世界或其他玩家？玩家是否更关心剧情或互动？\n\n\nErwin. A 和 Brandon. D 然后创建了一系列问题和一个评分公式，根据 Bartle 的模型将玩家又分为这四组：\n\n\n1、The Achievers\n2、The explorers\n3、The socializers\n4、The killers\n\n\n\n\n\n1、The Achievers\n\n\n这类玩家致力于完成和收集常人难以达到的游戏数据、记录和物品。克服挑战并积累奖励是他们的主要目标，这类玩家自己设定目标，并推动自己实现这些目标…",
-          "link": "https://www.theblockbeats.info/news/30919",
-          "publishedOn": "2022-06-17T02:31:50.000Z",
-          "wordCount": null,
-          "title": "从传统游戏玩家类别，探讨Web3游戏玩家行为模式",
           "imageUrl": null
         }
       ]
