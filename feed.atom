@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-18T18:09:07.056Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T00:40:31.114Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年轻人的社交新潮流！得物App正式推出数字藏品平台，首发三款潮流数字头像]]></title>
         <id>https://www.theblockbeats.info/news/30948</id>
@@ -577,67 +590,6 @@ Erwin. A 和 Brandon. D 然后创建了一系列问题和一个评分公式，�
 
 
 狂人…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：熊市中看好的8个项目]]></title>
-        <id>https://www.theblockbeats.info/news/30903</id>
-        <link href="https://www.theblockbeats.info/news/30903"/>
-        <updated>2022-06-16T09:27:51.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《8 Projects I'm Bullish On This Bear Market》
-原文作者：David Hoffman
-
-
-原文编译：Katie 辜，Odaily 星球日报
-
-
-
-
-最近我们都在关注跌跌不休的价格走势，但不要忘记 Web3 正处于建设阶段。
-
-
-熊市使 CEO 能够从基本原则角度进行思考，花更多的时间来打造有意义的技术。随着大批新进的加密用户，有大量的新领域需要建设。2021 年，Web3 领域从 0 发展到 1。现在，我们需要头脑清醒且资金充足的公司按照蓝图做大做强。
-
-
-今天，我将重点介绍 8 家站在加密世界前沿的项目。他们正在开发一些非常酷的产品。
-
-
-1. Obol Network——分布式验证器技术（DVT）
-
-
-
-
-
-官网：Obol.tech
-
-
-Obol 是「分布式验证器技术」（DVT）的先驱。DVT 可以同时运行在多台机器和客户机上，同时仍然像网络上的单个验证器一样运行。DVT 允许许多计算机联机，并让所有计算机共同参与私钥签名。
-
-
-这项技术有利于创建具有竞争力的 ETH 质押 基础设施，减少网络垄断。Obol 的目标是让验证器的正常运行时间变得更有竞争力，同时将最大限度降低风险，为质押网络提供公平的竞争环境。
-
-
-Obol 用例：
-
-
-· DAO 不会信任单个成员质押其资金库的 ETH，但可能会信任一组成员共同运行验证器，并共担责任；
-
-
-· 成员不会单独拥有 32 个 ETH，但可以将所有 ETH 聚集，构建一个共享节点；
-
-
-· 托管人可能不会把客户的 ETH 托付给单一的质押运营商，但他们可能会信任通过 Obol 技术合作的运营商网络。
-
-
-Obol 如何脱颖而出：
-
-
-1.Obol 被集成到每个质押协议和消费者质押软件中；
-
-
-2.每家质押服务公司和协议（Coinbase Cloud、Lido、RocketPoo…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

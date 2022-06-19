@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Celsius危机始末：管理超300亿美元资产的明星CeFi是如何成为众矢之的的？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30903",
-          "author": null,
-          "description": "原文标题：《8 Projects I'm Bullish On This Bear Market》\n原文作者：David Hoffman\n\n\n原文编译：Katie 辜，Odaily 星球日报\n\n\n\n\n最近我们都在关注跌跌不休的价格走势，但不要忘记 Web3 正处于建设阶段。\n\n\n熊市使 CEO 能够从基本原则角度进行思考，花更多的时间来打造有意义的技术。随着大批新进的加密用户，有大量的新领域需要建设。2021 年，Web3 领域从 0 发展到 1。现在，我们需要头脑清醒且资金充足的公司按照蓝图做大做强。\n\n\n今天，我将重点介绍 8 家站在加密世界前沿的项目。他们正在开发一些非常酷的产品。\n\n\n1. Obol Network——分布式验证器技术（DVT）\n\n\n\n\n\n官网：Obol.tech\n\n\nObol 是「分布式验证器技术」（DVT）的先驱。DVT 可以同时运行在多台机器和客户机上，同时仍然像网络上的单个验证器一样运行。DVT 允许许多计算机联机，并让所有计算机共同参与私钥签名。\n\n\n这项技术有利于创建具有竞争力的 ETH 质押 基础设施，减少网络垄断。Obol 的目标是让验证器的正常运行时间变得更有竞争力，同时将最大限度降低风险，为质押网络提供公平的竞争环境。\n\n\nObol 用例：\n\n\n· DAO 不会信任单个成员质押其资金库的 ETH，但可能会信任一组成员共同运行验证器，并共担责任；\n\n\n· 成员不会单独拥有 32 个 ETH，但可以将所有 ETH 聚集，构建一个共享节点；\n\n\n· 托管人可能不会把客户的 ETH 托付给单一的质押运营商，但他们可能会信任通过 Obol 技术合作的运营商网络。\n\n\nObol 如何脱颖而出：\n\n\n1.Obol 被集成到每个质押协议和消费者质押软件中；\n\n\n2.每家质押服务公司和协议（Coinbase Cloud、Lido、RocketPoo…",
-          "link": "https://www.theblockbeats.info/news/30903",
-          "publishedOn": "2022-06-16T09:27:51.000Z",
-          "wordCount": null,
-          "title": "Bankless：熊市中看好的8个项目",
-          "imageUrl": null
         }
       ]
     },
@@ -141,8 +131,19 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "author": null,
+          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "publishedOn": "2022-06-18T19:01:33.000Z",
+          "wordCount": 280,
+          "title": "v1.15.0",
+          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+        }
+      ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
