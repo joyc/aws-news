@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30950",
+          "author": null,
+          "description": "原文标题：《Solidity 极简入门: 6. 映射类型 mapping》\n原文作者：0xAA\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n\n所有代码开源在 github ：github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将介绍 solidity 中的哈希表：映射（Mapping）类型。\n\n\n映射 Mapping\n\n\n在映射中，人们可以通过键（Key）来查询对应的值（Value），比如：通过一个人的 id 来查询他的钱包地址。\n\n\n声明映射的格式为 mapping(_KeyType => _ValueType)，其中 _KeyType 和 _ValueType 分别是 Key 和 Value 的变量类型。例子：\n\n\n\n\n\n映射的规则\n\n\n规则 1：映射的 _KeyType 只能选择 solidity 默认的类型，比如 uint，address 等，不能用自定义的结构体。而 _ValueType 可以使用自定义的类型。下面这个例子会报错，因为 _KeyType 使用了我们自定义的结构体：\n\n\n\n\n\n规则 2：映射的存储位置必须是 storage，因此可以用于合约的状态变量，函数中的 stoage 变量。不能用于 public 函数的参数或返回结果中。\n\n\n规则 3：如果映射声明为 public，那么 solidity 会自动给你创建一个 getter 函数，可以通过 Key 来查询对应的 Value。\n\n\n规则 4：给映射新增的键值对的语法为 _Var[_Key] = _Value ，其中 _Var 是映射变量名，_Key 和 _Value 对应新增的键值对。例子：\n\n\n\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中哈希表——映射（Mapping）的用法。至此，我们已经学习了所有常用变量种类，之后我们会学习控制流 if-else, while 等。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30950",
+          "publishedOn": "2022-06-19T08:32:57.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第六讲：映射类型 mapping",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/30949",
+          "author": null,
+          "description": "周末荐读：从Celsius到三箭，加密百亿巨头们的多米诺",
+          "link": "https://www.theblockbeats.info/news/30949",
+          "publishedOn": "2022-06-19T07:21:54.000Z",
+          "wordCount": null,
+          "title": "周末荐读：从Celsius到三箭，加密百亿巨头们的多米诺",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30948",
           "author": null,
           "description": "专属于年轻人的潮流数字头像来了。今日，得物 App 数字藏品平台正式上线，首轮发行三个系列潮流数字头像，限量发行 2300 个，其中 1800 个面向用户公开发售，其余 500 个由发行方和平台方预留。此次发售藏品的纪念和收藏价值，不仅在于每个潮流数字头像都有可溯源的独特编号，且每一款都结合了年轻人的兴趣、喜好、语言而有独一无二的潮流艺术设计，让年轻人鲜明表达「个性」。据悉，三个系列潮流数字头像将于 6 月 21 日 10 点起，向得物 App 所有用户开放抽签，每个系列每个用户账号限抽签 1 次。\n \n得物 App 数字藏品平台此次发售的三系列潮流数字头像，包括 SneakerCube 潮盒魔方、Tubeman 突波充气人、Doberverse-拟态。每个系列、每个数字头像都是独一无二的，均结合得物 App 年轻用户的个性、爱好打造了专属设计，展现年轻人独特的生活乐趣。SnearkerCube 系列计划面向用户公开发售 600 个，该系列灵感来源于广大球鞋爱好者，以形态各异的「鞋盒小人」，展现球鞋爱好者的个性标识；Tubeman 系列计划面向用户公开发售 600 个，每件作品以舞动的气球人为原型，均有专属表情，这些有趣「表情包」来自得物 App 社区用户的爱好、互动和分享；Doberverse-拟态系列计划则面向用户公开发售 600 个，该系列将杜宾犬和机器人元素进行艺术结合，展现年轻人喜爱的未来感、科技潮流。\n\n\n\n\n\n据悉，得物 App 用户在数字藏品平台购买潮流数字头像后，可在得物 App 社区设置为数字头像，表达「个人风格」，还可以对藏品二次创作，用结合自己创意的数字艺术作品，与有相同兴趣的用户分享交流。未来，得物 App 数字藏品平台还将通过更有温度、有趣的互动玩法加深年轻人之间的情感连结。\n \n得物 App 数字藏品平台有鲜明的年轻、潮流特色，原因在于得物 App 上潮流、时尚、追求个性的年轻用户。目前，得物 App90 后用户占比 88%，这部分年轻人正是喜爱数字藏品等新技术、新潮流的人群，得物 App 上线数字藏品平台，与年轻人的新需求、新爱好一脉相承。\n \n值得注意的是，得物 App 数字藏品平台一上线即发布了严格规则以规避「炒作」，按照行业最高标准进行规范。用户购买藏品将采用实名制，且明确告知购买的数字藏品不得转卖，不支持任何形式的二次交易行为。\n \n据悉，得物 App 作为新一代潮流网购社区，具备电商和社区两大核心服务。得物 App 是全球最大的潮流电商，年轻人每天在得物 App 购买潮流好物、时尚新品；此外，得物 App 社区作为国内最大的潮流文化社区，聚集了大量潮流爱好者和创作者，他们交流、创作潮流时尚、文化、艺术、生活。随着技术革新的持续深入，越来越多的新玩法正在得物 App 上被开发，赋予青年潮流文化新的想象空间。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -113,16 +133,6 @@
           "publishedOn": "2022-06-17T02:31:50.000Z",
           "wordCount": null,
           "title": "从传统游戏玩家类别，探讨Web3游戏玩家行为模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30900",
-          "author": null,
-          "description": "原文标题：《创业狂人的雷曼时刻，加密独角兽 Celsius 危机始末》\n原文作者： 0xergou，深潮 TechFlow\n\n\n「Celsius Network 的用户数量是所有 DeFi 总和的两倍……那是因为我们将 80% 回馈给我们的社区，而 Maker 和其他项目则将 50% 留给自己。」\n \n2019 年，加密借贷平台 Celsius 创始人 Alex Mashinsky 在推特上如此炫耀，引发 DeFi 爱好者的回击，有人反驳道，「DeFi 协议让我们完全控制自己的钱，然而在你们倒闭的那一刻，我们没有办法拿回我们的资金……」\n \n知名数据网站 DeFiPrime 选择直接下架 Celsius Network。\n \n「我们将 Celsius Network 下架。不透明的公司，疯狂的 CEO，这是强烈的危险信号，所以我们不再推荐这个产品了。」AAVE 创始人 Stani 趁势表态，「应该将所有 CeFi 从 DeFi Prime 下架」。\n \n\n \n近 3 年后，已成长为加密独角兽的 Celsius Network 却突然发布公告：暂停平台一切提现、交易和转账。\n \n对于大多数华人而言，Celsius Network 或许稍显陌生，但是创始人以及公司的故事具有传奇故事所要求的几乎所有要素：\n \n一名乌克兰人揣着 100 美元来到美国变身创业狂人，创立 8 家公司，打造出 3 家独角兽企业；做 VC，募资 10 亿美元，退出超 30 亿美元，IRR 54% ；Celsius 两次因被盗损失资产；前 CFO Moshe Hegog 被逮捕；色情明星从事高管……\n \n如今，伴随大规模资金挤兑，暂停提现，资产规模一度高达 300 亿美元的 Celsius Network 来到了「雷曼时刻」。危机从何而来？这次，创业狂人 Mashinsky 能否再次力挽狂澜？\n\n\n\n\n狂人…",
-          "link": "https://www.theblockbeats.info/news/30900",
-          "publishedOn": "2022-06-16T15:52:29.000Z",
-          "wordCount": null,
-          "title": "Celsius危机始末：管理超300亿美元资产的明星CeFi是如何成为众矢之的的？",
           "imageUrl": null
         }
       ]
