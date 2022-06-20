@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30952",
+          "author": null,
+          "description": "原文标题：《Crypto.com 熊市自救之路：裁员 5%，NFT 部门重组》\n原文作者：Michael Bodley，\n\nBlockworks\n\n\n原文编译：余顺遂，\n\nOdaily 星球日报\n\n\n\n摘要：\n\n\n- 由于市场持续低迷，Crypto.com 近日宣布将裁员 5%。\n\n\n- NFT 平台是 Crypto.com 今年增长最快的业务之一。不过，它面临着来自行业巨头 OpenSea 等公司的激烈竞争。\n\n\n- Crypto.com 首席执行官 Kris Marszalek 近日在推特上表示，由于市场持续低迷，Crypto.com 将裁员 260 人，占公司员工总数的 5%。Marszalek 称，裁员是「艰难而必要的」决定，目的是「确保长期可持续的增长」。\n\n\n\n\n\n据两位知情人士透露，刚刚经历一轮大规模裁员的加密货币交易平台 Crypto.com，已与其新兴 NFT 业务负责人分道扬镳。\n\n\n据悉，Joe Conyers IIII 于 2021 年 3 月加入 Crypto.com，帮助其建立 NFT 平台。消息人士称，Conyers（工作地点为纽约）上周在该部门重组过程中离开这家总部位于新加坡的公司。\n\n\nCrypto.com 发言人拒绝就 Conyers 和重组背后的理由置评，但表示 NFT 部门是公司「最优先考虑的部门之一」。\n\n\nConyers 是一位连续创业者和风险资本家，此前曾在科技公司和音乐行业工作。目前尚不清楚他的未来规划。\n\n\n一位消息人士表示，「他（离职）是一个巨大的损失。」消息人士指出，Crypto.com NFT 部门选择重组而非裁员，是为了提高效率。\n\n\nCrypto.com NFT 平台与现有行业巨头 OpenSea、竞争对手 Coinbase 的新晋产品竞争。该平台允许数字收藏品爱好者铸造并交易 NFT。Crypto.com 通过从交易收益中提成来赚钱。\n\n\nCrypto.com 对这一新部门的重视，正值 Crypto.com 和其它交易平台越来越希望实现收入来源的多元化，不再仅仅像过去那样作为做市商从买卖双方的价差中抽取部分收益。\n\n\n随着财力雄厚的交易员认真分析稳定币 UST 崩盘和加密借贷平台 Celsius 可能破产的后果，交易平台这种曾经稳定的现金流急剧减少。多家交易平台正在采取措施自救。\n\n\n据悉，最近加密货币价格暴跌引发主要加密货币交易平台的裁员，包括 Coinbase、Gemini、BitMEX、Buenbit 和 Bitso。其中 Coinbase 宣布裁员约 18%，以降低管理费用和提高效率。据 BeInCrypto 报道，Coinbase 首席政策官 Faryar Shirzad 承认，未来的某个时候，Coinbase 可能会进一步裁员。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/30952",
+          "publishedOn": "2022-06-20T03:56:40.000Z",
+          "wordCount": null,
+          "title": "Crypto.com熊市自救之路：裁员5%，NFT部门重组",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30951",
           "author": null,
           "description": "原文标题：《Solidity 极简入门: 7. 控制流，用 solidity 实现插入排序》\n原文作者：0xAA\n\n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n\n\n\n所有代码开源在 github ：github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将介绍 solidity 中的控制流，然后讲如何用 solidity 实现插入排序（InsertionSort），一个看起来简单，但实际上很容易写出 bug 的程序。\n\n\n控制流\n\n\nSolidity 的控制流与其他语言类似，主要包含以下几种：\n\n\nif-else\n\n\n\n\n\nfor 循环\n\n\n\n\n\nwhile 循环\n\n\n\n\n\ndo-while 循环\n\n\n\n\n\n三元运算符\n\n\n三元运算符是 solidity 中唯一一个接受三个操作数的运算符，规则 条件? 条件为真的表达式:条件为假的表达式。此运算符经常用作 if 语句的快捷方式。\n\n\n\n\n\n另外还有 continue（立即进入下一个循环）和 break（跳出当前循环）关键字可以使用。\n\n\n用 solidity 实现插入排序\n\n\n写在前面：90% 以上的人用 solidity 写插入算法都会出错。\n\n\n插入排序\n\n\n排序算法解决的问题是将无序的一组数字，例如 [2, 5, 3, 1]，从小到大一次排列好。插入排序（InsertionSort）是最简单的一种排序算法，也是很多人学习的第一个算法。它的思路很简答，从前往后，依次将每一个数和排在他前面的数字比大小，如果比前面的数字小，就互换位置。示意图：\n\n\n\n\n插入排序 \n\n\npython 代码\n\n\n我们可以先看一下插入排序的 python 代码：\n\n\n\n\n\n改写成 solidity 后有 BUG！\n\n\n一共 8 行 python 代码就可以完成插入排序，非常简单。那么我们将它改写成 solidity 代码，将函数，变量，循环等等都做了相应的转换，只需要 9 行代码：\n\n\n\n\n\n那我们把改好的放到 remix 上去跑，输入 [2, 5, 3, 1]。BOOM！有 bug！改了半天，没找到 bug 在哪。我又去 google 搜」solidity insertion sort」，然后发现网上用 solidity 写的插入算法教程都是错的，比如：Sorting in Solidity without Comparison\n\n\n\n正确的 solidity 插入排序\n\n\n花了几个小时，在 Dapp-Learning 社群一个朋友的帮助下，终于找到了 bug 所在。solidity 中最常用的变量类型是 uint，也就是正整数，取到负值的话，会报 underflow 错误。而在插入算法中，变量 j 有可能会取到-1，引起报错。\n\n\n这里，我们需要把 j 加 1，让它无法取到负值。正确代码：\n\n\n\n\n\n运行后的结果：\n\n\n\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中控制流，并且用 solidity 写了插入排序。看起来很简单，但实际很难。这就是 solidity，坑很多，每个月都有项目因为这些小 bug 损失几千万甚至上亿美元。掌握好基础，不断练习，才能写出更好的 solidity 代码。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -73,16 +83,6 @@
           "publishedOn": "2022-06-18T01:02:09.000Z",
           "wordCount": null,
           "title": "Delphi Digital：行业最全以太坊进阶指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30927",
-          "author": null,
-          "description": "原文标题：《Celsius 和三箭之后，BlockFi 也已处于暴雷前夜》\n原文作者： Otteroooo\n原文编译：\n\nAzuma ，Odaily 星球日报 \n\n\n今日早间，加密货币分析师 Otteroooo 于个人推特发布了一篇关于 CeFi（中心化金融服务机构）巨头 BlockFi 资金状况的详尽调查，得出结论称 BlockFi 很有可能也将陷入流动性危机，原因是该平台已在 Celsius、三箭资本、SEC 罚款等一连串事件中损失巨额资金。\n\n\n\n\n\n\n以下为 Otteroooo 的调查详情，由 Odaily 星球日报编译。\n\n\n调查结论：\n\n\nBlockFi 将在 2022 年底遭遇流动性危机。（90% 确定）\nBlockFi 在 2022 年间已经损失巨额资金。（101% 确定）\n\n\n全文共有五个部分：\n\n\nCelsius 的连带影响；\n三箭资本的崩盘；\nBlockFi 的错误押注；\nSEC 的罚款；\nBlockFi 的应对策略。\n\n\nPart 1：Celsius 的连带影响\n\n\n在 Celsius 出现了流动性问题甚至面临重组之后，其他 CeFi 平台的用户也受到惊吓，恐慌情绪驱使下，大量用户宁可放弃收益也要尽快从中心化平台中赎回自己的资产。\n\n\n仅在今天一天，我们就看到了 2000 BTC 和 5000 ETH 流出 BlockFi 钱包。\n\n\n注意，这仅仅是一天的流出。\n\n\n\n\n\n\n想想我之前曾说过的，流动性危机将会是一场反向的懦夫游戏（指在平台陷入信任危机之时，最先退出的用户反而能保住收益，最信任平台的用户往往却会丢失资产），用户应该想清楚自己现在该做什么。\n\n\n而对于 BlockFi 来说，这却是他们即将面临的最大挑战。\n\n\nPart2：三箭资本的崩盘\n\n\n三箭资本是加密货币领域规模最大的对冲基金之一，该平台却在几天之内陷入了存亡危机之中。三箭的联合创始…",
-          "link": "https://www.theblockbeats.info/news/30927",
-          "publishedOn": "2022-06-17T14:18:19.000Z",
-          "wordCount": null,
-          "title": "流动性危机突现，BlockFi也将面临暴雷风险？",
           "imageUrl": null
         }
       ]
