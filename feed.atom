@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-20T12:15:20.008Z</updated>
+    <updated>2022-06-20T18:09:28.825Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[关注DAO从业者的心理健康，如何处理精神债务所带来的压力？]]></title>
+        <id>https://www.theblockbeats.info/news/30960</id>
+        <link href="https://www.theblockbeats.info/news/30960"/>
+        <updated>2022-06-20T14:01:59.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Cultivating Mental Fitness In DAOs》  
+原文作者:   Twoplus
+原文编译：shaun@DAOrayaki.org， DoraFactory
+
+
+
+
+良好的心理健康对我们的生活和事业至关重要。这是我们实现远大目标、维持人际关系和对社区做出有意义贡献的先决条件。
+
+
+
+
+然而，今天的 DAO 在工作中的心理健康受到了围攻。DAO 和贡献者的生活方式中存在的许多挑战，严重损害了这个美好工作的未来。
+
+
+
+
+
+
+
+我们的使命是通过将心理健康作为协作的核心，使数字社区能够茁壮成长并创造积极影响。
+
+
+
+
+「心理健康是指利用资源和技能灵活地适应挑战或优势的可修改的能力，从而实现蓬勃发展（最佳功能）」
+
+
+
+
+我们相信，心理健康使我们能够意识到自己，并可持续地释放我们的全部潜力。作为一个社区，我们正在利用 DAO 的早期优势，使心理健康文化成为 DAO 领域的默认内容。
+
+
+在这篇文章中，我们将对 DAO 和 Web3 中的心理健康进行论证。
+
+
+
+
+- 介绍心理健康
+- DAO 中心理健康的成本
+- 在 DAO 和贡献者的生活方式中注入心理健康的元素
+
+
+
+
+心理健康
+
+
+
+
+心理健康将我们对心理健康的看法从我们忍受的东西转变为我们可以有意培养的东西。就像身体健康一样，采用心理健康的做法意味着训练我们的大脑以获得更好的精神力量、复原力和灵活性。
+
+
+
+
+心理健康与每个人都有关，对 DAO 贡献者来说尤其重要。我们在不断地处理信息，转换语境，即使在 "离线 "时也被拉向各个方向。我们对 "垃圾信息 "的大量消费使我们 "精神超载"，并不断寻找更多的刺激或多巴胺冲击。
+
+
+
+
+过去的工作可能是身体上的疲惫，但在 DAO 中，大部分的消耗是在我们的大脑上。这种新的工作模式要付出巨大的代价，因为随着时间的推移，我们的大脑健康状况会下降，我…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年NFT.NYC大会将于6月20日开幕，全球NFT社区成员相聚纽约]]></title>
         <id>https://www.theblockbeats.info/news/30958</id>
@@ -606,113 +676,6 @@ Thank you: @cpwnd]]></summary>
 
 
 一旦玩家认定了「先玩后赚」的游戏机制，他们就会自然而然产生不切实际的期望，从而让原生 Token 不断受到销售压力。在我看来，游戏经济学家真正应该做的是重新审视「先玩后赚」游戏的可行性，而不是花大把时间思考如何优化资金池、增加税收，以及应对销售…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打破「围墙花园」，Web3.0重塑社交范式]]></title>
-        <id>https://www.theblockbeats.info/news/30929</id>
-        <link href="https://www.theblockbeats.info/news/30929"/>
-        <updated>2022-06-18T03:02:09.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Foresight Ventures: 打破「围墙花园」，Web 3.0 重塑社交范式》
-原文作者：Alice@Foresight Ventures，Foresight Research
-
-
-文章摘要
-
-
-Web3 社交需要更多 Crypto-native 的创新玩法，而非 Web2 Copycat。社交范式的变革将是一场以「平台为中心」到「用户为中心」的社交文艺复兴，新叙事包括五个关键主题：社交图谱、去中心化身份、隐私保护、可组合性、Token 化，我们仍处于社交范式变革的早期。
-
-
-社交赛道从下至上可划分成四个 Layers：数据层，协议层，隐私层和应用层。其中协议层最为核心。协议层长期看好能持续吸引用户产生新的关系、身份、荣誉的社交协议和基础数据网络。应用层看好能形成可持续 tokenomics 的社交应用。此外，灵魂绑定
-
-Token
-
-（SBT）形成的社交关系或许可以兼顾可组合性与弱金融属性，将链上社交
-
-Token
-
-的核心价值回归到关系证明本身，成为真正有效的社交凭证。
-
-
-Web3 去中心化的社交网络应当是什么样的？
-
-
-如今很多 Web3 社交产品仍旧沿用 Web2 商业模式, 但这样的单打独斗很难。我们需要的不是诸如 Web 3 Twitter，Web 3 Facebook 之类的 copycat，而是更多 native 的创新玩法。
-
-
-
-
-
-漫谈 Web3 社交范式变革
-
-
-Web2 每个人都生活在社交巨头们铸造的「围墙花园」中，用户待在「围墙花园」里的时间越长，「围墙」缔造者就对他们越了解，但一旦去到另一座花园我们必须舍弃所有的社交关系和数据，净身出户。在 Web3 塑造一个更加公正、自由、平等的互联网环境将成为可能。
-
-
-正如欧洲文艺复兴带来了从「神」到「人」的人文主义思潮变革，Web2 社交到 Web3 社交的演化，也将是一场轰轰烈…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delphi Digital：行业最全以太坊进阶指南]]></title>
-        <id>https://www.theblockbeats.info/news/30928</id>
-        <link href="https://www.theblockbeats.info/news/30928"/>
-        <updated>2022-06-18T01:02:09.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《The Hitchhiker's Guide to Ethereum》  
-原文作者:   Jon Charbonneau
-原文编译：xinyang@DAOrayaki.org， DoraFactory
-
-
-
-
-
-核心要点：
-
-
-以太坊是唯一一个主要协议，意在建立可扩展的统一的结算和数据可用性层
-在利用以太坊的安全性的同时，rollup 扩大了计算量
-所有的道路都通向中心化区块生产、去中心化的无需信任区块验证和抗审查这一终局。
-诸如发起者—建设者分离和弱无状态等创新，带来了权力分离（建设和验证），可以在实现可扩展性的同时，不牺牲安全性或去中心化目标
-MEV 现在是前沿和中心——许多设计都是为了减轻其危害和防止其中心化倾向而计划的
-Danksharding 结合了前沿研究的多种途径，为以太坊以 rollup 为中心的路线图提供所需的可扩展基础层
-我确实期待 Danksharding 在我们的有生之年得到实施
-
-
-
-
-
-
-
-目录
-
-
-第 1 部分 通往 Danksharding 之路
-
-
-原始的数据分片设计——独立分片提议
-数据可用性抽样（DAS）
-KZG 承诺（KZG Commitment）
-KZG 承诺 vs. 欺诈证明
-协议内的发起者和建设者分离
-审查抵抗列表（Censorship Resistance List, crList）
-2D KZG 策略
-Danksharding
-Danksharding——诚实多数验证
-Danksharding——重建
-Danksharding——私人随机抽样的恶意多数安全
-Danksharding——关键总结
-Danksharding——在区块链扩展上的制约
-原生的 danksharding（EIP-4844）
-多维度的 EIP-1559
-
-
-第 2 部分 历史和状态管理
-
-
-Calldata gas 成本缩减及 callda…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
