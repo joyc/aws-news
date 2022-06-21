@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30968",
+          "author": null,
+          "description": "原文标题：《Ethereum creator Vitalik and his father, Dima Buterin, on this 『morally clarifying moment』 and why there’s more to crypto than money》\n原文作者： TAYLOR LOCKE，《财富》   \n本文编译来自微信公众号：老雅痞\n\n\n以太坊的创造者并不担心当前的加密货币崩溃，但他不喜欢他的作品变得如此投机。\n\n\n他在十几岁的时候就从他的父亲那里了解到了比特币，他的父亲是一位出生在俄罗斯的工程师和企业家，举家来到加拿大，名叫 Dmitry Buterin。\n\n\nVitalik 和 Dmitry 对《财富》杂志表示，他们现在已经习惯了这种波动，但今年父亲节，DeFi 最著名的父子组合之一传达了另一个信息：想想加密货币还能有什么其他用途。\n\n\nVitalik 周三告诉《财富》杂志:「加密货币以前有过上涨，也有过下跌，未来还会有涨跌。」「低谷期当然是充满挑战，尽管这也是最有意义的项目得到培育和建立的时期。」\n\n\nVitalik 解释说，金钱从来都不是他关注的焦点或动力。他不喜欢以太坊可以用于投机的方面，并认为网络比金融用例更重要。Vitalik 和 Dima 都希望看到金融之外的更多应用，同时继续优先改善以太坊及其技术。他们的行动证实了这一点。\n\n\n有时，Vitalik 会在自己的网站上发表他对未来领域的想法——例如，最近他分享了灵魂绑定代币的想法，其中个人的凭证记录可以记录在链上。其他时候，他写了关于以太坊备受期待的「合并」升级，网络将从工作证明机制转变为股权证明，并大幅减少其对环境的影响。\n\n\n\n\n\n在一次范围广泛的问答中，Vitalik 和 Dima 与《财富》谈论了他们在该领域的旅程、以太坊的遗憾、对该行业未来的希望、备受期待的合并、Ter…",
+          "link": "https://www.theblockbeats.info/news/30968",
+          "publishedOn": "2022-06-21T07:22:24.000Z",
+          "wordCount": null,
+          "title": "对话Vitalik父子：网络比金融用例更重要，优先改善以太坊及其技术",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30961",
           "author": null,
           "description": "原文作者：Jason Choi\n原文编译：0x9F，BlockBeats\n\n\n\n本文梳理自《Blockcrunch》播客主理人 Jason Choi 在个人社交媒体平台上的观点，BlockBeats 对其整理翻译如下：\n\n\n\n在加密领域，风投和创始人之间的关系已经翻转了 180 度。\n\n\n\n虽然完成募资的加密基金处在历史高位，但基金管理人却不怎么打算部署它们。2022 年一二季度推出的基金通常要 3 年以上的部署期，大多数加密初创企业在没有新融资的情况下撑不到那时候。这给风投带来了很多筹码。\n\n\n\n一般来说，有经验的一级团队仍然可以筹集资金，但估值相比几个月前掉了一半。能有投标，是因为大型风投基金为了保持活跃还会争夺优质项目。\n\n\n二、三级团队能收到的只有顶级风投的不牵头支票（non-lead checks），或长尾基金、自营交易公司、营运基金之类的小额支票。由于风投节约资金，不牵头支票已经并将持续减少。自营交易公司/营运基金则没有风险投资的授权。\n\n\n那些没有严重下滑或被清算的基金大多希望降低非流动性风险投资的风险。半年前能以 6000 万美元以上 FDV（完全稀释估值）进行前期产品融资的团队，现在连 2000 万美元的估值都到不了了。\n\n\n\n牛市中，创业者可以对投资人在附加价值上挑三拣四；熊市中，钱就是附加价值。\n\n\n过分看重估值，企业可能就没了。我强烈建议创始人除非你有一到两年的现金生命周期，否则一定要融一笔过渡轮资金或者优化团队。许多团队仍然盲目自信，期待熊市很快过去。是时候认清现实了。\n\n\n\n与此同时，我看到很多野生「风投」（例如有侧袋账户（Side Pocket）的做市商）提供的掠夺性条款。我看过一份投资条款清单是这样的：要是 KPI 达成，你可以在接下来一年内从投资者那里获得资金，估值不会发生变化，且没有锁仓机制。\n\n\n\n对风投能带来什么附加价值的极高期望将不再存在。「附加价值」大部分情况下仅仅是一个营销噱头和成本中心。基金会最大程度发出信号，同时尽可能减少实际交付。这就是加密风投行业的现实情况。\n\n\n\n现在，风投和创始人的关系终于调整回正常的均衡状态。\n\n\n\n记住，风投的主要任务是承担风险，是支付薪水和资助高风险初创企业的发展，而不是提供什么「附加价值」服务。就我所见，这当中大部分都是言过其辞。\n\n\n\n少数规模足够大的基金仍有能力在未来几年提供真正的投资组合支持，但它们往往规模过大，无法在最初阶段将资源分配给企业。创始人可以寻找天使投资人，但大多数天使投资人正在减少投资。\n\n\n\n简而言之，给试图融资的创始人的建议是：\n\n\n\n1. 不要试图在价格上过度优化，而要完成交易\n\n\n2. 不要被掠夺性的交易条款迷惑\n\n\n3. 如果在早期阶段，试着寻找投资主题明确和有创业经验的投资人，这些投资人优秀却罕见\n\n\n\n祝你们好运。\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -121,18 +131,7 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
-          "author": null,
-          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
-          "publishedOn": "2022-06-18T19:01:33.000Z",
-          "wordCount": 280,
-          "title": "v1.15.0",
-          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.0"

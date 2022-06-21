@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-21T06:10:22.308Z</updated>
+    <updated>2022-06-21T12:15:51.400Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对话Vitalik父子：网络比金融用例更重要，优先改善以太坊及其技术]]></title>
+        <id>https://www.theblockbeats.info/news/30968</id>
+        <link href="https://www.theblockbeats.info/news/30968"/>
+        <updated>2022-06-21T07:22:24.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Ethereum creator Vitalik and his father, Dima Buterin, on this 『morally clarifying moment』 and why there’s more to crypto than money》
+原文作者： TAYLOR LOCKE，《财富》   
+本文编译来自微信公众号：老雅痞
+
+
+以太坊的创造者并不担心当前的加密货币崩溃，但他不喜欢他的作品变得如此投机。
+
+
+他在十几岁的时候就从他的父亲那里了解到了比特币，他的父亲是一位出生在俄罗斯的工程师和企业家，举家来到加拿大，名叫 Dmitry Buterin。
+
+
+Vitalik 和 Dmitry 对《财富》杂志表示，他们现在已经习惯了这种波动，但今年父亲节，DeFi 最著名的父子组合之一传达了另一个信息：想想加密货币还能有什么其他用途。
+
+
+Vitalik 周三告诉《财富》杂志:「加密货币以前有过上涨，也有过下跌，未来还会有涨跌。」「低谷期当然是充满挑战，尽管这也是最有意义的项目得到培育和建立的时期。」
+
+
+Vitalik 解释说，金钱从来都不是他关注的焦点或动力。他不喜欢以太坊可以用于投机的方面，并认为网络比金融用例更重要。Vitalik 和 Dima 都希望看到金融之外的更多应用，同时继续优先改善以太坊及其技术。他们的行动证实了这一点。
+
+
+有时，Vitalik 会在自己的网站上发表他对未来领域的想法——例如，最近他分享了灵魂绑定代币的想法，其中个人的凭证记录可以记录在链上。其他时候，他写了关于以太坊备受期待的「合并」升级，网络将从工作证明机制转变为股权证明，并大幅减少其对环境的影响。
+
+
+
+
+
+在一次范围广泛的问答中，Vitalik 和 Dima 与《财富》谈论了他们在该领域的旅程、以太坊的遗憾、对该行业未来的希望、备受期待的合并、Ter…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致熊市中的创业者：别对VC和融资挑三拣四]]></title>
         <id>https://www.theblockbeats.info/news/30961</id>
@@ -696,19 +732,6 @@ python 代码
         <summary type="html"><![CDATA[周末荐读：从Celsius到三箭，加密百亿巨头们的多米诺]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.15.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
-        <updated>2022-06-18T19:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
-Added: Item thumbnail fallback to channel thumbnail
-Chore: Dependency updates
-Thank you: @cpwnd]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
