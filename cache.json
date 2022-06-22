@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30991",
+          "author": null,
+          "description": "原文标题：《Foresight Ventures: 去中心化 NFT 交易协议将击败 OpenSea》\n原文作者：Alex @Foresight Ventures\n\n\n摘要：\n\n\n去中心化 NFT 交易协议之于 NFT Market，如同 AMM 之于 DEX。\n\n\nNFT 交易中的核心需求为流动性和价格，所以 NFT 交易平台的真实护城河应建立在商品出售时的流动性和价格优势上。\n\n\n改变格局的聚合器只是作为前端流量入口解决了 NFT 挂单分散的问题，未从根本性解决流动性难题。\n\n\n最有可能解决流动性垄断的不是下一个交易平台或聚合器，而是可以支持共享挂单的协议，从而打破 NFT 工具平台和 NFT \n\n交易平台\n\n之间的界限，使得每一个流量前端都能成为交易平台并共享其挂单，形成去中心化 NFT 交易生态，解决 NFT 挂单的分散性和流动性问题。  \n\n\n\n\n\nCrypto 领域一天，人间一年，而在图圈，可能只有 mint 后的 1 小时。NFT 的狂热和 FOMO，远比任何一个市场都来得更加疯狂，而作为基础设施的 NFT \n\n交易平台\n\n，也已经经历了好几次春秋轮转，真正留下的却没有几家，是因为大多数的交易平台都没有能满足二级市场 NFT 交易时各方（如下图）的需求，而是执着于伪需求来寻求破局。所以我将试图分析 NFT 交易的需求和交易场所的变迁，来探寻未来更优秀的解决方案。  \n\n\n\n\n\n一、市场环境及用户需求：\n\n\n\n\n\n目前主流交易的 NFT 可先分为蓝筹与非蓝筹，而非蓝筹中大致可分为三类：PFP、功能型以及其他特殊种类。（个别蓝筹同样属于功能型或特殊种类）\n\n\n\n\n\n对于蓝筹，由于其价格高昂，且大多数蓝筹持有者更偏钻石手，所以对于流动性的要求没有那么高，反而更看重价格。Pass 卡和 Gamefi 这种具有实际应用场景的功能型 NFT，对于流动性的需求也不大，所以更…",
+          "link": "https://www.theblockbeats.info/news/30991",
+          "publishedOn": "2022-06-22T09:34:04.000Z",
+          "wordCount": null,
+          "title": "如何打破NFT工具平台和NFT交易平台之间的界限？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/30988",
           "author": null,
           "description": "原文作者：0x711&wzp\n\n\n\n\nArbitrum 奥德赛（Arbitrum Odyssey）活动已于北京时间 6 月 22 日凌晨 1 时正式开始。社区普遍期待此次活动将成为获得 Arbitrum 空投的「敲门砖」。好在 GAS 不高，ETH 也相对便宜了很多，交互成本可控。链上数据显示，随着活动开始，跨链交易量出现了迅速增长。\n\n\n\n\n\nArbitrum 奥德赛的活动最主要的目的就是让用户熟悉 Arbitrum，了解 Arbitrum 的逻辑和操作，所以交互方式都不算复杂。\n\n\n那么奥德赛首周活动到底需要做什么，怎么做呢？\n\n\n\n对于不了解以太坊 Layer2 或者 Arbitrum 的用户来说，第一周的任务只算是一个新人培训。用户只需要通过官方指定的跨链桥将 ETH（注意，必须是 ETH）转入 Arbitrum 网络即可达成任务目标。此外，第一周的任务还包含一个额外奖励，即：使用了交易量最大的跨链桥协议的用户，将有资格额外获得一个 NFT 奖励。\n\n\n因此，对于想额外获得第二个 NFT 奖励的用户来说，最优策略或许应该是待活动结束前几个小时，根据链上数据来选择当时交易量最大的跨链桥协议去参与。根据官方资料，BlockBeats 将奥德赛与首周活动的注意事项梳理如下：\n\n\n关于奥德赛活动的细节\n\n\n\n奥德赛什么时候开始？\n北京时间 6 月 22 日 1：00 点开启，第一周为 Bridge week\n\n\n参加有哪些要求？\n只需要 ETH 来支付 Gas 费\n\n\n如果我没有在 Snapshot 投票，我可以参与吗？\n是的，可以参与，不需要在 Snapshot 进行投票。\n\n\n共有多少 NFT？\n总共将提供 17 种不同的 NFT。Bridge week（第 1 周）一个 NFT，如果用户使用桥接 ETH 数量最多的桥，则再获得 1 个奖励 NFT。2-8 周共 14 …",
