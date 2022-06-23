@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-23T00:36:10.782Z</updated>
+    <updated>2022-06-23T06:10:30.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[游戏NFT市场兴起，以Opensea代表的General NFT市场分拆时刻]]></title>
+        <id>https://www.theblockbeats.info/news/30995</id>
+        <link href="https://www.theblockbeats.info/news/30995"/>
+        <updated>2022-06-23T03:38:04.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《IOSG Weekly Brief ｜游戏 NFT 市场：Opensea 最易被切下的蛋糕》
+原文来源：IOSG
+
+
+
+
+Part.1 Insight
+
+
+
+
+
+
+游戏 NFT 市场：Opensea 最易被切下的蛋糕
+ 
+作者：Peter，IOSG Ventures 
+本文仅做行业学习交流之用，不构成任何投资参考  
+
+
+
+ TL; DR 
+
+
+ 
+- 垂直化 NFT 交易市场将兴起，侵蚀 Opensea 市场份额
+- 游戏 NFT 交易市场有望成为首批成功的垂直化平台
+- 目前游戏 NFT 交易市场生态已有雏形
+- 游戏 NFT 交易市场未来将占据更重要的生态位
+
+
+ 
+过去一年的 NFT 市场是疯狂的。似乎从某一刻开始，耳熟能详的明星纷纷购入 NFT，将推特等社交媒体头像换成这些卡通动物图片，加上牛市的炒作和财富效应大多数人也是从这时候开始了解 NFT 并参与其中。许多公司也将 NFT 作为营销手段之一，比如阿迪达斯、李宁、麦当劳、路易威登等。
+
+
+NFT 已经成为了一个文化现象。人们购买 NFT（特别是头像 PFP NFT），加入到某个跟自己个性适配的社区中，通过线上和线下的聚会，与志趣相投的人们连接起来。NFT 变成一个社区的钥匙，填补了人们心理所需的归属感。在明星和财富效应的刺激下，它逐渐具有奢侈品和投资品的特征。
+
+
+数字可以说明一切：根据 Nonfungible.com 的数据，2021 年 NFT 的交易规模为 170 亿美元。而这个数字在 2020 年仅为 8200 万美元，增长超过 200 倍。2021 年持有或者交易过 NFT 的地址超过 250 万个，而这数字 20 年仅为 8.9 万个。而这其中，绝大部分的交易都发生在通用的 NFT 交易市场 Opensea，它一度占有超过 98% 的市场份额。靠着 2.5% 的交易手续费，其最高单月收…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧易研究院：如何熬过熊市寒冬？不同风险偏好用户的生存指南]]></title>
         <id>https://www.theblockbeats.info/news/30993</id>
@@ -432,76 +479,6 @@ Vitalik 解释说，金钱从来都不是他关注的焦点或动力。他不喜
 原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关注DAO从业者的心理健康，如何处理精神债务所带来的压力？]]></title>
-        <id>https://www.theblockbeats.info/news/30960</id>
-        <link href="https://www.theblockbeats.info/news/30960"/>
-        <updated>2022-06-20T14:01:59.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Cultivating Mental Fitness In DAOs》  
-原文作者:   Twoplus
-原文编译：shaun@DAOrayaki.org， DoraFactory
-
-
-
-
-良好的心理健康对我们的生活和事业至关重要。这是我们实现远大目标、维持人际关系和对社区做出有意义贡献的先决条件。
-
-
-
-
-然而，今天的 DAO 在工作中的心理健康受到了围攻。DAO 和贡献者的生活方式中存在的许多挑战，严重损害了这个美好工作的未来。
-
-
-
-
-
-
-
-我们的使命是通过将心理健康作为协作的核心，使数字社区能够茁壮成长并创造积极影响。
-
-
-
-
-「心理健康是指利用资源和技能灵活地适应挑战或优势的可修改的能力，从而实现蓬勃发展（最佳功能）」
-
-
-
-
-我们相信，心理健康使我们能够意识到自己，并可持续地释放我们的全部潜力。作为一个社区，我们正在利用 DAO 的早期优势，使心理健康文化成为 DAO 领域的默认内容。
-
-
-在这篇文章中，我们将对 DAO 和 Web3 中的心理健康进行论证。
-
-
-
-
-- 介绍心理健康
-- DAO 中心理健康的成本
-- 在 DAO 和贡献者的生活方式中注入心理健康的元素
-
-
-
-
-心理健康
-
-
-
-
-心理健康将我们对心理健康的看法从我们忍受的东西转变为我们可以有意培养的东西。就像身体健康一样，采用心理健康的做法意味着训练我们的大脑以获得更好的精神力量、复原力和灵活性。
-
-
-
-
-心理健康与每个人都有关，对 DAO 贡献者来说尤其重要。我们在不断地处理信息，转换语境，即使在 "离线 "时也被拉向各个方向。我们对 "垃圾信息 "的大量消费使我们 "精神超载"，并不断寻找更多的刺激或多巴胺冲击。
-
-
-
-
-过去的工作可能是身体上的疲惫，但在 DAO 中，大部分的消耗是在我们的大脑上。这种新的工作模式要付出巨大的代价，因为随着时间的推移，我们的大脑健康状况会下降，我…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
