@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-24T00:40:19.512Z</updated>
+    <updated>2022-06-24T06:10:18.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BeWater DevCon 2022全球开发者大会——桥接东西方开发者]]></title>
+        <id>https://www.theblockbeats.info/news/31003</id>
+        <link href="https://www.theblockbeats.info/news/31003"/>
+        <updated>2022-06-24T03:58:25.000Z</updated>
+        <summary type="html"><![CDATA[6 月 18 日，BeWater DevCon 2022 全球开发者大会在硅谷湾区成功举办。这是一场首次横跨东西方的交流，会议汇集了线下 100 多位区块链硬核开发者，并和全球开发者视频连线，共同围绕编程语言、密码学、去中心化协议、隐私技术、安全计算、开放金融等领域展开深入探讨。
+
+
+ 
+Mina 协议 CEO Evan Shapiro、 以太坊核心开发者 Austin Griffith、Pagoda 协议负责人 Bowen Wang、Scroll 联合创始人 Ye Zhang、Map Protocol 技术负责人 Moore Lee，XXNetwork 计算机科学家 David Chaum、Arweave 联合创始人 Sam Williams、章鱼网络创始人刘毅，Cube 技术委员会负责人 Jake、Urbit 的技术 VP Stiles Luke、The NFT Brewery 联合创始人 Aman Johar 发表了精彩的演讲。
+
+
+ 
+同时，Polychain Capital, Uphonest
+Capital, DFG Capital, Foresight ventures 的嘉宾进行了圆桌讨论。
+
+
+
+ 
+ 
+社区发起人 BMAN，聊到了 BeWater 社区创立的初心，做一个不焦虑、开放、利他、追求本质的区块链开发者社区。
+
+
+这次 BeWater DevCon 2022 是 BeWater 第一次在硅谷举办 DevCon，也是第一次在线上直播让亚洲的 builder 接入，桥接东西方的开发者，成为东西方开发者之间对话的桥梁。
+
+
+ 
+对西方开发者来说：探讨最前沿的区块链技术和趋势，建设东方开发者社区通道与生态；对东方开发者来说：了解西方前沿区块链技术趋势，与西方 web3 开发者进行对话；
+
+
+ 
+BeWater 将继续像老子在道德经说的，The highe…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长期位居以太坊执行层漏洞赏金榜榜首，Samczsun的白帽黑客之路]]></title>
         <id>https://www.theblockbeats.info/news/31002</id>
@@ -596,58 +632,6 @@ Blockdream Ventures 观点： 
 5 月的活跃地址数为 1699 万，与 4 月的 1636 万相比，增加了 3.8%。 
 5 月的交易数量为 805 万，与 4 月的 782 万相比，增加了 2.94%。 
 5 月份的总交易费…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DappRadar 5月报告：Terra崩盘致DeFi市值下跌45%；NFT交易量环比下降20%]]></title>
-        <id>https://www.theblockbeats.info/news/30985</id>
-        <link href="https://www.theblockbeats.info/news/30985"/>
-        <updated>2022-06-21T12:45:42.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-
-
-2022 年 5 月 DappRadar 区块链行业报告》
-原文来源：
-
-DappRadar
-
-
-
-区块链行业展示了它在因 Terra  崩盘而加剧的加密货币寒冬中变得多么有弹性。NFT  和游戏保持着发展和成熟的迹象，而 DeFi 似乎正开始复苏。
-
-
-前第二大 DeFi 生态系统 Terra 的崩盘，以及相关的 LUNA 代币和 UST 稳定币的崩盘，加剧影响了加密领域的熊市。
-
-
-比特币拖累了整个加密货币市场，自 2020 年 12 月以来首次收于 3 万美元以下。一些山寨币的价格较去年 11 月的峰值下跌了 90%。
-DApp 的活跃度已经跌至今年的最低点，5 月份每天有 222 万个独立活跃钱包（UAW）连接到区块链 DApps。这一数字环比下降了 5%，但仍比 2021 年 5 月高出 32%。
-
-
-然而，尽管基础设施的持续问题通常会破坏网络，但 Solana  的每日 UAW 数量在网络历史上首次超过了 20 万。
-
-
-
-
-
-从积极的方面来看，并非一切都是悲观的。尽管熊市延长，但 DApp 行业已经变得相当有弹性。NFT 市场随着 Goblintown 和 Otherside 等令人耳目一新的项目不断发展，同时推动了虚拟世界的发展。
-
-
-区块链游戏的用户活跃度有所下降，但继续积累的风险投资保持了看涨势头。最重要的是，领先的 DeFi 网络正在争夺 Terra 留下的市场份额。
-
-
-重要要点
-
-
-在 Terra 区块链崩盘中，DeFi 损失了 45% 的价值；Uniswap  的历史交易量超过 1 万亿美元，同时将其功能扩到 Polygon  和 Optimism 。
-
-
-5 月份 NFT 市场创造了 37 亿美元，比 4 月份的美元交易量下降了 20%；但是，以代币衡量的交易量显示仅下降了 6.5%。
-
-
-Otherside 的交易量达到 …]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
