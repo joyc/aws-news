@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31009",
+          "author": null,
+          "description": "原文标题：《\n\nSolidity 极简入门: 8. 构造函数和修饰器\n\n》\n原文作者：0xAA\n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将用合约权限控制（Ownable）的例子介绍 solidity 语言中构造函数（constructor）和独有的修饰器（modifier）。\n\n\n构造函数\n\n\n构造函数（constructor）是一种特殊的函数，每个合约可以定义一个，并在部署合约的时候自动运行一次。它可以用来初始化合约的一些参数，例如初始化合约的 owner 地址：\n\n\n\n\n\n修饰器\n\n\n\n修饰器（modifier）是 solidity 特有的语法，类似于面向对象编程中的 decorator，声明函数拥有的特性，并减少代码冗余。它就像钢铁侠的智能盔甲，穿上它的函数会带有某些特定的行为。modifier 的主要使用场景是运行函数前的检查，例如地址，变量，余额等。\n\n\n钢铁侠的 modifier\n\n\n我们定义一个叫做 onlyOwner 的 modifier：\n\n\n\n\n\n  代有 onlyOwner 修饰符的函数只能被 owner 地址调用，比如下面这个例子：\n\n\n\n\n\n我们定义了一个 changeOwner 函数，运行他可以改变合约的 owner，但是由于 onlyOwner 修饰符的存在，只有原先的 owner 可以调用，别人调用就会报错。这也是最常用的控制智能合约权限的方法。\n\n\nOppenZepplin 的 Ownable 标准实现：  https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中的构造函数和修饰符，并举了一个控制合约权限的 Ownable 合约。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31009",
+          "publishedOn": "2022-06-24T14:00:38.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第八讲：构造函数和修饰器",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31008",
           "author": null,
           "description": "原文标题：《We need to rethink Airdrops next cycle…》\n原文作者：cpt n3m0，Hashed\n原文编译：Bob，BlockBeats\n\n\n空投有助于将项目的 Token 分散供应给公众，并可能使其成为大规模营销计划的一部分，以提高对项目核心产品或新产品的认识。\n\n\n用户通常无需花任何钱即可获得这些 Token，但须符合某些规定的资格条件，并且通常可以在协议即将启动时收到它们，或者在使用协议后追溯性地申领它们。\n\n\n本文研究考察了 31 种不同 Token 空投在 1 年半内的表现，从 2020 年 9 月的 Uniswap（UNI）到 2022 年 4 月的 Evmos（EVMOS）。\n\n\n这并不是最近的 1 年半内所有空投的详尽列表，而是尝试囊括尽可能多的满足以下参数的空投：\n\n\n· Token 与创世纪空投同时上线（即空投不是在 TGE 之后进行的）\n\n\n· 该项目有基于 Gitbook / Public Docs 的某种形式的路线图\n\n\n· 该项目表明空投的意图是奖励现有用户/进一步营销其产品/分散 Token 供应所有权\n\n\n· Token 已经存在了足够长的时间，以提供有意义的数据点\n\n\n首先，让我们看看每个项目为空投分配的 Token 供应百分比的分布：\n\n\n\n\n\n平均而言，项目将其 Token 供应的 7.5% 用于空投 - 通过使用中位数计算，以避免异常值。\n\n\n大多数项目分配总供应量 10% 以下的 Token 供应用于空投；有 26% 的项目空投总量的 10-20%；有 23% 的项目空投总量占比大于 20%。\n\n\n\n\n\n相比之下，项目方倾向于为投资者分配约 10%，为团队成员分配约 15%（根据此处的数据得出），因此对于决定进行空投的项目而言，留出 7.5% 的 Token 供应是一个重要比例。\n\n\n那么，为什…",
@@ -124,26 +134,6 @@
           "wordCount": null,
           "title": "如何打破NFT工具平台和NFT交易平台之间的界限？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30988",
-          "author": null,
-          "description": "原文作者：0x711&wzp\n\n\n\n\nArbitrum 奥德赛（Arbitrum Odyssey）活动已于北京时间 6 月 22 日凌晨 1 时正式开始。社区普遍期待此次活动将成为获得 Arbitrum 空投的「敲门砖」。好在 GAS 不高，ETH 也相对便宜了很多，交互成本可控。链上数据显示，随着活动开始，跨链交易量出现了迅速增长。\n\n\n\n\n\nArbitrum 奥德赛的活动最主要的目的就是让用户熟悉 Arbitrum，了解 Arbitrum 的逻辑和操作，所以交互方式都不算复杂。\n\n\n那么奥德赛首周活动到底需要做什么，怎么做呢？\n\n\n\n对于不了解以太坊 Layer2 或者 Arbitrum 的用户来说，第一周的任务只算是一个新人培训。用户只需要通过官方指定的跨链桥将 ETH（注意，必须是 ETH）转入 Arbitrum 网络即可达成任务目标。此外，第一周的任务还包含一个额外奖励，即：使用了交易量最大的跨链桥协议的用户，将有资格额外获得一个 NFT 奖励。\n\n\n因此，对于想额外获得第二个 NFT 奖励的用户来说，最优策略或许应该是待活动结束前几个小时，根据链上数据来选择当时交易量最大的跨链桥协议去参与。根据官方资料，BlockBeats 将奥德赛与首周活动的注意事项梳理如下：\n\n\n关于奥德赛活动的细节\n\n\n\n奥德赛什么时候开始？\n北京时间 6 月 22 日 1：00 点开启，第一周为 Bridge week\n\n\n参加有哪些要求？\n只需要 ETH 来支付 Gas 费\n\n\n如果我没有在 Snapshot 投票，我可以参与吗？\n是的，可以参与，不需要在 Snapshot 进行投票。\n\n\n共有多少 NFT？\n总共将提供 17 种不同的 NFT。Bridge week（第 1 周）一个 NFT，如果用户使用桥接 ETH 数量最多的桥，则再获得 1 个奖励 NFT。2-8 周共 14 …",
-          "link": "https://www.theblockbeats.info/news/30988",
-          "publishedOn": "2022-06-22T03:53:55.000Z",
-          "wordCount": null,
-          "title": "Arbitrum奥德赛活动开启，你需要注意哪些问题？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30987",
-          "author": null,
-          "description": "原文来源：OKX\n\n\n\n目录\n\n\n\n加密数字货币市场及投资趋势洞见 \n1. 投资机构趋向规避波动和风险 \n\n2. 5 月链上比特币和以太坊的指标仍然相对健康 \n3. NFT 的爆炸性增长刺激了交易市场的发展\n\n\n\n投资项目\n1.SSV Network\n2.everFinance\n3.WAX\n4.Sweatcoin\n\n\n\n5.AlienSwap\n\n\n加密数字货币市场及投资趋势洞见\n\n\n1. 投资机构趋向规避波动和风险。 \n\n\n洞见： \n\n\n5 月份加密市场募资总额为 14.3 亿美元，月度同比下降 78.6%。 \n\n\n2022 年前五个月共筹集了 288 亿美元，而 2021 年为 78.5 亿美元，同比增长增长 291.46%。\n\n\n \n来源: Footprint\n\n\n关于投资的数量： \n\n\n5 月份的投资数量为 82 笔，同比减少 66.3%。这是自 2021 年 4 月以来最低的月份。 \n\n\nWeb3、基础设施和 NFT 是最多的三个赛道。\n \n\n\n来源: Footprint\n\n\n\n\n\n\n\n尽管市场跌宕起伏，机构投资者已经筹集了足够的资金。a16z 宣布为两只加密风险基金筹集了 45 亿美元，该公司为区块链相关实体筹集的资金总额已经飙升至 76 亿美元。\n\n\n\nBlockdream Ventures 观点： \n\n\n\n\n根据数据，机构投资者似乎在规避波动和风险，保留资金并准备进行更安全的投资。创业团队需要更大的信心继续打磨产品。\n\n\n\n2. 5 月链上比特币和以太坊的指标仍然相对健康\n\n\n\n洞见：\n\n\n\n\n根据 Glassnode 的数据，5 月份比特币的链上基本指标为： \n\n\n\n5 月的活跃地址数为 1699 万，与 4 月的 1636 万相比，增加了 3.8%。 \n5 月的交易数量为 805 万，与 4 月的 782 万相比，增加了 2.94%。 \n5 月份的总交易费…",
-          "link": "https://www.theblockbeats.info/news/30987",
-          "publishedOn": "2022-06-22T03:32:55.000Z",
-          "wordCount": null,
-          "title": "OKX Blockdream Ventures月报：5月加密市场募资总额同比下降78.6%；以太坊网络活动仍然健康",
-          "imageUrl": null
         }
       ]
     },
@@ -151,18 +141,7 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "author": null,
-          "description": "Fixed: Favicon used as article image",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "publishedOn": "2022-06-22T06:05:35.000Z",
-          "wordCount": 263,
-          "title": "v1.15.1",
-          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
