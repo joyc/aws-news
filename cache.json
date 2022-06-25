@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31012",
+          "author": null,
+          "description": "在电子游戏领域，从动作射击到休闲解谜各类游戏，几乎每个玩家都可以找到适合自己的游戏类型，但若想体验更具沉浸感和社交性的游戏，则可以尝试探索在线 MMORPG 游戏的世界。\n\n\n然而，当前的 MMORPG 游戏在呈现形式上也会有些千篇一律，往往会更注重战斗，形式转换上更显静态，并且要做到这些，游戏在制作的过程中需要大量的美术师和实际关卡设计。不过，最近一个获得 a16z 2200 万美元领投的 MMORPG 社交沙盒类游戏 BitCraft 正准备改变这种现状。\n\n\nBitCraft 希望游戏在设计方面更加人性化、更加动态，让玩家自己创造世界，并成为游戏中的关卡设计师。因此，团队更关注玩家创造的内容，以及程序生成的内容，而这些都需要一些较为先进的制作技术。\n\n\n同时，BitCraft 这种独特的游戏设计和基础设施创新组合不仅受到了 a16z 游戏投资合伙人 Jon Lai 的青睐，其在底层数据库架构中使用新的专有技术也另 FTX Ventures 总监 Amy Wu、Polygon Studios 首席执行官 Ryan Wyatt 等一众 Web3 游戏大佬印象深刻。目前，该游戏还处于 Pre-Alpha 阶段，接下来 BlockBeats 将为大家做个介绍。\n\n\n\n\n\n游戏介绍\n\n\n\nBitCraft 是 Clockwork Labs 游戏工作室旗下首个跨平台的社区沙盒 MMORPG，将首先在 PC 上提供，该团队从头构建了一个新的分布式数据库架构，旨在实现大规模的扩展和提升性能。\n\n\n在 BitCraft 中，玩家可以作为单人冒险者创造自己的传奇，也可以和其他人一起在具有古老历史、可编辑的荒野中建立新的文明，像在 Minecraft 中那样改变世界。如它们可以驰骋荒野，在世界任何地方创造令人魂牵梦萦的城镇，也可以联合城市建立跨越大陆和海洋的帝国。在这些层面上，BitCra…",
+          "link": "https://www.theblockbeats.info/news/31012",
+          "publishedOn": "2022-06-25T03:44:09.000Z",
+          "wordCount": null,
+          "title": "BitCraft：a16z 领投、Web3 游戏大佬们看好的 MMORPG 游戏前瞻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31010",
+          "author": null,
+          "description": "原文标题：《Top 10 Best Browser Crypto Wallets》\n\n原文作者：William M. Peaster\n原文编译：Yangz，\n\nDeFi 之道\n\n\n\n首先：浏览器钱包是旨在通过网络浏览器使用的加密钱包。\n\n\n对我们大多数人来说，当我们看到「浏览器钱包」时，我们就会想到 MetaMask 这样的浏览器扩展项目，人们可以直接下载到 Chrome、Brave 等浏览器中。\n\n\n但此外还有很多项目。除了钱包扩展，还有各种以浏览器为中心的服务，都属于「浏览器钱包」的范畴。\n\n\n那么，哪一个能提供最大的价值呢？为了回答这个问题，我审查了 10 个不同的浏览器钱包项目，涉及四种不同的钱包风格。它们是：\n\n\n浏览器扩展\n\nMetaMask\nCoinbase  钱包\nGameStop 钱包\nRabby\nMath Wallet\n\n\n有内置钱包的浏览器\n\nBrave\nOpera\n\n\n「任何浏览器」的钱包服务\n\nWalletConnect\nPortis\n\n\n浏览器兼容的桌面钱包\n\nFrame\n\n\n今天，我们将讨论这些钱包的优缺点，并回答这个问题：「哪个是当今最好的浏览器钱包？」\n\n\n让我们拭目以待……\n\n\nMetaMask\n\n\n\n\n\n网站：metamask.io\n支持的浏览器：Chrome, Brave, Firefox, Edge\n支持的链：所有以太坊虚拟机（EVM）区块链\n\n\nMetaMask 扩展是加密经济中最广泛支持的浏览器钱包，已成为所有去中心化应用程序（dapp）的标准\n\n\n优点：\n\n\n易于下载和使用\n很好地解释了钱包恢复短语 + 存储备份的过程\n易于导入现有账户或创建新账户\n与 Ledger、Trezor 和 GridPlus 硬件钱包兼容\n钱包内加密互换系统\n\n\n缺点：\n\n\n不能像智能合约钱包那样找回丢失的账户\n由于 MetaMask 非常受欢迎，其…",
+          "link": "https://www.theblockbeats.info/news/31010",
+          "publishedOn": "2022-06-25T02:44:09.000Z",
+          "wordCount": null,
+          "title": "Bankless：速览十大浏览器钱包及其优缺点",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31009",
           "author": null,
           "description": "原文标题：《\n\nSolidity 极简入门: 8. 构造函数和修饰器\n\n》\n原文作者：0xAA\n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将用合约权限控制（Ownable）的例子介绍 solidity 语言中构造函数（constructor）和独有的修饰器（modifier）。\n\n\n构造函数\n\n\n构造函数（constructor）是一种特殊的函数，每个合约可以定义一个，并在部署合约的时候自动运行一次。它可以用来初始化合约的一些参数，例如初始化合约的 owner 地址：\n\n\n\n\n\n修饰器\n\n\n\n修饰器（modifier）是 solidity 特有的语法，类似于面向对象编程中的 decorator，声明函数拥有的特性，并减少代码冗余。它就像钢铁侠的智能盔甲，穿上它的函数会带有某些特定的行为。modifier 的主要使用场景是运行函数前的检查，例如地址，变量，余额等。\n\n\n钢铁侠的 modifier\n\n\n我们定义一个叫做 onlyOwner 的 modifier：\n\n\n\n\n\n  代有 onlyOwner 修饰符的函数只能被 owner 地址调用，比如下面这个例子：\n\n\n\n\n\n我们定义了一个 changeOwner 函数，运行他可以改变合约的 owner，但是由于 onlyOwner 修饰符的存在，只有原先的 owner 可以调用，别人调用就会报错。这也是最常用的控制智能合约权限的方法。\n\n\nOppenZepplin 的 Ownable 标准实现：  https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中的构造函数和修饰符，并举了一个控制合约权限的 Ownable 合约。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -113,16 +133,6 @@
           "publishedOn": "2022-06-23T03:38:04.000Z",
           "wordCount": null,
           "title": "游戏NFT市场兴起，以Opensea代表的General NFT市场分拆时刻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30993",
-          "author": null,
-          "description": "原文来源：欧易研究院\n\n\n任何历史事件都不是孤立存在的，要么受制于因果关系，要么被约束于关联关系。无论是经济危机还是战争危机，抑或是政治危机，概莫能外。\n—《危机：1520-2021》\n \n1/危机丛生，熊市可能刚刚开始\n \n加密货币总市值跌破一万亿美元大关，行业陷入至暗时刻。\n \n宏观层面，美联储持续加息，本月 14 日宣布加息 75 个基点，为 1994 年以来之最。欧易高级研究员赵伟指出，此前美联储连续加息并未达到抑制通胀的目标，动作才会越发激进。美联储还表示今年将继续以几十年来最快速度加息，此举将进一步影响市场走势。\n \n加息意味着资金流出，对于曾在美元放水背景下崛起的加密市场而言，现在面临则是美元「抽水」带来的流动性缩减问题。也就是说，加密市场与其他次级市场需要消化 CPI 超出预期而带来的美股下跌的后果。\n \n微观层面，Luna 崩盘、Celsius 挤兑、三箭爆仓，多米诺骨牌效应席卷加密市场，循环借贷产生的高杠杆泡沫被无情戳破，市场正在由流动性危机陷入到流动性枯竭，甚至可能演变成一众加密机构资不抵债后引发的系统性崩盘困局。\n \n回顾行情走势，显而易见的是，加密货币市场自 2022 年开年就开启了下行走势，本周已是大盘连续下跌的第 13 周，但市场情绪却是在 5 月初 Luna 崩盘事件后才全面陷入恐慌。\n \n如果说价格下跌是走熊的信号，那叙事的破产则在一定程度上意味着正式入熊。\n \n鉴于加密货币市场从未承受过如此大规模地去杠杆「运动」，大多数行业意见领袖对后市持悲观态度，他们普遍认为熊市将持续至比特币第四次减半前后，甚至更久。\n \n结论是未知的，但综合来看，当前市场环境的确不容乐观，虽然 ETH2.0 有望在年底完成合并正式上线，但仍具有不确定性。欧易研究院高级研究员赵伟也建议用户应多观望，选择稳健投资策略，在熊市中活下来。\n \n2/如何过冬？这里有一份生存指…",
-          "link": "https://www.theblockbeats.info/news/30993",
-          "publishedOn": "2022-06-22T13:51:50.000Z",
-          "wordCount": null,
-          "title": "欧易研究院：如何熬过熊市寒冬？不同风险偏好用户的生存指南",
           "imageUrl": null
         }
       ]
