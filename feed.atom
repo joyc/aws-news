@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-25T06:09:50.076Z</updated>
+    <updated>2022-06-25T12:12:28.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multicoin：NFT平台的未来迭代之路]]></title>
+        <id>https://www.theblockbeats.info/news/31015</id>
+        <link href="https://www.theblockbeats.info/news/31015"/>
+        <updated>2022-06-25T07:47:13.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Beyond Verticalization of NFT Marketplaces》
+原文作者：Kyle Samani
+原文编译：Kxp，BlockBeats
+
+
+为什么 OpenSea 和 Magic Eden 上的用户体验大致相同？（主页上的搜索框、收藏页面左侧的过滤器、同样的搜索结果展示界面，等等）
+
+
+
+或者，从另一个角度来看，为什么 OpenSea 或 Magic Eden 的首页并不展示活动详情（如 Fractal 或 Hawku）、直播（如 Twitch），或近期 NFT 游戏锦标赛的赛果？
+
+
+
+要回答这些问题，我们就必须回看一下 OpenSea 的发展历程。OpenSea 成立于 2018 年，当时它只有少数几个 NFT 系列作品，如 CryptoPunks——一个由 10000 个像素化的 NFT 组成的作品集，可以进行简单的筛选和过滤。Bored Ape Yacht Club (BAYC) 显然受到 CryptoPunks 的很大启发，制作了 10000 张由算法生成的图像，同样可以进行筛选过滤。从实际用途上来看，这两个 NFT 系列是相同的。之后，OpenSea 上涌现出了大量的 PFP 作品集——Pudgy Penguins、Moonbirds、DeGods、Solana MonkeyBusiness (SMB)、Azukis 等，它们都有着类似的结构模型和历史范式。除了艺术表现以外，这些系列作品在本身的设计上没有太多实际的差异（虽然它们都各自有不同的社区）。
+
+
+
+现如今，社区只能遵守市场的技术规范，但显然这并不合理。相反，市场才应该按照每个社区的特性制定规范。在线社区囊括了 DeFi、NFT、DAO、社交 Token 等新兴元素，设计空间非常广阔。
+
+
+
+人们普遍认为，NFT 市场平台将纵向发展，毕竟域名空间交易平台（如.eth …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAYC创始人反驳Nazi指控：BAYC的设计灵感到底是什么？]]></title>
+        <id>https://www.theblockbeats.info/news/31013</id>
+        <link href="https://www.theblockbeats.info/news/31013"/>
+        <updated>2022-06-25T05:47:13.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《A letter from the Founders》
+原文作者：Gordon Goner
+原文编译：0x9F，BlockBeats
+
+
+
+你可能已经听说了，我们已经成为一场疯狂的造谣运动的目标。我们一个犹太人、一个土耳其人、一个巴基斯坦人和一个古巴人，被指责是超级隐秘的 Nazi 分子。
+
+
+
+尽管为保护世界各地的犹太人免受这种仇恨和诽谤而存在的 ADL（反诽谤联盟）已经证实这不是真的，但喷子们仍在网上散布荒谬的阴谋论，并利用它们来销售山寨 NFT。
+
+
+
+我们之前已经回应了很多这种废话（这里和这里）。其他人也已经站出来，详细地指出了这一点：https://twitter.com/The_True_DanK/status/1539089935558492161?s=20&t=a_QHmnHB3bjuwKxo0d6Fmg
+
+
+
+我们没有进一步回应这些指控的细节，因为坦率地说，这些指控牵强得离谱。我们今天早上醒来，发现我们尊敬的一位播客主理人正在谈论这个阴谋论，这实在是不正常。这让我们觉得是时候站出来，结束这一切了。
+
+
+
+所以我们开始吧：
+
+
+
+1. 为什么我们的 NFT 系列以猿猴为主题？
+
+
+
+在加密世界，很长以来人们亲切地称自己为猿猴，这就是为什么在 CryptoPunk 系列中一些最稀有和最有价值的 NFT 就是猿猴，它们可以追溯到 2017 年。
+
+
+
+我们喜欢这个主意，围绕猿猴创建一个 NFT 系列，这些猿猴因加密繁荣而富有起来，也变得非常……无聊。一只无聊的猿猴该做什么？也许是去一个沼泽里的秘密俱乐部。
+
+
+
+2. BAYC Logo 的设计灵感是什么？
+
+
+
+我们从来不想把自己看得太严肃，所以俱乐部的外观又脏又破。BAYC 的一切都是为了传达一种不羁和荒谬的精神。
+
+
+
+这是一个「游艇俱乐部」，实际上已经分崩离析，而且位于沼泽地的中心地带。因此，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitCraft：a16z 领投、Web3 游戏大佬们看好的 MMORPG 游戏前瞻]]></title>
         <id>https://www.theblockbeats.info/news/31012</id>
