@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-24T18:10:50.620Z</updated>
+    <updated>2022-06-25T00:42:01.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -649,64 +649,6 @@ NFT 已经成为了一个文化现象。人们购买 NFT（特别是头像 PFP N
 结论是未知的，但综合来看，当前市场环境的确不容乐观，虽然 ETH2.0 有望在年底完成合并正式上线，但仍具有不确定性。欧易研究院高级研究员赵伟也建议用户应多观望，选择稳健投资策略，在熊市中活下来。
  
 2/如何过冬？这里有一份生存指…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何打破NFT工具平台和NFT交易平台之间的界限？]]></title>
-        <id>https://www.theblockbeats.info/news/30991</id>
-        <link href="https://www.theblockbeats.info/news/30991"/>
-        <updated>2022-06-22T09:34:04.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Foresight Ventures: 去中心化 NFT 交易协议将击败 OpenSea》
-原文作者：Alex @Foresight Ventures
-
-
-摘要：
-
-
-去中心化 NFT 交易协议之于 NFT Market，如同 AMM 之于 DEX。
-
-
-NFT 交易中的核心需求为流动性和价格，所以 NFT 交易平台的真实护城河应建立在商品出售时的流动性和价格优势上。
-
-
-改变格局的聚合器只是作为前端流量入口解决了 NFT 挂单分散的问题，未从根本性解决流动性难题。
-
-
-最有可能解决流动性垄断的不是下一个交易平台或聚合器，而是可以支持共享挂单的协议，从而打破 NFT 工具平台和 NFT 
-
-交易平台
-
-之间的界限，使得每一个流量前端都能成为交易平台并共享其挂单，形成去中心化 NFT 交易生态，解决 NFT 挂单的分散性和流动性问题。  
-
-
-
-
-
-Crypto 领域一天，人间一年，而在图圈，可能只有 mint 后的 1 小时。NFT 的狂热和 FOMO，远比任何一个市场都来得更加疯狂，而作为基础设施的 NFT 
-
-交易平台
-
-，也已经经历了好几次春秋轮转，真正留下的却没有几家，是因为大多数的交易平台都没有能满足二级市场 NFT 交易时各方（如下图）的需求，而是执着于伪需求来寻求破局。所以我将试图分析 NFT 交易的需求和交易场所的变迁，来探寻未来更优秀的解决方案。  
-
-
-
-
-
-一、市场环境及用户需求：
-
-
-
-
-
-目前主流交易的 NFT 可先分为蓝筹与非蓝筹，而非蓝筹中大致可分为三类：PFP、功能型以及其他特殊种类。（个别蓝筹同样属于功能型或特殊种类）
-
-
-
-
-
-对于蓝筹，由于其价格高昂，且大多数蓝筹持有者更偏钻石手，所以对于流动性的要求没有那么高，反而更看重价格。Pass 卡和 Gamefi 这种具有实际应用场景的功能型 NFT，对于流动性的需求也不大，所以更…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
