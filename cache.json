@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31014",
+          "author": null,
+          "description": "2022 年的 NFT NYC 活动已闭幕，作为一年一度的 NFT 盛宴，本届大会除了王牌 NFT 项目「无聊猿」Bored Ape Yacht Club 外，新晋蓝筹 Doodles、MoonBird、Azuki 等项目的社区活动同样令人惊艳。\n\n\n虽然一度深陷「种族歧视」和吹捧「纳粹精神」的负面新闻里，但 Bored Ape Yacht Club 的活动依旧被社区用户们感叹为「最有排面」。在 ApeFest2022 现场，知名说唱歌手 Eminem 和 Snoop Dogg 公布了最新单曲《From the D 2 the LBC》，将活动氛围推向了高点。其他 NFT 项目社区的活动也同样精彩，NFT NYC 也完美诠释了艺术、娱乐难分家的理念。除了 Eminem，还有不少中国用户熟悉的港澳台明星，如余文乐、伊能静、冯德伦等到场助阵。\n\n\n现在 BlockBeats 就带大家一起「云」逛 2022 年的 NFT NYC 游乐场！\n\n\n\n\n\nBored Ape Yacht Club\n\n\n活动表演：Eminem / Snoop Dogg\n\n\nBored Ape Yacht Club 今年再度蝉联 OpenSea 颁发的「最具创新性 NFT 项目」奖项。虽然今年 NFT 市场再度爆发，迎来了多个新创意项目，对 Bored Ape Yacht Club 的龙头地位发起了挑战，即使深陷负面消息，Bored Ape Yacht Club 依旧靠着最有说服力的价格和成交量，依旧把持 2022 年 NO.1 的 NFT 宝座。活动现场更是请来了 Eminem 和 Snoop Dogg 现场演绎，再次成功「破圈」。\n\n\n \n\n\n\n\n\n\nDoodles\n\n\nDoodles 是 2021 年横空出世的黑马项目。优质的画风和实力创始团队让项目一经发售就吸引了不少用户关注。随后价格更是一路走高，…",
+          "link": "https://www.theblockbeats.info/news/31014",
+          "publishedOn": "2022-06-25T11:29:42.000Z",
+          "wordCount": null,
+          "title": "「云」逛2022年NFT NYC现场，众星云集的NFT嘉年华",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31015",
           "author": null,
           "description": "原文标题：《Beyond Verticalization of NFT Marketplaces》\n原文作者：Kyle Samani\n原文编译：Kxp，BlockBeats\n\n\n为什么 OpenSea 和 Magic Eden 上的用户体验大致相同？（主页上的搜索框、收藏页面左侧的过滤器、同样的搜索结果展示界面，等等）\n\n\n\n或者，从另一个角度来看，为什么 OpenSea 或 Magic Eden 的首页并不展示活动详情（如 Fractal 或 Hawku）、直播（如 Twitch），或近期 NFT 游戏锦标赛的赛果？\n\n\n\n要回答这些问题，我们就必须回看一下 OpenSea 的发展历程。OpenSea 成立于 2018 年，当时它只有少数几个 NFT 系列作品，如 CryptoPunks——一个由 10000 个像素化的 NFT 组成的作品集，可以进行简单的筛选和过滤。Bored Ape Yacht Club (BAYC) 显然受到 CryptoPunks 的很大启发，制作了 10000 张由算法生成的图像，同样可以进行筛选过滤。从实际用途上来看，这两个 NFT 系列是相同的。之后，OpenSea 上涌现出了大量的 PFP 作品集——Pudgy Penguins、Moonbirds、DeGods、Solana MonkeyBusiness (SMB)、Azukis 等，它们都有着类似的结构模型和历史范式。除了艺术表现以外，这些系列作品在本身的设计上没有太多实际的差异（虽然它们都各自有不同的社区）。\n\n\n\n现如今，社区只能遵守市场的技术规范，但显然这并不合理。相反，市场才应该按照每个社区的特性制定规范。在线社区囊括了 DeFi、NFT、DAO、社交 Token 等新兴元素，设计空间非常广阔。\n\n\n\n人们普遍认为，NFT 市场平台将纵向发展，毕竟域名空间交易平台（如.eth …",
@@ -143,16 +153,6 @@
           "publishedOn": "2022-06-23T06:18:40.000Z",
           "wordCount": null,
           "title": "dYdX「逃离」以太坊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30995",
-          "author": null,
-          "description": "原文标题：《IOSG Weekly Brief ｜游戏 NFT 市场：Opensea 最易被切下的蛋糕》\n原文来源：IOSG\n\n\n\n\nPart.1 Insight\n\n\n\n\n\n\n游戏 NFT 市场：Opensea 最易被切下的蛋糕\n \n作者：Peter，IOSG Ventures \n本文仅做行业学习交流之用，不构成任何投资参考  \n\n\n\n TL; DR \n\n\n \n- 垂直化 NFT 交易市场将兴起，侵蚀 Opensea 市场份额\n- 游戏 NFT 交易市场有望成为首批成功的垂直化平台\n- 目前游戏 NFT 交易市场生态已有雏形\n- 游戏 NFT 交易市场未来将占据更重要的生态位\n\n\n \n过去一年的 NFT 市场是疯狂的。似乎从某一刻开始，耳熟能详的明星纷纷购入 NFT，将推特等社交媒体头像换成这些卡通动物图片，加上牛市的炒作和财富效应大多数人也是从这时候开始了解 NFT 并参与其中。许多公司也将 NFT 作为营销手段之一，比如阿迪达斯、李宁、麦当劳、路易威登等。\n\n\nNFT 已经成为了一个文化现象。人们购买 NFT（特别是头像 PFP NFT），加入到某个跟自己个性适配的社区中，通过线上和线下的聚会，与志趣相投的人们连接起来。NFT 变成一个社区的钥匙，填补了人们心理所需的归属感。在明星和财富效应的刺激下，它逐渐具有奢侈品和投资品的特征。\n\n\n数字可以说明一切：根据 Nonfungible.com 的数据，2021 年 NFT 的交易规模为 170 亿美元。而这个数字在 2020 年仅为 8200 万美元，增长超过 200 倍。2021 年持有或者交易过 NFT 的地址超过 250 万个，而这数字 20 年仅为 8.9 万个。而这其中，绝大部分的交易都发生在通用的 NFT 交易市场 Opensea，它一度占有超过 98% 的市场份额。靠着 2.5% 的交易手续费，其最高单月收…",
-          "link": "https://www.theblockbeats.info/news/30995",
-          "publishedOn": "2022-06-23T03:38:04.000Z",
-          "wordCount": null,
-          "title": "游戏NFT市场兴起，以Opensea代表的General NFT市场分拆时刻",
           "imageUrl": null
         }
       ]
