@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-26T12:13:07.428Z</updated>
+    <updated>2022-06-26T18:08:11.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -587,42 +587,6 @@ EyesFi 官方推特：https://twitter.com/EyesFi_xyz
 本文来自投稿，不代表 BlockBeats 观点。
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeWater DevCon 2022全球开发者大会——桥接东西方开发者]]></title>
-        <id>https://www.theblockbeats.info/news/31003</id>
-        <link href="https://www.theblockbeats.info/news/31003"/>
-        <updated>2022-06-24T03:58:25.000Z</updated>
-        <summary type="html"><![CDATA[6 月 18 日，BeWater DevCon 2022 全球开发者大会在硅谷湾区成功举办。这是一场首次横跨东西方的交流，会议汇集了线下 100 多位区块链硬核开发者，并和全球开发者视频连线，共同围绕编程语言、密码学、去中心化协议、隐私技术、安全计算、开放金融等领域展开深入探讨。
-
-
- 
-Mina 协议 CEO Evan Shapiro、 以太坊核心开发者 Austin Griffith、Pagoda 协议负责人 Bowen Wang、Scroll 联合创始人 Ye Zhang、Map Protocol 技术负责人 Moore Lee，XXNetwork 计算机科学家 David Chaum、Arweave 联合创始人 Sam Williams、章鱼网络创始人刘毅，Cube 技术委员会负责人 Jake、Urbit 的技术 VP Stiles Luke、The NFT Brewery 联合创始人 Aman Johar 发表了精彩的演讲。
-
-
- 
-同时，Polychain Capital, Uphonest
-Capital, DFG Capital, Foresight ventures 的嘉宾进行了圆桌讨论。
-
-
-
- 
- 
-社区发起人 BMAN，聊到了 BeWater 社区创立的初心，做一个不焦虑、开放、利他、追求本质的区块链开发者社区。
-
-
-这次 BeWater DevCon 2022 是 BeWater 第一次在硅谷举办 DevCon，也是第一次在线上直播让亚洲的 builder 接入，桥接东西方的开发者，成为东西方开发者之间对话的桥梁。
-
-
- 
-对西方开发者来说：探讨最前沿的区块链技术和趋势，建设东方开发者社区通道与生态；对东方开发者来说：了解西方前沿区块链技术趋势，与西方 web3 开发者进行对话；
-
-
- 
-BeWater 将继续像老子在道德经说的，The highe…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
