@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31016",
+          "author": null,
+          "description": "本文梳理自 azf.eth 在个人社交媒体平台上的观点，BlockBeats 对其整理翻译如下：\n\n\n回顾过去\n\n\n在展望未来之前，先让我们回顾一下过去的一年吧。在过去的一年中，飞速发展的 NFT 市场主要有着以下焦点：\n\n\n\n\n\n与由官方实体支持的法币或由商业基本面支持的股票相比，加密货币/NFT 完全依赖于市场情绪。因此，加密货币/NFT 是世界上最不稳定的资产之一。\n\n\n\n被市场情绪驱动的比特币\n\n\n情绪驱动的不稳定性在 NFT 市场尤甚。OpenSea、 LooksRare 等 NFT 交易平台不断向我们展示一周赚十倍、百倍从而改变人生的暴富神话，他们已然成了「数字赌场」。「投机推文」拥有点石成金的能力，它们能让某个 NFT 系列的价值快速翻倍，至于其真假与否，并不重要。\n\n\n\nYugaLabs 联合创始人 @GordonGoner 说他身旁的这个男人开始发出「哥布林」的声音，goblintown.wtf 的地板价瞬间起飞\n\n\nNFT 在很大程度上是一种「注意力经济」——某些大 V 的每条推文都有极高的关注度，这种力量在 NFT 市场中强大得让人难以置信。有些大 V 会负责任地使用这种力量，而有些则不会。\n\n\nMeme + CC0\n\n\n\nMeme 是文化的一种体现。它难以形容，但每个人都懂——简直与 NFT 是天作之合。\n\n\n \n在「Kevin」Meme 最火的时候，下面这个玩意卖出了 8.88ETH(2.64 万美元) 的价格。Meme 文化会永存，但组成这永存文化的一个个独立符号并不一定，它们可能将被遗忘。\n\n\n\n8.88ETH 的 Kevin\n\n\n大多数 Meme 项目也都是 CC0 项目，如 CrypToadz、mfers、goblintown.wtf...。作为这些项目持有者的你甚至都不拥有这些艺术品，但无所谓，这些项目的价值是 Meme 与社区氛围而不是…",
+          "link": "https://www.theblockbeats.info/news/31016",
+          "publishedOn": "2022-06-26T03:08:41.000Z",
+          "wordCount": null,
+          "title": "前面有什么？——半年期NFT应用「狂想曲」",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31014",
           "author": null,
           "description": "2022 年的 NFT NYC 活动已闭幕，作为一年一度的 NFT 盛宴，本届大会除了王牌 NFT 项目「无聊猿」Bored Ape Yacht Club 外，新晋蓝筹 Doodles、MoonBird、Azuki 等项目的社区活动同样令人惊艳。\n\n\n虽然一度深陷「种族歧视」和吹捧「纳粹精神」的负面新闻里，但 Bored Ape Yacht Club 的活动依旧被社区用户们感叹为「最有排面」。在 ApeFest2022 现场，知名说唱歌手 Eminem 和 Snoop Dogg 公布了最新单曲《From the D 2 the LBC》，将活动氛围推向了高点。其他 NFT 项目社区的活动也同样精彩，NFT NYC 也完美诠释了艺术、娱乐难分家的理念。除了 Eminem，还有不少中国用户熟悉的港澳台明星，如余文乐、伊能静、冯德伦等到场助阵。\n\n\n现在 BlockBeats 就带大家一起「云」逛 2022 年的 NFT NYC 游乐场！\n\n\n\n\n\nBored Ape Yacht Club\n\n\n活动表演：Eminem / Snoop Dogg\n\n\nBored Ape Yacht Club 今年再度蝉联 OpenSea 颁发的「最具创新性 NFT 项目」奖项。虽然今年 NFT 市场再度爆发，迎来了多个新创意项目，对 Bored Ape Yacht Club 的龙头地位发起了挑战，即使深陷负面消息，Bored Ape Yacht Club 依旧靠着最有说服力的价格和成交量，依旧把持 2022 年 NO.1 的 NFT 宝座。活动现场更是请来了 Eminem 和 Snoop Dogg 现场演绎，再次成功「破圈」。\n\n\n \n\n\n\n\n\n\nDoodles\n\n\nDoodles 是 2021 年横空出世的黑马项目。优质的画风和实力创始团队让项目一经发售就吸引了不少用户关注。随后价格更是一路走高，…",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-06-24T03:58:25.000Z",
           "wordCount": null,
           "title": "BeWater DevCon 2022全球开发者大会——桥接东西方开发者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31002",
-          "author": null,
-          "description": "原文标题：《加密行业顶级白帽黑客 samczsun 是如何诞生的？》\n原文作者：谷昱，链捕手  \n\n\n「U up?」（你醒着吗？）  \n\n\n\n\n\n\n这句来自 samczsun 的询问，是任何 DeFi 项目方最害怕收到的消息之一，因为这很可能意味着 samczsun 发现了该项目智能合约存在严重漏洞，用户资产随时有可能被黑客盗走。\n\n\n在加密世界，各类协议的智能合约漏洞屡见不鲜，成为黑客眼中诱人的「肥肉」。据 Footprint Analytics 统计，2021 年至少 90 个 DeFi 项目遭遇各种攻击，初始损失金额超过 10 亿美元，给普通用户带来极大的损失。不过在黑客肆意妄为的同时，也有许多白帽黑客在帮助项目方提前发掘智能合约漏洞。\n\n\nsamczsun 就是加密行业最为知名的白帽黑客，没有之一。过去几年，samczsun 通过向项目方私信，至少帮助二十余个项目提前发现系统漏洞，避免了数亿美元的损失，包括 Sushiswap、ENS、Rari、Tokenlon 等。\n\n\nsamczsun 的正式身份是著名加密风投机构 Paradigm 研究合伙人，专注于 Paradigm 的投资组合公司以及对安全和相关主题的研究，他的所有公开发声几乎都是对加密项目漏洞的报告与分析，以保护加密生态的健康发展。\n\n\n尽管 samczsun 曾表示会优先考虑审查投资组合公司计划发布新代码，但他披露漏洞的项目大部分都并非 Paradigm 的投资组合项目，例如 Sushiswap、ENS、ForTube、Tokenlon 等，这也使得他成为对 DeFi 生态乃至加密行业安全领域贡献最大、影响力最高的人物之一。\n\n\nDragonfly Capital 合伙人 Haseeb 近期就在采访中称，他认为 samczsun 是在 Web3 工作的最聪明的人。Paradigm 另一名合伙人 Dan …",
-          "link": "https://www.theblockbeats.info/news/31002",
-          "publishedOn": "2022-06-23T14:33:22.000Z",
-          "wordCount": null,
-          "title": "长期位居以太坊执行层漏洞赏金榜榜首，Samczsun的白帽黑客之路",
           "imageUrl": null
         }
       ]
