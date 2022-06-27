@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31023",
+          "author": null,
+          "description": "原文标题：《\n\n骨牌效应缓解，否极能否泰来？｜Foresight Ventures Weekly Brief\n\n》\n原文作者：Chelsea Jonas，Foresight Research\n\n\n市场观点  \n\n\n宏观流动性\n\n\n货币流动性整体紧缩。鲍威尔再发抗击通胀的鹰派言论，提出美联储坚定致力于继续加息，直到通胀放缓至 2% 的目标。2 年期美债最高升到 3.4% 以上，体现了全年 325bp 的加息预期。对应的加息节奏是 7 月 75bp，9 月和 11 月 50bp，12 月 25bp。最直接影响加息的两个指标是：通胀 CPI（油价为主）和失业率，接下来需要关注 7 月 8 日失业率和 13 日 CPI。而大宗商品的暴跌也许预示本轮通胀已到顶回落。\n\n\n后续美股可能还有一波因为盈利预期恶化带来的下跌。BTC 跟随美股下跌，历史上首次跌破上次牛市顶点，急跌之后或有修复性的盘整。\n\n\n\n\n\n链上指标\n\n\n熊市的骨牌效应推进到一个新阶段。本周流入交易平台的 BTC 数量处于 2018 年以来的最高水平。1 年以上的长期持有者减少了 17.8 万枚 BTC，相当于他们总持有量的 1.3%。这反映出即使是强势持币的人群中，也存在大量的恐慌。处于盈利的持币地址下降到只有 49%，历史上熊市的最低点的盈利地址在 40-45% 之间。\n\n\n\n\n\n\n\n\nStablecoin 持续在流出。USDT 从 5 月 11 日历史最高点到目前下降了 150 亿；USDC 从 5 月 11 日阶段低点增长了 71 亿，头部 Stablecoin 整体日减 2%。中心化交易平台的 BTC/ETH 百万级别买卖交易撮合差价也从 0.1% 扩大至 0.6%。大资金撤离，流动性危机仍在延续。\n\n\n\n\n\n\nBTC 长期市场指标\n\n\n长期趋势指标 MVRV-ZScore 以市场总成本作为依据，反映市场总体盈…",
+          "link": "https://www.theblockbeats.info/news/31023",
+          "publishedOn": "2022-06-27T14:19:49.000Z",
+          "wordCount": null,
+          "title": "骨牌效应缓解，否极能否泰来？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31028",
           "author": null,
           "description": "原文标题：《Web3 Payment Rail》\n原文作者：Paul Veradittakit，Pantera Capital 合伙人\n原文编译：wzp、0x9F，BlockBeats\n\n\n\n大多数企业的财务运作包括例如租金、账单、订阅、工资单这样的周期性支付。如今，由于在区块链上执行交易人工操作非常复杂，使用加密渠道处理这些类型的周期性支付需要极其密集的操作。\n\n\n\nLoop Crypto 是一个新的平台，允许组织将循环的加密交易自动化，大大降低了处理区块链上企业财务操作的复杂性。\n\n\n\nLoop 的核心产品类似于传统银行的自动支付功能；通过一次批准，Loop 用户就可以自动执行循环交易，因此他们不必在每笔支付期间重新签署和重新提交同样的交易。它通过将执行周期性交易的责任从终端用户委托给自动化的智能合约，实现了自动调用的支付。\n\n\n\nTL;DR  Loop 核心的自动支付产品包括：\n\n\n\n1. Webhook：使企业可以轻松将加密支付整合到现有金融基础设施中\n\n\n\n2. 允许客户，而不仅仅是企业的财务经理，授权周期性的支付，支持基于加密的订阅服务等等\n\n\n\n3. 针对交易进行自动错误处理，包括验证交易是否已完成和重试支付\n\n\n\n4. 一个强大的分析平台，为企业提供有关加密支付深入见解，并自动汇总交易历史、收据等信息\n\n\n\n5. Loop 还允许用户自动执行周期性掉期，即 Loop 代表他们对选定的 AMM 进行循环交易。这使投资者能够轻松地实施美元成本平均化策略，并更好地自动管理其投资组合\n\n\n\nLoop 由 Elena Steinman 和 Shane van Coller 创立，他们之前帮助建立了交易速度超快的 DeFi 交易平台 bloXroute。该公司近期完成 400 万美元种子轮融资，a16z 领投，Alchemy Ventures、CoinList 和数十位…",
@@ -123,36 +133,6 @@
           "publishedOn": "2022-06-25T07:47:13.000Z",
           "wordCount": null,
           "title": "Multicoin：NFT平台的未来迭代之路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31013",
-          "author": null,
-          "description": "原文标题：《A letter from the Founders》\n原文作者：Gordon Goner\n原文编译：0x9F，BlockBeats\n\n\n\n你可能已经听说了，我们已经成为一场疯狂的造谣运动的目标。我们一个犹太人、一个土耳其人、一个巴基斯坦人和一个古巴人，被指责是超级隐秘的 Nazi 分子。\n\n\n\n尽管为保护世界各地的犹太人免受这种仇恨和诽谤而存在的 ADL（反诽谤联盟）已经证实这不是真的，但喷子们仍在网上散布荒谬的阴谋论，并利用它们来销售山寨 NFT。\n\n\n\n我们之前已经回应了很多这种废话（这里和这里）。其他人也已经站出来，详细地指出了这一点：https://twitter.com/The_True_DanK/status/1539089935558492161?s=20&t=a_QHmnHB3bjuwKxo0d6Fmg\n\n\n\n我们没有进一步回应这些指控的细节，因为坦率地说，这些指控牵强得离谱。我们今天早上醒来，发现我们尊敬的一位播客主理人正在谈论这个阴谋论，这实在是不正常。这让我们觉得是时候站出来，结束这一切了。\n\n\n\n所以我们开始吧：\n\n\n\n1. 为什么我们的 NFT 系列以猿猴为主题？\n\n\n\n在加密世界，很长以来人们亲切地称自己为猿猴，这就是为什么在 CryptoPunk 系列中一些最稀有和最有价值的 NFT 就是猿猴，它们可以追溯到 2017 年。\n\n\n\n我们喜欢这个主意，围绕猿猴创建一个 NFT 系列，这些猿猴因加密繁荣而富有起来，也变得非常……无聊。一只无聊的猿猴该做什么？也许是去一个沼泽里的秘密俱乐部。\n\n\n\n2. BAYC Logo 的设计灵感是什么？\n\n\n\n我们从来不想把自己看得太严肃，所以俱乐部的外观又脏又破。BAYC 的一切都是为了传达一种不羁和荒谬的精神。\n\n\n\n这是一个「游艇俱乐部」，实际上已经分崩离析，而且位于沼泽地的中心地带。因此，…",
-          "link": "https://www.theblockbeats.info/news/31013",
-          "publishedOn": "2022-06-25T05:47:13.000Z",
-          "wordCount": null,
-          "title": "BAYC创始人反驳Nazi指控：BAYC的设计灵感到底是什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31012",
-          "author": null,
-          "description": "在电子游戏领域，从动作射击到休闲解谜各类游戏，几乎每个玩家都可以找到适合自己的游戏类型，但若想体验更具沉浸感和社交性的游戏，则可以尝试探索在线 MMORPG 游戏的世界。\n\n\n然而，当前的 MMORPG 游戏在呈现形式上也会有些千篇一律，往往会更注重战斗，形式转换上更显静态，并且要做到这些，游戏在制作的过程中需要大量的美术师和实际关卡设计。不过，最近一个获得 a16z 2200 万美元领投的 MMORPG 社交沙盒类游戏 BitCraft 正准备改变这种现状。\n\n\nBitCraft 希望游戏在设计方面更加人性化、更加动态，让玩家自己创造世界，并成为游戏中的关卡设计师。因此，团队更关注玩家创造的内容，以及程序生成的内容，而这些都需要一些较为先进的制作技术。\n\n\n同时，BitCraft 这种独特的游戏设计和基础设施创新组合不仅受到了 a16z 游戏投资合伙人 Jon Lai 的青睐，其在底层数据库架构中使用新的专有技术也另 FTX Ventures 总监 Amy Wu、Polygon Studios 首席执行官 Ryan Wyatt 等一众 Web3 游戏大佬印象深刻。目前，该游戏还处于 Pre-Alpha 阶段，接下来 BlockBeats 将为大家做个介绍。\n\n\n\n\n\n游戏介绍\n\n\n\nBitCraft 是 Clockwork Labs 游戏工作室旗下首个跨平台的社区沙盒 MMORPG，将首先在 PC 上提供，该团队从头构建了一个新的分布式数据库架构，旨在实现大规模的扩展和提升性能。\n\n\n在 BitCraft 中，玩家可以作为单人冒险者创造自己的传奇，也可以和其他人一起在具有古老历史、可编辑的荒野中建立新的文明，像在 Minecraft 中那样改变世界。如它们可以驰骋荒野，在世界任何地方创造令人魂牵梦萦的城镇，也可以联合城市建立跨越大陆和海洋的帝国。在这些层面上，BitCra…",
-          "link": "https://www.theblockbeats.info/news/31012",
-          "publishedOn": "2022-06-25T03:44:09.000Z",
-          "wordCount": null,
-          "title": "BitCraft：a16z 领投、Web3 游戏大佬们看好的 MMORPG 游戏前瞻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31010",
-          "author": null,
-          "description": "原文标题：《Top 10 Best Browser Crypto Wallets》\n\n原文作者：William M. Peaster\n原文编译：Yangz，\n\nDeFi 之道\n\n\n\n首先：浏览器钱包是旨在通过网络浏览器使用的加密钱包。\n\n\n对我们大多数人来说，当我们看到「浏览器钱包」时，我们就会想到 MetaMask 这样的浏览器扩展项目，人们可以直接下载到 Chrome、Brave 等浏览器中。\n\n\n但此外还有很多项目。除了钱包扩展，还有各种以浏览器为中心的服务，都属于「浏览器钱包」的范畴。\n\n\n那么，哪一个能提供最大的价值呢？为了回答这个问题，我审查了 10 个不同的浏览器钱包项目，涉及四种不同的钱包风格。它们是：\n\n\n浏览器扩展\n\nMetaMask\nCoinbase  钱包\nGameStop 钱包\nRabby\nMath Wallet\n\n\n有内置钱包的浏览器\n\nBrave\nOpera\n\n\n「任何浏览器」的钱包服务\n\nWalletConnect\nPortis\n\n\n浏览器兼容的桌面钱包\n\nFrame\n\n\n今天，我们将讨论这些钱包的优缺点，并回答这个问题：「哪个是当今最好的浏览器钱包？」\n\n\n让我们拭目以待……\n\n\nMetaMask\n\n\n\n\n\n网站：metamask.io\n支持的浏览器：Chrome, Brave, Firefox, Edge\n支持的链：所有以太坊虚拟机（EVM）区块链\n\n\nMetaMask 扩展是加密经济中最广泛支持的浏览器钱包，已成为所有去中心化应用程序（dapp）的标准\n\n\n优点：\n\n\n易于下载和使用\n很好地解释了钱包恢复短语 + 存储备份的过程\n易于导入现有账户或创建新账户\n与 Ledger、Trezor 和 GridPlus 硬件钱包兼容\n钱包内加密互换系统\n\n\n缺点：\n\n\n不能像智能合约钱包那样找回丢失的账户\n由于 MetaMask 非常受欢迎，其…",
-          "link": "https://www.theblockbeats.info/news/31010",
-          "publishedOn": "2022-06-25T02:44:09.000Z",
-          "wordCount": null,
-          "title": "Bankless：速览十大浏览器钱包及其优缺点",
           "imageUrl": null
         }
       ]
