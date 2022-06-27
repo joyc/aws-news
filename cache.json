@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31028",
+          "author": null,
+          "description": "原文标题：《Web3 Payment Rail》\n原文作者：Paul Veradittakit，Pantera Capital 合伙人\n原文编译：wzp、0x9F，BlockBeats\n\n\n\n大多数企业的财务运作包括例如租金、账单、订阅、工资单这样的周期性支付。如今，由于在区块链上执行交易人工操作非常复杂，使用加密渠道处理这些类型的周期性支付需要极其密集的操作。\n\n\n\nLoop Crypto 是一个新的平台，允许组织将循环的加密交易自动化，大大降低了处理区块链上企业财务操作的复杂性。\n\n\n\nLoop 的核心产品类似于传统银行的自动支付功能；通过一次批准，Loop 用户就可以自动执行循环交易，因此他们不必在每笔支付期间重新签署和重新提交同样的交易。它通过将执行周期性交易的责任从终端用户委托给自动化的智能合约，实现了自动调用的支付。\n\n\n\nTL;DR  Loop 核心的自动支付产品包括：\n\n\n\n1. Webhook：使企业可以轻松将加密支付整合到现有金融基础设施中\n\n\n\n2. 允许客户，而不仅仅是企业的财务经理，授权周期性的支付，支持基于加密的订阅服务等等\n\n\n\n3. 针对交易进行自动错误处理，包括验证交易是否已完成和重试支付\n\n\n\n4. 一个强大的分析平台，为企业提供有关加密支付深入见解，并自动汇总交易历史、收据等信息\n\n\n\n5. Loop 还允许用户自动执行周期性掉期，即 Loop 代表他们对选定的 AMM 进行循环交易。这使投资者能够轻松地实施美元成本平均化策略，并更好地自动管理其投资组合\n\n\n\nLoop 由 Elena Steinman 和 Shane van Coller 创立，他们之前帮助建立了交易速度超快的 DeFi 交易平台 bloXroute。该公司近期完成 400 万美元种子轮融资，a16z 领投，Alchemy Ventures、CoinList 和数十位…",
+          "link": "https://www.theblockbeats.info/news/31028",
+          "publishedOn": "2022-06-27T11:24:55.000Z",
+          "wordCount": null,
+          "title": "Pantera合伙人解读Loop Crypto：专为企业打造的自动化Web3支付平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31027",
+          "author": null,
+          "description": "原文标题：《谁在为 Synthetix 负重前行？》  \n原文作者：@0xTodd, Nothing Research 合伙人 \n\n\n我有一个感受，很多 DeFi 之所以能够施展魔法，都是因为有人在背后「负重前行」。最近 SNX 表现和数据都很不错。其实，对于 SNX 来说也是一样的，一定也有人 SNX 在背后负重前行，只是这批人到底是谁呢？ \n\n\n\n  SNX 近期走势\n\n\n\n大家都知道，在传统交易平台中，滑点都是天然存在的。\n\n\n\n假设，你买 1 个 BTC，只花 20,000 USD；\n\n\n\n但你假如要买 10,000 个，你的平均成本绝不止 20K，因为你会把 BTC 拉涨。\n\n\n\n\n\n现在，SNX 却能让滑点取消掉。什么意思，意思是就算你要买 2100 万个比特币，只要你付得起 sUSD，也是给你按照市价成交。然而，财富不会凭空产生，那么到底是谁在负重前行呢？\n\n\n\n要从 SNX 的机制说起：\n\n\n\n一个基础机制，抵押生成Stablecoin；\n\n\n\n两个特别机制，分别是「0 滑点交易」和「全局债务」。\n\n\n\n基础机制是，你抵押 $SNX 可以 mint 出 $sUSD，这些 sUSD 可以当 1 美金花（这也取决于 Curve sUSD 池的深度），但它也是你的负债。到这里为止，和 MakerDAO 可以 mint 出 $DAI 差不多。\n\n\n\n不一样的是。SNX 还有 sBTC，sETH，甚至之前还有过股票、石油。这些资产全部不是借出来的，而是 0 滑点交易出来的，当然这个交易平台只能用 sUSD 作为入场券。\n\n\n\n\n\n所以，假如现在 BTC 是 2w 美金，那么你用 sUSD 可以无限买入 sBTC，没有滑点，全部按照 2w 成交，这就是「0 滑点交易」。\n\n\n但是，事实上，sBTC 背后并没有 BTC 抵押物，它是怎么和 BTC 锚住价格的呢？答案是，你…",
+          "link": "https://www.theblockbeats.info/news/31027",
+          "publishedOn": "2022-06-27T11:10:55.000Z",
+          "wordCount": null,
+          "title": "谁在为Synthetix负重前行？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31026",
+          "author": null,
+          "description": "NFT 发展之迅速令人叹为观止，即使市场早已不如几个月前的巅峰，但 NFT 为我们带来的想象力，以及吸引外部用户的能力，远超行业内其他领域。除了 PFP、PASS 这些我们早已熟悉的应用，还有一些领域将 NFT 的所有权属性发挥到极致，比如 Metacask。\n \n这是一个威士忌酒桶交易平台，让 NFT 成为每个酒桶的 ID。去年 10 月，Metacask 平台以 230 万美元成功拍卖了一只 1991 年麦卡伦威士忌酒桶。我们联系到了 Metacask 联创 Nim Siriwardana，聆听他对 Metacask 平台的理解，和对 NFT 的看法。\n \nBlockBeats：你是怎么进入 NFT 领域的？\n \nNim：2021 年年初，我开始在 Tezos 区块链上收藏 NFT。但当我还是 GSR 的 CTO 的时候，就一直关注着 NFT 领域的发展。\n \n我加入了一些艺术家团体，他们正以 NFT 的形式出售 1/1 的艺术作品和限量版艺术收藏品。他们把油画的扫描版铸造成 NFT，你只需要在 Tezos 上付款就行了。这种方式很有趣，可以有效地开始收藏。在此之前我从来没收藏过任何东西，但突然之间我在 NFT 领域可以有一个收藏品。\n \n我开始看到 NFT 背后技术的真正力量，这项技术使我备受鼓舞。我意识到我们可以更好地使用它，不仅仅局限在艺术品上。\n \nBlockBeats：很多人因为无聊猿、CryptoPunks 这类 PFP 进场，但你却从收藏品开始。\n \nNim：我选择了一条不同的路，认识了这一领域很多传统的艺术家。这都起于和艺术家 Trevor Jones 的合作，他为去年 10 月我们拍卖的 1991 年麦卡伦威士忌酒桶创作了一件 1/1 的艺术作品作为作为酒桶的数字标签。这就是我从收藏品，而不是 PFP 进场的原因。自那之后，我加入了这个领域里超级有趣的…",
+          "link": "https://www.theblockbeats.info/news/31026",
+          "publishedOn": "2022-06-27T10:48:55.000Z",
+          "wordCount": null,
+          "title": "对话Metacask联创：NFT让相关实物商品的交易更容易实现",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31024",
+          "author": null,
+          "description": "原文标题：《Mike Novogratz on His Big Crypto Mistake and What's Ahead for Bitcoin》\n原文作者：Jen Wieczner\n原文编译：Moni，Odaily 星球日报\n\n\n\nMike Novogratz 曾经是一名资深传统对冲基金经理，但他获得真正成功反而是在进入加密行业后，作为区块链投资公司 Galaxy Digital 首席执行官，Mike Novogratz 在这一领域建立了自己的声誉和口碑。\n\n\n当这位亿万富翁被问及最感兴趣的东西时，Mike Novogratz 曾直言不讳地说 LUNA 是他最喜欢的 Token。2022 年 1 月，当 LUNA 的价格飙升至 100 美元时，Mike Novogratz 更是掩饰不住内心的激动，在自己胳膊上纹了一个对月嚎叫的狼纹身以表达兴奋之情。\n\n\n然而，谁又能想到，短短半年时间不到，LUNA 就上演了一幕「史诗级归零」，500 亿美元市值瞬间蒸发。而作为 LUNA 曾经的超级粉丝，Mike Novogratz 在谈到这次崩盘事件时难掩沮丧之情，更不想提起为 LUNA 站台的过往。不过，这里也要公平地说一句，在去年加密货币暴涨时，Mike Novogratz 的确有提醒过加密新贵们要谨慎行事，并建议他们可以适当地拿出一部分资金来购买房产，而不要在加密市场倾囊而出。\n\n\n不仅仅是 LUNA，事实上，席卷整个加密货币市场的下跌潮让 Galaxy Digital 损失惨重，当然，Mike Novogratz 本人也未能幸免于难（最近几天，BTC  的价格从近 70,000 美元的高位跌至 20,000 美元以下，而 ETH  作为第二大加密货币在达到近 5,000 美元的高位后直接跌至 1,000 美元以下，Mike Novogratz 净资产也大幅缩水）。\n\n\n另外…",
+          "link": "https://www.theblockbeats.info/news/31024",
+          "publishedOn": "2022-06-27T09:48:55.000Z",
+          "wordCount": null,
+          "title": "专访Mike Novogratz：Galaxy Digital在这轮熊市中犯了哪些错？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31022",
+          "author": null,
+          "description": "原文标题：《ADVANCE.AI 将于 6 月 28 日举办金融出海线上峰会，聚焦探索新兴市场发展新机遇》\n原文来源：ADVANCE.AI\n\n\n\n\nADVANCE.AI 宣布将在 6 月 28 日举办 ADVANCE.AI\n2022 金融出海新兴市场线上峰会。据悉，本次峰会以「数赋未来·破界共赢」为主题，聚焦探索拉美、非洲等新兴市场发展新机遇。届时，领创集团联合创始人兼 ADVANCE.AI CEO 寿栋、墨腾创投创始人兼 CEO 李江玕、ADVANCE.AI 副总裁 崔琦、一零跃动 CRO 武利军、ADVANCE.AI 全球产品总监 周洪丞以及来自 Google、出海宝、Branch、pagsmile 等重磅嘉宾将在会上进行演讲。\n\n\n\n\n\n后疫情时代，数字经济已成为拉动全球商业发展、经济复苏的新引擎。无论是通过数智化转型、焕发全新商业价值的传统行业，亦或是不断涌现的新兴技术形态与创新商业模式，无不在加速全球经济生态新格局与治理模式新范式的转变落地。\n \n特别是东南亚、非洲、拉美等地区的新兴国家，迫切希望把握住未来数字经济趋势，充分释放本国人口红利，实现经济「弯道超车」。\n\n\n\n\n\n本届峰会以「数赋未来·破界共赢」为主题，聚焦金融科技、跨境电商、跨境泛娱乐等出海热门行业，围绕如何抓住出海流量红利、拥抱海外监管政策、优化境外支付流程、提升业务合规安全性等热点话题，带来深度洞察分析与思维碰撞。\n \n本次，数赋未来·破界共赢 ADVANCE.AI 2022 金融出海新兴市场线上峰会，将在微吼平台同步直播。\n\n\n\n\n\n本文来自投稿，不代表 BlockBeats 观点。  \n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31022",
+          "publishedOn": "2022-06-27T09:48:55.000Z",
+          "wordCount": null,
+          "title": "ADVANCE.AI将于6月28日举办金融出海线上峰会，聚焦探索新兴市场发展新机遇",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31019",
           "author": null,
           "description": "就在巅峰市值高达 400 亿美元的 Terra 爆雷后不到一个月，曾经被视为加密行业顶级 VC 的三箭资本（3AC）也出现了流动性危机，直接或间接导致多家行业内企业遭到重创。\n\n\n \n3AC 的问题不仅仅只体现在资金亏损上，在这一危机的背后，我们可以看到资金无监管，3AC 可随意挪用客户资金。\n\n\n \n监管和创新向来不是对立面，合理的监管有助于行业的健康发展。2021 年 9 月，Coinbase 曾试图推出 C2C 借贷理财服务，但遭到 SEC 反对，并声称如果启动这一服务将遭到起诉。如今，看到众多因为 3AC 提供借贷服务，而走到资不抵债边缘的企业，想必又是另一种心情。\n\n\n \n当然，Coinbase 从成立之初便建立于监管之上，对行业提供的参考价值有限。Binance 作为全球最大的加密交易平台之一，从野蛮成长到全球多国合规持牌平台，或许更值得参考。\n\n\n沟通与合作，扩张持牌版图\n\n\n \n仅在 2022 年上半年，Binance\n\n先后获得了巴林的第四类许可牌照、迪拜的全面监管许可的虚拟资产（VA）交易平台许可、阿联酋第一和第二大城市的加密货币监管许可、法国和意大利的获批注册许可。\n\n\n \n目前，包括 Binance.US 在内，Binance\n\n品牌已经在 G7 的国家中，获得了美国、法国和意大利的注册许可。同时，中东的巴林、阿布扎比和迪拜三个地区/国家也分别授予了合规牌照或许可。\n\n\n \n不同的地区和国家对于加密资产的态度和了解程度不尽相同，因此需要采用不同的策略。Binance\n\n能够在半年的时间中获得众多牌照和监管许可，相同的核心在于持续不断沟通与合作。就如上个月，Binance\n\n创始人兼 CEO 赵长鹏便出席了德国汉堡出席营销摇滚明星节 (OMR)，虽还在积极申请德国牌照阶段，但已经开始大量招聘合规人员以及进行产业生态布局。\n\n\n \n除了寻求 G7 牌照之…",
