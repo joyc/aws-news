@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31031",
+          "author": null,
+          "description": "在 NFT 领域，交易市场、发行平台、借贷应用、跨链协议等各种基础设施的不断出现改善了 NFT 项目的启动流畅度并提升了 NFT 资产的流动性，从而推动了 NFT 市场的快速发展。但众多购买了 NFT 的「消费者」依然缺少一种能够帮助他们将「被动等待升值」转化为「主动创造增值」的基础设施。\n\n\nNFT 在 IP 品牌化方面仍有极大的潜力等待挖掘。CRIPCO 围绕该赛道构建生态系统，\n\n旨在打造一个 NFT 发行方与其持有者能够协同打造 IP 品牌的生态系统，从而帮助「消费者」完成向「创造者」的转变，改变 NFT IP 品牌的发展方式，推动「创作者经济」创新。良好的融资情况也体现了机构对这一方兴未艾的新赛道寄予的期望，其参投方包括 FTX Ventures、Solana Ventures、Musinsa、NEOWIZ Games、VESTIGIUM(Klay) 与 PlayDapp。  \n\n\n\n\nBlockBeats 将在本文对该项目进行介绍。\n\n\n生态组成\n\n\nCRIPCO 的生态系统由「引入」、「分销」、「创作」三部分组成，为 NFT IP 品牌打造提供全链条支撑。\n\n\n「引入」- CRIPCO DAO\n\n\n\n\n为了保证 CRIPCO 生态系统内的项目质量，各新项目必须通过 CRIPCO DAO 的审核方被引入 CRIPCO。CRIPCO DAO 的成员来自娱乐、时尚、艺术乃至元宇宙等各个领域，均在各自领域颇有建树与影响力，如藤原浩、陈冠希等。DAO 成员不但将以过硬的专业能力确保被引入项目的质量，还能够凭借其影响力为项目的早期启动铺平道路。\n\n\n\n\n\n\n\n    CRIPCO DAO 成员概览\n\n\n「分销」- NFT 交易市场\n\n\n与现有 NFT 交易市场相比，CRIPCO 的 NFT 交易市场的交易费率极低。对于以 ETH 进行结算的交易仅收取交易金额 1% 的交易…",
+          "link": "https://www.theblockbeats.info/news/31031",
+          "publishedOn": "2022-06-28T04:48:07.000Z",
+          "wordCount": null,
+          "title": "FTX的新一期IE0 CRIPCO：人人共建IP品牌的NFT生态系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31030",
+          "author": null,
+          "description": "原文作者：FTX_Benson\n\n\n我们先来看一下 USDT 的资产储备成分，其实所有的 Stablecoin 发行商资产储备都和货币市场基金成分类似，都是以现金、高质量的短期债券与票据为主。\n\n\n时间回到 2008 年，当时最大的货币市场基金 Reserve Primary 的规模达到 630 亿美元，其持有约 7800 万美元的雷曼银行的短期债券（仅占总资产 1.2%）。\n\n\n\n\n\n正是这微不足道的敞口，导致了市场的恐慌。\n\n\n因为雷曼兄弟破产的消息太过突然，Reserve Primary 来不及处理手中雷曼的短期债券，这些债券没人想买卖，也就无法评估其剩余价值。导致他们没办法跟投资人确保，他们的 100 美分与 1 美元等值。\n\n\n2008 年 9 月 16 日，Reserve Primary 宣布只剩 97 美分。打破了大众对于货币基金价值永远为 1 美元的认知。\n\n\n这导致了现代金融史上，投资人恐慌程度最严重的事件。在接下来的两周内，投资人从货币市场基金撤出高达 1230 亿美元的资金。\n\n\n由于 1：1 兑换的承诺，只要资产负债表稍有瑕疵，就会引发挤兑连锁反应，从这点看来，货币市场基金与 Stablecoin 具备高度相似性。\n\n\n要了解 USDT 是不是会暴雷，要先回答两个问题： \n\n\n1. USDT 资产储备质量的流动性如何？\n\n\n2.USDT 有没有可能像 2008 年的货币市场基金一样，出现超大量赎回潮？\n\n\n先讲第一个问题，USDT 资产储备质量一直以来都在改善，原本有一半是 CP（商业票据），这部分慢慢被 T-Bill（美国短期国债）取代。\n\n\nCP vs T-Bill 的比例：\n\n\n2Q21： 49%，24% \n\n\n3Q21： 44%，28% \n\n\n4Q21： 31%，44% \n\n\n1Q22： 24%，48%。\n\n\n\n\n\n2022Q2 的报告还没出…",
+          "link": "https://www.theblockbeats.info/news/31030",
+          "publishedOn": "2022-06-28T04:08:07.000Z",
+          "wordCount": null,
+          "title": "FTX Benson详解：USDT会暴雷吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31029",
+          "author": null,
+          "description": "原文作者：0x137，BlockBeats\n\n\n\n昨日，ETHGlobal 公布了 ETH New York 黑客松活动中的 10 个入围应用，范围覆盖游戏、NFT、钱包安全以及社交通讯等多个方面，每个项目都趣味十足，充满潜力。在本文中，BlockBeats 对这 10 个入围项目的应用场景和交互流程做了详细介绍。\n\n\nGuidl\n\n\n\n\n\n\n\nGuildl 是一个游戏公会管理平台，旨在帮助 Web3.0 游戏生态中的玩家和工会共享资源。通过 Guidl，玩家能够使用公会内其他成员的游戏账号、链上资产以及游戏内技能等，不仅可以强化工会的氛围和共识，帮助游戏新手们快速成长，还能提高游戏生态内的资源分配效率，使每个成员发挥自己的优势。\n\n\n\n连接钱包后，用户便可以开始在 Guildl 平台创建公会。点击「Create Guild」上传公会标志、名称和简介，该内容将通过 IPFS 进行。工会的所有权可以转让，会长可以自定义设置公会的规则，比如如资产访问权控制等。\n\n\n\n\n\n\n\n在用户创建好公会后，就可以用自己的钱包地址或 ENS 域名邀请其他玩家加入。玩家通过 EPNS 系统收到通知，并选择接受或拒绝此邀请。如果玩家点击「Accept」，便会自动铸造一枚灵魂绑定 Token，并获得访问公会资源的权限。\n\n\n\n\n\n\n\n玩家可以借用公会内成员的账户登录链上游戏、使用成员的链上资产，而基于 Gnosis Safes 的公会结构则确保了借方玩家 NFT 的安全，让每个成员完全掌控自己的玩家资料。\n\n\n\n点击进入自己所在的公会后便可以看到工会内其他成员、游戏以及链上资产，点击资产旁的「Play」就可以直接使用公友的账号和资产开始游戏。\n\n\n\n\n\n\n\n在 Guidl 上创建的公会不与任何游戏绑定，且兼容大部分公链生态内的游戏，以便为公会成员提供更高的灵活性。团队计划继续扩展 Guidl 的跨…",
+          "link": "https://www.theblockbeats.info/news/31029",
+          "publishedOn": "2022-06-28T03:08:07.000Z",
+          "wordCount": null,
+          "title": "ETH Global黑客松10个入围应用，个个出彩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31025",
+          "author": null,
+          "description": "原文标题：《\n\n在市场低点时，巨鲸如何抄底 NFT？\n\n》\n原文来源：\n\nNFTGo\n\n\n\nKey Takeaways\n\n\n- 在 6 月中旬的下跌中，巨鲸抄底的顺序为：Bored Ape Yacht Club > Yuga Labs 其他的 NFT  > 其他蓝筹及新兴项目，并且抄底类型、抄底价格与资金规模有关。\n\n\n- 抄底资金超过 50 万美元的超级巨鲸中，有的专注于对单一 NFT 抄底，有的建立了多样化组合抄底；选择用 10—25 万美元的资金规模抄底的巨鲸偏多，所抄底的 NFT 成本也有所不同。\n\n\n- 通过对具体巨鲸的抄底进行还原，发现他们的策略具有一些共同点，例如：分批购买、越跌越买，并且各自拥有自己的抄底「妙招」。\n\n\n从 6 月 7 日到 6 月 18 日，加密市场和 NFT 纷纷暴跌，而在本周，NFT 市场在逐渐反弹回暖。那么，在市场低点中，巨鲸抄底了哪些 NFT，他们采取了哪些策略？都有哪些巨鲸参与了此次低点买入，以及巨鲸的抄底组合和平均抄底价格是多少呢？\n\n\n市场低点时，交易量上升\n\n\n自今年上半年以来，加密市场便一直处于下跌状态。在最近两周时间（6 月 7 日——6 月 18 日）内，BTC 价格持续下跌，两周跌幅超过 40%，受 Celsius 的影响，ETH 也一度下跌至 1000 美元以下。\n\n\n\nBTC 市值，数据来源：CMC\n\n\n同样，NFT 市场因此受到了影响，近来 OpenSea 的交易量也在呈现下降趋势，但我们看到 6 月 7 日到 6 月 18 日这段时间内的交易量出现异动。在下降趋势中，NFT 市场仍产生了短暂的大量交易，期间发生大量换手，因此我们本次选定该时间范围作为分析区间。\n\n\n\nOpenSea 交易量走势（6.7—6.18），数据来源：NFTGo.io\n\n\n巨鲸抄底了哪些 NFT？\n\n\n巨鲸购买数量前十的 NFT\n\n\n在…",
+          "link": "https://www.theblockbeats.info/news/31025",
+          "publishedOn": "2022-06-28T02:08:07.000Z",
+          "wordCount": null,
+          "title": "市场低点时，巨鲸的NFT抄底策略",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31023",
           "author": null,
           "description": "原文标题：《\n\n骨牌效应缓解，否极能否泰来？｜Foresight Ventures Weekly Brief\n\n》\n原文作者：Chelsea Jonas，Foresight Research\n\n\n市场观点  \n\n\n宏观流动性\n\n\n货币流动性整体紧缩。鲍威尔再发抗击通胀的鹰派言论，提出美联储坚定致力于继续加息，直到通胀放缓至 2% 的目标。2 年期美债最高升到 3.4% 以上，体现了全年 325bp 的加息预期。对应的加息节奏是 7 月 75bp，9 月和 11 月 50bp，12 月 25bp。最直接影响加息的两个指标是：通胀 CPI（油价为主）和失业率，接下来需要关注 7 月 8 日失业率和 13 日 CPI。而大宗商品的暴跌也许预示本轮通胀已到顶回落。\n\n\n后续美股可能还有一波因为盈利预期恶化带来的下跌。BTC 跟随美股下跌，历史上首次跌破上次牛市顶点，急跌之后或有修复性的盘整。\n\n\n\n\n\n链上指标\n\n\n熊市的骨牌效应推进到一个新阶段。本周流入交易平台的 BTC 数量处于 2018 年以来的最高水平。1 年以上的长期持有者减少了 17.8 万枚 BTC，相当于他们总持有量的 1.3%。这反映出即使是强势持币的人群中，也存在大量的恐慌。处于盈利的持币地址下降到只有 49%，历史上熊市的最低点的盈利地址在 40-45% 之间。\n\n\n\n\n\n\n\n\nStablecoin 持续在流出。USDT 从 5 月 11 日历史最高点到目前下降了 150 亿；USDC 从 5 月 11 日阶段低点增长了 71 亿，头部 Stablecoin 整体日减 2%。中心化交易平台的 BTC/ETH 百万级别买卖交易撮合差价也从 0.1% 扩大至 0.6%。大资金撤离，流动性危机仍在延续。\n\n\n\n\n\n\nBTC 长期市场指标\n\n\n长期趋势指标 MVRV-ZScore 以市场总成本作为依据，反映市场总体盈…",
@@ -113,26 +153,6 @@
           "publishedOn": "2022-06-26T03:08:41.000Z",
           "wordCount": null,
           "title": "前面有什么？——半年期NFT应用「狂想曲」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31014",
-          "author": null,
-          "description": "2022 年的 NFT NYC 活动已闭幕，作为一年一度的 NFT 盛宴，本届大会除了王牌 NFT 项目「无聊猿」Bored Ape Yacht Club 外，新晋蓝筹 Doodles、MoonBird、Azuki 等项目的社区活动同样令人惊艳。\n\n\n虽然一度深陷「种族歧视」和吹捧「纳粹精神」的负面新闻里，但 Bored Ape Yacht Club 的活动依旧被社区用户们感叹为「最有排面」。在 ApeFest2022 现场，知名说唱歌手 Eminem 和 Snoop Dogg 公布了最新单曲《From the D 2 the LBC》，将活动氛围推向了高点。其他 NFT 项目社区的活动也同样精彩，NFT NYC 也完美诠释了艺术、娱乐难分家的理念。除了 Eminem，还有不少中国用户熟悉的港澳台明星，如余文乐、伊能静、冯德伦等到场助阵。\n\n\n现在 BlockBeats 就带大家一起「云」逛 2022 年的 NFT NYC 游乐场！\n\n\n\n\n\nBored Ape Yacht Club\n\n\n活动表演：Eminem / Snoop Dogg\n\n\nBored Ape Yacht Club 今年再度蝉联 OpenSea 颁发的「最具创新性 NFT 项目」奖项。虽然今年 NFT 市场再度爆发，迎来了多个新创意项目，对 Bored Ape Yacht Club 的龙头地位发起了挑战，即使深陷负面消息，Bored Ape Yacht Club 依旧靠着最有说服力的价格和成交量，依旧把持 2022 年 NO.1 的 NFT 宝座。活动现场更是请来了 Eminem 和 Snoop Dogg 现场演绎，再次成功「破圈」。\n\n\n \n\n\n\n\n\n\nDoodles\n\n\nDoodles 是 2021 年横空出世的黑马项目。优质的画风和实力创始团队让项目一经发售就吸引了不少用户关注。随后价格更是一路走高，…",
-          "link": "https://www.theblockbeats.info/news/31014",
-          "publishedOn": "2022-06-25T11:29:42.000Z",
-          "wordCount": null,
-          "title": "「云」逛2022年NFT NYC现场，众星云集的NFT嘉年华",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31015",
-          "author": null,
-          "description": "原文标题：《Beyond Verticalization of NFT Marketplaces》\n原文作者：Kyle Samani\n原文编译：Kxp，BlockBeats\n\n\n为什么 OpenSea 和 Magic Eden 上的用户体验大致相同？（主页上的搜索框、收藏页面左侧的过滤器、同样的搜索结果展示界面，等等）\n\n\n\n或者，从另一个角度来看，为什么 OpenSea 或 Magic Eden 的首页并不展示活动详情（如 Fractal 或 Hawku）、直播（如 Twitch），或近期 NFT 游戏锦标赛的赛果？\n\n\n\n要回答这些问题，我们就必须回看一下 OpenSea 的发展历程。OpenSea 成立于 2018 年，当时它只有少数几个 NFT 系列作品，如 CryptoPunks——一个由 10000 个像素化的 NFT 组成的作品集，可以进行简单的筛选和过滤。Bored Ape Yacht Club (BAYC) 显然受到 CryptoPunks 的很大启发，制作了 10000 张由算法生成的图像，同样可以进行筛选过滤。从实际用途上来看，这两个 NFT 系列是相同的。之后，OpenSea 上涌现出了大量的 PFP 作品集——Pudgy Penguins、Moonbirds、DeGods、Solana MonkeyBusiness (SMB)、Azukis 等，它们都有着类似的结构模型和历史范式。除了艺术表现以外，这些系列作品在本身的设计上没有太多实际的差异（虽然它们都各自有不同的社区）。\n\n\n\n现如今，社区只能遵守市场的技术规范，但显然这并不合理。相反，市场才应该按照每个社区的特性制定规范。在线社区囊括了 DeFi、NFT、DAO、社交 Token 等新兴元素，设计空间非常广阔。\n\n\n\n人们普遍认为，NFT 市场平台将纵向发展，毕竟域名空间交易平台（如.eth …",
-          "link": "https://www.theblockbeats.info/news/31015",
-          "publishedOn": "2022-06-25T07:47:13.000Z",
-          "wordCount": null,
-          "title": "Multicoin：NFT平台的未来迭代之路",
           "imageUrl": null
         }
       ]
