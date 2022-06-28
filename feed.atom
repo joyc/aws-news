@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-28T06:10:35.633Z</updated>
+    <updated>2022-06-28T12:16:00.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港能否借助 Web3 迎来下一个“八达通时刻”]]></title>
+        <id>https://www.theblockbeats.info/news/31033</id>
+        <link href="https://www.theblockbeats.info/news/31033"/>
+        <updated>2022-06-28T09:22:07.000Z</updated>
+        <summary type="html"><![CDATA[香港能否借助 Web3 迎来下一个“八达通时刻”]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOSG：dYdX出走事件下应用链与L2 Rollup之争]]></title>
+        <id>https://www.theblockbeats.info/news/31032</id>
+        <link href="https://www.theblockbeats.info/news/31032"/>
+        <updated>2022-06-28T08:22:07.000Z</updated>
+        <summary type="html"><![CDATA[IOSG：dYdX出走事件下应用链与L2 Rollup之争]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX的新一期IE0 CRIPCO：人人共建IP品牌的NFT生态系统]]></title>
         <id>https://www.theblockbeats.info/news/31031</id>
