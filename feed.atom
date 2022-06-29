@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-29T00:39:22.878Z</updated>
+    <updated>2022-06-29T06:10:42.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3能否重塑音乐产业链？]]></title>
+        <id>https://www.theblockbeats.info/news/31036</id>
+        <link href="https://www.theblockbeats.info/news/31036"/>
+        <updated>2022-06-29T04:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Web3能否重塑音乐产业链？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum奥德赛第二周活动开启，你需要注意哪些问题？]]></title>
+        <id>https://www.theblockbeats.info/news/31039</id>
+        <link href="https://www.theblockbeats.info/news/31039"/>
+        <updated>2022-06-29T03:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum奥德赛第二周活动开启，你需要注意哪些问题？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82支加密基金半年回顾：DOT成首选资产]]></title>
+        <id>https://www.theblockbeats.info/news/31037</id>
+        <link href="https://www.theblockbeats.info/news/31037"/>
+        <updated>2022-06-29T03:33:12.000Z</updated>
+        <summary type="html"><![CDATA[82支加密基金半年回顾：DOT成首选资产]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：以太坊的账户抽象之路]]></title>
+        <id>https://www.theblockbeats.info/news/31034</id>
+        <link href="https://www.theblockbeats.info/news/31034"/>
+        <updated>2022-06-29T02:14:12.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik：以太坊的账户抽象之路]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只需5步教你如何开启自己的Crypto职业生涯]]></title>
         <id>https://www.theblockbeats.info/news/31035</id>
