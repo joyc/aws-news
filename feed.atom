@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-29T12:13:52.051Z</updated>
+    <updated>2022-06-29T18:14:41.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[回顾全球金融危机，DeFi可以从中学到什么？]]></title>
+        <id>https://www.theblockbeats.info/news/31045</id>
+        <link href="https://www.theblockbeats.info/news/31045"/>
+        <updated>2022-06-29T14:38:50.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+这一次，Crypto 崩盘没有什么不同
+
+》
+原文作者：Trevor Chow
+原文编译：
+
+南风，Unitimes
+
+
+
+
+2007 年 6 月 20 日。
+
+
+
+那天，贝尔斯登 (Bear Stearns) 救助了旗下两家对冲基金。这是表明次贷危机已经超越了住房市场，越过了贷款机构和证券化机构，一路蔓延到华尔街的一家大型投资银行的第一个迹象。
+
+
+9 个月之后，贝尔斯登面临破产，又过了一年，道琼斯指数在 2009 年 3 月 6 日跌至最低点。无论金融市场在 2007 年年中看上去多么低迷，在好转之前，情况继续恶化得更严峻。
+
+
+距离那一天已经过去了整整 15 年，如今，Crypto 和 DeFi 领域的乌云正在聚集。本着这种精神，让我们回顾一下全球金融危机，看看 DeFi 是否能从 1929 年以来最严重的传统金融危机中学到什么。
+
+
+多样化带来的「安全性」
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+这场全球金融危机标志着大稳健 (Great Moderation) 时期的结束。在此之前的 30 年里，出现了一个无与伦比的牛市，房价上涨了 4 倍。总体而言，人们非理性地过度狂热，并认为住房只会升值。因此，银行开始向信用不良的人提供次级抵押贷款，假设在最坏的情况下，你可以拿房子作为抵押。因为房子的价值会更高，所以风险似乎很小。
+
+
+与此同时，由于投资者寻找投资渠道，全球出现了储蓄过剩。为了满足这一需求，银行决定制造更多安全的资产供投资者购买，将抵押贷款打包成抵押贷款支持证券 (MBS)。这些金融工具根据基础抵押贷款提供收益。投资者可能不愿意购买个人抵押贷款，但 MBS 似乎是一件更具吸引力的事情。他们不需要担心任何一种抵押贷款的风险，就可以购买许多不同的抵押贷款。一个房主可能会违约，但世界上什么时候所有人会同时违约呢？它是…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEZASIA黑客马拉松启动，奖金超20万美元]]></title>
         <id>https://www.theblockbeats.info/news/31044</id>
@@ -733,136 +810,6 @@ ADVANCE.AI 宣布将在 6 月 28 日举办 ADVANCE.AI
 本文来自投稿，不代表 BlockBeats 观点。  
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022合规路，赵长鹏与Binance收获几张牌？]]></title>
-        <id>https://www.theblockbeats.info/news/31019</id>
-        <link href="https://www.theblockbeats.info/news/31019"/>
-        <updated>2022-06-27T04:28:02.000Z</updated>
-        <summary type="html"><![CDATA[就在巅峰市值高达 400 亿美元的 Terra 爆雷后不到一个月，曾经被视为加密行业顶级 VC 的三箭资本（3AC）也出现了流动性危机，直接或间接导致多家行业内企业遭到重创。
-
-
- 
-3AC 的问题不仅仅只体现在资金亏损上，在这一危机的背后，我们可以看到资金无监管，3AC 可随意挪用客户资金。
-
-
- 
-监管和创新向来不是对立面，合理的监管有助于行业的健康发展。2021 年 9 月，Coinbase 曾试图推出 C2C 借贷理财服务，但遭到 SEC 反对，并声称如果启动这一服务将遭到起诉。如今，看到众多因为 3AC 提供借贷服务，而走到资不抵债边缘的企业，想必又是另一种心情。
-
-
- 
-当然，Coinbase 从成立之初便建立于监管之上，对行业提供的参考价值有限。Binance 作为全球最大的加密交易平台之一，从野蛮成长到全球多国合规持牌平台，或许更值得参考。
-
-
-沟通与合作，扩张持牌版图
-
-
- 
-仅在 2022 年上半年，Binance
-
-先后获得了巴林的第四类许可牌照、迪拜的全面监管许可的虚拟资产（VA）交易平台许可、阿联酋第一和第二大城市的加密货币监管许可、法国和意大利的获批注册许可。
-
-
- 
-目前，包括 Binance.US 在内，Binance
-
-品牌已经在 G7 的国家中，获得了美国、法国和意大利的注册许可。同时，中东的巴林、阿布扎比和迪拜三个地区/国家也分别授予了合规牌照或许可。
-
-
- 
-不同的地区和国家对于加密资产的态度和了解程度不尽相同，因此需要采用不同的策略。Binance
-
-能够在半年的时间中获得众多牌照和监管许可，相同的核心在于持续不断沟通与合作。就如上个月，Binance
-
-创始人兼 CEO 赵长鹏便出席了德国汉堡出席营销摇滚明星节 (OMR)，虽还在积极申请德国牌照阶段，但已经开始大量招聘合规人员以及进行产业生态布局。
-
-
- 
-除了寻求 G7 牌照之…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OFR合伙人：NFT NYC参会随想与未来趋势]]></title>
-        <id>https://www.theblockbeats.info/news/31020</id>
-        <link href="https://www.theblockbeats.info/news/31020"/>
-        <updated>2022-06-27T04:28:02.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《NFT NYC 总结 & NFT 价值的再分析》
-原文作者：jxblock.eth，OFR 合伙人
-
-
-
-
-
-
-Part.1 NFT NYC 参会感想
-
-
-No.1 Never buy a main stage ticket.
-
-
-
-主会场组织极其混乱：现场和官网没有会议 agenda，完全不知道当天演讲的顺序是什么，speaker 的背景是什么；主会场没有人查票，随便进，买 1000 刀+门票纯属浪费；Speaker 数量太多，以至于大量演讲内容低质低效，Panel 嘉宾互相不熟悉，事先也没有排练对稿。
-
-
-
-总之，别去主会场。
-
-
-
-No.2 Numerous side events, not effective but exhausting
-
-
-
-各种项目方和基金办的 After party 和 side events 名目繁多，NFT 圈子貌似也感觉不到币圈暴跌的寒冬，基本上场场爆满。所以事先一定要规划好去哪些活动，不一定每场都要去，更没必要一晚上跑 3-4 个活动（正是本人），最后体力值容易耗尽，社交也没有目的性，random 社交低质低效，而且大部分跑会的都是同一批人。
-
-最好提前注册好门票或者邀请函，提前 10 分钟左右到场，否则在茫茫人海中排队或者找熟人带进去有很大可能被门口保安拒绝。（此条不适用于妹子，妹子自带门禁卡，iykyk）当然，明年如果市场再熊一些，可能就不用排队了。
-
-
-
-No.3 NFT holders events are must-gos
-
-
-
-蓝筹项目比如 Bayc,Doodles,Coolcats,Azuki 等等都举办了 holders event，活动资格需要持有 NFT 并且参与注册，然后抽奖获得名单。这些活动普遍质量非常高，不仅活动形式多样，比如 doodle 的发布会，azuki 的 enter the alley…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话 Open Treasury：加密世界的「企业银行」+「财务 SaaS」]]></title>
-        <id>https://www.theblockbeats.info/news/31018</id>
-        <link href="https://www.theblockbeats.info/news/31018"/>
-        <updated>2022-06-27T03:28:02.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：0x137，BlockBeats
-
-
-
-在过去 10 年发展路程里，我们看到了区块链随着技术革新，不断普及的过程：16-17 年以太坊崛起，区块链摆脱了「寻找下一个比特币」的叙事，各种形式的 IC0 为「加密行业」打下了基础；19-20 年 DeFi Summer 的崛起为区块链找到了「应用场景」，区块链技术在 DeFi、NFT、Layer 1、Layer 2 等协议层面实现突围，「Web3」的概念诞生并开始普及；22 年 Stepn 的出圈，区块链技术开始在应用层面突飞猛进，走出了互联网在 Facebook、Uber 等应用繁荣发展阶段的特征。
-
-
-
-在本文中，BlockBeats 作者访谈了 Web3.0 应用项目 Open Treasury 团队创始人 Jason，从项目简介、团队初衷、竞品分析以及商业模式等方面进行了深入了解。未来，BlockBeats 将会持续关注 Web3 领域的应用发展，与创始团队密切交流，深度跟踪 Web3 发展的新浪潮。
-
-
-
-Open Treasury：Web3.0 团队的福音
-
-
-
-Open Treasury 是一款为 Web3.0 项目团队和投资者提供钱包和财务管理的应用，旨在成为 Web3.0 世界的企业银行。它能帮助团队管理跟踪资产动向，并实时与投资者和 DAO 成员共享财务报表，未来 Open Treasury 还会推出针对 NFT 的资产统计服务，为团队从一、二级市场收集完整的 NFT 资产信息。
-
-
-
-管理资产对许多 Web3.0 团队来说都是一个很头疼的问题，他们的资产大都跨越几个公链生态，交易操作涉及智能合约收款、广告运营、薪酬发放等多个方面。Open Treasury 解决的问题就是把项目分布在多个钱包和公链上的资产分门别类地整合在一起，从各个层面帮助它们管理财务操作，并生成实时且详细的财务报表。
-
-
-
-首先…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
