@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-30T12:15:42.828Z</updated>
+    <updated>2022-06-30T18:10:17.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[打破MEV市场寡头垄断，MEV2.0如何使用户成为受益者]]></title>
+        <id>https://www.theblockbeats.info/news/31049</id>
+        <link href="https://www.theblockbeats.info/news/31049"/>
+        <updated>2022-06-30T13:38:51.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《MEV2.0：MPSV 打破 MEV 市场寡头垄断，使用户被动收益》
+原文作者：Ali Sheikh
+原文编译：Skypiea
+
+
+自 2017 年以来，最大可提取价值或「MEV」经历了几项重大创新。这些进步是围绕着两个参与者，矿工和 MEV 搜索者。MEV 领域最大的飞跃之一是 Flashbots 的创建，旨在使这两个参与者的 MEV 民主化。然而，在 MEV 存在的今天，仍然忽略了一个关键参与者：用户。
+
+
+尽管今天以太坊的工作证明（「PoW 」）共识机制已广泛接受这一点，但权益证明（「PoS 」）为重新定义 MEV 以潜在地包括用户打开了大门。当今的大多数 MEV 解决方案都以矿工、MEV 搜索者甚至构建者为焦点。我们相信用户也可以而且应该包含在这个组合中。
+
+
+本文介绍了 MPSV（MEV 利润共享验证器）的概念，这是一个新颖的概念，可以将用户作为 MEV 的受益者，最终将完成 MEV 的全面民主化。通过完全民主化，我的意思是用户可能最终能够获得一部分 MEV 利润，因为他们「选择」了在哪里质押（Staking）。然而，在我们进入 MPSV 之前，我们首先需要了解：（1）当今的高级 MEV 参与者，（2）MEV 的经济市场结构，（3）一般的权益证明（PoS）系统和验证者的角色，以及最后（4）一些博弈论。
+
+
+MEV 参与者
+
+
+最大可提取价值（MEV）仍然是加密市场中参与者可以提取利润的领域之一，无论是牛市还是熊市。MEV 是指通过对区块内的交易进行重新排序、插入和审查来从用户那里提取价值。
+
+
+MEV 在熊市和牛市中都可以盈利，因为交易策略的设计空间广阔且相对未开发。鉴于当前的市场动态，激励参与者继续设计新的和创新的长尾策略以提取价值。根据 Flashbots 的说法，在过去 30 天里，仅在以太坊上就已经提取了价值 2000 万美元的 MEV。即使 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC挤兑暴雷实属FUD]]></title>
+        <id>https://www.theblockbeats.info/news/31055</id>
+        <link href="https://www.theblockbeats.info/news/31055"/>
+        <updated>2022-06-30T12:38:51.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：蝉爷讲禅
+原文标题：《币圈辟谣：「Circle 或存在挤兑风险？」虚假信息》
+ 
+看到咨讯平台弹出来的新闻，我就有义务去扒一扒源头，和事情真伪，毕竟 Stablecoin USDC 出现暴雷意味着什么？
+
+
+查看完数据真的要 FUD（指某些人散播负面消息造成投资人感到害怕和不确定，试图影响市场行情），原图如下：
+ 
+
+
+
+29 日推主 @Cryptolnsider23 开始发文相关于「Circle 或存在挤兑风险」。而且还 @ 了批量的投资人以此造成市场恐慌。
+
+
+
+
+
+
+
+
+链上数据查看并非如此（如下图）：
+
+
+
+（链上数据图一）
+
+
+链上数据图一是 USDC 链上转帐实时动态趋势图（图一绿柱为 USDC 净转入，红柱代表 USDC 净转出，紫柱代表 USDC 转帐数量，黄线代表转帐平均值）而发出此文试图影响到整体市场恐慌导致今天效果小有生效。但并非是交易员推主 @Cryptolnsider23 所写的一样。因为挤兑、暴雷一般出现 Token 市值快速下跌，链上数据大额频繁流出。但事实并未如此。
+
+
+
+
+
+
+上图推主阐述 USDC 机制的观点，本人完全不同意，在这轮熊市中已不容易，所以强烈阻止 FUD 的事件发生。
+
+
+推主观点：Circle 或存在挤兑风险。他称，Circle 向其 USDC 储备存款合作银行 Signature 和 Silvergate 支付高于现金存款的利息，每年大约是 5%，这是 Circle 持续亏钱的原因，到 2022 年 Q1，Circle 亏损 5 亿美元，预计 2022 年总计将亏损 15 亿美元。
+
+
+不同观点最主要为 USDC 和签名有银行挤兑风险，是因为贷款方无法归还大额数量 USDC（数十亿美元）出现的风险。如果一家银行被迫以折扣价清算长期资产以弥补短期负债，有可能会资不抵债，贷款金额上受到严格监管，以防止这种情况发生。（不难看出图中和推主所说有事实出入）
+
+
+再去推敲就是 4-5 节点推主理解错误（银行不是乘以准备金，它是乘以银行资产，而存款不是银行资本的一部分）。
+
+
+综上，Stablecoin 的确存在很多的不确定性风险。但小编始终都是以客观性、真实信息来分析此事。
+
+
+本文来自投稿，不代表 BlockBeats 观点。  
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC为什么拒绝灰度现货比特币ETF]]></title>
         <id>https://www.theblockbeats.info/news/31053</id>
@@ -515,237 +608,6 @@ William M. Peaster
         <link href="https://www.theblockbeats.info/news/31032"/>
         <updated>2022-06-28T08:22:07.000Z</updated>
         <summary type="html"><![CDATA[IOSG：dYdX出走事件下应用链与L2 Rollup之争]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX的新一期IE0 CRIPCO：人人共建IP品牌的NFT生态系统]]></title>
-        <id>https://www.theblockbeats.info/news/31031</id>
-        <link href="https://www.theblockbeats.info/news/31031"/>
-        <updated>2022-06-28T04:48:07.000Z</updated>
-        <summary type="html"><![CDATA[在 NFT 领域，交易市场、发行平台、借贷应用、跨链协议等各种基础设施的不断出现改善了 NFT 项目的启动流畅度并提升了 NFT 资产的流动性，从而推动了 NFT 市场的快速发展。但众多购买了 NFT 的「消费者」依然缺少一种能够帮助他们将「被动等待升值」转化为「主动创造增值」的基础设施。
-
-
-NFT 在 IP 品牌化方面仍有极大的潜力等待挖掘。CRIPCO 围绕该赛道构建生态系统，
-
-旨在打造一个 NFT 发行方与其持有者能够协同打造 IP 品牌的生态系统，从而帮助「消费者」完成向「创造者」的转变，改变 NFT IP 品牌的发展方式，推动「创作者经济」创新。良好的融资情况也体现了机构对这一方兴未艾的新赛道寄予的期望，其参投方包括 FTX Ventures、Solana Ventures、Musinsa、NEOWIZ Games、VESTIGIUM(Klay) 与 PlayDapp。  
-
-
-
-
-BlockBeats 将在本文对该项目进行介绍。
-
-
-生态组成
-
-
-CRIPCO 的生态系统由「引入」、「分销」、「创作」三部分组成，为 NFT IP 品牌打造提供全链条支撑。
-
-
-「引入」- CRIPCO DAO
-
-
-
-
-为了保证 CRIPCO 生态系统内的项目质量，各新项目必须通过 CRIPCO DAO 的审核方被引入 CRIPCO。CRIPCO DAO 的成员来自娱乐、时尚、艺术乃至元宇宙等各个领域，均在各自领域颇有建树与影响力，如藤原浩、陈冠希等。DAO 成员不但将以过硬的专业能力确保被引入项目的质量，还能够凭借其影响力为项目的早期启动铺平道路。
-
-
-
-
-
-
-
-    CRIPCO DAO 成员概览
-
-
-「分销」- NFT 交易市场
-
-
-与现有 NFT 交易市场相比，CRIPCO 的 NFT 交易市场的交易费率极低。对于以 ETH 进行结算的交易仅收取交易金额 1% 的交易…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Benson详解：USDT会暴雷吗？]]></title>
-        <id>https://www.theblockbeats.info/news/31030</id>
-        <link href="https://www.theblockbeats.info/news/31030"/>
-        <updated>2022-06-28T04:08:07.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：FTX_Benson
-
-
-我们先来看一下 USDT 的资产储备成分，其实所有的 Stablecoin 发行商资产储备都和货币市场基金成分类似，都是以现金、高质量的短期债券与票据为主。
-
-
-时间回到 2008 年，当时最大的货币市场基金 Reserve Primary 的规模达到 630 亿美元，其持有约 7800 万美元的雷曼银行的短期债券（仅占总资产 1.2%）。
-
-
-
-
-
-正是这微不足道的敞口，导致了市场的恐慌。
-
-
-因为雷曼兄弟破产的消息太过突然，Reserve Primary 来不及处理手中雷曼的短期债券，这些债券没人想买卖，也就无法评估其剩余价值。导致他们没办法跟投资人确保，他们的 100 美分与 1 美元等值。
-
-
-2008 年 9 月 16 日，Reserve Primary 宣布只剩 97 美分。打破了大众对于货币基金价值永远为 1 美元的认知。
-
-
-这导致了现代金融史上，投资人恐慌程度最严重的事件。在接下来的两周内，投资人从货币市场基金撤出高达 1230 亿美元的资金。
-
-
-由于 1：1 兑换的承诺，只要资产负债表稍有瑕疵，就会引发挤兑连锁反应，从这点看来，货币市场基金与 Stablecoin 具备高度相似性。
-
-
-要了解 USDT 是不是会暴雷，要先回答两个问题： 
-
-
-1. USDT 资产储备质量的流动性如何？
-
-
-2.USDT 有没有可能像 2008 年的货币市场基金一样，出现超大量赎回潮？
-
-
-先讲第一个问题，USDT 资产储备质量一直以来都在改善，原本有一半是 CP（商业票据），这部分慢慢被 T-Bill（美国短期国债）取代。
-
-
-CP vs T-Bill 的比例：
-
-
-2Q21： 49%，24% 
-
-
-3Q21： 44%，28% 
-
-
-4Q21： 31%，44% 
-
-
-1Q22： 24%，48%。
-
-
-
-
-
-2022Q2 的报告还没出…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Global黑客松10个入围应用，个个出彩]]></title>
-        <id>https://www.theblockbeats.info/news/31029</id>
-        <link href="https://www.theblockbeats.info/news/31029"/>
-        <updated>2022-06-28T03:08:07.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：0x137，BlockBeats
-
-
-
-昨日，ETHGlobal 公布了 ETH New York 黑客松活动中的 10 个入围应用，范围覆盖游戏、NFT、钱包安全以及社交通讯等多个方面，每个项目都趣味十足，充满潜力。在本文中，BlockBeats 对这 10 个入围项目的应用场景和交互流程做了详细介绍。
-
-
-Guidl
-
-
-
-
-
-
-
-Guildl 是一个游戏公会管理平台，旨在帮助 Web3.0 游戏生态中的玩家和工会共享资源。通过 Guidl，玩家能够使用公会内其他成员的游戏账号、链上资产以及游戏内技能等，不仅可以强化工会的氛围和共识，帮助游戏新手们快速成长，还能提高游戏生态内的资源分配效率，使每个成员发挥自己的优势。
-
-
-
-连接钱包后，用户便可以开始在 Guildl 平台创建公会。点击「Create Guild」上传公会标志、名称和简介，该内容将通过 IPFS 进行。工会的所有权可以转让，会长可以自定义设置公会的规则，比如如资产访问权控制等。
-
-
-
-
-
-
-
-在用户创建好公会后，就可以用自己的钱包地址或 ENS 域名邀请其他玩家加入。玩家通过 EPNS 系统收到通知，并选择接受或拒绝此邀请。如果玩家点击「Accept」，便会自动铸造一枚灵魂绑定 Token，并获得访问公会资源的权限。
-
-
-
-
-
-
-
-玩家可以借用公会内成员的账户登录链上游戏、使用成员的链上资产，而基于 Gnosis Safes 的公会结构则确保了借方玩家 NFT 的安全，让每个成员完全掌控自己的玩家资料。
-
-
-
-点击进入自己所在的公会后便可以看到工会内其他成员、游戏以及链上资产，点击资产旁的「Play」就可以直接使用公友的账号和资产开始游戏。
-
-
-
-
-
-
-
-在 Guidl 上创建的公会不与任何游戏绑定，且兼容大部分公链生态内的游戏，以便为公会成员提供更高的灵活性。团队计划继续扩展 Guidl 的跨…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市场低点时，巨鲸的NFT抄底策略]]></title>
-        <id>https://www.theblockbeats.info/news/31025</id>
-        <link href="https://www.theblockbeats.info/news/31025"/>
-        <updated>2022-06-28T02:08:07.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-在市场低点时，巨鲸如何抄底 NFT？
-
-》
-原文来源：
-
-NFTGo
-
-
-
-Key Takeaways
-
-
-- 在 6 月中旬的下跌中，巨鲸抄底的顺序为：Bored Ape Yacht Club > Yuga Labs 其他的 NFT  > 其他蓝筹及新兴项目，并且抄底类型、抄底价格与资金规模有关。
-
-
-- 抄底资金超过 50 万美元的超级巨鲸中，有的专注于对单一 NFT 抄底，有的建立了多样化组合抄底；选择用 10—25 万美元的资金规模抄底的巨鲸偏多，所抄底的 NFT 成本也有所不同。
-
-
-- 通过对具体巨鲸的抄底进行还原，发现他们的策略具有一些共同点，例如：分批购买、越跌越买，并且各自拥有自己的抄底「妙招」。
-
-
-从 6 月 7 日到 6 月 18 日，加密市场和 NFT 纷纷暴跌，而在本周，NFT 市场在逐渐反弹回暖。那么，在市场低点中，巨鲸抄底了哪些 NFT，他们采取了哪些策略？都有哪些巨鲸参与了此次低点买入，以及巨鲸的抄底组合和平均抄底价格是多少呢？
-
-
-市场低点时，交易量上升
-
-
-自今年上半年以来，加密市场便一直处于下跌状态。在最近两周时间（6 月 7 日——6 月 18 日）内，BTC 价格持续下跌，两周跌幅超过 40%，受 Celsius 的影响，ETH 也一度下跌至 1000 美元以下。
-
-
-
-BTC 市值，数据来源：CMC
-
-
-同样，NFT 市场因此受到了影响，近来 OpenSea 的交易量也在呈现下降趋势，但我们看到 6 月 7 日到 6 月 18 日这段时间内的交易量出现异动。在下降趋势中，NFT 市场仍产生了短暂的大量交易，期间发生大量换手，因此我们本次选定该时间范围作为分析区间。
-
-
-
-OpenSea 交易量走势（6.7—6.18），数据来源：NFTGo.io
-
-
-巨鲸抄底了哪些 NFT？
-
-
-巨鲸购买数量前十的 NFT
-
-
-在…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
