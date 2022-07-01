@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-06-30T18:10:17.771Z</updated>
+    <updated>2022-07-01T00:45:24.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -588,26 +588,6 @@ William M. Peaster
 
 
 最后，对于加密行业中有需求的工作类型，简单的答案是所有类型。开发人员…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港能否借助 Web3 迎来下一个“八达通时刻”]]></title>
-        <id>https://www.theblockbeats.info/news/31033</id>
-        <link href="https://www.theblockbeats.info/news/31033"/>
-        <updated>2022-06-28T09:22:07.000Z</updated>
-        <summary type="html"><![CDATA[香港能否借助 Web3 迎来下一个“八达通时刻”]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG：dYdX出走事件下应用链与L2 Rollup之争]]></title>
-        <id>https://www.theblockbeats.info/news/31032</id>
-        <link href="https://www.theblockbeats.info/news/31032"/>
-        <updated>2022-06-28T08:22:07.000Z</updated>
-        <summary type="html"><![CDATA[IOSG：dYdX出走事件下应用链与L2 Rollup之争]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
