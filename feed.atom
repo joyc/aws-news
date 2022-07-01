@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-01T12:15:36.960Z</updated>
+    <updated>2022-07-01T18:10:20.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年Q2加密市场投融资报告：借贷市场规模急剧萎缩，GameFi和NFT更受资本青睐]]></title>
+        <id>https://www.theblockbeats.info/news/31082</id>
+        <link href="https://www.theblockbeats.info/news/31082"/>
+        <updated>2022-07-01T14:03:02.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《2022 年 Q2 加密市场投融资报告：GameFi 成为投资关键词》
+原文作者：十文，Odaily 星球日报
+
+
+
+
+加密货币市场第二季度出现较大波动。
+
+
+宏观层面，美联储已确定加息 75 个基点至 1.75%，单次加息幅度创 1994 年以来近三十年新高。加息背景下，投资者的交易情绪受挫，很可能会在经济放缓之前抛售风险资产，这也为加密市场带来了看空情绪。
+
+
+从加密市场自身来看，5 月 Luna 崩盘、UST 脱锚不仅让算法稳定币的叙事走进了死胡同，还带来了一系列连锁反应。在币价大幅下跌的情况下，机构的大量抵押资产面临被清算，借贷市场规模急剧萎缩，三箭、Celsius、Jump、Hashed 、Delphi 等机构损失惨重，一些 CeFi 平台也面临用户赎回压力。
+
+
+从数字上来看，整个 DeFi TVL 从 2400 多亿美元急降至现在的 720 亿美元，折损了 70%。NFT 市场的表现也不尽人意，市值从年初的 350 亿美元降至 223 亿美元，下降了 36 %。GameFi 方面，曾经的 P2E 链游之王 Axie Infinity，其游戏代币 AXS 从最高点下跌了 92%。
+
+
+可以说，2022 年第二季度，加密市场一片混乱。
+
+
+但尽管二级市场屡创新低，一级市场的投资趋势和主题正在形成，老牌机构和新的投资者迅速入场，在各个垂直领域寻找最佳投资机会。一级市场往往先于二级市场埋伏到热点领域，也预示着一段「时差」后二级市场的投资风向。因此把握一级市场投融资情况，相当于为未来的二级市场投资提前布局。
+
+
+回看 Q2 一级市场投融资活动，Odaily 星球日报发现：
+
+
+- Q2 融资数量为 511 笔，超过 1 亿美元以上的交易数量达到 28 笔；
+- 加密金融服务商与传统金融行业联系紧密，并在托管、结算、支付等领域上持续创新，因此得到了资本的更多关…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitMEX创始人：三箭资本是如何从巅峰滑向破产]]></title>
         <id>https://www.theblockbeats.info/news/31081</id>
@@ -791,46 +829,6 @@ LTCM 在股票衍生品市场有三种主要交易类型：股票套利、波动
 请记住：LTCM 并不是套利、股票波动率、债券市场的终结，它只是将杠杆转移到了其他地方，为银行创造了杠杆和收益。同样，此次加密危机也只不过是数字资产道路上的一个坎而已，这场风暴最终也将过去（甚至可能已经过去，因为在我看来，流动性收紧高峰已经退去）。
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3能否重塑音乐产业链？]]></title>
-        <id>https://www.theblockbeats.info/news/31036</id>
-        <link href="https://www.theblockbeats.info/news/31036"/>
-        <updated>2022-06-29T04:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Web3能否重塑音乐产业链？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum奥德赛第二周活动开启，你需要注意哪些问题？]]></title>
-        <id>https://www.theblockbeats.info/news/31039</id>
-        <link href="https://www.theblockbeats.info/news/31039"/>
-        <updated>2022-06-29T03:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum奥德赛第二周活动开启，你需要注意哪些问题？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82支加密基金半年回顾：DOT成首选资产]]></title>
-        <id>https://www.theblockbeats.info/news/31037</id>
-        <link href="https://www.theblockbeats.info/news/31037"/>
-        <updated>2022-06-29T03:33:12.000Z</updated>
-        <summary type="html"><![CDATA[82支加密基金半年回顾：DOT成首选资产]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik：以太坊的账户抽象之路]]></title>
-        <id>https://www.theblockbeats.info/news/31034</id>
-        <link href="https://www.theblockbeats.info/news/31034"/>
-        <updated>2022-06-29T02:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik：以太坊的账户抽象之路]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

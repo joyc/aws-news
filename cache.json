@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31082",
+          "author": null,
+          "description": "原文标题：《2022 年 Q2 加密市场投融资报告：GameFi 成为投资关键词》\n原文作者：十文，Odaily 星球日报\n\n\n\n\n加密货币市场第二季度出现较大波动。\n\n\n宏观层面，美联储已确定加息 75 个基点至 1.75%，单次加息幅度创 1994 年以来近三十年新高。加息背景下，投资者的交易情绪受挫，很可能会在经济放缓之前抛售风险资产，这也为加密市场带来了看空情绪。\n\n\n从加密市场自身来看，5 月 Luna 崩盘、UST 脱锚不仅让算法稳定币的叙事走进了死胡同，还带来了一系列连锁反应。在币价大幅下跌的情况下，机构的大量抵押资产面临被清算，借贷市场规模急剧萎缩，三箭、Celsius、Jump、Hashed 、Delphi 等机构损失惨重，一些 CeFi 平台也面临用户赎回压力。\n\n\n从数字上来看，整个 DeFi TVL 从 2400 多亿美元急降至现在的 720 亿美元，折损了 70%。NFT 市场的表现也不尽人意，市值从年初的 350 亿美元降至 223 亿美元，下降了 36 %。GameFi 方面，曾经的 P2E 链游之王 Axie Infinity，其游戏代币 AXS 从最高点下跌了 92%。\n\n\n可以说，2022 年第二季度，加密市场一片混乱。\n\n\n但尽管二级市场屡创新低，一级市场的投资趋势和主题正在形成，老牌机构和新的投资者迅速入场，在各个垂直领域寻找最佳投资机会。一级市场往往先于二级市场埋伏到热点领域，也预示着一段「时差」后二级市场的投资风向。因此把握一级市场投融资情况，相当于为未来的二级市场投资提前布局。\n\n\n回看 Q2 一级市场投融资活动，Odaily 星球日报发现：\n\n\n- Q2 融资数量为 511 笔，超过 1 亿美元以上的交易数量达到 28 笔；\n- 加密金融服务商与传统金融行业联系紧密，并在托管、结算、支付等领域上持续创新，因此得到了资本的更多关…",
+          "link": "https://www.theblockbeats.info/news/31082",
+          "publishedOn": "2022-07-01T14:03:02.000Z",
+          "wordCount": null,
+          "title": "2022年Q2加密市场投融资报告：借贷市场规模急剧萎缩，GameFi和NFT更受资本青睐",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31081",
           "author": null,
           "description": "原文标题：《Arthur Hayes 详谈三箭资本危机：饥渴的陷阱》\n原文作者：\n\nArthur Hayes，BitMEX  创始人 \n原文编译：DeFi 之道\n\n\n目前的加密熊市是我第三次与普遍的市场大屠杀擦肩。虽然有时感觉像是重播，但每一集都会带来新的教训。每个人都会对这些教训有自己的看法 -- 但如果你听的是主流金融媒体，那么我可以肯定地告诉你，你被灌输的是错误的启示。他们在为 TradFi 这个魔鬼服务时，会利用每一个机会来嘲笑我们的经济/社会实验 -- 欣喜地宣称，「我们警告过你，加密货币一文不值！」以我们的主聪的圣名，我将试图纠正这些恶意的谩骂。\n\n\n在这篇文章中，我将以三箭资本（3AC）的传奇故事为视角，通过它我们可以更好地理解应该从当前的熊市中获得的真正见解。请注意，虽然我个人认识 Su Zhu 和 Kyle Davies（3AC 的负责人），但除了公开报道的内容外，我对发生的事情一无所知。我打算利用我对加密货币、金融服务和常识的了解，从 TerraUSD 和 Luna 的内爆开始，找出我认为导致其崩溃的原因。\n\n\n3AC 崩溃本身并不引人注目。一个曾成功执行无聊但收益稳定的套利策略的对冲基金，决定绑上杠杆来加速回报，付出了代价。使用借来的资金来玩 TerraUSD 套利交易，使他们被判了死刑。\n\n\n但是，使 3AC 违约这一事件有如此影响的是，它在许多最大的中心化加密借贷业务中炸开了一个鲸鲨般大小的洞。由于 3AC 贷款的损失，这些贷款业务中的许多已经关闭了客户资金，无力偿还贷款。信贷从加密生态系统中撤出，也造成了比特币、以太坊和整个山寨币普遍市场的崩溃。没有一个币能幸免于难。\n\n\n但很多媒体都没有提到的是，中心化和去中心化的借贷公司/平台都有 3AC 的风险，而这两个市场中只有一个参与者倒闭了。中心化的借贷公司集体倒塌，而他们对应的去中心化公司则清算了抵…",
@@ -143,46 +153,6 @@
           "publishedOn": "2022-06-29T08:33:12.000Z",
           "wordCount": null,
           "title": "1998年的LTCM，2022年的三箭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31036",
-          "author": null,
-          "description": "Web3能否重塑音乐产业链？",
-          "link": "https://www.theblockbeats.info/news/31036",
-          "publishedOn": "2022-06-29T04:11:12.000Z",
-          "wordCount": null,
-          "title": "Web3能否重塑音乐产业链？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31039",
-          "author": null,
-          "description": "Arbitrum奥德赛第二周活动开启，你需要注意哪些问题？",
-          "link": "https://www.theblockbeats.info/news/31039",
-          "publishedOn": "2022-06-29T03:59:12.000Z",
-          "wordCount": null,
-          "title": "Arbitrum奥德赛第二周活动开启，你需要注意哪些问题？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31037",
-          "author": null,
-          "description": "82支加密基金半年回顾：DOT成首选资产",
-          "link": "https://www.theblockbeats.info/news/31037",
-          "publishedOn": "2022-06-29T03:33:12.000Z",
-          "wordCount": null,
-          "title": "82支加密基金半年回顾：DOT成首选资产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31034",
-          "author": null,
-          "description": "Vitalik：以太坊的账户抽象之路",
-          "link": "https://www.theblockbeats.info/news/31034",
-          "publishedOn": "2022-06-29T02:14:12.000Z",
-          "wordCount": null,
-          "title": "Vitalik：以太坊的账户抽象之路",
           "imageUrl": null
         }
       ]
