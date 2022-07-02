@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-02T12:12:16.813Z</updated>
+    <updated>2022-07-02T18:08:31.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -643,109 +643,6 @@ SEC 已经批准了 BITO、Proshares 以及其他期货 ETF，这些基于芝加
 
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥德赛活动中止，Layer2也不是万能的]]></title>
-        <id>https://www.theblockbeats.info/news/31047</id>
-        <link href="https://www.theblockbeats.info/news/31047"/>
-        <updated>2022-06-30T04:19:28.000Z</updated>
-        <summary type="html"><![CDATA[原文编译：0x711，
-
-BlockBeats
-
-
-本文梳理自 Cinneamhain Ventures 合伙人 Adam Cochran 个人社交平台观点，BlockBeats 对其整理翻译如下：
-
-
-
-随着 Arbitrum 奥德赛活动推高了 Arbitrum 网络的 GAS 价格，有很多关于 L2 有效性的讨论。因此，是时候重新审视当前 L2 背后的一些基础知识了。
-
-
-首先要记住的是 L2 有多种类型，但基本前提是相同的：将一些元素从以太坊主网上移走，但该状态固定在以太坊上，同时仍然继承主网的安全性。简单来说，我们将状态与计算过程分离，以实现这一点。就像电脑中的 CPU（计算）、内存（活动）和硬盘（长期存储）一样。
-
-
-当前的 L2 技术，概括来说，大多是将计算过程从主网分离出来，但存储仍保留在主网上。因此，这意味着在 L2 上，智能合约中如「calldata」之类的元素和状态存储可能比在主网上有相对稳定的 GAS 成本（或者在某些情况下会有更高的 GAS 成本），但计算成本呈指数级降低。
-
-
-因此，只是单纯将合约迁移可能不会节省很多 gas，但进行一些优化就可以带来很大的提升。例如，Aave 针对 rollup 对 V3 进行优化，便将 gas 成本优化了 10 倍。举一个超级简单的例子，如果您有两个变量 A = 10 和 B = 7，在内部计算 (A - B) 比进行任何外部调用估算值或存储第三种状态都更有效率。
-
-
-现在我们不仅可以通过调用数据/存储转移来改进合约，当我们使用调用数据或存储时，我们还可以对其进行压缩或字节打包。这与 ZIP 文件在计算机上压缩数据的原理相同。
-
-
-但即使在所有这些改进之后，还有另一个瓶颈，我们仍然需要将一些状态写回以太坊主链，这本身就是收费的。现在 rollup 技术通过将这些交易进行打包处理来解决这个问题。如果我们将 100 笔交易汇总在一起，我们只需支付一笔费用即可将输出状态写入主链，因此 L2 上的每笔交易都支付一小部分费用，节省了总的费用。
-
-
-但是，如果在某一时刻只有一笔交易，那么他们仍然需要向主网支付全部费用。目前，大多数 L2 可能会抽象出一种方式并自掏腰包支付费用，但他们不可能永远这样做。因此，只要 L2 没有遇到另一个瓶颈或没有一个未优化的合约在进行大量交易，它们拥有的交易越多，其交易成本效率就会越高（与 L1 相反）。
-
-
-现在出现了其他瓶颈，包括 sequencer 或 solver 容量、自定义 EVM 实现以及其他关于数据存储和压缩的改进，但核心要素已经存在。
-
-
-我认为看到 L2 的费用飙升可能令人不安，尤其是当主网的费用与去年相比非常低时。但了解原因很重要。
-
-
-L2 们不是万能的，对于 Arbitrum，他们的 Nitro（在批处理和压缩方面做出了巨大的提升）已经在测试网中，看起来他们应该在 Nitro 上线之后再进行奥德赛活动。
-
-
-重申一下，奥德赛运行在 Arbitrum 未优化的 V1 上，并且正在运行大量调用数据和存储（桥接）的交易，而且交易量仍然适中。在未来，我们可以期待 tx 类型的再平衡。
-
-
-推荐阅读 L2 模型专家 @epolynya 的文章，对 L2 可以有更深入的了解。
-
-
-原文链接
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stETH力挽狂澜：链上数据复盘巨鲸如何完成自救]]></title>
-        <id>https://www.theblockbeats.info/news/31046</id>
-        <link href="https://www.theblockbeats.info/news/31046"/>
-        <updated>2022-06-30T03:19:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Nansen 复盘加密巨头自救：如何阻止百亿多米诺倾塌》
-原文来源： Nansen
-原文编译：
-
-Katie 辜，
-
-Odaily 星球日报
-
-
-
-随着前阵时间 stETH 脱锚事件的进一步发展，围绕这一话题又涌出很多猜测。Curve  的 stETH/ETH 池不平衡，其中原因显然可以追溯到 UST 脱锚。
-
-
-Nansen 的本篇报告从 LUNA 爆雷讲起，覆盖其后发生的一系列加密百亿巨头们的「多米诺」倒牌，在了解了大规模交易 stETH 的钱包之后，深入研究了各个实体，并分析了它们的交易行为。结论包括：
-
-
-stETH 是 ETH 的衍生品，严格来说，不需要与 ETH 进行同等交易（即 1:1 ETH 挂钩）；
-
-
-stETH 价格仍在变化，这为其他人以低于 ETH 的价格购买 stETH 创造了机会；
-
-
-大部分时间里，stETH 一直与 ETH 交易（1:1），直到 UST/LUNA 脱锚才改变；UST 脱锚发生后，Curve 池中 stETH/ETH 汇率降至 0.94。
-
-
-stETH 脱锚重创 Curve TVL
-
-
-在 UST 脱锚之前，stETH 与 ETH 的价格一直相对平等，UST 爆雷后，stETH/ETH 汇率开始低于 1:1，此后差距不断扩大。
-
-
-从 6 月 1-7 日，Curve 池中的 ETH/stETH 比率保持在相对稳定的 0.45，而 stETH 价格在 0.98 ETH。6 月 7 日开始出现 stETH/ETH 汇率降低的迹象，此时 ETH 余额减少，stETH 余额增加。
-
-
-从 6 月 9 日到 6 月 10 日，ETH 和 stETH 余额都减少了超过 10 万，因为 stETH 继续以 0.97 的折扣交易。鉴于不稳定的宏观环境，这导致用户通过移除流动性和/或出售 stETH 获得 ETH 进一步降低头寸风险…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
