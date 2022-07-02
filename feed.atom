@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-02T00:43:19.149Z</updated>
+    <updated>2022-07-02T06:11:33.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XCarnival宣布未来两年投入5000 ETH打造「Security Star」计划]]></title>
+        <id>https://www.theblockbeats.info/news/31083</id>
+        <link href="https://www.theblockbeats.info/news/31083"/>
+        <updated>2022-07-02T04:42:05.000Z</updated>
+        <summary type="html"><![CDATA[文章来源：XCarnival
+
+
+6 月 26 日，攻击者利用合约漏洞攻击，造成 XCarnival 平台直接损失 3087 ETH。XCarnival 团队成员不断努力，经过与攻击者多轮谈判，首期追缴到 1467 个 ETH。为体现行业责任心，保障 XCarnival 用户及生态伙伴的利益，XCarnival 发起「Security Star」计划，主要包括智能合约安全和保险基金两部分，计划在两年内持续投入 5000 ETH，用以保障平台及用户资产安全。
+
+
+在智能合约安全方面，XCarnival 表示，作为 NFT 多链流动性提供商，为了应对日益增多的安全性问题挑战，XCarnival 再度加强了内部交叉审计机制、并在和 CertiK 合作的基础上（CertiK 前期已出具审计报告，同时针对本次攻击事件 CertiK 官方已给出澄清声明以证明 XCarnival 官方智能合约均已通过 CertiK 审计）再次引入了新的外部审计机构 Peck Shield，并很快将对外推出漏洞悬赏计划。
+ 
+在保险基金方面，成立 XFund，该基金主要面对 XCarnival 自身及其生态合作伙伴，预计未来两年内投入 5000 ETH。该基金主要作用是：
+
+
+1. 基金将会由 XCarnival DAO 独立负责运作，其功能是为了保证在 XCarnival 平台的资产及资金安全。
+
+
+2. 基金将负责承担极端情况平台在非人为因素下发生损失的赔偿责任，基金成立后将首先对事件中的还未追缴的部分（1620 ETH）进行补偿。
+
+
+3. 在有借贷资产发生清算时，基金将根据资产的实际情况作为清算发起人进行资产的处理，确保借贷资产安全。
+ 
+「Security Star」计划的提出是 NFTFi 产业的一个创新探索。XCarnival 早期投资机构 A&T、Fundamental Labs、SNZ、…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linera：有Facebook背景的新公链]]></title>
+        <id>https://www.theblockbeats.info/news/31084</id>
+        <link href="https://www.theblockbeats.info/news/31084"/>
+        <updated>2022-07-02T04:42:05.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Crescent，律动 BlockBeats
+责任编辑：0x29
+
+
+新公链的故事尚未结束，Solana、Avalanchr、Near 还没有让用户完全满意，新公链故事势必延续。今天 BlockBeats 为读者简单介绍 Linera，这款 Fackbook 前员工打造、刚拿到 a16z 领投 600 万美元融资的新网络。
+
+
+
+
+简单来说，Linera 是一个旨在将 Web2 可扩展性与低延迟引入 Web3 的 Layer 1 区块链项目。
+
+
+ 
+始于 Meta
+
+
+ 
+Linera 于 2021 年创立，创始团队包括前 Zcash、前 Meta/Novi 及伦敦城市大学的工程师和研究人员，在 Web2 和 Web3 方面皆有较强的技术背景。
+
+
+ 
+不得不提的是 Linera 创始人兼首席执行官 Mathieu Baudet，他作为前 Meta（原 Facebook）的软件工程师，曾参与创建 Diem（原 Libra）区块链。Mathieu Baudet 拥有加密协议博士学位，熟知 BFT 共识协议，并且有丰富的区块链基础建设、人工智能基础建设、开发者基础建设、安全咨询以及创业开发的经验。
+
+
+ 
+a16z 似乎格外钟情于前 Meta 成员所创建的项目，不仅曾领投过前 Meta 成员创立的 Web3 基础设施供应商 Mysten Labs，还曾领投过同样由前 Meta 成员创立的 Layer 1 区块链 Aptos。此次 Linera 完成的 600 万美元种子轮融资仍然是由 a16z 领投，其他参投者还包括 Cygni Capital、Kima Ventures 和 Tribe Capital 等。
+
+
+ 
+建立初衷
+
+
+ 
+区块链历来在审查阻力方面有较为出色的表现，但在当前还有许多需要低延迟的应用程序。如在零售支付、游戏应用程序的小额支付、自营交易以及区…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话a16z联创：Web3/Crypto就是互联网的后半部分]]></title>
+        <id>https://www.theblockbeats.info/news/31080</id>
+        <link href="https://www.theblockbeats.info/news/31080"/>
+        <updated>2022-07-02T02:42:05.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《「硅谷预言家」马克·安德森: 这是三个非常有前途的科技领域
+
+》
+
+
+原文来源：华尔街见闻
+原文作者：朱雪莹、王眉
+
+
+作为网景 (Netscape)、早期 SaaS 公司 Opsware 的创始人，马克·安德森 (Marc Andreessen) 凭借敏锐的行业嗅觉被誉为「硅谷预言家」，他还与 Ben Horowitz 共同创立了美国顶级风投机构 Andreessen Horowitz (a16z)。
+
+
+凭借丰富的行业经验，Andreessen 对新技术的发展与颠覆，以及商业机会的创造有着独到的见解。
+
+
+在最新访谈中，安德森分析了人工智能、加密货币和 Web3 等技术趋势，并重点探讨了为何成熟企业难以与数字初创企业相竞争。
+
+
+安德森具体指出，我们现在正处于「搜索阶段」，并且已经寻找到可以攀登的三座技术高峰，分别是 A—人工智能 (AI)、B—生物技术 (Biotech) 和 C—加密货币 (crypto) 和 Web3，并且认为大量优秀人才正涌向这三大领域，成为行业发展的核心动力。
+
+
+安德森将传统企业与数字初创企业进行对比，表示很多传统 500 强企业仍不愿将自己定位成科技公司，真正的技术专家并未获得头等重视。而在初创企业在技术专家的带领下，正紧跟先进技术的步伐。所以关于如何进行数字化转型？安德森表示，要找到公司里最聪明的技术专家，让他们成为 CEO。
+
+
+在加密货币和 Web3 领域，安德森认为将产生基础性技术变革，这种根本性的转变可能需要 25-30 年时间。
+
+
+此外安德森还提及，互联网是一个非受信的网络，它是一个无需许可的环境，这释放了巨大的创造潜力，但如果你要做生意、开公司，却无法依赖于一个非受信的网络环境，互联网原生技术无法提供与现实世界中一样值得信赖的经济机制。
+
+
+而区块链/Web3/Crypto 就是互联网的后半部分。它在非受信的网络…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年Q2加密市场投融资报告：借贷市场规模急剧萎缩，GameFi和NFT更受资本青睐]]></title>
         <id>https://www.theblockbeats.info/news/31082</id>
@@ -634,83 +746,6 @@ stETH 脱锚重创 Curve TVL
 
 
 从 6 月 9 日到 6 月 10 日，ETH 和 stETH 余额都减少了超过 10 万，因为 stETH 继续以 0.97 的折扣交易。鉴于不稳定的宏观环境，这导致用户通过移除流动性和/或出售 stETH 获得 ETH 进一步降低头寸风险…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顾全球金融危机，DeFi可以从中学到什么？]]></title>
-        <id>https://www.theblockbeats.info/news/31045</id>
-        <link href="https://www.theblockbeats.info/news/31045"/>
-        <updated>2022-06-29T14:38:50.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-这一次，Crypto 崩盘没有什么不同
-
-》
-原文作者：Trevor Chow
-原文编译：
-
-南风，Unitimes
-
-
-
-
-2007 年 6 月 20 日。
-
-
-
-那天，贝尔斯登 (Bear Stearns) 救助了旗下两家对冲基金。这是表明次贷危机已经超越了住房市场，越过了贷款机构和证券化机构，一路蔓延到华尔街的一家大型投资银行的第一个迹象。
-
-
-9 个月之后，贝尔斯登面临破产，又过了一年，道琼斯指数在 2009 年 3 月 6 日跌至最低点。无论金融市场在 2007 年年中看上去多么低迷，在好转之前，情况继续恶化得更严峻。
-
-
-距离那一天已经过去了整整 15 年，如今，Crypto 和 DeFi 领域的乌云正在聚集。本着这种精神，让我们回顾一下全球金融危机，看看 DeFi 是否能从 1929 年以来最严重的传统金融危机中学到什么。
-
-
-多样化带来的「安全性」
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-这场全球金融危机标志着大稳健 (Great Moderation) 时期的结束。在此之前的 30 年里，出现了一个无与伦比的牛市，房价上涨了 4 倍。总体而言，人们非理性地过度狂热，并认为住房只会升值。因此，银行开始向信用不良的人提供次级抵押贷款，假设在最坏的情况下，你可以拿房子作为抵押。因为房子的价值会更高，所以风险似乎很小。
-
-
-与此同时，由于投资者寻找投资渠道，全球出现了储蓄过剩。为了满足这一需求，银行决定制造更多安全的资产供投资者购买，将抵押贷款打包成抵押贷款支持证券 (MBS)。这些金融工具根据基础抵押贷款提供收益。投资者可能不愿意购买个人抵押贷款，但 MBS 似乎是一件更具吸引力的事情。他们不需要担心任何一种抵押贷款的风险，就可以购买许多不同的抵押贷款。一个房主可能会违约，但世界上什么时候所有人会同时违约呢？它是…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
