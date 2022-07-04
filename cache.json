@@ -64,36 +64,6 @@
           "wordCount": null,
           "title": "2022年Q2加密市场投融资报告：借贷市场规模急剧萎缩，GameFi和NFT更受资本青睐",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31081",
-          "author": null,
-          "description": "原文标题：《Arthur Hayes 详谈三箭资本危机：饥渴的陷阱》\n原文作者：\n\nArthur Hayes，BitMEX  创始人 \n原文编译：DeFi 之道\n\n\n目前的加密熊市是我第三次与普遍的市场大屠杀擦肩。虽然有时感觉像是重播，但每一集都会带来新的教训。每个人都会对这些教训有自己的看法 -- 但如果你听的是主流金融媒体，那么我可以肯定地告诉你，你被灌输的是错误的启示。他们在为 TradFi 这个魔鬼服务时，会利用每一个机会来嘲笑我们的经济/社会实验 -- 欣喜地宣称，「我们警告过你，加密货币一文不值！」以我们的主聪的圣名，我将试图纠正这些恶意的谩骂。\n\n\n在这篇文章中，我将以三箭资本（3AC）的传奇故事为视角，通过它我们可以更好地理解应该从当前的熊市中获得的真正见解。请注意，虽然我个人认识 Su Zhu 和 Kyle Davies（3AC 的负责人），但除了公开报道的内容外，我对发生的事情一无所知。我打算利用我对加密货币、金融服务和常识的了解，从 TerraUSD 和 Luna 的内爆开始，找出我认为导致其崩溃的原因。\n\n\n3AC 崩溃本身并不引人注目。一个曾成功执行无聊但收益稳定的套利策略的对冲基金，决定绑上杠杆来加速回报，付出了代价。使用借来的资金来玩 TerraUSD 套利交易，使他们被判了死刑。\n\n\n但是，使 3AC 违约这一事件有如此影响的是，它在许多最大的中心化加密借贷业务中炸开了一个鲸鲨般大小的洞。由于 3AC 贷款的损失，这些贷款业务中的许多已经关闭了客户资金，无力偿还贷款。信贷从加密生态系统中撤出，也造成了比特币、以太坊和整个山寨币普遍市场的崩溃。没有一个币能幸免于难。\n\n\n但很多媒体都没有提到的是，中心化和去中心化的借贷公司/平台都有 3AC 的风险，而这两个市场中只有一个参与者倒闭了。中心化的借贷公司集体倒塌，而他们对应的去中心化公司则清算了抵…",
-          "link": "https://www.theblockbeats.info/news/31081",
-          "publishedOn": "2022-07-01T09:50:55.000Z",
-          "wordCount": null,
-          "title": "BitMEX创始人：三箭资本是如何从巅峰滑向破产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31059",
-          "author": null,
-          "description": "原文题目：《纯干货分享｜在 Web 3.0 世界，该如何开展社区运营？》\n原文来源：Moledao\n\n\n6 月 26 日晚 8 点，Moledao 与 AstroX 共同举办了中文区圆桌第一期，围绕 Web3 的社区运营展开讨论。嘉宾有 Dolores @force_ipfs（Force Community Manager）、Mosher @Astro_Network（AstroX Operation Manager）、TY @tyoutliers（OutliersDAO core contributor/Director）、Blockpunk @blockpunk2077（ICPL founder）。\n\n\n以下为讨论会精简版概述：\n\n\n\n\nDAO 的起源（TY）：\n\n\n1994 年 Kevin Kelly 的《失控》描绘了蜂群思维。（蜂群思维是一种集体思维，是指由许多独立的单元高度连接而成的一个活系统，现常用于计算机和互联网领域。）\n\n\n\n\n\n所以 DAO 是开发者希望在未来一个理想状况下，可以实施一个无领袖的去中心化的组织。就好像一群蚂蚁，蚂蚁是利用一个全体智慧的生物。一只蚂蚁是做不了什么的，但是在一群蚂蚁的背后，就会有一个看不见的手，控制着这整个群体，并且让他们去完成很多事情。这个在经济学的核心理论就叫做看不见的手。\n\n\nDAO 这个概念来自于 2016 年比特币的一个核心开发者。DAO 刚开始是在 2016 年 4 月，The DAO 做的这件事，它们想做成无领导、无员工、无国界的组织，所有运转都是用智能合约。最后众筹了 1200 万。但两周后，黑客用以太坊的漏洞，劫走了以太坊资金。挽救了损失，但最后还是瓦解了，那个时候 DAO 就消失了，后来 2021 年才又开始被关注。\n\n\n想了解 DAO 的可以去看民主制和公司制，在人类的发展史，你就会明白 DAO 是什么，怎…",
-          "link": "https://www.theblockbeats.info/news/31059",
-          "publishedOn": "2022-07-01T08:23:28.000Z",
-          "wordCount": null,
-          "title": "如何运营好一个DAO组织？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31058",
-          "author": null,
-          "description": "如果说 iPhone 开启了移动互联网的大门，那在 Web3 世界里，钱包就是门票。我们能够在链上世界尝试各种新奇的项目，钱包是唯一入口。\n\n\n\n\n在众多钱包中，MetaMask 是绝对龙头。最新披露的数据里，这款被称为「小狐狸」的加密钱包每月有超过 3000 万活跃用户。这个数字在去年年底还是 2100 万。\n\n\n\n\n纵观加密行业，这是 Web3 领域目前可见的最大触达用户数。\n\n\n\n\n但这样一款产品也非一蹴而就，在成长的 6 年里，他们也经历过融资被拒，经历过重组，也有不得不进行裁员的时候。在 Web3 创业潮中，我们非常想了解 MetaMask 的成功秘籍，和他们创业的经验。\n\n\n第三期活动详情\n\n\n活动主题：发现 Permissionless Innovation\n\n\n直播时间：\n\n7 月 2 日（周六）13:00\n\n\n\n直播嘉宾：\n \n小狐狸 MetaMask 钱包创始人 Kumavis (Aaron Davis)\n Mask Network 创始人 SuJi\nKeystone Wallet CEO Lixin\n\n\n活动简介\n\n\n在本期的对话中，将围绕创业团队如何与开源社区合作、怎样有效的激发「Permissionless Innovation」、早期创业时在面临团队分离、资金短缺时候应该如何处理以及目前国内 Web3.0 创业者最关心的「走出去」问题，同三位嘉宾一起深度交流和探讨。希望可以继续为 Web3.0 创业者们新的启发和帮助。  \n\n\n互动直播间地址：https://twitter.com/i/spaces/1DXxyDRmdMPJM\n\n\n点击查看活动详情\n  \n\n\n\n\n\n\n关于 Web3.0 Master Class\n\n\n\n\n\n\n\n\n\n\n\n\nWeb3.0 Master Class 是由律动 BlockBeats 发起的面向 Web 3 爱好者、创业者以及从业者们的系列活动。邀请富有经验的创业者、投资人/机构、开发者、社区等行业先驱传授讲述自身创业经验、产品运营技巧、项目投资方向等多维度干货内容。\n\n\n前两期内容回顾\n\n\n《Web3 创业指南：如何进行冷启动并完成早期用户吸引｜Web3.0 Master Class（第一期）》\n\n《Web3.0 创业如何获得融资？| Web3.0 Master Class（第二期）》\n\n\n加入 BlockBeats Discord，共话 Web3 发展。  \n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31058",
-          "publishedOn": "2022-07-01T07:22:55.000Z",
-          "wordCount": null,
-          "title": "对话MetaMask：发现Permissionless Innovation|Web3.0 Master Class（第三期）",
-          "imageUrl": null
         }
       ]
     },
