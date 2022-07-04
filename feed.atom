@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-04T12:16:44.190Z</updated>
+    <updated>2022-07-04T18:10:17.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celestia：如何确保消息检索结果的完整性]]></title>
+        <id>https://www.theblockbeats.info/news/31107</id>
+        <link href="https://www.theblockbeats.info/news/31107"/>
+        <updated>2022-07-04T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Celestia 如何确保消息检索结果的完整性》
+原文作者：
+
+Hoyt，W3.Hitchhiker
+
+
+写作本文的原因：
+
+
+
+
+
+有感于 Celestia 白皮书中，关于使用『带命名空间的默克尔树』的相关章节，原文写得比较复杂，我们花了大量的时间去阅读，查看开源的示例代码，并和作者反复沟通才最终达成一致。而作为翻译，我们不能对原文的结构有太大改动，因此，为了使大家理解起来更容易，我们考虑单独发文，以更简明的方式向大家介绍相关内容。
+
+
+问题的由来：
+
+
+
+
+
+为了实现链的容量扩展，Celestia 承诺主权应用将只需下载与其有关的消息（消息和交易的区别是，交易专指改变应用状态的消息），而不用下载全部消息，但同时，不同应用的消息是打包在同一个区块里面的，以实现平等的安全性。那么，如何保证当某个应用的执行节点向 Celestia 的存储节点查询消息时，存储节点仅返回所有的相关消息，而且恶意存储节点无法隐藏特定消息呢（注意这里跟数据可用性是不同的概念，那个是指不下载所有数据的轻客户端，如何确信数据可以被验证节点下载到）。
+
+
+Celestia 选择的方案是，将称为命名空间的应用标识符，插入到消息构成的默克尔树的节点信息中。这样做的好处是，可以处理存储节点隐藏全部相关消息的情况，可以定位被隐藏的消息。另外，无需大幅度修改默克尔树的生成逻辑，以确保存在一个节点，它的底层叶节点，包含且仅包含某个命名空间的全部消息，且能定位此节点。而只需要做三件相对简单的事情，就可以确保默克尔树的基本特性，不发生变化：
+
+
+首先，生成消息的默克尔树之前，先按命名空间将消息分组归并在一起，确保不同命名空间的消息没有穿插，且命名空间是排好序的。
+
+
+其次，修改生成默克尔树时使用的哈希函数，以便命名空间信息被包含进节点信息（因为非叶节点，就只有哈希这唯一信息）。
+
+
+检查默克尔树时，额外检查排…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3.0创业指南：发现Permissionless Innovation | Web3.0 Master Class（第三期）]]></title>
+        <id>https://www.theblockbeats.info/news/31109</id>
+        <link href="https://www.theblockbeats.info/news/31109"/>
+        <updated>2022-07-04T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[7 月 2 日，BlockBeats 承办，MetaMask、Mask Network 和 Keystone Wallet 协办的 Web3.0 Master Class x Web3 Social Club 以「发现 Permissionless Innovation」为主题，邀请了 MetaMask 钱包创始人 Kumavis (Aaron Davis)、Mask Network 创始人 SuJi 以及 Keystone Wallet CEO Lixin，为创业者们分享他们的故事。三位嘉宾将围绕创业团队如何与开源社区合作、怎样有效的激发「Permissionless Innovation」、早期创业时在面临团队分离、资金短缺时候应该如何处理以及华人 Web3.0 创业者应该注意哪些问题，一起深度交流和探讨。希望可以继续为 Web3.0 创业者们新的启发和帮助。
+
+
+《对话 MetaMask：发现 Permissionless Innovation|Web3.0 Master Class（3）》
+
+
+
+
+
+
+
+BlockBeats：欢迎大家来到今天的 Web3.0 Master Class。本期我们是一场英文内容的对话，邀请嘉宾为 MetaMask 钱包创始人 Kumavis (Aaron Davis)、Mask Network 创始人 SuJi 以及 Keystone Wallet CEO Lixin。首先请三位嘉宾先做一下自我介绍。
+
+
+
+
+
+
+Lixin：大家好，我是 Lixin，Keystone 硬件钱包的 CEO，其实我是 2013 年的时候正式进入加密领域，开始接触比特币。2017 年的时候开始做 Keystone 的钱包，我们大概花三年的时间做的是比特币安全相关的事情，2021 年年终的时候开始做以太坊和 Web3.0 相关事务，也是非常的幸运，我们是成为 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[律师解读三箭清算：三箭和债权人同时提出清算]]></title>
         <id>https://www.theblockbeats.info/news/31106</id>
@@ -410,118 +481,6 @@ TL;DR
 
 
 后来人类不可…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XCarnival宣布未来两年投入5000 ETH打造「Security Star」计划]]></title>
-        <id>https://www.theblockbeats.info/news/31083</id>
-        <link href="https://www.theblockbeats.info/news/31083"/>
-        <updated>2022-07-02T04:42:05.000Z</updated>
-        <summary type="html"><![CDATA[文章来源：XCarnival
-
-
-6 月 26 日，攻击者利用合约漏洞攻击，造成 XCarnival 平台直接损失 3087 ETH。XCarnival 团队成员不断努力，经过与攻击者多轮谈判，首期追缴到 1467 个 ETH。为体现行业责任心，保障 XCarnival 用户及生态伙伴的利益，XCarnival 发起「Security Star」计划，主要包括智能合约安全和保险基金两部分，计划在两年内持续投入 5000 ETH，用以保障平台及用户资产安全。
-
-
-在智能合约安全方面，XCarnival 表示，作为 NFT 多链流动性提供商，为了应对日益增多的安全性问题挑战，XCarnival 再度加强了内部交叉审计机制、并在和 CertiK 合作的基础上（CertiK 前期已出具审计报告，同时针对本次攻击事件 CertiK 官方已给出澄清声明以证明 XCarnival 官方智能合约均已通过 CertiK 审计）再次引入了新的外部审计机构 Peck Shield，并很快将对外推出漏洞悬赏计划。
- 
-在保险基金方面，成立 XFund，该基金主要面对 XCarnival 自身及其生态合作伙伴，预计未来两年内投入 5000 ETH。该基金主要作用是：
-
-
-1. 基金将会由 XCarnival DAO 独立负责运作，其功能是为了保证在 XCarnival 平台的资产及资金安全。
-
-
-2. 基金将负责承担极端情况平台在非人为因素下发生损失的赔偿责任，基金成立后将首先对事件中的还未追缴的部分（1620 ETH）进行补偿。
-
-
-3. 在有借贷资产发生清算时，基金将根据资产的实际情况作为清算发起人进行资产的处理，确保借贷资产安全。
- 
-「Security Star」计划的提出是 NFTFi 产业的一个创新探索。XCarnival 早期投资机构 A&T、Fundamental Labs、SNZ、…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linera：有Facebook背景的新公链]]></title>
-        <id>https://www.theblockbeats.info/news/31084</id>
-        <link href="https://www.theblockbeats.info/news/31084"/>
-        <updated>2022-07-02T04:42:05.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Crescent，律动 BlockBeats
-责任编辑：0x29
-
-
-新公链的故事尚未结束，Solana、Avalanchr、Near 还没有让用户完全满意，新公链故事势必延续。今天 BlockBeats 为读者简单介绍 Linera，这款 Fackbook 前员工打造、刚拿到 a16z 领投 600 万美元融资的新网络。
-
-
-
-
-简单来说，Linera 是一个旨在将 Web2 可扩展性与低延迟引入 Web3 的 Layer 1 区块链项目。
-
-
- 
-始于 Meta
-
-
- 
-Linera 于 2021 年创立，创始团队包括前 Zcash、前 Meta/Novi 及伦敦城市大学的工程师和研究人员，在 Web2 和 Web3 方面皆有较强的技术背景。
-
-
- 
-不得不提的是 Linera 创始人兼首席执行官 Mathieu Baudet，他作为前 Meta（原 Facebook）的软件工程师，曾参与创建 Diem（原 Libra）区块链。Mathieu Baudet 拥有加密协议博士学位，熟知 BFT 共识协议，并且有丰富的区块链基础建设、人工智能基础建设、开发者基础建设、安全咨询以及创业开发的经验。
-
-
- 
-a16z 似乎格外钟情于前 Meta 成员所创建的项目，不仅曾领投过前 Meta 成员创立的 Web3 基础设施供应商 Mysten Labs，还曾领投过同样由前 Meta 成员创立的 Layer 1 区块链 Aptos。此次 Linera 完成的 600 万美元种子轮融资仍然是由 a16z 领投，其他参投者还包括 Cygni Capital、Kima Ventures 和 Tribe Capital 等。
-
-
- 
-建立初衷
-
-
- 
-区块链历来在审查阻力方面有较为出色的表现，但在当前还有许多需要低延迟的应用程序。如在零售支付、游戏应用程序的小额支付、自营交易以及区…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话a16z联创：Web3/Crypto就是互联网的后半部分]]></title>
-        <id>https://www.theblockbeats.info/news/31080</id>
-        <link href="https://www.theblockbeats.info/news/31080"/>
-        <updated>2022-07-02T02:42:05.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《「硅谷预言家」马克·安德森: 这是三个非常有前途的科技领域
-
-》
-
-
-原文来源：华尔街见闻
-原文作者：朱雪莹、王眉
-
-
-作为网景 (Netscape)、早期 SaaS 公司 Opsware 的创始人，马克·安德森 (Marc Andreessen) 凭借敏锐的行业嗅觉被誉为「硅谷预言家」，他还与 Ben Horowitz 共同创立了美国顶级风投机构 Andreessen Horowitz (a16z)。
-
-
-凭借丰富的行业经验，Andreessen 对新技术的发展与颠覆，以及商业机会的创造有着独到的见解。
-
-
-在最新访谈中，安德森分析了人工智能、加密货币和 Web3 等技术趋势，并重点探讨了为何成熟企业难以与数字初创企业相竞争。
-
-
-安德森具体指出，我们现在正处于「搜索阶段」，并且已经寻找到可以攀登的三座技术高峰，分别是 A—人工智能 (AI)、B—生物技术 (Biotech) 和 C—加密货币 (crypto) 和 Web3，并且认为大量优秀人才正涌向这三大领域，成为行业发展的核心动力。
-
-
-安德森将传统企业与数字初创企业进行对比，表示很多传统 500 强企业仍不愿将自己定位成科技公司，真正的技术专家并未获得头等重视。而在初创企业在技术专家的带领下，正紧跟先进技术的步伐。所以关于如何进行数字化转型？安德森表示，要找到公司里最聪明的技术专家，让他们成为 CEO。
-
-
-在加密货币和 Web3 领域，安德森认为将产生基础性技术变革，这种根本性的转变可能需要 25-30 年时间。
-
-
-此外安德森还提及，互联网是一个非受信的网络，它是一个无需许可的环境，这释放了巨大的创造潜力，但如果你要做生意、开公司，却无法依赖于一个非受信的网络环境，互联网原生技术无法提供与现实世界中一样值得信赖的经济机制。
-
-
-而区块链/Web3/Crypto 就是互联网的后半部分。它在非受信的网络…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
