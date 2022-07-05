@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-05T12:14:42.520Z</updated>
+    <updated>2022-07-05T18:09:36.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊成功推迟难度炸弹，合并的「拦路虎」还有这些]]></title>
+        <id>https://www.theblockbeats.info/news/31124</id>
+        <link href="https://www.theblockbeats.info/news/31124"/>
+        <updated>2022-07-05T14:35:03.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《以太坊成功推迟难度炸弹，合并的「拦路虎」还有这些》
+原文作者：
+
+Ben Edgington，
+
+ConsenSys
+
+
+原文编译：隔夜的粥，元宇宙之道 
+
+
+以太坊成功推迟难度炸弹，合并的「拦路虎」还有这些  注：上周，以太坊成功完成了灰色冰川（Gray Glacier）硬分叉升级，将难度炸弹推迟了大约 100 天的时间，而对于以太坊接下来的合并，来自 ConsenSys 的 开发者 Ben Edgington 分享了一些信息（译文有删减）。
+
+
+
+
+
+
+主网第 7 次影子分叉
+
+
+
+
+我们在 6 月 22 日执行了 MSF7（第 7 次主网影子分叉），与合并直接相关的一切都很顺利，但出现了 2 个问题（与合并不直接相关）：
+
+
+
+
+1、Erigon 有一些观察困难，这与影子分叉的设置机制有关，它对真实的主网分叉来说并不是问题，并且该问题已经得到了修复。
+
+
+2、Besu 节点遇到了数据库损坏问题，这似乎与并发相关（多线程同时更新数据库），并且在合并之外也有发现这种情况。团队正在紧急修复该问题，它不仅是和合并相关的，预计应在一两周内完成这个任务。
+
+
+
+
+还有一个僵局问题发生在 Nethermind 和 Teku 的身上，基本上，双方都在等待对方。无论如何，Teku 已更新为更积极地重试，这可以解决问题。Prysm 将进行相同的更新。
+
+
+
+
+挖掘这些边缘案例就是我们进行影子分叉的原因！接下来将是全速前进。
+
+
+
+
+根据计划，主网第 8 次影子分叉将在 7 月 5 日进行。
+
+
+
+
+Sepolia 测试网合并
+
+
+
+
+Sepolia 测试网将在 7 月 5 日左右合并，你可以关注 bordel.wtf‌ 来查看时间，合并的时间很大程度上取决于网络的算力情况，有时某些人会附加很多算力，所以具体的合并时间点并不是很确定。
+
+
+
+
+Ropsten 同步测试
+
+
+
+
+同步由两个独立客户端管理的两个区块链会带来一些挑战，而这可能是我们不得不考虑的，合并中最棘手的地方。出于这个原因，配对客户端之间的同步过程受到了一些额外的审查。为此，EF DevOps 团队正在 Merged Ropsten 测试网上进行一系列测试，并记录‌他们的发现。
+
+
+
+
+Staking（质押）
+
+
+
+
+第 17 次 Stakehouse 社区电话会议在几天前举行，在「降低以太坊 Solo 质押技术壁垒」的旗帜下，这些已经成为一种非常优秀的资源。
+
+
+我强烈建议你观看直播，如果可以的话，甚至可以参加下电话会议，你会学到很多。
+
+
+
+
+当我们转向权益证明（PoS）时，降低 99.95% 的功耗对你来说还不够好？好吧，看看 @jcrpt‌，他是在 10 瓦以下进行的验证。
+
+
+
+
+研究
+
+
+
+
+Vitalik 在最近发布的一篇调查文章中，谈到了可能限制验证器集大小‌的话题，这是对我们面临的各种权衡的有趣探索。
+
+
+
+
+其他进展
+
+
+
+
+1、Flashbots 已开始每周更新验证者的 MEV-Boost 实施进度：
+
+
+（1）6 月 17-24 日
+（2）6 月 24-30 日
+
+
+2、Prysmatic Labs 社区更新：2022 年 6 月
+
+
+3、以太坊基金会对质押运营商文档‌提出了一个有趣的提案 request。回复将于 7 月 8 日截止，所以请及时发表意见。
+
+
+4、Coinbase 已经恢复了他们的 ETH2 更新‌。
+
+
+原文链接
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragonfly Capital合伙人：Layer 2是当下发展的中心，DID的普及十分必要]]></title>
         <id>https://www.theblockbeats.info/news/31125</id>
@@ -843,87 +976,6 @@ Web3 或许不一定是一个更好的互联网，但如果不去探索，我们
 
 
 推荐理由：本文回顾了 2008 年-2021 年的监管政策变化，将时代划分成：创世纪、吞噬期、通往主流、拥抱监管。也是对比特币发展史的一次回溯。加密货币和市场的博弈和政府的博弈都描述的尽详。在最后一章节讨论区块链的价值。加密货币只有在…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonrunners登顶OpenSea周交易量榜首，可变NFT的剧情游戏]]></title>
-        <id>https://www.theblockbeats.info/news/31085</id>
-        <link href="https://www.theblockbeats.info/news/31085"/>
-        <updated>2022-07-03T05:37:45.000Z</updated>
-        <summary type="html"><![CDATA[撰文：0xLaughing，律动 BlockBeats
-
-
-最近一个多月的时间里，可以说 Free Mint 就是 NFT 市场的主旋律，哥布林、For The Culture 和 We Are All Going to Die (WAGDIE) 、Gossamer Seed 等项目玩法花哨至极，即使在整个大盘不景气的情况下，仍然走出了属于自己的独立行情，力图榨干市场最后一丝注意力。而在过去这一周里，Moonrunners 接过了接力棒。
-
-
-
-
-
-Moonrunners 在 OpenSea 上过去 7 天的交易额占据榜首
-
-
-
-
-与月鸟做对比，Moon 前缀的名称、像素画风、几乎照搬的官网页面，无论怎么看 Moonrunners 都完全是一个没有新意的仿盘项目。然而就是这个在最开始时丝毫没有「明星相」的「图狗」，仅仅用了一周的时间就从 Free Mint 到 地板价一度超过了 0.85 ETH，总交易额超过 1,000 万美金并拿下 OpenSea 一周交易榜的榜首。
-
-
-
-
-而 Moonrunners 精心编排的两大阵营、三种角色、六大部落的人狼世纪大战的故事才刚刚开始。
-
-
-
-
-TL;DR
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-故事线-NFT
-
-
-
-
-本节将按照官方发布的时间顺序和故事线，逐一讲解 Moonrunners NFT 相对应的变化。
-
-
-
-
-第一章 后「赤色洪水」时代
-
-
-
-
-6 月 24 日 15:30 至 6 月 25 日 22:00
-
-
-
-
-故事
-
-
-一直以来，人类和狼族在 Primordia 这个星球上和谐共存，这里的狼被称为月行者 (Moonrunners)。超过千年的和平从未被打破，因为有一群有天赋的、能够翻译狼语的月语者 (Moonspeakers) 在维系着人类与狼的关系，因而他们得到了整个 Primordia 的尊敬。
-
-
-后来人类不可…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
