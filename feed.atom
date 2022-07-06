@@ -2,10 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-06T00:46:43.145Z</updated>
+    <updated>2022-07-06T06:10:52.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ZigZag InvisibL3：保护隐私的 DEX]]></title>
+        <id>https://www.theblockbeats.info/news/31128</id>
+        <link href="https://www.theblockbeats.info/news/31128"/>
+        <updated>2022-07-06T04:52:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《ZigZag InvisibL3—保护隐私的 DEX》
+原文来源：ZigZag Exchange
+
+
+
+  穿着隐形斗篷的哈利波特  
+
+
+这篇文章从技术上介绍了我们新的应用程序，即一种订单簿 Token 兑换平台。其采用名为 InvisibL3 的专门为应用定制的 ZK Rollup，在保留快速交易的同时结合隐私保护，允许用户在利用 ZK Rollups 的完全可扩展性的同时保持链上匿名性。  
+
+
+隐私的重要性
+
+
+尽管区块链上的地址对不熟悉的用户来说似乎是匿名的，但它们允许任何人查看您的所有交易。一旦地址的假名与个人联系在一起，基本上就无处可藏了。虽然现有的解决方案，比如 Tornado Cash，是很好的选择，但它们缺乏很多实用性。
+
+
+InvisibL3 将提供一些完全独特的功能。我们的交易平台将允许用户匿名交易资产，同时以保密方式隐藏他们交易的金额。我们的观点是，隐私不应该只是一种选择，而应该是一种业界标准。任何人都可以匿名浏览银行对账单的世界并不是加密货币发展的实际愿景。我们的交易平台不仅旨在与现有的隐私解决方案（例如 Aztec Protocol 或 Tornado Cash）竞争，而且还与传统的中心化和去中心化交易平台扳手腕。隐私匿名交易平台的一些好处是：
+
+
+· 允许机构交易者入场 DeFi，因为隐私是他们的主要关注点之一（法律或其他方面）
+
+
+· 帮助减少我们在 AMM 模式下司空见惯的「恶性」MEV，例如三明治攻击
+
+
+· 允许专业交易者将其策略保密
+
+
+不影响安全性或可扩展性的隐私 DEX 
+
+
+问题是如何在无需许可的交易中实现隐私，同时保持安全性和可扩展性。我们想到的最简单的答案可能是利用 ZK 证明的力量来证明状态转换已正确执行，而无需透露任何输入（金额或地址）。归根结底，这与传统中心化交易平台来说并不是一个很大的改进。不仅把资金交…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PartyDAO：他们1年内把概念做成了2亿美元的产品]]></title>
+        <id>https://www.theblockbeats.info/news/31130</id>
+        <link href="https://www.theblockbeats.info/news/31130"/>
+        <updated>2022-07-06T04:44:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+PartyDAO 的故事 –——一群陌生人如何在 1 年内把一篇推文变成了 2 亿美金的产品 DAO
+
+》
+原文作者：cwweb3，DAO爱好者
+
+
+几周前，PartyDAO 公布了他们拿到 A16z 领投的 1640 万美金融资，估值两亿美金，这是迄今为止社区驱动类 DAO 的最高估值。
+
+
+PartyDAO 很神奇，他源于一篇推文，没有创始人，没有中心化团队，绝大部分成员都有自己的本质工作只能业余时间参与，就是在这种情况下他们交出了一个不错的产品，并且靠着仅仅 25 个 ETH 的社区融资，在不到一年的时间里发展成了一个令人瞩目的产品 DAO。
+
+
+缘起
+
+
+21 年 4 月 16 日，这是个周五的夜晚，Paradigm 的研究合伙人 Dave White 心情大概是不错，于是他开始在 Twitter 上撩闲 -
+
+
+
+周五晚上了，我们玩个东西呗。用「如果 [xxxx]，那不是很酷吗」的格式回复，然后我们可以一起开脑洞看看能做点啥。  
+
+
+他一共收到了 18 个按照要求格式的回复，其中一个来自 Mirror 的创始人 Denis Nazarov。
+
+
+
+  「如果可以部署 DAO 来自动竞标任何 NFT 拍卖，那不是很酷吗，叫它 PartyBid」  
+
+
+Denis 不仅提出了想法，起了名字，还顺便在同一个推文里把基本业务逻辑讲清楚了，正经把一篇推文的容量用到了极限。
+
+
+有一位叫 Anish 的大兄弟看到了这个推文。他的本职工作是在 Polychain 资本做高性能交易系统，工作以外的时间喜欢在以太坊上鼓捣点东西，自称业余 Solidity 工程师。Anish 显然谦虚了，他充分发扬了多干活少 BB 的精神，用了一个周末就把 Denis 的想法变成了合约。
+
+
+
+
+Anish 前脚刚在 twitter 上说他把这事办了，就有一个叫 Anna 的姑娘…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web2裁员潮，Web3求人潮 | Web3招聘墙 （7.6更新）]]></title>
+        <id>https://www.theblockbeats.info/news/30668</id>
+        <link href="https://www.theblockbeats.info/news/30668"/>
+        <updated>2022-07-06T04:36:19.000Z</updated>
+        <summary type="html"><![CDATA[不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。
+
+
+我们常说，在熊市中你需要做的只有 Build。那么，该
+
+Build 什么？去哪 Build？
+
+
+BlockBeats Web3 招聘墙
+
+
+BlockBeats 希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。
+
+
+BlockBeats
+招聘岗位：海外运营、iOS 开发（希望你对 Crypto 领域有所了解）
+
+工作语言：中文/英文
+联系方式：contact@theblockbeats.org
+
+
+Optimism
+招聘岗位：工程师、合规、数据分析、产品、设计师
+工作地点：远程
+工作语言：英文
+联系方式：https://boards.greenhouse.io/oplabs
+
+
+dYdX
+招聘岗位：设计师、数据分析、工程师、产品等
+工作地点：远程、纽约、旧金山
+工作语言：英文
+联系方式：https://boards.greenhouse.io/dydx/
+
+
+Evmos
+招聘岗位：工程师、产品、设计师、社群经理、市场、BD、HR
+工作地点：远程、柏林、迈阿密
+工作语言：英文
+联系方式：https://evmos.notion.site/
+
+
+Ontology
+招聘岗位：产品经理、功能测试工程师、测试开发工程师、数据分析、高级运营、英文编辑等
+工作地点：远程/上海
+工作语言：中文/英文
+联系方式：https://ont.io/join
+
+
+A…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度解析NFT和ETH之间的相关性]]></title>
+        <id>https://www.theblockbeats.info/news/31127</id>
+        <link href="https://www.theblockbeats.info/news/31127"/>
+        <updated>2022-07-06T04:04:19.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《深度解析 NFT 和 ETH 之间相关性》
+原文作者：
+
+NFTGo
+
+
+
+简介
+
+
+自从去年夏季的疯狂涨势后，NFT  正面临有史以来的市场冷静期。我们在第一篇文章中调查了蓝筹股 NFT 的表现，这篇文章中将继续研究推动 NFT 市场价格变化的宏观趋势。
+
+
+在过去一周，以太坊上有超过 2.46 亿美元的交易量，市场上的交易主要以 ETH  计价。随着 ETH 的价值从 4K 美元以上的历史高位跌至 1K 美元，NFT 的估值也在这次暴跌中受到影响。
+
+
+在如此不确定的、充斥着投机的时期，我们可以利用数据从噪音中发现信号，以数据导向做出决定。在这篇文章中，我们将研究 ETH 和 NFT 之间的关联性。
+
+
+NFT 和 ETH 的市值是如何计算的？
+
+
+一般来说，市值是分析一家公司、NFT 收藏品或加密货币的美元价值的一个指标。这个指标是基于该资产的当前股价和其流通股总数。由于股票和加密货币都是可替换的资产，这些类型资产的市值是通过将流通股总数乘以一股的当前市场价格来计算的。例如，如果一个加密货币共有 100 万股，每股股价为 20 美元，其市值将是 100*20 美元 = 2000 万美元。
+
+
+在 NFT 中，由于稀有性和其他动态因素，集合中的每个 NFT 可能具有不同的价值。NFT 市场也是由 ERC1155（Semi-fungible）Token 组成。为了适应这两种因素，并提供一个 NFT 收藏品总价值的准确表示，NFTGo.io 市值计算是以 NFT 收藏品的地板价和其最新交易价格之间的最大值。这样我们可以剔除部分最高价藏品，从而体现收藏品的总价值。
+
+
+市值为什么很重要？
+
+
+市值在评估项目的潜在上升空间时起着关键作用，而且市值是投资者衡量 NFT 支付意愿的重要指标之一。虽然一个 NFT 的平均价格可能被高估或低估，但市值可以更准确地确定 NFT…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊成功推迟难度炸弹，合并的「拦路虎」还有这些]]></title>
         <id>https://www.theblockbeats.info/news/31124</id>
