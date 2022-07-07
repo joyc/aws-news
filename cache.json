@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31144",
+          "author": null,
+          "description": "原文标题：《\n\n价值捕获 |\n\nWeb3 公司的收入都去了哪？》\n原文作者：\n\nFMResearchTeam， FutureMoney\n\n\nTLDR; 结论：\n\n\n\n\n（1）总收入：Web3 商业模式已经大有发展，其中最强大的仍然是「出售区块空间」，其次是 NFT 交易平台、DeFi 、GameFi 和基础设施。\n\n\n（2）协议收入：大部分收入仍然来自 Liquidity Providers 和 Lenders 等角色创造的 Supply-side Revenue，协议本身的盈利能力 Protocol Revenue 仍然较少，其中流向 Token Holders 的部分更少。虽然用户享受到了质押收益和治理权，但最核心的经济利益现在仍然不能够保证。\n\n\n（3）协议收入存在审计漏洞，对 Token Holders 造成风险：Protocol Revenue 中的风险计提没有得到体现，协议收入数据与Token销售数据经常混为一谈，甚至有部分协议收入隐藏了 Rug Pull 风险。\n\n\n1.Web3公司的收入情况概览\n\n\n\n\n\n\n\n\n\n1.1 这些 Web3 公司（协议）的收入最高 \n\n\n在所有的公司中，收入几乎是最重要的指标之一。那么 Web3 公司究竟有在创造收入吗？目前，市场上比较可信的数据来自于 Token Terminal，此外 the Block，Messari 和 Web3 Index 也提供了部分数据。遗憾的是，目前没有任何一家完整地统计了全市场数据；我们将四者的数据结合起来进行分析，输出了独家分析报告。由于部分链上数据存在缺失，个别信息可能存在偏差，我们会在未来持续改进。\n\n\n\n\n\n（图 1）近 180 天总收入排行前 17 名的协议\n（source：Token Terminal, the Block，\ncurated by FutureMoney Resear…",
+          "link": "https://www.theblockbeats.info/news/31144",
+          "publishedOn": "2022-07-07T14:00:29.000Z",
+          "wordCount": null,
+          "title": "【深度】Web3公司收入排行榜，价值捕获来自何处?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31145",
           "author": null,
           "description": "原文作者：Serpent，Web3 安全从业者\n原文编译：0x711，BlockBeats\n\n\n\n据 The Block 报道，今年 3 月 Axie Infinity 侧链 Ronin 跨链桥被攻击导致 5.4 亿美元资产被盗的起因，是 Axie Infinity 的员工接收并下载了一份 PDF 文档形式的招聘 offer。文档内附有病毒，导致信息泄露。\n\n\n随着加密世界资金量的加码，钓鱼攻击愈发常见。去年 10 月 AnubisDAO 也发生了疑似邮箱接收 PDF 文档格式的 SAFT 协议，导致 6000 万美元被盗。那么 PDF 文档钓鱼攻击要如何识破并预防呢？\n\n\nWeb3 安全从业者 Serpent 在其社交网站梳理了这种黑客攻击方式。黑客通过将可执行脚本伪装成 PDF 资料诱骗受害者点击，以此盗取资产。BlockBeats 将其推文翻译整理如下。\n\n\n假文件扩展名骗局警告\n\n\n黑客正在通过修改文件扩展名，将恶意文件伪装成 PDF，并针对艺术家、影响者和项目方进行攻击。原理如下：\n\n\n案例：加密艺术家TARSIUS收到一条委托消息，并收到一个压缩文件包，里面据称包含了「客户要求、示例以及草图等资料」。当该艺术家打开这个压缩包后，原本普通的委托就变味儿了。\n\n\n\n\n\n\n\n\n打开压缩包文件后，我们可以看到提供的示例，以及包含「客户」草图的 PDF 文件，但这不是普通的 PDF 文件。它实际上是一个屏幕保护程序 (.scr) 文件，它是一个可执行脚本，伪装成 PDF 文件。\n\n\n\n\n\n\n艺术家打开 PDF 文件查看草图后，他的所有 NFT 都被上架并出售，他所有的 ETH 都被转移到了骗子的钱包。\n\n篇幅所限，本文只列举受害者部分交易。 \n\n\n\n\n\n\n那么黑客是如何得手的呢？他更改了文件扩展名并在末尾添加了.pdf，然后将文件的图标更改为 PDF 图标。他还用垃圾代码填充了文件，超过了病毒文件本身的文件大小，以此加强迷惑性。\n\n\n艺术家不是这个骗局的唯一目标。最近，KOL、推广者和项目方都被作为攻击目标，许多人失去了对钱包和账户的控制权，一切都被彻底抹去。  \n\n\n这是一种古老的 Web2 诈骗策略，它适用于任何和所有文件类型。 \n\n\n如何能避免这种情况？ \n\n\n1. 不要随意下载或打开随机文件；\n\n\n2. 始终检查文件类型；\n\n\n3. 研究和学习基本的 Web2 安全常识。\n\n\n如果您需要打开任何文件，请将它们放在 Google Drive 上并在那里查看，或使用虚拟机。我个人两者都用。\n\n\n您可以通过单击文件资源管理器顶部的「查看」，然后启用「文件扩展名」来启用文件类型扩展名。这将显示所有文件的文件扩展名。（该功能默认情况下是关闭的。）\n\n\n\n\n\n.scr 文件是可执行文件，可以运行任何代码，它基本上是一个 .exe 文件。他们将如何通过这种方式损害您的钱包？好吧，从这一点开始，我们可以假设您的整个 PC 都受到了攻击。\n\n\n\n\n解决办法有很多，但如果你确实中招了，你可以假设你的电脑受到了损害。我建议重置它，创建一个新钱包，并更改所有密码。\n\n  \n\n\n原文链接\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -183,36 +193,6 @@
           "publishedOn": "2022-07-05T09:17:42.000Z",
           "wordCount": null,
           "title": "在DeFiChain区块链上构建dApp的4个理由",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31119",
-          "author": null,
-          "description": "撰文：Cookie，律动 BlockBeats\n\n\n「我领了蓝色的 NFT，差不多 4000 小时。」\n\n\n\n\n\n\n\n\n\n\n熊市里难得出现一个能刷群的项目，这不是 Mt's NFT 那样的盘子，而是 Steam 玩家可以领取的空投，根据 Steam 玩家不同的游戏时长，可领取不同属性与稀有度的 NFT，时间越长越稀有。\n\n\n\n\n\n\n\n\n\n\n\n熊市无聊打游戏？NO，是大家还在撸羊毛\n\n\n\n\n\n\n\n熊市里对圈外进行空投是一个很好的思路，2019 年 Handshake 就曾对几乎所有 Github 用户进行空投，价值上万人民币，影响力不小。同样，与游戏相关的 P12 也有一个不错的开局。\n\n\n「GameFi 生态系统」\n\n\n\n\n\n\nP12 官方对自己的定义是「一个具有可持续经济机制的 GameFi 生态系统」，这个生态系统由「The Editor」、「The Infra」、「The Econs」三部分组成。\n\n\n\n\n\n\n\n\n\n\n\n\n\n编辑器——「The Editor」\n\n\n\n\n\nP12 官方在官网上并未详细向我们展示该编辑器的能力范围，只列出了其 4 个功能特性：\n\n\n\n\n1. 完全可编程性：为复杂玩法提供了成熟的脚本支持，为 PC 与移动端均提供了运行环境支持。\n2. 非像素化：支持外部 3D 模型，使艺术风格更多样，最大化表现力。\n3. 风格融合：不同风格可共存在同一元宇宙中，满足各用户群的不同审美。\n4. 「乐高积木」：代码模板、图形资源甚至代币经济样例都具有可复用性。\n\n\n\n\n\n\n\n通过以上功能特性以及官方 Mirror 上的更新日志来看，该编辑器大概是一个降低了使用门槛的游戏制作器，可支持制作场景、设置 NPC、编写游戏交互逻辑等。\n\n\n\n\n\n\n\n\n基础工具——「The Infra」\n\n\n\n\n\n一套帮助游戏内容上链的工具，包括：\n\n\n\n\n1. GameArtefact…",
-          "link": "https://www.theblockbeats.info/news/31119",
-          "publishedOn": "2022-07-05T05:04:31.000Z",
-          "wordCount": null,
-          "title": "P12：为超10亿Steam玩家空投NFT | 项目介绍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31118",
-          "author": null,
-          "description": "撰文：0xLaughing，律动 BlockBeats\n\n\n\n\n\n\n6 月 20 日当天 NFT.NYC 会场外抗议的人群\n\n\n\n\n6 月 20 日，被 Coinbase 誉为「NFT 世界的超级碗」的 NFT.NYC 盛会在纽约盛大开幕，无数来自世界各地的 NFT 玩家前来「朝圣」。而在会场外，却有一群「不怀好意」的抗议者正在聚集。他们举着各式各样的抗议标牌，其中数量最多、最引人注目的就是「GOD HATES NFTS（上帝讨厌 NFT）」。\n\n\n\n\n这起事件并没有造成什么恶劣的影响，但是马上有人意识到这是一个值得炒作的绝佳机会。\n\n\n\n\n\n God Hates NFTs 的第一条推文\n\n\n\n\n短短 2 天后，6 月 22 日一个名为 God Hates NFTs 的 NFT 项目就在 Twitter 上宣布将要将这些在抗议现场的人物形象制作成一个 NFT 系列，并声称「just for the culture（只是为了文化）」，而它的「炒作」之路才刚刚开始。\n\n\n\n\nTL;DR\n\n\n\n\n• God Hates NFTs 是一个以 NFT.NYC 现场抗议的人物形象为原型的 NFT 系列，于 6 月 30 日采用 Free Mint 的方式发售，总量 5,022 个，地板价一度冲高至 1.8 ETH 左右。\n\n\n\n\n• 处于熊市的 NFT 市场背景让大家对「God Hates NFTs」这个观点容易产生共鸣，God Hates NFTs 社区独有的 4chan meme 文化极易传播，他们甚至可以用 69 这个数字来鼓励其持有者把自己的 NFT 挂单在 69 ETH，某种程度上实现了锁仓。\n\n\n\n\n• 创始人 SrPeters 频繁在 Discord 社区内发动大家去一些知名 KOL 的 Twitter 评论区留言「蹭热度」来宣传布道自己的项目，在其号召下，Sandbox…",
-          "link": "https://www.theblockbeats.info/news/31118",
-          "publishedOn": "2022-07-05T03:04:31.000Z",
-          "wordCount": null,
-          "title": "God Hates NFTs靠「抄袭」4天封神",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31108",
-          "author": null,
-          "description": "原文标题：《DAO 是影响工作的新方式》\n原文作者：Scott Moore，\n\nGitcoin 联合创始人\n\n\n\n\n\n原文编译：Block unicorn\n\n\nGitcoin 的联合创始人表示，「DAO 影响」处于新兴工作文化的最前沿，它要求我们将我们的价值观与我们的行动保持一致。\n\n\nWeb3 社区在本质上是根植于深刻的乐观主义，这项技术的日益普及，使我们有可能设想一个每个人都具备生存和发展这个世界的能力。\n\n\n\n从本质上讲，Web3 已经成为人们希望的聚焦点。\n\n\n在这个世界上，人们很容易对失败的机构、崩溃的基础设施、侵犯隐私和气候灾难愤世嫉俗，这使得我们在互联网上变得尤为重要。有时，我们甚至会觉得自己生活在一个分裂的世界里，不知道谁才是「好人」。\n\n\n虽然 Web3 无法在一夜之间解决这些问题，但我坚信我们拥有比以往更多的工具来解决我们今天面临的最紧迫的协调问题。诸如去中心化自治组织 (DAO) 之类的协作性、互联网原生组织尤其提供共享的叙述（模因）、经济激励措施（金钱）和更灵活的地方治理结构（管理），以使我们朝着正确的方向前进。\n\n\nImpact DAO 处于这种新工作文化趋势的最前沿，这种新文化要求我们将我们的价值观与我们的行动保持一致，并不是远离所谓的 Bullshit jobs（狗屁工作，你也可以说垃圾工作）。从这个意义上说，尽管有相反的呼声，但 Web3 是对日益抽象经济的解毒剂，并且通过一种游戏感和荒谬感，让我们有机会更直接的参与每个有意义的工作。\n\n\n《狗屁工作》一书的理论出自于作者大卫·格雷伯 (David Graeber) ：狗屁工作就是对世界没有什么贡献，就连做这份工作的人都认为此工作没有任何意义，这份工作就算消失了，对世界也没有任何影响。\n\n\n很多 DAO 正在不断的积极推动行业的变化，比如 Gitcoin，不仅专注于自己的使命，还专注于形成多中…",
-          "link": "https://www.theblockbeats.info/news/31108",
-          "publishedOn": "2022-07-05T02:04:31.000Z",
-          "wordCount": null,
-          "title": "Gitcoin联合创始人：DAO是影响工作的新方式",
           "imageUrl": null
         }
       ]
