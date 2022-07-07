@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-07-07 datetime="2022-07-07T04:12:07.000Z">2022-07-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-07-07 datetime="2022-07-07T04:12:07.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-07-07 datetime="2022-07-07T08:40:33.000Z">2022-07-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-07-07 datetime="2022-07-07T08:40:33.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,292 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31145"
+                        open
+                      >
+                        <summary class="article-expander__title">5亿美元的教训，不要让PDF文档钓鱼攻击发生在你身上</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31145">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文作者：Serpent，Web3 安全从业者
+原文编译：0x711，BlockBeats
+
+
+
+据 The Block 报道，今年 3 月 Axie Infinity 侧链 Ronin 跨链桥被攻击导致 5.4 亿美元资产被盗的起因，是 Axie Infinity 的员工接收并下载了一份 PDF 文档形式的招聘 offer。文档内附有病毒，导致信息泄露。
+
+
+随着加密世界资金量的加码，钓鱼攻击愈发常见。去年 10 月 AnubisDAO 也发生了疑似邮箱接收 PDF 文档格式的 SAFT 协议，导致 6000 万美元被盗。那么 PDF 文档钓鱼攻击要如何识破并预防呢？
+
+
+Web3 安全从业者 Serpent 在其社交网站梳理了这种黑客攻击方式。黑客通过将可执行脚本伪装成 PDF 资料诱骗受害者点击，以此盗取资产。BlockBeats 将其推文翻译整理如下。
+
+
+假文件扩展名骗局警告
+
+
+黑客正在通过修改文件扩展名，将恶意文件伪装成 PDF，并针对艺术家、影响者和项目方进行攻击。原理如下：
+
+
+案例：加密艺术家TARSIUS收到一条委托消息，并收到一个压缩文件包，里面据称包含了「客户要求、示例以及草图等资料」。当该艺术家打开这个压缩包后，原本普通的委托就变味儿了。
+
+
+
+
+
+
+
+
+打开压缩包文件后，我们可以看到提供的示例，以及包含「客户」草图的 PDF 文件，但这不是普通的 PDF 文件。它实际上是一个屏幕保护程序 (.scr) 文件，它是一个可执行脚本，伪装成 PDF 文件。
+
+
+
+
+
+
+艺术家打开 PDF 文件查看草图后，他的所有 NFT 都被上架并出售，他所有的 ETH 都被转移到了骗子的钱包。
+
+篇幅所限，本文只列举受害者部分交易。 
+
+
+
+
+
+
+那么黑客是如何得手的呢？他更改了文件扩展名并在末尾添加了.pdf，然后将文件的图标更改为 PDF 图标。他还用垃圾代码填充了文件，超过了病毒文件本身的文件大小，以此加强迷惑性。
+
+
+艺术家不是这个骗局的唯一目标。最近，KOL、推广者和项目方都被作为攻击目标，许多人失去了对钱包和账户的控制权，一切都被彻底抹去。  
+
+
+这是一种古老的 Web2 诈骗策略，它适用于任何和所有文件类型。 
+
+
+如何能避免这种情况？ 
+
+
+1. 不要随意下载或打开随机文件；
+
+
+2. 始终检查文件类型；
+
+
+3. 研究和学习基本的 Web2 安全常识。
+
+
+如果您需要打开任何文件，请将它们放在 Google Drive 上并在那里查看，或使用虚拟机。我个人两者都用。
+
+
+您可以通过单击文件资源管理器顶部的「查看」，然后启用「文件扩展名」来启用文件类型扩展名。这将显示所有文件的文件扩展名。（该功能默认情况下是关闭的。）
+
+
+
+
+
+.scr 文件是可执行文件，可以运行任何代码，它基本上是一个 .exe 文件。他们将如何通过这种方式损害您的钱包？好吧，从这一点开始，我们可以假设您的整个 PC 都受到了攻击。
+
+
+
+
+解决办法有很多，但如果你确实中招了，你可以假设你的电脑受到了损害。我建议重置它，创建一个新钱包，并更改所有密码。
+
+  
+
+
+原文链接
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31142"
+                        open
+                      >
+                        <summary class="article-expander__title">Circle回应：储备资产80%是国债，20%现金</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31142">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《How We Minimize Risk》
+原文作者：Circle CFO，Jeremy Fox-Geen
+原文来源：Circle 官网
+原文编译：0x711，
+
+BlockBeats
+
+
+
+本文是
+
+Circle 首席财务官（CFO）
+
+Jeremy Fox-Geen 阐述有关 USDC 可信度和透明度的第 4 篇文章。BlockBeats 对其整理翻译如下：
+
+
+
+
+「你的钱是安全的。」全世界每家金融机构的每一位 CEO 都会这样告诉客户。直到它不再安全的那一刻。
+
+
+正如我之前的文章所讲，所有金融机构都存在固有风险。这就是为什么社会制定了旨在使它们更安全并保护消费者的法律和法规。「安全」是一个相对的名词，不是绝对的；风险无处不在。
+
+
+除法律法规外，金融机构还仰仗其风险管理能力。事实上，承担和管理风险正是他们的商业模式（例如，银行将用户的钱借给贷款人或为其交易部门提供资金；一个不受监管的机构，其承担的风险由自己控制）。
+
+
+「我们的风控能力是世界级的，」这是全世界每家金融机构每一位 CEO 都会说的另一句话，直到机构暴雷，客户无法取回他们的钱。
+
+
+USDC 不同。
+
+
+对于 USDC，我们的商业模式是最大限度地降低风险，而不是「承担和管理风险」。让我解释一下如何以及为什么：
+
+
+
+
+
+在互联网上提供稳健的货币
+
+
+就像数十亿人每天使用互联网交换数万亿字节的数据一样，我们相信，有朝一日，数十亿人将使用互联网近乎即时且免费地交换数万亿美元的价值。 
+
+
+这将使所有人受益，可以提升数十亿美元的资产效率（如 T+2 结算时间），降低经济租金（如跨境汇款 6% 的费用，信用卡交易的 3% 费用），加速金融服务创新（如链上长尾资产市场）和金融包容性（如提升对财富储备的可获取度），更不用说可编程链上货币可支持前沿性的商业和金融形式。这将使 Circle 受益——我们渴…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31139"
+                        open
+                      >
+                        <summary class="article-expander__title">Sigroll：NFT IP授权链上平台 | 项目介绍</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31139">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>撰文：FFFake
+
+
+看下面这些猴子，如果不多做解释，你必定认为这又是无聊猿 BAYC 的某个仿盘。
+
+
+
+
+
+
+
+的确，除了属性丰富，这个系列似乎和普通仿盘没什么区别。但其实，这是一套通过 Sigroll 获得 IP 授权的二创作品。
+
+
+Sigroll 是个怎样的平台？
+
+
+
+
+Sigroll 是一个专注于 NFT IP 授权和版权分销的平台。通过 P2P 链上授权，它使 NFT 持有人能够在收藏品之外将其资产商业化。通过 Sigroll，NFT 持有人、授权用户和社区可以更有效地匹配他们的需求，然后完成轻量级的 IP 授权合作。同时，Sigroll 还将帮助双方管理其授权费用和份额。
+
+
+
+
+NFT 的社交资本已经被市场认可，而以品牌角度，NFT IP 还有很多事情可做。一个产品的 IP 是以共享所有权的方式建立的。无论以何种形式「引用」这个 IP，都会使原作更重要、更有价值，而 NFT 领域恰好缺少的是一个可持续的网络，将衍生的系列联系起来，并推动创作者和建设者获得充足的商业激励。
+
+
+
+
+Sigroll 平台的任务是解决这些问题，并将 NFT 推向一个可组合的领域，资产可以被使用、重新混合和商业化。
+
+
+
+
+团队对 NFT 的思考
+
+
+
+
+Sigroll 网站上提到产品还处于 Alpha 的闭门阶段，因此也看不到更多的产品形态，功能无法完全体验。但在 Sigroll 的简易 NFT IP 池子里，目前有 Mutant Ape Yacht Club 30 个，Bored Ape Yacht Club 26 个，Cryptopunks 17 个，Moonbirds1 个。比较有意思的是，团队选择问卷调查这条运营思路，以让用户留下钱包地址回到问卷的形式开始产品调研。从一些问题中，似乎可以看到 Sigroll 希望尝试的方向。
+
+
+1. 什么是当下 NFT 市场中缺失的…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31141"
+                        open
+                      >
+                        <summary class="article-expander__title">Smrti Lab加密市场分析：永远不要在危机中错过绝佳机会</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31141">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《Never Let a Good Crisis Go to Waste: Smrti&#x27;s Quarterly Letters - 2Q2022》
+原文来源：Smrti Lab
+原文编译：0x711 &amp; czgsws，BlockBeats
+
+
+
+
+我们从加密货币冒险之旅中学到的最有价值的一课是不断对当前情况进行重新评估，不断重新思考我们当前在大趋势中的定位。这就是为什么我们每季度都会跟我们的投资者和朋友进行实时沟通，以确定市场事件和价格行为表象之下的趋势。以下是 Smrti Lab 2022 年第二季度 Newsletter 的一些重要内容：
+
+
+
+
+Smrti Lab2022 年第二季度 Newsletter 的主题引用自丘吉尔的一句名言：永远不要在危机中错过绝佳机会。（Never let a good crisis go to waste.）这篇 Newsletter 将会阐述我们目前所处的位置、我们计划做的事以及加密货币的发展方向。
+
+
+
+
+TL;DR：
+
+
+
+
+1. 市场已经投降，但最糟糕的阶段（同时也是积累阶段）尚未到来。accumulation stage
+
+
+
+
+2. 比特币和加密行业的相关性有所下降：比特币的采用规模变小，但越来越多的应用将采用区块链和加密技术。
+
+
+
+
+3. 随着即将到来的以太坊合并，我们将在 2022 年底之前发生市场动态的重大转变。合并将使 ETH 成为第一个具有实际收益率的数字原生通缩生产资产。ETH 在加密市场的占比（ETH.D）将取代 BTC 在加密市场的占比（BTC.D），成为观察市场的关键指标。
+
+
+
+
+4. 我们不太可能在今年内看到区块链可扩展性的指数级改进，但基础设施领域正在积极尝试各种新的设计。
+
+
+
+
+5. 更多的数字内容和社交互动将在链上生成。与我们今天的碎片化体验相比，下一波采用将建立在更完整的 Web3…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -1267,8 +1553,8 @@ Impact DAO 处于这种新工作文化趋势的最前沿，这种新文化要求
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2627540272">
-        <time id="build-timestamp" datetime="2022-07-07T06:11:25.672Z">2022-07-07T06:11:25.672Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2629462193">
+        <time id="build-timestamp" datetime="2022-07-07T12:27:01.144Z">2022-07-07T12:27:01.144Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
