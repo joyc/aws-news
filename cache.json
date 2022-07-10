@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Coin Metrics创始人的熊市启示录：我们还未真正陷入危机",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31144",
-          "author": null,
-          "description": "原文标题：《\n\n价值捕获 |\n\nWeb3 公司的收入都去了哪？》\n原文作者：\n\nFMResearchTeam， FutureMoney\n\n\nTLDR; 结论：\n\n\n\n\n（1）总收入：Web3 商业模式已经大有发展，其中最强大的仍然是「出售区块空间」，其次是 NFT 交易平台、DeFi 、GameFi 和基础设施。\n\n\n（2）协议收入：大部分收入仍然来自 Liquidity Providers 和 Lenders 等角色创造的 Supply-side Revenue，协议本身的盈利能力 Protocol Revenue 仍然较少，其中流向 Token Holders 的部分更少。虽然用户享受到了质押收益和治理权，但最核心的经济利益现在仍然不能够保证。\n\n\n（3）协议收入存在审计漏洞，对 Token Holders 造成风险：Protocol Revenue 中的风险计提没有得到体现，协议收入数据与Token销售数据经常混为一谈，甚至有部分协议收入隐藏了 Rug Pull 风险。\n\n\n1.Web3公司的收入情况概览\n\n\n\n\n\n\n\n\n\n1.1 这些 Web3 公司（协议）的收入最高 \n\n\n在所有的公司中，收入几乎是最重要的指标之一。那么 Web3 公司究竟有在创造收入吗？目前，市场上比较可信的数据来自于 Token Terminal，此外 the Block，Messari 和 Web3 Index 也提供了部分数据。遗憾的是，目前没有任何一家完整地统计了全市场数据；我们将四者的数据结合起来进行分析，输出了独家分析报告。由于部分链上数据存在缺失，个别信息可能存在偏差，我们会在未来持续改进。\n\n\n\n\n\n（图 1）近 180 天总收入排行前 17 名的协议\n（source：Token Terminal, the Block，\ncurated by FutureMoney Resear…",
-          "link": "https://www.theblockbeats.info/news/31144",
-          "publishedOn": "2022-07-07T14:00:29.000Z",
-          "wordCount": null,
-          "title": "【深度】Web3公司收入排行榜，价值捕获来自何处?",
-          "imageUrl": null
         }
       ]
     },
