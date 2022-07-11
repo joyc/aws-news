@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31196",
+          "author": null,
+          "description": "三大NFT地址获利3.2万ETH，链上分析或属于同一持有者",
+          "link": "https://www.theblockbeats.info/news/31196",
+          "publishedOn": "2022-07-11T10:49:30.000Z",
+          "wordCount": null,
+          "title": "三大NFT地址获利3.2万ETH，链上分析或属于同一持有者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31193",
+          "author": null,
+          "description": "原文标题：《受 CNN 专访，SBF\n谈加密市场现状、FTX 援助机构目的，否认收购 Coinbase》\n\n\n\nFTX CEO Sam\nBankman-Fried 日前接受《CNN》专访，谈论加密市场近况和 FTX 本身的扩张计划，主持人 Julia Chatterley 甚至打趣问起 SBF 是否要收购 Coinbase。这场专访中，双方究竟聊了什么？\n\n\n \nSBF 于上周三 7 月 7 日接受《CNN：First Move》的专访，First Move 是专门报道全球企业、经济和金融的节目。此次专访讨论的题目包括加密市场的近况、FTX 收购的市场传闻、为什么 SBF 要援助这些加密机构、接下來的扩张计划等。\n\n\n清算很痛苦，但长期是健康的\n\n\nJulia Chatterley 一开始就问起加密市场的近况：\n\n\n问：我认为虽然现在对加密产业来说很痛苦而且充满挑战，但是不是也看到了某种程度的「健康」？\n\n\nSBF 认为加密市场正朝着健康的情况发展。过去两年有些机构和资本过度发展，现在市场正在清算这些过度的杠杆，淘汰资本充足率有问题的公司。\n\n\n答：到了特定时刻后，你会开始发现连资本充足的玩家都出现问题，我认为这时候市场就不再健康。\n\n\n现在市场正在清算这些过度的杠杆，洗掉一些资产负债有问题的玩家，我觉得从某种程度上讲，这对市场来说是健康的。\n\n\n事实上 SBF 在接受《路透社》采访时也表达了类似观点。\n\n\n他指出，市场清算过度杠杆会引起流动性紧缩，而流动性紧缩最糟糕的时刻已经过去，现市场价格趋稳似乎也证明了这点。不过这并不代表熊市已结束，未来走势仍取决于总体经济的影响。\n\n\n援助加密公司的标准是什么？\n\n\n近来借贷平台 BlockFi\n获得了 FTX 的 2.5\n亿美元循环信贷额度，而 SBF\n此前也表示愿意借钱给其它企业，为这场清算危机设下停损线。\n\n\n对此，Julia…",
+          "link": "https://www.theblockbeats.info/news/31193",
+          "publishedOn": "2022-07-11T08:49:38.000Z",
+          "wordCount": null,
+          "title": "CNN专访SBF：FTX已连续季度盈利，市场流动性至暗时刻已过",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31195",
+          "author": null,
+          "description": "一份来自a16z Crypto团队的熊市阅读清单",
+          "link": "https://www.theblockbeats.info/news/31195",
+          "publishedOn": "2022-07-11T08:49:30.000Z",
+          "wordCount": null,
+          "title": "一份来自a16z Crypto团队的熊市阅读清单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31194",
+          "author": null,
+          "description": "VOICE STREET：赋能音乐NFT把音乐人和粉丝带入Web3+元宇宙的世界",
+          "link": "https://www.theblockbeats.info/news/31194",
+          "publishedOn": "2022-07-11T08:49:30.000Z",
+          "wordCount": null,
+          "title": "VOICE STREET：赋能音乐NFT把音乐人和粉丝带入Web3+元宇宙的世界",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31172",
           "author": null,
           "description": "原文标题：《\n\n以太坊状态：复盘以太坊 2022 Q2\n\n》\n原文作者：Ben Giove，Bankless 分析师\n原文编译：DeFi 之道\n\n\n继之前的以太坊 2022 Q1 报告，本报告将研究以太坊 2022 年第二季度 -- 截至 6 月 30 日 -- 以太坊协议和生态系统的重要指标，分为四个类别：协议、DeFi、NFT  和 L2。而后，我们也讨论了生态系统的亮点并对未来进行了展望。\n\n\n01. 协议\n\n\n\n以太坊网络收入；来源：Token Terminal\n\n\n网络收入下降 33.4%-- 从 19.1 亿美元降至 12.8 亿美元\n\n\n这一数据衡量的是为使用网络而支付的交易费用的价值。其中，10.9 亿美元的 ETH（其中 85.4%）被烧毁，从流通供应中移除。\n\n\n对区块空间需求的减少可能是由于本季度的市场疲软，抑制了投机活动。\n\n\nETH 通胀率下降 37%--从 1.12% 降至 0.71%\n\n\n\nETH 供应增长；来源：Etherscan\n\n\n这一数据衡量了本季度 ETH 的供应增长情况。\n\n\n下降的原因可能是 2021 年第三季度通过 EIP-1559 实施的费用燃烧机制。\n\n\n日均活跃地址下降 20.6%-- 从 593,404 个降至 471,447 个\n\n\n\n以太坊每日活跃地址；来源：Etherscan\n\n\n这一数据追踪了本季度期间每天在以太坊上进行交易的钱包地址的平均数量。\n\n\n与网络收入一样，这种下降可能是由于本季度的看跌背景导致用户的投机欲望下降。\n\n\n质押 ETH 增加了 116%-- 从 601 万增至 1298 万\n\n\n\n信标链上质押的 ETH；来源：Nansen\n\n\n这一数据衡量的是在网络即将从工作量证明（PoW）过渡到权益证明（PoS）之前，信标链上的 ETH 数量。\n\n\n到第二季度末，大约有 10.86% 的 ETH 总供应…",

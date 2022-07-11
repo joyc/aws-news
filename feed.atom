@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-11T06:11:13.720Z</updated>
+    <updated>2022-07-11T12:16:13.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三大NFT地址获利3.2万ETH，链上分析或属于同一持有者]]></title>
+        <id>https://www.theblockbeats.info/news/31196</id>
+        <link href="https://www.theblockbeats.info/news/31196"/>
+        <updated>2022-07-11T10:49:30.000Z</updated>
+        <summary type="html"><![CDATA[三大NFT地址获利3.2万ETH，链上分析或属于同一持有者]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNN专访SBF：FTX已连续季度盈利，市场流动性至暗时刻已过]]></title>
+        <id>https://www.theblockbeats.info/news/31193</id>
+        <link href="https://www.theblockbeats.info/news/31193"/>
+        <updated>2022-07-11T08:49:38.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《受 CNN 专访，SBF
+谈加密市场现状、FTX 援助机构目的，否认收购 Coinbase》
+
+
+
+FTX CEO Sam
+Bankman-Fried 日前接受《CNN》专访，谈论加密市场近况和 FTX 本身的扩张计划，主持人 Julia Chatterley 甚至打趣问起 SBF 是否要收购 Coinbase。这场专访中，双方究竟聊了什么？
+
+
+ 
+SBF 于上周三 7 月 7 日接受《CNN：First Move》的专访，First Move 是专门报道全球企业、经济和金融的节目。此次专访讨论的题目包括加密市场的近况、FTX 收购的市场传闻、为什么 SBF 要援助这些加密机构、接下來的扩张计划等。
+
+
+清算很痛苦，但长期是健康的
+
+
+Julia Chatterley 一开始就问起加密市场的近况：
+
+
+问：我认为虽然现在对加密产业来说很痛苦而且充满挑战，但是不是也看到了某种程度的「健康」？
+
+
+SBF 认为加密市场正朝着健康的情况发展。过去两年有些机构和资本过度发展，现在市场正在清算这些过度的杠杆，淘汰资本充足率有问题的公司。
+
+
+答：到了特定时刻后，你会开始发现连资本充足的玩家都出现问题，我认为这时候市场就不再健康。
+
+
+现在市场正在清算这些过度的杠杆，洗掉一些资产负债有问题的玩家，我觉得从某种程度上讲，这对市场来说是健康的。
+
+
+事实上 SBF 在接受《路透社》采访时也表达了类似观点。
+
+
+他指出，市场清算过度杠杆会引起流动性紧缩，而流动性紧缩最糟糕的时刻已经过去，现市场价格趋稳似乎也证明了这点。不过这并不代表熊市已结束，未来走势仍取决于总体经济的影响。
+
+
+援助加密公司的标准是什么？
+
+
+近来借贷平台 BlockFi
+获得了 FTX 的 2.5
+亿美元循环信贷额度，而 SBF
+此前也表示愿意借钱给其它企业，为这场清算危机设下停损线。
+
+
+对此，Julia…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份来自a16z Crypto团队的熊市阅读清单]]></title>
+        <id>https://www.theblockbeats.info/news/31195</id>
+        <link href="https://www.theblockbeats.info/news/31195"/>
+        <updated>2022-07-11T08:49:30.000Z</updated>
+        <summary type="html"><![CDATA[一份来自a16z Crypto团队的熊市阅读清单]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VOICE STREET：赋能音乐NFT把音乐人和粉丝带入Web3+元宇宙的世界]]></title>
+        <id>https://www.theblockbeats.info/news/31194</id>
+        <link href="https://www.theblockbeats.info/news/31194"/>
+        <updated>2022-07-11T08:49:30.000Z</updated>
+        <summary type="html"><![CDATA[VOICE STREET：赋能音乐NFT把音乐人和粉丝带入Web3+元宇宙的世界]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【文章】以太坊Q2复盘：DeFi弹性尚存，NFT仍火热，L2 Token季开启]]></title>
         <id>https://www.theblockbeats.info/news/31172</id>
