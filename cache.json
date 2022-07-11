@@ -74,46 +74,6 @@
           "wordCount": null,
           "title": "【文章】500万行数据，复盘Crypto历史上三轮大牛市",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31164",
-          "author": null,
-          "description": "如果说加密货币是一项巨大的实验，那么代币经济就是这场实验最重要的组成部分。在这个越来越内卷的市场，一个几乎已经形成的共识是，不管是底层的公链（或者其他基础设施），中间件还是上层的应用，都需要通过更好的经济体系设计让自己更有竞争力。\n \n但要设计出一个好的经济体系绝非易事，犹如暗夜里的战争，复杂且多变，它也因此成为了许多创业者需要闯过的第一道关卡。这个时候，对代币经济体系有成熟思考和系统方法论的投资机构，就成了能够帮助创业者闯关的重要角色，而 SevenX Ventures 就是其中的代表。\n \n将自己定义为「亚洲区块链先锋」的 SevenX 是这个市场上少数在 DeFi Summer 开始之前就着手研究和思考经济体系设计的加密 VC，并在持续的实践中不断充实和完善自己的方法论。SevenX 已经累计帮助包括 DODO, ArDrive, Meson Network, Rangers, Metametaverse 等在内的数十个项目进行了经济体系的设计。\n \n「好的代币经济体系，需要结合项目的技术本质和业务架构，按照逻辑一步一步推演而来，而非凭空「创意」，或者套用模仿。」在最近的一次专访中，SevenX 团队向我们分享了他们围绕经济体系设计的投后体系，以及关于经济体系设计的 5 点心法。\n \nSevenX 的投后观：给予项目真实且有价值的帮助\n \n现在的 Web3 创业者需要什么样的投资人？\n \n一位创始人这样描述：「首先是能够同频共振，简单来说就是一个懂我的人。再然后是能够给到实际的帮助，比如后续融资，比如业务合作，比如围绕代币的设计，解决现实的问题。」\n \n这其实在一定程度上代表了大多数 Web3 创业者的心态。不过如果时间回到五年前，可能我们得到的答案会截然不同。彼时创业者和投资人的互动，可能就是简单直接的「地址，打钱」。投资者几乎不会参与项目的建设，当然创业者也不需要…",
-          "link": "https://www.theblockbeats.info/news/31164",
-          "publishedOn": "2022-07-08T10:37:15.000Z",
-          "wordCount": null,
-          "title": "SevenX Ventures：帮助数十个项目设计经济体系，我们总结出了这 5 点心法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31163",
-          "author": null,
-          "description": "加密货币经纪商 Voyager Digital 日前正式申请破产，而据破产申请文件，Alameda 有向 Voyager Digital 借款，数目仅次于 3AC，这也引来币安创办人赵长鹏抨击。不过随后 SBF 接受《WSJ》澄清了这件事，并反击：不懂破产法可以问我。\n\n \n加密市场的雷曼时刻让社群继续血流成河。加密货币经纪商 Voyager Digital 日前申请破产，据破产文件，Alameda 向 Voyager 借了 3.76 亿美元，仅次三箭资本（3AC）的欠款。这件事引起社群注意，因为破产前，Alamema 才向 Voyager 提供借贷额度，纾缓流动性危机。\n\n\n币安创办人更是直接评论跟不上车速，很难跟上（hard to follow）。简单来说，CZ 质疑 FTX/Alameda 为什么有钱借给 3AC，但却没在 Voyager 破产时伸出援手还他们钱。\n\n\nCZ 在推特写道：\n\n\n「所以，3AC 欠了 Voyager 几亿美元，最后破产。FTX/Alameda 给了 3AC 1 亿美元，但 3AC 最后还是破产。Alameda 有投资 Voyager，但同时借钱给 Voyager⋯⋯好吧⋯⋯最后 Voyager 破产了，这过程中 FTX 没有借钱给 Voyager 或是还钱吗？难以理解（hard to follow）。」\n\n\n对此，SBF 表示，借钱给 Alameda 只是 Voyager 日常业务，这跟 Alemeda 在流动性危机出现时向 Voyager 提供的紧急信贷是两回事，并在推特回击：不懂破产法的话可以问我。\n\n\n据文件，除了 Alameda 以外，Voyager 也提供了其它公司贷款，包括 Genesis、Galaxy Digital、Jump Trading 等加密巨头公司。\n\n\nSBF 的说法\n\n\n\nSBF 在接受《华盛顿日报》访问时表示…",
-          "link": "https://www.theblockbeats.info/news/31163",
-          "publishedOn": "2022-07-08T09:34:58.000Z",
-          "wordCount": null,
-          "title": "【文章】SBF与CZ公开争论：提供给Voyager贷额度和使用其借贷服务是两码事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31162",
-          "author": null,
-          "description": "原文编译：胡韬&饼干，链捕手\n\n\n\n7 月 8 日，Celsius 暴雷事件再度迎来重磅爆料，0xb1 推特帐户背后的 KeyFi 前首席执行官 Jason Stone 宣布正式起诉 Celsius，并指控该公司经营「庞氏骗局」，同时对其客户资金的管理严重不当，未能进行基本的内部审计以说明其义务，并使用客户资产操纵加密资产市场。\n\n\n根据 Jason Stone 的表述，其创办的 DeFi 策略部署公司 KeyFi 在 2020 年被 Celsius 收购，此后在为 Celsius 质押和部署 DeFi 策略。他还披露称，此前鼎鼎大名的「0xb1」地址实际上也是由 Celsius 创造，早期由他直接负责管理并执行各种 DeFi 收益策略，为 Celsius 带来超过数亿美元的利润。\n\n\n但在合作过程中，Jason Stone 发现 Celsius 存在诸多严重违规行为，包括将数亿美元的客户存款转移到「0xb1」地址进行投资但缺乏基本的风险控制措施，而此前 Celsius 高管反复向保证他，该公司已进行必要的对冲交易，以确保某些加密资产的价格波动不会对该公司偿还储户的能力产生重大不利影响。\n\n\n此外在 2020 年，Celsius 方面还使用作为客户存款的约 4500 枚比特币（现值为 9000 万美元）购买 CEL，以人为抬高价格。Jason Stone 认为，从本质上讲，Celsius 是在操纵 CEL Token市场，以便它可以利用其庞大的国库中借款，创造一种表面上它产生的收益超过债务金额的局面，而事实上它没有。此前，Celsius 还曾从 Tether 处获得 10 亿美元贷款。\n\n\n「由于其商业模式取决于向储户提供比他们投入的更多的资金，Celsius 必须不断吸收新资本，以支付其对现有储户的债务。换句话说，Celsius 是一个庞氏骗局。」Jason Stone …",
-          "link": "https://www.theblockbeats.info/news/31162",
-          "publishedOn": "2022-07-08T06:50:57.000Z",
-          "wordCount": null,
-          "title": "【文章】起诉书揭露Celsius暴雷内幕，挪用用户资产操纵CEL市场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31143",
-          "author": null,
-          "description": "原文标题：《成为多链世界的最大「卖水人」，跨链赛道的下半场叙事如何继续？》\n原文作者：加密世界爱好者 Frank\n\n\n此前 Bankless 发布 2022 年加密行业预测，其创始人 Ryan Sean Adams 就认为 2022 年通过跨链桥的价值达数十亿美元，且跨链桥项目（例如 Hop、Connext、Across）将发行代币并且价值超过数十亿美元。\n \n与此同时，6 月 22 日启动的 Arbitrum Odyssey 首周跨链桥活动中，由于用户跨链热情高涨，对应跨链 NFT 奖励在首周就铸造逾 5 万枚，这导致链上负载过高，Arbitrum 网络 Gas 费飙升，因此 Arbitrum 开发团队不得已暂停了 Odyssey 活动，计划于 Nitro 发布后恢复。\n\n\n\n\n\n跨链桥的用户体量的潜力也可见一斑。不过加密世界本就没有统一的叙事，有人认为「没有桥，就没有加密世界的多元发展格局」，也有人认为「桥的出现，就是中心化和漏洞的开始」。\n \n但至少在当下及可预见的未来，加密世界注定将是多链的格局，跨链就像桥梁一样打通彼此之间的联络，实现资产、数据、交易、通信等的联通，是加密世界多元化发展中不可或缺的关键参与者。\n \n一.「多链」的未来，离不开「跨链」\n\n\n本质上讲，跨链的核心就是指跨链桥，桥是一种链与链连接的桥梁工具，它允许将代币、资产、甚至任意信息从一条链转移到另一条链，因为两条链可以有不同的协议、规则和治理模型，而桥提供了一种相互通信和兼容的方式来安全地在双方进行互操作。\n \n总的来看，2021 年以来，得益于 BNB Chain（原 BNB Smart Chain）、Arbitrum 等 EVM 兼容的竞争公链和 Layer2 网络的崛起，带动了跨链板块的爆发式增长，跨链桥赛道作为市场刚需的重要性逐步显现。\n \n其中除了 Optimism Bridge 等官方…",
-          "link": "https://www.theblockbeats.info/news/31143",
-          "publishedOn": "2022-07-08T06:31:26.000Z",
-          "wordCount": null,
-          "title": "成为多链世界的最大「卖水人」，跨链赛道的下半场叙事如何继续？",
-          "imageUrl": null
         }
       ]
     },
