@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31172",
+          "author": null,
+          "description": "原文标题：《\n\n以太坊状态：复盘以太坊 2022 Q2\n\n》\n原文作者：Ben Giove，Bankless 分析师\n原文编译：DeFi 之道\n\n\n继之前的以太坊 2022 Q1 报告，本报告将研究以太坊 2022 年第二季度 -- 截至 6 月 30 日 -- 以太坊协议和生态系统的重要指标，分为四个类别：协议、DeFi、NFT  和 L2。而后，我们也讨论了生态系统的亮点并对未来进行了展望。\n\n\n01. 协议\n\n\n\n以太坊网络收入；来源：Token Terminal\n\n\n网络收入下降 33.4%-- 从 19.1 亿美元降至 12.8 亿美元\n\n\n这一数据衡量的是为使用网络而支付的交易费用的价值。其中，10.9 亿美元的 ETH（其中 85.4%）被烧毁，从流通供应中移除。\n\n\n对区块空间需求的减少可能是由于本季度的市场疲软，抑制了投机活动。\n\n\nETH 通胀率下降 37%--从 1.12% 降至 0.71%\n\n\n\nETH 供应增长；来源：Etherscan\n\n\n这一数据衡量了本季度 ETH 的供应增长情况。\n\n\n下降的原因可能是 2021 年第三季度通过 EIP-1559 实施的费用燃烧机制。\n\n\n日均活跃地址下降 20.6%-- 从 593,404 个降至 471,447 个\n\n\n\n以太坊每日活跃地址；来源：Etherscan\n\n\n这一数据追踪了本季度期间每天在以太坊上进行交易的钱包地址的平均数量。\n\n\n与网络收入一样，这种下降可能是由于本季度的看跌背景导致用户的投机欲望下降。\n\n\n质押 ETH 增加了 116%-- 从 601 万增至 1298 万\n\n\n\n信标链上质押的 ETH；来源：Nansen\n\n\n这一数据衡量的是在网络即将从工作量证明（PoW）过渡到权益证明（PoS）之前，信标链上的 ETH 数量。\n\n\n到第二季度末，大约有 10.86% 的 ETH 总供应…",
+          "link": "https://www.theblockbeats.info/news/31172",
+          "publishedOn": "2022-07-11T03:42:12.000Z",
+          "wordCount": null,
+          "title": "【文章】以太坊Q2复盘：DeFi弹性尚存，NFT仍火热，L2 Token季开启",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31171",
           "author": null,
           "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们将从本期开始，推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过一下方式联系我们。\n\n\n\n\n\n\n\n联系我们\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n\n\n\n\n\n以下为本期编辑部内容推荐\n\n\n推荐文章:《光速民主：Web3 组织可以从治理历史中学到什么》 \n\n\n推荐人：比得潘\n\n\n\n\n推荐理由：本文由斯坦福大学商学院政治经济学教授及区块链协议顾问 Andrew Hall，和 a16z 加密团队交易合伙人 Porter Smith 联合撰写，讨论了 Web3 可以从以往的民主和公司治理中吸取哪些教训，从而通过以下方式建立更有效的政治体系：\n\n\n\n\n- 从直接民主转向代议制民主，以减轻选民参与度低和信息量少的问题；\n- 建立更明确的治理机构，超越简单的基于代币的投票以代表所有利益相关者；\n- 授权代表提供监督和审计职能，以在所有参与者之间建立信任。\n\n\n\n\n同时，Web3 组织不应止步于此，与传统的治理形式相比，它可以走得更远、更快。在物理世界中，民主实验是缓慢的，要弄清楚一种宪法形式是否比另一种更好，可能需要几十年甚至几个世纪的时间；但在 Web3 中，协议运行不断的实验来开发和测试新的表示形式，为更…",
@@ -63,16 +73,6 @@
           "publishedOn": "2022-07-09T01:31:28.000Z",
           "wordCount": null,
           "title": "【文章】DAO会遇到的14个致命挑战以及8个变革的方法论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31165",
-          "author": null,
-          "description": "原文标题：《\n\n500 万行数据盘点 Crypto 三年大牛市 》\n原文来源：\n\nLUCIDA\n\n\n\n从 2020 年开始，整个加密货币市场经历了一波巨大的牛市，这波牛市浪潮也让很多赛道和热点下的资产获得了巨大的涨幅，不乏千倍币甚至万倍币。\n\n\nLUCIDA 是一家 Crypto 领域的量化对冲基金，随着市场慢慢转熊，我们将对这一整轮牛市做一次完整地复盘，通过对海量数据的挖掘，发现市场规律，从历史中学习。并且，LUCIDA 将发布一系列的投研文章，本文是整个系列文章的第一篇：《500 万行数据盘点三年大牛市》\n\n\n数据的获取与预处理\n\n\n第一步就是获取数据，我们从 CoinMarketCap 上获取了市值前 3000 名的所有币种数据，共计 500 余万行。\n\n\n\n市值排名前 3000 的币种数据\n\n\n每个币种有七个 Columns：Date（日期）、Open（开盘价）、High（最高价）、 Low（最低价）、Close（收盘价）、Volume（成交量）、MarketCap（市值）。\n\n\n\n每个币种的 Columns\n\n\n为了后续分析，我们对数据做了预处理工作：\n\n\n修改异常值、填补空值\n去除稳定币资产\n去除 wBTC、renBTC 等锚定资产\n去除因盘口深度太差而被大幅插针的资产\n去除市值过小、流动性过差的币种（绝大部分在市值 1000 名之外）\n未统计 NFT 资产\n\n\n最终，符合我们统计条件的币种是 952 个。\n\n\n最高涨幅 96 万倍！\n\n\n我们以 2020 年 1 月 1 日-2022 年 5 月 24 日作为统计周期，找到了涨幅最高的 TOP100 币种，具体如下：\n\n\n\n本轮牛市涨幅最高的 TOP100 币种\n\n\n涨幅最高的是 Shiba Inu，涨幅为 96482030.32%（帮你数过数量级了，96 万倍），当前市值排名第 19。\n\n\n牛市并不是随便买都…",
-          "link": "https://www.theblockbeats.info/news/31165",
-          "publishedOn": "2022-07-08T14:09:11.000Z",
-          "wordCount": null,
-          "title": "【文章】500万行数据，复盘Crypto历史上三轮大牛市",
           "imageUrl": null
         }
       ]

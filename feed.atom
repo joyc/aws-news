@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-11T00:40:27.961Z</updated>
+    <updated>2022-07-11T06:11:13.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【文章】以太坊Q2复盘：DeFi弹性尚存，NFT仍火热，L2 Token季开启]]></title>
+        <id>https://www.theblockbeats.info/news/31172</id>
+        <link href="https://www.theblockbeats.info/news/31172"/>
+        <updated>2022-07-11T03:42:12.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+以太坊状态：复盘以太坊 2022 Q2
+
+》
+原文作者：Ben Giove，Bankless 分析师
+原文编译：DeFi 之道
+
+
+继之前的以太坊 2022 Q1 报告，本报告将研究以太坊 2022 年第二季度 -- 截至 6 月 30 日 -- 以太坊协议和生态系统的重要指标，分为四个类别：协议、DeFi、NFT  和 L2。而后，我们也讨论了生态系统的亮点并对未来进行了展望。
+
+
+01. 协议
+
+
+
+以太坊网络收入；来源：Token Terminal
+
+
+网络收入下降 33.4%-- 从 19.1 亿美元降至 12.8 亿美元
+
+
+这一数据衡量的是为使用网络而支付的交易费用的价值。其中，10.9 亿美元的 ETH（其中 85.4%）被烧毁，从流通供应中移除。
+
+
+对区块空间需求的减少可能是由于本季度的市场疲软，抑制了投机活动。
+
+
+ETH 通胀率下降 37%--从 1.12% 降至 0.71%
+
+
+
+ETH 供应增长；来源：Etherscan
+
+
+这一数据衡量了本季度 ETH 的供应增长情况。
+
+
+下降的原因可能是 2021 年第三季度通过 EIP-1559 实施的费用燃烧机制。
+
+
+日均活跃地址下降 20.6%-- 从 593,404 个降至 471,447 个
+
+
+
+以太坊每日活跃地址；来源：Etherscan
+
+
+这一数据追踪了本季度期间每天在以太坊上进行交易的钱包地址的平均数量。
+
+
+与网络收入一样，这种下降可能是由于本季度的看跌背景导致用户的投机欲望下降。
+
+
+质押 ETH 增加了 116%-- 从 601 万增至 1298 万
+
+
+
+信标链上质押的 ETH；来源：Nansen
+
+
+这一数据衡量的是在网络即将从工作量证明（PoW）过渡到权益证明（PoS）之前，信标链上的 ETH 数量。
+
+
+到第二季度末，大约有 10.86% 的 ETH 总供应…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlockBeats编辑部每周推荐阅读]]></title>
         <id>https://www.theblockbeats.info/news/31171</id>
@@ -331,75 +405,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
 
 
 在讨论具体的方案前，我们先要自…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【文章】500万行数据，复盘Crypto历史上三轮大牛市]]></title>
-        <id>https://www.theblockbeats.info/news/31165</id>
-        <link href="https://www.theblockbeats.info/news/31165"/>
-        <updated>2022-07-08T14:09:11.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-500 万行数据盘点 Crypto 三年大牛市 》
-原文来源：
-
-LUCIDA
-
-
-
-从 2020 年开始，整个加密货币市场经历了一波巨大的牛市，这波牛市浪潮也让很多赛道和热点下的资产获得了巨大的涨幅，不乏千倍币甚至万倍币。
-
-
-LUCIDA 是一家 Crypto 领域的量化对冲基金，随着市场慢慢转熊，我们将对这一整轮牛市做一次完整地复盘，通过对海量数据的挖掘，发现市场规律，从历史中学习。并且，LUCIDA 将发布一系列的投研文章，本文是整个系列文章的第一篇：《500 万行数据盘点三年大牛市》
-
-
-数据的获取与预处理
-
-
-第一步就是获取数据，我们从 CoinMarketCap 上获取了市值前 3000 名的所有币种数据，共计 500 余万行。
-
-
-
-市值排名前 3000 的币种数据
-
-
-每个币种有七个 Columns：Date（日期）、Open（开盘价）、High（最高价）、 Low（最低价）、Close（收盘价）、Volume（成交量）、MarketCap（市值）。
-
-
-
-每个币种的 Columns
-
-
-为了后续分析，我们对数据做了预处理工作：
-
-
-修改异常值、填补空值
-去除稳定币资产
-去除 wBTC、renBTC 等锚定资产
-去除因盘口深度太差而被大幅插针的资产
-去除市值过小、流动性过差的币种（绝大部分在市值 1000 名之外）
-未统计 NFT 资产
-
-
-最终，符合我们统计条件的币种是 952 个。
-
-
-最高涨幅 96 万倍！
-
-
-我们以 2020 年 1 月 1 日-2022 年 5 月 24 日作为统计周期，找到了涨幅最高的 TOP100 币种，具体如下：
-
-
-
-本轮牛市涨幅最高的 TOP100 币种
-
-
-涨幅最高的是 Shiba Inu，涨幅为 96482030.32%（帮你数过数量级了，96 万倍），当前市值排名第 19。
-
-
-牛市并不是随便买都…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
