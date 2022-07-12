@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-12T00:44:19.165Z</updated>
+    <updated>2022-07-12T06:10:22.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT玩家的共识分片：金钱、社区与文化]]></title>
+        <id>https://www.theblockbeats.info/news/31199</id>
+        <link href="https://www.theblockbeats.info/news/31199"/>
+        <updated>2022-07-12T03:19:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《NFT 玩家的共识分片：金钱、社区与文化》
+原文作者：sleepy0x13.eth
+
+
+
+
+在 Crypto 领域，当我们提到「分片」时，人们通常想到的是区块链分片技术。分片可以让区块链交易处理速度大大提升，区块链研究者 HITer 将其比作一条高速公路新开设了无数个收费口，人们不需要在一个收费口排起长队。
+
+
+而今天我们要聊的「分片」与公链无关，与技术无关。如今，NFT 玩家们对于项目的共识似乎也开始分片了。
+
+
+
+
+
+这是 The Saudis 团队在 Discord 中发布的一条公告。简单来讲，一个科学家在 The Saudis 开启 Free Mint 时将一大批 NFT 收入囊中，并在 The Saudis 价格上涨时一路挂单出货，而 The Saudis 团队发现后便采取了行动，将这二百多个 NFT 锁定起来，科学家只能挂单但无法卖出。
+
+
+其实，随着 NFT 逐渐破圈，越来越多的项目方会在发售时设计各种机制来防止科学家通过一些技术手段铸造大量 NFT，以此避免科学家为了获利而批量出售 NFT 时对于市场价格的影响。人们常常将 NFT 视作虚拟资产确权的标志，既然是自己的资产，那在二级市场交易便应当是自由的，但 The Saudis 团队的这一「惩罚措施」不禁让人产生质疑。
+
+
+在 The Saudis 这条推特的评论区，部分围观群众纷纷留言表示这「太过于中心化」，他应当享有「交易自由」，而对于这些言论，一些用 The Saudis NFT 当作头像的网友给出了如下回复：
+
+
+
+
+
+「如果项目方不锁住这些 NFT，价格就会崩盘。」
+
+
+作为一个 Web3 项目，因为让人们赚到了钱，所以即便是无比中心化又如此明目张胆的操作却很少有人指责，反倒是得到了众多买家的称赞，甚至有人说这是在建设社区，这个操作让「
+
+社区变得更加和谐」
+
+，这是个很有意思的现象。…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛熊周期与加密的未来如何演变？看看红杉资本怎么说]]></title>
+        <id>https://www.theblockbeats.info/news/31198</id>
+        <link href="https://www.theblockbeats.info/news/31198"/>
+        <updated>2022-07-12T02:19:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Does Venture Capital Investment Violate the Ethos of Crypto? Sequoia Says No
+
+》
+原文来源：UnChained  
+原文编译：火火，
+
+白话区块链
+
+
+
+红杉资本 成立于 1972 年，到今年刚好 50 年，在全球风险投资领域，红杉资本是无可争议的带头大哥。
+
+
+自成立以来，红杉资本成功投资了苹果、思科、甲骨文、谷歌等巨头公司，见证了一个又一个传奇企业的闪耀时刻。
+
+
+本文来自 UnChained 对谈红杉资本两位合伙人 Shaun Maguire 和 Michelle Bailhe，前者开过五家公司成功了三家，后者起步于麦肯锡，后又曾担任硅谷创意实验室的团队负责人。
+
+
+
+
+白话区块链对访谈内容做了整理翻译和节选。
+
+
+ 访谈亮点： 
+
+
+- 红杉对加密行业的长期观点和论点是什么 
+- 由于区块链技术，我们的生活将在 20 年后变得多么不同 
+
+- 红杉如何决定是投资于项目背后的实体还是 token 
+
+- 让风险资本家参与是否违背了权力下放的精神 
+- Michelle 如何看待影响加密资产的宏观经济环境，以及这个周期是否与之前的周期不同 
+- 加密项目应该关注什么以及他们应该追求的商业模式 
+- 即使没有明确的规定，加密创始人 应该如何始终做正确的事 
+- 元宇宙的未来以及如何定义 
+- 加密行业心智模型和实现全球落地的阶段
+
+
+ 
+
+红杉对加密行业的长期观点和论点是什么  
+
+
+
+主持人：听说红杉已经推出了一个 5/6 亿美元的加密基金，根据消息说该基金是为了对加密资产未来 20 年进行布局，所以具体是什么？
+
+
+Michelle：加密行业在技术和应用方面都已相当成熟。有趣的是，我们最近一直被问到的问题是我们的信念是否发生了变化，答案当然是否定的。即，加密资产创造了一个全新…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三大NFT地址获利3.2万ETH，链上分析或属于同一持有者]]></title>
         <id>https://www.theblockbeats.info/news/31196</id>
@@ -219,278 +324,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
 
 
 同时，Web3 组织不应止步于此，与传统的治理形式相比，它可以走得更远、更快。在物理世界中，民主实验是缓慢的，要弄清楚一种宪法形式是否比另一种更好，可能需要几十年甚至几个世纪的时间；但在 Web3 中，协议运行不断的实验来开发和测试新的表示形式，为更…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【文章】SBF对话Real Vision创始人：该如何看待经济史上最大货币紧缩]]></title>
-        <id>https://www.theblockbeats.info/news/31170</id>
-        <link href="https://www.theblockbeats.info/news/31170"/>
-        <updated>2022-07-09T08:49:12.000Z</updated>
-        <summary type="html"><![CDATA[【文章】SBF对话Real Vision创始人：该如何看待经济史上最大货币紧缩]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17个Web3任务平台交互指南]]></title>
-        <id>https://www.theblockbeats.info/news/31169</id>
-        <link href="https://www.theblockbeats.info/news/31169"/>
-        <updated>2022-07-09T05:03:28.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：蝉爷讲禅
-
-
-
-这两天 Binance 孵化项目 Openleverage 即 Token (OLE) 不少小伙伴领到了空投，价值还不错。如果你领到了，那么恭喜你，猪脚饭有着落了，如果没有领到也没关系。今日整理了全网最全的任务平台，适合撸毛党。每天打开领空投，日拱一卒、功不唐捐。
-
-
-一、Project Galaxy 
-
-
-支持多链；
-
-
-推特关注：36w；
-
-
-类型：NFT 证明平台；
-
-
-做任务：关注不同项目的 Space, 参与 NFT 和 POAP 的领取。
-
-
-网址：https://galaxy.eco/ 
-
-
-二、Carv 
-
-
-支持多链；
-
-
-推特关注：4.9w；
-
-
-类型：游戏身份认证平台；
-
-
-任务：参与链上游戏，根据级别领取对应的 NFT。
-
-
-网址：https://carv.io 
-
-
-三、NOOX 
-
-
-支持链：ETH；
-
-
-推特关注：1.3w；
-
-
-类型：链上声誉平台；
-
-
-可以去认证不同领域参与深度的身份认证。
-
-
-网址：https://noox.world/ 
-
-
-四、Layer3 
-
-
-支持链：ETH；
-
-
-推特关注：2w+；
-
-
-类型：加密学习平台；
-
-
-任务：有不同项目发布的交互任务，做完可以领经验。
-
-
-网址：https://beta.layer3.xyz/earn 
-
-
-五、RabbitHole 
-
-
-支持链：ETH；
-
-
-推特关注：7.2W+；
-
-
-类型：加密学习平台-Learn to earn；
-
-
-任务：完成不同交互任务，有潜在空投机会，项目方比较 PUA，主网交互、成本较高，谨慎参与。但是完成后，可以优先参与一些项目的早期测试或者空投。
-
-
-网址：https://rabbithole.gg/ 
-
-
-六、Dework 
-
-
-支持链：多链；
-
-
-推特关注：5.3W；
-
-
-类型：工作任务管理工具)+Resume+赏金平台；…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【文章】美国财政部：数字资产国际参与框架概况]]></title>
-        <id>https://www.theblockbeats.info/news/31168</id>
-        <link href="https://www.theblockbeats.info/news/31168"/>
-        <updated>2022-07-09T04:31:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Fact Sheet: Framework for International Engagement on Digital Assets》
-原文来源：美国财政部官网
-原文编译：Bob，BlockBeats
-
-
-2022 年 7 月 7 日，美国财政部在其官网发布《Fact Sheet: Framework for International Engagement on Digital Assets》，梳理美国在数字资产领域的国际发展原则和框架，BlockBeats 对其翻译整理如下。
-
-
-
-
-今天，财政部长在与国务卿、商务部长、美国国际开发署 (USAID) 署长和其他相关机构负责人磋商后，向拜登总统提交了按照总统《关于确保负责任的开发数字资产的行政命令》(2022 年 3 月 9 日) 的指示，与外国同行和国际论坛进行跨部门接洽的框架。该行政命令概述了解决数字资产及其基础技术的风险和利用其潜在价值的跨部门协作方法，包括通过国际参与，以适应、更新和加强对如何使用和交易数字资产的全球原则和标准的制定。该行政命令还指示政府推动符合我们的价值观和法律要求的数字资产和中央银行数字货币 (CBDC) 技术的发展。框架中概述的内容旨在确保，在数字资产的发展方面，美国的核心民主价值观得到尊重；消费者、投资者和企业得到保护；保持适当的全球金融体系互联互通以及平台和框架的互操作性；维护全球金融体系和国际货币体系的安全和稳健。
-
-
-
-
-技术驱动的金融创新往往是跨境的，可能会影响世界各地的家庭、企业和政府。因此，公共当局、私营部门和其他利益攸关方之间的国际合作对于维持高监管标准和公平竞争环境、扩大获得安全和负担得起的金融服务的机会以及降低国内和跨境支付的成本至关重要，包括通过继续实现公共支付系统的现代化。跨司法管辖区的监管、监督和合规不均衡为套利创造了机会，并增加了对金融稳定和对消费…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【文章】梳理2020年-2022年牛市公链赛道的市场表现以及发展格局]]></title>
-        <id>https://www.theblockbeats.info/news/31166</id>
-        <link href="https://www.theblockbeats.info/news/31166"/>
-        <updated>2022-07-09T03:31:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《三年大牛市，21 条头部公链大盘点》
-原文来源： LUCIDA  
-
-
-书接上回，在《500 万行数据，复盘 Crypto 历史上三轮大牛市》中，LUCIDA 通过数据分析了在过去三年中整个 Crypto 市场的宏观表现。
-
-
-本文中，LUCIDA 联合了 SnapFingers DAO 的投研小伙伴，来盘点「公链」篇。
-
-
-引言
-
-
-以太坊的巨大成功让智能合约公链成为资本竞相追逐的圣杯。目前以太坊仍然是智能合约公链里最大、最重要的平台，但由于性能低和费用高，大量应用不适合在以太坊上运行。
-
-
-新公链凭借性能和费用优势承接了这些以太坊外溢的需求。尤其在 2021 年牛市行情中，大量应用涌现，新公链生态相继爆发，从 BSC 到 Polygon，再到 Solana，同时 Avalanche、Fantom、Terra 生态也有大幅增长。正如 Vitalik Buterin 在推特上发表的论断「未来将是多链的（multi-chain）」，这轮牛市公链的增长范式或许对未来的「多链」格局有些许启示。
-
-
-一、2020 年-2022 年大牛市公链市场表现
-
-
-公链是加密市场的基础设施，也是最重要的组成部分。本文所讨论的公链包括：智能合约平台和跨链平台，总共 21 条。除了 Ethereum，其他选取样本及分类如下。样本选取的标准是市值前 100，已建立起自己的生态，具有一定的关注度。
-
-
-
-本文所研究的 21 条公链样本
-
-
-为了后续分析，我们同样做了数据清洗和预处理的工作。
-
-
-1.1 公链价格指数的制订
-
-
-21 条公链的价格变化多端、涨跌不一，为了让大家更容易观察赛道的整体表现，我们以加权算法制成了公链指数（Chain_Index）。公链指数（Chain_Index）的具体算法如下：
-
-
-当日公链指数价格 = 当日标的资产收盘价 * 当日标的权重系数
-当日标的权重系数 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【文章】DAO会遇到的14个致命挑战以及8个变革的方法论]]></title>
-        <id>https://www.theblockbeats.info/news/31167</id>
-        <link href="https://www.theblockbeats.info/news/31167"/>
-        <updated>2022-07-09T01:31:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-国人 DAO 大败局：放心吧！我们都实现不了去中心化自治
-
-》
-原文作者： 定慧的小灵儿
-
-
-相信每个 DAO 的参与者，都会遇到过以下问题：
-
-
-- 自称 DAO，却跟社群没区别
-- 核心团队集权统治
-- 招志愿者，白嫖劳动力
-- 开会繁琐，难以共识，没人做事
-
-
-简单来说：既不去中心，也不自治，连良好的激励机制也没有，活下去都是问题，借着 DAO 的名义招摇过市，实际上啥都不是。
-
-
-如果我们相信 DAO 是未来、更多商业公司和 NGO 都会转型成 DAO 时，如果这些问题没有被解决，就是在耍流氓。
-
-
-如果要解决这些问题，需要重新理解什么是 DAO
-
-
-（1）什么是 DAO？
-
-
-如同 @felixzhou.eth 所言：
-
-
-「在我看来比特币是完美的 DAO，主要基于以下三个特点：
-
-
-1. 所有参与者都是对等的，并且遵守相同的规则，不存在特殊的参与者；
-
-
-2. 参与者对系统的贡献都是客观、可量化的，不存在主观的判断；
-
-
-3. 参与者所有的行为都记录在系统内 (链上)，不必参考系统外的活动；
-
-
-不具备这几个特点的 DAO，要么是存在内在的缺陷，可持续性存疑；要么就是自欺欺人，强行蹭 DAO 的概念。」
-
-
-区块链创新能缔造一个以技术维系的系统，让比特币这样的 DAO 诞生。但面对更广阔的人类社会活动，却只能提供 Token、NFT、智能合约等等一系列工具。虽然这些工具天然具备加密、确权的属性，但一点也妨碍不了被庄家拿来割韭菜，甚至实现更深度的精神操控。
-
-
-因此在我看来，DAO 的发展有两条路径：
-
-
-1、构建以技术为基础的系统，让 BTC 的奇迹在更多的场景中复现。
-
-
-2、构建以人为基础的系统，使用各种工具、不断接近区中心化、自治的理想。
-
-
-因为我不是很懂技术，但第二种却是我的主场，也是这篇文章的主题。
-
-
-在讨论具体的方案前，我们先要自…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
