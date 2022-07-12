@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31207",
+          "author": null,
+          "description": "原文标题：《\n\n八年抛售即将结束，Ripple 前 CTO 套现了多少钱？\n\n》\n原文作者：Azuma，\n\nOdaily 星球日报 \n\n\n\n近些年来存在感越来越低的 Ripple（XRP ）即将迎来一件「大事」。\n\n\nJed Balance 最新数据显示，Ripple 第一任首席技术官 Jed McCaleb 的钱包内仅剩下 17945934 枚 XRP，依照 0.31 美元的二级市场价格计算约合 556 万美元，依照近几个月来的日均抛售速度计算，Jed 大概会在未来几天内清仓，这也意味其长达八年的 XRP 抛售即将彻底结束。\n\n\n\n\n\n作为 Ripple 2012 年启动时核心创始团队中的一员，Jed 在 XRP 的初始分配中与 Chris Larsen 以及 Arthur Britto 共同享有约 200 亿枚 XRP 的份额。2014 年，由于观念冲突，Jed 选择了离开（随后创建了 Stellar）并带走了属于自己的 XRP 份额，总计约为 90 亿 XRP。\n\n\n为了限制 Jed 的抛售对 XRP 的二级市场产生较大影响，当时 Ripple 团队曾与 Jed 签订过一份抛售限制协议。协议约束，Jed 在第一年内每周不能卖出超过 10000 美元的 XRP，接下来的三年里则会放宽为每周不能卖出超过 20000 美元的 XRP，此后协议内容又有了一定调整，从约束具体金额变成了约束Token数量，即要求 Jed 在 2018 -2019 年期间最多只能卖出 10 亿枚 XRP，2020 之后则放宽为最多只能卖出 20 亿枚 XRP。\n\n\n正是因为该限制协议的存在，Jed 的抛售才会持续八年之久，那么 Jed 到底用这 90 亿枚 XRP 套现了多少钱呢？\n\n\n比较遗憾的是，或许是出于 XRP 的市场地位逐渐走低的原因，当前可查的海内外相关数据源中，针对 Jed 套现价值的统计大多都停在了 2020 年前，像 Jed Balance 这样一直存续的数据源却又只统计了 XRP 数量，没有结合实时价格计算对应价值。所以如果想要得出套现总值的答案，还需要我们自己来做一次估算。\n\n\n\n\n\n\n结合上图，以 Jed 暂停抛售的一些时间点为分割，我们可以把 Jed 抛售分为三个阶段：2021 年前、2021 年 1 月至 2021 年 9 月、2022 年 1 月至今。\n\n\n首先是第一阶段，很幸运，Whale Alert 曾在 2020 年末做过一次 Jed 历史抛售行为的统计（具体算法可以自己看下原文，这里不细说了），得出的结果是该阶段 Jed 通过抛售已套现 5.46 亿美元。\n\n\n其次是第二阶段，这也是 Jed 抛售力度最大的一段时间，我们以月为单位统计出了 Jed 的具体抛售数量，再结合当月 XRP 的价格中位数来估算其整体套现价值，得出的结果为该阶段 Jed 合计套现约 21.697 亿美元，具体计算过程如下：\n\n\n\n\n\n最后是第三阶段，继续前一阶段的计算方式，得出的结果为该阶段 Jed 合计套现约 4.11 亿美元，具体计算过程如下：\n\n\n\n\n\n\n5.46 亿、21.697 亿、4.11 亿，抛去钱包内最后剩余的 17945934 枚 XRP 不提，在过去八年的抛售中，Jed 合计套现总值约为 31.267 亿美元。需要说明的是，这一数据系由我们设定的估算模型（当月抛售数量 * 当月价格中位数）所得出，与实际数据会存在一定出入，但偏差应该不会太大。\n\n\n可能有朋友这时会问，随着 Jed 的「砸盘」结束，是不是可以「冲」XRP 了？关于这个操作，我个人是强烈不建议的，具体原因有三：\n\n\n首先，单纯从二级市场来看，Jed 的持续出售长期以来一直都是 XRP 的重要抛压之一，所以抛售的结束在一定程度上确实可以减弱 XRP 的卖盘压力，但相较于 XRP 日均数亿美元的交易量，Jed 近几个月来的每日平均抛售额仅在数百万美元，所以这个「一定程度」究竟是多少值得考量。\n\n\n其次，当前加密货币市场整体尚未企稳，加息、缩表阴云仍在，流动性危机所导致的创伤也还未完全恢复，没人说得准市场接下来会怎么走。\n\n\n最后也是最关键的是，在过往数年的发展与竞争中，XRP 及其所代表的「跨境支付」概念在叙事上正不断走弱。随着 Web3 时代的到来，我们在证明某些新概念的同时也会不断地证伪一些旧概念，就目前的发展态势来看，Ripple 正在逐渐滑向后者。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31207",
+          "publishedOn": "2022-07-12T10:00:31.000Z",
+          "wordCount": null,
+          "title": "8年抛售90亿枚XRP，Ripple前CTO到底套现多少资产？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31209",
+          "author": null,
+          "description": "原文作者：Sleepy\n\n\n没有 NFT 玩家不希望拥有一些蓝筹 NFT，但对于很多人来说，蓝筹 NFT 的地板价令他们望尘莫及，如果没有在价格上涨前买入，基本上就永远失去了入场的机会。BAYC 地板价高达 100 ETH，而 MAYC、Azuki、Doodles 等蓝筹项目的地板价也高达数十个 ETH，对于绝大多数人来说，很难一次性支付如此高昂的价格。\n\n\n\n\n其实在现实生活中，人们也常常会面对这样的事情，比如人们会分期购买一个新款 iPhone 手机，分期购买一套房子，分期付款已经成为人们常用的支付方式，虽然有人会认为这是在提前透支自己的消费能力，但不可否认的是这的确让人们在现实生活不被影响的情况下拥有自己想要的、昂贵的商品。\n\n\n\n\n那么我们有没有机会用分期的方式购买一个蓝筹 NFT 呢？\n\n\n\n\n\nApe Now，Pay Later\n\n\n\n\nApe Now 是一个建立在 DeFi 借贷市场 Teller 上的 NFT 分期购买协议，用户在购买蓝筹 NFT 时可以先支付一笔首付，剩余款项可以分期支付，在没有完成全额支付前，NFT 会被平台托管，支付完成后用户才可以将 NFT 提取到自己的钱包中，而如果用户没有按照约定期限完成分期付款，NFT 将会被清算并补偿给贷款提供方。\n\n\n\n\n使用分期付款购买 NFT 有哪些好处呢？最基本的一点是能够让用户更好地管理自己的资金，让普通用户也能通过分期付款的方式最终拥有自己的蓝筹 NFT；另一点是在行情不断波动的 NFT 市场中，使用 Ape Now 对 NFT 进行分期付款意味着你可以在 NFT 价格上涨前「锁定」住价格，Ape Now 的机制是先用贷款将市场中挂单的 NFT 买下来，然后用户分期偿还贷款，所以用户在看涨某个 NFT 的时候可以当机立断将其买入。\n\n\n\n\n\n\n\n在 Ape Now 上线的一周时间里，共有超过 600 笔分期购买订单，购买各个蓝筹 NFT 项目的比例如下：\n\n\n\n\n\n\n目前，由于 Ape Now 刚刚上线不久，支持的 NFT 项目不多，除了 Adidas、Murakami.Flowers Seed、RTFKT-MNLTH 这三个使用 ERC-1155 代币标准的项目之外，其他蓝筹 NFT 项目的首付均为 50%，剩余 50% 及利息需要在 90 天内分期支付完成，而在未来，用户可以自定义首付比例以及分期付款的期数，届时蓝筹 NFT 的购买门槛又会大大降低。\n\n\n\n\n\n\n\n\n使用教程\n\n\n\n\n\n\n首先前往项目官网：https://apenowpaylater.com/ 并点击 Buy NFT\n\n\n\n\n\n\n\n\n\n选择要购买的 NFT Collection 并在 OpenSea 上选择一个处于挂单状态的 NFT，将编号填入下方\n\n\n\n\n\n\n\n\n\n随后便可以看到分期详情，包括首付、贷款金额（分期金额+利息）、分期时长、年利率等\n\n\n\n\n\n\n\n\n\n最后确认好即可支付首付，开始分期购买 NFT\n\n\n\n\n\n\n\n\n\n用户需要前往 Teller 官网支付剩余款项：https://mp.teller.org/profile//borrower\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31209",
+          "publishedOn": "2022-07-12T09:46:31.000Z",
+          "wordCount": null,
+          "title": "Ape Now：蓝筹NFT分期购 | 项目介绍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31208",
+          "author": null,
+          "description": "原文标题：《3AC contagion》\n原文作者：Adam Cochran，Cinneamhain Ventures 合伙人\n原文编译：0x711&Bob，BlockBeats\n\n\n\n\n针对三箭资本暴雷后事态进一步蔓延的现状，Cinneamhain Ventures 合伙人 Adam Cochran 在社交媒体分享了其个人看法，BlockBeats 对其翻译整理如下：\n\n\n\n\n没想到我会这么快再次讨论这个问题，但自从上周末有消息称三箭资本没有「与清算人合作」，它可能意味着这次事件的进程和严重程度都充满变数。\n\n\n\n\n如果三箭资本确实完全不合作，这可能意味着： \n\n\n\n\n· 他们的链上钱包中仍持有的一些可转移 Token 无法被扣押。\n\n\n· 所有被托管或在交易平台的 Token 都将被没收和清算。\n\n\n· GBTC 份额将被扣押。\n\n\n· 在合约中未解锁的 Token 也可能被扣押。\n\n\n\n\n包括 DeFiance Capital 的「共同投资协议」基金，将在为自己能否存续而战，以求不被清算。把资金交给三箭资本管理的项目能否在清算过程中得到认可，并获得偿付，取决于是否签订了明文协议。\n\n\n\n\n这其中有很多状况非常糟糕，类股票基金的清算、财库的损失以及被迫出售（可能是场外交易）任何归属头寸，将真正伤害行业，特别是在熊市期间，这可能会导致很多初期项目夭折。但是，最大的问题是 GBTC，因为我们知道三箭资本的 GBTC 持仓量很大，并且很容易被扣押。如你所知，由于费用、流动性、转换风险等原因，GBTC 通常存在比特币折价。\n\n\n\n\n\n\n\n\n\n还有些问题与各自司法管辖区内有关破产的具体规定有关：\n\n\n\n\n1. 债务人是否将以实物转让股票的方式获得偿付？\n\n\n2. 或者，他们是否必须首先进行清算？\n\n\n\n\n希望是第一种情况，这意味着损失将被债权人从账面上吸收—考虑到 GBTC 的高…",
+          "link": "https://www.theblockbeats.info/news/31208",
+          "publishedOn": "2022-07-12T09:45:31.000Z",
+          "wordCount": null,
+          "title": "三箭事件会如何影响主流基金与监管",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31206",
+          "author": null,
+          "description": "原文作者：Trace，Figment Capital\n原文编译：0x9F、czgsws，BlockBeats\n\n\n7 月 12 日，The Information 援引知情人士报道，由前 Meta Platforms 员工创立的 Wbe3 初创公司 Mysten Labs 正在寻求以 20 亿美元估值筹集至少 2 亿美元 B 轮融资，本轮融资由 FTX Ventures 领投，目前项目方已在该轮融资中获得 1.4 亿美元资金支持。此前，Mysten Labs 于 2021 年 12 月宣布完成 3600 万美元 A 轮融资，该轮融资由 a16z 领投，Coinbase Ventures、NFX、Slow Ventures、Scribble Ventures、Samsung NEXT、Lux Capital 等参投。\n\n\n\nMysten Labs 由 4 位前 Meta 工程师创立，于 2022 年 3 月公布其 Layer 1 公链项目「Sui」，并于 5 月公布该项目 Token SUI 的经济模型。Figment Capital 投资人 Trace 在个人社交媒体平台上从技术、Token 经济学、团队三个角度介绍了 Sui 这条新公链，BlockBeats 对其整理翻译如下：\n\n\n\n\n技术\n\n\n\n\n基于 Meta（原 Facebook）多年研究开发的 Sui，不同于我们见过的任何区块链。\n\n\n\n\n首先，Sui 区块链具有极高的性能。在 MacBook Pro 上运行 Sui 节点的早期数据显示每秒能够处理超过 12 万笔 Token 交易。\n\n\n\n\nSui 性能的关键在于交易并行化（transaction parallelization）。在大多数区块链中，交易必须要排好顺序，并放入区块以循序执行。循序执行不必要地限制了这些链上的吞吐量，毕竟大多数交易互相独立。因为 S…",
+          "link": "https://www.theblockbeats.info/news/31206",
+          "publishedOn": "2022-07-12T08:31:31.000Z",
+          "wordCount": null,
+          "title": "新公链Sui：估值20亿美元的前Facebook团队打造的Layer1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31202",
+          "author": null,
+          "description": "原文标题：《\n\nSolidity 极简入门: 10. 控制流，用 solidity 实现插入排序\n\n》\n原文作者：0xAA  \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github: github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们将介绍 solidity 中的控制流，然后讲如何用 solidity 实现插入排序（InsertionSort），一个看起来简单，但实际上很容易写出 bug 的程序。\n\n\n控制流\n\n\nSolidity 的控制流与其他语言类似，主要包含以下几种：\n\n\nif-else  \n\n\n\n\n\nfor 循环 \n \n\n\n\nwhile 循环  \n\n\n\n\n\ndo-while 循环  \n\n\n\n\n\n三元运算符\n\n\n三元运算符是 solidity 中唯一一个接受三个操作数的运算符，规则条件? 条件为真的表达式:条件为假的表达式。此运算符经常用作 if 语句的快捷方式。  \n\n\n\n\n\n另外还有 continue（立即进入下一个循环）和 break（跳出当前循环）关键字可以使用。\n\n\n用 solidity 实现插入排序\n\n\n写在前面：\n\n\n90% 以上的人用 solidity 写插入算法都会出错。插入排序\n\n\n排序算法解决的问题是将无序的一组数字，例如 [2, 5, 3, 1]，从小到大一次排列好。插入排序（InsertionSort）是最简单的一种排序算法，也是很多人学习的第一个算法。它的思路很简答，从前往后，依次将每一个数和排在他前面的数字比大小，如果比前面的数字小，就互换位置。示意图：\n\n\n\n  插入排序  \n\n\npython 代码\n\n\n我们可以先看一下插入排序的 python 代码：\n\n\n\n\n\n改写成 solidity 后有 BUG！\n\n\n一共 8 行 python 代码就可以完成插入排序，非常简单。那么我们将它改写成 solidity 代码，将函数，变量，循环等等都做了相应的转换，只需要 9 行代码：\n\n\n\n\n\n那我们把改好的放到 remix 上去跑，输入 [2, 5, 3, 1]。BOOM！有 bug！改了半天，没找到 bug 在哪。我又去 google 搜」solidity insertion sort」，然后发现网上用 solidity 写的插入算法教程都是错的，比如：Sorting in Solidity without Comparison\n\n\n\n正确的 solidity 插入排序\n\n\n花了几个小时，在 Dapp-Learning 社群一个朋友的帮助下，终于找到了 bug 所在。solidity 中最常用的变量类型是 uint，也就是正整数，取到负值的话，会报 underflow 错误。而在插入算法中，变量 j 有可能会取到-1，引起报错。\n\n\n这里，我们需要把 j 加 1，让它无法取到负值。正确代码：\n\n\n\n\n\n运行后的结果：\n\n\n\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中控制流，并且用 solidity 写了插入排序。看起来很简单，但实际很难。这就是 solidity，坑很多，每个月都有项目因为这些小 bug 损失几千万甚至上亿美元。掌握好基础，不断练习，才能写出更好的 solidity 代码。\n\n\n原文链接\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31202",
+          "publishedOn": "2022-07-12T07:31:31.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第十讲：控制流，用solidity实现插入排序",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31199",
           "author": null,
           "description": "原文标题：《NFT 玩家的共识分片：金钱、社区与文化》\n原文作者：sleepy0x13.eth\n\n\n\n\n在 Crypto 领域，当我们提到「分片」时，人们通常想到的是区块链分片技术。分片可以让区块链交易处理速度大大提升，区块链研究者 HITer 将其比作一条高速公路新开设了无数个收费口，人们不需要在一个收费口排起长队。\n\n\n而今天我们要聊的「分片」与公链无关，与技术无关。如今，NFT 玩家们对于项目的共识似乎也开始分片了。\n\n\n\n\n\n这是 The Saudis 团队在 Discord 中发布的一条公告。简单来讲，一个科学家在 The Saudis 开启 Free Mint 时将一大批 NFT 收入囊中，并在 The Saudis 价格上涨时一路挂单出货，而 The Saudis 团队发现后便采取了行动，将这二百多个 NFT 锁定起来，科学家只能挂单但无法卖出。\n\n\n其实，随着 NFT 逐渐破圈，越来越多的项目方会在发售时设计各种机制来防止科学家通过一些技术手段铸造大量 NFT，以此避免科学家为了获利而批量出售 NFT 时对于市场价格的影响。人们常常将 NFT 视作虚拟资产确权的标志，既然是自己的资产，那在二级市场交易便应当是自由的，但 The Saudis 团队的这一「惩罚措施」不禁让人产生质疑。\n\n\n在 The Saudis 这条推特的评论区，部分围观群众纷纷留言表示这「太过于中心化」，他应当享有「交易自由」，而对于这些言论，一些用 The Saudis NFT 当作头像的网友给出了如下回复：\n\n\n\n\n\n「如果项目方不锁住这些 NFT，价格就会崩盘。」\n\n\n作为一个 Web3 项目，因为让人们赚到了钱，所以即便是无比中心化又如此明目张胆的操作却很少有人指责，反倒是得到了众多买家的称赞，甚至有人说这是在建设社区，这个操作让「\n\n社区变得更加和谐」\n\n，这是个很有意思的现象。…",
