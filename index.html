@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-07-13 datetime="2022-07-13T09:01:38.000Z">2022-07-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-07-13 datetime="2022-07-13T09:01:38.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-07-13 datetime="2022-07-13T14:18:13.000Z">2022-07-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-07-13 datetime="2022-07-13T14:18:13.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,104 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31221"
+                        open
+                      >
+                        <summary class="article-expander__title">Solidity极简入门｜第十二讲：事件</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31221">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《
+
+Solidity 极简入门: 12. 事件
+
+》
+原文作者：0xAA    
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码开源在 github： github.com/AmazingAng/WTFSolidity
+
+
+这一讲，我们用转账 ERC20 Token为例来介绍 solidity 中的事件（event）。
+
+
+事件
+
+
+Solidity 中的事件（event）是 EVM 上日志的抽象，它具有两个特点：
+
+
+响应：应用程序（ether.js）可以通过 RPC 接口订阅和监听这些事件，并在前端做响应。
+
+
+经济：事件是 EVM 上比较经济的存储数据的方式，每个大概消耗 2,000-5,000 gas 不等。相比之下，存储一个新的变量至少需要 20,000 gas。
+
+
+规则
+
+
+事件的声明由 event 关键字开头，然后跟事件名称，括号里面写好事件需要记录的变量类型和变量名。以 ERC20 
+
+Token
+
+合约的 Transfer 事件为例：
+
+
+
+
+
+我们可以看到，Transfer 事件共记录了 3 个变量 from，to 和 value，分别对应
+
+Token
+
+的转账地址，接收地址和转账数量。同时 from 和 to 前面带着 indexed 关键字，表示很重要，程序可以轻松的筛选出特定转账地址和接收地址的转账事件。每个事件最多有 3 个带 indexed 的变量。
+
+
+我们可以在函数里释放事件。在下面的例子中，每次用_transfer() 函数进行转账操作的时候，都会释放 Transfer 事件，并记录相应的变量。
+
+
+
+
+
+在 etherscan 上查询事件
+
+
+我们尝试用_transfer() 函数在 Rinkeby 测试网络上转账 100 
+
+Token
+
+，可以在 etherscan 上查询到相应的 tx：https://rinkeby.etherscan.io/tx/0x8cf87215b23055896d93004112bbd8ab754f081b4491cb48c37592ca8f8a36c7
+点击 Logs 按钮，就能看到事件明细：
+
+
+
+Event 明细
+
+
+Topics 里面有三个元素，[0] 是这个事件的哈希，[1] 和 [2] 是我们定义的两个 indexed 变量的信息，即转账的转出地址和接收地址。Data 里面是剩下的不带 indexed 的变量，也就是转账数量。
+
+
+总结
+
+
+这一讲，我们介绍了如何使用和查询 solidity 中的事件。很多链上分析工具包括 Nansen 和 Dune Analysis 都是基于事件工作的。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -1583,87 +1681,6 @@ SBF 认为加密市场正朝着健康的情况发展。过去两年有些机构�
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31172"
-                        open
-                      >
-                        <summary class="article-expander__title">【文章】以太坊Q2复盘：DeFi弹性尚存，NFT仍火热，L2 Token季开启</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31172">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《
-
-以太坊状态：复盘以太坊 2022 Q2
-
-》
-原文作者：Ben Giove，Bankless 分析师
-原文编译：DeFi 之道
-
-
-继之前的以太坊 2022 Q1 报告，本报告将研究以太坊 2022 年第二季度 -- 截至 6 月 30 日 -- 以太坊协议和生态系统的重要指标，分为四个类别：协议、DeFi、NFT  和 L2。而后，我们也讨论了生态系统的亮点并对未来进行了展望。
-
-
-01. 协议
-
-
-
-以太坊网络收入；来源：Token Terminal
-
-
-网络收入下降 33.4%-- 从 19.1 亿美元降至 12.8 亿美元
-
-
-这一数据衡量的是为使用网络而支付的交易费用的价值。其中，10.9 亿美元的 ETH（其中 85.4%）被烧毁，从流通供应中移除。
-
-
-对区块空间需求的减少可能是由于本季度的市场疲软，抑制了投机活动。
-
-
-ETH 通胀率下降 37%--从 1.12% 降至 0.71%
-
-
-
-ETH 供应增长；来源：Etherscan
-
-
-这一数据衡量了本季度 ETH 的供应增长情况。
-
-
-下降的原因可能是 2021 年第三季度通过 EIP-1559 实施的费用燃烧机制。
-
-
-日均活跃地址下降 20.6%-- 从 593,404 个降至 471,447 个
-
-
-
-以太坊每日活跃地址；来源：Etherscan
-
-
-这一数据追踪了本季度期间每天在以太坊上进行交易的钱包地址的平均数量。
-
-
-与网络收入一样，这种下降可能是由于本季度的看跌背景导致用户的投机欲望下降。
-
-
-质押 ETH 增加了 116%-- 从 601 万增至 1298 万
-
-
-
-信标链上质押的 ETH；来源：Nansen
-
-
-这一数据衡量的是在网络即将从工作量证明（PoW）过渡到权益证明（PoS）之前，信标链上的 ETH 数量。
-
-
-到第二季度末，大约有 10.86% 的 ETH 总供应…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1671,8 +1688,8 @@ ETH 供应增长；来源：Etherscan
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2663324109">
-        <time id="build-timestamp" datetime="2022-07-13T12:14:25.416Z">2022-07-13T12:14:25.416Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2665392754">
+        <time id="build-timestamp" datetime="2022-07-13T18:09:44.163Z">2022-07-13T18:09:44.163Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
