@@ -2,10 +2,281 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-13T00:41:23.867Z</updated>
+    <updated>2022-07-13T06:11:39.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Research：熊市下的比特币大矿工现状]]></title>
+        <id>https://www.theblockbeats.info/news/31214</id>
+        <link href="https://www.theblockbeats.info/news/31214"/>
+        <updated>2022-07-13T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Bitcoin mining: investment cycles
+
+》
+原文作者：Brian Cubellis & Li Liu
+
+
+原文编译：GaryMa 吴说区块链 
+
+
+关键概要
+
+
+
+
+鉴于比特币价格下跌和能源成本上升的背景，最近几个月，比特币矿工的经济效益已经受到挑战，可能促使某些矿工关闭机器，清算比特币储备，和/或重新调整其成本结构。
+
+
+从 2020 年到 2021 年的信贷快速扩张期，随后在 2022 年观察到的资本成本上升，在价格下降的情况下，加速了对比特币矿工的不利影响。
+
+
+介绍
+
+
+
+
+随着比特币价格的下跌和能源价格的上涨，与比特币挖矿相关的利润率已经大幅压缩，很可能迫使某些矿工关机。与过去加密货币的周期性下跌类似，不了解情况的专家已经开始提出无知的理论，即如果没有矿工能够挖矿获利，他们就会关闭机器，清算他们的比特币储备，进一步增加卖压。根据这一理论，然后整个网络中交易将无法被验证或确认，网络价值归零。很明显，这是错的。
+
+
+实际情况要微妙得多，事实上，中本聪的核心创新之一：难度调整，使比特币网络能够自然地吸收和恢复这样的冲击。也就是说，有一个 "均衡" 的网络算力，其中挖矿难度的降低促进了挖矿活动的恢复。以这种方式，挖矿反映了更广泛的信贷周期的上升和下降。我们现在看到的是，尽管收入下降，但比特币目前的算力却徘徊在历史高点附近。正如我们将在本报告中探讨的那样，从 2020 年到 2021 年的快速信贷扩张期，以及 2022 年观察到的资本成本上升，在价格下降的情况下，加速了对比特币矿工的负面影响。
+
+
+为了更好地理解这些机制，首先必须了解驱动比特币矿工盈利的关键因素，其中包括：
+
+
+·矿机的技术能力（即较新的挖矿设备的效率较高，可以降低成本）
+
+
+·整个网络的平均算力（网络算力越低，挖矿难度越小，因此利润越高）
+
+
+·每千瓦时的电力…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从The Saudis NFT事件浅析EIP-2535钻石协议]]></title>
+        <id>https://www.theblockbeats.info/news/31203</id>
+        <link href="https://www.theblockbeats.info/news/31203"/>
+        <updated>2022-07-13T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《从 The Saudis NFT 事件浅析 EIP-2535 钻石协议》
+原文作者：九九，慢雾安全团队
+
+
+背景信息
+
+
+2022 年 7 月 10 号，一个火热的 NFT  项目 TheSaudis 开启了 freemint 活动（白名单用户可以免费铸造其 NFT）。而就在 mint 活动结束后，一位名叫 RIGHTBLOCK 的用户在市场上大量地抛售该 NFT，项目方发现后迅速锁定到了该用户并对合约进行改动以此来将该用户手里的大量 NFT 转移回来，他们之后承诺会将这些 NFT 回馈给社区用户。
+
+
+
+
+
+那么为什么项目方可以将该用户手里的 NFT 转移呢？经过我们的分析发现该 NFT 项目的合约采用了 EIP-2535 协议也叫做钻石协议，项目方利用该协议重写了合约的功能，以此来实现这些 NFT 的转移。接下来慢雾安全团队将会为大家介绍下这个钻石协议（EIP-2535）的细节。
+
+
+
+
+
+钻石协议介绍
+
+
+EIP-2535 是以太坊上一个将合约进行代码模块化组合的提案，其目的是为了让大型的智能合约突破 24kb 大小的最大限制，并且让合约更方便地更新功能。
+
+
+要理解钻石协议，首先有几个相关的概念定义需要知道：
+
+
+钻石（diamond）: 钻石可以理解为代理合约（Proxy），也是与用户进行交互的主合约
+
+
+切面（facet）: 正如真正的钻石有不同的侧面一样，一个钻石合约也有着不同的面，钻石合约的每个功能所需要调用的合约对应一个切面，所以也可以理解为实现合约（Implementation）
+
+
+钻石切割（diamondCut）: 钻石协议标准扩展了一种叫钻石切割的功能，其主要作用从钻石中增加、替换或删除切面和功能，可以理解为合约的升级（Upgrade）
+
+
+放大镜（The Loupe）: 钻石协议标准中的放大镜功能主要是返回关于切面的信息和钻石存在的功能，这些信息是保存在钻石合约内部的存储结构——DiamondStorage 中
+
+
+整个钻石模型类似下图：
+
+
+
+
+
+通过使用钻石标准规范去创建钻石合约，这个合约可以像使用当前合约的代码一样使用任何数量的其他切面合约的代码。
+
+
+在该钻石合约中不同的函数功能需要调用对应的不同的切面合约的代码来实现，并且可以利用钻石切割的功能来对钻石合约中的函数功能进行修改（添加、替换或删除）。
+
+
+这与市面上大多数使用一个代理合约和一个实现合约来实现交互与升级的方式有所区别。
+
+
+
+
+
+
+
+事件分析
+
+
+接下来回头分析下 The Saudis 这次事件中的一些细节，在该项目的 DiamondCutFacet.sol 合约中，可以看到实现了 diamondCut 功能的函数。
+
+
+
+
+
+该函数首先会调用 LibDiamond 库的 enforceIsContractOwner 函数来判断调用者是否是合约的 owner，如果是 owner 调用的话会调用 LibDiamond 库的 diamondCut 函数来实现钻石合约的功能更新。
+
+
+
+
+
+跟进到该函数我们发现钻石切割会根据传入的不同的 action 来判断进行添加、替换或删除功能，故接下来跟进看看项目方调用该函数的交易。
+
+
+
+
+
+我们发现传入了新的切面合约 0x70d8ccaf6b50b051ab1e8fa238626163e45a8b03（未开源），传入的 action 设置为 1 则应该是调用了 replaceFunctions  来实现替换功能。
+
+
+
+
+
+从 replaceFunctions 函数中可以分析出该函数首先会为传入的地址新增一个切面，接着从存储中循环读取传入的每个函数选择器对应的旧的切面进行删除，并为这些函数的切面添加为传入的新的切面地址。
+
+
+至此可得知 The Saudis 项目方就是利用了钻石切割函数来重写了转账功能，以此来将用户 RIGHTBLOCK 手中的 NFT 转移回自己的账户。
+
+
+相关信息
+The Saudis 合约地址：
+0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1
+用户 Rightblock 地址：
+0x80266b1e3f0C2cAdAE65A4Ef5Df20f3DF3707FfB
+项目方更新合约的交易：
+0xbc559a72f73e6c9a53416fd13a3ebaaa76dca5855ff8b79511585f514eaf2390
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第十一讲：构造函数和修饰器]]></title>
+        <id>https://www.theblockbeats.info/news/31205</id>
+        <link href="https://www.theblockbeats.info/news/31205"/>
+        <updated>2022-07-13T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 11. 构造函数和修饰器》
+原文作者：0xAA  
+
+
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+
+
+所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity
+
+
+
+
+这一讲，我们将用合约权限控制（Ownable）的例子介绍 solidity 语言中构造函数（constructor）和独有的修饰器（modifier）。
+
+
+
+
+构造函数
+
+
+
+
+构造函数（constructor）是一种特殊的函数，每个合约可以定义一个，并在部署合约的时候自动运行一次。它可以用来初始化合约的一些参数，例如初始化合约的 owner 地址：
+
+
+
+
+
+
+
+
+
+修饰器
+
+
+
+
+修饰器（modifier）是 solidity 特有的语法，类似于面向对象编程中的 decorator，声明函数拥有的特性，并减少代码冗余。它就像钢铁侠的智能盔甲，穿上它的函数会带有某些特定的行为。modifier 的主要使用场景是运行函数前的检查，例如地址，变量，余额等。
+
+
+
+
+
+  钢铁侠的 modifier
+
+
+
+
+我们定义一个叫做 onlyOwner 的 modifier：
+
+
+
+
+
+
+
+
+
+代有 onlyOwner 修饰符的函数只能被 owner 地址调用，比如下面这个例子：
+
+
+
+
+
+
+
+
+
+我们定义了一个 changeOwner 函数，运行他可以改变合约的 owner，但是由于 onlyOwner 修饰符的存在，只有原先的 owner 可以调用，别人调用就会报错。这也是最常用的控制智能合约权限的方法。
+
+
+
+
+OppenZepplin 的 Ownable 标准实现：https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol  
+
+
+
+
+总结
+
+
+
+
+这一讲，我们介绍了 solidity 中的构造函数和修饰符，并举了一个控制合约权限的 Ownable 合约。
+
+
+
+
+原文链接
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A&T Capital：我们为什么投资Gnosis Safe]]></title>
         <id>https://www.theblockbeats.info/news/31212</id>
