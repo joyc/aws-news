@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31246",
+          "author": null,
+          "description": "在Web3的世界里，VC如何和项目团队共同建设？",
+          "link": "https://www.theblockbeats.info/news/31246",
+          "publishedOn": "2022-07-14T14:01:48.000Z",
+          "wordCount": null,
+          "title": "在Web3的世界里，VC如何和项目团队共同建设？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31244",
           "author": null,
           "description": "原文标题：《Meet the newest crypto builders from web3 accelerator Alliance DAO's demo day》\n原文作者：Jacquelyn Melinek，TechCrunch\n原文编译：0x711&Noc，BlockBeats\n\n\n\n\n硅谷传统的初创科技公司都会举办各种 demo day 活动。但今天我们要介绍的是一批加密项目和团队，他们参加的是 Web3 加速器及建设者社区 Alliance DAO 举办的 demo day 活动。\n\n\nAlliance DAO 的核心贡献者 Qiao Wang 在活动期间表示，该活动每年举办 3 次。「各个阶段的初创公司都加入了我们的行列，从刚刚有创意的公司到价值数十亿美元的公司。」\n\n\n\n\n加速器聚集了 Polygon Studios 的首席执行官 Ryan Wyatt 和 Axie Infinity 的联合创始人 Jeff「Jiho」Zirlin 等导师和演讲者来帮助指导与会项目。\n\n\n\n\n有 24 支团队加入训练营，只有 16 支团队最终脱颖而出。其中四分之三的团队聚焦于 NFT 和 DeFi 基础设施，大多数团队都是基于 L1 网络以太坊、Polygon 和 Solana。\n\n\n\n\n训练营的主题包括：市场驱动的 DeFi、客户驱动的社交协议、Token 即协作的机制、消费品分类定价、DAO 如何作为风险分担机制等。\n\n\n\n\n以下是 16 个初创企业的简单介绍。\n\n\n\n\nLulo：去中心化订单簿式借贷协议\n\n\n\n\n创始人：Daniel Garay、Jesse Brauner\n\n\n\n\n融资阶段：种子轮\n\n\n\n\nLulo 是一个 DeFi 借贷基础设施，旨在利用订单簿技术以无需许可的方式创建全球流动性层。它提供「流动性即服务」，因此用户可以将 DeFi 协议与全球借贷平台集…",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-07-12T07:31:31.000Z",
           "wordCount": null,
           "title": "Solidity极简入门｜第十讲：控制流，用solidity实现插入排序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31199",
-          "author": null,
-          "description": "原文标题：《NFT 玩家的共识分片：金钱、社区与文化》\n原文作者：sleepy0x13.eth\n\n\n\n\n在 Crypto 领域，当我们提到「分片」时，人们通常想到的是区块链分片技术。分片可以让区块链交易处理速度大大提升，区块链研究者 HITer 将其比作一条高速公路新开设了无数个收费口，人们不需要在一个收费口排起长队。\n\n\n而今天我们要聊的「分片」与公链无关，与技术无关。如今，NFT 玩家们对于项目的共识似乎也开始分片了。\n\n\n\n\n\n这是 The Saudis 团队在 Discord 中发布的一条公告。简单来讲，一个科学家在 The Saudis 开启 Free Mint 时将一大批 NFT 收入囊中，并在 The Saudis 价格上涨时一路挂单出货，而 The Saudis 团队发现后便采取了行动，将这二百多个 NFT 锁定起来，科学家只能挂单但无法卖出。\n\n\n其实，随着 NFT 逐渐破圈，越来越多的项目方会在发售时设计各种机制来防止科学家通过一些技术手段铸造大量 NFT，以此避免科学家为了获利而批量出售 NFT 时对于市场价格的影响。人们常常将 NFT 视作虚拟资产确权的标志，既然是自己的资产，那在二级市场交易便应当是自由的，但 The Saudis 团队的这一「惩罚措施」不禁让人产生质疑。\n\n\n在 The Saudis 这条推特的评论区，部分围观群众纷纷留言表示这「太过于中心化」，他应当享有「交易自由」，而对于这些言论，一些用 The Saudis NFT 当作头像的网友给出了如下回复：\n\n\n\n\n\n「如果项目方不锁住这些 NFT，价格就会崩盘。」\n\n\n作为一个 Web3 项目，因为让人们赚到了钱，所以即便是无比中心化又如此明目张胆的操作却很少有人指责，反倒是得到了众多买家的称赞，甚至有人说这是在建设社区，这个操作让「\n\n社区变得更加和谐」\n\n，这是个很有意思的现象。…",
-          "link": "https://www.theblockbeats.info/news/31199",
-          "publishedOn": "2022-07-12T03:19:32.000Z",
-          "wordCount": null,
-          "title": "NFT玩家的共识分片：金钱、社区与文化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31198",
-          "author": null,
-          "description": "原文标题：《\n\nDoes Venture Capital Investment Violate the Ethos of Crypto? Sequoia Says No\n\n》\n原文来源：UnChained  \n原文编译：火火，\n\n白话区块链\n\n\n\n红杉资本 成立于 1972 年，到今年刚好 50 年，在全球风险投资领域，红杉资本是无可争议的带头大哥。\n\n\n自成立以来，红杉资本成功投资了苹果、思科、甲骨文、谷歌等巨头公司，见证了一个又一个传奇企业的闪耀时刻。\n\n\n本文来自 UnChained 对谈红杉资本两位合伙人 Shaun Maguire 和 Michelle Bailhe，前者开过五家公司成功了三家，后者起步于麦肯锡，后又曾担任硅谷创意实验室的团队负责人。\n\n\n\n\n白话区块链对访谈内容做了整理翻译和节选。\n\n\n 访谈亮点： \n\n\n- 红杉对加密行业的长期观点和论点是什么 \n- 由于区块链技术，我们的生活将在 20 年后变得多么不同 \n\n- 红杉如何决定是投资于项目背后的实体还是 token \n\n- 让风险资本家参与是否违背了权力下放的精神 \n- Michelle 如何看待影响加密资产的宏观经济环境，以及这个周期是否与之前的周期不同 \n- 加密项目应该关注什么以及他们应该追求的商业模式 \n- 即使没有明确的规定，加密创始人 应该如何始终做正确的事 \n- 元宇宙的未来以及如何定义 \n- 加密行业心智模型和实现全球落地的阶段\n\n\n \n\n红杉对加密行业的长期观点和论点是什么  \n\n\n\n主持人：听说红杉已经推出了一个 5/6 亿美元的加密基金，根据消息说该基金是为了对加密资产未来 20 年进行布局，所以具体是什么？\n\n\nMichelle：加密行业在技术和应用方面都已相当成熟。有趣的是，我们最近一直被问到的问题是我们的信念是否发生了变化，答案当然是否定的。即，加密资产创造了一个全新…",
-          "link": "https://www.theblockbeats.info/news/31198",
-          "publishedOn": "2022-07-12T02:19:32.000Z",
-          "wordCount": null,
-          "title": "牛熊周期与加密的未来如何演变？看看红杉资本怎么说",
           "imageUrl": null
         }
       ]
