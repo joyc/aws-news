@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31244",
+          "author": null,
+          "description": "原文标题：《Meet the newest crypto builders from web3 accelerator Alliance DAO's demo day》\n原文作者：Jacquelyn Melinek，TechCrunch\n原文编译：0x711&Noc，BlockBeats\n\n\n\n\n硅谷传统的初创科技公司都会举办各种 demo day 活动。但今天我们要介绍的是一批加密项目和团队，他们参加的是 Web3 加速器及建设者社区 Alliance DAO 举办的 demo day 活动。\n\n\nAlliance DAO 的核心贡献者 Qiao Wang 在活动期间表示，该活动每年举办 3 次。「各个阶段的初创公司都加入了我们的行列，从刚刚有创意的公司到价值数十亿美元的公司。」\n\n\n\n\n加速器聚集了 Polygon Studios 的首席执行官 Ryan Wyatt 和 Axie Infinity 的联合创始人 Jeff「Jiho」Zirlin 等导师和演讲者来帮助指导与会项目。\n\n\n\n\n有 24 支团队加入训练营，只有 16 支团队最终脱颖而出。其中四分之三的团队聚焦于 NFT 和 DeFi 基础设施，大多数团队都是基于 L1 网络以太坊、Polygon 和 Solana。\n\n\n\n\n训练营的主题包括：市场驱动的 DeFi、客户驱动的社交协议、Token 即协作的机制、消费品分类定价、DAO 如何作为风险分担机制等。\n\n\n\n\n以下是 16 个初创企业的简单介绍。\n\n\n\n\nLulo：去中心化订单簿式借贷协议\n\n\n\n\n创始人：Daniel Garay、Jesse Brauner\n\n\n\n\n融资阶段：种子轮\n\n\n\n\nLulo 是一个 DeFi 借贷基础设施，旨在利用订单簿技术以无需许可的方式创建全球流动性层。它提供「流动性即服务」，因此用户可以将 DeFi 协议与全球借贷平台集…",
+          "link": "https://www.theblockbeats.info/news/31244",
+          "publishedOn": "2022-07-14T08:09:46.000Z",
+          "wordCount": null,
+          "title": "16个新项目，Alliance DAO Demo Day上的Web3项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31242",
           "author": null,
           "description": "原文标题：《详解 StarkNet Token 经济模型：发行理念、分配机制与使用场景》\n原文来源：StarkWare 博客  \n原文整理：谷昱，链捕手\n\n\n\n今晚，以太坊 Layer2 扩容解决方案 StarkWare 连续发布三篇博客公布 StarkNet Token 经济模型，官宣将于今年 9 月发行该 Token，成为继 Optimism 之后又一发行 Token 的头部 Layer2 解决方案。\n\n\nStarkWare 表示，StarkNet 的 Alpha 版于 2021 年 11 月在主网上启动，目前全球有数十个团队致力于此，「现在是推进网络去中心化的时候了，它实现了以太坊 L2 所要求的活跃性、抗审查性、透明性和包容性。」\n\n\n为了推动其去中心化，StarkNet 基金会将成立并致力于将 StarkNet 维护为一种公共产品——一种可供所有社会成员使用的商品或服务。该基金会将鼓励开发自下而上的机制，用于社区就基本技术问题做出决策，例如协议更新、争议解决和公共产品资助。\n\n\nStarkNet Token 将主要具有 3 个使用场景，分别是支付 StarkNet 网络费用、质押以参与网络共识、社区治理投票。StarkNet Token 初始发行量为 100 亿枚，17%  分配给 StarkWare 投资者，32.9% 分配给核心贡献者，51% 分配给基金会。同时，该 Token 具有增发机制，新的铸造 Token 和交易费用的一部分将授予给核心基础设施开发人员和智能合约开发人员。\n\n\n基金会的使命是将 StarkNet 维护为一种公共产品——一种可供所有社会成员使用的商品或服务。StarkNet 是一种无需许可的基础设施，应该可供所有人使用。它必须得到良好的维护，才能安全有效地供公众使用。\n\n\n此外，StarkWare 还表示未来将公布向用户发放 Token …",
