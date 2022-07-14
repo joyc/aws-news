@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31242",
+          "author": null,
+          "description": "原文标题：《详解 StarkNet Token 经济模型：发行理念、分配机制与使用场景》\n原文来源：StarkWare 博客  \n原文整理：谷昱，链捕手\n\n\n\n今晚，以太坊 Layer2 扩容解决方案 StarkWare 连续发布三篇博客公布 StarkNet Token 经济模型，官宣将于今年 9 月发行该 Token，成为继 Optimism 之后又一发行 Token 的头部 Layer2 解决方案。\n\n\nStarkWare 表示，StarkNet 的 Alpha 版于 2021 年 11 月在主网上启动，目前全球有数十个团队致力于此，「现在是推进网络去中心化的时候了，它实现了以太坊 L2 所要求的活跃性、抗审查性、透明性和包容性。」\n\n\n为了推动其去中心化，StarkNet 基金会将成立并致力于将 StarkNet 维护为一种公共产品——一种可供所有社会成员使用的商品或服务。该基金会将鼓励开发自下而上的机制，用于社区就基本技术问题做出决策，例如协议更新、争议解决和公共产品资助。\n\n\nStarkNet Token 将主要具有 3 个使用场景，分别是支付 StarkNet 网络费用、质押以参与网络共识、社区治理投票。StarkNet Token 初始发行量为 100 亿枚，17%  分配给 StarkWare 投资者，32.9% 分配给核心贡献者，51% 分配给基金会。同时，该 Token 具有增发机制，新的铸造 Token 和交易费用的一部分将授予给核心基础设施开发人员和智能合约开发人员。\n\n\n基金会的使命是将 StarkNet 维护为一种公共产品——一种可供所有社会成员使用的商品或服务。StarkNet 是一种无需许可的基础设施，应该可供所有人使用。它必须得到良好的维护，才能安全有效地供公众使用。\n\n\n此外，StarkWare 还表示未来将公布向用户发放 Token …",
+          "link": "https://www.theblockbeats.info/news/31242",
+          "publishedOn": "2022-07-14T05:03:47.000Z",
+          "wordCount": null,
+          "title": "梳理StarkNet Token经济模型与分配",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31241",
+          "author": null,
+          "description": "从 Bitcoin 白皮书发布至今加密行业已经 13 年有余，其中经历了多轮牛熊转换。每一轮牛熊转换之间，都有大量的企业、个人踏上、离开加密资产这趟列车。这 13 年来，加密行业也从 0 增长至万亿美元规模，在其中交易平台扮演着重要的角色。\n \n谈及交易平台，Binance 便是绕不开的话题。其成立于 2017 年，仅仅历时 165 天便成为了当时全球交易量最大的交易平台之一。五年后，Binance 已经不再局限于加密行业，而是主动寻求合规，一步步扩张，并开启加密破圈之旅。\n \n1.18 亿用户，Binance 的变与不变\n\n \nBinance 成立于 2017 年，在成立之后不久便迎来了短暂而又疯狂的牛市。在距成立短短不到 165 天的时间里，Binance 便成为了当时全球最大的交易平台之一。事后复盘，可以将这一阶段 Binance 的成功归结于产品战略上的领先，率先赋能交易平台 Token，与用户共享平台收益。\n \n疯狂的牛市过后是漫长的熊市，整个行业备显颓态，人才流失、公司倒闭在寒潮中成了一种常态。有人选择退出，有人选择熬，Binance 在寒冬中主动寻求变局。在 Binance 的带领下，IE0 成了行业最热门的玩法。IE0 的出现使得大量优质的项目在早期能够获得支持，并被用户关注。史上最火热的 GameFi 之一 Axie Infinity 便是 Binance IE0 项目。\n \n随着 Binance 在行业中的影响力持续扩大，始于混乱行情的 Binance 开始赋能行业。Binance 成立了基金、Labs 等开始对行业生态的扶持。\n \n当行业热点转移到 DeFi，但 DeFi 却因合约安全、仿盘层出不穷等问题而被用户诟病为 Degenerate Finance（堕落金融）之时。Binance 提出了 CeDeFi 概念，并推出了「一亿美元基金」和「流动性激…",
+          "link": "https://www.theblockbeats.info/news/31241",
+          "publishedOn": "2022-07-14T03:48:47.000Z",
+          "wordCount": null,
+          "title": "Binance五周年：加密破圈史",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31240",
+          "author": null,
+          "description": "原文标题：《研究 NFT 智能合约的方法》\n原文来源：BanklessCN\n\n\n如果要制作 NFT 项目，你就必须先创建 NFT 智能合约。\n\n\n为了在以太坊等网络上保持可组合性，此类 NFT 合约是根据特定的 Token 标准构建的。当下最流行的是 ERC721 标准，它有利于创建独特的数字资产。\n\n\n然而，实现 ERC721 标准有不同的方法，而在这些基本部署之外，还有许多其他的实现办法。\n\n\n然而，您不必成为开发人员就可以了解 ERC721 实施背后的关键概念或迄今为止最糟糕，同时也是最具创新性的 NFT 智能合约背后的关键概念。在这里做功课将有助于您更好地理解 NFT 设计，所以让我们来谈谈今天元宇宙的 ERC721 ！\n\n\n\n\nERC721 NFT：方法和示例\n\n\n\n\n\n\n\n\n\n\nERC721 的主要实现方式\n\n\n\n\n\n我最近看到的比较有启发性的一篇文章是 Jack Benhayon 的「现代 ERC721 实施指南」 。在其中，Benhayon 很好地对币了我们在当下 NFT 生态系统中，使用到的一些主要 ERC721 实现方式。\n\n\n这些实现方式包括：\n\n\n- ERC721 OZ—由 dapp 安全项目 OpenZeppelin 开发的 ERC721 OZ，它已成为许多 NFT 项目中首选的的模板，即插即用。\n\n\n- ERC721A—由 Azuki 团队创建的 ERC721A , 在铸造多个 NFT 时，有效地优化了 gas 的效率。\n\n\n- ERC721 solmate—由 Rari Capital devs 和 t11s 构建，solmate 的设计被称为「现代、简约和节能的 ERC721 实施方式。\n\n\n这些实现方式在不同程度上为用户在 NFT 项目的各项基本活动中，例如铸造 NFT、铸造多个 NFT、进行转移、销毁等，都节省了 gas。\n\n\n根据 Be…",
+          "link": "https://www.theblockbeats.info/news/31240",
+          "publishedOn": "2022-07-14T03:48:47.000Z",
+          "wordCount": null,
+          "title": "ERC721 NFT：方法和示例",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31221",
           "author": null,
           "description": "原文标题：《\n\nSolidity 极简入门: 12. 事件\n\n》\n原文作者：0xAA    \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码开源在 github： github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们用转账 ERC20 Token为例来介绍 solidity 中的事件（event）。\n\n\n事件\n\n\nSolidity 中的事件（event）是 EVM 上日志的抽象，它具有两个特点：\n\n\n响应：应用程序（ether.js）可以通过 RPC 接口订阅和监听这些事件，并在前端做响应。\n\n\n经济：事件是 EVM 上比较经济的存储数据的方式，每个大概消耗 2,000-5,000 gas 不等。相比之下，存储一个新的变量至少需要 20,000 gas。\n\n\n规则\n\n\n事件的声明由 event 关键字开头，然后跟事件名称，括号里面写好事件需要记录的变量类型和变量名。以 ERC20 \n\nToken\n\n合约的 Transfer 事件为例：\n\n\n\n\n\n我们可以看到，Transfer 事件共记录了 3 个变量 from，to 和 value，分别对应\n\nToken\n\n的转账地址，接收地址和转账数量。同时 from 和 to 前面带着 indexed 关键字，表示很重要，程序可以轻松的筛选出特定转账地址和接收地址的转账事件。每个事件最多有 3 个带 indexed 的变量。\n\n\n我们可以在函数里释放事件。在下面的例子中，每次用_transfer() 函数进行转账操作的时候，都会释放 Transfer 事件，并记录相应的变量。\n\n\n\n\n\n在 etherscan 上查询事件\n\n\n我们尝试用_transfer() 函数在 Rinkeby 测试网络上转账 100 \n\nToken\n\n，可以在 etherscan 上查询到相应的 tx：https://rinkeby.etherscan.io/tx/0x8cf87215b23055896d93004112bbd8ab754f081b4491cb48c37592ca8f8a36c7\n点击 Logs 按钮，就能看到事件明细：\n\n\n\nEvent 明细\n\n\nTopics 里面有三个元素，[0] 是这个事件的哈希，[1] 和 [2] 是我们定义的两个 indexed 变量的信息，即转账的转出地址和接收地址。Data 里面是剩下的不带 indexed 的变量，也就是转账数量。\n\n\n总结\n\n\n这一讲，我们介绍了如何使用和查询 solidity 中的事件。很多链上分析工具包括 Nansen 和 Dune Analysis 都是基于事件工作的。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
