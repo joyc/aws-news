@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31288",
+          "author": null,
+          "description": "原文作者：Bill Ackman\n\n\n原文编译：wzp，BlockBeats\n\n\n\n\nBill Ackman 是美国著名对冲基金 Pershing Square Capital Management的创始人兼首席执行官。7 月 13 日，美国公布 6 月份 CPI 数据，同比上涨 9.1%，为 1981 年 11 月以来最大增幅。Ackman 在社交媒体发表对于未来利率发展的观点，BlockBeats 对其整理翻译如下：\n\n\n\n\n由于 CPI 数据表现出广泛且加速的上涨，短期联邦基金利率期货上涨，或暗示着利率在 22 年 12 月前最高能达到 3.68%，随后美联储将在 2024 年 1 月前将利率下调至 2.9%。\n\n\n\n\n市场隐含的预期为美联储的激进政策将在年底前使经济步入衰退，然后采取降息来应对。几周前美联储发布的点阵图表明，利率将升至略高的水平，在 2023 年保持平稳，并从 2024 年开始逐渐降低。\n\n\n\n\n\n 点阵图记录每位美联储官员对央行关键短期利率的预测\n\n\n\n\n在 CPI 公布之后，远期利率曲线与美联储预期之间的差距进一步扩大。似乎市场已假设美联储将像过去三次衰退中那样采取行动，即在经济陷入衰退时立即量化宽松。虽然这看起来好像是凭直觉，但其实是 70 和 80 年代滞胀时期不同的政策结果的经验。如今的经济背景伴随着高名义需求、有限供应和高通胀，相较于投资者最关心的三次衰退历史，类比 70 年代与 80 年代的经济状况更合适。\n\n\n\n\n当时因阿瑟·F·伯恩斯（1970-1978 年任美联储主席）决定降低利率而导致经济受到损害，因为在高通胀时期实际 GDP 放缓，这催生了多年的大规模通货膨胀。直到时任美联储主席保罗·沃尔克（1979-1987）将利率提高到 20% 才平息。\n\n\n\n\n鲍威尔和美联储理事们非常了解伯恩斯的政策错误，并且这也能解释他们的点阵图曲线。沃尔克多年来维持远高于 CPI 的利率以缓和通货膨胀。因此对 3.7% 的利率是否足以抑制 9.1% 的 CPI 表示怀疑。时间将证明峰值利率是否需要在较长时间内达到 4%+。\n\n\n\n\n我们为纽约联储 IACFM 会议准备了演示文稿。在会议中，我们总结了伯恩斯和沃尔克的经验，以及即使在 2023 年或更早进入衰退，美联储仍会将利率长时间保持在更高水平原因，以及为什么我们认为需求将保持高位，供应将继续受到限制，高通胀将持续存在。\n\n\n\n\n美联储有两个硬工具，联邦基金利率和预期管理。年终的利率预测是实现他们目标的开始。从年底开始，到未来的 18 至 24 个月，利率的市场预期需要上调。\n\n\n\n\n市场仍然对点阵图和美联储理事最近关于允许通胀预期失控的风险声明不以为然。我预计随着美联储提供更多的明确信息和强调需要长时间来提高利率，并且当市场参与者仔细审视 70 年代和 80 年代初的先例及其与当前经济状况的可比性时，市场将上调预期利率。\n\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31288",
+          "publishedOn": "2022-07-18T10:40:33.000Z",
+          "wordCount": null,
+          "title": "顶级投资人比尔·阿克曼：2年之内，仍会加息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31286",
+          "author": null,
+          "description": "原文标题：《First Impressions: Kujira Blue and FIN》\n原文作者：Opa\n原文编译：TechFlow intern\n\n\n近期，Kujira 于 Cosmos 生态推出了 Layer1，并带着他们第一个 dApp：Blue 冲出了大门。随后，Kujira 团队推出了 FIN，一个多链的订单簿交易平台。\n\n\n在这里，我将向你介绍我对这些 dApp 的第一印象，并讨论为什么它们对生态系统如此重要。\n\n\n桥接多链资产\n\n\nKujira 团队建立了一个高效的 dApp，以从整个 Cosmos 的 17 个区块链上搭载资产。当你从 Blue 的主菜单上点击 IBC/Bridge 时，你可以很简单地将你的本地 IBC 资产从其他链上引入。同时与 Keplr 钱包完全集成，当你选择一个你以前没有互动的链时，会自动弹出一个连接请求批准窗口。\n\n\n例如，当你选择将 SCRT 从 Secret Network 转移到 Kujira 时，会显示您在该链上的流动Token数量，你选择金额，启动 IBC 转移，批准在 Keplr 中用 SCRT \n\nToken\n\n支付小额交易费，并将它们带过来。然后，你可以在你的 Keplr Kujira 钱包或你点击蓝色菜单上的钱包菜单选项时看到这些\n\nToken。\n\n\nKujira 正于 Cosmos 中开发，并从整个生态系统中获取原生 IBC 资产，以用于其 dApps；不仅如此，该团队已经将目光投向 Cosmos 之外的链间资产。另一个可进入该网络的选项是使用 Axelar 桥从其他五个生态系统（Ethereum、Avalanche、Polygon、Fantom、Moonbeam）桥接数字资产，包括-axl、合成资产和原生\n\nToken。\n\n\n这也非常好用，我已经用以太坊的 USDC 测试了该跨链桥。但请注意，Axelar …",
+          "link": "https://www.theblockbeats.info/news/31286",
+          "publishedOn": "2022-07-18T09:40:33.000Z",
+          "wordCount": null,
+          "title": "Cosmos生态新公链Kujira：重新定义多链去中心化交易平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31287",
+          "author": null,
+          "description": "原文作者：@thedefiedge\n\n\n原文编译：FYJ，BlockBeats\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n内容原载自推特账号 @thedefiedge，探讨交易过程中的认知模型，由 BlockBeats 编译成文。\n\n\n沃伦·巴菲特和查理·芒格利用心智模型成为了历史上最伟大的投资者。\n \n有数百种心智模型，我发现了其中 14 个可以帮助你成为更好的加密投资者（包括常见的认知陷阱）：\n \n\n\n什么是心智模型？\n \n心智模型是帮助我们更好地理解世界的概念。\n \n你的思维受到你的经验和偏见的限制——心智模型是从偏见中解放思维的一种方式。\n \n了解它们将帮助你更清晰地思考。\n \n\n\n1、蟑螂理论\n \n当有坏消息时，可能会有更多坏消息。\n \n看到一只蟑螂，意味着有更多的蟑螂在暗处。\n \n如果一家公司出现坏消息，请记住，它们大概率在为隐藏更多坏事争取时间，例如 Celsius。\n \n当 Terra Luna 和 UST 崩溃时，我们知道这很糟糕，但许多人低估了利空的波及范围。\n \n其他蟑螂，如 Celsius 和三箭资本出现了。\n \n所以，每当有坏消息时，都要做好更坏的打算。\n \n\n\n2、三人成虎\n \n这是一句中国谚语，假话说一千遍，就可能产生和真话一样的影响力。\n \n想象一下，如果有关于老虎的谣言：\n \n第一个人：他是骗子\n第二个人：这是真的吗？\n第三个人：有老虎！\n \n现在，想象一下成千上万的人在社交媒体上分享。\n \n再加上机器人账号和经济激励措施，传播错误信息比以往任何时候都容易。\n \n谨防没有任何事实或证据的谣言。\n \n\n\n3、行为必然性\n \n人类行为及其偏见将永远存在。\n \n「历史不会重演，但总会惊人的相似。」——马克·吐温\n \n有趣的是，几千年前写的一些书在今天感觉仍如此重要。\n \n我正在将这种想法应用到下一个周期。\n \n人类是贪婪的。\n \n• 会有更…",
+          "link": "https://www.theblockbeats.info/news/31287",
+          "publishedOn": "2022-07-18T09:40:33.000Z",
+          "wordCount": null,
+          "title": "加密市场中的14条交易行为学原理",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31283",
           "author": null,
           "description": "原文标题：《Solidity 极简入门: 13. 继承 父与子》\n原文作者：0xAA    \n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n\n\n这一讲，我们介绍 solidity 中的继承（inheritance），包括简单继承，多重继承，以及修饰器（modifier）和构造函数（constructor）的继承。\n\n\n\n\n继承\n\n\n\n\n继承是面向对象编程很重要的组成部分，可以显著减少重复代码。如果把合约看作是对象的话，solidity 也是面向对象的编程，也支持继承。\n\n\n\n\n规则\n\n\n\n\nvirtual: 父合约中的函数，如果希望子合约重写，需要加上 virtual 关键字。\n\n\n\n\noverride：子合约重写了父合约中的函数，需要加上 override 关键。\n\n\n\n\n简单继承\n\n\n\n\n我们先写一个简单的爷爷合约 Yeye，里面包含 1 个 Log 事件和 3 个 function: hip(), pop(), yeye()，输出都是」Yeye」。\n\n\n\n\n\n\n\n\n\n我们再定义一个爸爸合约 Baba，让他继承 Yeye 合约，语法就是 contract Baba is Yeye，非常直观。在 Baba 合约里，我们重写一下 hip() 和 pop() 这两个函数，加上 override 关键字，并将他们的输出改为」Baba」；并且加一个新的函数 baba，输出也是」Baba」。  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n我们部署合约，可以看到 Baba 合约里有 4 个函数，其中 hip() 和 pop() 的输出被成功改写成」Baba」，而继承来的 yeye() 的输出仍然是」Yeye」。\n\n\n\n\n多重继承\n\n\n\n\nsolidity 的合约可以继承多个合约。规则：\n\n\n\n\n1、继承时要按辈分最高到最低的顺序排。比如我们写一个 Erzi 合约，继承 Yeye 合约和 Baba 合约，那么就要写成 contract Erzi is Yeye, Baba，而不能写成 contract Erzi is Baba, Yeye，不然就会报错。\n\n\n\n\n2、如果某一个函数在多个继承的合约里都存在，比如例子中的 hip() 和 pop()，在子合约里必须重写，不然会报错。\n\n\n\n\n3、重写在多个父合约中重名函数时，override 关键字后面要加上父合约名字，例如 override(Yeye, Baba)。\n\n\n\n\n例子：\n\n\n\n\n\n\n\n\n\n我们可以看到，Erzi 合约里面重写了 hip() 和 pop() 两个函数，将输出改为」Erzi」，并且还分别从 Yeye 和 Baba 合约继承了 yeye() 和 baba() 两个函数。\n\n\n\n\n修饰器的继承\n\n\n\n\nSolidity 中的修饰器（Modifier）同样可以继承，用法与函数继承类似，在相应的地方加 virtual 和 override 关键字即可。\n\n\n\n\n构造函数的继承\n\n\n\n\n子合约有两种方法继承父合约的构造函数。举个简单的例子，父合约 A 里面有一个状态变量 a，并由构造函数的参数来确定：\n\n\n\n\n\n\n\n\n\n1、在继承时声明父构造函数的参数，例如：contract B is A(1) \n2、在子合约的构造函数中声明构造函数的参数，例如： \n\n\n\n\n\n\n\n\n\n调用父合约的函数\n\n\n\n\n子合约有两种方式调用父合约的函数，直接调用和利用 super 关键字。\n\n\n\n\n- 直接调用：子合约可以直接用父合约名. 函数名 () 的方式来调用父合约函数，例如 Yeye.pop()。 \n\n\n\n\n\n\n\n\n\n\n- super 关键字：子合约可以利用 super. 函数名 () 来调用最近的父合约函数。solidity 继承关系按声明时从右到左的顺序是：contract Erzi is Yeye, Baba，那么 Baba 是最近的父合约，super.pop() 将调用 Baba.pop() 而不是 Yeye.pop()：  \n\n\n\n\n\n\n\n\n\n\n\n总结\n\n\n\n\n\n\n\n\n\n这一讲，我们介绍了 solidity 继承的基本用法，包括简单继承，多重继承，修饰器和构造函数的继承，以及调用父合约中的函数。\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
