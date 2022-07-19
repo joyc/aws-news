@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31299",
+          "author": null,
+          "description": "A16z游戏投资合伙人谈Web3游戏和元宇宙的未来",
+          "link": "https://www.theblockbeats.info/news/31299",
+          "publishedOn": "2022-07-19T14:40:57.000Z",
+          "wordCount": null,
+          "title": "A16z游戏投资合伙人谈Web3游戏和元宇宙的未来",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31298",
           "author": null,
           "description": "原文标题：《\n\nIOSG Weekly Brief ｜合并在即：详解以太坊最新技术路线\n\n》\n原文作者：Jiawei，\n\nIOSG Ventures；编辑：Olivia，IOSG Ventures\n\n\n 本文仅做行业学习交流之用，不构成任何投资参考 \n\n\ntl;dr：  \n\n\n\n\n \n \n如果「The Merge」进展顺利，分片将成为以太坊在 2023 年及之后的开发主轴，而距离 2015 年分片被提出，其含义已经发生了很大变化。\n\n\n在 Vitalik 提出「以 Rollup 为中心的以太坊路线图」和以太坊的「Endgame」之后，以太坊的大方向发生了事实上的转变——「退居幕后」，作为 Rollup 的安全性保证和数据可用性层。\n\n\n \nDanksharding 和 Proto-Danksharding 是一系列的技术组合，表现形式在于「发现问题」、引入或提出新技术来「解决问题」的一套组合拳。\n\n\n时间线拉长到未来几年，Rollup 的整体价值将变大：以太坊上呈现多 Rollup 的发展格局、跨 Rollup 基础设施高度完善、Rollup 生态高度繁荣——甚至超越以太坊本身。\n\n\n 引言 \n\n\n\n\n图片来源：https://consensys.net/blog/blockchain-explained/the-roadmap-to-serenity-2/\n\n\n转眼 2022 年已走过一半。我们回看 Vitalik 在 2018 年 Devcon 演讲中提出的 Serenity Roadmap，容易发现以太坊的发展路径几经更迭— 对比当前的路线图，分片被赋予新的含义，eWASM 亦少有人提及。\n\n\n为了避免潜在的欺诈和用户误导问题，今年 1 月底，以太坊基金会宣布弃用「ETH2」的说法，而是把当前的以太坊主网改称为处理交易和执行的「执行层」，把原 ETH2 的说法改称为协…",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-07-17T06:42:47.000Z",
           "wordCount": null,
           "title": "BlockBeats荐读｜编辑部的作者们都在看什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31280",
-          "author": null,
-          "description": "原文来源：Bing Ventures\n\n\n开源社区已经被证明是社区治理和协调范式的基础。Governor DAO 使用加密工具来改进之前的 DAO 系统，更广泛的通过去中心化治理来提高 Token 持有者的参与度。Governor DAO 通过不断迭代治理规则和框架来解决参与者冷漠的问题。\n\n\n\n\n\nSource: DeepDAO\n治理有效性是追踪社区价值的核心价值。Governor DAO 通过最大限度地激励所有积极参与者、提供「治理即服务」和 GaaS(Governance-as-a-Service) 的无缝集成，确保了治理的有效性和内在社区价值。内在社区价值（ICV）是成员通过社区内的信息共享和协作，在社区中获得的价值。这种价值通常代表着对信息的第一占有权和独家访问权限。\n\n\n而至关重要的是，信息应由社区集体提供，而不是仅由少数人提供和占有。\n\n\n权力下放扮演什么角色？\n\n\n实际上，去中心化的权力下放的成功很大程度归功于区块链技术的成熟和 DeFi 机制的创新。因为组织内的成员虽然可以一定程度上掌握自己的信息权限，但是自己生产的内容往往只是一堆数据，没有统一的协作载体和完善的交易市场。更可怕的是，一些邪恶的实体（包括一些比某些大型公司更可怕的政府）正在试图夺取人们掌握信息的权力。\n\n\n而权力下放正在确保 DAO 的治理\n\nToken\n\n的价值持续增加。我相信，我们在去中心化治理这方面仍处于早期阶段。权力下放和元治理确保我们所建立的 DAO 生态的桥梁可以同步运行，建立一个高度自由且健康的加密货币生态。\n\n\n终端用户的 GaaS\n\n\nGovernor DAO 是一个区块链项目，其核心价值围绕治理即服务（GaaS）和在企业或项目中部署 DAO。Governor DAO 通过 GaaS 引导第三方项目进行初始的流动性扩张并带来收益。GaaS 可以进一步演变成一种更加全面的 …",
-          "link": "https://www.theblockbeats.info/news/31280",
-          "publishedOn": "2022-07-17T03:08:10.000Z",
-          "wordCount": null,
-          "title": "从Governor DAO的权力下放视角看Web3.0治理机制的创新",
           "imageUrl": null
         }
       ]
