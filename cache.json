@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31298",
+          "author": null,
+          "description": "原文标题：《\n\nIOSG Weekly Brief ｜合并在即：详解以太坊最新技术路线\n\n》\n原文作者：Jiawei，\n\nIOSG Ventures；编辑：Olivia，IOSG Ventures\n\n\n 本文仅做行业学习交流之用，不构成任何投资参考 \n\n\ntl;dr：  \n\n\n\n\n \n \n如果「The Merge」进展顺利，分片将成为以太坊在 2023 年及之后的开发主轴，而距离 2015 年分片被提出，其含义已经发生了很大变化。\n\n\n在 Vitalik 提出「以 Rollup 为中心的以太坊路线图」和以太坊的「Endgame」之后，以太坊的大方向发生了事实上的转变——「退居幕后」，作为 Rollup 的安全性保证和数据可用性层。\n\n\n \nDanksharding 和 Proto-Danksharding 是一系列的技术组合，表现形式在于「发现问题」、引入或提出新技术来「解决问题」的一套组合拳。\n\n\n时间线拉长到未来几年，Rollup 的整体价值将变大：以太坊上呈现多 Rollup 的发展格局、跨 Rollup 基础设施高度完善、Rollup 生态高度繁荣——甚至超越以太坊本身。\n\n\n 引言 \n\n\n\n\n图片来源：https://consensys.net/blog/blockchain-explained/the-roadmap-to-serenity-2/\n\n\n转眼 2022 年已走过一半。我们回看 Vitalik 在 2018 年 Devcon 演讲中提出的 Serenity Roadmap，容易发现以太坊的发展路径几经更迭— 对比当前的路线图，分片被赋予新的含义，eWASM 亦少有人提及。\n\n\n为了避免潜在的欺诈和用户误导问题，今年 1 月底，以太坊基金会宣布弃用「ETH2」的说法，而是把当前的以太坊主网改称为处理交易和执行的「执行层」，把原 ETH2 的说法改称为协…",
+          "link": "https://www.theblockbeats.info/news/31298",
+          "publishedOn": "2022-07-19T09:51:01.000Z",
+          "wordCount": null,
+          "title": "合并在即：详解以太坊最新技术路线",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31292",
           "author": null,
           "description": "原文标题：《\n\n最「壕」加密风投机构 GEM Digital 背后：一场隐蔽而离奇的资本游戏\n\n》\n原文作者：谷昱&饼干，链捕手\n\n\n \n在加密市场陷于疲软、风投机构纷纷放缓投资频次之际，一家新兴风投机构以高频的投资速度、夸张的投资金额吸引行业的颇多关注，它就是 GEM Digital。\n\n\n近半年以来，GEM Digital（及其相关基金 GEM Global Yield）投资了等至少 16 个加密项目，其中对 Venice Swap、Naetion、KaJ Labs、Unizen、Unizen、H2O Securities 等项目的单笔投资金额超过 1 亿美元，累计承诺投资金额超过 16 亿美元，这个金额很可能超过其它任何加密风投机构。\n\n\n\nGEM 系机构今年以来投资的加密项目名单\n\n\n就在今天，GEM Digital 再度宣布与区块链旅游生态项目 Travel Coin 签订价值达 3500 万美元的投资承诺，消息公布后该项目 Token 价格最高上涨约 50%，但同时链捕手记者还发现，该 Token 自发行以来已经呈线性下跌超 95%，目前的稀释总市值在今日上涨后仍然不到 500 万美元。为什么 GEM Digital 还要对如此市值项目投资 3500 万美元？\n\n\n此现象并非孤立存在。此前 GEM Digital 投资的多个项目均是如此。比如 5 月 18 日，KaJ Labs 宣布获得 GEM Digital Limited 的 4 亿美元投资承诺，但该项目 Token LITHO 稀释总市值仅为 470 万美元。此外，Peculium 与 Energi 等项目也存在类似现象。\n\n\n同时，GEM Digital 投资的项目大多行业知名度很低，业务模式等方面也没有明显亮点。而且，GEM Digital 几乎所有投资都是单独投资，更没有与知名风投机构合作投资过，行…",
