@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-20T12:14:59.333Z</updated>
+    <updated>2022-07-20T18:10:12.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重新定义信任：Web3中是否能引入真正的随机游戏]]></title>
+        <id>https://www.theblockbeats.info/news/31307</id>
+        <link href="https://www.theblockbeats.info/news/31307"/>
+        <updated>2022-07-20T14:57:45.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Redefining Trust: Truly Random Gaming》
+  原文作者：Emily Cockley
+原文编译：Xinyang，DAOrayaki 
+
+
+
+ 随机性的魔力 
+
+
+
+自古代文明以来，对随机性的着迷一直是我们社会和娱乐机制的一部分。在早期的希腊和罗马文明中，当地的先知提供了看似随机的解决方案和理论，以描述从自然现象中感知的意义。一个很好的例子是将流星归因于特定事件。据说这种天体的经过表明了最近事件的特定结局，比如凯撒大帝被谋杀后成为神灵 [1]。我们总是被无法解释和不可预测的事物所吸引，无论我们是把它当作运气来拥抱，还是抓住随机的关联性来努力避免我们所认为的命运的破坏。现象是随机的，我们却一直赋予它人类的解释，以回答我们面临的许多谜团。
+
+
+  Royal Game of Ur  
+
+
+后来的社会引入了正式的几率游戏（game of chance），从特定物体上读取物理信息，这个特定物体被设计为在统计反应范围内行为。其中一些机制我们今天仍然在使用。即使是我们最现代的社会，也仍然在用经典纸牌游戏来娱乐自己；角色扮演和棋盘游戏仍然在用基于掷骰子的行动来玩。在我们输的一塌糊涂的游戏之夜，可能会觉得统计机制对我们不利，但最终，随机性来源的物理学压倒了我们内心的怀疑。我们无法看到我们投掷的骰子上的所有自然效应，但我们知道这个角色是公平的，因为它就发生在我们面前。至少，它是透明的。
+
+
+
+ 从经典到现代 
+
+
+
+从 50% 随机的抛硬币开始，我们已经走了很远。尽管这样的几率仍有有效的应用，但我们现在正在建立算法，用单一的种子推出数百甚至数百万的随机数，以扩大享受随机性的方法。基本的算法，或者说伪随机数生成（PRNG），已经足以应付比较简单的游戏，比如纸牌。这些游戏被翻译成在线版本，其中的随机性并不强烈地影响玩家的享受水平。我们总是知道每场游戏中…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大V说「加密实际使用量4年来并无增长」，引发行业抨击]]></title>
         <id>https://www.theblockbeats.info/news/31308</id>
@@ -660,321 +694,6 @@ Token。
 人类是贪婪的。
  
 • 会有更…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第十三讲：继承 父与子]]></title>
-        <id>https://www.theblockbeats.info/news/31283</id>
-        <link href="https://www.theblockbeats.info/news/31283"/>
-        <updated>2022-07-18T04:29:30.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 13. 继承 父与子》
-原文作者：0xAA    
-
-
-
-
-我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
-
-
-
-
-所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity
-
-
-
-
-这一讲，我们介绍 solidity 中的继承（inheritance），包括简单继承，多重继承，以及修饰器（modifier）和构造函数（constructor）的继承。
-
-
-
-
-继承
-
-
-
-
-继承是面向对象编程很重要的组成部分，可以显著减少重复代码。如果把合约看作是对象的话，solidity 也是面向对象的编程，也支持继承。
-
-
-
-
-规则
-
-
-
-
-virtual: 父合约中的函数，如果希望子合约重写，需要加上 virtual 关键字。
-
-
-
-
-override：子合约重写了父合约中的函数，需要加上 override 关键。
-
-
-
-
-简单继承
-
-
-
-
-我们先写一个简单的爷爷合约 Yeye，里面包含 1 个 Log 事件和 3 个 function: hip(), pop(), yeye()，输出都是」Yeye」。
-
-
-
-
-
-
-
-
-
-我们再定义一个爸爸合约 Baba，让他继承 Yeye 合约，语法就是 contract Baba is Yeye，非常直观。在 Baba 合约里，我们重写一下 hip() 和 pop() 这两个函数，加上 override 关键字，并将他们的输出改为」Baba」；并且加一个新的函数 baba，输出也是」Baba」。  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-我们部署合约，可以看到 Baba 合约里有 4 个函数，其中 hip() 和 pop() 的输出被成功改写成」Baba」，而继承来的 yeye() 的输出仍然是」Yeye」。
-
-
-
-
-多重继承
-
-
-
-
-solidity 的合约可以继承多个合约。规则：
-
-
-
-
-1、继承时要按辈分最高到最低的顺序排。比如我们写一个 Erzi 合约，继承 Yeye 合约和 Baba 合约，那么就要写成 contract Erzi is Yeye, Baba，而不能写成 contract Erzi is Baba, Yeye，不然就会报错。
-
-
-
-
-2、如果某一个函数在多个继承的合约里都存在，比如例子中的 hip() 和 pop()，在子合约里必须重写，不然会报错。
-
-
-
-
-3、重写在多个父合约中重名函数时，override 关键字后面要加上父合约名字，例如 override(Yeye, Baba)。
-
-
-
-
-例子：
-
-
-
-
-
-
-
-
-
-我们可以看到，Erzi 合约里面重写了 hip() 和 pop() 两个函数，将输出改为」Erzi」，并且还分别从 Yeye 和 Baba 合约继承了 yeye() 和 baba() 两个函数。
-
-
-
-
-修饰器的继承
-
-
-
-
-Solidity 中的修饰器（Modifier）同样可以继承，用法与函数继承类似，在相应的地方加 virtual 和 override 关键字即可。
-
-
-
-
-构造函数的继承
-
-
-
-
-子合约有两种方法继承父合约的构造函数。举个简单的例子，父合约 A 里面有一个状态变量 a，并由构造函数的参数来确定：
-
-
-
-
-
-
-
-
-
-1、在继承时声明父构造函数的参数，例如：contract B is A(1) 
-2、在子合约的构造函数中声明构造函数的参数，例如： 
-
-
-
-
-
-
-
-
-
-调用父合约的函数
-
-
-
-
-子合约有两种方式调用父合约的函数，直接调用和利用 super 关键字。
-
-
-
-
-- 直接调用：子合约可以直接用父合约名. 函数名 () 的方式来调用父合约函数，例如 Yeye.pop()。 
-
-
-
-
-
-
-
-
-
-
-- super 关键字：子合约可以利用 super. 函数名 () 来调用最近的父合约函数。solidity 继承关系按声明时从右到左的顺序是：contract Erzi is Yeye, Baba，那么 Baba 是最近的父合约，super.pop() 将调用 Baba.pop() 而不是 Yeye.pop()：  
-
-
-
-
-
-
-
-
-
-
-
-总结
-
-
-
-
-
-
-
-
-
-这一讲，我们介绍了 solidity 继承的基本用法，包括简单继承，多重继承，修饰器和构造函数的继承，以及调用父合约中的函数。
-
-
-
-
-原文链接
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF谈现代金融缺失：不认为区块链只是炒作，认为加密货币会改变支付和金融结构]]></title>
-        <id>https://www.theblockbeats.info/news/31284</id>
-        <link href="https://www.theblockbeats.info/news/31284"/>
-        <updated>2022-07-18T04:29:30.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《SBF 推特谈现代金融缺失｜不认区块链只是炒作，认为加密货币会改变支付和金融结构》
-
-
-即使本轮牛市已经有越来越多的机构采用加密货币，但随着加密资产暴跌，质疑加密货币和区块链只是炒作的声浪越来越多。FTX CEO SBF 也在推特分享了自己对加密货币潜在应用场景的看法，包括支付、市场结构、社群媒体。
-
-
-FTX CEO Sam Bankman-Fried（下称 SBF）日前在推特分享加密货币的潜在应用场景，包括支付、市场结构（指金融交易市场的结构）、社群媒体。
-
-
-「这串推文与投资无关，所以我并不会提到投资相关用途，像是「购买 Token 说不定会上涨」这类建议；相反地，我会聚焦在三个方面：a) 支付 b) 市场结构 c) 社群媒体。」
-
-
-境内和境外支付
-
-
-SBF
-
-指出，拜网络发达所赐，支付方式已从过去的现金交易变成信用卡或是电子支付，但他认为现在日常支付的手续费还是太贵。这里他给出的数据是 1%，不过数据指出，目前台湾的行动支付业者的「现金流手续费」约为 2.2-3%。当然，业者也有相应的优惠，例如点数回馈等。
-
-
-如果境内支付的手续费只是小问题的话，那目前境外支付的困境就像房间里的大象一样显而易见。
-
-
-SBF
-
-表示，境外汇款的困境很明显，除了手续费高昂以外，也旷日费时：
-
-
-「一间美国企业想汇款 1 亿美元给一间欧洲企业，假设选择的方式是电汇，一天后，你的银行执行汇款，而在接下来的一周内，这笔资金约会有 3 家左右的银行经手，有时候资金甚至会卡在某一间银行，需要你用某种方式才能解冻。
-
-
-哦，另外你还要支付 1% 的外汇费用，外加 50 美元左右的电汇费用。」
-
-
-电汇通常还需要支付「外汇费用」（FX
-
-fees）和「电汇费用」（wire transfer fees）。
-
-
-境外汇款会牵涉到货币的转换，外汇费用就是客户再透过外国银行购买美元以外的货…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V神与以太坊基金会对扩容的最新思考]]></title>
-        <id>https://www.theblockbeats.info/news/31282</id>
-        <link href="https://www.theblockbeats.info/news/31282"/>
-        <updated>2022-07-18T03:29:30.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：以太坊 Reddit
-原文作者：以太坊基金会研究团队
-
-
-原文编译：EthereumCN
-
-
-2022 年 7 月 7 日，以太坊基金会研究团队在 Reddit 上举行了第八次 AMA。ECN 对这次 AMA 的大部分问题进行了整理和编译。需要注意的是，基金会研发团队成员就某些话题存在个人的看法和推测，为避免曲解，请以原贴为准。
-
-
-由于篇幅较长，文章分主题整理，本文为扩容专题。
-
-
-JonCharbonneau 提问：
-
-
-你能解释一下 enshrined rollup 怎么运作以及它们在以太坊的潜在发展路径吗？(optimistic 和 zkEVM？)
-
-
-(译者注：L2 扩容研究者 Polynya 在这条推文中解释「enshrined rollups」vs."独立 (discrete) rollup" 之间的区别就好比「公共部门」和「私营部门」。)
-
-
-还有就是你认为这可以带来的最大的好处和坏处是什么，因为有很多人在这一点上有不同的看法。
-
-
-以太坊基金会 Justin Drake 回答：
-
-
-「Enshrined rollups」是一个非常有趣的话题:)「Enshrined rollups」指在 L1 上享有某种共识集成 (consensus integration) 的 rollup。而智能合约 rollup (见 L2Beat 和 zkrollups.xyz 中列出的例子) 与其不同——完全在 L2 上运行，在共识之外。
-
-
-共识集成可以给 enshrined rollup 赋予超强的能力，但也要付出重大的代价——请看下文对好处和坏处的详细讨论。广泛地看，enshrined rollup 和智能合约 rollup 是互补的。我希望两者都能在「以 rollup 为中心的以太坊路线图」中发挥关键作用。
-
-
-它们在以太坊的潜在发展路径 (optimistic…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
