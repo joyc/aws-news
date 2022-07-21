@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31314",
+          "author": null,
+          "description": "原文标题：《Bankless：了解 5 种流行的 NFT 投放方式及其优缺点》\n原文作者：William M. Peaster，Bankless\n原文编译：DeFi 之道\n\n\n\n\n今年夏天早些时候，我写了一篇关于 NFT 智能合约方法的入门文章。\n\n\n\n\n在启动一个 NFT 项目时，确定一个基础的智能合约方法已经成功了一半。另一半则来自于决定使用哪种 NFT Drop（投放，一般指一级市场抢购）方式。\n\n\n\n\n当然，可以在各种不同的组合中配置 NFT 合约和 Drop 方式，也完全有可能以各种方式混合不同的 Drop 方式。\n\n\n\n\n而在目前的 NFT 生态系统，有一些是你需要关注的基础 Drop 方式。\n\n\n\n\n流行的 NFT 投放方式\n\n\n\n\n\n\n\n\n\n01 先到先得（FCFS）铸造方式\n\n\n\n\n一种 NFT 投放方式，铸造以「先到先得」的方式对公众或特定的 NFT 社区成员开放。\n\n\n\n\n变体：\n \n\n\n无许可（Permissionless）——任何人都可以在 FCFS 的基础上进行铸造，示例：Bored Ape Yacht Club。\n\n\nToken门控（Token-gated）——任何持有指定\n\nToken\n\n的人都可以在 FCFS 基础上进行铸币，示例：Blitnauts ，只能由 Blitmap 持有者铸造。\n\n\n基于抽奖——需要使用抽奖系统为 FCFS 铸造分配有限数量的许可名单，示例：Boki 最终销售）\n\n\n价格分级（Price-tiered）——在一个系列中，不同的供应层有不同的铸造价格，例如 NFT ID 0-999 为 0.1 ETH，1000-1999 为 0.2 ETH 等。示例：Hashmasks。\n\n\n\nHashmasks 铸造层，图片来自 thehashmasks.com\n\n\n\n\n优点： \n\n\n\n\n对构建者而言，易于实施\n铸造者使用简单方…",
+          "link": "https://www.theblockbeats.info/news/31314",
+          "publishedOn": "2022-07-21T14:02:47.000Z",
+          "wordCount": null,
+          "title": "Bankless：了解5种流行的NFT投放方式及其优缺点",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31319",
           "author": null,
           "description": "原文标题：《FTX: A Defining Dilemma》\n原文作者：Hide Not Slide\n原文编译：Kxp，BlockBeats\n\n\n\n\n但凡关注了今年市场行情的人都应该清楚，此轮 Crypto 市场走势不容乐观。\n\n\n\n\n在利率上升、通胀压力和全球资产价格回缩的持续作用下，一场来势汹汹的衰退袭卷了整个 Crypto 市场，任何数字货币或 NFT 都没能幸免于难。Solana 和 Avalanche 等山寨币的年度跌幅甚至达到了惊人的 80%，Ethereum 也下跌 70%；与此同时，Crypto 市场的老牌选手 Bitcoin 也在今年年初下滑了近 60%。\n\n\n\n\n随着 Crypto 浪潮退去，Crypto 市场上的真实局面才逐渐明晰起来。正所谓，「沧海横流，方显英雄本色」，我们此刻终于能知道，在那么多的交易公司、交易平台和知名领导者当中，谁才是真正的高手，而谁又只是空有其表。即便是在变化多端的 Crypto 市场，一时之间那么多知名品牌爆仓也绝对是罕事。在过去的几个星期，Celsius、CoinFLEX、Three Arrows Capital 和 Voyager Digital 等公司都在进行债务重组，并限制客户提款，或者甚至直接进入破产程序。最近这段时间，每天都有公司因债务问题或大规模裁员而登上头条新闻。至少从现在看来，Crypto 的困境还远未结束。\n\n\n\n\n然而，尽管此次波及全行业的危机将所有大型 Crypto 公司都拖到了湮没的边缘，有一家公司却依然坚守在战场之上——那就是 FTX，一家位于巴哈马的超级公司，其市场价值已达到数十亿美元。在信奉利他主义的 Sam Bankman-Fried 的带领下，FTX 在此次危机中的处境比其他 Crypto 公司都要好。FTX 通过精准营销、主动游说以及产品的持续推出，占据了相当一部分比例的 Crypto …",
@@ -133,26 +143,6 @@
           "publishedOn": "2022-07-19T09:51:01.000Z",
           "wordCount": null,
           "title": "合并在即：详解以太坊最新技术路线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31292",
-          "author": null,
-          "description": "原文标题：《\n\n最「壕」加密风投机构 GEM Digital 背后：一场隐蔽而离奇的资本游戏\n\n》\n原文作者：谷昱&饼干，链捕手\n\n\n \n在加密市场陷于疲软、风投机构纷纷放缓投资频次之际，一家新兴风投机构以高频的投资速度、夸张的投资金额吸引行业的颇多关注，它就是 GEM Digital。\n\n\n近半年以来，GEM Digital（及其相关基金 GEM Global Yield）投资了等至少 16 个加密项目，其中对 Venice Swap、Naetion、KaJ Labs、Unizen、Unizen、H2O Securities 等项目的单笔投资金额超过 1 亿美元，累计承诺投资金额超过 16 亿美元，这个金额很可能超过其它任何加密风投机构。\n\n\n\nGEM 系机构今年以来投资的加密项目名单\n\n\n就在今天，GEM Digital 再度宣布与区块链旅游生态项目 Travel Coin 签订价值达 3500 万美元的投资承诺，消息公布后该项目 Token 价格最高上涨约 50%，但同时链捕手记者还发现，该 Token 自发行以来已经呈线性下跌超 95%，目前的稀释总市值在今日上涨后仍然不到 500 万美元。为什么 GEM Digital 还要对如此市值项目投资 3500 万美元？\n\n\n此现象并非孤立存在。此前 GEM Digital 投资的多个项目均是如此。比如 5 月 18 日，KaJ Labs 宣布获得 GEM Digital Limited 的 4 亿美元投资承诺，但该项目 Token LITHO 稀释总市值仅为 470 万美元。此外，Peculium 与 Energi 等项目也存在类似现象。\n\n\n同时，GEM Digital 投资的项目大多行业知名度很低，业务模式等方面也没有明显亮点。而且，GEM Digital 几乎所有投资都是单独投资，更没有与知名风投机构合作投资过，行…",
-          "link": "https://www.theblockbeats.info/news/31292",
-          "publishedOn": "2022-07-19T03:46:58.000Z",
-          "wordCount": null,
-          "title": "累积16亿美元投资承诺，资本游戏新骗局？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31291",
-          "author": null,
-          "description": "原文作者：0x137，BlockBeats\n\n\n\n\n过去几年，我们见证了 DeFi 领域的发展，从 17 年底 DAI 的推出，到 21 年 DeFi 项目的井喷增长。而随着 Cosmos 以及「应用链」概念的兴起，越来越多针对特定领域进行优化的底层公链开始涌现。\n\n\n\n\nCanto 是一个基于 Cosmos SDK 打造的 L1 DeFi 公链。该项目由开发者组织 Plex 推动打造，旨在通过提供一系列免费公共基础设施，驱动 DeFi 领域的创新，并为传统金融带来更多可访问性、透明度和自由度。\n\n\n\n\n主要组件：DEX + CLM + NOTE\n\n\n\n\n在 DeFi 数年的发展过程中，其生态系统中逐渐形成了三大核心组件：DEX、借贷市场和以及去中心化的记账单位。现在，不管属于哪类 DeFi 组件，很多项目都做出了相同的决定：发行治理 Token，以赚取用户的费用。而 Canto 则提出了一个激进的概念，即使这些核心 DeFi 组件作为免费公共基础设施存在与 DeFi 生态中，以促进其他 DeFi「应用乐高」的发展。\n\n\n\n\nCanto 的原生 DEX 基于 DeFi 协议 Solidly 的交易逻辑打造，对「稳定+波动」交易对不收取 LP 费用。该 DEX 本身无法升级并且将保持不受治理，将在 Canto 上永久运行，不会推出 Token 或收取额外费用，以而防止掠夺性寻租行为的出现。\n\n\n\n\n\n\n\n\n\nCanto 的借贷市场 CLM 借鉴了 Compound 的 LP Token 逻辑，由 CANTO Token 质押者治理。Canto 质押者的主要目标是为开发者和用户营造最佳的 DeFi 环境，因此不会得到来自应用层的利息收益。借款人支付的所有利息会全部分配给贷方，Canto 不提取任何费用。\n\n\n\n\n\n\n\n\n\nNOTE 是 Canto 的原生稳定币，与 DAI 类似…",
-          "link": "https://www.theblockbeats.info/news/31291",
-          "publishedOn": "2022-07-19T03:14:58.000Z",
-          "wordCount": null,
-          "title": "新公链Canto：用新稳定机制重塑DeFi",
           "imageUrl": null
         }
       ]
