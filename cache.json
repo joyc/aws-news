@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31313",
+          "author": null,
+          "description": "原文作者：0x137，BlockBeats\n\n\n\n\n据 BlockBeats 统计，上周融资总数为 43 笔，覆盖 GameFi、NFT、DeFi、社交等领域，总金额超 5 亿美元，平均融资金额为 1295 万美元。其中，共 13 笔融资超 1 千万美元，总计约 4 亿美元，占上周融资总额的 79.34%，主要由 a16z、Paradigm、红杉、Dragonfly 等机构完成。去除该部分融资后，上周平均融资金额为 401 万美元。\n\n\n\n\n下图为上周各板块融资占比：\n\n\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 8 笔融资，总金额 1.287 亿美元，占上周融资总额的 25.47%。其中 Animoca Brand、Monkey League、REALM 三个项目融资最多，分别为 7532 万、2400 万以及 1000 万美元，YGG Japan 则获得来自 Animoca Brand 280 万美元的融资。\n\n\n\n\n虽然元宇宙话题已经火热了一年多的时间，但行业里质量过硬的元宇宙项目仍相对较少。这主要还是因为当前的「加密元宇宙」与主流游戏工作室和硬件生产商之间存在较大的脱钩。加密团队规模小，很难做出好项目，传统大厂则畏首畏尾，迟迟不肯下真功夫。\n\n\n\n\n尽管如此，Blockchain Gaming 领域的融资却还是「如火如荼」，作为加密行业最具向外性的板块之一，GameFi 仍然是目前最受机构青睐的一类项目。\n\n\n\n\nUnCaged\n\n\n\n\n关注理由：由 Solana 生态爆款游戏制作团队组建，探索 Gaming NFT 最具潜力的电竞市场。\n\n\n\n\n\n\n\n\n\nBlockBeats 消息，7 月 14 日，元宇宙游戏开发公司 UnCaged Studios 完成 2400 万美元 A 轮融资。此轮融资由 Griffin Gaming Pa…",
+          "link": "https://www.theblockbeats.info/news/31313",
+          "publishedOn": "2022-07-21T04:38:11.000Z",
+          "wordCount": null,
+          "title": "2022年第30周融资项目精选梳理：超3亿美元注入资产与GameFi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31311",
+          "author": null,
+          "description": "原文作者：加密开发者 0xfoobar\n原文编译：0x711，BlockBeats\n\n\n\n\n7 月 20 日，以太坊侧链 Polygon 将其 zkEVM 代码开源，并表示即将上线公共测试网。同日，以太坊 Layer 2 扩容解决方案 zkSync 公布项目路线图，宣布 zkSync2.0 作为第一个采用 zkEVM Rollup 的解决方案将于 100 天内上线主网。\n\n\n\n\n那么什么是 zkEVM，zkEVM 赛道为何突然出现众多竞争者。加密开发者 0xfoobar 在其社交网站阐述了他的理解，BlockBeats 整理翻译如下。\n\n\n\n\n解释 zkEVM\n\n\n1. 什么是 zkEVM；\n\n\n2. zk Rollups 将如何与其他类型 Rollup 竞争；\n\n\n3. zk Rollup 创建者的竞争格局。\n\n\n\n\nLayer 2 Rollup 是一种通过将用户交易批处理以降低 gas 成本的方法，其保留了以太坊主网的大部分安全性。\n其包含两种主要类型：optimistic Rollups 和 zk Rollups。\n\n\n\n\nOptimism 和 Arbitrum 等 optimistic Rollups 定期向主网发布状态根（state roots），并依靠欺诈证明来确保状态是真实可靠的。\n\n\nLoopring 和 Starkware 等 zk Rollups 将状态根发布到主网，也包括证明其有效性的加密证明。\n\n\n\n\n\n\n\nzk Rollups 通常因其更强的保证而受到青睐，但它们在技术上具有挑战性。开发人员必须用深奥的编程语言编写自定义「路径（circuits）」。即使是对功能的微小更改也可能需要对底层路径进行大量更改。\n\n\n\n\n\n\n\n这就是目前 Loopring 和 Starkware 这样的 zk Rollup 遇到的问题。虽然理论上很强大，但它们非常复杂，以至于很少有开发人员可以在它们的网络上进行构建。\n\n\n所以关键问题是：你是否可以在 zk Rollup 上运行任意 Solidity？这就要看 zkEVM 的了。\n\n\n\n\n让看看我们竞争激烈的市场格局。今天（7 月 20 日），Polygon 宣布其首个 zkEVM即将上线。昨天基于 zkEVM 的 Layer 2 解决方案Scroll 发布其 zero-th zkEVM。去年 12 月，zkSync 上线其支持 zkEVM 的测试网。\n\n\n\n\nLoopring 基于 zk Rollup 运行，但它不是 zkEVM，它专门用于处理特定的活动子集，例如 Token 转移和 DEX 交易。\n\n\n\n\n\nStarkware 同样基于 zk Rollup 运行，但它不是 zkEVM，开发者必须使用 Cairo 语言编译自定义逻辑，而不能用 Solidity。\n\n\n\n\n\n抛开谁是「第一个实现 zkEVM」的问题，很明显 zkEVM 圣杯已经接近了！这是一个令人难以置信的消息，多个优质团队之间的竞争只会更快地推动创新。\n\n\n\n\n这对非技术用户意味着什么？更低的 gas 成本，更多的 Rollup 选择，以及你喜欢的 Rollup 上会有更多的 apps。加密市场或有牛熊，但技术创新一刻不停。\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31311",
+          "publishedOn": "2022-07-21T04:31:11.000Z",
+          "wordCount": null,
+          "title": "开发者告诉你，为什么zkEVM值得关注",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31312",
+          "author": null,
+          "description": "近期，Yuga Labs 元宇宙项目 Otherside 完成了「First Trip」内测，吸引了众多玩家（Voyagers，Otherdeed 地块所有者）的参与，最高曾达 4000 多人同时在线。\n\n\n\n\n此次测试中，Voyagers 可以参与多种活动，在专门为测试设计的游戏场地中导航，体验行走、奔跑、跳跃跳舞等动作，或者展示自己持有的 NFT。虽然目前各项功能还不够完善，但对于今年 5 月才正式启动，由 Improbable 元宇宙开发商打造的 Otherside 而言，玩家对于这次内测的反响总体还是好的。\n\n\n\n\nImprobable 是近年来资金最雄厚的欧洲视频游戏开发公司之一，同时获得了 a16z、软银与网易的投资。借助 Improbable 的技术，Otherside 将支持超过 1.5 万人同时在一个虚拟空间中进行交互，并体验由 AI 和物理支持的丰富、身临其境的游戏玩法，同时玩家将突破规模、带宽和渲染的障碍，创造出更多新的游戏玩法和社交可能性。对于 Improbable，还有哪些值得关注的地方，BlockBeats 将为读者做些介绍。\n\n\n\n\n\n\n\n\n\n\n\n剑桥高材生创立的元宇宙平台\n\n\n\n\n\n\n10 年前，计算机科学专业的 Herman Narula 结识了 Improbable 另一位联合创始人 Rob Whitehead，当时两人都在剑桥大学读书。一直以来，Narula 对游戏和网络世界都十分着迷，他认为游戏是他们那代人的一部分，对他而言，在游戏中建立的关系很重要。与此同时，Whitehead 则在通过销售在线游戏《Second Life》中的物品赚钱。\n\n\n\n\n不过，作为热心的游戏玩家，Narula 和 Whitehead 都想知道为什么他们当时玩的游戏的复杂性受到了限制。为什么不能有更多的玩家同时一起游戏？是什么阻碍了游戏的扩展？\n\n\n\n\n20…",
+          "link": "https://www.theblockbeats.info/news/31312",
+          "publishedOn": "2022-07-21T04:31:11.000Z",
+          "wordCount": null,
+          "title": "猴子地开发商是谁？网易居然也投过",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31310",
+          "author": null,
+          "description": "原文标题：《一文详解顶级 VC 豪掷 1800 万美金的大学生创业项目 Morpho——优化资金效率的借贷协议聚合器》\n原文作者：懒惰的西瓜，\n\nDefieye\n\n\n\n\n7 月 12 日，DeFi 借贷协议 Morpho 完成 1800 万美元融资，由 a16z 和 Variant 领投，投资者包括 Nascent、Semantic Ventures、Cherry Crypto、Mechanism Capital、Spark Capital、Standard Crypto 和 Coinbase Ventures。\n\n\nMorpho 协议由 Paul Frambot，一名巴黎电信和理工学院工程专业的学生，与 CNRS 研究总监 Vincent Danos 共同创立，旨在打造更高效的借贷协议。其基于现有的借贷协议，创建了一种新的点对点机制，能够为投资者带来更高收益。具体细节是什么样子呢？我们一起看一下。\n\n\n\n\n一、点对池协议的现状\n\n\n想要了解新型借贷协议，得先了解传统借贷协议什么样，接下来将以 AAVE 及 compound 这两个老牌借贷协议进行介绍。如果您对此十分熟悉，可以跳至第二节。\n\n\nAAVE 或 compound 的基本原理很简单，贷方将他们的加密资产供应给协议的借贷池，获得一个 APY 的激励（后文将称为贷方 APY）；这些加密货币将发送到池子对应的合约中，池子将返给他们对应的利息凭证（例如 compound 的 cToken、AAVE 的 aToken）。而借方则需要先提供足够的抵押品，在一定的抵押率下，他们可以从池子里借出限制额度内的资产，为此，他们需要支付一定的利息（后文将称为借方 APY）。\n\n\n可以看出，链上借贷协议与传统贷款是具有两个显著不同点的：链上无法核验信用，因此借方必须首先是贷方（即超额抵押），这降低了资金效率，也限制了使用场景。借款没有期…",
+          "link": "https://www.theblockbeats.info/news/31310",
+          "publishedOn": "2022-07-21T03:31:11.000Z",
+          "wordCount": null,
+          "title": "Morpho：a16z领投的借贷协议聚合器",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31307",
           "author": null,
           "description": "原文标题：《Redefining Trust: Truly Random Gaming》\n  原文作者：Emily Cockley\n原文编译：Xinyang，DAOrayaki \n\n\n\n 随机性的魔力 \n\n\n\n自古代文明以来，对随机性的着迷一直是我们社会和娱乐机制的一部分。在早期的希腊和罗马文明中，当地的先知提供了看似随机的解决方案和理论，以描述从自然现象中感知的意义。一个很好的例子是将流星归因于特定事件。据说这种天体的经过表明了最近事件的特定结局，比如凯撒大帝被谋杀后成为神灵 [1]。我们总是被无法解释和不可预测的事物所吸引，无论我们是把它当作运气来拥抱，还是抓住随机的关联性来努力避免我们所认为的命运的破坏。现象是随机的，我们却一直赋予它人类的解释，以回答我们面临的许多谜团。\n\n\n  Royal Game of Ur  \n\n\n后来的社会引入了正式的几率游戏（game of chance），从特定物体上读取物理信息，这个特定物体被设计为在统计反应范围内行为。其中一些机制我们今天仍然在使用。即使是我们最现代的社会，也仍然在用经典纸牌游戏来娱乐自己；角色扮演和棋盘游戏仍然在用基于掷骰子的行动来玩。在我们输的一塌糊涂的游戏之夜，可能会觉得统计机制对我们不利，但最终，随机性来源的物理学压倒了我们内心的怀疑。我们无法看到我们投掷的骰子上的所有自然效应，但我们知道这个角色是公平的，因为它就发生在我们面前。至少，它是透明的。\n\n\n\n 从经典到现代 \n\n\n\n从 50% 随机的抛硬币开始，我们已经走了很远。尽管这样的几率仍有有效的应用，但我们现在正在建立算法，用单一的种子推出数百甚至数百万的随机数，以扩大享受随机性的方法。基本的算法，或者说伪随机数生成（PRNG），已经足以应付比较简单的游戏，比如纸牌。这些游戏被翻译成在线版本，其中的随机性并不强烈地影响玩家的享受水平。我们总是知道每场游戏中…",
@@ -103,16 +143,6 @@
           "publishedOn": "2022-07-19T03:14:58.000Z",
           "wordCount": null,
           "title": "新公链Canto：用新稳定机制重塑DeFi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31285",
-          "author": null,
-          "description": "原文标题：《\n\nSolidity 极简入门: 14. 抽象合约和接口\n\n》\n原文作者：0xAA   \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity\n\n\n这一讲，我们用 ERC721 的接口合约为例介绍 solidity 中的抽象合约（abstract）和接口（interface），帮助大家更好的理解 ERC721 标准。\n\n\n抽象合约\n\n\n如果一个智能合约里至少有一个未实现的函数，即某个函数缺少 {} 中的内容，则必须将该合约标为 abstract，不然编译会报错；另外，未实现的函数需要加 virtual，以便子合约重写。拿我们之前的插入排序合约为例，如果我们还没想好具体怎么实现插入排序函数，那么可以把合约标为 abstract，之后让别人补写上。\n\n\n\n\n\n接口\n\n\n接口类似于抽象合约，但它不实现任何功能。接口的规则：\n\n\n- 不能包含状态变量\n- 不能包含构造函数\n- 不能继承除接口外的其他合约\n- 所有函数都必须是 external 且不能有函数体\n- 继承接口的合约必须实现接口定义的所有功能\n\n\n虽然接口不实现任何功能，但它非常重要。接口是智能合约的骨架，定义了合约的功能以及如何触发它们：如果智能合约实现了某种接口（比如 ERC20 或 ERC721），其他 Dapps 和智能合约就知道如何与它交互。因为接口提供了两个重要的信息：\n\n\n- 合约里每个函数的 bytes4 选择器，以及基于它们的函数签名函数名 (每个参数类型）。\n- 接口 id（更多信息见EIP165）\n\n\n另外，接口与合约 ABI（Application Binary Interfac…",
-          "link": "https://www.theblockbeats.info/news/31285",
-          "publishedOn": "2022-07-18T14:03:03.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门｜第十四讲：抽象合约和接口",
           "imageUrl": null
         }
       ]
