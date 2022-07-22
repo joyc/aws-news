@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31321",
+          "author": null,
+          "description": "原文标题：《\n\nFront-running The Regen Opportunity\n\n》\n原文作者：Kevin Owocki，\n\nGitcoin.co 创始人\n\n\n原文来源：Bankless\n原文编译：DeFi 之道\n\n\n\n在 Web3 领域有很多噪音，但也有一个新兴的生态系统具有强大的价值主张，对现实世界产生了影响并带来了投资回报率（ROI）。 \n\n\n这些「Regen Web3」项目——其中许多还处于早期阶段，具有可扩展性，专为透明的治理而构建，并且在未来十年内可以轻松实现 10 倍至 100 倍的增长。\n\n\n那么为什么「Regen web3」项目值得你去关注呢？\n\n\n\n\n\n 再生（Regen）网络的资本轮换 \n\n\n\n随着生态系统的成熟，资本将有机会流入为世界创造最具人道主义价值的项目，而不仅仅是获得经济价值的项目。\n\n\n在本文中，我们根据 Regen Web3 风险 / 回报量表评估新兴模型。这种规模的顶级项目现在已经开始运作，而处于底部的项目则更具理论性，具有上行潜力。 \n\n\n 1. 规模化的 Gitcoin Grants（低风险，高上升空间）\n\n\n\n\n\nGitcoin Grants 是一种资本分配机制，主要通过 Quadratic Funding 为 Web3 公共产品产生了价值 6400 万美元的资金。\n\n\n每个季度，Gitcoin 社区都会向匹配池分配价值 300 万美元的资金，该池根据众筹活动的结果进行分配。\n\n\n在 2022 年第二季度，Gitcoin 促成了 740 万美元的价值转移。即第二季度每小时约为 3413 美元 / 小时（15374 美元 / 工作时）。\n\n\n但这只是该生态系统中公共产品创造价值的冰山一角。开源软件和以太坊创造了价值数十亿美元的公共产品。要达到这个规模，Gitcoin 必须增长 1000 倍。\n\n\n为此，Gitcoin 推出了…",
+          "link": "https://www.theblockbeats.info/news/31321",
+          "publishedOn": "2022-07-22T14:59:29.000Z",
+          "wordCount": null,
+          "title": "Gitcoin创始人谈Web3新兴模型：Regen Web3项目为何值得关注？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31328",
           "author": null,
           "description": "原文标题：《Three Arrows Founders, En Route to Dubai, Describe 『LTCM Moment』》\n原文作者：Joanna Ossinger、Muyao Shen、Yueqi Yang，Bloomberg\n原文编译：0x9F、czgsws、0x214，BlockBeats\n\n\n\n\n躲藏五周后，名誉扫地的三箭资本创始人谈论了他们曾经风光无限的对冲基金的惊人暴雷，称他们糟糕的加密投机引发了对本不应该提供的贷款的级联保证金要求。\n\n\n\n35 岁的 Zhu Su 和 Kyle Davies 在高中时就结识为朋友。他们将三箭资本打造成一个加密交易的庞然大物，然后它的倒闭导致债权人破产，并加剧了抛售，给比特币和其他加密货币的所有者带来了巨额损失。\n\n\n\n\nKyle Davies 和 Zhu Su 在一个秘密地点展开这场对话，时而很懊悔，时而又很防范和自我保护。他们描述了风险管理的系统性失败，其中，容易流动的信贷加剧了错误押注的影响。\n\n\n他们承认暴雷引发了更大量级的痛苦，但主要讨论的是对行业其他人的影响的问题。他们强调他们遭受了巨大的损失，同时否认了他们在三箭暴雷之前从中撤资的指控。「人们可能会说我们愚蠢。他们可能会说我们愚蠢或妄想。也许我会接受的吧」，Zhu Su 说，「但他们说我在暴雷前就撤资了，这不是真的，实际上我投入了更多的个人资金。」\n\n\n负责清算该基金的顾问在 7 月 8 日的文件中表示，Zhu Su 和 Kyle Davies 没有与他们合作，创始人下落不明。Zhu Su 表示，死亡威胁迫使他们躲藏起来。「这并不意味着我们没有与所有相关当局进行沟通」，Zhu Su 在接受 Davies 和 Solitaire LLP 的两名律师的电话采访时说，「我们从第一天起就一直在与他们沟通。」\n\n\n两人拒绝透露他们所在的具体地点，但电话中的…",
@@ -163,16 +173,6 @@
           "publishedOn": "2022-07-20T08:30:47.000Z",
           "wordCount": null,
           "title": "加密生活：a16z Crypto合伙人的一天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31302",
-          "author": null,
-          "description": "原文标题：《\n\nBankless：为什么说 DeFi 永不消亡？\n\n》\n原文作者：Donovan Choy，\n\nBankless\n\n\n原文编译：Jordan，PANews\n\n\n过去几个月，加密行业遭受的打击可谓史无前例：身家数十亿美元的加密货币银行面临破产危机、最大的对冲基金通过抛售 NFT 来以应对清算、中心化加密机构面临崩盘……但令人惊讶的是，在经历了这场风暴之后，DeFi 却依然屹立不倒，相信这也正体现了加密社区一直对外宣扬的价值主张——打造一个面向全世界的开放、公共、可访问的金融生态。\n\n\n正因为如此，DeFi 永远不会消亡。\n\n\n为什么会说 DeFi 永不消亡？\n\n\n设计一个强韧的经济体系，首先要认清这个纷繁复杂的现实世界并接受人类贪婪无知的本能。此外，你还要明白经济体系的强韧度与牛市表现无关，主要取决于在没有监管机构或是巨头干预的情况下是否有适应市场变化的能力。\n\n\n其次，判断一个经济系统是否能在金融市场中有足够的强韧，以下几个问题也至关重要：\n\n\n1、系统是否能有效清除坏账？\n2、对于不可持续的商业模式，系统是选择淘汰还是支持？\n3、在系统性风险累积到一定程度之前，能否做到以上两点？\n4、当系统性风险出现时，能否能通过最小化积极管理（active management）和负面外溢（negative spillover）来解决问题？\n\n\n事实上，与中心化金融系统相比，去中心化金融系统与以上这些目标的关系更为密切，因为无论从协议Token经济体系的设计角度来看，还是从日常财务管理以及资产负债表的健康状况来看，DeFi 体系中的一切都在区块链上，而且是公开透明的，任何人都能观察并实时监控到，每个人都能清楚了解巨鲸的投资动向和潜在风险。\n\n\n我们常常看到主流媒体会将 DeFi 描述为「金融领域的狂野西部」，但这种比喻并不恰当，因为 DeFi 自我监管机制其实非常完善—…",
-          "link": "https://www.theblockbeats.info/news/31302",
-          "publishedOn": "2022-07-20T03:05:00.000Z",
-          "wordCount": null,
-          "title": "Bankless：加密机构暴雷潮，DeFi却永不消亡",
           "imageUrl": null
         }
       ]
