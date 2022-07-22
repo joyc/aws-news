@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31318",
+          "author": null,
+          "description": "cBridge上线一周年：跨链桥的核心竞争力是什么？",
+          "link": "https://www.theblockbeats.info/news/31318",
+          "publishedOn": "2022-07-22T03:57:31.000Z",
+          "wordCount": null,
+          "title": "cBridge上线一周年：跨链桥的核心竞争力是什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31320",
+          "author": null,
+          "description": "ENS逆市爆火，背后究竟隐藏哪些逻辑？",
+          "link": "https://www.theblockbeats.info/news/31320",
+          "publishedOn": "2022-07-22T03:48:31.000Z",
+          "wordCount": null,
+          "title": "ENS逆市爆火，背后究竟隐藏哪些逻辑？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31316",
+          "author": null,
+          "description": "探讨Web3社交协议：灵魂绑定Token与多种身份解决方案能否共存？",
+          "link": "https://www.theblockbeats.info/news/31316",
+          "publishedOn": "2022-07-22T02:24:31.000Z",
+          "wordCount": null,
+          "title": "探讨Web3社交协议：灵魂绑定Token与多种身份解决方案能否共存？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31314",
           "author": null,
           "description": "原文标题：《Bankless：了解 5 种流行的 NFT 投放方式及其优缺点》\n原文作者：William M. Peaster，Bankless\n原文编译：DeFi 之道\n\n\n\n\n今年夏天早些时候，我写了一篇关于 NFT 智能合约方法的入门文章。\n\n\n\n\n在启动一个 NFT 项目时，确定一个基础的智能合约方法已经成功了一半。另一半则来自于决定使用哪种 NFT Drop（投放，一般指一级市场抢购）方式。\n\n\n\n\n当然，可以在各种不同的组合中配置 NFT 合约和 Drop 方式，也完全有可能以各种方式混合不同的 Drop 方式。\n\n\n\n\n而在目前的 NFT 生态系统，有一些是你需要关注的基础 Drop 方式。\n\n\n\n\n流行的 NFT 投放方式\n\n\n\n\n\n\n\n\n\n01 先到先得（FCFS）铸造方式\n\n\n\n\n一种 NFT 投放方式，铸造以「先到先得」的方式对公众或特定的 NFT 社区成员开放。\n\n\n\n\n变体：\n \n\n\n无许可（Permissionless）——任何人都可以在 FCFS 的基础上进行铸造，示例：Bored Ape Yacht Club。\n\n\nToken门控（Token-gated）——任何持有指定\n\nToken\n\n的人都可以在 FCFS 基础上进行铸币，示例：Blitnauts ，只能由 Blitmap 持有者铸造。\n\n\n基于抽奖——需要使用抽奖系统为 FCFS 铸造分配有限数量的许可名单，示例：Boki 最终销售）\n\n\n价格分级（Price-tiered）——在一个系列中，不同的供应层有不同的铸造价格，例如 NFT ID 0-999 为 0.1 ETH，1000-1999 为 0.2 ETH 等。示例：Hashmasks。\n\n\n\nHashmasks 铸造层，图片来自 thehashmasks.com\n\n\n\n\n优点： \n\n\n\n\n对构建者而言，易于实施\n铸造者使用简单方…",
@@ -123,26 +153,6 @@
           "publishedOn": "2022-07-20T03:05:00.000Z",
           "wordCount": null,
           "title": "Bankless：加密机构暴雷潮，DeFi却永不消亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31299",
-          "author": null,
-          "description": "A16z游戏投资合伙人谈Web3游戏和元宇宙的未来",
-          "link": "https://www.theblockbeats.info/news/31299",
-          "publishedOn": "2022-07-19T14:40:57.000Z",
-          "wordCount": null,
-          "title": "A16z游戏投资合伙人谈Web3游戏和元宇宙的未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31298",
-          "author": null,
-          "description": "原文标题：《\n\nIOSG Weekly Brief ｜合并在即：详解以太坊最新技术路线\n\n》\n原文作者：Jiawei，\n\nIOSG Ventures；编辑：Olivia，IOSG Ventures\n\n\n 本文仅做行业学习交流之用，不构成任何投资参考 \n\n\ntl;dr：  \n\n\n\n\n \n \n如果「The Merge」进展顺利，分片将成为以太坊在 2023 年及之后的开发主轴，而距离 2015 年分片被提出，其含义已经发生了很大变化。\n\n\n在 Vitalik 提出「以 Rollup 为中心的以太坊路线图」和以太坊的「Endgame」之后，以太坊的大方向发生了事实上的转变——「退居幕后」，作为 Rollup 的安全性保证和数据可用性层。\n\n\n \nDanksharding 和 Proto-Danksharding 是一系列的技术组合，表现形式在于「发现问题」、引入或提出新技术来「解决问题」的一套组合拳。\n\n\n时间线拉长到未来几年，Rollup 的整体价值将变大：以太坊上呈现多 Rollup 的发展格局、跨 Rollup 基础设施高度完善、Rollup 生态高度繁荣——甚至超越以太坊本身。\n\n\n 引言 \n\n\n\n\n图片来源：https://consensys.net/blog/blockchain-explained/the-roadmap-to-serenity-2/\n\n\n转眼 2022 年已走过一半。我们回看 Vitalik 在 2018 年 Devcon 演讲中提出的 Serenity Roadmap，容易发现以太坊的发展路径几经更迭— 对比当前的路线图，分片被赋予新的含义，eWASM 亦少有人提及。\n\n\n为了避免潜在的欺诈和用户误导问题，今年 1 月底，以太坊基金会宣布弃用「ETH2」的说法，而是把当前的以太坊主网改称为处理交易和执行的「执行层」，把原 ETH2 的说法改称为协…",
-          "link": "https://www.theblockbeats.info/news/31298",
-          "publishedOn": "2022-07-19T09:51:01.000Z",
-          "wordCount": null,
-          "title": "合并在即：详解以太坊最新技术路线",
           "imageUrl": null
         }
       ]
