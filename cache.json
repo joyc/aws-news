@@ -134,46 +134,6 @@
           "wordCount": null,
           "title": "重新定义信任：Web3中是否能引入真正的随机游戏",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31308",
-          "author": null,
-          "description": "原文作者：0x9F，BlockBeats\n\n\n\n\nSoundwise 创始人 Natasha Che 一直在社交媒体分享自己关于加密货币和 Web3 的心得，曾梳理过估值方法论、宏观看法，以及加密技术对未来经济影响等观点。\n\n\n\n\n不过，7 月 20 日，Natasha 表示「自 2019 年以来，实际的加密使用量几乎没有增长」。这个观点引发包括 Nansen CEO、Crypto Quant CEO、Coinbase Cloud OG 协议专家、Dragonfly Capital 合伙人等 KOL 的回应与抨击。\n\n\n\n\nNatasha 首先用一张图的数据表示，加密的实际全球交易量已经跌落至 2019 年初的水平了，但是市值依然很高。基于此，她得出了这一备受争议的结论——自 2019 年以来，实际的加密使用量几乎没有增长。\n\n\n\n\n\n\n\n\n\n后面她放出第 2 张图，认为交易数量同样佐证了这一结论。在一个完整的市场周期之后没有真正的增长，介于两者之间的所有激增主要是投机活动。\n\n\n\n\n\n\n\n\n\n「实际交易额」为何？\n\n\n\n\nNatasha 上面强调了一个「实际交易额」，因为交易额已被她根据加密价格指数（Crypto Price Index）进行了缩减，从而消除了价格升值效应带来的影响。这一她自创的「实际交易额」，事实上正是这场争论的核心。\n\n\n\n\nNansen 首席执行官 Alex Svanevik 对此回复了一个「这绝对错误」的扼要评判，认为除非「实际交易额」意味着某些非常具体的东西。CryptoQuant 首席执行官 Ki Young Ju 认为唯一合理的解释是「实际交易量」仅包括 EOA（Externally Owned Account）转账交易，不含来自智能合约的交易。\n\n\n\n\n这个「实际交易额」到底是什么？Natasha 最后明确公布，Chainalysis 的数…",
-          "link": "https://www.theblockbeats.info/news/31308",
-          "publishedOn": "2022-07-20T09:41:16.000Z",
-          "wordCount": null,
-          "title": "大V说「加密实际使用量4年来并无增长」，引发行业抨击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30668",
-          "author": null,
-          "description": "不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。\n\n\n我们常说，在熊市中你需要做的只有 Build。那么，该\n\nBuild 什么？去哪 Build？\n\n\nBlockBeats Web3 招聘墙\n\n\nBlockBeats 希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。\n\n\nBlockBeats\n招聘岗位：海外运营\n工作语言：中文/英文\n联系方式：contact@theblockbeats.org\n\n\na16z\n招聘岗位：游戏投资分析师、基础设施投资分析师、投资合伙人、运营合伙人、市场合伙人、工程师、社区负责人等\n工作地点：纽约、加利福尼亚\n工作语言：英文\n联系方式：https://a16z.com/about/jobs/\n\n\nProject Galaxy\n招聘岗位：产品、工程师、UI&UX 设计师等\n工作地点：远程、杭州、新加坡、加拿大\n工作语言：中文/英文\n联系方式：https://angel.co/company/projectgalaxy/jobs\n\n\nDragonfly Capital\n招聘岗位：产品、会计、增长合伙人\n工作地点：远程、旧金山、新加坡\n工作语言：英文\n联系方式：https://www.linkedin.com/company/dragonfly-capital-partners/jobs/\n\n\nOptimism\n招聘岗位：工程师、合规、数据分析、产品、设计师\n工作地点：远程…",
-          "link": "https://www.theblockbeats.info/news/30668",
-          "publishedOn": "2022-07-20T08:30:47.000Z",
-          "wordCount": null,
-          "title": "Web2裁员潮，Web3求人潮 | Web3招聘墙 （7.20更新）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31304",
-          "author": null,
-          "description": "原文标题：《Sam Bankman-Fried Expands FTX, Alameda Empire By Bailing Out Failing Crypto Firm》\n原文作者：Hannah Miller & Olga Kharif，彭博社\n原文编译：胡韬，链捕手  \n\n\n\n在 6 月的 14 天里，加密货币亿万富翁 Sam Bankman-Fried 进行了一场在行业历史上前所未有的交易狂潮。交易接踵而至，令人眼花缭乱：FTX 联合创始人兼首席执行官收购了两家公司，支持了加密平台 BlockFi，并试图用大笔贷款拯救另一家 Voyager Digital。\n\n\n总而言之，Bankman-Fried 承诺了大约 10 亿美元，即使对于价值 100 亿美元的人来说，这也是一笔惊人的风险。在加密货币暴跌中，仅在八个月内就蒸发了 2 万亿美元的市值。对于他的众多铁杆粉丝来说，这进一步证明了 SBF，正如他们所称的那样，是加密货币的赞助人，是一位仁慈、财力雄厚的投资者和慈善家，他在该行业最需要的时候为该行业辩护。\n\n\n也许另一种解释是，Bankman-Fried 的操纵和交易揭示了他主导加密行业的计划的全部范围。就像他之前的其他金融大亨——一个世纪前的约翰·皮尔庞特·摩根和现代的沃伦·巴菲特——他正在利用竞争对手的厄运来以低廉的价格扩张他的帝国。如果说他正在安排的救助计划中有拯救行业的因素，那也是因为这场危机如果足够大，最终也会危及他的核心业务。\n\n\n「他这样做并不是出于好心，」Chris McCann 说，他自 2018 年起就认识 Bankman-Fried，是 Race Capital 普通合伙人，该公司是最早投资 FTX 的风险投资公司之一。「他的野心在这一点上是无止境的。」\n\n\n当然，这一切都可能适得其反。用华尔街的话说，整个事情感觉就像他在试图抓住一把落下的刀，…",
-          "link": "https://www.theblockbeats.info/news/31304",
-          "publishedOn": "2022-07-20T08:30:47.000Z",
-          "wordCount": null,
-          "title": "彭博社：市场崩溃下，SBF与他日益庞大的商业帝国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31305",
-          "author": null,
-          "description": "原文标题：《Info Diet: a16z Crypto's Elena Burger》\n原文作者：Elena Burger，a16z\n原文编译：Kxp，BlockBeats\n\n\n\nInfo Diet 会邀请不同的建设者以自身的视角记录他们两天内会阅读和浏览的文章。今天我们有幸邀请到了现居纽约的 Elena Burger，她是 a16z Crypto 团队的交易合伙人，主要关注 NFT、Web3 媒体和基础设施领域。\n\n\n\n7 月 10 日，星期日 \n\n\n上午 10 点：对我来说，这是异常慵懒的一天。一般情况下，我会在早上 7、8 点左右醒来，喝杯咖啡，去中央公园跑跑步，回来以后查看一下 Twitter 以及电子邮件。但今天我碰巧要和朋友一起去参观一位家庭成员的海滨别墅，所以我今早就没了几分往日的兴致。\n\n\n\n\n我去厨房喝了一口咖啡，顺便翻开了桌子上放着的一期《纽约客》。这也是一件我平时不会做的事情：我之前可能读过很多纸质媒体资料，但现在我更喜欢看电子版的了。当人们涌入早餐室时，我正看着福音/蓝调歌手 Mavis Staples 的简介。\n\n\n\n\n下午 12 点：在返回曼哈顿的 Jitney 巴士上，我的朋友把他的一个 airpods 塞到我耳朵里，问道：「你有没有看过 Channel 5？」我说我没有。\n\n\n\n\nChannel 5 是 YouTuber Andrew Callaghan 的街头采访节目，他总会选择有争议的群体（撩妹训练营，反疫苗集会等等），并拍摄他们的日常活动。我们观看了犹他说唱节的一集（我建议在点击链接之前，你将音量调到略低于最大音量），里面有几段一名 15 岁天才少年的说唱。我很喜欢这期视频，它有点类似于《救援高手》或《约翰·威尔逊的十万个怎么做》这类节目。我虽然不怎么看 YouTube，但就像 Mavis Staples 的资料一样，如果它就摆在我面…",
-          "link": "https://www.theblockbeats.info/news/31305",
-          "publishedOn": "2022-07-20T08:30:47.000Z",
-          "wordCount": null,
-          "title": "加密生活：a16z Crypto合伙人的一天",
-          "imageUrl": null
         }
       ]
     },
