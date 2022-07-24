@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31353",
+          "author": null,
+          "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们将从本期开始，推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过一下方式联系我们。  \n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n以下为本期编辑部内容推荐\n\n\n\n推荐文章:《监管加密货币：一场事关未来权力的战争》\n\n\n\n\n推荐人：crescent（@0xcrescent）\n\n\n\n\n推荐理由：本文从 Facebook 发布 Libra 引入，接着按照时间发展的顺序，缓缓展开在美国加密与监管间的风起云涌。它的本质是商品、是证券，是技术手段、还是隶属金融，大家站在自己的角度各执一词。该文中以明线、暗线两个角度，梳理「加密联盟」的作战策略，你来我往，不停缠斗。面对新事物的逐渐发展完善，监管总不可避免地存在滞后，像文中所述，监管的支持与否，也不过是各方的利益角逐。\n\n\n\n\n\n\n\n推荐文章:《Safe 空投在即，详解 DAO 资金管理工具行业现状》\n\n\n\n\n推荐人：Bob\n\n\n\n\n推荐理由：尝试从机构视角，以十几个维度，了解数字资产管理平台 Safe 所处的 DAO 资金管理工具赛道。\n\n\n\n\n\n推荐文章:《程序员郭宇，28 岁退休之后》\n\n\n\n\n推荐人：Ashley\n\n\n\n\n推荐…",
+          "link": "https://www.theblockbeats.info/news/31353",
+          "publishedOn": "2022-07-24T07:24:07.000Z",
+          "wordCount": null,
+          "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31352",
           "author": null,
           "description": "原文来源： CYC Labs\n原文作者：\n\n CryptoYC Tech\n\n\n\nTL；DR\n\n\n· 闪电网络是集大成者，是天时地利人和的产物。\n· 闪电网络的前辈们或多或少都需要对 BTC 底层进行改动，导致他们始终无法良好运行。\n· 现在为人们所熟知的是 Basis of Lightning Technology（BOLT）。\n· 19 年以后闪电网络基础设施日益成熟，后续的发展围绕优化和生态建设为主。\n\n\n\n提到闪电网络，绝大多数人对它的了解还只是听过这个名字，或者稍微了解多一些的人知道它的一些基本原理。但是我们需要思考一个问题：闪电网络的概念是一夜成名的还是集大成者？哪怕仅凭直觉来看，我们也认为是后者。但是，它集成了哪些大成？在它之前的那些设想为什么没有发展起来？这就需要我们回顾下闪电网络的发展历史。而从闪电网络的组成中，我们不难发现，它的核心是 payment channel 和由此组成的 payment network。那么，我们今天就再次回顾下这些值得被铭记的英雄。\n\n\nPayment Channel——BTC 代码里的种子  \n\n\n闪电网络集的大成之一就是支付通道。这个从直觉上理解也没有什么问题。毕竟想要组成点对点的支付网络，首先要解决的是点对点之间的支付问题。\n\n\n\n\n支付通道的核心思路就是在两个比特币账户之间建立一个通道，这两个地址的余额关系只用他们两个人知道就好，并不需要上链，一直到双方愿意结算的时候广播一笔交易到链上即可。\n\n\n\n\n之所以说它是现在闪电网络的」种子「，是因为它的理念和 BTC 诞生一样早。在 Bicoin 0.1 版本就包含了支付通道的代码草稿, 即允许用户在交易被网络确认前更新这笔交易。\n\n当然，通过这个代码构建的方案还很初级，不过中本聪后来跟 bitcoinj 开发者 Mike Hearn 私聊了更多支付通道的细节，并且在 2013…",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-07-22T02:24:31.000Z",
           "wordCount": null,
           "title": "探讨Web3社交协议：灵魂绑定Token与多种身份解决方案能否共存？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31314",
-          "author": null,
-          "description": "原文标题：《Bankless：了解 5 种流行的 NFT 投放方式及其优缺点》\n原文作者：William M. Peaster，Bankless\n原文编译：DeFi 之道\n\n\n\n\n今年夏天早些时候，我写了一篇关于 NFT 智能合约方法的入门文章。\n\n\n\n\n在启动一个 NFT 项目时，确定一个基础的智能合约方法已经成功了一半。另一半则来自于决定使用哪种 NFT Drop（投放，一般指一级市场抢购）方式。\n\n\n\n\n当然，可以在各种不同的组合中配置 NFT 合约和 Drop 方式，也完全有可能以各种方式混合不同的 Drop 方式。\n\n\n\n\n而在目前的 NFT 生态系统，有一些是你需要关注的基础 Drop 方式。\n\n\n\n\n流行的 NFT 投放方式\n\n\n\n\n\n\n\n\n\n01 先到先得（FCFS）铸造方式\n\n\n\n\n一种 NFT 投放方式，铸造以「先到先得」的方式对公众或特定的 NFT 社区成员开放。\n\n\n\n\n变体：\n \n\n\n无许可（Permissionless）——任何人都可以在 FCFS 的基础上进行铸造，示例：Bored Ape Yacht Club。\n\n\nToken门控（Token-gated）——任何持有指定\n\nToken\n\n的人都可以在 FCFS 基础上进行铸币，示例：Blitnauts ，只能由 Blitmap 持有者铸造。\n\n\n基于抽奖——需要使用抽奖系统为 FCFS 铸造分配有限数量的许可名单，示例：Boki 最终销售）\n\n\n价格分级（Price-tiered）——在一个系列中，不同的供应层有不同的铸造价格，例如 NFT ID 0-999 为 0.1 ETH，1000-1999 为 0.2 ETH 等。示例：Hashmasks。\n\n\n\nHashmasks 铸造层，图片来自 thehashmasks.com\n\n\n\n\n优点： \n\n\n\n\n对构建者而言，易于实施\n铸造者使用简单方…",
-          "link": "https://www.theblockbeats.info/news/31314",
-          "publishedOn": "2022-07-21T14:02:47.000Z",
-          "wordCount": null,
-          "title": "Bankless：了解5种流行的NFT投放方式及其优缺点",
           "imageUrl": null
         }
       ]

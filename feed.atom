@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-24T06:09:53.651Z</updated>
+    <updated>2022-07-24T12:14:05.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></title>
+        <id>https://www.theblockbeats.info/news/31353</id>
+        <link href="https://www.theblockbeats.info/news/31353"/>
+        <updated>2022-07-24T07:24:07.000Z</updated>
+        <summary type="html"><![CDATA[在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们将从本期开始，推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过一下方式联系我们。  
+
+
+
+
+
+联系我们
+
+
+
+
+
+
+
+
+BlockBeats Twitter：https://twitter.com/BlockBeatsChina
+BlockBeats Discord：https://discord.gg/R9fuWFyrTj
+BlockBeats Telegram：https://t.me/theblockbeatsApp
+BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
+
+
+以下为本期编辑部内容推荐
+
+
+
+推荐文章:《监管加密货币：一场事关未来权力的战争》
+
+
+
+
+推荐人：crescent（@0xcrescent）
+
+
+
+
+推荐理由：本文从 Facebook 发布 Libra 引入，接着按照时间发展的顺序，缓缓展开在美国加密与监管间的风起云涌。它的本质是商品、是证券，是技术手段、还是隶属金融，大家站在自己的角度各执一词。该文中以明线、暗线两个角度，梳理「加密联盟」的作战策略，你来我往，不停缠斗。面对新事物的逐渐发展完善，监管总不可避免地存在滞后，像文中所述，监管的支持与否，也不过是各方的利益角逐。
+
+
+
+
+
+
+
+推荐文章:《Safe 空投在即，详解 DAO 资金管理工具行业现状》
+
+
+
+
+推荐人：Bob
+
+
+
+
+推荐理由：尝试从机构视角，以十几个维度，了解数字资产管理平台 Safe 所处的 DAO 资金管理工具赛道。
+
+
+
+
+
+推荐文章:《程序员郭宇，28 岁退休之后》
+
+
+
+
+推荐人：Ashley
+
+
+
+
+推荐…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究｜闪电网络简史]]></title>
         <id>https://www.theblockbeats.info/news/31352</id>
@@ -394,95 +473,6 @@ Solana Ventures (下文称「SV」) 提供的 Hackathon 创意和开发人员资
         <link href="https://www.theblockbeats.info/news/31316"/>
         <updated>2022-07-22T02:24:31.000Z</updated>
         <summary type="html"><![CDATA[探讨Web3社交协议：灵魂绑定Token与多种身份解决方案能否共存？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：了解5种流行的NFT投放方式及其优缺点]]></title>
-        <id>https://www.theblockbeats.info/news/31314</id>
-        <link href="https://www.theblockbeats.info/news/31314"/>
-        <updated>2022-07-21T14:02:47.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Bankless：了解 5 种流行的 NFT 投放方式及其优缺点》
-原文作者：William M. Peaster，Bankless
-原文编译：DeFi 之道
-
-
-
-
-今年夏天早些时候，我写了一篇关于 NFT 智能合约方法的入门文章。
-
-
-
-
-在启动一个 NFT 项目时，确定一个基础的智能合约方法已经成功了一半。另一半则来自于决定使用哪种 NFT Drop（投放，一般指一级市场抢购）方式。
-
-
-
-
-当然，可以在各种不同的组合中配置 NFT 合约和 Drop 方式，也完全有可能以各种方式混合不同的 Drop 方式。
-
-
-
-
-而在目前的 NFT 生态系统，有一些是你需要关注的基础 Drop 方式。
-
-
-
-
-流行的 NFT 投放方式
-
-
-
-
-
-
-
-
-
-01 先到先得（FCFS）铸造方式
-
-
-
-
-一种 NFT 投放方式，铸造以「先到先得」的方式对公众或特定的 NFT 社区成员开放。
-
-
-
-
-变体：
- 
-
-
-无许可（Permissionless）——任何人都可以在 FCFS 的基础上进行铸造，示例：Bored Ape Yacht Club。
-
-
-Token门控（Token-gated）——任何持有指定
-
-Token
-
-的人都可以在 FCFS 基础上进行铸币，示例：Blitnauts ，只能由 Blitmap 持有者铸造。
-
-
-基于抽奖——需要使用抽奖系统为 FCFS 铸造分配有限数量的许可名单，示例：Boki 最终销售）
-
-
-价格分级（Price-tiered）——在一个系列中，不同的供应层有不同的铸造价格，例如 NFT ID 0-999 为 0.1 ETH，1000-1999 为 0.2 ETH 等。示例：Hashmasks。
-
-
-
-Hashmasks 铸造层，图片来自 thehashmasks.com
-
-
-
-
-优点： 
-
-
-
-
-对构建者而言，易于实施
-铸造者使用简单方…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
