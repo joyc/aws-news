@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31360",
+          "author": null,
+          "description": "撰文：FFFake\n\n\n作为 DAO 领域发展最久的板块，投资 DAO 一直是 DAO 中最值得被关注的方向，拿到 1kx 等机构、Polygon CEO、CoinGecko 创始人等融资的 GCR DAO 就是其中之一。截至目前，GCR DAO 已经累积进行了 30 多笔投资，覆盖规模超过 80 万美元的种子期融资、超过 500 万美元的流动性挖矿，以及超过 2000 万美元的成长型股权。\n\n\n\n\n7 月 6 日，GCR 刚刚发布了第二季度投资回顾报告，数据亮眼：\n\n\n· 在 2022 年第二季度，GCR 进行了 16 笔投资，部署了 140 多万美元的社区资金。 \n· 社区在第二季度看到了超过 150 个投资机会，其中 55% 是由社区直接带来的。\n· 在第二季度，社区部署资本的首要类别是消费市场和加密货币服务。\n\n\n\n\n接下来，笔者将首先带领大家回顾 GCR DAO 的基本情况，之后再重点聚焦二季度的这 16 笔投资，进行简单的一一介绍。\n\n\n\n\nGCR DAO 简介\n\n\n什么是 GCR DAO?\n\n\n\n\nGCR 是一个研究和投资 DAO，也是一个代币化、去中心化的 web3 的学习者和投资者社区。GCR Token 是社区的原生代币。社区成员可以通过参与活动、做出贡献获得 GRC Token，也可以在 Uniswap 上购买。\n\n\nGCR 成员已经累计进行了 30 多笔投资，覆盖规模超过 80 万美元的种子期融资、超过 500 万美元的流动性挖矿，以及超过 2000 万美元的成长型股权。2022 年 1 月，GCR DAO 宣布获得 120 万美元融资，IDEO CoLab Ventures、1kx、Valhalla Capital、HanDAO 和 GBIC 参与投资，其他投资者包括 Axie Infinity 联合创始人 Jeff Zirlin、YGG 联合创始…",
+          "link": "https://www.theblockbeats.info/news/31360",
+          "publishedOn": "2022-07-25T09:49:38.000Z",
+          "wordCount": null,
+          "title": "知名投资DAO GCR又投了哪16个项目？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31359",
+          "author": null,
+          "description": "原文作者：The DeFi Edge\n原文编译：0x711、0x9F、0x214，BlockBeats\n\n\n\n\n熊市，是积累学习的好时机。加密投资者 The DeFi Edge 在个人社交媒体平台上整理了 10 个值得深入了解的加密研究工具，BlockBeats 对其整理翻译如下：\n\n\n\n\n1. Uniwhale（分析面板）\n\n\n\n\n官网链接：https://uniwhales.io/\n\n\n\n\n我用它来跟踪不同 Layer 1 网络的跨链活动。Polygon 最近关注度很高。我可以用 Uniwhale 查看网络的存取款情况，从而更全面地了解 Layer 1 网络的趋势。\n\n\n\n\n\n\n\n\n\n2. Dune Analytics（分析面板）\n\n\n\n\n官网链接：https://dune.com/home\n\n\n\n\nDune 可让用户将不同的指标可视化为易于理解的图表，从 DeFi 用例到特定 DApp 的所有内容，都可以通过分析面板展示出来。我投资了 GMX，并找到了一个可以帮助我查看重要指标的分析面板。\n\n\n\n\n\n\n\n\n\n3. Crypto Panic（新闻聚合器）\n\n\n\n\n官网链接：https://cryptopanic.com/\n\n\n\n\n这是我除推特外获取大部分加密新闻的地方，可以把它想象成 Reddit 上的加密新闻。新闻数量可能有点多，我会按「重要度」进行排序，以过滤掉信息中的噪音。\n\n\n\n\n\n\n\n\n\n4. Santiment（加密情报处）\n\n\n\n\n官网链接：https://app.santiment.net/\n\n\n\n\nSantiment 可以满足大部分人看盘的需求。Sanbase 允许你将价格与其他因素结合起来，你可以看到价格、开发进展、社交媒体趋势等许多指标。\n\n\n\n\n\n\n5. Nansen（链上分析工具）\n\n\n\n\n官网链接：https://pro.nansen.ai/…",
+          "link": "https://www.theblockbeats.info/news/31359",
+          "publishedOn": "2022-07-25T08:59:16.000Z",
+          "wordCount": null,
+          "title": "10个你必须会用的加密市场工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31356",
+          "author": null,
+          "description": "原文标题：《\n\nzkSync 2.0：你好以太坊！\n\n》\n原文作者：水多多|zkSync\n\n\n我可以把你比作夏日吗？\n你的可扩展性和安全性更高。\n狂风确实震撼了五月亲爱的心灵，\n夏天的租约日期太短了。\n——中本聪莎士比亚，2021\n\n\n介绍\n\n\n面对最大的技术挑战，我们开始在与 EVM 兼容的环境中部署智能合约。测试网的第一个版本已经上线：您已经可以使用区块浏览器查看 zkSync 2.0 上的活动。在这篇文章中，我们将深入解释每个关键组件、提供进度更新以及下一个版本的计划。\n\n\n主要成就\n\n\n在密码学方面，zk EVM 的指令集已经完成，两种实现都完成了：在电路中和在执行环境中。\n\n\n在编译器方面，用 Solidity 和 Zinc 编写的智能合约现在可以编译成 zkEVM 字节码。\n\n\n在核心基础设施方面，全节点集成已完成，能够成功部署和执行已编译的智能合约。\n\n\n虽然 zk EVM 和核心 2.0 基础设施已准备好公开，但编译器需要做更多工作才能正确覆盖所有边缘情况。为了提供更全面的开发者体验，我们决定在编译器 100% 可靠后立即开放对 zkEVM、编译器和核心 SDK 的访问。\n\n\nzkSync 2.0 与以太坊的比较\n\n\n大多数东西看起来和感觉都是一样的。以下是一些重要的区别：\n\n\nSolidity 智能合约\n\n\n支持以太坊中的大多数操作码！但是，也有一些例外：\n\n\n此版本不支持 ADDMOD、SMOD、MULMOD、EXP 和 CREATE2 操作码，但将来会支持。\n\n\n我们暂时不支持 KECCAK256 操作码，而是自动将其所有调用替换为调用另一个抗冲突哈希函数。KECCAK256 稍后将作为预编译器引入。\n\n\n我们决定不包含 SELFDESTRUCT 操作码，因为以太坊计划将其删除。\n\n\n我们可能会删除对完整 256 位 XOR/AND/OR 操作码的支持…",
+          "link": "https://www.theblockbeats.info/news/31356",
+          "publishedOn": "2022-07-25T07:56:38.000Z",
+          "wordCount": null,
+          "title": "深入了解zkSync 2.0架构、核心基础设施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31357",
+          "author": null,
+          "description": "原文标题：《To Use or Hold? Solving the Classic Crypto Conundrum With a Dual Token Model》\n原文作者：达鸿飞，Neo 区块链创始人\n\n\n\n\n双 Token 模型比单一 Token 模型更好吗？虽然主要区块链网络不太可能短时间改变 Token 模型，但这仍是区块链开发人员日益增长兴趣的研究课题。\n\n\n\n\n受到比特币和以太坊青睐的传统单 Token 模型毫无疑问有其优点——流动性高、简单，但只有双 Token 模型才能解决区块链长期存在的经济冲突，即实际使用网络会阻碍网络增长。\n\n\n\n\n一个引发问题的悖论\n\n\n\n\n根本上，所有区块链都有一个共同目标：可靠地记录交易、存储经济价值并促进网络增长。当然，他们以各种方式来实现这些目标，其中一些拥有比其它更强大的隐私保障。但从根本上说，它们朝着同一个方向发展。\n\n\n\n\n目前，绝大多数区块链生态系统都依赖于单一 Token，它反映了项目的价值，同时用作价值存储（类似于股票）、交换媒介（货币）、挖矿奖励以及支付交易费用。问题就在于此。\n\n\n\n\n加密资产的持有者——任何基于 Token 的经济来源——支持该项目并希望它成功。他们购买 Token 是因为他们喜欢技术、信任开发人员并相信项目（及其原生资产）会成功。\n\n\n\n\n然而，如果他们将 Token 花费在 Gas 上——他们会减少在整个项目生态中的股份。相反，如果他们拒绝消耗 Token，他们就会忽略实际使用网络。\n\n\n\n\n这个悖论很容易理解，但很难调和。与货币不同，加密资产有可能随着时间的推移而显著升值，吸引长期储户。从区块链的角度来看，利于建成区块链开发人员努力打造的团结社区，也是一种利好消息。\n\n\n\n\n在积极使用协议（并通过支付 Gas 减少他们的股份）和预期获利并持有 Token 之间的选择是经济和情感上的冲…",
+          "link": "https://www.theblockbeats.info/news/31357",
+          "publishedOn": "2022-07-25T07:53:16.000Z",
+          "wordCount": null,
+          "title": "使用还是持有？双Token模型解决经典加密难题",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31354",
           "author": null,
           "description": "原文标题：《zkSync-100 天内上线主网！》\n原文作者：水多多|zkSync\n\n\n我们非常自豪地宣布，zkSync 2.0 将在 100 天内上线主网\n\n\n将第一个与 EVM 兼容的 zkRollup 投入生产将是一个巨大的成就，我们要感谢我们的开发团队、我们的生态系统合作伙伴和我们的社区，感谢你们的耐心和支持，因为我们已经踏上了为开发者建最棒的第二层解决方案的旅程。\n\n\n这要从我们的使命说起：加速以个人主权为基础的加密货币大规模采用。了解项目的价值观和原则是很重要的，我们愿意与你分享我们的价值观和原则。\n\n\n在 zkSync，我们拥抱：\n\n\n以太坊的精神。\n以太坊无需信任的安全的价值。\n去中心化——为了我们的技术和公司。\n让我们的生态系统合作伙伴拥有选择权的重要性。\n完全开源的力量。\n致力于成为真正的社区所有。\n在不降低安全或权力下放的情况下进行扩展。\n \n除了将我们的价值观灌输到我们所做的一切之外，我们还尽力倾听并创造一个由开发者建立的、为开发者服务的解决方案。我们的目标是为您提供最强大、最值得信赖、最兼容的解决方案，使您的生活更轻松。\n \n为此，以下是 zkSync 2.0 的功能：\n\n \nzkSync 兼容 EVM 和 web3。\n我们支持 Solidity 和 Vyper：不需要重新进行安全审核。\n移植不费吹灰之力：99% 的工具都能开箱即用。\n使用 zkSync，您的项目将继承 Ethereum 的全部安全性。\n您将受益于每秒钟更多的交易和更低的 GAS FEE。\n立即构建 zkSync 2.0，并永久面向未来。\n \n此外，zkSync 3.0 的推出比你想象的要快。\n \n在过去的几年里，zkSync 一直在低头进行研究和开发，以使我们的旅程取得成功。我们知道，我们的社区希望更多地了解我们的路线图，我们的流程，以及与我们互动和提出更多问题。\n \n为此，我们…",
