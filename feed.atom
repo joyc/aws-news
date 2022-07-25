@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-25T12:16:20.319Z</updated>
+    <updated>2022-07-25T18:10:11.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3创始人指南：如何合规的设计Token？]]></title>
+        <id>https://www.theblockbeats.info/news/31358</id>
+        <link href="https://www.theblockbeats.info/news/31358"/>
+        <updated>2022-07-25T14:53:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Web3 创始人指南》
+原文作者：Dane Lund
+原文编译：Block unicorn
+
+
+
+
+
+
+
+
+
+如果您正在考虑发行 Token，那么你正在进入一个不确定的领域。你应该从默认立场开始，你用来为他们的项目筹集资金的任何安排本身就是一种证券。几乎每一种形式的项目启动都是从创始人提出一个好想法开始的，这个想法需要资金来实施。无论创建的资产类型是什么，主动建设者和被动投资者之间的安排、合同或计划 (被动投资者为项目出资，期望获得财务回报) 都是投资合同，根据美国法律，它是一种证券。
+
+
+
+
+融资将产生某种形式的证券的默认立场，你应该考虑是否注册证券或根据豁免筹集资金。在您进入市场筹集资金之前，首先要做的是请一名律师帮助您思考项目的近期和长期目标，以考虑计划中的
+
+Token
+
+发行如何以及在什么时候符合更广泛的计划。与经验丰富的证券律师一起，你应该考虑豁免是否最适合你的长期计划。
+
+
+
+
+在大多数情况下，创始人会选择通过条例 D（私募）从私人来源筹集资金。一些创始人可能想要 Reg A+（小型 IPO）提供的进入公开市场的筹集资金；Reg S（离岸发行）提供离岸发行，与美国断开联系；Reg CF（众筹）需要提供的中介利益；一般来说，Reg D 能够快速筹集资金，可以无限的为项目筹集资金。
+
+
+
+
+通常，创始人将通过 SAFF（SAFF 代表服务和财务框架）协议为传统企业筹集股本，作为融资的一部分，他们将拥有一个
+
+Token
+
+认股权证，允许 SAFF 的投资者在以后购买该传统公司发行的任何
+
+Token
+
+。认股权证通常包含明确声明，澄清不保证公司会发行
+
+Token
+
+。该认股权证规定，如果
+
+Token
+
+发行确实发生，投资者将有能力参与预定义的条款。认证股权与 SAFF 协议一样，通常被视为一种证券。
+
+
+
+
+在融资之后，创始人和资本化公司在律师的持…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知名投资DAO GCR又投了哪16个项目？]]></title>
         <id>https://www.theblockbeats.info/news/31360</id>
@@ -446,160 +508,6 @@ Payment Channel——BTC 代码里的种子  
 之所以说它是现在闪电网络的」种子「，是因为它的理念和 BTC 诞生一样早。在 Bicoin 0.1 版本就包含了支付通道的代码草稿, 即允许用户在交易被网络确认前更新这笔交易。
 
 当然，通过这个代码构建的方案还很初级，不过中本聪后来跟 bitcoinj 开发者 Mike Hearn 私聊了更多支付通道的细节，并且在 2013…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT的AMM让sudoswap做出来了]]></title>
-        <id>https://www.theblockbeats.info/news/31333</id>
-        <link href="https://www.theblockbeats.info/news/31333"/>
-        <updated>2022-07-23T03:28:46.000Z</updated>
-        <summary type="html"><![CDATA[撰文：0xLaughing，律动 BlockBeats
-
-
-
-
-自 2021 年起，NFT 市场创造了无数财富神话，在经历了 NFT SUMMER 井喷式的爆发后，总市值曾一度超过了 368 亿美金。NFT 在社交头像、游戏、音乐、元宇宙、域名等领域的应用场景愈发广泛，相对于 DeFi 来说，NFT 为大众所接受程度更高。
-
-
-
-
-恰恰因为 NFT 的「非同质化」特性，DeFi 市场中的玩法在 NFT 市场中「水土不服」，无法简单套用。作为新晋资本宠儿，NFT 这种数字资产在金融领域的价值亟待开采，首当其冲的便是 NFT 流动性不足的问题。
-
-
-
-
-在买卖 NFT 时，流动性不足的问题出在哪？
-
-
-
-
-暂且不提 NFT 的借贷与租赁来释放流动性，交易者仅从买卖 NFT 上就能感受到与 DeFi 的差异。
-
-
-目前主流的 NFT 交易所如 OpenSea、X2Y2、LooksRare 都是采用订单簿模式来交易：卖家将自己的 NFT 挂单在交易平台上，买家在浏览市场上的挂单后选择性买入；买家提前对一个 NFT 系列挂出报价 offer，卖家选择性接受 offer。
-
-
-
-
-
-NFT 买卖双方报价价差过大
-
-
-
-
-乍一看，这种模式与 Binance、FTX 等中心化交易所买卖加密货币时采用的限价单是十分相似的，而实际上地板价往往代表了卖家认可的最低价值，offer 代表了买家认可的最高价值，由于 NFT 不可分割且单价高（蓝筹 NFT 单价动辄 10E 起步）、数量少（总量 10k 以下最为常见）、稀有度差异（持有者可能主观认为自己的 NFT 更加与众不同），地板价与 offer 价格往往不匹配，交易深度不足，这是在 NFT 市场上的交易时撮合效率低下的主要原因。
-
-
-
-
-这造成了一个坏局面：
-
-
-• 交易者如果想以一个公允价值快速售出 NFT 了结头寸，往往要忍受巨大的滑点损失…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是Layer2，为什么它们很重要？]]></title>
-        <id>https://www.theblockbeats.info/news/31329</id>
-        <link href="https://www.theblockbeats.info/news/31329"/>
-        <updated>2022-07-23T02:07:54.000Z</updated>
-        <summary type="html"><![CDATA[什么是Layer2，为什么它们很重要？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync引入账户抽象、L2 → L1消息传递]]></title>
-        <id>https://www.theblockbeats.info/news/31331</id>
-        <link href="https://www.theblockbeats.info/news/31331"/>
-        <updated>2022-07-23T00:28:46.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《zkSync-引入账户抽象、L2 L1 消息传递等》
-原文作者：水多多|zkSync
-
-
-今天，我们正在推动重大的结构变化，以改善用户体验，提高与以太坊 EVM 的兼容性，并升级 zkSync v2 测试网的性能。
-
-
-你好，账户抽象
-
-
-在这次升级中，我们增加了账户抽象功能，这个功能被认为是「以太坊开发者社区的长期梦想」。帐户抽象的目标是减少帐户类型或具有以太坊（ETH）余额可以发送交易的实体的数量 以太坊目前有两种帐户类型——由私钥控制的帐户和合约帐户。
-
-
-账户抽象转向强制执行单一账户类型，就像合约账户，并将验证签名、gas 支付和重放保护等功能从核心协议中推到 EVM 中，这与今天的以太坊不同，所有交易都必须从 EOA 或由私钥控制的帐户开始 在非常高的层面上，帐户抽象化使我们能够编程授权，通过用例实现更大的钱包和协议设计多样性，包括：
-
-
-- 实施智能合约钱包，以改善私钥存储和恢复的用户体验（例如社交恢复、multisig）
-
-
-- 在 ETH 以外的代币原生支付天然气费用的能力
-
-
-- 帐户更改公钥和私钥的能力
-
-
-- 添加非加密修改，用户可以要求交易有过期时间，确认略微失误，等等
-
-
-- 签名验证系统的多样性，从目前的 ECDSA，包括后量子安全签名算法（例如，Lamport，Winternitz）
-
-
-换句话说，账户抽象化给整个用户体验带来了重大改进，并为开发者扩大了应用设计空间，当涉及到如何使用它时，我们一定会看到上面没有涵盖的许多创造性的使用案例出现。注意：像 Metamask 这样的 AA EOA 账户仍然被 zksync 支持。
-
-
-呼叫第 1 层，L2 -> L1 消息已上线
-
-
-在本次升级之前，开发人员可以将消息从以太坊通信传递给 zkSync v2，但无法将消息从 v2 传递回以太坊。此升级关闭了通信循环，并允许开发人员在 L2 上发生事情时向以太坊发送信息，然后可以对此采取行动。
-
-
-例如，DAO 可以将投票 Token 锁定在 L1 的保险库中，但在费用低得多的 zkSync 上进行投票。一旦投票最终确定，zkSync 可以将结果转发给以太坊，在那里可以对这些信息采取行动。
-
-
-我们增加了对 msg.value 的支持
-
-
-msg.value 是一个交易属性，它定义了一个交易中发送了多少 ETH。鉴于 ETH 是一种特殊的代币类型（不是 ERC20），依赖于这个属性，这意味着 zkSync v2 上的原生 ETH 交易在以前是不可能的，这迫使开发人员对现有的代码库进行修改，利用包装的 ETH 代替。有了这个新增加的功能，原生 ETH 可以在 zkSync v2 上进行交易，开发人员比以往更容易迁移他们的代码库。
-
-
-新的操作码
-
-
-L2 -> L1 消息的添加使我们能够简化协议的接口，并将硬编码操作（例如提款）替换为通用的 L1 <> L2 通信。编译器现在支持以下操作码，使 L1 智能合约迁移到 zkSync 的过程更加顺畅。
-
-
-EXTCODESIZE
-CALLVALUE (msg.value)
-BALANCE
-SELFBALANCE
-
-
-
-EXTCODEHASH
-
-
-我们已经进行了一次重置
-
-
-为了实现这些变化，我们对 zkSync 2.0 测试网进行了重置，这意味着合同必须被重新部署，账户余额和交易的状态也被重置，在主网启动之前，我们将进行另一次重置。
-
-
-内务管理
-
-
-这些升级是开发人员最需要的升级之一，我们很高兴看到他们解锁了哪些独特的应用程序。鉴于测试网的目的是强化我们的系统，可以预料到错误和问题（特别是账户抽象，这应该被认为是一个不稳定的功能，预计在不久的将来会有突破性的变化）。
-
-
-本文来自投稿，不代表律动 BlockBeats 观点。  
-
-
-原文链接
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
