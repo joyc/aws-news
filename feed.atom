@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-26T00:50:04.824Z</updated>
+    <updated>2022-07-26T06:12:11.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[让加密行业真正帮助游戏，PlayFi的全新叙事]]></title>
+        <id>https://www.theblockbeats.info/news/31364</id>
+        <link href="https://www.theblockbeats.info/news/31364"/>
+        <updated>2022-07-26T05:04:57.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《The Future of (Crypto) Gaming》
+原文作者：
+
+Piers Kicks等，
+
+Delphi Digital
+
+
+本文来自微信公众号：老雅痞
+
+
+
+前言
+
+
+
+
+众所周知，大多数游戏玩家都讨厌加密货币。我们已经目睹了社区对 Ubisoft Quartz 等公告的强烈反对，甚至最近的 Dr DisRespect 的 Midnight Society 也是如此。Asmongold、Josh Strife Hayes 等电子游戏评论员对该行业的关注往往有着充分的理由。我们理解这种情绪从何而来，并相信它有理由。最初，我们认为这是由于人们不了解加密货币可以给游戏带来什么好处。随着时间的推移，我们倾听了更多的意见。
+
+
+
+
+经过多次讨论，我们相信浮出水面的许多批评都是有道理的。这不仅仅是针对加密游戏，更广泛地说，是随着时间的推移游戏行业核心盈利实践的演变。在这篇文章中，我们将分享我们的见解，为我们在游戏行业中所处的位置提供历史背景，分享对加密货币进入该领域的一些思考，并为我们认为加密货币在游戏中的位置构建几个模型。特别是，我们将探索由 Brooks Brown 和 NOR 团队开发的名为 PlayFi 的新模型。
+
+
+
+
+为什么是游戏
+
+
+
+
+首先，我们有必要缩小范围并开发一个高层次的框架来理解为什么人们会被游戏吸引。让我们来探索一下魔法圈的概念，这一概念最早由 Johan Huizinga 在其 1938 年的著作《Homo Ludens》中提出，后来由 Katie Salen 和 Eric Zimmerman 在 2003 年的著作《Rules of Play: Fundamentals of Game Design》中扩展到了游戏背景下。
+
+
+
+
+
+
+
+
+
+魔法圈是指现实世界和游戏之间的假想边界。现实往往带有不幸的包袱和限制，是许多人想要逃避…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的NFT可以借出多少资金？两大NFT定价方法论]]></title>
+        <id>https://www.theblockbeats.info/news/31363</id>
+        <link href="https://www.theblockbeats.info/news/31363"/>
+        <updated>2022-07-26T04:04:57.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《NFT 炼金术：定价 Pricing 101》
+原文来源：IOSG 微信公众号
+原文作者：Sally，IOSG Ventures
+原文编译：Olivia，IOSG Ventures
+
+
+tl;dr：
+
+
+NFT 如何定价一直是一个有趣的话题。因为定价是一个不可避免的中间操作，包含着可计算和不可计算的两部分问题，在任何 NFT Fi 的应用场景下都需要解决。想要将 NFT 普遍应用到 DeFi 中，彻底激活 NFT 的流动性，首先我们需要对 NFT 这一资产价值做出尽可能真实且能被广泛接受的估值判断。
+
+
+然而 NFT 由于以下三个方面，难以像传统金融资产一样被简单进行评估计算：
+
+
+1.NFT 非同质化属性所导致其内生的主观性和非流动性；
+
+
+2.NFT 的稀有度相对模煳，并且稀有度和价格水平不完全正相关；
+
+
+3.NFT 价格波动剧烈（受团队和政策问题影响经常发生暴拉和暴跌）。
+
+
+而如果定价机制无法得到很好的解决，那么 NFT 贷款交易等行为往往会因高风险而难以赢得市场信任，进而导致两个问题：
+
+
+缺乏支撑交易池深度的充足流动性；
+
+
+难以构建 NFT 形式的多样化金融衍生品。
+
+
+为了解决这一问题，市场上越来越多 NFT 定价平台和新兴方法正在涌现。在这里我们可以简单将这些定价解决方案分为两类: 
+
+
+同行定价类: 又可细分为 (a) 主体评估定价和 (b) 流动池博弈定价；
+
+
+预言机定价类：又可细分为 (a)TWAP 定价和 (b) 链下计算定价。
+
+
+
+Peer 同行定价
+
+
+
+
+a.Crowds 主体评估定价
+
+
+
+主体评估定价是目前主观性较强的一种定价形式。以 Taker V1 为代表的流动性借贷协议，可以通过将 DAO 的利益与贷款人的利益相结合，以主体评估和投票决策的形式对 NFT 进行白名单划分和定价，从而在一定程度上对贷款人所面临的风险敞…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3创始人指南：如何合规的设计Token？]]></title>
         <id>https://www.theblockbeats.info/news/31358</id>

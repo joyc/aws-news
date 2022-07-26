@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31364",
+          "author": null,
+          "description": "原文标题：《The Future of (Crypto) Gaming》\n原文作者：\n\nPiers Kicks等，\n\nDelphi Digital\n\n\n本文来自微信公众号：老雅痞\n\n\n\n前言\n\n\n\n\n众所周知，大多数游戏玩家都讨厌加密货币。我们已经目睹了社区对 Ubisoft Quartz 等公告的强烈反对，甚至最近的 Dr DisRespect 的 Midnight Society 也是如此。Asmongold、Josh Strife Hayes 等电子游戏评论员对该行业的关注往往有着充分的理由。我们理解这种情绪从何而来，并相信它有理由。最初，我们认为这是由于人们不了解加密货币可以给游戏带来什么好处。随着时间的推移，我们倾听了更多的意见。\n\n\n\n\n经过多次讨论，我们相信浮出水面的许多批评都是有道理的。这不仅仅是针对加密游戏，更广泛地说，是随着时间的推移游戏行业核心盈利实践的演变。在这篇文章中，我们将分享我们的见解，为我们在游戏行业中所处的位置提供历史背景，分享对加密货币进入该领域的一些思考，并为我们认为加密货币在游戏中的位置构建几个模型。特别是，我们将探索由 Brooks Brown 和 NOR 团队开发的名为 PlayFi 的新模型。\n\n\n\n\n为什么是游戏\n\n\n\n\n首先，我们有必要缩小范围并开发一个高层次的框架来理解为什么人们会被游戏吸引。让我们来探索一下魔法圈的概念，这一概念最早由 Johan Huizinga 在其 1938 年的著作《Homo Ludens》中提出，后来由 Katie Salen 和 Eric Zimmerman 在 2003 年的著作《Rules of Play: Fundamentals of Game Design》中扩展到了游戏背景下。\n\n\n\n\n\n\n\n\n\n魔法圈是指现实世界和游戏之间的假想边界。现实往往带有不幸的包袱和限制，是许多人想要逃避…",
+          "link": "https://www.theblockbeats.info/news/31364",
+          "publishedOn": "2022-07-26T05:04:57.000Z",
+          "wordCount": null,
+          "title": "让加密行业真正帮助游戏，PlayFi的全新叙事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31363",
+          "author": null,
+          "description": "原文标题：《NFT 炼金术：定价 Pricing 101》\n原文来源：IOSG 微信公众号\n原文作者：Sally，IOSG Ventures\n原文编译：Olivia，IOSG Ventures\n\n\ntl;dr：\n\n\nNFT 如何定价一直是一个有趣的话题。因为定价是一个不可避免的中间操作，包含着可计算和不可计算的两部分问题，在任何 NFT Fi 的应用场景下都需要解决。想要将 NFT 普遍应用到 DeFi 中，彻底激活 NFT 的流动性，首先我们需要对 NFT 这一资产价值做出尽可能真实且能被广泛接受的估值判断。\n\n\n然而 NFT 由于以下三个方面，难以像传统金融资产一样被简单进行评估计算：\n\n\n1.NFT 非同质化属性所导致其内生的主观性和非流动性；\n\n\n2.NFT 的稀有度相对模煳，并且稀有度和价格水平不完全正相关；\n\n\n3.NFT 价格波动剧烈（受团队和政策问题影响经常发生暴拉和暴跌）。\n\n\n而如果定价机制无法得到很好的解决，那么 NFT 贷款交易等行为往往会因高风险而难以赢得市场信任，进而导致两个问题：\n\n\n缺乏支撑交易池深度的充足流动性；\n\n\n难以构建 NFT 形式的多样化金融衍生品。\n\n\n为了解决这一问题，市场上越来越多 NFT 定价平台和新兴方法正在涌现。在这里我们可以简单将这些定价解决方案分为两类: \n\n\n同行定价类: 又可细分为 (a) 主体评估定价和 (b) 流动池博弈定价；\n\n\n预言机定价类：又可细分为 (a)TWAP 定价和 (b) 链下计算定价。\n\n\n\nPeer 同行定价\n\n\n\n\na.Crowds 主体评估定价\n\n\n\n主体评估定价是目前主观性较强的一种定价形式。以 Taker V1 为代表的流动性借贷协议，可以通过将 DAO 的利益与贷款人的利益相结合，以主体评估和投票决策的形式对 NFT 进行白名单划分和定价，从而在一定程度上对贷款人所面临的风险敞…",
+          "link": "https://www.theblockbeats.info/news/31363",
+          "publishedOn": "2022-07-26T04:04:57.000Z",
+          "wordCount": null,
+          "title": "你的NFT可以借出多少资金？两大NFT定价方法论",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31358",
           "author": null,
           "description": "原文标题：《Web3 创始人指南》\n原文作者：Dane Lund\n原文编译：Block unicorn\n\n\n\n\n\n\n\n\n\n如果您正在考虑发行 Token，那么你正在进入一个不确定的领域。你应该从默认立场开始，你用来为他们的项目筹集资金的任何安排本身就是一种证券。几乎每一种形式的项目启动都是从创始人提出一个好想法开始的，这个想法需要资金来实施。无论创建的资产类型是什么，主动建设者和被动投资者之间的安排、合同或计划 (被动投资者为项目出资，期望获得财务回报) 都是投资合同，根据美国法律，它是一种证券。\n\n\n\n\n融资将产生某种形式的证券的默认立场，你应该考虑是否注册证券或根据豁免筹集资金。在您进入市场筹集资金之前，首先要做的是请一名律师帮助您思考项目的近期和长期目标，以考虑计划中的\n\nToken\n\n发行如何以及在什么时候符合更广泛的计划。与经验丰富的证券律师一起，你应该考虑豁免是否最适合你的长期计划。\n\n\n\n\n在大多数情况下，创始人会选择通过条例 D（私募）从私人来源筹集资金。一些创始人可能想要 Reg A+（小型 IPO）提供的进入公开市场的筹集资金；Reg S（离岸发行）提供离岸发行，与美国断开联系；Reg CF（众筹）需要提供的中介利益；一般来说，Reg D 能够快速筹集资金，可以无限的为项目筹集资金。\n\n\n\n\n通常，创始人将通过 SAFF（SAFF 代表服务和财务框架）协议为传统企业筹集股本，作为融资的一部分，他们将拥有一个\n\nToken\n\n认股权证，允许 SAFF 的投资者在以后购买该传统公司发行的任何\n\nToken\n\n。认股权证通常包含明确声明，澄清不保证公司会发行\n\nToken\n\n。该认股权证规定，如果\n\nToken\n\n发行确实发生，投资者将有能力参与预定义的条款。认证股权与 SAFF 协议一样，通常被视为一种证券。\n\n\n\n\n在融资之后，创始人和资本化公司在律师的持…",
