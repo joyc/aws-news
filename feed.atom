@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-26T06:12:11.804Z</updated>
+    <updated>2022-07-26T12:15:20.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[探究对以太坊TPS造成影响的五个方面]]></title>
+        <id>https://www.theblockbeats.info/news/31366</id>
+        <link href="https://www.theblockbeats.info/news/31366"/>
+        <updated>2022-07-26T09:41:06.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《ETH 交易成本组成》
+原文作者：Xiang，W3.Hitchhiker；修订：Evelyn，W3.Hitchhiker
+
+
+众所周知，以太坊有自己的虚拟机。
+
+
+什么意思呢？
+
+
+就是比特币中的交易长这样：
+
+
+「如果小明的签名验证通过，小明转 10 元钱给小红的地址。」
+
+
+而以太坊中的交易可能长这样：
+
+
+「当小明的签名验证通过并且满足 blablablabla 条件时，将小明账户中的 10 元钱转到小红的账户上。」
+
+
+这其中的 blablablabla 条件，实际上可以是任何逻辑或者任何程序，其中可以有条件判断，可以有循环，这些以太坊都支持。但问题就来了——要是有个不善良的矿工打包了个死循环放在区块里，岂不是能让所有的以太坊节点都死机？
+
+
+为了防止这种事情发生，以太坊中设置了每个区块的 Gas 上限以及每个计算步骤所需要消耗的 Gas 量。
+
+
+我们可以简单粗暴地把 Gas 理解成汽油。比如，一个条件判断需要 10 gas，一个签名验证需要 100 gas，一个状态读写需要 10 gas 等等……然后，每笔交易都需要注明这笔交易需要使用的 Gas（当然，还需要付钱）。比如说，在某笔交易之后，你注明「跑 1000 个 gas 的」，于是，以太坊的节点会执行这笔交易，但是当计算需要消耗的 gas 超过 1000 了，不管交易的步骤执行没执行完都会停下来。
+
+
+于是，死循环不会出现，比如你写了个死循环，但是每次循环会烧 10 gas，而区块的 gas 上限是 10000，你于是最多给这个程序买 10000 的 gas，那么所有节点会执行 1000 次循环，直到把你给的 gas 烧完就停下来，而不会无限循环下去。
+
+
+而这个时候就引出了另一个以太坊和比特币不同的区别：
+
+
+在比特币中，链上最宝贵的资源是空间——因为一个区块大小是 1 M，而平均 10 分钟才…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资DAO的源起、现状与展望]]></title>
+        <id>https://www.theblockbeats.info/news/31367</id>
+        <link href="https://www.theblockbeats.info/news/31367"/>
+        <updated>2022-07-26T09:18:06.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《How the first investment DAOs challenged Venture Capital》
+原文作者：Jan Baeriswyl
+原文编译：TechFlow intern
+
+
+当今有三种 DAO 类型最为活跃：协议 DAO、投资 DAO 和工作/社会 DAO。为了了解 Web3 原生工具的未来，我们需要考虑 DAO 的前景，以及最著名的参与者是谁，他们使用什么工具和框架。所以，在本文中，我们将深入讨论投资 DAO 的使用案例。
+
+
+
+
+投资 DAO 的状况
+
+
+
+
+
+ 投资 DAO 的一个关键动机是「作为一个集体做出更好的投资决策和获得进入更多交易流的机会」。在传统金融中，由于许多问题，通常很难在多个国家/地区进行联合投资：
+
+
+建立复杂的法律结构；
+
+
+协调银行；
+
+
+在世界各地发送经过公证的文件；
+
+
+非常规资产的复杂性，例如基于区块链的 Token。
+
+
+可以说，投资 DAO 的最大优势是消除了全球范围内的行政摩擦。参与者可以通过在 Web3 钱包中的几次点击来加入和提供资金。将资金收集到 DAO 通常比弄清楚如何处理有问题的资金要容易得多，这可以通过以下实例来证明：
+
+
+Original DAO：错误代码分裂了 ETH 社区；
+
+
+Constitution DAO：筹集了近 5000 万美元，尝试购买美国宪法的正式副本。
+
+
+自然，人们对 DAO 工具和框架的兴趣激增，其中安全和现成的组件增加了持有集合资金的智能合约的可信度。最好的工具应该使投资决策和部署的协调变得相对简单和高效。
+
+
+理论上，像 Gnosis Safe 多重签名的可信智能合约取代了对法律合同和银行以及其他繁文缛节的需求。然而，尽管投资 DAO 本身不需要法律结构，但仍需遵守当地的法律和法规。DAO 通常需要一个法律实体，以便遵守法律和法规，并与链外世界互动，做诸…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第十五讲：异常]]></title>
+        <id>https://www.theblockbeats.info/news/31365</id>
+        <link href="https://www.theblockbeats.info/news/31365"/>
+        <updated>2022-07-26T08:18:06.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Solidity 极简入门: 15. 异常
+
+》
+原文作者：0xAA     
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity
+
+
+这一讲，我们介绍 solidity 三种抛出异常的方法：error，require 和 assert，并比较三种方法的 gas 消耗。
+
+
+异常
+
+
+写智能合约经常会出 bug，solidity 中的异常命令帮助我们 debug。
+
+
+Error
+
+
+Error 是 solidity 0.8 版本新加的内容，方便且高效（省 gas）的向用户解释操作失败的原因。人们可以在 contract 之外定义异常。下面，我们定义一个 TransferNotOwner 异常，当用户不是代币 owner 的时候尝试转账，会抛出错误：
+
+
+
+
+
+在执行当中，error 必须搭配 revert（回退）命令使用。  
+
+
+
+
+
+我们定义了一个 transferOwner1() 函数，他会检查代币的 owner 是不是发起人，如果不是，就会抛出 TransferNotOwner 异常；如果是的话，就会转账。
+
+
+Require
+
+
+require 命令是 solidity 0.8 版本之前抛出异常的常用方法，目前很多主流合约仍然还在使用它。他很好用，唯一的缺点就是 gas 随着描述异常的字符串长度增加，比 error 命令要高。使用方法：require(检查条件，」异常的描述」)，当检查条件不成立的时候，就会抛出异常。
+
+
+我们用 require 命令重写一下上面的 transferOwner 函数：
+
+
+
+
+
+Assert
+
+
+assert 命令一般用于程序员写程序 debug，因为他不能解释抛出异常的原因（比 require 少个字符串）。他的用法很简单，assert(检查条件），当检查条件不成立的时候，就会抛出异常。
+
+
+我们用 assert 命令重写一下上面的 transferOwner 函数：
+
+
+
+
+
+三种方法的 gas 比较
+
+
+我们比较一下三种抛出异常的 gas 消耗，方法很简单，部署合约，分别运行写的 transferOwner 函数的三个版本。
+
+
+error 方法 gas 消耗：24445require 方法 gas 消耗：24743assert 方法 gas 消耗：24446
+
+
+我们可以看到，error 方法 gas cost 最少，其次是 assert，require 方法消耗 gas 最多！因此，error 既可以告知用户抛出异常的原因，又能省 gas，大家要多用！
+
+
+总结
+
+
+这一讲，我们介绍 solidity 三种抛出异常的方法：error，require 和 assert，并比较了三种方法的 gas 消耗。结论：error 既可以告知用户抛出异常的原因，又能省 gas。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让加密行业真正帮助游戏，PlayFi的全新叙事]]></title>
         <id>https://www.theblockbeats.info/news/31364</id>
