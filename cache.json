@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31390",
+          "author": null,
+          "description": "原文标题：《Solidity 极简入门: 16. 函数重载\n\n》\n原文作者：0xAA\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity\n\n\n重载\n\n\nsolidity 中允许函数进行重载（overloading），即名字相同但输入参数类型不同的函数可以同时存在，他们被视为不同的函数。注意，solidity 不允许修饰器（modifier）重载。\n\n\n函数重载\n\n\n举个例子，我们可以定义两个都叫 saySomething() 的函数，一个没有任何参数，输出\"Nothing\"；另一个接收一个 string 参数，输出这个 string。\n\n\n\n\n\n实参匹配（Argument Matching）\n\n\n在调用重载函数时，会把输入的实际参数和函数参数的变量类型做匹配。\n\n\n如果出现多个匹配的重载函数，solidity 文档上说会报错。它给的例子是两个叫 f() 的函数，一个参数为 uint8，另一个为 uint256。文档说如果输入 50，既可以被转换为 uint8，也可以被转换为 uint256，因此会报错。但是我没遇到：\n\n\n\n\n\n总结\n\n\n这一讲，我们介绍了 solidity 中函数重载的基本用法：名字相同但输入参数类型不同的函数可以同时存在，他们被视为不同的函数。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31390",
+          "publishedOn": "2022-07-27T00:30:16.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第十六讲：函数重载",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31389",
           "author": null,
           "description": "原文标题：《从社交图谱出发，看看 Web3.0 在做什么？》\n原文来源：LD Capital\n\n\n社交图谱价值\n\n\n\n\n社交图谱是个人之间社会关系的映射，它反映了用户通过各种途径认识的人：家庭成员、工作同事、学校同学等。Facebook CEO 扎克伯格在首届 Facebook F8 开发者大会引入社交图谱这个概念，当时它被用来解释新推出的 Facebook 平台将如何利用个人之间的关系来提供更友好的网络体验。\n\n\n现今，社交图谱已经成为每个社交平台最核心的价值。当用户在社交平台注册登录时，平台会依据用户的注册信息查找可能认识的人，通过推荐您感兴趣的话题了解您的喜好，记录您在这个平台浏览过的所有内容、与他人的互动，并依据这些信息形成以用户为中心的社交图谱。也就是说，这个图谱会包含着您的人际关系、兴趣爱好、生活习惯等，而平台根据这些数据就能大致勾勒出您的用户画像。\n\n\n\n\n\n\n图片采集于网络\n\n\n\n\n那么，这有什么用呢？不妨先来看一组数据：\n\n\n\n\n\n\n图片采集于网络\n\n\n\n\n这是 Facebook 在 2021 年 Q3 发布的财务报告，根据报告显示，过去一年 Facebook 总营收约 2,090 亿美元，其中广告收入 2,050 亿美元，占比已经超过 90%。因为大部分 Web 2.0 应用的核心盈利模式就是通过向用户提供免费服务而获取用户数据，并通过广告商获得广告支付收入。以 Facebook 为例，通过个性化的广告推荐、内容推荐每年可带来数千亿美金的收入，而这些事实上都是以用户行为数据为筹码进行的变现。\n\n\n\n\n漫谈 Web 2.0 社交图谱痛点\n\n\n\n\n\n由于 Web 2.0 应用架构的特性是将所有数据都存储在中心化数据库，所以每个用户在社交平台上形成的社交图谱数据都被平台所属公司控制。并且当用户在注册一款社交应用或者说任意一款应用时，都需要签署《用户服务协议》和…",
@@ -123,16 +133,6 @@
           "publishedOn": "2022-07-25T04:07:20.000Z",
           "wordCount": null,
           "title": "zkSync即将上线主网，读懂zkSync公共路线图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31353",
-          "author": null,
-          "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们将从本期开始，推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过一下方式联系我们。  \n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n以下为本期编辑部内容推荐\n\n\n\n推荐文章:《监管加密货币：一场事关未来权力的战争》\n\n\n\n\n推荐人：crescent（@0xcrescent）\n\n\n\n\n推荐理由：本文从 Facebook 发布 Libra 引入，接着按照时间发展的顺序，缓缓展开在美国加密与监管间的风起云涌。它的本质是商品、是证券，是技术手段、还是隶属金融，大家站在自己的角度各执一词。该文中以明线、暗线两个角度，梳理「加密联盟」的作战策略，你来我往，不停缠斗。面对新事物的逐渐发展完善，监管总不可避免地存在滞后，像文中所述，监管的支持与否，也不过是各方的利益角逐。\n\n\n\n\n\n\n\n推荐文章:《Safe 空投在即，详解 DAO 资金管理工具行业现状》\n\n\n\n\n推荐人：Bob\n\n\n\n\n推荐理由：尝试从机构视角，以十几个维度，了解数字资产管理平台 Safe 所处的 DAO 资金管理工具赛道。\n\n\n\n\n\n推荐文章:《程序员郭宇，28 岁退休之后》\n\n\n\n\n推荐人：Ashley\n\n\n\n\n推荐…",
-          "link": "https://www.theblockbeats.info/news/31353",
-          "publishedOn": "2022-07-24T07:24:07.000Z",
-          "wordCount": null,
-          "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
           "imageUrl": null
         }
       ]

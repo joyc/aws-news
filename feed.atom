@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-26T18:10:05.563Z</updated>
+    <updated>2022-07-27T00:46:07.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第十六讲：函数重载]]></title>
+        <id>https://www.theblockbeats.info/news/31390</id>
+        <link href="https://www.theblockbeats.info/news/31390"/>
+        <updated>2022-07-27T00:30:16.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 16. 函数重载
+
+》
+原文作者：0xAA
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity
+
+
+重载
+
+
+solidity 中允许函数进行重载（overloading），即名字相同但输入参数类型不同的函数可以同时存在，他们被视为不同的函数。注意，solidity 不允许修饰器（modifier）重载。
+
+
+函数重载
+
+
+举个例子，我们可以定义两个都叫 saySomething() 的函数，一个没有任何参数，输出"Nothing"；另一个接收一个 string 参数，输出这个 string。
+
+
+
+
+
+实参匹配（Argument Matching）
+
+
+在调用重载函数时，会把输入的实际参数和函数参数的变量类型做匹配。
+
+
+如果出现多个匹配的重载函数，solidity 文档上说会报错。它给的例子是两个叫 f() 的函数，一个参数为 uint8，另一个为 uint256。文档说如果输入 50，既可以被转换为 uint8，也可以被转换为 uint256，因此会报错。但是我没遇到：
+
+
+
+
+
+总结
+
+
+这一讲，我们介绍了 solidity 中函数重载的基本用法：名字相同但输入参数类型不同的函数可以同时存在，他们被视为不同的函数。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从社交图谱出发，看看Web3.0在做什么？]]></title>
         <id>https://www.theblockbeats.info/news/31389</id>
@@ -750,85 +807,6 @@ zkSync 兼容 EVM 和 web3。
 在过去的几年里，zkSync 一直在低头进行研究和开发，以使我们的旅程取得成功。我们知道，我们的社区希望更多地了解我们的路线图，我们的流程，以及与我们互动和提出更多问题。
  
 为此，我们…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></title>
-        <id>https://www.theblockbeats.info/news/31353</id>
-        <link href="https://www.theblockbeats.info/news/31353"/>
-        <updated>2022-07-24T07:24:07.000Z</updated>
-        <summary type="html"><![CDATA[在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们将从本期开始，推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过一下方式联系我们。  
-
-
-
-
-
-联系我们
-
-
-
-
-
-
-
-
-BlockBeats Twitter：https://twitter.com/BlockBeatsChina
-BlockBeats Discord：https://discord.gg/R9fuWFyrTj
-BlockBeats Telegram：https://t.me/theblockbeatsApp
-BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
-
-
-以下为本期编辑部内容推荐
-
-
-
-推荐文章:《监管加密货币：一场事关未来权力的战争》
-
-
-
-
-推荐人：crescent（@0xcrescent）
-
-
-
-
-推荐理由：本文从 Facebook 发布 Libra 引入，接着按照时间发展的顺序，缓缓展开在美国加密与监管间的风起云涌。它的本质是商品、是证券，是技术手段、还是隶属金融，大家站在自己的角度各执一词。该文中以明线、暗线两个角度，梳理「加密联盟」的作战策略，你来我往，不停缠斗。面对新事物的逐渐发展完善，监管总不可避免地存在滞后，像文中所述，监管的支持与否，也不过是各方的利益角逐。
-
-
-
-
-
-
-
-推荐文章:《Safe 空投在即，详解 DAO 资金管理工具行业现状》
-
-
-
-
-推荐人：Bob
-
-
-
-
-推荐理由：尝试从机构视角，以十几个维度，了解数字资产管理平台 Safe 所处的 DAO 资金管理工具赛道。
-
-
-
-
-
-推荐文章:《程序员郭宇，28 岁退休之后》
-
-
-
-
-推荐人：Ashley
-
-
-
-
-推荐…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
