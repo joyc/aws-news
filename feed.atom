@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-27T00:46:07.699Z</updated>
+    <updated>2022-07-27T06:10:48.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年第31周融资精选：1.3亿美元注入资产管理赛道]]></title>
+        <id>https://www.theblockbeats.info/news/31394</id>
+        <link href="https://www.theblockbeats.info/news/31394"/>
+        <updated>2022-07-27T03:45:06.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：0x137，BlockBeats
+
+
+
+
+据 BlockBeats 统计，上周融资总数为 26 笔，总金额超 3 亿美元，平均融资金额为 1367 万美元。其中，共 9 笔融资超 1 千万美元，总计约 2.5 亿美元，占上周融资总额的 83.72%。去除该部分融资后，上周平均融资金额为 436 万美元。
+
+
+
+
+下图为上周各板块融资占比：
+
+
+
+
+
+
+
+
+
+元宇宙/GameFi
+
+
+
+
+在元宇宙/GameFi 领域共计 7 笔融资，总金额 6605 万美元，占上周融资总额的 21.97%。当前的 GameFi 发展呈现出两条路径：一是专注于「X2Earn」模式的开发，主要有 Toekn 模型和种类的探索，以及 Earn 模型和种类的探索。二是专注于完整游戏产业链的开发，主要集中于电竞领域。上周值得关注的三个项目中，就分别覆盖了这些不同的路径。
+
+
+
+
+ZEBEDEE
+
+
+
+
+关注理由：基于比特币的「Play2Earn」是否更加具有可持续性？
+
+
+
+
+
+
+
+
+
+BlockBeats 消息，7 月 19 日，比特币游戏应用 ZEBEDEE 完成 3500 万美元 B 轮融资，Kingsway Capital 领投，The Raine Group、Square Enix、Initial Capital 等参投。
+
+
+
+
+ZEBEDEE 是一家专注于游戏的金融支付服务提供商，为游戏开发商搭建基于比特币闪电网络的支付基础设施，旨在利用区块链技术和加密资产改变游戏玩家的收入模式。通过 ZEBEDEE，玩家可以在 CS:GO 比赛中击杀敌手，或在超级马里奥中捡到金币时收获比特币资产，实现「Play 2 Earn Bitcoin」。
+
+
+
+
+ZEBEDEE 分别为游戏玩家和开发者创建了不同的平台。
+
+
+
+
+针对玩家的主要平台是：移动端和网页插件版 App，用于发现并游玩在 App…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity极简入门｜第十六讲：函数重载]]></title>
         <id>https://www.theblockbeats.info/news/31390</id>
