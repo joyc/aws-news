@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31421",
+          "author": null,
+          "description": "原文来源：@cryptoalvatar推特\n原文编译：0x711，BlockBeats\n\n\n\nAptos 和 Sui 是近期市场讨论度很高的两大公链，其原因不仅在于这两个均来自 Facebook 的团队都拿了高融资额，更在于他们都使用了 Move 编程语言对协议进行搭建。\n\n\n区块链开发者 @cryptoalvatar 在其社交网站对这两大公链从技术开发角度进行了对比，BlockBeats 翻译整理如下。\n\n\n\n\nMove 语言\n\n\nAptos 和 Sui 都使用了他们自己的 Move 语言衍生版本，这有助于并行执行。它是 Rust 风格的，具有静态强制和严格的资源所有权规则和形式验证。\n\n\nSui 版本的 Move 引入了一些修改，最明显的是所有权 API。它更干净，也更清晰地展示了区块链设计。但是库（libraries）的开发感觉不如 Aptos。\n\n\n架构\n\n\nSui 使用基于 DAG 的内存池（Narwhal）+ Tusk 共识算法。然后在执行层利用 DAG 进行并行化（酷！）。与 Avalanche (Snowman++) 相比，在并行化方面它尚未释放 DAG 的全部功能。\n\n\nSui 版本的 Move 对对象的独有/共享及可变/不可变状态非常明确。这实现了直观的编程模型。此外，它使 Sui 能够使用可靠广播 (FastPay) 进行非共享对象交易，例如支付。\n\n\nAptos 使用 BlockSTM，它是高性能 HotStuff 算法的演进，并通过动态检测依赖关系和调度执行任务来引入并行化（灵感来自软件交易内存）。\n\n\n很难说哪一个会在实践中表现更好，但我看好的是 Sui。Aptos 在优化当前设计方面已经做得很好，而 Sui 似乎还有更多空间。双路径实现拜占庭共识也让 Sui 占了上风。\n\n\n可扩展性\n\n\n值得注意的是，两条链都没有针对 home 验证者案例和大规模去中心化进行优化，而是归入了「最大化网络容量」阵营（即像 Solana 一样）。状态（State）增长可能是瓶颈。\n\n\nSui 通过高效的存储分片来解决这个问题，专注于横向扩展资源。另一方面，Aptos 更加强调支持异构验证器（受限 CPU 和/或受限存储）。我喜欢 Sui 的做法。\n\n\n开发者体验\n\n\n它们都处于相似的发展阶段，Aptos 有点领先。设置系统花费的时间比实际码代码 (我也恰好使用 NixOS）还要多。学习语言和环境也需要一些反复试验。\n\n\n部署到 devnet 在这两种情况下都有些麻烦。幸运的是，单元测试库非常有用。\n\n\n最糟糕的部分是晦涩难懂的编译器报错，以及毫无意义的 devnet 错误响应。这些应该马上解决。\n\n\n个人建议\n\n\n如果从头学习，我会推荐以下内容：\n\n\n\n\n2. 然后，直接转到您正在使用的分支中的框架源代码（用于学习和作为文档）。\n\n\n\n\n\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31421",
+          "publishedOn": "2022-07-28T03:59:35.000Z",
+          "wordCount": null,
+          "title": "Aptos VS Sui，两大公链新贵对比谁更有优势？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31420",
+          "author": null,
+          "description": "原文标题：《DAO 的合规挑战，以及案例分析》\n原文来源：Shawn，SeeDao、BanklessDao等贡献者\n\n\nFWB、BanklessDAO、GitcoinDAO、Mirror DAO 等等，这些顶流 DAO，目前都在探索如何解决合规问题。\n\n\n\n\n1. 为啥 DAO 要有个法律实体？\n\n\n\n\n\n2022 年，各个 DAO 纷纷成立法律实体。先是 ENS DAO 在开曼群岛成立了非营利组织：ENS 基金会。接着 GitcoinDAO 发起了提案，说学习 ENS，也在开曼群岛成立 Gitcoin 基金会。SushiSwap、ApeCoin 紧随其后。\n\n\nDAO 如果没有法律实体，不受任何国家监管，岂不快哉？\n\n\nGitcoinDAO 发文，比较全面地解释了该问题：\n\n\n1>有了 Gitcoin 基金会，$GTC 持有者只需要对 DAO 的行为承担有限责任；如果没有法律实体，$GTC 持有者个人将承担无限责任；\n2>税务考虑。如果没有法律实体，$GTC 持有者个人可能需要为 DAO 的收入纳税，即使这些收入属于 DAO 金库，并未分配给个人。\n3>签合同。DAO 难免要跟其他公司合作，没有法律实体，如何签合同？如何持有知识产权？如何解决贡献者的医保问题？\n\n\n\n\n\n\n\n\n\n\n\n\n\n2. DAO 都有法律实体吗？\n\n\n到开曼群岛成立一个基金会，对一些顶流 DAO 是举手之劳，但现实如何？\n\n\nFWB 在 2021 年 10 月拿到 a16z 1000 万美元投资后，找了顶级的律所，推进注册实体。但是直至今天，仍然没有完成。最新的说法是，正在努力为 FWB DAO 搭建 UNA（Unincorporated Non-Profit Associate）架构。在第四节，会介绍 UNA 的利弊。\n\n\nBanklessDAO 目前也没有法律实体，最早讨论过，要成立 LLC，但是…",
+          "link": "https://www.theblockbeats.info/news/31420",
+          "publishedOn": "2022-07-28T03:24:35.000Z",
+          "wordCount": null,
+          "title": "DAO的合规挑战，以及案例分析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31401",
+          "author": null,
+          "description": "原文标题：《\n\n以太坊合并在即，回顾 8 年前的众筹数据以及目前供应占比情况\n\n》\n原文作者：Kyle Waters、Nate Maddrey 和 Matas Andrade，\n\nCoin Metrics\n原文编译：DeFi 之道编译\n\n\n编者注：V 神在巴黎的 EthCC 会议上透露，以太坊的开发人员正在开展五个长期阶段，旨在提高网络的整体能力。议程上的第一个项目是「合并」（The Merge），该项目已完成 90%，只需要在 Ropsten 上进行测试。一旦「合并」成功发生，验证者就能提取他们锁定在 ETH 2.0 存款合约中的 ETH。\n \n8 年前的以太坊众筹\n \n经过多年的测试、研究和开发，人们对以太坊计划通过合并（The Merge）转为股权证明（PoS）的潜在时间表感到兴奋。这次合并可以说是以太坊历史上最大的协议级改变，它取消了挖矿并引入了一个验证者系统，验证者将质押他们的 ETH，以通过创建和验证新区块来赚取奖励。\n\n\n\n跟踪 ETH 供应继续引起关注，因为 ETH 持有量直接决定了用户参与 PoS 的能力。同时，转向 PoS 也将引入新的 ETH 发行模式，并影响 ETH 的货币政策。然而，为了更好地了解以太坊当前的供应情况，观察者需要回到以太坊网络推出前一年，即 2014 年 7 月 22 日 至 2014 年 9 月 2 日的关键时期：ETH 众筹。 \n\n\n\n本文将通过 Coin Metrics 的 ATLAS 数据对 ETH 众筹的情况进行数据回顾。在回顾销售背后数据的同时，也检查了当前的创世账户（那些参与众筹的人）。\n\n\n\n背景介绍\n\n\n\n加密货币应该如何进行初始分配？多年来，这个问题一直是争论不休的根源。现在有许多初始发行模型，对早期采用者和贡献者的奖励数量不同，导致供应分配存在明显差异。\n\n\n\n对于比特币，中本聪在 2009 年发布第一版比特币…",
+          "link": "https://www.theblockbeats.info/news/31401",
+          "publishedOn": "2022-07-28T02:07:35.000Z",
+          "wordCount": null,
+          "title": "以太坊即将开启合并新旅程，回顾8年前的众筹路",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31402",
           "author": null,
           "description": "撰文：Cookie，律动Blockbeats\n\n\n7 月的 NFT 市场会让人联想到这样的场景：\n\n\n\n\n「冬日，持续的寒风凛冽、大雪纷飞后，耀眼的阳光乍现，人们渴望着温暖而涌出...」\n\n\n\n\n\n\n\n从成交量上看，进入 7 月以来，NFT 市场依然低迷。\n\n\n\n\n\n\n\n\n\n\n\n\n\n但这寒冷的低迷中，依然有一些项目的表现引人瞩目。它们无法逆转熊市趋势，但打破了市场的沉闷，开启了一波以「Free Mint」为主题的小主线行情，犹如不够温暖却足够耀眼的冬日阳光：\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n律动 BlockBeats 曾对 God Hates NFTees 与 WZRDS 进行了详细的分析，有兴趣的朋友可以回顾以下文章：\n\n\n\n\nGod Hates NFTs 靠「抄袭」4 天封神\n3 小时翻 25 倍，WZRDS 在挑起一场「内战」\n\n\n\n\n\n\n\n有史以来最受欢迎的 NFT 项目之一 CryptoPunks 正是以「Free Mint」的形式在 2017 年 6 月推出，这多少会使「Free Mint」在近期的流行给人一种「回光返照」的感觉。如果说 CryptoPunks 出生于 NFT 早期的「冰河时代」，那么如今则是「现代冬天」——信心不足的熊市里，不「Free Mint」，真的很难成功。\n\n\n「长周期」项目遇冷\n\n\n\n市场的不景气令不少投资者进入了不活跃状态，剩下的投资者也不再愿意花费 Gas 费以外的金钱以押注「长周期」的 NFT 项目——「贩卖梦想？还是向我们展示你们能快速做到什么吧，否则我们连 Gas 费也不会掏」。\n\n\n\n\n「品牌养成」与「元宇宙基建」这两张「大饼」，现在不好卖了。\n\n\n\n\n\n\n\nThe Possessed 已是近期表现不俗的「品牌养成」类 PFP 项目。通过超发白名单，它们最终在 0.25 - 0.35 ETH 的价格范围内成功卖掉了全部 100…",
@@ -133,66 +163,6 @@
           "publishedOn": "2022-07-26T04:04:57.000Z",
           "wordCount": null,
           "title": "你的NFT可以借出多少资金？两大NFT定价方法论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31358",
-          "author": null,
-          "description": "原文标题：《Web3 创始人指南》\n原文作者：Dane Lund\n原文编译：Block unicorn\n\n\n\n\n\n\n\n\n\n如果您正在考虑发行 Token，那么你正在进入一个不确定的领域。你应该从默认立场开始，你用来为他们的项目筹集资金的任何安排本身就是一种证券。几乎每一种形式的项目启动都是从创始人提出一个好想法开始的，这个想法需要资金来实施。无论创建的资产类型是什么，主动建设者和被动投资者之间的安排、合同或计划 (被动投资者为项目出资，期望获得财务回报) 都是投资合同，根据美国法律，它是一种证券。\n\n\n\n\n融资将产生某种形式的证券的默认立场，你应该考虑是否注册证券或根据豁免筹集资金。在您进入市场筹集资金之前，首先要做的是请一名律师帮助您思考项目的近期和长期目标，以考虑计划中的\n\nToken\n\n发行如何以及在什么时候符合更广泛的计划。与经验丰富的证券律师一起，你应该考虑豁免是否最适合你的长期计划。\n\n\n\n\n在大多数情况下，创始人会选择通过条例 D（私募）从私人来源筹集资金。一些创始人可能想要 Reg A+（小型 IPO）提供的进入公开市场的筹集资金；Reg S（离岸发行）提供离岸发行，与美国断开联系；Reg CF（众筹）需要提供的中介利益；一般来说，Reg D 能够快速筹集资金，可以无限的为项目筹集资金。\n\n\n\n\n通常，创始人将通过 SAFF（SAFF 代表服务和财务框架）协议为传统企业筹集股本，作为融资的一部分，他们将拥有一个\n\nToken\n\n认股权证，允许 SAFF 的投资者在以后购买该传统公司发行的任何\n\nToken\n\n。认股权证通常包含明确声明，澄清不保证公司会发行\n\nToken\n\n。该认股权证规定，如果\n\nToken\n\n发行确实发生，投资者将有能力参与预定义的条款。认证股权与 SAFF 协议一样，通常被视为一种证券。\n\n\n\n\n在融资之后，创始人和资本化公司在律师的持…",
-          "link": "https://www.theblockbeats.info/news/31358",
-          "publishedOn": "2022-07-25T14:53:01.000Z",
-          "wordCount": null,
-          "title": "Web3创始人指南：如何合规的设计Token？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31360",
-          "author": null,
-          "description": "撰文：FFFake\n\n\n作为 DAO 领域发展最久的板块，投资 DAO 一直是 DAO 中最值得被关注的方向，拿到 1kx 等机构、Polygon CEO、CoinGecko 创始人等融资的 GCR DAO 就是其中之一。截至目前，GCR DAO 已经累积进行了 30 多笔投资，覆盖规模超过 80 万美元的种子期融资、超过 500 万美元的流动性挖矿，以及超过 2000 万美元的成长型股权。\n\n\n\n\n7 月 6 日，GCR 刚刚发布了第二季度投资回顾报告，数据亮眼：\n\n\n· 在 2022 年第二季度，GCR 进行了 16 笔投资，部署了 140 多万美元的社区资金。 \n· 社区在第二季度看到了超过 150 个投资机会，其中 55% 是由社区直接带来的。\n· 在第二季度，社区部署资本的首要类别是消费市场和加密货币服务。\n\n\n\n\n接下来，笔者将首先带领大家回顾 GCR DAO 的基本情况，之后再重点聚焦二季度的这 16 笔投资，进行简单的一一介绍。\n\n\n\n\nGCR DAO 简介\n\n\n什么是 GCR DAO?\n\n\n\n\nGCR 是一个研究和投资 DAO，也是一个代币化、去中心化的 web3 的学习者和投资者社区。GCR Token 是社区的原生代币。社区成员可以通过参与活动、做出贡献获得 GRC Token，也可以在 Uniswap 上购买。\n\n\nGCR 成员已经累计进行了 30 多笔投资，覆盖规模超过 80 万美元的种子期融资、超过 500 万美元的流动性挖矿，以及超过 2000 万美元的成长型股权。2022 年 1 月，GCR DAO 宣布获得 120 万美元融资，IDEO CoLab Ventures、1kx、Valhalla Capital、HanDAO 和 GBIC 参与投资，其他投资者包括 Axie Infinity 联合创始人 Jeff Zirlin、YGG 联合创始…",
-          "link": "https://www.theblockbeats.info/news/31360",
-          "publishedOn": "2022-07-25T09:49:38.000Z",
-          "wordCount": null,
-          "title": "知名投资DAO GCR又投了哪16个项目？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31359",
-          "author": null,
-          "description": "原文作者：The DeFi Edge\n原文编译：0x711、0x9F、0x214，BlockBeats\n\n\n\n\n熊市，是积累学习的好时机。加密投资者 The DeFi Edge 在个人社交媒体平台上整理了 10 个值得深入了解的加密研究工具，BlockBeats 对其整理翻译如下：\n\n\n\n\n1. Uniwhale（分析面板）\n\n\n\n\n官网链接：https://uniwhales.io/\n\n\n\n\n我用它来跟踪不同 Layer 1 网络的跨链活动。Polygon 最近关注度很高。我可以用 Uniwhale 查看网络的存取款情况，从而更全面地了解 Layer 1 网络的趋势。\n\n\n\n\n\n\n\n\n\n2. Dune Analytics（分析面板）\n\n\n\n\n官网链接：https://dune.com/home\n\n\n\n\nDune 可让用户将不同的指标可视化为易于理解的图表，从 DeFi 用例到特定 DApp 的所有内容，都可以通过分析面板展示出来。我投资了 GMX，并找到了一个可以帮助我查看重要指标的分析面板。\n\n\n\n\n\n\n\n\n\n3. Crypto Panic（新闻聚合器）\n\n\n\n\n官网链接：https://cryptopanic.com/\n\n\n\n\n这是我除推特外获取大部分加密新闻的地方，可以把它想象成 Reddit 上的加密新闻。新闻数量可能有点多，我会按「重要度」进行排序，以过滤掉信息中的噪音。\n\n\n\n\n\n\n\n\n\n4. Santiment（加密情报处）\n\n\n\n\n官网链接：https://app.santiment.net/\n\n\n\n\nSantiment 可以满足大部分人看盘的需求。Sanbase 允许你将价格与其他因素结合起来，你可以看到价格、开发进展、社交媒体趋势等许多指标。\n\n\n\n\n\n\n5. Nansen（链上分析工具）\n\n\n\n\n官网链接：https://pro.nansen.ai/…",
-          "link": "https://www.theblockbeats.info/news/31359",
-          "publishedOn": "2022-07-25T08:59:16.000Z",
-          "wordCount": null,
-          "title": "10个你必须会用的加密市场工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31356",
-          "author": null,
-          "description": "原文标题：《\n\nzkSync 2.0：你好以太坊！\n\n》\n原文作者：水多多|zkSync\n\n\n我可以把你比作夏日吗？\n你的可扩展性和安全性更高。\n狂风确实震撼了五月亲爱的心灵，\n夏天的租约日期太短了。\n——中本聪莎士比亚，2021\n\n\n介绍\n\n\n面对最大的技术挑战，我们开始在与 EVM 兼容的环境中部署智能合约。测试网的第一个版本已经上线：您已经可以使用区块浏览器查看 zkSync 2.0 上的活动。在这篇文章中，我们将深入解释每个关键组件、提供进度更新以及下一个版本的计划。\n\n\n主要成就\n\n\n在密码学方面，zk EVM 的指令集已经完成，两种实现都完成了：在电路中和在执行环境中。\n\n\n在编译器方面，用 Solidity 和 Zinc 编写的智能合约现在可以编译成 zkEVM 字节码。\n\n\n在核心基础设施方面，全节点集成已完成，能够成功部署和执行已编译的智能合约。\n\n\n虽然 zk EVM 和核心 2.0 基础设施已准备好公开，但编译器需要做更多工作才能正确覆盖所有边缘情况。为了提供更全面的开发者体验，我们决定在编译器 100% 可靠后立即开放对 zkEVM、编译器和核心 SDK 的访问。\n\n\nzkSync 2.0 与以太坊的比较\n\n\n大多数东西看起来和感觉都是一样的。以下是一些重要的区别：\n\n\nSolidity 智能合约\n\n\n支持以太坊中的大多数操作码！但是，也有一些例外：\n\n\n此版本不支持 ADDMOD、SMOD、MULMOD、EXP 和 CREATE2 操作码，但将来会支持。\n\n\n我们暂时不支持 KECCAK256 操作码，而是自动将其所有调用替换为调用另一个抗冲突哈希函数。KECCAK256 稍后将作为预编译器引入。\n\n\n我们决定不包含 SELFDESTRUCT 操作码，因为以太坊计划将其删除。\n\n\n我们可能会删除对完整 256 位 XOR/AND/OR 操作码的支持…",
-          "link": "https://www.theblockbeats.info/news/31356",
-          "publishedOn": "2022-07-25T07:56:38.000Z",
-          "wordCount": null,
-          "title": "深入了解zkSync 2.0架构、核心基础设施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31357",
-          "author": null,
-          "description": "原文标题：《To Use or Hold? Solving the Classic Crypto Conundrum With a Dual Token Model》\n原文作者：达鸿飞，Neo 区块链创始人\n\n\n\n\n双 Token 模型比单一 Token 模型更好吗？虽然主要区块链网络不太可能短时间改变 Token 模型，但这仍是区块链开发人员日益增长兴趣的研究课题。\n\n\n\n\n受到比特币和以太坊青睐的传统单 Token 模型毫无疑问有其优点——流动性高、简单，但只有双 Token 模型才能解决区块链长期存在的经济冲突，即实际使用网络会阻碍网络增长。\n\n\n\n\n一个引发问题的悖论\n\n\n\n\n根本上，所有区块链都有一个共同目标：可靠地记录交易、存储经济价值并促进网络增长。当然，他们以各种方式来实现这些目标，其中一些拥有比其它更强大的隐私保障。但从根本上说，它们朝着同一个方向发展。\n\n\n\n\n目前，绝大多数区块链生态系统都依赖于单一 Token，它反映了项目的价值，同时用作价值存储（类似于股票）、交换媒介（货币）、挖矿奖励以及支付交易费用。问题就在于此。\n\n\n\n\n加密资产的持有者——任何基于 Token 的经济来源——支持该项目并希望它成功。他们购买 Token 是因为他们喜欢技术、信任开发人员并相信项目（及其原生资产）会成功。\n\n\n\n\n然而，如果他们将 Token 花费在 Gas 上——他们会减少在整个项目生态中的股份。相反，如果他们拒绝消耗 Token，他们就会忽略实际使用网络。\n\n\n\n\n这个悖论很容易理解，但很难调和。与货币不同，加密资产有可能随着时间的推移而显著升值，吸引长期储户。从区块链的角度来看，利于建成区块链开发人员努力打造的团结社区，也是一种利好消息。\n\n\n\n\n在积极使用协议（并通过支付 Gas 减少他们的股份）和预期获利并持有 Token 之间的选择是经济和情感上的冲…",
-          "link": "https://www.theblockbeats.info/news/31357",
-          "publishedOn": "2022-07-25T07:53:16.000Z",
-          "wordCount": null,
-          "title": "使用还是持有？双Token模型解决经典加密难题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31354",
-          "author": null,
-          "description": "原文标题：《zkSync-100 天内上线主网！》\n原文作者：水多多|zkSync\n\n\n我们非常自豪地宣布，zkSync 2.0 将在 100 天内上线主网\n\n\n将第一个与 EVM 兼容的 zkRollup 投入生产将是一个巨大的成就，我们要感谢我们的开发团队、我们的生态系统合作伙伴和我们的社区，感谢你们的耐心和支持，因为我们已经踏上了为开发者建最棒的第二层解决方案的旅程。\n\n\n这要从我们的使命说起：加速以个人主权为基础的加密货币大规模采用。了解项目的价值观和原则是很重要的，我们愿意与你分享我们的价值观和原则。\n\n\n在 zkSync，我们拥抱：\n\n\n以太坊的精神。\n以太坊无需信任的安全的价值。\n去中心化——为了我们的技术和公司。\n让我们的生态系统合作伙伴拥有选择权的重要性。\n完全开源的力量。\n致力于成为真正的社区所有。\n在不降低安全或权力下放的情况下进行扩展。\n \n除了将我们的价值观灌输到我们所做的一切之外，我们还尽力倾听并创造一个由开发者建立的、为开发者服务的解决方案。我们的目标是为您提供最强大、最值得信赖、最兼容的解决方案，使您的生活更轻松。\n \n为此，以下是 zkSync 2.0 的功能：\n\n \nzkSync 兼容 EVM 和 web3。\n我们支持 Solidity 和 Vyper：不需要重新进行安全审核。\n移植不费吹灰之力：99% 的工具都能开箱即用。\n使用 zkSync，您的项目将继承 Ethereum 的全部安全性。\n您将受益于每秒钟更多的交易和更低的 GAS FEE。\n立即构建 zkSync 2.0，并永久面向未来。\n \n此外，zkSync 3.0 的推出比你想象的要快。\n \n在过去的几年里，zkSync 一直在低头进行研究和开发，以使我们的旅程取得成功。我们知道，我们的社区希望更多地了解我们的路线图，我们的流程，以及与我们互动和提出更多问题。\n \n为此，我们…",
-          "link": "https://www.theblockbeats.info/news/31354",
-          "publishedOn": "2022-07-25T04:07:20.000Z",
-          "wordCount": null,
-          "title": "zkSync即将上线主网，读懂zkSync公共路线图",
           "imageUrl": null
         }
       ]
