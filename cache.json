@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31429",
+          "author": null,
+          "description": "原文标题：《以太坊的 Rollup Race：什么是「真正的」zkEVM？》\n原文来源：Sage D. Young\n原文编译：水多多|zkSync\n\n\n上周，来自 Scroll、Matter Labs 和 Polygon 的三个公告都有一个共同点：每家公司都暗示它将是第一个将 zkEVM 推向市场的公司。\nzkEVM 是一种虚拟机，它以与零知识证明计算兼容的方式执行智能合约。这是构建与 EVM 兼容的 ZK Rollup 的关键，并且保留经过多年使用 Solidity 获得的经过实战测试的代码和知识。\n\n\n阅读更多：与 EVM 兼容的 ZK Rollups 的突然兴起\n\n\nzkEVMs 都向往同一个目标：创造一种感觉就像使用以太坊的第 1 层区块链一样的 ZK Rollups体验。这意味着开发人员应该能够在不更改代码和放弃他们习惯使用的 EVM（以太坊虚拟机）工具的情况下移植他们现有的智能合约。\n\n\nEVM，不是一个特定的硬件或软件，更好地理解为规则、标准和软件包的组合。当在运行类似软件的不同计算机之间共享时，这套共享标准会合并成一个网络（以太坊就是这样一个网络，尽管许多其他区块链网络也采用了 EVM 的版本）。\n\n\n但是，怎么可能三个公司都声称是「第一个」创建 zkEVM 的呢？答案归结为他们每个人如何定义创建真正的 zkEVM 的含义。\n\n\nzkEVMs\n\n\n我们不会在本文中解释所有不同类型的汇总。有关这方面的更多信息——包括 Optimistic rollups 和此处讨论的更高级 ZK rollups 之间的区别——你可以阅读有效点数和 CoinDesk 的第 2 层解释器。\n\n\n到目前为止，零知识汇总仅应用于少数用例——例如在地址之间发送代币或交易不可替代代币 ( NFT )。zkEVMs——旨在支持任何以太坊智能合约的零知识汇总——预计直到最近还需要「数年时间」…",
+          "link": "https://www.theblockbeats.info/news/31429",
+          "publishedOn": "2022-07-28T14:40:14.000Z",
+          "wordCount": null,
+          "title": "以太坊的Rollup Race：什么是「真正的」zkEVM？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31428",
           "author": null,
           "description": "原文标题：《\n\n几个关于 ETH Merge、ETC 迁徙的技术细节和背后原因\n\n》\n原文来源：\n\n@0xTodd, Nothing Research 合伙人\n\n\n\n首先，ETH 具备分叉的条件么？\n\n\n基本不具备，因为 ETH 网络的价值不仅仅是 Ether 这个币，更多是它上面的 token。如果保留 PoW 分叉，只能说新 Ether 币可能还有点价值，但是 USDT、USDC 等基本不值钱了，因为如果你是 Tether 或 Circle，你肯定选择跟 V 神走。\n \nMerge 的过程是什么样的？\n\n\n如果粗暴地划分，ETH 可以分为两层：共识层和执行层。前者类似于企业中的领导，后者类似于企业中的员工。空降一批新领导（PoS 节点），大换血掉之前的老领导（PoW 矿工节点），但是员工（EVM）还是之前的员工，因为它们只负责执行。所以，作为用户，你感觉不到有什么区别。\n \n那么如果 PoW 拒不升级客户端怎么样？\n\n\n有人可能会问，老领导占着办公室不走怎么办？参考人民公仆里瓦夏上一任总统就是赖着不走。难度炸弹就是解决这个问题的，理论上，如果 PoW 拒不升级客户端，那么 ETH PoW 链会变得原来越难挖，从现在 13 秒一个块，逐渐增加到数十秒，上百秒。\n \n挖得慢会怎么样？\n\n\n那么大家都知道，分布式系统中，最长链是合法链。有难度炸弹的情况下，老客户端是跑不赢新客户端的。PoS ETH 标准 12 秒一个块，固定的，所以 TPS 也略有上升。\n \n那么老 PoW 矿工升级到新客户端硬挖不行么？\n\n\n不行，因为 ETH 的区块里原来有个字段叫「ommers」，这个字段是被调成 0 了。另外原来的 difficulty 字段被改成 random 了。意思是以后没有区块难度了，区块只随机在验证者中产生。\n\n\n\n\n\n稍等，这个随机产生是怎么产生的？\n\n\n你存 32 个 E…",
@@ -203,26 +213,6 @@
           "publishedOn": "2022-07-26T08:18:06.000Z",
           "wordCount": null,
           "title": "Solidity极简入门｜第十五讲：异常",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31364",
-          "author": null,
-          "description": "原文标题：《The Future of (Crypto) Gaming》\n原文作者：\n\nPiers Kicks等，\n\nDelphi Digital\n\n\n本文来自微信公众号：老雅痞\n\n\n\n前言\n\n\n\n\n众所周知，大多数游戏玩家都讨厌加密货币。我们已经目睹了社区对 Ubisoft Quartz 等公告的强烈反对，甚至最近的 Dr DisRespect 的 Midnight Society 也是如此。Asmongold、Josh Strife Hayes 等电子游戏评论员对该行业的关注往往有着充分的理由。我们理解这种情绪从何而来，并相信它有理由。最初，我们认为这是由于人们不了解加密货币可以给游戏带来什么好处。随着时间的推移，我们倾听了更多的意见。\n\n\n\n\n经过多次讨论，我们相信浮出水面的许多批评都是有道理的。这不仅仅是针对加密游戏，更广泛地说，是随着时间的推移游戏行业核心盈利实践的演变。在这篇文章中，我们将分享我们的见解，为我们在游戏行业中所处的位置提供历史背景，分享对加密货币进入该领域的一些思考，并为我们认为加密货币在游戏中的位置构建几个模型。特别是，我们将探索由 Brooks Brown 和 NOR 团队开发的名为 PlayFi 的新模型。\n\n\n\n\n为什么是游戏\n\n\n\n\n首先，我们有必要缩小范围并开发一个高层次的框架来理解为什么人们会被游戏吸引。让我们来探索一下魔法圈的概念，这一概念最早由 Johan Huizinga 在其 1938 年的著作《Homo Ludens》中提出，后来由 Katie Salen 和 Eric Zimmerman 在 2003 年的著作《Rules of Play: Fundamentals of Game Design》中扩展到了游戏背景下。\n\n\n\n\n\n\n\n\n\n魔法圈是指现实世界和游戏之间的假想边界。现实往往带有不幸的包袱和限制，是许多人想要逃避…",
-          "link": "https://www.theblockbeats.info/news/31364",
-          "publishedOn": "2022-07-26T05:04:57.000Z",
-          "wordCount": null,
-          "title": "让加密行业真正帮助游戏，PlayFi的全新叙事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31363",
-          "author": null,
-          "description": "原文标题：《NFT 炼金术：定价 Pricing 101》\n原文来源：IOSG 微信公众号\n原文作者：Sally，IOSG Ventures\n原文编译：Olivia，IOSG Ventures\n\n\ntl;dr：\n\n\nNFT 如何定价一直是一个有趣的话题。因为定价是一个不可避免的中间操作，包含着可计算和不可计算的两部分问题，在任何 NFT Fi 的应用场景下都需要解决。想要将 NFT 普遍应用到 DeFi 中，彻底激活 NFT 的流动性，首先我们需要对 NFT 这一资产价值做出尽可能真实且能被广泛接受的估值判断。\n\n\n然而 NFT 由于以下三个方面，难以像传统金融资产一样被简单进行评估计算：\n\n\n1.NFT 非同质化属性所导致其内生的主观性和非流动性；\n\n\n2.NFT 的稀有度相对模煳，并且稀有度和价格水平不完全正相关；\n\n\n3.NFT 价格波动剧烈（受团队和政策问题影响经常发生暴拉和暴跌）。\n\n\n而如果定价机制无法得到很好的解决，那么 NFT 贷款交易等行为往往会因高风险而难以赢得市场信任，进而导致两个问题：\n\n\n缺乏支撑交易池深度的充足流动性；\n\n\n难以构建 NFT 形式的多样化金融衍生品。\n\n\n为了解决这一问题，市场上越来越多 NFT 定价平台和新兴方法正在涌现。在这里我们可以简单将这些定价解决方案分为两类: \n\n\n同行定价类: 又可细分为 (a) 主体评估定价和 (b) 流动池博弈定价；\n\n\n预言机定价类：又可细分为 (a)TWAP 定价和 (b) 链下计算定价。\n\n\n\nPeer 同行定价\n\n\n\n\na.Crowds 主体评估定价\n\n\n\n主体评估定价是目前主观性较强的一种定价形式。以 Taker V1 为代表的流动性借贷协议，可以通过将 DAO 的利益与贷款人的利益相结合，以主体评估和投票决策的形式对 NFT 进行白名单划分和定价，从而在一定程度上对贷款人所面临的风险敞…",
-          "link": "https://www.theblockbeats.info/news/31363",
-          "publishedOn": "2022-07-26T04:04:57.000Z",
-          "wordCount": null,
-          "title": "你的NFT可以借出多少资金？两大NFT定价方法论",
           "imageUrl": null
         }
       ]
