@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31428",
+          "author": null,
+          "description": "原文标题：《\n\n几个关于 ETH Merge、ETC 迁徙的技术细节和背后原因\n\n》\n原文来源：\n\n@0xTodd, Nothing Research 合伙人\n\n\n\n首先，ETH 具备分叉的条件么？\n\n\n基本不具备，因为 ETH 网络的价值不仅仅是 Ether 这个币，更多是它上面的 token。如果保留 PoW 分叉，只能说新 Ether 币可能还有点价值，但是 USDT、USDC 等基本不值钱了，因为如果你是 Tether 或 Circle，你肯定选择跟 V 神走。\n \nMerge 的过程是什么样的？\n\n\n如果粗暴地划分，ETH 可以分为两层：共识层和执行层。前者类似于企业中的领导，后者类似于企业中的员工。空降一批新领导（PoS 节点），大换血掉之前的老领导（PoW 矿工节点），但是员工（EVM）还是之前的员工，因为它们只负责执行。所以，作为用户，你感觉不到有什么区别。\n \n那么如果 PoW 拒不升级客户端怎么样？\n\n\n有人可能会问，老领导占着办公室不走怎么办？参考人民公仆里瓦夏上一任总统就是赖着不走。难度炸弹就是解决这个问题的，理论上，如果 PoW 拒不升级客户端，那么 ETH PoW 链会变得原来越难挖，从现在 13 秒一个块，逐渐增加到数十秒，上百秒。\n \n挖得慢会怎么样？\n\n\n那么大家都知道，分布式系统中，最长链是合法链。有难度炸弹的情况下，老客户端是跑不赢新客户端的。PoS ETH 标准 12 秒一个块，固定的，所以 TPS 也略有上升。\n \n那么老 PoW 矿工升级到新客户端硬挖不行么？\n\n\n不行，因为 ETH 的区块里原来有个字段叫「ommers」，这个字段是被调成 0 了。另外原来的 difficulty 字段被改成 random 了。意思是以后没有区块难度了，区块只随机在验证者中产生。\n\n\n\n\n\n稍等，这个随机产生是怎么产生的？\n\n\n你存 32 个 E…",
+          "link": "https://www.theblockbeats.info/news/31428",
+          "publishedOn": "2022-07-28T09:57:28.000Z",
+          "wordCount": null,
+          "title": "关于ETH Merge、ETC迁徙的技术细节和背后原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31427",
+          "author": null,
+          "description": "撰文：FYJ & 0x711 & czgsws，BlockBeats\n\n\n\n关于以太坊分叉的讨论愈发火热，合并日期临近，超 800T 矿工算力归属全网关注。不少人已经开始酝酿尝试分叉以太坊，预计以太坊历史上第二次社区分叉大概率会发生。\n\n\n\n\n二级市场也在炒作以太坊分叉的概念，凌晨因美联储偏鸽的发言导致加密资产大涨，其中，LDO 和 ETC 这两个 ETH2.0 龙头与分叉龙头概念项目领涨市场，不难看出市场对 ETH 分叉概念的偏好。BlockBeats 整理了分叉概念相关项目，NFA，主要分为 ETH2.0 和 ETH 分叉两部分。\n\n\n\n\nETH 2.0 概念\n\n\nLDO（Lido）与 RPL（Rocket Pool）\n\n\n\n\n\nLido，以太坊流动性质押龙头，以当前 400 余万枚的 ETH 质押量占据市场 90.4% 的份额，其协议设计简洁明了，存入 ETH 即可 1:1 得到 stETH，作为权益衍生资产，后者在 Curve 上拥有不错的流动性。\n\n\n\n\nRocket Pool，专注于以太坊的流动性质押协议，相比于 Lido 全链扩张的打法，Rocket Pool 只做以太坊。二者最主要的区别在于，Lido 的底层验证者由 Lido DAO 选出，而任何人只要存入 16 ETH(即以太坊协议规定的 32 ETH 要求的一半) 就可以成为 Rocket Pool 的节点运营者，相应地，需质押一定数目的 RPL 以保证节点正常运行。\n\n\n\n\n机制设计上说，LDO 的 Utility 只有治理作用，实用价值难以量化；而 RPL 作为参与网络的门槛，理应更有市场需求。但 Lido 上线于 2020 年 11 月，比 Rocket Pool 早了 11 个月，天下武功，唯快不破。我们不试图从道理上追问谁的设计更好，本周的反弹中，孰强孰弱，市场已给出答案。\n\n\n\n\n\n\n\nss…",
+          "link": "https://www.theblockbeats.info/news/31427",
+          "publishedOn": "2022-07-28T09:48:28.000Z",
+          "wordCount": null,
+          "title": "ETC、LDO暴涨，还有哪些以太坊分叉概念项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31425",
+          "author": null,
+          "description": "原文标题：《以太坊 2.0 升级在即，大批矿工资源将如何安置？》\n原文来源：Caduceus\n\n\n\n\n元宇宙强调的是面向虚实融合的沉浸式交互体验。而在元宇宙的浪潮中，赋能性的底层技术是推动这一浪潮的中流砥柱，也将成为这一浪潮是否能够实现的关键。无论是 3D、交互式数字内容、AI 生成艺术、全息影像等新一代媒体内容，还是元宇宙理念中多人共享、实时互动的沉浸式世界，都需要大量的算力和逼真的图形渲染技术的支持，元宇宙将具有人类历史上最高的算力要求。\n\n\n\n\n\n边缘计算与高效渲染成为构建元宇宙创新基底\n\n\n区块链+边缘计算作为元宇宙的整体算力底座，已经成为元宇宙基础设施的核心需求，其关键是打破云、网络的边界，在基础架构、底层设施和资源调度等方面趋于一体化。通过优质的边缘节点、全域分布式的网络带宽以及多种异构算力资源，提供更低时延的网络接入能力、更优化的网络带宽成本、丰富的异构算力资源和智能调度，满足元宇宙应用场景中对渲染算力的需求，带来更极致的互动体验。\n\n\n \n而元宇宙虚拟体验想要更加真实逼真，同样离不开渲染技术。目前市场上主流的渲染实现技术有三种：光栅化、光线投射、光线追踪，这三种方式都需要大量的算力去计算光线和物体相交的仿真效果。除了高质量的渲染效果，还需保证用户的实时交互体验，因此需要同时具有高性能、低时延的算力诉求。边缘计算可以在更靠近用户的位置，为业务提供通用、高性能、低时延的异构算力资源，加速业务渲染效率。\n\n\n \n据数据显示，2020-2030 年全球元宇宙市场规模由 879 亿美元增长到 63906 亿美元，在这当中，2022 年全球元宇宙市场规模预计将达到 2800 亿美元。虽然元宇宙热门话题不断，但市场真正需要的是既能成全自身发展、又能引领元宇宙趋势的创新者，而这创新的背后，离不开边缘计算全域分布式异构算力和高效渲染服务的支持。\n\n\n \n去中心化边缘渲染元宇宙…",
+          "link": "https://www.theblockbeats.info/news/31425",
+          "publishedOn": "2022-07-28T08:20:28.000Z",
+          "wordCount": null,
+          "title": "Caduceus：可以GPU挖矿的元宇宙协议 | 项目介绍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31426",
+          "author": null,
+          "description": "原文标题：《STARKNET ALPHA》\n原文作者：Anthony Beaumont，Encode Club联创\n原文编译：TechFlow inter\n\n\n\n\n\n\n上周，Encode Club 在巴黎举办了为期 2 天的 StarkNet 黑客马拉松活动，一共有 150 位开发者和 30 个项目，来看看在这次活动中，有哪些项目进入了决赛以及有哪些项目赢得了奖项。\n\n\n\n\n\nScafford-stark\n\n\n进入了决赛并且拿到了总冠军。与在以太坊建立的 Austin Griffith 类似，它是一个可分叉的开发技术堆栈，用于调试 Starknet 智能合约并实现快速原型设计。\nGithub 地址：https://github.com/parketh/scaffold-stark\n\n\nGyoza\n\n\n由两名学生建立，是来自 Aspect 的获胜者，它是 Chrome 的扩展程序，用于在 Aspect 的市场中添加评论。\nGithub 地址：https://github.com/0x1-company/gyoza\n\n\nBurner Wallet \n\n\nJavascript 钱包，用于从移动和 Web 应用程序与 Starknet 进行交互，并赢得了 Ledger、StarkWare 和 Argent 的奖品，它的团队成员仅有 4 人。\nGithub 地址：https://github.com/dontpanicdao/starknet-burner/\n\n\nDAOrdinate\n\n\n由一个 3 人团队打造的位置证明社交应用，它被 StarkWare 官方选入决赛。\nGithub 地址：https://github.com/Daordinate\n\n\nzkLend\n\n\nL2 货币市场协议，同时也是一个决赛圈项目，他们构建了一个符合 EIP-712 标准的账户合约。\nGithub 地址：https://github.com/zkLend/paris-hackathon-2022\n\n\nD/CM\n\n\n由 5 人团队建立的 DAO 贡献者市场，它能够在 DAO 和贡献者和之间建立联系，以实现 DAO 的某些任务和目标。它也被评委选进了决赛。\nGithub 地址：https://github.com/vomira/dao-upwork\n\n\nSNS \n\n\nStarknet 的域名服务，相当于 Starknet 的 ENS，SNS 域名可以在 Aspect 等 NFT 市场的二级市场上进行买卖。此项目赢得了多个奖项。\nGithub 地址：https://github.com/Starkware-Naming-Service/cairo-contracts\n\n\nODAx \n\n\nStarknet 上的链上 DEX 聚合器。\nGithub 地址：https://github.com/henri-npx/ODAx\n\n\nHubble \n\n\n链上路由器，它收集所有现有的 AMM 对并搜索最佳路径以执行交换。这个协议由 KryptoSphere 的一个 2 人团队构建。\nGithub 地址：https://github.com/msaug/hubble\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31426",
+          "publishedOn": "2022-07-28T08:20:28.000Z",
+          "wordCount": null,
+          "title": "9个新项目，StarkNet黑客松获奖项目一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31423",
+          "author": null,
+          "description": "原文标题：《The REAL use cases of NFTs: A Visual Exploration》\n原文作者：shivsakhuja @Magik Labs \n原文编译：比得潘\n\n\n\n\n\n\n你听说过技术成熟度曲线吗，又称为 Gartner 炒作周期。\n\n\n\n\n1995 年，Gartner 咨询公司根据其分析预测与推论，将各种新技术的成熟演变速度及要达到成熟所需的时间，分为了 5 个阶段：技术诞生早期、达到过高期望的膨胀期、泡沫幻灭的低谷期、稳步爬升期和技术实质应用阶段。\n\n\n\n\n同样，NFT 也适用于这一曲线，或许它比想象中的更重要，Magik Labs 联合创始人、前谷歌工程师 shivsak 因此对正在构建的 NFT 的真实用例进行了可视化探索，并在个人社交媒体上阐述了其将用于哪些领域，BlockBeats 对其整理翻译如下：\n\n\n\n\n\n1）技术触发阶段：潜在颠覆性技术的出现；\n2）达到预期膨胀的高峰：早期的过度宣传，为未经市场验证的技术创造了炒作条件；\n\n\n\n\n对应的，在 2021 年的 NFT 炒作泡沫中，Beeple 以 6900 万美元的价格出售了他的一幅名为《Everydays: the First 5000 Days》的 NFT 画作。另一方面，NBATopShot 也在同年售出了数亿美元的数字视频收藏瞬间，这些都逐渐将 NFT 的投机炒作推向了顶峰。\n\n\n\n\n3）幻灭低谷期：早期项目未能兑现承诺，公众开始对此失去兴趣；\n\n\n\n\n目前，OpenSea 上 NFT 的交易额和交易数量从峰值下降了 90-95%。因此，shivsak 认为加密货币和 NFT 可能正处于这个幻灭的低谷附近。\n\n\n\n4）技术的爬升启蒙期：该项技术慢慢开始展示成功的案例，并获得真正的采用；\n5）大规模应用阶段：更广泛的市场应用成功，市场契合度非常明确。在这里，我们将看到主流…",
+          "link": "https://www.theblockbeats.info/news/31423",
+          "publishedOn": "2022-07-28T07:20:28.000Z",
+          "wordCount": null,
+          "title": "前 Google 工程师告诉你，NFT 可用于哪15个领域",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31424",
+          "author": null,
+          "description": "原文作者：Trace, Figment Capital\n原文编译：Noc、0x214, BlockBeats\n\n\n随着Aptos、Sui这些超新公链的关注度提升，这些公链使用的Move编程语言也愈发吃香。社交媒体有人透露，现在Move语言的开发者时薪已经高达1200美元。但Move语言的优势是什么？BlockBeats整理了 Figment Capital 在社交媒体的观点。\n\n\nMove 编程语言是什么？\n\n\n\n\nMove 是一种新型编程语言，是 Meta 公司为其 Diem 项目 开发的一种安全可靠的智能合约语言。\n\n\n\n\n\n为什么需要一种新的编程语言？\n\n\n\n\nSolidity 和 EVM 存在缺陷并不是什么秘密，大量的漏洞难以保障以太坊智能合约的安全。具体可见下文《Solidity 的 16 个漏洞及其修复方式》。\n\n\n\n\n这些问题非常严重，在部署自己的代码之前，开发人员可能需要耗费大量时间和金钱进行代码审计。启动前，他们还会设有临时防护进行额外的保护。只有这样才能保证代码没有漏洞。\n\n\n\n\n如果智能合约代码无需交互、开源，并且可以控制价值数亿美元的资产，那么其语言应该为提高安全性而不断优化。它应该使开发人员可以轻松缩小其真实想法与代码实际执行起来之间的距离。\n\n\n\n\n更安全\n\n\n安全是 Move 最显著的特性，Move 语言是为安全的智能合约而设计的。像 Rust 一样也具有内存安全性：防止悬空引用，为不可变引用提供参考透明度，并防止内存泄漏。这些特性大大降低了 Move 代码受到攻击的概率。\n\n\n\n\nMove 还有一个名为「Move Prover」的正式验证器，此工具允许开发者验证他们的代码是否完全按照预期执行。该验证器运行速度飞快，开发人员可以在几分钟内运行测试，使他们能够快速迭代他们的代码。\n\n\n不仅更安全，也更具表现力\n\n\n\n\nMove 不像 solidity 那样将数字资产永久锁定在 HashMap 中，而是允许用户为自定义构建的数字对象定制其专属类型。\n\n\n\n\n然后，这些对象可以通过作为参数传入和由函数返回的方式流经智能合约。\n\n\n\n\n对于动态 NFT 项目和加密货币游戏来说，这种直观的设计让关于数字对象的编程十分容易。\n\n\n\n\n所以 Move 更安全，也有更好的数据模型。\n\n\n\n\n由 Move 构建的 Sui 和 Aptos\n\n\n\n\n将于 2022/23 年启动的 Sui 和 Aptos 是两条最受关注的公链，二者都由 Move 语言构建。这两个项目都是由 Diem 前团队成员创立的，均以「有史以来最高性能公链」为目标而设计。\n\n\n\n\n例如，Sui 可以仅仅在一台 Macbook Pro 上实现每秒 120,000 次的 Token 转移。这条公链几乎能够瞬时处理 Token 转移，复杂的交易也能在几秒钟内完成。Sui 区块链支持一般的计算，但 Mysten 团队特别专注于游戏和 DeFi 应用。\n\n\n\n\n Aptos 是一条类似的高性能公链，也是由 Diem 团队成员构建。Aptos Labs 近期以 20 亿美元估值完成了 1.5 亿美元 A 轮融资。这两个团队都得到了世界范围内知名加密货币和传统风投机构的支持。\n\n\n\n\nSui 和 Aptos 预计在未来几个月推出其公共测试网和主网，预计 Move 语言会因此引发更多关注。\n\n\n\n\n\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31424",
+          "publishedOn": "2022-07-28T07:20:28.000Z",
+          "wordCount": null,
+          "title": "开发者时薪1200美元？新公链都用的Move语言究竟好在哪儿?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31421",
           "author": null,
           "description": "原文来源：@cryptoalvatar推特\n原文编译：0x711，BlockBeats\n\n\n\nAptos 和 Sui 是近期市场讨论度很高的两大公链，其原因不仅在于这两个均来自 Facebook 的团队都拿了高融资额，更在于他们都使用了 Move 编程语言对协议进行搭建。\n\n\n区块链开发者 @cryptoalvatar 在其社交网站对这两大公链从技术开发角度进行了对比，BlockBeats 翻译整理如下。\n\n\n\n\nMove 语言\n\n\nAptos 和 Sui 都使用了他们自己的 Move 语言衍生版本，这有助于并行执行。它是 Rust 风格的，具有静态强制和严格的资源所有权规则和形式验证。\n\n\nSui 版本的 Move 引入了一些修改，最明显的是所有权 API。它更干净，也更清晰地展示了区块链设计。但是库（libraries）的开发感觉不如 Aptos。\n\n\n架构\n\n\nSui 使用基于 DAG 的内存池（Narwhal）+ Tusk 共识算法。然后在执行层利用 DAG 进行并行化（酷！）。与 Avalanche (Snowman++) 相比，在并行化方面它尚未释放 DAG 的全部功能。\n\n\nSui 版本的 Move 对对象的独有/共享及可变/不可变状态非常明确。这实现了直观的编程模型。此外，它使 Sui 能够使用可靠广播 (FastPay) 进行非共享对象交易，例如支付。\n\n\nAptos 使用 BlockSTM，它是高性能 HotStuff 算法的演进，并通过动态检测依赖关系和调度执行任务来引入并行化（灵感来自软件交易内存）。\n\n\n很难说哪一个会在实践中表现更好，但我看好的是 Sui。Aptos 在优化当前设计方面已经做得很好，而 Sui 似乎还有更多空间。双路径实现拜占庭共识也让 Sui 占了上风。\n\n\n可扩展性\n\n\n值得注意的是，两条链都没有针对 home 验证者案例和大规模去中心化进行优化，而是归入了「最大化网络容量」阵营（即像 Solana 一样）。状态（State）增长可能是瓶颈。\n\n\nSui 通过高效的存储分片来解决这个问题，专注于横向扩展资源。另一方面，Aptos 更加强调支持异构验证器（受限 CPU 和/或受限存储）。我喜欢 Sui 的做法。\n\n\n开发者体验\n\n\n它们都处于相似的发展阶段，Aptos 有点领先。设置系统花费的时间比实际码代码 (我也恰好使用 NixOS）还要多。学习语言和环境也需要一些反复试验。\n\n\n部署到 devnet 在这两种情况下都有些麻烦。幸运的是，单元测试库非常有用。\n\n\n最糟糕的部分是晦涩难懂的编译器报错，以及毫无意义的 devnet 错误响应。这些应该马上解决。\n\n\n个人建议\n\n\n如果从头学习，我会推荐以下内容：\n\n\n\n\n2. 然后，直接转到您正在使用的分支中的框架源代码（用于学习和作为文档）。\n\n\n\n\n\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
