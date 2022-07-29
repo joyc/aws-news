@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-29T12:16:13.512Z</updated>
+    <updated>2022-07-29T18:10:25.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[哪些DeFi协议在这轮熊市中实现了盈利？]]></title>
+        <id>https://www.theblockbeats.info/news/31438</id>
+        <link href="https://www.theblockbeats.info/news/31438"/>
+        <updated>2022-07-29T14:23:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《六大蓝筹 DeFi 协议熊市盈利能力分析，仅有一个实现盈利》
+原文作者：Ben Giove，Bankless 分析师  
+原文编译：DeFi 之道 
+
+
+如今，初创公司在早期阶段不断优化增长已成为实现发展的标准。
+
+
+
+他们忘记盈利能力，而是完全专注于获得强大的产品市场契合度。
+
+
+
+这是一个久经考验的策略，已经帮助建立了一些世界上最大的 web2 公司。
+
+
+
+这就是 alpha。对于 DeFi 协议来说，同样如此。
+
+
+
+今天，DeFi 协议专注于获得用户、流动性以及它需要的任何其他东西。而且由于 DeFi 项目控制着自己的「钱」，它们可以依靠诸如 Token 释放之类的巧妙技巧来产生短期吸引力。
+
+
+
+但这种模式可持续吗？
+
+
+
+这种使用是否只是被
+
+Token
+
+激励所掩盖？
+
+
+
+用户真的愿意为协议提供的服务付费吗？
+
+
+
+DeFi 协议能不能盈利？
+
+
+
+在这篇文章中，Bankless 分析师 Ben Giove 通过深入研究六大 DeFi 协议（Uniswap、Aave、Compound、Maker、Lido 和 Maple）来回答这个问题，并评估它们的盈利之路。
+
+
+
+
+ 
+哪些 DeFi 协议在这轮熊市中实现了盈利？
+
+ 
+介绍
+ 
+2022 年熊市的一个决定性主题是越来越关注加密的所有方向的基本面，尤其是 DeFi。
+
+
+
+随着价格的下降，肆意的消费习惯和缺乏可持续的商业模式已经成为人们关注的焦点。尽管许多蓝筹 DeFi 协议因其产生收入的能力而受到称赞，但人们对它们是否真正盈利的关注却较少。
+
+
+
+让我们来看看过去六个月中 Uniswap、Aave、Compound、Maker、Maple 和 Lido 六种市场领先的蓝筹 DeFi 协议的盈利能力，并深入探讨更广泛的影响。
+ 
+定义盈利能力
+ 
+在开始我们的分析之前，重要的是要定义一个协议…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Haun Ventures：不是所有的 Web3 项目都需要完全去中心化]]></title>
         <id>https://www.theblockbeats.info/news/31434</id>
@@ -989,175 +1067,6 @@ Verified：交易的区块已在 L1 智能合约上得到证明和验证。
 
 
 
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊分叉倒计时]]></title>
-        <id>https://www.theblockbeats.info/news/31395</id>
-        <link href="https://www.theblockbeats.info/news/31395"/>
-        <updated>2022-07-27T05:47:19.000Z</updated>
-        <summary type="html"><![CDATA[引言
-
-
-最近关于以太坊分叉的声音又多了不少，毕竟合并日期基本确定，全网 800 多 T 的算力归属仍是疑问，甚至比特大陆前几天还在升级自己的以太坊矿机。
-
-
-洋洋访谈微博晒出了老一代比特币玩家郭宏才在社群中关于分叉的发言，似乎已经认定了以太坊一定会分叉，言语中透露了这是一个大概率事件。有意思的是，郭宏才早已远离市场视线，这次看起来是有备而来。相信不止他一个，一定还有其他人尝试利用这次难得的机会，策划召集矿工算力分叉。
-
-
-上一次全网关注的分叉，还是 BCH 和 BSV 的算力之争，但那是比特币。以太坊如果真的分叉，看的不是算力，而是资产。作为全球第一大应用链，ETH 的主动权早已转移到了资产方，他们才是决定性的关键。
-
-
-这是 BlockBeats 在去年 12 月的一篇文章，讨论的内容并不过时，希望可以帮助读者理解以太坊社区正在发生的事情。
-
-
-
-
-任何人看到「以太坊 2.0」这个词，都会认为这是以太坊的升级版，这也确实是以太坊原本的规划。就像《钢铁侠 2》一定是关于钢铁侠的续集。但或许，在一部分人看来，以太坊 2.0 不是续集那么简单。
-
-
-「它其实是另一个新项目。」以太坊重度参与者 T 哥说，「不是以前的以太坊了。」
-
-
-这样的观点，与当前的市场情绪，并不一致。
-
-
-2020 年的倒数第 5 周绝对会在加密货币领域未来的复盘中被一遍又一遍提及，在这一周内，市值第一的比特币刷新了自己的历史最高点，市值第二的以太坊也正式开启了自己的下一个新阶段——以太坊 2.0 第 0 阶段。
-
-
-「以太坊 2.0 上线还挺快。」这是关于此次升级最一致的看法。以太坊升级的不准时众所周知，第 0 阶段原本大家预计的都是明年，没想到这么快就启动了。
-
-
-时间上的提前为市场情绪带来了不少信心，第 0 阶段设置了 52.4 万个 ETH 抵押的启动门槛，满足要求才能上线。随着 ETH 价格上涨…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年第31周融资精选：1.3亿美元注入资产管理赛道]]></title>
-        <id>https://www.theblockbeats.info/news/31394</id>
-        <link href="https://www.theblockbeats.info/news/31394"/>
-        <updated>2022-07-27T03:45:06.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：0x137，BlockBeats
-
-
-
-
-据 BlockBeats 统计，上周融资总数为 26 笔，总金额超 3 亿美元，平均融资金额为 1367 万美元。其中，共 9 笔融资超 1 千万美元，总计约 2.5 亿美元，占上周融资总额的 83.72%。去除该部分融资后，上周平均融资金额为 436 万美元。
-
-
-
-
-下图为上周各板块融资占比：
-
-
-
-
-
-
-
-
-
-元宇宙/GameFi
-
-
-
-
-在元宇宙/GameFi 领域共计 7 笔融资，总金额 6605 万美元，占上周融资总额的 21.97%。当前的 GameFi 发展呈现出两条路径：一是专注于「X2Earn」模式的开发，主要有 Toekn 模型和种类的探索，以及 Earn 模型和种类的探索。二是专注于完整游戏产业链的开发，主要集中于电竞领域。上周值得关注的三个项目中，就分别覆盖了这些不同的路径。
-
-
-
-
-ZEBEDEE
-
-
-
-
-关注理由：基于比特币的「Play2Earn」是否更加具有可持续性？
-
-
-
-
-
-
-
-
-
-BlockBeats 消息，7 月 19 日，比特币游戏应用 ZEBEDEE 完成 3500 万美元 B 轮融资，Kingsway Capital 领投，The Raine Group、Square Enix、Initial Capital 等参投。
-
-
-
-
-ZEBEDEE 是一家专注于游戏的金融支付服务提供商，为游戏开发商搭建基于比特币闪电网络的支付基础设施，旨在利用区块链技术和加密资产改变游戏玩家的收入模式。通过 ZEBEDEE，玩家可以在 CS:GO 比赛中击杀敌手，或在超级马里奥中捡到金币时收获比特币资产，实现「Play 2 Earn Bitcoin」。
-
-
-
-
-ZEBEDEE 分别为游戏玩家和开发者创建了不同的平台。
-
-
-
-
-针对玩家的主要平台是：移动端和网页插件版 App，用于发现并游玩在 App…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第十六讲：函数重载]]></title>
-        <id>https://www.theblockbeats.info/news/31390</id>
-        <link href="https://www.theblockbeats.info/news/31390"/>
-        <updated>2022-07-27T00:30:16.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 16. 函数重载
-
-》
-原文作者：0xAA
-
-
-我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
-
-
-所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity
-
-
-重载
-
-
-solidity 中允许函数进行重载（overloading），即名字相同但输入参数类型不同的函数可以同时存在，他们被视为不同的函数。注意，solidity 不允许修饰器（modifier）重载。
-
-
-函数重载
-
-
-举个例子，我们可以定义两个都叫 saySomething() 的函数，一个没有任何参数，输出"Nothing"；另一个接收一个 string 参数，输出这个 string。
-
-
-
-
-
-实参匹配（Argument Matching）
-
-
-在调用重载函数时，会把输入的实际参数和函数参数的变量类型做匹配。
-
-
-如果出现多个匹配的重载函数，solidity 文档上说会报错。它给的例子是两个叫 f() 的函数，一个参数为 uint8，另一个为 uint256。文档说如果输入 50，既可以被转换为 uint8，也可以被转换为 uint256，因此会报错。但是我没遇到：
-
-
-
-
-
-总结
-
-
-这一讲，我们介绍了 solidity 中函数重载的基本用法：名字相同但输入参数类型不同的函数可以同时存在，他们被视为不同的函数。
-
-
-原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
