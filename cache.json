@@ -144,36 +144,6 @@
           "wordCount": null,
           "title": "开发者时薪1200美元？新公链都用的Move语言究竟好在哪儿?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31421",
-          "author": null,
-          "description": "原文来源：@cryptoalvatar推特\n原文编译：0x711，BlockBeats\n\n\n\nAptos 和 Sui 是近期市场讨论度很高的两大公链，其原因不仅在于这两个均来自 Facebook 的团队都拿了高融资额，更在于他们都使用了 Move 编程语言对协议进行搭建。\n\n\n区块链开发者 @cryptoalvatar 在其社交网站对这两大公链从技术开发角度进行了对比，BlockBeats 翻译整理如下。\n\n\n\n\nMove 语言\n\n\nAptos 和 Sui 都使用了他们自己的 Move 语言衍生版本，这有助于并行执行。它是 Rust 风格的，具有静态强制和严格的资源所有权规则和形式验证。\n\n\nSui 版本的 Move 引入了一些修改，最明显的是所有权 API。它更干净，也更清晰地展示了区块链设计。但是库（libraries）的开发感觉不如 Aptos。\n\n\n架构\n\n\nSui 使用基于 DAG 的内存池（Narwhal）+ Tusk 共识算法。然后在执行层利用 DAG 进行并行化（酷！）。与 Avalanche (Snowman++) 相比，在并行化方面它尚未释放 DAG 的全部功能。\n\n\nSui 版本的 Move 对对象的独有/共享及可变/不可变状态非常明确。这实现了直观的编程模型。此外，它使 Sui 能够使用可靠广播 (FastPay) 进行非共享对象交易，例如支付。\n\n\nAptos 使用 BlockSTM，它是高性能 HotStuff 算法的演进，并通过动态检测依赖关系和调度执行任务来引入并行化（灵感来自软件交易内存）。\n\n\n很难说哪一个会在实践中表现更好，但我看好的是 Sui。Aptos 在优化当前设计方面已经做得很好，而 Sui 似乎还有更多空间。双路径实现拜占庭共识也让 Sui 占了上风。\n\n\n可扩展性\n\n\n值得注意的是，两条链都没有针对 home 验证者案例和大规模去中心化进行优化，而是归入了「最大化网络容量」阵营（即像 Solana 一样）。状态（State）增长可能是瓶颈。\n\n\nSui 通过高效的存储分片来解决这个问题，专注于横向扩展资源。另一方面，Aptos 更加强调支持异构验证器（受限 CPU 和/或受限存储）。我喜欢 Sui 的做法。\n\n\n开发者体验\n\n\n它们都处于相似的发展阶段，Aptos 有点领先。设置系统花费的时间比实际码代码 (我也恰好使用 NixOS）还要多。学习语言和环境也需要一些反复试验。\n\n\n部署到 devnet 在这两种情况下都有些麻烦。幸运的是，单元测试库非常有用。\n\n\n最糟糕的部分是晦涩难懂的编译器报错，以及毫无意义的 devnet 错误响应。这些应该马上解决。\n\n\n个人建议\n\n\n如果从头学习，我会推荐以下内容：\n\n\n\n\n2. 然后，直接转到您正在使用的分支中的框架源代码（用于学习和作为文档）。\n\n\n\n\n\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31421",
-          "publishedOn": "2022-07-28T03:59:35.000Z",
-          "wordCount": null,
-          "title": "Aptos VS Sui，两大公链新贵对比谁更有优势？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31420",
-          "author": null,
-          "description": "原文标题：《DAO 的合规挑战，以及案例分析》\n原文来源：Shawn，SeeDao、BanklessDao等贡献者\n\n\nFWB、BanklessDAO、GitcoinDAO、Mirror DAO 等等，这些顶流 DAO，目前都在探索如何解决合规问题。\n\n\n\n\n1. 为啥 DAO 要有个法律实体？\n\n\n\n\n\n2022 年，各个 DAO 纷纷成立法律实体。先是 ENS DAO 在开曼群岛成立了非营利组织：ENS 基金会。接着 GitcoinDAO 发起了提案，说学习 ENS，也在开曼群岛成立 Gitcoin 基金会。SushiSwap、ApeCoin 紧随其后。\n\n\nDAO 如果没有法律实体，不受任何国家监管，岂不快哉？\n\n\nGitcoinDAO 发文，比较全面地解释了该问题：\n\n\n1>有了 Gitcoin 基金会，$GTC 持有者只需要对 DAO 的行为承担有限责任；如果没有法律实体，$GTC 持有者个人将承担无限责任；\n2>税务考虑。如果没有法律实体，$GTC 持有者个人可能需要为 DAO 的收入纳税，即使这些收入属于 DAO 金库，并未分配给个人。\n3>签合同。DAO 难免要跟其他公司合作，没有法律实体，如何签合同？如何持有知识产权？如何解决贡献者的医保问题？\n\n\n\n\n\n\n\n\n\n\n\n\n\n2. DAO 都有法律实体吗？\n\n\n到开曼群岛成立一个基金会，对一些顶流 DAO 是举手之劳，但现实如何？\n\n\nFWB 在 2021 年 10 月拿到 a16z 1000 万美元投资后，找了顶级的律所，推进注册实体。但是直至今天，仍然没有完成。最新的说法是，正在努力为 FWB DAO 搭建 UNA（Unincorporated Non-Profit Associate）架构。在第四节，会介绍 UNA 的利弊。\n\n\nBanklessDAO 目前也没有法律实体，最早讨论过，要成立 LLC，但是…",
-          "link": "https://www.theblockbeats.info/news/31420",
-          "publishedOn": "2022-07-28T03:24:35.000Z",
-          "wordCount": null,
-          "title": "DAO的合规挑战，以及案例分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31401",
-          "author": null,
-          "description": "原文标题：《\n\n以太坊合并在即，回顾 8 年前的众筹数据以及目前供应占比情况\n\n》\n原文作者：Kyle Waters、Nate Maddrey 和 Matas Andrade，\n\nCoin Metrics\n原文编译：DeFi 之道编译\n\n\n编者注：V 神在巴黎的 EthCC 会议上透露，以太坊的开发人员正在开展五个长期阶段，旨在提高网络的整体能力。议程上的第一个项目是「合并」（The Merge），该项目已完成 90%，只需要在 Ropsten 上进行测试。一旦「合并」成功发生，验证者就能提取他们锁定在 ETH 2.0 存款合约中的 ETH。\n \n8 年前的以太坊众筹\n \n经过多年的测试、研究和开发，人们对以太坊计划通过合并（The Merge）转为股权证明（PoS）的潜在时间表感到兴奋。这次合并可以说是以太坊历史上最大的协议级改变，它取消了挖矿并引入了一个验证者系统，验证者将质押他们的 ETH，以通过创建和验证新区块来赚取奖励。\n\n\n\n跟踪 ETH 供应继续引起关注，因为 ETH 持有量直接决定了用户参与 PoS 的能力。同时，转向 PoS 也将引入新的 ETH 发行模式，并影响 ETH 的货币政策。然而，为了更好地了解以太坊当前的供应情况，观察者需要回到以太坊网络推出前一年，即 2014 年 7 月 22 日 至 2014 年 9 月 2 日的关键时期：ETH 众筹。 \n\n\n\n本文将通过 Coin Metrics 的 ATLAS 数据对 ETH 众筹的情况进行数据回顾。在回顾销售背后数据的同时，也检查了当前的创世账户（那些参与众筹的人）。\n\n\n\n背景介绍\n\n\n\n加密货币应该如何进行初始分配？多年来，这个问题一直是争论不休的根源。现在有许多初始发行模型，对早期采用者和贡献者的奖励数量不同，导致供应分配存在明显差异。\n\n\n\n对于比特币，中本聪在 2009 年发布第一版比特币…",
-          "link": "https://www.theblockbeats.info/news/31401",
-          "publishedOn": "2022-07-28T02:07:35.000Z",
-          "wordCount": null,
-          "title": "以太坊即将开启合并新旅程，回顾8年前的众筹路",
-          "imageUrl": null
         }
       ]
     },
