@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31441",
+          "author": null,
+          "description": "原文来源：Space and Time\n\n\n\n\n\n随着 DeFi 和 GameFi 迅猛发展，相关市场急需安全、快速的去中心化企业级数据处理解决方案，Space and Time 已成为该领域首个「探路者」。\n\n\nSpace and Time 是为区块链应用构建的去中心化数据仓库，通过加密证明技术使 dApps 能以完全去信任和高安全的方式提供低延迟数据查询和企业级规模的数据分析服务。7 月 29 日，该公司宣布完成 1000 万美元种子轮融资，Framework Ventures  领投，Digital Currency Group (DCG )、Stratos、SamsungNext、IOSG Ventures 、Alliance、以及其他一些 DeFi、GameFi 和 VC 机构参投。得益于这笔最新融资，Space and Time 将加速旗下软件工程建设，同时进一步提升平台分析能力和去中心化网络规模。\n\n\nSpace and Time 构建了一种全新「SQLTM 证明」加密协议（正在申请专利），该协议能使区块链应用程序以完全去中心化、可扩展和安全的方式快速对海量数据进行处理并生成具有洞察力的分析结果，节点运营网络从区块链、去中心化应用程序和链下系统中提取数据后即可执行数据操作和分析计算。对于区块链而言，Space and Time 可以大幅提升独立、去信任环境中查询链上数据和链下数据功能，继而为链上智能合约带来更多、更先进的创新用例。\n\n\nSpace and Time 的数据库会在链下创建数据查询结果证明，然后将其传输到验证层并验证证明的真实性。一旦验证通过，数据就会上链并加载到智能合约，此时 dApp 可以在智能合约中实时访问数据查询结果信息。不仅如此，由于 Space and Time 将大量计算工作转移到了链下，因此在分析工作负载中链上和链下数据可以得到合理…",
+          "link": "https://www.theblockbeats.info/news/31441",
+          "publishedOn": "2022-07-30T10:25:01.000Z",
+          "wordCount": null,
+          "title": "去中心化数据仓库Space and Time完成1000万美元融资，Framework Ventures领投",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31440",
+          "author": null,
+          "description": "原文标题：《\n\nSpecial issue - A deep dive into Compound III, an interview with Jared Flatow of Compound Labs\n\n》\n原文作者：Eitan K.\n原文编译：Kxp，BlockBeats\n\n\n欢迎阅读今天 The State of DeFi Lending 的文章，本系列咨讯主要关注的是 DeFi 贷款市场的亮点信息。\n\n\n本篇文章主要包含两个部分：\n\n\n· Compound III 概况\n\n\n· 对 Compound Labs 的工程副总裁 Jared Flatow 的一段采访\n\n\n\n\n\n数据来源：DeFi Llama\n\n\n\n\n即便 Arbitrum 的借贷锁仓量在过去 2 周内恢复了 35%（在此之前 2 周内曾下降 76%），Ethereum 的总链锁仓量也上升了 45 亿美元，但总借贷锁仓量仍只占 DeFi 总锁仓量的 27%。\n\n\n\n\nCompound III 概览\n\n\n\n\n\nCompound III 上单一基础资产市场 demo 版用户界面\n\n\n\n\n6 月 29 日，Compound Labs 公开了其代码储存库，以支持 Compound 的多链战略。在 Compound 成功地将许多分叉部署在其他链上之后，包括 BSC、Avalanche、Tron、Polygon 等链，它又开始为用户探索比 Ethereum 主网价格更低的链。\n\n\n\n\n不过，这次的公告却并没有提及 Compound Labs 在其多链战略中的 Gateway 项目。后来我们与 Compound Labs 的团队交谈后得知，由于 DeFi 多链格局在过去一年中增长迅速，Gateway 的工作已经被暂时搁置了。\n\n\n\n\n在 Compound III 中，有几项变化值得我们关注：\n\n\n\n\n单一基础资产——在…",
+          "link": "https://www.theblockbeats.info/news/31440",
+          "publishedOn": "2022-07-30T06:25:01.000Z",
+          "wordCount": null,
+          "title": "对话Compound核心开发者：梳理最新版本Compound",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31436",
           "author": null,
           "description": "原文作者：Crescent，律动 BlockBeats\n责任编辑：0x29\n\n\nAptos 获得 2 亿美元融资后，在市场较为萧条的当下又完成了 1.5 亿美元融资，展现着 Aptos 非同一般的潜力。Aptos 曾表示有超过 100 个项目在网络上构建，包括 DeFi、NFT、游戏等，大量的生态还在开发当中。接下来，随律动 Blockbeats 一起了解，当前披露了哪些项目建设其中。\n\n\n\n\n\n\n钱包\n\n\nFewcha Wallet\n\n\n\n\nFewcha 是 Aptos 上的 Web3.0 钱包，据其描述由一个拥有 15 年以上软件开发经验和 5 年区块链工作经验的团队开发。\n\n\n \nFewcha 用于管理数字资产，提供上线、购买、发送、接收、交换 Token，以及管理 NFT 的功能，具有高安全性。Fewcha 还支持 Chrome、Brave、Edge、Firefox 多个浏览器。\nTwitter\n\n\nMartian Wallet\n\n\n\n\nMartian Wallet 是 Aptos 链上的钱包，可用于管理数字资产，以及访问 Aptos 区块链上的去中心化应用程序。Martian Wallet 强调易用性、安全性和速度，当前已推出 Chrome 上的插件钱包，之后将推出 ios 版本。除此之外，该项目还支持开发者铸造 NFT。\n\n\n \nMartian Wallet 由 Martian DAO 开发团队构建，此外还在构建一个名为 Curiosity 的 NFT 市场。Martian DAO 本意在 Aptos 链上构建各种产品，不过当前其 Twitter 上显示 Martian DAO 项目暂时搁置。\nTwitter\n\n\nhive\n\n\n\n\nhive 是一个多重签名钱包。\nTwitter\n\n\nONTO\n\n\n\n\nONTO 是一个钱包，基于 DID 为用户在 Web3 的世界…",
