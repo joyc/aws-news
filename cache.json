@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31436",
+          "author": null,
+          "description": "原文作者：Crescent，律动 BlockBeats\n责任编辑：0x29\n\n\nAptos 获得 2 亿美元融资后，在市场较为萧条的当下又完成了 1.5 亿美元融资，展现着 Aptos 非同一般的潜力。Aptos 曾表示有超过 100 个项目在网络上构建，包括 DeFi、NFT、游戏等，大量的生态还在开发当中。接下来，随律动 Blockbeats 一起了解，当前披露了哪些项目建设其中。\n\n\n\n\n\n\n钱包\n\n\nFewcha Wallet\n\n\n\n\nFewcha 是 Aptos 上的 Web3.0 钱包，据其描述由一个拥有 15 年以上软件开发经验和 5 年区块链工作经验的团队开发。\n\n\n \nFewcha 用于管理数字资产，提供上线、购买、发送、接收、交换 Token，以及管理 NFT 的功能，具有高安全性。Fewcha 还支持 Chrome、Brave、Edge、Firefox 多个浏览器。\nTwitter\n\n\nMartian Wallet\n\n\n\n\nMartian Wallet 是 Aptos 链上的钱包，可用于管理数字资产，以及访问 Aptos 区块链上的去中心化应用程序。Martian Wallet 强调易用性、安全性和速度，当前已推出 Chrome 上的插件钱包，之后将推出 ios 版本。除此之外，该项目还支持开发者铸造 NFT。\n\n\n \nMartian Wallet 由 Martian DAO 开发团队构建，此外还在构建一个名为 Curiosity 的 NFT 市场。Martian DAO 本意在 Aptos 链上构建各种产品，不过当前其 Twitter 上显示 Martian DAO 项目暂时搁置。\nTwitter\n\n\nhive\n\n\n\n\nhive 是一个多重签名钱包。\nTwitter\n\n\nONTO\n\n\n\n\nONTO 是一个钱包，基于 DID 为用户在 Web3 的世界…",
+          "link": "https://www.theblockbeats.info/news/31436",
+          "publishedOn": "2022-07-30T03:47:08.000Z",
+          "wordCount": null,
+          "title": "新公链龙头Aptos，34个项目生态初具规模",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31435",
+          "author": null,
+          "description": "原文标题：《Goerli/Prater 合并公告》\n原文来源：Ethereum Foundation Blog\n原文作者：Protocol Support Team\n原文编译：\n\nETH 中文\n\n\n\n\n作为最后一个进行权益证明过渡的测试网，Goerli 将与 Prater 合并。Goerli/Prater 合并的网络将保留 Goerli 这个名字。\n\n\n\n\nPrater 测试网为合并做准备的 Bellatrix 升级将于 epoch 112260 被激活，预计时间是 12:24PM UTC on August 4, 2022\n\n\n\n\nBellatrix 升级激活后，当 Goerli 触达总难度值 10790000 时，Goerli/Prater 合并就会发生，预计时间在 August 6-12, 2022 之间。\n\n\n\n\n合并后，Goerli 的验证者集将对个人质押者运行测试网验证者保持开放。想要启动一个 Goerli/Prater 验证者的质押车可以前往 Prater Launchpad。\n\n\n\n\n背景\n\n\n\n\n经过几年的努力将权益证明引入以太坊，我们现在已经进入了最后的测试阶段：测试网部署！\n\n\n\n\n在经历了几个开发测试网、影子分叉和被弃用的测试网之后，Sepolia 最近过渡到权益证明。现在，只剩下一个测试网了：Goerli 和与它相匹配的信标链 Prater。\n\n\n\n\n合并在两个方面与以前的以太坊升级不同。首先，节点运营商需要升级他们的共识层 (CL) 和执行层 (EL) 客户端，而不是两个中的一个。然后，升级分两个阶段激活：第一个阶段是 Bellatrix 升级，在信标链上的一个公开的 epoch 高度上激活，第二个是 Paris 升级，在执行层上触达一个 Total Difficulty (总难度) 值时激活。\n\n\n\n\n升级信息\n\n\n\n\n时间\n\n\n\n\n合并分两步…",
+          "link": "https://www.theblockbeats.info/news/31435",
+          "publishedOn": "2022-07-30T01:47:08.000Z",
+          "wordCount": null,
+          "title": "Goerli/Prater合并在即，这些事项需要注意",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31438",
           "author": null,
           "description": "原文标题：《六大蓝筹 DeFi 协议熊市盈利能力分析，仅有一个实现盈利》\n原文作者：Ben Giove，Bankless 分析师  \n原文编译：DeFi 之道 \n\n\n如今，初创公司在早期阶段不断优化增长已成为实现发展的标准。\n\n\n\n他们忘记盈利能力，而是完全专注于获得强大的产品市场契合度。\n\n\n\n这是一个久经考验的策略，已经帮助建立了一些世界上最大的 web2 公司。\n\n\n\n这就是 alpha。对于 DeFi 协议来说，同样如此。\n\n\n\n今天，DeFi 协议专注于获得用户、流动性以及它需要的任何其他东西。而且由于 DeFi 项目控制着自己的「钱」，它们可以依靠诸如 Token 释放之类的巧妙技巧来产生短期吸引力。\n\n\n\n但这种模式可持续吗？\n\n\n\n这种使用是否只是被\n\nToken\n\n激励所掩盖？\n\n\n\n用户真的愿意为协议提供的服务付费吗？\n\n\n\nDeFi 协议能不能盈利？\n\n\n\n在这篇文章中，Bankless 分析师 Ben Giove 通过深入研究六大 DeFi 协议（Uniswap、Aave、Compound、Maker、Lido 和 Maple）来回答这个问题，并评估它们的盈利之路。\n\n\n\n\n \n哪些 DeFi 协议在这轮熊市中实现了盈利？\n\n \n介绍\n \n2022 年熊市的一个决定性主题是越来越关注加密的所有方向的基本面，尤其是 DeFi。\n\n\n\n随着价格的下降，肆意的消费习惯和缺乏可持续的商业模式已经成为人们关注的焦点。尽管许多蓝筹 DeFi 协议因其产生收入的能力而受到称赞，但人们对它们是否真正盈利的关注却较少。\n\n\n\n让我们来看看过去六个月中 Uniswap、Aave、Compound、Maker、Maple 和 Lido 六种市场领先的蓝筹 DeFi 协议的盈利能力，并深入探讨更广泛的影响。\n \n定义盈利能力\n \n在开始我们的分析之前，重要的是要定义一个协议…",
