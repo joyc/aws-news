@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-07-31T18:08:31.089Z</updated>
+    <updated>2022-08-01T00:52:44.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -380,65 +380,6 @@ DeFi 协议能不能盈利？
 定义盈利能力
  
 在开始我们的分析之前，重要的是要定义一个协议…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haun Ventures：不是所有的 Web3 项目都需要完全去中心化]]></title>
-        <id>https://www.theblockbeats.info/news/31434</id>
-        <link href="https://www.theblockbeats.info/news/31434"/>
-        <updated>2022-07-29T08:04:08.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Business-Governance Fit——When to Choose Decentralized Governance》
-原文作者：ahnchrisj @HaunVentures
-原文编译：比得潘 @BlockBeats
-
-
-
-
-
-
-以往的企业治理中，人们只能在适当的许可下做出贡献，通常是通过就业。对于 Web3 中诞生的一些加密原生项目，让人们开始关注到去中心化治理，这使得任何人能在非许可的情况下做出贡献，这也将比那些单独为快速反应而构建的项目产生更持久、更有价值的结果。
-
-
-
-
-不过，也不是所有的项目都需要去中心化，如何选择合适的去中心化程度，以及在执行复杂性方面做出怎样的权衡？Haun Ventures 合伙人、前摩根士丹利分析师 Chris Ahn 在本文中进行了探讨，BlockBeats 整理翻译如下：
-
-
-
-
-
-
-
-
-
-初创公司常常痴迷于如何实现产品与市场以及和商业模式的契合，但他们却很少讨论业务与企业治理之间的关系。而 Web3 重新引起了人们对这个以前被忽视的概念的关注，即某些治理模型可能只更适合于特定的项目。
-
-
-
-
-对于非加密原生项目而言，选择正确的治理模型相对简单，需要作出怎样的权衡基本上是众所周知的。即使是非专家也可以回答出一个项目是否会受益于公共或私人治理，以及营利性或非营利性。而对于加密原生项目，决策则更加复杂，因为他们必须考虑一个新的核心：去中心化。
-
-
-
-
-去中心化治理允许任何人在没有获得中央权威许可的情况下做出贡献。
-
-
-
-
-与以往的企业治理一样，去中心化治理也有不同的权衡。不过与一般看法不同的是，虽然它是一个可以使一些 Web3 项目受益的工具，但创始人还是应该权衡他们的项目是否真的能从去中心化治理中受益。
-
-
-
-
-以往的治理模式
-
-
-
-
-从历史来看，治理决策往往基于两个考虑因素：营利性与非营利性、公共治理与私人治理…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
