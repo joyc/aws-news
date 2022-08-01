@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31448",
+          "author": null,
+          "description": "原文标题：《\n\nA16z：避免 DAO 治理攻击的三种方式\n\n》\n  原文来源：a16z  \n原文作者： Pranav Garimidi, Scott Duke Kominers 以及 Tim Roughgarden\n原文编译：DeFi 之道\n\n\n\n很多 Web3 项目使用可互换且可交易的原生 Token 来进行无许可的投票，无许可投票可以提供很多的好处，从降低准入门槛到增加竞争。\n\nToken持有者可以使用他们的 Token，对一系列问题进行投票，从简单的参数调整到治理过程本身的彻底检修。（有关 DAO 治理的回顾，请参阅「Lightspeed Democracy」这篇文章）然而，无许可投票很容易受到治理攻击，即攻击者通过合法手段（例如在公开市场上购买 Token）获得投票权，然后使用该投票权为攻击者自身的利益来操纵协议。这些攻击纯粹是「协议内」攻击，这意味着它们无法通过密码学手段解决。相反，预防它们需要深思熟虑的机制设计。为此，我们开发了一个框架来帮助 DAO 评估威胁并应对潜在的攻击。\n\n\n\n 现实中已经发生的治理攻击 \n\n\n\n治理攻击的问题不仅仅是理论上的，并且已经在现实世界当中发生了多次，并且将会继续发生。\n\n\n举一个突出的例子，Steemit 是一家构建去中心化社交网络的初创公司，它建立在其 Steem 区块链上，该区块链拥有一个由 20 名验证者（witnesses）控制的链上治理系统。选民使用他们的 STEEM \n\nToken\n\n来选出验证者，在 Steemit 和 Steem 获得发展的同时，孙宇晨制定了将 Steem 合并到 Tron 的计划，为了获得足够数量的投票权，孙联系了 Steem 的创始人之一，购买了相当于总供应量 30% 的\n\nToken\n\n。而当 Steem 的验证者发现了孙的购买行为之后，他们就冻结了孙的\n\nToken\n\n。此后，孙和 S…",
+          "link": "https://www.theblockbeats.info/news/31448",
+          "publishedOn": "2022-08-01T14:31:49.000Z",
+          "wordCount": null,
+          "title": "a16z：如何识别、评估和避免DAO治理攻击？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31446",
           "author": null,
           "description": "原文标题：《State of Venture Q2'22 Report》\n原文来源：CB Insights\n原文编译：白泽研究院\n\n\n\n 2022 Q2 Crypto VC 状态\n\n\n\n 全球 Crypto 投资资金下降。区块链风险投资降至 65 亿美元，这是 2 年来的第一次环比下降。由于宏观经济压力以及对加密货币估值和稳定币的担忧，投资者缩减了对加密货币的投资。\n\n\n 亿级巨额融资减少。1 亿美元以上巨额融资的总额降至 26 亿美元，不到上一季度总额的一半，并且巨额融资轮次数（16 次）也有所下降。这表明由于加密货币市场的「寒冬」和近期价格波动，投资者更加谨慎。\n\n\n Crypto 独角兽企业的诞生减半。本季度 Crypto 独角兽企业诞生了 8 个，只有上个季度的创纪录高点（16 个）的一半，其中最有价值的是位于塞舌尔的加密货币交易平台 KuCoin，估值为 100 亿美元，而新独角兽企业中有一半是 Web3 初创公司。\n\n\n NFT、游戏、元宇宙的未来可能更加艰难。尽管 NFT、游戏和元宇宙类别的项目融资数量环比下降，但它们仍然吸引了 150 多笔投资。然而，这些类别的项目在未来可能会面临更加艰难的道路。NFT 交易量下降，游戏和元宇宙将面临来自大型科技公司的激烈竞争。\n\n\n\n 2022 Q2 Crypto VC 格局\n\n\n\n 欧洲的 Crypto 投资增长。欧洲是唯一一个 Crypto 风险投资规模增长的地区。它在 2022 年第二季度以 14 亿美元的投资额与亚洲并列，但落后于美国的 34 亿美元。欧洲前 10 大 Crypto 投资中有 6 笔属于 Web3（例如 NEAR Protocol、 Msquared），3 笔属于机构托管加密货币解决方案（例如 Elwood Technologies、 Coinhouse）。\n\n\n 区块链基础设施增长。区块链基础设施…",
@@ -63,26 +73,6 @@
           "publishedOn": "2022-07-30T06:25:01.000Z",
           "wordCount": null,
           "title": "对话Compound核心开发者：梳理最新版本Compound",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31436",
-          "author": null,
-          "description": "原文作者：Crescent，律动 BlockBeats\n责任编辑：0x29\n\n\nAptos 获得 2 亿美元融资后，在市场较为萧条的当下又完成了 1.5 亿美元融资，展现着 Aptos 非同一般的潜力。Aptos 曾表示有超过 100 个项目在网络上构建，包括 DeFi、NFT、游戏等，大量的生态还在开发当中。接下来，随律动 Blockbeats 一起了解，当前披露了哪些项目建设其中。\n\n\n\n\n\n\n钱包\n\n\nFewcha Wallet\n\n\n\n\nFewcha 是 Aptos 上的 Web3.0 钱包，据其描述由一个拥有 15 年以上软件开发经验和 5 年区块链工作经验的团队开发。\n\n\n \nFewcha 用于管理数字资产，提供上线、购买、发送、接收、交换 Token，以及管理 NFT 的功能，具有高安全性。Fewcha 还支持 Chrome、Brave、Edge、Firefox 多个浏览器。\nTwitter\n\n\nMartian Wallet\n\n\n\n\nMartian Wallet 是 Aptos 链上的钱包，可用于管理数字资产，以及访问 Aptos 区块链上的去中心化应用程序。Martian Wallet 强调易用性、安全性和速度，当前已推出 Chrome 上的插件钱包，之后将推出 ios 版本。除此之外，该项目还支持开发者铸造 NFT。\n\n\n \nMartian Wallet 由 Martian DAO 开发团队构建，此外还在构建一个名为 Curiosity 的 NFT 市场。Martian DAO 本意在 Aptos 链上构建各种产品，不过当前其 Twitter 上显示 Martian DAO 项目暂时搁置。\nTwitter\n\n\nhive\n\n\n\n\nhive 是一个多重签名钱包。\nTwitter\n\n\nONTO\n\n\n\n\nONTO 是一个钱包，基于 DID 为用户在 Web3 的世界…",
-          "link": "https://www.theblockbeats.info/news/31436",
-          "publishedOn": "2022-07-30T03:47:08.000Z",
-          "wordCount": null,
-          "title": "新公链龙头Aptos，34个项目生态初具规模",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31435",
-          "author": null,
-          "description": "原文标题：《Goerli/Prater 合并公告》\n原文来源：Ethereum Foundation Blog\n原文作者：Protocol Support Team\n原文编译：\n\nETH 中文\n\n\n\n\n作为最后一个进行权益证明过渡的测试网，Goerli 将与 Prater 合并。Goerli/Prater 合并的网络将保留 Goerli 这个名字。\n\n\n\n\nPrater 测试网为合并做准备的 Bellatrix 升级将于 epoch 112260 被激活，预计时间是 12:24PM UTC on August 4, 2022\n\n\n\n\nBellatrix 升级激活后，当 Goerli 触达总难度值 10790000 时，Goerli/Prater 合并就会发生，预计时间在 August 6-12, 2022 之间。\n\n\n\n\n合并后，Goerli 的验证者集将对个人质押者运行测试网验证者保持开放。想要启动一个 Goerli/Prater 验证者的质押车可以前往 Prater Launchpad。\n\n\n\n\n背景\n\n\n\n\n经过几年的努力将权益证明引入以太坊，我们现在已经进入了最后的测试阶段：测试网部署！\n\n\n\n\n在经历了几个开发测试网、影子分叉和被弃用的测试网之后，Sepolia 最近过渡到权益证明。现在，只剩下一个测试网了：Goerli 和与它相匹配的信标链 Prater。\n\n\n\n\n合并在两个方面与以前的以太坊升级不同。首先，节点运营商需要升级他们的共识层 (CL) 和执行层 (EL) 客户端，而不是两个中的一个。然后，升级分两个阶段激活：第一个阶段是 Bellatrix 升级，在信标链上的一个公开的 epoch 高度上激活，第二个是 Paris 升级，在执行层上触达一个 Total Difficulty (总难度) 值时激活。\n\n\n\n\n升级信息\n\n\n\n\n时间\n\n\n\n\n合并分两步…",
-          "link": "https://www.theblockbeats.info/news/31435",
-          "publishedOn": "2022-07-30T01:47:08.000Z",
-          "wordCount": null,
-          "title": "Goerli/Prater合并在即，这些事项需要注意",
           "imageUrl": null
         }
       ]
