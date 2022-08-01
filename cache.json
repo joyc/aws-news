@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31444",
+          "author": null,
+          "description": "原文标题：《\n\n目前为止，DAO 靠什么盈利？\n\n》\n原文作者：\n\nSamantha Marin，\n\nQuorum\n\n\n原文编译：\n\nRR\n\n\n本文来自微信公众号：老雅痞\n\n\n把 web3 想象成你的高中。\n\n\nDeFi 是微积分高手、拥有图形计算器的统计学大师和外向型体育运动员的归宿。\n\n\nNFT 是艺术青年、戏剧明星、乐队和管弦乐队成员去的地方。\n\n\nDAO 是所有的历史和文学书呆子的去处。(我就是其中之一。)\n\n\n事情变得有趣了。\n\n\n从日常的角度来看，对于 DAO 领域的历史和文学爱好者来说，DAO 的工作可能相当有趣。你可能会在一个会议上看到一个古代苏美尔人的 Zigguart 占据了整个幻灯片屏幕。你可能开始在推特上谈论狩猎采集社会。你可能会在论坛上用哲学和理论而不是公认的商业最佳实践来支持你的想法。\n\n\n对我来说，在 DAO 领域中穿梭是一种丰富的智力体验。作为一名曾经的文科大学生，我可以整天谈论理论和思想。我曾就一部晦涩的莎士比亚戏剧中的一句话写了数千字文章。我喜欢这些东西。\n\n\n但是…即使是英语专业的我也会开始思考我们所做的事情的可持续性、盈利性和商业性。尤其是当我看到硅谷因为经济衰退而裁员时。\n\n\n感觉 DAO 走出了一种基于学术的、热爱理论的思维模式。这并不是一件坏事——它只是意味着我们需要在赚到足够的钱来支付贡献者并继续保持下去时发挥创造力。\n\n\n在这个高度金融化的领域，大多数 DAO 都没有盈利，这是一个巨大的悖论。这并不意味着他们永远不会盈利，或者他们不能作为有效的企业运作。但这确实意味着我们需要摆脱一些旧的观念，即成为一个成功的企业意味着什么，以及 DAO 需要什么来支持其核心团队。\n\n\n似乎将Token作为自己产品，并仅仅依靠「\n\nToken\n\n上涨」来支付贡献者的 DAO 已经过时了。但当涉及到其他融资模式时，DAO 就会陷入僵局。他们并没…",
+          "link": "https://www.theblockbeats.info/news/31444",
+          "publishedOn": "2022-08-01T05:19:31.000Z",
+          "wordCount": null,
+          "title": "目前为止，DAO靠什么盈利？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31442",
           "author": null,
           "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。\n\n\n\n\n联系我们\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n以下为本期编辑部内容推荐  \n\n\n\n\n\n\n\n\n\n\n\n推荐文章:《加密游戏的未来》\n\n\n\n\n推荐人：比得潘\n\n\n\n\n推荐理由：这篇文章不仅仅是针对加密游戏，还更广泛地对整个游戏行业核心盈利实践的演变进行了分析，从而为我们在游戏行业的位置提供历史背景，并分享了对加密货币进入该领域的一些思考，为读者提供加密货币属于游戏相关模型的框架，进一步探索加密游戏的未来。\n\n\n\n\n\n\n\n推荐文章:《为什么 NFT 游戏是一场噩梦？》\n\n\n\n\n推荐人：0xLaughing\n\n\n\n\n推荐理由：7 月 20 日，突发新闻称知名沙盒游戏《我的世界》(Minecraft) 更新其使用指南，宣布禁止 Minecraft 客户端和服务器应用程序集成区块链技术，也不得用于创建与任何游戏内容相关的 NFT，包括世界、皮肤、角色物品或其他模组。随着这条新闻发布，基于 Minecraft 与区块链的游戏平台 NFT Worlds 的原生 Token 和土地 NFT 的价格大跌。\n\n\n\n\n这起事件引起了关于…",
@@ -53,16 +63,6 @@
           "publishedOn": "2022-07-30T01:47:08.000Z",
           "wordCount": null,
           "title": "Goerli/Prater合并在即，这些事项需要注意",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31438",
-          "author": null,
-          "description": "原文标题：《六大蓝筹 DeFi 协议熊市盈利能力分析，仅有一个实现盈利》\n原文作者：Ben Giove，Bankless 分析师  \n原文编译：DeFi 之道 \n\n\n如今，初创公司在早期阶段不断优化增长已成为实现发展的标准。\n\n\n\n他们忘记盈利能力，而是完全专注于获得强大的产品市场契合度。\n\n\n\n这是一个久经考验的策略，已经帮助建立了一些世界上最大的 web2 公司。\n\n\n\n这就是 alpha。对于 DeFi 协议来说，同样如此。\n\n\n\n今天，DeFi 协议专注于获得用户、流动性以及它需要的任何其他东西。而且由于 DeFi 项目控制着自己的「钱」，它们可以依靠诸如 Token 释放之类的巧妙技巧来产生短期吸引力。\n\n\n\n但这种模式可持续吗？\n\n\n\n这种使用是否只是被\n\nToken\n\n激励所掩盖？\n\n\n\n用户真的愿意为协议提供的服务付费吗？\n\n\n\nDeFi 协议能不能盈利？\n\n\n\n在这篇文章中，Bankless 分析师 Ben Giove 通过深入研究六大 DeFi 协议（Uniswap、Aave、Compound、Maker、Lido 和 Maple）来回答这个问题，并评估它们的盈利之路。\n\n\n\n\n \n哪些 DeFi 协议在这轮熊市中实现了盈利？\n\n \n介绍\n \n2022 年熊市的一个决定性主题是越来越关注加密的所有方向的基本面，尤其是 DeFi。\n\n\n\n随着价格的下降，肆意的消费习惯和缺乏可持续的商业模式已经成为人们关注的焦点。尽管许多蓝筹 DeFi 协议因其产生收入的能力而受到称赞，但人们对它们是否真正盈利的关注却较少。\n\n\n\n让我们来看看过去六个月中 Uniswap、Aave、Compound、Maker、Maple 和 Lido 六种市场领先的蓝筹 DeFi 协议的盈利能力，并深入探讨更广泛的影响。\n \n定义盈利能力\n \n在开始我们的分析之前，重要的是要定义一个协议…",
-          "link": "https://www.theblockbeats.info/news/31438",
-          "publishedOn": "2022-07-29T14:23:40.000Z",
-          "wordCount": null,
-          "title": "哪些DeFi协议在这轮熊市中实现了盈利？",
           "imageUrl": null
         }
       ]
