@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-01T18:11:03.100Z</updated>
+    <updated>2022-08-02T00:45:49.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -293,101 +293,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
 
 
 这起事件引起了关于…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化数据仓库Space and Time完成1000万美元融资，Framework Ventures领投]]></title>
-        <id>https://www.theblockbeats.info/news/31441</id>
-        <link href="https://www.theblockbeats.info/news/31441"/>
-        <updated>2022-07-30T10:25:01.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：Space and Time
-
-
-
-
-
-随着 DeFi 和 GameFi 迅猛发展，相关市场急需安全、快速的去中心化企业级数据处理解决方案，Space and Time 已成为该领域首个「探路者」。
-
-
-Space and Time 是为区块链应用构建的去中心化数据仓库，通过加密证明技术使 dApps 能以完全去信任和高安全的方式提供低延迟数据查询和企业级规模的数据分析服务。7 月 29 日，该公司宣布完成 1000 万美元种子轮融资，Framework Ventures  领投，Digital Currency Group (DCG )、Stratos、SamsungNext、IOSG Ventures 、Alliance、以及其他一些 DeFi、GameFi 和 VC 机构参投。得益于这笔最新融资，Space and Time 将加速旗下软件工程建设，同时进一步提升平台分析能力和去中心化网络规模。
-
-
-Space and Time 构建了一种全新「SQLTM 证明」加密协议（正在申请专利），该协议能使区块链应用程序以完全去中心化、可扩展和安全的方式快速对海量数据进行处理并生成具有洞察力的分析结果，节点运营网络从区块链、去中心化应用程序和链下系统中提取数据后即可执行数据操作和分析计算。对于区块链而言，Space and Time 可以大幅提升独立、去信任环境中查询链上数据和链下数据功能，继而为链上智能合约带来更多、更先进的创新用例。
-
-
-Space and Time 的数据库会在链下创建数据查询结果证明，然后将其传输到验证层并验证证明的真实性。一旦验证通过，数据就会上链并加载到智能合约，此时 dApp 可以在智能合约中实时访问数据查询结果信息。不仅如此，由于 Space and Time 将大量计算工作转移到了链下，因此在分析工作负载中链上和链下数据可以得到合理…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话Compound核心开发者：梳理最新版本Compound]]></title>
-        <id>https://www.theblockbeats.info/news/31440</id>
-        <link href="https://www.theblockbeats.info/news/31440"/>
-        <updated>2022-07-30T06:25:01.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Special issue - A deep dive into Compound III, an interview with Jared Flatow of Compound Labs
-
-》
-原文作者：Eitan K.
-原文编译：Kxp，BlockBeats
-
-
-欢迎阅读今天 The State of DeFi Lending 的文章，本系列咨讯主要关注的是 DeFi 贷款市场的亮点信息。
-
-
-本篇文章主要包含两个部分：
-
-
-· Compound III 概况
-
-
-· 对 Compound Labs 的工程副总裁 Jared Flatow 的一段采访
-
-
-
-
-
-数据来源：DeFi Llama
-
-
-
-
-即便 Arbitrum 的借贷锁仓量在过去 2 周内恢复了 35%（在此之前 2 周内曾下降 76%），Ethereum 的总链锁仓量也上升了 45 亿美元，但总借贷锁仓量仍只占 DeFi 总锁仓量的 27%。
-
-
-
-
-Compound III 概览
-
-
-
-
-
-Compound III 上单一基础资产市场 demo 版用户界面
-
-
-
-
-6 月 29 日，Compound Labs 公开了其代码储存库，以支持 Compound 的多链战略。在 Compound 成功地将许多分叉部署在其他链上之后，包括 BSC、Avalanche、Tron、Polygon 等链，它又开始为用户探索比 Ethereum 主网价格更低的链。
-
-
-
-
-不过，这次的公告却并没有提及 Compound Labs 在其多链战略中的 Gateway 项目。后来我们与 Compound Labs 的团队交谈后得知，由于 DeFi 多链格局在过去一年中增长迅速，Gateway 的工作已经被暂时搁置了。
-
-
-
-
-在 Compound III 中，有几项变化值得我们关注：
-
-
-
-
-单一基础资产——在…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
