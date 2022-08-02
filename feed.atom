@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-02T12:18:45.900Z</updated>
+    <updated>2022-08-02T18:10:13.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medium的10年：从创建、增长、转型到寻找新目标]]></title>
+        <id>https://www.theblockbeats.info/news/31467</id>
+        <link href="https://www.theblockbeats.info/news/31467"/>
+        <updated>2022-08-02T14:54:03.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Medium 成功了吗?
+
+》
+原文作者：
+
+Nathan Baschez，
+
+Every
+原文编译：RR
+本文来自微信公众号：老雅痞
+
+
+在创立 Medium 公司 10 年后，Ev Williams 辞去了该公司首席执行官一职。
+
+
+专家们对这一消息的反应从沉默到批判不一而足。在过去的十年里，媒体对 Medium 的描述变得很糟糕，因为该公司反复改变战略，经常影响到其员工和用户。
+
+
+本周我们可能已经看到了这种叙述的高潮：
+
+
+
+
+
+Casey Newton 的说法是「Ev Williams gives up」，他放弃了回到传统媒体的权利，并放弃了写他的 Substack 通讯。
+
+
+Casey 的这篇文章是对传统版本的 Medium 故事的经典复述:他们控制的太多并欺骗了作者，他们筹集了太多资金，并未能实现其过于雄心勃勃的修复媒体的目标。这个故事有很多地方是对的，但完整的真相更加有趣和复杂。对于那些想知道传统出版商和开放平台是如何碰撞的、为什么这么多善意的「拯救媒体」的努力似乎以失望告终，以及互联网上的作家和读者接下来会如何的人来说，本文值得一读。
+
+
+我没有任何关于 Medium 的内部消息，但我从一开始就一直是一个密切的观察者和用户，我是他们主要竞争对手 Substack 的早期员工。所以我想现在是一个很好的机会从我的角度来写 Medium 的故事。
+
+
+首先，让我们回到开头。
+
+
+Medium 的创建是为了解决内容发现问题
+
+
+2012 年 8 月，Ev 发布了一篇向世界介绍 Medium 的文章。在文中，他向作家们推荐了使用 Medium 的三个理由:
+
+
+1、专注的写作体验
+
+
+2、协作工具 (例如 Google Docs 风格的评论)
+
+
+3、通过策划和算法将你的文章推荐给新读者
+
+
+第一个原因，写作的用户体验是一个典型的产品楔子示例。为工…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被盗1.9亿美元，史上最混乱的ENS实名群殴]]></title>
         <id>https://www.theblockbeats.info/news/31449</id>
