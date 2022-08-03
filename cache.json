@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31485",
+          "author": null,
+          "description": "数据决定人类：去中心化云存储的探索",
+          "link": "https://www.theblockbeats.info/news/31485",
+          "publishedOn": "2022-08-03T14:57:52.000Z",
+          "wordCount": null,
+          "title": "数据决定人类：去中心化云存储的探索",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31484",
           "author": null,
           "description": "撰文：0xLaughing，律动 BlockBeats  \n\n\n\n\nOpenSea 的月交易量和日交易量（Ethereum）（图源：Dune @rchen8）\n\n\n\n\n自 Luna 暴雷引发连锁反应，整个加密市场暴跌，NFT 市场也一夜进入寒冬。据报道，8 月 1 日 Dune Analytics 数据显示，OpenSea 的 7 月交易量仅为 5.28 亿美元，相比 2022 年 1 月的历史最高值（48.57 亿美元）下跌 89.12%，创一年以来新低。\n\n\n\n\n在当下的熊市里，一方面 NFT 投资者要忍受此前下跌造成的资产大规模缩水的事实，另一方面层出不穷的诈骗项目也让他们防不胜防。\n\n\n\n\n然而，NFT 市场的不景气和交易量持续走低，不法分子通过刷量来「打榜」，以极低的成本快速登上 NFT 交易平台的交易量排行榜，这让 OpenSea 等 NFT 交易平台正在成为滋生新型 NFT 诈骗项目的温床。\n\n\n\n\n诈骗流程详解\n\n\n\n\n本节将通过最近流行的新型 NFT 诈骗项目之一 Geometric birds 的诈骗流程，拆解它如何一步一步引诱 NFT 投资者上钩的。\n\n\n\n\n制造假象\n\n\n\n\n\nGeometric birds 在Uniq.cx上 24 小时交易量排名第 6\n\n\n\n\n如果你在周二打开 OpenSea 主页，很容易就会注意到在其 24 小时交易量排行榜上有一个名为 Geometric birds的项目位居前列（现已被 OpenSea 下架）。\n\n\n\n\n\nOpenSea 上关于这个项目的简介\n\n\n\n\n当你点进这个项目主页仔细浏览，会发现它其实是一个以 Moonbirds 为原型进行二次创作的一个 NFT 仿盘项目，总量 1.5k，共有 576 个持有者，人均持有 2.6 个，这个比例偏高但也还算正常，总交易量在 24 小时里达到了 323E，地板价最高曾达到…",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-08-01T07:37:27.000Z",
           "wordCount": null,
           "title": "Paradigm致投资者信：未来2年内，Buidl与投资的好时机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31444",
-          "author": null,
-          "description": "原文标题：《\n\n目前为止，DAO 靠什么盈利？\n\n》\n原文作者：\n\nSamantha Marin，\n\nQuorum\n\n\n原文编译：\n\nRR\n\n\n本文来自微信公众号：老雅痞\n\n\n把 web3 想象成你的高中。\n\n\nDeFi 是微积分高手、拥有图形计算器的统计学大师和外向型体育运动员的归宿。\n\n\nNFT 是艺术青年、戏剧明星、乐队和管弦乐队成员去的地方。\n\n\nDAO 是所有的历史和文学书呆子的去处。(我就是其中之一。)\n\n\n事情变得有趣了。\n\n\n从日常的角度来看，对于 DAO 领域的历史和文学爱好者来说，DAO 的工作可能相当有趣。你可能会在一个会议上看到一个古代苏美尔人的 Zigguart 占据了整个幻灯片屏幕。你可能开始在推特上谈论狩猎采集社会。你可能会在论坛上用哲学和理论而不是公认的商业最佳实践来支持你的想法。\n\n\n对我来说，在 DAO 领域中穿梭是一种丰富的智力体验。作为一名曾经的文科大学生，我可以整天谈论理论和思想。我曾就一部晦涩的莎士比亚戏剧中的一句话写了数千字文章。我喜欢这些东西。\n\n\n但是…即使是英语专业的我也会开始思考我们所做的事情的可持续性、盈利性和商业性。尤其是当我看到硅谷因为经济衰退而裁员时。\n\n\n感觉 DAO 走出了一种基于学术的、热爱理论的思维模式。这并不是一件坏事——它只是意味着我们需要在赚到足够的钱来支付贡献者并继续保持下去时发挥创造力。\n\n\n在这个高度金融化的领域，大多数 DAO 都没有盈利，这是一个巨大的悖论。这并不意味着他们永远不会盈利，或者他们不能作为有效的企业运作。但这确实意味着我们需要摆脱一些旧的观念，即成为一个成功的企业意味着什么，以及 DAO 需要什么来支持其核心团队。\n\n\n似乎将Token作为自己产品，并仅仅依靠「\n\nToken\n\n上涨」来支付贡献者的 DAO 已经过时了。但当涉及到其他融资模式时，DAO 就会陷入僵局。他们并没…",
-          "link": "https://www.theblockbeats.info/news/31444",
-          "publishedOn": "2022-08-01T05:19:31.000Z",
-          "wordCount": null,
-          "title": "目前为止，DAO靠什么盈利？",
           "imageUrl": null
         }
       ]

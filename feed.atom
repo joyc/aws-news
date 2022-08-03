@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-03T12:15:51.555Z</updated>
+    <updated>2022-08-03T18:10:25.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[数据决定人类：去中心化云存储的探索]]></title>
+        <id>https://www.theblockbeats.info/news/31485</id>
+        <link href="https://www.theblockbeats.info/news/31485"/>
+        <updated>2022-08-03T14:57:52.000Z</updated>
+        <summary type="html"><![CDATA[数据决定人类：去中心化云存储的探索]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT新骗局：能上OpenSea榜单的「NFT貔貅盘」]]></title>
         <id>https://www.theblockbeats.info/news/31484</id>
@@ -576,70 +586,6 @@ Token
 
 
 2020-2021 年，市场一片热情高涨，公司和基金感到有恃无恐，风险限制成为追逐规模和收益的障碍，显性和隐性的杠杆得以积累…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前为止，DAO靠什么盈利？]]></title>
-        <id>https://www.theblockbeats.info/news/31444</id>
-        <link href="https://www.theblockbeats.info/news/31444"/>
-        <updated>2022-08-01T05:19:31.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-目前为止，DAO 靠什么盈利？
-
-》
-原文作者：
-
-Samantha Marin，
-
-Quorum
-
-
-原文编译：
-
-RR
-
-
-本文来自微信公众号：老雅痞
-
-
-把 web3 想象成你的高中。
-
-
-DeFi 是微积分高手、拥有图形计算器的统计学大师和外向型体育运动员的归宿。
-
-
-NFT 是艺术青年、戏剧明星、乐队和管弦乐队成员去的地方。
-
-
-DAO 是所有的历史和文学书呆子的去处。(我就是其中之一。)
-
-
-事情变得有趣了。
-
-
-从日常的角度来看，对于 DAO 领域的历史和文学爱好者来说，DAO 的工作可能相当有趣。你可能会在一个会议上看到一个古代苏美尔人的 Zigguart 占据了整个幻灯片屏幕。你可能开始在推特上谈论狩猎采集社会。你可能会在论坛上用哲学和理论而不是公认的商业最佳实践来支持你的想法。
-
-
-对我来说，在 DAO 领域中穿梭是一种丰富的智力体验。作为一名曾经的文科大学生，我可以整天谈论理论和思想。我曾就一部晦涩的莎士比亚戏剧中的一句话写了数千字文章。我喜欢这些东西。
-
-
-但是…即使是英语专业的我也会开始思考我们所做的事情的可持续性、盈利性和商业性。尤其是当我看到硅谷因为经济衰退而裁员时。
-
-
-感觉 DAO 走出了一种基于学术的、热爱理论的思维模式。这并不是一件坏事——它只是意味着我们需要在赚到足够的钱来支付贡献者并继续保持下去时发挥创造力。
-
-
-在这个高度金融化的领域，大多数 DAO 都没有盈利，这是一个巨大的悖论。这并不意味着他们永远不会盈利，或者他们不能作为有效的企业运作。但这确实意味着我们需要摆脱一些旧的观念，即成为一个成功的企业意味着什么，以及 DAO 需要什么来支持其核心团队。
-
-
-似乎将Token作为自己产品，并仅仅依靠「
-
-Token
-
-上涨」来支付贡献者的 DAO 已经过时了。但当涉及到其他融资模式时，DAO 就会陷入僵局。他们并没…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
