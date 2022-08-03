@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-03T00:50:23.813Z</updated>
+    <updated>2022-08-03T06:11:11.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上千名YC校友的Orange DAO，投了哪些新项目？]]></title>
+        <id>https://www.theblockbeats.info/news/31471</id>
+        <link href="https://www.theblockbeats.info/news/31471"/>
+        <updated>2022-08-03T03:19:10.000Z</updated>
+        <summary type="html"><![CDATA[撰文：FFFake  
+
+
+DAO 和 Web3 生态系统赋予了投资者一个崭新的全球标准化治理框架和金融基础设施，从而使投资 DAO 展现出了强大的生机和活力。今天要跟大家分享的是一个很强大的」类 VC「投资 DAO，它就是成立于 2021 年 10 月由 Y Combinator 校友创办的 Orange DAO。
+
+
+YC 校友聚会
+
+
+作为全球顶级的加速器，YC 已经算是家喻户晓，但看加密领域，Coinbase、OpenSea 这些顶流平台都是 YC 的 portfolio。
+
+
+Orange DAO 是在 2021 年末由几十名 YC 校友组成的，目前规模已经超过 1000 人，YC 校友身份是成为 DAO 成员的门槛。Orange DAO 并不是 YC 创始人对 Web3 的首次尝试。早在 2017 年，数百名校友就创建了先锋基金来支持 Web3 项目，这是一个偏传统的风险工具。相比之下，Orange DAO 则作为一个去中心化的自治组织运作，使用区块链技术帮助多个用户做出集体决策。
+Oranged DAO 最初被命名为 "YC Crypto DAO"，但它已经渐渐创立起了自身的独特品牌，并使用了新的名称——Orange DAO 和新的吉祥物——一个戴着眼镜的像素化柑橘类水果，绰号为 "Juicy Returns"。
+
+Orange DAO 帮助初创企业申请，如若被 YC 接受，将提供资金并指导项目创始人发展项目，以及帮助招聘人才和获取客户。
+
+
+Orange DAO 的治理模式与投资制度
+
+
+Orange DAO 充分发挥 Token 治理的优势，并在创立之初的宪章中就对治理 Token 的发行、分配、使用规则等做了详尽的规定。作为一个」类 VC「投资 DAO，Orange DAO 也在宪章中充分定义了 DAO 与基金的复杂关系。
+
+
+Orange DAO 的 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Medium的10年：从创建、增长、转型到寻找新目标]]></title>
         <id>https://www.theblockbeats.info/news/31467</id>
