@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-04 datetime="2022-08-04T09:18:39.000Z">2022-08-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-04 datetime="2022-08-04T09:18:39.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-04 datetime="2022-08-04T14:35:19.000Z">2022-08-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-04 datetime="2022-08-04T14:35:19.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,105 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31504"
+                        open
+                      >
+                        <summary class="article-expander__title">解析去中心化科学 (DeSci)：Web3正为开放科学奠定基础</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31504">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《
+
+DAOrayaki ｜为什么需要去中心化科学（附最新用例和资源）
+
+》
+原文作者：
+
+Ethereum
+
+
+原文编译：
+
+Shaun @DAOrayaki.org，
+
+DAOrayaki 
+
+
+
+去中心化科学 (DeSci) 是一项旨在建立公共基础设施的运动，用于使用 Web3 工具公平和平等地资助、创造、审查、信用、存储和传播科学知识。
+
+
+
+
+DeSci 旨在创建一个生态系统，激励科学家公开分享他们的研究及工作成果，同时允许任何人轻松访问并为研究做出贡献。DeSci 的理念是科学知识应该为每个人所接受，科学研究的过程应该是透明的。DeSci 正在创建一个更加去中心化和分布式的科学研究模型，使其更能抵抗中央当局的审查和控制。DeSci 希望通过分散资金、科学工具和沟通渠道，创造一个新的和非常规的想法可以蓬勃发展的环境。
+
+
+
+
+去中心化科学允许更多样化的资金来源（从 DAO、二次方融资到众筹等）、更易于访问的数据和方法，提供可重复性激励措施等。
+
+
+
+
+DeSci 如何改进科学
+
+
+
+
+科学中关键问题的不完整清单以及去中心化科学如何解决这些问题
+
+
+
+
+
+资金分配：
+
+
+
+DeSci：资金分配由公众使用二次方资助或 DAO 等机制确定。
+CeSci：小型、封闭、集中的团体控制着资金的分配。
+
+
+合作：
+
+
+DeSci：在充满活力的团队中与来自世界各地的同行合作。
+CeSci：资助组织和官僚机构限制合作。
+
+
+
+
+决策机制：
+
+
+DeSci：资金决定是在线和透明的。探索新的筹资机制。
+CeSci：资金决策的周转时间长且透明度有限。很少有筹资机制存在。
+
+
+
+
+共享研究资源：
+
+
+DeSci：使用 Web3 原语共享实验室服务变得更容易、更透明。
+CeSci：共享实验室资源通常缓慢且不透明。
+
+
+
+
+访问权限：
+
+
+DeSci：可以开发新的发布模型，使用 We…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -546,159 +645,6 @@ Medium 的创建是为了解决内容发现问题
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31449"
-                        open
-                      >
-                        <summary class="article-expander__title">被盗1.9亿美元，史上最混乱的ENS实名群殴</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31449">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文作者：Samczsun
-
-原文编译：TechFlow intern
-
-
-  TL;DR  
-
-
- 在一次升级中合约将 0x00 标记为有效的根，这就导致了 Nomad 充满了虚假信息。攻击者利用这一点来复制/粘贴有效的交易地址，在混乱中，跨链桥的资产被迅速耗尽了。
-
-
- Nomad 是我在 Web3 见过的最混乱的黑客攻击之一，截至目前被榨干了超过 1.5 亿美元。这究竟是如何发生的，根本原因是什么？请允许我带你了解幕后情况。
-
-
-
-
-
- 这一切都始于 CIA Officer在 ETHSecurity Telegram 频道分享 Spreek 的推文，虽然我当时不知道发生了什么，但大量的资产离开跨链桥显然是一个不好的迹象。
-
-
-
-
-
- 我的第一个想法是，Token 小数点的配置有误。毕竟，从我的视角看来，似乎跨链桥正在运行一个
-
-「发送 0.01 WBTC，返还 100 WBTC」的促销活动。
-
-
-
-
-
- 开始还不相信，然而，在 Moonbeam 网络上进行了一些人工挖掘后，我确认，事实的确是此，从 Moonbeam 只转出了 0.01 WBTC，但以太坊上却不知为什么收到了 100 WBTC。
-
-
-
-
-
-
- 此外，WBTC 这次桥接交易实际上并没有 Prove 这一步骤，它只是直接调用了&#x60;Process&#x60;。只能说，在没有证明的情况下就能处理一个消息是非常不好的。
-
-
-
-
-
- 在这种情况有两种可能，要么证明是在较早的区块中单独提交的，要么就是 Replica 合约出了极大的问题。然而，完全没有迹象表明最近有什么信息被单独证明了。
-
-
-
-
-
- 所以，就只剩下一种可能——Replica 合约中存在致命的缺陷，但怎么会呢？通过快速浏览信息发现了，提交的消息必须属于可接受的根，否则，第 185 行的检查会失败。
-
-
-
- 幸运的是，有一种简单的方法可以检查这个假设。我知道一个未被证明消息的根是 0x00，因为 messages[_messageHash] 显示未初始化，我所要做的就是检查合约是否会接受这个根。
-
-
-
-
-
- 合约接受了......
-
-
-
-
-
- 事实证明，在升级期间，Nomad 团队将可信根初始化为 0x00。说白了，使用 0 值作为初始化值是一种常见的做法。不幸的是，在这种情况下，它有一个很小的副作用，即会自动验证每一条消息。
-
-
-
-
-
-
- 这就是此次事件如此混乱的原因——你不需要知道 Solidity 或默克尔树（Merkle Trees）之类的东西。你所要做的就是找到一个有效的交易，用你的地址找到/替换对方的地址，然后重新广播。
-
-
-原文链接
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31450"
-                        open
-                      >
-                        <summary class="article-expander__title">跨链桥为什么会有这么多低级事故？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31450">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《跨链桥为什么这么多事故？》
-原文作者：0xScope团队
-
-
-前言
-
-
-近期频发的跨链安全问题吸引市场的广泛关注，本文希望从产品设计的角度入手，给读者讲述为什么这个赛道的产品安全问题这么多。需要声明的是，文章中所指出的问题并不是每个项目都会存在的，大部分问题在设计时都已经有了相关的应对策略，本文的目的主要还是希望更多人可以理解这个赛道的复杂程度。
-
-
-文章的撰写逻辑是：先讲清楚通用的跨链桥都是怎么设计的，加深读者对跨链桥的理解，再总结这些跨链桥可能会遇到的安全问题。
-
-
-一：万变不离其宗的跨链方案
-
-
-之前的研报实际上已经向大家阐述过几种不同类型的信息跨链方案，不论最终的呈现是什么样的，从产品设计的角度来说，只有侧链（广义上的侧链，在文中讲 rollup 也归纳为侧链，别杠），哈希时间锁定，公证人这三种机制。
-
-
-（一）侧链
-
-
-这三种方案中侧链方案的安全性最高，比如各种不同的 rollup 和 polkadot 的平行链。主链和侧链之间共享安全性。
-
-
-但是侧链方案一般要求原链和目标链同构，这样一来可适用的场景就要少得多。这也是为什么 V 神认为赞同多链，但不认可跨链的原因所在，因为无法共享安全性的跨链方案实在是问题太多了。
-
-
-（二）哈希时间锁定
-
-
-这种方案号称是点对点的最去中心化的异构跨链方案，但是成本较高，用户等待时间过长，导致当前的采用率并不高。且当我们依然需要一个第三方充当换币中间节点时，也需要一个所谓的中间共识层去满足安全性和去中心化的要求。
-
-
-（三）公证人机制
-
-
-这是当前最常用的异构跨链桥方案，市场上的大多数产品基本都同根同源，从产品设计的角度来说几乎没有区别。主要的区别可能集中在信息校验的方式步骤，公证人的共识算法，托管钱包的签名算法等。从使用体验和安全性上的差别也都不太大。因此，从安全的角度来说，所面临的安全风险也是有很多共性的。
-
-
-…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -706,8 +652,8 @@ Medium 的创建是为了解决内容发现问题
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2796544863">
-        <time id="build-timestamp" datetime="2022-08-04T12:15:10.272Z">2022-08-04T12:15:10.272Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2798687072">
+        <time id="build-timestamp" datetime="2022-08-04T18:10:13.845Z">2022-08-04T18:10:13.845Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
