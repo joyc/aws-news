@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31506",
+          "author": null,
+          "description": "原文标题：《The different types of ZK-EVMs》\n原文来源：Vitalik Buterin 个人主页\n原文作者：Vitalik Buterin\n原文编译：Block unicorn\n\n\n\n\n\n\n最近有许多「ZK-EVM」项目高调发布公告。Polygon 开放了他们的 ZK-EVM 项目，ZKSync 发布了他们的 ZKSync 2.0 计划，相对较新的 Scroll 最近也发布了他们的 ZK-EVM。还有来自隐私和拓展探索的团队、Nicolas Liochon 等人的团队的持续努力，从 EVM 到 Starkware 的 zk 友好语言 Cairo 的 alpha 编译器，当然有一些项目我会错过。\n\n\n\n所有这些项目的核心目标都是相同的：使用 ZK-SNARK 技术来对类似以太坊的交易执行进行加密证明，要么让验证以太坊链本身变得更容易，要么构建与以太坊提供的内容 (接近) 相同但可扩展性更强的 zk rollup。但这些项目之间存在着微妙的差异，以及它们在实用性和速度之间的权衡。这篇文章将尝试描述 EVM 等价性的不同「类型」的分类，以及尝试实现每种类型的好处和成本。\n\n\n\n\n概述 (图表形式)\n\n\n\n\n\n\n\n\n\n类型 1（完全等效于以太坊）\n\n\n\n类型 1 ZK - EVM 力求完全和毫不妥协的等效于以太坊。它们不改变以太坊系统的任何部分，以使生成证明更容易。它们不会取代哈希、状态树、事务树、预编译或任何其他共识逻辑，无论它有多么外围。\n\n\n\n\n优势:完美的兼容性\n\n\n\n我们的目标是能够像现在一样验证以太坊区块，或者至少验证执行层 (因此，信标链共识逻辑不包括在内，但包括所有的交易执行和智能合约和账户逻辑)。\n\n\n\n类型 1 ZK-EVM 是我们最终需要的，使以太网第 1 层本身更具可扩展性。从长远来看，在类型 2 或类型 3 ZK-EVM 中测…",
+          "link": "https://www.theblockbeats.info/news/31506",
+          "publishedOn": "2022-08-05T04:02:19.000Z",
+          "wordCount": null,
+          "title": "听V神解读不同类型ZK-EVM的未来",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31504",
           "author": null,
           "description": "原文标题：《\n\nDAOrayaki ｜为什么需要去中心化科学（附最新用例和资源）\n\n》\n原文作者：\n\nEthereum\n\n\n原文编译：\n\nShaun @DAOrayaki.org，\n\nDAOrayaki \n\n\n\n去中心化科学 (DeSci) 是一项旨在建立公共基础设施的运动，用于使用 Web3 工具公平和平等地资助、创造、审查、信用、存储和传播科学知识。\n\n\n\n\nDeSci 旨在创建一个生态系统，激励科学家公开分享他们的研究及工作成果，同时允许任何人轻松访问并为研究做出贡献。DeSci 的理念是科学知识应该为每个人所接受，科学研究的过程应该是透明的。DeSci 正在创建一个更加去中心化和分布式的科学研究模型，使其更能抵抗中央当局的审查和控制。DeSci 希望通过分散资金、科学工具和沟通渠道，创造一个新的和非常规的想法可以蓬勃发展的环境。\n\n\n\n\n去中心化科学允许更多样化的资金来源（从 DAO、二次方融资到众筹等）、更易于访问的数据和方法，提供可重复性激励措施等。\n\n\n\n\nDeSci 如何改进科学\n\n\n\n\n科学中关键问题的不完整清单以及去中心化科学如何解决这些问题\n\n\n\n\n\n资金分配：\n\n\n\nDeSci：资金分配由公众使用二次方资助或 DAO 等机制确定。\nCeSci：小型、封闭、集中的团体控制着资金的分配。\n\n\n合作：\n\n\nDeSci：在充满活力的团队中与来自世界各地的同行合作。\nCeSci：资助组织和官僚机构限制合作。\n\n\n\n\n决策机制：\n\n\nDeSci：资金决定是在线和透明的。探索新的筹资机制。\nCeSci：资金决策的周转时间长且透明度有限。很少有筹资机制存在。\n\n\n\n\n共享研究资源：\n\n\nDeSci：使用 Web3 原语共享实验室服务变得更容易、更透明。\nCeSci：共享实验室资源通常缓慢且不透明。\n\n\n\n\n访问权限：\n\n\nDeSci：可以开发新的发布模型，使用 We…",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-08-03T03:19:10.000Z",
           "wordCount": null,
           "title": "上千名YC校友的Orange DAO，投了哪些新项目？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31467",
-          "author": null,
-          "description": "原文标题：《\n\nMedium 成功了吗?\n\n》\n原文作者：\n\nNathan Baschez，\n\nEvery\n原文编译：RR\n本文来自微信公众号：老雅痞\n\n\n在创立 Medium 公司 10 年后，Ev Williams 辞去了该公司首席执行官一职。\n\n\n专家们对这一消息的反应从沉默到批判不一而足。在过去的十年里，媒体对 Medium 的描述变得很糟糕，因为该公司反复改变战略，经常影响到其员工和用户。\n\n\n本周我们可能已经看到了这种叙述的高潮：\n\n\n\n\n\nCasey Newton 的说法是「Ev Williams gives up」，他放弃了回到传统媒体的权利，并放弃了写他的 Substack 通讯。\n\n\nCasey 的这篇文章是对传统版本的 Medium 故事的经典复述:他们控制的太多并欺骗了作者，他们筹集了太多资金，并未能实现其过于雄心勃勃的修复媒体的目标。这个故事有很多地方是对的，但完整的真相更加有趣和复杂。对于那些想知道传统出版商和开放平台是如何碰撞的、为什么这么多善意的「拯救媒体」的努力似乎以失望告终，以及互联网上的作家和读者接下来会如何的人来说，本文值得一读。\n\n\n我没有任何关于 Medium 的内部消息，但我从一开始就一直是一个密切的观察者和用户，我是他们主要竞争对手 Substack 的早期员工。所以我想现在是一个很好的机会从我的角度来写 Medium 的故事。\n\n\n首先，让我们回到开头。\n\n\nMedium 的创建是为了解决内容发现问题\n\n\n2012 年 8 月，Ev 发布了一篇向世界介绍 Medium 的文章。在文中，他向作家们推荐了使用 Medium 的三个理由:\n\n\n1、专注的写作体验\n\n\n2、协作工具 (例如 Google Docs 风格的评论)\n\n\n3、通过策划和算法将你的文章推荐给新读者\n\n\n第一个原因，写作的用户体验是一个典型的产品楔子示例。为工…",
-          "link": "https://www.theblockbeats.info/news/31467",
-          "publishedOn": "2022-08-02T14:54:03.000Z",
-          "wordCount": null,
-          "title": "Medium的10年：从创建、增长、转型到寻找新目标",
           "imageUrl": null
         }
       ]

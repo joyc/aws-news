@@ -22,6 +22,97 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-05 datetime="2022-08-05T04:02:19.000Z">2022-08-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-05 datetime="2022-08-05T04:02:19.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31506"
+                        open
+                      >
+                        <summary class="article-expander__title">听V神解读不同类型ZK-EVM的未来</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31506">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《The different types of ZK-EVMs》
+原文来源：Vitalik Buterin 个人主页
+原文作者：Vitalik Buterin
+原文编译：Block unicorn
+
+
+
+
+
+
+最近有许多「ZK-EVM」项目高调发布公告。Polygon 开放了他们的 ZK-EVM 项目，ZKSync 发布了他们的 ZKSync 2.0 计划，相对较新的 Scroll 最近也发布了他们的 ZK-EVM。还有来自隐私和拓展探索的团队、Nicolas Liochon 等人的团队的持续努力，从 EVM 到 Starkware 的 zk 友好语言 Cairo 的 alpha 编译器，当然有一些项目我会错过。
+
+
+
+所有这些项目的核心目标都是相同的：使用 ZK-SNARK 技术来对类似以太坊的交易执行进行加密证明，要么让验证以太坊链本身变得更容易，要么构建与以太坊提供的内容 (接近) 相同但可扩展性更强的 zk rollup。但这些项目之间存在着微妙的差异，以及它们在实用性和速度之间的权衡。这篇文章将尝试描述 EVM 等价性的不同「类型」的分类，以及尝试实现每种类型的好处和成本。
+
+
+
+
+概述 (图表形式)
+
+
+
+
+
+
+
+
+
+类型 1（完全等效于以太坊）
+
+
+
+类型 1 ZK - EVM 力求完全和毫不妥协的等效于以太坊。它们不改变以太坊系统的任何部分，以使生成证明更容易。它们不会取代哈希、状态树、事务树、预编译或任何其他共识逻辑，无论它有多么外围。
+
+
+
+
+优势:完美的兼容性
+
+
+
+我们的目标是能够像现在一样验证以太坊区块，或者至少验证执行层 (因此，信标链共识逻辑不包括在内，但包括所有的交易执行和智能合约和账户逻辑)。
+
+
+
+类型 1 ZK-EVM 是我们最终需要的，使以太网第 1 层本身更具可扩展性。从长远来看，在类型 2 或类型 3 ZK-EVM 中测…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-04 datetime="2022-08-04T14:35:19.000Z">2022-08-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-04 datetime="2022-08-04T14:35:19.000Z"></time>
           </button>
@@ -552,108 +643,10 @@ Orange DAO 的 …</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-02 datetime="2022-08-02T14:54:03.000Z">2022-08-02</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-02 datetime="2022-08-02T14:54:03.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >TheBlockBeats - 新闻</button>
-                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31467"
-                        open
-                      >
-                        <summary class="article-expander__title">Medium的10年：从创建、增长、转型到寻找新目标</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31467">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《
-
-Medium 成功了吗?
-
-》
-原文作者：
-
-Nathan Baschez，
-
-Every
-原文编译：RR
-本文来自微信公众号：老雅痞
-
-
-在创立 Medium 公司 10 年后，Ev Williams 辞去了该公司首席执行官一职。
-
-
-专家们对这一消息的反应从沉默到批判不一而足。在过去的十年里，媒体对 Medium 的描述变得很糟糕，因为该公司反复改变战略，经常影响到其员工和用户。
-
-
-本周我们可能已经看到了这种叙述的高潮：
-
-
-
-
-
-Casey Newton 的说法是「Ev Williams gives up」，他放弃了回到传统媒体的权利，并放弃了写他的 Substack 通讯。
-
-
-Casey 的这篇文章是对传统版本的 Medium 故事的经典复述:他们控制的太多并欺骗了作者，他们筹集了太多资金，并未能实现其过于雄心勃勃的修复媒体的目标。这个故事有很多地方是对的，但完整的真相更加有趣和复杂。对于那些想知道传统出版商和开放平台是如何碰撞的、为什么这么多善意的「拯救媒体」的努力似乎以失望告终，以及互联网上的作家和读者接下来会如何的人来说，本文值得一读。
-
-
-我没有任何关于 Medium 的内部消息，但我从一开始就一直是一个密切的观察者和用户，我是他们主要竞争对手 Substack 的早期员工。所以我想现在是一个很好的机会从我的角度来写 Medium 的故事。
-
-
-首先，让我们回到开头。
-
-
-Medium 的创建是为了解决内容发现问题
-
-
-2012 年 8 月，Ev 发布了一篇向世界介绍 Medium 的文章。在文中，他向作家们推荐了使用 Medium 的三个理由:
-
-
-1、专注的写作体验
-
-
-2、协作工具 (例如 Google Docs 风格的评论)
-
-
-3、通过策划和算法将你的文章推荐给新读者
-
-
-第一个原因，写作的用户体验是一个典型的产品楔子示例。为工…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2800566913">
-        <time id="build-timestamp" datetime="2022-08-05T00:51:52.114Z">2022-08-05T00:51:52.114Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2801638711">
+        <time id="build-timestamp" datetime="2022-08-05T06:10:49.132Z">2022-08-05T06:10:49.132Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
