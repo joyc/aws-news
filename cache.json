@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31511",
+          "author": null,
+          "description": "原文标题：《Why NFT Creators Are Going cc0》\n原文作者：Flashrekt & Scott Duke Kominers，a16z \n原文编译：老雅痞\n本文来自微信公众号：老雅痞\n\n\n\n\n每年元旦 1 月 1 日，也是「公共领域日」，成千上万的创造性作品首次自动进入公共领域。这意味着原创作者或版权持有人失去了他们的专属权利（例如，复制、改编或出版），有关作品可以免费供所有人使用。这种情况发生在电影、诗歌、音乐、艺术品、书籍上，这些作品的保护通常持续到作者去世后 70 年，在某些情况下甚至发生在源代码上。\n\n\n向公共领域开放创意作品也为各种新用途打开了大门。今年早些时候，估计有 40 万张 1923 年以前的录音，以及著名的《小熊维尼》开始公开。(那是连字符形式的小熊维尼，而不是仍由迪斯尼拥有的 1961 年的较新的、穿衬衫的版本）。随着 A.A.Milne 在 1926 年出版的《小熊维尼》一书中的大部分角色现在都已公开，我们开始看到创造性的改编和表达，Milne 可能从未预期或打算这样做。事实上，这只爱吃蜂蜜的熊的旧版本已经被改编为一部恐怖电影 Winnie-the-Pooh: Blood and Honey……维尼和小猪是反派。\n\n\n相对于许多经典的知识产权（IP）战略，实验和重组有时可以增加知识产权的价值，这是反直觉的。这是开放源码运动的一个核心动力，它明确允许公众在现有技术的基础上建立（或分叉和复制）。安卓、Linux 和其他成功的开源软件项目之所以如此有竞争力，很大一部分原因是它们对这种无许可创新的拥抱。Crypto 在吸引公众开发方面的成功，同样是由于其对开源的普遍认可，以及「合成文化」，这对一些 NFT 社区来说尤其如此。\n\n\n抓住生产的 meme\n\n\n通过知识产权建立品牌、社区和内容的策略在 NFT 项目中差异很大。一些项目或多或…",
+          "link": "https://www.theblockbeats.info/news/31511",
+          "publishedOn": "2022-08-05T14:58:21.000Z",
+          "wordCount": null,
+          "title": "a16z：NFT开发者为何选择cc0？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31510",
           "author": null,
           "description": "原文标题：《Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem》\n原文作者：Danny Nelson&Tracy Wang，CoinDesk\n原文编译：十文，Odaily 星球日报\n\n\n对于加密用户 Saint Eclectic 来说，Sunny Aggregator（一个 Solana 上的 DeFi 聚合器）的做法有些不太正常。\n\n\nSunny 的原生 Token 在去年夏天的牛市期间上涨了五倍。9 月初，Sunny 在成立还不到两周时间时，就有数十亿美元的加密货币涌入这个收益农场。\n\n\n然而，Saint 和其他人仍有疑问：Sunny 的幕后主理是谁？为什么这位开发者使用化名「Surya Khosla」？它的代码库是否经过审计？用户的现金安全吗？\n\n\n「没有迹象表明 Surya 是谁」，Saint 最近回忆道，「很多用户都觉得把他们的加密货币放进去不太安全。」\n\n\n事实证明，他们的怀疑是对的。CoinDesk 了解到 Surya 原名 Ian Macalinao，是 Saber（Solana 上的 Stablecoin 交易平台）的首席设计师。他在 Saber 的基础上构建了 Sunny Aggregator。\n\n\n来自德克萨斯州的 20 多岁的计算机专家 Ian 以 11 个独立开发人员的身份进行开发，创建了一个巨大的 DeFi 协议连锁网络，将数十亿美元双重计算的价值投射到 Saber 生态系统中。去年 11 月，当该网络正朝着它的顶点飞奔时，短暂抬高了 Solana 的总锁仓价值（TVL）——DeFi 的忠实用户往往将 TVL 视为链上活动的晴雨表。\n\n\n「我设计了一个最大化 Solana 的 TVL 的方案：我将构建相互堆叠的协议，这样 1 美元可以被计算多次，」Ian 在 CoinDes…",
@@ -83,46 +93,6 @@
           "publishedOn": "2022-08-03T14:57:52.000Z",
           "wordCount": null,
           "title": "数据决定人类：去中心化云存储的探索",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31484",
-          "author": null,
-          "description": "撰文：0xLaughing，律动 BlockBeats  \n\n\n\n\nOpenSea 的月交易量和日交易量（Ethereum）（图源：Dune @rchen8）\n\n\n\n\n自 Luna 暴雷引发连锁反应，整个加密市场暴跌，NFT 市场也一夜进入寒冬。据报道，8 月 1 日 Dune Analytics 数据显示，OpenSea 的 7 月交易量仅为 5.28 亿美元，相比 2022 年 1 月的历史最高值（48.57 亿美元）下跌 89.12%，创一年以来新低。\n\n\n\n\n在当下的熊市里，一方面 NFT 投资者要忍受此前下跌造成的资产大规模缩水的事实，另一方面层出不穷的诈骗项目也让他们防不胜防。\n\n\n\n\n然而，NFT 市场的不景气和交易量持续走低，不法分子通过刷量来「打榜」，以极低的成本快速登上 NFT 交易平台的交易量排行榜，这让 OpenSea 等 NFT 交易平台正在成为滋生新型 NFT 诈骗项目的温床。\n\n\n\n\n诈骗流程详解\n\n\n\n\n本节将通过最近流行的新型 NFT 诈骗项目之一 Geometric birds 的诈骗流程，拆解它如何一步一步引诱 NFT 投资者上钩的。\n\n\n\n\n制造假象\n\n\n\n\n\nGeometric birds 在Uniq.cx上 24 小时交易量排名第 6\n\n\n\n\n如果你在周二打开 OpenSea 主页，很容易就会注意到在其 24 小时交易量排行榜上有一个名为 Geometric birds的项目位居前列（现已被 OpenSea 下架）。\n\n\n\n\n\nOpenSea 上关于这个项目的简介\n\n\n\n\n当你点进这个项目主页仔细浏览，会发现它其实是一个以 Moonbirds 为原型进行二次创作的一个 NFT 仿盘项目，总量 1.5k，共有 576 个持有者，人均持有 2.6 个，这个比例偏高但也还算正常，总交易量在 24 小时里达到了 323E，地板价最高曾达到…",
-          "link": "https://www.theblockbeats.info/news/31484",
-          "publishedOn": "2022-08-03T10:12:23.000Z",
-          "wordCount": null,
-          "title": "NFT新骗局：能上OpenSea榜单的「NFT貔貅盘」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31483",
-          "author": null,
-          "description": "原文标题：《Nansen：NFT 项目方如何处理筹集到的 ETH？》\n原文来源：Nansen \n原文编译：DeFi 之道\n\n\n在 2022 年上半年，市场参与者在铸造 NFT  上花费了大约 27 亿美元的资金。那 NFT 项目用他们筹集的钱到底做了什么呢？\n\n\n在 2022 年 1 月 1 日至 6 月 30 日期间，市场参与者在以太坊区块链上花费了 963227 个 ETH （约 27 亿美元）用于 NFT 的铸造。\n\n\nNFT 项目方筹集的 ETH 中有大约一半（50.7%）保留在了自己手中，而 45.7% 的 ETH 则流通到了非实体钱包中。\n\n\n这些通过铸造 NFT 筹集到的 ETH 流通到非实体钱包的数量已经从之前报告的 52.3%（11 个月前）下降到目前的 45.7%。排名靠前的非实体钱包包括了 ETH 百万富翁、使用过 EIP1559 的钱包、NFT 收藏家、重度去中心化交易平台交易者和一些私人钱包。\n\n\n累计起来，通过铸造筹集 ETH 的前五个 NFT 项目累计筹集了 81364 个 ETH；估计占观察期内所有项目筹集的 ETH 总量的 8.4%。\n\n\nNansen 之前发表了一篇研究文章，该文章追踪了 NFT 收藏品通过主要销售（即 NFT 的铸造）筹集的以太币（ETH）的流向。近一年来，我们重新审视了这个研究课题，进而看看之前发现的趋势是否仍然成立。具体来说，NFT 收藏品是如何处理他们筹集的 ETH 的？\n\n\n对以太坊上的 NFT 铸造进行调查\n\n\n\n以太坊上 NFT 的铸造量（2022 年 1 月 1 日至 6 月 30 日）\n\n\n目前的研究分析了 2022 年 1 月 1 日至 6 月 30 日期间，项目方通过销售主要 NFT 收藏品而获得的 ETH 的流向。在此期间，市场参与者在 NFT 铸造上花费了 963227 个 ETH（约 27 亿美…",
-          "link": "https://www.theblockbeats.info/news/31483",
-          "publishedOn": "2022-08-03T09:53:23.000Z",
-          "wordCount": null,
-          "title": "Nansen：NFT项目方如何处理筹集到的ETH？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31482",
-          "author": null,
-          "description": "原文作者：Jake Pahor\n原文编译：TechFlow intern\n\n\n我研究了所有与以太坊第二层解决方案相关的项目，包括广义的 L2（Polygon）和特定应用的 L2（dYdX），并从这些伟大的项目中选出了我心目中的前五名。\n\n\n\n\n1. 是否产生了收入？\n\n\n深入研究 Token Terminal，发现了一些非常有趣的统计数据。在过去的 180 天里，获得的总收入（费用）为：\n\n\ndYdX 2.122 亿美元\n\n\nArbitrum 1370 万美元\n\n\nPolygon 880 万美元\n\n\nOptimism 850 万美元\n\n\nLoopring 250 万美元\n\n\n正如你在图表中看到的，与其他项目相比，dYdX 具有压倒性的优势。Arbitrum 排在第二位，但您可以看到，在过去的一个月里，Polygon 一直处于领先地位，并且势头强劲。\n\n\n\n\n\n\n\n \n\n\n\n\n\n2. 国库资源的分配\n\n\n研究此问题的要素分为：\n\n\n他们是否有不同的资产，或者只是他们的原生 Token（更多的风险）\n\n\n国库有多大，给项目带来多大的发展空间？\n\n\nPolygon：很难找到关于 Polygon 国库规模和内容的任何信息。然而，我们知道最近有 10 亿美元被承诺用于开发 ZK 项目，我们可以假设其国库的总规模远大于此。\n\n\nOptimism：30% 的初始 Token 供应（12.9 亿 OP）将分配给社区基金（生态系统基金+ RetroPGF）=价值约 18.5 亿美元的 OP Token（基于当前价格 1.43 美元）。\n\n\ndYdX：初始 Token 供应的 5%（5000 万 DYDX）被分配给社区国库。按照今天的价格（2.27 美元），这大约是 1.13 亿美元。\n\n\nLoopring：20% 的 Token 供应（2.75 亿 LRC）被分配给 LEAF，价值约 1.1…",
-          "link": "https://www.theblockbeats.info/news/31482",
-          "publishedOn": "2022-08-03T09:39:23.000Z",
-          "wordCount": null,
-          "title": "从Token到团队，谁是Layer2的赢家？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31471",
-          "author": null,
-          "description": "撰文：FFFake  \n\n\nDAO 和 Web3 生态系统赋予了投资者一个崭新的全球标准化治理框架和金融基础设施，从而使投资 DAO 展现出了强大的生机和活力。今天要跟大家分享的是一个很强大的」类 VC「投资 DAO，它就是成立于 2021 年 10 月由 Y Combinator 校友创办的 Orange DAO。\n\n\nYC 校友聚会\n\n\n作为全球顶级的加速器，YC 已经算是家喻户晓，但看加密领域，Coinbase、OpenSea 这些顶流平台都是 YC 的 portfolio。\n\n\nOrange DAO 是在 2021 年末由几十名 YC 校友组成的，目前规模已经超过 1000 人，YC 校友身份是成为 DAO 成员的门槛。Orange DAO 并不是 YC 创始人对 Web3 的首次尝试。早在 2017 年，数百名校友就创建了先锋基金来支持 Web3 项目，这是一个偏传统的风险工具。相比之下，Orange DAO 则作为一个去中心化的自治组织运作，使用区块链技术帮助多个用户做出集体决策。\nOranged DAO 最初被命名为 \"YC Crypto DAO\"，但它已经渐渐创立起了自身的独特品牌，并使用了新的名称——Orange DAO 和新的吉祥物——一个戴着眼镜的像素化柑橘类水果，绰号为 \"Juicy Returns\"。\n\nOrange DAO 帮助初创企业申请，如若被 YC 接受，将提供资金并指导项目创始人发展项目，以及帮助招聘人才和获取客户。\n\n\nOrange DAO 的治理模式与投资制度\n\n\nOrange DAO 充分发挥 Token 治理的优势，并在创立之初的宪章中就对治理 Token 的发行、分配、使用规则等做了详尽的规定。作为一个」类 VC「投资 DAO，Orange DAO 也在宪章中充分定义了 DAO 与基金的复杂关系。\n\n\nOrange DAO 的 …",
-          "link": "https://www.theblockbeats.info/news/31471",
-          "publishedOn": "2022-08-03T03:19:10.000Z",
-          "wordCount": null,
-          "title": "上千名YC校友的Orange DAO，投了哪些新项目？",
           "imageUrl": null
         }
       ]
