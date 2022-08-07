@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-07T00:46:46.283Z</updated>
+    <updated>2022-08-07T06:10:20.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊区块链账户抽象概览]]></title>
+        <id>https://www.theblockbeats.info/news/31519</id>
+        <link href="https://www.theblockbeats.info/news/31519"/>
+        <updated>2022-08-07T04:03:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《An overview of Account Abstraction in Ethereum blockchain》
+原文作者：Yash Kamal Chaturvedi
+原文编译：ETH 中文
+
+
+计算机编程中的抽象和数据抽象指的是隐藏除了「对象」相关数据以外的所有数据的过程，目的是减少复杂性并提高有效性。它通过省略不必要细节的方式来表示对象。抽象是面向对象编程（object-oriented programming）的三大原理之一，它与封装和数据隐藏有关。这篇文章将为以下方面提供概览：
+
+
+
+
+ 以太坊账户抽象
+· 外部账户/用户账户
+· 合约
+
+
+ 为账户抽象提议的 EIP
+· EIP-86：事务来源和签名的抽象
+· EIP-2938：账户抽象
+· EIP-4337：通过入口点合约 (Entry Point Contract) 实现的账户抽象
+
+
+ 用例
+· 钱包
+· 赞助交易
+· 混币
+· DeFi 协议
+
+
+
+
+账户抽象
+
+
+
+
+以太坊的账户抽象以创建单一账户类型为目标，这种账户将包含所有相关方面，而且没有任何无关的方面，让开发人员的工作更加轻松。
+
+
+
+
+以太坊账户类型
+
+
+
+
+目前，在以太坊区块链上有两种类型的账户：
+
+
+
+
+
+
+
+
+
+用户账户（EOA）
+
+
+用户账户是给一般人使用的（人类）。
+
+
+· 这些账户由对应公共地址的私钥所控制，比如用户的钱包账户。
+· 这些账户又称为外部账户 (EOA)，不需要 ETH 余额就可以在区块链上创建一个外部账户。但是，两个外部账户之间可以用 ETH 进行交易，也可以用 ERC 支持的其他 Token。
+· 外部账户 (钱包) 用于加密货币的发送和接受功能存在于以太坊虚拟机（EVM）的外部。
+
+
+
+
+合约
+
+
+合约是一组由代码控制的指令。
+
+
+
+
+· 因为使用了网络储存，所以创建一份合约通常会产生相关成本。
+·…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOVE语言与新公链的崛起]]></title>
         <id>https://www.theblockbeats.info/news/31518</id>
@@ -413,98 +500,6 @@ Binance
 
 
 类型 1 ZK-EVM 是我们最终需要的，使以太网第 1 层本身更具可扩展性。从长远来看，在类型 2 或类型 3 ZK-EVM 中测…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析去中心化科学 (DeSci)：Web3正为开放科学奠定基础]]></title>
-        <id>https://www.theblockbeats.info/news/31504</id>
-        <link href="https://www.theblockbeats.info/news/31504"/>
-        <updated>2022-08-04T14:35:19.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-DAOrayaki ｜为什么需要去中心化科学（附最新用例和资源）
-
-》
-原文作者：
-
-Ethereum
-
-
-原文编译：
-
-Shaun @DAOrayaki.org，
-
-DAOrayaki 
-
-
-
-去中心化科学 (DeSci) 是一项旨在建立公共基础设施的运动，用于使用 Web3 工具公平和平等地资助、创造、审查、信用、存储和传播科学知识。
-
-
-
-
-DeSci 旨在创建一个生态系统，激励科学家公开分享他们的研究及工作成果，同时允许任何人轻松访问并为研究做出贡献。DeSci 的理念是科学知识应该为每个人所接受，科学研究的过程应该是透明的。DeSci 正在创建一个更加去中心化和分布式的科学研究模型，使其更能抵抗中央当局的审查和控制。DeSci 希望通过分散资金、科学工具和沟通渠道，创造一个新的和非常规的想法可以蓬勃发展的环境。
-
-
-
-
-去中心化科学允许更多样化的资金来源（从 DAO、二次方融资到众筹等）、更易于访问的数据和方法，提供可重复性激励措施等。
-
-
-
-
-DeSci 如何改进科学
-
-
-
-
-科学中关键问题的不完整清单以及去中心化科学如何解决这些问题
-
-
-
-
-
-资金分配：
-
-
-
-DeSci：资金分配由公众使用二次方资助或 DAO 等机制确定。
-CeSci：小型、封闭、集中的团体控制着资金的分配。
-
-
-合作：
-
-
-DeSci：在充满活力的团队中与来自世界各地的同行合作。
-CeSci：资助组织和官僚机构限制合作。
-
-
-
-
-决策机制：
-
-
-DeSci：资金决定是在线和透明的。探索新的筹资机制。
-CeSci：资金决策的周转时间长且透明度有限。很少有筹资机制存在。
-
-
-
-
-共享研究资源：
-
-
-DeSci：使用 Web3 原语共享实验室服务变得更容易、更透明。
-CeSci：共享实验室资源通常缓慢且不透明。
-
-
-
-
-访问权限：
-
-
-DeSci：可以开发新的发布模型，使用 We…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
