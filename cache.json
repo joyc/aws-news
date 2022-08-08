@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31523",
+          "author": null,
+          "description": "原文标题：《OP Summer 来了？这些项目已开启挖矿，将奖励用户千万枚 Optimism Token》  \n原文作者：雾海，PANews  \n\n\nOptimism 的经济模型中设立了公共产品追溯资助。项目方可提案申请 Optimism Collective 资助。根据 snapshot 投票记录，目前申请项目数 50 余家，申请通过的单项目获得资助 30 万-1000 万 OP 不等。\n\n\n近期，获得公共产品追溯资助的项目方开始反哺 Optimism 生态，开启挖矿获得 OP Token奖励，本文 PANews 将介绍已率先开启 OP 挖矿奖励的项目和活动。\n\n\nAave：流动性挖矿分发 500 万 OP\n\n\nAave 是一个开源、非托管的去中心化加密资产借贷协议，用户可以作为存款人或借款人参与。储户向市场提供流动性以赚取被动收入，而借款人能够以超额抵押（永久）或欠额抵押（单块流动性）的方式借款。\n\n\nAave 官方于北京时间 8 月 5 日官方发推宣布，Aave V3 上线 Optimism 流动性挖矿，该计划持续 90 天，将向 Aave 协议的 Optimism 市场用户分发 500 万 OP。用户目前可使用 ETH、USDC、USDT 等多种资产挖矿，当前年化收益率为 4%-6%。\n\n\n官网：https://app.aave.com/\n\n\nWePiggy：瓜分 24 万枚 OP 以及 7500 万枚 WPC\n\n\nWePiggy 是开源、非托管的加密资产借贷协议，在 WePiggy 的市场上，用户可存入特定的加密资产赚取利息，也可以支付一定的利息借取某种加密资产。与 Compound 和 Aave 等先驱者相比，WePiggy 在优先考虑资金安全的前提上，积极创建更为丰富的借贷市场，优化智能合约的执行效率，乃至拓展更多维度的业务逻辑。\n\n\nWePiggy 于北京时…",
+          "link": "https://www.theblockbeats.info/news/31523",
+          "publishedOn": "2022-08-08T10:04:47.000Z",
+          "wordCount": null,
+          "title": "这些Optimism生态项目已开启挖矿奖励活动，用户参与可瓜千万枚OP Token",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31522",
           "author": null,
           "description": "7 月，去中心化域名赛道再次迎来了爆发。拿目前应用最广泛的去中心化域名 ENS（Ethereum Name Service）来看，Dune Analytics 数据显示，ENS 7 月新注册域名数达到 378,442 个，再创新高，超过了此前 5 月创下的 365,652 个的记录，总创建数则超过了 186 万个，参与注册的独立地址数逾 50 万。\n\n\n\n\n另一方面，知名 NFT 域名服务提供商 Unstoppable Domains 也于 7 月底完成了 6500 万美元的 A 轮融资，由 Pantera Capital 领投，Mayfield、Gaingels、Alchemy Ventures、Redbeard Ventures、Spartan Group、OKG Investments、Polygon、CoinDCX、CoinGecko 等参投，投后估值达到 10 亿美元。\n\n\n\n\n这些去中心化的域名项目，不仅为用户将区块链原生的底层地址映射为可读的「用户名」，还通过与一些钱包和应用集成，极大地提高了后者的可访问性。不过，除了 ENS、Unstoppable Domains 等头部项目外，市场依然还存在着一些潜力十足的类似项目，如 BNB Chain 上的域名服务商 BNS（Binance Name Service），便是一个基于该链开放的、可扩展、分布式域名系统。\n\n\n\n\n\n\n\n\n\n去中心化域名：Web3 时代的基础构件\n\n\n\n\n区块链创造了一种绝妙的资产记录方式，而随着加速进入到 Web3 时代，区块链网络不仅可以承载用户的资产，在智能合约的加持下还可以提供各类业务或服务。如越来越多的去中心化域名服务的出现，为用户将一系列地址映射为更加可读的名称时，还为用户创建了强大的身份系统。\n\n\n\n\n此前，传统的 Web2 应用，主要是由「域名」和「服务器」组成，通过 DNS…",
