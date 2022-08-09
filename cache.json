@@ -74,26 +74,6 @@
           "wordCount": null,
           "title": "以太坊区块链账户抽象概览",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31518",
-          "author": null,
-          "description": "原文标题：《Solidity 最强对手：MOVE 语言及新公链崛起》\n原文作者：Jason｜@Jason_chen998｜BuidlerDAO研究员\nFrank｜@MonolithMatrix｜BuidlerDAO研究员\nMove小王子｜知乎：手把手写Move智能合约\n\n\n新一轮公链叙事中有两个亮眼趋势：一是以 Move 编程语言为核心的高性能新公链，二是以 Celestia 为代表的模块化区块链。借助本文，我们简单聊一聊最新崛起的 Move 语言系公链三巨头，以及从技术视角出发，他们背后的 Move 语言究竟好在哪里。\n\n\n文章速览：\n\n\n01/ Move 语言系公链三巨头的崛起\n02/ 当前赛道霸主：Aptos\n03/ Resource 特性：Move 真正实现了数字资产化 \n04/ 技术差异总结：Solidity v.s. Move05/ Move 未来展望与课程学习  \n\n\n一. Move 语言系公链三巨头的崛起  \n\n\n·2019 年，Meta（原 Facebook）全球流通的超主权数字货币项目 Libra 问世，谁料想出道即巅峰，随后因监管限制被迫转型 Diem 无疾而终。今年 1 月底，Diem 以约 1.82 亿美元的价格被 Meta 出售。Libra 与 Diem 团队在这一过程中，留下了宝贵的遗产——弥补了 Solidity 及 EVM 缺陷的 Move 语言以及衍生出的公链团队，比如最具代表性的 Aptos、Sui 和 Linera。\n\n\n· 2021 年 12 月，起步最早的 Sui 公布了 3600 万美金的 A 轮融资，资方包括 a16z 与 NFX、Scribble Ventures、Redpoint、Lightspeed、Electric Capital、Samsung NEXT、Slow Ventures、Standard Crypto、C…",
-          "link": "https://www.theblockbeats.info/news/31518",
-          "publishedOn": "2022-08-06T09:02:59.000Z",
-          "wordCount": null,
-          "title": "MOVE语言与新公链的崛起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31514",
-          "author": null,
-          "description": "原文标题：《Using Crypto to Build Real-World Infrastructure》\n原文作者：Sami Kassab，Messari\n原文编译：饼干，链捕手\n\n\n\n概要\n\n\n\n \n物理工作证明 (Proof of Physical Work，即 PoPW) 是一种新颖的\n\nToken\n\n分配机制，奖励参与者在现实世界中完成可验证的物理性工作。\n\n\n许多协议正在利用物理工作证明框架来激励供应方参与构建硬件网络。其中包括无线、移动、环境、计算和存储网络。\n\n\n加密经济协议在激励和协调人类活动方面非常强大，使其对开发现实世界的去中心化基础设施和硬件网络非常有用。\n\n\n使用物理工作证明框架，协议可以激励参与者构建其网络，以使用户发现其吸引力。\n\n\n \n在市场下跌的过程中，加密货币批评者变得活跃，他们抨击该行业是否有任何真正的用例。除了资本形成的创新和非主权货币的使用案例、去除中间人以及打破垄断之外，他们的论点似乎是有道理的。但实际上，加密协议在协调数字领域的活动方面非常成功，以至于项目已经开始将加密用于现实世界的基础设施。\n\n\n加密经济协议可以通过区块链技术的协调能力来激励现实世界基础设施和硬件网络的发展。数以百万的个体可以联合起来，以无需信任、无需许可和程序化的方式部署和运营基础设施，而不是仅仅依赖于单一的中心化实体。\n\n\nMulticoin Capital 将这个机制称为物理工作证明 (PoPW)。PoPW 奖励用户执行可验证的物理工作，例如部署 5G 热点。协议算法验证设备的状态并根据一组预定的规则奖励所有者。许多 PoPW 协议已经在协调全球数十万参与者，涵盖无线网络、移动性、环境、计算和存储等领域。\n\n\n\n物理工作证明\n\n\n\n\n\n\n有两种主要类型的基础设施网络：可替代的和不可替代的。可替代基础设施网络使用的硬件设备与位置无关，计算和存储协议属于这…",
-          "link": "https://www.theblockbeats.info/news/31514",
-          "publishedOn": "2022-08-06T07:02:59.000Z",
-          "wordCount": null,
-          "title": "Messari：PoPW有可能点燃下一个牛市",
-          "imageUrl": null
         }
       ]
     },
