@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-09T12:16:34.489Z</updated>
+    <updated>2022-08-09T18:09:48.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAO治理与NFT平台必读文章]]></title>
+        <id>https://www.theblockbeats.info/news/31550</id>
+        <link href="https://www.theblockbeats.info/news/31550"/>
+        <updated>2022-08-09T14:00:29.000Z</updated>
+        <summary type="html"><![CDATA[DAO治理与NFT平台必读文章]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity极简入门｜第十八讲： Import]]></title>
         <id>https://www.theblockbeats.info/news/31548</id>
@@ -391,154 +401,6 @@ CC0 的官方页面最醒目的便是「不保留任何权利」
 
 
 CC0 是非营利性组织 Creative Commons(知识共享组织，CC) 于 2009 年推出的一款专门用于放弃版权，将作品投入到公共领域的版权数字授权许可…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></title>
-        <id>https://www.theblockbeats.info/news/31520</id>
-        <link href="https://www.theblockbeats.info/news/31520"/>
-        <updated>2022-08-07T06:06:52.000Z</updated>
-        <summary type="html"><![CDATA[在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。
-
-
-
-
-
-
-联系我们
-
-
-
-
-
-
-BlockBeats Twitter：https://twitter.com/BlockBeatsChina
-BlockBeats Discord：https://discord.gg/R9fuWFyrTj
-BlockBeats Telegram：https://t.me/theblockbeatsApp
-BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
-
-
-
-
-以下为本期编辑部内容推荐  
-
-
-
-推荐文章：《Why NFT Creators Are Going cc0》
-
-
-
-
-推荐人：比得潘
-
-
-
-
-推荐理由：与许多经典的知识产权 (IP) 策略相反，实验和重组有时可以增加 IP 的价值，这也是开源运动的核心动力，它明确允许公众在现有技术的基础上进行构建（或分叉和复制）。如 Android、Linux 和其他成功的开源软件项目之所以具有如此大的竞争力，很大一部分原因在于它们对这种无需许可的创新的接受。
-
-
-
-
-而 Crypto 在吸引公众发展方面的成功同样是由于其对开源的普遍认可和「混搭文化」，这对于一些 NFT 社区来说尤其如此。并且通过「知识共享零许可」（cc0：于 2009 年发布的一种权利放弃工具）发行数字作品，创作者可以有意选择「不保留任何权利」，此选项允许任何人制作衍生作品并从这些努力中获利，而不必担心法律后果。
-
-
-
-
-为什么越来越多的 NFT 创作者开始走上了 cc0 的道路？ 
-
-
-
-
-一个…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊区块链账户抽象概览]]></title>
-        <id>https://www.theblockbeats.info/news/31519</id>
-        <link href="https://www.theblockbeats.info/news/31519"/>
-        <updated>2022-08-07T04:03:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《An overview of Account Abstraction in Ethereum blockchain》
-原文作者：Yash Kamal Chaturvedi
-原文编译：ETH 中文
-
-
-计算机编程中的抽象和数据抽象指的是隐藏除了「对象」相关数据以外的所有数据的过程，目的是减少复杂性并提高有效性。它通过省略不必要细节的方式来表示对象。抽象是面向对象编程（object-oriented programming）的三大原理之一，它与封装和数据隐藏有关。这篇文章将为以下方面提供概览：
-
-
-
-
- 以太坊账户抽象
-· 外部账户/用户账户
-· 合约
-
-
- 为账户抽象提议的 EIP
-· EIP-86：事务来源和签名的抽象
-· EIP-2938：账户抽象
-· EIP-4337：通过入口点合约 (Entry Point Contract) 实现的账户抽象
-
-
- 用例
-· 钱包
-· 赞助交易
-· 混币
-· DeFi 协议
-
-
-
-
-账户抽象
-
-
-
-
-以太坊的账户抽象以创建单一账户类型为目标，这种账户将包含所有相关方面，而且没有任何无关的方面，让开发人员的工作更加轻松。
-
-
-
-
-以太坊账户类型
-
-
-
-
-目前，在以太坊区块链上有两种类型的账户：
-
-
-
-
-
-
-
-
-
-用户账户（EOA）
-
-
-用户账户是给一般人使用的（人类）。
-
-
-· 这些账户由对应公共地址的私钥所控制，比如用户的钱包账户。
-· 这些账户又称为外部账户 (EOA)，不需要 ETH 余额就可以在区块链上创建一个外部账户。但是，两个外部账户之间可以用 ETH 进行交易，也可以用 ERC 支持的其他 Token。
-· 外部账户 (钱包) 用于加密货币的发送和接受功能存在于以太坊虚拟机（EVM）的外部。
-
-
-
-
-合约
-
-
-合约是一组由代码控制的指令。
-
-
-
-
-· 因为使用了网络储存，所以创建一份合约通常会产生相关成本。
-·…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
