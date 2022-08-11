@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31561",
+          "author": null,
+          "description": "探索Web3钱包安全问题：以太坊社区需要什么样的恢复系统？",
+          "link": "https://www.theblockbeats.info/news/31561",
+          "publishedOn": "2022-08-11T02:54:48.000Z",
+          "wordCount": null,
+          "title": "探索Web3钱包安全问题：以太坊社区需要什么样的恢复系统？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31544",
           "author": null,
           "description": "这是过去一年 Web3 项目中增长最快的故事之一，九个月里，它从零到一成长为了获得红杉、Paradigm、光速创投等明星资本投资的加密独角兽。\n\n\n\n\n这是一个领先的 NFT 市场，它在 Solana 生态中占有 90% 以上的份额，继而开始与该领域的霸主 OpenSea 正面交锋，并希望成为加密世界里费用低且安全和最大、流动性最强的 NFT 市场。\n\n\n那么这个平台 —— Magic Eden，在发展不到一年的时间里，他们经历了哪些机遇与挑战。接下来，BlockBeats 将为大家完整地梳理下这个项目和发生在他们身上的故事。\n\n\n\n\n乘四人之力，九个月长成16亿美元独角兽\n\n\n\n\n7 年前，Sidney 的第一家加密公司在 2015 年熊市间失败了，他随之破产，住在了一艘帆船上。所幸的是，当时星巴克允许他在那期间免费为电池充电。\n\n\n\n\n\n\n\n\n\n11 个月前，作为联合创始人和 CTO 的 Sidney 从零开始，开始了他第二家加密公司的创业，这家公司便是 Magic Eden，主要为 Solana 链上 NFT 提供在线市场。\n\n\n\n\n而这之前，Sidney 曾先后在 Uber 和 Facebook 担任 Engineering Manager，专注于人工智能、机器学习、搜索推荐等领域。直到后来，青年时的好友 Jack Lu 找到了他，一起讨论了在 Solana 上启动 NFT 市场的想法。\n\n\n\n\nJack 与 Sidney 均是澳大利亚华裔，中学时居住在墨尔本，他们相识于 16 岁时去数学补习班路上的一个公交车站。多年后，Jack 在加密货币交易所 FTX 工作了段时间，并在 Solana 的发展中看到了机会，他渴望在这个如日方升的新生态中开始一些新的东西。\n\n\n\n\n后来，另外两位联合创始人 Zhuoxun 和 Zhuojie 也陆续加入。Zhuoxun 是 dYd…",
@@ -56,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theblockbeats.info/news/31542",
+          "author": null,
+          "description": "【实时更新】哪些项目方已经表态不支持以太坊分叉？",
+          "link": "https://www.theblockbeats.info/news/31542",
+          "publishedOn": "2022-08-09T03:54:48.000Z",
+          "wordCount": null,
+          "title": "【实时更新】哪些项目方已经表态不支持以太坊分叉？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31545",
           "author": null,
           "description": "史上最严厉加密制裁解读：Tornado Cash发生了什么",
@@ -73,26 +93,6 @@
           "publishedOn": "2022-08-09T02:28:56.000Z",
           "wordCount": null,
           "title": "根据游戏中玩家的互动模式，探究12种Web3游戏玩家类型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31540",
-          "author": null,
-          "description": "原文标题：《解析「Web3 悖论」的内在机理与突破路径》\n原文作者：Spike，ThePrimedia\n\n；编辑：Jerry Crypto，ThePrimedia\n \n编者按\n \n孟子曰︰魚，我所欲也；熊掌，亦我所欲也。二者不可得兼。\n\n\nWeb3 的世界里：去中心化技术，大众所欲也；应用价值，亦大众所欲也。二者不可得兼。\n\n\n本文将尝试解析我们所憧憬的 Web3 景象与现实的生态建设之间的鸿沟，并在此基础上探析破局路径。全文将分为上篇·悖论和下篇·破局。\n\n\n上篇·悖论\n\n\n在 Web3 滚滚席卷而来的概念狂潮中，一系列奇思妙想的 DAPP 生根发芽，在去中心化思想滋养下，如雨后春笋破土而出。\n\n\nNFT\nDEX Uniswap\nCompound、Maker、Aave\nUSDC、DAI\nFilecoin\nLab DAO\nToucan\nGolden\nRadicle\nHelium\n……\n\n\n然而，经过几年时间的发展，我们看到的景象却是 CloudFlare 一崩溃，预言机停止吟诵，交易平台无法撮合……大部分项目折戟成沙。\n\n\n\n\n为什么去中心化的底层架构支撑不起符合大众使用习惯的应用场景？\n\n\n为什么区块链的升级概念诞生不出 Twitter、facebook 这样的顶级应用？\n\n\n为什么关注用户隐私的加密世界无法包裹丝滑的用户体验？\n\n\n为什么 Web3 应用程序无法形成飞轮效应滚滚向前？\n\n\n\n\n虽然有这么多灵魂拷问，但现实的情况却是几乎没人停下思考：理想的去中心化设计和现实的应用生态建设之间有怎样的鸿沟？\n\n\nWeb3 带给我们产业迭代、时代变迁乃至社会进化的宏大愿景，可谓一个伟大而冒险、自上而下的顶层社会变革设计。作为加密世界建构的思想图腾和行动纲要，Web3 的去中心化社会理念具有革命性——过往社会变革往往是自上而下设计，并带来不断反复和冲突；在去中心化社会理念下，W…",
-          "link": "https://www.theblockbeats.info/news/31540",
-          "publishedOn": "2022-08-08T14:51:48.000Z",
-          "wordCount": null,
-          "title": "解析「Web3悖论」的内在机理与突破路径",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31541",
-          "author": null,
-          "description": "原文来源：稀物\n\n\n\n\n8 月 8 日，Web3.0 社区工具 Fanbook 发布 Version1.6.62 版本，该版本「数字藏品」钱包功能将首次打通稀物（原加密空间）数藏数据库，支持一键将数字藏品设置为头像。\n\n\n\n\n本次版本更新带来的功能迭代，无缝打通了数字藏品头像与社区工具的身份社交系统，用户使用数藏身份时，在 Web3.0 社区内，不同角色分层分级管理的问题，在为数字藏品的版权保护和原创者的利益维护带来前所未有便利的前提下，进一步探索 Web3 社交无限可能。\n\n\n\n\n \n\n \n\n\n\n\n在国内数字藏品行业进入 2.0 情况下，社区共识建设成为最重要的主旋律，而社交头像作为个人社交空间的重要组成部分，是展示身份、吸引他人的重要窗口。此次，稀物（原加密空间）与 Fanbook 的数字藏品功能打通，用户可在 Fanbook 内查看在稀物（原加密空间）平台上所拥有的数字藏品，点击藏品可显示该藏品的相关细节信息，例如藏品名称、创作者、链上信息、持有者等，还可直接使用一键切换头像功能，将数字藏品设为头像，获得专属身份认同。\n\n\n\n\n后续，双方还会以此作为辨别用户身份的工具，进行多场景多角色应用的权限配置。\n\n\n \n \n \n \n\n\n\n\n\n\n\n\n在未来的开放生态里，越来越多的场景应用都将搭载于虚拟身份，而虚拟头像将作为第一要素进行确权。简单来说，数字藏品头像正在成为一种链上身份的象征，拥有某个数字藏品，持有者就相当于拥有了进入这个项目俱乐部的门票。通过使用自己的 NFT 头像，拥有唯一的身份认证，包括今后也可以在不同平台之间进行链通，这样不仅确保了用户的独家权益，也便于多场景应用中的生态准入。\n\n\n\n \n\n\n关于稀物（原加密空间）\n\n\n\n\n\n\n\n稀物（原加密空间）定位于发现、管理、使用你的稀物（NFT），此次与 Fanbook 的数字藏品功能打通，完美的诠释了让用户的数字藏品有更多的应用价值。未来，稀物（原加密空间）也将继续和 Fanbook 共同探索在 NFT 的数字浪潮推动下如何赋予社交更多新的玩法和定义，让用户真正能够发现稀缺好物，探索无限可能。\n\n\n本文来自投稿，不代表律动 BlockBeats 观点\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31541",
-          "publishedOn": "2022-08-08T12:51:48.000Z",
-          "wordCount": null,
-          "title": "稀物 x Fanbook：数字藏品头像功能上线，开启Web3.0身份社交新玩法",
           "imageUrl": null
         }
       ]
