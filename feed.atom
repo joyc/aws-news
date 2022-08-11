@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-10T18:09:48.020Z</updated>
+    <updated>2022-08-11T00:42:51.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -254,54 +254,6 @@ Web3 带给我们产业迭代、时代变迁乃至社会进化的宏大愿景，
 本文来自投稿，不代表律动 BlockBeats 观点
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【实时更新】哪些项目方已经表态不支持以太坊分叉？]]></title>
-        <id>https://www.theblockbeats.info/news/31542</id>
-        <link href="https://www.theblockbeats.info/news/31542"/>
-        <updated>2022-08-08T10:57:24.000Z</updated>
-        <summary type="html"><![CDATA[【实时更新】哪些项目方已经表态不支持以太坊分叉？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些Optimism生态项目已开启挖矿奖励活动，用户参与可瓜千万枚OP Token]]></title>
-        <id>https://www.theblockbeats.info/news/31523</id>
-        <link href="https://www.theblockbeats.info/news/31523"/>
-        <updated>2022-08-08T10:04:47.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《OP Summer 来了？这些项目已开启挖矿，将奖励用户千万枚 Optimism Token》  
-原文作者：雾海，PANews  
-
-
-Optimism 的经济模型中设立了公共产品追溯资助。项目方可提案申请 Optimism Collective 资助。根据 snapshot 投票记录，目前申请项目数 50 余家，申请通过的单项目获得资助 30 万-1000 万 OP 不等。
-
-
-近期，获得公共产品追溯资助的项目方开始反哺 Optimism 生态，开启挖矿获得 OP Token奖励，本文 PANews 将介绍已率先开启 OP 挖矿奖励的项目和活动。
-
-
-Aave：流动性挖矿分发 500 万 OP
-
-
-Aave 是一个开源、非托管的去中心化加密资产借贷协议，用户可以作为存款人或借款人参与。储户向市场提供流动性以赚取被动收入，而借款人能够以超额抵押（永久）或欠额抵押（单块流动性）的方式借款。
-
-
-Aave 官方于北京时间 8 月 5 日官方发推宣布，Aave V3 上线 Optimism 流动性挖矿，该计划持续 90 天，将向 Aave 协议的 Optimism 市场用户分发 500 万 OP。用户目前可使用 ETH、USDC、USDT 等多种资产挖矿，当前年化收益率为 4%-6%。
-
-
-官网：https://app.aave.com/
-
-
-WePiggy：瓜分 24 万枚 OP 以及 7500 万枚 WPC
-
-
-WePiggy 是开源、非托管的加密资产借贷协议，在 WePiggy 的市场上，用户可存入特定的加密资产赚取利息，也可以支付一定的利息借取某种加密资产。与 Compound 和 Aave 等先驱者相比，WePiggy 在优先考虑资金安全的前提上，积极创建更为丰富的借贷市场，优化智能合约的执行效率，乃至拓展更多维度的业务逻辑。
-
-
-WePiggy 于北京时…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
