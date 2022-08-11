@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31567",
+          "author": null,
+          "description": "原文标题：《币圈华为事件：从美国监管角度看为什么 Tornado Cash 会迎来制裁及后续猜想》\n原文来源：W3.Hitchhiker\n\n\n监管事件\n\n\n\n\n\n8 月 8 日，美国财政部下属外国资产控制办公室 (OFAC) 宣布对加密混合器（mixer）Tornado Cash 实施制裁，称该服务在过去三年中洗钱超过 70 亿美元，并帮助朝鲜国营黑客组织 Lazarus Group 逃避美国的处罚。洗钱的总额包括 3 月份 Lazarus Group 4.55 亿美元，以及 6 月份 Harmony Horizon Bridge 的黑客获利的 9600 万美元。\n\n\n\n\n\n\n\n\n\n\n\n\n\n截止目前，受到影响的部分有：\n\n\n1、与 Tornado Cash 有交互被列入 SDN 的部分以太坊及 USDC 地址及 USDC 资产\n2、Tornado Cash 的 Github 代码库及前端官网已经无法访问\n\n\n监管背景分析\n\n\n\n\n\n背景 1：本次制裁更多动机在于美官方确保针对加密黑客的金融制裁有效\n\n\n\n\n\n本次实施制裁的是 OFAC，属于美国财政部下属专门执行针对海外机构或个人金融制裁的机构。其日常工作并不直接涉及加密行业的监管，而是监控海外敏感资金流，同时确保其制裁措施能够落实。之前在美国政府针对伊朗、朝鲜、俄罗斯甚至中国华为的制裁中都有 OFAC 活跃的身影。其会定期发布著名的特别制裁人员名单（SDN），名单上的人员或者组织的资产被冻结，美国公民通常被禁止与他们打交道。\n\n\n在此次制裁 Tornado Cash 之前，4 月 14 日，OFAC 根据朝鲜制裁条例将 Lazarus 列入 SDN 名单。据 2020 年美国政府发布的一份军事报告，朝鲜的黑客计划至少可以追溯到 1990 年代中期，并且已经发展成为一个拥有 6000 人的网络战部队。区块链分析公司 Chai…",
+          "link": "https://www.theblockbeats.info/news/31567",
+          "publishedOn": "2022-08-11T14:41:58.000Z",
+          "wordCount": null,
+          "title": "从美国监管角度看，为什么Tornado Cash会迎来制裁及后续猜想",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31566",
           "author": null,
           "description": "原文标题：《OFAC Sanctions Tornado Cash:Issues&Implications》\n原文来源：Galaxy Digital\n\n\n原文编译：阿法兔\n\n\n\n核心观点\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n背景\n\n\n\n\n周一，美国财政部海外资产控制办公室（OFAC）将与 Tornado Cash 有关的以太坊地址添加到制裁实体的名单中。为什么说这是个标志性事件？因为这是美国政府首次对智能合约应用进行制裁。\n\n\n\n\n这次制裁，引起了大家关于网络隐私的哲学争论，但更直接的影响是关于以太坊去中心化金融生态系统的复原力问题\n\n\n（The resilience of Ethereum's decentralized finance ecosystem.）\n\n\n\n\n主要结论\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n OFAC 的概述\n\n\n\n\n本周一，美国财政部海外资产控制办公室（OFAC）将基于以太坊的隐私应用程序 Tornado Cash 被列入限制实体名单。具体而言，OFAC 增加了 38 个以太坊智能合约与 Tornado Cash 应用程序相关的 38 个 Ethereum 智能合约地址被添加到美国特别制定国民（SDN）名单中，使其成为被限制的实体，也就是说，实体与 Tornado Cash 协议或由此产生的资产进行互动定性为非法。 \n\n\n具体来说，OFAC 将 38 个与 Tornado Cash 应用相关的以太坊地址添加到 DN List(美国特别制定国民名单）中，也就是表示，任何实体与 Tornado Cash 应用程序或从 Tornado Cash 的衍生的资产进行交互是非法的。\n\n\n\n\n这是第一次链上智能合约被 OFAC 直接制裁。\n\n\n\n\n新闻稿中，OFAC 表示，制裁 Tornado Cash 是因为这个应用实质上在对全部或…",
@@ -83,46 +93,6 @@
           "publishedOn": "2022-08-09T08:57:24.000Z",
           "wordCount": null,
           "title": "Solidity极简入门｜第十八讲： Import",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31546",
-          "author": null,
-          "description": "欧易研究院：以太坊POS后，矿工们的选择",
-          "link": "https://www.theblockbeats.info/news/31546",
-          "publishedOn": "2022-08-09T04:03:56.000Z",
-          "wordCount": null,
-          "title": "欧易研究院：以太坊POS后，矿工们的选择",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31542",
-          "author": null,
-          "description": "【实时更新】哪些项目方已经表态不支持以太坊分叉？",
-          "link": "https://www.theblockbeats.info/news/31542",
-          "publishedOn": "2022-08-09T03:54:48.000Z",
-          "wordCount": null,
-          "title": "【实时更新】哪些项目方已经表态不支持以太坊分叉？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31545",
-          "author": null,
-          "description": "史上最严厉加密制裁解读：Tornado Cash发生了什么",
-          "link": "https://www.theblockbeats.info/news/31545",
-          "publishedOn": "2022-08-09T02:28:56.000Z",
-          "wordCount": null,
-          "title": "史上最严厉加密制裁解读：Tornado Cash发生了什么",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31543",
-          "author": null,
-          "description": "根据游戏中玩家的互动模式，探究12种Web3游戏玩家类型",
-          "link": "https://www.theblockbeats.info/news/31543",
-          "publishedOn": "2022-08-09T02:28:56.000Z",
-          "wordCount": null,
-          "title": "根据游戏中玩家的互动模式，探究12种Web3游戏玩家类型",
           "imageUrl": null
         }
       ]

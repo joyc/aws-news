@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-11T12:16:43.323Z</updated>
+    <updated>2022-08-11T18:10:28.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从美国监管角度看，为什么Tornado Cash会迎来制裁及后续猜想]]></title>
+        <id>https://www.theblockbeats.info/news/31567</id>
+        <link href="https://www.theblockbeats.info/news/31567"/>
+        <updated>2022-08-11T14:41:58.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《币圈华为事件：从美国监管角度看为什么 Tornado Cash 会迎来制裁及后续猜想》
+原文来源：W3.Hitchhiker
+
+
+监管事件
+
+
+
+
+
+8 月 8 日，美国财政部下属外国资产控制办公室 (OFAC) 宣布对加密混合器（mixer）Tornado Cash 实施制裁，称该服务在过去三年中洗钱超过 70 亿美元，并帮助朝鲜国营黑客组织 Lazarus Group 逃避美国的处罚。洗钱的总额包括 3 月份 Lazarus Group 4.55 亿美元，以及 6 月份 Harmony Horizon Bridge 的黑客获利的 9600 万美元。
+
+
+
+
+
+
+
+
+
+
+
+
+
+截止目前，受到影响的部分有：
+
+
+1、与 Tornado Cash 有交互被列入 SDN 的部分以太坊及 USDC 地址及 USDC 资产
+2、Tornado Cash 的 Github 代码库及前端官网已经无法访问
+
+
+监管背景分析
+
+
+
+
+
+背景 1：本次制裁更多动机在于美官方确保针对加密黑客的金融制裁有效
+
+
+
+
+
+本次实施制裁的是 OFAC，属于美国财政部下属专门执行针对海外机构或个人金融制裁的机构。其日常工作并不直接涉及加密行业的监管，而是监控海外敏感资金流，同时确保其制裁措施能够落实。之前在美国政府针对伊朗、朝鲜、俄罗斯甚至中国华为的制裁中都有 OFAC 活跃的身影。其会定期发布著名的特别制裁人员名单（SDN），名单上的人员或者组织的资产被冻结，美国公民通常被禁止与他们打交道。
+
+
+在此次制裁 Tornado Cash 之前，4 月 14 日，OFAC 根据朝鲜制裁条例将 Lazarus 列入 SDN 名单。据 2020 年美国政府发布的一份军事报告，朝鲜的黑客计划至少可以追溯到 1990 年代中期，并且已经发展成为一个拥有 6000 人的网络战部队。区块链分析公司 Chai…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全面解读：美国财政部制裁Tornado Cash带来的影响]]></title>
         <id>https://www.theblockbeats.info/news/31566</id>
@@ -332,46 +388,6 @@ Jack 与 Sidney 均是澳大利亚华裔，中学时居住在墨尔本，他们�
         <link href="https://www.theblockbeats.info/news/31548"/>
         <updated>2022-08-09T08:57:24.000Z</updated>
         <summary type="html"><![CDATA[Solidity极简入门｜第十八讲： Import]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧易研究院：以太坊POS后，矿工们的选择]]></title>
-        <id>https://www.theblockbeats.info/news/31546</id>
-        <link href="https://www.theblockbeats.info/news/31546"/>
-        <updated>2022-08-09T04:03:56.000Z</updated>
-        <summary type="html"><![CDATA[欧易研究院：以太坊POS后，矿工们的选择]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【实时更新】哪些项目方已经表态不支持以太坊分叉？]]></title>
-        <id>https://www.theblockbeats.info/news/31542</id>
-        <link href="https://www.theblockbeats.info/news/31542"/>
-        <updated>2022-08-09T03:54:48.000Z</updated>
-        <summary type="html"><![CDATA[【实时更新】哪些项目方已经表态不支持以太坊分叉？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上最严厉加密制裁解读：Tornado Cash发生了什么]]></title>
-        <id>https://www.theblockbeats.info/news/31545</id>
-        <link href="https://www.theblockbeats.info/news/31545"/>
-        <updated>2022-08-09T02:28:56.000Z</updated>
-        <summary type="html"><![CDATA[史上最严厉加密制裁解读：Tornado Cash发生了什么]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据游戏中玩家的互动模式，探究12种Web3游戏玩家类型]]></title>
-        <id>https://www.theblockbeats.info/news/31543</id>
-        <link href="https://www.theblockbeats.info/news/31543"/>
-        <updated>2022-08-09T02:28:56.000Z</updated>
-        <summary type="html"><![CDATA[根据游戏中玩家的互动模式，探究12种Web3游戏玩家类型]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
