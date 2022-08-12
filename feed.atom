@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-11T18:10:28.552Z</updated>
+    <updated>2022-08-12T00:41:16.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -378,16 +378,6 @@ Jack 与 Sidney 均是澳大利亚华裔，中学时居住在墨尔本，他们�
         <link href="https://www.theblockbeats.info/news/31550"/>
         <updated>2022-08-09T14:00:29.000Z</updated>
         <summary type="html"><![CDATA[DAO治理与NFT平台必读文章]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第十八讲： Import]]></title>
-        <id>https://www.theblockbeats.info/news/31548</id>
-        <link href="https://www.theblockbeats.info/news/31548"/>
-        <updated>2022-08-09T08:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Solidity极简入门｜第十八讲： Import]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
