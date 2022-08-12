@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-12 datetime="2022-08-12T10:34:37.000Z">2022-08-12</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-12 datetime="2022-08-12T10:34:37.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-12 datetime="2022-08-12T14:04:30.000Z">2022-08-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-12 datetime="2022-08-12T14:04:30.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,50 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31589"
+                        open
+                      >
+                        <summary class="article-expander__title">a16z：以三要素衡量SNARK性能</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31589">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《a16z：以三要素衡量 SNARK 性能》
+原文来源：a16z
+原文作者：Justin Thaler
+原文编译：
+
+Katie 辜，
+
+Odaily 星球日报
+
+
+
+
+SNARK（简洁的非交互式知识参数）是一种重要的密码原语，用于发现区块链可扩展性（例如 L2 Rollup）和隐私的应用。SNARK 允许某人向不可信验证器 V（例如以太坊区块链）证明他们知道一些数据（例如一批有效交易）。证明这一点的简单方法是将数据发送给 V，然后 V 可以直接检查其有效性。SNARK 实现了同样的效果，但对 V 来说成本更高。特别是 SNARK 证明应该比包含数据本身的原始证明更短。
+
+
+SNARK 的验证成本可能会有所不同，但成果通常都很好。例如，PlonK 的证明在以太坊上的验证成本约为 29 万 gas，而 StarkWare  的证明成本约为 500 万 gas。SNARK 可能适用于区块链之外的各种不同的设置，例如，允许使用快速但不可信的服务器和硬件。
+
+
+但由于 SNARK 验证通常很便宜，适用性的主要决定因素是 SNARK 证明者 P 的成本。本文中将解释如何估算这些成本，以确定何时合理使用 SNARK，以及未来如何改进 SNARK。值得注意的是，这是一个快速发展的领域，本文中讨论的几个项目正在积极提高其性能。
+
+
+SNARK 是如何部署的？
+
+
+在 SNARK 部署中，开发人员通常编写一个计算机程序，将证明人声称知道的数据 w 作为输入（w 代表验证者），并检查 w 是否有效。例如，在 Rollup 中，程序将检查 w 中的所有交易是否都经过数字签名，是否导致任何帐户余额低于零等。然后通过 SNARK 前端输入程序，该前端将程序编译成更适合 SNARK 技术应用的格式。这种 SNARK 友好格式称为中间代码（IR）。
+
+
+通常，IR 是某种等效于 的电路可满足性…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -753,23 +797,6 @@ Jack 与 Sidney 均是澳大利亚华裔，中学时居住在墨尔本，他们�
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31549"
-                        open
-                      >
-                        <summary class="article-expander__title">历史重演？详解以太坊2.0与硬分叉</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31549">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>历史重演？详解以太坊2.0与硬分叉</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -777,8 +804,8 @@ Jack 与 Sidney 均是澳大利亚华裔，中学时居住在墨尔本，他们�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2846658105">
-        <time id="build-timestamp" datetime="2022-08-12T12:15:03.684Z">2022-08-12T12:15:03.684Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2848542817">
+        <time id="build-timestamp" datetime="2022-08-12T18:10:00.935Z">2022-08-12T18:10:00.935Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
