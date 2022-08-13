@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31597",
+          "author": null,
+          "description": "Real Vision创始人：高通胀已成为历史，18个月或降为负值",
+          "link": "https://www.theblockbeats.info/news/31597",
+          "publishedOn": "2022-08-13T06:51:29.000Z",
+          "wordCount": null,
+          "title": "Real Vision创始人：高通胀已成为历史，18个月或降为负值",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31591",
           "author": null,
           "description": "原文标题：《Security Stack-Up: How Bridges Compare》\n原文作者：Jonathan Claudius、Anirudh Suresh、Eric Wong、Akshath Sivaprasad，Jump Crypto\n原文编译：0x9F、0x214，BlockBeats\n\n\n\n\n简介\n\n\n\n\n在物理和加密的世界中，桥梁都是为了连接两个被障碍物隔开的地方。物理桥梁连接被山谷、河流等自然屏障隔开的土地，而跨链桥协议则连接原本没有办法进行通信和同步的区块链。每当桥梁遭受摧毁和攻击，其重要性就得以彰显。在物理世界中，历史上有据可查的灾难性桥梁坍塌事件足以表明它们是多么重要，以及设计或建造不当的桥梁是多么危险。\n\n\n\n\n加密世界的跨链桥协议亦是如此。跨链桥在安全风险方面极易被盯上。从智能合约可能的漏洞和攻击的规模角度来看，跨链桥呈现出一个二次方风险面：随着桥接的区块链数量增加，维持跨链桥运行所需的智能合约数量也呈二次方增长（至少在点对点模型中如此）。根据定制配置在不同运行时间编写的更多智能合约也迅速增加了跨链桥风险。在轮辐模型中，一个与中心链/网络相关的漏洞会导致不对称的风险。\n\n\n\n\n正如最近的 Nomad 攻击事件所示，一个错误可能导致桥梁的大部分或全部资金损失。然而漏洞与跨链桥无关，可能只是源于一个操作上的失误。在 Ronin 跨链桥的案例中，糟糕的操作安全措施让网络钓鱼攻击有机可乘，黑客获得了对保障网络安全的大部分验证节点的控制权，从而能够携带价值超过 5 亿的资金逃之夭夭。2 月份发生的 Wormhole 攻击事件同样是由于验证审查的缺失，让攻击者能够创建一个虚假签名，窃取超过 3.2 亿美元。\n\n\n\n\n如果不关注安全性，不可避免地会发生更多的疏忽，因而遭受攻击和损失。对黑客而言，跨链桥规模巨大的 TVL 比普通协议更具吸引力。\n\n\n上述的攻…",
