@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-15T06:10:54.012Z</updated>
+    <updated>2022-08-15T12:15:57.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【实时更新】哪些DeFi协议开始封禁Tornado Cash相关地址？]]></title>
+        <id>https://www.theblockbeats.info/news/31616</id>
+        <link href="https://www.theblockbeats.info/news/31616"/>
+        <updated>2022-08-15T08:05:28.000Z</updated>
+        <summary type="html"><![CDATA[8 月 8 日，美国财政部海外资产控制办公室（OFAC）宣布将 Tornado Cash 纳入制裁名单（SDN），包括其网站本身以及多个以太坊钱包地址被禁。此外，禁令禁止所有美国个人和实体与 Tornado Cash 或与协议相关的任何以太坊钱包地址进行交互。对此美国财政部表示，Tornado Cash 自 2019 年成立以来，已被用于洗钱价值超过 70 亿美元的虚拟货币，这或是封禁 Tornado Cash 的主要理由。
+
+
+
+
+
+随后，Tornado Cash 联合创始人 Roman Semenov 表示其个人 GitHub 帐户已被停用，个人存储库也被关闭。另一位联创 Alexey Pertsev 于 8 月 12 日在荷兰被逮捕，罪名是「隐瞒犯罪资金流动，并为洗钱提供便利」。此外，Tornado Cash Discord 频道以及 DAO 治理论坛也在同日被关闭。
+
+
+
+
+圈外的封禁迅速传导至圈内。8 月 9 日，加密 API 和节点基础设施提供商 Infura 和 Alchemy 决定关闭从其前端对 Tornado Cash 的 RPC 的调用支持。同日，开发者社区 Gitcoin 表示：「对 Tornado Cash 被制裁表示遗憾，已暂停 Tornado Cash 赠款，但相信保护隐私的工具对所有守法的元宇宙公民来说是至关重要的。」
+
+
+
+
+Gitcoin 的精神支持显得过于单薄，而曾经与 Tornado Cash 同举「去中心化」大旗的 DeFi 项目也纷纷「反水」。虽然大部分协议都还是在页面前端做了地址屏蔽，但这种做法依然让社区内外对今时今日加密生态的去中心化程度打上了一个大大的问号。BlockBeats 将实时更新 DeFi 平台封禁地址的情况，关注「去中心化」大旗下 DeFi 项目的所言及所行。
+
+
+
+
+Circle
+
+
+禁令颁布后，USDC 发行商 Circle第一时间将美国财政部制裁名单中的以太坊地址列入黑名单，冻结了这些地址上的 USDC 访问权，并表示「预计世界上几乎所有负责任的数字资产服务提供商也会效仿并阻止对 Tornado Cash 地址的访问。」
+
+
+dYdX
+
+
+8 月 10 日，dYdX 表示，协议长期以来一直利用合规供应商来扫描和标记 dYdX 托管匹配引擎上的账户。由于 OFAC 禁令影响，部分账户的一部分资金可能与 Tornado Cash 有关联，尽管许多账户持有人可能从未直接使用 Tornado Cash，并且这些用户通常在与 dYdX 交互之前没有意识到在各种交易中转移给他们的资金的来源，但 dYdX 仍必须对这些用户保持一定的限制。
+
+
+Pocket Network
+
+
+8 月 13 日，去中心化 API 解决方案 Pocket Network 发文表示，由于 Tornado Cash 已被美国财政部 OFAC 纳入制裁名单，Pocket Portal 将阻止与 Tornado Cash 相关的多个地址的交互。
+
+
+对此，Pocket Network 表示，虽然它是一个全球协议，但 Pocket Network Inc. (PNI) 仍然是一家美国公司。PNI 运营着 Pocket Portal，该门户充当任何希望使用 Pocket 数据中继服务的人的访问点。PNI 和 Pocket Portal 之间的连接意味着任何涉及门户的活动都必须遵守美国法规。
+
+
+Aave
+
+
+8 月 14 日，Aave 在社交媒体上发文表示，在 OFAC 禁令发布后，Aave 团队紧急在 IPFS 前端集成区块链智能公司 TRM Labs 的 API，以筛选并阻止与遭受制裁后的 Tornado Cash 合约有交互的地址。
+
+
+
+
+
+Uniswap
+
+
+8 月 14 日，据社区消息显示，Uniswap 前端现已开始对收到 Tornado Cash 相关地址转账污染的地址进行封禁。提示内容显示「该地址被 Uniswap Labs 界面阻止，因为该地址与一个或多个被禁止的活动相关。」
+
+
+
+
+
+
+
+
+
+
+
+
+尽管以上项目的负责人在不同场合对禁令表示质疑，对 Tornado Cash 表示遗憾，但这无法治愈整个加密社区的精神内耗。未来还有哪些「去中心化」的项目方会口嫌体直地与监管站在同一阵线，BlockBeats 将持续关注。
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity极简入门｜第十九讲： 接收ETH receive和fallback]]></title>
         <id>https://www.theblockbeats.info/news/31602</id>
