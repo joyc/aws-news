@@ -22,6 +22,136 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-15 datetime="2022-08-15T03:05:27.000Z">2022-08-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-15 datetime="2022-08-15T03:05:27.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31602"
+                        open
+                      >
+                        <summary class="article-expander__title">Solidity极简入门｜第十九讲： 接收ETH receive和fallback</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31602">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《
+
+Solidity 极简入门: 19. 接收 ETH receive 和 fallback
+
+》
+原文作者：0xAA 
+
+
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity
+
+
+回调函数
+
+
+Solidity 支持两种特殊的回调函数，receive() 和 fallback()，他们主要在两种情况下被使用：
+
+
+- 接收 ETH 
+- 处理合约中不存在的函数调用（代理合约 proxy contract）
+
+
+我们这一讲主要介绍接收 ETH 的情况。
+
+
+接收 ETH 函数 receive
+
+
+receive() 只用于处理接收 ETH。一个合约最多有一个 receive() 函数，声明方式与一般函数不一样，不需要 function 关键字：receive() external payable { ... }
+
+
+receive() 函数不能有任何的参数，不能返回任何值，必须包含 external 和 payable。
+
+
+当合约接收 ETH 的时候，receive() 会被触发。receive() 最好不要执行太多的逻辑因为如果别人用 send 和 transfer 方法发送 ETH 的话，gas 会限制在 2300，receive() 太复杂可能会触发 Out of Gas 报错；如果用 call 就可以自定义 gas 执行更复杂的逻辑（这三种发送 ETH 的方法我们之后会讲到）。
+
+
+我们可以在 receive() 里发送一个 event，例如：
+
+
+
+
+
+有些恶意合约，会在 receive() 函数嵌入恶意消耗 gas 的内容，使得一些退款合约不能正常工作：Akutar NFT项目因此被永久锁定了 11539 ETH，接近 2 亿元！因此写包含退款等逻辑的合约时候，一定要注意这种情况。
+
+
+回退函数 fallback
+
+
+fallback() 函数会在调用合约不存在的函数时被触发。可用于接收 ETH，也可以用于代理合约 proxy contract。fallback() 声明时不需要 function 关键字，必须由 external 修饰，一般也会用 payable 修饰，用于接收 ETH:fallback() external payable { ... }。
+
+
+我们定义一个 fallback() 函数，被触发时候会释放 fallbackCalled 事件，并输出 msg.sender，msg.value 和 msg.data:
+
+
+
+
+
+receive 和 fallback 的区别
+
+
+receive 和 fallback 都能够用于接收 ETH，他们触发的规则如下：
+
+
+
+
+
+简单来说，合约接收 ETH 时，msg.data 为空且存在 receive() 时，会触发 receive()；msg.data 不为空或不存在 receive() 时，会触发 fallback()，此时 fallback() 必须为 payable。
+
+
+receive() 和 payable fallback() 均不存在的时候，向合约发送 ETH 将会报错。
+
+
+总结
+
+
+这一讲，我介绍了 Solidity 中的两种特殊函数，receive() 和 fallback()，他们主要在两种情况下被使用，他们主要用于处理接收 ETH 和代理合约 proxy contract。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-14 datetime="2022-08-14T06:27:53.000Z">2022-08-14</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-14 datetime="2022-08-14T06:27:53.000Z"></time>
           </button>
@@ -503,82 +633,10 @@ Crypto 是一个新兴的有机系统，它模仿了自然的规律。即使人�
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-12 datetime="2022-08-12T14:04:30.000Z">2022-08-12</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-12 datetime="2022-08-12T14:04:30.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >TheBlockBeats - 新闻</button>
-                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31589"
-                        open
-                      >
-                        <summary class="article-expander__title">a16z：以三要素衡量SNARK性能</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31589">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《a16z：以三要素衡量 SNARK 性能》
-原文来源：a16z
-原文作者：Justin Thaler
-原文编译：
-
-Katie 辜，
-
-Odaily 星球日报
-
-
-
-
-SNARK（简洁的非交互式知识参数）是一种重要的密码原语，用于发现区块链可扩展性（例如 L2 Rollup）和隐私的应用。SNARK 允许某人向不可信验证器 V（例如以太坊区块链）证明他们知道一些数据（例如一批有效交易）。证明这一点的简单方法是将数据发送给 V，然后 V 可以直接检查其有效性。SNARK 实现了同样的效果，但对 V 来说成本更高。特别是 SNARK 证明应该比包含数据本身的原始证明更短。
-
-
-SNARK 的验证成本可能会有所不同，但成果通常都很好。例如，PlonK 的证明在以太坊上的验证成本约为 29 万 gas，而 StarkWare  的证明成本约为 500 万 gas。SNARK 可能适用于区块链之外的各种不同的设置，例如，允许使用快速但不可信的服务器和硬件。
-
-
-但由于 SNARK 验证通常很便宜，适用性的主要决定因素是 SNARK 证明者 P 的成本。本文中将解释如何估算这些成本，以确定何时合理使用 SNARK，以及未来如何改进 SNARK。值得注意的是，这是一个快速发展的领域，本文中讨论的几个项目正在积极提高其性能。
-
-
-SNARK 是如何部署的？
-
-
-在 SNARK 部署中，开发人员通常编写一个计算机程序，将证明人声称知道的数据 w 作为输入（w 代表验证者），并检查 w 是否有效。例如，在 Rollup 中，程序将检查 w 中的所有交易是否都经过数字签名，是否导致任何帐户余额低于零等。然后通过 SNARK 前端输入程序，该前端将程序编译成更适合 SNARK 技术应用的格式。这种 SNARK 友好格式称为中间代码（IR）。
-
-
-通常，IR 是某种等效于 的电路可满足性…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2857766305">
-        <time id="build-timestamp" datetime="2022-08-15T00:44:04.502Z">2022-08-15T00:44:04.502Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2858799459">
+        <time id="build-timestamp" datetime="2022-08-15T06:10:53.980Z">2022-08-15T06:10:53.980Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
