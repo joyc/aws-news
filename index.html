@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-15 datetime="2022-08-15T08:05:28.000Z">2022-08-15</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-15 datetime="2022-08-15T08:05:28.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-15 datetime="2022-08-15T14:00:44.000Z">2022-08-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-15 datetime="2022-08-15T14:00:44.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,68 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31618"
+                        open
+                      >
+                        <summary class="article-expander__title">a16z：从Web2社交网络学习，地位平等为何如此重要？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31618">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《A16z | 状态陷阱：从 Web2 社交网络学习》
+原文作者：Sriram Krishnan 
+原文编译：Block unicorn
+
+
+
+
+随着越来越多的人在加密货币领域探索社交，我发现自己经常谈论什么使社交网络发挥作用，有时甚至不发挥作用。一个关键的对话是围绕着状态，以下是我从 web2 时代学到的一些经验和教训。
+
+
+
+社交网络倾向于提升那些有望获得关注的内容。这样做可以刺激特定类型的行为，为执行该行为的用户提供地位。一般来说，有一个状态指示器，人们必须努力积累。它以各种形式出现——点赞、关注者/喜好计数、经验值、认证徽章、排行榜等等。
+
+
+
+
+对上述方法的简单实现通常会导致一个致命的缺陷——将状态集中在少数「状态丰富」的用户身上，大部分「状态贫乏」的用户离开，从而导致新用户体验不佳。虽然这样做可以在短期内实现价值最大化，但从长远来看，这是一个糟糕的策略，因为新用户无法进入，最终整体网络质量会下降。
+
+
+首先，你如何在一个网络中建立地位模型？基尼系数通常是对财富不平等的衡量：数字越高，不平等就越高。对于社会网络，我们可以把它作为相对地位分布的衡量标准，并把你的网络的地位指标（追随者/Karma/等等）作为财富。
+
+
+换句话说: 你的一小部分用户是否拥有巨大的地位？
+
+
+这让我想到了一些关于社交网络设计的个人观点，以及社交网络构建者应该如何把自己更多的视为经济政策的模型。
+
+
+1. 大多数社会网络在默认情况下都倾向于向高地位不平等（高基尼系数）倾斜。
+
+
+
+
+2. 如果你的社交网络有很高的不平等，你将很难留住新来者。
+
+
+
+
+3. 拥有高地位的流动性是任何有活力的社交网络的关键，即使你的目标不是为了增加你的整体用户群。
+
+
+
+高度不平等会带来哪些新问题?
+
+
+最简单的理解就是地位&#x3D;资本。你希望资本四处流动，寻找健康的行为，而不是被锁起来，或与健康的行为相冲…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -566,154 +628,6 @@ WAMO 代表了正外部性（positive externalities）的精神，祝福我们�
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31591"
-                        open
-                      >
-                        <summary class="article-expander__title">听Jump Crypto讲解，LayerZero、Wormhole等跨链桥优劣</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31591">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Security Stack-Up: How Bridges Compare》
-原文作者：Jonathan Claudius、Anirudh Suresh、Eric Wong、Akshath Sivaprasad，Jump Crypto
-原文编译：0x9F、0x214，BlockBeats
-
-
-
-
-简介
-
-
-
-
-在物理和加密的世界中，桥梁都是为了连接两个被障碍物隔开的地方。物理桥梁连接被山谷、河流等自然屏障隔开的土地，而跨链桥协议则连接原本没有办法进行通信和同步的区块链。每当桥梁遭受摧毁和攻击，其重要性就得以彰显。在物理世界中，历史上有据可查的灾难性桥梁坍塌事件足以表明它们是多么重要，以及设计或建造不当的桥梁是多么危险。
-
-
-
-
-加密世界的跨链桥协议亦是如此。跨链桥在安全风险方面极易被盯上。从智能合约可能的漏洞和攻击的规模角度来看，跨链桥呈现出一个二次方风险面：随着桥接的区块链数量增加，维持跨链桥运行所需的智能合约数量也呈二次方增长（至少在点对点模型中如此）。根据定制配置在不同运行时间编写的更多智能合约也迅速增加了跨链桥风险。在轮辐模型中，一个与中心链/网络相关的漏洞会导致不对称的风险。
-
-
-
-
-正如最近的 Nomad 攻击事件所示，一个错误可能导致桥梁的大部分或全部资金损失。然而漏洞与跨链桥无关，可能只是源于一个操作上的失误。在 Ronin 跨链桥的案例中，糟糕的操作安全措施让网络钓鱼攻击有机可乘，黑客获得了对保障网络安全的大部分验证节点的控制权，从而能够携带价值超过 5 亿的资金逃之夭夭。2 月份发生的 Wormhole 攻击事件同样是由于验证审查的缺失，让攻击者能够创建一个虚假签名，窃取超过 3.2 亿美元。
-
-
-
-
-如果不关注安全性，不可避免地会发生更多的疏忽，因而遭受攻击和损失。对黑客而言，跨链桥规模巨大的 TVL 比普通协议更具吸引力。
-
-
-上述的攻…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31587"
-                        open
-                      >
-                        <summary class="article-expander__title">以太坊分水岭：建立自我延续的生态系统</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31587">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《以太坊分水岭》
-原文作者：David Hoffman，Bankless 联合创始人
-原文编译：Block unicoen
-
-
-在合并后的世界里，以太坊交易将通过一个非常具体和有序的流程流动。一个强大的交易供应链正在我们眼前构建，大规模的权力结构即将出现。
-
-
-
-
-目前以太坊交易供应链的状态是迟钝和不够成熟。我们都向 mempool 提交我们的交易，套利机器人降临并争夺几分钱的价值，然后矿工整理所有这些交易以建立一个区块。
-
-
-
-
-在合并后的以太坊中，这个过程被编入协议并被定义。这从根本上允许 ETH 订户在每个步骤中驾驭价值获取，确保价值在供应链的末端传递给他们。
-
-
-
-
-
-
-
-
-
-
-
-
-我以前说过很多次，但还是没有说够。全面了解加密货币的最佳视角是通过生物学。
-
-
-
-
-Crypto 是一个新兴的有机系统，它模仿了自然的规律。即使人类正在构建这些结构，但已经发现的 &quot;最佳结构 &quot;是模仿自然的结构。
-
-
-
-
-经过多年的研发，以太坊的开发者已经建立了一个交易供应链，看起来很像一个分水岭。分水岭是一个土地区域，它将降雨或融雪导入小溪、小河和河流，并最终流入水库、湖泊或海洋等流出点。
-
-
-
-
-
-
-交易（雨滴）在以太坊上四处飘落。有些去了 Uniswap，有些去了 Aave，有些去了 OpenSea、NFT 矿场、DEX 聚合器、桥梁、Token转移等等。
-
-
-
-
-但是，雨滴（交易）落在以太坊的哪里并不重要；它总是汇聚到同一个地方，并通过相同的过程到达那里。
-
-
-
-
-每颗雨滴都是它自己的、独特的雨滴，落在一个独一无二的位置，但很快自然法则就会接管。水滴汇聚成涓涓细流，涓涓细流变成小溪，小溪变成河流，而河流最终汇集在分水岭的最深处。
-
-
-
-
-
-
-以太坊质押者
-
-
-
-
-我称之为以太坊分水岭。
-
-
-
-
-
-
-
-
-
-
-
-加密术语表
-
-
-
-
-对于那些早期的加密货币之旅，这个词汇表可以…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -721,8 +635,8 @@ Crypto 是一个新兴的有机系统，它模仿了自然的规律。即使人�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2860554764">
-        <time id="build-timestamp" datetime="2022-08-15T12:15:57.774Z">2022-08-15T12:15:57.774Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2862546434">
+        <time id="build-timestamp" datetime="2022-08-15T18:11:05.662Z">2022-08-15T18:11:05.662Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
