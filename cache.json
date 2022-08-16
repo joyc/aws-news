@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31629",
+          "author": null,
+          "description": "原文标题：《How DeFi platforms are using data from TRM Labs to respond to Tornado Cash sanctions》\n原文作者：TRM Labs\n原文编译：比得潘 @BlockBeats\n\n\n\n\n\n\n在美国财政部外国资产控制办公室 (OFAC) 于 2022 年 8 月 8 日对基于以太坊的去中心化加密货币混合服务 Tornado Cash 实施制裁之后，DeFi 实体一直在努力了解如何最好地降低制裁风险。\n\n\n\n\n一般情况，选择遵守美国制裁法的实体通常会利用第三方数据提供商如 TRM Labs，来获取有关区块链地址的制裁风险数据。TRM Labs 本身不会对特定地址进行任何封锁，只是将其监测到的风险数据提供给用户以用于他们的合规计划。此外，使用 TRM 的组织可配置自己的设置和风险阈值，以确定要阻止或冻结的地址。\n\n\n\n\n但由于这些制裁是前所未有的，行业领导者正在与公职人员接触，以传达这些特定于 DeFi 平台的复杂性，并了解处理无意与受制裁地址进行交互的地址存在哪些法律要求。\n\n\n\n\n\n\n\n\n\n法律专家认为 DeFi 前端需要遵守 OFAC 的制裁\n\n\n\n\n在美国，OFAC 管理和执行针对目标他国、地理区域、实体和个人的经济制裁，以推进美国的外交政策和国家安全目标。作为这些努力的一部分，OFAC 维护了一份特别指定的国民 (SDN) 名单，其中包括指定的实体和个人。\n\n\n\n\n自 2018 年以来，OFAC 已将 388 个区块链地址添加到 SDN 列表中，其中包括最近添加的 45 个与 Tornado Cash 相关的地址。\n\n\n\n\n一般来说，如果 OFAC 将个人或实体列入 SDN 名单，则意味着该人在美国的资产和或财产可能会被封锁，并且所有美国个人和美国实体都被禁止与其进行交易。\n\n\n\n\n违反制裁的后…",
+          "link": "https://www.theblockbeats.info/news/31629",
+          "publishedOn": "2022-08-16T10:17:35.000Z",
+          "wordCount": null,
+          "title": "TRM Labs：DeFi 平台如何应对 Tornado Cash 制裁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31625",
+          "author": null,
+          "description": "原文标题：《暗潮涌动，星移物换 | WTR 8.15》\n\n\n原文来源： WatchToweR 研究院\n\n\n\n「我们的目的是以更高的技巧和更专业的数据分析来帮助市场的参与者们更全面的解剖市场，以便参与者依靠自己的判断力做出更理智的决策。」 \n \n\n\n\n本周回顾\n\n\n本周从 8 月 8 号到 8 月 14 号，BTC 最高附近 25000，最低接近 22600，震荡幅度达到 10.03% 左右。\n\n\n观察近期筹码分布图，在约 22600 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n• 分析：\n\n\n1.  23000~24000  约 68 万枚\n2.  29000~35000 约 116 万枚\n\n\n• 涨不破  29000~35000 的概率约为 63%，因为 28000 以下的亏损库存消化大半，所以筹码分析结构上移。\n\n\n\n \n重要消息方面\n \n1. Chainlink：协议及服务将继续在以太坊上运行，不支持 PoW 等分叉\n\n\n2. 推特用户 @Tisoga 援引 GitHub 数据表示，过去三个月 Web3 生态的每周活跃开发者维持在 5000 名左右，其中以太坊以 1720 名排名第一。\n\n\n3. 据 The Block 报道，BitMEX 前业务拓展主管 Greg Dwyer 在刑事审判中改为主动认罪，被指控违反了《银行保密法》\n\n\n8.9\n\n\n1. Aave 社区发布技术分析，以为 Aave 社区提出的「仅支持合并后的 PoS 链」的新提案提供支持。\n\n\n2. 据彭博社报道，方舟基金（Ark）首席执行官 Cathie Wood 解释 7 月份出售 Coinbase 股票的原因，表示由于美国证券交易委员会（SEC）调查的不确定性。\n\n\n3. Dune Analytics 数据显示，以太坊链上智能合约数量已突破 5000 万个，截至目前约为 5110 万个。\n\n\n4…",
+          "link": "https://www.theblockbeats.info/news/31625",
+          "publishedOn": "2022-08-16T09:14:35.000Z",
+          "wordCount": null,
+          "title": "第33周链上数据分析：以太坊需求大于供给，市场参与者购买力开始放缓",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31622",
           "author": null,
           "description": "原文来源：Coinpage\n原文编译：深潮 TechFlow\n\n\n\nUST，失去了稳定的美元 Stablecoin，一个人曾推动了它的崛起：Do Kwon。 \n\n\n时隔 3 月，当 UST 叙事逐渐破灭，Do Kwon 却又出现在了公众眼前。现在 Do Kwon 又开始重建 UST，但几乎是从零开始。对大多数人来说，当人们对他的过去疑虑重重，自然对他的未来不屑关注。因此，Coinage 成员 Zack 飞到新加坡，在 Do Kwon 的办公室和家里对他进行了为期两天的采访，看看 Terra 的崩溃是否真的只是一个失败，又或是一场骗局。\n\n\nDo Kwon 首次在镜头前对大众袒露心声，一度认为自己非常成功，UST 崩溃当晚曾尝试筹集 20 亿美元，不料消息泄露，空头迅速挤压，「我想赌很大，但是我输了」…… \n\n\nZack：如何反驳「UST 是骗局」这种观点？ \n\n\nDo Kwon：我不认为 UST 事件涉及道德问题，特别是在一个需要大量技术背景才能理解的行业。但是要想在当大家都极其痛苦和愤怒时给出一个令人满意的答案是非常困难的。 \n\n\nZack：UST 的崩溃只用了 72 小时，你对这样的崩溃速度曾感到过吃惊吗？ \n\n\nDo Kwon：我从没想过这种情况会发生。在这之后，我一直在努力地重建生态和社区，就跟我在过去 5 年一直在做的事情一样。我还没有找到合适的词来形容这种感觉，社区里的很多人都失去了他们的钱，生命，储蓄……很多在 Terra 上建造的项目可能也有类似的经历，而且很可能情况还会更糟。 \n\n\nZack：作为这一切的创造者，这很残忍。 \n\n\nDo Kwon：显然，事后看来，我所坚持的许多信念和做的推测都是错误的。 \n\n\nZack：我认为信任是核心。讽刺意味的是，在许多这些类似 UST 的无需信任（Trustless）的系统中都会产生一个问题，即你信任创造这些无信任系统…",
