@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-17T12:17:20.576Z</updated>
+    <updated>2022-08-17T18:10:18.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grayscale：浅析ETHW分叉面临的挑战]]></title>
+        <id>https://www.theblockbeats.info/news/31635</id>
+        <link href="https://www.theblockbeats.info/news/31635"/>
+        <updated>2022-08-17T14:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale：浅析ETHW分叉面临的挑战]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帮你寻找Alpha，10个小众却强大的加密研究工具]]></title>
         <id>https://www.theblockbeats.info/news/31636</id>
@@ -489,101 +499,6 @@ Uniswap
 
 
 尽管以上项目的负责人在不同场合对禁令表示质疑，对 Tornado Cash 表示遗憾，但这无法治愈整个加密社区的精神内耗。未来还有哪些「去中心化」的项目方会口嫌体直地与监管站在同一阵线，BlockBeats 将持续关注。
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第十九讲： 接收ETH receive和fallback]]></title>
-        <id>https://www.theblockbeats.info/news/31602</id>
-        <link href="https://www.theblockbeats.info/news/31602"/>
-        <updated>2022-08-15T03:05:27.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Solidity 极简入门: 19. 接收 ETH receive 和 fallback
-
-》
-原文作者：0xAA 
-
-
-
-
-我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
-
-
-所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity
-
-
-回调函数
-
-
-Solidity 支持两种特殊的回调函数，receive() 和 fallback()，他们主要在两种情况下被使用：
-
-
-- 接收 ETH 
-- 处理合约中不存在的函数调用（代理合约 proxy contract）
-
-
-我们这一讲主要介绍接收 ETH 的情况。
-
-
-接收 ETH 函数 receive
-
-
-receive() 只用于处理接收 ETH。一个合约最多有一个 receive() 函数，声明方式与一般函数不一样，不需要 function 关键字：receive() external payable { ... }
-
-
-receive() 函数不能有任何的参数，不能返回任何值，必须包含 external 和 payable。
-
-
-当合约接收 ETH 的时候，receive() 会被触发。receive() 最好不要执行太多的逻辑因为如果别人用 send 和 transfer 方法发送 ETH 的话，gas 会限制在 2300，receive() 太复杂可能会触发 Out of Gas 报错；如果用 call 就可以自定义 gas 执行更复杂的逻辑（这三种发送 ETH 的方法我们之后会讲到）。
-
-
-我们可以在 receive() 里发送一个 event，例如：
-
-
-
-
-
-有些恶意合约，会在 receive() 函数嵌入恶意消耗 gas 的内容，使得一些退款合约不能正常工作：Akutar NFT项目因此被永久锁定了 11539 ETH，接近 2 亿元！因此写包含退款等逻辑的合约时候，一定要注意这种情况。
-
-
-回退函数 fallback
-
-
-fallback() 函数会在调用合约不存在的函数时被触发。可用于接收 ETH，也可以用于代理合约 proxy contract。fallback() 声明时不需要 function 关键字，必须由 external 修饰，一般也会用 payable 修饰，用于接收 ETH:fallback() external payable { ... }。
-
-
-我们定义一个 fallback() 函数，被触发时候会释放 fallbackCalled 事件，并输出 msg.sender，msg.value 和 msg.data:
-
-
-
-
-
-receive 和 fallback 的区别
-
-
-receive 和 fallback 都能够用于接收 ETH，他们触发的规则如下：
-
-
-
-
-
-简单来说，合约接收 ETH 时，msg.data 为空且存在 receive() 时，会触发 receive()；msg.data 不为空或不存在 receive() 时，会触发 fallback()，此时 fallback() 必须为 payable。
-
-
-receive() 和 payable fallback() 均不存在的时候，向合约发送 ETH 将会报错。
-
-
-总结
-
-
-这一讲，我介绍了 Solidity 中的两种特殊函数，receive() 和 fallback()，他们主要在两种情况下被使用，他们主要用于处理接收 ETH 和代理合约 proxy contract。
-
-
-原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
