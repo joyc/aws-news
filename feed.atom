@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-18T06:11:03.666Z</updated>
+    <updated>2022-08-18T12:17:08.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bankless报告：以太坊合并过程的最佳投资策略]]></title>
+        <id>https://www.theblockbeats.info/news/31640</id>
+        <link href="https://www.theblockbeats.info/news/31640"/>
+        <updated>2022-08-18T09:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Bankless报告：以太坊合并过程的最佳投资策略]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grayscale：浅析ETHW分叉面临的挑战]]></title>
         <id>https://www.theblockbeats.info/news/31635</id>
