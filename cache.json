@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31641",
+          "author": null,
+          "description": "警惕加密货币投资的9个常见陷阱",
+          "link": "https://www.theblockbeats.info/news/31641",
+          "publishedOn": "2022-08-18T14:00:34.000Z",
+          "wordCount": null,
+          "title": "警惕加密货币投资的9个常见陷阱",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31640",
           "author": null,
           "description": "Bankless报告：以太坊合并过程的最佳投资策略",
@@ -93,36 +103,6 @@
           "publishedOn": "2022-08-16T09:14:35.000Z",
           "wordCount": null,
           "title": "第33周链上数据分析：以太坊需求大于供给，市场参与者购买力开始放缓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31622",
-          "author": null,
-          "description": "原文来源：Coinpage\n原文编译：深潮 TechFlow\n\n\n\nUST，失去了稳定的美元 Stablecoin，一个人曾推动了它的崛起：Do Kwon。 \n\n\n时隔 3 月，当 UST 叙事逐渐破灭，Do Kwon 却又出现在了公众眼前。现在 Do Kwon 又开始重建 UST，但几乎是从零开始。对大多数人来说，当人们对他的过去疑虑重重，自然对他的未来不屑关注。因此，Coinage 成员 Zack 飞到新加坡，在 Do Kwon 的办公室和家里对他进行了为期两天的采访，看看 Terra 的崩溃是否真的只是一个失败，又或是一场骗局。\n\n\nDo Kwon 首次在镜头前对大众袒露心声，一度认为自己非常成功，UST 崩溃当晚曾尝试筹集 20 亿美元，不料消息泄露，空头迅速挤压，「我想赌很大，但是我输了」…… \n\n\nZack：如何反驳「UST 是骗局」这种观点？ \n\n\nDo Kwon：我不认为 UST 事件涉及道德问题，特别是在一个需要大量技术背景才能理解的行业。但是要想在当大家都极其痛苦和愤怒时给出一个令人满意的答案是非常困难的。 \n\n\nZack：UST 的崩溃只用了 72 小时，你对这样的崩溃速度曾感到过吃惊吗？ \n\n\nDo Kwon：我从没想过这种情况会发生。在这之后，我一直在努力地重建生态和社区，就跟我在过去 5 年一直在做的事情一样。我还没有找到合适的词来形容这种感觉，社区里的很多人都失去了他们的钱，生命，储蓄……很多在 Terra 上建造的项目可能也有类似的经历，而且很可能情况还会更糟。 \n\n\nZack：作为这一切的创造者，这很残忍。 \n\n\nDo Kwon：显然，事后看来，我所坚持的许多信念和做的推测都是错误的。 \n\n\nZack：我认为信任是核心。讽刺意味的是，在许多这些类似 UST 的无需信任（Trustless）的系统中都会产生一个问题，即你信任创造这些无信任系统…",
-          "link": "https://www.theblockbeats.info/news/31622",
-          "publishedOn": "2022-08-16T04:17:36.000Z",
-          "wordCount": null,
-          "title": "LUNA创始人：我赌上了全部，但这次我输了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31621",
-          "author": null,
-          "description": "原文标题：《Recursive STARKs》\n原文作者：Gidi Kaempfer，\n\nStarkWare 核心工程师\n\n\n原文编译：「StarkNet 中文」社区\n\n\n\n概要\n\n\n\n\n· 递归证明上线主网，用一个证明来扩展 StarkEx 应用程序和 StarkNet\n\n\n· 递归证明提升扩展性，降低成本和延迟（鲜有的扩展性和延迟同步发展，而没有取舍）\n\n\n· 递归证明为 L3 和其他妙用创造了条件\n\n\n· 来看看递归证明的博文吧，超酷的\n\n\n\n\n\n 倍数扩展\n\n\n由 Cairo 通用计算提供支持的递归证明现已投入生产。这标志着 STARK 对 L2 扩展能力的重大提升。单一证明写入以太坊的交易数量可快速成倍增加。 \n\n\n迄今为止，STARK 证明通过将数万甚至数十万个交易「汇总」成单一证明写入以太坊来实现扩展。通过递归，许多这样的证明可以「汇总」成一个单一证明。 \n\n\n这种方法现已应用于众多基于 Cairo 的应用程序：在 StarkWare 的 SaaS 扩展引擎 StarkEx 和无需许可的 Rollup StarkNet 上运行的应用程序。\n\n\n 迄今发展历程\n\n\n自 2020 年 3 月主网上线首个证明产生以来，STARK 证明至今经历了不同发展阶段。\n\n\nSTARK 扩展\n\n\n2020 年 6 月，第一个 STARK 扩展解决方案 StarkEx 在以太坊主网部署。StarkEx 有一个证明器可以在链下执行大型计算，生成一个 STARK 证明表示交易准确性，还有一个验证器在链上验证证明的准确性。第一次部署由 StarkWare 工程师从零开始亲自操刀，因此 StarkEx 的功能极大受限。最终我们决定，需要一种支持证明通用计算的编程语言。这样，Cairo 便应运而生。\n\n\nCairo 编程语言\n\n\n2020 年夏天，Cairo 首次亮相以太坊主网。Cairo…",
-          "link": "https://www.theblockbeats.info/news/31621",
-          "publishedOn": "2022-08-16T04:04:36.000Z",
-          "wordCount": null,
-          "title": "全面梳理StarkWare新推出的L2扩展方案「递归证明」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31620",
-          "author": null,
-          "description": "原文作者：Cabin VC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31620",
-          "publishedOn": "2022-08-16T04:04:36.000Z",
-          "wordCount": null,
-          "title": "Aleo: 模块化Web3.0隐私公链",
           "imageUrl": null
         }
       ]
