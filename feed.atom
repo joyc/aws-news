@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-19T06:13:17.769Z</updated>
+    <updated>2022-08-19T12:15:16.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Move 双子星之一，Sui 生态有哪些项目值得关注]]></title>
+        <id>https://www.theblockbeats.info/news/31648</id>
+        <link href="https://www.theblockbeats.info/news/31648"/>
+        <updated>2022-08-19T08:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Move 双子星之一，Sui 生态有哪些项目值得关注]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊的起源]]></title>
+        <id>https://www.theblockbeats.info/news/31649</id>
+        <link href="https://www.theblockbeats.info/news/31649"/>
+        <updated>2022-08-19T08:57:55.000Z</updated>
+        <summary type="html"><![CDATA[以太坊的起源]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详细梳理区块链5大赛道正在演进的技术趋势]]></title>
+        <id>https://www.theblockbeats.info/news/31646</id>
+        <link href="https://www.theblockbeats.info/news/31646"/>
+        <updated>2022-08-19T08:38:15.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《万字长文——我眼中区块链各个赛道正在演进的技术趋势》
+原文作者：老白
+
+
+
+说下近期各个板块看到的正在发生的，以及未来 6-12 个月可能出现的趋势
+
+
+整体会分为公链，DeFi（Dex，借贷，Stablecoin，合成资产等)，NFT，GameFi，存储几个板块
+
+
+一. 先说公链
+
+
+公链的新趋势主要在 ETH+L2，Move+Diem 匪帮，模块化三个类别上
+
+
+1. ETH+L2
+
+
+ETH，未来几个月到几年的顺序是这样的
+
+
+· Merge（预计 9-12 月）
+
+
+· EIP4488（预计年底或明年初）- 降低 CallData 的费用，把 L2 的 Cost 降个几倍
+
+
+· EIP4844 - Proto-Danksharding（明后年）- 引入新的交易类型 Blob，替换 CallData，进一步降低 Rollup 的费用
+
+
+· Danksharding -（2-4 年后）- 相当于 Proto-Danksharding+分片
+
+
+ETH 啥都好，就是啥都慢。。
+
+
+2. L2
+
+
+OP 系
+
+
+Arb - 深知目前 L2 的痛点，即 - 还是不够便宜，不够快（相对于 Solana 这种 Alt L1 或是 Polygon 这种侧链来说），所以一边筹备着 Nitro 的主网（用 WASM 架构大幅提升性能降低费用），一边上了 Nova（基于 AnyTrust 的侧链，但是有 Rollup 做 Backup，所以比一般侧链安全很多）
+
+
+Op - 发币是最大的亮点, 再就是最近发布的 BedRock 架构，让未来的多客户端成为可能 - 不仅仅是支持 OP 的客户端，还可以支持 ZK 哟
+
+
+Fuel - 用了一个 Sway 的新语言弄了个 Swayswap，测试网演示中，速度快到发指，不知道主网上线之后还能不能保持这个速度。Fuel 值得一说…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全面解读新公链Sui：性能与Token经济]]></title>
         <id>https://www.theblockbeats.info/news/31643</id>
