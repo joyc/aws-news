@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-20T12:14:04.110Z</updated>
+    <updated>2022-08-20T18:09:30.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界杯之年，一文分析粉丝Token赛道的投资机会]]></title>
+        <id>https://www.theblockbeats.info/news/31654</id>
+        <link href="https://www.theblockbeats.info/news/31654"/>
+        <updated>2022-08-20T11:28:20.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：西米 Sammi
+
+
+什么是粉丝 Token？
+
+
+粉丝 Token 是一种加密货币，允许其持有者获得各种与粉丝相关的会员福利，例如对俱乐部决策、奖励、商品设计和独特体验进行投票。它们可以被体育俱乐部、球队和其他组织用来民主化和组织体验、建立俱乐部领导力等。 
+
+
+粉丝 Token 主要拥有任务激励、粉丝治理投票、NFT 粉丝周边三大应用场景，他们的价值来自于球迷对能够参与俱乐部并获得独特利益的重视程度。
+
+
+有哪些粉丝 Token？  
+
+
+
+  Binance 粉丝 Token 一览  
+
+
+Binance 上粉丝 Token 板块俱乐部令牌总计 12 个，主流粉丝 Token 发行公链主要在 Chiliz 和 BNB Chain。
+
+
+如何选择粉丝 Token？
+
+
+1. 根据发行重要程度
+
+
+目前基于 BNB Chain 发行的主要为 Alpine、Lazio、Porto、Santos 四个粉丝 Token。
+
+
+众所周知，Binance launchpad 平台发行项目盛产百倍币，2021 年到 2022 年期间，在 Binance 上线的总计 12 个粉丝 Token 中，有 ACM，BAR，LAZIO，PORTO，ALPINE 5 个为 launchpad 平台发行上线，其他 Token 均为 launchpool 挖矿产生。
+
+
+2. 根据俱乐部价值排名
+
+
+
+  足球俱乐部商业价值排名
+
+
+2022 年 5 月，福布斯更新了最有价值的足球俱乐部排名，拥有粉丝 Token 的俱乐部排名情况为：
+
+
+BAR>CITY>PSG>JUV>ATM>ACM
+
+
+3. 根据推特粉丝数判断市场潜力  
+
+
+
+  binance 粉丝 Token 推特粉丝排名
+
+
+足球俱乐部的推特粉丝数能在一定程度上反馈，该粉丝 Token 背后的受众人群及购买力，根据推特粉丝数…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeStore：以DAO形式运营的线下实体店]]></title>
         <id>https://www.theblockbeats.info/news/31653</id>
