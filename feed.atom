@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-21T00:41:34.436Z</updated>
+    <updated>2022-08-21T06:10:57.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -426,16 +426,6 @@ Fuel - 用了一个 Sway 的新语言弄了个 Swayswap，测试网演示中，�
         <link href="https://www.theblockbeats.info/news/31643"/>
         <updated>2022-08-19T04:15:42.000Z</updated>
         <summary type="html"><![CDATA[全面解读新公链Sui：性能与Token经济]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警惕加密货币投资的9个常见陷阱]]></title>
-        <id>https://www.theblockbeats.info/news/31641</id>
-        <link href="https://www.theblockbeats.info/news/31641"/>
-        <updated>2022-08-18T14:00:34.000Z</updated>
-        <summary type="html"><![CDATA[警惕加密货币投资的9个常见陷阱]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
