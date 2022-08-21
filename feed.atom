@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-21T12:13:33.289Z</updated>
+    <updated>2022-08-21T18:09:49.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -426,16 +426,6 @@ Op - 发币是最大的亮点, 再就是最近发布的 BedRock 架构，让未�
 
 
 Fuel - 用了一个 Sway 的新语言弄了个 Swayswap，测试网演示中，速度快到发指，不知道主网上线之后还能不能保持这个速度。Fuel 值得一说…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面解读新公链Sui：性能与Token经济]]></title>
-        <id>https://www.theblockbeats.info/news/31643</id>
-        <link href="https://www.theblockbeats.info/news/31643"/>
-        <updated>2022-08-19T04:15:42.000Z</updated>
-        <summary type="html"><![CDATA[全面解读新公链Sui：性能与Token经济]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
