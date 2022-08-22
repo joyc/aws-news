@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31662",
+          "author": null,
+          "description": "原文标题：《zkSync Ecosystem Airdrop covered (A-Z)》\n原文作者：Permissionlessness.ETH\n原文编译：0x214 & czgsws，BlockBeats\n\n\n\n\n\n\n1KX Protocol\n\n\n\n\n1KXprotocol 是一个将自动做市商（AMM）和去中心化交易平台（DEX）结合、低滑点的 DeFi 聚合平台，允许建立单一 Token 流动性池（而不是 Token 对流动性池）。其他功能包括永续合约交易、借贷等。该协议目前仍处于测试网阶段。\n\n\n\n\n流动性提供者（LP）只能在 1KX 流动性池中存入一种 Token，可以通过以下方式获益：\n\n\n- 赚取现货交换的费用\n- 保证金交易的费用\n- 来自借款人的利息\n- 来自永续合约交易的费用\n- 通过收入分配赚取 1KX Token\n\n\n\n\n撸空投策略：通过使用该协议的全部功能成为活跃用户\n\n\n空投确认：确认空投\n\n\n\n\n\n\n\n\n\nComposable Finance\n\n\n\n\nComposable Finance 是 Arbitrum 生态上一个具有互操作性、整合 DeFi 2.0 以及 Web3 的跨链跨层基础设施项目。\n\n\n\n\nMES Protocol\n\n\n\n\nMES Protocol 是一个 zkSync 上订单薄模式的去中心化交易平台（DEX），为用户提供像中心化交易平台（CEX）上一样流畅的交易体验。该协议目前仍处于测试网阶段，且暂未发行 Token。\n\n\n\n\n撸空投策略：在 DEX 上进行交易\n\n\n空投确认：可能会有空投\n\n\n\n\n\n\n\n\n\nMystiko Network\n\n\n\n\nMystiko Network 是一个 Web3 基础设施层，为区块链数据、转码和应用提供连接和保密性。\n\n\n\n\nMystiko 可以被集成到跨链桥、区块链（L1 和 L2）、钱包和…",
+          "link": "https://www.theblockbeats.info/news/31662",
+          "publishedOn": "2022-08-22T08:42:08.000Z",
+          "wordCount": null,
+          "title": "14个zkSync生态潜在空投项目一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31661",
+          "author": null,
+          "description": "原文作者：Punk9059，NFT KOL\n原文编译：wzp，BlockBeats\n\n\n\n\n\n\n近期由于 NFT 市场因素，NFT 抵押借贷协议 BendDAO 出现大量清算拍卖，并且平台出现严重的流动性危机，BendDAO 资金利用率突破 103%。对此，BendDAO 紧急发布新提案 BIP#9，拟修改部分协议参数以解决流动性危机。具体包括将清算阈值调整为 70%、将拍卖周期调整为 4 小时、将利息基础利率调整为 20%、以及当发生坏账时 BendDAO 社区可投票决定如何处理。\n\n\n\n\nNFT KOL Punk9059 于今日对 BendDAO 流动性紧缺现状及其原因进行分析，BlockBeats 对其整理翻译如下：\n\n\n\n\nBendDAO 已经几乎使用完 ETH 存款，平台合约中仅剩 12.5WETH。（截止发文为 1.18 枚 WETH）\n\n\n\n\n\n\n\n\n\n那些借钱给他人来加杠杆购买 NFT 的 BendDAO 存款人将无法收回资金。BendDAO 借出大约 15,000 枚 ETH。同时，这也意味着抵押 NFT 的借款人必须为其借出的 ETH 支付几乎达 100% 的利息。NFT 抵押借贷产生的「债务」正在不断迅速上升\n\n\n\n\n对蓝筹 NFT 持有者意味着什么？其影响在于大多数被清算拍卖的 NFT 都无人出价 \n\n\n13/17 MAYC \n5/9 BAYC \n8/11 CloneX \n6/8 Doodles\n\n\n（该系列没有出价的 NFT 数量/已有出价的 NFT 数量）\n\n\n\n\n截止发文\n\n\n12/17 MAYC  \n2/3 BAYC\n7/8 CloneX \n6/8 Doodles\n\n\n\n\n为什么没有竞标者出价？\n\n\n\n\n(b) 公开竞价期间出价者必须将 ETH 锁定 48 小时。有些情况下 NFT 地板价会跌破借款人债务，出价人不希望承担 48 小时内的 NFT 地板价下跌风险。\n\n\n\n\n还有很多抵押的 NFT 即将被清算拍卖，要么是因为抵押借贷的费率导致借款人债务上升，要么是 OpenSea 地板价下降。目前这些 NFT 累积在 BendDAO 平台中拍卖，而非 NFT 交易平台，就是因为没有竞标人出价。BendDAO 被迫持有大量 NFT。然而最终，BendDAO 需要卖出 NFT 以获得 ETH 来偿还存款人，而这些存款人现在无法取回资金。\n\n\n\n\n所以我们不得不等待，看看 BendDAO 会如何解决\n\n\n\n(a) 他们是持有这些蓝筹 NFT 并等待地板价回升？\n\n\n(b) 还是他们将改变了协议条款（投标人出价不需要大于借款人债务或者是降低出价占 NFT 地板价比例，目前该比例是 95%）以使 BendDAO 更容易卖出 NFT 来回笼 ETH 资金？\n\n\n\n\n(c) 他们是否能找到愿意买入 NFT 的做市商，然后以大幅折扣卖出？ \n\n\n需要提醒的是，大量的 NFT 只要还处于未出价的拍卖阶段，NFT 市场价格就还不会立刻做出反映。让我们拭目以待。希望市场能够挺过去并从中吸取教训。\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31661",
+          "publishedOn": "2022-08-22T08:42:08.000Z",
+          "wordCount": null,
+          "title": "提款池仅剩不到2枚ETH，BendDAO能否走出流动性危机？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31660",
+          "author": null,
+          "description": "视频来源：大话闲游\n\n\n作为加密世界市值第二大的项目，以太坊的价格也是一路起起伏伏，本篇以时间的维度介绍了以太坊的价格走势。同时，以太坊发展史上也出现了很多大事，或许每一步都决定着其命运和走向。通过视频一起来详细了解它的过去吧。\n本视频来源 Youtube，部分地区 ip 地址或无法访问\n\n\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31660",
+          "publishedOn": "2022-08-22T08:42:08.000Z",
+          "wordCount": null,
+          "title": "10分钟了解以太坊大事件及历史价格走势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31659",
+          "author": null,
+          "description": "自 8 月 8 日美国财政部海外资产控制办公室（OFAC）宣布将 Tornado Cash 纳入制裁名单（SDN）后，加密社区对于自身「去中心化」和「抗审查」的特性进行了重新审视和深入探讨。其中，引发探讨最多的项目便是即将迎来「合并」大事件的以太坊。\n\n\n众所周知，合并后，以太坊将走向 PoS 共识时代。而据 Dune Analytic 数据显示，目前信标链上 74.5% 的已质押 ETH 是由质押服务运营商掌握。其中 Lido Finance（30.9%）、Coinbase（14.7%）、Kraken（8.4%）、Binance（6.7%）、Staked.us（3.02%）这 5 家运营商共掌握已质押 ETH 的 63.72%，似乎「中心化」程度明显。而更让社区担心的是，一旦这些运营商决定服从监管审查要求，监管机构（如 OFAC）即可实现对以太坊进行协议级别的审查。\n\n\n\n\n\n对此，V 神率先强硬表态：若监管通过某些验证节点进行审查，将视为对以太坊的攻击，并选择通过更广泛共识（social consensus）将这些节点销毁。\n\n\nV 神的表态毫无疑问给以太坊社区定下了基调、带来了信心，那么这些提供质押服务的运营商面对审查要求将何去何从，BlockBeats 将实时更新其立场表态。\n\n\nCoinbase\n\n\n8 月 18 日，Coinbase 首席执行官 Brian Amstrong 在社交媒体上表示，如果监管机构要求该平台在以太坊协议级别对其验证者进行审查，Coinbase 将关闭质押服务以保持网络完整性。他还表示：「必须着眼于大局，其他更好的选择或许将促成更好结果，例如提出法律挑战。」\n\n\n\n\n\nLido Finance\n\n\n8 月 19 日，当前市场份额占比最高的以太坊质押运营商Lido Finance 表示，Lido 的使命是让质押变得简单且安全，并保持以太坊（和其他 PoS 网络）去中心化和抗审查。\n\n\n\n\n\n\n\n\n此外，围绕上述担忧，在 8 月 18 日结束的以太坊全体核心开发者（ACD）电话会议上，以太坊开发人员提出可以采取 Social Slashing 来惩罚运营商的交易审查行为，即协调以太坊实施硬分叉剔除违规验证节点。开发人员还表示，迫使质押服务运营商审查交易的不利立法或将导致其搬离美国。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31659",
+          "publishedOn": "2022-08-22T08:42:08.000Z",
+          "wordCount": null,
+          "title": "【实时更新】哪些以太坊Staking运营商要正面硬刚美国监管?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31658",
+          "author": null,
+          "description": "原文标题：《【节点部署-Aptos】Aptos 第三次测试注册全流程》\n原文作者：rainnight-雨夜\n\n\n\n\nAptos 激励测试网 3，注册全流程\n\n\n\n\n完整的教程需要完成以下 6 个步骤以注册 AIT-3：\n\n\n\n\n1. 确认您拥有Discord帐户并已加入Aptos 服务器。 重要提示：您将被要求为 AIT-3 连接 Discord 帐户。\n2. 在社区网站上创建一个帐户（或登录您现有的帐户）。\n\n3. 出现提示时，提供您的电子邮件地址和用户名，并确保确认您的电子邮件。\n\n4. 按照此AIT-3 页面上的步骤安装和启动验证器节点，将节点设置为测试模式，并向 Aptos 社区提供验证器详细信息。\n\n5. 下载并安装 Petra 钱包，并在社区网站上注册您的钱包地址。（删除以前版本的钱包）\n\n6. 通过身份验证和制裁筛选流程。\n\n\n\n\n下面我们一起来做吧。\n\n\n\n\n1、已加入 Aptos DC 服务器。\n\n\n\n\n点击链接 https://discord.gg/aptoslabs , 接收邀请，加入 Aptos dc 服务器\n\n\n\n\n\n\n\n\n\n2、在社区网站上创建一个帐户\n\n\n\n\n访问 https://aptoslabs.com/incentivized-testnet，创建账号\n\n\n\n\n\n\n\n\n\n\n3、确认邮件\n\n\n\n\n提交完信息后，邮箱会收到一封确认邮件，将里面的链接复制出来，在刚才的浏览器里访问\n\n\n\n\n\n\n\n\n\n4、安装验证节点\n\n\n\n\n首先需要一台服务器\n\n\n\n\n配置如下\nCPU: \n8 cores, 16 threads\n2.8GHz, or faster\nIntel Xeon Skylake or newer\nMemory:\n32GB RAM.\nNetworking\n\nBandwidth requirement: 1 Gbps\ndisk\n\n300G\n\n…",
+          "link": "https://www.theblockbeats.info/news/31658",
+          "publishedOn": "2022-08-22T08:42:08.000Z",
+          "wordCount": null,
+          "title": "800枚Aptos Token奖励，手把手教你部署Aptos测试网3节点",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31656",
           "author": null,
           "description": "原文标题：《百亿项目 Alchemy Road to Web3 第四周 NFT 获取教程》\n原文作者：Greta\n\n\n\n\nAlchemy 是什么项目？\n\n\n\n\n2019 年 12 月，Alchemy 完成 1500 万美元 A 轮融资，资方为 Pantera Capital，斯坦福大学，Coinbase，三星等。\n\n\n\n\n2021 年 4 月，Alchemy 以 5.05 亿美元估值完成 8000 万美元 B 轮融资，Coatue 和 Addition 领投，DFJ Growth、K5 Global、Chainsmokers（烟鬼组合）、演员 Jared Leto 和 Glazer 家族参投。\n\n\n\n\n2021 年 10 月，Alchemy 以 35 亿美元估值完成 2.5 亿美元 C 轮融资，由 a16z 领投的。\n\n\n\n\n2022 年 2 月，Alchemy 以 102 亿美元估值完成 2 亿美元融资，Lightspeed 与 Silver Lake 领投。\n\n\n\n\nAlchemy 是一个背景强大、经费充足、踏实做事、没有发币的团队，这样的项目不刷，难道去刷土狗吗？\n\n\n\n\n并且，Alchemy 计划将新资金用于推广 Web3 采用，这方面的一些举措包括推出 Web3 University，就是现在的 Road to Web3 活动，活动为期 10 周，每周一个 NFT。看了下 nft 数量极少，估计由于任务难度大，很多小伙伴直接放弃，这样的项目若是空投，绝对是大毛。\n\n\n\n\n手把手第四周教程开始：如何创建 NFT 画廊\n\n\n\n\n\n\n\n\n\nstep1 创建项目设置\n\n\n\n\n1. 打开控制台并输入以下代码，从而创建 Next JS 项目样板并安装 TailwindCSS。\n\n\nnpx create-next-app -e with-tailwindcss nameoftheproject，如图。\n\n\n\n\n\n\n\n\n\n2. 输入 cd nameoftheproject && code .（最后那个点别掉了，掉了打开的就是之前的项目）\n\n\n\n\n\n\n\n\n\n3. 在控制台输入 npm run dev，如果电脑弹出防火墙，就点允许访问，不弹出也没关系。\n\n\n\n\n\n\n\n\n\n4. 回到 vscode，将 index.tsx 和_app.tsx 的后缀改成.jsx，删除_app.jsx 中报错的部分，如图。\n\n\n\n\n\n\n\n\n\n或者直接粘贴下面的代码替换。\n\n\n\n\n\n\nstep2 修改 index.jsx 代码\n\n\n\n\n1. 这一步具体每行代码的意义可以到官方看，我这里放最终的代码，方便大家完成任务，但是这对于学习 web3 是毫无作用的。将 index.jsx 的代码更改成如下代码。如图。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nstep3 创建一个新的炼金术应用程序\n\n\n\n\n1. 进入alchemy.com，点击 create app。\n\n\n\n\n\n\n\n\n\n2. 输入信息，点击 create app。\n\n\n\n\n\n\n\n\n\n3. 点击 view key，将红框内的 API KEY 复制下来。\n\n\n\n\n\n\n\n\n\n4. 回到 vscode，在 index.jsx 中 ctrl+f 搜索 const api_key，应该会搜索到 2 处，全部改成上一步复制的代码，然后保存。\n\n\n\n\n\n\n\n\n\nstep4 创建 NFT Card 组件\n\n\n\n\n1. 在 pages 下面新建一个名为 nftCard.jsx 的文件，并将下面的代码粘贴进去。\n\n\n\n\n\n\n\n\n\nstep5 运行测试\n\n\n\n\n1. 在控制台输入 cd nameoftheproject，按回车，然后输入 npm run dev，如图所示即可。\n\n\n\n\n\n\n\n\n\n2. 然后将http://localhost:3000（我这里是这个链接，我看官方视频是 3001，可能会不一样啊，我也不知道哈哈），就是上面那个图的第一行的链接，复制到浏览器。出现下图即可。\n\n\n\n\n\n\n\n\n\n3. 输入你自己的地址，点击 let『s go，下面出现图片即可。\n\n\n\n\n\n\n\n\n\nstep6 上传至 github\n\n\n\n\n如何将本地代码上传到 GitHub？\n\n\n\n\n\n\n\n\n\nstep7 项目提交\n\n\n\n\n\n\n\n\n\nWeek Four - Road to Web3 Project Submission\n\n\n\n\n直接填写上传的项目的 github 网址即可。\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
