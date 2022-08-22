@@ -84,36 +84,6 @@
           "wordCount": null,
           "title": "Solidity极简入门｜第二十讲：发送ETH transfer,send和call",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31648",
-          "author": null,
-          "description": "Move 双子星之一，Sui 生态有哪些项目值得关注",
-          "link": "https://www.theblockbeats.info/news/31648",
-          "publishedOn": "2022-08-19T08:57:55.000Z",
-          "wordCount": null,
-          "title": "Move 双子星之一，Sui 生态有哪些项目值得关注",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31649",
-          "author": null,
-          "description": "以太坊的起源",
-          "link": "https://www.theblockbeats.info/news/31649",
-          "publishedOn": "2022-08-19T08:57:55.000Z",
-          "wordCount": null,
-          "title": "以太坊的起源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31646",
-          "author": null,
-          "description": "原文标题：《万字长文——我眼中区块链各个赛道正在演进的技术趋势》\n原文作者：老白\n\n\n\n说下近期各个板块看到的正在发生的，以及未来 6-12 个月可能出现的趋势\n\n\n整体会分为公链，DeFi（Dex，借贷，Stablecoin，合成资产等)，NFT，GameFi，存储几个板块\n\n\n一. 先说公链\n\n\n公链的新趋势主要在 ETH+L2，Move+Diem 匪帮，模块化三个类别上\n\n\n1. ETH+L2\n\n\nETH，未来几个月到几年的顺序是这样的\n\n\n· Merge（预计 9-12 月）\n\n\n· EIP4488（预计年底或明年初）- 降低 CallData 的费用，把 L2 的 Cost 降个几倍\n\n\n· EIP4844 - Proto-Danksharding（明后年）- 引入新的交易类型 Blob，替换 CallData，进一步降低 Rollup 的费用\n\n\n· Danksharding -（2-4 年后）- 相当于 Proto-Danksharding+分片\n\n\nETH 啥都好，就是啥都慢。。\n\n\n2. L2\n\n\nOP 系\n\n\nArb - 深知目前 L2 的痛点，即 - 还是不够便宜，不够快（相对于 Solana 这种 Alt L1 或是 Polygon 这种侧链来说），所以一边筹备着 Nitro 的主网（用 WASM 架构大幅提升性能降低费用），一边上了 Nova（基于 AnyTrust 的侧链，但是有 Rollup 做 Backup，所以比一般侧链安全很多）\n\n\nOp - 发币是最大的亮点, 再就是最近发布的 BedRock 架构，让未来的多客户端成为可能 - 不仅仅是支持 OP 的客户端，还可以支持 ZK 哟\n\n\nFuel - 用了一个 Sway 的新语言弄了个 Swayswap，测试网演示中，速度快到发指，不知道主网上线之后还能不能保持这个速度。Fuel 值得一说…",
-          "link": "https://www.theblockbeats.info/news/31646",
-          "publishedOn": "2022-08-19T08:38:15.000Z",
-          "wordCount": null,
-          "title": "详细梳理区块链5大赛道正在演进的技术趋势",
-          "imageUrl": null
         }
       ]
     },
