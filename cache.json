@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31656",
+          "author": null,
+          "description": "原文标题：《百亿项目 Alchemy Road to Web3 第四周 NFT 获取教程》\n原文作者：Greta\n\n\n\n\nAlchemy 是什么项目？\n\n\n\n\n2019 年 12 月，Alchemy 完成 1500 万美元 A 轮融资，资方为 Pantera Capital，斯坦福大学，Coinbase，三星等。\n\n\n\n\n2021 年 4 月，Alchemy 以 5.05 亿美元估值完成 8000 万美元 B 轮融资，Coatue 和 Addition 领投，DFJ Growth、K5 Global、Chainsmokers（烟鬼组合）、演员 Jared Leto 和 Glazer 家族参投。\n\n\n\n\n2021 年 10 月，Alchemy 以 35 亿美元估值完成 2.5 亿美元 C 轮融资，由 a16z 领投的。\n\n\n\n\n2022 年 2 月，Alchemy 以 102 亿美元估值完成 2 亿美元融资，Lightspeed 与 Silver Lake 领投。\n\n\n\n\nAlchemy 是一个背景强大、经费充足、踏实做事、没有发币的团队，这样的项目不刷，难道去刷土狗吗？\n\n\n\n\n并且，Alchemy 计划将新资金用于推广 Web3 采用，这方面的一些举措包括推出 Web3 University，就是现在的 Road to Web3 活动，活动为期 10 周，每周一个 NFT。看了下 nft 数量极少，估计由于任务难度大，很多小伙伴直接放弃，这样的项目若是空投，绝对是大毛。\n\n\n\n\n手把手第四周教程开始：如何创建 NFT 画廊\n\n\n\n\n\n\n\n\n\nstep1 创建项目设置\n\n\n\n\n1. 打开控制台并输入以下代码，从而创建 Next JS 项目样板并安装 TailwindCSS。\n\n\nnpx create-next-app -e with-tailwindcss nameoftheproject，如图。\n\n\n\n\n\n\n\n\n\n2. 输入 cd nameoftheproject && code .（最后那个点别掉了，掉了打开的就是之前的项目）\n\n\n\n\n\n\n\n\n\n3. 在控制台输入 npm run dev，如果电脑弹出防火墙，就点允许访问，不弹出也没关系。\n\n\n\n\n\n\n\n\n\n4. 回到 vscode，将 index.tsx 和_app.tsx 的后缀改成.jsx，删除_app.jsx 中报错的部分，如图。\n\n\n\n\n\n\n\n\n\n或者直接粘贴下面的代码替换。\n\n\n\n\n\n\nstep2 修改 index.jsx 代码\n\n\n\n\n1. 这一步具体每行代码的意义可以到官方看，我这里放最终的代码，方便大家完成任务，但是这对于学习 web3 是毫无作用的。将 index.jsx 的代码更改成如下代码。如图。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nstep3 创建一个新的炼金术应用程序\n\n\n\n\n1. 进入alchemy.com，点击 create app。\n\n\n\n\n\n\n\n\n\n2. 输入信息，点击 create app。\n\n\n\n\n\n\n\n\n\n3. 点击 view key，将红框内的 API KEY 复制下来。\n\n\n\n\n\n\n\n\n\n4. 回到 vscode，在 index.jsx 中 ctrl+f 搜索 const api_key，应该会搜索到 2 处，全部改成上一步复制的代码，然后保存。\n\n\n\n\n\n\n\n\n\nstep4 创建 NFT Card 组件\n\n\n\n\n1. 在 pages 下面新建一个名为 nftCard.jsx 的文件，并将下面的代码粘贴进去。\n\n\n\n\n\n\n\n\n\nstep5 运行测试\n\n\n\n\n1. 在控制台输入 cd nameoftheproject，按回车，然后输入 npm run dev，如图所示即可。\n\n\n\n\n\n\n\n\n\n2. 然后将http://localhost:3000（我这里是这个链接，我看官方视频是 3001，可能会不一样啊，我也不知道哈哈），就是上面那个图的第一行的链接，复制到浏览器。出现下图即可。\n\n\n\n\n\n\n\n\n\n3. 输入你自己的地址，点击 let『s go，下面出现图片即可。\n\n\n\n\n\n\n\n\n\nstep6 上传至 github\n\n\n\n\n如何将本地代码上传到 GitHub？\n\n\n\n\n\n\n\n\n\nstep7 项目提交\n\n\n\n\n\n\n\n\n\nWeek Four - Road to Web3 Project Submission\n\n\n\n\n直接填写上传的项目的 github 网址即可。\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31656",
+          "publishedOn": "2022-08-22T03:54:18.000Z",
+          "wordCount": null,
+          "title": "手把手教你获取Alchemy Road to Web3第四周NFT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31655",
           "author": null,
           "description": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
@@ -63,26 +73,6 @@
           "publishedOn": "2022-08-20T03:09:54.000Z",
           "wordCount": null,
           "title": "Solidity极简入门｜第二十一讲：调用其他合约",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31644",
-          "author": null,
-          "description": "Paradigm领投的NFT「拼团」协议Tessera到底是做什么的？",
-          "link": "https://www.theblockbeats.info/news/31644",
-          "publishedOn": "2022-08-19T14:18:20.000Z",
-          "wordCount": null,
-          "title": "Paradigm领投的NFT「拼团」协议Tessera到底是做什么的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31647",
-          "author": null,
-          "description": "Solidity极简入门｜第二十讲：发送ETH transfer,send和call",
-          "link": "https://www.theblockbeats.info/news/31647",
-          "publishedOn": "2022-08-19T13:21:45.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门｜第二十讲：发送ETH transfer,send和call",
           "imageUrl": null
         }
       ]

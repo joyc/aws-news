@@ -22,6 +22,309 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-22 datetime="2022-08-22T03:54:18.000Z">2022-08-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-22 datetime="2022-08-22T03:54:18.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/31656"
+                        open
+                      >
+                        <summary class="article-expander__title">手把手教你获取Alchemy Road to Web3第四周NFT</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31656">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《百亿项目 Alchemy Road to Web3 第四周 NFT 获取教程》
+原文作者：Greta
+
+
+
+
+Alchemy 是什么项目？
+
+
+
+
+2019 年 12 月，Alchemy 完成 1500 万美元 A 轮融资，资方为 Pantera Capital，斯坦福大学，Coinbase，三星等。
+
+
+
+
+2021 年 4 月，Alchemy 以 5.05 亿美元估值完成 8000 万美元 B 轮融资，Coatue 和 Addition 领投，DFJ Growth、K5 Global、Chainsmokers（烟鬼组合）、演员 Jared Leto 和 Glazer 家族参投。
+
+
+
+
+2021 年 10 月，Alchemy 以 35 亿美元估值完成 2.5 亿美元 C 轮融资，由 a16z 领投的。
+
+
+
+
+2022 年 2 月，Alchemy 以 102 亿美元估值完成 2 亿美元融资，Lightspeed 与 Silver Lake 领投。
+
+
+
+
+Alchemy 是一个背景强大、经费充足、踏实做事、没有发币的团队，这样的项目不刷，难道去刷土狗吗？
+
+
+
+
+并且，Alchemy 计划将新资金用于推广 Web3 采用，这方面的一些举措包括推出 Web3 University，就是现在的 Road to Web3 活动，活动为期 10 周，每周一个 NFT。看了下 nft 数量极少，估计由于任务难度大，很多小伙伴直接放弃，这样的项目若是空投，绝对是大毛。
+
+
+
+
+手把手第四周教程开始：如何创建 NFT 画廊
+
+
+
+
+
+
+
+
+
+step1 创建项目设置
+
+
+
+
+1. 打开控制台并输入以下代码，从而创建 Next JS 项目样板并安装 TailwindCSS。
+
+
+npx create-next-app -e with-tailwindcss nameoftheproject，如图。
+
+
+
+
+
+
+
+
+
+2. 输入 cd nameoftheproject &amp;&amp; code .（最后那个点别掉了，掉了打开的就是之前的项目）
+
+
+
+
+
+
+
+
+
+3. 在控制台输入 npm run dev，如果电脑弹出防火墙，就点允许访问，不弹出也没关系。
+
+
+
+
+
+
+
+
+
+4. 回到 vscode，将 index.tsx 和_app.tsx 的后缀改成.jsx，删除_app.jsx 中报错的部分，如图。
+
+
+
+
+
+
+
+
+
+或者直接粘贴下面的代码替换。
+
+
+
+
+
+
+step2 修改 index.jsx 代码
+
+
+
+
+1. 这一步具体每行代码的意义可以到官方看，我这里放最终的代码，方便大家完成任务，但是这对于学习 web3 是毫无作用的。将 index.jsx 的代码更改成如下代码。如图。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+step3 创建一个新的炼金术应用程序
+
+
+
+
+1. 进入alchemy.com，点击 create app。
+
+
+
+
+
+
+
+
+
+2. 输入信息，点击 create app。
+
+
+
+
+
+
+
+
+
+3. 点击 view key，将红框内的 API KEY 复制下来。
+
+
+
+
+
+
+
+
+
+4. 回到 vscode，在 index.jsx 中 ctrl+f 搜索 const api_key，应该会搜索到 2 处，全部改成上一步复制的代码，然后保存。
+
+
+
+
+
+
+
+
+
+step4 创建 NFT Card 组件
+
+
+
+
+1. 在 pages 下面新建一个名为 nftCard.jsx 的文件，并将下面的代码粘贴进去。
+
+
+
+
+
+
+
+
+
+step5 运行测试
+
+
+
+
+1. 在控制台输入 cd nameoftheproject，按回车，然后输入 npm run dev，如图所示即可。
+
+
+
+
+
+
+
+
+
+2. 然后将http://localhost:3000（我这里是这个链接，我看官方视频是 3001，可能会不一样啊，我也不知道哈哈），就是上面那个图的第一行的链接，复制到浏览器。出现下图即可。
+
+
+
+
+
+
+
+
+
+3. 输入你自己的地址，点击 let『s go，下面出现图片即可。
+
+
+
+
+
+
+
+
+
+step6 上传至 github
+
+
+
+
+如何将本地代码上传到 GitHub？
+
+
+
+
+
+
+
+
+
+step7 项目提交
+
+
+
+
+
+
+
+
+
+Week Four - Road to Web3 Project Submission
+
+
+
+
+直接填写上传的项目的 github 网址即可。
+
+
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-21 datetime="2022-08-21T09:18:11.000Z">2022-08-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-21 datetime="2022-08-21T09:18:11.000Z"></time>
           </button>
@@ -437,72 +740,10 @@ OtherContract 合约的 setX 函数是 payable 的，在下面这个例子中我
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-19 datetime="2022-08-19T14:18:20.000Z">2022-08-19</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-19 datetime="2022-08-19T14:18:20.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >TheBlockBeats - 新闻</button>
-                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31644"
-                        open
-                      >
-                        <summary class="article-expander__title">Paradigm领投的NFT「拼团」协议Tessera到底是做什么的？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31644">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Paradigm领投的NFT「拼团」协议Tessera到底是做什么的？</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/31647"
-                        open
-                      >
-                        <summary class="article-expander__title">Solidity极简入门｜第二十讲：发送ETH transfer,send和call</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/31647">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Solidity极简入门｜第二十讲：发送ETH transfer,send和call</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2900545091">
-        <time id="build-timestamp" datetime="2022-08-22T00:45:04.258Z">2022-08-22T00:45:04.258Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/2901654409">
+        <time id="build-timestamp" datetime="2022-08-22T06:13:19.166Z">2022-08-22T06:13:19.166Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
