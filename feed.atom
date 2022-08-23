@@ -2,10 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-23T06:22:36.631Z</updated>
+    <updated>2022-08-23T12:16:45.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[墨西哥黑客松前 12 个入围新项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/31681</id>
+        <link href="https://www.theblockbeats.info/news/31681"/>
+        <updated>2022-08-23T11:11:36.000Z</updated>
+        <summary type="html"><![CDATA[8 月 19 日至 21 日，ETHGlobal 于墨西哥举办了为期 3 天的 ETHMexico 黑客马拉松。有 12 项应用入围决赛，其中有 8 项应用构建在 Polygon 之上，且 Lens Protocol 也被频频应用其中。
+
+
+
+
+接下来律动 BlockBeats 将对这些新项目进行简单的介绍。
+
+
+
+
+Datamorpho
+
+
+ 
+Datamorpho 是一个使用密码学和 IPFS 的动态文件标准和协议，它允许任何文件随时间进行数据变形。
+
+
+ 
+项目需要 IPFS 协议提供的可靠性来信任任何存储的数据变形文件的真实性。任何类型的文件/NFT 都能够将其数据内容转换为「使用隐藏状态进行混淆和加密的不同内容」。这些文件在其输出中是动态的，但数据内容是相同的。
+
+
+
+
+Keyppi
+
+
+ 
+Keyppi 是一个私钥恢复平台。通过使用身份证明实施零知识证明、分散存储和身份验证来保护用户密钥。
+
+
+ 
+用户可使用该平台注册一组新的私钥，选择想使用的钱包类型，填写钱包地址、私钥和电子邮件/短信等。
+
+
+
+
+也可通过其检索以前注册的私钥，使用自己的 World ID 登录，触发通过电子邮件/短信验证其身份的证明，证明成功后，平台将接收到的 nullifier 发送到 zkApp 并解密与其关联的信息，用户即可检索私钥。
+
+
+
+最后，用户还能将其加密的私钥分享给朋友或家人，通过该平台安全地赠送钱包，新所有者收到后替换 World ID nullifier 也能使用检索功能。
+
+
+
+
+Kiwik
+
+
+ 
+Kiwik 是游戏玩家和元宇宙建设者的 NFT 市场，项目认为，在游戏和虚拟世界中目前缺乏质量和价格合理的 3D 资产，所以允许创作者和游戏开发者买卖 Token 化 3D 资产来创建更高质量和数量的游戏和虚拟世界。
+
+
+
+
+对于创作者来说，可在该平台上以 Polygon …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新公链Canto生态：用稳定币进行高年化流动性挖矿]]></title>
+        <id>https://www.theblockbeats.info/news/31679</id>
+        <link href="https://www.theblockbeats.info/news/31679"/>
+        <updated>2022-08-23T10:33:36.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Humble Farmer's CANTO Guide - Earn 4 digits APR farming on CANTO》
+原文来源：The Farmers Club 
+原文编译：0x214，BlockBeats
+
+
+
+
+过去几天市场平淡，但是在 8 月 26 日杰克逊霍尔（Jackson Hole）全球央行年会到来之前，预计市场仍会经历一波动荡。为了提醒自己不要冲动行事，我刚刚在电脑显示器上贴了一张便签，写着「不许过度交易！」。
+
+
+
+
+与此同时，我一直在去中心化交易平台Perpetual Protocol和 Canto 公链上相对轻松地获取收益，在本文中我将着重介绍后者。如果你有兴趣用 NOTE 稳定币赚取超过 600% 年利率，不妨往下看看。
+
+
+
+
+
+
+
+Canto 最开始是 EVMOS 链的分叉，是一条基于 Cosmos SDK 打造的 EVM 兼容 Layer1 公链。Canto 声称自己是一条完全去中心化的区块链，无 Token 预售、无官方团队、无 VC 资本扶持。该项目由几位核心贡献者构建，包括 DeFi OG、Defipulse 和 Slingshot 联创Scott Lewis。
+
+
+
+
+更多关于 Canto 的信息请点击此处。
+
+
+
+
+首先，我们需要明白，打造一条新的公链是有很高风险的，毕竟 Canto 及其基础设施还没有经过「实战测试」。我也并不是专门来吹捧（shill）Canto 的，我实际拥有的 CANTO Token 数量也并不多。目前 Canto 体量尚小，流动性不佳。然而，这其中不乏一些收益率颇丰的流动性挖矿（yield farming）机会。
+
+
+我个人认为，Canto 提供核心 DeFi 原语作为免费公共基础设施的想法是具有实验性质的，我也很期待 Canto 后续发展。
+
+
+
+
+Canto 并不依赖第三方构建者，而…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何通过Fracton协议买到折扣价的CryptoPunks？]]></title>
+        <id>https://www.theblockbeats.info/news/31671</id>
+        <link href="https://www.theblockbeats.info/news/31671"/>
+        <updated>2022-08-23T10:33:36.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+一名用户通过 Fracton 协议，以 8.6 折价格兑换 PUNKS 并获得近 45%ROI
+
+》
+原文来源：NFT 研究所
+
+
+
+
+
+7 月 31 日，Tiffany & Co. 官方 Twitter 发布消息，决定将于 8 月 5 日在其 NFT 官网以 30 ETH 的价格发售 250 个限量 NFT——「NFTiff」。
+
+
+持有 CryptoPunks 的用户可以通过同时持有该 NFT 兑换一条由贵金属和宝石打造的实物朋克项链，且该项链将与用户所持有的 CryptoPunks 一模一样。
+
+
+该消息一经发布，CryptoPunks 的地板价应声上涨 10%，并于 8 月 3 日最高涨到 77.55ETH。
+
+
+发售当天，NFTiff 仅在 20 分左右就被抢购一空，并且其在 Opensea 的最高成交价达到了 55 个 ETH。
+
+
+
+  左：NFTiff 活动官推 右：吊坠效果图
+
+
+在如此高的关注度下，不少人都尝试利用该热点对自己的项目进行营销。
+
+
+如 Chain 的 CEO 在 8 月 11 日发推表示将抽奖送出一个 CryptoPunks。  
+
+
+
+
+
+此外，KuCoin 也于 8 月 9 日开启了一个使用 hiPUNKS 兑换 CryptoPunks 赠送 NFTiff 的活动。  
+
+
+
+
+
+hiPUNKS 的价格在 8 月 9 日约为 0.14 usdt。而当天 CryptoPunks 的地板价为 73.95ETH，那就意味着可以瞬间用 140k usdt 换取价值 73.95 个 ETH 的 CryptoPunks 和 30 个 ETH 的 NFTiff，以当时 ETH 1800usdt 的价格计算，那就是 33.65% 的收益率。那么是否真的有人去兑换？而 KuCoin 是否真的把这 3 个 NFTiff 都送出去了？
+
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[详解Bedrock：Optimism推出的全新Rollup架构]]></title>
         <id>https://www.theblockbeats.info/news/31672</id>
