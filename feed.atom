@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-23T00:54:06.527Z</updated>
+    <updated>2022-08-23T06:22:36.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[详解Bedrock：Optimism推出的全新Rollup架构]]></title>
+        <id>https://www.theblockbeats.info/news/31672</id>
+        <link href="https://www.theblockbeats.info/news/31672"/>
+        <updated>2022-08-23T06:22:36.601Z</updated>
+        <summary type="html"><![CDATA[详解Bedrock：Optimism推出的全新Rollup架构]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手教你获取Alchemy Road to Web3第五周NFT]]></title>
+        <id>https://www.theblockbeats.info/news/31670</id>
+        <link href="https://www.theblockbeats.info/news/31670"/>
+        <updated>2022-08-23T03:34:20.000Z</updated>
+        <summary type="html"><![CDATA[手把手教你获取Alchemy Road to Web3第五周NFT]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT抽奖工具赛道观察：Premint挑战者涌现，「合并」趋势初显]]></title>
+        <id>https://www.theblockbeats.info/news/31669</id>
+        <link href="https://www.theblockbeats.info/news/31669"/>
+        <updated>2022-08-23T03:15:20.000Z</updated>
+        <summary type="html"><![CDATA[NFT抽奖工具赛道观察：Premint挑战者涌现，「合并」趋势初显]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO的社会政治史：从Cypherpunks到Web3]]></title>
+        <id>https://www.theblockbeats.info/news/31666</id>
+        <link href="https://www.theblockbeats.info/news/31666"/>
+        <updated>2022-08-23T02:15:20.000Z</updated>
+        <summary type="html"><![CDATA[DAO的社会政治史：从Cypherpunks到Web3]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[时隔6年，前以太坊CCO再谈The DAO事件真相]]></title>
         <id>https://www.theblockbeats.info/news/31665</id>

@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31672",
+          "author": null,
+          "description": "详解Bedrock：Optimism推出的全新Rollup架构",
+          "link": "https://www.theblockbeats.info/news/31672",
+          "publishedOn": "2022-08-23T06:22:36.601Z",
+          "wordCount": null,
+          "title": "详解Bedrock：Optimism推出的全新Rollup架构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31670",
+          "author": null,
+          "description": "手把手教你获取Alchemy Road to Web3第五周NFT",
+          "link": "https://www.theblockbeats.info/news/31670",
+          "publishedOn": "2022-08-23T03:34:20.000Z",
+          "wordCount": null,
+          "title": "手把手教你获取Alchemy Road to Web3第五周NFT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31669",
+          "author": null,
+          "description": "NFT抽奖工具赛道观察：Premint挑战者涌现，「合并」趋势初显",
+          "link": "https://www.theblockbeats.info/news/31669",
+          "publishedOn": "2022-08-23T03:15:20.000Z",
+          "wordCount": null,
+          "title": "NFT抽奖工具赛道观察：Premint挑战者涌现，「合并」趋势初显",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31666",
+          "author": null,
+          "description": "DAO的社会政治史：从Cypherpunks到Web3",
+          "link": "https://www.theblockbeats.info/news/31666",
+          "publishedOn": "2022-08-23T02:15:20.000Z",
+          "wordCount": null,
+          "title": "DAO的社会政治史：从Cypherpunks到Web3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31665",
           "author": null,
           "description": "原文标题：《\n\n\n\n憋屈了 6 年的前以太坊 CCO 讲述 The DAO 的真相：什么是真正的 DAO？\n\n\n》\n  原文作者：Stephan Tual  \n原文编译：老雅痞\n本文来自微信公众号：老雅痞\n\n\nDAO   是以太坊创建者 Vitalik    Buterin 发明的一个概念，并在该平台的开创性白皮书中进行了详细描述。因此，它是以太坊所要提供的一个重要部分。  \n\n\n\n\n\n正如 Vitalik 所指出的，DAO 可以采取多种形式，最简单的一种是「数字合作社」：可用的资金由「DAO」投资 于任何人从任何地方提交的提案，并鼓励全球范围内的创新，同时提供传统众筹的替代品。由于 DAO 是一个由代码组成的公司，其「合同「也是如此。为了防止滥用，一个「管理者」委员会负责验证提案代码，然后提交给 DAO 的成员进行投票。由于以太坊的核心宗旨是去中心化，管理者可以在任何时候被大多数 DAO 参与者解雇和替换。\n\n\n在区块链上独立运行不受干扰和「后门交易」的数字公司是一种思考方式，但是同样根据 Vitalik 的论文解释它可以用于更复杂的工作，例如实施流动性民主式的投票授权。可能有成千上万的 DAO，都有不同的投票机制、目的和限制。\n\n\n\n\n\n \n DAO 不是什么 \n\n\n\nDAO 不是 IC0，通常 IC0 的创建者「提前埋伏」并产生「人为稀缺」以「拉高Token价格出货」，而成员则被要求「hodl」，然而，我很遗憾，因为现在大多数人还在继续使用该术语，就像在单台计算机上运行的区块链根本不是区块链，或者托管在 Amazon S3 上的 NFT    绝不是去中心化的。并不是所有的众筹都是 DAO。\n\n\n为了更好地理解有关 DAO 框架的功能与潜在的其他框架的概念，我强烈建议阅读这篇文章，关于 DAO 如何引导自己，以及 Slock.it 是如何简单地提供一个框架的代码，使 …",
