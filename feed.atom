@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-23T12:16:45.163Z</updated>
+    <updated>2022-08-23T18:10:27.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[数据解析：NFT市场加速下跌，是否进入抄底时刻？]]></title>
+        <id>https://www.theblockbeats.info/news/31678</id>
+        <link href="https://www.theblockbeats.info/news/31678"/>
+        <updated>2022-08-23T14:01:45.000Z</updated>
+        <summary type="html"><![CDATA[数据解析：NFT市场加速下跌，是否进入抄底时刻？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墨西哥黑客松前 12 个入围新项目一览]]></title>
         <id>https://www.theblockbeats.info/news/31681</id>

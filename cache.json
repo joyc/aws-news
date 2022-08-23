@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31678",
+          "author": null,
+          "description": "数据解析：NFT市场加速下跌，是否进入抄底时刻？",
+          "link": "https://www.theblockbeats.info/news/31678",
+          "publishedOn": "2022-08-23T14:01:45.000Z",
+          "wordCount": null,
+          "title": "数据解析：NFT市场加速下跌，是否进入抄底时刻？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31681",
           "author": null,
           "description": "8 月 19 日至 21 日，ETHGlobal 于墨西哥举办了为期 3 天的 ETHMexico 黑客马拉松。有 12 项应用入围决赛，其中有 8 项应用构建在 Polygon 之上，且 Lens Protocol 也被频频应用其中。\n\n\n\n\n接下来律动 BlockBeats 将对这些新项目进行简单的介绍。\n\n\n\n\nDatamorpho\n\n\n \nDatamorpho 是一个使用密码学和 IPFS 的动态文件标准和协议，它允许任何文件随时间进行数据变形。\n\n\n \n项目需要 IPFS 协议提供的可靠性来信任任何存储的数据变形文件的真实性。任何类型的文件/NFT 都能够将其数据内容转换为「使用隐藏状态进行混淆和加密的不同内容」。这些文件在其输出中是动态的，但数据内容是相同的。\n\n\n\n\nKeyppi\n\n\n \nKeyppi 是一个私钥恢复平台。通过使用身份证明实施零知识证明、分散存储和身份验证来保护用户密钥。\n\n\n \n用户可使用该平台注册一组新的私钥，选择想使用的钱包类型，填写钱包地址、私钥和电子邮件/短信等。\n\n\n\n\n也可通过其检索以前注册的私钥，使用自己的 World ID 登录，触发通过电子邮件/短信验证其身份的证明，证明成功后，平台将接收到的 nullifier 发送到 zkApp 并解密与其关联的信息，用户即可检索私钥。\n\n\n\n最后，用户还能将其加密的私钥分享给朋友或家人，通过该平台安全地赠送钱包，新所有者收到后替换 World ID nullifier 也能使用检索功能。\n\n\n\n\nKiwik\n\n\n \nKiwik 是游戏玩家和元宇宙建设者的 NFT 市场，项目认为，在游戏和虚拟世界中目前缺乏质量和价格合理的 3D 资产，所以允许创作者和游戏开发者买卖 Token 化 3D 资产来创建更高质量和数量的游戏和虚拟世界。\n\n\n\n\n对于创作者来说，可在该平台上以 Polygon …",
