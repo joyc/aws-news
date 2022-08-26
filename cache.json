@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31699",
+          "author": null,
+          "description": "原文标题：《Move：Web3 的 Javascript》\n原文来源：Bixin Ventures\n\n\n\n\n前言：   \n  \n环顾 Twitter 帖子和加密出版物，Sui 和 Aptos 的名字总是出现。这些新的高吞吐量 L1 区块链是怎么回事？为什么它们会吸引 a16z、FTX、Multicoin 等公司的投资？我们发现这两个区块链都与 Diem 有着深厚的历史渊源，并且都使用一种新的编程语言——Move。\n\n\n\n\n在本文中，我们将深入探讨 Move 的特性，并简要介绍采用 Move 的 Sui、Aptos 等区块链，然后回顾 Solidity/EVM 的诞生，最后对比 Move 和 MoveVM 是否可以打造属于自己的充满活力的生态系统。\n\n\n\n\n\n\n\n\n\n简易目录：\n\n\n\n\n一、Move 的起源\n二、Move 的优势\n三、Move 的开发生态\n四、Solidity/EVM：它如何成为最具活力的开发者生态系统\n五、Move 语言的未来\n\n\n\n\n一、Move 的起源\n\n\n\n\nMove 是一种基于 Rust 的编程语言，它是为 Meta 的 Diem 区块链项目而开发的。该团队当时正在研究其他智能合约语言，但没有一种语言具有稀缺性、确定性和可验证性的特性，所以他们构建了 Move。\n\n\n\n\n现有的 Move github 源码库目前由 Mysten Labs 管理，Aptos 和 Sui 的团队组成了 Move 的核心开发团队。Move 语言的愿景就是成为 Web3 中的 Javascript，帮助开发人员安全、轻松、快速地构建区块链应用程序的框架。\n\n\n\n\n二、Move 的优势\n\n\n\n\nMove 与平台无关，支持跨区块链的共享库、工具和开发人员社区。Move 语言的设计强调安全性，旨在避免许多 Web3.0 用户受害的情形，包括但不限于重入漏洞（re-entrancy…",
+          "link": "https://www.theblockbeats.info/news/31699",
+          "publishedOn": "2022-08-26T04:16:04.000Z",
+          "wordCount": null,
+          "title": "详解Move：是否能成为Web3中的Javascript？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31695",
           "author": null,
           "description": "原文标题：《Solidity 极简入门: \n\n24. 在合约中创建新合约\n\n》\n原文作者：0xAA \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n在以太坊链上，用户（外部账户，EOA）可以创建智能合约，智能合约同样也可以创建新的智能合约。去中心化交易平台 uniswap 就是利用工厂合约（Factory）创建了无数个币对合约（Pair）。这一讲，我会用简化版的 uniswap 讲如何通过合约创建合约。\n\n\ncreate 和 create2\n\n\n有两种方法可以在合约中创建新合约，create 和 create2，这里我们讲 create，下一讲会介绍 create2。\n\n\ncreate 的用法很简单，就是 new 一个合约，并传入新合约构造函数所需的参数：\n\n\n\n\n\n其中 Contract 是要创建的合约名，x 是合约对象（地址），如果构造函数是 payable，可以创建时转入_value 数量的 ETH，params 是新合约构造函数的参数。\n\n\n极简 Uniswap\n\n\nUniswap V2核心合约中包含两个合约：\n\n\nUniswapV2Pair: 币对合约，用于管理币对地址、流动性、买卖。\nUniswapV2Factory: 工厂合约，用于创建新的币对，并管理币对地址。\n\n\n下面我们用 create 方法实现一个极简版的 Uniswap：Pair 币对合约负责管理币对地址，PairFactory 工厂合约用于创建新的币对，并管理币对地址。\n\n\n\n\n\nPair 合约很简单，包含 3 个状态变量：factory，token0 和 token1。\n\n\n构造函数 constructor 在部署时将 factory 赋值为工厂合约地址。initialize 函数会在 Pair 合约创建的时候被工厂合约调用一次，将 token0 和 token1 更新为币对中两种Token的地址。\n\n\n提问：为什么 uniswap 不在 constructor 中将 token0 和 token1 地址更新好？\n\n\nPairFactory  \n\n\n\n\n\n工厂合约（PairFactory）有两个状态变量 getPair 是两个\n\nToken\n\n地址到币对地址的 map，方便根据\n\nToken\n\n找到币对地址；allPairs 是币对地址的数组，存储了所有\n\nToken\n\n地址。\n\n\nPairFactory 合约只有一个 createPair 函数，根据输入的两个\n\nToken\n\n地址 tokenA 和 tokenB 来创建新的 Pair 合约。其中\n\n\n\n\n\n就是创建合约的代码，非常简单。大家可以部署好 PairFactory 合约，然后用下面两个地址作为参数调用 createPair，看看创建的币对地址是什么：  \n\n\n\n\n\n总结\n\n\n这一讲，我们用极简 Uniswap 的例子介绍了如何使用 create 方法再合约里创建合约，下一讲我们将介绍如何使用 create2 方法来实现极简 Uniswap。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-08-24T02:00:49.000Z",
           "wordCount": null,
           "title": "Solidity极简入门｜第二十二讲：Call",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31678",
-          "author": null,
-          "description": "数据解析：NFT市场加速下跌，是否进入抄底时刻？",
-          "link": "https://www.theblockbeats.info/news/31678",
-          "publishedOn": "2022-08-23T14:01:45.000Z",
-          "wordCount": null,
-          "title": "数据解析：NFT市场加速下跌，是否进入抄底时刻？",
           "imageUrl": null
         }
       ]
