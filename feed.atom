@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-27T12:16:41.425Z</updated>
+    <updated>2022-08-27T18:11:50.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -510,70 +510,6 @@ Token
         <link href="https://www.theblockbeats.info/news/31693"/>
         <updated>2022-08-25T08:43:47.000Z</updated>
         <summary type="html"><![CDATA[梳理Aave的原生稳定币GHO：让DeFi减少对USDC的依赖]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引起DAO效率低下的陷阱和待考虑因素]]></title>
-        <id>https://www.theblockbeats.info/news/31687</id>
-        <link href="https://www.theblockbeats.info/news/31687"/>
-        <updated>2022-08-25T02:02:57.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《 The Inefficiency Trap of DAOs
-
-》
-原文作者：Ouija
-原文编译：Dewei@DAOrayaki.org，
-
-DAOrayaki
-
-
-DAO 效率低下背景
-
-
-
-
-DAO 通过激励用户参与活动，以促进其商业目标；同时它使个人能够一起工作，最大限度地减少信任，并保持对审查和胁迫的抵抗。
-
-
-
-
-为了促进这一点，DAO 需要不同层次的复杂智能合约、组织结构和治理。因此，DAO 通常暴露在许多漏洞和低效的情况之下。Kelsie Nabben 在她的文章 "DAO 漏洞 "中描绘了许多此类 DAO 漏洞。一个面向计算机辅助治理的多规模 DAO 生态系统映射工具。
-
-
-
-
-去中心化的决策以及如何进行决策都会产生一些负面结果。例如，目前许多 DAO 的特点是多票制投票的形式。多数规则导致选民妥协于最低的共同标准，反过来可能会产生次优的结果。
-
-
-
-
-组织的结构也会影响决策过程；例如，MakerDAO 的 "扁平 "性质和缺乏等级制度可能会导致它缺乏一个共同的目标或目的。然而，通过简单地实施等级制度不一定能补救；许多不同的因素之间存在着细微的相互作用。在 MakerDAOs 最近的「加密治理第一原理」论坛帖子中可以看到关于这个话题的不同观点。
-
-
-
-
-为了更好地理解 DAO 的低效率，我们一起来看下其背后的局限：
-
-
-
-
-01 路径依赖性
-
-
-许多 DAO 受到分叉或复制现象的影响。他们分叉/复制结构和流程，而不是创造或迭代特定的设计来适应自己的独特需求。这不仅体现在治理方面，也体现在 tokenomic 设计和其他任何领域。目前 DAO Token 的共同点似乎是增加 DAO
-
-Token
-
-价值的意图。由于这个原因，任何一个 DAO 的表现都是通过价值优化来评估的，而不是在政府程序和其他领域。
-
-
-
-
-价值的优先排序会扰乱
-
-Token
-…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
