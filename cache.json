@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31707",
+          "author": null,
+          "description": "拿版税开刀，NFT交易市场要变天了",
+          "link": "https://www.theblockbeats.info/news/31707",
+          "publishedOn": "2022-08-28T03:23:05.000Z",
+          "wordCount": null,
+          "title": "拿版税开刀，NFT交易市场要变天了",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31706",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《14 个 zkSync 生态潜在空投项目一览》\n\n\n \nzkSync 生态最近有哪些值得关注的空投项目？本文撸空投策略打包放送。本期空投汇总的项目主要来自 DeFi、基础设施、跨链以及去中心化交易平台（DEX）等方面。\n\n\n \n《FTX 与 Binance 战争升级，从勾肩搭背到针锋相对》\n\n\n \nBinance 和 FTX 这两个曾经的合作伙伴于 2021 年 7 月 21 日正式宣布分道扬镳。Binance 创始人赵长鹏（CZ）当日表示，该公司最近放弃了在 FTX 的股权。CZ 将撤资解释为「正常投资周期」的一部分，并表示它以一个良好的条件完成。但显然 Binance 的投资周期并没有 CZ 说的这么「正常」。同一天，FTX 宣布以 180 亿美元估值完成 9 亿美元 B 轮融资，此后 FTX 便开启了「庆祝式」的疯狂融资，短短半年内估值近乎翻番，获得了红杉资本、BlackRock、Tiger Global、淡马锡、软银等顶级资本的支持。随后开启了 FTX 自己的超速发展和版图扩张。本文解读了关于他们关系由好变差的种种细节。\n\n\n\n\n《新公链 Canto 生态：用稳定币进行高年化流动性挖矿》\n\n\n \nCanto 最开始是 EVMOS 链的分叉，是一条基于 Cosmos SDK 打造的 EVM 兼容 Layer1 公链。Canto 声称自己是一条完全去中心化的区块链，无 Token 预售、无官方团队、无 VC 资本扶持。该项目由几位核心贡献者构建，包括 DeFi OG、Defipulse 和 Slingshot 联创 Scott …",
@@ -63,16 +73,6 @@
           "publishedOn": "2022-08-26T04:16:04.000Z",
           "wordCount": null,
           "title": "详解Move：是否能成为Web3中的Javascript？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31695",
-          "author": null,
-          "description": "原文标题：《Solidity 极简入门: \n\n24. 在合约中创建新合约\n\n》\n原文作者：0xAA \n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n在以太坊链上，用户（外部账户，EOA）可以创建智能合约，智能合约同样也可以创建新的智能合约。去中心化交易平台 uniswap 就是利用工厂合约（Factory）创建了无数个币对合约（Pair）。这一讲，我会用简化版的 uniswap 讲如何通过合约创建合约。\n\n\ncreate 和 create2\n\n\n有两种方法可以在合约中创建新合约，create 和 create2，这里我们讲 create，下一讲会介绍 create2。\n\n\ncreate 的用法很简单，就是 new 一个合约，并传入新合约构造函数所需的参数：\n\n\n\n\n\n其中 Contract 是要创建的合约名，x 是合约对象（地址），如果构造函数是 payable，可以创建时转入_value 数量的 ETH，params 是新合约构造函数的参数。\n\n\n极简 Uniswap\n\n\nUniswap V2核心合约中包含两个合约：\n\n\nUniswapV2Pair: 币对合约，用于管理币对地址、流动性、买卖。\nUniswapV2Factory: 工厂合约，用于创建新的币对，并管理币对地址。\n\n\n下面我们用 create 方法实现一个极简版的 Uniswap：Pair 币对合约负责管理币对地址，PairFactory 工厂合约用于创建新的币对，并管理币对地址。\n\n\n\n\n\nPair 合约很简单，包含 3 个状态变量：factory，token0 和 token1。\n\n\n构造函数 constructor 在部署时将 factory 赋值为工厂合约地址。initialize 函数会在 Pair 合约创建的时候被工厂合约调用一次，将 token0 和 token1 更新为币对中两种Token的地址。\n\n\n提问：为什么 uniswap 不在 constructor 中将 token0 和 token1 地址更新好？\n\n\nPairFactory  \n\n\n\n\n\n工厂合约（PairFactory）有两个状态变量 getPair 是两个\n\nToken\n\n地址到币对地址的 map，方便根据\n\nToken\n\n找到币对地址；allPairs 是币对地址的数组，存储了所有\n\nToken\n\n地址。\n\n\nPairFactory 合约只有一个 createPair 函数，根据输入的两个\n\nToken\n\n地址 tokenA 和 tokenB 来创建新的 Pair 合约。其中\n\n\n\n\n\n就是创建合约的代码，非常简单。大家可以部署好 PairFactory 合约，然后用下面两个地址作为参数调用 createPair，看看创建的币对地址是什么：  \n\n\n\n\n\n总结\n\n\n这一讲，我们用极简 Uniswap 的例子介绍了如何使用 create 方法再合约里创建合约，下一讲我们将介绍如何使用 create2 方法来实现极简 Uniswap。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31695",
-          "publishedOn": "2022-08-25T14:30:19.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门｜第二十四讲：在合约中创建新合约",
           "imageUrl": null
         }
       ]
