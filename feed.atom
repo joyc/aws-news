@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-28T12:14:00.253Z</updated>
+    <updated>2022-08-28T18:10:28.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -377,73 +377,6 @@ RWA 支持的 Stablecoin
 
 
 7 月 8 日，MakerDao社区投票通过了在 Maker 协议中添加 RWA-009（HVBank）保险库的提案，该保险库允许银行在其资产负债表上存入链下贷款作为抵押品后借入 DAI。…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Move：是否能成为Web3中的Javascript？]]></title>
-        <id>https://www.theblockbeats.info/news/31699</id>
-        <link href="https://www.theblockbeats.info/news/31699"/>
-        <updated>2022-08-26T04:16:04.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Move：Web3 的 Javascript》
-原文来源：Bixin Ventures
-
-
-
-
-前言：   
-  
-环顾 Twitter 帖子和加密出版物，Sui 和 Aptos 的名字总是出现。这些新的高吞吐量 L1 区块链是怎么回事？为什么它们会吸引 a16z、FTX、Multicoin 等公司的投资？我们发现这两个区块链都与 Diem 有着深厚的历史渊源，并且都使用一种新的编程语言——Move。
-
-
-
-
-在本文中，我们将深入探讨 Move 的特性，并简要介绍采用 Move 的 Sui、Aptos 等区块链，然后回顾 Solidity/EVM 的诞生，最后对比 Move 和 MoveVM 是否可以打造属于自己的充满活力的生态系统。
-
-
-
-
-
-
-
-
-
-简易目录：
-
-
-
-
-一、Move 的起源
-二、Move 的优势
-三、Move 的开发生态
-四、Solidity/EVM：它如何成为最具活力的开发者生态系统
-五、Move 语言的未来
-
-
-
-
-一、Move 的起源
-
-
-
-
-Move 是一种基于 Rust 的编程语言，它是为 Meta 的 Diem 区块链项目而开发的。该团队当时正在研究其他智能合约语言，但没有一种语言具有稀缺性、确定性和可验证性的特性，所以他们构建了 Move。
-
-
-
-
-现有的 Move github 源码库目前由 Mysten Labs 管理，Aptos 和 Sui 的团队组成了 Move 的核心开发团队。Move 语言的愿景就是成为 Web3 中的 Javascript，帮助开发人员安全、轻松、快速地构建区块链应用程序的框架。
-
-
-
-
-二、Move 的优势
-
-
-
-
-Move 与平台无关，支持跨区块链的共享库、工具和开发人员社区。Move 语言的设计强调安全性，旨在避免许多 Web3.0 用户受害的情形，包括但不限于重入漏洞（re-entrancy…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
