@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "Arthur Hayes：我对美国货币政策的预期",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31701",
-          "author": null,
-          "description": "原文作者：@DeFi_Made_Here\n原文编译：0x711、0x214，BlockBeats\n\n\n\n\n下半年以来，越来越多 DeFi 项目选择将现实资产引入其生态。Aave、MakerDAO 都在推进将现实资产作为抵押物发行 Stablecoin 的计划。8 月 25 日，TangibleDAO 宣布于 Polygon 网络发行由实体房地产支持的、锚定美元的 Stablecoin USDR。USDR 可以随时以 1：1 兑换 为 DAI，USDR 将通过超额抵押房地产来发行 Token，并将收益分配给持有者。\n\n\n\n\n现实资产之于 DeFi 究竟是新大陆，还是潘多拉魔盒，社区议论纷纷。DeFi 研究员 @DeFi_Made_Here 在其社交平台对 RWA 资产及 USDR 进行了详细解读，BlockBeats 对其整理翻译如下。\n\n\n首先，什么是 RWA？\n\n\nRWA 代表「现实世界资产」（Real World Assets），在我看来，这正是加密世界和 DeFi 所缺少的东西。因为很多加密货币项目正在解决的都是「并不存在的问题」。\n\n\n\n\n\n\n\n能将 RWA 整合到加密世界中的项目一直在缓慢增加，但总体上，这类项目的数量还是很少。而本文将着重讨论由 RWA 支持的 Stablecoin。\n\n\n\n\nRWA 支持的 Stablecoin\n\n\n7 月 7 日，Aave 社区发布征求意见ARC 提案，提议基于以太坊主网发行去中心化超额抵押 Stablecoin GHO，这件事立刻引起了我的注意。该提案中提到，未来，如果管理部门批准，可以用 RWA 外部服务商作为储备铸造 GHO。\n\n\n\n\n7 月 8 日，MakerDao社区投票通过了在 Maker 协议中添加 RWA-009（HVBank）保险库的提案，该保险库允许银行在其资产负债表上存入链下贷款作为抵押品后借入 DAI。…",
-          "link": "https://www.theblockbeats.info/news/31701",
-          "publishedOn": "2022-08-26T08:34:49.000Z",
-          "wordCount": null,
-          "title": "房产支持的Stablecoin，DeFi发现了新大陆？",
-          "imageUrl": null
         }
       ]
     },
