@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31718",
+          "author": null,
+          "description": "漫谈万维网的华丽史诗：Web3.0是技术金矿，还是郁金香泡沫？",
+          "link": "https://www.theblockbeats.info/news/31718",
+          "publishedOn": "2022-08-29T13:23:37.000Z",
+          "wordCount": null,
+          "title": "漫谈万维网的华丽史诗：Web3.0是技术金矿，还是郁金香泡沫？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31715",
           "author": null,
           "description": "原文来源：Leah Callon Butler，\n\nTZ APAC 兼 CoinDesk 观点专栏作家\n\n\n\n\n\n\nWeb3 游戏作为区块链应用，正在不断发展，改变电子游戏行业，并创造新玩家经济，让人们「边玩边赚」，真正拥有及利用游戏数字收藏品。\n\n\n游戏金融化意味着什么？开发者和玩家彼此如何创造价值?\n\n\nTZ APAC 采访了行业中坚人物 Emfarsis 的董事 Leah Callon Butler，Emfarsis 是一家咨询投资公司，致力于通过 Web3 创新改变社会。Leah 还是 Coindesk 观点专栏作家，创作并担任热门迷你纪录片《边玩边赚：菲律宾 NFT 游戏现状》的旁白。\n\n\n\n \n2022 年 6 月 10 日，Leah Callon Butler 在美国德克萨斯州奥斯汀会议中心 CoinDesk 举办的共识 2022 大会中主持会议。图片来源：Coinbase / Dylan Johnson \n\n\n亚洲价值数十亿美元的产业\n\n\n在亚太地区，游戏已经形成一个价值数十亿美元的产业，全球 30 亿玩家中有一半以上居住在此地区。\n\n\n最近亚洲手机游戏增长势头强劲，许多采用免费增值模式，游戏内购并不是什么新鲜事。但是，区块链通过提供玩家经济激励以推动游戏创新。\n\n\n区块链 Web3 游戏是一种新游戏盈利方式，不仅支持游戏内购，游戏内资产所有权支持验证，赋能玩家，这些资产可在二级市场上出售交易，玩家可赚取加密货币奖励，兑换成其他加密货币或法定货币。\n\n\n区块链专家顾问 Leah 认为，对于东南亚新兴国家的人们，Web3 游戏「边玩边赚」模式能够增加收入机会，与 Web2 创新发挥同样作用，比如兼职市场 Fiverr 和拼车快递应用 Grab。\n\n\nLeah 说:「Web3 将推进概念发展，确保人们为这些平台、社区和经济带来价值，投入时间、技能和宣传后，能得到…",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-08-27T06:23:33.000Z",
           "wordCount": null,
           "title": "一次签名导致50万美元被盗，我们应该注意什么",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31704",
-          "author": null,
-          "description": "原文标题：《a16z：熊市下的资金财政管理指南》\n  原文作者：  Jeff Amico & Maggie Hsu & Ed Lynch & Emily Westerhold，a16z\n原文编译：Katie 辜，Odaily 星球日报\n\n\n\n加密货币 市场动荡起伏。在过去的一年里，价格剧烈波动，直到最近才从活跃的「冬天」中反弹。\n\n\n Treasury（资金库、财政库）管理是项目方管理资源的方式，确保企业能够持续经营，和手头有足够的运营现金。这可能涉及支付工资和租金等短期支出，或进行收购和研发等长期战略投资。无论支出多少，Treasury 管理都是重点，并以实现项目的核心经营目标为重点。\n\n\nTreasury 管理是任何组织的核心职能，但鉴于目前市场状况的不确定性，握住手中的钱，下好每一步棋显得尤其重要。从 DAO    到传统的初创公司，团队都在面对高通胀、低收益率、公开和私募市场融资选择收紧的市场环境。根据这种「新常态」，团队应更加强调保守的 Treasury 管理原则，才能安全 度过寒冬，并在下一波浪潮来时变得更强大。\n\n\n在此，我们强烈推荐团队遵循的 Treasury 管理基本框架中的下面五点。\n\n\n\n1. 计算每月现金消耗\n\n\n第一步是建立一个现实的财务模型。即跟踪每月预计的资金流入和流出（例如「净燃烧」）。计算一个给定项目每个月预计花费，分析应该指明驱动收入和支出的组成部分。例如，支出方应该列出跨关键运营职能（工程、业务开发、法律等）的支出，以及任何预期的非运营流出（融资成本、税收、其他一次性付款等）。营收方面也应将流入资金分成运营类和非运营类。这将有助于确定它们随时间的相对可预测性。\n\n\n保守的假设将有助于确保项目不会因为高估而偏离跑道。在预测收益时尤其如此。在熊市期间，由于客户削减预算（或倒闭）收入可能会下降，或者增长可能会放缓。即使假定收入是稳定的或按照合…",
-          "link": "https://www.theblockbeats.info/news/31704",
-          "publishedOn": "2022-08-27T01:31:00.000Z",
-          "wordCount": null,
-          "title": "a16z：熊市下的资金财政管理指南",
           "imageUrl": null
         }
       ]
