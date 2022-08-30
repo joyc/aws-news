@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31726",
+          "author": null,
+          "description": "原文标题：《NFT 蓝筹清算危机，还有哪些盘活市场的新玩法？》\n原文作者：NFT 爱好者\n\n\n3 个多月时间，头部 NFT 借贷协议 BendDAO 经历了 10 万 ETH 的 TVL 高光时刻与极端行情带来的流动性危机。幸运的是，BendDAO 在被人调侃 NFT 流动性方案解决者自己也会被困到流动性枯竭的螺旋中，开始逐渐恢复元气。\n \n一、BendDAO 清算危机回顾\n \nBendDAO 是 NFT-Fi 平台中的头部协议，主要提供 NFT 抵押借贷，用户可以质押包括 BAYC 无聊猿等在内的七个 NFT 项目借出 ETH，贷款人可以存入 ETH 获取收益从而为平台提供流动性。\n \n从上周开始，随着 NFT 交易遇冷，BendDAO 上一众 NFT 地板价不断下跌，触发了清算，贷款人纷纷撤回资金。截至 8 月 23 日，BendDAO ETH 借贷池中 ETH 的余额便从 16000 多枚跌至最低仅剩 0.58 枚，几乎被提空。\n \n好在 BendDAO 官方也在第一时间采取措施，包括调整拍卖期限、利率基础、清算门槛以及继续围绕解决坏账展开会谈，再加上近两日 BAYC 等 NFT 地板价抬升，市场信心逐渐恢复，ETH 存款量最终回到了危机前的水平。\n \n二、那些流动性解决方案们\n \n是不是有种似曾相识的感觉，好像回到了 DeFi 发展初期。\n \n与 DeFi 一样，以 BendDAO 为典型代表的 NFTFi 也是围绕流动性问题的解决而生。一直以来，行业涌现多种方案来解决这个问题。比如交易和聚合器、场外交易、借贷、租赁、流动性池、流动性提供者、NFT 碎片化等。\n \n具体而言，场外交易（OTC）是指不经过第三方平台，交易双方直接进行交易，此举可减少抛压带来的大幅度价格波动；NFT 借贷是以 NFT 作为抵押品，通过超额抵押的方式获得加密资金贷款，盘活流动性，当前 NF…",
+          "link": "https://www.theblockbeats.info/news/31726",
+          "publishedOn": "2022-08-30T14:25:20.000Z",
+          "wordCount": null,
+          "title": "NFT蓝筹清算危机，还有哪些盘活市场的新玩法？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31719",
           "author": null,
           "description": "原文标题：《\n\nIOSG Weekly Brief ｜ Sudoswap 引领的 NFT-Fi Summer 来了？#139\n\n》\n原文来源： \n\nBryan，IOSG Ventures\n\n\n\n本文将讨论 NFT-FI 方向中围绕 NFT 抵押借贷以及衍生品的一些有意思的细分赛道/协议，以及目前的瓶颈和未来可能的发展。  \n\n\n  NFT AMM  \n\n\nNFT AMM 的应用场景主要是分为蓝筹 NFT 以及长尾 NFT。针对蓝筹 NFT，进入 AMM 前的一个步骤是先将其碎片化。\n\n\nNFTx  \n\n\nNFTx 是老牌的 NFT 碎片化协议，参考的主要还是老 defi 的那套玩法，也就是用 amm 的机制可以碎片化之后提供流动性挖矿，同时 Floor Dao 为碎片化的 NFT 提供了一定的流动性解决方案，允许用户将 erc-20 NFT 兑换成 floor token, 以高 apy 作为奖励，基本逻辑和 defi2.0 的 olympus dao 一致。确实是一种增加 erc 20 NFT 的 use case，但并不 sustainable。碎片化 NFT 会有利于价格发现，比如 NFT 二级市场上的地板价格与在 amm 中流通的 NFT 碎片的价格趋于一致。如碎片 NFT 如果交易价格低于二级交易市场比如 opensea，套利者可以从 amm 中购买一个完整的 NFT 碎片并从金库中赎回 NFT，再在二级交易市场卖出从而做到无风险套利。  \n\n\nSudoswap： \n\n\n因为本身交易的直接是整个 NFT，其定位更接近于 opensea, superRare 这样的二级市场。区别点在于其能够提供二级市场所不具备的即时流动性，通过 linear/exponential 的 bonding curve 设定 (未来会介绍更多的 curve 匹配不同的交易需求）确保 tr…",
@@ -73,16 +83,6 @@
           "publishedOn": "2022-08-28T06:55:45.000Z",
           "wordCount": null,
           "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31707",
-          "author": null,
-          "description": "拿版税开刀，NFT交易市场要变天了",
-          "link": "https://www.theblockbeats.info/news/31707",
-          "publishedOn": "2022-08-28T03:23:05.000Z",
-          "wordCount": null,
-          "title": "拿版税开刀，NFT交易市场要变天了",
           "imageUrl": null
         }
       ]

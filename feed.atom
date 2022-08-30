@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-08-30T12:18:48.312Z</updated>
+    <updated>2022-08-30T18:10:52.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT蓝筹清算危机，还有哪些盘活市场的新玩法？]]></title>
+        <id>https://www.theblockbeats.info/news/31726</id>
+        <link href="https://www.theblockbeats.info/news/31726"/>
+        <updated>2022-08-30T14:25:20.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《NFT 蓝筹清算危机，还有哪些盘活市场的新玩法？》
+原文作者：NFT 爱好者
+
+
+3 个多月时间，头部 NFT 借贷协议 BendDAO 经历了 10 万 ETH 的 TVL 高光时刻与极端行情带来的流动性危机。幸运的是，BendDAO 在被人调侃 NFT 流动性方案解决者自己也会被困到流动性枯竭的螺旋中，开始逐渐恢复元气。
+ 
+一、BendDAO 清算危机回顾
+ 
+BendDAO 是 NFT-Fi 平台中的头部协议，主要提供 NFT 抵押借贷，用户可以质押包括 BAYC 无聊猿等在内的七个 NFT 项目借出 ETH，贷款人可以存入 ETH 获取收益从而为平台提供流动性。
+ 
+从上周开始，随着 NFT 交易遇冷，BendDAO 上一众 NFT 地板价不断下跌，触发了清算，贷款人纷纷撤回资金。截至 8 月 23 日，BendDAO ETH 借贷池中 ETH 的余额便从 16000 多枚跌至最低仅剩 0.58 枚，几乎被提空。
+ 
+好在 BendDAO 官方也在第一时间采取措施，包括调整拍卖期限、利率基础、清算门槛以及继续围绕解决坏账展开会谈，再加上近两日 BAYC 等 NFT 地板价抬升，市场信心逐渐恢复，ETH 存款量最终回到了危机前的水平。
+ 
+二、那些流动性解决方案们
+ 
+是不是有种似曾相识的感觉，好像回到了 DeFi 发展初期。
+ 
+与 DeFi 一样，以 BendDAO 为典型代表的 NFTFi 也是围绕流动性问题的解决而生。一直以来，行业涌现多种方案来解决这个问题。比如交易和聚合器、场外交易、借贷、租赁、流动性池、流动性提供者、NFT 碎片化等。
+ 
+具体而言，场外交易（OTC）是指不经过第三方平台，交易双方直接进行交易，此举可减少抛压带来的大幅度价格波动；NFT 借贷是以 NFT 作为抵押品，通过超额抵押的方式获得加密资金贷款，盘活流动性，当前 NF…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sudoswap引领的NFT-Fi Summer来了？]]></title>
         <id>https://www.theblockbeats.info/news/31719</id>
@@ -267,16 +297,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
 
 
 不过，尽管 Web3 具有可组合性，且应用程序可使用从各种协议生成的不同数据模型，但现实情况是，各种协议根据自己的业务逻辑和操作需要定义自己的数据和业务指标。对于一个应用来说，只是抓取和使用其他协议创建的任何数据模型和算法则是不现实的。此外，数据和信息的去中心化以及用户对数据和内容的所有权是一个伟大的叙事，但去中心化…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拿版税开刀，NFT交易市场要变天了]]></title>
-        <id>https://www.theblockbeats.info/news/31707</id>
-        <link href="https://www.theblockbeats.info/news/31707"/>
-        <updated>2022-08-28T03:23:05.000Z</updated>
-        <summary type="html"><![CDATA[拿版税开刀，NFT交易市场要变天了]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
