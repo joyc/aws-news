@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31734",
+          "author": null,
+          "description": "原文标题：《After analyzing 60+ games and services, we found Web3 game has 40% bots》\n原文作者：Levan\n原文编译：深潮 TechFlow\n\n\n\n\n在分析了 60 多个游戏和服务器后，我们共发现了 20 万个机器人。平均而言，每个 Web3 游戏的总玩家数有 40% 都是机器人。\n\n\n\n\n\n我们通过是否连接属于同一个人的钱包来检测机器人和多账户。\n\n\n我们将 Token 持有者的名单放在一个图上，并使用我们的算法将钱包连接起来。其结果的呈现更像是一个培养皿！看到彩色的集群了吗？这些是在 Era7 中的机器人。\n\n\n\n\n\n这是 Tiny World 的图表，它在 BNB CHAIN 上排名前三，MAU 为 35000，但 70% 仍然是机器人。\n\n\n\n\n\n机器人不仅只存在于游戏中！所有有利润的服务器都充斥着机器人。这是 MOBOX 的数据图表：\n\n\n· 在 Binance 上排名第二的 Gamefi 平台\n\n\n· MAU 为 39000\n\n\n· 其中 55% 的机器人\n\n\n\n\n\n\n\n\n机器人无处不在！这是 Biswap 的 Token 图。他们有一个推荐计划，让人们互相推荐来获得奖励，然后怎么样？然后这吸引了 13000 个机器人。有趣的是，我们是通过随机分析发现这个 Token 的，然后才意识到为什么机器人会这么多。\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31734",
+          "publishedOn": "2022-08-31T09:34:04.000Z",
+          "wordCount": null,
+          "title": "分析了60款链游，发现40%的玩家都是机器人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31730",
+          "author": null,
+          "description": "原文标题：《百亿项目 Alchemy Road to Web3 第九周 NFT 获取教程》\n原文作者：Greta\n\n\n\n\nAlchemy 是什么项目？\n\n\n2019 年 12 月，Alchemy 完成 1500 万美元 A 轮融资，资方为 Pantera Capital，斯坦福大学，Coinbase，三星等。\n\n\n2021 年 4 月，Alchemy 以 5.05 亿美元估值完成 8000 万美元 B 轮融资，Coatue 和 Addition 领投，DFJ Growth、K5 Global、Chainsmokers（烟鬼组合）、演员 Jared Leto 和 Glazer 家族参投。\n\n\n2021 年 10 月，Alchemy 以 35 亿美元估值完成 2.5 亿美元 C 轮融资，由 a16z 领投的。\n\n\n2022 年 2 月，Alchemy 以 102 亿美元估值完成 2 亿美元融资，Lightspeed 与 Silver Lake 领投。\n\n\nAlchemy 是一个背景强大、经费充足、踏实做事、没有发币的团队，这样的项目不刷，难道去刷土狗吗？\n\n\n并且，Alchemy 计划将新资金用于推广 Web3 采用，这方面的一些举措包括推出 Web3 University，就是现在的 Road to Web3 活动，活动为期 10 周，每周一个 NFT。看了下 nft 数量极少，估计由于任务难度大，很多小伙伴直接放弃，这样的项目若是空投，绝对是大毛。\n\n\n\n\n手把手第九周教程开始：如何使用 0x API 构建代币交换 Dapp\n\n\n\n\n\nstep1 拷贝官方代码\n\n\n1. 在控制台输入如下代码\n\n\n\ngit clone https://github.com/0xProject/swap-demo-tutorial.git\n\n\n\n\n\n2. 用 vscode 打开 clone 的…",
+          "link": "https://www.theblockbeats.info/news/31730",
+          "publishedOn": "2022-08-31T06:14:04.000Z",
+          "wordCount": null,
+          "title": "手把手教你获取Alchemy Road to Web3第九周NFT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31729",
           "author": null,
           "description": "来源：PROOF(YouTube/Docs)\n\n\nPROOF 母公司于北京时间 8 月 31 日凌晨 1 点召开了名为「Future PROOF\n\n」\n\n的会议，在会议中公告了关于 PROOF 生态内 Moonbirds、Oddities 等项目的后续发展，融资和 Token 发行等信息。律动 BlockBeats 对此次会议的内容进行了梳理。\n\n\n\n\nMoonbirds 的相关更新\n\n\n\n\n目前 Moonbirds 在 OpenSea 地板价为 15.5E，总量 10k，持有地址数 6.6k\n\n\n\n\n\nProof Collective 的持有者将可以为其 Moonbirds 切换背景\n\n\n\n\nMoonbirds 将会完全上链。类似于 OnChainMonkey，Moonbirds 的每个属性将会被写入智能合约中，而不是像原来一样存放在 IPFS 中。\n\n\nProof Collective 的持有者将可以为其 Moonbirds 切换背景，只需要保证 Proof Collective 和 Moonbirds 在同一个钱包内。\n\n\n从 PROOF 内部组建一支业务开发团队专注于 Moonbirds 品牌发展，同时将会引导 Moonbirds DAO 的建设。\n\n\nMoonbirds DAO 即将启动。Moonbirds DAO 将决定哪些项目可以被授权使用商标，并允许 DAO 将资金用于相关投资，DAO 的国库将由 PROOF 提供资金，并通过 Moonbirds 的二级市场版税提供持续资金支持。\n\n\n\n\nMoonbirds Mythics（Moonbirds 第二季）\n\n\n\n\n目前 Moonbirds Oddities 在 OpenSea 地板价为 1.5E，总量 10k，持有地址数 6.1k\n\n\n\n\n\nMythics 的设计稿之一\n\n\n\n\n推出了新的系列 Moonbird…",
