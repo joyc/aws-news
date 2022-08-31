@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31731",
+          "author": null,
+          "description": "zkSync 2.0更新：动态费用里程碑完成",
+          "link": "https://www.theblockbeats.info/news/31731",
+          "publishedOn": "2022-08-31T14:38:29.000Z",
+          "wordCount": null,
+          "title": "zkSync 2.0更新：动态费用里程碑完成",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31734",
           "author": null,
           "description": "原文标题：《After analyzing 60+ games and services, we found Web3 game has 40% bots》\n原文作者：Levan\n原文编译：深潮 TechFlow\n\n\n\n\n在分析了 60 多个游戏和服务器后，我们共发现了 20 万个机器人。平均而言，每个 Web3 游戏的总玩家数有 40% 都是机器人。\n\n\n\n\n\n我们通过是否连接属于同一个人的钱包来检测机器人和多账户。\n\n\n我们将 Token 持有者的名单放在一个图上，并使用我们的算法将钱包连接起来。其结果的呈现更像是一个培养皿！看到彩色的集群了吗？这些是在 Era7 中的机器人。\n\n\n\n\n\n这是 Tiny World 的图表，它在 BNB CHAIN 上排名前三，MAU 为 35000，但 70% 仍然是机器人。\n\n\n\n\n\n机器人不仅只存在于游戏中！所有有利润的服务器都充斥着机器人。这是 MOBOX 的数据图表：\n\n\n· 在 Binance 上排名第二的 Gamefi 平台\n\n\n· MAU 为 39000\n\n\n· 其中 55% 的机器人\n\n\n\n\n\n\n\n\n机器人无处不在！这是 Biswap 的 Token 图。他们有一个推荐计划，让人们互相推荐来获得奖励，然后怎么样？然后这吸引了 13000 个机器人。有趣的是，我们是通过随机分析发现这个 Token 的，然后才意识到为什么机器人会这么多。\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-08-29T08:10:07.000Z",
           "wordCount": null,
           "title": "为什么版税改革标志着NFT行业的下一轮发展？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31709",
-          "author": null,
-          "description": "原文标题：《大理 Web3 回顾、DWeb 和 Web3 的关系、Web3 新赛道关注——Biteye 周年庆 Web3 周 AMA 文字实录》\n原文编译：小么鸡、Jesse、Crush\n\n\n欢迎大家来到 Biteye 新一周的 Space，本周我们 Space 的主题是「Web3 的现在和未来」，我们邀请到了众多项目的创始人来参加我们的 AMA。\n\n\n \n\n*全文约 8000 字，预计阅读时间为 15 分钟\n\n\n \n主持人：\n\nTeddy, Biteye Co-Founder\nThomas, BlockBeats 执行主编\n\n\n \n嘉宾：\n\nJackson，0xScope Founder\nMike, GoPlus Founder\nSharqwy, 瓦猫之夏筹备组\nUsagi，RSS3 Co-Founder\nWilson, Cyberconnect CEO\nYisi Liu, Mask Network CTO\n \n*名称按字母排序，无先后之分\n\n\n \n1. Web3 究竟解决了什么问题？（Teddy 提问）\n\n\n \nWilson：本质上从区块链视角来看，第一个解决的问题是底层 Ownership 的问题，用户在互联网上面能通过区块链的技术拥有一样资产。虽然只是虚拟资产，但它的重要性不亚于实体资产，因为现实世界很多东西也是虚拟的，同时也拥有知识产权。\n\n\n \n第二点则是方便人和人之间进行协作，然后还有机构跟机构之间进行更加简单的互信，还有各种各样的合作。本质上来说，Web3 解决了这两个问题。\n\n\n \n第三点就是未来的社交可能是以用户为中心去展开社交，从用户的账户体系开始，用户就有所有权，然后用户到各个地方去做应用，在应用和网站里面这个权利应该属于用户自己，而不是说软件开发商，Web2 跟 Web3 一个很大的区别就是，数据会归还到用户手里，所以数据的共通性就会很重要。\n\n\n…",
-          "link": "https://www.theblockbeats.info/news/31709",
-          "publishedOn": "2022-08-29T03:08:38.000Z",
-          "wordCount": null,
-          "title": "大理回顾，Web3有什么新赛道关注 | AMA文字实录",
           "imageUrl": null
         }
       ]
