@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-01T12:15:08.374Z</updated>
+    <updated>2022-09-01T18:11:38.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[熊市中从Free mint到新晋蓝筹，最近大火的DigiDaigaku究竟什么来头？]]></title>
+        <id>https://www.theblockbeats.info/news/31746</id>
+        <link href="https://www.theblockbeats.info/news/31746"/>
+        <updated>2022-09-01T13:58:34.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《熊市中从 Free mint 到新晋蓝筹！最近大火的 DigiDaigaku 究竟什么来头？》
+原文作者：0xDy 
+
+
+自六月以来 NFT 就渐渐步入了寒冬熊市，NFT 蓝筹价格和 OpenSea 交易量都经历了大幅下跌。可是最近，一个叫 Digi Daigaku 的项目点燃了 NFT 圈。从 Free Mint 到现在 15.4ETH 地板价（笔者撰稿时），大家都对这个陌生而又独特的项目感到惊讶，同时又充满了好奇。一个 Free mint 的 NFT 是如何从熊市中在 OpenSea 交易量中一骑绝尘，甚至地板价已远超过 Azuki，Doodle 等蓝筹项目，今天就跟大家好好扒一扒这个项目。
+
+
+
+
+
+
+图 1 8 月 30 日 OpenSea 的日交易量榜
+
+
+
+一、项目背景
+
+
+首先，在 Digi Daigaku 的OpenSea 页面中有这样一段介绍：」DigiDaigaku is a collection of 2022 unique characters developed by Limit Break, a company founded by world-famous game designers Gabriel Leydon and Halbert Nakagawa.」交代了其发行的公司为 Limit Break，而公司的两位创始人则是非常著名的游戏设计 Gabriel Leydon 和 Halbert Nakagawa。
+
+
+
+
+
+
+图 2 Digi Daigaku 的 OpenSea 页面
+
+
+
+说说两位创始人，Gabriel Leydon（CEO）和Halbert Nakagawa（CTO）在成立 Limit Break 之前就于 2008 年共同创立了著名手机游戏公司 Machine Zone，并发行了多款知名手游，比如《战争游戏：火…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球监管新政策下，加密企业如何满足合规要求？]]></title>
         <id>https://www.theblockbeats.info/news/31732</id>
@@ -633,45 +672,6 @@ BendDAO 是 NFT-Fi 平台中的头部协议，主要提供 NFT 抵押借贷，�
 与 DeFi 一样，以 BendDAO 为典型代表的 NFTFi 也是围绕流动性问题的解决而生。一直以来，行业涌现多种方案来解决这个问题。比如交易和聚合器、场外交易、借贷、租赁、流动性池、流动性提供者、NFT 碎片化等。
  
 具体而言，场外交易（OTC）是指不经过第三方平台，交易双方直接进行交易，此举可减少抛压带来的大幅度价格波动；NFT 借贷是以 NFT 作为抵押品，通过超额抵押的方式获得加密资金贷款，盘活流动性，当前 NF…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sudoswap引领的NFT-Fi Summer来了？]]></title>
-        <id>https://www.theblockbeats.info/news/31719</id>
-        <link href="https://www.theblockbeats.info/news/31719"/>
-        <updated>2022-08-30T03:45:45.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-IOSG Weekly Brief ｜ Sudoswap 引领的 NFT-Fi Summer 来了？#139
-
-》
-原文来源： 
-
-Bryan，IOSG Ventures
-
-
-
-本文将讨论 NFT-FI 方向中围绕 NFT 抵押借贷以及衍生品的一些有意思的细分赛道/协议，以及目前的瓶颈和未来可能的发展。  
-
-
-  NFT AMM  
-
-
-NFT AMM 的应用场景主要是分为蓝筹 NFT 以及长尾 NFT。针对蓝筹 NFT，进入 AMM 前的一个步骤是先将其碎片化。
-
-
-NFTx  
-
-
-NFTx 是老牌的 NFT 碎片化协议，参考的主要还是老 defi 的那套玩法，也就是用 amm 的机制可以碎片化之后提供流动性挖矿，同时 Floor Dao 为碎片化的 NFT 提供了一定的流动性解决方案，允许用户将 erc-20 NFT 兑换成 floor token, 以高 apy 作为奖励，基本逻辑和 defi2.0 的 olympus dao 一致。确实是一种增加 erc 20 NFT 的 use case，但并不 sustainable。碎片化 NFT 会有利于价格发现，比如 NFT 二级市场上的地板价格与在 amm 中流通的 NFT 碎片的价格趋于一致。如碎片 NFT 如果交易价格低于二级交易市场比如 opensea，套利者可以从 amm 中购买一个完整的 NFT 碎片并从金库中赎回 NFT，再在二级交易市场卖出从而做到无风险套利。  
-
-
-Sudoswap： 
-
-
-因为本身交易的直接是整个 NFT，其定位更接近于 opensea, superRare 这样的二级市场。区别点在于其能够提供二级市场所不具备的即时流动性，通过 linear/exponential 的 bonding curve 设定 (未来会介绍更多的 curve 匹配不同的交易需求）确保 tr…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
