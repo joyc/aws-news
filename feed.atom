@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-02T12:15:57.935Z</updated>
+    <updated>2022-09-02T18:11:56.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MEV订单流：区块建设者中的王者]]></title>
+        <id>https://www.theblockbeats.info/news/31762</id>
+        <link href="https://www.theblockbeats.info/news/31762"/>
+        <updated>2022-09-02T14:51:08.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《MEV 订单流：区块建设者中的王者》
+原文作者：noxx
+原文编译：Block unicorn
+
+
+
+
+
+
+
+合并之后，区块建设者的皇室战役。距离合并仅有 2 周多时间，它将永远改变以太坊 MEV 的格局。
+
+
+
+
+区块建设者，一个在合并后的世界新实体，即将进入一个残酷的皇家战斗游戏。
+
+
+
+
+而他们选择的武器是——订单流。
+
+
+
+
+在这篇文章中，我们将讨论建设者如何将他们的订单流作为武器，它对以太坊链带来的风险，并窥视摆在我们面前的潜在未来。
+
+
+
+游戏状态：合并前
+
+
+
+在我们看一下合并后事情会如何发展之前，我们最好先了解一下目前的情况。
+
+
+
+
+下面的图片显示了一个用户的 Uniswap 交易，它强调了交易从用户到矿工的过程中所涉及的角色，并显示了交易进入链上的一些路径。
+
+
+
+
+
+
+
+
+
+
+
+1. 一个用户有一些 "意图"，在这个例子中，意图是在 Uniswap 上交易一些Token。
+
+
+
+
+2. 用户导航到他想使用的应用程序，并使用他的钱包提供商进行连接，在这个例子中，我们假设他使用 Metamask。
+
+
+3. 用户指定了他想做的交易 10 ETH 买入 20,000 DAI。应用程序构建了一些调用数据供他签名（0x5ae4...000），从而创建一个代表他的交易的交易，这个已签署的数据将被发送到下一节的 RPC 端点。
+
+
+
+4. 我们假设用户没有改变 Metamask 上的任何默认设置，特别是以太坊网络的 RPC 端点。
+
+
+如果是这样的话，RPC 端点将被设置为 https://mainnet.infura.io/v3/。这意味着交易将被发送到 Infura。
+
+
+
+Block unicorn 注释：
+Infura：通俗一点讲，Infura 就是一个可以让你的 DApp 快速接入以太坊的平台，不需要本地运行以太坊节点。
+RPC：远程过程调用，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[灵魂绑定代币的现状与未来]]></title>
         <id>https://www.theblockbeats.info/news/31774</id>
@@ -673,185 +754,6 @@ git clone https://github.com/0xProject/swap-demo-tutorial.git
 
 
 2. 用 vscode 打开 clone 的…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓝筹Moonbirds最新计划：第二季新项目与Token发行]]></title>
-        <id>https://www.theblockbeats.info/news/31729</id>
-        <link href="https://www.theblockbeats.info/news/31729"/>
-        <updated>2022-08-31T05:25:41.000Z</updated>
-        <summary type="html"><![CDATA[来源：PROOF(YouTube/Docs)
-
-
-PROOF 母公司于北京时间 8 月 31 日凌晨 1 点召开了名为「Future PROOF
-
-」
-
-的会议，在会议中公告了关于 PROOF 生态内 Moonbirds、Oddities 等项目的后续发展，融资和 Token 发行等信息。律动 BlockBeats 对此次会议的内容进行了梳理。
-
-
-
-
-Moonbirds 的相关更新
-
-
-
-
-目前 Moonbirds 在 OpenSea 地板价为 15.5E，总量 10k，持有地址数 6.6k
-
-
-
-
-
-Proof Collective 的持有者将可以为其 Moonbirds 切换背景
-
-
-
-
-Moonbirds 将会完全上链。类似于 OnChainMonkey，Moonbirds 的每个属性将会被写入智能合约中，而不是像原来一样存放在 IPFS 中。
-
-
-Proof Collective 的持有者将可以为其 Moonbirds 切换背景，只需要保证 Proof Collective 和 Moonbirds 在同一个钱包内。
-
-
-从 PROOF 内部组建一支业务开发团队专注于 Moonbirds 品牌发展，同时将会引导 Moonbirds DAO 的建设。
-
-
-Moonbirds DAO 即将启动。Moonbirds DAO 将决定哪些项目可以被授权使用商标，并允许 DAO 将资金用于相关投资，DAO 的国库将由 PROOF 提供资金，并通过 Moonbirds 的二级市场版税提供持续资金支持。
-
-
-
-
-Moonbirds Mythics（Moonbirds 第二季）
-
-
-
-
-目前 Moonbirds Oddities 在 OpenSea 地板价为 1.5E，总量 10k，持有地址数 6.1k
-
-
-
-
-
-Mythics 的设计稿之一
-
-
-
-
-推出了新的系列 Moonbird…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[号称前美国第一大手游公司，做出了超高融资又生造新词的Free mint金狗]]></title>
-        <id>https://www.theblockbeats.info/news/31728</id>
-        <link href="https://www.theblockbeats.info/news/31728"/>
-        <updated>2022-08-31T05:01:41.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Crescent
-责任编辑：0x29
-
-
-
-
-今日 DigiDaigaku 的暴涨引起了广泛关注，OpenSea 当前显示其 24 小时内涨幅已达到 403.23 %。从 Free Mint 到地板超 14 ETH，再加上其「Free To Own」概念的提出带来了更多地讨论，CZ 也随之下场表达观点。
-
-
- 
-DigiDaigaku 的母公司名为 Limit Break，是一家游戏开发公司。曾在去年获得了 2 亿美元的融资，这在当时并不多见，那么它到底有何过人之处？让我们来一起了解。
-
-
- 
-
- 
-
-
-项目背景
-
-
- 
-Limit Break 是通过两轮的风险投资筹集到的 2 亿美元，其中由移动游戏公司 Mino Games 的主席 Josh Buckley 以及投资公司 Paradigm 和 Standard Crypto 领投，FTX、Coinbase、Positive Sum、Shervinator 和 Anthos Capital 等参投。据 Limit Break 表示，这批新资金将用于构建 Web3 大型多人在线 (MMO) 游戏。
-
-
- 
-Linkedin 上显示，该公司创立于 2021 年，总部位于美国犹他州 Park City。据报道公司目前已发展到 50 人规模，其中约 80% 是前 Machine Zone（Web2 知名手机游戏公司）员工。
-
-
- 
-说起 Machine Zone（MZ），它可是曾经号称「美国第一大手游」的公司。开发过多款较为火爆游戏，想必大家对《战争游戏：火力时代》（Game of War：Fire Age 于 2012 年推出）与《雷霆天下》（Mobile Strike）都有所耳闻，凭借这两款游戏成就了 MZ，摇身一变成为当时美国收入最高的手机游戏厂商。MZ 在营销方面投入了巨大的费用，先后请过当红女星 Kate Up…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何领取V神首个新书SBT（灵魂绑定）？]]></title>
-        <id>https://www.theblockbeats.info/news/31727</id>
-        <link href="https://www.theblockbeats.info/news/31727"/>
-        <updated>2022-08-31T05:01:41.000Z</updated>
-        <summary type="html"><![CDATA[本文作者：0x711，BlockBeats
-
-
-
-8 月 31 日，V 神在其社交平台表示，其近十年所有文字内容组成的文集《Proof of Stake》数字版和实物版将出版。读者现可在 Gitcoin 为其捐赠并获得数字副本和纪念 NFT，全部收益将用于公益事业。
-
-
-
-
-那么如何在为区块链公用事业献爱心的同时领取纪念 NFT 呢？BlockBeats 整理流程如下：
-
-
-1. 点击 V 神推文下方的链接，进入捐赠页面，右上角登录钱包：
-
-
-
-
-
-2. 点击页面中的「Get Started」，页面弹窗告诉你，你在做一件很 Cool 的事情：
-
-
-「V 神新书将于 9 月 27 日出版。Gitcoin 正通过一个真正独特的 NFT 为公共物品筹集资金，Vitalik 直接在上面电子签名。图书发行后，此 Token 将插入您的数字副本中！酷吧？」
-
-
-
-
-
-3. 点击 Next，在弹窗选择你要做的：
-
-
-
-
-
-a) 捐赠并铸造 NFT；
-
-
-b) 预定新书的实物版；
-
-
-c) 查看捐赠榜单；
-
-
-d) 查看 V 神签名。
-
-
-4. 选择第一个选项，点击「Open」。然后页面会跳转至捐赠页面，默认捐赠 0.1337ETH。可调整你想捐赠的 ETH 数额。页面信息显示，可捐赠「任意」数额的 ETH，目前暂未发现有捐赠下限限制，但捐赠数额会在 NFT 上显示。
-
-
-
-
-
-5. 设置好捐赠数额后，点击 Mint 即可。在钱包上确认支付，稍等数秒，带有 V 神签名 NFT 便生成了，页面信息显示，此 NFT 正是 V 神此前大力推崇的不可转让 Token，即 Soulbound Token。
-
-
-
-
-
-
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
