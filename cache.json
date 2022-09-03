@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31772",
+          "author": null,
+          "description": "原文标题：《Bankless 丨 Arbitrum 完成 Nitro 升级之际，看看上面有哪些机会》\n原文作者：Ben Giove ，Bankless 分析师\n原文编译：DeFi 之道\n\n\n如何获得 Arbitrum 生态敞口\n\n\n\n\nArbitrum season 即将到来。\n\n\n\n\n在成功完成 Nitro 之后（这个备受期待的网络升级提高了交易吞吐量并降低了费用），Arbitrum 有望在流动性、用户和活动方面进一步增长。\n\n\n\n\n\n\n\n\n\n\n\n此外，还有几个催化剂，准备从增强的交易能力中受益，并帮助推动这一趋势。首先是 Arbitrrum Odyssey，一个旨在鼓励使用 L2 上的应用程序的活动。Odyssey 应该能把用户和注意力都带回网络上。\n\n\n\n\n第二个催化剂是 Arbitrum 通证的最终推出。\n\n\n\n\n\n\n\n\n\n到目前为止，Arbitrum 的生态系统一直是有机地引导的。尽管没有全网激励措施，Arbitrum 仍然是 TVL 最大的 L2，超过 25.8 亿美元。而推出通证将把这个数字推得更高，因为它可能被用来激励流动性和鼓励更多热门的、基于 L1 的应用程序的迁移。\n\n\n\n\n虽然这些催化剂已经导致该网络成为热门话题，但该网络的采用仍处于早期阶段 -- 根据 Nansen 的说法，只有 0.45% 的以太坊地址使用 Arbitrum。\n\n\n\n\n那么，要如何接触这个生态系统呢？\n\n\n\n\n以下。\n\n\n1. 纯粹游戏：Arbitrum 原生项目\n\n\n\n\n接触 Arbitrum 生态系统的最直接方式是投资于原生项目。\n\n\n\n\n这些早期采用者将成为流入 Arbitrum 的主要受益者，因为它可能会促进 TVL、收入、用户和其他核心 KPI 的增长。\n\n\n\n\n有许多基于 Arbitrum 的项目跨越不同的领域，投资者可以从中选择，以适应他们的投资组合构成和风险状况。…",
+          "link": "https://www.theblockbeats.info/news/31772",
+          "publishedOn": "2022-09-03T02:00:40.000Z",
+          "wordCount": null,
+          "title": "Bankless：Arbitrum Season即将到来，上面有哪些机会？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31762",
           "author": null,
           "description": "原文标题：《MEV 订单流：区块建设者中的王者》\n原文作者：noxx\n原文编译：Block unicorn\n\n\n\n\n\n\n\n合并之后，区块建设者的皇室战役。距离合并仅有 2 周多时间，它将永远改变以太坊 MEV 的格局。\n\n\n\n\n区块建设者，一个在合并后的世界新实体，即将进入一个残酷的皇家战斗游戏。\n\n\n\n\n而他们选择的武器是——订单流。\n\n\n\n\n在这篇文章中，我们将讨论建设者如何将他们的订单流作为武器，它对以太坊链带来的风险，并窥视摆在我们面前的潜在未来。\n\n\n\n游戏状态：合并前\n\n\n\n在我们看一下合并后事情会如何发展之前，我们最好先了解一下目前的情况。\n\n\n\n\n下面的图片显示了一个用户的 Uniswap 交易，它强调了交易从用户到矿工的过程中所涉及的角色，并显示了交易进入链上的一些路径。\n\n\n\n\n\n\n\n\n\n\n\n1. 一个用户有一些 \"意图\"，在这个例子中，意图是在 Uniswap 上交易一些Token。\n\n\n\n\n2. 用户导航到他想使用的应用程序，并使用他的钱包提供商进行连接，在这个例子中，我们假设他使用 Metamask。\n\n\n3. 用户指定了他想做的交易 10 ETH 买入 20,000 DAI。应用程序构建了一些调用数据供他签名（0x5ae4...000），从而创建一个代表他的交易的交易，这个已签署的数据将被发送到下一节的 RPC 端点。\n\n\n\n4. 我们假设用户没有改变 Metamask 上的任何默认设置，特别是以太坊网络的 RPC 端点。\n\n\n如果是这样的话，RPC 端点将被设置为 https://mainnet.infura.io/v3/。这意味着交易将被发送到 Infura。\n\n\n\nBlock unicorn 注释：\nInfura：通俗一点讲，Infura 就是一个可以让你的 DApp 快速接入以太坊的平台，不需要本地运行以太坊节点。\nRPC：远程过程调用，…",
@@ -133,36 +143,6 @@
           "publishedOn": "2022-09-01T04:26:54.000Z",
           "wordCount": null,
           "title": "2022年第35周融资精选：超2亿美元注入NFT板块",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31731",
-          "author": null,
-          "description": "zkSync 2.0更新：动态费用里程碑完成",
-          "link": "https://www.theblockbeats.info/news/31731",
-          "publishedOn": "2022-08-31T14:38:29.000Z",
-          "wordCount": null,
-          "title": "zkSync 2.0更新：动态费用里程碑完成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31734",
-          "author": null,
-          "description": "原文标题：《After analyzing 60+ games and services, we found Web3 game has 40% bots》\n原文作者：Levan\n原文编译：深潮 TechFlow\n\n\n\n\n在分析了 60 多个游戏和服务器后，我们共发现了 20 万个机器人。平均而言，每个 Web3 游戏的总玩家数有 40% 都是机器人。\n\n\n\n\n\n我们通过是否连接属于同一个人的钱包来检测机器人和多账户。\n\n\n我们将 Token 持有者的名单放在一个图上，并使用我们的算法将钱包连接起来。其结果的呈现更像是一个培养皿！看到彩色的集群了吗？这些是在 Era7 中的机器人。\n\n\n\n\n\n这是 Tiny World 的图表，它在 BNB CHAIN 上排名前三，MAU 为 35000，但 70% 仍然是机器人。\n\n\n\n\n\n机器人不仅只存在于游戏中！所有有利润的服务器都充斥着机器人。这是 MOBOX 的数据图表：\n\n\n· 在 Binance 上排名第二的 Gamefi 平台\n\n\n· MAU 为 39000\n\n\n· 其中 55% 的机器人\n\n\n\n\n\n\n\n\n机器人无处不在！这是 Biswap 的 Token 图。他们有一个推荐计划，让人们互相推荐来获得奖励，然后怎么样？然后这吸引了 13000 个机器人。有趣的是，我们是通过随机分析发现这个 Token 的，然后才意识到为什么机器人会这么多。\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31734",
-          "publishedOn": "2022-08-31T09:34:04.000Z",
-          "wordCount": null,
-          "title": "分析了60款链游，发现40%的玩家都是机器人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31730",
-          "author": null,
-          "description": "原文标题：《百亿项目 Alchemy Road to Web3 第九周 NFT 获取教程》\n原文作者：Greta\n\n\n\n\nAlchemy 是什么项目？\n\n\n2019 年 12 月，Alchemy 完成 1500 万美元 A 轮融资，资方为 Pantera Capital，斯坦福大学，Coinbase，三星等。\n\n\n2021 年 4 月，Alchemy 以 5.05 亿美元估值完成 8000 万美元 B 轮融资，Coatue 和 Addition 领投，DFJ Growth、K5 Global、Chainsmokers（烟鬼组合）、演员 Jared Leto 和 Glazer 家族参投。\n\n\n2021 年 10 月，Alchemy 以 35 亿美元估值完成 2.5 亿美元 C 轮融资，由 a16z 领投的。\n\n\n2022 年 2 月，Alchemy 以 102 亿美元估值完成 2 亿美元融资，Lightspeed 与 Silver Lake 领投。\n\n\nAlchemy 是一个背景强大、经费充足、踏实做事、没有发币的团队，这样的项目不刷，难道去刷土狗吗？\n\n\n并且，Alchemy 计划将新资金用于推广 Web3 采用，这方面的一些举措包括推出 Web3 University，就是现在的 Road to Web3 活动，活动为期 10 周，每周一个 NFT。看了下 nft 数量极少，估计由于任务难度大，很多小伙伴直接放弃，这样的项目若是空投，绝对是大毛。\n\n\n\n\n手把手第九周教程开始：如何使用 0x API 构建代币交换 Dapp\n\n\n\n\n\nstep1 拷贝官方代码\n\n\n1. 在控制台输入如下代码\n\n\n\ngit clone https://github.com/0xProject/swap-demo-tutorial.git\n\n\n\n\n\n2. 用 vscode 打开 clone 的…",
-          "link": "https://www.theblockbeats.info/news/31730",
-          "publishedOn": "2022-08-31T06:14:04.000Z",
-          "wordCount": null,
-          "title": "手把手教你获取Alchemy Road to Web3第九周NFT",
           "imageUrl": null
         }
       ]
