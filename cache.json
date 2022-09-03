@@ -134,26 +134,6 @@
           "wordCount": null,
           "title": "1confirmation合伙人：5个NFT市场用户画像趋势洞察",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31739",
-          "author": null,
-          "description": "原文标题：《LayerZero 定义 Omnichain 互联互通新标准》\n原文来源：0x1，IOBC Capital\n\n\n互联互通是一直没被解决好的刚需\n\n\n在区块链中，如果把每一条区块链比喻成一个独立的账本，不同账本之间没有建立起互联互通，各个链上的数据和用户资产是处于相对独立的状态，单个的区块链就像一座座孤岛，互通性很差，这极大地限制了区块链的发展潜力。\n\n\n\n\n\n只有打通各个区块链之间的互操作性，才能实现数据和资产的全面流通，解决全链（Omnichain）的互操作性才更有可能出现超级应用。\n\n\n全链互操作性是互联互通的新范式\n\n\n最早还没有跨链协议的时候，用户需要做资产跨链的话，需要借助中心化交易平台，在中心化交易平台完成资产转换后再提币到目标链上。这种方式中间操作繁杂、手续费损耗较高、效率较低，而且只是资产跨链，并没有涉及到消息跨链。\n\n\n当前同时实现资产跨链和消息跨链的区块链互操作性解决方案主要有两种：\n\n\n1、可信中继器：这种方案通过源链发送交易，由中继链对交易进行验证并达成共识，最终将交易发送到目标链；  \n\n\n2、轻节点模式：这种方案是通过在两个链之间互相部署对方链的轻节点，互相同步对方链完整的区块头，从而可以验证对方链的交易。  \n\n\n第一种方案不够去中心化，而且最终形成的往往不是开放的跨链生态，而是一个新的封闭的生态，还存在被单点攻击的风险；第二种方案成本太高，比如在以太坊上运行一个链上轻节点，每条目标链每天都要花费一笔不菲的成本。\n\n\n针对区块链互操作性的发展现状，LayerZero 提出了一种新的解决方案：\n\n\n超轻节点模式：这种方案是通过在每条链上都部署一个 Endpoint，这个 Endpoint 会运行一个超轻节点（ULN，Ultra light node），然后通过 Oracle 来按需流式传输包含跨链信息的区块头（而非按顺序传输所有区块头…",
-          "link": "https://www.theblockbeats.info/news/31739",
-          "publishedOn": "2022-09-01T05:00:54.000Z",
-          "wordCount": null,
-          "title": "LayerZero如何定义Omnichain互联互通新标准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31740",
-          "author": null,
-          "description": "原文作者：Jack(0x137)，BlockBeats\n\n\n\n\n据 BlockBeats 统计，上周融资总数为 27 笔，覆盖 GameFi、NFT、DeFi、社交等领域，总金额超 5.63 亿美元，平均融资金额为 1650 万美元。下图为上周各板块融资占比：\n\n\n\n\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 7 笔融资，总金额 1.64 亿美元，占上周融资总额的 29.08%。\n\n\n\n\nReady Player Me\n\n\n\n\n\n\n\n\n\nBlockBeats 消息，8 月 23 日，元宇宙身份平台 Ready Player Me 完成 5600 万美元 B 轮融资，由 a16z 领投，Roblox 联合创始人 David Baszucki、Twitch 联合创始人 Justin Kan、Kevin Hart 等参投。Ready Player Me 此前已完成 1300 万美元融资，Samsung Next 等参投。\n\n\n\n\nReady Player Me 是一个跨应用虚拟形象平台，旨在帮助游戏玩家通过 NFT 等技术在不同游戏中使用自己的虚拟形象。该公司由 CEO Timmu Tke、CTO Rainer Selvet、CCO Kaspar Tiri和 COO Haver Jrveoja于 2014 年创立，创始团队均在传统游戏行业有丰富的工作经验，自创立以来已经合作了近 9 年时间。\n\n\n\n\nReady Player Me 支持网页、Unity、Unreal、Android 和 iOS 等多个平台，通过 Ready Player Me，开发者可以在不到一天的时间里将该平台上的虚拟形象集成到自己的应用或游戏中。原生。目前，Ready Player Me 已有超 3000 多个合作伙伴，包括华纳兄弟、迪奥和新百伦等。\n\n\n\n\n该平台的虚拟形象系…",
-          "link": "https://www.theblockbeats.info/news/31740",
-          "publishedOn": "2022-09-01T04:26:54.000Z",
-          "wordCount": null,
-          "title": "2022年第35周融资精选：超2亿美元注入NFT板块",
-          "imageUrl": null
         }
       ]
     },
