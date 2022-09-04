@@ -104,26 +104,6 @@
           "wordCount": null,
           "title": "MOVE开发入门第二节：第一个MOVE语言程序",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31761",
-          "author": null,
-          "description": "过去十年，开发人员对 Web3 的兴趣迎来了大幅增长。据 Electric Capital《Developer Report 2021》数据，Web3 月度活跃开发者在 2021 年 12 月达到了历史峰值，为 18416 人。\n\n\n\n\n\n\n\n此外，Web3 中近十年每年新增的开发者人数，总体上也呈现着上升的趋势。其中，2021 年新加入 Web3 的开发者更是比以往任何一年都要多，这一年总计有 34391 人加入到 Web3。\n\n\n\n\n\n\n\n大量开发者的加入及日常的持续活跃，为 Web3、Crypto 领域的众多生态和用例带来了日新月异的创新：无论是 L1、L2 等基础设施，还是 DeFi 协议、NFT 产品及游戏等用例都在不断喷涌而出。\n\n\n\n\n不过，新的网络和用例为 Web3 生态注入活力的同时，一些新的编程语言、标准和虚拟机，以及最佳实践的形式等也为构建者带来了更大的复杂性，而随着开发人员对 Web3 的兴趣不断增长以及整个生态的深化发展，这些复杂性还会随之增加。如构建去中心化应用不仅需要与智能合约交互，还涉及到消息传递、去中心化存储以及加密证明和签名等多个方面。\n\n\n\n\n因此，拥有一个简化这种复杂性的开发工具变得尤为重要，这将有助于将更多人带入到 Web3。而近日，获得 Haun Ventures 2400 万美元领投，及众多知名机构和企业家参投的 Thirdweb，正是这样一个全栈式 Web3 开发工具平台。接下来，BlockBeats 将为大家详细介绍下这个项目。\n\n\n\n\nHaun Ventures 领投，技术大拿进入 Web3 的首秀之作\n\n\n\n\n\n\n2020 年 2 月，被 Pocket Gamer 列为移动游戏制造商 50 强之一的 AppLovin 收购了 Machine Zone（MZ）。后者曾号称美国第一大手游公司，由 Gabriel Leydon…",
-          "link": "https://www.theblockbeats.info/news/31761",
-          "publishedOn": "2022-09-02T05:31:47.000Z",
-          "wordCount": null,
-          "title": "开发工具平台 Thirdweb 能否成为 Web3 时代的 Shopify",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31760",
-          "author": null,
-          "description": "原文标题：《A simple guide to the web3 developer stack》\n原文作者：Jonathan King, Connor Dempsey, & Hoolie Tejwani\n\n\n\n\n\n原文编译：胡韬，链捕手\n\n\n\n\n尽管比特币和以太坊的兴起，以及 DeFi、NFT、GameFi 和 DAO 等新类别的出现，web3 开发人员在全球 3110 万软件开发人员中的占比不到 1%。\n\n\n\n\n那么为什么如今 web3 的开发者这么少呢？一方面，web3 开发人员可用的工具和基础设施远不如 web2 强大。这只会让在 web3 中开始构建、试验和部署变得更加困难。然而，这一切都在迅速改变，因为每月活跃的 web3 开发人员的数量在 2021 年底创下历史新高。为了支持这种不断增长的意外情况，一个充满活力的团队生态系统致力于简化整个 web3 开发人员的旅程，最终将帮助开启 web3 增长和创新的下一阶段。\n\n\n\n\n在本期的 Around The Block 中，我们将探索不断增长的 web3 开发者堆栈。\n\n\n \nWeb3 开发人员堆栈\n\n\n\n\n\n \n\n\n在 Web2 与 Web3 中构建\n\n\n\n\n软件开发是构建计算机程序的过程。给定程序包含三个主要组件：\n\n\n\n\n1. 前端（用户与之交互的内容）\n\n\n\n\n2. 后端（用户看不到的地方）\n\n\n\n\n3. 数据库（存储关键数据的地方）\n\n\n\n\n典型用户通过移动或桌面浏览器进行交互的前端在 web2 和 web3 中基本相同。像 Uniswap 这样的 web3 应用程序看起来与典型的 web2 应用程序相似，因为两个前端大部分都是使用 React 创建的——一个流行的 web 和移动应用程序开发人员框架。\n\n\n\n\n\n\n\n\n\n这是 web2 和 web3 不同的地方。使 web3 的定义特征（用户定义的所有权…",
-          "link": "https://www.theblockbeats.info/news/31760",
-          "publishedOn": "2022-09-02T04:31:47.000Z",
-          "wordCount": null,
-          "title": "Coinbase带你深入了解Web3开发者堆栈",
-          "imageUrl": null
         }
       ]
     },
