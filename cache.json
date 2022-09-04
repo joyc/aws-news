@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31776",
+          "author": null,
+          "description": "刚刚读了《为什么我现在就敢断言，区块链技术是和互联网技术至少一样重要的技术？》，发现最近建硕（听他说不喜欢被叫做「建硕老师」，下文就统一叫建硕好了）确实比较高产，以至于把我有些想说的话也提前说了出来。之前自己曾因觉得有些观点过于离经叛道，或者单纯想攒一攒等素材足够丰富了再写，现在看来不如也以随笔的形式早些发出来供大家讨论。\n\n \n那么随笔的第一篇，就先来说说为什么绝不能把区块链简单地理解成数据库系统？\n \n是的，把区块链比喻成一种特殊形式的数据库，确实有助于向外行，尤其是向技术背景出身的人们解释相关概念。但这种比喻却始终回答不了一个问题，那就是：这种在效率上有明显缺陷的新型「数据库系统」，相较于传统数据库，究竟有什么特别的比较优势？\n \n在我看来，这两种数据库系统最显著的差异，就在于他们对时间的处理方式完全不同。\n \n传统的数据库中，时间往往只是作为众多数据字段中的一个，相较于其他字段并没有显著的地位上的差异。然而在区块链版的数据库中，时间不再以简单的数据形式存在，而是直接进行了升维，从普通数据中的一员，直接进化成了这个系统中的一个「维度」。\n \n是的，区块链是第一个真正拥有时间维度的数据库。在这个数据库中，任何其他形式的数据，无论是交易、资产铸造，还是新智能合约的部署，都必然会被分配到这个单向且永不停止的时间维度中的某一个点。而这个点，也就是我们常说的区块高度。\n \n在这个世界中，拥有时间这个信息的系统数不胜数，但是真正拥有时间维度的系统，目前来看可能只存在两类。一个是我们刚刚提到的区块链系统，而另一个，就是我们真实生活的这个宇宙。\n \n这也就是建硕文中所说的：「区块链是人类自己创造，模仿上帝的时间的粗糙仿制品。」\n \n在这个意义上，如果我们把真实宇宙的物质也理解成一种以某种特殊形式存在的信息，那么这个宇宙其实也可以理解为一个在时间维度上单向前进且永不停机的区块链数据记录…",
+          "link": "https://www.theblockbeats.info/news/31776",
+          "publishedOn": "2022-09-04T04:31:09.000Z",
+          "wordCount": null,
+          "title": "为什么区块链绝不是另一种形式的数据库系统？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31765",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《加密全民战争，「去 USDC 化」稳定币的捍卫之路》\n\n\n \nTornado Cash 制裁事件后，加密圈子可以说是谈 USDC 色变，人们对中心化稳定币的恐惧和担忧达到了前所未有的程度。我们发现，去中心化世界的经济基础，现在俨然成了监管反制 Crypto 的终极武器。过去一年，稳定币市场增长了数倍，其中光 USDC 和 USDT 就占了近 80%，USDC 等中心化稳定币的触角遍布 DeFi 的各个角落，去中心化似乎成了 Web3 的一个死命题。尽管如此，我们依然见到不少公链和 DeFi 协议在推出自己的稳定币项目。在这样的背景下，DeFi 是否能够摆脱 USDC 的阴影？去中心化的叙事是否能够被拯救？\n\n\n \n《拿版税开刀，NFT 交易市场要变天了》\n\n\n \n8 月 26 日，NFT 交易平台 X2Y2 发布推文宣布推出「自定义版税」功能，这项功能将允许买家自主选择他们希望为 NFT 项目做出贡献而支付的版税（100%、50% 或 0% 的对应比例），当选择支付 50% 和 0% 时会将部分版税返还给买家（这些版税原来是支付给项目方或创作者的）。一时之间，原本共创双赢的「创作者经济」变为你死我活的零和博弈。细细回溯，你会发现 NFT 交易市场早已由蓝海淘金变为了红海博杀。\n\n\n本文将从版税支付的差异、NFT 交易市场的变化、事件的原因、正反方观点、后续的解决方案等角度详解这次事件。\n\n\n\n\n《2022 年第 35 周融资精选：超 2 亿美元注入 NFT 板块》\n\n\n\n\n据 BlockBeats 统计，上周融资总数为 27 …",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-09-02T04:31:47.000Z",
           "wordCount": null,
           "title": "Coinbase带你深入了解Web3开发者堆栈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31746",
-          "author": null,
-          "description": "原文标题：《熊市中从 Free mint 到新晋蓝筹！最近大火的 DigiDaigaku 究竟什么来头？》\n原文作者：0xDy \n\n\n自六月以来 NFT 就渐渐步入了寒冬熊市，NFT 蓝筹价格和 OpenSea 交易量都经历了大幅下跌。可是最近，一个叫 Digi Daigaku 的项目点燃了 NFT 圈。从 Free Mint 到现在 15.4ETH 地板价（笔者撰稿时），大家都对这个陌生而又独特的项目感到惊讶，同时又充满了好奇。一个 Free mint 的 NFT 是如何从熊市中在 OpenSea 交易量中一骑绝尘，甚至地板价已远超过 Azuki，Doodle 等蓝筹项目，今天就跟大家好好扒一扒这个项目。\n\n\n\n\n\n\n图 1 8 月 30 日 OpenSea 的日交易量榜\n\n\n\n一、项目背景\n\n\n首先，在 Digi Daigaku 的OpenSea 页面中有这样一段介绍：」DigiDaigaku is a collection of 2022 unique characters developed by Limit Break, a company founded by world-famous game designers Gabriel Leydon and Halbert Nakagawa.」交代了其发行的公司为 Limit Break，而公司的两位创始人则是非常著名的游戏设计 Gabriel Leydon 和 Halbert Nakagawa。\n\n\n\n\n\n\n图 2 Digi Daigaku 的 OpenSea 页面\n\n\n\n说说两位创始人，Gabriel Leydon（CEO）和Halbert Nakagawa（CTO）在成立 Limit Break 之前就于 2008 年共同创立了著名手机游戏公司 Machine Zone，并发行了多款知名手游，比如《战争游戏：火…",
-          "link": "https://www.theblockbeats.info/news/31746",
-          "publishedOn": "2022-09-01T13:58:34.000Z",
-          "wordCount": null,
-          "title": "熊市中从Free mint到新晋蓝筹，最近大火的DigiDaigaku究竟什么来头？",
           "imageUrl": null
         }
       ]
