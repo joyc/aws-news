@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31779",
+          "author": null,
+          "description": "原文标题：《Web3 Marketing Case Study: How FTX Scaled from a $7M to $32B Company in Just 36 Months》\n原文作者：Joydeep Bhattacharya \n原文编译：Misaki、Diamond, WhoKnows DAO\n\n\n\n\n你在广告营销上花过钱但是颗粒无收吗？你是不是正在找更多潜在客户提高销量，却苦于不知道怎么开始，从哪开始？打电话咨询我们获得世界一流营销专家帮助。\n\n\nFTX 是一个虚拟货币交易平台，平均日交易量达 100 亿美金，日注册用户超过 600 万。\n\n\n2019 年 FTX 开局不利仅收入 720 万美元，但是仅仅用了 36 个月，公司的估值便增长了 4000%，飙升到 320 亿美元。\n\n\n为什么 FTX 飞速增长？\n\n\n他们用了什么策略摇身一变 3 年内成为世界第二大加密货币交易平台？\n\n\n通过这个 Web3 营销案例，一起看一下 FTX 如何构建一个成功的加密货币交易平台——你也可以把这些营销策略运用到自己的项目中。\n\n\n\n#01 FTX 是做什么的？\n\n\nFTX 专注于复杂的「加密衍生品」，市场参与者无需持有实物资产，这就意味着交易不需要钱包或其他复杂的市场基础设施，让客户可以押注比特币和以太坊等主要货币的未来价格。\n\n\nFTX 提供的加密产品：\n\n\n· 行业领先的衍生品\n\n\n· 期权和波动性产品\n\n\n· Token 化股票\n\n\n· 市场预测\n\n\n· 杠杆 Token\n\n\n· 其他更多\n\n\n 简言之，FTX 是一个让用户能简单进行加密货币交易的平台。\n\n\nFTX 在短短 3 年内已经成为世界上最受尊敬的加密货币交易平台之一。\n\n\nFTX 也发行了自己的实用型 Token FTT（可以看到自 2022 年以来，市值增加了 850%）\n\n\n\n\n\n FTX 的用户个…",
+          "link": "https://www.theblockbeats.info/news/31779",
+          "publishedOn": "2022-09-05T06:31:19.000Z",
+          "wordCount": null,
+          "title": "FTX估值3年内涨了457倍，他们做对了什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31777",
           "author": null,
           "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。\n\n\n\n\n\n\n\n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n\n推荐文章:《AMM 的演变（The Evolution of AMMs）》\n\n\n\n\n推荐人：crescent\n\n\n\n\n推荐理由：文中系统性地讲述了三代 AMM 的从始至今在加密市场的演变情况及其细分应用市场。\n\n\n\n\n在加密货币领域，第一代 AMM 采用了我们熟悉的恒定乘积的做市商（CPMM）模型 x*y=k，确保 DEX 的流动性。这也带领了 Uniswap 的崛起。但是这类模型还存在着滑点、无常损失和安全风险等缺陷。与其类似的还有恒定和做市商（CSMM）x+y=k，可这种模型易使池中资产集中到一种资产中，从而破坏流动性池的稳定。除此之外还有恒定平均值做市商（CMMM）模型（x*y*z）^{1/3}=k，不过 CMMM 同样没有解决无常损失和低资本效率的问题。\n\n\n\n\n第二代 AMM 在第一代的基础上尝试对这些缺陷加以改进，Curve 将 CPMM 与 CSMM 相结合，创造出 Stableswap，它在流动池平衡时就是 CSMM…",
