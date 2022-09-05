@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31783",
+          "author": null,
+          "description": "原文标题：《\n\nWeb3 基础设施协议如何尝试获取价值？\n\n》\n原文作者：Sami Kassab   \n原文编译：Block unicorn\n\n\n\n\n 关键的见解 \n\n\n\nBurn-and-Mint Equilibrium (BME) 模型和 Stake-for-Access (SFA) 模型是 Web3 基础设施协议使用的两种最常见的 Token 模型。它们解决了速度问题，并建立了网络使用和 Token 价格之间的关系。\n \n在使用 BME（燃烧 Token 访问服务）模型时，终端用户需要燃烧制协议的原生 Token 来访问服务，本质上将协议使用转化为 Token 购买力。\n \nSFA（质押 Token 访问服务）模型要求服务提供商质押协议的原生 Token 在网络上执行工作，这将网络参与转化为 Token 购买力。\n \nSFA 模型最适合于提供无差别商品服务的协议，而 BME 模型最适合于与商业运作类似的协议，因为它们可以自己定价，并在业务发展和合作中竞争。\n \n价值创造和价值累积并不是一回事。虽然加密货币在价值创造方面取得了成功，但该行业仍在摸索价值累积方面的问题。价值创造和价值累积之间的差距可以在 Uniswap 清楚地看到。虽然它是最受欢迎的去中心化交易平台（DEX），拥有最大的交易量，但 Uniswap 的 Token 一直在努力累积价值，因为它的唯一效用是协议治理。\n \n在过去的几年里，服务于 Web3 堆栈中间件层的基础设施协议出现了爆炸性增长。他们都面临着将网络的使用与 Token 价格相一致的挑战。本报告评估了 Web3 基础设施协议用来获取价值的两种最流行的实用 Token 模型：Burn-and-Mint Equilibrium (BME) 模型和 Stake-for-Access (SFA) 模型。\n \n投资者普遍认为，如果协议的实用 Token …",
+          "link": "https://www.theblockbeats.info/news/31783",
+          "publishedOn": "2022-09-05T14:41:38.000Z",
+          "wordCount": null,
+          "title": "探讨Web3基础设施协议：Token价值创造与价值累积",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31779",
           "author": null,
           "description": "原文标题：《Web3 Marketing Case Study: How FTX Scaled from a $7M to $32B Company in Just 36 Months》\n原文作者：Joydeep Bhattacharya \n原文编译：Misaki、Diamond, WhoKnows DAO\n\n\n\n\n你在广告营销上花过钱但是颗粒无收吗？你是不是正在找更多潜在客户提高销量，却苦于不知道怎么开始，从哪开始？打电话咨询我们获得世界一流营销专家帮助。\n\n\nFTX 是一个虚拟货币交易平台，平均日交易量达 100 亿美金，日注册用户超过 600 万。\n\n\n2019 年 FTX 开局不利仅收入 720 万美元，但是仅仅用了 36 个月，公司的估值便增长了 4000%，飙升到 320 亿美元。\n\n\n为什么 FTX 飞速增长？\n\n\n他们用了什么策略摇身一变 3 年内成为世界第二大加密货币交易平台？\n\n\n通过这个 Web3 营销案例，一起看一下 FTX 如何构建一个成功的加密货币交易平台——你也可以把这些营销策略运用到自己的项目中。\n\n\n\n#01 FTX 是做什么的？\n\n\nFTX 专注于复杂的「加密衍生品」，市场参与者无需持有实物资产，这就意味着交易不需要钱包或其他复杂的市场基础设施，让客户可以押注比特币和以太坊等主要货币的未来价格。\n\n\nFTX 提供的加密产品：\n\n\n· 行业领先的衍生品\n\n\n· 期权和波动性产品\n\n\n· Token 化股票\n\n\n· 市场预测\n\n\n· 杠杆 Token\n\n\n· 其他更多\n\n\n 简言之，FTX 是一个让用户能简单进行加密货币交易的平台。\n\n\nFTX 在短短 3 年内已经成为世界上最受尊敬的加密货币交易平台之一。\n\n\nFTX 也发行了自己的实用型 Token FTT（可以看到自 2022 年以来，市值增加了 850%）\n\n\n\n\n\n FTX 的用户个…",
@@ -43,16 +53,6 @@
           "publishedOn": "2022-09-03T06:58:29.000Z",
           "wordCount": null,
           "title": "周末荐读：DigiDaigaku暴涨背后的「Free To Own」模型；V神首个新书SBT领取教程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31772",
-          "author": null,
-          "description": "原文标题：《Bankless 丨 Arbitrum 完成 Nitro 升级之际，看看上面有哪些机会》\n原文作者：Ben Giove ，Bankless 分析师\n原文编译：DeFi 之道\n\n\n如何获得 Arbitrum 生态敞口\n\n\n\n\nArbitrum season 即将到来。\n\n\n\n\n在成功完成 Nitro 之后（这个备受期待的网络升级提高了交易吞吐量并降低了费用），Arbitrum 有望在流动性、用户和活动方面进一步增长。\n\n\n\n\n\n\n\n\n\n\n\n此外，还有几个催化剂，准备从增强的交易能力中受益，并帮助推动这一趋势。首先是 Arbitrrum Odyssey，一个旨在鼓励使用 L2 上的应用程序的活动。Odyssey 应该能把用户和注意力都带回网络上。\n\n\n\n\n第二个催化剂是 Arbitrum 通证的最终推出。\n\n\n\n\n\n\n\n\n\n到目前为止，Arbitrum 的生态系统一直是有机地引导的。尽管没有全网激励措施，Arbitrum 仍然是 TVL 最大的 L2，超过 25.8 亿美元。而推出通证将把这个数字推得更高，因为它可能被用来激励流动性和鼓励更多热门的、基于 L1 的应用程序的迁移。\n\n\n\n\n虽然这些催化剂已经导致该网络成为热门话题，但该网络的采用仍处于早期阶段 -- 根据 Nansen 的说法，只有 0.45% 的以太坊地址使用 Arbitrum。\n\n\n\n\n那么，要如何接触这个生态系统呢？\n\n\n\n\n以下。\n\n\n1. 纯粹游戏：Arbitrum 原生项目\n\n\n\n\n接触 Arbitrum 生态系统的最直接方式是投资于原生项目。\n\n\n\n\n这些早期采用者将成为流入 Arbitrum 的主要受益者，因为它可能会促进 TVL、收入、用户和其他核心 KPI 的增长。\n\n\n\n\n有许多基于 Arbitrum 的项目跨越不同的领域，投资者可以从中选择，以适应他们的投资组合构成和风险状况。…",
-          "link": "https://www.theblockbeats.info/news/31772",
-          "publishedOn": "2022-09-03T02:00:40.000Z",
-          "wordCount": null,
-          "title": "Bankless：Arbitrum Season即将到来，上面有哪些机会？",
           "imageUrl": null
         }
       ]
