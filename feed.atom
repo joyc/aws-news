@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-05T00:52:43.674Z</updated>
+    <updated>2022-09-05T06:39:09.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -216,87 +216,6 @@ Arbitrum season 即将到来。
 
 
 有许多基于 Arbitrum 的项目跨越不同的领域，投资者可以从中选择，以适应他们的投资组合构成和风险状况。…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV订单流：区块建设者中的王者]]></title>
-        <id>https://www.theblockbeats.info/news/31762</id>
-        <link href="https://www.theblockbeats.info/news/31762"/>
-        <updated>2022-09-02T14:51:08.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《MEV 订单流：区块建设者中的王者》
-原文作者：noxx
-原文编译：Block unicorn
-
-
-
-
-
-
-
-合并之后，区块建设者的皇室战役。距离合并仅有 2 周多时间，它将永远改变以太坊 MEV 的格局。
-
-
-
-
-区块建设者，一个在合并后的世界新实体，即将进入一个残酷的皇家战斗游戏。
-
-
-
-
-而他们选择的武器是——订单流。
-
-
-
-
-在这篇文章中，我们将讨论建设者如何将他们的订单流作为武器，它对以太坊链带来的风险，并窥视摆在我们面前的潜在未来。
-
-
-
-游戏状态：合并前
-
-
-
-在我们看一下合并后事情会如何发展之前，我们最好先了解一下目前的情况。
-
-
-
-
-下面的图片显示了一个用户的 Uniswap 交易，它强调了交易从用户到矿工的过程中所涉及的角色，并显示了交易进入链上的一些路径。
-
-
-
-
-
-
-
-
-
-
-
-1. 一个用户有一些 "意图"，在这个例子中，意图是在 Uniswap 上交易一些Token。
-
-
-
-
-2. 用户导航到他想使用的应用程序，并使用他的钱包提供商进行连接，在这个例子中，我们假设他使用 Metamask。
-
-
-3. 用户指定了他想做的交易 10 ETH 买入 20,000 DAI。应用程序构建了一些调用数据供他签名（0x5ae4...000），从而创建一个代表他的交易的交易，这个已签署的数据将被发送到下一节的 RPC 端点。
-
-
-
-4. 我们假设用户没有改变 Metamask 上的任何默认设置，特别是以太坊网络的 RPC 端点。
-
-
-如果是这样的话，RPC 端点将被设置为 https://mainnet.infura.io/v3/。这意味着交易将被发送到 Infura。
-
-
-
-Block unicorn 注释：
-Infura：通俗一点讲，Infura 就是一个可以让你的 DApp 快速接入以太坊的平台，不需要本地运行以太坊节点。
-RPC：远程过程调用，…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
