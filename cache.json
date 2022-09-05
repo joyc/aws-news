@@ -54,56 +54,6 @@
           "wordCount": null,
           "title": "MEV订单流：区块建设者中的王者",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31774",
-          "author": null,
-          "description": "原文标题：《ArkStream Capital：灵魂绑定代币现状和未来方向全解析》\n原文作者：Larissa  \n原文来源：ArkStream Capital 公众号\n\n\nTL; DR\n\n\n1. SBT 是一个关系证明而不是权威证明，其价值在于数据的大量积累，复杂、丰富和多样性会是 SBT 数据源的核心竞争力。\n\n\n2. 数据的积累将赋予每个账号「灵魂」，通过对信息进行预处理和分类，将账号标签化和性格化，可以极大丰富链上身份的应用场景，甚至预测其行为。\n\n\n3. 隐私是奢侈品，可编辑隐私是一个有巨大需求但又充满挑战的赛道。\n\n\n4. 去中心化社会的形成需要自然人与链上身份进行强绑定，增加身份的替换成本，产生身份依赖。\n\n\n5. SBT 可以通过构建链上信用积分和分级 KYC，应用在借贷等去中心化金融场景。\n\n\n\n图 1 SBT 相关赛道对照表\n\n\n去中心化社会和灵魂绑定Token\n\n\nVitalik 在 2022 年的 ETHCC 上又一次提到了 POAP 以及未来的可能性，他说「POAP will be a way to distinguish\nreal users from bot in web 3.0」。这已经不是 Vitalik 第一次提到 POAP 这个项目了，这个最早的徽章证明类项目从 launch 开始就已经获得了 Vitalik 的关注，截止 2022/8/1 为止已经有 916332 个钱包持有相关徽章，很多大型活动都会选择加入 participate to\nmint 这个概念。「区分真人与机器」意味着 Web3 的身份和数据已经不再局限于互联网上的虚幻世界，而是打破虚拟和现实的边界，被赋予了「人格」，开始与现实相提并论。在过去数十年建立的 Web2 互联网世界里，人物是虚拟的，形象是虚构的，灵魂与人物和形象是割裂的，现实和虚拟是完全分开的。而在 Web3…",
-          "link": "https://www.theblockbeats.info/news/31774",
-          "publishedOn": "2022-09-02T12:15:56.934Z",
-          "wordCount": null,
-          "title": "灵魂绑定代币的现状与未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31773",
-          "author": null,
-          "description": "一个市场老手的47条投资札记",
-          "link": "https://www.theblockbeats.info/news/31773",
-          "publishedOn": "2022-09-02T10:43:35.000Z",
-          "wordCount": null,
-          "title": "一个市场老手的47条投资札记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31744",
-          "author": null,
-          "description": "POS的平权推动者—多维公链WormholesChain",
-          "link": "https://www.theblockbeats.info/news/31744",
-          "publishedOn": "2022-09-02T10:30:35.000Z",
-          "wordCount": null,
-          "title": "POS的平权推动者—多维公链WormholesChain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31764",
-          "author": null,
-          "description": "Caduceus生态一站式金融服务平台Coinswap.com正式上线，首期ID0及空投活动火热进行中",
-          "link": "https://www.theblockbeats.info/news/31764",
-          "publishedOn": "2022-09-02T09:56:35.000Z",
-          "wordCount": null,
-          "title": "Caduceus生态一站式金融服务平台Coinswap.com正式上线，首期ID0及空投活动火热进行中",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31763",
-          "author": null,
-          "description": "MOVE开发入门第二节：第一个MOVE语言程序",
-          "link": "https://www.theblockbeats.info/news/31763",
-          "publishedOn": "2022-09-02T09:44:35.000Z",
-          "wordCount": null,
-          "title": "MOVE开发入门第二节：第一个MOVE语言程序",
-          "imageUrl": null
         }
       ]
     },

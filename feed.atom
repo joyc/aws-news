@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-04T18:09:31.635Z</updated>
+    <updated>2022-09-05T00:52:43.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -297,88 +297,6 @@ Arbitrum season 即将到来。
 Block unicorn 注释：
 Infura：通俗一点讲，Infura 就是一个可以让你的 DApp 快速接入以太坊的平台，不需要本地运行以太坊节点。
 RPC：远程过程调用，…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灵魂绑定代币的现状与未来]]></title>
-        <id>https://www.theblockbeats.info/news/31774</id>
-        <link href="https://www.theblockbeats.info/news/31774"/>
-        <updated>2022-09-02T12:15:56.934Z</updated>
-        <summary type="html"><![CDATA[原文标题：《ArkStream Capital：灵魂绑定代币现状和未来方向全解析》
-原文作者：Larissa  
-原文来源：ArkStream Capital 公众号
-
-
-TL; DR
-
-
-1. SBT 是一个关系证明而不是权威证明，其价值在于数据的大量积累，复杂、丰富和多样性会是 SBT 数据源的核心竞争力。
-
-
-2. 数据的积累将赋予每个账号「灵魂」，通过对信息进行预处理和分类，将账号标签化和性格化，可以极大丰富链上身份的应用场景，甚至预测其行为。
-
-
-3. 隐私是奢侈品，可编辑隐私是一个有巨大需求但又充满挑战的赛道。
-
-
-4. 去中心化社会的形成需要自然人与链上身份进行强绑定，增加身份的替换成本，产生身份依赖。
-
-
-5. SBT 可以通过构建链上信用积分和分级 KYC，应用在借贷等去中心化金融场景。
-
-
-
-图 1 SBT 相关赛道对照表
-
-
-去中心化社会和灵魂绑定Token
-
-
-Vitalik 在 2022 年的 ETHCC 上又一次提到了 POAP 以及未来的可能性，他说「POAP will be a way to distinguish
-real users from bot in web 3.0」。这已经不是 Vitalik 第一次提到 POAP 这个项目了，这个最早的徽章证明类项目从 launch 开始就已经获得了 Vitalik 的关注，截止 2022/8/1 为止已经有 916332 个钱包持有相关徽章，很多大型活动都会选择加入 participate to
-mint 这个概念。「区分真人与机器」意味着 Web3 的身份和数据已经不再局限于互联网上的虚幻世界，而是打破虚拟和现实的边界，被赋予了「人格」，开始与现实相提并论。在过去数十年建立的 Web2 互联网世界里，人物是虚拟的，形象是虚构的，灵魂与人物和形象是割裂的，现实和虚拟是完全分开的。而在 Web3…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个市场老手的47条投资札记]]></title>
-        <id>https://www.theblockbeats.info/news/31773</id>
-        <link href="https://www.theblockbeats.info/news/31773"/>
-        <updated>2022-09-02T10:43:35.000Z</updated>
-        <summary type="html"><![CDATA[一个市场老手的47条投资札记]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POS的平权推动者—多维公链WormholesChain]]></title>
-        <id>https://www.theblockbeats.info/news/31744</id>
-        <link href="https://www.theblockbeats.info/news/31744"/>
-        <updated>2022-09-02T10:30:35.000Z</updated>
-        <summary type="html"><![CDATA[POS的平权推动者—多维公链WormholesChain]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caduceus生态一站式金融服务平台Coinswap.com正式上线，首期ID0及空投活动火热进行中]]></title>
-        <id>https://www.theblockbeats.info/news/31764</id>
-        <link href="https://www.theblockbeats.info/news/31764"/>
-        <updated>2022-09-02T09:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Caduceus生态一站式金融服务平台Coinswap.com正式上线，首期ID0及空投活动火热进行中]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOVE开发入门第二节：第一个MOVE语言程序]]></title>
-        <id>https://www.theblockbeats.info/news/31763</id>
-        <link href="https://www.theblockbeats.info/news/31763"/>
-        <updated>2022-09-02T09:44:35.000Z</updated>
-        <summary type="html"><![CDATA[MOVE开发入门第二节：第一个MOVE语言程序]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
