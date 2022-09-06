@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31788",
+          "author": null,
+          "description": "原文标题：《一文拆解 Port3 Network 宏图：成为 Web3 社交数据网关，加速 Web2 用户全面链上迁移》\n原文来源：Ygritte，Winkrypto\n\n\n\n随着 SBT「Soulbound Token - 灵魂绑定 Token」概念的出现以及深入探究，许多人对于「无数 SBT 总和形成 Web3 世界身份」这一未来寄予厚望。\n\n\n \n2022 年 1 月，以太坊创始人 Vitalik Buterin 撰文提出 SBT 设想：如果我们将 SBT 理解为具有标签性质的 Token，一方面 SBT 与用户账户（钱包）深度绑定，另一方面 SBT 的不可转让性也弱化了投机属性，两种特质加持下，随着一个钱包积累越来越多的 SBT，这一钱包所代表的链上身份就越丰富、越值得信任。\n\n\n \n回望 Web2，应用层均是围绕「用户身份」所展开的数据价值捕获，而 Web3 的叙事吸引力则在于数据主权回归+数据价值挖掘。因此围绕去中心化链上身份而展开的数据挖掘和社交延伸，理所当然成为推动 Web2 用户加速迈进 Web3 的必由之路。\n\n\n \n作为构建去中心化信誉体系的可行解决思路，SBT 理念迅速聚焦社区目光，在这一赛道中，以「实现 Social Data Oracle」为目标的项目 Port3 Network（以下简称 Port3）作为 BNB Chain MVB V 最新一批孵化项目暂露头角。\n\n\n \n该项目基于项目发展思路与 SBT 理念高度契合考虑，于近期推出了首个 SBT 设计大赛（点击查看活动详情）。8 月 17 日 - 9 月 13 日，Web3 爱好者可尽情释放想象力，设计各种应用场景下的独特 SBT，目前已有 379 名创作者踊跃参与为 Port3 的 SBT 设计形象。该 SBT 将代表着用户在 Port3 体系中的 Pass，实现身份的识别和验证，项目将于 …",
+          "link": "https://www.theblockbeats.info/news/31788",
+          "publishedOn": "2022-09-06T04:20:44.000Z",
+          "wordCount": null,
+          "title": "梳理Port3 Network：成为Web3社交数据网关，加速Web2用户全面链上迁移",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31787",
+          "author": null,
+          "description": "原文作者：Evgeny Gaevoy\n原文编译：0x9F，BlockBeats\n\n\n昨日，Binance 官方发布公告称，为了提高用户的流动性和资金使用效率，Binance 对用户现有的 USDC、USDP、TUSD Stablecoin 余额和新充值将以 1:1 的比例自动兑换为 BUSD。Wintermute CEO Evgeny Gaevoy 认为大多数新闻没有正确揭示这一事件对 USDC 的影响，作出了以下 4 点澄清，BlockBeats 整理翻译如下：\n\n\n\n\n1\n\n\n\n取消大多数 Stablecoin 交易对是一件好事，这让流动性不必在多个 Stablecoin 之间分割，做市商的工作会更轻松，市场总体上也会更具流动性。\n\n\n\n\n2\n\n\n\n这对 USDC（以及 TUSD 和其他）有好处，用户应该仍能够将 USDC 无缝存入 Binance 或取出。在此更改之前，用户需要将 USDC 兑换为 BUSD 或 USDT 以支付永续合约的保证金。\n\n\n\n\n现在用户可以跳过兑换步骤（直接使用 BUSD 支付保证金）。这提供了更好的用户体验，同时保持了 USDC 的实用性（我甚至认为更有用）。\n\n\n\n\n3\n\n\n\n显然有一种 Stablecoin 不在范围内，那就是 USDT。这对 USDT 来说没好处，客户会一直好奇是什么让 USDT 如此「特别」，以至于他们需要费力进行兑换。而从长远来看，非 USDT 交易对的流动性会增加。\n\n\n\n\n最终，USDT 将不断失去优势直至它不得不提高运营效率（铸造和销毁是一个 T+1 过程，不像 USDC/BUSD/TUSD 那样几乎是即时的），以及铸造和赎回的成本。\n\n\n\n\n前者很可能不受 Tether 控制，Silvergate 和 Signature 不太可能为 Tether 提供服务（因为美国监管机构讨厌它），而这两家银行是 24/7 美元法币流动最多的地方。\n\n\n\n\n至于后者，任何做市商都可以在几秒钟内铸造和赎回 BUSD/USDC，不需要 Binance 来做这个。现在，每个人都可以使用这个小小的做市商技巧。FTX 一直在做同样的事情。\n\n\n\n\n4\n\n\n\n总结一下：这不是 USDC 的「退市」，而是 USDT 朝着输给美国本土 Stablecoin 的方向又迈出了一大步。\n\n\n\n\n此外，Circle CEO Jeremy Allaire 也在社交媒体上对 Evgeny Gaevoy 的观点表示了赞同，认为这会增加 USDC 的效用，并预言 USDT 的市场份额将逐渐转移到 BUSD 和 USDC。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31787",
+          "publishedOn": "2022-09-06T04:11:44.000Z",
+          "wordCount": null,
+          "title": "解读Binance自动兑换BUSD：携手打击USDT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31786",
+          "author": null,
+          "description": "原文标题：《云雾迷蒙，杯弓市虎｜WTR 9.5》\n原文来源：WatchToweR 研究院\n\n\n\n\n本周回顾\n\n\n\n\n本周从 8 月 29 号到 9 月 4 号，BTC 最高附近 20500，最低接近 19500，震荡幅度达到 5.12% 左右。\n\n\n\n\n观察近期筹码分布图，在约 19200 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n\n\n\n\n\n\n\n\n分析：\n\n\n\n\n20500~21200 约 75 万枚 \n28800~32600 约 80 万枚涨不破 \n28800~32600 的概率约为 65 %。\n\n\n\n\n\n\n\n\n\n\n\n• 美国\n\n\n\n\n\n1. 受上周杰克逊霍尔鹰派言论的加息预期影响，美国股市在本周前三天连续下跌。\n\n\na. 华尔街恐惧指标 Vix 波动率指数在周二达到 7 月中以来的最高水平 27.69，表明市场预期将出现进一步动荡。\n\n\n2. 本周内美国 2 年期国债收益率攀升到 15 年以来的高点，于周五回落。\n\n\n3. 华尔街股指期货表现疲软，标普指数、纳斯达克指数和道指于周五午盘集体跳水并最终收跌。\n\n\n4. 美国 8 月非农就业人数增加 31.5 万人，超过市场预期，失业率略上升为 3.7%。\n\n\n5. 本周内贵金属的黄金和白银累跌，但于周五反弹并分别摆脱六周和两年多的低谷。\n\n\n\n\n• 欧洲\n\n\n\n\n\n1. 本周一欧洲天然气期货暴跌 20%，但根据欧洲能源交易所（EEX）的数据，显示德国和法国明年交付的电价均为历史上首次超过 1000 欧元。\n\n\n2. 德国通胀率升到 40 年新高至 8.8%，天然气紧缺、电价高企正在给德国工业企业做成致命打击。德国基准 10 年期国债收益率上升至 1.54%。\n\n\n3. 8 月份欧元区 CPI 增幅达 9.1% 的创纪录高点。\n\n\na. 能源危机之外，通胀高企、衰退风险、债务泥潭、政局变动正在成为危险的火药桶。\nb. …",
+          "link": "https://www.theblockbeats.info/news/31786",
+          "publishedOn": "2022-09-06T04:04:44.000Z",
+          "wordCount": null,
+          "title": "第36周链上数据分析：链上活动有恢复迹象，潜在抛售压力上升",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31783",
           "author": null,
           "description": "原文标题：《\n\nWeb3 基础设施协议如何尝试获取价值？\n\n》\n原文作者：Sami Kassab   \n原文编译：Block unicorn\n\n\n\n\n 关键的见解 \n\n\n\nBurn-and-Mint Equilibrium (BME) 模型和 Stake-for-Access (SFA) 模型是 Web3 基础设施协议使用的两种最常见的 Token 模型。它们解决了速度问题，并建立了网络使用和 Token 价格之间的关系。\n \n在使用 BME（燃烧 Token 访问服务）模型时，终端用户需要燃烧制协议的原生 Token 来访问服务，本质上将协议使用转化为 Token 购买力。\n \nSFA（质押 Token 访问服务）模型要求服务提供商质押协议的原生 Token 在网络上执行工作，这将网络参与转化为 Token 购买力。\n \nSFA 模型最适合于提供无差别商品服务的协议，而 BME 模型最适合于与商业运作类似的协议，因为它们可以自己定价，并在业务发展和合作中竞争。\n \n价值创造和价值累积并不是一回事。虽然加密货币在价值创造方面取得了成功，但该行业仍在摸索价值累积方面的问题。价值创造和价值累积之间的差距可以在 Uniswap 清楚地看到。虽然它是最受欢迎的去中心化交易平台（DEX），拥有最大的交易量，但 Uniswap 的 Token 一直在努力累积价值，因为它的唯一效用是协议治理。\n \n在过去的几年里，服务于 Web3 堆栈中间件层的基础设施协议出现了爆炸性增长。他们都面临着将网络的使用与 Token 价格相一致的挑战。本报告评估了 Web3 基础设施协议用来获取价值的两种最流行的实用 Token 模型：Burn-and-Mint Equilibrium (BME) 模型和 Stake-for-Access (SFA) 模型。\n \n投资者普遍认为，如果协议的实用 Token …",
