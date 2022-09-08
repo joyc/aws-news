@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31812",
+          "author": null,
+          "description": "原文来源：\n\n欧易 OKX\n\n\n\n\n\n\n以太坊合并前夜（9 月 5 日晚），欧易 OKX & TokenInsight 联合发起了《聊透以太坊合并分叉，普通投资者如何参与？》主题 AMA，TokenInsight CEO Wayne、OKX Web3 Wallet 开发者 Zakk、蚂蚁矿池开发者 Rory Hu、力说创始人张力、dForce 创始人 Mindao 等嘉宾围绕以太坊合并分叉展开讨论，从不同角度给出了对事件本身以及行业发展趋势的判断与看法，更有给普通投资者的建议，希望对你有所启发！Enjoy～\n \nWayne：Mindao 老师，可以先给听众科普下以太坊合并的背景？\n\n \nMindao：好的，其实这次合并基本上在预期之内，以太坊 ICO 时，白皮书就已经写了未来会从 POW 转向 POS，当时预计 2018-2019 年实现，但可能由于对 POS 的研究不够完善，才延迟至今。当然以太坊并不是第一个要做 POS 的，上上轮牛市的 Eos，上一轮牛市的 Solana 等公链都是采用 POS 机制。\n \n现在终于要合并了，以太坊社区，智能合约的参与者、开发者其实都是挺期待，这对于他们来说很友好。一方面以太坊通胀大概会减少 90%，GAS 也会降低，当然矿工收益也取消了；另一方面就是比之前更节能了。\n \nWayne：这里问下 Rory Hu，蚂蚁矿池应该是第一个明确表达自己态度的，从矿池的角度是怎么看合并这件事的？\n\n \nRory Hu：我们的态度很明确，就是继续支持 POW 生态。通过矿机挖矿来获得收益，就像打通了物理世界与数字世界的一个桥梁。以及 POW 的安全性很高，去中心化程度也很高，POS 相对更中心化，而且未来 POS 的逻辑会和 DPOS 越来越像，中心化程度会越来越高，抗审查性也会随之减弱，那监管问题将会越来越严重。\n \nMindao：我个人丝毫不担心…",
+          "link": "https://www.theblockbeats.info/news/31812",
+          "publishedOn": "2022-09-08T10:38:49.000Z",
+          "wordCount": null,
+          "title": "聊透以太坊合并分叉，普通投资者如何参与？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31813",
+          "author": null,
+          "description": "原文作者：0x214，BlockBeats\n\n\n\n\n知名创投公司 Y Combinator 每年推出 2 期孵化计划，从全球申请者中筛选出具有发展潜力的公司组成 Winter Batch 和 Summer Batch。入选项目将获得 YC 提供的 50 万美元种子轮融资、创业建议以及业内资源。在 YC 最新孵化计划 Summer 2022 Batch 中，240 个公司从 19,000 名申请者中脱颖而出，其中有 30 家加密初创公司入围，主要涉及 DeFi 解决方案（8 家）和加密衍生品领域。\n\n\n\n\nBlockBeats 对这 30 个项目进行梳理介绍，具体如下：\n\n\n\n\n\n\n\n\n\n\n\nTerrace\n\n\n\n\n\nTerrace 是一个合规的、一体化的基础设施层和交易 UI/终端，使机构能够安全访问 DeFi。Terrace 提供多个跨协议和跨链的 DeFi 资金池，用户可以经过配套的 API 和 UI 实现资金的无缝式流动。Terrace 旨在使投资者专注于投资本身。\n\n\n官网\n\n\nPing\n\n\n\n\n\nPing 为全球的承包商和自由职业者提供个人美元账户、加密货币账户的访问权限，并提供发票服务。通过使用 Ping，员工的平均报酬提高了 4%，并且可在当日结算。\n\n\n官网\n\n\nBlockscope\n\n\n\n\n\nBlockscope 是一个 Web3 数据平台，任何对链上数据感兴趣的人都能够快速启动数据管道，包括区块、交易、钱包、Token 和 NFT 数据等。用户可以使用软件管理服务进行数据分析、修订，并且可以将抓取数据嵌入自己的 app。Blockscope 旨在使每个人都可以轻松访问和利用链上数据。\n\n\n官网\n\n\nJasmine \n\n\n\n\n\nJasmine 是一个去中心化的气候资产市场平台，用户可以轻松索领、交易和兑换可再生能源信用额度（RECs）。\n\n\n\n\n官网\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/31813",
+          "publishedOn": "2022-09-08T10:25:49.000Z",
+          "wordCount": null,
+          "title": "30个新项目，Y Combinator最新孵化计划S22项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31806",
           "author": null,
           "description": "原文标题：《The Case for Parallel  Processing Chains》\n原文作者：Mohamed Fouda\n原文编译：深潮 TechFlow\n\n\n当我们重新审视区块链技术的演变时，可以看到一个强劲的趋势正在显现，即新的 L1 注重并行执行。\n\n\n这并不是什么新鲜技术，目前 Solana  就在 Sealevel 的执行环境中使用。\n\n\n然而，在过去的牛市中，DeFi 和 NFT  令人印象深刻的表现也让人们意识到，技术迫切需要改进。\n\n\n在下轮市场中，一些采用并行执行理念的著名项目即将出现，这些项目的名单是 Aptos 、Sui 、Linera  和 Fuel。\n\n\n本文将会讨论这些项目的异同，以及它们所面临的挑战。\n\n\n问题\n\n\n智能合约平台可以创建广泛的去中心化应用程序。为了执行这些应用，需要一个共享的计算引擎。网络中的每个节点都运行这个计算引擎，以及执行应用程序和用户与应用程序的互动。当节点从执行中得到相同的结果时，他们就会达成共识，并推动链的运转。\n\n\n以太坊虚拟机是最主要的智能合约（SC）执行引擎，有大约 20 种不同的实现方式。\n\n\n自 EVM 发明以来，它已经建立了开发人员采用的临界质量。\n\n\n除了以太坊和以太坊的 L2，其他几个链包括 Polygon 、BNB  智能链和 Avalanche  C 链都采用 EVM 作为执行引擎，并专注于改变共识机制以提高网络吞吐量。\n\n\nEVM 的一个主要限制性特征是交易的顺序执行。EVM 基本上是一次执行一个交易，将所有其他交易搁置，直到交易执行完毕，区块链状态被更新。即使两个交易是独立的，例如，从 Alice 到 Bob 的付款和从 Carol 到 Dave 的另一个付款，EVM 不能并行执行这些交易。虽然这种执行模式允许有趣的用例，如闪电借贷，但它既没有效率，也没有可扩展性。\n\n\n这种顺序执…",
