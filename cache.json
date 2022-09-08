@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "第36周链上数据分析：链上活动有恢复迹象，潜在抛售压力上升",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31783",
-          "author": null,
-          "description": "原文标题：《\n\nWeb3 基础设施协议如何尝试获取价值？\n\n》\n原文作者：Sami Kassab   \n原文编译：Block unicorn\n\n\n\n\n 关键的见解 \n\n\n\nBurn-and-Mint Equilibrium (BME) 模型和 Stake-for-Access (SFA) 模型是 Web3 基础设施协议使用的两种最常见的 Token 模型。它们解决了速度问题，并建立了网络使用和 Token 价格之间的关系。\n \n在使用 BME（燃烧 Token 访问服务）模型时，终端用户需要燃烧制协议的原生 Token 来访问服务，本质上将协议使用转化为 Token 购买力。\n \nSFA（质押 Token 访问服务）模型要求服务提供商质押协议的原生 Token 在网络上执行工作，这将网络参与转化为 Token 购买力。\n \nSFA 模型最适合于提供无差别商品服务的协议，而 BME 模型最适合于与商业运作类似的协议，因为它们可以自己定价，并在业务发展和合作中竞争。\n \n价值创造和价值累积并不是一回事。虽然加密货币在价值创造方面取得了成功，但该行业仍在摸索价值累积方面的问题。价值创造和价值累积之间的差距可以在 Uniswap 清楚地看到。虽然它是最受欢迎的去中心化交易平台（DEX），拥有最大的交易量，但 Uniswap 的 Token 一直在努力累积价值，因为它的唯一效用是协议治理。\n \n在过去的几年里，服务于 Web3 堆栈中间件层的基础设施协议出现了爆炸性增长。他们都面临着将网络的使用与 Token 价格相一致的挑战。本报告评估了 Web3 基础设施协议用来获取价值的两种最流行的实用 Token 模型：Burn-and-Mint Equilibrium (BME) 模型和 Stake-for-Access (SFA) 模型。\n \n投资者普遍认为，如果协议的实用 Token …",
-          "link": "https://www.theblockbeats.info/news/31783",
-          "publishedOn": "2022-09-05T14:41:38.000Z",
-          "wordCount": null,
-          "title": "探讨Web3基础设施协议：Token价值创造与价值累积",
-          "imageUrl": null
         }
       ]
     },
