@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31822",
+          "author": null,
+          "description": "揭秘一级市场熊市投资偏好：游戏、NFT及元宇宙",
+          "link": "https://www.theblockbeats.info/news/31822",
+          "publishedOn": "2022-09-09T14:28:10.000Z",
+          "wordCount": null,
+          "title": "揭秘一级市场熊市投资偏好：游戏、NFT及元宇宙",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31821",
           "author": null,
           "description": "原文作者：0x_d24.eth\n原文编译：wzp，BlockBeats\n\n\n\n\n本文梳理自加密爱好者 0x_d24.eth 在个人社交媒体平台上的观点，BlockBeats 对其整理翻译如下：\n\n\n\n\n Arbitrum 没有发币、没有 TVL 激励，也没有生态基金，但它是采取 Rollup 架构的 L2 中最强大的 DeFi 生态。下文列出了一些即将上线 Arbitrum 且令人眼前一亮的项目。\n\n\n DeFi 投资市场 STFX\n\n\n\n\nSTFX 融合 SocialFi 和 DeFi 的属性，旨在打造一个以社交、游戏化方式进行的短期交易基金市场。STFX 最初计划首先上线 Optimism，相信他们已经改变想法，将首先上线 Arbitrum，然后上线 Optimism。\n\n\n官网\n\n\n挂钩资产 DeFi 协议 Y2K Finance\n\n\n客观上 Stablecoin 是加密领域最大且最广泛接受的用例之一，Y2K Finance 围绕防止 Stablecoin 脱钩生成一套结构化产品，并创建市场。目前测试网已上线。Y2K Finance 使用户能够对特定挂钩资产（或一篮子挂钩资产）的风险进行稳健的对冲或投机，且为一套结构化产品，而非单一机制。\n\n\n\n\n官网\n\n\n\n\n全链 ETH 衍生品交易平台 Rage Trade\n\n\nRage Trade 是一个全链 ETH 衍生品交易平台，从 Curve、GMX 等利用现有的流动性池中 Token，以提供一个具有超级流动的 ETH 衍生品交易平台。Rage Trade 的 Tri-crypto 金库近日推出。\n\n\n\n\n官网\n\n\nDeFi 借贷协议 dAMM Finance\n\n\ndAMM Finance 将于本周上线以太坊主网，随后将上线 Arbitrum。他们会利用链上数据透明化向做市商提供的抵押不足的贷款，并专门借贷山寨币。据悉，dAMM Finance 允许做市商和投资者从平台上具有流动性池的任何 Token 向 dAMM 借款，并在集中式和分散式交易场所与做市商进行交易。他们将推出一些令人兴奋的更新，包括将上线 Berachain。\n\n\n官网\n\n\n到期期货协议 Contango\n\n\n\n\n\n\n\nContango 将是第一个链上到期期货平台。Contango 会有庞大的交易市场，想想期货合约的受欢迎程度。两者有较大相似性，前者只是已期满。\n\n\n\n\n官网\n\n\nNFT 流动性平台 GumBall Protocol\n\n\nGumBall Protocol 是一个 NFT 启动和流动性平台，可以出售、交换和借入 NFT。Gumball Token 与基础 Token 组成对应 NFT 的联合曲线的储备，联合曲线即为具有两个 Token 储备的恒定函数做市商。GumBall Protocol 也将上线 Berachain。\n\n\n官网\n\n\n全链 DEX 聚合器 Split Protocol\n\n\n全链 DEX 聚合器 Split Protocol 具有自动套利利润分享、MEV 保护、创新交易工具和自定义 RPC 功能。将于本月晚些时候推出。\n\n\n官网\n\n\n订单簿式 DEX Vertex\n\n\nVertex 是一个包含现货、合约期货、货币市场的订单簿式 DEX，最初计划上线 Terra，最终决定上线 Arbitrum。\n\n\n官网\n\n\nNFT 衍生品交易平台 nftperp\n\n\n用户可以通过 nftperp 的 NFT 永续合约 DEX 做多、做空或对冲 NFT 头寸。在 BendDAO 引发 BAYC 死亡螺旋等时期，我们需要 NFT 合约。\n\n\n官网\n\n\nDeFi 协议 3xcalibur\n\n\n3xcalibur 协议内集成注重稳定性的 DEX，刚刚完成 Token 公售，预计将在几个月内上线。考虑到 OP 季期间的VELO，XCAL以 900 万美元的完全稀释市值 (FDV) 进行销售。Arbitrum 季值得期待。\n\n\n官网\n\n\nDEX 平台 GammaSwap\n\n\nGammaSwap 是一个免费的 DEX，使用户能够交换/押注波动率，即 gamma。其核心是一种对冲 IL 的新方法，或者是交易者/LPs 对波动性进行定向押注的一种方式\n\n\n官网\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -113,26 +123,6 @@
           "publishedOn": "2022-09-07T09:40:55.000Z",
           "wordCount": null,
           "title": "Helium COO回应质疑：HNT会归零吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31799",
-          "author": null,
-          "description": "原文标题：《Tangent Fireside Chat: Ex Top Fund Investors on Crypto Investing - Jason Choi, Darryl Wang, Mable Jiang Ep. 209》\n原文来源：The Blockcrunch Podcast\n原文编译：Yuan，深潮 TechFlow\n\n\n7 月，前 Spartan Group 合伙人 Jason Choi 宣布与前 DeFiance Capital 高管 Wangarian 共同创立加密创投俱乐部 Tangent，Multicoin Capital 前合伙人 Mable Jiang 也加入其中，成为顾问。\n\n\n\n\n在最近的 The Blockcrunch Podcast 中，三位加密 VC 前合伙人畅谈 Tangent 的成立，对于杀手级应用的看法，如何评估优秀的创始人，当下正在关注的赛道和领域，对熊市和下一个周期的预测……\n\n\n\n\n比如，在 Mable 看来，下一波加密爆发可能出现在 B2C 应用领域，这需要拥有一个足够吸引人的 UI 或前端，这可以聚合各种其他协议，核心叙事在于捕获更多用户。播客带来诸多启发和思考，由深潮 TechFlow 志愿者 Yuan 整理核心笔记与大家分享。 \n\n\n\n\n\n离开 Crypto Fund\n\n\nDarryl Wang：2021 年年底，我发现自己想在传统基金中做频次更高的加密货币投资。我意识到有几个痛点是 VC 或 Crypto VC 不一定能解决的。 \n\n\n于是我和 Jason 开始构建一个可以真正解决这些痛点的投资实体——Tangent。为了做到这一点，我们需要牺牲投注的数量，并集中投资组合，确保可以坐下来处理（被投资的）公司的每一个部分，最终真正帮助创始人解决早期亟待解决的问题。\n\n\n我将 Tangent 看作是一种服务或产品…",
-          "link": "https://www.theblockbeats.info/news/31799",
-          "publishedOn": "2022-09-07T03:23:09.000Z",
-          "wordCount": null,
-          "title": "3位前加密VC合伙人畅谈：下一周期的思考与预测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31798",
-          "author": null,
-          "description": "原文标题：《数字资产行业的内驱力探讨与演进逻辑分析》\n原文来源：\n\nArcane Labs\n\n\n\n数字资产行业经历十多年的发展，从一个少部分极客和理想主义人群的社会实践，经历几轮的跌宕起伏，发展到今天这样一个让各个国家、政府、机构、大学、社群、个人都开始关注、了解，并参与其中的新兴产业，期间充斥着各种理想主义，怀疑否定，造富运动，泡沫破裂，金融创新，监管合规等多种力量的博弈。加上整体社会宏观经济，技术发展，监管政策的影响，形成了一个多元分化，群雄逐鹿，自我迭代的新兴市场。\n\n\n本文站在加密原生从业者的角度，期望通过研究分析行业驱动的核心因素，以及自我迭代的进程和方向，初步探讨行业投资的模式和框架，并尝试梳理初步的投资收益分析工具，以便更加客观和理性地预测投资收益，有效控制极端风险。\n\n\n# 目录\n\n\n第一部分：数字资产行业发展的内外部驱动力\n1.1 外在驱动力\n1.1.1 主权货币的信任危机\n1.1.2 开放式金融体系的社会性需求\n1.1.3 金融产品创新的社会实践\n1.2 内在驱动力\n1.2.1 对于理想主义者的吸引：IT 极客和金融投资者的独立宣言\n1.2.2 对于理想社会的追求：民主，开放，自治，共识，隐私\n1.2.3 对于人性的底层需求：贪婪和投机\n\n\n第二部分：数字资产行业发展的演进逻辑和方向\n2.1 性能和效率驱动\n2.2 金融资产和模式驱动\n2.3 流动性和叙事驱动\n2.4 安全和隐私驱动\n\n\n第三部分：数字资产行业的核心风险规律\n3.1 信任风险\n3.2 流动性枯竭风险\n3.3 合规和监管风险\n\n\n第四部分：规律总结和模型初建\n\n\n#1 数字资产行业发展的内外部驱动力\n\n\n数字资产行业是这样一个有争议的行业，每一次周期底部都伴随着质疑和嘲笑，然后体现其顽强的生命力，在下一轮周期里，可以进一步发展壮大，带来更大的财富效应，又进一步吸引更多的人进圈。到底有哪些核…",
-          "link": "https://www.theblockbeats.info/news/31798",
-          "publishedOn": "2022-09-07T03:07:09.000Z",
-          "wordCount": null,
-          "title": "数字资产行业的内驱力探讨与演进逻辑分析",
           "imageUrl": null
         }
       ]
