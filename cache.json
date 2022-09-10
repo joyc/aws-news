@@ -94,36 +94,6 @@
           "wordCount": null,
           "title": "Multicoin解读Helium新代币：MOBILE与HNT有何不同？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31804",
-          "author": null,
-          "description": "原文标题：《Who's Gonna Protect You from MEV after the Merge?》\n原文来源：Integral 官网\n原文作者：0xWailord\n原文编译：0x711，BlockBeats\n\n\n\n\n每个人都在期待以太坊合并事件，这一事件预计在 9 月 15 日发生。\n\n\n\n\n\n\n\n有一个老生常谈的话题：MEV（最大可提取价值），从三明治攻击到剥削 NFT 卖家。这一次，话题的核心是 MEV 和 Merge，即将到来的 PoS 时代的可提取价值是否还有未来。\n\n\n\n\n在 PoS 机制中，有能力提取 MEV 的是质押者，而不是矿工。虽然一些质押者可能不为所动，但研究表明，在质押时进行 MEV 可以将利润提高 2-3 倍。\n\n\n\nMEV 奖励可以让你的 ETH 质押获得 2-3 倍的回报\n\n\n\n\n这意味着任何不这样做的质押者都是跟钱过不去，而且这可能稀释他们在网络中的质押权益。为了让质押者更容易获得 MEV 的回报，Flashbots 团队发布了名为 mev-boost 的软件。就像当前的 Flashbots 系统一样，mev-boost 将 MEV 交易提供给区块打包者，但有一些关键区别。\n\n\n \n最重要的是，mev-boost 只提供完整的区块。Flashbots 曾表示，这是为了防止抢跑交易或防止区块打包者被搜索者（searchers）窃取利润。（搜索者指的是伺机将可能盈利的 MEV 机会打包到区块中的参与者）所以 Flashbots 不希望区块打包者读取区块内容。他们可以自己重新创建和提交区块，但不会给搜索者分一杯羹。因此，obfuscation 的理由很合理，但它也带来了争议。\n\n\n \n一方面，mev-boost 存在中心化风险。它的工作原理有点像一个集市。搜索者将交易放在一起，并将完整的区块提交给 Flashbot 运行的 API 中继。然后中继对区块进行一些检查并将其传递给区块打包者。区块打包者（合并后将成为质押者）提取完整区块并将它们添加到区块链中。合并后，或许只存在符合 OFAC 要求并对交易进行审查的中继。\n\n\n\n\n这引出了以太坊网络始终存在问题。例如，为什么网络基本上将区块打包交给一个中心化实体，而该实体可能会因为政治风险而排除敏感交易？这些问题在近期的以太坊开发者会议上被提出来。\n\n\n\n\n以太坊核心开发者 Tim Berko 也对此做出了回应。一些人提议建议将 mev-boost 排除在外，甚至还有人建议推迟合并。\n\n\n\n\n值得称赞的是，Flashbots 团队的回应是开源 mev-boost。但这可能还不够。运行中继和寻找 MEV 机会是一项艰巨的工作。对于以太坊质押服务提供商来说，运行上述软件的需求很大。\n\n\n\n\n无论如何，我们希望质押者能够利用 MEV 机会，无论是否有 Flashbot 的帮助。获得的奖励是相当丰厚的。此外，MEV 只会增加质押 ETH 的收益。\n\n\n \n作为回应，许多其他中继提供商正在涌现，以太坊社区将如何在合并后的世界中处理 MEV 还有待观察。Integral 会密切关注事态发展。\n\n\n\n\n\n\n\n原文链接 \n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31804",
-          "publishedOn": "2022-09-07T09:40:55.000Z",
-          "wordCount": null,
-          "title": "合并后的MEV：质押ETH的新收益来源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31803",
-          "author": null,
-          "description": "原文作者：Mohamed Fouda,Volt Capital合伙人\n原文编译：深潮 TechFlow\n\n\n\n\n\n当我们重新审视区块链技术的演变时，可以看到一个强劲的趋势正在显现，即新的 L1 注重并行执行。这并不是什么新鲜技术，目前 Solana 就在 Sealevel 的执行环境中使用。\n\n\n然而，在过去的牛市中，DeFi 和 NFT 令人印象深刻的表现也让人们意识到，技术迫切需要改进。在下轮市场中，一些采用并行执行理念的著名项目即将出现，这些项目的名单是 Aptos、Sui、Linera 和 Fuel。\n\n\n本文将会讨论这些项目的异同，以及它们所面临的挑战。\n\n\n问题\n\n\n智能合约平台可以创建广泛的去中心化应用程序。为了执行这些应用，需要一个共享的计算引擎。网络中的每个节点都运行这个计算引擎，以及执行应用程序和用户与应用程序的互动。当节点从执行中得到相同的结果时，他们就会达成共识，并推动链的运转。\n\n\n以太坊虚拟机是最主要的智能合约（SC）执行引擎，有大约 20 种不同的实现方式。自 EVM 发明以来，它已经建立了开发人员采用的临界质量。除了以太坊和以太坊的 L2，其他几个链包括 Polygon、BNB 智能链和 Avalanche C 链都采用 EVM 作为执行引擎，并专注于改变共识机制以提高网络吞吐量。\n\n\nEVM 的一个主要限制性特征是交易的顺序执行。EVM 基本上是一次执行一个交易，将所有其他交易搁置，直到交易执行完毕，区块链状态被更新。即使两个交易是独立的，例如，从 Alice 到 Bob 的付款和从 Carol 到 Dave 的另一个付款，EVM 不能并行执行这些交易。虽然这种执行模式允许有趣的用例，如闪电借贷，但它既没有效率，也没有可扩展性。\n\n\n这种顺序执行交易是网络吞吐量的主要瓶颈之一：首先，它导致区块中的交易执行时间更长，限制了区块时间；此外，它限…",
-          "link": "https://www.theblockbeats.info/news/31803",
-          "publishedOn": "2022-09-07T09:40:55.000Z",
-          "wordCount": null,
-          "title": "以Aptos等新公链为例，详解Layer1并行执行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31802",
-          "author": null,
-          "description": "原文标题：《tl;dr on HIP 70: HNT Ecosystem Would Expand on Solana》\n原文作者：Helium 首席运营官 Frank Mong\n原文编译：0x214，BlockBeats\n\n\n\n\n8 月 31 日，去中心化无线通信网络 Helium 核心开发者发起 HIP 70 提案，计划将网络从 Helium 的定制区块链迁移至 Solana，旨在提高 Helium 的速度、稳定性和规模。Helium 首席运营官 Frank Mong 发布文章解读 HIP70，回答社区相关质疑。BlockBeats 对此整理翻译如下：\n\n\n\n\n\n\n\nHelium 的核心使命一直是通过无处不在、价格合理的网络，将所有事物和人连接起来。在成立后短短 3 年之内，Helium 已经达成了不少成就：\n\n\n\n\n- Helium 是世界上最大的物联网 IoT 网络，在 72000 个城市和 182 个国家部署了 94.3 万个热点。\n\n\n- 不足一个月之前，Helium 推出 MOBILE Token 作为 5G 热点的奖励。随后，近 4000 个 Helium 5G 无电台在美国 48 个州被部署。\n\n\n- 8 月，Helium 网络传输的数据包数量接近 1 亿。\n\n\n\n\n8 月 31 日，去中心化无线通信网络 Helium 核心开发者发起 HIP 70 提案，计划将网络从 Helium 的定制区块链迁移至 Solana。HIP70 旨在为 Helium 扩容，以满足网络建设者和用户当前及未来的需求，且与 Helium 项目初衷保持一致。为了实现这一目标，HIP 70 提出了全新的 PoC 覆盖证明（Proof-of-Coverage）和数据传输架构，并将从定制区块链迁移至 Layer 1 区块链 Solana。\n\n\n\n\n本提案中有不少值得深入解读的内容，本文旨…",
-          "link": "https://www.theblockbeats.info/news/31802",
-          "publishedOn": "2022-09-07T09:40:55.000Z",
-          "wordCount": null,
-          "title": "Helium COO回应质疑：HNT会归零吗？",
-          "imageUrl": null
         }
       ]
     },
