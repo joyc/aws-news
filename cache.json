@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31819",
+          "author": null,
+          "description": "第15轮Gitcoin Grants还有哪些有意思的项目",
+          "link": "https://www.theblockbeats.info/news/31819",
+          "publishedOn": "2022-09-10T03:45:36.000Z",
+          "wordCount": null,
+          "title": "第15轮Gitcoin Grants还有哪些有意思的项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31822",
           "author": null,
           "description": "揭秘一级市场熊市投资偏好：游戏、NFT及元宇宙",
@@ -73,26 +83,6 @@
           "publishedOn": "2022-09-08T10:25:49.000Z",
           "wordCount": null,
           "title": "30个新项目，Y Combinator最新孵化计划S22项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31806",
-          "author": null,
-          "description": "原文标题：《The Case for Parallel  Processing Chains》\n原文作者：Mohamed Fouda\n原文编译：深潮 TechFlow\n\n\n当我们重新审视区块链技术的演变时，可以看到一个强劲的趋势正在显现，即新的 L1 注重并行执行。\n\n\n这并不是什么新鲜技术，目前 Solana  就在 Sealevel 的执行环境中使用。\n\n\n然而，在过去的牛市中，DeFi 和 NFT  令人印象深刻的表现也让人们意识到，技术迫切需要改进。\n\n\n在下轮市场中，一些采用并行执行理念的著名项目即将出现，这些项目的名单是 Aptos 、Sui 、Linera  和 Fuel。\n\n\n本文将会讨论这些项目的异同，以及它们所面临的挑战。\n\n\n问题\n\n\n智能合约平台可以创建广泛的去中心化应用程序。为了执行这些应用，需要一个共享的计算引擎。网络中的每个节点都运行这个计算引擎，以及执行应用程序和用户与应用程序的互动。当节点从执行中得到相同的结果时，他们就会达成共识，并推动链的运转。\n\n\n以太坊虚拟机是最主要的智能合约（SC）执行引擎，有大约 20 种不同的实现方式。\n\n\n自 EVM 发明以来，它已经建立了开发人员采用的临界质量。\n\n\n除了以太坊和以太坊的 L2，其他几个链包括 Polygon 、BNB  智能链和 Avalanche  C 链都采用 EVM 作为执行引擎，并专注于改变共识机制以提高网络吞吐量。\n\n\nEVM 的一个主要限制性特征是交易的顺序执行。EVM 基本上是一次执行一个交易，将所有其他交易搁置，直到交易执行完毕，区块链状态被更新。即使两个交易是独立的，例如，从 Alice 到 Bob 的付款和从 Carol 到 Dave 的另一个付款，EVM 不能并行执行这些交易。虽然这种执行模式允许有趣的用例，如闪电借贷，但它既没有效率，也没有可扩展性。\n\n\n这种顺序执…",
-          "link": "https://www.theblockbeats.info/news/31806",
-          "publishedOn": "2022-09-07T14:02:28.000Z",
-          "wordCount": 1283,
-          "title": "新公链如何实现并行执行：Aptos、Sui、Linera、Fuel",
-          "imageUrl": "https://image.theblockbeats.info/other/mob/favlogo.png"
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31807",
-          "author": null,
-          "description": "原文作者：Tushar Jain，Multicoin 合伙人\n原文编译：深潮 TechFlow\n\n\nHelium 最近推出了一个新的Token，MOBILE。人们对这个新Token与 HNT 的关系一直有所疑问，在这里让我来解释一下它们之间的关系。\n\n\n· HNT 仍然是 Helium 生态系统中的主要经济资产，支付网络数据传输费用的唯一方法是燃烧 HNT。\n\n· MOBILE 是 Helium subDAO 治理Token，目的是实现治理的分离。\n\n\nsubDAO 还将有一个带有自己的Token的 IOT subDAO：IOT。每个无线网络 subDAO 都可以分开治理，以方便 DAO 做出更好的决策。\n\n\n每个 Helium subDAO 都管理着自己的 Proof-of-Coverage 规则、数据定价和热点挖掘奖励分配机制。这种治理是通过使用 subDAO Token投票完成的：MOBILE 或 IOT。\n\n\n未来将会有更多的 Helium subDAOs 用于新的无线技术。\n\n\nHelium 5G 热点赚取的是 MOBILE 而不是 HNT。这是否意味着 MOBILE 正在蚕食 HNT 的价值？\n\n\n不。\n\n\n在 Helium 网络中支付数据传输费用的唯一方法是燃烧 HNT。这意味着，HNT 仍然保持与它一直相同的燃烧和铸造平衡。\n\n\n那么，MOBILE Token的价值从何而来？MOBILE 有价值的原因有 2 个：\n\n\n1. 可通过程序化国库赎回 HNT；\n2. 在 subDAO 中的效用，目前，只有治理。在未来，可能会有更多的效用，例如用质押来提高覆盖参与的热点证明。\n\n\nMOBILE 的赎回价格是如何计算的？\n\n\n所有 5G 热点在规定时间内赚取的 HNT 奖励都被分配到一个池中，MOBILE 持有者可以燃烧他们的 MOBILE 以获得在池中按比例分配的 HNT。\n\n\n例如，如果所有的 5G 热点共获得 100 个 HNT，并且有 10,000 MOBILE 未使用，则意味着您可以燃烧 100 MOBILE 来获得 1 HNT。\n\n\n这种架构为 MOBILE 提供了一个价值底价，MOBILE 可以根据其效用在其地板价之上进行交易。\n\n\n综上所述，HNT 的价值获取并没有改变。只是有一个新的 subDAO 代币层，例如 MOBILE，它将允许 Helium 社区更有效地管理许多无线网络。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31807",
-          "publishedOn": "2022-09-07T14:02:28.000Z",
-          "wordCount": null,
-          "title": "Multicoin解读Helium新代币：MOBILE与HNT有何不同？",
           "imageUrl": null
         }
       ]
