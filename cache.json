@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31827",
+          "author": null,
+          "description": "原文标题：《Web3 Social: A booming space with an identity crisis》\n原文作者：lingchenjaneliu，Fundamental Labs 研究员\n原文编译：老雅痞\n本文来自微信公众号：老雅痞\n\n\n摘要：\n\n\n・现有的 Web2 社交网络平台引发了数据和安全漏洞、舆论操纵、虚假信息传播等问题。\n\n\n・根据公共区块链上的互操作标准创建的数字资产是可移植且可转移的，因此用户历史记录不会停留在特定平台上。\n\n\n・Web3 的一个核心哲学原则是，除了通过资本之外，还有更多的方式来为生态系统提供价值——价值应该能够被赚取，而不仅仅是被购买。\n\n\n・开放式社交堆栈包括数据基础设施 (去中心化存储和数据层)、中间件 (数字身份、社交图谱和认证协议) 和社交应用程序。\n\n\n・社交网络平台经常会面临冷启动的问题。有了开放的社交堆栈，新平台可以利用中间件开发产品，并快速测试产品与市场的契合度。\n\n\n・去中心化社交最需要解决的问题是动态数据的去中心化存储。Ceramic Network 及 Tableland 等协议正在应对这一挑战。\n\n\n・每个社交网络都依赖于一个社交图谱。Lens Protocol 和 CyberConnect 是构建具有强大生态系统的开放式社交图谱的领先协议。\n\n\n・Web3 帐户和身份所面临的挑战在于 Web3 中的钱包、帐户和身份没有被明确定义，且数字身份项目的实施经常会混合这三个概念。\n\n\n・应该有一个身份架构来帮助用户访问 Web3 应用程序。这包括了在不同场景中使用的公共身份、代理身份和主身份。\n\n\n・我们看到的挑战：1) 经济激励驱动的社交;2) 数据可组合性没有我们想象的那么容易;3) 糟糕的用户体验导致了较小的用户基数;4) 没有解决痛点，为用户创造价值\n\n\n・只有在现有的基于地址的身份转变为基于个人的…",
+          "link": "https://www.theblockbeats.info/news/31827",
+          "publishedOn": "2022-09-11T05:44:43.000Z",
+          "wordCount": null,
+          "title": "全面解析Web3社交：深层次的链上社交将成为可能！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31825",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《全球第八大稳定币为什么一直在脱锚？》\n\n\n \nNeutrino 又脱锚了，在 8 月 25 日达到了$0.939。截至截稿期 2022 年 9 月 4 日，Neutrino 正在$0.925 区间交易。Neutrino USD（USDN）按照稳定币市值目前在 Coinmarketcap 上排名为第 9，体量约为$6.3 亿，是稳定币市场不可忽视的一股区域和全球力量。Neutrino 又被称为「俄罗斯的以太坊」，主要支持庞大的 Waves 生态系统的交易。\n\n\n这并不是 USDN 第一次脱锚，仅在 2022 年，Neutrino 此前就已经脱锚了三次。在 8 月 5 日与 CoinDesk 的视频连线里，Sasha Ivanov 表示，Neutrino 按照上述步骤革新之后，将不会再出现脱锚情况。那么内卷时代的算法稳定币，以后怎么稳？\n\n\n \n《解读 Binance 自动兑换 BUSD：携手打击 USDT》\n\n\n \n5 日，Binance 官方发布公告称，为了提高用户的流动性和资金使用效率，Binance 对用户现有的 USDC、USDP、TUSD Stablecoin 余额和新充值将以 1:1 的比例自动兑换为 BUSD。Wintermute CEO Evgeny Gaevoy 认为大多数新闻没有正确揭示这一事件对 USDC 的影响，作出了 4 点澄清。\n\n\n \n《Web3 自学指南：14 条熊市学习建议》\n\n\n \n在加密世界迷失方向实在是太常见不过了，DeFi 研究员 The DeFi Edge 在个人社交媒体总结了 14 …",
