@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31825",
+          "author": null,
+          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《全球第八大稳定币为什么一直在脱锚？》\n\n\n \nNeutrino 又脱锚了，在 8 月 25 日达到了$0.939。截至截稿期 2022 年 9 月 4 日，Neutrino 正在$0.925 区间交易。Neutrino USD（USDN）按照稳定币市值目前在 Coinmarketcap 上排名为第 9，体量约为$6.3 亿，是稳定币市场不可忽视的一股区域和全球力量。Neutrino 又被称为「俄罗斯的以太坊」，主要支持庞大的 Waves 生态系统的交易。\n\n\n这并不是 USDN 第一次脱锚，仅在 2022 年，Neutrino 此前就已经脱锚了三次。在 8 月 5 日与 CoinDesk 的视频连线里，Sasha Ivanov 表示，Neutrino 按照上述步骤革新之后，将不会再出现脱锚情况。那么内卷时代的算法稳定币，以后怎么稳？\n\n\n \n《解读 Binance 自动兑换 BUSD：携手打击 USDT》\n\n\n \n5 日，Binance 官方发布公告称，为了提高用户的流动性和资金使用效率，Binance 对用户现有的 USDC、USDP、TUSD Stablecoin 余额和新充值将以 1:1 的比例自动兑换为 BUSD。Wintermute CEO Evgeny Gaevoy 认为大多数新闻没有正确揭示这一事件对 USDC 的影响，作出了 4 点澄清。\n\n\n \n《Web3 自学指南：14 条熊市学习建议》\n\n\n \n在加密世界迷失方向实在是太常见不过了，DeFi 研究员 The DeFi Edge 在个人社交媒体总结了 14 …",
+          "link": "https://www.theblockbeats.info/news/31825",
+          "publishedOn": "2022-09-11T02:33:10.000Z",
+          "wordCount": null,
+          "title": "本周热文：Y Combinator最新孵化计划30个新项目；HNT会归零吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31824",
           "author": null,
           "description": "在津巴布韦市场，我学到的投资7件事",
@@ -63,16 +73,6 @@
           "publishedOn": "2022-09-09T04:13:15.000Z",
           "wordCount": null,
           "title": "ETH合并在即，EtherPOAP与你一起见证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31814",
-          "author": null,
-          "description": "原文标题：《Solidity 极简入门: 26. 删除合约》\n原文作者：0xAA\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\nselfdestruct\n\n\nselfdestruct（自毁）命令可以用来删除智能合约，并将该合约剩余 ETH 转到指定地址。selfdestruct 是为了应对合约出错的极端情况而设计的。它最早被命名为 suicide（自杀），但是这个词太敏感。为了保护抑郁的程序员，改名为 selfdestruct。\n\n\n如何使用 selfdestruct\n\n\nselfdestruct 使用起来非常简单：\n\n\n\n\n\n其中_addr 是接收合约中剩余 ETH 的地址。\n\n\n例子  \n\n\n\n\n\n在 DeleteContract 合约中，我们写了一个 public 状态变量 value，两个函数：getBalance() 用于获取合约 ETH 余额，deleteContract() 用于自毁合约，并把 ETH 转入给发起人。\n\n\n部署好合约后，我们向 DeleteContract 合约转入 1 ETH。这时，getBalance() 会返回 1 ETH，value 变量是 10。\n\n\n当我们调用 deleteContract() 函数，合约将自毁，所有变量都清空，此时 value 变为默认值 0，getBalance() 也返回空值。\n\n\n总结\n\n\nselfdestruct 是智能合约的紧急按钮，销毁合约并将剩余 ETH 转移到指定账户。当著名的 The DAO 攻击发生时，以太坊的创始人们一定后悔过没有在合约里加入 selfdestruct 来停止黑客的攻击吧。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31814",
-          "publishedOn": "2022-09-08T14:05:32.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门｜第二十六讲：删除合约",
           "imageUrl": null
         }
       ]
