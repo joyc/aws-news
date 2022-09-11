@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31828",
+          "author": null,
+          "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\n\n\n\n\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n\n推荐文章: 《Bitcoin, Blockchain, and Cryptoassets》\n\n\n\n\n推荐人：傅卓蕊\n\n\n\n\n\n\n\n推荐理由：巴塞尔大学的两位在这方面很有名的教授写的。学界对币圈的研究也非常深，深入浅出的一本书。\n\n\n\n\n推荐文章：《Delphi Labs: 为何我们将研发重点聚焦在 Cosmos 生态》\n\n\n\n\n推荐人：比得潘\n\n\n\n\n推荐理由：此前，Delphi Labs 团队主要专注于研究和开发 Terra 上的协议。但由于 Terra 的崩溃，和基于对 DeFi 的关注、如何构建它的愿景，以及对多链方向的发展，包括由此产生的对跨链的重视，Delphi Labs 不得不吸取教训重新做出选择。\n\n\n在文中，Delphi 比较了多种不同的区块链生态，如以太坊 / L2、Avalanche 子网、 Polkadot 、Near 和 Solana 等。最后，Delphi Labs 决定将其研发工作集中在 …",
+          "link": "https://www.theblockbeats.info/news/31828",
+          "publishedOn": "2022-09-11T13:10:29.000Z",
+          "wordCount": null,
+          "title": "BlockBeats荐读｜每周媒体作者们都在看什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31827",
           "author": null,
           "description": "原文标题：《Web3 Social: A booming space with an identity crisis》\n原文作者：lingchenjaneliu，Fundamental Labs 研究员\n原文编译：老雅痞\n本文来自微信公众号：老雅痞\n\n\n摘要：\n\n\n・现有的 Web2 社交网络平台引发了数据和安全漏洞、舆论操纵、虚假信息传播等问题。\n\n\n・根据公共区块链上的互操作标准创建的数字资产是可移植且可转移的，因此用户历史记录不会停留在特定平台上。\n\n\n・Web3 的一个核心哲学原则是，除了通过资本之外，还有更多的方式来为生态系统提供价值——价值应该能够被赚取，而不仅仅是被购买。\n\n\n・开放式社交堆栈包括数据基础设施 (去中心化存储和数据层)、中间件 (数字身份、社交图谱和认证协议) 和社交应用程序。\n\n\n・社交网络平台经常会面临冷启动的问题。有了开放的社交堆栈，新平台可以利用中间件开发产品，并快速测试产品与市场的契合度。\n\n\n・去中心化社交最需要解决的问题是动态数据的去中心化存储。Ceramic Network 及 Tableland 等协议正在应对这一挑战。\n\n\n・每个社交网络都依赖于一个社交图谱。Lens Protocol 和 CyberConnect 是构建具有强大生态系统的开放式社交图谱的领先协议。\n\n\n・Web3 帐户和身份所面临的挑战在于 Web3 中的钱包、帐户和身份没有被明确定义，且数字身份项目的实施经常会混合这三个概念。\n\n\n・应该有一个身份架构来帮助用户访问 Web3 应用程序。这包括了在不同场景中使用的公共身份、代理身份和主身份。\n\n\n・我们看到的挑战：1) 经济激励驱动的社交;2) 数据可组合性没有我们想象的那么容易;3) 糟糕的用户体验导致了较小的用户基数;4) 没有解决痛点，为用户创造价值\n\n\n・只有在现有的基于地址的身份转变为基于个人的…",
@@ -73,16 +83,6 @@
           "publishedOn": "2022-09-09T09:27:16.000Z",
           "wordCount": null,
           "title": "12个链上潜在空投的永续合约项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31816",
-          "author": null,
-          "description": "早在 2022 年 1 月，Vitalik 撰写了一篇名为「Soulbound（灵魂绑定）」的文章。在文章中，Vitalik 以魔兽世界游戏为例，谈及了无法转让和交易的道具，从而引申到可灵魂绑定的 NFT（SBT）上。\n\n\n \n随后，在 5 月，Vitalik 又联合微软研究院 E. Glen Weyl、Flashbots 研究员 Puja Ohlhaver 发布了「Decentralized Society: Finding Web3's Soul（去中心化社会：寻找 Web3 的灵魂）」。在该论文中，主要对去中心化社会做出大胆的设想，并提出了几种 SBT 在 Web3 中的应用场景。\n\n\n \n我们在加密世界的经历，终于有了一种全新的方式记录。\n\n\n \n出席证明，记录历史\n\n\n \n伴随着 Web3 的兴起，将自己身份构建于其上成为了一股新的风潮，DID 概念由此而生。在 DID 领域，NFT 有着至关重要的地位。\n\n\n \n在 NFT 发展早期，NFT 更多是一种财富或是地位的象征。如持有 CryptoPunks 的用户会被社区认为这是 Crypto 早期最初始的用户（OG 用户）。随着越来越多社交平台 Instagram、Twitter 支持 NFT 的展示，这一类型的 NFT 正不断展示出其炫耀价值。\n\n\n \n事实上，大部分用户并未思考过，持有 CryptoPunks 的用户是通过二级市场购买的 NFT 还是真实早期 Crypto 用户。在「灵魂绑定」一文，Vitalik 表示，POAP 或许是 NFT 应用中较好的例子用于解决该问题。\n\n\n \nPOAP 全称 Proof of Attendance Protocol，意为出席证明协议，这是一种标准。有声望的机构可以发行 NFT 或 POAP 以表示某个灵魂参与、出席过某个会议，亦或者具备某些工作经历、学历证书等等。这一…",
-          "link": "https://www.theblockbeats.info/news/31816",
-          "publishedOn": "2022-09-09T04:13:15.000Z",
-          "wordCount": null,
-          "title": "ETH合并在即，EtherPOAP与你一起见证",
           "imageUrl": null
         }
       ]
