@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-12T00:47:00.166Z</updated>
+    <updated>2022-09-12T06:48:18.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Destroy and...让Web3新潮流梦想落地]]></title>
+        <id>https://www.theblockbeats.info/news/31826</id>
+        <link href="https://www.theblockbeats.info/news/31826"/>
+        <updated>2022-09-12T02:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Destroy and...让Web3新潮流梦想落地]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlockBeats荐读｜每周媒体作者们都在看什么？]]></title>
         <id>https://www.theblockbeats.info/news/31828</id>
@@ -190,16 +200,6 @@ Neutrino 又脱锚了，在 8 月 25 日达到了$0.939。截至截稿期 2022 �
         <link href="https://www.theblockbeats.info/news/31819"/>
         <updated>2022-09-10T03:45:36.000Z</updated>
         <summary type="html"><![CDATA[第15轮Gitcoin Grants还有哪些有意思的项目]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘一级市场熊市投资偏好：游戏、NFT及元宇宙]]></title>
-        <id>https://www.theblockbeats.info/news/31822</id>
-        <link href="https://www.theblockbeats.info/news/31822"/>
-        <updated>2022-09-09T14:28:10.000Z</updated>
-        <summary type="html"><![CDATA[揭秘一级市场熊市投资偏好：游戏、NFT及元宇宙]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
