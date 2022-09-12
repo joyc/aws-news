@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-12T12:19:42.845Z</updated>
+    <updated>2022-09-12T18:11:22.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -190,16 +190,6 @@ Neutrino 又脱锚了，在 8 月 25 日达到了$0.939。截至截稿期 2022 �
         <link href="https://www.theblockbeats.info/news/31824"/>
         <updated>2022-09-10T06:51:49.000Z</updated>
         <summary type="html"><![CDATA[在津巴布韦市场，我学到的投资7件事]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第15轮Gitcoin Grants还有哪些有意思的项目]]></title>
-        <id>https://www.theblockbeats.info/news/31819</id>
-        <link href="https://www.theblockbeats.info/news/31819"/>
-        <updated>2022-09-10T03:45:36.000Z</updated>
-        <summary type="html"><![CDATA[第15轮Gitcoin Grants还有哪些有意思的项目]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
