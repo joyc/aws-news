@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-13T12:19:07.080Z</updated>
+    <updated>2022-09-13T18:11:02.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MOVE开发入门第六节：MOVE函数练习之流程控制-if语句]]></title>
+        <id>https://www.theblockbeats.info/news/31842</id>
+        <link href="https://www.theblockbeats.info/news/31842"/>
+        <updated>2022-09-13T16:53:41.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：Aptos乐园
+
+
+MOVE 是一门智能合约开发语言，随着新公链 Aptos 的崛起，MOVE 语言也渐渐进入大众视野。前几小节已经将函数的基本概念讲完，本节会介绍流程控制 if 的基本概念以及在函数中的实战运用。
+
+
+ 
+
+
+更多视频，请观看：《MOVE开发入门第五节：MOVE函数练习之as关键字》
+
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm基础层中立性研究：制裁和审查对区块链基础设施的影响]]></title>
+        <id>https://www.theblockbeats.info/news/31841</id>
+        <link href="https://www.theblockbeats.info/news/31841"/>
+        <updated>2022-09-13T14:53:41.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Paradigm：深度解析制裁和审查对区块链基础设施的影响
+
+》
+原文作者：Rodrigo Seira、Amy Aixi Zhang、Dan Robinson，
+
+Paradigm
+
+
+原文编译：Skypiea，
+
+DeFi 之道
+
+
+
+2022 年 8 月 8 日，美国财政部外国资产控制办公室 (OFAC) 将与 Tornado  Cash（以太坊上的一种开源隐私协议）相关的某些以太坊地址添加到特别指定国民和被制裁人员名单（SDN 名单）中。自这项制裁宣布以来，加密基础层的许多参与者表示担心，他们可能被要求监控或审查涉及 SDN 列表地址的区块以遵守制裁，从而损害基础层的中立性并损害其完整性和核心功能。但是，我们认为，根据当前的 OFAC 指导，作为基于风险的制裁合规计划的一部分，基础层参与者无需监控或审查这些地址。
+
+
+具体来说，虽然制裁法对去中心化区块链系统和智能合约的应用提出了新的法律问题，但我们认为迄今为止实施的 Tornado Cash 制裁和区块链地址制裁不应要求区块链技术基础设施提供商，包括建设者、矿池运营商、中继方、搜索者、排序器和验证者来监控或审查涉及被制裁地址的交易。
+
+
+应用主要以金融和交易为导向的经济制裁引发的问题是，加密的区块生产基础层的行为——即使涉及受制裁的地址——是否相当于「促进」交易，或处理或「贡献」或为任何「受制裁方或受制裁方的「利益」提供资金、货物或服务，或为其利益提供资金、货物或服务。
+
+
+我们认为，在基础设施层公开记录数据区块的顺序并不比每天在世界各地路由金融信息的现有通信基础设施更「促进」交易、与受制裁方打交道、贡献或提供服务，无论是通过互联网服务提供商、路由器、网络交换机、电子邮件和聊天程序、DDoS 过滤器和其他网络安全协议。在我们看来，加密的基础层基础设施通过将基本功能分配给独立参与者而分散了这一事实，这使…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何安全获得你人生中的第一个NFT？]]></title>
         <id>https://www.theblockbeats.info/news/31838</id>
@@ -320,92 +379,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
 
 
 在文中，Delphi 比较了多种不同的区块链生态，如以太坊 / L2、Avalanche 子网、 Polkadot 、Near 和 Solana 等。最后，Delphi Labs 决定将其研发工作集中在 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面解析Web3社交：深层次的链上社交将成为可能！]]></title>
-        <id>https://www.theblockbeats.info/news/31827</id>
-        <link href="https://www.theblockbeats.info/news/31827"/>
-        <updated>2022-09-11T05:44:43.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Web3 Social: A booming space with an identity crisis》
-原文作者：lingchenjaneliu，Fundamental Labs 研究员
-原文编译：老雅痞
-本文来自微信公众号：老雅痞
-
-
-摘要：
-
-
-・现有的 Web2 社交网络平台引发了数据和安全漏洞、舆论操纵、虚假信息传播等问题。
-
-
-・根据公共区块链上的互操作标准创建的数字资产是可移植且可转移的，因此用户历史记录不会停留在特定平台上。
-
-
-・Web3 的一个核心哲学原则是，除了通过资本之外，还有更多的方式来为生态系统提供价值——价值应该能够被赚取，而不仅仅是被购买。
-
-
-・开放式社交堆栈包括数据基础设施 (去中心化存储和数据层)、中间件 (数字身份、社交图谱和认证协议) 和社交应用程序。
-
-
-・社交网络平台经常会面临冷启动的问题。有了开放的社交堆栈，新平台可以利用中间件开发产品，并快速测试产品与市场的契合度。
-
-
-・去中心化社交最需要解决的问题是动态数据的去中心化存储。Ceramic Network 及 Tableland 等协议正在应对这一挑战。
-
-
-・每个社交网络都依赖于一个社交图谱。Lens Protocol 和 CyberConnect 是构建具有强大生态系统的开放式社交图谱的领先协议。
-
-
-・Web3 帐户和身份所面临的挑战在于 Web3 中的钱包、帐户和身份没有被明确定义，且数字身份项目的实施经常会混合这三个概念。
-
-
-・应该有一个身份架构来帮助用户访问 Web3 应用程序。这包括了在不同场景中使用的公共身份、代理身份和主身份。
-
-
-・我们看到的挑战：1) 经济激励驱动的社交;2) 数据可组合性没有我们想象的那么容易;3) 糟糕的用户体验导致了较小的用户基数;4) 没有解决痛点，为用户创造价值
-
-
-・只有在现有的基于地址的身份转变为基于个人的…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周热文：Y Combinator最新孵化计划30个新项目；HNT会归零吗？]]></title>
-        <id>https://www.theblockbeats.info/news/31825</id>
-        <link href="https://www.theblockbeats.info/news/31825"/>
-        <updated>2022-09-11T02:33:10.000Z</updated>
-        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
-
-
- 
-《全球第八大稳定币为什么一直在脱锚？》
-
-
- 
-Neutrino 又脱锚了，在 8 月 25 日达到了$0.939。截至截稿期 2022 年 9 月 4 日，Neutrino 正在$0.925 区间交易。Neutrino USD（USDN）按照稳定币市值目前在 Coinmarketcap 上排名为第 9，体量约为$6.3 亿，是稳定币市场不可忽视的一股区域和全球力量。Neutrino 又被称为「俄罗斯的以太坊」，主要支持庞大的 Waves 生态系统的交易。
-
-
-这并不是 USDN 第一次脱锚，仅在 2022 年，Neutrino 此前就已经脱锚了三次。在 8 月 5 日与 CoinDesk 的视频连线里，Sasha Ivanov 表示，Neutrino 按照上述步骤革新之后，将不会再出现脱锚情况。那么内卷时代的算法稳定币，以后怎么稳？
-
-
- 
-《解读 Binance 自动兑换 BUSD：携手打击 USDT》
-
-
- 
-5 日，Binance 官方发布公告称，为了提高用户的流动性和资金使用效率，Binance 对用户现有的 USDC、USDP、TUSD Stablecoin 余额和新充值将以 1:1 的比例自动兑换为 BUSD。Wintermute CEO Evgeny Gaevoy 认为大多数新闻没有正确揭示这一事件对 USDC 的影响，作出了 4 点澄清。
-
-
- 
-《Web3 自学指南：14 条熊市学习建议》
-
-
- 
-在加密世界迷失方向实在是太常见不过了，DeFi 研究员 The DeFi Edge 在个人社交媒体总结了 14 …]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
