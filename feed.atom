@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-13T00:48:49.320Z</updated>
+    <updated>2022-09-13T06:47:30.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3+品牌：品牌方如何利用好NFT营销]]></title>
+        <id>https://www.theblockbeats.info/news/31833</id>
+        <link href="https://www.theblockbeats.info/news/31833"/>
+        <updated>2022-09-13T04:22:25.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《拒绝肤浅，品牌方如何打破营销局限用好 NFT 利器》
+原文作者：lightness.eth，酒精灯灯
+
+
+
+我们正处于 Web3+品牌这一市场爆发的前夕。
+
+
+目前大多数品牌都在筹划或是已经成立了有关于 NFT 与忠诚度有关的部门，但是对于 Web3 的品牌化策略，目前还停留在图片 NFT 的投机营销上。特别是无聊猿作为一个典型的课代表，造成了大多数品牌营销的误区，也让不少自己都没弄明白 Web3 品牌的发展逻辑的 Agency 乱入这一市场，营销一把后，只有头部的 NFT 项目盈利，如果其他品牌效仿照搬之后只会落下一地鸡毛，甚至会由此影响到品牌声誉。
+
+
+原因在于，一方面大多数没有价值的 PFP 小图片只能靠社区共同 CX，带动更多的人参与炒作，而这次略有不同的是炒作套上了一层品牌的壳。而当品牌之前就拥有一定专业的炒货群体，再加上投机炒作 NFT 的群体，自然价格水涨船高。而这两个群体秉承的原则都是赚钱才是第一王道，当这场大型投机营销活动投下去的那一刻，注定了它不会为品牌带来更长远的品牌忠实度。另外一方面在于，品牌本身就拥有一批忠粉买单。忠粉也意味着用户对品牌的身份的高度认同，而身份认同实则是对品牌的设计、价值观、情感等文化的认同，他们本身就是品牌的活体自发传播者。忠粉就是品牌扩大共识、获得影响力、赚得更多利润的人形发动引擎。
+
+
+随着 Web3 基础设施的成熟完善，品牌与 Web3 更加系统化与全面化的深度融合是硬趋势，我们甚至有可能见证两个行业跨界融合而诞生出新行业。而品牌方如何通过 Web3 的品牌营销方式，建立市场影响力以及消费用户之间的忠诚度关系是根本所在。
+
+
+Web3+品牌绝不是一个短期的投机市场行为，这意味着需要更多对品牌和 Web3 都有深刻认知的朋友们参与长期建设，引导品牌方正确认识 Web3 不仅只有 NFT，有经验的区块链领域的从业者会…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVAX「王牌」Trader Joe：「流动性账簿」升级与「大生态」]]></title>
+        <id>https://www.theblockbeats.info/news/31831</id>
+        <link href="https://www.theblockbeats.info/news/31831"/>
+        <updated>2022-09-13T03:12:25.000Z</updated>
+        <summary type="html"><![CDATA[撰文：Cookie，律动BlockBeats
+
+
+每一条公链都有各自的明星 DEX。在以太坊上，有 UniSwap 与 SushiSwap；在 BNB 上，有 PancakeSwap；在 Solana 上，有 DOOAR(StepN)、Jupiter 与 Orca。而在 AVAX 上，则是 Trader Joe。
+
+
+
+官方 Twitter 的简介——我们就是 AVAX 的 No.1 DEX
+
+
+作为 AVAX 上最有影响力的 DEX，自 2021 年 7 月推出以来，Trader Joe 促成了超过 880 亿美元的交易量，产生了超过 2.65 亿美元的收入并 100% 分发给了流动性提供者与其 Token 持有者，单日交易量最高峰时接近 10 亿美元，目前则稳定保持在千万美元级别。总锁仓量最高峰时超过 25 亿美元，目前则为 1.56 亿美元，在 AVAX 上仅次于 AAVE 与 Benqi。
+
+
+
+
+
+
+
+在基本的现货交易服务外，Trader Joe 还提供了质押挖矿、流动性挖矿、借贷、IDO 平台「Rocket Joe」以及 NFT 市场「Joepegs」。这张 AVAX「王牌」，正努力从「DeFi」向「大生态」进化着。
+
+
+
+
+
+
+随着 DeFi 的发展，Trader Joe 认为 v1 版本在资金利用率与流动性灵活度上急需改进。8 月 23 日，Trader Joe 宣布即将推出 v2 版本，该版本全新的 AMM 设计「流动性账簿」引起了广泛讨论。本文将对「流动性账簿」进行梳理，并介绍 Trader Joe DEX 外的其他生态组成。
+
+
+「流动性账簿」
+
+
+「流动性账簿」的主要特点：
+
+
+
+1. 使用与 Uniswap V3 相同的「集中流动性」理念提升资金利用率。
+2. 使用「价格箱」离散流动性后再聚合，实现「离散化集中流动性」，降低滑点。
+
+
+
+3. 使用…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Destroy and...让Web3新潮流梦想落地]]></title>
         <id>https://www.theblockbeats.info/news/31826</id>
