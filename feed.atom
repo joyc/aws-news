@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-14T12:18:24.012Z</updated>
+    <updated>2022-09-14T18:11:08.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么我们需要更好的NFT协议标准？]]></title>
+        <id>https://www.theblockbeats.info/news/31849</id>
+        <link href="https://www.theblockbeats.info/news/31849"/>
+        <updated>2022-09-14T14:51:35.000Z</updated>
+        <summary type="html"><![CDATA[为什么我们需要更好的NFT协议标准？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electron Labs新提案：将IBC整合到以太坊]]></title>
         <id>https://www.theblockbeats.info/news/31848</id>
@@ -651,16 +661,6 @@ Web3+品牌绝不是一个短期的投机市场行为，这意味着需要更多
 
 
 3. 使用…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destroy and...让Web3新潮流梦想落地]]></title>
-        <id>https://www.theblockbeats.info/news/31826</id>
-        <link href="https://www.theblockbeats.info/news/31826"/>
-        <updated>2022-09-12T02:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Destroy and...让Web3新潮流梦想落地]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31849",
+          "author": null,
+          "description": "为什么我们需要更好的NFT协议标准？",
+          "link": "https://www.theblockbeats.info/news/31849",
+          "publishedOn": "2022-09-14T14:51:35.000Z",
+          "wordCount": null,
+          "title": "为什么我们需要更好的NFT协议标准？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31848",
           "author": null,
           "description": "原文标题：《Bringing IBC to Ethereum using ZK-Snarks》\n原文作者：Garvit Goel、Jinank Jain，Electron Labs\n原文编译：红军大叔，IBCL\n\n\n\n\n\n\n这是一篇关于如何将 IBC 带到以太坊的文章。本文的目的是概述该项目的技术细节并获得以太坊社区的支持。让我们深入了解它。\n\n\nIBC 代表 Inter Blockchain Communication - Cosmos 生态系统中的跨链标准。\n\n\n问题背景\n\n\nIBC 遵循轻客户端原则，需要将源区块链和目标区块链的轻客户端实现为智能合约，以验证跨链交易。\n\n\n这意味着，为了将 IBC 连接到 Eth，我们需要在以太坊上以智能合约方式运行 Tendermint 轻客户端 (run the Tendermint light client on Ethereum as a solidity smart contract)。\n\n\n但是这个过程 gas 消耗昂贵，因为这需要在 Solidity 中验证数百个 ed25519 签名，而 ed25519 预编译在以太坊上不可用。一个 ed25519 需要 500K gas。\n\n\n这意味着验证完整的轻客户端 header 将需要至少 5000 万 gas 费（100 个验证者），对于拥有 1000 个验证者的更大的 cosmos 链，则高达 5 亿 gas。\n\n\n因此，为了在以太坊上更便宜地验证签名，我们需要新的方法。\n\n\n解决方案\n\n\n我们通过从 zk-rollups 获得灵感来实现这一目标。我们没有直接在以太坊上验证 ed25519 的签名，（并在 solidity 智能合约内执行曲线操作），而是构建了一个签名有效性的 zk 证明，并在链上验证该证明。\n\n\n在 Electron Labs，我们构建了一个基于 circ…",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-09-13T03:12:25.000Z",
           "wordCount": null,
           "title": "AVAX「王牌」Trader Joe：「流动性账簿」升级与「大生态」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31826",
-          "author": null,
-          "description": "Destroy and...让Web3新潮流梦想落地",
-          "link": "https://www.theblockbeats.info/news/31826",
-          "publishedOn": "2022-09-12T02:43:21.000Z",
-          "wordCount": null,
-          "title": "Destroy and...让Web3新潮流梦想落地",
           "imageUrl": null
         }
       ]
