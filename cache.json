@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31845",
+          "author": null,
+          "description": "原文标题：《\n\nNFT租赁协议Rentable宣布关闭，创始人自述三大「失败教训」\n\n》\n原文作者：0xrose，深潮 TechFlow  \n\n\n9 月 13 日，NFT 租赁协议 Rentable 宣布关闭，从 10 月 14 日起，所有的服务将停止，联合创始人 Emiliano Bonassi 表示，「我们没有找到适合市场的产品，我们的跑道也结束了。经过多次仔细考虑和交谈，我们更愿意朝关闭这个方向前进，而不是做进一步的资金融资。」\n\n\n曾几何时，NFTFI 还是一个火热的赛道，特别是 6 月 NFT 租赁协议标准 ERC-4907 通过后，不少人看好这个赛道，但是短短几月，变了天，针对「失败」的原因，创始人也进行了反思，这是他的三点总结：\n\n\n1. 狭窄的赛道\n\n\n赛道定义是设定你要解决的具体问题的根本，并对其进行聚焦。首先你得进行评估，将你的解决方案应用于更广泛的类似问题，并瞄准更大的市场，但必须谨慎选择。\n\n\n从我在 DeFi 的经验来看，我是有偏见的，即解决一个通用 ERC20 的问题，你就能解决所有的问题。因此，我认为解决一个通用 NFT 的问题，你就能解决所有的问题。\n\n\n错误的是，这种方法在 DeFi 中可能是有效的，因为最终所有的 Token 都是一样的，但是在租借这方面却不是这样的。\n\n\n每个 NFT 都有自己的特殊性，租借可能类似于贷款，但 \"租借 x NFT \"有不同的含义，取决于「x」代表什么。请注意，这是针对租赁而言的，比如说，对于交易来说，概括性的说法就很好。\n\n\n我们可以做得更好，对各种 NFT 进行更深入的研究，并选择一个特定的市场，更好地理解并建立一个垂直的定制解决方案，而不是一个不可知的通用解决方案。\n\n\n2. 资源配置\n\n\n时间是每个人最稀缺的资源，从合作伙伴到投资者，当然还有用户。在第一个电话或几个反馈之后，如果不给予承诺，他们就很难参与，除非他们出于某种原因免费做。\n\n\n由于我们不需要外部资本来建立 MVP，我完全低估了这一点。\n\n\n我们其实需要资本来调整利益，每个投资者和合作伙伴都会带来他们特定的价值，掌握如何利用它是很重要的。因此，需要规划他们可以带来的东西，从资本到招聘或只是声誉，是必须做的。\n\n\n3. 更好的验证\n\n\n验证是一个很大的话题，但可以归纳为目标设定、假设框架、实验和数据收集。\n\n\n我们犯了一个错误：一旦找到一个好的技术解决方案来实现租赁，就立即实施。\n\n\n此外，我们的假设是用户还没有任何租赁的机制，如果有一个解决方案（即 \"在那里\"），我们会看到新的动态。\n\n\n我们需要在「纸面」上进行更多的验证，缩短迭代周期，重新分配工程工作的精力，使之更多地关注合作伙伴/用户的租赁动机和目标。\n\n\n总结\n\n\n笔者认为创始人的总结十分诚恳，而且直击痛点。\n\n\n首先，是否是真需求以及需求/赛道是否足够大，NFT 租赁看起来很美好，但是想象一下具体场景，一个蓝筹 NFT 是一个社交展示，持有方通常是行业大佬/巨富是否有意愿出租？以及是否有太多人愿意租赁？这有点类似于租赁二手奢侈品衣服，感觉有需求，但是很小众，远不如游戏 NFT 租赁这样垂直市场。\n\n\n其次，团队觉得并不需要外部资金就可以做出产品并推向市场因为没有融资，但是在加密市场，融资不只是为了钱，背书、BD 资源、与重要合作对象建立联系、辅助招聘…… 种种外部资源是可以通过 Cap table 去构建连接。\n\n\n\n\n\n最后，一个产品或者方案最好经过验证再全面推向市场，而不是立马行动，心急吃不了热豆腐。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31845",
+          "publishedOn": "2022-09-14T05:26:51.000Z",
+          "wordCount": null,
+          "title": "NFT租赁协议Rentable创始人自述：我们为什么失败",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31843",
+          "author": null,
+          "description": "撰文：Cookie，律动 BlockBeats\n\n\n\n\n在星巴克消费可以「集星」想必大家并不陌生，但在不久的将来，星巴克的消费者们不但可以在现实中「集星」，还可以在 Web3 世界中「集邮」。\n\n\n\n\n\n\n\n9 月 12 日，这家在 2021 年收入超过 291 亿美元的咖啡巨头，宣布将在 Polygon 上推出「Starbucks Odyssey」。咖啡巨头将如何玩转 Web3 世界？律动 BlockBeats 带您一探究竟。\n\n\nStarbucks Odyssey 如何运作？\n\n\n\nStarbucks Odyssey 是星巴克「忠诚度奖励」机制 Starbucks Rewards 的拓展，星巴克会员可以通过 Starbucks Rewards 账号进行访问。\n\n\n\n\n在 Starbucks Odyssey 中，会员能够参与「旅程」系列活动，在活动中游玩互动游戏、接受有趣的挑战等。作为奖励，完成「旅程」系列活动将得到「旅程邮票」NFT。星巴克希望通过「旅程」系列活动进一步加深会员对于咖啡以及星巴克的了解。\n\n\n\n\nStarbucks Odyssey 将内置交易市场。在这个市场中，会员可以进行「邮票」交易，也可以购买「限定版邮票」NFT。这些操作均可使用信用卡支付完成，不需要加密钱包与加密货币。\n\n\n\n\n\n\n\n每个「邮票」都将拥有分值，分值大小基于各自的稀有度。会员的积分将随着「集邮」而增加，从而解锁各种福利，例如专属商品/艺术家合作访问权、虚拟的浓缩咖啡马提尼制作课程、参与星巴克臻选咖啡烘焙工坊的独家活动以及参观星巴克在哥斯达黎加的 Hacienda Alsacia 咖啡农场。\n\n\n如何参与 Starbucks Odyssey？\n\n\n\n\n\n\n在 https://waitlist.starbucks.com/上提交邮箱地址以进入 Waitlist，星巴克将于今年内选定第一批测试用户。\n\n\n\n\n\n\n\n\n需要注意的是，星巴克官方的新闻稿中提到，Starbucks Odyssey 是「面向美国的 Starbucks 员工与 Starbucks Rewards 会员」提供的服务。在 Waitlist 提交页面中，也提示用户提交「与 Starbucks Rewards 账户相关联的邮箱地址」。经律动 BlockBeats 测试，提交尚未注册过 Starbucks Rewards 的邮箱地址也会显示已成功进入 Waitlist，且国内的星巴克账户也无法登录美国星巴克官网。非常想要参与测试的朋友们，建议提交与美国的 Starbucks Rewards 账户相关联的邮箱地址。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n最后，如果通过申请，获得的是「Starbucks Odyssey 的测试资格」，相关的 NFT 只在后续的使用中获取。\n\n\n结语\n\n\n\n根据星巴克的官方数据，去年 Q4 美国活跃的 Starbucks Rewards 会员数超过 2500 万。据此，Starbucks Odyssey 有望将百万数量级的新人带入 NFT 世界。\n\n\n\n\n体量优势外，星巴克也在隐藏「加密世界的复杂性」。一直以来，这让许多新人对 NFT 领域乃至加密领域望而生畏——他们需要掌握如何使用加密钱包以及如何保护自己的资产等一系列加密知识。而在 Starbucks Odyssey 中，用户可以用信用卡支付解决这一切。显然，星巴克找准了重心——NFT 是增强用户体验的一个「技术手段」，用户的焦点应在趣味性与艺术性并存的交互中，而不是「这是个 NFT」。\n\n\n\n\n尽管 Web2 应用也可以实现这样的交互，但在 Web3 中构建这一切，能使品牌更加年轻化与更具亲和力。更重要的是，「忠诚度奖励」的自由度得到了全方位的提高——用户既可以选择享受品牌所提供的回馈，也可以选择将这些回馈出售给其他需要的人，无需转让账号的所有权，也无需苦苦寻觅交易对象。\n\n\n\n\n\n\n\nStarbucks Odyssey 向我们展现了一个极好的 NFT 应用案例，它的成功与否，将决定是否会有更多的公司加快进入 Web3 世界的脚步。以 Starbucks Odyssey 为起点，我们似乎能看见 NFT 无缝融入生活的未来。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31843",
+          "publishedOn": "2022-09-14T05:26:51.000Z",
+          "wordCount": null,
+          "title": "关于星巴克「Starbucks Odyssey」，你应该知道的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31846",
+          "author": null,
+          "description": "原文标题：《打造 web3 品牌灵魂 3 问-Why, What, How》\n原文作者：starzq.eth\n\n\n前言\n\n\n这两天非常应景的 2 条新闻，星巴克宣布了进军 Web3 计划，要打造基于区块链的用户忠诚度平台；Top 蓝筹 NFT 项目 doodles 宣布了$5400w 融资，要建设成 Web3 原生的世界级娱乐品牌。一边是顶级 Web2 品牌在向 Web3 转型，另一边是 Web3 原生品牌加速成长，我们来到了 Web3 品牌爆发的前夜。\n\n\n这段时间也拜读了很多关于 Web3 品牌的文章，但更多是在术的层面。和 Web2 的朋友们交流，目前最大的困惑其实是在道的层面，为什么要做这件事？Web3 品牌到底意味着什么，和 Web2 品牌有什么不同？弄清楚了这几个问题，传统品牌有更全面的了解和准备，才会跨出 why 这一步，探寻做什么（what）和怎么做（how）。借用我特别喜欢的播客《文理两开花》里面「灵魂 3 问」的模式，通过本文，我尝试回答打造 Web3 品牌灵魂 3 问-Why, What, How, 从道到术\n\n\n1. Why: 为什么 Web3 对品牌来说非做不可？\n2. What: 什么样的品类适合做 Web3 品牌？\n3. How: 如何打造 Web3 品牌，包括 mindset 转变 / 技能树 / 案例分析\n4. 最后再附送 3 个非常实操的问答\n\n\n    1. 建立 Web3 品牌，初期最重要的是什么\n    2. 为什么我强烈建议会员卡转为 NFT\n    3. 对传统品牌进入 Web3 的最后建议\n\n\n读完本文希望你能有如下收获\n\n\n・如果你是传统品牌方，希望本文可以帮助你（以及你老板）坚定转 Web3 的决心，并了解如何更好的满足 GenZ 一代用户的新需求，文中的案例和建议皆可以参考\n・如果你正计划打造 Web3 原生品牌，希望本…",
+          "link": "https://www.theblockbeats.info/news/31846",
+          "publishedOn": "2022-09-14T05:26:51.000Z",
+          "wordCount": null,
+          "title": "打造Web3品牌灵魂3问: Why?What?How?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31842",
           "author": null,
           "description": "原视频来源：Aptos乐园\n\n\nMOVE 是一门智能合约开发语言，随着新公链 Aptos 的崛起，MOVE 语言也渐渐进入大众视野。前几小节已经将函数的基本概念讲完，本节会介绍流程控制 if 的基本概念以及在函数中的实战运用。\n\n\n \n\n\n更多视频，请观看：《MOVE开发入门第五节：MOVE函数练习之as关键字》\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -73,16 +103,6 @@
           "publishedOn": "2022-09-12T02:43:21.000Z",
           "wordCount": null,
           "title": "Destroy and...让Web3新潮流梦想落地",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31828",
-          "author": null,
-          "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\n\n\n\n\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n\n推荐文章: 《Bitcoin, Blockchain, and Cryptoassets》\n\n\n\n\n推荐人：傅卓蕊\n\n\n\n\n\n\n\n推荐理由：巴塞尔大学的两位在这方面很有名的教授写的。学界对币圈的研究也非常深，深入浅出的一本书。\n\n\n\n\n推荐文章：《Delphi Labs: 为何我们将研发重点聚焦在 Cosmos 生态》\n\n\n\n\n推荐人：比得潘\n\n\n\n\n推荐理由：此前，Delphi Labs 团队主要专注于研究和开发 Terra 上的协议。但由于 Terra 的崩溃，和基于对 DeFi 的关注、如何构建它的愿景，以及对多链方向的发展，包括由此产生的对跨链的重视，Delphi Labs 不得不吸取教训重新做出选择。\n\n\n在文中，Delphi 比较了多种不同的区块链生态，如以太坊 / L2、Avalanche 子网、 Polkadot 、Near 和 Solana 等。最后，Delphi Labs 决定将其研发工作集中在 …",
-          "link": "https://www.theblockbeats.info/news/31828",
-          "publishedOn": "2022-09-11T13:10:29.000Z",
-          "wordCount": null,
-          "title": "BlockBeats荐读｜每周媒体作者们都在看什么？",
           "imageUrl": null
         }
       ]
