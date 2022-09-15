@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31853",
+          "author": null,
+          "description": "原文标题：《The Merge flips ETH from being inflationary to deflationary. Here's why that matters.  \n\n》\n\n\n原文作者:  timlee.eth\n原文编译：xinyang @DAOrayaki.org\n\n\n\n\n\n\n\n\n\nTLDR：合并后，ETH 的净发行量由正转负。Token总供应量的减少会造成通缩压力，并产生持续的积极价格影响。\n\n\n\n\n\n\n\n\n\n传统上，具有固定最大供应量的\n\nToken\n\n称为通货紧缩\n\nToken\n\n。所有其他的都称为通胀\n\nToken\n\n。\n\n\n\n\n以太（ETH）没有最大供应量，所以根据这个简单的定义，它是通货膨胀的。但在本周的合并之后，它依然是通货膨胀吗？\n\n\n\n\n如果 ETH 燃烧的\n\nToken\n\n比它发行的多，那么它实际上有通缩压力。\n\n\n\n\n以下是每天大约发行 ETH 的统计数据（来源：Ethereum[1] 和 Watch The Burn[2]）。\n\n\n\n\n合并前，自 2021 年 8 月 5 日伦敦硬分叉 (EIP-1559) 以来的过去一年中，ETH 平均每天燃烧 6700 个，少于发行的 14,600 个，因此净\n\nToken\n\n供应量一直增加。\n\n\n\n\n\n合并后，不再有挖矿奖励：\n\n\n\n\n\n合并后，6700 的销毁大于 1600 的发行。ETH 的净总供应量正在减少。这就不像是「通胀\n\nToken\n\n」了。\n\n\n\n\n因此，传统定义下的没有最大供应量的「通胀\n\nToken\n\n」实际上可能具有通缩压力。\n\n\n\n\n也许通货膨胀和通货紧缩\n\nToken\n\n的定义需要更新。\n\n\n重新定义通胀和通缩\n\nToken\n\n\n\n\n\n最大\n\nToken\n\n供应量只是确定\n\nToken\n\n是否面临通胀或通缩压力的一个因素。\n\n\n\n\n第二个同样重要的因素是循环供应的…",
+          "link": "https://www.theblockbeats.info/news/31853",
+          "publishedOn": "2022-09-15T14:33:41.000Z",
+          "wordCount": null,
+          "title": "为什么合并使ETH从通货膨胀转为通货紧缩很重要？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31851",
           "author": null,
           "description": "原文作者：Jack(0x137)，BlockBeats\n\n\n\n\n「我们显卡已经全卖了，没有恐慌。」在 BlockBeats 与多位矿工的对话中，这个观点代表了大部分以太坊矿工。\n\n\n\n\n相比于去年 6 月比特币挖矿政策的突然限制、全中国比特币矿机不得不等待关机止损的被动选择，以太坊的矿工们心态明显要好得多，他们有接近一年的时间来消化即将不能挖矿这件事。\n\n\n\n\n加密世界最传统的挖矿，就是靠机器的算力去执行极度复杂的计算，比特币是挖矿鼻祖，以太坊也是爷爷级别。很多人听说过比特币在中国颇具规模的挖矿产业，矿场、矿机、山谷流水中机器 24 小时的轰鸣声，而以太坊也不差，比如，曾经的星火矿池是以太坊在全球最大的矿池。\n\n\n\n\n不过这些都不再了，曾经最高能占到全球 75% 算力的中国比特币算力在去年 6 月的政策下完全消失，以太坊也随着自身机制的完全转换抛弃了算力挖矿。理论上，随着以太坊共识机制的转型，两条全球最大的网络挖矿，在国内彻底消失。\n\n\n\n\n以太坊的挖矿 8 年结束，也是中国地理上矿业的结束，人们在这片领域里，崇尚算力，对抗熵增，创造了能单季度利润 11 亿美元的超级独角兽，也能让英伟达这样的显卡巨头不得不重新规划自己的定价策略。我们想用这些文字，记录一段所有 Web3 人应该知道的历史。\n\n\n\n\n史前\n\n\n\n\n2010 年 5 月的一个晚上，一个饥饿的程序员用 1 万枚比特币换了两份价值 30 美元的比萨饼，比特币有了第一个计价——0.003 美元。这个看不见摸不着的协议自此有了真实的价值，随之而来的，是一轮充斥着造富神话的牛市，和加密矿业的兴起。\n\n\n\n\n早期的比特币没有价值，参与网络的人很少，挖矿只需要一个电脑 CPU。哈尔·芬尼是当时最早的一批矿工，他在一两个星期内，用自己的电脑挖到了几千枚比特币，后来因为 CPU 过烫，电脑风扇噪音很烦才把挖矿软件关了。\n\n\n\n\n…",
@@ -113,26 +123,6 @@
           "publishedOn": "2022-09-13T10:45:36.000Z",
           "wordCount": null,
           "title": "2022年第37周融资精选，NFT和DeFi板块断崖式下滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31833",
-          "author": null,
-          "description": "原文标题：《拒绝肤浅，品牌方如何打破营销局限用好 NFT 利器》\n原文作者：lightness.eth，酒精灯灯\n\n\n\n我们正处于 Web3+品牌这一市场爆发的前夕。\n\n\n目前大多数品牌都在筹划或是已经成立了有关于 NFT 与忠诚度有关的部门，但是对于 Web3 的品牌化策略，目前还停留在图片 NFT 的投机营销上。特别是无聊猿作为一个典型的课代表，造成了大多数品牌营销的误区，也让不少自己都没弄明白 Web3 品牌的发展逻辑的 Agency 乱入这一市场，营销一把后，只有头部的 NFT 项目盈利，如果其他品牌效仿照搬之后只会落下一地鸡毛，甚至会由此影响到品牌声誉。\n\n\n原因在于，一方面大多数没有价值的 PFP 小图片只能靠社区共同 CX，带动更多的人参与炒作，而这次略有不同的是炒作套上了一层品牌的壳。而当品牌之前就拥有一定专业的炒货群体，再加上投机炒作 NFT 的群体，自然价格水涨船高。而这两个群体秉承的原则都是赚钱才是第一王道，当这场大型投机营销活动投下去的那一刻，注定了它不会为品牌带来更长远的品牌忠实度。另外一方面在于，品牌本身就拥有一批忠粉买单。忠粉也意味着用户对品牌的身份的高度认同，而身份认同实则是对品牌的设计、价值观、情感等文化的认同，他们本身就是品牌的活体自发传播者。忠粉就是品牌扩大共识、获得影响力、赚得更多利润的人形发动引擎。\n\n\n随着 Web3 基础设施的成熟完善，品牌与 Web3 更加系统化与全面化的深度融合是硬趋势，我们甚至有可能见证两个行业跨界融合而诞生出新行业。而品牌方如何通过 Web3 的品牌营销方式，建立市场影响力以及消费用户之间的忠诚度关系是根本所在。\n\n\nWeb3+品牌绝不是一个短期的投机市场行为，这意味着需要更多对品牌和 Web3 都有深刻认知的朋友们参与长期建设，引导品牌方正确认识 Web3 不仅只有 NFT，有经验的区块链领域的从业者会…",
-          "link": "https://www.theblockbeats.info/news/31833",
-          "publishedOn": "2022-09-13T04:22:25.000Z",
-          "wordCount": null,
-          "title": "Web3+品牌：品牌方如何利用好NFT营销",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31831",
-          "author": null,
-          "description": "撰文：Cookie，律动BlockBeats\n\n\n每一条公链都有各自的明星 DEX。在以太坊上，有 UniSwap 与 SushiSwap；在 BNB 上，有 PancakeSwap；在 Solana 上，有 DOOAR(StepN)、Jupiter 与 Orca。而在 AVAX 上，则是 Trader Joe。\n\n\n\n官方 Twitter 的简介——我们就是 AVAX 的 No.1 DEX\n\n\n作为 AVAX 上最有影响力的 DEX，自 2021 年 7 月推出以来，Trader Joe 促成了超过 880 亿美元的交易量，产生了超过 2.65 亿美元的收入并 100% 分发给了流动性提供者与其 Token 持有者，单日交易量最高峰时接近 10 亿美元，目前则稳定保持在千万美元级别。总锁仓量最高峰时超过 25 亿美元，目前则为 1.56 亿美元，在 AVAX 上仅次于 AAVE 与 Benqi。\n\n\n\n\n\n\n\n在基本的现货交易服务外，Trader Joe 还提供了质押挖矿、流动性挖矿、借贷、IDO 平台「Rocket Joe」以及 NFT 市场「Joepegs」。这张 AVAX「王牌」，正努力从「DeFi」向「大生态」进化着。\n\n\n\n\n\n\n随着 DeFi 的发展，Trader Joe 认为 v1 版本在资金利用率与流动性灵活度上急需改进。8 月 23 日，Trader Joe 宣布即将推出 v2 版本，该版本全新的 AMM 设计「流动性账簿」引起了广泛讨论。本文将对「流动性账簿」进行梳理，并介绍 Trader Joe DEX 外的其他生态组成。\n\n\n「流动性账簿」\n\n\n「流动性账簿」的主要特点：\n\n\n\n1. 使用与 Uniswap V3 相同的「集中流动性」理念提升资金利用率。\n2. 使用「价格箱」离散流动性后再聚合，实现「离散化集中流动性」，降低滑点。\n\n\n\n3. 使用…",
-          "link": "https://www.theblockbeats.info/news/31831",
-          "publishedOn": "2022-09-13T03:12:25.000Z",
-          "wordCount": null,
-          "title": "AVAX「王牌」Trader Joe：「流动性账簿」升级与「大生态」",
           "imageUrl": null
         }
       ]
