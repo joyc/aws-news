@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31852",
+          "author": null,
+          "description": "原文标题：《\n\n传统金融与加密世界的对话与碰撞 - 访谈哥大金融学教授 Prof Agostino\n\n》\n原文来源： Arcane Labs\n\n\n「加密货币投资在扩展传统金融服务方面具有巨大潜力，激发潜能的关键则是赋能金融投资范式，以应对数字世界独特的风险和投资机会。」\n——Agostino 教授\n\n\n\n  Prof. Agostino Capponi  \n\n\n教授简介：\n\n\nAgostino 教授目前在哥伦比亚大学担任金融学副教授，同时是数字金融和技术中心（Center for Digital Finance and Technologies）的创始兼负责人和数据科学研究所（Data Science Institute）的成员。\n\n\nAgostino 教授的研究发表在多家著名学术论坛和报刊，包括《政治经济学杂志》、《货币经济学杂志》、《资产定价研究评论》、《金融与定量分析杂志》、《管理科学》、《运筹学》和《数学金融学》。\n\n\n同时，Agostino 教授也是加密社区和区块链经济研究论坛（Crypto and Blockchain Economic Research Forum）的研究员，阿里巴巴集团罗湖研究院（Luohoan Academy）院士，金融科技 @ 康奈尔中心（Fintech@Cornell Center）的研究员。\n\n\n本文是 Arcane Labs 团队采访哥伦比亚大学 Agostino 教授的核心内容摘录，主要针对热点话题，如监管，学术研究，DID，SBT，DeFi，行业趋势，赛道等方面进行了交流和沟通。\n\n\n访谈精彩观点：\n\n\n建议考虑修改 Howey Test 的标准，以便可以包含数字资产的资产类别，进而制定符合数字资产行业发展的新型监管框架\n\n\n未来数字货币的监管系统可能是分布式的，其中部分监管条例将由智能合约自动实施，而其他监管条例则由 KOL …",
+          "link": "https://www.theblockbeats.info/news/31852",
+          "publishedOn": "2022-09-16T01:39:22.000Z",
+          "wordCount": null,
+          "title": "对话哥大金融学教授：传统金融与加密世界的碰撞",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31853",
           "author": null,
           "description": "原文标题：《The Merge flips ETH from being inflationary to deflationary. Here's why that matters.  \n\n》\n\n\n原文作者:  timlee.eth\n原文编译：xinyang @DAOrayaki.org\n\n\n\n\n\n\n\n\n\nTLDR：合并后，ETH 的净发行量由正转负。Token总供应量的减少会造成通缩压力，并产生持续的积极价格影响。\n\n\n\n\n\n\n\n\n\n传统上，具有固定最大供应量的\n\nToken\n\n称为通货紧缩\n\nToken\n\n。所有其他的都称为通胀\n\nToken\n\n。\n\n\n\n\n以太（ETH）没有最大供应量，所以根据这个简单的定义，它是通货膨胀的。但在本周的合并之后，它依然是通货膨胀吗？\n\n\n\n\n如果 ETH 燃烧的\n\nToken\n\n比它发行的多，那么它实际上有通缩压力。\n\n\n\n\n以下是每天大约发行 ETH 的统计数据（来源：Ethereum[1] 和 Watch The Burn[2]）。\n\n\n\n\n合并前，自 2021 年 8 月 5 日伦敦硬分叉 (EIP-1559) 以来的过去一年中，ETH 平均每天燃烧 6700 个，少于发行的 14,600 个，因此净\n\nToken\n\n供应量一直增加。\n\n\n\n\n\n合并后，不再有挖矿奖励：\n\n\n\n\n\n合并后，6700 的销毁大于 1600 的发行。ETH 的净总供应量正在减少。这就不像是「通胀\n\nToken\n\n」了。\n\n\n\n\n因此，传统定义下的没有最大供应量的「通胀\n\nToken\n\n」实际上可能具有通缩压力。\n\n\n\n\n也许通货膨胀和通货紧缩\n\nToken\n\n的定义需要更新。\n\n\n重新定义通胀和通缩\n\nToken\n\n\n\n\n\n最大\n\nToken\n\n供应量只是确定\n\nToken\n\n是否面临通胀或通缩压力的一个因素。\n\n\n\n\n第二个同样重要的因素是循环供应的…",
@@ -83,26 +93,6 @@
           "publishedOn": "2022-09-14T05:26:51.000Z",
           "wordCount": null,
           "title": "打造Web3品牌灵魂3问: Why?What?How?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31842",
-          "author": null,
-          "description": "原视频来源：Aptos乐园\n\n\nMOVE 是一门智能合约开发语言，随着新公链 Aptos 的崛起，MOVE 语言也渐渐进入大众视野。前几小节已经将函数的基本概念讲完，本节会介绍流程控制 if 的基本概念以及在函数中的实战运用。\n\n\n \n\n\n更多视频，请观看：《MOVE开发入门第五节：MOVE函数练习之as关键字》\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31842",
-          "publishedOn": "2022-09-13T16:53:41.000Z",
-          "wordCount": null,
-          "title": "MOVE开发入门第六节：MOVE函数练习之流程控制-if语句",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31841",
-          "author": null,
-          "description": "原文标题：《\n\nParadigm：深度解析制裁和审查对区块链基础设施的影响\n\n》\n原文作者：Rodrigo Seira、Amy Aixi Zhang、Dan Robinson，\n\nParadigm\n\n\n原文编译：Skypiea，\n\nDeFi 之道\n\n\n\n2022 年 8 月 8 日，美国财政部外国资产控制办公室 (OFAC) 将与 Tornado  Cash（以太坊上的一种开源隐私协议）相关的某些以太坊地址添加到特别指定国民和被制裁人员名单（SDN 名单）中。自这项制裁宣布以来，加密基础层的许多参与者表示担心，他们可能被要求监控或审查涉及 SDN 列表地址的区块以遵守制裁，从而损害基础层的中立性并损害其完整性和核心功能。但是，我们认为，根据当前的 OFAC 指导，作为基于风险的制裁合规计划的一部分，基础层参与者无需监控或审查这些地址。\n\n\n具体来说，虽然制裁法对去中心化区块链系统和智能合约的应用提出了新的法律问题，但我们认为迄今为止实施的 Tornado Cash 制裁和区块链地址制裁不应要求区块链技术基础设施提供商，包括建设者、矿池运营商、中继方、搜索者、排序器和验证者来监控或审查涉及被制裁地址的交易。\n\n\n应用主要以金融和交易为导向的经济制裁引发的问题是，加密的区块生产基础层的行为——即使涉及受制裁的地址——是否相当于「促进」交易，或处理或「贡献」或为任何「受制裁方或受制裁方的「利益」提供资金、货物或服务，或为其利益提供资金、货物或服务。\n\n\n我们认为，在基础设施层公开记录数据区块的顺序并不比每天在世界各地路由金融信息的现有通信基础设施更「促进」交易、与受制裁方打交道、贡献或提供服务，无论是通过互联网服务提供商、路由器、网络交换机、电子邮件和聊天程序、DDoS 过滤器和其他网络安全协议。在我们看来，加密的基础层基础设施通过将基本功能分配给独立参与者而分散了这一事实，这使…",
-          "link": "https://www.theblockbeats.info/news/31841",
-          "publishedOn": "2022-09-13T14:53:41.000Z",
-          "wordCount": null,
-          "title": "Paradigm基础层中立性研究：制裁和审查对区块链基础设施的影响",
           "imageUrl": null
         }
       ]
