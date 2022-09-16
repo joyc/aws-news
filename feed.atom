@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-16T06:40:13.428Z</updated>
+    <updated>2022-09-16T12:16:14.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MOVE开发入门第七节：MOVE函数练习-循环]]></title>
+        <id>https://www.theblockbeats.info/news/31858</id>
+        <link href="https://www.theblockbeats.info/news/31858"/>
+        <updated>2022-09-16T09:52:39.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：Aptos乐园
+
+
+
+MOVE 是一门智能合约开发语言，随着新公链     Aptos 的崛起， MOVE 语言也渐渐进入大众视野。MOVE语言中，循环在实际应用场景是经常被使用到的，在 Move 中常用有两种循环方式，while 以及 loop，本小节会详细讲解 while 语法、loop 语法以及使用。
+
+
+ 
+
+
+更多视频，请观看：《MOVE开发入门第六节：MOVE函数练习之流程控制 - if语句》
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook另一个公链「儿子」：0L Network的打怪之路]]></title>
+        <id>https://www.theblockbeats.info/news/31856</id>
+        <link href="https://www.theblockbeats.info/news/31856"/>
+        <updated>2022-09-16T07:06:39.000Z</updated>
+        <summary type="html"><![CDATA[撰文：傅卓蕊
+
+
+0L 是一个社区驱动的 Layer 1 公链开源项目。它没有企业赞助商、风险投资、基金会，是一个完全中心化的社区。项目的决定也由社区成员投票做出。0L 也是基于 Move 语言的程序。
+
+ 
+一开始，0L 也是基于 Facebook 之前死亡的 Diem 网络（旧称「Libra」）创建的开源代码集的一个分支。0L 尽可能地和 Diem 的程序相近，因为 Diem 是一个运算速度相当快的区块链技术。相比于其他两个从 Diem 衍生出来的协议：Aptos 和 SUI，0L 相对来说安静一些，但是团队成员在官网上说明团队并不是秘密工作的，自分叉项目以来，项目实际上一直在公开工作，只是比较安静一些。
+ 
+除此之外，项目也借用了 Dfinity 创始人 Dominic Williams 还有 Bram Cohen 的 Chia Projects 的一些想法，可以使用户不需要很昂贵的投资的情况下进行拜占庭共识（BFT Consensus）。
+ 
+0L 的经济原理以劳动力为中心。0L 表示，大多数区块链网络将大部分奖励分配给充当「安全卫士」的节点运营商，但未能直接投资于应用层的开发、运营和维护。为了能给劳动力提供资金，0L 的资金被转移到由独立组织管理的社区钱包，并通过 Hustle Karma 板用于资助 0L 生态系统内的各项任务。任务（又名「社区计划」）由社区钱包资助，目前通过自动支付获得所有验证者奖励的 50%。目前这个机制还属于测试阶段。
+ 
+在 2021 年 10 月 21 日，项目正式成立，为「Genesis」（创世纪）。
+ 
+0L 网络是针对 100 个验证者优化的网络分支。验证者奖励随着验证者数量的增加而减少，并且在 100 个验证者奖励达到一个底限。在创世时，为了避免验证者泛滥，必须将一个地址加入验证者设置的验证者，并且每个验证者每两周只能加入一个新…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话哥大金融学教授：传统金融与加密世界的碰撞]]></title>
         <id>https://www.theblockbeats.info/news/31852</id>
