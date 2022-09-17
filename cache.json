@@ -74,26 +74,6 @@
           "wordCount": null,
           "title": "为什么我们需要更好的NFT协议标准？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31848",
-          "author": null,
-          "description": "原文标题：《Bringing IBC to Ethereum using ZK-Snarks》\n原文作者：Garvit Goel、Jinank Jain，Electron Labs\n原文编译：红军大叔，IBCL\n\n\n\n\n\n\n这是一篇关于如何将 IBC 带到以太坊的文章。本文的目的是概述该项目的技术细节并获得以太坊社区的支持。让我们深入了解它。\n\n\nIBC 代表 Inter Blockchain Communication - Cosmos 生态系统中的跨链标准。\n\n\n问题背景\n\n\nIBC 遵循轻客户端原则，需要将源区块链和目标区块链的轻客户端实现为智能合约，以验证跨链交易。\n\n\n这意味着，为了将 IBC 连接到 Eth，我们需要在以太坊上以智能合约方式运行 Tendermint 轻客户端 (run the Tendermint light client on Ethereum as a solidity smart contract)。\n\n\n但是这个过程 gas 消耗昂贵，因为这需要在 Solidity 中验证数百个 ed25519 签名，而 ed25519 预编译在以太坊上不可用。一个 ed25519 需要 500K gas。\n\n\n这意味着验证完整的轻客户端 header 将需要至少 5000 万 gas 费（100 个验证者），对于拥有 1000 个验证者的更大的 cosmos 链，则高达 5 亿 gas。\n\n\n因此，为了在以太坊上更便宜地验证签名，我们需要新的方法。\n\n\n解决方案\n\n\n我们通过从 zk-rollups 获得灵感来实现这一目标。我们没有直接在以太坊上验证 ed25519 的签名，（并在 solidity 智能合约内执行曲线操作），而是构建了一个签名有效性的 zk 证明，并在链上验证该证明。\n\n\n在 Electron Labs，我们构建了一个基于 circ…",
-          "link": "https://www.theblockbeats.info/news/31848",
-          "publishedOn": "2022-09-14T09:29:48.000Z",
-          "wordCount": null,
-          "title": "Electron Labs新提案：将IBC整合到以太坊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31847",
-          "author": null,
-          "description": "原文来源：FTX\n\n\n据《金融时报》报道，FTX 旗下的风险投资部门 FTX Ventures 将购买天桥资本 30% 的股权，该资本是由前白宫通讯主任 Anthony Scaramucci 所创立，自去年开始大举进军加密市场。针对这笔交易，双方都在推特表示期待后续的合作。\n\n\n天桥资本于 2020 年底开始投资加密领域。在今年四月时，创办人 Anthony Scaramucci 表示，天桥资本管理的 35 亿美元资金，一半和加密资产相关，当时他说希望能成为「加密资产的管理公司」，并预计未来管理资产将可以增加三倍，达到 100 亿美元。\n\n\n受到加密市场崩跌的影响，天桥资本似乎也受到影响，该资本旗下的 Legion Strategies 基金今年回报率已经下降 30%，因此在七月份暂停用户赎回。\n\n\n不过 Anthony Scaramucci 依然对加密资产充满信心。他指出许多机构包括贝莱德、Coinbase 都开始建立比特币信托，这表示加密市场潜在的机构需求。\n\n\n针对此次收购案，Anthony Scaramucci 表示非常兴奋：\n\n\n「我也非常兴奋，今天真是太棒了。Sam 是个有远见的人，我们会一起讨论，共同实现愿景。」\n\n\n该笔交易的细节尚未透露，但 Anthony Scaramucci 表示，会使用其中的 4,000 万美元资金购买加密货币，而且会长期持有这些加密货币。\n\n\n继续买进、持续扩张\n\n\n根据《彭博社》整理，今年以来，SBF 一直在逢低买进，包括：\n\n\n2022/02/02：FTX 收购日本合规交易所 Liquid，最后改名为 FTX Japan \n2022/03/22：FTX US 收购 Good Luck Games，并入 FTX Gaming \n2022/05/02：SBF 购买 Robinhood 股票 6.48 亿美元，约 7.6% \n2022/06/17：FTX 收购加拿大交易所 Bitvo，进军加拿大市场 \n2022/06/17：Alameda 提供 Voyage Digital 约 4.85 亿美元的贷款 \n2022/06/22：FTX US 收购 Embed，藉以提供 FTX Stocks 服务 \n2022/06/30：FTX US 提供 BlockFi 6.4 亿美元贷款，其中 2.4 亿可以转换成 BlockFi 股权   \n\n\n\nSBF 的加密版图，Source：彭博社\n\n\n再加上这笔收购案，SBF 在今年至少会完成 8 笔收购。\n\n\n另一方面，FTX 也在全球监管层面上有所突破，包括七月底时，FTX 旗下公司 FTX Exchange FZE 获得迪拜监管机构许可，为机构投资人提供衍生品交易服务。\n\n\n另外也有报道指出， FTX 可能会收购韩国加密交易所 Bithumb 的股份。\n\n\n本月初，FTX US Derivative 还聘请了前 CFTC 委员 Jill Sommers，帮助未来的监管合规以及融入金融市场。\n\n\n总体来说，这笔收购天桥 30% 股权的交易延续了 FTX 创办人 SBF 在熊市持续扩张的策略，并继续扮演加密市场的最后借款人。\n\n\n\n\n\n\n \n本文来自投稿，不代表BlockBeats观点\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31847",
-          "publishedOn": "2022-09-14T07:29:48.000Z",
-          "wordCount": null,
-          "title": "SBF继续抄底？FTX再次出手收购天桥资本30%股权",
-          "imageUrl": null
         }
       ]
     },
