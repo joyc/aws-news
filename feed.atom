@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-17T00:44:45.964Z</updated>
+    <updated>2022-09-17T06:12:04.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从8个新 NFT AMM，聊聊能如何为 NFT 提供流动性]]></title>
+        <id>https://www.theblockbeats.info/news/31860</id>
+        <link href="https://www.theblockbeats.info/news/31860"/>
+        <updated>2022-09-17T03:20:24.000Z</updated>
+        <summary type="html"><![CDATA[从8个新 NFT AMM，聊聊能如何为 NFT 提供流动性]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第二十八讲：Hash]]></title>
+        <id>https://www.theblockbeats.info/news/31859</id>
+        <link href="https://www.theblockbeats.info/news/31859"/>
+        <updated>2022-09-17T02:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Solidity极简入门｜第二十八讲：Hash]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊是最好的选择]]></title>
         <id>https://www.theblockbeats.info/news/31857</id>
@@ -294,16 +314,6 @@ Token
 
 
 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们需要更好的NFT协议标准？]]></title>
-        <id>https://www.theblockbeats.info/news/31849</id>
-        <link href="https://www.theblockbeats.info/news/31849"/>
-        <updated>2022-09-14T14:51:35.000Z</updated>
-        <summary type="html"><![CDATA[为什么我们需要更好的NFT协议标准？]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
