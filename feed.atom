@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-19T00:48:52.323Z</updated>
+    <updated>2022-09-19T06:50:54.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -115,16 +115,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
         <link href="https://www.theblockbeats.info/news/31859"/>
         <updated>2022-09-17T02:20:24.000Z</updated>
         <summary type="html"><![CDATA[Solidity极简入门｜第二十八讲：Hash]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊是最好的选择]]></title>
-        <id>https://www.theblockbeats.info/news/31857</id>
-        <link href="https://www.theblockbeats.info/news/31857"/>
-        <updated>2022-09-16T14:43:07.000Z</updated>
-        <summary type="html"><![CDATA[以太坊是最好的选择]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
