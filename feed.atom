@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-19T12:18:56.473Z</updated>
+    <updated>2022-09-19T18:14:08.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深度分析新公链Aptos——性能、生态、发展路线图]]></title>
+        <id>https://www.theblockbeats.info/news/31867</id>
+        <link href="https://www.theblockbeats.info/news/31867"/>
+        <updated>2022-09-19T14:23:16.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Allen Zhao, Mustafa Yilham, Henry Ang &  Jermaine Wong，《Portfolio Insights: Aptos》
+
+
+
+原文编译：Evan Gu，Wayne Zhang
+
+
+前言：  
+
+
+
+
+
+Bixin Ventures 很高兴宣布战略投资基于 Move 的高性能公链 Aptos，此轮融资是延续今年 7 月下旬 Aptos 团队宣布的新一轮融资。本轮融资由 FTX Ventures 和 Jump Crypto 领投，Apollo、Griffin Gaming Partners、Franklin Templeton  、Superscrypt、Circle Ventures 跟投，上一轮投资者 a16z 和 Multicoin 也继续参与此轮投资。我们希望引入更多的战略合作伙伴来促进 Aptos 生态的发展，扩大使用场景，同时推动开发者社区的建设。我们也欢迎希望在 Aptos 上部署产品的创业者与我们联系，共建 Aptos 生态。
+
+
+目录：
+
+
+一、性能
+
+二、安全性
+
+三、发展路线图
+
+四、Aptos 资助计划
+
+五、生态现状
+
+六、结语 & 思考
+
+
+
+
+附录：完整节点和验证节点要求
+
+
+一条以安全和扩展性为主的的区块链
+
+
+Aptos 是一条全新的 L1 区块链，愿景是帮助数十亿人以公平、去中心化、无需许可的方式创建资产和访问网络。Aptos 也被誉为 Diem 的「亲儿子」，Solana 联合创始人 Anatoly 甚至认为相比其他的 EVM 区块链，Aptos 才是 Solana 的直接竞争对手。Aptos 由 CEO Mo Shaikh和 CTO Avery Ching共同创立。CTO Avery Ching 曾是 Meta 内部最著名的 Diem 区块链的技术负责人。在加入 Meta 之前，Mo…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOVE开发入门第八节：MOVE函数练习之 Continue 和 Break]]></title>
+        <id>https://www.theblockbeats.info/news/31866</id>
+        <link href="https://www.theblockbeats.info/news/31866"/>
+        <updated>2022-09-19T13:23:16.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：Aptos乐园
+
+
+MOVE 是一门智能合约开发语言，随着新公链   Aptos 的崛起，MOVE 语言也渐渐进入大众视野。上一节我们主要讲解了 While 和 Loop 循环的应用方法。在循环体中，不同的业务逻辑，会有终止循环以及跳出当前循环执行下轮循环的需求，下面详细讲解 break、continue 实现方式。
+
+
+ 
+
+
+更多视频，请观看：《MOVE开发入门第七节—MOVE函数练习-循环》
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik：什么样的Layer3才是有意义的？]]></title>
         <id>https://www.theblockbeats.info/news/31865</id>
@@ -257,26 +330,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
 
 
 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从8个新 NFT AMM，聊聊能如何为 NFT 提供流动性]]></title>
-        <id>https://www.theblockbeats.info/news/31860</id>
-        <link href="https://www.theblockbeats.info/news/31860"/>
-        <updated>2022-09-17T03:20:24.000Z</updated>
-        <summary type="html"><![CDATA[从8个新 NFT AMM，聊聊能如何为 NFT 提供流动性]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第二十八讲：Hash]]></title>
-        <id>https://www.theblockbeats.info/news/31859</id>
-        <link href="https://www.theblockbeats.info/news/31859"/>
-        <updated>2022-09-17T02:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Solidity极简入门｜第二十八讲：Hash]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

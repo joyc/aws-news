@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31867",
+          "author": null,
+          "description": "原文作者：Allen Zhao, Mustafa Yilham, Henry Ang &  Jermaine Wong，《Portfolio Insights: Aptos》\n\n\n\n原文编译：Evan Gu，Wayne Zhang\n\n\n前言：  \n\n\n\n\n\nBixin Ventures 很高兴宣布战略投资基于 Move 的高性能公链 Aptos，此轮融资是延续今年 7 月下旬 Aptos 团队宣布的新一轮融资。本轮融资由 FTX Ventures 和 Jump Crypto 领投，Apollo、Griffin Gaming Partners、Franklin Templeton  、Superscrypt、Circle Ventures 跟投，上一轮投资者 a16z 和 Multicoin 也继续参与此轮投资。我们希望引入更多的战略合作伙伴来促进 Aptos 生态的发展，扩大使用场景，同时推动开发者社区的建设。我们也欢迎希望在 Aptos 上部署产品的创业者与我们联系，共建 Aptos 生态。\n\n\n目录：\n\n\n一、性能\n\n二、安全性\n\n三、发展路线图\n\n四、Aptos 资助计划\n\n五、生态现状\n\n六、结语 & 思考\n\n\n\n\n附录：完整节点和验证节点要求\n\n\n一条以安全和扩展性为主的的区块链\n\n\nAptos 是一条全新的 L1 区块链，愿景是帮助数十亿人以公平、去中心化、无需许可的方式创建资产和访问网络。Aptos 也被誉为 Diem 的「亲儿子」，Solana 联合创始人 Anatoly 甚至认为相比其他的 EVM 区块链，Aptos 才是 Solana 的直接竞争对手。Aptos 由 CEO Mo Shaikh和 CTO Avery Ching共同创立。CTO Avery Ching 曾是 Meta 内部最著名的 Diem 区块链的技术负责人。在加入 Meta 之前，Mo…",
+          "link": "https://www.theblockbeats.info/news/31867",
+          "publishedOn": "2022-09-19T14:23:16.000Z",
+          "wordCount": null,
+          "title": "深度分析新公链Aptos——性能、生态、发展路线图",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31866",
+          "author": null,
+          "description": "原视频来源：Aptos乐园\n\n\nMOVE 是一门智能合约开发语言，随着新公链   Aptos 的崛起，MOVE 语言也渐渐进入大众视野。上一节我们主要讲解了 While 和 Loop 循环的应用方法。在循环体中，不同的业务逻辑，会有终止循环以及跳出当前循环执行下轮循环的需求，下面详细讲解 break、continue 实现方式。\n\n\n \n\n\n更多视频，请观看：《MOVE开发入门第七节—MOVE函数练习-循环》\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31866",
+          "publishedOn": "2022-09-19T13:23:16.000Z",
+          "wordCount": null,
+          "title": "MOVE开发入门第八节：MOVE函数练习之 Continue 和 Break",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31865",
           "author": null,
           "description": "原文标题：《What kind of layer 3s make sense?》\n原文作者：Vitalik\n\n\n原文编译：董一鸣，链捕手\n\n\n特别感谢 Georgios Konstantopoulos、Karl Floersch 和 Starkware 团队的反馈和审查。\n\n\n在 layer 2 扩容讨论中经常再度浮现的一个话题是「layer 3s」的概念。如果我们可以构建一个 layer 2 协议锚定到 layer 1，以实现其安全性以及增加其可扩展性为主要目的，那么我们当然可以通过构建一个「锚定到 layer 2 以实现安全性，并在其之上增加更多可扩展性」的 layer 3 协议来扩大其规模?\n\n\n这个想法的一个简单版本是：如果你有一个方案，可以让你实现二次方增长，你能把这个方案堆迭在其自身之上并获得指数级增长吗？类似的想法包括我 2015 年的可扩展性论文以及在 Plasma 论文中提到的的 multi-layer 扩展等。不幸的是，如此简单的 layer 3s 概念却没那么容易形成可行方案。由于数据可用性的限制、对紧急提取的 layer 1 带宽的依赖或许多其他问题，设计中总有一些东西是不可堆迭的，并且只能给你一次可扩展性的提升。\n\n\n围绕 layer 3s 的较新想法，如 Starkware 提出的框架，更加复杂：它们不仅仅是将相同的东西堆迭在自身之上，它们还为 layer 2 和 layer 3 分配了不同的用途。如果它以正确的方式完成，这种方法的潜在形式可能行得通。这篇文章将详细介绍在三层架构中哪些可能有意义，哪些可能没有意义。\n \n\n\n为什么你不能通过 stacking rollups 在 rollups 之上来保持扩容？\n \nRollups（请参阅我在此处的较长文章）是一种扩展技术，它结合了不同的技术来解决运行区块链的两个主要扩展瓶颈：计算和数据。计算已由…",
@@ -43,26 +63,6 @@
           "publishedOn": "2022-09-18T08:13:37.000Z",
           "wordCount": null,
           "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31860",
-          "author": null,
-          "description": "从8个新 NFT AMM，聊聊能如何为 NFT 提供流动性",
-          "link": "https://www.theblockbeats.info/news/31860",
-          "publishedOn": "2022-09-17T03:20:24.000Z",
-          "wordCount": null,
-          "title": "从8个新 NFT AMM，聊聊能如何为 NFT 提供流动性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31859",
-          "author": null,
-          "description": "Solidity极简入门｜第二十八讲：Hash",
-          "link": "https://www.theblockbeats.info/news/31859",
-          "publishedOn": "2022-09-17T02:20:24.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门｜第二十八讲：Hash",
           "imageUrl": null
         }
       ]
