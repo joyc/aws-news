@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31879",
+          "author": null,
+          "description": "Web3 3A游戏卖楼花，杠杆化的研发模式会降低高成本？",
+          "link": "https://www.theblockbeats.info/news/31879",
+          "publishedOn": "2022-09-20T14:01:00.000Z",
+          "wordCount": null,
+          "title": "Web3 3A游戏卖楼花，杠杆化的研发模式会降低高成本？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31875",
           "author": null,
           "description": "原文作者：加密研究员 Denis Balitskiy\n原文编译：0x214，BlockBeats\n\n\n\n\n近期，Arbitrum 生态 DEX GMX 势头强劲，9 月 5 日，GMX Token 价格突破 56 美元，距其 8 月低点涨幅超 30%。8 月底，据 Nansen 数据显示，GMX 上交易笔数一度超过 Uniswap，成为 Arbitrum 网络周内交易笔数最多的协议。GMX 作为产生「实际收益」（RealYield）的项目之一，这一概念随之引起市场热议——RealYield 成为 DeFi 最新趋势。\n\n\n\n\n加密研究员 Denis Balitskiy 列举了 10 个产生实际收益的项目以及价值主张，BlockBeats 对其整理翻译如下：\n\n\n\n\n什么是 RealYield？\n\n\n\n\n首先，我们需要明确「RealYield」的定义。\n\n\n\n\n本质上，RealYield 指协议根据其实际收入（一般以 ETH、USDC 等计价）向用户支付收益，这将消除通货膨胀、价格操纵和许多其他不光彩操作对货币价值的负面影响。\n\n\n\n\n而且，在熊市，「实际收益」这样的表述也显得异常有力。\n\n\n\n\n让我们先睹为快。\n\n\n\n\n\n\n\nKujira\n\n\nKujira 从 Terra 崩盘事件中涅槃重生，如今，Kujira 基于 Cosmos 生态推出 Layer1 平台，并配以一句彰显野心的标语「Grown-Up DeFi」。\n\n\n\n\nKujira 团队为用户提供多样化服务：\n\n\n- 超额抵押 Stablecoin USK\n\n\n- 链上订单簿 DEX FIN\n\n\n- 清算市场 ORCA \n\n\n- 质押和收益 App BLUE\n\n\n\n\n后续将会有更多协议被纳入 Kujira 生态。\n\n\n\n\n协议收入来源：Kujira 网络、提款和交易手续费、ORCA 清算等。\n\n\n\n\n官网\n\n\nCle…",
