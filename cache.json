@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31891",
+          "author": null,
+          "description": "PandaDAO解散引发的难题：效率和去中心化，谁更重要？",
+          "link": "https://www.theblockbeats.info/news/31891",
+          "publishedOn": "2022-09-21T14:59:36.000Z",
+          "wordCount": null,
+          "title": "PandaDAO解散引发的难题：效率和去中心化，谁更重要？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31890",
           "author": null,
           "description": "近日，一款号称「通关率不到 0.1%」的 Web2 堆叠式消除游戏《羊了个羊》火遍全网，并为开发商带去了丰厚的收入。但遗憾的是，玩家在游戏中花费了大量的时间与精力后，平台产生的收益却与他们无关。\n\n\n\n\n于是，一款旨在践行 Web3 理念，将用户所产生的一切价值交还给用户的《羊了个羊》链改游戏：gamefi.sheepasheep 应运而生。这是一款基于 BNBChain 开发的区块链游戏，首先与 Web2 版本一样，保持了三个相同方块即消除的玩法，并利用各种道具来进行闯关。\n\n\n\n\n其次，sheep a sheep 对 Web2 版本的源代码进行了升级，加入了 Token 激励机制，未来平台产生的广告费及手续费收入将返还给玩家及 Token 持有者，进而实现游戏生命周期的长久维持。接下来，BlockBeats 将为大家介绍下这款游戏及相关注意事项。\n\n\n\n\n\n\n\n\n\n游戏玩法\n\n\n\n\nsheep a sheep 分为手机端和电脑端。手机上，用户配置好 Web3 钱包后，使用钱包浏览器输入游戏链接即可开始。在电脑上，浏览器输入链接打开游戏后，点击右上角 Connect 链接钱包开始游戏。\n\n\n\n\nsheep a sheep 游戏免费，每日可以无限闯关，Token 上线后每天所有闯关成功的用户，将平分当日奖池。不过，每个用户每天只记录一次闯关成功记录，多次成功也只算一次。\n\n\n\n\n道具卡使用\n\n\n\n\n1）移除道具卡\n\n\n\n\n移除道具卡在游戏中可以使用 YLGY Token 购买，可移出 3 个方块放在卡槽上方，从而增加下方的卡槽空格。\n\n\n\n\n移出道具卡的定价由官方按需进行调整，使其动态维持在 1 移除道具卡 = 0.1 USDT。一局游戏中，最多可以购买 3 次移除道具卡，同时所有消耗的 YLGY Token 将全部自动销毁。\n\n\n\n\n2）撤回道具卡\n\n\n\n\n撤回道具卡在游…",
