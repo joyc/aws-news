@@ -2,10 +2,239 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-21T06:44:37.105Z</updated>
+    <updated>2022-09-21T12:19:17.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GameFi 版本《羊了个羊》可以参与吗？]]></title>
+        <id>https://www.theblockbeats.info/news/31890</id>
+        <link href="https://www.theblockbeats.info/news/31890"/>
+        <updated>2022-09-21T10:04:35.000Z</updated>
+        <summary type="html"><![CDATA[近日，一款号称「通关率不到 0.1%」的 Web2 堆叠式消除游戏《羊了个羊》火遍全网，并为开发商带去了丰厚的收入。但遗憾的是，玩家在游戏中花费了大量的时间与精力后，平台产生的收益却与他们无关。
+
+
+
+
+于是，一款旨在践行 Web3 理念，将用户所产生的一切价值交还给用户的《羊了个羊》链改游戏：gamefi.sheepasheep 应运而生。这是一款基于 BNBChain 开发的区块链游戏，首先与 Web2 版本一样，保持了三个相同方块即消除的玩法，并利用各种道具来进行闯关。
+
+
+
+
+其次，sheep a sheep 对 Web2 版本的源代码进行了升级，加入了 Token 激励机制，未来平台产生的广告费及手续费收入将返还给玩家及 Token 持有者，进而实现游戏生命周期的长久维持。接下来，BlockBeats 将为大家介绍下这款游戏及相关注意事项。
+
+
+
+
+
+
+
+
+
+游戏玩法
+
+
+
+
+sheep a sheep 分为手机端和电脑端。手机上，用户配置好 Web3 钱包后，使用钱包浏览器输入游戏链接即可开始。在电脑上，浏览器输入链接打开游戏后，点击右上角 Connect 链接钱包开始游戏。
+
+
+
+
+sheep a sheep 游戏免费，每日可以无限闯关，Token 上线后每天所有闯关成功的用户，将平分当日奖池。不过，每个用户每天只记录一次闯关成功记录，多次成功也只算一次。
+
+
+
+
+道具卡使用
+
+
+
+
+1）移除道具卡
+
+
+
+
+移除道具卡在游戏中可以使用 YLGY Token 购买，可移出 3 个方块放在卡槽上方，从而增加下方的卡槽空格。
+
+
+
+
+移出道具卡的定价由官方按需进行调整，使其动态维持在 1 移除道具卡 = 0.1 USDT。一局游戏中，最多可以购买 3 次移除道具卡，同时所有消耗的 YLGY Token 将全部自动销毁。
+
+
+
+
+2）撤回道具卡
+
+
+
+
+撤回道具卡在游…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从3个方面讲述PFP NFT的未来迭代之路]]></title>
+        <id>https://www.theblockbeats.info/news/31885</id>
+        <link href="https://www.theblockbeats.info/news/31885"/>
+        <updated>2022-09-21T09:46:35.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《PFP NFT 下一步将走向何方？》
+原文作者：Teng，Delphi Digital 研究员
+原文编译：深潮 TechFlow
+
+
+PFP 他们曾经是 NFT 领域的宠儿，但在近几个月的冲击下，现在下跌得很厉害。一只无聊猿猴在巅峰时期曾价值 40 万美元，现在，它的价值为 10 万美元。这是因为引发多巴胺的投机热潮已经消退。
+
+
+
+
+
+没有人会想到它们在去年会以这种形式爆发，NFT 通过 PFP（个人资料照片）让我们与数字身份绑定在一起，它们不仅仅是一张照片，它们也是社区、文化和社会成员的象征代表。至少，我们是这么认为的。
+
+
+现在，我们的情绪已经平静，我们必须弄清楚：下一步是什么？我们该如何处理这些图片？
+
+
+所有 PFP 都需要认真思考以下三点才能生存：
+
+
+1. 如何从 Web3 过渡到现实世界？
+
+
+今天，大多数 PFP 类似于乡村俱乐部，入场费就是它们的地板价。俱乐部将志同道合的人聚集在一起，进行社交活动。乡村俱乐部会员资格使你有权享受某些特权，如免费使用设施、受邀参加独家活动和对重大决策进行投票。
+
+
+这一点很好。作为一个 "乡村俱乐部"，PFP 可以为其会员做很多有趣的事情。如免费的连帽衫、腰包、夹克和限量版的商品——每个人都喜欢免费的东西。
+
+
+
+
+
+但作为一个独家 "俱乐部"，你很难认清自己的重要性。目前摆在我们面前的事实是，Web3 的原生受众是小众的。
+
+
+问问你的任何一个普通朋友是否听说过 Doodles、Azuki 或 CloneX，答案是否定的。
+
+
+根据购买钱包的数量显示，今天可能有不到 300,000 人活跃在 NFT 中。事实可能更少，因为许多人使用多个钱包。
+
+
+PFP 对于整个世界的文化来说是无足轻重的。他们就算在明天消失，世界大多数人也不会因此流泪。
+
+
+
+
+
+如果 PFP 想要在世界文化之林获得一席之地，他们必须走出去…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要指望CeFi去拯救以太坊]]></title>
+        <id>https://www.theblockbeats.info/news/31889</id>
+        <link href="https://www.theblockbeats.info/news/31889"/>
+        <updated>2022-09-21T09:19:35.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Don't count on CeFi to protect the Ethereum network》
+原文作者：Nothing Research
+原文编译：Jack(0x137)，BlockBeats
+
+
+
+
+没有什么是绝对的，我们必须从不同的角度来评估以太坊 PoS 与 PoW 的优劣。但如果我们用安全性与去中心化进行比较，就像是拿苹果与橙子进行比较一样，讨论将毫无意义。
+
+
+
+
+
+
+
+
+
+我们至少可以从两个角度来思考抗审查性：
+1. 如果被审查，你的交易上链会被阻止多久？
+2. 如果被审查，你能保证你的交易在未来仍然可以打包上链吗？
+
+
+
+
+而为了防止 51% 攻击，让我们考虑以下两个方面：
+1. 黑客攻击要花多少钱？
+2. 他们租用到足够采矿设备的可能性有多大？
+
+
+
+
+对于以太坊合并，我们不应该简单地说 PoS 的去中心化和安全级别比 PoW 的「更高」或者「更低」，这些问题的范围太广了。所以，让我们对其一一进行剖析。
+
+
+
+
+首先来说安全问题。毫无疑问，PoS 下的攻击成本的确变得更高了。这已经讨论过很多次了。如果你试图用你疯狂的哈希率去攻击 PoW 网络，你的实际成本只是你的电费。攻击网络并不会改变你的算力，尤其是当市场上显卡矿机的比例很高时。即使您的攻击失败，您也可以拆除加密采矿设施并出售这些显卡。
+
+
+
+
+但是如果你攻击 PoS 网络，就有可能失去所有质押的 ETH。这使攻击成本增加了数百倍。我们必须意识到，攻击 PoW 的代价是暂时的，然而对于 PoS 来说，它却是永久性的。
+
+
+
+
+但是，在考虑租用挖矿设备时，PoS 的情况会稍差一些。鉴于 PoW 挖矿的物理特性，矿工分散在世界各地，这让你很难租到 ETH 总算力的 51%。这不是成本问题，而是「非一即零」的问题。
+
+
+
+
+PoS 则不同。目前有 1.2 亿个 ETH 在流通，其中 13…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankr与Polygon达成合作，旨在提升Supernet开发者的Web3构建体验]]></title>
+        <id>https://www.theblockbeats.info/news/31887</id>
+        <link href="https://www.theblockbeats.info/news/31887"/>
+        <updated>2022-09-21T07:19:35.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Ankr
+
+
+世界知名的 Web3 基础设施提供商 Ankr 宣布，已与去中心化以太坊扩展平台 Polygon 合作，为使用 Polygon Supernet 创建特定应用程序的 Web3 开发者提升构建体验。
+ 
+Supernet 由模块化区块链堆栈 Polygon Edge 提供支持，具有 EVM 兼容、互操作性、高性能和可定制性。它使开发者能够拥有一个定制的去中心化网络，无需维护区块链基础设施。Supernet 帮助开发者与 Polygon 的专业验证器合作伙伴快速启动去中心化验证器集。
+ 
+Ankr App Chains 是 Polygon Supernet 认可的基础设施供应商，提供了一个兼顾最佳安全性、吞吐量和可定制性的端到端解决方案。Ankr App Chains 使 Web3 开发者能够轻松构建适合其应用程序的自定义区块链。Supernet 提供的高级工具和服务进一步改善了开发者的构建体验。
+ 
+
+
+Ankr App Chain 经理 Kev Silk 表示：「为了推动 Web3 的大规模采用，我们必须为消费者提供比 Web2 更好的用户体验。只有通过简化 Web3 开发才能增强用户体验，这就是为什么我们很高兴与 Polygon Supernet 合作，并为开发者提供必要的基础设施来高效的构建。Ankr App Chains 基础设施和 Polygon Supernet 一起可以为高质量的 Web3 游戏、金融产品和其他去中心化应用提供强大的动力，」
+ 
+Ankr 和 Polygon 的目标是更快捷、更便宜、更简单的在 Web3 上构建。要将 Web3 推向大众，消除区块链开发的复杂性，同时确保可扩展性和可定制性是至关重要的。Polygon Supernet 使开发者能够快速建立可制定的高性能区块链网络。
+ 
+任何以 Solidity、Vyper 或其他语言为以太坊兼容网络编写的智能合约或 dApp 都可以部署到 Polygon Supernet。借助 Ankr App Chains，开发者将可以自由选择想要使用的编程语言、共识机制和开发框架。
+ 
+Polygon Supernet 总经理 Parth Pathak 表示：「 Polygon 非常高兴能与 Ankr 合作，为构建专用区块链提供世界级工具。借助 Polygon Supernet，企业、游戏和娱乐项目可以快速启动专用的应用链，这些链经过优化可以获得一流的 EVM 性能。Polygon 正在将世界领先的 Web3 提供商（如 Ankr）整合到一个全面的生态系统中，使任何团队都能够构建自己的区块链。Supernet 将有助于为 Web3 带来下一个十亿用户。」
+ 
+Web3 开发者可以构建 Supernet 来运行特定的应用程序、项目或用例，同时受到 Polygon 协议的保护，由认证合作伙伴维护，并从 Polygon Edge 架构获得进一步升级。默认情况下，Supernet 之间相互兼容，并且与以太坊区块链兼容。
+ 
+Ankr 通过协助开发者在 Polygon Edge 上构建自己的区块链，加速解决阻碍 Web3 采用的两个最大挑战——缓慢的交易速度和高昂的 Gas 费。由此，每个 dApp 都有一个定制的区块链，存储或计算没有竞争，可扩展性得以蓬勃发展。
+ 
+关于 Ankr
+
+
+Ankr 打造了业内知名的全球节点网络，为 Web3 的未来奠定了基础。目前，Ankr 每月为 30 个链提供约 2500 亿请求服务，并为 18 个区块链合作伙伴运行 RPC 服务，已成为业内最大的 RPC 提供商。Ankr 还提供了一套开发者工具，包括 Liquid Staking SDK、Web3 Gaming SDK 和 App Chains，使 dApp 开发者能够快速轻松地构建 Web3 应用程序。
+
+
+本文来自投稿，不代表BlockBeats观点
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从亏损85 ETH到盈利100 ETH，一个NFT玩家在熊市中的「凤凰涅槃」]]></title>
         <id>https://www.theblockbeats.info/news/31884</id>
