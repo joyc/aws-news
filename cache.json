@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31917",
+          "author": null,
+          "description": "原文标题：《Wiki 001：无关去中心化，我们需要 DAO 的 4 个理由》 \n原文作者：@Maynor，Buidler DAO\n\n\n如果不关注去中心化的实践载体这一身份，DAO 被需要的理由是？\n\n\n我们分析了行业内数十篇深度文章，提出以下四个观点，并结合现有实践给出案例：\n1. 匿名的公平起点\n2. 自动化治理形式铸造信任壁垒\n3. 打破地域与监管的边界\n4. 重新定义工作\n\n\n当一个提问叫做「我们是否真的需要去中心化?」，可能 80% 的人都会选择肯定的答案。\n\n\n当一个组织者说我们要建立一个 DAO（去中心化自治组织）的时候，很少会有人拒绝此类试图以「去中心化」的形式完成权力制衡的治理提议。但是，即使身为 DAO 成员，也鲜有人思考过，我们真的需要 DAO 吗？\n\n\n我为什么沉迷研究 DAO？\n\n\n因为这是区块链治理下可能促成的人类组织的替代形式，是极为性感的叙事。利用区块链技术进行治理的想象空间极大，例如可以避开繁琐的企业成立过程，创造流动的、临时的、全球性的经济合作。它符合「民主」这一亘古话题提倡的精神：高度开放和透明，任何人都可以验证规则是否被遵守。这是在试图用技术手段颠覆人类的判断和信任逻辑。同时，DAO 更代表了一种将权力更公平地交到个人手中的趋势——个人可以在 DAO 中谋求选择权和自主权更大的发展，并开拓更宽阔的视野。\n\n\n更简单地说，DAO 是一种注资项目、治理社区和分享价值的新方式。它解答了这个问题：在一个日益数字化和全球化的世界里，我们将如何一起工作、投资、创造和娱乐。如果区块链、NFT、智能合约、DeFi 协议和 DApps 是工具，那么 DAO 就是使用它们来创造新事物的群体。如果它们是「什么」，DAO 就是「如何」。\n\n\n基于对 DAO 的研究热情，我们分析了行业内数十篇深度文章，试图先回答一个问题：突破去中心化噱头，我们需要 DAO 的…",
+          "link": "https://www.theblockbeats.info/news/31917",
+          "publishedOn": "2022-09-23T03:27:25.000Z",
+          "wordCount": null,
+          "title": "抛开去中心化叙事，我们需要DAO的4个理由",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31915",
+          "author": null,
+          "description": "原文标题：《State of Ethereum Q3 2022》 \n原文作者：Tom Dunleavy、Kunal Goel，Messari\n原文编译：Moni，星球日报\n\n\n\n以太坊协议于 2022 年 9 月 15 日从工作量证明过渡到权益证明，也在开发深度、去中心化金融生态以及 Web3 用例方面得到了广泛认可，但在进入 2022 年最后一个季度之前，仍有一些关键指标和数据需要关注。\n\n\n\n  2021 Q4-2022 Q3 以太坊关键指标  \n\n\n \n 以太坊网络性能分析 \n\n\n\n 1、三季度亮点 \n\n\n \n\n\n以太坊合并后，每日区块奖励从约 13,500 ETH 下降至约 2,000 ETH，大大降低了网络的安全费用。以太坊的活跃地址和交易基本保持稳定，环比变化相对较小。虽然地址和数量可能会随着更广泛的加密采用而增加，但以太坊的网络扩展仍主要来自 L2，而不是更高性能的 L1。\n\n\n \n\n\n需要注意的是，以太坊 2022 年第三季度网络总费用一落千丈，降至 2020 年以来的最低水平，如果这种态势持续到今年下半年，将会直接影响合并后的以太坊质押收益率。\n\n\n\n 2、网络性能 \n\n\n \n\n\n2022 年三季度，以太坊网络日均交易量为 120 万笔，比上一季度增长 6%，其中 ETH 转账和 DeFi 交易增长 7% 和 14%，日均交易量分别为 415,000 笔和 82,000 笔。另一方面，NFT 和桥接交易量出现下降。NFT 交易在本季度下降 17% 至每天 181,000 笔交易，桥接交易下降 41% 至每天 9,000 笔交易。\n\n\n \n\n\n以太坊网络活跃地址数量的增长与交易增长趋势相似，三季度每天有 550,000 个活跃地址，比上一季度增长 5%。不过，这一增长主要是由于 2022 年 7 月 27 日活跃地址的激增，当时著名矿工郭宏才（宝二爷）宣布了…",
+          "link": "https://www.theblockbeats.info/news/31915",
+          "publishedOn": "2022-09-23T01:53:25.000Z",
+          "wordCount": null,
+          "title": "Messari：以太坊合并成功，值得关注的数据",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31916",
           "author": null,
           "description": "原文标题：《盘点 StarkNet 链游生态》\n原文来源：StarkNet 中文\n\n\n本文向读者介绍 StarkNet 链游生态。值得特别注意的是与传统的 GameFi 不同，StarkNet 的链游有强烈的全链 (onchain) 特色。因此本文将先介绍 StarkNet 以及全链理念，然后盘点 StarkNet 链游基础设施以及能够代表 StarkNet 全链理念的十一个游戏。\n\n\nStarkNet 介绍\n\n\nStarkNet 是在语言层次兼容以太坊的 L2，StarkNet 作为 L2 中 ZKR 的一员，在 tps 和 gas 方面的表现远远超过 Optimism 和 Arbitrum 等 OPR。\n\n\n\n\n来源：Xiang｜W3.Hitchhiker，以上计算前提是以当前 ETH 为 2500 U，区块 gaslimit 为 30,000,000，gas 费用为 30 Gwei，平均 13 秒的出块时间计算，极限 TPS 指对应运行环境占领了所有以太坊区块空间 (在证明验证上花费 500,000 gas)，普通 TPS 指对应运行环境占了所有以太坊 1/3 的区块空间\n\n\n\n而在众多 ZKR 之中，StarkNet 是零知识证明（ZKP）的「极端主义者」。StarkNet 开发了适配有效性证明的虚拟机与 Cairo 语言，且基于先进的 STARK 算法实现了递归特性，可以对证明进行证明，简单来讲 StarkNet 的特点就是具有几乎无限的计算潜力。\n\n\n需要注意的是由于 StarkNet 整个网络还未进行最终的状态重置，在到达下一次状态重置时，测试网上的资产可能会被重置，所部署的合约也需要改动，目前在 StarkNet 上的大部分应用都部署在测试网上。\n\n\n全链理念\n\n\n全链游戏与 GameFi 的区别\n\n\n在介绍全链游戏之前需要先说明全链游戏与 GameFi 的…",
@@ -116,6 +136,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theblockbeats.info/news/31877",
+          "author": null,
+          "description": "第二届 TOKEN 2049 大会将于 2022 年 9 月 28 日在新加坡开幕。大会持续两天（9 月 28 日—29 日）。本次大会期间，全球一些极具开创性加密项目将齐聚重量级活动的现场，围绕监管格局、机构投资趋势、web3 崛起、元宇宙等主题展开专题演讲。\n\n\n\n大会有望吸引来自全球各地的数千名与会人员。演讲嘉宾包括 Dragonfly Capital 执行合伙人 Haseeb Kureshi、开源和非托管式流动性协议公司 AAVE 的创始人 Stani Kulechov；Starkware 总裁、隐私保护密码验证工具 zkSTARK 的联合发明人 Eli Ben-Sasson 等。\n\n\n同时本次大会周边活动同样亮眼，BlockBeats与光源资本将于9月26日在新加坡举办线下交流活动，届时光源资本、FTX 、Tiger Global、OFR、Hashkey、LayerZero、NEAR等知名投资机构或协议团队进行对话，活动邀请函申请链接：https://lu.ma/lzyn2le8（我们将以邮件方式发放邀请函，现场凭邀请函及手环入场）\n\n\n更多活动详情点击查看活动页面。\n\n\n\n\n\n\nBlockBeats 同事将亲临现场，将为读者带来前线最新消息与精彩内容。\n\n\n\n大会链接：https://www.asia.token2049.com/\n\n\nTOKEN 2049（新加坡）会议议程如下：\n\n\nWEMADE STAGE丨9月28日\n\n\n\n\n\n\n\n\n\n\n\n  WEMADE STAGE 丨 9 月 29 日  \n\n\n\n\n\n\n\n\n\n\n\n\nTRUST EVM STAGE丨9月28日\n\n\n\n\n\n\n\n\n\n\n\n  TRUST EVM STAGE 丨 9 月 29 日  \n\n\n\n\n\n\n\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/31877",
+          "publishedOn": "2022-09-21T03:53:25.000Z",
+          "wordCount": null,
+          "title": "Web3盛会TOKEN2049（新加坡）于2022年9月28日开幕，周边活动抢先看",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31882",
           "author": null,
           "description": "原文来源：\n\nConflux \n\n\n\n在 2022 年 9 月 21 日召开的 Conflux OS 操作系统发布会上，上海树图区块链研究院发布了面向 Web3.0 的 Conflux OS 操作系统。本次发布会由上海市科学技术委员会、上海市徐汇区人民政府指导，上海树图区块链研究院主办，湖南湘江树图信息科技创新中心协办。\n\n\n发布会上，Conflux 树图创始人、上海树图区块链研究院院长龙凡教授，介绍了 Conflux OS 产品与产品研发背景；上海树图区块链研究院研究总监杨光博士，从技术角度详解了 Conflux OS。\n\n\n\n背景\n\n\n\n当今世界，科技创新是第一生产力，互联网革命是我们对于这一创新理念的最切近、最直观的体验。世界互联网诞生 53 年，中国全功能接入互联网 28 年。28 年来，中国互联网发展历程波澜壮阔，迅速成为生产力的第一推动力，全方位驱动中国经济高质量发展，数字经济已然成为中国经济发展的新引擎、新亮点、新动能。截止 2021 年我国数字经济规模达 45.5 万亿，总量稳居世界第二。\n\n\n互联网是人类通信技术的重大革命，对人类社会产生了极其深远的影响。随着当前各类信息技术的迭代创新，互联网正呈现向下一代互联网演进的趋势。这一演进或将引发新一轮的信息革命，进一步深刻改变人们的生活、工作以及社会的方方面面。在 Web1.0 问世前夕的 1993 年，美国克林顿政府出台「国家信息基础设施」战略计划，大力建设信息时代的「高速公路」，从而获得 Web1.0 和 Web2.0 的全球领导地位。互联网经过 30 年的发展，如今正处在 Web2.0 向 Web3.0 演进的重要时点。\n\n\n不同于技术领域的常见的以技术指标划分代际的方式（例如移动通信领域的 2G/3G/4G/5G 或芯片领域的 28nm/16nm/7nm 制程等），Web1.0、Web2.0、Web3.…",
@@ -123,16 +153,6 @@
           "publishedOn": "2022-09-21T03:46:16.000Z",
           "wordCount": null,
           "title": "Conflux OS的诞生：建设操作系统级区块链基础设施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31879",
-          "author": null,
-          "description": "Web3 3A游戏卖楼花，杠杆化的研发模式会降低高成本？",
-          "link": "https://www.theblockbeats.info/news/31879",
-          "publishedOn": "2022-09-20T14:01:00.000Z",
-          "wordCount": null,
-          "title": "Web3 3A游戏卖楼花，杠杆化的研发模式会降低高成本？",
           "imageUrl": null
         }
       ]
