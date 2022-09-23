@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31928",
+          "author": null,
+          "description": "原文作者：cs361\n原文编译：Jack(0x137)，BlockBeats\n\n\n\n\nAMM 创新推动了 DeFi 行业的爆炸性增长，从上个周期的 5 亿美元增长到巅峰时期 200 亿美元——今 400 倍的增长。如果我告诉你，我们正处于另一项可能产生类似影响的创新边缘怎么办？让我们向效率迈进：无/低抵押贷款。\n\n\n\n\n信贷市场的存在是刺激经济增长的关键，也是高效经济体系的核心部分。在 TradFi 中，有担保贷款和无担保贷款。担保贷款需要抵押资产，如房屋、汽车或股票，贷款价值比约为 110%。这些价格便宜，因为交易对手风险很小。无抵押贷款则有更高的利率，并且仅由信用评分背书。\n\n\n\n\n虽然担保贷款已经是 DeFi 不可或缺的一部分（尽管 LTV 更高），但没有无担保贷款是一个巨大的瓶颈。那为什么这个有近百年历史的金融工具，上链会这么难？几个方面：\n\n\n\n\n信用违约\n\n在传统世界中，有看门人（Gatekeeper）来执行 KYC 和信誉评级，但这违背了 DeFi 的自动化、透明和非歧视性的原则。而在没有这些标准的辅助下，借款人作弊的一个主要策略就是不偿还贷款。\n\n\n\n\n速度降低\n\n对借款人的任何形式的额外检查都会使贷款批准时间明显变慢。不过当前的超额抵押贷款服务提供极快的贷款审批，这是 DeFi 的独特卖点。\n\n\n\n\n较低的流动性/灵活性\n\n大多数借款人只对可预测的固定利率和定期贷款感兴趣。贷方需要在更长的时间内舒适地锁定其资产。在充满活力的加密市场中，很少有人愿意这样做。\n\n\n\n\n监管风险\n\n提供无抵押贷款将引起监管对提供它们的协议的关注，自 08 年金融危机后就一直是这样。\n\n\n\n\n特定贷款风险\n\n1. 现实世界的资产和 NFT 贷款，即资产流动性\n2. 信用评分——稀缺的链上数据，任何人都可以做无限的钱包\n3. 链下信用整合——依赖于 TradFi 基础设施\n\n\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/31928",
+          "publishedOn": "2022-09-23T09:48:39.000Z",
+          "wordCount": null,
+          "title": "未来的DeFi如何引入无抵押贷款？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31925",
+          "author": null,
+          "description": "原文作者：@SteakHut Finance，@pelano.avax\n原文编译：比得潘 @BlockBeats\n\n\n\n\n\n\n\n\n今年 8 月，Trader Joe 推出了 v2 版本「Liquidity Book」，将集中流动性引入 DEX，这是一种使用「价格箱」离散流动性后再聚合，实现「离散化集中流动性」的方式。\n\n\n\n\n通过对流动性进行分组，将资产对的流动性安排在不同的「离散箱」中，每个箱都有一个特定的价格，从而使用户能够同时为多个箱提供流动性。\n\n\n\n\n具体来看，Liquidity Books 创造新颖的地方主要体现在以下 4 个方面。\n\n\n\n\n1）离散流动性箱\n\nLiquidity Book 使用了 Bins 设计，没有像 Uniswap V3 那样的刻度设计。只有活跃价格箱包含两个 Token，低于活跃箱价格区间的箱将只有 Token Y，而上面的箱则只有 Token X。\n\n\n\n\n\n\n\n\n\n2）零滑点\n\nLiquidity Bins 设计还带来了零滑点，只要在当前的活跃箱中，用户就可以进行零滑点交易，滑点只会在活跃箱中的资产耗尽并且价格需要移动到另一个箱时才会发生。\n\n\n\n\n3）更高的灵活性\n\n不像 Uniswap V3，Liquidity Book 将 LP 头寸包装在一个更通用的合约中，类似于 ERC-1155 标准，使其具有可替代性，如 ERC-20 Token 一样。\n\n\n\n\n4）波动率累加器和可变费用\n\n\n\n提供集中流动性的一个缺点是流动性范围较窄导致的无常损失增加。Liquidity Book 通过使用波动率累加器和可变费用机制来缓解这种情况。\n\n\n\n\n波动率累加器是 Liquidity Book 无需外部数据源即可立即确定市场波动率的方式，每次有人进行交换时都会发生这种情况。\n\n\n\n\nLP 收取的互换费用总额有两个部分，一个是基本费用，一个是可变…",
+          "link": "https://www.theblockbeats.info/news/31925",
+          "publishedOn": "2022-09-23T09:05:39.000Z",
+          "wordCount": null,
+          "title": "6种离散化集中流动性构建方式，Liquidity Book 如何改变 Avalanche 上 DeFi 格局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31923",
+          "author": null,
+          "description": "原文标题：《Sept. 21, 2022: Endogenous Collaterization》\n原文编译：0x214，BlockBeats\n\n\n\n\n9 月 20 日，据彭博社报道，美国众议院正在起草监管 Stablecoin 的立法，将对类似 UST 的算法 Stablecoin 实施为期两年的禁令。根据最新版本草案副本显示，发行或创建新的「内生抵押 Stablecoin」（Endogenously Collateralized Stablecoin）是非法的。众议院委员会最早可能于下周对该立法草案进行投票。对此，Curve 发布文章深入解析「内生抵押 Stablecoin」这一全新术语，BlockBeats 对其整理翻译如下：\n\n\n9 月 20 日消息一出，一时间，推特上充斥了利空消息。一系列关于美国Stablecoin 法案草案的报道被传得人尽皆知，该法案可能彻底击垮 Stablecoin。\n\n\n\n\n\n\n\n市场恐慌情绪迅速蔓延，FXS 应声暴跌 10%。\n\n\n\n\n\n\n\n\n\n到底发生了什么事儿？加密研究员 EasonWu 迅速做出总结：\n\n\n\n\n- 该法案将限制美国 Stablecoin 发行商获批准；\n- 该法案仍处于早期阶段，仍有变化可能；\n- 中心化 Stablecoin 基本不受影响；\n- FRAX 将进行小幅调整以符合规定；\n- 超额抵押 Stablecoin 不受影响；\n- 该法案扼杀 Stablecoin 创新，但仍存在生存空间。\n\n\n\n\n离作风迟缓的立法者真正对该法案采取行动还有一段时间，该法案仍处于草案阶段，这意味着它甚至还没有在国会注册登记。这使得它远远落后于其他几个威胁 Stablecoin 的法案，这些法案还未真正落实。\n\n\n\n\nHR 7328：Stablecoin 透明度法案，Trey Hollingsworth，3 月 31 日\nS 397…",
+          "link": "https://www.theblockbeats.info/news/31923",
+          "publishedOn": "2022-09-23T09:03:39.000Z",
+          "wordCount": null,
+          "title": "Curve解析美国最新稳定币草案：把Builder赶出美国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31924",
+          "author": null,
+          "description": "原文来源：JackyLHH，Fork It 社区成员\n\n\n\n在 8 月 31 日发布 Fork It #22：PoW vs PoS（文字版）之后，被大家戏称为「年更」的中文播客节目 Fork It 赶在以太坊合并前夕，录制了第 23 期：Fork It #23：PoS 是谎言么？这一期由Daniel和Terry共同主持，邀请到了BTCStudy的内容负责人阿剑老师，来跟大家聊聊关于 PoW vs PoS 的争论，他的观点和立场。\n\n\n阿剑老师曾经是以太坊中文社区非常硬核的研究者，翻译者，内容贡献者，主持人的愿望是话题能够深入浅出，但是阿剑老师实力不允许，所以如果你对 PoW/PoS 以及分布式共识算法的设计思想和基础概念有所了解，那么会帮助你理解为什么通过阿剑老师的分析可以得出 PoW 全面优于 PoS 这个结论。\n\n\n如果你对「Ethereum Merge」的问题分析以及什么是「比特币思想」更感兴趣，可以直接跳到播客的 1:10:00 开始听，也可以直接找到相应的文字稿进行阅读。\n\n\n访谈结尾处阿剑老师最让主持人动容的一段话，摘录于此：一个技术范式应该想到它应该保护自己的用户，它应该保护共识，它应该珍惜每一分来之不易的共识，它应该容纳每一个可能容纳的个体去进入这个生态，去能够用它来继续做梦，去 为一个遥远的我能够想象的美好未来去奋斗。\n\n\n以下是社区成员（HelloKelly.bit、JackyLHH、Yifan.bit）整理的文字稿，全文大约 2.6 万字：\n\n\n1、开场介绍\n\n\nDaniel：大家好，欢迎收听新一期 Fork It，我是消失了很久的节目主持人 Daniel，今天由我跟 Terry 一起来主持，我们邀请到了阿剑老师来做客。\n\n\n在开始之前，我先做一个当前特殊的时间点介绍。本期节目录制的时间正非常接近以太坊社区的一个非常大的事件，就是所谓的以太坊 Merg…",
+          "link": "https://www.theblockbeats.info/news/31924",
+          "publishedOn": "2022-09-23T09:03:39.000Z",
+          "wordCount": null,
+          "title": "前以太坊爱好者阿剑：PoS是谎言么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31917",
           "author": null,
           "description": "原文标题：《Wiki 001：无关去中心化，我们需要 DAO 的 4 个理由》 \n原文作者：@Maynor，Buidler DAO\n\n\n如果不关注去中心化的实践载体这一身份，DAO 被需要的理由是？\n\n\n我们分析了行业内数十篇深度文章，提出以下四个观点，并结合现有实践给出案例：\n1. 匿名的公平起点\n2. 自动化治理形式铸造信任壁垒\n3. 打破地域与监管的边界\n4. 重新定义工作\n\n\n当一个提问叫做「我们是否真的需要去中心化?」，可能 80% 的人都会选择肯定的答案。\n\n\n当一个组织者说我们要建立一个 DAO（去中心化自治组织）的时候，很少会有人拒绝此类试图以「去中心化」的形式完成权力制衡的治理提议。但是，即使身为 DAO 成员，也鲜有人思考过，我们真的需要 DAO 吗？\n\n\n我为什么沉迷研究 DAO？\n\n\n因为这是区块链治理下可能促成的人类组织的替代形式，是极为性感的叙事。利用区块链技术进行治理的想象空间极大，例如可以避开繁琐的企业成立过程，创造流动的、临时的、全球性的经济合作。它符合「民主」这一亘古话题提倡的精神：高度开放和透明，任何人都可以验证规则是否被遵守。这是在试图用技术手段颠覆人类的判断和信任逻辑。同时，DAO 更代表了一种将权力更公平地交到个人手中的趋势——个人可以在 DAO 中谋求选择权和自主权更大的发展，并开拓更宽阔的视野。\n\n\n更简单地说，DAO 是一种注资项目、治理社区和分享价值的新方式。它解答了这个问题：在一个日益数字化和全球化的世界里，我们将如何一起工作、投资、创造和娱乐。如果区块链、NFT、智能合约、DeFi 协议和 DApps 是工具，那么 DAO 就是使用它们来创造新事物的群体。如果它们是「什么」，DAO 就是「如何」。\n\n\n基于对 DAO 的研究热情，我们分析了行业内数十篇深度文章，试图先回答一个问题：突破去中心化噱头，我们需要 DAO 的…",
