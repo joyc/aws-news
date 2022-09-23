@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31931",
+          "author": null,
+          "description": "原文标题：《The creator economy: a power law》\n原文作者：Christophe Rainville、Simon Levine\n原文编译：ChinaDeFi\n\n\n近年来，关于创作者经济的观点很多。有些描绘了一幅美好的画面：数百万个体经营者获得了追逐自己激情的权力——这意味着，为这些创作者开发工具和服务的公司将拥有广阔、横向的市场机会。\n  \n\n\n\n\n\n\n\n\n\n\n年轻的媒体消费者——他们将在未来几十年拥有最大的消费能力——有着与前几代人不同的习惯。2022 年，89% 的英国儿童习惯在 YouTube 和抖音等视频平台上消费内容，而习惯观看电视直播的儿童不到 50%。要知道，在 2012 年，孩子们花在电视上的时间比任何其他内容媒体都多。但在一个新兴市场中，将信号从噪音中分离出来可能是一件棘手的事情。在创作者经济价值链中，权力究竟在哪里？哪些是最具吸引力的细分市场？作为投资者，我们在哪里可以找到风险规模的机会（包括在软件和工具领域）？\n\n\n\n\n我们对创作者经济的看法如下：\n\n\n\n\n创作者不是平等的。关注度和收入的分布存在「幂定律」，前 0.5% 的创作者获得了高度集中的粘性。如果只关注创作者的长尾，而收益则集中在发行的「头部」，那么很难实现风险规模的结果。\n\n\n优质创作者已经发展成为成熟的媒体公司，自动化的机会正在出现。优质创作者最好被理解为成熟的媒体公司，由内部团队和成熟的服务行业提供支持。我们开始看到更多的自动化：软件正在加强传统的手动工作流程，如内容再利用 / 联合、国际化、品牌合作和受众分析。\n\n\n创作者的收入来源取决于他们的主要发行平台。反过来，这也意味着他们的工具需求会有所不同。对于专注于较长视频 ( 如 Youtube, Twitch) 的创作者来说，平台内广告是关键的收入驱动因素——因此是最需要优化的项目。相反，对于那些专注于基于…",
+          "link": "https://www.theblockbeats.info/news/31931",
+          "publishedOn": "2022-09-23T14:23:44.000Z",
+          "wordCount": null,
+          "title": "创作者经济的黎明，创业公司的机会在哪里？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31928",
           "author": null,
           "description": "原文作者：cs361\n原文编译：Jack(0x137)，BlockBeats\n\n\n\n\nAMM 创新推动了 DeFi 行业的爆炸性增长，从上个周期的 5 亿美元增长到巅峰时期 200 亿美元——今 400 倍的增长。如果我告诉你，我们正处于另一项可能产生类似影响的创新边缘怎么办？让我们向效率迈进：无/低抵押贷款。\n\n\n\n\n信贷市场的存在是刺激经济增长的关键，也是高效经济体系的核心部分。在 TradFi 中，有担保贷款和无担保贷款。担保贷款需要抵押资产，如房屋、汽车或股票，贷款价值比约为 110%。这些价格便宜，因为交易对手风险很小。无抵押贷款则有更高的利率，并且仅由信用评分背书。\n\n\n\n\n虽然担保贷款已经是 DeFi 不可或缺的一部分（尽管 LTV 更高），但没有无担保贷款是一个巨大的瓶颈。那为什么这个有近百年历史的金融工具，上链会这么难？几个方面：\n\n\n\n\n信用违约\n\n在传统世界中，有看门人（Gatekeeper）来执行 KYC 和信誉评级，但这违背了 DeFi 的自动化、透明和非歧视性的原则。而在没有这些标准的辅助下，借款人作弊的一个主要策略就是不偿还贷款。\n\n\n\n\n速度降低\n\n对借款人的任何形式的额外检查都会使贷款批准时间明显变慢。不过当前的超额抵押贷款服务提供极快的贷款审批，这是 DeFi 的独特卖点。\n\n\n\n\n较低的流动性/灵活性\n\n大多数借款人只对可预测的固定利率和定期贷款感兴趣。贷方需要在更长的时间内舒适地锁定其资产。在充满活力的加密市场中，很少有人愿意这样做。\n\n\n\n\n监管风险\n\n提供无抵押贷款将引起监管对提供它们的协议的关注，自 08 年金融危机后就一直是这样。\n\n\n\n\n特定贷款风险\n\n1. 现实世界的资产和 NFT 贷款，即资产流动性\n2. 信用评分——稀缺的链上数据，任何人都可以做无限的钱包\n3. 链下信用整合——依赖于 TradFi 基础设施\n\n\n\n\n…",
@@ -163,36 +173,6 @@
           "publishedOn": "2022-09-21T07:19:35.000Z",
           "wordCount": null,
           "title": "Ankr与Polygon达成合作，旨在提升Supernet开发者的Web3构建体验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31884",
-          "author": null,
-          "description": "撰文：Cookie，律动BlockBeats\n\n\n加密钱包被盗事件越发频繁，方式层出不穷，防不胜防。5 月底，一个叫 Hanwe 的 NFT 玩家由于电脑中了木马，被盗走了 85 ETH。\n\n\n\n\n\n\n\n所幸，这 85 ETH 不是他的全部资产。慌乱与沮丧过后，他决定振作起来，挑战在 3 个月内赚回 85 ETH。\n\n\n\n\n\n\n\n\n\n尽管有一些超时，但在昨天，一个项目帮助他瞬间起飞，狂赚近 100 ETH 从而完成了这项不可思议的挑战。这个项目，叫做「Hedz by Matt Furie」。\n\n\n「Pepe 之父」的威力\n\n\n\n\n\n\n你可能不知道 Matt Furie 是谁，但你一定知道下面这只青蛙：\n\n\n\n\n\n\n\n\n\n\n\n「Pepe the frog」\n\n\n\n\n\n\nMatt Furie 正是「Pepe the frog」的创作者。在与 Meme 天作之合的 NFT 市场，作为当代最知名的 Meme 之一的「Pepe the frog」自然书写了自己的辉煌。2021 年 4 月，Matt Furie 授权的第一个「Pepe the frog」NFT——「Feels good man」在 Chain/Saw 平台上被 punk4156 以 420 ETH（约 102 万美元）的价格购入，他将「Pepe the frog」称之为「当代的蒙娜丽莎」。大约半年后，punk4156 在 OpenSea 上将这个「当代的蒙娜丽莎」的创世 NFT 以 1000 ETH（约为 351 万美元）的价格售出。\n\n\n\n\n\n\n\n\n\n\n\n「Feels good man」\n\n\n\n\n\n\n2021 年 6 月，Matt Furie 推出了新的「Pepe the frog」NFT，一个总量为 100 的系列，名为「PEGZ」。在初始竞标中，其最高成交价为 100 ETH（约 33 万美元），之后也曾在 40…",
-          "link": "https://www.theblockbeats.info/news/31884",
-          "publishedOn": "2022-09-21T05:18:43.000Z",
-          "wordCount": null,
-          "title": "从亏损85 ETH到盈利100 ETH，一个NFT玩家在熊市中的「凤凰涅槃」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31877",
-          "author": null,
-          "description": "第二届 TOKEN 2049 大会将于 2022 年 9 月 28 日在新加坡开幕。大会持续两天（9 月 28 日—29 日）。本次大会期间，全球一些极具开创性加密项目将齐聚重量级活动的现场，围绕监管格局、机构投资趋势、web3 崛起、元宇宙等主题展开专题演讲。\n\n\n\n大会有望吸引来自全球各地的数千名与会人员。演讲嘉宾包括 Dragonfly Capital 执行合伙人 Haseeb Kureshi、开源和非托管式流动性协议公司 AAVE 的创始人 Stani Kulechov；Starkware 总裁、隐私保护密码验证工具 zkSTARK 的联合发明人 Eli Ben-Sasson 等。\n\n\n同时本次大会周边活动同样亮眼，BlockBeats与光源资本将于9月26日在新加坡举办线下交流活动，届时光源资本、FTX 、Tiger Global、OFR、Hashkey、LayerZero、NEAR等知名投资机构或协议团队进行对话，活动邀请函申请链接：https://lu.ma/lzyn2le8（我们将以邮件方式发放邀请函，现场凭邀请函及手环入场）\n\n\n更多活动详情点击查看活动页面。\n\n\n\n\n\n\nBlockBeats 同事将亲临现场，将为读者带来前线最新消息与精彩内容。\n\n\n\n大会链接：https://www.asia.token2049.com/\n\n\nTOKEN 2049（新加坡）会议议程如下：\n\n\nWEMADE STAGE丨9月28日\n\n\n\n\n\n\n\n\n\n\n\n  WEMADE STAGE 丨 9 月 29 日  \n\n\n\n\n\n\n\n\n\n\n\n\nTRUST EVM STAGE丨9月28日\n\n\n\n\n\n\n\n\n\n\n\n  TRUST EVM STAGE 丨 9 月 29 日  \n\n\n\n\n\n\n\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/31877",
-          "publishedOn": "2022-09-21T03:53:25.000Z",
-          "wordCount": null,
-          "title": "Web3盛会TOKEN2049（新加坡）于2022年9月28日开幕，周边活动抢先看",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31882",
-          "author": null,
-          "description": "原文来源：\n\nConflux \n\n\n\n在 2022 年 9 月 21 日召开的 Conflux OS 操作系统发布会上，上海树图区块链研究院发布了面向 Web3.0 的 Conflux OS 操作系统。本次发布会由上海市科学技术委员会、上海市徐汇区人民政府指导，上海树图区块链研究院主办，湖南湘江树图信息科技创新中心协办。\n\n\n发布会上，Conflux 树图创始人、上海树图区块链研究院院长龙凡教授，介绍了 Conflux OS 产品与产品研发背景；上海树图区块链研究院研究总监杨光博士，从技术角度详解了 Conflux OS。\n\n\n\n背景\n\n\n\n当今世界，科技创新是第一生产力，互联网革命是我们对于这一创新理念的最切近、最直观的体验。世界互联网诞生 53 年，中国全功能接入互联网 28 年。28 年来，中国互联网发展历程波澜壮阔，迅速成为生产力的第一推动力，全方位驱动中国经济高质量发展，数字经济已然成为中国经济发展的新引擎、新亮点、新动能。截止 2021 年我国数字经济规模达 45.5 万亿，总量稳居世界第二。\n\n\n互联网是人类通信技术的重大革命，对人类社会产生了极其深远的影响。随着当前各类信息技术的迭代创新，互联网正呈现向下一代互联网演进的趋势。这一演进或将引发新一轮的信息革命，进一步深刻改变人们的生活、工作以及社会的方方面面。在 Web1.0 问世前夕的 1993 年，美国克林顿政府出台「国家信息基础设施」战略计划，大力建设信息时代的「高速公路」，从而获得 Web1.0 和 Web2.0 的全球领导地位。互联网经过 30 年的发展，如今正处在 Web2.0 向 Web3.0 演进的重要时点。\n\n\n不同于技术领域的常见的以技术指标划分代际的方式（例如移动通信领域的 2G/3G/4G/5G 或芯片领域的 28nm/16nm/7nm 制程等），Web1.0、Web2.0、Web3.…",
-          "link": "https://www.theblockbeats.info/news/31882",
-          "publishedOn": "2022-09-21T03:46:16.000Z",
-          "wordCount": null,
-          "title": "Conflux OS的诞生：建设操作系统级区块链基础设施",
           "imageUrl": null
         }
       ]
