@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-24T06:17:03.019Z</updated>
+    <updated>2022-09-24T12:16:43.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如果美国最新稳定币草案通过，意味着什么？]]></title>
+        <id>https://www.theblockbeats.info/news/31933</id>
+        <link href="https://www.theblockbeats.info/news/31933"/>
+        <updated>2022-09-24T10:35:47.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《The Kill Bill: What the Future Holds for Stablecoins》
+原文作者：easonw.eth
+原文编译：Kxp，BlockBeats
+
+
+
+引言
+
+
+
+
+对于 Crypto 来说，数字资产的监管法案并不陌生。今天，众议院公布了一项法案草案，旨在对 Stablecoin 做出监管，这对于 Stablecoin 的发行和抵押都会造成影响。作为第三大 Crypto 资产，Stablecoin 的市值甚至能与 Ethereum 齐平，高达 1528 亿美元。
+
+
+
+
+该项法案是否会让 Stablecoin 退出历史舞台？对于目前和未来的 Stablecoin 来说又意味着什么？
+
+
+
+
+法案的内容与审议进度
+
+
+
+
+具体内容
+
+
+
+
+该法案为 Stablecoin 搭建了一个制度框架，规定了 Stablecoin 发行的人员资质和方式方法。法案中还提到，Stablecoin 将需要「完全由现金或高流动性资产抵押」，虽然草案中并未详细规定「高流动性资产」的具体范围，但可以肯定的是其中必然包括美国国债。银行和非银行只有在获批之后才可以发行 Stablecoin，违规者将判处最高 5 年的监禁和 100 万美元的罚款。
+
+
+
+
+现有的 Stablecoin 将获得两年的宽限期，以符合该法案的规定。同时，「内生抵押 Stablecoin」也将划入违法范畴，即 Stablecoin 不能由其现有生态系统中的 Token 进行抵押（例如，UST-LUNA 类型的 Stablecoin）。
+
+
+
+
+通过时间
+
+
+
+
+一般来说，法案的通过要经历 5 个阶段：1）草案引入；2）参议院投票通过；3）众议院投票通过；4）总统审批通过；5）成为法律。不过，这项法案甚至还没有进入第一阶段，也还没有被正式提出。由于该法案刚刚初具雏形，在进入第一阶段前它…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Art Gobblers：最前卫的发行，顶级机构Paradigm亲手打造的「NFT版生物圈二号」]]></title>
         <id>https://www.theblockbeats.info/news/31932</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31933",
+          "author": null,
+          "description": "原文标题：《The Kill Bill: What the Future Holds for Stablecoins》\n原文作者：easonw.eth\n原文编译：Kxp，BlockBeats\n\n\n\n引言\n\n\n\n\n对于 Crypto 来说，数字资产的监管法案并不陌生。今天，众议院公布了一项法案草案，旨在对 Stablecoin 做出监管，这对于 Stablecoin 的发行和抵押都会造成影响。作为第三大 Crypto 资产，Stablecoin 的市值甚至能与 Ethereum 齐平，高达 1528 亿美元。\n\n\n\n\n该项法案是否会让 Stablecoin 退出历史舞台？对于目前和未来的 Stablecoin 来说又意味着什么？\n\n\n\n\n法案的内容与审议进度\n\n\n\n\n具体内容\n\n\n\n\n该法案为 Stablecoin 搭建了一个制度框架，规定了 Stablecoin 发行的人员资质和方式方法。法案中还提到，Stablecoin 将需要「完全由现金或高流动性资产抵押」，虽然草案中并未详细规定「高流动性资产」的具体范围，但可以肯定的是其中必然包括美国国债。银行和非银行只有在获批之后才可以发行 Stablecoin，违规者将判处最高 5 年的监禁和 100 万美元的罚款。\n\n\n\n\n现有的 Stablecoin 将获得两年的宽限期，以符合该法案的规定。同时，「内生抵押 Stablecoin」也将划入违法范畴，即 Stablecoin 不能由其现有生态系统中的 Token 进行抵押（例如，UST-LUNA 类型的 Stablecoin）。\n\n\n\n\n通过时间\n\n\n\n\n一般来说，法案的通过要经历 5 个阶段：1）草案引入；2）参议院投票通过；3）众议院投票通过；4）总统审批通过；5）成为法律。不过，这项法案甚至还没有进入第一阶段，也还没有被正式提出。由于该法案刚刚初具雏形，在进入第一阶段前它…",
+          "link": "https://www.theblockbeats.info/news/31933",
+          "publishedOn": "2022-09-24T10:35:47.000Z",
+          "wordCount": null,
+          "title": "如果美国最新稳定币草案通过，意味着什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31932",
           "author": null,
           "description": "撰文：0xLaughing，律动 BlockBeats\n\n\n即便你是一个 Web3 新人，也一定听过 Paradigm 的名字。这家由红杉资本合伙人 Matt Huang 和 Coinbase 联合创始人 Fred Ehrsam 联合成立的投资机构，在 4 年时间里已经让 Paradigm 的名字遍布行业。包括 FTX、Coinbase、OpenSea、dYdX 等等在内的投资版图，已经横跨 DeFi、NFT、公链等多个加密领域。\n\n\n\n\n而现在，NFT 项目 Art Gobblers 是这家顶级投资机构的绝对重心。\n\n\n\n\n在不到一个月的时间里连续发布了 4 篇与之相关的绿皮书（Paradigm 的说明文档），它对目前 NFT 领域存在的问题做了全面革新：在 NFT 发行方面采用了可变利率的渐进式荷兰拍卖 (VRGDA)，在 NFT 配套的 ERC20 Token 发行采用了渐进所有权优化模型 (GOO)，在创作者参与形式方面采用了新的创作工具和 Pages NFT 玩法，在策展形式方面构建了「去中心化画廊」。\n\n\n\n\n这是由 Paradigm 这家顶级投资机构亲手打造的「NFT 版生物圈二号」，它有可能成为 NFT 行业的新范式。\n\n\n\n\n\n\n\n\n\nTL;DR\n\n\n\n\n• Art Gobblers 是一个生态，由 Gobblers NFT、Pages NFT、$Goo Token 三部分组成\n\n\n• Gobblers NFT 的艺术形象由 Justin Roiland 创作，Justin Roiland 在动画短剧《瑞克和莫蒂 (Rick and Morty)》中担任共同创作者和执行制片人\n\n\n• Gobblers NFT 总量 10,000 个，2000 个通过白名单发行（其中 300 个团队预留），8000 个通过 VRGDA 发行\n\n\n• Pages NFT 开始…",
