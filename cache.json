@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31932",
+          "author": null,
+          "description": "撰文：0xLaughing，律动 BlockBeats\n\n\n即便你是一个 Web3 新人，也一定听过 Paradigm 的名字。这家由红杉资本合伙人 Matt Huang 和 Coinbase 联合创始人 Fred Ehrsam 联合成立的投资机构，在 4 年时间里已经让 Paradigm 的名字遍布行业。包括 FTX、Coinbase、OpenSea、dYdX 等等在内的投资版图，已经横跨 DeFi、NFT、公链等多个加密领域。\n\n\n\n\n而现在，NFT 项目 Art Gobblers 是这家顶级投资机构的绝对重心。\n\n\n\n\n在不到一个月的时间里连续发布了 4 篇与之相关的绿皮书（Paradigm 的说明文档），它对目前 NFT 领域存在的问题做了全面革新：在 NFT 发行方面采用了可变利率的渐进式荷兰拍卖 (VRGDA)，在 NFT 配套的 ERC20 Token 发行采用了渐进所有权优化模型 (GOO)，在创作者参与形式方面采用了新的创作工具和 Pages NFT 玩法，在策展形式方面构建了「去中心化画廊」。\n\n\n\n\n这是由 Paradigm 这家顶级投资机构亲手打造的「NFT 版生物圈二号」，它有可能成为 NFT 行业的新范式。\n\n\n\n\n\n\n\n\n\nTL;DR\n\n\n\n\n• Art Gobblers 是一个生态，由 Gobblers NFT、Pages NFT、$Goo Token 三部分组成\n\n\n• Gobblers NFT 的艺术形象由 Justin Roiland 创作，Justin Roiland 在动画短剧《瑞克和莫蒂 (Rick and Morty)》中担任共同创作者和执行制片人\n\n\n• Gobblers NFT 总量 10,000 个，2000 个通过白名单发行（其中 300 个团队预留），8000 个通过 VRGDA 发行\n\n\n• Pages NFT 开始…",
+          "link": "https://www.theblockbeats.info/news/31932",
+          "publishedOn": "2022-09-24T03:00:12.000Z",
+          "wordCount": null,
+          "title": "Art Gobblers：最前卫的发行，顶级机构Paradigm亲手打造的「NFT版生物圈二号」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31926",
+          "author": null,
+          "description": "原文标题：《\n\nWeb3「星探」，盘点 2022 年 a16z 领投的 27 个加密项目\n\n》\n原文作者：wesely\n\n\na16z （Andreessen Horowitz），Crypto 领域顶尖的投资机构，加密行业中众多 top 级应用背后都能看到 a16z 的身影，诸如在各自领域雄霸一方的 Uniswap 、Opensea、Coinbase 、Solana 、Lido  等等，凭借其独到的眼光，a16z 也被很多人称为 Web3「星探」。\n\n\n正所谓熊市 BUIDL，牛市才能收获，纵观此前多轮市场表现，很多出色的项目都是在熊市的环境下诞生，熬过漫漫长夜后才最终成为了聚光灯下的佼佼者，那在熊市当下，作为 Web3「星探」的 a16z 都入局了哪些项目呢？这些项目凭借什么优势进入 a16z 的投资版图？本文将盘点今年以来由 a16z 主导领投的所有加密项目以及这些项目最新的进展，让我们站在巨人的肩膀上，在混沌中寻找未来发光的金子。\n\n\n\n\n\n一、Everyrealm\n\n\n项目介绍：今年 2 月 11 日，Everyrealm 完成了由 a16z 领投的 6000 万美元 A 轮融资。Everyrealm 是一家业务范围很广的元宇宙服务公司，涵盖了投资、NFT 资产管理、虚拟房地产、游戏和基础设施开发等等。打造了 Everyrealm Arcade 游戏中心、Realm Academy 学习平台、Everyrealm Collection 投资工具等多种产品。\n\n\n最新动态：Fantasy Islands 是由 Everyrealm 主导开发的第一个 NFT 项目，是建立在 The Sandbox  上的岛屿社区，100 个独特的私人岛屿，拥有一对一的社区开发、独家品牌合作等权益，目前正在进行 Fantasy Islands 访问钥匙兑换为 FI100 会员卡，在 Ope…",
+          "link": "https://www.theblockbeats.info/news/31926",
+          "publishedOn": "2022-09-24T02:01:12.000Z",
+          "wordCount": null,
+          "title": "解析a16z的投资版图：2022年领投的27个加密项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31931",
           "author": null,
           "description": "原文标题：《The creator economy: a power law》\n原文作者：Christophe Rainville、Simon Levine\n原文编译：ChinaDeFi\n\n\n近年来，关于创作者经济的观点很多。有些描绘了一幅美好的画面：数百万个体经营者获得了追逐自己激情的权力——这意味着，为这些创作者开发工具和服务的公司将拥有广阔、横向的市场机会。\n  \n\n\n\n\n\n\n\n\n\n\n年轻的媒体消费者——他们将在未来几十年拥有最大的消费能力——有着与前几代人不同的习惯。2022 年，89% 的英国儿童习惯在 YouTube 和抖音等视频平台上消费内容，而习惯观看电视直播的儿童不到 50%。要知道，在 2012 年，孩子们花在电视上的时间比任何其他内容媒体都多。但在一个新兴市场中，将信号从噪音中分离出来可能是一件棘手的事情。在创作者经济价值链中，权力究竟在哪里？哪些是最具吸引力的细分市场？作为投资者，我们在哪里可以找到风险规模的机会（包括在软件和工具领域）？\n\n\n\n\n我们对创作者经济的看法如下：\n\n\n\n\n创作者不是平等的。关注度和收入的分布存在「幂定律」，前 0.5% 的创作者获得了高度集中的粘性。如果只关注创作者的长尾，而收益则集中在发行的「头部」，那么很难实现风险规模的结果。\n\n\n优质创作者已经发展成为成熟的媒体公司，自动化的机会正在出现。优质创作者最好被理解为成熟的媒体公司，由内部团队和成熟的服务行业提供支持。我们开始看到更多的自动化：软件正在加强传统的手动工作流程，如内容再利用 / 联合、国际化、品牌合作和受众分析。\n\n\n创作者的收入来源取决于他们的主要发行平台。反过来，这也意味着他们的工具需求会有所不同。对于专注于较长视频 ( 如 Youtube, Twitch) 的创作者来说，平台内广告是关键的收入驱动因素——因此是最需要优化的项目。相反，对于那些专注于基于…",
@@ -123,16 +143,6 @@
           "publishedOn": "2022-09-22T04:13:35.000Z",
           "wordCount": null,
           "title": "Gas费真的越低越好吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31891",
-          "author": null,
-          "description": "PandaDAO解散引发的难题：效率和去中心化，谁更重要？",
-          "link": "https://www.theblockbeats.info/news/31891",
-          "publishedOn": "2022-09-21T14:59:36.000Z",
-          "wordCount": null,
-          "title": "PandaDAO解散引发的难题：效率和去中心化，谁更重要？",
           "imageUrl": null
         }
       ]
