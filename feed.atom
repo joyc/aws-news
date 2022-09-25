@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-25T00:48:20.709Z</updated>
+    <updated>2022-09-25T06:14:34.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -559,47 +559,6 @@ Daniel：大家好，欢迎收听新一期 Fork It，我是消失了很久的节
 
 
 以太坊网络活跃地址数量的增长与交易增长趋势相似，三季度每天有 550,000 个活跃地址，比上一季度增长 5%。不过，这一增长主要是由于 2022 年 7 月 27 日活跃地址的激增，当时著名矿工郭宏才（宝二爷）宣布了…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点StarkNet链游生态]]></title>
-        <id>https://www.theblockbeats.info/news/31916</id>
-        <link href="https://www.theblockbeats.info/news/31916"/>
-        <updated>2022-09-22T13:00:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《盘点 StarkNet 链游生态》
-原文来源：StarkNet 中文
-
-
-本文向读者介绍 StarkNet 链游生态。值得特别注意的是与传统的 GameFi 不同，StarkNet 的链游有强烈的全链 (onchain) 特色。因此本文将先介绍 StarkNet 以及全链理念，然后盘点 StarkNet 链游基础设施以及能够代表 StarkNet 全链理念的十一个游戏。
-
-
-StarkNet 介绍
-
-
-StarkNet 是在语言层次兼容以太坊的 L2，StarkNet 作为 L2 中 ZKR 的一员，在 tps 和 gas 方面的表现远远超过 Optimism 和 Arbitrum 等 OPR。
-
-
-
-
-来源：Xiang｜W3.Hitchhiker，以上计算前提是以当前 ETH 为 2500 U，区块 gaslimit 为 30,000,000，gas 费用为 30 Gwei，平均 13 秒的出块时间计算，极限 TPS 指对应运行环境占领了所有以太坊区块空间 (在证明验证上花费 500,000 gas)，普通 TPS 指对应运行环境占了所有以太坊 1/3 的区块空间
-
-
-
-而在众多 ZKR 之中，StarkNet 是零知识证明（ZKP）的「极端主义者」。StarkNet 开发了适配有效性证明的虚拟机与 Cairo 语言，且基于先进的 STARK 算法实现了递归特性，可以对证明进行证明，简单来讲 StarkNet 的特点就是具有几乎无限的计算潜力。
-
-
-需要注意的是由于 StarkNet 整个网络还未进行最终的状态重置，在到达下一次状态重置时，测试网上的资产可能会被重置，所部署的合约也需要改动，目前在 StarkNet 上的大部分应用都部署在测试网上。
-
-
-全链理念
-
-
-全链游戏与 GameFi 的区别
-
-
-在介绍全链游戏之前需要先说明全链游戏与 GameFi 的…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
