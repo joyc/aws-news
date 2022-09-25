@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-25T06:14:34.986Z</updated>
+    <updated>2022-09-25T12:15:58.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></title>
+        <id>https://www.theblockbeats.info/news/31936</id>
+        <link href="https://www.theblockbeats.info/news/31936"/>
+        <updated>2022-09-25T07:57:09.000Z</updated>
+        <summary type="html"><![CDATA[在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+联系我们
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BlockBeats Twitter：https://twitter.com/BlockBeatsChina
+BlockBeats Discord：https://discord.gg/R9fuWFyrTj
+BlockBeats Telegram：https://t.me/theblockbeatsApp
+
+
+
+
+BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
+
+
+推荐文章:《下一轮周期的加密叙事会是什么？》
+
+
+
+
+推荐人：Jack(0x137)
+
+
+
+
+推荐理由：Zee Prime Capital 合伙人 Matti 新文。Matti 的文章向来很有深度和见解，非常值得阅读。这次，Matti 又结合了市场历史和宏观背景，对当前的市场进行了反思，对未来的市场做了展望，其中很多观点都与我产生了强共鸣。
+
+
+
+
+首先就是宏观影响因素，在当前「强宏观」的背景下，一切市场都会呈现出「Correlation of One」的趋同走势，加密市场也不例外，这个时候去进行过度的技术面和基本面分析是没有太大意义的。当前一切，皆听从美联储指挥。
+
+
+
+
+其次就是对未来加密叙事的探索，经过 17-18 年、20-21 年两轮牛市下来，Crypto 已经逐渐向各种清晰的应用场景去发展了。尽管如此，加密市场最大的瓶颈仍然是与现实世界的割裂。这既是因为其技术属性，也是因为其理念偏好，但只要…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：一个NFT玩家在熊市中的「凤凰涅槃」；下一轮周期的加密叙事会是什么？]]></title>
         <id>https://www.theblockbeats.info/news/31934</id>
