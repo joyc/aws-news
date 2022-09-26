@@ -2,10 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-26T06:42:22.879Z</updated>
+    <updated>2022-09-26T12:19:09.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MOVE开发入门第九节：作用域和生命周期]]></title>
+        <id>https://www.theblockbeats.info/news/31946</id>
+        <link href="https://www.theblockbeats.info/news/31946"/>
+        <updated>2022-09-26T10:06:54.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：Aptos 乐园
+
+MOVE 是一门智能合约开发语言，随着新公链    Aptos 的崛起，MOVE 语言也渐渐进入大众视野。
+
+在学会函数的基本用法后，作用域和生命周期的概念也是必须要明白的，下面就对其进行讲解。
+ 
+
+ 
+
+
+更多视频，请观看：《MOVE 开发入门第八节：MOVE 函数练习之 Continue 和 Break》
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福布斯曝光Helium内幕：虚假宣传、造血困难、高管敛财]]></title>
+        <id>https://www.theblockbeats.info/news/31944</id>
+        <link href="https://www.theblockbeats.info/news/31944"/>
+        <updated>2022-09-26T09:33:54.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Crypto Darling Helium Promised A 'People's Network.' Instead, Its Executives Got Rich》
+原文作者：Alex Konrad，Forbes 
+原文编译：Katie 辜，Odaily 星球日报
+
+
+
+Helium 被吹捧为 Web3 技术的最佳现实用例。但在该项目难以创造收入之际，《福布斯》的一项调查发现，在项目启动之初，Helium 高管和他们的朋友就悄悄囤积了大部分财富。
+
+
+市值 12 亿美元的 Web3 公司 Helium 得到了 a16z 和 Tiger Global 的融资，该公司表示正在建设「用户网络」（People's Network），这是一个为停车计时器和狗项圈等物品提供无线互联网连接的全球网络。用户要做的就是花 500 美元买一台看起来像 Wi-Fi 路由器的机器，把它插到墙上，然后获得 Helium 的加密货币作为回报（一种循环的被动收入流）。一位 Helium 的投资者声称，所有者可以在几周内收回购买的资金。
+
+
+如果对 Helium 系统的需求上升，推高其 Helium 网络 Token（HNT）的价值，该公司暗示，网络的收益将由所有人分享。但经《福布斯》揭露后却被狠狠「打脸」了。
+
+
+
+Helium 的成立与内部 Bug
+
+
+
+2013 年，Napster 联合创始人 Shawn Fanning 和当时著名的游戏设计师 Haleem 成立了一家名为 Skynet Phase 1 的初创公司，该公司参考了《终结者》系列电影中的种族灭绝电脑系统。这家后来被更名为 Helium Systems 的公司声称正在为物联网创建无线网络，这是风投最热门的领域之一。
+
+
+凭借 Shawn Fanning 的名气，Helium 在 2014 年获得了 Khosla Ven…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO如何应对美国监管制裁？DAO的法律结构及对应责任]]></title>
+        <id>https://www.theblockbeats.info/news/31943</id>
+        <link href="https://www.theblockbeats.info/news/31943"/>
+        <updated>2022-09-26T09:33:54.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《DAO 的法律结构 – 从美国 CFTC 对 DAO 发起诉讼说起》
+原文作者：DAO爱好者 @cwweb3
+
+
+
+
+Ooki DAO 近日被诉讼，而在 DAO 里投过票的成员可能需要共同承担责任。这一情况令人震惊，但它早就在众多法律人士的预期当中。DAO 不是法外之地，而当法律责任发生的时候，无实体 DAO 会给成员带来重大风险。大量 DAO 在寻求形成更成熟的法律结构，根据业务特点不同，有限责任公司，基金会，非法人非营利协会，特别目的信托等几种方式是常见的选择。
+
+
+Pt.1
+
+
+美国商品期货交易委员会（CFTC）在 23 日公布了针对 DeFi 协议 bZx 的执法行动。CFTC 指控其非法提供杠杆和保证金期货交易；从事只有注册期货佣金商（FCM）才能进行的活动，未能执行 KYC 等金融监管要求。由此，CFTC 对 bZeroX, LLC 以及 bZx 协议两位创始人提起诉讼并提出每方 25 万美元的和解罚金。
+
+
+CFTC 同时决定民事起诉 bZx 背后的 DAO，因为去年 8 月 23 日 bZx 团队已经把协议控制权移交给 bZx DAO（后改名为 Ooki DAO）以逃避监管，并曾在社区鼓吹这样可以逃避监管。诉讼的目的包括要求赔偿, 退回非法所得, 民事罚款, 禁止交易及注册, 禁止其他违反 CEA 及 CFTC 监管条例的行为。
+
+
+这一行动遭到了众多 Web3 人士的抨击，即使在 CFTC 内部意见也不统一，CFTC 委员 Summer K. Mersinger 也对此做法提出了公开的反对并把意见公布到了 CFTC 官网。大意是执法机构在对 DAO 以及 DAO 成员采取的行动正在涉足未知的法律领域，这一决定缺乏明确的法律依据，并且未广泛征求意见。
+
+
+具体 bZx 是否违规怎么违的规定本文不做过多讨论。我们把重点放在 DAO 的法律结构及对应…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9种常见跨链桥工作原理及安全性分析]]></title>
+        <id>https://www.theblockbeats.info/news/31942</id>
+        <link href="https://www.theblockbeats.info/news/31942"/>
+        <updated>2022-09-26T08:29:02.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《 How do Blockchain bridges really work & can you trust them?  》
+原文来源：Rhino.fi  
+原文作者：Ross Middleton
+原文编译：Fenbushi Capital 
+
+
+跨链桥如何分类：以传输类型分
+
+
+1. 锁定&铸造（Lock & Mint）Examples: Polygon official bridge, StarkNet official bridge, Shuttle. 
+
+
+2. 通证发行商燃烧&铸造（Token Issuer Burn & Mint）MakerDao, Arbitrum Teleport. 
+
+
+3. 特定的燃烧&铸造（Specialised Burn & Mint）Hop, Debridge. 
+
+
+4. 原子兑换（Atomic Swap） Stargate. 
+
+
+5. 第三方网络/链（Third Party Networks/Chains）Thorchain. 
+
+
+跨链桥以两种类型进行区分：传输类型以及信任假设型。我们先从传输类型去分。跨链聚合协议 Lifi 根据传输类型确定了三种主要类型的跨链桥。因为分界线有点模糊，它其实可以分为五种类型。
+
+
+锁定&铸造
+
+
+最简单和常见的跨链桥涉及了锁定并铸造通证并进行销毁。下面是工作流程图：
+
+
+
+
+
+当资产跨链时，来自源链的通证被锁定到跨链桥的智能合约中，然后在目标链上生成新版本，它可以是映射通证&标准通证。
+
+
+映射通证（wrapped token)：它会和原生通证保持 1：1 锚定。
+
+
+标准通证（canonical token)：指的是各个链上流通的原生通证。
+
+
+这两种通证都以其基础资产完全抵押而铸造完成。当资产跨链回去时，新通证在目标链上被烧毁，原生通证随后在源链上解锁/释放。这个公式非常常…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年COSMOS生态Cosmoverse大会开幕，会议跟踪报道]]></title>
+        <id>https://www.theblockbeats.info/news/31940</id>
+        <link href="https://www.theblockbeats.info/news/31940"/>
+        <updated>2022-09-26T07:33:54.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 9 月 26 日，Cosmos 生态系统规模最大、最重要的会议 Cosmoverse 大会在哥伦比亚的麦德林举办，会议持续两天（9 月 26-9 月 28 日）。本次会议由 Cosmoverse 社区主办，旨在把 Cosmos 生态系统的精华带到拉丁美洲，并致力于成为推动浩瀚 Cosmos 成长的最大动力。
+
+
+大会邀请到数十名社区开发者、投资者、创始人。包括 Cosmos 联合创始人 Ethan Buchman，Osmosis 联合创始人 Sunny Aggarwal，Juno 联合创始人 Jake Hartnell，Evmos 联合创始人 Federico Kunze Klmer，Agoric 联合创始人兼 CEO Dean Tribble 等。
+
+
+
+大会官方链接：https://cosmoverse.org/
+
+
+
+BlockBeats 将对此次会议进行跟踪报道：
+
+
+ Cosmoverse 大会 会议议程如下：  
+
+
+2022年9月26日：
+
+
+
+
+
+
+
+
+
+
+
+2022年9月27日：
+
+
+
+
+
+
+
+
+
+
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么说你所有的Uniswap v3流动性质押计算可能是错误的？]]></title>
         <id>https://www.theblockbeats.info/news/31938</id>
