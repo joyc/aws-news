@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31938",
+          "author": null,
+          "description": "原文标题：《\n\n你所有的 Uniswap v3 流动性质押计算都是完全错误的！这就是原因\n\n》\n原文作者：\n\nIvan Vakhmyanin，\n\nCoinmonks\n\n\n原文编译：RR\n本文来自微信公众号：老雅痞\n\n\nUniswap 是以太坊和整个区块链行业中最大的去中心化金融 (DeFi) 项目。成千上万的流动性提供者每天都在使用这些数据来制定自己的投资策略。那么，这些数字怎么会不准确呢？\n  \n\n\n\n让我们一步一步来，从问题开始。\n\n\n问题所在\n\n\n首先，什么是 TVL，它是如何使用的？简而言之，TVL 被定义为当前用户委托给区块链或协议的所有加密资产的美元价值。这些资产可能是去中心化交易平台、跨链桥协议或贷款协议的总流动性，或 PoS 区块链的总抵押资产。\n\n\n加密货币市场投资者和其他参与者会在多种情况下使用 TVL：\n\n\n评估协议的健康状况。这就是为什么流行协议会在主页上吹嘘他们的 TVL。更大的 TVL=更多的用户信任=更低的风险=稳定的利润。\n\n\n比较协议。如果我是一个加密交易者，我更愿意使用去中心化交易平台或跨链桥等具有更高 TVL 的 DeFi 工具。\n\n\n衡量协议的增长。投资者如果看到一个协议或项目的 TVL 快速增长，会认为这是看涨该协议 Token 价格的信号。\n\n\n这么看来，知道准确的 TVL 数字很重要，对吧？\n\n\n但是，如果我说关于 Uniswap v3 TVL 的最新数据是有误导性的呢？不过，最让我惊讶的是，官方的 Uniswap Chart App 也有问题！我是这样发现的：\n\n\n我当时正在做一个流动性分析项目，将 Uniswap v3 上的官方数据与我使用区块链原始数据进行的计算进行比较。这个步骤对于遵守最高的数据质量标准至关重要。为了开始验证，我选择了一个流行的流动性池 USDC-WETH(费用水平 0.3%)。\n\n\n\n\n\n看看 Unis…",
+          "link": "https://www.theblockbeats.info/news/31938",
+          "publishedOn": "2022-09-26T04:28:43.000Z",
+          "wordCount": null,
+          "title": "为什么说你所有的Uniswap v3流动性质押计算可能是错误的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31937",
+          "author": null,
+          "description": "原文标题：《Post-merge and beyond—the next era of Ethereum begins》\n原文来源：BanklessHQ\n原文编译：Mary Liu、Derrick Chen，比推 BitpushNews\n\n\n\n\n以太坊合并完成后，Vitalik Buterin（以下简称 V 神）接受 Bankless 专访，分享了他对合并、以太坊路线路、质押等的看法，比推编辑部为你整理了采访中的关键要点。\n\n\n\n\n\n \n主持人：在经过多方的综合考量之后，我们感觉最终定下来的 PoS 设计是一个简化版的设计，并不能够满足所有人的野心。那你觉得如果再等一等，是否会找到一个新的设计，还是说现在的设计就已经是最终的、逻辑上最优的设计呢？\n\n\nV 神：我感觉你提了两个问题。第一个问题是，长期来讲，PoS 链是否有一种更好的形式？第二个问题是如果我们的研究团队花了更多的时间去研究的话，是否有更好的过渡方式。\n\n\n对第一个问题来说，我们距离最佳的 PoS 链的状态还有很远，还有很多改进可以做。第二个问题，这是不是 Merge 的最好形式，我觉得可以说是。如果我有回到 2014 年的机会，我可能会用一种更简单的设计，然后 2018 年就进入 PoS。我们现在完成了我们一开始设定的一些目标，但是目前也有一些安全性上的问题出现，我们也正在着手解决。所以如果说我会做什么改变的话，我可能会说一个更简单的 PoS，然后更早合并。当然，我也希望其他的 PoW 链在接下来四年迁移到 PoS 机制上来。\n\n\n \n主持人：对于所有人来说，合并来的太晚了。中间肯定有一些攻击和社区的分歧，当然也有一些收益；PoW 机制让矿工和很多其他实体都收益不少。所以，有没有什么特别重要的事情，你愿意重来并且改变的呢？\n\n\nV 神：如果我们能避免那些攻击和分歧当然是最好的。我觉得 Layer 2 的路线图可…",
+          "link": "https://www.theblockbeats.info/news/31937",
+          "publishedOn": "2022-09-26T03:29:43.000Z",
+          "wordCount": null,
+          "title": "PoS后V神首个专访：中心化被「过度炒作」",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31936",
           "author": null,
           "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\n\n\n\n\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n推荐文章:《下一轮周期的加密叙事会是什么？》\n\n\n\n\n推荐人：Jack(0x137)\n\n\n\n\n推荐理由：Zee Prime Capital 合伙人 Matti 新文。Matti 的文章向来很有深度和见解，非常值得阅读。这次，Matti 又结合了市场历史和宏观背景，对当前的市场进行了反思，对未来的市场做了展望，其中很多观点都与我产生了强共鸣。\n\n\n\n\n首先就是宏观影响因素，在当前「强宏观」的背景下，一切市场都会呈现出「Correlation of One」的趋同走势，加密市场也不例外，这个时候去进行过度的技术面和基本面分析是没有太大意义的。当前一切，皆听从美联储指挥。\n\n\n\n\n其次就是对未来加密叙事的探索，经过 17-18 年、20-21 年两轮牛市下来，Crypto 已经逐渐向各种清晰的应用场景去发展了。尽管如此，加密市场最大的瓶颈仍然是与现实世界的割裂。这既是因为其技术属性，也是因为其理念偏好，但只要…",
@@ -53,16 +73,6 @@
           "publishedOn": "2022-09-24T02:01:12.000Z",
           "wordCount": null,
           "title": "解析a16z的投资版图：2022年领投的27个加密项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31931",
-          "author": null,
-          "description": "原文标题：《The creator economy: a power law》\n原文作者：Christophe Rainville、Simon Levine\n原文编译：ChinaDeFi\n\n\n近年来，关于创作者经济的观点很多。有些描绘了一幅美好的画面：数百万个体经营者获得了追逐自己激情的权力——这意味着，为这些创作者开发工具和服务的公司将拥有广阔、横向的市场机会。\n  \n\n\n\n\n\n\n\n\n\n\n年轻的媒体消费者——他们将在未来几十年拥有最大的消费能力——有着与前几代人不同的习惯。2022 年，89% 的英国儿童习惯在 YouTube 和抖音等视频平台上消费内容，而习惯观看电视直播的儿童不到 50%。要知道，在 2012 年，孩子们花在电视上的时间比任何其他内容媒体都多。但在一个新兴市场中，将信号从噪音中分离出来可能是一件棘手的事情。在创作者经济价值链中，权力究竟在哪里？哪些是最具吸引力的细分市场？作为投资者，我们在哪里可以找到风险规模的机会（包括在软件和工具领域）？\n\n\n\n\n我们对创作者经济的看法如下：\n\n\n\n\n创作者不是平等的。关注度和收入的分布存在「幂定律」，前 0.5% 的创作者获得了高度集中的粘性。如果只关注创作者的长尾，而收益则集中在发行的「头部」，那么很难实现风险规模的结果。\n\n\n优质创作者已经发展成为成熟的媒体公司，自动化的机会正在出现。优质创作者最好被理解为成熟的媒体公司，由内部团队和成熟的服务行业提供支持。我们开始看到更多的自动化：软件正在加强传统的手动工作流程，如内容再利用 / 联合、国际化、品牌合作和受众分析。\n\n\n创作者的收入来源取决于他们的主要发行平台。反过来，这也意味着他们的工具需求会有所不同。对于专注于较长视频 ( 如 Youtube, Twitch) 的创作者来说，平台内广告是关键的收入驱动因素——因此是最需要优化的项目。相反，对于那些专注于基于…",
-          "link": "https://www.theblockbeats.info/news/31931",
-          "publishedOn": "2022-09-23T14:23:44.000Z",
-          "wordCount": null,
-          "title": "创作者经济的黎明，创业公司的机会在哪里？",
           "imageUrl": null
         }
       ]
