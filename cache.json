@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31950",
+          "author": null,
+          "description": "原文标题：《\n\n秉烛待旦，正位凝命｜WTR 9.26\n\n》\n原文来源：\n\nWatchToweR 研究院\n\n\n\n本周回顾\n\n\n本周从 9 月 20 号到 9 月 25 号，BTC 最高附近 19880 ，最低接近 18170 ，震荡幅度达到  8.83% 左右。\n\n\n观察近期筹码分布图，在约 18500  附近有大量筹码成交，将有一定的支撑或压力。\n\n\n\n\n\n• 分析：\n\n\n1.  20500~21200  约  70  万枚\n2.  26770~33000  约  85  万枚\n\n\n• 涨不破 26770~33000  概率为  64 %。\n\n\n\n\n\n重要消息方面\n \n加密生态消息方面\n\n\n1. 纳斯达克首次大举进军加密市场，争取机构客户，首推比特币和以太坊托管服务，还将建立一个新的加密部门，同时聘请加密货币交易平台 Gemi-n 经纪业务负责人 Lra Auerbach 来领导其数字资产部门。尚无立即启动加密货币交易平台的计划，但将评估机会。\n2. 据 Nationaltoday 消息，9 月 20 日已被确定为「国际 NFT 日」。\n3. 香港财库局副局长：支持证券型Token发行等金融科技在香港稳健发展\n4. OpenSea 推 SeaDrop 功能，支持 NFT 在平台直接启动和铸造，并正式推出 NFT 稀有度开放标准 OpenRarity\n5. 美 SEC 起诉书声称所有以太坊都在其管辖范围内\n6. V 神：在 DAO 治理中，可预测性、稳健性和中立性的价值高于效率\n7. EthereumPoW 推出 ETHW 与以太坊的跨链桥 ETHW Bridge\n8. 数据：以太坊网络上发行的 NFT 资产数量突破 1 亿枚，有 13.6 万个 NFT 项目被部署到以太坊网络，其中有 673 万个以太坊钱包地址持有 NFT 资产。\n9. V 神：狗狗币和 Zcash 等区块…",
+          "link": "https://www.theblockbeats.info/news/31950",
+          "publishedOn": "2022-09-27T05:00:41.000Z",
+          "wordCount": null,
+          "title": "第39周链上数据分析：巨鲸内部出现分歧，多头清算优势在50%附近震荡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31949",
+          "author": null,
+          "description": "原文标题：《全面解读 Cosmos2.0 ：从松散联盟走向经济共同体》\n原文作者：Morty\n原文来源：深潮 TechFlow\n\n\n\n\n9 月 26 日-28 日，Cosmoverse 大会在哥伦比亚城市麦德林顺利举办，旨在让南美加密社区更加了解 Cosmos 生态系统，最令人期待的是，在此次大会中，Cosmos 发布了全新的 2.0 白皮书。\n\n\n\n\n白皮书首先回顾之前 Cosmos 通过 Tendermint、IBC 和 SDK 所创造的辉煌。在意识到 Cosmos Hub 网络的采用率低下和质押在其上的 ATOM 利用率低下后，贡献者们希望通过 Cosmos 2.0 改变这一局面。\n\n\n\n\n正如 IBC 协议核心开发成员 Zaki 在大会演讲中说的那样，「今天的 ATOM 是 Cosmos 生态系统中的 MEME，它可以做到更多。」\n\n\n\n\n在笔者看来，Cosmos 生态或者说 ATOM 最大的问题是在 Cosmos Hub，它是「Cosmos 生态系统的经济中心」，旨在成为连接所有区块链，提供有价值服务的粘合剂，ATOM 是保护 Cosmos Hub 的 Token，但是很不幸，Cosmos Hub 发展并不尽如人意。\n\n\n\n\n一方面，许多 Cosmos 领导人选择退出 Hub，使用 Cosmos SDK 建立他们自己的链，另一方面，他们的确也可以完全跳过 Hub 发展顺畅，可以这样说，Cosmos Hub 成为了 Cosmos 生态成功的牺牲品。\n\n\n如何改变这一切？为此，Interchain Scheduler 和 Interchain Allocator 将成为 Cosmos 生态的重要组成部分，配合 Cosmos 全新推出的链间安全边际扩张、链间调度、ATOM 全新 Token 经济学以及 ATOM 质押流动性凭证等功能，来组成加速生态飞轮发展的催化剂，增强…",
+          "link": "https://www.theblockbeats.info/news/31949",
+          "publishedOn": "2022-09-27T04:35:41.000Z",
+          "wordCount": null,
+          "title": "全面解读Cosmos2.0，ATOM迎来新价值捕获",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31941",
           "author": null,
           "description": "原文标题：《\n\n7 O'Clock Capital：一文读懂开放金融不可或缺的 DeFi 保险\n\n》\n原文来源： \n\n7 O'Clock Capital\n\n\n\n银行、证券、保险是支撑传统金融行业运作的三驾马车。银行业目前估值 8.4 万亿美金，证券业目前估值 100 万亿美金，保险业估值 5.5 万亿美金（数据来自 Statista 与世界交易平台联合会）。\n\n\n在保险业中，各类机构不仅是最大的投保人（美国银行平均每年花费 400 至 700 美元购买 100 万美元的一般责任保险），保险公司本身作为资产管理机构也将大量的流动性注入到了市场。根据美国高盛的 2022 保险调查显示，全球保险行业账上管理的资金高达 26 万亿，可见保险在传统金融中的重要地位。\n\n\n在区块链金融市场中，各类协议要完成核心功能都需要通过质押挖矿获取流动性，这也是 DeFi 金融与传统金融最大的区别之一。因此，多数用户会基于 TVL 数据认定重要角色，DEX、借贷、跨链桥在 DeFi 市场中排名前三。\n\n\n而 DeFi 保险发展至今，只有 2017 年成立的 Nexus Mutual 还在稳定运行，也是目前的保险赛道龙头。整个赛道呈现发展弱、关注度低的态势。\n\n\n那么，为何要强调 TVL 只有 1% 的保险的重要性？\n\n\n加密行业作为全新的领域，项目跑路风险、协议漏洞风险、Token 风险、监管风险…风险是看不到的无底洞。根据 The Block 的数据显示，2021 年共有 14.4 亿美金从各类协议漏洞中被盗。\n\n\n因此，DeFi 保险发展缓慢并不是因为没有市场，通过研究发现原因如下：\n\n\n保险在传统金融中的发展本身就有滞后性，对于 DeFi 金融也是如此；\n门槛高；\n流动性低；\n\n\nDeFi 保险在如今的加密市场中整体发展状况如何，保险项目发展如何，是否有创新？7 O'Clock Capita…",
@@ -93,16 +113,6 @@
           "publishedOn": "2022-09-25T07:57:09.000Z",
           "wordCount": null,
           "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31934",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《GameFi 版本《羊了个羊》可以参与吗？》\n\n\n \n一款旨在践行 Web3 理念，将用户所产生的一切价值交还给用户的《羊了个羊》链改游戏：gamefi.sheepasheep 应运而生。这是一款基于 BNBChain 开发的区块链游戏，首先与 Web2 版本一样，保持了三个相同方块即消除的玩法，并利用各种道具来进行闯关。其次，sheep a sheep 对 Web2 版本的源代码进行了升级，加入了 Token 激励机制，未来平台产生的广告费及手续费收入将返还给玩家及 Token 持有者，进而实现游戏生命周期的长久维持。本文将为大家介绍下这款游戏及相关注意事项。\n\n\n \n《下一轮周期的加密叙事会是什么？》\n\n\n \n有些人总是为下一次冒险做好了准备，将每一种可能爆发的潜在叙事都被他们称为市场的「超自然推手」（Supernatural Aid）。但是「超自然推手」并不经常出现，今天我们生活在现实的世界中（不断增长的利率、通货膨胀和经济战争），在这里，超自然的东西似乎永远都不会到来。为了不让我们在即将到来的沉闷时期（经过一段健康的波动之后）变得迟钝，让我们探索一下可能成为下一波「超自然推手」的潜在叙事。\n\n\n \n《市场剧烈震荡，疯狂加息的美联储会议透露了什么信号？》\n\n\n \n这次美联储 FOMC 会议很有趣。一如既往，真正的「魔鬼」隐藏在细节中，让我们来看看一些最有趣的细微差别和市场影响。\n\n\n \n《不要指望 CeFi 去拯救以太坊》\n\n\n \n没有什么是绝对的，我们必须从不同的角度来评估以太坊 PoS 与 PoW 的优劣。但如果我们…",
-          "link": "https://www.theblockbeats.info/news/31934",
-          "publishedOn": "2022-09-24T14:21:49.000Z",
-          "wordCount": null,
-          "title": "周末荐读：一个NFT玩家在熊市中的「凤凰涅槃」；下一轮周期的加密叙事会是什么？",
           "imageUrl": null
         }
       ]
