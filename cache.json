@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31954",
+          "author": null,
+          "description": "原文标题：《\n\nPost-Merge 时代：以太坊新共识的破局重生\n\n》\n原文作者：Frank Fan，0xCryptolee，Arcane Labs\n\n\n\n\n\n\n\n\n\n 以太坊 经历了历史性的升级，发展进入了新的阶段。合并之后，以太坊将继续沿着扩容和去中心化的方向前进。The Merge 仅仅是 PoS 时代的第一步，以太坊依然面临着巨大的挑战，验证者群体中心化，扩容，Lazy Validator Problem 等问题依然制约着应用的爆发和以太坊的安全扩展，本文将从 The Merge 开始，逐步分析 POS 采用的共识算法，重点探索使用 DVT 技术来解决验证者单点风险的问题，和从业者一起分析以太坊的问题和未来的发展机会，建议具备一定以太坊基础的读者阅读此文章。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 一：The Merge \n\n\n\n\n\n\n 1.1 背景 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Merge 是以太坊有史以来最大的技术升级，在 2022 年 9 月 15 日实现了 Execution Layer 和 Consensus Layer 的合并，其最大的变化是将以太坊的 PoW 共识切换为 PoS 共识。\n\n\n\n\n\n\n\n\n\n\n\n  图 1：The Merge  \n\n\n\n\n\n\n\n\n\n\n\n\n除此之外，合并以后以太坊的能源消耗降低了将近 99.95%，据 Vitalik Buterin 推文，以太坊合并将使全球用电量减少 0.2%。\n\n\n\n\n\n\n\n\n\n\n  图 2：Vitalik 对于合并后以太坊能源消耗的观点  \n\n\n\n\n\n\n\n\n\n\n\n 1.2 合并带来的改变 \n\n\n\n\n\n \n \n \n\nToken\n\n增发： PoW 时代的 ETH \n\nToken\n\n增发停止，新的 ETH 仅通过 PoS 共识出块产生，以太坊的通胀率降低，当 base fee 超过 15gwei 的时候，…",
+          "link": "https://www.theblockbeats.info/news/31954",
+          "publishedOn": "2022-09-27T08:55:42.000Z",
+          "wordCount": null,
+          "title": "Post-Merge时代：以太坊新共识的破局重生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31951",
+          "author": null,
+          "description": "原文作者：Charlie Morris\n原文编译：Jack(0x137)，BlockBeats\n\n\n\n\n新的 Cosmos 白皮书刚刚发布，以下是我在阅读时的一些想法：\n\n\n\n\n第 1 页\n\n\n\n\n这一页白皮书写着：「Cosmos 网络的愿景已经实现」。这是一个大胆但真实的陈述。Cosmos V1 的白皮书侧重于通过 IBC 构建出 Cosmos Hub 和通信模型，这一点现在已经实现了。\n\n\n\n\n第 2 页\n\n\n\n\nHub 需要一个新角色。Cosmos 开发者 Zaki 在昨晚 Cosmoverse 大会的演讲中说到，今天的 ATOM 几乎成了 Cosmos 生态系统中的 Meme 币，而 ATOM 实际上可以做更多，它的新角色是「发展有弹性的跨链经济」。\n\n\n\n\n这是什么意思？\n\n\n\n\n首先是成为「基础设施服务提供商」。就像以太坊充当平台而不是服务提供商一样，在 Cosmos 中，链无需接触 The Hub 即可使用 Cosmos SDK。因此，Hub 也就被动地提供了相关的附加价值……\n\n\n\n\n其次是分层架构，包括：\n1. 社会协调技术，Cosmos SDK、Tendermint 等的默认主页和协调层\n2. 跨链安全，由 Hub 保护的消费者链（Consumer Chains）\n3. 流动性质押，在 DeFi 中使用\n4. 跨链协调器（Interchain Scheduler），安全的区块空间市场\n5. 跨链分配器（Interchain Allocator），「委托方发展和调整基于 ATOM 的市场的平台」。\n\n\n\n\n其中跨链协调器和跨链分配器都是基于特定 Hub 的。\n\n\n\n\n\n\n\n\n\n第 4 页\n\n\n\n\n这页的内容很酷。Hub 将通过创建区块空间市场并收取匹配费用来从跨链经济活动中获得收入。如今，Hub 基本上没有任何收入，跨链协调器改变了这一点。而这笔收入将用于…",
+          "link": "https://www.theblockbeats.info/news/31951",
+          "publishedOn": "2022-09-27T07:37:42.000Z",
+          "wordCount": null,
+          "title": "逐页解读白皮书，Cosmos 2.0 强在哪里？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31950",
           "author": null,
           "description": "原文标题：《\n\n秉烛待旦，正位凝命｜WTR 9.26\n\n》\n原文来源：\n\nWatchToweR 研究院\n\n\n\n本周回顾\n\n\n本周从 9 月 20 号到 9 月 25 号，BTC 最高附近 19880 ，最低接近 18170 ，震荡幅度达到  8.83% 左右。\n\n\n观察近期筹码分布图，在约 18500  附近有大量筹码成交，将有一定的支撑或压力。\n\n\n\n\n\n• 分析：\n\n\n1.  20500~21200  约  70  万枚\n2.  26770~33000  约  85  万枚\n\n\n• 涨不破 26770~33000  概率为  64 %。\n\n\n\n\n\n重要消息方面\n \n加密生态消息方面\n\n\n1. 纳斯达克首次大举进军加密市场，争取机构客户，首推比特币和以太坊托管服务，还将建立一个新的加密部门，同时聘请加密货币交易平台 Gemi-n 经纪业务负责人 Lra Auerbach 来领导其数字资产部门。尚无立即启动加密货币交易平台的计划，但将评估机会。\n2. 据 Nationaltoday 消息，9 月 20 日已被确定为「国际 NFT 日」。\n3. 香港财库局副局长：支持证券型Token发行等金融科技在香港稳健发展\n4. OpenSea 推 SeaDrop 功能，支持 NFT 在平台直接启动和铸造，并正式推出 NFT 稀有度开放标准 OpenRarity\n5. 美 SEC 起诉书声称所有以太坊都在其管辖范围内\n6. V 神：在 DAO 治理中，可预测性、稳健性和中立性的价值高于效率\n7. EthereumPoW 推出 ETHW 与以太坊的跨链桥 ETHW Bridge\n8. 数据：以太坊网络上发行的 NFT 资产数量突破 1 亿枚，有 13.6 万个 NFT 项目被部署到以太坊网络，其中有 673 万个以太坊钱包地址持有 NFT 资产。\n9. V 神：狗狗币和 Zcash 等区块…",
