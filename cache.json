@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31982",
+          "author": null,
+          "description": "Cobo安全团队：ETH硬分叉里的隐藏风险和套利机会",
+          "link": "https://www.theblockbeats.info/news/31982",
+          "publishedOn": "2022-09-28T14:53:48.000Z",
+          "wordCount": null,
+          "title": "Cobo安全团队：ETH硬分叉里的隐藏风险和套利机会",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31986",
           "author": null,
           "description": "原文作者：uvzeee.eth\n\n\nALXE（原 Project Galaxy）近期发布了其 passport 数字身份护照服务。用户需要上传 ID 等身份文件、完成 KYC 程序后才能获得其颁发的「护照」，手续费用为每次认证 5 美元，前 10 万用户免费。强制的 KYC 流程、用户隐私信息的收集，以及认证费用引起了流程是否必要的争论。GALXE 将此种护照声明为一种 SBT（灵魂绑定代币），更是引起了一些对于 SBT 究竟是否应该以 KYC 护照形式出现的讨论。\n\n\n本文试图论证：（1）链上数据提供了很多种身份验证的途径，KYC 并不是唯一的无奈决定；以及（2）为什么 web3 的数字身份不需「护照」这种身份文件形式，以及该种文件的原生缺陷与隐含风险。\n\n\n在使用链上的公域数据就可以识别身份时，为什么我们还需要被迫提供隐私信息？  \n\n\n近几年的 web3 各类项目中，可见很多种信息来源都可以参与识别个体、构建身份的过程，现在简单列举如下：  \n\n\n公链交易信息。\nNansen 等钱包数据分析平台向我们展示了链上交易信息可用来识别钱包和身份。通过交易物品，交易频次与交易对象等信息，Nansen 向不同钱包赋予了各种标签，比如」public figure「、「rarible user」、「depositor」等。这些钱包标签实际上是一种声誉、一种粗浅的身份识别。我们可以看到哪些交易者之间存在更加密切的交易关系，哪些人是持有大量加密货币的富人，哪些又是专精收藏 NFT 的收藏家。因此，链上透明的交易信息是可以直接参与身份识别与身份建立的。\n\n\nNFT 与社区。\nBAYC 为代表的 NFT 社区项目说明，持有某种 NFT 即可以作为校验是否有资格加入社区的身份凭证。而在加入社区之后，参与活动证明（可以理解为不可转让的 POAP）、社区贡献代币等都可以作为身份识别标志。而 NF…",
@@ -163,26 +173,6 @@
           "publishedOn": "2022-09-26T07:33:54.000Z",
           "wordCount": null,
           "title": "2022年COSMOS生态Cosmoverse大会开幕，会议跟踪报道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31938",
-          "author": null,
-          "description": "原文标题：《\n\n你所有的 Uniswap v3 流动性质押计算都是完全错误的！这就是原因\n\n》\n原文作者：\n\nIvan Vakhmyanin，\n\nCoinmonks\n\n\n原文编译：RR\n本文来自微信公众号：老雅痞\n\n\nUniswap 是以太坊和整个区块链行业中最大的去中心化金融 (DeFi) 项目。成千上万的流动性提供者每天都在使用这些数据来制定自己的投资策略。那么，这些数字怎么会不准确呢？\n  \n\n\n\n让我们一步一步来，从问题开始。\n\n\n问题所在\n\n\n首先，什么是 TVL，它是如何使用的？简而言之，TVL 被定义为当前用户委托给区块链或协议的所有加密资产的美元价值。这些资产可能是去中心化交易平台、跨链桥协议或贷款协议的总流动性，或 PoS 区块链的总抵押资产。\n\n\n加密货币市场投资者和其他参与者会在多种情况下使用 TVL：\n\n\n评估协议的健康状况。这就是为什么流行协议会在主页上吹嘘他们的 TVL。更大的 TVL=更多的用户信任=更低的风险=稳定的利润。\n\n\n比较协议。如果我是一个加密交易者，我更愿意使用去中心化交易平台或跨链桥等具有更高 TVL 的 DeFi 工具。\n\n\n衡量协议的增长。投资者如果看到一个协议或项目的 TVL 快速增长，会认为这是看涨该协议 Token 价格的信号。\n\n\n这么看来，知道准确的 TVL 数字很重要，对吧？\n\n\n但是，如果我说关于 Uniswap v3 TVL 的最新数据是有误导性的呢？不过，最让我惊讶的是，官方的 Uniswap Chart App 也有问题！我是这样发现的：\n\n\n我当时正在做一个流动性分析项目，将 Uniswap v3 上的官方数据与我使用区块链原始数据进行的计算进行比较。这个步骤对于遵守最高的数据质量标准至关重要。为了开始验证，我选择了一个流行的流动性池 USDC-WETH(费用水平 0.3%)。\n\n\n\n\n\n看看 Unis…",
-          "link": "https://www.theblockbeats.info/news/31938",
-          "publishedOn": "2022-09-26T04:28:43.000Z",
-          "wordCount": null,
-          "title": "为什么说你所有的Uniswap v3流动性质押计算可能是错误的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31937",
-          "author": null,
-          "description": "原文标题：《Post-merge and beyond—the next era of Ethereum begins》\n原文来源：BanklessHQ\n原文编译：Mary Liu、Derrick Chen，比推 BitpushNews\n\n\n\n\n以太坊合并完成后，Vitalik Buterin（以下简称 V 神）接受 Bankless 专访，分享了他对合并、以太坊路线路、质押等的看法，比推编辑部为你整理了采访中的关键要点。\n\n\n\n\n\n \n主持人：在经过多方的综合考量之后，我们感觉最终定下来的 PoS 设计是一个简化版的设计，并不能够满足所有人的野心。那你觉得如果再等一等，是否会找到一个新的设计，还是说现在的设计就已经是最终的、逻辑上最优的设计呢？\n\n\nV 神：我感觉你提了两个问题。第一个问题是，长期来讲，PoS 链是否有一种更好的形式？第二个问题是如果我们的研究团队花了更多的时间去研究的话，是否有更好的过渡方式。\n\n\n对第一个问题来说，我们距离最佳的 PoS 链的状态还有很远，还有很多改进可以做。第二个问题，这是不是 Merge 的最好形式，我觉得可以说是。如果我有回到 2014 年的机会，我可能会用一种更简单的设计，然后 2018 年就进入 PoS。我们现在完成了我们一开始设定的一些目标，但是目前也有一些安全性上的问题出现，我们也正在着手解决。所以如果说我会做什么改变的话，我可能会说一个更简单的 PoS，然后更早合并。当然，我也希望其他的 PoW 链在接下来四年迁移到 PoS 机制上来。\n\n\n \n主持人：对于所有人来说，合并来的太晚了。中间肯定有一些攻击和社区的分歧，当然也有一些收益；PoW 机制让矿工和很多其他实体都收益不少。所以，有没有什么特别重要的事情，你愿意重来并且改变的呢？\n\n\nV 神：如果我们能避免那些攻击和分歧当然是最好的。我觉得 Layer 2 的路线图可…",
-          "link": "https://www.theblockbeats.info/news/31937",
-          "publishedOn": "2022-09-26T03:29:43.000Z",
-          "wordCount": null,
-          "title": "PoS后V神首个专访：中心化被「过度炒作」",
           "imageUrl": null
         }
       ]

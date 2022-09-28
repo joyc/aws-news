@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-28T12:18:54.886Z</updated>
+    <updated>2022-09-28T18:16:58.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cobo安全团队：ETH硬分叉里的隐藏风险和套利机会]]></title>
+        <id>https://www.theblockbeats.info/news/31982</id>
+        <link href="https://www.theblockbeats.info/news/31982"/>
+        <updated>2022-09-28T14:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Cobo安全团队：ETH硬分叉里的隐藏风险和套利机会]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GALXE passport风波：数字身份不需要一个KYC护照]]></title>
         <id>https://www.theblockbeats.info/news/31986</id>
@@ -836,107 +846,6 @@ BlockBeats 将对此次会议进行跟踪报道：
 
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么说你所有的Uniswap v3流动性质押计算可能是错误的？]]></title>
-        <id>https://www.theblockbeats.info/news/31938</id>
-        <link href="https://www.theblockbeats.info/news/31938"/>
-        <updated>2022-09-26T04:28:43.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-你所有的 Uniswap v3 流动性质押计算都是完全错误的！这就是原因
-
-》
-原文作者：
-
-Ivan Vakhmyanin，
-
-Coinmonks
-
-
-原文编译：RR
-本文来自微信公众号：老雅痞
-
-
-Uniswap 是以太坊和整个区块链行业中最大的去中心化金融 (DeFi) 项目。成千上万的流动性提供者每天都在使用这些数据来制定自己的投资策略。那么，这些数字怎么会不准确呢？
-  
-
-
-
-让我们一步一步来，从问题开始。
-
-
-问题所在
-
-
-首先，什么是 TVL，它是如何使用的？简而言之，TVL 被定义为当前用户委托给区块链或协议的所有加密资产的美元价值。这些资产可能是去中心化交易平台、跨链桥协议或贷款协议的总流动性，或 PoS 区块链的总抵押资产。
-
-
-加密货币市场投资者和其他参与者会在多种情况下使用 TVL：
-
-
-评估协议的健康状况。这就是为什么流行协议会在主页上吹嘘他们的 TVL。更大的 TVL=更多的用户信任=更低的风险=稳定的利润。
-
-
-比较协议。如果我是一个加密交易者，我更愿意使用去中心化交易平台或跨链桥等具有更高 TVL 的 DeFi 工具。
-
-
-衡量协议的增长。投资者如果看到一个协议或项目的 TVL 快速增长，会认为这是看涨该协议 Token 价格的信号。
-
-
-这么看来，知道准确的 TVL 数字很重要，对吧？
-
-
-但是，如果我说关于 Uniswap v3 TVL 的最新数据是有误导性的呢？不过，最让我惊讶的是，官方的 Uniswap Chart App 也有问题！我是这样发现的：
-
-
-我当时正在做一个流动性分析项目，将 Uniswap v3 上的官方数据与我使用区块链原始数据进行的计算进行比较。这个步骤对于遵守最高的数据质量标准至关重要。为了开始验证，我选择了一个流行的流动性池 USDC-WETH(费用水平 0.3%)。
-
-
-
-
-
-看看 Unis…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PoS后V神首个专访：中心化被「过度炒作」]]></title>
-        <id>https://www.theblockbeats.info/news/31937</id>
-        <link href="https://www.theblockbeats.info/news/31937"/>
-        <updated>2022-09-26T03:29:43.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Post-merge and beyond—the next era of Ethereum begins》
-原文来源：BanklessHQ
-原文编译：Mary Liu、Derrick Chen，比推 BitpushNews
-
-
-
-
-以太坊合并完成后，Vitalik Buterin（以下简称 V 神）接受 Bankless 专访，分享了他对合并、以太坊路线路、质押等的看法，比推编辑部为你整理了采访中的关键要点。
-
-
-
-
-
- 
-主持人：在经过多方的综合考量之后，我们感觉最终定下来的 PoS 设计是一个简化版的设计，并不能够满足所有人的野心。那你觉得如果再等一等，是否会找到一个新的设计，还是说现在的设计就已经是最终的、逻辑上最优的设计呢？
-
-
-V 神：我感觉你提了两个问题。第一个问题是，长期来讲，PoS 链是否有一种更好的形式？第二个问题是如果我们的研究团队花了更多的时间去研究的话，是否有更好的过渡方式。
-
-
-对第一个问题来说，我们距离最佳的 PoS 链的状态还有很远，还有很多改进可以做。第二个问题，这是不是 Merge 的最好形式，我觉得可以说是。如果我有回到 2014 年的机会，我可能会用一种更简单的设计，然后 2018 年就进入 PoS。我们现在完成了我们一开始设定的一些目标，但是目前也有一些安全性上的问题出现，我们也正在着手解决。所以如果说我会做什么改变的话，我可能会说一个更简单的 PoS，然后更早合并。当然，我也希望其他的 PoW 链在接下来四年迁移到 PoS 机制上来。
-
-
- 
-主持人：对于所有人来说，合并来的太晚了。中间肯定有一些攻击和社区的分歧，当然也有一些收益；PoW 机制让矿工和很多其他实体都收益不少。所以，有没有什么特别重要的事情，你愿意重来并且改变的呢？
-
-
-V 神：如果我们能避免那些攻击和分歧当然是最好的。我觉得 Layer 2 的路线图可…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
