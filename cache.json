@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31986",
+          "author": null,
+          "description": "原文作者：uvzeee.eth\n\n\nALXE（原 Project Galaxy）近期发布了其 passport 数字身份护照服务。用户需要上传 ID 等身份文件、完成 KYC 程序后才能获得其颁发的「护照」，手续费用为每次认证 5 美元，前 10 万用户免费。强制的 KYC 流程、用户隐私信息的收集，以及认证费用引起了流程是否必要的争论。GALXE 将此种护照声明为一种 SBT（灵魂绑定代币），更是引起了一些对于 SBT 究竟是否应该以 KYC 护照形式出现的讨论。\n\n\n本文试图论证：（1）链上数据提供了很多种身份验证的途径，KYC 并不是唯一的无奈决定；以及（2）为什么 web3 的数字身份不需「护照」这种身份文件形式，以及该种文件的原生缺陷与隐含风险。\n\n\n在使用链上的公域数据就可以识别身份时，为什么我们还需要被迫提供隐私信息？  \n\n\n近几年的 web3 各类项目中，可见很多种信息来源都可以参与识别个体、构建身份的过程，现在简单列举如下：  \n\n\n公链交易信息。\nNansen 等钱包数据分析平台向我们展示了链上交易信息可用来识别钱包和身份。通过交易物品，交易频次与交易对象等信息，Nansen 向不同钱包赋予了各种标签，比如」public figure「、「rarible user」、「depositor」等。这些钱包标签实际上是一种声誉、一种粗浅的身份识别。我们可以看到哪些交易者之间存在更加密切的交易关系，哪些人是持有大量加密货币的富人，哪些又是专精收藏 NFT 的收藏家。因此，链上透明的交易信息是可以直接参与身份识别与身份建立的。\n\n\nNFT 与社区。\nBAYC 为代表的 NFT 社区项目说明，持有某种 NFT 即可以作为校验是否有资格加入社区的身份凭证。而在加入社区之后，参与活动证明（可以理解为不可转让的 POAP）、社区贡献代币等都可以作为身份识别标志。而 NF…",
+          "link": "https://www.theblockbeats.info/news/31986",
+          "publishedOn": "2022-09-28T11:30:24.000Z",
+          "wordCount": null,
+          "title": "GALXE passport风波：数字身份不需要一个KYC护照",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31984",
+          "author": null,
+          "description": "撰文：傅卓蕊\n\n\n\n\nCosmos 跨链生态系统如今和波卡系统可谓跨链的双峰，尤其近 1-2 年发展迅猛。近 2021 年 10 月，亚洲开发银行通过 Cosmos 技术分布式管理账本信息。截至发稿日，Cosmos 在 Coinmarketcap 上的市值为$40 亿。近期 Cosmos 大会更是升级了 Cosmos 2.0，加大了其系统币 ATOM 在整个生态系统的使用。Cosmos 系统内有不少颇有特色的项目，例如 Certik、Kava、Osmosis、OKB 等。曾经的 Cosmos 系统内的 Terra 曾给它带来无限风光，可谓以一举之力提高了整个 Cosmos 的地位。随着 Terra 的崩溃，Cosmos 也在努力找寻下一个明星稳定币项目。\n\n\n \nCosmos 对于新加入成员持开放态度，只要符合了其 Tendermint 共识协议和 Cosmos SDK 框架的项目都可以被容纳进 Cosmos 系统，且 Cosmos 将用户的 gas fee 都交由独立程序自己保有。Cosmos 与波卡为跨链两大山，Cosmos 比波卡的加入门槛要低。加入波卡，新的协议需要通过平行链或线程，而 Cosmos 并没有。波卡使跨链更深度（安全性也更高），而 Cosmos 稍微浅但是更开放，但是二者在用户体验上区别并不是很大。\n\n\n \n「Polkadot 生态研究院」认为，Cosmos 近年的「爆发」并不是因为其价值捕获能力高超，而是因为一些明星项目，例如之前的 Terra 带来的连带效应。能在 Cosmos 上做的操作，在 Polkadot 上也可以做，所以 Cosmos 并没有独特的价值位置。\n\n\n \n尽管不乏诟病，Cosmos 依然有很多亮点，它的包容性也吸引了许多可圈可点的协议和颇具潜力的协议稳定币。\n\n\n \nTerra 之后，另一大稳定币 DAI 的团队 Umee 于 …",
+          "link": "https://www.theblockbeats.info/news/31984",
+          "publishedOn": "2022-09-28T10:18:24.000Z",
+          "wordCount": null,
+          "title": "Luna后稳定币百花齐放，Cosmos要成为新的DeFi大花园了吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/31983",
+          "author": null,
+          "description": "原文作者：1kx 研究员 Mikey 0x\n原文编译：0x214，BlockBeats\n\n\n\n\n\n\n在过去的几个月里，DeFi 借贷赛道产生了重大变化，1kx 研究员 Mikey 0x 对此场域重新进行梳理，BlockBeats 对其整理翻译如下：\n\n\n\n\n本文内容将包括对新借贷协议的介绍、核心数据统计以及发展趋势，也许可以让我们大致把握下一个周期的赛道面貌。\n\n\n\n\n\n\n\n\n\n新借贷协议\n\n\n\n\ndAMM 和 Ribbon\n\n\n\n\ndAMM 和 Ribbon 是非足额抵押的（under-collateralized）、提供可变利率的借贷协议，在本质上类似于 Aave 的借贷池（pool-based）模型，为用户提供高效的、无摩擦的存款和借贷体验。\n\n\n\n\ndAMM 目前支持 23 种资产，Ribbon 即将上线。\n\n\n\n\nLulo\n\n\nLulo 是一个链上 P2P 订单簿模式借贷协议，提供固定利率和周期借贷。经过后端运行，用户可以从复杂的借贷机制中轻松获利。\n\n\nMorpho 类似，Lulo 关闭了借贷池模型中常见的贷方/借方利差，而是对贷方/借方进行直接匹配。\n\n\n\n\nArcadia \n\n\n\n\nArcadia 借贷协议允许借款人一次性将多种资产（ERC-20 和 NFT）抵押到资金库中。这些资金库是 NFT，因此可以被组合为第二层产品。贷方可以根据金库质量选择风险偏好。\n\n\n\n\nARCx\n\n\n\n\nARCx 借贷协议会对借款人的链上交易历史进行评估，借款人的历史交易信用越好（例如没有被清算的历史），则其贷款价值比（Loan To Value; LTV）越高。截至目前，最大一笔借款中借款人 LTV 高达 100%。\n\n\n贷方根据借款人的信用风险提供流动性。\n\n\n\n\n\n\ndAMM 和 Ribbon 在（非足额抵押）机构借贷领域直接与 Maple 和 Atlendis 竞争。 …",
+          "link": "https://www.theblockbeats.info/news/31983",
+          "publishedOn": "2022-09-28T10:13:33.000Z",
+          "wordCount": null,
+          "title": "DeFi借贷重新洗牌，透过协议变化能找到哪些新趋势？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31961",
           "author": null,
           "description": "原文标题：《规模千亿投资公司创办人表示，停止投资加密产业，但会优先续投 FTX 股权：FTX 是大赢家！》\n原文来源：FTX\n\n\n英国《金融时报》报道，私募股权基金 Thoma Bravo 的共同创办人 Orlando Bravo 认为加密产业的道德标准不高，且会暂停投资，但如果要投资的话，会续投 FTX，并表示：「FTX 会成为大赢家！」。\n \nOrlando Bravo 是规模千亿的私募股权基金 Thoma Bravo 的共同创办人，同时他也是比特币的支持者。日前 Orlando Brave 在接受金融时报采访时指出，部分加密产业的道德标准比不上私募股权行业，他的公司现阶段也暂停投资加密产业。\n\n\nThoma Bravo 资产管理公司现手中持有五家加密公司的股权，除了去年投资 FTX 约 1.5 亿美元以外，还有 Anchorage Digital、FalconX、Figment、TRM Labs。\n\n\n尽管 Orlando Bravo 对公司的投资是满意的，不过他也认为加密产业的道德水平有待加强。\n\n\n「（投资加密产业）让我对这个世界有了更深的了解，我认为加密产业的某些商业行为在面对投资人、用户、社群时，並沒有达到私募股权产业的道德水平，这令人有点失望。」\n\n\n\n除了 FTX，暂时不考虑投资其它加密公司\n\n\nOrlando Brave 一直都是比特币的支持者，且经常公开表示支持，认为加密货币可以作为「最终的价值储存手段」；不过他同时也批评加密市场的透明令人不安，但加密产业还很年轻，道德问题会随着时间推移得到解決。\n\n\n尽管沒有特別指出加密产业的道德问题是什么，金融时报给出了一些例子，包括 TerraUSD 的归零、借贷平台 Celsuis 的破产，这些都表明加密产业对于资本适足率、偿债和流动性的规范远不如传统金融，这显然会在流动性匮乏时伤害投资人和用户。\n\n\n在被问到当前是否还会做更多加密公司的投资时，Orlando Brave 隐晦地表示不急于一时：\n\n\n「我们会做很多非常非常成功的交易，如果有些交易还没有获得成功，我们就不会急着做其它事情。我们对现在的投资感到满意，也希望看到这些公司能成长，这样我们才能做得更多（指投资）。」\n\n\n但他表示，如果 FTX 有新一轮融资的话，他一定会考虑要投资更多 FTX 的股权，他认为 FTX 会是加密产业的「大赢家」（A big winner），并称 SBF 是他见过最好的企业家之一。\n\n\nSBF 在近期专访透露 FTX 手中还有 10 亿美元现金，这是因为该公司对流动性有良好的把控，人事和管理费用也保持在相对较低的水位，而且 FTX 在牛市并没有过度扩张，也没有过度放贷。\n\n\n另外 SBF 也指出，FTX 今年营收将可能会达到 10 亿美元。\n\n\n\nOrlando Brave 不认为私募股权是金字塔传销\n\n\n本周稍早，丹麦最大养老基金 ATP 的投资长 Mikkel Svenstrup 认为私募股权基金现在的经营模式有点像金字塔传销模式。因为 ATP 投资的私募股权基金出售了投资组合的 80% 以上给另一家私募股权基金，这种卖给同业或是左手换右手的方式并不健康。\n\n\n当然，Mikkel Svenstrup 并不是说私募股权基金现在就是金字塔传销，他只是担心这样的经营模式最终会变得高成本、低获利，甚至可能会停止成长。\n\n\n对此，Orlando Brave 表示不同意，因为 Thoma Bravo 也把很多投资组合卖给同业，目前看起来他们的表现都非常好，「其它私募股权基金可能看到了我们没有的未来，这些前景可能是我们在这五年中没看到的，他们从我们手中买下这些投资组合，这对他们有好处。」\n\n\n他认为，这种运作模式就跟所有的公开市场一样，有利可图就会有人买，但也没有人会说公开市场是金字塔传销。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
