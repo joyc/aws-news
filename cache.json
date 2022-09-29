@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/31989",
+          "author": null,
+          "description": "原文标题：《\n\n专访 Infura 联合创始人：我们为什么计划在 2023 年推出去中心化协议\n\n》\n原文作者：SHL，PANews\n\n\n\n\n\nInfura 是以太网络 API 的重要接口，开发者通过 Infura 可实现一键接入以太坊。Infura 和 MetaMask 都是由以太坊基础设施公司 ConsenSys 推出。自 2016 年发展至今，Infura 已成为以太坊、IPFS 核心基础架构的支柱。\n\n\n同时，Infura 也是此次以太坊网络从 PoW 升级为 PoS 的第一个同步的节点服务商。在以太坊升级后，Infura 继续保持以太坊网络接口的稳定性和安全性。除以太坊网络外，Infura 也在积极部署其他网络的接口。9 月 21 日，Infura 公布推出支持 StarkNet 网络 API，这也进一步丰富了 Infura 的生态网络，为实现去中心化的 Web3 做好基础搭建。\n\n\n近期，Infura 公布即将推出去中心化协议（Decentralized Infrastructure Network），开发者基于去中心化协议将实现更轻松地链接 dApps 和以太坊网络。去中心化协议的出现有望解决 Infura 此前产品过于集中的中心化问题，是 Infura 逐步实现去中心化的重要一步。因而，去中心化协议引发了开发者及社区的高度关注，更是引起了行业对 Infura 的热议。\n\n\n针对 Infura 近期的一些调整和升级，PANews 专访了 Infura 的联合创始人 E.G. Galano，深度解读 Infura 背后的布局及思考。E.G. Galano 曾是洛杉矶酒店软件初创公司 KEYPR 总监，也曾是 2012 年被索尼收购的云游戏公司 Gaikai 的早期员工，现为 Infura 的联合创始人兼首席基础设施的开发工程师。\n\n\n本次专访中，E.G. Gal…",
+          "link": "https://www.theblockbeats.info/news/31989",
+          "publishedOn": "2022-09-29T14:47:12.000Z",
+          "wordCount": null,
+          "title": "Infura的布局与思考：如何逐步实现去中心化",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/31991",
           "author": null,
           "description": "MOVE 是一门智能合约开发语言，随着新公链     Aptos 的崛起，MOVE 语言也渐渐进入大众视野。MOVE语言在实际开发中不可避免会遇到终止执行以及恢复事务的情况，Move 提供了两种解决方式 abort 关键字和 assert 方法。本章节会重点讲解。\n\n\n\n \n\n\n更多视频，请观看 《MOVE开发入门第九节：作用域和生命周期》\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -133,26 +143,6 @@
           "publishedOn": "2022-09-27T07:37:42.000Z",
           "wordCount": null,
           "title": "逐页解读白皮书，Cosmos 2.0 强在哪里？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31950",
-          "author": null,
-          "description": "原文标题：《\n\n秉烛待旦，正位凝命｜WTR 9.26\n\n》\n原文来源：\n\nWatchToweR 研究院\n\n\n\n本周回顾\n\n\n本周从 9 月 20 号到 9 月 25 号，BTC 最高附近 19880 ，最低接近 18170 ，震荡幅度达到  8.83% 左右。\n\n\n观察近期筹码分布图，在约 18500  附近有大量筹码成交，将有一定的支撑或压力。\n\n\n\n\n\n• 分析：\n\n\n1.  20500~21200  约  70  万枚\n2.  26770~33000  约  85  万枚\n\n\n• 涨不破 26770~33000  概率为  64 %。\n\n\n\n\n\n重要消息方面\n \n加密生态消息方面\n\n\n1. 纳斯达克首次大举进军加密市场，争取机构客户，首推比特币和以太坊托管服务，还将建立一个新的加密部门，同时聘请加密货币交易平台 Gemi-n 经纪业务负责人 Lra Auerbach 来领导其数字资产部门。尚无立即启动加密货币交易平台的计划，但将评估机会。\n2. 据 Nationaltoday 消息，9 月 20 日已被确定为「国际 NFT 日」。\n3. 香港财库局副局长：支持证券型Token发行等金融科技在香港稳健发展\n4. OpenSea 推 SeaDrop 功能，支持 NFT 在平台直接启动和铸造，并正式推出 NFT 稀有度开放标准 OpenRarity\n5. 美 SEC 起诉书声称所有以太坊都在其管辖范围内\n6. V 神：在 DAO 治理中，可预测性、稳健性和中立性的价值高于效率\n7. EthereumPoW 推出 ETHW 与以太坊的跨链桥 ETHW Bridge\n8. 数据：以太坊网络上发行的 NFT 资产数量突破 1 亿枚，有 13.6 万个 NFT 项目被部署到以太坊网络，其中有 673 万个以太坊钱包地址持有 NFT 资产。\n9. V 神：狗狗币和 Zcash 等区块…",
-          "link": "https://www.theblockbeats.info/news/31950",
-          "publishedOn": "2022-09-27T05:00:41.000Z",
-          "wordCount": null,
-          "title": "第39周链上数据分析：巨鲸内部出现分歧，多头清算优势在50%附近震荡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31949",
-          "author": null,
-          "description": "原文标题：《全面解读 Cosmos2.0 ：从松散联盟走向经济共同体》\n原文作者：Morty\n原文来源：深潮 TechFlow\n\n\n\n\n9 月 26 日-28 日，Cosmoverse 大会在哥伦比亚城市麦德林顺利举办，旨在让南美加密社区更加了解 Cosmos 生态系统，最令人期待的是，在此次大会中，Cosmos 发布了全新的 2.0 白皮书。\n\n\n\n\n白皮书首先回顾之前 Cosmos 通过 Tendermint、IBC 和 SDK 所创造的辉煌。在意识到 Cosmos Hub 网络的采用率低下和质押在其上的 ATOM 利用率低下后，贡献者们希望通过 Cosmos 2.0 改变这一局面。\n\n\n\n\n正如 IBC 协议核心开发成员 Zaki 在大会演讲中说的那样，「今天的 ATOM 是 Cosmos 生态系统中的 MEME，它可以做到更多。」\n\n\n\n\n在笔者看来，Cosmos 生态或者说 ATOM 最大的问题是在 Cosmos Hub，它是「Cosmos 生态系统的经济中心」，旨在成为连接所有区块链，提供有价值服务的粘合剂，ATOM 是保护 Cosmos Hub 的 Token，但是很不幸，Cosmos Hub 发展并不尽如人意。\n\n\n\n\n一方面，许多 Cosmos 领导人选择退出 Hub，使用 Cosmos SDK 建立他们自己的链，另一方面，他们的确也可以完全跳过 Hub 发展顺畅，可以这样说，Cosmos Hub 成为了 Cosmos 生态成功的牺牲品。\n\n\n如何改变这一切？为此，Interchain Scheduler 和 Interchain Allocator 将成为 Cosmos 生态的重要组成部分，配合 Cosmos 全新推出的链间安全边际扩张、链间调度、ATOM 全新 Token 经济学以及 ATOM 质押流动性凭证等功能，来组成加速生态飞轮发展的催化剂，增强…",
-          "link": "https://www.theblockbeats.info/news/31949",
-          "publishedOn": "2022-09-27T04:35:41.000Z",
-          "wordCount": null,
-          "title": "全面解读Cosmos2.0，ATOM迎来新价值捕获",
           "imageUrl": null
         }
       ]
