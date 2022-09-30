@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-30T06:43:54.694Z</updated>
+    <updated>2022-09-30T12:19:48.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[详解首个基于订单簿的DeFi底层协议Sei Network]]></title>
+        <id>https://www.theblockbeats.info/news/32011</id>
+        <link href="https://www.theblockbeats.info/news/32011"/>
+        <updated>2022-09-30T09:31:21.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《一文详解首个基于订单簿的 DeFi 底层协议 Sei Network》
+原文作者：0xMoonda，WAGMi Ventures
+
+
+
+
+
+Sei Network 是什么
+
+
+Sei Network 是首个基于订单簿的 L1 区块链，应用 Cosmos SDK 与 Tendermint Core 技术，内置中央限价单 (CLOB, Central Limit Orderbook) 模块。在 Sei 上构建的去中心化应用程序是基于 CLOB 的，其它基于 Cosmos 的区块链也可以将 Sei 的 CLOB 作为共享流动性中心，为不同资产创建交易市场。Sei 计划成为 Cosmos 生态中下一代 DeFi 产品的基础设施与流动性中心，未来将成为连接全生态的 DeFi 交易底层基础设施。
+
+
+Sei Network 有哪些特点
+
+
+首先，与其他 L1 相比，Sei 认为其自身最大的竞争优势是速度。目前，它的 Time To Finality（TTF，交易延迟）时间大约为 600 毫秒，是 Web3 产品中速度最快的。在保证交易不可逆前提下，TTF 衡量的是从交易提交至交易确认过程中所用的时间。
+
+
+其次，Sei 拥有一个集中验证集，该验证集在 Seinami Incentivized Testnet 中经过严格测试。Sei 上的应用可以将其作为自己的验证节点，无需重新部署，降低了迁移至 Cosmos 生态受到的阻碍。此外，Sei 使用 FBA（Frequent Batch Auctions，频繁批量拍卖）机制阻止了 MEV（Maximal Extractable Value，最大可提取价值）的发生。批量拍卖不容易受到 MEV 的影响，因为同一批次内的交易顺序不会使价格产生波动。
+
+
+Sei Network 的团队与投资机构
+
+
+
+
+
+
+8 月末，Sei 宣布完成 5…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚洲区块链游戏黑客松8个获奖项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/32010</id>
+        <link href="https://www.theblockbeats.info/news/32010"/>
+        <updated>2022-09-30T08:31:21.000Z</updated>
+        <summary type="html"><![CDATA[近日，亚洲最大的 Web3 盛会 TOKEN2049 加密货币周在新加坡正如火如荼地进行。期间，韩国版「微信」Kaokao 旗下公链 Klaytn 联合 ABGA（亚洲区块链游戏联盟）举办的 Blockchain Gaming Hackathon 2022，经过了 100 支队伍的激烈交锋，最终角逐出 8 个获奖项目，吸引了不少游戏玩家及机构的关注。
+
+
+
+
+接下来，BlockBeats 将为读者介绍下这 8 款脱颖而出的游戏项目。
+
+
+金奖：Savanna Survival
+银奖：Cyberpop Metaverse、Game Wonderlab
+铜奖：FindTruman、Multiverse Play 、GamePhylum
+
+
+
+
+特别奖
+ABGA Choice：ZiberBugs 
+Klaytn Choice：The Wake 
+
+
+
+
+
+
+Savanna Survival
+
+
+
+
+Savanna Survival 是一款包容性的开放世界游戏，同时支持免费游戏和 P2E 玩家，游戏模式分为冒险模式、对战模式和部落模式。
+
+
+
+
+
+
+
+
+
+在游戏中，玩家与一只名为 Xin-Xin 的熊猫一起探索 Savanna Survival 的同时了解自然世界，并为积极的野生动物保护做出贡献。随着游戏的进行，更多的动物将加入玩家的团队，玩家需要仔细管理 Savanna Verse 的空间和资源，如图腾和装饰品等链上配件，当这些物品装备在正确的动物身上时，它们将能促进能量的恢复、增加繁殖机会、减少饮食需求或建造时间等。
+
+
+
+
+此外，Savanna Survival 中使用 4 种货币，其中只有 SavannaSurvival Token 是链上的，可用于购买链上配件或兑换成法币进行兑换。而其余 SavannaSurvival Platinum、SavannaSurvival D…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圈内刷屏的TOKEN2049感想：华人Web3，还有机会么？]]></title>
         <id>https://www.theblockbeats.info/news/32006</id>

@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32011",
+          "author": null,
+          "description": "原文标题：《一文详解首个基于订单簿的 DeFi 底层协议 Sei Network》\n原文作者：0xMoonda，WAGMi Ventures\n\n\n\n\n\nSei Network 是什么\n\n\nSei Network 是首个基于订单簿的 L1 区块链，应用 Cosmos SDK 与 Tendermint Core 技术，内置中央限价单 (CLOB, Central Limit Orderbook) 模块。在 Sei 上构建的去中心化应用程序是基于 CLOB 的，其它基于 Cosmos 的区块链也可以将 Sei 的 CLOB 作为共享流动性中心，为不同资产创建交易市场。Sei 计划成为 Cosmos 生态中下一代 DeFi 产品的基础设施与流动性中心，未来将成为连接全生态的 DeFi 交易底层基础设施。\n\n\nSei Network 有哪些特点\n\n\n首先，与其他 L1 相比，Sei 认为其自身最大的竞争优势是速度。目前，它的 Time To Finality（TTF，交易延迟）时间大约为 600 毫秒，是 Web3 产品中速度最快的。在保证交易不可逆前提下，TTF 衡量的是从交易提交至交易确认过程中所用的时间。\n\n\n其次，Sei 拥有一个集中验证集，该验证集在 Seinami Incentivized Testnet 中经过严格测试。Sei 上的应用可以将其作为自己的验证节点，无需重新部署，降低了迁移至 Cosmos 生态受到的阻碍。此外，Sei 使用 FBA（Frequent Batch Auctions，频繁批量拍卖）机制阻止了 MEV（Maximal Extractable Value，最大可提取价值）的发生。批量拍卖不容易受到 MEV 的影响，因为同一批次内的交易顺序不会使价格产生波动。\n\n\nSei Network 的团队与投资机构\n\n\n\n\n\n\n8 月末，Sei 宣布完成 5…",
+          "link": "https://www.theblockbeats.info/news/32011",
+          "publishedOn": "2022-09-30T09:31:21.000Z",
+          "wordCount": null,
+          "title": "详解首个基于订单簿的DeFi底层协议Sei Network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32010",
+          "author": null,
+          "description": "近日，亚洲最大的 Web3 盛会 TOKEN2049 加密货币周在新加坡正如火如荼地进行。期间，韩国版「微信」Kaokao 旗下公链 Klaytn 联合 ABGA（亚洲区块链游戏联盟）举办的 Blockchain Gaming Hackathon 2022，经过了 100 支队伍的激烈交锋，最终角逐出 8 个获奖项目，吸引了不少游戏玩家及机构的关注。\n\n\n\n\n接下来，BlockBeats 将为读者介绍下这 8 款脱颖而出的游戏项目。\n\n\n金奖：Savanna Survival\n银奖：Cyberpop Metaverse、Game Wonderlab\n铜奖：FindTruman、Multiverse Play 、GamePhylum\n\n\n\n\n特别奖\nABGA Choice：ZiberBugs \nKlaytn Choice：The Wake \n\n\n\n\n\n\nSavanna Survival\n\n\n\n\nSavanna Survival 是一款包容性的开放世界游戏，同时支持免费游戏和 P2E 玩家，游戏模式分为冒险模式、对战模式和部落模式。\n\n\n\n\n\n\n\n\n\n在游戏中，玩家与一只名为 Xin-Xin 的熊猫一起探索 Savanna Survival 的同时了解自然世界，并为积极的野生动物保护做出贡献。随着游戏的进行，更多的动物将加入玩家的团队，玩家需要仔细管理 Savanna Verse 的空间和资源，如图腾和装饰品等链上配件，当这些物品装备在正确的动物身上时，它们将能促进能量的恢复、增加繁殖机会、减少饮食需求或建造时间等。\n\n\n\n\n此外，Savanna Survival 中使用 4 种货币，其中只有 SavannaSurvival Token 是链上的，可用于购买链上配件或兑换成法币进行兑换。而其余 SavannaSurvival Platinum、SavannaSurvival D…",
+          "link": "https://www.theblockbeats.info/news/32010",
+          "publishedOn": "2022-09-30T08:31:21.000Z",
+          "wordCount": null,
+          "title": "亚洲区块链游戏黑客松8个获奖项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32006",
           "author": null,
           "description": "2022 年 9 月底，Web3「盛宴」TOKEN2049 在新加坡拉开帷幕了。据不完全统计本次大会的周边衍生活动已高达数百场，在这些觥筹交错的背后，有这样一群人正在担心华人 Web3 的未来。\n\n\n9 月 30 日，参会者赵晨的一则参会感小作文悄然在华人社区中传播开来：「\n\n演讲台上已经基本没有中国面孔了，即使有也没啥人愿意听了。\n\n」华人 Web3，没了吗？\n\n\n以下是赵晨的小作文原文：\n\n\n新加坡赚麻了。\n\n\n演讲台上已经基本没有中国面孔了，即使有也没啥人愿意听了。\n\n\n14 年，V 神在学中文，22 年，中国资本和项目最大的瓶颈是创始人的英语。\n\n\n亚洲资本在在加密圈全面落后，融不起。\n\n\nmegafund 就没有定价权，一只最优秀的亚洲基金的规模还没一个欧美 deal 的轮次大。以后就只能跟着欧美资本后面吃掉下的渣子或者赌赌小趴趴菜项目。市场上跟得起注的只有 Binance 等少数玩家了。码比你长 10 倍，把把 all in 你，谁也扛不住。\n\n\n失去了亚洲资本的支持，亚洲项目岌岌可危。前两天看甲午海战，才明白邓世昌为什么要开船撞吉野号，因为大战列舰，炮弹是打不沉的。就像是中国公链们只靠 18 年那点常规路数，再也没机会打沉 Aptos 这种级别的项目。现在硕果仅存的亚洲项目主要集中在交易所，20-22 被 dex 侵占了不少交易量虽然还能保留住中心化合约这一块处女地，但基本也都在自救的边缘。下个周期合约上链了就彻底结束一个时代了。\n\n\n交易所们纷纷的疯狂投资就是自救的开始。\n\n\nWeb2 创始人现在转型进场是最差的时候。对过于应用爆发期的到来过于乐观。不要妄想像 web2 一样用技术引领市场，在 web3 是市场决定技术。\n\n\n优秀的 web3 创始人不在于长板有多长，而在于不能有短板。一点点短板就能要了你的命。\n\n\n资本和项目的差距，基本宣告了下一个周期，就是欧美对亚洲市场直接出货的定局。2049 本质上就是欧美项目对亚洲市场的倾销会，和广交会差不多。\n\n\n2018 年更重要的是你在/会做什么 2022 年更重要的是你能代表谁。中国人就是 Crypto 犹太人。\n\n\n基本已经确保 web3 发生在海外了。\n\n\n\n赵晨 2022.10.29 于新加坡\n\n\n（BlockBeats 注：日期 疑似原作者写错，应为 9 月 29 日）\n\n\n\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
