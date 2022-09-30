@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-09-29T18:15:19.831Z</updated>
+    <updated>2022-09-30T01:13:17.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[加密熊市下拿到大额融资的蓝筹NFT表现如何？]]></title>
+        <id>https://www.theblockbeats.info/news/32001</id>
+        <link href="https://www.theblockbeats.info/news/32001"/>
+        <updated>2022-09-30T01:00:09.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《蓝筹 NFT 项目大额融资之后都有怎样的规划？》
+原文作者：Babywhale，Foresight News
+
+
+
+
+近一个月的时间里，多个蓝筹 NFT 项目获得了数千万美元甚至过亿美元的融资，在市场上引起了诸多关注。作为蓝筹 NFT 项目的「模板」，Bored Ape Yacht Club（BAYC）的开发团队 Yuga Labs 在今年 3 月宣布了大额融资后，在 5 月初的元宇宙地块铸造中带来了一场现象级的表演。而在熊市期间能让诸多机构大掏真金白银的新晋蓝筹 NFT 项目又有着怎样的谋划？
+
+
+
+
+BAYC 与 Otherside
+
+
+
+
+于 2021 年 5 月推出的 Bored Ape Yacht Club（BAYC）系列 NFT 可以算是当前整个 Web3 领域中最成功的 NFT 项目之一。从 2021 年 5 月 0.08 ETH 的铸造价格，到 2022 年 4 月超 150 ETH 地板价的最高峰，其 NFT 本身的价值在近一年的时间里上涨近 1900 倍。
+ 
+在 NFT 价格水涨船高的过程中，Yuga Labs 接连推出了 MAYC 和 BAKC 系列 NFT、APE Token空投、元宇宙 Otherside、元宇宙地块 Otherdeed 等新内容，不停刺激着持有者和市场的神经。
+ 
+今年 3 月底，BAYC 母公司 Yuga Labs 宣布以 40 亿美元估值完成新一轮 4.5 亿美元融资，本轮融资由 a16z 领投，Animoca Brands、Coinbase 和 MoonPay 等参投。之后的 5 月 1 日，元宇宙 Otherside 的地块 NFT Otherdeed 启动铸造和公售，该 NFT 的铸造合约在短短 1 小时的时间内销毁了 2.6 万枚以太坊，Gas 费用一度飙升至近万 GWei。2022 年 5 月 1 日则…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infura的布局与思考：如何逐步实现去中心化]]></title>
         <id>https://www.theblockbeats.info/news/31989</id>
@@ -496,210 +526,6 @@ Cweb
 
 
 而如果他们不按照当时订立的契约履行交付演出或兑付资金的承诺，其所在的司法体系就会让其付出更加高昂的代价。这其实才是绝大多数权利之所以能够成立的原因，就是当这个权利被侵犯后，能够有相应的暴力机构来为被侵犯人提供救…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Merge时代：以太坊新共识的破局重生]]></title>
-        <id>https://www.theblockbeats.info/news/31954</id>
-        <link href="https://www.theblockbeats.info/news/31954"/>
-        <updated>2022-09-27T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Post-Merge 时代：以太坊新共识的破局重生
-
-》
-原文作者：Frank Fan，0xCryptolee，Arcane Labs
-
-
-
-
-
-
-
-
-
- 以太坊 经历了历史性的升级，发展进入了新的阶段。合并之后，以太坊将继续沿着扩容和去中心化的方向前进。The Merge 仅仅是 PoS 时代的第一步，以太坊依然面临着巨大的挑战，验证者群体中心化，扩容，Lazy Validator Problem 等问题依然制约着应用的爆发和以太坊的安全扩展，本文将从 The Merge 开始，逐步分析 POS 采用的共识算法，重点探索使用 DVT 技术来解决验证者单点风险的问题，和从业者一起分析以太坊的问题和未来的发展机会，建议具备一定以太坊基础的读者阅读此文章。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 一：The Merge 
-
-
-
-
-
-
- 1.1 背景 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Merge 是以太坊有史以来最大的技术升级，在 2022 年 9 月 15 日实现了 Execution Layer 和 Consensus Layer 的合并，其最大的变化是将以太坊的 PoW 共识切换为 PoS 共识。
-
-
-
-
-
-
-
-
-
-
-
-  图 1：The Merge  
-
-
-
-
-
-
-
-
-
-
-
-
-除此之外，合并以后以太坊的能源消耗降低了将近 99.95%，据 Vitalik Buterin 推文，以太坊合并将使全球用电量减少 0.2%。
-
-
-
-
-
-
-
-
-
-
-  图 2：Vitalik 对于合并后以太坊能源消耗的观点  
-
-
-
-
-
-
-
-
-
-
-
- 1.2 合并带来的改变 
-
-
-
-
-
- 
- 
- 
-
-Token
-
-增发： PoW 时代的 ETH 
-
-Token
-
-增发停止，新的 ETH 仅通过 PoS 共识出块产生，以太坊的通胀率降低，当 base fee 超过 15gwei 的时候，…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逐页解读白皮书，Cosmos 2.0 强在哪里？]]></title>
-        <id>https://www.theblockbeats.info/news/31951</id>
-        <link href="https://www.theblockbeats.info/news/31951"/>
-        <updated>2022-09-27T07:37:42.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Charlie Morris
-原文编译：Jack(0x137)，BlockBeats
-
-
-
-
-新的 Cosmos 白皮书刚刚发布，以下是我在阅读时的一些想法：
-
-
-
-
-第 1 页
-
-
-
-
-这一页白皮书写着：「Cosmos 网络的愿景已经实现」。这是一个大胆但真实的陈述。Cosmos V1 的白皮书侧重于通过 IBC 构建出 Cosmos Hub 和通信模型，这一点现在已经实现了。
-
-
-
-
-第 2 页
-
-
-
-
-Hub 需要一个新角色。Cosmos 开发者 Zaki 在昨晚 Cosmoverse 大会的演讲中说到，今天的 ATOM 几乎成了 Cosmos 生态系统中的 Meme 币，而 ATOM 实际上可以做更多，它的新角色是「发展有弹性的跨链经济」。
-
-
-
-
-这是什么意思？
-
-
-
-
-首先是成为「基础设施服务提供商」。就像以太坊充当平台而不是服务提供商一样，在 Cosmos 中，链无需接触 The Hub 即可使用 Cosmos SDK。因此，Hub 也就被动地提供了相关的附加价值……
-
-
-
-
-其次是分层架构，包括：
-1. 社会协调技术，Cosmos SDK、Tendermint 等的默认主页和协调层
-2. 跨链安全，由 Hub 保护的消费者链（Consumer Chains）
-3. 流动性质押，在 DeFi 中使用
-4. 跨链协调器（Interchain Scheduler），安全的区块空间市场
-5. 跨链分配器（Interchain Allocator），「委托方发展和调整基于 ATOM 的市场的平台」。
-
-
-
-
-其中跨链协调器和跨链分配器都是基于特定 Hub 的。
-
-
-
-
-
-
-
-
-
-第 4 页
-
-
-
-
-这页的内容很酷。Hub 将通过创建区块空间市场并收取匹配费用来从跨链经济活动中获得收入。如今，Hub 基本上没有任何收入，跨链协调器改变了这一点。而这笔收入将用于…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
