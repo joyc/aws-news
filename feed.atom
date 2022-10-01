@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-01T01:07:03.836Z</updated>
+    <updated>2022-10-01T06:27:49.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a16z：需要监管的应是Web3应用，而非协议]]></title>
+        <id>https://www.theblockbeats.info/news/32012</id>
+        <link href="https://www.theblockbeats.info/news/32012"/>
+        <updated>2022-10-01T02:04:49.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《a16z：需要监管的应是 Web3 应用，而非协议》
+原文作者：Miles Jennings
+原文编译：DeFi 之道
+
+
+互联网的许多早期支持者主张永远保持自由和开放，使其成为全人类的无边界和无监管的工具。在过去的 20 年里，随着政府对滥用行为的打击，这一愿景失去了一些明确性。然而，尽管如此，互联网的大部分基础技术 -- 通信协议，如 HTTP（网站的数据交换）、SMTP（电子邮件）和 FTP（文件传输）-- 仍像以往一样自由和开放。
+
+
+世界各国政府通过接受该技术依赖于开源、去中心化、自主和标准化的协议来维护互联网的承诺。当美国通过 1992 年的《科学和先进技术法案》（Scientific and Advanced Technology Act）时，它为商业互联网的繁荣铺平了道路，且没有篡改 TCP/IP 这一计算机网络协议。当国会通过 1996 年《电信法》（Telecommunications Act）时，它没有干涉数据穿越网络的方式，但仍然提供了足够的清晰度，使美国能够与现在的巨头如 Alphabet、亚马逊、苹果、Facebook  和其他公司一起主导互联网经济。虽然没有立法是完美的，但这些护栏允许行业和创新的发展，使我们今天能够享受许多互联网服务。
+
+
+主要的有利因素之一是：政府没有监管协议，而是寻求监管应用程序，包括浏览器、网站和其他面向用户的软件等应用，通常被称为 "客户端"-- 用户通过它们访问网络。这条仍然管理网络的准则应该延伸到 Web3，这是互联网的进化，它将具有新的应用程序或客户端，如 webapps 和钱包，以及先进的去中心化协议，包括由区块链和智能合约实现的价值交换结算层。问题不在于是否应该有 Web3 监管。这个问题的答案是显而易见的。规则是必要的，也是受欢迎的。问题是，在技术堆栈的哪一层，Web3 监管是最有意义的。
+
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi有哪些固定收益协议，ERC-3475将如何改变现有格局？]]></title>
         <id>https://www.theblockbeats.info/news/32013</id>
@@ -619,16 +643,6 @@ COVERAGE22 大会议程如下：
 
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cobo安全团队：ETH硬分叉里的隐藏风险和套利机会]]></title>
-        <id>https://www.theblockbeats.info/news/31982</id>
-        <link href="https://www.theblockbeats.info/news/31982"/>
-        <updated>2022-09-28T14:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Cobo安全团队：ETH硬分叉里的隐藏风险和套利机会]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
