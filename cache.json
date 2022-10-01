@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32016",
+          "author": null,
+          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《BlockBeats x 光源资本圆桌回顾：周期波谷，行业龙头如何渡过和布局？》\n\n\n \n9 月 26 日，BlockBeats 与光源资本在新加坡联合举办主题为「周期波谷，行业龙头是如何渡过和布局的？」线下 Meetup，包括 FTX Ventures 合伙人 Adam、光源资本常务董事 Min、OFR 执行合伙人 Ling Zhang、Hashkey Capital CEO Chao 等嘉宾出席，就 Web3 行业发展、宏观政策、行业主流赛道问题等方面，进行观点分享与讨论。\n\n\n \n《逐页解读白皮书，Cosmos 2.0 强在哪里？》\n\n\n \n9 月 26 日-28 日，Cosmoverse 大会在哥伦比亚城市麦德林顺利举办，旨在让南美加密社区更加了解 Cosmos 生态系统，最令人期待的是，在此次大会中，Cosmos 发布了全新的 2.0 白皮书。白皮书首先回顾之前 Cosmos 通过 Tendermint、IBC 和 SDK 所创造的辉煌。在意识到 Cosmos Hub 网络的采用率低下和质押在其上的 ATOM 利用率低下后，贡献者们希望通过 Cosmos 2.0 改变这一局面。本文将逐页解读白皮书，Cosmos 2.0 到底强在哪里？\n\n\n \n《Luna 后稳定币百花齐放，Cosmos 要成为新的 DeFi 大花园了吗？》\n\n\n \nCosmos 跨链生态系统如今和波卡系统可谓跨链的双峰，尤其近 1-2 年发展迅猛。近 2021 年 10 月，亚洲开发银行通过 Cosmos 技术分布式管理账本信息。曾经的 Cosmos…",
+          "link": "https://www.theblockbeats.info/news/32016",
+          "publishedOn": "2022-10-01T09:08:34.000Z",
+          "wordCount": null,
+          "title": "周末荐读：Cosmos 2.0强在哪里；行业龙头如何渡过周期？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32012",
           "author": null,
           "description": "原文标题：《a16z：需要监管的应是 Web3 应用，而非协议》\n原文作者：Miles Jennings\n原文编译：DeFi 之道\n\n\n互联网的许多早期支持者主张永远保持自由和开放，使其成为全人类的无边界和无监管的工具。在过去的 20 年里，随着政府对滥用行为的打击，这一愿景失去了一些明确性。然而，尽管如此，互联网的大部分基础技术 -- 通信协议，如 HTTP（网站的数据交换）、SMTP（电子邮件）和 FTP（文件传输）-- 仍像以往一样自由和开放。\n\n\n世界各国政府通过接受该技术依赖于开源、去中心化、自主和标准化的协议来维护互联网的承诺。当美国通过 1992 年的《科学和先进技术法案》（Scientific and Advanced Technology Act）时，它为商业互联网的繁荣铺平了道路，且没有篡改 TCP/IP 这一计算机网络协议。当国会通过 1996 年《电信法》（Telecommunications Act）时，它没有干涉数据穿越网络的方式，但仍然提供了足够的清晰度，使美国能够与现在的巨头如 Alphabet、亚马逊、苹果、Facebook  和其他公司一起主导互联网经济。虽然没有立法是完美的，但这些护栏允许行业和创新的发展，使我们今天能够享受许多互联网服务。\n\n\n主要的有利因素之一是：政府没有监管协议，而是寻求监管应用程序，包括浏览器、网站和其他面向用户的软件等应用，通常被称为 \"客户端\"-- 用户通过它们访问网络。这条仍然管理网络的准则应该延伸到 Web3，这是互联网的进化，它将具有新的应用程序或客户端，如 webapps 和钱包，以及先进的去中心化协议，包括由区块链和智能合约实现的价值交换结算层。问题不在于是否应该有 Web3 监管。这个问题的答案是显而易见的。规则是必要的，也是受欢迎的。问题是，在技术堆栈的哪一层，Web3 监管是最有意义的。\n\n\n…",
