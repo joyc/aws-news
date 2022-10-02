@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32017",
+          "author": null,
+          "description": "原文标题：《On building mobile first.》\n原文作者：Joel John，FTX 旗下基金 LedgerPrime 风投负责人\n原文编译：Kxp，BlockBeats\n\n\nCrypto 行业中的工作总是昼夜不停，耗费了我们大量的资源和精力，而此次熊市的到来正好给了我们一个反思的机会，让我们得以权衡其中的利弊。与传统市场不同的是，区块链生态系统中很多所谓的「成功」创始人都会利用 Token 进行炒作，在没有任何产品、用户或商业模式的情况下就可以赚取大笔的资金。\n\n\n\n\n在 Crypto 中，就算没有忠实用户或收益，你也可以打造一个十亿美元级别的协议。这一行业中许多我们引以为傲的高光时刻对于行业以外的人来说并没有多少实质性的影响，而每当监管局要针对某些新兴市场中的技术制定法律规范时，他们总会关注到这一点。因此，就算我们斗志满满，也还很难登上更大的舞台。\n\n\n\n\n\n饱受彼得·潘综合征困扰的创始人\n\n\n\n\n在我们的行业之中，彼得·潘综合征的症状尤为明显，即一个人虽已成年，却依然沉湎于孩童时期而不愿长大。在外人看来，Crypto 行业中身为创始人、投资者或技术使用者的我们，都像是在玩着幼稚的游戏一般。但只要还有人能够借此赚到钱，这场游戏就会一直持续下去。\n\n\n\n\n尽管如此，要想像 Coinbase、 FTX 和 Binance 那样形成数十亿美元的规模，还是需要多年的积累。在过去的 5 年，面向消费者的手机应用程序一直是 Crypto 行业增长的最大驱动力，而这也在一定程度上解释了 Wyre 和 Moonpay 分别估值 15 亿美元和 34 亿美元高估值的原因。两家公司的共同之处在于，它们都是应用程序通过移动设备上的微交易获取用户的关键基础设施。\n\n\n\n\n如果 Crypto 要从彼得·潘综合征中解脱出来，它就必须接触到那些不关心私钥和协议最大化的普通人。也就是…",
+          "link": "https://www.theblockbeats.info/news/32017",
+          "publishedOn": "2022-10-02T03:50:25.000Z",
+          "wordCount": null,
+          "title": "FTX旗下基金风投负责人：Crypto下一个数量级应用在移动端",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32016",
           "author": null,
           "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《BlockBeats x 光源资本圆桌回顾：周期波谷，行业龙头如何渡过和布局？》\n\n\n \n9 月 26 日，BlockBeats 与光源资本在新加坡联合举办主题为「周期波谷，行业龙头是如何渡过和布局的？」线下 Meetup，包括 FTX Ventures 合伙人 Adam、光源资本常务董事 Min、OFR 执行合伙人 Ling Zhang、Hashkey Capital CEO Chao 等嘉宾出席，就 Web3 行业发展、宏观政策、行业主流赛道问题等方面，进行观点分享与讨论。\n\n\n \n《逐页解读白皮书，Cosmos 2.0 强在哪里？》\n\n\n \n9 月 26 日-28 日，Cosmoverse 大会在哥伦比亚城市麦德林顺利举办，旨在让南美加密社区更加了解 Cosmos 生态系统，最令人期待的是，在此次大会中，Cosmos 发布了全新的 2.0 白皮书。白皮书首先回顾之前 Cosmos 通过 Tendermint、IBC 和 SDK 所创造的辉煌。在意识到 Cosmos Hub 网络的采用率低下和质押在其上的 ATOM 利用率低下后，贡献者们希望通过 Cosmos 2.0 改变这一局面。本文将逐页解读白皮书，Cosmos 2.0 到底强在哪里？\n\n\n \n《Luna 后稳定币百花齐放，Cosmos 要成为新的 DeFi 大花园了吗？》\n\n\n \nCosmos 跨链生态系统如今和波卡系统可谓跨链的双峰，尤其近 1-2 年发展迅猛。近 2021 年 10 月，亚洲开发银行通过 Cosmos 技术分布式管理账本信息。曾经的 Cosmos…",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-09-30T01:00:09.000Z",
           "wordCount": null,
           "title": "加密熊市下拿到大额融资的蓝筹NFT表现如何？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/31989",
-          "author": null,
-          "description": "原文标题：《\n\n专访 Infura 联合创始人：我们为什么计划在 2023 年推出去中心化协议\n\n》\n原文作者：SHL，PANews\n\n\n\n\n\nInfura 是以太网络 API 的重要接口，开发者通过 Infura 可实现一键接入以太坊。Infura 和 MetaMask 都是由以太坊基础设施公司 ConsenSys 推出。自 2016 年发展至今，Infura 已成为以太坊、IPFS 核心基础架构的支柱。\n\n\n同时，Infura 也是此次以太坊网络从 PoW 升级为 PoS 的第一个同步的节点服务商。在以太坊升级后，Infura 继续保持以太坊网络接口的稳定性和安全性。除以太坊网络外，Infura 也在积极部署其他网络的接口。9 月 21 日，Infura 公布推出支持 StarkNet 网络 API，这也进一步丰富了 Infura 的生态网络，为实现去中心化的 Web3 做好基础搭建。\n\n\n近期，Infura 公布即将推出去中心化协议（Decentralized Infrastructure Network），开发者基于去中心化协议将实现更轻松地链接 dApps 和以太坊网络。去中心化协议的出现有望解决 Infura 此前产品过于集中的中心化问题，是 Infura 逐步实现去中心化的重要一步。因而，去中心化协议引发了开发者及社区的高度关注，更是引起了行业对 Infura 的热议。\n\n\n针对 Infura 近期的一些调整和升级，PANews 专访了 Infura 的联合创始人 E.G. Galano，深度解读 Infura 背后的布局及思考。E.G. Galano 曾是洛杉矶酒店软件初创公司 KEYPR 总监，也曾是 2012 年被索尼收购的云游戏公司 Gaikai 的早期员工，现为 Infura 的联合创始人兼首席基础设施的开发工程师。\n\n\n本次专访中，E.G. Gal…",
-          "link": "https://www.theblockbeats.info/news/31989",
-          "publishedOn": "2022-09-29T14:47:12.000Z",
-          "wordCount": null,
-          "title": "Infura的布局与思考：如何逐步实现去中心化",
           "imageUrl": null
         }
       ]
