@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-02T12:16:34.947Z</updated>
+    <updated>2022-10-02T18:11:12.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></title>
+        <id>https://www.theblockbeats.info/news/32018</id>
+        <link href="https://www.theblockbeats.info/news/32018"/>
+        <updated>2022-10-02T13:19:49.000Z</updated>
+        <summary type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX旗下基金风投负责人：Crypto下一个数量级应用在移动端]]></title>
         <id>https://www.theblockbeats.info/news/32017</id>
@@ -334,196 +344,6 @@ Savanna Survival 是一款包容性的开放世界游戏，同时支持免费游
 
 
 此外，Savanna Survival 中使用 4 种货币，其中只有 SavannaSurvival Token 是链上的，可用于购买链上配件或兑换成法币进行兑换。而其余 SavannaSurvival Platinum、SavannaSurvival D…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圈内刷屏的TOKEN2049感想：华人Web3，还有机会么？]]></title>
-        <id>https://www.theblockbeats.info/news/32006</id>
-        <link href="https://www.theblockbeats.info/news/32006"/>
-        <updated>2022-09-30T04:56:20.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 9 月底，Web3「盛宴」TOKEN2049 在新加坡拉开帷幕了。据不完全统计本次大会的周边衍生活动已高达数百场，在这些觥筹交错的背后，有这样一群人正在担心华人 Web3 的未来。
-
-
-9 月 30 日，参会者赵晨的一则参会感小作文悄然在华人社区中传播开来：「
-
-演讲台上已经基本没有中国面孔了，即使有也没啥人愿意听了。
-
-」华人 Web3，没了吗？
-
-
-以下是赵晨的小作文原文：
-
-
-新加坡赚麻了。
-
-
-演讲台上已经基本没有中国面孔了，即使有也没啥人愿意听了。
-
-
-14 年，V 神在学中文，22 年，中国资本和项目最大的瓶颈是创始人的英语。
-
-
-亚洲资本在在加密圈全面落后，融不起。
-
-
-megafund 就没有定价权，一只最优秀的亚洲基金的规模还没一个欧美 deal 的轮次大。以后就只能跟着欧美资本后面吃掉下的渣子或者赌赌小趴趴菜项目。市场上跟得起注的只有 Binance 等少数玩家了。码比你长 10 倍，把把 all in 你，谁也扛不住。
-
-
-失去了亚洲资本的支持，亚洲项目岌岌可危。前两天看甲午海战，才明白邓世昌为什么要开船撞吉野号，因为大战列舰，炮弹是打不沉的。就像是中国公链们只靠 18 年那点常规路数，再也没机会打沉 Aptos 这种级别的项目。现在硕果仅存的亚洲项目主要集中在交易所，20-22 被 dex 侵占了不少交易量虽然还能保留住中心化合约这一块处女地，但基本也都在自救的边缘。下个周期合约上链了就彻底结束一个时代了。
-
-
-交易所们纷纷的疯狂投资就是自救的开始。
-
-
-Web2 创始人现在转型进场是最差的时候。对过于应用爆发期的到来过于乐观。不要妄想像 web2 一样用技术引领市场，在 web3 是市场决定技术。
-
-
-优秀的 web3 创始人不在于长板有多长，而在于不能有短板。一点点短板就能要了你的命。
-
-
-资本和项目的差距，基本宣告了下一个周期，就是欧美对亚洲市场直接出货的定局。2049 本质上就是欧美项目对亚洲市场的倾销会，和广交会差不多。
-
-
-2018 年更重要的是你在/会做什么 2022 年更重要的是你能代表谁。中国人就是 Crypto 犹太人。
-
-
-基本已经确保 web3 发生在海外了。
-
-
-
-赵晨 2022.10.29 于新加坡
-
-
-（BlockBeats 注：日期 疑似原作者写错，应为 9 月 29 日）
-
-
-
-
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从公链特性看，优质项目为什么选择BNB Chain]]></title>
-        <id>https://www.theblockbeats.info/news/32005</id>
-        <link href="https://www.theblockbeats.info/news/32005"/>
-        <updated>2022-09-30T03:29:48.000Z</updated>
-        <summary type="html"><![CDATA[股票在长期的运作中能够表现出一定的特性或规律，就像是一个人的性格一样，为此我们将其称之为「股性」。换言之，股性是股票的一种外生特征，是由投资人的行为所赋予的。这一规律不仅仅适用于股票，加密世界中的公链同样符合。如，以太坊曾因交易费用高昂而被称之为富豪链。
-
- 
-和股票的股性不同，公链的特性是由公链本身的物理特性和使用公链的用户特性所组成，并且后者的影响力更大。
- 
-如果仔细认真研究加密项目的发展便会发现，公链特性对项目的成败有着决定性的作用。为此，本文将从公链特性的角度解读优质项目为什么选择 BNB Chain，BNB Chain 又是如何吸引到众多优质项目的。
- 
-
-
-从 Solana 第一到 BNB Chain 第一，仅用 3 天
-
- 
-Gameta 是一个最初基于 Solana 网络创建的 Web3 游戏平台。Gameta 主要是为休闲游戏提供基础设施和发行服务，从而吸引更多游戏玩家从 Web2 走向 Web3.
- 
-在 Solana 网络上，Gameta 使用数个月时间从 0 登顶游戏排行榜第一。根据 DappRadar 数据显示，Gameta Solana 网络的日活跃用户约 3.1 万。
- 
-在完成 Solana 网络登顶后，Gameta 于 8 月 27 日迁移到 BNB Chain。
- 
-在迁移后 3 天，Gameta 飙升至 BNB Chain 游戏榜第一。数据显示，在迁移后 48 小时，Gameta 新增了 3.5 万名新用户。在 7 天时间中，Gameta 的用户增加了 486.73%，交易增加了 203%。DappRadar 的最新数据显示，Gameta 的 MAU 月活跃用户达到 163 万。
-
-
-
-原图来源：DappRadar
-
-
-Gameta 只是众多从其他公链迁移到 BNB Chain 的项目之一，从最基础的数据上来看便不难理解为何众多优质项…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui联创：链游与Move语言的结合优势]]></title>
-        <id>https://www.theblockbeats.info/news/32004</id>
-        <link href="https://www.theblockbeats.info/news/32004"/>
-        <updated>2022-09-30T03:17:20.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《为何Move语言对链游别具价值？| Sui 联创 Koh Kim》
-原文来源：Mysten Labs
-原文编译：万象、梦惑
-
-
-本篇文章来自 Mysten Labs 生态系统负责人 Koh Kim 的线上 AMA。访谈过程中，Koh 介绍了基于 Move 语言的 Sui 公链如何赋能链游，以及如何吸引游戏开发者学习和应用 Move 语言。期待 Move 语言为基石，孕育出繁荣的链游生态。 
-
-
-基础介绍
-
-
-Jen：欢迎来到最新一期 Sui AMA。本期我们将介绍 Mysten Labs 生态系统的负责人。
-
-
-Koh：我是 Koh Kim，负责处理 Mysten 的所有外部事务。所以我经常思考：
-
-
-1.我们如何发展社区？
-
-
-2.如何激励开发者为我们平台带来酷炫体验？
-
-
-3.如何赋能广大社区去学习和成为优秀的开发人员？
-
-
-我在大学期间学习了应用博弈论和统计学，曾想成为一名学者。然而，我的大学导师却不这样建议，所以我尝试体验现实世界，在摩托罗拉做暑期实习生，研究未来的硬件和软件趋势。大学毕业后，我在一家专注于量化营销的咨询公司工作了几年，直至加入谷歌。
-
-
-从产品营销开始，我开始与 Google 的新兴产品合作。我最显著的成就是在全球范围内扩展 Google Play 游戏团队和业务。我也是许多消费科技公司的天使投资人和顾问，尤其在游戏领域。我帮助过 SkateX 和 Panzerdogs 等 Web3 项目。
-
-
-如今，我在 Mysten Labs 工作。所有讯号都指引着我跳进 Web3，加入 Mysten Labs 并为 Sui 建设，没有比这更好的地方了。
-
-
-问答环节
-
-
-问题 1：为什么游戏要建立在 Sui 之上？
-
-
-Koh：Sui 资产现在被建模为可以定义物品的属性，或者可以将不同物品组合成新物品。
-
-
-在游戏中，你可以拥有一把剑来收集经验值…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密熊市下拿到大额融资的蓝筹NFT表现如何？]]></title>
-        <id>https://www.theblockbeats.info/news/32001</id>
-        <link href="https://www.theblockbeats.info/news/32001"/>
-        <updated>2022-09-30T01:00:09.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《蓝筹 NFT 项目大额融资之后都有怎样的规划？》
-原文作者：Babywhale，Foresight News
-
-
-
-
-近一个月的时间里，多个蓝筹 NFT 项目获得了数千万美元甚至过亿美元的融资，在市场上引起了诸多关注。作为蓝筹 NFT 项目的「模板」，Bored Ape Yacht Club（BAYC）的开发团队 Yuga Labs 在今年 3 月宣布了大额融资后，在 5 月初的元宇宙地块铸造中带来了一场现象级的表演。而在熊市期间能让诸多机构大掏真金白银的新晋蓝筹 NFT 项目又有着怎样的谋划？
-
-
-
-
-BAYC 与 Otherside
-
-
-
-
-于 2021 年 5 月推出的 Bored Ape Yacht Club（BAYC）系列 NFT 可以算是当前整个 Web3 领域中最成功的 NFT 项目之一。从 2021 年 5 月 0.08 ETH 的铸造价格，到 2022 年 4 月超 150 ETH 地板价的最高峰，其 NFT 本身的价值在近一年的时间里上涨近 1900 倍。
- 
-在 NFT 价格水涨船高的过程中，Yuga Labs 接连推出了 MAYC 和 BAKC 系列 NFT、APE Token空投、元宇宙 Otherside、元宇宙地块 Otherdeed 等新内容，不停刺激着持有者和市场的神经。
- 
-今年 3 月底，BAYC 母公司 Yuga Labs 宣布以 40 亿美元估值完成新一轮 4.5 亿美元融资，本轮融资由 a16z 领投，Animoca Brands、Coinbase 和 MoonPay 等参投。之后的 5 月 1 日，元宇宙 Otherside 的地块 NFT Otherdeed 启动铸造和公售，该 NFT 的铸造合约在短短 1 小时的时间内销毁了 2.6 万枚以太坊，Gas 费用一度飙升至近万 GWei。2022 年 5 月 1 日则…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
