@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-01T18:10:54.248Z</updated>
+    <updated>2022-10-02T00:59:12.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -516,70 +516,6 @@ Infura 是以太网络 API 的重要接口，开发者通过 Infura 可实现一
 
 
 本次专访中，E.G. Gal…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOVE开发入门第十节：abort和assert控制事件]]></title>
-        <id>https://www.theblockbeats.info/news/31991</id>
-        <link href="https://www.theblockbeats.info/news/31991"/>
-        <updated>2022-09-29T10:05:41.000Z</updated>
-        <summary type="html"><![CDATA[MOVE 是一门智能合约开发语言，随着新公链     Aptos 的崛起，MOVE 语言也渐渐进入大众视野。MOVE语言在实际开发中不可避免会遇到终止执行以及恢复事务的情况，Move 提供了两种解决方式 abort 关键字和 assert 方法。本章节会重点讲解。
-
-
-
- 
-
-
-更多视频，请观看 《MOVE开发入门第九节：作用域和生命周期》
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3如何使粉丝成为新的创作者？]]></title>
-        <id>https://www.theblockbeats.info/news/31990</id>
-        <link href="https://www.theblockbeats.info/news/31990"/>
-        <updated>2022-09-29T08:20:44.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Fans are the New Creators》  
-原文作者：Li jin
-原文编译：Shaun @DAOrayaki.org
-
-
-Web3 最重要的趋势之一就是对圈子的重新构想：观众/粉丝和创作者之间的界限模糊，以及粉丝劳动如何被资助和奖励。
-
-
-两大转变正在证明这一趋势：
-
-
-粉丝和创作者之间的鸿沟正在消失。粉丝可以施加重大影响甚至共同创作原创作品（质疑「原创」甚至意味着什么）；
-
-
-粉丝们正在采用新的商业模式和资金来源来创建衍生项目，而这些在以前是不存在的
-
-
-最终结果是扩展了互联网上的创造力，使其具有更大的访问权限、财务优势、协作和成就感。
-
-
-从 Canon 到「Fanon」
-
-
-粉丝和创作者之间的区别在 web3 中的相关性正在减弱。粉丝们正在创作与原作一样被广泛认可的衍生作品，甚至创作被官方认可为经典作品。与此密不可分的是，创作者认识到粉丝可以为创作过程增添价值，从一开始就授权作品允许衍生使用（通常选择 CC0 或「无权利保留」许可）。这与创造者经济的未来是社区经济的主题之一一致，其中共同创造是通过共享所有权来驱动和奖励的。
-
-
-我们来分析正在发生的一些案例：
-
-
-Shibuya 是一部动画电影，通过出售 NFT Producer Pass 获得资助。NFT 持有者可以对电影后续章节的情节进行投票和影响，从而获得代表最终电影份额的代币。粉丝反馈与创作过程的紧密结合削弱了粉丝与创作者之间的区别。
-
-
-另一个例子是 Jenkins the Valet，这是一种无聊的猿 NFT，由其所有者 Tally Labs 命名和构思。Jenkins 的整个角色可以被认为是一部延伸的粉丝小说——但它已经变得如此突出，以至于被 CAA 签约。共享 IP 所有权导致 BAYC 的单一衍生作品引发了一个新的创意世界。
-
-
-BAYC 持有者对他们拥有的 NFT 的无限…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
