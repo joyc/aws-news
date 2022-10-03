@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32019",
+          "author": null,
+          "description": "原文来源：DeSo\n\n\n由 Coinbase、红杉资本和 a16z 支持的新区块链 DeSo 日前宣布与 MetaMask 整合。因此，数百万以太坊用户现在可以一键访问加密的链上消息和类似 Twitter 的完整功能集。\n\n\n\n\nDeSo 与领先的 Web3 钱包的整合将 MetaMask 有效地变成了一个成熟的去中心化社交网络，这也为 DeSo 成为所有 Web3 的跨链社交层铺平了道路。\n\n\n\n\nDeSo 创始人 Nader Al-Naji 表示：「现有的区块链无法有效存储内容。在以太坊上存储一条 200 字符的 Tweet 的成本约为 50 美元，在 Solana、Avalanche 或 Polygon 上存储大约需要 15 美分。相比之下，DeSo 的价格只有十分之一到千分之一，使其成为首个能够颠覆社交等存储密集型应用的区块链。」\n\n\n\n\nMetaMask 用户将获得免 Gas 的个人资料创建、消息发布、关注其他用户、完全去中心化的链上关注图等功能。由于这种整合，Compound 上的 MetaMask 用户可以向在 Uniswap 上的用户发送加密信息，而该用户将通过 DeSo 收到该信息。\n\n\n\n\n同样，OpenSea 上的用户可以在 NFT 上留下评论，并让它出现在上架该 NFT 的其他平台上，例如 Rable 或 SupeRare。即使一个用户在 Polygon 网络上，而另一个用户在以太坊上，这个系统也能发挥作用。\n\n\n\n\n如今，社交媒体由少数私人公司控制——但随着 MetaMask 这样的钱包从处理金钱扩展到处理社交身份和社交互动，这种情况可能会改变。在以太坊生态系统中获得一席之地后，DeSo 计划通过与 Phantom 钱包集成向 Solana 扩展。\n\n\n\n\n关于 Deso \n\n\n\n\n\n\n\nDeSo 是唯一一个为构建和扩展 10 亿用户级别去中心化社交媒体应用而设计的 Layer 1 区块链。DeSo 的著名股东包括红杉、Coinbase Ventures、a16z、Winklevoss Capital 和 Alex Ohanian。\n\n\n本文来自投稿，不代表 BlockBeats 观点。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32019",
+          "publishedOn": "2022-10-03T05:04:49.000Z",
+          "wordCount": null,
+          "title": "Web3社交网络DeSo与MetaMask集成，为数百万以太坊用户解锁去中心化社交",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32018",
           "author": null,
           "description": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
@@ -43,26 +53,6 @@
           "publishedOn": "2022-10-01T02:04:49.000Z",
           "wordCount": null,
           "title": "a16z：需要监管的应是Web3应用，而非协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32013",
-          "author": null,
-          "description": "原文标题：《\n\n\n\nDeFi 有哪些固定收益协议，新标准 ERC-3475 将如何改变现有格局？\n\n\n\n》\n原文作者：Cereal Killer\n原文编译：\n\nDeFi 之道\n\n\n\n当前，固定收益产品在全球范围内有大约 119 亿美元的总可寻市场。但在 DeFi 领域中，这个数字还不到数百万美元。\n\n\n那到底为什么在 DeFi 中创建固定利率的资产工具如此困难呢？新的Token标准 ERC-3475 又将如何才能改变现有的市场格局呢？铁子们，接下来就让我们深入了解一下关于固定收益和 ERC-3475 的内容吧。\n\n\nDeFi 借贷中的利率是如何确定的？\n\n\n在当前的 DeFi 市场中，为了平衡供应和需求，大多数借贷协议使用利用率 - 利率反馈控制机制：\n\n\n当市场上的供应大于需求时，该机制会降低利率以鼓励借款人借款，而当供应小于需求时，该机制会提高利率。\n\n\n因此，由于市场存在着波动，借贷协议的利率是很难保持稳定的（见下图）。\n\n\n\n\n\n这就是市场对固定利率资产的需求来源。\n\n\n市场对稳定性和可预测性的需求来自于：\n\n\n- 为了对自己的投资有更多的控制\n- 为了开发复杂的金融产品\n\n\n在我们深入了解今天的内容之前，我先给铁子们介绍一些术语。\n\n\n面值：到期时支付给债券持有人的美元\n\n\n零息债券：在债券有效期内不支付利息的债券。投资者以比票面价值更低的价格购买零息债券\n\n\n我给铁子们举一个包含上面术语的比喻：你可以想象一下，零息债券是你在田里种植的小麦，你从收获小麦中获得的收入就是面值。而你为种植小麦而购买的种子就是你为债券支付的折扣价格。\n\n\nDeFi 领域当前的两种固定利率模式\n\n\n目前，有两种方法可以保证固定利息。\n\n\n交易「零息债券」\n\n\n借款人以 ERC-20 \n\nToken\n\n的形式发行「债券」，从贷款人那里获得目标资产，到期后以固定利率偿还。\n\n\n\n资料来源：Y…",
-          "link": "https://www.theblockbeats.info/news/32013",
-          "publishedOn": "2022-09-30T14:43:48.000Z",
-          "wordCount": null,
-          "title": "DeFi有哪些固定收益协议，ERC-3475将如何改变现有格局？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32015",
-          "author": null,
-          "description": "原文来源：Euler\n原文编译：0x711&0x9F BlockBeats\n\n\nEuler 是建立在以太坊之上的无许可借贷协议，已成为第一个将 Tether（USDT）列为抵押资产的主要 DeFi 借贷协议。上周，EulerDAO 成员对 USDT 的提案进行了投票，并以 88% 比 12% 的投票率通过了该提案。\n\n\nEulerDAO 于 2022 年 8 月启动，允许社区成员就协议的发展提出建议并投票。9 月 16 日，社区提交了一份提案，其中包括对 Euler 上的 USDT 进行一系列变更，其中包括将 USDT 提升至抵押品级别。\n\n\nEuler Labs 首席执行官迈克尔·本特利（Michael Bentley）表示：「通过这次投票，Euler 现在可以为 USDT 的机构持有人提供以前无法获得的 DeFi 生态系统。由于到目前为止还没有主要的借贷协议上架 USDT，Euler 在提高 DeFi 内部 Stablecoin 竞争的同时，也提高了金融包容性。」\n\n\n因此，USDT 持有者目前可以使用 Tether 作为主流 DeFi 交易（如 stETH/ETH）的抵押物。\n\n\nEuler Labs 风险主管 Seraphim Czecker 表示：「利用 Euler 的阶梯风险框架，对接受 USDT 作为抵押品的决策进行了全面评估，总体上符合安全借贷的标准。随着 Euler 借贷活动的增加，协议在扩大 USDT 的用例和功能方面发挥着重要作用。」\n\n\nEuler 为提高资本效率而定制，降低了借贷不稳定的长尾加密资产相关风险，并具有多项创新，包括无许可借贷市场、响应式利率、受保护的抵押品、抗 MEV 清算、多抵押品稳定池、风险调整的贷款等等。\n\n\n欲了解更多关于 Euler 的信息，请访问：https://www.euler.finance/#/\n\n\n\n关于 Euler\n\n\n\nEuler 是一个资本效率高的无许可借贷协议，帮助用户通过其加密货币资产赚取利息或对冲波动的市场，而不需要可信的第三方。Euler 具有许多 DeFi 中从未见过的创新，包括无许可借贷市场、响应式利率、受保护的抵押品、抗 MEV 清算、多抵押品稳定池、子账户、风险调整的贷款等等。欲了解更多信息，请访问 euler.finance。\n\n\n关于 Euler 实验室\n\n\n\n\n\nEuler labs 是一个由软件工程师和定量分析员组成的团队，专门从事金融应用的研发。\n\n\n本文来自投稿，不代表 BlockBeats 观点。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32015",
-          "publishedOn": "2022-09-30T13:39:36.000Z",
-          "wordCount": null,
-          "title": "Euler成为首个接受USDT作为抵押品的大型DeFi借贷协议",
           "imageUrl": null
         }
       ]
