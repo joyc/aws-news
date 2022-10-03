@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-03T06:21:51.853Z</updated>
+    <updated>2022-10-03T12:20:36.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[14个ETHOnline 2022决赛入围项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/32020</id>
+        <link href="https://www.theblockbeats.info/news/32020"/>
+        <updated>2022-10-03T07:39:49.000Z</updated>
+        <summary type="html"><![CDATA[原文标题；《ETHOnline 2022 - Our biggest event ever just got bigger.》
+原文作者：ETHGlobal
+原文编译：0x214，BlockBeats
+
+
+
+
+近日，ETHGlobal 发布了 ETHOnline 2022 黑客松活动回顾长文，并公布了 14 个决赛入围项目，这些项目以杰出前瞻性和执行力从 1780 名黑客发起的 360 个项目中脱颖而出，其创新理念博得评审一致好评。ETHGlobal 对这 14 个项目进行梳理介绍，并逐一阐述了其关注亮点，BlockBeats 对其整理翻译如下：
+
+
+
+
+
+
+
+
+
+
+
+Telescope 
+
+
+
+
+Telescope 是一个跨链交易浏览器，旨在提供增强的用户体验，追踪链上资金的流动。
+
+
+
+
+
+Telescope「交易浏览器」界面
+
+
+
+
+团队：@iamminci
+
+
+
+
+亮点：Telescope 直接解决了 Web3 面临的用户体验问题，它提供了一个简单的、面向用户的交易浏览器，面向生态系统新手。我们希望看到这一系统的建立，因为像这样的应用程序可能会成为大规模采用的利器。
+
+
+
+
+Demo
+
+
+ENSEverywhere
+
+
+
+
+在 Layer2 上购买、交易和跨链转移 ENS 域名，手续费低廉，满足用户预期。
+
+
+
+
+
+ENS Everywhere 为 L2 ENS 域名提供了大量机会
+
+
+
+
+团队：@dmihal, @kallemoen, @charly_mrtn
+
+
+
+
+亮点：ENS Everywhere 提供了一个简单、但一针见血的解决方案，甚至让评委都产生疑惑：「怎么我就没有想到呢？」这个项目或将标志着生态系统发展的一个关键转折点，期待其下一步的发展。
+
+
+
+
+Demo
+
+
+ Stackr Network
+
+
+ Stackr Network 是一个构建专为应用打…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3社交网络DeSo与MetaMask集成，为数百万以太坊用户解锁去中心化社交]]></title>
         <id>https://www.theblockbeats.info/news/32019</id>
