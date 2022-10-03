@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32022",
+          "author": null,
+          "description": "才批FTX提案不可行，期货交易平台龙头CME现考虑自己做经纪商，专家：被迫采取FTX的模式",
+          "link": "https://www.theblockbeats.info/news/32022",
+          "publishedOn": "2022-10-03T11:44:49.000Z",
+          "wordCount": null,
+          "title": "才批FTX提案不可行，期货交易平台龙头CME现考虑自己做经纪商，专家：被迫采取FTX的模式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32020",
           "author": null,
           "description": "原文标题；《ETHOnline 2022 - Our biggest event ever just got bigger.》\n原文作者：ETHGlobal\n原文编译：0x214，BlockBeats\n\n\n\n\n近日，ETHGlobal 发布了 ETHOnline 2022 黑客松活动回顾长文，并公布了 14 个决赛入围项目，这些项目以杰出前瞻性和执行力从 1780 名黑客发起的 360 个项目中脱颖而出，其创新理念博得评审一致好评。ETHGlobal 对这 14 个项目进行梳理介绍，并逐一阐述了其关注亮点，BlockBeats 对其整理翻译如下：\n\n\n\n\n\n\n\n\n\n\n\nTelescope \n\n\n\n\nTelescope 是一个跨链交易浏览器，旨在提供增强的用户体验，追踪链上资金的流动。\n\n\n\n\n\nTelescope「交易浏览器」界面\n\n\n\n\n团队：@iamminci\n\n\n\n\n亮点：Telescope 直接解决了 Web3 面临的用户体验问题，它提供了一个简单的、面向用户的交易浏览器，面向生态系统新手。我们希望看到这一系统的建立，因为像这样的应用程序可能会成为大规模采用的利器。\n\n\n\n\nDemo\n\n\nENSEverywhere\n\n\n\n\n在 Layer2 上购买、交易和跨链转移 ENS 域名，手续费低廉，满足用户预期。\n\n\n\n\n\nENS Everywhere 为 L2 ENS 域名提供了大量机会\n\n\n\n\n团队：@dmihal, @kallemoen, @charly_mrtn\n\n\n\n\n亮点：ENS Everywhere 提供了一个简单、但一针见血的解决方案，甚至让评委都产生疑惑：「怎么我就没有想到呢？」这个项目或将标志着生态系统发展的一个关键转折点，期待其下一步的发展。\n\n\n\n\nDemo\n\n\n Stackr Network\n\n\n Stackr Network 是一个构建专为应用打…",
@@ -53,16 +63,6 @@
           "publishedOn": "2022-10-01T09:08:34.000Z",
           "wordCount": null,
           "title": "周末荐读：Cosmos 2.0强在哪里；行业龙头如何渡过周期？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32012",
-          "author": null,
-          "description": "原文标题：《a16z：需要监管的应是 Web3 应用，而非协议》\n原文作者：Miles Jennings\n原文编译：DeFi 之道\n\n\n互联网的许多早期支持者主张永远保持自由和开放，使其成为全人类的无边界和无监管的工具。在过去的 20 年里，随着政府对滥用行为的打击，这一愿景失去了一些明确性。然而，尽管如此，互联网的大部分基础技术 -- 通信协议，如 HTTP（网站的数据交换）、SMTP（电子邮件）和 FTP（文件传输）-- 仍像以往一样自由和开放。\n\n\n世界各国政府通过接受该技术依赖于开源、去中心化、自主和标准化的协议来维护互联网的承诺。当美国通过 1992 年的《科学和先进技术法案》（Scientific and Advanced Technology Act）时，它为商业互联网的繁荣铺平了道路，且没有篡改 TCP/IP 这一计算机网络协议。当国会通过 1996 年《电信法》（Telecommunications Act）时，它没有干涉数据穿越网络的方式，但仍然提供了足够的清晰度，使美国能够与现在的巨头如 Alphabet、亚马逊、苹果、Facebook  和其他公司一起主导互联网经济。虽然没有立法是完美的，但这些护栏允许行业和创新的发展，使我们今天能够享受许多互联网服务。\n\n\n主要的有利因素之一是：政府没有监管协议，而是寻求监管应用程序，包括浏览器、网站和其他面向用户的软件等应用，通常被称为 \"客户端\"-- 用户通过它们访问网络。这条仍然管理网络的准则应该延伸到 Web3，这是互联网的进化，它将具有新的应用程序或客户端，如 webapps 和钱包，以及先进的去中心化协议，包括由区块链和智能合约实现的价值交换结算层。问题不在于是否应该有 Web3 监管。这个问题的答案是显而易见的。规则是必要的，也是受欢迎的。问题是，在技术堆栈的哪一层，Web3 监管是最有意义的。\n\n\n…",
-          "link": "https://www.theblockbeats.info/news/32012",
-          "publishedOn": "2022-10-01T02:04:49.000Z",
-          "wordCount": null,
-          "title": "a16z：需要监管的应是Web3应用，而非协议",
           "imageUrl": null
         }
       ]
