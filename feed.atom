@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-04T06:21:23.891Z</updated>
+    <updated>2022-10-04T12:20:30.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对话体育娱乐公链Chiliz CEO：被忽视的粉丝Token详解]]></title>
+        <id>https://www.theblockbeats.info/news/32024</id>
+        <link href="https://www.theblockbeats.info/news/32024"/>
+        <updated>2022-10-04T08:11:07.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Best Performing Coins That Crypto Investors Don't Know About (fan tokens explained!)》
+原文作者：Alex Dreyfus&Luke Martin，STACKS
+原文编译：Kxp，BlockBeats
+
+
+Alex，很高兴你愿意接受我们的采访。最近这段时间，在整体形势下行的情况下，为什么粉丝Token、Chiliz 以及 Socios 还能得到如此多的关注，并实现不错的增长？
+
+
+
+Alex Dreyfus：虽然我们得到了很多的关注，但我还是感到些许沮丧。我们的平台之所以能获得讨论热度，主要还是因为 Chiliz 价格的激增，但这一点并不能体现我们在过去两年半所做工作的价值。
+
+
+
+你认为这是受到英超足球回归的影响吗吗？我的意思是，你认为这种情况是什么原因造成的？
+
+
+
+Alex Dreyfus：目前来看，我们有 150 万用户，并且这一数字每天都在增长。同时，我们也在加紧推出 Chiliz Chain 2.0，它更像是一种权威证明，而非专门用于体育和娱乐领域的权益证明。到今年年底或明年年初，很多我们合作的球队将成为该链的验证者，如巴萨、阿森纳、曼城等等。所以在我看来，价格的上涨只是一方面，真正重要的是我们有 270 名员工，正勤勤恳恳地发展我们的业务。
+
+
+
+我最近关注了一位加密交易员，他最近也一直在关注 Chiliz 和粉丝Token。不过就我个人而言，我虽然一直有在观察你们的项目，但一直都没有入手。在过去两个星期以来，Chiliz 的表现一直非常优秀，不过我也在想，可能除了我以外还有很多人不了解 Chiliz 和 Socios 平台，以及现在很多人都追捧的粉丝Token。所以，可以先请你简单地为我们做个介绍吗？
+
+
+
+Alex Dreyfus：现在的情况在于，99% 的体育…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第40周链上数据分析：当前避险情绪较重，市场已经进入最低迷阶段]]></title>
         <id>https://www.theblockbeats.info/news/32023</id>
