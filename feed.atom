@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-07T01:06:10.600Z</updated>
+    <updated>2022-10-07T06:16:54.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paradigm：以太坊转为PoS并不能代表ETH可被视为证券]]></title>
+        <id>https://www.theblockbeats.info/news/32029</id>
+        <link href="https://www.theblockbeats.info/news/32029"/>
+        <updated>2022-10-07T03:16:50.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Ethereum's New「Staking」Model Does Not Make ETH A Security.
+
+》
+原文作者：
+
+Rodrigo Seira & Amy Aixi Zhang，
+
+Paradigm ；Jake Chervinsky，
+
+Variant
+原文编译：老雅痞
+本文来自微信公众号：老雅痞
+
+
+1. 简介
+
+
+在以太坊过渡到权益证明共识机制（「合并」）之后，不同的评论家认为，以太坊的新质押模式可能导致其原始Token以太坊（ETH）被视为美国证券法下的证券。
+
+
+然而，这些论点将 Howey 测试的解释延伸到了无以复加的地步，并且没有认识到证券法的根本目的是解决信息不对称的问题，而在这种情况下，信息不对称并不存在。
+
+
+正如下文所解释的，以太坊采用权益证明的共识机制并没有使 ETH（甚至是有质押的 ETH）成为投资合同，这样的结论将证明证券法的在以太坊上的应用是无意义。
+
+
+2. 证券法入门
+
+
+美国证券法要求发行人向美国证券交易委员会登记任何证券的发售或销售，除非有豁免权。2 登记意味着强制披露，确保与投资者分享重大信息，以便作出知情决策，防止信息不对称，并避免代理问题。
+
+
+1933 年证券法列举了构成「证券」的工具类型，其中包括「投资合同」。3 根据最高法院在 Howey 案中的开创性意见，「投资合同」需要（1）资金的投资；（2）在一个共同的企业中；（3）对利润的合理预期；（4）完全来自他人的努力。
+
+
+在解释「投资合同」的裁决中，法院拒绝了对法规的字面解释，而是采用了灵活的解释，重点关注发起人和投资者之间关系的「经济现实」。5 在各种情况下，如果各方之间的基本经济关系不是投资者和发起人之间的关系，法院应用经济现实概念来限制「投资合同」的范围和证券法的适用。
+
+
+3. Howey 对以太坊权益证明的应用
+
+
+以太坊采用的质…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我们应该关注2亿枚IMX解锁事件？]]></title>
         <id>https://www.theblockbeats.info/news/32026</id>
@@ -268,100 +321,6 @@ Abacus 为「NFT 估值」给出了新的解决方案——「流动性估值」
 
 
 「抵押物插槽」决定一次可以「关闭」多少个池内 NFT。例如，一个池内有 100 个 NFT 和 50 个「抵押物插槽」，那么一次最多可「关闭」50 个 NFT。「关闭」意味着 NFT 所有者将池内的 NFT 出售给估值者，当 NFT 所有者对某个 NFT 执行「关闭」操作后，他们将立即收到估值者锁定在池内的 ETH，同时失去对 NFT 的「所有权」。因此，在执行「关闭」…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话体育娱乐公链Chiliz CEO：被忽视的粉丝Token详解]]></title>
-        <id>https://www.theblockbeats.info/news/32024</id>
-        <link href="https://www.theblockbeats.info/news/32024"/>
-        <updated>2022-10-04T08:11:07.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Best Performing Coins That Crypto Investors Don't Know About (fan tokens explained!)》
-原文作者：Alex Dreyfus&Luke Martin，STACKS
-原文编译：Kxp，BlockBeats
-
-
-Alex，很高兴你愿意接受我们的采访。最近这段时间，在整体形势下行的情况下，为什么粉丝Token、Chiliz 以及 Socios 还能得到如此多的关注，并实现不错的增长？
-
-
-
-Alex Dreyfus：虽然我们得到了很多的关注，但我还是感到些许沮丧。我们的平台之所以能获得讨论热度，主要还是因为 Chiliz 价格的激增，但这一点并不能体现我们在过去两年半所做工作的价值。
-
-
-
-你认为这是受到英超足球回归的影响吗吗？我的意思是，你认为这种情况是什么原因造成的？
-
-
-
-Alex Dreyfus：目前来看，我们有 150 万用户，并且这一数字每天都在增长。同时，我们也在加紧推出 Chiliz Chain 2.0，它更像是一种权威证明，而非专门用于体育和娱乐领域的权益证明。到今年年底或明年年初，很多我们合作的球队将成为该链的验证者，如巴萨、阿森纳、曼城等等。所以在我看来，价格的上涨只是一方面，真正重要的是我们有 270 名员工，正勤勤恳恳地发展我们的业务。
-
-
-
-我最近关注了一位加密交易员，他最近也一直在关注 Chiliz 和粉丝Token。不过就我个人而言，我虽然一直有在观察你们的项目，但一直都没有入手。在过去两个星期以来，Chiliz 的表现一直非常优秀，不过我也在想，可能除了我以外还有很多人不了解 Chiliz 和 Socios 平台，以及现在很多人都追捧的粉丝Token。所以，可以先请你简单地为我们做个介绍吗？
-
-
-
-Alex Dreyfus：现在的情况在于，99% 的体育…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第40周链上数据分析：当前避险情绪较重，市场已经进入最低迷阶段]]></title>
-        <id>https://www.theblockbeats.info/news/32023</id>
-        <link href="https://www.theblockbeats.info/news/32023"/>
-        <updated>2022-10-04T02:06:22.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《风潇雨晦，岂暇择木｜WTR 10.3》
-原文作者：WatchToweR 研究院
-
-
-
-本周回顾
-
-
-本周从 9 月 26 号到 10 月 2 号，BTC 最高附近 20360，最低接近 18500，震荡幅度达到 9.93 % 左右。
-观察近期筹码分布图，在约 19200 附近有大量筹码成交，将有一定的支撑或压力。
-
-
-•分析：
-
-
-1. 20500~21200 约 66 万枚
-2. 26770~33000 约 83 万枚
-
-
-•涨不破 26770~33000 概率为 69 %。
-
-
-
- 
-重要消息方面
-
-
- 
-经济消息方面
-
-
-•美国
-
-
-1. 上周首次申请失业救济人数降至五个月以来低位。
-2. 本周美元指数突破 114，创 2002 年以来新高。
-3. 周五商务部数据，美国 8 月 PCE 物价指数同比增长 6.3% 高于预期，核心 PCE 物价指数意外加速上行，同比增加 4.9%。
-4. 周四商务部数据显示，美国二季度 GDP 增速终值-0.6%，修正终值连续第二季度萎缩，经济陷入技术性衰退。
-5. 美银认为，纽约证交所综合指数（包括美国股票、存托凭证和房地产投资信托等）已经跌破多个关键技术支撑位，市场可能出现恐慌性抛售。
-
-
-
-•英国
-
-
-1. 本周英国央行宣布将以任何必要的规模临时购买英国长期国债，以恢复英国债券市场秩序。
-a. 周三购买 20 年期限以上长债 10.25 亿英镑，周四再买 14.15 亿英镑，并称将购买约 650 亿英镑的长期政府债券。
-2. 在上周宣布财政刺激后，英国未来 2 年赤字率升至 3-4% 左右，预计国债发行量今年增加 44%。
-3. 英国养老金基金目前受追缴保证金的压力，不得不抛售其持有的股票和债券以募集现金，甚至有优质的投资级债券遭到抛售，此举导致债券价格进一步下跌，形成恶性循环。
-a. 贝莱德周三提出对其负债驱动投资策…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
