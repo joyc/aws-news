@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32030",
+          "author": null,
+          "description": "超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑",
+          "link": "https://www.theblockbeats.info/news/32030",
+          "publishedOn": "2022-10-07T08:12:40.000Z",
+          "wordCount": null,
+          "title": "超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32029",
           "author": null,
           "description": "原文标题：《\n\nEthereum's New「Staking」Model Does Not Make ETH A Security.\n\n》\n原文作者：\n\nRodrigo Seira & Amy Aixi Zhang，\n\nParadigm ；Jake Chervinsky，\n\nVariant\n原文编译：老雅痞\n本文来自微信公众号：老雅痞\n\n\n1. 简介\n\n\n在以太坊过渡到权益证明共识机制（「合并」）之后，不同的评论家认为，以太坊的新质押模式可能导致其原始Token以太坊（ETH）被视为美国证券法下的证券。\n\n\n然而，这些论点将 Howey 测试的解释延伸到了无以复加的地步，并且没有认识到证券法的根本目的是解决信息不对称的问题，而在这种情况下，信息不对称并不存在。\n\n\n正如下文所解释的，以太坊采用权益证明的共识机制并没有使 ETH（甚至是有质押的 ETH）成为投资合同，这样的结论将证明证券法的在以太坊上的应用是无意义。\n\n\n2. 证券法入门\n\n\n美国证券法要求发行人向美国证券交易委员会登记任何证券的发售或销售，除非有豁免权。2 登记意味着强制披露，确保与投资者分享重大信息，以便作出知情决策，防止信息不对称，并避免代理问题。\n\n\n1933 年证券法列举了构成「证券」的工具类型，其中包括「投资合同」。3 根据最高法院在 Howey 案中的开创性意见，「投资合同」需要（1）资金的投资；（2）在一个共同的企业中；（3）对利润的合理预期；（4）完全来自他人的努力。\n\n\n在解释「投资合同」的裁决中，法院拒绝了对法规的字面解释，而是采用了灵活的解释，重点关注发起人和投资者之间关系的「经济现实」。5 在各种情况下，如果各方之间的基本经济关系不是投资者和发起人之间的关系，法院应用经济现实概念来限制「投资合同」的范围和证券法的适用。\n\n\n3. Howey 对以太坊权益证明的应用\n\n\n以太坊采用的质…",

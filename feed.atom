@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-07T06:16:54.042Z</updated>
+    <updated>2022-10-07T12:19:39.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑]]></title>
+        <id>https://www.theblockbeats.info/news/32030</id>
+        <link href="https://www.theblockbeats.info/news/32030"/>
+        <updated>2022-10-07T08:12:40.000Z</updated>
+        <summary type="html"><![CDATA[超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm：以太坊转为PoS并不能代表ETH可被视为证券]]></title>
         <id>https://www.theblockbeats.info/news/32029</id>
