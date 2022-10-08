@@ -2,10 +2,306 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-08T06:14:04.819Z</updated>
+    <updated>2022-10-08T12:15:54.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我们如何逃离旁氏骗局]]></title>
+        <id>https://www.theblockbeats.info/news/32039</id>
+        <link href="https://www.theblockbeats.info/news/32039"/>
+        <updated>2022-10-08T10:20:57.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《How We Escape Ponzinomic Hell》
+原文作者：Kerman Kohli
+原文编译：Leo，BlockBeats
+ 
+
+
+ 
+早在今年四月，我曾写过一篇文章叫做《我们需要逃离庞氏骗局》 我觉得这篇文章略微超前了，当时我们仍在经历看涨的高点 (Terra 还未崩盘，人们还认为 4Pool 将起飞)。现在重新阅读这篇文章，感觉像是行业内的老生常谈。有时我觉得应该在未来的 6 个月内安排此类文章，这样它们和行业现状会更具相关性。
+
+
+当时我有一些关于如何逃离旁氏骗局的想法。现在的行业变动我可以看出我们如何开始清理垃圾，为 crypto 各行业下阶段的增长腾出空间。
+
+
+ 
+现状
+
+
+crypto 行业，在 UST 崩溃和流动性全面枯竭之后，目前正在经历自我反省和收拾残局的阶段。美元正在摧毁所有人，加之市场可以完全规避风险。现金的地位从垃圾变成了王者，正如桥水基金创始人瑞·达利欧所说：「我改变了关于现金作为一种资产的看法，我不认为现金是垃圾。」
+
+
+
+
+
+工程师不再像钻石一样稀缺，风险投资像沙漠一样干涸。然而，对于还留在这场 crypto 游戏中的人来说，至关重要的只有一点:价值——也就是用户。
+
+
+为了让 crypto 发展成熟，我认为有 3 个关键问题需要解决:
+
+
+-谨慎激励/获取消费
+
+-更好地理解使用/收入及其来源
+
+-更紧密的用户获取循环
+
+
+ 
+ 
+问题
+
+
+ 
+谨慎的激励/获取消费
+
+
+DeFi 之夏开启了代币消费机制的时代，在这个时代，在一周内捐出初创公司 90% 的股权被认为是一个好路子。那时起，我们通过创建一个适当的循环，使这场游戏变得更加复杂和危险:
+
+
+-抽取高额激励
+
+-使用高激励来吸引大量的 TVL
+
+-使用高 TVL 来证明更高的代币估值价格
+
+-更高的估值价格=更多的激励
+
+-重复看涨抬价
+
+-当流动性达到顶峰时…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：BNB Chain再遇中心化质疑；Huobi九年掌舵人结束了自己的时代]]></title>
+        <id>https://www.theblockbeats.info/news/32038</id>
+        <link href="https://www.theblockbeats.info/news/32038"/>
+        <updated>2022-10-08T09:52:57.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+《超 5 亿美元被盗后公链暂停又恢复，BNB Chain 再遇中心化质疑》
+
+
+ 
+BNB Chain 官方应对黑客攻击的手段，再次将团队放在了反中心化叙事的聚光灯下。7 日早，BNB Chain 官方桥遭黑客攻击。从被盗事件发生，到暂停节点运行，再到重新恢复出块，BNB Chain 官方团队仅用了 9 个小时的时间。而 BNB Chain 官方此次针对黑客攻击的快速反应，虽及时控制住了大量被盗资金，但又再次激起了社区对 BNB Chain 中心化的质疑。
+
+
+ 
+《Huobi 九年掌舵人，在今天结束了自己的时代》
+
+
+ 
+10 月 8 日，加密交易平台 Huobi Global 宣布 Huobi Global 控股股东公司已向百域资本旗下基金转让所持有的全部 Huobi Global 股份，百域资本旗下并购基金成为 Huobi Global 的第一大股东和实控人。李林的彻底离开，也标志着 Huobi 李林时代的结束。在加密货币的历史上，这家成立 9 年的交易平台见证了比特币在中国的一切。
+
+
+
+
+《为什么我们应该关注 2 亿枚 IMX 解锁事件？》
+
+
+ 
+Token 解锁规模超越市值，Immutable 怎么了？占总供应量约 12.74% 的 IMX 将在 11 月 5 日解锁，其中 6.73% 归属于项目团队，6.01% 为私募份额。超过 2 亿枚 IMX 的巨额解锁事件引起市场讨论，对此，加密研究员 0x_Umeshu 发文表示情况并不乐观，并解释了具体原因。
+
+
+ 
+《对话体育娱乐公链 Chiliz CEO：被忽视的粉…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huobi九年掌舵人，在今天结束了自己的时代]]></title>
+        <id>https://www.theblockbeats.info/news/32036</id>
+        <link href="https://www.theblockbeats.info/news/32036"/>
+        <updated>2022-10-08T07:34:40.000Z</updated>
+        <summary type="html"><![CDATA[10 月 8 日，加密交易平台 Huobi Global 宣布 Huobi Global 控股股东公司已向百域资本旗下基金转让所持有的全部 Huobi Global 股份，百域资本旗下并购基金成为 Huobi Global 的第一大股东和实控人。
+
+目前已完成股权和业务的正式交割。官方表示本次交易仅涉及控股股东变化，并不会对现有核心管理和运营团队带来影响。
+
+
+
+
+就在加密交易平台 Huobi Global 完成股权与业务出售给香港百域资本旗下基金后，Huobi 创始人李林在社交媒体发文，表示自己不再是 Huobi Global 实控人与股东，也不再拥有任何权限。「Huobi 从我创办至今历时九年，是一段难忘的经历。」李林说。
+
+
+
+
+李林的彻底离开，也标志着 Huobi 李林时代的结束。在加密货币的历史上，这家成立 9 年的交易平台见证了比特币在中国的一切。老玩家应该还记得前几年交易平台的疯狂 list、三大的斗争，各家创始人在社交媒体上的争执。
+
+
+
+
+但随着政策出台，各大官方宣布不再为大陆地区提供服务，Web3 行业出海，矿业关机寻找新的归属地，美国完全占领 Web3 高地。据 CoinGecko，目前 Binance、Coinbase、FTX、OKEx 等平台的交易量都已经超过 Huobi。现在，就连为比特币奋斗九年的李林，也离开了。
+
+
+ 
+九年简史
+
+
+ 
+比特币真正在国内相对有了群体，是 2013 年。当年短短几个月时间，比特币价格涨幅超过 10 倍，国内外媒体都竞相报道。当时，国内主流平台是比特币中国，国外主流平台是 Mt.Gox。
+
+
+ 
+但当时比特币中国的服务并不好用，有用户尝试在比特币中国交易了一段时间后，发现一旦大行情来临时，比特币中国总是宕机。这给了当时刚刚成立不久的 Huobi 一个机会。
+
+
+ 
+
+ 
+2013 年几大交易平台突发行情界面（图源…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starknet生态值得关注的10个原生项目]]></title>
+        <id>https://www.theblockbeats.info/news/32035</id>
+        <link href="https://www.theblockbeats.info/news/32035"/>
+        <updated>2022-10-08T06:43:57.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：加密研究员
+
+Lo
+
+
+原文编译：深潮 TechFlow
+
+
+我在过去几天里研究了数百个 Starknet 的项目。接下来，我将会把我的研究结果分享给大家，以下是我在 Starknet 生态系统中发现的 10 个比较有趣的项目。
+
+
+
+1.Astraly
+
+
+
+Astraly 是 Starknet 生态系统的 Launchpad，旨在帮助经过团队仔细审查的新项目进行启动。他们为新项目的上市提供了一个创新的抽奖系统，并在售前、售中和售后三个环节全程支持项目的启动。
+
+
+
+Astraly 还在构建一个链上声誉系统，人们可以通过参与测试网等任务获得的徽章来提高他们的抽奖机会。Astraly 目前正处于测试阶段，计划在 2023 年的第一季度在 Starknet 主网上推出。
+
+
+
+2.Starknet ID
+
+
+
+Starknet ID 是一个类似于 ENS 的域名服务，在这里你可以铸造你的链上身份并设置一个.Stark 域名地址。你可以在他们合作的任何协议中使用你的 Starknet ID，并因链上和链下贡献而获得奖励。
+
+
+他们也在实施一个跨链桥解决方案，任何 ENS 或 Starknet ID 的域名持有者都可以在另一个平台上获得一个免费的域名。Starknet ID 目前在测试中，他们的主网似乎即将推出。
+
+
+
+
+
+
+3.Magnetyfi
+
+
+
+Magnetyfi 是一个资产管理协议，允许任何人创建池子并设置策略。其他人可以把他们的资金汇集到这个池子里。
+
+
+
+一旦策略经过适当的回测计算，资产经历就可以利用他们的策略，为其他人提供在池子里赚取费用的机会。这些策略包括交易和质押等投资行为。如果这一愿景得以实现，任何拥有可靠策略的人都可以在 Magnetyfi 成为资产经理。
+
+
+
+Magnetyfi 的潜在问题是安全和信任。Magnety 声称，它有保险和安全措…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【专题】Huobi Global完成股权交割，李林已不再拥有任何权限]]></title>
+        <id>https://www.theblockbeats.info/news/32034</id>
+        <link href="https://www.theblockbeats.info/news/32034"/>
+        <updated>2022-10-08T05:43:57.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 10 月 8 日，
+
+Huobi Global 宣布百域资本旗下基金成为第一大股东和实控人，Huobi 创始人李林发文告别一手创立的公司，
+
+细数九年跌宕发展，称自己已不再拥有 Huobi 任何权限。本文集合了此前 Huobi 退出中国大陆市场相关新闻，到如今被百域资本收购报道，与读者共同回望这两年里 Huobi 的曲折与坚持。
+
+
+Huobi Global 完成交割，李林不再是股东
+
+
+《Huobi 九年掌舵人，在今天结束了自己的时代》
+
+
+  尽管 Huobi 依然有这样那样的问题，但不可否认这是一位见证了行业从零到 1 再到 10 的亲历者。「在 Huobi 交易了很多年，眼看着这个圈子从没什么人交流到现在形成一个行业」，这是一位加密圈老韭菜的感叹。从网页到 APP，Huobi 的账户记录了行业 9 年的故事，同时也见证了 Huobi 的发展，从几个加密货币的简单兑换，到现在衍生品、节点、矿池等产品的全生态庞大体系。  
+
+
+
+
+
+《Huobi Global 已完成股权正式交割，港资基金成为新实控人》
+2022 年 10 月 8 日，加密交易平台 Huobi Global 宣布 Huobi Global 控股股东公司已向百域资本旗下基金转让所持有的全部 Huobi Global 股份，百域资本旗下并购基金成为 Huobi Global 的第一大股东和实控人。
+
+
+
+
+《Huobi 创始人李林：不再是 Huobi Global 实控人与股东，也不再拥有任何权限》
+在加密交易平台 Huobi Global 完成股权与业务出售给香港百域资本旗下基金后，Huobi 创始人李林在社交媒体发文，表示自己不再是 Huobi Global 实控人与股东，也不再拥有任何权限。
+
+
+
+
+《Huobi 新东家—百域资本什么来头？》
+10 月 8 日，
+
+Huobi 
+
+创始人李林在朋友圈表示，已经将旗下股权转让与香港百域资本（About Capital），至此香港百域资本成为第一大股东和是实控人。而这个百域资本到底是什么来头？这是他们首次涉猎 Crypto 领域吗？
+
+
+
+
+Huobi 退出中国大陆市场
+
+
+
+
+《Huobi Global 暂停中国大陆地区新用户注册》
+
+2021 年 9 月 25 日，Huobi Global 平台注册信息中国家/地区选项里已删除中国大陆地区选项，目前仅保留中国台湾与中国香港。
+
+
+ 
+
+《Huobi Global 宣布将逐步清退中国大陆地区存量用户》
+2021 年 9 月 26 日，Huobi 坚持合规经营原则，计划于 2021 年 12 月 31 日（UTC+8）24:00 之前，在保证用户资产安全的前提下完成有序清退。
+
+
+
+
+《Huobi 集团 COO 朱嘉伟已离职》 
+2021 年 10 月 7 日，Huobi COO 朱嘉伟离职。
+
+
+
+
+《Huobi Global 将于 12 月 15 日禁止中国大陆用户币币交易，12 月 31 日下架 OTC CNY 交易》 
+2021 年 12 月 15 日，禁止中国大陆用户币币交易，同年 12 月 31 日，下架 OTC CNY 交易。
+
+
+《CNBC 杜均专访：Huobi 因退出中国大陆市场损失 30% 收入，将重返美国市场》
+2022 年 2 月 22 日采访，杜均表示，Huobi 因退出中国大陆市场，损失了约 30% 的收入，表示接下来将进军美国市场。
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年Q3以太坊生态报告：Optimism和Arbitrum迎来L2盛夏]]></title>
         <id>https://www.theblockbeats.info/news/32032</id>
