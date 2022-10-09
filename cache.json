@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32069",
+          "author": null,
+          "description": "Play-to-Earn 大家应该都很熟悉了，通过参与游戏获得游戏经济体内 Token，玩家可通过出售 Token 从而获利。大多 Play-to-Earn 游戏有一定准入门槛，且采用双Token模式。玩家在购买所需道具后，可在游戏过程中获得可消耗使用的 Token，而并非协议所有权。有些深度玩家可能会将游戏中得来的代币换仓为治理Token，但大多玩家抱着赚钱的心态去参与游戏当中，成为「挖卖提」玩家。最终，当买盘无力支撑时，整个经济体瞬间崩塌，连带治理Token价格一落千丈。这一模式虽不长久，却为 Web3.0 协议所有权的分配模型开了个好头。\n\n\n\n\n协议所有权不光意味着有权参与到协议逻辑的治理中，还应捕获协议所产生的经济价值。除了负责搭建协议的团队以及冒着风险进行注资的投资人外，协议的长期价值是由协议参与者创造的，所以协议应根据参与者对于协议价值的贡献（Proof of Contribution）分配所有权。\n\n\n\n\n不同类型的应用对于价值贡献的衡量标准各不相同，大多数链上协议会将协议所有权奖励给对于协议价值贡献最大的行为（例如 AMM 会将治理Token给予流动性提供者）。但对于逻辑复杂的应用来说，可为协议增添价值的维度多种多样，且价值并不统一，所以我们应将所有对于协议价值有增益的行为记录在链上，并对于这些行为进行某种奖励。\n\n\n\n\nX-to-Own，通过为协议作出有价值贡献从而拥有协议。当参与者使用应用时，所有产生价值的行为被记录下并获得协议所有权作为奖励，且所有权可直接捕获协议所产生的经济价值，那么或许大多数持币参与者会选择将所有权作为营运资产赚取红利，而不是直接卖出。所以在代币经济机制设计中，不光需要考虑到贡献价值衡量维度，还需着重关注协议的价值捕获能力。\n\n\n\n\n本文出自 DeFinance Capital 创始人 Arthur，从游戏商业模式的发展史讲起，单…",
+          "link": "https://www.theblockbeats.info/news/32069",
+          "publishedOn": "2022-10-09T09:29:54.000Z",
+          "wordCount": null,
+          "title": "Play-to-Own: 从游戏看Web3应用的所有权分配",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32057",
+          "author": null,
+          "description": "原文标题：《来看 Binance Labs 最近投了什么？》\n原文作者： Kimming \n本文来自微信公众号：老雅痞\n\n\n\n\n\n\nBNB Chain 是日活跃用户最多的智能合约区块链之一（嗯，没错，虽然它出事了），最近，币安宣布了第五批 27 家从其 Web3 加速器项目 MVB(Most Valuable Builder) 中脱颖而出的创业公司。7 个优秀项目还将获得 Binance Labs 的投资，Binance Labs 与 BSC 将共同领导这个计划。从这个项目中诞生的创业公司遍及 DeFi、音乐和 NFTs、游戏和 Metaverse、基础设施和工具、安全等领域。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeFi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n一、Antimatter DAO\n\n\n\n\nAntimatter 于 2021 年初成立时，主要目标是建立创新模型，以彻底改变去中心化金融中的衍生品。受到 Uniswap 的启发，Antimatter 一直在与不同学术背景的人积极合作，建立 Antimatter 的第一个原创永续期权模型。成员包括来自美国、英国和中国的数学、经济学和金融学博士和教授。如果没有这个跨学科和国际化的团队，Antimatter 就不会诞生。在这个背景下，DAO 组织就成立了：\n\n\n\n\n\n\n\n\n\n学术界有兴趣探索新的衍生模型；DeFi 的发展需要新的创新，而不仅仅是复制其他协议；DeFi 新模式需要传统金融的知识基础；目前没有交流和讨论新模型的环境。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n简而言之，Antimatter DAO 是一个学术界和爱好者们可以一起交流意见和实验的地方，只有一个统一的目标：推动 DeFi 衍生品的发展。\n\n\n\n\n\n\n\n\n\n\n二、Tender.fi…",
+          "link": "https://www.theblockbeats.info/news/32057",
+          "publishedOn": "2022-10-09T08:29:54.000Z",
+          "wordCount": null,
+          "title": "BNB Chain第五批Web3加速器计划入围的27个项目都有何特点？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32058",
+          "author": null,
+          "description": "撰文：Cookie，BlockBeats\n\n\n自「XEN」在以太坊上「出生」仅过去 15 个小时。在这 15 小时内，它曾让以太坊的 Gas 飙升到 100 Gwei 上方，超过 178000 个地址参与了「XEN」的铸造，超过 1150 个 ETH 在「XEN」铸造中被燃烧。\n\n\n\n\n\n\n\n「XEN」究竟是什么？律动 BlockBeats 带您一探究竟。\n\n\n什么是「XEN」？\n\n\n\n\n\n「XEN」想实现与比特币差不多的功能——成为「通用加密货币」。「第二个比特币」已经是老生常谈，「XEN」给出的理由又是什么呢？\n\n\n \n第一个理由是「摆脱中心化实体」。「XEN」创始人 Jack Levin 自称是早期的 Google 工程师与比特币 OG（注：实际身份存疑）。Jack Levin 对 Crypto 用户与区块链世界间的中心化实体很是不满，如 Luna、Voyager 以及各种 CEX，认为这些中心化实体就像「加州旅馆」——用户信任这些中心化实体，放弃了自己的私钥而入金，但这些钱都被拿着不受监管地乱搞，最后无法取回。他希望回归点对点价值交换的「区块链初心」。\n\n\n \n\n\n\n第二个理由是「降低准入门槛」。Jack Levin 对比特币筹码的高度集中以及「挖矿」的高门槛也感到不满意。因此，对「XEN」来说，每个人都可以轻松地进行「挖矿」，时间是每个人的「矿机」，成本是「Gas 费」。\n\n\n如何获取「XEN」？\n\n\n\n\n\n\n\n\n在「XEN」官网进行铸造等于参与「挖矿」。决定每个地址「XEN」份额的计算公式为：AMP * t * log2(dR) * (1 + EAA (cRu) )\n\n\n\n\n\n\n\n\n\nAMP\n\n\n \n该系数初始值为 3000，每日下降 1，降低到 1 时保持不变。\n\n\n \nEEA\n\n\n \n为奖励早期参与者而设置的系数。初始值为 10%，cRank 每上升 100,000，线性下降 0.1%。\n\n\n \ncRank\n\n\n \n在「XEN」的官网进行铸造，将得到一个 cRank（Crypto Rank）。cRank 表明该地址是第几位进行「XEN」铸造的，例如 cRank 为 5000 就可以理解为是「XEN」第 5000 名矿工，在此前已有 4999 名矿工。\n\n\n \n公式中的「dR」指 cRank 总值与自身拥有的 cRank 的差值。也就是说，自身拥有的 cRank 值越小，意味着铸造得越早，能够获取的「XEN」份额越大。越靠后的铸造者，只能通过越长的「锁定期」来获取更大的份额。\n\n\n \n锁定期\n\n\n \n\n\n\n对应公式中「t」。「锁定期」越长，能够获取的「XEN」份额越大。铸造「XEN」时，将提示需要设置「锁定期」（mintTerm），目前可以设置的最短「锁定期」为 1 天，最长为 360 天。随着用户数量的增多，最长「锁定期」将根据公式上调，直至上限 550 天。\n\n\n「奖励」与「惩罚」\n\n\n \n「奖励」\n\n\n \n「XEN」可以进行质押，APY 每 90 天降低 1 个百分点，初始 APY 为 20%，当下降到 2% 时维持不变。\n\n\n \n质押期可以在 1-1000 天的范围内进行选定，一旦选定，APY 保持不变。用户可以在任意时间取消质押并取回所有质押份额，但在质押期结束前解除质押不会得到质押奖励。也就是说，越早进行质押，选定的质押期越长，能够在更长的时间内享受更高的 APY。\n\n\n \n「惩罚」\n\n\n \n\n\n\n在「锁定期」结束后应尽快领取「XEN」，否则将份额将被削减：\n\n\n\n\n\n\n\n\n\n\n\n越迟认领「XEN」，损失将越大。7 天后的罚款比例目前已修改为 99%\n\n\n结语\n\n\n\n从白皮书的表述看，「XEN」将自己定位为一场回归「区块链初心」并「降低准入门槛」的新实验。你的时间，就是你的矿机，在 DEX 上流动的「XEN」，如同交易着你我的时间。\n\n\n \n\n\n\n这场实验会成功吗？时间将解锁「XEN」，也会给我们答案。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32058",
+          "publishedOn": "2022-10-09T08:29:54.000Z",
+          "wordCount": null,
+          "title": "9小时燃烧超1150个ETH，XEN是新的模式币吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32056",
+          "author": null,
+          "description": "原文作者：Kong，慢雾安全团队\n原文来源：慢雾科技公众号\n\n\n\n\n\n\n据慢雾区情报，2022 年 10 月 7 日，BNB Chian 跨链桥 BSC Token Hub 遭遇攻击。黑客利用跨链桥漏洞分两次共获取 200 万枚 BNB，超 5.7 亿美元。慢雾安全团队分析后以简析的形式分享给大家。（注：BSC Token Hub 是 BNB 信标链（BEP2）和 BNB 链（BEP20 或 BSC）之间的跨链桥）\n\n\n\n\n\n简要分析\n\n\n\n\n1. 在 BNB Chain 与 BSC 跨链的过程中，会由 BSC 上部署的跨链合约调用预编译的 0x65 合约对提交的 appHash、key、vaule、proof 进行 IVAL 树验证。IAVL 树是 AVL 树的变种即是一种为键值提供可验证根的 AVL 树的实现。\n\n\n\n\n\n2. 验证主要由 IAVLValueOp 与 MultiStoreProofOp 两个 op 进行，IAVLValueOp 会先通过 ComputeRootHash 计算 roothash 并进行验证。验证通过后会将输出的 roothash 给到 MultiStoreProofOp，MultiStoreProofOp 将检查获得的 roothash 是否与 lightClient 获得的一致。\n\n\n\n\n\n\n\n\n\n\n\n3. ComputeRootHash 将通过 leaf hash 与 rest path(innernode) 进行递归 hash 并检查是否与 last path node 的 right 一致。\n\n\n\n\n\n\n\n\n4. 而在具体的 leafnode 与 innernode 的哈希计算中我们可以看到当 left 为空时将计算 leaf 与 right 的 hash，当 right 为空时将计算 leaf 与 left 的 hash。但当 left 与 right 都存在的情况下，那么将忽略 right，计算 leaf 与 left 的 hash，即 roothash 将不会受 right 影响。\n\n\n\n\n\n\n\n\n5. 因此我们可以知道在 path 中，当 left 与 right 都存在的情况下将忽略 right，返回 leaf 与 left 的 hash，在递归哈希检查中则会检查此 hash 与 last path node 的 right 是否一致。这就出现了在递归检查中检查了 right，而在 roothash 计算中却又忽略了 right 的情况。导致攻击者可以在 path 中加入一个 leaf 与 innernode 的 hash 作为 last path node 的 right 并添加一个空的 innernode 确保可验证。使得在保持 roothash 不受影响的情况下插入了恶意的数据以窃取资金。\n\n\n\n\n\n\nMistTrack 分析\n\n\n\n\n\n\n据慢雾 MistTrack 反洗钱追踪系统分析，这次黑客攻击的初始资金来自 ChangeNOW。\n\n\n\n\n\n\n\n\n\n本次攻击事件的黑客地址曾与多个 DApp 交互，包括 Multichain、Venus Protocol、Alpaca Finance、Stargate、Curve、Uniswap、Trader Joe、PancakeSwap、SushiSwap 等。此外，黑客转移至以太坊上的 480 万 USDT 已被 Tether 列入黑名单，AVAX 上的 170 万 USDT 已被列入黑名单，Arbitrum 上的 200 万枚 USDT 已被列入黑名单。而由于 BNB Chain 的及时暂停，黑客在 BSC 上的超 4.1 亿美元已无法转移。10 月 8 日，黑客地址转移约 33,771 枚 ETH 至 0xFA0a3 开头的新地址，约合 4,500 万美元。\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32056",
+          "publishedOn": "2022-10-09T06:29:54.000Z",
+          "wordCount": null,
+          "title": "慢雾：BNB CrossChain Bridge被黑简析",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32055",
           "author": null,
           "description": "原文标题：《Arthur Hayes 博文：央行重启印钞之后》\n原文作者：Arthur Hayes\n原文编译：吴说区块链\n\n\n人类现在正在两线作战。抗疫战争，以及美欧与中俄之间的大战。当前财政和货币政策的出发点就是试图减轻这两个冲突的经济影响。\n\n\n考虑到所有的政客——无论是否当选——都专注于短视的政策，他们通常默认通过印钞来解决几乎所有的问题。很少有问题是印钞无法解决的，这通常使印钞成为最简单、最快捷的解决方案；它可以立即完成，无需太多讨论或深思熟虑。另一种选择——我们全球经济的长期重组——将给某些利益相关者带来巨大的痛苦，并且需要就我们文明的真实状况进行诚实的对话。这两个要求对我们短视的政治朋友来说都是行不通的，所以无论你的政府是是什么主义，他们都不可避免地转向「印钱主义」来掩盖任何和所有问题。\n\n\n众所周知，当你用免费的钱刺激需求时，价格就会上涨，这叫通货膨胀。世界上每个国家都在经历某种商品、食品和/或能源的通货膨胀。当后两个通货膨胀子集迅速增加时，曾经温顺的平民会醒来并要求采取行动。为了喂饱哭闹的孩子，你愿意做什么？\n\n\n世界主要中央银行——美联储（Fed）、中国人民银行（PBOC）、日本银行（BOJ）、欧洲中央银行（ECB）和英格兰银行（BOE）——都提供了援助。他们都担心随之而来的通货膨胀，并从那时起承诺（有时还会采取行动）消除法定流动性并收紧货币。\n\n\n受创最严重的市场是主权债务市场，债券市场的崩盘几乎是有记录以来人类金融史上最严重的一次。\n\n\n与此同时，未宣布的第三次世界大战正在加剧，最近对关键天然气管道的袭击成为头条新闻。这种情况正在给全球经济带来压力，撤出信贷的金融影响是显而易见的。主要央行已经开始背弃其对抗通胀的承诺，而下一场疫情——收益率曲线 (YCC) 病毒——正在迅速蔓延。在足够长的时间范围内，所有中央银行都会屈服。\n\n\nBOE——最近恢复到量化…",
