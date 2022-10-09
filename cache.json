@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32070",
+          "author": null,
+          "description": "原文标题：《\n\nSolidity 极简入门: 29. 函数选择器 Selector\n\n》 \n原文作者：0xAA \n\n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\nselector\n\n\n当我们调用智能合约的函数时，发送的字节码的前 4 个字节是 selector（函数选择器）。这一讲，我们将介绍 selector 是什么，以及如何使用。\n\n\nmsg.data\n\n\nmsg.data 是 solidity 中的一个全局变量，值为完整的 calldata（调用函数的字节码）。\n\n\n在下面的代码中，我们可以通过 Log 事件来输出调用 mint 函数的 calldata：\n\n\n\n\n\n当参数为 0x2c44b726ADF1963cA47Af88B284C06f30380fC78 时，输出的 calldata 为  \n\n\n\n\n\n这段很乱的字节码可以分成两部分：  \n\n\n\n\n\n其实 calldata 就是告诉智能合约，我要调用哪个函数，以及参数是什么。\n\n\n函数签名和 selector\n\n\nselector 定义为函数签名的哈希的前 4 个字节，那么函数签名是什么？\n\n\n其实在第 21 讲中，我们简单介绍了函数签名，为\"函数名（逗号分隔的参数类型)\"。举个例子，上面代码中 mint 的函数签名为\"mint(address)\"。在智能合约中，不同的函数有不同的函数签名，因此我们可以通过函数签名来确定要调用哪个函数。\n\n\n注意，在函数签名中，uint 和 int 要写为 uint256 和 int256。\n\n\n我们写一个函数，来验证 mint 函数的 selector 是否为 0x6a627842。大家可以运行下面的函数，看看结果。\n\n\n\n\n\n使用 selector\n\n\n我们可以利用 selector 来调用目标函数。例如我想调用 mint 函数，我只需要利用 abi.encodeWithSelector 将 mint 函数的 selector 和参数打包编码，传给 call 函数：\n\n\n\n\n\n在日志中，我们可以看到 mint 函数被成功调用，并输出 Log 事件。\n\n\n总结\n\n\n这一讲，我们介绍了什么是函数选择器（selector），它和 msg.data、函数签名的关系，以及如何使用它调用目标函数。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32070",
+          "publishedOn": "2022-10-09T14:43:58.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第二十九讲：函数选择器Selector",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32069",
           "author": null,
           "description": "Play-to-Earn 大家应该都很熟悉了，通过参与游戏获得游戏经济体内 Token，玩家可通过出售 Token 从而获利。大多 Play-to-Earn 游戏有一定准入门槛，且采用双Token模式。玩家在购买所需道具后，可在游戏过程中获得可消耗使用的 Token，而并非协议所有权。有些深度玩家可能会将游戏中得来的代币换仓为治理Token，但大多玩家抱着赚钱的心态去参与游戏当中，成为「挖卖提」玩家。最终，当买盘无力支撑时，整个经济体瞬间崩塌，连带治理Token价格一落千丈。这一模式虽不长久，却为 Web3.0 协议所有权的分配模型开了个好头。\n\n\n\n\n协议所有权不光意味着有权参与到协议逻辑的治理中，还应捕获协议所产生的经济价值。除了负责搭建协议的团队以及冒着风险进行注资的投资人外，协议的长期价值是由协议参与者创造的，所以协议应根据参与者对于协议价值的贡献（Proof of Contribution）分配所有权。\n\n\n\n\n不同类型的应用对于价值贡献的衡量标准各不相同，大多数链上协议会将协议所有权奖励给对于协议价值贡献最大的行为（例如 AMM 会将治理Token给予流动性提供者）。但对于逻辑复杂的应用来说，可为协议增添价值的维度多种多样，且价值并不统一，所以我们应将所有对于协议价值有增益的行为记录在链上，并对于这些行为进行某种奖励。\n\n\n\n\nX-to-Own，通过为协议作出有价值贡献从而拥有协议。当参与者使用应用时，所有产生价值的行为被记录下并获得协议所有权作为奖励，且所有权可直接捕获协议所产生的经济价值，那么或许大多数持币参与者会选择将所有权作为营运资产赚取红利，而不是直接卖出。所以在代币经济机制设计中，不光需要考虑到贡献价值衡量维度，还需着重关注协议的价值捕获能力。\n\n\n\n\n本文出自 DeFinance Capital 创始人 Arthur，从游戏商业模式的发展史讲起，单…",
@@ -173,16 +183,6 @@
           "publishedOn": "2022-10-07T08:12:40.000Z",
           "wordCount": null,
           "title": "超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32029",
-          "author": null,
-          "description": "原文标题：《\n\nEthereum's New「Staking」Model Does Not Make ETH A Security.\n\n》\n原文作者：\n\nRodrigo Seira & Amy Aixi Zhang，\n\nParadigm ；Jake Chervinsky，\n\nVariant\n原文编译：老雅痞\n本文来自微信公众号：老雅痞\n\n\n1. 简介\n\n\n在以太坊过渡到权益证明共识机制（「合并」）之后，不同的评论家认为，以太坊的新质押模式可能导致其原始Token以太坊（ETH）被视为美国证券法下的证券。\n\n\n然而，这些论点将 Howey 测试的解释延伸到了无以复加的地步，并且没有认识到证券法的根本目的是解决信息不对称的问题，而在这种情况下，信息不对称并不存在。\n\n\n正如下文所解释的，以太坊采用权益证明的共识机制并没有使 ETH（甚至是有质押的 ETH）成为投资合同，这样的结论将证明证券法的在以太坊上的应用是无意义。\n\n\n2. 证券法入门\n\n\n美国证券法要求发行人向美国证券交易委员会登记任何证券的发售或销售，除非有豁免权。2 登记意味着强制披露，确保与投资者分享重大信息，以便作出知情决策，防止信息不对称，并避免代理问题。\n\n\n1933 年证券法列举了构成「证券」的工具类型，其中包括「投资合同」。3 根据最高法院在 Howey 案中的开创性意见，「投资合同」需要（1）资金的投资；（2）在一个共同的企业中；（3）对利润的合理预期；（4）完全来自他人的努力。\n\n\n在解释「投资合同」的裁决中，法院拒绝了对法规的字面解释，而是采用了灵活的解释，重点关注发起人和投资者之间关系的「经济现实」。5 在各种情况下，如果各方之间的基本经济关系不是投资者和发起人之间的关系，法院应用经济现实概念来限制「投资合同」的范围和证券法的适用。\n\n\n3. Howey 对以太坊权益证明的应用\n\n\n以太坊采用的质…",
-          "link": "https://www.theblockbeats.info/news/32029",
-          "publishedOn": "2022-10-07T03:16:50.000Z",
-          "wordCount": null,
-          "title": "Paradigm：以太坊转为PoS并不能代表ETH可被视为证券",
           "imageUrl": null
         }
       ]
