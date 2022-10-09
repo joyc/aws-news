@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-09T00:52:16.767Z</updated>
+    <updated>2022-10-09T06:15:37.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BitMEX创始人：「印钱主义」背后的全球经济压力]]></title>
+        <id>https://www.theblockbeats.info/news/32055</id>
+        <link href="https://www.theblockbeats.info/news/32055"/>
+        <updated>2022-10-09T04:18:54.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Arthur Hayes 博文：央行重启印钞之后》
+原文作者：Arthur Hayes
+原文编译：吴说区块链
+
+
+人类现在正在两线作战。抗疫战争，以及美欧与中俄之间的大战。当前财政和货币政策的出发点就是试图减轻这两个冲突的经济影响。
+
+
+考虑到所有的政客——无论是否当选——都专注于短视的政策，他们通常默认通过印钞来解决几乎所有的问题。很少有问题是印钞无法解决的，这通常使印钞成为最简单、最快捷的解决方案；它可以立即完成，无需太多讨论或深思熟虑。另一种选择——我们全球经济的长期重组——将给某些利益相关者带来巨大的痛苦，并且需要就我们文明的真实状况进行诚实的对话。这两个要求对我们短视的政治朋友来说都是行不通的，所以无论你的政府是是什么主义，他们都不可避免地转向「印钱主义」来掩盖任何和所有问题。
+
+
+众所周知，当你用免费的钱刺激需求时，价格就会上涨，这叫通货膨胀。世界上每个国家都在经历某种商品、食品和/或能源的通货膨胀。当后两个通货膨胀子集迅速增加时，曾经温顺的平民会醒来并要求采取行动。为了喂饱哭闹的孩子，你愿意做什么？
+
+
+世界主要中央银行——美联储（Fed）、中国人民银行（PBOC）、日本银行（BOJ）、欧洲中央银行（ECB）和英格兰银行（BOE）——都提供了援助。他们都担心随之而来的通货膨胀，并从那时起承诺（有时还会采取行动）消除法定流动性并收紧货币。
+
+
+受创最严重的市场是主权债务市场，债券市场的崩盘几乎是有记录以来人类金融史上最严重的一次。
+
+
+与此同时，未宣布的第三次世界大战正在加剧，最近对关键天然气管道的袭击成为头条新闻。这种情况正在给全球经济带来压力，撤出信贷的金融影响是显而易见的。主要央行已经开始背弃其对抗通胀的承诺，而下一场疫情——收益率曲线 (YCC) 病毒——正在迅速蔓延。在足够长的时间范围内，所有中央银行都会屈服。
+
+
+BOE——最近恢复到量化…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应用链的兴起将带来哪些风险和机遇？]]></title>
+        <id>https://www.theblockbeats.info/news/32054</id>
+        <link href="https://www.theblockbeats.info/news/32054"/>
+        <updated>2022-10-09T02:18:54.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《应用链的兴起将带来哪些风险和机遇？未来将会如何发展？
+
+》
+原文作者：Dmitriy Berenzon，1kx 分析师
+原文编译：白泽研究院
+
+
+
+
+虽然区块链的最初应用围绕货币和金融，但在过去几年中，艺术、游戏和音乐等领域的应用激增。与此同时，这些应用程序中的聚合用户数量一直呈线性增长，给底层基础设施带来压力并降低用户体验。此外，随着这些应用程序的扩展，它们越来越需要更多的可定制性和更强大的业务模型。
+ 
+解决这些问题的一种新兴业务模式是构建特定于应用程序的区块链，称为「AppChains」（应用链）。构建 AppChains 的应用程序可以自定义其堆栈的多个层，例如其安全模型、手续费用和写入权限等。
+ 
+AppChains 不是一个新概念；比特币可以被认为是用于数字黄金的特定应用区块链，而 Arweave 则可以用于永久存储。也就是说，AppChain 的设计不仅包含单片区块链（例如 Osmosis），还包含处理应用程序状态转换的模块化执行层（例如 rollups、sidechains、plasma），但依赖于单独的结算层或共识层来实现最终性。
+ 
+事实上，「层」（如 L2，L3 等）在大多数情况下，只是信任最小化的区块链，具有双向最小化信任的跨链桥。
+ 
+
+ 
+在本文中，我将：
+
+
+概述 AppChains 的历史解释 AppChains 的优缺点描述未来 AppChain 市场结构概述 AppChain 如何设计比较当前已有的不同 AppChain 解决方案
+ 
+AppChains 的前世今生
+ 
+AppChain 花了很多年才出现。虽然 Cosmos 和 Polkadot 早在 2016 年就提出并推广了这一概念，但他们直到 2021 年初才完全启动他们的网络（分别具有 IBC 和平行链功能）。与此同时，在可扩展性方面，由于以太坊上用户的需求不断增加，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当Web3轻轻掠过房地产]]></title>
         <id>https://www.theblockbeats.info/news/32053</id>
