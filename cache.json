@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32080",
+          "author": null,
+          "description": "原文标题：《\n\nDeFi 策略发明家——opyn\n\n》\n原文作者：Yuky，W3.Hitchhiker\n\n\n\n 一、项目简介\n \n简介：\n\n\nOpyn 是一个基于以太坊的去中心化期权协议平台，用户可以通过期权交易或者提供流动性来获得收益。Opyn 允许用户在 ERC20 上买入、卖出和创建期权，它是无须托管的期权协议，也是无须许可的保险协议。\n\n\nOpyn 经历了 V1 版本和 V2 的迭代，目前这两个版本基本均宣告失败。现在，Opyn 团队将重心转向了一个新的方向 Squeeth 。\n\n\nSqueeth 是团队推出的一种 DeFi 永续继承的衍生产品，它是追踪乘方的永续继承投资工具。产品基于著名的研究机构 Parath 于 21 月 8 日提出的「永续」契约概念进行制造。\n\n\n融资：\n\n\n2020 年 216 万刀，领投方：Dragonfly\n2021 年 670 万刀，领投方：Paradigm A 轮\n\n\n人员：\n\n\n\n\n\n \n\n\n\n\n\n\n \n\n\n二、策略\n\n\n \n\n\n2.1 Long only\n\n\nETH 买入 opyn 平台上的Token oSQTH，标的物为 ETH ^2（是一个指数，gamma > 0，delta > 0）\n开仓：ETH- oSQTH\n平仓： oSQTH - ETH（uni 或者 opyn 平台）\n头寸：Long oSQTH\n\n\n\n\n\n \n\n\nSqueeth price = 10,000(_oSQTH price in USD)/(normalization factor)\n\n\n收益率：Long squeeth return 2r + (r)² - funding\n\n\n举例计算：\n\n\n\n\n\n （从谷歌电子表格链接读取数据）\n\n\n需要注意的是，funding 费率是每天支付的（由多方支付给空方），比例等于平台上的 funding，形式为 in-ki…",
+          "link": "https://www.theblockbeats.info/news/32080",
+          "publishedOn": "2022-10-10T12:32:20.000Z",
+          "wordCount": null,
+          "title": "深度解析Opyn：DeFi策略发明家",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32078",
           "author": null,
           "description": "原文作者：Twitter @liamherbst\n原文编译：Leo，Blockbeats\n\n\n\n\n本文筛选并编译了由 @liamherbst 整理的资深 NFT 玩家 Punk6529 对 NFT 的一些见解。\n\n\n\n\n\n\n1. 不要让机构偷走你的 jpg，与 FT 不同，NFT holders 可以拒绝出售。机构拥有更多资金，如果我们卖给他们，他们最终会得到更多的 NFT，且卖出 NFT 会损害去中心化，削弱了 NFT 文化。(ps，这条是针对 NFT 巨鲸) \n\n\n\n\n2. 神话使人类能够协调并规模化地生长。例如，NIKE 是一个存在于我们意识中的神话，而不是现实 (它的产品，人员，logo 等都在变化，但我们仍然相信「NIKE」)。而 NFT 是有史以来最快和可塑性最强的神话传输层。\n\n\n3. 互联网和机器语言可能导致像交易审查类的监管形式大规模集中。DeFi 可能会受到 KYC 和证券法等法律的约束。但 NFT 可能是最强大的抵制审查的应用形式，因为法律不能禁止每种朋克或涂鸦。\n\n\n\n\n4.NFT 是一种表达形式，受第一修正案的有力保护。税收将适用于 NFT 交易。一些不追求有任何盈利的项目也有可能被认为是一种证券。\n\n\n\n\n5. 元宇宙是 VR、AR 和互联网的超集，将在十年内实现。你可以是元宇宙里的一个部分的所有者，也可以是互联网的用户，就像 BTC 一样灵活运用。我们必须让企业想要加入一个开放的系统，而不是建立一个封闭的系统。\n\n\n\n\n6.「郁金香泡沫」是对抗加密的强大模因。将 crypto 称为「郁金香」意味着它没有实质内容，注定会崩溃——就像 17 世纪 30 年代的郁金香价格一样。\n\n\n\n\n7. 购买你的第一个 NFT 时要注意：不要 FOMO ；假设它值 0 美元；你不需要买任何东西\n步骤:低价购买且了解它的更多背景和运作；如果你想，可以购买一个硬件钱…",
@@ -183,26 +193,6 @@
           "publishedOn": "2022-10-08T06:43:57.000Z",
           "wordCount": null,
           "title": "Starknet生态值得关注的10个原生项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32034",
-          "author": null,
-          "description": "2022 年 10 月 8 日，\n\nHuobi Global 宣布百域资本旗下基金成为第一大股东和实控人，Huobi 创始人李林发文告别一手创立的公司，\n\n细数九年跌宕发展，称自己已不再拥有 Huobi 任何权限。本文集合了此前 Huobi 退出中国大陆市场相关新闻，到如今被百域资本收购报道，与读者共同回望这两年里 Huobi 的曲折与坚持。\n\n\nHuobi Global 完成交割，李林不再是股东\n\n\n《Huobi 九年掌舵人，在今天结束了自己的时代》\n\n\n  尽管 Huobi 依然有这样那样的问题，但不可否认这是一位见证了行业从零到 1 再到 10 的亲历者。「在 Huobi 交易了很多年，眼看着这个圈子从没什么人交流到现在形成一个行业」，这是一位加密圈老韭菜的感叹。从网页到 APP，Huobi 的账户记录了行业 9 年的故事，同时也见证了 Huobi 的发展，从几个加密货币的简单兑换，到现在衍生品、节点、矿池等产品的全生态庞大体系。  \n\n\n\n\n\n《Huobi Global 已完成股权正式交割，港资基金成为新实控人》\n2022 年 10 月 8 日，加密交易平台 Huobi Global 宣布 Huobi Global 控股股东公司已向百域资本旗下基金转让所持有的全部 Huobi Global 股份，百域资本旗下并购基金成为 Huobi Global 的第一大股东和实控人。\n\n\n\n\n《Huobi 创始人李林：不再是 Huobi Global 实控人与股东，也不再拥有任何权限》\n在加密交易平台 Huobi Global 完成股权与业务出售给香港百域资本旗下基金后，Huobi 创始人李林在社交媒体发文，表示自己不再是 Huobi Global 实控人与股东，也不再拥有任何权限。\n\n\n\n\n《Huobi 新东家—百域资本什么来头？》\n10 月 8 日，\n\nHuobi \n\n创始人李林在朋友圈表示，已经将旗下股权转让与香港百域资本（About Capital），至此香港百域资本成为第一大股东和是实控人。而这个百域资本到底是什么来头？这是他们首次涉猎 Crypto 领域吗？\n\n\n\n\nHuobi 退出中国大陆市场\n\n\n\n\n《Huobi Global 暂停中国大陆地区新用户注册》\n\n2021 年 9 月 25 日，Huobi Global 平台注册信息中国家/地区选项里已删除中国大陆地区选项，目前仅保留中国台湾与中国香港。\n\n\n \n\n《Huobi Global 宣布将逐步清退中国大陆地区存量用户》\n2021 年 9 月 26 日，Huobi 坚持合规经营原则，计划于 2021 年 12 月 31 日（UTC+8）24:00 之前，在保证用户资产安全的前提下完成有序清退。\n\n\n\n\n《Huobi 集团 COO 朱嘉伟已离职》 \n2021 年 10 月 7 日，Huobi COO 朱嘉伟离职。\n\n\n\n\n《Huobi Global 将于 12 月 15 日禁止中国大陆用户币币交易，12 月 31 日下架 OTC CNY 交易》 \n2021 年 12 月 15 日，禁止中国大陆用户币币交易，同年 12 月 31 日，下架 OTC CNY 交易。\n\n\n《CNBC 杜均专访：Huobi 因退出中国大陆市场损失 30% 收入，将重返美国市场》\n2022 年 2 月 22 日采访，杜均表示，Huobi 因退出中国大陆市场，损失了约 30% 的收入，表示接下来将进军美国市场。\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32034",
-          "publishedOn": "2022-10-08T05:43:57.000Z",
-          "wordCount": null,
-          "title": "【专题】Huobi Global完成股权交割，李林已不再拥有任何权限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32032",
-          "author": null,
-          "description": "原文标题：《以太坊第三季度生态报告：一览以太坊上协议、DeFi、NFT 和 L2 的重要指标》\n原文作者：\n\nBen Giove ，Bankless 分析师 \n原文编译：DeFi 之道\n\n\n以太坊是一个世界领先的智能合约网络，同时它也是一个公共产品。\n\n\n由于没有人正式负责创建生态报告，Bankless 尝试发布了一项第三季度的以太坊生态报告，其中涵盖了其协议和 L2 层以及 DeFi 和 NFT 生态系统的重要基线指标。\n\n\n在过去的 3 个月中，网络使用情况如何？有多少人还在购买 NFT？Layer 2 是否成功扩展了以太坊？\n\n\n你可以在本文提供的一份易于理解的报告中找到上述所有问题的答案。\n\n\n\n\n以太坊生态报告——2022 年第三季度\n\n\n\n\n\n\n\n图文：Logan Craig\n\n\n这篇文章最初的灵感来自 James Wang 的「以太坊公布 2021 年第一季度业绩」。\n\n\n该报告着眼于 2022 年第三季度以太坊协议和生态系统的主要指标，将其分为四个类别：协议、DeFi、NFT 和第 2 层（Layer 2）。然后，本文将继续讨论以太坊生态系统的亮点和前景。\n\n\n关键结果\n\n\n这些数字比较了以太坊 2021 年第三季度和 2022 年第三季度的表现。\n\n\n\n\n 协议\n\n\n\n\n数据：网络收入下降 86.0%，从 19.6 亿美元至 2.7412 亿美元。\n\n\n\n\n\n以太坊网络收入，来源：Token Terminal\n\n\n该数据衡量的是用户在一个季度内支付的总交易费用的美元价值。\n\n\n净收入的下降可归因于市场普遍疲软导致链上活动下降。在本季度低迷的宏观背景下，交易投机和增加杠杆的需求显著减少。\n\n\n其中，2.0015 亿美元（73%）是通过 EIP-1559 中引入的费用燃烧机制所烧毁的。\n\n\n数据：ETH 通货膨胀率从 0.79% 上升至 0.85%，增长了 7…",
-          "link": "https://www.theblockbeats.info/news/32032",
-          "publishedOn": "2022-10-08T03:40:49.000Z",
-          "wordCount": null,
-          "title": "2022年Q3以太坊生态报告：Optimism和Arbitrum迎来L2盛夏",
           "imageUrl": null
         }
       ]
