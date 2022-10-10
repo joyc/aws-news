@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-09T18:11:07.642Z</updated>
+    <updated>2022-10-10T00:58:25.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1083,72 +1083,6 @@ Ben Giove ，Bankless 分析师 
 
 
 数据：ETH 通货膨胀率从 0.79% 上升至 0.85%，增长了 7…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链赛道行业周期变迁旋律的复盘与展望]]></title>
-        <id>https://www.theblockbeats.info/news/32031</id>
-        <link href="https://www.theblockbeats.info/news/32031"/>
-        <updated>2022-10-07T12:03:43.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《以史为镜知兴替：区块链赛道变迁旋律复盘与展望》
-原文作者：
-
-Frank Fan&Don，
-
-Arcane Labs
-
-
-原文编辑：Charles， Arcane Labs
-
-
-任何事物的创新与发展都离不开在前人的基础和问题上做迭代。本文将从行业经历过的三次大周期出发，根据所观察到的行业现象与细节，分析行业赛道演进方向的变化规律。再对下一轮周期行业会达到的阶段和热门赛道做预测研判。  
-
-
-
-「区块链」一词自比特币白皮书于 2009 年诞生以来，已经走过了 13 个年头。从一个默默无闻的名词变成了一个人尽皆知的行业，衍生出无数枝繁叶茂的生态和赛道。数轮牛熊的变化，行业从无到有，让很多专注在行业各个赛道的早期玩家顺势而起，收获了其中的巨额财富。回看这几年行业各个赛道的变化，我们不难发现隐藏其中的规律。
-
-
-首先，众所周知的是，区块链行业一直是一个周期行为特别显著的行业。在牛市周期中，行业极度繁荣，不断催生泡沫。而在熊市周期中，行业又非常冷清惨淡，快速出清。时间上曾一直以比特币减半为时间节点，伴随着大量资金的疯狂涌入进场和落寞离场割肉，形成了一个四年为一轮牛熊周期的行业规律。
-
-
-而在每一轮周期中，除了比特币减半这个不变的叙事之外，我们也能发现，每一轮周期都有独特的行业变化作为行业发展的主线。
-
-
-比如我们之前经历过的三次：
-
-
-第一次，是以比特币为首的去中心化商品货币的价值发现；
-
-
-第二次，是从单纯的去中心化货币到去中心化智能合约平台的价值发现；
-
-
-第三次，是用户开始转向链上行为和去中心化基础应用的价值发现。
-
-
-
-图 1：Size of money supply
-
-
-#1区块链行业经历的前三次周期
-
-
-1.1 去中心化商品货币启蒙阶段（2010-2013）
-
-
-回顾历史，在第一次加密周期中，比特币作为整个行业的开山鼻祖，因其匿名性、去中心化性和固定总量的稀缺…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑]]></title>
-        <id>https://www.theblockbeats.info/news/32030</id>
-        <link href="https://www.theblockbeats.info/news/32030"/>
-        <updated>2022-10-07T08:12:40.000Z</updated>
-        <summary type="html"><![CDATA[超5亿美元被盗后公链暂停又恢复，BNB Chain再遇中心化质疑]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
