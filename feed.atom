@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-10T06:38:40.773Z</updated>
+    <updated>2022-10-10T12:21:57.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT资深玩家给我们的43条建议]]></title>
+        <id>https://www.theblockbeats.info/news/32078</id>
+        <link href="https://www.theblockbeats.info/news/32078"/>
+        <updated>2022-10-10T08:27:10.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Twitter @liamherbst
+原文编译：Leo，Blockbeats
+
+
+
+
+本文筛选并编译了由 @liamherbst 整理的资深 NFT 玩家 Punk6529 对 NFT 的一些见解。
+
+
+
+
+
+
+1. 不要让机构偷走你的 jpg，与 FT 不同，NFT holders 可以拒绝出售。机构拥有更多资金，如果我们卖给他们，他们最终会得到更多的 NFT，且卖出 NFT 会损害去中心化，削弱了 NFT 文化。(ps，这条是针对 NFT 巨鲸) 
+
+
+
+
+2. 神话使人类能够协调并规模化地生长。例如，NIKE 是一个存在于我们意识中的神话，而不是现实 (它的产品，人员，logo 等都在变化，但我们仍然相信「NIKE」)。而 NFT 是有史以来最快和可塑性最强的神话传输层。
+
+
+3. 互联网和机器语言可能导致像交易审查类的监管形式大规模集中。DeFi 可能会受到 KYC 和证券法等法律的约束。但 NFT 可能是最强大的抵制审查的应用形式，因为法律不能禁止每种朋克或涂鸦。
+
+
+
+
+4.NFT 是一种表达形式，受第一修正案的有力保护。税收将适用于 NFT 交易。一些不追求有任何盈利的项目也有可能被认为是一种证券。
+
+
+
+
+5. 元宇宙是 VR、AR 和互联网的超集，将在十年内实现。你可以是元宇宙里的一个部分的所有者，也可以是互联网的用户，就像 BTC 一样灵活运用。我们必须让企业想要加入一个开放的系统，而不是建立一个封闭的系统。
+
+
+
+
+6.「郁金香泡沫」是对抗加密的强大模因。将 crypto 称为「郁金香」意味着它没有实质内容，注定会崩溃——就像 17 世纪 30 年代的郁金香价格一样。
+
+
+
+
+7. 购买你的第一个 NFT 时要注意：不要 FOMO ；假设它值 0 美元；你不需要买任何东西
+步骤:低价购买且了解它的更多背景和运作；如果你想，可以购买一个硬件钱…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12个ETHBogotá黑客松获胜新项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/32077</id>
+        <link href="https://www.theblockbeats.info/news/32077"/>
+        <updated>2022-10-10T08:27:10.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：比得潘、Jack(0x137)，BlockBeats
+
+
+
+
+在此次 Devcon 活动期间，ETH Global 同样举办了自己的黑客松活动 ETHBogota，并于今天公布了黑客松最终项目名单。BlockBeats 对该名单中的项目进行了梳理和介绍：
+
+
+frens
+
+
+
+
+Frens 是一个与朋友一起质押 ETH 的精简 dApp，通过邀请朋友汇集 32 个 ETH 即可启动分布式验证器，这降低了用户单独质押的风险。并且 Frens 建立在 SSV 之上，确保了一定容错性和性能，还提高了与朋友一起在矿池中质押的社交性和回报性。
+
+
+
+
+一般来看，质押 ETH 有一定的门槛，用户需要大量的技术知识和一些基础设施，并且也十分昂贵（32 个 ETH 对于单个质押者来说成本不低）。当用户在错误配置验证节点时，就可能会失去自己的 ETH。而由于这些挑战，大多数人在选择使用中心化的非托管质押服务如 Coinbase 或 Kraken 等进行质押，则又会带来中心化的风险。
+
+
+
+
+工作原理：运营商通过 Frens 网站上的一键式按钮创建「质押池」智能合约，该网站为用户提供了一个指向简单的 UI 链接，因此朋友可以为完整的验证者存入必要的 ETH，而只有拥有此链接的朋友才能将 ETH 存入质押池中。并且 Frens 提供的 UI 十分简捷易于操作，收集到 32 个 ETH 后，操作员就可在 Frens 网站上启动质押存款机制。
+
+
+
+
+
+
+
+
+
+Blobscan Explorer
+
+
+
+
+EIP-4844 向以太坊引入了一种新的交易类型，它接受在信标节点中短时间保存的数据区块，这有利于存储汇总所需的数据，例如 Optimism、Aztec 和 Scroll。但用于处理这些新型事务的开发工具是新的，却一直还没有 Blob Explorer。
+
+
+
+
+使用 Blobscan E…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[九月NFT市场回顾，你可能错过的NFT新闻]]></title>
         <id>https://www.theblockbeats.info/news/32074</id>
