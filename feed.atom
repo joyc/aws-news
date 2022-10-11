@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-11T06:34:00.141Z</updated>
+    <updated>2022-10-11T12:20:57.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第41周链上数据分析：BTC新生力量增持相对稳健，亏损供应触及底部区间]]></title>
+        <id>https://www.theblockbeats.info/news/32096</id>
+        <link href="https://www.theblockbeats.info/news/32096"/>
+        <updated>2022-10-11T10:02:26.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+暮夜弥漫，柠月如风｜WTR 10.10
+
+》
+
+
+原文来源：WatchToweR 研究院
+
+
+
+本周回顾
+
+
+本周从 10 月 3 号到 10 月 9 号，冰糖橙最高附近 20450，最低接近 18970  ，震荡幅度达到 7.76 % 左右。
+观察近期筹码分布图，在约  19200 附近有大量筹码成交，将有一定的支撑或压力。
+
+
+
+
+
+•分析：
+
+
+1. 17800~18500   约  60 万枚
+2. 22500~24000  约  70  万枚
+
+
+•涨不破  22500~24000  概率为  63%。
+ 
+
+ 
+重要消息方面
+ 
+经济消息方面
+
+
+•美国
+1. 美国 9 月 ISM 制造业指数降至 50.9，低于市场预期，创 2020 年 5 月份以来新低。
+2. 美国劳工统计局报告显示，9 月非农就业人口新增 26.3 万人，预期 25.5 万人。9 月失业率 3.5%，低于预期的 3.7%。据此，市场对 11 月美联储加息 75 个基点的可能性上升至 92%。
+3. 本周内两年期收益率短暂跌至 4% 以下，十年期美债收益率跌至 3.57% 以下，是今年以来首次日内最大降幅。
+4. 美国 8 月份职位空缺降至 2021 年 6 月以来的低点，降幅超预期，总招聘人数也大幅下降，反映了劳动力市场需求放缓。
+5. 标普全球美国制造业 PMI 指数反弹至 52.0，反映出华尔街降低了对美联储收紧政策的预期，市场再次押注最快在明年 5 月降息。
+6. 受 OPEC+减产的影响，美国决定释放 1000 万桶战略储备。
+ 
+•英国 & 欧洲
+1. 英国财政宣布，不会推进取消 45% 最高所得税税率的计划。
+2. 惠誉（Fitch）将英国的信用评级展望列为「负面」，同时对英政府的财政政策和政治可信度给出负面评价。
+3. 本周 OPEC+会议一致同意今年 11 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[定量分析：以太坊合并后去中心化和抗审查究竟如何？]]></title>
         <id>https://www.theblockbeats.info/news/32082</id>
