@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-11 datetime="2022-10-11T10:02:26.000Z">2022-10-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-11 datetime="2022-10-11T10:02:26.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-11 datetime="2022-10-11T14:11:02.000Z">2022-10-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-11 datetime="2022-10-11T14:11:02.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,109 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32099"
+                        open
+                      >
+                        <summary class="article-expander__title">解析Cosmos生态链间流动性协议White Whale</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32099">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文作者：@Yyy1092422472
+
+
+1/ 今天介绍的这个项目 WhiteWhale 比较另类，它是 Terra 链上的「遗孤」。
+
+但 Terra 链的轰然崩塌并没有使其销声匿迹，近期完成了 V2 Beta 版本的迭代升级，在 cosmos 生态进行多链部署。
+
+项目的创新和用例符合 Defi 在 Cosmos 生态可持续发展的理念，那接下来让我们一起走进这个项目——WW。
+
+
+
+
+
+2/ WW 是一个部署在 Cosmos 生态中的多链 Defi 协议，早期部署在 Terra 链，terra 链暴雷后寻求转型，从单一链 Dapp 转型成为一个多链 Defi 协议。 
+
+
+目前支持的网络包括 Juno/Terra 2.0/Chihuahua, 已达成合作并将在后期上线的网络包括 Sei 在内的 6 条 Cosmos 子链。
+
+
+3/ 在讲这个项目之前，先来看看 Cosmos 生态存在的一些问题。
+
+同一资产在不同的 Cosmos 子链的价格存在差异，从理论上讲，忽略滑点和 gas，只要不同链上的同一资产存在价差，就存在无风险套利机会。 
+
+
+
+
+5/ WW V2 是一个链间套利 Defi 协议，旨在解决 Cosmos 生态不同子链间的流动性碎片化和链间同一资产价格差异化的问题，通过协调流动性提高链间资产稳定性和流动性深度。
+
+WW V2 提供的链间套利基础设施包括两大组成部分：
+
+
+1) 流动性 Hub； 
+2) 链间命令。
+
+而流动性 Hub 又由池网络和闪电贷金库组成。  
+
+
+
+
+
+6/ 具体的套利机制也很简单。
+
+如果同一资产在 WW 协议的池网络 LP 和链上其他 Dex 的 LP 间存在价格差异，此时套利机器人通过向闪电贷金库请求一笔贷款，在不同的 LP 池中进行套利。
+
+Juno 链上的套利交易实例：  https://www.mintscan.io/juno/txs/DE9177F9250EF1FEDD91E2919F440AF70E1F66F820EEC56580E37F52BF0E8657
+
+
+7/ 闪电贷金库的存在在一定程度上提高了资本效率。
+
+套利者无需在每个链上拥有自有资产等待套利机会，当套利机会出现时，通过金库贷出资金，完成套利后再偿还闪电贷及利息即可。  
+
+
+8/ 闪电贷产生的费用（0.3%）作为协议的收入有 2 个流向：
+
+其中 0.2% 分配给 LP 提供者和金库存款人，剩下的 0.1% 作为协议储备资产，后续将分配给协议 Token 持有人。  
+
+
+9/ 这里出现了一个创新点：
+
+与绝大多数 defi 通过通胀激励 LP 提供者不同，WW 通过提供闪电贷获取的收益进行激励。LP 提供者的收益在很大程度上取决于闪电贷的使用率和链上交易活跃度。
+
+每条支持的链上有唯一的流动性 Hub, 但一个流动性 Hub 可以包含多个流动性池和闪电贷金库。  
+
+
+10/ 接下来看 WW 最具创新的一点：
+
+引入了链间命令（ICC）, ICC 是所有流动性 Hub 的聚合器和控制器。
+
+通过 ICC，用户存入任意支持链的 WW LP 和闪电贷金库的资金，能够在 Cosmos 生态所有支持的链上提供流动性。  
+
+
+11/ 简单来讲，通过 ICC 能够实现资产在不同链间的套利。WW 支持的子链越多，可能存在套利的机会就会越多。
+
+WW 预计在 2022 年 Q4 进行最终产品迭代升级，集成链间流动性模块。  
+
+
+
+
+
+12/ WhiteWhale10 月初刚宣布将上线 Injective 和 Sei, 后续将上线更多 Cosmos 子链。 
+支持 Injective: https://twitter.com/Injective_/status/1576974065931538432?s&#x3D;20&amp;t&#x3D;uBhGUhlYr3Or2Pu8pcHLJQ.
+支持 SeiNetwork:  https://twitter.com/WhiteWhaleDefi/status/1576971188894863363
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -1133,89 +1236,6 @@ MistTrack 分析
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32055"
-                        open
-                      >
-                        <summary class="article-expander__title">BitMEX创始人：「印钱主义」背后的全球经济压力</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32055">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Arthur Hayes 博文：央行重启印钞之后》
-原文作者：Arthur Hayes
-原文编译：吴说区块链
-
-
-人类现在正在两线作战。抗疫战争，以及美欧与中俄之间的大战。当前财政和货币政策的出发点就是试图减轻这两个冲突的经济影响。
-
-
-考虑到所有的政客——无论是否当选——都专注于短视的政策，他们通常默认通过印钞来解决几乎所有的问题。很少有问题是印钞无法解决的，这通常使印钞成为最简单、最快捷的解决方案；它可以立即完成，无需太多讨论或深思熟虑。另一种选择——我们全球经济的长期重组——将给某些利益相关者带来巨大的痛苦，并且需要就我们文明的真实状况进行诚实的对话。这两个要求对我们短视的政治朋友来说都是行不通的，所以无论你的政府是是什么主义，他们都不可避免地转向「印钱主义」来掩盖任何和所有问题。
-
-
-众所周知，当你用免费的钱刺激需求时，价格就会上涨，这叫通货膨胀。世界上每个国家都在经历某种商品、食品和/或能源的通货膨胀。当后两个通货膨胀子集迅速增加时，曾经温顺的平民会醒来并要求采取行动。为了喂饱哭闹的孩子，你愿意做什么？
-
-
-世界主要中央银行——美联储（Fed）、中国人民银行（PBOC）、日本银行（BOJ）、欧洲中央银行（ECB）和英格兰银行（BOE）——都提供了援助。他们都担心随之而来的通货膨胀，并从那时起承诺（有时还会采取行动）消除法定流动性并收紧货币。
-
-
-受创最严重的市场是主权债务市场，债券市场的崩盘几乎是有记录以来人类金融史上最严重的一次。
-
-
-与此同时，未宣布的第三次世界大战正在加剧，最近对关键天然气管道的袭击成为头条新闻。这种情况正在给全球经济带来压力，撤出信贷的金融影响是显而易见的。主要央行已经开始背弃其对抗通胀的承诺，而下一场疫情——收益率曲线 (YCC) 病毒——正在迅速蔓延。在足够长的时间范围内，所有中央银行都会屈服。
-
-
-BOE——最近恢复到量化…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32054"
-                        open
-                      >
-                        <summary class="article-expander__title">应用链的兴起将带来哪些风险和机遇？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32054">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《应用链的兴起将带来哪些风险和机遇？未来将会如何发展？
-
-》
-原文作者：Dmitriy Berenzon，1kx 分析师
-原文编译：白泽研究院
-
-
-
-
-虽然区块链的最初应用围绕货币和金融，但在过去几年中，艺术、游戏和音乐等领域的应用激增。与此同时，这些应用程序中的聚合用户数量一直呈线性增长，给底层基础设施带来压力并降低用户体验。此外，随着这些应用程序的扩展，它们越来越需要更多的可定制性和更强大的业务模型。
- 
-解决这些问题的一种新兴业务模式是构建特定于应用程序的区块链，称为「AppChains」（应用链）。构建 AppChains 的应用程序可以自定义其堆栈的多个层，例如其安全模型、手续费用和写入权限等。
- 
-AppChains 不是一个新概念；比特币可以被认为是用于数字黄金的特定应用区块链，而 Arweave 则可以用于永久存储。也就是说，AppChain 的设计不仅包含单片区块链（例如 Osmosis），还包含处理应用程序状态转换的模块化执行层（例如 rollups、sidechains、plasma），但依赖于单独的结算层或共识层来实现最终性。
- 
-事实上，「层」（如 L2，L3 等）在大多数情况下，只是信任最小化的区块链，具有双向最小化信任的跨链桥。
- 
-
- 
-在本文中，我将：
-
-
-概述 AppChains 的历史解释 AppChains 的优缺点描述未来 AppChain 市场结构概述 AppChain 如何设计比较当前已有的不同 AppChain 解决方案
- 
-AppChains 的前世今生
- 
-AppChain 花了很多年才出现。虽然 Cosmos 和 Polkadot 早在 2016 年就提出并推广了这一概念，但他们直到 2021 年初才完全启动他们的网络（分别具有 IBC 和平行链功能）。与此同时，在可扩展性方面，由于以太坊上用户的需求不断增加，…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1223,8 +1243,8 @@ AppChain 花了很多年才出现。虽然 Cosmos 和 Polkadot 早在 2016 年�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3226776691">
-        <time id="build-timestamp" datetime="2022-10-11T12:20:57.723Z">2022-10-11T12:20:57.723Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3229210092">
+        <time id="build-timestamp" datetime="2022-10-11T18:14:22.542Z">2022-10-11T18:14:22.542Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
