@@ -22,6 +22,149 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-11 datetime="2022-10-11T04:31:54.000Z">2022-10-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-11 datetime="2022-10-11T04:31:54.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32082"
+                        open
+                      >
+                        <summary class="article-expander__title">定量分析：以太坊合并后去中心化和抗审查究竟如何？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32082">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《以太坊合并后去中心化和抗审查究竟如何？我们来一场定量分析》
+原文作者：Takens Theorem
+原文编译：aididiaojp.eth，Foresight News
+ 
+共识是加密货币的根基，但同时也会引起质疑。合并后的以太坊也不例外：有人担心权益证明 (PoS) 验证者过于集中，并且失去抗审查能力。
+ 
+这并不是一场新的辩论。在合并之前，就已经有人担心以太坊合并后验证者的集中度和审查制度出现变化。当然这个问题也不是以太坊独有的，例如 60% 的比特币算力曾经集中在中国，但比特币挖矿的分布在不到 2 年的时间里发生根本性的变化，现在美国占据主导地位（撰写本文时超过 35%）。
+ 
+
+ 
+
+2020-2021 年比特币网络的近似哈希率变化
+ 
+这些辩论中都有合理的担忧。加密货币的目标是创建一个中立、抗审查和去中心化的系统，同时有充足的参与者能够抵御攻击。但即使在看似乐观的情况下，网络仍然存在理论上的风险，即未知的攻击向量，任何集中化都会使此类攻击发生的可能性增大。
+ 
+接下来对合并前后矿工和验证者的集中度做一个简单的定量分析。
+ 
+合并前后
+ 
+以合并前后数千个区块为例，我们可以查看每个关联区块提议者地址（矿工和验证者）区块集中度。在合并之前，只有十几个挖矿地址与奖励相关联，其中包括 Ethermine 等。合并后，数千个地址与验证者相关。在通过一个急剧变化的阈值交叉后，唯一奖励验证者地址的数量差异变得很大。
+ 
+
+数据来源：Etherscan
+ 
+这是 PoS 的一个很有前景的特性。虽然验证节点参与需要 32 ETH 的质押要求，但也至少有数千个参与实体满足要求。
+ 
+在合并之后，奖励接受者的集中度仍然很高。我们尝试通过基尼系数分析（衡量个人收入分配的指标），来反映每 1000 区块中奖励的集中程度。基尼系数从 0（完全共享的区块）到 1（只属于一个验证者）…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32081"
+                        open
+                      >
+                        <summary class="article-expander__title">Layerzero：常被误认为跨链桥的协议层产品</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32081">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在刚刚过去的这轮长达两年的牛市中，市场不但见证了多链生态的迅速崛起，更直接目睹了众多跨链桥产品的迅速爆发。
+
+
+
+
+然而之后一次次的黑客攻击事件，以及跨链桥在使用体验上的种种缺陷开始让人们怀疑，仅仅解决资产跨链问题的跨链桥产品会不会是一个错误的方向？未来能够承载原生跨链应用的底层协议又应该是什么样子？
+
+
+
+
+本文将向读者重新介绍一个可能已经有所耳闻，但依然没有完全理解其全部潜力的协议级跨链项目：Layerzero。
+
+
+
+
+为什么不能将 Layerzero 简单理解为跨链桥？
+
+
+
+
+当看到关于 Layerzero 的介绍文章时，许多读者的第一反应可能是：「这难道不是又一个跨链桥产品吗？」
+
+
+
+
+的确，目前市场对跨链技术的应用，依然基本停留在资产跨链上。然而资产跨链其实只是整个跨链技术的一个小小的子集，甚至可以说，之前我们使用的众多跨链桥产品，只是项目团队为了应对突然出现的多链生态，而仓促开发出的满足当时用户最基本需求的过渡性产品。
+
+
+
+
+而如果我们想进入真正成熟的多链生态，实现用户仅通过一个应用，就可以顺畅地与所有主流公链交互，且不需要频繁切换钱包的未来图景的话，那么就必须拥有更加底层的，能够实现信息跨链而不是简单的资产跨链的协议级跨链产品。
+
+
+
+
+正如 Layerzero 名称中所隐含的含义一样，Layerzero 从一开始就没有将自己简单地定位为普通的资产跨链桥，而是希望自己能够成为比 Layer1 公链更加底层的基础设施级协议，进而在未来彻底解决众多公链之间流动性割裂，使用应用需要频繁切换钱包等深层次的问题。
+
+
+
+
+那么，作为协议层的 Layerzero 与作为产品的跨链桥之间有哪些本质性的区别呢？
+
+
+
+
+产品层与协议层项目的关键区别是什么？
+
+
+
+
+1. 价值捕获逻辑
+
+
+
+
+是的，在 Web3 行业中，协议层与产品层项目最重要的区别，可能就是其在价值…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-10 datetime="2022-10-10T12:32:20.000Z">2022-10-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-10 datetime="2022-10-10T12:32:20.000Z"></time>
           </button>
@@ -1013,104 +1156,10 @@ AppChain 花了很多年才出现。虽然 Cosmos 和 Polkadot 早在 2016 年�
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-08 datetime="2022-10-08T14:49:04.000Z">2022-10-08</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-08 datetime="2022-10-08T14:49:04.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >TheBlockBeats - 新闻</button>
-                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32053"
-                        open
-                      >
-                        <summary class="article-expander__title">当Web3轻轻掠过房地产</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32053">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《当 WEB3 轻轻掠过房地产》下篇——送给身处至暗时刻的朋友们
-
-》
-原文作者：W Labs 瓜田实验室
-
-
-
-
-一，论一个行业的崩塌
-
-
-
-
-如果把时间轴拉回到一年前，就是 2021 年 8 月，谁在朋友圈说一年后中国房地产三十强企业内的大部分民营公司，其债券价格都会跌到个位数，应该会被人举报成神经病并直接口诛笔伐到社死，毕竟彼时大家日子虽然不好过，可以好歹也是千亿资产，也是财富 500 强，也是各个金融机构的座上宾。
-
-
-
-
-可是这个看似荒谬而奇特的情况的确就这么发生了，眼睁睁看着一个行业从宴宾客到楼塌了，债券价格从 95 到 5，一年不到的时间就走进了如此惨烈的救赎之路；再对比号称历史最大庞氏的加密世界，比特币从 2021 年 11 月的高点 69000 美元开始进入熊市，到现在的 20000 美元，哪个更魔幻？
-
-
-
-
-
-身边大量从事地产行业的朋友们处在至暗时刻的焦虑中，损失的不仅是财富，更多的是健康和对未来生活的信心。我们不妨把时间维度拉长，再把视野横向拓宽，可能会在貌似越走越窄的路上，进化出一条分叉轨道，可以通向一切皆有可能的未来。
-
-
-
-
-二，三千年来土地为王
-
-
-
-
-土地在人类发展史上一直是最重要的生产资料，也是财富的源泉，尤其在农耕文化为主的亚欧大陆南部，有了土地就有了财富的基础，历史上聪明的帝王在做改革的时候，经常会把以人头为主的人丁税变成土地为主的土地税，意思就是说，人跑的了，地跑不了。
-
-
-
-
-现代文明起源的欧洲大陆采用的是封建领主制度，公侯伯子男，国王一层层把土地分给你们，你自己管好土地上的人和钱就好，需要打战的时候我招呼你们一起干就对了，所以土地是对各层封建领主最大的赏赐。
-
-
-
-
-
-
-
-
-
-中国从周朝开始也是封建为主的，被后世的「托古改制」派改革家不断褒扬的井田制，就是把正方形的一块地分了九宫格，外边的八个都是农民自己的，中间的一块…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3223346013">
-        <time id="build-timestamp" datetime="2022-10-11T00:52:19.250Z">2022-10-11T00:52:19.250Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3224633115">
+        <time id="build-timestamp" datetime="2022-10-11T06:34:00.107Z">2022-10-11T06:34:00.107Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
