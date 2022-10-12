@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32106",
+          "author": null,
+          "description": "观察：稳定币王者之战",
+          "link": "https://www.theblockbeats.info/news/32106",
+          "publishedOn": "2022-10-12T14:45:57.000Z",
+          "wordCount": null,
+          "title": "观察：稳定币王者之战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32138",
+          "author": null,
+          "description": "十天6起安全事故，损失金额超8亿美元，链上安全何时解决？",
+          "link": "https://www.theblockbeats.info/news/32138",
+          "publishedOn": "2022-10-12T12:45:57.000Z",
+          "wordCount": null,
+          "title": "十天6起安全事故，损失金额超8亿美元，链上安全何时解决？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32120",
           "author": null,
           "description": "Devcon 是由以太坊基金会主办的一年一度的线下聚会，云集了以太坊社区最多、最核心的开发者，其历史甚至可以追溯到以太坊区块链启动的一年以前、在德国柏林举办的一场小型聚会（Devcon- 0）。\n\n\n\n\n但由于疫情影响新一届 Devcon 接连延期，上一届在日本大阪举办的 Devcon5 至今已过去三年。如今，Devcon6 终于如期于 10 月 11 日至 14 日在哥伦比亚首都波哥大举行，而波哥大作为拉美最活跃和最受欢迎的城市之一，吸引到了众多新地区的开发者及行业从业者加入到了这场盛会中。\n\n\n\n\n本届 Devcon6 将为以太坊的构建者们提供了一个巨大的舞台，大家可以一起畅谈从技术研究到应用设计等领域的最新突破，从而推动以太坊超越现在、不断走向未来。同时这也是一次不容错过的机遇，因而众多的从构建者到教育实体、当地企业领袖和决策者等就早早地到达当地参加了预热活动。\n\n\n\n\n而作为以太坊联合创始人的 V 神自然不会缺席此次大会，那么在 Devcon6 首日的开幕式上，V 神都说了些什么，BlockBeats 为读者进行了整理并编译如下：\n\n\n\n\n\n\n\n\n\n1）以太坊是一个通用的区块链平台。\n\n\n\n\n相比一般区块链网络的抗审查、避免依赖中心化的各方、能促进互不信任的人之间的互动以及提高公开性和透明度等，通用的区块链平台还能在不同类型的应用之间创建更强大的网络效应，并不断降低进入门槛，这最终比创作者最初想象的要有用得多。\n\n\n\n\n\n\n\n\n\n2）不过现在几乎每一个新的区块链都是通用区块链。\n\n\n\n\n\n\n\n\n\n这些区块链的区块中包含着一系列的交易信息，而每个区块的产生需要经过众多的节点确认达成共识。\n\n\n\n\n\n\n\n\n\n3）区块链上追踪保存的信息（状态）由一系列的账户组成。\n\n\n\n\n这些帐户有两种类型，分别是外部拥有的帐户 (EOA) 和合约账户。EOA 帐户代表用户，如用户持有 …",
@@ -113,26 +133,6 @@
           "publishedOn": "2022-10-10T08:27:10.000Z",
           "wordCount": null,
           "title": "12个ETHBogotá黑客松获胜新项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32074",
-          "author": null,
-          "description": "TL;DR\n\n\n\n\n• Yuga Labs 发布新宣传片，并暗示即将公布 Q4 计划\n• Yuga Labs 联合创始人否认「将发售名为 Mecha Apes 的新 NFT 项目」的谣言\n• Yuga Labs 宣布聘请一位大型游戏公司总裁担任该公司第一任首席游戏官\n• 有消息称 Azuki 开发团队 Chiru Labs 将以 3 至 4 亿美元估值完成 3000 万美元 A 轮融资\n• Azuki 暗示其故事线已经从第一阶段的「ALLEY」进入了「RUINS」新阶段，正在展开宏大世界观\n•「消失」了一个月以后，Doodles 宣布 以 7.04 亿美元估值完成 5400 万美元融资\n• RTFKT 正在开发 INVNTRY 应用，允许定制化 NFT 可穿戴设备并为 Clone X 创建内容\n• RTFKT 已将其 CloneX #7968 NFT 作品改动为「詹姆斯特征」，暗示后续合作\n• Cool Cats 聘请了一位曾任职于迪士尼、华纳兄弟、RECUR 的新 CEO\n• SudoSwap 空投方案引不满，日活随后大幅下降\n• Dust Labs 完成 700 万美元融资，DeGods 二代项目 y00ts 登顶 OpenSea\n• KaijuKingz 的商店 KaijuMart 上线，可以购买实物奖品，也可以购买类似猴子变异药水\n• 顶级机构 Paradigm 和 Rick and Morty 艺术家开发的新 NFT 项目 Art Gobblers\n• 苹果公司对通过 iOS 应用程序内的所有 NFT 交易收取高达 30% 的佣金引来争议\n• OpenSea 新增支持 Layer2，推出稀有度等新功能，稳步推进新合作\n• 星巴克推出了 Web3 平台 Starbucks Odyssey \n• Uniswap COO 透露将在今年秋季推出一站式 NFT 交易产品\n•…",
-          "link": "https://www.theblockbeats.info/news/32074",
-          "publishedOn": "2022-10-10T03:24:11.000Z",
-          "wordCount": null,
-          "title": "九月NFT市场回顾，你可能错过的NFT新闻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32073",
-          "author": null,
-          "description": "原文作者：Jack(0x137)，BlockBeats\n\n\n\n\n上个月，国内最大的 DAO 组织之一 PandaDAO 宣布解散，并在加密社区掀起了不小的波澜。在不到 1 年的时间里，PandaDAO 从一个无人问津的兴趣小组，发展成了主流去中心化开发平台 DeWork 上的最大 DAO 组织。但与不少宏伟工程一样，它的分裂与解散也可以用「轰然倒塌」来形容。社区在愤怒与失望的同时，也开始反思，PandaDAO 到底哪里出了问题？这些问题会不会在其他 DAO 组织身上发生？\n\n\n\n\n带着这些疑问，我们专访了 PandaDAO 社区的创始人、多签持有人，以及社区主要成员。\n\n\n\n\nPandaDAO 的短暂旅程\n\n\n\n\n在进入对话前，让我们先了解一下 PandaDAO 的发展时间线。\n\n\n\n\nPandaDAO 起源于一个非常简单的想法。起初 Panda 和几个来自腾讯字节的工程师们搭了班子，想做一个大数据搜索引擎，用于把各种信息数据格式化后提供查询、检索和关联服务。有了点子后，几位开发者就做起了 ES 架构设计、K8S 集群搭建等前期工作。\n\n\n\n\n这时的团队还只是社区里的一个兴趣小组，大家主要精力都放在产品的开发和迭代上。后来，随着越来越多的人加入，团队便有了立项的想法。在社区一番热烈地讨论后，PandaDAO 诞生了。\n\n\n\n\nDAO 组织成立后，团队花了一些精力，设计了社区的治理、写白皮书以及融资计划。Panda 出面牵头做这些事，开发者们则继续在幕后安心地写代码。4 月份，新成立的 PandaDAO 在 Juice Box 上开启融资，而彼时非常火热的 Cult DAO 发起了一项提案，希望投资 PandaDAO。不少人听到这一消息后便 FOMO 了进来，提案还没通过，PandaDAO 就达到了募资的软顶。最终，PandaDAO 这次募资共筹集 1900 多 ETH，远超…",
-          "link": "https://www.theblockbeats.info/news/32073",
-          "publishedOn": "2022-10-10T03:23:11.000Z",
-          "wordCount": null,
-          "title": "PandaDAO万字专访：DeWork最大DAO组织解散，我们学到了什么教训？",
           "imageUrl": null
         }
       ]
