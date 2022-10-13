@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/30668",
+          "author": null,
+          "description": "不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。\n\n\n我们常说，在熊市中你需要做的只有 Build。那么，该\n\nBuild 什么？去哪 Build？\n\n\nBlockBeats Web3 招聘墙\n\n\nBlockBeats 希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。\n\n\n\n\n\n\nAptos\n招聘岗位：工程师、设计师、财务、市场、BD、HR、运营、产品等\n工作地点：远程/美国/韩国/新加坡\n工作语言：英文\n联系方式：https://boards.greenhouse.io/aptoslabs\n\n\nThree Keys Lab\n招聘岗位：NFT 基金研究分析师（全职/实习）\n工作地点：远程\n工作语言：英文\n联系方式：song@threekeyslab.com\n\n\nSilo\n招聘岗位：设计师\n工作地点：远程/美国\n工作语言：英文\n联系方式：https://silo-finance.breezy.hr/\n\n\nNori\n招聘岗位：兼职社交媒体专家、产品、销售等\n工作地点：远程/美国\n工作语言：英文\n联系方式：https://boards.greenhouse.io/nori/\n\n\nKYVE\n\n招聘岗位：工程师\n工作地点：远程/德国\n工作语言：英文\n联系方式：https://angel.co/company/kyvenetwork/jobs\n\n\n\n\nJump Crypto\n\n\n招聘岗位：工程师\n工作地点：远…",
+          "link": "https://www.theblockbeats.info/news/30668",
+          "publishedOn": "2022-10-13T10:34:38.000Z",
+          "wordCount": null,
+          "title": "Web2裁员潮，Web3求人潮 | Web3招聘墙 （10.13更新）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32152",
+          "author": null,
+          "description": "原文作者：@LuozhuZhang\n原文编译：0x711，BlockBeats\n\n\n\n\n\n\n众所周知，PoS 以太坊的共识协议是「Gasper」，它是在 LMD-GHOST（分叉选择规则）之上应用 Casper FFG（最终性确定工具）构建的。所以要想搞清楚完整的以太坊共识协议，就必须了解这两个部分（Casper + Ghost）。此外，这些设计真的很有趣。我打算梳理一下这两个协议的背景和演进，以及它们简单的工作流程。\n\n\n\n\n\nPoS 共识算法的三大流派如下：\n\n\n1.Nakamoto-inspired（Peercoin）\n\n\n2.PBFT-inspired（Tendermint、Casper FFG）\n\n\n3.CBC Casper\n\n\nNakamoto-inspired PoS 是一种基于链的算法，模拟在 PoW 中挖矿。它通过伪随机选择验证者来创建新区块。其在 2012 年的「Peercoin」论文中首次提出，peercoin 是基于权益证明共识的第一个加密货币。\n\n\nPBFT-inspired（即 BFT-style）PoS 基于多年对拜占庭容错（尤其是 pBFT）的研究。在 2014 年的「Tendermint」论文中首次提出。一般来说，这些算法会选择一个代表账本规范交易的唯一链。\n\n\nCasper 直接继承了 BFT 算法（更精确的是 pBFT），做了一些修改。CBC Casper 是由 @VladZamfir 提出的，有一些很好的资料可以更充分地解释它。\n\n\nV 神的 CBC Casper 教程\n\n\nVladZamfir 写的 CBC Casper 历史\n\n\nCBC Casper 介绍视频\n\n\n虽然以太坊最终选择了 Casper FFG 而不是 CBC Casper，但对 CBC Casper 的研究也很有价值，比如满足以太坊需求的分叉选择规则「LMD-GHO…",
+          "link": "https://www.theblockbeats.info/news/32152",
+          "publishedOn": "2022-10-13T10:27:38.000Z",
+          "wordCount": null,
+          "title": "详解以太坊PoS共识Gasper：现在的以太坊是如何运行的",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32141",
           "author": null,
           "description": "原文作者：\n\nHaotian（Twitter：@tmel0211），区块链安全从业者\n\n\n年底安全事件一个个接踵而至，黑客估计是怕市场熊的没钱了，以亿为单位先把年终奖领了。有人要问了，Rabby、TempleDAO、Mango 这些被攻击的项目，都是被安全审计过的，为何还被攻击了？有人甚至借此非议安全审计没意义，作为多年区块链安全行业的从业者，简单说两句：\n\n\n1、各位看官得先调整预期，安全审计不可或缺，但审计完了也绝不可能一劳永逸。攻击和防御工事完全不是一个量级。我们看安全公司的 audit report 会发现，几乎每一个项目都能找出 1 个严重漏洞，2-4 个高风险漏洞，还有若干中等以及低级别的漏洞。你能说，这些漏洞发现没意义吗？有，但更多是降低安全风险！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2、有人会在东窗事发后说，漏洞这么简单，为何没被发现？这个问题很复杂，安全审计基于已有的工具，已有的经验进行逻辑审查，扫除代码缺陷，排查诸如溢出、重放、验签等常规漏洞。但 defi 等协议难的并非代码，而是复杂的金融业务逻辑，比如流程管控，外部组合嵌套，市场操纵等，超出安全公司的业务范畴。\n\n\n\n\n\n\n\n\n\n\n\n\n3、区块链生态存在形形色色的组合，开源+非开源，已审计项目+非审计项目，链下 validator+链上执行等等，很多项目给安全公司的审计也都只是模块化展开，比如审计开源的部分，那未开源的部分呢？因链下流程影响到链上执行呢，因市场交易深度问题导致市场被操纵呢？出了事，不可能全部让安全公司背锅。  \n\n\n4、可怕的是很多项目方，找安全审计的目的并不纯，只是希望拿到一份所谓的「安全背书」，抱有这样的心态做项目，其在自身安全防备上的投入可想而知。出了问题又一副我找 xx 头部安全公司审计过的无辜嘴脸，试问，项目本身在安全防御+加固+应急响应上的投入有多少呢？我想这才是安全事件屡见不鲜的根本原因；  \n\n\n5、其实，行业生态大的威胁并不全是黑客攻击，更多是安全意识薄弱造成的「人祸」，比如某些项目一旦遭攻击就会传出 rug 消息，我们司空见惯的网络钓鱼受诈骗等等，这些压根就没法统计，如果把人为 rug、网络钓鱼、网络勒索、资金盘诈骗等等一系列安全损失都统计起来呢？其安全威胁丝毫也不逊色于黑客；  \n\n\n6、在我看来，加密行业安全问题路漫漫其修远兮，我们预期的生态是，项目自身安全防护+第三方安全审计预防协助+用户人人皆有安全意识，行业从根本上变得更「安全」。但事实上，安全公司压根不是 security 建设者身份，安全公司能作为修理工，桥塌修桥，路断补路就不错了。安全生态需要每一个参与者共同守护。  \n\n\n原文链接\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
