@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32162",
+          "author": null,
+          "description": "原文标题：《Nansen：图解 Arbitrum 二季度网络关键数据》\n原文来源：Nansen\n\n\n概况\n\n\nOptimistic Rollups\n\n\nArbitrum 是一个 Optimistic rollup，是以太坊区块链的众多扩展解决方案之一。Optimistic Rollups 假设验证者没有恶意并且交易正确发布。为确保断言有效，任何人都可以在大约一周的时间内质疑交易索赔的有效性。然后将争议缩小到单行指令并在 L1 链上执行以验证正确性。欺诈节点将被削减其质押份额，其部分将分配给挑战的获胜者。提供不正确状态转换证据的过程称为欺诈证明。这是像 Arbitrum 这样的 Optimistic rollup 工作原理的基础，它减少了主 L1 链上的工作量，因为并非所有交易都需要重新执行，并激励节点表现良好。\n\n\n\n\n\n生态系统 Ecosystem\n\n\nArbitrum 拥有一个动态的 dApp 和工具生态系统，可以在 Arbitrum One Portal 目录中查看。自 2022 年 8 月 12 日起，Tracer DAO 更名为 Mycelium。\n\n\n随着 Arbitrum Nitro 即将推出，开发人员可以期待通过使用 Geth 而不是定制设计的语言 Arbitrum 虚拟机 (AVM) 来获得更无缝的体验。该团队预计链上的吞吐量会增加，同时费用会降低，从而允许更多团队进一步构建当前的生态系统。\n\n\n关键进展：2022 Q2\n\n\nArbitrum Nitro\n\n\n2022 年 7 月 16 日，Offchain Labs 发布了一份关于在下个月成功迁移 Rinkeby 测试网后将 Arbitrum One 升级到 Nitro 技术堆栈的报告。\n\n\nArbitrum Nitro 对当前 AVM 架构和 ArbOS 进行了一些更改。流行的 WebAssembly …",
+          "link": "https://www.theblockbeats.info/news/32162",
+          "publishedOn": "2022-10-14T14:00:54.000Z",
+          "wordCount": null,
+          "title": "Nansen：数据详解Arbitrum Q2网络状况",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32160",
           "author": null,
           "description": "原文作者：Nonce Foundation 投资部门 Alphanonce\n原文编译：0x214，BlockBeats\n\n\n\n\n凛冬将至。2022 年 Q3 的加密风险投资总额缩减至 Q2 的 33%。但我们仍不能掉以轻心，毕竟熊市是真正酝酿创新的时机。\n\n本文将分析 2022 年 Q3 的 VC 资本动向。\n\n\n\n\n\n\n\n\n\nTL;DR\n\n\n\n\n加密 VC 在 2022 年 Q3 投资总额为 51 亿美元，环比下降约 67%。\n\n\nVC 关注的领域为 Layer 1 区块链、链游工作室、NFT 和 DAO 基础设施以及社交平台。\n\n\n\n\n加密行业身处艰难岁月，但一旦出现真正用例，我们将熬过寒冬。\n\n\n2022 Q2 Q3 对比\n\n\n\n\n2022 Q3 概览：投资总额 51 亿美元，投资项目 386 个。\n\n\n2022 Q2 概览 ：投资总额 154 亿美元，投资项目 656 个。\n\n\n\n\n与上一季度相比，Q3 风险投资的项目数量仅达到 Q2 的 59%，投资总额则下降了 67%。然而，这也表明 VC 进行了更彻底的尽职调查。\n\n\n\n\n我们将 VC 分为两类，即交易平台 VC 和顶级风险投资机构。交易平台 VC 包括 Coinbase、FTX、Binance Labs；顶级风险投资机构 Paradigm、a16z、Pantera Capital、Polychain Capital、Dragonfly Capital、红杉资本、Electric Capital、Multicoin Capital、ParaFi Capital、DCG。\n\n\n\n\n交易平台 VC\n\n\n\n\n交易平台 VC 共投资 55 个项目：\n\n\nDeFi：11 个（20 %)\nCeFi：4 个（7 %) \nNFT：4 个（7 %) \n基础设施：24 个（44 %) \n游戏：4 个（7 %) \nWeb 3： 8 …",

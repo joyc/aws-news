@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-14T12:19:39.794Z</updated>
+    <updated>2022-10-14T18:13:35.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nansen：数据详解Arbitrum Q2网络状况]]></title>
+        <id>https://www.theblockbeats.info/news/32162</id>
+        <link href="https://www.theblockbeats.info/news/32162"/>
+        <updated>2022-10-14T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Nansen：图解 Arbitrum 二季度网络关键数据》
+原文来源：Nansen
+
+
+概况
+
+
+Optimistic Rollups
+
+
+Arbitrum 是一个 Optimistic rollup，是以太坊区块链的众多扩展解决方案之一。Optimistic Rollups 假设验证者没有恶意并且交易正确发布。为确保断言有效，任何人都可以在大约一周的时间内质疑交易索赔的有效性。然后将争议缩小到单行指令并在 L1 链上执行以验证正确性。欺诈节点将被削减其质押份额，其部分将分配给挑战的获胜者。提供不正确状态转换证据的过程称为欺诈证明。这是像 Arbitrum 这样的 Optimistic rollup 工作原理的基础，它减少了主 L1 链上的工作量，因为并非所有交易都需要重新执行，并激励节点表现良好。
+
+
+
+
+
+生态系统 Ecosystem
+
+
+Arbitrum 拥有一个动态的 dApp 和工具生态系统，可以在 Arbitrum One Portal 目录中查看。自 2022 年 8 月 12 日起，Tracer DAO 更名为 Mycelium。
+
+
+随着 Arbitrum Nitro 即将推出，开发人员可以期待通过使用 Geth 而不是定制设计的语言 Arbitrum 虚拟机 (AVM) 来获得更无缝的体验。该团队预计链上的吞吐量会增加，同时费用会降低，从而允许更多团队进一步构建当前的生态系统。
+
+
+关键进展：2022 Q2
+
+
+Arbitrum Nitro
+
+
+2022 年 7 月 16 日，Offchain Labs 发布了一份关于在下个月成功迁移 Rinkeby 测试网后将 Arbitrum One 升级到 Nitro 技术堆栈的报告。
+
+
+Arbitrum Nitro 对当前 AVM 架构和 ArbOS 进行了一些更改。流行的 WebAssembly …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Q3投资复盘：资金量环比降近7成，VC们还关注哪些赛道？]]></title>
         <id>https://www.theblockbeats.info/news/32160</id>
