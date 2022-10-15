@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32163",
+          "author": null,
+          "description": "联储最大噩梦来临：另一些离转向越来越近的因素",
+          "link": "https://www.theblockbeats.info/news/32163",
+          "publishedOn": "2022-10-15T02:06:07.000Z",
+          "wordCount": null,
+          "title": "联储最大噩梦来临：另一些离转向越来越近的因素",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32162",
           "author": null,
           "description": "原文标题：《Nansen：图解 Arbitrum 二季度网络关键数据》\n原文来源：Nansen\n\n\n概况\n\n\nOptimistic Rollups\n\n\nArbitrum 是一个 Optimistic rollup，是以太坊区块链的众多扩展解决方案之一。Optimistic Rollups 假设验证者没有恶意并且交易正确发布。为确保断言有效，任何人都可以在大约一周的时间内质疑交易索赔的有效性。然后将争议缩小到单行指令并在 L1 链上执行以验证正确性。欺诈节点将被削减其质押份额，其部分将分配给挑战的获胜者。提供不正确状态转换证据的过程称为欺诈证明。这是像 Arbitrum 这样的 Optimistic rollup 工作原理的基础，它减少了主 L1 链上的工作量，因为并非所有交易都需要重新执行，并激励节点表现良好。\n\n\n\n\n\n生态系统 Ecosystem\n\n\nArbitrum 拥有一个动态的 dApp 和工具生态系统，可以在 Arbitrum One Portal 目录中查看。自 2022 年 8 月 12 日起，Tracer DAO 更名为 Mycelium。\n\n\n随着 Arbitrum Nitro 即将推出，开发人员可以期待通过使用 Geth 而不是定制设计的语言 Arbitrum 虚拟机 (AVM) 来获得更无缝的体验。该团队预计链上的吞吐量会增加，同时费用会降低，从而允许更多团队进一步构建当前的生态系统。\n\n\n关键进展：2022 Q2\n\n\nArbitrum Nitro\n\n\n2022 年 7 月 16 日，Offchain Labs 发布了一份关于在下个月成功迁移 Rinkeby 测试网后将 Arbitrum One 升级到 Nitro 技术堆栈的报告。\n\n\nArbitrum Nitro 对当前 AVM 架构和 ArbOS 进行了一些更改。流行的 WebAssembly …",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-10-13T04:04:24.000Z",
           "wordCount": null,
           "title": "为什么通过安全审计的项目还是会被攻击？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32106",
-          "author": null,
-          "description": "观察：稳定币王者之战",
-          "link": "https://www.theblockbeats.info/news/32106",
-          "publishedOn": "2022-10-12T14:45:57.000Z",
-          "wordCount": null,
-          "title": "观察：稳定币王者之战",
           "imageUrl": null
         }
       ]
