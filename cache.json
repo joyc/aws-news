@@ -124,56 +124,6 @@
           "wordCount": null,
           "title": "观察：稳定币王者之战",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32138",
-          "author": null,
-          "description": "十天6起安全事故，损失金额超8亿美元，链上安全何时解决？",
-          "link": "https://www.theblockbeats.info/news/32138",
-          "publishedOn": "2022-10-12T12:45:57.000Z",
-          "wordCount": null,
-          "title": "十天6起安全事故，损失金额超8亿美元，链上安全何时解决？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32120",
-          "author": null,
-          "description": "Devcon 是由以太坊基金会主办的一年一度的线下聚会，云集了以太坊社区最多、最核心的开发者，其历史甚至可以追溯到以太坊区块链启动的一年以前、在德国柏林举办的一场小型聚会（Devcon- 0）。\n\n\n\n\n但由于疫情影响新一届 Devcon 接连延期，上一届在日本大阪举办的 Devcon5 至今已过去三年。如今，Devcon6 终于如期于 10 月 11 日至 14 日在哥伦比亚首都波哥大举行，而波哥大作为拉美最活跃和最受欢迎的城市之一，吸引到了众多新地区的开发者及行业从业者加入到了这场盛会中。\n\n\n\n\n本届 Devcon6 将为以太坊的构建者们提供了一个巨大的舞台，大家可以一起畅谈从技术研究到应用设计等领域的最新突破，从而推动以太坊超越现在、不断走向未来。同时这也是一次不容错过的机遇，因而众多的从构建者到教育实体、当地企业领袖和决策者等就早早地到达当地参加了预热活动。\n\n\n\n\n而作为以太坊联合创始人的 V 神自然不会缺席此次大会，那么在 Devcon6 首日的开幕式上，V 神都说了些什么，BlockBeats 为读者进行了整理并编译如下：\n\n\n\n\n\n\n\n\n\n1）以太坊是一个通用的区块链平台。\n\n\n\n\n相比一般区块链网络的抗审查、避免依赖中心化的各方、能促进互不信任的人之间的互动以及提高公开性和透明度等，通用的区块链平台还能在不同类型的应用之间创建更强大的网络效应，并不断降低进入门槛，这最终比创作者最初想象的要有用得多。\n\n\n\n\n\n\n\n\n\n2）不过现在几乎每一个新的区块链都是通用区块链。\n\n\n\n\n\n\n\n\n\n这些区块链的区块中包含着一系列的交易信息，而每个区块的产生需要经过众多的节点确认达成共识。\n\n\n\n\n\n\n\n\n\n3）区块链上追踪保存的信息（状态）由一系列的账户组成。\n\n\n\n\n这些帐户有两种类型，分别是外部拥有的帐户 (EOA) 和合约账户。EOA 帐户代表用户，如用户持有 …",
-          "link": "https://www.theblockbeats.info/news/32120",
-          "publishedOn": "2022-10-12T09:28:50.000Z",
-          "wordCount": null,
-          "title": "Devcon6 开幕式上，V神都说了些什么",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32119",
-          "author": null,
-          "description": "原文作者：前 Synthetix 协议工程师 Liam Zebedee\n原文编译：0x214，BlockBeats\n\n\n\n\n如何不经前端访问被监管的 dApp？前 Synthetix 开发人员 Liam Zebedee 发文介绍了或将实现「真正去中心化愿景」的无需许可的应用网络 Dappnet，BlockBeats 对其整理翻译如下：\n\n\n\n\nOFAC（美国财政部海外资产控制办公室）是否侵犯了你的权利？你也有可能被冠以「去中心化」的名号。\n\n\n\n\n\n\n\n\n\nDappnet 抵制捕获，这是一个无需许可的应用网络。它建立在星际文件系统 IPFS 和 ENS 域名之上。\n\n\n\n\n面临问题与现存解决方案\n\n\n\n\n通常情况下，我们通过 DNS（域名服务器）和 Servers（服务器）访问 dApp，但这二者存在随时被删除、审查、捕获和没收的可能。\n\n\n到目前为止，解决方案一直是使用 ENS（以太坊域名服务）去中心化名称系统，并将 dApp 的内容托管在 IPFS 上，IPFS 是一个类似 BitTorrent 的 P2P 网络。\n\n\n\n\nENS 不能被扣押，IPFS 不能被审查。当一个节点在 IPFS 上被审查时，其他节点可以在无许可的情况下取代它。\n\n\n\n\n目前使用部署在 ENS/IPFS 上的 dApp 的最佳方式是使用 ENS 网关（gateway），例如 eth.limo。网关使用户体验更加简明顺畅，只需访问 tornadocash.eth.limo，网关将会把 ENS 域名解析为其 IPFS 上的内容。\n\n\n\n\n然而，这些网关也难逃铁拳制裁，因为它们是「中心化的」。\n\n\ntornadocash.eth.limo\n\n不信你可以试试点击以上链接，还是无法访问 Tornado Cash，因为 eth.limo base 在美国，OFAC 必须对其进行审查。\n\n\n\n\n今年早些时候，…",
-          "link": "https://www.theblockbeats.info/news/32119",
-          "publishedOn": "2022-10-12T09:13:50.000Z",
-          "wordCount": null,
-          "title": "Dappnet：结合IPFS和ENS的去中心化网关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32107",
-          "author": null,
-          "description": "原文标题：Token Cap Table Allocation\n原文作者：Vader Research\n原文编译：Leo，BlockBeats\n\n\n\n\n\n\n\n\n\n\n\ntoken 经济学通常与其饼状图分配相关，其代表了团队、投资者、财库和社区之间的 token 百分比分配情况。这些数字通常是根据非 token 投资者分配基准以及团队和投资者之间的双边谈判确定的。\n\n\n\n\n\n当一个正融资的项目确定向现有或未来的股权投资者提供多少百分比的 token 时，token 分配就变得略微复杂。现今市场上还没有一个标准框架来指导创始人如何给各个部分进行 token 分配，经常会导致团队和各类投资者之间的 token 分配不当。\n\n\n本篇文章中，我们将介绍:\n1. 累积价值\n\n2. 只在token上累积价值\n3. 在股权持有的token上累积价值\n4. token和股权上都累积价值\n5. 结语\n\n\n\n\n\n\n一、累积价值\n\n\n在研究累积价值相关的内容前，让我们先试着理解股权和 token 之间的关系。到目前为止其分类模型有:\n-token 上的累积价值\n-股权持有的 token 上的累积价值\n-token 和股权上都累积价值\n\n\n\n\n这里的关键点是累积价值;一个协议的价值取决于它的累积价值。任何代表未来收入的指标 (交易量，用户数量) 都可以被视为价值驱动因素，只要由该指标转换的未来收入将累积到该协议。\n\n\n\n\n如果一款游戏对二级市场的交易收取 5% 的费用，而这些收入是由 token 持有者应得的，那么 token 持有者可以集体投票决定如何使用这些收入：\n-对协议再投资 (营销、招聘、新产品等)。\n\n-将收益分配给 token 持有者 (token 回购、入股等)。\n\n\n因此，token 的固有基本价值主要由通过业务基本收入累积的价值驱动。这个价值可以以任何货币的形式 (包括 token…",
-          "link": "https://www.theblockbeats.info/news/32107",
-          "publishedOn": "2022-10-12T08:40:50.000Z",
-          "wordCount": null,
-          "title": "理想的代币分配是什么样的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32100",
-          "author": null,
-          "description": "原文标题：《\n\nMessari：2022 年 Q3 Avalanche 表现的回顾和分析\n\n》\n原文作者：James Trautman，Messari  研究分析师\n原文编译：深潮 TechFlow\n\n\nAvalanche  介绍\n\n\nAvalanche 网络是为去中心化应用提供基础设施的 PoS  智能合约平台。Avalanche 通过创建和实施一个新的共识算法，即 \"Avalanche 共识\"，使自己变得与众不同。经过多年的研究，Avalanche 主网于 2020 年 9 月推出，并发布了一个使用三个链作为架构的多链框架：P 链、X 链和 C 链。每条链在 Avalanche 生态系统中发挥着关键而独特的作用，同时提供与单一网络相同的能力，通常称为主网络。\n\n\nAvalanche 共识和主网络旨在支持称为子网的主权互连区块链。\n\n\n子网是主网验证器的一部分，运行相同的虚拟机（VM），有自己的规则。\n\n\n子网实现了可靠性、效率和数据主权的不同属性。它们提供了为不同用例创建自定义区块链的能力，同时将高流量应用与主网的拥挤活动隔离开来。\n\n\n第三季度的叙事\n\n\n尽管第二季度市场普遍下滑，Avalanche 仍专注于实现所有资产数字化、增强网络能力以及通过架构设计和子网横向扩展的愿景。它用 Core 这个 Web3 操作系统改善了用户的访问。\n\n\n随着 Trader Joe 的 Joepegs 和 GameFi 开发等 NFT  市场的推出，其生态系统也继续扩展到 DeFi 和其他领域。这是 Avalanche 生态系统发展的延续，该网络仍在关注长期的发展。\n\n\n表现分析\n\n\n网络和财务概况\n\n\n\n\n\n用于评估 Avalanche 网络定量方面的数据来自主网络，更具体地说，来自 Avalanche C 链。\n\n\n子网活动也会与 C 链被一起考虑，但没有在数据表中列出，因为每个…",
-          "link": "https://www.theblockbeats.info/news/32100",
-          "publishedOn": "2022-10-12T07:40:50.000Z",
-          "wordCount": null,
-          "title": "Messari：2022年Q3 Avalanche表现的回顾和分析",
-          "imageUrl": null
         }
       ]
     },
