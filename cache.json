@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32168",
+          "author": null,
+          "description": "在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n联系我们\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlockBeats Twitter：https://twitter.com/BlockBeatsChina\nBlockBeats Discord：https://discord.gg/R9fuWFyrTj\nBlockBeats Telegram：https://t.me/theblockbeatsApp\n\n\n\n\nBlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）\n\n\n推荐文章:《PandaDAO 万字专访：DeWork 最大 DAO 组织解散，我们学到了什么教训？》\n\n\n\n\n推荐人：Jack(0x137)\n\n\n\n\n推荐理由：上个月，PandaDAO 宣布解散。不到 1 年，PandaDAO 从一个无人问津的兴趣小组，发展成了主流去中心化开发平台 DeWork 上的最大 DAO 组织。它的成功让人望其项背，它的分裂与解散也可以用「轰然倒塌」来形容。\n\n\n\n\n实际上 PandaDAO 遇到的问题，是目前许多 DAO 组织都在面临的挑战。本文与 PandaDAO 创始人、多签持有者以及社区成员进行了深入对话，了解 PandaDAO 事件始末。DAO 的治理机制怎么在开化多元的条件下保持初心，还有很长的路要探索。\n\n\n\n\n\n\n\n推荐文章：《CZ 谈原则，15 个方面的 70 条公告，涵盖工作和生活》\n\n\n推荐人：Misaki\n\n\n\n\n推荐理由：读了这篇文章，…",
+          "link": "https://www.theblockbeats.info/news/32168",
+          "publishedOn": "2022-10-16T07:13:29.000Z",
+          "wordCount": null,
+          "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32167",
           "author": null,
           "description": "原文标题：《MOVE 语言首个 GAS 设计：Aptos 链上的 GAS 花费如何计算？》\n原文作者：Aptos Labs\n原文编译：Aptos Global\n\n\n\nAptos Labs 于 10 月 14 日公布了 Aptos 的 GAS 计划，因为 MOVE 语言的上一个版本其实是打算在没有 GAS 的前提下运行的，所以并没有为 GAS 计划做好准备，所以 Aptos labs 此次为 Aptos 建立的 GAS 计划是 MOVE 语言首个 GAS 设计，被官方称为「一场冒险」。\n\n\n在 Aptos 的 GAS 计划中，Aptos Labs 表明了自己制定 GAS 的原则、流程、如何计算 GAS、后期 GAS 费调整以及积极接受 Aptos 社区的建议。\n\n\n\n \nGAS 计量是 Aptos 和其他很多区块链的基本概念，它定义了执行和存储链上交易平台需的计算和存储资源量的抽象计算。GAS 计划将链上所有执行所消耗的成本确定，用于计算执行交易期间使用的 GAS 花费。\n\n\n流程\n\n\n \n为了有效的执行，我们在 Aptos 链上的流程是：\n\n\n1）定义我们的原则；\n\n\n2）准备一个评估框架，以确定每个执行的价格；\n\n\n3）为 Move 建立 GAS 计量系统和安全 GAS 代数；\n\n\n4）将上游 GAS 框架导入 Aptos；\n\n\n5）使 GAS 框架具有存储意识；\n\n\n6）最后，进一步细化 GAS 计划。\n\n\n原则\n\n\n \n我们的定义原则是:\n\n\n1、操作的成本应该与网络上的可用资源直接相关 (例如 CPU、内存、网络、存储 I/O 和空间使用等)。此外，当技术和流程改进后，GAS 所需的成本应该要随之降低。\n\n\n2、Gas 应该由链上治理设置，并且可以无缝配置。\n\n\n3、Gas 可以防止对网络中固定资源集的 DoS 攻击，并且可能需要根据网络情况通过治理建议迅速进行调整…",
