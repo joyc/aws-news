@@ -124,26 +124,6 @@
           "wordCount": null,
           "title": "观点：空投成为实现去中心化、建立DAO的必经之路",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/30668",
-          "author": null,
-          "description": "不景气的大环境，让几乎所有的 Web2 大厂都开始了新一轮的裁员：许多完整的部门直接被抛弃，动辄裁掉四分之一的员工。虽然 Crypto 市场同样处于熊市中，但井喷式出现的 Web3 应用们，却仍然保持着永无止境般的人才需求。或许是时候一脚踏进 Web3 了。\n\n\n我们常说，在熊市中你需要做的只有 Build。那么，该\n\nBuild 什么？去哪 Build？\n\n\nBlockBeats Web3 招聘墙\n\n\nBlockBeats 希望每个怀揣着梦想，在 Web3 宏大愿景中建立互联网新秩序的人们，都能找到适合自己的工作；也希望每个想闯出一片天的产品团队，都能找到合适的人才。我们将定期收集行业内各领域的招聘需求并更新到该文章内，建议收藏本文以便查看。\n\n\n\n\n\n\nAptos\n招聘岗位：工程师、设计师、财务、市场、BD、HR、运营、产品等\n工作地点：远程/美国/韩国/新加坡\n工作语言：英文\n联系方式：https://boards.greenhouse.io/aptoslabs\n\n\nThree Keys Lab\n招聘岗位：NFT 基金研究分析师（全职/实习）\n工作地点：远程\n工作语言：英文\n联系方式：song@threekeyslab.com\n\n\nSilo\n招聘岗位：设计师\n工作地点：远程/美国\n工作语言：英文\n联系方式：https://silo-finance.breezy.hr/\n\n\nNori\n招聘岗位：兼职社交媒体专家、产品、销售等\n工作地点：远程/美国\n工作语言：英文\n联系方式：https://boards.greenhouse.io/nori/\n\n\nKYVE\n\n招聘岗位：工程师\n工作地点：远程/德国\n工作语言：英文\n联系方式：https://angel.co/company/kyvenetwork/jobs\n\n\n\n\nJump Crypto\n\n\n招聘岗位：工程师\n工作地点：远…",
-          "link": "https://www.theblockbeats.info/news/30668",
-          "publishedOn": "2022-10-13T10:34:38.000Z",
-          "wordCount": null,
-          "title": "Web2裁员潮，Web3求人潮 | Web3招聘墙 （10.13更新）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32152",
-          "author": null,
-          "description": "原文作者：@LuozhuZhang\n原文编译：0x711，BlockBeats\n\n\n\n\n\n\n众所周知，PoS 以太坊的共识协议是「Gasper」，它是在 LMD-GHOST（分叉选择规则）之上应用 Casper FFG（最终性确定工具）构建的。所以要想搞清楚完整的以太坊共识协议，就必须了解这两个部分（Casper + Ghost）。此外，这些设计真的很有趣。我打算梳理一下这两个协议的背景和演进，以及它们简单的工作流程。\n\n\n\n\n\nPoS 共识算法的三大流派如下：\n\n\n1.Nakamoto-inspired（Peercoin）\n\n\n2.PBFT-inspired（Tendermint、Casper FFG）\n\n\n3.CBC Casper\n\n\nNakamoto-inspired PoS 是一种基于链的算法，模拟在 PoW 中挖矿。它通过伪随机选择验证者来创建新区块。其在 2012 年的「Peercoin」论文中首次提出，peercoin 是基于权益证明共识的第一个加密货币。\n\n\nPBFT-inspired（即 BFT-style）PoS 基于多年对拜占庭容错（尤其是 pBFT）的研究。在 2014 年的「Tendermint」论文中首次提出。一般来说，这些算法会选择一个代表账本规范交易的唯一链。\n\n\nCasper 直接继承了 BFT 算法（更精确的是 pBFT），做了一些修改。CBC Casper 是由 @VladZamfir 提出的，有一些很好的资料可以更充分地解释它。\n\n\nV 神的 CBC Casper 教程\n\n\nVladZamfir 写的 CBC Casper 历史\n\n\nCBC Casper 介绍视频\n\n\n虽然以太坊最终选择了 Casper FFG 而不是 CBC Casper，但对 CBC Casper 的研究也很有价值，比如满足以太坊需求的分叉选择规则「LMD-GHO…",
-          "link": "https://www.theblockbeats.info/news/32152",
-          "publishedOn": "2022-10-13T10:27:38.000Z",
-          "wordCount": null,
-          "title": "详解以太坊PoS共识Gasper：现在的以太坊是如何运行的",
-          "imageUrl": null
         }
       ]
     },
