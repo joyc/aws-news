@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32181",
+          "author": null,
+          "description": "Castaways：「Free To Own」的「动森+MineCraft」，交互攻略收录",
+          "link": "https://www.theblockbeats.info/news/32181",
+          "publishedOn": "2022-10-17T14:37:34.000Z",
+          "wordCount": null,
+          "title": "Castaways：「Free To Own」的「动森+MineCraft」，交互攻略收录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32177",
+          "author": null,
+          "description": "Solidity极简入门｜第三十讲：Try Catch",
+          "link": "https://www.theblockbeats.info/news/32177",
+          "publishedOn": "2022-10-17T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第三十讲：Try Catch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32173",
           "author": null,
           "description": "Pixels 是一款新的链游，主打 Play-to-Airdrop。其前 20,000 名玩家将在 10 月底（已确认）获得（token）PIXEL 和 BERRY。\n\n\n\n\n\n什么是 Pixels？\n\n\nPixels 是一款即将推出的 P2E 游戏，token 是 PIXEL 和 BERRY。\n此前于 2 月 12 日，Pixels 宣布完成 240 万美元种子轮融资，本轮融资由 Animoca Brands 和 PKO Investments 领投，OpenSea、Untapped Capital、Leonis Capital 参投。\nPixels 代币经济（如下图），其空投由团队确认，快照时间为 2022 年 10 月 31 日。\n\n\n\n\n\n\n\npixels 如何运作及其攻略\n\n\nPixel 类似于 FarmVille（虚拟农场游戏），但也有一些 Runescape（大型多人在线角色扮演游戏）的特点。\n这是一款 MMO（大型多人在线游戏），你可以在其中认识世界各地的玩家，同时获得奖励。\n玩游戏并获得积分，可以通过积分获取空投。获取空投资格：赚取积分并进入前 20,000 名积分排行榜\n-玩游戏\n\n-通过完成任务获得徽章\n\n-Land（他们的 NFT）也可以获得积分\n\n其游戏界面会有相关说明来指导你完成最简单的任务。\n\n\n\n\n\n\n\n攻略：\n\n\n1. 点击连接钱包： 将会看到空投界面、进度、和您的排名。\n获得第一个 premint badge（徽章），注册 （关注项目推特并转发，加入其 discord，输入邮件地址获取 premint 信息），10 分钟系统更新后你将获得第一个 badge。\n\n\n\n\n\n2. 在游戏中进行与 Barney 互动并按照对话进行下一步的操作\n-获取种子，在你的土地上播种、浇水、施肥\n\n-用剪刀收割\n\n-服用能量饮料\n\n-回到公共区域\n\n然后完成接下来的任务。点击视频教程 \n\n\n\n\n\n\n\n3. 获取 Barney Quest 后，可以加入 discord 群掌握最新动态。\n\n\n\n4.Pixel Farm Land NFT \n拥有 Land NFT（可视为一种奖励）后，后台会自动分给你 1500 分。Land NFT 不是玩游戏所必需，其 NFT 地板价为 0.5 eth。OpenSea链接\n\n\n\n\n\n\n结语\n\n\n-积分排行榜的快照时间是 10 月 31 日。\n-进入排行榜积分最多的前 20,000 的用户可以获得空投资格。\n\n\n\n可以通过以下三种方式获得积分：获得 badge、玩游戏以及获得 Land NFT，如果你有足够的时间，可以体验一下 Pixels！\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -93,16 +113,6 @@
           "publishedOn": "2022-10-15T06:34:22.000Z",
           "wordCount": null,
           "title": "VC对11类NFT初创企业的看法与建议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32163",
-          "author": null,
-          "description": "联储最大噩梦来临：另一些离转向越来越近的因素",
-          "link": "https://www.theblockbeats.info/news/32163",
-          "publishedOn": "2022-10-15T02:06:07.000Z",
-          "wordCount": null,
-          "title": "联储最大噩梦来临：另一些离转向越来越近的因素",
           "imageUrl": null
         }
       ]
