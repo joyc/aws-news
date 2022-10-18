@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32198",
+          "author": null,
+          "description": "原文标题：《\n\nSolidity 极简入门：31. ERC20\n\n》 \n原文作者：0xAA   \n\n\n我在重新学 solidity，可以在最近的一个简单的白讲基础上，也写下今天的最新教程，供小大家使用（编程大另一个-另一个），每周更新 13。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n这样，我们将介绍以太坊上的 ERC20 Token标准，并发行自己的测试\n\nToken\n\n。\n\n\nERC20\n\n\nERC20 是以太坊上的\n\nToken\n\n标准，来自 2015 年 11 月 V 神参与的 EIP20。它实现了\n\nToken\n\n流通的基本逻辑：\n\n\n账户余额\n转移\n授权许可\n\n\nToken\n\n总流入\n\n\nToken\n\n任选信息（）：名称，代号，小数暴露 \n\n\nIERC20\n\n\nIERC20 是 ERC20 \n\nToken\n\n标准的接口契约，规定了 ERC20 \n\nToken\n\n需要实现的功能和事件。\n\n\n事件\n\n\nIERC20 定义了一个和 2 事件，分别在事件授权和授权时被释放 TransferApproval\n\n\n\n\n\n函数\n\n\nIERC20 定义了 6 一个功能，提供了一个转移\n\nToken\n\n，并获得批准，以便其他链上的基本使用。\n\n\ntotalSupply() 返回\n\nToken\n\n总流入  \n\n\n\n\n\nbalanceOf() 返回账户余额  \n\n\n\n\n\ntransfer() 转移  \n\n\n\n\n\nallowance() 返回授权额度  \n\n\n\n\n\napprove() 授权  \n\n\n\n\n\ntransferFrom() 授权许可  \n\n\n\n\n\n实现 ERC20\n\n\n现在写一个 ERC20，规定将我们 IERC20 简单实现的功能。\n\n\n状态变量\n\n\n我们需要通过状态变量来记录账户余额，其中授权和金额为\n…",
+          "link": "https://www.theblockbeats.info/news/32198",
+          "publishedOn": "2022-10-18T14:23:38.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第三十一讲：ERC20",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32194",
           "author": null,
           "description": "原文标题：《Devcon 见闻与感想：以太坊已现国家雏形，技术丰盛和应用缺失》\n原文作者：kirinparadise.eth，y2z Ventures 联合创始人\n\n\n这是今年第二次来波哥大，也是第一次来 Devcon，可惜已经物是人非。\n\n\n同事大庄一直说今年 Devcon 是三年来第一次办，而 19 年大阪的 Devcon 出现了 comp、uni 等 DeFi 项目，是 DeFi Summer 乃至衍生到 2021 年底牛市的黎明曙光。所以从年初开始就觉得这次 Devcon 很重要，尤其叙事周期过去，创新缺乏的当下。\n\n\n谈谈几个流水账和感想：\n\n\n1、以太坊已呈现网络国家的雏形\n\n\n闭幕式上，说这次来参加 Devcon 的人有 6k 人，来自 113 个国家。闭幕后，舞团「安可」进场的一刹那，举起各国国旗，用拉美特有的舞蹈载歌载舞的那一刻，全场就「嗨」了起来。一路从 5 楼跳到带着参会者跳到 1 楼，这气氛哪是 Devcon，根本就是嘉年华、春晚、奥运会。\n\n\n相信每一个到来的参会者都会有一种身份认同感，无关于国籍，而是一种参与到以太坊或者加密货币革命的认同感。\n\n\n在波哥大举行 Devcon，彰显了以太坊基金会（EF）拓展发展中国家的野心，结合这次 Devcon 很重要的一个环节，Global Impact 和 Public Goods。\n\n\nDevcon 现场处处能见到各类组织在认真的进行理念宣传和技术落地尝试。\n\n\n可以说相较于一个组织，以太坊真的已经像一个」网络国家「一样存在着，并且积极输出价值观和影响力了。\n\n\n可能未来几年，Devcon 会像奥运会承载着全球和平等美好象征。考虑到未来打仗概率大大增加，新的文明之光，是值得期待。\n\n\n2、技术丰盛和应用缺失\n\n\n今年的 Devcon 的技术关键词基本上是，ZK、L2、大显学 MEV 、新的热点应该给到 Da…",
@@ -113,16 +123,6 @@
           "publishedOn": "2022-10-16T07:13:29.000Z",
           "wordCount": null,
           "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32167",
-          "author": null,
-          "description": "原文标题：《MOVE 语言首个 GAS 设计：Aptos 链上的 GAS 花费如何计算？》\n原文作者：Aptos Labs\n原文编译：Aptos Global\n\n\n\nAptos Labs 于 10 月 14 日公布了 Aptos 的 GAS 计划，因为 MOVE 语言的上一个版本其实是打算在没有 GAS 的前提下运行的，所以并没有为 GAS 计划做好准备，所以 Aptos labs 此次为 Aptos 建立的 GAS 计划是 MOVE 语言首个 GAS 设计，被官方称为「一场冒险」。\n\n\n在 Aptos 的 GAS 计划中，Aptos Labs 表明了自己制定 GAS 的原则、流程、如何计算 GAS、后期 GAS 费调整以及积极接受 Aptos 社区的建议。\n\n\n\n \nGAS 计量是 Aptos 和其他很多区块链的基本概念，它定义了执行和存储链上交易平台需的计算和存储资源量的抽象计算。GAS 计划将链上所有执行所消耗的成本确定，用于计算执行交易期间使用的 GAS 花费。\n\n\n流程\n\n\n \n为了有效的执行，我们在 Aptos 链上的流程是：\n\n\n1）定义我们的原则；\n\n\n2）准备一个评估框架，以确定每个执行的价格；\n\n\n3）为 Move 建立 GAS 计量系统和安全 GAS 代数；\n\n\n4）将上游 GAS 框架导入 Aptos；\n\n\n5）使 GAS 框架具有存储意识；\n\n\n6）最后，进一步细化 GAS 计划。\n\n\n原则\n\n\n \n我们的定义原则是:\n\n\n1、操作的成本应该与网络上的可用资源直接相关 (例如 CPU、内存、网络、存储 I/O 和空间使用等)。此外，当技术和流程改进后，GAS 所需的成本应该要随之降低。\n\n\n2、Gas 应该由链上治理设置，并且可以无缝配置。\n\n\n3、Gas 可以防止对网络中固定资源集的 DoS 攻击，并且可能需要根据网络情况通过治理建议迅速进行调整…",
-          "link": "https://www.theblockbeats.info/news/32167",
-          "publishedOn": "2022-10-16T03:09:10.000Z",
-          "wordCount": null,
-          "title": "Aptos公布Gas计划：花费如何计算？",
           "imageUrl": null
         }
       ]

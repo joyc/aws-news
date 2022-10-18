@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-18 datetime="2022-10-18T08:18:18.000Z">2022-10-18</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-18 datetime="2022-10-18T08:18:18.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-18 datetime="2022-10-18T14:23:38.000Z">2022-10-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-18 datetime="2022-10-18T14:23:38.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,156 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32198"
+                        open
+                      >
+                        <summary class="article-expander__title">Solidity极简入门｜第三十一讲：ERC20</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32198">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《
+
+Solidity 极简入门：31. ERC20
+
+》 
+原文作者：0xAA   
+
+
+我在重新学 solidity，可以在最近的一个简单的白讲基础上，也写下今天的最新教程，供小大家使用（编程大另一个-另一个），每周更新 13。
+
+
+所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity
+
+
+这样，我们将介绍以太坊上的 ERC20 Token标准，并发行自己的测试
+
+Token
+
+。
+
+
+ERC20
+
+
+ERC20 是以太坊上的
+
+Token
+
+标准，来自 2015 年 11 月 V 神参与的 EIP20。它实现了
+
+Token
+
+流通的基本逻辑：
+
+
+账户余额
+转移
+授权许可
+
+
+Token
+
+总流入
+
+
+Token
+
+任选信息（）：名称，代号，小数暴露 
+
+
+IERC20
+
+
+IERC20 是 ERC20 
+
+Token
+
+标准的接口契约，规定了 ERC20 
+
+Token
+
+需要实现的功能和事件。
+
+
+事件
+
+
+IERC20 定义了一个和 2 事件，分别在事件授权和授权时被释放 TransferApproval
+
+
+
+
+
+函数
+
+
+IERC20 定义了 6 一个功能，提供了一个转移
+
+Token
+
+，并获得批准，以便其他链上的基本使用。
+
+
+totalSupply() 返回
+
+Token
+
+总流入  
+
+
+
+
+
+balanceOf() 返回账户余额  
+
+
+
+
+
+transfer() 转移  
+
+
+
+
+
+allowance() 返回授权额度  
+
+
+
+
+
+approve() 授权  
+
+
+
+
+
+transferFrom() 授权许可  
+
+
+
+
+
+实现 ERC20
+
+
+现在写一个 ERC20，规定将我们 IERC20 简单实现的功能。
+
+
+状态变量
+
+
+我们需要通过状态变量来记录账户余额，其中授权和金额为
+…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -645,78 +795,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32167"
-                        open
-                      >
-                        <summary class="article-expander__title">Aptos公布Gas计划：花费如何计算？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32167">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《MOVE 语言首个 GAS 设计：Aptos 链上的 GAS 花费如何计算？》
-原文作者：Aptos Labs
-原文编译：Aptos Global
-
-
-
-Aptos Labs 于 10 月 14 日公布了 Aptos 的 GAS 计划，因为 MOVE 语言的上一个版本其实是打算在没有 GAS 的前提下运行的，所以并没有为 GAS 计划做好准备，所以 Aptos labs 此次为 Aptos 建立的 GAS 计划是 MOVE 语言首个 GAS 设计，被官方称为「一场冒险」。
-
-
-在 Aptos 的 GAS 计划中，Aptos Labs 表明了自己制定 GAS 的原则、流程、如何计算 GAS、后期 GAS 费调整以及积极接受 Aptos 社区的建议。
-
-
-
- 
-GAS 计量是 Aptos 和其他很多区块链的基本概念，它定义了执行和存储链上交易平台需的计算和存储资源量的抽象计算。GAS 计划将链上所有执行所消耗的成本确定，用于计算执行交易期间使用的 GAS 花费。
-
-
-流程
-
-
- 
-为了有效的执行，我们在 Aptos 链上的流程是：
-
-
-1）定义我们的原则；
-
-
-2）准备一个评估框架，以确定每个执行的价格；
-
-
-3）为 Move 建立 GAS 计量系统和安全 GAS 代数；
-
-
-4）将上游 GAS 框架导入 Aptos；
-
-
-5）使 GAS 框架具有存储意识；
-
-
-6）最后，进一步细化 GAS 计划。
-
-
-原则
-
-
- 
-我们的定义原则是:
-
-
-1、操作的成本应该与网络上的可用资源直接相关 (例如 CPU、内存、网络、存储 I/O 和空间使用等)。此外，当技术和流程改进后，GAS 所需的成本应该要随之降低。
-
-
-2、Gas 应该由链上治理设置，并且可以无缝配置。
-
-
-3、Gas 可以防止对网络中固定资源集的 DoS 攻击，并且可能需要根据网络情况通过治理建议迅速进行调整…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -724,8 +802,8 @@ GAS 计量是 Aptos 和其他很多区块链的基本概念，它定义了执行
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3273352746">
-        <time id="build-timestamp" datetime="2022-10-18T12:20:45.718Z">2022-10-18T12:20:45.718Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3275909046">
+        <time id="build-timestamp" datetime="2022-10-18T18:20:02.738Z">2022-10-18T18:20:02.738Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
