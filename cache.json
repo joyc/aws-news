@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32194",
+          "author": null,
+          "description": "原文标题：《Devcon 见闻与感想：以太坊已现国家雏形，技术丰盛和应用缺失》\n原文作者：kirinparadise.eth，y2z Ventures 联合创始人\n\n\n这是今年第二次来波哥大，也是第一次来 Devcon，可惜已经物是人非。\n\n\n同事大庄一直说今年 Devcon 是三年来第一次办，而 19 年大阪的 Devcon 出现了 comp、uni 等 DeFi 项目，是 DeFi Summer 乃至衍生到 2021 年底牛市的黎明曙光。所以从年初开始就觉得这次 Devcon 很重要，尤其叙事周期过去，创新缺乏的当下。\n\n\n谈谈几个流水账和感想：\n\n\n1、以太坊已呈现网络国家的雏形\n\n\n闭幕式上，说这次来参加 Devcon 的人有 6k 人，来自 113 个国家。闭幕后，舞团「安可」进场的一刹那，举起各国国旗，用拉美特有的舞蹈载歌载舞的那一刻，全场就「嗨」了起来。一路从 5 楼跳到带着参会者跳到 1 楼，这气氛哪是 Devcon，根本就是嘉年华、春晚、奥运会。\n\n\n相信每一个到来的参会者都会有一种身份认同感，无关于国籍，而是一种参与到以太坊或者加密货币革命的认同感。\n\n\n在波哥大举行 Devcon，彰显了以太坊基金会（EF）拓展发展中国家的野心，结合这次 Devcon 很重要的一个环节，Global Impact 和 Public Goods。\n\n\nDevcon 现场处处能见到各类组织在认真的进行理念宣传和技术落地尝试。\n\n\n可以说相较于一个组织，以太坊真的已经像一个」网络国家「一样存在着，并且积极输出价值观和影响力了。\n\n\n可能未来几年，Devcon 会像奥运会承载着全球和平等美好象征。考虑到未来打仗概率大大增加，新的文明之光，是值得期待。\n\n\n2、技术丰盛和应用缺失\n\n\n今年的 Devcon 的技术关键词基本上是，ZK、L2、大显学 MEV 、新的热点应该给到 Da…",
+          "link": "https://www.theblockbeats.info/news/32194",
+          "publishedOn": "2022-10-18T08:18:18.000Z",
+          "wordCount": null,
+          "title": "Devcon见闻与感想：以太坊已现国家雏形，技术丰盛和应用缺失",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32182",
           "author": null,
           "description": "时隔三年，以太坊开发们终于再次相聚，本次波哥大以太坊 Devcon 6 是合并完成后的首次开发者会议，意义不言而喻。大会焦距 ZK（零知识）、Rollup 等前沿技术，区块链技术赛道也更加精细化。为了能更好的解读本次会议，近距离直观感受以太坊最新的趋势和发展方向，BlockBeats 邀请到现身波哥大现场的业内人士，为我们解读 Devcon 6。\n\n\n\n\n嘉宾\nA&T Capital 的创始合伙人 Yu Jun；\ndForce 创始人 Mindao；\nQuest3 创始人 Chess；\nSmrti 联合创始人 Bowen；\nNiftyConnect 创始人 Neinei \n\n\n\n\n以下为本次 Twitter Space 文字稿整理，如需收听内容回放可点击BlockBeats播客。\n\n\n\n\n\n\n波哥大的 Devcon 6 与遗以往的 Devcon 有何不同？\n\n\n\n\nQuest3 创始人 Chess\n其实我不太好对比，这也是我第一次参加 Devcon，我就说下个人感受吧。首先是安全问题，我来波哥大之前听说这里治安不太好，比较担心自己的人身安全，但其实这里治安还不错。但波哥大基础设施比较落后。本次 Devcon 整体氛围很好，参会者大概三四千人，大部分是非亚裔的北美南美人和欧洲个人开发者，亚裔和中国人比较少。感人个人开发者较多，项目来做展台较多。\n\n\n\n\nSmrti 联创 Bowen\n\n参加黑客松的开发者普遍年轻，他们尝试用 SDK 去开发创新型产品。比如有些人用加密去发聊天，相比之下在 2019 年的 Devcon 上，大家普遍聊的是以太坊 2.0 合并实现等话题，而这次会议，大家主要聊通过 Layer2 升级，如何将单一链升级为模块化区块链。另一方面，Devcon VI 上，以太坊社区开发者生态多样性很强，有世界各地的人过来，当地人不太多。大多会议语种是英语，西语并不多，只…",
