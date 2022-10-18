@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-17T18:23:52.473Z</updated>
+    <updated>2022-10-18T00:57:51.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -354,63 +354,6 @@ GAS 计量是 Aptos 和其他很多区块链的基本概念，它定义了执行
 
 
 3、Gas 可以防止对网络中固定资源集的 DoS 攻击，并且可能需要根据网络情况通过治理建议迅速进行调整…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：DeWork最大DAO组织解散；Devcon的下一个独角兽会是谁？]]></title>
-        <id>https://www.theblockbeats.info/news/32166</id>
-        <link href="https://www.theblockbeats.info/news/32166"/>
-        <updated>2022-10-15T10:52:56.000Z</updated>
-        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
-
-
- 
-《PandaDAO 万字专访：DeWork 最大 DAO 组织解散，我们学到了什么教训？》
-
-
- 
-在不到 1 年的时间里，PandaDAO 从一个无人问津的兴趣小组，发展成了主流去中心化开发平台 DeWork 上的最大 DAO 组织。但与不少宏伟工程一样，它的分裂与解散也可以用「轰然倒塌」来形容。社区在愤怒与失望的同时，也开始反思，PandaDAO 到底哪里出了问题？这些问题会不会在其他 DAO 组织身上发生？我们专访了 PandaDAO 社区的创始人、多签持有人，以及社区主要成员。
-
-
- 
-《十天 6 起安全事故，损失金额超 8 亿美元，链上安全何时解决？》
-
-
- 
-10 月的 Crypto 市场并没有迎来意外的回暖，反而似乎成了黑客乐园。据不完全统计，仅十二天黑客攻击造成的损失一度超过 8 亿美元。不少用户戏称，2020 年是 DeFi Summer；2021 年是 NFT Summer；2022 年是 Hack Summer。本文将 10 月 1 日至今的黑客攻击事件汇总，再次提醒用户注意资产安全，对于授权合约记得及时取消。
-
-
- 
-《【专题】Huobi Global 完成股权交割后，Justin Sun 出席全员大会并发言》
-
-
- 
-在 Huobi 宣布被收购的第二天，有消息人士表示波场创始人 Justin Sun 实则为本次收购的核心出资人，虽然随后波场中文运营团队否认 Justin Sun 和波场参与了 Huobi 收购，但种种迹象表明，Justin Sun 在 Huobi 今后的运营中将扮演举足轻重的角色。
-
-
-…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockBeats NEXT|Liquality创始人：多链未来不可避免，流动性将更具价值]]></title>
-        <id>https://www.theblockbeats.info/news/32165</id>
-        <link href="https://www.theblockbeats.info/news/32165"/>
-        <updated>2022-10-15T10:18:22.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats NEXT|Liquality创始人：多链未来不可避免，流动性将更具价值]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VC对11类NFT初创企业的看法与建议]]></title>
-        <id>https://www.theblockbeats.info/news/32164</id>
-        <link href="https://www.theblockbeats.info/news/32164"/>
-        <updated>2022-10-15T06:34:22.000Z</updated>
-        <summary type="html"><![CDATA[VC对11类NFT初创企业的看法与建议]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
