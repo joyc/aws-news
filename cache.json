@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32201",
+          "author": null,
+          "description": "原文作者：Jack(0x137)，BlockBeats\n\n\n\n\n在谈到国内 DAO 组织时，很多人最先想到的就是 SeeDAO。这个年轻的 DAO 探索者，用了不到一年时间，就在国内外建立起了强大的社区认同。不过与很多人的预想不同，SeeDAO 的发展之路远非一帆风顺。从诞生至今，SeeDAO 在 11 个月里经历了 5 次治理结构上的大变，社区也曾一度陷入停滞状态。\n\n\n\n\n在困难时期，许多像 Shawn 这样经验丰富的 DAO 探索者临危受命，将 SeeDAO 从危险边缘拉了回来。10 月 6 日，SeeDAO 公布了《SeeDAO 元规则》，在经历了长达 3 个月的混沌期后，SeeDAO 进入了新的元规则时代。\n\n\n\n\nSeeDAO 过去遇到了怎样的问题？新的元规则作出了什么改变？其他 DAO 组织能从中学到哪些经验？为此 BlockBeats 对 DAO 领域资深参与者、SeeDAO 战略孵化器负责人 Shawn 进行了专访。\n\n\n\n\n关键词：SeeDAO、元规则、战略孵化器、社区文化、DAO 治理、DAO 工具\n\n\n\n\nSeeDAO 简史\n\n\n\n\nSeeDAO 的成立与发展，充斥着各种偶然与混沌。\n\n\n\n\n在 2021 年 11 月 SeeDAO 之前，SeeDAO 的两位发起人唐晗、白鱼成立了一家 NFT 发行公司 CryptoC，从一开始就希望在 DAO 领域做尝试和探索。但因为对社区的建立和治理理解并不深刻，「DAO 化」工作的进展一直停留在吸引 Discord 用户上，社区也还没有真正意义上的成员和贡献者，大都是公司的核心成员和员工，这时的 SeeDAO 仍处于公司中心化运营的形态。\n\n\n\n\n尽管当时正值 NFT 热潮，但团队却没有选择借助 NFT 为社区「吸粉」。唐晗在一次团队讨论中说：「我无法说明 SeeDAO 是什么，但我可以说它不是什么。它绝不是财…",
+          "link": "https://www.theblockbeats.info/news/32201",
+          "publishedOn": "2022-10-19T08:25:43.000Z",
+          "wordCount": null,
+          "title": "SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32199",
           "author": null,
           "description": "原视频来源：AptosEden\n\n\nMOVE 是一门智能合约开发语言，随着新公链 Aptos 的崛起，MOVE 语言也渐渐进入大众视野。在实际业务场景中，我们经常会在一个函数中返回多个值，这时我们就需要运用到 Move 语言的元组知识。本节对引用举几个例子来巩固上一节的课程。\n \n\n\n更多视频，请观看《MOVE开发入门第十一节：元组和引用》\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
