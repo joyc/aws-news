@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-19T12:20:58.504Z</updated>
+    <updated>2022-10-19T18:23:54.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[打破刻板印象， 元镜为何要搭建NFT交易平台？]]></title>
+        <id>https://www.theblockbeats.info/news/32215</id>
+        <link href="https://www.theblockbeats.info/news/32215"/>
+        <updated>2022-10-19T14:25:52.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：元镜 DAO
+原文作者：元镜小花
+
+
+随着 NFT 的大火和无聊猿的出圈，非同质化代币一跃登上 web3 世界的舞台，并开始在我们的生活中传播。伴随着越来越多的人换上 BAYC、Azuki、Doodles 等蓝筹 NFT 头像，我们一直在思考，为什么我们在国内不能拥有自己的 NFT 头像？于是，一种属于中国的 NFT 头像：数字藏品在国内开始广泛传播，但是这个舶来品的发展貌似并没有想象中那么顺利~
+ 
+ 
+1. 疯狂的数藏市场
+ 
+在不足一年的时间里，数字藏品已经快速发展成为了国内各行业及资本追逐的风口。据数据研究平台头豹研究院测算，2026 年我国数字藏品市场规模将达 300 亿元。更有报告预测，我国数字藏品交易市场将在 2~3 年间达到 500 亿元到 800 亿元。大环境利好数字藏品发展，布局企业也在不断增加。据企查查数据，国内与数字藏品相关的企业有 262 家，其中 146 家位于广东省内。这仅仅是企业名称或主营业务有数字藏品的，实际涉足该领域的企业数远不止这些。为数字藏品提供区块链技术支持的企业更多，其中既有阿里巴巴、腾讯、百度、网易等互联网企业，也有中国移动、中国联通等国有背景企业。据中国信息通信研究院数据，截至 2022 年 3 月，中国区块链企业数量超过 1300 家。另有数据显示，截至今年 6 月，我国已有数字藏品交易平台约 500 家。
+ 
+但是，在市场火爆的背后，各种乱象也随之丛生:「拉升」、「老鼠仓」、「洗售」，部分平台发售一波直接注销跑路，或者软 rug, 人们对数藏的市场的印象停留在炒作这一刻板印象，就是在这种大背景下，元镜平台诞生了~
+
+
+2. 什么是元镜
+ 
+元镜 NFT 交易平台于 6 月 11 日上线，是国内基于 Web3.0 和区块链技术的去中心化 NFT 电商平台，属于 conflux 树图区块链上面的一个生态，链接 Any…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教你如何识别、分析和避免NFT「洗盘交易」]]></title>
+        <id>https://www.theblockbeats.info/news/32212</id>
+        <link href="https://www.theblockbeats.info/news/32212"/>
+        <updated>2022-10-19T14:23:59.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《如何识别 NFT「洗盘交易」？》
+原文作者：ANNDY LIAN，
+
+Forkast 
+原文编译：Katie 辜，
+
+Odaily 星球日报
+
+
+
+对金融人士来说，「洗盘交易」（wash trading）并不是一个新词。加密货币也以相同的买入和卖出手法来回进行「洗盘」， NFT  市场亦是如此。「洗盘交易」使得 NFT 爱好者很难衡量市场对某一系列的真正兴趣，还夸大和扭曲了交易量，对交易平台的分析也造成误导。
+那如何用链上数据来识别「洗盘交易」，检测可疑活动呢？
+
+
+
+
+
+什么是「洗盘交易」？
+
+
+洗盘交易是一种市场操纵形式，投资者同时买卖同一种金融产品，在市场中制造误导。
+
+
+在 NFT 交易中，当同一用户作为 NFT 交易的买卖双方时，就会发生「洗盘交易」。与传统证券不同，NFT 市场不受政府监管，地址背后的真实身份难判别。因此，洗盘交易在 NFT 市场非常普遍。
+
+
+为什么有人洗 NFT？
+
+
+NFT 领域「洗盘」的背后有两个主要动机。
+
+
+获取平台奖励
+
+
+一些 NFT 市场，如 X2Y2，根据活跃用户的交易量给予他们回报（以协议Token的形式），以此来奖励他们。洗盘交易者利用这一点，通过产生大量虚假交易量来最大化他们的回报。反过来，这很容易欺骗想要根据流动性定量分析 NFT 藏品或市场的用户。
+
+
+创造价值或流动性的假象
+
+
+为了制造一种流动性的假象和特定 NFT 藏品的虚高价值，一些无良创造者转向洗盘交易来欺骗买家。当真正的买家被骗以抬高的价格从他们那里购买 NFT 时，他们就会从中获利。这种类型的洗盘交易者用新的钱包地址隐藏他们的活动，这些地址由中心化交易平台钱包自筹资金。这种类型的洗盘交易产生的交易量相对较小，对市场的破坏性不如第 1 类洗盘交易。
+
+
+「洗盘交易」是怎样进行的？
+
+
+由于第一种「洗盘交易」对 NFT 交易数据的干扰性，我们用从…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？]]></title>
         <id>https://www.theblockbeats.info/news/32201</id>
@@ -622,26 +705,6 @@ Pixel 类似于 FarmVille（虚拟农场游戏），但也有一些 Runescape（
 
 
 本文将介绍加密钱包安全和托管平台的特征和缺陷，涵盖未来最需要关注和发展的领域，旨在帮助 Web3 用户更好地理解以非托管方式保护加密资产的复杂性。此外，我们也想帮助工程师识别和避免钱包开发中…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊波哥大Devcon重要演讲精选（一）]]></title>
-        <id>https://www.theblockbeats.info/news/32170</id>
-        <link href="https://www.theblockbeats.info/news/32170"/>
-        <updated>2022-10-17T04:03:04.000Z</updated>
-        <summary type="html"><![CDATA[以太坊波哥大Devcon重要演讲精选（一）]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spola Labs：从星探到Club DAO的Web3体育平台| 项目介绍]]></title>
-        <id>https://www.theblockbeats.info/news/32169</id>
-        <link href="https://www.theblockbeats.info/news/32169"/>
-        <updated>2022-10-17T03:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Spola Labs：从星探到Club DAO的Web3体育平台| 项目介绍]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
