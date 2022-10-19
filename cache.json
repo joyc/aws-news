@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32199",
+          "author": null,
+          "description": "原视频来源：AptosEden\n\n\nMOVE 是一门智能合约开发语言，随着新公链 Aptos 的崛起，MOVE 语言也渐渐进入大众视野。在实际业务场景中，我们经常会在一个函数中返回多个值，这时我们就需要运用到 Move 语言的元组知识。本节对引用举几个例子来巩固上一节的课程。\n \n\n\n更多视频，请观看《MOVE开发入门第十一节：元组和引用》\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32199",
+          "publishedOn": "2022-10-19T03:44:30.000Z",
+          "wordCount": null,
+          "title": "MOVE开发入门第十二节：引用举例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32197",
+          "author": null,
+          "description": "原文标题：《\n\n以太坊合并一月后，各 POW 公链算力对比\n\n》\n原文作者：wesely\n\n\n\n\n一个月前，以太坊的成功合并开启了它的全新时代，而以太坊矿工也成为一个历史性的名词，伴随着的还有其 50 亿美元的矿机市场和 850TH/S 庞大算力的烟消云散。好在合并是一个确定性的事件，让以以太坊矿工有足够的时间来进行自己的选择，有人积极寻找下一个标的，有人在熊市中观望，也有人在 ETH POW 时代的落幕那一刻选择了彻底的退出，合并一个月后，我们通过各公链算力的变化来一瞥矿工群体的迁徙落点，看看谁是最大的以太坊算力迁入地？哪些项目影响最大？算力在迁入之后又经历了哪些变化？\n\n\n\n\n过去以太坊挖矿采用的是 Ethash 算法，由于 Ethash 具有一定的抗 ASIC 性，所以以太坊矿机没有像比特币矿机一样形成大规模的专业 ASIC 矿机，在算力上，以太坊显卡矿机比 ASIC 矿机也差了 2 个量级，也正是这种差异，让以太坊显卡矿机无法与 BTC、BCH 等公链上 ASIC 专业矿机进行竞争。\n\n\n\n\n所以，目前，能承接以太坊算力的 POW 公链并不多，主要集中在 ETC、ETHW、Ravencoin、ERG 等一些中小公链上。\n\n\n\n\n\n当前市场上主要的 POW 公链 数据来源：f2pool\n\n\n\n\nEthereum Classic\n\n\n\n\n简介：以太坊经典，因为 The DAO 黑客事件分叉而出的公链，这也是以太坊社区最大的一次分裂，ETC 虽然继承以太坊最初的极客精神，但在后续发展中逐步落伍，生态发展也无法与现 ETH 和其他 L1 相抗衡。从下图的算力增长情况可以看出，在以太坊合并前三天，巨量的算力开始涌入，从最初的 55.67TH/S 上升到 234.35TH/S，增长了近四倍，是以太坊算力迁徙的最主要目的地。\n\n\n\n\n当前算力：146.93TH/S 算力增 ( 减…",
+          "link": "https://www.theblockbeats.info/news/32197",
+          "publishedOn": "2022-10-19T01:44:30.000Z",
+          "wordCount": null,
+          "title": "以太坊合并一个月后，各poW公链算力情况如何？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32198",
           "author": null,
           "description": "原文标题：《\n\nSolidity 极简入门：31. ERC20\n\n》 \n原文作者：0xAA   \n\n\n我在重新学 solidity，可以在最近的一个简单的白讲基础上，也写下今天的最新教程，供小大家使用（编程大另一个-另一个），每周更新 13。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n这样，我们将介绍以太坊上的 ERC20 Token标准，并发行自己的测试\n\nToken\n\n。\n\n\nERC20\n\n\nERC20 是以太坊上的\n\nToken\n\n标准，来自 2015 年 11 月 V 神参与的 EIP20。它实现了\n\nToken\n\n流通的基本逻辑：\n\n\n账户余额\n转移\n授权许可\n\n\nToken\n\n总流入\n\n\nToken\n\n任选信息（）：名称，代号，小数暴露 \n\n\nIERC20\n\n\nIERC20 是 ERC20 \n\nToken\n\n标准的接口契约，规定了 ERC20 \n\nToken\n\n需要实现的功能和事件。\n\n\n事件\n\n\nIERC20 定义了一个和 2 事件，分别在事件授权和授权时被释放 TransferApproval\n\n\n\n\n\n函数\n\n\nIERC20 定义了 6 一个功能，提供了一个转移\n\nToken\n\n，并获得批准，以便其他链上的基本使用。\n\n\ntotalSupply() 返回\n\nToken\n\n总流入  \n\n\n\n\n\nbalanceOf() 返回账户余额  \n\n\n\n\n\ntransfer() 转移  \n\n\n\n\n\nallowance() 返回授权额度  \n\n\n\n\n\napprove() 授权  \n\n\n\n\n\ntransferFrom() 授权许可  \n\n\n\n\n\n实现 ERC20\n\n\n现在写一个 ERC20，规定将我们 IERC20 简单实现的功能。\n\n\n状态变量\n\n\n我们需要通过状态变量来记录账户余额，其中授权和金额为\n…",
