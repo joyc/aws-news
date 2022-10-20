@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-20T00:53:15.513Z</updated>
+    <updated>2022-10-20T06:20:00.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点6大游戏公会现状：收益下降，急需转型]]></title>
+        <id>https://www.theblockbeats.info/news/32213</id>
+        <link href="https://www.theblockbeats.info/news/32213"/>
+        <updated>2022-10-20T01:35:05.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Gaming Guilds Update》
+原文作者：Jayden Andrew，Delphi Digital 分析师
+原文编译：隔夜的粥，
+
+DeFi 之道
+
+
+ 
+一、介绍
+ 
+对于 crypto 投资者来说，在 2022 年持有游戏公会 Token 会是一件非常痛苦的事。本报告中比较的每个 Token 在今年都下跌了 80% 以上。当然，最近很多 crypto 子领域都受到了沉重打击，但与游戏相关的Token已经感受到了无情熊市的全部愤怒。它引出了这样一个问题：在缺乏超增长的 P2E 游戏的情况下，crypto 游戏公会是否具有产品市场契合度？
+
+
+如果我们对公会的定义仅限于「P2E 奖学金提供者」，那么答案可能是否定的。然而，尽管很多公会手头拮据，并且市场环境低迷，但它们仍保留了数万名不同忠诚度的成员。对于有幸发现自己处于这种境地的 crypto 游戏公会来说，围绕盈利以及同时出现的熊市的糟糕情绪并不意味着游戏结束。然而，这确实意味着幸存的公会必须体现出「支点」，或者至少改变方向，如果他们真的想在 crypto 游戏中玩长期游戏的话。
+
+
+在本报告中，我们涵盖了六个游戏公会，重点介绍了它们今年在市场上的表现、财务状况以及它们如何适应不断发展的 crypto 游戏环境。
+ 
+二、全方面数据对比
+ 
+
+
+
+下表列出了各游戏公会在共享功能以及与其他公会不同的功能方面的正面交锋情况。
+
+
+
+
+
+这些公会有一些共同的基本特征。在实际意义上，公会是一组围绕共同利益、价值观和目标而组成的个人，以实现成员的共同利益。在 crypto 游戏行业，游戏显然是他们的重点。它们的不同之处在于采用的具体特征和策略——上表列出了其中的一些。
+
+
+最常见的特点是奖学金计划，除了 BreederDAO 以外，所有提到的游戏公会都提供了奖学金计划。这是有道理的，因为 crypto 游戏公…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打破刻板印象， 元镜为何要搭建NFT交易平台？]]></title>
         <id>https://www.theblockbeats.info/news/32215</id>
@@ -85,6 +127,53 @@ NFT 领域「洗盘」的背后有两个主要动机。
 
 
 由于第一种「洗盘交易」对 NFT 交易数据的干扰性，我们用从…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【最新】错过了 Aptos，来看看 Sui 还有哪些空投机会]]></title>
+        <id>https://www.theblockbeats.info/news/32214</id>
+        <link href="https://www.theblockbeats.info/news/32214"/>
+        <updated>2022-10-19T13:35:05.000Z</updated>
+        <summary type="html"><![CDATA[10 月 19 日，Aptos 官方向超过 11 万社区用户空投了逾 2000 万枚 APT，只要参与过 APTOS 激励测试网申请或铸造测试网 NFT 的用户便可申领。结合当时 APT 的币价，几乎人均空投金额至少在万元以上，而对于拥有成百上千账号的「科学家」们，甚至直接高调地宣称从 Web3 毕业。
+
+
+
+
+另一方面，在 APT 的空投引爆社群的同时，一些用户则开始转移到了下一个「战场」——同样是 Move 语言开发的 Sui 公链。并且，Sui 大部分团队也来自于原 Facebook，和受到 a16z、FTX Ventures 等众多明星机构的追捧。那么，继 Aptos 过后，Sui 生态又有哪些空投机会呢，BlockBeats 整理了如下：
+
+
+
+
+1）8 月初，Sui 激励测试网开放了注册（目前已截止），每个参与的验证者的测试网「wave」将获得 2000 SUI 奖励。当时，BlockBeats 发文《新公链 Sui 测试网明牌奖励，手把手教你搭建节点》，读者可回顾下，以准备下一批测试网的开放注册。
+
+
+
+
+2）那 Sui 生态有哪些项目值得交互？在 8 月，BlockBeats 曾撰文《Move 双子星之一，Sui 生态有哪些项目值得关注》，详细梳理了 Sui 生态细分赛道一些重要项目，读者可作为参考。
+
+
+
+
+但经过两个月后，Sui 生态又经历了快速的发展，涌现出了一些不错的项目。接下来，BlockBeats 将在原基础上对这些项目做出更新。一些还未正式上线的项目，读者也可提前关注。
+
+
+
+
+
+
+钱包 / 基础设施
+
+
+
+
+Suiet
+
+
+
+
+Suiet 是 Sui 上首个支持 NFT 的钱包，并支持个性化的钱包导入/导出和多钱包功能。此外，在 Sui 官方团队的帮助下，Suiet 正在提出 Sui dev 标准和 NFT/FT 最佳实践，以帮助新项目快速掌…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
@@ -535,26 +624,6 @@ b. 本周内两年期美国国债一度上涨至 4.43%。
 
 1. 日本 10 年期国债收益率极低约 0.245%，海外投资者纷纷逃离日本债市，9 月抛售日本债券规模达 6.9 万亿日元（约 439 亿美元）。
 a. 日本央行持续买入国债以控制收益率曲…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castaways：「Free To Own」的「动森+MineCraft」，交互攻略收录]]></title>
-        <id>https://www.theblockbeats.info/news/32181</id>
-        <link href="https://www.theblockbeats.info/news/32181"/>
-        <updated>2022-10-17T14:37:34.000Z</updated>
-        <summary type="html"><![CDATA[Castaways：「Free To Own」的「动森+MineCraft」，交互攻略收录]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第三十讲：Try Catch]]></title>
-        <id>https://www.theblockbeats.info/news/32177</id>
-        <link href="https://www.theblockbeats.info/news/32177"/>
-        <updated>2022-10-17T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Solidity极简入门｜第三十讲：Try Catch]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
