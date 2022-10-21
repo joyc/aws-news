@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32239",
+          "author": null,
+          "description": "原文作者：@jolestar\n\n\n\n\n最近关于用户和 Move 智能合约交互，不需要授权 (Approve) 是更安全还是更不安全的争论很多，这里尝试用通俗的方式来解释一下二者背后的区别以及 Move 这样设计背后的思想。  \n\n\n我们先理解一下用户和智能合约交互的方式。当我们签了一个交易，去调用一个链上的智能合约，就好比从物理世界进入了一个智能合约的数字世界，我们在这个数字世界有一个分身，而这个分身做什么，是智能合约定义的。  \n\n\n在 EVM 中，每个合约都相当于一个独立的小世界，分身进入这个世界后，只能操作用户在当前合约世界中的状态（资产）。  \n\n\n比如进入 swap 世界，想用自己的 usdt 交换其他资产，而 usdt 存在定义 usdt 的那个合约世界，没办法直接在 swap 中以自己的身份从 usdt 合约里提取资产。于是用户只能先去 usdt 的合约世界执行 approve，告诉 usdt 的合约，swap 可以代自己提取自己的资产，然后再进入 swap 世界进行操作。  \n\n\n操作完成之后，再去 usdt 那边取消授权（revoke）。但这里的 approve 和 revoke 操作都需要独立的交易，用户往往为了节省 gas 费用，不进行 revoke，结果如果 swap 合约出安全问题，用户的资产就可能在不知情的情况下被盗取。  \n\n\n而在 Move 中，所有的合约都在一个大的数字世界运行。用户的数字分身可以自由的在合约间移动，执行任何操作，同时用户的状态（资产）存在用户自己的存储空间。  \n\n\n用户从 swap 入口进入，从自己的余额提取 usdt，交换，存储可以在同一个交易里原子化完成。这种模式给合约带来更自由的组合模式，可以玩出很多 EVM 上很难实现的组合玩法，这也是 EVM 上的账户抽象方案想实现的模式。当然，这也带来了新的安全挑战。  \n\n\n那 EVM 中能否直接增加一个特性，让合约间的调用可以把用户身份直接带过去？这个技术上是可以实现的，但 EVM 中支持动态调用，可以调用任意地址的合约，让这种操作的风险变的很难度量，同时 EVM 的状态变更对用户和钱包都不友好，钱包很难通过状态变化对用户进行提示。  \n\n\n而 Move 中解决这个安全挑战有两个方法： \n\n\n1. 在预执行合约的时候把合约执行后的状态变更提示给用户，让用户可以知道这个交易操作了自己的哪些重要资产，以及执行后的结果。这个方法 StarMask 中已经实现，参看链接以及附图 https://starcoin.medium.com/starmask-v4-6-\n\n\n\n\n\n2. 可能有部分合约可以通过设置条件，让一部分用户预执行的时候无法发现状态变更。@0xmetazen 的分析 https://twitter.com/0xmetazen/status/1582581013972414465 ，但 Move 中没有动态调用，合约在部署时，它的执行逻辑就是确定的。可以通过静态分析字节码，得到合约所有可能路径上操作的状态，在区块浏览器或钱包里提示给用户。  \n\n\nEVM 和 Move 的两种方案，带来的安全风险是不一样的。Approve 方案的安全风险是把一个即时的授权变为长期授权，它的风险不是立刻发生的，比如合约漏洞未被发现或者恶意合约放长线钓大鱼。而一旦发生，用户往往很被动，很多用户可能都忘记授权过哪些合约了。 \n\n\n\n\n \n\n\n对 Move 用户的安全建议： \n\n\n1. 选用状态变更提示更完备的钱包，并尝试理解钱包的提示。 \n2. 不要随意和来源未知或未开源的 DApp 交互。 \n3. 如果做不到上面两点，可以等别人先趟一下坑。\n\n\nMove 在安全方面的挑战以及改进方案不仅仅是这些，我会在《为什么是 Move》系列的安全篇里详述，想了解的朋友可以关注一下。  \n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32239",
+          "publishedOn": "2022-10-21T05:01:56.000Z",
+          "wordCount": null,
+          "title": "「不授权」到底安全吗：Move背后的设计思想",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32238",
+          "author": null,
+          "description": "原文标题：《名词解释：Web3 账户相关概念大梳理》\n原文作者：知县，Unipass 创始人\n\n\n刚刚结束的 Devcon 上，账户抽象算是最热的几个话题之一，最近可以经常看到 AA / EOA / SCW / 4337 等缩写和代号在各种 talk、panel 和信息流里出现。再加上叙事开始往「Onboarding next billion users」的方向发展，一些新的形容词也开始出现在产品之前，比如 seedless / gasless / social recovery / non-custodial。相信看完这两句的你已经开始脑壳疼了，那么接下来就让我尽自己所能来帮大家梳理一下这些名词概念到底代表什么。\n\n\n阅前提示：本文不是严肃的技术文档，可能会用不精确但容易理解的语言进行阐述或比喻，欢迎大家以此为起点深入探索这些技术的细节。\n\n\nEOA - Externally Owned Accounts\n\n\nEOA 中文叫做外部账户，我们最熟悉的 MetaMask 生成的地址就是 EOA。它的特点是原理简单，比如生成规则是：\n\n\n私钥 - 公钥 - Keccak256 哈希 - 最后 20 Bytes - 十六进制字符串（EOA 地址）\n\n\n可以看出这个规则非常直接，全是由数学变换计算出来的，生成的地址内部没有任何结构和逻辑。节点验证一笔交易是否被地址 owner 授权的时候也是固定的规则：\n\n\n交易签名 - ec_recover - 公钥 -（用上面的规则生成）地址 - 对比要操作的地址\n\n\n对比结果一致那么验签通过，进行后续流程；不通过则直接打回，不会进一步广播交易。\n\n\nEOA 的另一个设定是作为交易的发起方并支付 gas，相对应的 CA（合约账户）只能被其他 CA 或者 EOA 调用。也就是说，EOA 是交易的触发器，一笔交易无论后面有多少合约调用，一开始都必须…",
+          "link": "https://www.theblockbeats.info/news/32238",
+          "publishedOn": "2022-10-21T03:01:56.000Z",
+          "wordCount": null,
+          "title": "详解近期热议的「账户抽象」：Devcon后的新风口？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32229",
           "author": null,
           "description": "原文标题：《Buidler DAO 蝗虫精选（11）：DAO 的发展建设必读文章》\n原文来源：\n\nBuidler DAO\n\n\n\n文章速览：\n\n\n01/ 关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！ \n02/ DeWork 最大 DAO 组织解散，我们学到了什么教训？@Frank\n03/ DAO 的故事——历史和影响  @ 菠菜菠菜！ \n04/ DAO 需要使命，而非 CEO @ 菠菜菠菜！ \n05/ a16z：如何挑选一个 DAO 法人实体 @ 菠菜菠菜！ \n06/ DAO 还有希望吗？—大阪 Devcon 手记 @ 菠菜菠菜！ \n07/ PartyDAO：估值最高的社区 DAO 是怎么做产品的 @Tommy\n08/ DAO 的去中心化程度判定：钟形曲线 @Tommy\n\n\n\n\n\n\n关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！\n\n\n\n\n\n去中心化自治组织（DAO）是一个围绕特定使命组织起来的团体。DAO 通过一套在区块链上执行的共享规则进行协作。DAO 本身只是一个特定的组织结构，它被用来控制共享的经济资源以及组织的协议规则，所以每个 DAO 的运作方式都不尽相同。有些 DAO 是封闭的（译者注：有严格的准入门槛），有些则是开放的，任何人都可以加入和贡献。在一些 DAO 里面积极的贡献者可以从 DAO 获得工作报酬。\n \n\n\n这篇文章涵盖了作者在 DAO 工作中的一些主要收获。其中大部分是来自作者在 Gitcoin DAO 当代表的经历，但作者也参与和观察了许多其他 DAO。作者认为不存在完美的 DAO 结构，因为每个 DAO 都有自己的文化，所以一个 DAO 奉为圭臬的东西不一定对另一个 DAO 有用。文中内容反映了作者的个人经历和观点，其他人很可能和我意见不同。整个行业领域也在不断地迭代，试图去找出哪些是可行的，哪些是不可行的。\n\n\n\n…",
@@ -133,16 +153,6 @@
           "publishedOn": "2022-10-19T01:44:30.000Z",
           "wordCount": null,
           "title": "以太坊合并一个月后，各poW公链算力情况如何？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32198",
-          "author": null,
-          "description": "原文标题：《\n\nSolidity 极简入门：31. ERC20\n\n》 \n原文作者：0xAA   \n\n\n我在重新学 solidity，可以在最近的一个简单的白讲基础上，也写下今天的最新教程，供小大家使用（编程大另一个-另一个），每周更新 13。\n\n\n所有代码和教程开源在 github：github.com/AmazingAng/WTFSolidity\n\n\n这样，我们将介绍以太坊上的 ERC20 Token标准，并发行自己的测试\n\nToken\n\n。\n\n\nERC20\n\n\nERC20 是以太坊上的\n\nToken\n\n标准，来自 2015 年 11 月 V 神参与的 EIP20。它实现了\n\nToken\n\n流通的基本逻辑：\n\n\n账户余额\n转移\n授权许可\n\n\nToken\n\n总流入\n\n\nToken\n\n任选信息（）：名称，代号，小数暴露 \n\n\nIERC20\n\n\nIERC20 是 ERC20 \n\nToken\n\n标准的接口契约，规定了 ERC20 \n\nToken\n\n需要实现的功能和事件。\n\n\n事件\n\n\nIERC20 定义了一个和 2 事件，分别在事件授权和授权时被释放 TransferApproval\n\n\n\n\n\n函数\n\n\nIERC20 定义了 6 一个功能，提供了一个转移\n\nToken\n\n，并获得批准，以便其他链上的基本使用。\n\n\ntotalSupply() 返回\n\nToken\n\n总流入  \n\n\n\n\n\nbalanceOf() 返回账户余额  \n\n\n\n\n\ntransfer() 转移  \n\n\n\n\n\nallowance() 返回授权额度  \n\n\n\n\n\napprove() 授权  \n\n\n\n\n\ntransferFrom() 授权许可  \n\n\n\n\n\n实现 ERC20\n\n\n现在写一个 ERC20，规定将我们 IERC20 简单实现的功能。\n\n\n状态变量\n\n\n我们需要通过状态变量来记录账户余额，其中授权和金额为\n…",
-          "link": "https://www.theblockbeats.info/news/32198",
-          "publishedOn": "2022-10-18T14:23:38.000Z",
-          "wordCount": null,
-          "title": "Solidity极简入门｜第三十一讲：ERC20",
           "imageUrl": null
         }
       ]
