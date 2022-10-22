@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32250",
+          "author": null,
+          "description": "原文标题：《LD Research：一文详解以太坊扩容全方案》\n原文作者：0xRJ_eth（Twitter：@0xRJ_eth）\n原文来源：LD Capital Research\n\n\n\n\n今天主要是从一个自上而下结合时间发展的视角整理了以太坊扩容方案，内容涵盖了一些市场如今已经不再提及的旧方案，有些可能大家听都没听说过。但我认为把大框架和相互逻辑理清楚是非常重要的，这有助于我们理解扩容的发展经历了哪些创新和组合，遇到了哪些问题，不同时期市场的关注点是什么，以及为何目前 Rollup 方案胜出。这些也都有助于我们看清大方向。\n\n\n\n\n个人在做 research 的时候，发现网上基本没太多文章从这个角度来全面的汇总和对比。我最初纯粹是因为完全不了解扩容，感觉方案很多，各有利弊，有些还很相似，也想不明白为什么，所以花了大量的时间挖不同时期的文章。但这两周下来，我意识到结合了时间角度的整理对我的帮助特别大。不过今天信息量应该会很大，因为不可避免地会涉及很多的技术和概念，如果能耐心读完，相信对构建整个扩容赛道的大框架和逻辑梳理很有帮助。\n\n\n\n\n\n一、起因\n\n\n\n\n在第一层以太坊区块链上，不断增长的网络使用需求，导致了网络拥堵，推高了交易成本。提高存储、网络速度和吞吐量是有意义地大规模采用以太坊的基础。\n\n\n\n\n因此，需要进行扩容（Scaling）。\n\n\n\n\n二、目的\n\n\n\n\n扩容的核心目的便是在保持去中心化和安全性的前提下，提升交易速度（更快确定交易）和交易吞吐量（提高每秒交易量 TPS）。\n\n\n\n\n三、扩容方案\n\n\n\n\n扩容方案：可以分为两大类——On-Chain（layer 1）和 Off-Chain（侧链+layer 2）\n\n\n\n\nOn-chain，链上扩容\n\n\n\n\n对区块链本身的性能提升，这需要对第一层主网/以太坊协议进行变更：这就涉及到了「Layer 1」。Layer 1…",
+          "link": "https://www.theblockbeats.info/news/32250",
+          "publishedOn": "2022-10-22T10:27:06.000Z",
+          "wordCount": null,
+          "title": "LD Research：一文详解以太坊扩容全方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32248",
+          "author": null,
+          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《错过了 Aptos，来看看 Sui 还有哪些空投机会》\n\n\n \n在 APT 的空投引爆社群的同时，一些用户则开始转移到了下一个「战场」——同样是 Move 语言开发的 Sui 公链。并且，Sui 大部分团队也来自于原 Facebook，和受到 a16z、FTX Ventures 等众多明星机构的追捧。那么，继 Aptos 过后，Sui 生态又有哪些空投机会呢？\n\n\n \n《福布斯曝光 Kraken 管理问题：高管流失和文化困境》\n\n\n \nKraken 首席执行官 Jesse Powell——该公司好胜却内向的创始人——此前宣布他会在 9 月 21 日辞去首席执行官的职务，转而担任主席一职。对此人们毫无意外。Powell 在枪支权利和产假等问题上的傲慢与视而不见，（在一份内部信息中，Powell 曾将儿童描述为私营公司的「有害附加物」）引发《纽约时报》关注这家拥有 3000 人员工的加密货币交易平台，揭露其内部上演的文化战争。\n\n\n\n\nKraken 已经成为领先的加密货币交易平台之一，其支持者包括 Digital Currency Group 和 Tribe Capital，估值据称有 108 亿美元。与将自己定位为媒体宠儿的 SBF 不同，42 岁的 Powell 总是一副对舆论不屑的态度，这为公司的发展带来负担。但 Powell 最近的头衔变化可能无法弥补他对 Kraken 高管队伍造成的损害。过去两年里，该公司的高管大量离职，Powell 异想天开的管理风格和特立独行的个人观点也饱受诟病。\n\n\n \n《还有 29 个尚未发币的…",
+          "link": "https://www.theblockbeats.info/news/32248",
+          "publishedOn": "2022-10-22T07:25:06.000Z",
+          "wordCount": null,
+          "title": "周末荐读：一个DAO如何从停滞中重生？29个未发Token项目参与教程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32249",
+          "author": null,
+          "description": "原文标题：Arbitrum Hackathon 2022 Recap\n\n\n\n原文编译：Leo，BlockBeats\n\n\n\n2022 年 10 月 11-15 日的波哥大以太坊 Devcon 6 落下帷幕，大会主要焦距 ZK、Rollup 等技术，代表了以太坊未来三年的方向。除了以太坊的黑客松，Arbitrum 也举办了黑客松，接下来我们一起来看看都有哪些新项目获奖。\n\n\n\n\n\nPartner Bounties\n\n\n\n\nLivepeer 奖金获得者\n\n\n1. ArbiGates \n-扩展 Gates.wtf，以便根据 Arbitrum 生态系统中的条件轻松设置权限。\n\n\n\n\n2. DeckStream \n-LiveStream 和课程平台。\n\n\n\n\n 3.Wet Papaya Club\n-我们将开发一个系列基于 NFT 合集的附加服务，任何拥有该系列 NFT 的人都可以出现在迈阿密的 Wet Papaya Party，并使用 livepeer 观看完整活动直播，其中一部分收入将捐赠用于保护海洋。且每次购买了相关 NFT 后，我们都会种植一棵带有二维码（用于识别）的木瓜树。\n\n\n\n\n\n\nQuickNode 奖金获得者\n\n\n\n\n1. X-scanner\n-用于 Solidity 集成开发环境 (IDE) 的自动化的 CI\\CD 管道，它将检查传送到 GitHub 存储库的所有 Solidity 源代码，以查找任何公共的不安全（甚至可能造成漏洞的）的代码模式。\n\n\n\n\n2. Arbistatements \n-用零知识证明获得你在 Arbitrum 上的加密声明，增加信用度。\n\n\n\n\n3. AA Auto Bridge\n-帐户抽象化启用 Hop 协议跨链桥。用户可以在没有原生 token 的情况下跨桥，可以批量发送，包括批准和传输，还可以将 swap 自动化。\n\n\n\n\n\n\nSynap…",
+          "link": "https://www.theblockbeats.info/news/32249",
+          "publishedOn": "2022-10-22T05:25:06.000Z",
+          "wordCount": null,
+          "title": "21个新项目，波哥大Arbitrum 黑客松获奖项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32247",
           "author": null,
           "description": "原文标题：《探索 FuelVM：为执行智能合约而专门构建的定制虚拟机》\n原文作者：Ryan Sproule，\n\nmedium\n\n\n原文编译：RR\n本文来自微信公众号：老雅痞\n\n\n\n介绍 Sway 和 FuelVM\n\n\n\n\nFuel Labs 正在构建一个新的执行层，用于扩展下一代区块链应用程序。FuelVM 被设计成模块化性质——它可以作为任何区块链的执行引擎。首先，FuelVM 将被部署为以太坊的第 2 层 rollup，但在理论上，它可以作为 L2 甚至另一个 L1 部署在任何地方。FuelVM 旨在扩展以太坊而不增加节点需求，而是通过从现有硬件中获得更多内容。\n\n\nFuel Labs 还在为 FuelVM 构建一种名为 Sway 的新型 DSL，用于编写合约。Sway 受到了 Rust 和 Solidity 的启发，创建了理想的智能合约编程语言。\n\n\n什么是 FuelVM？\n\n\n\n\nFuelVM 是一个完全为执行智能合约而专门构建的定制虚拟机。Fuel VM 从一开始就被设计成易于防欺诈，可以用作 optimistic rollup 的交易执行层使用。\n\n\n\n\nFuelVM 经过了优化，可以更好地利用硬件来提高交易执行的吞吐量。具体地说，它基于 UTXO，并强制每个交易明确定义它将接触的 UTXO。由于执行引擎可以准确地识别每个交易所触及的状态，因此它能够轻松地找到没有争议的交易并将其并行化。\n\n\n\n\n为什么 VM 很重要？\n\n\n\n\n在智能合约区块链系统中，VM 是能够理解智能合约代码并根据该代码中定义的规则执行状态转换的系统。VM 是智能合约区块链的操作系统。\n\n\n\n\n到目前为止，智能合约 VM 还没有在以太坊提供的初始版本之外有什么迭代。目前所有广泛使用的智能合约链 (Solana 除外) 都使用了与以太坊相同的 VM：EVM。\n\n\n\n\n目前，EVM 是「足够好」…",
