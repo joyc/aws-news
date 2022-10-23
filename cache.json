@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32251",
+          "author": null,
+          "description": "赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路",
+          "link": "https://www.theblockbeats.info/news/32251",
+          "publishedOn": "2022-10-23T04:34:52.000Z",
+          "wordCount": null,
+          "title": "赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32250",
           "author": null,
           "description": "原文标题：《LD Research：一文详解以太坊扩容全方案》\n原文作者：0xRJ_eth（Twitter：@0xRJ_eth）\n原文来源：LD Capital Research\n\n\n\n\n今天主要是从一个自上而下结合时间发展的视角整理了以太坊扩容方案，内容涵盖了一些市场如今已经不再提及的旧方案，有些可能大家听都没听说过。但我认为把大框架和相互逻辑理清楚是非常重要的，这有助于我们理解扩容的发展经历了哪些创新和组合，遇到了哪些问题，不同时期市场的关注点是什么，以及为何目前 Rollup 方案胜出。这些也都有助于我们看清大方向。\n\n\n\n\n个人在做 research 的时候，发现网上基本没太多文章从这个角度来全面的汇总和对比。我最初纯粹是因为完全不了解扩容，感觉方案很多，各有利弊，有些还很相似，也想不明白为什么，所以花了大量的时间挖不同时期的文章。但这两周下来，我意识到结合了时间角度的整理对我的帮助特别大。不过今天信息量应该会很大，因为不可避免地会涉及很多的技术和概念，如果能耐心读完，相信对构建整个扩容赛道的大框架和逻辑梳理很有帮助。\n\n\n\n\n\n一、起因\n\n\n\n\n在第一层以太坊区块链上，不断增长的网络使用需求，导致了网络拥堵，推高了交易成本。提高存储、网络速度和吞吐量是有意义地大规模采用以太坊的基础。\n\n\n\n\n因此，需要进行扩容（Scaling）。\n\n\n\n\n二、目的\n\n\n\n\n扩容的核心目的便是在保持去中心化和安全性的前提下，提升交易速度（更快确定交易）和交易吞吐量（提高每秒交易量 TPS）。\n\n\n\n\n三、扩容方案\n\n\n\n\n扩容方案：可以分为两大类——On-Chain（layer 1）和 Off-Chain（侧链+layer 2）\n\n\n\n\nOn-chain，链上扩容\n\n\n\n\n对区块链本身的性能提升，这需要对第一层主网/以太坊协议进行变更：这就涉及到了「Layer 1」。Layer 1…",
@@ -123,16 +133,6 @@
           "publishedOn": "2022-10-21T03:01:56.000Z",
           "wordCount": null,
           "title": "详解近期热议的「账户抽象」：Devcon后的新风口？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32229",
-          "author": null,
-          "description": "原文标题：《Buidler DAO 蝗虫精选（11）：DAO 的发展建设必读文章》\n原文来源：\n\nBuidler DAO\n\n\n\n文章速览：\n\n\n01/ 关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！ \n02/ DeWork 最大 DAO 组织解散，我们学到了什么教训？@Frank\n03/ DAO 的故事——历史和影响  @ 菠菜菠菜！ \n04/ DAO 需要使命，而非 CEO @ 菠菜菠菜！ \n05/ a16z：如何挑选一个 DAO 法人实体 @ 菠菜菠菜！ \n06/ DAO 还有希望吗？—大阪 Devcon 手记 @ 菠菜菠菜！ \n07/ PartyDAO：估值最高的社区 DAO 是怎么做产品的 @Tommy\n08/ DAO 的去中心化程度判定：钟形曲线 @Tommy\n\n\n\n\n\n\n关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！\n\n\n\n\n\n去中心化自治组织（DAO）是一个围绕特定使命组织起来的团体。DAO 通过一套在区块链上执行的共享规则进行协作。DAO 本身只是一个特定的组织结构，它被用来控制共享的经济资源以及组织的协议规则，所以每个 DAO 的运作方式都不尽相同。有些 DAO 是封闭的（译者注：有严格的准入门槛），有些则是开放的，任何人都可以加入和贡献。在一些 DAO 里面积极的贡献者可以从 DAO 获得工作报酬。\n \n\n\n这篇文章涵盖了作者在 DAO 工作中的一些主要收获。其中大部分是来自作者在 Gitcoin DAO 当代表的经历，但作者也参与和观察了许多其他 DAO。作者认为不存在完美的 DAO 结构，因为每个 DAO 都有自己的文化，所以一个 DAO 奉为圭臬的东西不一定对另一个 DAO 有用。文中内容反映了作者的个人经历和观点，其他人很可能和我意见不同。整个行业领域也在不断地迭代，试图去找出哪些是可行的，哪些是不可行的。\n\n\n\n…",
-          "link": "https://www.theblockbeats.info/news/32229",
-          "publishedOn": "2022-10-20T13:49:54.000Z",
-          "wordCount": null,
-          "title": "DAO发展建设必读文章以及深度思考",
           "imageUrl": null
         }
       ]

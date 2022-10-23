@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-23T00:57:38.506Z</updated>
+    <updated>2022-10-23T06:21:27.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路]]></title>
+        <id>https://www.theblockbeats.info/news/32251</id>
+        <link href="https://www.theblockbeats.info/news/32251"/>
+        <updated>2022-10-23T04:34:52.000Z</updated>
+        <summary type="html"><![CDATA[赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LD Research：一文详解以太坊扩容全方案]]></title>
         <id>https://www.theblockbeats.info/news/32250</id>
@@ -635,54 +645,6 @@ EOA 中文叫做外部账户，我们最熟悉的 MetaMask 生成的地址就是
 
 
 EOA 的另一个设定是作为交易的发起方并支付 gas，相对应的 CA（合约账户）只能被其他 CA 或者 EOA 调用。也就是说，EOA 是交易的触发器，一笔交易无论后面有多少合约调用，一开始都必须…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAO发展建设必读文章以及深度思考]]></title>
-        <id>https://www.theblockbeats.info/news/32229</id>
-        <link href="https://www.theblockbeats.info/news/32229"/>
-        <updated>2022-10-20T13:49:54.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Buidler DAO 蝗虫精选（11）：DAO 的发展建设必读文章》
-原文来源：
-
-Buidler DAO
-
-
-
-文章速览：
-
-
-01/ 关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！ 
-02/ DeWork 最大 DAO 组织解散，我们学到了什么教训？@Frank
-03/ DAO 的故事——历史和影响  @ 菠菜菠菜！ 
-04/ DAO 需要使命，而非 CEO @ 菠菜菠菜！ 
-05/ a16z：如何挑选一个 DAO 法人实体 @ 菠菜菠菜！ 
-06/ DAO 还有希望吗？—大阪 Devcon 手记 @ 菠菜菠菜！ 
-07/ PartyDAO：估值最高的社区 DAO 是怎么做产品的 @Tommy
-08/ DAO 的去中心化程度判定：钟形曲线 @Tommy
-
-
-
-
-
-
-关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！
-
-
-
-
-
-去中心化自治组织（DAO）是一个围绕特定使命组织起来的团体。DAO 通过一套在区块链上执行的共享规则进行协作。DAO 本身只是一个特定的组织结构，它被用来控制共享的经济资源以及组织的协议规则，所以每个 DAO 的运作方式都不尽相同。有些 DAO 是封闭的（译者注：有严格的准入门槛），有些则是开放的，任何人都可以加入和贡献。在一些 DAO 里面积极的贡献者可以从 DAO 获得工作报酬。
- 
-
-
-这篇文章涵盖了作者在 DAO 工作中的一些主要收获。其中大部分是来自作者在 Gitcoin DAO 当代表的经历，但作者也参与和观察了许多其他 DAO。作者认为不存在完美的 DAO 结构，因为每个 DAO 都有自己的文化，所以一个 DAO 奉为圭臬的东西不一定对另一个 DAO 有用。文中内容反映了作者的个人经历和观点，其他人很可能和我意见不同。整个行业领域也在不断地迭代，试图去找出哪些是可行的，哪些是不可行的。
-
-
-
-…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

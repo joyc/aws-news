@@ -22,6 +22,51 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-23 datetime="2022-10-23T04:34:52.000Z">2022-10-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-23 datetime="2022-10-23T04:34:52.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32251"
+                        open
+                      >
+                        <summary class="article-expander__title">赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32251">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-22 datetime="2022-10-22T10:27:06.000Z">2022-10-22</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-22 datetime="2022-10-22T10:27:06.000Z"></time>
           </button>
@@ -788,93 +833,10 @@ EOA 的另一个设定是作为交易的发起方并支付 gas，相对应的 CA
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-20 datetime="2022-10-20T13:49:54.000Z">2022-10-20</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-20 datetime="2022-10-20T13:49:54.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >TheBlockBeats - 新闻</button>
-                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32229"
-                        open
-                      >
-                        <summary class="article-expander__title">DAO发展建设必读文章以及深度思考</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32229">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Buidler DAO 蝗虫精选（11）：DAO 的发展建设必读文章》
-原文来源：
-
-Buidler DAO
-
-
-
-文章速览：
-
-
-01/ 关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！ 
-02/ DeWork 最大 DAO 组织解散，我们学到了什么教训？@Frank
-03/ DAO 的故事——历史和影响  @ 菠菜菠菜！ 
-04/ DAO 需要使命，而非 CEO @ 菠菜菠菜！ 
-05/ a16z：如何挑选一个 DAO 法人实体 @ 菠菜菠菜！ 
-06/ DAO 还有希望吗？—大阪 Devcon 手记 @ 菠菜菠菜！ 
-07/ PartyDAO：估值最高的社区 DAO 是怎么做产品的 @Tommy
-08/ DAO 的去中心化程度判定：钟形曲线 @Tommy
-
-
-
-
-
-
-关于 DAO 的主要经验教训：创建、实践与文化 @ 菠菜菠菜！
-
-
-
-
-
-去中心化自治组织（DAO）是一个围绕特定使命组织起来的团体。DAO 通过一套在区块链上执行的共享规则进行协作。DAO 本身只是一个特定的组织结构，它被用来控制共享的经济资源以及组织的协议规则，所以每个 DAO 的运作方式都不尽相同。有些 DAO 是封闭的（译者注：有严格的准入门槛），有些则是开放的，任何人都可以加入和贡献。在一些 DAO 里面积极的贡献者可以从 DAO 获得工作报酬。
- 
-
-
-这篇文章涵盖了作者在 DAO 工作中的一些主要收获。其中大部分是来自作者在 Gitcoin DAO 当代表的经历，但作者也参与和观察了许多其他 DAO。作者认为不存在完美的 DAO 结构，因为每个 DAO 都有自己的文化，所以一个 DAO 奉为圭臬的东西不一定对另一个 DAO 有用。文中内容反映了作者的个人经历和观点，其他人很可能和我意见不同。整个行业领域也在不断地迭代，试图去找出哪些是可行的，哪些是不可行的。
-
-
-
-…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3305300909">
-        <time id="build-timestamp" datetime="2022-10-23T00:57:38.480Z">2022-10-23T00:57:38.480Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3306057421">
+        <time id="build-timestamp" datetime="2022-10-23T06:21:27.528Z">2022-10-23T06:21:27.528Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
