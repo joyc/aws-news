@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32270",
+          "author": null,
+          "description": "原文标题：《Censorship resistance in Bitcoin and Ethereum》\n原文作者：Allen Zhao, Mustafa Yilham, Henry Ang & Jermaine Wong，Bixin Ventures\n原文编译：Evan Gu，Wayne Zhang，Bixin Ventures\n\n\n八月初，美国财政部海外资产控制办公室 (OFAC) 决定将 Tornado Cash 添加到制裁名单中的消息将抗审查的问题放到了聚光灯下。为免除相关刑事责任，RPC 服务提供商 Alchemy 和 Infura 限制了对 Tornado Cash 智能合约数据的访问，Circle（USDC 发行商）也将制裁名单上的钱包地址列入黑名单。黑名单列出的地址也同样遭到了例如 Aave 等 Defi 协议的禁止，但用户仍然可以交互一些智能合约，不过需要许多额外步骤和一些技术方面的专业知识。\n\n\n这让我们思考一个更加普遍的问题：区块链在协议层面会被审查吗？以太坊社区已经出现对协议级别审查的担忧，66% 的信标链验证者在合并后对于 OFAC 法规表示很敏感。如果超过 1/3 的验证者（按权益权重）被以任何形式进行审查，以太坊链将无法正常运行。\n\n\n\n\n\n在本文中，我们将通过三个关键问题，比较 BTC（POW）和 ETH（POS）在抗审查方面的表现，最后再给出我们的思考。\n\n\n「审查」的定义\n\n\n在最近的 Bankless 播客中，Justin Drake 定义了两种不同类型的审查：弱审查和强审查\n\n\n1、弱审查：当某些被审查的区块生产者没有将个人交易包含在区块中时，就会发生弱审查，从而导致用户体验下降。比如一个合规的区块生产者拒绝来自黑名单地址的交易，但是，该交易最终仍由非审查区块生产者接收。\n\n\n2、强审查：当个人的交易永远不会被包含在链上时，就会发生强…",
+          "link": "https://www.theblockbeats.info/news/32270",
+          "publishedOn": "2022-10-25T15:23:49.000Z",
+          "wordCount": null,
+          "title": "比特币和以太坊的抗审查性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32266",
+          "author": null,
+          "description": "原文标题：《Golden Protocol:全网最详细的中文交互教程》\n原文作者：syskey\n\n\n\n\n\n\n\n\n\n\n项目介绍\n\n\n这里就不 COPY 官方的话了，说下我个人的理解。Golden Protocol 就是一个「特别版」的维基百科，但和维基百科又有着本质的区别这里拿维基百科做类比主要是为了方便读者理解 Golden Protocol 是在做什么。具体想了解项目的可以看下官方这篇博客，从创立的初衷到使命以及和维基百科的对比都有介绍到。\n\n\n项目融资\n\n\nA 轮融资 1450W 美元，B 轮融资 4000W 美元。并且两轮融资都是由 A16z 领投，其他的投资机构也是异常强大。通过 Aptos 的空投，相信大家都知道 A16z 投资的项目的潜力了。\n\n\n空投条件\n\n\n提交实体或三元组\n\n验证三元组\n\n开发者贡献\n\n数据集贡献\n\n安全漏洞赏金\n\n协议、治理及模式贡献\n\n\n本交互教程主要以提交实体或三元组和验证三元组这两种方式来获取空投。\n\n\n交互教程\n\n\n教程开始之前，先提前预警，教程会比较长，并且会涉及到大量的图片来辅助说明。并且十分考验动手和思考能力，难度还是有些的。\n\n\n第一步：获取访问测试网的权限\n\n\n1.1 打开Golden Protocol官网，进行注册账号。\n\n\n\n\n\n\n1.2 输入姓名、邮箱、密码。最好使用 gmail 邮箱，减少不必要的麻烦。\n\n\n\n\n\n\n1.3 点击注册按钮后，来到邮箱检查收到的验证码，并将验证填写。\n\n\n\n\n\n\n1.4 验证码填写完毕后，会来到个人资料页设置，这里的设置具体看下面图片说明。\n\n\n\n\n\n\n1.5 接着会来到个人账号计划页面，我们直接选择 free。\n\n\n\n\n\n\n1.6 最后，下图就是注册账号成功后的样子了\n\n\n\n\n\n\n1.7 接下来要介绍一些概念性的东西了，理解了这些概念，将有助于完成后面的任务。\n\n\n1.8 什么是 …",
+          "link": "https://www.theblockbeats.info/news/32266",
+          "publishedOn": "2022-10-25T13:23:49.000Z",
+          "wordCount": null,
+          "title": "链上知识图谱协议Golden Protocol详细交互教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32268",
           "author": null,
           "description": "原文标题：《以太坊账户抽象和 ERC-4337》\n原文来源：IOBC Capital\n\n\n以太坊系统中实际存在两种类型的账户：\n\n\n· 一种是由私钥控制的外部账户（externally-owned account，EOA），比如我们所使用的钱包中的账户，这类账户都有自己的余额。拥有者可以通过创建和签名一笔交易从自己的外部账户发送消息；\n\n\n· 另一种是由部署到区块链上的代码控制的合约账户（contract account），由存储在智能合约账户（有时也被称为智能钱包）内的以太坊虚拟机代码控制。当合约账户收到信息时，其内部代码就会被激活，并允许它对内部存储进行读取和写入以及创建新合约等操作。按照目前的以太坊协议，只有外部帐户才可以发起交易，并且仅允许账户的所有人修改其帐户状态。\n\n\n\n什么是账户抽象化？\n\n\n账户抽象是对以上两种账户的一种改进，尝试模糊二者之间的界限，变成一种包含复杂逻辑的通用性账户，使账户可以同时拥有合约账户和外部账户的功能。\n\n\n这种做法相当于让用户按照合约账户的格式来定义外部账户，用户可以在智能合约钱包中包含任何逻辑验证。由密钥控制的账户也可以获得代码的支持。\n\n\n\n\n\n\n账户抽象化的各种方案\n\n\n一直以来，实现账户抽象化都是以太坊开发者社区的愿景。社区也提出了各种各样的方案，如：EIP-86，EIP-2938 等。\n\n\nEIP-86 是为账户抽象做技术准备，它定义了一种新的账户类型，允许用户创建基于智能合约的账户。\n\n\n以太坊协议本身要求将所有内容打包到源自 ECDSA 安全的外部账户 (EOA) 的交易中，每个用户操作都需要由来自 EOA 的事务包装，这会产生 21000 gas 的费用。用户需要在单独的 EOA 中拥有 ETH 来支付 gas。\n\n\nEIP-86 提出的账户抽象带来新类型的事务，与传统事务必须有一个 EOA 作为发送者相比，这些事务…",
@@ -123,16 +143,6 @@
           "publishedOn": "2022-10-23T08:32:11.000Z",
           "wordCount": null,
           "title": "BlockBeats荐读｜本周编辑部的作者们都在看什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32251",
-          "author": null,
-          "description": "赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路",
-          "link": "https://www.theblockbeats.info/news/32251",
-          "publishedOn": "2022-10-23T04:34:52.000Z",
-          "wordCount": null,
-          "title": "赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路",
           "imageUrl": null
         }
       ]
