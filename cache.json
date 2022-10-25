@@ -84,26 +84,6 @@
           "wordCount": null,
           "title": "赛博朋克、大逃杀吃鸡与AIGC，Delysium 的奥德赛之路",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32250",
-          "author": null,
-          "description": "原文标题：《LD Research：一文详解以太坊扩容全方案》\n原文作者：0xRJ_eth（Twitter：@0xRJ_eth）\n原文来源：LD Capital Research\n\n\n\n\n今天主要是从一个自上而下结合时间发展的视角整理了以太坊扩容方案，内容涵盖了一些市场如今已经不再提及的旧方案，有些可能大家听都没听说过。但我认为把大框架和相互逻辑理清楚是非常重要的，这有助于我们理解扩容的发展经历了哪些创新和组合，遇到了哪些问题，不同时期市场的关注点是什么，以及为何目前 Rollup 方案胜出。这些也都有助于我们看清大方向。\n\n\n\n\n个人在做 research 的时候，发现网上基本没太多文章从这个角度来全面的汇总和对比。我最初纯粹是因为完全不了解扩容，感觉方案很多，各有利弊，有些还很相似，也想不明白为什么，所以花了大量的时间挖不同时期的文章。但这两周下来，我意识到结合了时间角度的整理对我的帮助特别大。不过今天信息量应该会很大，因为不可避免地会涉及很多的技术和概念，如果能耐心读完，相信对构建整个扩容赛道的大框架和逻辑梳理很有帮助。\n\n\n\n\n\n一、起因\n\n\n\n\n在第一层以太坊区块链上，不断增长的网络使用需求，导致了网络拥堵，推高了交易成本。提高存储、网络速度和吞吐量是有意义地大规模采用以太坊的基础。\n\n\n\n\n因此，需要进行扩容（Scaling）。\n\n\n\n\n二、目的\n\n\n\n\n扩容的核心目的便是在保持去中心化和安全性的前提下，提升交易速度（更快确定交易）和交易吞吐量（提高每秒交易量 TPS）。\n\n\n\n\n三、扩容方案\n\n\n\n\n扩容方案：可以分为两大类——On-Chain（layer 1）和 Off-Chain（侧链+layer 2）\n\n\n\n\nOn-chain，链上扩容\n\n\n\n\n对区块链本身的性能提升，这需要对第一层主网/以太坊协议进行变更：这就涉及到了「Layer 1」。Layer 1…",
-          "link": "https://www.theblockbeats.info/news/32250",
-          "publishedOn": "2022-10-22T10:27:06.000Z",
-          "wordCount": null,
-          "title": "LD Research：一文详解以太坊扩容全方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32248",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《错过了 Aptos，来看看 Sui 还有哪些空投机会》\n\n\n \n在 APT 的空投引爆社群的同时，一些用户则开始转移到了下一个「战场」——同样是 Move 语言开发的 Sui 公链。并且，Sui 大部分团队也来自于原 Facebook，和受到 a16z、FTX Ventures 等众多明星机构的追捧。那么，继 Aptos 过后，Sui 生态又有哪些空投机会呢？\n\n\n \n《福布斯曝光 Kraken 管理问题：高管流失和文化困境》\n\n\n \nKraken 首席执行官 Jesse Powell——该公司好胜却内向的创始人——此前宣布他会在 9 月 21 日辞去首席执行官的职务，转而担任主席一职。对此人们毫无意外。Powell 在枪支权利和产假等问题上的傲慢与视而不见，（在一份内部信息中，Powell 曾将儿童描述为私营公司的「有害附加物」）引发《纽约时报》关注这家拥有 3000 人员工的加密货币交易平台，揭露其内部上演的文化战争。\n\n\n\n\nKraken 已经成为领先的加密货币交易平台之一，其支持者包括 Digital Currency Group 和 Tribe Capital，估值据称有 108 亿美元。与将自己定位为媒体宠儿的 SBF 不同，42 岁的 Powell 总是一副对舆论不屑的态度，这为公司的发展带来负担。但 Powell 最近的头衔变化可能无法弥补他对 Kraken 高管队伍造成的损害。过去两年里，该公司的高管大量离职，Powell 异想天开的管理风格和特立独行的个人观点也饱受诟病。\n\n\n \n《还有 29 个尚未发币的…",
-          "link": "https://www.theblockbeats.info/news/32248",
-          "publishedOn": "2022-10-22T07:25:06.000Z",
-          "wordCount": null,
-          "title": "周末荐读：一个DAO如何从停滞中重生？29个未发Token项目参与教程",
-          "imageUrl": null
         }
       ]
     },
