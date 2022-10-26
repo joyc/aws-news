@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-26T00:48:41.880Z</updated>
+    <updated>2022-10-26T06:12:47.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkSync 2.0主网为什么会引入账户抽象？]]></title>
+        <id>https://www.theblockbeats.info/news/32271</id>
+        <link href="https://www.theblockbeats.info/news/32271"/>
+        <updated>2022-10-26T04:38:57.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：zkSync
+原文编译：0x214，BlockBeats
+
+
+
+
+zkSync 2.0 主网将于 10 月 28 日上线，只剩下 2 天。据官方消息，zkSync 2.0 将引入新功能帐户抽象（Account Abstraction）并对此概念进行解释。BlockBeats 对其整理翻译如下。
+
+
+
+
+
+
+
+
+
+链接查看第一部分。
+
+
+
+
+
+
+
+
+
+简而言之，比起账户在 Layer 1 工作，帐户抽象提供了一种逾越其上的能力。在 Layer 1 中用户有两种账户，即「外部拥有的帐户」(EOA) 和合约帐户（CA）。在以太坊上，每笔交易都必须由 EOA 发起。
+
+
+
+
+EOA 实现方式让 EOA 和与帐户关联的私钥强耦合。如果用户丢失了此私钥，意味着账户也被丢失。数十亿用户很难通过管理 12 个助记词来彻底保护其资产。
+
+
+
+
+zkSync 2.0 中的账户可以像 EOA 一样发起交易，但任何被部署其上的逻辑都可以被执行，比如智能合约。帐户抽象为帐户的用户体验提供了更大灵活性。
+
+
+
+
+例如，智能合约钱包可以实现「社交恢复」（Social Recovery），而不再需要助记词；可以实现不同的签名方案，例如节省 Gas 费的或者或抗量子签名方案。
+
+
+BlockBeats 注：社交恢复是指利用社交关系帮助用户在丢失密钥的情况下重新获得账户访问权的机制。抗量子签名密码学 (Quantum-resistant cryptography) 又称后量子密码算法（Post-quantum cryptography），专门研究能够抵抗量子计算机的加密算法，特别是公钥加密（非对称加密）算法。
+
+
+
+
+账户抽象这个话题早已被以太坊社区讨论多次，也有很多人曾尝试在 Layer 1 上引入账户抽象。请点击链接查看相关摘要。
+
+
+
+
+用户也可以通过 zkSync 官方教程进一步了解 zkSync 上的账户抽象功能，zkSync 也欢迎任何反馈意见。
+
+
+
+
+
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币和以太坊的抗审查性]]></title>
         <id>https://www.theblockbeats.info/news/32270</id>

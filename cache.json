@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32271",
+          "author": null,
+          "description": "原文作者：zkSync\n原文编译：0x214，BlockBeats\n\n\n\n\nzkSync 2.0 主网将于 10 月 28 日上线，只剩下 2 天。据官方消息，zkSync 2.0 将引入新功能帐户抽象（Account Abstraction）并对此概念进行解释。BlockBeats 对其整理翻译如下。\n\n\n\n\n\n\n\n\n\n链接查看第一部分。\n\n\n\n\n\n\n\n\n\n简而言之，比起账户在 Layer 1 工作，帐户抽象提供了一种逾越其上的能力。在 Layer 1 中用户有两种账户，即「外部拥有的帐户」(EOA) 和合约帐户（CA）。在以太坊上，每笔交易都必须由 EOA 发起。\n\n\n\n\nEOA 实现方式让 EOA 和与帐户关联的私钥强耦合。如果用户丢失了此私钥，意味着账户也被丢失。数十亿用户很难通过管理 12 个助记词来彻底保护其资产。\n\n\n\n\nzkSync 2.0 中的账户可以像 EOA 一样发起交易，但任何被部署其上的逻辑都可以被执行，比如智能合约。帐户抽象为帐户的用户体验提供了更大灵活性。\n\n\n\n\n例如，智能合约钱包可以实现「社交恢复」（Social Recovery），而不再需要助记词；可以实现不同的签名方案，例如节省 Gas 费的或者或抗量子签名方案。\n\n\nBlockBeats 注：社交恢复是指利用社交关系帮助用户在丢失密钥的情况下重新获得账户访问权的机制。抗量子签名密码学 (Quantum-resistant cryptography) 又称后量子密码算法（Post-quantum cryptography），专门研究能够抵抗量子计算机的加密算法，特别是公钥加密（非对称加密）算法。\n\n\n\n\n账户抽象这个话题早已被以太坊社区讨论多次，也有很多人曾尝试在 Layer 1 上引入账户抽象。请点击链接查看相关摘要。\n\n\n\n\n用户也可以通过 zkSync 官方教程进一步了解 zkSync 上的账户抽象功能，zkSync 也欢迎任何反馈意见。\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32271",
+          "publishedOn": "2022-10-26T04:38:57.000Z",
+          "wordCount": null,
+          "title": "zkSync 2.0主网为什么会引入账户抽象？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32270",
           "author": null,
           "description": "原文标题：《Censorship resistance in Bitcoin and Ethereum》\n原文作者：Allen Zhao, Mustafa Yilham, Henry Ang & Jermaine Wong，Bixin Ventures\n原文编译：Evan Gu，Wayne Zhang，Bixin Ventures\n\n\n八月初，美国财政部海外资产控制办公室 (OFAC) 决定将 Tornado Cash 添加到制裁名单中的消息将抗审查的问题放到了聚光灯下。为免除相关刑事责任，RPC 服务提供商 Alchemy 和 Infura 限制了对 Tornado Cash 智能合约数据的访问，Circle（USDC 发行商）也将制裁名单上的钱包地址列入黑名单。黑名单列出的地址也同样遭到了例如 Aave 等 Defi 协议的禁止，但用户仍然可以交互一些智能合约，不过需要许多额外步骤和一些技术方面的专业知识。\n\n\n这让我们思考一个更加普遍的问题：区块链在协议层面会被审查吗？以太坊社区已经出现对协议级别审查的担忧，66% 的信标链验证者在合并后对于 OFAC 法规表示很敏感。如果超过 1/3 的验证者（按权益权重）被以任何形式进行审查，以太坊链将无法正常运行。\n\n\n\n\n\n在本文中，我们将通过三个关键问题，比较 BTC（POW）和 ETH（POS）在抗审查方面的表现，最后再给出我们的思考。\n\n\n「审查」的定义\n\n\n在最近的 Bankless 播客中，Justin Drake 定义了两种不同类型的审查：弱审查和强审查\n\n\n1、弱审查：当某些被审查的区块生产者没有将个人交易包含在区块中时，就会发生弱审查，从而导致用户体验下降。比如一个合规的区块生产者拒绝来自黑名单地址的交易，但是，该交易最终仍由非审查区块生产者接收。\n\n\n2、强审查：当个人的交易永远不会被包含在链上时，就会发生强…",
