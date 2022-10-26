@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32274",
+          "author": null,
+          "description": "原视频来源：AptosEden\n\n\nMOVE 是一门智能合约开发语言，随着新公链    Aptos 的崛起，MOVE 语言也渐渐进入大众视野。上节我们简单了解了泛型容器，这期来讲解一下泛型容器的使用方法。\n\n\n \n\n\n更多视频，请观看：《MOVE开发入门第十三节：泛型初识》\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32274",
+          "publishedOn": "2022-10-26T09:39:46.000Z",
+          "wordCount": null,
+          "title": "MOVE开发入门第十四节：容器使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32273",
+          "author": null,
+          "description": "原文作者：@MyAlphaDrops\n原文编译：0x711，BlockBeats\n\n\n\n\n \nzkSync Token 发行已确认并将很快启动，请参阅其文档以获取更多信息。尽管无法保证空投，而且我们不知道是否已进行了快照，但值得尝试以下任务，以最大限度地提高获得潜在空投资格的机会。\n\n\n\n\n任务清单\n\n\n1. 使用主网\n\n\n2. 铸造 NFT\n\n\n3. Gitcoin\n\n\n4. 使用测试网\n\n\n5. 参加电话会议或活动\n\n\n准备工作\n\n\n1. 钱包（如 Metamask）\n\n\n2. L1 上存些 ETH\n\n\nGoerli 测试网上的 ETH 水龙头：\n\n\nhttps://goerli-faucet.mudit.blog\nhttps://faucets.chain.link/goerli\nhttps://goerli-faucet.slock.it\n\n\n3.zkSync 测试网 RPC 设置（设置方法可在 MirrorBeats 上查询）：\n\n\n网络名称：zkSync alpha testnet\n\n\nRPC URL：https://zksync2-testnet.zksync.dev\n\n\n链 ID：280\n\n\n使用主网\n\n\n1. 激活你的账户（需要支付一些 ETH 做 gas）\n\n\n2. 使用 Orbiter Finance、LayerSwap 或 zkSync 之类的跨链桥转入 ETH\n\n\n3. 在 ZigZag Exchange 上进行一些交易\n\n\n铸造 NFT\n\n\n要在主网上铸造 NFT，请按照以下步骤操作：\n\n\n1. 在 https://nft.storage 上传图片\n\n\n2. 复制 CID\n\n\n3. 转到此链接，粘贴 CID，然后铸造\n\n\n在 Gitcoin 上捐款\n\n\n这也是主网任务的一部分。通过 zkSync 网络向一些项目进行捐款。此外，在 Gitcoin Passport 中完成尽可能多的 stamp。\n\n\nGitcoin\n\n\nGitcoin 护照\n\n\n使用测试网\n\n\n使用 zkSync 测试网上的 dApp。可以在下面的链接中找到 16 个 zkSync dApp 的列表，其中包含所有必要的信息，例如社交链接、类别、获取测试资格的策略等。更多的 dApp 将很快添加。另外，请注意，其中一些项目也可能会奖励他们的早期用户。\n\n\n测试 dApp 清单\n\n\n水龙头和跨链桥\n\n\n请注意，10 月 25 日将进行重新生成，这将清除所有测试网交易和余额历史记录。因此，可以不时进行一些交易，然后将资产撤回到 Goerli 网络。\n\n\n参加电话会议或活动\n\n\n参加社区电话会议并参与 Discord 和 Twitter 上的活动。如果有的话，可以申请 POAP 和 NFT。\n\n\n\n\n\n \n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32273",
+          "publishedOn": "2022-10-26T08:55:46.000Z",
+          "wordCount": null,
+          "title": "zkSync会有潜在空投吗？先动手体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32272",
+          "author": null,
+          "description": "原文标题：《IOSG Weekly Brief | 钱包 2.0 时代: MPC 钱包 vs. 智能合约钱包》\n原文作者：Chloe，IOSG Ventures\n\n\n\n\n在波哥大举办的 Devcon 6 大会中，Tomasz Tunguz 提到了 Web3.0  的一些统计数据：各主流公链 DAU 累计约为 250 万，而传统互联网的 DAU 为 50 亿，前者勉强够上后者的 0.05%。从供给侧来看，约有 1.6 万名开发者在 Web3.0 开发，而世界上开发者总数达到了 2700 万，Web3 开发者占卜不足 0.06%。因此，Web3.0 离 mass adoption 还有很远的距离。\n\n\n\n\n钱包，作为 Web3.0 的入口，其用户体验直接影响到加密行业何时能迎来大规模化采用。尽管各大钱包在这方面卯足了劲，可在普通用户的眼里，钱包使用体验依旧不尽人意。托管钱包虽然易用，但是安全性是一个很大的隐患，钱包被盗事件层出不穷。自托管钱包虽然相对安全，但保管长长的助记词和私钥的方式与传统互联网的用户名 - 密码体系相比复杂了很多。据 Chainalysis  的研究报告显示，截止 2021 年约有 20% 流通中的比特币，因所有者不记得私钥而丢失。很多人可能会有疑问，为什么我们不能将传统的验证方式应用到 Web3.0 来呢？\n\n\n\n\n为什么我们只能通过私钥的方式进行验证？为了回答这个问题，我们需要了一些背景知识和概念。首先是以太坊上的账户类型。以太坊一共有两种账户：外部账户和合约账户。合约账户就是智能合约，其代码由以太坊虚拟机来运行。而外部账户就是我们平常用来发起交易的钱包账户，它之所以被称为「外部」是因为这种账户本身是没有代码的，因此独立于以太坊虚拟机之外，由用户通过私钥进行控制。\n\n\n\n\n\n图片来源: https://lh3.googleusercontent.com\n…",
+          "link": "https://www.theblockbeats.info/news/32272",
+          "publishedOn": "2022-10-26T07:42:46.000Z",
+          "wordCount": null,
+          "title": "钱包2.0时代：MPC钱包vs智能合约钱包",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32271",
           "author": null,
           "description": "原文作者：zkSync\n原文编译：0x214，BlockBeats\n\n\n\n\nzkSync 2.0 主网将于 10 月 28 日上线，只剩下 2 天。据官方消息，zkSync 2.0 将引入新功能帐户抽象（Account Abstraction）并对此概念进行解释。BlockBeats 对其整理翻译如下。\n\n\n\n\n\n\n\n\n\n链接查看第一部分。\n\n\n\n\n\n\n\n\n\n简而言之，比起账户在 Layer 1 工作，帐户抽象提供了一种逾越其上的能力。在 Layer 1 中用户有两种账户，即「外部拥有的帐户」(EOA) 和合约帐户（CA）。在以太坊上，每笔交易都必须由 EOA 发起。\n\n\n\n\nEOA 实现方式让 EOA 和与帐户关联的私钥强耦合。如果用户丢失了此私钥，意味着账户也被丢失。数十亿用户很难通过管理 12 个助记词来彻底保护其资产。\n\n\n\n\nzkSync 2.0 中的账户可以像 EOA 一样发起交易，但任何被部署其上的逻辑都可以被执行，比如智能合约。帐户抽象为帐户的用户体验提供了更大灵活性。\n\n\n\n\n例如，智能合约钱包可以实现「社交恢复」（Social Recovery），而不再需要助记词；可以实现不同的签名方案，例如节省 Gas 费的或者或抗量子签名方案。\n\n\nBlockBeats 注：社交恢复是指利用社交关系帮助用户在丢失密钥的情况下重新获得账户访问权的机制。抗量子签名密码学 (Quantum-resistant cryptography) 又称后量子密码算法（Post-quantum cryptography），专门研究能够抵抗量子计算机的加密算法，特别是公钥加密（非对称加密）算法。\n\n\n\n\n账户抽象这个话题早已被以太坊社区讨论多次，也有很多人曾尝试在 Layer 1 上引入账户抽象。请点击链接查看相关摘要。\n\n\n\n\n用户也可以通过 zkSync 官方教程进一步了解 zkSync 上的账户抽象功能，zkSync 也欢迎任何反馈意见。\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
