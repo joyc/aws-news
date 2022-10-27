@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-27T12:20:03.686Z</updated>
+    <updated>2022-10-27T18:12:23.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAO治理时代来临——ApePark NFT上线，正式发布用户自治模式规范]]></title>
+        <id>https://www.theblockbeats.info/news/32311</id>
+        <link href="https://www.theblockbeats.info/news/32311"/>
+        <updated>2022-10-27T14:40:54.000Z</updated>
+        <summary type="html"><![CDATA[DAO治理时代来临——ApePark NFT上线，正式发布用户自治模式规范]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A&T View：低门槛钱包，大众大规模采用Web3应用的必要工具]]></title>
+        <id>https://www.theblockbeats.info/news/32298</id>
+        <link href="https://www.theblockbeats.info/news/32298"/>
+        <updated>2022-10-27T14:40:54.000Z</updated>
+        <summary type="html"><![CDATA[A&T View：低门槛钱包，大众大规模采用Web3应用的必要工具]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于Web3营销的一切]]></title>
         <id>https://www.theblockbeats.info/news/32301</id>
@@ -770,197 +790,6 @@ Magic Eden 对于版税的态度大转弯，推出可选版税
 Reddit 推出 NFT 平台后，其 Vault 加密钱包用户数新增超 250 万
 国家监管机构指控 NFT 赌场项目违反证券规定
 ETH…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日榜第一的Reddit NFT是如何爆火的]]></title>
-        <id>https://www.theblockbeats.info/news/32267</id>
-        <link href="https://www.theblockbeats.info/news/32267"/>
-        <updated>2022-10-25T04:15:31.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Eric Choi
-原文编译：深潮 TechFlow
-
-
-Reddit 是一个流行的线上网站，允许用户讨论、投票和分享内容（类似于贴吧）。它拥有超过 15 亿注册用户，4.3 亿月度活跃用户，以及 5200 万日活跃用户。
-
-
-
-我把 Reddit 当作一个搜索引擎。例如，在购买汽车之前搜索汽车时，我会使用 Reddit 查看「本田 CRV」，并阅读相关子版块的评论。
-
-
-
-为什么 Reddit 会以 NFT 的形式发行收藏头像？
-
-
-Reddit 发行可收集的头像（NFTs）是为了给其社区内的艺术家提供一种从他们的作品中获利的方式。Reddit 只保留 5% 的销售收入以支持创作者计划，其余的则归艺术家所有。
-
-
-
-
-
-Reddit 与约 30 位艺术家合作，发布第二代 40000 个可收藏的头像。2022 年 10 月 21 日发布，它们在 24 小时内售罄，与 2022 年 7 月发布的第一代相比，有了很大的改进，第一代用了数周时间才卖光。
-
-
-
-
-
-
-
-
-购买了 NFT 的人可以在 Reddit 和其他平台上将其作为个人照片，或者在 OpenSea 等二级市场上出售。据 RedditFloor 称，现在最贵的一个 NFT 约为 14,000 美元。
-
-
-Reddit 是如何吸纳非 Web3 用户购买其 NFT 的？
-
-
-1. Reddit 使用了 "数字藏品 "一词，而不是 NFTs，以减少非 Web3 用户的心理排斥感。事实上，这并不是 Reddit 第一次涉足 NFTs。2021 年夏天，Reddit 发布了 4 个 CryptoSnoos NFTs 限量系列，这是基于 Reddit 吉祥物 Snoo 的数字艺术作品。
-
-
-
-2. 非 Web3 用户可以通过熟悉的密码设置轻松创建他们的钱包。不需要什么助记词或了解公共地址（0x...）。
-
-
-
-
-
-
-
-…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Reddit Avatars：引领数百万人走进了Web3大门的NFT世界特洛伊木马]]></title>
-        <id>https://www.theblockbeats.info/news/32265</id>
-        <link href="https://www.theblockbeats.info/news/32265"/>
-        <updated>2022-10-25T03:15:31.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Reddit Avatars are the Trojan Horse of NFTs》
-原文作者：ABBBBBB_NFT，NFT收藏家
-原文编译：Kxp，BlockBeats
-
-
-
-Reddit Avatars 是 NFT 世界里的特洛伊木马，带着数百万人走进了 Web3 的大门，但如今却无人问津。
-
-
-
-
-
-
-
-免责声明：此篇文章不提供任何财务上的建议，只是为探究 Reddit Avatar 对于 NFT 领域的影响。
-
-
-
-
-Reddit 成立于 2005 年，用户可以在该网站上发布主题贴文，并在其中放入链接或图片。然后，其他用户可以给这些贴文点赞/踩，而那些最受欢迎的帖文则会被置顶。同时，每篇贴文下方也开放有评论区，它也有类似的投票系统。
-
-
-
-
-Reddit 在 2021 年有 3.5 亿美元的广告收入，5200 万日活跃用户和大约 4.3 亿月活跃用户。2020 年，Reddit 的每月浏览量就超过了 300 亿次，而到了 2021 年 8 月，其估值已经高达 100 亿美元，规模相当之大。
-
-
-
-
-起初，用户档案中只能展示姓名、以往帖文与评论、所获奖项以及个人得分（karma score）。直到 2020 年，Reddit 才首次上线头像功能。一开始，这些头像还并不是 NFT，用户可以根据数百种选择定制自己的头像，甚至可以使用颜色选择器创作出无数的色彩样式。后来，Reddit 还推出了高级头像定制功能，每月收取 5.99 美元的费用，为人们提供了更加丰富的选择。
-
-
-
-
-
-
-
-
-
-下图展示的是 Reddit 头像在用户个人主页上的呈现效果，该人物名叫「Jinx」，是 Riot Games 中的角色（该游戏有 1 亿月活跃用户）。也就是说，Reddit 已经有一些较大的合作伙伴了。
-
-
-
-
-
-
-
-
-
-每当用户评论或发布帖文时，他们的头像就会像下图这样…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第43周链上数据分析：期货交易占比到达较高位置，积累博弈较为激烈]]></title>
-        <id>https://www.theblockbeats.info/news/32262</id>
-        <link href="https://www.theblockbeats.info/news/32262"/>
-        <updated>2022-10-25T02:14:58.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《浮生未歇，星斗峥嵘｜WTR 10.24》
-原文来源：
-
- WatchToweR 研究院
-
-
-
-
-
-本周回顾
- 
-本周从 10 月 17 日到 10 月 24 日，BTC 最高附近 19700，最低接近 18660，震荡幅度达到 5.3% 左右。
-观察近期筹码分布图，在约 18500-19200 附近有大量筹码成交，将有一定的支撑或压力。
-
-
-
-
-
-
-
-
-
-• 分析：
-
-
-1.  16000~18500   约 110 万枚
-2.   20000~24000  约 165 万枚
-• 短期内保持在 16000~24000  概率为  64.4 %；
-• 其中短期内涨不破 22500～24000 的概率为 63.1 %。
-
-
-
-
-
-
-
-
-
-重要消息方面
- 
-经济消息方面
- 
-• 美国
-
-
-
-1. 本周内美国 10 年期实际利率攀升 3 个基点至 1.76%，为 2009 年以来最高。
-2. 本周内美国 10 年期国债收益率自 2008 年以来首次升破 4.25%，创 2008 年 7 月以来最高水平，30 年期国债收益率连刷九年新高。
-3. 美国当周申请失业金人数 21.4 万人，低于前值 22.8 万人，低于预期 23 万人。
-4. 美国 9 月成屋销售总数年化 471 万户，除去疫情初期的异常，创下了 2012 年 9 月来最低。9 月成屋价格中位数同比上涨 8.4%，环比连续三个月走低。
-5. 市场预测 11 月初美联储将再次加息 75 个基点，政策利率将在 2023 年上半年触及 5% 的峰值。
-
-
-
-
-• 英国 & 欧盟
-
-
-
-
-
-1. 英国首相特拉斯在任 44 天后宣布辞职。
-2. 英国通胀率达到 10.1%，为 40 年来最高水平。
-3. 本周内德国 10 年期国债收益率升破 2.5%，为 2011 年以来首次。
-4. 德国议会通过 2000 亿欧元紧急…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
