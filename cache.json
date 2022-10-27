@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32281",
+          "author": null,
+          "description": "原文标题：《概览 Kava 11 主网的创新模块，带来全新增长潜力》\n原文来源：Kava Labs\n\n\n\n\n\n\nKava 正朝着 10 亿美元 TVL 和部署超过 100 个网络协议的初步目标迈进。北京时间 10 月 27 日，Kava 的增长引擎进行了大规模的升级。\n\n\n让我们一起来了解下 Kava 11 主网的升级所带来的巨大改变。\n\n\n\n\n\nKava Rise 开发者激励计划收效颇丰\n\n\nKava 10 主网的升级激活了 Kava 以太坊虚拟机（EVM）为 CosmosEVM 奠定了基础，支持以太坊生态的所有价值流入 Kava Network。\n\n\n开发者和协议现在拥有 ERC-20 兼容网络的所有功能，加上价值超过 7.5 亿美元的Kava Rise开发者奖励，以及 Kava 展现的为用户提供更多服务的路线图，都是 Kava 不断增长的根本原因。\n\n\n尽管目前功能和使用范围非常有限，但 Kava EVM 上线仅短短几个月已得到大幅增长。自 2022 年 5 月宣布该功能以来，封装的 KAVA 总量超过了 32 万枚。除此之外，Kava 以太坊共链已在超过 189 万个钱包地址之间处理了超过 550 万笔交易。\n\n\n这些主要都归功于 Kava Rise 激励计划所带来的增长开发者的能力。目前 Kava 生态上已有超过 40 多个协议完成部署，在 DeFiLama 的 DeFi TVL 排行榜上已经攀升到了前 15 名。Kava Network 拥有超过 2.5 亿美元的 TVL，未来总的潜在市场和可获得的价值将呈几何增长。\n\n\n在所有完成部署的协议中，值得关注的项目包括顶级 DeFi 协议，如 Curve Finance 和 Sushi。Curve Finance 上的 Kava 3pool在 KAVA 奖励上线后的前几天 TVL 就突破了 1400 万美元，使 Cu…",
+          "link": "https://www.theblockbeats.info/news/32281",
+          "publishedOn": "2022-10-27T02:50:53.000Z",
+          "wordCount": null,
+          "title": "概览Kava 11主网的创新模块，带来全新增长潜力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32280",
+          "author": null,
+          "description": "在市场低迷的时候潜心发展项目不断创新还是选择减少开支等行情转牛是项目不同的选择，我们很难去评判其优劣。不过，我们细心发现，行情低迷有时候会是弯道超车的好时机。\n\n\n \nKava 的 Kava 10 主网相交此前版本有了较大的迭代，结合了 Ethereum 智能合约开发的灵活性以及 Cosmos SDK 的互操作性，推出了共链架构。\n\n\n\n\n同时，配合先锋计划和价值 7.5 亿美元的开发者激励，Kava 生态初见成效。在短短几个月时间里，42 个项目加入 Kava 生态，并为 Kava 带来了近 3 亿美元的 TVL。其中，Kava 还与知名 DeFi 项目还 Sushi、Curve 联合开展的用户激励活动。Curve 上 Kava 3pool 在该池的 KAVA 奖励上线的第一天 TVL 便达到 1400 万美元。\n\n\n \n恰逢 Kava 即将启动 Kava 11 主网，BlockBeats 和 Kava CEO Scott Stuart 聊一聊关于 Kava 11 主网的新功能和 Kava 是如何取得如此优秀的成绩。\n\n\n \n上线 3 年，11 次升级，整合超 40 个项目\n\n\n\n\nBlockBeats：从数据上来看，Kava 10 主要的成绩体现在 26 个项目加入 Kava，为 Kava 后续发展奠定了基础。您能否从项目本身的角度为我们讲解一下，普通用户视角下无法看到的 Kava 所获得的成绩？\n\n\n \nScott Stuart：今年十月正好是 Kava 主网上线三周年，我们从垂直的 DeFi 协议赛道发展成一条成熟的公链，安全性一直是我们在背后努力付出的成果。Kava 的主网在三年内经历了 11 次升级，先后上线了三个自运营的 DeFi 类协议，链上整合了超过 40 个项目。\n\n\n \n在今年 5 月 Kava EVM 共链正式上线以来，Kava EVM 共链累计生成…",
+          "link": "https://www.theblockbeats.info/news/32280",
+          "publishedOn": "2022-10-27T02:47:53.000Z",
+          "wordCount": null,
+          "title": "对话Kava CEO ：历经3年11次升级的Kava共链架构具备无限潜能和创新",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32279",
           "author": null,
           "description": "苹果对NFT敞开怀抱？最新App Store审核指南解读",
@@ -133,16 +153,6 @@
           "publishedOn": "2022-10-25T02:14:58.000Z",
           "wordCount": null,
           "title": "第43周链上数据分析：期货交易占比到达较高位置，积累博弈较为激烈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32256",
-          "author": null,
-          "description": "原文标题：《投资机构青睐的 SocialFi，有哪些项目值得期待？》\n原文作者：@0xCryptoUni、@SylviaOU1，DeBOx 研究院\n\n\n\n\n摘要\n\n\n金融、娱乐、社交在 web2 中都是蕴含巨大赚钱效应的赛道，2020 年的 Defi Summer 就引爆了一轮牛市，2021 年的 GameFi 也让市场更加火热。有了 DeFi 和 GameFi 的成功，web3 创业者们自然而然的会想到 SocialFi，资本也嗅到了 web3 中的社交潜力，不断在这一赛道下注。但是 SocialFi 目前还处于非常早期的阶段，存在着基础设施不足、用户量增长存在瓶颈、用户粘性不够等问题。本文借助几个有代表性的项目，简单梳理了 SocialFi 当前的发展情况，希望能够从中找到挖掘潜力 SocialFi 项目的方法。\n\n\nSocialFi，顾名思义就是社交+金融，让用户可以通过社交行为来赚取Token。金钱激励以及数据所有权的叙事，很容易将 web3 用户的目光吸引到 SocialFi 赛道中。那 SocialFi 就是简单的将社交网络搬到区块链上来吗？\n\n\n并没有想象中的那么容易，除了金融属性外，SocialFi 与传统 web2.0 的社交平台不同之处还在于：SocialFi 是建立在 Web3.0 底层基础设施上的。因此 SocialFi 的架构与传统社交平台的架构完全不同。传统社交平台的底层一般是中心化的服务器，而 SocialFi 由于去中心化的特点和数据隐私的需求，因此底层包括去中心化存储、去中心化计算、去中心化隐私等。传统社交平台的中间层一般是数据库以及各类中间件，其上就是应用层，而 SocialFi 并没有标准的架构，建立在底层上的可以是协议层、公链层、中间件，也可以是应用层，这种架构也被称为开放式社交堆栈。\n\n\n一、SocialFi 基础设施\n\n\n我们先来…",
-          "link": "https://www.theblockbeats.info/news/32256",
-          "publishedOn": "2022-10-24T14:00:27.000Z",
-          "wordCount": null,
-          "title": "投资机构青睐的SocialFi，有哪些项目值得期待？",
           "imageUrl": null
         }
       ]
