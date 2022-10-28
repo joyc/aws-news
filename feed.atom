@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-28T00:52:52.145Z</updated>
+    <updated>2022-10-28T06:12:18.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Buidler DAO: 我所理解的Layer0、1、2层到底是什么？]]></title>
+        <id>https://www.theblockbeats.info/news/32314</id>
+        <link href="https://www.theblockbeats.info/news/32314"/>
+        <updated>2022-10-28T04:46:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Buidler DAO: 我所理解的 Layer0、1、2 层到底是什么？》
+原文作者：
+
+Buidler DAO
+
+
+
+Layer0: 跨链通信 
+              
+Layer0 是我认为目前行业对其定义最模糊也是理解最复杂的一层，所以我会多花一些时间讲解。
+
+
+
+很多人将 Layer0 定义为区块链基础设施服务层，但我觉得这个概念还是太大太粗，目前我认为 Layer0 的关键词就是发链、多链与跨链，核心内容落在了跨链通信与模块化区块链，所以讲清楚了跨链通信和模块化区块链，Layer0 的内容也就基本覆盖了。
+
+
+
+
+先说说跨链通信，要注意跨链通信和跨链不一样，跨链通信是一个技术实现，跨链则是一个业务场景。
+
+
+
+
+跨链是区块链极其重要的能力，假设每条链都是一个银行，如果区块链无法跨链则等于无法实现银行转账。 我们常说的跨链是指资产跨链，即我想把 A 链的 aToken 跨到 B 链，首先 Token 的项目方需要在两条链上都发行自己的原生 Token，然后使用跨链桥来进行两边 Token 的「转移」，转移打引号的原因是转移的过程并不是我们所理解的从 A 移动到 B，其工作原理是将 A 链的 aToken 锁定，然后再在 B 链铸造对应数量的 bToken，至于 A 链锁定资产，到 B 链铸造资产这个中间的过程则会产生很多问题，主要就是通信的问题，A 链如何通知 B 链「张三刚才在我这里锁定了 20 个 aToken，你现在赶紧的给他弄 20 个 bToken 出来」呢？
+
+
+
+
+链本身是封闭的情况下只能通过链下的监控来连接两条链的资产变化情况，比如我写个脚本之类的。但这不够 native，也不够安全，所以跨链桥经常出问题，跨链通信则是主要解决多链之间原生信息传输的问题。
+
+
+
+
+专注于做跨链通信的 LayerZero 协议我之前也写过一篇与它相关…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EthSign万字专访：三年后，谁讲Web3谁就土了]]></title>
+        <id>https://www.theblockbeats.info/news/32313</id>
+        <link href="https://www.theblockbeats.info/news/32313"/>
+        <updated>2022-10-28T04:03:40.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Jack(0x137)，BlockBeats
+
+
+
+
+「恭喜 EthSign!!!」，这曾经是年初刷爆不少加密用户手机屏的一条朋友圈。今年 3 月，电子协议签署平台 EthSign 完成了 1200 万美元种子轮融资，红杉印度、Mirana Ventures、Amber Group、Circle Ventures、HashKey Group 等一梯队机构纷纷参投，在加密圈子里引起了不小的轰动。大家都在问，这个项目从哪冒出来的？想做的到底是什么？
+
+
+
+
+实际上，EthSign 这个项目从 2019 年下半年就开始了。那时正值 DeFi Summer 最火热的阶段，创始人 Yan Xin 还在做投资经理，受到 DeFi 浪潮鼓舞的他整天都在和自己的联创 Potter 讨论加密领域的新想法。在有了做以太坊电子签名的想法后，Potter 立即在南加州大学区块链协会找到了几位热情的好友，来帮助代码的编写工作。不过因为大家都是兼职，加上对 Web3 原语的生疏，开发的进展一直很缓慢。
+
+
+
+
+2020 年 6 月，EthSign 团队参加了 ETHGlobal 举办的黑客松活动，在活动期间做出了 EthSign 第一个能用的版本。不久后，Nicole 和 Claire 两位专攻交互设计的成员加入了团队，EthSign 的前端也得到了极大的改善。2021 年 2 月，团队在的 Dorahacks 黑客松活动上展示了产品的第二个版本，这时的 EthSign 用户体验已经有了质的提升。
+
+
+
+
+黑客松活动后，团队收到了许多来自社区的反馈和建议，团队再次沉下心来认真开发。今年 3 月，团队宣布融资消息，6 月 EthSign Signatures Beta 版本上线，到了 7 月，就已经聚合了超 10 万个用户签名。10 月，团队又宣布将上线下一个产品 Token Table。
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zkSync2.0主网上线：我们都应该知道些什么]]></title>
+        <id>https://www.theblockbeats.info/news/32312</id>
+        <link href="https://www.theblockbeats.info/news/32312"/>
+        <updated>2022-10-28T03:03:40.000Z</updated>
+        <summary type="html"><![CDATA[zk-Rollup 一直被视为解决以太坊扩容问题的终极方案，但受限于 zk 技术的开发难度，导致目前市场上 zk-Rollup 产品一直没能推出通用且 EVM 兼容的扩展方案。而随着 zk-Rollup 领域双雄之一的 zkSync 即将于 10 月 28 日推出其 2.0 版本主网，zk-Rollup 无疑向大规模的应用迈出了坚实的一步。
+
+
+
+
+那么在 zkSync 2.0 主网上线后将会发生什么？对普通用户又将产生哪些影响？本文将为您进行全面的信息梳理。
+
+
+
+
+zkSync2.0 主要技术对比分析
+
+
+
+
+zkSync2.0 采用了基于 Snark 证明的 zk-Rollup 技术，并且支持 EVM 兼容。那么这些特点将为 zkSync2.0 带来哪些优势，在文章的一开始我们先来做个简单的回顾。
+
+
+
+
+zk-Rollup 相比 op-Rollup 的优势
+
+
+
+
+以 zkSync2.0 与 StarkNet 为代表的 zk-Rollup 路径，被普遍视为 Layer2 扩容的终极方案。以至于以太坊创始人 Vitalik 认为，zk-Rollups 将会成为扩容的最终方案。而目前更为流行的 op-Rollup，可能只是作为在 zk-Rollups 技术尚不成熟时的过渡方案而存在。
+
+
+
+
+相较于目前可用性更强的 op-Rollup 产品，未来的 zkSync2.0 将拥有更快的交易确认速度。从 zkSync2.0 向以太坊主网进行提款大约只需要 10 分钟的确认时间，而采用 OPs-Rollup 的扩容方案往往需要一周左右的时间才能完成。
+
+
+
+
+同时，由于 zk-Rollup 技术采用零知识证明技术对交易进行验证，因此其只需要在以太坊主网上存储压缩过后的交易信息与最终状态的证明（Proof），相比 Op-Rollup 节省了存储交易签名的空间，大大提高了压缩效率，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAO治理时代来临——ApePark NFT上线，正式发布用户自治模式规范]]></title>
         <id>https://www.theblockbeats.info/news/32311</id>
@@ -552,149 +672,6 @@ BlockBeats 注：社交恢复是指利用社交关系帮助用户在丢失密钥
 原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币和以太坊的抗审查性]]></title>
-        <id>https://www.theblockbeats.info/news/32270</id>
-        <link href="https://www.theblockbeats.info/news/32270"/>
-        <updated>2022-10-25T15:23:49.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Censorship resistance in Bitcoin and Ethereum》
-原文作者：Allen Zhao, Mustafa Yilham, Henry Ang & Jermaine Wong，Bixin Ventures
-原文编译：Evan Gu，Wayne Zhang，Bixin Ventures
-
-
-八月初，美国财政部海外资产控制办公室 (OFAC) 决定将 Tornado Cash 添加到制裁名单中的消息将抗审查的问题放到了聚光灯下。为免除相关刑事责任，RPC 服务提供商 Alchemy 和 Infura 限制了对 Tornado Cash 智能合约数据的访问，Circle（USDC 发行商）也将制裁名单上的钱包地址列入黑名单。黑名单列出的地址也同样遭到了例如 Aave 等 Defi 协议的禁止，但用户仍然可以交互一些智能合约，不过需要许多额外步骤和一些技术方面的专业知识。
-
-
-这让我们思考一个更加普遍的问题：区块链在协议层面会被审查吗？以太坊社区已经出现对协议级别审查的担忧，66% 的信标链验证者在合并后对于 OFAC 法规表示很敏感。如果超过 1/3 的验证者（按权益权重）被以任何形式进行审查，以太坊链将无法正常运行。
-
-
-
-
-
-在本文中，我们将通过三个关键问题，比较 BTC（POW）和 ETH（POS）在抗审查方面的表现，最后再给出我们的思考。
-
-
-「审查」的定义
-
-
-在最近的 Bankless 播客中，Justin Drake 定义了两种不同类型的审查：弱审查和强审查
-
-
-1、弱审查：当某些被审查的区块生产者没有将个人交易包含在区块中时，就会发生弱审查，从而导致用户体验下降。比如一个合规的区块生产者拒绝来自黑名单地址的交易，但是，该交易最终仍由非审查区块生产者接收。
-
-
-2、强审查：当个人的交易永远不会被包含在链上时，就会发生强…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链上知识图谱协议Golden Protocol详细交互教程]]></title>
-        <id>https://www.theblockbeats.info/news/32266</id>
-        <link href="https://www.theblockbeats.info/news/32266"/>
-        <updated>2022-10-25T13:23:49.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Golden Protocol:全网最详细的中文交互教程》
-原文作者：syskey
-
-
-
-
-
-
-
-
-
-
-项目介绍
-
-
-这里就不 COPY 官方的话了，说下我个人的理解。Golden Protocol 就是一个「特别版」的维基百科，但和维基百科又有着本质的区别这里拿维基百科做类比主要是为了方便读者理解 Golden Protocol 是在做什么。具体想了解项目的可以看下官方这篇博客，从创立的初衷到使命以及和维基百科的对比都有介绍到。
-
-
-项目融资
-
-
-A 轮融资 1450W 美元，B 轮融资 4000W 美元。并且两轮融资都是由 A16z 领投，其他的投资机构也是异常强大。通过 Aptos 的空投，相信大家都知道 A16z 投资的项目的潜力了。
-
-
-空投条件
-
-
-提交实体或三元组
-
-验证三元组
-
-开发者贡献
-
-数据集贡献
-
-安全漏洞赏金
-
-协议、治理及模式贡献
-
-
-本交互教程主要以提交实体或三元组和验证三元组这两种方式来获取空投。
-
-
-交互教程
-
-
-教程开始之前，先提前预警，教程会比较长，并且会涉及到大量的图片来辅助说明。并且十分考验动手和思考能力，难度还是有些的。
-
-
-第一步：获取访问测试网的权限
-
-
-1.1 打开Golden Protocol官网，进行注册账号。
-
-
-
-
-
-
-1.2 输入姓名、邮箱、密码。最好使用 gmail 邮箱，减少不必要的麻烦。
-
-
-
-
-
-
-1.3 点击注册按钮后，来到邮箱检查收到的验证码，并将验证填写。
-
-
-
-
-
-
-1.4 验证码填写完毕后，会来到个人资料页设置，这里的设置具体看下面图片说明。
-
-
-
-
-
-
-1.5 接着会来到个人账号计划页面，我们直接选择 free。
-
-
-
-
-
-
-1.6 最后，下图就是注册账号成功后的样子了
-
-
-
-
-
-
-1.7 接下来要介绍一些概念性的东西了，理解了这些概念，将有助于完成后面的任务。
-
-
-1.8 什么是 …]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
