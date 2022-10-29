@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32324",
+          "author": null,
+          "description": "a16z：协议合规之路上都有哪些阻碍",
+          "link": "https://www.theblockbeats.info/news/32324",
+          "publishedOn": "2022-10-29T04:22:56.000Z",
+          "wordCount": null,
+          "title": "a16z：协议合规之路上都有哪些阻碍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32323",
+          "author": null,
+          "description": "zkSync2.0主网有哪些特点？",
+          "link": "https://www.theblockbeats.info/news/32323",
+          "publishedOn": "2022-10-29T03:14:56.000Z",
+          "wordCount": null,
+          "title": "zkSync2.0主网有哪些特点？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32316",
+          "author": null,
+          "description": "力争上游：空投捕手努力指南",
+          "link": "https://www.theblockbeats.info/news/32316",
+          "publishedOn": "2022-10-28T14:14:56.000Z",
+          "wordCount": null,
+          "title": "力争上游：空投捕手努力指南",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32322",
           "author": null,
           "description": "原视频来源：AptosEden\n\n听完初级课程，想必大家对MOVE语言编程已经会简单操作了。\n\nMOVE 语言中级课程在基础之上的补充深化，第一节将带你简单了解 MOVE 的类型能力、所有权、结构体、面向资源编程、合约项目实战。\n\n \n\n更多精选视频，请观看：《MOVE开发入门第十五节：Vector相关API尝试》《MOVE开发入门第十三节：泛型初识》\n《MOVE开发入门第十二节：引用举例》\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
