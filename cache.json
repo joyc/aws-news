@@ -164,36 +164,6 @@
           "wordCount": null,
           "title": "A&T View：低门槛钱包，大众大规模采用Web3应用的必要工具",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32301",
-          "author": null,
-          "description": "原文标题：《关于 Web3 营销的一切》\n原文作者：\n\nYudee（\n\n@yudeewxy）, WXY 创始人\n\n\n\n作者简介：Yudee, WXY 营销咨询公司创始人。拥有超过 15 年的市场营销经验，曾在奥美、腾讯、36Kr、美团等平台任职。于 2017 年进入 Web3，并在新加坡开创自己的营销咨询公司 WXY，服务了超过 300 个项目，如 dYdX，Klaytn、Tron、KuCoin 等等。\n\n\nWeb3 时而神秘代表未来、有时又充满黑暗与欺骗。因为 Web3 与科技和金融紧密相关，而这两者又代表着当今世界的方向与人性。有很多人在说，Web3 就是数据的归属权转移，而我认为除此之外，Web3 更是社会里众多组织架构、利益关系、资源配置等等的重构。在目前常见的 crypto 领域，Web3 代表着资本、市场、用户、投资者、机构等等都有节点的关系的改变。\n\n\n\n\n\n\nWeb3 在冉冉升起，伴随着各个主张的项目随之出现。目前来看，这些项目大多沿着传统币圈的打法来做市场营销，非常模版化，且效率不高。平均每个项目要花销 10 万甚至数十万美金在初期的营销上，但大部分收效甚微，还不如上个大所或者疯狂拉盘获得的效果好。这是一个误区，或者说是大部分 Web3 创业者的一个业务能力短板。高效的营销可以帮助项目事半功倍，可以降低项目全生命周期的综合运营成本。作者将 5 年以上的区块链营销经验如数奉上，希望帮助各项目方少走弯路，提升效率。\n\n\n先从马斯洛理论在 Web3 里的映射说起\n\n\n经典马斯洛理论认为人有五层需求，从下往上依次为：生理需求、安全需求、爱与归属需求、尊重需求、自我实现需求。所有的营销都需要根据目标群体的需求来进行相应的推广。但到了 Web3，事情略有变化。逻辑还是这个逻辑、人性也还是这个人性，但就目前的大众市场来看，90% 都是底层赚钱需求，10% 是高阶需求，如…",
-          "link": "https://www.theblockbeats.info/news/32301",
-          "publishedOn": "2022-10-27T11:08:25.000Z",
-          "wordCount": null,
-          "title": "关于Web3营销的一切",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32300",
-          "author": null,
-          "description": "原文来源：The Defiant\n原文作者: Aleksandar Gilbert\n\n\n\n\n据分析 2 层区块链空间的研究项目 L2 Beat 称，Multichain 是一个锁定总值达 10 亿美元的跨链桥接平台，已经转移了近 8000 万美元的Stablecoin和 300 个比特币，这些异常举动受到了审查。\n\n\n \nL2 Beat 表示，Multichain 从托管的用户资金中转移了数百万，以在其网络的其他地方提供流动性，这一举动引发了公众对其转移资金目的的质疑。此前媒体没有报道过这些举动及 L2 的审查。\n\n\n \n社会契约\n\n\n\n\nL2 Beat 的研究员 Bartek Kiepuszewski 告诉 The Defiant：「鉴于这是用户的钱，所以 Multichain 转移资金的行为要么是与该链上的用户达成一致，要么就是他们违反了与用户的社会契约。」\n\n\n \n今年绝大多数因黑客攻击而被盗丢失加密货币的事件都发生于跨链桥，跨链桥技术支持用户在区块链之间转移数字资产。\n\n\n \n原因很清楚：跨链桥技术复杂，这为攻击者提供了更多的利用途径。此外，它们提供了单点故障：智能合约将用户资金锁在托管中，而「转移」的资产——本质上是借据——被用于目标链。\n\n\n \n谜团重重\n\n\n\n\n因此，当 L2 Beat 的研究人员深入挖掘 Multichain 并发现来自内部的明显威胁时，他们感到很惊讶。\n\n\n \nBartek Kiepuszewski 表示，鉴于这是用户的钱，所以 Multichain 转移资金的行为要么是与该链上的用户达成一致，要么就是他们违反了与用户的社会契约。\n\n\n \n根据 Kiepuszewski 的说法，虽然可以在链上看到资产从托管中转移，但这些资产的最终去向仍然未知。\n\n\n \nL2 Beat 表示，Multichain 声称这些资产被用在其网络的其他地方提供流动性…",
-          "link": "https://www.theblockbeats.info/news/32300",
-          "publishedOn": "2022-10-27T10:08:25.000Z",
-          "wordCount": null,
-          "title": "外媒：Multichain是否存在管理用户资金不当的情况？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32297",
-          "author": null,
-          "description": "原视频来源：AptosEden\n\n\nMOVE 是一门智能合约开发语言，随着新公链     Aptos 的崛起，MOVE 语言也渐渐进入大众视野。上节我们简单了解了泛型容器和它的使用方法，这一期主要讲了Vector 相关 API 尝试，更加偏向于操作层面，希望小伙伴们看完能有所收获。\n \n\n\n\n更多视频，请观看《MOVE开发入门第十四节：容器使用》\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32297",
-          "publishedOn": "2022-10-27T10:08:25.000Z",
-          "wordCount": null,
-          "title": "MOVE开发入门第十五节：Vector相关API尝试",
-          "imageUrl": null
         }
       ]
     },
