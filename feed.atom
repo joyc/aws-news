@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-30T00:55:15.705Z</updated>
+    <updated>2022-10-30T06:10:44.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -563,26 +563,6 @@ zk-Rollup 相比 op-Rollup 的优势
 
 
 同时，由于 zk-Rollup 技术采用零知识证明技术对交易进行验证，因此其只需要在以太坊主网上存储压缩过后的交易信息与最终状态的证明（Proof），相比 Op-Rollup 节省了存储交易签名的空间，大大提高了压缩效率，…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAO治理时代来临——ApePark NFT上线，正式发布用户自治模式规范]]></title>
-        <id>https://www.theblockbeats.info/news/32311</id>
-        <link href="https://www.theblockbeats.info/news/32311"/>
-        <updated>2022-10-27T14:40:54.000Z</updated>
-        <summary type="html"><![CDATA[DAO治理时代来临——ApePark NFT上线，正式发布用户自治模式规范]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A&T View：低门槛钱包，大众大规模采用Web3应用的必要工具]]></title>
-        <id>https://www.theblockbeats.info/news/32298</id>
-        <link href="https://www.theblockbeats.info/news/32298"/>
-        <updated>2022-10-27T14:40:54.000Z</updated>
-        <summary type="html"><![CDATA[A&T View：低门槛钱包，大众大规模采用Web3应用的必要工具]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
