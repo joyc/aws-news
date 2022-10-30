@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-10-30T06:10:44.623Z</updated>
+    <updated>2022-10-30T12:17:07.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlockBeats荐读｜本周编辑部的作者们都在看什么？]]></title>
+        <id>https://www.theblockbeats.info/news/32332</id>
+        <link href="https://www.theblockbeats.info/news/32332"/>
+        <updated>2022-10-30T08:41:36.000Z</updated>
+        <summary type="html"><![CDATA[在市场低迷的时候，我们告别浮躁的故事，回归内容本身。BlockBeats 的小伙们每周推荐给读者们他们心中的佳文，并给出推荐理由。读者也可以加入 BlockBeats 社群、Discord，一同交流探讨。本推荐仅为交流学习，不作任何投资建议。如果您也有好文推荐，欢迎通过以下方式联系我们。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+联系我们
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BlockBeats Twitter：https://twitter.com/BlockBeatsChina
+BlockBeats Discord：https://discord.gg/R9fuWFyrTj
+BlockBeats Telegram：https://t.me/theblockbeatsApp
+
+
+
+
+BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
+
+
+
+
+
+推荐文章:《论 Web2.5 游戏过渡层：成大事的游戏，不做选择题》
+
+
+
+
+推荐人：Laughing
+
+
+
+
+推荐理由：前有 Axie Infinity 在东南亚地区爆火，后有 Stepn 掀起 Web3 运动浪潮，然而在人声鼎沸后，链游出圈仍迟迟无法突破。到底还差什么？「质量派」、「基础设施派」、「模型派」各持己见，这些观点放入一个概念里就是「Web2.5 游戏过渡层」，概括为：低门槛化把 Web2 游戏玩家引入 Web3 中，以 GameFi 金钱效应、NFT 资产为亮点，吸引更多人参与。
+
+
+
+
+作者从平台、工具、游戏架构、游戏玩法、Token 经济、思想启蒙等多个方面对「Web2.5 游戏过渡层」的架构展开论述，探讨了从 Web2 到 Web3 游戏那「临门一脚」的多种可行性方案。
+
+
+
+
+
+推荐文章: 《一文读懂动态 NFT》
+
+
+
+
+推荐人：Misak…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：马斯克拿下推特;zkSync2.0主网上线必备知识指南]]></title>
         <id>https://www.theblockbeats.info/news/32325</id>
