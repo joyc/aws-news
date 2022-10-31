@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32348",
+          "author": null,
+          "description": "原文作者：@BinaryHB\n\n\n\n\n\n\n理解开源，理解 Web3，理解世界。我这一次将继续拾起《请回答 Web3》系列，分享第二篇：为什么说开源社区是 DAO 的雏型？我们会探讨「当今世界的开源生态」「中立 Linux、Apache 开源基金会的必要性」「成功开源社区如 Kubernetes」「公司 vs 开源社区 vs DAO」等诸多议题。\n\n\n\n\n第一篇回顾： \n\n\n\n\n• 开源运动，自 Linus Torvalds 发明 Git 起，让 Linux 成为第一个意义上世界范围内成功的开源社区 • 在新千年随后的时间里，以 RedHat、MongoDB 和 Terraform 等为代表的前后三代开源商业模式，成功将开源运作为成熟的创新软件革新方式，在一级、二级市场上都备受青睐\n \n\n\n• 然而，当下的「成功」开源创业公司，依然面临挑战： 少则数年，动辄十年以计的开源项目成熟周期，比较公司制里的产品线来说，反而显得落地时间过长 开源社区的实际贡献者，没有像公司里的雇员一样获得实际的金钱激励，所以社区成员流动率很高、整体产出自然慢 原文： https://mirror.xyz/weiduan.eth/HasTqEdWCyCB4z2I-7HkYfyHG0gfAQX-L9kfXD-4GEw\n\n\n\n\n首先我们来看看，当今世界的开源生态是什么样的：  \n\n\n\n\n\n\n\n\n\n\n从分工来说，开源的生态位逐渐清晰：开源商业公司（标杆如国内 PingCap、国外 Terraform 等）负责通过开源手段，完成创新软件的孵化和主导；为了平衡多方顾虑，中立的开源基金会 Linux、Apache 等诞生，接受项目捐赠，辅助进行迭代；最后项目毕业成为领域内事实标准，和云巨头合作 SaaS 化变现。\n\n\n\n\n\n中立的 Linux、Apache 开源基金会，有多重要？我们以 Linux 下辖的一个子基金…",
+          "link": "https://www.theblockbeats.info/news/32348",
+          "publishedOn": "2022-10-31T14:13:43.000Z",
+          "wordCount": null,
+          "title": "为什么说开源社区是DAO的雏形？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32357",
           "author": null,
           "description": "10 月 31 日，Binance 宣布将上线 Launchpool 项目 Hashflow 的原生 Token HFT。Hashflow 是下一代去中心化交易平台，旨在为 DeFi 项目带来机构级的流动性和定价策略，从而实现无交易滑点，并完全屏蔽 MEV 相关的机器人抢先交易及三明治套利，自创立之初就一直受到市场的高度关注。此前，BlockBeats 对 Hashflow 进行了深度访谈，两位团队创始成员以「如何将机构流动性带入 DeFi？」为主题，介绍了即将推出的 Hashflow Token 分配情况以及 Hashflow 的未来愿景。\n \n\n\n\n以下为本次线上对话的文字版整理\n \n律动 BlockBeats：请先做个自我介绍，如何进入到 DeFi 领域的？\n\n \nVictor Ionescu：我是 Victor，Hashflow 的联合创始人兼首席技术官，在 2018 年与 Varun 会面时，他向我介绍了 DeFi 概念。我来自大型科技公司 (Facebook 以及 Airbnb)，现在已经在 DeFi 这个领域工作了 3 年。\n \nVarun Kumar：我是 Varun, Hashflow 的联合创始人兼 CEO。我是通过一个在 HotHub 认识的朋友了解到加密技术的，也是在那里遇到了 Victor。在进入加密领域之前，我曾在航天工业工作，建造卫星。\n \n律动 BlockBeats：可以介绍一下 Hashflow 这个项目吗？\n\n \nVarun Kumar：Hashflow 是一种去中心化的交易协议，它将交易员和流动性提供者直接与专业做市商联系起来。交易员可以以最好的利率交易热门的现货资产，而无需任何费用或产生滑点。LP 们可以在不遭受短期损失的情况下获得收益。\n \n自去年 8 月推出 Open Alpha 以来，Hashflow 的总交易额已经超过了 30…",
@@ -113,36 +123,6 @@
           "publishedOn": "2022-10-29T10:00:03.000Z",
           "wordCount": null,
           "title": "周末荐读：马斯克拿下推特;zkSync2.0主网上线必备知识指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32317",
-          "author": null,
-          "description": "原文标题：《40 页硅谷富豪圈聊天记录，揭秘马斯克的理想化推特》\n原文作者：flowie，ChainCatcher\n \n「the bird is freed（这只鸟儿自由了）」\n\n\n这是马斯克刚刚最新发布的推文，这也意味着拉扯半年之久的推特收购案已基本落下帷幕。\n\n\n\n\n\n此前，这场年度最热闹的收购案历经三次反转：\n\n\n第一次是在 3 月份，马斯克增持 9.2% 的推特股票后受邀进入推特董事，但很快马斯克表态拒绝进入董事会，并声明要将推特私有化；\n\n\n第二次是在 4 月份，马斯克提议以 440 亿美元的价格收购推特，但收购协议刚签完，马斯克又反悔要终止收购；\n\n\n第三次在本月，推特股东 7 月份曾将马斯克告上法庭，马斯克被迫面临着 10 亿美元天价分手费，几个月的拉扯后，马斯克又宣布按照原计划履行收购合同，直到收购正式完成。\n\n\n尽管历经多次反转和骂战，但马斯克收购推特可谓是众望所归。\n\n\n推特创始人&前首席执行官 Jack Dorsey 曾六连推力挺马斯克，表示「推特不应该被任何人拥有或者经营，应该成为一个协议级的公共产品，而不是一家公司。要解决这个问题，马斯克是我唯一信任的解决方案。」。\n\n\n9 月 28 日，随着马斯克有关收购推特的 40 页短信举证材料被公布，马斯克与多位业界大佬的近千条隐私对话也浮出水面。甲骨文创始人 Larry Elliso 、8VC 管理合伙人 Joe lonsdale 、马斯克弟弟 Kimbal  Musk 等业界大佬作为马斯克收购推特的最早智囊团，在表达「我们确实需要另一个推特了」的期盼之外，也为推特的未来模式积极建言献策。而币安、a16z、 红杉资本等巨头也公开承诺为马斯克提供数亿美元的收购资金支持。\n\n\n承载着众多期盼的马斯克，是否会延续创始人 Jack Dorsey 的初心，通过去中心化的协议方式让推特焕然一新？我们试图从 40 页的…",
-          "link": "https://www.theblockbeats.info/news/32317",
-          "publishedOn": "2022-10-29T06:00:03.000Z",
-          "wordCount": null,
-          "title": "马斯克千条聊天记录曝光，揭秘推特「自由鸟」打造计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32324",
-          "author": null,
-          "description": "a16z：协议合规之路上都有哪些阻碍",
-          "link": "https://www.theblockbeats.info/news/32324",
-          "publishedOn": "2022-10-29T04:22:56.000Z",
-          "wordCount": null,
-          "title": "a16z：协议合规之路上都有哪些阻碍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32323",
-          "author": null,
-          "description": "zkSync2.0主网有哪些特点？",
-          "link": "https://www.theblockbeats.info/news/32323",
-          "publishedOn": "2022-10-29T03:14:56.000Z",
-          "wordCount": null,
-          "title": "zkSync2.0主网有哪些特点？",
           "imageUrl": null
         }
       ]
