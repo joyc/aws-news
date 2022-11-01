@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32389",
+          "author": null,
+          "description": "原文标题：《Web2.0 实用商业项目 Web3.0》\n原文作者：\n\n追风 Lab\n\n\n\n\n\nWeb2 指的是众所周知的互联网版本。一个在互联网公司掌控下提供服务来交换个人数据的互联网。Web3 指的是在区块链上运行的去中心化应用。任何用户都可以参与以太坊上的这些应用，个人数据相对更安全。\n\n\n\n\nweb1.0：网络-人\nweb2.0：人-人\nweb3.0：人-网络-人\n\n\n\n\nweb1.0 网络是信息提供者，单向性的提供和单一性理解；web2.0 网络是平台，用户提供信息，通过网络，其他用户获取信息；web3.0 网络成为用户需求理解者和提供者，网络对用户了如指掌，知道用户有什么、要什么以及行为习惯，进行资源筛选、智能匹配，直接给用户答案。\n\n\n\n\n今天整理了一些由 Web2.0 衍变成如今 Web3.0 实用项目。\n\n\n\n\n（以下不作为投资建议，仅供学习使用）\n\n\n\n\n1）.com ---->Ens\n\n\n\n\n\n\n\n\nPFP 作头像，ENS 作名字。ENS 已成为个人的标签，方便记忆、转账、接收空投等。\n\n\n\n\n官方网站：网页链接\n官方推特：网页链接\n\n\n\n\n2）Twitter ---->Farcaster\n\n\n\n\n\n\n\n\nFarcaster 是一个充分去中心化的社交网络。它是一个可支持众多客户端的开放协议，这一点类似于邮箱。用户可在应用程序之间自由地迁移社交身份，开发人员可在该网络上自由地构建具有新功能的应用程序。在 Farcaster 上，你可以发送简短的文字信息广播，连接你的以太坊地址。验证地址所有权后可启用一系列特色功能，包括展示你的 NFT，将 NFT 用作经验证的头像等。arcaster 是一个事关「切身利益」的社交网络，重要的不仅是你所说的话，也包括你能在链上证明什么。\n\n\n\n\n融资\n\n\n\n\n\n前 Coinbase 高管 Dan Romero 创办的公司 M…",
+          "link": "https://www.theblockbeats.info/news/32389",
+          "publishedOn": "2022-11-01T09:40:56.000Z",
+          "wordCount": null,
+          "title": "盘点由Web2衍变成Web3的15个实用项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32390",
+          "author": null,
+          "description": "原文标题：《为什么 NFT 适合 SocialFi》\n原文作者：stefan、DeBox Institute\n\n\n\n\n如今的 SocialFi、DAO、NFT 给使用场景提供了想象空间，无论是发行自己的 NFT 吸引用户、利用 PASS 解锁相应权限等等，都是 NFT 和 SocialFi 的一种互惠共生关系的体现。未来的整个 SocialFi 和 NFT 的交互体验都会发生改变，当 NFT、DAO、DeFi 完全发挥作用融入了 SocialFi 的体系时，这一种新的 mix 产物将极有可能成为继 DeFi、NFT 之后的 SocialFi Summer！\n\n\n一. 什么是 SocialFi，为什么要关注它\n\n\n\n\nSocialFi 是 Social 和 Finance 的复合词，社交化金融，但是个人认为严格来说还要加上 NFT，social + NFT + DeFi 共同构成了 Socialfi 的生态系统。简单说就是把社交和金融联系在一起，通过社区 Token 或者社区 NFT 作为联结，以 DeFi 的形式构成的社交群体经济。现在 SocialFi 一词也被泛化使用，广义上也可以指代几乎所有的 Web3 社交项目。\n\n\n\n\n最早 SocialFi 项目在 2017 年就已经出现了，币乎、voice、密信、币信等项目都没有做起来。主要原因还是由于区块链技术的不完善，以及必备的共识没有达成，比如当时没有 DeFi 的概念作为支撑，没有 NFT 项目来炒作，各种 dApp 也没有那么成熟，17 年那会儿不到一百万的用户基数也难以支撑 SocialFi 的发展，所以在当时并没有发挥出应有的价值。但随着 21 年 DeFi 和 NFT 的相继爆发，各种 dApp 如雨后春笋一样涌现出来。应用层有了支撑，Web3.0 和去中心化理念的价值逐渐被挖掘出来。SocialFi 为用户们…",
+          "link": "https://www.theblockbeats.info/news/32390",
+          "publishedOn": "2022-11-01T09:40:56.000Z",
+          "wordCount": null,
+          "title": "从Lens、Mirror等应用实践分析，为什么NFT适合SocialFi？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32387",
+          "author": null,
+          "description": "原文来源： 深潮 TechFlow\n\n\n原文作者：\n\nMorty，\n\n深潮 TechFlow\n\n\n\n\n\n10 月 31 日，以太坊里斯本黑客松落下了帷幕。此次黑客松参与项目共计 97 个，开发人员 352 名。\n\n\n接下来，本文将带您速览此次黑客松获奖的十个项目。\n\n\n\n\n\n\n  Deterministic Encryption and Storage via Snap and IPFS\n\n\n（以下简称「D」）\n\n\n「D」是一款旨在以去中心化的方式保护用户 dApp 数据的应用，其核心是「EIP-5630」。「D」构建了一款名为 Metamask Snap 的应用，实现了「EIP-5630」。同时，它提供了一个钱包接口，用于使用钱包的私钥对数据进行加密和解密。用户在 dApp 中的数据将通过 IPFS，以去中心化的方式进行存储。\n\n\n\nRealms Assassins - Fog of War\n\n\nRealms Assassins - Fog of War 是一款由 BibliothecaDAO 推出的，针对链上游戏的数据存储协议。它建立在 Starknet 上，旨在解决将受信任的公共信息加密的问题。\n\n\nBibliothecaDAO 的初衷是保护链上玩家的数据隐私——只有满足一定条件时，这些数据才能够被查看。它把 Fog of War（战争迷雾）比作是一个可信的第三方「地下城主」，存储私人信息，允许玩家在没有 zk 哈希的情况下进行多人链上游戏。\n\n\n\nSafeCheck\n\n\nSafeCheck 的标语是「Better insights about your transactions（更好地了解你的每次交易）」，它可以帮助用户在发送交易前了解目标地址和交易结果。\n\n\n本质上，SafeCheck 是对区块链参与门槛的降低，对新人用户友好。\n\n\n\nArchive the We…",
+          "link": "https://www.theblockbeats.info/news/32387",
+          "publishedOn": "2022-11-01T07:40:56.000Z",
+          "wordCount": null,
+          "title": "ETH Lisbon黑客松获奖项目一览：存储、隐私与工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32386",
+          "author": null,
+          "description": "据 BlockBeats 消息，11 月 1 日，MakerDAO 前技术合作伙伴、DappHub CEO、Balancer 联合创始人 Nikolai Muchgian 在波多黎各康达多海滩 (Condado beach) 被发现溺水身亡，年仅 29 岁。\n\n\n\n\nNikolai 在加密领域非常活跃的开发者，参与过多个区块链项目。他参与设计了最初的 DAI 合约架构，并创建了 Balancer AMM，还曾防止了 MakerDAO 发生类似 The DAO 同样的攻击。Nikolai 逝世讯息得到证实后，Tether 创始人 Craig Sellars、21stParadigm 联创 Dylan Leclair 均公开表示悼念。\n\n\n\n\n去世消息传出的前三天，Nikolai 在社交媒体上发布了有关美执法部门的部分信息，并表示遭遇威胁。他在自己的推文里写道：「CIA、摩萨德和 pedo 精英正在波多黎各和加勒比群岛开展某种性交易圈套勒索。他们会用我的前女友安插的笔记本电脑陷害我，她是一名间谍。他们会把我折磨至死。」\n\n\n\n\n\n\n\n\n\n目前关于该事件进展的信息较少，无法确定 Nikolai 遇难是否与上述实体相关。但康达多海滩因有着强烈的暗流，一直被认为是一个充满危险的海滩。据当地媒体报道，此次溺亡事件已是近 15 个月内的第二次。\n\n\n\n\n过去几个月可谓是 MakerDAO 的多事之秋。在 Tornado Cash 制裁新闻爆出后，DAI 如何确保自己的去中心化能力一直是 MakerDAO 社区甚至整个加密领域热烈讨论的问题。团队还一度提出将所有 USDC 置换为 ETH 的提案。\n\n\n\n\nNikolai 的逝世正好发生在 MakerDAO 又一重大变革的节骨眼上。\n\n\n\n\n早在去年 10 月，MakerDAO 创始人 Rune Christensen 就指出了 DAI 当…",
+          "link": "https://www.theblockbeats.info/news/32386",
+          "publishedOn": "2022-11-01T07:40:56.000Z",
+          "wordCount": null,
+          "title": "脱钩风险、联创溺亡，MakerDAO的多事之秋",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32359",
           "author": null,
           "description": "原文标题：《论剑 Web3：ERC-3475 对话 ERC-3525》\n原文作者：老雅痞，FastDaily\n\n\n\n\n\n2022 年 10 月 14 日，D/Bond CPO、EIP-3475 主作者 Liu Yu 和 Solv Protocol 联合创始人、EIP-3525 主作者 Will 共同举行了一场以 ERC-3475 对话 ERC-3525 为主题的圆桌会议。二人基于 ERC-3475 和 ERC-3525 这两大标准的特性和设计理念，针对 Token 协议标准的实质、SBT 的具体应用、链上 Metadata 的重要性，以及 Web3 的本质等问题进行了深入浅出的探讨和观点的交锋。\n\n\nERC-3475 和 ERC-3525 这两种 API 标准都具有多层数据结构，因此双方均声称可以被用于构建去中心化债券等高级金融资产。而也正因为其用例的重合性，外界对于这两种标准的对比、讨论，甚至说是疑惑之声也不绝于耳。\n\n\n\n\n\n \n \n \n \n一论：Token 协议标准的实质\n\n\n\n\n\n根据 EIP-3525 的主作者 Will 的看法，Token 作为数字资产的载体，其核心主要包括两个组成部分——Ownership 和 Transfer，即拥有和转账。\n\n\n「所谓数字资产模型的核心，从用户的视角来看，其实就是两个东西，一个是 Ownership，也就是拥有者的关系；另一个是 Transfer，也就是转移的关系。」 \n——Will\n\n\n反观 EIP-3475 的作者 Liu Yu 则认为，从全局角度出发，Token 的本质其实就是一种数据储存和读写的格式。\n\n\n「所谓 Token 协议标准，实质上就是一种数据储存的格式。从这种角度理解，Transfer 实质上就是将某一个 Key => Value 从 1 减到了 0，与此同时，又把另一个 Key => Value 从 0…",
