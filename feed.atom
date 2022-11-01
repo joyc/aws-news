@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-01T12:20:51.762Z</updated>
+    <updated>2022-11-01T18:12:16.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022再出发，香江加密愿景的潮落潮起]]></title>
+        <id>https://www.theblockbeats.info/news/32376</id>
+        <link href="https://www.theblockbeats.info/news/32376"/>
+        <updated>2022-11-01T14:55:29.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《2022 再出发，香江加密愿景的潮落潮起》
+原文作者：Frank，Foresight News
+
+
+
+
+10 月 31 日，香港特区政府发表虚拟资产政策宣言，阐明政府为在香港发展具活力的虚拟资产行业和生态系统而订定的政策立场和方针，涵盖愿景和方针、监管、试验计划等层面（延伸阅读《全文：有关香港虚拟资产发展的政策宣言》），港府对虚拟资产与 Web3 发展的欢迎和鼓励态度。
+
+
+
+
+其中「加紧筹备新虚拟资产服务提供商发牌制度」更是令人眼前一亮，据彭博社此前援引消息人士报道，香港计划于明年 3 月实施的加密货币平台强制许可计划将允许加密货币零售交易，以成为加密枢纽。
+
+
+
+
+总的来看，无论是从本届金融科技周首日 Web3 相关人士的密集压阵亮相，还是虚拟资产政策宣言中令人心潮澎湃的庄严许诺，都进一步旗帜鲜明地向全世界宣告香港对 Web3 与加密资产大门敞开的十足诚意。
+
+
+
+
+
+
+
+
+
+2017 - 2022，香港加密政策与重大事件盘点
+
+
+
+
+草蛇灰线，伏脉千里。如果我们纵览香港的加密政策颁布历程及相关重大事件，会发现香港早在 2017 年就开始围绕加密资产进行布局，且主要分为两个阶段：
+
+
+
+
+2017 年至 2020 年，以香港证监会为主要监管主体，港府发布一系列涉及 ICO、STO、加密货币交易相关的政策文件，监管框架逐步完善；2021 年至 2022 年，以香港金管局、港交所等为主，香港在代币化债券、数字港元、央行数字货币（CBDC）等方面动作频频，声量盖过加密资产直接相关的赛道；
+
+
+
+
+但与此同时，现实却背道而驰——无论是 FTX、BitMEX 等加密公司陆续选择搬离香港，还是今年以来甚嚣尘上的 Web3 卷向新加坡的论调，都让香港在错失互联网之后，似乎要进一步在 Web3 时代跌落前排。
+
+
+
+
+直到今年，尤其是港府新一届班子上台之后，香港明显视野回转…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盘点由Web2衍变成Web3的15个实用项目]]></title>
         <id>https://www.theblockbeats.info/news/32389</id>
