@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32412",
+          "author": null,
+          "description": "原文标题：《Optimistic on OPCraft》\n原文作者：William M. Peaster，Bankless\n原文编译：DeFi 之道\n\n\n本周早些时候，我写了一篇关于 NFT 游戏设计困难之处的文章。\n\n\n然而，并不是每个游戏都应该被完美地打磨，或是遵循传统的游戏智慧。\n\n\n这是因为有些游戏可以作为实验来探索新的可能性。\n\n\nOPCraft 就是这样一个 NFT 项目，它是一个引人注目的非常规实验。\n\n\nOPCraft 很有趣，它位于链上游戏引擎和第二层（L2）扩展解决方案的十字路口，其运作方式是我们此前从未见过的。\n\n\n在今天的文章中，我们将探讨这个创新项目的基本情况！\n\n\n\n\n\n在 OPCraft 中发生了很多事情。\n\n\n该项目很容易成为迄今为止最好的链游实验/体验 opcraft.mud.dev。\n\n\nOPStack 背景\n\n\n要了解 OPCraft，得首先要掌握它的基础。\n\n\n值得注意的是，该游戏建立在 OP Stack 上，这是 OptimismL2 的创建者在 2022 年 10 月首次推出的模块化系统，旨在「建立自己的区块链」。\n\n\n\n\n\n正如该团队在其公告中解释的那样：\n\n\n「OP Stack 是为 Optimism 的下一代架构提供动力的代码。它是一系列的模块，共同形成连贯、可靠的区块链。这些组件中的每一个都实现了堆栈的一个特定层。」\n\n\nOptimism 的开发者在注意到他们的代码库被分叉用于各种独特的实验后，开始正式确定这个 rollup 系统。这些实验中的一个早期项目就是 OPCraft，它定制了自己的链，以扩大 Optimism 已经相当大的交易吞吐量优势。\n\n\nOPCraft 101\n\n\n\n\n\nOPCraft 由 Lattice 团队创建，是一款链上 3D 体素游戏。\n\n\n「体素」指的是用于在游戏中建造结构的虚拟块。\n\n\n「链上」…",
+          "link": "https://www.theblockbeats.info/news/32412",
+          "publishedOn": "2022-11-02T10:12:47.000Z",
+          "wordCount": null,
+          "title": "OPCraft：首个建立在Op Stack上的应用链游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32411",
+          "author": null,
+          "description": "原文作者：Col Jung \n原文编译：Leo，BlockBeats\n\n\n\n\n\n\n\nNFT 市场行业是一个竞争激烈的行业。\n\n\n\n\n从开始的只有几个参与者，到现在的已经发展成为一个繁荣的行业，每段时间都有新的入场者参与竞争，争夺同一块利润丰厚的蛋糕。\n\n\n\n\nMOOAR ，一个新兴的 NFT 市场，其母公司为 Find Satoshi Lab (FSL)——Stepn 的开发商。在发布了备受欢迎的 Web 3 生活方式 app 后，FSL 带动了 move-to-earn 行业发展，并紧接着推出了 DOOAR，后者很快成为 Solana 旗下最大的去中心化交易所 (DEX)。\n\n\n\n\n目前，FSL 团队正在推出自己的 NFT 市场。但是像 MOOAR 这样的新入场者怎样才能在老牌竞争对手林立的市场上站稳脚跟呢？\n\n\n\n\n激烈的竞争\n\n\n\n\n对于跟不上狂热的创新步伐的入局者来说，NFT 市场之间的竞争可能是一种激烈而残酷的过程，NFT 市场上没有所谓的「安全」。\n\n\n\n\n最大的 NFT 市场—以太坊的 OpenSea 占据了交易量的最大份额。但最近几个月，后入场的「潜力股」X2Y2 已经慢慢从 OpenSea 手中抢走交易量，并在最近一个季度超越了 OpenSea。\n\n\n\n\n\n\n\n\n\n我们见证了 Solana 生态系统中相似的优势动态循环。\n\n\n\n\nMagic Eden 目前占据着 Solana NFT 交易量的 70 %- 80 %, 而第二大最受欢迎的市场（Yawww）在过去的一个月里仅占 15%，但一时优势并不是持续性的。在 Magic Eden 出现之前，Solanart 拥有 Solana 的 NFT 份额，在 2021 年第三季度，大规模推出 Degenerate Ape Academy 后，8 分钟内售出 1 万只 ape，迅速跻身主流。\n\n\n\n\n正是从那时起，…",
+          "link": "https://www.theblockbeats.info/news/32411",
+          "publishedOn": "2022-11-02T08:12:47.000Z",
+          "wordCount": null,
+          "title": "解读MOOAR：StepN新NFT市场的独特卖点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32396",
+          "author": null,
+          "description": "原文标题：《马上 2023 年，跨链还有哪些可能性？》\n原文作者： hzw\n\n\n\n\n\n\n\n\n\n\n跨链技术似乎一直是一个争议不断，但又不断被人提及的技术。特别是每当有跨链桥被盗时，对跨链技术的争议就会随之而起。而另一方面随着 IBC、LayerZero 等技术不断成熟，社区似乎对跨链未来的期待也会止步于此。\n\n\n\n\n那么，这就是跨链的 endgame 了？Well,\n\n\n\n\nThis is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.\n\n\n\n\n跨链在 2022 年最近几个月就有不少新的进展值得关注。借着近期被邀请进行了几次跨链分享的机会，把自己对于跨链技术和动向的观察和思考记录下来。\n\n\n\n\n一、跨链技术的分层概览 \n\n\n\n\n\n1. 通过分层来理解跨链\n\n\n\n\n在理解这些进展之前，有必要再回顾一下跨链的具体问题：当我们谈到跨链，其背后具体的本质是什么？用最近比较流行的话来说，怎么用「第一性原理」来理解跨链。\n\n\n\n\n如果说区块链最核心或最不同于其他技术的特点是去信任化，即信息可以在链上不用去信任而是可被验证（Don』t trust, verify），那么跨链其实就是把原本一个链上的信息如何在链间被验证。传递的信息从广义上来讲包括交易以及对于该交易的有效性证明（一般为 merkle proof）。\n\n\n\n\n与此对应的，基于链上可被验证的信息，区块链就可以构建出来资产转账交易等基本类型的应用。而基于验证后的跨链信息，一些跨链应用也可以构建出来，例如采用最常见的 lock & mint（源链锁定后在目标链上发行）方式来跨链转移 token。\n\n\n\n\n因此，根据「跨链」技术或项目所解决的问题的不同，可以从通信层、应用层这两个方面进行…",
+          "link": "https://www.theblockbeats.info/news/32396",
+          "publishedOn": "2022-11-02T07:12:47.000Z",
+          "wordCount": null,
+          "title": "读懂跨链技术未来可能性：存在哪些机遇及进展？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32394",
           "author": null,
           "description": "原文标题：《OP Research：Crypto Native，从 Bitcoin 到 Web3.0 的叙事变迁》\n原文作者：OP Research\n\n\n1. 2008-2012 加密行业的创世时代\n\n\n2008 年 11 月 1 日，一个网名叫做中本聪的神秘人在他所在的密码学邮件群组中发布了《比特币：一种点对点的电子现金系统》一文，即比特币白皮书，因此，2008 年被誉为 Crypto 的元年，比特币白皮书则被认作 Crypto 的「圣经」，其开启了整个 Crypto 最初的启蒙时代，让人们认识到密码学算法和区块链技术的结合可以创造出一个史无前例的数字货币——抗审查、去中心化、匿名化。而在次年的 1 月 3 日，中本聪在芬兰赫尔辛基的一个小型服务器上挖出了比特币创世区块，这一天被比特币信徒们称为「创世日」。在这之后，比特币的概念如燎原之火，迅速扩展到世界各地，「Code is Law」的理念也随之传播开来。根据 Bitcoin.org 上的介绍，基于密码学原理和区块链技术，比特币拥有了作为货币的耐用性、便携性、可替代性、稀缺性、可分割性和可识别性。特别是 2010 年的 5 月 22 日，美国佛罗里达州的一位程序员，用电脑里挖出来的一万枚比特币换来了两份披萨。\n\n\n这是有确定记载的比特币作为货币的第一次购买行为，它让比特币作为货币的使用从理论变成了现实，于是比特币作为货币的属性被人们验证并相信。在这之后，陆续有个人商家开始接受比特币支付，并且全球第一家比特币在线交易平台 MT.GOX 也顺势成立（于 2010 年 7 月 11 日成立）。随着比特币交易平台的出现，比特币第一次有了作为商品被交易的价格，并且其价格持续增长，吸引越来越多的人参与比特币挖矿。\n\n\n尤其是 2011 年 4 月美国《连线》杂志报道比特币之后，比特币价格急速飙升，名声大噪，并开始为人们所谈论。但大部…",
