@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-02T00:53:32.687Z</updated>
+    <updated>2022-11-02T06:16:14.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Native，从Bitcoin到Web3.0的叙事变迁]]></title>
+        <id>https://www.theblockbeats.info/news/32394</id>
+        <link href="https://www.theblockbeats.info/news/32394"/>
+        <updated>2022-11-02T04:06:37.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《OP Research：Crypto Native，从 Bitcoin 到 Web3.0 的叙事变迁》
+原文作者：OP Research
+
+
+1. 2008-2012 加密行业的创世时代
+
+
+2008 年 11 月 1 日，一个网名叫做中本聪的神秘人在他所在的密码学邮件群组中发布了《比特币：一种点对点的电子现金系统》一文，即比特币白皮书，因此，2008 年被誉为 Crypto 的元年，比特币白皮书则被认作 Crypto 的「圣经」，其开启了整个 Crypto 最初的启蒙时代，让人们认识到密码学算法和区块链技术的结合可以创造出一个史无前例的数字货币——抗审查、去中心化、匿名化。而在次年的 1 月 3 日，中本聪在芬兰赫尔辛基的一个小型服务器上挖出了比特币创世区块，这一天被比特币信徒们称为「创世日」。在这之后，比特币的概念如燎原之火，迅速扩展到世界各地，「Code is Law」的理念也随之传播开来。根据 Bitcoin.org 上的介绍，基于密码学原理和区块链技术，比特币拥有了作为货币的耐用性、便携性、可替代性、稀缺性、可分割性和可识别性。特别是 2010 年的 5 月 22 日，美国佛罗里达州的一位程序员，用电脑里挖出来的一万枚比特币换来了两份披萨。
+
+
+这是有确定记载的比特币作为货币的第一次购买行为，它让比特币作为货币的使用从理论变成了现实，于是比特币作为货币的属性被人们验证并相信。在这之后，陆续有个人商家开始接受比特币支付，并且全球第一家比特币在线交易平台 MT.GOX 也顺势成立（于 2010 年 7 月 11 日成立）。随着比特币交易平台的出现，比特币第一次有了作为商品被交易的价格，并且其价格持续增长，吸引越来越多的人参与比特币挖矿。
+
+
+尤其是 2011 年 4 月美国《连线》杂志报道比特币之后，比特币价格急速飙升，名声大噪，并开始为人们所谈论。但大部…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022再出发，香江加密愿景的潮落潮起]]></title>
         <id>https://www.theblockbeats.info/news/32376</id>
