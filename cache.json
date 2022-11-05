@@ -174,16 +174,6 @@
           "wordCount": null,
           "title": "万字详解DeSci生态的现状与发展",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32414",
-          "author": null,
-          "description": "原文作者：《\n\n审视 DeFi 新叙事 #RealYield \n\n》\n原文作者：Dr.DODO\n\n\n\n\n自 8 月份以来，推特上的 KOL 对 Real Yield 的讨论越来越激烈。这一讨论的起源和爆火与 GMX 在熊市里出色的表现相吻合。\n\n\n\n\n\nReal yield 和它从字面意思上所表达的一样，哪些 DeFi 协议能够产生真实的收益，并把这样的收益反馈给用户；从另一个角度来理解就是协议不再单纯的用自己的Token来激励流动性挖矿，而是给予用户稳定币或者主流\n\nToken\n\n，如 ETH，USDT 等。\n\n\nTerra 崩溃、Celsius Network 和 Voyager Digital 申请破产以及 Three Arrows Capital 倒闭。这些冲击为之前 DeFi 的狂热者们的心蒙上一层阴影，「DeFi 已死」的论调不绝于耳。在这样的大背景下，Real Yield 叙事的出现十分简单有力，它不仅是 DeFi 用户美好的期望，也象征着 DeFi 项目与庞氏骗局的抗争，追求可持续的项目收益并把收益返还给用户。\n\n\n但是任何热议的叙事都需要反复推敲和考量，本篇文章希望从三个方面来审视 Real Yield 计算上的合理性，以及从叙事角度来看 Real Yield 出现的意义：\n\n\nReal Yield 如何计算\nReal Yield 意义探讨 \n\n\n I. Real Yield 概念梳理\n\n\n在目前对 Real Yield 的定义中，主要集中在两个问题：\n\n\n1）协议的净收益（net revenue）是否为正？\n2）若净收益为正，协议是否将其分给\n\nToken\n\n持有者？更重要的是，协议以什么样的形式分发，协议的增发\n\nToken\n\n，还是主流\n\nToken\n\n如稳定币，ETH？\n\n\n定义的分野点在于：\n\n\n1）Real Yield 的协议的净收益（net …",
-          "link": "https://www.theblockbeats.info/news/32414",
-          "publishedOn": "2022-11-02T14:18:33.000Z",
-          "wordCount": null,
-          "title": "审视DeFi新叙事：真实收益的概念与计算方法",
-          "imageUrl": null
         }
       ]
     },
