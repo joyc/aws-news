@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-07T00:43:40.522Z</updated>
+    <updated>2022-11-07T06:12:13.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[复盘GALA风波：一场40万美元诱发的价值2.5亿美元的Houbi信任危机]]></title>
+        <id>https://www.theblockbeats.info/news/32445</id>
+        <link href="https://www.theblockbeats.info/news/32445"/>
+        <updated>2022-11-07T04:47:57.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《复盘 GALA 风波：一场$40 万诱发的价值$2.5 亿的火币信任危机》 
+原文作者：Haotian
+
+
+故事的开始是 pNetwork 为了挽回 40 万美元的 pool 流动性，故事的结尾是 Huobi 深陷至少 2.5 亿美元的信任危机;
+
+pNetwork 和
+
+Huobi
+
+开撕了，很多人到现在还没理清 GALA 风波背后的逻辑，不吹不黑，下面 Thread 系统概括梳理下:   
+
+
+起因，pNetwork 项目方跨链桥出现问题，为了挽回 40 万美元流动性，增发 556 亿 pGALA 实施了所谓的「白帽攻击」，但这个过程却没有「通知」Houbi暂停充提（双方扯皮）； 
+
+
+结果是，天量 GALA 被充值进Houbi进行售卖，有的人跟风套利充卖提跑了，有的人真金白银跟风抄底却被强制换成了不值钱的 pGALA。  
+
+
+pNetwork 项目方的做法缺乏 defi 安全常识，且在未完全排除潜在危害的前提下，就将超发的流动性注入了生态，过于仓促，不负责任。 
+
+
+事后，也没有解释 mint 的动机，以及其中潜在内幕操作的可能性，而是斡旋于Houbi和 GALA 之间推卸责任和甩锅，甚至还对簿公堂，说其为始作俑者无可厚非，也不为过；  
+
+
+面临危机，用户没有等到 justin sun 的大格局，反倒被一系列骚操作整蒙圈了： 
+
+
+1）不承认安全应急响应和风控系统的不作为； 
+2）迟迟未暂停充提，这期间「喊单」内部人祸的传言不绝于耳； 
+3）一刀切认定抄底 GALA 用户为套利攻击者，并封锁了相关资产； 
+4）最后将矛头对准 pNetwork 项目方，双方撕逼。  
+
+
+一向营销见长的 justin sun 万万没想到却在「公关」上翻车了，时隔两天才找到了真矛头，可惜风向已经变了。整个危机过程处理的乱、缺条理，也有失水准，有负众人心中「三大」的形象； 
+
+
+但中心化交易平台在 Crypto 世界话语权一向强势。 
+
+
+中心化的原罪或许才是众韭揭竿而起的关键，但只能交给时间。  
+
+
+而套利用户呢？先是前赴后继跟风套利，而后又一窝蜂维权声讨，对于 Crypto 黑暗森林的高风险缺乏安全和基本行业认识，又总是低估参与风险；
+
+在零和博弈的金融世界，哪有只暴富，不暴负的好事。 
+
+
+总是以「羊群效应」的弱势文化属性，向这个缺监管，救世主只有自己的 Crypto 世界呐喊，真的很无力！  
+
+
+大家是否注意到，平时风吹草动都会跳出来科普、预警、追踪的安全公司，却在这次 GALA 事件中集体缺席了。 
+
+
+原因很简单：安全审计和服务能查检一切代码缺陷，却难以对抗行业生态参与者急功近利酿就的潜在「人祸」危机。 
+
+
+这是一起非智能合约漏洞诱发的安全危机，但却比任何代码漏洞都极具警醒意义。  
+
+
+2.5 亿美元是以 66 亿充值进去的$GALA 按现价计算出的价值，是 justin sun 一开始「大格局」为其买单造成的帐面损失，可现在Houbi遭受口诛笔伐，造成的潜在信任危机损失又该是多少？ 
+
+
+每个人都有答案，也许微不足道，毕竟韭菜的记忆就那么几秒，也许载入史册，但一定能唤起你内心的 Crypto 初心。  
+
+
+作为 Crypto 精神布道者，区块链安全从业者，我个人未持有任何 GALA、也不是Houbi用户，前前后后围观参与事件全过程，并深扒链上数据，本着专业负责的立场和客观的态度，在此发表一些观察和见解，认同的同仁帮忙转发，不喜勿喷；只为 crypto 弘扬正能量。  
+
+
+原文链接
+
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBF与CZ再次剑拔弩张，资债传言回应导致FTT剧烈波动]]></title>
         <id>https://www.theblockbeats.info/news/32444</id>
@@ -204,16 +288,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
         <link href="https://www.theblockbeats.info/news/32440"/>
         <updated>2022-11-05T11:27:38.000Z</updated>
         <summary type="html"><![CDATA[Vader Research：我们应如何为Token创造价值？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从GameFi交易市场现状，解析未来游戏开发者市场生态格局]]></title>
-        <id>https://www.theblockbeats.info/news/32432</id>
-        <link href="https://www.theblockbeats.info/news/32432"/>
-        <updated>2022-11-04T14:27:44.000Z</updated>
-        <summary type="html"><![CDATA[从GameFi交易市场现状，解析未来游戏开发者市场生态格局]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
