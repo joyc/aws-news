@@ -22,6 +22,51 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-07 datetime="2022-11-06T17:43:33.000Z">2022-11-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-07 datetime="2022-11-06T17:43:33.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32444"
+                        open
+                      >
+                        <summary class="article-expander__title">SBF与CZ再次剑拔弩张，资债传言回应导致FTT剧烈波动</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32444">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>SBF与CZ再次剑拔弩张，资债传言回应导致FTT剧烈波动</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-06 datetime="2022-11-06T11:51:33.000Z">2022-11-06</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-06 datetime="2022-11-06T11:51:33.000Z"></time>
           </button>
@@ -331,287 +376,6 @@ BlockBeats Wechat：blockbeats_cathy（请备注阅读本文后入群）
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32438"
-                        open
-                      >
-                        <summary class="article-expander__title">复盘pNetwork黑客攻击事件，疑似自导自演？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32438">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>复盘pNetwork黑客攻击事件，疑似自导自演？</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32436"
-                        open
-                      >
-                        <summary class="article-expander__title">Multicoin Capital：MEV中的价值流</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32436">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Value Flows in the MEV Ecosystem》
-原文来源：Multicoin Capital
-原文作者：Shayon Sengupta 
-原文编译：Kxp，BlockBeats
-
-
-在阅读本文之前，请确保你对 MEV 有一定的了解。关于矿工可提取价值以及搜索者和区块生产者之间市场结构的入门知识，请参见Tokenizing MEV这篇文章。
-
-
-
-
-矿工可提取价值（MEV）是无需权限的去中心化系统不可或缺的基础。
-
-
-
-
-MEV 的市场结构多变且复杂，但在工作证明网络中（如 Ethereum 1.0），只有矿工和搜索者能从中获利。
-
-
-
-
-以前，MEV 一直在维持着这两个参与者之间的平衡。搜索者负责在技术上优化交易，并权衡对于矿工的收益分成。我们需要注意的是，不管是支付给矿工的利润，还是搜索者提取的收益都属于 MEV。
-
-
-
-
-然而，在权益证明系统中，MEV 的市场结构完全不同，原因在于：首先，参与共识的质押池允许将搜索者活动产生的利润重新分配给个人质押者联盟；其次，矿工被自动拆分成两个不同的角色：验证者（或区块提议者）和区块构建者。
-
-
-
-
-集成化与模块化的 MEV 基础设施
-
-
-
-
-在权益证明网络网络中，MEV 有四个重要角色：
-
-
-
-
-质押池——质押池聚集了来自个人质押者的 L1 Token，并将其委托给参与区块生产的验证者（例如，Lido、Jito、Marinade 和 Coinbase）
-
-
-搜索者——识别并探索链上盈利机会的机器人或个人（例如，Solana 和 Ethereum 仪表板上的交易签署者）
-
-
-区块构建者——在区块内构建并排列交易的实体（例如，Jito Block Engine和Flashbots MEV-Boos）
-
-
-验证者（区块提议者）——验证者或全节点用自己的质押物在共识中投票，从而提出一个区块供网络中的其他节点…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32434"
-                        open
-                      >
-                        <summary class="article-expander__title">每日宏观市场信息跟踪：FOMC会议影响继续发酵，英美收益率曲线走势出现分歧</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32434">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文来源：SignalPlus
-
-
-各位朋友，欢迎来到 SignalPlus 每日晨报。SignalPlus 晨报每天为各位更新宏观市场信息，并分享我们对宏观趋势的观察和看法。欢迎追踪订阅，与我们一起关注最新的市场动态。
-
-
-前一天美国 FOMC 会议的影响继续发酵，昨天市场仍然全面下跌，S&amp;P 500 和 Nasdaq 分别下跌 1% 和 1.7%，2 年期美债收益率逼近周期高点 4.72%，10 年期也升至 4.15%，投资等级企业债收益率突破 6%，抵押贷款利率来到 7.35%，高收益债的收益率则处在 9.2% 的高点。当前市场预期利率会在 2023 年 6 月前到达终端利率 5.15%，看来市场已经好好地接收和消化美联储「升至更高维持更久」的信息。
-
-
-
-
-
-英国方面，虽然昨天如期加息 75 个基点，但英国央行的前瞻指引和美联储的截然不同，英国央行明确地反驳了市场对于未来激进加息的预期，称「大多数的委员会成员判断... 继续加息或许是必要的... 终端利率应比当前市场预期的低」，英国央行的论点使得英国公债 2/30 年期收益率曲线走陡 11 个基点，对比昨天美联储发言后美债 2/30 年期曲线走平 18 个基点，不难看出两国央行立场的分歧。
-
-
-
-
-
-在经济数据方面，美国 10 月 ISM 非制造业指数下滑至 54.4，略低于预期，其中就业指数跌至 49.1，新订单指数也降至 56.5，唯有支付价格指数上升至 70.7，17 个行业都显示价格增长，且 94% 参与调查的企业都表示价格上扬，其中房地产及租赁行业价格上升最为显著，或许暗示了下周的 CPI 数据不容乐观，毕竟房屋和租金价格上涨是过去两年带动通胀的重要因素。
-
-
-
-
-
-接下来 7 天将有两个重要数据的发布，今天将先迎来非农数据结果（10 号有 CPI），市场预期新增就业 19.5 万，失业率 3.6%，平均每小时薪资年增率将放缓至 4.7%。我们不认为非农数据结果会对美联储短期政策走向有很大的影响，前期发布的 JOLTS 数据结果似乎更加重要，但建议特别关注就业市场是否持续紧绷的迹象，这可能会进一步推升终端利率。
-
-
-最后，科技行业持续有大量裁员的消息传出，Stripe 将裁 14% 的人力，Lyft 计划裁员 13%，市场传言 Twitter 将裁减 50%，而 Apple 和 Amazon 都已宣布大多数部门将冻结招募至明年，虽然这不会反映在这个月的非农数据结果中，但随着我们即将进入经济放缓阶段，建议仍持续关注相关消息。
-
-
-
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32433"
-                        open
-                      >
-                        <summary class="article-expander__title">如何保证薅空投时，不被举报为女巫攻击</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32433">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文作者：Auri，DeFi 玩家
-原文编译：Leo，BlockBeats
-
-
-编者按
-
-
-近期，Aptos 测试网空投的消息再次带动了圈内薅空投热潮，炸出了很多薅空投攻略。此前 Hop 和 Optimism 官方公布空投消息后经过筛选、检测、社区上报等手段，识别出了女巫攻击，并取消一大批用户的空投资格，甚至 Hop 还实行了举报有奖制度。本文编译了 DeFi 玩家 Auri 的一些关于「如何避免被判定为女巫攻击」的内容，供大家参考：
-
-
-正文
-
-
-
-一些人正在对加密项目进行女巫攻击，每次大规模空投可净赚 50 万美元以上。我曾和一位进行过数百万次工业化「批量空投」的加密巨鲸交流过。以下是对话内容精选：
-
-
-
-免责声明，我不支持女巫攻击，实际上我希望项目停止通过这种方式赚钱，可以减少 fomo。但换句话说，这是迄今为止不需要任何高级技术就可以疯狂积攒财富的方法。
-
-
-
-女巫攻击的过程包括四个主要阶段:
-
-
-
-1. 将所需的加密资产分发到多个地址
-
-
-2. 链上准备工作，「配置好」钱包
-
-
-3. 高级别的女巫实践操作
-
-
-
-4. 提现 token
-
-
-5. 运营
-
-
-6. 未来空投
-
-
-
-在前四个阶段——目标是隐藏链上地址和链下地址之间的任何联系（ip 隔离）
-
-
-
-加密资产分发
-
-
-
-为了给钱包提供资金，使用 CEX：
-
-
-
--较低的提取费
-
-
-
--创建子账户
-
-
-
-从任何交易所、跨桥平台或任何每天产生数千笔提取或取消转账的平台是可以的，但实际上，CEX 是最好的。
-
-
-
-平台的选择是至关重要的：使用匿名化服务，否则加密规则会在你批量交易的时候贴上「sybilooor」的标签。下一个级别是确保从靠谱的 CEX 上于不同的时间发送随机数量的 token。
-
-
-
-链上准备
-
-
-
-首先要确保这个地址看起来是真实的。巨鲸使用反检测浏览器，每个单独的地址都有专用的指纹和代理，所有前端…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32431"
-                        open
-                      >
-                        <summary class="article-expander__title">详解 DID 现状及未来发展方向：Web3 进入下一阶段的中间件</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32431">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文作者：
-
-太和研究员 Calvin
-原文标题：Ti Capital Insights｜DID——Web3 进入下一阶段的中间件  
-
-
-1807 年，丹麦海军在哥本哈根战败之后，为了重建海军，补充损失，种了 9 万颗橡树。2007 年，皇家林业局的继任部门丹麦自然局通知丹麦国防部，为了重建海军种的 9 万颗橡树已经准备就绪。世界的变化总比我们预计的要快速。
-
-
-上一轮 Defi summer 的时候，随着流动性挖矿的投机热潮，Defi 十分火热，在高峰期甚至有人提出「Defi 协议如何承受数百万的用户涌入？」
-
-
-事后看来，这个问题想的过于简单和幼稚。根本的原因在于，金融始终属于底层设施，世界上真正关心和参与的属于少数，也许只有几万人。
-
-
-上一轮 Defi summer 已经验证了这个问题，大部分参与者都是「加密土著」，虽然有大量资金涌入，但是主要都来自于基金和巨头，不是普遍的 C 端用户。
-
-
-总的来说，Defi 属于基础设施，即使考虑到投机因素，对其感兴趣的人也绝不可能是大多数，这代表着，以 Defi 为生态核心去扩大区块链边界，总有一天会到达极限。
-
-
-DeFi 还是有门槛的，未来并不会直接面向用户的，因为我们从 2018 年开始就链上活动依然完全依赖于「发烧友」。但普通用户在未来更有可能通过移动钱包作为基础设施与 DeFi 进行交互，而不是直接交互。
-
-
-Defi 会继续发光发热，但是会处作为一个基础建设，作为这棵大树的「根」，未来真正抽枝发芽的还得靠应用，靠社交和娱乐，扩大 Web3 玩家，征服世界。
-
-
-这种猜想的假设下，DID 作为社交和娱乐的必备组件，也必将成为大规模应用的一个中间件，有点像上阶段 Chainlink 之于 Defi.
-本文只说两件事，目前 DID 发展的现状和未来发展的猜想。
-
-
-1、目前 DID 现状（原始短 ID）
-
-
-宏观的 D…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -619,8 +383,8 @@ Defi 会继续发光发热，但是会处作为一个基础建设，作为这棵
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3405439509">
-        <time id="build-timestamp" datetime="2022-11-06T18:10:33.275Z">2022-11-06T18:10:33.275Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3406726204">
+        <time id="build-timestamp" datetime="2022-11-07T00:43:40.496Z">2022-11-07T00:43:40.496Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
