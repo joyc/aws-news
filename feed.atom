@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-07T12:18:57.387Z</updated>
+    <updated>2022-11-07T18:11:19.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSea推出链上强制版税工具，版税话语权及意识形态之争]]></title>
+        <id>https://www.theblockbeats.info/news/32450</id>
+        <link href="https://www.theblockbeats.info/news/32450"/>
+        <updated>2022-11-07T14:40:56.000Z</updated>
+        <summary type="html"><![CDATA[OpenSea推出链上强制版税工具，版税话语权及意识形态之争]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move中级课程：第4节所有权问题]]></title>
+        <id>https://www.theblockbeats.info/news/32447</id>
+        <link href="https://www.theblockbeats.info/news/32447"/>
+        <updated>2022-11-07T12:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Move中级课程：第4节所有权问题]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[投资市场「必胜交易法则」马丁格尔在加密市场的复用]]></title>
         <id>https://www.theblockbeats.info/news/32452</id>
