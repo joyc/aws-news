@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32475",
+          "author": null,
+          "description": "原文标题：《对话 y2z Ventures 合伙人：世界是一场游戏，猎人必须有所猎之物》\n原文来源：\n\n深潮 TechFlow \n\n\n\n当谈到 y2z Ventures，你首先想到什么？\n\n\n年轻创业者的「恩师」？玄学？还是创始人 tt 与 Alen？\n\n\n相对于 VC 最偏爱的「锦上添花」，y2z Ventures 常常「雪中送炭」。在众多年轻创业者一无所有，甚至「潦倒无助」的时候，y2z 往往会坚定地给予支持。Mask、Rct.ai、纯白矩阵、SeeDAO、Ethsign……华人 Web3 新势力的背后，站着 y2z Ventures。\n\n\n而与此同时，y2z Ventures 又保持着自己独特的投资方法论和 Value Add，面相、八字、算卦……他们有关于「玄学」的指标别树一帜。两位带着理想主义却又不那么「传统」和「正经」的合伙人，将漫画与游戏作为生活工作物语，闯荡世界，在 Web3 世界中开启了伟大航 DAO。\n\n\n带着好奇与敬意，深潮 TechFlow 对话 y2z Ventures 合伙人 Alen，关于 Web3，关于年轻人，关于这个世界……\n\n\n\n\n\n\n\n从粉丝到领路人\n\n\n深潮 TechFlow：方便做一下自我介绍吗，您是怎么进入加密世界并与 tt 相识，然后成为如今 y2z Ventures 的合伙人？\n\n\nAlen：好的。我是 Alen，之前在一个做传统 A 股的二级市场私募，加入币圈、认识 tt 其实属于机缘巧合。\n\n\n2016 年，A 股炒了一波区块链的概念，因为 2015 年的时候以太坊上线了，年末 Vitalik 的头像还出现在了《经济学人》里面。当时，我去参加一个国泰君安办的区块链大会，听了很多所谓「智能合约改变行业」的滔滔大论，觉得离落地实在是太远了，很难体现在实际业绩里。正好那个时候我听到了 tt 的演讲，他跟很多很官方的演讲不一样。\n…",
+          "link": "https://www.theblockbeats.info/news/32475",
+          "publishedOn": "2022-11-08T14:53:44.000Z",
+          "wordCount": null,
+          "title": "关于Web3，关于年轻人，关于这个世界",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32478",
           "author": null,
           "description": "原文标题：《StarkNet 生态 Defi 项目 alpharoad 交互教程（确认空投）》\n原文作者：Greta\n\n\nAlpha Road 是 Starknet 区块链上的去中心化非托管平台，允许用户以安全、高效和简单的方式利用独特的金融产品。\n\n\n该项目测试网上线很长时间了，就在几天前透露出空投消息。\n\n\n教程如下 \n\n\nStep1 安装 ArgentX 钱包\n\n\n要在 StarkNet 上使用 Alpha Road，您需要在此处获取您的 Argent X 钱包 chrome 扩展程序。\n\n\n创建或导入帐户后，请确保已将网络配置为 Goerli Testnet。\n\n\n\n\n\nStep2 领水（正常领水绝对领不到水，要从小狐狸跨水）\n\n\n所有教程都会告诉你到官方这里来领水，然后就会领个寂寞。正确的操作方式如下：\n\n\n1. 登录这个alchemy 领水网址 ，没有账号的自己注册下。粘贴您的 metamask 钱包地址，然后单击 SEND ME ETH，0.05 Goerli ETH 将立即发送。\n\n\n\n\n\n2. 进入starknet 官方桥 ，首先连接 metamask 钱包，然后连接您的 Argent X 钱包，输入您想要交换/桥接至 Starknet 的 ETH 数量，将 Goerli ETH 桥接到 Starknet ETH。在小狐狸中确认并等待一段时间（差不多要 30 分钟）。  \n\n\n\n\n\n\nStep3 交互测试\n\n\n1. 进入alpharoad 项目官网，连接 argent 钱包。\n\n\n\n\n\n\n\n\n\n\n2. 接下来点击「mint arfBTC」并在你的钱包中批准弹出交易，这需要十几分钟才能完成，请耐心等待。\n\n\n\n\n\n\n\n\n\n\n\n3. 点击左上角 swap，然后输入任意交易对和数值，并点击 swap。\n\n\n\n\n\n\n\n\n\n\n\n4. 添加流动性 (点击左上角 Pools , 然后点击 add liquidity)\n\n\n\n\n\n\n\n\n\n\n选择交易对，输入任意数值，点击 Add liquidity，并在跳出窗口中点击 confirm。\n\n\n\n\n\n\n\n\n\n\n5. 解除流动性。点击 my liquidity，再点击 show。设置要移除的百分比，点击确认即可。\n\n\n\n\n\n\n\n\n\n\n\n6. 进入 discord，找到 feedback 频道，提交交易截图。\n\n\n\n\n\n\n\n\n\n\n\n\n好了，做 StarkNet 上的项目，需要极强的耐心，这个垃圾链，速度是真的慢。。。\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
