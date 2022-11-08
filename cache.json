@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32478",
+          "author": null,
+          "description": "原文标题：《StarkNet 生态 Defi 项目 alpharoad 交互教程（确认空投）》\n原文作者：Greta\n\n\nAlpha Road 是 Starknet 区块链上的去中心化非托管平台，允许用户以安全、高效和简单的方式利用独特的金融产品。\n\n\n该项目测试网上线很长时间了，就在几天前透露出空投消息。\n\n\n教程如下 \n\n\nStep1 安装 ArgentX 钱包\n\n\n要在 StarkNet 上使用 Alpha Road，您需要在此处获取您的 Argent X 钱包 chrome 扩展程序。\n\n\n创建或导入帐户后，请确保已将网络配置为 Goerli Testnet。\n\n\n\n\n\nStep2 领水（正常领水绝对领不到水，要从小狐狸跨水）\n\n\n所有教程都会告诉你到官方这里来领水，然后就会领个寂寞。正确的操作方式如下：\n\n\n1. 登录这个alchemy 领水网址 ，没有账号的自己注册下。粘贴您的 metamask 钱包地址，然后单击 SEND ME ETH，0.05 Goerli ETH 将立即发送。\n\n\n\n\n\n2. 进入starknet 官方桥 ，首先连接 metamask 钱包，然后连接您的 Argent X 钱包，输入您想要交换/桥接至 Starknet 的 ETH 数量，将 Goerli ETH 桥接到 Starknet ETH。在小狐狸中确认并等待一段时间（差不多要 30 分钟）。  \n\n\n\n\n\n\nStep3 交互测试\n\n\n1. 进入alpharoad 项目官网，连接 argent 钱包。\n\n\n\n\n\n\n\n\n\n\n2. 接下来点击「mint arfBTC」并在你的钱包中批准弹出交易，这需要十几分钟才能完成，请耐心等待。\n\n\n\n\n\n\n\n\n\n\n\n3. 点击左上角 swap，然后输入任意交易对和数值，并点击 swap。\n\n\n\n\n\n\n\n\n\n\n\n4. 添加流动性 (点击左上角 Pools , 然后点击 add liquidity)\n\n\n\n\n\n\n\n\n\n\n选择交易对，输入任意数值，点击 Add liquidity，并在跳出窗口中点击 confirm。\n\n\n\n\n\n\n\n\n\n\n5. 解除流动性。点击 my liquidity，再点击 show。设置要移除的百分比，点击确认即可。\n\n\n\n\n\n\n\n\n\n\n\n6. 进入 discord，找到 feedback 频道，提交交易截图。\n\n\n\n\n\n\n\n\n\n\n\n\n好了，做 StarkNet 上的项目，需要极强的耐心，这个垃圾链，速度是真的慢。。。\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32478",
+          "publishedOn": "2022-11-08T10:42:43.000Z",
+          "wordCount": null,
+          "title": "StarkNet生态项目Alpha Road确认空投，手把手教你如何交互",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32472",
+          "author": null,
+          "description": "原文标题：《盘点入围 ETHGlobal 旧金山决赛的 13 个项目》\n原文作者：十文\n原文来源：Odaily 星球日报\n\n\nETHGlobal 是全球最大的以太坊社区之一，在世界各地举办黑客马拉松比赛，通过以太坊基金会以及其他赞助商的支持让具有创新性、颠覆性的项目能够快速创建。在黑客马拉松上，开发者能够学习新技能，加强社区建设，丰富以太坊生态，并突破新技术的极限。\n\n\n\n\n\n本次 ETHGlobal 旧金山站从 11 月 4 日开始到 11 月 6 日结束，经过 3 天的激烈竞争后，有 13 个项目入围决赛。\n\n\n\n\n\n\nMundo——实现碳信用资产的跨链\n\n\nMundo 允许在 Polygon 上的用户从其他任何 EVM 链购买碳信用，从而实现碳信用资产的跨链。\n\n\n\n该项目使用 Hyperlane 的桥接技术来转移跨 Polygon、Optimism、Celo 等底层的数字碳信用资产。Mundo 在每个链间都设有「支付终端」功能，每个支付终端都接入 Chainlink 预言机，以保证价格的稳定，再通过结算层 Hyperlane 来实现碳信用资产的真正跨链。目前，Mundo 在 Polygon、Celo 和 Optimism 上部署了 4 个支付终端。\n\n\n\n此外，Mundo 还设有定位功能，你可以看到某个项目在在全球的碳足迹，以向用户展示他们资金支持的区域。对于新用户来说，Mundo 还可以连接钱包地址或 ENS，并评估你当前的链上碳信用。\n\n\n\n\n\nFuelScape——将经典的 RuneScape 游戏与区块链结合\n\n\nFuelScape 利用 Fuel VM 执行层的可扩展性，将经典的 RuneScape 游戏玩法与去中心化的区块链游戏状态相结合。玩家可以将钱包与他们的游戏内名称相关联。每个项目代表一个不同的 token（采用类似于 EVM 上的 ERC1151…",
+          "link": "https://www.theblockbeats.info/news/32472",
+          "publishedOn": "2022-11-08T08:46:43.000Z",
+          "wordCount": null,
+          "title": "13个ETHSanFrancisco黑客松获胜新项目一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32455",
+          "author": null,
+          "description": "原文作者：文猿 ApePark\n\n\n\n\n2022 年，加密冬天席卷整个区块链世界，GameFi 行业受创尤其严重，活跃玩家从 2021 年日均 176 万降低到如今的日均 80 万，2022 年第一季度融资总额环比下降 40.78%，且绝大多数融资都为种子轮。甚至在 2022 年 6 月份，市场恐惧与贪婪指数一度触底达到 10（极度恐惧），8 月行业整体交易量达到最低点，相较于 2021 年 12 月下降 93.5%。\n\n\n\n\n严峻的市场环境促进了行业反思，薄弱零散的功能生态难以招架加密冬天的寒风，NFT 作为 GameFi 行业的重要元素缺乏实际应用场景，传统的低效管理模式无法适应行情。\n\n\n\n\n针对以上问题，ApePark DAO 给出解决方案——以完整的功能生态为支持，以即将发行的 ApePark NFT 为抓手实践 DAO 治理，打造 GameFi 资产管理平台。\n\n\n \nApePark NFT\n\n\n\n\nApePark NFT 是收益型身份治理 NFT，11 月 10 日正式开启 Mint，限量发行 10000 张，Mint 价格为 700 USDT 或等值 BNB。\n\n\n\n\n除了传统非同质化Token的收藏性和泛金融性，ApePark NFT 还具有持续性收益和治理身份两大特点，拥有更开阔的应用场景，是具有代表性的 NFT 2.0 作品。\n\n\n收益性\n\n\n\n\nApePark NFT 的持有收益主要分为两部分——Token奖励和平台特权：\n\n\n\n\nToken奖励：10000 张 ApePark NFT 的持有者将平均享有 DAO 池产出的 30% 代币奖励即 1500 万枚 APD，按当前 Pancake Swap 自由交易价格计算总价值为 7200 万 USDT。为保障平台的良好运转防止可能的砸盘风险，这笔奖励将以线性释放的形式发放。\n\n\n\n\n平台特权：ApePa…",
+          "link": "https://www.theblockbeats.info/news/32455",
+          "publishedOn": "2022-11-08T08:46:43.000Z",
+          "wordCount": null,
+          "title": "ApePark DAO：以DAO治理为核心的GameFi资产管理平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32454",
+          "author": null,
+          "description": "原文标题：《Cosmos 2.0 升级关键时刻:影响深远的三大提案悬而未决》\n原文作者：五火球教主\n原文来源：白话区块链\n\n\n\n\n\n很多人可能不知道的是，现在的 Cosmos，正处在一个非常关键的时刻。\n\n\n你可能会疑惑？嗯？什么关键啊，不是前段时间刚刚发布了 Cosmos2.0 的路线图么，Token 价格也随之一路走高，貌似一切都在朝着良好的方向发展着？\n\n\n整体确实是这么回事儿，然而，这个 Cosmos 2.0，是要投票通过才能部署实施的，不然怎么叫 Web3 呢？然后好巧不巧，Cosmos 一开始的创始人 Jae kwon 又回来搅局了，提出了一个 Cosmos One 的路线图，现在正在和 Cosmos2.0 路线图的提案 PK 中，再加上一个 Cosmos Zero 的基础宪法级的提案，目前 Cosmos 社区正在为这\"三大宪法\"热火朝天的投票、辩论……\n\n\n简单来看下这三个提案：\n\n\n\n 01 三个提案\n\n\n\n1、81 号提案 - 零号宪法\n\n\n\n\n\n这个提案很简单，主要规定了如下的基础规则，即对项目符合下面 4 个任意一个条件的更改，都必须拿到 2/3 的 Yes 投票才可以通过，4 个条件如下：\n\n\n对已实现的 Token 经济学的任何更改（除了错误修复）\n任何超出 ATOM 默认通胀的 Token 通胀\n治理过程的任何变化\n任何宪法的通过（除了这个最低限度的宪法）\n\n\n仔细一琢磨，其实你会发现 81 号提案的目的很有可能是为了限制 82 号提案的，而 82 号提案正是 Cosmos2.0 的路线图，不过目前来看反对居多，所以大概率是影响不到 82 号提案了。\n\n\n然后再来看下 82 号提案。\n\n\n2、82 号提案 - Atom2.0\n\n\n\n\n\n\n\n这就是传说中的 Cosmos2.0 路线图提案, 之前我们文章《热度比肩以太坊的 Cosmos 生态现在发展…",
+          "link": "https://www.theblockbeats.info/news/32454",
+          "publishedOn": "2022-11-08T07:46:43.000Z",
+          "wordCount": null,
+          "title": "Cosmos 2.0升级关键时刻：影响深远的三大提案悬而未决",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32453",
           "author": null,
           "description": "原文标题：《松风动夜，明河共影｜WTR 11.7》\n\n\n原文来源：WatchToweR 研究院\n\n\n\n本周回顾\n\n\n本周从 10 月 31 日到 11 月 7 日，冰糖橙最高附近21,395，最低接近20,089，震荡幅度达到 6.5% 左右。\n观察近期筹码分布图，在约 21000 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n\n\n\n• 分析：\n\n\n1. 17800–20500 约 297 万枚；\n2. 22000~24000 约 65 万枚；\n\n\n• 短期内跌不破在 16000~18500 概率为 63 %；\n\n\n• 其中短期内涨不破 22000～24000 的概率为 61 %。\n\n\n\n\n\n\n\n重要消息方面\n\n\n经济消息方面\n\n\n• 美国\n\n\n1. 美联储公布本年第六次加息结果，不出市场预料地加息 75 基点至 4.0%。\n2. 美国劳工局公布的数据显示，美国 10 月非农就业人口增加 26.1 万人，远高于预期的 20 万人，前值为 26.3 万人。\n3. 10 月失业率为 3.7%，回升至 8 月的水平，高于预期 3.6%，前值为 3.5%。平均每小时工资环比增 0.4% 创 8 月来最高。\n4. 截至本周三，外国央行与国际货币机构存放在美联储相关隔夜逆回购便利工具中的美元金额升至 3510 亿美元，比前一周高出 482 亿美元，为创纪录以来的新高。\na. 国际货币机构同期出售了约 131 亿美元的美国国债，美国金融系统流动性状况正在急剧恶化。\nb. 短期内全球对美元资金的争夺战正在上演。\n5. 截至 11 月 2 日，有 621 亿美元资金涌入现金类资产。从 10 月初的四季度开始，累计有 1940 亿美元的资金涌入现金，这是自 2020 年二季度以来的最快现金流入。\n6. 美国 10 年期国债收益率涨 1.15 个基点，报 4.1584%；两年期美债收益率跌 6…",
