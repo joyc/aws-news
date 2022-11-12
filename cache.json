@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32528",
+          "author": null,
+          "description": "OP Research：Wallet、CEX和DAPP，谁是未来Web3流量入口",
+          "link": "https://www.theblockbeats.info/news/32528",
+          "publishedOn": "2022-11-12T02:02:10.000Z",
+          "wordCount": null,
+          "title": "OP Research：Wallet、CEX和DAPP，谁是未来Web3流量入口",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32539",
           "author": null,
           "description": "BlockBeats 消息，11 月 11 日，FTX 官方发布声明称，已在美国申请破产重组。SBF 已辞去 FTX 首席执行官职务，由 John J. Ray III 接任。FTX 新任首席执行官 John J. Ray III 表示，将在 Alvarez、Sullivan 与 Cromwell 的协助下重组公司。根据破产法第 11 章申请破产保护，是制定下一步计划的必要步骤。\n\n\n\n\n\n随后，FTX 前 CEO SBF 在社交媒体发文表示，今天我在美国根据《破产法》第 11 章自愿申请了 FTX、FTX US 和 Alameda 的破产诉讼程序，希望事情可以找到恢复的方法。计划撰写一篇关于 FTX 的文章，并致力于明确事情的现状，也将致力于用户赔偿方面的清晰度。我相信 FTX 新任首席执行官 John J. Ray III 和其他人可以为用户提供最好的服务。破产并不一定意味着公司的终结，也不一定意味着为客户提供价值和资金的能力的终结。\n\n\n\n\n\n相关阅读\n\n\n《【事件回顾】FTX 身陷囹圄，Binance 放弃收购，加密世界的雷曼时刻》\n\n\n《暴雷后 SBF 首次对外解释（全文）：犯了两个错误》\n\n\n《【实时更新】哪些机构/项目在 FTX 事件中受到影响？》\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -123,16 +133,6 @@
           "publishedOn": "2022-11-10T01:34:46.000Z",
           "wordCount": null,
           "title": "哪些机构的钱仍在FTX里？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32505",
-          "author": null,
-          "description": "原文标题：《Binance chief says near collapse of FTX 'severely' eroded confidence in crypto industry》\n原文作者：Joshua Oliver，FT\n原文编译：0x9F，BlockBeats\n\n\nBinance 首席执行官 CZ 在策划拯救竞争对手的第二天表示，FTX 的几近崩溃已经「严重动摇」了人们对加密行业的信心，并将引发监管机构更严格的审查。\n\n\n\n\nCZ 在给员工的一份备忘录中表示，此次救助巩固了 Binance 作为全球最大加密货币交易平台的地位，但并非「一场胜利」。\n\n\n\n\nCZ 周三早些时候写信给员工称：「监管机构将对交易平台进行更严格的审查。全球范围内的牌照将更难获得。」\n\n\n\n\n这份备忘录还展现了他与对手 SBF 达成交易防止 FTX 全面崩溃的速度。今年早些时候，FTX 的估值高达 320 亿美元。Binance 拒绝就这份内部备忘录置评。\n\n\n\n\n在客户提款激增引发了一场流动性危机后，CZ 和 SBF 周二宣布 Binance 已同意救助 FTX，此举震惊了加密货币行业。\n\n\n\n\nFTX 的麻烦从上周末 CZ 表示他的公司计划减持价值逾 5 亿美元的 FTX 自有数字 Token 后开始加速，这一金额远超该 Token 日均交易总额。\n\n\n\n\nCZ 称：「我们并没有对此事或任何相关事宜进行总体规划。」\n\n\n\n\n「不到 24 小时前，SBF 打电话给我。在此之前，我对 FTX 的内部情况知之甚少。我可以用我们的收入做一些心算来猜测他们的收入，但这永远不会非常准确。当他想说话时，我很惊讶。我的第一反应是，他想进行场外交易……但结果成了现在这样。」\n\n\n\n\n周二与 SBF 通完电话后，CZ 下令 Binance 停止销售 FTT。\n\n\n\n\n\n\n目前与 FTX 交易的尽职调查仍在进行中，CZ 公开表示他仍有可能放弃该交易。周三早些时候，他在推特上暗示了自己对 FTX 出了什么问题的看法：「永远不要使用你创建的 Token 作为抵押品……如果你经营加密业务，就不要借钱。不要『高效』地使用资本，要有大量的储备。」\n\n\n\n\n在 FTX 几近破产之后，Binance 和其他规模较大的交易平台已承诺公布更多证据，证明将客户的资金放在可随时用于提款的安全储备中。\n\n\n\n\n「我们必须大幅提高透明度、准备金证明、保险资金等。这个领域还会有更多的成果。我们有许多艰巨的工作要做。更不用说价格的剧烈波动了，」他在给员工的信中写道。\n\n\n\n\n这位首席执行官还承认，收购 FTX、创建迄今为止世界上最大的加密货币交易平台，将使 Binance 成为众矢之的。\n\n\n\n\n\n \n\n\n他说：「人们现在认为我们是最大的，会更多地攻击我们。」\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32505",
-          "publishedOn": "2022-11-09T16:10:39.000Z",
-          "wordCount": null,
-          "title": "CZ在交易第二天对员工说：这并非一场胜利",
           "imageUrl": null
         }
       ]
