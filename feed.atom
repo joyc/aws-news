@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-13T00:44:02.400Z</updated>
+    <updated>2022-11-13T06:10:52.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：FTX事件回顾；盘点12个Binance Labs孵化计划入围项目]]></title>
+        <id>https://www.theblockbeats.info/news/32542</id>
+        <link href="https://www.theblockbeats.info/news/32542"/>
+        <updated>2022-11-13T04:42:56.000Z</updated>
+        <summary type="html"><![CDATA[周末荐读：FTX事件回顾；盘点12个Binance Labs孵化计划入围项目]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragonfly合伙人：FTX的覆灭对加密世界的影响]]></title>
         <id>https://www.theblockbeats.info/news/32541</id>
@@ -476,16 +486,6 @@ R3PO 深度调研了当前的 Web3 钱包赛道，不仅从行业研究者的角
         <link href="https://www.theblockbeats.info/news/32507"/>
         <updated>2022-11-10T22:55:11.000Z</updated>
         <summary type="html"><![CDATA[哪些机构的钱仍在FTX里？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雷后SBF首次对外解释（全文）：犯了两个错误]]></title>
-        <id>https://www.theblockbeats.info/news/32518</id>
-        <link href="https://www.theblockbeats.info/news/32518"/>
-        <updated>2022-11-10T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[暴雷后SBF首次对外解释（全文）：犯了两个错误]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
