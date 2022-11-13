@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-12T18:10:16.344Z</updated>
+    <updated>2022-11-13T00:44:02.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -471,216 +471,21 @@ R3PO 深度调研了当前的 Web3 钱包赛道，不仅从行业研究者的角
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[哪些机构的钱仍在FTX里？]]></title>
+        <id>https://www.theblockbeats.info/news/32507</id>
+        <link href="https://www.theblockbeats.info/news/32507"/>
+        <updated>2022-11-10T22:55:11.000Z</updated>
+        <summary type="html"><![CDATA[哪些机构的钱仍在FTX里？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[暴雷后SBF首次对外解释（全文）：犯了两个错误]]></title>
         <id>https://www.theblockbeats.info/news/32518</id>
         <link href="https://www.theblockbeats.info/news/32518"/>
         <updated>2022-11-10T15:40:35.000Z</updated>
         <summary type="html"><![CDATA[暴雷后SBF首次对外解释（全文）：犯了两个错误]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF写给员工的最后一封信（全文）]]></title>
-        <id>https://www.theblockbeats.info/news/32512</id>
-        <link href="https://www.theblockbeats.info/news/32512"/>
-        <updated>2022-11-10T08:46:53.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：加密KOL Cobie
-原文编译：0x214、0x711，BlockBeats
-
-
-11 月 10 日，加密 KOL Cobie 在其社交平台发文表示，电报上的匿名用户向其提供了 SBF 在 FTX 内部 Slack 频道上发布的一封员工信。Cobie 已证实其真实性。
-
-
-
-
-这是在 Binance 确认不再进行对 FTX 收购的交易后，SBF 对所有员工的解释与道歉。80 亿美元的亏空让 Coinbase、OKX，甚至资金量最大的 Binance 都望而却步。3 天时间身价从 190 亿美元缩水超过 90% 的 SBF 仍在寻找 Bailout 的方法。当全球第二大加密交易平台在 3 天内毁灭，这是创始人最想对员工说的话。BlockBeats 对其整理翻译如下：
-
-
-
-
-嘿，大家好！
-
-
-
-
-我知道我承诺本应在更早的时间给出更多信息；我们一群人一直在着手于以下几点：
-
-
-
-
-首先，再次，我很抱歉。归根结底，事情进展到这个地步是我个人的责任。我非常感谢你们所有人所做的一切，并将永远心怀感激。
-
-
-
-
-现在我的首要任务是承担起对客户的责任，做正确的事情，其次就是承担起对你们（指 FTX 员工）和投资者的责任，但客户是处于优先位置的。我无法确定面前哪一条路是正确的前进道路，但最重要的事情是，我们仍然同舟共济。
-
-
-
-
-所以，在接下来的一周里，我们将进行一次融资。这次融资的目标是：首先对客户做正确的事情，其次是对目前以及潜在的投资者，以及满足所有人的要求。在假设情况中，在一个所有事情都恰好在正确轨道上的世界中，也许我自己也将作为一个投资者，被安排在第四个，也是最后一个（被补偿的角色）。但这并不是我们公司的当务之急。
-
-
-
-
-如果人们想乐观一点，也许可以说，我们在理论上有很多资金和/或潜在的筹款，超出所有需求，但最终，真实世界并不总会像预期一样。我不想对未来发生的事给予任何信心，也不想暗示任何成功的几率。但在接下来的一周，这将是我的首要任务。融资最终可能是 FTX 国际 + FTX US 的联合注资，但我不希望在这方面给出任何承诺。
-
-
-
-
-作为上述潜在融资的一部分，我们已经与 Justin Sun 进行了会谈（正如 Twitter 所报道的），详情即将公布。
-
-
-
-
-对于 FTX US 的日常运营，Ryne Miller 和 Zach Dexter 一直在负责，并且正在按照优先次序规划事宜。Gary、joven、Dan Chapsky 和我将会确保我们优先帮助那些最需要我们的人，欢迎随时联系他们！对于巴哈马的运营，请咨询 Ceri Howells；对于融资相关信息，请咨询 Constance；就 FTX 的长期愿景而言，很多人都必须参与其中，但目前的首要任务将被安排在下周。
-
-
-
-
-显然，现在我们正与外部各方进行沟通；非常感谢负责管理相关事宜的每一个人。特别是整个 VIP 和 CS(Computer Science) 团队，他们在过去的一周里或多或少地承担了世界上最艰难的工作。
-
-
-
-
-关于 Binance：我不应该嘲笑他们，所以在这里选择有所保留，我只想说：可能 Binance 从来没有计划要真正进行交易，但无论如何，我们要完成我们的工作。尽管如此，我还是非常感谢每一个为之付出努力的人。
-
-
-
-
-在操作方面：我们的工程团队将最大程度地实现需求。新账户注册将被停止，所以我们这周将不会进行大量 KYC 工作。总的来说，这些工作需要逐个部门进行参与。我需要花更多时间来写更详细的总结，也将提供更详细的信息，包括：(a) 详细阐释具体发生了什么、出了什么问题；(b) 管理结构和领导层今后的工作；(c) 一篇公开回应文章以及 (d) 掌握工资单等方面的情况。
-
-
-
-
-最后，我完全理解这对所有人来说都是一个艰难的时刻，我真的十分十分抱歉。对于公司该怎么做才是正确的决定，我也理解每个人都有自己的想法。
-
-
-
-
-在接下来的一周里，至少以上是我们的路线图（至少对 FTX 国际而言）。我很希望你们每个人都能在那里和我们一起战斗。但我也完全理解这很有压力，而且你们可能不同意我的观点。这两点我都完全没问题，我尊重你们所有人，无论如何--但我们确实需要同舟共济。
-
-
-所以如果你们想退出或者另谋出路，我不会阻拦。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-原文链接
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洞见Web3游戏：AI如何创造新《原神》]]></title>
-        <id>https://www.theblockbeats.info/news/32476</id>
-        <link href="https://www.theblockbeats.info/news/32476"/>
-        <updated>2022-11-10T07:46:53.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Deon，GalaxyBlitz
-
-
-
-
-现象级《原神》带来的深思
-
-
-
-
-很多人都发现，面对《原神》，游戏圈传统的套路「失效」了。过去的手游行业，卡牌、APRG、MMO、SLG、MOBA 和吃鸡品类诞生的」爆款」会让业界迅速找到「方向」，然后不少厂商赚的盆满钵满。
-
-
-面对《原神》，绝大多数人又感受到了一种巨大的无力感。大部分人想抄作业，才发现自己只是小学学历，而《原神》已经是两院院士了。米哈游的开放世界、内容包装、大投入、工业化、多平台、全球发行、IP 与品牌……让游戏圈绝大多数人已经陷入了给答案都没能力看懂的境地了。
-
-
-
-
-投资人的焦虑更大，米哈游从上交的宿舍企业到现在游戏界巨头仅拿了斯凯网络的 CEO 宋涛的 100 万元投资，如今这笔投资的估值是 3400 亿，传奇性堪比孙正义投资阿里巴巴，那么下一个米哈游在哪里？
-
-
-充满个性的 AI Being 将会带来下一个 Web3 游戏的叙事的高潮。
-
-
-
-
-
-
-我们首先来观察原神的付费逻辑，角色是《原神》的核心付费点，《原神》是一款内容极度围绕角色为核心的游戏，游戏内所有的内容包括但不限于剧情，大世界，动画，最终都是要为了角色服务。每个角色会有专属的剧情和故事，甚至单独制作的大世界提升的游戏体验（比如层岩巨渊）都是会分摊到每一个角色身上，因为你最终还是要用他们去进行探索。
-
-
-
-
-那么玩家为什么会为角色付费呢？因为玩家对角色产生了感情，提瓦特大陆的确是一个绝美的舞台，米哈游塑造的大世界，伴随之的回响音乐，形形色色的人物和故事，无不让人被深深吸引。行走于这片大地，就好像行走于一个真正的异世界——而不局限于小说，动画，真切地感受到一场来自陌生土地的田园诗歌。美丽的事物天然充满诱惑，我们趋之若鹜。
-
-
- 
-在这片风光绮丽的大陆上，玩家与角色一起无论是探索、战斗、通关深渊，还是养成，在某种程度上让你以为自己真的置身…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alliance DAO演示日17个入选初创项目一览]]></title>
-        <id>https://www.theblockbeats.info/news/32511</id>
-        <link href="https://www.theblockbeats.info/news/32511"/>
-        <updated>2022-11-10T06:46:53.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：
-
-Jacquelyn Melinek
-
-
-原文编译：
-
-深潮 TechFlow
-
-
-
-周三，Alliance DAO 的「演示日」活动在 FTX 崩盘期间举行，我们仍然看到了许多新的且不错的加密初创项目。
-
-
-"实际上如今的情况比 2018 年的熊市还要糟糕，"Alliance DAO 的核心贡献者 Qiao Wang 说，他指的是 Binance 吸收竞争对手 FTX 的计划。"今天，所有人都措手不及，包括我自己...... 过去三个月与我们 All9 的创始人密切合作，让我再次充满了希望。正是像他们这样的人，会逐渐推动我们的行业向前发展"。
-
-
-All9 是 Alliance DAO 的一个 Web3 加速器和建设者社区，在周三的演示日期间展示了他们的一些不错的想法。
-
-
-每年两次，Alliance DAO 会邀请 Web3 的创始人参加为期三个月的项目。迄今为止，Alliance DAO 的校友已经创造了超过 100 亿美元的市值。活动大约收到了 953 份申请，但只有 17 个团队被选中并从该计划毕业。
-
-
-Wang 说，许多团队正在研究改进加密货币主题，如实物工作证明、用户钱包体验、产品驱动的协议、加密货币 B2B 产品、链上数据和垂直化。
-
-
-"这次的参与项目能够充当整个行业正在发生事情的一个相当有代表性的样本。"
-
-
-参与项目专注于 Web3 上的一系列子行业和产品，如身份验证、流动性质押、加密钱包和去中心化机器学习等。大约 38% 的初创项目专注于以太坊生态系统，而 Polygon 占 21%，Solana 占 17%。
-
-
-导师包括：
-
-
-· Brevan Howard Digital 的风险投资联合主管 Colleen Sullivan；
-
-
-· LinksDAO、The Block 的创始人和第 6 人风险投资公司的投资者 Mike Dud…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
