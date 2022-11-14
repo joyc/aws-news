@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-14T12:17:47.522Z</updated>
+    <updated>2022-11-14T18:10:57.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com会不会是下一个暴雷的平台？]]></title>
+        <id>https://www.theblockbeats.info/news/32569</id>
+        <link href="https://www.theblockbeats.info/news/32569"/>
+        <updated>2022-11-14T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Crypto.com会不会是下一个暴雷的平台？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX前员工揭露内幕：客户资金如何流向Alameda并不被审计发现？]]></title>
         <id>https://www.theblockbeats.info/news/32555</id>
@@ -271,16 +281,6 @@ Crypto 还解放了金钱，让其摆脱了人类的体制、愚蠢与腐败。�
 原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OP Research：Wallet、CEX和DAPP，谁是未来Web3流量入口]]></title>
-        <id>https://www.theblockbeats.info/news/32528</id>
-        <link href="https://www.theblockbeats.info/news/32528"/>
-        <updated>2022-11-12T02:02:10.000Z</updated>
-        <summary type="html"><![CDATA[OP Research：Wallet、CEX和DAPP，谁是未来Web3流量入口]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

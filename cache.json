@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32569",
+          "author": null,
+          "description": "Crypto.com会不会是下一个暴雷的平台？",
+          "link": "https://www.theblockbeats.info/news/32569",
+          "publishedOn": "2022-11-14T13:00:52.000Z",
+          "wordCount": null,
+          "title": "Crypto.com会不会是下一个暴雷的平台？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32555",
           "author": null,
           "description": "原文标题：《FTX 前员工揭露内幕：资金是如何在客户、CHO 和 Alameda 之间流转而不被审计发现的》\n原文作者：Yung Dot\n原文编译：郭倩雯，ChainCatcher\n\n\n我本不打算分享这一切，但当我有机会与 Mario Nawfal 匿名分享时，我决定分享。不过马里奥不接受工资单/身份证、数字身份证、电子邮件、钱包传真作为验证，而是想要一个 LinkedIn 连接？\n\n\n我作为一名前 FTX 员工，可以讲一讲资金是如何成功地在客户、CHO 和 Alameda 钱包之间流转而不被审计人员发现的。整个黑客攻击之所以能进行，是因为 SBF 在大约 9 个月前投入的 elx trapdoor，该功能也在公测中出现。\n\n\n正如其名，这个功能允许 Sam 在审计人员要查询数据库时，使用 elx 通过负通量向审计人员发送欺诈性的日志记录器消息。加入这个功能对 Sam 来说很有用，这是一个非常普通的功能，但是，他擅长运用这些小东西。\n\n\n\n\n\n日志被解析到钱包 0x1c69，然后它启动了 glm  的转移功能；这里只是一个例子，显示如何通过 Tornado 洗走 76k+10k ETH。对审计师来说，从服务器端传回日志的情况并无异常，而且在前端的资金看起来很安全。\n\n\n\n\n\n在 FTX APP 我们的任务是设计 ADD（全称为 Augmented deficit decoders「增强型亏损解码器」），以帮助混淆和保护代码库，这些东西似乎后来被恶意地用来掩盖高管们的错误行为。\n\n\n当  FTT 达到 200wma 时，这些解码器被用来让它在  LTF  上进行回升，每回升一次，FTT 就更加强大，但在高频交易（HTF）之后，它无法坚持下去，这是一切开始崩溃的前兆。我的团队因不适合被「解雇」了——就是在我们提出了这些信息是用来支撑  FTT 的混淆交易之后。我们花了 4  年时间研究的 ADD 现在被用到欺诈中，我们的意愿没有受到尊重。\n\n\n我的主要问题是，Rupert 是如何在整个过程中把自己摘干净的。Sam、Gary 和 Caroline 一直在上头条，但多个签名的签名者  Rupert Calloway（与 SBF 长期交好，也是麻省理工学院的一名黑客，他的名字是 Mario Nawfal 昨日曝光的，并未出现在大众视野。\n\n\n\n\n\nRupert 可能永远不会都不会入狱，因为签署多个签名几乎不构成犯罪，他可以辩称自己的行为是被胁迫的。但令人惊讶的是，需要四个人签字的 7.83 亿美元怎么突然不翼而飞，而他们似乎都都对此不知情。\n\n\nRupert  的 dox  钱包（再次感谢 Mario Nawfal 的 Space）目前持有 660 万美元 ETH，似乎在各种不同的地址之间转来转去——这究竟是为什么？\n\n\n\n\n\n其中一个是 0x72。恰好 0x72 拥有 Milady#241。那么，谁是它的主人呢？不是别人，正是 Caroline。这引出更多的问题，等待我们挖掘。\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -53,16 +63,6 @@
           "publishedOn": "2022-11-12T06:43:35.000Z",
           "wordCount": null,
           "title": "如果FTX钱包异动系黑客攻击，需要至少满足这几点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32528",
-          "author": null,
-          "description": "OP Research：Wallet、CEX和DAPP，谁是未来Web3流量入口",
-          "link": "https://www.theblockbeats.info/news/32528",
-          "publishedOn": "2022-11-12T02:02:10.000Z",
-          "wordCount": null,
-          "title": "OP Research：Wallet、CEX和DAPP，谁是未来Web3流量入口",
           "imageUrl": null
         }
       ]
