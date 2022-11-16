@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32585",
+          "author": null,
+          "description": "原文标题：《前 Spartan Group 合伙人怒撰长文：关于 FTX 的一切真相》\n原文作者：Jason Choi\n原文编译：\n\nMoni，Odaily 星球日报\n\n\n针对《纽约时报》今日发布的一篇 SBF「洗地文」，前 Spartan Group 合伙人 、资深加密从业者 Jason Choi 在社交媒体上以数十条推文分享了自己作为亲历者的所知道的一切，他表示无法接受《纽约时报》的歪曲报道，他在 FTX  诞生之前就认识 SBF，见证了 FTX 的兴衰，因此希望向众人讲述，究竟发生了什么。\n  \n\n\n\n\n\n本文由 Odaily 星球日报翻译整理：\n\n\n\n对于 Alameda 和 FTX 的故事，简单来说，可以总结为一句话：SBF 赌性很强。实际上，他们做的每一个重大决定都与使用更多杠杆有关——欺骗性募集资金，金融工程，以及最终彻头彻尾的欺诈。\n\n\n2018 年 11 月至 2019 年 1 月，当时规模还很小的对冲基金 Alameda Research  开始向投资者募资，承诺「无风险的高回报」。据推测（据我所知），他们拥有 500 万美元的股本，但试图以 15% 的年利率借入 2 亿美元来从事未来的做市。\n\n\n2019 年 7 月是 FTX 计划推出的时间，他们于 2019 年 8 月宣布完成 800 万美元种子轮融资，几家基金参投。（Odaily 星球日报注：本轮融资由 Proof of Capital、Consensus Lab、FBG、Galois Capita 等参投），在一份投资者备忘录中，「Alameda & FTX」被标注为有风险，因为 SBF 要同时兼顾这两家公司。消息人士告诉我，之所以推出 FTX，是因为当时 Alameda 很难融资，所以说，FTX 可能只是为了方便 Alameda 融资的一个「副产品」。\n\n\n早期，Alameda 有一个 FTX…",
+          "link": "https://www.theblockbeats.info/news/32585",
+          "publishedOn": "2022-11-16T03:30:41.000Z",
+          "wordCount": null,
+          "title": "前Spartan Group合伙人揭露FTX真相：无法接受《纽约时报》的歪曲报道",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32582",
           "author": null,
           "description": "原文作者：Degg_GlobalMacroFin\n\n\n前段时间，金融时报披露了一份据称是 FTX 最后时刻的资产负债表。\n\n不仅仅显示了 FTX 在 Chapter 11 破产前的最后一秒的样子，也显了自上个周末以来 FTX 是如何突然陷入万劫不复深渊的，可以说，这张资产负债表是完美的「银行危机」教科书。  \n\n\n\n\n\n1、先看一下挤兑爆发之前 FTX 的资产负债表状况。\n\n\n资产端有大约 240 亿美元市值的总资产。 \n\n\n60 亿的流动性资产，包括各类稳定币、货币存款等； \n\n\n150 亿的各种加密资产，被 标记为「不那么流动的资产」，包括 60 亿的它自己发行的 FTT，22 亿 SOL，54 亿的 SRM； \n\n\n32 亿的非流动性资产，主要是各类风险投资。\n\n\n\n\n负债端，FTX 有大约 140 亿美元的负债，包括至少 50 亿的美元负债，以及大量 BTC、ETH 负债。\n\n这时，FTX 的净资本（总资产减负债）大约为 100 亿美元。    \n\n\n3、换句话说，在出事之前，FTX 的杠杆率仅为 1.4 倍，SBF 在上周六时还确实是个百亿身价的富豪。 \n\n\nSBF 估计 FTX 平日里每天的资金提取平均为 2.5 亿美元/日。因此即便没有新增资金流入，SBF 预计其 60 亿的流动性资产也能对抗大约 24 天的提款需求（类似于传统银行业中的「流动性覆盖倍数」概念）。  \n\n\n4、这将给 FTX 充足时间将持有的各种代币变现，或从其他地方寻找资金。\n\n但周日开启的挤兑超出了 SBF 的想象。\n\nSBF 在该文件中表示，周日（11 月 6 号）FTX 遭遇了平日 25 倍的提款需求，短短几天内资金净流出量达到了 50 亿美元，其中包括至少 20000 枚 BTC 以及大量稳定币。  \n\n\n5、挤兑的结果是：FTX 流动性资产的总额由 60 亿下降到仅 10 亿。 \n…",
