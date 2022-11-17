@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32596",
+          "author": null,
+          "description": "原文作者：SBF\n原文编译：Odaily 星球日报 \n\n\n昨日，SBF 针对 FTX 崩盘事件进行反思，表示由于杠杆远高出预计，挤兑和市场崩盘耗尽了流动性，加之自己过于自信和粗心大意导致了历史性崩盘。不过他强调，正在为此尽其所能，将亲自与监管机构会面并与团队合作，优先为用户服务，之后是投资者做好服务。\n\n\n以下是 SBF 推文，经 Odaily 星球日报翻译整理。\n\n\n不是法律建议，也不是财务建议。这就是我记得的全部内容，但我的记忆可能有部分错误。但我会弄清楚发生了什么。现在，让我们谈谈我们今天所处的位置。 \n\n\n据我所知，截至 11 月 7 日之后（可能会出现错误）：\n\n\n1）Alameda 的资产多于负债（但不是流动性的资产）；\n\n\n2）Alameda 在 FTX  持有保证金头寸；\n\n\n3）FTX US 资产足以覆盖偿还所有用户。\n\n\n但并非每个人都一定同意这一点。我现在唯一的目标就是让用户满意，正在为此尽其所能。我将亲自与监管机构会面并与团队合作，尽其所能为用户服务，之后是投资者，但用户优先。\n\n\n我现在的目标是持续清理并关注资产透明度，使用户受到的影响降到最低。\n\n\n几周前，FTX 每天处理约 100 亿美元的交易量和数十亿笔转账。但是杠杆远高出预计，挤兑和市场崩盘耗尽了流动性。那么我可以尝试做什么呢？提高流动性，尽量弥补客户，然后重新开始。也许我会失败，也许什么也做不了。我之前确实失败了，你们都看到了。但我所能做的就是尝试。这个月我已经失败够多了，但我内心深处认为我仍然能做些什么。\n\n\n粗略估计目前的情况：\n\n\n拥有流动性资产为 -80 亿美元；\n\n\n半流动性资产为 55 亿美元；\n\n\n非流动性资产为 35 亿美元。\n\n\n此外，或许现在 90 亿美元半/非流动性资产（按市值计价，10 亿美元净值）不值 90 亿美元，但这些资产在一个月前值 180 亿美元（100 亿美元净值）。\n\n\n我知道你们都看到了这一点，但粗略地说，这就是今天的情况。\n\n\n一个月前 FTX 是一家有价值的企业。FTX 的日交易量约为 100 亿至 150 亿美元，年收入约为 10 亿美元，股权价值高达 400 亿美元。FTX 被誉为高效经营公司的典范，是硅谷的宠儿。但（再次强调，据我所知，这些数字是近似值）大多数相关资产暴跌超过 50%。与此同时，交易所发生了挤兑，每天大约有 25% 的客户资产被取出。杠杆高达 130 亿美元，而不是此前认为的 50 亿美元。高杠杆、资金挤兑、资产价值的全面崩盘突然同时发生。\n\n\n昨晚我和我的一个朋友聊天。\n\n\n他们发布了我的信息。这些本来不打算公开的，但反正他们现在公开了。\n\n\n\n\n\n好吧，我猜这让事情变得更糟。事情变成这样真的很抱歉。正如我所说的——我将尽我所能让它变得更正确。\n \n我的一些想法：\n\n\n监管者真的很难。他们有一项不可能完成的工作：监管整个行业，这些行业的增长速度超过了他们的授权允许的范围。因此，他们往往最终无法像理想情况那样进行监管。 \n\n\n即便如此，还是有一些监管者的知识和工作给我留下了深刻的印象，例如 CFTC、SCB 还有 VARA 等等。但是大多数监管者不知所措。\n\n\n这意味着与监管的互动可能真的很令人沮丧：「大量」的工作，其中大部分是随意的，且客户保护相对较少。你们都应该得到让监管机构在允许自由的同时保护客户的框架。 \n\n\n我（昨晚）说的一些话是轻率的或过于强烈，但我是在发泄而并不打算公开。但我想在这一点上我写的东西无论如何都会被泄露。\n\n\n以后，我将不再关心愚蠢的、无（实质）内容的信息。\n\n\n重要的是你所做的事情，实际上是做的好事还是做的坏事，而不仅仅是谈论他们。\n\n\n不管怎样，现在这些都不重要了。\n\n\n重要的是尽我所能。\n\n\n并尽我所能为 FTX 的客户服务。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32596",
+          "publishedOn": "2022-11-17T03:48:01.000Z",
+          "wordCount": null,
+          "title": "SBF新反思帖：我现在的唯一目标就是让用户满意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32595",
+          "author": null,
+          "description": "原文来源：加密 KOL wagame.eth\n原文编译：0x711、0x214，BlockBeats\n\n\n\n\n昨晚，zkSync 开发公司 Matter Labs 宣布完成 2 亿美元 C 轮融资，Blockchain Capital 和 Dragonfly 共同领投，a16z、Variant、Lightspeed Venture Partners 等参投。此次融资完成后，其总融资已经达到 4.58 亿美元。同时，zkSync 在其社交平台宣布，将分配三分之二的潜在未来 Token 给到 zkSync 生态，并将尽力保证分配的透明性和公正性。\n\n\n当晚，Matter Labs 的首席产品官 Steve Newcomb 参加了 Bankless 的播客活动，并就 zkSync 的未来发展做了进一步阐述，加密 KOL wagame.eth 整理了以下内容，BlockBeats 对其翻译整理如下：\n\n\n\n\n\n\n\n本文不会重复 zkSync 官方推特已经发布的内容，仅对 Steve Newcomb 在 Bankless 播客中透露出的内容做出整理并简要分析。\n\n\n1. 首先，此次公告并不是 Token 发行公告，仅仅是融资公告，官方称之为「Fair Raise」。对此，wagame.eth 认为新进投资者的加入条件应该是确保发行 Token ZKS，这个决策将由 zkSync 官方做出，并且三分之二分配给生态系统将是板上钉钉。\n\n\nSteve 将三分之二的分配比例同 StarkNet 的分配比例进行了对比。奇怪的是，他还与 Arbitrum 的 Token 分配进行了对比，并称 Arbitrum 将有 50%Token 分配给内部。但 Arbitrum 官方甚至都从未明确过会发行 Token，不知道这是 Steve 口误，还是说漏嘴了……\n\n\nBlockBeats 注，11 月 10 日，StarkNet 基金会宣布成立，并将持有 50.1% StarkNet Token。\n\n\n此外，Steve 表示，团队希望在当前投资者的锁定条款和解锁条款方面保持透明。团队不希望 Token 价格暴涨暴跌，并将尽可能避免这种情况。「这里的每个人都在践行长期主义。」\n\n\n2. 团队没有更新主网的时间表，与我们已知的信息相差不大。可以点击此前的推文 链接 查看。\n\n\n\n\n\n\n\n\n\n3. zkSync 代码将从 Fair Launch 起开源。这与他们的竞争对手形成鲜明对比：Polygon 的代码受版权保护，而 Starknet 的代码不可分叉。开源是 zkSync 的生存决策，由其愿景决定。\n\n「你使用自己代码的方式很大程度上说明了你的本质。」\n\n\n\n\n4. Layer3（企业级区块链）proof of concept： Opportunity 将于 2023 年第一季度推出。zkSync 目前正在与许多主流、知名品牌进行谈判。与 6 个月之前不同，这些公司将以太坊视为最受信任的区块链，并希望在 zkSync 上采取行动。\n\n\n\n\nBlockBeats 注：10 月 31 日，zkSync 的开发商 Matter Labs 表示，正在开发 Layer3 区块链 Opportunity，以进一步提高 zkSync 区块链基础设施的可扩展性。Matter Labs 表示 Opportunity 将是 zkSync 网络上的一个额外的链下计算层，旨在帮助提升以太坊的可扩展性和降低 Gas 成本。\n\n\n\n\n总之，即使没有关于 Token 的公告，以上信息也可以被当成 zkSync 的利好消息。当最终启动时，ZKS Token 分发将反映项目的更大目标：他们不是一家公司，他们是支持 Web3 采用和以太坊的生态系统。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32595",
+          "publishedOn": "2022-11-17T03:41:01.000Z",
+          "wordCount": null,
+          "title": "zkSync发行Token：给生态的可能比其他Layer2都多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32594",
+          "author": null,
+          "description": "原文标题：《zkSync 公布新一轮融资》\n原文来源：zkSync社区\n\n\n\n\n\n\n\n\n\n\n\n\n我们很高兴与大家分享, 我们已经: \n\n\n\n\n• 筹集了 2 亿美元，现在有总计 4.58 亿美元的融资\n• 我们将在下一个里程碑完全开放源码 \n• 为生态系统保留 2/3 的潜在未来 TOKEN \n• 与 @OpenZeppelin 建立安全审查合作伙伴关系\n\n\n\n\n1）matter_labs 现在共筹集了 4.58 亿美元\n\n\n\n\n其中包括由 @blockchaincap 和 @dragonfly_xyz 共同领投的新的 2 亿美元 C 轮融资，\n\n\n我们之前宣布的生态系统基金筹集了 2 亿美元，由 @a16z 领导的 B 轮筹集了 5 千万美元，A 轮和种子轮筹集了 800 万美元。点击查看详情\n\n\n\n\n2）3/2 Token 将被保留给我们的生态系统\n\n\n\n\n我们自豪地宣布，如果未来有任何潜在的 Token 释放，2/3 将被保留给我们的生态系统，将公平和透明的分配。\n\n\n\n\n3) 下一步里程碑我们将会开放源码\n\n\n\n\n是时候了: 在我们的 Fair Onboard Alpha 里程碑上，我们将为所有代码提供完全由麻省理工学院许可的开放源码 (自由查看、更改、分叉)。\n\n\n我们相信，除了完全开源之外，任何事情都是一种对代码、思想和创新的审查形式。 点击查看详情\n\n\n\n\n\n4）安全审查\n\n\n\n\n我们很荣幸地宣布：@OpenZeppelin 为几个安全合作伙伴中的第一个，他们正在对 @zkSync 进行全面的安全审查。\n\n\n我们正在为 Fair Onboard Alpha 和 Fair Launch Alpha 做准备。点击查看详情\n\n\n\n\n5）参与讨论\n\n\n\n\n今天我们将更深入的讨论我们开源的决定、C 轮筹款以及 zkSync 的未来。\n\n\n你可以通过：https://www.youtube.com/watch?v=ntrpjFUecCE 收看\n\n\n\n\n6）生态系统\n\n\n\n\n随着 Fair Onboarding Alpha 的临近，我们还想更新生态系统：150 多个项目已经注册部署在 zkSync 2.0 上。\n\n\n这将使 zkSync 2.0 的 Fair Launch Alpha 里程碑成为最大的 Layer 2 发布。 点击查看生态系统\n\n\n\n\n7）欢迎参与\n\n\n\n\n如果我们的使命引起您的共鸣，请按以下方式参与：\n\n\n1) 在 zkSync 2.0 上注册您的项目 \n2) 在 Discord 中加入对话 \n3) 查看我们的空缺职位\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32594",
+          "publishedOn": "2022-11-17T03:41:01.000Z",
+          "wordCount": null,
+          "title": "zkSync公布新一轮融资，下一步里程碑将会开放源码",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32593",
           "author": null,
           "description": "作者：0x49、Jack，BlockBeats\n\n\n11 月 16 日，Genesis Trading 在北京时间 21 点准时向所有债权人和客户开了一场不到 10 分钟的电话会议。与其说会议，不如说是通知。会议中，Genesis 宣布贷款部门 Genesis Global Capital 将暂停赎回和新贷款发放服务，后续的安排会在下周宣布。说罢，电话会结束。\n\n\n继 Celsius、Voyager、3AC、Babel、FTX 等等知名机构或者平台相继暴雷后，这家全球最大的加密货币借贷平台也宣布停止提款了，同时也暂停放贷。\n\n\n\n\n\n\n目前看来，如果找不到新的流动性或者所谓的「救世主」，Genesis 借贷部门宣布破产也只是时间问题。\n\n\n\n\n中心化平台间的连环杠杆与暴雷我们已经经历了半年，在一年前这场史无前例的机构杠杆牛市中，机构的财报有多惊人，这场连环爆仓的影响就有多大。现在就连这家曾经也救助过不少其他机构的加密借贷龙头也到了破产边缘。Genesis 究竟是如何被三箭资本和 FTX 影响的呢？\n\n\n\n\n三箭资本与 FTX 对 Genesis Trading 的影响\n\n\n\n\nGenesis 和三箭资本最初的渊源得追溯到 GBTC。GBTC 是由 Grayscale 推出的灰度比特币信托基金。GBTC 最大的一个特点在于可使用 BTC 申购 GBTC 份额，但无法通过 GBTC 赎回 BTC。这一机制为三箭资本快速崛起打开了窗口，同时也注定最后会留下一地鸡毛。\n\n\n\n\n在大放水的宏观周期以及新周期加密叙事背景下，GBTC 兑 BTC 保持着长期溢价。面对着看似无风险的套利机会，三箭资本入场了。根据公开资料，截至 2020 年年底，三箭资本是灰度 GBTC 的最大持仓者，持有 5.6168% 的 GBTC 份额，当时市值约为 12.4 亿美元。此时，GBTC 相对 BTC 溢…",
@@ -143,16 +173,6 @@
           "publishedOn": "2022-11-15T01:05:38.000Z",
           "wordCount": null,
           "title": "SBF：Alameda在FTX上的保证金头寸「比想象的要大得多」，目前靠电子游戏保持头脑清醒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32569",
-          "author": null,
-          "description": "Crypto.com会不会是下一个暴雷的平台？",
-          "link": "https://www.theblockbeats.info/news/32569",
-          "publishedOn": "2022-11-14T13:00:52.000Z",
-          "wordCount": null,
-          "title": "Crypto.com会不会是下一个暴雷的平台？",
           "imageUrl": null
         }
       ]
