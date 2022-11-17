@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32593",
+          "author": null,
+          "description": "作者：0x49、Jack，BlockBeats\n\n\n11 月 16 日，Genesis Trading 在北京时间 21 点准时向所有债权人和客户开了一场不到 10 分钟的电话会议。与其说会议，不如说是通知。会议中，Genesis 宣布贷款部门 Genesis Global Capital 将暂停赎回和新贷款发放服务，后续的安排会在下周宣布。说罢，电话会结束。\n\n\n继 Celsius、Voyager、3AC、Babel、FTX 等等知名机构或者平台相继暴雷后，这家全球最大的加密货币借贷平台也宣布停止提款了，同时也暂停放贷。\n\n\n\n\n\n\n目前看来，如果找不到新的流动性或者所谓的「救世主」，Genesis 借贷部门宣布破产也只是时间问题。\n\n\n\n\n中心化平台间的连环杠杆与暴雷我们已经经历了半年，在一年前这场史无前例的机构杠杆牛市中，机构的财报有多惊人，这场连环爆仓的影响就有多大。现在就连这家曾经也救助过不少其他机构的加密借贷龙头也到了破产边缘。Genesis 究竟是如何被三箭资本和 FTX 影响的呢？\n\n\n\n\n三箭资本与 FTX 对 Genesis Trading 的影响\n\n\n\n\nGenesis 和三箭资本最初的渊源得追溯到 GBTC。GBTC 是由 Grayscale 推出的灰度比特币信托基金。GBTC 最大的一个特点在于可使用 BTC 申购 GBTC 份额，但无法通过 GBTC 赎回 BTC。这一机制为三箭资本快速崛起打开了窗口，同时也注定最后会留下一地鸡毛。\n\n\n\n\n在大放水的宏观周期以及新周期加密叙事背景下，GBTC 兑 BTC 保持着长期溢价。面对着看似无风险的套利机会，三箭资本入场了。根据公开资料，截至 2020 年年底，三箭资本是灰度 GBTC 的最大持仓者，持有 5.6168% 的 GBTC 份额，当时市值约为 12.4 亿美元。此时，GBTC 相对 BTC 溢…",
+          "link": "https://www.theblockbeats.info/news/32593",
+          "publishedOn": "2022-11-16T17:38:44.000Z",
+          "wordCount": null,
+          "title": "全球最大加密借贷平台Genesis暂停提现，究竟出现了什么问题？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32591",
           "author": null,
           "description": "原文标题：FTX’s Balance Sheet Was Bad\n原文作者：Matt Levine，Bloomberg Opinion columnist \n原文编译：Leo，BlockBeats\n\n\n一个「空盒」\n\n\n\n\n\n有太多想要说的，但我要从 Serum 开始。\n\n\n\n\n\n\n如果一家陷入困境的公司在申请破产前的几天时间向潜在投资者求助，并将资产负债表发送给这些投资者，以便他们考虑是否投资，但并未获得资金，该公司随后申请破产，那么其资产负债表当然不会好看，这不是一种与最初「堡垒式」资产负债表相匹配的状态。\n\n\n\n\n\n\n即使是破产，也会引起一系列更糟的连锁反应，Sam Bankman Fried 的 FTX 资产负债表在上周（周五申请破产之前）发给潜在的投资者时数据非常糟糕，这份关于 FTX 的 Excel 表里面仿佛充满了「鬼魂怨灵」，如果你盯着这份表格看得太久，你会发疯的。\n\n\n\n\n英国《金融时报》的 Antoine Gara、Kadhim Shuber 和 Joshua Oliver 上周六报道：\n\n\n\n\n\n\n「《金融时报》获取的投资材料显示，在 SBF 破产前一天，FTX international 仅持有 9 亿美元易出售的资产，而负债高达 90 亿美元。」\n\n\n\n\n\n\n上周四在 FTX international 资产负债表上列出的流动资产中，最大的一部分是由 SBF 个人机构所持有的 4.7 亿美元 Robinhood 股票，该机构没有在上周五的破产申请文件中列出（其中包括 134 家公司实体）。」\n\n\n\n\n\n\n看起来很糟，但不知为何变得越来越糟。\n\n\n\n\n\n\n《金融时报》获悉的一份列出 FTX international 资产负债表上指出了导致 SBF 破产的问题。它提到了上周日 50 亿美元的提款，以及一个被描述为「隐藏的、内部标签很差的法币账户（fi…",
@@ -143,16 +153,6 @@
           "publishedOn": "2022-11-14T13:00:52.000Z",
           "wordCount": null,
           "title": "Crypto.com会不会是下一个暴雷的平台？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32555",
-          "author": null,
-          "description": "原文标题：《FTX 前员工揭露内幕：资金是如何在客户、CHO 和 Alameda 之间流转而不被审计发现的》\n原文作者：Yung Dot\n原文编译：郭倩雯，ChainCatcher\n\n\n我本不打算分享这一切，但当我有机会与 Mario Nawfal 匿名分享时，我决定分享。不过马里奥不接受工资单/身份证、数字身份证、电子邮件、钱包传真作为验证，而是想要一个 LinkedIn 连接？\n\n\n我作为一名前 FTX 员工，可以讲一讲资金是如何成功地在客户、CHO 和 Alameda 钱包之间流转而不被审计人员发现的。整个黑客攻击之所以能进行，是因为 SBF 在大约 9 个月前投入的 elx trapdoor，该功能也在公测中出现。\n\n\n正如其名，这个功能允许 Sam 在审计人员要查询数据库时，使用 elx 通过负通量向审计人员发送欺诈性的日志记录器消息。加入这个功能对 Sam 来说很有用，这是一个非常普通的功能，但是，他擅长运用这些小东西。\n\n\n\n\n\n日志被解析到钱包 0x1c69，然后它启动了 glm  的转移功能；这里只是一个例子，显示如何通过 Tornado 洗走 76k+10k ETH。对审计师来说，从服务器端传回日志的情况并无异常，而且在前端的资金看起来很安全。\n\n\n\n\n\n在 FTX APP 我们的任务是设计 ADD（全称为 Augmented deficit decoders「增强型亏损解码器」），以帮助混淆和保护代码库，这些东西似乎后来被恶意地用来掩盖高管们的错误行为。\n\n\n当  FTT 达到 200wma 时，这些解码器被用来让它在  LTF  上进行回升，每回升一次，FTT 就更加强大，但在高频交易（HTF）之后，它无法坚持下去，这是一切开始崩溃的前兆。我的团队因不适合被「解雇」了——就是在我们提出了这些信息是用来支撑  FTT 的混淆交易之后。我们花了 4  年时间研究的 ADD 现在被用到欺诈中，我们的意愿没有受到尊重。\n\n\n我的主要问题是，Rupert 是如何在整个过程中把自己摘干净的。Sam、Gary 和 Caroline 一直在上头条，但多个签名的签名者  Rupert Calloway（与 SBF 长期交好，也是麻省理工学院的一名黑客，他的名字是 Mario Nawfal 昨日曝光的，并未出现在大众视野。\n\n\n\n\n\nRupert 可能永远不会都不会入狱，因为签署多个签名几乎不构成犯罪，他可以辩称自己的行为是被胁迫的。但令人惊讶的是，需要四个人签字的 7.83 亿美元怎么突然不翼而飞，而他们似乎都都对此不知情。\n\n\nRupert  的 dox  钱包（再次感谢 Mario Nawfal 的 Space）目前持有 660 万美元 ETH，似乎在各种不同的地址之间转来转去——这究竟是为什么？\n\n\n\n\n\n其中一个是 0x72。恰好 0x72 拥有 Milady#241。那么，谁是它的主人呢？不是别人，正是 Caroline。这引出更多的问题，等待我们挖掘。\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32555",
-          "publishedOn": "2022-11-14T08:39:41.000Z",
-          "wordCount": null,
-          "title": "FTX前员工揭露内幕：客户资金如何流向Alameda并不被审计发现？",
           "imageUrl": null
         }
       ]
