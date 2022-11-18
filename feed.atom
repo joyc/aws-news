@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-18T06:11:12.512Z</updated>
+    <updated>2022-11-18T12:15:10.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll：zkEVM竞赛低调的挑战者]]></title>
+        <id>https://www.theblockbeats.info/news/32638</id>
+        <link href="https://www.theblockbeats.info/news/32638"/>
+        <updated>2022-11-18T09:31:55.000Z</updated>
+        <summary type="html"><![CDATA[撰写：Blockworks Research，Westie
+
+编译：深潮 TechFlow
+
+
+鉴于 EVM 在开发人员中的普及，人们一直希望将 zk Rollup 技术的可扩展性与 EVM 的开发者体验相结合。这导致了一场 zkEVM 系统的军备竞赛，其中主要的参与者是 Scroll、zkSync 和 Polygon，而 Scroll 相对于其他两者来说一直保持低调。
+
+
+由于 EVM 的限制，zkEVM 面临着兼容性/等价性和性能之间的必要权衡。Vitalik Buterin 列出了从 1 到 4 的等级，以努力阐明各种 zkEVM 设计选择之间的区别：
+
+
+
+
+
+Scroll 处于这种权衡的中间：他们正在建立一种 2.5 的 zkEVM。
+
+
+
+这意味着它们与 EVM 等效，只是对 Gas 成本结构的方式进行了非常小的改变。
+
+
+
+Scroll 的与众不同之处
+
+
+通过保持 EVM 的等效性，构建者能够直接将他们的应用程序从 Ethereum L1 迁移到 Scroll，而无需对其代码进行任何修改。它们也是完全开源的，允许任何人使用和验证他们的代码。
+
+
+
+Scroll 还为他们的排序器使用了 Geth 的一个分叉，使其继承经过实战检验的系统的同时，实现与以太坊的最佳兼容性。
+
+
+
+这也意味着他们可以很容易地将任何新的升级应用于 Geth；其他 zkEVM 可能需要增加代码复杂性才能进行升级。
+
+
+
+Scroll 的架构
+
+
+Scroll 的架构有三个主要组成部分：Scroll 节点、Roller 网络和验证桥。
+
+
+
+
+
+Scroll 节点的目的是从用户的交易中构建块并将它们提交给 L1，以及接收来自 L1 的消息。
+
+
+Scroll Node 的三个主要组成部分是排序器、协调器和中继器。
+
+
+排序器从 L2 mempool 接收一批交易，并执行它们以生成一个新的 L2 块。
+
+
+然后，该区块的执行轨迹被发送到协调器，协调器将其传递给一个随机选择的 Roller 以生成证明。
+
+
+中继器监控 L2 区块的状态，及其它们的数据可用性和来自滚动合同的有效性证明，以及来自桥接合同的存款和提款事件，以确保一切都可以被验证。
+
+
+Roller 网络负责生成有效性证明。Roller 网络将从协调器那里接收执行轨迹，将其发送到七个不同的证明电路中，将其汇总到一个最终电路中，并将最终的块证明送回协调器。
+
+
+
+
+
+验证桥包含两个合约：Rollup 合约和跨链桥合约。
+
+
+
+跨链桥合约处理 L1 和 L2 之间发送的消息，包括 ERC-20 Token 的桥接交易。
+
+
+
+Rollup 合约接收并存储状态根和区块数据作为以太坊状态和 calldata。一旦一个区块证明被 Rollup 合约验证，该区块就被认为是最终确定的。
+
+
+
+总的来说，在排序器创建一个区块序列并生成其证明后，多个区块证明被汇总成一个单一的证明，并通过协调器发送到 Rollup 合约，在那里区块被验证并被最终确定。
+
+
+
+
+
+路线图
+
+
+在过去的 3 个月里，Scroll 一直处于 Pre-Alpha 测试阶段，包括经过许可的智能合约部署和白名单用户访问。
+
+下一个阶段将是 Alpha 测试网，他们将允许无权限的智能合约部署，任何人都可以使用。
+
+
+
+Scroll 的主网将有两个阶段的启动。
+
+
+
+第一阶段将使用中心化的排序器和去中心化的证明者一起运行；
+
+
+
+第二阶段的主要目标是将排序器去中心化。
+
+
+
+虽然第二阶段仍在积极研究中，但目前的计划将包括用于 MEV 提取的 PBS 模型、链上挑战机制和一个排序器委员会，以允许在以太坊 L1 上完成交易之前实现最终确定。
+
+
+原文链接
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buidler DAO：一文读懂IBC—Cosmos 跨链通信协议]]></title>
+        <id>https://www.theblockbeats.info/news/32636</id>
+        <link href="https://www.theblockbeats.info/news/32636"/>
+        <updated>2022-11-18T09:05:55.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：
+
+Buidler DAO
+
+
+
+TL；DR
+
+
+
+
+- IBC 不仅解决了区块链互操作性问题，而且以信任最小化、安全、可扩展和通用的方式实现了跨区块链进行任意数据传输。「任意数据」包括资产的跨链和信息的跨链，比如代币和 NFT 资产的转移，也可以在使用一条区块链的同时管理另一条链上的账户，还可以从其他链上查询信息，等等。
+
+
+
+
+- IBC 协议的独特之处是它采用分层设计，传输层和应用层来实现整个工作流程。传输层 (TAO：transport layer) 提供必要的基础设施来建立安全连接和验证区块链之间的数据包。应用层（application layer）建立在传输层之上，它定义了数据包应该如何被发送链打包、以及如何被接收链解包。
+
+
+
+
+- IBC 的安全性是基于 IBC 轻客户端，不需要额外的信任第三方。使用基于源链的轻客户端也意味着其安全性与其区块链底层的安全性假设基本一致。
+
+
+
+
+- 实现 IBC 的信任最小化的核心「轻客户端」，对于小团队来说这是一项艰巨的开发工作。跨链安全将允许其他区块链从 Cosmos Hub「租用」安全性，而不用建立和维护自己链的验证节点。
+
+
+
+
+- 虽然 IBC 源自 Cosmos，但是它也可以用于其他链（未基于 Cosmos SD 构建），甚至与 Tendermint 完全不同的共识也可以。只是这需要基于链的共识类型和区块链框架，开发 IBC 所需要的不同的组件。
+
+
+
+
+- IBC 可视化工具：MapOfZones 更直观的展示了链与链互连通道；Mintscan 更详细的展示了中继器的相关信息；IOBScan 更便捷的可以通过交易哈希进行搜索。
+
+
+  引言  
+
+
+互联网促进了世界上不同地区不同类型计算机之间的相互通信，TCP/IP 的简单性和灵活性使它成为了标准 Internet 通信协议，被用于计算机、服务器、手…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解MPC和智能合约钱包的优缺点与挑战]]></title>
+        <id>https://www.theblockbeats.info/news/32634</id>
+        <link href="https://www.theblockbeats.info/news/32634"/>
+        <updated>2022-11-18T09:01:55.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《 Seedless Self-Custody: On MPC and Smart Contract Wallets  》
+原文作者： Nichanan Kesonpat
+原文编译：ChinaDeFi
+ 
+自我托管一直被誉为管理加密资产的最佳实践。FTX 和 Celsius 的崩溃是一长串事件中的最新一起，这些事件提醒业内「非彼之钥，则非彼之币」，引得人们纷纷奔向非托管钱包。在 FTX 事件曝光后，Safe 获得了 8 亿美元以上的净流入，Ledger 在短时间内连续经历了多个历史新高的销售额，Trezor 销售额飙升 300%，ZenGo 在一夜之间实现了三位数增长，存款达到历史最高水平，所有这些都发生在同一周内。
+
+
+
+
+然而，大量用户仍然愿意承担托管风险，以换取较低的成本和易用性。在非托管钱包基础设施成为保护和管理资产阻力最小的途径之前，我们还有很长的路要走。
+
+
+
+
+幸运的是，现在有一个蓬勃发展的钱包生态系统，为个人、DAO 和机构提供了更多的选择。加密不再只涉及安全存储，它还包括在新经济中使用资产。但是，不断增加的攻击面和漏洞，再加上日益丰富的功能，使得钱包需要既能够抵御攻击，同时又能支持日常业务和个人使用。
+
+
+
+
+与所有的设计决策一样，这是针对给定用例的多个考虑因素的优化问题，也是钱包解决方案和密钥管理实践的能力，它们需要务实地平衡目标用户的集体需求：
+
+
+
+
+个人需要无缝的用户体验、低费用、与 dApp 交互的灵活性。DAO 需要透明的金库管理、生态系统治理参与。机构希望通过链不可知性、可审计性和机构级安全性来外包责任。
+ 
+有两类替代密钥管理解决方案取得了重大进展：智能合约钱包 ( 包括多重签名钱包 ) 和多方计算 (MPC) 协议。
+
+
+
+
+
+ 
+本文涵盖：
+
+
+
+
+钱包中要考虑的属性；
+传统、MPC 和智能合约钱包的概述；
+钱包生态系统的持续…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点不同类型的零知识技术方案与零知识证明项目]]></title>
+        <id>https://www.theblockbeats.info/news/32632</id>
+        <link href="https://www.theblockbeats.info/news/32632"/>
+        <updated>2022-11-18T06:33:55.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《一文读懂零知识证明区块链项目》
+原文来源：Chainlink
+
+
+
+
+零知识技术是密码学的一个分支，可以为许多 Layer 1 区块链项目解决扩容和隐私问题。区块链可以利用零知识证明技术提升交易吞吐量，在验证用户身份的同时保护用户数据隐私，实现复杂的计算，并让企业既可以利用区块链技术又能保护自身知识产权。在上述所有应用场景中，零知识证明都是不可或缺的关键技术。 
+
+
+
+
+什么是零知识证明（ZKP）？零知识证明可以让用户在不透露信息的前提下证明自己知道或拥有信息。「证明者」（prover）会利用某一系统输入的信息来创建证明，而「验证者」（verifier）则会验证这个证明的计算结果，但却无法得知信息的具体内容。最关键的是，零知识证明可以验证某一数据集的有效性，并同时保护数据隐私。 
+
+
+
+
+本文将探讨零知识证明解决方案的独特优势；区块链项目如何利用 zkSNARK 和 zkSTARK 等零知识证明技术帮助开发者打造高级的 dApp，在为 Web3 实现扩容的同时也保护用户隐私；以及 Chainlink 的信任最小化服务如何帮助这些协议提升去中心化水平、可靠性以及安全性。
+
+
+
+
+为什么要采用零知识证明技术构建网络？ 
+
+
+
+
+零知识技术可以让开发者既能利用以太坊等底层区块链的安全性，又能为 dApp 提高交易吞吐量和速度，并同时将用户个人信息放在链下，以保护用户隐私。交易将打包上传至链上，以降低终端用户的使用成本。最终，项目可以利用这些功能打造出高级的 dApp，不仅在性能上可以与 Web2 系统媲美，而且还能保持 Web3 去中心化的优势。 
+
+
+
+
+零知识证明方案 VS Optimistic Rollup
+
+
+
+
+optimistic rollup 是一种 Layer 2 技术，是目前主流的扩容方案。据分析网站 L2Beat 的统计，截止至 2022 年 6 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当谈论Web3可信中立时我们在谈论什么？]]></title>
         <id>https://www.theblockbeats.info/news/32631</id>
