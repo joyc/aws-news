@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32637",
+          "author": null,
+          "description": "复盘2022，展望2023",
+          "link": "https://www.theblockbeats.info/news/32637",
+          "publishedOn": "2022-11-18T14:00:55.000Z",
+          "wordCount": null,
+          "title": "复盘2022，展望2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32639",
+          "author": null,
+          "description": "原文标题：《社区运营工具盘点，教你如何使用好电报&DC 管理工具》\n\n原文来源：\n\nPixel Dinosaur Club\n\n\n原文编译：\n\nwuxian.bit、Rust、TJ、Zolo，深潮TechFlow\n\n\n\n对于 Web3 项目而言，社区的重要性已经不言而喻，项目的成败也与社区的建设也息息相关。而针对 Web3 的社区，绝大部分项目都会把运营的重心放到电报和 Discord 两大社交平台。要想在这两个社交平台上运营好社区，首先需要的是了解和使用好平台上的原生工具。\n\n\n目前为止，在电报和 Discord 上已经有非常多运营相关的工具或者机器人可供使用，但他们品类很多，功能也各有好坏，因此本篇文章将对一些常用工具进行筛选和盘点，并提供一些基础的操作指南，期望能为每一个社区建设者提供一些参考和帮助。\n\n\n本次文章为共创完成，再次感谢来自 Web3 MKT 社区 Pixel Dinosaur 的成员 wuxian.bit、Rust、TJ、Zolo 的探索与整理。文章将分为两个部分，电报运营工具梳理和 Discord 运营工具梳理，我们也将在本周开展活动与大家共同探索好用的社区工具，欢迎一起来参与。\n\n\n一、Telegram 运营工具，Keep it simple\n\n\n电报一直给人两个印象：\n\n\n-垃圾广告太多\n\n\n-电报有的功能，Discord 都有\n\n\n所以对 Web3 而言，电报的定位慢慢也变成：\n\n\n- 轻量化运营社区的选择\n\n\n- 个人社交与商务沟通的工具（替代某信）\n\n\n在此背景下，电报的工具相对 Discord 来讲也比较简单，用的最多的就两个：Rose & Combot。这两个工具也基本涵盖了所有你需要的运营功能。\n\n\nRose：以指令为核心，具备完整的运营功能\n\n\n如果你刚搭建自己的电报社区，且不会涉及很复杂的功能，Rose 应该成为你的首选，她满足你入…",
+          "link": "https://www.theblockbeats.info/news/32639",
+          "publishedOn": "2022-11-18T10:53:07.000Z",
+          "wordCount": null,
+          "title": "教你如何使用好电报&DC管理工具，玩转 Web3 社区",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32638",
           "author": null,
           "description": "撰写：Blockworks Research，Westie\n\n编译：深潮 TechFlow\n\n\n鉴于 EVM 在开发人员中的普及，人们一直希望将 zk Rollup 技术的可扩展性与 EVM 的开发者体验相结合。这导致了一场 zkEVM 系统的军备竞赛，其中主要的参与者是 Scroll、zkSync 和 Polygon，而 Scroll 相对于其他两者来说一直保持低调。\n\n\n由于 EVM 的限制，zkEVM 面临着兼容性/等价性和性能之间的必要权衡。Vitalik Buterin 列出了从 1 到 4 的等级，以努力阐明各种 zkEVM 设计选择之间的区别：\n\n\n\n\n\nScroll 处于这种权衡的中间：他们正在建立一种 2.5 的 zkEVM。\n\n\n\n这意味着它们与 EVM 等效，只是对 Gas 成本结构的方式进行了非常小的改变。\n\n\n\nScroll 的与众不同之处\n\n\n通过保持 EVM 的等效性，构建者能够直接将他们的应用程序从 Ethereum L1 迁移到 Scroll，而无需对其代码进行任何修改。它们也是完全开源的，允许任何人使用和验证他们的代码。\n\n\n\nScroll 还为他们的排序器使用了 Geth 的一个分叉，使其继承经过实战检验的系统的同时，实现与以太坊的最佳兼容性。\n\n\n\n这也意味着他们可以很容易地将任何新的升级应用于 Geth；其他 zkEVM 可能需要增加代码复杂性才能进行升级。\n\n\n\nScroll 的架构\n\n\nScroll 的架构有三个主要组成部分：Scroll 节点、Roller 网络和验证桥。\n\n\n\n\n\nScroll 节点的目的是从用户的交易中构建块并将它们提交给 L1，以及接收来自 L1 的消息。\n\n\nScroll Node 的三个主要组成部分是排序器、协调器和中继器。\n\n\n排序器从 L2 mempool 接收一批交易，并执行它们以生成一个新的 L2 块。\n\n\n然后，该区块的执行轨迹被发送到协调器，协调器将其传递给一个随机选择的 Roller 以生成证明。\n\n\n中继器监控 L2 区块的状态，及其它们的数据可用性和来自滚动合同的有效性证明，以及来自桥接合同的存款和提款事件，以确保一切都可以被验证。\n\n\nRoller 网络负责生成有效性证明。Roller 网络将从协调器那里接收执行轨迹，将其发送到七个不同的证明电路中，将其汇总到一个最终电路中，并将最终的块证明送回协调器。\n\n\n\n\n\n验证桥包含两个合约：Rollup 合约和跨链桥合约。\n\n\n\n跨链桥合约处理 L1 和 L2 之间发送的消息，包括 ERC-20 Token 的桥接交易。\n\n\n\nRollup 合约接收并存储状态根和区块数据作为以太坊状态和 calldata。一旦一个区块证明被 Rollup 合约验证，该区块就被认为是最终确定的。\n\n\n\n总的来说，在排序器创建一个区块序列并生成其证明后，多个区块证明被汇总成一个单一的证明，并通过协调器发送到 Rollup 合约，在那里区块被验证并被最终确定。\n\n\n\n\n\n路线图\n\n\n在过去的 3 个月里，Scroll 一直处于 Pre-Alpha 测试阶段，包括经过许可的智能合约部署和白名单用户访问。\n\n下一个阶段将是 Alpha 测试网，他们将允许无权限的智能合约部署，任何人都可以使用。\n\n\n\nScroll 的主网将有两个阶段的启动。\n\n\n\n第一阶段将使用中心化的排序器和去中心化的证明者一起运行；\n\n\n\n第二阶段的主要目标是将排序器去中心化。\n\n\n\n虽然第二阶段仍在积极研究中，但目前的计划将包括用于 MEV 提取的 PBS 模型、链上挑战机制和一个排序器委员会，以允许在以太坊 L1 上完成交易之前实现最终确定。\n\n\n原文链接\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -213,16 +233,6 @@
           "publishedOn": "2022-11-16T08:24:07.000Z",
           "wordCount": null,
           "title": "对话王一石和超级君：硬件钱包是Crypto用户的必经之路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32585",
-          "author": null,
-          "description": "原文标题：《前 Spartan Group 合伙人怒撰长文：关于 FTX 的一切真相》\n原文作者：Jason Choi\n原文编译：\n\nMoni，Odaily 星球日报\n\n\n针对《纽约时报》今日发布的一篇 SBF「洗地文」，前 Spartan Group 合伙人 、资深加密从业者 Jason Choi 在社交媒体上以数十条推文分享了自己作为亲历者的所知道的一切，他表示无法接受《纽约时报》的歪曲报道，他在 FTX  诞生之前就认识 SBF，见证了 FTX 的兴衰，因此希望向众人讲述，究竟发生了什么。\n  \n\n\n\n\n\n本文由 Odaily 星球日报翻译整理：\n\n\n\n对于 Alameda 和 FTX 的故事，简单来说，可以总结为一句话：SBF 赌性很强。实际上，他们做的每一个重大决定都与使用更多杠杆有关——欺骗性募集资金，金融工程，以及最终彻头彻尾的欺诈。\n\n\n2018 年 11 月至 2019 年 1 月，当时规模还很小的对冲基金 Alameda Research  开始向投资者募资，承诺「无风险的高回报」。据推测（据我所知），他们拥有 500 万美元的股本，但试图以 15% 的年利率借入 2 亿美元来从事未来的做市。\n\n\n2019 年 7 月是 FTX 计划推出的时间，他们于 2019 年 8 月宣布完成 800 万美元种子轮融资，几家基金参投。（Odaily 星球日报注：本轮融资由 Proof of Capital、Consensus Lab、FBG、Galois Capita 等参投），在一份投资者备忘录中，「Alameda & FTX」被标注为有风险，因为 SBF 要同时兼顾这两家公司。消息人士告诉我，之所以推出 FTX，是因为当时 Alameda 很难融资，所以说，FTX 可能只是为了方便 Alameda 融资的一个「副产品」。\n\n\n早期，Alameda 有一个 FTX…",
-          "link": "https://www.theblockbeats.info/news/32585",
-          "publishedOn": "2022-11-16T03:30:41.000Z",
-          "wordCount": null,
-          "title": "前Spartan Group合伙人揭露FTX真相：无法接受《纽约时报》的歪曲报道",
           "imageUrl": null
         }
       ]
