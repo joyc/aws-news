@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-18T00:47:37.507Z</updated>
+    <updated>2022-11-18T06:11:12.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[当谈论Web3可信中立时我们在谈论什么？]]></title>
+        <id>https://www.theblockbeats.info/news/32631</id>
+        <link href="https://www.theblockbeats.info/news/32631"/>
+        <updated>2022-11-18T04:27:51.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Web3 可信中立》
+原文作者：Luca Prosperi
+原文编译：Block unicorn
+ 
+传统上讲，罗马皇帝提图斯·弗拉维乌斯·韦斯帕西亚努斯，当被他的儿子问到关于罗马令人恶心的一大笔税收收入时，他回答说：钱是不臭的。韦斯帕西亚努斯的罗马刚刚通过所谓的销售额的百分比对皮革商人收集 ( 并用于生产氨 ) 的公共尿液征税，而政治反对派正试图利用这一显眼的收入的来源。传说皇帝在一个传统的公共厕所里举起了一枚被遗弃在粪坑中的硬币，这个厕所也永远地以他的名字命名 -- 在现代意大利语中，vespasiano 是小便器的同义词，而他把金属拿到他的鼻子边，并说出了一个决定命运的句子：ecunia non olet（是拉丁语，意思是钱不会臭）。尽管许多人从这一事件中推断出货币可互换的末世论故事，但我的兴趣仍然是小便器，以及在墙上开一个洞的政治妖魔化，而不是它被非常人为的滥用 -- 即，在存放或收集粪便期间。
+ 
+今天的评论。鉴于关键时期，我希望我能得到原谅。如果你真的没有耐心看完整篇文章，请至少滚动到最下面，从标题阅读你应该关心的东西开始阅读，它对我来说是宝贵的，对你来说也是如此。 
+ 
+基础设施的两种截然不同的监管方法
+ 
+对于政治博弈来说，赋予工具而不是用户的意义并不罕见。我们倾向于将一切人性化，以便在一个系统内建立联系并促进我们的行为，这是一种祖传现象，构成了非常有力的叙事。它在上升的过程中起作用，崇拜代表一种运动或技术的面子，在下降的过程中，由于这样的面子行为而妖魔化相同的运动或技术。更重要的是，技术的人性化 ( 这里使用的术语 -- 技术，是机械应用知识的原始内涵 ) 人为地推动了攀升，并戏剧性地夸大了绝对的人类自我之旅，增强了衰落的破坏性力量。
+  
+枪支管制这一切都很常见，但却也是危险的错误。不过如果你认为自己不会受到这种平民行为的影响，那你就错了。对…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话Mysten Labs CEO：SUI如何改善链上资产所有权的现存问题？]]></title>
+        <id>https://www.theblockbeats.info/news/32630</id>
+        <link href="https://www.theblockbeats.info/news/32630"/>
+        <updated>2022-11-18T03:27:51.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《asset ownership and why existing blockchains are *not* doing a good enough》
+原文作者：EvanWeb3，Mysten Labs CEO
+原文编译：SUI World DAO
+
+
+
+近日，Mysten Labs 的联合创始人兼 CEO Evan Cheng 做客 Digital Architecture Lab 的视频采访节目。Evan 在开发方面有丰富的经验，先后在苹果和 Facebook 等公司拥有超过 24 年的面向开发者的技术建设和领导团队的经验。在创立 Mysten Labs 之前，Evan 领导 Meta 的 Novi Research 开发尖端区块链技术。采访视频可见此处。
+
+
+
+
+Evan 在节目中谈到了目前大多数区块链专注于提高区块链的性能，而不是资产的建模方式，而 SUI 是一个新的以资产为中心的区块链平台，它利用数据模型并行化交易管道以实现可扩展性，同时解决困扰其他区块链的无数可用性和可编程性限制。
+
+
+本文将简单介绍 Evan 对目前区块链在「资产所有权」的看法，为什么现有的区块链做的不够好？通过一个简单的例子介绍为什么 EVM 链上，你没办法真正控制你「所拥有」的资产？而 SUI Network 的数据模型又是如何解决这些可用性和可编程性的问题？
+
+
+在讨论区块链在资产所有权中的作用之前，让我们先谈谈今天的网络出了什么问题：具有分发能力的中心化平台正在从用户生成的内容中榨取价值。让我们来看看一些例子：比如我发布的这条推文产生了一些影响力，甚至为我增加更多的 followers，增加了我自推特上的影响力，但在这之外对于我的社交图谱来说的用处基本为零。在其他的每个社交网络上，都需要用户导入他们的联系人，与此相关的所有价值都流向了平台，这样的问题同样存在于内容平台，游戏…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简析Sequencer去中心化问题：共识机制及Token用例]]></title>
         <id>https://www.theblockbeats.info/news/32601</id>
@@ -981,99 +1030,6 @@ Moni，Odaily 星球日报
 
 
 早期，Alameda 有一个 FTX…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX资产负债表深入解读，再现FTX遭受挤兑全过程]]></title>
-        <id>https://www.theblockbeats.info/news/32582</id>
-        <link href="https://www.theblockbeats.info/news/32582"/>
-        <updated>2022-11-15T14:42:09.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Degg_GlobalMacroFin
-
-
-前段时间，金融时报披露了一份据称是 FTX 最后时刻的资产负债表。
-
-不仅仅显示了 FTX 在 Chapter 11 破产前的最后一秒的样子，也显了自上个周末以来 FTX 是如何突然陷入万劫不复深渊的，可以说，这张资产负债表是完美的「银行危机」教科书。  
-
-
-
-
-
-1、先看一下挤兑爆发之前 FTX 的资产负债表状况。
-
-
-资产端有大约 240 亿美元市值的总资产。 
-
-
-60 亿的流动性资产，包括各类稳定币、货币存款等； 
-
-
-150 亿的各种加密资产，被 标记为「不那么流动的资产」，包括 60 亿的它自己发行的 FTT，22 亿 SOL，54 亿的 SRM； 
-
-
-32 亿的非流动性资产，主要是各类风险投资。
-
-
-
-
-负债端，FTX 有大约 140 亿美元的负债，包括至少 50 亿的美元负债，以及大量 BTC、ETH 负债。
-
-这时，FTX 的净资本（总资产减负债）大约为 100 亿美元。    
-
-
-3、换句话说，在出事之前，FTX 的杠杆率仅为 1.4 倍，SBF 在上周六时还确实是个百亿身价的富豪。 
-
-
-SBF 估计 FTX 平日里每天的资金提取平均为 2.5 亿美元/日。因此即便没有新增资金流入，SBF 预计其 60 亿的流动性资产也能对抗大约 24 天的提款需求（类似于传统银行业中的「流动性覆盖倍数」概念）。  
-
-
-4、这将给 FTX 充足时间将持有的各种代币变现，或从其他地方寻找资金。
-
-但周日开启的挤兑超出了 SBF 的想象。
-
-SBF 在该文件中表示，周日（11 月 6 号）FTX 遭遇了平日 25 倍的提款需求，短短几天内资金净流出量达到了 50 亿美元，其中包括至少 20000 枚 BTC 以及大量稳定币。  
-
-
-5、挤兑的结果是：FTX 流动性资产的总额由 60 亿下降到仅 10 亿。 
-…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下个牛市发动机在何处轰鸣？]]></title>
-        <id>https://www.theblockbeats.info/news/32580</id>
-        <link href="https://www.theblockbeats.info/news/32580"/>
-        <updated>2022-11-15T14:42:09.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-下个牛市发动机在何处轰鸣？
-
-》
-原文作者：宋遁一 格物院 DelvinDAO
-
-
-牛市除了需要周期，还需要热点，而且有些热点可以不惧周期形成财富效应。
-
-
-我把这种热点成为牛市发动机  下一个牛市发动机是啥呢？
-
-
-查古知今，先来梳理一下历史脉络：
-
-
-17 年，智能合约的艾希欧玩法（简单来说就是向 ETH 地址打入 ETH 智能合约自动兑换新资产代币），引爆大牛市——超级大牛市，百倍，千倍项目乱飞，本次牛市以加密叙事为强引导号称要 Decentralize everything，点燃了无限期望，可惜结果是一地鸡毛，只剩下波场，ATOM 等几条公链之类的基础设施和 Bancor 等极稀有的应用证明牛曾经来过~  
-
-
-18 年，EOS 上线后凭借高 TPS，掀起了一波 DAPP 挖矿潮（主要是菠菜项目，通过不断投注挖矿平台币，虽然损失了投注的本金，但是挖取的平台币可以 cover 损失并能较稳定的套利，少部分平台币还涨势喜人）——小行情但是有不错的造富效应，当年活跃的玩家大都成为这波 DEFI 的资深玩家。因为 EOS 本身的限制，用户拓新天花板无法戳破，这波 DAPP 潮没能星火燎原，反而让大家对区块链应用慢慢绝望，当时的以太坊拖拉机更是带不动这些应用，之后就是一路大熊市，一个字概括：惨~ 
-
-
-另外这一年基于 EOS 网络的链游探索也小有热点，没错那时的链游就是当今的 Gamefi，如果你玩过一款链游叫《柚子三国》那你就会知道这个游戏的玩法跟 AXIE 其实已经很像了，不能说像，应该是 Axie 借鉴了 EOS 三国的玩法，这个链游生命力很顽强，一直到 19 年用户还十分活跃。最后，但是最应该强调的一点：这个链游是国人自主研发的！！！虽然项目方也赚到了钱，但还是要慨叹生不逢时~ 
-
-
-还是 18 年，下半年还有个热点叫做交易挖矿，由 Fcoin 原创，…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
