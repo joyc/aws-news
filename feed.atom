@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-19T06:10:29.685Z</updated>
+    <updated>2022-11-19T12:13:46.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3初创项目应该如何进行产品营销？]]></title>
+        <id>https://www.theblockbeats.info/news/32642</id>
+        <link href="https://www.theblockbeats.info/news/32642"/>
+        <updated>2022-11-19T07:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Web3初创项目应该如何进行产品营销？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multicoin LP：为什么我想要从Multicoin赎回投资？]]></title>
         <id>https://www.theblockbeats.info/news/32641</id>
@@ -755,6 +765,16 @@ Citron 做空通常采用的方法包括：一是彻查中美财务审计差异�
 
 
 但在 2021 年初的散户逼空 GME（游戏驿站 GameStop 的股票）事件中，C…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球最大加密借贷平台Genesis暂停提现，究竟出现了什么问题？]]></title>
+        <id>https://www.theblockbeats.info/news/32593</id>
+        <link href="https://www.theblockbeats.info/news/32593"/>
+        <updated>2022-11-17T08:12:42.000Z</updated>
+        <summary type="html"><![CDATA[全球最大加密借贷平台Genesis暂停提现，究竟出现了什么问题？]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
