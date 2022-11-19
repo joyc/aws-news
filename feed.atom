@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-19T00:44:41.728Z</updated>
+    <updated>2022-11-19T06:10:29.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multicoin LP：为什么我想要从Multicoin赎回投资？]]></title>
+        <id>https://www.theblockbeats.info/news/32641</id>
+        <link href="https://www.theblockbeats.info/news/32641"/>
+        <updated>2022-11-19T04:10:49.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Soldman Gachs
+原文编译：深潮 TechFlow
+
+
+几天前，我参加了 Multicoin 每月的 LP 电话会议。我开始还在犹豫是否要写这篇文章，因为多年来我一直是他们的对冲基金和风险基金的忠实投资者。最后，我还是决定写一下，以下是电话会议的主要收获与总结，以及我可能会赎回资金的原因。
+
+
+Multicoin 对冲基金仅本月就下跌了 55%。这是假设在 FTX 上持有的所有资产归零（坦率地说，现在 SBF 的欺诈程度已经曝光，这与实际回收价值相差不远）的情况下。
+
+
+该基金大约 10% 的资产管理在 FTX 上，这意味着另外 45% 的损失来自他们投资组合的其他部分。其中的主要原因，是他们不负责任地在 $SOL 上持有多头头寸。
+
+
+我认为 Multicoin 在管理基金方面一直很鲁莽，当事情发生时，他们没有迅速采取行动，而且他们公开支持 SBF 和 FTX，电话会议中都在讲他们行动和决定的理由，坦率地说，他们对所造成的损失没有什么悔意，说实话这会听着很痛苦。
+
+
+他们说，他们是该基金的最大投资者，并继续致力于赚回投资者的钱。他们表示，即使在大规模缩减之后，管理公司的现金流仍为正，这表明管理费太高，经理人可以通过这些费用发财。
+
+
+他们在前几年收取了大量的绩效费用，这就是他们是该基金的最大投资者的原因。如果他们决定关闭基金，他们可以带走这些钱（顺便说一句，这就是行业标准）。
+
+
+该基金有高水位线条款 (high water marks)，这意味着他们必须赚回损失才能收取绩效费，但他们还是继续按月收取管理费。
+
+
+最后，他们分享了他们将作出的改变，即他们至少每 48 小时就会将资产从交易所拿出，这将有望缓解未来遭遇类似于 FTX 的情况。然而，他们并没有解决他们在 $SOL 等代币中不负责任地持有大量集中头寸的策略，这对业绩的拖累比 FTX 失败带来的下跌大得多。
+
+
+顺便说一下，Multicoin 持有的其他大型头寸（已公开披露）：ETH、HNT、MATIC 和 FIL。
+
+
+Multicoin 基金的成绩基本上跟踪了 Solana 的表现，自去年 11 月以来，它一直在下降。他们对 2021 年 12 月之前的投资者有 2 年的锁定期，对于 2022 年 1 月之后投资的投资者，每个季度只能赎回 12.5%。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Placeholder合伙人：市场已经触底，最坏的情况很可能已经过去]]></title>
+        <id>https://www.theblockbeats.info/news/32635</id>
+        <link href="https://www.theblockbeats.info/news/32635"/>
+        <updated>2022-11-19T04:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Placeholder合伙人：市场已经触底，最坏的情况很可能已经过去]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复盘2022，展望2023]]></title>
         <id>https://www.theblockbeats.info/news/32637</id>
@@ -1021,49 +1077,6 @@ BlockBeats 注：10 月 31 日，zkSync 的开发商 Matter Labs 表示，正在
 原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最大加密借贷平台Genesis暂停提现，究竟出现了什么问题？]]></title>
-        <id>https://www.theblockbeats.info/news/32593</id>
-        <link href="https://www.theblockbeats.info/news/32593"/>
-        <updated>2022-11-16T17:38:44.000Z</updated>
-        <summary type="html"><![CDATA[作者：0x49、Jack，BlockBeats
-
-
-11 月 16 日，Genesis Trading 在北京时间 21 点准时向所有债权人和客户开了一场不到 10 分钟的电话会议。与其说会议，不如说是通知。会议中，Genesis 宣布贷款部门 Genesis Global Capital 将暂停赎回和新贷款发放服务，后续的安排会在下周宣布。说罢，电话会结束。
-
-
-继 Celsius、Voyager、3AC、Babel、FTX 等等知名机构或者平台相继暴雷后，这家全球最大的加密货币借贷平台也宣布停止提款了，同时也暂停放贷。
-
-
-
-
-
-
-目前看来，如果找不到新的流动性或者所谓的「救世主」，Genesis 借贷部门宣布破产也只是时间问题。
-
-
-
-
-中心化平台间的连环杠杆与暴雷我们已经经历了半年，在一年前这场史无前例的机构杠杆牛市中，机构的财报有多惊人，这场连环爆仓的影响就有多大。现在就连这家曾经也救助过不少其他机构的加密借贷龙头也到了破产边缘。Genesis 究竟是如何被三箭资本和 FTX 影响的呢？
-
-
-
-
-三箭资本与 FTX 对 Genesis Trading 的影响
-
-
-
-
-Genesis 和三箭资本最初的渊源得追溯到 GBTC。GBTC 是由 Grayscale 推出的灰度比特币信托基金。GBTC 最大的一个特点在于可使用 BTC 申购 GBTC 份额，但无法通过 GBTC 赎回 BTC。这一机制为三箭资本快速崛起打开了窗口，同时也注定最后会留下一地鸡毛。
-
-
-
-
-在大放水的宏观周期以及新周期加密叙事背景下，GBTC 兑 BTC 保持着长期溢价。面对着看似无风险的套利机会，三箭资本入场了。根据公开资料，截至 2020 年年底，三箭资本是灰度 GBTC 的最大持仓者，持有 5.6168% 的 GBTC 份额，当时市值约为 12.4 亿美元。此时，GBTC 相对 BTC 溢…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
