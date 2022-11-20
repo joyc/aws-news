@@ -22,6 +22,51 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-20 datetime="2022-11-20T03:44:20.000Z">2022-11-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-20 datetime="2022-11-20T03:44:20.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - 新闻</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32645"
+                        open
+                      >
+                        <summary class="article-expander__title">周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32645">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-19 datetime="2022-11-19T11:52:50.000Z">2022-11-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-19 datetime="2022-11-19T11:52:50.000Z"></time>
           </button>
@@ -670,89 +715,10 @@ Evan 在节目中谈到了目前大多数区块链专注于提高区块链的性
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-17 datetime="2022-11-17T14:10:05.000Z">2022-11-17</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-17 datetime="2022-11-17T14:10:05.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >TheBlockBeats - 新闻</button>
-                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32601"
-                        open
-                      >
-                        <summary class="article-expander__title">简析Sequencer去中心化问题：共识机制及Token用例</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32601">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文作者：Lao Bai
-
-
-
-
-今天来说说 Sequencer 去中心化的问题，包括共识与Token。
-
-
-上一贴说过了 Sequencer 的做恶能力，不是凭空印钱或是提交虚假交易，而是在一个相对短（几分钟到 10 几分钟），数据还未提交到 L1 的窗口期内，拥有隐藏交易，或是改变交易排序的能力。
-
-
-这其实不就是一个审查与 Mev 的问题么？  
-
-
-清楚了这一点，我们再来看 Sequencer 的去中心化，该用什么共识，就清楚多了
-
-首先，不能用什么共识机制？ 
-
-
-基本上大多数 Layer1 共识机制都不能用！因为你是一个 Layer2，不是 Layer1，你的目的是变相提升 Layer1 的效率和 TPS，你自己用 Layer1 共识就完全失去了 Layer2 的意义。
-
-
-Layer1 的共识机制什么样子呢？最早都是 Everybody-talks-to-everybody（每个节点互相通讯达成一致 - 共识）+ Everybody-sends-everyone-else-everything（每个节点给别的节点传输所有数据 - 广播）。因为是 Everybody，所以慢。
-  
-
-于是出现了 Solana 这种追求极致性能的，想办法吧其中某些个 Everybody 改成 Somebody，这样达成共识的时间不就短了么，传输的东西也少了，TPS 可不就上去了！  
-
-
-Layer2 应该做的比 Solana 更加极端一些，因为 Layer2 上不需要真正的「共识」，只要防止那个中心化的 Sequencer 拥有审查和 MEV 的能力即可。同时，Sequencer 的性能一定要好，因为要处理海量的交易。所以 Sequencer 的去中心化，必定是个少量高性能节点的「半中心化」状态，互相之间需要同步的消息尽量少，尽量快。  
-
-
-共识思路有这么 2 个 
-
-
-1.…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3505823774">
-        <time id="build-timestamp" datetime="2022-11-20T00:45:47.333Z">2022-11-20T00:45:47.333Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3506747987">
+        <time id="build-timestamp" datetime="2022-11-20T06:10:16.898Z">2022-11-20T06:10:16.898Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

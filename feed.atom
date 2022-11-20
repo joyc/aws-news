@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-20T00:45:47.359Z</updated>
+    <updated>2022-11-20T06:10:16.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资]]></title>
+        <id>https://www.theblockbeats.info/news/32645</id>
+        <link href="https://www.theblockbeats.info/news/32645"/>
+        <updated>2022-11-20T03:44:20.000Z</updated>
+        <summary type="html"><![CDATA[周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hayes撰文：美国种姓制度赢家白人小子SBF是如何迷惑众生的]]></title>
         <id>https://www.theblockbeats.info/news/32644</id>
@@ -510,50 +520,6 @@ Evan 在节目中谈到了目前大多数区块链专注于提高区块链的性
 
 
 在讨论区块链在资产所有权中的作用之前，让我们先谈谈今天的网络出了什么问题：具有分发能力的中心化平台正在从用户生成的内容中榨取价值。让我们来看看一些例子：比如我发布的这条推文产生了一些影响力，甚至为我增加更多的 followers，增加了我自推特上的影响力，但在这之外对于我的社交图谱来说的用处基本为零。在其他的每个社交网络上，都需要用户导入他们的联系人，与此相关的所有价值都流向了平台，这样的问题同样存在于内容平台，游戏…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简析Sequencer去中心化问题：共识机制及Token用例]]></title>
-        <id>https://www.theblockbeats.info/news/32601</id>
-        <link href="https://www.theblockbeats.info/news/32601"/>
-        <updated>2022-11-17T14:10:05.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Lao Bai
-
-
-
-
-今天来说说 Sequencer 去中心化的问题，包括共识与Token。
-
-
-上一贴说过了 Sequencer 的做恶能力，不是凭空印钱或是提交虚假交易，而是在一个相对短（几分钟到 10 几分钟），数据还未提交到 L1 的窗口期内，拥有隐藏交易，或是改变交易排序的能力。
-
-
-这其实不就是一个审查与 Mev 的问题么？  
-
-
-清楚了这一点，我们再来看 Sequencer 的去中心化，该用什么共识，就清楚多了
-
-首先，不能用什么共识机制？ 
-
-
-基本上大多数 Layer1 共识机制都不能用！因为你是一个 Layer2，不是 Layer1，你的目的是变相提升 Layer1 的效率和 TPS，你自己用 Layer1 共识就完全失去了 Layer2 的意义。
-
-
-Layer1 的共识机制什么样子呢？最早都是 Everybody-talks-to-everybody（每个节点互相通讯达成一致 - 共识）+ Everybody-sends-everyone-else-everything（每个节点给别的节点传输所有数据 - 广播）。因为是 Everybody，所以慢。
-  
-
-于是出现了 Solana 这种追求极致性能的，想办法吧其中某些个 Everybody 改成 Somebody，这样达成共识的时间不就短了么，传输的东西也少了，TPS 可不就上去了！  
-
-
-Layer2 应该做的比 Solana 更加极端一些，因为 Layer2 上不需要真正的「共识」，只要防止那个中心化的 Sequencer 拥有审查和 MEV 的能力即可。同时，Sequencer 的性能一定要好，因为要处理海量的交易。所以 Sequencer 的去中心化，必定是个少量高性能节点的「半中心化」状态，互相之间需要同步的消息尽量少，尽量快。  
-
-
-共识思路有这么 2 个 
-
-
-1.…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

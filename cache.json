@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32645",
+          "author": null,
+          "description": "周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资",
+          "link": "https://www.theblockbeats.info/news/32645",
+          "publishedOn": "2022-11-20T03:44:20.000Z",
+          "wordCount": null,
+          "title": "周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32644",
           "author": null,
           "description": "原文标题：《White Boy》\n原文作者：Arthur Hayes，BitMEX 创始人\n原文编译：王尔玉，PANews\n\n\n在上篇文章里，我说 Sam Bankman-Fried（SBF）至少是一位「不可多得的交易天才」。我又被打脸了。我以为 Alameda 团队里都是些杰出的交易员，事实证明他们只是又一家擅长在牛市里打顺风牌的公司，一旦熊市来临，他们就像所有过度杠杆化的 Su Zhu 式周期信徒一样，被打回了原形。现在我们知道 SBF 的风险管理水平有多差了——无论是对于加密市场还是整个金融市场而言。不过，我仍然相信他在这场交易游戏中展现了一种行业中无可匹敌的特长。即 SBF 是在 Meta（元）层面玩这场游戏，他通过交易社交货币，将西方金融机构和加密行业玩弄于了股掌之上。\n\n\nSBF 同时为两个群体奉上了一首催眠曲：中本聪的信徒，他们相信比特币将成为人类有史以来最伟大的变革之一；以及 TradFi（传统金融）死忠，他们认为加密货币是对现状的巨大威胁，并能让他们发财致富。面对中本聪的信徒，他像我们一样传播福音，仿佛能代表我们成功穿越 TradFi 的权力走廊，而面对脑满肠肥的 TradFi 死忠，他承诺能通过一种方式让他们一边稳坐金融系统的王座，一边收割新的财富源泉。这就是他的葵花宝典。FTX / Alamada 生态系统（以下称之为死星）同时玩弄了这两个群体。\n\n\n这场丑闻、悲剧，乃至公然的欺诈，触及到了美利坚帝国的大量地缘政治和种族问题，我将用几篇文章来梳理我从这段传奇中学到的东西。\n\n\n今天这篇将分为两个部分，主要介绍 SBF 如何利用其与生俱来的优势和高超的社交本领迷惑众生，让大家以为他是一个加密神童，是西方主导的金融体系的未来之星。\n\n\nWhite Boys Can't Jump 黑白游龙\n\n\n我认为美国以种族划分的社会种姓制度促成了 SBF 的崛起及 FT…",
@@ -133,16 +143,6 @@
           "publishedOn": "2022-11-18T03:27:51.000Z",
           "wordCount": null,
           "title": "对话Mysten Labs CEO：SUI如何改善链上资产所有权的现存问题？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32601",
-          "author": null,
-          "description": "原文作者：Lao Bai\n\n\n\n\n今天来说说 Sequencer 去中心化的问题，包括共识与Token。\n\n\n上一贴说过了 Sequencer 的做恶能力，不是凭空印钱或是提交虚假交易，而是在一个相对短（几分钟到 10 几分钟），数据还未提交到 L1 的窗口期内，拥有隐藏交易，或是改变交易排序的能力。\n\n\n这其实不就是一个审查与 Mev 的问题么？  \n\n\n清楚了这一点，我们再来看 Sequencer 的去中心化，该用什么共识，就清楚多了\n\n首先，不能用什么共识机制？ \n\n\n基本上大多数 Layer1 共识机制都不能用！因为你是一个 Layer2，不是 Layer1，你的目的是变相提升 Layer1 的效率和 TPS，你自己用 Layer1 共识就完全失去了 Layer2 的意义。\n\n\nLayer1 的共识机制什么样子呢？最早都是 Everybody-talks-to-everybody（每个节点互相通讯达成一致 - 共识）+ Everybody-sends-everyone-else-everything（每个节点给别的节点传输所有数据 - 广播）。因为是 Everybody，所以慢。\n  \n\n于是出现了 Solana 这种追求极致性能的，想办法吧其中某些个 Everybody 改成 Somebody，这样达成共识的时间不就短了么，传输的东西也少了，TPS 可不就上去了！  \n\n\nLayer2 应该做的比 Solana 更加极端一些，因为 Layer2 上不需要真正的「共识」，只要防止那个中心化的 Sequencer 拥有审查和 MEV 的能力即可。同时，Sequencer 的性能一定要好，因为要处理海量的交易。所以 Sequencer 的去中心化，必定是个少量高性能节点的「半中心化」状态，互相之间需要同步的消息尽量少，尽量快。  \n\n\n共识思路有这么 2 个 \n\n\n1.…",
-          "link": "https://www.theblockbeats.info/news/32601",
-          "publishedOn": "2022-11-17T14:10:05.000Z",
-          "wordCount": null,
-          "title": "简析Sequencer去中心化问题：共识机制及Token用例",
           "imageUrl": null
         }
       ]
