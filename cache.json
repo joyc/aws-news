@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32647",
+          "author": null,
+          "description": "原文作者：Leon Han\n\n\n \n介绍：\n\n\n当你每天打开 StepN，奔跑在回本的道路上，却发现，原来路可以越跑越长，回本成了可望而不可即的幻想，你是否感到些许无奈？\n\n\n当你充满激情，怀揣致富的梦想，去寻找下一个 Axie 级别的项目，却发现，不知何时，已经掉进了财富归零的旁氏陷阱，你是否又有些许失望？\n\n\n当你抱着「区块链可以改变世界，改变游戏产业」的信仰，却发现，GameFi 行业似乎陷入困境、停滞不前，你是否曾怀疑自己，怀疑信仰究竟是不是一文不值？\n\n\n而引发这些问题的根源就在于：糟糕的 Token 经济模型。\n\n\nGameFi 当下的困境：\n\n\n当下 GameFi 游戏的「双 Token 经济模型」太过旁氏，玩家打金产出的效用 Token（Utility Token）没有价值支撑，短期随时「归零」，长期必定「归零」，终将只是一场「比谁跑的快」的游戏。\n\n\n随着玩家的觉醒，整个旁氏的棒数也会越来越少，直到第一棒打金的玩家也不能回本。\n\n\n在这种情况下，当下 GameFi 的模式和「双 Token 经济模型」终将难以维系。\n\n\n同时，玩家是整个游戏生态人口中的绝大多数，也是生态收益真正的创造者。如果我们把一个游戏生态比作一个「国家」，那么玩家就是这个游戏国度的「公民」。\n\n\n一个健康的游戏国度，不仅需要公民通过治理 Token 获得投票权，同样也需要一套健全的「社会福利保障制度」。只有当玩家的经济利益得到切实的保障，玩家才会放心大胆地投资 GameFi，更深入地参与到游戏，整个游戏生态才能更加繁荣。\n\n\n新的 Token 经济学：\n\n\n\n\n\n图 1 两种 Token 经济模型对比\n\n\n为了构建一套健全的「社会福利保障制度」，新的 Token 经济模型增加了一种新 Token 和一个资金池：「价值捕获 Token」（Value Capture Token，简称 VC…",
+          "link": "https://www.theblockbeats.info/news/32647",
+          "publishedOn": "2022-11-20T12:55:02.000Z",
+          "wordCount": null,
+          "title": "新Token经济模型： 解决当下GameFi困境的「新范式」",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32646",
           "author": null,
           "description": "Outlier Ventures：探讨VE Token模型的5种改进方案",
@@ -133,26 +143,6 @@
           "publishedOn": "2022-11-18T06:33:55.000Z",
           "wordCount": null,
           "title": "盘点不同类型的零知识技术方案与零知识证明项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32631",
-          "author": null,
-          "description": "原文标题：《Web3 可信中立》\n原文作者：Luca Prosperi\n原文编译：Block unicorn\n \n传统上讲，罗马皇帝提图斯·弗拉维乌斯·韦斯帕西亚努斯，当被他的儿子问到关于罗马令人恶心的一大笔税收收入时，他回答说：钱是不臭的。韦斯帕西亚努斯的罗马刚刚通过所谓的销售额的百分比对皮革商人收集 ( 并用于生产氨 ) 的公共尿液征税，而政治反对派正试图利用这一显眼的收入的来源。传说皇帝在一个传统的公共厕所里举起了一枚被遗弃在粪坑中的硬币，这个厕所也永远地以他的名字命名 -- 在现代意大利语中，vespasiano 是小便器的同义词，而他把金属拿到他的鼻子边，并说出了一个决定命运的句子：ecunia non olet（是拉丁语，意思是钱不会臭）。尽管许多人从这一事件中推断出货币可互换的末世论故事，但我的兴趣仍然是小便器，以及在墙上开一个洞的政治妖魔化，而不是它被非常人为的滥用 -- 即，在存放或收集粪便期间。\n \n今天的评论。鉴于关键时期，我希望我能得到原谅。如果你真的没有耐心看完整篇文章，请至少滚动到最下面，从标题阅读你应该关心的东西开始阅读，它对我来说是宝贵的，对你来说也是如此。 \n \n基础设施的两种截然不同的监管方法\n \n对于政治博弈来说，赋予工具而不是用户的意义并不罕见。我们倾向于将一切人性化，以便在一个系统内建立联系并促进我们的行为，这是一种祖传现象，构成了非常有力的叙事。它在上升的过程中起作用，崇拜代表一种运动或技术的面子，在下降的过程中，由于这样的面子行为而妖魔化相同的运动或技术。更重要的是，技术的人性化 ( 这里使用的术语 -- 技术，是机械应用知识的原始内涵 ) 人为地推动了攀升，并戏剧性地夸大了绝对的人类自我之旅，增强了衰落的破坏性力量。\n  \n枪支管制这一切都很常见，但却也是危险的错误。不过如果你认为自己不会受到这种平民行为的影响，那你就错了。对…",
-          "link": "https://www.theblockbeats.info/news/32631",
-          "publishedOn": "2022-11-18T04:27:51.000Z",
-          "wordCount": null,
-          "title": "当谈论Web3可信中立时我们在谈论什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32630",
-          "author": null,
-          "description": "原文标题：《asset ownership and why existing blockchains are *not* doing a good enough》\n原文作者：EvanWeb3，Mysten Labs CEO\n原文编译：SUI World DAO\n\n\n\n近日，Mysten Labs 的联合创始人兼 CEO Evan Cheng 做客 Digital Architecture Lab 的视频采访节目。Evan 在开发方面有丰富的经验，先后在苹果和 Facebook 等公司拥有超过 24 年的面向开发者的技术建设和领导团队的经验。在创立 Mysten Labs 之前，Evan 领导 Meta 的 Novi Research 开发尖端区块链技术。采访视频可见此处。\n\n\n\n\nEvan 在节目中谈到了目前大多数区块链专注于提高区块链的性能，而不是资产的建模方式，而 SUI 是一个新的以资产为中心的区块链平台，它利用数据模型并行化交易管道以实现可扩展性，同时解决困扰其他区块链的无数可用性和可编程性限制。\n\n\n本文将简单介绍 Evan 对目前区块链在「资产所有权」的看法，为什么现有的区块链做的不够好？通过一个简单的例子介绍为什么 EVM 链上，你没办法真正控制你「所拥有」的资产？而 SUI Network 的数据模型又是如何解决这些可用性和可编程性的问题？\n\n\n在讨论区块链在资产所有权中的作用之前，让我们先谈谈今天的网络出了什么问题：具有分发能力的中心化平台正在从用户生成的内容中榨取价值。让我们来看看一些例子：比如我发布的这条推文产生了一些影响力，甚至为我增加更多的 followers，增加了我自推特上的影响力，但在这之外对于我的社交图谱来说的用处基本为零。在其他的每个社交网络上，都需要用户导入他们的联系人，与此相关的所有价值都流向了平台，这样的问题同样存在于内容平台，游戏…",
-          "link": "https://www.theblockbeats.info/news/32630",
-          "publishedOn": "2022-11-18T03:27:51.000Z",
-          "wordCount": null,
-          "title": "对话Mysten Labs CEO：SUI如何改善链上资产所有权的现存问题？",
           "imageUrl": null
         }
       ]
