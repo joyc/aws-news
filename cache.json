@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32652",
+          "author": null,
+          "description": "简析Aave团队打造的web3社交协议 LensProtocol",
+          "link": "https://www.theblockbeats.info/news/32652",
+          "publishedOn": "2022-11-21T14:24:01.000Z",
+          "wordCount": null,
+          "title": "简析Aave团队打造的web3社交协议 LensProtocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32651",
+          "author": null,
+          "description": "Layer2之争：短期看Optimism，长期看zkSync？",
+          "link": "https://www.theblockbeats.info/news/32651",
+          "publishedOn": "2022-11-21T10:24:01.000Z",
+          "wordCount": null,
+          "title": "Layer2之争：短期看Optimism，长期看zkSync？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32649",
           "author": null,
           "description": "原文标题：They Lived Together, Worked Together and Lost Billions Together: Inside Sam Bankman-Fried’s Doomed FTX Empire\n原文作者：Alexander Osipovich , Caitlin Ostroff , Patricia Kowsmann , Angel Au-Yeung and Matt Grossman\n原文编译：Leo，BlockBeats\n\n\n\n巴哈马-拿骚，近日，SBF 的 320 亿美元加密交易帝国众目睽睽之下分崩离析，引起了投资者、加密人员和硅谷大佬们的质疑，看起来前途一片光明的公司为何会崩溃得如此之快。\n\n\n\n\n最新情况表明，FTX 不仅是被其对手击败、糟糕的交易或今年加密市场的持续下跌而破产，反之，这是一个长期累积的混乱局面。根据法庭文件、资产负债表以及对员工和投资者的采访显示，早期的 FTX 就是一个「很难约束的企业实体、客户资产和 SBF」的集合体，没人能确切地描述它属于谁。目前检察官正在调查 FTX 的问题。\n\n\n\n\n据一份想帮助 FTX 渡过难关的人员向联邦法院提交的文件显示，SBF 的公司既没有会计记账工作，也没有正常运作的人力资源部门。公司资金被用于购买房地产，但没有记录。甚至没有员工名册，更不用说他们的雇佣条款了。破产文件显示，一份实体的未偿贷款包括至少有 10 亿美元给了 SBF 个人，5.43 亿美元给一名高管（Nishad）。\n\n\n\n\n经营 FTX 及相关公司的高管生活也同样混乱，他们 10 人在巴哈马一个价值 3000 万美元的高档度假胜地顶层公寓里一起居住、工作，工作和娱乐之间很难分清。据前员工透露，SBF 上层之间存在着暧昧关系，兴奋剂的使用也很常见。\n\n\n\n\n30 岁的 SBF 保持着高强度工作，在六个屏幕之间切换…",
@@ -83,26 +103,6 @@
           "publishedOn": "2022-11-19T07:33:42.000Z",
           "wordCount": null,
           "title": "Web3初创项目应该如何进行产品营销？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32641",
-          "author": null,
-          "description": "原文作者：Soldman Gachs\n原文编译：深潮 TechFlow\n\n\n几天前，我参加了 Multicoin 每月的 LP 电话会议。我开始还在犹豫是否要写这篇文章，因为多年来我一直是他们的对冲基金和风险基金的忠实投资者。最后，我还是决定写一下，以下是电话会议的主要收获与总结，以及我可能会赎回资金的原因。\n\n\nMulticoin 对冲基金仅本月就下跌了 55%。这是假设在 FTX 上持有的所有资产归零（坦率地说，现在 SBF 的欺诈程度已经曝光，这与实际回收价值相差不远）的情况下。\n\n\n该基金大约 10% 的资产管理在 FTX 上，这意味着另外 45% 的损失来自他们投资组合的其他部分。其中的主要原因，是他们不负责任地在 $SOL 上持有多头头寸。\n\n\n我认为 Multicoin 在管理基金方面一直很鲁莽，当事情发生时，他们没有迅速采取行动，而且他们公开支持 SBF 和 FTX，电话会议中都在讲他们行动和决定的理由，坦率地说，他们对所造成的损失没有什么悔意，说实话这会听着很痛苦。\n\n\n他们说，他们是该基金的最大投资者，并继续致力于赚回投资者的钱。他们表示，即使在大规模缩减之后，管理公司的现金流仍为正，这表明管理费太高，经理人可以通过这些费用发财。\n\n\n他们在前几年收取了大量的绩效费用，这就是他们是该基金的最大投资者的原因。如果他们决定关闭基金，他们可以带走这些钱（顺便说一句，这就是行业标准）。\n\n\n该基金有高水位线条款 (high water marks)，这意味着他们必须赚回损失才能收取绩效费，但他们还是继续按月收取管理费。\n\n\n最后，他们分享了他们将作出的改变，即他们至少每 48 小时就会将资产从交易所拿出，这将有望缓解未来遭遇类似于 FTX 的情况。然而，他们并没有解决他们在 $SOL 等代币中不负责任地持有大量集中头寸的策略，这对业绩的拖累比 FTX 失败带来的下跌大得多。\n\n\n顺便说一下，Multicoin 持有的其他大型头寸（已公开披露）：ETH、HNT、MATIC 和 FIL。\n\n\nMulticoin 基金的成绩基本上跟踪了 Solana 的表现，自去年 11 月以来，它一直在下降。他们对 2021 年 12 月之前的投资者有 2 年的锁定期，对于 2022 年 1 月之后投资的投资者，每个季度只能赎回 12.5%。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32641",
-          "publishedOn": "2022-11-19T04:10:49.000Z",
-          "wordCount": null,
-          "title": "Multicoin LP：为什么我想要从Multicoin赎回投资？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32635",
-          "author": null,
-          "description": "Placeholder合伙人：市场已经触底，最坏的情况很可能已经过去",
-          "link": "https://www.theblockbeats.info/news/32635",
-          "publishedOn": "2022-11-19T04:00:11.000Z",
-          "wordCount": null,
-          "title": "Placeholder合伙人：市场已经触底，最坏的情况很可能已经过去",
           "imageUrl": null
         }
       ]
