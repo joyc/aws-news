@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32648",
+          "author": null,
+          "description": "2001 年，乔布斯在 Macworld Expo 上推出了第一代 iTunes。随后，iTunes 上线 iTunes Music Store，用户可以花费 0.99 美元单独购买一首歌，而非整张专辑。iTunes 一系列措施令音乐市场变了天，而后，iTunes 成了全球最大的在线音乐商店。\n \n2006 年，如今市场份额第一的流媒体音频服务商 Spotify 诞生了。在产品开发早期，Spotify 通过混合技术用于解决音乐缓冲问题。先预测用户行为，将相关歌曲切割为几部分，后利用 P2P 技术实现了随到随听。产品不断优化迭代并引入算法，Spotify 成为了当时少数主打用户体验的流媒体应用，并在数年之后成了流媒体音频服务领域的霸主。\n \n面对 Spotify 的竞争，苹果于 2015 年推出了流媒体订阅服务 Apple Music。根据 MIDiA Research 最新的一期报告显示，Spotify 以 31% 的市场份额占据第一，Apple Music、Amazon Music 和 Tencent Music 紧随其后，市场份额分别为 15%、13% 和 13%。\n \n或许，许多投资人、用户都认为流媒体音乐市场格局已定，难以出现革命式创新。然而，一群毕业自斯坦福大学等名校，曾在 Tencent Music、Sony Music、ByteDance、Warner Bro 的版权从业人员却并不这么认为。为此，他们创立了一个版权即服务（copyright as a service）的 NFT 平台 Euterpe，专业音乐类人士和创作者可通过平台向粉丝出售高质量的 IP NFT 作品。\n \n传统流媒体的困境\n \n虽然以 Spotify、Apple Music 为代表的 Web2 改变了用户的使用习惯，令人们可以更加方便快捷地听上各种类型的音乐，但其也面临着众多问题。\n \n1…",
+          "link": "https://www.theblockbeats.info/news/32648",
+          "publishedOn": "2022-11-21T03:30:10.000Z",
+          "wordCount": null,
+          "title": "从iTunes再到Spotify、Apple Music，Euterpe的SBT能否成为搅动音乐市场的鲶鱼",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32647",
           "author": null,
           "description": "原文作者：Leon Han\n\n\n \n介绍：\n\n\n当你每天打开 StepN，奔跑在回本的道路上，却发现，原来路可以越跑越长，回本成了可望而不可即的幻想，你是否感到些许无奈？\n\n\n当你充满激情，怀揣致富的梦想，去寻找下一个 Axie 级别的项目，却发现，不知何时，已经掉进了财富归零的旁氏陷阱，你是否又有些许失望？\n\n\n当你抱着「区块链可以改变世界，改变游戏产业」的信仰，却发现，GameFi 行业似乎陷入困境、停滞不前，你是否曾怀疑自己，怀疑信仰究竟是不是一文不值？\n\n\n而引发这些问题的根源就在于：糟糕的 Token 经济模型。\n\n\nGameFi 当下的困境：\n\n\n当下 GameFi 游戏的「双 Token 经济模型」太过旁氏，玩家打金产出的效用 Token（Utility Token）没有价值支撑，短期随时「归零」，长期必定「归零」，终将只是一场「比谁跑的快」的游戏。\n\n\n随着玩家的觉醒，整个旁氏的棒数也会越来越少，直到第一棒打金的玩家也不能回本。\n\n\n在这种情况下，当下 GameFi 的模式和「双 Token 经济模型」终将难以维系。\n\n\n同时，玩家是整个游戏生态人口中的绝大多数，也是生态收益真正的创造者。如果我们把一个游戏生态比作一个「国家」，那么玩家就是这个游戏国度的「公民」。\n\n\n一个健康的游戏国度，不仅需要公民通过治理 Token 获得投票权，同样也需要一套健全的「社会福利保障制度」。只有当玩家的经济利益得到切实的保障，玩家才会放心大胆地投资 GameFi，更深入地参与到游戏，整个游戏生态才能更加繁荣。\n\n\n新的 Token 经济学：\n\n\n\n\n\n图 1 两种 Token 经济模型对比\n\n\n为了构建一套健全的「社会福利保障制度」，新的 Token 经济模型增加了一种新 Token 和一个资金池：「价值捕获 Token」（Value Capture Token，简称 VC…",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-11-19T04:00:11.000Z",
           "wordCount": null,
           "title": "Placeholder合伙人：市场已经触底，最坏的情况很可能已经过去",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32637",
-          "author": null,
-          "description": "复盘2022，展望2023",
-          "link": "https://www.theblockbeats.info/news/32637",
-          "publishedOn": "2022-11-18T14:00:55.000Z",
-          "wordCount": null,
-          "title": "复盘2022，展望2023",
           "imageUrl": null
         }
       ]

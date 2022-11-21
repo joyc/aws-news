@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-21T00:44:24.062Z</updated>
+    <updated>2022-11-21T06:11:32.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从iTunes再到Spotify、Apple Music，Euterpe的SBT能否成为搅动音乐市场的鲶鱼]]></title>
+        <id>https://www.theblockbeats.info/news/32648</id>
+        <link href="https://www.theblockbeats.info/news/32648"/>
+        <updated>2022-11-21T03:30:10.000Z</updated>
+        <summary type="html"><![CDATA[2001 年，乔布斯在 Macworld Expo 上推出了第一代 iTunes。随后，iTunes 上线 iTunes Music Store，用户可以花费 0.99 美元单独购买一首歌，而非整张专辑。iTunes 一系列措施令音乐市场变了天，而后，iTunes 成了全球最大的在线音乐商店。
+ 
+2006 年，如今市场份额第一的流媒体音频服务商 Spotify 诞生了。在产品开发早期，Spotify 通过混合技术用于解决音乐缓冲问题。先预测用户行为，将相关歌曲切割为几部分，后利用 P2P 技术实现了随到随听。产品不断优化迭代并引入算法，Spotify 成为了当时少数主打用户体验的流媒体应用，并在数年之后成了流媒体音频服务领域的霸主。
+ 
+面对 Spotify 的竞争，苹果于 2015 年推出了流媒体订阅服务 Apple Music。根据 MIDiA Research 最新的一期报告显示，Spotify 以 31% 的市场份额占据第一，Apple Music、Amazon Music 和 Tencent Music 紧随其后，市场份额分别为 15%、13% 和 13%。
+ 
+或许，许多投资人、用户都认为流媒体音乐市场格局已定，难以出现革命式创新。然而，一群毕业自斯坦福大学等名校，曾在 Tencent Music、Sony Music、ByteDance、Warner Bro 的版权从业人员却并不这么认为。为此，他们创立了一个版权即服务（copyright as a service）的 NFT 平台 Euterpe，专业音乐类人士和创作者可通过平台向粉丝出售高质量的 IP NFT 作品。
+ 
+传统流媒体的困境
+ 
+虽然以 Spotify、Apple Music 为代表的 Web2 改变了用户的使用习惯，令人们可以更加方便快捷地听上各种类型的音乐，但其也面临着众多问题。
+ 
+1…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新Token经济模型： 解决当下GameFi困境的「新范式」]]></title>
         <id>https://www.theblockbeats.info/news/32647</id>
@@ -198,16 +220,6 @@ Multicoin 基金的成绩基本上跟踪了 Solana 的表现，自去年 11 月�
         <link href="https://www.theblockbeats.info/news/32635"/>
         <updated>2022-11-19T04:00:11.000Z</updated>
         <summary type="html"><![CDATA[Placeholder合伙人：市场已经触底，最坏的情况很可能已经过去]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复盘2022，展望2023]]></title>
-        <id>https://www.theblockbeats.info/news/32637</id>
-        <link href="https://www.theblockbeats.info/news/32637"/>
-        <updated>2022-11-18T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[复盘2022，展望2023]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
