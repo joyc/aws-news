@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-22 datetime="2022-11-22T09:24:28.000Z">2022-11-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-22 datetime="2022-11-22T09:24:28.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-22 datetime="2022-11-22T14:58:19.000Z">2022-11-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-22 datetime="2022-11-22T14:58:19.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,101 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/32662"
+                        open
+                      >
+                        <summary class="article-expander__title">Gitcoin女巫检测方案Top1解读及思考</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32662">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《Gitcoin 女巫检测方案 Top1 解读及思考》
+原文作者：berwinYes
+
+
+GITCOIN 在两个月前举办了 OpenData 社区黑客马拉松！其中公布了三个重点领域，分别是：
+
+
+女巫检测、捐款激励措施优化分析、Dune 高效分析，其结果也于近日公布。
+
+
+相信大家最关心的应该是女巫问题，因为今年在 OP 和 APT 的刺激下，出现了人人羡慕撸毛党，人人皆是撸毛党的盛况。
+
+
+今天对女巫检测的第一名开源方案结合自身理解，进行技术向的解读，并在文末给出自己对于女巫检测的一些个人思考。相信看完这篇文章，无论是项目方还是交互者都能有所收获。
+
+
+注：本文不代表官方观点，仅为个人兴趣解读。
+
+
+剧透，本文较长，涉及很多技术分析，没耐心的可以直接跳转文末浏览本文总结与个人思考。
+
+
+
+
+
+
+由于出题者是 gitcoin，其主要交互场景为捐赠。但内在逻辑在其他的场景下同样适用 (transfer、mint 等动作)，以下将与项目方进行交互的操作统称为项目交互。
+
+
+方案一：批量转移和交互
+
+
+女巫攻击本质上是用户将资金分散到多个地址，操纵这些地址与项目方合约进行交互的过程。
+
+
+那么在这个过程中则可以将整个过程拆分两个部分，分别是 批量资金转移和合约批量交互。
+
+
+
+
+
+
+1.1 批量转账检测
+
+
+选择数据
+
+
+批量转账最简单的就是通过智能合约的方式进行，因为节约 gas 费用。所以作者利用工具提取与项目方合约有过关联且链上具有批量转账操作的 tx_hash。
+
+
+设计指标
+
+
+
+
+
+
+风险计算
+
+
+作者采集了 18926 个贡献者地址与批量转账有关。将风险性压缩到 0-13 分，经过分析归纳得到
+
+
+
+
+
+
+辅助判断手段
+
+
+1、如果一个地址使用以下 dapp，即使分数不高，也应该注意，是 sybil 的一个重要信号。
+
+
+
+
+
+
+2、交互地址在其他平台存在…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -870,23 +965,6 @@ GameFi 当下的困境：
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32645"
-                        open
-                      >
-                        <summary class="article-expander__title">周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32645">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>周末荐读：最大加密借贷平台Genesis暂停提现；zkSync完成2亿美元C轮融资</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -894,8 +972,8 @@ GameFi 当下的困境：
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3523272860">
-        <time id="build-timestamp" datetime="2022-11-22T12:16:21.612Z">2022-11-22T12:16:21.612Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3525970180">
+        <time id="build-timestamp" datetime="2022-11-22T18:10:28.744Z">2022-11-22T18:10:28.744Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
