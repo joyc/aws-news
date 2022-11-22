@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32667",
+          "author": null,
+          "description": "原文标题：《\n\nOpensea 链上版税工具引争议，以版税之名行垄断之实？\n\n》\n原文来源：雾海，PANews\n\n\n2022 年 11 月 6 日 Opensea 发布公告称，将推出链上强制执行版税工具。因为当时只是提出，市场并无任何反响。而随着近期已经有项目方开始使用 Opensea 推出的强征版税工具，NFT 社区用户产品体验产生巨大落差后，开始就 Opensea 此行为进行广泛地讨论。\n\n\nOpensea 链上强制执行版税工具规定，NFT 项目方如果想在 Opensea 上正常收取版税，必须使用 Opensea 的强制版税合约，但该合约会拉黑所有推出自定义版税的平台。如果 NFT 项目方不愿意拉黑其他交易平台，那么 Opensea 官方将会把该项目方在 Opensea 上产生的所有版税直接降至 0。\n\n\n比如日前完成 1.65 亿美金融资的移动游戏开发商 Homa 近期发行的 NFT Valentine 系列，刚上线交易市场时，用户可在多个平台自由挂单交易，买家也可自由设置版税。但随后 Opensea 便封禁其他交易平台的合约，使得用户在其他平台的挂单均无法交易，无法挂单。于是 Homa 的持有用户将被封禁前在其他平台已上架的 Homa 藏品的价格降至 0，以无声抵抗 Opensea 的强制封禁。\n\n\n\n\n\n  Opensea 为何推出强制执行版税工具？  \n\n\n成为 NFT 领域标准制定者  \n\n\nNFT 版税本身可在代码层写定，工程师将版税直接计入 NFT 的 transferFrom() 函数即可。但这会使得 NFT 藏品的任何一笔交易都必须支付版税费用。比如你把自己的 NFT 从一个钱包转到你的另一个钱包，或者赠送给别人的过程也需要支付版税。因此现在的 NFT 交易平台一直使用自有的链下系统跟踪和支付版税。平台之间方法也不互通、不统一，也不存在版税标准。\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/32667",
+          "publishedOn": "2022-11-22T09:24:28.000Z",
+          "wordCount": null,
+          "title": "Opensea链上版税工具引争议，以版税之名行垄断之实？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32666",
+          "author": null,
+          "description": "原文作者：Chenxing Li\n\n\n\n\n区块链的性能优化是一个很热的话题。然而，由于区块链系统的复杂性，系统性理解性能优化门槛很高，这就为「性能虚标」提供了空间。前有「百万 tps」大跃进，后有「80 万 tps」宕机链。\n\n\n所以，我希望展开来讲一下决定区块链各模块的性能瓶颈和挑战，看看那些漂亮数据背后的水分。\n \n1. 网络模块\n \n作为一个去中心化的系统，网络通信是整个系统的基础，也有人将其称为 Layer 0。\n \n我将网络模块抽象为三层：网络设施层、节点连结层、广播协议层。每一层都是下一层的基础，每一层的性能都是下一层性能的上限。\n \n网络模块的带宽和延迟构成了区块链系统 tps 和 finality 延迟的基础。\n \n1.1 网络设施层\n \n带宽：主要取决于网络基础设施的发展，以及区块链节点的配置要求。前几年公链的网络配置要求一般在 20Mbps 到 100 Mbps. 到 2022 年，Aptos 已经要求 1 Gbps 网络带宽了。总之，带宽要求越高，节点门槛越高，越中心化。\n \n延迟：延迟有一个优化的极限，就是光速。互联网中的传输延迟比光速延迟要更大一些。Conflux 曾经测得的洲际节点延迟可达 200-300ms。如果是那种所有节点都在一个数据中心的「机房链」，延迟可以忽略不计。\n \n1.2 节点连结层\n \n节点连结层主要通过邻居节点间的通信实现网络中的消息广播。\n \n带宽：一般情况下，节点连结层可以获得接近于网络设施层的带宽。也可以选择牺牲带宽来降低延迟：例如，当要广播一条消息时，同时发给所有邻居（带宽要求翻几倍），而不是发完一个再发下一个。\n \n延迟：消息广播延迟和节点数量有关，节点越多，延迟越高。\n\n\n目前比特币和以太坊大概有几千个节点。根据我们的实验，如果全网有一万个世界各地的节点，广播延迟中位数 3~6 秒，最大可至 15 秒。通过一些协议…",
+          "link": "https://www.theblockbeats.info/news/32666",
+          "publishedOn": "2022-11-22T09:04:28.000Z",
+          "wordCount": null,
+          "title": "详解区块链模块的性能瓶颈及挑战：网络模块、共识模块及执行模块",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32664",
+          "author": null,
+          "description": "原文来源：加密 KOL degentrading\n原文编译：Misaki，BlockBeats\n\n\n\nBlockBeats 注：近期加密交易借贷机构  Genesis Global Capital 流动性出现问题，停止提款。其母公司 DCG（Digital Currency Group）也受此事件影响。市场担心灰度（Grayscale）可能「被考虑作为灾难发生时的战略选择」。分析师认为，即使在最不利的情况下，DCG 也宁愿保留灰度而不是 Genesis 的业务。对此，加密 KOL degentrading  在推特上提出了一个假设，BlockBeats 整理如下：\n\n\n\n\n如果 DCG 确实是欠 Genesis 10 亿美元，那就大事不妙了。\n\n\n\n \n如果谣言属实，即 DCG 是欠 Genesis 10 亿美元，那么会出现以下情况。\n\n\n如果 DCG 确实欠 Genesis 的钱，DCG 不可能将 Genesis 排除在外继续运营。那么更重要的灰度该如何处置的呢？\n\nDCG 创始人 Barry Silbert 的帝国将受到直接威胁，因为灰度是 DCG 的子公司，如果子公司违约，所有子公司资产都可以被没收。\n \n\n\n问题就是被没收的资产总和达 10 亿美元。\n\n\n\n\n结合灰度产品的总资产管理规模（AUM），被没收的总资产会是 100 亿。加上 2% 的约 2 亿美元的管理费。但是，因为管理费会随着 AUM 的变化而变化，这 2 亿的管理费会因加密市场的波动产生一定的风险敞口。\n\n\n\n\n在顶峰时期，DCG 的估值达到 100 亿美元...... 鉴于灰度贡献了约 10 亿美元的管理费用，Genesis 贡献了约为 10 亿美元的收益额，这在牛市相当于 5 倍的市盈率。（在牛市，5 年就能赚到 100 亿美元）。\n\n\n\n\n但在 FTX 崩盘之后，机构投资者对加密世界感到深深的恐慌。现在让人们投资加密货币甚至会对职业生涯产生威胁。事实证明，曾经人人信仰的东西都是错的。\n\n\n\n\n因此我怀疑如果灰度业务甚至可以按照 3 倍的市盈率计算，因为收益具有加密增量。例如如果以 3 倍的市盈率价格出售灰度，DCG 也只能筹集 6 亿。\n\n\n\n\n如果找不到买家愿意收购灰度怎么办？DCG 的唯一途径是解除与灰度的关系。这是因为 DCG 拥有约 2800 万股股份。通过卖掉灰度，他们可以直接筹集约 2800 万美元。但他们需要 2 亿美元，虽然筹集的这些钱不足，但是在没有买家的情况下，他们将不得不选择这条路。\n\n\n\n\n\n \n购买灰度的问题在于这会给传统金融（TradFi）的声誉带来风险。鉴于只有 1 个周末的时间来解决这个问题，而且对加密货币风险的偏好保守，任何报价都可能是低于最低的价格。\n\n \n\n\n\n如果 DCG 和灰度解约，这将向市场释放约 100 亿美元的当前估值的抛售压力。这是因为通过强制性授权使得信任逐步瓦解。他们会将 BTC 卖掉换成美元收回利润。因此将有约 60 万美元 BTC 被释放在市场上流通。\n\n \n\n\n\n昨天 Jump Crypto 仅售出约 5000 万美元 ETH，FTX 黑客出售约 2500 万美元的 ETH，一下子将 ETH 的价格从 1220 美元砸到 1120 美元，想象一下，假如约 100 亿美元的 BTC 流通到市场上会怎么样？\n\n \n\n此外，加密货币银行 Silvergate Bank 在其 SEN 网络贷款计划中，贷款金额约 15 亿美元，将自身持有约 30 亿美金的 BTC 作为抵押品。这也有被清算的风险。\n\n\n\n\n\n\n总而言之，如果 DCG 确实欠 Genesis 10 亿，那么它没有办法运行下去，肯定要破产以保留灰度业务。Barry Silbert 也不太可能让任何「\n\n白衣骑士\n\n」在这样的市场条件下出 10 亿出面解围。如果灰度被解约，DCG 将有 100 亿美元的 BTC 可以出售。\n\n\n\n\n原文链接\n\n\n相关阅读：《Bankless：Genesis 岌岌可危》、《全球最大加密借贷平台 Genesis 暂停提现，究竟出现了什么问题？》\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32664",
+          "publishedOn": "2022-11-22T08:39:28.000Z",
+          "wordCount": null,
+          "title": "如果DCG真的欠Genesis 10亿美元，会出现什么情况？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32661",
+          "author": null,
+          "description": "原文标题：《Counterparty 对比 RGB 和 Taro》\n原文作者：Mandel duck\n\n\n我最近参加了一个古董 NFT 节（Historical NFT festival）。什么是「古董 NFT」呢？简单来说就是在 NFT 变成流行文化之前就出现的 NFT。在这个活动上，Counterparty 协议似乎成了焦点，这可能是因为它实际上比特币上的第一个 NFT 平台，可以追溯到 2014 年（在它之前也有其它协议，但 Counterparty 是第一个被用来铸造现在我们称为 NFT 的艺术品而不是金融\n\nToken\n\n的协议）。\n\n\n时间快进到 2022 年，比特币网络上又出现了两种新的协议，分别叫做「RGB」和「Taro」（两者有些相似）。\n\n\nRGB 和 Taro 在很大程度是一样的东西（TRAO 曾用名「CMYK」，这是对 RGB 的一种调侃），而且它们也不在我擅长的领域，所以，我不会过多比较两者的细节。相反，我想比较一下 Counterparty 跟这些新的比特币 2.0 \n\nToken\n\n协议，它们到底新在哪里？\n\n\nCounterparty 总结\n\n\n\nCounterparty 在 2014 年推出，当时还有其它\n\nToken\n\n协议，例如染色币和 Mastercoin（现在叫做「omni」）。染色币似乎是为了「将黄金的份额在区块链上\n\nToken\n\n化」而创建的。Mastercoin 则商业味很重，要是没有 Mastercoin 背后的公司帮忙，是非常难用的。Counterparty 是作为一个开放标准启动的，而且它又一个易于使用的钱包，每个人都可以培育它，让它在社区用于休闲的比特币中得到采用。\n\n\nCounterparty 的创始人在设计它的时候考虑到了金融服务，例如，可以使用\n\nToken\n\n来表示一家公司的股权，但是，这里面有许多法律问题和…",
+          "link": "https://www.theblockbeats.info/news/32661",
+          "publishedOn": "2022-11-22T08:26:28.000Z",
+          "wordCount": null,
+          "title": "比特币协议对比：Counterparty与RGB/Taro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32658",
+          "author": null,
+          "description": "原文来源：Bankless\n原文作者：Jack Inabinet\n原文编译：0x214、0x711、Kxp，BlockBeats\n\n\n\n\n\nFTX 崩盘余波的威慑力不减，导致加密借贷平台 Genesis 陷入一连串的市场质疑之中，Bankless 作者 Jack Inabinet 发表文章梳理事件始末，Genesis、Grayscale 和 DCG 之间是什么关系？竟然和三箭资本存在「可疑关联」？Genesis 的风险来源是什么？事件将如何发酵？BlockBeats 对其整理翻译如下：\n\n\nGenesis，连你也这样？\n\n\n\n\n\n\n\n\n\n\n上周，Genesis 旗下专注服务于机构客户群体的贷款部门 Genesis Global Capital 暂停了赎回和新贷款发放服务。\n\n\n\n\n随后，推特上关于 Genesis 即将破产的谣言开始漫天四起。\n\n\n\n\nGenesis 作为加密市场中唯一提供全方位服务的主要经纪业务公司，其偿付能力受到质疑。然而，Genesis 并不是唯一遭遇危机的机构，比特币信托产品 GBTC 的资产情况也受到了类似的质疑。此前其发行商 Grayscale 表示不会分享其储备审计证明，理由是出于「安全问题」考虑。\n\n\n\n\n\n\n\nGenesis 和 Grayscale 有什么共同点？\n\n\n\n\n首先，他们都是加密公司 Digital Currency Group (DCG) 的子公司。\n\n\n\n\n有传言称，DCG 在上周向 Genesis注入 1.4 亿美元新资金后，其流动性已经几乎耗尽。此前由于 Genesis 的贷款部门在 FTX 账户中的 1.75 亿美元无法提款，随之引发 Genesis 宣布停止赎回和新贷款发放服务。\n\n\n\n\n这些消息让加密用户都迫切地想知道：这事儿还能糟糕到什么地步？\n\n\n\n\n今天我们终于有了答案：Genesis 确实濒临破产.....…",
+          "link": "https://www.theblockbeats.info/news/32658",
+          "publishedOn": "2022-11-22T07:26:28.000Z",
+          "wordCount": null,
+          "title": "Bankless：Genesis岌岌可危",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32656",
           "author": null,
           "description": "原文标题：《\n\nIOSG Weekly Brief | 为什么我们看好零知识证明硬件加速 #150\n\n》\n原文来源：Bryan, IOSG Ventures\n\n\n本文将主要讨论 ZKP 作为扩容方案的发展现状，从理论层面描述产生证明过程中主要需要优化的几个维度，并引深到不同扩容方案对于加速的需求。然后再围绕硬件方案着重展开，展望 zk 硬件加速领域的摩尔定律。最后，关于硬件 zk 加速领域的一些机会和现状，会在文末阐述。首先，影响证明速度的主要有三个维度：证明系统，待证明电路规模，和算法软硬件优化。\n  \n\n对于证明系统来说，凡是使用椭圆曲线（EC）的算法，也就是市面上主流的 Groth 16（Zcash), Galo2(Scroll), Plonk(Aztec, Zksync) 这些 zk-snark 算法，产生多项式承诺的过程中涉及的大数点乘（MSM），目前都有时间长（算力要求高）的瓶颈。对于 FRI-based 算法，如 ZK-Stark，其多项式承诺产生方式是 Hash Function，不牵扯 EC，所以并不涉及 MSM 运算。\n\n\n证明系统是基础，待证明电路的规模也是核心的硬件优化的需求之一。近期讨论很火的 ZKEVM 据对以太坊的兼容程度不同，导致了电路的复杂程度的不同，比如 Zksync/Starkware 构建了与原生以太坊不同的虚拟机，从而绕开了一些以太坊原生的不适合利用 zk 处理的底层代码，缩小了电路的复杂长度，而 Scroll/Hermez 这样目标从最底端兼容的 zkevm 的电路自然也会更复杂。\n\n\n一个方便理解的比方是，电路的复杂性可以理解为一辆巴士上的座位，比如普通日子下需要搭载的乘客数在 30 人以下，有些巴士选择了 30 人的座位，这些巴士就是 Zksync/StarkWare，而一年中也有一些日子有特别多的乘客，一般的巴士坐不下，所以…",
