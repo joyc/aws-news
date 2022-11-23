@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-22T18:10:28.772Z</updated>
+    <updated>2022-11-23T00:38:18.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -758,16 +758,6 @@ GameFi 当下的困境：
 
 
 为了构建一套健全的「社会福利保障制度」，新的 Token 经济模型增加了一种新 Token 和一个资金池：「价值捕获 Token」（Value Capture Token，简称 VC…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outlier Ventures：探讨VE Token模型的5种改进方案]]></title>
-        <id>https://www.theblockbeats.info/news/32646</id>
-        <link href="https://www.theblockbeats.info/news/32646"/>
-        <updated>2022-11-20T07:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Outlier Ventures：探讨VE Token模型的5种改进方案]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
