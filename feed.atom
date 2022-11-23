@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-23T12:15:06.923Z</updated>
+    <updated>2022-11-23T18:09:50.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安全事件频发，从Solana躺枪，看未来公链发展格局]]></title>
+        <id>https://www.theblockbeats.info/news/32681</id>
+        <link href="https://www.theblockbeats.info/news/32681"/>
+        <updated>2022-11-23T13:31:02.000Z</updated>
+        <summary type="html"><![CDATA[原文来源： 0xTree
+
+
+加密行业因构建了「信任」机制备受追捧，也因「信任」问题而陷入危机。
+ 
+这种信任危机不仅来自系统性风险，还有人为因素。今天分布式资本合伙人沈波个人钱包被盗事件成为行业关注焦点，据沈波发布推特表示，「个人常用 894 结尾钱包，共 42 M 价值资产，其中包含 38 M USDC，在纽约时间 11 月 10 日凌晨被盗。被盗资产为个人资金，与分布式相关基金无关。目前已当地报案，FBI 与律师均已介入。文明与正义终将战胜野蛮与邪恶，这是人类社会的铁律，只是时间问题。」
+ 
+但这仅仅是行业信任危机的缩影，近期最受关注的非 FTX「信任危机」莫属。
+ 
+FTX 暴雷引爆了行业雷曼时刻，上百家公司深受牵连，众多建设者信心崩塌，整个加密行业遭受重创。高性能公链 Solana 是最具代表的受害者之一，FTX 暴雷给了本就摇摇欲坠的 Solana 致命一击。
+ 
+Solana 起初在众多的新兴公链中非常亮眼，曾一度被认为是行业最大的黑马公链，据 OKX 行情显示，Solana 市值最高在公链市值中排行第三，但却因「内忧外患」而摇摇欲坠，一方面源于外部劲敌新公链 Aptos、Sui 持续吸血，开发者和生态项目流失；另外一方面基于网路自身性能和稳定性不足，曾遭遇大规模瘫痪和黑客攻击，内耗严重。期间，Solana 一直试图挽回局面，但还未初见成效，就因 FTX 暴雷而迎来致命一击，FTX 不单是 Solana 生态繁荣背后最大的金主，也是 SOL 的持仓大户，截至 2022 年 6 月 30 日，他们至少持有价值 12 亿美元的 SOL，在 FTX 事件发酵后，SOL 价格暴跌，Solana 市值缩水近 60%，生态流动性走向枯竭。
+ 
+Solana 躺枪看似偶然，实则有一定的必然性，依靠资金、投机和炒作堆砌起来的新公链，不足以构建护城河，很容易被模仿者取而代之，成…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve稳定币设计机制全面解读]]></title>
+        <id>https://www.theblockbeats.info/news/32683</id>
+        <link href="https://www.theblockbeats.info/news/32683"/>
+        <updated>2022-11-23T11:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Curve稳定币设计机制全面解读]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBC协议Dymension如何配合Celestia构建模块化区块链？]]></title>
+        <id>https://www.theblockbeats.info/news/32682</id>
+        <link href="https://www.theblockbeats.info/news/32682"/>
+        <updated>2022-11-23T11:48:13.000Z</updated>
+        <summary type="html"><![CDATA[IBC协议Dymension如何配合Celestia构建模块化区块链？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance新IE0 Hooked：会是吸引Web3新人的下一个StepN吗？]]></title>
         <id>https://www.theblockbeats.info/news/32679</id>
@@ -1087,64 +1130,6 @@ Source: Twitter@Safaryclub
         <link href="https://www.theblockbeats.info/news/32651"/>
         <updated>2022-11-21T10:24:01.000Z</updated>
         <summary type="html"><![CDATA[Layer2之争：短期看Optimism，长期看zkSync？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《华尔街日报》——SBF 命运注定的加密帝国]]></title>
-        <id>https://www.theblockbeats.info/news/32649</id>
-        <link href="https://www.theblockbeats.info/news/32649"/>
-        <updated>2022-11-21T05:34:55.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：They Lived Together, Worked Together and Lost Billions Together: Inside Sam Bankman-Fried’s Doomed FTX Empire
-原文作者：Alexander Osipovich , Caitlin Ostroff , Patricia Kowsmann , Angel Au-Yeung and Matt Grossman
-原文编译：Leo，BlockBeats
-
-
-
-巴哈马-拿骚，近日，SBF 的 320 亿美元加密交易帝国众目睽睽之下分崩离析，引起了投资者、加密人员和硅谷大佬们的质疑，看起来前途一片光明的公司为何会崩溃得如此之快。
-
-
-
-
-最新情况表明，FTX 不仅是被其对手击败、糟糕的交易或今年加密市场的持续下跌而破产，反之，这是一个长期累积的混乱局面。根据法庭文件、资产负债表以及对员工和投资者的采访显示，早期的 FTX 就是一个「很难约束的企业实体、客户资产和 SBF」的集合体，没人能确切地描述它属于谁。目前检察官正在调查 FTX 的问题。
-
-
-
-
-据一份想帮助 FTX 渡过难关的人员向联邦法院提交的文件显示，SBF 的公司既没有会计记账工作，也没有正常运作的人力资源部门。公司资金被用于购买房地产，但没有记录。甚至没有员工名册，更不用说他们的雇佣条款了。破产文件显示，一份实体的未偿贷款包括至少有 10 亿美元给了 SBF 个人，5.43 亿美元给一名高管（Nishad）。
-
-
-
-
-经营 FTX 及相关公司的高管生活也同样混乱，他们 10 人在巴哈马一个价值 3000 万美元的高档度假胜地顶层公寓里一起居住、工作，工作和娱乐之间很难分清。据前员工透露，SBF 上层之间存在着暧昧关系，兴奋剂的使用也很常见。
-
-
-
-
-30 岁的 SBF 保持着高强度工作，在六个屏幕之间切换…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从iTunes再到Spotify、Apple Music，Euterpe的SBT能否成为搅动音乐市场的鲶鱼]]></title>
-        <id>https://www.theblockbeats.info/news/32648</id>
-        <link href="https://www.theblockbeats.info/news/32648"/>
-        <updated>2022-11-21T03:30:10.000Z</updated>
-        <summary type="html"><![CDATA[2001 年，乔布斯在 Macworld Expo 上推出了第一代 iTunes。随后，iTunes 上线 iTunes Music Store，用户可以花费 0.99 美元单独购买一首歌，而非整张专辑。iTunes 一系列措施令音乐市场变了天，而后，iTunes 成了全球最大的在线音乐商店。
- 
-2006 年，如今市场份额第一的流媒体音频服务商 Spotify 诞生了。在产品开发早期，Spotify 通过混合技术用于解决音乐缓冲问题。先预测用户行为，将相关歌曲切割为几部分，后利用 P2P 技术实现了随到随听。产品不断优化迭代并引入算法，Spotify 成为了当时少数主打用户体验的流媒体应用，并在数年之后成了流媒体音频服务领域的霸主。
- 
-面对 Spotify 的竞争，苹果于 2015 年推出了流媒体订阅服务 Apple Music。根据 MIDiA Research 最新的一期报告显示，Spotify 以 31% 的市场份额占据第一，Apple Music、Amazon Music 和 Tencent Music 紧随其后，市场份额分别为 15%、13% 和 13%。
- 
-或许，许多投资人、用户都认为流媒体音乐市场格局已定，难以出现革命式创新。然而，一群毕业自斯坦福大学等名校，曾在 Tencent Music、Sony Music、ByteDance、Warner Bro 的版权从业人员却并不这么认为。为此，他们创立了一个版权即服务（copyright as a service）的 NFT 平台 Euterpe，专业音乐类人士和创作者可通过平台向粉丝出售高质量的 IP NFT 作品。
- 
-传统流媒体的困境
- 
-虽然以 Spotify、Apple Music 为代表的 Web2 改变了用户的使用习惯，令人们可以更加方便快捷地听上各种类型的音乐，但其也面临着众多问题。
- 
-1…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

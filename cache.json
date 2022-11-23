@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32681",
+          "author": null,
+          "description": "原文来源： 0xTree\n\n\n加密行业因构建了「信任」机制备受追捧，也因「信任」问题而陷入危机。\n \n这种信任危机不仅来自系统性风险，还有人为因素。今天分布式资本合伙人沈波个人钱包被盗事件成为行业关注焦点，据沈波发布推特表示，「个人常用 894 结尾钱包，共 42 M 价值资产，其中包含 38 M USDC，在纽约时间 11 月 10 日凌晨被盗。被盗资产为个人资金，与分布式相关基金无关。目前已当地报案，FBI 与律师均已介入。文明与正义终将战胜野蛮与邪恶，这是人类社会的铁律，只是时间问题。」\n \n但这仅仅是行业信任危机的缩影，近期最受关注的非 FTX「信任危机」莫属。\n \nFTX 暴雷引爆了行业雷曼时刻，上百家公司深受牵连，众多建设者信心崩塌，整个加密行业遭受重创。高性能公链 Solana 是最具代表的受害者之一，FTX 暴雷给了本就摇摇欲坠的 Solana 致命一击。\n \nSolana 起初在众多的新兴公链中非常亮眼，曾一度被认为是行业最大的黑马公链，据 OKX 行情显示，Solana 市值最高在公链市值中排行第三，但却因「内忧外患」而摇摇欲坠，一方面源于外部劲敌新公链 Aptos、Sui 持续吸血，开发者和生态项目流失；另外一方面基于网路自身性能和稳定性不足，曾遭遇大规模瘫痪和黑客攻击，内耗严重。期间，Solana 一直试图挽回局面，但还未初见成效，就因 FTX 暴雷而迎来致命一击，FTX 不单是 Solana 生态繁荣背后最大的金主，也是 SOL 的持仓大户，截至 2022 年 6 月 30 日，他们至少持有价值 12 亿美元的 SOL，在 FTX 事件发酵后，SOL 价格暴跌，Solana 市值缩水近 60%，生态流动性走向枯竭。\n \nSolana 躺枪看似偶然，实则有一定的必然性，依靠资金、投机和炒作堆砌起来的新公链，不足以构建护城河，很容易被模仿者取而代之，成…",
+          "link": "https://www.theblockbeats.info/news/32681",
+          "publishedOn": "2022-11-23T13:31:02.000Z",
+          "wordCount": null,
+          "title": "安全事件频发，从Solana躺枪，看未来公链发展格局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32683",
+          "author": null,
+          "description": "Curve稳定币设计机制全面解读",
+          "link": "https://www.theblockbeats.info/news/32683",
+          "publishedOn": "2022-11-23T11:48:13.000Z",
+          "wordCount": null,
+          "title": "Curve稳定币设计机制全面解读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32682",
+          "author": null,
+          "description": "IBC协议Dymension如何配合Celestia构建模块化区块链？",
+          "link": "https://www.theblockbeats.info/news/32682",
+          "publishedOn": "2022-11-23T11:48:13.000Z",
+          "wordCount": null,
+          "title": "IBC协议Dymension如何配合Celestia构建模块化区块链？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32679",
           "author": null,
           "description": "BlockBeats 注： 11 月 23 日，Binance 宣布即将上线第 29 个 Launchpad 项目 Hooked Protocol(HOOK)，并开启 BNB 专场，此次售卖将基于投入模式，Binance 将根据用户 7 日的 BNB 日平均持仓确定用户可投入额度。Hooked Protocol(HOOK) 究竟是否有望促进 Web3 的大规模采用，BlockBeats 带你从官网白皮书中先一探究竟。\n\n\n\n\n产品机制和玩法\n\n\n\n\n\n2022 年第三季度，Hooked 已推出试点 DApp「Wild Cash」，内置经典的 Web3 机制，主要功能包括：\n\n\n\n\n1. Quiz-to-Earn：用户一开始就可以获得身临其境的 Web3 学习，同时通过正确回答测验获得首个 Token 奖励。\n\n\n\n\n\n2. PoWT（工作量和时间证明）挖矿游戏：游戏通过经典的工作量证明机制来激励用户在平台内贡献精力和时间。\n\n\n\n\n\n3. 社交推荐：用户只需分享和建立他们的 Web3 社交图谱即可获得丰厚的 Token 奖励。\n\n\n\n\n\n4. Stake and Swap：用户可以拥有自己的首个加密钱包并存储加密资产，并使用 Hooked Wallet 进行 Staking、Swap 和转账交易。\n\n\n\n\n\n\n\n此外，Hooked 还为用户提供了一整套 Web3 入门解决方案，以促进其 Web3 转型：\n\n\n\n\nHooked Soulbound Token（Hooked SBT）：作为唯一的数字身份，Hooked 允许社区成员使用 Hooked SBT 进入 Web3 领域，并提高社区成员之间的诚信和信任。\n\n\n\n\nHooked Wallet：首个面向大多数 Hooked 社区成员的加密钱包，具有用户友好的界面和基础设施，可存储 Web3 资产并进行未来交易。\n\n\n\n\n链上协议交互：Hooked 通过参与 BNB Chain 上的所有协议交互，积累了坚实而丰富的链上行为数据，实现了广泛的行为分析和洞察，为社区和生态系统的形成奠定了基础。\n\n\n\n\n\n\nToken 经济学：双 Token 模型\n\n\n\n\nHooked Protocol 的 Token 经济学已于近日发布，采用双 Token 模型：治理 Token HOOK 和实用 Token HGT（Hooked Gold Token）。\n\n\n\n\nHOOK 主要用于社区治理、链上交易 Gas 费，持有激励包括获得独家社区活动的访问权、有机会购买平台限量版 NFT。HOOK 总供应量的 20% 分配给团队和顾问，30% 留用于生态系统，25% 分配给社区，5% 通过 Binance Launchpad 发售，5% 用于私募。\n\n\n\n\n\n\n\n\n\n\n\n\nHGT 是基于用户完成应用内部任务所获得的 Token，并根据用户活动的持续时间和成就给予奖励。HGT 可用于访问活动、虚拟资产和财产、增强游戏体验以及高级奖励。此外，用户也将能在有限范围内将 HGT 转换为 HOOK。\n\n\n虽然 HGT 本身不可流动，但可以解锁并转换为 uHGT（unlocked Hooked Gold Token），从而产生直接的流动性激励并奖励社区对生态系统的持续贡献。\n\n\nHooked Protocol(HOOK) 白皮书链接：https://hooked-protocol.gitbook.io/hooked-protocol-whitepaper/\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -173,26 +203,6 @@
           "publishedOn": "2022-11-21T10:24:01.000Z",
           "wordCount": null,
           "title": "Layer2之争：短期看Optimism，长期看zkSync？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32649",
-          "author": null,
-          "description": "原文标题：They Lived Together, Worked Together and Lost Billions Together: Inside Sam Bankman-Fried’s Doomed FTX Empire\n原文作者：Alexander Osipovich , Caitlin Ostroff , Patricia Kowsmann , Angel Au-Yeung and Matt Grossman\n原文编译：Leo，BlockBeats\n\n\n\n巴哈马-拿骚，近日，SBF 的 320 亿美元加密交易帝国众目睽睽之下分崩离析，引起了投资者、加密人员和硅谷大佬们的质疑，看起来前途一片光明的公司为何会崩溃得如此之快。\n\n\n\n\n最新情况表明，FTX 不仅是被其对手击败、糟糕的交易或今年加密市场的持续下跌而破产，反之，这是一个长期累积的混乱局面。根据法庭文件、资产负债表以及对员工和投资者的采访显示，早期的 FTX 就是一个「很难约束的企业实体、客户资产和 SBF」的集合体，没人能确切地描述它属于谁。目前检察官正在调查 FTX 的问题。\n\n\n\n\n据一份想帮助 FTX 渡过难关的人员向联邦法院提交的文件显示，SBF 的公司既没有会计记账工作，也没有正常运作的人力资源部门。公司资金被用于购买房地产，但没有记录。甚至没有员工名册，更不用说他们的雇佣条款了。破产文件显示，一份实体的未偿贷款包括至少有 10 亿美元给了 SBF 个人，5.43 亿美元给一名高管（Nishad）。\n\n\n\n\n经营 FTX 及相关公司的高管生活也同样混乱，他们 10 人在巴哈马一个价值 3000 万美元的高档度假胜地顶层公寓里一起居住、工作，工作和娱乐之间很难分清。据前员工透露，SBF 上层之间存在着暧昧关系，兴奋剂的使用也很常见。\n\n\n\n\n30 岁的 SBF 保持着高强度工作，在六个屏幕之间切换…",
-          "link": "https://www.theblockbeats.info/news/32649",
-          "publishedOn": "2022-11-21T05:34:55.000Z",
-          "wordCount": null,
-          "title": "《华尔街日报》——SBF 命运注定的加密帝国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32648",
-          "author": null,
-          "description": "2001 年，乔布斯在 Macworld Expo 上推出了第一代 iTunes。随后，iTunes 上线 iTunes Music Store，用户可以花费 0.99 美元单独购买一首歌，而非整张专辑。iTunes 一系列措施令音乐市场变了天，而后，iTunes 成了全球最大的在线音乐商店。\n \n2006 年，如今市场份额第一的流媒体音频服务商 Spotify 诞生了。在产品开发早期，Spotify 通过混合技术用于解决音乐缓冲问题。先预测用户行为，将相关歌曲切割为几部分，后利用 P2P 技术实现了随到随听。产品不断优化迭代并引入算法，Spotify 成为了当时少数主打用户体验的流媒体应用，并在数年之后成了流媒体音频服务领域的霸主。\n \n面对 Spotify 的竞争，苹果于 2015 年推出了流媒体订阅服务 Apple Music。根据 MIDiA Research 最新的一期报告显示，Spotify 以 31% 的市场份额占据第一，Apple Music、Amazon Music 和 Tencent Music 紧随其后，市场份额分别为 15%、13% 和 13%。\n \n或许，许多投资人、用户都认为流媒体音乐市场格局已定，难以出现革命式创新。然而，一群毕业自斯坦福大学等名校，曾在 Tencent Music、Sony Music、ByteDance、Warner Bro 的版权从业人员却并不这么认为。为此，他们创立了一个版权即服务（copyright as a service）的 NFT 平台 Euterpe，专业音乐类人士和创作者可通过平台向粉丝出售高质量的 IP NFT 作品。\n \n传统流媒体的困境\n \n虽然以 Spotify、Apple Music 为代表的 Web2 改变了用户的使用习惯，令人们可以更加方便快捷地听上各种类型的音乐，但其也面临着众多问题。\n \n1…",
-          "link": "https://www.theblockbeats.info/news/32648",
-          "publishedOn": "2022-11-21T03:30:10.000Z",
-          "wordCount": null,
-          "title": "从iTunes再到Spotify、Apple Music，Euterpe的SBT能否成为搅动音乐市场的鲶鱼",
           "imageUrl": null
         }
       ]
