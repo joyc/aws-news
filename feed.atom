@@ -2,10 +2,225 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-23T00:38:18.991Z</updated>
+    <updated>2022-11-23T06:10:34.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX首场破产听证会要点：现金余额12.4亿美元；债权人达数百万名]]></title>
+        <id>https://www.theblockbeats.info/news/32672</id>
+        <link href="https://www.theblockbeats.info/news/32672"/>
+        <updated>2022-11-23T03:50:08.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：比推 BitpushNews
+原文作者：Mary Liu
+
+
+当地时间 11 月 22 日周二，FTX 的首次破产听证会在美国特拉华州举行，法官简述了 FTX 的崛起和衰落，以及该公司在短短两周内崩溃的时间线。FTX 律师强调，除了实施正确的公司控制、透明度和调查之外，资产保护和恢复是 FTX 现在最重要的核心目标之一。以下为关键要点：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+律师透露「大量」FTX 资产被盗或丢失；现金余额合计 12.4 亿美元；债权人达数百万名
+FTX 顾问一直在与司法部和纽约南区网络犯罪部门保持沟通，该部门已对 FTX 展开刑事调查
+FTX 前 50 名债权人的身份信息暂时保密；下一次听证会定于 12 月 16 日举行
+美国众议院和参议院已要求新任 FTX 首席执行官 John J. Ray III 在 12 月的某个时候作证
+
+「美国企业乃至全球企业历史上最突然、最艰难的崩溃之一」
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FTX 新管理层新任命的法律顾问、知名律所 Sullivan & Cromwell 合伙人 James Bromley 将 FTX 的倒闭描述为「美国企业历史、全球企业实体历史上最突然和最艰难的崩溃之一」，并将 FTX 的帝国形容为「前 CEO Sam Bankman-Fried（SBF）的个人领地」
+
+
+
+。
+
+
+
+
+
+
+今年早些时候，FTX 的估值达到 320 亿美元，而 SBF 在加密熊市期间一度将自己打造成为行业的「白衣骑士」。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+律师表示：「FTX 的情况是这个领域最新和最大的失败，在其国际交易所以及美国交易所方面，实际上都发生了银行挤兑。在挤兑发生的同时，出现了领导层危机…FTX 公司由极少数人控制，由 Sam-Bankman-Fried 领导，管理层出现了很大问题，导致其辞职」。…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reservoir Protocol：解决NFT市场流动性问题的全新底层协议]]></title>
+        <id>https://www.theblockbeats.info/news/32671</id>
+        <link href="https://www.theblockbeats.info/news/32671"/>
+        <updated>2022-11-23T03:42:08.000Z</updated>
+        <summary type="html"><![CDATA[撰文：LeftOfCenter
+
+
+BlockBeats 此前曾发布《Forward Protocol：在 NFT 版税之争中找到最优解》一文，其中提到了 Forward 协议在无需废除 NFT 版权费的情况下激励 LP 做市行为，解决目前 NFT 市场流动性不足和价格发现困难的难题，最终为 NFT 藏家提供 NFT 自动售货机式的用户体验。
+ 
+废除 NFT 版权费这个摩擦成本，某种程度上可以说是从经济上激励 NFT 做市行为，然而，除此之外 Forward 协议还从底层开发者工具和更大的系统层面为 NFT 做市商提供更多的好处和便利性，进一步来说，是 Forward 协议所在的底层协议 Reservoir Protocol 想要实现的远大图景：即实现「民主化 NFT 流动性，通过开源的链上 NFT 订单聚合支持下一代 NFT 产品开发和流动性来源」。
+ 
+实际上，Forward 协议是 Reservoir 团队官方出品的一个新的协议产品，本文试图梳理 Forward 协议所在之底层协议 Reservoir Protocol 的业务逻辑，以及如何从整体视角下看待 Reservoir 协议将 NFT 二级市场、做市商、买家、应用开发者、交易者等多个参与方纳入到这个日益庞大的生态系统中。
+ 
+ 
+Reservoir 和 Forward 协议在业务层面上的关系
+根据 Forward 协议官方文档，Forward 协议创建于 Reservoir 协议之上，做市商可使用 Reservoir 提供的一套专用的 API 和 SDK 工具与 Forward Protocol 实现轻松交互，创建 NFT 买卖订单薄。而对于那些有有更复杂做市模型数据需求的用户，可使用 Reservoir Data API ，以及使用 Reservoir 进行程序化交易 的文档。另一方面，在 Forward …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RogueBlox Alpha游戏测试即将开启]]></title>
+        <id>https://www.theblockbeats.info/news/32670</id>
+        <link href="https://www.theblockbeats.info/news/32670"/>
+        <updated>2022-11-23T03:29:08.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《RogueBlox Alpha Test Campaign》
+原文作者：OpenBlox
+原文编译：Noc，BlockBeats
+
+
+各位 RogueBlox 用户你们好，感谢各位耐心等待，RogueBlox Alpha Test 即将上线！
+
+
+
+
+随着 Alpha 测试游戏的发布，还将推出一个特定的网站，每个用户都将有机会探索 #BloxVerse 和游戏的所有细节。大家也可以在网站上申请 RogueBlox Alpha 测试资格。请查阅：https://rogueblox.io/
+
+
+
+
+RogueBlox 决定在前几周限制 Alpha 测试资格数量以测试游戏错误报告。我们希望能在未来将其推广到更大的用户群，但小范围用户群将使我们能够更快地进行测试和版本迭代。我们希望确保为公共用户群提供最好的最终产品，为实现这一目标，我们需要您的努力。
+
+
+
+
+如何申请 Alpha 测试资格
+
+
+许多用户可能在之前的活动中有过 Beta 测试资格。那些拥有 Beta 测试资格的人将有更大概率参与 Alpha 测试活动。
+
+
+没有 Beta 测试资格的 RogueBlox 用户，请不要气馁。官方将提供更多参与方式！需完成以下任务才有资格获得 Alpha 资格：
+
+
+· 点赞并转发
+· 标记 @ 5 个朋友（他们还需要关注 @OpenBlox 和 @RogueBlox）
+· 加入Discord和Telegram群组
+· 添加标签：#RogueBlox #OpenBlox
+· 访问RogueBlox 网站并单击 <Alpha 测试>，即可可以加入 RogueBlox Alpha 测试候补名单。
+
+
+完成任务的人将进入候补名单，并会选出一定数量的测试人员。公告将在 RogueBlox 社区中发布，因此请确保您是 RogueBlox Discord 的活跃成员。
+
+
+成为 Alph…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCG CEO至股东信（全文）]]></title>
+        <id>https://www.theblockbeats.info/news/32669</id>
+        <link href="https://www.theblockbeats.info/news/32669"/>
+        <updated>2022-11-23T03:13:08.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：DCG CEO Barry Silbert
+原文编译：吴说 Real
+
+
+亲爱的股东们，在过去的一周里有很多的噪音，我想直接与你们沟通，澄清我们 DCG 的立场。
+
+
+
+
+大多数人都知道 Genesis 的情况，但我们先回顾一下: Genesis Global Capital 的贷款业务在上周三（11 月 16 日）暂停了赎回和新贷款发放，此前市场动荡引发了前所未有的撤资请求。这是 Genesis 贷款账簿上流动性和存续期不匹配的问题。重要的是，这些问题不会影响 Genesis 的现货和衍生品交易或托管业务，这些业务将照常运营。Genesis 的领导层和董事会决定聘请财务和法律顾问，公司正在探索所有可能的选择，以应对 FTX 的崩溃。
+
+
+
+
+最近几天，有关 Genesis Global Capital 和 DCG 之间的公司间贷款的传言不断。对于那些不知情的人来说，在正常的业务过程中，DCG 向 Genesis Global Capital 借款，与数百家加密货币投资公司借款的方式相同。这些贷款总是在公平的基础上构建的，并按当时的市场利率定价。DCG 目前对 Genesis Global Capital 负有约 5.75 亿美元的债务，该债务将于 2023 年 5 月到期。这些贷款用于为投资机会提供资金，并用于从非雇员股东手中回购 DCG 股票，这些交易是在季度股东更新中强调的。直到今天，我从未卖出过我的 DCG 股票。
+
+
+
+
+你可能还记得，有一张 11 亿美元的本票将于 2032 年 6 月到期。正如我们在 2022 年 8 月的上一封股东信中所述，DCG 介入并承担了 Genesis 与 3AC 违约相关的某些责任。如 8 月所述，由于这些现在是 DCG 的负债，DCG 正在债权人委员会上参加 3AC 的清算程序，并正在为债权人的利益寻求所有可用的补救措施来收回资产。除了 2023 年 5 月到期的 Genesis Global Capital 公司间贷款和长期本票，DCG 唯一的债务是一笔 3.5 亿美元的信贷安排，来自以 Eldridge 为首的一小群债权人。
+
+
+
+
+这么说吧：DCG 将继续是行业的领先建设者，我们致力于加快发展更好的金融体系这一长期使命。我们已经经受住了以前的秘密冬天，虽然这次可能感觉更严峻，但我们将共同走出它，变得更强大。DCG 只筹集了 2500 万美元的初级资本，而我们今年的营收有望达到 8 亿美元。
+
+
+
+
+十年前的 2012 年，我买了第一个比特币，并决定长期投入这个行业。2013 年，我们成立了第一家比特币交易公司 Genesis 和第一家比特币基金，后来发展成为 Grayscale，现在是世界上最大的数字货币资产管理公司。Foundry 运营着世界上最大的比特币挖矿池，并正在建设未来的去中心化基础设施。CoinDesk 是业内首屈一指的媒体、数据和活动公司，他们在这个加密冬天做了惊人的报道。Luno 是世界上最受欢迎的加密钱包之一，也是新兴市场的行业领导者。tradedeblock 正在打造一个无缝的机构交易平台，HQ 作为最新的子公司，正在为数字资产企业家建立一个生活和财富管理平台。这些子公司都是独立的业务，独立管理，照常运营。最后，我们的投资组合中有 200 多家公司和基金，我们经常是行业内最好的创始人的首选。
+
+
+
+
+我们感谢您的鼓励和支持，以及对 DCG 的投资意向。如果我们决定进行一轮融资，我们会通知你的。
+
+
+
+
+尽管行业环境困难，但我对加密货币和区块链技术在未来几十年的潜力一如既往地感到兴奋，DCG 决心保持在前沿。
+
+
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitcoin女巫检测方案Top1解读及思考]]></title>
         <id>https://www.theblockbeats.info/news/32662</id>
@@ -702,62 +917,6 @@ Source: Twitter@Safaryclub
 虽然以 Spotify、Apple Music 为代表的 Web2 改变了用户的使用习惯，令人们可以更加方便快捷地听上各种类型的音乐，但其也面临着众多问题。
  
 1…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新Token经济模型： 解决当下GameFi困境的「新范式」]]></title>
-        <id>https://www.theblockbeats.info/news/32647</id>
-        <link href="https://www.theblockbeats.info/news/32647"/>
-        <updated>2022-11-20T12:55:02.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Leon Han
-
-
- 
-介绍：
-
-
-当你每天打开 StepN，奔跑在回本的道路上，却发现，原来路可以越跑越长，回本成了可望而不可即的幻想，你是否感到些许无奈？
-
-
-当你充满激情，怀揣致富的梦想，去寻找下一个 Axie 级别的项目，却发现，不知何时，已经掉进了财富归零的旁氏陷阱，你是否又有些许失望？
-
-
-当你抱着「区块链可以改变世界，改变游戏产业」的信仰，却发现，GameFi 行业似乎陷入困境、停滞不前，你是否曾怀疑自己，怀疑信仰究竟是不是一文不值？
-
-
-而引发这些问题的根源就在于：糟糕的 Token 经济模型。
-
-
-GameFi 当下的困境：
-
-
-当下 GameFi 游戏的「双 Token 经济模型」太过旁氏，玩家打金产出的效用 Token（Utility Token）没有价值支撑，短期随时「归零」，长期必定「归零」，终将只是一场「比谁跑的快」的游戏。
-
-
-随着玩家的觉醒，整个旁氏的棒数也会越来越少，直到第一棒打金的玩家也不能回本。
-
-
-在这种情况下，当下 GameFi 的模式和「双 Token 经济模型」终将难以维系。
-
-
-同时，玩家是整个游戏生态人口中的绝大多数，也是生态收益真正的创造者。如果我们把一个游戏生态比作一个「国家」，那么玩家就是这个游戏国度的「公民」。
-
-
-一个健康的游戏国度，不仅需要公民通过治理 Token 获得投票权，同样也需要一套健全的「社会福利保障制度」。只有当玩家的经济利益得到切实的保障，玩家才会放心大胆地投资 GameFi，更深入地参与到游戏，整个游戏生态才能更加繁荣。
-
-
-新的 Token 经济学：
-
-
-
-
-
-图 1 两种 Token 经济模型对比
-
-
-为了构建一套健全的「社会福利保障制度」，新的 Token 经济模型增加了一种新 Token 和一个资金池：「价值捕获 Token」（Value Capture Token，简称 VC…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
