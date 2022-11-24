@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-23T18:09:50.394Z</updated>
+    <updated>2022-11-24T00:43:45.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1120,16 +1120,6 @@ Source: Twitter@Safaryclub
         <link href="https://www.theblockbeats.info/news/32652"/>
         <updated>2022-11-21T14:24:01.000Z</updated>
         <summary type="html"><![CDATA[简析Aave团队打造的web3社交协议 LensProtocol]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer2之争：短期看Optimism，长期看zkSync？]]></title>
-        <id>https://www.theblockbeats.info/news/32651</id>
-        <link href="https://www.theblockbeats.info/news/32651"/>
-        <updated>2022-11-21T10:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Layer2之争：短期看Optimism，长期看zkSync？]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
