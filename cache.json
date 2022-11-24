@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32692",
+          "author": null,
+          "description": "原文标题：《Pantera Capital: 预测 2024 年减半时的比特币价格》\n原文编译：GaryMa 吴说区块链\n\n\n\nFTX 相关更新\n\n\n我们想提供一个关于 FTX 情况的更新，以及它是如何影响我们的。总结一下，本月，FTX 和 Alameda Research 以 FTT Token为抵押进行了过度举债。截至今天上午，两家公司都已申请破产。总的损失尚不清楚，但网上估计损失高达几十亿美元。FTX 交易平台内的用户存款也被大幅折价交易。这可能意味着那些在 FTX 上有资金的人损失了大部分资金。\n\n\n一般来说，我们处理这些情况的方法首先关注尽可能多地保护投资组合。然后，一旦我们采取了所有可能的措施，我们就可以更新我们的有限合伙人关于我们做了什么以及我们的基金的情况。但最重要的是，我们的目标是降低永久性资本损失的风险。受此消息影响，市场大幅下跌，这将在我们的业绩中体现出来，但当市场反弹时，我们预计也会如此。在这种情况下，我们主要要避免的是资产的永久流失。\n\n\n我们的做法是，在保持一定的交易灵活性的同时，总体上减少对中心化交易对手方的敞口。我们在 FTX 事件中的主要风险/损失来自于我们的 Blockfolio 收购收益，这些收益是以 FTT 和 FTX 股票计价的。我们在 11 月 8 日星期二尽可能地清算了 FTT。在崩溃之前，周一晚上，我们的 FTX 股票和 FTT \n\nToken\n\n头寸总计不到我们公司总资产管理规模的 3%。\n\n\n周二上午 FTX/Alameda 陷入困境的消息发布后，我们的团队立即组建了一个虚拟作战室，评估对我们早期投资组合的影响，并采取行动。我们的目标是 1) 识别我们的投资组合团队可能面临的潜在风险；2) 直接接触有风险的团队，提供我们所能提供的任何帮助。\n\n\n我们已经在我们行业类似的压力环境中进行了这项测试（例如，3AC 破产，2018…",
+          "link": "https://www.theblockbeats.info/news/32692",
+          "publishedOn": "2022-11-24T13:56:35.000Z",
+          "wordCount": null,
+          "title": "Pantera Capital: 2024年比特币减半周期走势预测及展望",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32694",
           "author": null,
           "description": "原文标题：《DID：对信用和 Permissionless 的渴求》\n原文来源：R3PO\n\n\n在上周发出的《DID 和链上数据构建的去中心化链路》一文中，R3PO 指出链上数据是一种「下沉」的数据基础设施，需要配合 DID 作为一种功能套件嵌入进 SocialFi、GameFi、钱包等产品之内，并在其中重点分析以 ENS 为代表的域名对个人在 Web 3.0 时代的重大意义。\n\n\n\n\n在 R3PO 看来，目前仍旧缺乏对链上数据应用方向的观察。区块链较传统的突破之处在于数据的全面开放，但这并非意味着「数据访问权」的平等，受到资金和技能的限制，数据类产品在商业化之路上走上了排斥大多数用户的不归路，创造出新的不平等格局。\n\n\n\n\n这种事实上的不平等会导致少数人对多数人的评价和控制，同时，个人数据分散在不同的公链、DApp 和产品内，个人对数据的增删改查也无法真正实行，叠加地址、域名时时可变，个人身份在链上世界逐渐流体化和碎片化。\n\n\n\n\n从真正赋能个人的角度出发，R3PO 认为必须从数据源和个人身份的统一出发，将数据所有权和访问权归还给用户，进而创造出基于信用的去中心化社会体系。\n\n\n\n\n信用体系是社会无摩擦运转的基石，给予每个人获得平等尊严和幸福的可能性。\n\n\n\n\nWeb 3 个人身份：确证资产所有权\n\n\n\n\n个人身份是未来 Web 3 产品大众化的前置要件，而数据的沉淀身份建设提供了去中心化验证途径。\n\n\n\n\n以比特币为例，其上的数据结构本质上是哈希指针结合二叉树的变种而来的默克尔树，数据本身就是账簿，账簿本身就是个人在链上的活动记录，从创世区块 Genesis 的产生，到矿工争夺记账权而进行的哈希碰撞，再到个人之间的交易信息 transaction（Tx），这些数据构成了区块链本身。\n\n\n\n\n但 R3PO 认为，这种数据堆叠在带来去中心化的同时，也带来另一个困扰至今的问题—…",
@@ -203,36 +213,6 @@
           "publishedOn": "2022-11-22T07:26:28.000Z",
           "wordCount": null,
           "title": "Bankless：Genesis岌岌可危",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32656",
-          "author": null,
-          "description": "原文标题：《\n\nIOSG Weekly Brief | 为什么我们看好零知识证明硬件加速 #150\n\n》\n原文来源：Bryan, IOSG Ventures\n\n\n本文将主要讨论 ZKP 作为扩容方案的发展现状，从理论层面描述产生证明过程中主要需要优化的几个维度，并引深到不同扩容方案对于加速的需求。然后再围绕硬件方案着重展开，展望 zk 硬件加速领域的摩尔定律。最后，关于硬件 zk 加速领域的一些机会和现状，会在文末阐述。首先，影响证明速度的主要有三个维度：证明系统，待证明电路规模，和算法软硬件优化。\n  \n\n对于证明系统来说，凡是使用椭圆曲线（EC）的算法，也就是市面上主流的 Groth 16（Zcash), Galo2(Scroll), Plonk(Aztec, Zksync) 这些 zk-snark 算法，产生多项式承诺的过程中涉及的大数点乘（MSM），目前都有时间长（算力要求高）的瓶颈。对于 FRI-based 算法，如 ZK-Stark，其多项式承诺产生方式是 Hash Function，不牵扯 EC，所以并不涉及 MSM 运算。\n\n\n证明系统是基础，待证明电路的规模也是核心的硬件优化的需求之一。近期讨论很火的 ZKEVM 据对以太坊的兼容程度不同，导致了电路的复杂程度的不同，比如 Zksync/Starkware 构建了与原生以太坊不同的虚拟机，从而绕开了一些以太坊原生的不适合利用 zk 处理的底层代码，缩小了电路的复杂长度，而 Scroll/Hermez 这样目标从最底端兼容的 zkevm 的电路自然也会更复杂。\n\n\n一个方便理解的比方是，电路的复杂性可以理解为一辆巴士上的座位，比如普通日子下需要搭载的乘客数在 30 人以下，有些巴士选择了 30 人的座位，这些巴士就是 Zksync/StarkWare，而一年中也有一些日子有特别多的乘客，一般的巴士坐不下，所以…",
-          "link": "https://www.theblockbeats.info/news/32656",
-          "publishedOn": "2022-11-22T02:59:12.000Z",
-          "wordCount": null,
-          "title": "IOSG：为什么我们看好零知识证明硬件加速？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32655",
-          "author": null,
-          "description": "原文标题：《the 9 Hack FEVM finalists》\n原文作者：ETHGlobal\n原文编译：Morty，深潮 TechFlow\n\n\n\n11 月 21 日，ETHGlobal 和 Filecoin 联合举办的 FEVM 黑客松决赛名单已经出炉，共计 9 个项目。接下来，本文将带您速览此次黑客松决赛入围的 9 个项目。\n\n\n\n\n\nSoulmates\n\n\nSoulmates 是一个基于 FEVM 构建的灵魂绑定 Token（SBT）发行引擎。\n\n\nSoulmates 由一组 FEVM 智能合约、一个功能齐全的 dApp 组成，允许用户通过 Soulmates 创建、分配和领取 SBT。\n\n\n得益于 Web3 丰富的可组合性，其他协议，比如 DeFi 协议、声誉系统、教育证书等等，可以通过与 Soulmates 的组合，来构建社区。\n\n\nKoios\n\n\nKoios 是一个无门槛的数据 DAO 工具平台，用户可以在不接触代码的情况下，启动、管理和升级数据 DAO。\n\n\n建立 Koios 的主要目的是为了帮助数据发布者、算法开发者和数据消费者能够更好地管理和使用数据集。\n\n\nKoios 允许 DAO 的构建者通过数据 NFT（数据集和算法都将被铸造为 NFT）和 DAO Token 来管理 DAO。DAO 成员可以参与质押、提案、金库、NFT 画廊和投票等活动来完成 DAO 的治理。\n\n\nDataMarket\n\n\nDataMarket 是一个数据市场，允许任何人在其上进行数据交易。\n\n\n建立 DataMarket 的目的是为了消除中间第三方。\n\n\n它希望通过与 Filecoin 的紧密配合，构建一个点对点数据交易的空间。\n\n\nZKsig NFTs\n\n\nZKsig NFTs 希望通过具有法律约束力的协议和 ERC-721 NFT 来实现市场的委托授权。\n\n\n就像 Docusign 那样，ZKsig NFTs 希望成为像 Docusign 那样，在区块链上审核认证用户的数字签名。\n\n\nCatalogDAO\n\n\nCatalogDAO 是一个 dMRV 数据 DAO。\n\n\nCatalogDAO 是一个由可持续发展倡导者、存储供应商和研究人员组成的激励网络，致力于支持各地的碳项目发展。\n\n\nCatalogDAO 的目标是帮助碳项目开发人员使用激励性 dMRV 平台（数字测量、报告和验证）来获取、存储、分析和自治他们的数据。\n\n\nSolShare Wallet\n\n\nSolShare Wallet 是一个支持 FEVM 的钱包，允许用户使用两个不同的钱包配置 2FA（双因子验证），以保证用户的资金和交易的安全。\n本质上，SolShare Wallet 是一个多签钱包。\n\n\nSPN DAO\n\n\nSPN DAO 是一个消费数据 DAO，允许消费者将他们的数据，特别是他们的信用卡交易数据，转换为资产。\n\n\n消费者可以将自身的信用卡交易数据匿名上传至 IPFS 进行加密去中心化存储，并铸造灵魂绑定 Token（SBT）。\n\n\n每当有人需要此类数据时，可以向 DAO 购买，并由 DAO 的管理员解密。随后，DAO 将会把 FIL 奖励发送给 SBT 持有者。\n\n\nCredLancer\n\n\nCredLancer 是一个面向组织和自由职业者的在线认证和协作平台。\n\n\nCredLancer 致力于解决游戏开发者之间缺乏交流和合作的问题，允许专业组织聚集起来一同协作来完成项目，同时展示经过验证的链上证书。\n\n\n而各组织在注册时，可以为其组织成员分配链上徽章（SBT），以验证他们的经验和能力。\n\n\nFIL-Peggy\n\n\nFIL-Peggy 是一个建立在 FEVM 上的借贷协议和 Playground。\n\n\nFIL-Peggy 支持用户存款，并发送给 FIL 矿工作为其 FIL 挖矿的抵押品，以获得相应比例的奖励。\n\n\n\n\n\n建立 FIL-Peggy 的目的是为了解决云算力的骗局，用智能合约自动化执行 FIL 的挖矿收益分配。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32655",
-          "publishedOn": "2022-11-22T02:57:12.000Z",
-          "wordCount": null,
-          "title": "9个ETH Global FEVM黑客松决赛入围项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32650",
-          "author": null,
-          "description": "原文标题：《13 个 Web3 增长平台实测之如何 0 成本冷启动项目至 10k 用户》\n原文作者： @SunnyZ_Crypto\n\n\n\n\n\n\n\n\n\n背景\n\n\n\n\n作为 Web3 项目负责增长的人，我常常听到的一个问题是怎么冷启动一个项目，说白了就是怎么 GTM，即让项目被更多人知道，走向市场。\n\n\n\n\n相比起 Web2，目前 Web3 没有成体系的 GTM 方法论，仍处于相对盲目增长的阶段，且通过 Token 和 NFT 做社区用户预期管理的方式也和 Web2 的增长黑客方式不同，这让很多 Web2 的市场玩法施展不开，甚至水土不服。\n\n\n\n\n但两者逻辑和流程是相似的，都需要获客，激活，留存和推荐，其中获客这一条在 Web3 就有很多通用玩法，比如 AMA，Giveaway，Collab 等。\n\n\n\n\n所以基于这些通用场景，利用好 Web3 原生增长平台可以大大提高早期获客效率并减少获客成本，同时配合好社区运营还能相对精准地留存忠诚的种子用户，就是一个字：绝！\n\n\n\n\n\nAARRR 模型\n\n\n\n\n而随着各类 Web3 项目的增加（熊市感觉项目方比用户还多），Web3 Growth 这个赛道涌现出非常多产品，逐渐细化出垂类领域，从用户获取、社区管理、信息提醒、奖励分发、数据分析等多维度都有很多 DApp 可以使用【详见下图】。\n\n\n\n\n\nSource: Twitter@Safaryclub\n\n\n\n\n和项目冷启动相关度最高的是用户获取，正好最近我 LoopX 的项目正在经历冷启动这个过程，所以复盘了我如何用 Web3 原生增长方式实现项目从 0 到 10k 粉丝的过程，同时也希望能给别的项目方做市场的小伙伴一点启发和帮助。\n\n\n\n\n增长路径\n\n\n\n\n在过去一个半月时间内，我按照下图顺序深度使用了 13 个平台，发起了多个活动并记录了 Twitter 粉丝增长的数据，整体呈现阶…",
-          "link": "https://www.theblockbeats.info/news/32650",
-          "publishedOn": "2022-11-22T02:19:12.000Z",
-          "wordCount": null,
-          "title": "Web3冷启动：如何让项目被更多人知道，走向市场？",
           "imageUrl": null
         }
       ]
