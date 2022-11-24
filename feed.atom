@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-24T00:43:45.496Z</updated>
+    <updated>2022-11-24T06:10:38.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[做空Curve、USDT，攻击Mango，Eisenberg何许人也]]></title>
+        <id>https://www.theblockbeats.info/news/32684</id>
+        <link href="https://www.theblockbeats.info/news/32684"/>
+        <updated>2022-11-24T04:19:04.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：Who is Avraham Eisenberg and why is he all over Crypto Twitter?
+原文编译：Leo，BlockBeats
+
+
+11 月 22 日，社区发现有巨鲸正在尝试做空 Curve（CRV），这个显示为 ponzishorter.eth 的地址通过 Aave 抵押借出了大量 CRV 进行抛售，链上链下一起卖，成功让 CRV 价格一路从 0.6 美元跌到了 0.4 美元附近，有数据统计，这个地址一共卖出了 CRV 流通量的 5% 左右。
+
+
+
+
+不过 Curve 团队很快回应，由于仓位价格明确，直接把 CRV 拉到了巨鲸的清算价格，最终巨鲸爆仓，在 Aave 留下了 160 万美元的坏帐。
+
+
+
+
+这不是 ponzishorter 这个地址第一次出现在大家视线中，不久前的 Mango Market 攻击事件的发起方也是这个地址，不仅让 Mango 损失了 1 亿美元，还通过 DAO 攻击让社区目瞪口呆。随后 ponzishorter 还尝试过做空 USDT，不过尚未成功。
+
+
+
+
+连续的攻击和做空事件让 ponzishorter 地址背后控制人、化名为「Avraham Eisenberg」的巨鲸浮出水面。Eisenberg 到底何许人也？BlockBeats 编译了 protos 的一篇关于他的文章如下：
+
+
+
+
+独立调查人员 Chris Brunet 披露了（在攻击发生后不到 24 小时）10 月最大损失之一（Mango Markets 的超 1 亿美元操纵案）的幕后推手真身，发布了一篇指控 Avraham Eisenberg（自称「数字艺术交易商」）的文章，其中包含了一段 Discord 对话的截图——账号 Avraham Eisenberg#5541 讨论了攻击发生前几天的细节。
+
+
+
+
+当另一个用户提示他披露…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messari：DEX市场饱和，Uniswap如何实现另类增长？]]></title>
+        <id>https://www.theblockbeats.info/news/32676</id>
+        <link href="https://www.theblockbeats.info/news/32676"/>
+        <updated>2022-11-24T01:46:04.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Expanding Uniswap&# 39 ;s Addressable Market》
+原文作者：Ashu Pareek、Kentrell Key
+原文编译：Wendy
+
+
+观点提炼
+
+
+为了继续保持目前的增长势头，Uniswap 必须想办法扩大其可触达市场（total addressable market）。
+
+
+Uniswap 已经成功地在 Layer 2 （L 2 ）扩展方案上展开部署，交易量占到了 2022 年第三季度 L 2 DEX（去中心化交易平台）交易量的 65 %。
+
+
+一些项目已经用上了 Uniswap 的软件开发工具包，整合了 Uniswap 协议或增强了其功能。
+
+
+是否开启费用开关（Fee Switch）是 Uniswap 发展的一个大争论。问题是用于增长性投资的新资金池是否会抵消与流动性供应者之间较弱的竞争地位。
+
+
+Uniswap 已经找到了产品与市场的契合点。Uniswap V 3 的发布解决了自动做市商最明显的缺陷——资金效率低下。另一方面，Uniswap 已经成功地饱和了其目前的可触达市场：它是最大的 DEX，累计交易量达 1.3 万亿美元，占以太坊 DEX 交易量的 70 % 以上。
+
+
+困境在于，这种主导地位的出现，正是因为 Uniswap 成功吃到了唾手可得的果实。这意味着继续优化 DEX 并挤压现有市场的增长将不足以继续其目前的轨迹。
+
+
+然而，Uniswap 一直坚持其创新和平易近人的精神，并开始拉动最具挑战性的增长杠杆：扩大其可触达市场。换句话说，就是吸引更多的受众。过去，Uniswap 使用相当直接的方法扩大市场，如 L 2 的部署。同时它也采用了更复杂的策略，比如围绕着资金、补充项目和整合，发展一个强大的生态系统。作为加密货币价值流动的核心，NFT 整合和费用开关等举措的结果将对整个行业产生广泛影响。
+
+
+多…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全事件频发，从Solana躺枪，看未来公链发展格局]]></title>
         <id>https://www.theblockbeats.info/news/32681</id>
@@ -1110,16 +1188,6 @@ Source: Twitter@Safaryclub
 
 
 在过去一个半月时间内，我按照下图顺序深度使用了 13 个平台，发起了多个活动并记录了 Twitter 粉丝增长的数据，整体呈现阶…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简析Aave团队打造的web3社交协议 LensProtocol]]></title>
-        <id>https://www.theblockbeats.info/news/32652</id>
-        <link href="https://www.theblockbeats.info/news/32652"/>
-        <updated>2022-11-21T14:24:01.000Z</updated>
-        <summary type="html"><![CDATA[简析Aave团队打造的web3社交协议 LensProtocol]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>

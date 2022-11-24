@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32684",
+          "author": null,
+          "description": "原文标题：Who is Avraham Eisenberg and why is he all over Crypto Twitter?\n原文编译：Leo，BlockBeats\n\n\n11 月 22 日，社区发现有巨鲸正在尝试做空 Curve（CRV），这个显示为 ponzishorter.eth 的地址通过 Aave 抵押借出了大量 CRV 进行抛售，链上链下一起卖，成功让 CRV 价格一路从 0.6 美元跌到了 0.4 美元附近，有数据统计，这个地址一共卖出了 CRV 流通量的 5% 左右。\n\n\n\n\n不过 Curve 团队很快回应，由于仓位价格明确，直接把 CRV 拉到了巨鲸的清算价格，最终巨鲸爆仓，在 Aave 留下了 160 万美元的坏帐。\n\n\n\n\n这不是 ponzishorter 这个地址第一次出现在大家视线中，不久前的 Mango Market 攻击事件的发起方也是这个地址，不仅让 Mango 损失了 1 亿美元，还通过 DAO 攻击让社区目瞪口呆。随后 ponzishorter 还尝试过做空 USDT，不过尚未成功。\n\n\n\n\n连续的攻击和做空事件让 ponzishorter 地址背后控制人、化名为「Avraham Eisenberg」的巨鲸浮出水面。Eisenberg 到底何许人也？BlockBeats 编译了 protos 的一篇关于他的文章如下：\n\n\n\n\n独立调查人员 Chris Brunet 披露了（在攻击发生后不到 24 小时）10 月最大损失之一（Mango Markets 的超 1 亿美元操纵案）的幕后推手真身，发布了一篇指控 Avraham Eisenberg（自称「数字艺术交易商」）的文章，其中包含了一段 Discord 对话的截图——账号 Avraham Eisenberg#5541 讨论了攻击发生前几天的细节。\n\n\n\n\n当另一个用户提示他披露…",
+          "link": "https://www.theblockbeats.info/news/32684",
+          "publishedOn": "2022-11-24T04:19:04.000Z",
+          "wordCount": null,
+          "title": "做空Curve、USDT，攻击Mango，Eisenberg何许人也",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32676",
+          "author": null,
+          "description": "原文标题：《Expanding Uniswap&# 39 ;s Addressable Market》\n原文作者：Ashu Pareek、Kentrell Key\n原文编译：Wendy\n\n\n观点提炼\n\n\n为了继续保持目前的增长势头，Uniswap 必须想办法扩大其可触达市场（total addressable market）。\n\n\nUniswap 已经成功地在 Layer 2 （L 2 ）扩展方案上展开部署，交易量占到了 2022 年第三季度 L 2 DEX（去中心化交易平台）交易量的 65 %。\n\n\n一些项目已经用上了 Uniswap 的软件开发工具包，整合了 Uniswap 协议或增强了其功能。\n\n\n是否开启费用开关（Fee Switch）是 Uniswap 发展的一个大争论。问题是用于增长性投资的新资金池是否会抵消与流动性供应者之间较弱的竞争地位。\n\n\nUniswap 已经找到了产品与市场的契合点。Uniswap V 3 的发布解决了自动做市商最明显的缺陷——资金效率低下。另一方面，Uniswap 已经成功地饱和了其目前的可触达市场：它是最大的 DEX，累计交易量达 1.3 万亿美元，占以太坊 DEX 交易量的 70 % 以上。\n\n\n困境在于，这种主导地位的出现，正是因为 Uniswap 成功吃到了唾手可得的果实。这意味着继续优化 DEX 并挤压现有市场的增长将不足以继续其目前的轨迹。\n\n\n然而，Uniswap 一直坚持其创新和平易近人的精神，并开始拉动最具挑战性的增长杠杆：扩大其可触达市场。换句话说，就是吸引更多的受众。过去，Uniswap 使用相当直接的方法扩大市场，如 L 2 的部署。同时它也采用了更复杂的策略，比如围绕着资金、补充项目和整合，发展一个强大的生态系统。作为加密货币价值流动的核心，NFT 整合和费用开关等举措的结果将对整个行业产生广泛影响。\n\n\n多…",
+          "link": "https://www.theblockbeats.info/news/32676",
+          "publishedOn": "2022-11-24T01:46:04.000Z",
+          "wordCount": null,
+          "title": "Messari：DEX市场饱和，Uniswap如何实现另类增长？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32681",
           "author": null,
           "description": "原文来源： 0xTree\n\n\n加密行业因构建了「信任」机制备受追捧，也因「信任」问题而陷入危机。\n \n这种信任危机不仅来自系统性风险，还有人为因素。今天分布式资本合伙人沈波个人钱包被盗事件成为行业关注焦点，据沈波发布推特表示，「个人常用 894 结尾钱包，共 42 M 价值资产，其中包含 38 M USDC，在纽约时间 11 月 10 日凌晨被盗。被盗资产为个人资金，与分布式相关基金无关。目前已当地报案，FBI 与律师均已介入。文明与正义终将战胜野蛮与邪恶，这是人类社会的铁律，只是时间问题。」\n \n但这仅仅是行业信任危机的缩影，近期最受关注的非 FTX「信任危机」莫属。\n \nFTX 暴雷引爆了行业雷曼时刻，上百家公司深受牵连，众多建设者信心崩塌，整个加密行业遭受重创。高性能公链 Solana 是最具代表的受害者之一，FTX 暴雷给了本就摇摇欲坠的 Solana 致命一击。\n \nSolana 起初在众多的新兴公链中非常亮眼，曾一度被认为是行业最大的黑马公链，据 OKX 行情显示，Solana 市值最高在公链市值中排行第三，但却因「内忧外患」而摇摇欲坠，一方面源于外部劲敌新公链 Aptos、Sui 持续吸血，开发者和生态项目流失；另外一方面基于网路自身性能和稳定性不足，曾遭遇大规模瘫痪和黑客攻击，内耗严重。期间，Solana 一直试图挽回局面，但还未初见成效，就因 FTX 暴雷而迎来致命一击，FTX 不单是 Solana 生态繁荣背后最大的金主，也是 SOL 的持仓大户，截至 2022 年 6 月 30 日，他们至少持有价值 12 亿美元的 SOL，在 FTX 事件发酵后，SOL 价格暴跌，Solana 市值缩水近 60%，生态流动性走向枯竭。\n \nSolana 躺枪看似偶然，实则有一定的必然性，依靠资金、投机和炒作堆砌起来的新公链，不足以构建护城河，很容易被模仿者取而代之，成…",
@@ -183,16 +203,6 @@
           "publishedOn": "2022-11-22T02:19:12.000Z",
           "wordCount": null,
           "title": "Web3冷启动：如何让项目被更多人知道，走向市场？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32652",
-          "author": null,
-          "description": "简析Aave团队打造的web3社交协议 LensProtocol",
-          "link": "https://www.theblockbeats.info/news/32652",
-          "publishedOn": "2022-11-21T14:24:01.000Z",
-          "wordCount": null,
-          "title": "简析Aave团队打造的web3社交协议 LensProtocol",
           "imageUrl": null
         }
       ]
