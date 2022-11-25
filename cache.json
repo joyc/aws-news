@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32706",
+          "author": null,
+          "description": "原文标题：《AppChain 发展详解，未来还有哪些机会值得关注？》\n原文作者：Dmitriy Berenzon \n原文编译：0xMoonda\n \n过去，区块链应用主要围绕货币与金融领域展开。然而近几年，相较于其它品类，艺术、游戏与音乐等领域的区块链应用数量激增。同时，用户数量呈超线性增长，为底层基础设施带来不小的压力，降低了终端用户体验。因此，应用需要更加宽泛的自定义空间以及更强大的业务模型来满足自身的发展需要。\n \n为解决这些问题，基于特定应用的区块链（亦称 AppChain）逐渐进入视野。简单来说，AppChain 是指将区块空间专门用于特定应用的区块链。构建在 AppChain 上的应用程序可以自定义其堆栈的不同层，如安全模型、费用Token以及写入权限等。\n \n其实，AppChain 并非一个新概念。比特币网络即可被视为「数字黄金」的专用区块链；同理，Arweave 也可以被看作是用作永久储存的应用链。也就是说，AppChain 的设计不仅包含单片区块链（如 Osmosis），还包括处理应用状态转换的模块化执行层（如 Rollups，Sidechains，Plasma），最终依赖于单独结算或共识层来完成。\n \n事实上「Layer」（如 L2、L3 等）在大多数情况下是指信任成本最低的区块链，同时这种区块链兼具最低双向信任成本的衔接桥属性。\n \n\nL3 仍处于研究阶段，但理论上通过递归零知识证明是可以实现的\n \nAppChain 的历史\n\n\n经过多年演变，区块链才发展出可供开发人员使用的 AppChain 底层基础设施。即便 Cosmos 和 Polkadot 早在 2016 年就开始推广这一概念，但到了 2021 年初才付诸实践（即 IBC 与平行链）。在可扩展性方面，链上应用对以太坊的区块空间需求不断增加。2020 年底，以太坊的超高交易费用使开发人员意识到寻找…",
+          "link": "https://www.theblockbeats.info/news/32706",
+          "publishedOn": "2022-11-25T14:53:41.000Z",
+          "wordCount": null,
+          "title": "AppChain发展详解，未来还有哪些机会值得关注？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32702",
+          "author": null,
+          "description": "原文标题：《新兴 Web3 游戏是否会成为 GameFi 的庞氏破局者？》\n原文作者：0xMoonda\n \nGameFi 市场现状\n\n\n进入 2022 年，链游作为加密市场的细分领域，受宏观经济环境以及 DeFi 黑天鹅事件影响，截止至目前项目市值下跌超 80%。继现象级项目 STEPN 热度过后，市场维持存量活动，游戏总量稳定在 2000 余款，独立活跃钱包数量在 100 万左右，NFT 交易额约为 5 亿美元。以太链的游戏 NFT 数量占据过半市场份额，约为 60%，其它公链如 Solana、Polygon 及二层协议 Immutable X 不断发展，市场份额不断扩大，呈现追赶之势。\n \n\n \n从融资角度看，GameFi 在 2022 年 Q1 的融资总额为 11.26 亿美元，同比上升 194.19%；受 STEPN 影响游戏在 Q2 成为最受资本追捧赛道，融资金额大幅上升，高达 29.96 亿美元；随着 DeFi 的连环清算，加密市场融资陷入冷静期，GameFi 在 Q3 的融资额仅为 9.63 亿美元。在不断迭代的过程中链游赛道发展日趋成熟，细化出垂直媒体、投资公司、基础设施、游戏工会、孵化器等子方向。\n \nGameFi 面临的困境\n \n·融资规模与专业人才不足\n\n\n依据 F2P 在移动端的发展经验，假设一个游戏制作团队如期交付产品，开发与运营步入正轨，在 pre-seed 轮次至少需要 300 万美元的融资。其中 50%-60% 的资金用于研发，通常是 10 人左右的规模，开发周期一般持续 18 至 24 个月；余下的资金用于获客，若进展顺利且玩家留存数据可观，创始人有机会开始新一轮融资。在此过程中，团队会遇到各种困难，实际大多以失败告终。而 Web3 游戏的开发在此基础上叠加了其它挑战 ---- 起步融资难、专业人才缺失、开发周期由于使用智能合约变得更加漫长…",
+          "link": "https://www.theblockbeats.info/news/32702",
+          "publishedOn": "2022-11-25T12:53:41.000Z",
+          "wordCount": null,
+          "title": "新兴Web3游戏是否能使GameFi的困境破局？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32710",
           "author": null,
           "description": "原文作者：Leo\n\n\n近日，以太坊基础设施开发商 Consensys 更新了其隐私政策，声明当用户使用 Infura 作为默认 RPC 进行交易时，将收集他们的 IP 和 eth 地址。\n\n\n\n\nConsensys 这一类似于「Web 2」的举动引发了用户对加密中个人数据的担忧，用户大多表示：「在 Web 3 的世界里，我们要确保在交易时没有泄露 IP 和 以太坊地址，保护好自己的隐私，建议更换 RPC。」\n\n\n\n\nInfura 这一举动当然不妥，但其他 RPC 提供商呢？\n\n\n\n\nBlockBeats 整理了几个易操作的第三方 RPC 提供商，根据网站公开文件显示，我们发现行业很多基础设施开发商也会收集用户数据。收集用户，似乎成了这些 RPC 提供商的潜规则。以下为收集用户数据的 RPC 提供商：\n\n\n\n\nAlchemy\n\n\n\n\nAlchemy 是一款被广泛使用的 blockchain API。Alchemy 的超级节点服务被 Ethereum, Polygon, Arbitrum, Optimism, Flow 和 Crypto.org 所采用。该服务提供了广泛的 API 支持，让开发者可方便的通过一个节点获得多种功能，包括 JSON-RPC 支持，同时提供了在区块链上运行世界级应用程序所需的强大的可靠性、数据正确性和弹性。\n\n\n\n\n\n文件显示：「当您使用我们的服务时，我们可能会自动收集某些信息，例如您的 IP 地址、用户设置、MAC 地址、cookie 标识符、移动运营商、移动广告和其他唯一标识符浏览器或设备信息、位置信息（包括 IP 地址的大概位置）以及互联网服务提供商。我们还可能会自动收集有关您使用我们服务的信息，例如您在使用我们服务之前、之后访问的页面、您点击的链接信息、您互动的内容类型、您活动的频率和持续时间，以及有关您如何使用我们服务的其他信息。」\n\n\nMo…",
@@ -163,56 +183,6 @@
           "publishedOn": "2022-11-23T09:19:28.000Z",
           "wordCount": null,
           "title": "Hooked Protocol为什么会成为Binance最新一期Launchpad？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32672",
-          "author": null,
-          "description": "原文来源：比推 BitpushNews\n原文作者：Mary Liu\n\n\n当地时间 11 月 22 日周二，FTX 的首次破产听证会在美国特拉华州举行，法官简述了 FTX 的崛起和衰落，以及该公司在短短两周内崩溃的时间线。FTX 律师强调，除了实施正确的公司控制、透明度和调查之外，资产保护和恢复是 FTX 现在最重要的核心目标之一。以下为关键要点：\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n律师透露「大量」FTX 资产被盗或丢失；现金余额合计 12.4 亿美元；债权人达数百万名\nFTX 顾问一直在与司法部和纽约南区网络犯罪部门保持沟通，该部门已对 FTX 展开刑事调查\nFTX 前 50 名债权人的身份信息暂时保密；下一次听证会定于 12 月 16 日举行\n美国众议院和参议院已要求新任 FTX 首席执行官 John J. Ray III 在 12 月的某个时候作证\n\n「美国企业乃至全球企业历史上最突然、最艰难的崩溃之一」\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFTX 新管理层新任命的法律顾问、知名律所 Sullivan & Cromwell 合伙人 James Bromley 将 FTX 的倒闭描述为「美国企业历史、全球企业实体历史上最突然和最艰难的崩溃之一」，并将 FTX 的帝国形容为「前 CEO Sam Bankman-Fried（SBF）的个人领地」\n\n\n\n。\n\n\n\n\n\n\n今年早些时候，FTX 的估值达到 320 亿美元，而 SBF 在加密熊市期间一度将自己打造成为行业的「白衣骑士」。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n律师表示：「FTX 的情况是这个领域最新和最大的失败，在其国际交易所以及美国交易所方面，实际上都发生了银行挤兑。在挤兑发生的同时，出现了领导层危机…FTX 公司由极少数人控制，由 Sam-Bankman-Fried 领导，管理层出现了很大问题，导致其辞职」。…",
-          "link": "https://www.theblockbeats.info/news/32672",
-          "publishedOn": "2022-11-23T03:50:08.000Z",
-          "wordCount": null,
-          "title": "FTX首场破产听证会要点：现金余额12.4亿美元；债权人达数百万名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32671",
-          "author": null,
-          "description": "撰文：LeftOfCenter\n\n\nBlockBeats 此前曾发布《Forward Protocol：在 NFT 版税之争中找到最优解》一文，其中提到了 Forward 协议在无需废除 NFT 版权费的情况下激励 LP 做市行为，解决目前 NFT 市场流动性不足和价格发现困难的难题，最终为 NFT 藏家提供 NFT 自动售货机式的用户体验。\n \n废除 NFT 版权费这个摩擦成本，某种程度上可以说是从经济上激励 NFT 做市行为，然而，除此之外 Forward 协议还从底层开发者工具和更大的系统层面为 NFT 做市商提供更多的好处和便利性，进一步来说，是 Forward 协议所在的底层协议 Reservoir Protocol 想要实现的远大图景：即实现「民主化 NFT 流动性，通过开源的链上 NFT 订单聚合支持下一代 NFT 产品开发和流动性来源」。\n \n实际上，Forward 协议是 Reservoir 团队官方出品的一个新的协议产品，本文试图梳理 Forward 协议所在之底层协议 Reservoir Protocol 的业务逻辑，以及如何从整体视角下看待 Reservoir 协议将 NFT 二级市场、做市商、买家、应用开发者、交易者等多个参与方纳入到这个日益庞大的生态系统中。\n \n \nReservoir 和 Forward 协议在业务层面上的关系\n根据 Forward 协议官方文档，Forward 协议创建于 Reservoir 协议之上，做市商可使用 Reservoir 提供的一套专用的 API 和 SDK 工具与 Forward Protocol 实现轻松交互，创建 NFT 买卖订单薄。而对于那些有有更复杂做市模型数据需求的用户，可使用 Reservoir Data API ，以及使用 Reservoir 进行程序化交易 的文档。另一方面，在 Forward …",
-          "link": "https://www.theblockbeats.info/news/32671",
-          "publishedOn": "2022-11-23T03:42:08.000Z",
-          "wordCount": null,
-          "title": "Reservoir Protocol：解决NFT市场流动性问题的全新底层协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32658",
-          "author": null,
-          "description": "原文来源：Bankless\n原文作者：Jack Inabinet\n原文编译：0x214、0x711、Kxp，BlockBeats\n\n\n\n\n\nFTX 崩盘余波的威慑力不减，导致加密借贷平台 Genesis 陷入一连串的市场质疑之中，Bankless 作者 Jack Inabinet 发表文章梳理事件始末，Genesis、Grayscale 和 DCG 之间是什么关系？竟然和三箭资本存在「可疑关联」？Genesis 的风险来源是什么？事件将如何发酵？BlockBeats 对其整理翻译如下：\n\n\nGenesis，连你也这样？\n\n\n\n\n\n\n\n\n\n\n上周，Genesis 旗下专注服务于机构客户群体的贷款部门 Genesis Global Capital 暂停了赎回和新贷款发放服务。\n\n\n\n\n随后，推特上关于 Genesis 即将破产的谣言开始漫天四起。\n\n\n\n\nGenesis 作为加密市场中唯一提供全方位服务的主要经纪业务公司，其偿付能力受到质疑。然而，Genesis 并不是唯一遭遇危机的机构，比特币信托产品 GBTC 的资产情况也受到了类似的质疑。此前其发行商 Grayscale 表示不会分享其储备审计证明，理由是出于「安全问题」考虑。\n\n\n\n\n\n\n\nGenesis 和 Grayscale 有什么共同点？\n\n\n\n\n首先，他们都是加密公司 Digital Currency Group (DCG) 的子公司。\n\n\n\n\n有传言称，DCG 在上周向 Genesis注入 1.4 亿美元新资金后，其流动性已经几乎耗尽。此前由于 Genesis 的贷款部门在 FTX 账户中的 1.75 亿美元无法提款，随之引发 Genesis 宣布停止赎回和新贷款发放服务。\n\n\n\n\n这些消息让加密用户都迫切地想知道：这事儿还能糟糕到什么地步？\n\n\n\n\n今天我们终于有了答案：Genesis 确实濒临破产.....…",
-          "link": "https://www.theblockbeats.info/news/32658",
-          "publishedOn": "2022-11-23T03:29:36.000Z",
-          "wordCount": null,
-          "title": "Bankless：Genesis岌岌可危",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32670",
-          "author": null,
-          "description": "原文标题：《RogueBlox Alpha Test Campaign》\n原文作者：OpenBlox\n原文编译：Noc，BlockBeats\n\n\n各位 RogueBlox 用户你们好，感谢各位耐心等待，RogueBlox Alpha Test 即将上线！\n\n\n\n\n随着 Alpha 测试游戏的发布，还将推出一个特定的网站，每个用户都将有机会探索 #BloxVerse 和游戏的所有细节。大家也可以在网站上申请 RogueBlox Alpha 测试资格。请查阅：https://rogueblox.io/\n\n\n\n\nRogueBlox 决定在前几周限制 Alpha 测试资格数量以测试游戏错误报告。我们希望能在未来将其推广到更大的用户群，但小范围用户群将使我们能够更快地进行测试和版本迭代。我们希望确保为公共用户群提供最好的最终产品，为实现这一目标，我们需要您的努力。\n\n\n\n\n如何申请 Alpha 测试资格\n\n\n许多用户可能在之前的活动中有过 Beta 测试资格。那些拥有 Beta 测试资格的人将有更大概率参与 Alpha 测试活动。\n\n\n没有 Beta 测试资格的 RogueBlox 用户，请不要气馁。官方将提供更多参与方式！需完成以下任务才有资格获得 Alpha 资格：\n\n\n· 点赞并转发\n· 标记 @ 5 个朋友（他们还需要关注 @OpenBlox 和 @RogueBlox）\n· 加入Discord和Telegram群组\n· 添加标签：#RogueBlox #OpenBlox\n· 访问RogueBlox 网站并单击 <Alpha 测试>，即可可以加入 RogueBlox Alpha 测试候补名单。\n\n\n完成任务的人将进入候补名单，并会选出一定数量的测试人员。公告将在 RogueBlox 社区中发布，因此请确保您是 RogueBlox Discord 的活跃成员。\n\n\n成为 Alph…",
-          "link": "https://www.theblockbeats.info/news/32670",
-          "publishedOn": "2022-11-23T03:29:08.000Z",
-          "wordCount": null,
-          "title": "RogueBlox Alpha游戏测试即将开启",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32669",
-          "author": null,
-          "description": "原文作者：DCG CEO Barry Silbert\n原文编译：吴说 Real\n\n\n亲爱的股东们，在过去的一周里有很多的噪音，我想直接与你们沟通，澄清我们 DCG 的立场。\n\n\n\n\n大多数人都知道 Genesis 的情况，但我们先回顾一下: Genesis Global Capital 的贷款业务在上周三（11 月 16 日）暂停了赎回和新贷款发放，此前市场动荡引发了前所未有的撤资请求。这是 Genesis 贷款账簿上流动性和存续期不匹配的问题。重要的是，这些问题不会影响 Genesis 的现货和衍生品交易或托管业务，这些业务将照常运营。Genesis 的领导层和董事会决定聘请财务和法律顾问，公司正在探索所有可能的选择，以应对 FTX 的崩溃。\n\n\n\n\n最近几天，有关 Genesis Global Capital 和 DCG 之间的公司间贷款的传言不断。对于那些不知情的人来说，在正常的业务过程中，DCG 向 Genesis Global Capital 借款，与数百家加密货币投资公司借款的方式相同。这些贷款总是在公平的基础上构建的，并按当时的市场利率定价。DCG 目前对 Genesis Global Capital 负有约 5.75 亿美元的债务，该债务将于 2023 年 5 月到期。这些贷款用于为投资机会提供资金，并用于从非雇员股东手中回购 DCG 股票，这些交易是在季度股东更新中强调的。直到今天，我从未卖出过我的 DCG 股票。\n\n\n\n\n你可能还记得，有一张 11 亿美元的本票将于 2032 年 6 月到期。正如我们在 2022 年 8 月的上一封股东信中所述，DCG 介入并承担了 Genesis 与 3AC 违约相关的某些责任。如 8 月所述，由于这些现在是 DCG 的负债，DCG 正在债权人委员会上参加 3AC 的清算程序，并正在为债权人的利益寻求所有可用的补救措施来收回资产。除了 2023 年 5 月到期的 Genesis Global Capital 公司间贷款和长期本票，DCG 唯一的债务是一笔 3.5 亿美元的信贷安排，来自以 Eldridge 为首的一小群债权人。\n\n\n\n\n这么说吧：DCG 将继续是行业的领先建设者，我们致力于加快发展更好的金融体系这一长期使命。我们已经经受住了以前的秘密冬天，虽然这次可能感觉更严峻，但我们将共同走出它，变得更强大。DCG 只筹集了 2500 万美元的初级资本，而我们今年的营收有望达到 8 亿美元。\n\n\n\n\n十年前的 2012 年，我买了第一个比特币，并决定长期投入这个行业。2013 年，我们成立了第一家比特币交易公司 Genesis 和第一家比特币基金，后来发展成为 Grayscale，现在是世界上最大的数字货币资产管理公司。Foundry 运营着世界上最大的比特币挖矿池，并正在建设未来的去中心化基础设施。CoinDesk 是业内首屈一指的媒体、数据和活动公司，他们在这个加密冬天做了惊人的报道。Luno 是世界上最受欢迎的加密钱包之一，也是新兴市场的行业领导者。tradedeblock 正在打造一个无缝的机构交易平台，HQ 作为最新的子公司，正在为数字资产企业家建立一个生活和财富管理平台。这些子公司都是独立的业务，独立管理，照常运营。最后，我们的投资组合中有 200 多家公司和基金，我们经常是行业内最好的创始人的首选。\n\n\n\n\n我们感谢您的鼓励和支持，以及对 DCG 的投资意向。如果我们决定进行一轮融资，我们会通知你的。\n\n\n\n\n尽管行业环境困难，但我对加密货币和区块链技术在未来几十年的潜力一如既往地感到兴奋，DCG 决心保持在前沿。\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32669",
-          "publishedOn": "2022-11-23T03:13:08.000Z",
-          "wordCount": null,
-          "title": "DCG CEO至股东信（全文）",
           "imageUrl": null
         }
       ]
