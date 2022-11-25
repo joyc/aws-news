@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32695",
+          "author": null,
+          "description": "原文标题：《Solidity 极简入门: 32. Token水龙头》\n原文作者： 0xAA   \n\n\n\n我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。\n\n\n所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity\n\n\n我们在第 31 讲学习了 ERC20 Token标准。这一讲，我们将学习 ERC20 水龙头的智能合约。在这个合约中，用户可以领到免费的 ERC20 Token。\n\n\nToken水龙头\n\n\n当人渴的时候，就要去水龙头接水；当人想要免费Token的时候，就要去Token水龙头领。Token水龙头就是让用户免费领Token的网站/应用。\n\n\n最早的Token水龙头是比特币（BTC）水龙头：现在 BTC 一枚要$30,000，但是在 2010 年，BTC 的价格只有不到$0.1，并且持有人很少。为了扩大影响力，比特币社区的 Gavin Andresen 开发了 BTC 水龙头，让别人可以免费领 BTC。撸羊毛大家都喜欢，当时就有很多人去撸，一部分变为了 BTC 的信徒。BTC 水龙头一共送出了超过 19,700 枚 BTC，现在价值约 6 亿美元！\n\n\nERC20 水龙头合约\n\n\n这里，我们实现一个简版的 ERC20 水龙头，逻辑非常简单：我们将一些 ERC20 Token转到水龙头合约里，用户可以通过合约的 requestToken() 函数来领取 100 单位的Token，每个地址只能领一次。\n\n\n状态变量\n\n\n我们在水龙头合约中定义 3 个状态变量\n\n\namountAllowed 设定每次能领取Token数量（默认为 100。不是一百枚，因为Token有小数位数）。\ntokenContract 记录发放的 ERC20 Token合约地址。\nrequestedAddress 记录领取过Token的地址。  \n\n\n\n\n\n事件\n\n\n水龙头合约中定义了 1 个 SendToken 事件，记录了每次领取Token的地址和数量，在 requestTokens() 函数被调用时释放。\n\n\n\n\n\n函数\n\n\n合约中只有两个函数：\n\n\n构造函数：初始化 tokenContract 状态变量，确定发放的 ERC20 Token地址。  \n\n\n\nrequestTokens() 函数，用户调用它可以领取 ERC20 Token。\n\n\nRemix 演示\n\n\n1 首先，部署 ERC20 Token合约，并给自己 mint 10000 单位Token。\n\n\n\n部署`ERC20`\n\n\n2 部署 Faucet 水龙头合约，初始化的参数填上面 ERC20 Token的合约地址。\n\n\n\n部署水龙头合约\n\n\n\n\n\n\n\n3 利用 ERC20 Token合约的 trasnfer() 函数，将 10000 单位Token转账到 Faucet 合约地址。\n\n\n\n给水龙头转账\n\n\n4 换一个新账户，调用 Faucet 合约 requestTokens() 函数，领取Token。可以在终端看到 SendToken 事件被释放。\n\n\n\n领取Token\n\n\n5 在 ERC20 Token合约上利用 balanceOf 查询账户余额，可以看到余额变为 100，领取成功！\n\n\n\n领取成功\n\n\n总结\n\n\n这一讲，我们介绍了Token水龙头的历史和 ERC20 水龙头合约。大家觉得下一个 BTC 水龙头会在哪里？\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32695",
+          "publishedOn": "2022-11-25T02:29:36.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第三十二讲：Token水龙头",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32692",
           "author": null,
           "description": "原文标题：《Pantera Capital: 预测 2024 年减半时的比特币价格》\n原文编译：GaryMa 吴说区块链\n\n\n\nFTX 相关更新\n\n\n我们想提供一个关于 FTX 情况的更新，以及它是如何影响我们的。总结一下，本月，FTX 和 Alameda Research 以 FTT Token为抵押进行了过度举债。截至今天上午，两家公司都已申请破产。总的损失尚不清楚，但网上估计损失高达几十亿美元。FTX 交易平台内的用户存款也被大幅折价交易。这可能意味着那些在 FTX 上有资金的人损失了大部分资金。\n\n\n一般来说，我们处理这些情况的方法首先关注尽可能多地保护投资组合。然后，一旦我们采取了所有可能的措施，我们就可以更新我们的有限合伙人关于我们做了什么以及我们的基金的情况。但最重要的是，我们的目标是降低永久性资本损失的风险。受此消息影响，市场大幅下跌，这将在我们的业绩中体现出来，但当市场反弹时，我们预计也会如此。在这种情况下，我们主要要避免的是资产的永久流失。\n\n\n我们的做法是，在保持一定的交易灵活性的同时，总体上减少对中心化交易对手方的敞口。我们在 FTX 事件中的主要风险/损失来自于我们的 Blockfolio 收购收益，这些收益是以 FTT 和 FTX 股票计价的。我们在 11 月 8 日星期二尽可能地清算了 FTT。在崩溃之前，周一晚上，我们的 FTX 股票和 FTT \n\nToken\n\n头寸总计不到我们公司总资产管理规模的 3%。\n\n\n周二上午 FTX/Alameda 陷入困境的消息发布后，我们的团队立即组建了一个虚拟作战室，评估对我们早期投资组合的影响，并采取行动。我们的目标是 1) 识别我们的投资组合团队可能面临的潜在风险；2) 直接接触有风险的团队，提供我们所能提供的任何帮助。\n\n\n我们已经在我们行业类似的压力环境中进行了这项测试（例如，3AC 破产，2018…",
@@ -136,6 +146,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theblockbeats.info/news/32658",
+          "author": null,
+          "description": "原文来源：Bankless\n原文作者：Jack Inabinet\n原文编译：0x214、0x711、Kxp，BlockBeats\n\n\n\n\n\nFTX 崩盘余波的威慑力不减，导致加密借贷平台 Genesis 陷入一连串的市场质疑之中，Bankless 作者 Jack Inabinet 发表文章梳理事件始末，Genesis、Grayscale 和 DCG 之间是什么关系？竟然和三箭资本存在「可疑关联」？Genesis 的风险来源是什么？事件将如何发酵？BlockBeats 对其整理翻译如下：\n\n\nGenesis，连你也这样？\n\n\n\n\n\n\n\n\n\n\n上周，Genesis 旗下专注服务于机构客户群体的贷款部门 Genesis Global Capital 暂停了赎回和新贷款发放服务。\n\n\n\n\n随后，推特上关于 Genesis 即将破产的谣言开始漫天四起。\n\n\n\n\nGenesis 作为加密市场中唯一提供全方位服务的主要经纪业务公司，其偿付能力受到质疑。然而，Genesis 并不是唯一遭遇危机的机构，比特币信托产品 GBTC 的资产情况也受到了类似的质疑。此前其发行商 Grayscale 表示不会分享其储备审计证明，理由是出于「安全问题」考虑。\n\n\n\n\n\n\n\nGenesis 和 Grayscale 有什么共同点？\n\n\n\n\n首先，他们都是加密公司 Digital Currency Group (DCG) 的子公司。\n\n\n\n\n有传言称，DCG 在上周向 Genesis注入 1.4 亿美元新资金后，其流动性已经几乎耗尽。此前由于 Genesis 的贷款部门在 FTX 账户中的 1.75 亿美元无法提款，随之引发 Genesis 宣布停止赎回和新贷款发放服务。\n\n\n\n\n这些消息让加密用户都迫切地想知道：这事儿还能糟糕到什么地步？\n\n\n\n\n今天我们终于有了答案：Genesis 确实濒临破产.....…",
+          "link": "https://www.theblockbeats.info/news/32658",
+          "publishedOn": "2022-11-23T03:29:36.000Z",
+          "wordCount": null,
+          "title": "Bankless：Genesis岌岌可危",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32670",
           "author": null,
           "description": "原文标题：《RogueBlox Alpha Test Campaign》\n原文作者：OpenBlox\n原文编译：Noc，BlockBeats\n\n\n各位 RogueBlox 用户你们好，感谢各位耐心等待，RogueBlox Alpha Test 即将上线！\n\n\n\n\n随着 Alpha 测试游戏的发布，还将推出一个特定的网站，每个用户都将有机会探索 #BloxVerse 和游戏的所有细节。大家也可以在网站上申请 RogueBlox Alpha 测试资格。请查阅：https://rogueblox.io/\n\n\n\n\nRogueBlox 决定在前几周限制 Alpha 测试资格数量以测试游戏错误报告。我们希望能在未来将其推广到更大的用户群，但小范围用户群将使我们能够更快地进行测试和版本迭代。我们希望确保为公共用户群提供最好的最终产品，为实现这一目标，我们需要您的努力。\n\n\n\n\n如何申请 Alpha 测试资格\n\n\n许多用户可能在之前的活动中有过 Beta 测试资格。那些拥有 Beta 测试资格的人将有更大概率参与 Alpha 测试活动。\n\n\n没有 Beta 测试资格的 RogueBlox 用户，请不要气馁。官方将提供更多参与方式！需完成以下任务才有资格获得 Alpha 资格：\n\n\n· 点赞并转发\n· 标记 @ 5 个朋友（他们还需要关注 @OpenBlox 和 @RogueBlox）\n· 加入Discord和Telegram群组\n· 添加标签：#RogueBlox #OpenBlox\n· 访问RogueBlox 网站并单击 <Alpha 测试>，即可可以加入 RogueBlox Alpha 测试候补名单。\n\n\n完成任务的人将进入候补名单，并会选出一定数量的测试人员。公告将在 RogueBlox 社区中发布，因此请确保您是 RogueBlox Discord 的活跃成员。\n\n\n成为 Alph…",
@@ -153,16 +173,6 @@
           "publishedOn": "2022-11-23T03:13:08.000Z",
           "wordCount": null,
           "title": "DCG CEO至股东信（全文）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32662",
-          "author": null,
-          "description": "原文标题：《Gitcoin 女巫检测方案 Top1 解读及思考》\n原文作者：berwinYes\n\n\nGITCOIN 在两个月前举办了 OpenData 社区黑客马拉松！其中公布了三个重点领域，分别是：\n\n\n女巫检测、捐款激励措施优化分析、Dune 高效分析，其结果也于近日公布。\n\n\n相信大家最关心的应该是女巫问题，因为今年在 OP 和 APT 的刺激下，出现了人人羡慕撸毛党，人人皆是撸毛党的盛况。\n\n\n今天对女巫检测的第一名开源方案结合自身理解，进行技术向的解读，并在文末给出自己对于女巫检测的一些个人思考。相信看完这篇文章，无论是项目方还是交互者都能有所收获。\n\n\n注：本文不代表官方观点，仅为个人兴趣解读。\n\n\n剧透，本文较长，涉及很多技术分析，没耐心的可以直接跳转文末浏览本文总结与个人思考。\n\n\n\n\n\n\n由于出题者是 gitcoin，其主要交互场景为捐赠。但内在逻辑在其他的场景下同样适用 (transfer、mint 等动作)，以下将与项目方进行交互的操作统称为项目交互。\n\n\n方案一：批量转移和交互\n\n\n女巫攻击本质上是用户将资金分散到多个地址，操纵这些地址与项目方合约进行交互的过程。\n\n\n那么在这个过程中则可以将整个过程拆分两个部分，分别是 批量资金转移和合约批量交互。\n\n\n\n\n\n\n1.1 批量转账检测\n\n\n选择数据\n\n\n批量转账最简单的就是通过智能合约的方式进行，因为节约 gas 费用。所以作者利用工具提取与项目方合约有过关联且链上具有批量转账操作的 tx_hash。\n\n\n设计指标\n\n\n\n\n\n\n风险计算\n\n\n作者采集了 18926 个贡献者地址与批量转账有关。将风险性压缩到 0-13 分，经过分析归纳得到\n\n\n\n\n\n\n辅助判断手段\n\n\n1、如果一个地址使用以下 dapp，即使分数不高，也应该注意，是 sybil 的一个重要信号。\n\n\n\n\n\n\n2、交互地址在其他平台存在…",
-          "link": "https://www.theblockbeats.info/news/32662",
-          "publishedOn": "2022-11-22T14:58:19.000Z",
-          "wordCount": null,
-          "title": "Gitcoin女巫检测方案Top1解读及思考",
           "imageUrl": null
         }
       ]

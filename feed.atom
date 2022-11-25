@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-25T00:40:24.982Z</updated>
+    <updated>2022-11-25T06:10:47.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第三十二讲：Token水龙头]]></title>
+        <id>https://www.theblockbeats.info/news/32695</id>
+        <link href="https://www.theblockbeats.info/news/32695"/>
+        <updated>2022-11-25T02:29:36.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Solidity 极简入门: 32. Token水龙头》
+原文作者： 0xAA   
+
+
+
+我最近在重新学 solidity，巩固一下细节，也写一个「Solidity 极简入门」，供小白们使用（编程大佬可以另找教程），每周更新 1-3 讲。
+
+
+所有代码和教程开源在 github： github.com/AmazingAng/WTFSolidity
+
+
+我们在第 31 讲学习了 ERC20 Token标准。这一讲，我们将学习 ERC20 水龙头的智能合约。在这个合约中，用户可以领到免费的 ERC20 Token。
+
+
+Token水龙头
+
+
+当人渴的时候，就要去水龙头接水；当人想要免费Token的时候，就要去Token水龙头领。Token水龙头就是让用户免费领Token的网站/应用。
+
+
+最早的Token水龙头是比特币（BTC）水龙头：现在 BTC 一枚要$30,000，但是在 2010 年，BTC 的价格只有不到$0.1，并且持有人很少。为了扩大影响力，比特币社区的 Gavin Andresen 开发了 BTC 水龙头，让别人可以免费领 BTC。撸羊毛大家都喜欢，当时就有很多人去撸，一部分变为了 BTC 的信徒。BTC 水龙头一共送出了超过 19,700 枚 BTC，现在价值约 6 亿美元！
+
+
+ERC20 水龙头合约
+
+
+这里，我们实现一个简版的 ERC20 水龙头，逻辑非常简单：我们将一些 ERC20 Token转到水龙头合约里，用户可以通过合约的 requestToken() 函数来领取 100 单位的Token，每个地址只能领一次。
+
+
+状态变量
+
+
+我们在水龙头合约中定义 3 个状态变量
+
+
+amountAllowed 设定每次能领取Token数量（默认为 100。不是一百枚，因为Token有小数位数）。
+tokenContract 记录发放的 ERC20 Token合约地址。
+requestedAddress 记录领取过Token的地址。  
+
+
+
+
+
+事件
+
+
+水龙头合约中定义了 1 个 SendToken 事件，记录了每次领取Token的地址和数量，在 requestTokens() 函数被调用时释放。
+
+
+
+
+
+函数
+
+
+合约中只有两个函数：
+
+
+构造函数：初始化 tokenContract 状态变量，确定发放的 ERC20 Token地址。  
+
+
+
+requestTokens() 函数，用户调用它可以领取 ERC20 Token。
+
+
+Remix 演示
+
+
+1 首先，部署 ERC20 Token合约，并给自己 mint 10000 单位Token。
+
+
+
+部署`ERC20`
+
+
+2 部署 Faucet 水龙头合约，初始化的参数填上面 ERC20 Token的合约地址。
+
+
+
+部署水龙头合约
+
+
+
+
+
+
+
+3 利用 ERC20 Token合约的 trasnfer() 函数，将 10000 单位Token转账到 Faucet 合约地址。
+
+
+
+给水龙头转账
+
+
+4 换一个新账户，调用 Faucet 合约 requestTokens() 函数，领取Token。可以在终端看到 SendToken 事件被释放。
+
+
+
+领取Token
+
+
+5 在 ERC20 Token合约上利用 balanceOf 查询账户余额，可以看到余额变为 100，领取成功！
+
+
+
+领取成功
+
+
+总结
+
+
+这一讲，我们介绍了Token水龙头的历史和 ERC20 水龙头合约。大家觉得下一个 BTC 水龙头会在哪里？
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pantera Capital: 2024年比特币减半周期走势预测及展望]]></title>
         <id>https://www.theblockbeats.info/news/32692</id>
@@ -759,6 +885,76 @@ Reservoir 和 Forward 协议在业务层面上的关系
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bankless：Genesis岌岌可危]]></title>
+        <id>https://www.theblockbeats.info/news/32658</id>
+        <link href="https://www.theblockbeats.info/news/32658"/>
+        <updated>2022-11-23T03:29:36.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Bankless
+原文作者：Jack Inabinet
+原文编译：0x214、0x711、Kxp，BlockBeats
+
+
+
+
+
+FTX 崩盘余波的威慑力不减，导致加密借贷平台 Genesis 陷入一连串的市场质疑之中，Bankless 作者 Jack Inabinet 发表文章梳理事件始末，Genesis、Grayscale 和 DCG 之间是什么关系？竟然和三箭资本存在「可疑关联」？Genesis 的风险来源是什么？事件将如何发酵？BlockBeats 对其整理翻译如下：
+
+
+Genesis，连你也这样？
+
+
+
+
+
+
+
+
+
+
+上周，Genesis 旗下专注服务于机构客户群体的贷款部门 Genesis Global Capital 暂停了赎回和新贷款发放服务。
+
+
+
+
+随后，推特上关于 Genesis 即将破产的谣言开始漫天四起。
+
+
+
+
+Genesis 作为加密市场中唯一提供全方位服务的主要经纪业务公司，其偿付能力受到质疑。然而，Genesis 并不是唯一遭遇危机的机构，比特币信托产品 GBTC 的资产情况也受到了类似的质疑。此前其发行商 Grayscale 表示不会分享其储备审计证明，理由是出于「安全问题」考虑。
+
+
+
+
+
+
+
+Genesis 和 Grayscale 有什么共同点？
+
+
+
+
+首先，他们都是加密公司 Digital Currency Group (DCG) 的子公司。
+
+
+
+
+有传言称，DCG 在上周向 Genesis注入 1.4 亿美元新资金后，其流动性已经几乎耗尽。此前由于 Genesis 的贷款部门在 FTX 账户中的 1.75 亿美元无法提款，随之引发 Genesis 宣布停止赎回和新贷款发放服务。
+
+
+
+
+这些消息让加密用户都迫切地想知道：这事儿还能糟糕到什么地步？
+
+
+
+
+今天我们终于有了答案：Genesis 确实濒临破产.....…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RogueBlox Alpha游戏测试即将开启]]></title>
         <id>https://www.theblockbeats.info/news/32670</id>
         <link href="https://www.theblockbeats.info/news/32670"/>
@@ -859,94 +1055,6 @@ RogueBlox 决定在前几周限制 Alpha 测试资格数量以测试游戏错误
 原文链接
 
 律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitcoin女巫检测方案Top1解读及思考]]></title>
-        <id>https://www.theblockbeats.info/news/32662</id>
-        <link href="https://www.theblockbeats.info/news/32662"/>
-        <updated>2022-11-22T14:58:19.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Gitcoin 女巫检测方案 Top1 解读及思考》
-原文作者：berwinYes
-
-
-GITCOIN 在两个月前举办了 OpenData 社区黑客马拉松！其中公布了三个重点领域，分别是：
-
-
-女巫检测、捐款激励措施优化分析、Dune 高效分析，其结果也于近日公布。
-
-
-相信大家最关心的应该是女巫问题，因为今年在 OP 和 APT 的刺激下，出现了人人羡慕撸毛党，人人皆是撸毛党的盛况。
-
-
-今天对女巫检测的第一名开源方案结合自身理解，进行技术向的解读，并在文末给出自己对于女巫检测的一些个人思考。相信看完这篇文章，无论是项目方还是交互者都能有所收获。
-
-
-注：本文不代表官方观点，仅为个人兴趣解读。
-
-
-剧透，本文较长，涉及很多技术分析，没耐心的可以直接跳转文末浏览本文总结与个人思考。
-
-
-
-
-
-
-由于出题者是 gitcoin，其主要交互场景为捐赠。但内在逻辑在其他的场景下同样适用 (transfer、mint 等动作)，以下将与项目方进行交互的操作统称为项目交互。
-
-
-方案一：批量转移和交互
-
-
-女巫攻击本质上是用户将资金分散到多个地址，操纵这些地址与项目方合约进行交互的过程。
-
-
-那么在这个过程中则可以将整个过程拆分两个部分，分别是 批量资金转移和合约批量交互。
-
-
-
-
-
-
-1.1 批量转账检测
-
-
-选择数据
-
-
-批量转账最简单的就是通过智能合约的方式进行，因为节约 gas 费用。所以作者利用工具提取与项目方合约有过关联且链上具有批量转账操作的 tx_hash。
-
-
-设计指标
-
-
-
-
-
-
-风险计算
-
-
-作者采集了 18926 个贡献者地址与批量转账有关。将风险性压缩到 0-13 分，经过分析归纳得到
-
-
-
-
-
-
-辅助判断手段
-
-
-1、如果一个地址使用以下 dapp，即使分数不高，也应该注意，是 sybil 的一个重要信号。
-
-
-
-
-
-
-2、交互地址在其他平台存在…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
