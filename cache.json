@@ -114,46 +114,6 @@
           "wordCount": null,
           "title": "新兴Web3游戏是否能使GameFi的困境破局？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32710",
-          "author": null,
-          "description": "原文作者：Leo\n\n\n近日，以太坊基础设施开发商 Consensys 更新了其隐私政策，声明当用户使用 Infura 作为默认 RPC 进行交易时，将收集他们的 IP 和 eth 地址。\n\n\n\n\nConsensys 这一类似于「Web 2」的举动引发了用户对加密中个人数据的担忧，用户大多表示：「在 Web 3 的世界里，我们要确保在交易时没有泄露 IP 和 以太坊地址，保护好自己的隐私，建议更换 RPC。」\n\n\n\n\nInfura 这一举动当然不妥，但其他 RPC 提供商呢？\n\n\n\n\nBlockBeats 整理了几个易操作的第三方 RPC 提供商，根据网站公开文件显示，我们发现行业很多基础设施开发商也会收集用户数据。收集用户，似乎成了这些 RPC 提供商的潜规则。以下为收集用户数据的 RPC 提供商：\n\n\n\n\nAlchemy\n\n\n\n\nAlchemy 是一款被广泛使用的 blockchain API。Alchemy 的超级节点服务被 Ethereum, Polygon, Arbitrum, Optimism, Flow 和 Crypto.org 所采用。该服务提供了广泛的 API 支持，让开发者可方便的通过一个节点获得多种功能，包括 JSON-RPC 支持，同时提供了在区块链上运行世界级应用程序所需的强大的可靠性、数据正确性和弹性。\n\n\n\n\n\n文件显示：「当您使用我们的服务时，我们可能会自动收集某些信息，例如您的 IP 地址、用户设置、MAC 地址、cookie 标识符、移动运营商、移动广告和其他唯一标识符浏览器或设备信息、位置信息（包括 IP 地址的大概位置）以及互联网服务提供商。我们还可能会自动收集有关您使用我们服务的信息，例如您在使用我们服务之前、之后访问的页面、您点击的链接信息、您互动的内容类型、您活动的频率和持续时间，以及有关您如何使用我们服务的其他信息。」\n\n\nMo…",
-          "link": "https://www.theblockbeats.info/news/32710",
-          "publishedOn": "2022-11-25T10:46:48.000Z",
-          "wordCount": null,
-          "title": "其实不只Infura会收集用户数据，这些RPC提供商也会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32708",
-          "author": null,
-          "description": "原视频来源：mrblock 區塊先生\n\n\n11 月 22 日，社区发现有巨鲸正在尝试做空 Curve（CRV），这个显示为 ponzishorter.eth 的地址通过 Aave 抵押借出了大量 CRV 进行抛售，链上链下一起卖，成功让 CRV 价格一路从 0.6 美元跌到了 0.4 美元附近，本期视频详细解读该事件发生的始末。\n\n\n本视频来自 YouTube，部分地区ip地址无法观看\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32708",
-          "publishedOn": "2022-11-25T09:46:48.000Z",
-          "wordCount": null,
-          "title": "狙击做空Curve，CRV打响保卫战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32704",
-          "author": null,
-          "description": "原文作者：加密 KOL Small Cap Scientist \n原文编译：0x214，BlockBeats\n\n\n\n\n\n\n在过去的 24 小时里，我一直在对 wBTC 进行研究。我建议暂时避开任何「wrapped 资产」。本文中我将强调我产生担忧的原因，并希望消除大家对关于「wrapped 资产托管及其流动性」的部份担忧。\n\n\n\n\n\n\n\n\n\n首先，我并不是 wBTC 或者其它 wrapped 资产方面的专业人士，所以请对本文持保留态度，不可尽信，欢迎指正。\n\n\n\n\n当看到 wBTC / BTC 交易对从 1:1 锚定脱锚了 2% 时，这种链上异动引起我的警惕。\n\n\n\n\n\n\n\n通常，对于手里有充足资金的玩家来说，这正是免费的套利机会。为什么现在会发生这种情况？\n\n\n\n\n当仔细浏览了wBTC 的官网以及其超额抵押的资产证明之后，并没有发现任何破绽，那么问题到底出在哪里？\n\n\n\n\n\n\n资产托管\n\n\n经过对 wBTC 研究，以下两种主要角色（Key Roles）非常重要：\n\n\n托管人（Custodian）：持有用于支撑 wBTC 的 BTC，拥有铸造 Token 的私钥\n\n\n经手商（Merchants）：发送或接收 BTC 以铸造/销毁 wBTC \n\n\n\n\n在这种情况下，BitGo 充当托管人，而 wBTC 的 60 多个合作伙伴都可以作为经手商。\n\n\n\n\n\n\n\n\n\n当浏览 BitGo 相关信息时，最新消息是 BitGO CEO Mike Belshe 声明：BitGo 对 Alameda 或 FTX 没有风险敞口，然而，BitGo 现在正在筹集资金。\n\n我本来很想给其中任何一方发私信，但他们都对公众关闭了私信。\n\n\n\n\n\n\n\nBitGo 拥有 BTC 托管权。实际上，早在 2020 年，BitGo 就为机构客户推出了 1.5 亿美元的贷款业务。虽然 BitGo 声称对 FTX /…",
-          "link": "https://www.theblockbeats.info/news/32704",
-          "publishedOn": "2022-11-25T08:46:48.000Z",
-          "wordCount": null,
-          "title": "wBTC会暴雷吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32701",
-          "author": null,
-          "description": "原文作者：Haotian\n\n\n最近，Uniswap 和 MetaMask 两大去中心化领域的扛把子，相继更新了隐私政策。Uniswap 将收集用户公开的链上和链下数据，以筛查该钱包是否有任何非法活动。而 Metamask 则表示用户在发送交易时将收集对应的 IP 地址和 ETH 地址。\n大家愤慨抗拒都可以理解，但监管之棋早已被执下。在此科普下历史渊源吧。  \n\n\n几年前，FATF Travel Rule 16 要求 VASP 虚拟资产服务供应商，（包括中心化交易平台，去中心化交易平台，钱包等）有责任和义务共享交易双方信息，包含发送者姓名、账户地址、身份证及国籍等信息。甚至还想通过 DLT 交易协议中嵌入代码的形式（智能合约和多重签名等）。 \n\n\n应该说，FATF 监管 VASPs 的决心一直在。\n\n\n中心化 VASP 好监管，交易平台本来 KYC 信息搜集就很全面，且为争取各地牌照会自然迎合监管。挑战无非是不同 VASPs 之间信息同步的问题。对此，NotaBene 和 VerifyVASP 等三方平台提供信息备案和校验服务，目标是通过公私钥对信息加密，让 VASP 之间在不泄露用户隐私的前提下，可以验证用户身份虚实。如下图：  \n\n\n\n\n\n在将中心化交易平台纳入监管体系后，Non-custody 自托管钱包以及去中心化协议就成了监管难点。头铁的 Trezor 硬件钱包就曾集成了 AOPP 标准，通过验证用户地址所有权的方式，可验证用户自托管钱包和其交易平台的身份是否有关，间接实现自托管钱包的 KYC 捆绑。不过这次小试牛刀在舆论攻势下被搁置了。  \n\n\n然而今年 4 月份，欧洲议会批准了法规草案，明确要对非托管钱包进行监管。政府知道很难对去中心化原生环境下的 VASPs 进行强行监管，索性取巧将问题抛给有合规需求的交易平台，让其协助采集非托管钱包的信息。 \n\n\n未来用户只要需要交易平台的流动性，就得被迫接受地址绑定。但政府或许觉得这样被动且缺乏力度。  \n\n\n尤其是 FTX 事件的催化效应，监管显然有意要加快监管效率。如何做呢？局部各个击破。现在 Circle 的 USDC，Tether 的 USDT 等都一点点被监管了。检查逻辑很简单，就看其合约代码中是否添加有 blacklist 黑名单地址 function。 \n\n\n显然 uniswap 和 metamask 则是下一步棋，去中心化环境下的非监管空间正逐渐逼仄。  \n\n\n总之，监管在一点点渗透，顺着中心化 VASP 的藤枝，扼住流动性的咽喉，想尽法子一步步侵袭挤压去中心化的沃土。影响显而易见，利弊看诸君怎么解读了。纯交易市场来一点监管约束促稳定，去中心化 Build 市场不想被束缚，就再多一些创新和突破。 \n\n\n市场就是这样，始终在演化、发展、突变、直到趋于成熟。  \n\n\n补充：感谢朋友们提醒，本帖内容不针对 Metamask 是否搜集 IP 本身做讨论，确实看到中外媒体有多种说法。只科普让大家了解下监管对于 VASP 的要求以及历史渊源即可。metamask 和 uniswap 能不被牵扯最好，大家可以进一步关注下监管动向。  \n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32701",
-          "publishedOn": "2022-11-25T06:46:23.000Z",
-          "wordCount": null,
-          "title": "回顾加密发展进程中的监管历史",
-          "imageUrl": null
         }
       ]
     },
