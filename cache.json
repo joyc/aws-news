@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32721",
+          "author": null,
+          "description": "原文标题：《一文总览 Binance Labs 投资版图》\n原文作者：aididiaojp.eth，Foresight News\n\n\n\n\nBinance Labs 自 2018 年成立以来，不断识别、投资并赋能优秀的区块链企业家、初创公司和社区，已为多个有助于发展区块链生态系统的行业项目提供资金。\n\n\n\n\n今年 8 月份币安联合创始人何一宣布开始正式执掌风险投资部门 Binance Labs，她曾在接受采访时表示，Binance Labs 将会寻找一些能够给行业带来长期利益的早期项目，熊市是一个非常好的投资时机，将重点投资基础设施、链上应用、数据分析和安全等相关领域。\n\n\n\n\nBinance Labs 通过投资构建和支持去中心化网络的技术团队来不断推动加密行业的发展，据 Binance Labs 官网显示，在近三年中，Binance Labs 已经在超过 25 个国家投资了 200 多个项目，资金规模约为 75 亿美元。其投资版图几乎涵盖了 Web3 相关的大多数赛道，包括公链、协议、基础设施、NFT、链游、元宇宙、DeFi 和 CeFi 等。\n\n\n\n\nBinance Labs 投资版图涵盖了 Binance Labs 官网显示及一些公开信息中涉及的投资项目简介。\n\n\n\n\n\n\n\n\n\nNFT\n\n\n\n\nNFT 基础设施\n\n\n\n\nCryptoSlam 是一个多链 NFT 数据聚合器，由 Mark Cuban、Animoca Brands、Reid Hoffman、Ashton Kutcher、Polygon 等支持。\n\n\n\n\nSolv Protocol 是一个用于创建和交易金融 NFT 的去中心化基础设施提供商，旨在通过称为 Vouchers 的金融 NFT 来改善项目筹款。Solv Protocol 发布了 ERC-3525 \n\nToken\n\n标准，使其可用于所有未来的金融 N…",
+          "link": "https://www.theblockbeats.info/news/32721",
+          "publishedOn": "2022-11-29T03:00:13.000Z",
+          "wordCount": null,
+          "title": "详解Binance Labs投资版图：涵盖Web3相关赛道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32725",
+          "author": null,
+          "description": "原文标题：《EIP-4337 详细工作流程》\n\n\n原文作者：Ben Law\n\n\nEIP-4337 详细工作流程\n\n\n本文不会从头介绍 EIP-4337，仅介绍 4337 的主要合约是如何实现的。适合对 4337 有一定了解的开发者，由其是钱包开发者，以及爱好者或研究员阅读。\n\n\n主要内容位于流程图 中：\n\n\n\n\n\n需要配合 4337 源码阅读 GitHub—eth-infinitism/account-abstraction at main。\n\n\n4337 Spec 中有更多详细细节 EIP-4337: Account Abstraction using alt mempool。  \n\n\n请注意：\n\n\n- 本流程图只画出了普通类型的交易，未涉及 Aggregator。掌握普通流程后才方便掌握聚合型的交易。\n\n\n- 流程图中箭头不代表程序的调用栈或输入输出，仅代表相关角色、函数、事件的发生的先后顺序。\n\n\n- 为方便读者对宏观架构的快速理解，流程图中省略了一部分函数调用和逻辑。被省略的部分有可能对你研究的问题或疑惑有很大意义，具体看你想了解什么内容，所以还是需要你必要时仔细阅读源码。\n\n\n核心概念\n\n\n研究 4337 需要掌握以下核心概念：\n\n\nUserOperation 的内容 EntryPoint 实现 Wallet 实现 Paymaster 实现验证阶段、执行阶段的执行流程与错误处理 Gas 的支付流程与计算\n\n\nUserOperation\n\n\n一种内容类似 transaction 的伪交易对象，通过新的 RPC 方法 < code>eth_sendUserOperation 提交给节点。\n\n\nUO 中的字段含义大部分是显然的，仅挑选几个容易误解的进行分析：\n\n\nsender，此处指的是要交互的 wallet，而非 msg.sender 或 tx.origin 等其他任…",
+          "link": "https://www.theblockbeats.info/news/32725",
+          "publishedOn": "2022-11-29T02:11:13.000Z",
+          "wordCount": null,
+          "title": "开发者指南：详解账户抽象提案EIP-4337工作流程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32726",
+          "author": null,
+          "description": "视频来源：MEMETuesday\n\n\n元宇宙地产不管是从地板价还是从交易额，交易量来看，在所有的加密资产种类中调整力度可以说是相当剧烈。\n\n\n本期视频邀请到华语社区了解元宇宙地产的建设者和投资者来讨论元宇宙资产到底是不是泡沫，还有救吗？\n \n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32726",
+          "publishedOn": "2022-11-29T01:11:13.000Z",
+          "wordCount": null,
+          "title": "【Meme Tuesday】数字地产还有救吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32722",
           "author": null,
           "description": "原文标题：《GameFi 已死？——细数链游七宗罪》\n原文作者：文心\n\n\n\n\n在上轮牛市出现的新赛道之中，GameFi 绝对称得上是一个亮眼的存在，从 Axie 到 StepN，各类新玩法、新概念层出不穷。游戏降低了 Web3 的准入门槛，从人们内心的娱乐需求出发，旨在吸引更多的用户参与进来，为 Web3 开启一扇「流量大门」。\n\n\n\n\n好吧，客套话就到这。你认为我上面说的是真实情况吗？也许很多文章都会这样描述 GameFi，最初宣扬 GameFi 概念的那些人也是这样阐述的，但是这本「好经」，现在越念越歪了。不可否认，在上一轮的牛市中出现了很多优秀的 GameFi 项目，它们创造了巨量的财富，但正是那些火爆的「品牌」在将这个行业一步步推向深渊。\n\n\n\n\nGameFi 在 2021 年底到 2022 年初热度达到顶峰，之后便一直处于下行趋势，在此期间 StepN 引起了一波 XtoEarn 的浪潮，但是随着清退中国用户也一落千丈，现在 GameFi 的整体市值较巅峰时期已经跌去了 95% 以上。当然，这里的原因有整体市场环境的影响，但是公链和 NFT 等项目在市场回暖时尚可重整旗鼓，但是那么多 GameFi 项目，归零了又有几个可以重启的呢。\n\n\n\n\n\n\n\n\n\n我非常相信 GameFi 的未来，也深度参与了很多项目，挫折是每个新兴行业早期必将经历的，但这并不意味着我们要一错再错！有了问题就直面问题、解决问题，一味地逃避只会让错误放大。今天这篇文章，我想跟大家聊聊现阶段 GameFi 的不足之处，以及那些被人选择无视的漏洞。\n\n\n\n\n1. Play to Earn 给玩家了一个错误的预期\n\n\n\n\n从行业共识的角度去看，「Play to Earn」这个描述可以很直观的得出一个结论：玩游戏的目标就是赚钱。这基本是所有链游玩家的「初衷」，也是大部分项目方宣传时必须重点介绍的一个「优…",
