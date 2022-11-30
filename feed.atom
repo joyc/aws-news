@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-29T18:10:03.759Z</updated>
+    <updated>2022-11-30T00:41:04.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -555,74 +555,6 @@ MEV 攻击类型
 
 
 抢先交易是指机器人密切关注一个区块…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些人抵达巴哈马，他们在FTX总部发现了什么？]]></title>
-        <id>https://www.theblockbeats.info/news/32717</id>
-        <link href="https://www.theblockbeats.info/news/32717"/>
-        <updated>2022-11-27T12:00:26.000Z</updated>
-        <summary type="html"><![CDATA[11 月 27 日，Ice Bagz（Kanpai Pandas 的 CEO ）、Ben Armstrong（BitBoy Crypto 创始人）、加密巨鲸 KeyboardMonkey3 等共赴巴拿巴，试图寻找 SBF 以及 FTX 的相关信息。本次行程主要人物 Ben Armstrong 表示想跟 SBF 进行交谈，此前 SBF 已将他拉入黑名单。
-
-
-Ben Armstrong 将行程和「发现」通过推特发布到网络上，在这些推文下面还有部分网友提供了各种「线索」。同时也引发了一些 meme 行文。BlockBeats 将会持续更新本文，定期跟踪和更新他们的发现。
-
-
-11 月 27 日，相聚寻找 SBF
-
-
-图中部分加密项目创始人以及资深交易员相聚在一起，图片名为「The hunt for SBF」。根据推特发布者 Ice Bagz 的推文，参与本次「hunt」聚餐人士分别为@gainzy222、@KeyboardMonkey3、@Bitboy_Crypto等。
-
-
-
-
-
-随后 Ben Armstrong 前往 FTX 在巴哈马的总部，表示根据推特之前的线索，找到 SBF 车辆。车内前座椅上有一些不明药物，后座有一台 MSI 笔记本电脑。
-
-
-
-
-
-根据推文情况，Ben Armstrong 一行人仍在巴拿马尚未离开。后续应继续进行新的内容发布，收藏本文可随时了解最新情况。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oasys：世嘉、育碧通过 Web3 参与构建的次世代游戏“绿洲”]]></title>
-        <id>https://www.theblockbeats.info/news/32437</id>
-        <link href="https://www.theblockbeats.info/news/32437"/>
-        <updated>2022-11-27T09:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Oasys：世嘉、育碧通过 Web3 参与构建的次世代游戏“绿洲”]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：Hooked为什么会成为Binance最新一期IEO；Genesis岌岌可危]]></title>
-        <id>https://www.theblockbeats.info/news/32716</id>
-        <link href="https://www.theblockbeats.info/news/32716"/>
-        <updated>2022-11-27T06:46:16.000Z</updated>
-        <summary type="html"><![CDATA[周末荐读：Hooked为什么会成为Binance最新一期IEO；Genesis岌岌可危]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
