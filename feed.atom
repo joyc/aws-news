@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-11-30T00:41:04.762Z</updated>
+    <updated>2022-11-30T06:11:02.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Defiance合伙人谈FTX余震：Solana可能面临巨大抛售压力]]></title>
+        <id>https://www.theblockbeats.info/news/32742</id>
+        <link href="https://www.theblockbeats.info/news/32742"/>
+        <updated>2022-11-30T05:01:44.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《对话 Defiance 合伙人：FTX 爆雷对加密 VC 影响几何？》
+原文作者：
+
+Revelo Intel 
+
+
+原文编译：
+
+深潮 TechFlow
+
+
+
+在本期的 Empire 播客中，Defiance Capital 首席执行官 Arthur 与主持人 Blockwork 的 Jason 和 Santi 一起讨论了 FTX 的衰落及其对行业的影响。
+
+
+下面是关于播客的重点总结：
+
+
+
+Defiance 的表现如何？
+
+
+Arthur：这是我所经历的最艰难的六个月。6 月份的三箭资本 (3AC) 事件让 Defiance 在危机和风险管理方面做好了准备。
+
+
+Defiance 主要使用 Binance 和 FTX，相对不受 FTX 事件的影响。
+
+
+由于最近的市场状况，Defiance 的所有资金都从 CEX 转移到了钱包。
+
+
+Defiance 还与 Galaxy 等进行 OTC 交易。
+
+
+
+FTX 如何在新加坡占据主导地位？
+
+
+Arthur：当地的加密货币交易平台只提供现货交易服务。
+
+
+FTX 有丝滑的 UI，更好的流动性，并提供永续期货交易。
+
+
+Binance 在 2021 年停止为新加坡服务。MAS（新加坡金融管理局）将 Binance 列入投资者警告名单。
+
+
+尽管 FTX 提供与 Binance 相同的服务，而且总部设在境外，但却没有被列入投资者警告名单。
+
+
+新加坡主权财富基金淡马锡主导了最近的一轮融资。政府似乎暗中支持 FTX，因为 FTX 不在投资者警示名单上，而且淡马锡也参与其中。
+
+
+由于 Binance 无法进入，FTX 自然成为第二选择。
+
+
+Jason：是否知道 Alameda 的剔除交易，但由于点差小，用户继续使用 FTX。
+
+
+Arthur：并不是，因为 Alameda 在第一年之后就不是 FTX 最大的做市商，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RGB魔法：比特币上的客户端合约]]></title>
         <id>https://www.theblockbeats.info/news/32735</id>
