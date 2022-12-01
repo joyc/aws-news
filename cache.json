@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32763",
+          "author": null,
+          "description": "Solidity极简入门｜第三十三讲：空投合约",
+          "link": "https://www.theblockbeats.info/news/32763",
+          "publishedOn": "2022-12-01T14:43:14.000Z",
+          "wordCount": null,
+          "title": "Solidity极简入门｜第三十三讲：空投合约",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32762",
           "author": null,
           "description": "撰文：Cookie，律动BlockBeats\n\n\n经过接近半年的漫长等待，Genie 终于将「猪脚饭」端到了 NFT 老鸟们的面前。这份虽迟但到的「猪脚饭」十分良心——只要在今年 4 月 15 日的北京时间早 8 点前曾使用 Genie 完成过 2 笔交易，就能够领到 300 USDC，Genie:Genesis NFT 的持有者则能够领到 1000 USDC。\n\n\n\n\n\n\n\n\n\n\n\n在 Uniswap 官网连接符合空投条件的钱包就可以直接领取 USDC 空投\n\n\n\n\n\n\n大多数空投都是为吸引更多的流量，比如同赛道的竞争对手 Blur，不仅第一轮空投时赚足了眼球，在昨天 Genie 的空投发放之后也很快跟进宣布将在下周一发放第二轮空投，规模将比第一轮大 10 倍。但 Genie 的空投，更多地像是落幕时告别的一声「感谢」。\n\n\n\n\n\n\n作为第一个 NFT 聚合器，Genie 自 6 月宣布被 Uniswap 收购以来就逐渐陷入了沉寂。当这一次的空投再次让 Genie 吸引到市场注意时，Genie 已经悄然落幕，不再作为一个独立的品牌而存在——打开 Genie 的官网，页面将自动跳转到 Uniswap 的 NFT 界面。\n\n\n\n\n\n\n\n\n如果单纯以「NFT 聚合器」来评价 Uniswap NFT，这个产品是让人失望的——它和从前的 Genie 相比几乎没有区别，好像这接近半年的时间里团队都在沉睡，给人「漫不经心」的感觉。整体的界面看起来与 Gem 差别不大，但是看上去更简洁，因为功能没有 Gem 那么齐全。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n首页看板对比，上图为 Gem，下图为 Uniswap NFT。可以看到 Uniswap NFT 少了「持仓项目列表」、「扫地监测」以及「Mint 监测」三种看板，多了一个切换计价单位为 USD 的小功能\n\n\n\n\n\n\n如今的 NFT 聚合器几…",
@@ -183,46 +193,6 @@
           "publishedOn": "2022-11-29T06:13:54.000Z",
           "wordCount": null,
           "title": "RogueBlox：回归游戏本质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32729",
-          "author": null,
-          "description": "与 FTX 在财务上相互交织的加密货币贷款公司 BlockFi Inc  于 11 月 28 日 申请破产，成为自 FTX 以来最新一家倒闭的大型数字资产公司。\n根据该公司提交给位于新泽西州特伦顿的美国破产法院的文件，仅该公司的前十大债权人就被欠了近 12 亿美元的债务，债务总额可能要大得多。  \n\n\nBlockBeats 将持续跟踪事件并为读者带来最新的消息\n\n\nBlockFi 申请破产，并向SBF发起诉讼\n\n\n《外媒：BlockFi 已申请破产重组，目前仍持有 2.569 亿美元现金》\n\n\n2022年 11 月 28 日，加密借贷公司 BlockFi 及其八家子公司已在新泽西州破产法院申请破产重组。BlockFi 将专注于收回其交易对手（包括 FTX 和相关公司实体）拖欠 BlockFi 的所有债务。BlockFi 目前仍持有 2.569 亿美元现金，平台服务将继续暂停。  \n\n\n《BlockFi 债权人超 10 万，资产和负债规模均在 10-100 亿美元之间》\n\n\n据 BlockFi 申请破产重组的文件显示，其债权人超 10 万，资产和负债规模均在 10-100 亿美元之间。 负债端，拖欠最大债权人 Ankura 信托公司 729,036,246 美元，拖欠第二大债权人 FTX US 2.75 亿美元，拖欠第四大债权人美国证券交易委员会（SEC）3000 万美元罚款。对前 50 大债权人的总负债规模约 13 亿美元。\n\nBlockFi 目前仅持有 2.569 亿美元现金，平台服务仍在暂停中。  \n\n\n\n\n\n《BlockFi 起诉 SBF：Alameda 拖欠 6.8 亿美元贷款未还最终导致其资不抵债》\n\n\nBlockFi 在申请破产几小时后，向 FTX 前首席执行官 SBF 发起诉讼，要求没收 SBF 在 Robinhood 中价值 5.75 亿美元的股票。 \n\n\n…",
-          "link": "https://www.theblockbeats.info/news/32729",
-          "publishedOn": "2022-11-29T04:13:54.000Z",
-          "wordCount": null,
-          "title": "BlockFi已申请破产重组，债权人超10万【11月29日更新】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32721",
-          "author": null,
-          "description": "原文标题：《一文总览 Binance Labs 投资版图》\n原文作者：aididiaojp.eth，Foresight News\n\n\n\n\nBinance Labs 自 2018 年成立以来，不断识别、投资并赋能优秀的区块链企业家、初创公司和社区，已为多个有助于发展区块链生态系统的行业项目提供资金。\n\n\n\n\n今年 8 月份币安联合创始人何一宣布开始正式执掌风险投资部门 Binance Labs，她曾在接受采访时表示，Binance Labs 将会寻找一些能够给行业带来长期利益的早期项目，熊市是一个非常好的投资时机，将重点投资基础设施、链上应用、数据分析和安全等相关领域。\n\n\n\n\nBinance Labs 通过投资构建和支持去中心化网络的技术团队来不断推动加密行业的发展，据 Binance Labs 官网显示，在近三年中，Binance Labs 已经在超过 25 个国家投资了 200 多个项目，资金规模约为 75 亿美元。其投资版图几乎涵盖了 Web3 相关的大多数赛道，包括公链、协议、基础设施、NFT、链游、元宇宙、DeFi 和 CeFi 等。\n\n\n\n\nBinance Labs 投资版图涵盖了 Binance Labs 官网显示及一些公开信息中涉及的投资项目简介。\n\n\n\n\n\n\n\n\n\nNFT\n\n\n\n\nNFT 基础设施\n\n\n\n\nCryptoSlam 是一个多链 NFT 数据聚合器，由 Mark Cuban、Animoca Brands、Reid Hoffman、Ashton Kutcher、Polygon 等支持。\n\n\n\n\nSolv Protocol 是一个用于创建和交易金融 NFT 的去中心化基础设施提供商，旨在通过称为 Vouchers 的金融 NFT 来改善项目筹款。Solv Protocol 发布了 ERC-3525 \n\nToken\n\n标准，使其可用于所有未来的金融 N…",
-          "link": "https://www.theblockbeats.info/news/32721",
-          "publishedOn": "2022-11-29T03:00:13.000Z",
-          "wordCount": null,
-          "title": "详解Binance Labs投资版图：涵盖Web3相关赛道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32725",
-          "author": null,
-          "description": "原文标题：《EIP-4337 详细工作流程》\n\n\n原文作者：Ben Law\n\n\nEIP-4337 详细工作流程\n\n\n本文不会从头介绍 EIP-4337，仅介绍 4337 的主要合约是如何实现的。适合对 4337 有一定了解的开发者，由其是钱包开发者，以及爱好者或研究员阅读。\n\n\n主要内容位于流程图 中：\n\n\n\n\n\n需要配合 4337 源码阅读 GitHub—eth-infinitism/account-abstraction at main。\n\n\n4337 Spec 中有更多详细细节 EIP-4337: Account Abstraction using alt mempool。  \n\n\n请注意：\n\n\n- 本流程图只画出了普通类型的交易，未涉及 Aggregator。掌握普通流程后才方便掌握聚合型的交易。\n\n\n- 流程图中箭头不代表程序的调用栈或输入输出，仅代表相关角色、函数、事件的发生的先后顺序。\n\n\n- 为方便读者对宏观架构的快速理解，流程图中省略了一部分函数调用和逻辑。被省略的部分有可能对你研究的问题或疑惑有很大意义，具体看你想了解什么内容，所以还是需要你必要时仔细阅读源码。\n\n\n核心概念\n\n\n研究 4337 需要掌握以下核心概念：\n\n\nUserOperation 的内容 EntryPoint 实现 Wallet 实现 Paymaster 实现验证阶段、执行阶段的执行流程与错误处理 Gas 的支付流程与计算\n\n\nUserOperation\n\n\n一种内容类似 transaction 的伪交易对象，通过新的 RPC 方法 < code>eth_sendUserOperation 提交给节点。\n\n\nUO 中的字段含义大部分是显然的，仅挑选几个容易误解的进行分析：\n\n\nsender，此处指的是要交互的 wallet，而非 msg.sender 或 tx.origin 等其他任…",
-          "link": "https://www.theblockbeats.info/news/32725",
-          "publishedOn": "2022-11-29T02:11:13.000Z",
-          "wordCount": null,
-          "title": "开发者指南：详解账户抽象提案EIP-4337工作流程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32726",
-          "author": null,
-          "description": "视频来源：MEMETuesday\n\n\n元宇宙地产不管是从地板价还是从交易额，交易量来看，在所有的加密资产种类中调整力度可以说是相当剧烈。\n\n\n本期视频邀请到华语社区了解元宇宙地产的建设者和投资者来讨论元宇宙资产到底是不是泡沫，还有救吗？\n \n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32726",
-          "publishedOn": "2022-11-29T01:11:13.000Z",
-          "wordCount": null,
-          "title": "【Meme Tuesday】数字地产还有救吗？",
           "imageUrl": null
         }
       ]

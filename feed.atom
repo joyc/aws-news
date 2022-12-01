@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-01T12:15:48.895Z</updated>
+    <updated>2022-12-01T18:10:08.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity极简入门｜第三十三讲：空投合约]]></title>
+        <id>https://www.theblockbeats.info/news/32763</id>
+        <link href="https://www.theblockbeats.info/news/32763"/>
+        <updated>2022-12-01T14:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Solidity极简入门｜第三十三讲：空投合约]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从Genie到Uniswap NFT：漫不经心，还是更大的野心？]]></title>
         <id>https://www.theblockbeats.info/news/32762</id>
@@ -1061,194 +1071,6 @@ Grants 1.0 到 Grants 2.0
 
 
 Roguelike 属于角色扮演游戏中的一个子类，主要指随机生成、没有可逆性、系统自由度极高的一类游戏。RogueBlox 便是一款 Rogueli…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockFi已申请破产重组，债权人超10万【11月29日更新】]]></title>
-        <id>https://www.theblockbeats.info/news/32729</id>
-        <link href="https://www.theblockbeats.info/news/32729"/>
-        <updated>2022-11-29T04:13:54.000Z</updated>
-        <summary type="html"><![CDATA[与 FTX 在财务上相互交织的加密货币贷款公司 BlockFi Inc  于 11 月 28 日 申请破产，成为自 FTX 以来最新一家倒闭的大型数字资产公司。
-根据该公司提交给位于新泽西州特伦顿的美国破产法院的文件，仅该公司的前十大债权人就被欠了近 12 亿美元的债务，债务总额可能要大得多。  
-
-
-BlockBeats 将持续跟踪事件并为读者带来最新的消息
-
-
-BlockFi 申请破产，并向SBF发起诉讼
-
-
-《外媒：BlockFi 已申请破产重组，目前仍持有 2.569 亿美元现金》
-
-
-2022年 11 月 28 日，加密借贷公司 BlockFi 及其八家子公司已在新泽西州破产法院申请破产重组。BlockFi 将专注于收回其交易对手（包括 FTX 和相关公司实体）拖欠 BlockFi 的所有债务。BlockFi 目前仍持有 2.569 亿美元现金，平台服务将继续暂停。  
-
-
-《BlockFi 债权人超 10 万，资产和负债规模均在 10-100 亿美元之间》
-
-
-据 BlockFi 申请破产重组的文件显示，其债权人超 10 万，资产和负债规模均在 10-100 亿美元之间。 负债端，拖欠最大债权人 Ankura 信托公司 729,036,246 美元，拖欠第二大债权人 FTX US 2.75 亿美元，拖欠第四大债权人美国证券交易委员会（SEC）3000 万美元罚款。对前 50 大债权人的总负债规模约 13 亿美元。
-
-BlockFi 目前仅持有 2.569 亿美元现金，平台服务仍在暂停中。  
-
-
-
-
-
-《BlockFi 起诉 SBF：Alameda 拖欠 6.8 亿美元贷款未还最终导致其资不抵债》
-
-
-BlockFi 在申请破产几小时后，向 FTX 前首席执行官 SBF 发起诉讼，要求没收 SBF 在 Robinhood 中价值 5.75 亿美元的股票。 
-
-
-…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Binance Labs投资版图：涵盖Web3相关赛道]]></title>
-        <id>https://www.theblockbeats.info/news/32721</id>
-        <link href="https://www.theblockbeats.info/news/32721"/>
-        <updated>2022-11-29T03:00:13.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《一文总览 Binance Labs 投资版图》
-原文作者：aididiaojp.eth，Foresight News
-
-
-
-
-Binance Labs 自 2018 年成立以来，不断识别、投资并赋能优秀的区块链企业家、初创公司和社区，已为多个有助于发展区块链生态系统的行业项目提供资金。
-
-
-
-
-今年 8 月份币安联合创始人何一宣布开始正式执掌风险投资部门 Binance Labs，她曾在接受采访时表示，Binance Labs 将会寻找一些能够给行业带来长期利益的早期项目，熊市是一个非常好的投资时机，将重点投资基础设施、链上应用、数据分析和安全等相关领域。
-
-
-
-
-Binance Labs 通过投资构建和支持去中心化网络的技术团队来不断推动加密行业的发展，据 Binance Labs 官网显示，在近三年中，Binance Labs 已经在超过 25 个国家投资了 200 多个项目，资金规模约为 75 亿美元。其投资版图几乎涵盖了 Web3 相关的大多数赛道，包括公链、协议、基础设施、NFT、链游、元宇宙、DeFi 和 CeFi 等。
-
-
-
-
-Binance Labs 投资版图涵盖了 Binance Labs 官网显示及一些公开信息中涉及的投资项目简介。
-
-
-
-
-
-
-
-
-
-NFT
-
-
-
-
-NFT 基础设施
-
-
-
-
-CryptoSlam 是一个多链 NFT 数据聚合器，由 Mark Cuban、Animoca Brands、Reid Hoffman、Ashton Kutcher、Polygon 等支持。
-
-
-
-
-Solv Protocol 是一个用于创建和交易金融 NFT 的去中心化基础设施提供商，旨在通过称为 Vouchers 的金融 NFT 来改善项目筹款。Solv Protocol 发布了 ERC-3525 
-
-Token
-
-标准，使其可用于所有未来的金融 N…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者指南：详解账户抽象提案EIP-4337工作流程]]></title>
-        <id>https://www.theblockbeats.info/news/32725</id>
-        <link href="https://www.theblockbeats.info/news/32725"/>
-        <updated>2022-11-29T02:11:13.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《EIP-4337 详细工作流程》
-
-
-原文作者：Ben Law
-
-
-EIP-4337 详细工作流程
-
-
-本文不会从头介绍 EIP-4337，仅介绍 4337 的主要合约是如何实现的。适合对 4337 有一定了解的开发者，由其是钱包开发者，以及爱好者或研究员阅读。
-
-
-主要内容位于流程图 中：
-
-
-
-
-
-需要配合 4337 源码阅读 GitHub—eth-infinitism/account-abstraction at main。
-
-
-4337 Spec 中有更多详细细节 EIP-4337: Account Abstraction using alt mempool。  
-
-
-请注意：
-
-
-- 本流程图只画出了普通类型的交易，未涉及 Aggregator。掌握普通流程后才方便掌握聚合型的交易。
-
-
-- 流程图中箭头不代表程序的调用栈或输入输出，仅代表相关角色、函数、事件的发生的先后顺序。
-
-
-- 为方便读者对宏观架构的快速理解，流程图中省略了一部分函数调用和逻辑。被省略的部分有可能对你研究的问题或疑惑有很大意义，具体看你想了解什么内容，所以还是需要你必要时仔细阅读源码。
-
-
-核心概念
-
-
-研究 4337 需要掌握以下核心概念：
-
-
-UserOperation 的内容 EntryPoint 实现 Wallet 实现 Paymaster 实现验证阶段、执行阶段的执行流程与错误处理 Gas 的支付流程与计算
-
-
-UserOperation
-
-
-一种内容类似 transaction 的伪交易对象，通过新的 RPC 方法 < code>eth_sendUserOperation 提交给节点。
-
-
-UO 中的字段含义大部分是显然的，仅挑选几个容易误解的进行分析：
-
-
-sender，此处指的是要交互的 wallet，而非 msg.sender 或 tx.origin 等其他任…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Meme Tuesday】数字地产还有救吗？]]></title>
-        <id>https://www.theblockbeats.info/news/32726</id>
-        <link href="https://www.theblockbeats.info/news/32726"/>
-        <updated>2022-11-29T01:11:13.000Z</updated>
-        <summary type="html"><![CDATA[视频来源：MEMETuesday
-
-
-元宇宙地产不管是从地板价还是从交易额，交易量来看，在所有的加密资产种类中调整力度可以说是相当剧烈。
-
-
-本期视频邀请到华语社区了解元宇宙地产的建设者和投资者来讨论元宇宙资产到底是不是泡沫，还有救吗？
- 
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
