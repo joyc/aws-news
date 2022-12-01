@@ -2,10 +2,259 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-01T06:11:12.633Z</updated>
+    <updated>2022-12-01T12:15:48.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从Genie到Uniswap NFT：漫不经心，还是更大的野心？]]></title>
+        <id>https://www.theblockbeats.info/news/32762</id>
+        <link href="https://www.theblockbeats.info/news/32762"/>
+        <updated>2022-12-01T09:34:07.000Z</updated>
+        <summary type="html"><![CDATA[撰文：Cookie，律动BlockBeats
+
+
+经过接近半年的漫长等待，Genie 终于将「猪脚饭」端到了 NFT 老鸟们的面前。这份虽迟但到的「猪脚饭」十分良心——只要在今年 4 月 15 日的北京时间早 8 点前曾使用 Genie 完成过 2 笔交易，就能够领到 300 USDC，Genie:Genesis NFT 的持有者则能够领到 1000 USDC。
+
+
+
+
+
+
+
+
+
+
+
+在 Uniswap 官网连接符合空投条件的钱包就可以直接领取 USDC 空投
+
+
+
+
+
+
+大多数空投都是为吸引更多的流量，比如同赛道的竞争对手 Blur，不仅第一轮空投时赚足了眼球，在昨天 Genie 的空投发放之后也很快跟进宣布将在下周一发放第二轮空投，规模将比第一轮大 10 倍。但 Genie 的空投，更多地像是落幕时告别的一声「感谢」。
+
+
+
+
+
+
+作为第一个 NFT 聚合器，Genie 自 6 月宣布被 Uniswap 收购以来就逐渐陷入了沉寂。当这一次的空投再次让 Genie 吸引到市场注意时，Genie 已经悄然落幕，不再作为一个独立的品牌而存在——打开 Genie 的官网，页面将自动跳转到 Uniswap 的 NFT 界面。
+
+
+
+
+
+
+
+
+如果单纯以「NFT 聚合器」来评价 Uniswap NFT，这个产品是让人失望的——它和从前的 Genie 相比几乎没有区别，好像这接近半年的时间里团队都在沉睡，给人「漫不经心」的感觉。整体的界面看起来与 Gem 差别不大，但是看上去更简洁，因为功能没有 Gem 那么齐全。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+首页看板对比，上图为 Gem，下图为 Uniswap NFT。可以看到 Uniswap NFT 少了「持仓项目列表」、「扫地监测」以及「Mint 监测」三种看板，多了一个切换计价单位为 USD 的小功能
+
+
+
+
+
+
+如今的 NFT 聚合器几…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入对比Uniswap V3、Curve V2与DODO底层算法、流动性分布与市场表现]]></title>
+        <id>https://www.theblockbeats.info/news/32756</id>
+        <link href="https://www.theblockbeats.info/news/32756"/>
+        <updated>2022-12-01T06:34:07.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《深入对比 Uni V3,CurveV2,DODO 做市算法——集中流动性带来的效率提升》
+原文来源：
+
+DODO Research
+
+
+
+
+
+引言
+
+
+
+
+DEX 发展中，算法的迭代和做市形式的变化是一个主线。从恒定价格和恒定乘积做市到各种集中流动性算法，DEX 的底层做市算法效率越来越高。大浪淘沙下，采用集中流动性方案的 DEX 表现位居市场前列，Uni V3，Curve V2，DODO 是其中的佼佼者。三者分别采用了不同的方式实现了流动性的集中，提高了 LP 的资金效率，并在市场上取得了巨大成功。本文将从多个维度剖析底层做市算法，深入比较三家交易平台底层算法的数据表现，对比三家交易平台的整体市场表现。
+
+
+
+
+集中流动性
+
+
+
+
+有效率，才有经济。——本杰明
+
+
+
+
+恒定乘积做市公式：x*y=k，被视为 DeFi 领域的突破性创新。它开创了资金池模式的交易形式实现了链上交易，但恒定乘积的 AMM 做市曲线也有无法避免的效率问题。
+
+
+
+
+Uniswap（Uni）早期版本采用了恒定乘积做市公式。从图中可以看出，其流动性均匀地分布在曲线上，Token价格的理论波动范围在 0 到无穷，而市场上
+
+Token
+
+价格变动范围集中在一个小的区间内。因此，价格波动外的流动性并没有真正提供到市场上，这就造成了效率损失。这种情况下，滑点、市场深度、无常损失都会受到负面影响。
+
+
+
+
+
+集中流动性就是以某种方式改变做市曲线上的流动性分布，将流动性集中在市场交易最频繁的区间，提高做市资金的效率。广义上讲，任何调控做市曲线，以改变资金池流动性分布的尝试都可以称之为集中流动性。Uni V3，Curve V2，DODO 都是典型的集中流动性的 DEX，但底层算法的明显差异也使各自有了不同的差异点。集中流动性的解决方案不单一，本质都是在尽可能改进资金利用效率，满足
+
+Token
+
+交易…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简析 DAO 的五种治理工具]]></title>
+        <id>https://www.theblockbeats.info/news/32758</id>
+        <link href="https://www.theblockbeats.info/news/32758"/>
+        <updated>2022-12-01T06:34:07.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：
+
+Vincent，Buidler DAO 联合创始人
+
+
+BlockBeats 注：DAO在治理方面面临很多困境，比如治理机制不明确，成员们点子很多，但大部分无法落实。因此随着 DAO 日渐庞大，如何利用工具让 DAO 治理变得井井有条，是很多 DAO 创始人一直在思考的问题。对此，Buidler DAO的联合发起人 Vincent 在推特上总结了 5 种类型的 DAO 治理工具，BlockBeats 整理如下：  
+
+
+近期研究了不少 DAOtools，看了不下 100 个，这些产品的功能基本贯穿了 DAO 治理的全部流程，包括「代币发行、权限、提案治理、社区交流、门户、金库、活动管理、任务分发、贡献量化、薪酬分拆、营销增长等」。按照赛道和产品战略，大致将以上 DAOtools 分为五大类：  
+
+
+1. DAO 综合解决方案（非开源)
+
+
+面向大部分 DAO，针对普适性需求，提供系统化解决方案。但是由于是非开源，开发和迭代速度受限于研发投入和资金，无法满足日新月异的 DAO 需求演化，这类工具非常不看好，比如 DAOlens 和 DAODAO。
+
+
+2. DAO 开源生态服务商（开源） 
+
+
+这类产品是一个庞大的开源操作系统，比如 Aragon，其护城河是其开源生态，赛道比较拥挤，开发者有排他性，部分产品基本上没有开发者参与，形成死循环。此外，部分项目在当前阶段对非开发者并不友好，用户仅能通过无代码平台体验到少部分功能，未来需要关注可插拔能力。  
+
+
+3.DAO 赛道隐形冠军
+
+
+面向 DAO 赛道的细分领域，提供 DAO 治理运营关键环节上的的某一细分领域的专精能力，如链下投票、论坛、金库、薪酬等。这类产品具有完整的功能和良好的交互体验，同时得益于轻巧灵活的即用即走优势，出现很多现象级产品，比如 disperse、snapshot。  
+
+
+4. DAO 生态衍生工具
+
+
+依附于某个环节的巨头玩家所建立起来的生态，提供辅助性的功能，丰富和提升原有生态的体验和服务。这类产品的商业价值和护城河较低，没有明显的竞争优势，先发优势和体验至关重要。
+
+
+
+
+大部分从 DAO 的 workplace 或者门户切入，采用取巧的方式，集成各类现有的治理和金库、社区产品，摇身一变成了一个新的门户网站。虽然取巧，但是这类产品大多没有实现 PMF，用户普遍关注关键环节的产品体验，仅仅集成不会带来明显的效率提升。这里点名 backdrop。
+
+
+注解*  PMF：
+
+Product Market Fit ，指产品和市场达到最佳的契合点
+
+
+
+原文来源
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF对谈《纽约时报》：Alameda与FTX的资金为什么会混合？]]></title>
+        <id>https://www.theblockbeats.info/news/32757</id>
+        <link href="https://www.theblockbeats.info/news/32757"/>
+        <updated>2022-12-01T06:34:07.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：CoinDesk 记者 Nikhilesh De
+原文编译：0x214、0x911，BlockBeats
+
+
+
+
+FTX 暴雷事件发生之后，SBF 首次公开发声。11 月 30 日，他与《纽约时报》专栏作家 Andrew Ross Sorkin 在 DealBook 峰会上进行交谈，CoinDesk 记者 Nikhilesh De 记录了二人对话，BlockBeats 对此梳理翻译如下：
+
+
+
+
+
+
+
+
+
+Andrew：「人们认为这样的对话不应该发生。我只想说，我认为作为记者，我们的工作就是代表公众进行这样的对话、提出问题、探寻答案。」
+
+
+
+
+看待 FTX 相关事件有两种角度。有一种较为宽容的观点，认为你是一个做出一系列相当可怕的、糟糕的决定的年轻人；另一种不那么宽容的观点则是认为你犯下了大规模欺诈罪。」
+
+
+
+
+SBF：「归根结底，我是 FTX 的首席执行官，这意味着无论发生什么……我对所有的利益相关者、客户负有责任……我必须正确对待他们，以确保公司发生了正确的事情……显然我犯了很多错误。」
+
+
+
+
+关于资金混合
+
+
+
+
+在回答第一个观众问题时，SBF 表示 FTX US 和 FTX International 是两个平台，「我相信现在的 FTX US 平台是可以开放提款的。」SBF 表示其访问数据权限是有限的，但「从我所看到的情况来看…基本上一年前 Alameda 的杠杆率大约为 10%。」
+
+
+
+
+Andrew：「我认为更重要的问题是 Alameda 从哪里获得贷款？有一种观点认为这与资金混合有关系，」Andrew 引用了 FTX 服务条款中的内容，即 FTX 不拥有用户资金。SBF 说 FTX 服务条款还有很多其它内容。
+
+
+
+
+Andrew 直接询问是否存在资金混合？SBF 回答：「我并没有故意混合资金……我从没有试图混合资金。」
+
+
+
+
+Andrew…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitget世界杯期间携手梅西开展系列活动，逆市推多项措施望重塑市场信心]]></title>
         <id>https://www.theblockbeats.info/news/32754</id>
