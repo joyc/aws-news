@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-03T06:10:15.139Z</updated>
+    <updated>2022-12-03T12:12:14.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一切不过是循环]]></title>
+        <id>https://www.theblockbeats.info/news/32777</id>
+        <link href="https://www.theblockbeats.info/news/32777"/>
+        <updated>2022-12-03T04:50:58.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Coming full circle
+
+》
+原文作者：Lui Luu
+原文编译：Kxp，BlockBeats
+
+
+
+
+  BlockBeats 注：原文标题《Coming full circle》取材自 SBF 宣布 FTX 被 Binance 收购的发文，FTX 正式落幕，加密行业在废墟中重建。
+
+
+
+2014 年 Mt. Gox 遭遇了黑客攻击，于是很多人纷纷退出了 Bitcoin 的交易，而我正好在那一年开始了我的区块链之旅。在 Bitcoin 的价格从 1100 美元一路下跌至不足 200 美元之后，人们终于开始寻求去中心化的进一步发展。Mt. Gox 事件对我们的警示在于，中心化系统中的资金安全与订单匹配完全掌握在交易所手中，因此我们必须摒弃该做法。一时间，无论是用户、投资者还是开发者，都无一例外地决定奉行区块链的根本原则，即公开透明、无需信任以及可供验证。
+
+
+
+
+
+这个问题我们现在需要问 FTX / 3AC 了
+
+
+
+
+在接下来的 8 年时间中，许多安全和非托管式交易解决方案如雨后春笋般出现：从原子掉期（atomic swap）到专注于 DEX 的 Layer 1（如 BitShares），从 EVM 链上的智能合约 DEX（如我在 2017 年共同创立的 Kyber，以及 Bancor 和 Uniswap）到混合式 DEX（0x、Airswap、dYdX）。正当我们沉浸在后 Mt. Gox 的建设，不断扩展 Crypto 安全与透明交易模式的边界时，谁都没有想到 FTX 会在本月初短短几天内发生崩盘。
+
+
+
+
+当前处境
+
+
+
+
+FTX 的崩盘之所以令人感到震惊，不仅仅是因为它给用户带来的巨额损失（可能超过 80 亿美元），还因为 FTX 一直被认为是业内最安全、最合规的 CEX 之一。此事一出，许多连带问题也纷至沓来：我们本可以采取何种措施提…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度剖析下个万亿赛道：零知识证明和分布式计算结合]]></title>
+        <id>https://www.theblockbeats.info/news/32776</id>
+        <link href="https://www.theblockbeats.info/news/32776"/>
+        <updated>2022-12-03T03:50:58.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：谢锦斌（X Research DAO）
+原文编辑：AndyHoo（X Research DAO）
+
+
+
+
+1. 分布式计算发展历史和市场前景 
+
+
+1.1 发展历史
+
+
+
+
+· 最开始的计算机每台只能执行一个计算任务，随着多核心多线程的 CPU 出现，单个计算机可以执行多个计算任务。
+
+
+
+
+· 随着大型网站的业务增加，单服务器模式很难进行扩容，又增加硬件成本。面向服务的架构出现，由多台服务器组成。由服务注册者、服务提供者和服务消费者，三者组成。
+
+
+
+
+· 但是随着业务增加和服务器增加，SOA 模式下，点对点服务可维护性和可拓展性难度增加。类似微机原理中，总线模式出现，来协调各个服务单元。服务总线通过类似集线器的架构将所有系统连接在一起。这个组件被称为 ESB（企业服务总线）。作为一个中间角色，来翻译协调各个不同格式或者标准的服务协议。
+
+
+
+
+· 随后基于应用程序编程接口（API）的 REST 模型通信，以其简洁、可组合性更高的特性，脱颖而出。各个服务以 REST 形式对外输出接口。当客户端通过 RESTful API 提出请求时，它会将资源状态表述传递给请求者或终端。该信息或表述通过 HTTP 以下列某种格式传输：JSON（Javascript 对象表示法）、HTML、XLT、Python、PHP 或纯文本。JSON 是最常用的编程语言，尽管它的名字英文原意为「JavaScript 对象表示法」，但它适用于各种语言，并且人和机器都能读。
+
+
+
+
+· 虚拟机、容器技术，以及谷歌的三篇论文：
+2003 年，GFS: The Google File System
+2004 年，MapReduce: Simplified Data Processing on Large Clusters
+2006 年，Bigtable: A Distributed Storage …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何参与openblox的圣诞活动]]></title>
         <id>https://www.theblockbeats.info/news/32775</id>

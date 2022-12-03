@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32777",
+          "author": null,
+          "description": "原文标题：《\n\nComing full circle\n\n》\n原文作者：Lui Luu\n原文编译：Kxp，BlockBeats\n\n\n\n\n  BlockBeats 注：原文标题《Coming full circle》取材自 SBF 宣布 FTX 被 Binance 收购的发文，FTX 正式落幕，加密行业在废墟中重建。\n\n\n\n2014 年 Mt. Gox 遭遇了黑客攻击，于是很多人纷纷退出了 Bitcoin 的交易，而我正好在那一年开始了我的区块链之旅。在 Bitcoin 的价格从 1100 美元一路下跌至不足 200 美元之后，人们终于开始寻求去中心化的进一步发展。Mt. Gox 事件对我们的警示在于，中心化系统中的资金安全与订单匹配完全掌握在交易所手中，因此我们必须摒弃该做法。一时间，无论是用户、投资者还是开发者，都无一例外地决定奉行区块链的根本原则，即公开透明、无需信任以及可供验证。\n\n\n\n\n\n这个问题我们现在需要问 FTX / 3AC 了\n\n\n\n\n在接下来的 8 年时间中，许多安全和非托管式交易解决方案如雨后春笋般出现：从原子掉期（atomic swap）到专注于 DEX 的 Layer 1（如 BitShares），从 EVM 链上的智能合约 DEX（如我在 2017 年共同创立的 Kyber，以及 Bancor 和 Uniswap）到混合式 DEX（0x、Airswap、dYdX）。正当我们沉浸在后 Mt. Gox 的建设，不断扩展 Crypto 安全与透明交易模式的边界时，谁都没有想到 FTX 会在本月初短短几天内发生崩盘。\n\n\n\n\n当前处境\n\n\n\n\nFTX 的崩盘之所以令人感到震惊，不仅仅是因为它给用户带来的巨额损失（可能超过 80 亿美元），还因为 FTX 一直被认为是业内最安全、最合规的 CEX 之一。此事一出，许多连带问题也纷至沓来：我们本可以采取何种措施提…",
+          "link": "https://www.theblockbeats.info/news/32777",
+          "publishedOn": "2022-12-03T04:50:58.000Z",
+          "wordCount": null,
+          "title": "一切不过是循环",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32776",
+          "author": null,
+          "description": "原文作者：谢锦斌（X Research DAO）\n原文编辑：AndyHoo（X Research DAO）\n\n\n\n\n1. 分布式计算发展历史和市场前景 \n\n\n1.1 发展历史\n\n\n\n\n· 最开始的计算机每台只能执行一个计算任务，随着多核心多线程的 CPU 出现，单个计算机可以执行多个计算任务。\n\n\n\n\n· 随着大型网站的业务增加，单服务器模式很难进行扩容，又增加硬件成本。面向服务的架构出现，由多台服务器组成。由服务注册者、服务提供者和服务消费者，三者组成。\n\n\n\n\n· 但是随着业务增加和服务器增加，SOA 模式下，点对点服务可维护性和可拓展性难度增加。类似微机原理中，总线模式出现，来协调各个服务单元。服务总线通过类似集线器的架构将所有系统连接在一起。这个组件被称为 ESB（企业服务总线）。作为一个中间角色，来翻译协调各个不同格式或者标准的服务协议。\n\n\n\n\n· 随后基于应用程序编程接口（API）的 REST 模型通信，以其简洁、可组合性更高的特性，脱颖而出。各个服务以 REST 形式对外输出接口。当客户端通过 RESTful API 提出请求时，它会将资源状态表述传递给请求者或终端。该信息或表述通过 HTTP 以下列某种格式传输：JSON（Javascript 对象表示法）、HTML、XLT、Python、PHP 或纯文本。JSON 是最常用的编程语言，尽管它的名字英文原意为「JavaScript 对象表示法」，但它适用于各种语言，并且人和机器都能读。\n\n\n\n\n· 虚拟机、容器技术，以及谷歌的三篇论文：\n2003 年，GFS: The Google File System\n2004 年，MapReduce: Simplified Data Processing on Large Clusters\n2006 年，Bigtable: A Distributed Storage …",
+          "link": "https://www.theblockbeats.info/news/32776",
+          "publishedOn": "2022-12-03T03:50:58.000Z",
+          "wordCount": null,
+          "title": "深度剖析下个万亿赛道：零知识证明和分布式计算结合",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32775",
           "author": null,
           "description": "圣诞将近，NFT 游戏平台 OpenBlox 推出圣诞徽章（Christmas Badge）收集活动，OpenBlox 旗下的知名游戏有 Move and Earn 应用 RunBlox 和 卡牌游戏 RogueBlox，RunBlox 已在 IOS 和 安卓系统推出 app，并于今年 8 月 18 日宣布与日本富豪前泽友作合作器械俱乐部合作并推出限量 NFT 跑鞋；RogueBlox 也于今年 11 月 23 日宣布即将开启 Alpha 游戏测试。\n\n\n\nOpenBlox 的本次圣诞活动徽章共分为 5 个级别，分别是：黑铁、青铜、白银、黄金、钻石徽章，每个级别的徽章领取都需要完成相应的任务，接下来为大家介绍完成每个级别任务的详细过程：\n\n\n\n黑铁任务（北京时间 12 月 1 日 8:00-12 月 24 日 8:00）：\n\n\n-关注OpenBlox 与 RunBlox，转发该推文并 @ 三个好友，附上 #runblox #rougeblox #openblox #Christmas 标签；\n\n\n-该任务在 Gleam 上进行，请按照步骤进行。\n\n\n\n\n\n\n青铜任务（12 月 4 日 8:00-12 月 24 日 8:00）：\n\n\n-使用 OpenBlox 圣诞相关素材进行二次创作；\n\n\n-在推特上发布并附上 #runblox #rougeblox #openblox #Christmas 标签；\n\n\n-填写表格并领取 Badge（预计将于 12 月 4 日发布表格链接）。\n\n\n\n白银任务（12 月 11 日 8:00-12 月 24 日 8:00）\n\n\n-在 Instagram 或者 Facebook 上使用 OpenBlox 滤镜进行拍照；\n\n\n-给照片添加圣诞装饰使其更具节日氛围；\n\n\n-附上 #runblox #rougeblox #openblox #Christmas 标签在 Instagram、Facebook 或者推特上面发布；\n\n\n-填写表格领取 Badge（预计将于 12 月 11 日发布表格链接）；\n\n\n-照片主题不限：家庭、风景、美食、cosplay 等。\n\n\n\n黄金任务（12 月 14 日 8:00-12 月 24 日 8:00）：\n\n\n-该任务将在 Gleam 上进行；\n\n\n-关注 @OpenBlox @RogueBlox @RunBlox 官方推特账号并转发推文；\n\n\n-订阅 RogueBlox 的 newsletter；\n\n\n-加入 Telegram/Discord 社区；\n\n\n-在 Youtube 上为其视频点赞。\n\n\n\n钻石任务（12 月 14 日 8:00-12 月 24 日 8:00）：\n\n\n-完成以上黑铁、青铜、白银、黄金四组任务；\n\n\n-黑铁、青铜、白银任务相关推文共计超过 100 次的转发和点赞；\n\n\n-填写表格并领取 Badge（预计表格链接将于 12 月 14 日发布）。\n\n\n\n除了完成上文中的黄金任务可以获得圣诞特定版鞋子外，OpenBlox 还准备了其他奖励：\n\n\n-将从完成黑铁、青铜、白银、黄金任务的用户中抽取十名用户赠予十双 RunBlox 鞋子；\n\n\n-将从完成所有五项任务中抽取一名幸运用户赠予一双稀有 runblox 鞋子+1 个 Genesis NFT+10000 个 OBX token。\n\n\n\n特别惊喜：\n\n\n-所有完成黄金任务的用户都可以收到一双 RunBlox 圣诞特定版鞋子；\n\n\n-如果你的钱包里已经有 30 双鞋，请使用新钱包领取。\n\n\n\n注意：本次发放的圣诞版 RunBlox 鞋子专为圣诞活动设计，将空投到你的 RunBlox app 的 Spending 里，与普通的 Runblox 鞋子不同，但每双圣诞特定版鞋依旧会提供 2 个能量，不受其属性的影响，每一个能量的使用都会获得 0.5 个 RUX，且圣诞版 RunBlox 鞋将一直保持全新状态，不需要维护，但也无法升级，目前不开放交易或转让功能。用圣诞鞋跑步每次最多可以获得 1 RUX，如果你的钱包里只有圣诞鞋，最少需要 200 RUX 才能提取使用。\n\n\n\n\n\n\n\n本次活动入口将于北京时间 12 月 24 日 8:00 关闭，获奖名单将于 12 月 25 日-12 月 30 日期间。\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
