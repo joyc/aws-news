@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-04T00:37:42.920Z</updated>
+    <updated>2022-12-04T06:10:22.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -875,16 +875,6 @@ The Beacon 是一款融合了 Roughlite 元素的奇幻动作类 RPG。在 The B
 
 
 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity极简入门｜第三十三讲：空投合约]]></title>
-        <id>https://www.theblockbeats.info/news/32763</id>
-        <link href="https://www.theblockbeats.info/news/32763"/>
-        <updated>2022-12-01T14:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Solidity极简入门｜第三十三讲：空投合约]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
