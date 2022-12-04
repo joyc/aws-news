@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-04T06:10:22.301Z</updated>
+    <updated>2022-12-04T12:13:22.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：火爆链游The Beacon教程；香港科创与Web3]]></title>
+        <id>https://www.theblockbeats.info/news/32778</id>
+        <link href="https://www.theblockbeats.info/news/32778"/>
+        <updated>2022-12-04T06:47:33.000Z</updated>
+        <summary type="html"><![CDATA[周末荐读：火爆链游The Beacon教程；香港科创与Web3]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crvUSD如何解决传统稳定币的三个问题？]]></title>
+        <id>https://www.theblockbeats.info/news/32779</id>
+        <link href="https://www.theblockbeats.info/news/32779"/>
+        <updated>2022-12-04T06:47:33.000Z</updated>
+        <summary type="html"><![CDATA[crvUSD如何解决传统稳定币的三个问题？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一切不过是循环]]></title>
         <id>https://www.theblockbeats.info/news/32777</id>

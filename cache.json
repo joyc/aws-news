@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32778",
+          "author": null,
+          "description": "周末荐读：火爆链游The Beacon教程；香港科创与Web3",
+          "link": "https://www.theblockbeats.info/news/32778",
+          "publishedOn": "2022-12-04T06:47:33.000Z",
+          "wordCount": null,
+          "title": "周末荐读：火爆链游The Beacon教程；香港科创与Web3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32779",
+          "author": null,
+          "description": "crvUSD如何解决传统稳定币的三个问题？",
+          "link": "https://www.theblockbeats.info/news/32779",
+          "publishedOn": "2022-12-04T06:47:33.000Z",
+          "wordCount": null,
+          "title": "crvUSD如何解决传统稳定币的三个问题？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32777",
           "author": null,
           "description": "原文标题：《\n\nComing full circle\n\n》\n原文作者：Lui Luu\n原文编译：Kxp，BlockBeats\n\n\n\n\n  BlockBeats 注：原文标题《Coming full circle》取材自 SBF 宣布 FTX 被 Binance 收购的发文，FTX 正式落幕，加密行业在废墟中重建。\n\n\n\n2014 年 Mt. Gox 遭遇了黑客攻击，于是很多人纷纷退出了 Bitcoin 的交易，而我正好在那一年开始了我的区块链之旅。在 Bitcoin 的价格从 1100 美元一路下跌至不足 200 美元之后，人们终于开始寻求去中心化的进一步发展。Mt. Gox 事件对我们的警示在于，中心化系统中的资金安全与订单匹配完全掌握在交易所手中，因此我们必须摒弃该做法。一时间，无论是用户、投资者还是开发者，都无一例外地决定奉行区块链的根本原则，即公开透明、无需信任以及可供验证。\n\n\n\n\n\n这个问题我们现在需要问 FTX / 3AC 了\n\n\n\n\n在接下来的 8 年时间中，许多安全和非托管式交易解决方案如雨后春笋般出现：从原子掉期（atomic swap）到专注于 DEX 的 Layer 1（如 BitShares），从 EVM 链上的智能合约 DEX（如我在 2017 年共同创立的 Kyber，以及 Bancor 和 Uniswap）到混合式 DEX（0x、Airswap、dYdX）。正当我们沉浸在后 Mt. Gox 的建设，不断扩展 Crypto 安全与透明交易模式的边界时，谁都没有想到 FTX 会在本月初短短几天内发生崩盘。\n\n\n\n\n当前处境\n\n\n\n\nFTX 的崩盘之所以令人感到震惊，不仅仅是因为它给用户带来的巨额损失（可能超过 80 亿美元），还因为 FTX 一直被认为是业内最安全、最合规的 CEX 之一。此事一出，许多连带问题也纷至沓来：我们本可以采取何种措施提…",
