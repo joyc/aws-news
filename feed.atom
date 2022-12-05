@@ -2,10 +2,458 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-05T06:10:26.933Z</updated>
+    <updated>2022-12-05T12:13:56.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[chatGPT+Web3，有哪些想象空间？]]></title>
+        <id>https://www.theblockbeats.info/news/32793</id>
+        <link href="https://www.theblockbeats.info/news/32793"/>
+        <updated>2022-12-05T10:24:48.000Z</updated>
+        <summary type="html"><![CDATA[原文标题： 《
+
+一文了解 chatGPT 和 Web3 可能的结合点
+
+》
+原文来源：DeFi之道
+原文作者：隔夜的粥
+
+
+一款名为 chatGPT 的 AI 对话机器人，再次让人们关注到了 OpenAI 公司开发的 GPT 语言模型。据悉，chatGPT 还只是基于 GPT-3 模型的衍生产品，而 OpenAI 即将公布的 GPT-4 模型将更为强大。
+
+
+注：数据上看，GPT-3 的训练参数是 1750 亿个，而 GPT-4 模型据称将达到 100 万亿个参数
+
+
+
+
+
+
+体验一番 chatGPT 之后，总体上它的表现会让人感到惊讶，但由于其学习的知识仅限于 2021 年之前，因此很多最新的问题是无法得到解答的，例如：
+
+
+
+
+
+由此可见，「chatGPT 将颠覆谷歌」等说法是被严重夸大的，但这确实为我们提供了关于「AI 能够做什么」的一些见解。
+
+
+而作为 Web3 的探索者，我们自然会想知道，以 chatGPT 为代表的 GPT 模型能够为 Web3 做些什么？
+
+
+
+图片来源：由无界版图 AI 生成  
+
+
+
+
+
+
+以下是我们暂时收集到的一些，欢迎补充：
+
+
+1、学习 Web3 基础知识（仅限于 2021 年以及以前的资料）  
+
+
+
+
+
+2、自动编写一些基础代码（需要程序员自己调整）  
+
+
+
+
+
+
+
+
+
+
+
+3、辅助写作  
+
+
+
+
+
+4、用作 discord、电报等 Web3 社区的聊天机器人  
+
+
+
+
+
+5、使用 ChatGPT 生成 AI 作图所需的 prompt 提示词，然后用于 AI 画作
+
+
+
+（图片来源：将 prompt 提示词导入‌ 后生成）  
+
+
+ 6、接入 Web3 游戏，用于 NPC 对话系统等  
+
+
+
+
+
+例如，Web3 游戏开发商 Webaverse 此前已尝试为游戏中的 NPC 接入 OpenAI 的 GPT-3 模型‌，相比传统的 NPC，这些 NPC 会更智能，除了解答游戏中的疑问，它们还可以回答有关现实世界中的一些简单问题。
+
+
+而除了 NPC，GPT 模型还可以为游戏做更多的贡献，包括生成角色、故事、艺术等：
+
+
+
+
+
+7、更多的可能性  
+
+
+最后，以上这一切可能还只是 AI + Web3 的开始，来自谷歌 DeepMind 的 Frederic Besse 以及 JONAS DEGRAVE 还提出了在 ChatGPT 中运行整个虚拟机‌的想法，对此，OP Labs 核心开发者 Kelvin Fichter 也发出了感叹。  
+
+
+
+
+
+你还想到了哪些结合点？  
+
+
+原文来源
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火爆全网的AI聊天机器人模型ChatGPT注册教程]]></title>
+        <id>https://www.theblockbeats.info/news/32792</id>
+        <link href="https://www.theblockbeats.info/news/32792"/>
+        <updated>2022-12-05T09:57:48.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+注册 ChatGPT 全攻略
+
+》
+原文来源：
+
+BoxMrChen
+
+
+
+最近 ChatGPT 很火，但是有人注册会经常出现不服务当前地区问题，现在手把手教你解决。
+
+
+准备
+
+
+1. 代理，要求是，韩国，日本，印度，新加坡，美国这几个地址。其他的不太清楚，反正香港肯定不行。
+2. 准备一个国外手机号，如果没有用接码平台也行，有些接码平台是无法接的，所以我找了一个，sms-activate.org
+3. 准备一个浏览器
+
+
+开始
+
+
+第一步 准备接码
+
+
+打开接码平台 sms-activate.org，注册一个账号
+
+
+
+
+
+
+
+
+接码 OpenAi 的一次费用是大概 11 卢布，人民币来看差不多是 1 块钱，不过只能充美金，就先充个 1 美金吧。
+
+
+
+
+
+
+充值完成需要等一会，就先放着，直接进行下一步。
+
+
+第二步 注册 OpenAI 账号
+
+
+首先是打开ChatGPT 的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，这里用邮箱注册作为例子。
+
+用邮箱注册后有个验证邮件，进去邮箱，点开链接。
+
+
+
+
+
+
+
+
+现在开始一步步走就行了。当然，有一些人会在这里遇到一个问题，会出现提示说不能在当前国家服务。
+
+
+
+
+
+
+
+
+一般你出现这种问题，就是因为你的代理没有全局，或者位置不对。香港的代理是 100% 无法通过的。但是又有个非常神奇的问题，只要你出现了这个提示，那么你接下来怎么切换代理，都是没用的。现在教你一招解决。
+
+
+解决地区问题
+
+
+首先，你要把你的代理切换到不是香港的地区，我这里选韩国。然后，先复制下面这段代码：
+
+
+window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.startsWith('@@auth0spajs')))
+
+
+接着在地址栏里输入：
+
+
+javascript:
+
+
+注意，这里一定要输入，因为你复制的话是粘贴不了的。然后再粘贴我们第一段复制的内容
+
+
+
+
+
+
+
+然后按下回车键，接着刷新页面，如果你的代理没问题，就可以正常看到注册页面了。
+
+
+填写手机号
+
+
+
+
+
+
+这里我们选择印度，然后到我们的接码网站上去。在左侧搜索 OpenAi，然后点击印度。
+
+
+
+
+
+
+点击小黄车。
+
+
+
+
+
+
+然后我们复制这个号码，粘贴过去。然后我们点击发送验证码就完事了。等一会网站会提示验证码，我们复制粘贴。
+
+
+
+
+
+
+这样就成功了，随便点一个进去完事。
+
+
+使用 ChatGPT
+
+
+注册完后，我们去ChatGPT 网站去登陆。在下面这个地方就可以开始你的奇思妙想了。
+
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX暴雷后，用户都转向DEX了吗？]]></title>
+        <id>https://www.theblockbeats.info/news/32790</id>
+        <link href="https://www.theblockbeats.info/news/32790"/>
+        <updated>2022-12-05T08:46:48.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：加密数据分析师 ahkek4
+原文编译：0x11，Foresight News
+
+
+
+
+
+
+要点
+
+
+
+
+FTX 破产后 CEX 交易量出现下滑；
+
+
+CEX 主导着每日交易量，大部分市场份额被 Binance 和 Coinbase 吞噬；
+
+
+DEX 增长缓慢，Uniswap 在交易量方面领先，而 Pancakeswap 在独立交易者数量方面领先；
+
+
+与 CEX 相比，DEX 的交易量不到 10%（增长空间很大？）
+
+
+
+
+在 FTX 破产之后，很多人都关心 CEX 和 DEX 的交易量表现：有什么重大变化吗？还是根本没有变化？在这篇文章中，我们将使用来自 CoinGecko 和 Dune analytics 的数据分析，试图得出一些结论。
+
+
+
+
+
+CEX 交易量分析
+
+
+
+
+这里将在 CoinGecko 上具有高交易量的中心化交易平台定义为头部 CEX。
+
+
+
+
+
+
+
+
+
+
+
+
+不出所料，Binance 和 Coinbase 在 FTX 倒闭后占据了主要市场份额。在 FTX 事件之前，Binance 的市场份额只有 50% 左右，而现在高达 80%。OKX 和 Coinbase 的市场份额也增长了几个百分点，而其他交易平台则保持不变。
+
+
+DEX 交易量分析
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+来自以太坊的 Uniswap 占据了大部分市场份额，其次是 BSC 上的 Pancakeswap。
+
+
+
+
+如果我们把 DEX 和 CEX 的交易量放在一起做一个对比图呢？
+
+
+
+
+CEX VS DEX 交易量分析
+
+
+
+
+
+
+
+上图显示了 CEX 和 DEX 的 7 天移动平均交易量。我们使用移动平均线的原因是为了消除交易量变化的峰值和不稳定，平滑图表以获得更清晰的可视化效果。11 月 6 日之后，总交易量保持在每天 100 多亿美元的低位（从平均 300 多亿美元下降）。那么在 FTX 破产之后，交易者会转向 DEX 进行交易吗？
+
+
+
+
+
+显然，在市场份额方面，DEX 交易量有所增加。然而增加并不显著，因为只有一小部分增长，但现在又慢慢减少。用户还在使用 CEX 交易吗？
+
+
+DEX 独立用户
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+头部 DEX 的每日交易笔数和独立用户数类似，没有明显的变化。
+
+
+
+
+结论
+
+
+
+
+CEX 贡献了大部分交易量，大多数加密货币交易者或持有人优先使用 CEX，CEX 受到更多监管并提供更简单方便的 UX/UI。与 DEX 相比，CEX 的流动性也更高。
+
+
+
+
+毫无疑问，DEX 将会增长，但仍需要更长的时间让用户从中心化转向去中心化。DEX 要想脱颖而出，他们需要改进 UX/UI 和流动性以获得更好的交易体验。
+
+
+
+
+
+
+
+
+
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话Gitcoin DAO战略合作伙伴OKX：如何更好与全球开发者站在一起？]]></title>
+        <id>https://www.theblockbeats.info/news/32783</id>
+        <link href="https://www.theblockbeats.info/news/32783"/>
+        <updated>2022-12-05T08:46:48.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：
+
+Gitcoin CN
+
+
+
+前言
+
+
+GitcoinDAO 在成立之初的使命就是资助那些可以创造价值的开源软件开发者。通过新颖的二次方融资 (QF) 的方法 (由 Vitalik Buterin, Zo Hitzig 和 E. Glen Weyl 提出), Gitcoin 建立了一个捐赠平台，并根据社区的集体智慧来分配资金。有些最早的 Gitcoin Grants 资助项目已经成长为以太坊生态中非常著名的成功案例，包括 Uniswap、WalletConnect、POAP、Yearn、Ethers.JS、Bankless 等等。随着 Gitcoin 的发展，GitcoinDAO 和一些行业领袖在过去的十一月达成了战略合作，一起推动社区管理的开源项目资助。
+
+
+Gitcoin 主要的合作伙伴 OKX 是世界上交易量第二大的加密货币交易所和领先的 Web3 生态系统。与其合作能够扩大 Gitcoin 的全球影响力，更有效地服务于亚太地区和其他新兴市场。OKX 对用户安全、透明度和产品创新的承诺对 Gitcoin 以及所有开发者来说都是至关重要的。通过 OKX 现有的一套去中心化的 Web 3 产品，Gitcoin 可以向更多的受众倡导【公共物品的资助】，共同推动开源加密创新。
+
+
+
+我们特地以此为契机与 Gitcoin Steward Bob Jiang 以及 OKX Ventures 负责人 Jeff Ren 进行了一次深度交流。Bob Jiang 一直作为 Steward 参与 Gitcoin 的社区治理，也是 Gitcoin 在亚太地区最活跃的声音之一。Jeff Ren 是香港著名科技投资人，多年来扎根于加密货币领域，赋能数十个头部顶尖项目。
+
+
+他们系统地讲述了 Gitcoin 和 OKX 合作的前景，分享了对行业趋势的深刻洞察，以及对推动亚太开发者社区的…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：火爆链游The Beacon教程；香港科创与Web3]]></title>
         <id>https://www.theblockbeats.info/news/32778</id>
