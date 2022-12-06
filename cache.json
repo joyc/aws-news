@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32832",
+          "author": null,
+          "description": "撰文：Leo，BlockBeats\n\n\n最近，一项新的 AI 应用 ChatGPT 横空出世，席卷了各大社交媒体。ChatGPT 是一个基于 OpenAI 的 GPT-3 模型，它可以通过自然语言文本进行对话，帮助用户解决各种问题。它可以用于自动客服、问答系统、智能对话机器人等应用场景。通过使用 ChatGPT，可以提高客户服务的效率和质量，为用户提供更好的体验。\n\n\n\n\nOpenAI 首席执行官 Sam Altman 近日也发文称，ChatGPT 于上周三推出后，短短数日已突破 100 万用户，并在回复马斯克时表示「单次对话的平均费用可能只有几美分」，正试图找出更精确的测量方法并压缩费用，而马斯克曾也参与 OpenAI 的创立，但于 2018 年退出董事会。\n\n\n\n\n除了与 AI 对话外，对于很多计算机爱好者来说，ChatGPT 似乎可以帮助他们实现编写代码，发现漏洞和修正代码等操作；对于 crypto 来说，ChatGPT 可能会提供更多功能，部署虚拟机、编写智能合约等。出于好奇，BlockBeats 与 ChatGPT 进行了一系列关于「如何创建一种新的 token 并流通于市场」的对话，ChatGPT 的回答经整理如下：\n\n\n\n\n创建新的 token 的步骤\n\n\n-首先，你需要决定你的 token 的类型，比如它是用于某个特定项目的内部交易，还是一种安全 token，代表着公司股权或资产。\n\n\n\n\n-其次，你需要设计你的 token 的技术架构，包括 token 的名称、符号、发行总量、发行价格等信息。\n\n\n\n\n-然后，你需要使用智能合约技术来实现你的 token。智能合约是一种用于执行特定条件的自动化代码，它可以在区块链上运行，用于管理你的 token 的发行、流通和交易。\n\n\n\n\n-接下来，你需要发布你的 token，并将其加入区块链网络中。这一步需要满足一定的…",
+          "link": "https://www.theblockbeats.info/news/32832",
+          "publishedOn": "2022-12-06T09:13:48.000Z",
+          "wordCount": null,
+          "title": "不懂代码，能不能通过ChatGPT 创建一个新的token？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32827",
+          "author": null,
+          "description": "原文标题：《\n\n汇总：12 个热门的元宇宙土地\n\n》\n原文来源：\n\n去中心化金融社区\n\n\n\n世界发展的速度比我们想象的要快。技术已经从 Web1.0 发展到 Web2.0，现在又要发展到 Web3.0。Web 3.0 与元宇宙有很大的关系。它们不是一回事。Web 3.0 是支持构建元宇宙的技术之一。\n\n\n我们在本文中讨论的 12 个元宇宙将是未来互联网的一部分 (或者至少其中一些会是吧)。\n\n\n元宇宙，我把它比作宇宙，是一个人们可以通过虚拟化身生活、工作、购物和做很多事情的地方，我们不需要亲自旅行去做这些事情。我们将能够在自己的卧室访问数千个虚拟世界。\n\n\n元宇宙据说是互联网的下一个进化，当 Facebook 在 2021 年 10 月将其名称改为 Meta 时，Web3 领域对 元宇宙土地进行了大肆宣传。\n这就是为什么在这篇文章中，我们将深入研究 12 个我们可以购买并最终投资的元宇宙土地。\n\n\n元宇宙的土地与现实世界的土地相似，除了它们是虚拟的这一点之外。我们在自己的实体土地上所做的事情也可以以多种方式复制到虚拟土地上。我们是想建立一个商店，还是想举办一个活动？在这片土地上，我们想做什么都可以。\n\n\n这些土地通常被划分为地块，并通过区块链上的不可更改的智能合约来限制供应。因此，不能凭空造出更多的土地。这就是它的价值所在：数字稀缺性。他们也可以通过区块链被追踪到，所以我们不必担心某天醒来之后发现我们的土地不见了或其他什么。\n\n\n元宇宙土地使用案例\n\n\n在进一步深入之前，我们应该先看看元宇宙土地的重要性，因为正如我的朋友所说，「我需要知道我花钱买的东西的价值。」\n\n\n根据元宇宙的不同，我们可以用我们的元宇宙做不同的事情。以下是一些可以使用元宇宙土地的例子:\n\n\n建造我们的房子\n\n\n有什么比拥有一套公寓更好的呢？我们可以决定把自己的房子转租给 Airbnb，并从中赚一些钱。事…",
+          "link": "https://www.theblockbeats.info/news/32827",
+          "publishedOn": "2022-12-06T08:24:48.000Z",
+          "wordCount": null,
+          "title": "12个热门的元宇宙土地汇总",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32829",
+          "author": null,
+          "description": "原文标题：《7 步让 chatGPT 写个基于钱包的 MEV BOT》\n原文作者：SsssswsZ，加密分析师\n\n\n\n最近 chatGPT 展现出的实力异常强大, 既然它这么牛逼，所以是否可以写一些略微复杂的代码出来，比如能让我们实打实赚钱的网格交易机器人甚至是 MEV Bot？结果来看很让人惊艳，先说结论：\n\n\n1. 通过一些 input \n\n调教，chatGPT 真的可以写出一个非常基础但是基本可用的 gird trading bot，并且能进行一些基础的优化。\n\n\n2. 更加出乎我意料的是，它竟然还能写出一些简单的 MEV BOT，甚至可以调用不同的 api 去写满足不同条件的 MEV BOT。\n\n\n\n\n简单来说，只要反复执行下面的步骤，就可以得到一个可用的基于钱包的 mev 机器人：\n\n\n1. 开始输入简单的业务需求（例如要求 AI 写一个网格交易机器人）\n\n\n2. 通过输入\"optimize the above code\"命令让 AI 优化几次代码\n\n\n3. 输入更为复杂的业务需求（例如要求 AI 写一个 mev 套利机器人）\n\n\n4. 通过命令继续优化代码\n\n\n下面我们就具体看看怎么做\n\n\n我们尝试在 Input 区域输入一个具体的需求，例如「write a grid trading bot with binance API「, 我们就可以得到如下 Python 版本的一个网格买入代码模板（它甚至会告诉我们它的实现思路是什么样的），仔细看看，并没有什么明显的 bug，属于不用改就可以用的程度。但是需要注意的是，哪怕每次输入的命令是一样的，但是得到的代码版本也是不同的，不过对于同一个问题，chatGPT 给出的思路都是一样的。\n\n\n\n\n\n\n\n\n· 当然，本着高要求的态度，我们可以继续输入「optimize the code above「来让 AI 自动优化下上面的…",
+          "link": "https://www.theblockbeats.info/news/32829",
+          "publishedOn": "2022-12-06T08:24:48.000Z",
+          "wordCount": null,
+          "title": "手把手教你使用chatGPT七步写出基于钱包的MEV BOT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32830",
+          "author": null,
+          "description": "原文作者：KyleSamani，Multicoin Capital 联创\n原文编译：Yvonne，MarsBit\n\n\n注：本文来自 Multicoin Capital 联创 KyleSamani 推文，其阐述个人对「ChatGPT 将威胁谷歌」一说的看法：\n\n\n以下是我个人对 ChatGPT 的一些想法，如有错误，欢迎指正。\n\n\n简单来说，我认为 ChatGPT 很酷，但对谷歌来说并不是真正的威胁。\n\n\nChatGPT 有 3 个令人惊奇的设计：\n\n\n1）它可以根据其 AI 的复杂性对看似复杂的问题给出正确的答案\n2）它可以正确地根据上下文语境进行对话\n3）可支持 100GB 文件\n\n\n我将从第三点开始谈。这是最令人难以置信的……你可以在手机上运行整个 ChatGPT！\n\n\n你不能在本地设备上运行 Google Search。\n\n\n我不确定如何压缩互联网数据集。也许他们会删除大量重复数据？\n\n\n现在让我们重新审视第一点。这似乎令人印象深刻，不是吗？谷歌多年来一直在做类似的事情，在搜索结果顶部使用单一框答案功能。\n\n\nChatGPT 是否更擅长回答某些类别的问题？根据 Twitter 上的轶事截图，似乎是的，但我不愿意在没有深入了解的情况下在这里提出个人观点。\n\n\n显然，谷歌拥有庞大的团队从事 LLM 工作，这可能与 OpenAI 相当。Open AI 有可能拥有真正的技术优势吗？是的，有可能，但我相当怀疑。不过，没有明显的理由支撑这一点。\n\n\n但我认为更重要的是，这好比将苹果与橘子进行比较。Google 搜索框处理更大的无限信息空间。最明显的是，包括图像、视频、地图等。\n\n\n通过减少工作量以及合并更少的数据，ChatGPT 缩小可回答问题的范围，这在某些特定情况下使它看起来比谷歌更好。\n\n\n现在让我们再来聊一聊第二点……关于对话部分：\n\n\ni/ 我认为谷歌已经这样做了（参见几年前谷歌 IO 的演示，当时谷歌助手打电话给餐厅为用户预订）；\n\n\nii/ 你看不到谷歌上的聊天对话是因为 UI 限制的功能。\n\n\n我认为第 i 点相当清楚。谷歌显然已经在对话系统上投入大量时间，并在少数产品中公开该界面...... 通常，搜索 UI 的要点是回答问题，而不是提供对话。\n\n\n也许谷歌在搜索用户界面上可以进行迭代，以支持更多类似对话的功能。不过，我怀疑他们已经拥有所有的技术来实现这一点。\n\n\n总的来说，我仍然对 LLM 感兴趣，但我认为到目前为止，关于这些模型将颠覆谷歌的说法被夸大了。但同样，我不是这方面的专家，很想听听深有研究的人所持反对意见。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/32830",
+          "publishedOn": "2022-12-06T08:24:48.000Z",
+          "wordCount": null,
+          "title": "Multicoin Capital联创：我不认为ChatGPT会给谷歌造成真正的威胁",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32812",
           "author": null,
           "description": "原文标题：《一文速览 20 个 ETHIndia 黑客松 FEVM 获奖项目》\n原文作者：Morty，深潮 TechFlow\n\n\n12 月 4 日，Filecoin 官方公布了 ETHIndia FEVM 黑客松的比赛结果。20 个团队从来自 341 个城市的 2000 名开发者中脱颖而出。此次奖项分为 Grand Prize 和 Pool Prize。Grand Prize 获奖团队共计 6 个，Pool Prize 获奖团队共计 14 个。\n\n\n以下是获奖项目速览：\n\n\nGrand Prize\n\n\n1、Kangaroo\n\n\nKangaroo 是一个数据 DAO，它允许 DAO 成员使用入门套件，在 FEVM 上部署自己的数据 DAO，并激励存储供应商使用 FEVM 上的原生治理 Token 存储数据。\n\n\n2、Storemate\n\n\n人们对于 IPFS 的初始印象是「数据在 IPFS 上保存后，就不可改变，且永远储存」，但其实「永远存储」是一个伪概念，数据可用性的维持依赖于后台的一系列复杂事件。Storemate 致力于为用户提供一个能够显示所有与 IPFS 相关的资产面板，允许用户为 IPFS 托管数据设置赏金，用户可以根据他们数据的销路和交易情况，订阅个性化的推送通知。\n\n\n3、SnapLoad\n\n\nSnapLoad 整合了 Metamask，致力于降低操作门槛，帮助用户将自身文件和数据，以一种安全和可靠的方式进行分布式存储。\n\n\n4、Polysnap\n\n\nPolysnap 是针对 Metamask 的 snap 扩展构建的。它允许开发者动态执行部署在 IPFS 上的任何 WASM Wrappers，而无需构建新的 snap。\n\n\n5、Deduplication layer on Filecoin（该项目同时获得了 Pool Prize）\n\n\nDeduplicati…",
