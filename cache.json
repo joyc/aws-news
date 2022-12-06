@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32834",
+          "author": null,
+          "description": "原文标题：《Maple 面临 3600 万美元恶意违约，无抵押贷款是不是伪命题？》\n原文作者：\n\nAzuma，odaily星球日报\n\n\n12 月 5 日，当前链上规模最大的无抵押贷款协议 Maple Finance 发布公告称，因合作方 Orthogonal Trading 对其财务状况存在重大陈述失实，致使协议面临巨额违约风险，将断绝与该公司的所有合作（包括取消 Orthogonal Trading 附属公司 Orthogonal Credit 的代理人资格），并寻求所有适当的法律途径来追回资金。\n \n\n\n\n\n根据公告及 The Block 的跟进披露内容，Orthogonal Trading 隐瞒了该公司早已资不抵债的事实，在 M11 Credit 作为代理人的 USDC 池和 WETH 池合计借走了约 3600 万美元的资金，并持续拖延欠款，致使 Maple Finance 协议以及所有存款用户面临巨额损失风险。\n\n\nMaple Finance 的运行机制\n\n\n在解释 Orthogonal Trading 这笔违约具体构成什么影响之前，我们先来简单解释一下 Maple Finance 的运行机制。Maple Finance 的系统循环依赖于四种角色——存款人、保险人、借款人、代理人。\n\n\n存款人和保险人很好理解，即向池内提供可借资金的用户，以及负责应对池内突发情况、垫付损失的保险方，二者均可通过各自的行为获得借贷利息收入以及 Maple Finance 所释放的Token激励。这里我们需要着重解释的是后两种角色。\n\n\n借款人即有着借款需求的用户，在 Maple Finance 内一般都是机构客户，借款人提交借款申请前需填报公司资料、借款用途、还款规划等等信息，申请最后会交予代理人审核。\n\n\n\n\n\n代理人则是负责审批贷款的角色，在 Maple Finance 一般都是专…",
+          "link": "https://www.theblockbeats.info/news/32834",
+          "publishedOn": "2022-12-06T14:35:11.000Z",
+          "wordCount": null,
+          "title": "Maple面临3600万美元恶意违约，无抵押贷款是不是伪命题？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32832",
           "author": null,
           "description": "撰文：Leo，BlockBeats\n\n\n最近，一项新的 AI 应用 ChatGPT 横空出世，席卷了各大社交媒体。ChatGPT 是一个基于 OpenAI 的 GPT-3 模型，它可以通过自然语言文本进行对话，帮助用户解决各种问题。它可以用于自动客服、问答系统、智能对话机器人等应用场景。通过使用 ChatGPT，可以提高客户服务的效率和质量，为用户提供更好的体验。\n\n\n\n\nOpenAI 首席执行官 Sam Altman 近日也发文称，ChatGPT 于上周三推出后，短短数日已突破 100 万用户，并在回复马斯克时表示「单次对话的平均费用可能只有几美分」，正试图找出更精确的测量方法并压缩费用，而马斯克曾也参与 OpenAI 的创立，但于 2018 年退出董事会。\n\n\n\n\n除了与 AI 对话外，对于很多计算机爱好者来说，ChatGPT 似乎可以帮助他们实现编写代码，发现漏洞和修正代码等操作；对于 crypto 来说，ChatGPT 可能会提供更多功能，部署虚拟机、编写智能合约等。出于好奇，BlockBeats 与 ChatGPT 进行了一系列关于「如何创建一种新的 token 并流通于市场」的对话，ChatGPT 的回答经整理如下：\n\n\n\n\n创建新的 token 的步骤\n\n\n-首先，你需要决定你的 token 的类型，比如它是用于某个特定项目的内部交易，还是一种安全 token，代表着公司股权或资产。\n\n\n\n\n-其次，你需要设计你的 token 的技术架构，包括 token 的名称、符号、发行总量、发行价格等信息。\n\n\n\n\n-然后，你需要使用智能合约技术来实现你的 token。智能合约是一种用于执行特定条件的自动化代码，它可以在区块链上运行，用于管理你的 token 的发行、流通和交易。\n\n\n\n\n-接下来，你需要发布你的 token，并将其加入区块链网络中。这一步需要满足一定的…",

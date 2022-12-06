@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-06T12:14:08.966Z</updated>
+    <updated>2022-12-06T18:09:43.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maple面临3600万美元恶意违约，无抵押贷款是不是伪命题？]]></title>
+        <id>https://www.theblockbeats.info/news/32834</id>
+        <link href="https://www.theblockbeats.info/news/32834"/>
+        <updated>2022-12-06T14:35:11.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Maple 面临 3600 万美元恶意违约，无抵押贷款是不是伪命题？》
+原文作者：
+
+Azuma，odaily星球日报
+
+
+12 月 5 日，当前链上规模最大的无抵押贷款协议 Maple Finance 发布公告称，因合作方 Orthogonal Trading 对其财务状况存在重大陈述失实，致使协议面临巨额违约风险，将断绝与该公司的所有合作（包括取消 Orthogonal Trading 附属公司 Orthogonal Credit 的代理人资格），并寻求所有适当的法律途径来追回资金。
+ 
+
+
+
+
+根据公告及 The Block 的跟进披露内容，Orthogonal Trading 隐瞒了该公司早已资不抵债的事实，在 M11 Credit 作为代理人的 USDC 池和 WETH 池合计借走了约 3600 万美元的资金，并持续拖延欠款，致使 Maple Finance 协议以及所有存款用户面临巨额损失风险。
+
+
+Maple Finance 的运行机制
+
+
+在解释 Orthogonal Trading 这笔违约具体构成什么影响之前，我们先来简单解释一下 Maple Finance 的运行机制。Maple Finance 的系统循环依赖于四种角色——存款人、保险人、借款人、代理人。
+
+
+存款人和保险人很好理解，即向池内提供可借资金的用户，以及负责应对池内突发情况、垫付损失的保险方，二者均可通过各自的行为获得借贷利息收入以及 Maple Finance 所释放的Token激励。这里我们需要着重解释的是后两种角色。
+
+
+借款人即有着借款需求的用户，在 Maple Finance 内一般都是机构客户，借款人提交借款申请前需填报公司资料、借款用途、还款规划等等信息，申请最后会交予代理人审核。
+
+
+
+
+
+代理人则是负责审批贷款的角色，在 Maple Finance 一般都是专…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不懂代码，能不能通过ChatGPT 创建一个新的token？]]></title>
         <id>https://www.theblockbeats.info/news/32832</id>
