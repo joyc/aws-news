@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32853",
+          "author": null,
+          "description": "原文作者：Terra 研究员 FatMan\n原文编译：加密 KOL 0xJamesXXX\n\n\n\n\n加密货币行业这一年黑暗熊市的开章——Luna 崩盘事件的重要调查进展。Terra Research Forum 成员 FatMan 发布调查成果：最直接导致 UST 脱钩 LUNA 崩盘的罪魁祸首其实是 Do Kwon 领导的 Terraform Labs。 「人类可以撒谎，但区块链不能。」——FatMan。以下是调查报告的全文翻译。\n\n\n\n\n\n\n\n最新的链上数据揭示了 5 月 UST 贬值的根本原因：在脱钩前的 3 周内，一个实体在公开市场上抛售了超过 4.5 亿美元的 UST。在他们最后一次出售的 4 天后，UST 开始崩溃。 哪个实体？不是别人，正是 Terraform Labs (TFL)。\n\n\n\n\n这份由匿名研究员@Cycle_22（发现 Hodlnaut 破产的人）整理的重磅数据显示，TFL 在 UST 脱钩前的一段时间内突然开始，疯狂抛售了共计数亿的 UST。\n\n\n\n\n\nTFL 一直在宣扬 UST 被「攻击」的说法。但这是个假消息。实际上，TFL 自己在短时间内不负责任地抛售了大量的 UST，从而削弱了 Curve pool 的平衡。这降低了流动性，严重危害了目标的 UST 锚定。\n\n\n\n\nUST 脱钩的最后一击可能是由任何人执行的。因为在看到 TFL 耗尽流动资金后，有多少大机构拥有 UST，并且可能想出售？\n\nGenesis、3AC、Hodlnaut、Jump、Celsius？这个名单并非全部。\n\n但这是切题的。一个 8000 万美元的抛售是如何使一个 100 亿美元以上的生态系统脱钩的？\n\n\n简而言之，把 UST 看作是一个盒子。真正的美元可以进去，同时也可以出来。只要有足够的剩余，任何人都可以用他们的 UST 代币从盒子里换取真正的美元。\n\n同时 Anch…",
+          "link": "https://www.theblockbeats.info/news/32853",
+          "publishedOn": "2022-12-07T03:56:15.000Z",
+          "wordCount": null,
+          "title": "Luna崩盘事件重要调查进展：Do Kwon才是罪魁祸首？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32836",
+          "author": null,
+          "description": "原文标题：《\n\nTea.xyz：可用于激励开源生态系统的去中心化协议\n\n》\n原文作者：\n\nMax Howell  Timothy Lewis  Thomas Borrel\n\n\n原文编译：\n\n阿法兔\n\n\n\n本协议旨在为所有开源软件创建开放的、公共的和稳定的注册表，使得项目能够独立发布版本，而不再依赖第三方，将这些不规则的数据集合到数百个独立（和重复）的系统中。通过 tea 协议，开源软件包维护者，可以把自己负责的版本发布到由区块链驱动的去中心化注册表，从而消除单一故障源，发布无法篡改的版本，允许社区管理整个开源生态系统区域，避免外部影响。\n\n\n\nTea 可以激励开源生态系统，主要方式是是通过让参与 Tea 协议的开发者，将能够获取的价值与所依赖并希望保护的软件包进行质押。Tea 协议的图表可以提供不可篡改的的软件包注册、对于依赖性要求、验证软件包的真实性，以及通过预言机告知 tea 报酬激励算法。系统性的通货膨胀，基于算法会被分摊到所有软件包上，如果发现安全或开发问题，开发者可以通过上传证据，可以针对软件包的索赔，系统会对有错误和安全上传方进行索赔。开源社区的成员可以审查软件包的质量问题，而 Tea 协议可以通过制定比例的削奖励减，来应对这些审查。  \n\n\n1. 声明  \n\n\n本白皮书中列出的信息仍处于初步阶段。因此，本文作者和任职的相关机构，都不需要对下列信息的最终结果或者正确性承担任何责任，本声明适用于法律允许的最大范围内，无论和侵权、合同、或者其他与本白皮书有关的内容，上述作者和任职机构都不需要承担任何责任。\n\n\n本白皮书或其中的任何内容均不得构成与任何合同或承诺有关的基础，也不得作为订立任何合同的原因，本白皮书中的任何内容都不构成对本文讨论的任何代币的销售推销。如果本白皮书在某些司法管辖区域，需要有关部门的许可或注册，那么，本白皮书不计划传递一切和推销有关的观点和信息…",
+          "link": "https://www.theblockbeats.info/news/32836",
+          "publishedOn": "2022-12-07T03:29:15.000Z",
+          "wordCount": null,
+          "title": "Tea.xyz：可用于激励开源生态系统的去中心化协议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32834",
           "author": null,
           "description": "原文标题：《Maple 面临 3600 万美元恶意违约，无抵押贷款是不是伪命题？》\n原文作者：\n\nAzuma，odaily星球日报\n\n\n12 月 5 日，当前链上规模最大的无抵押贷款协议 Maple Finance 发布公告称，因合作方 Orthogonal Trading 对其财务状况存在重大陈述失实，致使协议面临巨额违约风险，将断绝与该公司的所有合作（包括取消 Orthogonal Trading 附属公司 Orthogonal Credit 的代理人资格），并寻求所有适当的法律途径来追回资金。\n \n\n\n\n\n根据公告及 The Block 的跟进披露内容，Orthogonal Trading 隐瞒了该公司早已资不抵债的事实，在 M11 Credit 作为代理人的 USDC 池和 WETH 池合计借走了约 3600 万美元的资金，并持续拖延欠款，致使 Maple Finance 协议以及所有存款用户面临巨额损失风险。\n\n\nMaple Finance 的运行机制\n\n\n在解释 Orthogonal Trading 这笔违约具体构成什么影响之前，我们先来简单解释一下 Maple Finance 的运行机制。Maple Finance 的系统循环依赖于四种角色——存款人、保险人、借款人、代理人。\n\n\n存款人和保险人很好理解，即向池内提供可借资金的用户，以及负责应对池内突发情况、垫付损失的保险方，二者均可通过各自的行为获得借贷利息收入以及 Maple Finance 所释放的Token激励。这里我们需要着重解释的是后两种角色。\n\n\n借款人即有着借款需求的用户，在 Maple Finance 内一般都是机构客户，借款人提交借款申请前需填报公司资料、借款用途、还款规划等等信息，申请最后会交予代理人审核。\n\n\n\n\n\n代理人则是负责审批贷款的角色，在 Maple Finance 一般都是专…",
