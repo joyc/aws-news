@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32872",
+          "author": null,
+          "description": "三大 CeFi 平台之二已破产清算，唯留手握 20 亿美元资产规模的 Nexo。FTX 暴雷之后，乌云延伸到了多家平台，Genesis、BlockFi 等纷纷告急；Celsius，三大 CeFI 之一的已经在上一轮 Luna 暴雷时破产清算。2022 年至今，Nexo 的代币 NEXO 丢失了 80% 的 market cap。\n\n\n \n推特上渐渐开始有人质疑 Nexo 的流动性。翻开 Nexo11 月底前的推特，下面的评论大多是推特用户质疑的声音或者 Nexo 平台用户的客服需求，反映某些技术 bug。Nexo 代币在 12 月 1 日前 7 天内持续下跌，在 12 月 1 日后有大幅提升，最新报涨幅 9,16%。近几日在币安上无 Nexo 可出借卖空。\n\n\n \n为了对抗沽空，Nexo 于 11 月 29 日在推特发布了长串盈利模型以及多篇推文解释其运行模式和各项金融术语，重申其在 BlockFi 和 Genesis 无敞口，不提供无抵押贷款，没有其他 2 大 CeFi 被用户质疑的资产-负债不合（asset-liability mismtach），并强调其 proof of reserves。其审计师美国公司 Armanino 也发布审计报告，在对 Nexo 的钱包地址进行了调查查清平台资产，通过 API 了解了平台负债后，出具审计意见表示 Nexo 美元资产价值大于负债。之后 11 月 30 日，Nexo 发布了消息拿到意大利的相关牌照，可以在意大利进行金融服务，宣传打入一线市场。过了一天，Nexo 又发布消息，支持 Pancake。\n\n\n\n\n在市场整体低迷的情况下，Nexo 依旧大举扩张。此前于 5 月向楚格州递交意愿书购买 Celsius 的资产，6 月购买由 Peter Thiel 和 Coinbase Venture 成立的在清算边缘游走的借贷平台 Vauld…",
+          "link": "https://www.theblockbeats.info/news/32872",
+          "publishedOn": "2022-12-08T03:00:39.000Z",
+          "wordCount": null,
+          "title": "借贷平台Nexo会是下一个暴雷的吗?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32863",
+          "author": null,
+          "description": "原文标题：《Layer2 Token经济学：除了治理，还应该具备什么价值？》\n原文作者：Michael Nadeau\n原文来源：The DeFi Report\n\n\n为什么我们需要 L2？\n\n\n任何在 2021 年期间使用以太坊的人都知道，该区块链可能会变得非常拥堵。这是一个典型的问题——需求太多而供应不足。因此，gas 费用（交易费）变得相当昂贵。在牛市高峰期，使用以太坊区块链发送一笔交易需要花费近 200 美元。这是不可扩展的。但它告诉我们一些事情。\n\n\n第一，以太坊区块空间非常宝贵。有人说以太坊区块空间是当今生态系统的「纽约市」。这是一个很好的问题。\n\n\n第二，以太坊在其产品路线图中仍然非常早期。今天它无法支持 10 亿用户。为了支持更多的用户、应用程序和用例，以太坊必须在 layer 2 进行扩展。\n\n\n值得注意的是，对区块空间的需求可能总是超过供应。为什么？因为历史上每一种重要的计算资源都是如此。CPU、GPU、内存、存储以及有线和无线带宽都可以提供有用的线索。\n\n\n正如 Chris Dixon 所指出的，计算运动往往在应用程序和基础设施之间有相互加强的反馈回路。例如，智能手机在过去十年取得了巨大的进步。与此同时，我们从手机上获得的大部分价值来自手机上的应用程序。随着应用程序的改进，越来越多的用户涌向智能手机，这给了制造商更多的资金来投资于基础层手机基础设施，从而在手机（基础设施）的发展和人们使用的东西（应用程序）之间形成了一个强化的反馈回路。\n\n\n我们今天可以在以太坊上看到这种情况。\n\n\n随着以太坊应用程序的改进，更多用户涌向以太坊。随着越来越多的用户使用该区块链，我们遇到了可扩展性的问题。这将推动重新投资于基础设施的需求，以支持更多的用户，更好的应用程序，以及改善用户体验。\n\n\n以太坊正在为其「宽带」时刻做好准备。Layer 2 可以被视为区块链应用的宽带。随着…",
+          "link": "https://www.theblockbeats.info/news/32863",
+          "publishedOn": "2022-12-08T02:30:39.000Z",
+          "wordCount": null,
+          "title": "Layer2 Token经济学：除了治理，还应该具备什么价值？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32869",
           "author": null,
           "description": "原文标题：《以太坊 L2 与公链的格局演化》\n原文作者：蓝狐笔记\n\n\n\n\n可以先看看一些当前数据的趋势以及以太坊的技术演化方向。\n\n\n\n\n1. 不同链上 DeFi 的 TVL 和交易量\n\n\n\n\nArbitrum 和 Optimism 的 TVL 排名从十名以外逐步进入前十。\n\n\n\n\n\n\n\n\n\nArbitrum 和 Optimism 的 DeFi 的日交易量排名进入前五。\n\n\n\n\n\n\n\n从上述图表可以看出，DeFi 的 TVL 方面，Arbitrum 排名第五位，其前面仅有以太坊、BSC、Tron 以及 Polygon，超过 Avalanche、Solana 等，而 Optimism 排名第八位，也超过了多数公链。\n\n\n\n\n如果从 24 小时 DeFi 交易量来看，Arbitrum 排名第三，Optimism 排名第五。Arbitrum 仅次于以太坊、BSC 两个活跃度最高的公链，已经超过大多数公链。Optimism 则仅次于以太坊、BSC 和 Polygon 这三大公链，也超过绝大多数公链。DeFi 交易量在一定程度上反映了链的活跃度。\n\n\n\n\n2. 生态项目发展\n\n\n\n\n基本上 L2（Arbitrum 和 Optimism）上 DeFi、NFT、GameFi 项目都已经齐全，且原来 L1 上一些主要的 DeFi 协议，如 Aave、Uniswap、Synthetix、Perpetual 等都在 L2 有提供服务。\n\n\n\n\n此来，还有一些原生的 L2 项目也开始展示出自己的潜力。比如在 Arbitrum 网络上，游戏生态类项目 magic 网络（TreasureDAO）试图构建 web3 上的任天堂，给不同游戏提供各种底层服务，初步展示出生态雏形。目前有一些游戏受到社区关注（如 thebeacon，推出初步原型不到二周其独立地址数超过 2 万）；DeFi 类项目，截止到写稿…",
@@ -193,16 +213,6 @@
           "publishedOn": "2022-12-06T03:09:42.000Z",
           "wordCount": null,
           "title": "美林时钟模型研究：加密货币当前现状",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32794",
-          "author": null,
-          "description": "原文标题：《我们和 ChatGPT 聊了聊 Web3 的现状与未来》\n原文来源：odaily星球日报\n\n\n近日，一款名为 ChatGPT 的聊天 AI 在网上爆火。与带着「人工智障」印象标签的同类产品不同，ChatGPT 似乎在各个领域都能掺和几句，发发见解。那 AI 又是如何看待加密世界和 Web3 的呢？\n\n\n在圈内大 V 频繁打脸和崩坏的时代，Odaily 星球日报向 ChatGPT 灵魂发问并整理如下，涵盖加密知识、市场研判、从业指南等多个方向。\n\n\n关于行业理解\n\n\nOdaily 星球日报：比特币白皮书的重点是那些？\n\n\nChatGPT：比特币白皮书是由比特币的发明者中本聪（Satoshi Nakamoto）于 2008 年发表的一篇论文。它描述了比特币的技术原理、运行机制、安全性和可扩展性等方面的内容。比特币白皮书的重点包括：\n\n\n定义比特币：比特币是一种分布式数字货币，它使用密码学方法来保证交易的安全性和不可篡改性。\n\n\n去中心化：比特币是一种去中心化的数字货币，它不依赖于特定的金融机构或政府来发行、管理和监督。\n\n\n共识机制：比特币采用工作量证明（PoW）共识机制来保证网络的安全性和稳定性。\n\n\n区块链技术：比特币使用区块链技术来存储交易信息，并使用密码学方法来保证交易的安全性和不可篡改性。\n\n\n挖矿机制：比特币的挖矿机制可以保证网络的安全性，并为参与者提供一定的收益。\n\n\n这些都是比特币白皮书的重点内容。如果您有其他问题，请随时告诉我。\n\n\nOdaily 星球日报：谁是加密领域最富有的人？\n\n\nChatGPT：很抱歉，我无法回答这个问题，因为我是一个语言模型，并没有浏览网页的能力。我只能回答基于我所获得的训练数据。我可以回答关于加密领域的一般问题，但不能提供具体人名。如果您有其他问题，请随时告诉我。\n\n\n（Odaily 星球日报注：机器人三原则之： 1、保…",
-          "link": "https://www.theblockbeats.info/news/32794",
-          "publishedOn": "2022-12-05T14:00:30.000Z",
-          "wordCount": null,
-          "title": "「机智」的ChatGPT是怎么看待加密世界和Web3的？",
           "imageUrl": null
         }
       ]
