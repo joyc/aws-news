@@ -204,56 +204,6 @@
           "wordCount": null,
           "title": "Multicoin Capital联创：我不认为ChatGPT会给谷歌造成真正的威胁",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32812",
-          "author": null,
-          "description": "原文标题：《一文速览 20 个 ETHIndia 黑客松 FEVM 获奖项目》\n原文作者：Morty，深潮 TechFlow\n\n\n12 月 4 日，Filecoin 官方公布了 ETHIndia FEVM 黑客松的比赛结果。20 个团队从来自 341 个城市的 2000 名开发者中脱颖而出。此次奖项分为 Grand Prize 和 Pool Prize。Grand Prize 获奖团队共计 6 个，Pool Prize 获奖团队共计 14 个。\n\n\n以下是获奖项目速览：\n\n\nGrand Prize\n\n\n1、Kangaroo\n\n\nKangaroo 是一个数据 DAO，它允许 DAO 成员使用入门套件，在 FEVM 上部署自己的数据 DAO，并激励存储供应商使用 FEVM 上的原生治理 Token 存储数据。\n\n\n2、Storemate\n\n\n人们对于 IPFS 的初始印象是「数据在 IPFS 上保存后，就不可改变，且永远储存」，但其实「永远存储」是一个伪概念，数据可用性的维持依赖于后台的一系列复杂事件。Storemate 致力于为用户提供一个能够显示所有与 IPFS 相关的资产面板，允许用户为 IPFS 托管数据设置赏金，用户可以根据他们数据的销路和交易情况，订阅个性化的推送通知。\n\n\n3、SnapLoad\n\n\nSnapLoad 整合了 Metamask，致力于降低操作门槛，帮助用户将自身文件和数据，以一种安全和可靠的方式进行分布式存储。\n\n\n4、Polysnap\n\n\nPolysnap 是针对 Metamask 的 snap 扩展构建的。它允许开发者动态执行部署在 IPFS 上的任何 WASM Wrappers，而无需构建新的 snap。\n\n\n5、Deduplication layer on Filecoin（该项目同时获得了 Pool Prize）\n\n\nDeduplicati…",
-          "link": "https://www.theblockbeats.info/news/32812",
-          "publishedOn": "2022-12-06T04:28:42.000Z",
-          "wordCount": null,
-          "title": "20个ETHIndia黑客松FEVM获奖项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32811",
-          "author": null,
-          "description": "撰文：0xLaughing，律动 BlockBeats\n\n\n\n\n\nBTC/SOL/FTT 跌幅对比\n\n\n\n\n最近一个月，整个加密世界都笼罩在 FTX/Alameda 暴雷事件的阴云之下，首先是各个公链生态下的 DeFi、NFT 等板块无一幸免，都遭受了不同程度的波及并迎来下跌，与 FTX 密切相关的 Solana 生态尤甚。以 11 月 5 日的相对高点为基准，Solana 生态的原生 Token SOL 的价格从 38.79 最低跌至 12.84，跌幅高达 66.9%，与之对比 BTC 的最大跌幅仅为 25.4%。\n\n\n\n\n超跌击垮了投资者的信心，甚至 Solana 上最大的 NFT 项目 DeGods 系列也传出坏消息，似乎在计划着「逃离」Solana 去其他公链。一时之间，「Solana 已死」的论调甚嚣尘上。\n\n\n\n\n本文尝试从以下几个问题出发，深入解读出现这种现象的缘由、Solana 未来可能的走向、并重新定位 Solana 在目前公链竞争中的格局：\n\n\n\n\n• FTX 暴雷究竟对 Solana 生态产生了什么影响才使得项目方们出逃？\n• Solana 生态超跌的原因是什么？\n• FTX 后续的破产清算会进一步将 Solana 推向深渊吗？\n• 失去 VC 的「VC 链」，这对于 Solana 来说意味着什么？\n• 灾后重建，从 Solana 的布局来看未来有什么优势和挑战？\n\n\n\n\n目录\n\n\n\n\n\n\n\n\n\nFTX 暴雷对 Solana 生态产生了什么影响？\n\n\n\n\n生态内 Token 价格严重下挫\n\n\n\n\n\nSolana 价格 K 线图\n\n\n\n\n以 11 月 5 日的相对高点为基准，Solana 生态的原生 Token SOL 的价格从 38.79 最低跌至 12.84，跌幅为 66.9%，相较历史最高点 229.94 跌幅高达 94.4%，回到了去年 3 月份…",
-          "link": "https://www.theblockbeats.info/news/32811",
-          "publishedOn": "2022-12-06T04:15:42.000Z",
-          "wordCount": null,
-          "title": "Solana的惊魂30天，重新审视这条「VC链」的过去、现在与未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32808",
-          "author": null,
-          "description": "原文标题：《从理论到代码的 Web3 生产力革命：ChatGPT 实现 DAO 的无投票治理机制》\n原文作者：\n\nVION WILLIAMS (Wechat:Z10850)\n\n\n本篇文章大概是目前 ChatGPT 的测试玩家，首个从理论探索再到代码设计的深度文章。这篇文章的创作过程中部分引入了 ChatGPT 进行辅助创作，并基于 ChatGPT 进行了业务设计的策划协助，最后演示了一个案例以及提供了本次演示的咒语本。\n\n\n\n\n\n文章通过对 DAO 的无投票治理机制的理论探索，业务设计，功能设计再到代码撰写，展示 Web3 与 AIGC 结合的未来工作模式。最后，这篇论证了一个事实，ChatGPT 将帮助原创深度内容的创造者，迈入职业生涯的新台阶，ChatGPT 与 Web3 的结合，是内容创作者与产品开发者的黄金时代。\n\n\nBest wishes!  \n\n\n01 \n\n\n投票治理的滥用问题\n\n\n在 LX DAO 投一个弃权票时，多次跳转交互确认，触发我继续思考之前尚未深度思考的一个命题，无投票治理机制。\n\n\n随后在 DAOs to World 社群发起了一些讨论，截取了部分讨论内容，用于表明为什么无投票治理机制，是当前 DAO 领域值得探索的命题。\n\n\n\n\n\n\n投票是手段之一，而非唯一目的；滥用投票导致成员职责边界的模糊；执行投票削弱执行小队的领导力，团队执行的默契与信任不是靠投票建立；过多投票将会导致效率低下成本增加；...\n\n\n总而言之，投票动作并不等于民主自治，投票动作只是民主自治政体的一种可选项治理手段之一。\n\n\n对民主制度的反问\n\n\n尽管投票治理是 DAO 默认的治理手段，然而我最近在探索的 Web3 品牌市场方案中，假设 DAO 模式在 Web3 品牌市场的大规模落地应用，除了助记词难题，DAO 的投票难题也是一个阻碍规模化的大问题。\n\n\n解决一个问题的方法有很…",
-          "link": "https://www.theblockbeats.info/news/32808",
-          "publishedOn": "2022-12-06T04:09:42.000Z",
-          "wordCount": null,
-          "title": "从理论到代码的Web3生产力革命：ChatGPT实现DAO的无投票治理机制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32810",
-          "author": null,
-          "description": "原文标题：《链上数据分析：上涨千倍后，以太坊早期参与者们还持有 ETH 吗？》\n原文来源：Nansen\n\n\n本报告旨在用链上数据调查以太坊 ICO 参与者的外部账户（EOA）链上行为，以帮助回答以下问题：\n\n\n谁是最忠实的以太坊 Holder, 一直没抛售过\n\n\n谁是目前链上最活跃的巨鲸玩家？\n\n\nETH ICO 参与者钱包目前使用的主要 Web3 协议有哪些？\n\n\nETH ICO 参与者们最钟爱的跨链桥是谁？\n\n\nETH ICO 参与者们在 ETH 2.0 信标链上上质押了多少枚 ETH？\n\n\n随着时间的推移，这些钱包目前是否如其 Eth 余额所示看涨？  \n\n\n核心观点  \n\n\n早期以太坊 ICO 参与者钱包地址里持有的 ETH 代币余额一直在下降，主要是转去了其它外部账户 (EOAs) 或 CEX 交易所。\n\n\n通过设置筛选条件，ICO 参与者的钱包地址，链上交易量大于 25 万美元，目前只有 5 个钱包符合这个条件。这可能意味着这些钱包中的许多要么处于休眠状态，不太活跃，要么 Eth 代币已被分散到多个不同钱包地址里。\n\n\nETH ICO 参与者的钱包的直接存入信标链 ETH 2.0 质押，今年有所增加，但仅占 ETH ICO 获得总 ETH 代币余额的一小部分。\n\n\n与 ETH ICO 参与者钱包地址，交互次数最多的跨链桥包括：Polygon、ZKsync、Optimism、Arbitrum、Wormhole、Multichain、Hop 协议、xDAI omnibridge 和 dYdX L2 perp 桥。\n\n\nETH ICO 参与者钱包的拥有的最多代币余额主要是 ETH 币，其他代币包括 MKR、USDC、OMG、ENJ、VERI、RPL、WBTC、DAI、xDATA、RARI、WETH、MANA、LINK 和 NMR。\n\n\n与前 100 个 ETH IC …",
-          "link": "https://www.theblockbeats.info/news/32810",
-          "publishedOn": "2022-12-06T04:09:42.000Z",
-          "wordCount": null,
-          "title": "链上数据分析：上涨千倍后，以太坊早期参与者们还持有ETH吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32805",
-          "author": null,
-          "description": "原文标题：《美林时钟模型研究》\n原文作者：Huobi Research\n\n\n摘要\n\n\n当前加密货币领域生态越来越丰富、参与者越来越多样化且沉淀资金越来越多。在这种情况下，我们需要新的投资工具来对整个领域进行周期分析和品种选择。因此我们对在传统金融领域中比较成熟和知名的美林时钟模型进行了研究，希望能将其移植到加密货币领域。\n\n\n美林时钟模型是美林公司于 2004 年提出的宏观经济分析和大类资产配置模型。它以产出缺口和 CPI 数据为衡量经济增长和物价水平的两大指标，通过对美国自 1970 年以来的数据进行分析，得出了一系列结论，即根据产出缺口和 CPI 数据的交替涨跌，可以将经济循环划分为四个周期，分别为衰退期、复苏期、扩张期和滞涨期，这几个周期相继出现并构成一个完整的循环。我们根据时钟理论推导和数据验证，给出了在各个周期内最优的大类资产配置。\n\n\n在 2008 年全球金融危机之后，以美联储为代表的各国央行长期执行低利率政策，并且多次使用量化宽松来刺激经济。这对美林时钟下的经济周期产生了一些影响，主要表现为：衰退期和滞涨期的持续时间缩短，复苏期的持续时间变长；美林时钟的完整周期循环不复存在，各周期交替出现；各类资产的波动性变大，且股票在整个经济上行期内都表现良好；但在不同时钟周期内的强势资产仍然符合美林时钟的框架。\n\n\n然后我们分析了加密货币行业在美林时钟分析框架中应处的位置，以及当前时点属于美林时钟的哪个阶段以及当前的最优资产配置。我们得出以下结论：我们正处于通缩期；当前周期下最优的配置是债券；在股票的板块配置中优选防御型股票和长期成长型股票；在加密货币领域内部优选 BTC、LTC 等防御型币种和 ETH、MATIC 等长期成长型币种。\n\n\n1. 传统美林时钟模型\n\n\n随着加密货币领域蓬勃发展，其总体市值不断增大，且种类和赛道越来越丰富。并且近两年有越来越多的传统金融机构和…",
-          "link": "https://www.theblockbeats.info/news/32805",
-          "publishedOn": "2022-12-06T03:09:42.000Z",
-          "wordCount": null,
-          "title": "美林时钟模型研究：加密货币当前现状",
-          "imageUrl": null
         }
       ]
     },
