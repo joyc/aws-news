@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32885",
+          "author": null,
+          "description": "原文标题：《\n\n2022 年最活跃的 5 家加密投资机构\n\n》\n\n\n\n原文作者：wesely\n\n\n\n\n\n\n\n\n纵观整个 2022 年，加密投融资领域完成了从狂热到寒冬的 180 度大转弯。\n\n\n2022 年 Q1，Crypto 投融资市场以超 100 亿美元的融资总额，问鼎了自比特币诞生以来的单季投融资记录，同时也创出了连续 7 个月的正向增长记录，期间的资本增量高达 260 多亿美元，成就了前所未有的加密投资黄金时代。\n\n\n之后，伴随着 Luna 的崩盘和美联储的持续加息，从第二季度开始，Crypto 资本市场开始掉头向下，无论是机构出手次数还是投机金额都开始显著减少。\n\n\n在市场转熊之后，还有哪些机构保持着投资的积极性呢？他们关注的赛道都有哪些？根据 CB insight 统计和公开市场数据，整理出来今年最 5 家最活跃的加密投资机构以及其投资版图，这些信息或许能给为我们做未来趋势判断时提供参考。\n\n\n\n\n\n加密领域季度投融资数据统计 数据来源：CB insights\n\n\n\n\n\n\n\n1、Coinbase Ventures\n\n\n\n\n\n\n\n\n\n\n\n\n\n作为一家美国 CVC 机构（Corporate Venture Capital），Coinbase Ventures 依托于交易平台的品牌优势，在整个 2022 年大举进攻，是所有投资机构中出手次数最多的一家。在前三个季度，它分别投资的次数为 30 次、17 次和 23 次，第四季度，根据公开信息统计，目前已有 11 笔的投资记录，合计达到了 81 次。\n\n\n此外，据 crypto-fundraising 数据，Coinbase Ventures 投资企业数量累计也才 157 家，也就是说成立于 2018 年的 Coinbase Ventures，今年投出的项目数量超过了过去三年的总和，即使是在熊市依旧保持了相对高频的出手次数…",
+          "link": "https://www.theblockbeats.info/news/32885",
+          "publishedOn": "2022-12-09T04:09:48.000Z",
+          "wordCount": null,
+          "title": "盘点2022年最活跃的5家加密投资机构：投资次数、版图及规模",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32884",
           "author": null,
           "description": "原文来源：R3PO 微信公众号\n\n\n导语\n\n\n\n\n\n本文不重在讲述 ZK 技术的技术细节，而在于尽可能多的描绘 ZK 的应用方向，ZK 技术的迭代仍在持续进行中，但是技术的落地需要应用来承载，我们会从最接近用户的应用层逐步深入至底层 EVM、L2、跨链桥和公链。\n\n\n\n\n\n在社会化分工的大背景下，不同领域的技术对行外人而言如同魔法一般，而以「可用之物」构建切身感知可帮助我们抓住最主要脉络，从而反求 ZK 的技术特征，这也是最符合人的认知逻辑的安排。\n\n\n简要发展史\n\n\n\n\n\n1985 年，Goldwasser、Micali 和 Rackoff 首次提出 Zero-Knowledge Proof 模型，准确而言这是一种「交互式零知识证明」模型，该模型允许在双方多次交互的前提下，不暴露信息本身的前提下，通过特定技术来验证真假。\n\n\n\n\n\n1991 年，Manuel Blum、Alfredo Santis、Silvio Micali 和 Giuseppe Persiano 提出「非交互式零知识证明」，闻名可知这是进行非交互式的证明方式，也就是在双方之间只进行一次最终验证的条件下，验证信息的真伪。\n\n\n\n非交互式零知识证明带来的进步是巨大的，第一，双方交互次数减少到固定的一次，借此可进行线下验证和公开验证，前者为 Rollups 奠定了有效性基础，后者耦合区块链的广播机制，可避免多次计算带来的的资源浪费。\n\n\n\n\n\n其后出现的 Zcash 也是 SNARKs 技术路线第一次成规模使用，单独的隐私币成为人们 ZK 技术和区块链联系的桥接。\n\n\n\n\n\n简要而言，此次改进在于「简洁」（Succinct）上，SNARKs 致力于压缩信息本身的大小，而不单纯压缩验证信息的数据量，在 ZCash 中，程序电路是写死的、固定的、不变的，因此对其进行多项式验证也是固定的。\n\n\n\n\n\n\nZK 技术的…",
@@ -163,16 +173,6 @@
           "publishedOn": "2022-12-07T00:07:02.000Z",
           "wordCount": null,
           "title": "Solana的惊魂30天，重新审视这条「VC链」的过去、现在与未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32834",
-          "author": null,
-          "description": "原文标题：《Maple 面临 3600 万美元恶意违约，无抵押贷款是不是伪命题？》\n原文作者：\n\nAzuma，odaily星球日报\n\n\n12 月 5 日，当前链上规模最大的无抵押贷款协议 Maple Finance 发布公告称，因合作方 Orthogonal Trading 对其财务状况存在重大陈述失实，致使协议面临巨额违约风险，将断绝与该公司的所有合作（包括取消 Orthogonal Trading 附属公司 Orthogonal Credit 的代理人资格），并寻求所有适当的法律途径来追回资金。\n \n\n\n\n\n根据公告及 The Block 的跟进披露内容，Orthogonal Trading 隐瞒了该公司早已资不抵债的事实，在 M11 Credit 作为代理人的 USDC 池和 WETH 池合计借走了约 3600 万美元的资金，并持续拖延欠款，致使 Maple Finance 协议以及所有存款用户面临巨额损失风险。\n\n\nMaple Finance 的运行机制\n\n\n在解释 Orthogonal Trading 这笔违约具体构成什么影响之前，我们先来简单解释一下 Maple Finance 的运行机制。Maple Finance 的系统循环依赖于四种角色——存款人、保险人、借款人、代理人。\n\n\n存款人和保险人很好理解，即向池内提供可借资金的用户，以及负责应对池内突发情况、垫付损失的保险方，二者均可通过各自的行为获得借贷利息收入以及 Maple Finance 所释放的Token激励。这里我们需要着重解释的是后两种角色。\n\n\n借款人即有着借款需求的用户，在 Maple Finance 内一般都是机构客户，借款人提交借款申请前需填报公司资料、借款用途、还款规划等等信息，申请最后会交予代理人审核。\n\n\n\n\n\n代理人则是负责审批贷款的角色，在 Maple Finance 一般都是专…",
-          "link": "https://www.theblockbeats.info/news/32834",
-          "publishedOn": "2022-12-06T14:35:11.000Z",
-          "wordCount": null,
-          "title": "Maple面临3600万美元恶意违约，无抵押贷款是不是伪命题？",
           "imageUrl": null
         }
       ]

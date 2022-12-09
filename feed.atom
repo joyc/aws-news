@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-09T00:38:36.470Z</updated>
+    <updated>2022-12-09T06:10:34.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点2022年最活跃的5家加密投资机构：投资次数、版图及规模]]></title>
+        <id>https://www.theblockbeats.info/news/32885</id>
+        <link href="https://www.theblockbeats.info/news/32885"/>
+        <updated>2022-12-09T04:09:48.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+2022 年最活跃的 5 家加密投资机构
+
+》
+
+
+
+原文作者：wesely
+
+
+
+
+
+
+
+
+纵观整个 2022 年，加密投融资领域完成了从狂热到寒冬的 180 度大转弯。
+
+
+2022 年 Q1，Crypto 投融资市场以超 100 亿美元的融资总额，问鼎了自比特币诞生以来的单季投融资记录，同时也创出了连续 7 个月的正向增长记录，期间的资本增量高达 260 多亿美元，成就了前所未有的加密投资黄金时代。
+
+
+之后，伴随着 Luna 的崩盘和美联储的持续加息，从第二季度开始，Crypto 资本市场开始掉头向下，无论是机构出手次数还是投机金额都开始显著减少。
+
+
+在市场转熊之后，还有哪些机构保持着投资的积极性呢？他们关注的赛道都有哪些？根据 CB insight 统计和公开市场数据，整理出来今年最 5 家最活跃的加密投资机构以及其投资版图，这些信息或许能给为我们做未来趋势判断时提供参考。
+
+
+
+
+
+加密领域季度投融资数据统计 数据来源：CB insights
+
+
+
+
+
+
+
+1、Coinbase Ventures
+
+
+
+
+
+
+
+
+
+
+
+
+
+作为一家美国 CVC 机构（Corporate Venture Capital），Coinbase Ventures 依托于交易平台的品牌优势，在整个 2022 年大举进攻，是所有投资机构中出手次数最多的一家。在前三个季度，它分别投资的次数为 30 次、17 次和 23 次，第四季度，根据公开信息统计，目前已有 11 笔的投资记录，合计达到了 81 次。
+
+
+此外，据 crypto-fundraising 数据，Coinbase Ventures 投资企业数量累计也才 157 家，也就是说成立于 2018 年的 Coinbase Ventures，今年投出的项目数量超过了过去三年的总和，即使是在熊市依旧保持了相对高频的出手次数…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零知识证明网络：一种自顶向下方法]]></title>
         <id>https://www.theblockbeats.info/news/32884</id>
@@ -845,46 +912,6 @@ Solana 价格 K 线图
 
 
 以 11 月 5 日的相对高点为基准，Solana 生态的原生 Token SOL 的价格从 38.79 最低跌至 12.84，跌幅为 66.9%，相较历史最高点 229.94 跌幅高达 94.4%，回到了去年 3 月份…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple面临3600万美元恶意违约，无抵押贷款是不是伪命题？]]></title>
-        <id>https://www.theblockbeats.info/news/32834</id>
-        <link href="https://www.theblockbeats.info/news/32834"/>
-        <updated>2022-12-06T14:35:11.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Maple 面临 3600 万美元恶意违约，无抵押贷款是不是伪命题？》
-原文作者：
-
-Azuma，odaily星球日报
-
-
-12 月 5 日，当前链上规模最大的无抵押贷款协议 Maple Finance 发布公告称，因合作方 Orthogonal Trading 对其财务状况存在重大陈述失实，致使协议面临巨额违约风险，将断绝与该公司的所有合作（包括取消 Orthogonal Trading 附属公司 Orthogonal Credit 的代理人资格），并寻求所有适当的法律途径来追回资金。
- 
-
-
-
-
-根据公告及 The Block 的跟进披露内容，Orthogonal Trading 隐瞒了该公司早已资不抵债的事实，在 M11 Credit 作为代理人的 USDC 池和 WETH 池合计借走了约 3600 万美元的资金，并持续拖延欠款，致使 Maple Finance 协议以及所有存款用户面临巨额损失风险。
-
-
-Maple Finance 的运行机制
-
-
-在解释 Orthogonal Trading 这笔违约具体构成什么影响之前，我们先来简单解释一下 Maple Finance 的运行机制。Maple Finance 的系统循环依赖于四种角色——存款人、保险人、借款人、代理人。
-
-
-存款人和保险人很好理解，即向池内提供可借资金的用户，以及负责应对池内突发情况、垫付损失的保险方，二者均可通过各自的行为获得借贷利息收入以及 Maple Finance 所释放的Token激励。这里我们需要着重解释的是后两种角色。
-
-
-借款人即有着借款需求的用户，在 Maple Finance 内一般都是机构客户，借款人提交借款申请前需填报公司资料、借款用途、还款规划等等信息，申请最后会交予代理人审核。
-
-
-
-
-
-代理人则是负责审批贷款的角色，在 Maple Finance 一般都是专…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
