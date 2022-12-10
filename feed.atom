@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-10T12:12:22.176Z</updated>
+    <updated>2022-12-10T18:08:56.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -752,68 +752,6 @@ SBF 罪加一等？
 
 
 SBF 在一份声明中表示，自己不知道存在「任何市场操纵行为，他本人也从未打算参与市场操纵」，并且补充说：「据我所知，所有交易都是为了投资或对冲」。截至目前，美国纽约南区检察官代表拒…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借贷平台Nexo会是下一个暴雷的吗?]]></title>
-        <id>https://www.theblockbeats.info/news/32872</id>
-        <link href="https://www.theblockbeats.info/news/32872"/>
-        <updated>2022-12-08T03:00:39.000Z</updated>
-        <summary type="html"><![CDATA[三大 CeFi 平台之二已破产清算，唯留手握 20 亿美元资产规模的 Nexo。FTX 暴雷之后，乌云延伸到了多家平台，Genesis、BlockFi 等纷纷告急；Celsius，三大 CeFI 之一的已经在上一轮 Luna 暴雷时破产清算。2022 年至今，Nexo 的代币 NEXO 丢失了 80% 的 market cap。
-
-
- 
-推特上渐渐开始有人质疑 Nexo 的流动性。翻开 Nexo11 月底前的推特，下面的评论大多是推特用户质疑的声音或者 Nexo 平台用户的客服需求，反映某些技术 bug。Nexo 代币在 12 月 1 日前 7 天内持续下跌，在 12 月 1 日后有大幅提升，最新报涨幅 9,16%。近几日在币安上无 Nexo 可出借卖空。
-
-
- 
-为了对抗沽空，Nexo 于 11 月 29 日在推特发布了长串盈利模型以及多篇推文解释其运行模式和各项金融术语，重申其在 BlockFi 和 Genesis 无敞口，不提供无抵押贷款，没有其他 2 大 CeFi 被用户质疑的资产-负债不合（asset-liability mismtach），并强调其 proof of reserves。其审计师美国公司 Armanino 也发布审计报告，在对 Nexo 的钱包地址进行了调查查清平台资产，通过 API 了解了平台负债后，出具审计意见表示 Nexo 美元资产价值大于负债。之后 11 月 30 日，Nexo 发布了消息拿到意大利的相关牌照，可以在意大利进行金融服务，宣传打入一线市场。过了一天，Nexo 又发布消息，支持 Pancake。
-
-
-
-
-在市场整体低迷的情况下，Nexo 依旧大举扩张。此前于 5 月向楚格州递交意愿书购买 Celsius 的资产，6 月购买由 Peter Thiel 和 Coinbase Venture 成立的在清算边缘游走的借贷平台 Vauld…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer2 Token经济学：除了治理，还应该具备什么价值？]]></title>
-        <id>https://www.theblockbeats.info/news/32863</id>
-        <link href="https://www.theblockbeats.info/news/32863"/>
-        <updated>2022-12-08T02:30:39.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Layer2 Token经济学：除了治理，还应该具备什么价值？》
-原文作者：Michael Nadeau
-原文来源：The DeFi Report
-
-
-为什么我们需要 L2？
-
-
-任何在 2021 年期间使用以太坊的人都知道，该区块链可能会变得非常拥堵。这是一个典型的问题——需求太多而供应不足。因此，gas 费用（交易费）变得相当昂贵。在牛市高峰期，使用以太坊区块链发送一笔交易需要花费近 200 美元。这是不可扩展的。但它告诉我们一些事情。
-
-
-第一，以太坊区块空间非常宝贵。有人说以太坊区块空间是当今生态系统的「纽约市」。这是一个很好的问题。
-
-
-第二，以太坊在其产品路线图中仍然非常早期。今天它无法支持 10 亿用户。为了支持更多的用户、应用程序和用例，以太坊必须在 layer 2 进行扩展。
-
-
-值得注意的是，对区块空间的需求可能总是超过供应。为什么？因为历史上每一种重要的计算资源都是如此。CPU、GPU、内存、存储以及有线和无线带宽都可以提供有用的线索。
-
-
-正如 Chris Dixon 所指出的，计算运动往往在应用程序和基础设施之间有相互加强的反馈回路。例如，智能手机在过去十年取得了巨大的进步。与此同时，我们从手机上获得的大部分价值来自手机上的应用程序。随着应用程序的改进，越来越多的用户涌向智能手机，这给了制造商更多的资金来投资于基础层手机基础设施，从而在手机（基础设施）的发展和人们使用的东西（应用程序）之间形成了一个强化的反馈回路。
-
-
-我们今天可以在以太坊上看到这种情况。
-
-
-随着以太坊应用程序的改进，更多用户涌向以太坊。随着越来越多的用户使用该区块链，我们遇到了可扩展性的问题。这将推动重新投资于基础设施的需求，以支持更多的用户，更好的应用程序，以及改善用户体验。
-
-
-以太坊正在为其「宽带」时刻做好准备。Layer 2 可以被视为区块链应用的宽带。随着…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
