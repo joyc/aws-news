@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32906",
+          "author": null,
+          "description": "原文标题：《\n\nPEMDAS\n\n》\n原文作者：Arthur Hayes，BitMEX创始人\n原文编译： Mary Ma，吴说区块链\n\n\n\n眼下的问题是，比特币目前的价格是否已处于「底部」。比特币是最纯粹、最久经考验的加密货币形式，虽然它可能不会跌得最惨的加密货币，但它作为加密货币储备资产的角色将确保比特币带领我们走出黑暗的阴影。因此，我们必须关注比特币的价格走势，以判断这个市场是否已经触底。\n\n\n\n有三组群体被迫将他们的比特币抛售到真正信徒的手中：中心化贷款交易公司、比特币挖矿公司和普通投机者。在每一个情况中，无论是在他们的业务运营模式中，还是他们利用杠杆为交易融资，滥用杠杆都是导致清算的原因。随着美国短期国债收益率从 2021 年第三季度的 0% 升至目前的 5%，每个人都因他们的超级看涨信念而遭受了巨大损失。\n\n\n在回顾了利率上升时杠杆是如何摧毁每个群体的头寸之后，我将解释为什么我认为他们没有更多的比特币可以出售了，以及为什么长期来看，我们可能已经在最近的 FTX/Alameda 灾难中触及了这个周期的低点。\n\n\n在这篇文章的最后一部分，我将列出我计划在这个可能的底部交易的方式。为此，我最近参加了我的宏观偶像 Felix Zulauf 的网络研讨会。在广播的最后，他说了一些让我印象深刻的话。他表示，投资者和交易员需要注意识别顶部和底部，但大多数人关注的是中间的噪音，而判断底部通常是徒劳的。既然我正在做这个愚蠢的差事，我打算尝试以一种保护我的投资组合的方式来调用它，以最大限度地缓冲在价位和/或择时上的错误。\n\n\n带着这个思路，让我们深入了解一下。\n\n\n破产程序\n\n\n我们大多数人可能不像 Alameda CEO 那样有天赋（注：暗讽账目混乱），所以我们不得不通过艰苦的方式学习数学。你还记得 PEMDAS 吗？它是描述解方程时的运算顺序的首字母缩写。  \n\n\n· P—Pare…",
+          "link": "https://www.theblockbeats.info/news/32906",
+          "publishedOn": "2022-12-10T08:05:41.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes：我们可能已经在FTX的崩溃中触及周期性底部",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32905",
+          "author": null,
+          "description": "原文标题：《\n\nAnnotated Ethereum Roadmap\n\n》\n原文编译：\n\ndomothy ，ETH中文站\n\n\n译者注：本文基于最新以太坊路线图进行内容注解，下图为 ECN 译制的中文版。    \n\n\n\n\n\n本文档旨在为读者了解以太坊路线图上各个部分提供入口点，每一部分都做了简单的概要介绍，如想深入了解，文内亦附上了详细的链接。\n\n\n\n\n这是一份持续更新的文档，如果发现这里提供的任何信息出现不清楚、不准确、过时或是遗漏的情况，请随时联系我。\n\n\n\n\n注意：如路线图上箭头所示，所列出的各个部分并非连续进行的工作，它们的推进是并行的。\n\n\n\n\n\nThe Merge (合并)\n\n\n目标：实现一个理想化的、简洁的、拥有鲁棒性的以及去中心化的 PoS 共识机制  \n\n\n已完成工作  \n\n\n2020 年 12 月 1 日—信标链启动\n\n\n· 引入以太坊 PoS 共识层，由验证者质押 ETH 来维护该层网络安全\n· 信标链在共识规范中被称为阶段 0 (Vitalik 的注释版本以及 Danny Ryan 的注释版本)\n\n\n2021 年 10 月 27 日—热身分叉 (Altair) - 共识层客户端开发者们在协调硬分叉升级方面进行了一次试运行\n\n\n· Altair 引入了同步委员会来支持轻客户端，并对惩罚进行了一些调整\n· Altair 主网升级公告\n· Altair 规范 (注释版本)\n· 「What’s new in ETH2」中对 Altair 进行解释的那期\n\n\n2022 年 9 月 15 日，—合并！PoW 退休 - 在区块高度 15,537,394 处完成共识层和执行层的合并\n\n\n下一步的工作  \n\n\n提款 —允许验证者提取全部或者部分质押金\n\n\n· Capella 分叉 指定共识层中的变更\n· EIP-4895 指定执行层中的变更\n· Tim Beiko 关于…",
+          "link": "https://www.theblockbeats.info/news/32905",
+          "publishedOn": "2022-12-10T07:05:41.000Z",
+          "wordCount": null,
+          "title": "以太坊路线图内容注释Annotated Ethereum Roadmap中文译版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32898",
+          "author": null,
+          "description": "全球区块链产业全景与趋势(下篇)",
+          "link": "https://www.theblockbeats.info/news/32898",
+          "publishedOn": "2022-12-10T07:00:40.000Z",
+          "wordCount": null,
+          "title": "全球区块链产业全景与趋势(下篇)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32904",
+          "author": null,
+          "description": "ZKSAFE：私钥丢失，如何依然保护用户资产安全",
+          "link": "https://www.theblockbeats.info/news/32904",
+          "publishedOn": "2022-12-10T06:00:40.000Z",
+          "wordCount": null,
+          "title": "ZKSAFE：私钥丢失，如何依然保护用户资产安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32903",
+          "author": null,
+          "description": "Panoptic：顶级机构看好，基于Uniswap的全新期权市场",
+          "link": "https://www.theblockbeats.info/news/32903",
+          "publishedOn": "2022-12-10T04:00:40.000Z",
+          "wordCount": null,
+          "title": "Panoptic：顶级机构看好，基于Uniswap的全新期权市场",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32900",
           "author": null,
           "description": "原文标题：《全球区块链产业全景与趋势》\n\n原文来源：Huobi Research\n\n\n\n\n\n\n\n2022 年，美联储持续加息，全球流动性紧缩，加密行业进入深熊。今年，Crypto 资产总市值缩水超过 2.2 万亿美元，CEFI 类机构业务规模下降约 71.4%。行业在连续经历 Terra 崩盘、3AC 和 FTX 破产事件后受到重创，包括 BlockFi、Genesis 等大型机构遭遇破产或清算危机。但是，行业的建设并没有停止：一级市场的投融资总额超过 277 亿美元；以太坊开启了 PoS 新时代，Layer2 快速发展；X2E 唤醒了 GameFi 新业务模式等。本篇报告将从行情、数据、投资、地域、应用、技术、监管等 7 个领域全面分析 2022 年的得与失，为 2023 年的行业发展提供预判和建议。\n\n\n1. 全球经济形势下的加密行业 \n\n\n1.1 全球宏观：通胀、加息和下跌\n\n\n\n如果要给 2022 年的全球宏观市场梳理一条脉络，那么一定绕不开全球通胀和随之而来的货币紧缩这条主线。它们就像是宏观市场这篇大乐章的基调，影响着全球经济的方方面面。这其中当然也包括加密货币市场。不仅如此，正因为当前我们面临的宏观经济形势是近几十年少见的，所以在今年影响加密货币市场的因素里，宏观因素超过了监管、新技术、新赛道等行业内部因素而占据了主要地位。下面我们根据全球通胀和货币紧缩这两个要点来梳理一下今年以来全球的宏观市场情况。\n\n\n\n来源：Bloomberg, data from 10/1/2021 to 9/30/2022\n\n\n \n上图为美国、欧元区、中国、日本和英国这几个主要经济体从 2021 年 10 月到 2022 年 9 月的 CPI 同比数据，可以看到在过去一年里几个主要经济体的通胀均上升，且除中国外，其他国家目前的通胀率均处于近十几年来的最高水平。面对这种情况，全球各个高通…",
