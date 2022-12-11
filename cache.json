@@ -126,43 +126,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblockbeats.info/news/32884",
+          "id": "https://www.theblockbeats.info/news/32872",
           "author": null,
-          "description": "原文来源：R3PO 微信公众号\n\n\n导语\n\n\n\n\n\n本文不重在讲述 ZK 技术的技术细节，而在于尽可能多的描绘 ZK 的应用方向，ZK 技术的迭代仍在持续进行中，但是技术的落地需要应用来承载，我们会从最接近用户的应用层逐步深入至底层 EVM、L2、跨链桥和公链。\n\n\n\n\n\n在社会化分工的大背景下，不同领域的技术对行外人而言如同魔法一般，而以「可用之物」构建切身感知可帮助我们抓住最主要脉络，从而反求 ZK 的技术特征，这也是最符合人的认知逻辑的安排。\n\n\n简要发展史\n\n\n\n\n\n1985 年，Goldwasser、Micali 和 Rackoff 首次提出 Zero-Knowledge Proof 模型，准确而言这是一种「交互式零知识证明」模型，该模型允许在双方多次交互的前提下，不暴露信息本身的前提下，通过特定技术来验证真假。\n\n\n\n\n\n1991 年，Manuel Blum、Alfredo Santis、Silvio Micali 和 Giuseppe Persiano 提出「非交互式零知识证明」，闻名可知这是进行非交互式的证明方式，也就是在双方之间只进行一次最终验证的条件下，验证信息的真伪。\n\n\n\n非交互式零知识证明带来的进步是巨大的，第一，双方交互次数减少到固定的一次，借此可进行线下验证和公开验证，前者为 Rollups 奠定了有效性基础，后者耦合区块链的广播机制，可避免多次计算带来的的资源浪费。\n\n\n\n\n\n其后出现的 Zcash 也是 SNARKs 技术路线第一次成规模使用，单独的隐私币成为人们 ZK 技术和区块链联系的桥接。\n\n\n\n\n\n简要而言，此次改进在于「简洁」（Succinct）上，SNARKs 致力于压缩信息本身的大小，而不单纯压缩验证信息的数据量，在 ZCash 中，程序电路是写死的、固定的、不变的，因此对其进行多项式验证也是固定的。\n\n\n\n\n\n\nZK 技术的…",
-          "link": "https://www.theblockbeats.info/news/32884",
-          "publishedOn": "2022-12-08T10:38:52.000Z",
+          "description": "三大 CeFi 平台之二已破产清算，唯留手握 20 亿美元资产规模的 Nexo。FTX 暴雷之后，乌云延伸到了多家平台，Genesis、BlockFi 等纷纷告急；三大 CeFi 其中之一的\n\nCelsius，已经在上一轮 Luna 暴雷时破产清算。2022 年至今，Nexo 的代币 NEXO 80% 的市值蒸发了。\n\n\n \n推特上渐渐开始有人质疑 Nexo 的流动性。翻开 Nexo 11 月底前的推特，下面的评论大多是推特用户质疑的声音或者 Nexo 平台用户的客服需求，反映某些技术漏洞。Nexo 代币在 12 月 1 日前 7 天内持续下跌，在 12 月 01 日后有大幅提升，最新报涨幅 9,16%。近几日在 Binance 上无 Nexo 可出借卖空。\n\n\n \n为了对抗沽空，Nexo 于 11 月 29 日在推特发布了长串盈利模型以及多篇推文解释其运行模式和各项金融术语，重申其在 BlockFi 和 Genesis 无敞口，不提供无抵押贷款，没有其他 2 大 CeFi 被用户质疑的资产-负债不匹配（asset-liability mismatch），并强调会推出储备金证明。其审计师美国公司 Armanino 也发布审计报告，在对 Nexo 的钱包地址进行了调查，查清平台资产，通过 API 了解了平台负债后，出具审计意见表示 Nexo 美元资产价值大于负债。之后 11 月 30 日，Nexo 发布了消息拿到意大利的相关牌照，可以在意大利进行金融服务，宣传打入一线市场。过了一天，Nexo 又发布消息，支持 Pancake。\n\n\n\n\n在市场整体低迷的情况下，Nexo 依旧大举扩张。此前于 5 月向楚格州递交意愿书购买 Celsius 的资产，6 月购买由 Peter Thiel 和 Coinbase Venture 成立的在清算边缘游走的借贷平台 Vauld。目前在两大 C…",
+          "link": "https://www.theblockbeats.info/news/32872",
+          "publishedOn": "2022-12-08T23:49:05.000Z",
           "wordCount": null,
-          "title": "零知识证明网络：一种自顶向下方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32882",
-          "author": null,
-          "description": "原文标题：《\n\n万字长文解读 Web3 身份堆栈：迈向数字主权之路\n\n》\n原文作者：Nichanan Kesonpat，1kxnetwork\n原文来源：\n\nDeFi 之道\n\n\n\n\n图片来源：由无界版图 AI 工具生成\n\n\n本文涵盖了去中心化身份的核心概念、互联网上身份的演变、Web3 身份基础设施堆栈的逐层概述以及隐私基元的相关发展。人身证明（Proof-of-Personhood）、合规性和应用层将在未来的文章中介绍。\n\n\n\nWeb3 身份基础设施生态 - 2022 年 12 月\n\n\n身份是由与个人、实体或物体相关的数据组成的新兴属性。在物理世界中，我们以抽象的声誉和心理关联的形式将这些数据存储在大脑内。在数字世界中，身份被形式化为两个组成部分：\n\n\n标识符：一组独特的字符或数字，用于识别一个主体（例如，护照号码、Twitter ID、学生 ID）。\n\n\n与该主体相关的数据（如旅行历史、推特和关注、学术成就）。\n\n\n\n\n为互联网创建身份层是困难的，因为对它应该是什么以及如何运行缺乏共识。数字身份与环境有关，我们会通过各种内容体验互联网，而这些内容至少存在于许多不同的环境中。如今，我们的数字身份大部分都是支离破碎的，处于少数利益相关方的控制之下，他们的利益是防止我们从他们的环境中溢出到任何其他地方。\n\n\n企业将客户关系视为关键资产，不愿意放弃对这些关系的控制。到目前为止，没有任何一种方法可以作为这么做的动力。即使是一次性的临时身份，也比他们无法控制的框架要好。\n\n\n当涉及到维护与客户和供应商的数字关系时，像金融这样的特定行业有着独特的需求（如合规）。\n\n\n政府有区别于其他类型组织的需求。例如，对驾驶执照和护照的管辖权。\n\n\n这种模式在个人和管理我们身份和数据的各方之间造成了权力的不对称。它限制了我们的自主权，使我们无法同意、有选择地披露自己的信息，并在不同的环境中移植我们的…",
-          "link": "https://www.theblockbeats.info/news/32882",
-          "publishedOn": "2022-12-08T10:35:52.000Z",
-          "wordCount": null,
-          "title": "Web3 身份堆栈解读：迈向数字主权之路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32881",
-          "author": null,
-          "description": "原文作者：0xYE.lens\n\n\n\n\n「Blur 出价 (Bid) 逻辑浅析」\n——个人发现仅供参考讨论\n\n这几天 Blur 第二阶段空投开启申领了，相信大家都注意到了其中一个门槛——用户必须要进行一次 bid 行为才能够领取。许多人都被这个 bid 弄的有点迷，我也是一样。今天仔细看了下 Blur 的 bid 逻辑，和大家分享讨论一下。  \n\n\n先说结论：Blur 并没有进行真正的创新，只不过是将 WETH 这个中介换成了自家平台弄的新中介罢了. 而且存款的资金池合约没有进行审计 (或是进行审计了但没有披露审计报告）  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n表面上看似乎 Blur 进行了创新，其没有采用 WETH 进行 bid，而是创建了一个 Blur Pool. 用户在进行 bid 前必须要将 ETH 存入池内才能进行出价行为, 且用户在池内的资金可以随存随取, 没有金额和时间限制。然而真是如此吗，Blur 真的帮助绕过 WETH 而直接用 ETH 进行出价了吗？\n\n\n\n\n\n\n\n\n\n\n\n\n我通过 ScopeProtocol 查看自己钱包的转账记录时，发现了一些异常。在下图中,3:20:59 时的 tx 中, 当时我是向 Blur Pool 中存入了 0.01Eth, 按理说我的钱包是向外转出了 ETH, 标签应该是【Send】才对, 而 scope 却显示了【Receive】标签。\n\n\n\n\n\n同样的观察 3:31:32 这笔 tx, 当时我是从池内取回了刚刚存入的 0.01ETH, 应该是钱包【Receive】0.01E 才对, 这里却打上了【Send】标签, 而且两笔 tx 的交互对象都是【Null Address:000...000】, 这就有些奇怪了，我明明是在 Pool 中存取款, 为什么会和黑洞有关联。  \n\n\n到 etherscan…",
-          "link": "https://www.theblockbeats.info/news/32881",
-          "publishedOn": "2022-12-08T09:35:52.000Z",
-          "wordCount": null,
-          "title": "浅析NFT市场Blur第二次空投bid行为逻辑：创新还是骗局？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32880",
-          "author": null,
-          "description": "原文标题：《FTX Founder Sam Bankman-Fried Is Said to Face Market Manipulation Inquiry》\n原文作者：Emily Flitter、David Yaffe-Bellany 和 Matthew Goldstein\n原文编译：Jordan，PANews\n\n\n\n\n11 月 11 日，FTX 宣布申请破产，之后 SBF 宣布辞去 FTX 首席执行官一职。\n\n\n但现在，SBF 的罪名可能要再加一条——市场操纵！根据两位知情人士透露，美国曼哈顿联邦检察官已经开始调查前 FTX 首席执行官 Sam Bankman-Fried（SBF）和他的对冲基金 Alameda Research 是否在今年五月利用市场操纵交易手段导致 TerraUSD 和 LUNA 崩盘，导致产生多米诺骨牌效应并引火烧身，最终引发 FTX 破产。\n\n\nSBF 罪加一等？\n\n\n目前相关调查尚处于初期阶段，因此还不确定检察官是否已经确定 SBF 存在相关不当行为，也不知道检察官审查 TerraUSD 和 LUNA 交易的起始时间。据悉，本次调查将是监管和执法机构针对 SBF、以及 FTX 挪用数十亿美元客户资金更广泛调查的一部分，美国联邦检察官和美国证券交易委员会此前也一直在审查 FTX 将客户资金转入 AlamedaResearch 是否涉嫌违法。\n\n\n另有三位知情人士称，美国执法机构其实早在 FTX 破产几个月前就对其启动了反洗钱调查，该消息最早由彭博社披露，报道称执法希望了解 FTX 的客户是谁、是否向执法机构举报过任何潜在的非法活动、以及其他离岸加密货币交易活动。\n\n\nSBF 在一份声明中表示，自己不知道存在「任何市场操纵行为，他本人也从未打算参与市场操纵」，并且补充说：「据我所知，所有交易都是为了投资或对冲」。截至目前，美国纽约南区检察官代表拒…",
-          "link": "https://www.theblockbeats.info/news/32880",
-          "publishedOn": "2022-12-08T08:35:52.000Z",
-          "wordCount": null,
-          "title": "《纽约时报》全文：SBF或是LUNA崩盘的幕后黑手？",
+          "title": "Nexo会是下一个暴雷的借贷平台吗?",
           "imageUrl": null
         }
       ]
