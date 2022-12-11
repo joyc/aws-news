@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32909",
+          "author": null,
+          "description": "周末荐读：Solana的惊魂30天；Nexo会是下一个暴雷的借贷平台吗?",
+          "link": "https://www.theblockbeats.info/news/32909",
+          "publishedOn": "2022-12-11T09:00:03.000Z",
+          "wordCount": null,
+          "title": "周末荐读：Solana的惊魂30天；Nexo会是下一个暴雷的借贷平台吗?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32908",
+          "author": null,
+          "description": "除了蔡崇信投资的Shibuya，还有哪些值得关注的Web3创作者经济？",
+          "link": "https://www.theblockbeats.info/news/32908",
+          "publishedOn": "2022-12-11T06:44:03.000Z",
+          "wordCount": null,
+          "title": "除了蔡崇信投资的Shibuya，还有哪些值得关注的Web3创作者经济？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32907",
+          "author": null,
+          "description": "2022 年加密行业清洗后，未来如何继续",
+          "link": "https://www.theblockbeats.info/news/32907",
+          "publishedOn": "2022-12-11T05:44:03.000Z",
+          "wordCount": null,
+          "title": "2022 年加密行业清洗后，未来如何继续",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32906",
           "author": null,
           "description": "原文标题：《\n\nPEMDAS\n\n》\n原文作者：Arthur Hayes，BitMEX创始人\n原文编译： Mary Ma，吴说区块链\n\n\n\n眼下的问题是，比特币目前的价格是否已处于「底部」。比特币是最纯粹、最久经考验的加密货币形式，虽然它可能不会跌得最惨的加密货币，但它作为加密货币储备资产的角色将确保比特币带领我们走出黑暗的阴影。因此，我们必须关注比特币的价格走势，以判断这个市场是否已经触底。\n\n\n\n有三组群体被迫将他们的比特币抛售到真正信徒的手中：中心化贷款交易公司、比特币挖矿公司和普通投机者。在每一个情况中，无论是在他们的业务运营模式中，还是他们利用杠杆为交易融资，滥用杠杆都是导致清算的原因。随着美国短期国债收益率从 2021 年第三季度的 0% 升至目前的 5%，每个人都因他们的超级看涨信念而遭受了巨大损失。\n\n\n在回顾了利率上升时杠杆是如何摧毁每个群体的头寸之后，我将解释为什么我认为他们没有更多的比特币可以出售了，以及为什么长期来看，我们可能已经在最近的 FTX/Alameda 灾难中触及了这个周期的低点。\n\n\n在这篇文章的最后一部分，我将列出我计划在这个可能的底部交易的方式。为此，我最近参加了我的宏观偶像 Felix Zulauf 的网络研讨会。在广播的最后，他说了一些让我印象深刻的话。他表示，投资者和交易员需要注意识别顶部和底部，但大多数人关注的是中间的噪音，而判断底部通常是徒劳的。既然我正在做这个愚蠢的差事，我打算尝试以一种保护我的投资组合的方式来调用它，以最大限度地缓冲在价位和/或择时上的错误。\n\n\n带着这个思路，让我们深入了解一下。\n\n\n破产程序\n\n\n我们大多数人可能不像 Alameda CEO 那样有天赋（注：暗讽账目混乱），所以我们不得不通过艰苦的方式学习数学。你还记得 PEMDAS 吗？它是描述解方程时的运算顺序的首字母缩写。  \n\n\n· P—Pare…",
@@ -123,16 +153,6 @@
           "publishedOn": "2022-12-09T04:09:48.000Z",
           "wordCount": null,
           "title": "盘点2022年最活跃的5家加密投资机构：投资次数、版图及规模",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32872",
-          "author": null,
-          "description": "三大 CeFi 平台之二已破产清算，唯留手握 20 亿美元资产规模的 Nexo。FTX 暴雷之后，乌云延伸到了多家平台，Genesis、BlockFi 等纷纷告急；三大 CeFi 其中之一的\n\nCelsius，已经在上一轮 Luna 暴雷时破产清算。2022 年至今，Nexo 的代币 NEXO 80% 的市值蒸发了。\n\n\n \n推特上渐渐开始有人质疑 Nexo 的流动性。翻开 Nexo 11 月底前的推特，下面的评论大多是推特用户质疑的声音或者 Nexo 平台用户的客服需求，反映某些技术漏洞。Nexo 代币在 12 月 1 日前 7 天内持续下跌，在 12 月 01 日后有大幅提升，最新报涨幅 9,16%。近几日在 Binance 上无 Nexo 可出借卖空。\n\n\n \n为了对抗沽空，Nexo 于 11 月 29 日在推特发布了长串盈利模型以及多篇推文解释其运行模式和各项金融术语，重申其在 BlockFi 和 Genesis 无敞口，不提供无抵押贷款，没有其他 2 大 CeFi 被用户质疑的资产-负债不匹配（asset-liability mismatch），并强调会推出储备金证明。其审计师美国公司 Armanino 也发布审计报告，在对 Nexo 的钱包地址进行了调查，查清平台资产，通过 API 了解了平台负债后，出具审计意见表示 Nexo 美元资产价值大于负债。之后 11 月 30 日，Nexo 发布了消息拿到意大利的相关牌照，可以在意大利进行金融服务，宣传打入一线市场。过了一天，Nexo 又发布消息，支持 Pancake。\n\n\n\n\n在市场整体低迷的情况下，Nexo 依旧大举扩张。此前于 5 月向楚格州递交意愿书购买 Celsius 的资产，6 月购买由 Peter Thiel 和 Coinbase Venture 成立的在清算边缘游走的借贷平台 Vauld。目前在两大 C…",
-          "link": "https://www.theblockbeats.info/news/32872",
-          "publishedOn": "2022-12-08T23:49:05.000Z",
-          "wordCount": null,
-          "title": "Nexo会是下一个暴雷的借贷平台吗?",
           "imageUrl": null
         }
       ]

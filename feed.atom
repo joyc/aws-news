@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-11T06:09:41.013Z</updated>
+    <updated>2022-12-11T12:12:51.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：Solana的惊魂30天；Nexo会是下一个暴雷的借贷平台吗?]]></title>
+        <id>https://www.theblockbeats.info/news/32909</id>
+        <link href="https://www.theblockbeats.info/news/32909"/>
+        <updated>2022-12-11T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[周末荐读：Solana的惊魂30天；Nexo会是下一个暴雷的借贷平台吗?]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了蔡崇信投资的Shibuya，还有哪些值得关注的Web3创作者经济？]]></title>
+        <id>https://www.theblockbeats.info/news/32908</id>
+        <link href="https://www.theblockbeats.info/news/32908"/>
+        <updated>2022-12-11T06:44:03.000Z</updated>
+        <summary type="html"><![CDATA[除了蔡崇信投资的Shibuya，还有哪些值得关注的Web3创作者经济？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 年加密行业清洗后，未来如何继续]]></title>
+        <id>https://www.theblockbeats.info/news/32907</id>
+        <link href="https://www.theblockbeats.info/news/32907"/>
+        <updated>2022-12-11T05:44:03.000Z</updated>
+        <summary type="html"><![CDATA[2022 年加密行业清洗后，未来如何继续]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arthur Hayes：我们可能已经在FTX的崩溃中触及周期性底部]]></title>
         <id>https://www.theblockbeats.info/news/32906</id>
@@ -526,31 +556,6 @@ BlockBeats 注：自 FTX 暴雷以来，社区对链上资金数据异动过于�
 
 
 此外，据 crypto-fundraising 数据，Coinbase Ventures 投资企业数量累计也才 157 家，也就是说成立于 2018 年的 Coinbase Ventures，今年投出的项目数量超过了过去三年的总和，即使是在熊市依旧保持了相对高频的出手次数…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nexo会是下一个暴雷的借贷平台吗?]]></title>
-        <id>https://www.theblockbeats.info/news/32872</id>
-        <link href="https://www.theblockbeats.info/news/32872"/>
-        <updated>2022-12-08T23:49:05.000Z</updated>
-        <summary type="html"><![CDATA[三大 CeFi 平台之二已破产清算，唯留手握 20 亿美元资产规模的 Nexo。FTX 暴雷之后，乌云延伸到了多家平台，Genesis、BlockFi 等纷纷告急；三大 CeFi 其中之一的
-
-Celsius，已经在上一轮 Luna 暴雷时破产清算。2022 年至今，Nexo 的代币 NEXO 80% 的市值蒸发了。
-
-
- 
-推特上渐渐开始有人质疑 Nexo 的流动性。翻开 Nexo 11 月底前的推特，下面的评论大多是推特用户质疑的声音或者 Nexo 平台用户的客服需求，反映某些技术漏洞。Nexo 代币在 12 月 1 日前 7 天内持续下跌，在 12 月 01 日后有大幅提升，最新报涨幅 9,16%。近几日在 Binance 上无 Nexo 可出借卖空。
-
-
- 
-为了对抗沽空，Nexo 于 11 月 29 日在推特发布了长串盈利模型以及多篇推文解释其运行模式和各项金融术语，重申其在 BlockFi 和 Genesis 无敞口，不提供无抵押贷款，没有其他 2 大 CeFi 被用户质疑的资产-负债不匹配（asset-liability mismatch），并强调会推出储备金证明。其审计师美国公司 Armanino 也发布审计报告，在对 Nexo 的钱包地址进行了调查，查清平台资产，通过 API 了解了平台负债后，出具审计意见表示 Nexo 美元资产价值大于负债。之后 11 月 30 日，Nexo 发布了消息拿到意大利的相关牌照，可以在意大利进行金融服务，宣传打入一线市场。过了一天，Nexo 又发布消息，支持 Pancake。
-
-
-
-
-在市场整体低迷的情况下，Nexo 依旧大举扩张。此前于 5 月向楚格州递交意愿书购买 Celsius 的资产，6 月购买由 Peter Thiel 和 Coinbase Venture 成立的在清算边缘游走的借贷平台 Vauld。目前在两大 C…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
