@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32910",
+          "author": null,
+          "description": "原文标题：《参与 APY 1000%+的 Ape Staking 挖矿，ParaSpace, BendDAO, Binance NFT 三大平台到底应该如何选择？》\n原文来源：JamesX（Twitter：@0xJamesXXX）\n\n\nYuga Labs 携手 Horizen Labs 于 12 月 5 日正式上线了ApeStake.io网站，也开启了 Ape Staking 为期一周的预质押阶段。正式的 Ape 代币 staking 激励将从 12 月 12 日开启发放，并且基于当前预质押的数据（12 月 8 日），预期的 APY 收益为 1000%+。\n\n\n\n\n\n\n\n尽管距离正式挖矿开始还有几天的时间，并且届时的预期 APY 收益率在更多的 APE 代币和 BAYC/MAYC/BAKC 系列 NFT 参与质押后会有所下降，但是对于投资者和 NFT 收藏家来说，Ape Staking 都是一个不容错过的投资机会。\n\n\n那么这篇文章将会细节阐述 Ape Staking 的官方细则以及参与风险注意事项，并且对比三家第三方 Ape Staking 平台（ParaSpace, BendDAO, Binance NFT）的质押规则以及预期收益，从而帮助你基于自身情况，做出最理性的决策。\n\n\nApeStake.io 官方质押\n\n\nApe Staking 最早的方案 AIP 4&5 遭到了社区投票否决。在此之后经历了大量的社区讨论，直到 AIP 21&22 的表决通过，Ape Staking 的活动细则才算是形成了社区共识并且开始准备流程。\n\n\n\n\n下图为为期三年的 Ape Staking 活动每个季度 APE 代币激励的释放量，可以看出早期参与者可以获得更多的 APE 代币激励，以及更高的预期收益率。\n\n\n\n\n而 APE Staking 的活动参与形式，又划分为了 4 个互相独立的质…",
+          "link": "https://www.theblockbeats.info/news/32910",
+          "publishedOn": "2022-12-12T06:10:32.431Z",
+          "wordCount": null,
+          "title": "APE开启质押奖励，如何选择参与平台？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32909",
           "author": null,
           "description": "周末荐读：Solana的惊魂30天；Nexo会是下一个暴雷的借贷平台吗?",
@@ -93,26 +103,6 @@
           "publishedOn": "2022-12-10T02:00:13.000Z",
           "wordCount": null,
           "title": "全球区块链产业全景与趋势（上篇）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32902",
-          "author": null,
-          "description": "OpenBlox启动Discord社区金币福利",
-          "link": "https://www.theblockbeats.info/news/32902",
-          "publishedOn": "2022-12-09T14:45:10.000Z",
-          "wordCount": null,
-          "title": "OpenBlox启动Discord社区金币福利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32897",
-          "author": null,
-          "description": "Buidler DAO：熊市下DeFi叙事的必读文章",
-          "link": "https://www.theblockbeats.info/news/32897",
-          "publishedOn": "2022-12-09T14:00:40.000Z",
-          "wordCount": null,
-          "title": "Buidler DAO：熊市下DeFi叙事的必读文章",
           "imageUrl": null
         }
       ]

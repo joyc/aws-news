@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-12T00:40:01.068Z</updated>
+    <updated>2022-12-12T06:10:32.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[APE开启质押奖励，如何选择参与平台？]]></title>
+        <id>https://www.theblockbeats.info/news/32910</id>
+        <link href="https://www.theblockbeats.info/news/32910"/>
+        <updated>2022-12-12T06:10:32.431Z</updated>
+        <summary type="html"><![CDATA[原文标题：《参与 APY 1000%+的 Ape Staking 挖矿，ParaSpace, BendDAO, Binance NFT 三大平台到底应该如何选择？》
+原文来源：JamesX（Twitter：@0xJamesXXX）
+
+
+Yuga Labs 携手 Horizen Labs 于 12 月 5 日正式上线了ApeStake.io网站，也开启了 Ape Staking 为期一周的预质押阶段。正式的 Ape 代币 staking 激励将从 12 月 12 日开启发放，并且基于当前预质押的数据（12 月 8 日），预期的 APY 收益为 1000%+。
+
+
+
+
+
+
+
+尽管距离正式挖矿开始还有几天的时间，并且届时的预期 APY 收益率在更多的 APE 代币和 BAYC/MAYC/BAKC 系列 NFT 参与质押后会有所下降，但是对于投资者和 NFT 收藏家来说，Ape Staking 都是一个不容错过的投资机会。
+
+
+那么这篇文章将会细节阐述 Ape Staking 的官方细则以及参与风险注意事项，并且对比三家第三方 Ape Staking 平台（ParaSpace, BendDAO, Binance NFT）的质押规则以及预期收益，从而帮助你基于自身情况，做出最理性的决策。
+
+
+ApeStake.io 官方质押
+
+
+Ape Staking 最早的方案 AIP 4&5 遭到了社区投票否决。在此之后经历了大量的社区讨论，直到 AIP 21&22 的表决通过，Ape Staking 的活动细则才算是形成了社区共识并且开始准备流程。
+
+
+
+
+下图为为期三年的 Ape Staking 活动每个季度 APE 代币激励的释放量，可以看出早期参与者可以获得更多的 APE 代币激励，以及更高的预期收益率。
+
+
+
+
+而 APE Staking 的活动参与形式，又划分为了 4 个互相独立的质…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：Solana的惊魂30天；Nexo会是下一个暴雷的借贷平台吗?]]></title>
         <id>https://www.theblockbeats.info/news/32909</id>
@@ -220,26 +261,6 @@ The Merge (合并)
 
  
 上图为美国、欧元区、中国、日本和英国这几个主要经济体从 2021 年 10 月到 2022 年 9 月的 CPI 同比数据，可以看到在过去一年里几个主要经济体的通胀均上升，且除中国外，其他国家目前的通胀率均处于近十几年来的最高水平。面对这种情况，全球各个高通…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBlox启动Discord社区金币福利]]></title>
-        <id>https://www.theblockbeats.info/news/32902</id>
-        <link href="https://www.theblockbeats.info/news/32902"/>
-        <updated>2022-12-09T14:45:10.000Z</updated>
-        <summary type="html"><![CDATA[OpenBlox启动Discord社区金币福利]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buidler DAO：熊市下DeFi叙事的必读文章]]></title>
-        <id>https://www.theblockbeats.info/news/32897</id>
-        <link href="https://www.theblockbeats.info/news/32897"/>
-        <updated>2022-12-09T14:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Buidler DAO：熊市下DeFi叙事的必读文章]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
