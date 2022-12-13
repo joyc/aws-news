@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-13T12:14:24.019Z</updated>
+    <updated>2022-12-13T18:09:41.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A&T：以太坊质押可提取价值中的投资机会]]></title>
+        <id>https://www.theblockbeats.info/news/32920</id>
+        <link href="https://www.theblockbeats.info/news/32920"/>
+        <updated>2022-12-13T13:34:34.000Z</updated>
+        <summary type="html"><![CDATA[A&T：以太坊质押可提取价值中的投资机会]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7大稳定币脱锚风险解析]]></title>
         <id>https://www.theblockbeats.info/news/32933</id>
@@ -417,16 +427,6 @@ Ape Staking 最早的方案 AIP 4&5 遭到了社区投票否决。在此之后�
         <link href="https://www.theblockbeats.info/news/32908"/>
         <updated>2022-12-11T06:44:03.000Z</updated>
         <summary type="html"><![CDATA[除了蔡崇信投资的Shibuya，还有哪些值得关注的Web3创作者经济？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 年加密行业清洗后，未来如何继续]]></title>
-        <id>https://www.theblockbeats.info/news/32907</id>
-        <link href="https://www.theblockbeats.info/news/32907"/>
-        <updated>2022-12-11T05:44:03.000Z</updated>
-        <summary type="html"><![CDATA[2022 年加密行业清洗后，未来如何继续]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
