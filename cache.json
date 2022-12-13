@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32933",
+          "author": null,
+          "description": "7大稳定币脱锚风险解析",
+          "link": "https://www.theblockbeats.info/news/32933",
+          "publishedOn": "2022-12-13T09:21:39.000Z",
+          "wordCount": null,
+          "title": "7大稳定币脱锚风险解析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32919",
+          "author": null,
+          "description": "美国起诉对Binance的影响是什么？",
+          "link": "https://www.theblockbeats.info/news/32919",
+          "publishedOn": "2022-12-13T07:21:39.000Z",
+          "wordCount": null,
+          "title": "美国起诉对Binance的影响是什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/32918",
+          "author": null,
+          "description": "10个新项目，Smrti Lab和ArkStream Demo day参展项目一览",
+          "link": "https://www.theblockbeats.info/news/32918",
+          "publishedOn": "2022-12-13T07:21:39.000Z",
+          "wordCount": null,
+          "title": "10个新项目，Smrti Lab和ArkStream Demo day参展项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32916",
           "author": null,
           "description": "原文来源：Canto Online Hackathon\n原文编译：0x711 & czgsws，BlockBeats\n\n\n\nCanto 第三季线上黑客松已于 12 月 1 日正式启动，旨在为 Canto 生态输出更多新项目。Canto 是一个基于 Cosmos SDK 打造的 L1 DeFi 公链。该项目由开发者组织 Plex 推动打造，旨在通过提供一系列免费公共基础设施，驱动 DeFi 领域的创新，并为传统金融带来更多可访问性、透明度和自由度。\n\n\n\n\n同时 Canto 也有原生稳定币 NOTE，采用 ERC-20 标准和超额抵押的背书机制。与传统意义上的稳定币不同，引入了一套新的稳定机制，NOTE 的利率算法只是以 1 美元为中心，价格与其协整，但不完全挂钩。因此 NOTE 的价格会有其自身的波动性。\n\n\n\n\n接下来我们一起来看下这场黑客松会为这条新公链带来哪些新项目：\n\n\n\n\nOnionProtocol \n\n\n\n\n在 DeFi 和基础设施赛道中，OnionProtocol 正在为 Canto 用户构建一套产品，包括资产管理器、钱包和合约生成器，该团队还在其近期路线图中暗示将延展至 DEX。\n\n\n\n\n\n\n\n\n\nLeverage Finance\n\n\n\n\nLeverage Finance 正在提交的项目是一个去中心化借贷平台，使用户能够存入他们的 LP Token。该协议包括 Tarot Vaults，并将很快为 Canto 社区新的 DeFi 策略。\n\n\n\n\n\n\n\nNexus Oracles\n\n\n\n\nNexus Oracles 是一个去中心化的预言机网络，为 Canto 上的智能合约提供外部和真实世界的数据。该团队希望为随机数生成器 (RNG)、加密喂价等功能提供解决方案。\n\n\n\n\n\n\n\n\n\nDappy.Network\n\n\n\n\nDappy.Network 旨在为 Stablecoin 和 Canto 原生 Token NOTE 创建一个出口。有了 Dappy，用户将能够将 USDC 和 NOTE 发送到全球 80 多个国家/地区的银行账户和移动钱包中。\n\n\n\n\n\n\n\n\n\nCantoSplits\n\n\n\n\nNeoBase Studios 团队正在提交的项目是 CantoSplits，它允许用户通过不同的方法分割链上收入，从而实现所有者之间的归属分配和收益分享等方案。CantoSplits 将支持 CANTO、NOTE（以及任何其他 ERC20 Token）和 NFT 的所有权分配。\n\n\n\n\n\n\n\n\n\nKali\n\n\n\n\nKali 是「Wrappr」背后的 DAO 部署者——种通过许可的 ERC1155 和合法备案元数据即时合并 LLC 或 UNA 的解决方案。该团队正准备将其产品部署至 Canto 以支持 NOTE。\n\n\n\n\n\n\n\n\n\nCantoPad\n\n\n\n\n在资金支持的项目中，CantoPad 是一个建立在 Canto 上的 LaunchPad 平台，旨在引入与 DAO-IDOs 和 Re-IDOS 相结合的筹款模式。\n\n\n\n\n\n\n\n\n\nalyst.canto\n\n\nalyst.canto 推出了两款专注于支持和采用 Canto 网络的产品：Panelist，提供 Canto 生态系统目录；Catalyst，为 Canto 艺术家提供了一个可编程的众筹解决方案、建设者和组织。\n\n\n\n\n\nAlto\n\n\nAlto.Build 是一个免费的公共 NFT 市场，它使创作者能够设置自己的版税和许可费率。\n\n\n\n\n\nAspen\n\n\n\n\nAspen 平台使创作者能够使用其可访问的 API 和无代码解决方案来创建附带可定制条款和条件的 NFT。\n\n\n\n\n\nCanto Toons\n\n\nCanto Toons 正在创建一个 NFT 系列，以向 Canto 社区提供独特的个人资料图片以及一个活动票务平台。\n\n\n\n\n\nCanto Crabs\n\n\nCanto Crabs 推出了其新游戏 Crab Roul，并引入邀请机制。\n\n\n\n\n\nSZN GAMES\n\n\nSZN GAMES 正在制作一款梦幻体育游戏，参与者在其中组建一支由现实生活中的球员组成的梦想团队，并根据这些球员的实际统计表现或他们在比赛场地上的感知贡献来得分。\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
