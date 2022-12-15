@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32946",
+          "author": null,
+          "description": "原文标题：《以太坊 MEV：Flashbot「奴隶主阶层」民主化是正解吗？》\n原文来源：张良 limblock\n\n\n随着对 mev 问题了解的深入，对该话题也有了自己新的思考。Mev（miner extractable value）这个词来自于以太坊，实际上对于其他公链也存在类似的 mev，只不过叫法可能不一样。此前以太坊 pow 共识系统下，验证交易和打包区块的矿工有一种权力，它们可以对交易进行重新排序、插入、忽略或审查。这意味着它们可以通过套利交易、清算等机会，获得除交易费用和区块奖励之外的收益。\n\n\n具体来说，当用户在链上发送一笔交易时，该交易会首先位于一个公开的内存池（mempool）等待处理。矿工和套利者可以监测内存池，发现可以套利的机会。比如，用户在交易平台进行了一笔大额交易导致价格下滑，产生了较大的套利空间。套利机器人进行套利交易，将市场价格套利至真实价格水平。\n\n\n\n\n\n\n\n\n\n\n\n\nlim block 周刊认为，这个过程有点类似于我们日常生活中的寄快递。用户先把快递交到快递收揽点，等待快递员打包处理、发送上车。\n\n\n假设疫情解封，上海市居民纷纷囤积药品以备治疗，结果药品价格疯涨，超出平常价格十几倍，甚至几十倍。假设你是一名快递员，同时在上海拥有有一家药店，药店也囤积了大量的治疗新冠的药品。\n\n\n这时作为快递员的你收揽了一笔准备寄送到上海的药品，且数量巨大，可以完全满足上海市疫情解封期间的药品供给需求。你意识到一旦这批药品投入到上海市场，你药店里面囤积的新冠药品可能迅速大折价，利润大减。为此，你大约会告知上海药店的员工迅速卖掉店里面药，规避风险，保证利润。\n\n\n从上面案例中，我们不难发现 mev 核心所在，即信息不对称。验证矿工和搜索套利者掌握最新的链上交易信息，而普通市场用户无法获知。这会形成一种链上特权，影响链上经济的公平与效率，甚至安全。\n\n\n比如，假…",
+          "link": "https://www.theblockbeats.info/news/32946",
+          "publishedOn": "2022-12-15T14:17:33.000Z",
+          "wordCount": null,
+          "title": "以太坊 MEV：Flashbot「奴隶主阶层」民主化是正解吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32950",
           "author": null,
           "description": "原文作者：Sergio Gallardo\n原文编译：0x711，BlockBeats\n\n\n\n\n加密 KOL Sergio Gallardo在其社交平台分享了 10 个即将上线的新项目（未发币）介绍，BlockBeats 对其翻译整理如下。\n\n\n\n\nIVX\n\n\nIVX 是建立在 GMX 上的期权 AMM。用户能够以 LP 为对手盘，进行期权交易。AMM 将通过 GMX 累积对基础 Token 的敞口，以保持 delta 中性仓位。该协议将于 1 月在 Arbitrum 上推出。\n\n\n\n\n\nDYAD\n\n\nDYAD 正在构建一个由 ETH 支持的超额抵押 Stablecoin。dNFT 持有者可以通过将 ETH 存入作为抵押品并从常态化 re-balance 的金库来铸造 DYAD。1 个 DYAD 始终可以兑换为 1 美元的 ETH。测试网预计很快推出。\n\n\n\n\n\nContango\n\n\nContango 允许用户在没有 AMM 或订单簿的情况下交易到期合约（expirable contracts）。其流动性来自于 Yield Protocol 和 Notional Finance 等固定利率协议。几天后将在 Arbitrum 上推出公开测试版。\n\n\n\n\n\nMonad\n\n\n该项目由 Jump Trading 前高频交易团队创立，是一个兼容 EVM 的 Layer1 PoS 区块链。Monad 通过并行执行技术，tps 可高达 10,000。v0 版本将于 2023 年夏季推出。\n\n\n\n\n\nGammaSwap\n\n\n该项目是一个去中心化交易平台，允许用户做多或做空波动率。LPing 意味着做空波动率。LPers 可以存入他们的 LP 以赚取收益，而想要做多波动率的交易者可以借入 LP 头寸并分解该交易对。即将推出。\n\n\n\n\n\nnftperp.xyz\n\n\n该协议是面向 NFT 的永续期货 DEX，允许交易者以高达 5 倍的杠杆率针对不同 NFT 藏品的地板价做多或做空。nftperp 使用 vAMM，这意味着没有订单簿或 LP。协议 2 周前刚刚发布了测试版。\n\n\n\n\n\nAevo\n\n\nAevo 是一个基于订单簿模式的期权交易平台，由 Ribbon Finance 在以太坊上的自定义 rollup 中构建。它将与 Ribbon 整合为 Ribbon 期权合约结算的场所。Aevo 目前处于内测阶段，预计将于 2023 年第一季度推出。\n\n\n\n\n\nPanoptic\n\n\nPanoptic 是一个永续期权协议，使用 Uni v3 LP 头寸来交易多头和空头期权。Panoptic 在不依赖 Black Scholes 逻辑的情况下重新创建点对池模型中的收益等选项。\n\n\nrysk finance\n\n\nrysk 旨在提供在各种市场条件下都能产生收益的产品。它依赖于建立在 opyn²的动态对冲保险库 (DHV) 来为 LP 产生 delta 中性收益率。该协议目前以私人测试版的形式在 Arbitrum 上运行。\n\n\nPerennial Labs\n\n\nPerennial 是一种衍生品协议，允许创建双边市场，以基础资产喂价敞口为交易标的。Perennial 充当点对池衍生品 AMM。Perennial 在以太坊上运行，并将在不久的将来在 L2s 上启动。\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -173,36 +183,6 @@
           "publishedOn": "2022-12-13T07:21:39.000Z",
           "wordCount": null,
           "title": "10个新项目，Smrti Lab和ArkStream Demo day参展项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32916",
-          "author": null,
-          "description": "原文来源：Canto Online Hackathon\n原文编译：0x711 & czgsws，BlockBeats\n\n\n\nCanto 第三季线上黑客松已于 12 月 1 日正式启动，旨在为 Canto 生态输出更多新项目。Canto 是一个基于 Cosmos SDK 打造的 L1 DeFi 公链。该项目由开发者组织 Plex 推动打造，旨在通过提供一系列免费公共基础设施，驱动 DeFi 领域的创新，并为传统金融带来更多可访问性、透明度和自由度。\n\n\n\n\n同时 Canto 也有原生稳定币 NOTE，采用 ERC-20 标准和超额抵押的背书机制。与传统意义上的稳定币不同，引入了一套新的稳定机制，NOTE 的利率算法只是以 1 美元为中心，价格与其协整，但不完全挂钩。因此 NOTE 的价格会有其自身的波动性。\n\n\n\n\n接下来我们一起来看下这场黑客松会为这条新公链带来哪些新项目：\n\n\n\n\nOnionProtocol \n\n\n\n\n在 DeFi 和基础设施赛道中，OnionProtocol 正在为 Canto 用户构建一套产品，包括资产管理器、钱包和合约生成器，该团队还在其近期路线图中暗示将延展至 DEX。\n\n\n\n\n\n\n\n\n\nLeverage Finance\n\n\n\n\nLeverage Finance 正在提交的项目是一个去中心化借贷平台，使用户能够存入他们的 LP Token。该协议包括 Tarot Vaults，并将很快为 Canto 社区新的 DeFi 策略。\n\n\n\n\n\n\n\nNexus Oracles\n\n\n\n\nNexus Oracles 是一个去中心化的预言机网络，为 Canto 上的智能合约提供外部和真实世界的数据。该团队希望为随机数生成器 (RNG)、加密喂价等功能提供解决方案。\n\n\n\n\n\n\n\n\n\nDappy.Network\n\n\n\n\nDappy.Network 旨在为 Stablecoin 和 Canto 原生 Token NOTE 创建一个出口。有了 Dappy，用户将能够将 USDC 和 NOTE 发送到全球 80 多个国家/地区的银行账户和移动钱包中。\n\n\n\n\n\n\n\n\n\nCantoSplits\n\n\n\n\nNeoBase Studios 团队正在提交的项目是 CantoSplits，它允许用户通过不同的方法分割链上收入，从而实现所有者之间的归属分配和收益分享等方案。CantoSplits 将支持 CANTO、NOTE（以及任何其他 ERC20 Token）和 NFT 的所有权分配。\n\n\n\n\n\n\n\n\n\nKali\n\n\n\n\nKali 是「Wrappr」背后的 DAO 部署者——种通过许可的 ERC1155 和合法备案元数据即时合并 LLC 或 UNA 的解决方案。该团队正准备将其产品部署至 Canto 以支持 NOTE。\n\n\n\n\n\n\n\n\n\nCantoPad\n\n\n\n\n在资金支持的项目中，CantoPad 是一个建立在 Canto 上的 LaunchPad 平台，旨在引入与 DAO-IDOs 和 Re-IDOS 相结合的筹款模式。\n\n\n\n\n\n\n\n\n\nalyst.canto\n\n\nalyst.canto 推出了两款专注于支持和采用 Canto 网络的产品：Panelist，提供 Canto 生态系统目录；Catalyst，为 Canto 艺术家提供了一个可编程的众筹解决方案、建设者和组织。\n\n\n\n\n\nAlto\n\n\nAlto.Build 是一个免费的公共 NFT 市场，它使创作者能够设置自己的版税和许可费率。\n\n\n\n\n\nAspen\n\n\n\n\nAspen 平台使创作者能够使用其可访问的 API 和无代码解决方案来创建附带可定制条款和条件的 NFT。\n\n\n\n\n\nCanto Toons\n\n\nCanto Toons 正在创建一个 NFT 系列，以向 Canto 社区提供独特的个人资料图片以及一个活动票务平台。\n\n\n\n\n\nCanto Crabs\n\n\nCanto Crabs 推出了其新游戏 Crab Roul，并引入邀请机制。\n\n\n\n\n\nSZN GAMES\n\n\nSZN GAMES 正在制作一款梦幻体育游戏，参与者在其中组建一支由现实生活中的球员组成的梦想团队，并根据这些球员的实际统计表现或他们在比赛场地上的感知贡献来得分。\n\n\n\n\n\n\n\n\n\n\n原文链接\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32916",
-          "publishedOn": "2022-12-13T04:48:22.000Z",
-          "wordCount": null,
-          "title": "Canto第3季线上黑客松13个新项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32915",
-          "author": null,
-          "description": "【视频】Web3公开课：元宇宙、NFT和Web3游戏（上）",
-          "link": "https://www.theblockbeats.info/news/32915",
-          "publishedOn": "2022-12-13T04:08:34.000Z",
-          "wordCount": null,
-          "title": "【视频】Web3公开课：元宇宙、NFT和Web3游戏（上）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32914",
-          "author": null,
-          "description": "读懂Rage Trade：可组合的全链以太坊永续合约协议",
-          "link": "https://www.theblockbeats.info/news/32914",
-          "publishedOn": "2022-12-13T02:44:34.000Z",
-          "wordCount": null,
-          "title": "读懂Rage Trade：可组合的全链以太坊永续合约协议",
           "imageUrl": null
         }
       ]
