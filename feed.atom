@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-15T18:08:48.871Z</updated>
+    <updated>2022-12-16T00:36:11.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -843,36 +843,6 @@ Earn Alliance 会在平台的游戏中自动导入几项重要的玩家统计数
         <link href="https://www.theblockbeats.info/news/32920"/>
         <updated>2022-12-13T13:34:34.000Z</updated>
         <summary type="html"><![CDATA[A&T：以太坊质押可提取价值中的投资机会]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7大稳定币脱锚风险解析]]></title>
-        <id>https://www.theblockbeats.info/news/32933</id>
-        <link href="https://www.theblockbeats.info/news/32933"/>
-        <updated>2022-12-13T09:21:39.000Z</updated>
-        <summary type="html"><![CDATA[7大稳定币脱锚风险解析]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国起诉对Binance的影响是什么？]]></title>
-        <id>https://www.theblockbeats.info/news/32919</id>
-        <link href="https://www.theblockbeats.info/news/32919"/>
-        <updated>2022-12-13T07:21:39.000Z</updated>
-        <summary type="html"><![CDATA[美国起诉对Binance的影响是什么？]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10个新项目，Smrti Lab和ArkStream Demo day参展项目一览]]></title>
-        <id>https://www.theblockbeats.info/news/32918</id>
-        <link href="https://www.theblockbeats.info/news/32918"/>
-        <updated>2022-12-13T07:21:39.000Z</updated>
-        <summary type="html"><![CDATA[10个新项目，Smrti Lab和ArkStream Demo day参展项目一览]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
