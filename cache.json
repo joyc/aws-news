@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32952",
+          "author": null,
+          "description": "采访：Lucas、Jenny，分别为火必孵化器高级研究经理和高级运营经理\n受访者：Kristof Gazso、Praneeth Srikanti，前者为 ERC-4337 共同作者、后者为 Ethereal Ventures 投资合伙人 \n原文编译：aididiaojp.eth，Foresight News\n\n\n\n\n主持人：各位能否先自我介绍一下？\n\n\n\n\nKristof：我在 2021 年 5 月加入 Nethermind，大约在去年 11 月的时候，我在想我接下来要在这个领域做什么，这个领域所面临最大的瓶颈是什么？目前最大的问题是看到没有技术背景的普通人在使用以太坊应用程序时会遇到很大困难。所以对我来说我能做的最有效的事情就是解决以太坊的账户和钱包使用困难的问题，改善以太坊应用程序的用户体验。\n\n\n\n\n账户有两种类型：私人账户（EOA）和智能合约账户。现在在以太坊上，用户主要使用的是 EOA 账户（比如 Metamask 和 Rainbow），但它们存在一定的限制。\n\n\n\n\n我一直在寻找解决方案，不久后发现了帐户抽象的概念。我意识到现在还没有任何提案有机会部署到主网，因为之前的所有提案要么太复杂，要么需要在提案方面做太多工作。所以与 Vitalik 和 OpenGSN 一起，我们一起探索账户抽象的解决方案，通过它，主网就不需要进行共识级别的协议更改，而这就是 ERC-4337 的主要创新点。\n\n\n\n\n我们可以看到目前为止已经有一些应用程序正在被构建。现在，我们正在不断发展生态，并为 ERC-4337 的普及铺平道路。\n\n\n\n\nPraneeth：我是 Ethereal Ventures 的投资合伙人，这是一家新成立的加密投资公司，由 ConsenSys 的前风险投资团队创立。\n\n\n\n\n为了让更多的人进入 Web3，我们需要为用户提供更低门槛和流畅的体验，这是人们从根本上习…",
+          "link": "https://www.theblockbeats.info/news/32952",
+          "publishedOn": "2022-12-16T14:28:50.000Z",
+          "wordCount": null,
+          "title": "对话ERC-4337创作者：以太坊账户抽象及其演化",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32956",
           "author": null,
           "description": "原文来源：Peng SUN、aididiaojp.eth、Karen，Foresight News\n制图：Kiet，Foresight News\n\n\n\n\nCoinbase Ventures 成立于 2018 年，是加密货币交易平台 Coinbase 的风险投资基金，致力于推进加密与 Web3 行业发展，对加密货币和区块链技术中所有类别的早期项目进行广泛投资，提高全球经济自由度。\n\n\n\n\nCoinbase Ventures 是在 2018 年前 Linkedln 副总裁 Emilie Choi 加入 Coinbase 担任业务副总裁兼首席运营官后的产物，她帮助成立的企业发展团队意识到应在熊市期间努力建设，投资早期加密公司并建立牢固关系，从而促进加密生态系统发展。在近五年的时间里，Coinbase Ventures 投资组合已经增加到近 400 个，遍及全球 40 多个国家。\n\n\n\n\n按照自己的定义，Coinbase Ventures 将其投资组合划分为五个类别：Protocols & Web3 Infrastructure（27%）、DeFi（22%）、CeFi（19%）、Platform & Developer Tools（16%）与 NFT / Metaverse / Gaming（16%），基本囊括与加密生态相关的各个方面。值得注意的是，2021 年加密市场的牛市效应促进了 Coinbase Ventures 投资版图的迅速扩张，它们在过去一年的总投资数量接近 150 笔，平均每 2.5 天就有一笔新的投资。而 2022 年至今，Coinbase Ventures 再度完成 150 笔左右的投资，仅一季度便完成超 70 笔投资。\n\n\n\n\n尽管其覆盖面较广，但仍可从其投资组合中一窥 Coinbase Ventures 对整个加密生态发展的宏观考量。首先，Web3 基础设施…",
@@ -143,46 +153,6 @@
           "publishedOn": "2022-12-14T06:42:58.000Z",
           "wordCount": null,
           "title": "【视频】Web3公开课：元宇宙、NFT和Web3游戏（下）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32937",
-          "author": null,
-          "description": "原文标题：《破产局中局 | 福布斯杂志公布 SBF 拟陈述证词全文》\n原文来源：福布斯杂志\n原文编译：Babywhale，Foresight News\n\n\n在北京时间昨日晚间进行的 FTX 破产听证会之前，《福布斯》杂志公布了其获取到的 Sam Bankman-Fried（SBF）计划在听证会上陈述的证词草稿。该份证词中，SBF 详细讲述了 FTX 破产事件的始末，但其陈述的情况是否真的是事实，相信还需要时间来给出答案。\n\n\n\n\n概况\n\n\n\n\n首先，我想在宣誓后正式声明：\n\n\n\n\n我搞砸了。\n\n\n\n\n我知道，现在说对不起并没有任何用处，因此我将尽可能多地奉献自己的力量为客户做正确的事。当所有的事情都完成后，我会主要通过一个标准来评价自己：用户最终是否能受到补偿？如果在这方面辜负了用户，那么我就失败了。\n\n\n\n\n去年，我的净资产被评估为 200 亿美元。\n\n\n\n\n今天，我也不能说我一无所有，我有一个温馨的家庭，也没有挨饿，这已经比数十亿人的生活要好了很多。我最后一次查询我银行账户时里面应该有 10 万美元，但我无法确定，因为我已经被拒绝查看很多我个人的密码、数据、文件和账户。\n\n\n\n\n截至今天，我和 FTX International 前管理团队都无法获得可以告知用户、破产团队、国外监管机构的数据，目前这个数据都由破产团队控制。\n\n\n\n\n事实上，我们之中有许多人仍然无法访问我们自己的个人数据，这些数据被破产管理小组的领导层控制。当我们要求获得自己的个人资料和密码时，我们得到的回答是：「你应该像我们向其他处于相同情况的人建议的那样，重新设置 2FA/ 密码。」\n\n\n\n\n因此，我的大部分证词不会有我希望的那样自信和详细。我为我可能不能自信地回答合理的质疑表示歉意。因为我现在无法访问 FTX 的大部分当前或历史数据来进行确认。我也无法访问我自己的大部分笔记、文章、电子表格、数据或电…",
-          "link": "https://www.theblockbeats.info/news/32937",
-          "publishedOn": "2022-12-14T05:42:58.000Z",
-          "wordCount": null,
-          "title": "FTX破产疑云｜福布斯公布SBF拟陈述证词全文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32938",
-          "author": null,
-          "description": "撰文：Cookie，律动BlockBeats\n\n\n「地下城」The Beacon 大火之后，TreasureDAO 又趁热打铁一般连续在 Coinbase 与 Binance 上架了其 Token MAGIC，成为市场最耀眼的靓仔之一。站在了市场聚光灯下的 TreasureDAO 没有停下来享受久违的热度，他们正努力将一个名为「Kuroro」的游戏生态带入 TreasureDAO 的世界里。\n\n\n\n\n\n\n\n\n\n\n\nTreasureDAO 的 BD 负责人 @Jpegape1 透露已经与 Kuroro 的 CEO 及其他团队成员进行了对话\n\n\n\n\n\n\n\n\n\n\n\n随后，TreasureDAO 的 Co-Founder 与 COO @0xkarel 再次向 Kuroro CEO 喊话，Treasure 欢迎你，用 MAGIC 感动你\n\n\n\n\n\n\n从上面的推文中可以看见，「宝可梦」是 Kuroro 的一大标签。这个「Web3 宝可梦」有什么魔力吸引了 TreasureDAO？律动 BlockBeats 带您一探究竟。\n\n\n项目概况\n\n\n\nKuroro 自去年 11 月底开始运营，通过发售「Golden Ferry Ticket 金色渡轮票」与「Silver Ferry Ticket 银色渡轮票」NFT 筹集了超过 300 万美元的资金。\n\n\n\n\n根据 Kuroro 官网的数据，其团队目前共有 27 位成员。团队目前暂未实名，相关资料较少，两位 Co-Founder 分别是 @kurorosage 与 @ProfOtium。\n\n根据团队的自述，两人都曾在硅谷的公司担任过技术主管级别的职位。CEO @kurorosage 曾就职于 Synthesis，一家拿到了 1700 万美元融资、为 8-14 岁儿童提供在线强化教育的公司，其 Co-Funder Josh Dahn 曾与 Elon…",
-          "link": "https://www.theblockbeats.info/news/32938",
-          "publishedOn": "2022-12-14T05:42:30.000Z",
-          "wordCount": null,
-          "title": "The Beacon后新游戏Kuroro上线，TreasureDAO又要有「宝可梦」了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32936",
-          "author": null,
-          "description": "据 BlockBeats 统计，上周融资总数为 23 笔，覆盖 GameFi、NFT、DeFi、社交等领域，总金额超 1.8 亿美元，平均融资金额为 526 万美元，整体融资规模及频率仍然较低。其中，数字资产管理/支付仍然是机构融资的主要对象，社交以及基础设施板块的融资较少。下图为上周各板块融资占比：\n\n\n\n\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 4 笔融资，总金额超 1275 万美元，占上周融资总额的 7.02%。值得关注的项目有：\n\n\n\n\nEarn Alliance\n\n\n\n\n关注理由：团队经验丰富，融资阵容亮眼。近期，游戏赛道除工作室外，游戏平台也成了资本追捧的新趋势。\n\n\n\n\n\n\n\n\n\nBlockBeats 消息，12 月 8 日，Web3 游戏社区平台 Earn Alliance 宣布完成 475 万美元种子轮融资，CoinFund 和 Fabric Ventures 共同领投，Blockchain Coinvestors、MAD World Ventures 及天使投资人等参投。\n\n\n\n\nEarn Alliance 由 Joseph Cooper 创立，团队来自暴雪、币安、火币、Sandbox VR 等顶级游戏公司和加密机构，旨在打造一个全面的游戏基础设施平台和社区，以满足链游玩家、社区和游戏开发者。Earn Alliance Alpha 版本将于 12 月 15 日推出，功能包括 Web3 游戏、游戏智能新闻提要、灵魂徽章和任务系统以及文章等。\n\n\n\n\nEarn Alliance 会在平台的游戏中自动导入几项重要的玩家统计数据，并以 SBT 徽章的形式与玩家绑定，以展示他们的技能和成就。徽章是 Earn Alliance 平台激励模型的核心，玩家支持的社区越多，持有的徽章就越多，获得的奖励也就越多。\n\n\n\n\n另外，Earn A…",
-          "link": "https://www.theblockbeats.info/news/32936",
-          "publishedOn": "2022-12-14T03:33:06.000Z",
-          "wordCount": null,
-          "title": "2022年第51周融资项目精选：Shibuya、DeFi衍生品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32935",
-          "author": null,
-          "description": "原文标题：《\n\n在 SBF 被逮捕前，我们和他聊了一下\n\n》\n原文来源：深潮TechFlow\n\n\n12 月 13 日，FTX 创始人 SamBankman-Fried 被巴哈马警方正式逮捕。\n\n\n\n\n\n\n根据巴哈马官方的声明，美国司法部门已经正式对 SBF 提起刑事诉讼，巴哈马警方在收到美国正式通知后逮捕了 SBF，并将按照要求引渡他。美国纽约南区检察官办公室的推文也证实了这一点，并表示，即将公布起诉书。据纽约时报援引消息人士报道，FTX 创始人 SBF 被指控犯有电汇欺诈、电汇欺诈共谋、证券欺诈、证券欺诈共谋和洗钱罪。\n\n\n\n\n此前，SBF 频繁接受各大媒体采访，并流连于各类推特 Space，让不少人心生疑惑，为何 FTX 崩盘后，SBF 似乎安然无恙？\n\n\n\n\n尘埃逐渐落定。\n\n\n\n\n就在 SBF 被逮捕的前几天，深潮 TechFlow 通过视频采访了 SBF。那一天，SBF 似乎精神不错，久违地露出了多次笑容。在采访的过程中，他不断强调自己很懊悔，重复表示「我搞砸了」，表明自己想要「积极解决客户的问题」；但另一边，他又将矛头对准了 CZ 和负责破产清算的 FTX 现任 CEO 及团队。在他看来，CZ 是扣动扳机，最终导致 FTX 爆炸的人。\n\n\n\n\n值得一提的是，SBF 在采访中承认，过去他将很多的精力浪费在了媒体以及 FTX 的品牌建设上，没有专注于产品优化和风险管理，现在看来造成了很多问题。\n\n\n\n\n在采访的最后，我们问他，你最后悔的事情是什么？\n\n\n\n\n他表示，「后悔出事后的那段时间我不应该在媒体消失，我本可以做更多」。\n\n\n\n\n真相还是谣言？\n\n\n\n\n深潮 TechFlow：自 FTX 破产以来，三箭资本频繁发起对 Alameda 的指控，称在 LUNA 崩溃的事件中，三箭资本是被 Alameda 集团所猎杀，最终导致了三箭资本失去了自身 LP 与债权人的全部…",
-          "link": "https://www.theblockbeats.info/news/32935",
-          "publishedOn": "2022-12-14T03:20:06.000Z",
-          "wordCount": null,
-          "title": "SBF被捕前的最后专访：那些真相与谣言",
           "imageUrl": null
         }
       ]
