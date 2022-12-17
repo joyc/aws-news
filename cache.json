@@ -126,33 +126,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblockbeats.info/news/32941",
+          "id": "https://www.theblockbeats.info/news/32938",
           "author": null,
-          "description": "原文作者：Alex\n原文编译：0x711，BlockBeats\n\n\n\n\nGMX 是 Arbitrum 上的一个 DeFi 协议，允许流动性提供者（LP）存入资金并为永续合约交易者提供杠杆。GMX 的 LP 作为每笔交易的对手方，通过收取交易费用和提供杠杆资金来赚钱。ByteTrade Lab 有一篇文章详细介绍了其机制。\n\n\n协议收入将按照 70/30 比例分给 LPs 和 GMX Token 持有者。据 https://stats.gmx.io 信息，自其 2021 年 8 月运行以来，协议已产生接近 1 亿美元的净利润。\n\n\n在当前市场环境下，无需许可协议中的 LPs 是如何获得如此高的被动收益的呢？\n\n\n\n\n\n本文分析了 2021 年 12 月以来所有 GMX 交易的「markouts」（markout 是使用未来价格的交易的未实现损益）以衡量订单流毒性。（有毒订单流是指知情交易，可以理解为知情交易者比做市商有价格预测和订单操作优势，从而使得做市商与其成交后短期收益期望为负。）研究结果表明，GMX 的交易员非常无害，在扣除费用后的 1 分钟加价中损失高达 11 个基点。\n\n\n\n\nGMX 拥有 6 万独立用户，其账户交易额的中位数为 350 美元，账户平均交易额为 100 万美元。如图所示，毒性随着交易规模的增加而增加，但幅度很小。此外，去除费用前的大额交易对协议也没有毒性。\n\n\n\n\n\n\nGMX 显然在被动散户 LP 和散户交易者之间找到了平衡点，从而产生了稳定的收入流。在此之前，DeFi 中 AMM 中的被动散户 LP 几乎永远无法大规模获胜。那么 GMX 是如何做到的呢？\n\n\nGMX 依靠价格预言机来引导价格发现，这提高了价格发现的效率。这与 Uniswap 为保持交易价格和公平价格一致而向 EV 妥协不同。\n\n\nGMX 交易分两笔转账进行，这相当于设置了 5 秒缓…",
-          "link": "https://www.theblockbeats.info/news/32941",
-          "publishedOn": "2022-12-14T10:20:58.000Z",
+          "description": "撰文：Cookie，律动BlockBeats\n\n\n「地下城」The Beacon 大火之后，TreasureDAO 又趁热打铁一般连续在 Coinbase 与 Binance 上架了其 Token MAGIC，成为市场最耀眼的靓仔之一。站在了市场聚光灯下的 TreasureDAO 没有停下来享受久违的热度，他们正努力将一个名为「Kuroro」的游戏生态带入 TreasureDAO 的世界里。\n\n\n\n\n\n\n\n\n\n\n\nTreasureDAO 的 BD 负责人 @Jpegape1 透露已经与 Kuroro 的 CEO 及其他团队成员进行了对话\n\n\n\n\n\n\n\n\n\n\n\n随后，TreasureDAO 的 Co-Founder 与 COO @0xkarel 再次向 Kuroro CEO 喊话，Treasure 欢迎你，用 MAGIC 感动你\n\n\n\n\n\n\n从上面的推文中可以看见，「宝可梦」是 Kuroro 的一大标签。这个「Web3 宝可梦」有什么魔力吸引了 TreasureDAO？律动 BlockBeats 带您一探究竟。\n\n\n项目概况\n\n\n\nKuroro 自去年 11 月底开始运营，通过发售「Golden Ferry Ticket 金色渡轮票」与「Silver Ferry Ticket 银色渡轮票」NFT 筹集了超过 300 万美元的资金。\n\n\n\n\n根据 Kuroro 官网的数据，其团队目前共有 27 位成员。团队目前暂未实名，相关资料较少，两位 Co-Founder 分别是 @kurorosage 与 @ProfOtium。\n\n根据团队的自述，两人都曾在硅谷的公司担任过技术主管级别的职位。CEO @kurorosage 曾就职于 Synthesis，一家拿到了 1700 万美元融资、为 8-14 岁儿童提供在线强化教育的公司，其 Co-Funder Josh Dahn 曾与 Elon…",
+          "link": "https://www.theblockbeats.info/news/32938",
+          "publishedOn": "2022-12-14T23:49:50.000Z",
           "wordCount": null,
-          "title": "GMX：散户的Robinhood，LP的Citadel Securities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32940",
-          "author": null,
-          "description": "原文标题：《\n\n三分钟了解 Gearbox 创新的流动性引导方案\n\n》\n\n原文作者：Overkoalafied\n原文编译：DeFi之道\n\n如果你最近一直在关注 Gearbox 治理，你可能已经看到了关于如何最好地为 GEAR token 引导流动性以及实现可转移性的想法。如果你还没有注意，那么你来对地方了！  \n\n\n\n\n\n最近，[GIP-31] 通过了 Cider' ed 流动性启动计划，[GIP-35] 最终确定了参数，[GIP-36] 添加了 GEAR/ETH LPs LM 奖励。简单来说，Cider' ed 流动性是一种单边的 GEAR/ETH Curve V2 LP 拍卖机制，GEAR 持有者以及 ETH 持有者都可以分别参与。\n\n\n\n这个机制的目标是将当前卖家与新买家相匹配，并在交易开始之前以拍卖的方式进行，这有可能使市场状况趋于平稳。无论如何，这是在正式开启交易之前的一种过渡机制。\n\n\n时间轴和机制\n\n\n\n\n\n\n\n\n以下是 Cider' ed 流动性计划的预期时间表，考虑到多重签名交易的性质，可能会延长 1-2 天的时间，以防出现任何缓慢签名的情况。一旦 Cider' ed 流动性计划第一阶段（在这个例子当中是 GEAR 存款）开放，所有后续阶段将自动发生，直至 FairTrading 结束。\n\n\n\n\n\n审计：12 月 5 日至 12 月 11 日\n\n\n这些合约已经过 ChainSecurity 的审计。报告和调查结果发布在相应的论坛主题上。Cider 不是一份复杂的合约，它非常简单——所以审计非常快速，并且结果是令人舒适的。如果你正在阅读本文但没有在论坛主题中看到审计链接，请等待一些时间，审计报告和代码将在开始前开源。\n\n\n多重签名交易：~12 月 12 日\n\n\n一旦审核通过，多重签名就可以在 12 月 12 日这一天准备必要的交易。这可能要 +1-2 天 时…",
-          "link": "https://www.theblockbeats.info/news/32940",
-          "publishedOn": "2022-12-14T08:42:58.000Z",
-          "wordCount": null,
-          "title": "DeFi杠杆协议Gearbox流动性引导方案「Cider’ed」详解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32939",
-          "author": null,
-          "description": "原视频来源：Vic TALK\n\n\n本期视频的主讲嘉宾是 Animoca 的创始人 Yat Sui，本期是对当前热门链游的介绍和科普，也会涉及在 Web3 中如何构建游戏生态。感兴趣的朋友一起来学习吧。\n\n\n\n\n\nYat Siu 是香港的科技企业家/投资者。他是 Animoca Brands 的联合创始人兼董事长，该公司专注于利用流行品牌、游戏化、人工智能、区块链和移动技术来开发从游戏到健身解决方案的引人入胜的应用程序。  \n\n\n\n\n\n\n\n\n\n*本视频来自 YouTube，部分 ip 地址无法观看      \n\n\n\n\n\n更多视频，请观看：《Web3 公开课：元宇宙、NFT 和 Web3 游戏（上）》\n\n\nBlockBeats 注：Web3 公开课是由加州大学伯克利分校的华裔教授 Dawn Song 发起，由顶级 Web3 投资基金和 Web3 头部项目的创始人主讲，提供了一系列 Web3 基础知识和创业实战的资深课程，无论是对新手用户，还是对行业内颇有成就的资深 OG 都有实际价值。行业项目方和投资机构亲身下场以实际经验传道解惑。本课程由 Web3 MOOC 中文翻译组翻译并解读。      \n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/32939",
-          "publishedOn": "2022-12-14T06:42:58.000Z",
-          "wordCount": null,
-          "title": "【视频】Web3公开课：元宇宙、NFT和Web3游戏（下）",
+          "title": "The Beacon后新游戏Kuroro上线，TreasureDAO又要有「宝可梦」了？",
           "imageUrl": null
         }
       ]
