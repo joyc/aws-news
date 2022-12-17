@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-17T06:09:04.597Z</updated>
+    <updated>2022-12-17T12:11:43.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pantera合伙人对2023年加密行业的6大预测]]></title>
+        <id>https://www.theblockbeats.info/news/32959</id>
+        <link href="https://www.theblockbeats.info/news/32959"/>
+        <updated>2022-12-17T08:31:09.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《2023 Predictions》
+原文来源：Paul Veradittakit，Pantera Capital 合伙人
+原文编译：aididiaojp.eth，Foresight News
+
+
+
+
+2022 年无疑是加密行业高潮和低谷频现的一年。在 2021 年牛市之后，我们以市场调整的预期拉开了 2022 年的序幕，比特币和以太坊仅在 1 月份就分别下跌了约 20% 和 31%。美联储加息、高通胀、裁员、经济增长普遍放缓等宏观因素带来了很大的不确定性。艰难的市场条件在很大程度上成为一年中大部分时间恐慌的源泉，但这并没有阻止加密行业取得许多令人难以置信的技术进展。Compound v3 等 DeFi 的改进和 ZK 生态系统的发展仍在继续。机构对加密货币的采用也迅速推进，迪士尼、星巴克、阿迪达斯等众多品牌悄然拥抱 Web3。大型银行也对该行业表现出越来越大的兴趣：富达为投资者推出了加密服务，贝莱德与 Coinbase 合作为其机构客户提供加密访问，高盛正在创建新的加密数据服务。
+
+
+
+
+今年的一个行业亮点是 9 月的以太坊合并，区块链从工作量证明过渡到权益证明，将以太坊的能源使用量减少了约 99.9%。其次，许多了不起的工程师在熊市中继续建设，一些强大的项目从中脱颖而出。该行业也正在从 2022 年的每一次灾难中吸取的教训，尽管目前还很艰难。鉴于这些事件，许多项目甚至是加密货币整个市场都显示了它们的弹性。加密行业发展至今，正是从一次次危机中走过来的，这一次相信也不会列外，该行业将以在 2022 年展现出的强度和耐久性进入 2023 年。
+
+
+
+
+以下是我对 2023 年加密行业的六大预测：
+
+
+
+
+DeFi 将在 CeFi 整合期间继续增长
+
+
+
+
+过去一年暴露了中心化金融 CeFi 的许多问题，而 DeFi 总体上运行良好。鉴于 2022 年 CeFi 的多…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破译以太坊未来：深入挖掘zkEVM、模块化层、中间件、L3]]></title>
+        <id>https://www.theblockbeats.info/news/32957</id>
+        <link href="https://www.theblockbeats.info/news/32957"/>
+        <updated>2022-12-17T06:31:09.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Scaling, modularity and the question of blockchain longevity
+
+》
+原文作者：knower
+原文编译：Kxp，BlockBeats
+
+
+
+
+
+
+
+
+事件回顾
+
+
+
+
+在我住的地方附近有一栋非常高的大楼正在施工，我很喜欢晚上朝那个方向看。正因为他们还没有建好墙，所以我才能欣赏到每层楼闪耀着的绚丽灯光。整栋建筑看起来就像一棵工业化的圣诞树，象征着我们可能即将离开的时代，如今的我们正朝着元宇宙的时代小心迈进。
+
+
+19 世纪末，第一座摩天大楼建成。当时的美国只有大约 5000 万公民，与 2021 年的 3.3 亿相比相差甚远，而我们的社会又在这两百多年的时间里发生了怎样的变化？如今我们每天都在虚拟与现实之间游走——虽然大部分时间我们都在网络世界度过，但身体却怎么也离不开我们所熟知的现实世界。新冠疫情的肆虐让我们不得不选择数字生活，可能早就受够了远程工作、无休止的视频电话与网络购物。
+
+
+
+
+多年后，当我们回顾现在这个时期，肯定也会像我们回看早期的电脑或互联网一样发笑。也许你会觉得，自从世界上大部分地区解除了对新冠的限制后，人们的生活已经基本恢复了正常，但有些事情似乎并不对劲：Elon Musk 成了 Twitter 的老板、Mark Zuckerberg 正在构建反乌托邦（很可能会失败）、Jeff Bezos 正疯狂砸重金注射类固醇——这些究竟是怎么回事？
+
+
+
+
+就像我之前说的，我们正处于一个奇怪的中间时期，一边是完全由技术民主驱动的元宇宙全球化阶段，一边则是以沉闷、单调和碎片化的物质生活为特征的前互联网世界。即使生活在城市中，我们也很难找回过去的那种感觉了——除非你是年轻人，而且是住在人口众多、文化丰富的城市（如：迈阿密、纽约市、芝加哥等）。我感觉我们一直在做的很多事情都是出于习惯，而非享受。当然，…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简析多权限NFT管理协议EIP-5496]]></title>
         <id>https://www.theblockbeats.info/news/32958</id>
@@ -711,64 +791,6 @@ Twitter 和 Web3 之间的数据访问模式相似之处：
 
 
 在 FTX 崩盘…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beacon后新游戏Kuroro上线，TreasureDAO又要有「宝可梦」了？]]></title>
-        <id>https://www.theblockbeats.info/news/32938</id>
-        <link href="https://www.theblockbeats.info/news/32938"/>
-        <updated>2022-12-14T23:49:50.000Z</updated>
-        <summary type="html"><![CDATA[撰文：Cookie，律动BlockBeats
-
-
-「地下城」The Beacon 大火之后，TreasureDAO 又趁热打铁一般连续在 Coinbase 与 Binance 上架了其 Token MAGIC，成为市场最耀眼的靓仔之一。站在了市场聚光灯下的 TreasureDAO 没有停下来享受久违的热度，他们正努力将一个名为「Kuroro」的游戏生态带入 TreasureDAO 的世界里。
-
-
-
-
-
-
-
-
-
-
-
-TreasureDAO 的 BD 负责人 @Jpegape1 透露已经与 Kuroro 的 CEO 及其他团队成员进行了对话
-
-
-
-
-
-
-
-
-
-
-
-随后，TreasureDAO 的 Co-Founder 与 COO @0xkarel 再次向 Kuroro CEO 喊话，Treasure 欢迎你，用 MAGIC 感动你
-
-
-
-
-
-
-从上面的推文中可以看见，「宝可梦」是 Kuroro 的一大标签。这个「Web3 宝可梦」有什么魔力吸引了 TreasureDAO？律动 BlockBeats 带您一探究竟。
-
-
-项目概况
-
-
-
-Kuroro 自去年 11 月底开始运营，通过发售「Golden Ferry Ticket 金色渡轮票」与「Silver Ferry Ticket 银色渡轮票」NFT 筹集了超过 300 万美元的资金。
-
-
-
-
-根据 Kuroro 官网的数据，其团队目前共有 27 位成员。团队目前暂未实名，相关资料较少，两位 Co-Founder 分别是 @kurorosage 与 @ProfOtium。
-
-根据团队的自述，两人都曾在硅谷的公司担任过技术主管级别的职位。CEO @kurorosage 曾就职于 Synthesis，一家拿到了 1700 万美元融资、为 8-14 岁儿童提供在线强化教育的公司，其 Co-Funder Josh Dahn 曾与 Elon…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
