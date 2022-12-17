@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/32958",
+          "author": null,
+          "description": "简析多权限NFT管理协议EIP-5496",
+          "link": "https://www.theblockbeats.info/news/32958",
+          "publishedOn": "2022-12-17T03:25:09.000Z",
+          "wordCount": null,
+          "title": "简析多权限NFT管理协议EIP-5496",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/32952",
           "author": null,
           "description": "采访：Lucas、Jenny，分别为火必孵化器高级研究经理和高级运营经理\n受访者：Kristof Gazso、Praneeth Srikanti，前者为 ERC-4337 共同作者、后者为 Ethereal Ventures 投资合伙人 \n原文编译：aididiaojp.eth，Foresight News\n\n\n\n\n主持人：各位能否先自我介绍一下？\n\n\n\n\nKristof：我在 2021 年 5 月加入 Nethermind，大约在去年 11 月的时候，我在想我接下来要在这个领域做什么，这个领域所面临最大的瓶颈是什么？目前最大的问题是看到没有技术背景的普通人在使用以太坊应用程序时会遇到很大困难。所以对我来说我能做的最有效的事情就是解决以太坊的账户和钱包使用困难的问题，改善以太坊应用程序的用户体验。\n\n\n\n\n账户有两种类型：私人账户（EOA）和智能合约账户。现在在以太坊上，用户主要使用的是 EOA 账户（比如 Metamask 和 Rainbow），但它们存在一定的限制。\n\n\n\n\n我一直在寻找解决方案，不久后发现了帐户抽象的概念。我意识到现在还没有任何提案有机会部署到主网，因为之前的所有提案要么太复杂，要么需要在提案方面做太多工作。所以与 Vitalik 和 OpenGSN 一起，我们一起探索账户抽象的解决方案，通过它，主网就不需要进行共识级别的协议更改，而这就是 ERC-4337 的主要创新点。\n\n\n\n\n我们可以看到目前为止已经有一些应用程序正在被构建。现在，我们正在不断发展生态，并为 ERC-4337 的普及铺平道路。\n\n\n\n\nPraneeth：我是 Ethereal Ventures 的投资合伙人，这是一家新成立的加密投资公司，由 ConsenSys 的前风险投资团队创立。\n\n\n\n\n为了让更多的人进入 Web3，我们需要为用户提供更低门槛和流畅的体验，这是人们从根本上习…",

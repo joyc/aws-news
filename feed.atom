@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-17T00:34:49.273Z</updated>
+    <updated>2022-12-17T06:09:04.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[简析多权限NFT管理协议EIP-5496]]></title>
+        <id>https://www.theblockbeats.info/news/32958</id>
+        <link href="https://www.theblockbeats.info/news/32958"/>
+        <updated>2022-12-17T03:25:09.000Z</updated>
+        <summary type="html"><![CDATA[简析多权限NFT管理协议EIP-5496]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话ERC-4337创作者：以太坊账户抽象及其演化]]></title>
         <id>https://www.theblockbeats.info/news/32952</id>
