@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-18T06:09:02.945Z</updated>
+    <updated>2022-12-18T12:11:52.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：TreasureDAO新游戏Kuroro上线；美国起诉对Binance的影响是什么？]]></title>
+        <id>https://www.theblockbeats.info/news/32994</id>
+        <link href="https://www.theblockbeats.info/news/32994"/>
+        <updated>2022-12-18T08:45:15.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+《2022 年第 51 周融资项目精选：Shibuya、DeFi 衍生品》
+
+
+ 
+据 BlockBeats 统计，上周融资总数为 23 笔，覆盖 GameFi、NFT、DeFi、社交等领域，总金额超 1.8 亿美元，平均融资金额为 526 万美元，整体融资规模及频率仍然较低。其中，数字资产管理/支付仍然是机构融资的主要对象，社交以及基础设施板块的融资较少。
+
+
+
+
+《2 天 10 倍的特朗普 NFT，是前总统自己发行的吗？》
+
+
+
+
+45000 张，每张 99 美元，美国前总统唐纳德·特朗普的首个 NFT 系列「Trump Digital Trading Cards」仅用 12 个小时就全部售罄。尽管该 NFT 系列发行在 Polygon 上且总量较大，但 NFT 玩家们依然 FOMO。火热的 FOMO 情绪背后，特朗普的首个 NFT 系列依然有着许多未解的谜团...
+
+
+
+
+《Pantera 合伙人对 2023 年加密行业的 6 大预测》
+
+
+
+
+今年的一个行业亮点是 9 月的以太坊合并，区块链从工作量证明过渡到权益证明，将以太坊的能源使用量减少了约 99.9%。其次，许多了不起的工程师在熊市中继续建设，一些强大的项目从中脱颖而出。该行业也正在从 2022 年的每一次灾难中吸取的教训，尽管目前还很艰难。鉴于这些事件，许多项目甚至是加密货币整个市场都显示了它们的弹性。加密行业发展至今，正是从一次次危机中走过来的，这一次相信也不会列外，该行业将以在 2022 年展现出的强度和耐久性进入 2023 年。本文是 Pantera 合伙…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2天10倍的特朗普NFT，是前总统自己发行的吗？]]></title>
         <id>https://www.theblockbeats.info/news/32993</id>
