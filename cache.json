@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33024",
+          "author": null,
+          "description": "盘点2022 Crypto十大年度时刻：惊心动魄之下尚存曙光",
+          "link": "https://www.theblockbeats.info/news/33024",
+          "publishedOn": "2022-12-19T13:38:43.000Z",
+          "wordCount": null,
+          "title": "盘点2022 Crypto十大年度时刻：惊心动魄之下尚存曙光",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33010",
           "author": null,
           "description": "原文来源：yyy，Web3caff研究员\n\n\n以太坊二层扩容方案 @optimismFN 预计在 2023 年实现 Bedrock 版本的升级，近期已完成测试网 Goerli 的 Bedrock 升级，主网升级仅一步之遥。\n\nOptimism 团队也把此次升级作为当前最重要的核心目标，具有一定的战略意义。\n\n此条推文简单聊聊什么是 Bedrock 以及为什么要进行 Bedrock 升级。\n\n\nRollup 方案的困局\n\n目前 Rollup 赛道已经有不少项目上线主网（如 Arbitrum、ZkSyncMetisDAO），但它们都存在一些不可忽略的问题：\n\n1) EVM 兼容性；虽然一些基于 OP 的 Rollup 方案实现了 EVM 等效性，但 EVM 兼容/等效并不意味着项目能够无缝迁移，项目方仍然需要进行或多或少的代码调整。\n\n\n网络交易费用仍然偏高；Rollup 的费用主要分为 2 部分：一是自身的运营费用；二是占用 L1 区块空间的数据可用性（DA）费用，其中 DA 的费用占大头。\n\n执行层将相关证明以 calldata 的函数形式上传到 L1，在一定程度上占用了主网的区块空间。单一定序器的中心化问题。目前大多数 Rollup 解决方案的定序器都是由项目方自身或者单一的运营商运行，存在严重的中心化问题。\n\n如 Arbitrum 在今年 1 月份发生的宕机事故，导致网络在数小时内无法正常出块。究其原因，问题就发生在 Arbitrum 官方运行的定序器上。\n\n\n@optimismFND Bedrock 升级正是旨在解决上述问题。Bedrock 升级后会发生如下重大变化：\n\n1) L1 到 L2 的存款时间缩减 4 倍以上（10min 缩短至 2.5min）；\n\n2) 向 L1 提交数据的成本削减约 20%；\n\n3) 与 Geth 的差异精简到约 500 行代码；\n\n4) 支持多样化的替代证明系统（包括 ZK）。\n\n\n为了实现更低的成本，@optimismFND 开发了 Cannon, 一个全新的交互式欺诈证明系统。\n\nOptimism 现在采用的是单轮交互欺诈证明解决争议，为什么多轮交互反而能降低成本呢？\n\n很容易理解，交互在链下进行，不断缩小争议的范围，然后再提交主网做验证。\n\n\n以太坊等效性\n\n\n@optimismFND 早在去年年底就实现了 EVM 等效性，为了更大程度地兼容以太坊，Bedrock 升级提出了以太坊等效性。\n\n简单来讲，就是让 Arbitrum 上的代码和以太坊上的代码差异最小化，让以太坊上的原生项目以极低的成本迁移过来。\n\n\n\n\n\n多客户端系统\n\n\n\n@optimismFND 的 Bedrock 升级将建立一个多客户端生态系统，激励外部团队创建其他客户端。\n\n通过多客户端的形式实现去中心化，从而大幅降低了网络的单点风险。\n\n\n以上就是关于 Arbitrum Bedrock 升级的介绍。虽然目前 Optimism 团队的重心是 Bedrock 升级，但其最终的愿景是旨在利用 OP Stack 实现可互操作的「超级链」生态。 \n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-12-17T06:31:09.000Z",
           "wordCount": null,
           "title": "破译以太坊未来：深入挖掘zkEVM、模块化层、中间件、L3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32958",
-          "author": null,
-          "description": "简析多权限NFT管理协议EIP-5496",
-          "link": "https://www.theblockbeats.info/news/32958",
-          "publishedOn": "2022-12-17T03:25:09.000Z",
-          "wordCount": null,
-          "title": "简析多权限NFT管理协议EIP-5496",
           "imageUrl": null
         }
       ]

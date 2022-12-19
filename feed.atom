@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-19T12:13:25.907Z</updated>
+    <updated>2022-12-19T18:09:46.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点2022 Crypto十大年度时刻：惊心动魄之下尚存曙光]]></title>
+        <id>https://www.theblockbeats.info/news/33024</id>
+        <link href="https://www.theblockbeats.info/news/33024"/>
+        <updated>2022-12-19T13:38:43.000Z</updated>
+        <summary type="html"><![CDATA[盘点2022 Crypto十大年度时刻：惊心动魄之下尚存曙光]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism即将进行的主网Bedrock升级是什么？为何它如此重要？]]></title>
         <id>https://www.theblockbeats.info/news/33010</id>
@@ -695,16 +705,6 @@ Scaling, modularity and the question of blockchain longevity
 
 
 就像我之前说的，我们正处于一个奇怪的中间时期，一边是完全由技术民主驱动的元宇宙全球化阶段，一边则是以沉闷、单调和碎片化的物质生活为特征的前互联网世界。即使生活在城市中，我们也很难找回过去的那种感觉了——除非你是年轻人，而且是住在人口众多、文化丰富的城市（如：迈阿密、纽约市、芝加哥等）。我感觉我们一直在做的很多事情都是出于习惯，而非享受。当然，…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简析多权限NFT管理协议EIP-5496]]></title>
-        <id>https://www.theblockbeats.info/news/32958</id>
-        <link href="https://www.theblockbeats.info/news/32958"/>
-        <updated>2022-12-17T03:25:09.000Z</updated>
-        <summary type="html"><![CDATA[简析多权限NFT管理协议EIP-5496]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
