@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-19T00:35:47.140Z</updated>
+    <updated>2022-12-19T06:10:35.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解析NFT市场Blur运作机制、盈利模式及用户体验]]></title>
+        <id>https://www.theblockbeats.info/news/32995</id>
+        <link href="https://www.theblockbeats.info/news/32995"/>
+        <updated>2022-12-19T03:13:11.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《介绍新入局者 Blur：对 OpenSea 的又一次挑战》
+原文来源：Maverick，吴说区块链
+原文编辑：Colin Wu，吴说区块链
+
+
+在获得 Paradigm 等多家机构超过 1400 万美元融资后，自诩「为专业交易者提供服务」的 NFT 交易市场 Blur 在近期可谓是风光无限。NFTScan 数据显示，截止 12 月 16 日，过去一个月 Blur 的 NFT 交易量仅次于 Opensea，约占整个 NFT 市场份额的 29%（如下图），一跃成为当前链上交易量最大的 NFT 聚合交易市场，给予 OpenSea 从未有过的压力。
+
+
+
+
+
+作为明牌的空投，官方此前表态称将于明年将上线 BLUR Token，但这仍然建立在总量、Token 分配等 Tokenomics 尚未明确的情境。羊毛党实际处于有被反撸风险的被动状态，不过这并没有影响到羊毛党的热情。这种热情或许和 OP、APTOS 致富效应造成的空投 FOMO 潮，以及 NFT 市场的「独角兽」Opensea 迟迟不发 Token 背景有关。「只要在前 6 个月在 Opensea、LooksRare、X2Y2 等 NFT 交易市场有交易记录就有机会获取的第一期空投 BLUR」，作为安慰奖出现以及空投「开盲盒」的新宣传形式引起了羊毛党的关注。不过在后续空投宣传中，Blur 却两度搬出了「下一轮更大」的说辞 PUA 社区。然而 Blur 正在持续进行的第三轮空投发放的预期，以及官方在推上宣传的「第三轮作为最后一轮是奖励规模最大的」依然促进了 Blur 的使用人数的激增，特别是巨鲸几乎垄断了排行榜，也短暂地带动了 BAYC、Azuki 等一众蓝筹 NFT 项目交易量和地板价双双上涨。
+
+
+Blur 通过「自定义版税+零费用+空投预期」模式用吸引交易者使用
+
+
+一直以来，版税是 NFT 交易市场的敏感话题…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：TreasureDAO新游戏Kuroro上线；美国起诉对Binance的影响是什么？]]></title>
         <id>https://www.theblockbeats.info/news/32994</id>
@@ -336,53 +363,6 @@ Scaling, modularity and the question of blockchain longevity
         <link href="https://www.theblockbeats.info/news/32958"/>
         <updated>2022-12-17T03:25:09.000Z</updated>
         <summary type="html"><![CDATA[简析多权限NFT管理协议EIP-5496]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话ERC-4337创作者：以太坊账户抽象及其演化]]></title>
-        <id>https://www.theblockbeats.info/news/32952</id>
-        <link href="https://www.theblockbeats.info/news/32952"/>
-        <updated>2022-12-16T14:28:50.000Z</updated>
-        <summary type="html"><![CDATA[采访：Lucas、Jenny，分别为火必孵化器高级研究经理和高级运营经理
-受访者：Kristof Gazso、Praneeth Srikanti，前者为 ERC-4337 共同作者、后者为 Ethereal Ventures 投资合伙人 
-原文编译：aididiaojp.eth，Foresight News
-
-
-
-
-主持人：各位能否先自我介绍一下？
-
-
-
-
-Kristof：我在 2021 年 5 月加入 Nethermind，大约在去年 11 月的时候，我在想我接下来要在这个领域做什么，这个领域所面临最大的瓶颈是什么？目前最大的问题是看到没有技术背景的普通人在使用以太坊应用程序时会遇到很大困难。所以对我来说我能做的最有效的事情就是解决以太坊的账户和钱包使用困难的问题，改善以太坊应用程序的用户体验。
-
-
-
-
-账户有两种类型：私人账户（EOA）和智能合约账户。现在在以太坊上，用户主要使用的是 EOA 账户（比如 Metamask 和 Rainbow），但它们存在一定的限制。
-
-
-
-
-我一直在寻找解决方案，不久后发现了帐户抽象的概念。我意识到现在还没有任何提案有机会部署到主网，因为之前的所有提案要么太复杂，要么需要在提案方面做太多工作。所以与 Vitalik 和 OpenGSN 一起，我们一起探索账户抽象的解决方案，通过它，主网就不需要进行共识级别的协议更改，而这就是 ERC-4337 的主要创新点。
-
-
-
-
-我们可以看到目前为止已经有一些应用程序正在被构建。现在，我们正在不断发展生态，并为 ERC-4337 的普及铺平道路。
-
-
-
-
-Praneeth：我是 Ethereal Ventures 的投资合伙人，这是一家新成立的加密投资公司，由 ConsenSys 的前风险投资团队创立。
-
-
-
-
-为了让更多的人进入 Web3，我们需要为用户提供更低门槛和流畅的体验，这是人们从根本上习…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
