@@ -2,10 +2,265 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-20T06:10:07.799Z</updated>
+    <updated>2022-12-20T12:13:28.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3公开课：如何找到好的Web3创业Idea (下）]]></title>
+        <id>https://www.theblockbeats.info/news/33030</id>
+        <link href="https://www.theblockbeats.info/news/33030"/>
+        <updated>2022-12-20T09:26:52.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：Vic TALK
+
+
+
+
+
+
+本期视频的主讲嘉宾是 Dragonfly 的执行合伙人 Haseeb Qureshi，他将讲述在创业的过程中如何找准所处市场，发现市场空缺等问题。同时还要思考闯入这个赛道的项目是如何走向死亡的，避免重复别人的错误。
+
+
+
+
+
+
+
+
+
+Dragonfly 是 Crypto 行业知名的一线投资基金，曾参投了很多优质项目。Haseeb 是一名 Crypto 风险投资人，软件工程师，曾服务于 Airbnb 和 Earn.com。同时他也是一位初创企业创始人，投资虚拟货币超过 5 年。
+
+
+
+
+
+
+
+
+
+
+
+
+
+*本视频来自 YouTube，部分 ip 地址无法观看      
+
+
+
+
+
+
+更多精彩视频：《Web3 公开课：如何找到好的 Web3 创业 Idea (上）》
+
+
+ BlockBeats 注：Web3 公开课是由加州大学伯克利分校的华裔教授 Dawn Song 发起，由顶级 Web3 投资基金和 Web3 头部项目的创始人主讲，提供了一系列 Web3 基础知识和创业实战的资深课程，无论是对新手用户，还是对行业内颇有成就的资深 OG 都有实际价值。行业项目方和投资机构亲身下场以实际经验传道解惑。本课程由 Web3 MOOC 中文翻译组翻译并解读。   
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近十分火爆的社交游戏TwitFi怎么玩？]]></title>
+        <id>https://www.theblockbeats.info/news/33029</id>
+        <link href="https://www.theblockbeats.info/news/33029"/>
+        <updated>2022-12-20T08:26:52.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《TwitFi：基于 Twitter，一种将社交与游戏结合的新型 GameFi》
+原文作者：0xBun，深潮 TechFlow
+
+
+尽管 X2E 已经落幕，但它仍然是 Web3 中相对新颖的体系之一，吸引着不少流动性。X2E 是一种高灵活性的叙事，其表现形式取决于人们的想象力。也就是说「X」可以披上人们想要的任何外衣，如 Play、Write 甚至是 Sleep。今天我们将要看到的「X」是 Tweet，看它是如何通过发布推文赚取奖励的。
+
+
+什么是 TwitFi？
+
+
+TwitFi 是一款面向 Web 3 社交网络游戏，它具有 GameFi 功能。游戏上手很简单，只需将你的钱包和推特账户连接至它们的官网，游戏的准备步骤就完成了三分之二。
+
+
+
+
+
+最后，你需要准备 TwitFi 的 NFT，它是以鸟为基础设计的交互 NFT。玩家可以在市场或 Mint 期间，花钱或免费 Mint 一只宠物蛋。当然，不同种类的蛋所孵化出来的鸟的种类也不同。例如，如果是免费的蛋，那孵化出来的多半是 Baby 类型的鸟。需要注意的是，Baby 类型的鸟是无法在二级市场出售的。
+
+
+
+
+
+
+准备好了这些，玩家便可以在推特上发布带 #TwitFi 的推文来赚取游戏内的Token了，
+
+Token
+
+可在游戏中使用或兑现。
+
+
+
+
+
+T2E 机制
+
+
+如果只是发布推文赚取奖励，那未免过于无趣，也很难抵御投机者的攻击。为了让 TwitFi 看起来更像游戏，项目决定在 NFT 上做文章。
+
+
+如前所述，当你将蛋孵化成鸟的时候，鸟会有四种类型，以及五个等级。类型和等级不同的鸟，每条推文赚取的
+
+Token
+
+也不相同。
+
+
+
+
+
+并且，NFT 并不能直接赚取
+
+Token
+
+，而是要通过一种名为「饲料」的媒介。当我们的饲料用完时，便再也无法通过发布推文来赚取
+
+Token
+
+。后续则需要等待饲料的重新补充。鸟的等级不同，饲料的恢复速度也不一样，如下图所示。
+
+
+
+
+
+但是不管等级是多少，每个 NFT 所能拥有的饲料上限为 10 个，玩家可以通过购买饲料箱来积累最多 50 个饲料。
+
+
+显然，等级的高低是赚取
+
+Token
+
+的关键，那么如何提升鸟的等级呢？除了在二级市场购买高等级鸟之外，玩家可以通过消耗赚取的
+
+Token
+
+（TWT）来提升级别，并且在提升等级之前，还有一段等待期：
+
+
+
+
+
+
+为了进一步削减 TWT 的市场抛压，和提高游戏的生命力，NFT 中还引入了「病毒」机制。当你发推文时，NFT 有一定的概率感染病毒。如果 NFT 被感染，你发推不会得到 TWT。感染会在 7 天后痊愈。或者，你可以在市场上购买药物来立即治愈它。
+
+
+感染概率取决于 NFT 的推文数量：
+
+
+
+
+
+需要注意的是，虽然感染之后会痊愈，但是在感染次数满 20 次之后，NFT 会自动销毁。
+
+
+游戏的优缺点
+
+
+TwitFi 是一款主打社交的游戏，它的目标人群明确：经常使用社交软件的人。TwitFi 的独特之处在于，它允许玩家通过在社交媒体上发布推文来赚取真实收益。这使得玩家在享受互动的同时还能获得经济利益。
+
+
+另外，游戏中宠物的设定增加了游戏的可玩性。这是因为宠物作为游戏中的一个元素，是增加游戏趣味性和复杂性的一种手段——TwitFi 通过宠物衍生出来的一系列机制，赋予了游戏可持续运行的动力。
+
+
+然而，游戏的优点也可能是它的缺点。例如，游戏中提供的「饲料」恢复速度取决于鸟的等级，这可能会导致玩家觉得购买高等级 NFT 是必要的。以及游戏在可玩性方面表现较差，单一的发推并不能产生多大的用户黏度，特别是熊市期间。
+
+
+总之，TwitFi 目前还处于早期，通过推文和 NFT 的方式，打通了 Web2 与 Web3 的桥梁，给 Web3 带来新的血液，游戏的创意和想法值得肯定。但其护城河尚未建立，模式容易被复刻，以及正式发行后，游戏是否能够稳定地运营持续下去还有待商榷。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复盘8个常见的DeFi经济模型攻击案例]]></title>
+        <id>https://www.theblockbeats.info/news/33028</id>
+        <link href="https://www.theblockbeats.info/news/33028"/>
+        <updated>2022-12-20T07:26:52.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Foresight Ventures：「正义」的攻击，复盘常见的 DeFi 经济模型攻击》
+原文作者：Jonas，Foresight Ventures
+
+
+
+
+在加密行业的黑暗森林里，Defi 已成为黑客的提款机，今年迄今损失总金额已超过 30 亿美元。一是因为 Defi 平台持有大量资金，攻击成功的回报很高。二是因为大多数 Defi 协议代码都是开源，更易受到网络安全威胁。三是因为 Defi 通常生态互连，放大攻击的便利性。
+
+
+Token Terminal 报告显示，Defi 大约 50% 的漏洞发生在跨链桥上，其次为借贷，交易平台和机枪池。
+
+
+
+
+
+
+
+
+
+
+
+
+对 Defi 的经济模型攻击更有研究价值，特别是一些机制在极端情况下的走向，很有利于我们理解Token经济学。某种意义上，如果黑客通过钓鱼、撞库等社会工程学手段来盗取资产，算是不义之财。而类似地通过 Defi 的规则来套利，就堪称明火执仗地赚钱，手段高明但无可置喙。
+
+
+
+
+币价操纵，通过合约变现
+
+
+
+
+价格操纵是 Defi 中最早和最常见的漏洞。而随着链上衍生品兴起，攻击的盈亏比变得很高。
+
+
+
+
+案例 1：MANGO
+
+
+
+
+22 年 10 月 Solana 链去中心化合约平台 Mango 遭遇攻击。
+
+
+
+
+成功要素：山寨币合约仓位没有限制
+
+
+
+
+攻击流程：
+
+
+
+
+a) 建仓：攻击者首先向 Mango 交易平台 A、B 地址分别各转入 500 万美元。而后黑客通过 A 地址在 Mango 上利用合约做空
+
+Token
+
+ MANGO；同时在 B 地址上做多 MANGO。多空双开的原因在于，虽然 Mango 平台对山寨币合约仓位没有限制，但是深度较差，如果不和自己作对手盘，仓位就很难开到这么高。
+
+
+
+
+b) 操纵价格：攻击者使用更多资金购买 MANGO 
+
+Token
+
+，在 10 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Messari：从协议层和应用层分析SBF之后的Solana生态状况]]></title>
         <id>https://www.theblockbeats.info/news/33027</id>
