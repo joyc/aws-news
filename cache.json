@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33027",
+          "author": null,
+          "description": "原文标题：《The Solana Ecosystem Overview》\n原文作者：kelxyz、James Trautman \n原文编译：BlockTurbo\n \n让我们从一开始就谈一谈房间里的大象：SBF 和 FTX 确实在早期促进 Solana 生态系统的发展方面发挥了不可或缺的作用。\n\n\n\n\n他们现在不在了。\n\n\n\n\n然而，许多其他建设者已经并且仍然致力于扩展生态系统也是事实。\n\n\n\n\n本报告旨在提供有关仍在构建 Solana 生态系统的个人和团队的状态的背景信息。\n\n\n\n\n\n\n\n\n\n报告分为协议层分析和应用层分析两部分。\n \n第一部分——协议级别的 Solana \n\n\n\n\n技术举措\n\n\n\n\n升级性能的主题是 Solana 最近完成的短期和中期技术计划的基础。Firedancer、Jito-Solana 和 Multiple Leaders per Slot 是开发者社区中最受期待的一些举措。\n \n网络健康和开发者格局\n\n\n\n\n尽管 Hetzner 的服务条款问题和 FTX 的崩溃，但 Solana 的网络健康和基础设施相对稳定。在 FTX 之前规模较小且无利可图的验证者面临着一些压力，但大多数验证者仍然可以轻松盈利。有关股权、地理和数据中心分布的更多详细信息，请参见下文。\n\n\n\n\n开发人员生态系统看起来很强大。需要注意的是，关于该主题收集的数据量太少，无法完全依赖。\n\n\n\n\n协议基础设施\n\n\n\n\n这些项目构建或扩展了 Solana 基础设施的组件，这些组件与协议本身没有直接联系——开发人员工具、部署工具、不同虚拟机的实验、DAO 工具等等。\n \nSolana 的未来之路——顶级技术计划\n \nSolana 没有明确的路线图，但许多举措已经赢得了开发人员的关注。检查这些举措提供了了解 Solana 在技术层面上的发展方向所需的背景。\n \nFiredancer（测试中）…",
+          "link": "https://www.theblockbeats.info/news/33027",
+          "publishedOn": "2022-12-20T05:00:44.000Z",
+          "wordCount": null,
+          "title": "Messari：从协议层和应用层分析SBF之后的Solana生态状况",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33026",
+          "author": null,
+          "description": "原文标题：《\n\n这 10 个新 DeFi 潜力项目值得提前埋伏\n\n》\n\n原文来源：\n\nKaren，Foresight News\n\n\n\n本文将为读者盘点 10 个新的 DeFi 潜力项目，以及各自具有什么特色或创新之处，不过多数项目还处于早期发展阶段，提醒用户谨慎交互，DYOR。\n\n \n\nMorpho：以太坊上借贷优化协议\n \nMorpho 可以被认为是一个贷款池优化器，是一个建立在 Compound 和 Aave 等贷款池之上的点对点层，通过点对点无缝匹配贷款人和借款人来提升贷款池头寸的资本效率，同时还能够保留与底层协议相关的相同流动性、清算保证和风险参数。截止撰稿时，通过 Morpho 提供供应的所有流动性达近 3 亿美元，总的借款量为 1.56 亿美元。\n \n众所周知，当前一般的借贷协议中，多数池子借款额和贷款额严重不匹配，导致借款人支付的利息和贷款人赚取的利息严重不匹配，资本效率也比较低下。那 Morpho 是如何提升资本效率的？\n \nMorpho 主要通过一个优先队列来对用户借贷需求进行匹配来实现双赢，具体来说，会根据用户想要借出或借入的金额对用户进行排序，当有一个贷方向协议提供流动性时，他的流动性首先与最大的借款人匹配，随后与第二大、第三大借款人匹配，依此类推，直到提供的流动性完全匹配或没有更多的借款人可以匹配。反之，当有一个借方准备借入流动性，则首先与最大的贷款人匹配，以此类推。鉴于可能出现的多个匹配，Morpho 也考虑到了 Gas 消耗情况，允许用户自定义设置最大 Gas 值，如果花费的 Gas 达到最大值，剩余的未匹配流动性会回到基础池中。\n \n也就是说，Morpho 借贷用户在最坏的情况下可以获得底层池的 APY，当其资金被匹配时就会获得一个提升的 P2P APY。在这两种情况下，用户始终会收到等于或优于底层协议的费率。\n \n奖励方面，Morpho 会代…",
+          "link": "https://www.theblockbeats.info/news/33026",
+          "publishedOn": "2022-12-20T04:14:44.000Z",
+          "wordCount": null,
+          "title": "10 个值得提前埋伏的新 DeFi 潜力项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33025",
+          "author": null,
+          "description": "原文来源：李科，PANews\n\n\n由日本万代南梦宫与世嘉联合推出的游戏公链Oasys是兼容以太坊 EVM 的一条侧链，并支持多链交互。Oasys 采用 PoS 共识机制，包含 Layer1 和 Layer2 层，一层主要用于主网共识，游戏主要运行在二层网络上。在 Oasys 公链上，游戏开发者可以运行自己的 Layer 2，用户无需支付 Gas 费用，由开发者来承担这些费用。Oasys 试图通过更快的交易速度和零 Gas 费来提高区块链游戏的体验和采用率。\n\n\n\nOasys 公链生态版图\n\n\nOasys 今年 7 月完成由 Republic Capital 领投的 2000 万美元 Token 私募轮融资，Jump Crypto、Crypto.com、Huobi、Kucoin、Bitbank 和 Mirana Ventures 等参投。在 12 月 6 日 Oasys 宣布完成新一轮战略融资，由 Galaxy Interactive、韩国游戏巨头 Nexon、Jets Capital、ChainGuardians 等参投，融资金额未公布。另外 Oasys 在本月初分配 100 万美元额度到 Republic 平台进行公募，价格为 0.035USD，公募在 12 个小时内完成。\n\n\n创始团队为游戏和区块链领域领军者\n\n\nOasys 的创始成员主要来自游戏和区块链行业的著名企业。\n\n\n\n\n\nGabby Dizon：游戏公会 YGG( Yield Guild Games) 联合创始人。\nHajime Nakatani：万代南梦宫研究院总裁兼 CEO。\nHironobu Ueno：区块链游戏公司 double jump.tokyo CEO。\nHironao Kunimitsu：Gumi 创始人兼 Thirdverse 首席执行官。\nShuji Utsumi：世嘉联席首席运营官，Pl…",
+          "link": "https://www.theblockbeats.info/news/33025",
+          "publishedOn": "2022-12-20T04:14:44.000Z",
+          "wordCount": null,
+          "title": "详解Oasys：兼容EVM的零手续费高速游戏公链",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33023",
+          "author": null,
+          "description": "原文标题：《全球最强 10 大 Web3 技术团队，90% 以上市值的加密项目由他们开发和守护？》\n原文来源：白话区块链\n\n\n\n据财联社创投通统计，11 月份全球 Web3.0 领域融资总数量为 71 笔，融资总额为 10.34 亿美元，环比 10 月份的 8.5 亿增长 21.65%。\n\n\n\n现在 Web3 作为互联网行业的热点话题，大到顶级 VC，小到互联网创业者，无不都在谈论。红杉资本、高盛等国际知名的风投机构，早早开始重金布局。一些从互联网大厂辞职的人也都纷纷 all in Web3，当然这些大厂本身如腾讯也开始进入 Web3 游戏领域。\n\n\n事实上，加密领域里近万亿美元市场中，百分之 90% 以上的市值是由头部项目产生的。今天，白话区块链今天带大家一起来梳理一下 Web3 实力最强、贡献最大的 10 支队伍......\n\n\n1. Bitcoin 核心团队\n\n\n2011 年，消失后的中本聪把开发权限给了 Gavin Andresen，随后比特币项目迁移到了 Github 并于 2014 年比特币项目正式命名为「Bitcoin Core」，其背后的开发团队也被称为 Bitcoin Core 团队。\n\n\n\n在 Github 上，由于任何人都可以为 Bitcoin Core 做贡献，因此 Core 团队不是一个真正意义上的公司，它可以说是一个由中本聪指定接管人组件并通过比特币社区不断吸纳新开发者的去中心化的技术开发组织。这些从事比特币开发的人来自经济、政治、密码学、计算机科学等专业领域。\n\n\nBitcoin core 作为长久以来得到比特币社区最多支持的开发者团队，曾被外界称为全球最有才华的比特币开发团队。目前 Core 团队现在依然专注于 Bitcoin 系统的维护与后续的技术开发，为比特币将来的技术升级、发展做好铺垫打好基础。\n\n\n为了防止技术开发上的中心化现象，Bi…",
+          "link": "https://www.theblockbeats.info/news/33023",
+          "publishedOn": "2022-12-20T01:14:44.000Z",
+          "wordCount": null,
+          "title": "Web3最强10大技术团队，他们开发了90%以上市值的加密项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33024",
           "author": null,
           "description": "盘点2022 Crypto十大年度时刻：惊心动魄之下尚存曙光",
@@ -83,16 +123,6 @@
           "publishedOn": "2022-12-18T02:30:57.000Z",
           "wordCount": null,
           "title": "2天10倍的特朗普NFT，是前总统自己发行的吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32992",
-          "author": null,
-          "description": "从NFT市场现状谈为何大多数NFT将归零？",
-          "link": "https://www.theblockbeats.info/news/32992",
-          "publishedOn": "2022-12-17T14:41:08.000Z",
-          "wordCount": null,
-          "title": "从NFT市场现状谈为何大多数NFT将归零？",
           "imageUrl": null
         }
       ]
