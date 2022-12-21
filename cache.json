@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33075",
+          "author": null,
+          "description": "原文标题：《\n\n\n\n一文了解 nostr ：一个让 Elon Musk 感到害怕的去中心化社交协议\n\n\n\n》\n原文作者：git-sgmoore 和 fiatjaf（nostr）\n原文编译：DeFi 之道\n\n\n注：近期一个名为 nostr 的去中心化社交协议获得了比特币社区的追捧，这引来了 Twitter 现任 CEO Elon Musk 争议性的封杀政策，同时让 Twitter 前任 CEO Jack Dorsey 自掏 14 BTC 为其提供资助，那 nostr 到底有什么魔力？\n\n\n\nTwitter 的最新禁止政策\n\n\n根据介绍，nostr 是一个最简化的协议，它能够一劳永逸地创建一个抗审查的全球「社交」网络。\n\n\nnostr 不依赖于任何受信中央服务器，其基于密码学密钥和签名，并且不依赖于 P2P 技术，它也不会发行 token。\n\n\n那它的运作原理是怎样的呢？简单来说：每个人都运行一个客户端，这可以是本机客户端、Web 客户端等。要发布某些内容（比如一个帖子），你要用你的密钥对其签名，并将其发送到多个中继器（由其他人或你自己托管的服务器）。要从其他人那里获得更新，你可以询问多个中继器是否了解这些其他人。任何人都可以运行中继器，这是非常简单的，除了接受某些人的帖子并转发给其他人之外，它什么都不做。我们也不需要信任中继器，签名是在客户端进行验证的。\n\n\n1、如何开始使用 Nostr\n2、Nostr 客户端功能比较\n3、基于 Nostr 的项目列表\n\n\n一、其他解决方案存在的问题 \n\n\n1、Twitter 的问题\n\n\nTwitter 有广告；\nTwitter 使用奇怪的技巧让你上瘾；\nTwitter 不会显示你关注的人的真实历史动态；\nTwitter 会禁止某些人的账户；\nTwitter 会使用影子禁令（Shadowbans）.\nTwitter 有很多垃圾信息；\n\n\n2、…",
+          "link": "https://www.theblockbeats.info/news/33075",
+          "publishedOn": "2022-12-21T15:04:10.000Z",
+          "wordCount": null,
+          "title": "读懂nostr：一个让Elon Musk感到害怕的去中心化社交协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33059",
+          "author": null,
+          "description": "原文标题：《NFT AMM 协议能否引领 NFT 市场的去中心化变革？》\n原文作者：\n\nIRVING\n\n\n2021 年见证了 NFT 市场的兴起，NFT 资产价格的暴涨创造了无数的财富神话，NFT 这个曾经小众的概念一时风头无二。但随着 2022 年 Yuga Labs 的元宇宙土地成为本轮 NFT 牛市的绝唱，随后 NFT 市场的热度便大大消退。NFT 市场中诸多的不足之处才再度引起大家的关切，其中最为迫切的莫过于 NFT 资产的流动性不足。2022 年 7 月上线的 SudoSwap 为NFT 市场带了 AMM 机制和去中心交易的可能性，打破了中心化交易所对 NFT 交易市场的垄断。那么，NFT AMM 为代表的NFT-Fi 协议是否就是本轮 NFT 熊市破局的关键呢？\n\n\n一、NFT-Fi 概览 \n\n\n（一）NFT-Fi 的定义及应用 \n\n\nNFT-Fi 是（Non-fungible token finance）的简写，中文可译为「非同质化代币金融」。其目的为了给非同质化代币（NFT）带来更大的流动性和金融交易，以解决 NFT 市场中流动性缺乏的痛点。NFT-Fi生态系统覆盖九个垂直领域，包括：借贷、定价、先买后付 (BNPL)、碎片化、租赁、衍生品、流动性提供、交易市场和行业基础设施。\n\n\n（二）NFT-Fi 的行业现状 \n\n\nNFT-Fi 的基本概念衍生于去中心金融产品（DeFi），故与 DeFi 市场类似，NFT-Fi 行业的发展情况很大程度取决于其市场内总价值锁定（TVL）的多寡。目前，NFTFi 市场 TVL 约 1.75 亿美元 [2]，与DeFi 市场 540 亿美元 [3] 的 TVL 相比相形见绌。尽管 NFT-Fi 相较于 DeFi 还处于发展的相对早期，但自 2021 年的 NFT 夏天（NFT Summer，即指 NFT 市场中各类藏品价格急剧…",
+          "link": "https://www.theblockbeats.info/news/33059",
+          "publishedOn": "2022-12-21T14:04:10.000Z",
+          "wordCount": null,
+          "title": "NFT AMM 协议能否引领 NFT 市场的去中心化变革？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33077",
+          "author": null,
+          "description": "原文来源：@0xTodd, Nothing Research 合伙人  \n\n\n讲道理，OP 治理机制越来越吸引我了，并不是说有多 bullish vibe，而是它跟我最近思考的东西很像。\n\n\n\n\n过去「链上治理」无非两条路线：\n\n\n1. 一币一票（配合 Ve 或币龄）\n2. 一人一票（公链 BFT 节点或者一些 PFP）\n\n\nOP 再一次提出了路线 3，就是它的 OP Collective，它把 1 和 2 结合了。\n\n\n \n\nOP 这个新制度是一个「上下两院」的设计。\n\n\n\n\n原本，OP 是用户把票 delegate（授权）给代表，这部分就是传统的「一币一票」，谁的节点质押+获票数量大，谁的权力就大，很多 DeFi 的协议也是类似的。\n\n\n\n\n而 OP 的新规划中，提出的思路是，在原来一币一票的基础上，再加个一人一票。\n\n\n\n\nOP 很喜欢一个概念叫做 public good（公共利益）。传统的一币一票，有时候很难实现这一点。巨鲸的目的，往往一言难尽。为了币价上涨牺牲长期利益的短视行为，已经不算过分了，还有更严重的，例如当时 Luna 试图去操纵 Curve。\n\n\n\n\n先说说一币一票的问题。\n\n\n\n\nToken 治理这件事，我认为不仅来自于现实世界的投射，更起源于早年公链的共识。早期各种链们对于如何「达成共识」这件事是如此重视，以至于花了大量的精力在共识设计中，17 年市场的参与者应该都印象颇深。\n\n\n\n\n而在 21 年这一轮中，共识的比拼告一段落，基本只留下了 PoW、PoS 和 BFT 三种。那么，PoS 这种按币投票的机制，由于低门槛和比较去中心化，就被 DeFi 继承了下来。当然像 Curve 这种项目还创造了 VE 思路，也是 PoS 的延申。\n\n\n\n\n然而，公链的业务单一，因此按币投票没问题；但到 DeFi，它的业务太过于多元，因此简单 PoS 就不再灵了。举…",
+          "link": "https://www.theblockbeats.info/news/33077",
+          "publishedOn": "2022-12-21T13:02:22.000Z",
+          "wordCount": null,
+          "title": "从OP的「上下两院」聊起：一币一票、一人一票到两者结合",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33065",
           "author": null,
           "description": "原文标题：《10 家毛利润超过 500 万美元的 Web3 企业分析：它们的收入来源于何处？》\n原文作者：Marco Manoppo\n原文编译：深潮 TechFlow\n\n\n\n\n\n上图的快照日期为 2022 年 10 月 22 日，让我们分解一下他们的商业模式。\n\n\n*注意：这些是收入，而不是费用或回报。也不是「净利润」 -- 考虑到工资和其他运营成本，净利润将大大降低。\n\n\n(1) OpenSea——收入 8.5 亿美元\n\n\nOS 对每笔 NFT 销售收取 2.5% 的费用。\n没什么好解释的，这是最古老的游戏规则。任何占主导地位的市场都能赚最多的钱。更大的交易量 -> 更多的美元。\n在其高峰期，OS 的月交易量一直在 20 亿美元以上。\n这给 OS 带来了 5000 万美元以上/月的毛利润。\n\n\n\n\n\n(2) MetaMask——收入 3.2 亿美元\n\n\n0.875% 的掉期费用。\nMetaMask 对在其钱包中进行的每笔掉期交易收取 0.875% 的费用。\n它将交易导向多个流动性来源，包括 Uniswap、1inch 等。\n\n\n\n\n\n(3) MakerDAO——1.42 亿美元的收入\n\n\n稳定币产生的费用（根据保险库的不同而不同）。\n稳定币提供商向 $DAI 铸造者收取费用（类似于借贷费用）。\n如果 $DAI 需求增加，Maker 就会赚取更多的美元。\n\n\n\n\n\n(4) PancakeSwap——收入 8900 万美元\n\n\n0.25% 的掉期费用（0.0225% 进入国库）。\n3% 的预测费用。\n其他产品费用。\nPancake 是一个拥有 AMMs、预测市场、彩票和即将到来的 NFT 市场的平台。它从交易和市场费用中赚取美元。\n\n\n\n\n\n(5) 以太坊域名——7 200 万美元的收入\n\n\n.eth 域名销售费用。\n5 美元/年的域名续订费用。\n他们出售 .eth 域名，并从每年的续订中获利——非常简单连续性利润来源。\n\n\n\n\n\n(6) Perp Protocol——收入 3900 万美元\n\n\n0.1% 的手续费用。\n衍生品平台对每笔交易收取 0.1% 的手续费用。\n\n\n\n\n\n(7) Decentral Games——3500 万美元的收入\n\n\n2000 万美元的 NFT Mint 收入。\n310 万美元的 NFT 激活收入。\n游戏内升级和二次销售。\n\n\n\n\n\n(8) 1inch——3200 万美元的收入\n\n\n1inch 是一个没有费用的聚合器，他们通过掉期盈余来进行获利。掉期盈余简单来说就是报价和交易发出后之间的价格波动。\n\n\n\n\n\n(9)  Foundation——收入 2600 万美元\n\n\n5% 的市场费用。\n保留收取总销售价格的 15% 的权利。\nFoundation 对其市场上的每笔 NFT 销售都收取 5% 的费用。\n\n\n\n\n\n(10) DeFiSaver——1200 万美元的收入\n\n\n0.1% 等值资产互换手续费用。\n0.25% 掉期费用。\n0.25% 的高级服务费用。\nDeFi 管理平台基本上都是通过收取费用，来使用户的操作更加简单。\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
@@ -213,16 +243,6 @@
           "publishedOn": "2022-12-19T07:43:04.000Z",
           "wordCount": null,
           "title": "对话Blockchain Capital ：2023年看好Web3的哪些方向？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32995",
-          "author": null,
-          "description": "原文标题：《介绍新入局者 Blur：对 OpenSea 的又一次挑战》\n原文来源：Maverick，吴说区块链\n原文编辑：Colin Wu，吴说区块链\n\n\n在获得 Paradigm 等多家机构超过 1400 万美元融资后，自诩「为专业交易者提供服务」的 NFT 交易市场 Blur 在近期可谓是风光无限。NFTScan 数据显示，截止 12 月 16 日，过去一个月 Blur 的 NFT 交易量仅次于 Opensea，约占整个 NFT 市场份额的 29%（如下图），一跃成为当前链上交易量最大的 NFT 聚合交易市场，给予 OpenSea 从未有过的压力。\n\n\n\n\n\n作为明牌的空投，官方此前表态称将于明年将上线 BLUR Token，但这仍然建立在总量、Token 分配等 Tokenomics 尚未明确的情境。羊毛党实际处于有被反撸风险的被动状态，不过这并没有影响到羊毛党的热情。这种热情或许和 OP、APTOS 致富效应造成的空投 FOMO 潮，以及 NFT 市场的「独角兽」Opensea 迟迟不发 Token 背景有关。「只要在前 6 个月在 Opensea、LooksRare、X2Y2 等 NFT 交易市场有交易记录就有机会获取的第一期空投 BLUR」，作为安慰奖出现以及空投「开盲盒」的新宣传形式引起了羊毛党的关注。不过在后续空投宣传中，Blur 却两度搬出了「下一轮更大」的说辞 PUA 社区。然而 Blur 正在持续进行的第三轮空投发放的预期，以及官方在推上宣传的「第三轮作为最后一轮是奖励规模最大的」依然促进了 Blur 的使用人数的激增，特别是巨鲸几乎垄断了排行榜，也短暂地带动了 BAYC、Azuki 等一众蓝筹 NFT 项目交易量和地板价双双上涨。\n\n\nBlur 通过「自定义版税+零费用+空投预期」模式用吸引交易者使用\n\n\n一直以来，版税是 NFT 交易市场的敏感话题…",
-          "link": "https://www.theblockbeats.info/news/32995",
-          "publishedOn": "2022-12-19T03:13:11.000Z",
-          "wordCount": null,
-          "title": "解析NFT市场Blur运作机制、盈利模式及用户体验",
           "imageUrl": null
         }
       ]
