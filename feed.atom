@@ -2,10 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-21T00:34:18.473Z</updated>
+    <updated>2022-12-21T06:09:57.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：我眼中2022年以太坊的五项主要成就]]></title>
+        <id>https://www.theblockbeats.info/news/33052</id>
+        <link href="https://www.theblockbeats.info/news/33052"/>
+        <updated>2022-12-21T05:47:41.000Z</updated>
+        <summary type="html"><![CDATA[原标题：《Vitalik's Top 5 Crypto Wins of 2022》
+原文作者：Bankless
+原文编译：金色财经
+ 
+Bankless 近日采访了以太坊创始人 Vitalik。Vitalik 表示，很多人都在记住这一年发生的所有可怕事情（Terra、FTX 等）……但我认为记住加密行业所看到的所有各种积极因素也很重要。Vitalik 认为 2022 年以太坊有五项主要成就：
+ 
+1、以太坊合并
+ 
+「以太坊合并是惊人的。」
+
+
+Vitalik 对拖延了很久后 Ethereum 成功向 PoS 过渡大加赞赏，认为这是以太坊网络 2022 年的最大胜利。
+
+
+Vitalik 不仅强调了这一成就对以太坊能源足迹的影响，还强调了它如何提高协议安全性和网络可用性。
+
+
+Vitalik 表示：「我个人使用以太坊的体验有了很大的改善，」「这些天当我发送一笔交易时，我点击发送，等待几秒钟，我看到该交易被包含在一个区块中并且它已经有一个确认...... 它已经足以与信用卡 POS 机系统竞争。」
+ 
+2、ZK-EVM 的创新
+ 
+Vitalik 非常看好 ZK-EVM 的力量，ZK-EVM 2022 年在创新方面取得了重大飞跃。Vitalik 表示，这些项目从「不存在的白日梦」变成了「扩展以太坊的长期——甚至可能是中期——未来」。
+
+
+ZK-EVM 项目利用生成零知识证明的虚拟机来验证各种智能合约操作的正确性。这些是以太坊进步的巨大飞跃。有一些团队正在构建这些，包括 Matter Labs、Scroll 和 Polygon。
+
+
+Vitalik 一直是 ZK-EVM 的粉丝，但他说目前取得的进展甚至让他感到惊讶。「我们有多个 ZK EVM 实现，它们都承诺明年将推出某种主网——这太棒了」。
+ 
+3、以太坊登录
+ 
+Vitalik 在 2022 年为以太坊生态系统看到的第三大胜利是采用以太坊登录，它允许用户使用他们的以太坊钱包轻松安全地登录网络服务。
+
+
+不再需要记住密码组合，不再依赖 Facebook 和 Google 等中心化互联网提供商来处理个人信息和在线身份。在社交媒体提供商似乎拥有用户在线生活的几乎所有方面的时代，使用以太坊登录允许用户在互联网上拥有他们的身份验证。
+
+
+Vitalik 表示，「使用以太坊登录在采用方面取得了巨大进步；以太坊一直能够利用人们探索各种替代推特和替代社交媒体平台的愿望」，他特别强调了 Lens 和 Farcaster 等平台。
+ 
+4、加密货币为乌克兰工作
+ 
+在俄罗斯入侵期间使用加密货币帮助乌克兰是以太坊在 2022 年的另一个亮点。Vitalik 指出，在俄罗斯对乌克兰发动袭击之后，加密货币支付和无许可网络变得比以往任何时候都更加重要。
+
+
+Vitalik 表示，「当其他方法都不起作用时，加密货币支付实际上对乌克兰有用，」。「加密货币实际上是国家的生命线，也是许多平民的生命线。」
+
+
+除了支付基础设施外，Vitalik 还强调了该系统如何用于通过普通草根向公共钱包地址捐款以及通过 NFT 销售等工具在加密社区内部筹款来为乌克兰军队筹集捐款。
+ 
+5、加密慈善
+ 
+最后，Vitalik 强调 2022 年的加密货币捐赠和慈善事业是以太坊生态系统最大的胜利之一，不仅展示了无需许可的支付基础设施将资金转移到外国组织的有效性，而且还强调了该行业的整体慷慨，即使在非常困难的情况下也是如此。
+
+
+他说：「加密货币作为慈善事业的国际支付工具意义重大，」他特别强调了 Covid 救济基金去年为帮助印度等国家的人们所做的一些不断发展的努力。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷失2022后，反省了69句话]]></title>
+        <id>https://www.theblockbeats.info/news/33045</id>
+        <link href="https://www.theblockbeats.info/news/33045"/>
+        <updated>2022-12-21T03:59:41.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：RedphoneCrypto，KOL
+原文标题：69 Theses for 2023
+原文编译：Leo，BlockBeats
+
+
+如果说 Crypto 是人类历史上的一条分界线，那么 2022 极有可能会变成加密历史上的一条分界线，区别 2022 之前和未来，知名加密 KOL RedphoneCrypto 撰写了一篇文章，其中包括了他接触加密的故事和在行业 10 年间的一些感悟，BlockBeats 编译后如下：
+
+
+
+
+2013 年，当我买了自己的第一枚 BTC 时，我得先打印文件，开半小时车去药店，拿起老旧的红色电话（带硬线的电话），拨打了一个速汇金（MoneyGram）专线到加利福尼亚州，他们让我给 BitInstant 汇 100 美元，交易几天后，等待 BTC 出现在我的钱包里。再加上下载和安装 BTC Core，共需要花费一周的时间才能接触到「金融的未来」，不过我不在乎，BTC 影响了我，我开始质疑认知中的关于经济、财富、权力、隐私、心理和协调的一切。
+
+
+
+
+这个行业让我着迷了十年，这十年似乎对我来说没有任何意义，几条不可篡改的区块链怎么能如此强大，以至于左右我的思想？现在我知道了，这是因为 Crypto 是我们这一代的决定性战场，是世界各家媒体的热点头条，它影响着战争、政治、法律、文化、性，甚至整个国家的经济。对加密未来的预测向来很多，没有人能知道我们的下一步该去往何方，我手里拿着“crypto 现状”的纸张，再次谦卑地来到你面前（带着曾经有过的伤痕），让我分享一些关于加密的未来、我的加密旅程和我学习时的一些想法的预测（也许漫谈是更好的描述）。
+
+
+
+
+如果说我今年的文章有一个主题，那就是：2022，我们在加密世界中迷失了。杠杆、贪婪和不诚实将我们推向了深渊，现在的我们只能「自食其果」，再次回到最基本的问题：我们为什么在这里？我们要去哪里？为什么这…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年，有哪些 WEB3 创业领域和方向值得关注和建设？]]></title>
+        <id>https://www.theblockbeats.info/news/33034</id>
+        <link href="https://www.theblockbeats.info/news/33034"/>
+        <updated>2022-12-21T03:59:41.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+2023 年 WEB3 创业方向指南
+
+》
+
+原文来源：
+
+Qiao Wang，深潮 TechFlow 
+
+
+在黑天鹅与深熊竞相起舞中，2022 年即将落下帷幕，迎来 2023 年。
+
+
+新的一年，WEB3 世界又将有怎样的风起云涌与出乎意料，令人期待。而对于创业者和开发者而言，最重要的或许是：2023 年，有哪些 WEB3 创业领域和方向值得关注和建设？
+
+
+
+本文涵盖了 WEB3 领域最大的加速 DAO AllianceDAO 感兴趣的一些 Crypto/Web3 创业方向和主题。如果您正在研究这些方向，鼓励您申请加入社区并获得资助（https://alliance.xyz/apply）。如果您不确定要 Build 什么，文中的内容或许可以给您启发。
+
+
+本文由 AllianceDAO 授权深潮 TechFlow 同步发布其中文版本。  
+
+
+目录
+
+1、去中心化基础设施
+2、开发者体验相关
+3、游戏
+4、面向消费者的应用
+5、体力劳动证明（PoPW) 
+6、零知识证明
+7、应用链（作为 Rollup 或 Cosmos Zone）
+8、去中心化用于科研（DeSci)
+9、DeFi 
+10、加密 B2B
+11、AI 与 Web3 交叉方向
+12、定义类别产品的垂直化
+13、DAO 作为风险共担工具
+14、作为数字国家的 NFT 社区  
+
+
+一、去中心化基础设施
+
+
+将技术栈中的每一层去中心化
+
+
+近年来，Web3 似乎对真正的去中心化失去了兴趣，诸如「用户不关心去中心化」之类的表情包随处可见，而真正的去中心化却正是让 Web3 变得有趣的首要特质。
+
+
+去中心化只有真实发生时才会显得重要。随着最近中心化加密机构的崩溃，以及全球范围内更广泛的金融和社会审查，去中心化比以往任何时候都更加重要。
+
+
+应用程序的去中心化程度取决于其技术上最中心化的那层。所以对于…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CEX如何自证清白并提升资金安全性？]]></title>
         <id>https://www.theblockbeats.info/news/33032</id>
