@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33120",
+          "author": null,
+          "description": "原文标题：《2022: 22 Graphs That Defined the Year for Crypto》\n原文作者：Lewis Harland\n原文编译：Kate，MarsBit News\n\n\n\n\n\n\n\n\n每年的这个时候，Decentral Park 都会后退一步，回顾过去 12 个月的加密市场和 Web3 的发展。\n\n\n\n\n2022 年对加密货币来说是不平凡的一年。\n\n\n\n\n遵循传统 ( 以及大众需求 )，我们整理了这一年的主要趋势，为什么我们认为它们具有代表性，以及我们对未来的看法。\n\n\n\n\n话不多说，我们为您带来：「2022：定义加密货币这一年的 22 张图表。」\n\n\n\n\n「节日快乐，新年快乐!\n- Decentral Park 团队」\n\n\n\n\n1：每日交易量\n\n\n\n\n\n\n\n\n\n内容：自 2020 年 1 月以来，加密货币交易平台所的全球每日交易量（美元）。这一重要指标一直是衡量市场利率和流动性的良好代理指标。交易量的低谷与情绪的低谷同时出现。\n\n\n\n\n定义原因：我们可以看到，该指标在 2022 年期间持续下降，峰值和低点都较低（现在为 117 亿美元）。宏观经济因素和 2022 年的几次投降事件意味着市场利率和流动性都将走下坡路。\n\n\n\n\n我们将何去何从？成交量仍将与价格走势相关。由于 2023 年全球经济衰退的合理可能性，上半年的交易量不太可能维持在 200 亿美元以上。随着市场预期利率下调，经济增长势头可能会发生变化。\n\n\n\n\n2：加密市场市值 vs. 美联储净流动性\n\n\n\n\n\n\n\n\n\n内容：全球加密货币市值与美联储的净流动性。净流动性的定义是美联储的资产负债表，减去 TGA 账户和隔夜逆回购协议。自 2020 年以来，TGA 和 RRP 的变化较大，这意味着考虑这些因素对于实际衡量经济中可以流通的可用流动性非常重要。\n\n\n\n\n定义原因：该理论认为，市场流…",
+          "link": "https://www.theblockbeats.info/news/33120",
+          "publishedOn": "2022-12-22T08:18:26.000Z",
+          "wordCount": null,
+          "title": "22张图表定义2022年加密市场与Web3发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33130",
+          "author": null,
+          "description": "原文标题：《\n\nCurve 流动性的「包装」之战一览，Yearn 或成最终赢家？\n\n》\n原文作者：DeFi Made Here\n原文编译：深潮 TechFlow\n\n\n\n\n\n\nCurve Finance 的 veToken 模式允许用户锁定 $CRV 长达 4 年，并获得管理费（以稳定币为单位支付），并允许他们投票支持选择池的 CRV 分配。\n\n\n\n\n那些寻求流动性的协议可以选择贿赂 veCRV 持有人，将 CRV 分配流向他们的池子。这是 veCRV 持有者除管理费之外的另一个收入来源。\n\n\n\n\n但对于持有者来说，将 CRV 锁定 4 年并不是一个很有吸引力的选择。\n\n\n\n\n有什么解决办法呢？\n\n\n\n\n选择将你的流动性包装（Wrap）：\n\n\n\n\n来自 Convex Finance 的 cvxCRV \n来自 Stake DAO 的 sdCRV \n来自 Yearn 的 yCRV\n\n\n\n\n流动性包装允许 CRV 持有者收取费用或贿赂，而不需要锁定 4 年，并提供了一个退出头寸的机会。\n\n\n\n\n它们各自的区别是什么？\n\n\n\n\ncvxCRV\n\n\n\n\n通过质押 cvxCRV，你可以赚取 3crv 的费用，以及加上 Convex LP 提高的 CRV 收益和 CVX Token 10% 的份额。\n\n\n\n\n\n\n\n\n\n而贿赂收入（可以出售的投票权）则分配给因投票而被锁定的 CVX。\n\n\n\n\n因此，veCRV 的正常收入（费用 + 贿赂）在 cvxCRV 和 CVX 之间分配。\n\n\n\n\n\n\n\n\n\nsdCRV\n\n\n\n\nsdCRV 分配 3CRV 费用，并将投票权保留在质押者那里。\n\n\n\n\n投票权可以委托给 StakeDAO，它结合了市场和 OTC 贿赂以获得最佳回报。\n\n\n\n\n\n\n\n\n\n或者用户可以从 Paladin 或 Votium Protocol 直接访问 Stake DAO 上的贿赂。\n…",
+          "link": "https://www.theblockbeats.info/news/33130",
+          "publishedOn": "2022-12-22T07:53:26.000Z",
+          "wordCount": null,
+          "title": "Curve流动性的「包装」之战一览，Yearn或成最终赢家？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33129",
+          "author": null,
+          "description": "原文标题：《Visualising DeFi Value Flows》\n原文作者：Aw Kai Shin\n原文编译：ChinaDeFi\n\n\n本文以 DeFi 生态系统：原语和技术堆栈中介绍的技术概念为基础，概述了由该技术创建的新价值渠道。通过聚焦于单个 EVM 链中的价值流，来提供一个框架来识别下面三者之间的价值流：\n\n\n\n\n传统金融和去中心化金融 \nEVM 兼容链\n同链上的 dApp\n\n\n\n\n\n\n\n\n\n\n\n通过这个概念性概述，可以为更深入地研究在各种 DeFi 原语混合和匹配的情况下，价值是如何在生态系统级别上创建 / 重新分配的。DeFi 领域中的价值是通过将不同的原语堆叠在一起逐步构建的。我们必须认识到 DeFi 堆栈就像它最薄弱的环节一样脆弱，因此必须相应地管理风险。\n\n\n\n\n与任何其他市场一样，价值流由三方协调：\n\n\n\n\n供应方：提供资源以换取相应费用的用户。除了交易的标准资产 ( 即法币、Token等 )，供应商还可以提供数据甚至硬件租赁等资源。\n\n\n需求方：通过补偿卖方的机会成本来获得资源的用户。买方承担收购费用的原因有多种，从资源利用到对资产未来价格的投机。\n\n\n服务提供商 ( 即协议 )：交易的推动者，为买卖双方提供便利而收取一部分交易价值。就 DeFi 而言，这是指各个协议及其各自的智能合约。\n\n\n\n\n需要注意的是，供需侧因素不仅会在链内重新分配价值，而且还会激励外部生态系统价值的流入 / 流出。这在链的早期尤其明显，因为新用户参与链上活动需要用外部资源转移价值，以获得链上资产。\n\n\n\n\n关键的是，由于流动性的市场利益，金融价值往往具有垄断倾向。因此，创建 一个活跃的价值转移生态系统取决于实现基准水平的流动性，以刺激进一步的价值创造。考虑到这一点，我们现在可以开始构建我们的生态系统价值堆栈了。\n\n\n\n\n资产：价值创造\n\n\n\n\n最基本的价值创造形式是通过链…",
+          "link": "https://www.theblockbeats.info/news/33129",
+          "publishedOn": "2022-12-22T07:32:26.000Z",
+          "wordCount": null,
+          "title": "详解可视化DeFi价值流",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33122",
+          "author": null,
+          "description": "原文标题：《16 张图看懂比特币这一年：新增地址超 1.4 亿个，盈利筹码占比均值为 60.50%》\n原文作者： Carol，PANews\n\n\n\n\n2022 年，受到美联储连续放鹰，全球流通性紧缩的影响，比特币结束了此前两年持续上涨的牛市行情，转而进入了震荡下行的熊市行情。在由涨到跌的反转中，比特币的币价跌破 2 万美元整数关口，头部交易平台和 DeFi 协议相继暴雷更重创了市场信心。除了这些表象以外，2022 年，比特币还发生了哪些深刻的变化？\n\n\n在岁末年终之际，PANews 数据新闻栏目 PAData 全面回顾了今年比特币在交易市场、链上基本面、筹码和地址结构、矿业、应用性这 5 大方面的数据变化，以期为来年的展望提供分析基础。\n\n\n内容提要\n\n\n1. 交易市场\n\n\n1)BTC 的币价变化表现出两大特征，一是年内整体跌幅大，超过 65%；二是下跌速度快，形成了类似「台阶式」的下跌形态。\n2) 交易平台 BTC 存量减少了 53.37 万枚，跌幅约为 20.20%。\n3)10 月中旬后市场预估杠杆率从最高 40.47% 回落至 28.05%，此后基本不超过 30%。\n4) 机构 BTC 持有量温和下降，整体减少了 4.54%，场外溢价率跌至-44%，间接投资需求持续减少。\n\n\n2. 链上基本面\n\n\n1) 比特币链上地址变化有两大特点，一是今年比特币的链上用户数量较去年有较为明显的下降。二是在年内市场波动较大的情况下，比特币的链上用户数量都保持了相对的稳定。\n2)2022 年比特币全年累计交易次数 8899 万次，较去年减少了 4.13%，但全年累计交易总额约 12.56 亿 BTC，较去年大幅增长了 36.37%。\n3) 比特币的累计链上交易手续费约 1.37 亿美元，每日平均每笔链上交易手续费约为 1.53 美元，年内均呈明显的下跌趋势。\n\n\n3. 筹码和地址结构\n\n…",
+          "link": "https://www.theblockbeats.info/news/33122",
+          "publishedOn": "2022-12-22T07:32:26.000Z",
+          "wordCount": null,
+          "title": "回顾比特币的2022年：机构持有量减少4.54%，全年日均40%筹码处于亏损状态",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33104",
           "author": null,
           "description": "原文标题：《\n\n盘点 10 个值得关注的 DAO 治理实验\n\n》\n原文作者：Linda Xie，\n\nScalar Capital 联创；Derek Hsue，\n\nBlockchain Capital 前分析师 \n\n\n原文编译：DeFi 之道\n\n\n简介\n\n\n加密治理不乏有价值的建议和讨论。在所有类别的 DAO 中，有围绕协议如何设计治理过程的有趣案例研究，以及关于 DAO 供应商选择、协议经济学等的建议。加密治理机制仍然是新生事物，它是最活跃的创新领域之一。在本文中，我们将探讨几个值得关注的治理实验，并总结出每个实验的关键启示。\n\n\nDAO 治理元设计和流程的实验\n\n\n对于任何想要成功并扩大规模的协议，各种利益相关者应该对协议的设计和方向有着投入。今天的大多数协议都被设计成 1 \n\nToken\n\n 1 投票，这是简单但不完整的方法。至于原因，Vitalik 很好地进行了阐述，纯粹的\n\nToken\n\n持有者投票系统会导致不平等、激励错位，以及通过买票进行的潜在攻击。为所有利益相关者设计可持续、可扩展的治理系统并非易事，应该有着各种方法。\n\n\nOptimism 两院治理系统\n\n\nOptimism 在 2022 年 4 月推出了 Optimism Collective，以创建一个去中心化的生态系统并尝试治理。作为背景，Optimism Collective 是一个由社区、公司和支持 Optimism 生态系统的人组成的团体，由 Optimism 基金会负责管理。虽然大多数协议治理设计在历史上只涉及\n\nToken\n\n治理，但 Optimism Collective 是一个两院制系统，由两院管理，即 Citizens』House 和 Token House.\n\n\nToken House 对项目激励、协议升级进行投票，并管理国库基金。Token House 是由第一次 Optimism …",
