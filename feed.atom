@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-24T12:11:36.292Z</updated>
+    <updated>2022-12-24T18:08:15.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFTFi 的核心机制和七个子赛道分析]]></title>
+        <id>https://www.theblockbeats.info/news/33206</id>
+        <link href="https://www.theblockbeats.info/news/33206"/>
+        <updated>2022-12-24T14:50:17.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《NFTFi 的核心机制和七个子赛道分析》
+文章来源：DAOrayaki DAO
+
+
+摘要
+ 
+随着 2020 年 Defi Summer 和 2021 年 NFT Summer 的狂欢过去，最近越来越多的人将目光开始投射在 NFTFi 上，期待这个结合了 NFT 和 Defi 的赛道能够给 web3 的世界带来新的盛夏。
+
+
+围绕 NFTFi，本文核心探讨以下两个问题：
+为什么需要 NFTFI，解决了什么需求？
+
+NFTFI 目前各个子赛道的发展如何？
+
+
+本文将首先分析 NFTFi 的诞生背景与现状，然后从用户购买到持有 NFT 的全流程来进行场景梳理，对定价评估、交易、BNPL、借贷、衍生品、碎片化和租赁七个子赛道的核心机制进行了分析，然后选取了点对池的 CDP 模型借贷项目 JPEG'd 进行了重点分析。
+ 
+NFTFi 诞生的背景
+ 
+NFTFI 的诞生与 NFT 息息相关。NFT 市场从 2021 年 2 月开始受到关注，再到 8 月推到高潮，22 年 1 月到达了顶峰，Opensea 当月交易额达到 48 亿美元。但是随着整个加密市场开始拐头向下运行，NFT 市场也不可避免受到波及，交易量和交易额开始快速下跌，经历了一个从暴涨到暴跌的过程。
+
+
+
+
+
+到了熊市之后，NFT 的流动性问题暴露得更加明显，使得之前进入 NFT 市场的玩家陷入了困境，NFT 的持有者常常被迫 hodl。而没有财富增长效应的 NFT 会导致给社区一个共识崩塌的信号，从而加剧流动性的缺失，形成恶性循环。
+
+
+当下 NFT 存在的最核心的问题是流动性不足，导致流动性不足的原因包括以下三点：
+
+
+web3 大环境变熊：前有美联储加息，后有加密世界频繁暴雷，对于加密世界和 NFT 的信任度大幅下降。
+门槛高：蓝筹项目地板价高（像无聊猿、cryptopunks 对于大部分用户来说过于昂…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发者可以怎样降低以太坊Layer2上的交易费用？]]></title>
         <id>https://www.theblockbeats.info/news/33207</id>
@@ -1344,276 +1386,6 @@ EVM 兼容链
 3. 筹码和地址结构
 
 …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点10个值得关注的DAO治理实验]]></title>
-        <id>https://www.theblockbeats.info/news/33104</id>
-        <link href="https://www.theblockbeats.info/news/33104"/>
-        <updated>2022-12-22T04:19:11.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-盘点 10 个值得关注的 DAO 治理实验
-
-》
-原文作者：Linda Xie，
-
-Scalar Capital 联创；Derek Hsue，
-
-Blockchain Capital 前分析师 
-
-
-原文编译：DeFi 之道
-
-
-简介
-
-
-加密治理不乏有价值的建议和讨论。在所有类别的 DAO 中，有围绕协议如何设计治理过程的有趣案例研究，以及关于 DAO 供应商选择、协议经济学等的建议。加密治理机制仍然是新生事物，它是最活跃的创新领域之一。在本文中，我们将探讨几个值得关注的治理实验，并总结出每个实验的关键启示。
-
-
-DAO 治理元设计和流程的实验
-
-
-对于任何想要成功并扩大规模的协议，各种利益相关者应该对协议的设计和方向有着投入。今天的大多数协议都被设计成 1 
-
-Token
-
- 1 投票，这是简单但不完整的方法。至于原因，Vitalik 很好地进行了阐述，纯粹的
-
-Token
-
-持有者投票系统会导致不平等、激励错位，以及通过买票进行的潜在攻击。为所有利益相关者设计可持续、可扩展的治理系统并非易事，应该有着各种方法。
-
-
-Optimism 两院治理系统
-
-
-Optimism 在 2022 年 4 月推出了 Optimism Collective，以创建一个去中心化的生态系统并尝试治理。作为背景，Optimism Collective 是一个由社区、公司和支持 Optimism 生态系统的人组成的团体，由 Optimism 基金会负责管理。虽然大多数协议治理设计在历史上只涉及
-
-Token
-
-治理，但 Optimism Collective 是一个两院制系统，由两院管理，即 Citizens』House 和 Token House.
-
-
-Token House 对项目激励、协议升级进行投票，并管理国库基金。Token House 是由第一次 Optimism …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF已抵达巴哈马机场接受美国引渡，Alameda前CEO和FTX联创认罪]]></title>
-        <id>https://www.theblockbeats.info/news/33103</id>
-        <link href="https://www.theblockbeats.info/news/33103"/>
-        <updated>2022-12-22T03:51:11.000Z</updated>
-        <summary type="html"><![CDATA[《SBF 已抵达巴哈马机场接受美国引渡》
-
-
-
-
-12 月 22 日，据彭博社报道，巴哈马时间 12 月 21 日 18:30（北京时间 12 月 22 日 7:30）左右，前 FTX 首席执行官 Sam Bankman-Fried（SBF）已抵达巴哈马私人机场，将飞往美国面临一连串的刑事指控。 
-
-SBF 预计将被美国当局拘留，并被送往纽约，联邦检察官上周在那里公布了一项涉及八项罪名的起诉书。如果所有指控都被定罪，他可能会面临数十年的牢狱之灾。一旦回到美国，他可能会在数小时内被提审，他的律师可能会提出申请让他获准保释。目前还不清楚 Bankman-Fried 将在哪个美国机场降落。
-
-
-
-《Alameda 前 CEO 和 FTX 联创分别面临最高 110 年、50 年监禁》
-
-
-此外，同日纽约南区美国检察官 Damian Williams 表示，Alameda Research 前首席执行官 Caroline Ellison 和 FTX 联合创始人兼前首席技术官 Gary Wang 已对联邦指控认罪，并在针对 SBF 的联邦刑事案件中与警方进行合作。根据新近公开的法庭文件，Alameda Research 前首席执行官 Caroline Ellison 承认共谋对 FTX 客户进行电汇欺诈、对 FTX 客户进行电汇欺诈、共谋对 Alameda Research 贷方进行电汇欺诈、对 Alameda Research 贷方进行电汇欺诈、共谋商品欺诈、共谋证券欺诈和共谋洗钱，七项罪名加起来最高可判处 110 年监禁；
-
-
-《美 CFTC 指控 Alameda 前 CEO 和 FTX 联创欺诈，两人均表示认罪》
-
-
-FTX 联合创始人 Gary Wang 承认共谋对 FTX 客户进行电汇欺诈、对 FTX 客户进行电汇欺诈、共谋商品欺诈和共谋证券欺诈，将面临最高 50 年的监禁。
-
-BlockBeats 此前报道，纽约南区美国检察官 Damian Williams 表示，Alameda Research 前首席执行官 Caroline Ellison 和 FTX 联合创始人兼前首席技术官 Gary Wang 已对联邦指控认罪，并在针对 SBF 的联邦刑事案件中与警方进行合作。
-
-
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON这条公链，熊市表现怎么样？]]></title>
-        <id>https://www.theblockbeats.info/news/33102</id>
-        <link href="https://www.theblockbeats.info/news/33102"/>
-        <updated>2022-12-22T03:47:11.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Jake Pahor，DeFi 研究者
-原文编译：Leo，Blockbeats
-
-
-近期圈内讨论较多的一个项目是 TON（Telegram Open Network），该项目因背靠 Telegram 而更引人注目，TON 能否利用 Telegram 的 5.5 亿多用户作为踏板成为「熊市之光」，还是高开低走，一手好牌打得稀烂？DeFi 研究者 Jake Pahor 写了一篇关于 TON 前景的文章，BlockBeats 整理编译如下：
-
-
-
-
-深入研究 TON，我的打分是什么样的？（截至 2022 年 12 月 20 日）
-
-
-TON token价格：2.25 美元（截止发文 TON 价格约 2.5 美元）
-
-
-市值：33 亿美元（排名 22）
-
-
-PoS 共识
-
-
-至今为止最高价：5.29 美元；最低价：0.52 美元；
-
-
-
-
-开放网络（TON）是 Telegram messenger 团队于 2018 年开发的 layer 1 区块链解决方案，TON token 是该链的原生 token，主要用于支付交易费用，并作为验证器的保证金确保网络安全。TON 是独一无二的，因为它是为数不多的混合使用 PoW 和 PoS 共识机制的加密 token 之一，2020 年 5 月，该团队同意与 SEC 监管机构达成和解，并支付 1850 万美元的罚款，该项目停止开发，险些覆灭。
-
-
-
-
-为了让该项目在 Telegram 上存活下去，Telegram 团队将该网络中所有可用的 token 放入智能合约中，任何人都可以在同等条件下挖矿，TON 的 IDO 是机缘巧合之下促成的，现被标记为 IPoW-Initial Proof of Work，目前该链已经完全转变为 PoS，且非常活跃，是 2022 年熊市期间表现最好的 token 之一。
-
-
-
-
-
-
-
-
-收入
-
-
-目前还没有…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辉煌与崩塌：一文回看2022年加密项目的潮起潮落]]></title>
-        <id>https://www.theblockbeats.info/news/33079</id>
-        <link href="https://www.theblockbeats.info/news/33079"/>
-        <updated>2022-12-22T03:27:11.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-与动荡为伴| 盘点 2022 年那些辉煌与落寞相生的加密项目
-
-》
-原文来源：巴比特
-
-
-回顾即将过去的 2022 年，你会怎样概括这个跌宕起伏、波谲云诡的年份？
-
-
-如果要为 2022 年的加密行业提取一个关键词，「动荡」一词或许最贴切。这一年，我们见证了 Luna 百亿公链的崩塌、亲历了 FTX 帝国的分崩离析，在前所未有的美联储加息之下，感受着加密市场一步一步地走向寒冬。年初还在畅谈 Crypto 的变革之路，年末就在刺骨资本寒风中苦苦支撑，无数的加密项目都在浪潮中迭代着，进化着，也在消亡着。
-
-
-所以，让我们从加密项目发展的视角出发，回看 2022 年不同加密项目的潮起潮落，盘点都有哪些项目惊艳一时？有哪些项目突然从聚光灯下倒塌？他们当前近况又如何？
-
-
->> Crypto 时刻 | 辉煌与崩塌
-
-
-一、Luna
-
-
-Luna 作为 2022 年加密行业的第一颗大雷，引发了一系列连锁反应，甚至为后来三箭资本和 FTX 的大溃败也埋下了伏笔。
-
-
-2018 年 1 月，来自韩国的 Do Kwon 和 Daniel Shin 推出名为 Terra 的区块链网络，计划开发电子商务支付应用程序 Chai 和稳定币来促进交易，之后伴随着 Terra 主网的上线以及稳定币 UST 发展，这个最初的设想逐渐扩张成为了一个庞大的公链生态。但在 2022 年 5 月 8 日这天，伴随着一场 UST 的抛售潮引爆了 Luna，谁也没能料到，这笔在 Crv 上的 8400 万 UST 抛售，竟成为了压死这个百亿巨人的最后一根稻草。次日的 5 月 9 日，受到恐慌情绪的影响，大量 Terra 的链上资金从生息协议 Anchor 中出逃，造成了踩踏，原本造就了 Luna 大厦的 UST 的生成模式在此时则成为了一个加速 Luna 死亡的催化剂，伴随着 UST 和 Luna 的…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[活过2022：加密行业的分水岭]]></title>
-        <id>https://www.theblockbeats.info/news/33078</id>
-        <link href="https://www.theblockbeats.info/news/33078"/>
-        <updated>2022-12-22T03:27:11.000Z</updated>
-        <summary type="html"><![CDATA[还记得复盘 2020 年「312」的时候，加密行业只用了 24 小时就完成了去杠杆的过程，健康系数调整至正常，迎接 2021。而同样是去杠杆，2022 年我们却花了整整一年的时间，结局也比 312 要惨烈得多。
-
-
-
-
-惊心动魄的 2022，启动得那么低调，比特币 48000 美元开局，虽相较于 2021 年的高点 69000 美元已经下跌了不少，但开局的市场依然到处是信心。老项目发展正盛，新项目也在蠢蠢欲动。随后 5 月事态急转直下，7 月情绪加剧，11 月恐慌达到高潮。律动 BlockBeats 梳理了一些 2022 年的大事件（不含 NFT 事件），以记录这属于加密分水岭的 365 天，以提醒活过 2022 的我们，永远敬畏市场。
-
-
-
-
-1 月
-
-
-
-
-Curve war
-
-
-
-
-Curve 作为一家专注于低滑点的算稳 AMM，通过发行治理 Token CRV 作为提供流动性的激励，从而提高 Curve 平台各算稳池的流动性深度，并保持算稳的挂钩能力。不过 Curve 有一个非常关键的机制，使它和传统流动性挖矿有着极大的不同：通过锁定 CRV，流动性提供者（LP）可以对应地获得 veCRV，它对 Curve 平台的流动性激励幅度有着实际的治理意义，拥有着改变「衡量权重」（Gauge Weights）的权力。这也是 Curve War 的起因。
-
-
-
-
-1 月的 Curve war 相当精彩，不少项目为了打赢 war，去提高 APY 并组织新的 war，这也让当时参加的用户获得了还不错的收益。
-
-
-Curve War 升级 CVX 之战，精彩的权力之争仍在继续
-
-
-DeFi 3.0
-
-
-与此同时，DeFi 领域还有当时昙花一现新概念「DeFi3.0」。DeFi 2.0 以「协议控制流动性」的方式试图解决 1.0 流动性不稳定的问题。3.0 打着「Farming as …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币交易平台如何管理交易对手风险]]></title>
-        <id>https://www.theblockbeats.info/news/33080</id>
-        <link href="https://www.theblockbeats.info/news/33080"/>
-        <updated>2022-12-22T03:27:11.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-加密货币交易所如何管理交易对手风险
-
-》
-原文作者：David Chaum，eCash / DigiCash 创始人
-原文编译：Mary Liu，比推 BitpushNews 
-
-
-如果 Web3 要依赖中心化市场，那么它需要找到管理交易对手风险的方法。这一年发生的事情在提醒我们，Web3 的推广仍然需要中心化市场，但「理想很丰满，现实很骨感」。
-
-
-
-
-
-
-一方面，主流股票市场的结算风险越来越有可能扰乱全球经济，因为越来越多的交易者通过社交媒体「煽风点火」造势，例如 GameStop 事件；另一方面，由于缺乏完整的托管覆盖，FTX 等加密市场给用户造成了巨大损失。这些问题源于当前的电子化市场被简单地设计为公开喊价和纸质化市场的复制品——而且具有讽刺意味的是，所有主流加密市场都是以前所未有的中心化方式建立的。
-
-
-
-
-当然，即使承诺全面托管覆盖也不足以解决其中的风险——交易平台的经营者很容易带资潜逃。即使解决了结算和托管风险，信息不对称仍然是一个问题，目前所有类型市场的经营者都可以访问有关交易和交易者的极其有价值的信息，有点类似于 Web2 与 Web3 中的消费者数据，这些数据很可能被用于各种秘密市场操纵，但目前还没有造成非常大的负面影响，因为交易者和市场的整体利益无法被轻易撼动。
-
-
-
-
-下面介绍的市场机制可以解决这些问题。它没有托管风险或结算风险，交易者信息仅供各自的交易者自己使用。
-
-
-
-
-这里的基础市场类型通常称为 call market（在规定的时间将一段时间内的所有卖价和买价撮合交易，也称定点市场）。例如，纳斯达克的开盘和收盘时段就使用了这种周期性拍卖市场，交易者在这些交易期间发出本应保密的交易请求，只有在该期间结束后，请求才有效地「解密」，根据出价以及应以该价格清算的交易得以完成。
-
-
-
-
-为了不向交易平台运营商提供交易者信息，在本文提到的解…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
