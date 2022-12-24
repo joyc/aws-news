@@ -234,56 +234,6 @@
           "wordCount": null,
           "title": "从OP的「上下两院」聊起：一币一票、一人一票到两者结合",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33065",
-          "author": null,
-          "description": "原文标题：《10 家毛利润超过 500 万美元的 Web3 企业分析：它们的收入来源于何处？》\n原文作者：Marco Manoppo\n原文编译：深潮 TechFlow\n\n\n\n\n\n上图的快照日期为 2022 年 10 月 22 日，让我们分解一下他们的商业模式。\n\n\n*注意：这些是收入，而不是费用或回报。也不是「净利润」 -- 考虑到工资和其他运营成本，净利润将大大降低。\n\n\n(1) OpenSea——收入 8.5 亿美元\n\n\nOS 对每笔 NFT 销售收取 2.5% 的费用。\n没什么好解释的，这是最古老的游戏规则。任何占主导地位的市场都能赚最多的钱。更大的交易量 -> 更多的美元。\n在其高峰期，OS 的月交易量一直在 20 亿美元以上。\n这给 OS 带来了 5000 万美元以上/月的毛利润。\n\n\n\n\n\n(2) MetaMask——收入 3.2 亿美元\n\n\n0.875% 的掉期费用。\nMetaMask 对在其钱包中进行的每笔掉期交易收取 0.875% 的费用。\n它将交易导向多个流动性来源，包括 Uniswap、1inch 等。\n\n\n\n\n\n(3) MakerDAO——1.42 亿美元的收入\n\n\n稳定币产生的费用（根据保险库的不同而不同）。\n稳定币提供商向 $DAI 铸造者收取费用（类似于借贷费用）。\n如果 $DAI 需求增加，Maker 就会赚取更多的美元。\n\n\n\n\n\n(4) PancakeSwap——收入 8900 万美元\n\n\n0.25% 的掉期费用（0.0225% 进入国库）。\n3% 的预测费用。\n其他产品费用。\nPancake 是一个拥有 AMMs、预测市场、彩票和即将到来的 NFT 市场的平台。它从交易和市场费用中赚取美元。\n\n\n\n\n\n(5) 以太坊域名——7 200 万美元的收入\n\n\n.eth 域名销售费用。\n5 美元/年的域名续订费用。\n他们出售 .eth 域名，并从每年的续订中获利——非常简单连续性利润来源。\n\n\n\n\n\n(6) Perp Protocol——收入 3900 万美元\n\n\n0.1% 的手续费用。\n衍生品平台对每笔交易收取 0.1% 的手续费用。\n\n\n\n\n\n(7) Decentral Games——3500 万美元的收入\n\n\n2000 万美元的 NFT Mint 收入。\n310 万美元的 NFT 激活收入。\n游戏内升级和二次销售。\n\n\n\n\n\n(8) 1inch——3200 万美元的收入\n\n\n1inch 是一个没有费用的聚合器，他们通过掉期盈余来进行获利。掉期盈余简单来说就是报价和交易发出后之间的价格波动。\n\n\n\n\n\n(9)  Foundation——收入 2600 万美元\n\n\n5% 的市场费用。\n保留收取总销售价格的 15% 的权利。\nFoundation 对其市场上的每笔 NFT 销售都收取 5% 的费用。\n\n\n\n\n\n(10) DeFiSaver——1200 万美元的收入\n\n\n0.1% 等值资产互换手续费用。\n0.25% 掉期费用。\n0.25% 的高级服务费用。\nDeFi 管理平台基本上都是通过收取费用，来使用户的操作更加简单。\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/33065",
-          "publishedOn": "2022-12-21T11:02:02.000Z",
-          "wordCount": null,
-          "title": "浅析OpenSea、MetaMask等10家Web3企业的收入来源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33066",
-          "author": null,
-          "description": "原文标题：《如何在 Blur 空投中实现获益最大化？》\n\n\n原文作者： \n\n雾海，PANews\n\n\n根据 NFTScan 数据显示，NFT 市场 Blur 过去 7 天的交易额在各个交易平台中最高，达到 10.7 万 ETH，占市场总量的 49.47%，为OpenSea 平台过去 7 天交易额（4.9 万 ETH）的 2 倍，X2Y2、LooksRare 平台过去 7 天交易额的 4 倍。12 月 11 日 Blur24 小时交易额达到 29849ETH，涨幅达 345.8%，为 OpenSea 平台交易额的 4 倍。其中 BAYC、Azuki 等蓝筹 NFT 在 Blur 平台上的交易额大幅上涨。\n\n\n\nBlur 平台的表现能如此遥遥领先，一方面是因为 Blur 平台的产品简洁直观，强化了 NFT 的基础设施，提升了专业交易者对 NFT 市场的体验，通过零费率和自定义版税等牢牢的抓住了目前市场上普遍的用户需求。但更直接的原因是它制定了精打细算的空投规则。\n\n\n\n与市场上大多数项目通过用户历史链上行为作为判别是否空投的惯例不同，Blur 平台是通过正式上线后制定规则来让用户完整体验其产品。\n\n\n\n本文将为你详细解读 Blur 三轮空投的规则，实现在第三轮空投中实现资金利用率最大化和空投利益最大化。\n\n\nBlur 在今年 3 月宣布完成 1100 万美元种子轮融资，Paradigm 领投。而 Paradigm 投资的项目中，大部分都曾向社区毫不吝啬的发放巨额且普惠的空投，比如曾经火热一时的 Uniswap 空投。这也是 Blur 平台在测试完期间就饱受市场关注的原因。那么，如何提升个人在 Blur 空投中获利更大呢？一是将个人忠诚度提升到 100%，二是提高资金利用率。\n\n\n忠诚度\n\n\n2022 年 10 月 20 日 Blur 正式上线，并宣布向过去 6 个月在 NFT 市…",
-          "link": "https://www.theblockbeats.info/news/33066",
-          "publishedOn": "2022-12-21T11:02:02.000Z",
-          "wordCount": null,
-          "title": "Blur空投规则解读，如何实现收益最大化？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33064",
-          "author": null,
-          "description": "原文标题：《With Sam Bankman-Fried's Hedge Fund Gone, Crypto Trading Firm Wintermute Emerges》\n原文来源：福布斯\n\n\n原文作者：Jeff Kauflin\n\n\n原文编译：倩雯，ChainCatcher\n\n\n「Wintermute 凭借娴熟的技巧在加密货币的前沿市场穿行，又在 Terra Stablecoin 崩溃中大获全胜，如今已成长为世界领先的加密货币交易公司之一。现在，它必须在一片狼藉、隐患重重的市场中继续前进。」\n\n\nEvgeny Gaevoy 正在思考，如果与一美元价值挂钩的加密货币\n\nStablecoin\n\n terraUSD（UST）内爆，该怎么办。UST 有大约 150 亿美元的流通市值，其母公司受光速创投（Lightspeed Venture Partners）等大型投资者的支持。但早在 2021 年，就有一小部分人在推特上预言它的灭亡，他们认为，不受政府发行货币支持的算法稳定币注定要失败。\n\n\n今年 2 月，38 岁的 Gaevoy 对自己说：「如果它真的发生，希望我们能亲临那一刻。」他的公司 Wintermute 总部位于伦敦，是一家交易公司，从事数字资产的快速交易，每天从数百万次的交易中抽取每笔几美分的利润。市场波动越大，他们赚的钱就越多。\n\n\n\n\n\n在当月，Gaevoy 和 Marina Gurevich——他的妻子和 Wintermute 的首席运营官，制定了作战计划。Wintermute 的开发人员花了一个月的时间，将他们的交易系统与 Terra 的区块链技术相结合。就像高频交易公司试图以最快的速度获得股市数据一样，Wintermute 建立了自己的服务器并运行 Terra 节点，以获得 UST 交易和价格的最新情报。他们为新的交易算法编写了 4000 行代码。在 5 …",
-          "link": "https://www.theblockbeats.info/news/33064",
-          "publishedOn": "2022-12-21T11:02:02.000Z",
-          "wordCount": null,
-          "title": "福布斯深度：Wintermute能否成为下一个Alameda",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33047",
-          "author": null,
-          "description": "原文标题：《 \n\n无需信任系统的必要性\n\n 》\n原文来源：\n\nPantera Capital\n原文编译： 白泽研究院 \n\n\nFTX 崩溃是行业倒退的一步，但由此引发的加密监管可能会是行业向前迈出两步的催化剂，因为监管会是机构采用加密货币的必要催化剂。  \n\n\n尊敬的投资者, 在上一次 DeFi Summer 备受瞩目的爆发之后，我们将我们的年终信命名为：\n\n\nDeFi 运作良好 DeFi 仍然运作良好。\n\n\n但今年的信却变成：\n\n\n受监管的交易所运作良好。\n\n\n在我们讨论受监管的交易所和其他材料之前，我想分享一些关于 FTX 欺诈的想法。很多媒体报道都是这个版本：\n\n\n「如果你不能信任 FTX，你还能信任谁？！？！」\n\n\n通常后面会跟：\n\n\n「区块链是失败的。」\n\n\n然而，区块链怀疑论者以及一些监管机构和政客们的说法没有抓住要点。FTX 的崩溃与区块链技术无关。失败的不是加密货币。比特币和所有其他协议都运行良好。\n \n「这真是老式的挪用公款问题。这只是将客户的钱用于自己的目的，一点也不复杂。」—FTX 的新任首席执行官 John Ray\n\n\n12 月 12 日，Sam Bankman-Fried 在经历了一个月的不确定性之后，被代表美国纽约南区检察官办公室 (SDNY) 的巴哈马当局逮捕。对他的指控可能包括电汇欺诈、证券欺诈、洗钱和共谋。 「检察官说 Bankman-Fried 先生『参与了一项通过挪用客户存款来诈骗 FTX 客户的计划。』 这笔钱被转移到 SBF 的加密对冲基金 Alameda Research。起诉书指控他还欺骗了贷款人，检察官还以「以其他人的名义」提供过多的政治捐款为由，提出了竞选财务违规行为。\n\n\n「美国证券交易委员会（SEC）的投诉更加滔滔不绝。它说，从 FTX 成立之初，Bankman-Fried 就将 FTX 客户的资金转移到 Alameda，…",
-          "link": "https://www.theblockbeats.info/news/33047",
-          "publishedOn": "2022-12-21T11:02:02.000Z",
-          "wordCount": null,
-          "title": "Pantera：从FTX破产思考去中心化系统的重要性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33062",
-          "author": null,
-          "description": "原文标题：《2022 年末总结：去中心化存储的现状与未来》\n原文作者：Jason，Puzzle Ventures\n\n\n\n\nTL; DR\n\n\n\n\n将非核心数据从主链上分离并存入 DSN（Decentralized Storage Network）已经成为了解决扩容、提升互操作性和隐私保护的主流方案。\n\n\nFilecoin 在矿工网络和存储成本上拥有极大的优势，但是 Arweave 的永久性存储可以给 NFT 或社交类应用提供更加可靠的解决方案。\n\n\nL1 扩展存储网络可以提供相比 DSN 互操作性更高的新方案，但是仍然需要时间验证模式。\n\n\n未来的去中心化存储场景会包括完整的互操作性、数据可用性、安全性以及通过中间件和 API 提供用户 / 开发者友好的链下计算。\n\n\n\n\n去中心化存储的发展历程\n\n\n\n\n数据存储板块一直以来都是科技界发展的基石和重点关注领域。从基于亚马逊、微软、阿里巴巴等提供了中心化云存储服务以来，云存储市场已经基本形成了 1000 亿美元以上 (2021 年 ) 的市场规模且头部效应明显（亚马逊 40%，微软 22%，阿里云 10%，数据来源 Gartner）。\n\n\n而随着 Web3 的爆发，一批去中心化存储的供应商开始满足传统云存储市场满足不了的需求。虽然目前大多数的 dApp 仍然部署在 AWS 上，而以太坊的节点在 merge 前也有超过 50% 在 AWS 上运行 [1]，但是 Web3 项目却逐渐发现了将后端和元数据与去中心化存储连接的重要性和必然性。\n\n\n根据 Ethereum.org 的定义，去中心化存储是一个由 p2p 网络构成的，每个运营者拥有整体数据的一部分并可以通过算法复原的数据分享系统 [2]。去中心化存储虽然可以解决诸多问题，例如数据隐私性保护、抗审查等，但目前的去中心化系统发展还不成熟且有诸多亟待解决的问题。经过（主）链上存储方…",
-          "link": "https://www.theblockbeats.info/news/33062",
-          "publishedOn": "2022-12-21T10:02:02.000Z",
-          "wordCount": null,
-          "title": "2022年末总结：去中心化存储的现状与未来",
-          "imageUrl": null
         }
       ]
     },
