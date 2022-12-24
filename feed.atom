@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-24T06:08:57.119Z</updated>
+    <updated>2022-12-24T12:11:36.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开发者可以怎样降低以太坊Layer2上的交易费用？]]></title>
+        <id>https://www.theblockbeats.info/news/33207</id>
+        <link href="https://www.theblockbeats.info/news/33207"/>
+        <updated>2022-12-24T08:47:47.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Crunching the Calldata》
+原文作者：David Mihal
+
+原文编译：Kxp，BlockBeats
+
+
+自 2020 年以来，Ethereum 的扩张路线图一直围绕「Rollup」展开: 使用证明（无论是零知识证明还是 optimistic 欺诈证明）来继承 Ethereum 安全性的独立执行环境。
+
+
+
+
+经过多年的发展，Rollup 终于完成了部署，并正在获得采用。Arbitrum 的王牌 optimistic Rollup 已经上线近一年，期间有价值超过 27 亿美元的资产存入跨链桥，而 Optimism 则紧随其后。Loopring 和 dydX 等针对于特定应用程序的零知识 Rollup 也得到了广泛使用，许多竞争性的通用零知识 Rollup 将在未来几个月内推出。
+
+
+
+
+尽管 Rollup 如今正在快速迅速，但一些人还是担心其费用居高难下。
+
+
+
+
+
+
+
+
+
+事实上，Arbitrum 和 Optimism 的交易费用仍然显著高于 Solana 和 Polygon 等「低费用」链。
+
+
+
+
+那么，是什么阻碍了这些 Rollup 的发展？
+
+
+
+
+Rollup 经济学
+
+
+
+
+为了理解交易费用，我们首先需要分清区块链交易所产生的各种成本：
+
+
+
+
+・执行
+这是一个网络中所有节点执行交易并验证结果是否有效所需的成本（例如：你实际拥有你所转移 Token 的所有权）。
+
+
+
+
+・存储/状态
+这是用新值更新区块链「数据库」的成本（例如：在 Token 转移后，发送方的余额减少，接收方的余额增加）。
+
+
+
+
+・数据可用性
+为了让区块链保持去信任化并可被所有人验证，区块链必须确保所有关于交易的相关数据与所有网络参与者公开共享。从本质上讲，这就是要保证世界上每个人都能看到你的交易。如果没有这种保证，各种攻击就都有可能发生（被称为扣块攻击）。…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Research：回顾2022 Layer1，展望2023加密发展]]></title>
+        <id>https://www.theblockbeats.info/news/33191</id>
+        <link href="https://www.theblockbeats.info/news/33191"/>
+        <updated>2022-12-24T06:32:47.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《2023 CMC Crypto Playbook: Layer-1s—What Has Happened and Where Are We Headed?》，
+原文来源：Binance Research
+原文编译：DeFi 之道
+ 
+考虑到 2022 年应该达到的水平和加密空间中发生的所有事情，Layer1（「L1」）仍然可以说是经历了非常有趣和多事的一年。2022 年，L1 空间发生了许多值得注意的事件。从以太坊在 9 月由 PoW 过渡到 PoS，到 5 月 Terra 生态系统的暴雷。新的 L1 项目也取得了重大进展，例如 Aptos 启动了其主网，而 Sui 预计明年早些时候启动。值得注意的是，BNB Chain 和 Layer2（「L2」）解决方案 Polygon 在 Terra 留下的市场真空中获得了更多市场份额，而 Solana 的这一年更具挑战性，它是受最近 FTX 事件影响更大的 L1 之一。这一年充斥着可以说是影响整个加密货币发展进程中的重大事件。
+ 
+发生了什么？
+ 
+
+图 1：L1 / L2 市值和 2022 年的每日链上指标
+
+
+ 主要观察
+ 
+• 当然，市值较低的原因有很多，我们不打算专门讨论这些原因。然而，我们应该非常清楚地注意到，就日常交易和活跃地址而言，市值不一定与非常重要的链上指标相关。正如我们所见，BNB Chain 和 Solana 在这里表现出色，而以太坊尽管市值更高，但在日常活动方面明显较低。
+
+
+• 以太坊：合并！我们不想继续重复什么事合并，而是想谈谈它的影响。数据显示，自 9 月中旬完成向 PoS 的过渡以来，$ETH 供应增长大幅下降（从 3.58%/年 降至 0.005%/年）。事实上，结合其销毁机制，$ETH 在 11 月的大部分时间里都是通货紧缩资产，目前非常接近该水平。
+
+
+• BNB Chain：BNB…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Messari对2023的33个预测精选]]></title>
         <id>https://www.theblockbeats.info/news/33190</id>
