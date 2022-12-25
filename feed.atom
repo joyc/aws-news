@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-25T00:39:01.004Z</updated>
+    <updated>2022-12-25T06:08:32.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -993,16 +993,6 @@ DeFi 3.0
 
 
 与此同时，DeFi 领域还有当时昙花一现新概念「DeFi3.0」。DeFi 2.0 以「协议控制流动性」的方式试图解决 1.0 流动性不稳定的问题。3.0 打着「Farming as …]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞速发展，细数2022年比特币的十大重要进展]]></title>
-        <id>https://www.theblockbeats.info/news/33076</id>
-        <link href="https://www.theblockbeats.info/news/33076"/>
-        <updated>2022-12-22T14:56:32.000Z</updated>
-        <summary type="html"><![CDATA[飞速发展，细数2022年比特币的十大重要进展]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
