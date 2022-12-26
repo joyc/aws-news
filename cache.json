@@ -84,56 +84,6 @@
           "wordCount": null,
           "title": "Arbitrum DeFi生态一览：创新性真实收入协议和GMX的「䲟鱼」们",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33186",
-          "author": null,
-          "description": "原文标题：《\n\n一文详解 10 个有能力穿越熊市周期的协议\n\n》\n原文作者：Aylo\n原文编译：深潮 TechFlow\n\n\n当人们说 99% 的加密货币项目会在熊市死亡时，这并不夸张。没有多少项目能在一个周期内生存下来并变得更强大。\n\n\n以下，是我所认为的几个可能从熊市活下来并变得更强大的协议。\n\n\n\n\n\n1. 以太坊\n\n\nPoS 交付\n改进经济模型并减少矿工抛售压力 (EIP-1559)\n通货膨胀低于 BTC\nRollup 理论完整\nProto-Danksharding 将在明年提供 100 倍的扩展\nEVM 网络效应强大\n\n\n2.Polygon\n\n\n现实世界的大品牌选择 Polygon 进行部署\n第二高的每日交易量（所有链）\nDEX 有 570 万交易者\n扩展解决方案套件使 Polygon 成为主要的 L2 参与者（ORUS、ZK 和 zkEVM）\nzkEVM 解决方案即将到来\n\n\n\n\n\n3. Arbitrum\n\n\nTVL 排名前第四（所有链）\n每日交易和唯一地址接近 ATH\n活跃开发者增长 500% 以上\n大多数 DeFi 创新发生在 Arbitrum 上\nAbitrum Nova 支持 Reddit\n建立了充满活力的社区\n\n\n\n\n\n4. StarkNet\n\n\nStarkNet Alpha 在主网上线\n在 Alpha 阶段有 98,000 个用户\nSTARK 软件栈（定序器、校验器、验证器）支持 dYdX、Sorare 和 Immutable\nVisa 正在试验 StarkNet\nD 轮融资 1 亿美元，估值为 80 亿美元（5 月 22 日）\n\n\n5.Chainlink\n\n\n与 1500 多个协议应用集成\n建立了 PFM\n通过网络实现了 6 亿美元的总价值\n经济上可持续的多个 DON\n长久的赛道和仍在招聘\n在预言机领域的垄断\nStaking v0.1 上线\nCCIP 将在明年竞争跨链市场\n\n\n6.Uniswap\n\n\nDEX 龙头\n67% 的市场份额（DEX 按交易量计算）\n盈利最高的协议之一\n产生 2.3 亿美元的费用\n扩展进 NFTs\n10 月获得 B 轮融资\n\n\n7.AAVE\n\n\n主要借款/借贷协议\n在周期内没有重大漏洞\nLens 采用率不断提高\nGHO 即将推出并将增加收入\n英国 FCA 许可证（允许 AVE 直接处理法币，而不必通过其他中介机构）\n\n\n\n\n\n8. Lido\n\n\n主要的流动性质押协议\n60 亿美元的质押资产\n240,000 名质押者\n66% 的市场份额（ETH 流动性质押）\n在 5 个网络上运行\n自推出以来收入为 4500 万美元\n\n\n9. Curve\n\n\n占主导地位的稳定交换 DEX\n接近 50% 的稳定币交易量市场份额\n产生 1 亿美元的费用\nCRV 的稳定币即将推出\n\n\n10.GMX\n\n\n占主导地位的链上永续交易平台\n迄今为止已有 730 亿美元的交易量\n产生了 1 亿美元的费用\n17 万用户\n即将推出合成市场\n围绕协议建立了的有机社区（Blueberry Club）\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/33186",
-          "publishedOn": "2022-12-23T10:13:44.000Z",
-          "wordCount": null,
-          "title": "详解10个有能力穿越熊市周期的协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33163",
-          "author": null,
-          "description": "原文标题：《The Generative AI Revolution in Games》\n原文作者：James Gwertzman、Jack Soslow\n原文编译：阿法兔研究笔记\n\n\n\n\nA16Z 最近写了一篇很有意思的文章，谈到他们认为的生成式 AI 和游戏结合在一起的机会在哪，笔者翻译后对部分内容进行了注解。文章第一部分已经发出，见：《\n\nA16Z | 生成式 AI 在游戏领域的机会（市场假设+预测）\n\n》，本篇为第二部分，包括 A16Z 对游戏 + 生成式 AI 领域的市场生态的判断（请注意：这些大部分都是 A16Z 的 Portofolio，请大家本着客观理性的态度阅读）。\n\n\n\n\n市场生态概述\n\n\n\n\n下图为整体的市场生态情况，描述了 A16Z 在各个类别中发现的创业公司，在这些具体的项目中，我们看发现了生成式人工智能（AIGC）对游戏的影响，本篇会对每个类别中最有特点的公司和机会进行介绍。\n\n\n\n\n\n\n\n用文本生成平面图像（2D Images）\n\n\n\n\n从文本提示中生成 2D 图像，已生成式人工智能最为广泛的应用领域之一。诸如 Midjourney、Stable Diffusion 和 Dall-E 2 这样的工具，直接可以将文本描述生成高质量的二维图像，并且它们用在了游戏开发和制作的整个生命周期的多个阶段。\n\n\n\n\n（注释：这里解释一下 Midjourney 也是比较容易用的 AI 图像生成器，更容易上手，图像生成速度很快，1 分钟内可以出 4 张图）\n\n\n\n\n概念艺术（Concept Art）\n\n\n\n\n（注释：概念艺术也可以称为初步设计，通常在影视或者游戏行业中有这个专业设计概念。总的来说，指的是为产品的视觉效果定出一个基调，应该说是一个游戏或影片的最初的核心工作内容之一。通过全新的设计思路和方向（包括造型、精神、概念等），对过去的方式进行革新甚至是颠覆，…",
-          "link": "https://www.theblockbeats.info/news/33163",
-          "publishedOn": "2022-12-23T09:13:44.000Z",
-          "wordCount": null,
-          "title": "a16z：生成式AI与游戏领域结合的市场生态概述",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33185",
-          "author": null,
-          "description": "原文标题：《一文速览九个 Sei 生态上值得交互的早期项目》\n原文作者：aya，深潮 TechFlow\n\n\n\n\n作为 Move 语言三兄弟的最后一员，对比 Aptos 和 Sui，Sei 可能不太为人熟知。\n\n\n\n\n但它却同样不容小视：建立在 Cosmos SDK 上的 Sei 通过内置的中央订单谱，优化了整条链的性能，使「加密纳斯达克」真正成为可能。\n\n\n而对于 Sei 这条技术新颖、资本雄厚的新公链，又有哪些原生项目值得我们提前埋伏呢？在此我们特地挑选了一些项目，并进行简单介绍。\n\n\n\n\nSynthr\n\n\n\n\n\n\n\n\n\nSynthr 是一种合成资产协议，允许用户交易各种链上衍生品，并为用户带来提供无滑点和非链流动性的体验。\n\n\n\n\nPharaoh\n\n\n\n\n\n\n\n\n\nPharaoh 是 Sei 上的 DeFi 协议，允许用户创建并交易合成资产。\n\n\n\n\nVortex Protocol\n\n\n\n\n\n\n\n\n\n链上永续合约交易协定，同时也是官方测试网 ACT-4 指定的任务交易场所。\n\n\n\n\nWhite Whale\n\n\n\n\n\n\n\n\n\n跨链流动性协议，项目通过连接整个 Cosmos 生态系统的流动性，来解决流动性断裂和不稳定定价问题。\n\n\n\n\nUXD\n\n\n\n\n\n\n\n\n\n完全抵押的去中心化稳定币协议，对整个 Sei 生态系统而言具有重要的意义。\n\n\n\n\nLeonicorn\n\n\n\n\n\n\n\n\n\n多链 DEX，揉合了 Swap、Gamefi、NFT 等多个方向。\n\n\n\n\nNitro\n\n\n\n\n\n\n\n\n\n建立在 Cosmos 上的 Solana VM 链，作为沟通 Solana 和 Cosmos 生态的门户。\n\n\n\n\nAxelar\n\n\n\n\n\n\n\n\n\n跨链桥协议，能够提供包括多链流动资金池在内的各种服务。\n\n\n\n\nKargo\n\n\n\n\n\n\n\n\n\nLayer1.5 层基础设施，让用户能够自由参与各种各样的预测市场。\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/33185",
-          "publishedOn": "2022-12-23T09:13:44.000Z",
-          "wordCount": null,
-          "title": "速览九个Sei生态上值得交互的早期项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33162",
-          "author": null,
-          "description": "原文标题：《笔记 | Delphi 发布了 Web3 游戏年度报告》\n原文作者：@ 0 x_Way\n原文编译：WhoKnows DAO\n\n\n本文系 Delphi 近日发布的 Web 游戏行业年度报告 The Year Ahead for Gaming 的简单总结：\n\n\n1、Polygon 和 Immutable 是除了以太坊以外获得游戏融资最多的两条链；  \n\n\n2、Celestia 这种模块化区块链可能也会适合游戏的搭建；  \n\n\n3、Axie 的日活跃钱包数从高点的 1 M 降到了现在的 9.5 K；\n\n\n4、表达了对 Stepn 虽然现在不行了但是对未来往健康方向发展的期待;  \n\n\n（OMG，这篇文章的作者应该是没有玩 Stepn 的，不然怎么会有这种天真的期待，Setpn 但凡想往健康 APP 类方向发展一点都不会一年过去没有在产品上做任何更新 hh）\n\n\n5、游戏公会大多赶上 P 2 E 高潮的好时机融了很多钱，但因为到处跟游戏合作买了一堆 NFT 资产导致财库资金大规模缩水。其中 YGG 缩水最厉害，从高点 $ 100 M+ 的财库资产缩水到现在只有不到 $ 40 M，跌幅 66% ；其他几个 GuildFi，Merit Circle、Avocado DAO 等均缩水 15% -25% 左右；\n\n\n\n\n\n6、很多正在开发的游戏可能会因为熊市没钱了默默的软 rug；\n\n\n7、游戏公会社区规模：DC 人数最多的是 Unix Gaming，AvocadoYGG，GuildFi；推特人数最多的是 YGG，GuildFi，Merit Circle；\n\n\n8、元宇宙项目，ROBOLX 有 202 M 的月活，Minecraft 有 141 M 的月活，Sandbox 只有 200 k 的月活，Decentraland 只有 56 k 的月活；从估值来看，Decentraland 和 Sandbox 的估值仍然过过过过过过分高估了；\n\n\n\n\n\n9、游戏 NFT 的监管问题，Yuga Labs 的被 SEC 的调查带来了游戏 NFT 的监管风险，如果 NFT 被定义为证券的话，对大多数初创公司来说将会是很大的打击；\n\n\n10、链上游戏会是区块链游戏未来发展方向之一，可以关注的链上游戏有：\n\n\nDark Forest\n0 xPARC\nLattice\nMatchbox\nPlaymint\nInfluence\n\n\n11、很看好 PlayFi 这种类型的游戏，即电子竞技类型的游戏，发展各种锦标赛事，用 NFT 作为人物参赛和门票或用于博彩。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/33162",
-          "publishedOn": "2022-12-23T07:13:44.000Z",
-          "wordCount": null,
-          "title": "梳理Delphi Web3游戏年度报告要点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33161",
-          "author": null,
-          "description": "原文标题：《2022 年加密市场教会我们的 22 个教训》\n原文作者：Edgy \n原文编译：深潮 TechFow\n\n\n1. 锁定 Token 是不值得的。\n\n\n在 DeFi 中，ve 经济学的锁定机制曾几何时变得很流行。你把你的\n\nToken\n\n锁定一段时间，作为交换，你获得额外的收益或效用。\n\n\n结果是有些人看着他们锁定的\n\nToken\n\n在熊市中下跌了-90%。我更喜欢保持我的\n\nToken\n\n的流动性。\n\n\n2. 没有「聪明钱」。\n\n\n这个领域里所有「最聪明」的人都是亏损的（3AC、Alameda、VCs）。\n\n\n高超的国际象棋技巧、麻省理工学位和代码技术都不足以阻止贪婪和不良的风险管理，不要因为有大人物的支持就投资一个项目。\n\n\n3. 加密货币中还没有什么是大而不倒的。\n\n\n请记得：\n\n\n- 3AC\n- FTX\n- Luna\n\n\n4. 质疑国库的行为。\n\n\n协议的国库是它的生命之源，没有钱就意味着没有协议。\n\n\n1) 3AC 秘密地管理一些协议国库；\n\n\n2) 一些创始人秘密地使用他们的国库进行交易。\n\n\n糟糕的财务管理毁掉了好的项目。\n\n\n5. 牛市很容易，但不是每个协议都能在加密货币的冬天里生存。\n\n\n时刻问自己：\n\n\n1）协议的资金来源是否在其原生\n\nToken\n\n之外？\n2）他们是否有足够的跑道来生存 2 年以上？\n3）他们的成本合理吗？\n\n\n6. 在有破产传闻时保护自己：\n\n\n-「它们是稳定的」；\n-「FTX 破产的可能性接近 0%」。\n\n\n当事情即将发生时，要保护好自己的资金。没有人会为你做这件事。\n\n\n7. 小心个人崇拜。\n\n\n「权力导致腐败；绝对的权力导致绝对的腐败」。\n\n\n今年每一个主角都倒下了。\n\n\n- Daniele Sesta\n- Do Kwon\n- Zhu Su\n- SBF\n\n\n你可以在上升过程中与他们同行，但在不可避免的崩溃之前，请快速离…",
-          "link": "https://www.theblockbeats.info/news/33161",
-          "publishedOn": "2022-12-23T06:13:44.000Z",
-          "wordCount": null,
-          "title": "2022年加密市场教会我们的22个教训",
-          "imageUrl": null
         }
       ]
     },
