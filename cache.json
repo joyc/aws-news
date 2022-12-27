@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33270",
+          "author": null,
+          "description": "原文标题：《零知识证明的技术路径之争：zk-SNARK 和 zk-STARK 谁更优？》\n原文作者：Chloe，\n\n链茶馆\n\n\n\n\n\nCrypto 行业被广泛关注的零知识证明（Zero—Knowledge Proof）技术，并非是这几年刚冒出来的新技术，而是在 1980 年就被数学家 S.Goldwasser、S.Micali 及 C.Rackoff 提出。\n\n\n\n\n零知识证明涉及一系列步骤，可以实现密码学中的「可用而不可知」。\n\n\n\n\n而区块链有着公开透明、不可篡改等特征，意味着加密投资者的链上资产及交易记录是没有隐私可言的，于是零知识证明技术被引入了区块链，当中以 zk-SNARK 和 zk-STARK 最为关注。\n\n\n\n\nzk-SNARK 被项目方采用得最多，zk-STARK 则被密码学专家认为优于 ZK-SNARK。那么综合技术与实际应用，二者谁更优？\n\n\n\n\n zk-SNARK：简洁 + 非交互性\n\n\n\n\nAlessandro Chiesa 等人在 2012 年开发了 zk-SNARK 协议，这是一种简洁化、非交互式的零知识证明技术，全称是 zero-knowledge succinct non-interactive arguments of knowledge，可以拆解成三部分来理解：\n\n\n\n\nzero-knowledge：\n\n\n\n\n零知识证明，在不暴露隐私情况下向对方证明一件事情，让数据「可用而不可知」。\n\n\n\n\nsuccinct：\n\n\n\n\n简洁性，要证明的东西占用的空间很小，而且可以快速验证（几毫秒）。\n\n\n\n\nnon-interactive：\n\n\n\n\n非交互性，意味着证明者和验证者之间不需要有交集即可快速地得到验证结果。\n\n\n\n\nzk-SNARK 的简洁性和非交互性，是相对于传统的零知识证明方案而言的。\n\n\n\n\n简单来说，传统方案是交互式证明，即示证者（…",
+          "link": "https://www.theblockbeats.info/news/33270",
+          "publishedOn": "2022-12-27T03:59:02.000Z",
+          "wordCount": null,
+          "title": "零知识证明的技术路径之争：zk-SNARK和zk-STARK谁更优？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33267",
+          "author": null,
+          "description": "原文标题：《从零售巨头到 Web3 先行者：欧莱雅、Nike、LVMH 做了什么？》\n原文作者：CB Insights\n原文编译：白泽研究院\n\n\n\n\nWeb3，一个建立在开放、无需许可的区块链网络上的去中心化互联网，正在获得广泛关注。\n\n\n\n\n传统品牌和零售商拥抱 Web3、元宇宙（集体虚拟世界）不仅仅是炒作，因为这是品牌相关性和收入机会的问题。根据区块链数据聚合网站 Dune Analytics 的数据，迄今为止，领先的零售品牌已累计在 NFT 上获得了超过 2.5 亿美元的收入。\n\n\n\n\nWeb3 正在推动品牌、零售商的销售方式和与消费者互动方式的转变，可以在收入、营销渠道、社区建设和忠诚度方面创造新的机会。 \n\n\n这些传统品牌有一种紧迫感，想弄清楚如何利用 Web3，尤其是在许多品牌（尤其是奢侈品牌）错过了最初向电子商务扩张的机会并只能迎头赶上之后。现在，一些品牌急于避免再次犯同样的错误。\n\n\n\n\n随着 Web3 技术站稳脚跟，与用户的数字互动——从销售虚拟商品到使用虚拟世界作为新的营销渠道——为美容和时尚领域的品牌和零售商提供了巨大的品牌推广和货币化机会。\n\n\n\n\nL'Oral、Nike 和 LVMH 如何进军 Web3？\n\n\n\n\n领先的时尚和美容公司就「如何采用 Web3」这一问题并没有统一的答案，但大多数公司主要通过合作伙伴关系进行试验，以探索适合其品牌的最佳策略，因为合作伙伴关系提供了一种低成本的测试和学习方式。  \n\n\n\n\nL'Oral（欧莱雅）专注于通过在元宇宙平台上提供数字资产和空投独家 NFT 等举措，以从 Web3 世界中吸引新的受众。该公司一直在与创建可互操作的虚拟商品的初创公司合作，这些虚拟商品是可以在不同虚拟世界中使用的数字资产。 \n\n\n\n\n与此同时，Nike 一直是零售巨头中率先探索虚拟商品作为新收入来源，并在元宇宙中占有一席之地的先行者之一…",
+          "link": "https://www.theblockbeats.info/news/33267",
+          "publishedOn": "2022-12-27T03:29:02.000Z",
+          "wordCount": null,
+          "title": "从零售巨头到Web3先行者：欧莱雅、Nike、LVMH做了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33266",
+          "author": null,
+          "description": "原文标题：《月光皎皎，千帆逐浪｜WTR 12.26》\n原文作者： WatchToweR Crypto\n\n\n本周回顾\n\n\n本周从 12 月 20 日到 12 月 26 日，冰糖橙最高附近$17049.50，最低接近$16429.20，震荡幅度达到 3.78% 左右。\n\n\n观察筹码分布图，在约 $16473 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n\n\n\n• 分析：\n\n\n1. 17000 ~ 20000 约 206 万枚；\n2. 12000 ~ 16500 约 266 万枚；\n\n\n• 其中短期内涨不破 18500～20000 的概率为 61%。\n\n\n\n\n\n\n\n重要消息方面\n\n\n经济消息方面\n\n\n• 美国\n\n\n1. 11 月 PCE 物价指数同比增长 5.5%，与市场普遍预期持平，低于前值 6%，为连续第五个月放缓；环比上涨 0.1%，市场预期 0.1%。\na. 核心 PCE 物价指数（剔除食品和能源价格）11 月同比增长 4.7%，低于前值 5%；环比增长 0.2%，与市场预期一致；\nb. 从 PCE 的分项数据看，11 月商品的价格总体下跌，而服务业还在上涨；\nc. 服务业的价格大多继续环比上涨，只有交通运输相关的服务价格环比下跌。\n2. 11 月储蓄率上升至 2.4%，这是自 7 月以来首次增长，但也是有记录以来的最低水平。\n3. 11 月份耐用品订单环比下降 2.1%，低于市场预期的 1%，为连续三个月增长后，首创 2022 年 2 月以来最低值。\n4. 第三季度实际 GDP 年化季环比终值 3.2%，修正值为 2.9%，初值为 2.6%。\na. 第三季度 GDP 的增长主要反映在出口、消费者支出、非住宅固定投资、州和地方政府支出以及联邦政府支出的增长；\nb. 下降的部分主要是住宅固定投资和私人存货投资。\n5. 美密歇根大学公布消费者信心指数。\na. 市场对未来一年…",
+          "link": "https://www.theblockbeats.info/news/33266",
+          "publishedOn": "2022-12-27T03:14:02.000Z",
+          "wordCount": null,
+          "title": "第52周链上数据分析：交易情绪略有修复，ETH老币有轻微售出痕迹",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33224",
           "author": null,
           "description": "原文标题：《\n\nNFT 领域的 2022 年回顾及 2023 年展望\n\n》\n原文作者：Sfermion，\n\nCMC Research \n原文编译：Katie 辜，Odaily 星球日报\n\n\nCMC 与 Sfermion 的投资者 Mo Patel 进行了对话，详细概述了 NFT 市场在充满挑战的 2022 年的表现和增长，以及对 2023 年市场前景的看法。\n\n\nQ1 ：如何衡量 2022 年 NFT 市场的成功？\n\n\n由于熊市和整体低迷， 2022 年 NFT 市场面临着成交量骤减，人们担心 NFT 已经死亡。然而，如果将牛市驱动的 2021 年排除在外，就交易量和发展情况而言， 2022 年的 NFT 市场实际上在许多领域都在蓬勃发展。与 NFT 交易量的下降相比，NFT 交易额的小幅下降表明人们仍在使用 NFT，而低迷只是一个更广泛的市场趋势。\n\n\n\n\n\n\n\n例如，L2 解决方案（如 Arbitrum 和 Optimism）的迅速采用意味着持有 NFT 的新地址的增长，这是支持 L2 领域的构建活动的数量增加的标志。与此同时，Polygon 也积极参与 NFT 业务开发，并继续吸引优秀的 Web 2 人才和客户加入区块链。音乐类 NFT 也在各种平台上取得了成功，销量高，铸币量增加。\n\n\n使用 NFT 的 Web 3 社交平台也正在获得关注，例如 Aave 的 Lens Protocol 自 2022 年 5 月推出以来已经拥有近 10 万用户。除了大量定量数据之外，还有大量的定性数据表明，最近的 NFT 热潮导致大量强大的 Web 2 构建者进入 Web 3 领域，并使用 NFT 进行构建。这突出了 NFT 市场的成功，及其在很短时间内获得的全球关注。\n\n\n\n\n\n这些新入行者包括领先的 Web 2 创始人和游戏工作室，他们已经在 Web 2 领域建立了成熟的产品，现…",
@@ -123,16 +153,6 @@
           "publishedOn": "2022-12-25T06:14:55.000Z",
           "wordCount": null,
           "title": "SPOT，实现AMPL野心的新型算稳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33206",
-          "author": null,
-          "description": "原文标题：《NFTFi 的核心机制和七个子赛道分析》\n文章来源：DAOrayaki DAO\n\n\n摘要\n \n随着 2020 年 Defi Summer 和 2021 年 NFT Summer 的狂欢过去，最近越来越多的人将目光开始投射在 NFTFi 上，期待这个结合了 NFT 和 Defi 的赛道能够给 web3 的世界带来新的盛夏。\n\n\n围绕 NFTFi，本文核心探讨以下两个问题：\n为什么需要 NFTFI，解决了什么需求？\n\nNFTFI 目前各个子赛道的发展如何？\n\n\n本文将首先分析 NFTFi 的诞生背景与现状，然后从用户购买到持有 NFT 的全流程来进行场景梳理，对定价评估、交易、BNPL、借贷、衍生品、碎片化和租赁七个子赛道的核心机制进行了分析，然后选取了点对池的 CDP 模型借贷项目 JPEG'd 进行了重点分析。\n \nNFTFi 诞生的背景\n \nNFTFI 的诞生与 NFT 息息相关。NFT 市场从 2021 年 2 月开始受到关注，再到 8 月推到高潮，22 年 1 月到达了顶峰，Opensea 当月交易额达到 48 亿美元。但是随着整个加密市场开始拐头向下运行，NFT 市场也不可避免受到波及，交易量和交易额开始快速下跌，经历了一个从暴涨到暴跌的过程。\n\n\n\n\n\n到了熊市之后，NFT 的流动性问题暴露得更加明显，使得之前进入 NFT 市场的玩家陷入了困境，NFT 的持有者常常被迫 hodl。而没有财富增长效应的 NFT 会导致给社区一个共识崩塌的信号，从而加剧流动性的缺失，形成恶性循环。\n\n\n当下 NFT 存在的最核心的问题是流动性不足，导致流动性不足的原因包括以下三点：\n\n\nweb3 大环境变熊：前有美联储加息，后有加密世界频繁暴雷，对于加密世界和 NFT 的信任度大幅下降。\n门槛高：蓝筹项目地板价高（像无聊猿、cryptopunks 对于大部分用户来说过于昂…",
-          "link": "https://www.theblockbeats.info/news/33206",
-          "publishedOn": "2022-12-24T14:50:17.000Z",
-          "wordCount": null,
-          "title": "NFTFi 的核心机制和七个子赛道分析",
           "imageUrl": null
         }
       ]
