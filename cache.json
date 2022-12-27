@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33299",
+          "author": null,
+          "description": "范式转移：Web3超级应用时代来临？",
+          "link": "https://www.theblockbeats.info/news/33299",
+          "publishedOn": "2022-12-27T14:16:26.000Z",
+          "wordCount": null,
+          "title": "范式转移：Web3超级应用时代来临？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33292",
+          "author": null,
+          "description": "Arbitrum创始人：针对Rollup延迟攻击的三种解决方案",
+          "link": "https://www.theblockbeats.info/news/33292",
+          "publishedOn": "2022-12-27T12:16:26.000Z",
+          "wordCount": null,
+          "title": "Arbitrum创始人：针对Rollup延迟攻击的三种解决方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33297",
           "author": null,
           "description": "原文标题：《\n\n12 条主流公链的估值框架和市值预测：哪些被高估或者低估了？\n\n》\n原文作者：Tascha Labs\n原文编译：DeFi 之道\n\n\n\n在任何时间点，你都可以认为区块链平台的估值是由 3 个方面决定，包括：\n\n\n采用和使用\n平台护城河\n加密市场条件\n\n\n这 3 个因素如何影响Token的估值/市值？\n\n\n1. 采用和使用：\n\n\n这是基本的估值驱动因素。用户需要一个链的原生\n\nToken\n\n来支付交易费用。更多的活跃用户意味着更多的人需要至少持有一定数量的上述\n\nToken\n\n，从而导致更高的\n\nToken\n\n需求并推动价格上涨。\n\n\n这是一种机械关系，与投机性需求或价格升值的预期没有关系。因此，这是一个长期的估值驱动因素。\n\n\n2. 平台护城河：\n\n\n这影响到投资者对平台的风险评估。如果一条链被认为有很大的护城河 -- 比如说，它已经存在了很长时间，并且有强大的社区 -- 那么更多的人会认为它是一个更安全的赌注。\n\n\n这种看法是否正确是个问题。关键是对更大的护城河和更低的风险的看法使\n\nToken\n\n能够获得溢价，其他条件不变。我把这称为」平台特定的加价「（稍后，你会看到各种链的加价指的是什么）。\n\n\n3. 加密市场条件：\n\n\n投资者的情绪 -- 例如风险偏好水平 -- 会影响对所有\n\nToken\n\n的需求。整体加密的采用水平也是如此。如果没有整体加密市场的背景，单个\n\nToken\n\n的估值就无从谈起。\n\n\n我们可以使用活跃的地址或交易计数来衡量一条链的采用和使用情况，同时使用加密市场总市值来代表市场状况。这样我们就可以得到：\n\n\n一条链的估值 = a1 *（活跃地址或交易计数）+ a2 *（加密总市值）+（平台特定加价）\n\n\n下面的图表显示了 12 条主要区块链的实际市值（对数）和模型预测的市值。这两个模型分别使用活跃地址和交易计数来衡量链的采用。\n\n\n关于…",

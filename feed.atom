@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-27T12:12:51.897Z</updated>
+    <updated>2022-12-27T18:09:19.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[范式转移：Web3超级应用时代来临？]]></title>
+        <id>https://www.theblockbeats.info/news/33299</id>
+        <link href="https://www.theblockbeats.info/news/33299"/>
+        <updated>2022-12-27T14:16:26.000Z</updated>
+        <summary type="html"><![CDATA[范式转移：Web3超级应用时代来临？]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum创始人：针对Rollup延迟攻击的三种解决方案]]></title>
+        <id>https://www.theblockbeats.info/news/33292</id>
+        <link href="https://www.theblockbeats.info/news/33292"/>
+        <updated>2022-12-27T12:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum创始人：针对Rollup延迟攻击的三种解决方案]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12条主流公链的估值框架和市值预测：哪些被高估或者低估了？]]></title>
         <id>https://www.theblockbeats.info/news/33297</id>
