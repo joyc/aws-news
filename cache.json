@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33405",
+          "author": null,
+          "description": "在第一枚比特币面世后的 13 年后，加密货币世界经历了历史级别的行业洗牌。在历时半年的去杠杆的过程中，曾经的加密货币市值前五的项目、曾经全球加密货币前三的交易平台、曾经加密世界知名的基金和机构，震耳欲聋地接连落幕。\n\n\n\n\n比特币的 2022 以 48000 美元开局，前 4 个月不说多么光鲜亮丽，但在 StepN 极致出圈的背景下，大家情绪高涨。开盘 17 倍，接着二级市场接盘还能有几十倍收益的项目，这在去年都少见。经历了一年的超级牛市，就在大家以为可能市场要休息的时候，StepN 的发力拉回了大家信心，让大家看到了新的可能性。\n\n\n\n\n可惜，SuperCycle 确实是错觉。\n\n\n\n\n5 月正式开启了 2022 的主旋律，6 个月的时间，让加密行业倒退 5 年。市值前五的 LUNA 在 2 天内 400 亿市值灰飞烟灭，最高管理 180 亿美元规模的三箭资本一夜暴雷，全球第二大交易平台 FTX 只用了 3 天，就让 320 亿美元估值荡然无存。我们除了跑和见证历史，什么也做不了。\n\n\n\n\n巨头的崩溃溅起数丈的浪花，让我们每一条小船都胆战心惊，BlockBeats 也不例外。活过 2022，我们也记录了在 2022 的数据，这是加密货币分水岭的一年，却也是 BlockBeats 数据最活跃的一年。我们在这里也对自己做一个总结，记录我们的 2022，也提醒自己，敬畏市场。\n\n\n\n\n用户数据\n\n\n\n\n2022 年，BlockBeats 在运营策略上做出了很大调整，主动停更了一些渠道的媒体账号，将用户集中至 BlockBeats 的网站与 APP。回顾全年，新策略也带来了显著成效。在 2022 年，有 800 万独立用户通过 BlockBeats 网站与 APP 了解到了 Web3 行业的最新资讯。在 5 月加密世界迎来大幅波动，有超过 500 万名读者阅读了我们撰写的《840…",
+          "link": "https://www.theblockbeats.info/news/33405",
+          "publishedOn": "2022-12-30T03:16:10.000Z",
+          "wordCount": null,
+          "title": "BlockBeats的2022：让800万人了解Web3的一年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33404",
+          "author": null,
+          "description": "原文标题：《\n\n被制裁 4 个月后，Tornado Cash 社区通过「重振提案」\n\n》\n原文作者：十文，\n\nodaily星球日报\n\n\n自 8 月 OFAC 宣布制裁 Tornado Cash 以来，一些为 Tornado Cash 提供服务的中间件提供商如 Infura 和 Alchemy 也受到了审查，导致用户无法正常访问其资产，只能通过手动设置钱包的节点配置来完成交互，但是这样的手动配置是有门槛的，严重的限制了 Tornado Cash 的用户数量。此外，Tornado Cash 的官网也已被下线，用户目前想要访问网站，需要使用基于 IPFS 协议直接访问的方式。对技术不了解的普通用户，很可能会放弃使用。\n\n\n跟随 Tornado Cash 一同被 OFAC 制裁的，还包括所有 Tornado Cash 的开发者和代码贡献者。Tornado Cash 的 GitHub 已经被删除，Tornado Cash 的开发人员 Alexey Pertsev 被捕入狱，创始人 Roman Semenov 的 GitHub 账户被停用。因此，虽然用户仍能访问 Tornado Cash，但无法对其进行代码更新，也不能进行新的开发。\n\n\n并且，OFAC 也明确表示过，所有与 Tornado Cash 类似的应用程序都将会受到美国的制裁，这无疑浇灭了大多数工程师开发隐私协议的热情，也不免让人们对隐私应用的未来产生担忧。\n\n\n在制裁之前，Tornado Cash 曾是加密混币服务的中心枢纽，具有很大的流动性。然而，自制裁实施以来，该协议每周存款量和取款量都已经下降超过 90% 。\n\n\n\n\n\n\n可以说目前的 Tornado Cash 正处于一个分水岭。是冒法律风险继续开发，还是暂且「苟」住，这是 Tornado Cash 社区正在面临的选择题。\n\n\n近日，Tornado Cash 社区成员 …",
+          "link": "https://www.theblockbeats.info/news/33404",
+          "publishedOn": "2022-12-30T03:11:10.000Z",
+          "wordCount": null,
+          "title": "被制裁4个月后，Tornado Cash社区通过「重振提案」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33402",
+          "author": null,
+          "description": "原文标题：《\n\n拥抱 Arbitrum，Trader Joe 能否迎来第二春？\n\n》\n原文作者：Chinchilla\n原文编译：aididiaojp.eth，Foresight News\n\n\n\n\n在与 Avalanche 生态系统共兴衰之后，Trader Joe 还是选择了扩展到 Arbitrum 上。有趣的是，在其Token经济改革和技术升级之后，Trader Joe 会发生什么？\n\n\n\nTrader Joe 最初的\n\nToken\n\n发行时间是 2021 年 7 月 3 日，就在上一轮牛市的第二波上涨趋势当中。JOE 没有预售、私募或上市前申购，但据 DefiLlama 显示，它在上线之后立即就在 Avax 生态中获得了令人难以置信的吸引力。\n\n\n\n\n\n\n\n但不幸的是，熊市来了。Wonderland 和 3AC 对 Avalanche 生态造成了沉重打击，用户跑严重流失。当然，JOE 的\n\nToken\n\n经济学并不是最好的。你可以在下图看到其\n\nToken\n\n供应。\n\n\n\n\n\n\n\n但是开发人员同样做了一些事情来改善困境，第二季度团队进行了\n\nToken\n\n经济学改革，为 JOE 质押提供了更多实用性。市场最初反应良好，但从长远来看，\n\nToken\n\n释放和整体宏观环境难以维持\n\nToken\n\n价值的持续增长。\n\n\n\n\n\n\n\n该团队最近同样进行了技术升级，例如：\n\n\n协议拥有流动性资本效率最大化（例如协议拥有的 JOE 流动性现在可以部署在新的收入流中）Banker joe markets 升级版设计集中流动性\n\n\n\n\n\n\nTrader Joe 的收入和每日活跃用户在熊市期间一直处于下降状态，尽管如此，在现在的市场条件下，Trader Joe 也一直是收入最高的 dApp 之一。\n\n\n\n\n\n\n\n\n\n\n在考虑 P/S 比率（完全稀释市值 / 年化收入）时，相对于竞争对手和其他 dapp，Trader Joe 仍处于有利地位。一般情况下 P/S 比率越低，代表协议创造价值的能力越强。\n\n\n\n\n\n\n\nTrader Joe 的流通供应最近略有萎缩，可能是受到两个因素：一个是更多的 JOE 被质押来创造收益；一个是 90% 的\n\nToken\n\n已经被铸造，并且释放量正在降低。\n\n\n\n\n\n\n\n\n\n\n此外，从协议的角度来看，该团队正在与 Arbitrum 生态系统中一些最成熟的项目如 GMX 等建立合作伙伴关系。\n\n\n无论如何，「Abritrum 原生 Dex」似乎还缺少一个位置，但我们不应该忘记这位王位的有力竞争者，当然还包括更成熟的协议，如 Uniswap 和 Sushi；新生的协议，如 SwapFish 和 Camelot 等。作为一个旁观者来观察它是如何发展的可能会很有趣。\n\n\n\n\n结论\n\n\n\n\nTrader Joe 并不是新的市场热点，它有成功和失败的过去，重要的是，它仍在不断发展。\n\n\nArbitrum 可以给 Trader Joe 一个新的机会来吸引流动性和提高可用性，这会让\n\nToken\n\n价格飙升吗？此外，我还是想说我没有持有任何 JOE，也没有做出任何价格预测，只是想描述一个非常有趣协议的未来可能性。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/33402",
+          "publishedOn": "2022-12-30T03:11:10.000Z",
+          "wordCount": null,
+          "title": "拥抱Arbitrum，Trader Joe能否迎来第二春？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33401",
+          "author": null,
+          "description": "原文标题：《慢雾：2022 区块链安全回顾》\n原文作者：慢雾科技\n\n\n回顾过去的一年，我们看到加密领域出现了很多新场景，新应用和新变化。玩家也在逐渐增多，但是安全问题也一直困扰着行业的发展。因此，慢雾整理了 2022 年行业中出现的那些重大的安全时间，并进行了相应的分析和解读。\n\n\n\n根据慢雾区块链被黑事件档案库（ SlowMist Hacked ）统计，2022 年安全事件共 295 件，损失高达 37.28 亿美元。相比 2021 年的 97.95 亿美元下降约 62%，但这并不包括因市场动荡而损失的资产。\n\n\n\n\n\n（2022 年安全事件统计）\n\n\n其中各生态 DeFi、跨链桥、NFT 等安全事件 245 起，交易所安全事件 10 起，公链安全事件 11 起，钱包安全事件 5 起，其他类型安全事件 24 起。\n\n\n从时间上来看，5 月和 10 月攻击事件数量最高，达到 38 件。3 月损失金额最高，达到约 7 亿美元。\n\n\n一、区块链生态安全概览\n\n\n公链\n\n\n公链是 Web3 领域最重要的基础设施，也是行业中竞争最激烈的赛道之一。而 2022 年最令人讶异的莫过于 Terra 事件了。5 月 8 日，加密货币市场上出现了史上最具破坏性的一次崩盘。Terra 网络的算法稳定币 UST 出现了 2.85 亿美元的巨额抛售，引发了一系列连锁反应。\n\n\nTerra 的原生代币  LUNA 的价格突然毫无征兆的连续跳崖式暴跌，一天时间，Luna 市值蒸发了近 400 亿美元，全生态项目 TVL 也几乎归零。此次事件或许成为了开启 2022 加密寒冬的死亡按钮。\n\n\nDeFi / 跨链桥\n\n\n据 DeFi Llama 数据显示，截止 12 月底，DeFi 总锁仓价值约为 398 亿美元，同比巨降 75%。Ethereum 以占比整个 DeFi TVL 的 58.5%（233 亿…",
+          "link": "https://www.theblockbeats.info/news/33401",
+          "publishedOn": "2022-12-30T03:11:10.000Z",
+          "wordCount": null,
+          "title": "慢雾：2022区块链安全回顾",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33374",
           "author": null,
           "description": "原文标题：《\n\n\n\nBuidler DAO 蝗虫精选（21）：加密市场总结&来年展望的必读文章》\n原文来源：\n\nBuidler DAO\n\n\n\n深度精选是我们推荐的本周市场热议主题下必读文章，取材自 Buidler DAO 认知蝗虫计划每日推送；在这里，Web3 Native 的资深读者会从繁杂的信息源中抽取优质文章的核心内容与个人的深度思考。\n\n\n时间线来到 2022 年末，走进全景式的市场回顾与分析。从 a16z 合伙人的投资原则出发，到其理念以及在执行投资过程中的标准阐述；从 NFT 的市场现状与未来预测，到 NFTFi 核心机制的解读；从以太坊生态系统的应用分类，到「瘦应用」的价值解读；从去中心化存储的概览，到链上数据总结。本文涵盖了 2022 年末的宏观回顾与未来展望，并总结了各个赛道中有潜力发展的方向。阅览下文并了解核心关点，欢迎共同讨论！\n\n\n全文 6300 字，预计阅读时间 16 分钟\n\n\n文章速览：\n\n\n01/ 对话 a16z 合伙人 Chris Dixon：投资原则、技术史中的加密市场和来年展望 @wes\n02/ NFT 市场的未来之路 @SCaesar\n03/ 2022 年末总结：去中心化存储的现状与未来 @ 猫老大\n04/ Vitalik：以太坊应用生态系统令人兴奋的五个应用 @wes\n05/ 2022 年链上分析年度总结 – Glassnode @Hugo\n06/ Coinbase：2023 年 Crypto 市场展望 @ 猫老大\n07/ NFTFi 的核心机制和七个子赛道分析 @memeswap\n08/ Thin Applications 瘦应用 @wenchuan\n\n\n对话 a16z 合伙人 Chris Dixon：投资原则、技术史中的加密市场和来年展望 @wes\n\n\n1. a16z 的投资策略和对加密项目如何建立信任的看法：要么必须全部在链上，…",
@@ -183,16 +223,6 @@
           "publishedOn": "2022-12-28T03:43:31.000Z",
           "wordCount": null,
           "title": "加密项目破产，是否应该向公众披露其用户身份信息？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33299",
-          "author": null,
-          "description": "范式转移：Web3超级应用时代来临？",
-          "link": "https://www.theblockbeats.info/news/33299",
-          "publishedOn": "2022-12-27T14:16:26.000Z",
-          "wordCount": null,
-          "title": "范式转移：Web3超级应用时代来临？",
           "imageUrl": null
         }
       ]
