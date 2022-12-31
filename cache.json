@@ -234,56 +234,6 @@
           "wordCount": null,
           "title": "DApp年度报告：头部DApp月均总营收约1.52亿美元，以太坊年活跃地址数跌至第三",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33372",
-          "author": null,
-          "description": "宏观市场下行周期对于企业而言是一场磨炼。中小企业需要在这场历练中活下去，降本增效。而资金充裕的企业可在熊市攻城略地，为即将到来的牛市做好战略规划。\n \n在加密市场这个强周期行业，同样如此。在过去多年里，市场上有无数的故事向我们述说初创加密企业如何度过寒冬，并在牛市吸引整个行业的关注。但却鲜有人探究原本便已经取得非常亮眼成绩的企业如何布局熊市。\n \n谈及成功的加密企业，Binance 理所应当属于其中之一。其从创立到成为全球最大的交易平台仅仅只用了不到一年时间。或许，我们需要看看，Binance 在 2022 年这场加密寒冬中的行为以及做对了什么。\n \nBinance 亚欧地区合规化，Binance.US 有望于美国 50 州运营\n \n在加密行业发展初期阶段，企业和从业者或有意或无意避开监管规则，先追求企业的快速发展。然而最近的一轮大牛市令整个行业认识到，在目前这一阶段合规所带来的收益将远超过往。合规能够为行业带来更多增量，野蛮成长的时间窗口已经关闭。\n \n2022 年初始，Binance 便开始了全球合规之路。\n \n上半年，Binance 先后获得了巴林的第四类许可牌照、迪拜的全面监管许可的虚拟资产（VA）交易平台许可、阿联酋第一和第二大城市的加密货币监管许可、法国和意大利的获批注册许可。\n\n\n\n\n\n当然，由于全球各地的文化以及监管风格不近相似，Binance 面对来自不同地区的监管时，持续不断沟通与合作，积极应对。5 月 25 日，赵长鹏一行会见了哈萨克斯坦总统托卡耶夫（Kassym-Jomart Tokayev）等官员，Binance 与哈萨克斯坦共和国数字发展、创新和航空航天工业部签署谅解备忘录。而后的 8 月 15 日，Binance 正式宣布获得哈萨克斯坦阿斯塔纳金融服务管理局（AFSA）的原则性批准，可在阿斯塔纳国际金融中心（AIFC）运营数字资产交易设施并提供…",
-          "link": "https://www.theblockbeats.info/news/33372",
-          "publishedOn": "2022-12-29T04:34:06.000Z",
-          "wordCount": null,
-          "title": "2022年寒冬下，Binance在合规、透明化、产业方面都做了什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33373",
-          "author": null,
-          "description": "原文标题：《Vitalik：打造安全的中心化交易所 —— 可偿付证明及更多》\n原文作者：Vitalik Buterin \n原文编译：双花 (@doublespending)\n\n\n\n\n\n\n特别感谢 Balaji Srinivasan 以及 Coinbase、Kraken 和 Binance 团队的探讨。\n\n\n\n\n\n\n每当大型中心化交易平台崩溃时，一个常被提及的问题是：我们是否可以利用加密技术来解决这个问题。交易平台可以通过创建密码学证明的方式证明其链上持有的资金足以偿付用户，而不仅仅依靠政府牌照、审计员、调查公司治理以及交易平台法人背调等「法币」方案。\n\n\n\n\n\n\n更有野心的是，交易平台可以建立一个未经储户同意无法提取储户资金的系统。我们可以尝试探索「不作恶」有职业素养的 CEX 与「无法作恶」却泄漏隐私的低效链上 DEX 之间的界限。这篇文章将深入探讨让 CEX 更加去信任的历史尝试，与其采用技术的局限性，以及一些依赖 ZK-SNARKs 等先进技术的有力手段。\n\n\n\n\n\n\n余额表和 Merkle 树：传统的可偿付证明\n\n\n\n\n\n\n交易平台试图用密码学来证明自己没有欺骗用户的最早尝试可以追溯到很久以前。2011 年，当时最大的比特币交易平台 MtGox 通过发送一笔移动 424,242 个 BTC 到预先公布地址的交易来证明他们拥有该笔资金。2013 年，大家开始讨论如何解决该问题的另一面：证明用户存款的总规模。如果你证明用户的存款等于 X （负债证明 proof of liabilities），并证明拥有 X 个代币的私钥（资产证明 proof of assets），那么就提供了可偿付证明（proof of solvency）：你证明了交易平台有足够的资金偿还给储户。\n\n\n\n\n\n\n提供存款证明的最简单方法是公布一个列表。每个用户都可以检查他们在列表中的余额，而且任何人都可…",
-          "link": "https://www.theblockbeats.info/news/33373",
-          "publishedOn": "2022-12-29T04:34:06.000Z",
-          "wordCount": null,
-          "title": "V神：探讨打造安全中心化交易平台方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33371",
-          "author": null,
-          "description": "原文标题：《\n\nBuilder 必看，如何在 Twitter 上推广你的新 NFT 项目？\n\n》\n原文编辑：RR，FastDaily\n\n\n\n每天勤勤恳恳日更公众号有什么用，NFT 和加密爱好者的首选社交网络一定会回答我是 Twitter。\n\n\n\n\n很多朋友不知道，我们不仅英文站，还有一些加密行业常用的社交媒体平台（链接放在文末了），公众号上经常让我感到很无奈，好多很不错的内容，却连个预览都发不出去，丢给我一句「可能违反相关政策」就直接显示了被删除。\n\n\n\n\n虽然最近一段时间我们由于「阴阳交替」，严重精力不足，顾不上更新其他平台的内容，但今天还是准备跟大家聊一聊很多项目方在早期做运营的时候最关心的问题，该如何写出吸引收藏者注意的推文呢？如何瞄准正确的用户人群？最重要的是，如何让项目与人们建立真正的联系？\n\n\n\n要建立一个 NFT 社区，你需要知道所有这些问题的答案。\n\n\n\n\n我应该发什么推特？\n\n\n\n\n「人们不看广告，他们只看自己感兴趣的东西，有时那就是广告。」——Howard Gossage\n\n\n\n\n你推文是下面这样的吗？\n\n\n\n\n\n\n\n\n\n对于这样的推文，只有一种合适的回复方式：shut the fuck up\n\n\n\n\n如果你想了解人们会在 Twitter 上与哪些内容产生联系，请关注下面这些数据。\n\n\n\n\n\n\n\n\n\n在图表中，你可以看到折扣或促销是 Twitter 用户最不感兴趣的内容类型。\n \n赠品对那些想要赢得 NFT 的人很有吸引力，但太多的赠品会让普通 Twitter 用户感到厌烦，这给人感觉就像垃圾邮件。\n \n在尝试销售你的 NFT 的过程中，你需要以娱乐、启发、教育或讲故事的形式为社区提供价值。每 6-8 条推文中只有一条应该含有销售内容。\n \n就像 Gary Vee 关于社交媒体营销的畅销书《Jab, Jab, Jab, Jab, jab, …. Righ…",
-          "link": "https://www.theblockbeats.info/news/33371",
-          "publishedOn": "2022-12-29T03:34:06.000Z",
-          "wordCount": null,
-          "title": "Builder必看， 如何在Twitter上推广你的新NFT项目？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33370",
-          "author": null,
-          "description": "原文标题：《Web3 域名赛道：龙头 ENS 面临的冰与火》\n原文作者：Steven@THUBA Research Core\n原文来源：DoraFactory\n\n\n\n\n\n\n\n\n\nWeb3 不仅仅是区块链和 EVM 兼容，还有面向整‍个 Web3 的 DID 系统。‍‍‍本文将对从以下方面，对 DID 赛道进行分析。\n\n\n\n\n科普：Web3 域名特点及应用场景\n现状：Web3 域名市场规模、分布、行业 KSF 和痛点\n案例：开源去中心化身份协议.bit 如何挑战 ENS \n点评：从 Web3 域名赛道到特定案例创新\n\n\n\n\n作者可能持有文中提到的相关项目发行的资产，存在利益相关，不构成任何投资建议。\n\n\n\n\nWeb3 域名赛道分析\n\n\n\n\n\n\n\n\n\n这里引用 AnT Capital 林川对 DID 赛道的梳理，目前看到的 web3 项目可以分为四层，从上游往下游分别为：\n\n\n\n\n凭证层 - 凭证发布，代表项目有 GALXE，Rabbithole，POAP，BrightID 等身份层 - 聚合协议，代表项目由 KNN3，RSS3，Cyberconnect 等身份层 - 身份管理，主要有钱包和域名两大类，代表项目由 UNIPASS，ENS，LOOT，.bit 等应用场景层，项目大致分为两大类：\n\n\nReputation（声誉）和 Relationship（关系）\n\n\n\n\nReputation：声誉 / 简历 / 社交展示面。这类应用场景，侧重于通过将数字身份简化为一些显性的可信标签，来对用户进行评价和分类，从而达到一个快速筛选的效果。比如：信用借贷、求职招聘、陌生人社交等。\n\n\n\n\nRelationship：DID 的关系类应用场景叙事。这类应用场景，侧重于通过将数字身份视为用户在 Web3 数据的累积，来做一些更加复杂、综合的应用分析。比如：推荐系统、熟人社交、Web3 游戏、…",
-          "link": "https://www.theblockbeats.info/news/33370",
-          "publishedOn": "2022-12-29T03:34:06.000Z",
-          "wordCount": null,
-          "title": "Web3域名赛道：龙头ENS面临的冰与火",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33369",
-          "author": null,
-          "description": "撰文：0xLaughing，律动 BlockBeats  \n\n\n2021 年是 NFT 开始走向大众的一年，「NFT」当选了《柯林斯词典》2021 年度词汇，2021 年也因此被很多人称为 NFT 元年；而 2022 年则是伴随着新项目和用例不断涌出，对 NFT 的未来不断探索的一年，但是这一年对于加密货币和 NFT 来说是一段艰难的旅程。加密货币世界之外更广泛的市场低迷将 NFT 市场拖入熊市，Luna 暴雷、FTX 倒闭事件本身以及造成的更深层次影响让加密市场雪上加霜，数十亿美元从生态系统中消失，监管和刑事调查也随之增加。\n\n\n\n\n2022 年的 NFT 市场，从 PFP 系列的激增，到时尚、音乐、娱乐、游戏和元宇宙体验的探索性尝试，这些新想法和实验在证明它们不仅仅是区块链上的「小图片」，同时也见证了无数成功和失败，让我们一同回顾一下吧。\n\n\n\n\n2022 年整体概况：至明与至暗时刻交替\n\n\n\n\n\n市场总市值变化（图源：NFTGO）\n\n\n\n\nNFT 市场总市值在 3 月曾达到峰值为 349.6 亿美元，自 5 月下跌后持续低迷，总市值持续维持在 210 至 230 亿美元之间，在 11 月跌至最低仅为 208.2 亿美元，跌幅达 40.5%。\n\n\n\n\n\nNFT 市场交易量变化（图源：intotheblock）\n\n\n\n\nNFT 市场交易量的峰值出现在 1 月，最高单日交易量超过了 9.91 亿美元。5 月 1 日也创造了一个小的峰值，当日 Otherdeed 系列 NFT 24 小时交易额超过了 3.75 亿美元。随着市场下跌，NFT 市场交易量不断萎靡，在 11 月曾有多天的日交易量不到 1,500 万美元。\n\n\n\n\n\nNFT 的持有者人数（钱包数）\n\n（图源：NFTGO）\n\n\n\n\n\nNFT 的持有者人数（钱包数）维持了 2021 年的增长势头，从 144.6 万增长至…",
-          "link": "https://www.theblockbeats.info/news/33369",
-          "publishedOn": "2022-12-29T03:34:06.000Z",
-          "wordCount": null,
-          "title": "NFT的2022：造神结束，细分开始",
-          "imageUrl": null
         }
       ]
     },
