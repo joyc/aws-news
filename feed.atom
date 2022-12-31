@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2022-12-31T00:35:31.374Z</updated>
+    <updated>2022-12-31T06:09:18.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HashKey Capital 2022年度复盘]]></title>
+        <id>https://www.theblockbeats.info/news/33430</id>
+        <link href="https://www.theblockbeats.info/news/33430"/>
+        <updated>2022-12-31T04:12:40.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：HashKey Capital
+ 
+2022，是我们聚焦区块链及加密投资的第 7 年。感谢所有创业者和投资人的信任与支持。目前，HashKey Capital 的资产管理规模已超 10 亿美金。
+
+
+2022 年，HashKey Capital 持续深化全球化投资， 覆盖区块链及加密全生态。其中，重点布局基础设施、 协议、数据层、Web3 等赛道，同时关注数据安全、托管、DID、NFT、Metaverse、GameFi、应用等领域。纵横结合 双管齐下：
+ 
+纵：
+
+
+- 深耕技术社区，第一时间发现社区新动向和新的技术方向
+
+
+- 研究驱动型投资，参考研究团队的独立报告，对 ZK、跨链、MPC、数据、游戏等垂直赛道深度挖掘。
+ 
+横：
+
+
+- 通过黑客松、生态基金、Grant 等方式，与几大公链基金会建立长期的深度合作关系
+
+
+- 与全球同业投资机构密切合作，分享优质项目，助推其迅速成长
+
+
+- 以被投生态（超过 300 家被投企业）推荐新项目的方式，带动对优质项目的整体覆盖
+ 
+HashKey Capital = 六边形 VC?
+ 
+l 投得早  早期赛道充分挖掘
+
+
+以超前的行业认知为投资人捕获高回报
+已投项目中，68 个项目为首轮融资
+同时，在早期阶段，帮助项目完成长期发展的战略构想
+ 
+l 投后管理创造价值
+
+
+HashKey 护航企业稳健成长
+根据项目的阶段不同 提供全方位、阶梯式投后服务
+为项目对接资源、招兵买马、打响名声的同时也督促其合规运营
+2022 年，93 家被投企业获得后续融资
+ 
+l 三期基金顺利完成募资   
+
+
+2022 年，我们启动了 HashKey 三期基金，
+顺利完成近 5 亿美金的募资，
+获得了主权基金、知名互联网巨头等机构投资人的认可
+ 
+l 两地合规牌照获准
+
+
+香港：9 号牌升级，未来可百分之百投资于加密资产
+新加坡：CMS…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密资产市场监管法MiCA，能否让欧盟全面拥抱Web3？]]></title>
         <id>https://www.theblockbeats.info/news/33423</id>
@@ -875,95 +939,6 @@ NFT 的持有者人数（钱包数）
 
 
 NFT 的持有者人数（钱包数）维持了 2021 年的增长势头，从 144.6 万增长至…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT交易指南：如何避免成为接盘侠？]]></title>
-        <id>https://www.theblockbeats.info/news/33332</id>
-        <link href="https://www.theblockbeats.info/news/33332"/>
-        <updated>2022-12-28T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《NFT 交易指南：如果避免成为接盘侠？》
-原文作者：@RiceRiddler
-原文编译：DeFi 之道
-
-
-
-交易 NFT 的有两类人：
-
-
-- 投资者
-- 流动性退出者（他们自认为是投资者）
-
-
-那么如何才能尽可能避免被退出流动性呢？这篇文章是投资 NFT 的速成课……
-
-
-
-1. DYOR——自己做研究！
-
-
-对于你考虑购买的每一个 NFT，请坚持亲自进行研究。
-
-
-不要仅仅因为别人的建议就买某个 NFT——这是避免被退出流动性的第一步。
-
-
-我不在乎是谁告诉你或为什么告诉你要买某个 NFT——自己去找出这些问题的答案：
-
-
-- 为什么 这个 NFT 正在上涨或可能上涨
-- 谁在背后推动这一切
-- 他们的计划是什么
-- 他们什么时候会部署这些计划
-
-
-你计划持有这个 NFT 的时间越长，这些答案就越重要。
-
-
-2. 分类
-
-
-在你做完研究之后，根据你的研究想想你的「退出点」是什么，并且要足够自律，坚持下去。
-
-
-将你的 NFT 分为 4 类：
-短期
-中期
-长期
-钻石手
-
-
-那么这些到底是什么意思呢？
-
-
-短期
-
-
-这些 NFT 的风险最高——它们会在你的钱包中花费最少的时间。
-
-
-这些是快速交易游戏，交易员在短时间内看到了地板价因纯粹的炒作或预期而大幅上涨。
-
-
-NFT 交易员使用包括 @curiotools‌、@tinyastroNFT‌、@Promintcc‌ 等工具追踪那些地板价被扫荡的 NFT，并选择他们认为成交量将超过降价的 NFT。
-
-
-对短期炒作要非常小心。
-
-
-在一两个小时以内，成交量可能会枯竭，地板价可能会暴跌……要非常仔细地监控这些短期投资。
-
-
-提示：设置一个退出价格点，以及一个备用退出价格点，这样如果事情没有按照你想要的方式进行，你的投资也不至于归零。
-
-
-狙击和炒作稀有 NFT
-
-
-对短期类别的一个小的附带说明。
-在 NFT 揭晓后…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
