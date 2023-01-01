@@ -186,6 +186,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theblockbeats.info/news/33369",
+          "author": null,
+          "description": "撰文：0xLaughing，律动 BlockBeats  \n\n\n2021 年是 NFT 开始走向大众的一年，「NFT」当选了《柯林斯词典》2021 年度词汇，2021 年也因此被很多人称为 NFT 元年；而 2022 年则是伴随着新项目和用例不断涌出，对 NFT 的未来不断探索的一年，但是这一年对于加密货币和 NFT 来说是一段艰难的旅程。加密货币世界之外更广泛的市场低迷将 NFT 市场拖入熊市，Luna 暴雷、FTX 倒闭事件本身以及造成的更深层次影响让加密市场雪上加霜，数十亿美元从生态系统中消失，监管和刑事调查也随之增加。\n\n\n\n\n2022 年的 NFT 市场，从 PFP 系列的激增，到时尚、音乐、娱乐、游戏和元宇宙体验的探索性尝试，这些新想法和实验在证明它们不仅仅是区块链上的「小图片」，同时也见证了无数成功和失败，让我们一同回顾一下吧。\n\n\n\n\n2022 年整体概况：至明与至暗时刻交替\n\n\n\n\n\n市场总市值变化（图源：NFTGO）\n\n\n\n\nNFT 市场总市值在 3 月曾达到峰值为 349.6 亿美元，自 5 月下跌后持续低迷，总市值持续维持在 210 至 230 亿美元之间，在 11 月跌至最低仅为 208.2 亿美元，跌幅达 40.5%。\n\n\n\n\n\nNFT 市场交易量变化（图源：intotheblock）\n\n\n\n\nNFT 市场交易量的峰值出现在 1 月，最高单日交易量超过了 9.91 亿美元。5 月 1 日也创造了一个小的峰值，当日 Otherdeed 系列 NFT 24 小时交易额超过了 3.75 亿美元。随着市场下跌，NFT 市场交易量不断萎靡，在 11 月曾有多天的日交易量不到 1,500 万美元。\n\n\n\n\n\nNFT 的持有者人数（钱包数）\n\n（图源：NFTGO）\n\n\n\n\n\nNFT 的持有者人数（钱包数）维持了 2021 年的增长势头，从 144.6 万增长至…",
+          "link": "https://www.theblockbeats.info/news/33369",
+          "publishedOn": "2022-12-29T23:21:07.000Z",
+          "wordCount": null,
+          "title": "NFT的2022：造神结束，细分开始",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33374",
           "author": null,
           "description": "原文标题：《\n\n\n\nBuidler DAO 蝗虫精选（21）：加密市场总结&来年展望的必读文章》\n原文来源：\n\nBuidler DAO\n\n\n\n深度精选是我们推荐的本周市场热议主题下必读文章，取材自 Buidler DAO 认知蝗虫计划每日推送；在这里，Web3 Native 的资深读者会从繁杂的信息源中抽取优质文章的核心内容与个人的深度思考。\n\n\n时间线来到 2022 年末，走进全景式的市场回顾与分析。从 a16z 合伙人的投资原则出发，到其理念以及在执行投资过程中的标准阐述；从 NFT 的市场现状与未来预测，到 NFTFi 核心机制的解读；从以太坊生态系统的应用分类，到「瘦应用」的价值解读；从去中心化存储的概览，到链上数据总结。本文涵盖了 2022 年末的宏观回顾与未来展望，并总结了各个赛道中有潜力发展的方向。阅览下文并了解核心关点，欢迎共同讨论！\n\n\n全文 6300 字，预计阅读时间 16 分钟\n\n\n文章速览：\n\n\n01/ 对话 a16z 合伙人 Chris Dixon：投资原则、技术史中的加密市场和来年展望 @wes\n02/ NFT 市场的未来之路 @SCaesar\n03/ 2022 年末总结：去中心化存储的现状与未来 @ 猫老大\n04/ Vitalik：以太坊应用生态系统令人兴奋的五个应用 @wes\n05/ 2022 年链上分析年度总结 – Glassnode @Hugo\n06/ Coinbase：2023 年 Crypto 市场展望 @ 猫老大\n07/ NFTFi 的核心机制和七个子赛道分析 @memeswap\n08/ Thin Applications 瘦应用 @wenchuan\n\n\n对话 a16z 合伙人 Chris Dixon：投资原则、技术史中的加密市场和来年展望 @wes\n\n\n1. a16z 的投资策略和对加密项目如何建立信任的看法：要么必须全部在链上，…",
@@ -203,36 +213,6 @@
           "publishedOn": "2022-12-29T12:58:30.000Z",
           "wordCount": null,
           "title": "OP Research：2023 Crypto Nomad启航指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33400",
-          "author": null,
-          "description": "原文标题：《\n\nDeFi 是前进的方向，但它需要进化\n\n》\n原文作者：Jesus Rodriguez & IntoTheBlock 联合创始人\n原文编译：Block unicorn\n\n\nDeFi 的技术基础已被证明对过去几个月的灾难性市场事件具有令人难以置信的弹性。在 DeFi 轨道上构建新一代金融服务的机会从未如此之大，但这个行业需要解决一些显著的挑战。\n\n\n加密市场最近发生的事件再次确认了去中心化金融 (DeFi) 的价值主张，它是数字资产未来的核心组成部分之一。然而，DeFi 领域也受到了市场变化的影响，因为 DeFi 的许多顶级参与者实际上已经消失了，这些事件的组合为 DeFi 的未来创造了一个非常强大的摩擦。在某些方面，集中式金融 (CeFi) 机构的挑战应该有利于 DeFi 协议的采用。另一方面，引发最近 DeFi 夏天的基本市场条件已经不复存在。虽然我们都同意 DeFi 应该是加密市场下一阶段的关键组成部分，但具体细节并非微不足道，很可能需要行业进行重大变革。\n\n\nDeFi 采用悖论\n\n\n从哲学的角度来看，DeFi 是一个包含了去中心化、抵制审查和金融包容性的真正精神的运动。最近的 DeFi 热潮既有协议创新的巨大水平，但也有不相称的人工激励浪潮，煽动了不可持续的收益率，吸引了加密货币领域一些最大的公司参与。最近加密货币市场构成的变化，导致一些协议的总价值锁定（TVL）处于多年来的低点，一些 DeFi 生态系统的活动几乎不存在。尽管如此，DeFi 协议在很大程度上仍然保持着令人难以置信的弹性，而加密货币中一些最大的中心化机构已经完全崩盘了。\n\n\n加密货币市场相对较小，而 CeFi 和 DeFi 以一种几乎矛盾的方式交织在一起。虽然 DeFi 基础设施能够维持最近的市场震荡，但 CeFi 机构的崩溃给 DeFi 协议带来了很大的压力。\n\n\n简单地说，DeFi 在…",
-          "link": "https://www.theblockbeats.info/news/33400",
-          "publishedOn": "2022-12-29T10:48:04.000Z",
-          "wordCount": null,
-          "title": "DeFi经受住了市场考验，但仍有挑战需要解决",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33398",
-          "author": null,
-          "description": "随着近两年行业的高速发展，加密行业无疑已经步入了多链共存的时代。目前仅被 DefiLamma 收录的公链数量就已经超过了 150 条，多链共存的态势越发明显，用户对于跨链的需求也水涨船高，跨链桥已经成为了用户不可或缺的基础设施。\n\n\n\n\n而在竞争异常激烈的第三方跨链市场中，Multichain（原 Anyswap）一直以极高的市场占有率保持行业内的领先优势。截止 2023 年 12 月 29 日，Multichain 的总跨链交易量达到 952.6 亿美元，累积完成跨链交易 455 万笔，总用户数达到 795,188 人，手续费总收入达到 3867 万美元，其中用于 veMULTI 的激励金额也超过了 620 万美元。\n\n\n那么，相较于其他众多第三方跨链协议，Multichain 在技术上有哪些独门秘籍，其对跨链市场未来的发展方向又有什么独到的见解？今天，律动 BlockBeats 专门采访了来自 Multichain 的联合创始人 Alfred XU，让我们听听他对这些问题的思考。\n\n\n\n\n头部效应显现，Multichain 如何巩固自己的领先优势？\n\n\n\n\n律动 BlockBeats：我们看到随着市场竞争的加剧，在 DEX 以及借贷等细分赛道都表现出了较为明显的头部效应。您认为在第三方跨链市场会出现类似的现象吗，Multichain 又将如何巩固自己的市场优势？\n\n\n\n\nAlfred XU：我们不认为在跨链领域哪一方可以一家独大，或仅存在一种终极性解决方案。当一个赛道成为行业发展必需，行业需求就必然将进一步多样化，因此这个赛道一定会百家争鸣，百花齐放。如同公链的发展一样，无论最开始是什么状态，最终都会变成多链并存。\n\n\n\n\n现阶段，Multichain 在资产跨链领域是领先的。据第三方数据平台 Defillama 数据显示，Multichain 实时的交易数据排名都在 …",
-          "link": "https://www.theblockbeats.info/news/33398",
-          "publishedOn": "2022-12-29T10:48:04.000Z",
-          "wordCount": null,
-          "title": "专访Multichain联合创始人：如何在竞争激烈的跨链市场中保持领先",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33395",
-          "author": null,
-          "description": "原文标题：《DApp 年度报告：4464 个活跃 DApp，以太坊年活跃地址数跌至第三》\n原文作者：Carol，PANews\n\n\n\n\n\n\n\n\n随着 DeFi 和 NFT 的发展，DApp 在区块链成功落地 C 端的道路上已经走出了一大步，Web3.0 的轮廓隐约可见。但是，在 2022 年，受到市场整体环境变化的影响，DApp 的发展并没有出现如前两年那般的突进，总体上较为平稳。除了年初出现了 M2E 的热潮以外，还有存储和社交媒体类 DApp 受到多方关注，不过这些新变化都还处于量变的积累中，尚没有形成推动行业质变的力量。\n\n\n\n\nDApp 对行业发展的重要性不言而喻，本文 PANews 旗下数据新闻栏目 PAData 将回顾其过去一年的发展情况，将对 Ethereum、EOS、Tron、Solana、Avalanche、BNB Chain、Polygon、Optimism 这 8 条公链全部 4464 个 DApp 现状进行分析，同时还将对 Games（游戏）、DeFi、Marketplace（交易市场）、Collectibles（NFT 藏品）、Social&Media（社交媒体）这 5 大 DApp 类型中用户活跃度前 10 的 50 个 DApp 进行分析，试图从「公链 x 类型 x 用户」的交叉视角全面展现 DApp 的 2022 年。\n\n\n\n\n内容提要：\n\n\n\n\n1）BNB Chain 和 Ethereum 上的 DApp 都主要有 3 种类型构成，而且所有类型全覆盖，但其他 6 条公链上的生态则只有 1-2 种类型构成，且部分类型缺失。Ethereum 上的 Collectibles 已超越 DeFi 成为主导类型，数量约占总数的 50%。\n\n\n\n\n2）按照每个活跃 DApp 最近 30 天日均活跃地址数来预估全年活跃地址数，8 条公链 4464 个活跃 D…",
-          "link": "https://www.theblockbeats.info/news/33395",
-          "publishedOn": "2022-12-29T09:48:04.000Z",
-          "wordCount": null,
-          "title": "DApp年度报告：头部DApp月均总营收约1.52亿美元，以太坊年活跃地址数跌至第三",
           "imageUrl": null
         }
       ]
