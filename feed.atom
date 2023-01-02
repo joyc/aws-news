@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-02T00:37:26.185Z</updated>
+    <updated>2023-01-02T06:09:58.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dragonfly Capital合伙人Haseeb专访，BTC 成为真正的数字黄金还需10-20年]]></title>
+        <id>https://www.theblockbeats.info/news/33452</id>
+        <link href="https://www.theblockbeats.info/news/33452"/>
+        <updated>2023-01-02T03:58:16.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Miles Deutscher，加密分析师；Haseeb Qureshi，Dragonfly Capital 合伙人
+原文编译：Leo，BlockBeats
+
+
+此前，加密分析师 Miles Deutscher 采访了 Dragonfly Capital 合伙人 Haseeb Qureshi，也是 Miles 主持的「Crypto For 2023」中的一期，两人谈论了很多 Crypto 领域的观点和展望，是很有内容的一次对话，BlockBeats 将其整理编译如下：
+
+
+Miles：欢迎 Dragonfly Capital 合伙人 Haseeb 参加本次采访，我一直想着采访你，有很多话题要谈，比如 Dragonfly Capital 、你在 2023 年看好的 token、本次熊市可能会持续多久、未来有哪些好项目以及如何以散户投资者的身份进入市场等等，所以我们有很多可讨论的主题。
+
+
+
+
+Haseeb：我们从哪开始？
+
+
+
+
+Miles：先介绍一下你自己和你的背景。
+
+
+
+
+Haseeb：好的，我选择了一条迂回的路进入加密领域，16 岁到 21 岁期间，我曾是一名职业德扑玩家，世界上十大无限制扑克玩家之一，赚了很多钱，很多扑克玩家最终找到了进入加密的途径，但我并没有直接涉足加密，21 岁时我退出职业扑克生涯后，回到学校成为了一名软件工程师，2017 年我在 Airbnb 工作时第一次发现加密漏洞，首先在一家名为 21 Lnc 的公司，后来他们被 Coinbase 收购，然后我开始了自己的创业，致力于稳定币，后来被 Naval Ravikant 招募加入了一个名为 MetaStable Capital 的基金，这是于 2014 年成立的最早的加密基金之一，是我开始投资的地方，在 2017-2018 年间我在那进行了很多早期投资，主要投资于像 L1 L2 这样的加密…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：让800万人了解Web3的一年；NFT造神结束细分开始；Multicoin基金回撤90%]]></title>
         <id>https://www.theblockbeats.info/news/33451</id>
@@ -263,16 +295,6 @@ l 两地合规牌照获准
 
 
 2022 年，BlockBeats 在运营策略上做出了很大调整，主动停更了一些渠道的媒体账号，将用户集中至 BlockBeats 的网站与 APP。回顾全年，新策略也带来了显著成效。在 2022 年，有 800 万独立用户通过 BlockBeats 网站与 APP 了解到了 Web3 行业的最新资讯。在 5 月加密世界迎来大幅波动，有超过 500 万名读者阅读了我们撰写的《84…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密资产市场监管法MiCA，能否让欧盟全面拥抱Web3？]]></title>
-        <id>https://www.theblockbeats.info/news/33423</id>
-        <link href="https://www.theblockbeats.info/news/33423"/>
-        <updated>2022-12-30T14:33:38.000Z</updated>
-        <summary type="html"><![CDATA[加密资产市场监管法MiCA，能否让欧盟全面拥抱Web3？]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
