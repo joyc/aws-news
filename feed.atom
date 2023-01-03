@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-03T12:13:24.582Z</updated>
+    <updated>2023-01-03T18:09:07.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[要短期回报也要长期发展，从基本原则进行Token设计]]></title>
+        <id>https://www.theblockbeats.info/news/33517</id>
+        <link href="https://www.theblockbeats.info/news/33517"/>
+        <updated>2023-01-03T14:13:23.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《要短期回报也要长期发展，从基本原则进行代币设计》
+原文来源：
+
+FastDaily
+
+
+
+在过去的两年里，许多协议已经建立了Token经济学模型，很多一心赚钱的项目方为了让投资者们一股脑的把钱放进来，设计的经济模型更多考虑的是短期回报，而牺牲掉了长期可持续性。
+
+
+但我们都知道这样是无法活到下一波加密浪潮来临的，冬天的季节很适合让 Builder 沉下心来精心设计基础良好的Token，这些设计可以为下一代协议提供可持续的结果。
+
+
+在我们今天的内容里，给各位 builder 提供了一个新视角。从我们认为协议Token应该遵循两个基本设计原则展开讨论。
+
+
+Token经济学应该协调那些参与者难以自行有效、经济地提供的公共利益。Token经济学应该将价值导向那些创造价值的人，优先将价值分配给高效用群体，而不是参与者之间的价值转移。
+
+
+类似于「流动性挖矿」框架，这些设计原则是基于理性和价值最大化的经济交换的基本理念。天下没有免费的午餐，短期的噱头往往以牺牲持久的价值为代价。无论是项目方还是我们参与者都应该寻找那些清晰地创造和分配基本价值的设计，并对那些没有这样做的设计持怀疑态度。
+
+
+
+
+
+好的经济模型的重要性
+
+
+「Token经济学」这个词的定义很模糊，也很吸引人。它是一个包罗万象的术语，包括以下所有设计类别：
+
+
+初始供应和给团队、投资者、社区和其他利益相关者的分配
+包括Token购买、空投、赠款和合作关系的分配方法
+用户、服务提供商和协议之间的收入分配
+资金规模、结构和预期用途
+包括通货膨胀，铸币/燃烧权和供应上限的发行计划
+包括投票、托管、质押加权、归属和衡量标准的Token治理
+费用、罚款等矿工和验证者补偿，
+
+
+
+协议原生Token与外部Token的使用 (例如 ETH、USDC)
+
+
+在本文中，我们将把「Token经济学」视为基于Token的激励分配。…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[致所有人：今天如何快速角色化进入Web3]]></title>
+        <id>https://www.theblockbeats.info/news/33494</id>
+        <link href="https://www.theblockbeats.info/news/33494"/>
+        <updated>2023-01-03T12:16:15.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《致所有人 - 今天如何快速角色化进入 Web3》
+原文作者：0xkookoo
+
+
+标题解读
+
+
+其实一直都想写这么一篇文章，但是有三个原因没有动笔。
+
+
+一是行业变化太快写不过来，二是觉得还没有完全准备好，三是近期生活与工作上有点小忙。
+
+
+这次 Moledao 邀请我作为 Web3 系列课程导读导师与主持人，双重身份，促使我下定决心动笔了。
+
+
+文章标题改了很多版，最终我按照 6W2H 八荒六合唯我独尊功法所述定了下来，
+
+
+Who: 所有人
+When: 今天
+Where: Web3 行业
+Why: N/A（每个人原因不同，我也不想辩论为什么要加入 Web3）
+Which: 角色化进入 Web3（因为不是所有人都想融入 Web3，所以进来看看比较合适，当然你站在外面看也行，但我觉得站在外面看不到细节）
+What: 即本文要讲的内容
+How: 根据自身经历分享怎么做可能比较好
+How much: 没有什么代价，看完本文按照你自己的节奏来即可
+
+
+目录
+
+
+Web3 全景概述
+按照时间线划分
+按照领域划分
+按照角色划分
+学习方法
+学习资源
+结语
+References
+
+
+Web3 全景概述
+
+
+按照时间线划分 
+
+
+The 2000s
+
+
+1976 年，斯坦福大学的两位学者提出了 public key cryptography 的概念
+
+
+1980s，David Chaum 与 Stefan Brands 提出了以发行者为主的 ecash 协议
+
+
+1992 年，密码学家 Cynthia Dwork 与 Moni Naor 首次认为这种通过计算来解决难题的方式可能会有一些价值（在密码学上）
+
+
+1997 年，hashcash 的发明者 Adam Back 再次独立提出了同一观点，他也认为这种模式具备一定的价值
+
+
+同一时代，Wei Dai 与 Nick Szabo…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polkadot发布2022年综述：平行链达74条，Dapp超过300个]]></title>
+        <id>https://www.theblockbeats.info/news/33519</id>
+        <link href="https://www.theblockbeats.info/news/33519"/>
+        <updated>2023-01-03T12:16:15.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Web3 Foundation
+原文编译：Polkadot 中文平台
+
+
+
+
+尽管该行业经历了艰难的一年，但 Polkadot 和 Kusama 社区仍在忙于构建世界上最大、最多样化、面向用例的 Layer-1 区块链生态系统，在构建更好的网络方面取得了长足的进步。
+
+
+
+
+
+
+
+
+
+数据
+
+
+
+
+Polkadot 社区在整个生态系统中拥有 74 条平行链、300 多个 dapp、550 多个项目和每月 2500 名活跃的开发人员，自平行链上线以来的短短一年多时间里，Polkadot 社区取得了令人难以置信的壮举，并且还在继续发展。
+
+
+
+
+XCM
+
+
+
+
+XCM（Cross-Consensus Message）推出后，Polkadot 生态系统开启了安全跨链互操作的新时代，发送了超过 350,000 次 XCM 转账，朝着解锁安全交叉共识桥接迈出了一大步。
+
+
+
+
+XCMP
+
+
+
+
+加上即将推出的 XCMP，这将结束阻碍上一代桥接技术的「最薄弱环节」问题，该部分仅在过去一年就造成了 25 亿美元的损失。
+
+
+
+
+Substrate
+
+
+
+
+由于 Polkadot 行业领先的可升级性和治理功能，Substrate 区块链现已进行了近 1000 次无缝、无分叉升级，其中 2022 年在 Polkadot 上进行了 15 次，表明区块链技术可以按照创新的步伐发展。
+
+
+
+
+生态合作
+
+
+
+
+得益于一些项目之间的合作关系，生态采用产生了突出的进展，这些合作包括：Astar 与 docomo、Efinity 与 Square Enix、Kilt 与 dena News，展示了为什么 Polkadot 是快速发展的 Web3 机会的完美家园。
+
+
+
+
+丰富用例
+
+
+
+
+全年，Polkadot 上的生态系统团队、项目和 dapp 不断达到区块链可能性的新高度，证明 Polka…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何依靠加密货币波动率指数来获取收益？]]></title>
         <id>https://www.theblockbeats.info/news/33492</id>
@@ -473,63 +681,6 @@ DeFi Lease 是一套智能合约体系，借款人在确定要预付的押金和
 
 
 Nolus 协议将首先支持 Cosmos 生态的主流 AMM Osmosis，Nolus 上的每一个借贷头寸都可以通过 Osmosis 的流动性池进行交易和 LP 活动，头寸的清算也在 Osmosi…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game 2.0时代——引入区块链]]></title>
-        <id>https://www.theblockbeats.info/news/33449</id>
-        <link href="https://www.theblockbeats.info/news/33449"/>
-        <updated>2023-01-01T04:23:59.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Game 2.0》
-原文作者：guiltygyoza
-
-
-原文编译：Kxp，BlockBeats
-
-
-
-
-今天我们正处于游戏 1.0 阶段，但随着可验证计算技术的发展，我们将迎来游戏 2.0 时代。
-
-
-
-
-电子游戏经历了多轮演变，从早期的雅达利游戏、街机游戏、家庭游戏，到多人联网游戏和手机游戏——这一系列演变塑造出了电子游戏的各种属性——丰富的互动性、社交性、竞争与匹配机制、沉浸感、非线性叙事、按需获取多巴胺驱动的游戏循环——所有这些都归功于内存容量、计算能力、视听保真度、网络速度以及覆盖范围的指数级增长。
-
-
-
-
-区块链技术对电子游戏产生了与以往完全不同的影响。如果说手机的出现让游戏有了休闲性，那么区块链技术则将真正赋予游戏以重要性。区块链是一个「强劲」的计算平台，它在管理状态差异上的规则可以抵御各种类型的国家级攻击。这意味着，「休闲类链上游戏」会成为一个矛盾修饰语。不过话说回来，区块链的引入究竟将如何改变电子游戏？
-
-
-
-
-我们至少可以从两个趋势中探寻到蛛丝马迹：电子游戏中用户生成内容的增加，以及链上 DeFi 协议的兴起——这两个趋势向我们展示了人类欲望的一些基本特征：渴望以创造者的身份去积极地创造和表达，而不是一味地被动消费。在创作内容时，无论公开编辑页面或许可协议有着怎样的限制，玩家都可以体验一把成为游戏开发者的感觉。
-
-
-
-
-在无需许可的智能合约完成部署之后，程序员便可以设计出公开透明的金融产品，任何能够接触到底层区块链或 Rollup 的人都将能够直接获取到这些产品——这在几年之前还是无法想象的事情。
-
-
-
-
-最近的统计数据显示，在美国，游戏玩家与游戏行业员工之间存在着约 1000 倍的数量差。借用 Web 1.0 与 Web 2.0 的概念来看的话，我们今天仍主要处于游戏 1.0 阶段。在我们的印象中，游戏玩家的角色也仍然是游戏逻辑与内容的消费者而非创造者。
-
-
-
-
-
-
-
-因此，有人预测说区块链将引领我们进入游戏 2.0 时代。随着所有权在强不可变类执行平台上的成功实现，这些平台的计算能力因可验证计算的不断创新而得以扩展（证明系统、证明递归和聚合、Rollup 层架构、序列器去中心化、硬件加速等），再加上其编程范式正努力实现无需许可的可组合性和互操作性，我们正走向这样一个未来：全世界的人都能直接参与到核心游戏系统的创造与升级——不仅仅能对游戏物品、模式和地图进行定制，还可以用模块化、可组合的方式对游戏角色、AI 系统与物理系统做出设计，并且能借助互操作性真正拥有他们在不同平台或生态系统中所创建物品的所有权。
-
-
-原文链接
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
