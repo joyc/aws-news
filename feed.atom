@@ -2,10 +2,247 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-03T06:08:40.536Z</updated>
+    <updated>2023-01-03T12:13:24.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何依靠加密货币波动率指数来获取收益？]]></title>
+        <id>https://www.theblockbeats.info/news/33492</id>
+        <link href="https://www.theblockbeats.info/news/33492"/>
+        <updated>2023-01-03T08:24:31.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《如何依靠加密货币波动率指数来获取收益？》
+原文作者：korpi
+原文编译：深潮 TechFlow
+
+
+从价格上看，这段时间相当无聊，BTC 在很小的价格范围内波动...... 这是风暴前的平静？
+
+
+加密货币波动率指数（CVI）几乎在历史最低。
+
+
+如果你预测未来将会发生一些波动，那么你就可以利用 CVI 来赚钱。而且，你不必预测价格是涨还是跌。
+
+
+
+
+
+什么是加密货币波动率指数？
+
+
+CVI 是加密货币的 VIX 指数——一个追踪波动的指数。它由 COTI 团队 COTI Network 与原始 VIX 的创造者 Dan Galai 教授合作创建。其目的是为加密货币建立一个「市场恐惧指数」。
+
+
+CVI 的范围在 0 到 200 之间：0-85 低波动性 85-105 中波动性 105-200 高波动性。
+
+
+
+
+
+那么，如何依靠 CVI 赚钱？
+
+
+有两种方法：
+
+
+1. 押注波动率，
+2. 从别人押注中获利。
+
+
+如果你认为波动即将到来，CVI 将增加，无论价格的方向如何。
+
+
+你可以获取与 CVI 指数挂钩的 CVOL Token。通过它们的铸造网站或者在 SushiSwap 上购买，如果那里更便宜。
+
+
+
+
+
+但请注意资金费用。
+
+
+CVOL 
+
+Token
+
+有一个内置的资金费用：CVI 越低，费用越高。它以每日 Negative Rebase 的形式实施——你的 CVOL 
+
+Token
+
+的数量会减少。
+结论：只有当你预期 CVOL 
+
+Token
+
+很快就会波动上升时，才可以购买。
+
+
+
+
+
+如果你更愿意成为赌场，请将 USDC 存入 Theta Vault。
+
+
+Theta Vault 就像 $GLP 之于 $GMX——存款人与交易员的盈亏相反。目前的年利率是 36%，但当 CVI 爆增时，你也可能会亏钱。
+
+
+
+
+
+与 CVOL 
+
+Token
+
+不同，Theta Vault 是一种长期投资。交易者可能恰好以 Theta 存款人的成本为代价获利。但正如 $GLP 已经证明的那样，从长期来看，赌场总是赢家。
+
+
+最后的想法：
+
+
+CVI 是一个有趣的新的 DeFi 原语。在无聊的分叉洪流中终于出现了一些创新。该团队已经展示了他们的高超技能，而且路线图仍然充满了创新。绝对值得关注。
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V神眼中的聪明人：我为什么依旧看好Solana生态]]></title>
+        <id>https://www.theblockbeats.info/news/33490</id>
+        <link href="https://www.theblockbeats.info/news/33490"/>
+        <updated>2023-01-03T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+V 神眼中的聪明人：我为什么依旧看好 Solana 生态
+
+》
+原文作者：Placeholder VC 合伙人，Chris Burniske
+原文编译：PANews
+
+
+12 月 30 日，以太坊联合创始人「V 神」Vitalik Buterin 在社交媒体发文称：「一些聪明的人告诉我，Solana 是一个认真且聪明的开发社区，现在那些可怕、投机取巧的人已经被洗掉了，Solana 区块链将有一个光明的未来。虽然我很难从外部判断出这一点，但仍希望 Solana 社区有公平的机会茁壮成长。」
+
+
+那么，这个「聪明人」是谁呢？答案很可能是加密风投 Placeholder VC 合伙人 Chris Burniske。Chris Burniske 在社交媒体发文称，Vitalik Buterin 最近询问了他为什么喜欢且依然看好 Solana，因此他决定把告诉 Vitalik Buterin 的话公布并分享给加密社区，PANews 编译如下：
+
+
+Solana 之所以「令人着迷」，是因为其社区拥有一批铁杆且硬核的开发者和「技术怪咖」，这意味着相比于以太坊和 Cosmos，Solana 的链上创新更具独立性（当然，Placeholder VC 在 Solana、以太坊和 Cosmos 社区都很活跃）。有些社区贡献者是硬件迷，有些则热衷于网络优化，验证者则在 Solana 履行承诺。相比于那些金融投机主义者，Solana 上依然存在不少令人兴奋的 BUIDLer，而这也是 Solana Labs 联合创始人 Anatoly Yakovenko 所希望实现的愿景。
+
+
+虽然有人指责 Anatoly Yakovenko 背叛了加密货币理想，但其实他比 Vitalik Buterin 或 Cosmos 的 Ethan 更加务实，正如他最初愿景所期望的那样——将区块链技术推向数十…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从头了解Curve协议：DeFi乐高世界的重要积木]]></title>
+        <id>https://www.theblockbeats.info/news/33491</id>
+        <link href="https://www.theblockbeats.info/news/33491"/>
+        <updated>2023-01-03T07:57:31.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《被大空头狙击的 Curve 是什么路子——玩转 Defi 必懂的知识点》
+原文作者：0xLuo、Stefan，DeBox 研究院
+
+
+
+
+
+
+摘要
+
+
+Curve 作为一个以稳定币为主的去中心化交易平台被用户熟知，通过改进恒定乘积做市商模型和恒定和做市商模型，可为用户提供低滑点、低费用、低无常损失的稳定币交易体验。
+
+
+Curve 通过设计 VeToken 模型吸引了各大项目方积累 $veCRV、争夺 Curve 治理权之间的战争，力求在 Curve DAO 上拥有权力和影响力，并最终能够为其用户提供更高的收益，成为协议 Token 经济学的典范。同时也带动了 Convex 等相关若干生态协议的增长，形成项目生态的良性价值循环。Curve 还计划发行稳定币等不断扩大生态版图，激励生态持续发展，在未来依旧潜力无限。
+
+
+一、Curve 简介
+
+
+Curve Finance 由 Michael Egorov 创立，于 2020 年 1 月推出，旨在提供一个采用自动做市商（AMM）架构构建的去中心化交易平台（DEX），主要聚焦于 稳定币（USDT、USDC、DAI）、合成资产 / 衍生品 / 锚定资产（wBTC、renBTC、stETH）等。目前除了以 Ethereum 为主要业务阵地，还在 Fantom、Polygon、Avalanche、Arbitrum、Optimism 等进行多链部署。
+
+
+Curve 于 2020 年 8 月创建了 Curve DAO，并发行了原生
+
+Token
+
+ $CRV，之后协议 TVL（Total Value Locked，总锁定价值）开始稳步上升，一度成为 TVL 最大的去中心化交易所，在今年年初最高曾超过 240 亿美元。根据 DeFiLlama 的数据，在经历了整个加密世界动荡的一年后，该协议目前锁定的 TVL 仍居各大 DeF…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinList营销总监：熊市中如何做好Web3营销？]]></title>
+        <id>https://www.theblockbeats.info/news/33489</id>
+        <link href="https://www.theblockbeats.info/news/33489"/>
+        <updated>2023-01-03T06:57:31.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Alex Topchishvili，CoinList 营销总监
+原文编译：Linda，Web3 MKT
+
+
+导读：
+
+
+在熊市，项目的营销预算减少，用户的互动意愿也会降低。很多的 Web3 市场朋友都表达出「熊市很难做营销」的观点。 
+
+
+然而，事实真就如此吗？ 牛市用户积极性高，但所面临的营销竞争将会更大。熊市虽然预算减少，但仍有很多可借助的资源，让你有机会在下个牛市脱颖而出。
+
+
+本期内容的作者为 CoinList 营销总监，他从个人经验出发，具体分析熊市中可以如何做好营销。
+
+
+2022 年，加密行业早已不再拥有 2 万亿美元的市值，随之而来的是围绕 Web3 的大量热议。
+
+
+几个月来，随着加密市场的寒冬，营销人员（以及他们的预算）已经感受到了压力。
+
+
+全球 Web3 项目都处于比较低的情绪状态，营销人员也在等待市场回暖以进行更多的营销。
+
+
+但根据我的经验，这是一个错误。
+
+
+熊市提供了一个很好的营销机会，主要有以下三个原因：
+
+
+它的成本效益要高得多
+
+
+需要过滤的噪音要少得多
+
+
+这是一项在下一次牛市期间产生超额增长和回报的投资
+
+
+在这篇文章中，我将介绍熊市中营销的增长框架，并讨论新兴 Web3 项目应如何分配有限的营销资源。
+
+
+1. 定义你的增长指标
+
+
+牛市和观念并不是长期不变的，使用「Protocol」和「DAO」这类的术语也不能长期激发用户来使用你产品的需求，减少开发人员的工作量。因此，在考虑增长之前，针对不同项目，了解增长的具体指标是尤为重要的。
+
+
+虽然每个项目对增长的定义都有独特点，但有一些常见的 Web3 增长指标按类别可分为：
+
+
+L1/L2 协议：独立贡献开发者的数量、活跃钱包的数量、交互的数量、交易的数量和规模
+
+
+DeFi：锁定的总价值（TVL）、活跃钱包的数量、交互的数量
+
+
+游戏：活跃玩家数量、每个用户的交易量、公会…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第53周链上数据分析：巨鲸有测试盘面压力行为，踩踏情绪有所缓和]]></title>
         <id>https://www.theblockbeats.info/news/33482</id>
