@@ -2,10 +2,227 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-04T00:37:07.209Z</updated>
+    <updated>2023-01-04T06:10:14.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊核心开发者会议更新：上海升级、提款机制、坎昆升级......]]></title>
+        <id>https://www.theblockbeats.info/news/33528</id>
+        <link href="https://www.theblockbeats.info/news/33528"/>
+        <updated>2023-01-04T05:20:08.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+以太坊核心开发者会议更新 014
+
+》
+原文来源：AllCoreDevs Update
+原文作者：Tim Beiko
+原文编译：
+
+Ethereum.cn
+
+
+
+欢迎阅读新一期的 AllCoreDevs (以太坊核心开发者会议) 更新——2022 年的最后一期。
+
+
+尽管这些更新最初是每月系列，但节奏逐渐趋于每季度一更。读者可以把这些更新视为围绕 AllCoreDevs 发生的重大事件摘要。如果你想要了解更多细节，我推荐阅读 Christine Kim 的记录、 Ben Edginton 的共识层会议记录和我的 ACD 长推文，这些更新更频繁。
+
+
+话不多说，让我们开始吧！
+
+
+概要
+
+
+上海/Capella 升级的内容已经敲定了：提款、EOF 和一些小型修改...... 前提是它们不延迟提款 
+
+
+Blob 空间要来了：EIP-4844 将成为以太坊下一次升级的中心，它的召唤仪式很快就要开始
+
+
+在技术方面使得执行层和共识层的升级流程能互相协调的努力正在进行中。我们还看到关于在这个过程中更好地融入社区意见的积极讨论
+Protocol Guild (协议公会) 发布了一份中期试点报告，以及一份在 2023 年扩大一层维护者的规模并更好地给他们提供支持的大概计划 
+
+
+上海/Capella 升级
+
+
+在最近的一次 AllCoreDevs 上，客户端团队就上海 / Capella 升级的最终范围达成了共识。尽管升级的名字可能还有待商榷，但团队对它的范围已经明晰了。升级的主要功能是为质押者引入信标链提款。尽快推出这个功能是客户端团队不想妥协的事情，所以升级中的其他功能需要同时准备好，否则可能会被放弃。
+
+
+上海执行层规范列出了所有被纳入的 EIP：
+
+
+EIP-3540: EVM 对象格式 (EOF) v1
+
+EIP-3651: 降低访问 COINBASE 地址的…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密市场小幅度反弹，市场回暖牛回速归？]]></title>
+        <id>https://www.theblockbeats.info/news/33526</id>
+        <link href="https://www.theblockbeats.info/news/33526"/>
+        <updated>2023-01-04T04:54:08.000Z</updated>
+        <summary type="html"><![CDATA[市场回暖，币价上涨
+
+
+主流 Token 的回暖似乎也带动了山寨板块。包括 SRM、SOL 在内多个山寨 Token 出现较大幅度上涨。其中 Serum（SRM）上涨至 0.17 美元，24 小时涨幅 18.9%；Solana（SOL）连续两天拉升，短时突破 14 美元，24 小时涨幅近 25%。
+
+
+
+《比特币波动指数昨日回升至 52.08，单日涨幅 3.87%》
+
+
+
+比特币期权交易平台 LedgerX 推出的 BitVol（比特币波动）指数昨日回升至 52.08，相较于 1 月 2 日（50.14）单日涨幅 3.87%。该指数 2023 年 1 月 1 日跌至 49.67，创自 2019 年 4 月以来新低。
+
+据悉，BitVol 指数衡量从可交易的比特币期权价格中得出的 30 天预期隐含波动率。
+
+
+
+
+BlockBeats 注：隐含波动率，是指实际期权价格所隐含的波动率。它是利用 B-S 期权定价公式，将期权实际价格以及除波动率以外的其他参数代入公式而反推出的波动率。期权的实际价格是由众多期权交易者竞争而形成，因此，隐含波动率代表了市场参与者对于市场未来的看法和预期，从而被视为最接近当时的真实波动率。  
+
+
+
+
+
+虽然加密市场出现短暂回暖迹象，
+
+当前市场恐慌指数为 29，仍处于「恐慌」状态。 
+
+
+FTX 事件余波影响尚未结束，FTX 创始人 SBF 在纽约联邦法院对与 FTX 突然崩溃有关的八项刑事罪名指控表示不认罪，美国地方法院将审判日期定为 2023 年 10 月 2 日。DCG 仍深陷负债风波，与 Gemini 之间的借贷事宜尚未解决。对于加密市场来说仍然存在较多不确定因素，加之全球经济水平尚未恢复，
+
+加密社区短期内重拾信心仍比较困难。
+
+特此也许提醒用户注意风险，切勿盲目操作。
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：关于2023年的8个Web3游戏主题愿望清单]]></title>
+        <id>https://www.theblockbeats.info/news/33524</id>
+        <link href="https://www.theblockbeats.info/news/33524"/>
+        <updated>2023-01-04T03:54:08.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Bankless：关于 2023 年的 8 个 Web3 游戏主题愿望清单
+
+》
+原文作者：William M. Peaster
+原文编译：DeFi 之道
+ 
+毫无疑问，当我们展望未来时，包括我在内的许多加密领袖都认为 NFT 游戏生态系统将在 2023 年大放异彩。
+ 
+但是，为实现这重要的一年，我们应该希望在这个生态系统中看到什么呢？
+ 
+为此，我整理了一个愿望清单，也就是我（也许很快你也会）希望在 2023 年看到的更多 NFT 游戏领域的 8 个新兴主题。以下。
+ 
+1) 更深入、更丰富的玩法
+ 
+ 
+ 
+人们如此热爱游戏的原因之一是什么？它们允许我们测试和磨练我们的技能。
+ 
+这一点在具有深度的游戏中表现得最为明显，即它们提供了丰富的战术和战略游戏的可能性。从国际象棋到《炉石传说》都是这方面的例子。
+ 
+NFT 游戏生态系统的发展速度比以往任何时候都要快，但迄今为止，许多早期游戏都让人感觉「平淡无奇」，因为没有太多可做的事情，给玩家提供技能测试的机会也很少。目前，有一个项目正在朝着正确的方向努力，那就是 Axie Infinity。
+ 
+
+ 
+2022 年 4 月，Axie 的创造者 Sky Mavis 发布了 Axie Infinity: Origins，这是其原创战术卡牌对战游戏的优化版本，引入了卡牌更新、符咒和符文制作系统，以及实时战斗。正如你在上面的推文中所看到的，这些新元素让玩家能够通过独特的定制游戏风格享受到许多深度。
+ 
+当然，Axie Infinity: Origins 本身仍在进行中，但我希望在 2023 年看到更多项目跟随它「深入」的步伐。如果你有兴趣了解这款游戏，可以在 Sky Mavis 这篇指南中查看基础知识。
+ 
+2) 新的移动版本
+ 
+ 
+ 
+一部像样的智能手机比电脑或游戏机更便宜，所以手机游戏的可及性很高。
+ 
+我一…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOSG Ventures：Lido还能统治以太坊staking市场吗？]]></title>
+        <id>https://www.theblockbeats.info/news/33523</id>
+        <link href="https://www.theblockbeats.info/news/33523"/>
+        <updated>2023-01-04T03:54:08.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+IOSG Weekly Brief ｜Lido 还能统治以太坊 staking 市场吗？#156
+
+》
+原文作者：Momir
+原文来源：IOSG Ventures
+
+
+市场机会
+
+
+
+
+
+
+
+流动性质押是一个赢家通吃的市场吗？
+
+
+如果中心化交易平台在 ETH 质押市场上占主导地位，那将违背以太坊建设去中心化网络的目标。如下图所示，Lido 是 ETH 质押领域的头部项目，占据了大约 30% 的市场份额。
+
+
+
+
+
+
+尽管如此，社区中还是存在一部分声音限制 Lido 的市场份额。比如 Vitalik 就认为 staking 项目（包括中心化与去中心化的）应该对他们控制的 staking 数量进行自我限制，他建议 15% 作为他们的上限门槛。
+
+
+如果没有意识形态（去中心化）的顾虑，由于流动性、可组合性、网络效应、专业化和收益最大化，这可能是一个赢家通吃的市场类型。
+
+
+
+
+
+Lido 能占领多少市场份额？
+
+
+限制单个项目的市场份额的支持与反对的呼声主要论点总结如下：
+
+
+
+
+
+总结：
+
+
+1: Lido 不会施加任何自我限制措施。
+
+
+2: IMO 认为 Lido 分叉是不可避免的，但这样的分叉能占领多少市场是很难预料的，这取决于很多因素。比如 LDO 的治理行动，时机，来自分叉的治理创新，等等。
+
+
+3: 由于来自去中心化、中心化玩家的竞争，以及社区的压力，预计 Lido 在最好的情况下能占领 50% 的 staking 市场。
+
+
+4: 最现实的情况是，Lido 维持现状占据大约 30%  的市场份额。许多 Lido 储户选择 Lido 的部分原因是为了挖矿奖励，也可能有不可忽视的一部分 ETH 被押在杠杆上，这两类用户可能会在提款功能启用后优先提款。
+
+
+5: 与此同时，当取款功能被启用时，我们也期待着新的储户的流入。理由是在这种情况下，ETH LS…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要短期回报也要长期发展，从基本原则进行Token设计]]></title>
         <id>https://www.theblockbeats.info/news/33517</id>
