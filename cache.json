@@ -114,26 +114,6 @@
           "wordCount": null,
           "title": "Dragonfly Capital合伙人Haseeb专访，BTC 成为真正的数字黄金还需10-20年",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33451",
-          "author": null,
-          "description": "周末荐读：让800万人了解Web3的一年；NFT造神结束细分开始；Multicoin基金回撤90%",
-          "link": "https://www.theblockbeats.info/news/33451",
-          "publishedOn": "2023-01-01T09:47:29.000Z",
-          "wordCount": null,
-          "title": "周末荐读：让800万人了解Web3的一年；NFT造神结束细分开始；Multicoin基金回撤90%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33450",
-          "author": null,
-          "description": "原文作者：Jack，BlockBeats\n\n\n\n\n自加密市场「入熊」后，中心化机构一个接一个地暴雷，毫无风险管控、杠杆直接加到顶的投资交易策略，让行业参与者们对「杠杆」两个字避之不及。受市场的影响，去中心化金融世界也可以用「惨不忍睹」来形容，TVL 严重下降，交易量寥寥无几。然而就是在这种环境下，Nolus Protocol 这款声称可以实现 150% 杠杆率的 DeFi 借贷项目依旧吸引了我的目光。通过有趣的借贷和清算机制设计，Nolus 似乎在一定程度上解决了一直困扰 DeFi 资金利用率的「超额抵押困境」。\n\n\n\n\nDeFi Lease\n\n\n\n\nNolus 协议基于 Cosmos SDK 打造，意在去中心化的前提下实现超低手续费，同时通过 IBC 共享 Cosmos 生态的基础设施和流动性。团队针对当前 DeFi 领域超额抵押、高清算率引出的一系列问题，提出了「DeFi Lease」的概念。Nolus 团队将 DeFi Lease 定义为一个介于借款人和贷款人之间货币市场，通过这个货币市场，借款人可以将自己的资金杠杆提升至 150%，进而促进 DeFi 乃至整个加密领域的资金利用率。\n\n\n\n\n\n\n\n\n\nDeFi Lease 是一套智能合约体系，借款人在确定要预付的押金和贷款金额后，Nolus 便会自动帮借款人创建一个智能合约实体，然将首付押金和借出资金全部存入该实体中。借款人可以通过 Cosmos 的跨链账户 (ICA)，在 Cosmos 生态的其他主权链上执行各类 DeFi 操作，如交易、质押、提供流动性等，而 Nolus 协议则能够相对保持中立，减轻外部风险。\n\n\n\n\nNolus 协议将首先支持 Cosmos 生态的主流 AMM Osmosis，Nolus 上的每一个借贷头寸都可以通过 Osmosis 的流动性池进行交易和 LP 活动，头寸的清算也在 Osmosi…",
-          "link": "https://www.theblockbeats.info/news/33450",
-          "publishedOn": "2023-01-01T09:36:15.000Z",
-          "wordCount": null,
-          "title": "借贷协议Nolus Protocol：1.5倍的DeFi杠杆，敢加吗？",
-          "imageUrl": null
         }
       ]
     },
