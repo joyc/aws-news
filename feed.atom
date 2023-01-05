@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-05T00:38:48.316Z</updated>
+    <updated>2023-01-05T06:08:21.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分析Rollup快速最终性及其适用的应用场景]]></title>
+        <id>https://www.theblockbeats.info/news/33555</id>
+        <link href="https://www.theblockbeats.info/news/33555"/>
+        <updated>2023-01-05T03:29:48.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+一文分析 Rollup 快速最终性及其适用的应用场景
+
+》
+原文作者：Alex Beckett
+原文编译：东寻，DeFi 之道
+
+
+
+
+
+Celestia 的主要目标之一是通过提供最大数据吞吐量来扩展 rollups。在扩展数据吞吐量时，轻量级节点的要求可能会因更快的出块时间而变得臃肿。由于区块时间和轻节点开销之间存在权衡，因此需要找到一个合适的媒介。对于 Celestia，寻求这种合适的媒介导致了当前 15 秒的阻滞时间。
+
+
+
+
+出块时间稍慢的结果是 rollups 继承了它的最终性（Finality）。但是一些应用程序可能需要更快的最终性来实现其功能或性能。Rollups 只能和 Celestia 的出块时间一样慢，对吗？不完全是。
+
+
+
+
+单一排序器（Sequencer）
+
+
+
+
+首先，rollup 交易有两种最终性（Finality）的概念。
+
+
+Soft Finality：一个或一组排序器确认用户的交易将被包含在 Celestia 的一个区块中。
+
+
+Firm finality：Celestia 确认用户的交易被包含在一个最终的区块中。
+
+
+
+
+Soft Finality 可以为用户提供的保证是，排序器承诺将你的交易包含在 Celestia 上的一个区块中。如果他们不包括用户的交易，那么他们将以某种方式受到惩罚。
+
+
+
+
+现在，带有单个排序器的 rollups 可以轻松地提供软确认（Soft Confirmations）——它们是唯一的区块生产者。但是，如果没有问责机制让排序器在不诚实行为时受到惩罚，那么软确认只能提供一种弱形式的 Soft Finality。由于几乎没有 rollups 有 staked sequencer，因此如果他们对交易进行软确认并且不将其包含在下一个区块中，他们就不会受到惩罚。
+
+
+
+
+但是，单一的排序器只是一个中间步骤…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharding Capital：2023年Web3增长赛道预测]]></title>
+        <id>https://www.theblockbeats.info/news/33554</id>
+        <link href="https://www.theblockbeats.info/news/33554"/>
+        <updated>2023-01-05T03:24:48.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Sharding Capital
+
+
+2022 年的加密市场给出了一份非常「动荡」的年终答卷。2022 开年至今，在全球大类资产表现中，比特币 65% 左右的跌幅超过其他主流资产类别。市场的黑天鹅频频，从 5 月的 Luna 暴雷到 11 月的 FTX 崩盘以及各种次生灾害，2022 年的币圈从业者和机构全线受到不同程度的打击。
+ 
+2022 年是动荡的一年，也是收获的一年。每一次失败就是学习的机会。加密货币市场将会变得更成熟，也更具有韧性和弹性。以太坊于 9 月成功完成 Merge，使以太坊网络变成更强大的处理层和数据可用性层，作为基础设施为 rollup 提供服务，同时也为分片（Sharding）奠定基础。非同质化Token（NFT）将区块链技术带入主流文化，吸引了对金融加密货币不感兴趣的买家。  
+ 
+Sharding Capital 表示团队在 2022 年研究考察了超过 1 千个早期项目，仍有不少优秀创业者和 builder 在砥砺前行，并发声，「我们应该比想象中对 2023 更持有希冀，因为 2022 年接连不断的黑天鹅打下了很有利的入场基础。行业洗牌的时候正是弯道超越的最佳时机，无论是个人还是机构，大部分人越是害怕进场或者因此停止投资，更要积极地钻研和部署。」
+ 
+结合对 2023 年的积极期待，以下分享涵盖了 Sharding Capital 对新的一年加密货币的 5 大增长赛道。
+ 
+TL；DR
+
+
+1- NFT 作为核心资产本身将复苏走强 相关配套设施 NFTFi 将面临井喷式需求
+
+
+2- SocialFi 备受 Web3 用户瞩目和采用 智能合约钱包和 DID 有望助力用户渗透和网络效应的形成
+
+
+3- 被验证商业模式的 DeFi 应用将捕获更大价值 实现现金流有机增长
+
+
+4- 公链竞争格局中以太坊仍将占主导地位 L2 生态发展态势向好
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「二次质押」叙事的EigenLayer能在2023大放异彩吗？]]></title>
+        <id>https://www.theblockbeats.info/news/33556</id>
+        <link href="https://www.theblockbeats.info/news/33556"/>
+        <updated>2023-01-05T03:24:48.000Z</updated>
+        <summary type="html"><![CDATA[原文作者： pwIpor intern，加密研究员
+原文编译：Leo，BlockBeats
+
+
+谈论 2023 年加密大事件，多数加密人可能首先会想到即将到来的 3 月份以太坊上海升级，其中比较受关注的一点就是上海升级可能会促使以太坊质押的增长，虽然身处熊市，但以太坊质押仍处在早期阶段，仍可以长期增长，而对于项目本身来说，好好利用即将到来的质押热潮，就可能会分到很大一块「蛋糕」。目前市面上有很多以太坊质押协议，比如 Lido、Rocket Pool、Frax Finance 等，占据了很大部分的以太坊质押市场份额，但在创新上来说，引入「二次质押」叙事的 EigenLayer 可能有着很广阔的前景，加密研究员 pwIpor intern 撰写了一篇关于 EigenLayer 的文章，BlockBeats 编译如下：
+
+
+
+
+目前，很多人都很关注「流动性质押」这一叙事，也许是时候引入「二次质押」的概念了，为什么它会是提高网络经济安全的金融原语。
+
+
+
+
+比如像 EigenLayer 这样的协议，其潜力是在共识层利用 ETH 的二次质押，这包括在基于以太坊上构建的应用程序之间聚合和扩展质押 ETH 的验证用例，以增加其经济安全性。
+
+
+
+
+自 BTC 早期以来，已经进行了许多复杂的权衡取舍，旨在使网络能够抵御资源密集型攻击，这不是一蹴而就的事情，需要持续的努力来维护和扩展其加密经济担保，而这正是「二次质押」能够发挥作用的领域，与支持跨应用生态的分散安全性设计（这降低了攻击网络的成本）不同的是，二次质押是为了保护区块链而提供了额外的激励。
+
+
+
+
+这是通过一系列智能合约实现的，这些智能合约将利用二次质押 ETH 的用例，通过使用在共识层持续的选择加入机制，EigenLayer 允许用户使用他们锁定的 token 进行强制验证其他应用。
+
+
+
+
+
+
+
+
+
+共识和执行环境间的中间层正是…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你真的了解X to Earn赛道吗？建立X to Earn分类体系的分析逻辑]]></title>
         <id>https://www.theblockbeats.info/news/33532</id>
