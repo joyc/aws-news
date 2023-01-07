@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-07T06:08:53.028Z</updated>
+    <updated>2023-01-07T12:11:41.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近期你可以尝试的9个新项目]]></title>
+        <id>https://www.theblockbeats.info/news/33653</id>
+        <link href="https://www.theblockbeats.info/news/33653"/>
+        <updated>2023-01-07T04:30:20.000Z</updated>
+        <summary type="html"><![CDATA[近期你可以尝试的9个新项目]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[速览Polygon生态中那些备受期待的DeFi协议]]></title>
         <id>https://www.theblockbeats.info/news/33632</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33653",
+          "author": null,
+          "description": "近期你可以尝试的9个新项目",
+          "link": "https://www.theblockbeats.info/news/33653",
+          "publishedOn": "2023-01-07T04:30:20.000Z",
+          "wordCount": null,
+          "title": "近期你可以尝试的9个新项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33632",
           "author": null,
           "description": "原文标题：《一文速览 Polygon 生态中那些备受期待的 DeFi 协议》\n原文作者：Asif Khan \n原文编译：深潮 TechFlow\n\n\n为什么我认为 Polygon 将会成为未来 2-3 个月内的 DeFi 创新发生地？当人们专注于叙事时——建设者一直在努力解决问题。本文带你了解在 Polygon 上建立的独特、新颖的协议。\n\n\n1、TimeswapLabs\n\n\nTimeswapLabs，第一个完全去中心化的基于 AMM 的借贷协议，它提供：\n\n\n无预言机借贷\n不可清算\n市场驱动的贷款\n\n\n最后，长尾资产可以进行借贷，且不存在基于预言机的攻击风险。\n\n\n\n\n\n2、Mantis Swap\n\n\nMantis Swap 是一个新颖的单边 AMM，用于交易挂钩资产。承诺在某些清算期间比 Curve 甚至 Univ3 执行得更好。MantisSwap 引入了三个主要功能：\n\n\n单边流动性提供\n共享流动性机制\n\n\n\n减少无常损失\n\n\n\n\n\n3、SynFutures\n\n\nSynFutures 是一个去中心化的衍生品平台，是一个真正意义上的 DeFi 黑马。虽然在加密推特中很少有人谈论它，但他们已经默默地完成了 17 亿美元以上的交易量。\n\n\n\n\n\n4、Bob\n\n\nBob 是一个多链、多抵押的稳定币，增强了可选的隐私功能。\n\n\n基于隐私的稳定币是建立一个强大的加密货币支付系统的需要。你不想看到供应商查看你过去的所有交易。在申请或发放补助金、工资等方面，这也是一个问题。该团队已经在与各种支付供应商建立伙伴关系，为稳定币带来有机的使用。\n\n\n\n\n\n5、Tetu\n\n\nTetu 是一个高质量的团队，试图建立最复杂的收益率策略库。他们自过去 1.5 年以来一直在建设，是 Yearn Finance 的真正精神继承者。\n\n\n\n\n\n6、Synquote\n\n\nSynquote 正试图为 DeFi 带来最具流动性、价格最有效的期权，是一个真正的链上期权。\n\n\n该协议使用 RFQ 架构，由做市商填补用户提出的订单。期权的链上抵押品是完全抵押的。\n\n\n7、Mangrove DAO\n\n\nMangrove DAO 是新时代的 DeFi 原语，已经在 Polygon 上进行了软启动。\n\n\n它是一个基于订单簿的 DEX，允许流动性提供者发布任意的智能合约作为报价。这种新的灵活性使流动性提供者能够发布未完全提供的报价。\n\n\n\n\n\nMangrove 做出承诺，流动性可以：\n\n\n流动性的同时共享、借用、借出；显示在 Mangrove 的订单簿上，当且仅当有报价时，就可以随时取用。\n\n\n\n\n\n8、Polymarket\n\n\nPolymarket 可能是该领域中最有趣的博彩应用。它在 2022 年全年都显示出健康的交易量，并继续创造最有趣的赌注。\n\n\n\n\n\n9、Vi\n\n\nVi 是借贷市场动态风险框架的开拓者。v2 承诺了基于不断变化的 DeFi 市场清算动态利率曲线，这对清算至关重要，有可能解决像最近 Avi-Aave-Curve 市场攻击的事件。\n\n\n\n\n\n10. 当然还有 GainsNetwork 不容错过：\n\n\nDeFi 的 OG 永续协议\n团队从近两年开始建设\n已经完成了超过 220 亿美元的交易量\nAMM 风险管理的市场领导者，可能领先 1-2 年\n目前链上外汇的先行者\n\n\n\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
