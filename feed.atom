@@ -2,10 +2,244 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-07T00:36:54.609Z</updated>
+    <updated>2023-01-07T06:08:53.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[速览Polygon生态中那些备受期待的DeFi协议]]></title>
+        <id>https://www.theblockbeats.info/news/33632</id>
+        <link href="https://www.theblockbeats.info/news/33632"/>
+        <updated>2023-01-07T03:30:25.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《一文速览 Polygon 生态中那些备受期待的 DeFi 协议》
+原文作者：Asif Khan 
+原文编译：深潮 TechFlow
+
+
+为什么我认为 Polygon 将会成为未来 2-3 个月内的 DeFi 创新发生地？当人们专注于叙事时——建设者一直在努力解决问题。本文带你了解在 Polygon 上建立的独特、新颖的协议。
+
+
+1、TimeswapLabs
+
+
+TimeswapLabs，第一个完全去中心化的基于 AMM 的借贷协议，它提供：
+
+
+无预言机借贷
+不可清算
+市场驱动的贷款
+
+
+最后，长尾资产可以进行借贷，且不存在基于预言机的攻击风险。
+
+
+
+
+
+2、Mantis Swap
+
+
+Mantis Swap 是一个新颖的单边 AMM，用于交易挂钩资产。承诺在某些清算期间比 Curve 甚至 Univ3 执行得更好。MantisSwap 引入了三个主要功能：
+
+
+单边流动性提供
+共享流动性机制
+
+
+
+减少无常损失
+
+
+
+
+
+3、SynFutures
+
+
+SynFutures 是一个去中心化的衍生品平台，是一个真正意义上的 DeFi 黑马。虽然在加密推特中很少有人谈论它，但他们已经默默地完成了 17 亿美元以上的交易量。
+
+
+
+
+
+4、Bob
+
+
+Bob 是一个多链、多抵押的稳定币，增强了可选的隐私功能。
+
+
+基于隐私的稳定币是建立一个强大的加密货币支付系统的需要。你不想看到供应商查看你过去的所有交易。在申请或发放补助金、工资等方面，这也是一个问题。该团队已经在与各种支付供应商建立伙伴关系，为稳定币带来有机的使用。
+
+
+
+
+
+5、Tetu
+
+
+Tetu 是一个高质量的团队，试图建立最复杂的收益率策略库。他们自过去 1.5 年以来一直在建设，是 Yearn Finance 的真正精神继承者。
+
+
+
+
+
+6、Synquote
+
+
+Synquote 正试图为 DeFi 带来最具流动性、价格最有效的期权，是一个真正的链上期权。
+
+
+该协议使用 RFQ 架构，由做市商填补用户提出的订单。期权的链上抵押品是完全抵押的。
+
+
+7、Mangrove DAO
+
+
+Mangrove DAO 是新时代的 DeFi 原语，已经在 Polygon 上进行了软启动。
+
+
+它是一个基于订单簿的 DEX，允许流动性提供者发布任意的智能合约作为报价。这种新的灵活性使流动性提供者能够发布未完全提供的报价。
+
+
+
+
+
+Mangrove 做出承诺，流动性可以：
+
+
+流动性的同时共享、借用、借出；显示在 Mangrove 的订单簿上，当且仅当有报价时，就可以随时取用。
+
+
+
+
+
+8、Polymarket
+
+
+Polymarket 可能是该领域中最有趣的博彩应用。它在 2022 年全年都显示出健康的交易量，并继续创造最有趣的赌注。
+
+
+
+
+
+9、Vi
+
+
+Vi 是借贷市场动态风险框架的开拓者。v2 承诺了基于不断变化的 DeFi 市场清算动态利率曲线，这对清算至关重要，有可能解决像最近 Avi-Aave-Curve 市场攻击的事件。
+
+
+
+
+
+10. 当然还有 GainsNetwork 不容错过：
+
+
+DeFi 的 OG 永续协议
+团队从近两年开始建设
+已经完成了超过 220 亿美元的交易量
+AMM 风险管理的市场领导者，可能领先 1-2 年
+目前链上外汇的先行者
+
+
+
+
+
+原文链接
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息降噪 | 如何获取有效的Web3信息？]]></title>
+        <id>https://www.theblockbeats.info/news/33634</id>
+        <link href="https://www.theblockbeats.info/news/33634"/>
+        <updated>2023-01-07T02:46:25.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：0xCavin
+
+
+
+如果你刚刚踏入Web3的圈子，一定遇到过这样的情况，今天有人分享了一篇好文章来自微信公众号，手机里各大媒体平台推送新闻和咨询，打开推特，发现你关注的KOL发送五花八门的Web3信息。 久而久之，「我觉得信息爆炸了，我该看什么」这样的想法会不自觉在你脑海里出现。在这个信息爆炸的时代，也许你该对信息降噪，更精准的获得优质的信息饮食。
+
+
+ 
+
+
+
+
+律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless团队2023年预测：不在细节，在于方向]]></title>
+        <id>https://www.theblockbeats.info/news/33622</id>
+        <link href="https://www.theblockbeats.info/news/33622"/>
+        <updated>2023-01-07T00:46:25.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Bankless 团队 2023 年预测：不在细节，在于方向》
+原文作者：Bankless
+原文编译：DeFi 之道
+
+
+2022 年是充满惊喜的，不是吗？至少我没想到……
+
+
+一个排名前三的交易平台犯下历史上最严重的欺诈行为之一最大的加密货币基金是一个大规模的过度杠杆化骗局最大的区块链之一归零并被国际刑警组织通缉
+
+
+但我们应该感到惊讶吗？
+
+
+虽然具体细节永远无法预测，但 2022 年的疯狂正是 Bankless 所预测的，当我们把信任放在人身上而不是代码上时，就会发生。
+
+
+我们不知道哪个加密银行会让我们失败……我们只知道他们会失败。
+
+
+所以我们要保管好我们的钥匙。
+
+
+我们不知道推特上的哪个交易员大神只是一个过度杠杆化的赌徒。
+
+
+所以我们要做的是理论投资，而不是追寻他们的叙述。
+
+
+我们不知道哪种区块链技术接下来会改变世界。
+
+
+但我们知道，这将是那些优先考虑去中心化的技术。
+
+
+Protocols, not people.
+Code, not kings.
+
+
+我们将在 2023 年对 Bankless 的核心论点进行加倍努力。我们不会把所有的细节都做对。这是不可能的。但我们有正确的方向。与以往一样，一路向西。
+
+
+We're going bankless.
+
+
+新的一年，是时候做一些伟大的预测了。去年我们错了很多……但说真的，谁能预测到 FTX 的崩塌呢？、
+
+
+好消息是，这并不妨碍我们为新的一年做出更多大胆的预测。事后看来，预测可以成为衡量我们在回音室中的深度或被市场情绪误导程度的有用标准。
+
+
+「你到底在想什么？」是个有价值的问题，我们问自己还不足够多。
+
+
+那么，我们对进入 2022 年的一些总体预测的结果如何呢？
+
+
+ 加密货币市值新高。Eth2 合并发生。总市值达到 5 万亿美元（高点仍然是 3 万亿美元）。比特币被另一个民族国家采用（…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[37位The Block分析师的2023年预测：新叙事、新走势、新发展都会有哪些？]]></title>
         <id>https://www.theblockbeats.info/news/33620</id>
@@ -1210,34 +1444,6 @@ TL；DR
 
 
 共识和执行环境间的中间层正是…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你真的了解X to Earn赛道吗？建立X to Earn分类体系的分析逻辑]]></title>
-        <id>https://www.theblockbeats.info/news/33532</id>
-        <link href="https://www.theblockbeats.info/news/33532"/>
-        <updated>2023-01-04T14:11:46.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-你真的了解 X to Earn 赛道吗？——建立 X to Earn 分类体系的分析逻辑
-
-》
-原文来源：W Labs 瓜田实验室  
-
-
-回顾从 2020 年到 2022 年这一波完整的「谷底高峰谷底」加密行业周期，DEFI，NFT 和链游三个新赛道各自翩翩起舞，其中链游赛道里最耀眼的就是两个项目 Axie 和 StepN：Axie 创立了「play to earn」的模式，带动了小图片打金的狂热高潮；而 StepN 在 Axie 衰退后剑走偏锋，以更贴近玩家现实生活的「walk to earn」轻模式，去引导玩家建立共识：除了在游戏中赚钱，你还能找到获得了健康的爽点。从老玩家留存率指标和督促运动的实际效果上来看，StepN 确实是第一个有了破圈效果的链游，甚至可以被评价为一款优秀的 WEB3 产品，于是乎 X to Earn 的赛道异军突起，成了链游里最重要的模块之一。
-
-
-
-
-StepN 的走路赚钱火遍了加密圈，特别是鞋子上了 BNB Chain 后的「四天回本」让疯狂到达了顶峰，各种的 X to Earn 项目层出不穷，我们当时还出了一个系列长文《Move to Earn 赛道分析》，分析了几个 StepN 的仿盘，可是还没写完，StepN 在 B 链上就开始了退潮，冷却的速度比我们码字的速度还要快，所以那个系列我们就烂尾了…问题是出在 StepN 的玩法和运营上吗？我认为不是，原罪是那套基于 Axie 发展而来的双Token模型，这类模型的底层逻辑导致了「成也 Fomo 败也 Fomo」，只能说 StepN 的破圈尝试和勤奋的团队已经让它的生命周期比其他项目延长了。
-
-
-
-
-X to Earn 这个赛道直到现在还是玩家和各投资机构眼里的香饽饽，主要是因为能出圈，有可能和现实生活相结合。不过仔细再琢磨下，X to Earn 里的项目真的都是同质化的吗…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
