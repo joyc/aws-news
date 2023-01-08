@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-08T00:39:15.783Z</updated>
+    <updated>2023-01-08T06:09:16.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：DCG危机尚未解除；详解NFT新星Memeland崛起之道]]></title>
+        <id>https://www.theblockbeats.info/news/33660</id>
+        <link href="https://www.theblockbeats.info/news/33660"/>
+        <updated>2023-01-08T04:29:10.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+《12 分钟卖出 1200 万刀的 Memeland：2 亿人的迷因帝国大迁徙》
+ 
+
+
+有太多原本声名大噪的 NFT 项目在这场加密世界的深熊中逐渐销声匿迹，「承诺不足，超额交付」的口号执行下来变成了「承诺不足，交付不足」。而 Memeland 的三次发售一次比一次惊艳，建立了忠实可靠的社区，逐渐在 NFT 市场中站稳脚跟。本文将尝试解读 9GAG 如何从一个 Web2 的内容公司借助 Memeland 这一 NFT 品牌逐渐向 Web3 转型的。
+ 
+
+
+《Y Combinator 华裔新总裁新年入职，他投过哪些 Web3 项目？》
+ 
+
+
+2023 年 1 月 1 日，硅谷知名风险投资人陈嘉兴（Garry Tan）正式担任 Y Combinator 新一任总裁兼 CEO，这是继 Paul Graham、Sam Altman 和 Geoff Ralston 之后 Y Combinator 的第四任掌舵人，也是目前唯一的一位华裔总裁。此外，Garry 还是《福布斯》The Midas List（全球最佳创投人榜）连续四年上榜者，并且曾投中 Coinbase 获得超过 6000 倍回报。那么除了在创投圈有如此大的影响力，Garry 在 Web3 还做了哪些布局？
+ 
+
+
+《DCG 危机加剧：子公司 Genesis 再次裁员 30%，或将申请破产保护》
+ 
+
+
+1 月 2 日，Gemini 联合创始人 Cameron Winklevoss 代表其 Earn 产品的超过 34 万名用户，向 DCG 创始人 Barry Silbert…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlier Ventures：我们眼中完美游戏是什么样的？]]></title>
+        <id>https://www.theblockbeats.info/news/33659</id>
+        <link href="https://www.theblockbeats.info/news/33659"/>
+        <updated>2023-01-08T03:36:10.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《What would a perfect game look like? We;ve got some ideas》
+原文来源：Joanna Kurkowska
+原文编译：0x11，Forsight News
+ 
+创造一个完美的游戏是一项艰巨的任务，我决定做一个基础性的论述。完美的游戏并不存在，因为有太多不同的市场和不同的玩家，无法构建一个令所有人满意的公式。但综合考虑这些不同的因素，我们可能会接近完美。
+ 
+
+伟大游戏的核心原则
+ 
+我们公式的核心原则应包括：
+ 
+玩法
+
+市场数据
+
+营销用户
+
+友好的功能设计
+
+ 
+游戏玩法、用户友好的功能和设计可以归为一类（「游戏设计」），但我决定将它们分开，因为我们正在讨论一种假设情况，将一些谜题拼凑在一起，并提出游戏设计的前期关键部分。这一部分的目的是展示游戏创作的冒险有很多途径，但总有一个可以带入他们的数字世界。
+ 
+如果从软件销售市场数据的角度来看，一个完美的回答包括： Minecraft 与 GTA V，再加上俄罗斯方块、Wii Sports、超级马里奥和 PUGB。从总收入方面分析街机游戏，结论是 Space Invaders Pac-man 和街头霸王 II 的组合。完美的手机游戏？王者荣耀、Puzzle & Dragons、PUBG Mobile 和 Clash of Clans 以及 Candy Crush Saga。听起来非常疯狂，其中一些狂野的混音看起来很有趣，但想象一下演奏它们。
+ 
+让我们退后一步，从游戏玩家的角度，看看我们可以从一些游戏中获取和使用什么样的元素。浏览「best of..」列表（无论是畅销品还是最高同时在线玩家数），我们可以看到它们具有以下共同属性和特征：
+ 
+世界建设
+
+竞争
+
+勘探
+
+合作
+
+创意因
+
+素刺激因素（有一个数学方程式）
+
+ 
+结果指向沙盒类型的游戏，其中加入了冒险…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近期你可以尝试的9个新项目]]></title>
         <id>https://www.theblockbeats.info/news/33653</id>
@@ -723,155 +806,6 @@ DeFi 成功的主要经验
 
  
 在这咆哮…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些协议将会从即将到来的以太坊上海升级中受益？]]></title>
-        <id>https://www.theblockbeats.info/news/33573</id>
-        <link href="https://www.theblockbeats.info/news/33573"/>
-        <updated>2023-01-05T14:30:43.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《有哪些协议将会从即将到来的以太坊上海升级中受益？》
-原文作者：The DeFi Investor
-原文编译：深潮 TechFlow
-
-
-DeFi 中出现了一种新的叙事。即将到来的以太坊升级将对流动性质押协议产生巨大影响。以下是我为什么认为流动性质押是一个不断增长的趋势，以及在这个风口下可以投资的机会。
-
-
-首先，Ethereum 的 Shanghai 升级有什么有趣的地方？(即将在 3 月发布)
-
-
-一旦升级完成，$ETH 的质押提款将被启用。由于目前无法提款，因此许多人对投入 $ETH 持怀疑态度。
-
-
-这就是为什么只有 14% 的 ETH 供应量被质押了。相比之下，大多数的 L1 有 40% 以上的质押比例。
-
-
-这里是事情变得有趣的地方：如果更多的人将在上海升级后质押 ETH（这是很有可能的），大多数人将选择流动性质押衍生品。
-
-
-
-
-
-因为流动性质押衍生品可以在整个 DeFi 中使用，而不会放弃质押收益。在可以提取质押的 $ETH 后，流动性质押提供商的收入可能会起飞。
-
-
-收入上升 -> 他们的Token也会受益。
-
-
-因此，这里有几个预计将从上海升级中受益的
-
-Token
-
-：
-
-
-$LDO
-
-
-Lido 是最大的 $ETH 流动性质押提供商。它对质押奖励收取 10% 的费用。这笔费用的一部分被发送到 DAO 国库。
-
-
-优点：
-
-
-Lido 是该细分市场的领导者。
-根据价格与费用的比率，它是第五大被低估的协议。
-82% 的 $LDO 供应量在流通中（而且
-
-Token
-
-通货膨胀很小）。
-
-
-缺点：
-
-
-不与 LDO 持有人分享收入。
-
-
-
-
-
-$RPL
-
-
-第二大流动性质押协议。
-
-
-优点：
-
-
-Rocket Pool 优先考虑去中心化（任何人都可以运行节点）。
-$RPL 的通货膨胀率低（5%）。
-用 Rocket Pool 质押$ETH 可以产生更高的奖励。
-
-
-缺点：
-
-
-不与$RPL 持有人分享收入。
-
-
-$SWISE
-
-
-另一种流动性质押协议。
-
-
-优点：
-
-
-Stakewise V3 很快推出。
-任何人都可以质押 $SWISE 以获得一定比例的协议收入。
-任何人都可以加入成为节点运营商（更去中心化）。
-
-
-缺点：
-
-
-对于主流用户来说，还不够流行。
-$SWISE 的通货膨胀率高。
-
-
-
-
-
-$FXS
-
-
-一个围绕$FRAX 和 $FPI 构建 DeFi 产品生态系统的协议。$frxETH（FRAX 的 $ETH 流动性质押衍生品）于几个月前推出，此后经历了巨大的增长。
-
-
-优点：
-
-
-
-
-
-$frxETH 的 TVL 增长非常快。
-Curve 上提供$frxETH 拥有极具吸引力的收益率。
-8% 的 $ETH 质押收益与 $veFXS 持有者分享。
-
-
-缺点：
-
-
-$frxETH 相对较新，并且不如其他流动性质押衍生品受欢迎。
-$FXS 目前的通货膨胀率为 24%。
-
-
-
-
-
-现在预测这些协议中哪一个将从上海升级中受益最大还为时尚早。但是，如果上海升级计划不被推迟，那么围绕着流动性质押很可能会出现一种新的叙事。
-
-
-原文链接
-
-律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
