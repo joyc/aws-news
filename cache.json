@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33705",
+          "author": null,
+          "description": "Layer 1预言机网络Flare，启动",
+          "link": "https://www.theblockbeats.info/news/33705",
+          "publishedOn": "2023-01-10T06:10:22.601Z",
+          "wordCount": null,
+          "title": "Layer 1预言机网络Flare，启动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33706",
+          "author": null,
+          "description": "原文标题：《\n\nIOSG Weekly Brief ｜GameFi 已死？我们做了一个加密游戏全生态产业图\n\n》\n原文作者：Fiona，IOSG Ventures\n\n\n\n\n我们目前正处于从关注 Infra 到关注用户的转变中，究其原因：\n\n\n\n\n1）就如同 DeFi 和 GameFi 在过去的繁荣一样，基础设施对于建立垂直应用来说是相对成熟的；\n\n\n2）很多开发者都通过建立垂直 DeFi/GameFi/SocialFi 等应用来获取用户，但是用户基数非常小。因此，未来需要去思考如何获取用户并保持高的留存率。\n\n\n\n\nGameFi 是一个相当大的生态系统，不仅仅包含游戏和工作室。下文我们将会从用户的角度来更清晰的描述 GameFi 的用户及其价值流转。\n\n\n\n\n宏观来看，整个 GameFi 由 8 个部分组成——用户端聚合器、游戏、多游戏平台 / 发行商、流动性提供者 / 金融工具、区块链解决方案提供商、游戏引擎、开发商 / 工作室和链。而基于 Steam 对游戏的分类和按收入排名的移动游戏类别，我们针对具体游戏总结了 5 个类别和 11 个子类别，来涵盖当前的加密游戏种类。\n\n\n\n\n让我们跟随下图的行业全览来深入看看这几大类别：\n\n\n\n\n\n\n\n\n来源: IOSG Ventures\n\n\n\n\n链\n\n\n\nGameFi 的项目进行迁移或被复制到新的链上是一个有趣的新趋势，就像以前的 DeFi 情形一样。目前 BSC/ETH/Polygon/Wax 在 GameFi 领域处于领导地位，有超过 80% 的链上游戏在它们上面部署。同时 Arbitrum 和 zkSync 是野心勃勃的新的挑战者。举个例子，Arbitrum 上的 Beacon 是一个动作类 rogue-like 游戏，在推出不到一个月的时间里 DAU 就达到 21,000，收获了大量的关注。而在 zkSync 上活跃的 T…",
+          "link": "https://www.theblockbeats.info/news/33706",
+          "publishedOn": "2023-01-10T03:32:41.000Z",
+          "wordCount": null,
+          "title": "IOSG：GameFi已死？我们做了一个加密游戏全生态产业图",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33704",
+          "author": null,
+          "description": "第54周链上数据分析：非流动性供应缓慢积累，当前衍生品风险稍高",
+          "link": "https://www.theblockbeats.info/news/33704",
+          "publishedOn": "2023-01-10T03:07:38.000Z",
+          "wordCount": null,
+          "title": "第54周链上数据分析：非流动性供应缓慢积累，当前衍生品风险稍高",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33702",
           "author": null,
           "description": "原文标题：《How the GBTC premium trade ruined Barry Silbert, his DCG empire and took crypto lending platforms with them》\n原文来源：\n\nJames Van Straten，cryptoslat\n原文编译：Moni，Odaily星球日报\n\n\n2023 新年伊始，加密货币交易所 Gemini 联合创始人 Cameron Winklevoss 就代表其平台用户向数字货币集团 Digital Currency Group（DCG）创始人 Barry Silbert 发送一封公开信，信中措辞严厉并要求其在 1 月 8 日前偿还所欠的 9 亿多美元。Cameron Winklevoss 在公开信中还透露 DCG 欠 Genesis 约 16.8 亿美元，DCG 不断加剧的危机引发了加密社区高度关注。\n\n\nDCG 简介\n\n\nBarry Silbert 于 2015 年创立 DCG，随后通过投资数百个项目和公司创建了「DCG 帝国。\n\n\n\nDCG 投资版图\n\n\n而 DCG 投资组合中最重要的公司就是灰度 Grayscale Investments，该公司是除中本聪之外全球最大的比特币持有者（如下图所示）。GBTC 目前持有大约 633,000 枚比特币，略高于比特币流通供应量的 3%。本文撰写时时，该信托基金的资产净值 (NAV) 约为 105 亿美元。\n\n\n\n\n\n灰度声称其持有的比特币由 Coinbase Custody 负责托管。Coinbase 作为一家美国上市公司，可信度较高且需要接受审计，所以灰度的 BTC 很可能是按照标准合规做法存储的。\n\n\nDCG 是怎么赚钱的？\n\n\nDCG 对比特币信托基金 GBTC 中持有的标的比特币收取 2% 的管理费，根据 DCG 在 2022…",

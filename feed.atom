@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-10T00:40:08.930Z</updated>
+    <updated>2023-01-10T06:10:23.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Layer 1预言机网络Flare，启动]]></title>
+        <id>https://www.theblockbeats.info/news/33705</id>
+        <link href="https://www.theblockbeats.info/news/33705"/>
+        <updated>2023-01-10T06:10:22.601Z</updated>
+        <summary type="html"><![CDATA[Layer 1预言机网络Flare，启动]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOSG：GameFi已死？我们做了一个加密游戏全生态产业图]]></title>
+        <id>https://www.theblockbeats.info/news/33706</id>
+        <link href="https://www.theblockbeats.info/news/33706"/>
+        <updated>2023-01-10T03:32:41.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+IOSG Weekly Brief ｜GameFi 已死？我们做了一个加密游戏全生态产业图
+
+》
+原文作者：Fiona，IOSG Ventures
+
+
+
+
+我们目前正处于从关注 Infra 到关注用户的转变中，究其原因：
+
+
+
+
+1）就如同 DeFi 和 GameFi 在过去的繁荣一样，基础设施对于建立垂直应用来说是相对成熟的；
+
+
+2）很多开发者都通过建立垂直 DeFi/GameFi/SocialFi 等应用来获取用户，但是用户基数非常小。因此，未来需要去思考如何获取用户并保持高的留存率。
+
+
+
+
+GameFi 是一个相当大的生态系统，不仅仅包含游戏和工作室。下文我们将会从用户的角度来更清晰的描述 GameFi 的用户及其价值流转。
+
+
+
+
+宏观来看，整个 GameFi 由 8 个部分组成——用户端聚合器、游戏、多游戏平台 / 发行商、流动性提供者 / 金融工具、区块链解决方案提供商、游戏引擎、开发商 / 工作室和链。而基于 Steam 对游戏的分类和按收入排名的移动游戏类别，我们针对具体游戏总结了 5 个类别和 11 个子类别，来涵盖当前的加密游戏种类。
+
+
+
+
+让我们跟随下图的行业全览来深入看看这几大类别：
+
+
+
+
+
+
+
+
+来源: IOSG Ventures
+
+
+
+
+链
+
+
+
+GameFi 的项目进行迁移或被复制到新的链上是一个有趣的新趋势，就像以前的 DeFi 情形一样。目前 BSC/ETH/Polygon/Wax 在 GameFi 领域处于领导地位，有超过 80% 的链上游戏在它们上面部署。同时 Arbitrum 和 zkSync 是野心勃勃的新的挑战者。举个例子，Arbitrum 上的 Beacon 是一个动作类 rogue-like 游戏，在推出不到一个月的时间里 DAU 就达到 21,000，收获了大量的关注。而在 zkSync 上活跃的 T…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第54周链上数据分析：非流动性供应缓慢积累，当前衍生品风险稍高]]></title>
+        <id>https://www.theblockbeats.info/news/33704</id>
+        <link href="https://www.theblockbeats.info/news/33704"/>
+        <updated>2023-01-10T03:07:38.000Z</updated>
+        <summary type="html"><![CDATA[第54周链上数据分析：非流动性供应缓慢积累，当前衍生品风险稍高]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GBTC持续负溢价，会拖垮「DCG帝国」吗？]]></title>
         <id>https://www.theblockbeats.info/news/33702</id>
