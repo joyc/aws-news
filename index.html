@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-10 datetime="2023-01-10T06:10:22.601Z">2023-01-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-10 datetime="2023-01-10T06:10:22.601Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-10 datetime="2023-01-10T09:50:58.000Z">2023-01-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-10 datetime="2023-01-10T09:50:58.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,266 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/33739"
+                        open
+                      >
+                        <summary class="article-expander__title">AC对话社区：不要因为我加入而去投资一个项目</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33739">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文作者： Andre Cronje 和 Fantom 社区
+原文编译：Leo，BlockBeats
+
+
+近期，「DeFi 之父」为名的 Andre Cronje 宣布回归，作为 DeFi 赛道的最早构建者之一，AC 在去年 4 月发布文章「crypto 已死，crypto 长存」，宣布退圈，但其相关消息依能给 crypto 带来一些波动，尤其是 Fantom，而 AC 本次回归后，大家也都把目光放在 AC 的回归能够重拾 DeFi 往日荣光，能否为 Fantom 带来更好的发展上面，近期 AC 发起了 infinite AMA 活动，BlockBeats 整理编译了一部分内容如下：
+
+
+
+
+Q：你在 Medium 中提到的账户抽象（AA）特征的时间表是什么？
+
+
+
+
+AC：这涉及到太多因素了，任何软件工程时间表都是高度可变的，预测我们的内部目标是在 Q3 或 Q4 初至少在 testnet 上可用，最好是在 mainnet 上。由于这涉及大量突破性核心变更，因此需要与使用 Fantom 下游数据的第三方提供商进行协调，即便 AA 上线时，钱包/开发者/Dapp 仍需要时间来整合，因此也需要考虑时间因素，实际上，直到完全整合和下游服务提供 AA 很可能需要 2-3 年。
+
+
+
+
+Q：Gas Abstraction 会与 AA 一起出现吗？还是为时过早？
+
+
+
+
+AC：Gas Abstraction 的全部功能需要 AA 支持，这将在实践中发挥类似的作用，当我们释放 Gas 补贴时，其中一部分将是可用的。
+
+
+
+
+Q：你对 Tomb Finance（与 FTM 挂钩的算法稳定币项目）怎么看？
+
+
+
+
+AC：我不信任何算法稳定币，它们也一样。
+
+
+
+
+Q：那与 FTM 挂钩的算法稳定币呢？
+
+
+
+
+AC：挂不挂钩无所谓，只要是算法，或者不是全部抵押的，就不行。
+
+
+
+
+Q：FV…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/33737"
+                        open
+                      >
+                        <summary class="article-expander__title">详解以太坊质押基础设施SSV Network：技术实现和项目价值</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33737">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文作者：
+
+Jason Chen
+
+
+
+从上次聊完 ETH2.0、POS 质押和 Lido 后，不少朋友让我再讲讲 
+
+
+
+SSV
+
+ network ，SSV 确实相对于 Lido 确实比较难理解，毕竟它不是直接面向 C 端用户的，所以看起来不够直观，我尝试为大家分析一下这个项目到底是做什么的，以及它的意义和价值。 
+
+
+首先给个定义，SSV 和 Lido 不属于竞争关系，而是互补关系。  
+
+
+我之前说过 Lido 的问题是下游运营商的中心化，因为上游进了 30% 的 POS 质押金，再喂给下游运营商，所以对于运营商的掌控力非常强，运营商的入选退出也都是 Lido 自己决定的，这个问题就像是房间里的大象，每个人都看到了，但是因为还没有出问题所以大家也暂时选择忽视了，Lido 依然也稳坐 POS 质押头把交椅。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+那么目前提出的解决方案就是 DVT 去中心化验证者技术，它可以让多个节点运营商共同运营验证者，之前的验证者和运营商是 1 对 1 关系，DVT 就是 1 对 N 关系，从而可以减少单点故障，不会导致运营商挂了后直接影响到对应的验证者，如果 1 个运营商挂了还可以由其他运营商顶上去。
+
+
+
+
+
+
+
+
+
+
+
+那么 SSV 和 DVT 又是什么关系呢？SSV 全称秘密共享验证器，它是两位以太坊开发者 CarlBeek 和 adiasg 在一篇探讨 ETH2.0 验证器故障的文章中所提出来的概念，原文链接如下：https://notes.ethereum.org/@adiasg/preventing-eth2-validator-failure#Proposals-for-SSV-protocols
+
+
+SSV 的核心理念就是实现将验证者的私钥进行碎片后给到多个运营商，相当于多签的逻辑，后续 SSV 经过不断的讨论和发展延伸升级为 DVT，…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/33736"
+                        open
+                      >
+                        <summary class="article-expander__title">X To Earn赛道研报：定义GameFi，解析链游发展趋势</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33736">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《X To Earn 赛道研报》
+原文来源：AvatarDAO
+
+
+一、引言
+
+
+什么时候投资行为变得具有带入感与群体性？通常是弱化了投资逻辑，并且符合绝大多数人的谋生需求。
+
+
+当大部分投资行为还发生在一、二级市场时，一扇奇迹之门已经打开，并在 2021 年释放出巨大潜力。它就是 GameFi。
+
+
+GameFi 随着 DeFi 板块的发展速度与热度逐渐偃旗息鼓，在 DeFi 的基础上，GameFi 将游戏拓展到金融领域。玩家在世界的不同角落以更强的产权需求 + 娱乐需求 + 获利属需求，汇聚到这个以区块链技术搭建的崭新赛道，GameFi 已然成为一部分加密用户的投资工具。
+
+
+与此同时，不断涌现的 GameFi 及 NFT 项目成为加密市场红极一时的亮眼板块。这是一场加密用户的狂欢，并且投资机构在板块爆发期参与的大量 GameFi 项目也还未集中兑现到市场，余温尚存。
+
+
+目前市场中的 GameFi 项目可以同时融入 DeFi、NFT 等概念产品，满足各种投资偏好的加密用户、玩家，而且区块链游戏目前还是一个相对小众的领域，相对传统游戏有数十亿的玩家数量还有很大的成长空间。
+
+
+所以，本篇专题研究报告会针对 GameFi 的定义、早期链游发展史、GameFi 的 1.0、2.0 阶段以及未来 GameFi X.0 发展趋势等内容，为大家全方位对 GameFi 赛道进行了发展进程梳理与总结。
+
+
+这份专题研究报告，并不需要您具备过深的 GameFi 行业知识，由 AvatarDAO 的专业研究人员为您整理内容与洞察。带您进一步了解 GameFi 的前世今生。
+
+
+二、GameFi 定义
+
+
+2.1 什么是 GameFi
+
+
+GameFi 就是把 DeFi 以游戏来表达的可视化区块链金融，简单的来讲就是在游戏中实现钱（金融）变现。GameFi 是 DeFi 和 NF…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/33724"
+                        open
+                      >
+                        <summary class="article-expander__title">为什么CRV胜过Uni? 为什么Uni v3是一个错误的方向？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33724">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《为什么 CRV 胜过 Uni ? 为什么 Uni v3 是一个错误的方向？》
+原文作者：DeFi_Cheetah
+原文编译：JamesX，SevenUp DAO
+
+
+
+
+1、定价能力
+
+
+首先，在 Uni v3 推出后，Uniswap 放弃了定价权。这意味着什么？对于在几个交易平台之间交易的任何资产，只有一个交易平台可以拥有定价权。
+
+
+
+打个比方：一支股票的美国存托凭证（流动性差）VS 在其交易量最大交易平台的这支股票（流动性好）肯定市场的定价权掌握在后者手里
+
+
+
+在加密货币中，一个Token可以在多个交易平台、CEX 或 DEX 上市。为什么 Uniswap 推出 v3 反而放弃了定价权？这与 LPs 在 v3 中提供流动性的方式有关——LPs 选择一个特定的提供流动性资金的价格范围。这被称为集中的流动性
+
+
+为什么是集中的？
+
+
+在 Uni v2 中，流动性沿着 xy&#x3D;k 的不变曲线均匀分散，但由于大多数交易活动都是在某个价格段内发生的，xy&#x3D;k 曲线的其他部分的流动性资金没有得到利用，即资本效率低下。v3 设计就是为了解决这个问题
+
+
+v3 比 v2 更具资本效率，但它需要 LPs 积极管理他们的头寸，因为交易对的价格范围时常变化（挂钩资产除外）。这使新项目不敢在 v3 中设立其原生
+
+Token
+
+的新流动性池。
+
+
+为什么？
+
+
+由于新
+
+Token
+
+的价格范围由于初始流动性较浅而波动很大，因此在 V3 中拥有资金池的新项目需要经常调整价格范围。这带来了巨大的流动性管理成本，是项目方无法承受的。因此，大多数新的
+
+Token
+
+没有在 v3 上市
+
+
+由于 V3 上的新
+
+Token
+
+非常少，它失去了定价权。怎么会这样？为了寻找蓝筹
+
+Token
+
+（如 $ETH）的价格，人们参考 Binance。对于没有上市的
+
+Token
+
+，由于在 v3…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -655,8 +915,8 @@ Cosmos 正在构建大量新应用链。例如：
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3880708893">
-        <time id="build-timestamp" datetime="2023-01-10T06:10:23.103Z">2023-01-10T06:10:23.103Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3883205276">
+        <time id="build-timestamp" datetime="2023-01-10T12:13:47.853Z">2023-01-10T12:13:47.853Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
