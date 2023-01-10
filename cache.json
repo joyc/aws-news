@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33738",
+          "author": null,
+          "description": "原文标题：《做好这三点，轻松摆脱 Crypto 信任危机》\n原文作者：Ria Bhutoria\n原文编译：DeFi 之道\n\n\n在 2022 年，由于过度冒险和明显的欺诈，Crypto 行业面临着灾难性的事件，这导致许多人质疑我们正在做的东西是否对社会有益。不透明的、剥削性的、腐败的平台在崩溃之前达到了极大的规模，伤害了无辜的旁观者，像极了传统市场参与者的失败。\n\n\n\n然而，这些事件并不能代表如果我们对 crypto 网络特有的属性进行优化，会有什么可能。今天留下来的成员仍然相信，我们有机会构建货币、金融和技术系统，为错误地从参与者那里榨取价值的现有平台和系统提供公平、有弹性和可持续的替代方案。\n\n\n为了继续前行，我们当然必须找出我们失败的地方。但我们也必须承认什么是有效的，并重新阐明我们希望我们的新系统具备的属性：\n\n\n主权，赋予个人以控制权\n问责制，对中介机构进行制衡\n可信的中立性，以便在无需许可的情况下参与加密经济\n\n\n\n\n主权\n\n\n\n\n自主主权（Self-sovereignty）——控制我们的资产、数据和身份的能力——是 crypto 网络提供的最强大的属性之一，而且从未像现在这样重要。当用户拥有其资产和数据的所有权时，他们不必依赖第三方提供商或相信中介不会作恶。他们不可能作恶。\n\n\n然而，今天的自主托管（self-custody）对终端用户提出了过高的要求。它没有安全网。这就是为什么用户将控制权让给感觉熟悉和安全但一次又一次辜负他们的中心化提供商。用户最终会希望从中解放出来，在这种情况下，少数中心化提供商控制（有时滥用）对用户资产和数据的访问。\n\n\n自主托管的一个主要障碍是大多数 L1 钱包（如比特币和以太坊）都配置为私钥账户（正式名称为外部拥有账户，EOA）。对于私钥账户（无论是「热」——在线——还是「冷」——离线），个人有责任保管与其账户相关的私钥和助记词。这种…",
+          "link": "https://www.theblockbeats.info/news/33738",
+          "publishedOn": "2023-01-10T14:00:46.000Z",
+          "wordCount": null,
+          "title": "做好这三点，轻松摆脱Crypto信任危机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33726",
+          "author": null,
+          "description": "以太坊上海升级临近，流动性质押产品成为今年第一个叙事？",
+          "link": "https://www.theblockbeats.info/news/33726",
+          "publishedOn": "2023-01-10T12:05:09.000Z",
+          "wordCount": null,
+          "title": "以太坊上海升级临近，流动性质押产品成为今年第一个叙事？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33739",
           "author": null,
           "description": "原文作者： Andre Cronje 和 Fantom 社区\n原文编译：Leo，BlockBeats\n\n\n近期，「DeFi 之父」为名的 Andre Cronje 宣布回归，作为 DeFi 赛道的最早构建者之一，AC 在去年 4 月发布文章「crypto 已死，crypto 长存」，宣布退圈，但其相关消息依能给 crypto 带来一些波动，尤其是 Fantom，而 AC 本次回归后，大家也都把目光放在 AC 的回归能够重拾 DeFi 往日荣光，能否为 Fantom 带来更好的发展上面，近期 AC 发起了 infinite AMA 活动，BlockBeats 整理编译了一部分内容如下：\n\n\n\n\nQ：你在 Medium 中提到的账户抽象（AA）特征的时间表是什么？\n\n\n\n\nAC：这涉及到太多因素了，任何软件工程时间表都是高度可变的，预测我们的内部目标是在 Q3 或 Q4 初至少在 testnet 上可用，最好是在 mainnet 上。由于这涉及大量突破性核心变更，因此需要与使用 Fantom 下游数据的第三方提供商进行协调，即便 AA 上线时，钱包/开发者/Dapp 仍需要时间来整合，因此也需要考虑时间因素，实际上，直到完全整合和下游服务提供 AA 很可能需要 2-3 年。\n\n\n\n\nQ：Gas Abstraction 会与 AA 一起出现吗？还是为时过早？\n\n\n\n\nAC：Gas Abstraction 的全部功能需要 AA 支持，这将在实践中发挥类似的作用，当我们释放 Gas 补贴时，其中一部分将是可用的。\n\n\n\n\nQ：你对 Tomb Finance（与 FTM 挂钩的算法稳定币项目）怎么看？\n\n\n\n\nAC：我不信任何算法稳定币，它们也一样。\n\n\n\n\nQ：那与 FTM 挂钩的算法稳定币呢？\n\n\n\n\nAC：挂不挂钩无所谓，只要是算法，或者不是全部抵押的，就不行。\n\n\n\n\nQ：FV…",
@@ -133,26 +153,6 @@
           "publishedOn": "2023-01-08T09:51:38.000Z",
           "wordCount": null,
           "title": "2023年值得关注的13个加密叙事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33660",
-          "author": null,
-          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n \n《12 分钟卖出 1200 万刀的 Memeland：2 亿人的迷因帝国大迁徙》\n \n\n\n有太多原本声名大噪的 NFT 项目在这场加密世界的深熊中逐渐销声匿迹，「承诺不足，超额交付」的口号执行下来变成了「承诺不足，交付不足」。而 Memeland 的三次发售一次比一次惊艳，建立了忠实可靠的社区，逐渐在 NFT 市场中站稳脚跟。本文将尝试解读 9GAG 如何从一个 Web2 的内容公司借助 Memeland 这一 NFT 品牌逐渐向 Web3 转型的。\n \n\n\n《Y Combinator 华裔新总裁新年入职，他投过哪些 Web3 项目？》\n \n\n\n2023 年 1 月 1 日，硅谷知名风险投资人陈嘉兴（Garry Tan）正式担任 Y Combinator 新一任总裁兼 CEO，这是继 Paul Graham、Sam Altman 和 Geoff Ralston 之后 Y Combinator 的第四任掌舵人，也是目前唯一的一位华裔总裁。此外，Garry 还是《福布斯》The Midas List（全球最佳创投人榜）连续四年上榜者，并且曾投中 Coinbase 获得超过 6000 倍回报。那么除了在创投圈有如此大的影响力，Garry 在 Web3 还做了哪些布局？\n \n\n\n《DCG 危机加剧：子公司 Genesis 再次裁员 30%，或将申请破产保护》\n \n\n\n1 月 2 日，Gemini 联合创始人 Cameron Winklevoss 代表其 Earn 产品的超过 34 万名用户，向 DCG 创始人 Barry Silbert…",
-          "link": "https://www.theblockbeats.info/news/33660",
-          "publishedOn": "2023-01-08T04:29:10.000Z",
-          "wordCount": null,
-          "title": "周末荐读：DCG危机尚未解除；详解NFT新星Memeland崛起之道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33659",
-          "author": null,
-          "description": "原文标题：《What would a perfect game look like? We;ve got some ideas》\n原文来源：Joanna Kurkowska\n原文编译：0x11，Forsight News\n \n创造一个完美的游戏是一项艰巨的任务，我决定做一个基础性的论述。完美的游戏并不存在，因为有太多不同的市场和不同的玩家，无法构建一个令所有人满意的公式。但综合考虑这些不同的因素，我们可能会接近完美。\n \n\n伟大游戏的核心原则\n \n我们公式的核心原则应包括：\n \n玩法\n\n市场数据\n\n营销用户\n\n友好的功能设计\n\n \n游戏玩法、用户友好的功能和设计可以归为一类（「游戏设计」），但我决定将它们分开，因为我们正在讨论一种假设情况，将一些谜题拼凑在一起，并提出游戏设计的前期关键部分。这一部分的目的是展示游戏创作的冒险有很多途径，但总有一个可以带入他们的数字世界。\n \n如果从软件销售市场数据的角度来看，一个完美的回答包括： Minecraft 与 GTA V，再加上俄罗斯方块、Wii Sports、超级马里奥和 PUGB。从总收入方面分析街机游戏，结论是 Space Invaders Pac-man 和街头霸王 II 的组合。完美的手机游戏？王者荣耀、Puzzle & Dragons、PUBG Mobile 和 Clash of Clans 以及 Candy Crush Saga。听起来非常疯狂，其中一些狂野的混音看起来很有趣，但想象一下演奏它们。\n \n让我们退后一步，从游戏玩家的角度，看看我们可以从一些游戏中获取和使用什么样的元素。浏览「best of..」列表（无论是畅销品还是最高同时在线玩家数），我们可以看到它们具有以下共同属性和特征：\n \n世界建设\n\n竞争\n\n勘探\n\n合作\n\n创意因\n\n素刺激因素（有一个数学方程式）\n\n \n结果指向沙盒类型的游戏，其中加入了冒险…",
-          "link": "https://www.theblockbeats.info/news/33659",
-          "publishedOn": "2023-01-08T03:36:10.000Z",
-          "wordCount": null,
-          "title": "Outlier Ventures：我们眼中完美游戏是什么样的？",
           "imageUrl": null
         }
       ]
