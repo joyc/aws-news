@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-10T18:09:40.491Z</updated>
+    <updated>2023-01-11T00:37:55.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -583,104 +583,6 @@ Web3 现在还是非常早期，无论是在 web2 工作然后在 web3 投资，
 
 
 这一点很重要，因为如果我们要驾驭未来几十年的金融市场，我们就必须分析，就投资者的回报而言，是消费东西…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年值得关注的13个加密叙事]]></title>
-        <id>https://www.theblockbeats.info/news/33654</id>
-        <link href="https://www.theblockbeats.info/news/33654"/>
-        <updated>2023-01-08T09:51:38.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Edgy - The DeFi Edge （加密 KOL）
-原文编译：czgsws，BlockBeats
-
-
-
-
-在加密市场中，如果你及早了解正确的叙事，你就可以创造财富。以下是你在 2023 年应该看一看的 13 种叙事（还有一些要避免）：
-
-
-
-
-Token 化的现实世界资产
-
-
-
-
-DeFi 需要更可持续的收益。将现实世界的资产 Token 化可以解锁不受加密货币波动影响的现金流。这可以提高资产的透明度、资本效率和流动性。想想房地产、艺术品等等。
-
-
-
-
-RWA 协议（Real World Assets）正在取得进展，一些亮点包括：
-
-
-
-
-• Maker Protocol 拥有 6 亿美元的真实世界资产抵押品。
-• GoldFinch / Maple Finance 正在处理贷款。
-• Centrifuge 的 Tinlake 拥有一些多元化的现实世界资产。
-
-
-
-
-
-
-
-
-
-NFT 金融化
-
-
-
-
-最大的 NFT 项目具有价值——例如 BAYC 底价约为 73 ETH。
-
-
-
-
-DeFi x NFT 旨在释放 NFT 的流动性并将其转化为可产生利润的资产。
-
-
-
-
-第一波项目允许您使用您的 NFT 作为抵押品，例如 NFTfi 和 BendDao。
-
-
-
-
-未来，我们将开始看到下一代 NFT 金融化。
-
-
-
-
-1) nftperp - 空头或多头 NFT/w 杠杆。它处于测试阶段，吸引了超过 2100 万美元的交易量。
-
-
-2) insrt finance - 碎片金库。他们将 NFT 分解，然后你就可以赚取收益。
-
-
-
-
-
-
-
-
-
-Cosmos
-
-
-
-
-Cosmos 正在构建大量新应用链。例如：
-
-
-
-
-• Berachain - 流动性共识证明。
-• Kujira - 一个围绕实际收益建立的生态系统。
-• Canto - 与 Cosmos 兼容的 E…]]></summary>
         <author>
             <name>TheBlockBeats - 新闻</name>
         </author>
