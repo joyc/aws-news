@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33741",
+          "author": null,
+          "description": "撰文：Cookie，律动 BlockBeats\n\n\n\n\n\n\n1 月 7 日，一款名为「The Rug Game」的新 Token 游戏出现在市场上并迅速引起了市场关注。该游戏的 Token 系统由治理 Token $TRG 与 10 个游戏 Token $T、$H、$E、$R、$U、$G、$G*、$A、$M、$E*组成。目前，治理 Token $TRG 还没有上线。而在十个游戏 Token 中，市场表现最优异的是$T，从行情启动的底部到价格的历史最高点，累计涨幅超过 4000%。目前，$T 的价格有些许回落，市值大约为 44.3万美元，24 小时成交量接近14.8万美元。\n\n\n\n\n\n\n\n\n\n\n\n\n\n市值与 24 小时成交量最小的为$G*，当前市值大约为 37000 美元，24 小时成交量大约为 18300 美元。尽管是 10 个游戏 Token 中最弱的那一个，$G*的涨幅依然是惊人的，超过了 2000%。\n\n\n\n\n\n\n那么，「The Rug Game」有着什么样的背景，其游戏机制又是什么样的呢？（风险提示：BlockBeats 提醒用户，该项目安全性未知且相关 Token 价格波动幅度大，参与用户需详细了解游戏模式，谨慎参与。）\n\n\n背景——与 CultDAO 关联密切\n\n\n\n\n\n\n尽管 CultDAO 官方并没有表明 The Rug Game 是由他们推出的项目，但在该项目正式上线前的 1 月 2 日，\n@SkyWalker64007 就已经发现了 The Rug Game 合约部署地址与 CultDAO 相关地址间的关联：\n\n\n\n\n\n\n\n\n\n\n\n图片来源：@SkyWalker64007\n\n\n\n\n\n\n而从游戏机制上看，The Rug Game 的一大目的也是燃烧$CULT。项目上线以来，已经有价值约为 43000 美元的$CULT 被燃烧，$CULT 的最高涨幅超过 8…",
+          "link": "https://www.theblockbeats.info/news/33741",
+          "publishedOn": "2023-01-11T03:51:39.000Z",
+          "wordCount": null,
+          "title": "The Rug Game：末位淘汰，赢者通吃的「生存游戏」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33746",
+          "author": null,
+          "description": "原文标题：《王峰对话何一：如何面对今天 Web3 的窘境时刻？》\n原文整理：MarsBit\n\n\n\n\n1 月 10 日，由 MarsBit 主办，香港创新产业园区数码港、G-Rocket 高诺国际加速器、element 协办的「POW'ER 香港 Web3 创新者峰会」在港举办。\n\n\n\n\n\n\n\n\n\n会上，MarsBit 创始人、Element 核心创始团队成员王峰视频连线 Binance 联合创始人&CMO、Binance Labs 负责人何一，围绕币安近况以及市场投资等话题展开讨论。\n\n\n\n\n王峰：一直以来，币安总是加密产业最受瞩目的企业。刚刚过去的 2022 年，币安同样有两件事情在业界引起广泛关注。\n\n\n\n\n一是币安创始人何一开始执掌 Binance Labs，直接管理一只 75 亿美元的风险投资基金，这是我在去年夏天看到的消息。此前，关于币安内部高层人士换血的传言不断，一段时间里，我们外界也看不明白币安走马灯似的人员调整。\n\n\n\n\n二是年底币安和 FTX 神仙大战，FTX 完败，市场血流成河，以创始人 SBF 最终被刑事追究收尾，但是市场随即引发了数字货币交易平台是否需要更严厉监管和解决透明度的问题，这个问题争论至今。 \n\n\n\n\n所以，我们今天的对话，一半谈谈币安，一半聊聊投资。谢谢何一参加 POWER Web3 创新者香港峰会，加入到和我的连线对话中。\n\n\n\n\n一句话说，现在你最忙的事情是什么？\n\n\n\n\n何一：目前币安管理团队最关心的事情是如何去搭建「基业长青」的体系，这个过程中在解决两个问题：业务健康、组织健康。如果业务健康，即便发生唇枪舌战，也不会出现平台倒闭的情况；第二，组织健康，目前币安团队包括 8000 人，我们需要协调确保大家都了解企业文化，且行为、目标统一，在无论 CEO、COO 是谁的情况下，币安都能良好运转下去。\n\n\n\n\n王峰：你一边坐镇全球最大数…",
+          "link": "https://www.theblockbeats.info/news/33746",
+          "publishedOn": "2023-01-11T03:51:39.000Z",
+          "wordCount": null,
+          "title": "王峰对话何一：如何面对今天Web3的窘境时刻？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33743",
+          "author": null,
+          "description": "原文标题：《如何「运营好」一条公链？盘点头部公链背后的运营差异化》\n原文作者：Zolo, 深潮 TechFlow；Linda 郑郑, SuiWorld Co-Founder\n\n\n最近流行几张图，展示了各条公链的开发者数，日活数据等等，让我们直观地看到了各条公链/项目之间的数据差异。\n\n\n造成这种差异的原因有很多，除了协议本身的吸引力之外，深究起来，我们从运营角度也发现了很多不同之处。一个公链的成与败，有内因，也有外因。  \n\n\n\n\n\n外因比如 FTX 的暴雷，让 Solana 受到影响；Binance 的流量反补到 BNB Chain 的增长；过于高光的团队和资方背景，让 Aptos 在早期就获得了不少关注等。但纠结外因并不是此文目的，本文将更多从不同公链的官网模块、Social Media、社区运营角度入手，探索更多内因，了解作为公链型项目，应该做好哪些运营建设以及差异化的 Case 值得借鉴。\n\n\n公链运营三大维度：Developer、Ecosystem、Community\n\n\n我们优先对几条热门公链的官网运营模块做了梳理，总结如下：\n\n\n\n\n\n我们将相同的部分做灰色标记，能够看到虽然名字会有不同，但基本上每条公链都必须涵盖 Developer、Ecosystem、Community 三个板块，且都占了很大的比重。这里的 Ecosystem 重点指项目生态，即展示自己生态上的 dApp 情况、帮助 dApp 推广/服务等。Community 重点指用户社区，而非开发者社区。\n\n\n\n\n\n从建设逻辑上来讲，一般是通过独有的技术布道吸引来开发者，有了开发者之后再有繁荣的生态，最终好的应用才能吸引庞大的用户群体。\n\n\nDeveloper：得开发者得天下\n\n\n不管是 Layer1 还是隐私公链等，无一不会强调自己技术上的领先或者差异性。在这一点上每条公链都各显神通，比如 Sola…",
+          "link": "https://www.theblockbeats.info/news/33743",
+          "publishedOn": "2023-01-11T03:51:39.000Z",
+          "wordCount": null,
+          "title": "探究头部公链的「运营之道」：Developer、Ecosystem、Community",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33483",
+          "author": null,
+          "description": "1 月 2 日，Gemini 联合创始人 Cameron Winklevoss 代表其 Earn 产品的超过 34 万名用户，向 DCG 创始人 Barry Silbert 发送一封公开信，要求他偿还所欠的 9 亿多美元。Cameron 在公开信中还透露 DCG 欠 Genesis 约 16.8 亿美元。但是\n\n Barry Silbert 发文回应此事件称\n\n没有从 Genesis 借到 16.75 亿美元，也从未拖欠 Genesis 的利息。后\n\nGemini 联创再次发文督促 DCG 于 1 月 8 日偿付 11 亿美元期票。详细事件请阅读：《Gemini 联创 DCG 公开信全文：代表超 34 万用户追偿 9 亿美元贷款》\n\n\n\n\n其实 DCG 欠债事件并非空穴来风，根据此前的文章《全球最大加密借贷平台 Genesis 暂停提现，究竟出现了什么问题？》，Genesis 是三箭资本和 FTX 破产事件中受影响较大的机构之一，也是 DCG 的子公司，\n\n其质押的 GBTC 也是 DCG 于 2013 年成立的数字资产管理公司灰度推出的信托。\n\n三箭资本在破产清算 2 周前，扔在押注 GBTC，不断向场外客户宣传 GBTC 套利产品。\n\n一旦，Genesis 清算三箭资本的抵押物，势必将会影响到灰度的发展。\n\n\n\nBlockBeats 将持续跟踪事件并为读者带来最新的消息。  \n\n\n事件进展\n\n\n\n\n《DCG 回应全部潜在雷点（全文）：与 Genesis、三箭、FTX、LUNA 的关系》\n\n 1 月 11 日，DCG 现任 CEO Barry Silbert 发布《DCG 致股东信》以回应其投资者和股东近期对 DCG 情况提出的诸多质疑 。文中DCG回复：\n\n\n\n· \n\nDCG 及其任何全资子公司不存在现金资产混用的问题。\n\n\n\n\n· DCG 目前还欠 Genesis C…",
+          "link": "https://www.theblockbeats.info/news/33483",
+          "publishedOn": "2023-01-11T02:51:39.000Z",
+          "wordCount": null,
+          "title": "DCG发布致股东信：持有Genesis价值11亿美元的期票；与FTX交流甚少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33742",
+          "author": null,
+          "description": "原文标题：《DCG Shareholder Letter from Barry Silbert, Founder & CEO》\n原文编译：czgsws & Leo，BlockBeats\n\n\n\n\n1 月 11 日，DCG 现任 CEO Barry Silbert 发布《DCG 致股东信》以回应其投资者和股东近期对 DCG 情况提出的诸多质疑，BlockBeats 将文中针对各种敏感问题的回答部分整理、编译如下：\n\n\n\n\nTL；DR\n\n\n\n\n· DCG 及其任何全资子公司不存在现金资产混用的问题。\n\n\n· DCG 目前还欠 Genesis Capital 4.475 亿美元和 4,550 枚 BTC，将于 2023 年 5 月到期。\n\n\n· DCG 仅在 2021 年 FTX B 轮融资中投了 25 万美元，从未与 Alameda 建立关系，也极少与 SBF 沟通交流。\n\n\n· DCG 与三箭资本没有任何关系，仅在 2020 年一起开过一次介绍性质的电话会议。\n\n\n· DCG 持有 Genesis 一张价值 11 亿美元的期票，2032 年到期，代表着 DCG 承担三箭资本于 2022 年 6 月违约时欠 Genesis 的债务。\n\n\n· DCG 没有购买、出售、做空或以其它方式交易 UST，2021 年末为创建质押节点购买 60,000 枚 LUNA，但其投资策略中不包括购买、出售、做空或交易 LUNA。\n\n\n问答部分全文\n\n\n\n\n\nDCG 的商业模式结构是怎样的？\n\n\n\n\nDCG 成立于 2015 年，是一家在数字资产领域构建、置办资产和投资业务的控股公司。旗下部分企业是 DCG 全资拥有的，其余大多数企业中 DCG 只拥有少量股权。如今，DCG 在全球超过 35 个国家/地区拥有 200 多家投资组合公司，并投资了 50 多个加密货币基金以及众多数字资产 Token 和区…",
+          "link": "https://www.theblockbeats.info/news/33742",
+          "publishedOn": "2023-01-11T02:51:39.000Z",
+          "wordCount": null,
+          "title": "DCG回应全部潜在雷点（全文）：与Genesis、三箭、FTX、LUNA的关系",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33738",
           "author": null,
           "description": "原文标题：《做好这三点，轻松摆脱 Crypto 信任危机》\n原文作者：Ria Bhutoria\n原文编译：DeFi 之道\n\n\n在 2022 年，由于过度冒险和明显的欺诈，Crypto 行业面临着灾难性的事件，这导致许多人质疑我们正在做的东西是否对社会有益。不透明的、剥削性的、腐败的平台在崩溃之前达到了极大的规模，伤害了无辜的旁观者，像极了传统市场参与者的失败。\n\n\n\n然而，这些事件并不能代表如果我们对 crypto 网络特有的属性进行优化，会有什么可能。今天留下来的成员仍然相信，我们有机会构建货币、金融和技术系统，为错误地从参与者那里榨取价值的现有平台和系统提供公平、有弹性和可持续的替代方案。\n\n\n为了继续前行，我们当然必须找出我们失败的地方。但我们也必须承认什么是有效的，并重新阐明我们希望我们的新系统具备的属性：\n\n\n主权，赋予个人以控制权\n问责制，对中介机构进行制衡\n可信的中立性，以便在无需许可的情况下参与加密经济\n\n\n\n\n主权\n\n\n\n\n自主主权（Self-sovereignty）——控制我们的资产、数据和身份的能力——是 crypto 网络提供的最强大的属性之一，而且从未像现在这样重要。当用户拥有其资产和数据的所有权时，他们不必依赖第三方提供商或相信中介不会作恶。他们不可能作恶。\n\n\n然而，今天的自主托管（self-custody）对终端用户提出了过高的要求。它没有安全网。这就是为什么用户将控制权让给感觉熟悉和安全但一次又一次辜负他们的中心化提供商。用户最终会希望从中解放出来，在这种情况下，少数中心化提供商控制（有时滥用）对用户资产和数据的访问。\n\n\n自主托管的一个主要障碍是大多数 L1 钱包（如比特币和以太坊）都配置为私钥账户（正式名称为外部拥有账户，EOA）。对于私钥账户（无论是「热」——在线——还是「冷」——离线），个人有责任保管与其账户相关的私钥和助记词。这种…",
