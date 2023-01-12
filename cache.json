@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33796",
+          "author": null,
+          "description": "原文标题：《Nansen：zkSync 会是以太坊扩展的答案吗？》\n原文作者：\n\nOsgur Murphy O Kane，\n\nNansen 研究员\n\n\n原文编译：\n\nChinaDeFi \n\n\n\nzkSync 可以说是目前最令人兴奋的 L2。它已经部署了主网「Baby Alpha」，预计将在 2023 年第一季度初推出其完整主网。这将是第一个兼容 EVM 的 Validity Rollup，150 个项目已经表示他们将部署在 zkSync 上，包括大多数 DeFi 蓝筹股。\n\n\n此外，zkSync 将在 2023 年推出第一个 L3 概念验证。到目前为止，L3 的前景纯粹是假设，看它在实践中是如何运作将会是一件非常有趣的事情。\n\n\nzkSync 对 EVM 兼容性的专注是一个关键的设计选择，这可能会决定它的成败。它有利有弊，利在于 EVM 的基础设施和生态系统。其他项目也正专注于开发新的 VM，他们希望这些 VM 能够更好地构建适合大规模采用的应用程序。虽然 zkSync 中的原生帐户抽象将提供很好的用户体验，但从长远来看，是否能与 EVM 保持一致仍有待观察。\n\n\n\n\n\nL3 的可定制性和性能如何，以及他们在任意设计操作方式方面拥有多大程度的自主权，还有待观察。但有一件事是肯定的，zkSync 值得被密切关注，因为它接近并部署在主网上。\n\n\n本报告将概述 zkSync 及其主要特性。还包括对其潜在竞争优势的评估，帐户抽象的概述，以及对 zkSync 设想的 L3 未来的分析。\n\n\n简介\n\n\nzkSync 是什么?\n\n\nzkSync 是一个通用智能合约 Validity Rollup 平台。它专注于与以太坊社区保持一致，被大多数人认为其有潜力成为主网上第一个与 EVM 兼容的 Validity Rollup。\n\n\nzkSync 今天处在哪个阶段？\n\n\n\n来源：zkSync\n\n…",
+          "link": "https://www.theblockbeats.info/news/33796",
+          "publishedOn": "2023-01-12T03:18:42.000Z",
+          "wordCount": null,
+          "title": "Nansen：zkSync会是以太坊扩展的答案吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33788",
+          "author": null,
+          "description": "原文作者： 加密 KOL Mesky\n原文编译：0x214，BlockBeats\n\n\n\n\nOpFi 和 DPX 是什么？从链上期权采用到整个 DeFi 赛道，为什么这二者会开创一个全新的时代？听起来几乎是不可能完成的任务，本文将详细介绍 OpFi 和 DPX 如何实现这一宏伟目标。\n\n\n\n\n上周，加密 KOL @tztokchad 在 Medium 上发布了一篇文章《Options, options, options》，详细介绍了关于 OpFi 的一些初步想法和应用。强烈建议先阅读该篇文章，这样有了语境后，更便于理解本文内容。\n\n\n\n\n\n\n\n\n\n本文将不会赘述 OpFi 应用，而是会对以下几个层面进行介绍：\n\n\n用极其简明的术语解释其概念。\n\n\n探求其对 DPX 的意义。\n\n\n评估其对 DeFi 的二次效应。\n\n\n\n\n简单来说，OpFi 就是 DeFi，但是由期权提供支持。通过极具创新性的后台期权使用，用户很快就可以在 DeFi 中做以前不可能做的事情。OpFi 是 DeFi 的圣杯，不再受限于链上 TradFi 应用。真正的创新。\n\n\n\n\n应用\n\n\n请记住，如果你想从用户的角度出发，请保持高度的简明和简短。\n\n\n\n\n\n\n\n\n\nAtlantic Straddles：押注波动性（只要涨幅和跌幅足够大，你就有钱赚。）\n\n\nAtlantic Insured Perps：最高级别杠杆做多，无法被清算。并且很快将会集成 GMX。\n\n\nPut-Based Lending：以最高 LTV（贷款价值比）贷款价值比借入，无法被清算。也允许非足额抵押贷款。\n\n\nSynthetic Option Perps：基本上就是优化的永续合约。即使被清算、还加了最高级别杠杆，用户依然可以坚持他们的多空方向。另外，因为有 decay，最低保证金要求会在接近到期日时下降，允许最大杠杆率大幅增加。\n\n\nStab…",
+          "link": "https://www.theblockbeats.info/news/33788",
+          "publishedOn": "2023-01-12T03:00:42.000Z",
+          "wordCount": null,
+          "title": "OpFi + DPX，今年DeFi的新方向？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33795",
+          "author": null,
+          "description": "原文标题：《\n\nA16z：监管 Web3 应用程序的框架—第二部分\n\n》\n原文作者：Miles Jennings、Brian Quintenz\n原文编译：Block unicorn\n \n这是「监管 Web3 应用程序，而不是协议」系列的第二部分，它建立了一个 Web3 监管框架，保留了 Web3 技术的好处，保护了互联网的未来，同时减少了非法活动和消费者伤害的风险。该框架的核心原则是，企业应该是监管的重点，而不应该监管去中心化的自主软件（底层协议）。\n \n在 Web3 监管问题上，两个极端经常发生冲突。1）第一派主张大规模扩展现有法规并将其应用于 Web3，这一群体忽视了 Web3 技术的关键特性，因此未能认识到与传统产品和服务相比，Web3 产品和服务的风险状况存在显著差异。这一失败导致该组织倡导以完全相同的方式监管去中心化金融 (DeFi) 和中心化金融 (CeFi)，没有细微差别。2）相反，反对者则主张将 Web3 完全排除在现有法规之外。这一群体忽视了许多 Web3 产品和服务的现实经济，并试图放弃许多成功的监管框架，包括那些使美国资本市场成为世界羡慕的框架。\n \n这两个极端可能都很受欢迎，但都经不起推敲，而且都会产生糟糕的政策结果。\n \n监管 Web3 的正确方法介于两者之间。在这篇文章中，我们将探讨 Web3 应用程序监管的务实方法框架，该框架遵循本系列最初文章中建立的原则，Web3 监管必须只适用于应用程序级别 ( 意味着运营面向最终用户的软件，提供对协议的访问 )，而不是在协议级别 ( 底层去中心化区块链、智能合约和为互联网提供新的本地功能 )。\n \n更简单地说：监管企业，而不是应用。\n \n企业可以定制应用程序以遵守法规，而设计为全球通用和自主的软件协议却无法做出当地法规可能要求的主观判断。这就是为什么在整个互联网历史上，政府总是选择监管电子邮件供应商（如 …",
+          "link": "https://www.theblockbeats.info/news/33795",
+          "publishedOn": "2023-01-12T02:55:42.000Z",
+          "wordCount": null,
+          "title": "a16z：如何监管Web3应用程序？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33770",
           "author": null,
           "description": "原文来源：Hyper BC\n\n\n\n1 月 10 日，由 MarsBit 主办，香港创新产业园区数码港、G-Rocket 高诺国际加速器、element 协办的「POW』ER 香港 Web3 创新者峰会」在港举办，香港特别行政区政府财政司司长陈茂波出席并致辞。\n\n\n\n\n\n \n \n会上，Hyper BC CEO Joseph Zhang、particle Network 创始人王鹏宇、BitiZen 创始人刘松、Custonomy 联合创始人 Raymond Lam，以及 Trusta Labs 创始人&CEO Peet Chen（圆桌对话主持人）围绕「Web3 入口革命——MPC 钱包的体验与普及」话题进行圆桌讨论。\n\n\n\n\n\n \n \nJoseph 针对 FTX 暴雷导致用户自发的提币运动从两个维度分享了自己的观点，首先是市场维度，FTX 暴雷事件之后，硬件钱包代表 ledger 销量创历史新高，多签智能合约钱包的代表 Gnosis Safe 流入超过 8 亿美金，MPC 钱包的先驱 zengo 用户存款达到历史最高水平，市场对于去中心化钱包的反馈很直接；\n\n\n \n其次在资本纬度，2022 年整个行业融资在 270 亿左右，其中排第一的是基础设施 75 亿美元，去中心化钱包赛道在里面占比很重。无论是市场还是资本，这些信号是比较明显的，去中心化会是趋势，关键还是怎么平衡安全，易用性和可拓展性等等。当然这不是一个绝对的事情，依旧是可以结合托管、自管、半托管，根据资金用途去进行多维度资产管理设置。\n\n\n \nJoseph 强调，目前 MPC 钱包还处于初期的快速生长期，概念在普及，热度在升温。现在市场上已经上架多款 MPC 钱包，每个 MPC 钱包都有自己主打业务流程和服务的人群，未来或许是标配。但 HyperBC 团队在实现 MPC 企业级服务的时候的切身体会是，算法层非常复杂，门…",
