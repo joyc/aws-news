@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33814",
+          "author": null,
+          "description": "原文标题：《FTX Pre-Mortem Overview》\n原文作者：Sam Bankman-Fried\n原文编译：\n\n麟奇，ChainCatcher\n\n\n\n\n\n摘要\n\n\n在 2022 年 11 月中旬，FTX International 实际上已经破产了。FTX 的传奇故事，说到底，是介于 Voyager 和 Celsius 之间的故事。\n这三件事结合在一起，最终导致了内爆。\n\n\na) 在 2021 年期间，Alameda 的资产负债表增长到大约 1000 亿美元的净资产价值，其中 80 亿美元的借款净额（杠杆），以及 70 亿美元的流动资金在手。\n\n\nb) Alameda 未能充分对冲其市场风险。在 2022 年的过程中，一系列大型的市场崩溃，包括在股票和加密货币两方面，导致其资产价值下降约 80%。\n\n\nc) 2022 年 11 月，由 Binance 首席执行官促成的一次极端的、快速的、有针对性的崩盘使 Alameda 资不抵债。\n\n\n然后 Alameda 的情况蔓延到到了 FTX 和其他地方，类似于 3AC 等最终影响了 Voyager、Genesis、 Celsius、BlockFi 和 Gemini 等。 \n\n\n尽管这样，较为客观的恢复资金仍有潜在的可能性。FTX US 仍然完全有偿付能力，应该能够退还所有客户的资金。FTX International 拥有数十亿美元的资产，而我几乎将我所有的个人资产都奉献给了客户。\n\n\n\n  一些关键点  \n\n\n这篇文章是关于 FTX International 是否有偿付能力的讨论。\n\n\n这与 FTX US 无关，因为 FTX US 完全有偿付能力，而且一直都是。当我把 FTX 美国交给 Ray 和破产保护小组时，它在客户余额之外还有大约 3.5 亿美元的净现金在手。其资金和客户是与 FTX International …",
+          "link": "https://www.theblockbeats.info/news/33814",
+          "publishedOn": "2023-01-12T16:40:59.000Z",
+          "wordCount": null,
+          "title": "SBF最新自述：Alameda数百亿爆亏与FTX崩溃全过程复盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33802",
+          "author": null,
+          "description": "原文标题：《\n\n海外悄悄发行 NFT 大厂们摊牌了\n\n》\n原文作者：凯尔，蜂巢 Tech\n\n\n\n\n画风各异的小熊、奇形怪状的小蘑菇、拿着酒瓶做出干杯姿势的卡通形象……这些在海外 NFT 市场颇受欢迎的 NFT 项目背后有一个共同的名字——中国大厂。\n \n当国内潮玩群体聚集在阿里鲸探、百度超级链、网易星球等数藏平台抢首发、开盲盒时，殊不知大厂们早已悄悄打入了原生 NFT 市场，从国内的平台方摇身一变成 NFT 的创作者和发行方。\n \n截至目前，已有百度、B 站、阿里巴巴、映宇宙等知名中国公司通过孵化独立团队或与海外机构合作等各种方式，发行了多个系列的原生 NFT，并在 OpenSea 等开放的交易市场上线。相比生长于联盟链、不够「去中心化」、被限制交易的国内数字藏品，可由用户自行保管和流通的原生 NFT 是更 Web3 的产物，成为大厂另一片试水 Web3 的实验田。\n \n从布局来看，百度、B 站们在原生 NFT 领域的尝试并非浅尝辄止，不仅用上了 AIGC 能力来创作，还通过构建主线剧情、举办社区活动、联动营销等方式持续给旗下 NFT 赋能，创造社区文化，效果不仅不差，有些还比 Web3「原教旨」项目更好。\n \n自带 IP 和流量的中国大厂们闯入 NFT 赛道，暗暗给原生 NFT 生态带去竞争冲击，「小作坊」出厂的 NFT 项目越来越玩不转了。\n \n出海闯 NFT 市场\n \n「伙计们，我是 DUDU！」海外知名 NFT 交易市场 OpenSea 上，「DuDuLab Project」在项目简介中向 NFT 世界打着招呼。\n \n10000 只憨态可掬的小熊构成了 DuDu NFT 集合。DuDu 熊们的衣着、装饰各不相同，有的头戴魔法帽、口吹泡泡糖、手拿玫瑰花；有的头顶嘻哈帽、身背小吉他、在指尖转着篮球。\n \nDuDu 熊于 2022 年 11 月 15 日诞生于以太坊（ET…",
+          "link": "https://www.theblockbeats.info/news/33802",
+          "publishedOn": "2023-01-12T14:40:59.000Z",
+          "wordCount": null,
+          "title": "海外悄悄发行，NFT大厂们摊牌了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33813",
+          "author": null,
+          "description": "BAYC新故事线进行时：新游戏Dookey Dash与游戏门票BAYC Sewer Pass怎么玩",
+          "link": "https://www.theblockbeats.info/news/33813",
+          "publishedOn": "2023-01-12T14:33:46.000Z",
+          "wordCount": null,
+          "title": "BAYC新故事线进行时：新游戏Dookey Dash与游戏门票BAYC Sewer Pass怎么玩",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33812",
           "author": null,
           "description": "原文标题：《加密友好银行之殇，Silvergate 爆雷 Abra 遭殃》\n原文来源：R3PO\n\n\n1 月 5 日，据《华尔街日报》报道，加密友好银行 Silvergate 在 FTX 崩溃后已处理 81 亿美元挤兑提款，加密货币相存款 Q4 暴跌 68%，为满足提款需求，Silvergate 清算了其资产负债表上持有的债务并承受了巨额折价亏损。\n\n\n\n\nSilvergate 股价曾在 2021 年加密货币价格位于高点时突破 200 美元，而如今其股价只剩 11 美元，近 95% 的市值灰飞烟灭。Silvergate 的跌落，无疑给 Web3 投资机构敲响警钟，加密银行赛道的发展或将受到负面影响。\n\n\n\n\nR3PO 将从 Silvergate 事件、加密银行赛道以及竞品 Abra 案例三个角度，剖析此事对加密银行赛道景气程度的影响。\n\n\n\n\n\n\nSilvergate 因 FTX 事件蒙受巨额挤兑\n\n\n\n\n\n\n早期 Silvergate (SI) 原本是一家位于加州的社区零售银行，主要为当地小微企业提供金融服务。随着转变为加密友好银行，并为 Coinbase、Gemini，以及目前深陷丑闻的 FTX 交易平台和交易公司 Alameda Research 提供银行结算服务，Silvergate 实现了「质」的转变，并在 2019 年底登陆纽交所。\n\n\n\n\n\n\n\n\n\n在过去三个月，SI 的股价跌幅超 80%，投资人对 SI 的股价市场反应反映了对两个因素的担忧：1) SI 可能在其比特币抵押贷款组合中对 FTX/Alameda 有信用敞口（截至 9 月 30 日约为 3 亿美元，约占有形普通股的 27%）；2) 由于市场崩盘，SI 将看到大量存款外流。\n\n\n\n\n而投资人的担忧在近期得到了市场验证。\n\n\n\n\n数字货币存款骤降近 7 成\n\n\n第四季度末，数字货币存款总额下降至 38 …",
@@ -233,26 +263,6 @@
           "publishedOn": "2023-01-10T06:10:22.601Z",
           "wordCount": null,
           "title": "Layer 1预言机网络Flare，启动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33706",
-          "author": null,
-          "description": "原文标题：《\n\nIOSG Weekly Brief ｜GameFi 已死？我们做了一个加密游戏全生态产业图\n\n》\n原文作者：Fiona，IOSG Ventures\n\n\n\n\n我们目前正处于从关注 Infra 到关注用户的转变中，究其原因：\n\n\n\n\n1）就如同 DeFi 和 GameFi 在过去的繁荣一样，基础设施对于建立垂直应用来说是相对成熟的；\n\n\n2）很多开发者都通过建立垂直 DeFi/GameFi/SocialFi 等应用来获取用户，但是用户基数非常小。因此，未来需要去思考如何获取用户并保持高的留存率。\n\n\n\n\nGameFi 是一个相当大的生态系统，不仅仅包含游戏和工作室。下文我们将会从用户的角度来更清晰的描述 GameFi 的用户及其价值流转。\n\n\n\n\n宏观来看，整个 GameFi 由 8 个部分组成——用户端聚合器、游戏、多游戏平台 / 发行商、流动性提供者 / 金融工具、区块链解决方案提供商、游戏引擎、开发商 / 工作室和链。而基于 Steam 对游戏的分类和按收入排名的移动游戏类别，我们针对具体游戏总结了 5 个类别和 11 个子类别，来涵盖当前的加密游戏种类。\n\n\n\n\n让我们跟随下图的行业全览来深入看看这几大类别：\n\n\n\n\n\n\n\n\n来源: IOSG Ventures\n\n\n\n\n链\n\n\n\nGameFi 的项目进行迁移或被复制到新的链上是一个有趣的新趋势，就像以前的 DeFi 情形一样。目前 BSC/ETH/Polygon/Wax 在 GameFi 领域处于领导地位，有超过 80% 的链上游戏在它们上面部署。同时 Arbitrum 和 zkSync 是野心勃勃的新的挑战者。举个例子，Arbitrum 上的 Beacon 是一个动作类 rogue-like 游戏，在推出不到一个月的时间里 DAU 就达到 21,000，收获了大量的关注。而在 zkSync 上活跃的 T…",
-          "link": "https://www.theblockbeats.info/news/33706",
-          "publishedOn": "2023-01-10T03:32:41.000Z",
-          "wordCount": null,
-          "title": "IOSG：GameFi已死？我们做了一个加密游戏全生态产业图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33704",
-          "author": null,
-          "description": "第54周链上数据分析：非流动性供应缓慢积累，当前衍生品风险稍高",
-          "link": "https://www.theblockbeats.info/news/33704",
-          "publishedOn": "2023-01-10T03:07:38.000Z",
-          "wordCount": null,
-          "title": "第54周链上数据分析：非流动性供应缓慢积累，当前衍生品风险稍高",
           "imageUrl": null
         }
       ]
