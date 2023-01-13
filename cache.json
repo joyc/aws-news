@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/33838",
+          "author": null,
+          "description": "近期，基于 Arbitrum 生态的永续协议 Rage Trade 官方其社交平台回应用户提问时确认该协议有发 token 计划，「确认 Rage Trade 将会发 token」。推文如下：\n\n\n\n\n\n\n\nRage Trade 是基于 Arbitrum 生态的全链 ETH 永续合约协议，其创新点在于：全链可回收流动性 Omnichain recycled liquidity 和 80-20Vaults 等；与 GMX 合作并于上个月推出新的 Delta Neutral GLP Vault。\n\n\n\n\nDelta Neutral GLP Vaults 是一组流动性智能合约，允许用户汇集资金，以 delta 中性的方式在 GMX 上提供流动性，同时在 GMX 上赚取 ETH 奖励，该 vault 在链上运行，基于两个独立的风险 vault 下对 Aave 和 Uniswap 进行做空，最大限度地减少对 ETH 和 BTC 的风险敞口，为 LP 提供了一个真正的收益来源，由 GMX 交易费用产生。（只有 Discord OG 用户和早期成员才能使用）\n\n\n\n\n截至现在还没有关于 Rage Trade 空投的信息，一般来说空投都会用来奖励早期和过去用户，与其智能合约进行交互是个不错的选择。\n\n\n\n\nRage trade 目前仅支持 Arbitrum one 和 Arbitrum Goerli 测试网，用户可以在其 app 上进行 swap、long、short、deposit 、stake 等操作，相对于 Arbi one，在 Goerli 测试网上领取测试币进行交易会更加稳妥，但注意，无论是 Arbi one 还是 Arbi Goerli，对于交易者来说都是有风险（多头/空头有风险）的，存入 vault 也有风险，所以 DYOR，请谨慎操作！\n\n\n\n\n\n\n\n\n\n\n\n根据 DefiLlama 上关于 Rage Trade 的信息显示，其 TVL 为 1300 万。此外，该项目由Tetranode、3AC（破产前）和 Anthony Pompliano 提供支持。\n\n\n\n\n\n\n\n\n\n\n\n参考链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/33838",
+          "publishedOn": "2023-01-13T05:01:39.000Z",
+          "wordCount": null,
+          "title": "确认发Token的Rage Trade，如何获得潜在空投？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33815",
+          "author": null,
+          "description": "目录\n\n\n前言：\n一. 以太坊主要问题及解决方案演进  \n1.1 以太坊的主要问题        \n1.2 解决方案的演进顺序     \n二、以太坊 2.0 分片扩容方案    \n2.1 分片扩容方案解析        \n2.1.1 可扩展性——分片（Shards）       \n2.1.2 去中心化——共识机制 PoW 转 PoS        \n2.1.3 安全性——信标链、Casper 共识机制        \n2.2 分片带来的难题        \n2.2.1 跨分片通信的过载问题        \n2.2.2 分片后大范围网络节点数据同步需求难实现问题       \n三、以太坊 2.0 最新方案解析       \n3.1 Layer2 扩容方案        \n3.2 现阶段以太坊要解决的主要问题        \n3.2.1 为 Layer2 铺平道路       \n3.2.2 PoS 验证中排序和出块角色一体导致的 MEV 加重问题        \n3.2.3 状态膨胀问题        \n3.3 以太坊 2.0 最新路线图            \n3.4 关键方案解析        \n3.4.1 EIP-4844 引入」blob「交易类型，降低 Rollup 费用        \n3.4.2 数据可用性抽样（DAS）——减轻节点验证数据可用性的负担        \n3.4.3 PBS——出块过程角色分离，弱化 MEV        \n3.4.4 Verkle Tree——优化以太坊底层数据结构，使验证速度更快性能更好        \n3.4.5 EIP-4444——修剪存储数        \n四、以太坊 2.0 的机会、风险和展望   \n4.1 机会        \n4.1.1 Staking 质押挖矿崛起        \n4.1. 2 Layer2 赛道项目及…",
+          "link": "https://www.theblockbeats.info/news/33815",
+          "publishedOn": "2023-01-13T04:01:39.000Z",
+          "wordCount": null,
+          "title": "欧易研究院&BlockBeats联合发布：以太坊2.0方案演进报告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33835",
+          "author": null,
+          "description": "原文标题：《Delphi Digital：我们为什么看好 Sei Network》\n原文作者：Delphi Digital\n原文编译：Babywhale，Foresight News\n\n\n\n\n1 月 4 日，加密货币交易平台 MEXC 宣布启动 2000 万美元专项基金，用于支持 Sei Network 重点项目发展。而早在 8 月 31 日，Sei Labs 宣布已完成 500 万美元种子轮融资，Multicoin Capital 领投，参投方包括了 Coinbase Ventures、GSR、Flow Traders、Hudson River Trading、Delphi Digital、Tangent 等。在官宣完成融资后的一个月，Sei Network 推出 5000 万美元生态基金，以支持在其上开发的 DeFi 应用。\n \n作为 Sei Network 的投资方之一，Delphi Digital 撰写了一份报告来解释其为何看好 Sei Network，笔者在此将报告中的重点内容进行总结梳理，供大家共同探讨。\n\n\n\n\n专为 DeFi 而设计的网络\n\n\n\n\n在构建区块链时，我们通常试图将其归入两个不同的种类：通用链或应用链。通用链用于无需许可的创新，而应用链则用于需要许可的特定用例。但「应用链」并不是非黑即白的，而是由链自身来决定。Sei 是一个即将推出的 Cosmos 生态链，旨在成为一个「专为 DeFi 为设计」的 Layer 1 区块链。\n \n「专为 DeFi 为设计」意味着对基础层进行根本性的改变（和权衡），使得 DeFi 应用能够蓬勃发展。Sei 拥有一个内置的订单匹配引擎，亚秒级的结算速度，订单的并行化处理，单区块订单执行等。所有这些定制化的功能都是在基础层完成的。要知道的是，Sei 不是一个 DEX，它是一个为 DeFi 优化的 Layer 1 区块链。…",
+          "link": "https://www.theblockbeats.info/news/33835",
+          "publishedOn": "2023-01-13T04:01:39.000Z",
+          "wordCount": null,
+          "title": "Delphi Digital：我们为什么看好Sei Network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/33834",
+          "author": null,
+          "description": "原文标题：《盘点：以太坊上的社交 ZK 项目》\n原文作者：shrey jain，加密研究员\n原文编译：Renaissance，ETH 中文\n\n\n在以太坊生态系统中，使用零知识证明 (ZKPs) 来改善隐私和可扩展性的工作非常有前景的。\n\n\n\n\n我想重点强调的是，还有一小部分人专门致力于以太坊上的 ZKP 技术的社交应用。我几乎将所有不以扩展解决方案或金融解决方案为导向的应用都定义为「社交应用」(是的，转账属于社交，但我想读者能够理解我在这篇文章中想表达的东西)。\n\n\n\n\n我最近尝试在 Twitter 上问大家这个领域中有哪些关键项目，并且很高兴能收到一些评论和私信，它们很适合融合到本文中。\n\n\n\n\n在这个领域让我感兴趣的一些事情包括：签名消息、指定的验证者证明、用于医疗保健应用的零知识机器学习，以及我们如何在通信协议中建立共同知识。如果你对此也感兴趣，请在 Twitter 上私信作者。\n\n\n\n\n我将 social applied zk 中的项目分为三个主要类别：\n\n\n\n\n· 身份\n· 治理\n· 消息\n\n\n\n\n免责声明：除了 zkSBT 和我作为合著者的指定验证者工作之外，我没有参与（财务上或作为合作者）以下任何项目。按字母顺序排列，不优先考虑任何特定项目。\n\n\n\n\n身份\n\n\n\n\n· Interep：隐私声誉和身份系统可以让服务验证用户属于某个群体或满足某些声誉标准而无需透露他们的身份。用户可以从 Twitter 和 Github 等平台匿名导出自己的声誉。\n\n\n\n\n· Relic Protocol：Relic Protocol 使用 ZKP 来证明关于任意以太坊历史状态的事实，允许用户根据他们的历史链上活动来证明他们的声誉，并铸造为 SBT。\n\n\n\n\n· Sismo：Sismo 是一个发放 ZK 徽章的模块化协议，用于为实现声誉的可移植性和聚合。\n\n\n\n\n· Sealcred：SealCred 可以让您使用 ZK 徽章匿名体验世界。这意味着您可以在不被追溯到的前提下，证明自己持有某个 NFT 的所有权。\n\n\n\n\n· Unirep：Unirep 允许一个组织的匿名成员在不透露身份的情况下给予、接受和证明声誉。应用程序或人员可以充当证明者，并在共享的 Unirep 合约之上建立自己的声誉 Token。\n\n\n\n\n· Worldcoin：Worldcoin 已经构建了一个保护隐私的人格证明协议。\n\n\n\n\n· zkPortal：以信任最小化和私密的方式将个人数据带到 web3：防止女巫攻击，启用 1P1V (每人一票，one-person-one-vote) 模式并帮助 DeFi 保持合规性。\n\n\n\n\n· zkSBTs：ZK SBTs 用于创建可组合的信任网络。通证在链上始终可见，使得用户无法在请求时隐藏信息的存在。为了保证隐私，声明中包含的信息使用 ZK 进行了模糊处理。链上唯一存储的是签名消息的哈希值。\n\n\n\n\n治理\n\n\n\n\n· Devfolio：一个完全在链上的匿名投票系统。\n\n\n\n\n· Nouns DAO heyanoun：为那些被快照的提案提名者提供了一种方式，让他们可以匿名提交有关该提案的消息。\n\n\n\n\n· MACI：最小反共谋基础设施 (Minimum Anti-Collusion Infrastructure) 是防贿赂、安全和隐私数字投票的基础层。\n\n\n\n\n· zkPIN：创建承诺池以最小化信任的方式签署或支持一个想法。\n\n\n\n\n消息\n\n\n\n\n· designated-verifier-proofs：与以太坊兼容的密码学方案，以确保只有指定的验证者被说服接受传递给他们的信息，并且任何第 3 方都不确定指定的验证者是否在说真话。\n\n\n\n\n· heyanon：heyanon，由 personae labs 提供，为那些在以太坊上很酷的组织或做了很酷的事情的人提供了一种在 Twitter 上匿名广播消息的方式。\n\n\n\n\n· Sealcaster：在 Farcaster 上匿名传递消息。\n\n\n\n\n· Semaphore：Semaphore 是一种协议，旨在成为以太坊 DApp 的简单通用隐私层。使用零知识，以太坊用户可以证明他们是某个团体的成员，并在不透露其原始身份的情况下发送投票或背书等信号。\n\n\n\n\n· zkEmail：链上去信任的电子邮件验证。DevCon 的演讲内容更丰富。\n\n\n\n\n\n\n\n· zknullifier：通过以太坊上可验证的确定性签名创建匿名标识符，从而产生独特的假名。\n\n\n原文链接\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
+          "link": "https://www.theblockbeats.info/news/33834",
+          "publishedOn": "2023-01-13T04:01:39.000Z",
+          "wordCount": null,
+          "title": "18个新项目，以太坊上社交ZK项目一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/33814",
           "author": null,
           "description": "原文标题：《FTX Pre-Mortem Overview》\n原文作者：Sam Bankman-Fried\n原文编译：\n\n麟奇，ChainCatcher\n\n\n\n\n\n摘要\n\n\n在 2022 年 11 月中旬，FTX International 实际上已经破产了。FTX 的传奇故事，说到底，是介于 Voyager 和 Celsius 之间的故事。\n这三件事结合在一起，最终导致了内爆。\n\n\na) 在 2021 年期间，Alameda 的资产负债表增长到大约 1000 亿美元的净资产价值，其中 80 亿美元的借款净额（杠杆），以及 70 亿美元的流动资金在手。\n\n\nb) Alameda 未能充分对冲其市场风险。在 2022 年的过程中，一系列大型的市场崩溃，包括在股票和加密货币两方面，导致其资产价值下降约 80%。\n\n\nc) 2022 年 11 月，由 Binance 首席执行官促成的一次极端的、快速的、有针对性的崩盘使 Alameda 资不抵债。\n\n\n然后 Alameda 的情况蔓延到到了 FTX 和其他地方，类似于 3AC 等最终影响了 Voyager、Genesis、 Celsius、BlockFi 和 Gemini 等。 \n\n\n尽管这样，较为客观的恢复资金仍有潜在的可能性。FTX US 仍然完全有偿付能力，应该能够退还所有客户的资金。FTX International 拥有数十亿美元的资产，而我几乎将我所有的个人资产都奉献给了客户。\n\n\n\n  一些关键点  \n\n\n这篇文章是关于 FTX International 是否有偿付能力的讨论。\n\n\n这与 FTX US 无关，因为 FTX US 完全有偿付能力，而且一直都是。当我把 FTX 美国交给 Ray 和破产保护小组时，它在客户余额之外还有大约 3.5 亿美元的净现金在手。其资金和客户是与 FTX International …",
@@ -193,16 +233,6 @@
           "publishedOn": "2023-01-11T02:51:39.000Z",
           "wordCount": null,
           "title": "DCG回应全部潜在雷点（全文）：与Genesis、三箭、FTX、LUNA的关系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33738",
-          "author": null,
-          "description": "原文标题：《做好这三点，轻松摆脱 Crypto 信任危机》\n原文作者：Ria Bhutoria\n原文编译：DeFi 之道\n\n\n在 2022 年，由于过度冒险和明显的欺诈，Crypto 行业面临着灾难性的事件，这导致许多人质疑我们正在做的东西是否对社会有益。不透明的、剥削性的、腐败的平台在崩溃之前达到了极大的规模，伤害了无辜的旁观者，像极了传统市场参与者的失败。\n\n\n\n然而，这些事件并不能代表如果我们对 crypto 网络特有的属性进行优化，会有什么可能。今天留下来的成员仍然相信，我们有机会构建货币、金融和技术系统，为错误地从参与者那里榨取价值的现有平台和系统提供公平、有弹性和可持续的替代方案。\n\n\n为了继续前行，我们当然必须找出我们失败的地方。但我们也必须承认什么是有效的，并重新阐明我们希望我们的新系统具备的属性：\n\n\n主权，赋予个人以控制权\n问责制，对中介机构进行制衡\n可信的中立性，以便在无需许可的情况下参与加密经济\n\n\n\n\n主权\n\n\n\n\n自主主权（Self-sovereignty）——控制我们的资产、数据和身份的能力——是 crypto 网络提供的最强大的属性之一，而且从未像现在这样重要。当用户拥有其资产和数据的所有权时，他们不必依赖第三方提供商或相信中介不会作恶。他们不可能作恶。\n\n\n然而，今天的自主托管（self-custody）对终端用户提出了过高的要求。它没有安全网。这就是为什么用户将控制权让给感觉熟悉和安全但一次又一次辜负他们的中心化提供商。用户最终会希望从中解放出来，在这种情况下，少数中心化提供商控制（有时滥用）对用户资产和数据的访问。\n\n\n自主托管的一个主要障碍是大多数 L1 钱包（如比特币和以太坊）都配置为私钥账户（正式名称为外部拥有账户，EOA）。对于私钥账户（无论是「热」——在线——还是「冷」——离线），个人有责任保管与其账户相关的私钥和助记词。这种…",
-          "link": "https://www.theblockbeats.info/news/33738",
-          "publishedOn": "2023-01-10T14:00:46.000Z",
-          "wordCount": null,
-          "title": "做好这三点，轻松摆脱Crypto信任危机",
           "imageUrl": null
         }
       ]
