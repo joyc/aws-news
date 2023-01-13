@@ -2,10 +2,333 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-13T06:10:18.866Z</updated>
+    <updated>2023-01-13T12:13:50.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkRouter：Multichain推出的下一代跨链桥技术革新]]></title>
+        <id>https://www.theblockbeats.info/news/33851</id>
+        <link href="https://www.theblockbeats.info/news/33851"/>
+        <updated>2023-01-13T11:08:40.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Multichain
+
+
+零知识证明 (Zero Knowledge Proof, ZKP) 作为一种更加去信任，去中心化的方式扩展以太坊的解决方案，已经获得行业广泛的认同。在跨链行业也展现出无信任设施依赖、链上轻计算、通用、低延迟等优势，尤其是 ZKP 在信任层面解决当前跨链桥安全问题方面展现出的优势则更加明显。
+
+
+ 
+Multichain 推出 zkRouter 
+
+
+ 
+Multichain 作为跨链桥和通用消息跨链服务提供商的龙头，目前已经连接公链数量达 81 条公链，用户数量超过 80 万。Multichain 在的 Router、anyCall 和 NFT Router 等产品取得了巨大成功，今天，Multichain 新推出下一代技术革新产品--zkRouter，并发布 zkRouter 白皮书。
+
+
+ 
+作为最新的解决方案，zkRouter 利用了 ZKP 技术安全高效地连接了多个区块链网络并实现了无缝互操作性。这项创新对跨链互操作来说非常实用，因为它允许在不同区块链之间以去信任化、安全和隐私友好的方式传输资产和信息，并不会泄露敏感信息。目前大多数跨链桥仍然依赖于中心化机制传递跨链信息，但 ZKP 可以用来消除这种信任需求，这也是 Multichain 利用这种机制构建新一代跨链互操作协议的主要原因。
+
+
+
+ 
+基于 zkRouter 协议的跨链应用过程
+
+
+ 
+zkRouter 的优点 
+
+
+ 
+zkRouter 将 ZKP 技术应用于跨链互操作的优点包括：
+
+
+ 
+1. 无信任
+
+
+跨链通信消息由 zk-SNARKs 证明，没有引入外部信任假设。在外部公链和底层共识安全的前提下，中继网络中只要有一个诚实节点，就能保障 zkRouter 跨链的安全性。
+
+
+ 
+2. 可扩展性和高效性
+
+
+zkRouter 允许更多 dApps 在其上运行，其轻…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kava即将上线Kava 12主网，为Cosmos生态带来开创性的新模块x/kavamint]]></title>
+        <id>https://www.theblockbeats.info/news/33850</id>
+        <link href="https://www.theblockbeats.info/news/33850"/>
+        <updated>2023-01-13T11:08:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Kava 即将上线 Kava 12 主网，为 Cosmos 生态带来开创性的新模块 x/kavamint》
+原文来源：Kava Labs 中文官方
+
+
+x/kavamint 介绍：为 Cosmos DAO 带来灵活性和掌控权的新模块
+
+
+随着 Kava 12 主网的发布，Kava 将在 Web3 领域向前迈出一大步。新版本引入了一个开创性的新模块——x/kavamint，支持任何 Cosmos 链 DAO 对其发行机制有更多的掌控权和灵活性。
+
+
+每条 Cosmos 链都有发行机制，之前往往会有不清楚发行通证流向何处的情况，以及如何以持续自动的方式将其用于激励。现在，这些情况可以在 Kava DAO 新的灵活结构中解决。
+
+
+以下列出了 Kava 如何调整 Cosmos DAO 技术以满足其生态的需求：
+
+
+•  清晰的模块化发行机制：来自 kavamint 的发行通证将清楚地流向 Kava 社区池并被社区池所持有。Kava DAO 将有更大的灵活性和掌控权，可以控制资金流向投资组合管理和用于增长计划的资金分配。  
+
+
+•  Kava DAO 社区池现在可以持有资产组合：社区现在将控制一个资产组合，而不仅仅是 KAVA，它可以根据不同的趋势和市场条件重新平衡资产组合。
+
+
+
+
+•  更好地了解 Kava DAO 社区投资组合和资金流：透明度对于一个蓬勃发展的 DAO 至关重要。Kava 社区将能够看到社区池投资组合的价值快照。  
+
+
+•  能够根据使用参数销毁资产。
+
+
+•  能够基于 Kava DAO 治理限制总供应量：与大多数 Cosmos 链无限通胀的模式不同，Kava 可以有一个预定的最大总供应量，使其最终实现通缩。
+
+
+•  真正的 KAVA 质押年化收益率将是固定的，与供应无关，并设置最好的参数，而不是根据锁定通证的数量波动。这一变化将使社区的质…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话SignalPlus ：做最适合期权市场的交易工具]]></title>
+        <id>https://www.theblockbeats.info/news/33847</id>
+        <link href="https://www.theblockbeats.info/news/33847"/>
+        <updated>2023-01-13T10:08:40.000Z</updated>
+        <summary type="html"><![CDATA[1 月 13 日，SignalPlus BD Tony Tian, CFA 做客 BlockBeats AMA，与我们聊聊加密货币期权交易工具平台 SignalPlus 如何打破期权交易边界，做出最适合期权市场的交易工具。
+
+
+
+SignalPlus 是一家顶级企业技术公司，提供适用于数字资产和加密货币资产的期权交易解决方案。SignalPlus 提供专业的加密期权交易工具包，包括投资银行级别的定价、分析、风险管理和直接交易功能。
+
+
+以下是本次AMA的文字内容：
+
+
+BlockBeats：请 Tony 给大家做个项目的背景介绍
+
+
+我叫 Tony Tian, 现在负责 SignalPlus 商务这一块，曾任职于美国最大的汽车金融公司，拥有多年一级市场二级市场投资及管理经验，擅长收购并购估值，金融衍生品投资。
+
+
+SignalPlus 成立于 2021 年，作为一家技术公司，SignalPlus 希望打造一个易于使用的开放式技术平台，助力水平各异的用户轻松实现加密货币期权交易。
+
+
+
+
+BlockBeats：
+
+SignalPlus
+
+怎么没考虑做VC（投资基金），而是做了期权平台？
+
+
+我们同事早期都是传统金融的交易员，初衷是想做一个投资基金来 web3 淘金。但是随着交易的深入，我们发现现在这个领域缺少一些工具。而在我们团队中，正好也有开发经验丰富的成员。所以我们就在交易的过程中，自己开发了很多我们认为有帮助的工具。期权市场的确也是蓝海，非常有潜力的市场。
+
+
+
+BlockBeats：期权这个概念相比于现货和期货，对于投资者会更陌生一些，也简单给大家介绍一下什么是期权？
+
+简单的来说，期权是一种选择交易与否的权力。期权的购买者在付出权利金后，有在期权合约的有效期内，按执行价格买入或者卖出一定标的资产的权利。如果这个权力是在特定价格买入 ETH, 那么我们就说这个是 ET…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当谈论跨链桥时，我们都在谈论什么？]]></title>
+        <id>https://www.theblockbeats.info/news/33836</id>
+        <link href="https://www.theblockbeats.info/news/33836"/>
+        <updated>2023-01-13T09:08:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《What I Talk About When I Talk About Bridges》
+原文作者：0xjim
+原文编译：ChinaDeFi
+
+
+
+
+
+
+入门
+
+
+
+
+你是否曾经徒步旅行并尝试在不使用桥的情况下过河？我有，我可以告诉你这感觉很糟糕。
+
+
+与现实世界中的桥一样，加密货币桥 ( 以及它们更华丽的表亲：「互操作性协议」和「通用消息层」) 提供了相同的价值。
+
+
+它们把区块链连接在一起。如果没有桥，那么从一个链移动到另一个链会是一种非常痛苦的用户体验。
+
+
+但加密桥不仅仅是连接，它们还允许在区块链之间翻译语言和规则。
+
+
+桥使数据能够在不同的环境之间进行传输和解释。它们允许链之间的互操作性。
+
+
+「但是，未来会是多链的吗?」你可能会有这个疑问。
+
+
+嗯，是的。
+
+
+必须而且永远会有多个区块链——从 Cosmos 到 Avalanche 到 Aptos 到以太坊的多个活动区域。
+
+
+这些区块链需要一个通信层来协调结算。否则，他们将永远彼此隔离。
+
+
+
+
+
+
+
+使用 re:meme 在链上制作的 Meme
+
+
+仅在过去的 30 天里，就有大约 50 亿美元的价值通过桥传输。此外，桥公司正受到投资者的青睐。
+
+
+
+
+
+资料来源：德尔福数字研究
+
+
+但是，在过去的一年里，也发生了价值超过 20 亿美元的漏洞利用攻击——他们要么是利用核心机制设计，要么是利用智能合约漏洞。
+
+
+
+
+圣杯
+
+
+
+
+该如何定义一个「理想的」桥呢?
+
+
+在加密领域摸爬滚打了一年之后，我觉得安全可靠的机制设计才能恢复用户的信心。
+
+
+
+
+
+资料来源：德尔福数字研究
+
+
+最安全的桥设计应该是信任最小化的，桥继承了它连接的两条链的安全属性。
+
+
+这是通过链上验证来完成的：目标链 ( 即接收桥接交易的链 ) 验证源链的共识，并看到指定的交易确实包含在它们的区块链中。
+
+
+这通常是由目标链的验证者…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT市场简史：从单一专有到百花齐放，跨越10年的NFT交易演变]]></title>
+        <id>https://www.theblockbeats.info/news/33844</id>
+        <link href="https://www.theblockbeats.info/news/33844"/>
+        <updated>2023-01-13T09:08:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《NFT 市场简史：从单一专有到百花齐放，跨越 10 年的 NFT 交易演变》
+原文作者：jakegallen.eth
+原文编译：白泽研究院
+
+
+
+
+「古老 NFT」（Historical NFT）是一种描述「过时」或 NFT 生态系统演变的较早时期的 NFT 项目的术语。
+
+
+
+
+「互联网考古」是对互联网及其各种平台和技术的历史和演变的研究。它涉及检查和记录塑造我们今天所知的互联网的各种产品及其发展。这可能包括早期的聊天论坛、社交媒体平台、网站和其他互联网产品。
+
+
+
+
+现在，「NFT 考古」（NFT Archeology）一词也出现在了 NFT 社区中，「NFT 考古学家」们正在研究 NFT 的历史和演变，整理出那些古老的 NFT 项目。这涉及研究 NFT 的早期实验和发展，以及围绕它们出现的各种平台和社区。
+
+
+
+
+在本文中，我将尝试整理 NFT 市场的发展史（2014 年 1 月 - 2022 年 12 月）。
+
+
+
+
+
+
+
+
+
+
+Counterparty 于 2014 年 1 月推出，旨在成为比特币用户创建衍生金融资产和工具的平台。它成为一些最早的 NFT 的发源地，例如 Spells of Genesis、 Rare Pepes 和 Sarutobi Island。Counterparty 的原生货币 XCP 是通过被称为「燃烧证明」的机制创建的——BTC 被烧毁以创建 XCP。Counterparty 内置的去中心化交易平台（DEX）在当时是创新，早于现在区块链行业常见的许多 DEX。长期以来，Counterparty 并不为人所知，但近年来，尤其是在 2021 年 NFT 热潮期间，它开始流行起来。如今，它拥有了蓬勃发展的生态系统，包括 XCP Dispensers、Emblem Vault 和 Scarce City。
+
+
+
+
+
+
+
+
+
+Doge…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azuki正式迈入元宇宙：虚拟城市「Hilumia」中的重要线索]]></title>
+        <id>https://www.theblockbeats.info/news/33842</id>
+        <link href="https://www.theblockbeats.info/news/33842"/>
+        <updated>2023-01-13T08:08:40.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Azuki 正式迈入元宇宙：虚拟城市「Hilumia」中的重要线索》
+原文作者：十文，
+
+Odaily 星球日报
+
+
+
+从诞生之日起，作为去年 NFT 蓝筹项目之一的 Azuki，就夹带着各种光环——三分钟内售罄、地板价攀升极快、二次元潮牌、填补 BYAC 后东方市场空白……独特的美术风格、多样的营销玩法以及强大的社区凝聚力都促使 Azuki 突破一个又一个障碍，成为现象级 NFT。
+
+
+但创始人的一段黑历史（相关具体信息，推荐阅读《Azuki 创始人自曝？今天早上究竟发生了什么》）引发的舆论发酵，让大部分 NFT 玩家对其过往行为嗤之以鼻，同样也招致恐慌抛售，使得 Azuki 地板价下跌了约 10 ETH，也让其关注度不似当年。叠加上去年二季度起 NFT 交易量断崖式下跌的宏观环境，Azuki 一直表现平平，并未有太大突破。
+
+
+要想长期获得资本青睐，同时让玩家看到社区成长，每个 NFT 项目方都必须创新玩法，寻找新的商业或发展模式。
+
+
+去年 6 月，Azuki 分享了扩大 Azuki 的计划，结合 IP、线下艺术体验、发布 PBT 标准等一系列活动接踵而来。这似乎在宣告 Azuki 的元宇宙计划正向我们靠近。
+
+
+今日，趁 Azuki 成立 1 周年之际，该团队宣布正式推出由社区建造的虚拟城市「Hilumia」，Azuki NFT 持有者或社区参与者现在可以参与探索。在该虚拟城市中，包含了各种可供互动体验的平台，如玩具店 Slowpoke's Toy Haven、设计平台 Ember Square、滑板爱好者社区 Golden Skate Park、以及意见「收集箱」Garden Express 等。
+
+
+消息既出，Azuki 空投项目 Beanz Official 地板价应声上涨， 24 小时涨幅 69% ，并占据 Opensea 排行榜第二名。
+
+
+下…]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[确认发Token的Rage Trade，如何获得潜在空投？]]></title>
         <id>https://www.theblockbeats.info/news/33838</id>
