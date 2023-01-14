@@ -204,56 +204,6 @@
           "wordCount": null,
           "title": "a16z：如何监管Web3应用程序？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33770",
-          "author": null,
-          "description": "原文来源：Hyper BC\n\n\n\n1 月 10 日，由 MarsBit 主办，香港创新产业园区数码港、G-Rocket 高诺国际加速器、element 协办的「POW』ER 香港 Web3 创新者峰会」在港举办，香港特别行政区政府财政司司长陈茂波出席并致辞。\n\n\n\n\n\n \n \n会上，Hyper BC CEO Joseph Zhang、particle Network 创始人王鹏宇、BitiZen 创始人刘松、Custonomy 联合创始人 Raymond Lam，以及 Trusta Labs 创始人&CEO Peet Chen（圆桌对话主持人）围绕「Web3 入口革命——MPC 钱包的体验与普及」话题进行圆桌讨论。\n\n\n\n\n\n \n \nJoseph 针对 FTX 暴雷导致用户自发的提币运动从两个维度分享了自己的观点，首先是市场维度，FTX 暴雷事件之后，硬件钱包代表 ledger 销量创历史新高，多签智能合约钱包的代表 Gnosis Safe 流入超过 8 亿美金，MPC 钱包的先驱 zengo 用户存款达到历史最高水平，市场对于去中心化钱包的反馈很直接；\n\n\n \n其次在资本纬度，2022 年整个行业融资在 270 亿左右，其中排第一的是基础设施 75 亿美元，去中心化钱包赛道在里面占比很重。无论是市场还是资本，这些信号是比较明显的，去中心化会是趋势，关键还是怎么平衡安全，易用性和可拓展性等等。当然这不是一个绝对的事情，依旧是可以结合托管、自管、半托管，根据资金用途去进行多维度资产管理设置。\n\n\n \nJoseph 强调，目前 MPC 钱包还处于初期的快速生长期，概念在普及，热度在升温。现在市场上已经上架多款 MPC 钱包，每个 MPC 钱包都有自己主打业务流程和服务的人群，未来或许是标配。但 HyperBC 团队在实现 MPC 企业级服务的时候的切身体会是，算法层非常复杂，门…",
-          "link": "https://www.theblockbeats.info/news/33770",
-          "publishedOn": "2023-01-11T08:48:44.000Z",
-          "wordCount": null,
-          "title": "Hyper BC CEO：MPC技术将助推钱包与监管机构的深度绑定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33763",
-          "author": null,
-          "description": "原文标题：《Buidler DAO 蝗虫精选（23）：社交 SocialFi 相关的必读文章》\n原文来源：Buidler DAO\n\n\n深度精选是我们推荐的本周市场热议主题下必读文章，取材自 Buidler DAO 认知蝗虫计划每日推送；在这里，Web3 Native 的资深读者会从繁杂的信息源中抽取优质文章的核心内容与个人的深度思考。\n\n\n\n\n加密行业中，社交生态被认为是潜在的流量巨大入口。社交的基础组件分为：基础设施、中间件、应用程序和工具。本文从 SBT 为用户创建的原生数字身份讨论出发，到设计衡量链上声誉的机制；从去中心化的社交协议分析，到「去中心化」的假象反思；从社交移动端的实现方法，到可承载流量的链的思考分析。本文涵盖了  Web3 社交有关的讨论，以及现状与理想之间需要跨越的距离的思考。阅览下文并了解核心关点，欢迎共同讨论！\n\n\n文章速览：\n\n\n01/ SBT：开启 DeSoc 的未来之钥 @wenchuan\n02/ 解构链上声誉：量化 Web3 链上行为的信用机制 @ 大葱 Fred\n03/ Web3 社交：通往大规模采用之路 @memeswap\n04/ 小狐狸收集隐私暴露出 Web3 的\"去中心化\"并没有那么美好？@ 猫老大 \n05/ 一文了解 Nostr ：一个让 Elon Musk 感到害怕的去中心化社交协议 @ 猫老大\n06/ The Open Social Map @JZ \n07/ Web3 域名赛道：龙头 ENS 面临的冰与火 @ 大葱 Fred\n08/ decrypto 年度加密项目——polygon @memeswap\n\n\n\n\n\n\nSBT：开启 DeSoc 的未来之钥 @wenchuan\n\n\n\n\n\nSBT 可以帮助用户在 Web3.0 世界中构筑原生数字身份，最终实现去中心化社会的愿景。SBT 与 DID 的概念有重合的地方，从功能上讲，它们都…",
-          "link": "https://www.theblockbeats.info/news/33763",
-          "publishedOn": "2023-01-11T08:00:44.000Z",
-          "wordCount": null,
-          "title": "Buidler DAO：社交SocialFi相关的必读文章",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33768",
-          "author": null,
-          "description": "原文作者：0xLuka\n\n\n读 jason chen 老师的 thread 想到一点，除了 Lido 对 ETH POS 的中心化影响之外，还有哪些「房间里的大象」？\n\n这些大象都是被人们视而不见的问题，但是长期来看如果得不到解决，对行业的影响不会亚于曾经 Anchor 的 20% APY。\n\n欢迎探讨和补充：  \n\n\n1. OPtimism 作为一个 OP Rollup 没有可用的欺诈证明机制 \n\n\n近期 OP 奥德赛如火如荼, OP 链上的活动也有了大幅增长，但很多人不知道的是，Op 链现在没有可以使用的欺诈证明机制，也就是说目前 OP 链的理论安全性基本为 0。 \n\n\n当然 OP 接下来的 bedrock 升级据说会解决这个问题，让我们拭目以待。  \n\n\n\n\n\n2. Layer2 们 的中心化 \n\n\nsequencer\n\nOP/Arb 目前的 sequencer(出块人) 完全由官方运营，虽然理论上没有作恶动机，但是中心化的 sequencer 天然政治不正确，这也是 Layer2 们下一步要做的事情。\n\n但是等 Sequencer 去中心化后，Layer2 们还要面临如何防止私人节点作恶的问题，Layer2 要真正成熟，道阻且长。  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3. LayerZero 的架构安全性并不高 \n\n\nLayerZero 去年以来在 ftx 系资本的加持下扩张迅速，俨然有一统跨链市场的势头，Aptos, Harmony, Pancake，Sushiswap 已经是其生态一员。\n\n然而 LayerZero 的架构设计实际上并不比以往被盗的跨链桥优秀多少，其安全性假设和 Wormhole，Ronin，Multichain 等没有本质区别。\n\n\n\n\n\n\n\n\n\n\n而且在资本推动下的单一解决方案的大规模采用，意味着如果此解决方案存在问题，那么所有采用方的资产都会收到威胁。\n\n以 LayerZero 得到的资本和生态支持，恐怕我们看到其统一跨链市场的时间不会太长。\n\nLayerZero 的解决方案具体有什么问题，可以看 L2 Beats 前日发布的文章。  https://twitter.com/l2beat/status/1611008135086411779\n\n\n4. DAI 和 USDC 的高度绑定以及抵押品里的 50 倍高杠杆 \n\n\n「去中心化稳定币「之光 DAI，实际超过 50% 由中心化稳定币 (USDC/USDP/GUSD) 及其相关 LP 抵押生成，而且官方支持 USDC/DAI LP 循环借贷，最终将杠杆放大 50 倍。 \n\n\n这是什么意思？意思是你拿着 50U 的 USDC/DAI LP，最终能循环借出 2500U DAI 并最终变成 LP。  \n\n\n\n\n\n这一设置有以下问题： \n\n\n1 DAI 变成了「Wrapped USDC」 \n2 Maker 的 TVL 里存在大量杠杆 \n\n\n同时由于其支持的 LP 为 Uniswap V3 LP，这也间接让 Uniswap 凭空多出几亿 TVL，DeFi 世界也存在和传统金融很相似的高杠杆和信贷循环，而且不是土狗项目，是货真价实的 DeFi Giants 们之间的游戏。  \n\n\n\n\n\n原文链接\n\n\n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/33768",
-          "publishedOn": "2023-01-11T07:53:44.000Z",
-          "wordCount": null,
-          "title": "除了Lido给以太坊带来的中心化隐患，还有哪些「房间里的大象」？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33767",
-          "author": null,
-          "description": "原视频来源：元宇宙公主\n\n\nCC0 的意思是作品版权近乎完全开放，非拥有者也可以随意复制甚至商业化。CC0 的本质顺从了 NFT 社群机制定价的基本逻辑，采用开放版权，用二创和野蛮的方式传播扩大社群。  \n\n\n \n\n\n律动 BlockBeats 提醒，根据银保监会等五部门于 2018 年 8 月发布《关于防范以「虚拟货币」「区块链」名义进行非法集资的风险提示》的文件，请广大公众理性看待区块链，不要盲目相信天花乱坠的承诺，树立正确的货币观念和投资理念，切实提高风险意识；对发现的违法犯罪线索，可积极向有关部门举报反映。",
-          "link": "https://www.theblockbeats.info/news/33767",
-          "publishedOn": "2023-01-11T07:53:44.000Z",
-          "wordCount": null,
-          "title": "【视频】CC0的本质是什么，它如何影响NFT市场的呢？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/33766",
-          "author": null,
-          "description": "原文标题：《化繁为简：Cairo 1.0 如何改变 StarkWare 的编写范式》\n原文来源：PANews\n\n\n\n\n1 月 5 日，StarkWare 宣布正式推出编程语言 Cairo 1.0 公开版本，正式取代为期两年的测试、预览版本，也标志着使用该语言在 StarkNet 上编写智能合约已经成为可能，同时也会兼顾高效的执行效率，成为 ZK 系 Layer 2 Rollup 技术派的里程碑事件。\n\n\n\n\n此次更新的功能可归纳为三点，分别是智能、效率和安全。\n\n\n\n\n更为智能：实现 Sierra 设计，确保 Cairo 代码可证明，StarkNet 智能合约将在下一个版本中实现。\n\n\n更加高效：跟进 Rust 语言的强类型、所有权机制和借用等设计思路，兼顾执行效率和编写规范性；\n\n\n更为安全：保持图灵完备性，STARK 机制的安全性由数学证明来保证；\n\n\n\n\nCairo 1.0 公开版的工作流程将与以往有所不同，最主要的开发方向将是在智能合约编写能力和开发者友好方面进行持续改进。\n\n\n\n\n两全：走向 ZK-EVM\n\n\n\n\n在本轮的 Layer 2 缠斗中，ZK 系中的 STARK 和 SNARK 成为两大主流路线，但 EVM 兼容性和执行效率也成为各方关注的焦点，更好的兼容性将会获得以太坊主网的安全性加持，而较高的执行效率则会加快 L2 自身的执行速度。\n\n\n\n\n但这其中存在一个悖论：EVM 兼容性和执行效率往往无法兼得，越好的 L1 兼容性则会降低 L2 执行效率，反之则存在安全性问题。\n\n\n\n\n因此 StarkWare 希望能使用 Cairo 语言作为两者之间的黏合剂，通过其编写的智能合约不仅可在 StarkNet 上全速运行，也可和以太坊主网保持较高的兼容性，这也是 ZK-EVM 的真正含义。\n\n\n\n\n在本次更新中，Cairo 将会支持完整的 Cairo-VM，其中…",
-          "link": "https://www.theblockbeats.info/news/33766",
-          "publishedOn": "2023-01-11T06:53:44.000Z",
-          "wordCount": null,
-          "title": "化繁为简：Cairo1.0如何改变StarkWare的编写范式",
-          "imageUrl": null
         }
       ]
     },
