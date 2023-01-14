@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-14 datetime="2023-01-14T04:25:28.000Z">2023-01-14</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-14 datetime="2023-01-14T04:25:28.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-14 datetime="2023-01-14T09:13:39.000Z">2023-01-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-14 datetime="2023-01-14T09:13:39.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,109 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/33855"
+                        open
+                      >
+                        <summary class="article-expander__title">一文了解Celestia和Fuel，2023 应该关注的模块化区块链</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33855">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文作者：Thor Hartvigsen
+
+
+
+
+
+
+
+
+
+
+原文编译：Leo，BlockBeats
+
+
+
+
+
+
+
+
+可扩展性一直是行业关注的重点，恰好目前区块链面临着「可扩展性三重困境」的问题，而始于 Celestia 的模块化区块链正在围绕其可扩展性、高水平安全性和去中心化提出了解决方案，模块化区块链正在成为一种主流叙事，加密KOL Thor Hartvigsen 撰写了一篇关于「模块化区块链和其内在价值」的文章，BlockBeats 编译如下：
+
+
+
+
+PART 1 ：始于基础概念
+
+
+
+
+今天需要改进的问题：
+
+
+-无信任的跨链通信
+
+
+-当交易数量增长到足够大时的 Rollup 扩展性
+
+
+-在以提高吞吐量为目标时保持高水平的安全性和去中心化（区块链三重困境）
+
+
+
+
+
+
+
+首先，为了确保彻底理解这些概念，我们得建立一些术语，如下图：
+
+
+
+
+
+
+
+区块
+
+
+区块是区块链的组成部分，单个块由两个组件组成：block headre block body，header 包含前一个区块的哈希、timestamp 等数据，body 包含该区块中的所有交易。
+
+
+
+
+
+市面上很受欢迎的扩展的策略是拥有更大的区块（Solana）。
+
+
+更大的区块&#x3D;增加吞吐量，但在去中心化层面存在一些问题。
+
+
+更大的区块&#x3D;节点所需的数据更庞大，很少有人能负担得可以承载庞大数据的更昂贵的硬件。
+
+
+
+
+节点
+
+
+一个完整的节点需要存储整个区块链以及从第一个区块开始进行过的所有交易，为了在区块链上交易，需要确保共识、确保数据可用且区块有效。
+
+
+
+
+轻节点（轻客户端）
+
+
+轻节点用于 Rollup，并将大部分工作外包给完整节点，它们不验证交易，而是检查每个区块是否具有共识，以及区块数据是否可用于网络，大多数轻节点依赖于「多数诚实假设」，假设大多数参与者（如验证者）是诚实的，轻节点需要更少的硬件，…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -1392,187 +1495,6 @@ Raja Rajamannar – 万事达首席市场与传播官
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/33796"
-                        open
-                      >
-                        <summary class="article-expander__title">Nansen：zkSync会是以太坊扩展的答案吗？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33796">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Nansen：zkSync 会是以太坊扩展的答案吗？》
-原文作者：
-
-Osgur Murphy O Kane，
-
-Nansen 研究员
-
-
-原文编译：
-
-ChinaDeFi 
-
-
-
-zkSync 可以说是目前最令人兴奋的 L2。它已经部署了主网「Baby Alpha」，预计将在 2023 年第一季度初推出其完整主网。这将是第一个兼容 EVM 的 Validity Rollup，150 个项目已经表示他们将部署在 zkSync 上，包括大多数 DeFi 蓝筹股。
-
-
-此外，zkSync 将在 2023 年推出第一个 L3 概念验证。到目前为止，L3 的前景纯粹是假设，看它在实践中是如何运作将会是一件非常有趣的事情。
-
-
-zkSync 对 EVM 兼容性的专注是一个关键的设计选择，这可能会决定它的成败。它有利有弊，利在于 EVM 的基础设施和生态系统。其他项目也正专注于开发新的 VM，他们希望这些 VM 能够更好地构建适合大规模采用的应用程序。虽然 zkSync 中的原生帐户抽象将提供很好的用户体验，但从长远来看，是否能与 EVM 保持一致仍有待观察。
-
-
-
-
-
-L3 的可定制性和性能如何，以及他们在任意设计操作方式方面拥有多大程度的自主权，还有待观察。但有一件事是肯定的，zkSync 值得被密切关注，因为它接近并部署在主网上。
-
-
-本报告将概述 zkSync 及其主要特性。还包括对其潜在竞争优势的评估，帐户抽象的概述，以及对 zkSync 设想的 L3 未来的分析。
-
-
-简介
-
-
-zkSync 是什么?
-
-
-zkSync 是一个通用智能合约 Validity Rollup 平台。它专注于与以太坊社区保持一致，被大多数人认为其有潜力成为主网上第一个与 EVM 兼容的 Validity Rollup。
-
-
-zkSync 今天处在哪个阶段？
-
-
-
-来源：zkSync
-
-…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/33788"
-                        open
-                      >
-                        <summary class="article-expander__title">OpFi + DPX，今年DeFi的新方向？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33788">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文作者： 加密 KOL Mesky
-原文编译：0x214，BlockBeats
-
-
-
-
-OpFi 和 DPX 是什么？从链上期权采用到整个 DeFi 赛道，为什么这二者会开创一个全新的时代？听起来几乎是不可能完成的任务，本文将详细介绍 OpFi 和 DPX 如何实现这一宏伟目标。
-
-
-
-
-上周，加密 KOL @tztokchad 在 Medium 上发布了一篇文章《Options, options, options》，详细介绍了关于 OpFi 的一些初步想法和应用。强烈建议先阅读该篇文章，这样有了语境后，更便于理解本文内容。
-
-
-
-
-
-
-
-
-
-本文将不会赘述 OpFi 应用，而是会对以下几个层面进行介绍：
-
-
-用极其简明的术语解释其概念。
-
-
-探求其对 DPX 的意义。
-
-
-评估其对 DeFi 的二次效应。
-
-
-
-
-简单来说，OpFi 就是 DeFi，但是由期权提供支持。通过极具创新性的后台期权使用，用户很快就可以在 DeFi 中做以前不可能做的事情。OpFi 是 DeFi 的圣杯，不再受限于链上 TradFi 应用。真正的创新。
-
-
-
-
-应用
-
-
-请记住，如果你想从用户的角度出发，请保持高度的简明和简短。
-
-
-
-
-
-
-
-
-
-Atlantic Straddles：押注波动性（只要涨幅和跌幅足够大，你就有钱赚。）
-
-
-Atlantic Insured Perps：最高级别杠杆做多，无法被清算。并且很快将会集成 GMX。
-
-
-Put-Based Lending：以最高 LTV（贷款价值比）贷款价值比借入，无法被清算。也允许非足额抵押贷款。
-
-
-Synthetic Option Perps：基本上就是优化的永续合约。即使被清算、还加了最高级别杠杆，用户依然可以坚持他们的多空方向。另外，因为有 decay，最低保证金要求会在接近到期日时下降，允许最大杠杆率大幅增加。
-
-
-Stab…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/33795"
-                        open
-                      >
-                        <summary class="article-expander__title">a16z：如何监管Web3应用程序？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/33795">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《
-
-A16z：监管 Web3 应用程序的框架—第二部分
-
-》
-原文作者：Miles Jennings、Brian Quintenz
-原文编译：Block unicorn
- 
-这是「监管 Web3 应用程序，而不是协议」系列的第二部分，它建立了一个 Web3 监管框架，保留了 Web3 技术的好处，保护了互联网的未来，同时减少了非法活动和消费者伤害的风险。该框架的核心原则是，企业应该是监管的重点，而不应该监管去中心化的自主软件（底层协议）。
- 
-在 Web3 监管问题上，两个极端经常发生冲突。1）第一派主张大规模扩展现有法规并将其应用于 Web3，这一群体忽视了 Web3 技术的关键特性，因此未能认识到与传统产品和服务相比，Web3 产品和服务的风险状况存在显著差异。这一失败导致该组织倡导以完全相同的方式监管去中心化金融 (DeFi) 和中心化金融 (CeFi)，没有细微差别。2）相反，反对者则主张将 Web3 完全排除在现有法规之外。这一群体忽视了许多 Web3 产品和服务的现实经济，并试图放弃许多成功的监管框架，包括那些使美国资本市场成为世界羡慕的框架。
- 
-这两个极端可能都很受欢迎，但都经不起推敲，而且都会产生糟糕的政策结果。
- 
-监管 Web3 的正确方法介于两者之间。在这篇文章中，我们将探讨 Web3 应用程序监管的务实方法框架，该框架遵循本系列最初文章中建立的原则，Web3 监管必须只适用于应用程序级别 ( 意味着运营面向最终用户的软件，提供对协议的访问 )，而不是在协议级别 ( 底层去中心化区块链、智能合约和为互联网提供新的本地功能 )。
- 
-更简单地说：监管企业，而不是应用。
- 
-企业可以定制应用程序以遵守法规，而设计为全球通用和自主的软件协议却无法做出当地法规可能要求的主观判断。这就是为什么在整个互联网历史上，政府总是选择监管电子邮件供应商（如 …</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1580,8 +1502,8 @@ A16z：监管 Web3 应用程序的框架—第二部分
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3918427333">
-        <time id="build-timestamp" datetime="2023-01-14T12:11:09.461Z">2023-01-14T12:11:09.461Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/3919682995">
+        <time id="build-timestamp" datetime="2023-01-14T18:08:22.705Z">2023-01-14T18:08:22.705Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
