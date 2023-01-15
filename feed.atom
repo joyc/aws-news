@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-01-15T06:09:20.983Z</updated>
+    <updated>2023-01-15T12:12:00.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：DCG回应全部潜在雷点；BAYC新故事线进行时]]></title>
+        <id>https://www.theblockbeats.info/news/33856</id>
+        <link href="https://www.theblockbeats.info/news/33856"/>
+        <updated>2023-01-15T07:47:38.000Z</updated>
+        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
+
+
+ 
+《BAYC 新故事线进行时：新游戏 Dookey Dash 与游戏门票 BAYC Sewer Pass 怎么玩》
+
+
+ 
+做好准备！穿过「下水道」然后把钥匙从 Jimmy The Monkey 的屁股里拔出来！1 月 12 日，Yuga Labs 正式宣布将于 1 月 18 日启动新游戏「Dookey Dash」，并将在游戏开放的前一日启动游戏参与门票「BAYC Sewer Pass」的 Mint。这是 BAYC 生态内新故事线前传的第 3 阶段，也是该故事线的第一个交互游戏的启动准备阶段。
+
+
+
+
+《冲上榜一的「变异狗」Mutant Hounds 是 Yuga Labs 的新项目吗？》
+
+
+
+
+从去年 12 月底开始，Yuga Labs 动作连连，先是释出了「The Trial of Jimmy the Monkey」剧情动画，后又推进到了「宝箱」剧情，并在 1 月 12 日 正式宣布将于 1 月 18 日启动一个类似于神庙逃亡的跑酷游戏「Dookey Dash」。短时间内让 NFT 市场迎来了一波「吉米猴」行情。新游戏可以将 BAYC、MAYC 与 BAKC 组合去获取 PASS。得益于此，BAKC 系列 NFT 地板价在近日一度突破了 11 ETH，创近 9 个月币本位新高。。在这种情形下，有一个对应的「变异狗」Mutant Hounds 也恰好上线，一方面这个「变异」属性让人不禁联想到无聊猿与变异猴的关系，另一方面它的两个系列也在短时间内冲上了 OpenSea 的 24 小时交易榜榜首，人们讨论这个项目是什么来头，它是 …]]></summary>
+        <author>
+            <name>TheBlockBeats - 新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迈向Web3游戏应用的前沿：Web3游戏引擎与SDK工具]]></title>
         <id>https://www.theblockbeats.info/news/33848</id>
