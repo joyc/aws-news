@@ -2,744 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-05T12:11:40.827Z</updated>
+    <updated>2023-02-05T18:08:05.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[周末荐读：DCG回应全部潜在雷点；BAYC新故事线进行时]]></title>
-        <id>https://www.theblockbeats.info/news/33856</id>
-        <link href="https://www.theblockbeats.info/news/33856"/>
-        <updated>2023-01-15T07:47:38.000Z</updated>
-        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
-
-
- 
-《BAYC 新故事线进行时：新游戏 Dookey Dash 与游戏门票 BAYC Sewer Pass 怎么玩》
-
-
- 
-做好准备！穿过「下水道」然后把钥匙从 Jimmy The Monkey 的屁股里拔出来！1 月 12 日，Yuga Labs 正式宣布将于 1 月 18 日启动新游戏「Dookey Dash」，并将在游戏开放的前一日启动游戏参与门票「BAYC Sewer Pass」的 Mint。这是 BAYC 生态内新故事线前传的第 3 阶段，也是该故事线的第一个交互游戏的启动准备阶段。
+        <title type="html"><![CDATA[周末荐读：试试Nostr首个客户端Damus；概览Arbitrum上7个值得关注项目]]></title>
+        <id>https://www.theblockbeats.info/news/34314</id>
+        <link href="https://www.theblockbeats.info/news/34314"/>
+        <updated>2023-02-05T06:56:02.000Z</updated>
+        <summary type="html"><![CDATA[随着 Crypto 市场回暖，2023 年我们回归 Build。行业里出现了很多新项目以及新机遇，一起在本文中回顾下过去一周的精彩内容吧。
 
 
 
 
-《冲上榜一的「变异狗」Mutant Hounds 是 Yuga Labs 的新项目吗？》
+为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
 
 
 
 
-从去年 12 月底开始，Yuga Labs 动作连连，先是释出了「The Trial of Jimmy the Monkey」剧情动画，后又推进到了「宝箱」剧情，并在 1 月 12 日 正式宣布将于 1 月 18 日启动一个类似于神庙逃亡的跑酷游戏「Dookey Dash」。短时间内让 NFT 市场迎来了一波「吉米猴」行情。新游戏可以将 BAYC、MAYC 与 BAKC 组合去获取 PASS。得益于此，BAKC 系列 NFT 地板价在近日一度突破了 11 ETH，创近 9 个月币本位新高。。在这种情形下，有一个对应的「变异狗」Mutant Hounds 也恰好上线，一方面这个「变异」属性让人不禁联想到无聊猿与变异猴的关系，另一方面它的两个系列也在短时间内冲上了 OpenSea 的 24 小时交易榜榜首，人们讨论这个项目是什么来头，它是 …]]></summary>
+《试试 Nostr 的首个客户端 Damus，推特创始人认可的 Web3 新社交》
+
+
+
+
+离开 Twitter 后，前 Twitter CEO Jack 这位比特币原教旨主义者沉浸在去中心化网络的世界，2 月 1 日，Jack 兴奋地在 Twitter 上宣布 Damus 上线，这款去中心化社交协议 Nostr 的首个移动客户端，成为了去中心化社交网络的新玩家。本文为 Damus 详细使用教程。
+
+
+
+
+《消失 8 个月的 Luna 创始人，正在卷土重来》
+
+
+
+
+在 600 亿美元 Terra 帝国覆灭之后，加密逃犯 Do Kwon 正密谋东山再起。Terraform Labs 的稳定币 Terra 于去年倒台，这位失意的 CEO 正研发一些新产品，并招募新员工充实他的工程部门。即便 Crypto 是一个充斥着二次机会的行业，这位早已不受欢迎的人谋求翻身的企图仍称得上有些大胆。
+
+
+
+
+《一文概览 Arbitrum 上的 7 个值得关注的项目》
+
+
+作为今年备受关注的 Layer 2，Arbitrum 上面有很多高质量的项目需要我们时刻关注，尽早了解和体验，未来几月或将迎来「Arbitrum Season」，加密研究员 Corleone 撰写了一篇 Arbitrum 上的高质量 Alpha 项目，BlockBeats 对内容进行了整理编译。
+
+
+
+
+《即将空投？从数据看看 Lens 生态发展的怎么样》
+
+
+
+
+Nostr …]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[迈向Web3游戏应用的前沿：Web3游戏引擎与SDK工具]]></title>
-        <id>https://www.theblockbeats.info/news/33848</id>
-        <link href="https://www.theblockbeats.info/news/33848"/>
-        <updated>2023-01-15T03:28:52.000Z</updated>
-        <summary type="html"><![CDATA[据 Dappradar《2022 年 Dapp 行业报告》，这一年围绕去中心化理念构建的商业应用逐渐增多，传统领域的企业也越来越多地采用区块链技术，导致了 Dapps 更广泛的发展。特别是在 web3 游戏赛道，虽然正经历着严酷的加密之冬，但仍能看到该领域令人难以置信的弹性。
-
-
-
-
-该报告显示 2022 年，web3 游戏领域每天的独立活跃钱包 (UAW) 数平均增加了约 115 万个，占到了所有 Dapps 日常区块链活动的 49%，而交易笔数也增长了 94.17%，达到 74.4 亿笔。
-
-
-
-
-那么面对热度仍如此高的赛道可以如何参与，能通过哪些工具创建一个 web3 游戏应用？本文将详细介绍下目前存在的一些构建 web3 游戏应用的引擎与 SDK 工具。
-
-
-
-
-传统游戏引擎
-
-
-
-
-首先，我们先来看一下游戏引擎的概念与起源发展。
-
-
-
-
-游戏引擎是一些已编写好的代码集合和一些交互式实时图像应用程式的核心组件，这个系统为游戏开发者提供了各种编写游戏所需的工具，旨在让它们在实时运算、效率优先、追求品质的思路下，解决游戏中的渲染、物理、动作等核心问题，从而容易和快速地做出一款游戏，而不用从零开始重复造轮子。
-
-
-
-
-早前游戏开发商们也发现，既然有些功能是类似的，为何不抽象出一些代码片段，在开发其他游戏时再直接调用。于是各家游戏公司开始维护自己的基础代码库，以减少重复开发的工作量。
-
-
-
-
-但随着市场的逐步发展，游戏也越来越复杂，落后的开发模式已跟不上玩家日益增长的玩法需求。
-
-
-
-
-这时一位叫约翰·卡马克（John Carmack）的游戏开发者同样看到了代码复用模式的弊端：先做完一个游戏，再把其中的一部分代码保留下来给下一代游戏用，那这永远是在用当前的技术解决未来的问题。于是，他决定开始开发游戏的框架，直接将未来可能用到的基础代码全部写好，并且留下方便调用和修改的接口。…]]></summary>
+        <title type="html"><![CDATA[专访中东Web3顶级风投Cypher：借鉴中国互联网投资的迪拜新贵]]></title>
+        <id>https://www.theblockbeats.info/news/34313</id>
+        <link href="https://www.theblockbeats.info/news/34313"/>
+        <updated>2023-02-05T05:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Cypher Capital堪称“中东的a16z”或者中东Web3的“高瓴”，其在中东北非和亚州的影响力颇具特色。Bill是Cypher的董事长/General Partner，他也见证了过去20年中国互联网的崛起。这次很高兴能将Bill的见解拆解给读者们。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一文了解Celestia和Fuel，2023 应该关注的模块化区块链]]></title>
-        <id>https://www.theblockbeats.info/news/33855</id>
-        <link href="https://www.theblockbeats.info/news/33855"/>
-        <updated>2023-01-14T09:13:39.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Thor Hartvigsen
+        <title type="html"><![CDATA[【视频】通过ChatGPT 赚钱的八种思路]]></title>
+        <id>https://www.theblockbeats.info/news/34312</id>
+        <link href="https://www.theblockbeats.info/news/34312"/>
+        <updated>2023-02-05T05:07:25.000Z</updated>
+        <summary type="html"><![CDATA[原视频来源：GPTHunt
 
+网友热议生成式 AI，纷纷去跟 ChatGPT 聊天，据说其 1 月末的月活用户已经突破了 1 亿；同时资本市场反应很强烈，投资者也被点燃，在互动平台大量问题都是在询问各家上市公司有没有涉及 ChatGPT 领域的产品或应用，做相关的布局。
 
 
-
-
-
-
-
-
-
-原文编译：Leo，BlockBeats
-
-
-
-
-
-
-
-
-可扩展性一直是行业关注的重点，恰好目前区块链面临着「可扩展性三重困境」的问题，而始于 Celestia 的模块化区块链正在围绕其可扩展性、高水平安全性和去中心化提出了解决方案，模块化区块链正在成为一种主流叙事，加密KOL Thor Hartvigsen 撰写了一篇关于「模块化区块链和其内在价值」的文章，BlockBeats 编译如下：
-
-
-
-
-PART 1 ：始于基础概念
-
-
-
-
-今天需要改进的问题：
-
-
--无信任的跨链通信
-
-
--当交易数量增长到足够大时的 Rollup 扩展性
-
-
--在以提高吞吐量为目标时保持高水平的安全性和去中心化（区块链三重困境）
-
-
-
-
-
-
-
-首先，为了确保彻底理解这些概念，我们得建立一些术语，如下图：
-
-
-
-
-
-
-
-区块
-
-
-区块是区块链的组成部分，单个块由两个组件组成：block headre block body，header 包含前一个区块的哈希、timestamp 等数据，body 包含该区块中的所有交易。
-
-
-
-
-
-市面上很受欢迎的扩展的策略是拥有更大的区块（Solana）。
-
-
-更大的区块=增加吞吐量，但在去中心化层面存在一些问题。
-
-
-更大的区块=节点所需的数据更庞大，很少有人能负担得可以承载庞大数据的更昂贵的硬件。
-
-
-
-
-节点
-
-
-一个完整的节点需要存储整个区块链以及从第一个区块开始进行过的所有交易，为了在区块链上交易，需要确保共识、确保数据可用且区块有效。
-
-
-
-
-轻节点（轻客户端）
-
-
-轻节点用于 Rollup，并将大部分工作外包给完整节点，它们不验证交易，而是检查每个区块是否具有共识，以及区块数据是否可用于网络，大多数轻节点依赖于「多数诚实假设」，假设大多数参与者（如验证者）是诚实的，轻节点需要更少的硬件，…]]></summary>
+如此街头巷尾讨论的 ChatGPT, 本期视频来讲解一下ChatGPT有哪些赚钱方式。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[纪念「互联网之子」Aaron Swartz：用生命捍卫信息平等与网络开放的天才少年]]></title>
-        <id>https://www.theblockbeats.info/news/33854</id>
-        <link href="https://www.theblockbeats.info/news/33854"/>
-        <updated>2023-01-14T04:25:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Aaron Swartz | 我在沙发上坐着就成为了百万富翁，但这一切都不是我想要的》
-原文来源：猕猴桃 起泡 SparklingLife
-
-
-BlockBeats 注：「互联网之子」Aaron Swartz 在 2013 年 1 月 11 日自杀身亡，年仅 26 岁。这位天才少年一生都在为知识贡献而奋斗，同时他也是 Reddit 和 Markdown 的联合创始人，Reddit 如今已成为全球互联网用户进行最真实、有趣的对话的平台——游戏社区、怀旧的互联网论坛、博主、模因制造者和粉丝与视频流媒体.... 众多互联网知名人士也常常聚集到 Reddit 上进行问答 AMA（Ask me anything），以此来纪念这位互联网英才。
-2023 年，Aaron Swartz 去世十周年，本文短短数千字浓缩了他短暂的一生，而他真实的生活必定比文字描述更为跌宕起伏。无论如何，互联网永远会记住这位为开放知识而奋斗的少年。
-
-
-Aaron Swartz（亚伦·斯沃茨），他是个天才。
-
-
-出生于程序员世家的他，3 岁开始使用电脑，12 岁创建了一个名叫 The Infobase 的知识共享网站。
-
-
-这个网站和维基百科差不多，但比维基百科早了五年。
-
-
-次年，他又参加了 RSS 的编写。
-
-
-这是最早的博客网站，用户可以订阅自己感兴趣的内容。
-
-
-
-
-
-
-
-
-
-他的偶像是 Tim Berners Lee, 万维网的创始人。
-
-
-他 15 岁就考入了斯坦福大学，但一年后他就辍学了。
-
-
-随后加入了一个名为 Y-combinator 的创业公司，然后编写一个热门网站，大受欢迎。
-
-
-网站随即和 Reddit 合并，次年 Reddit 被 Cond Nast Publications 收购。
-
-
-19 岁的亚伦瞬间成为了百万富翁。
-
-
-
-
-「这太不可思议了，三百万美金？我就坐在沙发…]]></summary>
+        <title type="html"><![CDATA[一文概览Arbitrum上的7个值得关注的项目]]></title>
+        <id>https://www.theblockbeats.info/news/34311</id>
+        <link href="https://www.theblockbeats.info/news/34311"/>
+        <updated>2023-02-04T06:28:36.000Z</updated>
+        <summary type="html"><![CDATA[「未来几月或将迎来Arbitrum Season」]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[冲上榜一的「变异狗」Mutant Hounds是Yuga Labs的新项目吗？]]></title>
-        <id>https://www.theblockbeats.info/news/33852</id>
-        <link href="https://www.theblockbeats.info/news/33852"/>
-        <updated>2023-01-14T03:31:28.000Z</updated>
-        <summary type="html"><![CDATA[撰文：0xLaughing，律动 BlockBeats  
-
-
-
-
-
-
-
-
-
-从去年 12 月底开始，Yuga Labs 动作连连，先是释出了「The Trial of Jimmy the Monkey」剧情动画，后又推进到了「宝箱」剧情，并在 1 月 12 日 正式宣布将于 1 月 18 日启动一个类似于神庙逃亡的跑酷游戏「Dookey Dash」。短时间内让 NFT 市场迎来了一波「吉米猴」行情。
-
-
-
-
-新游戏可以将 BAYC、MAYC 与 BAKC 组合去获取 PASS。得益于此，BAKC 系列 NFT 地板价在近日一度突破了 11 ETH，创近 9 个月币本位新高。
-
-
-
-
-
-「变异狗」Mutant Hounds 的两个系列占据 OpenSea 交易量榜首
-
-
-
-
-在这一套组合拳里，那个长时间坐冷板凳的「无聊狗」Bored Ape Kennel Club（BAKC）也终于有了上场机会，这引发各个社群讨论。在这种情形下，有一个对应的「变异狗」Mutant Hounds 也恰好上线，一方面这个「变异」属性让人不禁联想到无聊猿与变异猴的关系，另一方面它的两个系列也在短时间内冲上了 OpenSea 的 24 小时交易榜榜首，人们讨论这个项目是什么来头，它是 Yuga Labs 的正版新项目还是盗版衍生品？让我们详细解读一下。
-
-
-
-
-Mutant Hounds 项目信息简介
-
-
-
-
-Mutant Hounds 发售情况简介
-
-
-
-
-
-
-
-
-
-「变异狗」Mutant Hounds 是由 MAYC 持有者自建社区 Mutant Cartel 推出的 NFT 项目，总量为 10,000 个，在去年 12 月 14 日起发售，根据 12 月 5 日的快照情况先后依照Genesis Oath（团队在 2022 年 3 月发售的社区 PASS）、BAYC、MAYC、BAKC 持有者的…]]></summary>
+        <title type="html"><![CDATA[探索AI驱动DAO的6个应用方向：会将我们带向何方？]]></title>
+        <id>https://www.theblockbeats.info/news/34287</id>
+        <link href="https://www.theblockbeats.info/news/34287"/>
+        <updated>2023-02-04T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[DAO可以利用AI做出更好的治理决策、提高效率并与其他DAO集成，但而这集合的交叉应用可能远不止于此。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V神2023首次Reddit AMA 12问12答]]></title>
-        <id>https://www.theblockbeats.info/news/33849</id>
-        <link href="https://www.theblockbeats.info/news/33849"/>
-        <updated>2023-01-14T03:31:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《V 神 2023 首次 Reddit AMA 12 问 12 答》
-原文来源：Reddit
-原文编译：DeFi 之道
-
-
-
-
-1 月 11 日，以太坊基金会（EF）研究团队成员在 Reddit 上展开了第九次 AMA。这也是 2023 年的第一场 AMA。以太坊创始人 Vitalik Buterin，以太坊基金会研究员 Danny Ryan，Dankrad Feist，Justin Drake，Domothy 等在线参与回答社区成员的提问。本文节选了 Vitalik 对社区提问的回答。
-
-
-
-
-
-
-
-1. 从本质上讲，取消分片并坚持仅实施 EIP-4844 是一种简单、高效的数据可用性工具吗？
-
-
-
-
-在短期内，我认为 EIP-4844 的推出和 rollups 组合的第 1 阶段将足以让我们「暂时解决」扩展问题，从而使我们放松一下并专注于其他（L1 和生态系统）挑战。然而，从长远来看，我确实认为我们最终将需要实际的 danksharding。
-
-
-
-
-从数学上计算如下：
-
-
-
-
-当前在 L1 上，以太坊可以支持每秒钟转账 15000000 / 12 / 21000 = 59.5 ETH 或大约 15000000 / 12 / 50000 = 25.0 ERC20 Token。
-
-
-
-
-在使用初始 EIP-4844 参数和使用基本压缩的 rollup 情况下，ERC20 转账将能够达到 262144 / 12 / 154 = 141 TPS。
-
-
-
-
-如果我们随着时间的推移将 EIP-4844 扩展到更积极的参数，目标是每个区块大小为 1 MB，那么它会增加到 567 TPS。
-
-
-
-
-如果 rollup 添加最佳压缩（每次 ERC20 转账大小为 23 个字节），则最高可达 3799 TPS。
-
-
-
-
-这在相当长的一段时间内已经足够了：如果有 1 亿用户，并且…]]></summary>
+        <title type="html"><![CDATA[新协议Dove Protocol 的跨链AMM有什么不同?]]></title>
+        <id>https://www.theblockbeats.info/news/34310</id>
+        <link href="https://www.theblockbeats.info/news/34310"/>
+        <updated>2023-02-04T03:14:41.000Z</updated>
+        <summary type="html"><![CDATA[「在L 1提供流动性，在L 2交易」]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[导读a16z对Web3监管框架的建议]]></title>
-        <id>https://www.theblockbeats.info/news/33846</id>
-        <link href="https://www.theblockbeats.info/news/33846"/>
-        <updated>2023-01-14T01:31:28.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-一文导读 a16z 对 Web3 监管框架的建议（监管应用，而非协议）Part I，Part II》
-原文来源：0x 阿走，DeFi 之道  
-
-
-随着动荡的 2022 年在 Luna/USDT、三箭资本、FTX 的崩塌中落下帷幕，全球监管机构终于意识到对 Web3 加密行业监管的紧迫性。如目前全美各界都逐渐形成了对 Web3 加密资产及科技创新的统一态度：加速监管创新，不错过任何一次革命性的机会，确保 Web3 革命发生在美国！继而不论是在美国联邦层面还是州层面都将传统金融及互联网的 Web3 衍生——中心化金融 CeFi（如 CEX、Wallet 服务商、稳定币发行方等）纳入传统金融的监管框架，并且针对性地根据 Web3 加密行业基于区块链的特点进行立法上的补充。
-
-
-我们可以看到各国监管机构都将在 2023 年对 CeFi 铐上枷锁，但是对于 DeFi，各国监管机构就显得手足无措了，例如臭名昭著的 OFAC 对于 Tornado Cash「一刀切」式的制裁事件。a16z 的总法律顾问 Miles Jennings 在于 2022 年 9 月 29 日以「Regulate Web3 Apps, Not Protocols」的文章回应了这一事件，并提出对于 Web3 监管框架的设想：监管智能合约协议是没有意义的，而是应该监管 Web3 的应用程序。
-
-
-此后，a16z 于 2022 年 12 月 15 日为金融稳定委员会（FSB）的「加密资产活动的全球监管」框架提出了建议，包括对 DeFi 的监管建议，认为对于 Web3 不应采用其「Same Activity, Same Risk, Same Regulation」的原则，因为目前传统金融监管框架并不适合去中心化的 Web3 应用。近期，2023 年 1 月 11 日，Miles Jennings 又发表…]]></summary>
+        <title type="html"><![CDATA[加密领域的下一波颠覆性创新浪潮将来自哪里？]]></title>
+        <id>https://www.theblockbeats.info/news/34296</id>
+        <link href="https://www.theblockbeats.info/news/34296"/>
+        <updated>2023-02-04T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[重点关注这三种Token分发机制和加密经济模型创新。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[真正的加密采用对基础设施的要求是什么？]]></title>
-        <id>https://www.theblockbeats.info/news/33837</id>
-        <link href="https://www.theblockbeats.info/news/33837"/>
-        <updated>2023-01-13T14:13:55.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《真正的加密采用对加密基础设施的要求是什么？》
-原文来源：Coindesk 
-原文编译： Mary Liu，比推 BitpushNews
-
-
-
-
-
-
-一位名叫 Kgothatso Ngako 的非洲小哥发现了一个商机，他相信他在非洲的邻居可以从拥有比特币中受益，但大多数非洲人没有智能手机。非洲的互联网普及率仅为 30%，正如宣传的那样，数百万人无法「拥有自己的银行账户」。
-
-
-
-
-Ngako 想改变这一点。作为亚马逊的前软件工程师，他已经致力于将比特币教育材料——例如中本聪的白皮书——翻译成 20 多种非洲语言，包括斯瓦希里语、绍纳语和 Oshiwambo。但还是不够，除非人们有办法真正拥有比特币，否则知识将一文不值。
-
-
-
-
-Ngako 说：「幸运的是，在非洲大陆，GSM 基础设施相当稳固，」基于这个网络，许多非洲人仍在使用翻盖手机，那么 Ngako 能否利用 GSM 基础设施并创建与比特币兼容的东西？
-
-
-
-
-他辞去了工作并建立了「Machankura」，这个词没有准确的翻译，但 Ngako 说这是一个「通常指金钱的俚语」。Machankura 是一个基于文本的界面，允许通过闪电网络启用比特币的发送、接收和支出，用户可以直接在他们的翻盖手机上创建闪电钱包。在我们的 Zoom 通话中，Ngako 举起手机并演示了功能：一个简单的屏幕提供了 1. 发送 BTC 的选项；2. 接收比特币；3; 余额与历史；4. 花费 BTC，等等。
-
-
-
-
-Machankura 仍处于早期测试阶段，但 Ngako 表示它已经活跃使用了六个月，他将这样的解决方案设想为吸引更多非洲人的一种方式，他认为早该采用这种方式。
-
-
-
-
-Ngako 说：「从采用的角度来看，比特币目前没达到其应该在的位置，」他指出，2007 年推出的数字（非加密）支付平台 Mobile Money 在肯尼亚拥有 …]]></summary>
+        <title type="html"><![CDATA[Rootdata：Web3早期项目发掘工具与数据平台]]></title>
+        <id>https://www.theblockbeats.info/news/34309</id>
+        <link href="https://www.theblockbeats.info/news/34309"/>
+        <updated>2023-02-03T14:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Rootdata希望帮助业内人士及时发现更多优质、有趣和可靠的项目，进而探寻整个行业的发展规律。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zkRouter：Multichain推出的下一代跨链桥技术革新]]></title>
-        <id>https://www.theblockbeats.info/news/33851</id>
-        <link href="https://www.theblockbeats.info/news/33851"/>
-        <updated>2023-01-13T11:08:40.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：Multichain
-
-
-零知识证明 (Zero Knowledge Proof, ZKP) 作为一种更加去信任，去中心化的方式扩展以太坊的解决方案，已经获得行业广泛的认同。在跨链行业也展现出无信任设施依赖、链上轻计算、通用、低延迟等优势，尤其是 ZKP 在信任层面解决当前跨链桥安全问题方面展现出的优势则更加明显。
-
-
- 
-Multichain 推出 zkRouter 
-
-
- 
-Multichain 作为跨链桥和通用消息跨链服务提供商的龙头，目前已经连接公链数量达 81 条公链，用户数量超过 80 万。Multichain 在的 Router、anyCall 和 NFT Router 等产品取得了巨大成功，今天，Multichain 新推出下一代技术革新产品--zkRouter，并发布 zkRouter 白皮书。
-
-
- 
-作为最新的解决方案，zkRouter 利用了 ZKP 技术安全高效地连接了多个区块链网络并实现了无缝互操作性。这项创新对跨链互操作来说非常实用，因为它允许在不同区块链之间以去信任化、安全和隐私友好的方式传输资产和信息，并不会泄露敏感信息。目前大多数跨链桥仍然依赖于中心化机制传递跨链信息，但 ZKP 可以用来消除这种信任需求，这也是 Multichain 利用这种机制构建新一代跨链互操作协议的主要原因。
-
-
-
- 
-基于 zkRouter 协议的跨链应用过程
-
-
- 
-zkRouter 的优点 
-
-
- 
-zkRouter 将 ZKP 技术应用于跨链互操作的优点包括：
-
-
- 
-1. 无信任
-
-
-跨链通信消息由 zk-SNARKs 证明，没有引入外部信任假设。在外部公链和底层共识安全的前提下，中继网络中只要有一个诚实节点，就能保障 zkRouter 跨链的安全性。
-
-
- 
-2. 可扩展性和高效性
-
-
-zkRouter 允许更多 dApps 在其上运行，其轻…]]></summary>
+        <title type="html"><![CDATA[Reality Labs亏损扩大，Meta「砸钱」继续]]></title>
+        <id>https://www.theblockbeats.info/news/34285</id>
+        <link href="https://www.theblockbeats.info/news/34285"/>
+        <updated>2023-02-03T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[元宇宙里，扎克伯格要一路狂飙。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kava即将上线Kava 12主网，为Cosmos生态带来开创性的新模块x/kavamint]]></title>
-        <id>https://www.theblockbeats.info/news/33850</id>
-        <link href="https://www.theblockbeats.info/news/33850"/>
-        <updated>2023-01-13T11:08:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Kava 即将上线 Kava 12 主网，为 Cosmos 生态带来开创性的新模块 x/kavamint》
-原文来源：Kava Labs 中文官方
-
-
-x/kavamint 介绍：为 Cosmos DAO 带来灵活性和掌控权的新模块
-
-
-随着 Kava 12 主网的发布，Kava 将在 Web3 领域向前迈出一大步。新版本引入了一个开创性的新模块——x/kavamint，支持任何 Cosmos 链 DAO 对其发行机制有更多的掌控权和灵活性。
-
-
-每条 Cosmos 链都有发行机制，之前往往会有不清楚发行通证流向何处的情况，以及如何以持续自动的方式将其用于激励。现在，这些情况可以在 Kava DAO 新的灵活结构中解决。
-
-
-以下列出了 Kava 如何调整 Cosmos DAO 技术以满足其生态的需求：
-
-
-•  清晰的模块化发行机制：来自 kavamint 的发行通证将清楚地流向 Kava 社区池并被社区池所持有。Kava DAO 将有更大的灵活性和掌控权，可以控制资金流向投资组合管理和用于增长计划的资金分配。  
-
-
-•  Kava DAO 社区池现在可以持有资产组合：社区现在将控制一个资产组合，而不仅仅是 KAVA，它可以根据不同的趋势和市场条件重新平衡资产组合。
-
-
-
-
-•  更好地了解 Kava DAO 社区投资组合和资金流：透明度对于一个蓬勃发展的 DAO 至关重要。Kava 社区将能够看到社区池投资组合的价值快照。  
-
-
-•  能够根据使用参数销毁资产。
-
-
-•  能够基于 Kava DAO 治理限制总供应量：与大多数 Cosmos 链无限通胀的模式不同，Kava 可以有一个预定的最大总供应量，使其最终实现通缩。
-
-
-•  真正的 KAVA 质押年化收益率将是固定的，与供应无关，并设置最好的参数，而不是根据锁定通证的数量波动。这一变化将使社区的质…]]></summary>
+        <title type="html"><![CDATA[解读BNBchain Greenfield：Web3数据存储的星辰大海]]></title>
+        <id>https://www.theblockbeats.info/news/34292</id>
+        <link href="https://www.theblockbeats.info/news/34292"/>
+        <updated>2023-02-03T10:39:42.000Z</updated>
+        <summary type="html"><![CDATA[分析BNB存储侧链Greenfield。]]></summary>
         <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话SignalPlus ：做最适合期权市场的交易工具]]></title>
-        <id>https://www.theblockbeats.info/news/33847</id>
-        <link href="https://www.theblockbeats.info/news/33847"/>
-        <updated>2023-01-13T10:08:40.000Z</updated>
-        <summary type="html"><![CDATA[1 月 13 日，SignalPlus BD Tony Tian, CFA 做客 BlockBeats AMA，与我们聊聊加密货币期权交易工具平台 SignalPlus 如何打破期权交易边界，做出最适合期权市场的交易工具。
-
-
-
-SignalPlus 是一家顶级企业技术公司，提供适用于数字资产和加密货币资产的期权交易解决方案。SignalPlus 提供专业的加密期权交易工具包，包括投资银行级别的定价、分析、风险管理和直接交易功能。
-
-
-以下是本次AMA的文字内容：
-
-
-BlockBeats：请 Tony 给大家做个项目的背景介绍
-
-
-我叫 Tony Tian, 现在负责 SignalPlus 商务这一块，曾任职于美国最大的汽车金融公司，拥有多年一级市场二级市场投资及管理经验，擅长收购并购估值，金融衍生品投资。
-
-
-SignalPlus 成立于 2021 年，作为一家技术公司，SignalPlus 希望打造一个易于使用的开放式技术平台，助力水平各异的用户轻松实现加密货币期权交易。
-
-
-
-
-BlockBeats：
-
-SignalPlus
-
-怎么没考虑做VC（投资基金），而是做了期权平台？
-
-
-我们同事早期都是传统金融的交易员，初衷是想做一个投资基金来 web3 淘金。但是随着交易的深入，我们发现现在这个领域缺少一些工具。而在我们团队中，正好也有开发经验丰富的成员。所以我们就在交易的过程中，自己开发了很多我们认为有帮助的工具。期权市场的确也是蓝海，非常有潜力的市场。
-
-
-
-BlockBeats：期权这个概念相比于现货和期货，对于投资者会更陌生一些，也简单给大家介绍一下什么是期权？
-
-简单的来说，期权是一种选择交易与否的权力。期权的购买者在付出权利金后，有在期权合约的有效期内，按执行价格买入或者卖出一定标的资产的权利。如果这个权力是在特定价格买入 ETH, 那么我们就说这个是 ET…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当谈论跨链桥时，我们都在谈论什么？]]></title>
-        <id>https://www.theblockbeats.info/news/33836</id>
-        <link href="https://www.theblockbeats.info/news/33836"/>
-        <updated>2023-01-13T09:08:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《What I Talk About When I Talk About Bridges》
-原文作者：0xjim
-原文编译：ChinaDeFi
-
-
-
-
-
-
-入门
-
-
-
-
-你是否曾经徒步旅行并尝试在不使用桥的情况下过河？我有，我可以告诉你这感觉很糟糕。
-
-
-与现实世界中的桥一样，加密货币桥 ( 以及它们更华丽的表亲：「互操作性协议」和「通用消息层」) 提供了相同的价值。
-
-
-它们把区块链连接在一起。如果没有桥，那么从一个链移动到另一个链会是一种非常痛苦的用户体验。
-
-
-但加密桥不仅仅是连接，它们还允许在区块链之间翻译语言和规则。
-
-
-桥使数据能够在不同的环境之间进行传输和解释。它们允许链之间的互操作性。
-
-
-「但是，未来会是多链的吗?」你可能会有这个疑问。
-
-
-嗯，是的。
-
-
-必须而且永远会有多个区块链——从 Cosmos 到 Avalanche 到 Aptos 到以太坊的多个活动区域。
-
-
-这些区块链需要一个通信层来协调结算。否则，他们将永远彼此隔离。
-
-
-
-
-
-
-
-使用 re:meme 在链上制作的 Meme
-
-
-仅在过去的 30 天里，就有大约 50 亿美元的价值通过桥传输。此外，桥公司正受到投资者的青睐。
-
-
-
-
-
-资料来源：德尔福数字研究
-
-
-但是，在过去的一年里，也发生了价值超过 20 亿美元的漏洞利用攻击——他们要么是利用核心机制设计，要么是利用智能合约漏洞。
-
-
-
-
-圣杯
-
-
-
-
-该如何定义一个「理想的」桥呢?
-
-
-在加密领域摸爬滚打了一年之后，我觉得安全可靠的机制设计才能恢复用户的信心。
-
-
-
-
-
-资料来源：德尔福数字研究
-
-
-最安全的桥设计应该是信任最小化的，桥继承了它连接的两条链的安全属性。
-
-
-这是通过链上验证来完成的：目标链 ( 即接收桥接交易的链 ) 验证源链的共识，并看到指定的交易确实包含在它们的区块链中。
-
-
-这通常是由目标链的验证者…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT市场简史：从单一专有到百花齐放，跨越10年的NFT交易演变]]></title>
-        <id>https://www.theblockbeats.info/news/33844</id>
-        <link href="https://www.theblockbeats.info/news/33844"/>
-        <updated>2023-01-13T09:08:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《NFT 市场简史：从单一专有到百花齐放，跨越 10 年的 NFT 交易演变》
-原文作者：jakegallen.eth
-原文编译：白泽研究院
-
-
-
-
-「古老 NFT」（Historical NFT）是一种描述「过时」或 NFT 生态系统演变的较早时期的 NFT 项目的术语。
-
-
-
-
-「互联网考古」是对互联网及其各种平台和技术的历史和演变的研究。它涉及检查和记录塑造我们今天所知的互联网的各种产品及其发展。这可能包括早期的聊天论坛、社交媒体平台、网站和其他互联网产品。
-
-
-
-
-现在，「NFT 考古」（NFT Archeology）一词也出现在了 NFT 社区中，「NFT 考古学家」们正在研究 NFT 的历史和演变，整理出那些古老的 NFT 项目。这涉及研究 NFT 的早期实验和发展，以及围绕它们出现的各种平台和社区。
-
-
-
-
-在本文中，我将尝试整理 NFT 市场的发展史（2014 年 1 月 - 2022 年 12 月）。
-
-
-
-
-
-
-
-
-
-
-Counterparty 于 2014 年 1 月推出，旨在成为比特币用户创建衍生金融资产和工具的平台。它成为一些最早的 NFT 的发源地，例如 Spells of Genesis、 Rare Pepes 和 Sarutobi Island。Counterparty 的原生货币 XCP 是通过被称为「燃烧证明」的机制创建的——BTC 被烧毁以创建 XCP。Counterparty 内置的去中心化交易平台（DEX）在当时是创新，早于现在区块链行业常见的许多 DEX。长期以来，Counterparty 并不为人所知，但近年来，尤其是在 2021 年 NFT 热潮期间，它开始流行起来。如今，它拥有了蓬勃发展的生态系统，包括 XCP Dispensers、Emblem Vault 和 Scarce City。
-
-
-
-
-
-
-
-
-
-Doge…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azuki正式迈入元宇宙：虚拟城市「Hilumia」中的重要线索]]></title>
-        <id>https://www.theblockbeats.info/news/33842</id>
-        <link href="https://www.theblockbeats.info/news/33842"/>
-        <updated>2023-01-13T08:08:40.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Azuki 正式迈入元宇宙：虚拟城市「Hilumia」中的重要线索》
-原文作者：十文，
-
-Odaily 星球日报
-
-
-
-从诞生之日起，作为去年 NFT 蓝筹项目之一的 Azuki，就夹带着各种光环——三分钟内售罄、地板价攀升极快、二次元潮牌、填补 BYAC 后东方市场空白……独特的美术风格、多样的营销玩法以及强大的社区凝聚力都促使 Azuki 突破一个又一个障碍，成为现象级 NFT。
-
-
-但创始人的一段黑历史（相关具体信息，推荐阅读《Azuki 创始人自曝？今天早上究竟发生了什么》）引发的舆论发酵，让大部分 NFT 玩家对其过往行为嗤之以鼻，同样也招致恐慌抛售，使得 Azuki 地板价下跌了约 10 ETH，也让其关注度不似当年。叠加上去年二季度起 NFT 交易量断崖式下跌的宏观环境，Azuki 一直表现平平，并未有太大突破。
-
-
-要想长期获得资本青睐，同时让玩家看到社区成长，每个 NFT 项目方都必须创新玩法，寻找新的商业或发展模式。
-
-
-去年 6 月，Azuki 分享了扩大 Azuki 的计划，结合 IP、线下艺术体验、发布 PBT 标准等一系列活动接踵而来。这似乎在宣告 Azuki 的元宇宙计划正向我们靠近。
-
-
-今日，趁 Azuki 成立 1 周年之际，该团队宣布正式推出由社区建造的虚拟城市「Hilumia」，Azuki NFT 持有者或社区参与者现在可以参与探索。在该虚拟城市中，包含了各种可供互动体验的平台，如玩具店 Slowpoke's Toy Haven、设计平台 Ember Square、滑板爱好者社区 Golden Skate Park、以及意见「收集箱」Garden Express 等。
-
-
-消息既出，Azuki 空投项目 Beanz Official 地板价应声上涨， 24 小时涨幅 69% ，并占据 Opensea 排行榜第二名。
-
-
-下…]]></summary>
-        <author>
-            <name>TheBlockBeats - 新闻</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
 </feed>
