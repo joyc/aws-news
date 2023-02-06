@@ -2,10 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-06T00:36:34.093Z</updated>
+    <updated>2023-02-06T06:10:23.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[读懂Canto经济模型与运作机制]]></title>
+        <id>https://www.theblockbeats.info/news/34321</id>
+        <link href="https://www.theblockbeats.info/news/34321"/>
+        <updated>2023-02-06T05:57:51.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《一文读懂 Canto 经济模型与运作机制》
+原文作者：@FishMarketAcad
+原文编译：Kate, Marsbit
+
+
+
+
+$CANTO 最近受到了很多关注，但我还没有看到一个一体化的线程。
+
+
+
+
+所以我决定探索他们的生态系统来帮助你们理解 @CantoPublic 是什么，它是如何运作的，它是庞氏骗局吗？
+
+
+
+
+关于 $CANTO 你需要知道的一切。
+
+
+
+
+、
+
+
+
+
+我注意到的第一件事是他们的网站有黑客的氛围，这可能会吸引 degens，但可能会拒绝 tradfi 窥视。
+
+
+
+
+在技术上，Canto 完全兼容 EVM，因此很容易将 solidity dapps 分叉到 Canto, Canto 的速度是以太坊的两倍 (6 秒 vs12 秒的区块时间 )。
+
+
+
+
+
+
+
+
+
+Canto 最初是一个 $EVMOS 分支，通过 Cosmos SDK 使用 Tendermint 共识和 EVM 执行层 ( 但使用 metamask)。
+
+
+
+
+它们是一个以 DEFI 为中心的 L1，类似于 @seinetwork 和 @0xcarbon，因为它们有内置的 DeFi 模块，所以开发者更容易在上面构建 DeFi 应用程序。
+
+
+
+
+它们的独特之处在于，没有官方基金会，没有预售，没有股权归属，也没有风险投资人。
+
+
+
+
+这使得它们成为一个完全去中心化的链。
+
+
+
+
+但他们经常在网上举办黑客松，而且都是由社区主导的，听起来很有趣。
+
+
+
+
+
+
+
+
+
+Canto 认为核心原语应该以免费公共基础设施 (FPI) 的形式存在:
+
+
+
+
+免费 DEXs( 如 Uniswap) 
+免费借贷市场 ( 如 AAVE) 
+去中心化的货币 ( 比如 DAI)
+
+
+
+
+Canto 希望用户免费使用这些核心原语，就像免费停车一样。
+
+
+
+
+有趣的是，它的 DEX 不能升级，将保持…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点8大潜力去中心化稳定币，谁能成为万亿美元产业的龙头？]]></title>
+        <id>https://www.theblockbeats.info/news/34319</id>
+        <link href="https://www.theblockbeats.info/news/34319"/>
+        <updated>2023-02-06T05:44:59.000Z</updated>
+        <summary type="html"><![CDATA[稳定币将DeFi行业与传统金融联系起来，无疑是该领域最重要的创新之一。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读Nostr，两把密钥开启去中心化社交的新范式]]></title>
+        <id>https://www.theblockbeats.info/news/34320</id>
+        <link href="https://www.theblockbeats.info/news/34320"/>
+        <updated>2023-02-06T04:49:21.000Z</updated>
+        <summary type="html"><![CDATA[去中心化社交，一切都才刚刚开始]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读Ordinals协议争议：在比特币区块链上发NFT到底行不行？]]></title>
+        <id>https://www.theblockbeats.info/news/34317</id>
+        <link href="https://www.theblockbeats.info/news/34317"/>
+        <updated>2023-02-06T03:26:09.000Z</updated>
+        <summary type="html"><![CDATA[在去中心化世界里，没什么是不可能的]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可以加杠杆做空NFT了？从nftperp来盘点NFT永续合约赛道]]></title>
+        <id>https://www.theblockbeats.info/news/34315</id>
+        <link href="https://www.theblockbeats.info/news/34315"/>
+        <updated>2023-02-06T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[为加密货币和数字艺术的交叉点打造新的金融框架。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：试试Nostr首个客户端Damus；概览Arbitrum上7个值得关注项目]]></title>
         <id>https://www.theblockbeats.info/news/34314</id>
@@ -120,26 +259,6 @@ Nostr …]]></summary>
         <link href="https://www.theblockbeats.info/news/34296"/>
         <updated>2023-02-04T02:00:01.000Z</updated>
         <summary type="html"><![CDATA[重点关注这三种Token分发机制和加密经济模型创新。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rootdata：Web3早期项目发掘工具与数据平台]]></title>
-        <id>https://www.theblockbeats.info/news/34309</id>
-        <link href="https://www.theblockbeats.info/news/34309"/>
-        <updated>2023-02-03T14:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Rootdata希望帮助业内人士及时发现更多优质、有趣和可靠的项目，进而探寻整个行业的发展规律。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reality Labs亏损扩大，Meta「砸钱」继续]]></title>
-        <id>https://www.theblockbeats.info/news/34285</id>
-        <link href="https://www.theblockbeats.info/news/34285"/>
-        <updated>2023-02-03T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[元宇宙里，扎克伯格要一路狂飙。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

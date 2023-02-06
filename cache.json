@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34321",
+          "author": null,
+          "description": "原文标题：《一文读懂 Canto 经济模型与运作机制》\n原文作者：@FishMarketAcad\n原文编译：Kate, Marsbit\n\n\n\n\n$CANTO 最近受到了很多关注，但我还没有看到一个一体化的线程。\n\n\n\n\n所以我决定探索他们的生态系统来帮助你们理解 @CantoPublic 是什么，它是如何运作的，它是庞氏骗局吗？\n\n\n\n\n关于 $CANTO 你需要知道的一切。\n\n\n\n\n、\n\n\n\n\n我注意到的第一件事是他们的网站有黑客的氛围，这可能会吸引 degens，但可能会拒绝 tradfi 窥视。\n\n\n\n\n在技术上，Canto 完全兼容 EVM，因此很容易将 solidity dapps 分叉到 Canto, Canto 的速度是以太坊的两倍 (6 秒 vs12 秒的区块时间 )。\n\n\n\n\n\n\n\n\n\nCanto 最初是一个 $EVMOS 分支，通过 Cosmos SDK 使用 Tendermint 共识和 EVM 执行层 ( 但使用 metamask)。\n\n\n\n\n它们是一个以 DEFI 为中心的 L1，类似于 @seinetwork 和 @0xcarbon，因为它们有内置的 DeFi 模块，所以开发者更容易在上面构建 DeFi 应用程序。\n\n\n\n\n它们的独特之处在于，没有官方基金会，没有预售，没有股权归属，也没有风险投资人。\n\n\n\n\n这使得它们成为一个完全去中心化的链。\n\n\n\n\n但他们经常在网上举办黑客松，而且都是由社区主导的，听起来很有趣。\n\n\n\n\n\n\n\n\n\nCanto 认为核心原语应该以免费公共基础设施 (FPI) 的形式存在:\n\n\n\n\n免费 DEXs( 如 Uniswap) \n免费借贷市场 ( 如 AAVE) \n去中心化的货币 ( 比如 DAI)\n\n\n\n\nCanto 希望用户免费使用这些核心原语，就像免费停车一样。\n\n\n\n\n有趣的是，它的 DEX 不能升级，将保持…",
+          "link": "https://www.theblockbeats.info/news/34321",
+          "publishedOn": "2023-02-06T05:57:51.000Z",
+          "wordCount": null,
+          "title": "读懂Canto经济模型与运作机制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34319",
+          "author": null,
+          "description": "稳定币将DeFi行业与传统金融联系起来，无疑是该领域最重要的创新之一。",
+          "link": "https://www.theblockbeats.info/news/34319",
+          "publishedOn": "2023-02-06T05:44:59.000Z",
+          "wordCount": null,
+          "title": "盘点8大潜力去中心化稳定币，谁能成为万亿美元产业的龙头？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34320",
+          "author": null,
+          "description": "去中心化社交，一切都才刚刚开始",
+          "link": "https://www.theblockbeats.info/news/34320",
+          "publishedOn": "2023-02-06T04:49:21.000Z",
+          "wordCount": null,
+          "title": "解读Nostr，两把密钥开启去中心化社交的新范式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34317",
+          "author": null,
+          "description": "在去中心化世界里，没什么是不可能的",
+          "link": "https://www.theblockbeats.info/news/34317",
+          "publishedOn": "2023-02-06T03:26:09.000Z",
+          "wordCount": null,
+          "title": "解读Ordinals协议争议：在比特币区块链上发NFT到底行不行？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34315",
+          "author": null,
+          "description": "为加密货币和数字艺术的交叉点打造新的金融框架。",
+          "link": "https://www.theblockbeats.info/news/34315",
+          "publishedOn": "2023-02-06T02:39:00.000Z",
+          "wordCount": null,
+          "title": "可以加杠杆做空NFT了？从nftperp来盘点NFT永续合约赛道",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34314",
           "author": null,
           "description": "随着 Crypto 市场回暖，2023 年我们回归 Build。行业里出现了很多新项目以及新机遇，一起在本文中回顾下过去一周的精彩内容吧。\n\n\n\n\n为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n\n\n《试试 Nostr 的首个客户端 Damus，推特创始人认可的 Web3 新社交》\n\n\n\n\n离开 Twitter 后，前 Twitter CEO Jack 这位比特币原教旨主义者沉浸在去中心化网络的世界，2 月 1 日，Jack 兴奋地在 Twitter 上宣布 Damus 上线，这款去中心化社交协议 Nostr 的首个移动客户端，成为了去中心化社交网络的新玩家。本文为 Damus 详细使用教程。\n\n\n\n\n《消失 8 个月的 Luna 创始人，正在卷土重来》\n\n\n\n\n在 600 亿美元 Terra 帝国覆灭之后，加密逃犯 Do Kwon 正密谋东山再起。Terraform Labs 的稳定币 Terra 于去年倒台，这位失意的 CEO 正研发一些新产品，并招募新员工充实他的工程部门。即便 Crypto 是一个充斥着二次机会的行业，这位早已不受欢迎的人谋求翻身的企图仍称得上有些大胆。\n\n\n\n\n《一文概览 Arbitrum 上的 7 个值得关注的项目》\n\n\n作为今年备受关注的 Layer 2，Arbitrum 上面有很多高质量的项目需要我们时刻关注，尽早了解和体验，未来几月或将迎来「Arbitrum Season」，加密研究员 Corleone 撰写了一篇 Arbitrum 上的高质量 Alpha 项目，BlockBeats 对内容进行了整理编译。\n\n\n\n\n《即将空投？从数据看看 Lens 生态发展的怎么样》\n\n\n\n\nNostr …",
@@ -73,26 +123,6 @@
           "publishedOn": "2023-02-04T02:00:01.000Z",
           "wordCount": null,
           "title": "加密领域的下一波颠覆性创新浪潮将来自哪里？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34309",
-          "author": null,
-          "description": "Rootdata希望帮助业内人士及时发现更多优质、有趣和可靠的项目，进而探寻整个行业的发展规律。",
-          "link": "https://www.theblockbeats.info/news/34309",
-          "publishedOn": "2023-02-03T14:51:10.000Z",
-          "wordCount": null,
-          "title": "Rootdata：Web3早期项目发掘工具与数据平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34285",
-          "author": null,
-          "description": "元宇宙里，扎克伯格要一路狂飙。",
-          "link": "https://www.theblockbeats.info/news/34285",
-          "publishedOn": "2023-02-03T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Reality Labs亏损扩大，Meta「砸钱」继续",
           "imageUrl": null
         }
       ]
