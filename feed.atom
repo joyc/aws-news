@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-07T12:13:50.511Z</updated>
+    <updated>2023-02-07T18:09:18.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点Canto生态：自带DeFi组件的热门Layer1]]></title>
+        <id>https://www.theblockbeats.info/news/34387</id>
+        <link href="https://www.theblockbeats.info/news/34387"/>
+        <updated>2023-02-07T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Canto链上有哪些重点应用？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全链借贷协议Radiant链上数据分析：「跨链借贷」背后的流动性挖矿之争]]></title>
         <id>https://www.theblockbeats.info/news/34409</id>
@@ -867,31 +877,6 @@ Canto 希望用户免费使用这些核心原语，就像免费停车一样。
 
 
 Nostr …]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访中东Web3顶级风投Cypher：借鉴中国互联网投资的迪拜新贵]]></title>
-        <id>https://www.theblockbeats.info/news/34313</id>
-        <link href="https://www.theblockbeats.info/news/34313"/>
-        <updated>2023-02-05T05:19:45.000Z</updated>
-        <summary type="html"><![CDATA[Cypher Capital堪称“中东的a16z”或者中东Web3的“高瓴”，其在中东北非和亚州的影响力颇具特色。Bill是Cypher的董事长/General Partner，他也见证了过去20年中国互联网的崛起。这次很高兴能将Bill的见解拆解给读者们。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【视频】通过ChatGPT 赚钱的八种思路]]></title>
-        <id>https://www.theblockbeats.info/news/34312</id>
-        <link href="https://www.theblockbeats.info/news/34312"/>
-        <updated>2023-02-05T05:07:25.000Z</updated>
-        <summary type="html"><![CDATA[原视频来源：GPTHunt
-
-网友热议生成式 AI，纷纷去跟 ChatGPT 聊天，据说其 1 月末的月活用户已经突破了 1 亿；同时资本市场反应很强烈，投资者也被点燃，在互动平台大量问题都是在询问各家上市公司有没有涉及 ChatGPT 领域的产品或应用，做相关的布局。
-
-
-如此街头巷尾讨论的 ChatGPT, 本期视频来讲解一下ChatGPT有哪些赚钱方式。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34387",
+          "author": null,
+          "description": "Canto链上有哪些重点应用？",
+          "link": "https://www.theblockbeats.info/news/34387",
+          "publishedOn": "2023-02-07T14:00:01.000Z",
+          "wordCount": null,
+          "title": "盘点Canto生态：自带DeFi组件的热门Layer1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34409",
           "author": null,
           "description": "Radiant的TVL在过去一个月上升了124%，成为Arbitrum上最大且增长最快的借贷协议。",
@@ -303,26 +313,6 @@
           "publishedOn": "2023-02-05T06:56:02.000Z",
           "wordCount": null,
           "title": "周末荐读：试试Nostr首个客户端Damus；概览Arbitrum上7个值得关注项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34313",
-          "author": null,
-          "description": "Cypher Capital堪称“中东的a16z”或者中东Web3的“高瓴”，其在中东北非和亚州的影响力颇具特色。Bill是Cypher的董事长/General Partner，他也见证了过去20年中国互联网的崛起。这次很高兴能将Bill的见解拆解给读者们。",
-          "link": "https://www.theblockbeats.info/news/34313",
-          "publishedOn": "2023-02-05T05:19:45.000Z",
-          "wordCount": null,
-          "title": "专访中东Web3顶级风投Cypher：借鉴中国互联网投资的迪拜新贵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34312",
-          "author": null,
-          "description": "原视频来源：GPTHunt\n\n网友热议生成式 AI，纷纷去跟 ChatGPT 聊天，据说其 1 月末的月活用户已经突破了 1 亿；同时资本市场反应很强烈，投资者也被点燃，在互动平台大量问题都是在询问各家上市公司有没有涉及 ChatGPT 领域的产品或应用，做相关的布局。\n\n\n如此街头巷尾讨论的 ChatGPT, 本期视频来讲解一下ChatGPT有哪些赚钱方式。",
-          "link": "https://www.theblockbeats.info/news/34312",
-          "publishedOn": "2023-02-05T05:07:25.000Z",
-          "wordCount": null,
-          "title": "【视频】通过ChatGPT 赚钱的八种思路",
           "imageUrl": null
         }
       ]
