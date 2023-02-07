@@ -6,6 +6,106 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34409",
+          "author": null,
+          "description": "Radiant的TVL在过去一个月上升了124%，成为Arbitrum上最大且增长最快的借贷协议。",
+          "link": "https://www.theblockbeats.info/news/34409",
+          "publishedOn": "2023-02-07T10:57:54.000Z",
+          "wordCount": null,
+          "title": "全链借贷协议Radiant链上数据分析：「跨链借贷」背后的流动性挖矿之争",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34410",
+          "author": null,
+          "description": "新旧交替，顶级日本动画常青树与 NFT 会迸发出怎样的火花？",
+          "link": "https://www.theblockbeats.info/news/34410",
+          "publishedOn": "2023-02-07T09:59:12.000Z",
+          "wordCount": null,
+          "title": "从0到5 ETH，制作海贼王的东映动画进军NFT，「大吉」！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34394",
+          "author": null,
+          "description": "Camelot 是一个以生态系统为中心和社区驱动型 DEX，允许流动性池构建者和用户利用其定制基础设施来实现深度、可持续和适应性强的自定义流动性。",
+          "link": "https://www.theblockbeats.info/news/34394",
+          "publishedOn": "2023-02-07T09:21:16.000Z",
+          "wordCount": null,
+          "title": "GRAIL两周5倍，还有新项目将上线这个Arbitrum的DEX黑马",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34392",
+          "author": null,
+          "description": "「持续关注！」",
+          "link": "https://www.theblockbeats.info/news/34392",
+          "publishedOn": "2023-02-07T08:30:33.000Z",
+          "wordCount": null,
+          "title": "互相「碰拳」的DeFi项目已公布合作组队，老牌DeFi要发力了吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34391",
+          "author": null,
+          "description": "Trident 三叉戟，要通过 Risk to Earn 拿到 GameFi 赛道的“制海权”？",
+          "link": "https://www.theblockbeats.info/news/34391",
+          "publishedOn": "2023-02-07T08:23:06.000Z",
+          "wordCount": null,
+          "title": "PSI连涨4倍，Arbitrum上Trident提出的Risk to Earn有何不同",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34379",
+          "author": null,
+          "description": "牺牲协议收入，换取可组合性的典范。",
+          "link": "https://www.theblockbeats.info/news/34379",
+          "publishedOn": "2023-02-07T08:00:01.000Z",
+          "wordCount": null,
+          "title": "Canto CSR事件复盘、项目简析与发现逻辑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34376",
+          "author": null,
+          "description": "本文从NFT的起源与赛道基础知识开始讨论，汇总了NFT赛道的历史里程碑事件，深入分析领域最新相关技术更新与其未来的发展方向。",
+          "link": "https://www.theblockbeats.info/news/34376",
+          "publishedOn": "2023-02-07T07:41:34.000Z",
+          "wordCount": null,
+          "title": "盘点2022年NFT交易&聚合领域的细微变化和未来发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34381",
+          "author": null,
+          "description": "如何最大限度提高获得Arbitrum空投资格的机会呢？",
+          "link": "https://www.theblockbeats.info/news/34381",
+          "publishedOn": "2023-02-07T07:00:01.000Z",
+          "wordCount": null,
+          "title": "如何提高获得Arbitrum空投的机会？请收好这份指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34386",
+          "author": null,
+          "description": "我们描绘的MEV新十年：竞争，而非垄断；共享，而非独享；共治，而非独裁。",
+          "link": "https://www.theblockbeats.info/news/34386",
+          "publishedOn": "2023-02-07T06:59:22.000Z",
+          "wordCount": null,
+          "title": "以太坊的不可能四角：MEV规模化增长的新十年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34383",
+          "author": null,
+          "description": "凭借不到2%的投票权，a16z试图影响对Uniswap的链上投票，虽然引发了加密社区的激烈讨论，但看起来实际情况并没有那么糟。",
+          "link": "https://www.theblockbeats.info/news/34383",
+          "publishedOn": "2023-02-07T06:38:17.000Z",
+          "wordCount": null,
+          "title": "「Uniswap由a16z控制？」：加密社区因VC们的治理举措而担忧",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34375",
           "author": null,
           "description": "IFPI 最新年度报告《Engaging With Music》在对全球 4.4 万名音乐用户进行调查后，发现 2022 年收听音乐的用户平均每周收听时长高达 20.1 小时，超过了 2021 年的 18.4 小时。其中，印度用户达到了 25.7 小时，中国用户更甚，达到了 28.3 小时。\n\n\n\n\n但是与此同时，音乐唱片版权三大巨头环球、华纳、索尼的市场份额也达到了 70.1%，占据了大量的市场资源。唱片资源高度集中，音乐播放渠道同样如此，MIDiA Research 报告显示，Spotify 以 31% 的市场份额占据第一，Apple Music、Amazon Music 和 Tencent Music 紧随其后，市场份额分别为 15%、13% 和 13%。\n\n\n\n\n音乐产业的高度集中使得创作者获得的收益越来越低、音乐风格趋向于流行而缺乏多样性。当然，音乐产业面临的问题也不仅仅这些，价值链复杂、版权数据不透明等等都是根植于过往体系的弊病。\n\n\n\n\n2022 年末，一群来自 Stanford、Tencent Music、ByteDance、Sony Music 和 Warner Bro. 的版权从业人员发现 NFT 似乎可以改变传统音乐体系，为此他们成立了 Euterpe 平台。\n\n\n\n\nEuterpe 在创立之初便获得了来自 Fenbushi Capital、Huobi Ventures、BingX 以及香港三大交易平台之一 HKFAEx 旗下 HKICEx 等机构投资人的 800 万美元早期投资。\n\n\n\n\n理念、路线，Euterpe 的全球布局\n\n\n\n\nEuterpe 能够吸引传统音乐行业从业人员加入以及加密基金投资，并不仅仅单纯靠叙事，其理念和路线方向才是其竞争力核心所在。\n\n\n\n\n在过去的一个季度中，Euterpe 主要发力于东南亚以及港台市场，签约了多家音乐版权…",
