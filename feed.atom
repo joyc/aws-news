@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-07T18:09:18.203Z</updated>
+    <updated>2023-02-08T00:38:03.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -824,59 +824,6 @@ Canto 希望用户免费使用这些核心原语，就像免费停车一样。
         <link href="https://www.theblockbeats.info/news/34315"/>
         <updated>2023-02-06T02:39:00.000Z</updated>
         <summary type="html"><![CDATA[为加密货币和数字艺术的交叉点打造新的金融框架。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：试试Nostr首个客户端Damus；概览Arbitrum上7个值得关注项目]]></title>
-        <id>https://www.theblockbeats.info/news/34314</id>
-        <link href="https://www.theblockbeats.info/news/34314"/>
-        <updated>2023-02-05T06:56:02.000Z</updated>
-        <summary type="html"><![CDATA[随着 Crypto 市场回暖，2023 年我们回归 Build。行业里出现了很多新项目以及新机遇，一起在本文中回顾下过去一周的精彩内容吧。
-
-
-
-
-为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
-
-
-
-
-《试试 Nostr 的首个客户端 Damus，推特创始人认可的 Web3 新社交》
-
-
-
-
-离开 Twitter 后，前 Twitter CEO Jack 这位比特币原教旨主义者沉浸在去中心化网络的世界，2 月 1 日，Jack 兴奋地在 Twitter 上宣布 Damus 上线，这款去中心化社交协议 Nostr 的首个移动客户端，成为了去中心化社交网络的新玩家。本文为 Damus 详细使用教程。
-
-
-
-
-《消失 8 个月的 Luna 创始人，正在卷土重来》
-
-
-
-
-在 600 亿美元 Terra 帝国覆灭之后，加密逃犯 Do Kwon 正密谋东山再起。Terraform Labs 的稳定币 Terra 于去年倒台，这位失意的 CEO 正研发一些新产品，并招募新员工充实他的工程部门。即便 Crypto 是一个充斥着二次机会的行业，这位早已不受欢迎的人谋求翻身的企图仍称得上有些大胆。
-
-
-
-
-《一文概览 Arbitrum 上的 7 个值得关注的项目》
-
-
-作为今年备受关注的 Layer 2，Arbitrum 上面有很多高质量的项目需要我们时刻关注，尽早了解和体验，未来几月或将迎来「Arbitrum Season」，加密研究员 Corleone 撰写了一篇 Arbitrum 上的高质量 Alpha 项目，BlockBeats 对内容进行了整理编译。
-
-
-
-
-《即将空投？从数据看看 Lens 生态发展的怎么样》
-
-
-
-
-Nostr …]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
