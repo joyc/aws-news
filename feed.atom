@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-08T00:38:03.840Z</updated>
+    <updated>2023-02-08T06:10:05.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI创始人还发行过加密货币项目，野心比ChatGPT还大]]></title>
+        <id>https://www.theblockbeats.info/news/34443</id>
+        <link href="https://www.theblockbeats.info/news/34443"/>
+        <updated>2023-02-08T05:25:19.000Z</updated>
+        <summary type="html"><![CDATA[扫描一下眼睛，领取一笔空投，人人有份]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记者体验集成GPT-3.5后的新版Bing：搜索从此不一样了]]></title>
+        <id>https://www.theblockbeats.info/news/34439</id>
+        <link href="https://www.theblockbeats.info/news/34439"/>
+        <updated>2023-02-08T04:30:02.000Z</updated>
+        <summary type="html"><![CDATA[新版Bing基于改进的OpenAI模型，比目前的ChatGPT更准确、更有针对性。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【视频】马斯克: ChatGPT比你想象的危险]]></title>
+        <id>https://www.theblockbeats.info/news/34442</id>
+        <link href="https://www.theblockbeats.info/news/34442"/>
+        <updated>2023-02-08T04:19:57.000Z</updated>
+        <summary type="html"><![CDATA[在人类不断研制和开发AI的过程中，或许也在被AI一步步侵蚀。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38岁的OpenAi创始人自述：我的成功秘诀]]></title>
+        <id>https://www.theblockbeats.info/news/34438</id>
+        <link href="https://www.theblockbeats.info/news/34438"/>
+        <updated>2023-02-08T03:38:10.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT意义「不亚于互联网的诞生。」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap创始人被早期投资人告上法庭，孰是孰非？]]></title>
+        <id>https://www.theblockbeats.info/news/34437</id>
+        <link href="https://www.theblockbeats.info/news/34437"/>
+        <updated>2023-02-08T03:05:58.000Z</updated>
+        <summary type="html"><![CDATA[是Uniswap创始人过河拆桥，还是早期投资人借题发挥蹭热度？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抢先看！已支持ChatGPT的搜索引擎Bing有何特点]]></title>
+        <id>https://www.theblockbeats.info/news/34430</id>
+        <link href="https://www.theblockbeats.info/news/34430"/>
+        <updated>2023-02-08T02:52:36.000Z</updated>
+        <summary type="html"><![CDATA[微软发布会速览，新的Bing长啥样？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vest Exchange，Arbitrum上的永续合约AMM]]></title>
+        <id>https://www.theblockbeats.info/news/34411</id>
+        <link href="https://www.theblockbeats.info/news/34411"/>
+        <updated>2023-02-08T02:30:01.000Z</updated>
+        <summary type="html"><![CDATA[背靠华尔街顶级做市商Jane Street，Vest Exchange值得期待。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glassnode ：链上数据显示比特币正过渡到新一轮周期]]></title>
+        <id>https://www.theblockbeats.info/news/34393</id>
+        <link href="https://www.theblockbeats.info/news/34393"/>
+        <updated>2023-02-08T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[从历史上看，这些过渡时期的特点是一个扩展的宏观横盘市场，并伴随局部剧烈的双向波动]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从AI基础设施到应用场景，哪些Web3项目值得关注？]]></title>
+        <id>https://www.theblockbeats.info/news/34373</id>
+        <link href="https://www.theblockbeats.info/news/34373"/>
+        <updated>2023-02-08T00:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Web3社交的初级阶段引入AI更多地是为了一种叙事手段。本文盘点了加密领域中5个AI基础设施和5个AI应用场景类项目。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盘点Canto生态：自带DeFi组件的热门Layer1]]></title>
         <id>https://www.theblockbeats.info/news/34387</id>
