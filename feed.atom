@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-09T18:09:43.132Z</updated>
+    <updated>2023-02-10T00:41:10.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -807,106 +807,6 @@ AI 最强大的功能之一是它使产品能够个性化用户体验。这种�
         <link href="https://www.theblockbeats.info/news/34387"/>
         <updated>2023-02-07T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[Canto链上有哪些重点应用？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全链借贷协议Radiant链上数据分析：「跨链借贷」背后的流动性挖矿之争]]></title>
-        <id>https://www.theblockbeats.info/news/34409</id>
-        <link href="https://www.theblockbeats.info/news/34409"/>
-        <updated>2023-02-07T10:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Radiant的TVL在过去一个月上升了124%，成为Arbitrum上最大且增长最快的借贷协议。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从0到5 ETH，制作海贼王的东映动画进军NFT，「大吉」！]]></title>
-        <id>https://www.theblockbeats.info/news/34410</id>
-        <link href="https://www.theblockbeats.info/news/34410"/>
-        <updated>2023-02-07T09:59:12.000Z</updated>
-        <summary type="html"><![CDATA[新旧交替，顶级日本动画常青树与 NFT 会迸发出怎样的火花？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRAIL两周5倍，还有新项目将上线这个Arbitrum的DEX黑马]]></title>
-        <id>https://www.theblockbeats.info/news/34394</id>
-        <link href="https://www.theblockbeats.info/news/34394"/>
-        <updated>2023-02-07T09:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Camelot 是一个以生态系统为中心和社区驱动型 DEX，允许流动性池构建者和用户利用其定制基础设施来实现深度、可持续和适应性强的自定义流动性。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互相「碰拳」的DeFi项目已公布合作组队，老牌DeFi要发力了吗？]]></title>
-        <id>https://www.theblockbeats.info/news/34392</id>
-        <link href="https://www.theblockbeats.info/news/34392"/>
-        <updated>2023-02-07T08:30:33.000Z</updated>
-        <summary type="html"><![CDATA[「持续关注！」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSI连涨4倍，Arbitrum上Trident提出的Risk to Earn有何不同]]></title>
-        <id>https://www.theblockbeats.info/news/34391</id>
-        <link href="https://www.theblockbeats.info/news/34391"/>
-        <updated>2023-02-07T08:23:06.000Z</updated>
-        <summary type="html"><![CDATA[Trident 三叉戟，要通过 Risk to Earn 拿到 GameFi 赛道的“制海权”？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canto CSR事件复盘、项目简析与发现逻辑]]></title>
-        <id>https://www.theblockbeats.info/news/34379</id>
-        <link href="https://www.theblockbeats.info/news/34379"/>
-        <updated>2023-02-07T08:00:01.000Z</updated>
-        <summary type="html"><![CDATA[牺牲协议收入，换取可组合性的典范。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点2022年NFT交易&聚合领域的细微变化和未来发展]]></title>
-        <id>https://www.theblockbeats.info/news/34376</id>
-        <link href="https://www.theblockbeats.info/news/34376"/>
-        <updated>2023-02-07T07:41:34.000Z</updated>
-        <summary type="html"><![CDATA[本文从NFT的起源与赛道基础知识开始讨论，汇总了NFT赛道的历史里程碑事件，深入分析领域最新相关技术更新与其未来的发展方向。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何提高获得Arbitrum空投的机会？请收好这份指南]]></title>
-        <id>https://www.theblockbeats.info/news/34381</id>
-        <link href="https://www.theblockbeats.info/news/34381"/>
-        <updated>2023-02-07T07:00:01.000Z</updated>
-        <summary type="html"><![CDATA[如何最大限度提高获得Arbitrum空投资格的机会呢？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊的不可能四角：MEV规模化增长的新十年]]></title>
-        <id>https://www.theblockbeats.info/news/34386</id>
-        <link href="https://www.theblockbeats.info/news/34386"/>
-        <updated>2023-02-07T06:59:22.000Z</updated>
-        <summary type="html"><![CDATA[我们描绘的MEV新十年：竞争，而非垄断；共享，而非独享；共治，而非独裁。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Uniswap由a16z控制？」：加密社区因VC们的治理举措而担忧]]></title>
-        <id>https://www.theblockbeats.info/news/34383</id>
-        <link href="https://www.theblockbeats.info/news/34383"/>
-        <updated>2023-02-07T06:38:17.000Z</updated>
-        <summary type="html"><![CDATA[凭借不到2%的投票权，a16z试图影响对Uniswap的链上投票，虽然引发了加密社区的激烈讨论，但看起来实际情况并没有那么糟。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
