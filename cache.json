@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34558",
+          "author": null,
+          "description": "真实世界资产 (RWA) 可以帮助管理稳定币的资产负债风险，同时也会给项目组合开发和管理带来挑战。",
+          "link": "https://www.theblockbeats.info/news/34558",
+          "publishedOn": "2023-02-10T14:00:01.000Z",
+          "wordCount": null,
+          "title": "稳定币管理和抵押的挑战与机遇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34584",
+          "author": null,
+          "description": "大多数Web3平台致力于改变我们拥有音乐的方式，Arpeggi则专注于改变我们创作音乐的方式。",
+          "link": "https://www.theblockbeats.info/news/34584",
+          "publishedOn": "2023-02-10T11:22:05.000Z",
+          "wordCount": null,
+          "title": "a16z投资的Arpeggi如何使用ARP协议革新音乐制作范式？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34565",
+          "author": null,
+          "description": "Staking最重要的就是看2把私钥的归属权，由于2把私钥的归属权不同，又诞生了4类Staking方案。",
+          "link": "https://www.theblockbeats.info/news/34565",
+          "publishedOn": "2023-02-10T11:07:15.000Z",
+          "wordCount": null,
+          "title": "从Staking聊起，4种掌控以太坊网络的方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34564",
+          "author": null,
+          "description": "「Do you have money stuck on a crypto platform?」",
+          "link": "https://www.theblockbeats.info/news/34564",
+          "publishedOn": "2023-02-10T10:55:53.000Z",
+          "wordCount": null,
+          "title": "ZhuSu新债权市场正式上线，没有人比他更懂债权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34557",
+          "author": null,
+          "description": "谣言四起别FOMO，比特币网络上的NFT发展还早着",
+          "link": "https://www.theblockbeats.info/news/34557",
+          "publishedOn": "2023-02-10T10:50:39.000Z",
+          "wordCount": null,
+          "title": "BTC NFT新叙事将迎来爆发？详解比特币网络NFT项目和基建现状",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34560",
           "author": null,
           "description": "原文标题：《\n\nForesight Ventures：市场剧烈波动，山寨全面瀑布\n\n》\n原文作者：Peter Jonas，Foresight Ventures\n\n\n\n\n市场观点\n\n\n\n\n1、宏观流动性\n\n\n\n\n货币流动性趋紧。虽然本周鲍威尔讲话鸽派，承认美国通胀开始下降。但是市场担心超预期的强劲就业数据，会提升利率峰值至 6%，比现有预期还高 1 个百分点。美元指数大幅上涨，短期对风险资产的反弹形成压制。美股恐慌回调，但上涨趋势并未破坏。Crypto 市场主要跟随美股调整。\n\n\n\n\n\n\n\n\n\n2、全市场行情\n\n\n\n\n市值排名前 100 涨幅榜：\n\n\n\n\n\n\n\n\n\n本周市场普遍回调，山寨龙头剧烈波动。美国或将加强散户投资加密市场的监管。人工智能板块和 Arbitrum 生态成为市场热点主线。\n\n\nAGIX: 现有 AI 板块项目基本面均不佳，AGIX 是全市场资金追捧的龙头。AI 已形成独立的板块，预计未来牛市将反复炒作。大背景是硅谷加速在 AI 布局，谷歌、微软、苹果等全部入场，提高了 AI 项目的估值。RDNT: Radiant Capital 是 Arbitrum 链上的跨链借贷协议，采用了 STG 的跨链技术，TVL 大幅增长。Arbitrum 链近期有发币预期，链上生态普涨。GRAIL：Camelot 是 Arbitrum 链上的 dex 龙头，微创新是通过将做市 LP 的收益直接给项目方项目方，来提升长尾资产的流动性；也是 Arbitrum 链上的首选打新平台。\n\n\n\n\n3、BTC 行情\n\n\n\n\n1) 链上数据\n\n\n\n\nBTC 投资者选择继续持有。经过这段时间的震荡，持仓超过一年未移动的 BTC 接近历史最高的 66.9%。表明在长期投资者心目中，目前仍然是相对底部的价格，长期持有的 BTC 即便是在美联储加息的高峰都没有离场迹象。\n\n\n\n\n\n\n\n\n\n场内资金基本…",
@@ -383,96 +433,6 @@
           "publishedOn": "2023-02-08T06:30:01.000Z",
           "wordCount": null,
           "title": "a16z：生成式AI，下一个消费级平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34443",
-          "author": null,
-          "description": "扫描一下眼睛，领取一笔空投，人人有份",
-          "link": "https://www.theblockbeats.info/news/34443",
-          "publishedOn": "2023-02-08T05:25:19.000Z",
-          "wordCount": null,
-          "title": "OpenAI创始人还发行过加密货币项目，野心比ChatGPT还大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34439",
-          "author": null,
-          "description": "新版Bing基于改进的OpenAI模型，比目前的ChatGPT更准确、更有针对性。",
-          "link": "https://www.theblockbeats.info/news/34439",
-          "publishedOn": "2023-02-08T04:30:02.000Z",
-          "wordCount": null,
-          "title": "记者体验集成GPT-3.5后的新版Bing：搜索从此不一样了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34442",
-          "author": null,
-          "description": "在人类不断研制和开发AI的过程中，或许也在被AI一步步侵蚀。",
-          "link": "https://www.theblockbeats.info/news/34442",
-          "publishedOn": "2023-02-08T04:19:57.000Z",
-          "wordCount": null,
-          "title": "【视频】马斯克: ChatGPT比你想象的危险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34438",
-          "author": null,
-          "description": "ChatGPT意义「不亚于互联网的诞生。」",
-          "link": "https://www.theblockbeats.info/news/34438",
-          "publishedOn": "2023-02-08T03:38:10.000Z",
-          "wordCount": null,
-          "title": "38岁的OpenAi创始人自述：我的成功秘诀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34437",
-          "author": null,
-          "description": "是Uniswap创始人过河拆桥，还是早期投资人借题发挥蹭热度？",
-          "link": "https://www.theblockbeats.info/news/34437",
-          "publishedOn": "2023-02-08T03:05:58.000Z",
-          "wordCount": null,
-          "title": "Uniswap创始人被早期投资人告上法庭，孰是孰非？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34430",
-          "author": null,
-          "description": "微软发布会速览，新的Bing长啥样？",
-          "link": "https://www.theblockbeats.info/news/34430",
-          "publishedOn": "2023-02-08T02:52:36.000Z",
-          "wordCount": null,
-          "title": "抢先看！已支持ChatGPT的搜索引擎Bing有何特点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34411",
-          "author": null,
-          "description": "背靠华尔街顶级做市商Jane Street，Vest Exchange值得期待。",
-          "link": "https://www.theblockbeats.info/news/34411",
-          "publishedOn": "2023-02-08T02:30:01.000Z",
-          "wordCount": null,
-          "title": "Vest Exchange，Arbitrum上的永续合约AMM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34393",
-          "author": null,
-          "description": "从历史上看，这些过渡时期的特点是一个扩展的宏观横盘市场，并伴随局部剧烈的双向波动",
-          "link": "https://www.theblockbeats.info/news/34393",
-          "publishedOn": "2023-02-08T02:00:01.000Z",
-          "wordCount": null,
-          "title": "Glassnode ：链上数据显示比特币正过渡到新一轮周期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34373",
-          "author": null,
-          "description": "Web3社交的初级阶段引入AI更多地是为了一种叙事手段。本文盘点了加密领域中5个AI基础设施和5个AI应用场景类项目。",
-          "link": "https://www.theblockbeats.info/news/34373",
-          "publishedOn": "2023-02-08T00:30:01.000Z",
-          "wordCount": null,
-          "title": "从AI基础设施到应用场景，哪些Web3项目值得关注？",
           "imageUrl": null
         }
       ]

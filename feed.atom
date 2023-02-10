@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-10T12:13:26.363Z</updated>
+    <updated>2023-02-10T18:09:29.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[稳定币管理和抵押的挑战与机遇]]></title>
+        <id>https://www.theblockbeats.info/news/34558</id>
+        <link href="https://www.theblockbeats.info/news/34558"/>
+        <updated>2023-02-10T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[真实世界资产 (RWA) 可以帮助管理稳定币的资产负债风险，同时也会给项目组合开发和管理带来挑战。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z投资的Arpeggi如何使用ARP协议革新音乐制作范式？]]></title>
+        <id>https://www.theblockbeats.info/news/34584</id>
+        <link href="https://www.theblockbeats.info/news/34584"/>
+        <updated>2023-02-10T11:22:05.000Z</updated>
+        <summary type="html"><![CDATA[大多数Web3平台致力于改变我们拥有音乐的方式，Arpeggi则专注于改变我们创作音乐的方式。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Staking聊起，4种掌控以太坊网络的方式]]></title>
+        <id>https://www.theblockbeats.info/news/34565</id>
+        <link href="https://www.theblockbeats.info/news/34565"/>
+        <updated>2023-02-10T11:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Staking最重要的就是看2把私钥的归属权，由于2把私钥的归属权不同，又诞生了4类Staking方案。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZhuSu新债权市场正式上线，没有人比他更懂债权]]></title>
+        <id>https://www.theblockbeats.info/news/34564</id>
+        <link href="https://www.theblockbeats.info/news/34564"/>
+        <updated>2023-02-10T10:55:53.000Z</updated>
+        <summary type="html"><![CDATA[「Do you have money stuck on a crypto platform?」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTC NFT新叙事将迎来爆发？详解比特币网络NFT项目和基建现状]]></title>
+        <id>https://www.theblockbeats.info/news/34557</id>
+        <link href="https://www.theblockbeats.info/news/34557"/>
+        <updated>2023-02-10T10:50:39.000Z</updated>
+        <summary type="html"><![CDATA[谣言四起别FOMO，比特币网络上的NFT发展还早着]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密市场分化调整：山寨全面瀑布，LSD依然坚挺]]></title>
         <id>https://www.theblockbeats.info/news/34560</id>
@@ -1277,96 +1327,6 @@ AI 最强大的功能之一是它使产品能够个性化用户体验。这种�
 
 
 我们都经历过这样的挣扎：在谷歌中输入一个问题，然后被大量的链接淹没，其中一些链接的信息相互矛盾或不准确。这简直就是一个无尽的卷轴。如果你能得到一个用自然语言写的简洁的答案，如果你感兴趣的话，还可以链接到更多内容，那会怎么样呢？LLM 驱动的搜索引擎使这成…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI创始人还发行过加密货币项目，野心比ChatGPT还大]]></title>
-        <id>https://www.theblockbeats.info/news/34443</id>
-        <link href="https://www.theblockbeats.info/news/34443"/>
-        <updated>2023-02-08T05:25:19.000Z</updated>
-        <summary type="html"><![CDATA[扫描一下眼睛，领取一笔空投，人人有份]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记者体验集成GPT-3.5后的新版Bing：搜索从此不一样了]]></title>
-        <id>https://www.theblockbeats.info/news/34439</id>
-        <link href="https://www.theblockbeats.info/news/34439"/>
-        <updated>2023-02-08T04:30:02.000Z</updated>
-        <summary type="html"><![CDATA[新版Bing基于改进的OpenAI模型，比目前的ChatGPT更准确、更有针对性。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【视频】马斯克: ChatGPT比你想象的危险]]></title>
-        <id>https://www.theblockbeats.info/news/34442</id>
-        <link href="https://www.theblockbeats.info/news/34442"/>
-        <updated>2023-02-08T04:19:57.000Z</updated>
-        <summary type="html"><![CDATA[在人类不断研制和开发AI的过程中，或许也在被AI一步步侵蚀。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[38岁的OpenAi创始人自述：我的成功秘诀]]></title>
-        <id>https://www.theblockbeats.info/news/34438</id>
-        <link href="https://www.theblockbeats.info/news/34438"/>
-        <updated>2023-02-08T03:38:10.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT意义「不亚于互联网的诞生。」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap创始人被早期投资人告上法庭，孰是孰非？]]></title>
-        <id>https://www.theblockbeats.info/news/34437</id>
-        <link href="https://www.theblockbeats.info/news/34437"/>
-        <updated>2023-02-08T03:05:58.000Z</updated>
-        <summary type="html"><![CDATA[是Uniswap创始人过河拆桥，还是早期投资人借题发挥蹭热度？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抢先看！已支持ChatGPT的搜索引擎Bing有何特点]]></title>
-        <id>https://www.theblockbeats.info/news/34430</id>
-        <link href="https://www.theblockbeats.info/news/34430"/>
-        <updated>2023-02-08T02:52:36.000Z</updated>
-        <summary type="html"><![CDATA[微软发布会速览，新的Bing长啥样？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vest Exchange，Arbitrum上的永续合约AMM]]></title>
-        <id>https://www.theblockbeats.info/news/34411</id>
-        <link href="https://www.theblockbeats.info/news/34411"/>
-        <updated>2023-02-08T02:30:01.000Z</updated>
-        <summary type="html"><![CDATA[背靠华尔街顶级做市商Jane Street，Vest Exchange值得期待。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glassnode ：链上数据显示比特币正过渡到新一轮周期]]></title>
-        <id>https://www.theblockbeats.info/news/34393</id>
-        <link href="https://www.theblockbeats.info/news/34393"/>
-        <updated>2023-02-08T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[从历史上看，这些过渡时期的特点是一个扩展的宏观横盘市场，并伴随局部剧烈的双向波动]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从AI基础设施到应用场景，哪些Web3项目值得关注？]]></title>
-        <id>https://www.theblockbeats.info/news/34373</id>
-        <link href="https://www.theblockbeats.info/news/34373"/>
-        <updated>2023-02-08T00:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Web3社交的初级阶段引入AI更多地是为了一种叙事手段。本文盘点了加密领域中5个AI基础设施和5个AI应用场景类项目。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
