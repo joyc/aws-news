@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-10T00:41:10.384Z</updated>
+    <updated>2023-02-10T06:10:36.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken被重罚并关停美国加密质押服务，业内人士怎么看？]]></title>
+        <id>https://www.theblockbeats.info/news/34518</id>
+        <link href="https://www.theblockbeats.info/news/34518"/>
+        <updated>2023-02-10T04:26:59.000Z</updated>
+        <summary type="html"><![CDATA[SEC强调：「无论是通过质押即服务、借贷还是其他方式，加密货币中介机构都必须提供法律要求的适当披露和保障措施。」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【视频】去中心化就意味着无监管吗？聊聊加密领域的监管与法律]]></title>
+        <id>https://www.theblockbeats.info/news/34521</id>
+        <link href="https://www.theblockbeats.info/news/34521"/>
+        <updated>2023-02-10T03:57:09.000Z</updated>
+        <summary type="html"><![CDATA[加密领域监管与传统金融监管有什么不同]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Baby Games：首个以加密社区为原型的web3游戏平台]]></title>
+        <id>https://www.theblockbeats.info/news/34503</id>
+        <link href="https://www.theblockbeats.info/news/34503"/>
+        <updated>2023-02-10T03:28:47.000Z</updated>
+        <summary type="html"><![CDATA[web3 卡丁车游戏《What The Kart》将以 CryptoTwitter 上受人喜爱的 KOL 等为原型，包括 Inversebrah、CL、Gainzy、Pentoshi 和 Cobie。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InfinityPools：1000倍杠杆的无清算永续合约成真了？]]></title>
+        <id>https://www.theblockbeats.info/news/34519</id>
+        <link href="https://www.theblockbeats.info/news/34519"/>
+        <updated>2023-02-10T03:18:05.000Z</updated>
+        <summary type="html"><![CDATA[InfinityPools解决的是永续合约的清算风险，通过让协议中的所有头寸都实现完美平仓，以让交易者在没有交易对手风险的情况下，对任何资产添加无限的杠杆。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[监管打击链上质押，Coinbase重挫14%]]></title>
+        <id>https://www.theblockbeats.info/news/34517</id>
+        <link href="https://www.theblockbeats.info/news/34517"/>
+        <updated>2023-02-10T03:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Kraken的案子为其他提供类似服务的交易所立下了一个警示牌。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blur空投落地在即，还有哪些NFT概念Token值得关注？]]></title>
+        <id>https://www.theblockbeats.info/news/34516</id>
+        <link href="https://www.theblockbeats.info/news/34516"/>
+        <updated>2023-02-10T02:30:02.000Z</updated>
+        <summary type="html"><![CDATA[市场、借贷、碎片化，条条赛道都有潜力股]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hashed：2023年加密领域的十大趋势]]></title>
         <id>https://www.theblockbeats.info/news/34460</id>
@@ -797,16 +857,6 @@ AI 最强大的功能之一是它使产品能够个性化用户体验。这种�
         <link href="https://www.theblockbeats.info/news/34373"/>
         <updated>2023-02-08T00:30:01.000Z</updated>
         <summary type="html"><![CDATA[Web3社交的初级阶段引入AI更多地是为了一种叙事手段。本文盘点了加密领域中5个AI基础设施和5个AI应用场景类项目。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点Canto生态：自带DeFi组件的热门Layer1]]></title>
-        <id>https://www.theblockbeats.info/news/34387</id>
-        <link href="https://www.theblockbeats.info/news/34387"/>
-        <updated>2023-02-07T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Canto链上有哪些重点应用？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

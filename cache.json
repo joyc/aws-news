@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34518",
+          "author": null,
+          "description": "SEC强调：「无论是通过质押即服务、借贷还是其他方式，加密货币中介机构都必须提供法律要求的适当披露和保障措施。」",
+          "link": "https://www.theblockbeats.info/news/34518",
+          "publishedOn": "2023-02-10T04:26:59.000Z",
+          "wordCount": null,
+          "title": "Kraken被重罚并关停美国加密质押服务，业内人士怎么看？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34521",
+          "author": null,
+          "description": "加密领域监管与传统金融监管有什么不同",
+          "link": "https://www.theblockbeats.info/news/34521",
+          "publishedOn": "2023-02-10T03:57:09.000Z",
+          "wordCount": null,
+          "title": "【视频】去中心化就意味着无监管吗？聊聊加密领域的监管与法律",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34503",
+          "author": null,
+          "description": "web3 卡丁车游戏《What The Kart》将以 CryptoTwitter 上受人喜爱的 KOL 等为原型，包括 Inversebrah、CL、Gainzy、Pentoshi 和 Cobie。",
+          "link": "https://www.theblockbeats.info/news/34503",
+          "publishedOn": "2023-02-10T03:28:47.000Z",
+          "wordCount": null,
+          "title": "Oh Baby Games：首个以加密社区为原型的web3游戏平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34519",
+          "author": null,
+          "description": "InfinityPools解决的是永续合约的清算风险，通过让协议中的所有头寸都实现完美平仓，以让交易者在没有交易对手风险的情况下，对任何资产添加无限的杠杆。",
+          "link": "https://www.theblockbeats.info/news/34519",
+          "publishedOn": "2023-02-10T03:18:05.000Z",
+          "wordCount": null,
+          "title": "InfinityPools：1000倍杠杆的无清算永续合约成真了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34517",
+          "author": null,
+          "description": "Kraken的案子为其他提供类似服务的交易所立下了一个警示牌。",
+          "link": "https://www.theblockbeats.info/news/34517",
+          "publishedOn": "2023-02-10T03:04:01.000Z",
+          "wordCount": null,
+          "title": "监管打击链上质押，Coinbase重挫14%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34516",
+          "author": null,
+          "description": "市场、借贷、碎片化，条条赛道都有潜力股",
+          "link": "https://www.theblockbeats.info/news/34516",
+          "publishedOn": "2023-02-10T02:30:02.000Z",
+          "wordCount": null,
+          "title": "Blur空投落地在即，还有哪些NFT概念Token值得关注？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34460",
           "author": null,
           "description": "Hashed对加密领域2023年可能出现的趋势进行探讨，以下是一份具体的垂直领域清单。",
@@ -343,16 +403,6 @@
           "publishedOn": "2023-02-08T00:30:01.000Z",
           "wordCount": null,
           "title": "从AI基础设施到应用场景，哪些Web3项目值得关注？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34387",
-          "author": null,
-          "description": "Canto链上有哪些重点应用？",
-          "link": "https://www.theblockbeats.info/news/34387",
-          "publishedOn": "2023-02-07T14:00:01.000Z",
-          "wordCount": null,
-          "title": "盘点Canto生态：自带DeFi组件的热门Layer1",
           "imageUrl": null
         }
       ]
