@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-11T12:11:55.259Z</updated>
+    <updated>2023-02-11T18:08:05.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1136,76 +1136,6 @@ Stylus：超越 EVM 等效性 
         <link href="https://www.theblockbeats.info/news/34468"/>
         <updated>2023-02-09T07:02:18.000Z</updated>
         <summary type="html"><![CDATA[CreatorFi如火如荼，除了目前比较火的Lens、Nostr、Mirror等，笔者更喜欢去高校发掘有意思的新项目。这一次，笔者在一次哈佛Web3 Pitch里找到了想要成为下一个“Quora/知乎”的，由Berkeley的团队做出来的Utopic AI。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国发起「窒息点行动」？计划边缘化Crypto行业]]></title>
-        <id>https://www.theblockbeats.info/news/34463</id>
-        <link href="https://www.theblockbeats.info/news/34463"/>
-        <updated>2023-02-09T05:49:36.000Z</updated>
-        <summary type="html"><![CDATA[虽然美国官方未发布任何明确条文，但市场已经率先做出反应。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNX将进行1:100拆分，进一步提高BinaryX产品的覆盖率]]></title>
-        <id>https://www.theblockbeats.info/news/34454</id>
-        <link href="https://www.theblockbeats.info/news/34454"/>
-        <updated>2023-02-09T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[BNX是BinaryX的平台Token，用于BinaryX生态系统中的所有活动，包括游戏内的应用场景和IGO孵化基金]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌「仓促」迎接AI大战，机器人Bard「掉链子」股价大跌]]></title>
-        <id>https://www.theblockbeats.info/news/34461</id>
-        <link href="https://www.theblockbeats.info/news/34461"/>
-        <updated>2023-02-09T03:58:13.000Z</updated>
-        <summary type="html"><![CDATA[谷歌对其搜索引擎等产品线赋能AI是其在激烈AI战中的最新反攻。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nil如何凭借零知识电路编译器zkLLVM估值2.2亿美元？]]></title>
-        <id>https://www.theblockbeats.info/news/34457</id>
-        <link href="https://www.theblockbeats.info/news/34457"/>
-        <updated>2023-02-09T03:43:00.000Z</updated>
-        <summary type="html"><![CDATA[ZK技术开发公司Nil以2.2亿美元的估值完成了2200万美元融资，其中包括两位ZK技术大拿Starkware和Mina Protocol。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国SEC铁拳将至？加密市场监管流言汇总]]></title>
-        <id>https://www.theblockbeats.info/news/34459</id>
-        <link href="https://www.theblockbeats.info/news/34459"/>
-        <updated>2023-02-09T03:32:16.000Z</updated>
-        <summary type="html"><![CDATA[目前尚未有政策落地，但我们仍然需要注意风险。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊上海升级将开启提款功能，解析不同情况下的ETH抛压]]></title>
-        <id>https://www.theblockbeats.info/news/34458</id>
-        <link href="https://www.theblockbeats.info/news/34458"/>
-        <updated>2023-02-09T03:28:48.000Z</updated>
-        <summary type="html"><![CDATA[温和情况下，每天约1.4万ETH被抛售；激进情况下，每天有约3.2万ETH被抛售。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3中间件和基础设施全景概览]]></title>
-        <id>https://www.theblockbeats.info/news/34453</id>
-        <link href="https://www.theblockbeats.info/news/34453"/>
-        <updated>2023-02-09T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[为什么下一代应用建设者要选择Web3中间件？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
