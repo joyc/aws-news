@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34588",
+          "author": null,
+          "description": "从豪威测试来看，质押本身是完全被无法作为证券看待的。",
+          "link": "https://www.theblockbeats.info/news/34588",
+          "publishedOn": "2023-02-12T03:45:58.000Z",
+          "wordCount": null,
+          "title": "解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34562",
           "author": null,
           "description": "原文标题：《斯坦福区块链加速器对话 Pantera 合伙人：探讨区块链项目的生命周期》\n采访：Gil Rosen，斯坦福大学助教师\n受访者：Paul Veradittakit，Pantera Capital 合伙人\n原文编译：aididiaojp.eth，Foresight News\n\n\n\n\n斯坦福区块链加速器的 Gil 与 Paul 交流了与风险投资相关的一些话题，其中包括融资、团队建设以及加密风险投资与非加密风险投资的比较，以下是采访内容摘要。\n\n\n\n\nGil：传统企业通常在筹集种子前和种子资金时有自己特定的融资周期，他们希望确定产品与市场契合度之后再逐渐构建他们的产品。区块链是一种不同的物种，我们已经看到了它在过去十年中的发展。您认为目前区块链企业从构思到启动的生命周期结构是什么？\n\n\n\n\nPaul：加密市场的早期应用主要围绕交易平台和经纪公司，它是唯一一个真正达到增长阶段的细分市场。Coinbase，Binance，Kraken 包括暴雷的 FTX，这些都是将法定货币带入加密市场的入口，也是人们了解加密货币的第一步。\n\n\n\n\n我们采取的策略是关注早期阶段，除非我们看到某些将长期存在的明显发展趋势。\n\n\n\n\n就Token经济而言，在 2017 年，它曾经就像公开市场交易一样，你进入之后，可以马上退出。虽然投资者方面有很多钱可以赚，但这对企业家来说真的很糟糕。当你的\n\nToken\n\n非常不稳定时，投资者和企业家无法保持一致步伐，想要建立一个成功的社区是很困难的。随着时间的推移，这种情况发生了变化。我们现在看到的是\n\nToken\n\n融资，它们确实有融资时间表，看起来像是风险投资，但不完全是，这类似于一种混合体。你可能会在三四年内完成投资，而不是一次性投入，这实际上是一条通往流动性与股权融资的确切路径。\n\n\n\n\n这次的不同之处在于，特别是当我们进入熊市时，我们开始看到一个多…",
@@ -223,16 +233,6 @@
           "publishedOn": "2023-02-10T02:30:02.000Z",
           "wordCount": null,
           "title": "Blur空投落地在即，还有哪些NFT概念Token值得关注？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34460",
-          "author": null,
-          "description": "Hashed对加密领域2023年可能出现的趋势进行探讨，以下是一份具体的垂直领域清单。",
-          "link": "https://www.theblockbeats.info/news/34460",
-          "publishedOn": "2023-02-09T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Hashed：2023年加密领域的十大趋势",
           "imageUrl": null
         }
       ]

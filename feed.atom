@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-12T00:41:22.934Z</updated>
+    <updated>2023-02-12T06:09:09.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒]]></title>
+        <id>https://www.theblockbeats.info/news/34588</id>
+        <link href="https://www.theblockbeats.info/news/34588"/>
+        <updated>2023-02-12T03:45:58.000Z</updated>
+        <summary type="html"><![CDATA[从豪威测试来看，质押本身是完全被无法作为证券看待的。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话Pantera合伙人：探讨区块链项目的生命周期]]></title>
         <id>https://www.theblockbeats.info/news/34562</id>
@@ -885,16 +895,6 @@ Optimism 的 TVL 在所有公链锁仓价值中的占比在过去一年中持续
         <link href="https://www.theblockbeats.info/news/34516"/>
         <updated>2023-02-10T02:30:02.000Z</updated>
         <summary type="html"><![CDATA[市场、借贷、碎片化，条条赛道都有潜力股]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashed：2023年加密领域的十大趋势]]></title>
-        <id>https://www.theblockbeats.info/news/34460</id>
-        <link href="https://www.theblockbeats.info/news/34460"/>
-        <updated>2023-02-09T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Hashed对加密领域2023年可能出现的趋势进行探讨，以下是一份具体的垂直领域清单。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
