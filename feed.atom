@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-12T12:12:48.724Z</updated>
+    <updated>2023-02-12T18:08:51.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：ChatGPT引发思考；美国SEC监管质押服务疑云；Arbitrum生态火爆]]></title>
+        <id>https://www.theblockbeats.info/news/34593</id>
+        <link href="https://www.theblockbeats.info/news/34593"/>
+        <updated>2023-02-12T09:48:53.000Z</updated>
+        <summary type="html"><![CDATA[重温本周热点：ChatGPT引爆AI板块，除了AGIX大家还炒哪些AI币？美国SEC铁拳将至？加密市场监管流言汇总；解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒；]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bankless：链游前景分析——Web3游戏的真实架构应该是怎样？]]></title>
         <id>https://www.theblockbeats.info/news/34591</id>
@@ -742,169 +752,6 @@ recipient: 卖家收取 STX 的地址
 
 
 但是随着近期 Nostr 对比特币闪电网络的间接普及，以及比特币原生 NFT 项目的诞生，比特币社区积累了多年的技术进步似乎正在重新引起人们的注意。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z点评「SEC与Kraken和解案」：SEC应优先考虑指导规则，而不是零星执法进行监管]]></title>
-        <id>https://www.theblockbeats.info/news/34535</id>
-        <link href="https://www.theblockbeats.info/news/34535"/>
-        <updated>2023-02-10T05:44:28.000Z</updated>
-        <summary type="html"><![CDATA[2 月 9 日，SEC 宣布与加密交易平台 Kraken 达成和解，Kraken 同意「立即」停止为美国客户提供链上质押服务，并支付 3000 万美元罚款以了结 SEC 对其提供未注册证券的指控。SEC 主席 Gary Gensler 表示，「无论是通过质押即服务、借贷还是其他方式，加密货币中介机构在提供投资合同以换取投资者的 Token 时，都需要提供我们证券法要求的适当披露和保护措施。今天的行动应该向市场表明，质押即服务提供商必须注册并提供全面、公平和真实的披露和投资者保护措施。」
-
-
-
-
-该消息引发社区热议，美国地区用户担心此举会限制他们的加密交易活动，部分提供质押服务的加密交易平台也不满于 SEC 的罚款及过度干预。Coinbase CEO Brian Armstrong 表示，将坚持为经济自由而战。Armstrong 称，「要成为加密货币领域最值得信赖的品牌意味着 Coinbase 我们的客户免受官方的过度干预。」
-
-
-对此，a16z 总法律顾问 Miles Jennings 在推特上发表了一些看法和评论，BlockBeats 整理如下：  
-
-
-对 SEC 处罚 Kraken 的评论意见
-
-
-
-
-1、Staking 对生态系统非常重要，而 Staking 即服务（staking-as-a-service）项目既合法，又能让更多人参与到区块链技术中。
-
-
-2、幸运的是，我们认为 SEC 对 Kraken 的处置方案不会对其他加密货币交易平台产生任何影响，这些交易平台已经尽量避免牵扯到证券法了，当然触及红线的情况还是极有可能发生。
-
-
-3、
-
-作为 Web3 的重要投资者和正在建设下一代互联网的企业
-
-，我们感到失望的是，Gensler 主席再次证明，他只会通过零散的执法行动来实施对行业的监管。
-
-
-4、
-
-距离美国 SEC 上一次发布与加密货币有关监管指导意见以来已经过去四年了。SEC 主席关注的仍旧是加密行业的头条新闻，
-
-而不是按照 SEC 的核心使命保护投资者的合法努力。
-
-
-
-5、现在是 SEC 主席优先考虑监管规则的时候了，这将使市场更加清晰，公众也能更好的得到保护。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年初至今涨幅超200%，Optimism高估值是否合理？]]></title>
-        <id>https://www.theblockbeats.info/news/34520</id>
-        <link href="https://www.theblockbeats.info/news/34520"/>
-        <updated>2023-02-10T05:30:03.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《The State of Optimism》
-原文作者：Ben Giove，Bankless
-原文编译：aididiaojp.eth，Foresight News
-
-
-
-
-Layer 2 战争越来越白热化，Bankless 正在通过深入研究链上指标来判断究竟谁是赢家？上周我们分析了 Arbitrum，现在让我们看看与它旗鼓相当的竞争对手：Optimism。
-
-
-Optimism 与 Arbitrum 都是 optimistic rollup 方案，它已成为以太坊领先的扩展解决方案之一。
-
-
-Layer 2 概念存在已久，但最近几个月因第一个 rollup Token OP 的出现，Layer 2 再次受到关注。
-
-
-OP 一直是 2023 年初表现最好的Token之一，涨幅高达 227%，相对于以太坊上涨了 135%。Optimism 现在的完全流通市值为 130 亿美元，与 Solana 相当。
-
-
-
-来源: TradingView
-
-
-这就引出了一些问题，Optimism 的高估值是否合理？基本面是否支持 OP 的出色表现？Optimism 在竞争激烈的 L2 赛道中处于什么位置？
-
-
-本文将尝试通过三个方面来回答这些问题：
-
-
-关键绩效指标 
-Optimism 生态主要 DApps 
-即将到来的增长催化剂和风险因素
- 
-关键绩效指标
-
-
-TVL
-
-
-Optimism 的 DeFi TVL 目前为 7.87 亿美元，它是 TVL 排名第二的 Layer 2，仅次于 Arbitrum（13.9 亿美元），也是 DeFi Llama 跟踪的第七大区块链网络。
-
-
-
-Optimism DAA - 来源: Artemis
-
-
-Optimism 的 TVL 在所有公链锁仓价值中的占比在过去一年中持续上升，从 0.2% 上升到 1.2%。它在 Layer 2 中的份额也…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken被重罚并关停美国加密质押服务，业内人士怎么看？]]></title>
-        <id>https://www.theblockbeats.info/news/34518</id>
-        <link href="https://www.theblockbeats.info/news/34518"/>
-        <updated>2023-02-10T04:26:59.000Z</updated>
-        <summary type="html"><![CDATA[SEC强调：「无论是通过质押即服务、借贷还是其他方式，加密货币中介机构都必须提供法律要求的适当披露和保障措施。」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【视频】去中心化就意味着无监管吗？聊聊加密领域的监管与法律]]></title>
-        <id>https://www.theblockbeats.info/news/34521</id>
-        <link href="https://www.theblockbeats.info/news/34521"/>
-        <updated>2023-02-10T03:57:09.000Z</updated>
-        <summary type="html"><![CDATA[加密领域监管与传统金融监管有什么不同]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Baby Games：首个以加密社区为原型的web3游戏平台]]></title>
-        <id>https://www.theblockbeats.info/news/34503</id>
-        <link href="https://www.theblockbeats.info/news/34503"/>
-        <updated>2023-02-10T03:28:47.000Z</updated>
-        <summary type="html"><![CDATA[web3 卡丁车游戏《What The Kart》将以 CryptoTwitter 上受人喜爱的 KOL 等为原型，包括 Inversebrah、CL、Gainzy、Pentoshi 和 Cobie。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InfinityPools：1000倍杠杆的无清算永续合约成真了？]]></title>
-        <id>https://www.theblockbeats.info/news/34519</id>
-        <link href="https://www.theblockbeats.info/news/34519"/>
-        <updated>2023-02-10T03:18:05.000Z</updated>
-        <summary type="html"><![CDATA[InfinityPools解决的是永续合约的清算风险，通过让协议中的所有头寸都实现完美平仓，以让交易者在没有交易对手风险的情况下，对任何资产添加无限的杠杆。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[监管打击链上质押，Coinbase重挫14%]]></title>
-        <id>https://www.theblockbeats.info/news/34517</id>
-        <link href="https://www.theblockbeats.info/news/34517"/>
-        <updated>2023-02-10T03:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Kraken的案子为其他提供类似服务的交易所立下了一个警示牌。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur空投落地在即，还有哪些NFT概念Token值得关注？]]></title>
-        <id>https://www.theblockbeats.info/news/34516</id>
-        <link href="https://www.theblockbeats.info/news/34516"/>
-        <updated>2023-02-10T02:30:02.000Z</updated>
-        <summary type="html"><![CDATA[市场、借贷、碎片化，条条赛道都有潜力股]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
