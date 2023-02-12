@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-12T06:09:09.134Z</updated>
+    <updated>2023-02-12T12:12:48.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bankless：链游前景分析——Web3游戏的真实架构应该是怎样？]]></title>
+        <id>https://www.theblockbeats.info/news/34591</id>
+        <link href="https://www.theblockbeats.info/news/34591"/>
+        <updated>2023-02-12T06:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Web 2.5游戏仍然比传统游戏有更丰富的所有权权益，但其优于传统游戏的地方也是它与完全链上游戏之间所存在的差距。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒]]></title>
         <id>https://www.theblockbeats.info/news/34588</id>
