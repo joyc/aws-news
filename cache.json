@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34602",
+          "author": null,
+          "description": "原文作者：Fungi Alpha，加密研究员\n原文编译：Leo，BlockBeats\n\n\n\n不要一直处在错过的情绪里，主动去发现的一些值得关注的新项目，码住后体验，成为这些项目的早期用户吧，加密研究员 Fungi Alpha 撰文介绍了近期需要关注的潜力项目，BlockBeats 编译如下：\n\n\n\n\nFlaunt\n\n\nFlaunt 是一个企业端到端忠诚度管理平台，作为品牌及其客户进入 Web 3 的入口，让所有用户都拥有自己的品牌资产，参与社区活动，在现有的平台和程序即成Web 3，这也正是加密空间所需要的成分。\n\n\n\n\nVTVL\n\n\nVTVL 是针对于项目或团队的订制化 token 管理方案，项目/团队；简化你的兑现计划/token 分配。由 Certik、Quantstamp 和 code4arena 参与审核。\n\n\n\n\nLevex\n\n\nLevex 是一种无许可的借贷保证金交易协议，使交易者或其他应用能够安全高效地在 Dex 上做多或做空任何交易对，将交易者与最具流动性的 Dex（如 Uniswap、PancakeSwap、SushiSwap 等）进行交易，是 OpenLeverage 的分叉，原生 token 为 LVX。\n\n\n\n\ndisconnect.fi\n\n\ndisconnect.fi 是一个 Web 3 群组消息传递平台，让用户与社区进行实时连接、交互和交易，可以与其他人在其中体验同一款 DeFi 应用，其封闭测试版正在运行。\n\n\n\n\nOniku\n\n\nOniku 是即将在 Canto 上推出的 NFT 项目，在Canto 的 NFT 市场 Alto Market 上线，可能会有不错的前景。\n\n\n\n\nXAVABET\n\n\nXAVABET 是基于 Avalanche 的链上菠菜协议，目前处于早期阶段。\n\n\n\n\nEDGE\n\n\nEDGE 是一个开放的 Web 3 平台，致…",
+          "link": "https://www.theblockbeats.info/news/34602",
+          "publishedOn": "2023-02-13T04:36:25.000Z",
+          "wordCount": null,
+          "title": "盘点近期值得关注的22个小众潜力项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34597",
+          "author": null,
+          "description": "「我们不是要出售一套NFT收藏品，我们是在启动一个DAO。」",
+          "link": "https://www.theblockbeats.info/news/34597",
+          "publishedOn": "2023-02-13T04:06:31.000Z",
+          "wordCount": null,
+          "title": "欧莱雅悄悄启动了一个DAO，探索元宇宙中的美妆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34595",
+          "author": null,
+          "description": "基础建设可能会出现在twitter这样的大家伙上，而导流的源动力可以采用IP导流法，和打金导流法互补。",
+          "link": "https://www.theblockbeats.info/news/34595",
+          "publishedOn": "2023-02-13T03:14:47.000Z",
+          "wordCount": null,
+          "title": "下轮加密浪潮的引爆点？一种新的从Web2导流的方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34594",
+          "author": null,
+          "description": "借ApeCoin质押活动起势，它是后起之秀。",
+          "link": "https://www.theblockbeats.info/news/34594",
+          "publishedOn": "2023-02-13T03:06:58.000Z",
+          "wordCount": null,
+          "title": "全仓杠杆NFT借贷协议ParaSpace是「BendDAO杀手」吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34593",
           "author": null,
           "description": "重温本周热点：ChatGPT引爆AI板块，除了AGIX大家还炒哪些AI币？美国SEC铁拳将至？加密市场监管流言汇总；解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒；",
@@ -73,16 +113,6 @@
           "publishedOn": "2023-02-11T01:00:01.000Z",
           "wordCount": null,
           "title": "解读闪电网络的前世今生：比特币二层扩展的重要一步",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34558",
-          "author": null,
-          "description": "真实世界资产 (RWA) 可以帮助管理稳定币的资产负债风险，同时也会给项目组合开发和管理带来挑战。",
-          "link": "https://www.theblockbeats.info/news/34558",
-          "publishedOn": "2023-02-10T14:00:01.000Z",
-          "wordCount": null,
-          "title": "稳定币管理和抵押的挑战与机遇",
           "imageUrl": null
         }
       ]

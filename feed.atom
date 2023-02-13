@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-13T00:41:18.284Z</updated>
+    <updated>2023-02-13T06:10:44.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点近期值得关注的22个小众潜力项目]]></title>
+        <id>https://www.theblockbeats.info/news/34602</id>
+        <link href="https://www.theblockbeats.info/news/34602"/>
+        <updated>2023-02-13T04:36:25.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Fungi Alpha，加密研究员
+原文编译：Leo，BlockBeats
+
+
+
+不要一直处在错过的情绪里，主动去发现的一些值得关注的新项目，码住后体验，成为这些项目的早期用户吧，加密研究员 Fungi Alpha 撰文介绍了近期需要关注的潜力项目，BlockBeats 编译如下：
+
+
+
+
+Flaunt
+
+
+Flaunt 是一个企业端到端忠诚度管理平台，作为品牌及其客户进入 Web 3 的入口，让所有用户都拥有自己的品牌资产，参与社区活动，在现有的平台和程序即成Web 3，这也正是加密空间所需要的成分。
+
+
+
+
+VTVL
+
+
+VTVL 是针对于项目或团队的订制化 token 管理方案，项目/团队；简化你的兑现计划/token 分配。由 Certik、Quantstamp 和 code4arena 参与审核。
+
+
+
+
+Levex
+
+
+Levex 是一种无许可的借贷保证金交易协议，使交易者或其他应用能够安全高效地在 Dex 上做多或做空任何交易对，将交易者与最具流动性的 Dex（如 Uniswap、PancakeSwap、SushiSwap 等）进行交易，是 OpenLeverage 的分叉，原生 token 为 LVX。
+
+
+
+
+disconnect.fi
+
+
+disconnect.fi 是一个 Web 3 群组消息传递平台，让用户与社区进行实时连接、交互和交易，可以与其他人在其中体验同一款 DeFi 应用，其封闭测试版正在运行。
+
+
+
+
+Oniku
+
+
+Oniku 是即将在 Canto 上推出的 NFT 项目，在Canto 的 NFT 市场 Alto Market 上线，可能会有不错的前景。
+
+
+
+
+XAVABET
+
+
+XAVABET 是基于 Avalanche 的链上菠菜协议，目前处于早期阶段。
+
+
+
+
+EDGE
+
+
+EDGE 是一个开放的 Web 3 平台，致…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧莱雅悄悄启动了一个DAO，探索元宇宙中的美妆]]></title>
+        <id>https://www.theblockbeats.info/news/34597</id>
+        <link href="https://www.theblockbeats.info/news/34597"/>
+        <updated>2023-02-13T04:06:31.000Z</updated>
+        <summary type="html"><![CDATA[「我们不是要出售一套NFT收藏品，我们是在启动一个DAO。」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下轮加密浪潮的引爆点？一种新的从Web2导流的方式]]></title>
+        <id>https://www.theblockbeats.info/news/34595</id>
+        <link href="https://www.theblockbeats.info/news/34595"/>
+        <updated>2023-02-13T03:14:47.000Z</updated>
+        <summary type="html"><![CDATA[基础建设可能会出现在twitter这样的大家伙上，而导流的源动力可以采用IP导流法，和打金导流法互补。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全仓杠杆NFT借贷协议ParaSpace是「BendDAO杀手」吗？]]></title>
+        <id>https://www.theblockbeats.info/news/34594</id>
+        <link href="https://www.theblockbeats.info/news/34594"/>
+        <updated>2023-02-13T03:06:58.000Z</updated>
+        <summary type="html"><![CDATA[借ApeCoin质押活动起势，它是后起之秀。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：ChatGPT引发思考；美国SEC监管质押服务疑云；Arbitrum生态火爆]]></title>
         <id>https://www.theblockbeats.info/news/34593</id>
@@ -295,16 +396,6 @@ Sphinx 非常特立独行的一点是，其在用户界面上参考了彭博终�
 
 
 当然，闪电网络在普及化的路长还存在着许多挑战，如何让用户从心理和行为层面接受用加密货币支付，以及如何基于用户构建起巨大的支付网络，这些都还有很长的一段路要走。但较为乐观的是，闪电网络已经有了不少真实有效的用例，在 Strike、Lightning Labs 等的共建下，随着技术的不断成熟，以及使用场景…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定币管理和抵押的挑战与机遇]]></title>
-        <id>https://www.theblockbeats.info/news/34558</id>
-        <link href="https://www.theblockbeats.info/news/34558"/>
-        <updated>2023-02-10T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[真实世界资产 (RWA) 可以帮助管理稳定币的资产负债风险，同时也会给项目组合开发和管理带来挑战。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
