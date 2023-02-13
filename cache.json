@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34619",
+          "author": null,
+          "description": "一窥美国虚拟资产监管方向的道路，并吸取有益的经验和教训。",
+          "link": "https://www.theblockbeats.info/news/34619",
+          "publishedOn": "2023-02-13T15:57:01.000Z",
+          "wordCount": null,
+          "title": "USA《反洗钱法案》，FTX后的「亡羊补牢」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34626",
+          "author": null,
+          "description": "安全月报是欧易向外界传递资金透明度、安全举措以及重要产品功能的重要载体，覆盖欧易Web3业务与欧易CEX业务两个板块。",
+          "link": "https://www.theblockbeats.info/news/34626",
+          "publishedOn": "2023-02-13T14:02:38.000Z",
+          "wordCount": null,
+          "title": "安全特辑：一文速览欧易安全月报（1 月）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34621",
+          "author": null,
+          "description": "受美国证券交易委员会重拳出击的影响，可以预见的是，伴随着Kraken质押服务的中止，中心化机构中的ETH料将会继续流向Lido Finance。",
+          "link": "https://www.theblockbeats.info/news/34621",
+          "publishedOn": "2023-02-13T14:00:02.000Z",
+          "wordCount": null,
+          "title": "终止服务！美SEC向头部平台发难，以太坊LSD赛道格局生变？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34625",
           "author": null,
           "description": "根据以往历史，加密项目遭 SEC 调查后难逃「以钱换命」",
@@ -153,46 +183,6 @@
           "publishedOn": "2023-02-12T03:45:58.000Z",
           "wordCount": null,
           "title": "解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34562",
-          "author": null,
-          "description": "原文标题：《斯坦福区块链加速器对话 Pantera 合伙人：探讨区块链项目的生命周期》\n采访：Gil Rosen，斯坦福大学助教师\n受访者：Paul Veradittakit，Pantera Capital 合伙人\n原文编译：aididiaojp.eth，Foresight News\n\n\n\n\n斯坦福区块链加速器的 Gil 与 Paul 交流了与风险投资相关的一些话题，其中包括融资、团队建设以及加密风险投资与非加密风险投资的比较，以下是采访内容摘要。\n\n\n\n\nGil：传统企业通常在筹集种子前和种子资金时有自己特定的融资周期，他们希望确定产品与市场契合度之后再逐渐构建他们的产品。区块链是一种不同的物种，我们已经看到了它在过去十年中的发展。您认为目前区块链企业从构思到启动的生命周期结构是什么？\n\n\n\n\nPaul：加密市场的早期应用主要围绕交易平台和经纪公司，它是唯一一个真正达到增长阶段的细分市场。Coinbase，Binance，Kraken 包括暴雷的 FTX，这些都是将法定货币带入加密市场的入口，也是人们了解加密货币的第一步。\n\n\n\n\n我们采取的策略是关注早期阶段，除非我们看到某些将长期存在的明显发展趋势。\n\n\n\n\n就Token经济而言，在 2017 年，它曾经就像公开市场交易一样，你进入之后，可以马上退出。虽然投资者方面有很多钱可以赚，但这对企业家来说真的很糟糕。当你的\n\nToken\n\n非常不稳定时，投资者和企业家无法保持一致步伐，想要建立一个成功的社区是很困难的。随着时间的推移，这种情况发生了变化。我们现在看到的是\n\nToken\n\n融资，它们确实有融资时间表，看起来像是风险投资，但不完全是，这类似于一种混合体。你可能会在三四年内完成投资，而不是一次性投入，这实际上是一条通往流动性与股权融资的确切路径。\n\n\n\n\n这次的不同之处在于，特别是当我们进入熊市时，我们开始看到一个多…",
-          "link": "https://www.theblockbeats.info/news/34562",
-          "publishedOn": "2023-02-11T06:00:01.000Z",
-          "wordCount": null,
-          "title": "对话Pantera合伙人：探讨区块链项目的生命周期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34585",
-          "author": null,
-          "description": "作者：Leo，BlockBeats\n\n\n近期，基于 Cosmos 的 L 1 公链 Canto 公链颇受关注，随着 CANTO 突破 0.48 美元（历史新高）和 Canto TVL 突破 2 亿美元（历史新高），Canto 生态近期迎来了上升阶段，BlockBeats 梳理了 Canto 生态项目如下：\n\n\n\n\nDeFi \n\n\n\n\ncantoswap.fi\n\n\ncantoswap.fi 是一个 AMM 协议和流动性池，旨在实现加密资产之间的高效交易。cantoswap.fi 上的交易活动将费用作为流动性提供商的收入，从而带来去中心化市场和交易体验。cantoswap.fi 利用去中心化流动性池，而不是使用传统的限价订单簿来促进交易。\n\n\ncantoswap.fi 协议通过无许可设计，其服务完全开放公众，团队没有能力选择性地限制访问，任何人都可以随意互换、提供流动性或创造新市场。cantoswap.fi 的每个版本都将依赖 Canto 链。\n\n\n\n\nforte\n\n\nforteswap 是 Canto 上的 Dex，用户可以通过该 Dex 对 Canto 相关资产 toekn 进行 swap 和添加流动性。\n\n\n\n\nEncanto\n\n\nEncanto 是 forteswap 的 LP 奖励引擎，通过 Encanto，用户可以在其池中质押 ForteSwap LP token 以获得 ENC token 奖励，在其中提供的流动性具高度激励性，最可能带来积极的投资回报率。\n\n\n\n\nLeetSwap\n\n\nLeetSwap 是一个 Canto 链上的新兴 Dex，专注于保持安全、快速和对用户友好的体验，其 token 为 LEET，该 Dex 目前具零交易费、流动性挖矿、质押、动态 Jeet 税、社区 farm 和社区 token 激励等功能。\n\n\n\n\nSlingshot\n\n\nSli…",
-          "link": "https://www.theblockbeats.info/news/34585",
-          "publishedOn": "2023-02-11T04:28:04.000Z",
-          "wordCount": null,
-          "title": "一文了解Canto上都有哪些值得关注的项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34559",
-          "author": null,
-          "description": "每一条新公链或者 Rollup 上都会有不少被重复建造的基础设施，正在逐渐走向成熟的 StarkNet 生态也是一样。然而，Sphinx 项目不仅仅想要在 StarkNet 上实现更高效的订单簿交易平台，还希望能够基于 StarkNet 高效的底层基础设施，帮助用户实现跨链交易。\n\n\n\n\n什么是 Sphinx\n\n\n\n\nSphinx 是第一个部署在 StarkNet 上的，支持原生跨链的中央限价订单簿 (CLOB) DEX。是的，在底层公链的性能已经足够突破交易效率的瓶颈之后，AMM 效率低下，无常损失等劣势就会更加明显。因此新公链以及 Layer2 上的 DEX 逐渐采用订单簿作为底层交易系统已经成为了一个明显的行业趋势。\n\n\n\n\nSphinx 第二个明显的优势，便是其可以支持跨链交易。我们知道目前在 StarkNet 生态中，由于底层技术已经原生支持了账户抽象功能，因此 StarkNet 生态中可使用的钱包都是智能合约钱包。也就是说，已经被用户所熟知的 MetaMask 钱包是无法使用的。\n\n\n\n\n但是 Sphinx 可以通过构造无信任的桥，允许来自其他链（如 Ethereum、Polygon、Arbitrum 等）的用户使用他们熟悉的 Metamask 远程存入资产并进行交易。通过这种方式，Sphinx 将进一步发挥可组合性，充当各条公链的流动性聚合层，同时不会出现 AMM 的无常损失或滑点等问题。\n\n\n\n\nSphinx 如何实现跨链交易\n\n\n\n\n要想实现 Sphinx 的跨链交易，首先需要解决两个问题：\n\n\n\n\n（1）将消息从源链桥接到 StarkNet；\n（2）代表用户在 StarkNet 上执行；\n\n\n\n\n为了解决第一个问题，Sphinx 需要让用户在源链签署一个无 gas 的 EIP-712 信息（这个信息可以是：提交限价买入订单、取消订单或提取资金等）。然后通过一个信息传递桥在链间进行转发。当然，这就涉及到选择一个安全的跨链桥的问题。\n\n\n\n\n然而遗憾的是，目前上主流的跨链解决方案，要不是基于乐观假设的，要不是通过 multisig 的多钱钱包，由一些中心化实体控制的。这些解决方案都在安全性上进行了妥协。\n\n\n\n\n因此，Sphinx 选择了与 Herodotus 进行合作，使用存储证明在区块链的共识层实现 ZK 跨链。也就是利用 StarkNet 的廉价计算来读取 Ethereum 上的状态，并使用 SNARK 证明将消息桥接回源链上，以此实现真正安全的信息跨链。\n\n\n\n\n\n\n\n\n\n聚合流动性\n\n\n\n\n在成功地解决了跨链交易的问题后，Sphinx 再进一步，可以实现对不同链不同 AMM 交易资金池之间的聚合。\n\n\n\n\n\n\n\n\n\n正如上图所示，未来 Sphinx 可以将不同链间的交易价格以及流动性都统一到位于 StarkNet 的交易中心，也就是 Sphinx 的订单簿系统中。当实现这一步后，主流公链见交易平台的交易价格与流动性都将得到统一，因此用户也将减少因为套利等原因而被动接受次优价格的问题。\n\n\n\n\nSphinx 的用户界面\n\n\n\n\nSphinx 非常特立独行的一点是，其在用户界面上参考了彭博终端使用了命令行界面来与合约交互。\n\n\n\n\n以下截图是其操作指南，比如用户希望向系统中提交一个 ETH 对 USDC 的买单，价格 1200USDC/ETH，数量 0.5ETH，则需要在命令行界面输入「BID ETH USDC 1200 0.5」并点击回车。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n好吧，或许对于专业交易者来说这样可以提高效率，但对于普通用户来说确实是增加了使用的门槛。当然目前的 Sphinx 还处于测试阶段，未来在正式版中或许会增加用户更为熟悉的图形交互界面。",
-          "link": "https://www.theblockbeats.info/news/34559",
-          "publishedOn": "2023-02-11T03:00:01.000Z",
-          "wordCount": null,
-          "title": "Sphinx：StarkNet上的跨链DEX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34561",
-          "author": null,
-          "description": "原文作者：Twitter@EvieEvieXia\n原文编辑：Twitter@binary_dao\n\n\n研究导读：\n\n\n中本聪在 2009 年创造比特币的时候，就有了关于支付通道的想法，并在 Bitcoin 1.0 中包含了支付通道的代码草稿。之后的几年里，支付通道和闪电网络的实现方案，一直在被比特币社区的极客们推动着向前，其力求实现比特币的初心——搭建点对点的电子现金系统，即便这是一条难而远的道路。\n\n\n推特创始人 Jack 称，将闪电网络集成到 Twitter 或 BlueSky 中只是时间问题，并在 2021 年宣布 Twitter 可以支持第三方闪电网络打赏服务。近期火热的去中心化社交应用 Damus 内置的比特币闪电网络支付功能，再一次引发了大家对闪电网络的关注。\n\n\n闪电网络将交易环节放在链下进行，只有最终的交易结果才在链上确认，从而提高比特币网络的交易效率，让用户能够以更低的成本、更快的速度完成支付。\n\n\n闪电网络的用例包括社交平台打赏支付、跨境汇款、商户支付、转账交易等，能够满足多样化的支付场景需求。\n\n\n2021 年萨尔瓦多将比特币法币化后，闪电网络的支付数量和金额迅速上升。截止至 2023 年 2 月 8 日，闪电网络一共有 1.6 万个节点，近 7.7 万个支付通道，通道资金约 5356 枚比特币（约合 1.24 亿美金）。\n\n\n2022 年，闪电网络领域也出现了多笔大额融资，包括 a16z、Paradigm 在内的顶级机构也参与到了相关项目的投资中。\n\n\n当然，闪电网络在普及化的路长还存在着许多挑战，如何让用户从心理和行为层面接受用加密货币支付，以及如何基于用户构建起巨大的支付网络，这些都还有很长的一段路要走。但较为乐观的是，闪电网络已经有了不少真实有效的用例，在 Strike、Lightning Labs 等的共建下，随着技术的不断成熟，以及使用场景…",
-          "link": "https://www.theblockbeats.info/news/34561",
-          "publishedOn": "2023-02-11T01:00:01.000Z",
-          "wordCount": null,
-          "title": "解读闪电网络的前世今生：比特币二层扩展的重要一步",
           "imageUrl": null
         }
       ]
