@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-14T12:14:26.217Z</updated>
+    <updated>2023-02-14T18:10:07.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点这9个融资金额过亿的元宇宙/NFT团队，或将成为领域未来支柱]]></title>
+        <id>https://www.theblockbeats.info/news/34665</id>
+        <link href="https://www.theblockbeats.info/news/34665"/>
+        <updated>2023-02-14T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[回顾2022年融资规模上亿的NFT和元宇宙项目，这些手持重金的项目无疑会有更长的生命周期，给市场带来新的创造力。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梳理BUSD事件关键时间节点与事件]]></title>
+        <id>https://www.theblockbeats.info/news/34645</id>
+        <link href="https://www.theblockbeats.info/news/34645"/>
+        <updated>2023-02-14T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[美国监管为何突然绞杀BUSD？USDT们正瑟瑟发抖？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[150亿美元稳定币帝国的四年起落：BUSD的野心与遗憾]]></title>
         <id>https://www.theblockbeats.info/news/34682</id>
@@ -411,16 +431,6 @@ EDGE 是一个开放的 Web 3 平台，致…]]></summary>
         <link href="https://www.theblockbeats.info/news/34591"/>
         <updated>2023-02-12T06:32:16.000Z</updated>
         <summary type="html"><![CDATA[Web 2.5游戏仍然比传统游戏有更丰富的所有权权益，但其优于传统游戏的地方也是它与完全链上游戏之间所存在的差距。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读SEC为何「打击质押服务」：实则监管吸储生息模式，防止CEX资金黑盒]]></title>
-        <id>https://www.theblockbeats.info/news/34588</id>
-        <link href="https://www.theblockbeats.info/news/34588"/>
-        <updated>2023-02-12T03:45:58.000Z</updated>
-        <summary type="html"><![CDATA[从豪威测试来看，质押本身是完全被无法作为证券看待的。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
