@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34654",
+          "author": null,
+          "description": "原文作者：Fungi Alpha，加密研究员\n\n\n原文编译：Leo，BlockBeats\n\n\n\n厌倦了对于新项目的错过，也不知道如何发现 Alpha，没关系，加密研究员 Fungi Alpha 撰文介绍了近期需要关注的潜力项目，BlockBeats 整理和编译如下：\n\n\n\n\n以下是我们发现的一些潜力项目，单纯个人挑选，不构成财务建议。\n\n\n\n\nSovryn Dollar\n\n\nSovryn Dollar 是 BTC 支持的去中心化稳定币，背靠 DeFi 协议 Sovryn。\n\n\n\n\nFlido\n\n\nFlashstake 和 Lido 支持，Flido 允许用户在一分钟至长达三个月的时间内锁定 stETH 利率，并提前获得全部收益，该协议具无清算、可以提前取出 stETH、锁定固定利率等优势。\n\n\n\n\nOPNX Official\n\n\nOPNX Official 是一个加密索赔解决方案，Open Exchange 是世界上第一个加密索赔交易和衍生品的公共市场，可以将用户被锁定的债权用于加密货币交易或保证金抵押。\n\n\n\n\nLULO\n\n\nLulo 是 Solana 上一种安全快速的点对点借贷协议，使用链上订单簿构建。\n\n\n\n\nOasisSwapDEX\n\n\nOasisSwapDEX 是 TridentDAO 生态的原生 Dex，将在本周推出。近期 PSI、INK、Kraken NFT 均看涨，TridentDAO 可能会成为 Treasure 的最大竞争对手。\n\n\n\n\nConvergence\n\n\nConvergence 是一个的「Convex 类」聚合器，它收集各种机制来激励治理参与，同时优化底层收益率和聚合协议的功能，是一个混合了 Convex、Curve 和 Olympus 的集合体，以实现其所谓的「Govearn」机制。\n\n\n\n\nStakeCuzco\n\n\nStakeCuzco 是…",
+          "link": "https://www.theblockbeats.info/news/34654",
+          "publishedOn": "2023-02-14T04:43:06.000Z",
+          "wordCount": null,
+          "title": "近期值得关注的20个新项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34652",
+          "author": null,
+          "description": "上周融资总数33笔，总金额约2.7亿美元，GameFi领域扭转颓势，融资数量与金额均有提升。",
+          "link": "https://www.theblockbeats.info/news/34652",
+          "publishedOn": "2023-02-14T03:55:15.000Z",
+          "wordCount": null,
+          "title": "2023年第8周融资精选，GameFi领域强势回暖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34643",
+          "author": null,
+          "description": "仅在以太坊上发行的BUSD由监管直接提供锚定担保，其它30条链上的BUSD则跨链而来。",
+          "link": "https://www.theblockbeats.info/news/34643",
+          "publishedOn": "2023-02-14T03:43:35.000Z",
+          "wordCount": null,
+          "title": "你手中的BUSD，是「真正」的BUSD吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34644",
+          "author": null,
+          "description": "Blur发币在即，预期落地还能否维持现有交易量？",
+          "link": "https://www.theblockbeats.info/news/34644",
+          "publishedOn": "2023-02-14T03:18:10.000Z",
+          "wordCount": null,
+          "title": "对话Blur创始人：空投激励结束后，如何更好留住用户？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34618",
+          "author": null,
+          "description": "在上个周末，资金从AI板块流入了ZK板块，「零知识」叙事正在开始，ZK Token开始成为趋势，逐渐繁荣。",
+          "link": "https://www.theblockbeats.info/news/34618",
+          "publishedOn": "2023-02-14T01:30:01.000Z",
+          "wordCount": null,
+          "title": "ZK叙事接力AI，我们需要关注哪些ZK项目？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34619",
           "author": null,
           "description": "一窥美国虚拟资产监管方向的道路，并吸取有益的经验和教训。",
