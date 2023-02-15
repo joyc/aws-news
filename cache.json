@@ -6,6 +6,106 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34714",
+          "author": null,
+          "description": "久违的空投盛宴。",
+          "link": "https://www.theblockbeats.info/news/34714",
+          "publishedOn": "2023-02-15T10:03:41.000Z",
+          "wordCount": null,
+          "title": "首战告捷，Blur第二轮空投还有什么新故事？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34711",
+          "author": null,
+          "description": "由于Euler无许可的借贷基础设施，其可组合性和交互性很强，该协议允许几乎任何资产的借贷，这是其他DeFi协议无法实现的。",
+          "link": "https://www.theblockbeats.info/news/34711",
+          "publishedOn": "2023-02-15T08:34:03.000Z",
+          "wordCount": null,
+          "title": "BUSD被Ban，Euler Finace提供多种交易选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34709",
+          "author": null,
+          "description": "「给用户质押资产提供更高的APY」",
+          "link": "https://www.theblockbeats.info/news/34709",
+          "publishedOn": "2023-02-15T07:33:11.000Z",
+          "wordCount": null,
+          "title": "Sharpe Magnum：能让LSD上杠杆的新协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34708",
+          "author": null,
+          "description": "Linera目标是提供安全、高扩展性、低延迟区块链，以给予Web3应用更快的响应速度，缩小中心化和去中心化应用之间的差距",
+          "link": "https://www.theblockbeats.info/news/34708",
+          "publishedOn": "2023-02-15T07:32:43.000Z",
+          "wordCount": null,
+          "title": "MOVE系「老三」：新公链Linera全面解读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34696",
+          "author": null,
+          "description": "三大稳定币占到了整个稳定币市场的90%以上，他们的全链布数据到底如何？",
+          "link": "https://www.theblockbeats.info/news/34696",
+          "publishedOn": "2023-02-15T06:29:01.000Z",
+          "wordCount": null,
+          "title": "数据分析：USDC、BUSD及USDT不同链上资产分布情况",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34695",
+          "author": null,
+          "description": "Blur与Opensea之争，Blur有无胜算？",
+          "link": "https://www.theblockbeats.info/news/34695",
+          "publishedOn": "2023-02-15T06:09:46.000Z",
+          "wordCount": null,
+          "title": "黑马Blur「狂飙」，NFT平台老大OpenSea要坐不住了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34686",
+          "author": null,
+          "description": "STEPN 官方推出的 NFT Launchpad，能否复制其成功破圈经验帮助用户发现更多早期优质的 Web3 项目？",
+          "link": "https://www.theblockbeats.info/news/34686",
+          "publishedOn": "2023-02-15T06:00:01.000Z",
+          "wordCount": null,
+          "title": "MOOAR Launchpad第2期来袭，能从这发现下一个STEPN吗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34694",
+          "author": null,
+          "description": "用一种新的音乐格式，在流媒体时代重现黑胶唱片的辉煌。",
+          "link": "https://www.theblockbeats.info/news/34694",
+          "publishedOn": "2023-02-15T04:26:45.000Z",
+          "wordCount": null,
+          "title": "VAULT Protocol如何使用DMC制作Web3的黑胶唱片？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34687",
+          "author": null,
+          "description": "「应该卖掉、还是应该Hold甚至买更多？」",
+          "link": "https://www.theblockbeats.info/news/34687",
+          "publishedOn": "2023-02-15T03:49:25.000Z",
+          "wordCount": null,
+          "title": "空投结束，如何为Blur估值？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34685",
+          "author": null,
+          "description": "在OpenSea上交易比特币NFT，舒服了",
+          "link": "https://www.theblockbeats.info/news/34685",
+          "publishedOn": "2023-02-15T03:21:24.000Z",
+          "wordCount": null,
+          "title": "教程｜如何通过Emblem Vault让比特币NFT在以太坊上流通？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34684",
           "author": null,
           "description": "原文标题：《\n\n速览 Blur 代币经济模型和空投分发认领情况\n\n》\n原文作者：Karen，Foresight News\n \nBlur 空投福利一直是市场关注的焦点。今日凌晨，Blur Token 正式上线，并对过去 3 个月的交易用户、盲盒持有者和创作者都发放 3.6 亿枚空投，去年 5 月份候补名单加入用户以及封闭测试用户还会得到额外空投。Blur 表示这只是第一季，当前 Blur 已开启第二季，不过具体奖励细则暂未公布，在接下来的 30 天内，所有出价和上架积分翻倍。\n \nOKX 上 BLUR 上线第 2 分钟价格最高涨至 8.36 USDT（Bitget 上最高为 12 USDT），并在之后 10 分钟内自最高点跌去 90% 回落至 1 USDT 附近，当前为 0.82 USDT。按当前价格计算，Blur 目前市值大概在 24 亿美元左右。对比之下，当前同类竞品 LooksRare Token 完全稀释后估值为 2.86 亿美元，X2Y2 估值为 1.45 亿美元。\n \n值得注意的是，昨日据 The Block 报道，Blur 将以 10 亿美元估值融资。而 Blur 披露的唯一一轮融资于 2022 年 3 月份完成，当时完成 1100 万美元种子轮融资，Paradigm 领投，eGirl Capital、Keyboard Monkey、LedgerStatus、0xMaki、Santiago Santos、Zeneca、Deeze 等参投。\n \n空投认领情况\n \nBlur 今日分配的空投 Token 有 3.6 亿枚，占 Token 初始总供应量的 12%。根据 Dune 数据，截至撰稿时，已有近 5 万用户认领认领近 2.87 亿枚 BLUR 空投，占据空投分配总量的近 80%。\n \n空投具体分配方面：\n \n23 个地址各获得超 100 万枚 Token；33 …",
