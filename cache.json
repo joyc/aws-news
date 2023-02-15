@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34684",
+          "author": null,
+          "description": "原文标题：《\n\n速览 Blur 代币经济模型和空投分发认领情况\n\n》\n原文作者：Karen，Foresight News\n \nBlur 空投福利一直是市场关注的焦点。今日凌晨，Blur Token 正式上线，并对过去 3 个月的交易用户、盲盒持有者和创作者都发放 3.6 亿枚空投，去年 5 月份候补名单加入用户以及封闭测试用户还会得到额外空投。Blur 表示这只是第一季，当前 Blur 已开启第二季，不过具体奖励细则暂未公布，在接下来的 30 天内，所有出价和上架积分翻倍。\n \nOKX 上 BLUR 上线第 2 分钟价格最高涨至 8.36 USDT（Bitget 上最高为 12 USDT），并在之后 10 分钟内自最高点跌去 90% 回落至 1 USDT 附近，当前为 0.82 USDT。按当前价格计算，Blur 目前市值大概在 24 亿美元左右。对比之下，当前同类竞品 LooksRare Token 完全稀释后估值为 2.86 亿美元，X2Y2 估值为 1.45 亿美元。\n \n值得注意的是，昨日据 The Block 报道，Blur 将以 10 亿美元估值融资。而 Blur 披露的唯一一轮融资于 2022 年 3 月份完成，当时完成 1100 万美元种子轮融资，Paradigm 领投，eGirl Capital、Keyboard Monkey、LedgerStatus、0xMaki、Santiago Santos、Zeneca、Deeze 等参投。\n \n空投认领情况\n \nBlur 今日分配的空投 Token 有 3.6 亿枚，占 Token 初始总供应量的 12%。根据 Dune 数据，截至撰稿时，已有近 5 万用户认领认领近 2.87 亿枚 BLUR 空投，占据空投分配总量的近 80%。\n \n空投具体分配方面：\n \n23 个地址各获得超 100 万枚 Token；33 …",
+          "link": "https://www.theblockbeats.info/news/34684",
+          "publishedOn": "2023-02-15T03:00:44.000Z",
+          "wordCount": null,
+          "title": "速览Blur Token经济模型和空投分发认领情况",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34681",
+          "author": null,
+          "description": "验证者不太可能在允许提币后大规模外流。",
+          "link": "https://www.theblockbeats.info/news/34681",
+          "publishedOn": "2023-02-15T01:30:01.000Z",
+          "wordCount": null,
+          "title": "全面解析以太坊网络「双重升级」对提币和ETH供应量的影响",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34665",
           "author": null,
           "description": "回顾2022年融资规模上亿的NFT和元宇宙项目，这些手持重金的项目无疑会有更长的生命周期，给市场带来新的创造力。",
