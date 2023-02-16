@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-15T18:09:39.946Z</updated>
+    <updated>2023-02-16T00:39:16.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -465,76 +465,6 @@ StakeCuzco 是…]]></summary>
         <link href="https://www.theblockbeats.info/news/34621"/>
         <updated>2023-02-13T14:00:02.000Z</updated>
         <summary type="html"><![CDATA[受美国证券交易委员会重拳出击的影响，可以预见的是，伴随着Kraken质押服务的中止，中心化机构中的ETH料将会继续流向Lido Finance。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance会和SEC和解吗？看看历史上被SEC罚过的知名项目们]]></title>
-        <id>https://www.theblockbeats.info/news/34625</id>
-        <link href="https://www.theblockbeats.info/news/34625"/>
-        <updated>2023-02-13T11:23:56.000Z</updated>
-        <summary type="html"><![CDATA[根据以往历史，加密项目遭 SEC 调查后难逃「以钱换命」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur空投落地会是NFT市场的「牛熊分水岭」吗？]]></title>
-        <id>https://www.theblockbeats.info/news/34624</id>
-        <link href="https://www.theblockbeats.info/news/34624"/>
-        <updated>2023-02-13T10:59:50.000Z</updated>
-        <summary type="html"><![CDATA[风浪越大，鱼越贵。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定币发行商Paxos突遭美国监管机构审查，BUSD仅是开端？]]></title>
-        <id>https://www.theblockbeats.info/news/34622</id>
-        <link href="https://www.theblockbeats.info/news/34622"/>
-        <updated>2023-02-13T10:28:32.000Z</updated>
-        <summary type="html"><![CDATA[BUSD是否会出现挤兑风险？稳定币又是否应被视为证券？稳定币的监管管辖权究竟该归属哪个部门？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO的野心：成立新公司Phoenix Labs与Spark Protocol，进军LSD]]></title>
-        <id>https://www.theblockbeats.info/news/34599</id>
-        <link href="https://www.theblockbeats.info/news/34599"/>
-        <updated>2023-02-13T09:44:59.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO首个SubDAO Spark Protocol，如何帮助EtherDAI的启动和DAI扩大借贷市场。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAVE的去中心化稳定币GHO上线测试网：速览更新内容及阶段性进展]]></title>
-        <id>https://www.theblockbeats.info/news/34600</id>
-        <link href="https://www.theblockbeats.info/news/34600"/>
-        <updated>2023-02-13T08:24:47.000Z</updated>
-        <summary type="html"><![CDATA[由Aave发行的去中心化美元稳定币HO正式在以太坊Goerli测试网上线，以供社区分析检测BUG，本文重在解读更新内容和阶段性进展。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊上海升级或推迟到四月，EIP 4844更名为Deneb]]></title>
-        <id>https://www.theblockbeats.info/news/34605</id>
-        <link href="https://www.theblockbeats.info/news/34605"/>
-        <updated>2023-02-13T07:28:35.000Z</updated>
-        <summary type="html"><![CDATA[在正式进行以太坊主网升级之前，Sepolia是倒数第二个测试网，根据塞波利亚（Sepolia）的激活日期，上海升级的主网启动日期似乎更有可能在 4 月初进行。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松理解Rollup：ZK Rollups与Optimistic，Arbitrum的区别]]></title>
-        <id>https://www.theblockbeats.info/news/34604</id>
-        <link href="https://www.theblockbeats.info/news/34604"/>
-        <updated>2023-02-13T07:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Rollups的不同区别。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
