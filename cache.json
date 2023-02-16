@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34758",
+          "author": null,
+          "description": "社交媒体已经改变了我们的沟通方式，但不是每个人都认为这些变化总是积极的。",
+          "link": "https://www.theblockbeats.info/news/34758",
+          "publishedOn": "2023-02-16T14:00:02.000Z",
+          "wordCount": null,
+          "title": "深入Deso：混合Pow共识、社交图谱、DID和无限状态应用版图",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34769",
+          "author": null,
+          "description": "为开发者搭建Web3大规模采用所需的解决方案和工具提供全流程培训支持",
+          "link": "https://www.theblockbeats.info/news/34769",
+          "publishedOn": "2023-02-16T11:58:30.000Z",
+          "wordCount": null,
+          "title": "BNB Chain启动为期6个月的Web3超级开发者之旅",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34767",
           "author": null,
           "description": "比特币于 2 月 15 日再次单日拉涨超 10%，随着比特币的爆发，zk 概念币种也均有不小的涨幅，市值超百亿美元的 Polygon 也在宣布其 zkEVM 主网 Beta 版将于 3 月 27 日发布后，涨出单日 11% 的可观涨幅。BlockBeats 梳理了本次普涨中较为亮眼的 zk 概念项目。\n\n\n\n\nMINA（Mina）（24H + 9.2%）\n\n\n轻量化公链 Mina Protocol，背后的团队来自于美国的 O(1)Labs，成立于 2017 年，前身为 Coda，曾是二代公链中最早提出使用 ZK 技术的项目。Mina 使用了一种被称为 Pickles 的 zk-SNARK 技术，可以让区块保持固定大小，理论上全账本的恒定大小为 22kB 左右。MINA Token 可以充当网络 Gas 费，并参与节点验证。\n\n\n\n\nMINA 当前市值 8.47 亿美元，此轮中自低点 0.72 美元最高涨至 1.08 美元。在 Layer2 ZK 四小龙中剩下三只发币预期带来的行情中，MINA 作为 Layer1 显然不是相关性最高的标的，但作为一条已经严重超跌的公链，反弹行情顺势产生。\n\n\n\n\nlRC（Loopring）（24H + 14.73%）\n\n\nLoopring，耳熟能详的名字是「路印协议」，基于 ZK Proofs 的建立高吞吐量、非托管 DEX，正宗 ZK Layer2 标的，自 1 月初以来已经从不到 0.2 美元实现翻倍，在上周五 SEC 监管带来的整体大跌中迅速收复失地。\n\n\n\n\n缺点：项目较老，缺乏新鲜度。\n\n\n\n\nMATIC（Polygon）（24H + 11.16%）\n\n\n\n\n2 月 15 日晚，Polygon 正式宣布其 zkEVM 主网 Beta 版将于 3 月 27 日发布。作为技术全家桶，Polygon 通过收购 Hermez Network（一个 ZK Rollup）以开发他们自己的 zkEVM 产品。zkEVM 是一种以透明方式执行以太坊交易的虚拟机，包括具有 ZK proof 的智能合约。\n\n\n\n\nPolygon 作为包含 ZK 概念的大公链，由于概念贴合度与市值原因，在此轮 ZK 行情中受益不明显。\n\n\n\n\n\nTornado Cash（TORN）（24H - 7.36%）\n\n\n\n\nTornado Cash 是基于零知识证明在以太坊上实现的隐私交易中间件。它使用 zk-SNARK（Zero-Knowledge Succinct Non-Interactive Argument of Knowledge），能够以不可追溯的方式将 ETH 以及 ERC20 Token（目前支持 DAI，cDAI，USDC，USDT，WBTC）发送到任何地址。也正是由于 zk-SNARK 技术的支持，使得 Tornado Cash 成为了黑客眼中可靠的混币洗钱工具，攻击事件发生后，大部分的黑客所得资产最终都转移到了 Tornado Cash。\n\n\n\n\n值得一提的是，此前在 OFAC 制裁事件中被抓的 Tornado Cash 核心开发者 Alexey Pertsev 将于 2 月 20 日结束关押。双重利好下TORN已在短时内拉升较大涨幅。\n\n\n\n\nCeler Network（CELR）（24H + 10.22%）\n\n\n\n\n作为区块链互操作协议，降低用户多链 DeFi 操作的费用也一直是 Celer Network 的研究方向。2022 年 4 月，Celer 宣布正式推出基于 StarkWare StarkEx 构建的 Layer2.Finance ZK 版本。Layer2.Finance 构建了一个类似「DeFi 公共交通系统」的创新方案，让用户能够以低廉的手续费访问所有现有的 DeFi 协议。\n\n\n\n\nDUSK Network（DUSK）（24H + 13.6%）\n\n\n\n\nDusk Network 是一个 Layer 1 区块链协议，能够为满足业务合规性标准的隐私保护智能合约提供支持，该协议使用名为「PlonKup」的 ZKP 系统以更低的成本保护数据。利用零知识（ZK）技术中的 PLONK，Duk Network 上的所有交易的保密性都将受益。\n\n\n\n\nImmutable X（IMX）（24H + 6.24%）\n\n\n\n\nImmutable X 是以太坊上适用于 NFT 的 Layer 2 扩容解决方案。该网络为铸造和交易 NFT 提供快速交易确认，且燃料费接近于零。Immutable X 的共享全球 NFT 订单簿可有效地提高 NFT 的流动性，并增加其交易量。NFT 可在任何基于 Immutable X 的市场上进行买卖。\n\n\n\n\n\n\n\n借助 ZK-rollup 技术，ImmutableX 为各个链游生态系统提供可扩展的高响应速度基础设施。",
@@ -363,56 +383,6 @@
           "publishedOn": "2023-02-14T06:46:07.000Z",
           "wordCount": null,
           "title": "从Loot练习生到GameFi魔导师，回顾TreasureDAO的「魔法」进修之路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34654",
-          "author": null,
-          "description": "原文作者：Fungi Alpha，加密研究员\n\n\n原文编译：Leo，BlockBeats\n\n\n\n厌倦了对于新项目的错过，也不知道如何发现 Alpha，没关系，加密研究员 Fungi Alpha 撰文介绍了近期需要关注的潜力项目，BlockBeats 整理和编译如下：\n\n\n\n\n以下是我们发现的一些潜力项目，单纯个人挑选，不构成财务建议。\n\n\n\n\nSovryn Dollar\n\n\nSovryn Dollar 是 BTC 支持的去中心化稳定币，背靠 DeFi 协议 Sovryn。\n\n\n\n\nFlido\n\n\nFlashstake 和 Lido 支持，Flido 允许用户在一分钟至长达三个月的时间内锁定 stETH 利率，并提前获得全部收益，该协议具无清算、可以提前取出 stETH、锁定固定利率等优势。\n\n\n\n\nOPNX Official\n\n\nOPNX Official 是一个加密索赔解决方案，Open Exchange 是世界上第一个加密索赔交易和衍生品的公共市场，可以将用户被锁定的债权用于加密货币交易或保证金抵押。\n\n\n\n\nLULO\n\n\nLulo 是 Solana 上一种安全快速的点对点借贷协议，使用链上订单簿构建。\n\n\n\n\nOasisSwapDEX\n\n\nOasisSwapDEX 是 TridentDAO 生态的原生 Dex，将在本周推出。近期 PSI、INK、Kraken NFT 均看涨，TridentDAO 可能会成为 Treasure 的最大竞争对手。\n\n\n\n\nConvergence\n\n\nConvergence 是一个的「Convex 类」聚合器，它收集各种机制来激励治理参与，同时优化底层收益率和聚合协议的功能，是一个混合了 Convex、Curve 和 Olympus 的集合体，以实现其所谓的「Govearn」机制。\n\n\n\n\nStakeCuzco\n\n\nStakeCuzco 是…",
-          "link": "https://www.theblockbeats.info/news/34654",
-          "publishedOn": "2023-02-14T04:43:06.000Z",
-          "wordCount": null,
-          "title": "近期值得关注的20个新项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34652",
-          "author": null,
-          "description": "上周融资总数33笔，总金额约2.7亿美元，GameFi领域扭转颓势，融资数量与金额均有提升。",
-          "link": "https://www.theblockbeats.info/news/34652",
-          "publishedOn": "2023-02-14T03:55:15.000Z",
-          "wordCount": null,
-          "title": "2023年第8周融资精选，GameFi领域强势回暖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34643",
-          "author": null,
-          "description": "仅在以太坊上发行的BUSD由监管直接提供锚定担保，其它30条链上的BUSD则跨链而来。",
-          "link": "https://www.theblockbeats.info/news/34643",
-          "publishedOn": "2023-02-14T03:43:35.000Z",
-          "wordCount": null,
-          "title": "你手中的BUSD，是「真正」的BUSD吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34644",
-          "author": null,
-          "description": "Blur发币在即，预期落地还能否维持现有交易量？",
-          "link": "https://www.theblockbeats.info/news/34644",
-          "publishedOn": "2023-02-14T03:18:10.000Z",
-          "wordCount": null,
-          "title": "对话Blur创始人：空投激励结束后，如何更好留住用户？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34618",
-          "author": null,
-          "description": "在上个周末，资金从AI板块流入了ZK板块，「零知识」叙事正在开始，ZK Token开始成为趋势，逐渐繁荣。",
-          "link": "https://www.theblockbeats.info/news/34618",
-          "publishedOn": "2023-02-14T01:30:01.000Z",
-          "wordCount": null,
-          "title": "ZK叙事接力AI，我们需要关注哪些ZK项目？",
           "imageUrl": null
         }
       ]

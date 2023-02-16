@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-16T12:14:03.353Z</updated>
+    <updated>2023-02-16T18:08:49.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深入Deso：混合Pow共识、社交图谱、DID和无限状态应用版图]]></title>
+        <id>https://www.theblockbeats.info/news/34758</id>
+        <link href="https://www.theblockbeats.info/news/34758"/>
+        <updated>2023-02-16T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[社交媒体已经改变了我们的沟通方式，但不是每个人都认为这些变化总是积极的。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB Chain启动为期6个月的Web3超级开发者之旅]]></title>
+        <id>https://www.theblockbeats.info/news/34769</id>
+        <link href="https://www.theblockbeats.info/news/34769"/>
+        <updated>2023-02-16T11:58:30.000Z</updated>
+        <summary type="html"><![CDATA[为开发者搭建Web3大规模采用所需的解决方案和工具提供全流程培训支持]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市场有哪些zk概念的标的可以炒？]]></title>
         <id>https://www.theblockbeats.info/news/34767</id>
@@ -1075,124 +1095,6 @@ Blur 今日分配的空投 Token 有 3.6 亿枚，占 Token 初始总供应量�
         <link href="https://www.theblockbeats.info/news/34659"/>
         <updated>2023-02-14T06:46:07.000Z</updated>
         <summary type="html"><![CDATA[类似于4399精准把握了小游戏的需求浪潮，TreasureDAO也正在瞄准长尾游戏市场，逐渐增长的Web3玩家会对这类小游戏及AA游戏有着极大的需求。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近期值得关注的20个新项目]]></title>
-        <id>https://www.theblockbeats.info/news/34654</id>
-        <link href="https://www.theblockbeats.info/news/34654"/>
-        <updated>2023-02-14T04:43:06.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：Fungi Alpha，加密研究员
-
-
-原文编译：Leo，BlockBeats
-
-
-
-厌倦了对于新项目的错过，也不知道如何发现 Alpha，没关系，加密研究员 Fungi Alpha 撰文介绍了近期需要关注的潜力项目，BlockBeats 整理和编译如下：
-
-
-
-
-以下是我们发现的一些潜力项目，单纯个人挑选，不构成财务建议。
-
-
-
-
-Sovryn Dollar
-
-
-Sovryn Dollar 是 BTC 支持的去中心化稳定币，背靠 DeFi 协议 Sovryn。
-
-
-
-
-Flido
-
-
-Flashstake 和 Lido 支持，Flido 允许用户在一分钟至长达三个月的时间内锁定 stETH 利率，并提前获得全部收益，该协议具无清算、可以提前取出 stETH、锁定固定利率等优势。
-
-
-
-
-OPNX Official
-
-
-OPNX Official 是一个加密索赔解决方案，Open Exchange 是世界上第一个加密索赔交易和衍生品的公共市场，可以将用户被锁定的债权用于加密货币交易或保证金抵押。
-
-
-
-
-LULO
-
-
-Lulo 是 Solana 上一种安全快速的点对点借贷协议，使用链上订单簿构建。
-
-
-
-
-OasisSwapDEX
-
-
-OasisSwapDEX 是 TridentDAO 生态的原生 Dex，将在本周推出。近期 PSI、INK、Kraken NFT 均看涨，TridentDAO 可能会成为 Treasure 的最大竞争对手。
-
-
-
-
-Convergence
-
-
-Convergence 是一个的「Convex 类」聚合器，它收集各种机制来激励治理参与，同时优化底层收益率和聚合协议的功能，是一个混合了 Convex、Curve 和 Olympus 的集合体，以实现其所谓的「Govearn」机制。
-
-
-
-
-StakeCuzco
-
-
-StakeCuzco 是…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年第8周融资精选，GameFi领域强势回暖]]></title>
-        <id>https://www.theblockbeats.info/news/34652</id>
-        <link href="https://www.theblockbeats.info/news/34652"/>
-        <updated>2023-02-14T03:55:15.000Z</updated>
-        <summary type="html"><![CDATA[上周融资总数33笔，总金额约2.7亿美元，GameFi领域扭转颓势，融资数量与金额均有提升。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你手中的BUSD，是「真正」的BUSD吗？]]></title>
-        <id>https://www.theblockbeats.info/news/34643</id>
-        <link href="https://www.theblockbeats.info/news/34643"/>
-        <updated>2023-02-14T03:43:35.000Z</updated>
-        <summary type="html"><![CDATA[仅在以太坊上发行的BUSD由监管直接提供锚定担保，其它30条链上的BUSD则跨链而来。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话Blur创始人：空投激励结束后，如何更好留住用户？]]></title>
-        <id>https://www.theblockbeats.info/news/34644</id>
-        <link href="https://www.theblockbeats.info/news/34644"/>
-        <updated>2023-02-14T03:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Blur发币在即，预期落地还能否维持现有交易量？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZK叙事接力AI，我们需要关注哪些ZK项目？]]></title>
-        <id>https://www.theblockbeats.info/news/34618</id>
-        <link href="https://www.theblockbeats.info/news/34618"/>
-        <updated>2023-02-14T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[在上个周末，资金从AI板块流入了ZK板块，「零知识」叙事正在开始，ZK Token开始成为趋势，逐渐繁荣。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
