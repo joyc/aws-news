@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-17T12:13:35.731Z</updated>
+    <updated>2023-02-17T18:09:26.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[扩展性之外，零知识证明的Web3用例还有很多]]></title>
+        <id>https://www.theblockbeats.info/news/34784</id>
+        <link href="https://www.theblockbeats.info/news/34784"/>
+        <updated>2023-02-17T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[零知识证明还可以应用于链下计算、跨链桥联、资产安全、用户验证等方面。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BUSD大旗倒下，BNBChain的稳定币生态将有何变局？]]></title>
+        <id>https://www.theblockbeats.info/news/34785</id>
+        <link href="https://www.theblockbeats.info/news/34785"/>
+        <updated>2023-02-17T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[BUSD的退出会如何搅动BNBChain的稳定币生态？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巨鲸收获BLUR之后转向SUDO，交易量被抑制的Sudoswap能否再次迎来春天]]></title>
         <id>https://www.theblockbeats.info/news/34794</id>
@@ -1109,85 +1129,6 @@ ABCDE 是专注于领投顶级 Crypto Builder 的 VC，由耕耘了 Crypto 行�
         <link href="https://www.theblockbeats.info/news/34695"/>
         <updated>2023-02-15T06:09:46.000Z</updated>
         <summary type="html"><![CDATA[Blur与Opensea之争，Blur有无胜算？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOOAR Launchpad第2期来袭，能从这发现下一个STEPN吗]]></title>
-        <id>https://www.theblockbeats.info/news/34686</id>
-        <link href="https://www.theblockbeats.info/news/34686"/>
-        <updated>2023-02-15T06:00:01.000Z</updated>
-        <summary type="html"><![CDATA[STEPN 官方推出的 NFT Launchpad，能否复制其成功破圈经验帮助用户发现更多早期优质的 Web3 项目？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAULT Protocol如何使用DMC制作Web3的黑胶唱片？]]></title>
-        <id>https://www.theblockbeats.info/news/34694</id>
-        <link href="https://www.theblockbeats.info/news/34694"/>
-        <updated>2023-02-15T04:26:45.000Z</updated>
-        <summary type="html"><![CDATA[用一种新的音乐格式，在流媒体时代重现黑胶唱片的辉煌。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空投结束，如何为Blur估值？]]></title>
-        <id>https://www.theblockbeats.info/news/34687</id>
-        <link href="https://www.theblockbeats.info/news/34687"/>
-        <updated>2023-02-15T03:49:25.000Z</updated>
-        <summary type="html"><![CDATA[「应该卖掉、还是应该Hold甚至买更多？」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教程｜如何通过Emblem Vault让比特币NFT在以太坊上流通？]]></title>
-        <id>https://www.theblockbeats.info/news/34685</id>
-        <link href="https://www.theblockbeats.info/news/34685"/>
-        <updated>2023-02-15T03:21:24.000Z</updated>
-        <summary type="html"><![CDATA[在OpenSea上交易比特币NFT，舒服了]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[速览Blur Token经济模型和空投分发认领情况]]></title>
-        <id>https://www.theblockbeats.info/news/34684</id>
-        <link href="https://www.theblockbeats.info/news/34684"/>
-        <updated>2023-02-15T03:00:44.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-速览 Blur 代币经济模型和空投分发认领情况
-
-》
-原文作者：Karen，Foresight News
- 
-Blur 空投福利一直是市场关注的焦点。今日凌晨，Blur Token 正式上线，并对过去 3 个月的交易用户、盲盒持有者和创作者都发放 3.6 亿枚空投，去年 5 月份候补名单加入用户以及封闭测试用户还会得到额外空投。Blur 表示这只是第一季，当前 Blur 已开启第二季，不过具体奖励细则暂未公布，在接下来的 30 天内，所有出价和上架积分翻倍。
- 
-OKX 上 BLUR 上线第 2 分钟价格最高涨至 8.36 USDT（Bitget 上最高为 12 USDT），并在之后 10 分钟内自最高点跌去 90% 回落至 1 USDT 附近，当前为 0.82 USDT。按当前价格计算，Blur 目前市值大概在 24 亿美元左右。对比之下，当前同类竞品 LooksRare Token 完全稀释后估值为 2.86 亿美元，X2Y2 估值为 1.45 亿美元。
- 
-值得注意的是，昨日据 The Block 报道，Blur 将以 10 亿美元估值融资。而 Blur 披露的唯一一轮融资于 2022 年 3 月份完成，当时完成 1100 万美元种子轮融资，Paradigm 领投，eGirl Capital、Keyboard Monkey、LedgerStatus、0xMaki、Santiago Santos、Zeneca、Deeze 等参投。
- 
-空投认领情况
- 
-Blur 今日分配的空投 Token 有 3.6 亿枚，占 Token 初始总供应量的 12%。根据 Dune 数据，截至撰稿时，已有近 5 万用户认领认领近 2.87 亿枚 BLUR 空投，占据空投分配总量的近 80%。
- 
-空投具体分配方面：
- 
-23 个地址各获得超 100 万枚 Token；33 …]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面解析以太坊网络「双重升级」对提币和ETH供应量的影响]]></title>
-        <id>https://www.theblockbeats.info/news/34681</id>
-        <link href="https://www.theblockbeats.info/news/34681"/>
-        <updated>2023-02-15T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[验证者不太可能在允许提币后大规模外流。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

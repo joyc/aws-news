@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34784",
+          "author": null,
+          "description": "零知识证明还可以应用于链下计算、跨链桥联、资产安全、用户验证等方面。",
+          "link": "https://www.theblockbeats.info/news/34784",
+          "publishedOn": "2023-02-17T14:00:01.000Z",
+          "wordCount": null,
+          "title": "扩展性之外，零知识证明的Web3用例还有很多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34785",
+          "author": null,
+          "description": "BUSD的退出会如何搅动BNBChain的稳定币生态？",
+          "link": "https://www.theblockbeats.info/news/34785",
+          "publishedOn": "2023-02-17T11:00:02.000Z",
+          "wordCount": null,
+          "title": "BUSD大旗倒下，BNBChain的稳定币生态将有何变局？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34794",
           "author": null,
           "description": "原文标题：《\n\n巨鲸收获 BLUR 之后转向 SUDO，交易量被抑制的 Sudoswap 能否再次迎来春天\n\n》\n原文作者：Animoca Brands 数字资产研究团队\n原文编译：PANews\n\n\n随着 NFT 市场 Blur 启动空投并在各大交易平台上线其原生代币 BLUR 之后，许多早期参与者获得了丰厚的回报，空投也产生了巨大的财富效应。毫不夸张地说，二月份有许多重要的流动性热点事件，现在社区似乎开始把目光投向了 NFT 自动化做市商 Sudoswap，关于其治理代币 SUDO 是否会成为「下一件大事」也引起了市场研究者的关注。\n\n\n1 月底 Sudoswap 发布治理代币 SUDO 并推出锁投和空投，早期 sudoAMM LP（仅限交易池）和 0xmons NFT 持有者（快照日期之前）有资格获得 SUDO 空投，而 XMON 持有者则可以通过锁投活动获得 SUDO 代币，之后从合约部署开始计算被锁定 1 个月，每锁定 1 个 XMON 可以获得 1 万枚 SUDO。\n\n\nXMON 是一个用于召唤神经网络生成像素怪物 NFT 的平台，由 Sudoswap 开发者 0xmons 构建，由于 SUDO 目前依然不能交易，同时 XMON 与 SUDO 之间存在「密切联系」，因此加密社区通常会使用 XMON 价格对 SUDO 进行估值。\n\n\n有趣的是，Sudoswap 团队将决定 SUDO 发布机制的全部决策权交给了链上治理论坛，包括 SUDO 代币是否可以在交易平台上架、以及流动性引导等，结果导致 XMON 价格暴跌。\n\n\n\n\n\n价格表现多少反映出社区的不满，尤其是在 Sudoswap 公布初始代币经济模式之后，从 2.3 万美元一路降至 1.8 万美元说明 XMON 交易者并不喜欢锁定资产的想法。再加上 SUDO 无法确定其「不可转让性」——即是否能在交易平台交易、以及多久才能在交易平台交易——也让许多人对其望而却步，尽管本文撰写时 XMON 已反弹至 2 万美元上方。\n\n\n\n\n\n事实上，Sudoswap 社区一直希望推动 SUDO 可交易。2 月 2 日，社区成员 @ Taikimaeda2\n\n\n曾发起提案试图解决这个问题，但最终因为没有达到 240 万法定参与投票量而流产；2 月 14 日，社区成员 farmertaiki.eth 再次发起推动 SUDO 可交易的提案，旨在解决初始流动性激励计划和详细的流动性挖矿问题，同时避免巨鲸退出流动性引发波动和抛压。（注：根据 2022 年 9 月 Sudoswap 公布的 SUDO 分发计划，初始供应量 6000 万枚，但高达 41.9% 的代币供应量将会分配给 XMON 持有者，当时也在社区引发了巨大的争议）相关阅读：3647 个地址瓜分近半数 Sudoswap 空投，将面临用户流失大考验\n\n\n简单分析来看，SUDO 初始流动性不太可能在 3 月初之前部署（也就是说 3 月前 SUDO 不太可能在交易平台上线），这也是现阶段不少交易者把目光投向 BLUR 的原因。不过下一波加密市场注意力很可能会转移到 SUDO 上，链上数据显示已经有人开始探索 SUDO 的潜力，比如下图中的巨鲸已将 162,379 枚 BLUR 全部兑换成了 XMON。\n\n\n\n\n\n另一方面，为了解决 SUDO 流动性问题，SugoiSwap 编写了一个流动性封装合约以绕过 Sudoswap 的限制，但从市场反应来看，人们对使用这个合约交易 SUDO 似乎兴趣不大，流动性和需求不足也导致 wSUDO 价格发现没有发挥作用。\n\n\n\n\n\n接下来，让我们再分析下基本面情况。\n\n\n如果使用 XMON 价格对 SUDO 进行估值，那么当前 SUDO 的市场价格应该在 1.9 美元左右，市值大约为 1.14 亿美元，与 LOOKS 大约 3 亿美元完全稀释估值（FDV）和 X2Y2 约 1.8 亿美元的完全稀释估值相比，SUDO 似乎还有较大发展空间——更不用说与 BLUR 相比了……\n\n\n\n\n\n由于 OpenSea 将一些不强制征收版税的 NFT 市场列入了黑名单，Sudoswap 的交易量一直受到抑制，但随着 Blur 等平台的崛起，也许这种情况将会很快得到改变。坦率地说，Sudoswap「nftAMM」设计理念的确是一种「0 到 1」的创新，在 NFT 金融化过程中也发挥了重要作用，或许社区已经意识到该项目前期存在的一系列问题（比如资产定价低效），因此正在酝酿一些「有趣的事情」。\n\n\n简单总结，Blur 空投之后，SUDO 值得市场更多关注。\n\n\n原文链接",
@@ -353,66 +373,6 @@
           "publishedOn": "2023-02-15T06:09:46.000Z",
           "wordCount": null,
           "title": "黑马Blur「狂飙」，NFT平台老大OpenSea要坐不住了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34686",
-          "author": null,
-          "description": "STEPN 官方推出的 NFT Launchpad，能否复制其成功破圈经验帮助用户发现更多早期优质的 Web3 项目？",
-          "link": "https://www.theblockbeats.info/news/34686",
-          "publishedOn": "2023-02-15T06:00:01.000Z",
-          "wordCount": null,
-          "title": "MOOAR Launchpad第2期来袭，能从这发现下一个STEPN吗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34694",
-          "author": null,
-          "description": "用一种新的音乐格式，在流媒体时代重现黑胶唱片的辉煌。",
-          "link": "https://www.theblockbeats.info/news/34694",
-          "publishedOn": "2023-02-15T04:26:45.000Z",
-          "wordCount": null,
-          "title": "VAULT Protocol如何使用DMC制作Web3的黑胶唱片？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34687",
-          "author": null,
-          "description": "「应该卖掉、还是应该Hold甚至买更多？」",
-          "link": "https://www.theblockbeats.info/news/34687",
-          "publishedOn": "2023-02-15T03:49:25.000Z",
-          "wordCount": null,
-          "title": "空投结束，如何为Blur估值？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34685",
-          "author": null,
-          "description": "在OpenSea上交易比特币NFT，舒服了",
-          "link": "https://www.theblockbeats.info/news/34685",
-          "publishedOn": "2023-02-15T03:21:24.000Z",
-          "wordCount": null,
-          "title": "教程｜如何通过Emblem Vault让比特币NFT在以太坊上流通？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34684",
-          "author": null,
-          "description": "原文标题：《\n\n速览 Blur 代币经济模型和空投分发认领情况\n\n》\n原文作者：Karen，Foresight News\n \nBlur 空投福利一直是市场关注的焦点。今日凌晨，Blur Token 正式上线，并对过去 3 个月的交易用户、盲盒持有者和创作者都发放 3.6 亿枚空投，去年 5 月份候补名单加入用户以及封闭测试用户还会得到额外空投。Blur 表示这只是第一季，当前 Blur 已开启第二季，不过具体奖励细则暂未公布，在接下来的 30 天内，所有出价和上架积分翻倍。\n \nOKX 上 BLUR 上线第 2 分钟价格最高涨至 8.36 USDT（Bitget 上最高为 12 USDT），并在之后 10 分钟内自最高点跌去 90% 回落至 1 USDT 附近，当前为 0.82 USDT。按当前价格计算，Blur 目前市值大概在 24 亿美元左右。对比之下，当前同类竞品 LooksRare Token 完全稀释后估值为 2.86 亿美元，X2Y2 估值为 1.45 亿美元。\n \n值得注意的是，昨日据 The Block 报道，Blur 将以 10 亿美元估值融资。而 Blur 披露的唯一一轮融资于 2022 年 3 月份完成，当时完成 1100 万美元种子轮融资，Paradigm 领投，eGirl Capital、Keyboard Monkey、LedgerStatus、0xMaki、Santiago Santos、Zeneca、Deeze 等参投。\n \n空投认领情况\n \nBlur 今日分配的空投 Token 有 3.6 亿枚，占 Token 初始总供应量的 12%。根据 Dune 数据，截至撰稿时，已有近 5 万用户认领认领近 2.87 亿枚 BLUR 空投，占据空投分配总量的近 80%。\n \n空投具体分配方面：\n \n23 个地址各获得超 100 万枚 Token；33 …",
-          "link": "https://www.theblockbeats.info/news/34684",
-          "publishedOn": "2023-02-15T03:00:44.000Z",
-          "wordCount": null,
-          "title": "速览Blur Token经济模型和空投分发认领情况",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34681",
-          "author": null,
-          "description": "验证者不太可能在允许提币后大规模外流。",
-          "link": "https://www.theblockbeats.info/news/34681",
-          "publishedOn": "2023-02-15T01:30:01.000Z",
-          "wordCount": null,
-          "title": "全面解析以太坊网络「双重升级」对提币和ETH供应量的影响",
           "imageUrl": null
         }
       ]
