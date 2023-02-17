@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-17T00:42:15.091Z</updated>
+    <updated>2023-02-17T06:10:45.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VRRB提出的Proof of Claim共识机制有什么不同？]]></title>
+        <id>https://www.theblockbeats.info/news/34783</id>
+        <link href="https://www.theblockbeats.info/news/34783"/>
+        <updated>2023-02-17T04:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Jump Crypto投资的新公链希望彻底改变Web3的开发运营流程。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8家顶级VC钱包地址追踪：Jump、A16z、Wintermute等都持有哪些Token？]]></title>
+        <id>https://www.theblockbeats.info/news/34775</id>
+        <link href="https://www.theblockbeats.info/news/34775"/>
+        <updated>2023-02-17T03:09:24.000Z</updated>
+        <summary type="html"><![CDATA[了解8家加密风险投资公司的持仓分布。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost Boy：8岁的Cool Cats好朋友即将在以太坊上「永生」]]></title>
+        <id>https://www.theblockbeats.info/news/34774</id>
+        <link href="https://www.theblockbeats.info/news/34774"/>
+        <updated>2023-02-17T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Cool Cats Co-Founder将脆弱与真实注入NFT里，带到区块链上]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollup定制化时代开启？可扩展性解决方案RaaS生态全解读]]></title>
+        <id>https://www.theblockbeats.info/news/34768</id>
+        <link href="https://www.theblockbeats.info/news/34768"/>
+        <updated>2023-02-17T01:30:02.000Z</updated>
+        <summary type="html"><![CDATA[通过提高安全性，降低成本，并提供更多控制，Rollups有可能改变区块链应用的开发和使用方式。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入Deso：混合Pow共识、社交图谱、DID和无限状态应用版图]]></title>
         <id>https://www.theblockbeats.info/news/34758</id>
@@ -1015,16 +1055,6 @@ Blur 今日分配的空投 Token 有 3.6 亿枚，占 Token 初始总供应量�
         <link href="https://www.theblockbeats.info/news/34681"/>
         <updated>2023-02-15T01:30:01.000Z</updated>
         <summary type="html"><![CDATA[验证者不太可能在允许提币后大规模外流。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点这9个融资金额过亿的元宇宙/NFT团队，或将成为领域未来支柱]]></title>
-        <id>https://www.theblockbeats.info/news/34665</id>
-        <link href="https://www.theblockbeats.info/news/34665"/>
-        <updated>2023-02-14T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[回顾2022年融资规模上亿的NFT和元宇宙项目，这些手持重金的项目无疑会有更长的生命周期，给市场带来新的创造力。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
