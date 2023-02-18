@@ -2,10 +2,194 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-18T00:39:15.098Z</updated>
+    <updated>2023-02-18T06:09:03.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ABCDE：为什么我们要投资ZK硬件加速项目Cysic？]]></title>
+        <id>https://www.theblockbeats.info/news/34797</id>
+        <link href="https://www.theblockbeats.info/news/34797"/>
+        <updated>2023-02-18T04:21:22.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：ABCDE Capital
+
+
+Cysic 是行业领先的 ZK 硬件加速项目，致力于设计先进的 ASIC 芯片来帮助减少 ZK 证明生成时间。Cysic 组建了一流的硬件设计研发团队，目前已经完成了基于 FPGA 的 POC 设计工作。根据 POC 结果可以证明 Cysic 的 ZK 硬件加速能力已经处于行业领先的位置。
+
+
+ABCDE 于 Seed 轮投资了 Cysic，同时本轮的投资机构还有 Polychain、A&T、Hashkey，以及 Web3.com Venture。
+
+
+1. 为什么我们需要 ZK 硬件加速
+
+
+ZK 证明的生成 (ZK Proof Generation) 是在 ZK 项目中最核心步骤之一。不幸的是，在现有的 ZK 证明系统下，生成 ZK 证明通常需要大量的计算。随着项目的复杂度的升高，ZK 电路规模的增大，ZK 证明生成需要的计算量会指数级上升。例如，对于 Scroll, zkSync 等大型 zkEVM/zkVM 项目，如果其完全通过 CPU 来生成 ZK 证明，可能会需要数小时，甚至数天的计算。在实际业务中，大多数项目需要将 ZK 证明的生成限制在数秒和数分钟内。数小时或者更久的计算时间对于大部分 ZK 项目，尤其是对于 zkEVM/zkVM 等扩容类项目来说是完全不可接受的。
+
+
+此外，ZK 证明的生成的计算复杂度在未来 ZK 项目正式上线前的 2 年左右的时间窗口内，难有从理论层面降低的可能性。因此，为了保证项目的可用性，在项目正式上线前，ZK 项目方必须采用「加速 ZK 证明生成」的技术方案，将 ZK 证明生成加速到秒级或者分钟级。而通过高性能硬件加速 ZK 证明生成的方式是目前的首选。
+
+
+硬件加速了什么?
+
+
+在 ZK 证明生成的过程中，主要耗时的计算可以分为两种类型，
+
+
+1. 基于多项式的 NTT (Number …]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superpower Squad：更具游戏性的web3第三人称射击手游]]></title>
+        <id>https://www.theblockbeats.info/news/34796</id>
+        <link href="https://www.theblockbeats.info/news/34796"/>
+        <updated>2023-02-18T03:42:58.000Z</updated>
+        <summary type="html"><![CDATA[近几年，web3 游戏得到了飞速的发展，特别是 GameFi 概念出现后，无论是创业者、资本，还是加密用户或原生游戏玩家都在向这一领域蜂拥而至。Dappradar《2022 年 Dapp 行业报告》显示，去年 web3 游戏领域每天的独立活跃钱包数 (UAW) 就增加了约 115 万个，已占到所有 Dapps 日常区块链活动的 49%，交易笔数更是增长了 94.17%。
+
+
+
+
+但另一方面，由于众多游戏更关注「Fi」的金融属性方面，通过较高的 ROI 来吸引玩家进场，却忽略了游戏经济生态的平衡，最终导致游戏的不可持续性而崩盘。因而市场还是需要更多回归游戏本身，增加更多可玩性或竞技性的 web3 游戏项目。
+
+
+
+
+近期，一款受到 KuCoin Labs 力推，已开发了两年多并在推出一个月左右，在苹果和谷歌应用商店的下载就超过了 10 万次的 web3 MOBA 游戏 Superpower Squad，受到了广泛玩家们的喜爱。并且去年 12 月，Superpower Squad 还入选了 BNB Chain 当月的月度之星，这让它在币安生态也收获了不少关注。
+
+
+
+
+而在游戏类型方面，根据 a16z 最近的一项调查则表明：相比传统游戏玩家，web3 游戏玩家似乎更喜欢 MOBA 游戏，这种可能性增加了 2 倍。这或许正是 MOBA 类型游戏的快节奏属性与 web3 行业的高速发展遥相呼应，也将为 Superpower Squad 吸引到更多 web3 游戏玩家提供了保障。
+
+
+
+
+
+
+
+
+
+项目介绍
+
+
+
+
+Superpower Squad 团队旨在通过高质量的游戏玩法和独特的内部内容挑战传统的移动游戏市场，他们鼓励从区块链技术中受益的同时更多地提升游戏的可玩性、竞技性，从而建立一个「完整的 GameFi 区块链生态系统」。因此他们以社区驱动的原则设计了这款游戏，让每个玩家都…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum 能否以一己之力再次带动「菠菜App热」]]></title>
+        <id>https://www.theblockbeats.info/news/34795</id>
+        <link href="https://www.theblockbeats.info/news/34795"/>
+        <updated>2023-02-18T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[撰文：Leo，BlockBeats
+
+
+去中心化菠菜始于 2018 年夏，当时 FOMO3D Dapp 横空出世，巨额吸金，而在这之后，以 EOS 为主的去中心化菠菜迎来大爆发，短期内指数般增长，当时的 Dapp 日活用户排名前 10 都被菠菜 app 占据。而在 2019 年菠菜渐渐淡出了 crypto 的世界，大部分用户进入菠菜是为了体验+赚钱，然而当时被冠以「去中心化的」菠菜项目好像与传统的菠菜项目并无区别，用户「赌徒式」的亏钱背后的灰色操纵和项目的「Rug pull」。在熊市至深的大环境下，去中心化菠菜在 2019 年「终是销声匿迹」。
+
+
+
+
+而在 2022 年底，多个菠菜协议完成了融资。比如，去中心化体育菠菜平台 Frontrunner 完成 475 万美元融资，Susquehanna 领投；Web3 体育博彩平台 HotStreak 完成 900 万美元 A 轮融资，Polychain Capital 领投；去中心化博彩初创公司 BetDex 完成 2100 万美元种子轮融资，Paradigm 和 FTX 领投。同样是熊市，这些项目融资后也没了声音。
+
+
+
+
+近期，LSD、去中心化存储、ZK 等概念板块都迎来了一波小暴涨；L 2 的 Arbitrum、Zksync 等链的频繁活动；Blur 的空投等的催化下，市场情绪转好，去中心化菠菜项目似乎也开始借势「卷土重来」。BlockBeats 整理了近期比较火热的菠菜协议，其中大多项目都是基于 Arbitrum 网络上，以下为菠菜协议介绍：
+
+
+
+
+Risky.lol
+
+
+
+
+Risky.lol 简介
+
+
+Risky.lol 是 Arbitrum 上的去中心化菠菜协议，是领先的无信任的 casino 平台，致力于在 Web 3 创建新的去中心化stake 和游戏标准，未来目标是扩展到所有链上。
+
+
+
+
+Risky.l…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又重拳加密巨头？细数美国SEC与加密的恩怨纠葛]]></title>
+        <id>https://www.theblockbeats.info/news/34791</id>
+        <link href="https://www.theblockbeats.info/news/34791"/>
+        <updated>2023-02-18T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+又重拳加密巨头？细数美国 SEC 与加密的恩怨纠葛
+
+
+》
+原文作者： 白话区块链
+
+
+
+
+在 Binance 与 Paxos 合作发行的稳定币 BUSD 遭到美国监管大力打击的一周之后，CEO 赵长鹏（CZ）昨天宣布将放弃 BUSD 作为主要稳定币。另外为了平息监管施压，Binance 传出要缴纳罚款来与当局「做个了结」，达成和解、合作。
+
+
+
+
+这次美国监管将手伸向了全球最大的加密平台。在此之前，SEC 也是动作频频：
+
+
+
+
+2 月 9 日，加密货币市场短时下跌，据称是因为此前 Kraken 将支付 3000 万美元与美国证券交易委员会（SEC）和解，后者指控其加密资产质押产品违反美国证券法规。
+
+
+
+
+2 月 11 日，Coinbase 创始人 Brian Armstrong 发推表示：SEC 据传希望在美国封禁散户的加密货币质押。他非常不希望看到此场景出现。
+
+
+
+
+不仅如此，伴随加密世界的发展壮大，SEC 也如影随形，「SEC 在对未经适当授权提供数字货币销售的公司的诉讼中拥有稳固、近乎完美的记录，而且没有很多法律先例来赢得这场战斗」，这根监管大棒曾让不少加密项目方吃尽苦头。
+
+
+01「监管」区块链
+
+
+
+
+对和监管打交道而言，Tether 无疑是经验丰富且「战绩尚佳」的「老前辈」了。
+
+
+
+
+作为「加密世界最大的一只灰犀牛之一」，2017 年 Tether 就收到了美国商品期货交易委员会（CFTC）的传票，但其并没有停止发行新的 USDT 。
+
+
+
+
+后续纽约总检察长办公室（NYAG）拿出实际的调查结果，称 Bitfinex 利用 Tether 为自己提供贷款，以掩盖其 8.5 亿美元的财务漏洞，但 USDT 依旧是「增发、增发、增发」。
+
+
+
+
+
+
+
+
+
+即便遭遇了 2018 年 10 月 15 日，那次「空仓也被割」的信任危机，USDT 也…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扩展性之外，零知识证明的Web3用例还有很多]]></title>
         <id>https://www.theblockbeats.info/news/34784</id>
@@ -973,102 +1157,6 @@ Push Protocol 是一款 Web3 的去中心化通信协议，它使任何智能合
         <link href="https://www.theblockbeats.info/news/34716"/>
         <updated>2023-02-16T02:12:20.000Z</updated>
         <summary type="html"><![CDATA[SEC正在打击中心化稳定币，所以是时候寻找去中心化的替代方案了。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABCDE：为什么我们要领投NFT永续合约交易平台NFEx？]]></title>
-        <id>https://www.theblockbeats.info/news/34717</id>
-        <link href="https://www.theblockbeats.info/news/34717"/>
-        <updated>2023-02-15T15:13:21.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：ABCDE Capital
-
-
-
-
-
-NFEx 是一个 NFT 永续合约交易和清算平台。通过为 NFT 市场提供衍生品交易工具，NFEx 将为 NFT 行业提供对冲、清算和风控能力，并致力于成为最大的 NFT 流动性平台。
-
-
-ABCDE 于 Seed 轮领投了 NFEx，Amber Group 和 Firestone Ventures 跟投。
-
-
-1. 今天 NFT 面临着的巨大问题  
-
-
-1.1. 流动性不足
-
-
-以太坊上的 NFT 数量已经突破 1 亿枚，但是 99.99% 的 NFT 缺乏流动性。
-
-
-甚至像行业中的 NFT 借贷项目也缺乏流动性提供商和清算商，绝大部分的 NFT 陷入流动性枯竭的窘境。
-
-
-1.2. 交易损耗太大
-
-
-NFT 市场动辄 5–10% 的版税费用以及高达 2.5% 的手续费使得本来流动性就不好的市场更加雪上加霜。NFEx 通过合约衍生品的设计，使得 NFT 玩家可以规避手续费来降低自己的交易损耗。
-
-
-1.3．无法做空
-
-
-目前 NFT 仍然是一个单边做多的交易市场，缺乏做空和套保等金融工具为自身提供保障。NFEx 为 NFT 市场提供双向流动性，无论是套保、看空、杠杆看多都可以有更多灵活选择。
-
-
-1.4. 入门门槛太高
-
-
-成熟的 NFT 项目比如 BAYC 或者 PUNK 中最便宜的地板都已经达到了 60 ETH 的天价，这对于新用户以及资金不足的用户非常不友好。NFEx 通过杠杆可以用 0.1ETH 的资金量看多看空，使更多人可以参与到大蓝筹的交易市场中。
-
-
-所以今天的 NFT 市场虽然潜力巨大，但仍然急需一个提供更多衍生工具选择、为市场带来更强流动性的平台。NFEx 就是其中一个强劲的选手，团队联合创始人来自行业顶尖的交易平台及流动性做市商，不仅熟悉 NFT 市场，且有专业的交易和风控经验，具备打造行业领先的 NFT 衍生品平台的综合能力。
-
-
-2. 成为最强的 NFT 流动性平台  
-
-
-NFEx 的愿景是为 NFT 行业建立最强的流动性平台，不仅仅服务个人用户，还服务机构，为行业带来巨大的 NFT 流动性突破。
-
-
-在机构方面，NFEx 团队具备多年的做市商经验，拥有为行业机构用户解决流动性的基础。NFEx 将从主流 NFT 资产开始切入，为 NFT 借贷平台、NFT marketplace 等提供清算和对冲服务。未来所有的 NFTFi 项目的清算都可以在 NFEx 上完成。
-
-
-面向个人投资者，NFEx 会是最全、流动性最好的 NFT 合约平台，让用户可以以更低的门槛、更便宜的交易费率、更强的资金利用率来参与在 NFT 交易市场，为行业提供更多金融工具和交易品种。
-
-
-通过拓展 NFT 金融衍生工具，降低使用门槛，NFEx 将吸引更多的 NFT 爱好者及新用户入场，为行业创造更多的流动性，成为 NFT 行业基础建设的基石。
-
-
-关于 ABCDE
-
-
-ABCDE 是专注于领投顶级 Crypto Builder 的 VC，由耕耘了 Crypto 行业 10 年以上的企业家、上市公司 CEO 和顶级的研究员联合创办。ABCDE 的联合创始人们从 0 开始在 Crypto 行业建立了数十亿美元市值的公司。因为我们是创业者，所以我们更懂得创业者。而且我们已经为 ABCDE 的 Builder 构建了上市公司（1611.HK）、交易平台（Huobi）、SAAS 公司（ChainUP）、媒体（CoinTime.com）、开发者平台 (BeWater.xyz) 等端到端的生态，如果你是有改变世界梦想的 Builder，来加入我们共同建设下一代加密网络世界。
-
-
-原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析比特币NFT的技术原理和生态影响]]></title>
-        <id>https://www.theblockbeats.info/news/34697</id>
-        <link href="https://www.theblockbeats.info/news/34697"/>
-        <updated>2023-02-15T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[比特币网络所做的最重要的事情是去中心化资金，所有其他用例都是次要的，包括序数理论。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wombat Exchange：BSC上的稳定币DEX]]></title>
-        <id>https://www.theblockbeats.info/news/34713</id>
-        <link href="https://www.theblockbeats.info/news/34713"/>
-        <updated>2023-02-15T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Wombat致力于低滑点的稳定币/合成资产交易，相当于BSC上的Curve，具备和Curve类似的经济模型/治理模型/收益模型设计。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
