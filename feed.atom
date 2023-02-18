@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-18T06:09:03.173Z</updated>
+    <updated>2023-02-18T12:12:31.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NBA巨星喊单被SEC罚款，还有哪些喊单被罚的名人？]]></title>
+        <id>https://www.theblockbeats.info/news/34799</id>
+        <link href="https://www.theblockbeats.info/news/34799"/>
+        <updated>2023-02-18T10:15:48.000Z</updated>
+        <summary type="html"><![CDATA[让硬抗11刀的硬汉服软，SEC对名人喊单说No。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在交易中引入概率思维？]]></title>
+        <id>https://www.theblockbeats.info/news/34798</id>
+        <link href="https://www.theblockbeats.info/news/34798"/>
+        <updated>2023-02-18T07:01:14.000Z</updated>
+        <summary type="html"><![CDATA[运用概率思维，让交易成功的概率变高。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撒钱盛宴后，Blur精心挑起新一轮版税大战]]></title>
+        <id>https://www.theblockbeats.info/news/34790</id>
+        <link href="https://www.theblockbeats.info/news/34790"/>
+        <updated>2023-02-18T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Opensea当初对待Blur的方案，现在又以同样的方式还给对方。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ABCDE：为什么我们要投资ZK硬件加速项目Cysic？]]></title>
         <id>https://www.theblockbeats.info/news/34797</id>
