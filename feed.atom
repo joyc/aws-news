@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-17T18:09:26.702Z</updated>
+    <updated>2023-02-18T00:39:15.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1069,66 +1069,6 @@ ABCDE 是专注于领投顶级 Crypto Builder 的 VC，由耕耘了 Crypto 行�
         <link href="https://www.theblockbeats.info/news/34713"/>
         <updated>2023-02-15T13:00:02.000Z</updated>
         <summary type="html"><![CDATA[Wombat致力于低滑点的稳定币/合成资产交易，相当于BSC上的Curve，具备和Curve类似的经济模型/治理模型/收益模型设计。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首战告捷，Blur第二轮空投还有什么新故事？]]></title>
-        <id>https://www.theblockbeats.info/news/34714</id>
-        <link href="https://www.theblockbeats.info/news/34714"/>
-        <updated>2023-02-15T10:03:41.000Z</updated>
-        <summary type="html"><![CDATA[久违的空投盛宴。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUSD被Ban，Euler Finace提供多种交易选择]]></title>
-        <id>https://www.theblockbeats.info/news/34711</id>
-        <link href="https://www.theblockbeats.info/news/34711"/>
-        <updated>2023-02-15T08:34:03.000Z</updated>
-        <summary type="html"><![CDATA[由于Euler无许可的借贷基础设施，其可组合性和交互性很强，该协议允许几乎任何资产的借贷，这是其他DeFi协议无法实现的。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharpe Magnum：能让LSD上杠杆的新协议]]></title>
-        <id>https://www.theblockbeats.info/news/34709</id>
-        <link href="https://www.theblockbeats.info/news/34709"/>
-        <updated>2023-02-15T07:33:11.000Z</updated>
-        <summary type="html"><![CDATA[「给用户质押资产提供更高的APY」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOVE系「老三」：新公链Linera全面解读]]></title>
-        <id>https://www.theblockbeats.info/news/34708</id>
-        <link href="https://www.theblockbeats.info/news/34708"/>
-        <updated>2023-02-15T07:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Linera目标是提供安全、高扩展性、低延迟区块链，以给予Web3应用更快的响应速度，缩小中心化和去中心化应用之间的差距]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据分析：USDC、BUSD及USDT不同链上资产分布情况]]></title>
-        <id>https://www.theblockbeats.info/news/34696</id>
-        <link href="https://www.theblockbeats.info/news/34696"/>
-        <updated>2023-02-15T06:29:01.000Z</updated>
-        <summary type="html"><![CDATA[三大稳定币占到了整个稳定币市场的90%以上，他们的全链布数据到底如何？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑马Blur「狂飙」，NFT平台老大OpenSea要坐不住了？]]></title>
-        <id>https://www.theblockbeats.info/news/34695</id>
-        <link href="https://www.theblockbeats.info/news/34695"/>
-        <updated>2023-02-15T06:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Blur与Opensea之争，Blur有无胜算？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
