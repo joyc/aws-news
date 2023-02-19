@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34827",
+          "author": null,
+          "description": "重温本周热点：看看历史上被SEC罚过的知名项目们；Jump、A16z、Wintermute等都持有哪些Token？Blur空投会是NFT市场的「牛熊分水岭」吗？",
+          "link": "https://www.theblockbeats.info/news/34827",
+          "publishedOn": "2023-02-19T11:14:04.000Z",
+          "wordCount": null,
+          "title": "周末荐读：美国监管收紧，BUSD风波未散；NFT与Layer2市场齐发力",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34808",
           "author": null,
           "description": "时代抛弃你的时候，连句「再见」都不会说。这大概是OpenSea现在最害怕发生的事。",
@@ -163,56 +173,6 @@
           "publishedOn": "2023-02-17T06:32:26.000Z",
           "wordCount": null,
           "title": "比特币「新文化运动」：NFT正增加网络用例、为矿工创收",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34782",
-          "author": null,
-          "description": "RIP ETH BATC #1626，欢迎来到比特币的NFT世界",
-          "link": "https://www.theblockbeats.info/news/34782",
-          "publishedOn": "2023-02-17T05:00:01.000Z",
-          "wordCount": null,
-          "title": "BAYC #1626居然被「燃烧」了?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34783",
-          "author": null,
-          "description": "Jump Crypto投资的新公链希望彻底改变Web3的开发运营流程。",
-          "link": "https://www.theblockbeats.info/news/34783",
-          "publishedOn": "2023-02-17T04:14:52.000Z",
-          "wordCount": null,
-          "title": "VRRB提出的Proof of Claim共识机制有什么不同？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34775",
-          "author": null,
-          "description": "了解8家加密风险投资公司的持仓分布。",
-          "link": "https://www.theblockbeats.info/news/34775",
-          "publishedOn": "2023-02-17T03:09:24.000Z",
-          "wordCount": null,
-          "title": "8家顶级VC钱包地址追踪：Jump、A16z、Wintermute等都持有哪些Token？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34774",
-          "author": null,
-          "description": "Cool Cats Co-Founder将脆弱与真实注入NFT里，带到区块链上",
-          "link": "https://www.theblockbeats.info/news/34774",
-          "publishedOn": "2023-02-17T03:00:01.000Z",
-          "wordCount": null,
-          "title": "Ghost Boy：8岁的Cool Cats好朋友即将在以太坊上「永生」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34768",
-          "author": null,
-          "description": "通过提高安全性，降低成本，并提供更多控制，Rollups有可能改变区块链应用的开发和使用方式。",
-          "link": "https://www.theblockbeats.info/news/34768",
-          "publishedOn": "2023-02-17T01:30:02.000Z",
-          "wordCount": null,
-          "title": "Rollup定制化时代开启？可扩展性解决方案RaaS生态全解读",
           "imageUrl": null
         }
       ]
