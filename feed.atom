@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-19T00:40:10.159Z</updated>
+    <updated>2023-02-19T06:08:56.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -409,16 +409,6 @@ XMON 是一个用于召唤神经网络生成像素怪物 NFT 的平台，由 Sud
         <link href="https://www.theblockbeats.info/news/34768"/>
         <updated>2023-02-17T01:30:02.000Z</updated>
         <summary type="html"><![CDATA[通过提高安全性，降低成本，并提供更多控制，Rollups有可能改变区块链应用的开发和使用方式。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入Deso：混合Pow共识、社交图谱、DID和无限状态应用版图]]></title>
-        <id>https://www.theblockbeats.info/news/34758</id>
-        <link href="https://www.theblockbeats.info/news/34758"/>
-        <updated>2023-02-16T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[社交媒体已经改变了我们的沟通方式，但不是每个人都认为这些变化总是积极的。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
