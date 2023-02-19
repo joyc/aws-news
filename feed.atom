@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-19T06:08:56.303Z</updated>
+    <updated>2023-02-19T12:13:29.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT市场山雨欲来：SUDO开启转账；OpenSea迎战Blur版税之争]]></title>
+        <id>https://www.theblockbeats.info/news/34808</id>
+        <link href="https://www.theblockbeats.info/news/34808"/>
+        <updated>2023-02-19T04:21:37.000Z</updated>
+        <summary type="html"><![CDATA[时代抛弃你的时候，连句「再见」都不会说。这大概是OpenSea现在最害怕发生的事。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NBA巨星喊单被SEC罚款，还有哪些喊单被罚的名人？]]></title>
         <id>https://www.theblockbeats.info/news/34799</id>
