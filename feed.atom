@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-20T00:41:47.698Z</updated>
+    <updated>2023-02-20T06:10:57.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一天翻倍，Stacks创始人解读STX的比特币Layer2概念]]></title>
+        <id>https://www.theblockbeats.info/news/34831</id>
+        <link href="https://www.theblockbeats.info/news/34831"/>
+        <updated>2023-02-20T03:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Stacks能为比特币带来什么]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIL一路「高歌猛进」，其背后的Token经济有何隐藏信息？]]></title>
+        <id>https://www.theblockbeats.info/news/34830</id>
+        <link href="https://www.theblockbeats.info/news/34830"/>
+        <updated>2023-02-20T03:28:12.000Z</updated>
+        <summary type="html"><![CDATA[重点关注Filecoin今年上半年动态。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum生态迎来春天，分享值得关注的8个新兴DeFi项目]]></title>
+        <id>https://www.theblockbeats.info/news/34828</id>
+        <link href="https://www.theblockbeats.info/news/34828"/>
+        <updated>2023-02-20T02:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Layer2生态爆发，Arbitrum上还有哪些新兴项目值得关注呢？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：美国监管收紧，BUSD风波未散；NFT与Layer2市场齐发力]]></title>
         <id>https://www.theblockbeats.info/news/34827</id>
@@ -236,16 +266,6 @@ Risky.l…]]></summary>
 
 
 即便遭遇了 2018 年 10 月 15 日，那次「空仓也被割」的信任危机，USDT 也…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扩展性之外，零知识证明的Web3用例还有很多]]></title>
-        <id>https://www.theblockbeats.info/news/34784</id>
-        <link href="https://www.theblockbeats.info/news/34784"/>
-        <updated>2023-02-17T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[零知识证明还可以应用于链下计算、跨链桥联、资产安全、用户验证等方面。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
