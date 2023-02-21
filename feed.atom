@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-21T06:10:33.936Z</updated>
+    <updated>2023-02-21T12:13:51.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[交互量超越Uniswap，确认空投的Vela Exchange怎么交互？]]></title>
+        <id>https://www.theblockbeats.info/news/34909</id>
+        <link href="https://www.theblockbeats.info/news/34909"/>
+        <updated>2023-02-21T11:31:50.000Z</updated>
+        <summary type="html"><![CDATA[根据Dune Analytics数据，Vela的合约交互活跃度直线上升，远超Uniswap，交易量也是迅速增长，过去 24 小时成交额高达 3.41 亿美元。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文了解5个值得关注的早期项目]]></title>
+        <id>https://www.theblockbeats.info/news/34899</id>
+        <link href="https://www.theblockbeats.info/news/34899"/>
+        <updated>2023-02-21T09:51:42.000Z</updated>
+        <summary type="html"><![CDATA[「做提前研究、准备充分的加密人」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手握8222枚ETH公募款的Arbitrove，接下来打算做些什么？]]></title>
+        <id>https://www.theblockbeats.info/news/34897</id>
+        <link href="https://www.theblockbeats.info/news/34897"/>
+        <updated>2023-02-21T09:50:51.000Z</updated>
+        <summary type="html"><![CDATA[2 亿枚TROVE将以约 0.07美元的价格于今晚22: 00正式开盘。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程｜如何参与Sei Network的质押测试游戏？]]></title>
+        <id>https://www.theblockbeats.info/news/34896</id>
+        <link href="https://www.theblockbeats.info/news/34896"/>
+        <updated>2023-02-21T09:33:18.000Z</updated>
+        <summary type="html"><![CDATA[前100名玩家将获得测试网奖励。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港证监会咨询文件解读：什么类型的虚拟资产可被纳入交易？]]></title>
+        <id>https://www.theblockbeats.info/news/34870</id>
+        <link href="https://www.theblockbeats.info/news/34870"/>
+        <updated>2023-02-21T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[交易平台上线Token需符合相关准则，散户可交易大市值虚拟资产。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话OP Crypto创始人：躲过连环暴雷的亚洲市场，持充盈资金迎接一级投资红利期]]></title>
+        <id>https://www.theblockbeats.info/news/34875</id>
+        <link href="https://www.theblockbeats.info/news/34875"/>
+        <updated>2023-02-21T06:31:27.000Z</updated>
+        <summary type="html"><![CDATA[OP Crypto目前投资了Scroll、Merit Circle、Connext、reNFT 、Spectral Finance等 20 多个项目。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTfi Summer将至？这有几个值得关注的项目]]></title>
+        <id>https://www.theblockbeats.info/news/34874</id>
+        <link href="https://www.theblockbeats.info/news/34874"/>
+        <updated>2023-02-21T06:21:58.000Z</updated>
+        <summary type="html"><![CDATA[「NFTfi或迎来Summer」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年第9周融资精选，SocialFi持续增长、a16z动作频频]]></title>
         <id>https://www.theblockbeats.info/news/34873</id>
