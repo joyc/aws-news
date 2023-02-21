@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-20T18:09:46.115Z</updated>
+    <updated>2023-02-21T00:41:23.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -285,26 +285,6 @@ L1 至 L2 间的智能合约消息传递。允许开发人员将数据从 Ethere
         <link href="https://www.theblockbeats.info/news/34808"/>
         <updated>2023-02-19T04:21:37.000Z</updated>
         <summary type="html"><![CDATA[时代抛弃你的时候，连句「再见」都不会说。这大概是OpenSea现在最害怕发生的事。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA巨星喊单被SEC罚款，还有哪些喊单被罚的名人？]]></title>
-        <id>https://www.theblockbeats.info/news/34799</id>
-        <link href="https://www.theblockbeats.info/news/34799"/>
-        <updated>2023-02-18T10:15:48.000Z</updated>
-        <summary type="html"><![CDATA[让硬抗11刀的硬汉服软，SEC对名人喊单说No。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在交易中引入概率思维？]]></title>
-        <id>https://www.theblockbeats.info/news/34798</id>
-        <link href="https://www.theblockbeats.info/news/34798"/>
-        <updated>2023-02-18T07:01:14.000Z</updated>
-        <summary type="html"><![CDATA[运用概率思维，让交易成功的概率变高。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
