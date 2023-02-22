@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-21T18:09:34.635Z</updated>
+    <updated>2023-02-22T00:36:32.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -405,16 +405,6 @@ L1 至 L2 间的智能合约消息传递。允许开发人员将数据从 Ethere
         <link href="https://www.theblockbeats.info/news/34828"/>
         <updated>2023-02-20T02:57:01.000Z</updated>
         <summary type="html"><![CDATA[Layer2生态爆发，Arbitrum上还有哪些新兴项目值得关注呢？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：美国监管收紧，BUSD风波未散；NFT与Layer2市场齐发力]]></title>
-        <id>https://www.theblockbeats.info/news/34827</id>
-        <link href="https://www.theblockbeats.info/news/34827"/>
-        <updated>2023-02-19T11:14:04.000Z</updated>
-        <summary type="html"><![CDATA[重温本周热点：看看历史上被SEC罚过的知名项目们；Jump、A16z、Wintermute等都持有哪些Token？Blur空投会是NFT市场的「牛熊分水岭」吗？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
