@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34918",
+          "author": null,
+          "description": "原文标题：《\n\nBlur 匿名创始人公开身份，「铁顺」究竟是谁？\n\n》\n原文作者：\n\nAzuma，Odaily星球日报\n\n\n2 月 22 日上午，大热 NFT 交易市场 Blur 的匿名创始人 Pacman 于推特正式公开了自己的身份。\n\n\nPacman 介绍称，自己曾高中辍学，在 17 岁加入了知名创业孵化器 Y Combinator，随后又在麻省理工学院攻读数学与计算机科学，曾得到过亿万富翁 Peter Thiel 创建的 Thiel 奖学金，而后又创建了一家名为 Namebase 的公司并将其出售给了 Namecheap。\n\n\n\n\n\nPacman 表示，自己在 401 天创建 Blur 时，曾考虑过到底是该用真实身份还是匿名，并就这个问题与 Polychain Capital 的 AnishAgnihotri 进行过讨论，最后 Anish 用「先匿名可以再公开，但反过来却不行」说服了他，最终决定使用匿名。\n\n\nPacman 补充提到，自己很享受匿名开发的过程，但为了更好地建立信任关系，他在私人电话中并不会避讳用真实身份与他人沟通，这一点 NFT 大户 Franklin 可以证明。\n\n\n不过，虽然 Pacman 公布了个人履历，但并未直接披露个人的真实姓名。就此，Pacman 解释称「Pacman」这一名字是身份的代名词，这个名字要比其真实姓名更容易发音（重要线索），因此会继续自称为 Pacman，并使用虚拟形象参与社区视频会议。 \n\n\n虽然 Pacman 并未明说自己的真实名字，但凭借其给出的信息，我们已经足够查询出更多信息。\n\n\n前文提到过，Pacman 曾提到自己创办了一家名为 Namebase 的公司，并将其出售给了 Namecheap。根据 Crunchbase 的数据库，Odaily 星球日报很轻松地找到了这家公司的信息。值得一提的是，我们还在该公司的投资者名单中发现了 Blur 领投机构 Paradigm 的身影。\n\n\n\n\n\n而通过 Namebase 的创始人信息，我们又定位到了一个叫作 Tieshun Roquerre（铁顺？？？是挺难读的…）的人。\n\n\n\n\n\n推特搜索 Tieshun Roquerre 后，我们可以搜到一个叫作 Tieshun/（@TieshunR）的用户，从该用户的履历介绍来看，Y Combinator 参与者、麻省理工学院、Thiel 奖学金、Namebase 创始人……这些信息与 Pacman 的披露完全匹配。\n\n\n\n\n\n\n而通过另一家社交媒体平台 Instagram，我们也能搜到一个叫作「tieshunr」的用户，从该用户披露的照片来看，与 Pacman 的爆照基本一致。\n\n\n\n\n\n至此，我们基本已可确定 Pacman 的真名就叫作 Tieshun Roquerre。\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/34918",
+          "publishedOn": "2023-02-22T04:09:58.000Z",
+          "wordCount": null,
+          "title": "Blur创始人自曝身份：高中辍学，17岁加入YC，享受匿名开发过程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34915",
+          "author": null,
+          "description": "原文标题：《加密创始人可以从 Blur 的代币空投中学到什么？》\n原文作者：Li Jin、Mason Nystrom、Tina Dai\n原文编译：Block unicorn\n\n\n自 5 个月前公开发布以来，Blur 已经成为了行业的顶级 NFT 市场和交易平台，在 2023 年 2 月空投之前，按交易量计算的市场份额超过 40%。在竞争激烈的情况下，要想击败现有公司，需要的不仅仅是产品和用户体验的改进——还需要复杂的激励措施来引导和增加用户使用。\n\n\n在过去的几年里，将Token应用于构建网络的创意层出不穷，包括激励参与者的成长或忠诚度，获取价值，或提供各种类型的产品核心效用。常见的\n\nToken\n\n玩法集中在一次性追溯空投，以激励参与和奖励早期用户（如 Uniswap，ENS）；到持续的流动性挖掘项目，奖励用户执行某些行动（如 LooksRare，Compound）。\n\n\n\n\n研究 Blur 揭示了一个更复杂的\n\nToken\n\n分配设计，它提供分阶段的奖励来排列网络的增长。这一分析将包括两部分：第一篇文章将解读 Blur 的\n\nToken\n\n方法，并为寻求利用\n\nToken\n\n发展网络的创始人提供建议。未来的一篇博文将分享数据分析，量化空投对市场和使用的影响。\n\n\n关于 Blur 空投的背景\n\n\n\n\nBLUR 的总供应量为 30 亿个\n\nToken\n\n，其中 3.6 亿个，即 12%，在 2 月 14 日空投并可认领。截至 2 月 20 日，112K 独特的钱包已经认领了空投的\n\nToken\n\n，93% 的\n\nToken\n\n被认领。截至 2 月 20 日，\n\nToken\n\n价格为 1.21 美元，空投的总价值超过 4.35 亿美元，空投的中位数为 298 个\n\nToken\n\n（价值 360 美元）。\n\n\n在空投之前，Blur 的\n\nToken\n\n激励有几个阶段，统称为「第…",
+          "link": "https://www.theblockbeats.info/news/34915",
+          "publishedOn": "2023-02-22T04:02:18.000Z",
+          "wordCount": null,
+          "title": "加密创始人可以从Blur的Token空投中学到什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34908",
+          "author": null,
+          "description": "原文标题：《Regulate Web3 Apps, Not Protocols Part IV: Practical Application》\n原文作者：Miles Jennings、Brian Quintenz\n原文编译：Yangz，DeFi 之道\n\n\n本文是「监管 Web3 应用程序，而不是协议」系列的第四部分，该系列建立了一个 Web3 监管框架，以维护 Web3 技术的好处，保护互联网的未来，同时减少非法活动和消费者伤害的风险。该框架的核心原则是，企业应该是监管的重点，而不是去中心化的自主软件。\n\n\n本系列第一、第二和第三部分建立的「监管 Web3 应用程序，而不是协议」框架的基础是监管不可知的 -- 这意味着它对哪些类型的监管应适用于 Web3 没有固定的看法。相反，该框架提供了一种评估和应用 Web3 业务监管的方法，包括与市场结构、KYC、隐私或任何其他类型目前适用于 Web2 业务的监管。该框架只规定，监管应该有一个合法的目标，与它所要监管的实体和活动以及它要解决的风险相适应，并保持真正的「技术中立」（不是在新生技术中选择赢家）。\n\n\n在本系列的第四部分中，我们展示了该框架如何在实践中应用于假设的市场结构监管（即管理交易平台数字资产交易的立法和相应监管）。\n\n\n我们首先定义了假设监管的范围，然后解释了监管的不同规则和要求如何适用于 web3 领域的不同类型的参与者和应用。这一分析表明，为什么监管中最苛刻的要求应适用于对用户构成最大风险的应用程序，而那些构成最小风险的应用程序应受到较少的监管。这种风险加权的方法确保了对消费者的保护，同时也保护了创新。\n\n\n虽然我们在此讨论的监管示例侧重于加密方向的金融用例，但该分析应表明「监管 Web3 应用程序，而不是协议」的框架在未来可用于适当定制一系列 Web3 监管，包括与社交媒体、零工经济和内容创建应用程序有关的监管…",
+          "link": "https://www.theblockbeats.info/news/34908",
+          "publishedOn": "2023-02-22T01:30:01.000Z",
+          "wordCount": null,
+          "title": "a16z监管系列文章：Web3监管框架的实际应用",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34898",
           "author": null,
           "description": "作为L2项目中估值最高的项目，本文特探讨Starkware的技术架构和生态应用。",
