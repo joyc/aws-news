@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34917",
+          "author": null,
+          "description": "原文标题：《指数浪潮即将到来，简析 4 个值得关注的链上指数协议》\n原文作者：Ignas \n原文编译：深潮 TechFlow\n\n\n上周，Alongside 指数协议宣布由 A16z 牵头、Coinbase 加入的 1100 万美元种子融资。\n\n\n这令人惊讶，因为通常情况下，DeFi 项目的融资在 100 万到 400 万美元之间，而且所有 DeFi 指数项目的资本化程度都很低（100 万到 1500 万美元指数）。\n\n\n很少有人听说过 Alongside，这激起了我的兴趣，风险投资公司需要具有前瞻性，因为他们的份额会被锁定几年时间。\n\n\n\n\n\nWarren Buffet 曾经说过，通过定期投资于指数基金，一个菜鸟投资者都可以胜过大多数投资专家。传统市场上，股票指数被用来跟踪一系列股票的表现，标准普尔 500 指数是最知名的例子。\n\n\n但对于链上指数来说，现在还为时过早，许多加密货币原住民认为他们可以比中心化解决方案更好地管理自己的头寸，叙事不在这里。\n\n\n数字显示：股票指数占 TradFi 股票市场的 18% 左右，而链上指数只占加密货币市场的 0.077%，或与 DeFi 的 TVL 相比，占 0.18%。\n\n\n指数的表现优于 ETH 和 BTC\n\n\n投资者需要标的来衡量各种\n\nToken\n\n和项目的表现。一段时间以来，以太坊（ETH）和比特币（BTC）一直被人视为的市场基准。\n\n\n因此，链上指数需要超过它们的表现来证明自己的价值。然而，Index Coop 开发的最大的 DEFI 指数（DPI）一直落后于 ETH。\n\n\n\n\n\n如果你相信 DeFi 的发展，那么持有 ETH 是有意义的，因为它是 DeFi 生态系统的基础，蓝筹 DeFi 项目建立在它之上。\n\n\n这同样适用于 NFT 生态系统，ETH 是 NFT 采用增长的代理\n\nToken\n\n。此外，ETH 没有困扰 D…",
+          "link": "https://www.theblockbeats.info/news/34917",
+          "publishedOn": "2023-02-22T14:00:01.000Z",
+          "wordCount": null,
+          "title": "指数浪潮即将到来，简析4个值得关注的链上指数协议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34916",
           "author": null,
           "description": "原文标题：《\n\n「AI+Web3」概念最新融资项目盘点\n\n\n》\n原文作者：\n\nwesely，DeFi之道\n\n\nAI 作为可预见的下一代技术高地，2023 年年初借助着 ChatGPT 的东风，其热度迅速席卷整个科技圈，并引发了一场押注 AI 的「军备竞赛」。微软重金砸向 OpenAI，谷歌发布企业级紧急预警，应对性推出了自己搜索型聊天机器人巴德（Bard），更有 Databricks、Cruise、Grammarly 等一众 AI 概念企业估值超过百亿美元，并引发了从软件到底层算法，以及硬件芯片等多个层面的竞争，可以说 2023 的开年就充斥着一股「火药味」。\n\n\n而 AI 的百搭性，给它绘制了一幅更为宏大的应用场景，与生物技术、计算机视觉、语言处理、Web3、物流、农业科技等方面的结合，能展示出了一种科幻般的畅想。据普华永道的估计，未来在 AI 的推动下，到 2030 年，AI 将为世界经济贡献 15.7 万亿美元，累计推动全球 GDP 增长 14%。本文主要关注 AI+Web3 领域，从 2023 年最新的融资项目中寻找这一概念的项目，助你寻找 Alpha。\n\n\n\n\nBotto\n\n\n\n\n投资机构：Variant Fund\n\n\n融资金额：未公开\n\n\nBotto 是一个通过 DAO 治理的生成艺术社区。Botto 引擎使用了 Stable Diffusion、VQGAN + CLIP、GPT-3 等多种模型，根据文本生成艺术图像，每周，会根据社区不同艺术倾向、审美风格等要素，预选出 350 张图像呈现给社区进行投票，将最受欢迎的图像铸造为 NFT，并最终在 SuperRare 上进行拍卖，以此获得收入并对 Botto 引擎进行训练。目前，参与社区的治理需要一定的 Token 或者 Pass 卡。\n\n\n\n\n从本质上来看，Botto 是 AI 生成艺术 NFT 与 DAO 治理…",
@@ -393,36 +403,6 @@
           "publishedOn": "2023-02-20T06:33:13.000Z",
           "wordCount": null,
           "title": "GLP衍生品协议策略拆解：Delta中性策略、抵押借贷、流动性凭证和竞争对手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34831",
-          "author": null,
-          "description": "Stacks能为比特币带来什么",
-          "link": "https://www.theblockbeats.info/news/34831",
-          "publishedOn": "2023-02-20T03:48:14.000Z",
-          "wordCount": null,
-          "title": "一天翻倍，Stacks创始人解读STX的比特币Layer2概念",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34830",
-          "author": null,
-          "description": "重点关注Filecoin今年上半年动态。",
-          "link": "https://www.theblockbeats.info/news/34830",
-          "publishedOn": "2023-02-20T03:28:12.000Z",
-          "wordCount": null,
-          "title": "FIL一路「高歌猛进」，其背后的Token经济有何隐藏信息？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34828",
-          "author": null,
-          "description": "Layer2生态爆发，Arbitrum上还有哪些新兴项目值得关注呢？",
-          "link": "https://www.theblockbeats.info/news/34828",
-          "publishedOn": "2023-02-20T02:57:01.000Z",
-          "wordCount": null,
-          "title": "Arbitrum生态迎来春天，分享值得关注的8个新兴DeFi项目",
           "imageUrl": null
         }
       ]

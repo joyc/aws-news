@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-22T12:14:16.941Z</updated>
+    <updated>2023-02-22T18:10:01.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[指数浪潮即将到来，简析4个值得关注的链上指数协议]]></title>
+        <id>https://www.theblockbeats.info/news/34917</id>
+        <link href="https://www.theblockbeats.info/news/34917"/>
+        <updated>2023-02-22T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《指数浪潮即将到来，简析 4 个值得关注的链上指数协议》
+原文作者：Ignas 
+原文编译：深潮 TechFlow
+
+
+上周，Alongside 指数协议宣布由 A16z 牵头、Coinbase 加入的 1100 万美元种子融资。
+
+
+这令人惊讶，因为通常情况下，DeFi 项目的融资在 100 万到 400 万美元之间，而且所有 DeFi 指数项目的资本化程度都很低（100 万到 1500 万美元指数）。
+
+
+很少有人听说过 Alongside，这激起了我的兴趣，风险投资公司需要具有前瞻性，因为他们的份额会被锁定几年时间。
+
+
+
+
+
+Warren Buffet 曾经说过，通过定期投资于指数基金，一个菜鸟投资者都可以胜过大多数投资专家。传统市场上，股票指数被用来跟踪一系列股票的表现，标准普尔 500 指数是最知名的例子。
+
+
+但对于链上指数来说，现在还为时过早，许多加密货币原住民认为他们可以比中心化解决方案更好地管理自己的头寸，叙事不在这里。
+
+
+数字显示：股票指数占 TradFi 股票市场的 18% 左右，而链上指数只占加密货币市场的 0.077%，或与 DeFi 的 TVL 相比，占 0.18%。
+
+
+指数的表现优于 ETH 和 BTC
+
+
+投资者需要标的来衡量各种
+
+Token
+
+和项目的表现。一段时间以来，以太坊（ETH）和比特币（BTC）一直被人视为的市场基准。
+
+
+因此，链上指数需要超过它们的表现来证明自己的价值。然而，Index Coop 开发的最大的 DEFI 指数（DPI）一直落后于 ETH。
+
+
+
+
+
+如果你相信 DeFi 的发展，那么持有 ETH 是有意义的，因为它是 DeFi 生态系统的基础，蓝筹 DeFi 项目建立在它之上。
+
+
+这同样适用于 NFT 生态系统，ETH 是 NFT 采用增长的代理
+
+Token
+
+。此外，ETH 没有困扰 D…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盘点「AI+Web3」概念最新融资项目]]></title>
         <id>https://www.theblockbeats.info/news/34916</id>
@@ -680,36 +739,6 @@ L1 至 L2 间的智能合约消息传递。允许开发人员将数据从 Ethere
         <link href="https://www.theblockbeats.info/news/34833"/>
         <updated>2023-02-20T06:33:13.000Z</updated>
         <summary type="html"><![CDATA[是什么促成了过去一段时间Arbitrum上令人惊讶的DeFi创新？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一天翻倍，Stacks创始人解读STX的比特币Layer2概念]]></title>
-        <id>https://www.theblockbeats.info/news/34831</id>
-        <link href="https://www.theblockbeats.info/news/34831"/>
-        <updated>2023-02-20T03:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Stacks能为比特币带来什么]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIL一路「高歌猛进」，其背后的Token经济有何隐藏信息？]]></title>
-        <id>https://www.theblockbeats.info/news/34830</id>
-        <link href="https://www.theblockbeats.info/news/34830"/>
-        <updated>2023-02-20T03:28:12.000Z</updated>
-        <summary type="html"><![CDATA[重点关注Filecoin今年上半年动态。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum生态迎来春天，分享值得关注的8个新兴DeFi项目]]></title>
-        <id>https://www.theblockbeats.info/news/34828</id>
-        <link href="https://www.theblockbeats.info/news/34828"/>
-        <updated>2023-02-20T02:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Layer2生态爆发，Arbitrum上还有哪些新兴项目值得关注呢？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
