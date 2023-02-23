@@ -6,6 +6,86 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34981",
+          "author": null,
+          "description": "「坚信Aura将成为促进LSD流动性和DeFi流动性的优质项目」",
+          "link": "https://www.theblockbeats.info/news/34981",
+          "publishedOn": "2023-02-23T04:56:15.000Z",
+          "wordCount": null,
+          "title": "Aura Finance会不会是上海升级后的LSD赛道最大赢家？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34980",
+          "author": null,
+          "description": "在 YC 最新孵化计划 Winter 2023 Batch 中，有 8 家加密初创公司入围，主要涉及钱包、支付和隐私等基础设施领域。",
+          "link": "https://www.theblockbeats.info/news/34980",
+          "publishedOn": "2023-02-23T04:19:54.000Z",
+          "wordCount": null,
+          "title": "8个Web3新项目，Y Combinator最新孵化计划w23项目一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34979",
+          "author": null,
+          "description": "上海升级后，Lido将允许stETH 持有者可以 1:1 的比例兑换ETH退出 Lido质押。",
+          "link": "https://www.theblockbeats.info/news/34979",
+          "publishedOn": "2023-02-23T04:06:37.000Z",
+          "wordCount": null,
+          "title": "Lido公布质押兑换ETH流程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34968",
+          "author": null,
+          "description": "链上游戏提供了无与伦比的游戏体验，将极大地改变现有游戏格局，有望塑造游戏的未来。",
+          "link": "https://www.theblockbeats.info/news/34968",
+          "publishedOn": "2023-02-23T03:48:41.000Z",
+          "wordCount": null,
+          "title": "全链游戏时代正在到来：未来的10个趋势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34977",
+          "author": null,
+          "description": "2023年初表现最亮眼的赛道莫过于Layer2，这也符合大部分机构和影响力人物的预测。",
+          "link": "https://www.theblockbeats.info/news/34977",
+          "publishedOn": "2023-02-23T03:39:13.000Z",
+          "wordCount": null,
+          "title": "解构2月主线叙事：Arbitrum的技术、生态、热门项目和未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34970",
+          "author": null,
+          "description": "Eigenlayer是能够至少延续到24年的新叙事，LSD乐高再上一层。",
+          "link": "https://www.theblockbeats.info/news/34970",
+          "publishedOn": "2023-02-23T03:31:51.000Z",
+          "wordCount": null,
+          "title": "LSD没整明白，「再质押」叙事就来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34969",
+          "author": null,
+          "description": "让市场决定利率，$paprMEME = APR",
+          "link": "https://www.theblockbeats.info/news/34969",
+          "publishedOn": "2023-02-23T03:00:01.000Z",
+          "wordCount": null,
+          "title": "paprMEME：原生Token驱动，「Hold = Lend」的新NFT借贷平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34944",
+          "author": null,
+          "description": "比特币生态中，除了比特币本身的价值存储和闪电网络的支付之外，还有其他的应用生态存在？",
+          "link": "https://www.theblockbeats.info/news/34944",
+          "publishedOn": "2023-02-23T01:00:01.000Z",
+          "wordCount": null,
+          "title": "BitcoinFi要来了？概览比特币生态新格局",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34917",
           "author": null,
           "description": "原文标题：《指数浪潮即将到来，简析 4 个值得关注的链上指数协议》\n原文作者：Ignas \n原文编译：深潮 TechFlow\n\n\n上周，Alongside 指数协议宣布由 A16z 牵头、Coinbase 加入的 1100 万美元种子融资。\n\n\n这令人惊讶，因为通常情况下，DeFi 项目的融资在 100 万到 400 万美元之间，而且所有 DeFi 指数项目的资本化程度都很低（100 万到 1500 万美元指数）。\n\n\n很少有人听说过 Alongside，这激起了我的兴趣，风险投资公司需要具有前瞻性，因为他们的份额会被锁定几年时间。\n\n\n\n\n\nWarren Buffet 曾经说过，通过定期投资于指数基金，一个菜鸟投资者都可以胜过大多数投资专家。传统市场上，股票指数被用来跟踪一系列股票的表现，标准普尔 500 指数是最知名的例子。\n\n\n但对于链上指数来说，现在还为时过早，许多加密货币原住民认为他们可以比中心化解决方案更好地管理自己的头寸，叙事不在这里。\n\n\n数字显示：股票指数占 TradFi 股票市场的 18% 左右，而链上指数只占加密货币市场的 0.077%，或与 DeFi 的 TVL 相比，占 0.18%。\n\n\n指数的表现优于 ETH 和 BTC\n\n\n投资者需要标的来衡量各种\n\nToken\n\n和项目的表现。一段时间以来，以太坊（ETH）和比特币（BTC）一直被人视为的市场基准。\n\n\n因此，链上指数需要超过它们的表现来证明自己的价值。然而，Index Coop 开发的最大的 DEFI 指数（DPI）一直落后于 ETH。\n\n\n\n\n\n如果你相信 DeFi 的发展，那么持有 ETH 是有意义的，因为它是 DeFi 生态系统的基础，蓝筹 DeFi 项目建立在它之上。\n\n\n这同样适用于 NFT 生态系统，ETH 是 NFT 采用增长的代理\n\nToken\n\n。此外，ETH 没有困扰 D…",
@@ -283,16 +363,6 @@
           "publishedOn": "2023-02-21T01:30:01.000Z",
           "wordCount": null,
           "title": "​A&T View：从投资Cysic看ZKP赛道趋势及生态",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34842",
-          "author": null,
-          "description": "本文从演化角度对Rollup Layer2的发展以及演进进行了讨论，主要解答了Rollup如何工作、模块化能带来哪些可能性等问题。",
-          "link": "https://www.theblockbeats.info/news/34842",
-          "publishedOn": "2023-02-20T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Rollup Layer2模块化演进之路：有何可能性？",
           "imageUrl": null
         }
       ]
