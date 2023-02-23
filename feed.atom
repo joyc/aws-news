@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-23T12:14:28.461Z</updated>
+    <updated>2023-02-23T18:10:25.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase新链Base的首批合作伙伴都有哪些项目？]]></title>
+        <id>https://www.theblockbeats.info/news/35017</id>
+        <link href="https://www.theblockbeats.info/news/35017"/>
+        <updated>2023-02-23T15:47:11.000Z</updated>
+        <summary type="html"><![CDATA[除了OP，还有哪些受益方]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase：我们为什么要建立新Layer2网络Base？]]></title>
+        <id>https://www.theblockbeats.info/news/35014</id>
+        <link href="https://www.theblockbeats.info/news/35014"/>
+        <updated>2023-02-23T15:34:55.000Z</updated>
+        <summary type="html"><![CDATA[刚刚，Coinbase宣布推出基于OP Stack的新以太坊L2网络Base，并发文介绍其特点及生态伙伴。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「熊转牛」真在发生？我们分析了四轮周期的LTH-STH链上指标]]></title>
+        <id>https://www.theblockbeats.info/news/35001</id>
+        <link href="https://www.theblockbeats.info/news/35001"/>
+        <updated>2023-02-23T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[历史上比特币平均8个月能走出熊市，而现在是该指标信号的第5个月。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3创业者融资到底要开多少会？]]></title>
         <id>https://www.theblockbeats.info/news/34999</id>
@@ -626,66 +656,6 @@ Token
         <link href="https://www.theblockbeats.info/news/34874"/>
         <updated>2023-02-21T06:21:58.000Z</updated>
         <summary type="html"><![CDATA[「NFTfi或迎来Summer」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年第9周融资精选，SocialFi持续增长、a16z动作频频]]></title>
-        <id>https://www.theblockbeats.info/news/34873</id>
-        <link href="https://www.theblockbeats.info/news/34873"/>
-        <updated>2023-02-21T05:03:44.000Z</updated>
-        <summary type="html"><![CDATA[上周融资总数为23笔，总金额约2.36亿美元，平均融资金额1073万美元，社交板块融资规模和数量持续大幅增长。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG：NFT金融化迎来系统性机会？概览赛道152个项目]]></title>
-        <id>https://www.theblockbeats.info/news/34872</id>
-        <link href="https://www.theblockbeats.info/news/34872"/>
-        <updated>2023-02-21T04:29:24.000Z</updated>
-        <summary type="html"><![CDATA[尚未爆发的NFT-Fi赛道，即将迎来一波真正的系统性机会。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[速览2023年NFTFi叙事下的五个项目：BendDAO、NFTperp、SudoSwap...]]></title>
-        <id>https://www.theblockbeats.info/news/34871</id>
-        <link href="https://www.theblockbeats.info/news/34871"/>
-        <updated>2023-02-21T03:54:35.000Z</updated>
-        <summary type="html"><![CDATA[NFT正在成为一种使用越来越多和有价值的技术，这就是为什么NFTFi可能成为2023年黑马叙事的原因。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点20个香港本土加密基金及项目]]></title>
-        <id>https://www.theblockbeats.info/news/34869</id>
-        <link href="https://www.theblockbeats.info/news/34869"/>
-        <updated>2023-02-21T03:24:40.000Z</updated>
-        <summary type="html"><![CDATA[目前香港本土的加密项目大约有50多个，近半分布在CeFi、CEX领域，其次主要分布在游戏/元宇宙领域。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首次「被动防御」，OpenSea遇到历史上最大挑战]]></title>
-        <id>https://www.theblockbeats.info/news/34867</id>
-        <link href="https://www.theblockbeats.info/news/34867"/>
-        <updated>2023-02-21T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[无论谁能笑到最后，惟愿这场争斗的结果是让NFT市场变得更好]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​A&T View：从投资Cysic看ZKP赛道趋势及生态]]></title>
-        <id>https://www.theblockbeats.info/news/34864</id>
-        <link href="https://www.theblockbeats.info/news/34864"/>
-        <updated>2023-02-21T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[一文了解A&T Capital对Cysic的投资逻辑及对于ZKP赛道的看法。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
