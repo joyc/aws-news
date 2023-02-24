@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-24T00:38:46.551Z</updated>
+    <updated>2023-02-24T06:10:54.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从5个要点，读懂Coinbase L2网络Base]]></title>
+        <id>https://www.theblockbeats.info/news/35019</id>
+        <link href="https://www.theblockbeats.info/news/35019"/>
+        <updated>2023-02-24T03:32:25.000Z</updated>
+        <summary type="html"><![CDATA[不发币、加入OP生态、引入1亿用户......]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folius Ventures：「抽税制」商业模式更适合Web3游戏]]></title>
+        <id>https://www.theblockbeats.info/news/35018</id>
+        <link href="https://www.theblockbeats.info/news/35018"/>
+        <updated>2023-02-24T03:20:20.000Z</updated>
+        <summary type="html"><![CDATA[通过为这一全新商业模式提供十点建议，并设计一款虚拟Web3游戏以论证其可行性]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidly偃旗息鼓后，Optimism上AMM协议Velodrome有何想象空间？]]></title>
+        <id>https://www.theblockbeats.info/news/34959</id>
+        <link href="https://www.theblockbeats.info/news/34959"/>
+        <updated>2023-02-24T02:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Velodrome最初的供给为400M，在其整体分配中，它将60%的Token大头分发给社区。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读Optimism生态：为什么可以「乐观」看待OP的未来？]]></title>
+        <id>https://www.theblockbeats.info/news/34995</id>
+        <link href="https://www.theblockbeats.info/news/34995"/>
+        <updated>2023-02-24T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Optimism作为以太坊二层op-rollup的双子星之一，最近由于Token价格猛烈上涨以及Quest活动，成为热点话题。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase新链Base的首批合作伙伴都有哪些项目？]]></title>
         <id>https://www.theblockbeats.info/news/35017</id>
@@ -576,16 +616,6 @@ Token
 
 
 虽然我们在此讨论的监管示例侧重于加密方向的金融用例，但该分析应表明「监管 Web3 应用程序，而不是协议」的框架在未来可用于适当定制一系列 Web3 监管，包括与社交媒体、零工经济和内容创建应用程序有关的监管…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starkware技术架构与生态应用梳理]]></title>
-        <id>https://www.theblockbeats.info/news/34898</id>
-        <link href="https://www.theblockbeats.info/news/34898"/>
-        <updated>2023-02-21T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[作为L2项目中估值最高的项目，本文特探讨Starkware的技术架构和生态应用。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
