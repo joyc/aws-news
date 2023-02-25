@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35044",
+          "author": null,
+          "description": "游戏可以让我们得以从现实生活中脱离出来，并在社区中找到归属感。",
+          "link": "https://www.theblockbeats.info/news/35044",
+          "publishedOn": "2023-02-25T04:15:52.000Z",
+          "wordCount": null,
+          "title": "游戏在数字资产生态系统中的潜力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35020",
+          "author": null,
+          "description": "在可预见的未来，Base除了成为一个金钱陷阱之外，几乎不可能再充当任何角色。",
+          "link": "https://www.theblockbeats.info/news/35020",
+          "publishedOn": "2023-02-25T01:00:02.000Z",
+          "wordCount": null,
+          "title": "Bankless：一文解读Coinbase L2的机会",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35024",
           "author": null,
           "description": "如何在保证能获取Layer1提供的安全性的同时获得更高的效率？",
@@ -333,16 +353,6 @@
           "publishedOn": "2023-02-23T01:00:01.000Z",
           "wordCount": null,
           "title": "BitcoinFi要来了？概览比特币生态新格局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34917",
-          "author": null,
-          "description": "原文标题：《指数浪潮即将到来，简析 4 个值得关注的链上指数协议》\n原文作者：Ignas \n原文编译：深潮 TechFlow\n\n\n上周，Alongside 指数协议宣布由 A16z 牵头、Coinbase 加入的 1100 万美元种子融资。\n\n\n这令人惊讶，因为通常情况下，DeFi 项目的融资在 100 万到 400 万美元之间，而且所有 DeFi 指数项目的资本化程度都很低（100 万到 1500 万美元指数）。\n\n\n很少有人听说过 Alongside，这激起了我的兴趣，风险投资公司需要具有前瞻性，因为他们的份额会被锁定几年时间。\n\n\n\n\n\nWarren Buffet 曾经说过，通过定期投资于指数基金，一个菜鸟投资者都可以胜过大多数投资专家。传统市场上，股票指数被用来跟踪一系列股票的表现，标准普尔 500 指数是最知名的例子。\n\n\n但对于链上指数来说，现在还为时过早，许多加密货币原住民认为他们可以比中心化解决方案更好地管理自己的头寸，叙事不在这里。\n\n\n数字显示：股票指数占 TradFi 股票市场的 18% 左右，而链上指数只占加密货币市场的 0.077%，或与 DeFi 的 TVL 相比，占 0.18%。\n\n\n指数的表现优于 ETH 和 BTC\n\n\n投资者需要标的来衡量各种\n\nToken\n\n和项目的表现。一段时间以来，以太坊（ETH）和比特币（BTC）一直被人视为的市场基准。\n\n\n因此，链上指数需要超过它们的表现来证明自己的价值。然而，Index Coop 开发的最大的 DEFI 指数（DPI）一直落后于 ETH。\n\n\n\n\n\n如果你相信 DeFi 的发展，那么持有 ETH 是有意义的，因为它是 DeFi 生态系统的基础，蓝筹 DeFi 项目建立在它之上。\n\n\n这同样适用于 NFT 生态系统，ETH 是 NFT 采用增长的代理\n\nToken\n\n。此外，ETH 没有困扰 D…",
-          "link": "https://www.theblockbeats.info/news/34917",
-          "publishedOn": "2023-02-22T14:00:01.000Z",
-          "wordCount": null,
-          "title": "指数浪潮即将到来，简析4个值得关注的链上指数协议",
           "imageUrl": null
         }
       ]
