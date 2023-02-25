@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-25T12:12:21.686Z</updated>
+    <updated>2023-02-25T18:08:39.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -597,86 +597,6 @@ Optimism 获得了超过半年的机会窗口期，且这个窗口如今继续�
         <link href="https://www.theblockbeats.info/news/34989"/>
         <updated>2023-02-23T06:35:12.000Z</updated>
         <summary type="html"><![CDATA[18个使用赞助商提供开发工具的优秀项目脱颖而出，入选本次Demo Day。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aura Finance会不会是上海升级后的LSD赛道最大赢家？]]></title>
-        <id>https://www.theblockbeats.info/news/34981</id>
-        <link href="https://www.theblockbeats.info/news/34981"/>
-        <updated>2023-02-23T04:56:15.000Z</updated>
-        <summary type="html"><![CDATA[「坚信Aura将成为促进LSD流动性和DeFi流动性的优质项目」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8个Web3新项目，Y Combinator最新孵化计划w23项目一览]]></title>
-        <id>https://www.theblockbeats.info/news/34980</id>
-        <link href="https://www.theblockbeats.info/news/34980"/>
-        <updated>2023-02-23T04:19:54.000Z</updated>
-        <summary type="html"><![CDATA[在 YC 最新孵化计划 Winter 2023 Batch 中，有 8 家加密初创公司入围，主要涉及钱包、支付和隐私等基础设施领域。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido公布质押兑换ETH流程]]></title>
-        <id>https://www.theblockbeats.info/news/34979</id>
-        <link href="https://www.theblockbeats.info/news/34979"/>
-        <updated>2023-02-23T04:06:37.000Z</updated>
-        <summary type="html"><![CDATA[上海升级后，Lido将允许stETH 持有者可以 1:1 的比例兑换ETH退出 Lido质押。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全链游戏时代正在到来：未来的10个趋势]]></title>
-        <id>https://www.theblockbeats.info/news/34968</id>
-        <link href="https://www.theblockbeats.info/news/34968"/>
-        <updated>2023-02-23T03:48:41.000Z</updated>
-        <summary type="html"><![CDATA[链上游戏提供了无与伦比的游戏体验，将极大地改变现有游戏格局，有望塑造游戏的未来。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解构2月主线叙事：Arbitrum的技术、生态、热门项目和未来]]></title>
-        <id>https://www.theblockbeats.info/news/34977</id>
-        <link href="https://www.theblockbeats.info/news/34977"/>
-        <updated>2023-02-23T03:39:13.000Z</updated>
-        <summary type="html"><![CDATA[2023年初表现最亮眼的赛道莫过于Layer2，这也符合大部分机构和影响力人物的预测。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSD没整明白，「再质押」叙事就来了]]></title>
-        <id>https://www.theblockbeats.info/news/34970</id>
-        <link href="https://www.theblockbeats.info/news/34970"/>
-        <updated>2023-02-23T03:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Eigenlayer是能够至少延续到24年的新叙事，LSD乐高再上一层。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[paprMEME：原生Token驱动，「Hold = Lend」的新NFT借贷平台]]></title>
-        <id>https://www.theblockbeats.info/news/34969</id>
-        <link href="https://www.theblockbeats.info/news/34969"/>
-        <updated>2023-02-23T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[让市场决定利率，$paprMEME = APR]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitcoinFi要来了？概览比特币生态新格局]]></title>
-        <id>https://www.theblockbeats.info/news/34944</id>
-        <link href="https://www.theblockbeats.info/news/34944"/>
-        <updated>2023-02-23T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[比特币生态中，除了比特币本身的价值存储和闪电网络的支付之外，还有其他的应用生态存在？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
