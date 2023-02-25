@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-25T06:09:31.053Z</updated>
+    <updated>2023-02-25T12:12:21.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[探讨OP Stack：Optimism对模块化扩展的愿景]]></title>
+        <id>https://www.theblockbeats.info/news/35042</id>
+        <link href="https://www.theblockbeats.info/news/35042"/>
+        <updated>2023-02-25T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Optimism正在建立一个完全开源的rollup链生态系统，而OP Stack是建立这个愿景的基础。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游戏在数字资产生态系统中的潜力]]></title>
         <id>https://www.theblockbeats.info/news/35044</id>

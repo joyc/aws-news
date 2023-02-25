@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35042",
+          "author": null,
+          "description": "Optimism正在建立一个完全开源的rollup链生态系统，而OP Stack是建立这个愿景的基础。",
+          "link": "https://www.theblockbeats.info/news/35042",
+          "publishedOn": "2023-02-25T06:00:01.000Z",
+          "wordCount": null,
+          "title": "探讨OP Stack：Optimism对模块化扩展的愿景",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35044",
           "author": null,
           "description": "游戏可以让我们得以从现实生活中脱离出来，并在社区中找到归属感。",
