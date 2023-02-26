@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-26T00:44:29.687Z</updated>
+    <updated>2023-02-26T06:09:33.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Rock Digital：为什么BTC L2 Stacks值得投资？]]></title>
+        <id>https://www.theblockbeats.info/news/35045</id>
+        <link href="https://www.theblockbeats.info/news/35045"/>
+        <updated>2023-02-26T02:31:13.000Z</updated>
+        <summary type="html"><![CDATA[STX 是目前最完备的 BTC 二层，同时也是 BTC 二层中唯一流通 Token 项目。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探讨OP Stack：Optimism对模块化扩展的愿景]]></title>
         <id>https://www.theblockbeats.info/news/35042</id>
@@ -467,36 +477,6 @@ Optimism 获得了超过半年的机会窗口期，且这个窗口如今继续�
         <link href="https://www.theblockbeats.info/news/34995"/>
         <updated>2023-02-24T01:30:01.000Z</updated>
         <summary type="html"><![CDATA[Optimism作为以太坊二层op-rollup的双子星之一，最近由于Token价格猛烈上涨以及Quest活动，成为热点话题。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase新链Base的首批合作伙伴都有哪些项目？]]></title>
-        <id>https://www.theblockbeats.info/news/35017</id>
-        <link href="https://www.theblockbeats.info/news/35017"/>
-        <updated>2023-02-23T15:47:11.000Z</updated>
-        <summary type="html"><![CDATA[除了OP，还有哪些受益方]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase：我们为什么要建立新Layer2网络Base？]]></title>
-        <id>https://www.theblockbeats.info/news/35014</id>
-        <link href="https://www.theblockbeats.info/news/35014"/>
-        <updated>2023-02-23T15:34:55.000Z</updated>
-        <summary type="html"><![CDATA[刚刚，Coinbase宣布推出基于OP Stack的新以太坊L2网络Base，并发文介绍其特点及生态伙伴。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「熊转牛」真在发生？我们分析了四轮周期的LTH-STH链上指标]]></title>
-        <id>https://www.theblockbeats.info/news/35001</id>
-        <link href="https://www.theblockbeats.info/news/35001"/>
-        <updated>2023-02-23T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[历史上比特币平均8个月能走出熊市，而现在是该指标信号的第5个月。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

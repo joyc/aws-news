@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35045",
+          "author": null,
+          "description": "STX 是目前最完备的 BTC 二层，同时也是 BTC 二层中唯一流通 Token 项目。",
+          "link": "https://www.theblockbeats.info/news/35045",
+          "publishedOn": "2023-02-26T02:31:13.000Z",
+          "wordCount": null,
+          "title": "North Rock Digital：为什么BTC L2 Stacks值得投资？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35042",
           "author": null,
           "description": "Optimism正在建立一个完全开源的rollup链生态系统，而OP Stack是建立这个愿景的基础。",
@@ -153,36 +163,6 @@
           "publishedOn": "2023-02-24T01:30:01.000Z",
           "wordCount": null,
           "title": "解读Optimism生态：为什么可以「乐观」看待OP的未来？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35017",
-          "author": null,
-          "description": "除了OP，还有哪些受益方",
-          "link": "https://www.theblockbeats.info/news/35017",
-          "publishedOn": "2023-02-23T15:47:11.000Z",
-          "wordCount": null,
-          "title": "Coinbase新链Base的首批合作伙伴都有哪些项目？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35014",
-          "author": null,
-          "description": "刚刚，Coinbase宣布推出基于OP Stack的新以太坊L2网络Base，并发文介绍其特点及生态伙伴。",
-          "link": "https://www.theblockbeats.info/news/35014",
-          "publishedOn": "2023-02-23T15:34:55.000Z",
-          "wordCount": null,
-          "title": "Coinbase：我们为什么要建立新Layer2网络Base？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35001",
-          "author": null,
-          "description": "历史上比特币平均8个月能走出熊市，而现在是该指标信号的第5个月。",
-          "link": "https://www.theblockbeats.info/news/35001",
-          "publishedOn": "2023-02-23T13:00:01.000Z",
-          "wordCount": null,
-          "title": "「熊转牛」真在发生？我们分析了四轮周期的LTH-STH链上指标",
           "imageUrl": null
         }
       ]
