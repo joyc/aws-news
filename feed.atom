@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-25T18:08:39.653Z</updated>
+    <updated>2023-02-26T00:44:29.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -497,106 +497,6 @@ Optimism 获得了超过半年的机会窗口期，且这个窗口如今继续�
         <link href="https://www.theblockbeats.info/news/35001"/>
         <updated>2023-02-23T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[历史上比特币平均8个月能走出熊市，而现在是该指标信号的第5个月。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3创业者融资到底要开多少会？]]></title>
-        <id>https://www.theblockbeats.info/news/34999</id>
-        <link href="https://www.theblockbeats.info/news/34999"/>
-        <updated>2023-02-23T10:25:20.000Z</updated>
-        <summary type="html"><![CDATA[「要么倾尽全力，要么干脆别做。」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明牌空投的Binance系HALO，该如何交互？]]></title>
-        <id>https://www.theblockbeats.info/news/34997</id>
-        <link href="https://www.theblockbeats.info/news/34997"/>
-        <updated>2023-02-23T09:36:51.000Z</updated>
-        <summary type="html"><![CDATA[「目前Halo尚未快照，抓紧时间去做」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被华为官推介绍的「Defactor」，是一家怎样的平台？]]></title>
-        <id>https://www.theblockbeats.info/news/34996</id>
-        <link href="https://www.theblockbeats.info/news/34996"/>
-        <updated>2023-02-23T09:33:38.000Z</updated>
-        <summary type="html"><![CDATA[目前，Defactor发展尚处于早期，也没有公布业务数据情况。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入了解Immutable X：解决方案、团队、Token和游戏生态]]></title>
-        <id>https://www.theblockbeats.info/news/34991</id>
-        <link href="https://www.theblockbeats.info/news/34991"/>
-        <updated>2023-02-23T09:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Immutable X是一个用第二层技术设计的扩展解决方案，建立在以太坊区块链上。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万字笔墨全链上游戏（下）：Dark Forest 与 Loot带来的启示，以及未来的可能性]]></title>
-        <id>https://www.theblockbeats.info/news/34994</id>
-        <link href="https://www.theblockbeats.info/news/34994"/>
-        <updated>2023-02-23T08:32:33.000Z</updated>
-        <summary type="html"><![CDATA[全链上游戏的领域刚刚进入萌芽阶段，Dark Forest 是该领域最早期、最核心的代表之一。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万字笔墨全链上游戏（中）：一文透视 Loot 生态]]></title>
-        <id>https://www.theblockbeats.info/news/34993</id>
-        <link href="https://www.theblockbeats.info/news/34993"/>
-        <updated>2023-02-23T08:28:44.000Z</updated>
-        <summary type="html"><![CDATA[全链上游戏的领域刚刚进入萌芽阶段，Dark Forest 是该领域最早期、最核心的代表之一。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万字笔墨全链上游戏（上）：一切的开始与 Dark Forest]]></title>
-        <id>https://www.theblockbeats.info/news/34992</id>
-        <link href="https://www.theblockbeats.info/news/34992"/>
-        <updated>2023-02-23T08:17:07.000Z</updated>
-        <summary type="html"><![CDATA[全链上游戏的领域刚刚进入萌芽阶段，Dark Forest 是该领域最早期、最核心的代表之一。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TopGoal：把足球搬进元宇宙的野心]]></title>
-        <id>https://www.theblockbeats.info/news/34988</id>
-        <link href="https://www.theblockbeats.info/news/34988"/>
-        <updated>2023-02-23T08:02:34.000Z</updated>
-        <summary type="html"><![CDATA[足球元宇宙TopGoal的愿景是致力于将体育带入Web3.0领域]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读懂Dookey Dash今日开启的「蟾蜍」模式]]></title>
-        <id>https://www.theblockbeats.info/news/34990</id>
-        <link href="https://www.theblockbeats.info/news/34990"/>
-        <updated>2023-02-23T07:51:08.000Z</updated>
-        <summary type="html"><![CDATA[今天上午，BAYC宣布Dookey Dash游戏回归并开启全新的「蟾蜍模式」(Toad Mode)。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network State线上黑客松Demo Day获奖项目速览]]></title>
-        <id>https://www.theblockbeats.info/news/34989</id>
-        <link href="https://www.theblockbeats.info/news/34989"/>
-        <updated>2023-02-23T06:35:12.000Z</updated>
-        <summary type="html"><![CDATA[18个使用赞助商提供开发工具的优秀项目脱颖而出，入选本次Demo Day。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
