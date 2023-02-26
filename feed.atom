@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-26T12:13:20.107Z</updated>
+    <updated>2023-02-26T18:08:45.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -355,138 +355,6 @@ Bankless 创始人
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bunni的新LP激励机制，会是解决Uniswap V3流动性的最终方案吗？]]></title>
-        <id>https://www.theblockbeats.info/news/35023</id>
-        <link href="https://www.theblockbeats.info/news/35023"/>
-        <updated>2023-02-24T05:40:53.000Z</updated>
-        <summary type="html"><![CDATA[早前已在以太坊、Arbitrum、Optimism 和 Polygon 等区块链上线的 DeFi 收益协议 Timeless 建立了一个新的协议——Bunni，它可以帮助流动性提供者（LP）更有效地获得收益，让 Uniswap 流动性更容易被加入到其他应用程序中，从而带动 Timeless Finance 建立起一个飞轮效应。据官方消息在一个月前 Timeless Finance 已为早期 Timeless、Bunni 及部分 Uniswap v3 LP 开放了空投申领页面。而在空投结束后的一段时间里，Bunni 的累计交易量仍在持续上升。Timeless Finance 的 Bunni 解决什么问题，工作方式是什么？如何交互？BlockBeats 对此做了简单梳理。
-
-
- 
-Bunni 基本介绍
-
-
-
-
-Timeless 是一种收益 Token 化协议，它提供生息 Token (PYT)，赋予其持有人永久权利要求由基础委托人产生的收益。Timeless 还提供负收益 Token (NYTs)，这是一种协议原生的做空收益率的方式。
-
-
- 
-即使在 TVL 和交易量上占据了主导地位，但 Uniswap 上的大多数流动性提供者都在亏损，掉期费用通常并不足以抵消无常损失，尤其是对于集中和被动流动性而言，在没有 token 激励的情况下流动性提供者很难为 Uni V3 流动性。
-
-
- 
-Bunni 认为现在的 token 激励方案是不可持续的，随着激励措施逐渐用完，原本所吸引到的流动性提供者就会慢慢蒸发。Bunni 希望自己作为一个流动性引擎，用新的方式激励 Uniswap v3 流动性。
-
-
-
-
-工作方式
-
-
-
-
-Uniswap 使用 NFT 来表示流动性资金，同时因为 Uniswap 核心协议的无权限性，任何人都可以在此构建一个合约，ERC-721 NFT、ERC-1155 N…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum的时机：把握历史机遇，有可能成为L2的王者]]></title>
-        <id>https://www.theblockbeats.info/news/35021</id>
-        <link href="https://www.theblockbeats.info/news/35021"/>
-        <updated>2023-02-24T04:57:10.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Arbitrum 的时机》
-原文作者：蓝狐笔记
-
-
-有不少小伙伴们都说 Arbitrum 一直利用空投预期来吸引更多用户是很聪明的做法。从战术层面或许这样解读是可以的，看上去也合理。
-
-
-不过，如果从更大的格局和生态发展角度，这样做会错过最好的战略期。
-
-
-Aribtrum 有过一次最好的时机
-
-
-在 Optimism 推出
-
-Token
-
-经济的半年内，Arbitrum 拥有推出Token经济的最佳时期，很遗憾错过了。在 Optimism 推出
-
-Token
-
-经济之前，Arbitrum 拥有超过 55% 以上的 TVL 比例，而 Optimism5% 左右，大概是 Arbitrum 的十分之一左右的比例。
-
-
-在 Optimism 推出
-
-Token
-
-经济激励后，按照目前 l2beats 的统计，目前 Optimism 的 TVL 达到 Arbitrum 的 57%，发展迅猛。此外，其生态项目也开始逐步发展起来。比如 SNX 和 Perp 已经将其重心从以太坊 L1 迁移至 Optimism，还有一些原生的项目，如 velodrome 等也逐步有了一些用户。
-
-
-从历史总交易次数、活跃用户等多个数据来看，Optimism 也在缩小跟 Arbitrum 的距离。
-
-
-
-（optimism 上最近 30 天交互次数较多的项目）
-
-
-如果 Arbitrum 在过去半年内，推出
-
-Token
-
-经济机制，它有可能将其生态内的项目提升更大，也有有机会极大提升其 TVL，且会具有黑洞般的吸引力。假设出现这种情况，会对 Optimism 的崛起造成极大压制。
-
-
-Optimism 获得了超过半年的机会窗口期，且这个窗口如今继续存在，由过去 Arbitrum 绝对主导的格局（类似于之前 Opensea 在 NFT 市场和 Uniswap 在 DEX 上的位置），如今变成了…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从5个要点，读懂Coinbase L2网络Base]]></title>
-        <id>https://www.theblockbeats.info/news/35019</id>
-        <link href="https://www.theblockbeats.info/news/35019"/>
-        <updated>2023-02-24T03:32:25.000Z</updated>
-        <summary type="html"><![CDATA[不发币、加入OP生态、引入1亿用户......]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Folius Ventures：「抽税制」商业模式更适合Web3游戏]]></title>
-        <id>https://www.theblockbeats.info/news/35018</id>
-        <link href="https://www.theblockbeats.info/news/35018"/>
-        <updated>2023-02-24T03:20:20.000Z</updated>
-        <summary type="html"><![CDATA[通过为这一全新商业模式提供十点建议，并设计一款虚拟Web3游戏以论证其可行性]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidly偃旗息鼓后，Optimism上AMM协议Velodrome有何想象空间？]]></title>
-        <id>https://www.theblockbeats.info/news/34959</id>
-        <link href="https://www.theblockbeats.info/news/34959"/>
-        <updated>2023-02-24T02:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Velodrome最初的供给为400M，在其整体分配中，它将60%的Token大头分发给社区。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读Optimism生态：为什么可以「乐观」看待OP的未来？]]></title>
-        <id>https://www.theblockbeats.info/news/34995</id>
-        <link href="https://www.theblockbeats.info/news/34995"/>
-        <updated>2023-02-24T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Optimism作为以太坊二层op-rollup的双子星之一，最近由于Token价格猛烈上涨以及Quest活动，成为热点话题。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
