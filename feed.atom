@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-27T06:11:22.727Z</updated>
+    <updated>2023-02-27T12:15:06.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何通过DefiLlama找到下一个10倍Gem？]]></title>
+        <id>https://www.theblockbeats.info/news/35071</id>
+        <link href="https://www.theblockbeats.info/news/35071"/>
+        <updated>2023-02-27T10:30:42.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：加密 KOL@thedefiedge
+原文编译：daiwa，Doria，czgsws，0x214，Noc
+
+
+想找到下一个 10 倍项目？你完全可以使用免费的 DefiLlama 来轻松找到，这是一个 2023 年自主寻找「Gem」的详细步骤指南：（包括鲜为人知的功能）
+
+
+寻找你自己的 alpha
+
+
+如果你继续依赖其他人获得 alpha，你终将为别人接盘，不要被困在食物链的底部。我将在这里分享一些使用 DefiLlama 的技术。
+
+
+公链的流动性牵引效应
+
+
+想象一下你正在购买房地产，你首先一定会查看哪些是备受关注的一线热门城市，这一样是你看待每个生态系统时应有的态度。BNB 曾一度火爆，但任何资金热点都是在不断变化的，你需要参与金钱扎堆的链。
+
+
+公链 TVL 的增长
+
+
+ 一个简单的指标是 TVL 增长百分比。
+
+
+1) 点击 DeFi，选择 Chains 
+2) 查看 7 日和 1 个月指标——你会发现只有 Arbitrum 和 Optimism 在增长。这对任何人来说都不足为奇，因为我们正处于 ETH Layer 2 season。
+
+
+
+
+
+想要获取更多？
+我个人更喜欢选择排名前 10 位的链，但如果你想获取更多内容，你可以把向下拖拽。在下面再次寻找 TVL 有异常增长的公链。
+从一个月的增长来看：Canto、Cardano、Metis 和 NEO 也不错。
+
+
+
+
+
+稳定币流入 我已经确定了一些具有总锁仓价值（TVL）吸引力的链，但这并不能说明全部情况。一个被低估的指标是稳定币流入——它显示了新资金桥接到生态系统中，这才是真正的增长。
+
+
+点击 Stables，选择 Chains。
+
+
+虽然 Optimism 具有总锁仓价值吸引力，但他们的稳定币流入是负的。Arbitrum 总锁仓价值增量为正，稳定币流入也为正，Arbitrum 比起 Optim…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年以太坊质押的前景]]></title>
+        <id>https://www.theblockbeats.info/news/35072</id>
+        <link href="https://www.theblockbeats.info/news/35072"/>
+        <updated>2023-02-27T09:57:21.000Z</updated>
+        <summary type="html"><![CDATA[在传统金融中，收益类资产都会衍生出巨大的市场，而拥有加密原生的收益率工具的Staking赛道，也同样会让以太坊拥有更庞大的生态。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学会从7个角度评估加密项目，制定自己的投资策略]]></title>
+        <id>https://www.theblockbeats.info/news/35070</id>
+        <link href="https://www.theblockbeats.info/news/35070"/>
+        <updated>2023-02-27T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[在这个指南中，你将了解到如何评估DeFi项目，以及如何制定自己的加密货币投资策略。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索比特币应用：什么是「序数NFT」？]]></title>
+        <id>https://www.theblockbeats.info/news/35068</id>
+        <link href="https://www.theblockbeats.info/news/35068"/>
+        <updated>2023-02-27T07:40:42.000Z</updated>
+        <summary type="html"><![CDATA[最近出现了一种在比特币区块链上铸造NFT的新方法，它可以将NFT的实质内容完全放到比特币区块链上。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈2023年可能会爆发的应用链]]></title>
+        <id>https://www.theblockbeats.info/news/35066</id>
+        <link href="https://www.theblockbeats.info/news/35066"/>
+        <updated>2023-02-27T07:05:41.000Z</updated>
+        <summary type="html"><![CDATA[项目、资本和公链都密集的在应用链领域做出行动。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa加密负责人：波场网络支付数据长期领先以太坊生态]]></title>
+        <id>https://www.theblockbeats.info/news/35050</id>
+        <link href="https://www.theblockbeats.info/news/35050"/>
+        <updated>2023-02-27T05:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Tron的主导地位可能令某些西方人感到惊讶，但它似乎已经在新兴市场得到广泛采用。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism资金提现到以太坊主网，为何需要7天挑战期？]]></title>
         <id>https://www.theblockbeats.info/news/35049</id>
