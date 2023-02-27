@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-27T12:15:06.504Z</updated>
+    <updated>2023-02-27T18:10:38.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5个ve(3,3)类项目对比与现状：Velodrome、Equalizer、Thena等]]></title>
+        <id>https://www.theblockbeats.info/news/35074</id>
+        <link href="https://www.theblockbeats.info/news/35074"/>
+        <updated>2023-02-27T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Solidly的分叉出现在了各条EVM链上，且取得了不错的流动性，它们的发展是否健康呢？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LSD赛道新玩家：Obol Network如何借助DVT开启以太坊质押新篇章？]]></title>
+        <id>https://www.theblockbeats.info/news/35077</id>
+        <link href="https://www.theblockbeats.info/news/35077"/>
+        <updated>2023-02-27T11:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Obol 宣布了 Mainnet Ethereum 第一个分布式验证器的发布，Obol 认为这标志着以太坊的质押新篇章，一个对所有验证者和质押者都更加安全、有弹性和去中心化的新篇章。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STX领涨，比特币的生态Summer要来了吗？]]></title>
+        <id>https://www.theblockbeats.info/news/35076</id>
+        <link href="https://www.theblockbeats.info/news/35076"/>
+        <updated>2023-02-27T10:59:27.000Z</updated>
+        <summary type="html"><![CDATA[比特币生态起风了吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何通过DefiLlama找到下一个10倍Gem？]]></title>
         <id>https://www.theblockbeats.info/news/35071</id>
@@ -148,36 +178,6 @@
         <link href="https://www.theblockbeats.info/news/35045"/>
         <updated>2023-02-26T02:31:13.000Z</updated>
         <summary type="html"><![CDATA[STX 是目前最完备的 BTC 二层，同时也是 BTC 二层中唯一流通 Token 项目。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探讨OP Stack：Optimism对模块化扩展的愿景]]></title>
-        <id>https://www.theblockbeats.info/news/35042</id>
-        <link href="https://www.theblockbeats.info/news/35042"/>
-        <updated>2023-02-25T06:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Optimism正在建立一个完全开源的rollup链生态系统，而OP Stack是建立这个愿景的基础。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏在数字资产生态系统中的潜力]]></title>
-        <id>https://www.theblockbeats.info/news/35044</id>
-        <link href="https://www.theblockbeats.info/news/35044"/>
-        <updated>2023-02-25T04:15:52.000Z</updated>
-        <summary type="html"><![CDATA[游戏可以让我们得以从现实生活中脱离出来，并在社区中找到归属感。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：一文解读Coinbase L2的机会]]></title>
-        <id>https://www.theblockbeats.info/news/35020</id>
-        <link href="https://www.theblockbeats.info/news/35020"/>
-        <updated>2023-02-25T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[在可预见的未来，Base除了成为一个金钱陷阱之外，几乎不可能再充当任何角色。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

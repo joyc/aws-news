@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35074",
+          "author": null,
+          "description": "Solidly的分叉出现在了各条EVM链上，且取得了不错的流动性，它们的发展是否健康呢？",
+          "link": "https://www.theblockbeats.info/news/35074",
+          "publishedOn": "2023-02-27T14:00:01.000Z",
+          "wordCount": null,
+          "title": "5个ve(3,3)类项目对比与现状：Velodrome、Equalizer、Thena等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35077",
+          "author": null,
+          "description": "Obol 宣布了 Mainnet Ethereum 第一个分布式验证器的发布，Obol 认为这标志着以太坊的质押新篇章，一个对所有验证者和质押者都更加安全、有弹性和去中心化的新篇章。",
+          "link": "https://www.theblockbeats.info/news/35077",
+          "publishedOn": "2023-02-27T11:18:43.000Z",
+          "wordCount": null,
+          "title": "LSD赛道新玩家：Obol Network如何借助DVT开启以太坊质押新篇章？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35076",
+          "author": null,
+          "description": "比特币生态起风了吗？",
+          "link": "https://www.theblockbeats.info/news/35076",
+          "publishedOn": "2023-02-27T10:59:27.000Z",
+          "wordCount": null,
+          "title": "STX领涨，比特币的生态Summer要来了吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35071",
           "author": null,
           "description": "原文作者：加密 KOL@thedefiedge\n原文编译：daiwa，Doria，czgsws，0x214，Noc\n\n\n想找到下一个 10 倍项目？你完全可以使用免费的 DefiLlama 来轻松找到，这是一个 2023 年自主寻找「Gem」的详细步骤指南：（包括鲜为人知的功能）\n\n\n寻找你自己的 alpha\n\n\n如果你继续依赖其他人获得 alpha，你终将为别人接盘，不要被困在食物链的底部。我将在这里分享一些使用 DefiLlama 的技术。\n\n\n公链的流动性牵引效应\n\n\n想象一下你正在购买房地产，你首先一定会查看哪些是备受关注的一线热门城市，这一样是你看待每个生态系统时应有的态度。BNB 曾一度火爆，但任何资金热点都是在不断变化的，你需要参与金钱扎堆的链。\n\n\n公链 TVL 的增长\n\n\n 一个简单的指标是 TVL 增长百分比。\n\n\n1) 点击 DeFi，选择 Chains \n2) 查看 7 日和 1 个月指标——你会发现只有 Arbitrum 和 Optimism 在增长。这对任何人来说都不足为奇，因为我们正处于 ETH Layer 2 season。\n\n\n\n\n\n想要获取更多？\n我个人更喜欢选择排名前 10 位的链，但如果你想获取更多内容，你可以把向下拖拽。在下面再次寻找 TVL 有异常增长的公链。\n从一个月的增长来看：Canto、Cardano、Metis 和 NEO 也不错。\n\n\n\n\n\n稳定币流入 我已经确定了一些具有总锁仓价值（TVL）吸引力的链，但这并不能说明全部情况。一个被低估的指标是稳定币流入——它显示了新资金桥接到生态系统中，这才是真正的增长。\n\n\n点击 Stables，选择 Chains。\n\n\n虽然 Optimism 具有总锁仓价值吸引力，但他们的稳定币流入是负的。Arbitrum 总锁仓价值增量为正，稳定币流入也为正，Arbitrum 比起 Optim…",
@@ -103,36 +133,6 @@
           "publishedOn": "2023-02-26T02:31:13.000Z",
           "wordCount": null,
           "title": "North Rock Digital：为什么BTC L2 Stacks值得投资？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35042",
-          "author": null,
-          "description": "Optimism正在建立一个完全开源的rollup链生态系统，而OP Stack是建立这个愿景的基础。",
-          "link": "https://www.theblockbeats.info/news/35042",
-          "publishedOn": "2023-02-25T06:00:01.000Z",
-          "wordCount": null,
-          "title": "探讨OP Stack：Optimism对模块化扩展的愿景",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35044",
-          "author": null,
-          "description": "游戏可以让我们得以从现实生活中脱离出来，并在社区中找到归属感。",
-          "link": "https://www.theblockbeats.info/news/35044",
-          "publishedOn": "2023-02-25T04:15:52.000Z",
-          "wordCount": null,
-          "title": "游戏在数字资产生态系统中的潜力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35020",
-          "author": null,
-          "description": "在可预见的未来，Base除了成为一个金钱陷阱之外，几乎不可能再充当任何角色。",
-          "link": "https://www.theblockbeats.info/news/35020",
-          "publishedOn": "2023-02-25T01:00:02.000Z",
-          "wordCount": null,
-          "title": "Bankless：一文解读Coinbase L2的机会",
           "imageUrl": null
         }
       ]
