@@ -6,6 +6,106 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35097",
+          "author": null,
+          "description": "2 月 28 日，Yuga Labs 宣布将于本周晚些时候基于 Ordinal 协议在比特币区块链上推出 NFT 系列 TwelveFold，该系列将包含 300 件限量版生成艺术作品。Yuga Labs 联合创始人 Greg Solano 特意强调，选择推出 TwelveFold 虽然与 Yuga Labs 的预期背道而驰，但 Yuga Labs 对 Ordinal 铭文以及比特币数字艺术品的未来感到兴奋。\n\n\n\n\n作为以太坊 NFT 生态中最具影响力的工作室，Yuga Labs 的这一决定再度掀起了比特币网络 NFT 的热潮，为了让大家更好参与比特币 NFT 生态，BlockBeats 将目前比特币 NFT 生态主要的工具，包括钱包、铸币以及交易平台等梳理如下。\n\n\n\n\n生态钱包 \n\n\nOrdinals Wallet\n\n\nOrdinals 协议生态圈钱包，专为 Ordinals 开发的网页钱包和铭文浏览器，除基础的钱包功能外，还支持比特币 NFT 铭文浏览、检索、Collection 上传等功能，完成度较高，目前仍在不断更新中。\n\n\n\n\n此外，Ordinals Wallet 还在近日进行了名为「Pixel Pepes」的 NFT 空投，总数 1563 枚，用户只需在钱包中进行一次交易即可获得空投，但目前该空投已经结束。\n\n\n\n\nHiro Wallet\n\n\n\n\nHiro Wallet 是一个基于比特币构建的钱包应用程序，目前已经支持 Ordinals，暂不支持闪电网络。\n\n\n\n\n\n\n\n\n\n值得注意的是，Hiro Wallet 作为比特币生态钱包，拥有很多较为方便的内置功能，用户可以在 Hiro Wallet 内直接使用信用卡、借记卡甚至银行转账购买 STX，然后在钱包内直接参与质押。\n\n\n\n\n目前该钱包支持 Chrome、Firefox、Brave 的浏览器拓展版本，以及…",
+          "link": "https://www.theblockbeats.info/news/35097",
+          "publishedOn": "2023-02-28T11:01:08.000Z",
+          "wordCount": null,
+          "title": "比特币NFT生态实用工具一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35093",
+          "author": null,
+          "description": "为什么我们长期关注且看好LSD相关生态？",
+          "link": "https://www.theblockbeats.info/news/35093",
+          "publishedOn": "2023-02-28T10:38:36.000Z",
+          "wordCount": null,
+          "title": "LSD套娃战争再升级：不仅要有流动性，还要追求高收益",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35095",
+          "author": null,
+          "description": "Jump Crypto 追回被盗资产，却开创了一个糟糕的先例。",
+          "link": "https://www.theblockbeats.info/news/35095",
+          "publishedOn": "2023-02-28T10:16:51.000Z",
+          "wordCount": null,
+          "title": "由Oasis事件谈Maker的抗监管策略",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35092",
+          "author": null,
+          "description": "在去中心化的区块链金融中，用户同样也需要专业的区块链基金经理",
+          "link": "https://www.theblockbeats.info/news/35092",
+          "publishedOn": "2023-02-28T08:52:55.000Z",
+          "wordCount": null,
+          "title": "DeFund Protocol：替代 CeFi 的去中心化「链上基金」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35091",
+          "author": null,
+          "description": "在基础设施不完善的情况下如何成功启动一个比特币NFT项目？ Loot 核心骨干Tim Shel的新项目Chainspace 告诉你答案。",
+          "link": "https://www.theblockbeats.info/news/35091",
+          "publishedOn": "2023-02-28T08:41:07.000Z",
+          "wordCount": null,
+          "title": "比特币NFT新项目Chainspace：Loot核心Tim Shel的新作品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35087",
+          "author": null,
+          "description": "马斯克最近几周与人工智能研究人员接触，希望组建一个新的研究实验室，开发OpenAI的ChatGPT的替代方案。",
+          "link": "https://www.theblockbeats.info/news/35087",
+          "publishedOn": "2023-02-28T08:00:01.000Z",
+          "wordCount": null,
+          "title": "马斯克：OpenAI发展与初衷背道而驰，计划开发ChatGPT替代品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35089",
+          "author": null,
+          "description": "「Curvance打开了更深层次的DeFi市场，或将成为DeFi协议之争的中心战场」",
+          "link": "https://www.theblockbeats.info/news/35089",
+          "publishedOn": "2023-02-28T07:08:14.000Z",
+          "wordCount": null,
+          "title": "Curvance：解锁更深层DeFi市场的去中心化稳定币借贷协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35088",
+          "author": null,
+          "description": "ZKP为跨链通信提供了一种全新的方式。",
+          "link": "https://www.theblockbeats.info/news/35088",
+          "publishedOn": "2023-02-28T07:00:01.000Z",
+          "wordCount": null,
+          "title": "IOSG：ZK跨链通信协议——安全低成本构建全链DApp的未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35085",
+          "author": null,
+          "description": "测试网Wave 2多项数据表现远超Wave 1，并在大型交易、类型参数输入和共识延迟方面进行了改进。",
+          "link": "https://www.theblockbeats.info/news/35085",
+          "publishedOn": "2023-02-28T06:45:26.000Z",
+          "wordCount": null,
+          "title": "Sui测试网Wave 2官方回顾透露了哪些关键信息？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35086",
+          "author": null,
+          "description": "用户体验是许多以太坊用户（尤其是南半球用户）经常选择中心化解决方案而不是链上去中心化替代方案的关键原因。",
+          "link": "https://www.theblockbeats.info/news/35086",
+          "publishedOn": "2023-02-28T06:15:28.000Z",
+          "wordCount": null,
+          "title": "V神谈加密支付：总结5次经验教训后，以太坊该怎么做？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35067",
           "author": null,
           "description": "Lens Protocol本身不是一个前端的产品，而是一个中后端的协议服务层。",
