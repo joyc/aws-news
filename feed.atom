@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-28T00:39:49.557Z</updated>
+    <updated>2023-02-28T06:10:52.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BuidlerDAO & SevenX：Lens Protocol万字深研报告]]></title>
+        <id>https://www.theblockbeats.info/news/35067</id>
+        <link href="https://www.theblockbeats.info/news/35067"/>
+        <updated>2023-02-28T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Lens Protocol本身不是一个前端的产品，而是一个中后端的协议服务层。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5个ve(3,3)类项目对比与现状：Velodrome、Equalizer、Thena等]]></title>
         <id>https://www.theblockbeats.info/news/35074</id>

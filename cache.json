@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35067",
+          "author": null,
+          "description": "Lens Protocol本身不是一个前端的产品，而是一个中后端的协议服务层。",
+          "link": "https://www.theblockbeats.info/news/35067",
+          "publishedOn": "2023-02-28T01:30:01.000Z",
+          "wordCount": null,
+          "title": "BuidlerDAO & SevenX：Lens Protocol万字深研报告",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35074",
           "author": null,
           "description": "Solidly的分叉出现在了各条EVM链上，且取得了不错的流动性，它们的发展是否健康呢？",
