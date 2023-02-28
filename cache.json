@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35094",
+          "author": null,
+          "description": "在所有Web3游戏厂商都在不断为自己的Metaverse添砖加瓦时，什么会变成NFT游戏「以小搏大」的法宝呢？",
+          "link": "https://www.theblockbeats.info/news/35094",
+          "publishedOn": "2023-02-28T14:00:01.000Z",
+          "wordCount": null,
+          "title": "Dookey Dash ：Yuga Labs的街机游戏，以小搏大的增长式营销",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35098",
+          "author": null,
+          "description": "此次空投将持续10天，每天释放20万枚GDX",
+          "link": "https://www.theblockbeats.info/news/35098",
+          "publishedOn": "2023-02-28T11:10:48.000Z",
+          "wordCount": null,
+          "title": "Gridex Protocol将于3月1日上线Arbitrum并开启第二轮空投",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35097",
           "author": null,
           "description": "2 月 28 日，Yuga Labs 宣布将于本周晚些时候基于 Ordinal 协议在比特币区块链上推出 NFT 系列 TwelveFold，该系列将包含 300 件限量版生成艺术作品。Yuga Labs 联合创始人 Greg Solano 特意强调，选择推出 TwelveFold 虽然与 Yuga Labs 的预期背道而驰，但 Yuga Labs 对 Ordinal 铭文以及比特币数字艺术品的未来感到兴奋。\n\n\n\n\n作为以太坊 NFT 生态中最具影响力的工作室，Yuga Labs 的这一决定再度掀起了比特币网络 NFT 的热潮，为了让大家更好参与比特币 NFT 生态，BlockBeats 将目前比特币 NFT 生态主要的工具，包括钱包、铸币以及交易平台等梳理如下。\n\n\n\n\n生态钱包 \n\n\nOrdinals Wallet\n\n\nOrdinals 协议生态圈钱包，专为 Ordinals 开发的网页钱包和铭文浏览器，除基础的钱包功能外，还支持比特币 NFT 铭文浏览、检索、Collection 上传等功能，完成度较高，目前仍在不断更新中。\n\n\n\n\n此外，Ordinals Wallet 还在近日进行了名为「Pixel Pepes」的 NFT 空投，总数 1563 枚，用户只需在钱包中进行一次交易即可获得空投，但目前该空投已经结束。\n\n\n\n\nHiro Wallet\n\n\n\n\nHiro Wallet 是一个基于比特币构建的钱包应用程序，目前已经支持 Ordinals，暂不支持闪电网络。\n\n\n\n\n\n\n\n\n\n值得注意的是，Hiro Wallet 作为比特币生态钱包，拥有很多较为方便的内置功能，用户可以在 Hiro Wallet 内直接使用信用卡、借记卡甚至银行转账购买 STX，然后在钱包内直接参与质押。\n\n\n\n\n目前该钱包支持 Chrome、Firefox、Brave 的浏览器拓展版本，以及…",
@@ -233,16 +253,6 @@
           "publishedOn": "2023-02-26T07:57:32.000Z",
           "wordCount": null,
           "title": "周末荐读：Coinbase新链Base首批合作伙伴名单；Optimism生态热门项目梳理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35045",
-          "author": null,
-          "description": "STX 是目前最完备的 BTC 二层，同时也是 BTC 二层中唯一流通 Token 项目。",
-          "link": "https://www.theblockbeats.info/news/35045",
-          "publishedOn": "2023-02-26T02:31:13.000Z",
-          "wordCount": null,
-          "title": "North Rock Digital：为什么BTC L2 Stacks值得投资？",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-28T12:14:20.733Z</updated>
+    <updated>2023-02-28T18:10:19.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dookey Dash ：Yuga Labs的街机游戏，以小搏大的增长式营销]]></title>
+        <id>https://www.theblockbeats.info/news/35094</id>
+        <link href="https://www.theblockbeats.info/news/35094"/>
+        <updated>2023-02-28T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[在所有Web3游戏厂商都在不断为自己的Metaverse添砖加瓦时，什么会变成NFT游戏「以小搏大」的法宝呢？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridex Protocol将于3月1日上线Arbitrum并开启第二轮空投]]></title>
+        <id>https://www.theblockbeats.info/news/35098</id>
+        <link href="https://www.theblockbeats.info/news/35098"/>
+        <updated>2023-02-28T11:10:48.000Z</updated>
+        <summary type="html"><![CDATA[此次空投将持续10天，每天释放20万枚GDX]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币NFT生态实用工具一览]]></title>
         <id>https://www.theblockbeats.info/news/35097</id>
@@ -324,16 +344,6 @@ Hiro Wallet 是一个基于比特币构建的钱包应用程序，目前已经�
         <link href="https://www.theblockbeats.info/news/35047"/>
         <updated>2023-02-26T07:57:32.000Z</updated>
         <summary type="html"><![CDATA[重温本周热点：Coinbase 为什么要建立新 Layer2 网络 Base？明牌空投的 Binance 系 HALO，该如何交互？对话 Blur 创始人 Pacman：我们就是要提高 NFT 市场流动性]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Rock Digital：为什么BTC L2 Stacks值得投资？]]></title>
-        <id>https://www.theblockbeats.info/news/35045</id>
-        <link href="https://www.theblockbeats.info/news/35045"/>
-        <updated>2023-02-26T02:31:13.000Z</updated>
-        <summary type="html"><![CDATA[STX 是目前最完备的 BTC 二层，同时也是 BTC 二层中唯一流通 Token 项目。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
