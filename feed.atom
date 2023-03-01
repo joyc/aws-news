@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-01T12:14:42.659Z</updated>
+    <updated>2023-03-01T18:10:10.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在ZkEVM主网启动之际，哪些Polygon生态项目值得关注和布局？]]></title>
+        <id>https://www.theblockbeats.info/news/35142</id>
+        <link href="https://www.theblockbeats.info/news/35142"/>
+        <updated>2023-03-01T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Polygon的zkEVM主网即将启动，现在是时候探索Polygon上最有趣的项目了。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密做市商如何「操纵」市场？]]></title>
+        <id>https://www.theblockbeats.info/news/35130</id>
+        <link href="https://www.theblockbeats.info/news/35130"/>
+        <updated>2023-03-01T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[做市商是如何操纵加密货币市场的？为什么暴涨暴跌的背后都有他们的身影？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三月加密市场都有哪些重要事件值得关注？]]></title>
         <id>https://www.theblockbeats.info/news/35129</id>
@@ -414,36 +434,6 @@ Hiro Wallet 是一个基于比特币构建的钱包应用程序，目前已经�
         <link href="https://www.theblockbeats.info/news/35066"/>
         <updated>2023-02-27T07:05:41.000Z</updated>
         <summary type="html"><![CDATA[项目、资本和公链都密集的在应用链领域做出行动。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa加密负责人：波场网络支付数据长期领先以太坊生态]]></title>
-        <id>https://www.theblockbeats.info/news/35050</id>
-        <link href="https://www.theblockbeats.info/news/35050"/>
-        <updated>2023-02-27T05:37:27.000Z</updated>
-        <summary type="html"><![CDATA[Tron的主导地位可能令某些西方人感到惊讶，但它似乎已经在新兴市场得到广泛采用。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism资金提现到以太坊主网，为何需要7天挑战期？]]></title>
-        <id>https://www.theblockbeats.info/news/35049</id>
-        <link href="https://www.theblockbeats.info/news/35049"/>
-        <updated>2023-02-27T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[为什么偏偏是7天呢？3天？5天不行吗？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊基金会Danny Ryan：详析以太坊2023年的关键问题]]></title>
-        <id>https://www.theblockbeats.info/news/35048</id>
-        <link href="https://www.theblockbeats.info/news/35048"/>
-        <updated>2023-02-27T03:03:21.000Z</updated>
-        <summary type="html"><![CDATA[简而言之，以太坊比以往任何时候都更强大。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
