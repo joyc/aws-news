@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35099",
+          "author": null,
+          "description": "xPortal旨在将数字金融、货币和加密技术与端到端加密消息和AI Avatar等社交功能无缝集成，同时提供Web3应用和元宇宙体验门户",
+          "link": "https://www.theblockbeats.info/news/35099",
+          "publishedOn": "2023-02-28T18:00:01.000Z",
+          "wordCount": null,
+          "title": "MultiversX Labs推出Web3元宇宙体验门户xPortal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35094",
           "author": null,
           "description": "在所有Web3游戏厂商都在不断为自己的Metaverse添砖加瓦时，什么会变成NFT游戏「以小搏大」的法宝呢？",
@@ -243,16 +253,6 @@
           "publishedOn": "2023-02-27T03:03:21.000Z",
           "wordCount": null,
           "title": "以太坊基金会Danny Ryan：详析以太坊2023年的关键问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35047",
-          "author": null,
-          "description": "重温本周热点：Coinbase 为什么要建立新 Layer2 网络 Base？明牌空投的 Binance 系 HALO，该如何交互？对话 Blur 创始人 Pacman：我们就是要提高 NFT 市场流动性",
-          "link": "https://www.theblockbeats.info/news/35047",
-          "publishedOn": "2023-02-26T07:57:32.000Z",
-          "wordCount": null,
-          "title": "周末荐读：Coinbase新链Base首批合作伙伴名单；Optimism生态热门项目梳理",
           "imageUrl": null
         }
       ]

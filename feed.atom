@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-02-28T18:10:19.228Z</updated>
+    <updated>2023-03-01T00:44:25.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MultiversX Labs推出Web3元宇宙体验门户xPortal]]></title>
+        <id>https://www.theblockbeats.info/news/35099</id>
+        <link href="https://www.theblockbeats.info/news/35099"/>
+        <updated>2023-02-28T18:00:01.000Z</updated>
+        <summary type="html"><![CDATA[xPortal旨在将数字金融、货币和加密技术与端到端加密消息和AI Avatar等社交功能无缝集成，同时提供Web3应用和元宇宙体验门户]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dookey Dash ：Yuga Labs的街机游戏，以小搏大的增长式营销]]></title>
         <id>https://www.theblockbeats.info/news/35094</id>
@@ -334,16 +344,6 @@ Hiro Wallet 是一个基于比特币构建的钱包应用程序，目前已经�
         <link href="https://www.theblockbeats.info/news/35048"/>
         <updated>2023-02-27T03:03:21.000Z</updated>
         <summary type="html"><![CDATA[简而言之，以太坊比以往任何时候都更强大。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：Coinbase新链Base首批合作伙伴名单；Optimism生态热门项目梳理]]></title>
-        <id>https://www.theblockbeats.info/news/35047</id>
-        <link href="https://www.theblockbeats.info/news/35047"/>
-        <updated>2023-02-26T07:57:32.000Z</updated>
-        <summary type="html"><![CDATA[重温本周热点：Coinbase 为什么要建立新 Layer2 网络 Base？明牌空投的 Binance 系 HALO，该如何交互？对话 Blur 创始人 Pacman：我们就是要提高 NFT 市场流动性]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
