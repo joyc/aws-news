@@ -6,6 +6,106 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35200",
+          "author": null,
+          "description": "ETH Staking的进一步发展可能有助于推动其他DeFi领域的增长，因为参与ETH质押的投资者希望通过质押的ETH来获得更多的收益",
+          "link": "https://www.theblockbeats.info/news/35200",
+          "publishedOn": "2023-03-02T10:12:31.000Z",
+          "wordCount": null,
+          "title": "ETH Staking的崛起或将推动DeFi复兴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35199",
+          "author": null,
+          "description": "Towns 团队认为，在过去的十年里互联网的用户像是一群“租客”，聚集的数字城镇广场一直被“房东”拥有的围墙花园所困住。Towns希望通过去中心化和 web3 创建一个数字城镇广场，成员可以在其中定义边界、制定规则并建立他们想要的世界，用户将成为数字城镇广场的主人，并对自己所在的在线社区有一种真正的归属感。",
+          "link": "https://www.theblockbeats.info/news/35199",
+          "publishedOn": "2023-03-02T09:52:24.000Z",
+          "wordCount": null,
+          "title": "社交通信协议Towns：a16z下注2250万美元的赛道新贵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35146",
+          "author": null,
+          "description": "空投仅仅是短期促进增长的途径，$BLUR并不是Blur市场的救世主，其仅仅是Blur平台价值Token化的价值符号。",
+          "link": "https://www.theblockbeats.info/news/35146",
+          "publishedOn": "2023-03-02T09:00:02.000Z",
+          "wordCount": null,
+          "title": "全面剖析Blur发展史，超越OpenSea后如何获得长期成功？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35183",
+          "author": null,
+          "description": "在允许跨链之前，所有跨链到Base的资金都需要Coinbase（KYC）的身份验证吗？",
+          "link": "https://www.theblockbeats.info/news/35183",
+          "publishedOn": "2023-03-02T08:23:30.000Z",
+          "wordCount": null,
+          "title": "使用Coinbase推出的Layer2网络Base，到底需不需要KYC？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35180",
+          "author": null,
+          "description": "「找寻属于自己的Alpha」",
+          "link": "https://www.theblockbeats.info/news/35180",
+          "publishedOn": "2023-03-02T07:07:00.000Z",
+          "wordCount": null,
+          "title": "加密研究员近期关注的5个新项目一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35178",
+          "author": null,
+          "description": "从融资规模、Gas费用及吞吐量、DeFi生态系统等对比两大热门Layer2协议",
+          "link": "https://www.theblockbeats.info/news/35178",
+          "publishedOn": "2023-03-02T06:57:08.000Z",
+          "wordCount": null,
+          "title": "多角度对比Optimism与Arbitrum，谁将笑到最后？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35177",
+          "author": null,
+          "description": "2月21日—3月8日为本轮社区二次方投票阶段。",
+          "link": "https://www.theblockbeats.info/news/35177",
+          "publishedOn": "2023-03-02T06:18:49.000Z",
+          "wordCount": null,
+          "title": "Aptos Grant DAO第二轮25个入选项目速览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35176",
+          "author": null,
+          "description": "基于LayerZero底层跨链技术实现的OFT与ONFT，将给行业的创新带来新的可能。",
+          "link": "https://www.theblockbeats.info/news/35176",
+          "publishedOn": "2023-03-02T06:16:04.000Z",
+          "wordCount": null,
+          "title": "Omnichain Token：万链合一时代的新通证标准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35147",
+          "author": null,
+          "description": "担心上海升级后LSD收益下降？简述LSD暗藏的「七重收益」。",
+          "link": "https://www.theblockbeats.info/news/35147",
+          "publishedOn": "2023-03-02T05:27:47.000Z",
+          "wordCount": null,
+          "title": "上海升级后，LSD收益如何实现「叠buff」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34786",
+          "author": null,
+          "description": "ETHDenver分为BUIDLWeek和黑客马拉松，是全球规模最大，持续时间最长的以太坊线下活动",
+          "link": "https://www.theblockbeats.info/news/34786",
+          "publishedOn": "2023-03-02T04:26:29.000Z",
+          "wordCount": null,
+          "title": "【3月2日更新】ETHDenver 2023（以太坊丹佛大会）开幕，大会议程，新闻追踪报道",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35152",
           "author": null,
           "description": "原文来源：BitKeep\n\n\n\n\n\n今年以来，Layer2 赛道表现亮眼，随着行情的回暖，Arbitrum、Polygon、Optimism 生态中币价、TVL 都取得了不错的成绩。其中，Arbitrum 在 Layer2 中 TVL 最大，占全网 3% 的份额，占 Layer2 中近 50%。过去一年来，Arbitrum 展现出非常强的运营和生态能力，技术不断升级，启动双链 Arbitrum Nova 和 Arbitrum One，推出新的编程环境 Stylus；奥德赛第一周活动的爆火也让生态项目获得了巨大的关注。长期来看，ZK Rollups 有更多的技术突破性，V 神此前也提出，ZK 会成为主要的 Layer2 方案。\n\n\n\n\n如何能搭上 Arbitrum 的列车，把握 Layer2 后续发展的红利，是很多加密投资者和爱好者颇为关心的问题。\n\n\n\n\nBitKeep 对 Arbitrum 生态有着非常完整的支持，作为亚洲最大的「多链钱包」，BitKeep 一直在做的事不仅仅是接入公链，从 DApp 生态聚合、链上资产兑换、行情数据分析、NFT 交易市场等多个维度，对各个生态进行全方位的资源扶持与流量曝光，也为用户提供了开放的生态平台，一站式全流程体验 Web3。\n\n\n\n\n3 月 1 日，BitKeep 启动 Arbitrum 生态月「Arbitrum Argonaut」，推出 Arbitrum 期货空投，为用户提前锁定未来 Arbitrum 官方Token兑换资格；BitKeep NFT 市场还向 Arbitrum 生态提供免手续费交易及挂单补贴。同时，BitKeep 已与 Arbitrum 头部协议 GMX、Gains Network、Dopex、Zyberswap 等达成合作，在 BitKeep DApp 集成协议，BitKeep Swap 支持Token单链、多链…",

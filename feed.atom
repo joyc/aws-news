@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-02T06:11:07.015Z</updated>
+    <updated>2023-03-02T12:14:05.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Staking的崛起或将推动DeFi复兴]]></title>
+        <id>https://www.theblockbeats.info/news/35200</id>
+        <link href="https://www.theblockbeats.info/news/35200"/>
+        <updated>2023-03-02T10:12:31.000Z</updated>
+        <summary type="html"><![CDATA[ETH Staking的进一步发展可能有助于推动其他DeFi领域的增长，因为参与ETH质押的投资者希望通过质押的ETH来获得更多的收益]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交通信协议Towns：a16z下注2250万美元的赛道新贵]]></title>
+        <id>https://www.theblockbeats.info/news/35199</id>
+        <link href="https://www.theblockbeats.info/news/35199"/>
+        <updated>2023-03-02T09:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Towns 团队认为，在过去的十年里互联网的用户像是一群“租客”，聚集的数字城镇广场一直被“房东”拥有的围墙花园所困住。Towns希望通过去中心化和 web3 创建一个数字城镇广场，成员可以在其中定义边界、制定规则并建立他们想要的世界，用户将成为数字城镇广场的主人，并对自己所在的在线社区有一种真正的归属感。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全面剖析Blur发展史，超越OpenSea后如何获得长期成功？]]></title>
+        <id>https://www.theblockbeats.info/news/35146</id>
+        <link href="https://www.theblockbeats.info/news/35146"/>
+        <updated>2023-03-02T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[空投仅仅是短期促进增长的途径，$BLUR并不是Blur市场的救世主，其仅仅是Blur平台价值Token化的价值符号。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Coinbase推出的Layer2网络Base，到底需不需要KYC？]]></title>
+        <id>https://www.theblockbeats.info/news/35183</id>
+        <link href="https://www.theblockbeats.info/news/35183"/>
+        <updated>2023-03-02T08:23:30.000Z</updated>
+        <summary type="html"><![CDATA[在允许跨链之前，所有跨链到Base的资金都需要Coinbase（KYC）的身份验证吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密研究员近期关注的5个新项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/35180</id>
+        <link href="https://www.theblockbeats.info/news/35180"/>
+        <updated>2023-03-02T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[「找寻属于自己的Alpha」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多角度对比Optimism与Arbitrum，谁将笑到最后？]]></title>
+        <id>https://www.theblockbeats.info/news/35178</id>
+        <link href="https://www.theblockbeats.info/news/35178"/>
+        <updated>2023-03-02T06:57:08.000Z</updated>
+        <summary type="html"><![CDATA[从融资规模、Gas费用及吞吐量、DeFi生态系统等对比两大热门Layer2协议]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos Grant DAO第二轮25个入选项目速览]]></title>
+        <id>https://www.theblockbeats.info/news/35177</id>
+        <link href="https://www.theblockbeats.info/news/35177"/>
+        <updated>2023-03-02T06:18:49.000Z</updated>
+        <summary type="html"><![CDATA[2月21日—3月8日为本轮社区二次方投票阶段。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichain Token：万链合一时代的新通证标准]]></title>
+        <id>https://www.theblockbeats.info/news/35176</id>
+        <link href="https://www.theblockbeats.info/news/35176"/>
+        <updated>2023-03-02T06:16:04.000Z</updated>
+        <summary type="html"><![CDATA[基于LayerZero底层跨链技术实现的OFT与ONFT，将给行业的创新带来新的可能。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海升级后，LSD收益如何实现「叠buff」？]]></title>
+        <id>https://www.theblockbeats.info/news/35147</id>
+        <link href="https://www.theblockbeats.info/news/35147"/>
+        <updated>2023-03-02T05:27:47.000Z</updated>
+        <summary type="html"><![CDATA[担心上海升级后LSD收益下降？简述LSD暗藏的「七重收益」。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3月2日更新】ETHDenver 2023（以太坊丹佛大会）开幕，大会议程，新闻追踪报道]]></title>
+        <id>https://www.theblockbeats.info/news/34786</id>
+        <link href="https://www.theblockbeats.info/news/34786"/>
+        <updated>2023-03-02T04:26:29.000Z</updated>
+        <summary type="html"><![CDATA[ETHDenver分为BUIDLWeek和黑客马拉松，是全球规模最大，持续时间最长的以太坊线下活动]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Argonaut启航，与BitKeep一起抓住Arbitrum机会]]></title>
         <id>https://www.theblockbeats.info/news/35152</id>
