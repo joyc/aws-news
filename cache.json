@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35182",
+          "author": null,
+          "description": "如果你想要拥有一个最抗审查，最去中心化的美元稳定币， LUSD或许是不二之选。",
+          "link": "https://www.theblockbeats.info/news/35182",
+          "publishedOn": "2023-03-02T14:00:01.000Z",
+          "wordCount": null,
+          "title": "LQTY深度用户亲述：LUSD是顶级DeFi稳定币，却面临扩张之殇",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35200",
           "author": null,
           "description": "ETH Staking的进一步发展可能有助于推动其他DeFi领域的增长，因为参与ETH质押的投资者希望通过质押的ETH来获得更多的收益",
@@ -393,16 +403,6 @@
           "publishedOn": "2023-02-28T06:15:28.000Z",
           "wordCount": null,
           "title": "V神谈加密支付：总结5次经验教训后，以太坊该怎么做？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35067",
-          "author": null,
-          "description": "Lens Protocol本身不是一个前端的产品，而是一个中后端的协议服务层。",
-          "link": "https://www.theblockbeats.info/news/35067",
-          "publishedOn": "2023-02-28T01:30:01.000Z",
-          "wordCount": null,
-          "title": "BuidlerDAO & SevenX：Lens Protocol万字深研报告",
           "imageUrl": null
         }
       ]

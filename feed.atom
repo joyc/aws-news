@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-02T12:14:05.429Z</updated>
+    <updated>2023-03-02T18:10:40.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LQTY深度用户亲述：LUSD是顶级DeFi稳定币，却面临扩张之殇]]></title>
+        <id>https://www.theblockbeats.info/news/35182</id>
+        <link href="https://www.theblockbeats.info/news/35182"/>
+        <updated>2023-03-02T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[如果你想要拥有一个最抗审查，最去中心化的美元稳定币， LUSD或许是不二之选。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Staking的崛起或将推动DeFi复兴]]></title>
         <id>https://www.theblockbeats.info/news/35200</id>
@@ -605,16 +615,6 @@ Hiro Wallet 是一个基于比特币构建的钱包应用程序，目前已经�
         <link href="https://www.theblockbeats.info/news/35086"/>
         <updated>2023-02-28T06:15:28.000Z</updated>
         <summary type="html"><![CDATA[用户体验是许多以太坊用户（尤其是南半球用户）经常选择中心化解决方案而不是链上去中心化替代方案的关键原因。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuidlerDAO & SevenX：Lens Protocol万字深研报告]]></title>
-        <id>https://www.theblockbeats.info/news/35067</id>
-        <link href="https://www.theblockbeats.info/news/35067"/>
-        <updated>2023-02-28T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Lens Protocol本身不是一个前端的产品，而是一个中后端的协议服务层。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
