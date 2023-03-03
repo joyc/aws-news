@@ -6,6 +6,76 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35209",
+          "author": null,
+          "description": "推演比特币NFT该如何实现和其价值。",
+          "link": "https://www.theblockbeats.info/news/35209",
+          "publishedOn": "2023-03-03T09:00:02.000Z",
+          "wordCount": null,
+          "title": "聊聊比特币NFT是什么，怎么实现，有什么价值？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35211",
+          "author": null,
+          "description": "加密市场对Silvergate的信心似乎已被磨平。",
+          "link": "https://www.theblockbeats.info/news/35211",
+          "publishedOn": "2023-03-03T08:00:01.000Z",
+          "wordCount": null,
+          "title": "墙倒众人推？加密行业正在抛弃Silvergate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35215",
+          "author": null,
+          "description": "除了Bicasso，加密市场中还有哪些聚焦生成式AI的平台？",
+          "link": "https://www.theblockbeats.info/news/35215",
+          "publishedOn": "2023-03-03T07:37:42.000Z",
+          "wordCount": null,
+          "title": "Binance推出的Bicasso大火背后，还有哪些NFT项目正展开生成式AI叙事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35210",
+          "author": null,
+          "description": "Paradigm首席技术官Georgios Konstantopoulos在ETHDenver期间分享六个潜力项目。",
+          "link": "https://www.theblockbeats.info/news/35210",
+          "publishedOn": "2023-03-03T06:28:13.000Z",
+          "wordCount": null,
+          "title": "Paradigm首席技术官：ETHDenver 2023中值得关注的6个项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35208",
+          "author": null,
+          "description": "「持续的借短贷长导致Silvergate的暴雷」",
+          "link": "https://www.theblockbeats.info/news/35208",
+          "publishedOn": "2023-03-03T05:04:58.000Z",
+          "wordCount": null,
+          "title": "Silvergate与加密有什么关系？暴雷的原因是什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35207",
+          "author": null,
+          "description": "多点共振，空军发难",
+          "link": "https://www.theblockbeats.info/news/35207",
+          "publishedOn": "2023-03-03T04:17:13.000Z",
+          "wordCount": null,
+          "title": "加密市场一夜缩水600亿美元，还有新雷？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35206",
+          "author": null,
+          "description": "从地板价「画门」到「NFT 史上最大砸盘」，我们不禁重新审视当前NFT市场的流动性究竟是来自机制创新的增量，还是存量资金的内卷滚动？",
+          "link": "https://www.theblockbeats.info/news/35206",
+          "publishedOn": "2023-03-03T03:46:26.000Z",
+          "wordCount": null,
+          "title": "1900万美元砸穿整个NFT市场，重新审视Blur带来的流动性",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35198",
           "author": null,
           "description": "原文标题：《Nouns DAO and the Philosophy of Governance》\n原文作者：0xBobateas\n原文编译：元宇宙特攻队\n\n\nNouns DAO，这个成立一年多的 NFT DAO，年初起在中文币圈里获得越来越多的关注和探讨。今天，M7e 元宇宙特攻队翻译 2 月 27 日发表在《斯坦福区块链评论》的本文，以飨读者。\n\n\n\n\n1 简介\n\n\n\n\n用哲学的方法来处理加密货币治理的当代问题，值得解释一下。与我们许多前辈不同，如今哲学家们不再向世界宣布理想中应该发生什么。我们已经变得谦虚。我们不再寻找人类活动的普遍规律，而且我们清楚地认识到，对过去的理解，也许是过去本身，会随着哲学家的观点发生反身性的变化。但问题仍然存在：任何共识机制或并行执行引擎的创新都无法动摇人心。要真正理解 Web3 的影响，我们必须首先理解人类。而要理解人类，我们必须首先理解我们的过去。\n\n\n\n\n诚然，任何先前的经验，无论多么丰富，以及任何历史研究，无论多么彻底，都不能替当前巡游元宇宙的一代省去自己找到答案的创造性任务。然而，知识史的启发性比许多加密纯粹论者所认为的要强。通过对 Nouns DAO 的自治原则和机制进行案例研究，我将试图用哲学的角度来研究 Nouns DAO 对公民社会、社区和 Web3 时代治理的影响。\n\n\n我的结论是，NFT 项目未来的任务是参与一个艰苦的世界建设过程，将意义和象征主义放在这些 JPEG（译注：像素图片文件格式之一，在 NFT 领域俗称「小图片」）背后，使其能够培育一种自我维持的团结、认同和民主责任感。毕竟，治理是两方面的艺术：既有治理者，也有被治理者。在一个有效的治理结构之上，被治理者必须得到足够的激励，以便留在社区内。最终，Nouns 的目标是培养双重任务，即通过利用图像学（iconography）的交流和团结的力量，促进民主 DAO …",
