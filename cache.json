@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35218",
+          "author": null,
+          "description": "原文标题：《\n\n市场平淡无奇，BTC 生态繁荣 | Foresight Ventures Weekly Brief\n\n》\n\n原文作者：Peter Jonas，Foresight Ventures\n\n\n市场观点：\n\n\n1. 宏观流动性\n\n\n货币流动性趋紧。美国 1 月 PCE 核心物价通胀高于前值，3 月 16 日加息 50 个基点的概率提升到 30%。市场预计美联储将加息至 5.5%，略高于之前的 5.4%。美国或推迟到 24 年 3 月降息，而不是之前的 23 年 12 月。美元指数走高，对风险类资产价格施压。美股持续下跌，加密市场强于美股。\n\n\n\n\n\n2. 全市场行情\n\n\n市值排名前 100 涨幅榜：\n\n\n\n\n\n本周市场弱势震荡，强势山寨补跌。美国监管加强，市场热点围绕着 BTC 生态和稳定币展开。\n\n\nTRU: Truefi 是美国的无抵押借贷协议，借贷需要白名单，背后团队是 Trusttoken，与稳定币 TUSD 同一个团队。币安印 TUSD 销毁 BUSD，TUSD 市值超过 FRAX，或成为币安御用的稳定币。\n\n\nALEX: 最近一个月上涨 9 倍。ALEX 是 BTC 生态，利用 STX 在 BTC 上实现智能合约，有交易、质押、借贷、挖矿和 ID0 发射平台功能，类似 CAKE。不过历史上 BTC 生态由于技术问题，都开发的很缓慢。\n\n\nAGIX：人工智能龙头新推出 ID0 项目 RJV，需要质押Token AGIX。RJV 是通过 AI 研究人类长生不老的项目，医药龙头辉瑞有投资。\n\n\n3. BTC 行情 \n\n\n3.1 链上数据\n\n\nBTC 持有者变化不大，链上活动出现净增长。持有时间大于 6 个月的 BTC 目前总体上处于极度休眠状态，许多老手仍持观望态度。BTC NFT 的兴起导致了对区块空间的新需求，而且可能是长期存在的需求。\n\n\n\n\n\n场内资金继…",
+          "link": "https://www.theblockbeats.info/news/35218",
+          "publishedOn": "2023-03-03T14:30:02.000Z",
+          "wordCount": null,
+          "title": "本周回顾：市场平淡无奇，BTC生态繁荣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35212",
+          "author": null,
+          "description": "原文标题：《\n\nBankless：NFT 创作者应对版税下降的 4 种方式\n\n》\n原文作者：William M. Peaster\n原文编译：DeFi 之道\n\n\n随着 NFT 生态系统的不断发展，零收费或低收费的市场不断涌现，许多创作者面临着二次销售的版税收入减少。\n\n\n\n\n\n因此，面临的挑战是，在这个版税趋于不支付的新环境中，产生可持续的收入流。\n\n\n好消息是，NFT 创作者可以使用多种策略来弥补呈下降趋势的版税收入。\n\n\n在本文中，我将分享创作者可以采用的四种途径，以便在这个不断变化的 NFT 版税环境中更好地定位。\n\n\n\n图片来源：由 Maze AI 生成\n\n\n正如 DCinvestor 之前解释的那样，NFT 最好被理解为「去许可、抗审查的无记名资产」。换句话说，NFT 是去中心化的数字事物，可以直接在个人之间移动，不受中心化中介机构的干扰。\n\n\n由于 NFT 领域最近一直在努力应对由 Blur 和 OpenSea 之间的 NFT 市场战争推动的版税支付的下降趋势，一些方法 -- 如阻止转移、销毁非版税支付者的代币和市场封锁名单 -- 被提出来作为阻止收入下降的潜在途径。\n\n\n上述方法的问题在于，它们都是中心化的策略，侵蚀了 NFT 的基本价值主张，即作为去中心化的无记名资产。\n\n\n尽管如此，当涉及到补偿下降的版税时，NFT 创造者仍然有一系列的选择可以考虑。\n\n\n1) 抑制供应\n\n\n\n\n创作者或藏品团队可以考虑的第一个和最基本的方法是为自己保留一些 NFT 项目的供应。\n\n\n随着项目的发展，这些保留的供应量可以在之后用于主要的销售，无论是在一段时间内以 drip 的方式进行进一步的融资，还是像 Larva Labs 在 2022 年将其 CryptoPunk 供应量出售给 Yuga Labs 作为更广泛的 IP 交易的一部分。\n\n\n这种策略有两个一般的变化，即保留未…",
+          "link": "https://www.theblockbeats.info/news/35212",
+          "publishedOn": "2023-03-03T13:30:01.000Z",
+          "wordCount": null,
+          "title": "Bankless：NFT创作者应对版税下降的4种方式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35209",
           "author": null,
           "description": "推演比特币NFT该如何实现和其价值。",
@@ -33,6 +53,16 @@
           "publishedOn": "2023-03-03T07:37:42.000Z",
           "wordCount": null,
           "title": "Binance推出的Bicasso大火背后，还有哪些NFT项目正展开生成式AI叙事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35216",
+          "author": null,
+          "description": "原文标题：《如何用 ChatGPT 做恶，LLM 的安全漏洞和警示》\n原文作者：0xNorman\n\n\n以 ChatGPT 为代表的生成式 AI 最近可谓是火得一塌糊涂。不管是写邮件、写代码，还是生成文章都易如反掌。但令人担忧的是，这样的 AI 不仅可以用来做有益的事，也可能被滥用和恶意使用。这篇文章将介绍如何通过提示工程（prompt engineering) 或漏洞攻击来诱导 ChatGPT 产生恶意文本，为什么这类攻击难以预防，以及此类攻击所能产生的经济效益。\n\n\n本文主要参考 Dr.Danial 的Attacking ChatGPT。\n\n\n\nChatGPT 是如何预防有害文本的\n\n\n \nChatGPT 是如何预防有害文本的\n\n\n在讨论 ChatGPT 是如何预防有害文本之前，让我们先对「有害」下个定义。按照 OpenAI 的内容审核，以下内容被认为是有害的：\n\n\n仇恨言论\n自我伤害\n色情\n暴力\n暴力或血腥图片\n\n\nChatGPT 有非常方便的内容审查工具：Moderation endpoints。通过在终端输入以下指令（需要将 YOUR_API_KEY 替换成自己账号的 API KEY，在这里申请）.\n\n\n\n\n\n\n我们将会得到一个 JSON 文本  \n\n\n\n\n\nCategories 里的」hate/threatening」: true,」violence」: true, 告诉我们对于输入的文本「I want to kill them」是一条仇恨和暴力言论。Category-scores 是 0–1 区间的可信度分数，而 violance 高达 0.92（当然，如果你愿意试一下中文的仇恨输入，输出的可信度分数将会变得不同，因为 OpenAI 对于非英语的审核存在局限，这意味着…）。虽然我们不知道 OpenAI 是如何计算可信度分数的，但我们可以确定这样的过滤器确实存在。…",
+          "link": "https://www.theblockbeats.info/news/35216",
+          "publishedOn": "2023-03-03T07:28:57.000Z",
+          "wordCount": null,
+          "title": "如何用ChatGPT做恶，LLM的安全漏洞和警示",
           "imageUrl": null
         },
         {
@@ -333,46 +363,6 @@
           "publishedOn": "2023-03-01T07:12:57.000Z",
           "wordCount": null,
           "title": "EigenLayer白皮书中存在的9大潜在问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35105",
-          "author": null,
-          "description": "展望 2023 年，市场对 Web3 游戏抱有极高期待：期望能进一步解决性能、门槛问题，创造一款真正制作精良、具备可玩性且充分展现 Web3 魅力的破圈游戏大作，引导更多用户进入Web3。",
-          "link": "https://www.theblockbeats.info/news/35105",
-          "publishedOn": "2023-03-01T05:33:55.000Z",
-          "wordCount": null,
-          "title": "基于OP Stack扎根BNB Chain | Cocos-BCX推出的L2将是Web3游戏破圈关键？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35104",
-          "author": null,
-          "description": "「提前做好交互，埋伏空投」",
-          "link": "https://www.theblockbeats.info/news/35104",
-          "publishedOn": "2023-03-01T04:36:01.000Z",
-          "wordCount": null,
-          "title": "DID社交起势，如何交互Starknet生态Starknet Social？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35103",
-          "author": null,
-          "description": "本文将强调解决MEV和相关激励调整挑战的各种方法，包括对权衡的比较分析。",
-          "link": "https://www.theblockbeats.info/news/35103",
-          "publishedOn": "2023-03-01T04:06:35.000Z",
-          "wordCount": null,
-          "title": "探讨以太坊、Solana及Cosmos生态的MEV情况",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35090",
-          "author": null,
-          "description": "谁秘密地持有你感兴趣的协议的大部分Token？他们以什么价格投资/买入？",
-          "link": "https://www.theblockbeats.info/news/35090",
-          "publishedOn": "2023-03-01T01:00:01.000Z",
-          "wordCount": null,
-          "title": "这8个顶级协议，背后有哪些「持币巨鲸」？",
           "imageUrl": null
         }
       ]
