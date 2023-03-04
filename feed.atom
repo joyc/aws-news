@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-03T18:10:13.093Z</updated>
+    <updated>2023-03-04T00:38:27.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -702,76 +702,6 @@ esACID 有两种作用，第一是参与协议的治理，第二是可将 esACID
         <link href="https://www.theblockbeats.info/news/35142"/>
         <updated>2023-03-01T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[Polygon的zkEVM主网即将启动，现在是时候探索Polygon上最有趣的项目了。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密做市商如何「操纵」市场？]]></title>
-        <id>https://www.theblockbeats.info/news/35130</id>
-        <link href="https://www.theblockbeats.info/news/35130"/>
-        <updated>2023-03-01T10:30:01.000Z</updated>
-        <summary type="html"><![CDATA[做市商是如何操纵加密货币市场的？为什么暴涨暴跌的背后都有他们的身影？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三月加密市场都有哪些重要事件值得关注？]]></title>
-        <id>https://www.theblockbeats.info/news/35129</id>
-        <link href="https://www.theblockbeats.info/news/35129"/>
-        <updated>2023-03-01T09:12:01.000Z</updated>
-        <summary type="html"><![CDATA[以太坊上海升级测试网激活，FEVM发布，Illuvium推出NFT收藏游戏......]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2周3倍，是时候了解一下Stacks的生态了]]></title>
-        <id>https://www.theblockbeats.info/news/35143</id>
-        <link href="https://www.theblockbeats.info/news/35143"/>
-        <updated>2023-03-01T08:44:28.000Z</updated>
-        <summary type="html"><![CDATA[专注于比特币的 Stacks 或成本轮小牛市最大赢家。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur创始人：我们将「做市商」概念引入NFT领域，实则是推动行业进步]]></title>
-        <id>https://www.theblockbeats.info/news/35128</id>
-        <link href="https://www.theblockbeats.info/news/35128"/>
-        <updated>2023-03-01T07:30:31.000Z</updated>
-        <summary type="html"><![CDATA[NFT当下的高流动性是否只是昙花一现？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：介绍5个鲜为人知的NFTfi项目]]></title>
-        <id>https://www.theblockbeats.info/news/35127</id>
-        <link href="https://www.theblockbeats.info/news/35127"/>
-        <updated>2023-03-01T07:22:19.000Z</updated>
-        <summary type="html"><![CDATA[目前，DeFi总锁仓值（TVL）约为490亿美元，而NFT市值超过150亿美元。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12分钟卖出1200万刀的Memeland：2亿人的迷因帝国大迁徙]]></title>
-        <id>https://www.theblockbeats.info/news/33613</id>
-        <link href="https://www.theblockbeats.info/news/33613"/>
-        <updated>2023-03-01T07:18:26.000Z</updated>
-        <summary type="html"><![CDATA[快乐是人类最大公因数，Memeland能将Web3精神从香港传递到全世界吗？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer白皮书中存在的9大潜在问题]]></title>
-        <id>https://www.theblockbeats.info/news/35126</id>
-        <link href="https://www.theblockbeats.info/news/35126"/>
-        <updated>2023-03-01T07:12:57.000Z</updated>
-        <summary type="html"><![CDATA[再质押叙事很美好，但Eigenlayer实现之前，需要解决这些问题。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
