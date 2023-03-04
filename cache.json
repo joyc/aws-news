@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35219",
+          "author": null,
+          "description": "钱包赛道的新成员",
+          "link": "https://www.theblockbeats.info/news/35219",
+          "publishedOn": "2023-03-04T04:06:02.000Z",
+          "wordCount": null,
+          "title": "Uniswap新钱包初体验，有哪些惊喜？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35213",
+          "author": null,
+          "description": "加密研究员Cyril在这里整理了一份持续增长的最佳低市值加密货币和协议列表，仅供参考。",
+          "link": "https://www.theblockbeats.info/news/35213",
+          "publishedOn": "2023-03-04T02:00:01.000Z",
+          "wordCount": null,
+          "title": "2023年有哪些值得关注的低市值加密项目？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35218",
           "author": null,
           "description": "原文标题：《\n\n市场平淡无奇，BTC 生态繁荣 | Foresight Ventures Weekly Brief\n\n》\n\n原文作者：Peter Jonas，Foresight Ventures\n\n\n市场观点：\n\n\n1. 宏观流动性\n\n\n货币流动性趋紧。美国 1 月 PCE 核心物价通胀高于前值，3 月 16 日加息 50 个基点的概率提升到 30%。市场预计美联储将加息至 5.5%，略高于之前的 5.4%。美国或推迟到 24 年 3 月降息，而不是之前的 23 年 12 月。美元指数走高，对风险类资产价格施压。美股持续下跌，加密市场强于美股。\n\n\n\n\n\n2. 全市场行情\n\n\n市值排名前 100 涨幅榜：\n\n\n\n\n\n本周市场弱势震荡，强势山寨补跌。美国监管加强，市场热点围绕着 BTC 生态和稳定币展开。\n\n\nTRU: Truefi 是美国的无抵押借贷协议，借贷需要白名单，背后团队是 Trusttoken，与稳定币 TUSD 同一个团队。币安印 TUSD 销毁 BUSD，TUSD 市值超过 FRAX，或成为币安御用的稳定币。\n\n\nALEX: 最近一个月上涨 9 倍。ALEX 是 BTC 生态，利用 STX 在 BTC 上实现智能合约，有交易、质押、借贷、挖矿和 ID0 发射平台功能，类似 CAKE。不过历史上 BTC 生态由于技术问题，都开发的很缓慢。\n\n\nAGIX：人工智能龙头新推出 ID0 项目 RJV，需要质押Token AGIX。RJV 是通过 AI 研究人类长生不老的项目，医药龙头辉瑞有投资。\n\n\n3. BTC 行情 \n\n\n3.1 链上数据\n\n\nBTC 持有者变化不大，链上活动出现净增长。持有时间大于 6 个月的 BTC 目前总体上处于极度休眠状态，许多老手仍持观望态度。BTC NFT 的兴起导致了对区块空间的新需求，而且可能是长期存在的需求。\n\n\n\n\n\n场内资金继…",
@@ -283,16 +303,6 @@
           "publishedOn": "2023-03-02T01:30:01.000Z",
           "wordCount": null,
           "title": "对比23个跨链桥，了解L2桥现状",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35142",
-          "author": null,
-          "description": "Polygon的zkEVM主网即将启动，现在是时候探索Polygon上最有趣的项目了。",
-          "link": "https://www.theblockbeats.info/news/35142",
-          "publishedOn": "2023-03-01T14:00:01.000Z",
-          "wordCount": null,
-          "title": "在ZkEVM主网启动之际，哪些Polygon生态项目值得关注和布局？",
           "imageUrl": null
         }
       ]
