@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35243",
+          "author": null,
+          "description": "重温本周热点：2023年第10周融资精选，押注硬件钱包成共识？加密市场一夜缩水600亿美元，还有新雷？Obol Network如何借助DVT开启以太坊质押新篇章？",
+          "link": "https://www.theblockbeats.info/news/35243",
+          "publishedOn": "2023-03-05T09:28:40.000Z",
+          "wordCount": null,
+          "title": "周末荐读：1900万美元砸穿整个NFT市场；Silvergate「爆雷」引发市场恐慌情绪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35242",
+          "author": null,
+          "description": "科技革命将经历从移动互联网到人工智能互联网的转变，而区块链将重新定义下一代互联网的价值、所有权和资产定价方式。",
+          "link": "https://www.theblockbeats.info/news/35242",
+          "publishedOn": "2023-03-05T06:54:31.000Z",
+          "wordCount": null,
+          "title": "AI重新定义Web3？深度解析AI+区块链如何引领下一代互联网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35241",
+          "author": null,
+          "description": "PolyHedra Network 真正意义上成为兼具 zk 互操作性和和 zk 可扩展性的全栈六边形战士。",
+          "link": "https://www.theblockbeats.info/news/35241",
+          "publishedOn": "2023-03-05T06:10:18.000Z",
+          "wordCount": null,
+          "title": "ABCDE：我们为什么投资Polyhedra Network？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35240",
           "author": null,
           "description": "愿文来源：CryptoBricks\n\n\n\n\n一、纷争缘起：反分叉的 BUSL\n\n\n\n\n\n\n\n\n吸血鬼攻击\n\n\n\n\n\n\n\n2020 年 8 月 26 日，Sushiswap 在对 Uniswap 源代码进行 copy 的基础上，增设 SUSHI Token 以将协议治理权下放至社区用户。先导文曾论述，流动性提供者 (Liquidity Provider, 下文简称 LP) 是新建流动性资金池实现增长飞轮的核心角色 [1]，因此 Sushiswap 上线之初便剑指 Uniswap，通过 SUSHI 的 Tokenomics 设计吸引 Uniswap 资金池的 LPs，其核心逻辑便是赋予 SUSHI HODLers 更多权益以实现用户留存。\n\n\nSushiswap 的三层攻击：\n\n\n\n\n\n\n\n\n\n\n\n\n流动性迁移 - 转化用户：LPs 可以将其在 Uniswap 上提供流动性的代币对提出，并迁移到 Sushiswap 上继续提供流动性，实现了将外部用户转化为自身协议的 LPs，这使得 Sushiswap 的 TVL 一度超越 Uniswap，逼近 $2B。 \n\n\n\n\n\n\n\n\nToken 激励 LP - 留存用户：Sushiswap 收取 0.25% 手续费供 LPs 分红，同时吸纳 0.05% 的资金激励 SUSHI 的持有者，使得用户在离开流动性池子后不仅仍然能够获得持续的协议收益，还能够获得项目的治理权，将转化来的用户留存成为协议的长期支持者。\n\n\n\n\n\n\n数据来源：DeFi Pulse, Coinbase\n\n\n\n\n\n\n\n\n商业源代码许可证\n\n\n\n\n\n\n\n\n\n尽管 Uniswap 通过发行治理 Token UNI 并为其资金池提供流动性挖矿奖励，在 2021 年初 (Jan 1, 2021) Uniswap 凭借 $26B 的交易量重新坐稳头部 DEX 的宝座，但 Sushi…",
