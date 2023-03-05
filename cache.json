@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35240",
+          "author": null,
+          "description": "愿文来源：CryptoBricks\n\n\n\n\n一、纷争缘起：反分叉的 BUSL\n\n\n\n\n\n\n\n\n吸血鬼攻击\n\n\n\n\n\n\n\n2020 年 8 月 26 日，Sushiswap 在对 Uniswap 源代码进行 copy 的基础上，增设 SUSHI Token 以将协议治理权下放至社区用户。先导文曾论述，流动性提供者 (Liquidity Provider, 下文简称 LP) 是新建流动性资金池实现增长飞轮的核心角色 [1]，因此 Sushiswap 上线之初便剑指 Uniswap，通过 SUSHI 的 Tokenomics 设计吸引 Uniswap 资金池的 LPs，其核心逻辑便是赋予 SUSHI HODLers 更多权益以实现用户留存。\n\n\nSushiswap 的三层攻击：\n\n\n\n\n\n\n\n\n\n\n\n\n流动性迁移 - 转化用户：LPs 可以将其在 Uniswap 上提供流动性的代币对提出，并迁移到 Sushiswap 上继续提供流动性，实现了将外部用户转化为自身协议的 LPs，这使得 Sushiswap 的 TVL 一度超越 Uniswap，逼近 $2B。 \n\n\n\n\n\n\n\n\nToken 激励 LP - 留存用户：Sushiswap 收取 0.25% 手续费供 LPs 分红，同时吸纳 0.05% 的资金激励 SUSHI 的持有者，使得用户在离开流动性池子后不仅仍然能够获得持续的协议收益，还能够获得项目的治理权，将转化来的用户留存成为协议的长期支持者。\n\n\n\n\n\n\n数据来源：DeFi Pulse, Coinbase\n\n\n\n\n\n\n\n\n商业源代码许可证\n\n\n\n\n\n\n\n\n\n尽管 Uniswap 通过发行治理 Token UNI 并为其资金池提供流动性挖矿奖励，在 2021 年初 (Jan 1, 2021) Uniswap 凭借 $26B 的交易量重新坐稳头部 DEX 的宝座，但 Sushi…",
+          "link": "https://www.theblockbeats.info/news/35240",
+          "publishedOn": "2023-03-05T03:44:30.000Z",
+          "wordCount": null,
+          "title": "复盘Uniswap的跨链之争，加密独角兽是否初心依旧？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35217",
           "author": null,
           "description": "原文标题：《\n\nSecrets 或成 BTC 上的「OpenSea」？Stack 生态项目还有哪些值得关注？\n\n》\n原文作者：Asher Zhang\n原文来源：比推 BitpushNews\n\n\n2 月 28 日，NFT 领域最强 IP 缔造者 Yuga Labs 官宣，将基于 Ordinal 协议在比特币区块链上推出 NFT 系列 TwelveFold。「比特币的新文化」运动仍然在继续，星星之火似乎正在形成燎原之势。其中 Stacks 尤为显眼，频频逆市上涨，而其最近主打的 Secrets 有望成为 BTC 上的「OpenSea」。那么 Stacks 近期暴涨是热点炒作还是价值发现？除了 Secrets，Stacks 生态上还有哪些项目？Stacks 在某种程度上类似比特币 2 层，那么「比特币新文化运动」中，还有哪些侧链等值得关注？\n\n\n\n\n\n「比特币新文化运动」如火如荼，Stacks 逆市上涨\n\n\n我们此前在《比特币「新文化」运动促 Web3 繁荣，推动牛市三大新叙事》曾提出：加密市场似乎正在进行一场被命名为比特币「新文化」的运动（不同于成为一种点对点电子支付系统的比特币原始理念，「比特币新文化运动」者认为，随着比特币技术更新和加密市场的发展，比特币应该不局限于成为支付系统，而是应该进一步发展二层网络，DeFi 协议，NFT 协议等一系列 Web3 应用）。在这个过程中最值得关注的就是近期爆火的 NFT 协议 Ordinals 和 Nostr 协议。而与比特币「新文化运动」相关的概念币中 STX 无疑最为受市场热捧。在大盘普遍比较低迷的情况下，STX 逆市上涨，据 Coinmarkcap 行情显示，截止 3 月 1 日 10 时，STX 现报 0.97 美元，从 2 月 18 日 0.32 美元开盘价计算，目前涨幅达 203% 。\n\n\n\n\n\nStacks 的近期暴涨与 …",
@@ -193,16 +203,6 @@
           "publishedOn": "2023-03-03T01:30:01.000Z",
           "wordCount": null,
           "title": "Bankless：新稳定币之争谁将破局，对市场和DeFi产生什么影响？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35182",
-          "author": null,
-          "description": "如果你想要拥有一个最抗审查，最去中心化的美元稳定币， LUSD或许是不二之选。",
-          "link": "https://www.theblockbeats.info/news/35182",
-          "publishedOn": "2023-03-02T14:00:01.000Z",
-          "wordCount": null,
-          "title": "LQTY深度用户亲述：LUSD是顶级DeFi稳定币，却面临扩张之殇",
           "imageUrl": null
         }
       ]
