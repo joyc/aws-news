@@ -124,56 +124,6 @@
           "wordCount": null,
           "title": "Bankless：NFT创作者应对版税下降的4种方式",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35209",
-          "author": null,
-          "description": "推演比特币NFT该如何实现和其价值。",
-          "link": "https://www.theblockbeats.info/news/35209",
-          "publishedOn": "2023-03-03T09:00:02.000Z",
-          "wordCount": null,
-          "title": "聊聊比特币NFT是什么，怎么实现，有什么价值？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35211",
-          "author": null,
-          "description": "加密市场对Silvergate的信心似乎已被磨平。",
-          "link": "https://www.theblockbeats.info/news/35211",
-          "publishedOn": "2023-03-03T08:00:01.000Z",
-          "wordCount": null,
-          "title": "墙倒众人推？加密行业正在抛弃Silvergate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35215",
-          "author": null,
-          "description": "除了Bicasso，加密市场中还有哪些聚焦生成式AI的平台？",
-          "link": "https://www.theblockbeats.info/news/35215",
-          "publishedOn": "2023-03-03T07:37:42.000Z",
-          "wordCount": null,
-          "title": "Binance推出的Bicasso大火背后，还有哪些NFT项目正展开生成式AI叙事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35216",
-          "author": null,
-          "description": "原文标题：《如何用 ChatGPT 做恶，LLM 的安全漏洞和警示》\n原文作者：0xNorman\n\n\n以 ChatGPT 为代表的生成式 AI 最近可谓是火得一塌糊涂。不管是写邮件、写代码，还是生成文章都易如反掌。但令人担忧的是，这样的 AI 不仅可以用来做有益的事，也可能被滥用和恶意使用。这篇文章将介绍如何通过提示工程（prompt engineering) 或漏洞攻击来诱导 ChatGPT 产生恶意文本，为什么这类攻击难以预防，以及此类攻击所能产生的经济效益。\n\n\n本文主要参考 Dr.Danial 的Attacking ChatGPT。\n\n\n\nChatGPT 是如何预防有害文本的\n\n\n \nChatGPT 是如何预防有害文本的\n\n\n在讨论 ChatGPT 是如何预防有害文本之前，让我们先对「有害」下个定义。按照 OpenAI 的内容审核，以下内容被认为是有害的：\n\n\n仇恨言论\n自我伤害\n色情\n暴力\n暴力或血腥图片\n\n\nChatGPT 有非常方便的内容审查工具：Moderation endpoints。通过在终端输入以下指令（需要将 YOUR_API_KEY 替换成自己账号的 API KEY，在这里申请）.\n\n\n\n\n\n\n我们将会得到一个 JSON 文本  \n\n\n\n\n\nCategories 里的」hate/threatening」: true,」violence」: true, 告诉我们对于输入的文本「I want to kill them」是一条仇恨和暴力言论。Category-scores 是 0–1 区间的可信度分数，而 violance 高达 0.92（当然，如果你愿意试一下中文的仇恨输入，输出的可信度分数将会变得不同，因为 OpenAI 对于非英语的审核存在局限，这意味着…）。虽然我们不知道 OpenAI 是如何计算可信度分数的，但我们可以确定这样的过滤器确实存在。…",
-          "link": "https://www.theblockbeats.info/news/35216",
-          "publishedOn": "2023-03-03T07:28:57.000Z",
-          "wordCount": null,
-          "title": "如何用ChatGPT做恶，LLM的安全漏洞和警示",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35210",
-          "author": null,
-          "description": "Paradigm首席技术官Georgios Konstantopoulos在ETHDenver期间分享六个潜力项目。",
-          "link": "https://www.theblockbeats.info/news/35210",
-          "publishedOn": "2023-03-03T06:28:13.000Z",
-          "wordCount": null,
-          "title": "Paradigm首席技术官：ETHDenver 2023中值得关注的6个项目",
-          "imageUrl": null
         }
       ]
     },

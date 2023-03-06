@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-05T18:08:33.078Z</updated>
+    <updated>2023-03-06T00:40:34.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -474,97 +474,6 @@ Bankless：NFT 创作者应对版税下降的 4 种方式
 
 
 这种策略有两个一般的变化，即保留未…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊比特币NFT是什么，怎么实现，有什么价值？]]></title>
-        <id>https://www.theblockbeats.info/news/35209</id>
-        <link href="https://www.theblockbeats.info/news/35209"/>
-        <updated>2023-03-03T09:00:02.000Z</updated>
-        <summary type="html"><![CDATA[推演比特币NFT该如何实现和其价值。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墙倒众人推？加密行业正在抛弃Silvergate]]></title>
-        <id>https://www.theblockbeats.info/news/35211</id>
-        <link href="https://www.theblockbeats.info/news/35211"/>
-        <updated>2023-03-03T08:00:01.000Z</updated>
-        <summary type="html"><![CDATA[加密市场对Silvergate的信心似乎已被磨平。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance推出的Bicasso大火背后，还有哪些NFT项目正展开生成式AI叙事]]></title>
-        <id>https://www.theblockbeats.info/news/35215</id>
-        <link href="https://www.theblockbeats.info/news/35215"/>
-        <updated>2023-03-03T07:37:42.000Z</updated>
-        <summary type="html"><![CDATA[除了Bicasso，加密市场中还有哪些聚焦生成式AI的平台？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用ChatGPT做恶，LLM的安全漏洞和警示]]></title>
-        <id>https://www.theblockbeats.info/news/35216</id>
-        <link href="https://www.theblockbeats.info/news/35216"/>
-        <updated>2023-03-03T07:28:57.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《如何用 ChatGPT 做恶，LLM 的安全漏洞和警示》
-原文作者：0xNorman
-
-
-以 ChatGPT 为代表的生成式 AI 最近可谓是火得一塌糊涂。不管是写邮件、写代码，还是生成文章都易如反掌。但令人担忧的是，这样的 AI 不仅可以用来做有益的事，也可能被滥用和恶意使用。这篇文章将介绍如何通过提示工程（prompt engineering) 或漏洞攻击来诱导 ChatGPT 产生恶意文本，为什么这类攻击难以预防，以及此类攻击所能产生的经济效益。
-
-
-本文主要参考 Dr.Danial 的Attacking ChatGPT。
-
-
-
-ChatGPT 是如何预防有害文本的
-
-
- 
-ChatGPT 是如何预防有害文本的
-
-
-在讨论 ChatGPT 是如何预防有害文本之前，让我们先对「有害」下个定义。按照 OpenAI 的内容审核，以下内容被认为是有害的：
-
-
-仇恨言论
-自我伤害
-色情
-暴力
-暴力或血腥图片
-
-
-ChatGPT 有非常方便的内容审查工具：Moderation endpoints。通过在终端输入以下指令（需要将 YOUR_API_KEY 替换成自己账号的 API KEY，在这里申请）.
-
-
-
-
-
-
-我们将会得到一个 JSON 文本  
-
-
-
-
-
-Categories 里的」hate/threatening」: true,」violence」: true, 告诉我们对于输入的文本「I want to kill them」是一条仇恨和暴力言论。Category-scores 是 0–1 区间的可信度分数，而 violance 高达 0.92（当然，如果你愿意试一下中文的仇恨输入，输出的可信度分数将会变得不同，因为 OpenAI 对于非英语的审核存在局限，这意味着…）。虽然我们不知道 OpenAI 是如何计算可信度分数的，但我们可以确定这样的过滤器确实存在。…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm首席技术官：ETHDenver 2023中值得关注的6个项目]]></title>
-        <id>https://www.theblockbeats.info/news/35210</id>
-        <link href="https://www.theblockbeats.info/news/35210"/>
-        <updated>2023-03-03T06:28:13.000Z</updated>
-        <summary type="html"><![CDATA[Paradigm首席技术官Georgios Konstantopoulos在ETHDenver期间分享六个潜力项目。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
