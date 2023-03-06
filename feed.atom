@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-06T06:11:01.025Z</updated>
+    <updated>2023-03-06T12:14:57.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gnosis创始人EthDenver分享笔记：为什么Layer2仍有局限性？]]></title>
+        <id>https://www.theblockbeats.info/news/35272</id>
+        <link href="https://www.theblockbeats.info/news/35272"/>
+        <updated>2023-03-06T08:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Gnosis的创始人Martin Köppelmann 3月4日在EthDenver做了个分享，讲了L2的局限性，以及另一种扩容的方法。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHDenver进入决赛圈的18个新项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/35273</id>
+        <link href="https://www.theblockbeats.info/news/35273"/>
+        <updated>2023-03-06T08:01:45.000Z</updated>
+        <summary type="html"><![CDATA[2023年加密项目方首次大汇演]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[针对波场钱包的多签骗局真相如何，用户如何保障资产安全？]]></title>
+        <id>https://www.theblockbeats.info/news/35255</id>
+        <link href="https://www.theblockbeats.info/news/35255"/>
+        <updated>2023-03-06T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[多签安全，首先需要私钥安全。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入LSD高阶玩法本质，从Frax/Yearn的LSD到杠杆Staking再到re-staking]]></title>
+        <id>https://www.theblockbeats.info/news/35245</id>
+        <link href="https://www.theblockbeats.info/news/35245"/>
+        <updated>2023-03-06T06:51:33.000Z</updated>
+        <summary type="html"><![CDATA[如果你不知道收益从哪来，那么你就是收益来源。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LD Capital：万物生长的MakerDAO，星火已燃]]></title>
         <id>https://www.theblockbeats.info/news/35181</id>

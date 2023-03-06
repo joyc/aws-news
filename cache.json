@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35272",
+          "author": null,
+          "description": "Gnosis的创始人Martin Köppelmann 3月4日在EthDenver做了个分享，讲了L2的局限性，以及另一种扩容的方法。",
+          "link": "https://www.theblockbeats.info/news/35272",
+          "publishedOn": "2023-03-06T08:13:29.000Z",
+          "wordCount": null,
+          "title": "Gnosis创始人EthDenver分享笔记：为什么Layer2仍有局限性？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35273",
+          "author": null,
+          "description": "2023年加密项目方首次大汇演",
+          "link": "https://www.theblockbeats.info/news/35273",
+          "publishedOn": "2023-03-06T08:01:45.000Z",
+          "wordCount": null,
+          "title": "ETHDenver进入决赛圈的18个新项目一览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35255",
+          "author": null,
+          "description": "多签安全，首先需要私钥安全。",
+          "link": "https://www.theblockbeats.info/news/35255",
+          "publishedOn": "2023-03-06T07:00:01.000Z",
+          "wordCount": null,
+          "title": "针对波场钱包的多签骗局真相如何，用户如何保障资产安全？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35245",
+          "author": null,
+          "description": "如果你不知道收益从哪来，那么你就是收益来源。",
+          "link": "https://www.theblockbeats.info/news/35245",
+          "publishedOn": "2023-03-06T06:51:33.000Z",
+          "wordCount": null,
+          "title": "深入LSD高阶玩法本质，从Frax/Yearn的LSD到杠杆Staking再到re-staking",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35181",
           "author": null,
           "description": "原文标题：《\n\n「Trend Research by LD Capital」万物生长的 MakerDAO，星火已燃\n\n\n》\n\n原文来源：LD Capital\n\n\n摘要 \n\n\n\n\n\n\n\n\n\n\n星星之火 Spark Protocol\n\n\nMakerDAO 创始人于去年 6 月提出 『终局计划』（Endgame Plan）计划时称，MakerDAO 需要在保持最大灵活性的情况下继续扩张。于是 2023 年 2 月 9 日 MakerDAO 的部分核心单元团队成员创建了 Phoenix Labs，该团队致力于开发新的去中心化金融产品扩大 Maker 协议生态。  \n\n\nSpark Protocol 是 Phoenix Labs 开发的首个协议，以稳定币 DAI 和其它主流加密资产作抵押进行超额借贷的通用借贷协议。作为照亮 Maker 新 DeFi 矩阵的首个协议，Spark 这个名字恰好也符合中文「星星之火可以燎原」的寓意。\n\n\n该协议基于 Aave V3 代码构建，后者的借贷业务经过市场长期考验，用户将高流动性资产如 ETH、WBTC、stETH 等作为抵押品，依据利率模型借出相应需求的资产，理论上将与 Maker 系统内廉价的 D3M 借贷模块和针对稳定币的接近 100% 资本效率的 PSM 铸造池结合形成强大的协同作用，为$DAI 全市场最有竞争力且相对稳定的利率。\n\n\n图 1：Spark 应用测试版页面\n\n\n\n来源：Spark，Trend Research\n\n\n当然，Spark 团队已经表示，未来两年 DAI 借款规模达到 1 亿美元后，会将 DAI 市场赚取利润的 10% 分配给 Aave，已经在 Aave 论坛发起提案。  \n\n\nSpark Protocol 产品优势\n\n\n1、久经考验的代码\n\n\n基于 Aave 成熟的代码修改而来，代码经过了历史的检验，安全性高。此外与…",
