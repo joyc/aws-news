@@ -2,10 +2,305 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-07T00:42:34.205Z</updated>
+    <updated>2023-03-07T06:10:29.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[V神看好的ERC-4337即将上线，都有什么新特性？]]></title>
+        <id>https://www.theblockbeats.info/news/35313</id>
+        <link href="https://www.theblockbeats.info/news/35313"/>
+        <updated>2023-03-07T06:09:00.000Z</updated>
+        <summary type="html"><![CDATA[对于加密原住民来说，钱包安全一直是令人头疼的问题，丢失私钥、助记词，丢失资产，无法授权等都会导致用户失去对自己资产的所有权；而对于加密新人来说，很难同时弄清这些不同的概念，且交易期间频繁地授权批准也会使加密新人感到复杂。这间接地提高了进入 Web 3 的门槛，而即将到来的 ERC-4337 标准的诸多特性正是可以帮助用户解决这些问题的新标准，也是可以普及加密的必要之路。
+
+
+
+
+以太坊希望推出的新 ERC-4337 标准是什么？它的提出者是谁？
+
+
+
+
+以太坊作为开发人员最受欢迎的基于区块链的计算平台，供开发人员基于其构建和部署去中心化应用，此前宣布将推出一个名为 ERC-4337 的新标准，该标准旨在善用户体验，防止私钥丢失，优化交易流程等。
+
+
+
+
+ERC-4337 是由以太坊创始人 Vitalik Buterin 联合 Yoav Weis、Dror Tirosh 等人发布的账户抽象提案。该提案旨在使以太坊钱包更加友好（对用户），并防止任何密钥丢失。Vitalik 和他的团队提议将用户的外部拥有账户（EOA）变成智能合约账户（CA），这将允许使用户保持对他们的加密货币访问的内置机制。
+
+
+
+
+通俗地讲，ERC-4337 标准旨在使以太坊钱包更易于使用，并帮助防止用户失去对加密货币的访问权。为实现这一点，以太坊的创建者提议将钱包变成智能合约。智能合约具有内置机制，可以帮助用户保护其加密货币的安全，即使他们忘记密码或丢失私钥，这一关键功能包括要求多人批准交易的选项，以及一个系统，其中多个用户可以在有人丢失其私钥时帮助恢复其对帐户的访问。
+
+
+
+
+EOA 与 CA 的不同
+
+
+
+
+以太坊有两种不同类型的账户，外部拥有账户（EOA）与合约账户（CA），简单来说，EOA 由公钥和私钥组成，就像 MetaMask，通过助记词、私钥，用户可以对账户进行交易、访问。
+
+
+
+
+而对于 C…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读Galaxy Digital研报：比特币NFT会成为下一个50亿美元的市场吗？]]></title>
+        <id>https://www.theblockbeats.info/news/35312</id>
+        <link href="https://www.theblockbeats.info/news/35312"/>
+        <updated>2023-03-07T03:49:35.000Z</updated>
+        <summary type="html"><![CDATA[文章来源：加密KOL xiyu
+
+
+3 月 7 日，Galaxy Digital 研究部门发布了调研报告，报告中提到 2025 年基于铭文和序数的比特币 NFT 市场规模将达到 45 亿美元。报告指出，铭文的快速出圈加上今天已经推出的市场/钱包基础设施是预测比特币 NFT 将在两年内达到 45 亿美元市值的关键因素。 报告还提到根据以太坊和 Solana NFT 的历史交易量数据表明，未来两年比特币 NFT 的累计交易量将超过 10 亿美元。
+
+
+加密KOL xiyu 对 Galaxy Digital
+
+关于比特币 NFT 和 Ordinals 的报告进行深入解读，BlockBeats将内容整理如下。
+
+
+关键要点 
+
+
+比特币铭文将是一个大市场。Galaxy 估计到 2025 年，基于铭文和序数的比特币 NFT 市场规模的基本案例为 45 亿美元，相比现在的市场规模，跟这个数字相比可以看作是 0，空间巨大。 
+
+
+比特币的前景更广阔，即使只看比特币 nft，也有可能极大地扩大比特币的文化影响范围。此外还有一些新技术正在探索中，包括新型分散式软件或比特币扩展技术等。 
+
+
+比特币的新叙事，推动比特币的使用。铭文的增长，无论是作为 NFT 市场还是其他东西，都将增加额外采用比特币的可能性，从长远来看，这可以支持 BTCUSD。
+
+
+即使没有使用「序数理论」，Inscriptions 也可以很大。在比特币上即使不依赖第二层方法为每个比特币单位单独标记，也可以找到重要的用途。对比特币可替代性的担忧被夸大了。即使与序数相关的 5 亿记录中，只有 0.2％的比特币终端供应变成了不可替代的。
+
+
+铭文可以对块空间需求进行下限，使比特币的安全和费用市场受益。矿工将看到来自铭文的费用收入增加，从而有助于将矿工收入从整笔补贴转移到交易费。与社区担心不同，相当于给矿工上了个低保。
+
+
+支持比特…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHDenver 参会总结：加密世界有哪些新趋势]]></title>
+        <id>https://www.theblockbeats.info/news/35311</id>
+        <link href="https://www.theblockbeats.info/news/35311"/>
+        <updated>2023-03-07T03:19:51.000Z</updated>
+        <summary type="html"><![CDATA[原文标题《
+
+  ETHDenver 参会总结：我们看到了哪些趋势  
+
+》
+原文来源： ArkStream Capital
+
+
+刚从 Denver 回来，过去的一周精彩不已。分享一下个人感受，和整个会议传递的新趋势。整体而言，EthDenver 整体感受非常好，远胜 Consensus，Token2049。
+
+
+
+1. 全球性开发者文化
+
+
+据说整个 ETHDenver 来了 35000 人，7500 hackers。我住的酒店离 downtown 开车要 15 分钟，但是基本每天电梯里都能见到参会者，大家一看胸牌，互相一秒熟络。从业者里，项目方：VC 约 5:1。项目方颇具全球性，除了美国本土，中国，加拿大，英国，新加坡，欧洲是最大的集合。和 ArkStream 好几个北美欧洲的 portfolio，终于见上了。VC 领域，大部分活跃的一二线基金都有来人，尤其是过去很少出现的一些欧洲地区资本。
+
+
+
+与 Consensus 不同，ETHdenver 的开发者文化使得整个活动都非常加密原生。与项目方见面基本都是直接坐下，当场电脑展示 demo，30 分钟就把产品给聊得很透彻。这点我非常喜欢，仿佛回到了 2017 年刚入行时的感觉。
+
+
+
+
+
+参会指南
+
+
+ArkStream 作为 VC，我们最重要的还是 source 项目。因为活动太多，最高效的方式依然是小型活动+定向搜索。
+
+
+
+
+小型活动一般以 20-100 人的 brunch，seminar 和 party 组成。这次参与的几个好的活动有 Meet the VC Brekky, Brunch party with Fabric/SevenX, zkNight Afterparty, MIT Alumni founder』s lunch, Cosmos on Tap, IOSG old friend Reunion,…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要炒比特币域名了吗？如何获得.sats域名？]]></title>
+        <id>https://www.theblockbeats.info/news/35310</id>
+        <link href="https://www.theblockbeats.info/news/35310"/>
+        <updated>2023-03-07T03:11:32.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《BTC NFT 铸造指南》
+原文来源：王一石博客
+原文作者：OneKey 创始人，王一石
+
+
+在这篇文章中，我会以 .sats 域名的铸造为例，带你走一遍完整的 BTC NFT 铸造流程。在延展阅读处，会稍微解释下闪电网络、Taproot 地址和 Ordinals 协议。
+
+
+需要哪些前期准备
+
+
+1. 下载 Xverse 钱包，我们后面会用它来存储 NFT，因为它能够正确识别 Ordinals 协议的资产。
+
+
+2. 下载 Alby 浏览器插件钱包，用来处理闪电网络交易，这款钱包的体验相当不错。
+
+
+3. 准备好自己的 OKX 账号，我们要用它提取闪电网络的 BTC 到自己的钱包。
+
+
+
+接收 BTC NFT 的重要前提是你的钱包支持 Taproot 地址格式，它们通常以 bc1p 开头，这是重要的识别方式。
+这是目前我自己用的最顺手的组合，如果你习惯使用其他钱包，如 Bluewallet、Muun 等，同样可行。
+
+
+截止目前，OneKey 钱包还没有支持 Taproot 地址和闪电网络，但我看到官方已经提过，估计很快会上。
+
+
+我需要跑 Bitcoin 全节点吗
+
+
+1. 不需要，现在已有很多免节点的替代铸造工具。
+
+
+2. 但是，如果你想更深入参与 BTC Ordinals NFT 市场，并且将手续费降到最低，建议你去 Bitcoin Core 下载最新的钱包。
+
+
+3. 下载好后按下图修改设置，不要修剪节点，不然你会白同步，Ordinal 是要追溯到整个 BTC 区块的第一笔交易的。
+
+
+4. 同时，最好将 BTC 的区块数据放到至少 1TB 容量的外置硬盘，不然会很占你的电脑空间，目前整个 BTC 网络的数据大约 500GB。
+
+
+5. 如果你对自己搭节点不感兴趣，只想快点 Mint，那这里跳过就好，也不用下 Bitcoin Core 钱包了。
+
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年第11周融资精选，Circle、Coinbase参投Term Finance]]></title>
+        <id>https://www.theblockbeats.info/news/35303</id>
+        <link href="https://www.theblockbeats.info/news/35303"/>
+        <updated>2023-03-07T02:57:14.000Z</updated>
+        <summary type="html"><![CDATA[上周融资总数为30笔，总金额约2.3亿美元，平均融资金额为579万美元，其中NFT 领域融资大幅增长。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichain Token：全链时代的新Token标准]]></title>
+        <id>https://www.theblockbeats.info/news/35302</id>
+        <link href="https://www.theblockbeats.info/news/35302"/>
+        <updated>2023-03-07T02:50:02.000Z</updated>
+        <summary type="html"><![CDATA[如果你在过去两年经常参与 DeFi 项目，那么你一定曾对许多公链中打着不同名号的同类资产感到过困惑。比如为什么 Avalanche 中的 USDC 会分成 USDC 与 USDC.e 两个版本？各种跨链形成的 ceETH、ETH.grv、soETH 等等不同标准的 ETH 到底有什么本质区别？
+
+
+
+
+的确，随着本轮周期各个新公链平台的崛起，资产跨链也一下成为了所有币圈用户的刚性需求。而随着跨链资产的逐渐增多，跨链资产标准不统一，流动性割裂，以及随之而来的各种安全问题，也给第一批体验资产跨链的用户带来了不小的障碍甚至资产损失。
+
+
+
+
+那么造成这种现象的原因是什么，在多链发展已经成为行业必然趋势的当下，有没有更好的办法能够解决用户在跨链时的痛点，提供更加好用的跨链服务呢？
+
+
+
+
+传统资产跨链桥的底层缺陷
+
+
+
+
+其实造成以上种种问题的底层原因，就在于我们现在经常使用的资产跨链桥。正如其名称所言，资产跨链桥唯一的功能便是帮助用户实现资产的跨链转移。然而这些所谓的「转移」其实并没有真正帮用户转移资产，而是采用了「锁定铸造」模型，在转入链上重新铸造了一个原始资产的映射 Token。
+
+
+
+
+简而言之，同样的目标链，用户通过 A 跨链桥转入的以太坊会被称为 AETH，通过 B 跨链桥转入的则会被称为 BETH。两个资产名称相异，安全性也不同，因此也没办法进行等价交换。这就是造成跨链资产标准混乱与流动性割裂的底层原因。此外，每一次锁定铸造过程都增大了锁定端资金池的资金规模，这也给黑客可供了可乘之机，这也间接造成了近年来频发的跨链桥安全事故。
+
+
+
+
+而想要彻底解决以上这些问题，就需要依靠更加底层的协议层面的改进，这也是最近经常被人提及的信息跨链，或者说协议层跨链。
+
+
+
+
+LayerZero：实现信息跨链的协议层产品
+
+
+
+
+在信息跨链这个赛道上，最令人瞩目的协议层产品，当属目前已…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delphi Digital：是什么推动PFP类型NFT成功？]]></title>
+        <id>https://www.theblockbeats.info/news/35301</id>
+        <link href="https://www.theblockbeats.info/news/35301"/>
+        <updated>2023-03-07T02:37:07.000Z</updated>
+        <summary type="html"><![CDATA[PFP（头像类 NFT）是 NFT 最早的用例之一，旨在用作在线身份的个人资料图片。但除了审美吸引力之外，是什么推动了他们的成功？下面是一些案例研究。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Coinbase的二层布局看RaaS赛道的革新]]></title>
+        <id>https://www.theblockbeats.info/news/35256</id>
+        <link href="https://www.theblockbeats.info/news/35256"/>
+        <updated>2023-03-07T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+从 Coinbase 的二层布局看 Rollup as a Service 赛道的革新
+
+》
+原文作者：yyy
+
+
+
+
+前言
+
+
+
+
+Coinbase 正大刀阔斧地建设链上基础设施，近日宣布基于 OP Stack 构建一条二层 Rollup 链——Base, 一时间 Crypto 市场上掀起了「Bullish on Rollup」的呼声。Coinbase 作为全美第一大加密交易所，此番举措或将成为 Rollup 赛道发展、革新的催化剂。
+
+
+背景
+
+
+
+
+以太坊网络性能的局限性催生出了多样化的 Layer 2 扩容解决方案，Rollup 方案作为其中的翘楚领跑整个扩容赛道。以太坊通常被看成一个单体区块链网络，单体中主要由 3 大功能层级构成：数据可用性和共识层、结算层和执行层。由于区块空间是有限的，所有功能层级在单体中运行消耗了大量的链上资源，导致网络拥堵、链上 gas 费用飙升。Rollup 本质上是将执行层从单体区块链中分离出来的模块化扩容解决方案，将复杂运算转移到链下，再把链下执行结果传输到链上验证，在继承以太坊安全性的情况下大幅提高网络的性能。
+
+
+据 L2BEAT 数据显示，截止至 2023.03.02，Arbitrum TVL 为 34.3 亿美元，份额在整个 Layer 2 赛道中占比高达 54.25%；Optimism TVL 紧随其后，两者 TVL 总和已超过 80% 的市场份额。Layer 2 赛道竞争格局看似已由 Arbitrum 和 Optimism 捷足先登，实则风起云涌，越来越多的 Rollup 方案如雨后春笋般涌出，带着它们的创新叙事，企图蚕食一定的市场份额。
+
+
+
+
+
+而其中最引入注目的，是由此衍生出的一个被称为「Rollup as a Service」的全新赛道。顾名思义，RaaS 代表把 Rollup 的部署作为一种服务，…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substack因何伟大？因为它是叙事帝国]]></title>
         <id>https://www.theblockbeats.info/news/35285</id>
