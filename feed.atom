@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-07T12:14:54.349Z</updated>
+    <updated>2023-03-07T18:10:04.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3000万美元坏账引发纷争：Iron Bank与Alpha Homora因何闹僵？]]></title>
+        <id>https://www.theblockbeats.info/news/35329</id>
+        <link href="https://www.theblockbeats.info/news/35329"/>
+        <updated>2023-03-07T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[近期，Iron Bank 和 Alpha Homora 之间就逾 3000 万美元的坏账「闹僵」一事在 DeFi 圈内引发了广泛讨论。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解Curve的正确姿势：头部流动性市场的业务现状、生态发展、护城河及估值对比]]></title>
+        <id>https://www.theblockbeats.info/news/35323</id>
+        <link href="https://www.theblockbeats.info/news/35323"/>
+        <updated>2023-03-07T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[本报告将重点阐述和讨论 Curve 及其生态自 2021 年以来变化的部分。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读获a16z领投的加密指数赛道的新星Alongside]]></title>
+        <id>https://www.theblockbeats.info/news/35330</id>
+        <link href="https://www.theblockbeats.info/news/35330"/>
+        <updated>2023-03-07T10:42:42.000Z</updated>
+        <summary type="html"><![CDATA[获 a16z 领投 1100 万美元的 Alongside 究竟有何魅力？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A&T Capital：我们为什么看好Scroll并对其投资]]></title>
         <id>https://www.theblockbeats.info/news/35322</id>
@@ -639,89 +669,6 @@ Multicoin Capital 表示对其长期战略依然「保持坚定」，但不会�
         <link href="https://www.theblockbeats.info/news/35241"/>
         <updated>2023-03-05T06:10:18.000Z</updated>
         <summary type="html"><![CDATA[PolyHedra Network 真正意义上成为兼具 zk 互操作性和和 zk 可扩展性的全栈六边形战士。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复盘Uniswap的跨链之争，加密独角兽是否初心依旧？]]></title>
-        <id>https://www.theblockbeats.info/news/35240</id>
-        <link href="https://www.theblockbeats.info/news/35240"/>
-        <updated>2023-03-05T03:44:30.000Z</updated>
-        <summary type="html"><![CDATA[愿文来源：CryptoBricks
-
-
-
-
-一、纷争缘起：反分叉的 BUSL
-
-
-
-
-
-
-
-
-吸血鬼攻击
-
-
-
-
-
-
-
-2020 年 8 月 26 日，Sushiswap 在对 Uniswap 源代码进行 copy 的基础上，增设 SUSHI Token 以将协议治理权下放至社区用户。先导文曾论述，流动性提供者 (Liquidity Provider, 下文简称 LP) 是新建流动性资金池实现增长飞轮的核心角色 [1]，因此 Sushiswap 上线之初便剑指 Uniswap，通过 SUSHI 的 Tokenomics 设计吸引 Uniswap 资金池的 LPs，其核心逻辑便是赋予 SUSHI HODLers 更多权益以实现用户留存。
-
-
-Sushiswap 的三层攻击：
-
-
-
-
-
-
-
-
-
-
-
-
-流动性迁移 - 转化用户：LPs 可以将其在 Uniswap 上提供流动性的代币对提出，并迁移到 Sushiswap 上继续提供流动性，实现了将外部用户转化为自身协议的 LPs，这使得 Sushiswap 的 TVL 一度超越 Uniswap，逼近 $2B。 
-
-
-
-
-
-
-
-
-Token 激励 LP - 留存用户：Sushiswap 收取 0.25% 手续费供 LPs 分红，同时吸纳 0.05% 的资金激励 SUSHI 的持有者，使得用户在离开流动性池子后不仅仍然能够获得持续的协议收益，还能够获得项目的治理权，将转化来的用户留存成为协议的长期支持者。
-
-
-
-
-
-
-数据来源：DeFi Pulse, Coinbase
-
-
-
-
-
-
-
-
-商业源代码许可证
-
-
-
-
-
-
-
-
-
-尽管 Uniswap 通过发行治理 Token UNI 并为其资金池提供流动性挖矿奖励，在 2021 年初 (Jan 1, 2021) Uniswap 凭借 $26B 的交易量重新坐稳头部 DEX 的宝座，但 Sushi…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
