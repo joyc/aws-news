@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-07T06:10:29.981Z</updated>
+    <updated>2023-03-07T12:14:54.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A&T Capital：我们为什么看好Scroll并对其投资]]></title>
+        <id>https://www.theblockbeats.info/news/35322</id>
+        <link href="https://www.theblockbeats.info/news/35322"/>
+        <updated>2023-03-07T08:15:27.000Z</updated>
+        <summary type="html"><![CDATA[本轮融资让Scroll的融资总额达8300万美元，估值高达18亿美金。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V神看好的ERC-4337即将上线，都有什么新特性？]]></title>
         <id>https://www.theblockbeats.info/news/35313</id>
