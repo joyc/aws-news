@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-08T06:10:22.532Z</updated>
+    <updated>2023-03-08T12:14:36.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bitget成为尤文图斯女子足球队官方赞助商]]></title>
+        <id>https://www.theblockbeats.info/news/35372</id>
+        <link href="https://www.theblockbeats.info/news/35372"/>
+        <updated>2023-03-08T09:15:36.000Z</updated>
+        <summary type="html"><![CDATA[赞助尤文图斯女子足球队，体现了Bitget在加密领域为女性发展的努力，激励女性成为最好的自己]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊入局NFT意味着什么？一文梳理社区观点]]></title>
+        <id>https://www.theblockbeats.info/news/35371</id>
+        <link href="https://www.theblockbeats.info/news/35371"/>
+        <updated>2023-03-08T08:45:15.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊究竟是会像Coinbase NFT一样惨淡收场，还是会改写NFT市场的格局，听听社区OG们怎么看。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币交易平台LocalBitcoins告别终曲：从诞生、发展、辉煌到衰落]]></title>
+        <id>https://www.theblockbeats.info/news/35341</id>
+        <link href="https://www.theblockbeats.info/news/35341"/>
+        <updated>2023-03-08T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[自 2012 年诞生以来，LocalBitcoins 创造了属于它自己的辉煌，但最终为现实所迫，于 2023 年 2 月 9 日宣布停止服务。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给比特币「雕花」，增值还是累赘？]]></title>
+        <id>https://www.theblockbeats.info/news/35365</id>
+        <link href="https://www.theblockbeats.info/news/35365"/>
+        <updated>2023-03-08T05:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Yuga Labs在内大批「雕花匠」赶来，酝酿着各种比特币版的NFT。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第11周链上数据分析：交易量有所回落，衍生品模型处于极值区域]]></title>
         <id>https://www.theblockbeats.info/news/35362</id>
