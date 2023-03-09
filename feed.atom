@@ -2,10 +2,235 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-09T06:11:07.963Z</updated>
+    <updated>2023-03-09T12:14:33.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkSync Era主网即将上线，测试网如何交互DEX]]></title>
+        <id>https://www.theblockbeats.info/news/35430</id>
+        <link href="https://www.theblockbeats.info/news/35430"/>
+        <updated>2023-03-09T10:11:44.000Z</updated>
+        <summary type="html"><![CDATA[zkSync 近期宣布了 2.0 版本的上线，并称此版本为 zkSync Era，SyncSwap 为近期在 zkSync Era 测试网新上线的 AMM Dex（3 月 1 日上线），通过与进行 SyncSwap 交互，一方面，可以增加获得 ZK 空投的机会；另一方面，若是 SyncSwap 未来空投，那么作为早期用户的你或许也有资格获得奖励。
+
+
+SyncSwap 简介
+
+
+
+
+SyncSwap 是 Matter Labs 在 zkSync Era testnet 上建立的去中心化交易平台，该协议旨在成为 zkSync Era 网络交易层级别的流动性解决方案，且协议是完全开源和可组合的，消除了 zkSync 生态的集成障碍，虽然目前并未披露融资信息，但「由 Matter Labs 支持」这一点就能给 SyncSwap 带来更好的发展，或许会是未来 zkSync 生态的龙头 Dex。
+
+
+
+
+该 Dex 具有无许可、完全开放公众使用的特性，任何人都可以随意 token swap，成为 SyncSwap 上的流动性提供者，赚取利益。
+
+
+
+
+SyncSwap 协议将对所有交易收取交易费。Classic Pool 的交易费为 0.1%，流动性提供者收取 0.07%，协议收取 0.03%，意味着流动性提供者将获得池中所有交易的 0.07%。例如，一笔 100,000 USDC 的交易，被添加到流动性池中的 70 USDC 是可以被流动性提供者收取的。
+
+
+
+
+交互过程
+
+
+
+
+领取测试币
+
+
+
+
+首先，需要去官网领取测试币。
+
+
+BlockBeats 注：需要连接推特转发推文（自动生成，推文中包含你的以太坊地址，需要检查地址是否正确），没有头像的或新的推特账户无法领取。
+
+
+
+
+若第一种方法无法领取，另一个方法就是通过 zkSync Era Goerli 官桥从 ETH Goerli 跨桥到 zkSync Era testnet，注意跨桥 Gas 较高，过程需要约 5min。
+
+
+BlockBeats 注：该过程需要注意，网络显示为 Ethereum Goerli，切记勿切换网络为 Ethereum mainnet。
+
+
+
+
+
+
+
+Swap 和 add pool（USDC 为例）
+
+
+进去 SyncSwap 官网，解锁钱包。Switch to zkSync Era testnet。
+
+
+
+
+
+
+
+
+
+
+
+
+当然，SyncSwap 官网也可以点击 Faucet 领取测试币，前提是钱包里需要有 Gas 才可以成功领取。
+
+
+
+
+
+
+
+接下来进行 swap，选择 ETH 与 USDC、USDT、DAI、WETH 等其中的一种 token 进行 swap（本文为 USDC），如图所示，可以选择进行 swap 的比例，建议选取 50% 或 25%。
+
+
+
+
+
+
+
+接下来进行添加流动性，点击 Pool，分别点击右上角的 New Position，Enter Pool。
+
+
+
+
+
+
+
+点击 Deposit 存入 ETH 与 USDC，添加流动性。
+
+
+BLockBeats 注：首次使用该功能需要授权解锁 USDC（Unlock USDC）然后才可以进行 Deposit。
+
+
+
+
+
+
+
+接下来切换到 Withdraw，依次点击 Permit LP token、Withdraw Liquidity（移除流动性），当然只需要移除一部分就可以，并在钱包中确认。
+
+
+
+
+
+
+
+最后，可以点击 My Position 查看自己添加到流动性池的 token。
+
+
+
+
+
+
+
+
+
+
+
+
+
+本次交互体验还算流畅，无卡顿，但 Gas（geth）消耗较高，记住需要注意的点，并不需要耗费很多时间就可以完成，码住去做吧！！！]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes：灰尘上的外壳——创建基于比特币的稳定币]]></title>
+        <id>https://www.theblockbeats.info/news/35425</id>
+        <link href="https://www.theblockbeats.info/news/35425"/>
+        <updated>2023-03-09T09:45:07.000Z</updated>
+        <summary type="html"><![CDATA[本文提出一种新型稳定币NakaUSD，比特币/USD，并探讨了其可实现性。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年十大Starknet项目一览：钱包、DeFi、跨链桥、稳定币和DID协议]]></title>
+        <id>https://www.theblockbeats.info/news/35426</id>
+        <link href="https://www.theblockbeats.info/news/35426"/>
+        <updated>2023-03-09T08:42:01.000Z</updated>
+        <summary type="html"><![CDATA[2023年基于最有前途的以太坊Layer 2生态系统——Starknet的前十个项目。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otherside「2nd Trip」即将上线，可能出现哪些新功能？]]></title>
+        <id>https://www.theblockbeats.info/news/35424</id>
+        <link href="https://www.theblockbeats.info/news/35424"/>
+        <updated>2023-03-09T08:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Yuga Labs——叙事的王者。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆解LSD杠杆挖矿：超额收益的来源与风险]]></title>
+        <id>https://www.theblockbeats.info/news/35423</id>
+        <link href="https://www.theblockbeats.info/news/35423"/>
+        <updated>2023-03-09T07:59:23.000Z</updated>
+        <summary type="html"><![CDATA[杠杆Staking高收益的本质是什么？风险点在哪里？杠杆Staking的高收益是否可持续？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何定义加密世界的原生基准利率？]]></title>
+        <id>https://www.theblockbeats.info/news/35410</id>
+        <link href="https://www.theblockbeats.info/news/35410"/>
+        <updated>2023-03-09T07:08:28.000Z</updated>
+        <summary type="html"><![CDATA[链上世界到底有没有债券市场？加密原生 crypto native 的债券市场可能会有什么样的发展模式？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT的「艺术游戏化」：Burn-Redeem与奖券]]></title>
+        <id>https://www.theblockbeats.info/news/35409</id>
+        <link href="https://www.theblockbeats.info/news/35409"/>
+        <updated>2023-03-09T06:57:23.000Z</updated>
+        <summary type="html"><![CDATA[「艺术游戏化」一直是创作者难题的解决方案之一。现在，它还让ERC-1155变得愈发流行。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猴子地第二次体验前，要做哪些准备？]]></title>
+        <id>https://www.theblockbeats.info/news/35408</id>
+        <link href="https://www.theblockbeats.info/news/35408"/>
+        <updated>2023-03-09T05:50:31.000Z</updated>
+        <summary type="html"><![CDATA[本篇博客是Otherside Second Trip目前的全部情报，许多问题将在这里得到解答。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silvergate暴雷后，还有哪些加密银行？]]></title>
+        <id>https://www.theblockbeats.info/news/35407</id>
+        <link href="https://www.theblockbeats.info/news/35407"/>
+        <updated>2023-03-09T05:17:49.000Z</updated>
+        <summary type="html"><![CDATA[「随着传统金融对加密的担忧越重，能选择的银行也就越来越少」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX 「以太坊丹佛」见闻录：行业发展速度惊人]]></title>
+        <id>https://www.theblockbeats.info/news/35404</id>
+        <link href="https://www.theblockbeats.info/news/35404"/>
+        <updated>2023-03-09T04:29:49.000Z</updated>
+        <summary type="html"><![CDATA[ETHDenver不同于其他峰会，主要面向开发者，非常Web3 native。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[监管机构持续施压，加密银行业务路在何方？]]></title>
         <id>https://www.theblockbeats.info/news/35386</id>
