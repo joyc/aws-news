@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35386",
+          "author": null,
+          "description": "从历史上看，全额准备金银行业务从未持续太久。",
+          "link": "https://www.theblockbeats.info/news/35386",
+          "publishedOn": "2023-03-09T03:17:27.000Z",
+          "wordCount": null,
+          "title": "监管机构持续施压，加密银行业务路在何方？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35385",
+          "author": null,
+          "description": "Yuga Labs 此次拍卖迎来 Ordinals 创始人及其团队的严厉批评，并提出用 PSBT 技术替代Yuga Labs 采用的拍卖模式，引发了社区的激烈讨论，PSBT 技术是什么？",
+          "link": "https://www.theblockbeats.info/news/35385",
+          "publishedOn": "2023-03-09T03:03:39.000Z",
+          "wordCount": null,
+          "title": "Ordinals创始人怒驳Yuga Labs拍卖，为什么PSBT才是比特币NFT交易的正解？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35383",
+          "author": null,
+          "description": "比特币似乎正在以全新姿态回归。",
+          "link": "https://www.theblockbeats.info/news/35383",
+          "publishedOn": "2023-03-09T02:54:08.000Z",
+          "wordCount": null,
+          "title": "Yuga Labs拥抱比特币NFT说明了什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35337",
           "author": null,
           "description": "比特币主权Rollup不仅扩大了Rollup的可能性，而且有可能帮助引导一个健康的比特币区块空间费用市场。",
@@ -263,26 +293,6 @@
           "publishedOn": "2023-03-07T01:30:01.000Z",
           "wordCount": null,
           "title": "从Coinbase的二层布局看RaaS赛道的革新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35285",
-          "author": null,
-          "description": "Substack是一个网络，一个生态系统，一个充满文字、文化和思想的引擎；一个叙述的帝国。",
-          "link": "https://www.theblockbeats.info/news/35285",
-          "publishedOn": "2023-03-06T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Substack因何伟大？因为它是叙事帝国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35288",
-          "author": null,
-          "description": "Watchers V3是一个从数据分析工具到智能交易系统的进化。",
-          "link": "https://www.theblockbeats.info/news/35288",
-          "publishedOn": "2023-03-06T13:52:39.000Z",
-          "wordCount": null,
-          "title": "Web3知识图谱协议0xScope推出Watchers V3版本，新增支持BNB Chain",
           "imageUrl": null
         }
       ]
