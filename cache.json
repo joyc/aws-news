@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35454",
+          "author": null,
+          "description": "当前的NFT类型、交易规模、用户规模、矿业变化和网络基本面",
+          "link": "https://www.theblockbeats.info/news/35454",
+          "publishedOn": "2023-03-10T14:00:01.000Z",
+          "wordCount": null,
+          "title": "多维度解读比特币NFT的现状：累计总数突破32万个",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35455",
           "author": null,
           "description": "原文标题：《\n\n解构 Silvergate 危机：拥有千名顶级客户的加密银行为何破产？\n\n》\n原文作者：Danilo Lantas\n原文编译：白泽研究院\n\n\n是不是觉得加密市场最近表现得有点奇怪？\n\n\n上周，加密行业最重要的银行 Silvergate 关闭了其交易网络 SEN，它已被大型投资者、公司和稳定币发行商用来全天候 24/7 将数十亿资金进出加密市场。\n\n\nSEN 的关闭似乎对加密市场的流动性产生了深远的影响，而 Silvergate 的破产也增加了监管机构加速打击加密货币的风险。\n\n\n在本文中，我们将从 Silvergate 的起源、它如何落得如此地步入手，了解它的倒闭对加密行业意味着什么。\n\n\nSilvergate 的十年进化史\n\n\nSilvergate 是一家加利福尼亚银行，成立于 1988 年。在最初的 30 年里，Silvergate 是一家只有几亿美元存款的小银行。由于其高管的远见卓识，Silvergate 并没有受到 2008 年金融危机的影响。\n\n\n同年，Alan Lane 成为 Silvergate 的首席执行官。Alan 在银行领域拥有超过 40 年的工作经验，担任过各种职务。\n\n\n\n\n\n故事就是这样开始的，Alan 在 2013 年以个人身份投资比特币后，也将 Silvergates 的业务转向了加密货币。\n\n\n在 2019 年的一次采访中，Alan 说他在一次会议上认识了一家名为 SecondMarket 的公司，该公司的业务是为流动性差的股票提供流动性，他们也正在探索为 Silvergate 等小型银行提供流动性。\n\n\nSecondMarket 的创始人兼首席执行官是 Barry Silbert，Barry 恰好又是加密行业最大的公司 Digital Currency Group（DCG）的创始人兼首席执行官。SecondMarket 在 …",
@@ -323,106 +333,6 @@
           "publishedOn": "2023-03-08T08:00:01.000Z",
           "wordCount": null,
           "title": "比特币交易平台LocalBitcoins告别终曲：从诞生、发展、辉煌到衰落",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35365",
-          "author": null,
-          "description": "Yuga Labs在内大批「雕花匠」赶来，酝酿着各种比特币版的NFT。",
-          "link": "https://www.theblockbeats.info/news/35365",
-          "publishedOn": "2023-03-08T05:30:01.000Z",
-          "wordCount": null,
-          "title": "给比特币「雕花」，增值还是累赘？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35362",
-          "author": null,
-          "description": "市场整体压力水平不高、情绪偏中性、活跃度良好、承接能力略有增加。",
-          "link": "https://www.theblockbeats.info/news/35362",
-          "publishedOn": "2023-03-08T04:46:21.000Z",
-          "wordCount": null,
-          "title": "第11周链上数据分析：交易量有所回落，衍生品模型处于极值区域",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35364",
-          "author": null,
-          "description": "「持有者收益、集成与估值、产品特性聚合于一身的Pendle」",
-          "link": "https://www.theblockbeats.info/news/35364",
-          "publishedOn": "2023-03-08T04:42:56.000Z",
-          "wordCount": null,
-          "title": "3个月3倍，Pendle的LSD叙事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35363",
-          "author": null,
-          "description": "首届活动主题为「走进社交元宇宙」，是一个专注于Web3社交应用层的黑客松",
-          "link": "https://www.theblockbeats.info/news/35363",
-          "publishedOn": "2023-03-08T04:30:37.000Z",
-          "wordCount": null,
-          "title": "Blockbooster Web3.0社交元宇宙黑客松将于4月7日至9日在香港举行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35343",
-          "author": null,
-          "description": "由于通胀持续存在，美联储可能会继续收紧货币政策",
-          "link": "https://www.theblockbeats.info/news/35343",
-          "publishedOn": "2023-03-08T04:04:12.000Z",
-          "wordCount": null,
-          "title": "鲍威尔讲话意外「放鹰」，3月加息50个基点的预期升破50%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35342",
-          "author": null,
-          "description": "Steam与Epic的争斗，为链游打开了一扇大门。",
-          "link": "https://www.theblockbeats.info/news/35342",
-          "publishedOn": "2023-03-08T04:01:50.000Z",
-          "wordCount": null,
-          "title": "链游会是传统游戏大厂的分水岭吗？一文了解Steam和Epic的GameFi政策",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35340",
-          "author": null,
-          "description": "TraditioNow将与更多杰出的创作者、艺术家、行业从业者建立联系，进行资源互补和协同创新，从而共同将Web3创作者经济的源源动力注入文化艺术发展。",
-          "link": "https://www.theblockbeats.info/news/35340",
-          "publishedOn": "2023-03-08T03:22:11.000Z",
-          "wordCount": null,
-          "title": "链接Web3与现实的文艺复兴平台TraditioNow，与BlockBeats达成战略合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35339",
-          "author": null,
-          "description": "此次入选的项目主要围绕着DeFi，NFTFi，METAVERSE等领域",
-          "link": "https://www.theblockbeats.info/news/35339",
-          "publishedOn": "2023-03-08T03:00:36.000Z",
-          "wordCount": null,
-          "title": "Shard Dubai首批线上Demo Day入选15个项目速览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35338",
-          "author": null,
-          "description": "神鱼分享对当前市场、FTX事件影响、DeFi创新、DEX未来等多个话题的看法和底层思考。",
-          "link": "https://www.theblockbeats.info/news/35338",
-          "publishedOn": "2023-03-08T02:58:50.000Z",
-          "wordCount": null,
-          "title": "Cobo神鱼：历史就是你每天的经历",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35328",
-          "author": null,
-          "description": "为什么 Cosmos 对 LSD 的研究比较多，但产品少",
-          "link": "https://www.theblockbeats.info/news/35328",
-          "publishedOn": "2023-03-08T01:00:01.000Z",
-          "wordCount": null,
-          "title": "Cosmos LSD 简史：研究多，产品少",
           "imageUrl": null
         }
       ]
