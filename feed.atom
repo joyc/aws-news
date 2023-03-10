@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-09T18:10:06.039Z</updated>
+    <updated>2023-03-10T00:40:09.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -447,36 +447,6 @@ BLockBeats 注：首次使用该功能需要授权解锁 USDC（Unlock USDC）�
         <link href="https://www.theblockbeats.info/news/35329"/>
         <updated>2023-03-07T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[近期，Iron Bank 和 Alpha Homora 之间就逾 3000 万美元的坏账「闹僵」一事在 DeFi 圈内引发了广泛讨论。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理解Curve的正确姿势：头部流动性市场的业务现状、生态发展、护城河及估值对比]]></title>
-        <id>https://www.theblockbeats.info/news/35323</id>
-        <link href="https://www.theblockbeats.info/news/35323"/>
-        <updated>2023-03-07T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本报告将重点阐述和讨论 Curve 及其生态自 2021 年以来变化的部分。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读获a16z领投的加密指数赛道的新星Alongside]]></title>
-        <id>https://www.theblockbeats.info/news/35330</id>
-        <link href="https://www.theblockbeats.info/news/35330"/>
-        <updated>2023-03-07T10:42:42.000Z</updated>
-        <summary type="html"><![CDATA[获 a16z 领投 1100 万美元的 Alongside 究竟有何魅力？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A&T Capital：我们为什么看好Scroll并对其投资]]></title>
-        <id>https://www.theblockbeats.info/news/35322</id>
-        <link href="https://www.theblockbeats.info/news/35322"/>
-        <updated>2023-03-07T08:15:27.000Z</updated>
-        <summary type="html"><![CDATA[本轮融资让Scroll的融资总额达8300万美元，估值高达18亿美金。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
