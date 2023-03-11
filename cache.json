@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35485",
+          "author": null,
+          "description": "原文作者：Jack、Logicrw、FYJ，BlockBeats\n\n\n1 天时间，SVB 的涟漪效应就来到了加密市场。今晨，因 SVB 中有部分存款，USDC 稳定币发行商 Circle 突然面临严重挤兑，USDC 出现持续性脱锚。同时，Binance、Coinbase 等中心化交易平台均宣布关闭 USDC 的部分兑换服务。截至撰稿时，USDC 价格脱锚至 0.933 美元附近，过去 24 小时已销毁超 27 亿枚 USDC。面临恐慌和挤兑，USDC 会进入死亡螺旋吗？\n\n\n为什么会挤兑？33 亿美元 SVB 储蓄\n\n\n稳定币发行商 Circle 今日在社交媒体上发文表示，硅谷银行是 Circle 的六家银行合作伙伴之一，负责与其他银行共同管理 USDC 约 25% 的现金储备。Circle 目前正在等待观察美国联邦存款保险公司接管硅谷银行对其储户的影响，但 Circle 和 USDC 继续正常运营。\n\n\n\n\n\n据 Circle 官网发布的最新数据显示，目前流通中的 USDC 市值共计约为 434 亿美元，资金储备共计 435 亿美元，其中现金储备为 111 亿美元，占比约为 25%，其余 334 亿美元储备为短期国债投资组合。今天结束时确认，星期四发起的去除余额的指令尚未处理，因此美元稳定币（USDC）账户储备中仍有大约 40 亿美元中的 33 亿美元储备留在 SVB。\n与其他接受 SVB 银行服务的客户一样，Circle 将遵循各州和联邦监管机构提供的指导。\n\n\n什么情况会让 Circle 进入死亡螺旋\n\n\n根据 BlockBeats 目前收集到的信息，Circle 在「SVB 事件」中面临的损失应该不大。但从当前市场的恐慌程度来看，USDC 仍存在持续脱锚的风险。那么在什么情况下，USDC 会出现严重的脱锚呢？BlockBeats 对几个关键影响因素进行了梳理。\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/35485",
+          "publishedOn": "2023-03-11T04:36:16.000Z",
+          "wordCount": null,
+          "title": "USDC会进入死亡螺旋吗?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35480",
+          "author": null,
+          "description": "原文标题：《\n\n我如何在 crypto 中，从身无分文，3 年 1000 倍 to $10m？\n\n》\n原文作者：VINCERO，OnePiece Research\n\n\n我是如何进入 Crypto 的？\n\n\n\n\n\n2017 年，在 Bali（巴厘岛），当时也算是个 Nomad（浪人），但是还不懂什么是 Crypto（加密货币），看来算是半只脚跨进门了 of Crypto Nomad（加密游民）？\n  \n\n\n当年在 Bali 住在一个小别墅里面，因为比较喜欢认识世界各地的朋友，对不同的语言和文化很感兴趣，所以也在做 CouchSurfing（沙发客）的 Host——源自于给背包客旅行者提供一个借宿的地方，可以是一个沙发，或者打地铺，也可以是一张床，Whatever 能睡觉就行，流行于欧美的年轻人和学生中，主要是可以结交世界各地的朋友，深入的了解当地的生活方式和文化，同时也可以节约旅费。由于在做这个 CouchSurfing 的 Host，所以也加入了当地的社区，每周会有一些活动，关于旅行分享，文化交流，喝酒蹦迪等等，都是全世界各地的年轻人，都很有活力，非常好玩。\n\n\n\n\n那么我是怎么接触和进入到 Crypto 的呢？也算是机缘巧合，或者也许也是命中注定？\n\n\n\n有一天晚上，也是正常去参加 CouchSurfing 的\"正经活动\"——喝酒蹦迪（不同于在中国的土嗨式蹦迪，开卡座喝香槟抓手指，喝了夜店的假酒第二天吐一天）是在一个很有特色的地方，叫做 Jungle，是在 Bali Canggu 的稻田里，这个地方属于是邀请制，只有当地的 Nomad 浪人们才知道，去的都是一些 Cool People，颜值都特别高，身高也特别高！（我 186 在人群中只感觉到弱小无助），都是一些艺术家，hippy（嬉皮士），瑜伽灵修者，背包客，冲浪手，什么人都有，奇装异服的（身材好的一般不穿衣服），反正…",
+          "link": "https://www.theblockbeats.info/news/35480",
+          "publishedOn": "2023-03-11T02:00:01.000Z",
+          "wordCount": null,
+          "title": "加密OG的自述：我如何在加密市场中3年身价翻千倍的？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35454",
           "author": null,
           "description": "当前的NFT类型、交易规模、用户规模、矿业变化和网络基本面",
@@ -293,16 +313,6 @@
           "publishedOn": "2023-03-09T02:54:08.000Z",
           "wordCount": null,
           "title": "Yuga Labs拥抱比特币NFT说明了什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35337",
-          "author": null,
-          "description": "比特币主权Rollup不仅扩大了Rollup的可能性，而且有可能帮助引导一个健康的比特币区块空间费用市场。",
-          "link": "https://www.theblockbeats.info/news/35337",
-          "publishedOn": "2023-03-08T14:15:01.000Z",
-          "wordCount": null,
-          "title": "读懂Rollkit：构建比特币主权Rollup",
           "imageUrl": null
         }
       ]
