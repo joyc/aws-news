@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-10T18:09:27.214Z</updated>
+    <updated>2023-03-11T00:34:37.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -927,36 +927,6 @@ BLockBeats 注：首次使用该功能需要授权解锁 USDC（Unlock USDC）�
         <link href="https://www.theblockbeats.info/news/35337"/>
         <updated>2023-03-08T14:15:01.000Z</updated>
         <summary type="html"><![CDATA[比特币主权Rollup不仅扩大了Rollup的可能性，而且有可能帮助引导一个健康的比特币区块空间费用市场。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget成为尤文图斯女子足球队官方赞助商]]></title>
-        <id>https://www.theblockbeats.info/news/35372</id>
-        <link href="https://www.theblockbeats.info/news/35372"/>
-        <updated>2023-03-08T09:15:36.000Z</updated>
-        <summary type="html"><![CDATA[赞助尤文图斯女子足球队，体现了Bitget在加密领域为女性发展的努力，激励女性成为最好的自己]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊入局NFT意味着什么？一文梳理社区观点]]></title>
-        <id>https://www.theblockbeats.info/news/35371</id>
-        <link href="https://www.theblockbeats.info/news/35371"/>
-        <updated>2023-03-08T08:45:15.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊究竟是会像Coinbase NFT一样惨淡收场，还是会改写NFT市场的格局，听听社区OG们怎么看。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币交易平台LocalBitcoins告别终曲：从诞生、发展、辉煌到衰落]]></title>
-        <id>https://www.theblockbeats.info/news/35341</id>
-        <link href="https://www.theblockbeats.info/news/35341"/>
-        <updated>2023-03-08T08:00:01.000Z</updated>
-        <summary type="html"><![CDATA[自 2012 年诞生以来，LocalBitcoins 创造了属于它自己的辉煌，但最终为现实所迫，于 2023 年 2 月 9 日宣布停止服务。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
