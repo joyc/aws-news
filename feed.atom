@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-11T06:09:01.129Z</updated>
+    <updated>2023-03-11T12:12:08.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3钱包终局：安全便捷与去中心化的统一]]></title>
+        <id>https://www.theblockbeats.info/news/35477</id>
+        <link href="https://www.theblockbeats.info/news/35477"/>
+        <updated>2023-03-11T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[EIP 4337并没有解决本质问题。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDC会进入死亡螺旋吗?]]></title>
         <id>https://www.theblockbeats.info/news/35485</id>
