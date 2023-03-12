@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35509",
+          "author": null,
+          "description": "3.12 三周年之际，全球经济市场也经历了黑天鹅事件。",
+          "link": "https://www.theblockbeats.info/news/35509",
+          "publishedOn": "2023-03-12T09:59:23.000Z",
+          "wordCount": null,
+          "title": "周末荐读：概览硅谷银行暴雷原因及对加密市场影响；ETHDenver大会结束",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35490",
+          "author": null,
+          "description": "面对USDC危机，Jump、IOSG、Wintermute等大户都是如何操作的呢",
+          "link": "https://www.theblockbeats.info/news/35490",
+          "publishedOn": "2023-03-12T06:17:17.000Z",
+          "wordCount": null,
+          "title": "危机与机遇共存，看机构与大户都「抄底」了多少 USDC？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35489",
+          "author": null,
+          "description": "硅谷银行的倒闭将意味着创业公司处境艰难，包括早期的加密公司。",
+          "link": "https://www.theblockbeats.info/news/35489",
+          "publishedOn": "2023-03-12T05:45:48.000Z",
+          "wordCount": null,
+          "title": "硅谷银行崩溃对加密行业意味着什么",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35488",
           "author": null,
           "description": "SE 在发布会上表示区块链相关战略会依然继续。",
