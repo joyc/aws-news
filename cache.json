@@ -164,56 +164,6 @@
           "wordCount": null,
           "title": "在比特币网络上发Token？一文了解如何铸造BRC-20",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35452",
-          "author": null,
-          "description": "原文标题：《\n\n解密 Silvergate 与硅谷银行危机：一场美元加息周期下的豪赌\n\n》\n原文作者：0xmin，深潮 TechFlow\n\n\n\n美国中小银行接连暴雷！\n\n\n3 月 8 日，以加密货币友好著名的银行 Silvergate Bank 宣布清盘，将所有存款退还客户。\n\n\n3 月 10 日，专门为硅谷科技公司提供金融服务的硅谷银行 (Silicon Valley Bank) 出售 210 亿美元的可销售证券，遭受了 18 亿美元的亏损，疑似存在流动性问题，周四股价暴跌超过 60%，市值一日蒸发 94 亿美元。\n\n\n这也吓坏了一众硅谷大佬。\n\n\n「硅谷教父」彼得蒂尔的风投基金 Founders Fund 直接建议投资的公司从硅谷银行撤资，Y Combinator CEO Garry Tan 也发出警告，建议被投企业考虑限制对贷方的敞口，最好不要超过 25 万美元……\n\n\n更可怕的是，硅谷银行或是酿成危机的第一块多米诺骨牌，不仅影响其他美国银行，更可能对硅谷的科技初创公司带来打击。\n\n\n究竟发生了什么？\n\n\n今天，我们将讲述一个关于银行如何破产的故事。\n\n\n解读银行商业模式\n\n\n首先，我们需要了解银行业的商业模式。\n\n\n简单来说，商业银行就是一家经营货币的公司，银行的商业模式，和其他生意在本质上没有区别——低买高卖，只是这个商品变成了金钱。\n\n\n银行从存款人或者说资本市场那里拿到钱，然后把它贷给借款人，从利息差里面获利。\n\n\n比如：一家银行以年利率 2% 从存款那里借到钱，然后把它以年利率 6% 贷给借款人，银行就赚了 4% 的息差，这就是净利息收入。此外，银行还可以从基本的收费业务和其他服务中赚取利润，这就是非利息收入。净利息收入和非利息收入加在一起，构成了银行的净收入。\n\n\n因此，银行想要获得更多利润的话，和销售商品一样，最好的状态是无库存，也就是把低成本吸收进来的…",
-          "link": "https://www.theblockbeats.info/news/35452",
-          "publishedOn": "2023-03-10T05:18:20.000Z",
-          "wordCount": null,
-          "title": "误判美联储加息节奏，Silvergate与硅谷银行深陷流动性危机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35445",
-          "author": null,
-          "description": "原文作者：@Degg_GlobalMacroFin\n\n\n1、史无前例的科技牛\n\n\n\n2020 年下半年疫情担忧褪去后而美联储仍在承诺维持 0 利率很长时间，量化宽松持续进行，通胀也见不到影子，全球迎来了科技企业的融资热潮期，startups 贷款和风投额度的快速增长使科技初创企业手里积累的大量的现金和存款，而这些存款很大程度流入了 Silicon Valley Bank（下简称 SVB）这一硅谷最重要的、也是全美前 20 大的银行。2020 年 6 月至 2021 年 12 月的一年半期间，SVB 的存款由 760 亿美元上升到超过 1900 亿美元，增幅接近 2 倍（图 1）。\n\n\n\n图1\n\n\n\n2、「闭着眼睛买」\n\n\n\n面对负债端资金的大量流入，SVB 资产端可投资资金也快速上升。2020-2021 年美联储还没有开始加息，如果把钱趴在美联储的准备金账户上，年化只有低的可怜的 0.1% 的利息。SVB 的选择是，买大量的美债和 MBS。从它的 10-Q 来看，2020 年年中到 2021 年末，SVB 增持了 120 亿的美债，持有量从 40 亿增长到了 160 亿（图 2）。更重要的是，SVB 增持了大约 800 亿美元的 MBS，持有量从 200 多亿增长到了 1000 亿（图 3）。这是什么概念呢？SVB 总资产规模大约 2000 亿美元，相当于它将一半的资产配置在了 MBS 上，或者认为它将 2020-2021 年新增流入的超过 1100 亿存款中的 70% 配置在了 MBS 上。这对于一家以贷款为主营业务的商业银行而言几乎是难以置信的，甚至是荒唐的。\n\n\n\n图2\n\n图3\n\n\n\n3、「现金是垃圾」\n\n\n\n与疯狂增持的 MBS 相比，SVB 手头的现金和现金等价物（包括准备金，回购，短债）的增长并不明显，2020 年中至 2021 年中只由 140 亿增长到了 2…",
-          "link": "https://www.theblockbeats.info/news/35445",
-          "publishedOn": "2023-03-10T03:30:42.000Z",
-          "wordCount": null,
-          "title": "简单但严肃的回顾一下硅谷银行（SVB）的整个事件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35444",
-          "author": null,
-          "description": "原文标题：《\n\n清算、监管等多方利空打压，比特币强撑 2 万美元压力位\n\n》\n原文作者：\n\nMary Liu，比推 BitpushNews\n\n\n在加密银行 Silvergate Bank清算、美国监管机构起诉 KuCoin 等多方利空消息影响下，加密市场情绪恶化。\n\n\n比推终端数据显示，截至撰写本文时，比特币 (BTC) 24 小时跌幅超过 8%，七周来首次跌破 21,000 美元，盘中一度跌至 20,050 美元的局部低点，为 1 月 14 日以来的最低水平，随后小幅反弹至 20,250 美元上方。以太坊和山寨币市场也被带崩，以太坊下跌 8% 至 1,437 美元，Binance 的 BNB 跌幅 6%，Ripple 的 XRP Token下跌 7.54%，Polygon 的 MATIC 下跌 8.17%。\n\n\nCoinglass 数据显示，在过去 24 小时内，比特币清算金额超过 9000 万美元，其中超过 95% 为多头头寸。\n\n\n\n\n\n比推此前报道，Silvergate Capital (SI) 周三宣布打算结束业务并自愿清算 Silvergate Bank，加密领域最著名的银行之一彻底土崩瓦解。该银行期望全额偿还所有存款，KBW 分析师昨晚在一份报告中表示，截至 12 月 31 日，相对于加密货币存款（38 亿美元），Silvergate Bank 拥有多余的现金（46 亿美元）。\n\n\n监管镇压\n\n\n加密市场下跌也恰逢周四下午纽约总检察长 Letitia James 起诉 KuCoin 的消息，指控该加密交易平台提供未注册的证券和商品。该诉讼还称，以太坊、Luna 和 TerraUSD 都是证券。\n\n\n值得注意的是，美国联邦层面对以太坊是证券还是商品存在分歧，美国证券交易委员会（SEC）主席 Gary Gensler 暗示他认为它是一种未注册的证券，而商品期货交易…",
-          "link": "https://www.theblockbeats.info/news/35444",
-          "publishedOn": "2023-03-10T03:04:01.000Z",
-          "wordCount": null,
-          "title": "清算、监管等多方利空打压，比特币强撑2万美元压力位",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35384",
-          "author": null,
-          "description": "原文标题：《\n\nAdidas 前 Web3 负责人: 用 Web3 构建品牌的新增长飞轮\n\n》\n原文作者：starzq.eth，SevenUp DAO\n\n\n\n\nTL;DR\n\n\nAdidas 前 Web3 负责人 Tareq 今年自立门户成立 web3 品牌咨询机构 SMS, 在接受 NFT 头部播客 Overpriced JPEGs 采访时，分享了忠诚度 (Loyalty)3.0 理论以及品牌如何通过 web3 构建新增长飞轮\n\n\n本文从近万字笔记中提炼出 3 点 insight。对我来说是一次学习和总结，也值得所有的品牌和 IP 关注\n\n\n1. 从 shop-to-earn 到 participate-to-earn, 本质上是从消费者经济到文化经济的变迁\n\n\n\n2. 运动品牌 x Participate-to-Earn = Wear-to-Earn\n\n\n3. 忠诚度 3.0: 用 Web3 补上品牌新增长飞轮的最后一环\n\n\n一、从 shop-to-earn 到 participate-to-earn\n\n\nTareq 非常同意 Forum3 的方法论（从 shop-to-earn 到 participate-to-earn，见下方推文），并做了更高层次的解读：\n\n\n这本质上是从消费者经济到文化经济的变迁（这段话也放在了 SMS 官网）\n\n\n\n\n\n\n\n消费经济：\n\n\n消费即意义，用户渴望用消费来填满自己，这时对应的忠诚度计划就是 shop-to-earn, 你给我更多的消费频次，我给你更多的折扣, 非常交易导向。shop-to-earn 的问题我们之前已经分析过，此处不再赘述\n\n\n文化经济：\n\n\n年轻用户需要的不止是商品和消费，品牌文化带来的身份感和归属感可能更为重要。这时对应的忠诚度计划就是 participate-to-earn: 品牌鼓励用户某个行为，这个行为强化了用…",
-          "link": "https://www.theblockbeats.info/news/35384",
-          "publishedOn": "2023-03-10T03:00:02.000Z",
-          "wordCount": null,
-          "title": "Adidas前Web3负责人: 用Web3构建品牌的新增长飞轮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35428",
-          "author": null,
-          "description": "原文标题：《\n\n价值积累案例研究：Yuga Labs 如何打造庞大的商业帝国？\n\n》\n原文作者：Vader Research\n原文编译：深潮 TechFlow\n\n\n价值积累是 Web3 中一个至关重要但常常被忽视的议题。在本文中，我们将深入探讨 Yuga 生态系统内产生的价值如何分配给不同的利益相关者（Yuga Labs，$APE，BAYC，MAYC 等）。\n\n\n1. 资本结构和企业价值\n\n\n在 Web2 企业中，资本结构通常由股权和不同层次的债务组成。高级债权人通常拥有更高的抵押品安全，但收取较低的利率，而次级债权人持有的安全抵押品较少，但收取较高的利率。\n\n\n企业价值就像一家公司的价格标签。它告诉我们这家公司总共值多少钱，包括它欠别人的钱（如银行）和属于业主的钱（如股东）。\n\n\n企业价值=股权价值+债务价值\n\n\n\n\n\n债权人和少数股权股东在企业的收益和资产方面有法律权利。相反，NFT 和Token所有者并没有享有这样的保护。尽管如此，通过将 Web3 公司发行的\n\nToken\n\n和 NFT 作为整个资本结构的一部分，我们可以增强价值增值的设计和结构。\n\n\n运用同样的逻辑，Yuga 生态系统的价值等于整个 Yuga 世界的价值。它是 Yuga Labs 股权实体所有的资金和所有现有 NFT 收藏品（BAYC，MAYC 等）和\n\nToken\n\n（$APE）价值的总和。\n\n\nYuga 生态系统价值 = Yuga Labs 股权价值 + Yuga NFT 和\n\nToken\n\n的价值\n\n\n\n\n\n2. 内在价值\n\n\n内在价值是指某个资产未来的价值，我们可以根据未来的盈利能力来估算其内在价值。但由于未来的钱不如现在的钱有价值，我们会对未来的收益进行折现处理。\n\n\n因此，一个公司、\n\nToken\n\n或 NFT 的基本价值等于其未来盈利的折现值。用同样的逻辑，Yuga 生态系统的价值也等…",
-          "link": "https://www.theblockbeats.info/news/35428",
-          "publishedOn": "2023-03-10T01:30:01.000Z",
-          "wordCount": null,
-          "title": "价值积累案例研究：Yuga Labs如何打造庞大的商业帝国？",
-          "imageUrl": null
         }
       ]
     },
