@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35488",
+          "author": null,
+          "description": "SE 在发布会上表示区块链相关战略会依然继续。",
+          "link": "https://www.theblockbeats.info/news/35488",
+          "publishedOn": "2023-03-12T02:39:03.000Z",
+          "wordCount": null,
+          "title": "Square Enix社长因为支持区块链下台？事情可能并没有你想的那么坏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35487",
+          "author": null,
+          "description": "「行业太硬核了，黑天鹅一只比一只肥。」",
+          "link": "https://www.theblockbeats.info/news/35487",
+          "publishedOn": "2023-03-12T01:24:27.000Z",
+          "wordCount": null,
+          "title": "「312」三周年：请敬畏市场，永远永远",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35486",
+          "author": null,
+          "description": "USDC储备中还有10亿美元存放在Customers Bank",
+          "link": "https://www.theblockbeats.info/news/35486",
+          "publishedOn": "2023-03-12T00:39:43.000Z",
+          "wordCount": null,
+          "title": "Circle回应USDC脱锚（全文）：必要时使用外部资本弥补储备金短缺",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35477",
           "author": null,
           "description": "EIP 4337并没有解决本质问题。",
@@ -153,16 +183,6 @@
           "publishedOn": "2023-03-10T01:30:01.000Z",
           "wordCount": null,
           "title": "价值积累案例研究：Yuga Labs如何打造庞大的商业帝国？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35429",
-          "author": null,
-          "description": "按目前这种「圈地运动」的速度，可能都不需要5年时间，Web3全球用户就能达到10亿，最快10年就能覆盖全球60%的人口。",
-          "link": "https://www.theblockbeats.info/news/35429",
-          "publishedOn": "2023-03-09T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Web3「圈地运动」，谁都无法视而不见",
           "imageUrl": null
         }
       ]
