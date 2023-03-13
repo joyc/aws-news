@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-13T06:10:42.720Z</updated>
+    <updated>2023-03-13T12:14:35.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中心化风险警报尚未解除，DEX平台再次崛起]]></title>
+        <id>https://www.theblockbeats.info/news/35524</id>
+        <link href="https://www.theblockbeats.info/news/35524"/>
+        <updated>2023-03-13T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[最近因硅谷银行倒闭导致的「USDC危机」使得用户选择DEX交易，Uniswap、Curve Finance、SushiSwap这些DEX在上周末取得了令人瞩目的增长。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点近期可以关注的64个新项目]]></title>
+        <id>https://www.theblockbeats.info/news/35540</id>
+        <link href="https://www.theblockbeats.info/news/35540"/>
+        <updated>2023-03-13T09:12:46.000Z</updated>
+        <summary type="html"><![CDATA[「目前很多潜力项目都可以申请Waitlist」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[融资超1亿美元，老牌ZK项目Aztec Netowrk为何突然转型？]]></title>
+        <id>https://www.theblockbeats.info/news/35539</id>
+        <link href="https://www.theblockbeats.info/news/35539"/>
+        <updated>2023-03-13T09:03:05.000Z</updated>
+        <summary type="html"><![CDATA[ZK Rollup隐私及扩容解决方案Aztec Network宣布将逐步关停其DeFi隐私桥项目Aztec Connect]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点：USDC事件分析—FUD终点，熊市下半场起点]]></title>
+        <id>https://www.theblockbeats.info/news/35523</id>
+        <link href="https://www.theblockbeats.info/news/35523"/>
+        <updated>2023-03-13T08:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Circle事件的结束会是新一轮流动性枯竭的开始，加密市场也要开始新一轮发牌。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密友好银行一周内陨落殆尽，加密行业该如何缓解流动性危机]]></title>
+        <id>https://www.theblockbeats.info/news/35538</id>
+        <link href="https://www.theblockbeats.info/news/35538"/>
+        <updated>2023-03-13T08:17:44.000Z</updated>
+        <summary type="html"><![CDATA[完全去中心化银行的催化剂？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全景式解读各类资产桥及跨链应用]]></title>
+        <id>https://www.theblockbeats.info/news/35537</id>
+        <link href="https://www.theblockbeats.info/news/35537"/>
+        <updated>2023-03-13T08:04:20.000Z</updated>
+        <summary type="html"><![CDATA[资产跨链是跨链桥最重要的应用场景]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云Web3峰会2WEB3 FEST Hong Kong 2023将于3月17日召开]]></title>
+        <id>https://www.theblockbeats.info/news/35536</id>
+        <link href="https://www.theblockbeats.info/news/35536"/>
+        <updated>2023-03-13T08:02:02.000Z</updated>
+        <summary type="html"><![CDATA[希望借此活动将最新技术及项目分享与传统企业结合，推进 Web3.0 生态发展。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在激励层做文章，了解Merkl如何在Uniswap V3上搭建新的激励范式]]></title>
         <id>https://www.theblockbeats.info/news/35516</id>

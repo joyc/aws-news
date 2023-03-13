@@ -6,6 +6,76 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35524",
+          "author": null,
+          "description": "最近因硅谷银行倒闭导致的「USDC危机」使得用户选择DEX交易，Uniswap、Curve Finance、SushiSwap这些DEX在上周末取得了令人瞩目的增长。",
+          "link": "https://www.theblockbeats.info/news/35524",
+          "publishedOn": "2023-03-13T10:00:01.000Z",
+          "wordCount": null,
+          "title": "中心化风险警报尚未解除，DEX平台再次崛起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35540",
+          "author": null,
+          "description": "「目前很多潜力项目都可以申请Waitlist」",
+          "link": "https://www.theblockbeats.info/news/35540",
+          "publishedOn": "2023-03-13T09:12:46.000Z",
+          "wordCount": null,
+          "title": "盘点近期可以关注的64个新项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35539",
+          "author": null,
+          "description": "ZK Rollup隐私及扩容解决方案Aztec Network宣布将逐步关停其DeFi隐私桥项目Aztec Connect",
+          "link": "https://www.theblockbeats.info/news/35539",
+          "publishedOn": "2023-03-13T09:03:05.000Z",
+          "wordCount": null,
+          "title": "融资超1亿美元，老牌ZK项目Aztec Netowrk为何突然转型？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35523",
+          "author": null,
+          "description": "Circle事件的结束会是新一轮流动性枯竭的开始，加密市场也要开始新一轮发牌。",
+          "link": "https://www.theblockbeats.info/news/35523",
+          "publishedOn": "2023-03-13T08:25:01.000Z",
+          "wordCount": null,
+          "title": "观点：USDC事件分析—FUD终点，熊市下半场起点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35538",
+          "author": null,
+          "description": "完全去中心化银行的催化剂？",
+          "link": "https://www.theblockbeats.info/news/35538",
+          "publishedOn": "2023-03-13T08:17:44.000Z",
+          "wordCount": null,
+          "title": "加密友好银行一周内陨落殆尽，加密行业该如何缓解流动性危机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35537",
+          "author": null,
+          "description": "资产跨链是跨链桥最重要的应用场景",
+          "link": "https://www.theblockbeats.info/news/35537",
+          "publishedOn": "2023-03-13T08:04:20.000Z",
+          "wordCount": null,
+          "title": "全景式解读各类资产桥及跨链应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35536",
+          "author": null,
+          "description": "希望借此活动将最新技术及项目分享与传统企业结合，推进 Web3.0 生态发展。",
+          "link": "https://www.theblockbeats.info/news/35536",
+          "publishedOn": "2023-03-13T08:02:02.000Z",
+          "wordCount": null,
+          "title": "阿里云Web3峰会2WEB3 FEST Hong Kong 2023将于3月17日召开",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35516",
           "author": null,
           "description": "为了激励集中流动性 AMM 中的流动性，Angle 推出了 Merkl，一个新的激励 Uniswap V3 类型流动性资金的机制平台。任何 DAO 或个人都可以在 Merkl 定制激励 Uniswap V3 的类型和方式，包括设置自己的分配参数来鼓励更严格的范围等等。Merkl 能凭借这些新功能，成为最有效和灵活的方式激励 Uniswap V3 矿池吗？\n\n\nAngle & Merkl \n\n\n\n\nAngle 是一个于 2021 年 11 月 推出的去中心化、资本高效和超额抵押的稳定币协议，在 2021 年 9 月 28 日，完成 由 a16z 领投的 500 万美元种子轮融资，Fabric VC、Wintermute、Divergence Ventures 等参投。Angle 可用于发行称为 agTokens 的稳定币，旨在反映它们所挂钩的资产的价值。该协议由几个不同的模块或智能合约集组成，可以从中发行或铸造稳定币。\n\n\n\n\n Angle 在推出其第一个带有单一铸币模块（核心模块）的稳定币 agEUR 的同时，也引入了一个允许借入 Angle 稳定币作为抵押品的借贷模块。该协议还参与了直接存款模块，也称为算法市场操作 (AMO)，允许它在其他协议中增强 agTokens 的流动性。\n\n\n\n\n虽然 Merkl 机制是由 Angle Labs 构建和维护的，但它与 Angle 协议是分开的。\n\n\n\n\nMerkl 是什么\n\n\n\n\n从本质上讲，Merkl 是一个激励 Uniswap V3 类型流动性资金的机制平台，Uniswap V3 上的流动性提供者 (LP) 和其他类型的具有集中流动性的 AMM 可以从一个或多个池中激励流动性的人 (incentivizors) 那里获得补偿。\n\n\n\n\n激励者在如何分配奖励方面享有极大的灵活性：他们可以选择对提供更多单一代币流动性的 LPs 进…",
