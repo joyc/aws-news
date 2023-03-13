@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-13T00:38:40.284Z</updated>
+    <updated>2023-03-13T06:10:42.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在激励层做文章，了解Merkl如何在Uniswap V3上搭建新的激励范式]]></title>
+        <id>https://www.theblockbeats.info/news/35516</id>
+        <link href="https://www.theblockbeats.info/news/35516"/>
+        <updated>2023-03-13T04:23:55.000Z</updated>
+        <summary type="html"><![CDATA[为了激励集中流动性 AMM 中的流动性，Angle 推出了 Merkl，一个新的激励 Uniswap V3 类型流动性资金的机制平台。任何 DAO 或个人都可以在 Merkl 定制激励 Uniswap V3 的类型和方式，包括设置自己的分配参数来鼓励更严格的范围等等。Merkl 能凭借这些新功能，成为最有效和灵活的方式激励 Uniswap V3 矿池吗？
+
+
+Angle & Merkl 
+
+
+
+
+Angle 是一个于 2021 年 11 月 推出的去中心化、资本高效和超额抵押的稳定币协议，在 2021 年 9 月 28 日，完成 由 a16z 领投的 500 万美元种子轮融资，Fabric VC、Wintermute、Divergence Ventures 等参投。Angle 可用于发行称为 agTokens 的稳定币，旨在反映它们所挂钩的资产的价值。该协议由几个不同的模块或智能合约集组成，可以从中发行或铸造稳定币。
+
+
+
+
+ Angle 在推出其第一个带有单一铸币模块（核心模块）的稳定币 agEUR 的同时，也引入了一个允许借入 Angle 稳定币作为抵押品的借贷模块。该协议还参与了直接存款模块，也称为算法市场操作 (AMO)，允许它在其他协议中增强 agTokens 的流动性。
+
+
+
+
+虽然 Merkl 机制是由 Angle Labs 构建和维护的，但它与 Angle 协议是分开的。
+
+
+
+
+Merkl 是什么
+
+
+
+
+从本质上讲，Merkl 是一个激励 Uniswap V3 类型流动性资金的机制平台，Uniswap V3 上的流动性提供者 (LP) 和其他类型的具有集中流动性的 AMM 可以从一个或多个池中激励流动性的人 (incentivizors) 那里获得补偿。
+
+
+
+
+激励者在如何分配奖励方面享有极大的灵活性：他们可以选择对提供更多单一代币流动性的 LPs 进…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEX全新探索，Gridex Protocol 如何在ETH生态部署完全上链的订单簿]]></title>
+        <id>https://www.theblockbeats.info/news/35510</id>
+        <link href="https://www.theblockbeats.info/news/35510"/>
+        <updated>2023-03-13T04:05:28.000Z</updated>
+        <summary type="html"><![CDATA[订单簿作为目前使用人数最多、范围最广的交易方式，细究Gridex Protocol 的创新和优势]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[财政部、美联储和FDIC联合声明全文：果断行动，保护美国经济]]></title>
+        <id>https://www.theblockbeats.info/news/35511</id>
+        <link href="https://www.theblockbeats.info/news/35511"/>
+        <updated>2023-03-13T03:04:16.000Z</updated>
+        <summary type="html"><![CDATA[宏观走向不明，周二美国将公布2月CPI，这将彻底决定此次加息的幅度。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：概览硅谷银行暴雷原因及对加密市场影响；ETHDenver大会结束]]></title>
         <id>https://www.theblockbeats.info/news/35509</id>
@@ -144,16 +207,6 @@
 
 
 有一天晚上，也是正常去参加 CouchSurfing 的"正经活动"——喝酒蹦迪（不同于在中国的土嗨式蹦迪，开卡座喝香槟抓手指，喝了夜店的假酒第二天吐一天）是在一个很有特色的地方，叫做 Jungle，是在 Bali Canggu 的稻田里，这个地方属于是邀请制，只有当地的 Nomad 浪人们才知道，去的都是一些 Cool People，颜值都特别高，身高也特别高！（我 186 在人群中只感觉到弱小无助），都是一些艺术家，hippy（嬉皮士），瑜伽灵修者，背包客，冲浪手，什么人都有，奇装异服的（身材好的一般不穿衣服），反正…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多维度解读比特币NFT的现状：累计总数突破32万个]]></title>
-        <id>https://www.theblockbeats.info/news/35454</id>
-        <link href="https://www.theblockbeats.info/news/35454"/>
-        <updated>2023-03-10T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[当前的NFT类型、交易规模、用户规模、矿业变化和网络基本面]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

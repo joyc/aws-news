@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35516",
+          "author": null,
+          "description": "为了激励集中流动性 AMM 中的流动性，Angle 推出了 Merkl，一个新的激励 Uniswap V3 类型流动性资金的机制平台。任何 DAO 或个人都可以在 Merkl 定制激励 Uniswap V3 的类型和方式，包括设置自己的分配参数来鼓励更严格的范围等等。Merkl 能凭借这些新功能，成为最有效和灵活的方式激励 Uniswap V3 矿池吗？\n\n\nAngle & Merkl \n\n\n\n\nAngle 是一个于 2021 年 11 月 推出的去中心化、资本高效和超额抵押的稳定币协议，在 2021 年 9 月 28 日，完成 由 a16z 领投的 500 万美元种子轮融资，Fabric VC、Wintermute、Divergence Ventures 等参投。Angle 可用于发行称为 agTokens 的稳定币，旨在反映它们所挂钩的资产的价值。该协议由几个不同的模块或智能合约集组成，可以从中发行或铸造稳定币。\n\n\n\n\n Angle 在推出其第一个带有单一铸币模块（核心模块）的稳定币 agEUR 的同时，也引入了一个允许借入 Angle 稳定币作为抵押品的借贷模块。该协议还参与了直接存款模块，也称为算法市场操作 (AMO)，允许它在其他协议中增强 agTokens 的流动性。\n\n\n\n\n虽然 Merkl 机制是由 Angle Labs 构建和维护的，但它与 Angle 协议是分开的。\n\n\n\n\nMerkl 是什么\n\n\n\n\n从本质上讲，Merkl 是一个激励 Uniswap V3 类型流动性资金的机制平台，Uniswap V3 上的流动性提供者 (LP) 和其他类型的具有集中流动性的 AMM 可以从一个或多个池中激励流动性的人 (incentivizors) 那里获得补偿。\n\n\n\n\n激励者在如何分配奖励方面享有极大的灵活性：他们可以选择对提供更多单一代币流动性的 LPs 进…",
+          "link": "https://www.theblockbeats.info/news/35516",
+          "publishedOn": "2023-03-13T04:23:55.000Z",
+          "wordCount": null,
+          "title": "在激励层做文章，了解Merkl如何在Uniswap V3上搭建新的激励范式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35510",
+          "author": null,
+          "description": "订单簿作为目前使用人数最多、范围最广的交易方式，细究Gridex Protocol 的创新和优势",
+          "link": "https://www.theblockbeats.info/news/35510",
+          "publishedOn": "2023-03-13T04:05:28.000Z",
+          "wordCount": null,
+          "title": "DEX全新探索，Gridex Protocol 如何在ETH生态部署完全上链的订单簿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35511",
+          "author": null,
+          "description": "宏观走向不明，周二美国将公布2月CPI，这将彻底决定此次加息的幅度。",
+          "link": "https://www.theblockbeats.info/news/35511",
+          "publishedOn": "2023-03-13T03:04:16.000Z",
+          "wordCount": null,
+          "title": "财政部、美联储和FDIC联合声明全文：果断行动，保护美国经济",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35509",
           "author": null,
           "description": "3.12 三周年之际，全球经济市场也经历了黑天鹅事件。",
@@ -93,16 +123,6 @@
           "publishedOn": "2023-03-11T02:00:01.000Z",
           "wordCount": null,
           "title": "加密OG的自述：我如何在加密市场中3年身价翻千倍的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35454",
-          "author": null,
-          "description": "当前的NFT类型、交易规模、用户规模、矿业变化和网络基本面",
-          "link": "https://www.theblockbeats.info/news/35454",
-          "publishedOn": "2023-03-10T14:00:01.000Z",
-          "wordCount": null,
-          "title": "多维度解读比特币NFT的现状：累计总数突破32万个",
           "imageUrl": null
         }
       ]
