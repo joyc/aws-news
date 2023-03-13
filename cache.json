@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35549",
+          "author": null,
+          "description": "原文标题：《\n\n解读 Stader：DVT 混合节点，多链低市值 LSD 协议能否迎来春天？\n\n》\n原文作者：雨中狂睡，深潮 TechFlow\n\n\n\n一个共识，今年加密市场的核心叙事是 LSD。于是，我们可以看到，很多协议产品都开始向 LSD 靠拢，比如 Frax Finance 推出了 frxETH，MakerDAO 即将推出 ETHD，Yearn 即将推出 yETH 等等。老牌质押协议 Stader Labs 同样在顺应趋势，推出了以太坊 LSD 相关产品。\n\n\n在这个竞争激烈的赛道，我们可以大体将该赛道分为三层：\n\n\n最底层就是以 DVT（分布式验证器技术）技术为核心的 SSV.Network、Obol Network。\n\n\n第二层就是为我们熟知的 Lido、Rocket Pool 等协议，它们负责帮助用户以更轻松且更高资本效率地质押以太坊。\n\n\n最上层便是 DeFi 层，DeFi 层协议将通过各类 DeFi 手段来提升如 stETH 等相关 LSD 流动性质押凭证的收益率。\n\n\nStader Labs 即将推出的 ETHx 属于第二层。\n\n\n最初 Stader Labs 的产品构想是为 Terra 提供流动性质押服务，但随着 Terra 大厦倾颓，Stader 开始转向多链扩展，并为 Polygon、BNB Chain、Near、Fantom、Hedera 和 Terra 2.0 提供流动性质押服务。据 DeFiLlama 数据统计，当前 Stader 的总锁定价值（TVL）为 1.09 亿美元。其原生Token $SD 的市值为 2400 万，FDV 为 1.6 亿美元。\n\n\n即将由 Stader Labs 推出的 ETHx 是否会成为其新的 TVL 助推器？让我们一探 Stader 的 LSD 产品设计及模式。\n\n\n混合节点运营商模式\n\n\nStader 希望 E…",
+          "link": "https://www.theblockbeats.info/news/35549",
+          "publishedOn": "2023-03-13T14:00:01.000Z",
+          "wordCount": null,
+          "title": "解读Stader：DVT混合节点，多链低市值LSD协议能否迎来春天？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35552",
+          "author": null,
+          "description": "3 月 13 日，加密货币金融服务商贝宝金融创始人、前 CEO Flex Yang 开启的 DeFi 项目 HOPE 正式官宣，而贝宝金融也在一周前，向新加坡法院提交了暂缓执行申请书，开启重组的第一步，这是自 2022 年 6 月贝宝表示资不抵债并暂停赎回和提币功能后，第一次公布债权赔付的后续进展。\n\n\n \n作为亚洲最大的加密银行之一，贝宝巅峰期的在贷余额高达 30 亿美元，得到了 Tiger Global、红杉等顶级资本的一众青睐。可惜在魔幻的 2022，在比特币暴力去杠杆的过程中，贝宝也难逃暴雷，成为众多清算的加密平台之一。\n\n\n\n\n贝宝的暴雷让不少用户感到意外，坊间不时有传言贝宝两位创始人不合和内讧。通过这份向法院提交的暂缓执行申请书，我们也能稍微了解到当时内部究竟发生了什么。\n\n\n\n \n创始人 Flex Yang 离职贝宝\n \n\n\n事实上，2022 年并非贝宝金融第一次发生危机。贝宝金融向来以高杠杆率高利润率闻名，早在 2020 年，行业内便传闻贝宝因 BTC 价格大幅下跌而爆仓，只不过当时其最大的借方 Tether 延长了贝宝补仓的时间。虽然行情快速回暖使得贝宝得以渡过此次危机，但这或许也成为两位创始人，对于公司发展理念和战略方向不同的开端。\n\n\n \n随着 DeFi Summer 的到来，全行业都在高喊「DeFi 顶替 CeFi」的时候，贝宝 CEO Flex Yang 也开始思考 DeFi 的发展。据 Flex Yang 后来表示，当时已经开始构思如何构建 DeFi 项目。2021 年，Flex Yang 开始与另一位联合创始人 Del Wang 协商股份收购一事。Flex Yang 逐渐退出贝宝金融的日常管理事务。\n\n\n \n根据最新的法庭文件显示，Flex Yang 于 2021 年 12 月 7 日向公司员工公布离职信息，并在 4 天之后对外公开了该消息。\n…",
+          "link": "https://www.theblockbeats.info/news/35552",
+          "publishedOn": "2023-03-13T13:22:25.000Z",
+          "wordCount": null,
+          "title": "贝宝重组后，创始人Flex Yang的新「HOPE」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35522",
+          "author": null,
+          "description": "原文标题：《\n\n协议收入数据解析：过去六个月中哪五个 DeFi 协议最赚钱？\n\n》\n原文作者：Poopman \n原文编译：深潮 TechFlow\n\n\n以下是最近六个月中最盈利的五个 DeFi 协议的列表，这些协议在去中心化金融行业中占据了重要的地位。这些协议的收益来自于各种收费模式，例如借贷、交易、做市等，以及通过Token激励来鼓励用户的参与和持有。让我们一起来看看这些协议的特点和收益情况。\n\n\n「盈利」的定义\n\n\nDeFi 的费用模式不同，但总体来说，DeFi 项目通过以下方式获得利润：\n\n\n交易费\n借贷费\n稳定费（例如 LiquityProtocol）\n\n\n此外，DeFi 通过三个主要渠道分配利润：\n\n\n协议库\n\n\nToken\n\n持有人 \nLP（流动性提供者）\n\n\n尽管前两者可以归为协议收入，但 LP 利润是不同的。LP 利润是「供应方收入」，意味着利润被重新分配给在池中提供流动性的人。例如，Uniswap 每年产生超过 7 亿美元的费用，但它只是盈利，因为这些收入的大部分都返还给 LP。\n\n\n为了评估项目的盈利能力，「收入」将是更好的指标，因为它们代表了在向 LP 分配费用后的「纯收入」。简而言之，收入 = 费用收入 - \n\nToken\n\n激励。现在我们已经定义了「盈利能力」是什么，让我们深入了解。\n\n\n前五名最赚钱的 DeFi 协议\n\n\n第一名：MakerDAO ~ 716 万美元\n\n\nMakerDAO 允许用户以 ETH/BTC/USDC/LINK 作为抵押品，并借出它的稳定币 $DAI，该稳定币与美元挂钩。\n\n\n\n\n\n费用模型\n\n\n当有人通过 MakerDAO 借款时，他们必须支付稳定费，这些费用用于购买 $MKR 并随后销毁。\n\n\n在过去的六个月中，MakerDAO 从费用中产生了 725 万美元的收入。扣除 9.32 万 美元的\n\nToken\n\n激励后，MakerDAO 的收益总额为 716 万美元，稳居收益榜的第一。\n\n\n\n\n\n第二名：Gains Network ~ 573 万美元\n\n\nGains Network 是一个建立在 Arbitrum 和 Polygon 上的衍生品交易平台，为用户提供加密货币和外汇交易选项，并提供杠杆交易。\n\n\n\n\n\n费用模型\n\n\n当用户打开、关闭或更新交易时，Gains 会收取一定的交易费。此外，还有展期费、资金费和清算费。在过去的六个月中，Gains 从费用中获得了 700 万美元。然而，$GNS 没有提供任何激励，因此只需要支付 127 万美元的供应方费用。\n\n\n这意味着 GainsNetwork 获得了大约 573 万美元的收益，位列最高收入者列表的第二位。\n\n\n\n\n\n第三名：GMX ~ 364 万美元\n\n\nGMX 是一个热门的永续合约交易平台，在 Arbitrum 上实现了低交换费用和零价格影响交易。用户可以在 GMX 上进行现货交易和交易永久期货，最高可杠杆达到 50 倍。\n\n\n\n\n\n费用模型\n\n\nGMX 将从交换和杠杆交易中产生的费用分配给那些持有 $GMX 并为 $GLP 提供流动性的人。在过去的 6 个月中，GMX 赚取了 6754 万美元的费用，其中 4727 万美元（70%）用于 GLP 持有者的供应方费用。剩余的 2026 万美元用作收入，但 1660 万美元 (82%) 用于\n\nToken\n\n激励。\n\n\n尽管在熊市期间表现良好，但由于\n\nToken\n\n激励的高成本，GMX 的利润相对较小，仅在最赚钱的项目列表上获得了第三。\n\n\n\n\n\n第四名：Convex ~157 万美元\n\n\nConvex 是建立在 CurveFinance 之上的收益增强器。通过控制超过 50％的 veCRV，Convex 利用其治理权力在 Curve 中增加 CRV 奖励，从而增强收益。\n\n\n\n\n\n费用模型\n\n\nConvex 从 3CRV 收益、$CRV 和其他流动性挖矿奖励中获得收入。在过去的六个月中，Convex 赚取了 7051 万美元的费用，其中 80% 的收入（5631 万美元）流向 Curve LP 做市商。\n\n\n剩下的 1417 万美元的收入主要用于  Token\n\n激励 ($CVX)，仅剩 157 万美元的收益。\n\n\n第五名：1inch ~ 127 万美元\n\n\n1inch 是一个基于 ETH 和 BSC 的非托管 DEX 聚合器。\n\n\n\n\n\n费用模型\n\n\n在过去的六个月中，1inch 创造了 197 万美元的收入。在扣除价值 69.3 万美元的Token激励后，1inch 的收益达到 127 万美元，稳居榜单第五名。\n\n\n\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/35522",
+          "publishedOn": "2023-03-13T12:00:01.000Z",
+          "wordCount": null,
+          "title": "过去六个月中哪五个DeFi协议最赚钱？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35551",
+          "author": null,
+          "description": "原文标题：《Aztec 专访：关闭 Connect 并非监管压力，将继续构建 L2 Rollup》\n原文作者：Zhixiong Pan\n\n\n\n\n\n作为 Aztec Connect（zk.money）早期用户，在得知该项目即将关闭并专注于 Noir 和新一代区块链的通知后，我赶紧联系了 Aztec CEO Zac Williamson，想挖掘一些在公告之外不为人知的信息。\n\n\n特别是，社区也已经有些讨论，比如：\n\n\n\n\n\n\n\n\n\n\n\n等等。\n\n\n简单介绍下，Aztec 是以太坊上第一个带有隐私功能的 Layer 2 (Rollup) 网络，相比较 Tornado.Cash 这类 L1 的混币隐私协议，Aztec 网络的交易成本更低（因为使用了 Rollup）。\n\n\n用户可以将以太坊 Layer1 的资产充值至 Aztec Connect 网络（Layer2），然后就可以在该网络进行私密的转账，或者将资产投入支持的 DeFi 协议获得额外收益。\n\n\nTL；DR：\n\n\n1. Aztec 未被监管机构联系，关闭 Aztec Connect 是商业层面的考虑；\n\n\n2. Aztec Connect 的维护成本不低；\n\n\n3. 团队正专注于下一代默认隐私的可编程智能合约协议 Noir；\n\n\n4. 仍然关注于 Layer2，而不是 Layer1；\n\n\n5. Noir 使用比特币风格的 UTXO 模型；\n\n\n6. Noir 将会把零知识证明和密码学都抽象掉，应用开发者不需要了解密码学就能开发 Noir 智能合约。\n\n\n\n\n\n\n以下为问题和回答的具体细节。\n\n\n\n\n\n\n\n\n在 Aztec Connect 关闭之前，是否有过监管层面的挑战？\n\n\nZac Williamson：\n\n\n我们尚未被任何监管机构联系，主要原因是商业层面的考虑。\n\n\nAztec Connect 是世界上第一个隐私 Rollup，其设计存在一些问题，增加了维护成本。\n\n\n我们正在专注于我们的下一代协议版本。它将支持默认隐私的全编程智能合约。考虑到项目的规模，我们需要所有的工程资源都投入其中。\n\n\n我们所有的技术都是默认开源的。我们为将 Aztec Connect 带入世界感到非常自豪，我们希望确保社区仍然可以访问我们所建立的内容。\n\n\n\n\n\n\n\n\n博客中提及你们会开发下一代区块链？这是指 Layer1 吗？\n\n\nZac Williamson：\n\n\n我们尚未被任何监管机构联系，主要原因是商业层面的考虑。\n\n\nAztec Connect 是世界上第一个隐私 Rollup，其设计存在一些问题，增加了维护成本。\n\n\n我们正在专注于我们的下一代协议版本。它将支持默认隐私的全编程智能合约。考虑到项目的规模，我们需要所有的工程资源都投入其中。\n\n\n我们所有的技术都是默认开源的。我们为将 Aztec Connect 带入世界感到非常自豪，我们希望确保社区仍然可以访问我们所建立的内容。\n\n\n\n\n\n\n\n\nNoir 有哪些特点？\n\n\nZac Williamson：\n\n\n私密的智能合约与常规智能合约完全不同，具有完全不同的开发启发法（development heuristics）。\n\n\n由于交易证明是由客户端生成的（而不是由 gas 支付的计算成本），计算不再有 gas 成本。私密状态（private state）使用比特币风格的 UTXO 模型，并且状态具有「所有权」的概念。\n\n\nNoir 的主要目标是提供一种语言，在该语言的语义中明确表达这些权衡。我们还希望创建一个直观的模型，以便更好地处理私有状态与公共状态的差异。\n\n\n最重要的是，我们希望将与零知识证明和 ZK SNARKs 相关的所有密码学都用 Noir 抽象掉。开发人员不需要了解密码学就能编写 Noir 合约。\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/35551",
+          "publishedOn": "2023-03-13T11:33:33.000Z",
+          "wordCount": null,
+          "title": "Aztec专访：关闭Connect是商业层面考虑，正继续构建L2隐私协议Noir",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35550",
+          "author": null,
+          "description": "截止 3 月 13 日，美国已有四家银行遭到挤兑，其中 Silvergate Bank、\n\nSignature Bank、以及硅谷银行被关闭，正在等待下一步措施。\n\n\nBlockBeats 将持续关注硅谷银行关闭及所带来的危机，并对此进行跟踪报道。\n\n\n美股第一共和银行遭到挤兑，股价暴跌\n\n\n\n\n《美股第一共和银行盘前跌超 60%》\n\n\n3 月 13 日，美股第一共和银行盘前跌超 60%，有暴雷风险。继硅谷银行后，该行上周晚些时候亦遭到挤兑。第一共和银行此前称，目前所有可用未使用的流动性资金超过 700 亿美元。\n\n\n\n\n《美第一共和银行：未使用的流动性总资金超过 700 亿美元》\n\n\n第一共和银行表示，「资本和流动性状态非常强劲，其资本仍高于资本充足的银行的监管门槛」。  \n\n\nSignature Bank 被关停\n\n\n《纽约州监管机构关闭 Signature 银行，储户和纳税人不会承担任何损失》\n\n\n纽约州金融监管机构关闭了 Signature 银行。所有储户周一都可以取钱，纳税人不会承担任何损失。\n\n此外，监管机构表示，股东和某些无担保债券持有人将得不到保护，高级管理人员也将被撤职。存款保险基金为支持没有保险的储户而遭受的任何损失，将根据法律要求，通过对银行进行特别评估来弥补。  \n\n\n风险敞口\n\n\nTether CTO 称 Tether 对 Signature Bank 没有任何敞口。\n\n\nPaxos 称目前在 SignatureBank 存款为 2.5 亿美元。\n\n\nCoinbase 称自己在 Signature Bank 现金余额为 2.4 亿美元，希望完全收回这些资金。\n\n\n\n\n硅谷银行倒闭案追踪\n\n\n以下为硅谷银行破产案的最新动态，了解硅谷银行破产的原因，请阅读《简单但严肃的回顾一下硅谷银行（SVB）的整个事件》\n\n\n《加拿大监管机构接管 SVB 加拿大子公…",
+          "link": "https://www.theblockbeats.info/news/35550",
+          "publishedOn": "2023-03-13T10:50:23.000Z",
+          "wordCount": null,
+          "title": "【3月13日更新】美国银行挤兑风波加剧，最新资讯实时汇总",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35524",
           "author": null,
           "description": "最近因硅谷银行倒闭导致的「USDC危机」使得用户选择DEX交易，Uniswap、Curve Finance、SushiSwap这些DEX在上周末取得了令人瞩目的增长。",
@@ -163,36 +213,6 @@
           "publishedOn": "2023-03-12T00:39:43.000Z",
           "wordCount": null,
           "title": "Circle回应USDC脱锚（全文）：必要时使用外部资本弥补储备金短缺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35477",
-          "author": null,
-          "description": "EIP 4337并没有解决本质问题。",
-          "link": "https://www.theblockbeats.info/news/35477",
-          "publishedOn": "2023-03-11T06:00:01.000Z",
-          "wordCount": null,
-          "title": "Web3钱包终局：安全便捷与去中心化的统一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35485",
-          "author": null,
-          "description": "原文作者：Jack、Logicrw、FYJ，BlockBeats\n\n\n1 天时间，SVB 的涟漪效应就来到了加密市场。今晨，因 SVB 中有部分存款，USDC 稳定币发行商 Circle 突然面临严重挤兑，USDC 出现持续性脱锚。同时，Binance、Coinbase 等中心化交易平台均宣布关闭 USDC 的部分兑换服务。截至撰稿时，USDC 价格脱锚至 0.933 美元附近，过去 24 小时已销毁超 27 亿枚 USDC。面临恐慌和挤兑，USDC 会进入死亡螺旋吗？\n\n\n为什么会挤兑？33 亿美元 SVB 储蓄\n\n\n稳定币发行商 Circle 今日在社交媒体上发文表示，硅谷银行是 Circle 的六家银行合作伙伴之一，负责与其他银行共同管理 USDC 约 25% 的现金储备。Circle 目前正在等待观察美国联邦存款保险公司接管硅谷银行对其储户的影响，但 Circle 和 USDC 继续正常运营。\n\n\n\n\n\n据 Circle 官网发布的最新数据显示，目前流通中的 USDC 市值共计约为 434 亿美元，资金储备共计 435 亿美元，其中现金储备为 111 亿美元，占比约为 25%，其余 334 亿美元储备为短期国债投资组合。今天结束时确认，星期四发起的去除余额的指令尚未处理，因此美元稳定币（USDC）账户储备中仍有大约 40 亿美元中的 33 亿美元储备留在 SVB。\n与其他接受 SVB 银行服务的客户一样，Circle 将遵循各州和联邦监管机构提供的指导。\n\n\n什么情况会让 Circle 进入死亡螺旋\n\n\n根据 BlockBeats 目前收集到的信息，Circle 在「SVB 事件」中面临的损失应该不大。但从当前市场的恐慌程度来看，USDC 仍存在持续脱锚的风险。那么在什么情况下，USDC 会出现严重的脱锚呢？BlockBeats 对几个关键影响因素进行了梳理。\n\n\n…",
-          "link": "https://www.theblockbeats.info/news/35485",
-          "publishedOn": "2023-03-11T04:36:16.000Z",
-          "wordCount": null,
-          "title": "USDC会进入死亡螺旋吗?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35480",
-          "author": null,
-          "description": "原文标题：《\n\n我如何在 crypto 中，从身无分文，3 年 1000 倍 to $10m？\n\n》\n原文作者：VINCERO，OnePiece Research\n\n\n我是如何进入 Crypto 的？\n\n\n\n\n\n2017 年，在 Bali（巴厘岛），当时也算是个 Nomad（浪人），但是还不懂什么是 Crypto（加密货币），看来算是半只脚跨进门了 of Crypto Nomad（加密游民）？\n  \n\n\n当年在 Bali 住在一个小别墅里面，因为比较喜欢认识世界各地的朋友，对不同的语言和文化很感兴趣，所以也在做 CouchSurfing（沙发客）的 Host——源自于给背包客旅行者提供一个借宿的地方，可以是一个沙发，或者打地铺，也可以是一张床，Whatever 能睡觉就行，流行于欧美的年轻人和学生中，主要是可以结交世界各地的朋友，深入的了解当地的生活方式和文化，同时也可以节约旅费。由于在做这个 CouchSurfing 的 Host，所以也加入了当地的社区，每周会有一些活动，关于旅行分享，文化交流，喝酒蹦迪等等，都是全世界各地的年轻人，都很有活力，非常好玩。\n\n\n\n\n那么我是怎么接触和进入到 Crypto 的呢？也算是机缘巧合，或者也许也是命中注定？\n\n\n\n有一天晚上，也是正常去参加 CouchSurfing 的\"正经活动\"——喝酒蹦迪（不同于在中国的土嗨式蹦迪，开卡座喝香槟抓手指，喝了夜店的假酒第二天吐一天）是在一个很有特色的地方，叫做 Jungle，是在 Bali Canggu 的稻田里，这个地方属于是邀请制，只有当地的 Nomad 浪人们才知道，去的都是一些 Cool People，颜值都特别高，身高也特别高！（我 186 在人群中只感觉到弱小无助），都是一些艺术家，hippy（嬉皮士），瑜伽灵修者，背包客，冲浪手，什么人都有，奇装异服的（身材好的一般不穿衣服），反正…",
-          "link": "https://www.theblockbeats.info/news/35480",
-          "publishedOn": "2023-03-11T02:00:01.000Z",
-          "wordCount": null,
-          "title": "加密OG的自述：我如何在加密市场中3年身价翻千倍的？",
           "imageUrl": null
         }
       ]
