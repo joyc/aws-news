@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35559",
+          "author": null,
+          "description": "原文标题：《Why Financial Analysts Missed Silvergate』s Red Flags》\n原文作者：Brett Harrison\n原文编译：Colin，SevenUpDAO\n\n\nSilvergate Corp. (SI) 是一家上市公司，至少有 10 名卖方研究和金融分析师。这些分析师评估 Silvergate（和其他地区性银行）并就该公司的股票或债务提出建议（例如，买入、卖出、持有）。\n\n\n对个人来说，这些分析师继续推荐 SI，即使在 FTX 加密货币交易平台崩溃的消息传出后也是如此。例如，在 11 月 9 日，Canaccord 分析师 Joe Vafi 写道：「如果 FTX 停止运营或一些客户迁移到其他交易平台，Silvergate 很可能仍会在其运营范围内获得该交易量。」Vafi 给予 Silvergate 买入评级和 150 美元的目标价。Silvergate 于 11 月 9 日以 34.69 美元的价格收盘，此后一直没有交易那么高。\n\n\n只是在随后发生了许多该死的事件之后——国会议员致 Silvergate 银行的一封信、它从联邦住房贷款银行获得的 43 亿美元贷款、司法部调查的消息、银行监管机构关于加密资产风险的联合声明「Banking Organizations」，Silvergate 将推迟提交其年度报告的通知，其中质疑其自身「持续经营」的能力，以及该银行许多主要合作伙伴的外流——这些分析师最终屈服了。但即便如此，也并非完全如此，一些人将 Silvergate 的评级从买入下调为持有。\n\n\n这种心意的改变太少也太迟了。损害已经造成。3 月 8 日，Silvergate 宣布其银行将停止运营并自愿清算。\n\n\n我认为，早在 11 月之前，Silvergate 就存在传统分析师未能发现或至少被严重低估的根本问题。为什么？\n\n\n卖方…",
+          "link": "https://www.theblockbeats.info/news/35559",
+          "publishedOn": "2023-03-14T03:20:20.000Z",
+          "wordCount": null,
+          "title": "为什么金融分析师错过了SVB的危险信号？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35560",
+          "author": null,
+          "description": "原文作者：hiweiwei.eth\n\n\n多链生态的蓬勃发展，使得跨链协议变得不可或缺。但是由于跨链桥抵押了大量资产，再加上跨链协议逻辑较一般的 Swap 更为复杂，因此跨链协议遭到黑客攻击的可能性也就越来越高。截止 2022 年底，因跨链桥安全问题导致的损失就达到 20 亿美金以上，其中损失上亿美元的的跨链桥就有 Ronin Network、Horizon、BNB Chain、Wormhole、Nomad 等。\n\n\n跨链桥主要解决的是跨链互操作问题。以往大量跨链桥安全事件说明，现行的跨链互操作方案还有极大的优化空间。近期 Multichain 就推出了基于零知识证明的去信任跨链解决方案 zkRouter。\n\n\nMultichain 是跨链领域的龙头项目，其 21 年底就获得了 Binance 领投的 6000 万美金投资，目前占跨链市场份额第一。之前 Uniswap 跨链治理投票闹的沸沸扬扬，但是稳定币 DEX 王者--Curve 早就使用 Multichain 的 anyCall 完成了多链 LP 激励分配。表 1 给出了当前主要跨链项目相关数据对比。\n\n\n\n表 1 当前主要跨链项目相关数据对比\n\n（数据来源:https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148）\n\n\n本文将重点分析 Multichain 基于 ZKP 推出的最新去信任产品 zkRouter，同时对市场上其他优秀 ZK 跨链项目作一对照。\n\n\n一、ZKP 成为解决去信任化跨链的最佳方案\n\n\n区块链的主权区域特征导致链上合约难以获取准确链外信息，而不得不依赖于第三方进行资产和消息的中继跨链，维护不同链上合约间资产的安全和信息传递的可信可靠。这与预言机的作用是类似的。这意味着跨链之间的交易需要建立在对第三方的中继跨链或预言机…",
+          "link": "https://www.theblockbeats.info/news/35560",
+          "publishedOn": "2023-03-14T03:08:23.000Z",
+          "wordCount": null,
+          "title": "zkRouter如何实现安全跨链",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35515",
+          "author": null,
+          "description": "由于 AMD、Epic Games 和 IGN 的支持，不少人认为 Abyss World 有望成为 Sui 上 Gamefi 王牌。",
+          "link": "https://www.theblockbeats.info/news/35515",
+          "publishedOn": "2023-03-14T03:00:01.000Z",
+          "wordCount": null,
+          "title": "AMD和Epic Games支持的Abyss World ，会成为 Sui 生态的王牌链游吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35525",
+          "author": null,
+          "description": "真正的去中心化稳定币一定是基于链上原生资产或服务的刚性兑现。",
+          "link": "https://www.theblockbeats.info/news/35525",
+          "publishedOn": "2023-03-14T01:30:02.000Z",
+          "wordCount": null,
+          "title": "探讨未来的去中心化稳定币方向",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35549",
           "author": null,
           "description": "原文标题：《\n\n解读 Stader：DVT 混合节点，多链低市值 LSD 协议能否迎来春天？\n\n》\n原文作者：雨中狂睡，深潮 TechFlow\n\n\n\n一个共识，今年加密市场的核心叙事是 LSD。于是，我们可以看到，很多协议产品都开始向 LSD 靠拢，比如 Frax Finance 推出了 frxETH，MakerDAO 即将推出 ETHD，Yearn 即将推出 yETH 等等。老牌质押协议 Stader Labs 同样在顺应趋势，推出了以太坊 LSD 相关产品。\n\n\n在这个竞争激烈的赛道，我们可以大体将该赛道分为三层：\n\n\n最底层就是以 DVT（分布式验证器技术）技术为核心的 SSV.Network、Obol Network。\n\n\n第二层就是为我们熟知的 Lido、Rocket Pool 等协议，它们负责帮助用户以更轻松且更高资本效率地质押以太坊。\n\n\n最上层便是 DeFi 层，DeFi 层协议将通过各类 DeFi 手段来提升如 stETH 等相关 LSD 流动性质押凭证的收益率。\n\n\nStader Labs 即将推出的 ETHx 属于第二层。\n\n\n最初 Stader Labs 的产品构想是为 Terra 提供流动性质押服务，但随着 Terra 大厦倾颓，Stader 开始转向多链扩展，并为 Polygon、BNB Chain、Near、Fantom、Hedera 和 Terra 2.0 提供流动性质押服务。据 DeFiLlama 数据统计，当前 Stader 的总锁定价值（TVL）为 1.09 亿美元。其原生Token $SD 的市值为 2400 万，FDV 为 1.6 亿美元。\n\n\n即将由 Stader Labs 推出的 ETHx 是否会成为其新的 TVL 助推器？让我们一探 Stader 的 LSD 产品设计及模式。\n\n\n混合节点运营商模式\n\n\nStader 希望 E…",

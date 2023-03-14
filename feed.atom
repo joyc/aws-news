@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-14T00:34:33.962Z</updated>
+    <updated>2023-03-14T06:11:09.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么金融分析师错过了SVB的危险信号？]]></title>
+        <id>https://www.theblockbeats.info/news/35559</id>
+        <link href="https://www.theblockbeats.info/news/35559"/>
+        <updated>2023-03-14T03:20:20.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Why Financial Analysts Missed Silvergate』s Red Flags》
+原文作者：Brett Harrison
+原文编译：Colin，SevenUpDAO
+
+
+Silvergate Corp. (SI) 是一家上市公司，至少有 10 名卖方研究和金融分析师。这些分析师评估 Silvergate（和其他地区性银行）并就该公司的股票或债务提出建议（例如，买入、卖出、持有）。
+
+
+对个人来说，这些分析师继续推荐 SI，即使在 FTX 加密货币交易平台崩溃的消息传出后也是如此。例如，在 11 月 9 日，Canaccord 分析师 Joe Vafi 写道：「如果 FTX 停止运营或一些客户迁移到其他交易平台，Silvergate 很可能仍会在其运营范围内获得该交易量。」Vafi 给予 Silvergate 买入评级和 150 美元的目标价。Silvergate 于 11 月 9 日以 34.69 美元的价格收盘，此后一直没有交易那么高。
+
+
+只是在随后发生了许多该死的事件之后——国会议员致 Silvergate 银行的一封信、它从联邦住房贷款银行获得的 43 亿美元贷款、司法部调查的消息、银行监管机构关于加密资产风险的联合声明「Banking Organizations」，Silvergate 将推迟提交其年度报告的通知，其中质疑其自身「持续经营」的能力，以及该银行许多主要合作伙伴的外流——这些分析师最终屈服了。但即便如此，也并非完全如此，一些人将 Silvergate 的评级从买入下调为持有。
+
+
+这种心意的改变太少也太迟了。损害已经造成。3 月 8 日，Silvergate 宣布其银行将停止运营并自愿清算。
+
+
+我认为，早在 11 月之前，Silvergate 就存在传统分析师未能发现或至少被严重低估的根本问题。为什么？
+
+
+卖方…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zkRouter如何实现安全跨链]]></title>
+        <id>https://www.theblockbeats.info/news/35560</id>
+        <link href="https://www.theblockbeats.info/news/35560"/>
+        <updated>2023-03-14T03:08:23.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：hiweiwei.eth
+
+
+多链生态的蓬勃发展，使得跨链协议变得不可或缺。但是由于跨链桥抵押了大量资产，再加上跨链协议逻辑较一般的 Swap 更为复杂，因此跨链协议遭到黑客攻击的可能性也就越来越高。截止 2022 年底，因跨链桥安全问题导致的损失就达到 20 亿美金以上，其中损失上亿美元的的跨链桥就有 Ronin Network、Horizon、BNB Chain、Wormhole、Nomad 等。
+
+
+跨链桥主要解决的是跨链互操作问题。以往大量跨链桥安全事件说明，现行的跨链互操作方案还有极大的优化空间。近期 Multichain 就推出了基于零知识证明的去信任跨链解决方案 zkRouter。
+
+
+Multichain 是跨链领域的龙头项目，其 21 年底就获得了 Binance 领投的 6000 万美金投资，目前占跨链市场份额第一。之前 Uniswap 跨链治理投票闹的沸沸扬扬，但是稳定币 DEX 王者--Curve 早就使用 Multichain 的 anyCall 完成了多链 LP 激励分配。表 1 给出了当前主要跨链项目相关数据对比。
+
+
+
+表 1 当前主要跨链项目相关数据对比
+
+（数据来源:https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148）
+
+
+本文将重点分析 Multichain 基于 ZKP 推出的最新去信任产品 zkRouter，同时对市场上其他优秀 ZK 跨链项目作一对照。
+
+
+一、ZKP 成为解决去信任化跨链的最佳方案
+
+
+区块链的主权区域特征导致链上合约难以获取准确链外信息，而不得不依赖于第三方进行资产和消息的中继跨链，维护不同链上合约间资产的安全和信息传递的可信可靠。这与预言机的作用是类似的。这意味着跨链之间的交易需要建立在对第三方的中继跨链或预言机…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD和Epic Games支持的Abyss World ，会成为 Sui 生态的王牌链游吗？]]></title>
+        <id>https://www.theblockbeats.info/news/35515</id>
+        <link href="https://www.theblockbeats.info/news/35515"/>
+        <updated>2023-03-14T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[由于 AMD、Epic Games 和 IGN 的支持，不少人认为 Abyss World 有望成为 Sui 上 Gamefi 王牌。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探讨未来的去中心化稳定币方向]]></title>
+        <id>https://www.theblockbeats.info/news/35525</id>
+        <link href="https://www.theblockbeats.info/news/35525"/>
+        <updated>2023-03-14T01:30:02.000Z</updated>
+        <summary type="html"><![CDATA[真正的去中心化稳定币一定是基于链上原生资产或服务的刚性兑现。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解读Stader：DVT混合节点，多链低市值LSD协议能否迎来春天？]]></title>
         <id>https://www.theblockbeats.info/news/35549</id>
