@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35587",
+          "author": null,
+          "description": "赏金模式就算加到10%，也跑不赢黑客池，除非把犯罪成本加入等式。",
+          "link": "https://www.theblockbeats.info/news/35587",
+          "publishedOn": "2023-03-14T14:00:01.000Z",
+          "wordCount": null,
+          "title": "从Euler黑客事件，漫谈DeFi的安全审计和安全",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35590",
           "author": null,
           "description": "拥有6家审计公司，全明星VC投资，多个知名的defi协议作上游资金提供商的Eular，却在短短时间里被黑了2亿美金。",
@@ -303,46 +313,6 @@
           "publishedOn": "2023-03-12T06:17:17.000Z",
           "wordCount": null,
           "title": "危机与机遇共存，看机构与大户都「抄底」了多少 USDC？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35489",
-          "author": null,
-          "description": "硅谷银行的倒闭将意味着创业公司处境艰难，包括早期的加密公司。",
-          "link": "https://www.theblockbeats.info/news/35489",
-          "publishedOn": "2023-03-12T05:45:48.000Z",
-          "wordCount": null,
-          "title": "硅谷银行崩溃对加密行业意味着什么",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35488",
-          "author": null,
-          "description": "SE 在发布会上表示区块链相关战略会依然继续。",
-          "link": "https://www.theblockbeats.info/news/35488",
-          "publishedOn": "2023-03-12T02:39:03.000Z",
-          "wordCount": null,
-          "title": "Square Enix社长因为支持区块链下台？事情可能并没有你想的那么坏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35487",
-          "author": null,
-          "description": "「行业太硬核了，黑天鹅一只比一只肥。」",
-          "link": "https://www.theblockbeats.info/news/35487",
-          "publishedOn": "2023-03-12T01:24:27.000Z",
-          "wordCount": null,
-          "title": "「312」三周年：请敬畏市场，永远永远",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35486",
-          "author": null,
-          "description": "USDC储备中还有10亿美元存放在Customers Bank",
-          "link": "https://www.theblockbeats.info/news/35486",
-          "publishedOn": "2023-03-12T00:39:43.000Z",
-          "wordCount": null,
-          "title": "Circle回应USDC脱锚（全文）：必要时使用外部资本弥补储备金短缺",
           "imageUrl": null
         }
       ]
