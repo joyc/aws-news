@@ -6,6 +6,96 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35590",
+          "author": null,
+          "description": "拥有6家审计公司，全明星VC投资，多个知名的defi协议作上游资金提供商的Eular，却在短短时间里被黑了2亿美金。",
+          "link": "https://www.theblockbeats.info/news/35590",
+          "publishedOn": "2023-03-14T10:50:08.000Z",
+          "wordCount": null,
+          "title": "审计六次仍被盗走2亿美金，Euler乐高的连锁反应有多大？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35588",
+          "author": null,
+          "description": "把握主流协议在未来几个月中的最新动向",
+          "link": "https://www.theblockbeats.info/news/35588",
+          "publishedOn": "2023-03-14T09:16:04.000Z",
+          "wordCount": null,
+          "title": "梳理30个今年需要长期关注的主流项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35585",
+          "author": null,
+          "description": "DeFi借贷协议Euler Finance疑似遭到攻击，损失约1.97亿美元。",
+          "link": "https://www.theblockbeats.info/news/35585",
+          "publishedOn": "2023-03-14T07:57:30.000Z",
+          "wordCount": null,
+          "title": "1.97亿美元大劫案如何发生？Euler Finance事件简析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35586",
+          "author": null,
+          "description": "「与ETH挂钩的美元标准稳定币协议」",
+          "link": "https://www.theblockbeats.info/news/35586",
+          "publishedOn": "2023-03-14T07:41:24.000Z",
+          "wordCount": null,
+          "title": "Liquity Protocol：短期算稳龙头，专注于稳定币+借贷的DeFi协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35567",
+          "author": null,
+          "description": "结合底层逻辑、实际数据和案例，为你带来最全面的稳定币脱钩紧急逃生指南",
+          "link": "https://www.theblockbeats.info/news/35567",
+          "publishedOn": "2023-03-14T06:54:22.000Z",
+          "wordCount": null,
+          "title": "遭遇稳定币脱钩怎么办，收藏好这份对冲操作指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35566",
+          "author": null,
+          "description": "市场有趋于稳定的迹象，情绪有所缓和，抛压水平较低。",
+          "link": "https://www.theblockbeats.info/news/35566",
+          "publishedOn": "2023-03-14T06:22:16.000Z",
+          "wordCount": null,
+          "title": "第12周链上数据分析：长期参与者出现亏损抛售，多头清算压力得到缓解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35565",
+          "author": null,
+          "description": "上周融资总数为24笔，数量较上周有减少，总金额约2.6亿美元，平均融资金额为3710万美元。",
+          "link": "https://www.theblockbeats.info/news/35565",
+          "publishedOn": "2023-03-14T06:12:48.000Z",
+          "wordCount": null,
+          "title": "2023年第12周融资精选，多个稳定币项目获得融资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35562",
+          "author": null,
+          "description": "越来越多的银行会在市场波动和监管趋紧的双重逼迫下远离加密市场，作为出入金的重要通道，目前美国有哪些加密友好型银行？",
+          "link": "https://www.theblockbeats.info/news/35562",
+          "publishedOn": "2023-03-14T04:42:02.000Z",
+          "wordCount": null,
+          "title": "一周之内三家加密友好银行被关闭，加密用户们还有哪些选择？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35564",
+          "author": null,
+          "description": "该游戏的故事背景发生在外太空，玩家在游戏中作为马修星球的创建者。",
+          "link": "https://www.theblockbeats.info/news/35564",
+          "publishedOn": "2023-03-14T04:01:31.000Z",
+          "wordCount": null,
+          "title": "BinaryX发布虚拟太空游戏项目《Project Matthew》预告片并开放Beta测试",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35559",
           "author": null,
           "description": "原文标题：《Why Financial Analysts Missed Silvergate』s Red Flags》\n原文作者：Brett Harrison\n原文编译：Colin，SevenUpDAO\n\n\nSilvergate Corp. (SI) 是一家上市公司，至少有 10 名卖方研究和金融分析师。这些分析师评估 Silvergate（和其他地区性银行）并就该公司的股票或债务提出建议（例如，买入、卖出、持有）。\n\n\n对个人来说，这些分析师继续推荐 SI，即使在 FTX 加密货币交易平台崩溃的消息传出后也是如此。例如，在 11 月 9 日，Canaccord 分析师 Joe Vafi 写道：「如果 FTX 停止运营或一些客户迁移到其他交易平台，Silvergate 很可能仍会在其运营范围内获得该交易量。」Vafi 给予 Silvergate 买入评级和 150 美元的目标价。Silvergate 于 11 月 9 日以 34.69 美元的价格收盘，此后一直没有交易那么高。\n\n\n只是在随后发生了许多该死的事件之后——国会议员致 Silvergate 银行的一封信、它从联邦住房贷款银行获得的 43 亿美元贷款、司法部调查的消息、银行监管机构关于加密资产风险的联合声明「Banking Organizations」，Silvergate 将推迟提交其年度报告的通知，其中质疑其自身「持续经营」的能力，以及该银行许多主要合作伙伴的外流——这些分析师最终屈服了。但即便如此，也并非完全如此，一些人将 Silvergate 的评级从买入下调为持有。\n\n\n这种心意的改变太少也太迟了。损害已经造成。3 月 8 日，Silvergate 宣布其银行将停止运营并自愿清算。\n\n\n我认为，早在 11 月之前，Silvergate 就存在传统分析师未能发现或至少被严重低估的根本问题。为什么？\n\n\n卖方…",
