@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-14T18:11:21.568Z</updated>
+    <updated>2023-03-15T00:38:36.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -782,26 +782,6 @@ Merkl 是什么
         <link href="https://www.theblockbeats.info/news/35511"/>
         <updated>2023-03-13T03:04:16.000Z</updated>
         <summary type="html"><![CDATA[宏观走向不明，周二美国将公布2月CPI，这将彻底决定此次加息的幅度。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：概览硅谷银行暴雷原因及对加密市场影响；ETHDenver大会结束]]></title>
-        <id>https://www.theblockbeats.info/news/35509</id>
-        <link href="https://www.theblockbeats.info/news/35509"/>
-        <updated>2023-03-12T09:59:23.000Z</updated>
-        <summary type="html"><![CDATA[3.12 三周年之际，全球经济市场也经历了黑天鹅事件。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[危机与机遇共存，看机构与大户都「抄底」了多少 USDC？]]></title>
-        <id>https://www.theblockbeats.info/news/35490</id>
-        <link href="https://www.theblockbeats.info/news/35490"/>
-        <updated>2023-03-12T06:17:17.000Z</updated>
-        <summary type="html"><![CDATA[面对USDC危机，Jump、IOSG、Wintermute等大户都是如何操作的呢]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
