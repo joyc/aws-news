@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35623",
+          "author": null,
+          "description": "原文标题：《\n\nFileCoin 重大升级，「翻身」打破以太坊主导的公链格局？\n\n》\n\n\n原文作者：大圣 Web3，白话区块链\n\n\n\n\n\nFilecoin 从 2017 年诞生至今充满争议，明星团队和资本的加持，强大的 IPFS 协议技术支撑，让这个去中心化存储项目一诞生就赚足了眼球，过好的预期透支了项目的潜力，加之 2022 加密整体的下行周期，最终导致 FIL 极为糟糕的 Token 表现，被大家戏称为「天亡级项目」。\n\n\n但无论如何，Filecoin 从项目本身来说还是值得肯定的。时至今日，Filecoin 市值依旧在 20 亿美金以上，市值排名 27 名。\n\n\n作为身兼历史使命，志在打造全球性的去中心化存储网络迎来重大升级，随着 3 月 14 日，Filecoin 虚拟机（FVM）在主网上线，项目开发热度和市场热度再一次展开，FVM 上线热度会是昙花一现，还是会给 Filecoin 带来深远影响？\n\n\n 01 什么是 FVM\n\n\nFVM（Filecoin Virtual Machine）是 Filecoin 网络上的虚拟机，是 Filecoin 网络上智能合约运行时的环境。FVM 为 Filecoin 带来了用户可编程性，释放了开放数据经济的巨大潜力。智能合约使用户能够创建和执行用于在网络上存储和访问数据的规则。FVM 负责执行这些智能合约，并确保它们被正确、安全地执行。\n\n\n\n\n\n这里要区别以下几个概念，EVM,FEVM,FVM：\n\n\nEVM（以太坊虚拟机）是最初为以太坊区块链设计、构建和运行的执行环境。\n\n\nEVM 是革命性的，因为这是第一次可以将任意代码部署到区块链并在其上运行。这里做简单描述，虚拟机为开发者提供了独立于主网，但拥有完整系统功能的运行环境，方便测试和安全运行，并通过将开发者开发的代码转换为所在区块链环境的代码运行，方便开发应用。这一点可以参考平…",
+          "link": "https://www.theblockbeats.info/news/35623",
+          "publishedOn": "2023-03-15T14:00:02.000Z",
+          "wordCount": null,
+          "title": "FileCoin重大升级，「翻身」打破以太坊主导的公链格局？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35629",
+          "author": null,
+          "description": "以太坊是全球第二大区块链，多年来一直面临着扩容难题。随着越来越多的去中心化应用程序（Dapp）在该平台上建立，处理越来越多的交易和数据存储需求，变得比以往任何时候都更为紧迫。这就是以太坊第二层解决方案（即「Layer2」或「L2」）的作用。这些解决方案旨在为建立在以太坊上的 Dapp 提供可扩展，高效且低成本的基础架构。\n\n\n本文将比较 5 种最受欢迎的以太坊第二层解决方案，包括 Arbitrum、Optimism、Loopring、zkSync 和 Aztec Network。我们将仔细研究每个解决方案的独特功能，优缺点以及应用场景。\n\n\n\n\n\nLayer2 的概念\n\n\n随着区块链技术的发展，人们开始提出了一种新的概念——「Layer2」。那么，Layer2 是什么呢？\n\n\nLayer2 是区块链技术中的一个重要概念，它是指在区块链的基础上，通过构建一层新的协议，来增加区块链的处理能力和交易速度。简单来说，就是在区块链之上再额外加上一层「高速公路」，让交易更快更便捷。\n\n\n与传统的 Layer1（比特币、以太坊等）不同，Layer2 协议不会对底层区块链进行任何修改，而是通过在上层建立协议来实现高速交易。因此，Layer2 协议可以数十倍地大幅提升区块链的交易速度，同时还可以非常显著地降低交易成本。\n\n\nLayer2 协议的优点在于，它可以处理更多的交易，同时也可以保证交易的安全性和可靠性。此外，由于 Layer2 协议是基于现有的区块链技术之上构建的，因此它的开发和部署成本相对较低，更容易被广泛应用。\n\n\nLayer2 协议的应用也非常广泛。这些协议的出现，不仅解决了区块链处理能力不足的问题，还为区块链的大规模应用提供了可能。总之，Layer2 是区块链技术的重要发展方向，它可以为区块链带来更高效、更安全、更便捷的交易体验，为区块链的发展注入了新的活力和动力。\n\n\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/35629",
+          "publishedOn": "2023-03-15T10:26:03.000Z",
+          "wordCount": null,
+          "title": "谁能在竞争激烈的Layer2赛道脱颖而出？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35628",
           "author": null,
           "description": "原文来源：\n\nGridex\n\n\n\nGridex 将作为第四届巴黎区块链周活动的官方战略合作伙伴，将受邀出席 2023 年巴黎区块链周并发表演讲。2023 年巴黎区块链周将于 3 月 20 日-24 日在巴黎卢浮宫卡鲁塞尔举行，作为全球最有影响力的区块链活动之一，本届会议将迎来 10,000 多位来自业界顶尖机构的专业人士，其中包括 400 多名演讲嘉宾，400 多位媒体记者以及众多机构的高级管理层代表。众多业界大咖将分析当前市场趋势和发表见解，其中包括 Goolge、AWS、Coinbase、Nasdaq、Solana、Ripple、Certik 等知名机构。\n\n\n此次大会，Gridex 将作为重要合作伙伴之一，其团队核心成员将参与一系列的现场活动，包括现场峰会以及黑客马拉松等。Gridex 的技术负责人 Ali Al-Ali 还将在巴黎区块链周的峰会活动期间发表演讲，探讨如何使用链上订单簿交易协议推动全球 DeFi 的应用与发展。巴黎区块链周包含几大活动板块：Summit、Web3XP、黑客马拉松以及 Talent Fair。\n\n\n黑客马拉松活动于 3 月 17 日-19 日在巴黎 Supinfo 学校举行，将在为期三天的比赛时间内选出三个最佳创新项目。获胜的三个团队将分别获得 Gridex Protocol、Ripple 以及 Solana 提供奖励。此外，所有获奖者还将获得价值 2100 欧元的巴黎区块链周峰会（PBWS）的门票。\n\n\n此外，Gridex 今日已在 D5 Exchange 正式上线 GDX。与此同时，Gridex 还推出关于 GDX/ETH 交易对的 Maker Rewards 活动，用户可通过挂单交易、挂单+Swap 以及邀请其他用户参与交易获得返佣等方式获取奖励资格，分享总奖池为 54,000,000 GDX 的奖励，即刻访问活动官网参与吧！\n\n\n\n\n\n关于 Gridex Protocol \n\n\nGridex Protocol 是以太坊生态系统中第一个完全基于链上的订单簿交易协议，支持用户无需授权自主创建任意交易对，通过自研发的 Grid Maker Order Book（GMOB）机制和 Grid Price Linear Movement（GPLM）算法，解决了将 CEX 基于撮合引擎的匹配算法引入链上的高成本问题以及传统 DEX 基于 AMM 带来的 Maker 无常损失和滑点问题，为用户提供 CEX 般流畅的交易体验的同时，保障了用户资产的链上透明性。\n\n\nGridex 致力于成为区块链行业的革新者，通过技术和创新为用户带来变革性的产品，并成为区块链行业的引领者。Gridex 为了全面保障用户的资产安全，采用了头部区块链安全公司 CertiK 的审计服务，从智能合约到整体安全架构都得到了全面的保障。Gridex 不仅专注于技术创新和产品的推陈出新，还在全球范围内加速拓展生态伙伴，未来将会与业内同行展开更多的交流与合作，并且为客户带来更进一步的出色产品体验。",
@@ -403,36 +423,6 @@
           "publishedOn": "2023-03-13T08:02:02.000Z",
           "wordCount": null,
           "title": "阿里云Web3峰会2WEB3 FEST Hong Kong 2023将于3月17日召开",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35516",
-          "author": null,
-          "description": "为了激励集中流动性 AMM 中的流动性，Angle 推出了 Merkl，一个新的激励 Uniswap V3 类型流动性资金的机制平台。任何 DAO 或个人都可以在 Merkl 定制激励 Uniswap V3 的类型和方式，包括设置自己的分配参数来鼓励更严格的范围等等。Merkl 能凭借这些新功能，成为最有效和灵活的方式激励 Uniswap V3 矿池吗？\n\n\nAngle & Merkl \n\n\n\n\nAngle 是一个于 2021 年 11 月 推出的去中心化、资本高效和超额抵押的稳定币协议，在 2021 年 9 月 28 日，完成 由 a16z 领投的 500 万美元种子轮融资，Fabric VC、Wintermute、Divergence Ventures 等参投。Angle 可用于发行称为 agTokens 的稳定币，旨在反映它们所挂钩的资产的价值。该协议由几个不同的模块或智能合约集组成，可以从中发行或铸造稳定币。\n\n\n\n\n Angle 在推出其第一个带有单一铸币模块（核心模块）的稳定币 agEUR 的同时，也引入了一个允许借入 Angle 稳定币作为抵押品的借贷模块。该协议还参与了直接存款模块，也称为算法市场操作 (AMO)，允许它在其他协议中增强 agTokens 的流动性。\n\n\n\n\n虽然 Merkl 机制是由 Angle Labs 构建和维护的，但它与 Angle 协议是分开的。\n\n\n\n\nMerkl 是什么\n\n\n\n\n从本质上讲，Merkl 是一个激励 Uniswap V3 类型流动性资金的机制平台，Uniswap V3 上的流动性提供者 (LP) 和其他类型的具有集中流动性的 AMM 可以从一个或多个池中激励流动性的人 (incentivizors) 那里获得补偿。\n\n\n\n\n激励者在如何分配奖励方面享有极大的灵活性：他们可以选择对提供更多单一代币流动性的 LPs 进…",
-          "link": "https://www.theblockbeats.info/news/35516",
-          "publishedOn": "2023-03-13T04:23:55.000Z",
-          "wordCount": null,
-          "title": "在激励层做文章，了解Merkl如何在Uniswap V3上搭建新的激励范式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35510",
-          "author": null,
-          "description": "订单簿作为目前使用人数最多、范围最广的交易方式，细究Gridex Protocol 的创新和优势",
-          "link": "https://www.theblockbeats.info/news/35510",
-          "publishedOn": "2023-03-13T04:05:28.000Z",
-          "wordCount": null,
-          "title": "DEX全新探索，Gridex Protocol 如何在ETH生态部署完全上链的订单簿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35511",
-          "author": null,
-          "description": "宏观走向不明，周二美国将公布2月CPI，这将彻底决定此次加息的幅度。",
-          "link": "https://www.theblockbeats.info/news/35511",
-          "publishedOn": "2023-03-13T03:04:16.000Z",
-          "wordCount": null,
-          "title": "财政部、美联储和FDIC联合声明全文：果断行动，保护美国经济",
           "imageUrl": null
         }
       ]
