@@ -2,10 +2,305 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-16T06:10:22.997Z</updated>
+    <updated>2023-03-16T12:14:11.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点近期可以关注的19个新项目]]></title>
+        <id>https://www.theblockbeats.info/news/35657</id>
+        <link href="https://www.theblockbeats.info/news/35657"/>
+        <updated>2023-03-16T08:14:05.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Fungi Alpha，加密研究员
+原文编译：Leo，BlockBeats
+
+
+市场再次被比特币大阳线拉起了情绪，加密研究员 Fungi Alpha 撰写了关于近期值得关注新项目的文章，BlockBeats 整理编译如下：
+
+
+
+
+TurboSwap
+
+
+TurboSwap 是一个去中心化交易平台，特点是集成了 MaestroBots 和 GoPlusLabs 技术，允许用户通过内置的智能合约扫描器获取 token 的数据，例如：购买税/销售税、最大交易量、市值、持有人、流动性等。以便用户进行 swap、添加流动性等。
+
+
+
+
+OlympusDex
+
+
+OlympusDex 是 Arbitrum 上的 AMM DEX，提供不错的用户体验，针对 LP 的有效激励、最佳的 swap 价格和更高的资本利用率、产生真实收益的可持续费用系统。
+
+
+
+
+FileX
+
+
+FileX 是即将在 Filecoin FVM 上推出的自优化 ve（3,3）DEX，看起来也具有一些 Solidly 机制，近期 FVM 的上线也带来一些热度。
+
+
+
+
+Official Chimpzee Project
+
+
+Official Chimpzee Project 是一个集合 P2E + NFTs + 慈善 + DeFi 的项目，以「丛林中保护环境和动物」故事为主线进行，由 Solidity Finance 审计，约 3 天后开始售卖其 token CHMPZ，购买需谨慎。
+
+
+
+
+Saferoot
+
+
+从该项目简介上看似乎是一个加密资产管理平台，旨在保护用户的 NFT 和加密货币，背靠 Staging Labs，并未披露太多信息。
+
+
+
+
+Brave Arena
+
+
+Brave Arena 是 Arbitrum 上的终极 PVE 和 PVP 竞技场战斗模拟器，有着双 token 奖励，近期更新了…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC脱锚事件后的DeFi未来，「链上金融」or完全去中心化？]]></title>
+        <id>https://www.theblockbeats.info/news/35654</id>
+        <link href="https://www.theblockbeats.info/news/35654"/>
+        <updated>2023-03-16T07:17:30.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+USDC 脱锚事件后的 DeFi 未来，「链上金融」or 完全去中心化？
+
+》
+
+
+原文作者：Igans，substack
+原文编译：Frank，Foresight News
+
+
+
+
+
+USDC 脱锚引发了市场对 DeFi 未来发展的重大担忧和质疑。由于 DeFi 生态系统严重依赖 USDC，因此评估未来的潜在解决方案至关重要。
+
+
+
+
+
+我认为我们有两条路可供 DeFi 社区选择：将 DeFi 重新定义为「链上金融」（on-chain finance），或全面拥抱去中心化。
+
+
+一、将 DeFi 更名为「链上金融」
+
+
+DeFi 依赖于像稳定币、预言机和 Web2 基础设施等这样的中心化组件，这使它容易受到潜在的政府打压的影响。
+
+
+USDC 本身被认为是最安全的抵押品，以至于 Compound v2 把 USDC 的价值直接锁定为 1 美元。
+
+
+现在我们意识到，对 USDC 的信任最终依赖于对传统金融银行体系和政府的信任。如果政府真的想关闭（大部分）DeFi，他们是可以做到的。
+
+
+
+
+
+目前，DeFi 在每个级别上都意味着是去中心化和可信任的，因此即使是一个中心化的组件也会影响整个协议的安全性。
+
+
+所以通过将 DeFi 更名为「链上金融」，行业可以在承认中心化的同时保持关键优势，如自我监管、增加流动性、可组合性和单一数据来源（不可逆转的交易）。
+
+
+「链上金融」的好处将越来越明显：
+
+
+流动性增加（买方市场扩大）；
+可组合性增强（新金融产品）；
+单一数据来源（降低对账成本）；
+
+
+
+
+
+
+
+像 FRAX 这样的例子表明，项目可以朝着「链上金融」的方向发展，而无需完全拥抱去中心化：
+
+
+Frax Finance 的目标是通过申请美联储主账户（FMA），以尽可能接近美联储（Foresight News 注，美联储主账户允许持有美元并直接与美联储进行交易…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深挖链上数据，Arbitrum的收入和资金流向了哪些协议？]]></title>
+        <id>https://www.theblockbeats.info/news/35653</id>
+        <link href="https://www.theblockbeats.info/news/35653"/>
+        <updated>2023-03-16T06:36:28.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《深挖链上数据，Arbitrum 的收入和资金流向了哪些协议？》
+原文作者：十文，Odaily星球日报
+
+
+Arbitrum 生态系统正在起飞，数据分析师 @defi_mochi 使用 Flipside（一种高定制化的数据开发工具，有较高的自由度，可显示特定链的关键经济指标，以跟踪其健康状况和总体参数）分析了所有 DefiLlama 上 Arbitrum 的数据。以下内容由 Odaily 星球日报经过整理编译，可以让你对 Arbitrum 的整个生态系统有一个更清晰的认知。
+
+
+
+
+
+我们在 2 月份看到有两笔巨款存入 Arbitrum，这笔存款余额超过 4.5 亿美元，我怀疑这是由于交易平台上币以及大量 Fomo 资金进入 Arbitrum 生态系统造成的。
+
+
+由于最近市场影响，虽然进入 Arbitrum 的资金总体上是有所上升，但是桥接存款略有下降。从下图中能够很明显的看到，桥接存款从 10 亿美元上方下降至 2 亿美元下方，跌幅超 80% 。
+
+
+
+
+
+
+但是在恐慌时期，Arbitrum 上的 DEX 和期权交易量都有所增加，且期权交易量增加导致 GMX 活动也有所上升。又由于 USDC 和 USDT 的套利，DEX 交易量的涨幅显著。可以看到 3 月 11 日，DEX 和期权交易量都达到了一个高峰，二者交易量都超过了 8 亿美元，与过去几个月的数据对比，增幅较大。
+
+
+
+这种巨大的活动和桥接存款使 Arbitrum 的 TVL 飞升至 20 亿美元，并达到 ATH。那么这些收入和资金流向了哪里？
+
+
+
+根据 DefiLlama 数据，Arbitrum 的手续费市场份额有 70% 被 GMX 压倒性地占据，Gains Network 在 12 月下旬推出后也已经占据了 7% 的手续费。
+
+
+除了 Arbitrum 自己收取的费用外，收取费用排名前 5 的协议占据的市场份额如下：
+
+
+1. 为大型交易者创建去中心化加密货币衍生品和现货交易平台的 GMX，占比 70.84% ，也是 Arbitrum 上的龙头 DEX 衍生品。
+
+
+2. Arbitrum 自己收取的费用占比 11.25% 。
+
+
+3. 提供加密货币和外汇交易选项，并提供杠杆交易的去中心化永续合约交易平台 Gains Network，占比 7.88% 。
+
+
+4. 提供了 WBTC 和 ETH 期权购买服务的链上期权平台 Hegic，占比 3.5% 。
+
+
+5. 提供零滑点和高达 100 倍杠杆的去中心化杠杆交易协议 MUX Protocol，占比 1.31% 。
+
+
+此外，还有 Solidlizard、Zyberswap、Premia 等协议。
+
+
+
+
+
+从数据中我能够发现哪些协议可以深度参与。因此我又根据 Arbitrum 上的每个协议的月度费用数据创建了此表，月度变化以百分比为单位，对我来说最突出的协议是：
+
+
+1. Lyra，与 GMX 集成的期权协议，曾获 Framework Ventures 和 GSR 参投的 300 万美元融资。上个月，它的费用增加 276% 。
+
+
+2. ZyberSwap，结合 Uniswap V2 和 Curve 的 DEX ，上个月费用增加 556% ，但是其代币曾在一月底经历死亡螺旋至接近归零，得益于 Layer 2 上 DeFi 复苏，近期势头明显。但是也要注意，虽然 ZyberSwap 的成交量似乎正在回升，但 TVL 到目前为止仍然停滞不前。大部分交易量来自他们稳定的交易对 USDT/DAI/USDC。
+
+
+3. Arbitrum，上个月费用增加 114% 。
+
+
+
+
+
+从这些协议的每周数据分析得出，Lyra 的表现令人印象深刻，过去一周增长了近 76% 。此外，由于受 USDC 脱锚事件的影响，诸如 ZyberSwap 之类的项目也都有明显的增长势头。
+
+
+
+
+
+但我还是对 Lyra 很好奇，于是去 Tokenterminal 上查看了它的全部数据，各方面都有惊人的增长：
+
+
+
+1. TVL：上涨 20% 至 3586 万美元。
+
+
+2. 价格/费用： 4.33 美元 (下降 31.7% )。
+
+
+3. 年化交易量在近期暴涨的基础上又上涨了 20% 。
+
+
+
+
+
+因此，我个人非常看好这一基本面的上升趋势。以上是 @defi_mochi 的数据分析，并不代表 Odaily 星球日报的观点，也不构成投资建议，还请大家自行分析判断。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO聚合器ThePASS和BanklessDAO达成战略合作，以扩大双方在DAO生态影响力]]></title>
+        <id>https://www.theblockbeats.info/news/35652</id>
+        <link href="https://www.theblockbeats.info/news/35652"/>
+        <updated>2023-03-16T06:25:47.000Z</updated>
+        <summary type="html"><![CDATA[DAO 聚合器协议 ThePASS 宣布与 BanklessDAO 达成最新战略合作。通过此次合作，ThePASS 和 BanklessDAO 将共同致力于提高 DAO 财务管理、投票治理等方面的透明度和有效性。
+
+
+作为这一伙伴关系的一部分，ThePASS 将在其平台上提供一个全面的数据库，这将使 BanklessDAO 成员能够实时跟踪和监测他们的财政持有量，包括 FT 和 NFT 资产。这将有助于确保所有成员清楚地了解该组织的财务状况，并能对未来的投资和支出做出明智的决定。
+
+
+ThePASS 最近与 MeebitsDAO、Maker DAO、City DAO、Jenny MetaverseDAO、ArtsDAO、Foreverlands、Metaguild 等杰出的去中心化组织建立了伙伴关系。鉴于 ThePASS 在行业内提供的一贯价值，预计将出现更多的合作伙伴。
+
+
+根据 ThePASS 平台，BanklessDAO 拥有超过 140 万的国库资产，原生代币比例为 83%，下面有 18 个公会和部门。其 FT 资产占比最多的资产分别是$BANK, $USDC, $ETH, $VITA,$rET。作为一个以 DeFi 为中心的 DAO，其持有的唯一有价值的 NFT 是其 2 年前收购的 ENS 域名。
+
+
+
+BanklessDAO 的概述页面
+
+
+
+BanklessDAO 的国库页面 
+
+
+值得注意的是，BanklessDAO 的治理相当活跃，共有 57 个提案，3477 个投票人和 18770 张投票。57.8% 的代币持有者参与了治理，而 80 名投票者参与了一半的提案。而最主要的提案者是 icedcool.eth、frogmonkee.eth 和 abvavgjoe.eth。
+
+
+
+BanklessDAO 治理概述
+
+
+对于 bDAO 来说，更有趣的是，他们已经从一个 DAO 发展到了一个 DAO 生态系统，多个相关项目正在崛起。通过 ThePASS，你可以在这里查看它们：https://thepass.to/ecology/Bankless_DAO_Ecosystem。
+
+
+
+BanklessDAO 生态系统
+
+
+关于 BanklessDAO :
+
+
+BanklessDAO 是一个充满激情的社区，由 Web3 思想领袖组成，寻求新的方式来创造财富，解决人类协调问题，创造文化，并在加密货币领域发展尖端的思想领导力，其使命是让 10 亿人加入加密货币。
+
+
+关于 ThePASS：
+
+
+ThePASS 是一个 DAO 聚合器和国库追踪平台。它通过聚合社交图谱（链上+链下）帮助建立 DAO 的声誉系统，并跟踪、分析和评估包括 FT 和 NFT 资产在内的财政资产，为社区提供更好和更透明的方式来剖析 DAO 的真实情况。
+
+
+本文来自投稿，不代表
+
+BlockBeats 观点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抗MEV解决方案供应商Wallchain获得由Cypher Capital领投的200万美元投资]]></title>
         <id>https://www.theblockbeats.info/news/35651</id>
