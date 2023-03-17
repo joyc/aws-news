@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-16T18:09:53.667Z</updated>
+    <updated>2023-03-17T00:38:20.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1708,76 +1708,6 @@ Mangrove 将首先于 Polygon 上线，其最重要的创新是可编程的智�
         <link href="https://www.theblockbeats.info/news/35587"/>
         <updated>2023-03-14T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[赏金模式就算加到10%，也跑不赢黑客池，除非把犯罪成本加入等式。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[审计六次仍被盗走2亿美金，Euler乐高的连锁反应有多大？]]></title>
-        <id>https://www.theblockbeats.info/news/35590</id>
-        <link href="https://www.theblockbeats.info/news/35590"/>
-        <updated>2023-03-14T10:50:08.000Z</updated>
-        <summary type="html"><![CDATA[拥有6家审计公司，全明星VC投资，多个知名的defi协议作上游资金提供商的Eular，却在短短时间里被黑了2亿美金。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梳理30个今年需要长期关注的主流项目]]></title>
-        <id>https://www.theblockbeats.info/news/35588</id>
-        <link href="https://www.theblockbeats.info/news/35588"/>
-        <updated>2023-03-14T09:16:04.000Z</updated>
-        <summary type="html"><![CDATA[把握主流协议在未来几个月中的最新动向]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1.97亿美元大劫案如何发生？Euler Finance事件简析]]></title>
-        <id>https://www.theblockbeats.info/news/35585</id>
-        <link href="https://www.theblockbeats.info/news/35585"/>
-        <updated>2023-03-14T07:57:30.000Z</updated>
-        <summary type="html"><![CDATA[DeFi借贷协议Euler Finance疑似遭到攻击，损失约1.97亿美元。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquity Protocol：短期算稳龙头，专注于稳定币+借贷的DeFi协议]]></title>
-        <id>https://www.theblockbeats.info/news/35586</id>
-        <link href="https://www.theblockbeats.info/news/35586"/>
-        <updated>2023-03-14T07:41:24.000Z</updated>
-        <summary type="html"><![CDATA[「与ETH挂钩的美元标准稳定币协议」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遭遇稳定币脱钩怎么办，收藏好这份对冲操作指南]]></title>
-        <id>https://www.theblockbeats.info/news/35567</id>
-        <link href="https://www.theblockbeats.info/news/35567"/>
-        <updated>2023-03-14T06:54:22.000Z</updated>
-        <summary type="html"><![CDATA[结合底层逻辑、实际数据和案例，为你带来最全面的稳定币脱钩紧急逃生指南]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第12周链上数据分析：长期参与者出现亏损抛售，多头清算压力得到缓解]]></title>
-        <id>https://www.theblockbeats.info/news/35566</id>
-        <link href="https://www.theblockbeats.info/news/35566"/>
-        <updated>2023-03-14T06:22:16.000Z</updated>
-        <summary type="html"><![CDATA[市场有趋于稳定的迹象，情绪有所缓和，抛压水平较低。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年第12周融资精选，多个稳定币项目获得融资]]></title>
-        <id>https://www.theblockbeats.info/news/35565</id>
-        <link href="https://www.theblockbeats.info/news/35565"/>
-        <updated>2023-03-14T06:12:48.000Z</updated>
-        <summary type="html"><![CDATA[上周融资总数为24笔，数量较上周有减少，总金额约2.6亿美元，平均融资金额为3710万美元。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
