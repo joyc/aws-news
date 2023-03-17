@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35716",
+          "author": null,
+          "description": "SUI期货空投SUIBG，未来SUI的兑换凭证。",
+          "link": "https://www.theblockbeats.info/news/35716",
+          "publishedOn": "2023-03-17T08:25:13.000Z",
+          "wordCount": null,
+          "title": "BitKeep与Bitget推出SUIBG期货空投",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35718",
+          "author": null,
+          "description": "总量20亿枚，2.1%向早期使用者空投；推出忠诚度计划系列活动用于后续空投。",
+          "link": "https://www.theblockbeats.info/news/35718",
+          "publishedOn": "2023-03-17T08:24:01.000Z",
+          "wordCount": null,
+          "title": "全面分析Space ID Token经济模型、空投细则及预期市值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35709",
+          "author": null,
+          "description": "Gearbox V3究竟能实现什么？有哪些值得期待的新功能或特点？",
+          "link": "https://www.theblockbeats.info/news/35709",
+          "publishedOn": "2023-03-17T07:08:13.000Z",
+          "wordCount": null,
+          "title": "DeFi杠杆协议Gearbox V3即将发布，重塑Token经济学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35685",
+          "author": null,
+          "description": "Arbitrum还为那些有兴趣在Arbitrum之上构建第3层解决方案的人发布了一个开发工具包：Arbitrum Orbit。",
+          "link": "https://www.theblockbeats.info/news/35685",
+          "publishedOn": "2023-03-17T06:14:05.000Z",
+          "wordCount": null,
+          "title": "除了空投，L2领跑者Arbitrum还有哪些新动作？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35686",
           "author": null,
           "description": "原文来源：Sharding Capital\n\n\n第一届中东 Web3 Demo Day「Shard Dubai」将于 3 月 17 日在迪拜举行，本次活动由 Web3 早期基金 Sharding Capital 发起，迪拜国际金融中心 DIFC Innovation Hub、迪拜自贸区 DMCC Crypto Center、迪拜区块链中心和和传统金融债券 NFT 的受监管发行方 Mimo Labs 参与。\n\n\nShard Dubai Demo day 是迪拜第一个也是最大的本地 Demo 活动，该活动分为线上和线下两部分。今年线下部分将于 3 月 17 日 9:30-7PM（GMT＋4）在迪拜举行。线上参与链接： https://us06web.zoom.us/j/83072690047?pwd=eGI5aE9tM00rN2swbnB4QlpwYmtrZz09\n\n\nShard Dubai Demo Day 旨在精准链接全球最优秀的 web3 初创企业和 Crypto VC 进行现场高效对话，在彼此获得全球投融资机会的同时，获得全球的曝光度。以下为 Shard Dubai 首期现场 IRL Demo Day 入选项目名单:\n\n\n\n\n\n\n\n1. 项目名称: KUMA Protocol (by Mimo Labs)\n\n\n\n\n简介: 将现实世界的资产和债务证券化，成为 DeFi 散户的生息稳定币，來自于 Mimo Labs。\n\n\n网站: https://mimo.capital/ / https://kuma.bond/\n\n\n推特: https://twitter.com/mimo_labs / https://twitter.com/KumaProtocol\n\n\n2. 项目名称：ZKX\n\n\n\n\n简介: ZKX 是一个 DLOB 去中心化交易平台，它能在 StarkNet 上以高频…",
@@ -333,16 +373,6 @@
           "publishedOn": "2023-03-15T01:30:01.000Z",
           "wordCount": null,
           "title": "Glassnode：稳定币主导地位重新转向Tether，投机兴趣导致BTC爆炸性反弹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35591",
-          "author": null,
-          "description": "Mangrove 是一个基于订单簿的 DEX，可让 LP 们以智能合约的形式发布报价，旨在以此释放流动性，为 DeFi 解锁更多价值，并成为最具流动性的 DEX。\n\n\n \n与传统基于流动性资金池的 DEX 不同，在 Mangrove 中 LP 不必再将流动性锁定，而是可以在链上的其他地方继续用这些资产赚取收益。流动性可以被共享、借入、借出并以承诺的形式出现在 Mangrove 的订单簿中，只有当报价被接受时才会真正进行结算。\n\n\n \n 可编程的智能报价\n\n\n \n \nMangrove 将首先于 Polygon 上线，其最重要的创新是可编程的智能报价（Smart offers）。\n\n\n \n订单簿市场一般由挂单方（Maker）和吃单方（Taker）共同组成。挂单方创建的报价订单会进入订单簿中，为市场提供流动性，降低买卖这项资产的难易程度。吃单方则是挂单方所创建订单的成交者。\n\n\n \n在 Mangrove 中，吃单方与传统订单簿区别不大，都是通过接受挂单方发布的报价来完成订单。而 Mangrove 上的挂单方，既可以和传统订单簿一样发布即时的报价，也可以通过被称为 Maker contract 的智能合约发布智能报价。\n\n\n \n\n \n\n\n当智能报价在交易执行期间与吃单相匹配，Maker contract 就会被调用，并有机会执行其设计好的报价逻辑。在交易执行期间，Mangrove 协议会两次调用制造商合约的报价逻辑——智能报价被接受时和智能报价被接受后。\n\n\n 智能报价被接受时\n\n\n \n当报价与吃单匹配时，Mangrove 将初次调用 Maker contract 的报价逻辑。这次调用紧接在交易结算之前，可让挂单方从其他地方调来流动性并即刻用于交易。通过在 Maker contract 中加入防御性代码，这个发生结算前的逻辑调用，还可让挂单方在某些会产生不利影响的特殊情况下拒绝这次…",
-          "link": "https://www.theblockbeats.info/news/35591",
-          "publishedOn": "2023-03-14T19:26:49.000Z",
-          "wordCount": null,
-          "title": "Mangrove：用智能报价解锁DEX流动性",
           "imageUrl": null
         }
       ]

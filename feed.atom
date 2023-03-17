@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-17T06:08:51.836Z</updated>
+    <updated>2023-03-17T12:13:36.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BitKeep与Bitget推出SUIBG期货空投]]></title>
+        <id>https://www.theblockbeats.info/news/35716</id>
+        <link href="https://www.theblockbeats.info/news/35716"/>
+        <updated>2023-03-17T08:25:13.000Z</updated>
+        <summary type="html"><![CDATA[SUI期货空投SUIBG，未来SUI的兑换凭证。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全面分析Space ID Token经济模型、空投细则及预期市值]]></title>
+        <id>https://www.theblockbeats.info/news/35718</id>
+        <link href="https://www.theblockbeats.info/news/35718"/>
+        <updated>2023-03-17T08:24:01.000Z</updated>
+        <summary type="html"><![CDATA[总量20亿枚，2.1%向早期使用者空投；推出忠诚度计划系列活动用于后续空投。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi杠杆协议Gearbox V3即将发布，重塑Token经济学]]></title>
+        <id>https://www.theblockbeats.info/news/35709</id>
+        <link href="https://www.theblockbeats.info/news/35709"/>
+        <updated>2023-03-17T07:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Gearbox V3究竟能实现什么？有哪些值得期待的新功能或特点？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了空投，L2领跑者Arbitrum还有哪些新动作？]]></title>
+        <id>https://www.theblockbeats.info/news/35685</id>
+        <link href="https://www.theblockbeats.info/news/35685"/>
+        <updated>2023-03-17T06:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum还为那些有兴趣在Arbitrum之上构建第3层解决方案的人发布了一个开发工具包：Arbitrum Orbit。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shard Dubai线下Demo Day入选项目速览]]></title>
         <id>https://www.theblockbeats.info/news/35686</id>
@@ -1927,52 +1967,6 @@ Silvergate（SI）宣布在 3 月 8 日以一种有序的方式自愿进行清�
 
 
 尽管交易量增加，但期货未平仓合约仍触及周期性低点。投机兴趣导致 BTC…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangrove：用智能报价解锁DEX流动性]]></title>
-        <id>https://www.theblockbeats.info/news/35591</id>
-        <link href="https://www.theblockbeats.info/news/35591"/>
-        <updated>2023-03-14T19:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Mangrove 是一个基于订单簿的 DEX，可让 LP 们以智能合约的形式发布报价，旨在以此释放流动性，为 DeFi 解锁更多价值，并成为最具流动性的 DEX。
-
-
- 
-与传统基于流动性资金池的 DEX 不同，在 Mangrove 中 LP 不必再将流动性锁定，而是可以在链上的其他地方继续用这些资产赚取收益。流动性可以被共享、借入、借出并以承诺的形式出现在 Mangrove 的订单簿中，只有当报价被接受时才会真正进行结算。
-
-
- 
- 可编程的智能报价
-
-
- 
- 
-Mangrove 将首先于 Polygon 上线，其最重要的创新是可编程的智能报价（Smart offers）。
-
-
- 
-订单簿市场一般由挂单方（Maker）和吃单方（Taker）共同组成。挂单方创建的报价订单会进入订单簿中，为市场提供流动性，降低买卖这项资产的难易程度。吃单方则是挂单方所创建订单的成交者。
-
-
- 
-在 Mangrove 中，吃单方与传统订单簿区别不大，都是通过接受挂单方发布的报价来完成订单。而 Mangrove 上的挂单方，既可以和传统订单簿一样发布即时的报价，也可以通过被称为 Maker contract 的智能合约发布智能报价。
-
-
- 
-
- 
-
-
-当智能报价在交易执行期间与吃单相匹配，Maker contract 就会被调用，并有机会执行其设计好的报价逻辑。在交易执行期间，Mangrove 协议会两次调用制造商合约的报价逻辑——智能报价被接受时和智能报价被接受后。
-
-
- 智能报价被接受时
-
-
- 
-当报价与吃单匹配时，Mangrove 将初次调用 Maker contract 的报价逻辑。这次调用紧接在交易结算之前，可让挂单方从其他地方调来流动性并即刻用于交易。通过在 Maker contract 中加入防御性代码，这个发生结算前的逻辑调用，还可让挂单方在某些会产生不利影响的特殊情况下拒绝这次…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
