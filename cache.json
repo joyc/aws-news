@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35686",
+          "author": null,
+          "description": "原文来源：Sharding Capital\n\n\n第一届中东 Web3 Demo Day「Shard Dubai」将于 3 月 17 日在迪拜举行，本次活动由 Web3 早期基金 Sharding Capital 发起，迪拜国际金融中心 DIFC Innovation Hub、迪拜自贸区 DMCC Crypto Center、迪拜区块链中心和和传统金融债券 NFT 的受监管发行方 Mimo Labs 参与。\n\n\nShard Dubai Demo day 是迪拜第一个也是最大的本地 Demo 活动，该活动分为线上和线下两部分。今年线下部分将于 3 月 17 日 9:30-7PM（GMT＋4）在迪拜举行。线上参与链接： https://us06web.zoom.us/j/83072690047?pwd=eGI5aE9tM00rN2swbnB4QlpwYmtrZz09\n\n\nShard Dubai Demo Day 旨在精准链接全球最优秀的 web3 初创企业和 Crypto VC 进行现场高效对话，在彼此获得全球投融资机会的同时，获得全球的曝光度。以下为 Shard Dubai 首期现场 IRL Demo Day 入选项目名单:\n\n\n\n\n\n\n\n1. 项目名称: KUMA Protocol (by Mimo Labs)\n\n\n\n\n简介: 将现实世界的资产和债务证券化，成为 DeFi 散户的生息稳定币，來自于 Mimo Labs。\n\n\n网站: https://mimo.capital/ / https://kuma.bond/\n\n\n推特: https://twitter.com/mimo_labs / https://twitter.com/KumaProtocol\n\n\n2. 项目名称：ZKX\n\n\n\n\n简介: ZKX 是一个 DLOB 去中心化交易平台，它能在 StarkNet 上以高频…",
+          "link": "https://www.theblockbeats.info/news/35686",
+          "publishedOn": "2023-03-17T04:02:26.000Z",
+          "wordCount": null,
+          "title": "Shard Dubai线下Demo Day入选项目速览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35683",
+          "author": null,
+          "description": "原文标题：《\"All for One and One for All\" - An on-chain distribution model for the Arbitrum community》\n原文编译：月之暗面，PANews\n\n\nTL;DR\n\n\n•Offchain Labs、Arbitrum 基金会和 Nansen 共同设计了一个Token分配模型，该模型以社区成员在 Arbitrum 生态系统中的参与度为分配基础\n\n\n•这个分配模式依赖于 Nansen 的链上数据，根据钱包的链上历史活动记录来分配资格点，钱包地址至少要达到三个积分标准才能获得空投的资格。\n\n\n•符合条件的钱包名单涵盖了 625,143 个地址，统计周期为自 Arbitrum One 成立以来，截至 2023 年 2 月 6 日\n\n\n•拥有社区金库并一直在推动 Arbitrum 生态系统向前发展的协议，也会被邀请参与为自己的社区分配部分\n\nToken\n\n\n\n简介\n\n\nArbitrum 基金会与 Offchain Labs 合作宣布为 Layer 2 项目 Arbitrum 进行第一次治理\n\nToken\n\n的空投，并将其分配给 Arbitrum 用户和相关社区。（推荐阅读：《一文了解Arbitrum空投细则》）\n\n\nArbitrum 基金会和 Nansen 合作，一起设计了空投策略和分配模型，以量化的方式确保每个钱包或链上实体地址是否满足空投资格标准。\n\n\n\n图 1：L2 崛起，2023 年 2 月 Arbitrum 日交易量首次超越以太坊\n\n\nArbitrum 基金会已授权 Nansen 确保，会考虑到与网络交互的地址数量，以及将\n\nToken\n\n空投到给促进 Arbitrum 生态发展的用户手中。\n\n\n•分配模式将基于链上数据：通过 Nansen Query 查询 Arbitrum 过往历史数据\n\n\n•…",
+          "link": "https://www.theblockbeats.info/news/35683",
+          "publishedOn": "2023-03-17T03:19:05.000Z",
+          "wordCount": null,
+          "title": "Arbitrum：我们是如何排查和确认女巫地址的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35676",
+          "author": null,
+          "description": "是什么吸引大家穿着巫师服装洗澡？近4MB大小的NFT风波，曾被指是对比特币的攻击？",
+          "link": "https://www.theblockbeats.info/news/35676",
+          "publishedOn": "2023-03-17T03:03:02.000Z",
+          "wordCount": null,
+          "title": "一文解析比特币memeNFT，光头巫师Taproot Wizard在致敬和表达什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35684",
+          "author": null,
+          "description": "原文标题：《有了 GNT 的 MOOAR 会成为 NFT 市场新的破局者吗？》\n原文作者：0x 嘉然\n\n\n@mooarofficial 刚公布了将推出 NFT AIGC 产品 GNT 的消息。在深度了解了各方面信息后，我感到兴奋且期待。接下来的推文中，我将会从 6 个方面来详细讲述： \n\n\n1. 什么是 GNT；\n2. 谁会用 GNT ；\n3. 对 NFT 市场生态的影响；\n4.MOOAR 使用者的潜在机会；\n5. 从 GNT 看团队的技术实力；\n6. 我的期待。\n\n\n\n\n什么是 GNT？\n\n\n GNT = Generate NFT Tool 是 STEPN 开发商 FSL（Find Satoshi Lab）即将推出的 NFT AIGC 产品。\n\n\n官方说明是：GNT 可为用户提供一站式服务，在多链 NFT 市场 MOOAR 上创建和铸造 NFT，而不需要 AI 相关知识或智能合约的部署过程。很多人问，这个工具和自己用 sd 或 midjouney 生成 NFT 图片有什么区别？带着这个疑问，仔细阅读了白皮书和 @mooarofficial官推对 GNT 的说明后，我得到了以下几个结论： \n\n\n更易用：有专门的 prompt 生成器，可能通过简单的选择就能生成提示词。玩过 AIGC 的都知道，prompt 提示词对生成图片的效果影响非常大。\n\n\n更垂直：自己单独训练的用于生成 PFP 类型 NFTs 的 AI 模型。\n\n\n一站式集成：傻瓜式发布 NFT，自动完成智能合约部署和上链。测试阶段暂时只有 solana 链，但考虑到 mooar 是多链 NFT 发射和交易平台，后续应该也会支持部署到 ETH 链上。\n\n\n\n\n\n谁会需要 GNT？\n\n\n NFT 之所以区别于小图片，是在于其背后的价值，包括独有的数字所有权、社交价值和其它持有收益（如空投、特权等）。因此我认为将会有三类…",
+          "link": "https://www.theblockbeats.info/news/35684",
+          "publishedOn": "2023-03-17T03:02:04.000Z",
+          "wordCount": null,
+          "title": "有了GNT的MOOAR会成为NFT市场新的破局者吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35682",
+          "author": null,
+          "description": "2007 年初始，美国国内抵押贷款违约和法拍屋急剧增加，随后，美国第二大次级房贷公司新世纪金融公司破产。由次贷引发的危机逐渐蔓延至信贷市场，并逐渐演变成金融危机。受金融危机影响，百年传统金融机构雷曼兄弟财务遭受重大打击，在美国财政部、美国银行及英国巴克莱银行相继放弃收购谈判后，宣布申请破产。破产时，雷曼负债高达 6130 亿美元。\n\n\n\n\n在雷曼宣布破产后一个月，Satoshi Nakamoto 发布了 Bitcoin 白皮书，并将其称之为点对点的电子现金系统。2009 年 1 月 3 日，Satoshi Nakamoto 在 Bitcoin 创世区块中留下了「The Times 03/Jan/2009 Chancellor on brink of second bailout for banks（财政大臣处于第二次援助银行的边缘）」，这是泰晤士报当日的头条标题。\n\n\n\n\n历史虽不会重演细节，但过程却会重复相似。在 08 年金融危机 15 年后，美国银行业又遭受了新一轮的打击。3 月 10 日，美国加利福尼亚州金融保护和创新部以「流动性不足和资不抵债」为由，关闭硅谷银行，这是自 2008 年金融危机以来美国倒闭的最大银行。\n\n\n\n\n硅谷银行折戟，去中心化的机会\n\n\n\n\n事实上，硅谷银行的破产并不单单是其出现重大战略失误，更倾向于是美国银行业的系统性风险。硅谷银行成立于 1983 年，是美国第 16 大银行，总资产价值约 2120 亿美元，在破产前三天更是被福布斯称之为美国最佳银行。美国财政部长耶伦事后表示，硅谷银行破产的主要原因是美联储不断加息导致其所持债券等金融资产市场价格不断下跌。\n\n\n\n\n硅谷银行破产并不是该事件的终结，3 月 12 日，纽约州金融监管宣布关闭资产规模达 1100 亿美元的 Signature Bank，美国第一共和国银行、西部联盟银行等等股价均发生暴…",
+          "link": "https://www.theblockbeats.info/news/35682",
+          "publishedOn": "2023-03-17T02:00:01.000Z",
+          "wordCount": null,
+          "title": "银行破产、交易平台跑路，自托管OKX Web3钱包致力资产安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35674",
+          "author": null,
+          "description": "原文标题：《\n\n一文读懂新上线的「ERC-4337」：不再需要助记词，Web3 大规模采用要来了？\n\n》\n原文作者：黑米，白泽研究院 \n\n\nNFT 和 Web3 一直在掀起波澜，但对于加密新人来说，购买和存储它们的过程仍然需要简化。\n\n\n\n\n我记得第一次在 Uniswap 上交易时，我甚至不知道自己在做什么。创建一个加密钱包并将其连接到 DeFi 协议是一场噩梦。\n\n\n\n\n当前，用户与区块链特定智能合约交互的唯一方式是使用他们的 EOA（外部拥有账户）。从将资金发送到 DeFi 流动性池，到将 NFT 转移到市场以出售给其他账户，每一个行为仍然需要单独的交易签名。 \n\n\n虽然我们中的许多加密老手已经接受了这个过程，但初学者？当大多数人已经体验过传统银行业务的便利性时，他们不会喜欢创建和使用 EOA。\n\n\n这些对于让新用户进入 Web3 领域仍然是一个挑战。\n\n\n这就是 ERC-4337 的用武之地。\n\n\n本文将深入探讨 ERC-4337，了解其特性，并探讨其对加密行业和 Web3 的影响。\n\n\n什么是以太坊账户？\n\n\n\n\n以太坊有两种不同类型的「账户」：\n\n\n你可以将合约账户（CA）视为区块链上的代码（智能合约），将 EOA 视为一个人（尽管一个人可以拥有多个 EOA）。\n\n\n\n\n你的 MetaMask 钱包就是一个 EOA。EOA 由一对加密密钥组成：控制账户活动的公钥和私钥。\n\n\n\n\n然而，合约账户没有私钥。它们是智能合约，由其中的代码逻辑控制，不受用户控制。智能合约有能力做任何你可以用代码编写的事情，而 EOAs 基本上只能签署交易。\n\n\n\n\n关键要点是：代码定义合约账户做什么，而用户控制 EOA 做什么。\n\n\n什么是以太坊交易？\n\n\n\n\n每次你想向区块链写入信息，比如转移Token，或者铸造 NFT，都需要进行交易。交易需要 EOA 签名，EOA 也需要支付与这笔交…",
+          "link": "https://www.theblockbeats.info/news/35674",
+          "publishedOn": "2023-03-17T01:30:02.000Z",
+          "wordCount": null,
+          "title": "读懂新上线的「ERC-4337」：不再需要助记词，Web3大规模采用要来了？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35681",
           "author": null,
           "description": "3 月 16 日，Binance 官方公告即将上线第 30 个 Launchpad 项目 Binance Launchpad 将上线 Space ID（ID），并开启 BNB 专场，此次售卖将基于投入模式，Binance 将根据用户 5 日的 BNB 日平均持仓确定用户可投入额度。BNB 持仓快照周期为 2023 年 03 月 17 日上午 08:00 至 2023 年 03 月 22 日上午 08:00（东八区时间）。\n\n\nSPACE ID 成立于 2022 年 4 月，是一个去中心化的域名服务协议，致力于构建一个通用名称服务网络，该网络将跨区块链的人员、信息、资产和应用程序无缝连接起来。并且允许用户可以绑定自己多个链的身份，社区可以通过 SPACE ID 的网络构建自己的域名服务。截止目前，已有 40 多个应用宣布支持整合 SPACE ID 协议。\n\n\n\n\n2022 年 8 月，SPACE ID 在 BNB Chain 上推出了「.bnb」域名服务，并在 6 个月内迅速获得了约 36.1 万次注册和 16.8 万名唯一域名持有者。在「.bnb」域名大热后，SPACE ID 推出 2.0 版本，并在今年初于 Arbitrum 上推出了「.arb」域名服务。目前，「.bnb」「.eth」以及「.arb」域名均可在 Space ID 官网交易。\n\n\n\n\n\n\n\n\n\nSPACE ID 2.0 提供了一站式 Web3 域名和身份平台，用于发现、注册、交易和管理 Web3 域名，它还包含一个面向跨区块链开发者的 Web3 域名 SDK & API，并为每个人提供多链域名服务，使每个人都能轻松创建 Web3 身份。它主要支持以下四个方面：\n\n\n\n\n1. 发现：作为一个中央枢纽，可供用户在所有受支持的顶级域名（TLD）中搜索所需的域名名称，以及发现热门域名集合，同时还支持自动提示、快速查询域名注册状态等功能；\n2. 注册：用户可以在 SPACE ID 主网上注册所有 Web3 域名，「.bnb」和「.eth」域名将是首个版本主网中支持的前两个顶级域名；\n3.Trade：一个专门为交易 Web3 域名而设计的市场，具有来自其他 NFT 市场（如 OpenSea）的聚合流动性；\n4. 管理：一个单一的集成门户，用于管理用户所有 Web3 域名的续订、记录和所有权；\n\n\n\n\n另外，「One SDK for all」也是 SPACE ID 的主要特点之一。这一设计旨在实现架构统一，以简化 Web3 服务的集成过程，消除开发人员与多种协议打交道的需求，从而节省时间并降低兼容性风险。在 SPACE ID 2.0 中，Web3 Name SDK 拥有比以往更强大的功能——项目方可通过利用自定义域名，使社区和合作伙伴能够更好地与用户互动。\n\n\n\n\nSPACE ID 2.0 还在 SDK 之上添加了一个一体化的 API，以作为一个更全面的平台，支持项目方将 Web3 服务集成到任何应用程序中，这意味着 SPACE ID 的合作伙伴只需要集成这个 Web3 Name SDK，就可以连接到用户拥有的所有域名数据。",
@@ -283,16 +343,6 @@
           "publishedOn": "2023-03-14T19:26:49.000Z",
           "wordCount": null,
           "title": "Mangrove：用智能报价解锁DEX流动性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35587",
-          "author": null,
-          "description": "赏金模式就算加到10%，也跑不赢黑客池，除非把犯罪成本加入等式。",
-          "link": "https://www.theblockbeats.info/news/35587",
-          "publishedOn": "2023-03-14T14:00:01.000Z",
-          "wordCount": null,
-          "title": "从Euler黑客事件，漫谈DeFi的安全审计和安全",
           "imageUrl": null
         }
       ]
