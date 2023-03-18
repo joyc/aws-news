@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35729",
+          "author": null,
+          "description": "安全使用多签名钱包和社交恢复钱包的两个关键问题是：你选择谁作为守护者，以及你给他们什么指示？",
+          "link": "https://www.theblockbeats.info/news/35729",
+          "publishedOn": "2023-03-18T01:30:01.000Z",
+          "wordCount": null,
+          "title": "Vitalik最新观点：如何为多签钱包和社交恢复钱包选择守护者？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35717",
           "author": null,
           "description": "原文标题：《\n\n美国银行业「震后」，各领域 Dapps 受何影响？\n\n》\n原文作者：Sara Gherghelas， Dappradar\n原文编译：Katie 辜，Odaily 星球日报\n\n\n上周末，市场因美国银行界可能发生的系统性危机而受到冲击。\n\n\n伴随硅谷银行（SVB）正式破产，其客户之一 Circle 的 USDC 部分质押品存在损失可能，随之 USDC 脱钩。这种现象令人想起了 2022 年的加密黑天鹅事件，如 Terra Luna 的崩溃，三箭资本和 FTX 的垮台。随着金融监管机构对 SVB 的债务作出回应以及 Circle 的积极运营，USDC 价格现已回锚。尽管如此，USDC 的波动仍在市场上引起了广泛的恐慌和不确定性。\n\n\n稳定币们表现如何？\n\n\nDapp 和加密行业的震动与宏观经济事件高度相关。\n\n\n美国加密公司 Circle 是第二大稳定币 USDC 背后的公司，是受 SVB 下跌影响最大的公司之一。3 月 11 日，在该公司透露其 400 亿美元储备中有近 8% （即 33 亿美元）在硅谷银行后，该稳定币失去了与美元的挂钩，并创下历史新低。\n\n\n\n\n\n由于 USDC 与美元脱钩，恐慌蔓延到整个加密社区，USDC 价格跌至 0.8789 美元的低点。截至当日收盘，USDC 供应涉及 19 亿美元的净流出，一夜之间从 3 月 10 日的 427.4 亿美元跌至 3 月 11 日的 408.4 亿美元，降幅 4.4% 。\n\n\n美国监管机构于 3 月 12 日介入，为受 SVB 破产影响的储户和金融机构提供支持。尽管这一消息导致 USDC 重新挂钩，但稳定币的供应量和市值仍下降了 9.1% 。美元供应量净流出为 39.3 亿美元，从 3 月 10 日初的 434.3 亿美元跌至 3 月 13 日底的 395 亿美元。\n\n\n尽管如此，稳定币 TrueUSD（…",
@@ -253,16 +263,6 @@
           "publishedOn": "2023-03-16T01:30:02.000Z",
           "wordCount": null,
           "title": "浅析MEV的发展现状及趋势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35623",
-          "author": null,
-          "description": "原文标题：《\n\nFileCoin 重大升级，「翻身」打破以太坊主导的公链格局？\n\n》\n\n\n原文作者：大圣 Web3，白话区块链\n\n\n\n\n\nFilecoin 从 2017 年诞生至今充满争议，明星团队和资本的加持，强大的 IPFS 协议技术支撑，让这个去中心化存储项目一诞生就赚足了眼球，过好的预期透支了项目的潜力，加之 2022 加密整体的下行周期，最终导致 FIL 极为糟糕的 Token 表现，被大家戏称为「天亡级项目」。\n\n\n但无论如何，Filecoin 从项目本身来说还是值得肯定的。时至今日，Filecoin 市值依旧在 20 亿美金以上，市值排名 27 名。\n\n\n作为身兼历史使命，志在打造全球性的去中心化存储网络迎来重大升级，随着 3 月 14 日，Filecoin 虚拟机（FVM）在主网上线，项目开发热度和市场热度再一次展开，FVM 上线热度会是昙花一现，还是会给 Filecoin 带来深远影响？\n\n\n 01 什么是 FVM\n\n\nFVM（Filecoin Virtual Machine）是 Filecoin 网络上的虚拟机，是 Filecoin 网络上智能合约运行时的环境。FVM 为 Filecoin 带来了用户可编程性，释放了开放数据经济的巨大潜力。智能合约使用户能够创建和执行用于在网络上存储和访问数据的规则。FVM 负责执行这些智能合约，并确保它们被正确、安全地执行。\n\n\n\n\n\n这里要区别以下几个概念，EVM,FEVM,FVM：\n\n\nEVM（以太坊虚拟机）是最初为以太坊区块链设计、构建和运行的执行环境。\n\n\nEVM 是革命性的，因为这是第一次可以将任意代码部署到区块链并在其上运行。这里做简单描述，虚拟机为开发者提供了独立于主网，但拥有完整系统功能的运行环境，方便测试和安全运行，并通过将开发者开发的代码转换为所在区块链环境的代码运行，方便开发应用。这一点可以参考平…",
-          "link": "https://www.theblockbeats.info/news/35623",
-          "publishedOn": "2023-03-15T14:00:02.000Z",
-          "wordCount": null,
-          "title": "FileCoin重大升级，「翻身」打破以太坊主导的公链格局？",
           "imageUrl": null
         }
       ]
