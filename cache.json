@@ -244,36 +244,6 @@
           "wordCount": null,
           "title": "DAO聚合器ThePASS和BanklessDAO达成战略合作，以扩大双方在DAO生态影响力",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35651",
-          "author": null,
-          "description": "抗 MEV 解决方案供应商 Wallchain 宣布获得由 Cypher Capital 领投的 200 万美元投资，\n\nCypher Capital\n\n是一家总部位于阿联酋迪拜的多战略风险投资公司。这笔投资将用于推动 Wallchain 对 Web3 进行深入研究，以实现收入增长、推出新的 MEV 解决方案。\n\n\n\n什么是 Wallchain？\n\n\n在 DEX 和钱包上发起的交易为专门的机器人（称为 MEV 机器人）创造了盈利机会，这些机器人识别并操纵交易的顺序，他们通过抢跑操作或套利操作获得利益。这些机会是不透明的，最终用户很少看到。自 2021 以来，MEV 机器人已经通过上述操作抽取了约 7 亿美元价值。Wallchain 通过将其抗 MEV 解决方案集成到 DEX 和钱包中来解决这一日益严重的问题，该解决方案将在源头上重新捕获这些利润。简单来说，该解决方案在用户交易中插入套期保值交易，完全消除了 MEV 的可能性。对冲产生的利润随后分配给平台和最终用户作为现金返还，为双方整合 Wallchain 创造了双赢的局面。\n\n\n\nWallchain 的联合创始人 Yurii Kyparus 和 Max Bevza 拥有丰富的 Web2 经验，曾在谷歌和 Meta 等知名公司任职。\n\n\n\n\n\n\nCypher Capital Chairman Bill Qian 表示：「Wallchain 是为 DEXes 中的企业和终端用户激活真正价值的缺失部分；该项目有很大的增长空间。Wallchain 在市场上令人印象深刻的吸引力、方法、成熟的技术以及与市场领先交易平台的合作伙伴关系。加上迄今为止强大的投资者支持，以及由初创企业资深人士和开发商组成的雄心勃勃的团队，使他们能够实现真正复杂的愿景。」\n\n\n\n\n\n关于 Bill\n\nQian\n\n\n\n\nBill Qian 是 Cypher Capital Group 的 Chairman。在加入 Cypher Capital 之前，Bill 曾担任 Binance 全球并购和 Binance 实验室负责人。在此之前，Bill 是京东的金融科技/科技投资主管。\n\n\n\n\n\n\n\n关于 Cypher Capital\n\n\n\nCypher Capital 是一家总部位于阿联酋的领先多策略加密货币投资公司，涵盖风险投资、公开市场、节点、采矿等。它与全球知名的 Web 3.0 创始人合作，不仅限于金融资本投资，还利用全球关系和行业专业知识确保长期成功。\n\n\n\nCypher Capital 投资了在区块链协议和基础设施层面建立业务的公司。其中包括交易平台和资产转移协议、稳定币、智能合约平台、数字货币和高增长行业的公用事业 Token。\n\nCypher Capital 还十分注重合规，通过向相关的法律方寻求建议，它创建了一个完全符合现行法规的合规运营框架。\n\n\n\nCypher Capital 在中东和非洲地区提供高效、完整的市场准入，并与初创公司建立坚实的合作伙伴关系，帮助他们与中东、非洲、土耳其和印度其他有影响力的公司构建联系，扩大团队规模以及基础设施建设。\n\n\n本文来自投稿，不代表 BlockBeats 观点。",
-          "link": "https://www.theblockbeats.info/news/35651",
-          "publishedOn": "2023-03-16T04:17:31.000Z",
-          "wordCount": null,
-          "title": "抗MEV解决方案供应商Wallchain获得由Cypher Capital领投的200万美元投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35650",
-          "author": null,
-          "description": "原文标题：《读懂加密内存池：解决 MEV 和审查问题的全新设计空间》\n原文作者：Jon Charbonneau\n原文编译：0x11，Foresight News\n\n\n加密内存池是解决 MEV 和审查问题的强大工具，目前已有多种可以单独使用的相关方案，它们之间也可以组合使用。\n\n\n这篇文章概述了 Justin Drake 围绕该主题的演讲（Columbia、Amsterdam 和 Flashbots Roast）所构建的设计空间。你们中的大多数人可能在第一次观看时感到难以理解，所以我试着简单地进行分解和扩展。\n\n\n基本思想：允许用户提交加密交易，区块生产者提交这些交易才能解密：\n\n\n用户加密并广播交易\n\n\n加密交易提交\n\n\n交易被解密\n\n\n事务执行（注意：提交、解密和执行可能在单个 slot）\n\n\n\n\n\n两个问题似乎可以迎刃而解：\n\n\nMEV：如果我看不到它，我无法抢先交易\n\n\n审查：除非排除所有加密交易，否则我无法审查交易（如果许多交易是加密的，成本可能会非常昂贵）\n\n\n\n\n\n这里需要确保的一个关键点是保证解密不依赖于用户。有几种方法可以实现这一点：\n\n\n\n\n\n\n\n\n1.In-flight\n\n\n相信某个第三方，私下向他发送数据，他可以解密和查看数据，但承诺在数据提交到链上之前不会公开披露。这就是 Flashbots Protect 等产品的工作方式。\n\n\n2. 可信硬件\n\n\n你可以利用受信任的硬件。明文可以在受信任的硬件中运行，但在提交交易之前不会公开解密。最著名的例子是 Flashbots SUAVE 的 SGX。\n\n\n3. 门限加密 / 解密（TED）\n\n\n一个委员会可以联合起来强制解密密文，但是需要签名者达到一个门槛才能做到这一点。例如，你的「阈值」可能是需要 2/3 的验证者同意解密。TED 已经在几个不同的领域进行了研究，包括：\n\n\n以太坊 L1——Shutter…",
-          "link": "https://www.theblockbeats.info/news/35650",
-          "publishedOn": "2023-03-16T03:26:44.000Z",
-          "wordCount": null,
-          "title": "读懂加密内存池：解决MEV和审查问题的全新设计空间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35605",
-          "author": null,
-          "description": "原文标题：《\n\n浅析 MEV 的发展现状及趋势\n\n》\n原文作者： 0xCousin，IOBC Capital\n\n\n\n\n1、MEV 的定义、背景\n\n\n\n\nMEV（Maximum Extractable Value）是指通过在区块内重新排序、插入和审查交易从用户那里提取的价值，例如套利、清算等。最根本上可以理解为「在创建新区块时，通过调整 Tx 的排序从而获得的额外收益」。\n\n\nMEV 的概念最早是由 Phil Daian 在《Flash Boys 2.0》中提出，在以太坊合并之前，MEV 主要由矿工捕获，因此当时也被称为「矿工可提取价值（Miner Extractable Value）」。MEV 的产生来源于，当用户在区块链上提交一笔交易时，该笔交易一般会先进入 Mempool 公开访问的待处理交易池中。套利者和矿工可以检索 Mempool，并从中找到获取 MEV 的机会。\n\n\n\n\n以太坊合并后，由于出矿机制的改变，MEV 供应链中的角色也有所改变。在 Danksharding 尚未实施之前，Flashbots 提出了 MEV-Boost 作为 PBS 在协议外的实践。Buider 专注于构建 Block，并尽可能实现每个 Block 的利益最大化，然后最有利可图的 Block 被提交给 Proposer。PBS 机制的实现使得区块链出块产业的利益产生了一些改变，同时促进了产业链上相关机构的专业化、商业化进程，也使得 MEV 供应链形成了新的格局。\n\n\n2、MEV 的供应链\n\n\n\n\n基于 MEV-Boost 的 Tx 上链流程如下图（图中浅绿色为 Tx 常规上链流程，白色模块为 MEV 的 Tx 上链流程）：\n\n\n\n来源：Flashbots\n\n\n与 Tx 常规上链流程相比，MEV 的 Tx 上链流程通过 Flashbots 的 MEV-Boost 实现了 PBS 的协议外实践…",
-          "link": "https://www.theblockbeats.info/news/35605",
-          "publishedOn": "2023-03-16T01:30:02.000Z",
-          "wordCount": null,
-          "title": "浅析MEV的发展现状及趋势",
-          "imageUrl": null
         }
       ]
     },
