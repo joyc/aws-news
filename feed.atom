@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-18T06:09:08.942Z</updated>
+    <updated>2023-03-18T12:12:14.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO：谈谈加密当前面临的一些监管挑战]]></title>
+        <id>https://www.theblockbeats.info/news/35737</id>
+        <link href="https://www.theblockbeats.info/news/35737"/>
+        <updated>2023-03-18T04:50:13.000Z</updated>
+        <summary type="html"><![CDATA[金融系统急需现代化，而Crypto是能够帮助实现这一目标的技术之一，希望美国能在Crypto方面建立规范和法律。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik最新观点：如何为多签钱包和社交恢复钱包选择守护者？]]></title>
         <id>https://www.theblockbeats.info/news/35729</id>

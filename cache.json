@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35737",
+          "author": null,
+          "description": "金融系统急需现代化，而Crypto是能够帮助实现这一目标的技术之一，希望美国能在Crypto方面建立规范和法律。",
+          "link": "https://www.theblockbeats.info/news/35737",
+          "publishedOn": "2023-03-18T04:50:13.000Z",
+          "wordCount": null,
+          "title": "Coinbase CEO：谈谈加密当前面临的一些监管挑战",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35729",
           "author": null,
           "description": "安全使用多签名钱包和社交恢复钱包的两个关键问题是：你选择谁作为守护者，以及你给他们什么指示？",
