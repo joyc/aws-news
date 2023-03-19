@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-19T06:10:11.169Z</updated>
+    <updated>2023-03-19T12:12:41.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：解读Arbitrum空投细则；美联储是否再次开启「印钞」模式？]]></title>
+        <id>https://www.theblockbeats.info/news/35743</id>
+        <link href="https://www.theblockbeats.info/news/35743"/>
+        <updated>2023-03-19T08:01:52.000Z</updated>
+        <summary type="html"><![CDATA[重温本周热点：2023 年第 12 周融资精选，多个稳定币项目获得融资；审计六次仍被盗走 2 亿美金，Euler 乐高的连锁反应有多大？Arbitrum 如何排查和确认女巫地址？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[后「上海升级」时代，我们需要关注什么？]]></title>
+        <id>https://www.theblockbeats.info/news/35738</id>
+        <link href="https://www.theblockbeats.info/news/35738"/>
+        <updated>2023-03-19T03:26:34.000Z</updated>
+        <summary type="html"><![CDATA[一旦用户能够重新选择质押协议，新一轮的以太坊质押又开始重新洗牌。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO：谈谈加密当前面临的一些监管挑战]]></title>
         <id>https://www.theblockbeats.info/news/35737</id>
