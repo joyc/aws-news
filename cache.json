@@ -184,66 +184,6 @@
           "wordCount": null,
           "title": "探索加密货币与游戏的交叉点：如何摆脱「Web2.5游戏」的标签？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35675",
-          "author": null,
-          "description": "3 月 14 日，经过了一年多的酝酿后，FVM 终于在 Filecoin 主网上线，为 Filecoin 生态带来了活力。FVM 生态现状如何？我们为大家梳理了目前 13 个颇具雏形的 FVM 项目。\n \n \n\n\n \n\n\nSFT\n\n\n \n\n\n\nSFT 基于 Substrate，旨在解锁中长期被质押锁定无法流动的资产。第一阶段以 Filecoin 为基础，FIL 用户可以灵活参与、转账、提现或赎回，提供完全灵活的 Stake 参与方式，并整合 DeFi 功能。后续 SFT 将集成更多公链并建设全球分布式基础设施节点。\n\n\n \n \nMFIL\n\n\n\n\n\nMFIL 是基于 FVM 的去中心化流动性质押项目，旨在解决 FIL 因质押带来的流动性问题。在熊市中许多 FIL 用户被套牢，MFIL 希望在无法卖出的长期持有期间，为 FIL 寻找合理的收益模式。\n\n\n \n \n \nSTFIL \n\n\n\n\n\n\n\nSTFIL 是一个流动性质押协议，旨在吸引希望在不牺牲流动性的情况下获得收入的 Holder 参与质押，并为 Filecoin 的 SP（流动性提供者）提供更高的投资回报。\n\n\n \n \n \nHashMix \n\n\n\n\n\n\n\nHashMix FIL Liquid Staking 是一个去中心化流动性质押协议，全程自我托管。HashMix 可为矿工提供以其未来收入为担保的借款服务，并以利率曲线调整 APY。\n\n\n \n \n\n\n\n\nFileSwap\n\n\n\n\n\nFileSwap 是第一个基于 FVM 的 AMM DEX，提供包括 Token 管理、交易、提供流动性、质押挖矿、NFT 交易和借贷在内的一站式服务。\n \n \n\n\nSPex\n\n\n\n\n\n\n\nSPex 是一个面向 Filecoin SP 的 DEX，以转让 SP 所有权的方式为 SP 们提供新的获利方式，是首个为 SP 提供交换和融资服务的 DEX。\n \n \n \n\n\nGemSwap\n\n\n \nGemSwap 是一个基于 FVM 的 DEX，旨在为 Filecoin 生态提供一站式服务，包括交易、Farm、Launch Pad、NFT 市场。\n \n \n\n\nFILL \n\n\n\n\n\nFILL 是第一个基于 FVM 的借贷协议，面向 SP 与 FIL 持有者，旨在通过无需信任的 FIL 借贷协议平衡 SP 与 FIL 持有者的利益和借款人的成本。\n\n\n\n\nFLAME LAUNCH\n\n\n\n\n\nFLAME LAUNCH 是一个基于 FVM 的 Launchpad，整合社交图谱和链上资产数据，具有筛选、评级等功能。除传统 Launchpad 功能外，还可用 FLAME LAUNCH 平台确定白名单身份、发布互动任务等活动，并使用 DID 公证项目方的时效记录并标记用户画像，以此实现更具公信力的市场环境和更公平的交易机制，确保参与者在 Launch 活动中得到充分的安全保证。\n\n\n\n\nFNS\n\n\n\n\n\nFNS（Filecoin Name Service）是基于 FVM 的域名与 DID 服务提供商，提供.fil 域名服务。\n \n \n\n\nFileMarket\n\n\n\n\n\nFileMarket 是一个基于 FVM 的 NFT 市场，提出了新的 NFT 标准：Encrypted FileToken（EFT），可在 Filecoin 和 IPFS 上永久存储加密文件，以 NFT 形式存储、出售、购买或发送任何文件。\n \n \n\n\nFilSwan\n\n\nWeb3 跨链基础设施 FilSwan 是 Binance Labs 孵化项目和 Startup with Chainlink 计划成员，旨在同时为 Web3 项目提供数据、计算、存储和支付服务。FilSwan 目前提供多链数据存储、自动 Filecoin 交易商服务、Filecoin 与 Amazon S3 连接网关、PB 级数据传输服务。\n \n\n\nFilfox\n\n\n\n\n\n\n\n\nFilfox 是一个 Filecoin 区块链浏览器和数据服务平台，提供基于 Filecoin 的各类排行、区块链数据查询、可视化图表等一站式数据服务。",
-          "link": "https://www.theblockbeats.info/news/35675",
-          "publishedOn": "2023-03-16T10:07:21.000Z",
-          "wordCount": null,
-          "title": "FVM上线后，Filecoin生态有哪些项目值得关注？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35656",
-          "author": null,
-          "description": "原文标题：《\n\nGMX 的挑战者们\n\n》\n原文作者：DODO Research\n\n\n\n自 22 年 GMX Token上线Binance后，GMX 的各项数据接连创下新高。截至目前，GMX 的平台总交易量已超过 1000 亿美金，AUM 超 10 亿美金，独立地址超过 16 万，分发给用户的费用超过 1 亿美金。\n\n\n\nhttps://dune.com/gmxtrader/gmx-dashboard-insights\n\n\n在正式上线至今近 1 年半的时间里，GMX 一直在质疑的声音下运行，但在真实收益（real yield）叙事下，GLP 的「对赌」模式渐渐被人们所接受。\n\n\n截至目前，由 Defillama 统计的已上线 GMX fork 协议已经有近 20 个，分布在不同链上，下面我们将挑选七个代表项目进行盘点。\n\n\n\nGMX 机制图解\n\n\n\nGMX 的 forks\n\n\n1. Mummy Finance \n\n\nMummy Finance 是由 Fantom 基金会支持的 GMX fork。机制上，Mummy Finance 在冷启动\n\nToken\n\n的分发上新增了使用 NFT 发放 esMMY 并给予了 NFT 持有人 80% 的国库 FTM 分红。在费用分配上将 MLP 的比例由 70% 下调至 60%，其中 5% 分配给开发团队，5% 用于回购并添加 Equalizer（Solidly fork）的 MMY-FTM LP。此外，除了 MLP 中有 FTM 作为一揽子资产外，其余机制与 GMX 相同。\n\n\n截至目前（数据均为 3 月 5 日），Mummy finance 的平台交易量已超过 4 亿美金，MLP 已有近 1500 万美金的 TVL，产生了约 78 万美金的费用，数据并不亮眼。\n\n\n\nhttps://app.mummy.finance/#/dashboar…",
-          "link": "https://www.theblockbeats.info/news/35656",
-          "publishedOn": "2023-03-16T09:26:16.000Z",
-          "wordCount": null,
-          "title": "DODO Research：GMX的挑战者们有哪些？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35657",
-          "author": null,
-          "description": "原文作者：Fungi Alpha，加密研究员\n原文编译：Leo，BlockBeats\n\n\n市场再次被比特币大阳线拉起了情绪，加密研究员 Fungi Alpha 撰写了关于近期值得关注新项目的文章，BlockBeats 整理编译如下：\n\n\n\n\nTurboSwap\n\n\nTurboSwap 是一个去中心化交易平台，特点是集成了 MaestroBots 和 GoPlusLabs 技术，允许用户通过内置的智能合约扫描器获取 token 的数据，例如：购买税/销售税、最大交易量、市值、持有人、流动性等。以便用户进行 swap、添加流动性等。\n\n\n\n\nOlympusDex\n\n\nOlympusDex 是 Arbitrum 上的 AMM DEX，提供不错的用户体验，针对 LP 的有效激励、最佳的 swap 价格和更高的资本利用率、产生真实收益的可持续费用系统。\n\n\n\n\nFileX\n\n\nFileX 是即将在 Filecoin FVM 上推出的自优化 ve（3,3）DEX，看起来也具有一些 Solidly 机制，近期 FVM 的上线也带来一些热度。\n\n\n\n\nOfficial Chimpzee Project\n\n\nOfficial Chimpzee Project 是一个集合 P2E + NFTs + 慈善 + DeFi 的项目，以「丛林中保护环境和动物」故事为主线进行，由 Solidity Finance 审计，约 3 天后开始售卖其 token CHMPZ，购买需谨慎。\n\n\n\n\nSaferoot\n\n\n从该项目简介上看似乎是一个加密资产管理平台，旨在保护用户的 NFT 和加密货币，背靠 Staging Labs，并未披露太多信息。\n\n\n\n\nBrave Arena\n\n\nBrave Arena 是 Arbitrum 上的终极 PVE 和 PVP 竞技场战斗模拟器，有着双 token 奖励，近期更新了…",
-          "link": "https://www.theblockbeats.info/news/35657",
-          "publishedOn": "2023-03-16T08:14:05.000Z",
-          "wordCount": null,
-          "title": "盘点近期可以关注的19个新项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35654",
-          "author": null,
-          "description": "原文标题：《\n\nUSDC 脱锚事件后的 DeFi 未来，「链上金融」or 完全去中心化？\n\n》\n\n\n原文作者：Igans，substack\n原文编译：Frank，Foresight News\n\n\n\n\n\nUSDC 脱锚引发了市场对 DeFi 未来发展的重大担忧和质疑。由于 DeFi 生态系统严重依赖 USDC，因此评估未来的潜在解决方案至关重要。\n\n\n\n\n\n我认为我们有两条路可供 DeFi 社区选择：将 DeFi 重新定义为「链上金融」（on-chain finance），或全面拥抱去中心化。\n\n\n一、将 DeFi 更名为「链上金融」\n\n\nDeFi 依赖于像稳定币、预言机和 Web2 基础设施等这样的中心化组件，这使它容易受到潜在的政府打压的影响。\n\n\nUSDC 本身被认为是最安全的抵押品，以至于 Compound v2 把 USDC 的价值直接锁定为 1 美元。\n\n\n现在我们意识到，对 USDC 的信任最终依赖于对传统金融银行体系和政府的信任。如果政府真的想关闭（大部分）DeFi，他们是可以做到的。\n\n\n\n\n\n目前，DeFi 在每个级别上都意味着是去中心化和可信任的，因此即使是一个中心化的组件也会影响整个协议的安全性。\n\n\n所以通过将 DeFi 更名为「链上金融」，行业可以在承认中心化的同时保持关键优势，如自我监管、增加流动性、可组合性和单一数据来源（不可逆转的交易）。\n\n\n「链上金融」的好处将越来越明显：\n\n\n流动性增加（买方市场扩大）；\n可组合性增强（新金融产品）；\n单一数据来源（降低对账成本）；\n\n\n\n\n\n\n\n像 FRAX 这样的例子表明，项目可以朝着「链上金融」的方向发展，而无需完全拥抱去中心化：\n\n\nFrax Finance 的目标是通过申请美联储主账户（FMA），以尽可能接近美联储（Foresight News 注，美联储主账户允许持有美元并直接与美联储进行交易…",
-          "link": "https://www.theblockbeats.info/news/35654",
-          "publishedOn": "2023-03-16T07:17:30.000Z",
-          "wordCount": null,
-          "title": "USDC脱锚事件后的DeFi未来，「链上金融」or完全去中心化？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35653",
-          "author": null,
-          "description": "原文标题：《深挖链上数据，Arbitrum 的收入和资金流向了哪些协议？》\n原文作者：十文，Odaily星球日报\n\n\nArbitrum 生态系统正在起飞，数据分析师 @defi_mochi 使用 Flipside（一种高定制化的数据开发工具，有较高的自由度，可显示特定链的关键经济指标，以跟踪其健康状况和总体参数）分析了所有 DefiLlama 上 Arbitrum 的数据。以下内容由 Odaily 星球日报经过整理编译，可以让你对 Arbitrum 的整个生态系统有一个更清晰的认知。\n\n\n\n\n\n我们在 2 月份看到有两笔巨款存入 Arbitrum，这笔存款余额超过 4.5 亿美元，我怀疑这是由于交易平台上币以及大量 Fomo 资金进入 Arbitrum 生态系统造成的。\n\n\n由于最近市场影响，虽然进入 Arbitrum 的资金总体上是有所上升，但是桥接存款略有下降。从下图中能够很明显的看到，桥接存款从 10 亿美元上方下降至 2 亿美元下方，跌幅超 80% 。\n\n\n\n\n\n\n但是在恐慌时期，Arbitrum 上的 DEX 和期权交易量都有所增加，且期权交易量增加导致 GMX 活动也有所上升。又由于 USDC 和 USDT 的套利，DEX 交易量的涨幅显著。可以看到 3 月 11 日，DEX 和期权交易量都达到了一个高峰，二者交易量都超过了 8 亿美元，与过去几个月的数据对比，增幅较大。\n\n\n\n这种巨大的活动和桥接存款使 Arbitrum 的 TVL 飞升至 20 亿美元，并达到 ATH。那么这些收入和资金流向了哪里？\n\n\n\n根据 DefiLlama 数据，Arbitrum 的手续费市场份额有 70% 被 GMX 压倒性地占据，Gains Network 在 12 月下旬推出后也已经占据了 7% 的手续费。\n\n\n除了 Arbitrum 自己收取的费用外，收取费用排名前 5 的协议占据的市场份额如下：\n\n\n1. 为大型交易者创建去中心化加密货币衍生品和现货交易平台的 GMX，占比 70.84% ，也是 Arbitrum 上的龙头 DEX 衍生品。\n\n\n2. Arbitrum 自己收取的费用占比 11.25% 。\n\n\n3. 提供加密货币和外汇交易选项，并提供杠杆交易的去中心化永续合约交易平台 Gains Network，占比 7.88% 。\n\n\n4. 提供了 WBTC 和 ETH 期权购买服务的链上期权平台 Hegic，占比 3.5% 。\n\n\n5. 提供零滑点和高达 100 倍杠杆的去中心化杠杆交易协议 MUX Protocol，占比 1.31% 。\n\n\n此外，还有 Solidlizard、Zyberswap、Premia 等协议。\n\n\n\n\n\n从数据中我能够发现哪些协议可以深度参与。因此我又根据 Arbitrum 上的每个协议的月度费用数据创建了此表，月度变化以百分比为单位，对我来说最突出的协议是：\n\n\n1. Lyra，与 GMX 集成的期权协议，曾获 Framework Ventures 和 GSR 参投的 300 万美元融资。上个月，它的费用增加 276% 。\n\n\n2. ZyberSwap，结合 Uniswap V2 和 Curve 的 DEX ，上个月费用增加 556% ，但是其代币曾在一月底经历死亡螺旋至接近归零，得益于 Layer 2 上 DeFi 复苏，近期势头明显。但是也要注意，虽然 ZyberSwap 的成交量似乎正在回升，但 TVL 到目前为止仍然停滞不前。大部分交易量来自他们稳定的交易对 USDT/DAI/USDC。\n\n\n3. Arbitrum，上个月费用增加 114% 。\n\n\n\n\n\n从这些协议的每周数据分析得出，Lyra 的表现令人印象深刻，过去一周增长了近 76% 。此外，由于受 USDC 脱锚事件的影响，诸如 ZyberSwap 之类的项目也都有明显的增长势头。\n\n\n\n\n\n但我还是对 Lyra 很好奇，于是去 Tokenterminal 上查看了它的全部数据，各方面都有惊人的增长：\n\n\n\n1. TVL：上涨 20% 至 3586 万美元。\n\n\n2. 价格/费用： 4.33 美元 (下降 31.7% )。\n\n\n3. 年化交易量在近期暴涨的基础上又上涨了 20% 。\n\n\n\n\n\n因此，我个人非常看好这一基本面的上升趋势。以上是 @defi_mochi 的数据分析，并不代表 Odaily 星球日报的观点，也不构成投资建议，还请大家自行分析判断。\n\n\n原文链接",
-          "link": "https://www.theblockbeats.info/news/35653",
-          "publishedOn": "2023-03-16T06:36:28.000Z",
-          "wordCount": null,
-          "title": "深挖链上数据，Arbitrum的收入和资金流向了哪些协议？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35652",
-          "author": null,
-          "description": "DAO 聚合器协议 ThePASS 宣布与 BanklessDAO 达成最新战略合作。通过此次合作，ThePASS 和 BanklessDAO 将共同致力于提高 DAO 财务管理、投票治理等方面的透明度和有效性。\n\n\n作为这一伙伴关系的一部分，ThePASS 将在其平台上提供一个全面的数据库，这将使 BanklessDAO 成员能够实时跟踪和监测他们的财政持有量，包括 FT 和 NFT 资产。这将有助于确保所有成员清楚地了解该组织的财务状况，并能对未来的投资和支出做出明智的决定。\n\n\nThePASS 最近与 MeebitsDAO、Maker DAO、City DAO、Jenny MetaverseDAO、ArtsDAO、Foreverlands、Metaguild 等杰出的去中心化组织建立了伙伴关系。鉴于 ThePASS 在行业内提供的一贯价值，预计将出现更多的合作伙伴。\n\n\n根据 ThePASS 平台，BanklessDAO 拥有超过 140 万的国库资产，原生代币比例为 83%，下面有 18 个公会和部门。其 FT 资产占比最多的资产分别是$BANK, $USDC, $ETH, $VITA,$rET。作为一个以 DeFi 为中心的 DAO，其持有的唯一有价值的 NFT 是其 2 年前收购的 ENS 域名。\n\n\n\nBanklessDAO 的概述页面\n\n\n\nBanklessDAO 的国库页面 \n\n\n值得注意的是，BanklessDAO 的治理相当活跃，共有 57 个提案，3477 个投票人和 18770 张投票。57.8% 的代币持有者参与了治理，而 80 名投票者参与了一半的提案。而最主要的提案者是 icedcool.eth、frogmonkee.eth 和 abvavgjoe.eth。\n\n\n\nBanklessDAO 治理概述\n\n\n对于 bDAO 来说，更有趣的是，他们已经从一个 DAO 发展到了一个 DAO 生态系统，多个相关项目正在崛起。通过 ThePASS，你可以在这里查看它们：https://thepass.to/ecology/Bankless_DAO_Ecosystem。\n\n\n\nBanklessDAO 生态系统\n\n\n关于 BanklessDAO :\n\n\nBanklessDAO 是一个充满激情的社区，由 Web3 思想领袖组成，寻求新的方式来创造财富，解决人类协调问题，创造文化，并在加密货币领域发展尖端的思想领导力，其使命是让 10 亿人加入加密货币。\n\n\n关于 ThePASS：\n\n\nThePASS 是一个 DAO 聚合器和国库追踪平台。它通过聚合社交图谱（链上+链下）帮助建立 DAO 的声誉系统，并跟踪、分析和评估包括 FT 和 NFT 资产在内的财政资产，为社区提供更好和更透明的方式来剖析 DAO 的真实情况。\n\n\n本文来自投稿，不代表\n\nBlockBeats 观点。",
-          "link": "https://www.theblockbeats.info/news/35652",
-          "publishedOn": "2023-03-16T06:25:47.000Z",
-          "wordCount": null,
-          "title": "DAO聚合器ThePASS和BanklessDAO达成战略合作，以扩大双方在DAO生态影响力",
-          "imageUrl": null
         }
       ]
     },
