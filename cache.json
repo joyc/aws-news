@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35749",
+          "author": null,
+          "description": "原文标题：《万字雄文解读 Bitcoin Ordinals》\n原文来源：@TraFinity Labs @AIO Labs\n原文作者：@masa @0xsilence @Luna.F\n\n\nTraFinity Labs & AIO Labs 联合发布，AIONews 全网首发。\n\n\n序文\n\n\n比特币是区块链技术第一个成功的实践项目，使去中心化的概念深入人心。在比特币诞生 10 多年的时间里，其他各种类型的区块链项目层出不穷，他们有着更先进的技术，更高的 TPS，更复杂多样的生态。相比而言，在功能性上，比特币的区块链网络主要功能是价值转移的实现，就是把一定数量的 BTC 从一个地址转移到另一个地址。\n\n\n最近，Ordinals协议的发布，使得人们在比特币的链上创建 NFT 成为可能。那么 Ordinals 是什么原理，为什么它可以在比特币这个\"古老\"的链上创建 NFT？比特币链上的 NFT 有没有参与价值以及如何参与？我们今天就来深入了解一下。\n\n\n （图：截止到 3 月 15 日已经生成了 463K 的 BTC Inscriptions）\n\n\nSection1 历史渊源\n\n\n1.1 BTC 网络发展历程\n\n\n比特币 (Bitcoin) 是全球首个被广泛接受和使用的加密货币，在经历了十多年的发展和演进，如今已成为领先的全球性开放式去中心化数字货币。比特币的成功主要归功于其独特的区块链技术，这是一种基于去中心化网络的主要创新，使它成为了一个没有中央管理者或机构控制的数字货币。\n\n\n1. 起源\n\n\n比特币 (Bitcoin) 的起源可以追溯到 2008 年，由一位或一组名为\"中本聪\"的神秘人物提出并实现。中本聪在一篇名为《比特币：一种点对点电子现金系统》(Bitcoin: A Peer-to-Peer Electronic Cash System) 的白皮书中介绍了比特币的基本思想…",
+          "link": "https://www.theblockbeats.info/news/35749",
+          "publishedOn": "2023-03-20T03:32:43.000Z",
+          "wordCount": null,
+          "title": "万字雄文解读Bitcoin Ordinals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35748",
+          "author": null,
+          "description": "撰文：Cookie，律动 BlockBeats\n\n\n\n在 ETH NFT 行情趋冷的市场环境下，越来越多的玩家把目光转移到了比特币 NFT 市场。虽然比特币 NFT 市场的热度持续上升，但很多玩家依然在比特币 NFT 世界的大门外徘徊。除了基建不完善导致操作的学习门槛较高，对比特币 NFT 市场当前的项目趋势感到陌生也是问题之一。\n\n\n\n\n\n\n\n律动 BlockBeats 将在本文为您梳理目前比特币 NFT 项目的主要类别。比特币 NFT 玩家们都在玩什么？让我们一起来看看。\n\n\nBRC-20 Token\n\n\n\n\n\n\n在「在比特币网络上发 Token？一文了解如何铸造 BRC-20」一文中，笔者已经对 BRC-20 Token 做过比较详细的介绍。简单来说，目前的 BRC-20 Token 依然可以理解为「炒 NFT」，因为转账相关的基建尚未完善，大部分的场外交易是通过 OTC 直接出售具有「有效的 Mint 铭文 (NFT)」的钱包私钥来完成的。\n\n\n\n\n\n\n同时，绝大部分的场外交易也都是 $ordi 的交易，因为 $ordi 是第一个被成功部署的 BRC-20 Token。目前，$ordi 在场外的交易价格已经从 1000 $ordi = 10u 上涨到了 1000 $ordi = 50~60u。\n\n\n\n\n\n\nBRC-20 Token 交易相关的基建在近期没有特别大的进展，但是已经有了一些统计索引的网站出现，比如「brc-20.io」。通过该网站，我们可以快速检索目标地址下有多少 BRC-20 Token 余额，也可以查看所有已经被成功部署的 BRC-20 Token 的种类及其可供 Mint 的余量。\n\n\n\n\n\n\n\n\n\n\n\nbrc-20.io\n\n\n.sats 域名\n\n\n\n\n\n\n如果您是一名刚接触比特币 NFT 的玩家，Mint 一个属于自己的 .sats 域名作为开始…",
+          "link": "https://www.theblockbeats.info/news/35748",
+          "publishedOn": "2023-03-20T03:17:32.000Z",
+          "wordCount": null,
+          "title": "发Token、买域名，比特币NFT生态都在玩什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35747",
+          "author": null,
+          "description": "原文标题：《\n\n美联储的 3000 亿美元应急措施，是否足以阻止危机？  》\n原文作者：Joseph Politano\n原文编译：Block unicorn\n\n\n在硅谷银行倒闭后，美联储向银行借出了 3000 亿美元的紧急资金，这是否足够？\n\n\n自 2020 年以来，美联储首次紧急为美国银行体系提供支持。在上周硅谷银行和 Signature Bank 倒闭后，几家主要的地区性银行正在苦苦挣扎，而这些破产机构的不良资产仍由联邦存款保险公司 (FDIC) 管理。美联储承诺在整个危机期间保护银行和金融系统，并以强有力的实际行动来支持这些承诺——支持联邦存款保险公司 (FDIC)，上周末开放了一项新的银行贷款安排，放宽了银行紧急信贷额度的条件，并承诺向任何陷入困境的储蓄机构提供流动性。\n\n\n截至周三，他们还为美国银行提供了 3000 多亿美元的新贷款，这是 2020 年初疫情最严重时创造的直接信贷的两倍多。到目前为止，这已经有效地遏制了危机——自从联邦存款保险公司、美联储和财政部联合起来应对危机以来，一周内没有更多的银行倒闭——但许多银行机构仍然处于风险之中。那么，美联储的 3000 亿美元应急反应——以及他们制定的一系列新政策——是否足以阻止危机?\n\n\n分解美联储的紧急贷款\n\n\n\n\n\n截至周三，美联储已经向银行系统提供了超过 3000 亿美元的有担保直接贷款——比全球金融危机以来的任何时候都多——以遏制硅谷银行 (SVB) 和签名银行倒闭的影响。超过 119 亿美元的贷款来自银行定期融资计划 (BTFP)，这是一项新设立的工具，允许银行以票面价格抵押政府支持的证券，以换取最多一年的贷款。\n\n\n然而，美联储的大部分贷款 ( 2950 亿美元 ) 来自贴现窗口，这是美联储历史上为向银行提供紧急流动性而保留的抵押直接贷款工具。美联储为 SVB 和 Signature Bank 向 FD…",
+          "link": "https://www.theblockbeats.info/news/35747",
+          "publishedOn": "2023-03-20T02:55:03.000Z",
+          "wordCount": null,
+          "title": "美联储的3000亿美元应急措施，是否足以阻止危机？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35744",
           "author": null,
           "description": "原文作者：Tendeeno（ DefiLlama社区贡献者，\n\nLlamaX 核心贡献者）\n原文编译：Moni，Odaily \n\n\n\n\n\n3 月 19 日，链上分析平台 DefiLlama 创始人 0x ngmi 宣布其团队因为是否发行 Token 而发生分裂，目前已推出分叉版本网站 Llama.Fi。LlamaX 项目核心贡献者 @Tendeeno 在社交媒体以相对公正的方式对 DeFiLlama 发生的事情进行了总结。\n\n\n以下为原文\n\n\n事实上，加密社区应该都知道 DefiLlama 并不是唯一的 llama 项目，还有 llamanodes、llamanews 和 llamafolio 等，这些项目都是完全独立运作。但是相比之下，DeFiLlama (DL) 所取得的成功可以说是其他任何项目的 100 倍（当然，其他项目也拥有非常有才华的团队，也相信他们肯定会获得成功），现在 DefiLlama 的价值已几乎占到「LlamaCorp」所有项目价值的 95% 以上。\n\n\nDefiLlama 由 0x LLam 4 发起，0x ngmi 帮助构建，很快 0x ngmi 就接管了该项目的所有工作，毫不夸张地说，对于 DefiLlama 如今的成功，0x ngmi 至少承担了 90% 的责任，他不仅领导 DefiLlama 团队，同时也是 DefiLlama 的大股东。\n\n\n然而目前的问题是：DefiLlama 迄今为止没有产生任何利润，这也是整个团队正在研究的东西...... 但另一位联合创始人 (0x LLam 4 ) 觉得等不下去了，于是给出了一个可以快速盈利的解决方案：推出 DL Token。\n\n\n可是以 0x ngmi 为首的团队一直反对发行 Token，他们觉得从根本上说，Token 没有价值，因为 DefiLlama 不是协议，Token 不能合法地成为一种股权形式。不仅如此，一旦 Token 价格下降，人们的注意力就不会放在 DefiLlama 平台上，而是仅仅盯着价格数字。\n\n\nDefiLlama 联合创始人 0x LLam 4  并没有接受 0x ngmi 的解释，仍然坚持表示无论是否获得 DefiLlama 团队的批准都会推出 Token。在 0x ngmi 看来，这种行为无疑是一种对 DefiLlama 的「恶意收购」……因为他并不希望将该项目的价值和声誉被包含在 Token 中。\n\n\n虽然受没有团队的批准 Token 有可能不会启动，但让 0x ngmi 没有想到的是，「DL」已经启动并且已经编写代码来支持它了（DefiLlama 联合创始人 0x LLam 4  没有告诉任何人）。0x ngmi 认为，如果 Token 被发行，就真的没有回头路了，这将永远玷污 DefiLlama 的声誉，并扼杀他们多年来辛勤打造的一切。\n\n\n真正的问题是，这位联合创始人已控制 DefiLlama 的官方推特和域名，这意味着他们可以随时宣布发行 Token。从本质上来说，DefiLlama 的开发团队已经被当做「人质」给绑架了，所以 DefiLlama 团队决定：\n\n\n如果 DL 发行不可避免，唯一的方法就是用一个新名称来分叉 DefiLlama 并创建一个新的推特和域名。\n\n\n而这，就是为什么你会看到 DeFiLlama 团队宣布他们正在将项目分叉到 Llama.fi 的原因。\n\n\n在接下来的几天里，加密社区可能会看到 llamacorp 公司中不同贡献者和员工会就谁对谁错的问题来回交锋。坦率地说，对于所有涉及人员来说，走到这一步都很糟糕。需要说明的是，DefiLlama 团队目前仍在努力寻找解决方案，最好的情况是，这是团队之间一场巨大的误会，事情最终可以友好解决。\n\n\n注：@Tendeeno 已特别澄清自己只是一个无偿的社区贡献者，不在任何官方团队中，只是喜欢 DefiLlama 并希望看到它们成功。  \n\n\n原文链接",
@@ -53,16 +83,6 @@
           "publishedOn": "2023-03-18T01:30:01.000Z",
           "wordCount": null,
           "title": "Vitalik最新观点：如何为多签钱包和社交恢复钱包选择守护者？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35717",
-          "author": null,
-          "description": "原文标题：《\n\n美国银行业「震后」，各领域 Dapps 受何影响？\n\n》\n原文作者：Sara Gherghelas， Dappradar\n原文编译：Katie 辜，Odaily 星球日报\n\n\n上周末，市场因美国银行界可能发生的系统性危机而受到冲击。\n\n\n伴随硅谷银行（SVB）正式破产，其客户之一 Circle 的 USDC 部分质押品存在损失可能，随之 USDC 脱钩。这种现象令人想起了 2022 年的加密黑天鹅事件，如 Terra Luna 的崩溃，三箭资本和 FTX 的垮台。随着金融监管机构对 SVB 的债务作出回应以及 Circle 的积极运营，USDC 价格现已回锚。尽管如此，USDC 的波动仍在市场上引起了广泛的恐慌和不确定性。\n\n\n稳定币们表现如何？\n\n\nDapp 和加密行业的震动与宏观经济事件高度相关。\n\n\n美国加密公司 Circle 是第二大稳定币 USDC 背后的公司，是受 SVB 下跌影响最大的公司之一。3 月 11 日，在该公司透露其 400 亿美元储备中有近 8% （即 33 亿美元）在硅谷银行后，该稳定币失去了与美元的挂钩，并创下历史新低。\n\n\n\n\n\n由于 USDC 与美元脱钩，恐慌蔓延到整个加密社区，USDC 价格跌至 0.8789 美元的低点。截至当日收盘，USDC 供应涉及 19 亿美元的净流出，一夜之间从 3 月 10 日的 427.4 亿美元跌至 3 月 11 日的 408.4 亿美元，降幅 4.4% 。\n\n\n美国监管机构于 3 月 12 日介入，为受 SVB 破产影响的储户和金融机构提供支持。尽管这一消息导致 USDC 重新挂钩，但稳定币的供应量和市值仍下降了 9.1% 。美元供应量净流出为 39.3 亿美元，从 3 月 10 日初的 434.3 亿美元跌至 3 月 13 日底的 395 亿美元。\n\n\n尽管如此，稳定币 TrueUSD（…",
-          "link": "https://www.theblockbeats.info/news/35717",
-          "publishedOn": "2023-03-17T14:00:02.000Z",
-          "wordCount": null,
-          "title": "美国银行业「震后」，各领域Dapps受何影响？",
           "imageUrl": null
         }
       ]
