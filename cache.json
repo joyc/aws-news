@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35793",
+          "author": null,
+          "description": "原文来源：Ebunker\n\n\n\n\n\n通缩模型提供价格支撑  \n\n\n\n\n\n自合并以来，ETH 总供应量已经减少 66000 多枚，当前供应量为 1.204 亿枚，年通胀率为-0.109%。  \n\n\n\n\n\n近期对 ETH 销毁贡献最大的应用包括 Uniswap、Tether 和最近被炒作的 Blur Airdrop 和 Arbitrum，引发了以太坊网络活动的激增。  \n\n\n\n\n\n按照当前速度，到 2025 年，ETH 供应量预计将降到 1.181 亿。总体而言，只要以太坊网络在 Defi 和 NFT 生态系统保持主导地位，以太坊通缩的经济模型将会持续为 ETH 价格提供强大的支撑。  \n\n\n测试网预演「上海升级」  \n\n\n\n\n\n目前，约有 1761 万枚 ETH 参与了以太坊 PoS 质押（占目前 ETH 总流通量的 14.67％），活跃的验证者超过了 55 万个。\n\n\n为了使「上海升级」顺利完成，近期，拥有最多的验证器且最紧密地模仿了以太坊区块链的 Goerli 测试网模拟了「上海升级」，以便开发人员可以在部署升级之前修补潜在的漏洞。根据多个以太坊核心开发人员的说法，某些运行较旧版本的客户端的验证器引起了短暂的延迟。但是，这些验证器迅速加入，从而使测试网成功执行了升级。\n\n\n\n\n\n根据以太坊核心开发人员透露的最新消息，以太坊网络将在 4 月 12 日完成「上海升级」，届时以太坊网络将通过 Capella 对信标链共识层进行升级，引入与验证提取器相关的功能，允许质押者提取锁定的 ETH。\n\n\n为了使「上海升级」平稳进行，以太坊基金会引入了可以防止 ETH 供应在短期内大量泛滥到市场的机制：这和当前的抵押规模有关，每天允许的撤回数量约 5.76 万枚 ETH，仅占 ETH 质押总量约 0.3~0.4％，因此被提取出来的 ETH 在短时间造成的抛压相对可以预判。验证者选择退出质押…",
+          "link": "https://www.theblockbeats.info/news/35793",
+          "publishedOn": "2023-03-20T15:21:41.000Z",
+          "wordCount": null,
+          "title": "数据解析：以太坊能否平稳迎接4月12日的「上海升级」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35783",
+          "author": null,
+          "description": "原文标题：《\n\n空投带火生态：盘点最近上涨的 30 个 Arbitrum 项目\n\n》\n原文作者 ：Korpi，白泽研究院\n\n\nArbitrum 最近火了！\n\n\n凭借着价值 >10 亿美元的 $ARB 空投，大量资金将涌入其生态系统项目，使得流动性「水涨船高」。\n\n\n本文将盘点 30 个基于 Arbitrum 的创新项目。\n\n\nGMX（$GMX）\n\n\n\n\n\nGMX 是一个去中心化的永续合约交易平台，允许用户以高达 50 倍的杠杆交易 BTC、ETH 和其他加密货币，并且没有价格影响。GMX 的采用令人难以置信，总交易量已超过 1100 亿美元，总手续费用约为 1.7 亿美元。\n\n\n当前市值：6.96 亿美元\n\n\nGains Network Analysis（$GNS）\n\n\n\n\n\nGains Network 是一个去中心化的永续合约交易平台，提供加密货币、外汇、股票、商品和指数的杠杆交易。凭借 320 亿美元的总交易量和 2300 万美元的总手续费用，它已被证明是一款适合市场的产品。\n\n\n当前市值：2.84 亿美元\n\n\nTreasureDAO（$Magic）\n\n\n\n\n\nTreasureDAO 是一个旨在连接游戏和玩家的去中心化游戏生态系统。通过引导社区和流动性，它在为 GameFi 项目提供互操作性方面做的相当成功。\n\n\n当前市值：3.73 亿美元\n\n\nDopex（$DPX）\n\n\n\n\n\nDopex 是一个去中心化的期权协议，通过「期权金库」的概念，提供期权交易。旨在通过提供公平的价格、深度的流动性和将期权卖方的损失最小化来争夺期权市场份额。\n\n\n当前市值：8600 万美元\n\n\nRadiant Capital（$RDNT）\n\n\n\n\n\nRadiant Capital 是一个具有全链流动性的借贷协议。这意味着你可以在一条链上存入资产，同时在另一条链上借贷。随着跨链的扩展、引入新资产和…",
+          "link": "https://www.theblockbeats.info/news/35783",
+          "publishedOn": "2023-03-20T14:27:44.000Z",
+          "wordCount": null,
+          "title": "空投带火生态：盘点最近上涨的30个Arbitrum项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35776",
+          "author": null,
+          "description": "本文整理了香港区块链盛会活动日程，目前周边活动共75场，其中3月共14场。",
+          "link": "https://www.theblockbeats.info/news/35776",
+          "publishedOn": "2023-03-20T14:00:01.000Z",
+          "wordCount": null,
+          "title": "Hong Kong Web3 Festival 2023周边活动日程一览",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35781",
           "author": null,
           "description": "原文标题：《\n\n「DeFi 乐土」Arbitrum 终发币，谁能乘风而起？\n\n》\n原文作者：Defi Mochi@defi_mochi\n原文编译：angelilu，Foresight News\n\n\n本周 Arbitrum 的Token ARB 空投即将正式解锁，如果不出意外的话，这将为 Arbitrum 生态注入超过 20 亿美元的附加流动性。\n\n\n我翻遍了 Dune、Flipside 和 DefiLlama 等数据网站，找到了一些极具潜力的 Arbitrum 项目，我认为这些项目有机会借这次空投的「东风」实现十倍乃至百倍的飞跃式增长。\n\n\n\n\n\n截止发文时，Arbitrum 生态的总锁仓价值（TVL）为 17.5 亿美元，ARB 空投的\n\nToken\n\n价值预计在 5 亿美元至 20 亿美元之间。毫无疑问，Arbitrum 上的各类应用都将从这笔流动性注入中受益，为了找到被低估的小市值\n\nToken\n\n，针对不同类型的项目，我们可以关注两个关键指标，对于 DEX 来说，TVL 至关重要，而衍生品类别的应用，重点则应该关注手续费收入（年化）。\n \n\n\n\n附注：请帮助链上数据分析网站 DefiLlama 创始人 0xngmi 使用 Llama.Fi 而不是 DefilLama.com。如果您能向为我们免费工作的羊驼团队表达支持，Mochi 将不胜感激。（Foresight News 注：3 月 19 日 DefiLlama 创始人 0xngmi 发推称，因控制 Defillama 推特账户和域名的人决定发行\n\nToken\n\n，DefiLlama 团队不想与之相关，决定推出分叉版本的新网站 Llama.Fi。）\n\n\nArbitrum 生态蓝筹 DEX\n \n从这张表中可以看出，从流通市值与 TVL 的比值来看，Arbitrum 上最好的蓝筹 DEX 应该是 Camelot，而 SolidLizard 风险较高。\n\n\n\n\n\n我认为 Camelot 的\n\nToken\n\n经济模型设计的很好，因为从规则上看，其\n\nToken\n\n的发行量与销毁量预计能做到 1:1。\n\n来源：@martin100x\nhttps://dune.com/martin100x/camelot-grail-tokenomics\n\n\n\n\n\nArbitrum 生态蓝筹衍生品协议\n \nGMX 仍然是 Arbitrum 生态最好的蓝筹衍生品协议，其流通市值与手续费年化收入的比值高达 4。考虑到 GMX 即将支持合成资产交易，这显然会对币价提供新的利好支持。\n\n\n下表中的费率为过去 30 天的年化手续费收入：\n\n\n\n\n\n我认为 VELA 在 Dune 仪表板上数据的真实性存疑，因此，我决定根据其 APR 计算 VELA 的手续费收入。在 16.25% 的 APR 下，质押 VELA 每年可获得 2,956,753 的费用，假设 15% 归 VELA 所有，按照当前的币价估算，手续费收入约为 1900 万美元。\n\n\n\n\n\n其他协议\n \nRadiant 的\n\nToken\n\n RDNT 和 Y2K Finance 都值得期待，这两个项目的数据见下表，此外 Y2K 在黑天鹅事件（如 Depegs）期间的强势表现证明了其能够成为一个有效投资组合中用于风险对冲的标的。\n\n\n\n\n\n我还特别看好 PlutusDAO，因为它被定位为 Arbitrum 的治理聚合器，我认为 PlutusDAO 要将 plsRDNT 纳入其平台也将是一个利好事件，PlutusDAO 目前已经控制了 JONES-WETH 89% 的流动性，以及 52% 的 DPX \n\nToken\n\n和 45% 的 SPA \n\nToken\n\n。\n\n\n\n来源：https://dune.com/defimochi/plutus-metrics\n\n\n前文我提到的几个项目近期值得关注的利好事件：\n\n\nPlutusDAO，V2 \n\nToken\n\n经济模型、plsRDNT、plsARB（流通市值 /TVL 为 0.49）\n\n\nRadiant Capital，3 月 19 日上线了 V2 版本\n\n\nVesta Finance，即将到来的 Vesta lev+（流通市值 /TVL 为 0.35）\n\n\nGMX，将上线合成资产\n\n\n原文链接",
@@ -133,26 +163,6 @@
           "publishedOn": "2023-03-19T03:26:34.000Z",
           "wordCount": null,
           "title": "后「上海升级」时代，我们需要关注什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35737",
-          "author": null,
-          "description": "金融系统急需现代化，而Crypto是能够帮助实现这一目标的技术之一，希望美国能在Crypto方面建立规范和法律。",
-          "link": "https://www.theblockbeats.info/news/35737",
-          "publishedOn": "2023-03-18T04:50:13.000Z",
-          "wordCount": null,
-          "title": "Coinbase CEO：谈谈加密当前面临的一些监管挑战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35729",
-          "author": null,
-          "description": "安全使用多签名钱包和社交恢复钱包的两个关键问题是：你选择谁作为守护者，以及你给他们什么指示？",
-          "link": "https://www.theblockbeats.info/news/35729",
-          "publishedOn": "2023-03-18T01:30:01.000Z",
-          "wordCount": null,
-          "title": "Vitalik最新观点：如何为多签钱包和社交恢复钱包选择守护者？",
           "imageUrl": null
         }
       ]
