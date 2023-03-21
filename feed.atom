@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-21T06:09:39.709Z</updated>
+    <updated>2023-03-21T12:12:50.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arbiturm之后，下一个天王项目的Zksync交互教程]]></title>
+        <id>https://www.theblockbeats.info/news/35803</id>
+        <link href="https://www.theblockbeats.info/news/35803"/>
+        <updated>2023-03-21T09:50:49.000Z</updated>
+        <summary type="html"><![CDATA[错过了Arbitrum，不要错过这次ZkSync的机会 (主网+测试网)]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年第13周融资精选，比特币生态DEX获250万美元战略融资]]></title>
+        <id>https://www.theblockbeats.info/news/35802</id>
+        <link href="https://www.theblockbeats.info/news/35802"/>
+        <updated>2023-03-21T08:35:11.000Z</updated>
+        <summary type="html"><![CDATA[上周融资总数为 18 笔，总金额约 6540 万美元，平均融资金额约为 934 万美元。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarkNet主网保姆级交互教程]]></title>
+        <id>https://www.theblockbeats.info/news/35800</id>
+        <link href="https://www.theblockbeats.info/news/35800"/>
+        <updated>2023-03-21T08:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Starknet一直有传出可能快照了的消息，做了不一定有但是不做一定没有。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankr与Pendle达成合作，以共同推进DeFi发展]]></title>
+        <id>https://www.theblockbeats.info/news/35801</id>
+        <link href="https://www.theblockbeats.info/news/35801"/>
+        <updated>2023-03-21T08:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Ankr和Pendle的合作为用户提供了获得更高资产收益率机会。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究19个EIP后，总结了NFT未来的9个方向]]></title>
+        <id>https://www.theblockbeats.info/news/35798</id>
+        <link href="https://www.theblockbeats.info/news/35798"/>
+        <updated>2023-03-21T07:30:01.000Z</updated>
+        <summary type="html"><![CDATA[我们可以想象，随着NFT成为一个主权链上实体，任何人都可以自由地建立NFT的知识产权。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何提前Approve ARB合约，快人一步？]]></title>
+        <id>https://www.theblockbeats.info/news/35799</id>
+        <link href="https://www.theblockbeats.info/news/35799"/>
+        <updated>2023-03-21T07:29:41.000Z</updated>
+        <summary type="html"><![CDATA[ARB空投要来了，你准备好了吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球顶尖300家Crypto VC分析：总管理资本839亿美元；已开始为牛市做准备]]></title>
+        <id>https://www.theblockbeats.info/news/35797</id>
+        <link href="https://www.theblockbeats.info/news/35797"/>
+        <updated>2023-03-21T06:44:42.000Z</updated>
+        <summary type="html"><![CDATA[最聪明的风险投资公司正在押注现在，Web3、GameFi、DeFi、基础设施和DLT更受青睐。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海升级下LSD生态详解与前瞻：监管、投资、赛道机会]]></title>
+        <id>https://www.theblockbeats.info/news/35796</id>
+        <link href="https://www.theblockbeats.info/news/35796"/>
+        <updated>2023-03-21T05:30:01.000Z</updated>
+        <summary type="html"><![CDATA[LSD应用层可能会出现另外一个DeFi Summer这种级别的物种大爆发。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第13周链上数据分析：多头清算压力上升，市场整体情绪中性偏谨慎]]></title>
         <id>https://www.theblockbeats.info/news/35795</id>
