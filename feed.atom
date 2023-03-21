@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-21T12:12:50.135Z</updated>
+    <updated>2023-03-21T18:09:30.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum空投后的估值分析，能持有吗？]]></title>
+        <id>https://www.theblockbeats.info/news/35804</id>
+        <link href="https://www.theblockbeats.info/news/35804"/>
+        <updated>2023-03-21T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[除了总Token分配，初始供应分配的比较也有助于衡量初始抛压。ARB的初始供应在较高水平，类似于UNI。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mauve：Coinbase投资的合规DEX]]></title>
+        <id>https://www.theblockbeats.info/news/35807</id>
+        <link href="https://www.theblockbeats.info/news/35807"/>
+        <updated>2023-03-21T10:52:30.000Z</updated>
+        <summary type="html"><![CDATA[以KYC为前提并力求完全合规，Mauve还能被算作DeFi吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbiturm之后，下一个天王项目的Zksync交互教程]]></title>
         <id>https://www.theblockbeats.info/news/35803</id>
@@ -739,16 +759,6 @@ DefiLlama 联合创始人 0x LLam 4  并没有接受 0x ngmi 的解释，�
         <link href="https://www.theblockbeats.info/news/35743"/>
         <updated>2023-03-19T08:01:52.000Z</updated>
         <summary type="html"><![CDATA[重温本周热点：2023 年第 12 周融资精选，多个稳定币项目获得融资；审计六次仍被盗走 2 亿美金，Euler 乐高的连锁反应有多大？Arbitrum 如何排查和确认女巫地址？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后「上海升级」时代，我们需要关注什么？]]></title>
-        <id>https://www.theblockbeats.info/news/35738</id>
-        <link href="https://www.theblockbeats.info/news/35738"/>
-        <updated>2023-03-19T03:26:34.000Z</updated>
-        <summary type="html"><![CDATA[一旦用户能够重新选择质押协议，新一轮的以太坊质押又开始重新洗牌。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
