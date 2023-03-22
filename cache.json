@@ -6,6 +6,86 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35870",
+          "author": null,
+          "description": "撰文：Cookie，律动 BlockBeats\n\n\n\n\n\n\n一个多月前，想要探索比特币 NFT 世界，需要下载安装 Bitcoin Core，花费可能数日的时间等待同步比特币诞生至今的所有区块数据，再通过命令行安装 Ord Wallet... 搞定以上问题后，还要学习怎么用 Sparrow 管理 UTXO 防止比特币 NFT 被转丢...\n\n\n\n\n\n\n头大，实在难顶。\n\n\n\n\n\n\n\n\n但是也就仅仅过去了这么一个多月，比特币 NFT 相关基建快速发展。现在，想要交易比特币 NFT，已经不再如此硬核，主流比特币 NFT 交易市场都已经采用「PSBT」技术实现了「无需信任」的交易。（「PSBT」技术详解：「Ordinals 创始人怒驳 Yuga Labs 拍卖，为什么 PSBT 才是比特币 NFT 交易的正解？」）区别只在于有的市场（Ordinals Wallet/Ordswap）通过内置钱包来提供「一站式服务」体验，有的（Gamma/Magic Eden/Openordex）需要安装 Xverse/Hiro Wallet/UniSat 等外置浏览器钱包插件来完成签名。\n\n\n\n\n\n\n接下来我们以 Ordinals Wallet 和 Magic Eden 为例来演示一下比特币 NFT 的交易。\n\n\nOrdinals Wallet\n\n\n\n\n\n\nOrdinals Wallet 是没有浏览器插件的，属于「网站内置钱包」。进入官网后，点击「Create Wallet」：\n\n\n\n\n\n\n\n\n\n\n\n\n\n点击后将跳转至下图页面，点击「Create New Wallet」来生成钱包：\n\n\n\n\n\n\n\n\n\n\n\n\n\n「Password」框内输入新密码，「Confirm Password」框内再次输入设定的新密码确认，然后点击「Generate seed pharse」：\n\n\n\n\n\n\n\n\n\n\n\n\n\n将生成好…",
+          "link": "https://www.theblockbeats.info/news/35870",
+          "publishedOn": "2023-03-22T11:08:25.000Z",
+          "wordCount": null,
+          "title": "我们试着在比特币上交易NFT，体验离OpenSea差多少？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35869",
+          "author": null,
+          "description": "2023 年 3 月 22 日，在美联储加息整整一周年之际，美联储即将公布最新的货币政策，鉴于银行业因为加息导致暴雷的影响尚未完全解决，市场开始倾向于美联储政策转向，重新开始放水。当然目前看起来，降息是小概率事件。\n\n\n\n\n除了美股和大宗商品，美联储的货币政策对比特币的影响有目共睹。BlockBeats 整理了过去一年加息决议时点对应的比特币涨跌情况，供投资者参考。\n\n\n\n\n2022 年 3 月 17 日，美联储加息 25 个基点，比特币 1 小时内应声下跌 1.12%，但随后又重新稳稳站上 4 万美元大关。\n\n\n\n\n\n2022 年 5 月 5 日，美联储加息 50 个基点，比特币 1 小时内逆势上涨 1.54%。但不到一天内，比特币小时级别开始直线下坠超 6%。\n\n\n\n\n\n2022 年 6 月 16 日，美联储继续加息 50 个基点，比特币 1 小时内逆势上涨 2.1%，涨势一度持续至中午。随后，比特币终于开启加速下跌趋势，彻底跌破 2 万美元大关。\n\n\n\n\n\n2022 年 7 月 28 日，美联储首次加息 75 个基点，这次大幅度加息反而刺激比特币 1 小时内上涨 4.42%，并在随后走出一波小行情，最高一度涨超 25200 美元。\n\n\n\n\n\n2022 年 9 月 22 日，美联储继续加息 75 个基点，比特币虽然 1 小时内下跌只有 0.55%，但却出现上下插针的情况（1 小时内振幅超 5%）。随后比特币直线下坠，一度跌至 18400 美元。\n\n\n\n\n\n2022 年 11 月 3 日，美联储第三次加息 75 个基点，比特币似乎复制了 9 月行情，1 小时内仅仅下跌 0.09%，同时宽幅震荡后迎来小幅回落。\n\n\n\n\n\n2022 年 12 月 15 日，美联储加息 50 个基点，年关因素与加息叠加影响，比特币下跌 2.31%，并在随后持续下跌。\n\n\n\n\n\n2023 年 2 月 2 日，美联储加息 25 个基点，或受加息节奏放缓以及开年以来逐步回暖的市场情绪影响，比特币 1 小时内上涨 1.35%。",
+          "link": "https://www.theblockbeats.info/news/35869",
+          "publishedOn": "2023-03-22T10:53:11.000Z",
+          "wordCount": null,
+          "title": "美联储加息一周年，历次加息比特币表现如何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35867",
+          "author": null,
+          "description": "原文标题：《\n\n梳理三大 ZK 系 Layer2 交互策略\n\n》\n原文作者：Azuma，Odaily星球日报\n\n\n受 Arbitrum 「撒钱」刺激，业界的空投热情再次被点燃，而 ZK Rollup 系 Layer 2 们则成为了所有羊毛党们关注的焦点。\n\n\n作为以太坊扩容的普遍共识，采用 Rollup 解决方案的 Layer 2 们凭借着极高的估值以及较为确定的发币预期，一直以来都被空投圈子视为优先级最高的选择，而伴随着 Optimistic Rollup 系两大代表选手 Optimism 和 Arbitrum 先后发币，羊毛党们自然就把视线转移到了相对更早期的 ZK Rollup 之上。\n\n\n\n\n\n根据 gm 365 在 Dune Analytics 上所编制的数据，过去几天桥接至 zkSync 及 StarkNet 等两大代表性 ZK Rollup 的资金量均出现了激增。此外，zkSync Lite 上的主要交易平台 ZigZag 也表示其单日交易量一度增长至近 10 万笔，链上活动明显增多。\n\n\n\n\n\n虽然 ZK Rollup 已经卷到了一个新高度，关于具体项目已然快照的流言也已多次传出。但鉴于 ZK Rollup 仍是接下来很长一段时间内最具想象力的赛道，且 Arbitrum 的空投案例（二月快照）也再次证明了在正式官宣之前什么时候动手交互都不算晚，因此我们认为仍有必要对 ZK Rollup 的空投机会进行一次整理。\n\n\n接下来，我们将依次梳理 zkSync、StarkNet、Scroll 等三大主流 ZK Rollup 项目的开发进展、发币预期、交互策略。之所以排除了 Polygon zkEVM、Immutable zkEVM、ConsenSys zkEVM、Taiko 等其他几个主流项目，是因为 Polygon 和 Immutable 均已发行Token，而 …",
+          "link": "https://www.theblockbeats.info/news/35867",
+          "publishedOn": "2023-03-22T10:23:38.000Z",
+          "wordCount": null,
+          "title": "梳理三大ZK系Layer2交互策略：zkSync、StarkNet及Scroll",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35853",
+          "author": null,
+          "description": "原文标题：《Arbitrum 原生Token ARB 空投发放在即，如何为其估值？》\n原文作者：Decrypt Nivesh Rustgi\n原文编译： PANews\n\n\n3 月 16 日，Arbitrum 基金会宣布原生Token ARB 将于 3 月 23 日空投给符合条件的社区成员钱包。随着Token空投时间临近，如何评估 ARB Token的价值也成为了社区关注的重点。\n\n\n\n分析师认为，由于 Optimism 和 Arbitrum 都有相似的 Layer2 网络技术堆栈（Optimism 使用 OptimisticRollups，并于 2022 年 4 月推出了原生Token），所以可以基于 Optimism 原生Token OP 估值作为参考。\n\n\n  估算 ARB 价格\n\n\n1、Token流通供应量估值\n\n\n根据 Coingecko 数据显示，截至 3 月 20 日 Optimism 市值约为 8.39 亿美元，OP Token定价约为 2.63 美元，流通供应量为 3.148 亿美元。相比之下，本周四空投完成后将会有 12.75 亿枚 ARB Token流入市场，由于 ARB Token总供应量为 100 亿枚，意味着市场流通量约占总供应量的 12.75%。\n\n\nToken流通供应量市值有多少枚Token会在市场上交易，不包括锁定分配的Token，而Token市值则是将Token价格乘以流通供应量来计算得出的。如果 ARB Token估值与 OP Token相似，可以将当前 OP Token市值（约 8.39 亿枚）除以 ARB Token流通供应量（12.75 亿枚），继而得出 ARB 的潜在价格约为 0.65 美元。\n\n\n2、完全摊薄估值\n\n\n除了按照Token流通供应量进行估算之外，还有另一种完全摊薄估值 (FDV) 方式。还是以 Optimism 为例，当前 OP Token总供应量约为 42.9 亿枚，OP Token完全摊薄估值约为 114.5 亿美元（基于Token总供应量的估值）。\n\n\nToken完全摊薄估值是将Token市场价格乘以总供应量来计算得出，由于这种方式考虑到未来某个日期解锁的Token，因此这种估值方式比基于流通供应量估算市值更具前瞻性。如果 ARB Token的完全摊薄估值方式与 Optimism 相似，那么估算出来的 ARB Token价格大概在 1.15 美元左右——用 OP Token的完全摊薄价值（114.5 亿美元）除以 ARB Token的总供应量（100 亿枚）得出。\n\n\n二层协议的 DeFi 锁仓量\n\n\n鉴于 Arbitrum 将会在 DeFi 领域发挥重要作用，使用总锁仓量（TotalValueLocked）也可以提供更多信息，锁仓量Token DeFi 协议网络中存入的资金总量，是一个评估 DeFi 生态系统流动性的指标。\n\n\n根据 DeFiLlama 数据显示，Arbitrum 是锁仓量第四大的链，当前约为 17.7 亿美元。其他区块链锁仓量方面，以太坊以 291 亿美元的规模排名第一，Tron 和 BSC 分别以 53 亿美元和 47.9 亿美元位列第二和第三位，Optimism 锁仓量约为 9.824 亿美元。\n\n\n\n\n\n基于锁仓量，我们可以通过一个名为「TVL 比率」的指标对 ARB Token进行估值，TVL 比率是通过将锁仓量除以两个项目（比如 Arbitrum 和 Optimism）进行计算，以衡量两个生态系统中的流动性相对强度。\n\n\n按照计算规则，Arbitrum 和 Optimism 的「TVL 比率」值为 1.8（17.7/9.8），如果将这个数字乘以上述基于流通量估值和完全摊薄估值得出的Token价格，可以分别得出 ARB Token估值约为 1.16 美元和 2.07 美元。\n\n\nARB 空投，能让你赚到多少？\n\n\n总体而言，根据上述估值分析，ARB Token的交易价格很可能在 0.64 美元到 2.07 美元，大多数早期 Arbitrum 用户将会分配到 625 枚 ARB Token，相当于他们可以获得的空投 ARB Token价值约在 400 美元到 1,250 美元之间。\n\n\n\n\n\n此外，部分 Arbitrum 用户可以获得的 ARB Token最高空投数量是 10,250 枚，这意味着大约 4,400 个钱包可以接收到价值在 6,500 美元到 20,600 美元之间的 ARB Token。\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/35853",
+          "publishedOn": "2023-03-22T09:17:34.000Z",
+          "wordCount": null,
+          "title": "Arbitrum空投发放在即，如何为ARB估值？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35852",
+          "author": null,
+          "description": "原文标题：《\n\nArbitrum Nova 新手指南（附主要生态项目列表）\n\n》\n原文来源：Bankless\n原文编译：Katie 辜，Odaily 星球日报\n\n\n随着 ARB 空投在即，人们开始对 Arbitrum 生态系统密切关注。今天，我们来看看 Arbitrum 的一个主要产品——专注于游戏和社交的 Arbitrum Nova 链。\n\n\n很多人听过 Arbitrum One，但 Arbitrum Nova 的解读不多。这个衍生 L2 的目的是简化包含大量交易的 Web3 游戏和社交应用程序。本文我们将带新人们感受一下 Arbitrum Nova。\n\n\n上周，Arbitrum 正式发布了期待已久的治理代币 ARB，该代币将于 3 月 23 日上线。值得注意的是，获得空投的资格标准之一是在 Arbitrum Nova 上进行了一些交易。\n\n\n\n\n\nARB 将用于管理 Arbitrum 生态系统，包括 Arbitrum One 和 Arbitrum Nova 以及其他 Arbitrum 链。考虑到 Arbitrrum 生态系统才刚刚开始发展，因此其 multi-rollup 核心的第一个基石——Arbitrum Nova 将蓬勃发展，并催生大量的机会。\n\n\n什么是 Arbitrum Nova？\n\n\n2022 年 6 月，Arbitrum 推出了 Arbitrum Nova，这是一款基于其 AnyTrust 技术的新的 L2 rollup，该技术针对超低成本交易和强大的安全保障进行了优化。自 2022 年 8 月以来，Arbitrrum Nova 专门为促进游戏和社交应用提供服务，而热门的 Arbitrrum One L2 继续广泛支持 DeFi 和 NFT 项目。\n\n\nArbitrum Nova 和 Arbitrum One 之间的关键区别在于如何处理交易数据。虽然 Ar…",
+          "link": "https://www.theblockbeats.info/news/35852",
+          "publishedOn": "2023-03-22T08:42:28.000Z",
+          "wordCount": null,
+          "title": "Arbitrum Nova新手指南（附主要生态项目列表）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35848",
+          "author": null,
+          "description": "错过 ARB 空投，别担心，Crypto 行业永远都有机会，只要有执行力就能获得下一个机会，本文将为大家介绍一个不错的项目——ZetaChain。\n\n\n\n\n\n\nZetaChain 简介\n\n\n\n\nZetaChain 是去中心化的 L1 区块链，内置跨链互操作性，旨在连接所有区块链。近日其官方称，团队将奖励那些积极为该测试网做出贡献的经批准的合格参与者。\n\n\n\n\n目前尚未公布其融资信息，但据观察，Delphi Digital、The Spartan Group、Amber Group 和一些大型 VC 都关注订阅了 ZetaChain 的官方社交媒体，推测这些风投很可能投资了 ZetaChain。\n\n\n\n\n总的来说，ZetaChain 是个目前值得交互的项目。\n\n\n\n\nZetaChain 交互教程\n\n\n\n\n首先进行测试网交互（跨链swap）\n\n\n需要准备一些 Goerli ETH；\n\n\n在小狐狸上添加 Mumbai testnet 网络；\n\n\n申请 MATIC 测试币，需转发推特；\n\n\n\n\n进入 Zeta 网站，点击 Get ZETA，验证和授权推特和连接以太坊账户；\n（BlockBeats 注：推特注册时间需超过一个月）\n\n\n点击获取 ZETA 测试币；\n\n\n\n\n\n如果并未收到 ZETA，还有一种方法是通过其官方 DC Faucet ZETA 进入官方 DC 并验证，点击「zeta-faucet」频道，输入「Zeta faucet drip」加上「钱包地址」，也可以领取到 ZETA 测试币。\n\n\n\n\n接下来进行 Swap，点击进入官网，通过 Cross-Chain Swap，选择从 Goerli 将 ZETA Swap 为 Polygon Mumbai 的 tMATIC，点击钱包确认；\n（BlcokBeats 注：本次跨链 Swap 需要较高的 gETH 作为 Gas）\n\n\n\n\n\n接下来切换网络为 Polygon Mumbai，将部分 tMATIC 跨链 Swap 到 BSC Testnet 的 tBNB（正常需要几分钟）；\n\n\n\n\n\n该流程完成后会获得一定积分，每周可以进行几次，增加账户积分。\n\n\nGALXE 官网\n\n\n\n\n接下来去 GALXE 官网 claim OAT，选择 Available 的 OAT 进行 claim；\n\n\n\n\n\n做到这，还有两个 OAT 无法领取，需要填写谷歌邮箱和以太坊地址，通过完成 quiz 进行 claim，分别是：\n\n\n-ZETA Assimilated 101 OAT quiz，答案：4134124\n\n\n-ZETA Assimilated 201 OAT quiz，答案：3122432\n\n\n通过答题，验证后可以 claim 相应 OAT。\n\n\n\n\n\nZeta Crew 3\n\n\n完成其 Crew 3 任务，进入其 Crew 3，按要求完成任务领取积分。\n\n\n\n\n\n\n\nGuild\n\n\n进入其社群聚合平台 Guild 并验证。\n\n\n\n\n最后\n\n\n\n\n\n\n\n目前看来，ZetaChain 已经确认会给测试网参与者奖励，只需要你动动手指，每周或每个月至少进行一定次数的测试网跨链 swap，保持活跃度和积分上涨，LFG！！！\n\n\n\n参考链接",
+          "link": "https://www.theblockbeats.info/news/35848",
+          "publishedOn": "2023-03-22T07:06:10.000Z",
+          "wordCount": null,
+          "title": "错过Arbitrum空投，可以零撸的ZetaChain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35837",
+          "author": null,
+          "description": "原文来源：Sui World\n\n\n今天凌晨， Sui 开发团队 Mysten Labs 在官方推特上举办了主题为「The Wave to Mainnet」的 Twitter Space ，两位联合创始人 Evan Cheng 和 Adeniyi 参与此次 Twitter Space，解答大家对 SUI Network 的问题。\n\n\n以下为常见问题的快问快答\n\n\nQ：什么是 Wave to Mainnet？\n\n\nA： 「The Wave to Mainnet」是一系列教育活动和内容，旨在进一步在主网上线前，让社区了解 SUI Network 的协议的潜力。\n\n\nQ：Sui 主网什么时候上线？\n\n\nA：Sui 主网将于今年 Q2 上线, 更多信息待分享。\n\n\nQ: 如何第一时间获取更多关于 SUI 的消息？\n\n\nA: 所有官方信息都可以在 https://sui.io 上找到，或者是 SUI 的 Discord 群（http://discord.gg/sui）。\n\n\nQ: 会有空投吗？社区该如何获得 SUI Token？\n\n\nA: 目前官方表示没有正式的空投计划, 不过 SUI Network 发布了 SUI Token 社区访问计划以及 SUI Token 的分配细节。\n\n\nSUI Token 社区访问计划\n\n\nSui 社区非常多样化，SUI Foundation 考虑到社区受众对 SUI Token 的渴望，正在开展不同的 SUI Token 分发计划：\n\n\n开发人员资助计划（参考 SUI World 早期文章：SUI 基金会开放 Grant 申请入口，开发者如何获取初始资助？）：为构建原生开源应用程序的团队提供资金；\n\n\nSUI 委托计划（参考 SUIWorld 早期文章：SUI 启动委托计划，社区成员该如何参与 SUI 的验证节点？）：将 SUI Token 委托给社区运行的验证节点，以帮助引导他们的运营网络。\n\n\n大使计划：为社区成员提供工具和资源，以推广 Sui 项目和技术，并与当地社区分享 Sui 知识；\n\n\n大学拓展计划：挖掘未来的开发者，以便在 Sui 的生态系统中培养下一波建设者；\n\n\n教育计划：奖励那些花时间学习和研究 Sui 的人，与更广泛的 Sui 社区分享知识；\n\n\n虽然目前只有开发者资助计划在运作，但其余计划正在积极开展中，并将在短时间内启动。Sui 基金会的目标是在 Sui 主网启动之前让所有这些项目上线。\n\n\nSUI Token 的分配细节 \n\n\n\n\n\nSui 基金会支持并赋能 Sui 生态系统中的建设者和创造者。重要的是，Sui 基金会通过在社区中传播 SUI Token 以实现最佳用途，在带头去中心化工作中发挥着关键作用。初期，由 Sui 基金会管理的社区储备拥有超过一半的 SUI Token，它们将用于各种社区项目：\n\n\n委托计划：基金会将帮助引导社区运行的验证节点，并将通过将其质押权委托给第三方节点来促进网络验证节点权益的公平分配；\n\n\nGrants 分配：基金会将直接向开发人员、社区大使和其他在 Sui 上构建并创建教育材料的参与者分发 Token，以使其更容易加入 Sui；\n\n\n研发：基金会将支持 Sui 协议的进一步发展，确保其能够一直保持优势；\n\n\n验证者补贴：基金会已经拨出大量 Token 来补贴网络早期阶段的 stake 奖励。\n\n\n上面的饼图包含了主网启动时 Sui token 分配的大致描述。然而，Sui Token 分配将会随着网络成熟到去中心化，发生一些根本性的变化。\n\n\n对于已经在传播有关 Sui 的知识、将开发人员引入 Sui 以及测试和帮助改进 Sui 当前应用程序的产品体验的 Sui 朋友，一旦主网启动，基金会将确保您参与 Sui 的 Token 分配。\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/35837",
+          "publishedOn": "2023-03-22T06:26:57.000Z",
+          "wordCount": null,
+          "title": "Sui主网将近，社区如何获得SUI Token？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35836",
+          "author": null,
+          "description": "原文标题：一文读懂以太坊二层项目Arbitrum\n原文作者：火必研究院 Stefanie\n\n\n目录 \n\n\n1. 项目情况介绍  \n  1.1 技术方案及特点  \n\n2. Arbitrum 现状  \n3. 技术升级 \n4. 生态合作  \n5. 热门项目分析  \n  5.1 Defi 类 \n\n  5.2 游戏类  \n\n6. Layer2 未来发展  \n  6.1 Rollup 方案瓶颈与展望 \n\n  6.2 Arbitrum 在 2023 年的持续爆发 \n\n\n\n\n参考资料\n\n\n     1. 项目情况介绍\n\n\n\n\n\n1.1\n技术方案及特点  \n\n\nArbitrum 方案是由 Offchain Labs 提出并创建的，最早是一个纯粹的研究型学术项目，后经过不断优化和改进，逐渐转入实践。该方案也是基于 Optimistic Rollup 的解决方案，通过经济激励的博弈模型维护安全性并通过欺诈证明来维护交易有效性，主要区别在于挑战机制和实现形式。Optimism 只需要排序者和验证者执行一次欺诈证明交互即可判断出结果，而 Arbitrum 认为一次交互可能导致欺诈证明需要包含大量的交易从而超出 gas 限制，并且提出欺诈证明是由于单条指令执行异常导致，无需执行全部的指令。因此，Arbitrum 将欺诈证明分为多轮步骤，只需要证明排序者在执行某条指令时出现异常，即可证明排序者作恶，节省成本。\n\n\n\nArbitrum 的方案与 Optimism Rollup 的主要特点是一致的，我们不再赘述，主要可以关注欺诈证明机制的变化带来的改变。\n\n\n\n1. 多轮欺诈证明交互。\n\nArbitrum 采用多轮欺诈证明验证交易的有效性，降低单次挑战需要消耗的 gas，不必担心 gas 费用超出限制。\n\n\n\n2.对 EVM 的兼容性更强。\n虽然 Optimism 团队的 OVM 对 EVM 兼容，但其实不…",
+          "link": "https://www.theblockbeats.info/news/35836",
+          "publishedOn": "2023-03-22T04:41:01.000Z",
+          "wordCount": null,
+          "title": "一文读懂以太坊二层项目Arbitrum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35835",
           "author": null,
           "description": "主持人：David、Ryan, Bankless\n嘉宾：\n\nJeremy Allaire，Circle CEO \n编译：Kxp, BlockBeats\n\n\n3 月 11 日，受硅谷银行破产等因素影响，稳定币\n\nUSDC 发行商 Circle 面临严重挤兑，USDC 出现持续性脱锚，Circle 迎来其成立以来的最大危机。随后美国多方联手救市，稳住了投资者信心的同时也拯救了已处悬崖边缘的\n\nUSDC 和 Circle。危机过后，Bankless 第一时间采访了 Circle CEO Jeremy Allaire，后者对整个危机进行了复盘，并展望危机后\n\nCircle 的发展策略以及监管政策的未来走向。\n\nBlockBeats 对此次访谈梳理翻译如下：\n\n\n\n\n\nRyan Sean Adams：今天我们很荣幸邀请到了 Circle 公司的首席执行官兼创始人 Jeremy Allaire。Jeremy，我们知道你非常忙碌，所以感谢你抽出宝贵时间与 Crypto 社区分享最新资讯。经历了上周紧张的周末后，你感觉还好吗？目前有什么要与我们分享的情况吗？\n\n\n\n\nJeremy Allaire：\n\n\n这段时间确实非常戏剧化，而且不仅仅局限于上周。一切始于 Silvergate 的破产，如你所知，许多数字资产公司、Crypto 公司以及其他公司都与这家银行有业务往来。关于银行去风险化问题以及银行体系对 Crypto 的影响，大家已经讨论了一段时间。这个话题从今年年初便开始引起关注，目前我们还面临着一些看似突如其来的系统性金融稳定问题，这让人不免开始怀疑监管者在这方面是否存在失职。\n\n\n\n\n上周，我们从 Silvergate 的停业开始，不得不面对众多公司和挑战。接着在周三，硅谷银行突然出现大量提款并需要紧急资金。那一刻起，许多人开始恐慌，纷纷质疑美国商业银行，特别是中型商业银行是否存在更广…",
