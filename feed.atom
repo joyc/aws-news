@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-21T18:09:30.170Z</updated>
+    <updated>2023-03-22T00:35:38.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -749,16 +749,6 @@ DefiLlama 联合创始人 0x LLam 4  并没有接受 0x ngmi 的解释，�
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：解读Arbitrum空投细则；美联储是否再次开启「印钞」模式？]]></title>
-        <id>https://www.theblockbeats.info/news/35743</id>
-        <link href="https://www.theblockbeats.info/news/35743"/>
-        <updated>2023-03-19T08:01:52.000Z</updated>
-        <summary type="html"><![CDATA[重温本周热点：2023 年第 12 周融资精选，多个稳定币项目获得融资；审计六次仍被盗走 2 亿美金，Euler 乐高的连锁反应有多大？Arbitrum 如何排查和确认女巫地址？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
