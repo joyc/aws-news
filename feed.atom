@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-23T06:09:18.326Z</updated>
+    <updated>2023-03-23T12:13:59.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[教程｜如何在Uni V3上组ARB单边LP？]]></title>
+        <id>https://www.theblockbeats.info/news/35888</id>
+        <link href="https://www.theblockbeats.info/news/35888"/>
+        <updated>2023-03-23T09:54:38.000Z</updated>
+        <summary type="html"><![CDATA[ARB Token 就要开始交易了，拿到空投的用户如何组建单边 LP？手续费率怎么选择？BlockBeats 做了简单梳理。
+
+
+
+
+LP 组建步骤
+
+
+
+
+首先，前往 Uniswap V3 官网，网络切换至 Arbitrum 并链接钱包，点击进入「流动性」页面。
+
+
+点击「+新仓位」，随后点击「选择代币」，复制填入 ARB Token 合约地址（0x912CE59144191C1204E64559FE8253a0e49E6548）
+
+
+
+
+
+
+
+
+随后选择 ARB Token 的交易对，这里建议选择交易量通常更大的 ETH 或 USDC。确定交易对后可以选择修改手续费率，通常来说 1% 虽然能获得更多手续费，但往往是在交易量或流动性较小的交易池中使用，而 0.3% 则能获得更大交易量，手续费不见得低于 1% 级别。
+
+
+
+
+
+
+
+
+最后是设置 ARB 的兑换率范围，目前不少用户将兑换率设置在 1U 到 2U 之间。当 ARB 价格在所设价格区间内时，用户便可赚取手续费，当价格高于或低于用户所设流动性区间时，则自己的 LP 不赚取任何手续费。如果想要添加单币流动性，就需要确定所设兑换率不高于当前兑换率，即99.99USDC每ARB，也就是用户所设最高兑换率不可高于99.99USDC/ARB。上图中所示区间不高于最高兑换率，因此可以只添加USDC，并在 1U至2U的区间提供流动性自动买入卖出ARB Token。
+
+
+
+
+
+
+
+值得注意的是，在流动性相对集中的区间（此例中是 1U-2U 之间），LP 所赚取的手续费会相对较少，而流动性相对较少的区间（比如 0.5U），则可以赚取更多的手续费。
+
+
+
+
+关于费率
+
+
+
+Uniswap V3 池手续费有 0.01%, 0.05%, 0.3% 和 1%，越是稳定的交易对就适用最小的交易手续费，波动越高，就适合更高的交易费率。0.01% 通常是给稳定币对用的，0.05% 是给 ETH/BTC 这类比较稳定的交易对使用。不同费率采用完全分隔的 LP 池。
+
+
+
+
+
+
+
+在 ETH 换 USDC 时，Uniswap 通常会优先安排使用费率小的池子，也就是 0.05%，当交易量很大，造成大滑点时，便会将分一部分流动性交易去 0.3% 的池子，这样 Swap 总体成本便可以被降低。当出现极端行情，交易量暴增时，则更高的交易费率会有更好的收益。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空投申领在即，全面更新Arbitrum生态大盘点]]></title>
+        <id>https://www.theblockbeats.info/news/35884</id>
+        <link href="https://www.theblockbeats.info/news/35884"/>
+        <updated>2023-03-23T07:06:03.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+空投申领在即，全面更新 Arbitrum 生态大盘点
+
+》
+原文作者：Babywhale，Foresight News
+
+
+北京时间 3 月 16 日晚间，「OR 双子星」之一的 Arbitrum 在 Optimism 宣布
+
+Token
+
+空投的 11 个月之后，也正式宣布了
+
+Token
+
+空投计划。今日，ARB 
+
+Token
+
+正式开放领取。与 Optimism 相同的是，Arbitrum 除了向用户空投外还将向生态项目空投，所以未来参与 Arbitrum 上的项目依然有获得 ARB 
+
+Token
+
+奖励的可能性。
+
+
+去年 4 月，我们进行了Arbitrum 生态项目盘点。L2BEAT 数据显示，在经过了接近一年的发展之后，Arbitrum One 上的 TVL 虽然以美元计价没有太大的变化，但以以太坊计价却增长了 79%。此外，独立地址数也从近 25 万增长至近 60 万。
+
+
+与一年前的另一点不同的是，相比于以太坊主网的「复印机」，Arbitrum 上发展出了例如 GMX、Y2K Finance 这样以太坊上没有的创新项目。今天我们重新整理了 Arbitrum 生态的项目，除了寻找获取潜在
+
+Token
+
+奖励的机会外，也共同来探索下一个可能的 Alpha。
+
+
+项目信息来自 Arbitrum 生态项目门户网站及 DefiLlama，笔者选取了具有一定 TVL 或用户量的项目，请读者在选择参与的项目时注意风险控制。如有遗漏欢迎补充。
+
+
+Arbitrum One
+
+
+
+
+
+
+
+交易平台 / 钱包 / 支付网关
+ 
+中心化加密交易平台中，除了此前提到的 Bitget、币安、Bybit、Crypto.com、KuCoin、MEXC、OKX，目前 Coinbase、Juno 已经集成 Arbitrum One 主网，支持 Arbitrum 上部分
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储继续加息后，传统市场大V们坐不住了]]></title>
+        <id>https://www.theblockbeats.info/news/35881</id>
+        <link href="https://www.theblockbeats.info/news/35881"/>
+        <updated>2023-03-23T06:37:32.000Z</updated>
+        <summary type="html"><![CDATA[3 月 23 日凌晨，美联储再度宣布加息 25 个基点，同时鲍威尔在发言会上连续放鹰，纷纷否决了市场猜测的「暂停加息」、「年内降息」等乐观预期，BlockBeats 将市场中一些举足轻重的人物对本次加息的看法和对后市的预期整理、编译如下。
+
+
+BitMEX 创始人 Arthur Hayes：美联储加息越快，降息就越快
+
+
+
+
+鲍威尔加息的速度越快，他就必须越快地降息。我将在比特币价格下跌时逢低买入。谢谢鲍威尔提供更多的入场机会。BTC 将会达到 100 万美元。
+
+
+此前 Hayes 在 3 月 16 日的最新文章 Kaiseki 中分析指出，除非短期利率降低到银行能够提供与逆回购工具和短期国债竞争的存款利率吸引储户回来，否则银行系统无法恢复盈利 (从而创造更多贷款)。市场正在高呼银行系统支持的通缩，而美联储最终将会倾听。即使不在三月会议上开始降息，几个月后一场严重的经济衰退也将迫使它转向。
+
+
+
+
+
+Real Vision 创始人 Raoul Pal：如果银行业危机迅速加剧，美联储将紧急降息
+
+
+
+
+如果美联储将联邦基金利率提高到 5%，并采取紧缩倾向，这可能会削弱银行。实力较弱的银行可能会遇到财务困难，这可能导致人们对银行体系失去信心，引发存款挤兑。在这种情况下，美国财政部长耶伦可能会介入，为存款提供担保。由于短期利率上升过快导致收益率曲线倒挂，耶伦的存款担保在这种情况下可能行不通。如果存款人预计利率会上升，他们可能会从银行取出资金，投资于收益率更高的资产。这可能会导致银行的流动性危机，使耶伦的担保失效。
+
+
+我的猜测是，如果银行业危机迅速加剧，美联储可能需要紧急降息。
+
+
+
+
+
+Pershing Square 首席执行官 Bill Ackman：5% 利率将导致银行存款加速外流
+
+
+
+
+考虑一下最近发生的事件对非系统重要性银行的长期股权资本成本的影响，在这些银行中，你…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARB空投领取之际，要做哪些准备工作]]></title>
+        <id>https://www.theblockbeats.info/news/35875</id>
+        <link href="https://www.theblockbeats.info/news/35875"/>
+        <updated>2023-03-23T04:47:25.000Z</updated>
+        <summary type="html"><![CDATA[「准备就绪，领取ARB」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT市场的下一个新叙事：Open Loyalty]]></title>
         <id>https://www.theblockbeats.info/news/35872</id>
