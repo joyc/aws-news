@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35887",
+          "author": null,
+          "description": "比特币再一次成为货币体系危机下的避风港。",
+          "link": "https://www.theblockbeats.info/news/35887",
+          "publishedOn": "2023-03-23T14:00:01.000Z",
+          "wordCount": null,
+          "title": "终点100万美元？比特币的贝塔纳指和数字黄金之争",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35888",
           "author": null,
           "description": "ARB Token 就要开始交易了，拿到空投的用户如何组建单边 LP？手续费率怎么选择？BlockBeats 做了简单梳理。\n\n\n\n\nLP 组建步骤\n\n\n\n\n首先，前往 Uniswap V3 官网，网络切换至 Arbitrum 并链接钱包，点击进入「流动性」页面。\n\n\n点击「+新仓位」，随后点击「选择代币」，复制填入 ARB Token 合约地址（0x912CE59144191C1204E64559FE8253a0e49E6548）\n\n\n\n\n\n\n\n\n随后选择 ARB Token 的交易对，这里建议选择交易量通常更大的 ETH 或 USDC。确定交易对后可以选择修改手续费率，通常来说 1% 虽然能获得更多手续费，但往往是在交易量或流动性较小的交易池中使用，而 0.3% 则能获得更大交易量，手续费不见得低于 1% 级别。\n\n\n\n\n\n\n\n\n最后是设置 ARB 的兑换率范围，目前不少用户将兑换率设置在 1U 到 2U 之间。当 ARB 价格在所设价格区间内时，用户便可赚取手续费，当价格高于或低于用户所设流动性区间时，则自己的 LP 不赚取任何手续费。如果想要添加单币流动性，就需要确定所设兑换率不高于当前兑换率，即99.99USDC每ARB，也就是用户所设最高兑换率不可高于99.99USDC/ARB。上图中所示区间不高于最高兑换率，因此可以只添加USDC，并在 1U至2U的区间提供流动性自动买入卖出ARB Token。\n\n\n\n\n\n\n\n值得注意的是，在流动性相对集中的区间（此例中是 1U-2U 之间），LP 所赚取的手续费会相对较少，而流动性相对较少的区间（比如 0.5U），则可以赚取更多的手续费。\n\n\n\n\n关于费率\n\n\n\nUniswap V3 池手续费有 0.01%, 0.05%, 0.3% 和 1%，越是稳定的交易对就适用最小的交易手续费，波动越高，就适合更高的交易费率。0.01% 通常是给稳定币对用的，0.05% 是给 ETH/BTC 这类比较稳定的交易对使用。不同费率采用完全分隔的 LP 池。\n\n\n\n\n\n\n\n在 ETH 换 USDC 时，Uniswap 通常会优先安排使用费率小的池子，也就是 0.05%，当交易量很大，造成大滑点时，便会将分一部分流动性交易去 0.3% 的池子，这样 Swap 总体成本便可以被降低。当出现极端行情，交易量暴增时，则更高的交易费率会有更好的收益。",
@@ -333,46 +343,6 @@
           "publishedOn": "2023-03-21T06:44:42.000Z",
           "wordCount": null,
           "title": "全球顶尖300家Crypto VC分析：总管理资本839亿美元；已开始为牛市做准备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35796",
-          "author": null,
-          "description": "LSD应用层可能会出现另外一个DeFi Summer这种级别的物种大爆发。",
-          "link": "https://www.theblockbeats.info/news/35796",
-          "publishedOn": "2023-03-21T05:30:01.000Z",
-          "wordCount": null,
-          "title": "上海升级下LSD生态详解与前瞻：监管、投资、赛道机会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35795",
-          "author": null,
-          "description": "原文标题：《如月之恒，如日之升｜WTR 3.20》\n原文作者：WatchToweR Crypto      \n\n\n本周回顾\n\n\n本周从 3 月 14 日到 3 月 20 日，冰糖橙最高附近$28483，最低接近$23888，震荡幅度达到 19% 左右。\n\n\n观察筹码分布图，在约 $28143  附近有大量筹码成交，将有一定的支撑或压力。\n\n\n• 分析：\n\n\n1. $23000 ~ $29500 约 168 万枚；\n\n\n2. $18500 ~ $22500 约 270 万枚；\n\n\n• 短期内跌不破在$18000 ~ $20000 概率为 72%。\n\n\n\n \n重要消息方面\n\n\n经济消息方面\n\n\n1. 美 2 月 PPI 生产者价格指数环比下降 0.1%，低于预期的 0.3%，前值为 0.7%；\n\n\na. 同比增长 4.6%，低于预期值 5.4%，低于前值 6.0%，是 2021 年 3 月以来的最低同比增长。\n\n\nb. 剔除食品、能源和贸易的核心 PPI 环比增长 0%，低于预期的 0.4%，前值为 0.5%；\n\n\n2. 美 2 月 CPI 同比增长 6%，符合预期值 6%，低于前值 6.4%，连续第八个月下滑，为 2021 年 9 月以来新低。\n\n\na. 核心 CPI 同比增长 5.5%，符合预期 5.5%，低于前值 5.6%。已连续第六个月下降，为 2021 年 12 月来新低；\n\n\nb. 核心 CPI 环比增长 0.5%，略高于预期 0.4%，前值为 0.4%，达到 5 个月来的最高水平，通胀仍具有弹性。\n\n\n3. 本周美联储推出银行定期融资计划 BTFP（Bank Term Funding Program) 的紧急融资工具，向抵押美国国债、机构债务、抵押贷款支持证券 (MBS) 和其他合格资产的银行提供最长一年的贷款。\n\n\na. 美国银行、花旗集团、摩根大通和富国银行等…",
-          "link": "https://www.theblockbeats.info/news/35795",
-          "publishedOn": "2023-03-21T03:38:57.000Z",
-          "wordCount": null,
-          "title": "第13周链上数据分析：多头清算压力上升，市场整体情绪中性偏谨慎",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35794",
-          "author": null,
-          "description": "Filecoin VM将帮助释放Filecoin协议的全部潜力，为去中心化存储和计算带来新的创新应用场景。",
-          "link": "https://www.theblockbeats.info/news/35794",
-          "publishedOn": "2023-03-21T03:15:10.000Z",
-          "wordCount": null,
-          "title": "IOSG Ventures：FVM如何全方位解锁Filecoin创新用例？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35782",
-          "author": null,
-          "description": "NFT是带着以太坊的基因进入大众视野中的，在以太坊公链引爆之后， 逐渐成为其他公链生态不可或缺的一部分。",
-          "link": "https://www.theblockbeats.info/news/35782",
-          "publishedOn": "2023-03-21T01:30:01.000Z",
-          "wordCount": null,
-          "title": "比特币NFT：能否复制甚至超越以太坊NFT盛况？",
           "imageUrl": null
         }
       ]
