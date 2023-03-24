@@ -2,10 +2,297 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-24T12:11:56.939Z</updated>
+    <updated>2023-03-24T18:09:22.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解读 GambleFi，是否因 Layer2而再次兴盛？]]></title>
+        <id>https://www.theblockbeats.info/news/35914</id>
+        <link href="https://www.theblockbeats.info/news/35914"/>
+        <updated>2023-03-24T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《解读GambleFi，是否因Layer2而再次兴盛？》
+原文作者：雨中狂睡，
+
+深潮 TechFlow
+
+
+
+
+
+
+
+
+
+
+
+当以太坊不再被性能与效率所拖累，哪些领域最可能爆发？
+
+
+GambleFi（去中心化赌场）或许是一个相对小众却又叙事庞大的回答。
+
+
+推动 GambleFi 发展的主要原因是传统世界中对赌场的普遍担忧——黑箱操作，即出老千。赌客们会担心自己的对手方或者赌场以作弊的手段为自己谋得不正当利益，部署在区块链上则能较好解决这个问题。
+
+
+由区块链技术驱动的公开透明、可验证性和无许可的特性将使得 GambleFi 成为更具吸引力的互联网赌场设施，赌博的公平性和隐私性也能够得以保障。
+
+
+曾经，在 EOS 繁荣的赌博生态给我留下了深刻印象。但 EOS 上的赌博 Dapp 与如今的 GambleFi 叙事是截然不同的：
+
+
+发展潜力：虽然赌博 Dapp 们建立在 EOS 之上，尽管手续费便宜，但是 EOS 操作体验不佳，手续繁琐。最终，历史也已经给到我们答案——随着 EOS 的没落，上面的应用也逐渐消失在了区块链的历史长河之中。而以太坊 Layer2 有着更加优质肥沃的土壤，有更多的用户基础和更好的交互体验。
+
+
+真实收益：GambleFi 另一个值得称道的地方在于其顺应了真实收益叙事的趋势。这为 GambleFi 引入了新的增量用户——投资者。除了参与协议的赌客之外，看好 GambleFi 的投资者也可以通过购买协议代币和质押协议代币的方式来获得分红，可扩展性更高的代币经济学而这也是 EOS 上赌博 Dapp 无法比拟的。
+
+
+接下来，我们就来简单介绍一下一些建立在以太坊 Layer2 Arbitrum 之上的 GambleFi 协议。
+
+
+Arcadeum $ARC
+
+
+Arcadeum 是一款基于 Arbitrum 部署的 GambleFi，为赌…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在拥有32ETH后加入Staking]]></title>
+        <id>https://www.theblockbeats.info/news/35944</id>
+        <link href="https://www.theblockbeats.info/news/35944"/>
+        <updated>2023-03-24T12:46:32.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Ebunker 中文博客
+
+
+过去几年，加密货币市场呈指数级增长，越来越多的人通过各种方式 (包括 NFT 交易、 DeFi 和交易所交易) 加入并积累资产。随着市场不断成熟，许多投资者一旦持有一定数量的资产，就不再对高风险投资或积极交易感兴趣。相反，他们开始考虑把一些资产放在更稳定、更安全的地方。
+
+
+一个选择是加入 ETH 质押，并获得 6% -8% 的稳定年回报率。质押（Staking）是一种共识机制，允许用户参与网络验证并获得回报。这一过程要求用户持有至少 32 个 ETH 才能参与投资，因此对于在加密货币市场上积累了大量财富的投资者而言，这是一个颇具吸引力的选择。
+
+
+ETH 质押有四种主要方案:中心化平台质押（CEX Staking）:
+
+
+CEX 质押需要将您的 ETH 存储到中心化交易平台，如 Binance 和 Coinbase，它直接给您处理质押过程。这个选项的好处是，它是一种简单、方便的方法，不需要设置和维护验证器节点就可以获得 ETH。此外，与其他选项相比，您通常可以随时提取您质押的 ETH。
+
+
+大池子质押（Large Pool Staking）：
+
+
+此类质押方案中，投资者将他们的 ETH 与其他人一起创建一个大的验证节点，从而提高获得奖励的机会。大池子质押的例子有 Lido 和 Rocket Pool。该选项的好处是，它提供了更高的获得奖励的机会，与自己独自质押（Solo Staking）相比，投资者可以以更低的 ETH 金额参与。此外，大池子质押无需自己运行验证器节点，不太懂技术的投资者也更容易访问使用。
+
+
+独自质押（Solo Staking）：
+
+
+独自质押（Solo Staking）需要您自己运行验证器节点，这需要技术知识和全天候维护该节点的能力。相比其他选项，独自质押的好处是它提供了最高的回报，因为无需支付给第三方费用。此外，投资者可以完全控制其所持有的 ETH，并可以参与网络治理。
+
+
+验证即服务质押（Validator-as-a-Service (VaaS) Staking）：
+
+
+VaaS 质押类似前面提到的大池子质押，但不是将你的 ETH 存入第三方平台，而是直接存入官方的 ETH 2.0 协议，而第三方服务提供商为你运行验证节点。这个选项的好处是它提供了一个较低的进入门槛，不需要具备技术知识或维护节点。
+
+
+一些 VaaS 提供商，如 Ebunker，允许用户保留对其「提取私钥」的控制权，使 VaaS 的安全级别与 Solo Staking 不相上下，使其成为最安全的方法。
+
+
+风险评估
+
+
+然而，在质押之前，用户还需要了解一些风险。
+
+
+将 32 ETH 放在 CEX 上看起来似乎是一个简单的选择，但它也伴随着监管风险。CEX 经常受到 FUD 的限制，监管当局可能在未来对这些平台实施更严格的规定。此外，用户无法控制验证过程，他们依靠交易所代表自己进行验证。
+
+
+在一个大池子里质押似乎是一个更安全的选择，但它也伴随着一些风险。用户需要信任质押池经营者诚实地创造/赎回。你可能会犹豫是否承担潜在的第三方风险，因为将你的私钥委托给第三方并不符合真正持有者的做法。
+
+
+独自质押包括自己运行一个验证器节点，这使得用户可以完全控制验证过程。然而，运行验证器节点在技术上具有挑战性，用户可能需要自己成为技术专家，或者雇佣他人来帮助他们设置和维护节点。此外，Solo Staking 每月需要 1000 美元以上的服务器成本，这可能会让一些用户感到沮丧。
+
+
+
+
+
+VaaS Staking 是一个很有吸引力的选项，最近非常受欢迎。它将验证过程委托给专业服务提供商，该服务提供商代表用户操作验证程序节点，而不触及您的私钥。
+
+
+VaaS Staking 易于设置和维护，用户可以根据费用和服务从不同服务提供商中灵活进行选择。用户不需要自行购买硬件设备或软件，他们可以亲自管理自己的私钥来质押 ETH。
+
+
+具体来说，VaaS 服务提供商 (如 Ebunker) 为用户执行验证工作，同时允许用户填写自己的以太坊提款地址。用户的资金绝不被第三方挪用，只能转移到他们填写的以太坊地址。
+
+
+这是一种非常安全的方式，也被称为「非监护」。与此同时，VaaS 服务提供商收取的服务费相对较低，因为它们不需要花钱维持 LSD 的流动性或进行分销。
+
+
+在权衡了每个选项的利弊之后，很明显，对于那些希望以 32ETH 获得稳定年回报的投资者来说，VaaS 是最好的选择。VaaS Staking 提供非托管、安全和低费用的服务，使其成为许多低风险承受能力用户的最佳选择。因此，如果你正在寻找一种可靠且无忧的方式来加入 Staking，那么 VaaS Staking 就是你的选择。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaChat计划推出基于GPT-4开发的Web3智能向导平台Metapedia]]></title>
+        <id>https://www.theblockbeats.info/news/35943</id>
+        <link href="https://www.theblockbeats.info/news/35943"/>
+        <updated>2023-03-24T12:22:30.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：
+
+MetaChat
+
+
+
+什么是 Metapedia？
+
+
+智能社交协议 MetaChat 近日宣布将于 Q2 推出 Web3 一站式智能向导平台 Metapedia。Metapedia 基于最新 GPT-4 开发，以 AI Chatbot 的形式，为 Web3 生态项目和社区提供全能向导服务，帮助用户和开发者以最便捷和快速的方式全方位了解项目，并在 AI 指导下与项目进行交互。
+
+
+Metapedia 主要功能分为两点： 
+
+
+1. AI Guide
+
+
+项目方可通过投喂白皮书以及项目更新等资料训练智能向导，智能向导将回答从用户使用指导到开发者 SDK 疑问的各种问题。同时，AI Guide 可集成由 MetaChat 开发的 MetaBot@DC，作为 AI Mod 在 Discord 为社区提供 24/7 服务。
+
+
+2. AI Plugin
+
+
+Metapedia 支持第三方 dApp 插件，用户将通过 Metapedia AI 与 dApp 进行交互以及数据读取。在 AI 的帮助下，用户将更智能和安全地与 dApp 进行链上交互。
+
+
+Metapedia Beta 预计于 Q2 推出，该测试版本将聚焦于 StarkNet 生态，提供 StarkNet 及其生态项目的智能向导与推广。
+
+
+Metapedia 作为 MetaChat 产品战略重要组成部分，将成为 Web3 生态智能向导层和智能交互层，最大限度降低用户交互门槛；同时，Metapedia 也是 Web3 dApp 智能聚合器，导航用户的 web3 旅程。未来 Metapedia 将接入 MetaChat 主产品，作为社交导流的 Web3 入 口。
+
+
+MetaChat 介绍 
+
+
+MetaChat 是构建在聚合型网络上的智能社交协议，探索由 AI 和 Web3 赋能的下一代社交体验。Meta 意指跨越（beyond）：横向广度看，MetaChat 为用户带来跨越平台的社交体验；纵向深度上，MetaChat 为用户带来超越人与人的交互体验，比如人与机器甚至机器与机器的交互。
+
+
+MetaChat 主要由两部分构成： 
+
+
+1. MetaNetwork
+
+
+MetaNetwork 是一个基于去中心化通讯协议 Matrix 构建的聚合型社交网络（unified network），MetaNetwork 将打破社交 APP 壁垒实现跨平台通讯以及碎片化社交数据整合。
+
+
+MetaChat 目前已经成功桥接 WhatsApp、Telegram、Discord 和 Twitter Message。客户端版本已经于 Q1 推出，最新对外版本将于 Q2 推出。
+
+
+
+metachat 桥接通讯协议 
+
+
+2. MetaMessage
+
+
+MetaMessage 是一个智能信息协议（intelligent messaging protocol）。MetaMessage 重要组成是 Smart Message 和 AI Message。
+
+
+Smart Message 是智能合约嵌入式信息。通过 Smart Message，用户可利用智能合约控制信息的传递和收发，为信息赋予更多价值。传统信息是比特币，Smart Message 是以太坊。
+
+
+通过 Smart Message 用户可以进行例如信息内转账，信息转为为链上资产（NFT），信息打赏，付费信息，信息有偿分发等。
+
+
+
+smart message 传递价值
+
+
+
+
+AI Message 是基于 GPT-4 开发以及由 MetaChat 自研 AIGC 引擎赋能的 AI 交互系统，MetaChat 将 message 作为人机交互的媒介，为用户提供全新的智能交互体验。目前 MetaChat 已经推出跨平台 AI 机器人 MetaBot，目前 MetaBot 已经支持 Discord 和 Twitter，用户可在该类平台上与 MetaBot 进行交互。Telegram 集成将于三月底推出。
+
+
+
+MetaBot AI mod 用例
+
+
+
+
+MetaChat 认为在 web2 时代，message 传递的是信息，而 web3 时代，message 传递的是价值。MetaChat 将利用全新技术，重新定义 message：message 是传递价值的资产，是人机交互的媒介；同时，message 没有边界，不被锁定在彼此孤立的社交 app 中。
+
+
+MetaChat 将在由区块链和人工智能驱动的后数字时代下为用户带来全新社交体验。
+
+
+原文链接
+
+
+本文来自投稿，不代表BlockBeats观点]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum DAO治理参与指南]]></title>
+        <id>https://www.theblockbeats.info/news/35915</id>
+        <link href="https://www.theblockbeats.info/news/35915"/>
+        <updated>2023-03-24T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Arbitrum DAO 治理参与指南》
+原文作者：
+
+白泽研究院
+
+
+
+随着Arbitrum的第一份改进提案已在社区论坛上发布，Arbitrum DAO的治理流程逐渐完善。本文将概述Arbitrum的治理、Arbitrum DAO以及发起提案和投票的过程。
+
+
+在开始之前，一些相关概念：
+
+
+AIP : Arbitrum改进提案
+
+
+AIP-1 （Arbitrum改进提案 1 ）：Arbitrum提案框架
+
+
+Arbitrum DAO管理的链：Arbitrum One和Arbitrum Nova链以及Arbitrum DAO授权的任何其他链
+
+
+DAO国库： 42.78% 的 $ARB 被保存在由Arbitrum DAO和Arbitrum基金会通过链上投票机制直接管理的智能合约中。
+
+
+治理链：Arbitrum DAO批准的链，由 $ARB代币管理
+
+
+非治理链 : 任何Arbitrum DAO批准的不受$ARB代币管理的链
+
+
+什么是Arbitrum DAO？
+
+
+像 Arbitrum One这样的Arbitrum链有一个「链所有者」的概念。「链所有者」相当于是该链的管理员，负责对系统进行更改。更具体地说，「链所有者」可以修改核心系统参数、暂停交易，以及最重要的是更新定义和执行核心协议的任何合约。
+
+
+显然，能够任意改变Arbitrum链参数的能力，使得「链所有者」的权力非常强大。因此，Arbitrum有必要让这个角色更加去中心化。
+
+
+Arbitrum通过空投治理代币$ARB，将所有权分散给Arbitrum生态系统中的各方，包括开发团队、投资者、协议和用户。所有持有$ARB的人组成了Arbitrum DAO，用来管理Arbitrum所有链及其对应的链所有者」。
+
+
+Arbitrum DAO将能够发起Arbitrum改进提案（AIP），成员可以对其进行投…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遭专业做空机构兴登堡狙击，Block难逃一劫？]]></title>
         <id>https://www.theblockbeats.info/news/35942</id>
@@ -1377,462 +1664,6 @@ Grants 分配：基金会将直接向开发人员、社区大使和其他在 Sui
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文读懂以太坊二层项目Arbitrum]]></title>
-        <id>https://www.theblockbeats.info/news/35836</id>
-        <link href="https://www.theblockbeats.info/news/35836"/>
-        <updated>2023-03-22T04:41:01.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：一文读懂以太坊二层项目Arbitrum
-原文作者：火必研究院 Stefanie
-
-
-目录 
-
-
-1. 项目情况介绍  
-  1.1 技术方案及特点  
-
-2. Arbitrum 现状  
-3. 技术升级 
-4. 生态合作  
-5. 热门项目分析  
-  5.1 Defi 类 
-
-  5.2 游戏类  
-
-6. Layer2 未来发展  
-  6.1 Rollup 方案瓶颈与展望 
-
-  6.2 Arbitrum 在 2023 年的持续爆发 
-
-
-
-
-参考资料
-
-
-     1. 项目情况介绍
-
-
-
-
-
-1.1
-技术方案及特点  
-
-
-Arbitrum 方案是由 Offchain Labs 提出并创建的，最早是一个纯粹的研究型学术项目，后经过不断优化和改进，逐渐转入实践。该方案也是基于 Optimistic Rollup 的解决方案，通过经济激励的博弈模型维护安全性并通过欺诈证明来维护交易有效性，主要区别在于挑战机制和实现形式。Optimism 只需要排序者和验证者执行一次欺诈证明交互即可判断出结果，而 Arbitrum 认为一次交互可能导致欺诈证明需要包含大量的交易从而超出 gas 限制，并且提出欺诈证明是由于单条指令执行异常导致，无需执行全部的指令。因此，Arbitrum 将欺诈证明分为多轮步骤，只需要证明排序者在执行某条指令时出现异常，即可证明排序者作恶，节省成本。
-
-
-
-Arbitrum 的方案与 Optimism Rollup 的主要特点是一致的，我们不再赘述，主要可以关注欺诈证明机制的变化带来的改变。
-
-
-
-1. 多轮欺诈证明交互。
-
-Arbitrum 采用多轮欺诈证明验证交易的有效性，降低单次挑战需要消耗的 gas，不必担心 gas 费用超出限制。
-
-
-
-2.对 EVM 的兼容性更强。
-虽然 Optimism 团队的 OVM 对 EVM 兼容，但其实不…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话Circle CEO：危机后的复盘、反思与展望]]></title>
-        <id>https://www.theblockbeats.info/news/35835</id>
-        <link href="https://www.theblockbeats.info/news/35835"/>
-        <updated>2023-03-22T04:09:33.000Z</updated>
-        <summary type="html"><![CDATA[主持人：David、Ryan, Bankless
-嘉宾：
-
-Jeremy Allaire，Circle CEO 
-编译：Kxp, BlockBeats
-
-
-3 月 11 日，受硅谷银行破产等因素影响，稳定币
-
-USDC 发行商 Circle 面临严重挤兑，USDC 出现持续性脱锚，Circle 迎来其成立以来的最大危机。随后美国多方联手救市，稳住了投资者信心的同时也拯救了已处悬崖边缘的
-
-USDC 和 Circle。危机过后，Bankless 第一时间采访了 Circle CEO Jeremy Allaire，后者对整个危机进行了复盘，并展望危机后
-
-Circle 的发展策略以及监管政策的未来走向。
-
-BlockBeats 对此次访谈梳理翻译如下：
-
-
-
-
-
-Ryan Sean Adams：今天我们很荣幸邀请到了 Circle 公司的首席执行官兼创始人 Jeremy Allaire。Jeremy，我们知道你非常忙碌，所以感谢你抽出宝贵时间与 Crypto 社区分享最新资讯。经历了上周紧张的周末后，你感觉还好吗？目前有什么要与我们分享的情况吗？
-
-
-
-
-Jeremy Allaire：
-
-
-这段时间确实非常戏剧化，而且不仅仅局限于上周。一切始于 Silvergate 的破产，如你所知，许多数字资产公司、Crypto 公司以及其他公司都与这家银行有业务往来。关于银行去风险化问题以及银行体系对 Crypto 的影响，大家已经讨论了一段时间。这个话题从今年年初便开始引起关注，目前我们还面临着一些看似突如其来的系统性金融稳定问题，这让人不免开始怀疑监管者在这方面是否存在失职。
-
-
-
-
-上周，我们从 Silvergate 的停业开始，不得不面对众多公司和挑战。接着在周三，硅谷银行突然出现大量提款并需要紧急资金。那一刻起，许多人开始恐慌，纷纷质疑美国商业银行，特别是中型商业银行是否存在更广…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梳理Synthetix现状：永续合约交易量明显上升，V3更新带来更灵活的定制化服务]]></title>
-        <id>https://www.theblockbeats.info/news/35833</id>
-        <link href="https://www.theblockbeats.info/news/35833"/>
-        <updated>2023-03-22T03:58:30.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-梳理 Synthetix 现状：永续合约交易量明显上升，V3 更新带来更灵活的定制化服务
-
-》
-原文作者：蒋海波，PANews
-
-
-
-链上永续合约市场巨大，竞争也越来越激烈，除 dYdX、GMX 等龙头之外，近期 Synthetix 的永续合约交易量明显上升，Synthetix V3 也在逐步推出，让 SNX 再次受到资本的青睐。
-
-
-根据 Token Terminal 的数据，截至 3 月 20 日，Synthetix 过去 7 天的收入排名第四，超过了 GMX（这里的收入仅统计了分配给原生Token持有人的部分，总的费用则是 GMX 更高）、Lido、Gains Network 等项目。
-
-
-
-
-
-现货交易萎靡，永续合约交易量上升
-
-
-Synthetix 作为 Optimism 的重要合作伙伴，早在 2021 年 7 月就部署到了 Optimism 上，此后 Synthetix 鼓励大家将质押的 SNX 转移到 Optimism，交易和收入也逐渐从以太坊主网转移到 Optimism 上。Synthetix 官网的 Dune 仪表板显示，过去 7 天总的收入为 133 万美元，L1 上平均每天的收入为 3577 美元，L2 上平均每天的收入为 18.7 万美元。
-
-
-
-
-
-收入主要来自于 Synths 现货交易和永续合约交易，Synthetix 去年重新推出的原子交易即属于现货交易，虽然当时受到期待，但可能因为 Synthetix 现货交易的手续费（sETH 与 sUSD 间的交易手续费为 0.35%）高于其它交易平台，目前已经较少使用。如下图所示，Synthetix 过去 7 天的总交易量为 11.92 亿美元，其中最高的 3 月 17 日交易量 4.92 亿美元，和 GMX 当日 5 亿美元的交易量相当。原子交易的占比通常小于总交易量的 1%，而在去年…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum公布DAO空投细则，137家DAO共获得1.13亿枚ARB]]></title>
-        <id>https://www.theblockbeats.info/news/35826</id>
-        <link href="https://www.theblockbeats.info/news/35826"/>
-        <updated>2023-03-22T03:09:58.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-DAO 能领多少？速览 137 家获得 ARB 空投的 DAO
-
-》
-原文作者：Frank，Foresight News
-
-
-
-3 月 21 日晚间，Arbitrum 公布 DAO 空投细节，表示「空投的核心原则之一是触达 Arbitrum 的子社区」，只有 Arbitrum 上具有 DAO 和社区金库的项目才有资格参与此分发，唯一例外是包含以太坊核心开发人员和贡献者的集体 Protocol Guild。
-
-
-
-
-Arbitrum 表示与 Nansen 合作并分析了链上数据，以确定每个 DAO 社区获得了多少Token，考虑因素包括各种定性和定量指标：部署日期、是多链还是 Arbitrum 原生协议、交易量和交易价值、TVL、活动以及维护这些指标的一致性。
-
-
-DAO 
-
-Token
-
-分发的具体情况
-
-
-
-
-结合 Arbitrum 公布的相关表格，我们简单整理了一下 Arbitrum 向 DAO 进行
-
-Token
-
-分发的具体情况。
-
-
-根据 Arbitrum 披露的
-
-Token
-
-分配信息，面向 DAO 的空投总计 1.13 亿枚（1.13%），而此次 137 个 DAO 共计分得 112576459 枚 ARB（DAO 空投不能替代赠款计划，未来几周内 Arbitrum 基金会将公布 Arbitrum 项目可以申请的赠款计划的详细信息）。
-
-
-
-
-
-其中获得最多 ARB 
-
-Token
-
-的 DAO 是「双黄蛋」：Arbitrum 上 NFT 生态系统 TreasureDAO 和去中心化衍生品协议 GMX 都各自斩获 800 万枚，并列位居第一。
-
-
-而 Uniswap（4,378,188）、SushiSwap（4,378,188）、Dopex（3,863,107）紧随其后，共有 33 个 DAO 获得超 100 万枚 ARB，总计占比约 30%。…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[错过ARB空投？这些LayerZero叙事项目值得关注]]></title>
-        <id>https://www.theblockbeats.info/news/35806</id>
-        <link href="https://www.theblockbeats.info/news/35806"/>
-        <updated>2023-03-22T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Layer Zero 生态协议纵览：潜在的空投机会和全链叙事的爆发
-
-》
-原文作者：Emperor Osmo
-原文编译：深潮 TechFlow
-
-
-加密货币市场一直在不断发展和变化，新的项目和技术层出不穷。然而，往往投资者会因为跟进某种趋势过晚而错失巨大的收益。
-
-
-本文将介绍有关 LayerZero（全链协议）叙事的项目，包括 StargateFinance、AltitudeDeFi、Pendle、Tapioca 等。这些项目都有着独特的优势和特点，可能会成为未来的潜力股。
-
-
-
-
-
-LayerZero 是什么？
-
-
-Layer Zero 是一种全链协议，可以使区块链之间无缝通信。这意味着：
-
-
-• 无限的流动性；
-
-
-• 单一Token面额；
-
-
-• 安全性保持不变。
-
-
-Stargate Finance $STG
-
-
-简单来说，$STG 是 LayerZero 内的蓝筹跨链桥。
-
-
-$STG 
-
-Token
-
-向持有者支付以$USDC 计算的 0.01% 的所有转账费用，随着越来越多的链加入，这个收益将会增长。
-
-
-一个被低估的催化剂是即将解锁的$STG 
-
-Token
-
-。
-
-
-虽然这可能会导致一些抛售压力，但它将摆脱 VC（风险投资）寻求退出的状态，并允许长期持有者累积。
-
-
-
-
-
-Altitude DeFi $ALTD
-
-
-Altitude 在跨链桥梁方面的方法是独特的。与其仅转移稳定币流动性不同，Altitude 专注于桥接蓝筹资产。
-
-
-这消除了围绕稳定币流动性的中心化，使跨链转移变得更加容易。
-
-
-
-
-
-作为 LayerZero 之上的首批应用程序之一，Altitude 可以巩固自身作为主要桥梁的地位。它将最初支持 8 个链，其中费用将分配给$gALTD 持有者。
-
-
-Pendle $PENDLE
-
-
-Pendle 使用户能够对收益率资产进行
-
-Token
-
-化和交易，例如$ETH，创建一个动态市场，您可以在其中：
-
-
-• 以折扣价买入资产；
-
-
-• 实现低风险、稳定增长的固定收益；
-
-
-• 长期收益；
-
-
-• 定制收益策略。
-
-
-预计与 LayerZero 的集成将加速跨链增长，增加对$PENDLE 衍生品的需求。用户将能够在任何链上访问和使用这些资产。
-
-
-Tapioca $TAP
-
-
-Tapioca 旨在成为全链货币市场。其$USDO 稳定币未来可能会被更多人采用。
-
-
-它是由各种流动性抵押衍生品（LSD）抵押的，使得$TAP 持有者可以受益，因为他们可以收取 50% 的费用。
-
-
-RDNTCapital $RDNT
-
-
-Radiant 旨在成为一站式 DeFi 市场，用户可以在多个链上无缝地存款和借贷。刚刚的 V2 揭示了：
-
-
-• $RDNT 
-
-Token
-
-经济学改进；
-
-
-• 跨链借贷；
-
-
-• LayerZero OFT 实施；
-
-
-• 费用模型改进。
-
-
-Trader joe $JOE
-
-
-最大的 DEX 在 Avalanche 上最近利用了全链技术。这意味着$JOE 不再局限于一个 DEX，并可以在$ARB 和$BNB 生态系统中找到。
-
-
-这将导致更多的流动性、交易量，最终会有更多的费用。对于 Traderjoe 来说，LayerZero 的好处是：
-
-
-$JOE 持有者可以通过 Stargate 自由漫游，可以在顶级生态系统（如 Arbitrum 和 BNBCHAIN）中增加他们的
-
-Token
-
-流动性。
-
-
-Mugen Finance $MGN
-
-
-Mugen 是一个收益聚合器，可以在跨链上解锁收益。它建立在最大的生态系统之上，使得更多的生态系统可以使用。
-
-
-目前部署在$ARB 上，但很快将扩展到更多的生态系统。
-
-
-目前，MugenFinance 收取 10% 的费用，用于提供收益聚合，并用于资助开发和团队。通过将资金存入国库中创建$MGN，没有庞氏经济学风险。
-
-
-
-
-
-Rage trade $RAGE
-
-
-全链 Perpdex 通过将其他协议中的流动性重复利用到$RAGE 中，提高了资本效率。
-
-
-这种回收利用的流动性使得 Rage 可以在所有与 LayerZero 兼容的链上重复使用 ETH-USD 流动性。
-
-
-
-
-
-Rage Trade 允许您跨多条链提供流动性，LayerZero 支持的链越多，链生态系统越多，保险库的可选性就越大。
-
-
-目前的 80-20 vault 收益率为 15% 。
-
-
-
-
-
-原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读Celer的ZK全链数据计算和验证平台Brevis]]></title>
-        <id>https://www.theblockbeats.info/news/35824</id>
-        <link href="https://www.theblockbeats.info/news/35824"/>
-        <updated>2023-03-22T01:15:21.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：Celer Network
-
-
-
-
-
-
-
-TL; DR
-
-
-
-
-众所周知，Web2 应用通常像一个个被围墙隔离起来的花园，独立运行，这导致了其数据互操作性受限、用户锁定和身份碎片化等问题。基于区块链构建的 Web3 去中心化应用 (dApps）确实可以解决这些问题。然而，作为 dApp 核心的智能合约目前无法以去信任的方式来访问和利用存储在多个区块链完整历史中的大量数据。
-
-
-
-
-为了解除这个限制，我们推出了 Brevis，一个 ZK 全链数据计算和验证平台，它使 dApp 能够以完全去信任的方式访问、计算和利用跨多个区块链的任意数据。
-
-
-
-
-
-图 1. Brevis 架构
-
-
-
-
-Brevis 的架构包括三个组件：zkFabric、zkQueryNet 和 zkAggregatorRollup。
-
-
-
-
-zkFabric 从所有连接的区块链中收集「区块头」，通过 ZK 轻客户端电路证明其有效性后，生成共识证明。该组件对于 dApps 以去信任的方式自由访问「区块头」以及受支持区块链的所有状态至关重要。
-
-
-
-
-zkQueryNet 是一个提供 ZK 查询引擎的开放市场，可直接接受来自链上智能合约的数据查询，并通过 ZK 查询引擎电路生成查询结果和相应的 ZK 查询证明。其中一些引擎提供高度专业化的查询，例如计算可配置时间段内的 dex 交易量；另一些引擎高度通用化，支持数据索引抽象和高级查询语言，以满足各种应用需求。
-
-
-
-
-zkAggregatorRollup 是一个专门的 ZK rollup，充当 zkFabric 和 zkQueryNet 的聚合和存储层。它验证来自这两个组件的证明，存储证明数据，并将其 zk 证明状态根提交给所有连接的区块链，允许 dApp 直接在自身链上智能合约的业务逻辑中访问证明查询结果。
-
-
-
-
-通过这种模块化架构，Brevis …]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
