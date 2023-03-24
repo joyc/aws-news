@@ -2,10 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-24T00:35:49.100Z</updated>
+    <updated>2023-03-24T06:09:45.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以Arbitrum空投为例，探讨“元游戏”空投对生态建设的影响]]></title>
+        <id>https://www.theblockbeats.info/news/35911</id>
+        <link href="https://www.theblockbeats.info/news/35911"/>
+        <updated>2023-03-24T04:06:15.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：
+
+
+
+以 Arbitrum 空投为例，探讨「元游戏」空投对生态建设的影响
+
+
+
+
+原文作者：Delphi Digital
+原文编译：深潮 TechFlow
+
+
+在不到 24 小时内，Arbitrum 可能会向加密生态系统注入数十亿美元：
+
+
+625,000 个钱包具有资格参与；
+交易量+总锁定价值创历史新高；
+它最接近的竞争对手的估值为 110 亿美元。
+
+
+
+
+Arbitrum 的空投是去中心化的案例研究：
+
+
+
+
+
+Arbitrum 通过推出其治理代币 $ARB 实现去中心化，以过渡到自我执行的 DAO 治理。其供应量的 12.75％，即 12.75 亿代币，将分配给 Arbitrum 社区成员和 Arbitrum 生态系统中的 DAO。
+
+
+
+
+
+将 Arbitrum 的治理去中心化是至关重要的，以确保随着基础层本身的升级，交易始终会汇总到标准的以太坊上。将治理决策权交给持有者确保了没有中心化的故障点。
+
+
+
+
+
+L2 解锁了以下实用性：
+
+快速的区块时间，可以有效地清算并为用户提供更高的杠杆限制；更便宜的计算使更广泛的活动和用户得以实现。
+去中心化永续交易所利用了这些功能。
+
+
+一个 L2 解锁的例子是 GMX，这是一个去中心化的永续和现货交易所。自在 Arbitrum 上推出以来，GMX 已经处理了超过 930 亿美元的交易量，并且最近在 TVL 方面创下了历史新高。
+
+
+$GMX 在这个熊市环境中的强势表现是一个罕见的成就。
+
+
+
+
+
+Arbitrum 的最接近的竞争对手是 Optimism，它也是一个 L2，也可以将交易结算到以太坊。
+
+
+目前，$OP 的价值为 110 亿美元 FDV。如果我们使用 Optimism 作为衡量标准来衡量 Arbitrum，我们会发现 Arbitrum 在几乎所有指标上都领先：
+
+
+
+
+
+Arbitrum 和 Optimism 都使用了 Quest 活动，通过向用户奖励 NFT 来激励其使用。虽然许多代币使用直接代币激励来吸引用户到他们的链上，但 Arbitrum 能够在不分发代币的情况下引导流动性。
+
+
+
+
+
+空投经常被操纵，Arbitrum 的分配模型中有超过 135,000 个钱包被识别为女巫。当 Optimism 的 Quests 于 1 月 17 日正式结束时，仅在 2 天内，Optimism 的每日交易量就从 602,000 下降了 72.5％，降至 165,000。
+
+
+
+
+
+尽管空投快照已经过去，但由于注入了流动性，空投投机者可能很快被替换，甚至可能变成真正的用户。这很可能会引起链上生态系统的狂热。
+
+
+今天，尽管空投已经结束，Arbitrum 的总锁定价值和每日交易量仍然达到历史新高。
+
+
+
+
+
+Arbitrum 已经接受了系统的「玩家」，以协调激励并创建真正的网络效应。
+
+
+随着生态系统的飞速增长，Arbitrum 有机会将空投投机者纳入到生态系统中，将他们的流动性注入回去。
+
+
+
+
+
+在去年夏天有关加密游戏的一份报告中，我们探讨了「元游戏」的模型。
+
+
+随着技能水平的提高，体验变得稀缺，竞争变得有意义，并且除核心游戏之外的货币化表面积增加。
+
+
+
+
+
+游戏货币化的道路始于人们对活动的关注，然后在其周围玩「元游戏」。
+
+
+
+
+
+同样地，从本质上来说，项目的推出可以被视为一个流动性「游戏」。
+
+
+其货币化路径始于人们关注流动性本身，然后利用最有意义的流动性元数据进行「元游戏」玩耍。
+
+
+
+
+
+因此，存在着超越核心游戏参与的巨大机会。空投是一个「元游戏」，可以由所有项目设计，以吸引更多用户加入，启动流动性。
+
+
+对于这种游戏设计，没有比 Arbitrum 更好的案例研究。
+
+
+
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirror也在用的Web3开发工具，融资近3000万美元的Thirdweb现在怎么样了？]]></title>
+        <id>https://www.theblockbeats.info/news/35891</id>
+        <link href="https://www.theblockbeats.info/news/35891"/>
+        <updated>2023-03-24T03:22:20.000Z</updated>
+        <summary type="html"><![CDATA[3 月 17 日，Thirdweb 在 Mirror 上公布了 Thirdweb genesis NFT 的免费铸造，铸造时间截至今晚 24 点。而 Mirror 推出的这个新功能 Subscribe to Mint，也正是基于 Thirdweb 提供的工具而搭建的。
+
+
+
+
+Thirdweb 旨在为开发人员提供了全栈式 Web3 开发工具包，开发者无需编写任何代码，即可构建、启动和管理自己的 Web3 项目，减少了大量的开发时间与成本。
+
+
+
+
+此前，Thirdweb 已经完成了 NBA 达拉斯独行侠队老板 Mark Cuban 和美国知名企业家 Gary Vaynerchuk 的 500 万美元种子轮融资，以及以 1.6 亿美元估值完成了由 Haun Ventures 领投，Coinbase Ventures、Shopify、Protocol Labs、Polygon、Shrug VC，Kleiner Perkins 合伙人等参投的 2400 万美元融资。(BlockBeats 注，更多关于 Thirdweb 此前的细节内容请阅读《开发工具平台 Thirdweb 能否成为 Web3 时代的 Shopify》）
+
+
+
+
+因为 Shopify 的投资和接入，为开发者创建各种产品提供预构建的智能合约以及 SDK 的 Thirdweb 一直备受关注，而在近半年的发展，Thirdweb 有了不小的进展。在讨论 Thirdweb 的进展之前，先让我们来讨论一下 Mirror 的新功能 Subscribe to Mint 是如何利用 Thirdweb 的技术的。
+
+
+
+
+哪些团队采用了 Thirdweb？
+
+
+
+
+Mirror
+
+
+
+
+Mirror 的新功能 Subscribe to Mint 称用一种新的方式，能帮助创作者们将自己订阅者们的身份转化成持有人，从而帮助创作者们创造出一…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用ZK技术构建Web3产品：部署、实施和改进]]></title>
+        <id>https://www.theblockbeats.info/news/35890</id>
+        <link href="https://www.theblockbeats.info/news/35890"/>
+        <updated>2023-03-24T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+利用 ZK 技术构建 Web3 产品：部署、实施和改进
+
+
+》
+原文作者：Mohamed Fouda
+
+
+原文编译：Lynn，MarsBit
+
+
+
+
+
+零知识证明（ZKP）正逐渐成为未来十年的一项根本性的变革技术。在 Web 3 中，该技术已经解决了可扩展性和隐私方面的主要瓶颈；这是令人兴奋的区块链的两个主要痛点。在可扩展性方面，几个 zk rollup，又称有效性 rollup，正在推出，将以太坊的规模扩大 10-100 倍，同时通过降低交易成本改善用户体验。在隐私方面，ZKP 正在超越私人交易和交易混合时代，扩展到更复杂和有用的领域，如私人链上交易、身份和验证证书。
+
+
+有很多关于 ZKP 的内容，包括我们自己的愿景，即 ZKP 空间在未来将如何发展，以及为实现这一未来需要哪些初创企业。但是，在如何从 ZKP 中获益以及从哪里开始的问题上，对建设者的教育仍然存在空白。本文努力填补这一空白，汇总重要资源，引导开发者了解 ZKP 在实践中如何运作，以及如何在其应用中使用 ZKP.
+
+
+在 Alliance，我们对 ZKP 带来的新用例特别兴奋。我们鼓励这一领域的建设者与我们联系，讨论他们的想法，并申请加入 Alliance 计划。
+
+
+ZKP 如何在实践中运作
+
+
+ZKP 的标准定义是：它是一个被称为证明者的一方向另一方（验证者）证明他们知道特定信息而不透露该特定信息的过程。在实践中，至少在 Web 3 中，ZKP 的使用方式往往不同。大多数应用程序不使用 ZKP 来显示专有数据的所有权。相反，ZKP 被用来通过可验证性来提高信任。我们期望 ZKP 在未来成为实体之间的标准信任模型。原因是，ZKP 的两个主要组成部分，即证明和验证，以一种能够在寻求信任的实体和其用户之间实现独特的互动方案的方式被分开。
+
+
+
+
+
+运行 ZKP 的主要组成部分是证明生成和证明验…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终点100万美元？比特币的贝塔纳指和数字黄金之争]]></title>
         <id>https://www.theblockbeats.info/news/35887</id>
@@ -1552,16 +1773,6 @@ zkAggregatorRollup 是一个专门的 ZK rollup，充当 zkFabric 和 zkQueryNet
 
 
 通过这种模块化架构，Brevis …]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum空投后的估值分析，能持有吗？]]></title>
-        <id>https://www.theblockbeats.info/news/35804</id>
-        <link href="https://www.theblockbeats.info/news/35804"/>
-        <updated>2023-03-21T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[除了总Token分配，初始供应分配的比较也有助于衡量初始抛压。ARB的初始供应在较高水平，类似于UNI。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
