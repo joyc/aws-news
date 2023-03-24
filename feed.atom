@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-24T06:09:45.462Z</updated>
+    <updated>2023-03-24T12:11:56.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[遭专业做空机构兴登堡狙击，Block难逃一劫？]]></title>
+        <id>https://www.theblockbeats.info/news/35942</id>
+        <link href="https://www.theblockbeats.info/news/35942"/>
+        <updated>2023-03-24T10:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Block正成为其下一个「新猎物」。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum空投的热潮之下，如何看反女巫机制？]]></title>
+        <id>https://www.theblockbeats.info/news/35918</id>
+        <link href="https://www.theblockbeats.info/news/35918"/>
+        <updated>2023-03-24T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[在3 月16 日晚空投之后，大批量“撸毛”的用户纷纷被一系列反女巫规则限制，今天，我们就来研究什么是反女巫规则。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从dYdX最新提案看社区治理和DAO的共识创建]]></title>
+        <id>https://www.theblockbeats.info/news/35920</id>
+        <link href="https://www.theblockbeats.info/news/35920"/>
+        <updated>2023-03-24T08:54:52.000Z</updated>
+        <summary type="html"><![CDATA[本文将以 dYdX 的数次重要转折为引，分析其社区治理思路的变化，总结 DAO 在共识建立等方面的挑战。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Ventures投资，10个值得关注的DeFi项目]]></title>
+        <id>https://www.theblockbeats.info/news/35919</id>
+        <link href="https://www.theblockbeats.info/news/35919"/>
+        <updated>2023-03-24T08:30:03.000Z</updated>
+        <summary type="html"><![CDATA[「大公司背书的项目通常都是潜力股」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前韩国加密之王被抓，韩美均寻求引渡]]></title>
+        <id>https://www.theblockbeats.info/news/35916</id>
+        <link href="https://www.theblockbeats.info/news/35916"/>
+        <updated>2023-03-24T07:02:18.000Z</updated>
+        <summary type="html"><![CDATA[LUNA创始人Do Kwon结束东躲西藏，最终在黑山被捕]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z对话Move语言之父：从编程语言说起，为何Move是未来智能合约的重要方向]]></title>
+        <id>https://www.theblockbeats.info/news/35912</id>
+        <link href="https://www.theblockbeats.info/news/35912"/>
+        <updated>2023-03-24T04:26:37.000Z</updated>
+        <summary type="html"><![CDATA[a16z Crypto团队与MystenLabs联合创始人兼CTO 、Move语言之父Sam Blackshear进行了深度对话，共同探讨为何Move是未来智能合约的重要方向。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以Arbitrum空投为例，探讨“元游戏”空投对生态建设的影响]]></title>
         <id>https://www.theblockbeats.info/news/35911</id>

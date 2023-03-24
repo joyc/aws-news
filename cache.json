@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35942",
+          "author": null,
+          "description": "Block正成为其下一个「新猎物」。",
+          "link": "https://www.theblockbeats.info/news/35942",
+          "publishedOn": "2023-03-24T10:47:07.000Z",
+          "wordCount": null,
+          "title": "遭专业做空机构兴登堡狙击，Block难逃一劫？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35918",
+          "author": null,
+          "description": "在3 月16 日晚空投之后，大批量“撸毛”的用户纷纷被一系列反女巫规则限制，今天，我们就来研究什么是反女巫规则。",
+          "link": "https://www.theblockbeats.info/news/35918",
+          "publishedOn": "2023-03-24T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Arbitrum空投的热潮之下，如何看反女巫机制？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35920",
+          "author": null,
+          "description": "本文将以 dYdX 的数次重要转折为引，分析其社区治理思路的变化，总结 DAO 在共识建立等方面的挑战。",
+          "link": "https://www.theblockbeats.info/news/35920",
+          "publishedOn": "2023-03-24T08:54:52.000Z",
+          "wordCount": null,
+          "title": "从dYdX最新提案看社区治理和DAO的共识创建",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35919",
+          "author": null,
+          "description": "「大公司背书的项目通常都是潜力股」",
+          "link": "https://www.theblockbeats.info/news/35919",
+          "publishedOn": "2023-03-24T08:30:03.000Z",
+          "wordCount": null,
+          "title": "Coinbase Ventures投资，10个值得关注的DeFi项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35916",
+          "author": null,
+          "description": "LUNA创始人Do Kwon结束东躲西藏，最终在黑山被捕",
+          "link": "https://www.theblockbeats.info/news/35916",
+          "publishedOn": "2023-03-24T07:02:18.000Z",
+          "wordCount": null,
+          "title": "前韩国加密之王被抓，韩美均寻求引渡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35912",
+          "author": null,
+          "description": "a16z Crypto团队与MystenLabs联合创始人兼CTO 、Move语言之父Sam Blackshear进行了深度对话，共同探讨为何Move是未来智能合约的重要方向。",
+          "link": "https://www.theblockbeats.info/news/35912",
+          "publishedOn": "2023-03-24T04:26:37.000Z",
+          "wordCount": null,
+          "title": "a16z对话Move语言之父：从编程语言说起，为何Move是未来智能合约的重要方向",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35911",
           "author": null,
           "description": "原文标题：\n\n\n\n以 Arbitrum 空投为例，探讨「元游戏」空投对生态建设的影响\n\n\n\n\n原文作者：Delphi Digital\n原文编译：深潮 TechFlow\n\n\n在不到 24 小时内，Arbitrum 可能会向加密生态系统注入数十亿美元：\n\n\n625,000 个钱包具有资格参与；\n交易量+总锁定价值创历史新高；\n它最接近的竞争对手的估值为 110 亿美元。\n\n\n\n\nArbitrum 的空投是去中心化的案例研究：\n\n\n\n\n\nArbitrum 通过推出其治理代币 $ARB 实现去中心化，以过渡到自我执行的 DAO 治理。其供应量的 12.75％，即 12.75 亿代币，将分配给 Arbitrum 社区成员和 Arbitrum 生态系统中的 DAO。\n\n\n\n\n\n将 Arbitrum 的治理去中心化是至关重要的，以确保随着基础层本身的升级，交易始终会汇总到标准的以太坊上。将治理决策权交给持有者确保了没有中心化的故障点。\n\n\n\n\n\nL2 解锁了以下实用性：\n\n快速的区块时间，可以有效地清算并为用户提供更高的杠杆限制；更便宜的计算使更广泛的活动和用户得以实现。\n去中心化永续交易所利用了这些功能。\n\n\n一个 L2 解锁的例子是 GMX，这是一个去中心化的永续和现货交易所。自在 Arbitrum 上推出以来，GMX 已经处理了超过 930 亿美元的交易量，并且最近在 TVL 方面创下了历史新高。\n\n\n$GMX 在这个熊市环境中的强势表现是一个罕见的成就。\n\n\n\n\n\nArbitrum 的最接近的竞争对手是 Optimism，它也是一个 L2，也可以将交易结算到以太坊。\n\n\n目前，$OP 的价值为 110 亿美元 FDV。如果我们使用 Optimism 作为衡量标准来衡量 Arbitrum，我们会发现 Arbitrum 在几乎所有指标上都领先：\n\n\n\n\n\nArbitrum 和 Optimism 都使用了 Quest 活动，通过向用户奖励 NFT 来激励其使用。虽然许多代币使用直接代币激励来吸引用户到他们的链上，但 Arbitrum 能够在不分发代币的情况下引导流动性。\n\n\n\n\n\n空投经常被操纵，Arbitrum 的分配模型中有超过 135,000 个钱包被识别为女巫。当 Optimism 的 Quests 于 1 月 17 日正式结束时，仅在 2 天内，Optimism 的每日交易量就从 602,000 下降了 72.5％，降至 165,000。\n\n\n\n\n\n尽管空投快照已经过去，但由于注入了流动性，空投投机者可能很快被替换，甚至可能变成真正的用户。这很可能会引起链上生态系统的狂热。\n\n\n今天，尽管空投已经结束，Arbitrum 的总锁定价值和每日交易量仍然达到历史新高。\n\n\n\n\n\nArbitrum 已经接受了系统的「玩家」，以协调激励并创建真正的网络效应。\n\n\n随着生态系统的飞速增长，Arbitrum 有机会将空投投机者纳入到生态系统中，将他们的流动性注入回去。\n\n\n\n\n\n在去年夏天有关加密游戏的一份报告中，我们探讨了「元游戏」的模型。\n\n\n随着技能水平的提高，体验变得稀缺，竞争变得有意义，并且除核心游戏之外的货币化表面积增加。\n\n\n\n\n\n游戏货币化的道路始于人们对活动的关注，然后在其周围玩「元游戏」。\n\n\n\n\n\n同样地，从本质上来说，项目的推出可以被视为一个流动性「游戏」。\n\n\n其货币化路径始于人们关注流动性本身，然后利用最有意义的流动性元数据进行「元游戏」玩耍。\n\n\n\n\n\n因此，存在着超越核心游戏参与的巨大机会。空投是一个「元游戏」，可以由所有项目设计，以吸引更多用户加入，启动流动性。\n\n\n对于这种游戏设计，没有比 Arbitrum 更好的案例研究。\n\n\n\n\n\n原文链接",
