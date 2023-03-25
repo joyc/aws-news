@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35947",
+          "author": null,
+          "description": "生成式AI公司想要实现差异化的唯一方法是将所有权和控制权交给用户。",
+          "link": "https://www.theblockbeats.info/news/35947",
+          "publishedOn": "2023-03-25T07:14:24.000Z",
+          "wordCount": null,
+          "title": "AI大爆发，生成式AI如何与Web3结合？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35946",
+          "author": null,
+          "description": "HOPE是一种加密原生的分布式稳定币，首先专注于成为DeFi、CeFi与TradFi通用的重要抵押品，并最终转变为全球支付工具。",
+          "link": "https://www.theblockbeats.info/news/35946",
+          "publishedOn": "2023-03-25T04:38:42.000Z",
+          "wordCount": null,
+          "title": "HOPE创始人Flex详解HOPE生态与经济模型",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35945",
           "author": null,
           "description": "Particle Network旨在提高开发者的开发效率并加速Web3的大规模采用。其核心产品是基于MPC-TSS技术的登录和钱包中间件。",

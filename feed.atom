@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-25T06:09:05.754Z</updated>
+    <updated>2023-03-25T12:11:36.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI大爆发，生成式AI如何与Web3结合？]]></title>
+        <id>https://www.theblockbeats.info/news/35947</id>
+        <link href="https://www.theblockbeats.info/news/35947"/>
+        <updated>2023-03-25T07:14:24.000Z</updated>
+        <summary type="html"><![CDATA[生成式AI公司想要实现差异化的唯一方法是将所有权和控制权交给用户。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOPE创始人Flex详解HOPE生态与经济模型]]></title>
+        <id>https://www.theblockbeats.info/news/35946</id>
+        <link href="https://www.theblockbeats.info/news/35946"/>
+        <updated>2023-03-25T04:38:42.000Z</updated>
+        <summary type="html"><![CDATA[HOPE是一种加密原生的分布式稳定币，首先专注于成为DeFi、CeFi与TradFi通用的重要抵押品，并最终转变为全球支付工具。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ABCDE：我们为什么领投Web3开发平台Particle Network？]]></title>
         <id>https://www.theblockbeats.info/news/35945</id>
