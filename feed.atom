@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-25T00:35:29.736Z</updated>
+    <updated>2023-03-25T06:09:05.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ABCDE：我们为什么领投Web3开发平台Particle Network？]]></title>
+        <id>https://www.theblockbeats.info/news/35945</id>
+        <link href="https://www.theblockbeats.info/news/35945"/>
+        <updated>2023-03-25T01:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Particle Network旨在提高开发者的开发效率并加速Web3的大规模采用。其核心产品是基于MPC-TSS技术的登录和钱包中间件。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沉寂两年重出江湖，ChatGPT创始人的加密项目Worldcoin有哪些新定位？]]></title>
+        <id>https://www.theblockbeats.info/news/35917</id>
+        <link href="https://www.theblockbeats.info/news/35917"/>
+        <updated>2023-03-25T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[从Sam Altman未来科技观出发，了解Worldcoin的宏大叙事“从何而来”并“将向何去”。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解读 GambleFi，是否因 Layer2而再次兴盛？]]></title>
         <id>https://www.theblockbeats.info/news/35914</id>

@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35945",
+          "author": null,
+          "description": "Particle Network旨在提高开发者的开发效率并加速Web3的大规模采用。其核心产品是基于MPC-TSS技术的登录和钱包中间件。",
+          "link": "https://www.theblockbeats.info/news/35945",
+          "publishedOn": "2023-03-25T01:25:16.000Z",
+          "wordCount": null,
+          "title": "ABCDE：我们为什么领投Web3开发平台Particle Network？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35917",
+          "author": null,
+          "description": "从Sam Altman未来科技观出发，了解Worldcoin的宏大叙事“从何而来”并“将向何去”。",
+          "link": "https://www.theblockbeats.info/news/35917",
+          "publishedOn": "2023-03-25T01:00:01.000Z",
+          "wordCount": null,
+          "title": "沉寂两年重出江湖，ChatGPT创始人的加密项目Worldcoin有哪些新定位？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35914",
           "author": null,
           "description": "原文标题：《解读GambleFi，是否因Layer2而再次兴盛？》\n原文作者：雨中狂睡，\n\n深潮 TechFlow\n\n\n\n\n\n\n\n\n\n\n\n当以太坊不再被性能与效率所拖累，哪些领域最可能爆发？\n\n\nGambleFi（去中心化赌场）或许是一个相对小众却又叙事庞大的回答。\n\n\n推动 GambleFi 发展的主要原因是传统世界中对赌场的普遍担忧——黑箱操作，即出老千。赌客们会担心自己的对手方或者赌场以作弊的手段为自己谋得不正当利益，部署在区块链上则能较好解决这个问题。\n\n\n由区块链技术驱动的公开透明、可验证性和无许可的特性将使得 GambleFi 成为更具吸引力的互联网赌场设施，赌博的公平性和隐私性也能够得以保障。\n\n\n曾经，在 EOS 繁荣的赌博生态给我留下了深刻印象。但 EOS 上的赌博 Dapp 与如今的 GambleFi 叙事是截然不同的：\n\n\n发展潜力：虽然赌博 Dapp 们建立在 EOS 之上，尽管手续费便宜，但是 EOS 操作体验不佳，手续繁琐。最终，历史也已经给到我们答案——随着 EOS 的没落，上面的应用也逐渐消失在了区块链的历史长河之中。而以太坊 Layer2 有着更加优质肥沃的土壤，有更多的用户基础和更好的交互体验。\n\n\n真实收益：GambleFi 另一个值得称道的地方在于其顺应了真实收益叙事的趋势。这为 GambleFi 引入了新的增量用户——投资者。除了参与协议的赌客之外，看好 GambleFi 的投资者也可以通过购买协议代币和质押协议代币的方式来获得分红，可扩展性更高的代币经济学而这也是 EOS 上赌博 Dapp 无法比拟的。\n\n\n接下来，我们就来简单介绍一下一些建立在以太坊 Layer2 Arbitrum 之上的 GambleFi 协议。\n\n\nArcadeum $ARC\n\n\nArcadeum 是一款基于 Arbitrum 部署的 GambleFi，为赌…",
