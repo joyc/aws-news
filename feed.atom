@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-26T00:39:33.636Z</updated>
+    <updated>2023-03-26T06:08:20.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -630,16 +630,6 @@ ZKP 的标准定义是：它是一个被称为证明者的一方向另一方（�
 
 
 运行 ZKP 的主要组成部分是证明生成和证明验…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终点100万美元？比特币的贝塔纳指和数字黄金之争]]></title>
-        <id>https://www.theblockbeats.info/news/35887</id>
-        <link href="https://www.theblockbeats.info/news/35887"/>
-        <updated>2023-03-23T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[比特币再一次成为货币体系危机下的避风港。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
