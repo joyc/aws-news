@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35981",
+          "author": null,
+          "description": "原文标题：《Galaxy万字详述MEV供应链及去中心化路径》\n原文来源：Foresight News\n \n要点\n \n自 MEV-Boost 创建以来，MEV 供应链变得更加复杂，MEV-Boost 是以太坊上 PoS 验证者用于赚取 MEV 的标准化软件；\n\n\n新的利益相关者，被称为区块构建者（builders），负责构建一个完整的区块，他们通过优化区块包含的交易，以最大限度地提高小费和 MEV 的回报；\n\n\n区块构建者开发专有模型来模拟区块并通过称为中继器（relays）的链下 MEV 市场进行有效的传播；\n\n\n由于成为构建者所需的专业技能，人们担心从长远来看，构建者的格局将变得中心化；\n\n\n为了对抗构建者中心化的负面网络效应，以太坊开发人员和 Flashbots 团队正在讨论几种潜在的解决方案，例如审查抵制列表、部分区块拍卖和 SUAVE。\n \n简介\n \n2022 年 1 月 1 日至 2022 年 12 月 31 日期间，以太坊实现了 1.33 亿美元的最大可提取价值（MEV）。（下表中的数据包含 Flashbots 根据一种在以太坊上识别 MEV 的新方法获得的数据，数字可能与 Galaxy Research 去年 MEV 报告中的数据不同）。\n \n\n \n与去年同期相比，2022 年的 MEV 收入总量明显低于 2021 年，原因之一是熊市导致以太坊上的 DeFi 活动急剧下降。此外，MEV 搜索者（searchers）之间的竞争加剧也提高了 DeFi 市场的效率，从而降低了 MEV 的利润率。直到第三季度末，大部分 MEV 收益都归于以太坊矿工。然而，在合并激活后，大部分 MEV 收益开始给到验证者，因为验证者取代矿工成为了网络的主要安全提供者和区块提议者。\n \n截至 2022 年 12 月，大约 80% 的以太坊验证者通过称为 MEV-Boost 的第三方中立软…",
+          "link": "https://www.theblockbeats.info/news/35981",
+          "publishedOn": "2023-03-27T14:00:02.000Z",
+          "wordCount": null,
+          "title": "Galaxy万字详述MEV供应链及去中心化路径",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35987",
+          "author": null,
+          "description": "原文标题：《L2 Summer 将至？一文掌握 StarkNet 技术原理及生态》\n原文来源：\n\n「Biteye」社区\n\n\n\n1. Layer2 Summer 的前奏  \n\n\nArbitrum 的 DeFi 生态已初具规模，其发放空投的决定更是让自身坐稳 Layer2 生态头把交椅。自发布空投规则到开启认领，Arbitrum One 的 TVL 已经占据整个 layer2 生态的 66.61%，活跃用户在两周内暴涨四十万。 \n\n\n\n\n （数据来源：https://l2beat.com/scaling/tvl）  \n\n\n\n\n（数据来源：https://dune.com/Henrystats/arbitrum-metrics）\n\n\n曾经的 layer2 四大天王：Optimism、Arbitrum、zkSync、StarkNet，已仅剩后两者没有宣布空投。Optimism 和 Arbitrum 先后实践了生态积累 + 空投抢用户的打法，结果已经在 Layer2 生态的市场份额中得到体现。随着 Layer2 生态愈发成熟，加之 EIP-4844 将大幅降低 Rollup 费用，抢占用户将成为 Layer2 制胜的核心因素。在现行的市场格局下，留给 zkSync 和 StarkNet 抢占市场时间已经不多，项目间的竞争和用户的 fomo 带来的财富效应已经让 Layer2 Summer 呼之欲出。\n\n\n（注：EIP-4844 是对以太坊网络的一次改进提案，有望将 Rollup 的开销降低 10-100 倍。它将向以太坊引入一种新的交易类型，这种交易类型可以携带短暂存在的被称为 blob 的数据。之前以 Calldata 形式存储的数据可用性可以改为由 blob 进行存储，而 blob 的存储成本比 calldata 便宜得多。在用户体验层面，用户最直观的感知就是 L2 费用大幅降低…",
+          "link": "https://www.theblockbeats.info/news/35987",
+          "publishedOn": "2023-03-27T10:02:18.000Z",
+          "wordCount": null,
+          "title": "L2 Summer将至？一文掌握StarkNet技术原理及生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35982",
+          "author": null,
+          "description": "原文表填：《Messari：深度分析 Arbitrum 的繁荣生态》\n原文来源：Foresight News\n\n\n近几个月来，Arbitrum 凭借其创新技术和强大的社区驱动生态系统而成为顶级的以太坊扩容解决方案。现在，备受期待的 $ARB \n\nToken\n\n空投为该网络带来了一个在其早期成功的基础上进一步发展的机会。本报告提供了你所需要知道的有关 Arbitrum 的一切，包括其生态系统分析及其在以太坊扩容解决方案竞争中的定位。\n\n\n\n\nArbitrum 网络概述\n\n\n\n\nArbitrum 是第 2 层 (L2) 以太坊扩展解决方案，具有两个通用的 optimistic rolluups。Arbitrum One 是旗舰 rollup，推动了生态系统的大部分采用，而 Arbitrum Nova 是为高吞吐量应用程序构建的较新 rollup。\n\n\n\n\nArbitrum One 于 2021 年 8 月下旬推出，在每日活跃地址、每日交易和累计合约部署方面已成为领先的以太坊 rollup。此外，其 Bridge 合约持有约 100 万个 ETH，使其成为以太坊合约的第七大 ETH 持有者。\n\n\n\n\n\n\n\n\n\nArbitrum One 于 2022 年 8 月下旬采用了 Arbitrum 的 Nitro 技术堆栈。Nitro 没有依赖定制的 Arbitrum 虚拟机进行低级代码组装，而是使用 WebAssembly (Wasm)。这一变化允许 rollup 直接使用 Go Ethereum 的 EVM 实现，并对应于更低的费用、更好的以太坊兼容性和更大的简单性。\n\n\n\n\n在推出时，Arbitrum One 在最近成为当今领先的以太坊扩展解决方案之前经历了一段缓慢增长的时期。它的最好增长体现在其在智能合约平台（不包括以太坊）中的总价值锁定（TVL）的相对份额中。\n\n\n\n\n\n\n\n\n\n…",
+          "link": "https://www.theblockbeats.info/news/35982",
+          "publishedOn": "2023-03-27T09:21:06.000Z",
+          "wordCount": null,
+          "title": "深度分析Arbitrum的繁荣生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35976",
+          "author": null,
+          "description": "原文标题：《\n\n提供 ARB 流动性收益哪家强？Kyber、Traderjoe、Uniswap、Camelot LP 收益率对比\n\n》\n原文来源：\n\n深潮 TechFlow\n\n\n\n作者列出了几个提供 ARB 流动性的 DEX，包括 KyberNetwork、Trader Joe、Uniswap 和 Camelot，并分别给出了它们的收益比较结果。值得注意的是，这些平台之间的生态系统和激励措施不尽相同，因此他们的收益也有所不同。在此基础上，作者还详细解释了一些聚合器如何在这些 DEX 之间路由交换，以及他们的优缺点。\n\n\n• KyberNetwork ：5866％\n• Traderjoe ：571％\n• Uniswap ：315％\n• Camelot ：207％\n\n\n以下是一些详细信息。\n\n\n\n\n\nKyberSwap 拥有最高的收益率，为 5866％，并且此收益率没有受到激励措施的影响。\n\n\n我以 588% 的 APR 为 5% 的费用层池增加了流动性，我希望额外的空投会比产生的差异更高。\n\n\n\n\n\nTrader Joe 激励池的收益比那些没有额外奖励的池要低。人们想要获得更多的 $JOE 奖励，而不是从费用中赚取收益。\n\n\n\n\n\nUniswap 在没有任何额外激励的情况下排名第三。人们更信任和习惯于使用 Uniswap，而且 LPs 愿意获得较少的产量，只要能留在他们习惯的平台上。\n\n\n\n\n\nCamelot 的收益率最低。看起来有很多人喜欢简单的仓位管理，即使获得更少的奖励。\n\n\n\n\n\n但是聚合器如何在这些 DEX 之间路由交换？我进入了 DefiLlama 的元 DEX 聚合器，以查看 100 $ ETH 交换的最佳路径。\n它将我引导至 Kyber 聚合器。\n\n\n\n\n\nKyberSwap 自己的 DEX 聚合器只有约 2.8％通过其自己的池进行路由，其余 97％则通过 Uniswap 进行路由。\n\n\n\n\n\n为了使实验更清晰，我决定检查 1inch 如何路由相同的交易。这次交易中有 5％通过 KyberSwap 进行路由，10％通过 Trader Joe 路由，其余 85％通过 Uniswap 进行路由。\n\n\n\n\n\n这表明，具有集中流动性的 DEX 是最有效的交易方式，流动性才是王道。\n\n\n虽然其他 DEX 在竞争中彼此提供额外激励来吸引 LP，但 Uniswap 没有任何努力就拥有了大部分 TVL 和交易量。低效的 DEX，如 Camelot 对于那些不想积极管理其仓位并通过额外激励获得更高奖励的人来说是不错的选择。\n\n\n*注意：在 KyberSwap 上的池子显示的 APR 是基于 30 分钟产生的费用（而不是 24 小时）。\n\n\n\n\n\nKS 上的 5% 费用层池只有在 $ARB 现货价格与本轮投票中的 $ARB 价格之间的差异 > 5% 时才会有交易量。\n\n\n\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/35976",
+          "publishedOn": "2023-03-27T08:04:43.000Z",
+          "wordCount": null,
+          "title": "提供ARB流动性收益哪家强？Kyber、Traderjoe、Uniswap、Camelot LP收益率对比",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35975",
+          "author": null,
+          "description": "3 月 24 日，zkSync 宣布主网「zkSync Era」将以无许可的方式全面开放，供所有人使用，开发人员、项目方和用户现在都可以建立和桥接资金来体验 zkEVM 的强大功能，也标志着 zkSync Era 和以太坊达成了一个重要里程碑。",
+          "link": "https://www.theblockbeats.info/news/35975",
+          "publishedOn": "2023-03-27T07:43:29.000Z",
+          "wordCount": null,
+          "title": "zkSync Era∎主网发布，官方解读四大叙事亮点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35970",
+          "author": null,
+          "description": "介绍Trader Joe添加流动性的六种常用方式：Spot-Concentraded，Spot-Spread，Spot-UltraWide，Wide，Curved，Bid-Ask。",
+          "link": "https://www.theblockbeats.info/news/35970",
+          "publishedOn": "2023-03-27T05:57:03.000Z",
+          "wordCount": null,
+          "title": "两周翻倍，Trader Joe做流动性有什么优势？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35969",
           "author": null,
           "description": "原文标题：《解密 Etherscan：年赚千万美元，区块链浏览器背后的生意经》\n原文作者：Launchy 深潮 TechFlow\n\n\nEtherscan 是一个帮助用户浏览以太坊区块链的工具，更常被称为区块链浏览器，每月有 8000 万次的访问量。一直以来，Etherscan 是加密货币领域中最受欢迎和广泛使用的工具之一。\n\n\n借助 Etherscan，用户可以轻松地分析以太坊区块链上的区块交易。通过该平台，所有人都能够享受到区块链技术的核心原则之一：透明度。从在链上调查可疑的「Rug」行为的侦探到监视大规模资金流动的交易者，Etherscan 为我们提供了必要的工具来更好地了解区块幕后发生了什么。\n\n\nEtherscan 没有Token。虽然它在加密 Web3.0 生态系统的核心运作，但 Etherscan 被认为更像是「传统的 SaaS 业务」，并不完全是本地化的区块链应用。它只是为用户提供了更好地理解区块链交易的工具。\n\n\n自 2015 年成立以来，Etherscan 已成为首选的区块链浏览器。到 2023 年，Etherscan 已扩展到 18 个以上的区块链。\n\n\n\n\n\n\nEtherscan 如何赚钱？\n\n\nEtherscan 像许多其他软件公司一样，通过提供服务来创造收入。尽管 Etherscan 也提供了一些 B2B 产品，但它主要是一个 B2C 业务。不过，广告成为 Etherscan 创收的一个重要因素。\n\n\n在更高的层面上，Etherscan 从以下方面产生收入：\n\n\nSaaS：Etherscan 提供主要为 B2B 的 SaaS 服务，例如构建区块浏览器即服务（他们称之为 EaaS）。\n\n\nAPI 计划：Etherscan 提供 API 计划以访问其数据，价格从免费到每月 399 美元不等，并有未公开的企业定价。\n\n\n广告：Etherscan 有 5 …",
@@ -73,36 +133,6 @@
           "publishedOn": "2023-03-25T07:14:24.000Z",
           "wordCount": null,
           "title": "AI大爆发，生成式AI如何与Web3结合？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35946",
-          "author": null,
-          "description": "HOPE是一种加密原生的分布式稳定币，首先专注于成为DeFi、CeFi与TradFi通用的重要抵押品，并最终转变为全球支付工具。",
-          "link": "https://www.theblockbeats.info/news/35946",
-          "publishedOn": "2023-03-25T04:38:42.000Z",
-          "wordCount": null,
-          "title": "HOPE创始人Flex详解HOPE生态与经济模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35945",
-          "author": null,
-          "description": "Particle Network旨在提高开发者的开发效率并加速Web3的大规模采用。其核心产品是基于MPC-TSS技术的登录和钱包中间件。",
-          "link": "https://www.theblockbeats.info/news/35945",
-          "publishedOn": "2023-03-25T01:25:16.000Z",
-          "wordCount": null,
-          "title": "ABCDE：我们为什么领投Web3开发平台Particle Network？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35917",
-          "author": null,
-          "description": "从Sam Altman未来科技观出发，了解Worldcoin的宏大叙事“从何而来”并“将向何去”。",
-          "link": "https://www.theblockbeats.info/news/35917",
-          "publishedOn": "2023-03-25T01:00:01.000Z",
-          "wordCount": null,
-          "title": "沉寂两年重出江湖，ChatGPT创始人的加密项目Worldcoin有哪些新定位？",
           "imageUrl": null
         }
       ]
