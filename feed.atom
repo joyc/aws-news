@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-27T18:10:37.491Z</updated>
+    <updated>2023-03-28T00:38:12.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解读CFTC起诉文件，Binance是下一个TikTok吗？]]></title>
+        <id>https://www.theblockbeats.info/news/35991</id>
+        <link href="https://www.theblockbeats.info/news/35991"/>
+        <updated>2023-03-27T16:52:18.000Z</updated>
+        <summary type="html"><![CDATA[分析解读CFTC对Binance长达 74 页的起诉书。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC起诉Binance文件梳理：违反美国交易法，不认可Binance的合规]]></title>
+        <id>https://www.theblockbeats.info/news/35990</id>
+        <link href="https://www.theblockbeats.info/news/35990"/>
+        <updated>2023-03-27T16:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Binance 及其 CEO CZ 因涉嫌违反交易和衍生品规则而被美国商品期货交易委员会CFTC起诉。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy万字详述MEV供应链及去中心化路径]]></title>
         <id>https://www.theblockbeats.info/news/35981</id>
@@ -462,36 +482,6 @@ ARB Token 就要开始交易了，拿到空投的用户如何组建单边 LP？�
 
 
 本站 Aribtrum 发行 Token，设置了女巫审查，再次带火精品账号话题。目前阶段，空投猎人成为女巫攻击的一种新形式，这些账号通过有目的地与智能合约和协议交互，以猎取大量的空投 Token 份额。这就需要以一种新的去中心化 KYC 方式，在不牺牲隐私和去中心化的情况下证明你的真实身份，即「你是你」的证明，这就是 At…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos Grant DAO季度回顾，盘点其中值得关注的早期优质项目]]></title>
-        <id>https://www.theblockbeats.info/news/35949</id>
-        <link href="https://www.theblockbeats.info/news/35949"/>
-        <updated>2023-03-25T10:35:19.000Z</updated>
-        <summary type="html"><![CDATA[盘点Aptos Grant DAO第一轮和第二轮中的优质项目。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美军究竟在用区块链做什么？]]></title>
-        <id>https://www.theblockbeats.info/news/35948</id>
-        <link href="https://www.theblockbeats.info/news/35948"/>
-        <updated>2023-03-25T09:58:36.000Z</updated>
-        <summary type="html"><![CDATA[太空碎片NFT、战斗机机翼注册、3D打印零件识别，美军已开始享受区块链的便利。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI大爆发，生成式AI如何与Web3结合？]]></title>
-        <id>https://www.theblockbeats.info/news/35947</id>
-        <link href="https://www.theblockbeats.info/news/35947"/>
-        <updated>2023-03-25T07:14:24.000Z</updated>
-        <summary type="html"><![CDATA[生成式AI公司想要实现差异化的唯一方法是将所有权和控制权交给用户。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

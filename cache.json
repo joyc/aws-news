@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35991",
+          "author": null,
+          "description": "分析解读CFTC对Binance长达 74 页的起诉书。",
+          "link": "https://www.theblockbeats.info/news/35991",
+          "publishedOn": "2023-03-27T16:52:18.000Z",
+          "wordCount": null,
+          "title": "解读CFTC起诉文件，Binance是下一个TikTok吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35990",
+          "author": null,
+          "description": "Binance 及其 CEO CZ 因涉嫌违反交易和衍生品规则而被美国商品期货交易委员会CFTC起诉。",
+          "link": "https://www.theblockbeats.info/news/35990",
+          "publishedOn": "2023-03-27T16:24:06.000Z",
+          "wordCount": null,
+          "title": "CFTC起诉Binance文件梳理：违反美国交易法，不认可Binance的合规",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35981",
           "author": null,
           "description": "原文标题：《Galaxy万字详述MEV供应链及去中心化路径》\n原文来源：Foresight News\n \n要点\n \n自 MEV-Boost 创建以来，MEV 供应链变得更加复杂，MEV-Boost 是以太坊上 PoS 验证者用于赚取 MEV 的标准化软件；\n\n\n新的利益相关者，被称为区块构建者（builders），负责构建一个完整的区块，他们通过优化区块包含的交易，以最大限度地提高小费和 MEV 的回报；\n\n\n区块构建者开发专有模型来模拟区块并通过称为中继器（relays）的链下 MEV 市场进行有效的传播；\n\n\n由于成为构建者所需的专业技能，人们担心从长远来看，构建者的格局将变得中心化；\n\n\n为了对抗构建者中心化的负面网络效应，以太坊开发人员和 Flashbots 团队正在讨论几种潜在的解决方案，例如审查抵制列表、部分区块拍卖和 SUAVE。\n \n简介\n \n2022 年 1 月 1 日至 2022 年 12 月 31 日期间，以太坊实现了 1.33 亿美元的最大可提取价值（MEV）。（下表中的数据包含 Flashbots 根据一种在以太坊上识别 MEV 的新方法获得的数据，数字可能与 Galaxy Research 去年 MEV 报告中的数据不同）。\n \n\n \n与去年同期相比，2022 年的 MEV 收入总量明显低于 2021 年，原因之一是熊市导致以太坊上的 DeFi 活动急剧下降。此外，MEV 搜索者（searchers）之间的竞争加剧也提高了 DeFi 市场的效率，从而降低了 MEV 的利润率。直到第三季度末，大部分 MEV 收益都归于以太坊矿工。然而，在合并激活后，大部分 MEV 收益开始给到验证者，因为验证者取代矿工成为了网络的主要安全提供者和区块提议者。\n \n截至 2022 年 12 月，大约 80% 的以太坊验证者通过称为 MEV-Boost 的第三方中立软…",
@@ -103,36 +123,6 @@
           "publishedOn": "2023-03-26T07:00:01.000Z",
           "wordCount": null,
           "title": "周末荐读：Do Kwon被捕、美联储加息靴子落地以及Arbitrum空投后的机会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35949",
-          "author": null,
-          "description": "盘点Aptos Grant DAO第一轮和第二轮中的优质项目。",
-          "link": "https://www.theblockbeats.info/news/35949",
-          "publishedOn": "2023-03-25T10:35:19.000Z",
-          "wordCount": null,
-          "title": "Aptos Grant DAO季度回顾，盘点其中值得关注的早期优质项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35948",
-          "author": null,
-          "description": "太空碎片NFT、战斗机机翼注册、3D打印零件识别，美军已开始享受区块链的便利。",
-          "link": "https://www.theblockbeats.info/news/35948",
-          "publishedOn": "2023-03-25T09:58:36.000Z",
-          "wordCount": null,
-          "title": "美军究竟在用区块链做什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35947",
-          "author": null,
-          "description": "生成式AI公司想要实现差异化的唯一方法是将所有权和控制权交给用户。",
-          "link": "https://www.theblockbeats.info/news/35947",
-          "publishedOn": "2023-03-25T07:14:24.000Z",
-          "wordCount": null,
-          "title": "AI大爆发，生成式AI如何与Web3结合？",
           "imageUrl": null
         }
       ]
