@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-28T00:38:12.593Z</updated>
+    <updated>2023-03-28T06:10:13.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[跨越牛熊周期的勇士：加密做市商]]></title>
+        <id>https://www.theblockbeats.info/news/35994</id>
+        <link href="https://www.theblockbeats.info/news/35994"/>
+        <updated>2023-03-28T04:36:34.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Huobi Research
+
+
+摘要
+
+
+传统金融做市商业务从 19 世纪初期开始萌芽，到现在呈现出发展成熟、交易品种多元、业务和收益相对稳定的特点。做市商作为金融市场上重要的参与者，在提供市场流动性和市场效率方面发挥了其独特的作用。随着市场规模的不断扩大，越来越多的机构和投行也加入了做市业务，并成为其重要的收入来源。整体市场做市业务也向头部聚集，竞争激烈。为了抢占市场和客户，市商在算法、技术、风控、合规上不断升级，也逐渐涉及加密领域。
+
+
+加密市场做市商业务与传统金融相比，在本质上区别不大。但是运作模式、技术、风险管理和监管上却有天壤之别。首先，在市场规模方面，加密市场相对于传统金融市场还比较小，加密行业市商规模也相对较小。加密市场的流动性相对较低，波动较大，做市商需要更加谨慎做好风险管理；其次，在加密市场的做市商团队也称为庄家。因为加密市场的交易过程很难被监管，也没有严格的做市商制度来约束。交易平台、项目方与市商之间的关系变得更加复杂。然后，市商业务不仅仅在中心化
+
+交易平台
+
+产生，还涉及链上做市，并以此为基础开始出现一些为做市服务的中间件和协议；最后一点是，在技术架构方面，加密行业需要具备更高的技术能力，保证交易的安全性。
+
+
+加密市场做市业务是一片蓝海，给予每个投资人机会但也伴随着风险。目前，美国的证券交易委员会（SEC）和商品期货交易委员会（CFTC）对加密市场监管趋严，很多机构和业务都受到影响。再加上熊市行情，大型机构暴雷现象频发，对市商的风险管理更具有挑战性。除此之外，加密做市商还面临市场碎片化/互操作性、资本效率低下、监管不确定性以及仍在改进的交换技术/连通性等问题。
+
+
+即使如此，加密市商仍然有很大的发展和盈利空间。加密做市商在未来也会呈现一些传统金融做市商的发展特点：（1）做市参与者逐渐多元化；（2）做市品种多元化；（3）业务杠杆高；（4）…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CZ回应监管起诉全文：没有其他公司的系统比Binance更全面有效]]></title>
+        <id>https://www.theblockbeats.info/news/35993</id>
+        <link href="https://www.theblockbeats.info/news/35993"/>
+        <updated>2023-03-28T03:55:42.000Z</updated>
+        <summary type="html"><![CDATA[「不同意诉讼中所指控的许多问题的表述，将继续尊重美国和世界各地的监管机构并与之合作。」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读美国Web3的金融监管架构]]></title>
+        <id>https://www.theblockbeats.info/news/35992</id>
+        <link href="https://www.theblockbeats.info/news/35992"/>
+        <updated>2023-03-28T03:35:19.000Z</updated>
+        <summary type="html"><![CDATA[美国对 Web3 数字资产呈现「多头监管」的态势，并由美国联邦和州这两个层面共同监管。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解读CFTC起诉文件，Binance是下一个TikTok吗？]]></title>
         <id>https://www.theblockbeats.info/news/35991</id>
