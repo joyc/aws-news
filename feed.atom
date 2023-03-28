@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-28T12:14:03.275Z</updated>
+    <updated>2023-03-28T18:09:25.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[融资4000万美元，获得软银等投资机构青睐的LandVault有何来头？]]></title>
+        <id>https://www.theblockbeats.info/news/36024</id>
+        <link href="https://www.theblockbeats.info/news/36024"/>
+        <updated>2023-03-28T13:20:34.000Z</updated>
+        <summary type="html"><![CDATA[LandVault为何能获得软银、The Sandbox 和 Kingsway Capital 等投资机构青睐？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARB交易大放异彩，揭秘Trade Joe V2]]></title>
         <id>https://www.theblockbeats.info/news/36022</id>
