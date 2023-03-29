@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36038",
+          "author": null,
+          "description": "原文标题：《走向模块化区块链未来之路：Rollups-as-a-Service 揭秘》\n原文来源：Biteye \n\n\n\n\n\n\n\n\n我们之前已经讨论过未来数百万个区块链的样子，一些是通用的公链，但其中绝大多数是用于特定的应用程序，即应用链。\n\n\n模块化区块链的出现、以太坊以 rollup 为中心的愿景，以及 Vitalik 在他的《Endgame》一文中为了可扩展性而承认的中心化，几乎使这种未来愿景成为必然。\n\n\n所以我们得出了合乎逻辑的结论，即未来将有数百万个用于特定应用程序的模块化链——但它们是如何构建的呢？当然是通过 Rollups-as-a-Service (RaaS)！\n\n\n许多应用程序团队不想考虑运行基础架构。就像 AWS 如何抽象化托管服务器的复杂性一样，RaaS 项目也在为建立和维护区块链做同样的事情。\n\n\n在不久的将来，部署新链就像创建新网页或扩展和缩小应用程序那样简单，就像我们现在通过 Docker 容器和 Kubernetes 所做的一样。\n仅在过去的 6 个月里，我们就看到了 RaaS 项目的大量公告——为轻量级、可配置的 rollup 构建少量代码产品。\n\n\n下面我会介绍一些当前使用模块化区块链解决方案，即 RaaS 项目的详尽列表。\n\n\n\n\n\n\n\n\n\n\n\n\n01 相关项目介绍\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOG：Cosmos 和 Substrate\n\n\n\n\nCosmos SDK 和 Substrate SDK 已经存在多年，它们允许开发人员创建自己的主权链（因此在技术上不是模块化的），或者在 Substrate 中，通过作为平行链连接到 Polkadot 中继链以共享安全性。\n\n\n\n\nAlt-L1s（替代性 L1 公链）\n\n\n\n\nPolygon 和 Avalanche 是 2021 年初 Alt-L1 叙事的热门项目。它们建立了模块化框架的原型：Po…",
+          "link": "https://www.theblockbeats.info/news/36038",
+          "publishedOn": "2023-03-29T14:00:01.000Z",
+          "wordCount": null,
+          "title": "走向模块化区块链未来之路：Rollups-as-a-Service揭秘",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36055",
           "author": null,
           "description": "原文标题：《多生态 LSD 发展报告：赛道很宏伟，项目很早期》\n原文来源：\n\nwaynezhang.eth\n\n\n\n上周，我们发布了 LSDFi 生态 /LSDFi War 报告以及上海升级给 LSD 带来的影响的报告，但无论是选择的项目还是思考的背景都是以太坊。这是因为仅以太坊流动性质押带来的资金量就超过 140 亿美元。\n\n\n而今天这篇报告则要探究一下其他公链生态的 LSD 发展情况及玩法，并从数据端观察其他生态 LSD 发展情况，发展趋势，数据背后对 LSD 行业影响，以及关于 LSD 产品设计，正义性的讨论。本次调研公链将包括：BNB Chain，Cardano，Polygon，Solana，Polkadot，Avalanche，Cosmos，Aptos（按照 Coingecko MC 排序前 25 名的部分公链）。\n\n\n\n\n\n\n\nBNB Chain\n\n\n\n\nBNB 目前的质押状态跟以太坊类似，质押率为 15.44%（以太坊约为 15.43%），且目前质押平均年化收益约为 2.84%，收益较低。其中 BNB Chain 最大的去中心化质押平台 Ankr，约占流通量的的 0.56%。\n\n\n\n\n\n\n\n\n\nBNB Chain 的 LSD 发展慢的原因我认为有以下几点：\n\n\n\n\n1. BNB 原生 DeFi 协议收益性，从 DeFillama 数据中可以看到，仅涉及 BNB 的 337 个交易对中，超过平均年化收益率就占 80%，更何况链上的多种 DeFi 协议，相信绝大部分都是远超质押收益率\n\n\n\n\n2.BNB 效用\n\n\n\n\n BNB 也是 Binance 交易所的平台Token，持有 BNB 放置在交易所可以获得手续费折扣以及其他服务。\n\n\n\n\n 同时 Binance 有自己专门的 Launchpad 等服务，这吸引用户将手中的 BNB 放在钱包或者交易所，以最近的 Sp…",
@@ -293,46 +303,6 @@
           "publishedOn": "2023-03-27T07:43:29.000Z",
           "wordCount": null,
           "title": "zkSync Era∎主网发布，官方解读四大叙事亮点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35970",
-          "author": null,
-          "description": "介绍Trader Joe添加流动性的六种常用方式：Spot-Concentraded，Spot-Spread，Spot-UltraWide，Wide，Curved，Bid-Ask。",
-          "link": "https://www.theblockbeats.info/news/35970",
-          "publishedOn": "2023-03-27T05:57:03.000Z",
-          "wordCount": null,
-          "title": "两周翻倍，Trader Joe做流动性有什么优势？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35969",
-          "author": null,
-          "description": "原文标题：《解密 Etherscan：年赚千万美元，区块链浏览器背后的生意经》\n原文作者：Launchy 深潮 TechFlow\n\n\nEtherscan 是一个帮助用户浏览以太坊区块链的工具，更常被称为区块链浏览器，每月有 8000 万次的访问量。一直以来，Etherscan 是加密货币领域中最受欢迎和广泛使用的工具之一。\n\n\n借助 Etherscan，用户可以轻松地分析以太坊区块链上的区块交易。通过该平台，所有人都能够享受到区块链技术的核心原则之一：透明度。从在链上调查可疑的「Rug」行为的侦探到监视大规模资金流动的交易者，Etherscan 为我们提供了必要的工具来更好地了解区块幕后发生了什么。\n\n\nEtherscan 没有Token。虽然它在加密 Web3.0 生态系统的核心运作，但 Etherscan 被认为更像是「传统的 SaaS 业务」，并不完全是本地化的区块链应用。它只是为用户提供了更好地理解区块链交易的工具。\n\n\n自 2015 年成立以来，Etherscan 已成为首选的区块链浏览器。到 2023 年，Etherscan 已扩展到 18 个以上的区块链。\n\n\n\n\n\n\nEtherscan 如何赚钱？\n\n\nEtherscan 像许多其他软件公司一样，通过提供服务来创造收入。尽管 Etherscan 也提供了一些 B2B 产品，但它主要是一个 B2C 业务。不过，广告成为 Etherscan 创收的一个重要因素。\n\n\n在更高的层面上，Etherscan 从以下方面产生收入：\n\n\nSaaS：Etherscan 提供主要为 B2B 的 SaaS 服务，例如构建区块浏览器即服务（他们称之为 EaaS）。\n\n\nAPI 计划：Etherscan 提供 API 计划以访问其数据，价格从免费到每月 399 美元不等，并有未公开的企业定价。\n\n\n广告：Etherscan 有 5 …",
-          "link": "https://www.theblockbeats.info/news/35969",
-          "publishedOn": "2023-03-27T05:31:57.000Z",
-          "wordCount": null,
-          "title": "以Etherscan为例，揭开区块链浏览器的收益之路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35960",
-          "author": null,
-          "description": "在过去两个月，加密行业在快速发展，我们见到了行业的诸多成果：\n\n\n\n\n· 以太坊上海升级有序进行，完成了测试网升级的准备工作；\n\n\n\n\n· Layer2 发展超出预期，在 1 月 Arbitrum 的单日转账次数曾经短暂超过了主网转账次数，以 scroll 为代表的 zk rollup 也有重大的版本更新距离主网更进一步；\n\n\n\n\n· 链上数据保持平稳，1、2 月链上交易数据均在 160~170b 之间徘徊；\n\n\n\n\n· BTC 生态迎来快速增长，Ordinals NFT 带来 Taproot 采用率从 1.7% 上升至最近的约 10% 附近；\n\n\n\n\n· 多链生态 Cosmos 也迎来了快速增长，Lamada 9 升级 即将通过，多链生态基础设施快速成长。\n\n\n\n\nOKX Ventures 在过去 2 个月内也一直保持对行业的关注，持续看好 zk 生态、LSD 赛道、多链互联和存储赛道，出手投资了 Scroll、Diva、LayerZero、zkPass 和 Permaweb 等项目。\n\n\n \nScroll 投资逻辑：\n\n\n\n\nScroll 的定位是做 EVM 等效的 zk-Rollup，也是 Vitalik 在介绍 4 种 zkEVM 中的举例的 Type 2 的 zkEVM 项目。OKX Ventures 战略投资了 scroll，scroll 最近进展非常不错，PreAlpha 测试网在第一周收到了 30 万个以上的独立地址，在 1 月底收到了 60 万个以上的独立地址，每天有 40 万个以上的 tx。\n\n\n\n\n从开发者的角度，scroll 是 EVM 等效的 zk-Rollup，可以实现与以太坊字节码级别的兼容性。另外，scroll 是用以太坊作为原生的数据可用层。\n\n\n\n\nScroll 和很多应用程序和工具兼容，且从技术角度看，Scroll 正在用他们的解决方案…",
-          "link": "https://www.theblockbeats.info/news/35960",
-          "publishedOn": "2023-03-27T04:29:04.000Z",
-          "wordCount": null,
-          "title": "OKX Ventures投资月报：持续看好ZK生态、LSD赛道、多链互联和存储赛道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35953",
-          "author": null,
-          "description": "原文标题：《\n\nLayerZero热门项目撸毛教程汇总\n\n》\n原文作者： 深潮 TechFlow\n\n\n这篇文章旨在写明 LayerZero交互的整体流程，以作为空投猎人们的参考。\n\n\n一：交互 Stargate Finance\n\n\nStargate Finance 是 LayerZero 上的第一个项目，也是目前最热门的交互项目，成为 Stargate Finance 的 DAO 成员来获得 LeyerZero 空投资格。\n\n\n1. 从 Uniswap 或币安等任何平台购买 STG\n\n\nBNB 合约地址：0xb0d502e938ed5f4df2e681fe6e419ff29631d62b\nETH 合约地址：0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6\n\n\n推荐质押在 ETH 上\n\n\n2. 前往 Stargate Finance官网质押，连接钱包后质押 STG Token即可获得投票权（Voting Power），查看 veSTG 余额和锁仓时间。\n\n\n\n\n\n3. 访问 StargateDAO 界面Snapshot，选择左边「加入」，参与治理进行投票。目前所有投票已关闭，可以关注官方的社群和账号等待新的投票消息。\n\n\n\n\n\n4. 使用 Stargate 桥进行跨链，每天一次，持续五天。每月进行 5 次跨链行为。\n\n\n二：测试网交互\n\n\n要做的是 ETH 测试网 Goerli 和雪崩的交互。交互不用自己花钱，先去水龙头领水，就是领测试币，一天领一次。在官方的 Circle 跨链桥测试网，在 CONNECT 按钮下面可以查看到三个水龙头入口：Faucet USDC、Faucet ETH和Faucet AVAX。\n\n\n\n\n\n1.Faucet USDC\n\n\n先在网页上选择 ETH 网络，将小狐狸钱包切换到该网络，然后填入钱包地址，进行人机验证，…",
-          "link": "https://www.theblockbeats.info/news/35953",
-          "publishedOn": "2023-03-27T03:27:35.000Z",
-          "wordCount": null,
-          "title": "LayerZero热门项目交互教程汇总",
           "imageUrl": null
         }
       ]
