@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36063",
+          "author": null,
+          "description": "原文标题：《\n\nETH 2.0 和 LSDFi 建立的国债和 Cryptopia\n\n》\n\n原文来源：OnePiece Research\n\n\n从 LSD 火热至今，有很多优秀文章对 LSD 和 DVT 机制做了讲解：LidoFinance 的先发优势和潜在风险，以及 v2 将会给 Lido 带来的质变。SSV Network 作为 LSD 底层架构捕获价值的能力与其技术门槛。Frax Finance 对流动性和收益性平衡的创新。LSD 质押凭证的高抵押率循环借贷带来的高资金利用率。Eigenlayer 的 Re-Staking 为 ETH 质押收益带来新源头，也为项目安全性提供保证。\n\n\n\n\n本文将从另一个角度切入，给 LSD 赛道提出一个新方向。首先本文对当前 LSD 项目 (非 DVT 和 Re-Staking) 进行了 Mapping，对现有质押机制进行了简单归类。\n\n\n\n\n\n\n\n\n市场份额为图片项目内 Staked ETH 占所有 Staked ETH 比例  \n\n\n\n\n\nETH2.0 质押数据\n\n\nETH2.0 质押的上线为链上带来了如国债一般稳定且可信的收益来源，当前 apr 为 4.7%。由于 ETH2.0 质押奖励来自于 Gas fee、MEV 和 ZK 证明等，所以只要 ETH 还在运行，那么这个奖励就一定存在，只会因为质押节点增加而相对减少收益率。因此，鉴于 ETH 在所有公链的统治率，ETH2.0 质押可以说是如国债般的存在。所以我们可以借鉴国债的机制和吸储方案来提供未来 LSD 的发展方向。\n\n\n当前 LSD 方案  \n\n\n本文根据各类 LSD 项目的特性，总结了当前 LSD 的 5 种方案：\n\n\n1.Binance 和 Coinbase 等 CEX 为用户提供的中心托管方案：  \n\n\n中心化交易所收集用户 ETH，自己搭建/委托第三方组件验证节点，中…",
+          "link": "https://www.theblockbeats.info/news/36063",
+          "publishedOn": "2023-03-30T04:44:24.000Z",
+          "wordCount": null,
+          "title": "ETH 2.0和LSDFi建立的国债和Cryptopia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36062",
+          "author": null,
+          "description": "Blur带来的改变，是为NFT引入流动性，大户更容易参与了，短期看，缺点是巨鲸操控价格/floor波动剧烈。",
+          "link": "https://www.theblockbeats.info/news/36062",
+          "publishedOn": "2023-03-30T04:01:55.000Z",
+          "wordCount": null,
+          "title": "观点：为何说Blur减半收益执行推迟，更符合长期发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36039",
+          "author": null,
+          "description": "以太坊上海升级在即，LSD 赛道或爆发？",
+          "link": "https://www.theblockbeats.info/news/36039",
+          "publishedOn": "2023-03-30T01:00:01.000Z",
+          "wordCount": null,
+          "title": "剖析当前市场顶级LSD协议优势与风险",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36038",
           "author": null,
           "description": "原文标题：《走向模块化区块链未来之路：Rollups-as-a-Service 揭秘》\n原文来源：Biteye \n\n\n\n\n\n\n\n\n我们之前已经讨论过未来数百万个区块链的样子，一些是通用的公链，但其中绝大多数是用于特定的应用程序，即应用链。\n\n\n模块化区块链的出现、以太坊以 rollup 为中心的愿景，以及 Vitalik 在他的《Endgame》一文中为了可扩展性而承认的中心化，几乎使这种未来愿景成为必然。\n\n\n所以我们得出了合乎逻辑的结论，即未来将有数百万个用于特定应用程序的模块化链——但它们是如何构建的呢？当然是通过 Rollups-as-a-Service (RaaS)！\n\n\n许多应用程序团队不想考虑运行基础架构。就像 AWS 如何抽象化托管服务器的复杂性一样，RaaS 项目也在为建立和维护区块链做同样的事情。\n\n\n在不久的将来，部署新链就像创建新网页或扩展和缩小应用程序那样简单，就像我们现在通过 Docker 容器和 Kubernetes 所做的一样。\n仅在过去的 6 个月里，我们就看到了 RaaS 项目的大量公告——为轻量级、可配置的 rollup 构建少量代码产品。\n\n\n下面我会介绍一些当前使用模块化区块链解决方案，即 RaaS 项目的详尽列表。\n\n\n\n\n\n\n\n\n\n\n\n\n01 相关项目介绍\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOG：Cosmos 和 Substrate\n\n\n\n\nCosmos SDK 和 Substrate SDK 已经存在多年，它们允许开发人员创建自己的主权链（因此在技术上不是模块化的），或者在 Substrate 中，通过作为平行链连接到 Polkadot 中继链以共享安全性。\n\n\n\n\nAlt-L1s（替代性 L1 公链）\n\n\n\n\nPolygon 和 Avalanche 是 2021 年初 Alt-L1 叙事的热门项目。它们建立了模块化框架的原型：Po…",
@@ -233,36 +263,6 @@
           "publishedOn": "2023-03-28T03:35:19.000Z",
           "wordCount": null,
           "title": "解读美国Web3的金融监管架构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35991",
-          "author": null,
-          "description": "分析解读CFTC对Binance长达 74 页的起诉书。",
-          "link": "https://www.theblockbeats.info/news/35991",
-          "publishedOn": "2023-03-27T16:52:18.000Z",
-          "wordCount": null,
-          "title": "解读CFTC起诉文件，Binance是下一个TikTok吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35990",
-          "author": null,
-          "description": "Binance 及其 CEO CZ 因涉嫌违反交易和衍生品规则而被美国商品期货交易委员会CFTC起诉。",
-          "link": "https://www.theblockbeats.info/news/35990",
-          "publishedOn": "2023-03-27T16:24:06.000Z",
-          "wordCount": null,
-          "title": "CFTC起诉Binance文件梳理：违反美国交易法，不认可Binance的合规",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35981",
-          "author": null,
-          "description": "原文标题：《Galaxy万字详述MEV供应链及去中心化路径》\n原文来源：Foresight News\n \n要点\n \n自 MEV-Boost 创建以来，MEV 供应链变得更加复杂，MEV-Boost 是以太坊上 PoS 验证者用于赚取 MEV 的标准化软件；\n\n\n新的利益相关者，被称为区块构建者（builders），负责构建一个完整的区块，他们通过优化区块包含的交易，以最大限度地提高小费和 MEV 的回报；\n\n\n区块构建者开发专有模型来模拟区块并通过称为中继器（relays）的链下 MEV 市场进行有效的传播；\n\n\n由于成为构建者所需的专业技能，人们担心从长远来看，构建者的格局将变得中心化；\n\n\n为了对抗构建者中心化的负面网络效应，以太坊开发人员和 Flashbots 团队正在讨论几种潜在的解决方案，例如审查抵制列表、部分区块拍卖和 SUAVE。\n \n简介\n \n2022 年 1 月 1 日至 2022 年 12 月 31 日期间，以太坊实现了 1.33 亿美元的最大可提取价值（MEV）。（下表中的数据包含 Flashbots 根据一种在以太坊上识别 MEV 的新方法获得的数据，数字可能与 Galaxy Research 去年 MEV 报告中的数据不同）。\n \n\n \n与去年同期相比，2022 年的 MEV 收入总量明显低于 2021 年，原因之一是熊市导致以太坊上的 DeFi 活动急剧下降。此外，MEV 搜索者（searchers）之间的竞争加剧也提高了 DeFi 市场的效率，从而降低了 MEV 的利润率。直到第三季度末，大部分 MEV 收益都归于以太坊矿工。然而，在合并激活后，大部分 MEV 收益开始给到验证者，因为验证者取代矿工成为了网络的主要安全提供者和区块提议者。\n \n截至 2022 年 12 月，大约 80% 的以太坊验证者通过称为 MEV-Boost 的第三方中立软…",
-          "link": "https://www.theblockbeats.info/news/35981",
-          "publishedOn": "2023-03-27T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Galaxy万字详述MEV供应链及去中心化路径",
           "imageUrl": null
         }
       ]

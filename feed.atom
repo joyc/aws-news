@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-03-30T00:37:40.004Z</updated>
+    <updated>2023-03-30T06:10:09.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETH 2.0和LSDFi建立的国债和Cryptopia]]></title>
+        <id>https://www.theblockbeats.info/news/36063</id>
+        <link href="https://www.theblockbeats.info/news/36063"/>
+        <updated>2023-03-30T04:44:24.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+ETH 2.0 和 LSDFi 建立的国债和 Cryptopia
+
+》
+
+原文来源：OnePiece Research
+
+
+从 LSD 火热至今，有很多优秀文章对 LSD 和 DVT 机制做了讲解：LidoFinance 的先发优势和潜在风险，以及 v2 将会给 Lido 带来的质变。SSV Network 作为 LSD 底层架构捕获价值的能力与其技术门槛。Frax Finance 对流动性和收益性平衡的创新。LSD 质押凭证的高抵押率循环借贷带来的高资金利用率。Eigenlayer 的 Re-Staking 为 ETH 质押收益带来新源头，也为项目安全性提供保证。
+
+
+
+
+本文将从另一个角度切入，给 LSD 赛道提出一个新方向。首先本文对当前 LSD 项目 (非 DVT 和 Re-Staking) 进行了 Mapping，对现有质押机制进行了简单归类。
+
+
+
+
+
+
+
+
+市场份额为图片项目内 Staked ETH 占所有 Staked ETH 比例  
+
+
+
+
+
+ETH2.0 质押数据
+
+
+ETH2.0 质押的上线为链上带来了如国债一般稳定且可信的收益来源，当前 apr 为 4.7%。由于 ETH2.0 质押奖励来自于 Gas fee、MEV 和 ZK 证明等，所以只要 ETH 还在运行，那么这个奖励就一定存在，只会因为质押节点增加而相对减少收益率。因此，鉴于 ETH 在所有公链的统治率，ETH2.0 质押可以说是如国债般的存在。所以我们可以借鉴国债的机制和吸储方案来提供未来 LSD 的发展方向。
+
+
+当前 LSD 方案  
+
+
+本文根据各类 LSD 项目的特性，总结了当前 LSD 的 5 种方案：
+
+
+1.Binance 和 Coinbase 等 CEX 为用户提供的中心托管方案：  
+
+
+中心化交易所收集用户 ETH，自己搭建/委托第三方组件验证节点，中…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点：为何说Blur减半收益执行推迟，更符合长期发展]]></title>
+        <id>https://www.theblockbeats.info/news/36062</id>
+        <link href="https://www.theblockbeats.info/news/36062"/>
+        <updated>2023-03-30T04:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Blur带来的改变，是为NFT引入流动性，大户更容易参与了，短期看，缺点是巨鲸操控价格/floor波动剧烈。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剖析当前市场顶级LSD协议优势与风险]]></title>
+        <id>https://www.theblockbeats.info/news/36039</id>
+        <link href="https://www.theblockbeats.info/news/36039"/>
+        <updated>2023-03-30T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[以太坊上海升级在即，LSD 赛道或爆发？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[走向模块化区块链未来之路：Rollups-as-a-Service揭秘]]></title>
         <id>https://www.theblockbeats.info/news/36038</id>
@@ -761,63 +835,6 @@ EigenLabs 此前已完成 1450 万美元种子轮融资，Polychain Capital 与 
         <link href="https://www.theblockbeats.info/news/35992"/>
         <updated>2023-03-28T03:35:19.000Z</updated>
         <summary type="html"><![CDATA[美国对 Web3 数字资产呈现「多头监管」的态势，并由美国联邦和州这两个层面共同监管。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读CFTC起诉文件，Binance是下一个TikTok吗？]]></title>
-        <id>https://www.theblockbeats.info/news/35991</id>
-        <link href="https://www.theblockbeats.info/news/35991"/>
-        <updated>2023-03-27T16:52:18.000Z</updated>
-        <summary type="html"><![CDATA[分析解读CFTC对Binance长达 74 页的起诉书。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC起诉Binance文件梳理：违反美国交易法，不认可Binance的合规]]></title>
-        <id>https://www.theblockbeats.info/news/35990</id>
-        <link href="https://www.theblockbeats.info/news/35990"/>
-        <updated>2023-03-27T16:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Binance 及其 CEO CZ 因涉嫌违反交易和衍生品规则而被美国商品期货交易委员会CFTC起诉。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy万字详述MEV供应链及去中心化路径]]></title>
-        <id>https://www.theblockbeats.info/news/35981</id>
-        <link href="https://www.theblockbeats.info/news/35981"/>
-        <updated>2023-03-27T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Galaxy万字详述MEV供应链及去中心化路径》
-原文来源：Foresight News
- 
-要点
- 
-自 MEV-Boost 创建以来，MEV 供应链变得更加复杂，MEV-Boost 是以太坊上 PoS 验证者用于赚取 MEV 的标准化软件；
-
-
-新的利益相关者，被称为区块构建者（builders），负责构建一个完整的区块，他们通过优化区块包含的交易，以最大限度地提高小费和 MEV 的回报；
-
-
-区块构建者开发专有模型来模拟区块并通过称为中继器（relays）的链下 MEV 市场进行有效的传播；
-
-
-由于成为构建者所需的专业技能，人们担心从长远来看，构建者的格局将变得中心化；
-
-
-为了对抗构建者中心化的负面网络效应，以太坊开发人员和 Flashbots 团队正在讨论几种潜在的解决方案，例如审查抵制列表、部分区块拍卖和 SUAVE。
- 
-简介
- 
-2022 年 1 月 1 日至 2022 年 12 月 31 日期间，以太坊实现了 1.33 亿美元的最大可提取价值（MEV）。（下表中的数据包含 Flashbots 根据一种在以太坊上识别 MEV 的新方法获得的数据，数字可能与 Galaxy Research 去年 MEV 报告中的数据不同）。
- 
-
- 
-与去年同期相比，2022 年的 MEV 收入总量明显低于 2021 年，原因之一是熊市导致以太坊上的 DeFi 活动急剧下降。此外，MEV 搜索者（searchers）之间的竞争加剧也提高了 DeFi 市场的效率，从而降低了 MEV 的利润率。直到第三季度末，大部分 MEV 收益都归于以太坊矿工。然而，在合并激活后，大部分 MEV 收益开始给到验证者，因为验证者取代矿工成为了网络的主要安全提供者和区块提议者。
- 
-截至 2022 年 12 月，大约 80% 的以太坊验证者通过称为 MEV-Boost 的第三方中立软…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
