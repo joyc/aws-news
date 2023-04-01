@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36117",
+          "author": null,
+          "description": "原文标题：《\n\nRevisiting Aggregation Theory\n\n》\n原文作者：Joel John\n原文编译：Kxp，BlockBeats\n\n\n一年前，我们撰文讨论了 Web3 时代的聚合理论。在 Web 2.0 时代，聚合器受益于降低的分发成本并汇集了众多服务提供商。亚马逊、优步和抖音这样的平台依靠数以百计的供应商、创作者或驾驶员为用户提供的服务或价值而收益颇丰。同时，用户也获得了无尽的选择。对于创作者来说，规模才是关键。我之所以选择在推特上发推文而不是 Lens，是因为我的粉丝都主要集中在推特上。\n\n\n\n\nWeb3 中的聚合器可以通过检查链上数据更轻松地查看资产价格或找到它们的列表位置。在过去的一年里，大多数聚合器都致力于整合链上数据集，并使其易于用户使用。这些数据可能与价格、收益、NFT 或资产桥接途径有关。\n\n\n\n\n当时的假设是，那些作为聚合器接口快速扩张的公司将建立垄断地位。我当时特别提到了 Nansen、Gem 和 Zerion 作为例子。然而，讽刺的是，回顾过去的一年，我的假设并不准确——这也是我今天想探讨的事情。\n\n\n武器化 Token\n\n\n\n\n不要误会我的意思。Gem 几个月后被 OpenSea 收购。Nansen 融资 7500 万美元，Zerion 则在 10 月进行了 1200 万美元的融资。因此，从投资者的角度来看，我的假设是正确的。这些产品各自在其领域都是佼佼者，但促使我撰写这篇文章的是，我预测的相对垄断地位并未实现。相反，它们在过去的一年里都面临了竞争对手的涌现。这在新兴领域是一个理想的特征。\n\n\n那么，在过去的几年里发生了什么呢？正如我在《版税之争》中所写的，Gem（以及 OpenSea）的相对垄断地位在 Blur 进入市场后受到了威胁。同样，Arkham Intelligence 结合了令人兴奋的用户界面、可能的 Token 发…",
+          "link": "https://www.theblockbeats.info/news/36117",
+          "publishedOn": "2023-04-01T04:51:58.000Z",
+          "wordCount": null,
+          "title": "解析聚合器赛道现状：Li.Fi有哪些优势？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36114",
+          "author": null,
+          "description": "原文标题：《\n\n解读以太坊 POS 工作原理：Epoch、Slot 与信标区块\n\n》\n原文来源：ETH中文\n\n\n使用权益证明的以太坊的独特性在于参与者数量的最大化设计。它允许成百上千和成千上万的验证者活跃地参与决策过程。在笔者撰文时已经有大约 50 万的验证者实体（从协议的角度而言）在活跃地参与这个过程。\n\n\n事实上，在约 384 秒（6 分 24 秒）内，所有活跃中的验证者将有机会投下一票或提议一个区块。在约 384 秒内至少有 50 万条信息广播，而且所有信息必须在严格的时间范围内传递。据我所知，没有其他共识协议被设计来处理如此活跃和庞大的共识参与者集。\n\n\n至于通信模型方面，共识协议是为以下三种情况之一设计的（通常）：\n\n\n同步通信 一个普遍同意和已知的信息传递超时时间。异步通信信息传递所需时间没有上限，但它最终会被发送。部分同步通信 在大多数情况下，都有一个已知的超时时间，但零星的事件可能会破坏信息传递，时间长短不一。\n\n\n大多数现代共识协议都是为部分同步通信而设计的，因为它假设大部分时间条件良好，但由于事件可能会在短时间内中断通信，所以存在不可预测的时期。另一方面，值得注意的是，权益证明的以太坊是为同步通信设计的。\n\n\n题外话--Casper FFG 是为部分同步通信而设计的，但 LMD-GHOST 的严格计时条件迫使整个系统必须同步。我们将在今后的文章中解释什么是 Casper 和 LMD-GHOST。\n\n\n它假定在绝大多数的验证者中几乎没有中断，而且所有的信息必须在固定的最后期限前被记录在信标区块链上，这些信息才能被计入/使用。如果出现中断，导致信息延迟传递，那么发送者将根据其延迟程度而招致惩罚。在最坏的情况下，如果错过了最后期限，那么消息将被忽略，信息发送者将受到不活跃的最大惩罚。惩罚政策将在未来的文章中介绍。\n\n\n为了更好地理解同步通信模型，我们涵盖了 E…",
+          "link": "https://www.theblockbeats.info/news/36114",
+          "publishedOn": "2023-04-01T01:00:01.000Z",
+          "wordCount": null,
+          "title": "解读以太坊POS工作原理：Epoch、Slot 与信标区块",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36113",
           "author": null,
           "description": "EIP-4361本身并不是如账户抽象、上海升级这类影响巨大的事件，它更多的是建立一种规范的行业标准。",
@@ -223,16 +243,6 @@
           "publishedOn": "2023-03-30T01:00:01.000Z",
           "wordCount": null,
           "title": "剖析当前市场顶级LSD协议优势与风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36038",
-          "author": null,
-          "description": "原文标题：《走向模块化区块链未来之路：Rollups-as-a-Service 揭秘》\n原文来源：Biteye \n\n\n\n\n\n\n\n\n我们之前已经讨论过未来数百万个区块链的样子，一些是通用的公链，但其中绝大多数是用于特定的应用程序，即应用链。\n\n\n模块化区块链的出现、以太坊以 rollup 为中心的愿景，以及 Vitalik 在他的《Endgame》一文中为了可扩展性而承认的中心化，几乎使这种未来愿景成为必然。\n\n\n所以我们得出了合乎逻辑的结论，即未来将有数百万个用于特定应用程序的模块化链——但它们是如何构建的呢？当然是通过 Rollups-as-a-Service (RaaS)！\n\n\n许多应用程序团队不想考虑运行基础架构。就像 AWS 如何抽象化托管服务器的复杂性一样，RaaS 项目也在为建立和维护区块链做同样的事情。\n\n\n在不久的将来，部署新链就像创建新网页或扩展和缩小应用程序那样简单，就像我们现在通过 Docker 容器和 Kubernetes 所做的一样。\n仅在过去的 6 个月里，我们就看到了 RaaS 项目的大量公告——为轻量级、可配置的 rollup 构建少量代码产品。\n\n\n下面我会介绍一些当前使用模块化区块链解决方案，即 RaaS 项目的详尽列表。\n\n\n\n\n\n\n\n\n\n\n\n\n01 相关项目介绍\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOG：Cosmos 和 Substrate\n\n\n\n\nCosmos SDK 和 Substrate SDK 已经存在多年，它们允许开发人员创建自己的主权链（因此在技术上不是模块化的），或者在 Substrate 中，通过作为平行链连接到 Polkadot 中继链以共享安全性。\n\n\n\n\nAlt-L1s（替代性 L1 公链）\n\n\n\n\nPolygon 和 Avalanche 是 2021 年初 Alt-L1 叙事的热门项目。它们建立了模块化框架的原型：Po…",
-          "link": "https://www.theblockbeats.info/news/36038",
-          "publishedOn": "2023-03-29T14:00:01.000Z",
-          "wordCount": null,
-          "title": "走向模块化区块链未来之路：Rollups-as-a-Service揭秘",
           "imageUrl": null
         }
       ]
