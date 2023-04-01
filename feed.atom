@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-01T12:10:45.447Z</updated>
+    <updated>2023-04-01T18:08:06.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkSync Era∎主网上线，你需要知道这些]]></title>
+        <id>https://www.theblockbeats.info/news/36119</id>
+        <link href="https://www.theblockbeats.info/news/36119"/>
+        <updated>2023-04-01T13:04:00.000Z</updated>
+        <summary type="html"><![CDATA[「zkSync Era的上线标志着加密正式进入zkEVM时代」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解析聚合器赛道现状：Li.Fi有哪些优势？]]></title>
         <id>https://www.theblockbeats.info/news/36117</id>
@@ -922,80 +932,6 @@ https://docs.sui.io/build/prog-trans-ts-sdk 
 
 
 这种强大的结构可以将一系列交易——splitCoin mergeCoins transferObjects moveCall makeMoveVe…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH 2.0和LSDFi建立的国债和Cryptopia]]></title>
-        <id>https://www.theblockbeats.info/news/36063</id>
-        <link href="https://www.theblockbeats.info/news/36063"/>
-        <updated>2023-03-30T04:44:24.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-ETH 2.0 和 LSDFi 建立的国债和 Cryptopia
-
-》
-
-原文来源：OnePiece Research
-
-
-从 LSD 火热至今，有很多优秀文章对 LSD 和 DVT 机制做了讲解：LidoFinance 的先发优势和潜在风险，以及 v2 将会给 Lido 带来的质变。SSV Network 作为 LSD 底层架构捕获价值的能力与其技术门槛。Frax Finance 对流动性和收益性平衡的创新。LSD 质押凭证的高抵押率循环借贷带来的高资金利用率。Eigenlayer 的 Re-Staking 为 ETH 质押收益带来新源头，也为项目安全性提供保证。
-
-
-
-
-本文将从另一个角度切入，给 LSD 赛道提出一个新方向。首先本文对当前 LSD 项目 (非 DVT 和 Re-Staking) 进行了 Mapping，对现有质押机制进行了简单归类。
-
-
-
-
-
-
-
-
-市场份额为图片项目内 Staked ETH 占所有 Staked ETH 比例  
-
-
-
-
-
-ETH2.0 质押数据
-
-
-ETH2.0 质押的上线为链上带来了如国债一般稳定且可信的收益来源，当前 apr 为 4.7%。由于 ETH2.0 质押奖励来自于 Gas fee、MEV 和 ZK 证明等，所以只要 ETH 还在运行，那么这个奖励就一定存在，只会因为质押节点增加而相对减少收益率。因此，鉴于 ETH 在所有公链的统治率，ETH2.0 质押可以说是如国债般的存在。所以我们可以借鉴国债的机制和吸储方案来提供未来 LSD 的发展方向。
-
-
-当前 LSD 方案  
-
-
-本文根据各类 LSD 项目的特性，总结了当前 LSD 的 5 种方案：
-
-
-1.Binance 和 Coinbase 等 CEX 为用户提供的中心托管方案：  
-
-
-中心化交易所收集用户 ETH，自己搭建/委托第三方组件验证节点，中…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观点：为何说Blur减半收益执行推迟，更符合长期发展]]></title>
-        <id>https://www.theblockbeats.info/news/36062</id>
-        <link href="https://www.theblockbeats.info/news/36062"/>
-        <updated>2023-03-30T04:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Blur带来的改变，是为NFT引入流动性，大户更容易参与了，短期看，缺点是巨鲸操控价格/floor波动剧烈。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剖析当前市场顶级LSD协议优势与风险]]></title>
-        <id>https://www.theblockbeats.info/news/36039</id>
-        <link href="https://www.theblockbeats.info/news/36039"/>
-        <updated>2023-03-30T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[以太坊上海升级在即，LSD 赛道或爆发？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36119",
+          "author": null,
+          "description": "「zkSync Era的上线标志着加密正式进入zkEVM时代」",
+          "link": "https://www.theblockbeats.info/news/36119",
+          "publishedOn": "2023-04-01T13:04:00.000Z",
+          "wordCount": null,
+          "title": "zkSync Era∎主网上线，你需要知道这些",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36117",
           "author": null,
           "description": "原文标题：《\n\nRevisiting Aggregation Theory\n\n》\n原文作者：Joel John\n原文编译：Kxp，BlockBeats\n\n\n一年前，我们撰文讨论了 Web3 时代的聚合理论。在 Web 2.0 时代，聚合器受益于降低的分发成本并汇集了众多服务提供商。亚马逊、优步和抖音这样的平台依靠数以百计的供应商、创作者或驾驶员为用户提供的服务或价值而收益颇丰。同时，用户也获得了无尽的选择。对于创作者来说，规模才是关键。我之所以选择在推特上发推文而不是 Lens，是因为我的粉丝都主要集中在推特上。\n\n\n\n\nWeb3 中的聚合器可以通过检查链上数据更轻松地查看资产价格或找到它们的列表位置。在过去的一年里，大多数聚合器都致力于整合链上数据集，并使其易于用户使用。这些数据可能与价格、收益、NFT 或资产桥接途径有关。\n\n\n\n\n当时的假设是，那些作为聚合器接口快速扩张的公司将建立垄断地位。我当时特别提到了 Nansen、Gem 和 Zerion 作为例子。然而，讽刺的是，回顾过去的一年，我的假设并不准确——这也是我今天想探讨的事情。\n\n\n武器化 Token\n\n\n\n\n不要误会我的意思。Gem 几个月后被 OpenSea 收购。Nansen 融资 7500 万美元，Zerion 则在 10 月进行了 1200 万美元的融资。因此，从投资者的角度来看，我的假设是正确的。这些产品各自在其领域都是佼佼者，但促使我撰写这篇文章的是，我预测的相对垄断地位并未实现。相反，它们在过去的一年里都面临了竞争对手的涌现。这在新兴领域是一个理想的特征。\n\n\n那么，在过去的几年里发生了什么呢？正如我在《版税之争》中所写的，Gem（以及 OpenSea）的相对垄断地位在 Blur 进入市场后受到了威胁。同样，Arkham Intelligence 结合了令人兴奋的用户界面、可能的 Token 发…",
@@ -213,36 +223,6 @@
           "publishedOn": "2023-03-30T06:22:39.000Z",
           "wordCount": null,
           "title": "Sui Network永久测试网上线，更新了哪些重要功能？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36063",
-          "author": null,
-          "description": "原文标题：《\n\nETH 2.0 和 LSDFi 建立的国债和 Cryptopia\n\n》\n\n原文来源：OnePiece Research\n\n\n从 LSD 火热至今，有很多优秀文章对 LSD 和 DVT 机制做了讲解：LidoFinance 的先发优势和潜在风险，以及 v2 将会给 Lido 带来的质变。SSV Network 作为 LSD 底层架构捕获价值的能力与其技术门槛。Frax Finance 对流动性和收益性平衡的创新。LSD 质押凭证的高抵押率循环借贷带来的高资金利用率。Eigenlayer 的 Re-Staking 为 ETH 质押收益带来新源头，也为项目安全性提供保证。\n\n\n\n\n本文将从另一个角度切入，给 LSD 赛道提出一个新方向。首先本文对当前 LSD 项目 (非 DVT 和 Re-Staking) 进行了 Mapping，对现有质押机制进行了简单归类。\n\n\n\n\n\n\n\n\n市场份额为图片项目内 Staked ETH 占所有 Staked ETH 比例  \n\n\n\n\n\nETH2.0 质押数据\n\n\nETH2.0 质押的上线为链上带来了如国债一般稳定且可信的收益来源，当前 apr 为 4.7%。由于 ETH2.0 质押奖励来自于 Gas fee、MEV 和 ZK 证明等，所以只要 ETH 还在运行，那么这个奖励就一定存在，只会因为质押节点增加而相对减少收益率。因此，鉴于 ETH 在所有公链的统治率，ETH2.0 质押可以说是如国债般的存在。所以我们可以借鉴国债的机制和吸储方案来提供未来 LSD 的发展方向。\n\n\n当前 LSD 方案  \n\n\n本文根据各类 LSD 项目的特性，总结了当前 LSD 的 5 种方案：\n\n\n1.Binance 和 Coinbase 等 CEX 为用户提供的中心托管方案：  \n\n\n中心化交易所收集用户 ETH，自己搭建/委托第三方组件验证节点，中…",
-          "link": "https://www.theblockbeats.info/news/36063",
-          "publishedOn": "2023-03-30T04:44:24.000Z",
-          "wordCount": null,
-          "title": "ETH 2.0和LSDFi建立的国债和Cryptopia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36062",
-          "author": null,
-          "description": "Blur带来的改变，是为NFT引入流动性，大户更容易参与了，短期看，缺点是巨鲸操控价格/floor波动剧烈。",
-          "link": "https://www.theblockbeats.info/news/36062",
-          "publishedOn": "2023-03-30T04:01:55.000Z",
-          "wordCount": null,
-          "title": "观点：为何说Blur减半收益执行推迟，更符合长期发展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36039",
-          "author": null,
-          "description": "以太坊上海升级在即，LSD 赛道或爆发？",
-          "link": "https://www.theblockbeats.info/news/36039",
-          "publishedOn": "2023-03-30T01:00:01.000Z",
-          "wordCount": null,
-          "title": "剖析当前市场顶级LSD协议优势与风险",
           "imageUrl": null
         }
       ]
