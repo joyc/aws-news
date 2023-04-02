@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36118",
+          "author": null,
+          "description": "投资组合已突破100个项目，DWF Labs的投资理念与重要投资一览。",
+          "link": "https://www.theblockbeats.info/news/36118",
+          "publishedOn": "2023-04-02T03:00:02.000Z",
+          "wordCount": null,
+          "title": "频频出手的DWF Labs是谁？「VC+做市商」，每月定投5个项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36119",
           "author": null,
           "description": "「zkSync Era的上线标志着加密正式进入zkEVM时代」",
@@ -153,16 +163,6 @@
           "publishedOn": "2023-03-31T01:42:01.000Z",
           "wordCount": null,
           "title": "Messari：六大EVM生态盘点，究竟谁能杀出重围？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36066",
-          "author": null,
-          "description": "下一个流行的天王级应用可能会出现在多链 DEX 领域。",
-          "link": "https://www.theblockbeats.info/news/36066",
-          "publishedOn": "2023-03-30T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Layer2趋势下，如何突破流动性碎片化困局",
           "imageUrl": null
         }
       ]

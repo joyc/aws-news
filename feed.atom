@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-02T00:38:14.305Z</updated>
+    <updated>2023-04-02T06:08:57.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[频频出手的DWF Labs是谁？「VC+做市商」，每月定投5个项目]]></title>
+        <id>https://www.theblockbeats.info/news/36118</id>
+        <link href="https://www.theblockbeats.info/news/36118"/>
+        <updated>2023-04-02T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[投资组合已突破100个项目，DWF Labs的投资理念与重要投资一览。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[zkSync Era∎主网上线，你需要知道这些]]></title>
         <id>https://www.theblockbeats.info/news/36119</id>
@@ -541,16 +551,6 @@ L2 生态系统的崛起  
 
 
 虽然最近 L2 网络活动有所增加，但替代的 L1 因其在获取和留住用户方面的熟练程度而保持相关性。从历史上看，一些项目发现专注于利基行业可能…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer2趋势下，如何突破流动性碎片化困局]]></title>
-        <id>https://www.theblockbeats.info/news/36066</id>
-        <link href="https://www.theblockbeats.info/news/36066"/>
-        <updated>2023-03-30T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[下一个流行的天王级应用可能会出现在多链 DEX 领域。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
