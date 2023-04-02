@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-02T06:08:57.601Z</updated>
+    <updated>2023-04-02T12:11:13.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：VC们对今年市场预期变化；CFTC起诉Binance]]></title>
+        <id>https://www.theblockbeats.info/news/36137</id>
+        <link href="https://www.theblockbeats.info/news/36137"/>
+        <updated>2023-04-02T09:39:12.000Z</updated>
+        <summary type="html"><![CDATA[重温本周热点：这些年，CFTC 对加密公司开过的罚单；加密 OG 都在玩的 Arbitrum 应用 Stealcam；Sui Network 永久测试网上线，更新了哪些重要功能？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farcaster vs Lens Protocol全面测评：谁是更好的去中心化社交协议？]]></title>
+        <id>https://www.theblockbeats.info/news/36138</id>
+        <link href="https://www.theblockbeats.info/news/36138"/>
+        <updated>2023-04-02T06:58:48.000Z</updated>
+        <summary type="html"><![CDATA[去中心化社交协议面对面]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新时代的Web3郑和下西洋：去非洲淘金]]></title>
+        <id>https://www.theblockbeats.info/news/36136</id>
+        <link href="https://www.theblockbeats.info/news/36136"/>
+        <updated>2023-04-02T05:30:02.000Z</updated>
+        <summary type="html"><![CDATA[「诸侯割据」的非洲，加密巨头尚未出现，华语力量不容小觑。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[频频出手的DWF Labs是谁？「VC+做市商」，每月定投5个项目]]></title>
         <id>https://www.theblockbeats.info/news/36118</id>

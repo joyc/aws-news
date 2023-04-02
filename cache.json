@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36137",
+          "author": null,
+          "description": "重温本周热点：这些年，CFTC 对加密公司开过的罚单；加密 OG 都在玩的 Arbitrum 应用 Stealcam；Sui Network 永久测试网上线，更新了哪些重要功能？",
+          "link": "https://www.theblockbeats.info/news/36137",
+          "publishedOn": "2023-04-02T09:39:12.000Z",
+          "wordCount": null,
+          "title": "周末荐读：VC们对今年市场预期变化；CFTC起诉Binance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36138",
+          "author": null,
+          "description": "去中心化社交协议面对面",
+          "link": "https://www.theblockbeats.info/news/36138",
+          "publishedOn": "2023-04-02T06:58:48.000Z",
+          "wordCount": null,
+          "title": "Farcaster vs Lens Protocol全面测评：谁是更好的去中心化社交协议？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36136",
+          "author": null,
+          "description": "「诸侯割据」的非洲，加密巨头尚未出现，华语力量不容小觑。",
+          "link": "https://www.theblockbeats.info/news/36136",
+          "publishedOn": "2023-04-02T05:30:02.000Z",
+          "wordCount": null,
+          "title": "新时代的Web3郑和下西洋：去非洲淘金",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36118",
           "author": null,
           "description": "投资组合已突破100个项目，DWF Labs的投资理念与重要投资一览。",
