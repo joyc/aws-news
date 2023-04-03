@@ -84,66 +84,6 @@
           "wordCount": null,
           "title": "从 EIP4361，探索 Web2 到 Web3 账户体系变革",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36116",
-          "author": null,
-          "description": "BLUR Season 2将是下一个「财富密码」吗？",
-          "link": "https://www.theblockbeats.info/news/36116",
-          "publishedOn": "2023-03-31T10:59:02.000Z",
-          "wordCount": null,
-          "title": "如何在BLUR Season 2中使收益最大化？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36115",
-          "author": null,
-          "description": "深入研究模块化区块链如何影响IBC状态层的设计",
-          "link": "https://www.theblockbeats.info/news/36115",
-          "publishedOn": "2023-03-31T10:22:27.000Z",
-          "wordCount": null,
-          "title": "模块化世界中的模块化IBC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36112",
-          "author": null,
-          "description": "原文标题：《应用链进展如何？多维度对比 Polygon Supernets 和 Avalanche Subnet》\n原文来源： PANews\n\n\n3 月 22 日，NFT 游戏 Aavegotchi 宣布正利用 Polygon Supernets 推出自己的区块链 Gotchichain。在 Cosmos 和 Polkadot 等多链生态系统之后，Avalanche、Polygon 等也先后推出了专属的 App Chains（应用链）服务，本文将从多个维度对比同为 Layer 1 的 Avalanche 和 Polygon 推出的 Subnets 与 Supernets 方案。\n\n\nPolygon Supernets 和 Avalanche Subnets 介绍\n\n\nPolygon 和 Avalanche 都是兼容 EVM 且得益于以太坊价值外溢而发展起来的 Layer 1 区块链。\n\n\nPolygon 号称是以太坊扩容的「瑞士军刀」提供了多种扩容解决方案，包括 Polygon PoS 侧链、EVM 等效的 zk Rollup 方案 Polygon zkEVM、适用于应用链的 Polygon Supernets 和还未上线的 zk-optimized Rollup 方案 Polygon Miden。Polygon Supernets 迭代于生态中原有的 Polygon Edge，旨在实现与 EVM 兼容的、特定于应用程序的主权区块链。Polygon Supernets 被设计为「超级网络」，为开发人员提供更多特性和功能，使他们能轻松构建、部署基于区块链的解决方案。\n\n\n\n\n\nAvalanche Subnets 让所有人都能根据自己的需求自定义私有或公共区块链网络，Subnets 可以与 Avalanche 生态系统无缝连接，不与其它应用竞争网络资源，实现无限扩展。随着 Av…",
-          "link": "https://www.theblockbeats.info/news/36112",
-          "publishedOn": "2023-03-31T09:00:01.000Z",
-          "wordCount": null,
-          "title": "多维度对比应用链服务Polygon Supernets和Avalanche Subnets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36111",
-          "author": null,
-          "description": "原文作者：Ice\n原文编译：Leo，BlockBeats\n\n\n\n\n\n\n近期，一位 BTC 交易员在 7 天为周期的 BTC 交易中，以 2w 美元的成本获得了 22w 美元，并分享了自己的交易策略心得，对于 Crypto 交易的用户很有帮助，BlockBeats 将其整理编译如下：\n\n\n\n\n首先声明：\n\n\n本文不构成财务建议；\n\n\n在你的可承受范围内去交易，永远不要用不能承受的金额去冒险；\n\n\n交易很难，不要因为你认为自己很厉害且发现我的交易策略还不错去冒然模仿。\n\n\n\n\n回到最初，当时我将多个交易账户归零，不想再碰合约了，主要做一个「基本面驱动」的链上投资者，因为那是我能获得最大回报的途径。但我为什么要开设另一个交易账户呢？\n\n\n\n\n我的大部分投资组合都是长期投资，在我的观点验证成功或失效之前，我不会停止投资。同时，在交易的角度上，我不想着坐以待毙，一笔交易不是赚钱就是亏钱，不可能是平稳到一成不变的，我知道我不擅长交易——所以这也是我要学的。最初是为了学习，选择了一个亏损后会很痛苦的数量，但我可以毫无顾虑地积极投入，刚开始是通过科学的方法，制定假设、分析变量、测试、分析结果、评估。\n\n\n这些交易过程中没有任何情绪左右，因为我当成自己在上一堂值得认真对待的课，试图了解市场表现如何，并创建一个「变量如何相互影响」的心理模型。\n\n\n\n\n与以往不同的是，这次不再是：\n\n\n-如果我赢不了这笔交易，我就完了；\n\n\n-我只想快速赚钱；\n\n\n-也许这次我终于能赚到钱了。\n\n\n\n\n另一种说法就是:\n\n\n-我希望我输掉这笔交易，这样我就能确定我是不是在犯错；\n\n\n-如果我赢了，这意味着我的想法是正确的，我该如何继续交易下去？\n\n\n-我并不害怕失去这笔交易，我只是在证实我的假设，如果它是错的，我可以改进我个人的交易系统。\n\n\n\n\n一旦账户变化达到了让这种「无情绪左右的禅定状态」破防时的规模，我…",
-          "link": "https://www.theblockbeats.info/news/36111",
-          "publishedOn": "2023-03-31T07:39:22.000Z",
-          "wordCount": null,
-          "title": "7天获利10倍，一位BTC交易员的交易心得",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36109",
-          "author": null,
-          "description": "原文标题：《ARB 如何启示未来的项目方空投？》\n原文来源：\n\nOdaily 星球日报\n\n\n\nARB 的推出对加密货币和以太坊来说是一个重要时刻，对空投界来说也是一个巨大的里程碑。ARB 之后的项目方要如何对早期采用者进行代币激励呢？今天，让我们深入探讨下空投的未来。\n\n\n空投是如何演变的？\n\n\n空投仍然是奖励社区和将协议所有权去中心化的首选模式。然而，Uniswap 风格的追溯式空投已经一去不复返。通过一笔简单的交易或 LP 头寸将不再使你有资格获得空投。即使是最基本的空投方式，现在也将空投分级标准和反女巫攻击机制考虑在内。\n\n\n虽然 Arbitrum 无疑是 2023 年（迄今为止）最热门的空投，但从技术性能和代币分发的角度来看，其空投方式仍有不足之处。本文我们将剖析 ARB 空投的一些陷阱，并探讨其他明星协议是如何在过去的空投上迭代，同时协调社区，吸引流动性和最大限度地减少网络被干扰的情况。\n\n\nARB空投分析\n\n\n3 月 23 日，超过 11.6 亿个 ARB 被空投到 62.5 万个独立活跃的钱包中，每个地址的分发数量从 625 到 10250 个 Token 不等。大部分认领活动都是提前进行的， 52% 的分发在头四个小时内被认领。在 ARB 发布日，Arbitrum 出现了极高的链上活动水平，创下了 61.2 万个活跃地址 270 万笔交易的历史记录，分别比以太坊高出 145% 和 32% 。\n\n\n\n来源：Artemis\n\n\n大量流量导致 Arbitrum 定序器崩溃，并导致公共提供程序之间的 RPC 端点故障。虽然 Arbitrum 的技术目前在行业中是最顶尖的，通过 Nitro 提供了更高的吞吐量和呼叫数据压缩（call data compression），但在 ARB 空投后的几个小时内，区块链技术的局限性开始暴露出来。\n\n\nArbitrum 的 Web…",
-          "link": "https://www.theblockbeats.info/news/36109",
-          "publishedOn": "2023-03-31T07:30:01.000Z",
-          "wordCount": null,
-          "title": "ARB如何启示未来的项目方空投？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36106",
-          "author": null,
-          "description": "原文标题：《HypeSaints 推新玩法 持有者可将 NFT 变形 》\n原文作者：HypeSaints\n\n\n在 2 月与 STEPN 展开合作推出联名产品后，HypeSaints 近日再次上线变形新玩法，所有持有 HypeSaints NFT Series1 的用户可将圣徒 NFT 变形为外星人 NFT，成为 HypeAliens Genesis 的持有者，并解锁更多新增权益。  \n\n\n\n  Poster    \n\n\nHypeSaints 是初创团队 Portal Studio 推出的首个 Web3 项目。该项目的首个 NFT 系列共 3333 个，在去年 12 月的 Mooar Launchpad Season1 上斩获冠军。Portal Studio 团队核心成员主要来自迪士尼、华纳、腾讯、阿里巴巴，拥有横跨游戏、影视、动画、线下沉浸体验等 IP 娱乐行业深厚经验。\n\n\nPortal Studio 将本次变形玩法作为 HypeSaints Series1 的故事终章，在玩法设计上投入了大量的资源。持有者需要「进入」到一个神秘基地，通过解谜和操作探寻远古地外文明的秘密，也因此意外激活了变形装置，完成「量子置换」。\n\n\n\n\n\n\nTransformation\n\n\n借助本次新玩法的推出，Portal Studio 也同步启动了 HypePets 共创计划，所有用户可利用全新的 NFT AI 生成工具 GNT，为外星人系列生成宠物，对获得社区认同的设计作品，Portal Studio 将与作品创作者合作，共同打造 HypePets NFT 系列，HypeAliens Genesis 的持有者将获得 HypePets 空投。 \n\n\n\n\n\n\nMooar GNT\n\n\n据悉，Portal Studio 正在进行种子轮融资，HypeSaints NFT Series2 计划于 Q2 发行，与此同时团队正在开发 Web3 首个链上掌机娱乐生态产品，预计将于年底面世。\n\n\n本文来自投稿，不代表律动 BlockBeats 观点。",
-          "link": "https://www.theblockbeats.info/news/36106",
-          "publishedOn": "2023-03-31T06:09:36.000Z",
-          "wordCount": null,
-          "title": "HypeSaints推新玩法，持有者可将NFT变形",
-          "imageUrl": null
         }
       ]
     },
