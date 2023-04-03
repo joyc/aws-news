@@ -2,10 +2,366 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-03T06:09:50.962Z</updated>
+    <updated>2023-04-03T12:12:39.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI爆发对创作者和NFT的影响]]></title>
+        <id>https://www.theblockbeats.info/news/36162</id>
+        <link href="https://www.theblockbeats.info/news/36162"/>
+        <updated>2023-04-03T08:35:31.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《浅思：AI 爆发对创作者和 NFT 的影响》
+原文作者：sleepy
+
+
+最近读到了 6529 发布的一条 thread，探讨了 AI 与 NFTs，其中一些观点还挺有意思的，先来分享给大家。
+
+
+TL; DR 
+
+
+
+
+
+
+
+NFT 溯源将有更重要的意义；
+
+
+AI 生成内容的爆发，会使原作者创作的内容更有价值；
+
+
+对于创作者而言，在一个无限「内容」的世界中，本身的知名度会变得更加重要；
+
+
+商业内容创作可以被 AI 取代，而艺术创作不能。
+
+
+
+原文：
+
+
+
+
+
+
+
+
+
+
+
+
+目前很多人聊到 AI 时会有如下前提条件： 
+
+
+（1）人们把 AGI（人工通用智能）当成 ASI（人工超级智能）的简称。
+
+（2）按照目前的假设，AGI 可以像人一样思考，但速度更快，更高效，成本更低。
+
+
+（3）这必将会发生，并且很快就会发生。
+
+
+
+6529 对于 AI 突破人类限制持比较乐观的态度，在他看来，GPT-4 和 GPT-5 离那种情况还很遥远。虽然它们可能具有数字方面的超能力，但在物理世界的自动化方面仍然存在很多问题。举例来说，GPT-5 不可能在一夜之间不被发现地建立一支无人机军队。不过，对于强技术向的探讨并非 6529 所擅长的，作为 NFT 圈的 influencer，他更想在自己的」专业领域「发表观点。
+
+
+
+6529 的观点基于以下前提条件： 
+
+
+（1）人工智能将成为我们使用的工具。
+
+
+（2）它们主要在数字领域工作。
+
+
+（3）它们会自主工作或与我们混合工作。
+
+
+（4）它们不是无所不能的 ASI（至于我们将会用 ASI 来做些什么，这不是本文想讨论的）。
+
+
+
+不过这也已经会让世界产生巨变： 
+
+
+（1）很多白领会失业。
+
+
+（2）我们将进入一个拥有无限「内容」和机器人的世界。
+
+
+（3）人类将利用这些工具来实现自己的目的与社交建设。
+
+
+在这样的…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum争议提案下，头部治理代表的态度是什么？]]></title>
+        <id>https://www.theblockbeats.info/news/36161</id>
+        <link href="https://www.theblockbeats.info/news/36161"/>
+        <updated>2023-04-03T07:36:53.000Z</updated>
+        <summary type="html"><![CDATA[刚刚过去的周末对于 Arbitrum 基金会注定是个噩梦。事件起因于 Arbitrum 基金会在 AIP-1 提案尚未通过的情况下就将 ARB Token 进行转移、分配，将 7.5 亿枚 ARB 划转至「行政预算钱包」。此外，链上数据显示 Arbitrum 基金会曾于 Token 开放交易时将 5000 万枚 ARB 发送给 Wintermute，其中 4000 万用于做市，另外 1000 万则被兑换成法币以用于支付运营成本。而这些都未经过社区同意。
+
+
+
+
+面对社区质疑，基金会回应表示，AIP-1 不是一项拨款「请求（request）」，而是要求社区「批准（ratification）」。部分 ARB 转移和使用，是基金会已经作出的决定，提案并不是在向社区请求一项行动，「AIP-1 的目的是告知社区已经提前做出的所有决策。」
+
+
+
+
+这样的回应成功引爆了社区的怒火，众人纷纷质疑这样的提案「治理」意义何在。前四大 Arbitrum 社区治理代表一致投票反对此提案并要求改善治理流程。社区各参与方对于 AIP-1 是如何进行争论的，BlockBeats 整理了几个代表性观点如下。
+
+
+
+
+TreasureDAO
+
+
+
+
+作为 Arbitrum 生态最大治理代表，去中心化游戏生态系统 TreasureDAO 指出 AIP-1 中存在拨款计划讨论不彻底、过程不透明、解释不充分等问题，要求 Arbitrum 重新提交一份提案，新提案需要更清楚地说明特别拨款计划的范围，并将 AIP-1 提案进行拆分。
+
+
+
+
+值得指出的是，虽然 TreasureDAO 作为治理代表对 AIP-1 投出了反对票，但 TreasureDAO 联创 karel vuong 在其社交平台表达了对 Arbitrum 的部分理解以及对此事件的深入思考。其表示，Arbitrum 在 Token 发行和去中心化的过程中存在文档表达不明确、社区沟通不顺畅等问题。但考虑到整个过程的复杂程度，当前出现的问题是可以理解的。
+
+
+
+
+此外，karel vuong 表示，虽然 AIP-1 提案远非完美，但 Arbitrum 基金会本意是在一开始就希望与同行相比实现更大程度的去中心化，相信 Arbitrum 会始终为整个生态系统的利益而运营。
+
+
+
+
+加密 KOL olimpio
+
+
+
+
+olimpio 是社区第二大治理代表，其在事件讨论的第一时间便投票反对提案，并发表看法。olimpio 指出，基金会控制 7.5% 的协议 Token 并非个案，Starknet 基金会曾表示将拥有 10% 的 Token 控制权，Optimism 基金会也持有 5.4% 的协议 Token。
+
+
+
+
+不同之处在于，Starknet 基金会和 Optimism 基金会在发布 Token 之前明确表达了基金会对其 Token 的分配计划。而 Arbitrum 则是通过 AIP-1 提案的形式来「确认」分配。Arbitrum 基金会并不能因为 STRK 和 OP 的社区对 Token 分配没有话语权，就可以想当然的认为 ARB 基金会获得 7% 的 Token 是合理的。
+
+
+
+
+ChainLinkGod
+
+
+
+
+Chainlink 社区大使 ChainLinkGod，Arbitrum 第四大治理代表。其在治理论坛对 AIP-1 提案提出了十分有建设性的建议，包括提高行政预算钱包的透明度，将综合提案拆分为多个单独的提案以及降低提案创建的最低门槛（目前只有四名代表达到 500 万 ARB 的提案创建门槛）。同时，ChainLinkGod 对于 7.5 亿枚 Token 的转移进行追溯投票持保留意见，因为这可能会引起更大的治理混乱。
+
+
+
+
+
+
+
+
+
+尽管目前社区对于 Arbitrum 基金会转移 Token 的谜之操作反对声浪很大，但社区代表普遍表示并不担心团队会大规模抛售 Token。最新的消息是，RIP-1 提案已获得 82.88% 的反对票，提案被驳回似乎已是板上钉钉。Arbitrum 团队也于今晨承诺将在本周对该提案进行重新修改，同时为「生态系统发展基金」提供有关如何使用资金的背景信息和一份基于基金会预算的「透明度报告」。明星 Layer2 项目 Arbitrum 的治理事件发展，BlockBeats 将持续关注。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4月加密叙事展望：上海升级赛道、Layer2、NFTFi、香港概念]]></title>
+        <id>https://www.theblockbeats.info/news/36160</id>
+        <link href="https://www.theblockbeats.info/news/36160"/>
+        <updated>2023-04-03T07:18:33.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《4 月加密叙事展望：上海升级赛道、Layer2、NFTFi、香港概念》
+原文来源：雨中狂睡
+
+
+
+以太坊上海升级
+
+
+
+以太坊升级已经确定时间，现在的疑点在于以太坊质押开放提现之后，会不会在二级市场上形成巨额抛压。我尝试从几个角度来分析这个问题：一是质押者是否为长期主义者；二是卖出获利是否是其刚需。
+
+
+早期进入的质押者是长期主义者是确定性的，质押 ETH 是其对于 ETH 价值的长期看好，不会因为短期事件而取出自己的筹码。并且，一项数据表明，60%（现在 ETH 价格上涨，可能数据会发生变化）处于亏损状态（将当前的 ETH 价格与每个 ETH 质押时的价格进行比较）；平均最大质押池的存款人目前也处于亏损状态。亏损状态的长期主义者卖出倾向和 Hold 倾向，在我个人的观点中，Hold 倾向>卖出倾向。
+
+
+而后进入以太坊质押赛道的质押者往往可以通过 Lido 等质押协议提前取出流动性。stETH 等流动性凭证可以帮助质押者快速退出。当卖出变现刚需已经在以太坊上涨之后，就会出现。拥有 stETH 等流动性凭证的投资者会卖出获利，而不是在以太坊开始提现后才售出。另外值得关注的是 stETH 的脱锚，但从数据上来看，并没有这种趋势。
+
+
+
+
+
+因此，从我个人的角度来看，以太坊在上海升级后，可能不会出现太大的抛压。以及，以太坊提现有一个排队机制，每天进入市场的以太坊抛压也是固定的。
+
+
+另外我们来看几个 LSD 协议：
+
+
+LDO：LDO 是相关性最大的 Token，唯一不确定性在于其将 v2 升级推迟到了 5 月中旬，比上海升级时间节点延迟了一个月左右的时间，这可能造成了一定的 FUD。从协议角度，这是好的，因为为了确保安全，Lido 做了大量的努力。而对于币价而言，会造成短期影响。
+在以太坊上上海升级之后，除了 Lido 之外，还有几个可能出现的趋势是：
+
+
+以太坊…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankr成为Polygon Supernets合作伙伴，以增强构建区块链体验]]></title>
+        <id>https://www.theblockbeats.info/news/36159</id>
+        <link href="https://www.theblockbeats.info/news/36159"/>
+        <updated>2023-04-03T06:54:30.000Z</updated>
+        <summary type="html"><![CDATA[原文来源： Ankr
+
+
+Web3 基础设施提供商 Ankr 与 Polygon Labs 达成合作，以增强 Polygon Supernets 创建特定应用区块链的构建体验。
+
+ 
+Polygon Supernets 由模块化区块链堆栈 Polygon Edge 提供支持，与 EVM 兼容、可互操作、高性能和可定制。它使开发者能够建立自定义网络，且无需维护区块链基础设施。此外，Polygon Supernets 帮助开发者与 Polygon PoS 主网的专业验证器合作伙伴一起快速引导验证器集。
+ 
+Ankr AppChains 已成为 Polygon Supernets 的基础设施供应商和实施合作伙伴。Ankr 提供了一个端到端的工程解决方案，用于创建特定于应用程序的区块链，包括 Polygon Supernets，并结合了最佳的安全性、吞吐量和可定制性。AppChains 产品使 Web3 开发者能够轻松构建适合其应用程序的自定义区块链。Polygon Supernets 提供的高级工具和服务进一步改善了开发者的构建体验。
+ 
+「Polygon Labs 对 Ankr 提供世界级工具来构建专用区块链感到非常兴奋。借助 Polygon Supernets，企业、游戏和娱乐项目可以快速启动其专用应用程序特定链，这些链经过优化获得一流的 EVM 性能。Polygon Supernets 是一个理想的机会，将世界领先的 Web3 提供商 (如 Ankr) 聚集到一个全面的生态系统中，使生态系统中的任何团队都能构建自己的区块链。Polygon Supernets 将为 Web3 带来下一个十亿用户。」
+
+
+– Parth Pathak，Polygon Supernets 总经理
+ 
+「我们很高兴将 Ankr AppChain 基础设施与 Polygon Supernets 连接起来，为开发者提供最高质量的构建体验，简化 Web3 开发。凭借 Ankr 的专业知识和资源，可有效帮助开发者构建高质量的 dApp，这将改变 Web3 游戏、DeFi 等行业的用户体验。」
+
+
+– Kev Silk，Ankr AppChains 产品经理
+ 
+Ankr 和 Polygon Labs 的目标是一致的，即在 Web3 上更快、更便宜、更容易地构建。Web3 推向大众的关键是消除区块链开发的复杂性，同时确保可扩展性和特定应用程序的定制。Polygon Supernets 使开发者能够快速建立自定义的高性能区块链网络。
+ 
+任何为以太坊兼容网络编写的智能合约或 dApp，无论是使用 Solidity、Vyper 还是其他语言，都可以部署到 Polygon Supernet。借助 Ankr AppChains，开发者则可以更加自由的选择编程语言、共识机制和开发框架。
+ 
+Web3 开发者可以构建 Polygon Supernet 来运行特定的应用程序、项目或用例，并连接到由认证合作伙伴维护的 Polygon PoS 协议，从 Polygon Edge 开源软件堆栈获得进一步的升级。默认情况下，Polygon Supernet 相互兼容，并且与以太坊区块链兼容。
+ 
+通过使开发者能够在 Polygon Edge 上构建自己的区块链，Ankr 将帮助解决阻碍 Web3 采用的两个最大挑战：缓慢的交易速度和高昂的 Gas 费用。通过为每个 dApp 定制区块链，消除存储和计算竞争，可扩展性得以蓬勃发展。
+
+
+本文来自投稿，不代表BlockBeats观点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国太保投资管理（香港）有限公司与水滴资本携手推出数字资产基金]]></title>
+        <id>https://www.theblockbeats.info/news/36158</id>
+        <link href="https://www.theblockbeats.info/news/36158"/>
+        <updated>2023-04-03T06:10:13.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：水滴资本
+
+
+去年 10 月，中国香港发布了《有关香港虚拟资产发展的政策宣言》，该宣言表明了中国香港成为全球虚拟资产中心的决心，并明确了中国香港在虚拟资产发展方面的重心。宣言指出，虚拟资产在全球市场已经不可或缺，作为国际金融中心，中国香港将持开放和兼容的态度对待全球从事虚拟资产业务的创新人员。同时，中国香港还将积极推动虚拟资产行业与传统金融行业的融合。该政策宣言正式向全球投资者和创业者发出了香港将成为全球虚拟资产中心的强烈信号。
+
+
+
+
+在中国香港政府大力推动虚拟资产行业发展的政策背景下，中国太保投资管理（香港）有限公司与水滴资本（Waterdrip Capital）携手推出了两支数字资产基金，分别为 Pacific Waterdrip Digital Asset Fund I（风险投资基金）及 Pacific Waterdrip Digital Asset Fund II（POS 通证收益增强基金），旨在为投资者提供更加多元化和创新性的投资选择。两支基金的主要目标投资者包括企业及家族办公室等机构投资者与高净值个人投资者。
+
+
+
+
+Pacific Waterdrip Digital Asset Fund I 主要参与区块链早期项目的种子轮和私募轮次投资，布局赛道包括但不限于：区块链基础设施、去中心化金融应用、Web3 Saas 服务工具、元宇宙和 NFT 应用等等。基金团队将会持续在区块链一级风险投资市场耕耘，努力发掘更多具有创新力和建设精神的初创企业和团队。
+
+
+
+
+Pacific Waterdrip Digital Asset Fund II 将会持有以 POS 为共识机制的数字资产为主，根据基金团队在业内的丰富经验和对宏观经济环境的判断，通过及时更换仓位、去中心化链上质押等方式增强收益，同时会在市场经历极端单边情况时采用相应衍生品等金融工具来控制风险，锁定利润。
+
+
+
+
+中国太保投资管理（香港）有限公司持有中国香港证监会第四类（就证券提供意见）和第九类（提供资产管理）牌照。太保资管香港的母公司为中国太平洋保险集团有限公司及该集团公司的子公司太平洋资产管理有限公司。太保资管香港以全球视角，发挥险资大类资产配置基因，围绕固收、权益、另类投资三大支柱为客户提供横跨传统资产和新兴资产的各类资产管理产品。
+
+
+
+
+水滴资本（Waterdrip Capital）由中国最早参与区块链行业的几位资深从业人共同出资于 2017 年正式成立，是一家专注于区块链垂直领域的国际化投资机构。水滴资本致力于成为连接传统金融市场和区块链生态之间的有机桥梁，积极投资区块链行业的优质项目，深度参与全球数字经济的生态建设，全面打造面向未来的数字金融基础设施，不断进步为金融领域的机构客户和有潜力的区块链创业团队提供更完善的专业化服务。在强大技术背景和丰富投资经验的核心团队带领下，成立 5 年来前后共投资了超过 100 个国内外的区块链项目，持续为投资人带来丰厚的收益。
+
+
+
+
+此次在数字资产基金上的合作旨在结合两家机构的专长，为投资者提供合法合规、注重风险控制的数字资产基金产品，让投资者在获取数字资产一级市场和二级市场收益的同时，保证资金的安全性。
+
+
+
+
+
+
+
+随着中国香港政府越来越多的虚拟资产相关鼓励政策落地，此次基金推出也是中国太保投资管理（香港）和水滴资本（Waterdrip Capital）在该领域迈出的重要战略部署，以期在虚拟资产领域日趋合规化的大背景下，驭风而行。
+
+
+原文链接
+
+
+本文来自投稿，不代表律动 BlockBeats 的观点]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从白宫到Web3：扒一扒Arbitrum创始人Ed Felten的过往]]></title>
+        <id>https://www.theblockbeats.info/news/36157</id>
+        <link href="https://www.theblockbeats.info/news/36157"/>
+        <updated>2023-04-03T06:06:19.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Jaleel
+
+
+
+编辑：Jack
+
+
+
+
+
+
+
+
+
+
+周末，Arbitrum 社区关于 DAO 金库 Token 分配的提案引起了剧烈的讨论，团队在社区投票没有通过，甚至是没有结束前，就将 Token 转移到了团队和投资机构的钱包中（BlockBeats 注，更多关于 AIP-1 提案的有关内容请阅读《先斩后奏？Arbitrum 基金会欲通过提案操控 10 亿美元去向》）。在「DAO 名存实亡」的阵阵声讨中，也有人开始了解 Arbitrum 团队背后的故事。
+
+
+「Lab experiment」
+
+
+
+
+Edward William Felten，1963 年 3 月 25 日出生。Felten 就读于加州理工学院，并于 1985 年获得物理学学位。1986 年至 1989 年，他在加州理工学院担任程序员，参与了加州理工学院的一个并行超级计算机项目。随后，他在华盛顿大学攻读计算机科学专业的研究生。1991 年获 MS 硕士学位，1993 年获博士学位，论文是关于开发并行处理器之间通信的自动化协议。
+
+
+
+
+1993 年，他作为助理教授加入普林斯顿大学计算机科学系，并于 1999 年晋升为副教授，2003 年晋升为教授。2005 年，他成为普林斯顿信息与技术政策中心（CIPT）主任。他还曾担任律师事务所、公司、私人基金会和政府机构的顾问。2006 年，他加入了伍德罗·威尔逊公共和国际事务学院，研究领域拓展至公共关系。从 2006 年到 2010 年，他是电子前沿基金会 (EFF) 的董事会成员。2010 年 11 月，他被任命为美国联邦贸易委员会的首席技术官。
+
+
+
+
+
+Ed Felten 作为 CIPT 主任的视频演讲，图源来自网络
+
+
+
+
+2012 年和 2013 年间，Ed 回归了自己的教学岗位，并开始接触和研究比特币及区块链技术。Ed 对比特币的研究工作始…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arkstream Capital：Blur与OpenSea的悬崖赛车]]></title>
         <id>https://www.theblockbeats.info/news/36151</id>
