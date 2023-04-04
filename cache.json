@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36182",
+          "author": null,
+          "description": "原文标题：《\n\nFilecoin 与 Arweave：从存储到计算，去中心化存储复兴\n\n》\n原文作者：\n\nLeo, IOSG Ventures\n\n\n\n概要：  \n\n\nArweave 协议设计从技术上保证永久存储的实现，更适用于高价值数字资产，如 NFT metadata 的保存。\n\n\n数据存储之上，更需要计算。随着智能合约和可编程性的引入，去中心化数据存储网络的发展已经进入「不仅仅是存储」的新阶段。\n实现存储数据冗余，Filecoin 诉诸经济激励手段，Arweave 则借助协议设计。\n\n\nFVM 为 Filecoin 带来存储金融，将存储空间和时间商品化，用户可以提前锁定成本，存储供应商也能提前回笼资金，并根据远期需求规划管理库存、硬件、运营。\n\n\n计算机网络发展的主流，无外乎数据计算，传输，存储三个方向。Web3 发展时至今日，去中心化数据存储协议的发展有目共睹。\n\n\nFilecoin 于 2023 年 3 月 14 日 2,683,348 Epoch 高度正式在主网发布了兼容 EVM 的 Filecoin Virtual Machine (FVM)，将智能合约和可编程性带入 Filecoin 网络，去中心化数据存储协议的发展已经进入了「不仅仅是存储」新阶段。\n\n\n去中心化数据存储协议有很多，最引人注目的唯属 Filecoin 和 Arweave，针对 FVM 发布赋予 Filecoin 的新特性，我们在本文中逐一进行讨论。\n\n\n永久存储 Perpetual Storage\n\n\n永久存储在 Web3 中有特别的意义和需求，高价值的数字资产如 NFT Metadata 须要被永久保存。\n\n\nFilecoin\n\n\nFilecoin 在 FVM 发布后，强调了永久存储（Permanent Storage）的特性。我们理解的 Filecoin 永久存储是通过经济手段在理论上实现…",
+          "link": "https://www.theblockbeats.info/news/36182",
+          "publishedOn": "2023-04-04T04:14:06.000Z",
+          "wordCount": null,
+          "title": "Filecoin与Arweave：从存储到计算，去中心化存储复兴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36180",
+          "author": null,
+          "description": "原文标题：《\n\n夹子被夹子夹了，解析 MEV 机器人如何沦为黑客提款机\n\n》\n原文来源：ODAILY星球日报\n\n\n今天下午，加密用户 3155.eth 发文称，一些顶级 MEV 机器人正成为黑客的攻击目标，其「三明治攻击」中的交易模块被替换，目前已造成超过 2000 万美元的损失，这可能成为整个 MEV 生态系统的主要转折点。\n\n\n\n\n\n\n\n\n根据链上分析机构 Lookonchain 统计，目前总损失约 2520 万美元，主要涉及五大币种，具体如下： 7461 个 WETH（1340 万美元）、 530 万美元 USDC、 300 万美元 USDT、 65 个 WBTC（180 万美元）以及 170 万美元 DAI。\n\n\n在了解本次攻击前，我们首先需要知道什么是 MEV 以及 MEV 是如何实现三明治攻击的？\n\n\n所谓 MEV 是「矿工可提取价值（Miner Extractable Value）」或「最大可提取价值（Maximal Extractable Value）」的缩写。矿工或者验证者，有能力在区块内对交易进行排序，从而使得部分交易可以抢先交易。通常的做法是，一些 MEV 机器人会支付高昂的 GAS 费用从而获得验证者优先排序处理交易，通过价差获利；当然，也会有验证者直接下场，没有支付高昂 GAS 费用但优先打包自己的交易。\n\n\n良性的 MEV 形式是套利、清算，而被 DeFi 玩家诟病的则是「三明治攻击」，即在原始交易之前就「插队」进行自己的交易购买资产，然后加价卖给原始购买者。通常而言，bundle 可以拆分为三笔交易： 1 ）大量买入， 2 ）被夹用户的交易；3 ）大量卖出。\n\n\n安全公司 CertiK 告诉Odaily 星球日报\n\n，本次黑客攻击之所以能够成功，在于黑客自己成为验证器，可以看到 MEV 机器人的 bundle 原始信息，从而将第二步替换了成自己的交易，用便宜的 Token 换走了 MEV 机器人的资金。\n\n\n「为了挖掘交易，验证者需要访问某些特定信息，就像在公共 mempool 一样，恶意验证者可以获取 bundle 的信息。通常情况下，flashbot 验证者都是可靠的，并且通过了验证（如在 MevHUB 上完成 KYC），以增加可信数据来源。但在本次事件中，恶意验证器获取了必要信息，从而可以领先于 MEV 机器人进行行动。」\n\n\n\n\n\n\n\n在完成了前期准备之后，攻击者会试探 MEV 机器人是否会抢跑交易。例如下图中，我们可以看到攻击者通过 0.04 WETH 试探 MEV 机器人，勾引 MEV 机器人进行抢跑套利；发现 Uniswap  V2 的 ETH/Threshold 池中确实有 MEV 机器人进行监控，并且还会使用其所有的资金进行套利。在此期间，黑客也一直在试探 MEV 是否使用自己的验证器进行出块。\n\n\n\n\n\n\n\n\n试探成功后，黑客会使用预先在 Uniswap V3 中兑换出来的大量代币，在低流动性的 V2 池内进行兑换操作，勾引 MEV 使用全部的 WETH 进行抢跑购买不值钱的 Threshold 代币；再用 Threshold 代币换走 MEV 机器人投入的所有 WETH。由于 MEV 进行抢跑的 WETH 已经被攻击交易兑换出来，所以 MEV 机器人想要重新换回 WETH 的操作会执行失败。\n\n\n除了上面提到的 Threshold 代币，黑客还还操纵其他七个地址对 Uniswap V2 池中的 AAVE、STG、SHIB、CRV、BIT、UNI 以及 MKR 等七个代币进行价格操纵，实现获利，如下所示：\n\n\n\n\n\n安全公司 Beosin 认为，黑客能够成功的原因主要有三个：一是 MEV 每次在低流动性池中套利会使用自身所有的资金，没有风险控制；二是 V2 池流动性不高，并被黑客操纵；三是具有验证节点权限，可以修改 bundle。\n\n\n\n本次攻击事件，也给 MEV 搜寻者提了个醒，为了避免「三明治攻击」，需要及时调整交易策略，并选择一些有验证历史记录的「靠谱」验证者。目前相关资金已经汇聚到下面三个地址中，等待下一步行动。\n\n\n0x3c98d617db017f51c6a73a13e80e1fe14cd1d8eb；\n\n\n0x5B04db6Dd290F680Ae15D1107FCC06A4763905b6；\n\n\n0x27bf8f099Ad1eBb2307DF1A7973026565f9C8f69。\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/36180",
+          "publishedOn": "2023-04-04T03:05:58.000Z",
+          "wordCount": null,
+          "title": "遭遇「黑吃黑」？解析MEV机器人如何沦为黑客提款机",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36164",
           "author": null,
           "description": "第一季度市场表现强劲，BTC以超70%的涨幅领跑，ETH涨幅也达49%，市场行情大有牛回的迹象。但从宏观环境分析，未来加密市场的走向却并不清晰，2023一季度能否成为行情好转的转折点，我们拭目以待。",
@@ -183,16 +203,6 @@
           "publishedOn": "2023-04-02T03:00:02.000Z",
           "wordCount": null,
           "title": "频频出手的DWF Labs是谁？「VC+做市商」，每月定投5个项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36119",
-          "author": null,
-          "description": "「zkSync Era的上线标志着加密正式进入zkEVM时代」",
-          "link": "https://www.theblockbeats.info/news/36119",
-          "publishedOn": "2023-04-01T13:04:00.000Z",
-          "wordCount": null,
-          "title": "zkSync Era∎主网上线，你需要知道这些",
           "imageUrl": null
         }
       ]
