@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36211",
+          "author": null,
+          "description": "对Web3.0协议来说，可持续成功是一个全新的命题。",
+          "link": "https://www.theblockbeats.info/news/36211",
+          "publishedOn": "2023-04-04T14:00:01.000Z",
+          "wordCount": null,
+          "title": "万字解析Curve的演进之路：超越代币设计的协议可持续之道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36186",
+          "author": null,
+          "description": "比特币最初的主要功能是作为一种金融工具，但其与媒体行业的联系从一开始就显而易见。",
+          "link": "https://www.theblockbeats.info/news/36186",
+          "publishedOn": "2023-04-04T14:00:01.000Z",
+          "wordCount": null,
+          "title": "深入去中心化媒体：区块链技术与第四产业的过去、现在和未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36205",
+          "author": null,
+          "description": "在 Optimistic Rollup 起势之后，Zk Rollup 正在迎来属于它的春天。",
+          "link": "https://www.theblockbeats.info/news/36205",
+          "publishedOn": "2023-04-04T11:00:01.000Z",
+          "wordCount": null,
+          "title": "未来Zk Rollup将会与Op Rollup形成怎样的竞争格局？​",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36218",
+          "author": null,
+          "description": "「PancakeSwap增强用户体验的V3版本」",
+          "link": "https://www.theblockbeats.info/news/36218",
+          "publishedOn": "2023-04-04T10:50:50.000Z",
+          "wordCount": null,
+          "title": "PancakeSwap新推出的V3版本有什么不同",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36217",
+          "author": null,
+          "description": "MM Finance在部署的每一条链上都发行新的Token，这一做法受到质疑，参与的各方应该如何平衡利益。",
+          "link": "https://www.theblockbeats.info/news/36217",
+          "publishedOn": "2023-04-04T10:06:32.000Z",
+          "wordCount": null,
+          "title": "以MM Finance为例，探讨多链项目发行新Token的利与弊",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36212",
           "author": null,
           "description": "原文来源：.bit\n\n\n开源Web3身份端口协议.bit近期发现并分析了使用DID进行资产交易时涉及的严重安全风险。在认识到这些严重的威胁并对其进行研究分析后，在此公布其风险提示，以向区块链行业发出警告，并建议用户避免使用DID发送或交换资产。\n \n\n\n\n\n\n\n\n\nWeb3爱好者均知悉，DID用于代表资产所有者在区块链上的唯一地址，可实现资产转移，而不需要输入复杂的长地址。DID可用于向钱包或交易平台发送Token或资产，然后钱包或交易平台会使用该标识符来验证Token或资产的数据并发回响应。.bit发现，风险就出现在钱包或交易平台使用的应用程序编程接口(API)中。 \n\n\nAPI可在不同平台上实现简单的数据传输，并提供钱包所需的来自DID的必要信息。在使用DID的完全安全的交易平台中，资产持有人会输入他们的DID名称，钱包会向API询问该名称的区块链地址，API随后会返回相应的地址，钱包设置交易供用户批准，最后，钱包将交易发送到公共网络以完成资产转移。在现实中，正如.bit的分析所示，可能会出现与使用DID相关的五处潜在风险。\n\n\n\n\n1.     黑客进入服务器攻击 API 服务，篡改返回到查询的数据。\n2.     API服务内部人员篡改查询返回的数据。\n3.     API服务出现内部错误，导致返回到查询的数据出错。\n4.     API 服务的服务器中用于同步数据的区块链节点落后于区块链网络，导致相关数据不是最新的，进而导致向查询发送错误的数据。\n5.     DID过期，并且在前用户不知情的情况下被其他用户注册。\n\n\n目前还没有因为风险1或2而导致资产丢失的公开报道。但.bit认为，只要用户养成了使用 .bit或其他DID发送资产的习惯，这些问题必然会发生。风险3、4、5这些非主观因素带来的风险，也是完全无法彻底避免的。与风险1和2类似，一旦用户养成了使用 .bit或其他DID发送资产的习惯，非主观因素造成资产损失也只是时间问题。因此，DID用户务必要知晓这一警告及所涉及的风险。目前，钱包或交易平台中的DID使用还处于萌芽阶段。为了避免因技术故障或非法行为而导致资产损失的风险，.bit建议用户目前不要在钱包或交易平台中使用DID进行交易。 \n\n\n尽管存在这些风险，但DID和.bit还是有很多让人期待的地方。风险并不是源自于DID这样的系统本身，而是源自于对系統的错误使用。.bit将于4月12日至15日参加Hong Kong Web3 Festival 2023，届时会分享更多关于如何使用DID的信息，包括应采取的安全步骤，以及未来计划在其协议中实施的安全措施。\n\n\n详情请关注官方推特：https://twitter.com/dotbithq\n\n\n本文来自投稿，不代表BlockBeats观点",
@@ -273,26 +323,6 @@
           "publishedOn": "2023-04-02T06:58:48.000Z",
           "wordCount": null,
           "title": "Farcaster vs Lens Protocol全面测评：谁是更好的去中心化社交协议？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36136",
-          "author": null,
-          "description": "「诸侯割据」的非洲，加密巨头尚未出现，华语力量不容小觑。",
-          "link": "https://www.theblockbeats.info/news/36136",
-          "publishedOn": "2023-04-02T05:30:02.000Z",
-          "wordCount": null,
-          "title": "新时代的Web3郑和下西洋：去非洲淘金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36118",
-          "author": null,
-          "description": "投资组合已突破100个项目，DWF Labs的投资理念与重要投资一览。",
-          "link": "https://www.theblockbeats.info/news/36118",
-          "publishedOn": "2023-04-02T03:00:02.000Z",
-          "wordCount": null,
-          "title": "频频出手的DWF Labs是谁？「VC+做市商」，每月定投5个项目",
           "imageUrl": null
         }
       ]
