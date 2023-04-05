@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36229",
+          "author": null,
+          "description": "OpenSea可能会走上发币以外的道路，但用户想要的是真正的经济回报。",
+          "link": "https://www.theblockbeats.info/news/36229",
+          "publishedOn": "2023-04-05T11:21:33.000Z",
+          "wordCount": null,
+          "title": "OpenSea做了个Blur，会发币吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36228",
+          "author": null,
+          "description": "「一文概览Solana DeFi未来的发展出路」",
+          "link": "https://www.theblockbeats.info/news/36228",
+          "publishedOn": "2023-04-05T11:11:58.000Z",
+          "wordCount": null,
+          "title": "面向未来，Solana DeFi将如何发展",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36227",
           "author": null,
           "description": "World ID 将成为互联网上最大的真实人类网络，作为公共利益对所有人开放。",
@@ -303,46 +323,6 @@
           "publishedOn": "2023-04-03T06:10:13.000Z",
           "wordCount": null,
           "title": "中国太保投资管理（香港）有限公司与水滴资本携手推出数字资产基金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36157",
-          "author": null,
-          "description": "原文作者：Jaleel\n\n\n\n编辑：Jack\n\n\n\n\n\n\n\n\n\n\n周末，Arbitrum 社区关于 DAO 金库 Token 分配的提案引起了剧烈的讨论，团队在社区投票没有通过，甚至是没有结束前，就将 Token 转移到了团队和投资机构的钱包中（BlockBeats 注，更多关于 AIP-1 提案的有关内容请阅读《先斩后奏？Arbitrum 基金会欲通过提案操控 10 亿美元去向》）。在「DAO 名存实亡」的阵阵声讨中，也有人开始了解 Arbitrum 团队背后的故事。\n\n\n「Lab experiment」\n\n\n\n\nEdward William Felten，1963 年 3 月 25 日出生。Felten 就读于加州理工学院，并于 1985 年获得物理学学位。1986 年至 1989 年，他在加州理工学院担任程序员，参与了加州理工学院的一个并行超级计算机项目。随后，他在华盛顿大学攻读计算机科学专业的研究生。1991 年获 MS 硕士学位，1993 年获博士学位，论文是关于开发并行处理器之间通信的自动化协议。\n\n\n\n\n1993 年，他作为助理教授加入普林斯顿大学计算机科学系，并于 1999 年晋升为副教授，2003 年晋升为教授。2005 年，他成为普林斯顿信息与技术政策中心（CIPT）主任。他还曾担任律师事务所、公司、私人基金会和政府机构的顾问。2006 年，他加入了伍德罗·威尔逊公共和国际事务学院，研究领域拓展至公共关系。从 2006 年到 2010 年，他是电子前沿基金会 (EFF) 的董事会成员。2010 年 11 月，他被任命为美国联邦贸易委员会的首席技术官。\n\n\n\n\n\nEd Felten 作为 CIPT 主任的视频演讲，图源来自网络\n\n\n\n\n2012 年和 2013 年间，Ed 回归了自己的教学岗位，并开始接触和研究比特币及区块链技术。Ed 对比特币的研究工作始…",
-          "link": "https://www.theblockbeats.info/news/36157",
-          "publishedOn": "2023-04-03T06:06:19.000Z",
-          "wordCount": null,
-          "title": "从白宫到Web3：扒一扒Arbitrum创始人Ed Felten的过往",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36151",
-          "author": null,
-          "description": "Blur 与 OpenSea 的悬崖塞车只是 NFTfi 这场无限战争序幕的第一章而已",
-          "link": "https://www.theblockbeats.info/news/36151",
-          "publishedOn": "2023-04-03T04:12:55.000Z",
-          "wordCount": null,
-          "title": "Arkstream Capital：Blur与OpenSea的悬崖赛车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36146",
-          "author": null,
-          "description": "原文标题：《Arbitrum 基金会透明度遭诟病，欲通过 AIP-1「窃取」10 亿美元？》\n原文来源：PANews  \n\n\n就在 ARB Token空投几天后，3 月 28 日，Arbitrum 社区在 Snapshot 上发起 Arbitrum Improvement Proposal 1 (AIP-1) 提案投票，拟引入一个名为 ArbitrumDAO 的去中心化自治组织结构，该组织由 ARB 持有者管理，位于开曼群岛的 Arbitrum 基金会将为 ArbitrumDAO 社区服务并受其管理，旨在促进 Arbitrum 生态系统的成长和发展。\n\n\n不过，创建 ArbitrumDAO 可能是一个「幌子」，因为该提案的背后实体 Lemma 还将申请 7.5 亿枚 ARB \n\nToken\n\n（价值约超 10 亿美元）资金拨款（Lemma 是 Arbitrum 基金会的服务提供商，主要专注于运营的治理组件），但社区很快发现，Arbitrum 基金会很可能想用这个提案「窃取」这笔钱。\n\n\nAIP-1 提案引发争议  \n\n\nAIP-1 提案目前尚未获得批准，但 Arbitrum 基金会已经事先创建了一个地址名为「Arbitrum DAO Treasury2」的多重签名钱包，并且收到近 7 亿枚 ARB \n\nToken\n\n，尽管 Arbitrum 基金会的一位代表称该地址是 Administrative Budget Wallet，但这个说辞并没有被社区接受。\n实际上，AIP-1 提案让 Arbitrum 社区感到「不爽」主要有以下三个原因：\n\n\n1、对高达 7.5 亿枚 ARB \n\nToken\n\n捐款没有实质投票权\n\n\n社区发现，Arbitrum 基金会这个貌似透明的提案其实将赠款分配排除在链上治理之外，ARB 持有人无法决定 Arbitrum 基金会将近 10 亿美元的资金分…",
-          "link": "https://www.theblockbeats.info/news/36146",
-          "publishedOn": "2023-04-03T03:17:42.000Z",
-          "wordCount": null,
-          "title": "先斩后奏？Arbitrum基金会欲通过提案操控10亿美元去向",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36145",
-          "author": null,
-          "description": "原文标题：《\n\n未经治理流程出售代币？解析 Arbitrum 基金会争议操作始末\n\n》\n\n原文来源：\n\nLoopy Lu, ODAILY星球日报\n\n\n今日，一则关于 Arbitrum 这一明星项目的新闻引发了社区争议，且仍在持续发酵之中。\n\n\n\n根据周日早些时候一名员工的博客文章，Arbitrum 基金会在其代币持有者治理社区「批准」该组织近 10 亿美元的预算之前，就开始以稳定币的形式出售 ARB 代币。\n\n\n这一行为激发了社区的声讨，ARB 代币价格也应声下跌至最低 1.15 美元附近，日跌幅一度逾越 10% ，现反弹至 1.18 美元附近。\n\n\n引发争议的提案是什么？\n\n\n4 月 1 日，Arbitrum 社区已发起 Arbitrum Improvement Proposal 1 (AIP-1) 提案，拟引入一个名为 ArbitrumDAO 的去中心化自治组织结构，该组织由 ARB 持有者管理，位于开曼群岛的 Arbitrum 基金会将为 ArbitrumDAO 社区服务并受其管理，旨在促进 Arbitrum 生态系统的成长和发展，该提案背后实体 Lemma 还将申请 7.5 亿枚 ARB 代币（价值约超 10 亿美元）资金拨款。\n\n\n尽管该提案目前尚未获得批准，但已经创建了一个地址名为「Arbitrum DAO Treasury 2 」的多重签名钱包，并且收到近 7 亿枚 ARB 代币，Arbitrum 基金会的一位代表称该地址是 Administrative Budget Wallet。\n\n\n然而，Arbitrum DAO 出师不利，第一个提案即引发了巨大争议。\n\n\n按照空投之时项目方所公布的代币经济模型，总量 42.78% （42.78 亿枚）的代币本应分配给 Arbitrum DAO 的社区金库。而按照 AIP-1 ，原本属于社区的 7.5 亿枚 ARB 或将…",
-          "link": "https://www.theblockbeats.info/news/36145",
-          "publishedOn": "2023-04-03T03:14:18.000Z",
-          "wordCount": null,
-          "title": "梳理Arbitrum基金会提案争议始末：未经治理流程出售代币",
           "imageUrl": null
         }
       ]
