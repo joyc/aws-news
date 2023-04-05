@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36227",
+          "author": null,
+          "description": "World ID 将成为互联网上最大的真实人类网络，作为公共利益对所有人开放。",
+          "link": "https://www.theblockbeats.info/news/36227",
+          "publishedOn": "2023-04-05T06:20:20.000Z",
+          "wordCount": null,
+          "title": "Worldcoin：AI纪元下的人类",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36225",
           "author": null,
           "description": "Polygon 员工全方面对比 Polygon zkEVM 与 zkSync Era∎",
