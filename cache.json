@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36225",
+          "author": null,
+          "description": "Polygon 员工全方面对比 Polygon zkEVM 与 zkSync Era∎",
+          "link": "https://www.theblockbeats.info/news/36225",
+          "publishedOn": "2023-04-05T04:11:24.000Z",
+          "wordCount": null,
+          "title": "Polygon眼中与zkSync的zkEVM对比",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36224",
+          "author": null,
+          "description": "Frax Finance 最初是一种混合算法稳定币协议，经过几年的运营，在竞争激励的稳定币赛道成功存活了下来。",
+          "link": "https://www.theblockbeats.info/news/36224",
+          "publishedOn": "2023-04-05T02:50:03.000Z",
+          "wordCount": null,
+          "title": "解读LSD「后来者」Frax Finance：如何通过产品套件构建增长飞轮？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36223",
+          "author": null,
+          "description": "Goodbye Gem, Hello OpenSea Pro",
+          "link": "https://www.theblockbeats.info/news/36223",
+          "publishedOn": "2023-04-05T01:00:02.000Z",
+          "wordCount": null,
+          "title": "OpenSea版的Blur来了：新Gem变成了OpenSea Pro",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36211",
           "author": null,
           "description": "对Web3.0协议来说，可持续成功是一个全新的命题。",
