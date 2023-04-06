@@ -6,6 +6,96 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36268",
+          "author": null,
+          "description": "尽管 Web3 世界的流行可能还需要五到十年的时间，但区块链技术的确正在重塑传统互联网与电信行业。",
+          "link": "https://www.theblockbeats.info/news/36268",
+          "publishedOn": "2023-04-06T10:35:37.000Z",
+          "wordCount": null,
+          "title": "掘金800亿美元市场，区块链如何重塑电信行业？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36266",
+          "author": null,
+          "description": "零知证明与zkEVM：从何而来，去往何处？",
+          "link": "https://www.theblockbeats.info/news/36266",
+          "publishedOn": "2023-04-06T09:57:12.000Z",
+          "wordCount": null,
+          "title": "基于实际场景解析零知识证明与zkEVM的原理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36265",
+          "author": null,
+          "description": "本文将根据近期的 Arbitrum 事件，介绍有关代币做市商的具体机制以及潜在违规的可能性。",
+          "link": "https://www.theblockbeats.info/news/36265",
+          "publishedOn": "2023-04-06T09:40:31.000Z",
+          "wordCount": null,
+          "title": "做市还是做庄？解密项目方与做市商的「秘密交易」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36247",
+          "author": null,
+          "description": "Eclipse：可定制的Rollup解决方案",
+          "link": "https://www.theblockbeats.info/news/36247",
+          "publishedOn": "2023-04-06T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Eclipse：运用定制化功能，构建充满活力的Rollup生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36248",
+          "author": null,
+          "description": "zkSync及Starknet还未发币，了解关于zksync lite及era项目整体概况",
+          "link": "https://www.theblockbeats.info/news/36248",
+          "publishedOn": "2023-04-06T08:30:01.000Z",
+          "wordCount": null,
+          "title": "ZKSync生态项目：梳理zkSync Lite及zkSync Era的特点与区别",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36261",
+          "author": null,
+          "description": "Scroll通过怎样的机制实现在去中心化的前提下继承以太坊主网的安全性。",
+          "link": "https://www.theblockbeats.info/news/36261",
+          "publishedOn": "2023-04-06T07:41:47.000Z",
+          "wordCount": null,
+          "title": "简述Scroll zkEVM方案：如何实现去中心化的愿景？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36244",
+          "author": null,
+          "description": "「透过VC，观察市场」",
+          "link": "https://www.theblockbeats.info/news/36244",
+          "publishedOn": "2023-04-06T06:09:39.000Z",
+          "wordCount": null,
+          "title": "观察加密VC走向，DeFi研究员看好的三个项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36243",
+          "author": null,
+          "description": "Sui主网即将发布，凭借其底层技术优势，生态可能会迎来一波发展高潮。",
+          "link": "https://www.theblockbeats.info/news/36243",
+          "publishedOn": "2023-04-06T05:57:03.000Z",
+          "wordCount": null,
+          "title": "Sui按下加速键，能否成为下一个Layer 1破局者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36230",
+          "author": null,
+          "description": "活动期间内，累积越多投票作品和社区审美观点达成一致共识的用户，将有机会获得HeartX App上线时优先进行内测体验的限量机会",
+          "link": "https://www.theblockbeats.info/news/36230",
+          "publishedOn": "2023-04-06T04:02:45.000Z",
+          "wordCount": null,
+          "title": "HeartX推出「投就赚」Token空投游戏为平台上线进行预热",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36232",
           "author": null,
           "description": "「或许依靠 Aave 团队和以太坊的关系网，会有更多优质协议入驻到 Lens，优质项目越多，Lens 就越有所谓的'正统性'」。\n\n\n在中文「CT 圈里」，这是对当下明星社交协议 Lens Protocol 的一种主流看法。确实，最近一段时间里 Uniswap、Gitcoin、Nexus Mutual、Aave 这些优质的协议都选择了入驻 Lens 作为备用的社交媒体。数据上，Lens 各项指标势头凶猛。3 月 26 日，Lens protocol profiles NFT 的平均地板价达到了有史以来的最高点 0.14 eth，并保持在 250 美元附近，持有者数量也超过 11 万，达到历史新高。\n\n\n\n\n\n\n\nLens protocol profiles NFT 地板价连连上涨的同时，生态内的头牌应用 Lenster 也公布了在过去一个月活跃数据的大幅增长：2 月 22 日到 3 月 24 日之间达到 450 万浏览量，2 万每日活跃用户，7.1 万每周活跃用户，21 万每月活跃用户，44.5 万条新帖子发布，29.4 万条评论和 88 万次镜像行为。\n\n\n\n\n\n\n\n\n\n社区纷纷祝贺 Lens 和 Lenster 在短短 30 天内巨大的增长和出色的参与度，与之相比，2 个月前引起一众用户分享公钥的 Nostr 协议及其应用 Damus 却好像没那么多人提了。\n\n\n\n\n两个月前大家还在设想「香饽饽」的 Nostr 如何引领社交新范式，如今 Lens 又成了赛道里的「当红炸子鸡」。热度远低 DeFi 和 NFT 的社交赛道在进入 2023 年后，像加了催化剂一般，随着「Lens 空投预期」迅速沸腾起来。在这个时间点上，BlockBeats 先后采访了 Nostr 中文社区早期参与推广者 aLE、 Lens 中文社区发起人大硕和 Matters-lab 联合创始人 Liu g…",
