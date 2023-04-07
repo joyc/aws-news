@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-07T06:09:27.371Z</updated>
+    <updated>2023-04-07T12:11:49.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polytrade：主打「贸易融资+稳定币借贷」的RWA创新项目]]></title>
+        <id>https://www.theblockbeats.info/news/36289</id>
+        <link href="https://www.theblockbeats.info/news/36289"/>
+        <updated>2023-04-07T09:56:16.000Z</updated>
+        <summary type="html"><![CDATA[「RWA是DeFi创新发展的重要途径之一」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：2023年表现强劲的五个加密叙事]]></title>
+        <id>https://www.theblockbeats.info/news/36288</id>
+        <link href="https://www.theblockbeats.info/news/36288"/>
+        <updated>2023-04-07T09:55:57.000Z</updated>
+        <summary type="html"><![CDATA[今天哪些垂直领域正在闪烁着看涨信号，并显示出进入主流市场的强烈迹象？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitcoin Beta轮即将来临，那些关于Gitcoin和Passport你需要知道的事]]></title>
+        <id>https://www.theblockbeats.info/news/36286</id>
+        <link href="https://www.theblockbeats.info/news/36286"/>
+        <updated>2023-04-07T09:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Gitcoin作为一个Web3的管理和捐款计划的协作平台，为很多区块链初创项目提供了初始的流动资金，同时很多早期参与Gitcoin捐赠的用户也因此拿到了GTC、ENS、BrightID、Rss3等项目的空投，今天就来聊一聊关于Gitcoin平台的一些板块和内容。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CertiK：研究了40个跑路项目后，这7点值得警示]]></title>
+        <id>https://www.theblockbeats.info/news/36284</id>
+        <link href="https://www.theblockbeats.info/news/36284"/>
+        <updated>2023-04-07T06:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Rug Pull作为Web 3.0生态系统的持续威胁，我们应该如何辨别及保护自己远离「项目跑路」？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不看好新的比特币NFT协议Bitcoin Stamps？]]></title>
+        <id>https://www.theblockbeats.info/news/36283</id>
+        <link href="https://www.theblockbeats.info/news/36283"/>
+        <updated>2023-04-07T05:16:44.000Z</updated>
+        <summary type="html"><![CDATA[协议如其名，小而贵的「邮票」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来纽约参与Crypto CityCamps首站活动，赢取1.5万枚GMT]]></title>
         <id>https://www.theblockbeats.info/news/36271</id>
