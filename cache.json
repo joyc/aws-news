@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36287",
+          "author": null,
+          "description": "原文标题：《\n\n以太坊上海升级一周倒计时：提前复苏的 LSD 赛道还有哪些机会？\n\n》\n原文来源：白泽研究院\n\n\n以太坊主网还有一星期就要启动上海升级了。 \n\n\n\n\n流动性质押衍生品协议（LSD）及代币似乎在过去 24 小时内苏醒了： \n\n\n\n\n• $LDO +8.5% \n• $RPL +8.9% \n• $SWISE +11.3% \n• $FXS +7.6% \n• $SD +15% \n\n\n\n\nETH 流动性质押已发展成为了一个价值 150 亿美元以上的市场。所有这些协议都将在不到一周的时间内为上海升级所带来的市场变化做准备。\n\n\n自今年年初以来，通过流动性质押的 ETH 总量从 680 万增至 823 万 ETH，增长了 21%。上海升级之后，无法以真实价值赎回 ETH 的风险将消失。\n\n\n因此，在更大的时间范围内，我强烈希望这会导致 ETH 大量流入 LSD 协议，因为这会为用户增加更多收入。\n\n\n1、Rocket Pool\n\n\n\n\n抵押的 ETH 总量：44.1 万个 ETH\n\n\n2023 年第一季度发展情况：\n\n\n• 新增 9 万个 ETH\n• 市场份额从 4.9% 5.3% \n• $RPL 价格 +137%\n\n\n\n\n\n\n\n\n\n该协议的 Atlas 升级将于 4 月 18 日上线，将允许用户解除 ETH 质押，同时引入 Gas 优化、更高的节点运营商奖励和上线 8 ETH 迷你矿池。因此，在此之后仅用 8 ETH 就可以运行一个节点，并且回报会更高。\n\n\n\n\n\n\n\n\n\n运行节点 / 迷你矿池时，用户必须将 10%-150% 的抵押 ETH 锁定为 $RPL 作为抵押品（协议保险）。因此，在 Rocket Pool 上质押的 ETH 数量越多，$RPL 市值 / 价格就越大。进一步坚实了代币经济学。\n\n\n\n\n2、Frax Finance\n\n\n\n\n质押的 ETH 总量：1…",
+          "link": "https://www.theblockbeats.info/news/36287",
+          "publishedOn": "2023-04-07T11:00:02.000Z",
+          "wordCount": null,
+          "title": "以太坊上海升级一周倒计时：提前复苏的LSD赛道还有哪些机会？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36289",
           "author": null,
           "description": "「RWA是DeFi创新发展的重要途径之一」",
@@ -263,36 +273,6 @@
           "publishedOn": "2023-04-05T06:20:20.000Z",
           "wordCount": null,
           "title": "Worldcoin：AI纪元下的人类",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36225",
-          "author": null,
-          "description": "Polygon 员工全方面对比 Polygon zkEVM 与 zkSync Era∎",
-          "link": "https://www.theblockbeats.info/news/36225",
-          "publishedOn": "2023-04-05T04:11:24.000Z",
-          "wordCount": null,
-          "title": "Polygon眼中与zkSync的zkEVM对比",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36224",
-          "author": null,
-          "description": "Frax Finance 最初是一种混合算法稳定币协议，经过几年的运营，在竞争激励的稳定币赛道成功存活了下来。",
-          "link": "https://www.theblockbeats.info/news/36224",
-          "publishedOn": "2023-04-05T02:50:03.000Z",
-          "wordCount": null,
-          "title": "解读LSD「后来者」Frax Finance：如何通过产品套件构建增长飞轮？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36223",
-          "author": null,
-          "description": "Goodbye Gem, Hello OpenSea Pro",
-          "link": "https://www.theblockbeats.info/news/36223",
-          "publishedOn": "2023-04-05T01:00:02.000Z",
-          "wordCount": null,
-          "title": "OpenSea版的Blur来了：新Gem变成了OpenSea Pro",
           "imageUrl": null
         }
       ]
