@@ -234,56 +234,6 @@
           "wordCount": null,
           "title": "观察加密VC走向，DeFi研究员看好的三个项目",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36243",
-          "author": null,
-          "description": "Sui主网即将发布，凭借其底层技术优势，生态可能会迎来一波发展高潮。",
-          "link": "https://www.theblockbeats.info/news/36243",
-          "publishedOn": "2023-04-06T05:57:03.000Z",
-          "wordCount": null,
-          "title": "Sui按下加速键，能否成为下一个Layer 1破局者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36230",
-          "author": null,
-          "description": "活动期间内，累积越多投票作品和社区审美观点达成一致共识的用户，将有机会获得HeartX App上线时优先进行内测体验的限量机会",
-          "link": "https://www.theblockbeats.info/news/36230",
-          "publishedOn": "2023-04-06T04:02:45.000Z",
-          "wordCount": null,
-          "title": "HeartX推出「投就赚」Token空投游戏为平台上线进行预热",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36232",
-          "author": null,
-          "description": "「或许依靠 Aave 团队和以太坊的关系网，会有更多优质协议入驻到 Lens，优质项目越多，Lens 就越有所谓的'正统性'」。\n\n\n在中文「CT 圈里」，这是对当下明星社交协议 Lens Protocol 的一种主流看法。确实，最近一段时间里 Uniswap、Gitcoin、Nexus Mutual、Aave 这些优质的协议都选择了入驻 Lens 作为备用的社交媒体。数据上，Lens 各项指标势头凶猛。3 月 26 日，Lens protocol profiles NFT 的平均地板价达到了有史以来的最高点 0.14 eth，并保持在 250 美元附近，持有者数量也超过 11 万，达到历史新高。\n\n\n\n\n\n\n\nLens protocol profiles NFT 地板价连连上涨的同时，生态内的头牌应用 Lenster 也公布了在过去一个月活跃数据的大幅增长：2 月 22 日到 3 月 24 日之间达到 450 万浏览量，2 万每日活跃用户，7.1 万每周活跃用户，21 万每月活跃用户，44.5 万条新帖子发布，29.4 万条评论和 88 万次镜像行为。\n\n\n\n\n\n\n\n\n\n社区纷纷祝贺 Lens 和 Lenster 在短短 30 天内巨大的增长和出色的参与度，与之相比，2 个月前引起一众用户分享公钥的 Nostr 协议及其应用 Damus 却好像没那么多人提了。\n\n\n\n\n两个月前大家还在设想「香饽饽」的 Nostr 如何引领社交新范式，如今 Lens 又成了赛道里的「当红炸子鸡」。热度远低 DeFi 和 NFT 的社交赛道在进入 2023 年后，像加了催化剂一般，随着「Lens 空投预期」迅速沸腾起来。在这个时间点上，BlockBeats 先后采访了 Nostr 中文社区早期参与推广者 aLE、 Lens 中文社区发起人大硕和 Matters-lab 联合创始人 Liu g…",
-          "link": "https://www.theblockbeats.info/news/36232",
-          "publishedOn": "2023-04-06T03:41:58.000Z",
-          "wordCount": null,
-          "title": "Lens还是Nostr？找到未来社交媒体的最终解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36239",
-          "author": null,
-          "description": "原文标题：《千呼万唤始出来，全方位解读 GMX V2》\n原文作者：CapitalismLab\n\n\nGMX 团队近期发布了 V2 有关提案，预示着备受期待的 GMX 合成资产版本终于到了上线前夕，本文将为你带来全方位的 GMX V2 解读，一窥此衍生品赛道龙头的未来。\n\n\n\n\n\n\n\n\n交易市场 \n\n\n\nGMX V2 中，每个交易对都有对应的 LP。比如 ETH/USD 交易，LP 也由 ETH/USDs 组成。其中多头抵押品为 ETH，空头抵押品为稳定币，指数代币为 ETH。\n\n\n\n\n这种情况下仍然保留了全额抵押带来的安全性优势，又使得每个交易对的 LP 只需要承担这个交易对的风险，有利于上线更多资产，以及打开了将来允许无需许可的上币的可能性，毕竟不再像 GLP 一样上个新币需要考虑对整个池子的影响。\n\n\n\n\n\n此外所谓合成资产，就是也可以交易链上没有的资产。比如 SOL/USD 市场，LP 为 ETH/USD, 多头抵押品为 ETH，空头抵押品为稳定币，指数代币为 SOL。就是说由 ETH 来支撑 SOL 的做多交易。\n\n\n很显然，SOL /USD 的安全性无法达到 ETH/USD 那种全额保障的效果，但是考虑到 SOL/ETH 的相关性，相较纯 USD 作为 LP，风险也会小很多。此外 GMX 也称会控制 OI 上限少于抵押资产来降低风险。\n\n\n费用结构\n\n\n\n\n除开基本的交易手续费外。GMX V2 有 Funding Fee，Borrow Fee, Price Impact 三重费用。这些费用有助于平衡 LP 和 OI 的多空，避免容量被低效占用以及降低价格操纵风险，总体来说就是让 GMX LP 风险更小以及让交易量更大。\n\n\nFunding Fee 主要目的是平衡多空。具体公式为：(X) * (多空 OI 之差) ^ (Y) / (多空 OI 之和)。X 和 Y 均为…",
-          "link": "https://www.theblockbeats.info/news/36239",
-          "publishedOn": "2023-04-06T03:17:24.000Z",
-          "wordCount": null,
-          "title": "千呼万唤始出来，全方位解读GMX V2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36231",
-          "author": null,
-          "description": "原文标题：《\n\n浅析 BTC Stamps：比特币 NFT 的新风口\n\n》\n\n原文来源：ODAILY星球日报\n\n\n比特币 NFT 的世界里出现了一股新的风向。\n\n\n\n\n一种叫作 BTC Stamps（比特币「邮票」）的全新比特币 NFT 实现方式已经诞生，且在其问世的头 20 天内，通过该方式所铸造的 NFT 数量要远远超过我们已较为熟悉的 Ordinals 起步时的数据。（关于 Ordinals，可参考阅读《NFT 玩家必读：万字雄文解读 Bitcoin Ordinals》）\n\n\n\n\n团片来源：Bitcoin Frontier Fund 合伙人 trevor.btc  \n\n\nBTC Stamps 系由匿名开发者 Mike In Space! 创建，根据其提交的 Github 资料可知，BTC Stamps 的实现机制为将 base 64 格式的图像数据嵌入到比特币链上的交易输出之中，从而永久地在比特币链上保存相应的图片数据。\n\n\n具体来说，用户需要先将图片的二进制内容编码为 base 64 格式的字符串（图片的 base 64 编码指的是可以将一副图片数据编码成一串字符串，再使用该字符串代替图像地址），然后在该字符串之前加入「Stamps:」的前缀，继而再使用 Counterparty 协议将整段文本内容广播到比特币链上，内容会被切分但会逐一编号，以方便上层应用据此逆向解码至原始图片内容。\n\n\n这里涉及到了一个概念—— Counterparty 协议。Counterparty 协议其实早在 2014 年就已诞生，如今被视为 NFT 先驱的「Rare Pepes」（当时甚至还没有 NFT 这个词）就曾使用过该协议，其特点在于可在比特币数据块的空白处写入数据，从而将数据嵌入至原生的比特币交易之中。\n\n\n值得一提的是，99% 的 Counterparty 交易一般都会采用 OP_RETURN 的数据编码方法，但基于该方法所嵌入的数据可以被比特币全节点「删减」，因此并不适用于强调永久保存的 NFT 方向。但在 BTC Stamps 的情况下，由于 base 64 字符串的统一长度，相应的 Counterparty 交易会默认为 P 2 SH 类型，该类型交易需要将数据分拆并嵌入至多笔交易输出之中（内容越大，创建的输出越多），且无法被比特币全节点「删除」，从而就实现了对图片数据的永久保存。\n\n\n至于 BTC Stamps 的 C 端体验，有两点需要格外注意。\n\n\n一是从数据上链的成本角度考虑，Mike In Space! 在 Github 资料库中建议用户选择「24 x 24 像素， 8 色深的 PNG 或 GIF」的图片规格，这也是头部项目 CryptoPunks 的原生分辨率。\n\n\n二是所有的 BTC Stamps NFT 均将根据交易时间戳进行编号（因此最重要的可能不是图片内容，而是编号），编号从 0 开始，并将无限地持续下去，但内嵌无效或无法辨认的 base 64 字符串的交易将不会被承认。\n\n\nStampchain 数据显示，截至北京时间 4 月 6 日 1: 30 ，已有 8220 个 BTC Stamps NFT 被铸造，图片内容大多都直接搬用了 CryptoPunks 的原图。\n\n\n\n\n\n综合来看，BTC Stamps 为所有对比特币 NFT 感兴趣的玩家提供了一种全新的实现形式，其与 Ordinals 相比，也存在着一些明显的区别。\n\n\n根据比特币生态开发团队 Trust Machines 的分析，BTC Stamps 相较于 Ordinals 最大的优势在于，其数据保存基于最简单的交易输出完成，因此比特币全节点们「别无选择」，只能选择去保存 BTC Stamps，而 OP_RETURN 和「见证数据」（Ordinals 采用的方案）则存在被全节点「删减」的可能性。\n\n\n\n\n\n不过，BTC Stamps 相较于 Ordinals 也有着明显的劣势。最主要的一点 BTC Stamps 的费用成本较 Ordinals 更高，这也导致 BTC Stamps 为了限制成本只能去限制原始图片的规格；此外，Ordinals 还支持除图片外的其他文件类型，比如文本、音频、视频甚至应用程序等等，只要大小不超过 4 MB 的区块限制即可，这也是 BTC Stamps 暂时做不到的。 \n\n\n比特币 NFT 的发展仍处于极早期，无论是 BTC Stamps 还是 Ordinals 暂时都还不够成熟，二者最终能否分出个孰优孰劣，或是会根据不同的特点走向不同的应用方向，这都会成为比特币 NFT 未来发展的关键看点。Odaily 星球日报也将继续陪伴大家，持续跟踪这一细分赛道的发展动向。\n\n\n原文来源",
-          "link": "https://www.theblockbeats.info/news/36231",
-          "publishedOn": "2023-04-06T03:11:04.000Z",
-          "wordCount": null,
-          "title": "全新比特币NFT实现方式：BTC Stamps能否带起新的风口?",
-          "imageUrl": null
         }
       ]
     },
