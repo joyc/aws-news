@@ -22,6 +22,323 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-08 datetime="2023-04-08T04:40:45.000Z">2023-04-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-08 datetime="2023-04-08T04:40:45.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - undefined</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36291"
+                        open
+                      >
+                        <summary class="article-expander__title">教你简单编程，快人一步领空投</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36291">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文作者：Rekt Fencer，加密研究员
+原文编译：Leo，BlockBeats
+
+
+
+空投是币圈最稳健的投资，也是「造富」的现实版投资，3 月份 ARB 空投造就了很多「暴富神话」，有人在很顺利地领到了 ARB 高价卖出，而大部分人因为网络、节点等问题无法登录空投领取界面，不能成功 Claim，直到大家都可以领到 ARB 时，ARB 的价格因为砸盘下跌，出售价格并没有初始领取的那部分人高，甚至跌了很多倍。所以，相比那些技术人员，我们散户也要学习一下该如何快速领取空投并以高价卖出，加密研究员 Rekt Fencer 编写一篇「如何编写代码领取空投」的文章，BlockBeats 编译如下：
+
+
+
+
+编码员以 3 美元的价格出售了他们的 ARB 空投，你呢？想知道如何在加密领域获得技术上的优势吗？这篇文章可以教你学习如何编码。以下是我关于如何开始编码之旅的分步指南：
+
+
+
+
+
+本文包括:
+
+
+-应该选择哪种编程语言来学习？
+-课程
+
+-实践网站
+
+-你必须学会如何使用库
+
+-对项目的初次尝试
+-如何解决遇见的问题
+
+
+
+
+市场上有数百种编程语言，在我看来，最适合初学者的是 Python，理由是：
+
+
+-初学者易于学习；
+
+
+-可以在互联网上轻松找到每个问题的解决方案；
+
+
+-能找到很多课程和指南；
+
+
+
+
+
+
+
+Python 基础学习
+
+
+
+
+有很多基础的 python 课程，通常都差不多，可以挑一个你喜欢的开始学习，比如：
+
+
+代码基础
+编程 100 天
+
+freeCodeCamp
+
+Bro Code
+
+
+
+
+我不建议浪费太多时间在学习基础知识上，你可能会感到无聊而无法继续，所以要尽快完成对基础知识的了解，然后继续下一步。
+
+
+
+
+Python 实践
+
+
+
+
+证明学习成果最好的方法是去实践，可以通过以下网站去实践以检验你的 python 水平，点击了解：
+
+
+
+
+LeetCode
+
+HackerRank
+
+Codewars
+
+
+
+
+
+
+
+如何使用库
+
+
+
+
+在学习和实践了 Python 的基础知识之后，下一步是学习如何使用各种库。以下是你可能需要的库的列表:
+
+
+
+
+-Requests
+-Asyncio
+-Aiohttp
+-CCXT
+-Web3 py
+
+
+
+
+
+
+
+
+Requests
+
+
+Requests 提供了一个易于使用的界面来与 Web 服务器通信，你可以用它进行 API 交互、执行 Web 抓取等。点击了解：
+
+
+指南
+
+文档
+
+
+
+
+
+
+
+Asyncio 和 Aiohttp
+
+
+
+
+这些库用于异步编程，特别是构建异步 Web 应用程序或发出异步 HTTP 请求，可以让你的程序更快。点击了解
+
+
+
+
+指南
+
+
+
+
+CCXT
+
+
+CCTX 提供了与各种加密货币交易平台交互的统一 API，所以应该深入研究这个库以便未来与交易平台交互。点击了解
+
+
+
+
+指南
+文档
+
+
+
+
+
+
+
+当然，有一些 API functions 没有在这个库中实现。如果你没有找到所需要的 function，可以尝试查看 API 文档使用请求库发送请求。
+
+
+
+
+
+
+
+Web3 py
+
+
+
+
+Web3 py 允许开发人员与以太坊链交互，发送和接收交易，与智能合约交互，以及执行与以太坊开发相关的其它操作。点击了解
+
+
+指南
+
+文档
+
+
+
+
+
+
+
+尝试接触项目
+
+
+学成后，你就可以在项目中利用实际学到的知识进行操作，这个过程会很有趣。以下是一些你现在就可以开始编写的项目程序：
+
+
+-Token 价格变化通知程序
+
+
+-CEX 新闻解析器
+
+
+-Token 数据解析器
+
+
+-ETH 发送器
+
+
+-DEX token swap 机器
+
+
+
+
+解决问题
+
+
+当然，在学习 Python 的过程中，你会遇见很多问题和疑惑。以下是一些建议可以解决你遇见的问题：
+
+
+
+
+-使用 chat GPT
+-使用谷歌/YT 搜索答案
+-阅读相关文档
+
+
+
+
+
+
+
+结语
+
+
+
+
+
+
+
+
+
+最后，学习 Python 或任何其它编程语言都不是一件很容易的事，所以很有可能你在某个时候会停止学习。但如果你能够克服懒惰并且深入编程语言，你就真正地在加密领域拥有优势，也很大程度能在下一次牛市期间通过技术造富。
+
+
+欢迎加入律动 BlockBeats 官方社群：
+
+
+Telegram 订阅群
+
+Telegram 交流群
+
+Twitter 官方账号
+
+
+原文链接</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36290"
+                        open
+                      >
+                        <summary class="article-expander__title">「上海升级」进入倒计时，ETH潜在抛压解析</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36290">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>上海升级完成或将面临3个阶段的抛压，而现货及衍生品市场数据或许能体现投资者对ETH的信心。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-07 datetime="2023-04-07T11:00:02.000Z">2023-04-07</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-07 datetime="2023-04-07T11:00:02.000Z"></time>
           </button>
@@ -1112,8 +1429,8 @@ Stampchain 数据显示，截至北京时间 4 月 6 日 1: 30 ，已有 8220
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4642396040">
-        <time id="build-timestamp" datetime="2023-04-08T00:33:02.577Z">2023-04-08T00:33:02.577Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4643747693">
+        <time id="build-timestamp" datetime="2023-04-08T06:08:41.067Z">2023-04-08T06:08:41.067Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

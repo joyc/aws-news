@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36291",
+          "author": null,
+          "description": "原文作者：Rekt Fencer，加密研究员\n原文编译：Leo，BlockBeats\n\n\n\n空投是币圈最稳健的投资，也是「造富」的现实版投资，3 月份 ARB 空投造就了很多「暴富神话」，有人在很顺利地领到了 ARB 高价卖出，而大部分人因为网络、节点等问题无法登录空投领取界面，不能成功 Claim，直到大家都可以领到 ARB 时，ARB 的价格因为砸盘下跌，出售价格并没有初始领取的那部分人高，甚至跌了很多倍。所以，相比那些技术人员，我们散户也要学习一下该如何快速领取空投并以高价卖出，加密研究员 Rekt Fencer 编写一篇「如何编写代码领取空投」的文章，BlockBeats 编译如下：\n\n\n\n\n编码员以 3 美元的价格出售了他们的 ARB 空投，你呢？想知道如何在加密领域获得技术上的优势吗？这篇文章可以教你学习如何编码。以下是我关于如何开始编码之旅的分步指南：\n\n\n\n\n\n本文包括:\n\n\n-应该选择哪种编程语言来学习？\n-课程\n\n-实践网站\n\n-你必须学会如何使用库\n\n-对项目的初次尝试\n-如何解决遇见的问题\n\n\n\n\n市场上有数百种编程语言，在我看来，最适合初学者的是 Python，理由是：\n\n\n-初学者易于学习；\n\n\n-可以在互联网上轻松找到每个问题的解决方案；\n\n\n-能找到很多课程和指南；\n\n\n\n\n\n\n\nPython 基础学习\n\n\n\n\n有很多基础的 python 课程，通常都差不多，可以挑一个你喜欢的开始学习，比如：\n\n\n代码基础\n编程 100 天\n\nfreeCodeCamp\n\nBro Code\n\n\n\n\n我不建议浪费太多时间在学习基础知识上，你可能会感到无聊而无法继续，所以要尽快完成对基础知识的了解，然后继续下一步。\n\n\n\n\nPython 实践\n\n\n\n\n证明学习成果最好的方法是去实践，可以通过以下网站去实践以检验你的 python 水平，点击了解：\n\n\n\n\nLeetCode\n\nHackerRank\n\nCodewars\n\n\n\n\n\n\n\n如何使用库\n\n\n\n\n在学习和实践了 Python 的基础知识之后，下一步是学习如何使用各种库。以下是你可能需要的库的列表:\n\n\n\n\n-Requests\n-Asyncio\n-Aiohttp\n-CCXT\n-Web3 py\n\n\n\n\n\n\n\n\nRequests\n\n\nRequests 提供了一个易于使用的界面来与 Web 服务器通信，你可以用它进行 API 交互、执行 Web 抓取等。点击了解：\n\n\n指南\n\n文档\n\n\n\n\n\n\n\nAsyncio 和 Aiohttp\n\n\n\n\n这些库用于异步编程，特别是构建异步 Web 应用程序或发出异步 HTTP 请求，可以让你的程序更快。点击了解\n\n\n\n\n指南\n\n\n\n\nCCXT\n\n\nCCTX 提供了与各种加密货币交易平台交互的统一 API，所以应该深入研究这个库以便未来与交易平台交互。点击了解\n\n\n\n\n指南\n文档\n\n\n\n\n\n\n\n当然，有一些 API functions 没有在这个库中实现。如果你没有找到所需要的 function，可以尝试查看 API 文档使用请求库发送请求。\n\n\n\n\n\n\n\nWeb3 py\n\n\n\n\nWeb3 py 允许开发人员与以太坊链交互，发送和接收交易，与智能合约交互，以及执行与以太坊开发相关的其它操作。点击了解\n\n\n指南\n\n文档\n\n\n\n\n\n\n\n尝试接触项目\n\n\n学成后，你就可以在项目中利用实际学到的知识进行操作，这个过程会很有趣。以下是一些你现在就可以开始编写的项目程序：\n\n\n-Token 价格变化通知程序\n\n\n-CEX 新闻解析器\n\n\n-Token 数据解析器\n\n\n-ETH 发送器\n\n\n-DEX token swap 机器\n\n\n\n\n解决问题\n\n\n当然，在学习 Python 的过程中，你会遇见很多问题和疑惑。以下是一些建议可以解决你遇见的问题：\n\n\n\n\n-使用 chat GPT\n-使用谷歌/YT 搜索答案\n-阅读相关文档\n\n\n\n\n\n\n\n结语\n\n\n\n\n\n\n\n\n\n最后，学习 Python 或任何其它编程语言都不是一件很容易的事，所以很有可能你在某个时候会停止学习。但如果你能够克服懒惰并且深入编程语言，你就真正地在加密领域拥有优势，也很大程度能在下一次牛市期间通过技术造富。\n\n\n欢迎加入律动 BlockBeats 官方社群：\n\n\nTelegram 订阅群\n\nTelegram 交流群\n\nTwitter 官方账号\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/36291",
+          "publishedOn": "2023-04-08T04:40:45.000Z",
+          "wordCount": null,
+          "title": "教你简单编程，快人一步领空投",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36290",
+          "author": null,
+          "description": "上海升级完成或将面临3个阶段的抛压，而现货及衍生品市场数据或许能体现投资者对ETH的信心。",
+          "link": "https://www.theblockbeats.info/news/36290",
+          "publishedOn": "2023-04-08T02:49:26.000Z",
+          "wordCount": null,
+          "title": "「上海升级」进入倒计时，ETH潜在抛压解析",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36287",
           "author": null,
           "description": "原文标题：《\n\n以太坊上海升级一周倒计时：提前复苏的 LSD 赛道还有哪些机会？\n\n》\n原文来源：白泽研究院\n\n\n以太坊主网还有一星期就要启动上海升级了。 \n\n\n\n\n流动性质押衍生品协议（LSD）及代币似乎在过去 24 小时内苏醒了： \n\n\n\n\n• $LDO +8.5% \n• $RPL +8.9% \n• $SWISE +11.3% \n• $FXS +7.6% \n• $SD +15% \n\n\n\n\nETH 流动性质押已发展成为了一个价值 150 亿美元以上的市场。所有这些协议都将在不到一周的时间内为上海升级所带来的市场变化做准备。\n\n\n自今年年初以来，通过流动性质押的 ETH 总量从 680 万增至 823 万 ETH，增长了 21%。上海升级之后，无法以真实价值赎回 ETH 的风险将消失。\n\n\n因此，在更大的时间范围内，我强烈希望这会导致 ETH 大量流入 LSD 协议，因为这会为用户增加更多收入。\n\n\n1、Rocket Pool\n\n\n\n\n抵押的 ETH 总量：44.1 万个 ETH\n\n\n2023 年第一季度发展情况：\n\n\n• 新增 9 万个 ETH\n• 市场份额从 4.9% 5.3% \n• $RPL 价格 +137%\n\n\n\n\n\n\n\n\n\n该协议的 Atlas 升级将于 4 月 18 日上线，将允许用户解除 ETH 质押，同时引入 Gas 优化、更高的节点运营商奖励和上线 8 ETH 迷你矿池。因此，在此之后仅用 8 ETH 就可以运行一个节点，并且回报会更高。\n\n\n\n\n\n\n\n\n\n运行节点 / 迷你矿池时，用户必须将 10%-150% 的抵押 ETH 锁定为 $RPL 作为抵押品（协议保险）。因此，在 Rocket Pool 上质押的 ETH 数量越多，$RPL 市值 / 价格就越大。进一步坚实了代币经济学。\n\n\n\n\n2、Frax Finance\n\n\n\n\n质押的 ETH 总量：1…",
