@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36296",
+          "author": null,
+          "description": "临近 Web3 香港大会，叠加 6 月份或将公布的香港加密货币新政策，市场对于香港概念的项目极度敏感。不过 4 月 9 日，行情显示，有香港概念属性的 EtherPOAP OG NFT 系列地板价在两天里暴跌逾 65%，从超 1.8 ETH，直接膝盖斩到了 0.61 ETH。\n\n\n\n\n\n\n\n\n\n在社交媒体上，EtherPOAP 的 bio 显示 powered by Hashkey 集团，这似乎也是 EtherPOAP OG 的地板价从最初的 0.02 ETH 涨到 1.8 ETH 的原因之一，背景和时机双优的 EtherPOAP 发生了什么？\n\n\n\n\n新规则让 OG 干苦力拉人头\n\n\n\n\n\n\n\n\n\nEtherPOAP 团队于 4 月 7 号发布 2 代 NFT（EtherARK PASS）的铸造规则。根据官方给出的信息，OG NFT 持有者可以通过邀请别人铸造价格高达 0.1 ETH 的 EtherARK PASS 获得奖励。但引起社区争议的是，OG 持有者和受邀的 2 代 NFT 铸造者获得的奖励严重分配不均。\n\n\n\n\n持有 1 枚 OG NFT 的老玩家需要邀请 10 个新人，才勉强获得多于铸造 1 枚 2 代 EtherARK PASS 的奖励。邀请 50 个人能获得的奖励，甚至比不上铸造 10 枚 2 代 EtherARK PASS。持有者期待的 OG 赋能，不仅沦为一场拉人头的地推比赛，甚至拉人头的奖励远不如新人。这也引起了一众 OG 老玩家的严重不满，与之相对应的自然是老玩家割肉离场引起的 OG NFT 地板价暴跌。\n\n\n\n\n\n\n\n\n\n社区对项目的重要性\n\n\n\n\n沉浸在 Web3 多年的我们，深知社区对项目的重要性。从最早的 DeFi，到蓬勃发展两年的 NFT，甚至去年才进入主流认知的所谓 Web3 项目，社区都是第一位的。\n\n\n\n\nDeFi 从 Uniswap 开启的 token 空投用于社区治理是对 OG 的奖励现在已经习以为常；NFT 的社区冷启动以社区 OG 经过重重选拔才能获得白名单也早已成为项目的重中之重；以 StepN 为代表的 Web3 项目也曾经多次强调早期社区的重要，对于早期社区 OG 的身份认同以及奖励是 Web3 项目成功关键之一。\n\n\n\n\n但 EtherPOAP 放弃 OG 用户的做法，让持有 1 枚 EtherPOAP OG 与持有 1 枚 EtherARK PASS 的用户之间奖励相差近 20 倍，实属罕见，也的确引发了大量 OG 持有人的不满，指责背后支持者 Hashkey，二级市场也出现腰斩以上的剧烈波动。\n\n\n\n\n\n\n\n\n\n目前 EtherPOAP 官方在社交媒体上也表达规则会重新制定，不知道会不会优化对 OG 的奖励，但社区对项目方的信心还在吗？",
+          "link": "https://www.theblockbeats.info/news/36296",
+          "publishedOn": "2023-04-09T03:36:29.000Z",
+          "wordCount": null,
+          "title": "EtherPOAP被暴力砸盘，社区指责背后支持者Hashkey",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36293",
           "author": null,
           "description": "被誉为Web3版Spotify，spinamp能成为整个Web3音乐赛道的入口吗？",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-04-07T01:00:01.000Z",
           "wordCount": null,
           "title": "ERC 6551带来NFT与DID新范式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36245",
-          "author": null,
-          "description": "本文将介绍构建ZKML的动机、当前努力与潜在的应用空间。",
-          "link": "https://www.theblockbeats.info/news/36245",
-          "publishedOn": "2023-04-06T14:00:02.000Z",
-          "wordCount": null,
-          "title": "零知识机器学习 (ZKML) ：ZK与AI将会碰撞出怎样的火花？",
           "imageUrl": null
         }
       ]
