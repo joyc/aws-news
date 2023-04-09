@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36298",
+          "author": null,
+          "description": "那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n《「2023 香港 Web3 嘉年华」大咖云集，周边活动及资讯一览【持续更新】》\n\n\n\n\n\n\n《Lens 还是 Nostr？找到未来社交媒体的最终解》\n\n\nLens 和 Nostr 都是「以 Web3 为名」火起来的，但圈内的所有协议和应用都天然带有一个 10 万魔咒的天花板，在快速达到 10 万这个数量级之后开始下跌。相比 Defi 协议来说，去中心化社交协议的应用场景似乎更有难度。如何定义应用场景并让用户从原本的社交围墙中走出来，是一个值得所有人思考的问题。\n\n\n\n\n《先斩后奏？Arbitrum 基金会欲通过提案操控 10 亿美元去向》\n\n\n就在 ARB Token 空投几天后，3 月 28 日，Arbitrum 社区在 Snapshot 上发起 Arbitrum Improvement Proposal 1 (AIP-1) 提案投票，引发社区争议。创建 ArbitrumDAO 可能是一个「幌子」，因为该提案的背后实体 Lemma 还将申请 7.5 亿枚 ARB Token（价值约超 10 亿美元）资金拨款（Lemma 是 Arbitrum 基金会的服务提供商，主要专注于运营的治理组件），但社区很快发现，Arbitrum 基金会很可能想用这个提案「窃取」这笔钱。\n\n\n\n\n《从白宫到 Web3：扒一扒 Arbitrum 创始人 Ed Felten 的过往》\n\n\n上周末，Arbitrum 社区关于 DAO 金库 Token 分配的提案引起了剧烈的讨论，团队在社区投票没有通过，甚至是没有结束前，就将 Token 转移到了团队和投资机构…",
+          "link": "https://www.theblockbeats.info/news/36298",
+          "publishedOn": "2023-04-09T09:08:56.000Z",
+          "wordCount": null,
+          "title": "周末荐读：OpenSea Pro能否挑战Blur地位？揭秘Arbitrum创始人Ed Felten过往",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36297",
+          "author": null,
+          "description": "原文标题：《你一直以来都用错了 ChatGPT！掌握这 3 大提示技巧，让你秒变 GPT 达人！》\n原文作者：Normanrockon，MultiSig\n\n\n为什么提示工程如此重要？\n\n\n提示工程的目标是通过提供清晰、简洁且结构良好的输入来提高语言模型的性能，这些输入需要针对模型所用于的特定任务或应用进行定制。可以将提示工程比喻成与人交流时使用清晰明了的语言，让对方更容易理解你的意图，从而做出更满意的回应。\n\n\n那么接下来，我们将依次介绍 OpenAI 提供的提示工程最佳实践，FushionAI 的自动生成功能，以及让 GPT 进行自我反思。我们还会提供一个额外的实用小技巧，请多留心！\n\n\nOpenAI 的官方最佳提示技巧\n\n\n\n1. 使用最新的模型\n\n\n为了获得最佳效果，我们建议使用最新、性能最强大的模型。截至 2022 年 11 月，文本生成方面的最佳选择是「text-davinci-003」模型，代码生成方面的最佳选择是「code-davinci-002」模型。能使用 GPT-4 当然会比 ChatGPT 要更好。\n\n\n2. 将指令放在提示的开头，并用 ### 或\"\"\"将指令与文本分开\n\n\n效果不佳：\n将下面的文本摘要成一个关键要点的项目列表。\n{输入文本}\n\n\n更好的选择：\n将下面的文本摘要成一个关键要点的项目列表。\n文本：\n\"\"\" {输入文本} \"\"\"\n\n\n3. 对所需的上下文、结果、长度、格式、风格等尽可能具体、详细和描述性\n\n\n效果不佳：\n写一首关于 OpenAI 的诗。\n\n\n更好的选择：\n写一首关于 OpenAI 的短篇励志诗，重点描述 DALL-E 产品发布（DALL-E 是一个文本到图像的机器学习模型），风格仿照 {著名诗人}。\n\n\n4. 通过示例（示例 1，示例 2）明确所需输出格式\n\n\n效果不佳：\n从下面的文本中提取实体。提取以下 4 种实体类型：公…",
+          "link": "https://www.theblockbeats.info/news/36297",
+          "publishedOn": "2023-04-09T07:15:01.000Z",
+          "wordCount": null,
+          "title": "掌握这3大提示技巧，让你秒变GPT达人！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36296",
           "author": null,
           "description": "临近 Web3 香港大会，叠加 6 月份或将公布的香港加密货币新政策，市场对于香港概念的项目极度敏感。不过 4 月 9 日，行情显示，有香港概念属性的 EtherPOAP OG NFT 系列地板价在两天里暴跌逾 65%，从超 1.8 ETH，直接膝盖斩到了 0.61 ETH。\n\n\n\n\n\n\n\n\n\n在社交媒体上，EtherPOAP 的 bio 显示 powered by Hashkey 集团，这似乎也是 EtherPOAP OG 的地板价从最初的 0.02 ETH 涨到 1.8 ETH 的原因之一，背景和时机双优的 EtherPOAP 发生了什么？\n\n\n\n\n新规则让 OG 干苦力拉人头\n\n\n\n\n\n\n\n\n\nEtherPOAP 团队于 4 月 7 号发布 2 代 NFT（EtherARK PASS）的铸造规则。根据官方给出的信息，OG NFT 持有者可以通过邀请别人铸造价格高达 0.1 ETH 的 EtherARK PASS 获得奖励。但引起社区争议的是，OG 持有者和受邀的 2 代 NFT 铸造者获得的奖励严重分配不均。\n\n\n\n\n持有 1 枚 OG NFT 的老玩家需要邀请 10 个新人，才勉强获得多于铸造 1 枚 2 代 EtherARK PASS 的奖励。邀请 50 个人能获得的奖励，甚至比不上铸造 10 枚 2 代 EtherARK PASS。持有者期待的 OG 赋能，不仅沦为一场拉人头的地推比赛，甚至拉人头的奖励远不如新人。这也引起了一众 OG 老玩家的严重不满，与之相对应的自然是老玩家割肉离场引起的 OG NFT 地板价暴跌。\n\n\n\n\n\n\n\n\n\n社区对项目的重要性\n\n\n\n\n沉浸在 Web3 多年的我们，深知社区对项目的重要性。从最早的 DeFi，到蓬勃发展两年的 NFT，甚至去年才进入主流认知的所谓 Web3 项目，社区都是第一位的。\n\n\n\n\nDeFi 从 Uniswap 开启的 token 空投用于社区治理是对 OG 的奖励现在已经习以为常；NFT 的社区冷启动以社区 OG 经过重重选拔才能获得白名单也早已成为项目的重中之重；以 StepN 为代表的 Web3 项目也曾经多次强调早期社区的重要，对于早期社区 OG 的身份认同以及奖励是 Web3 项目成功关键之一。\n\n\n\n\n但 EtherPOAP 放弃 OG 用户的做法，让持有 1 枚 EtherPOAP OG 与持有 1 枚 EtherARK PASS 的用户之间奖励相差近 20 倍，实属罕见，也的确引发了大量 OG 持有人的不满，指责背后支持者 Hashkey，二级市场也出现腰斩以上的剧烈波动。\n\n\n\n\n\n\n\n\n\n目前 EtherPOAP 官方在社交媒体上也表达规则会重新制定，不知道会不会优化对 OG 的奖励，但社区对项目方的信心还在吗？",
