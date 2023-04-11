@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-11T06:09:13.574Z</updated>
+    <updated>2023-04-11T12:12:31.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港特首李家超出席香港Web 3.0协会成立典礼致辞（全文）]]></title>
+        <id>https://www.theblockbeats.info/news/36373</id>
+        <link href="https://www.theblockbeats.info/news/36373"/>
+        <updated>2023-04-11T09:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Web3对金融科技的发展起着关键的作用。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话加密诈骗者：如何保护自己的加密资产]]></title>
+        <id>https://www.theblockbeats.info/news/36371</id>
+        <link href="https://www.theblockbeats.info/news/36371"/>
+        <updated>2023-04-11T08:07:53.000Z</updated>
+        <summary type="html"><![CDATA[「在赚钱的同时也要学会确保自己的钱包安全」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从近期巨鲸和VC的链上资金动态中，洞悉热点Token和交易]]></title>
+        <id>https://www.theblockbeats.info/news/36370</id>
+        <link href="https://www.theblockbeats.info/news/36370"/>
+        <updated>2023-04-11T07:56:08.000Z</updated>
+        <summary type="html"><![CDATA[加密研究员Thor Hartvigsen总结了最近30天内一些知名风险投资基金、投资者以及交易者在加密货币市场上的活动。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空投卷王的期待，复盘Layer2现状]]></title>
+        <id>https://www.theblockbeats.info/news/36361</id>
+        <link href="https://www.theblockbeats.info/news/36361"/>
+        <updated>2023-04-11T06:28:53.000Z</updated>
+        <summary type="html"><![CDATA[本篇热点报告主要复盘了Arbitrum one 发行代币后整个Layer2生态的现状]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港与脱钩：重返3万美元的比特币]]></title>
+        <id>https://www.theblockbeats.info/news/36360</id>
+        <link href="https://www.theblockbeats.info/news/36360"/>
+        <updated>2023-04-11T06:11:34.000Z</updated>
+        <summary type="html"><![CDATA[情绪空间已经打开，行情有了诞生的土壤]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无需记住钱包私钥，OKX MPC无私钥钱包用技术创新降低Web3门槛]]></title>
+        <id>https://www.theblockbeats.info/news/36349</id>
+        <link href="https://www.theblockbeats.info/news/36349"/>
+        <updated>2023-04-11T05:57:23.000Z</updated>
+        <summary type="html"><![CDATA[OKX Web3钱包正式推出「MPC无私钥钱包」功能，成为行业关注的焦点]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kusama国库即将耗尽？如何提高国库资金的可持续性？]]></title>
+        <id>https://www.theblockbeats.info/news/36344</id>
+        <link href="https://www.theblockbeats.info/news/36344"/>
+        <updated>2023-04-11T05:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Kusama的一个验证人节点Adam Clay Steeber在波卡论坛上发布的一篇关于如何提高Kusama国库资金的可持续性的帖子引起了热议。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABCDE Capital：香港大会，重新思考3个热门赛道]]></title>
+        <id>https://www.theblockbeats.info/news/36342</id>
+        <link href="https://www.theblockbeats.info/news/36342"/>
+        <updated>2023-04-11T04:32:32.000Z</updated>
+        <summary type="html"><![CDATA[我们往往高估一些技术的短期价值，而有往往低估一些技术的长期价值，这些赛道也许无法给投资机购与一二级市场带来相符或是短期的投资回报率。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第16周链上数据分析：市场迎来关键节点，市场整体情绪中性偏多]]></title>
+        <id>https://www.theblockbeats.info/news/36341</id>
+        <link href="https://www.theblockbeats.info/news/36341"/>
+        <updated>2023-04-11T04:03:20.000Z</updated>
+        <summary type="html"><![CDATA[本周从4月4日到4月10日，冰糖橙最高附近$28800，最低接近$27650，震荡幅度达到4.1% 左右。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《财富》特稿：Binance创始人CZ的成长、家庭与传承]]></title>
         <id>https://www.theblockbeats.info/news/36340</id>
