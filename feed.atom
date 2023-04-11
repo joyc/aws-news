@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-10T18:08:59.045Z</updated>
+    <updated>2023-04-11T00:36:01.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -512,26 +512,6 @@ DeFi 从 Uniswap 开启的 token 空投用于社区治理是对 OG 的奖励现�
 
 
 目前 EtherPOAP 官方在社交媒体上也表达规则会重新制定，不知道会不会优化对 OG 的奖励，但社区对项目方的信心还在吗？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spinamp：逐渐成熟的音乐NFT聚合器]]></title>
-        <id>https://www.theblockbeats.info/news/36293</id>
-        <link href="https://www.theblockbeats.info/news/36293"/>
-        <updated>2023-04-08T09:27:08.000Z</updated>
-        <summary type="html"><![CDATA[被誉为Web3版Spotify，spinamp能成为整个Web3音乐赛道的入口吗？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析以太坊再质押协议对当前质押系统的影响]]></title>
-        <id>https://www.theblockbeats.info/news/36292</id>
-        <link href="https://www.theblockbeats.info/news/36292"/>
-        <updated>2023-04-08T07:19:00.000Z</updated>
-        <summary type="html"><![CDATA[再质押协议扭曲了内在的质押反馈循环。从长远来看，以太坊有可能无法通过修改APR来对抗高质押参与度和中心化力量。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
