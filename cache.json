@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36378",
+          "author": null,
+          "description": "Datamall Chain的去中心化存储流程保证了存储提供者和存储消费者双方的利益，并最小化链上的负担，从而实现了更高的可扩展性。",
+          "link": "https://www.theblockbeats.info/news/36378",
+          "publishedOn": "2023-04-12T02:28:40.000Z",
+          "wordCount": null,
+          "title": "Datamall Chain：基于博弈共识模型的去中心化存储平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36374",
+          "author": null,
+          "description": "如何在保证游戏核心玩法的前提下，充分让渡游戏的创作自由？",
+          "link": "https://www.theblockbeats.info/news/36374",
+          "publishedOn": "2023-04-12T01:00:01.000Z",
+          "wordCount": null,
+          "title": "从消费者到创造者，站在玩家视角漫谈全链游戏设计",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36377",
           "author": null,
           "description": "香港要发力了",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-12T00:35:19.434Z</updated>
+    <updated>2023-04-12T06:09:45.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Datamall Chain：基于博弈共识模型的去中心化存储平台]]></title>
+        <id>https://www.theblockbeats.info/news/36378</id>
+        <link href="https://www.theblockbeats.info/news/36378"/>
+        <updated>2023-04-12T02:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Datamall Chain的去中心化存储流程保证了存储提供者和存储消费者双方的利益，并最小化链上的负担，从而实现了更高的可扩展性。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从消费者到创造者，站在玩家视角漫谈全链游戏设计]]></title>
+        <id>https://www.theblockbeats.info/news/36374</id>
+        <link href="https://www.theblockbeats.info/news/36374"/>
+        <updated>2023-04-12T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[如何在保证游戏核心玩法的前提下，充分让渡游戏的创作自由？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港Web3.0协会理事会成员都有哪些重要人物？]]></title>
         <id>https://www.theblockbeats.info/news/36377</id>
