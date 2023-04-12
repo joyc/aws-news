@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-11T18:07:41.183Z</updated>
+    <updated>2023-04-12T00:35:19.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -456,107 +456,6 @@ ARB 当前的市值为 16 亿美元，OP 的市值为 7 亿美元，而它们的
 
 
 Rol…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：OpenSea Pro能否挑战Blur地位？揭秘Arbitrum创始人Ed Felten过往]]></title>
-        <id>https://www.theblockbeats.info/news/36298</id>
-        <link href="https://www.theblockbeats.info/news/36298"/>
-        <updated>2023-04-09T09:08:56.000Z</updated>
-        <summary type="html"><![CDATA[那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。
-
-
-《「2023 香港 Web3 嘉年华」大咖云集，周边活动及资讯一览【持续更新】》
-
-
-
-
-
-
-《Lens 还是 Nostr？找到未来社交媒体的最终解》
-
-
-Lens 和 Nostr 都是「以 Web3 为名」火起来的，但圈内的所有协议和应用都天然带有一个 10 万魔咒的天花板，在快速达到 10 万这个数量级之后开始下跌。相比 Defi 协议来说，去中心化社交协议的应用场景似乎更有难度。如何定义应用场景并让用户从原本的社交围墙中走出来，是一个值得所有人思考的问题。
-
-
-
-
-《先斩后奏？Arbitrum 基金会欲通过提案操控 10 亿美元去向》
-
-
-就在 ARB Token 空投几天后，3 月 28 日，Arbitrum 社区在 Snapshot 上发起 Arbitrum Improvement Proposal 1 (AIP-1) 提案投票，引发社区争议。创建 ArbitrumDAO 可能是一个「幌子」，因为该提案的背后实体 Lemma 还将申请 7.5 亿枚 ARB Token（价值约超 10 亿美元）资金拨款（Lemma 是 Arbitrum 基金会的服务提供商，主要专注于运营的治理组件），但社区很快发现，Arbitrum 基金会很可能想用这个提案「窃取」这笔钱。
-
-
-
-
-《从白宫到 Web3：扒一扒 Arbitrum 创始人 Ed Felten 的过往》
-
-
-上周末，Arbitrum 社区关于 DAO 金库 Token 分配的提案引起了剧烈的讨论，团队在社区投票没有通过，甚至是没有结束前，就将 Token 转移到了团队和投资机构…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌握这3大提示技巧，让你秒变GPT达人！]]></title>
-        <id>https://www.theblockbeats.info/news/36297</id>
-        <link href="https://www.theblockbeats.info/news/36297"/>
-        <updated>2023-04-09T07:15:01.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《你一直以来都用错了 ChatGPT！掌握这 3 大提示技巧，让你秒变 GPT 达人！》
-原文作者：Normanrockon，MultiSig
-
-
-为什么提示工程如此重要？
-
-
-提示工程的目标是通过提供清晰、简洁且结构良好的输入来提高语言模型的性能，这些输入需要针对模型所用于的特定任务或应用进行定制。可以将提示工程比喻成与人交流时使用清晰明了的语言，让对方更容易理解你的意图，从而做出更满意的回应。
-
-
-那么接下来，我们将依次介绍 OpenAI 提供的提示工程最佳实践，FushionAI 的自动生成功能，以及让 GPT 进行自我反思。我们还会提供一个额外的实用小技巧，请多留心！
-
-
-OpenAI 的官方最佳提示技巧
-
-
-
-1. 使用最新的模型
-
-
-为了获得最佳效果，我们建议使用最新、性能最强大的模型。截至 2022 年 11 月，文本生成方面的最佳选择是「text-davinci-003」模型，代码生成方面的最佳选择是「code-davinci-002」模型。能使用 GPT-4 当然会比 ChatGPT 要更好。
-
-
-2. 将指令放在提示的开头，并用 ### 或"""将指令与文本分开
-
-
-效果不佳：
-将下面的文本摘要成一个关键要点的项目列表。
-{输入文本}
-
-
-更好的选择：
-将下面的文本摘要成一个关键要点的项目列表。
-文本：
-""" {输入文本} """
-
-
-3. 对所需的上下文、结果、长度、格式、风格等尽可能具体、详细和描述性
-
-
-效果不佳：
-写一首关于 OpenAI 的诗。
-
-
-更好的选择：
-写一首关于 OpenAI 的短篇励志诗，重点描述 DALL-E 产品发布（DALL-E 是一个文本到图像的机器学习模型），风格仿照 {著名诗人}。
-
-
-4. 通过示例（示例 1，示例 2）明确所需输出格式
-
-
-效果不佳：
-从下面的文本中提取实体。提取以下 4 种实体类型：公…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
