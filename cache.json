@@ -6,6 +6,106 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36457",
+          "author": null,
+          "description": "原文作者：Leo，BlockBeats\n\n\nWeb3 钱包追踪应用 Context 宣布其推出的 NFT 铸造聚合器 mint.fun 已开放通行证铸造，用户可在其官网免费 mint !fundrop 通行证，并通过后续交互获取积分，目前已有近 2 万地址成功 mint，并获取了相应积分。\n\n\n\n\n「!fundrop 通行证、交互获取积分」，或是在为以后空投埋伏笔，接下来为大家介绍一下 mint.fun。\n\n\n\n\n\n\n\nmint.fun 介绍\n\n\n\n\nmint.fun 是一个 NFT mint 聚合平台，用户连接钱包后，可以进行相应的 NFT 系列 mint，界面简单易操作，显示信息种类全面，以下是该平台的用例介绍。\n\n\n\n\n对于创作者\n\n\n\n\n对于创作者来说，创作者可以在 mint.fun 上启动你自己的 NFT 项目，如果你的 NFT 合约已经部署，可以通过 mingt.fun + 合约地址（mint.fun/contract address，合约地址需通过 Etherscan 验证）在 mint.fun 上线自己的 NFT 项目。\n\n\n\n\n上线后，可以点击「Customize」自定义你的 NFT 信息（主题、页面布局、相关媒介），上线 mint 期间，你可以随时更改自己的 NFT 主题，但更改会导致 NFT 界面的布局元素重新排列，也可以通过编辑器恢复默认界面。mint.fun 目前支持以太坊 ERC-721 和 ERC-1155 合约。\n\n\n\n\n\n\n对于收藏者\n\n\n\n\nMint 是 NFT 项目产生价值的方式，通常指收藏者通过钱包与 NFT 创作者的智能合约交互，从而获得藏品的过程，mint 价格由创作者定义，当然也有很多 NFT 系列是 free mint 的，mint.fun 的 minting 界面分为三类：免费 mint，用户钱包关注的 NFT mint、白…",
+          "link": "https://www.theblockbeats.info/news/36457",
+          "publishedOn": "2023-04-13T10:29:13.000Z",
+          "wordCount": null,
+          "title": "Open AI CEO Sam Altman投资的NFT平台mint.fun有什么特点？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36455",
+          "author": null,
+          "description": "对ETH走势有分歧是好事，没分歧才该担忧。",
+          "link": "https://www.theblockbeats.info/news/36455",
+          "publishedOn": "2023-04-13T09:16:28.000Z",
+          "wordCount": null,
+          "title": "上海升级后，各方对于ETH未来走势观点不一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36454",
+          "author": null,
+          "description": "分析Liquity的业务发展情况，以及相对其他稳定币协议的竞争优劣",
+          "link": "https://www.theblockbeats.info/news/36454",
+          "publishedOn": "2023-04-13T08:47:55.000Z",
+          "wordCount": null,
+          "title": "去中心化稳定币龙头Liquity的业务现状、机遇与挑战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36453",
+          "author": null,
+          "description": "从相识CZ，到加入Binance",
+          "link": "https://www.theblockbeats.info/news/36453",
+          "publishedOn": "2023-04-13T08:20:52.000Z",
+          "wordCount": null,
+          "title": "地方中心如何开疆拓土？专访Binance哈萨克斯坦负责人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36452",
+          "author": null,
+          "description": "DWF Labs的业务范围涉及做市、公关和营销、平台现货及衍生品上币、BD和合作关系以及筹资等。",
+          "link": "https://www.theblockbeats.info/news/36452",
+          "publishedOn": "2023-04-13T07:54:32.000Z",
+          "wordCount": null,
+          "title": "DWF Labs合伙人公开回应质疑：我们不只是做市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36451",
+          "author": null,
+          "description": "但 DeFi 信贷市场已经展示了其增长势头和培育创新的能力",
+          "link": "https://www.theblockbeats.info/news/36451",
+          "publishedOn": "2023-04-13T07:23:54.000Z",
+          "wordCount": null,
+          "title": "DeFi借贷的圣杯：不足额抵押贷款",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36448",
+          "author": null,
+          "description": "「ether.fi正在为以太坊构建首批真正的非托管质押协议」",
+          "link": "https://www.theblockbeats.info/news/36448",
+          "publishedOn": "2023-04-13T07:07:44.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes看好的LSD赛道新秀ether.fi有什么优势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36447",
+          "author": null,
+          "description": "本文为您详细介绍 RetroPGF2 中工具与实用程序类别的前 10 个获奖项目。",
+          "link": "https://www.theblockbeats.info/news/36447",
+          "publishedOn": "2023-04-13T07:07:02.000Z",
+          "wordCount": null,
+          "title": "Optimism基金会RetroPGF 2 Top10获奖项目：工具类",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36445",
+          "author": null,
+          "description": "FTX重启至少会为债权人提供一些价值，无论多小",
+          "link": "https://www.theblockbeats.info/news/36445",
+          "publishedOn": "2023-04-13T06:34:08.000Z",
+          "wordCount": null,
+          "title": "FTX重启？争论点在哪里？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36436",
+          "author": null,
+          "description": "Web3不是目的，而是提供更好互联网的途径。",
+          "link": "https://www.theblockbeats.info/news/36436",
+          "publishedOn": "2023-04-13T06:18:54.000Z",
+          "wordCount": null,
+          "title": "Web3 — 更好互联网的答案+新经济的引擎",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36434",
           "author": null,
           "description": "原文标题：《What is On-chain Analysis and 3 Tools to Visualize On-Chain Data》\n原文作者：CoinGecko - Josiah Makori\n原文编译：BlockTurbo\n\n\n\n与其他资产类别不同，来自公共区块链的加密交易可以免费访问，使其适用于数据科学和机器学习。你可以轻松提取和分析区块链数据，也称为链上分析。通过这些丰富、开放的财务数据，你可以获得对市场趋势、情绪和其他投资者行为的宝贵见解。\n\n\n不断观察和跟踪市场是潜在获利的不可或缺的策略。虽然基本面分析和技术分析可以洞察各种市场趋势，但从链上来源提取数据可以提供对区块链的鸟瞰图。然而，这并不意味着它们相互排斥。在分析加密货币的潜力时，你可以同时使用这三种方法。\n\n\n在本文中，我们将深入探讨什么是链上分析以及如何利用它来丰富你的交易和投资策略。\n\n\n链上意味着什么？链上与链下的分别\n\n\n在定义链上分析之前，让我们了解什么是链上以及它与链下的比较。顾名思义，链上是指在区块链上验证和记录的交易。在工作量证明 (PoW) 的情况下，验证和记录由矿工完成，而在权益证明 (PoS) 的情况下，验证和记录由验证者完成。任何地方的任何人都可以访问记录在公共区块链上的链上交易。\n\n\n另一方面，链下与链上相反。它指的是通过 Layer 2 在区块链外部验证和记录的交易，通常拥有更低的成本和更快的交易速度。\n\n\n技术分析 vs. 链上分析 vs. 基本面分析\n\n\n\n基本面分析\n\n\n基本面分析力求通过多个方面的因素来理解资产，例如其市值，交易量，效用，持有人数量以及背后团队的真实性等。这种分析对于确定资产是否被高估或低估是必要的。下面是针对比特币 (BTC) 的简单的基本面分析示例：\n\n\nBTC 的最大供应量为 2100 万枚，目前已流通 1930 万枚。这意味着只剩下 17…",

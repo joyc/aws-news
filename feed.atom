@@ -2,10 +2,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-13T06:09:41.631Z</updated>
+    <updated>2023-04-13T12:12:48.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open AI CEO Sam Altman投资的NFT平台mint.fun有什么特点？]]></title>
+        <id>https://www.theblockbeats.info/news/36457</id>
+        <link href="https://www.theblockbeats.info/news/36457"/>
+        <updated>2023-04-13T10:29:13.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Leo，BlockBeats
+
+
+Web3 钱包追踪应用 Context 宣布其推出的 NFT 铸造聚合器 mint.fun 已开放通行证铸造，用户可在其官网免费 mint !fundrop 通行证，并通过后续交互获取积分，目前已有近 2 万地址成功 mint，并获取了相应积分。
+
+
+
+
+「!fundrop 通行证、交互获取积分」，或是在为以后空投埋伏笔，接下来为大家介绍一下 mint.fun。
+
+
+
+
+
+
+
+mint.fun 介绍
+
+
+
+
+mint.fun 是一个 NFT mint 聚合平台，用户连接钱包后，可以进行相应的 NFT 系列 mint，界面简单易操作，显示信息种类全面，以下是该平台的用例介绍。
+
+
+
+
+对于创作者
+
+
+
+
+对于创作者来说，创作者可以在 mint.fun 上启动你自己的 NFT 项目，如果你的 NFT 合约已经部署，可以通过 mingt.fun + 合约地址（mint.fun/contract address，合约地址需通过 Etherscan 验证）在 mint.fun 上线自己的 NFT 项目。
+
+
+
+
+上线后，可以点击「Customize」自定义你的 NFT 信息（主题、页面布局、相关媒介），上线 mint 期间，你可以随时更改自己的 NFT 主题，但更改会导致 NFT 界面的布局元素重新排列，也可以通过编辑器恢复默认界面。mint.fun 目前支持以太坊 ERC-721 和 ERC-1155 合约。
+
+
+
+
+
+
+对于收藏者
+
+
+
+
+Mint 是 NFT 项目产生价值的方式，通常指收藏者通过钱包与 NFT 创作者的智能合约交互，从而获得藏品的过程，mint 价格由创作者定义，当然也有很多 NFT 系列是 free mint 的，mint.fun 的 minting 界面分为三类：免费 mint，用户钱包关注的 NFT mint、白…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海升级后，各方对于ETH未来走势观点不一]]></title>
+        <id>https://www.theblockbeats.info/news/36455</id>
+        <link href="https://www.theblockbeats.info/news/36455"/>
+        <updated>2023-04-13T09:16:28.000Z</updated>
+        <summary type="html"><![CDATA[对ETH走势有分歧是好事，没分歧才该担忧。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去中心化稳定币龙头Liquity的业务现状、机遇与挑战]]></title>
+        <id>https://www.theblockbeats.info/news/36454</id>
+        <link href="https://www.theblockbeats.info/news/36454"/>
+        <updated>2023-04-13T08:47:55.000Z</updated>
+        <summary type="html"><![CDATA[分析Liquity的业务发展情况，以及相对其他稳定币协议的竞争优劣]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地方中心如何开疆拓土？专访Binance哈萨克斯坦负责人]]></title>
+        <id>https://www.theblockbeats.info/news/36453</id>
+        <link href="https://www.theblockbeats.info/news/36453"/>
+        <updated>2023-04-13T08:20:52.000Z</updated>
+        <summary type="html"><![CDATA[从相识CZ，到加入Binance]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWF Labs合伙人公开回应质疑：我们不只是做市]]></title>
+        <id>https://www.theblockbeats.info/news/36452</id>
+        <link href="https://www.theblockbeats.info/news/36452"/>
+        <updated>2023-04-13T07:54:32.000Z</updated>
+        <summary type="html"><![CDATA[DWF Labs的业务范围涉及做市、公关和营销、平台现货及衍生品上币、BD和合作关系以及筹资等。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi借贷的圣杯：不足额抵押贷款]]></title>
+        <id>https://www.theblockbeats.info/news/36451</id>
+        <link href="https://www.theblockbeats.info/news/36451"/>
+        <updated>2023-04-13T07:23:54.000Z</updated>
+        <summary type="html"><![CDATA[但 DeFi 信贷市场已经展示了其增长势头和培育创新的能力]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes看好的LSD赛道新秀ether.fi有什么优势]]></title>
+        <id>https://www.theblockbeats.info/news/36448</id>
+        <link href="https://www.theblockbeats.info/news/36448"/>
+        <updated>2023-04-13T07:07:44.000Z</updated>
+        <summary type="html"><![CDATA[「ether.fi正在为以太坊构建首批真正的非托管质押协议」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism基金会RetroPGF 2 Top10获奖项目：工具类]]></title>
+        <id>https://www.theblockbeats.info/news/36447</id>
+        <link href="https://www.theblockbeats.info/news/36447"/>
+        <updated>2023-04-13T07:07:02.000Z</updated>
+        <summary type="html"><![CDATA[本文为您详细介绍 RetroPGF2 中工具与实用程序类别的前 10 个获奖项目。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX重启？争论点在哪里？]]></title>
+        <id>https://www.theblockbeats.info/news/36445</id>
+        <link href="https://www.theblockbeats.info/news/36445"/>
+        <updated>2023-04-13T06:34:08.000Z</updated>
+        <summary type="html"><![CDATA[FTX重启至少会为债权人提供一些价值，无论多小]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 — 更好互联网的答案+新经济的引擎]]></title>
+        <id>https://www.theblockbeats.info/news/36436</id>
+        <link href="https://www.theblockbeats.info/news/36436"/>
+        <updated>2023-04-13T06:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Web3不是目的，而是提供更好互联网的途径。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入探讨链上数据：如何成为交易和投资策略的分析工具？]]></title>
         <id>https://www.theblockbeats.info/news/36434</id>
