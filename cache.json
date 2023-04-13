@@ -274,56 +274,6 @@
           "wordCount": null,
           "title": "《财富》特稿：Binance创始人CZ的成长、家庭与传承",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36339",
-          "author": null,
-          "description": "据 BlockBeats 统计，上周第 16 周的融资总数为 30 笔，数量有所增加，总金额约 28435 万美元，平均融资金额为 947.83 万美元。其中，基础设施融资占据主体，资管支付和 DeFi 的融资相对较多，NFT 和其他领域经济领域融资数量居中，元宇宙/Gamefi 和社交/创作者较少。下图为上周各板块融资占比：\n\n\n\n\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 2 笔融资，总金额 600 万美元，占上周融资总额的 2.11%。\n\n\n\n\n Social Future \n\n\n\n\n关注理由：区块链 + AI 元宇宙社交应用，自带原创 IP。\n\n\n\n\n\n\n\n\n\n4 月 6 日，基于人工智能的社交元宇宙公司 Social Future 宣布完成 600 万美元融资，SNZ、Everest Venture Group、Folius Ventures、Y2Z Ventures、Mask Network、Tess Ventures、Stratified Capital、Mindfulness Capital 等参投，其合作伙伴包括 Animoca Brands、Decentraland、Metajuice 等。\n\n\n\n\nSocial Future 的旗舰产品「MAY」采用区块链和 AI 构建，支持 PC 端与移动端。在「MAY」中，用户能够一键生成生成 3D 虚拟世界形象以及配套 NFT，还能够根据模板创建自己的社交场景或直播，通过发送表情、文本乃至视频等在虚拟元宇宙场景中与其他用户进行社交和娱乐。AI 生成功能与无缝对接 Web2 用户的钱包将在未来上线。\n\n\n\n\nSocial Future 旗下还有原创 IP「Three Ears Bunny」，一个 Play To Earn 的元宇宙游戏项目。目前，该项目通过游玩小游戏以及参与社区活动可…",
-          "link": "https://www.theblockbeats.info/news/36339",
-          "publishedOn": "2023-04-10T11:07:38.000Z",
-          "wordCount": null,
-          "title": "2023年第16周融资精选，LayerZero融资1.2亿，DWF领投Alchemy Pay",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36324",
-          "author": null,
-          "description": "原文标题：《\n\n交易平台激励模式思考，流动性和交易行为哪个更值得激励?\n\n》\n\n原文来源：Mint Ventures\n\n\n引言\n\n\n\n\n本篇内容来自于 Mint Ventures 小组的一次在线讨论，当时我提出了两个问题，我们的研究员 Lawrence 和投资经理 Scarlett 给出了自己的想法，再结合了我对该问题的思考和延展，构成了本篇 Clip 的主要内容。\n\n\n我提出的两个问题是：\n\n\n1. 交易平台的代币激励，是应该激励流动性，还是应该激励交易量？为什么？\n2. 假设平台有交易激励机制，为了获得激励的刷量交易（wash trading）对于协议来说利弊哪个更大？为什么？\n\n\n需要说明的是：以上两个问题中的「交易平台」是泛指，包括现货 Dexs（Uniswap、Curve）、去中心化衍生品项目（Gmx、Gains）以及 Blur 这样的 NFT 交易平台，甚至包括中心化交易所（尽管他们目前大多没有直接的流动性或交易挖矿机制）。\n\n\n以下文章内容为笔者和团队截至发表时的阶段性看法，可能存在事实、观点的错误和偏见，仅作为讨论之用\n\n\n起源：交易平台为什么要发行权益代币和进行激励？\n\n\n\n在笔者看来，交易平台类项目（包括现货、NFT、衍生品）之所以要发行权益代币，主要有三个原因：\n\n\n1. 代币募资。这条好理解，不做赘述。 \n\n\n2. 去中心化治理。权益代币的出现和分发是社区化治理的前提条件。 \n\n\n3. 增长和经济系统调节手段。\n\n\n\n然而从 Web3 的商业实践来看，1、2 两条并非必选项，因为：\n\n\n1. 项目可以进行股权融资。 \n\n\n2. 中心化的治理仍然是企业和项目运营的主流，甚至大部分已经开始去中心化治理的项目的治理内容和表决，实际上也集中在团队和相关机构手中。 真正重要的或许是第三条：一个项目拥有了代币这一手段后，相对于无代币项目，其用于增长的激励资源以及…",
-          "link": "https://www.theblockbeats.info/news/36324",
-          "publishedOn": "2023-04-10T11:00:01.000Z",
-          "wordCount": null,
-          "title": "探究交易平台激励模式，流动性和交易行为哪个更值得激励?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36323",
-          "author": null,
-          "description": "原文作者：Jaleel    编辑：Jack\n\n\n4 月 4 日凌晨 2 点 35 分，旧金山索马大街 300 号附近发生了一起刺伤事件。据旧金山警察局称，伤者被送往医院抢救，但因伤势过重不治身亡。附近的邻居描述了周二早上的遇害现场：「看起来很粘，早上 11 点我带着狗出去，看到建筑物上涂满了血迹。」\n\n\n\n\n不久后，有消息传出，被刺的死者正是 Block（前称 Square）的前首席技术官和 Cash App 创建者 Bob Lee，现任 MobileCoin CTO。消息传出后，许多人纷纷向 MobileCoin 和 Block 求证。Twitter 创始人、现任 Block CEO 的 Jack Dorsey 不敢相信这个传闻，慌忙亲自致电确认却得到了 Bob Lee 确认身亡的回复，于是在去中心化社交协议 Nostr 上发文证实了这个令人心碎的消息。\n\n\n\n\nBob Lee 的朋友们在接受一些新闻采访时表示，Bob Lee 非常重视孩子和事业，不会有敌人和仇家。他们认为，即使有人试图抢劫他，Bob Lee 也会交出任何有价值的东西以避免暴力。旧金山警方尚未公布可疑细节，目前也还没有嫌疑人被捕，称调查仍在积极进行中。\n\n\n\n\n在证实 Bob Lee 身亡后，美国著名创业孵化器 YCombinator 首席执行官 Garry Tan 称 Bob Lee 的去世是「科技界和旧金山的巨大损失」。Elon Musk 也在 Twitter 上对这一悲剧发表评论：「听到这个消息我很难过。」同时他也质问旧金山市是否采取更强有力的措施来预防暴力犯罪。\n\n\n\n\n对于他的离世，包括旧金山地方检察官布鲁克·詹金斯和旧金山市长在内的许多人都纷纷表示致敬。MobileCoin 首席执行官 Joshua Goldbard 称：「Bob 是发电机，是一股自然的力量，他帮助我们的世界诞生了 Andr…",
-          "link": "https://www.theblockbeats.info/news/36323",
-          "publishedOn": "2023-04-10T08:47:47.000Z",
-          "wordCount": null,
-          "title": "那个在旧金山被杀的人，为加密支付奉献了一生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36322",
-          "author": null,
-          "description": "原文标题：《\n\n简析 11 款账户抽象钱包：我们距离「丝滑」的加密体验还有多远？\n\n》\n原文来源：\n\n饼干，ChainCatcher\n\n\n\n在加密货币领域，用户不能为同一个钱包地址设置多个私钥，也无法修改私钥。因此，如果私钥丢失，不仅会造成钱包资产丢失，该钱包也将永远无法再被使用，只能作废。\n\n\n据  Coinbase 产品战略与业务运营总监 Conor Grogan 统计，约有 11.5 亿美元的加密货币因人为过失而永久丢失。Grogan 补充道，该统计数据远低于因丢失钱包访问权限而锁住的 ETH 数量，因为链上存在大量长期不动的资产，无法判断其中有多少丢失了私钥。\n\n\n加密钱包一直是以太坊创始人 Vitalik 长期关注的方向。Nethermind 以及 opengsn 的研究人员在 Vitalik 的帮助下提出了 EIP-4337，该提案提出了一种解决方法，无需更改任何共识层协议，就能为以太坊带来「帐户抽象」。最近，Vitalik 在他的文章《如何为多签钱包和社交恢复钱包选择守护者？》中阐述了自己的观点，致力于推动可信第三方（Guardians，也称为守护人）在加密钱包中的采用。\n\n\n近期，相比于 Metamask、Imtoken 等老牌加密钱包，一些基于 EIP-4337 的加密钱包开始崭露头角，它们试图重新开启加密钱包赛道的蓝海。本文将简要介绍 EIP-4337（账户抽象）的概念，以及 Argent、Avocado、Braavos、Patch Wallet、Unipass、Opclave、Soul Wallet、Versa 等 11 款账户抽象钱包。\n\n\nEIP-4337 有什么用？\n \n目前，以太坊钱包地址分为 EOA 账户（Externally Owned Account）和合约账户（Contract Account），EIP-4337 提案中提出了账户抽象（…",
-          "link": "https://www.theblockbeats.info/news/36322",
-          "publishedOn": "2023-04-10T08:30:17.000Z",
-          "wordCount": null,
-          "title": "11 款账户抽象钱包梳理：我们距离「丝滑」的加密体验还有多远？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36321",
-          "author": null,
-          "description": "Maelstrom Capital的投资重点是加密基础设施领域，BitMEX曾经作为被监管的第一锤，在监管愈加严格的当下，Hayes此次布局是如何思考的，让我们一睹为快",
-          "link": "https://www.theblockbeats.info/news/36321",
-          "publishedOn": "2023-04-10T07:02:55.000Z",
-          "wordCount": null,
-          "title": "Arthur Hayes成立加密基金Maelstrom Capital，瞄准基础设施，慎投美国项目",
-          "imageUrl": null
         }
       ]
     },
