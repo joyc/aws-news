@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-13T12:12:48.184Z</updated>
+    <updated>2023-04-13T18:08:33.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4个月10倍，Pendle的LSD叙事]]></title>
+        <id>https://www.theblockbeats.info/news/36485</id>
+        <link href="https://www.theblockbeats.info/news/36485"/>
+        <updated>2023-04-13T15:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Pendle凭借其用户友好的界面、高安全性以及丰富的以太坊流动质押衍生品（LSDs）选择，迅速获得质押收益市场用户们的青睐]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open AI CEO Sam Altman投资的NFT平台mint.fun有什么特点？]]></title>
         <id>https://www.theblockbeats.info/news/36457</id>
@@ -819,46 +829,6 @@ Web3 的兴起
         <link href="https://www.theblockbeats.info/news/36360"/>
         <updated>2023-04-11T06:11:34.000Z</updated>
         <summary type="html"><![CDATA[情绪空间已经打开，行情有了诞生的土壤]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无需记住钱包私钥，OKX MPC无私钥钱包用技术创新降低Web3门槛]]></title>
-        <id>https://www.theblockbeats.info/news/36349</id>
-        <link href="https://www.theblockbeats.info/news/36349"/>
-        <updated>2023-04-11T05:57:23.000Z</updated>
-        <summary type="html"><![CDATA[OKX Web3钱包正式推出「MPC无私钥钱包」功能，成为行业关注的焦点]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kusama国库即将耗尽？如何提高国库资金的可持续性？]]></title>
-        <id>https://www.theblockbeats.info/news/36344</id>
-        <link href="https://www.theblockbeats.info/news/36344"/>
-        <updated>2023-04-11T05:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Kusama的一个验证人节点Adam Clay Steeber在波卡论坛上发布的一篇关于如何提高Kusama国库资金的可持续性的帖子引起了热议。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABCDE Capital：香港大会，重新思考3个热门赛道]]></title>
-        <id>https://www.theblockbeats.info/news/36342</id>
-        <link href="https://www.theblockbeats.info/news/36342"/>
-        <updated>2023-04-11T04:32:32.000Z</updated>
-        <summary type="html"><![CDATA[我们往往高估一些技术的短期价值，而有往往低估一些技术的长期价值，这些赛道也许无法给投资机购与一二级市场带来相符或是短期的投资回报率。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第16周链上数据分析：市场迎来关键节点，市场整体情绪中性偏多]]></title>
-        <id>https://www.theblockbeats.info/news/36341</id>
-        <link href="https://www.theblockbeats.info/news/36341"/>
-        <updated>2023-04-11T04:03:20.000Z</updated>
-        <summary type="html"><![CDATA[本周从4月4日到4月10日，冰糖橙最高附近$28800，最低接近$27650，震荡幅度达到4.1% 左右。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

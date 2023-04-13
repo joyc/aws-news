@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36485",
+          "author": null,
+          "description": "Pendle凭借其用户友好的界面、高安全性以及丰富的以太坊流动质押衍生品（LSDs）选择，迅速获得质押收益市场用户们的青睐",
+          "link": "https://www.theblockbeats.info/news/36485",
+          "publishedOn": "2023-04-13T15:23:23.000Z",
+          "wordCount": null,
+          "title": "4个月10倍，Pendle的LSD叙事",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36457",
           "author": null,
           "description": "原文作者：Leo，BlockBeats\n\n\nWeb3 钱包追踪应用 Context 宣布其推出的 NFT 铸造聚合器 mint.fun 已开放通行证铸造，用户可在其官网免费 mint !fundrop 通行证，并通过后续交互获取积分，目前已有近 2 万地址成功 mint，并获取了相应积分。\n\n\n\n\n「!fundrop 通行证、交互获取积分」，或是在为以后空投埋伏笔，接下来为大家介绍一下 mint.fun。\n\n\n\n\n\n\n\nmint.fun 介绍\n\n\n\n\nmint.fun 是一个 NFT mint 聚合平台，用户连接钱包后，可以进行相应的 NFT 系列 mint，界面简单易操作，显示信息种类全面，以下是该平台的用例介绍。\n\n\n\n\n对于创作者\n\n\n\n\n对于创作者来说，创作者可以在 mint.fun 上启动你自己的 NFT 项目，如果你的 NFT 合约已经部署，可以通过 mingt.fun + 合约地址（mint.fun/contract address，合约地址需通过 Etherscan 验证）在 mint.fun 上线自己的 NFT 项目。\n\n\n\n\n上线后，可以点击「Customize」自定义你的 NFT 信息（主题、页面布局、相关媒介），上线 mint 期间，你可以随时更改自己的 NFT 主题，但更改会导致 NFT 界面的布局元素重新排列，也可以通过编辑器恢复默认界面。mint.fun 目前支持以太坊 ERC-721 和 ERC-1155 合约。\n\n\n\n\n\n\n对于收藏者\n\n\n\n\nMint 是 NFT 项目产生价值的方式，通常指收藏者通过钱包与 NFT 创作者的智能合约交互，从而获得藏品的过程，mint 价格由创作者定义，当然也有很多 NFT 系列是 free mint 的，mint.fun 的 minting 界面分为三类：免费 mint，用户钱包关注的 NFT mint、白…",
@@ -373,46 +383,6 @@
           "publishedOn": "2023-04-11T06:11:34.000Z",
           "wordCount": null,
           "title": "香港与脱钩：重返3万美元的比特币",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36349",
-          "author": null,
-          "description": "OKX Web3钱包正式推出「MPC无私钥钱包」功能，成为行业关注的焦点",
-          "link": "https://www.theblockbeats.info/news/36349",
-          "publishedOn": "2023-04-11T05:57:23.000Z",
-          "wordCount": null,
-          "title": "无需记住钱包私钥，OKX MPC无私钥钱包用技术创新降低Web3门槛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36344",
-          "author": null,
-          "description": "Kusama的一个验证人节点Adam Clay Steeber在波卡论坛上发布的一篇关于如何提高Kusama国库资金的可持续性的帖子引起了热议。",
-          "link": "https://www.theblockbeats.info/news/36344",
-          "publishedOn": "2023-04-11T05:53:17.000Z",
-          "wordCount": null,
-          "title": "Kusama国库即将耗尽？如何提高国库资金的可持续性？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36342",
-          "author": null,
-          "description": "我们往往高估一些技术的短期价值，而有往往低估一些技术的长期价值，这些赛道也许无法给投资机购与一二级市场带来相符或是短期的投资回报率。",
-          "link": "https://www.theblockbeats.info/news/36342",
-          "publishedOn": "2023-04-11T04:32:32.000Z",
-          "wordCount": null,
-          "title": "ABCDE Capital：香港大会，重新思考3个热门赛道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36341",
-          "author": null,
-          "description": "本周从4月4日到4月10日，冰糖橙最高附近$28800，最低接近$27650，震荡幅度达到4.1% 左右。",
-          "link": "https://www.theblockbeats.info/news/36341",
-          "publishedOn": "2023-04-11T04:03:20.000Z",
-          "wordCount": null,
-          "title": "第16周链上数据分析：市场迎来关键节点，市场整体情绪中性偏多",
           "imageUrl": null
         }
       ]
