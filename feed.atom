@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-14T00:35:00.784Z</updated>
+    <updated>2023-04-14T06:09:27.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一览香港Web3嘉年华分会场5个主旨演讲与2场圆桌讨论]]></title>
+        <id>https://www.theblockbeats.info/news/36486</id>
+        <link href="https://www.theblockbeats.info/news/36486"/>
+        <updated>2023-04-14T02:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Jason Li，HashKey Group 市场及客户策略经理：
+
+
+女士们，先生们，尊敬的来宾们，欢迎来到 2023 年香港 Web3 嘉年华分会场，本次峰会是由 HashKey 集团和万向区块链实验室联合主办，我是 Jason，我在 HashKey 集团负责说有的市场和品牌推广的工作，今天分会场活动的主办方 HashQuark，主题是 Proof Of Stake 和节点服务。
+
+
+ 今天上午我们将通过 5 个主旨演讲，2 场圆桌讨论，一共 15 位顶尖的行业专家去深入探讨 Proof of Stake 机制，探索其在更广泛的加密生态系统中的使用案例，优势和潜在挑战，我们还将研究节点验证者角色，讨论它们在塑造去中心化金融的未来方面所发挥得影响和关键作用。
+
+
+ 在节目开始之前，我将很快介绍一下今天活动的举办放 HashQuark，HashQuark 是一家领先的 Web3 基础设施提供商，它成立于 2018 年，提供全套的基础设施服务，包括节点验证，去中心化数字身份标识符（DID）奖励报告等，HashQuark 运行超过 18,000 个节点，并为超过 40 个主流公链提供企业级的节点验证服务。HashQuark 也是 HashKey 集团的数字资产基础设施服务提供商。想了解更多关于 HashQuark 的信息，大家在活动结束后可以前往 HashKey 集团的展位，与我们同事交流和赢取得一些限量版的 HashQuark 礼品。
+
+
+ 今天上午的节目非常精彩，那让我们欢迎第一位嘉宾，KlatynFoundation 的技术主管 Neo，将为我们带来未来链上世界的公共基础层的演讲，掌声有请。
+
+
+ 
+ 主题演讲：《未来链上世界的公共基础层》
+
+
+ 
+Neo YIU，Klaytn Foundation 技术宣导负责人 ：大家好，我是来自于 Klaytn Foundation…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta为何放弃将NFT集成到社交产品的计划？]]></title>
+        <id>https://www.theblockbeats.info/news/36456</id>
+        <link href="https://www.theblockbeats.info/news/36456"/>
+        <updated>2023-04-14T01:03:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Meta 为何放弃了 NFT 计划？
+
+》
+原文编译：
+
+Leah，Foresight News
+
+
+
+
+
+在上篇文章中我提到，Meta 放弃了将 NFT 集成到他们的核心产品 Facebook 和 Instagram 的计划。如果市场没有因为银行业的危机而陷入恐慌，这件事本应引起相当大的关注。就像大多数熊市中爆出的雷一样，我们不愿多加讨论，但却有必要从中吸取教训。
+
+
+首先，值得思考的是为什么 Web2 对于诸如 NFT 这样的工具如此重要。普通人在 Facebook 和 Instagram 这样的平台上花费了大量时间。要了解这些平台对用户的影响，我们可以先将目光转移到几年前，彼时 Instagram 通过添加一项功能「复制」了 Snapchat。在那之前，Snapchat 是青少年分享生活状态的地方，他们上传的图片只会在平台上保留一天时间。
+
+
+在两次收购初创公司失败后，Meta 开始在 Instagram 和 WhatsApp 上推出故事功能。消费者（包括我自己）开始使用这些产品来分享故事和表情包，因为我们的社交圈子开始在这些应用上搭建起来。几年后，当印度宣布封杀 TikTok 时，Instagram 稳步推出了 Reels，他们尝试复制 TikTok, 让用户可以滚动浏览短视频。
+
+
+
+
+
+你看到这里的趋势了吗？大型平台可以驱动用户行为，所以允许用户在 Twitter 上验证他们的 NFT 或将 NFT 链接到他们的 Instagram 个人资料是一件大事。（我们稍后会回到这个话题。）为了感受 Web2 平台的规模，回想一下 Reddit 的 NFT 在 Polygon 网络上已被 mint 了超七百万次。Web3 产品必须走近用户所在的地方。
+
+
+但 Meta 似乎对将 NFT 纳入他们的核心战略并不感兴趣。为什么？
+
+
+简而言之，NFT 在 We…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4个月10倍，Pendle的LSD叙事]]></title>
         <id>https://www.theblockbeats.info/news/36485</id>
