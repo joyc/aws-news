@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36519",
+          "author": null,
+          "description": "我们会见证新的货币秩序，文化迁徙和链上创新，加密部落的蓬勃发展，带来加密世界的文艺复兴。",
+          "link": "https://www.theblockbeats.info/news/36519",
+          "publishedOn": "2023-04-14T13:00:01.000Z",
+          "wordCount": null,
+          "title": "构建加密部落文化：模因、信仰、符号体系、图腾及加密精神",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36490",
+          "author": null,
+          "description": "在遵循 SFC 所提倡的“相同风险，相同方法”的原则下，DeFi 将受到与传统金融实体相同的监管要求约束。",
+          "link": "https://www.theblockbeats.info/news/36490",
+          "publishedOn": "2023-04-14T12:00:02.000Z",
+          "wordCount": null,
+          "title": "香港金融科技咨询小组主席：将对DeFi进行强监管，相关企业需持牌经营",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36518",
           "author": null,
           "description": "原文标题：《\n\n四大天王外更值得关注的以太坊L2项目\n\n》\n原文来源：\n\n「Biteye」社区\n\n\n\n\n\n\n\n自 ARB 通证上线后，Layer 2 生态总锁仓量创下历史新高。从 Layer 2 总质押量的增长趋势可以看出，以太坊技术升级是确定性十分高的 Web3 长线叙事。Layer 2 四大天王 Arbitrum、Optimism、Starknet 、 Zksync 以及后起之秀 Scroll 受到了市场绝大部分关注。\n\n\n但是各路资本和工作室对这些明星项目布局都很早，普通用户分到的红利可能会相对少。如果想要继续押注以太坊技术升级的叙事，普通用户不妨可以将精力放在一些有技术有叙事、热度又相对较低的 L2 公链、基础设施项目上。\n\n\n下面为大家发掘出来两个以 ETH L2、模块化、数据可用性为叙事主轴的项目。\n\n\n01Mantle：模块化再质押链\n\n\nMantle Network 是由 BitDAO 开发的 Ethereum 上的模块化再质押 Rollup Layer 2 扩展解决方案，它提供了 EVM 兼容性。\n\n\n目前 Mantle 已上线公共测试网，不过 Mantle 官推的简介中特意提到其治理通证是 BitDAO 已经发行治理通证 $BIT，再加上 Mantle 文档中提到其 DA 节点激励由 $BIT 支付，因此 Mantle 很大可能不会发行新通证，很难复现 Arb、Apt 等公链一波空投的造富盛况。\n\n\n而要注意的是，不能从空投中获利，不代表没有好机会：因为上面提到的原因，大多数人并没有对 Mantle 及其生态提起重视，而恰恰是这种被人忽视的标的，往往认真钻研往往会有好的回报。况且，Mantle 是全市场少有的模块化 + 以太坊二层概念标的，不论如何，都值得去深入研究。\n\n\n首先，Mantle Network 与 Arbitrum、Optimism 等二层…",
@@ -373,56 +393,6 @@
           "publishedOn": "2023-04-12T06:17:07.000Z",
           "wordCount": null,
           "title": "Arthur Hayes：囤了那么久的 LDO，我为何全部亏本抛售？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36382",
-          "author": null,
-          "description": "今日上午，\n\n香港特别行政区政府财政司司长陈茂波\n\n在「2023 香港 Web3 嘉年华」主会场上发表开幕演讲。演讲中，陈茂波先生从 Web3 的兴起谈到当前的发展与机遇，直言「\n\n现在是 Web3 发展的黄金机遇，同时也是最惊心动魄的时刻。」\n\n\n以下为演讲全文：\n\n\n早上好！很高兴出席 2023 香港 Web3 嘉年华的开幕式。这次为期四天的嘉年华是汇聚全球 Web3 技术领袖、专家学者、业界精英的盛事，很高兴知道报名参加的人已经超过 1 万人。大家就 Web3 的全球发展趋势和热门议题进行交流和讨论，共商未来发展，在此我首先对嘉年华的成功举办表示热烈的祝贺，也祝愿这四天的活动圆满成功，各位远道而来的朋友这几天在香港路途愉快，收获丰硕。\n\n\n\n\nWeb3 的兴起\n\n\n\n\n说起 Web3，可以说意见纷纭，我认为应该从科技变革的历史视觉来审视。科技变革一直引领着商业营运的创新，而商业行为也会反过来驱动更多科技变革，这个循环往往成为了经济发展不断向前的动力。\n\n\n电脑和互联网正属于这类变革的力量，微软和苹果公司在上世纪七十年代成立，它们让电脑逐步成为被广泛使用的工具。在电脑的算力和容量不断提高的期间，光纤作为通讯网路的骨干也日益普及，两者叠加积极带动了互联网发展的潮流，制造了巨大的商机。\n\n\n乘着科技快速发展，互联网从作为特定的机构沟通管道，转向 Web1.0，成就了一批以汇聚和发放资讯为基础的企业。过去约 20 年，互联网再发展成为 Web2.0，兼具社交互动的面向，加上移动终端设备的普及，造就了新一代的巨型企业。然而，Web2.0 属于中心化互联网，用户的数据和信息由大型互联网平台公司收集和掌控。它们拥有数据和信息的优势，也因而获取了大量广告收益和经济利益。\n\n\n\n\n随着区块链技术的兴起，不少人认为互联网已经进入 Web3 时代。区块链技术的即时性、透明、高效、去中介化、…",
-          "link": "https://www.theblockbeats.info/news/36382",
-          "publishedOn": "2023-04-12T05:36:54.000Z",
-          "wordCount": null,
-          "title": "香港财政司司长陈茂波演讲全文：现在是Web3发展的黄金机遇，也是最惊心动魄的时刻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36381",
-          "author": null,
-          "description": "5个值得关注的早期项目：Linea、Native、Conduit、Econia Labs与YamaFinance。",
-          "link": "https://www.theblockbeats.info/news/36381",
-          "publishedOn": "2023-04-12T04:49:45.000Z",
-          "wordCount": null,
-          "title": "盘点五个潜力巨大的早期项目：从zkEVM到全链稳定币",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36380",
-          "author": null,
-          "description": "众安银行是一家香港的数字化银行，由中国的众安保险、蚂蚁金服和香港的零售商集团永旺集团共同发起成立。",
-          "link": "https://www.theblockbeats.info/news/36380",
-          "publishedOn": "2023-04-12T04:44:30.000Z",
-          "wordCount": null,
-          "title": "加密友好的香港众安银行如何开户？蚂蚁也是其股东",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36378",
-          "author": null,
-          "description": "Datamall Chain的去中心化存储流程保证了存储提供者和存储消费者双方的利益，并最小化链上的负担，从而实现了更高的可扩展性。",
-          "link": "https://www.theblockbeats.info/news/36378",
-          "publishedOn": "2023-04-12T02:28:40.000Z",
-          "wordCount": null,
-          "title": "Datamall Chain：基于博弈共识模型的去中心化存储平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36374",
-          "author": null,
-          "description": "如何在保证游戏核心玩法的前提下，充分让渡游戏的创作自由？",
-          "link": "https://www.theblockbeats.info/news/36374",
-          "publishedOn": "2023-04-12T01:00:01.000Z",
-          "wordCount": null,
-          "title": "从消费者到创造者，站在玩家视角漫谈全链游戏设计",
           "imageUrl": null
         }
       ]
