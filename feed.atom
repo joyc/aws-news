@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-15T00:37:00.631Z</updated>
+    <updated>2023-04-15T06:08:10.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -997,26 +997,6 @@ NYDFS 还要求 Coinbase 投资 5000 万美元以加强其合规计划。[2] Coi
 
 
 2023 …]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget AMA实录：以太坊上海升级进入倒计时——LSD赛道的生态与机会]]></title>
-        <id>https://www.theblockbeats.info/news/36431</id>
-        <link href="https://www.theblockbeats.info/news/36431"/>
-        <updated>2023-04-12T13:14:05.000Z</updated>
-        <summary type="html"><![CDATA[本次AMA邀请Mindao、Joy Lou 、0xTodd、0xRJ.eth、Yuuki五位行业内专业的嘉宾来做话题的讨论分享。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年Q1全球Web3区块链安全态势及加密行业重点监管政策报告（上）]]></title>
-        <id>https://www.theblockbeats.info/news/36402</id>
-        <link href="https://www.theblockbeats.info/news/36402"/>
-        <updated>2023-04-12T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[2023年第一季度的总损失金额低于2022年的任何一个季度。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
