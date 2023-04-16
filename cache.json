@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36537",
+          "author": null,
+          "description": "河里人入局香港，迎风而上迈向全球市场",
+          "link": "https://www.theblockbeats.info/news/36537",
+          "publishedOn": "2023-04-16T13:18:48.000Z",
+          "wordCount": null,
+          "title": "元宇宙项目Rivermen正式成立香港运营节点，加速进军全球市场",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36536",
           "author": null,
           "description": "重温本周热点：Binance 创始人 CZ 的成长、家庭与传承；赌博+被 Rug，知名 NFT 投资人为还债抛售 20 余只 BAYC；FTX 重启？争论点在哪里？",
@@ -113,76 +123,6 @@
           "publishedOn": "2023-04-14T06:19:25.000Z",
           "wordCount": null,
           "title": "DWF Labs与Wintermute隔空互怼？两大做市商做市项目一览",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36503",
-          "author": null,
-          "description": "原文标题：《抢先体验 Solana Saga：价值 1000 美元的 Web3 手机值得入手吗？》\n原文来源：白泽研究院\n\n\n\nSolana 确实实现了制造自己的 Web3 智能手机「Saga」的计划——它目前开放了预购通道，5 月 8 日公开发售。\n\n\n\n\n\n去年，Solana Labs 创始人 Anatoly Yakovenko 将其打造自己的 Web3 智能手机的计划称为「登月计划」，旨在成为「开发者实验」，挑战谷歌和苹果应用商店的租赁模式，完全集成加密钱包，让用户交互 dApp 更加丝滑，引领新的 Web3 范式。\n\n\n在过去的一周里，Decrypt 已经提前拿到了这个价值 1,000 美元的安卓手机——在我们看来，使用这款手机的感觉更像是 Web2 设备集成了 Web3（尽管是有意义的）。\n\n\n但这并不妨碍它是一款功能强大的手机，集成了原生、安全的加密钱包功能，桌面紧凑直观。不过，可用的 dApp 很少，而且在我们交互 dApp 时还遇到了一些障碍。\n\n\n与 Web3 爱好者的日常相比，现在使用 Saga 感觉更像是对有希望和潜力的东西进行 beta 测试。对于早期采用者和爱好者来说，这可能是一种比较有趣的测试，对开发人员来说是一个潜在的催化剂，但对于普通消费者来说可能很难接受——Solana Labs 知道这一点，他们预计 Saga 的销量不会很高，25,000 至 50,000 个就会很满意了。\n\n\n\n\n\n体验外观和规格\n\n\n\n作为一名技术评论员和总是使用高端手机的人，我在评估手机优劣时的主要考虑因素之一是我是否可以每天使用它。换句话说，当我经常保持社交联络、拍照、远程办公时，我是否愿意把这个手机放在口袋里？\n\n幸运的是，Solana Saga 满足了这一点。\n\n\n这是一款优质的安卓手机，具有吸引人（但不过分浮华）的设计，采用坚固的材料制成，并配备了用户可以用…",
-          "link": "https://www.theblockbeats.info/news/36503",
-          "publishedOn": "2023-04-14T05:30:14.000Z",
-          "wordCount": null,
-          "title": "抢先体验Solana Saga：价值1000美元的Web3手机值得入手吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36502",
-          "author": null,
-          "description": "5分钟做一个功能齐全的DEX，让每个项目都拥有自己的DEX",
-          "link": "https://www.theblockbeats.info/news/36502",
-          "publishedOn": "2023-04-14T05:04:09.000Z",
-          "wordCount": null,
-          "title": "一文了解如何通过Native搭建自己的DEX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36491",
-          "author": null,
-          "description": "原文标题：《Forget Art, Let's Trade: How A 10-Person Startup Came To Dominate NFT Markets》\n原文作者：Maria Gracia Santillana Linares, Forbes\n原文编译：Kxp，BlockBeats\n\n\n随着过去一年 NFT 购买狂潮的平息，一家新的以交易者为中心的 NFT 市场悄然取代了 OpenSea 成为市场领导者。\n\n\nNFT 交易公司 Blur 的 24 岁联合创始人 Tieshun Roquerre 回忆着挂在他家办公室墙上的 Vestaboard，想起就在几个月前，从这个显示器发出的嘈杂声音让人无法忍受。这款云连接的分叶显示器，设计成了一个复古火车站出发牌的样子，Roquerre 编写了程序来提醒自己，每当有一枚 NFT 在他的新兴 NFT 市场上买卖时，显示牌就会翻动，而每一次点击都意味着在 Blur 上进行了一笔新的交易。\n\n\n当 Blur 于 2022 年 10 月首次推出时，翻动一块显示牌的门槛是 0.1 个 ETH，相当于大约 130 美元的 NFT 价值。但随着交易者纷至沓来，即使 Roquerre 将门槛提高到 1 个 、5 个，甚至是 10 个 ETH，也没有减弱人们交易的热情。\n\n\nRoquerre 承认：「那真是一片喧嚣，我们不得不关掉它。」他自嘲道：「我很烦躁，但又高兴自己烦躁。」\n\n\n在过去的六个月里，Roquerre 和联合创始人 Anthony Liu（直到最近才以网名「Galaga」为人所知）已经建立起了以交易量为基准的最大 NFT 市场，取代了市场领导者 OpenSea。后者在 2022 年 1 月获得了 133 亿美元的估值，使得其联合创始人 Devin Finzer 和 Alex Atallah 成为了第一批 NFT 亿万富翁…",
-          "link": "https://www.theblockbeats.info/news/36491",
-          "publishedOn": "2023-04-14T04:05:31.000Z",
-          "wordCount": null,
-          "title": "《福布斯》对话Blur：10人团队如何改变NFT市场格局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36489",
-          "author": null,
-          "description": "原文标题：《 \n\n被盗超 1000 万美元，Yearn Finance 如何被黑客「盯上」？\n\n 》\n\n原文来源：\n\nBeosin\n\n\n2023 年 4 月 13 日，据 Beosin-Eagle Eye 态势感知平台消息，Yearn Finance 的 yusdt 合约遭受黑客闪电贷攻击，黑客获利超 1000 万美元。\n\n\n\n\nhttps://eagleeye.beosin.com/RiskTrxDetail/0xd55e43c1602b28d4fd4667ee445d570c8f298f5401cf04e62ec329759ecda95d\n\n\n关于本次事件，Beosin 安全团队在白天已将简析以快讯的形式分享给大家，现在我们再将长文分享如下：\n\n\n\n\n\n事件相关信息\n\n\n攻击交易\n\n\n0xd55e43c1602b28d4fd4667ee445d570c8f298f5401cf04e62ec329759ecda95d\n\n\n0x8db0ef33024c47200d47d8e97b0fcfc4b51de1820dfb4e911f0e3fb0a4053138\n\n\n0xee6ac7e16ec8cb0a70e6bae058597b11ec2c764601b4cb024dec28d766fe88b2\n\n\n攻击者地址\n\n\n0x5bac20beef31d0eccb369a33514831ed8e9cdfe0\n\n\n0x16Af29b7eFbf019ef30aae9023A5140c012374A5\n\n\n攻击合约\n\n\n0x8102ae88c617deb2a5471cac90418da4ccd0579e\n\n\n攻击流程\n\n\n下面以\n\n\n0xd55e43c1602b28d4fd4667ee445d570c8f298f5401cf04e62ec329759ecda95d 为例进行分析。\n\n\n1. 攻…",
-          "link": "https://www.theblockbeats.info/news/36489",
-          "publishedOn": "2023-04-14T03:45:36.000Z",
-          "wordCount": null,
-          "title": "DeFi项目Yearn Finance被盗超1000万美元，攻击过程梳理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36488",
-          "author": null,
-          "description": "原文标题：《专访 HashKey Group 新任 COO Livio：「东升西降」的新格局已成为趋势，持牌交易平台是未来 10 年主旋律》\n原文来源：PANews\n\n\n\nLivio Weng，行业花名「七爷」，曾于 2018 年至 2021 年间任 Huobi Global CEO。在三大所的辉煌年代里，是老火币的一面旗帜。4 月 13 日，HashKey Group 官方宣布，Livio Weng 已正式加入担任首席运营官（COO）。\n\n\n在香港 Web3 嘉年华期间，PANews 对 Livio Weng 进行了专访，探讨了香港的政策红利、全球的加密市场格局，美国银行暴雷与 ETH 上海升级等热点，并透露了 HashKeyGroup 旗下合规交易平台 HashKeyPro 接下来的动向。目前 HashKey 旗下的持牌交易平台产品已经基本就绪，正在最后的灰度测试阶段。目前已经面向专业投资者（PI）开放早期注册和产品测试，可以支持虚拟资产的存入、提取，并推出了美元法币交易对。预计本月将上线法币通道，提供美元出入金的支持。\n\n\n\n\n\n以下是专访的实录（在不改变原意下略有调整）：\n\n\n1、香港 Web3 峰会可谓热闹非凡，你们作为主办方之一，能否介绍一下活动的情况？\n\n\nLivio Weng：很荣幸 HashKey 能作为主办方之一，为行业组织呈现本次香港 Web3 嘉年华。大会有幸邀请了包括香港财政司司长陈茂波先生、香港金管局执行总裁 Clara Chan 等重要官员，同时也吸引了超过 1 万名来自不同国家和地区的参与者，以及超过 140 场大大小小的周边活动，这些都超出了此前的预期。\n\n\n大会前夕又适逢香港 Web3.0 协会成立，特首的加持更是让人们对香港 Web3 行业增添了更多期待。另外，本次峰会前后也恰逢 ETH 的上海升级，碰巧地集齐了天时、地利、人和三大要素…",
-          "link": "https://www.theblockbeats.info/news/36488",
-          "publishedOn": "2023-04-14T03:31:48.000Z",
-          "wordCount": null,
-          "title": "专访HashKey Group新任COO Livio：「东升西降」的新格局已成为趋势，持牌交易平台是未来10年主旋律",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36486",
-          "author": null,
-          "description": "Jason Li，HashKey Group 市场及客户策略经理：\n\n\n女士们，先生们，尊敬的来宾们，欢迎来到 2023 年香港 Web3 嘉年华分会场，本次峰会是由 HashKey 集团和万向区块链实验室联合主办，我是 Jason，我在 HashKey 集团负责说有的市场和品牌推广的工作，今天分会场活动的主办方 HashQuark，主题是 Proof Of Stake 和节点服务。\n\n\n 今天上午我们将通过 5 个主旨演讲，2 场圆桌讨论，一共 15 位顶尖的行业专家去深入探讨 Proof of Stake 机制，探索其在更广泛的加密生态系统中的使用案例，优势和潜在挑战，我们还将研究节点验证者角色，讨论它们在塑造去中心化金融的未来方面所发挥得影响和关键作用。\n\n\n 在节目开始之前，我将很快介绍一下今天活动的举办放 HashQuark，HashQuark 是一家领先的 Web3 基础设施提供商，它成立于 2018 年，提供全套的基础设施服务，包括节点验证，去中心化数字身份标识符（DID）奖励报告等，HashQuark 运行超过 18,000 个节点，并为超过 40 个主流公链提供企业级的节点验证服务。HashQuark 也是 HashKey 集团的数字资产基础设施服务提供商。想了解更多关于 HashQuark 的信息，大家在活动结束后可以前往 HashKey 集团的展位，与我们同事交流和赢取得一些限量版的 HashQuark 礼品。\n\n\n 今天上午的节目非常精彩，那让我们欢迎第一位嘉宾，KlatynFoundation 的技术主管 Neo，将为我们带来未来链上世界的公共基础层的演讲，掌声有请。\n\n\n \n 主题演讲：《未来链上世界的公共基础层》\n\n\n \nNeo YIU，Klaytn Foundation 技术宣导负责人 ：大家好，我是来自于 Klaytn Foundation…",
-          "link": "https://www.theblockbeats.info/news/36486",
-          "publishedOn": "2023-04-14T02:45:45.000Z",
-          "wordCount": null,
-          "title": "一览香港Web3嘉年华分会场5个主旨演讲与2场圆桌讨论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36456",
-          "author": null,
-          "description": "原文标题：《\n\nMeta 为何放弃了 NFT 计划？\n\n》\n原文编译：\n\nLeah，Foresight News\n\n\n\n\n\n在上篇文章中我提到，Meta 放弃了将 NFT 集成到他们的核心产品 Facebook 和 Instagram 的计划。如果市场没有因为银行业的危机而陷入恐慌，这件事本应引起相当大的关注。就像大多数熊市中爆出的雷一样，我们不愿多加讨论，但却有必要从中吸取教训。\n\n\n首先，值得思考的是为什么 Web2 对于诸如 NFT 这样的工具如此重要。普通人在 Facebook 和 Instagram 这样的平台上花费了大量时间。要了解这些平台对用户的影响，我们可以先将目光转移到几年前，彼时 Instagram 通过添加一项功能「复制」了 Snapchat。在那之前，Snapchat 是青少年分享生活状态的地方，他们上传的图片只会在平台上保留一天时间。\n\n\n在两次收购初创公司失败后，Meta 开始在 Instagram 和 WhatsApp 上推出故事功能。消费者（包括我自己）开始使用这些产品来分享故事和表情包，因为我们的社交圈子开始在这些应用上搭建起来。几年后，当印度宣布封杀 TikTok 时，Instagram 稳步推出了 Reels，他们尝试复制 TikTok, 让用户可以滚动浏览短视频。\n\n\n\n\n\n你看到这里的趋势了吗？大型平台可以驱动用户行为，所以允许用户在 Twitter 上验证他们的 NFT 或将 NFT 链接到他们的 Instagram 个人资料是一件大事。（我们稍后会回到这个话题。）为了感受 Web2 平台的规模，回想一下 Reddit 的 NFT 在 Polygon 网络上已被 mint 了超七百万次。Web3 产品必须走近用户所在的地方。\n\n\n但 Meta 似乎对将 NFT 纳入他们的核心战略并不感兴趣。为什么？\n\n\n简而言之，NFT 在 We…",
-          "link": "https://www.theblockbeats.info/news/36456",
-          "publishedOn": "2023-04-14T01:03:01.000Z",
-          "wordCount": null,
-          "title": "Meta为何放弃将NFT集成到社交产品的计划？",
           "imageUrl": null
         }
       ]
