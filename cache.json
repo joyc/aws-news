@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36520",
+          "author": null,
+          "description": "一轮完整的牛市，资金在板块轮动的规律通常是BTC—ETH及公链/L2—时下热门板块—Web 3 基础设施—GameFi/元宇宙—NFT—meme 币/动物币—牛市结束。",
+          "link": "https://www.theblockbeats.info/news/36520",
+          "publishedOn": "2023-04-16T05:06:01.000Z",
+          "wordCount": null,
+          "title": "想玩转meme币？这些底层逻辑及投资方法论你必须了解",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36533",
           "author": null,
           "description": "4 月 13 日，ETH Global Tokyo 黑客松在东京开幕，来自全球各地的以太坊支持者和开发者聚集在东京涩谷区的 Digital Garage，进行现场采访、产品发布和交流。\n\n\n开幕二天已有一些知名项目进行了演讲与介绍，不少开发团队也紧锣密布的进行着开发。一些老牌项目及新晋团队也发表了自己对于当前市场和发展的看法。\n\n\n \n\n\n\nETHGlobal 联创 Kartik Talwar 邀请以太坊基金会执行董事 Aya Miyaguchi 上台进行系列访谈。Miyaguchi 强调：「以太坊的方式是需要让这些开发人员参与到创意产生、头脑风暴阶段」。「日本人努力学习编程语言等新事物，但黑客松和以太坊社区等活动可以教授或启发人们涉足传统文化限制之外的新大陆」。\n\n\nAave 的创始人兼 CEO Stani Kulechov 在其它主题中讨论了如何让产品更易于用户自定义的方法：「想想世界上的大多数产品，你真的不能做出 Pull Request（拉取请求），如果你的想法很好并解决了问题，你不能向你的 iPhone 或你的 Android 手机发出 Pull Request 并期望好事发生。但如果将来真的可以这样构建呢？协议、产品和算法，当你以更开放的方式构建事物时，这是可能的。」\n\n\n此外一些参会者也将自己的所见所闻进行了整理发表，加密研究员Taiki Narita 列举了他在参会期间关注到的项目与介绍。\n\n\nSkale Network\n\n\n\n\nSkale Network CEO Jack O'Holleran 通过线上视频对项目进行了介绍，该项目是一个具有模块化区块链的可扩展性和安全性的项目，也出现在 Messari 的年度趋势报告中，项目已经获得了 Multicoin、Hashkey、Consensys、Winklevoss 等机构的资金支持。\n\n\n\n\n\nMina Protocol\n\n\n\n\n关于 Mina Protocol 的介绍，由该项目的创始人 Jason Steinhauser 提供。Mina Protocol 是一个基于 zk-SNARK 的隐私保护一层区块链协议，它允许在链下处理数据和计算，并在链上进行验证。应用程序（zkapps）可以使用 TypeScript 编写，并使用 JS 库和 VSCode 进行支持。\n\n\n\n\n\n\n\n\nHyperlane\n\n\n\n\nHyperlane 的 CEO 介绍到该协议是一个基于 Modular Blockchain Thesis 的产品，旨在解决互操作性的问题。它提供了用于区块链之间消息传递的 API 和 SDK，可从各种链访问。去年 9 月，Hyperlane 在 Variant 领导的种子轮融资中获得了 1850 万美元的资金支持。\n\n\n\n\n\nTaiko\n\n\n\n\nTaiko 项目是一个类似于以太坊的 zk rollup（Type 1 zk-EVM）解决方案。它以社区驱动为主，完全去中心化。该项目将在近期发布第三代测试网络。\n\n\n\n\n\nSuperfluid\n\n\n\n\nSuperfluid 是一个宣称拥有下一代 Token 标准的项目，CEO Francesco Renzi 提到项目初衷是为了在 Web3 中实现类似 Web2 的服务，为了满足交易实时性 Superfluid 可以实现余额每秒确认，并支持多个区块链。\n\n\n\n\n\n\n\nThe Graph\n\n\n\n\nGraph Protocol 是一个开源协议，用于对区块链上的数据进行分类、索引和提供 API。该协议主要被 DeFi 和研究机构所使用。去年 1 月，Graph Protocol 在 Tiger Global 等机构的支持下获得了 5000 万美元的资金。\n\n\n\n\n\n\n\n\n\nSafe\n\n\n\n\n关于代表智能合约钱包的 Safe，不需要任何过多的解释。尽管 Safe 的多签功能备受关注，但它还具有许多其他特点。值得一提的是，目前 USDC 的 10.7%（50 亿美元）存储在 Safe 的钱包中，这是非常惊人的数字。\n\n\n\n\n\n\n\nLivepeer\n\n\n\n\nLivepeer 是一个分散式视频网络，由生态系统增长主管 shann 介绍。该项目解决占互联网带宽 80% 的视频流的挑战；为开发者提供 API 和 SDK；与 IPFS 结合的播放功能和独立于链的开发；以及 @Livepeer 正在开发的新的视频流平台。",
@@ -163,16 +173,6 @@
           "publishedOn": "2023-04-14T01:03:01.000Z",
           "wordCount": null,
           "title": "Meta为何放弃将NFT集成到社交产品的计划？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36485",
-          "author": null,
-          "description": "Pendle凭借其用户友好的界面、高安全性以及丰富的以太坊流动质押衍生品（LSDs）选择，迅速获得质押收益市场用户们的青睐",
-          "link": "https://www.theblockbeats.info/news/36485",
-          "publishedOn": "2023-04-13T15:23:23.000Z",
-          "wordCount": null,
-          "title": "4个月10倍，Pendle的LSD叙事",
           "imageUrl": null
         }
       ]
