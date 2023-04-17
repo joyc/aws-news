@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-17T00:35:42.222Z</updated>
+    <updated>2023-04-17T06:09:41.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[关于香港 Web3 形势的若干观点]]></title>
+        <id>https://www.theblockbeats.info/news/36539</id>
+        <link href="https://www.theblockbeats.info/news/36539"/>
+        <updated>2023-04-17T03:23:11.000Z</updated>
+        <summary type="html"><![CDATA[香港 Web3 新政背后的决策逻辑是什么？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元宇宙项目Rivermen正式成立香港运营节点，加速进军全球市场]]></title>
         <id>https://www.theblockbeats.info/news/36537</id>
@@ -282,16 +292,6 @@ epoch
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建加密部落文化：模因、信仰、符号体系、图腾及加密精神]]></title>
-        <id>https://www.theblockbeats.info/news/36519</id>
-        <link href="https://www.theblockbeats.info/news/36519"/>
-        <updated>2023-04-14T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[我们会见证新的货币秩序，文化迁徙和链上创新，加密部落的蓬勃发展，带来加密世界的文艺复兴。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
