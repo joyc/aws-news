@@ -2,10 +2,336 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-18T06:09:30.094Z</updated>
+    <updated>2023-04-18T12:12:35.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[房间里的大象，Flashbots商业化路径预测]]></title>
+        <id>https://www.theblockbeats.info/news/36615</id>
+        <link href="https://www.theblockbeats.info/news/36615"/>
+        <updated>2023-04-18T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《房间里的大象，Flashbots 商业化路径预测》
+原文作者：Catrina Wang @curiouscatwang
+
+
+
+从这篇文章中可以期待什么？
+
+
+本文探讨和研究的核心问题是 MEV 市场中的辅助参与者（非 validator 验证者，非 proposer 提议者，非 searcher 搜索者执行的产品和服务）如何积累价值。Flashbots 是这些辅助参与者的一个缩影。在本文中，我将以 Flashbots 为案例进行研究和扩展，分析 MEV 的商业模型。
+
+
+研报分为四个部分：
+
+
+第一部分：评估 Flashbots 维持其市场主导地位的能力。
+
+
+第二部分：预测 Flashbots 未来商业模式、商业化路径和利弊权衡。其中对两种选择和设计进行了探讨。
+
+
+打开收费开关、推出代币（SUAVE）
+
+
+第三部分：分析 MEV 的增长趋势和这个新兴行业的发展。
+
+
+第四部分：最后预测 MEV 行业将如何演变。
+
+
+总的来说，我对 MEV 的商业可行性的看法从乐观 悲观 乐观。.
+
+
+
+
+
+
+
+
+第一眼感到乐观：MEV 可能是商业化时间跨度最短的行业。到目前为止，MEV 产生的 10 亿美元收入证明了这一点。
+
+
+第二眼感到悲观：MEV 这个行业中的参与者以利益为导向，充满了 Bertrand 式的竞争（同质化商品，价格竞争）。这个市场目前的领跑者 Flashbots 是一个顶级的亏损者，为 Validator 验证者和 Searcher 搜索者创造了 7 亿美元的收入，但它自己没有任何收益。
+
+
+第三眼感到乐观：MEV 的未来是一座金矿。MEV 的无限排列，EIP 4337（账户抽象），越来越多的 DeFi 活动，还在初期的跨链 MEV，各种类型的私人订单流（POF），以及 MEV 的创造性融合，跨链桥和 DeFi 原语（DEX、借贷、质押/LSD 等）带…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么V神没去香港的万向大会，而去黑山？]]></title>
+        <id>https://www.theblockbeats.info/news/36617</id>
+        <link href="https://www.theblockbeats.info/news/36617"/>
+        <updated>2023-04-18T10:40:38.000Z</updated>
+        <summary type="html"><![CDATA[近日在 Hong Kong Web3 大会的举办中，我们看到香港的繁华和焕发的同时，也有人不禁发问：「为什么 V 神没去香港的万向大会？」
+
+
+
+
+毕竟我们都知道以太坊和香港 Web3 大会的主办方万向有着深厚渊源：在以太坊发展的早期阶段，肖风就以万向区块链实验室的名义向以太坊资助了 50 万美元，HashKey 集团也通过附属公司投资以太坊、成为以太坊的早期投资者之一。也正是这几笔资金协助以太坊重回了正轨。
+
+
+
+
+自那之后，Vitalik Buterin 与肖风之间就开始了紧密合作，比如 Vitalik 每年都会积极参与万向全球区块链峰会，即使去不了现场也会视频连线。因此 V 神没去香港万向大会也成了许多人心里的一个问号。
+
+
+
+
+
+
+
+
+
+不仅如此，社区发现，V 神有好久都没线下露面，除了最近称赞 ChatGPT 3.5 的表现令人印象深刻和表达 ZK-EVM 将成为以太坊的第三种客户端之外，V 神的动向似乎有点神秘。自 2 月 Vitalik Buterin 在丹佛接受彭博社采访，以及在加纳 Web3 会议线下露面以来，也有快两个月的时间了。
+
+
+
+
+因此，这场在黑山共和国首都波德戈里察举办的 EDCON 大会，V 神将正式出席最的消息就显得十分令人期待了。
+
+
+
+
+V 神确认参加的 EDCON 大会是什么
+
+
+
+
+EDCON（社区以太坊发展大会）是一个非营利性的年度全球以太坊会议，致力于服务以太坊生态系统，促进全球以太坊社区的互动和交流。自 2017 年以来，这次在黑山的 EDCON 大会是已经第六届了。官方统计数据显示，这个多年来的活动已经吸引了超过 10,000 名参会者、2000 多名开发人员、300 多名演讲者、450 多个项目、400 多个支持者和 30 万的在线观看量。
+
+
+
+
+
+
+
+
+
+EDCON 嘉宾包括 V 神、Tim Beiko、Barry W…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊上海升级完成，LSD赛道或将翻倍？]]></title>
+        <id>https://www.theblockbeats.info/news/36616</id>
+        <link href="https://www.theblockbeats.info/news/36616"/>
+        <updated>2023-04-18T10:24:01.000Z</updated>
+        <summary type="html"><![CDATA[质押是 DeFi 的核心玩法之一，流动性质押衍生品 (LSD) 则为这批质押在智能合约中资产流动性的释放提供了可能性。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访Sui创始人：资金充裕，目前为止没有新一轮融资需求]]></title>
+        <id>https://www.theblockbeats.info/news/36612</id>
+        <link href="https://www.theblockbeats.info/news/36612"/>
+        <updated>2023-04-18T07:53:27.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《专访公链 Sui 创始人 Evan Cheng：尚无计划融 C 轮，加密初创公司融资受到 AI 挤压》
+原文来源：Forkast
+原文编译：PANews
+
+
+导语
+
+
+FTX 倒闭、加密友好银行破产、AI 火爆全球抢走了加密货币初创公司的部分融资额度，诸多事件影响下，Sui 创始人 Evan Cheng 怎么看当下的市场。
+
+
+根据 Sui 的开发机构 Mysten Labs 创始人 Evan Cheng 的说法，随着 FTX 崩溃后，区块链和加密货币初创公司难以筹集资金，人工智能现在获得了更大份额的风险投资资金。
+
+
+尽管困难重重，Cheng 认为这种情况为开发人员提供了创建公开透明基础架构的机会。然而，初创公司后期融资变得越来越难，只有优秀的公司才能获得支持。
+
+
+在接受 Forkast 采访中，Cheng 解释了区块链行业面临的问题、支持 Web3 开发人员的潜力，以及 Play-to-earn 游戏的可持续性挑战。
+访谈文字实录：
+
+
+Angie Lau（Forkast 主编）：很多人都知道 Mysten Labs，拿了非常多的投资，当然也遭遇了 FTX 暴雷这样的事件，过去几个月的经历是怎样的？
+
+
+Cheng: FTX 的事件是不行的，围绕着这个事件有各种各样的言论，有很多疑问和担忧。但需要澄清的是，我们在财务上没有受到 FTX 所参与的 3 亿美元 B 轮融资的影响，我们所持有的都是现金或者银行的等价物，资金非常安全。我们团队比较资深，我们知道想自己做什么，我们从来没有指望过多依赖我们的投资者合作伙伴来满足上币等关键需求。（PANews 注：近期 Mysten Labs 支付 9600 万美元回购了 FTX 持有的股权，该价格还包括「FTX 购买 Sui 代币的所有认股权证」。）
+
+
+Angie Lau（Forkast 主编）：现在是 2023 年…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单周涨幅300%的LSD新项目Agility是什么？]]></title>
+        <id>https://www.theblockbeats.info/news/36605</id>
+        <link href="https://www.theblockbeats.info/news/36605"/>
+        <updated>2023-04-18T07:28:46.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《LSD 第一大矿：一周吸引超过 4 亿美元 TVL，币价几天上涨 300%，Agility 你参与了吗？》
+原文作者：@8BTC_OFFICIAL
+
+
+上海升级带火了 LSD 概念，诞生了 LSD 挖矿项目——Agility（AGI）@agility_lsd。自上周末开始，凭借极高的流动性挖矿收益，Agility 的 TVL 和币价已经翻了几倍。
+
+
+
+
+
+
+
+
+ 目前已经吸引了超过 4.4 亿美元TVL，其中近 4 亿是过去不到一周吸引的，而过去不到 24 小时就吸引了超过 2 亿美元。据说，A16z 都已经入场挖矿。截止目前，Agility 上的 AGI-WETH 池子收益仍旧高达 3648.6% APR。ETH 单币质押收益在 30% +APR。
+
+
+
+
+
+Agility 是什么？
+
+
+
+Agility 是上海升级之后开始火起来的，试图带来一场 LSD Summer 狂欢盛宴。
+
+
+
+Agility 自称是世界上第一个 LSD 流动性层，愿景是为 LSD 持有者解锁流动性，探索更多 LSD 交易场景，为其他 LSD 相关协议提供深度流动性。
+
+
+
+Agility 既是一个 LSD 流动性分配平台，也是一个 aUSD 交易平台。
+
+
+LSD 是什么？aUSD? aLSD? aETH? 这些都是什么？
+
+
+
+LSD 是由流动性质押协议或平台发行的代币，常见的 LSD 包括：Lido发行的 stETH 和 wstETH，Rocket Pool的 rETH，Frax的 frxETH 和 sfrxETH 等。
+
+
+aUSD 是 Agility 发行的超额抵押稳定币。用户只能通过抵押 aLSD 或 aETH 来铸造 aUSD。
+
+
+
+aLSD 和 aETH 是 Agility 发行的代币，代表用户在该协议中存入的 LSD 或 ETH。
+
+
+aLSD 和 aETH 的价值按照 1:1 的比例与相应供应资产的价值挂钩，可用于 LSD 流动性分配和 aUSD 铸币。
+
+
+
+aLSD 或 aETH 持有者可以将资金存入相应的资金池，可以获得三种奖励：
+
+
+100% LSD 收益、30% 的 Vault 策略收益、esAGI 代币奖励。
+
+
+Agility 的机制 ：
+
+
+
+
+
+Agility 路线图：
+
+
+
+Agility 目前规划了 3 个阶段。
+
+
+
+第一阶段：
+
+
+
+创世流动挖矿——积累 LSD 和 ETH 流动性。
+
+
+启动 aUSD 模块并激励 aUSD-USDC 流动性。
+
+
+
+第二阶段：
+
+
+
+启动 LSD 财库。
+
+
+启动 aUSD 交易生态系统的 Perp 和 Yield Exchange。
+
+
+启动 LSD 流动性分配生态系统。
+
+
+
+第三阶段：
+
+
+
+完善 aUSD 交易生态系统，吸引外部开发者构建更多交易场景。
+
+
+完善 LSD Liquidity Distribute 生态系统并推出 Bribe 功能。
+
+
+探索 aUSD 的外部应用场景。
+
+
+
+Agility 的矿能持续多久？
+
+
+
+流动性挖矿项目都是通过高收益来吸引 TVL，Agility 也不例外。
+
+
+
+Agility 的收益是以 #AGI 价格作为衡量的，当 AGI 价格崩盘时，高收益自然也将不复存在。
+
+
+
+从以往来看，流动性挖矿的高收益通常不可持续，Agility 会有不同的结局吗？
+
+
+提醒：Agility 的 TVL 和币价快速上涨是其高收益引发的 FOMO 导致的，没人知道能够持续多久。
+项目诞生时间短。投资者更需要注意资金安全，DYOR。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衍生品交易平台ApolloX V2版本发布，锐评优劣势及影响]]></title>
+        <id>https://www.theblockbeats.info/news/36586</id>
+        <link href="https://www.theblockbeats.info/news/36586"/>
+        <updated>2023-04-18T06:07:27.000Z</updated>
+        <summary type="html"><![CDATA[在 V1 订单簿模式的基础上，部分整合GMX和GNS的机制，并进行了符合BSC生态的特色创新]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国监管三连击：Bittrex、Paxful与稳定币]]></title>
+        <id>https://www.theblockbeats.info/news/36585</id>
+        <link href="https://www.theblockbeats.info/news/36585"/>
+        <updated>2023-04-18T05:37:32.000Z</updated>
+        <summary type="html"><![CDATA[你知道V神为什么没去香港吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[监测韩国市场，帮助你寻找下一个pump]]></title>
+        <id>https://www.theblockbeats.info/news/36584</id>
+        <link href="https://www.theblockbeats.info/news/36584"/>
+        <updated>2023-04-18T05:23:28.000Z</updated>
+        <summary type="html"><![CDATA[「跟随韩国市场，助力token收益」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊迎来坎昆升级，Layer2 扩容将真正爆发]]></title>
         <id>https://www.theblockbeats.info/news/36583</id>
