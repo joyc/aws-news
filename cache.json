@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36614",
+          "author": null,
+          "description": "原文标题：《\n\n【投研导航】一文读懂以太坊黑暗森林中的 MEV｜科普向汇总｜对 DeFi 影响｜机遇 & 挑战\n\n\n》\n原文来源：\n\nChainFeeds\n\n\n\n\n\n\nDark Forest（黑暗森林）法则的概念出自《三体》，指一旦某个文明被发现，就必然遭到其他文明的打击。\n\n\n以太坊交易池（Ethereum mempool）就像黑暗森林，被来历不明的程序密切监控，如果有利可图就会抢跑或竞价交易。这种抢夺价值的行为是一种 MEV（Maximal Extractable Value）。\n\n\n\nMEV 是指矿工可以从交易操纵中提取的以太币总量。这种操纵可以有多种形式，但大多数是通过重新排序块内的交易和抢先交易。MEV 是如何运作的？MEV-Boost 又是什么？为什么它对今天的 POS 以太坊如此重要？MEV 市场格局是什么？MEV 的机遇与挑战有哪些？\n\n\nFlashbots 战略负责人、A&T Capital 、IOSG、Galaxy Digital 、Protocol Labs 研究员等一众 KOL 带你一探究竟。\n\n\n【目录】MEV 研究信息源精选\n\n\n\n\n\n科普向\n\n\n\n\n\n\n\n\n\n1 MEV 叙事史：从 5 年前聊起 （2022/12/27）\n\n\n\n\n\n\n\n\n\n导读：MEV 的根源和加密货币一样古老，但其术语、框架和工具仍在发展之中。本文对 MEV 诞生前、诞生后、流行及专业化的 5 年历史进行了概述。\n\n\n1）诞生前：MEV 的出处可以追溯到 2010 年早期比特币对「fee sniping」的研究，但如果不直接攻击共识机制，比特币矿工可以提取的 MEV 很少，因此比特币是一个独特的无趣的 MEV 研究链；2）MEV 诞生（2018- 2019 年）：MEV 需要两件事情，争夺和承诺，2017 年 DAI 的推出为 DeFi 引入清算，并引入了大量但不频繁的 ME…",
+          "link": "https://www.theblockbeats.info/news/36614",
+          "publishedOn": "2023-04-18T14:00:01.000Z",
+          "wordCount": null,
+          "title": "一文读懂以太坊黑暗森林中的MEV",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36615",
           "author": null,
           "description": "原文标题：《房间里的大象，Flashbots 商业化路径预测》\n原文作者：Catrina Wang @curiouscatwang\n\n\n\n从这篇文章中可以期待什么？\n\n\n本文探讨和研究的核心问题是 MEV 市场中的辅助参与者（非 validator 验证者，非 proposer 提议者，非 searcher 搜索者执行的产品和服务）如何积累价值。Flashbots 是这些辅助参与者的一个缩影。在本文中，我将以 Flashbots 为案例进行研究和扩展，分析 MEV 的商业模型。\n\n\n研报分为四个部分：\n\n\n第一部分：评估 Flashbots 维持其市场主导地位的能力。\n\n\n第二部分：预测 Flashbots 未来商业模式、商业化路径和利弊权衡。其中对两种选择和设计进行了探讨。\n\n\n打开收费开关、推出代币（SUAVE）\n\n\n第三部分：分析 MEV 的增长趋势和这个新兴行业的发展。\n\n\n第四部分：最后预测 MEV 行业将如何演变。\n\n\n总的来说，我对 MEV 的商业可行性的看法从乐观 悲观 乐观。.\n\n\n\n\n\n\n\n\n第一眼感到乐观：MEV 可能是商业化时间跨度最短的行业。到目前为止，MEV 产生的 10 亿美元收入证明了这一点。\n\n\n第二眼感到悲观：MEV 这个行业中的参与者以利益为导向，充满了 Bertrand 式的竞争（同质化商品，价格竞争）。这个市场目前的领跑者 Flashbots 是一个顶级的亏损者，为 Validator 验证者和 Searcher 搜索者创造了 7 亿美元的收入，但它自己没有任何收益。\n\n\n第三眼感到乐观：MEV 的未来是一座金矿。MEV 的无限排列，EIP 4337（账户抽象），越来越多的 DeFi 活动，还在初期的跨链 MEV，各种类型的私人订单流（POF），以及 MEV 的创造性融合，跨链桥和 DeFi 原语（DEX、借贷、质押/LSD 等）带…",
@@ -273,16 +283,6 @@
           "publishedOn": "2023-04-16T08:21:42.000Z",
           "wordCount": null,
           "title": "周末荐读：加密友好的香港众安银行如何开户？两大做市商DWF Labs与Wintermute隔空互怼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36520",
-          "author": null,
-          "description": "一轮完整的牛市，资金在板块轮动的规律通常是BTC—ETH及公链/L2—时下热门板块—Web 3 基础设施—GameFi/元宇宙—NFT—meme 币/动物币—牛市结束。",
-          "link": "https://www.theblockbeats.info/news/36520",
-          "publishedOn": "2023-04-16T05:06:01.000Z",
-          "wordCount": null,
-          "title": "想玩转meme币？这些底层逻辑及投资方法论你必须了解",
           "imageUrl": null
         }
       ]

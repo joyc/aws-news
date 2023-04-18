@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-18T12:12:35.109Z</updated>
+    <updated>2023-04-18T18:09:06.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一文读懂以太坊黑暗森林中的MEV]]></title>
+        <id>https://www.theblockbeats.info/news/36614</id>
+        <link href="https://www.theblockbeats.info/news/36614"/>
+        <updated>2023-04-18T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+【投研导航】一文读懂以太坊黑暗森林中的 MEV｜科普向汇总｜对 DeFi 影响｜机遇 & 挑战
+
+
+》
+原文来源：
+
+ChainFeeds
+
+
+
+
+
+
+Dark Forest（黑暗森林）法则的概念出自《三体》，指一旦某个文明被发现，就必然遭到其他文明的打击。
+
+
+以太坊交易池（Ethereum mempool）就像黑暗森林，被来历不明的程序密切监控，如果有利可图就会抢跑或竞价交易。这种抢夺价值的行为是一种 MEV（Maximal Extractable Value）。
+
+
+
+MEV 是指矿工可以从交易操纵中提取的以太币总量。这种操纵可以有多种形式，但大多数是通过重新排序块内的交易和抢先交易。MEV 是如何运作的？MEV-Boost 又是什么？为什么它对今天的 POS 以太坊如此重要？MEV 市场格局是什么？MEV 的机遇与挑战有哪些？
+
+
+Flashbots 战略负责人、A&T Capital 、IOSG、Galaxy Digital 、Protocol Labs 研究员等一众 KOL 带你一探究竟。
+
+
+【目录】MEV 研究信息源精选
+
+
+
+
+
+科普向
+
+
+
+
+
+
+
+
+
+1 MEV 叙事史：从 5 年前聊起 （2022/12/27）
+
+
+
+
+
+
+
+
+
+导读：MEV 的根源和加密货币一样古老，但其术语、框架和工具仍在发展之中。本文对 MEV 诞生前、诞生后、流行及专业化的 5 年历史进行了概述。
+
+
+1）诞生前：MEV 的出处可以追溯到 2010 年早期比特币对「fee sniping」的研究，但如果不直接攻击共识机制，比特币矿工可以提取的 MEV 很少，因此比特币是一个独特的无趣的 MEV 研究链；2）MEV 诞生（2018- 2019 年）：MEV 需要两件事情，争夺和承诺，2017 年 DAI 的推出为 DeFi 引入清算，并引入了大量但不频繁的 ME…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[房间里的大象，Flashbots商业化路径预测]]></title>
         <id>https://www.theblockbeats.info/news/36615</id>
@@ -709,16 +776,6 @@ Kava 10 在激活 EVM 的同时，还通过 IBC 协议链接到 Cosmos 生态系
         <link href="https://www.theblockbeats.info/news/36536"/>
         <updated>2023-04-16T08:21:42.000Z</updated>
         <summary type="html"><![CDATA[重温本周热点：Binance 创始人 CZ 的成长、家庭与传承；赌博+被 Rug，知名 NFT 投资人为还债抛售 20 余只 BAYC；FTX 重启？争论点在哪里？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想玩转meme币？这些底层逻辑及投资方法论你必须了解]]></title>
-        <id>https://www.theblockbeats.info/news/36520</id>
-        <link href="https://www.theblockbeats.info/news/36520"/>
-        <updated>2023-04-16T05:06:01.000Z</updated>
-        <summary type="html"><![CDATA[一轮完整的牛市，资金在板块轮动的规律通常是BTC—ETH及公链/L2—时下热门板块—Web 3 基础设施—GameFi/元宇宙—NFT—meme 币/动物币—牛市结束。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
