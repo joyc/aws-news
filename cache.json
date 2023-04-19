@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36641",
+          "author": null,
+          "description": "GPT-4 基于数据预测 5 月 BTC 波动区间 2w5～3w2",
+          "link": "https://www.theblockbeats.info/news/36641",
+          "publishedOn": "2023-04-19T07:49:56.000Z",
+          "wordCount": null,
+          "title": "用ChatGPT帮我们炒币，靠谱吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36638",
+          "author": null,
+          "description": "原文标题《\n\nLK Venture 研报：ZK Bridge 能否成就「跨链大战终局」？\n\n》\n原文来源：LK Venture\n\n\n如今，以太坊占据着区块链行业基础设施的半壁江山，但是其主网的统治地位正在被许多后来者挑战。行业普遍的共识之一是，未来或将是多链共存的格局，跨链甚至全链则是多链生态中最关键的一环。\n\n\n然而，如今连接各区块链网络的跨链桥安全问题频发，跨链生态似乎岌岌可危。ZK Bridge（使用 ZK 零知识证明技术的跨链桥）的出现，将有效解决当前跨链方案的多种缺陷，让万链互联成为可能。\n\n\n \nHeimdallr 守卫彩虹桥配图\n\n图片来源: Klugh, Maria Tales from the Far North (Chicago, IL: A. Flanagan Company, 1909)\n\n\n在北欧神话中，海姆达尔（Heimdallr）是一个神秘且重要的神祇，负责守卫连接神域（Asgard）与人间世界（Midgard）的彩虹桥——比弗洛斯特（Bifrst）。如果我们把连接不同神域和人间世界的彩虹桥比作跨链桥，那么，零知识证明技术能否肩负起守卫跨链安全的重任，成就彩虹桥上万夫莫开的「海姆达尔」神话？\n\n\n本文为 LK venture 投研团队对 ZK Bridge 赛道进行的全方位解析，力求展望零知识证明技术在解决跨链安全性和高性能瓶颈问题的发展空间。\n\n\n\n\nTL; DR\n\n\n- 什么是 ZK Bridge？ZK Bridge 是使用零知识证明技术的跨链桥，具有零信任、无许可、可拓展、高效率的特性。\n\n\n- 为什么需要 ZK Bridge？当前跨链桥的中心化问题和信任假设导致安全性不足，漏洞频出造成严重损失；而重视安全性的跨链桥，则效率低下，成本较高。ZK Bridge 可以同时保有安全性、去中心化和高效率。\n\n\n- 如何实现 ZK Bridge？基…",
+          "link": "https://www.theblockbeats.info/news/36638",
+          "publishedOn": "2023-04-19T06:50:52.000Z",
+          "wordCount": null,
+          "title": "LK Venture研报：ZK Bridge能否成就「跨链大战终局」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36637",
+          "author": null,
+          "description": "原文来源：MathVerse\n\n\n\n随着科技的快速发展和创新，数字生命已经从科幻小说走进了现实世界。特别是在数字艺术领域，非同质化 Token（NFT）的出现使得数字艺术品得以被唯一地识别和所有。数字头像 NFT 已经成为了一个热门领域，而数字生命 NFT 则是接下来的巨大机会。本文将从三个方面讨论为什么数字生命 NFT 是未来的发展趋势。\n\n\n首先，自定义 AI 是未来趋势。随着 AI 技术的发展，自定义 AI 模型的能力越来越强大，但同时也会存在差异。每个人都有不同的需求，因此在未来的世界里，人们会根据自己的特点和需求定制个性化的 AI。而这些自定义 AI 模型不仅仅是功能性的，它们更是一种独特的 NFT 资产，可以被视为身份和地位的标志。通过数字生命 NFT，人们可以在虚拟世界里展示自己的个性和独特价值。\n\n\n其次，每个 AI 会有自己的加密钱包。在数字生命 NFT 的世界中，数据隐私和安全是关键。为了解决这一问题，结合区块链技术的加密钱包是必不可少的。区块链保证了数据的隐私，使得用户可以安全地利用自己的数据来训练自定义 AI。此外，AI 还可以自行支付所需的服务费用，为用户节省时间和精力。更进一步地，AI 还能通过加密钱包帮助用户赚钱，比如通过交易或对外提供服务。同时，用户可以通过给 AI 钱包存入各种特定能力的 NFT 来强化自定义 AI 的能力，提高其价值和功能性。\n\n\n最后，AI 之间能通过自然语言进行沟通。在数字生命 NFT 的世界中，AI 系统之间需要高效地互相交流和协作。自然语言作为一种直观、易理解的沟通方式，可以让 AI 之间的接口变得更加高效。通过自然语言沟通，我们可以预见到一个 AI 的社交网络的诞生。在这个网络中，各个 AI 可以相互学习、协作和竞争，为用户提供更加丰富的服务。同时，在这个 AI 网络中，NFT 将作为一种寻址系统，帮助 AI 快速定位到其他 AI 或资源。而加密钱包则成为支付系统，实现资源的安全交换和价值转移。\n\n\n\n\n\n\n\n图片来源：https://mathverse.xyz\n\n\n一个具体的例子，近期 MathWallet 旗下创新项目 MathVerse 推出首个数字生命 NFT 系列——MathVerse Cyborg！每一个独具匠心的 Cyborg NFT 都是有独一无二的外形与个性的 AI，持有者更可持续训练，并可通过权限设置与朋友分享区块链 x AI 科技的魅力。在 MathVerse 项目中，自定义 AI 模型以 NFT 的形态变成了一种新的数字资产；每个 MathVerse AI 会拥有自己的加密钱包，保障数据隐私和安全，实现自动支付和赚钱功能；MathVerse AI 之间能通过自然语言进行沟通，促进了高效的系统接口和 AI 社交网络的诞生。\n\n\n\n\n图片来源：https://mathverse.xyz\n\n\n在这个不断发展的虚拟世界中，数字生命 NFT 将为我们带来更多的可能性和惊喜，让我们拭目以待。\n\n\n原文链接\n\n\n本文来自投稿，不代表律动 BlockBeats 观点。",
+          "link": "https://www.theblockbeats.info/news/36637",
+          "publishedOn": "2023-04-19T06:43:43.000Z",
+          "wordCount": null,
+          "title": "数字生命NFT是NFT的下一步吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36636",
+          "author": null,
+          "description": "原文标题：《解读三天翻倍的 XEN：当 meme「在做事」》\n原文来源：\n\nODAILY星球日报\n\n\n近来，山寨币中不乏有亮眼价格表现的项目。\n\n\n比如，XEN Crypto 近一周以来稳步上涨。而与之同步上涨的不仅仅是 XEN，其生态项目也迎来普涨。\n\n\n摘下对其印象面的「meme 滤镜」，稍做研究，我们发现，XEN 早已不是曾经那个单纯的「少年 XEN」了。XEN 不仅持续做事，甚至还「建设」出了一个小生态。\n\n\n目前，XEN 生态已初具规模，拥有 XEN、XENFT、XEN Torrent、DBXEN、Xenlon 等多款产品。这对于一个 Meme 币来说，着实励志。距离 XEN 发布已过约半年之久（欢迎阅读去年 10 月的访谈《对话 XEN 创始人：目标是挑战比特币，成为世界上占主导地位的点对点现金》），今天，Odaily 星球日报为你带来 XEN 及「新」产品的全面解读。\n\n\nXEN「全家桶」普涨\n\n\nCoingecko 数据显示，XEN 币价目前为 0.0000096 ，当日涨幅 47.3% ，三日涨幅翻倍。若回看一周涨势，已稳健涨至三倍。\n\n\n\n\n\n而同属 XEN 生态的 XLON 也表现良好。\n\n\n\n\n\n\nCoingecko 数据显示，XLON 已从本周最低点的 0.00000043 涨至目前的 0.00000073 。今日也创造了 37% 的单日涨幅。\n\n\n此外，生态项目 DBX 也录得了 5.7% 的单日涨幅。\n\n\n什么是 XEN？\n\n\n\n去年 10 月，XEN 一经推出就引爆了加密世界。 XEN 引发 Gas War，并导致 Gas 费用高居不下。短短几日便有百万地址参与了该项目挖矿。\n\n\n\nXEN 支付 Gas 与合约交互即可参与挖矿。用户需要自定义自己想「挖」的时间，待时间到期后，即可领取 XEN 代币。\n\n\n但其产出难度是不断对数递增的，遵循一个…",
+          "link": "https://www.theblockbeats.info/news/36636",
+          "publishedOn": "2023-04-19T06:10:52.000Z",
+          "wordCount": null,
+          "title": "meme团队要做事？三天翻倍的XEN开始建立生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36623",
+          "author": null,
+          "description": "撰文：Cookie，律动 BlockBeats\n\n\n\n\n在 2 月初的一个深夜发现了 Ordinals 协议后，我就深深迷上了比特币主网上的 NFT。\n\n\n\n\n1 月 29 日 Ordinals 协议正式上线以来，已经有超过 110 万个「铭文」被刻录，这 110 多万个 Satoshi（比特币的最小单位「聪」）从此变得完全不同。\n\n\n\n\n在这 2 个多月的时间里，我们已经看到 Yuga Labs、Degods 乃至现实中的超跑品牌布加迪等纷纷入场。相关的基础设施快速发展，交易市场（Magic Eden、Gamma、Ordswap、Ordinals Wallet 等）、 适配比特币 NFT 的钱包（Hiro、UniSat、Xverse 等）、聚合器（bestinslot.xyz）以及更完善的浏览器（OrdinalHub、ordiscan），都让比特币 NFT 生态的体验越来越完善和友好。\n\n\n\n\n尽管比特币 NFT 的发展迅猛，但在平日的交流中，我依然感受到许多玩家对比特币 NFT 的陌生。到底有多少人知道比特币 NFT 呢？大家对比特币 NFT 的兴趣几何？又对比特币 NFT 有什么样的看法？\n\n\n\n\n抱着这些疑问，我去了香港。\n\n\n\n\nOrdinals 在 Web3 Festival\n\n\n\n\n进入主会场后，我很快找到了第一个与 Ordinals 协议相关的项目——BTCDOMAIN。\n\n\n\n\n\n\n\n\n\n不同于比特币侧链 Stacks 上 btc.us 提供的 .btc 域名，BTCDOMAIN 的 .btc 域名与 .sats 、.unisat 等域名一样，是通过 Ordinals 协议完全构建在比特币主网上的。.sats 域名是目前在比特币 NFT 圈内最被广泛接受的域名，但在使用体验上也更为「硬核」。因为域名的有效性遵循的是比特币 NFT 的「First is Fi…",
+          "link": "https://www.theblockbeats.info/news/36623",
+          "publishedOn": "2023-04-19T04:36:28.000Z",
+          "wordCount": null,
+          "title": "这可能是比特币Ordinals社区的第一次聚会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36622",
+          "author": null,
+          "description": "原文标题：《以太坊的互补品？L2如何影响L1上的价值捕获？》\n原文作者：\n\nMichael Nadeau\n\n\n原文编译：\n\nForesight News\n\n\n\n\n\n这个加密冬天，以太坊扩展解决方案的增长是少数被市场持续关注的故事。交易费用下降，应用程序迁移到 L2，TVL 正在增长；与此同时，用户体验也越来越好。\n\n\n\n\nL2 来到了高光时刻，但它如何影响 L1 上的 ETH？ETH 持有者和验证者是否应该将 L2 视为以太坊的补充？价值会在技术堆栈中积累吗？这对于其他 L1 公链意味着什么？\n\n\n\n\n本周我们有一个基于数据的更新，涵盖了与 L2 相关的 Web3 技术堆栈的经济学：\n\n\n\n\nL2 业务模型和近期增长 L2 如何影响 ETH 经济学投资者的心智模型 / 框架我们还需要 L1 竞争链吗？\n\n\n\n\nL2 商业模式和近期增长\n\n\n\n\nL2 试图解决以太坊 L1 的扩展性问题。它们通过压缩数据和「转售」以太坊的区块空间来获利。L1 速度慢且价格昂贵，区块空间有限。因此，我们应该将以太坊视为技术堆栈的最终清算和结算层。基础层记录其上方的执行层和应用层上发生的所有事情的最终状态——作为唯一的事实来源。\n\n\n\n\n为应用程序增强用户体验（更低的成本、更快的交易）的执行服务将交给第 2 层。这些服务在以太坊之外的另一条链上执行，然后将数据记录到 L1 中下面是技术堆栈的简化视图。\n\n\n\n\n\n\n\n\n\n当前大部分计算资源（Gas）都消耗在以太坊 L1，这是应用程序最初构建的地方。请记住，Web3 堆栈没有中心化的一方协调开发活动（互联网也没有），一切都是开源的。构建者们争先恐后地进入，但并不是每个人都在相同的时间表上或按照相同的议程工作。这不是你在经营良好的科技公司看到的协调良好的敏捷冲刺。\n\n\n在扩展解决方案推出之前，L1 基础设施和应用程序都处在建设中。随着 L2 爆发，我们…",
+          "link": "https://www.theblockbeats.info/news/36622",
+          "publishedOn": "2023-04-19T04:25:54.000Z",
+          "wordCount": null,
+          "title": "Layer 2迎来高光时刻，将如何影响Layer 1上的价值捕获？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36621",
           "author": null,
           "description": "原文标题：《对话 Polygon 增长负责人：承认 L1 的价值，探索 L2 的更多可能》\n\n原文作者：Ignas\n\n\n原文编译：深潮 TechFlow\n\n\n\n随着以太坊进入 L2 时代，许多人开始思考 L1 的作用和价值。在这个问题上，Polygon 提供了有价值的观点和见解。\n\n\n\n在 Ignas 最近的采访中，Polygon 的增长负责人 Sanket 分享了他对 L1 和 L2 的看法，以及 Polygon 的终极愿景和 Polygon zkEVM 与 zkSync 的比较。在这篇文章中，我们将深入了解他的观点，以及他们的发展策略。\n\n\n\n\n\nL2 时代为何需要 L1？\n\n\n「以太坊已经赢得了 L1 竞赛，并作为结算层服务，而以太坊的扩展生态系统包括 Polygon、StarkWare 和其他 L2 解决方案。」\n\n\n以太坊向 B2B 链转变：\n\n\n「以太坊正在从 B2C 链转向 B2B 链，高价值交易仍将使用以太坊作为结算层。另一方面，所有其他交易将利用以太坊的安全性，其他层如 Polygon 将成为交易层。」\n\n\nPolygon 的终极目标：\n\n\n「我们的主要目标是扩展以太坊，并扩大其区块空间。大部分活动将在 L2 中进行，同时仍享有以太坊的安全性。」\n\n\n为什么 Polygon 构建了多个扩展解决方案？\n\n\n「由于 zkEVM 和其他 ZK 解决方案是新技术，很难知道哪种方法最好。这就是为什么我们收购了多个团队，因为每个团队都在使用不同的方法。」\n\n\nPolygon 当前的主要产品：\n\n\nPolygon 有三个主要产品：\n\n\n• Polygon PoS ；\n\n\n• Polygon zkEVM（基于 ZK 的 L2 扩展解决方案）；\n\n\n• Polygon Supernets（允许创建特定用例的专用区块链框架）。」\n\n\n\n\n\nPolygon zkEVM 与 zkSync 的比较：\n\n\n「我们的团队已经开发出世界上最快、最具成本效益的证明...... 与 zkSync Era 相比，Polygon zkEVM 提供了对开发人员更友好和强大的解决方案。」\n\n\n是否在去中心化 zkEVM 的道路上？\n\n\n「我们有一个清晰的去中心化路径，但需要时间。如果从一开始就去中心化，可能会出现很多问题，如灵活性降低，因此我们不想急于去中心化。我们优先考虑先启动一个功能链。」\n\n\n原生账户抽象：\n\n\n「账户抽象仍然是新技术，我们正在与 Stackup 和 Alchemy 等合作伙伴一起研究它。实施需要时间，因为我们希望优先启动一个工作链。」\n\n\n构建长期解决方案：\n\n\n「当构建生态系统时，你不能指望一切都会在第一天完成...... 我们希望缓慢而稳定地增长。经得住时间的考验才是真正的审计。」\n\n\nPolygon PoS L1 的未来：\n\n\n「Polygon PoS 将进行重大升级... 我们正在将其升级为真正的以太坊第 2 层。」\n\n\nPolygon 成功吸引合作伙伴的秘诀：\n\n\n「我们务实，同时专注于有效扩展的解决方案……我们认为加密货币是一项长期事业，这种思维方式使我们与众不同。」\n\n\n原文链接",
