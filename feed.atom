@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-19T12:12:52.436Z</updated>
+    <updated>2023-04-19T18:09:00.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HOPE现已正式登陆以太坊主网]]></title>
+        <id>https://www.theblockbeats.info/news/36656</id>
+        <link href="https://www.theblockbeats.info/news/36656"/>
+        <updated>2023-04-19T15:13:09.000Z</updated>
+        <summary type="html"><![CDATA[包括HopeSwap、HOPE质押和DAO在内的协议与功能现已正式向所有用户推出。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinGecko2023年Q1报告 ：行业是否已经回暖？]]></title>
+        <id>https://www.theblockbeats.info/news/36653</id>
+        <link href="https://www.theblockbeats.info/news/36653"/>
+        <updated>2023-04-19T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[CoinGecko 2023 年的 Q1 加密行业报告涵盖了加密市场格局，以及比特币和以太坊的分析，深入探讨 DeFi 和 NFT 生态系统，并回顾了 CEX 和 DEX 的表现。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用ChatGPT帮我们炒币，靠谱吗？]]></title>
         <id>https://www.theblockbeats.info/news/36641</id>
@@ -1241,83 +1261,6 @@ Pendle Finance 创立于 2021 年，是一个去中心化金融（DeFi）协议�
         <link href="https://www.theblockbeats.info/news/36542"/>
         <updated>2023-04-17T07:18:27.000Z</updated>
         <summary type="html"><![CDATA[.bit旨在提升Web3的安全性和用户友好性。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳步发展，Kava生态项目即将破百]]></title>
-        <id>https://www.theblockbeats.info/news/36558</id>
-        <link href="https://www.theblockbeats.info/news/36558"/>
-        <updated>2023-04-17T05:54:02.000Z</updated>
-        <summary type="html"><![CDATA[在各种 Layer2 发币、ZK 系项目融资的信息中，Kava 正悄悄发展，并已经成为了近期生态发展最为迅速的公链网络之一。根据 DeFiLlama 数据显示，在近 200 个公链生态中，Kava 的生态项目总量排名第十，达到 98 个，次于 Solana 的 102 个。
- 
-
-
-
-图源：Kava Labs
- 
-
-
-相比起近期红极一时的 Layer2 等网络，Kava 可谓是一个老项目。成立于 2019 年的 Kava 如今已经进行了 12 次升级迭代，每次迭代都更进一步完善了 Kava 网络的功能和性能。
-
-
- 
-在不断迭代下，Kava 凭借稳定性和优秀性能以及优异的用户体验吸引了大量项目的参与，支撑起了生态的快速发展。
-
-
- 
-量变从而质变
-
-
- 
-Kava 生态项目在近期得到了迅猛的发展，Kava 10 主网启动可谓是生态爆发的转折点。Kava 10 主网激活了 EVM，迈出了多链兼容的第一步。Kava 10 标志着 Kava 生态发展开始了质变。
-
-
- 
-Kava 10 在激活 EVM 的同时，还通过 IBC 协议链接到 Cosmos 生态系统。这一共链架构结合了以太坊智能合约开发的灵活性以及 Cosmos SDK 的互操作性。使得 Kava 可以轻松部署各种主流流动性协议、收益聚合器、DEX 等应用。
-
-
- 
-换言之，Kava 10 打通了以太坊和 Cosmos 拥有超千亿美元资产沉淀和千万级别用户。
-
-
- 
-除了在技术上的更新，Kava 还在运营层面支持生态项目的建设。在 Kava 10 主网启动后，Kava 先后推出了先锋计划和价值 7.5 亿美元的开发者激励，为后续项目的顺利发展提供了保障。
-
-
- 
-先锋计划主要用于为后续项目进行示范，展示 Kava 如何与生态项目合作，以及合作能够为双方带来的价值。首批参与先锋计划的项目有 Multichain、Poly…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHGlobal Tokyo黑客松落幕，11个决赛入围项目名单公布]]></title>
-        <id>https://www.theblockbeats.info/news/36538</id>
-        <link href="https://www.theblockbeats.info/news/36538"/>
-        <updated>2023-04-17T05:34:10.000Z</updated>
-        <summary type="html"><![CDATA[涉及钱包、NFT、DeFi、社交、支付、安全等多个领域。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年第17周融资精选，DWF一周4笔总额8300万美元]]></title>
-        <id>https://www.theblockbeats.info/news/36543</id>
-        <link href="https://www.theblockbeats.info/news/36543"/>
-        <updated>2023-04-17T05:27:36.000Z</updated>
-        <summary type="html"><![CDATA[上周的融资总数为28笔，总金额约25790万美元，平均融资金额为921.07万美元。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于香港 Web3 形势的若干观点]]></title>
-        <id>https://www.theblockbeats.info/news/36539</id>
-        <link href="https://www.theblockbeats.info/news/36539"/>
-        <updated>2023-04-17T03:23:11.000Z</updated>
-        <summary type="html"><![CDATA[香港 Web3 新政背后的决策逻辑是什么？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
