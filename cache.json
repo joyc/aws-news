@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36720",
+          "author": null,
+          "description": "EDU总量为10亿枚，本次LaunchPad销售额度为5000万EDU，占Token总供应量的5%。",
+          "link": "https://www.theblockbeats.info/news/36720",
+          "publishedOn": "2023-04-21T08:39:03.000Z",
+          "wordCount": null,
+          "title": "Binance新IEO Open Campus是做什么的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36718",
+          "author": null,
+          "description": "让人意外和高兴的是，在圆桌会议上行业某头部企业，当场就宣布了要投资水滴资本的新基金",
+          "link": "https://www.theblockbeats.info/news/36718",
+          "publishedOn": "2023-04-21T07:16:30.000Z",
+          "wordCount": null,
+          "title": "对话Waterdrip Capital CEO：香港合规非常有魅力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36715",
+          "author": null,
+          "description": "全方位解读BNB Chain一季度各项表现。",
+          "link": "https://www.theblockbeats.info/news/36715",
+          "publishedOn": "2023-04-21T07:06:35.000Z",
+          "wordCount": null,
+          "title": "Messari一季度BNB Chain报告：收入环比下降11.7%，用户活动仍然强劲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36714",
+          "author": null,
+          "description": "总有人吐槽zksync一笔2-5美元的gas费贵得离谱，从「验证者证明」角度思考其背后原因。",
+          "link": "https://www.theblockbeats.info/news/36714",
+          "publishedOn": "2023-04-21T06:41:49.000Z",
+          "wordCount": null,
+          "title": "身为Layer2，为何zkSync∎ Gas费偏高？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36711",
+          "author": null,
+          "description": "仍处于测试网阶段，用户仍有可能获得SHM空投。",
+          "link": "https://www.theblockbeats.info/news/36711",
+          "publishedOn": "2023-04-21T06:25:19.000Z",
+          "wordCount": null,
+          "title": "一文详解Shardeum：基本概念、独特功能及运作机制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36702",
+          "author": null,
+          "description": "本文将重新梳理Iron Fish发展历程、代币经济学，以及讨论其空投方案。",
+          "link": "https://www.theblockbeats.info/news/36702",
+          "publishedOn": "2023-04-21T04:27:50.000Z",
+          "wordCount": null,
+          "title": "Iron Fish主网上线，超50%地址被反女巫引发社区争议",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36701",
           "author": null,
           "description": "原文作者：Smokey the Bera，Berachain 联创\n\n\n\n\n原文编译：Leo，BlockBeats\n\n\n\n昨日，Layer 1 公链 Berachain 宣布完成了 4200 万美元融资，其联创 Smokey the Bera 撰写关于「Berachain 发展至今」的文章，BlockBeats 编译如下：\n\n\n\n\n大约一年半以前，我和 Papa 开玩笑说要制作吸烟熊 NFT。今天，Berachain 宣布已经从加密世界中一些最优秀的加密投资者和天使投资人那里筹集了 4200 万美元，用以构建第一个真正将流动性和安全性结合起来的协议。\n\n\n\n\n这是一段很匆忙的旅程，也仅仅是 Berachain 的起点，首先，来听听来自 Smokey the Bera 的感伤历史课。\n\n\n\n\n我和 Papa（其 NFT 团队）从 2015 年开始投资 crypto，我们在 2017、2018 年开始炒币，玩转了所有的 shitcoins，然后就到了 DeFi 之夏。我们经历了一些链和生态的兴衰，并在 2021 年和 2022 年花了很多时间在 alt-Layer 轮换上。一个常见的循环出现了——链启动> 生态基金> DEX & 借贷市场> TVL pump >排放枯竭>chain ded。\n\n\n\n\n无论这些链有多么去中心化、可扩展或安全——无论最终确定的时间有多长，无论互操作性如何，如果没有流动性，这条链很快就会成为「鬼城」。与此同时，我们在链上多个生态达到了 7 位数的 TVL，100 多倍的验证器，毫无疑问网络是安全的——但代价是什么？\n\n\n\n\n流动性确实是 DeFi 的命脉，但除此之外，协议活动也很重要，当我们意识到这一点时，Beras 正在加速发展。我们无意间启动了一个由成千上万聪明但头脑冷静的 DeFi 爱好者组成的社区，他们敢于冒险购买吸烟熊的 NFT，天知道是为什么。\n\n\n\n\n当我们验证我们的论点并探索散户和开发者在链上生态系统中的价值时，他们就成了最佳的访谈群体。有了社区的反馈，以及与 Papa、Dev 和 Homme 长时间的接触，Proof of Liquity 就这样出现了。\n\n\n\n\n一个杰出的系统，允许多个许可资本来源对网络安全作出贡献，同时也作为流动性来源，注入一组 DeFi 乐高：一个现货 AMM、一个永续期货交易平台和一个稳定币借贷平台。\n\n\n\n\n随着这些核心的「应用链」式原语的费用为协议层带来价值，我们看到了一个飞轮的开始，激励协议和验证器通过真实激励措施参与网络治理和流动性提供。\n\n\n\n\nDapps 可以利用这种流动性路由环境来引导他们自己的生态系统和合约，Berachain 成为第一家为其建设者提供流动性的链，并颠覆了目前占主导地位的捐款和虚假生态基金的现状。Berachain 的特性都有：\n\n\n\n\n-系统地建立流动性；\n\n\n-激励协议和验证者参与链基础设施；\n\n\n-重新定义贿赂的成本；\n\n\n-解决质押集中问题；\n\n\n\n\nBerachain 对 DeFi 以及整个区块链领域解决了一些最重要的问题。我们有机会从每个 EVM 和 Cosmos 链中提取资产，以构建现有的最深和最具资本效率的资金池，为用户提供 CEX 般的资本深度和速度，以及 CEX 的透明度和可定制性链上生态。\n\n\n\n\n真希望我能将文中提到的想法和愿景中的一半归功于我。但我只是做 henlos 和 ooga boogas。Berachain 的愿景源自整个数月以来团队的迭代、不眠之夜、空荡荡的红牛罐和白板上的涂鸦。当然，这一切也归功于 Bera 这些踏实肯干的兄弟们。\n\n\n\n\n最重要的是，整个团队之所以走到一起，是因为社区，成千上万的疯狂 mfs 在 Discord 上创建 pastas，甚至在没有测试网的情况下构建 Dapps，最初的 VC 团队，与 Dev 一起玩 Warzone 的人，知道 Papa 存在的人！\n\n\n\n\n唯一疯狂到将数十个项目串成一个游戏的兄弟，在银行挤兑期间，交易 VC 向我询问这件事，同时铸造了 16,420 个 NFT。我很珍惜你们这些稀奇古怪的角色、Bera alts 军团，以及形成的 Bera 信仰。\n\n\n\n\n最后，感谢我们的投资者信任一个由吸烟熊 jpegs 运行的链，我们有很多不错的想法，在你们的帮助下，这些想法越来越有可能成为现实。\n\n\n\n\n\n\n\n\n\n\n想想我们从哪里开始，以及我们现在所处的位置，感觉一切都有些不真实。我只想对团队、我们的投资者、我们的社区以及一路激励我们的人们说声谢谢！未来会越来越有趣的！\n\n\n欢迎加入律动 BlockBeats 官方社群：\nTelegram 订阅群\n\nTelegram 交流群\nTwitter 官方账号\n\n\n\n\n原文链接",
