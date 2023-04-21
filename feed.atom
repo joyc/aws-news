@@ -2,10 +2,322 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-21T00:34:29.674Z</updated>
+    <updated>2023-04-21T06:09:34.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从NFT到公链，Berachain创始人口述发展史]]></title>
+        <id>https://www.theblockbeats.info/news/36701</id>
+        <link href="https://www.theblockbeats.info/news/36701"/>
+        <updated>2023-04-21T03:16:14.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Smokey the Bera，Berachain 联创
+
+
+
+
+原文编译：Leo，BlockBeats
+
+
+
+昨日，Layer 1 公链 Berachain 宣布完成了 4200 万美元融资，其联创 Smokey the Bera 撰写关于「Berachain 发展至今」的文章，BlockBeats 编译如下：
+
+
+
+
+大约一年半以前，我和 Papa 开玩笑说要制作吸烟熊 NFT。今天，Berachain 宣布已经从加密世界中一些最优秀的加密投资者和天使投资人那里筹集了 4200 万美元，用以构建第一个真正将流动性和安全性结合起来的协议。
+
+
+
+
+这是一段很匆忙的旅程，也仅仅是 Berachain 的起点，首先，来听听来自 Smokey the Bera 的感伤历史课。
+
+
+
+
+我和 Papa（其 NFT 团队）从 2015 年开始投资 crypto，我们在 2017、2018 年开始炒币，玩转了所有的 shitcoins，然后就到了 DeFi 之夏。我们经历了一些链和生态的兴衰，并在 2021 年和 2022 年花了很多时间在 alt-Layer 轮换上。一个常见的循环出现了——链启动> 生态基金> DEX & 借贷市场> TVL pump >排放枯竭>chain ded。
+
+
+
+
+无论这些链有多么去中心化、可扩展或安全——无论最终确定的时间有多长，无论互操作性如何，如果没有流动性，这条链很快就会成为「鬼城」。与此同时，我们在链上多个生态达到了 7 位数的 TVL，100 多倍的验证器，毫无疑问网络是安全的——但代价是什么？
+
+
+
+
+流动性确实是 DeFi 的命脉，但除此之外，协议活动也很重要，当我们意识到这一点时，Beras 正在加速发展。我们无意间启动了一个由成千上万聪明但头脑冷静的 DeFi 爱好者组成的社区，他们敢于冒险购买吸烟熊的 NFT，天知道是为什么。
+
+
+
+
+当我们验证我们的论点并探索散户和开发者在链上生态系统中的价值时，他们就成了最佳的访谈群体。有了社区的反馈，以及与 Papa、Dev 和 Homme 长时间的接触，Proof of Liquity 就这样出现了。
+
+
+
+
+一个杰出的系统，允许多个许可资本来源对网络安全作出贡献，同时也作为流动性来源，注入一组 DeFi 乐高：一个现货 AMM、一个永续期货交易平台和一个稳定币借贷平台。
+
+
+
+
+随着这些核心的「应用链」式原语的费用为协议层带来价值，我们看到了一个飞轮的开始，激励协议和验证器通过真实激励措施参与网络治理和流动性提供。
+
+
+
+
+Dapps 可以利用这种流动性路由环境来引导他们自己的生态系统和合约，Berachain 成为第一家为其建设者提供流动性的链，并颠覆了目前占主导地位的捐款和虚假生态基金的现状。Berachain 的特性都有：
+
+
+
+
+-系统地建立流动性；
+
+
+-激励协议和验证者参与链基础设施；
+
+
+-重新定义贿赂的成本；
+
+
+-解决质押集中问题；
+
+
+
+
+Berachain 对 DeFi 以及整个区块链领域解决了一些最重要的问题。我们有机会从每个 EVM 和 Cosmos 链中提取资产，以构建现有的最深和最具资本效率的资金池，为用户提供 CEX 般的资本深度和速度，以及 CEX 的透明度和可定制性链上生态。
+
+
+
+
+真希望我能将文中提到的想法和愿景中的一半归功于我。但我只是做 henlos 和 ooga boogas。Berachain 的愿景源自整个数月以来团队的迭代、不眠之夜、空荡荡的红牛罐和白板上的涂鸦。当然，这一切也归功于 Bera 这些踏实肯干的兄弟们。
+
+
+
+
+最重要的是，整个团队之所以走到一起，是因为社区，成千上万的疯狂 mfs 在 Discord 上创建 pastas，甚至在没有测试网的情况下构建 Dapps，最初的 VC 团队，与 Dev 一起玩 Warzone 的人，知道 Papa 存在的人！
+
+
+
+
+唯一疯狂到将数十个项目串成一个游戏的兄弟，在银行挤兑期间，交易 VC 向我询问这件事，同时铸造了 16,420 个 NFT。我很珍惜你们这些稀奇古怪的角色、Bera alts 军团，以及形成的 Bera 信仰。
+
+
+
+
+最后，感谢我们的投资者信任一个由吸烟熊 jpegs 运行的链，我们有很多不错的想法，在你们的帮助下，这些想法越来越有可能成为现实。
+
+
+
+
+
+
+
+
+
+
+想想我们从哪里开始，以及我们现在所处的位置，感觉一切都有些不真实。我只想对团队、我们的投资者、我们的社区以及一路激励我们的人们说声谢谢！未来会越来越有趣的！
+
+
+欢迎加入律动 BlockBeats 官方社群：
+Telegram 订阅群
+
+Telegram 交流群
+Twitter 官方账号
+
+
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magi：a16z为以太坊带来多样化二层Rollup客户端]]></title>
+        <id>https://www.theblockbeats.info/news/36700</id>
+        <link href="https://www.theblockbeats.info/news/36700"/>
+        <updated>2023-04-21T03:06:56.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+a16z 的 L2 野心 Magi：为 Rollup 客户端带来多样性
+
+》
+原文作者：The Block & a16z Crypto
+原文编译：
+
+Odaily 星球日报
+
+
+
+在 Coinbase 推出基于 OP Stack 的全新以太坊 L2 网络 Base 之后，a16z 也出手了。
+
+
+
+4 月 19 日晚间，a16z Crypto 宣布推出名为 Magi 的二层 Rollup 客户端解决方案，无独有偶，Magi 客户端软件也将在 OP Stack 上构建（注：OP Stack 是一个软件堆栈，可用于围绕 Optimism Layer 2 网络创建区块链 dApp 生态系统），并将作为 a16z 迈进 Optimism Collective 的第一步。
+
+
+
+A16z 是加密领域最知名的投资者之一，拥有超过 70 亿美元的资金用于该领域的投资。2023 年至今，该风投已经参与了 11 项加密初创公司的融资交易。A16z Crypto 也是以太坊扩容项目 Optimism 的投资者之一，根据 CoinGecko 最新数据显示，Optimism 原生代币 OP 在今天 Magi 消息发布后已从约 2.55 美元攀升至 2.65 美元。
+
+
+
+ 
+
+Magi 是什么？
+
+
+ 
+
+Magi 是一个用 Rust 编写的高速 OP Stack Rollup 客户端，在以太坊的传统执行 / 共识拆分中充当共识客户端，向执行客户端提供新区块以推进链上交易。Magi 执行与参考实现（op-node）具有相同的核心功能，并与执行节点（如 op-geth）一起工作以同步到任何 OP Stack 链，包括 Optimism 和 Base。
+
+
+
+ 
+
+A16z 构建 Magi 的原因：为 Rollup 客户端带来多样性
+
+
+ 
+
+以太坊链上执行和共识方面都需要客户端多样性，然而到目前为止，大部分开发都集中在执行客户端上。
+
+
+
+现有的以太坊执行客户端都可以通过实施一组适度的更改与 Optimism 兼容，并且几个新项目已经在调整这些客户端以帮助实现客户端多样性，比如 OP Labs 修改 Geth 客户端以构建 op-geth，其他团体目前正在建设 op-erigon 和 op-reth。
+
+
+
+不过，Rollup 客户端改造难度更高，因为 Rollup 客户端是一个全新的软件。到目前为止，只有一种实现：op-node，由 OP Labs 维护并用 Go 语言编写。Magi 的目标是成为一个独立开发的 op-node 直接替代品，以提升 Rollup 的客户端多样性。A16z 希望构建一个基于 Rust 的新客户端将鼓励整个 OP 堆栈更加安全和活跃，并为生态系统带来更多贡献者。
+
+
+
+ 
+
+Magi 未来的发展方向
+
+
+ 
+
+Magi 仍处于非常早期的阶段，可能需要数月的开发时间才能成为 op-node 的可行替代方案。A16z 计划在不久的将来添加的一些功能和改进，主要包括：
+
+
+
+1、追踪不安全的区块头（未确认的区块）以降低延迟。
+
+
+
+2、构建新的同步机制可提高初始同步速度。
+
+
+
+3、为替代数据可用性层提供支持。
+
+
+
+4、用于测试 Magi、op-node 和任何未来客户端的更好框架。
+
+
+
+a16z 表示，Rollup 客户端还有很长的路要走，a16z 也希望能共同努力，继续推动 Magi 和 OP Stack 生态系统向前发展。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3移动钱包独特钓鱼攻击手法：Modal Phishing]]></title>
+        <id>https://www.theblockbeats.info/news/36699</id>
+        <link href="https://www.theblockbeats.info/news/36699"/>
+        <updated>2023-04-21T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+一茬接一茬，Web3.0 移动钱包又现独特钓鱼攻击手法：Modal Phishing
+
+》
+原文来源：
+
+CertiK
+
+
+
+
+
+
+我们最近发现了一种新型的网络钓鱼技术，可用于在连接的去中心化应用（DApp）身份方面误导受害者。
+
+
+
+我们将这种新型的网络钓鱼技术命名为Modal Phishing（模态钓鱼攻击）。
+
+
+攻击者可以向移动钱包发送伪造的虚假信息冒充合法的 DApp，并通过在移动钱包的模态窗口中显示误导性信息来诱骗受害者批准交易。这种网络钓鱼技术正在广泛使用。我们与相应的组件开发人员进行了沟通，并确认他们将发布新的验证 API 以降低该风险。
+
+
+什么是 Modal Phishing？
+
+
+在 CertiK 对移动钱包的安全研究中，我们注意到 Web3.0 货币钱包的某些用户界面（UI）元素可以被攻击者控制用来进行网络钓鱼攻击。我们将这种钓鱼技术命名为 Modal Phishing，因为攻击者主要针对加密钱包的模态窗口进行钓鱼攻击。
+
+
+模态（或模态窗口）是移动应用程序中经常使用的 UI 元素。模态通常显示在应用程序主窗口顶部。这样的设计通常用于方便用户执行快速操作，如批准/拒绝 Web3.0 货币钱包的交易请求。
+
+
+Web3.0 货币钱包上的典型模态设计通常提供供用户检查签名等请求的必要信息，以及批准或拒绝请求的按钮。
+
+
+
+真实交易批准模式与网络钓鱼交易批准模式对比
+
+
+在上方截图中，我们展示了 Metamask 上一个常规的交易审批模态窗口是如何出现的。
+
+
+当一个新的交易请求被连接的去中心化应用程序（DApp）初始化时，钱包会展示一个新的模态窗口，并要求用户进行人工确认。
+
+
+如上图左侧所示，模态窗口通常包含请求者的身份，如网站地址（此例中为 localhost）、图标等。如 Metamask 这样的一些钱包也会显示有关请求的关键信息，…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Research：现实世界资产Token化RWA ，嫁接TradFi与DeFi的桥梁]]></title>
+        <id>https://www.theblockbeats.info/news/36698</id>
+        <link href="https://www.theblockbeats.info/news/36698"/>
+        <updated>2023-04-21T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《Real World Assets: The Bridge Between TradFi and DeFi》
+原文来源：Mac Naggar,Binance Research
+原文编译：Web3 小律
+
+
+目前，虚拟资产市场（主要是虚拟货币）的总市值在 1 万亿美元上下，但据麦肯锡数据显示，全球金融系统一年的交易额就超过了 5.76 万亿美元，其市值更是超过 487 万亿美元。这些数据揭示了链下现实世界资产蕴藏的惊人价值，以及连通中心化和去中心化系统的重要意义。现实世界资产（RWA）Token 化则可以作为桥梁实现嫁接，极有可能是 DeFi 的下一个巨大叙事。
+
+
+本文编译了 Binance Research 于 2023 年 3 月 2 日发布的报告：《Real World Assets: The Bridge Between TradFi and DeFi》，以作为个人探索 Web3 世界的学习参考。
+
+
+
+一、RWA 背景
+
+
+对于大多数 DeFi 协议而言，投资者基于链上活动获得收益（如 DEX 交易费用，贷款协议产生的收益，以及最近火热的 LSD 等）。除此之外，一种新的真实收益（Real Yield）来源正在逐步崭露头角：存在于链下的现实世界资产（Real World Assets, RWA），通过
+
+Token
+
+化（Tokenization）之后带到链上，作为 DeFi 生态的另一种收益来源。
+
+
+RWA 可以代表许多不同类型的传统资产（包括有形资产和无形资产），如商业地产、债券、汽车，以及几乎任何存储价值可以被
+
+Token
+
+化的资产。从区块链技术的早期开始，市场参与者就一直在寻求将 RWA 引入链上。传统 TradFi 机构如高盛（Goldman Sachs）、汉密尔顿巷（Hamilton Lane）、西门子（Siemens）和 KKR 等…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入解读融资超1000万美元DeFi保险项目：Neptune Mutual]]></title>
         <id>https://www.theblockbeats.info/news/36662</id>
@@ -694,73 +1006,6 @@ Mary Liu，比推 BitpushNews
 
 
 立法者写道：「你们未能提供允许数字资产交易平台注册的途径，如果没有明确的道路规则，你推动…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文读懂以太坊黑暗森林中的MEV]]></title>
-        <id>https://www.theblockbeats.info/news/36614</id>
-        <link href="https://www.theblockbeats.info/news/36614"/>
-        <updated>2023-04-18T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-【投研导航】一文读懂以太坊黑暗森林中的 MEV｜科普向汇总｜对 DeFi 影响｜机遇 & 挑战
-
-
-》
-原文来源：
-
-ChainFeeds
-
-
-
-
-
-
-Dark Forest（黑暗森林）法则的概念出自《三体》，指一旦某个文明被发现，就必然遭到其他文明的打击。
-
-
-以太坊交易池（Ethereum mempool）就像黑暗森林，被来历不明的程序密切监控，如果有利可图就会抢跑或竞价交易。这种抢夺价值的行为是一种 MEV（Maximal Extractable Value）。
-
-
-
-MEV 是指矿工可以从交易操纵中提取的以太币总量。这种操纵可以有多种形式，但大多数是通过重新排序块内的交易和抢先交易。MEV 是如何运作的？MEV-Boost 又是什么？为什么它对今天的 POS 以太坊如此重要？MEV 市场格局是什么？MEV 的机遇与挑战有哪些？
-
-
-Flashbots 战略负责人、A&T Capital 、IOSG、Galaxy Digital 、Protocol Labs 研究员等一众 KOL 带你一探究竟。
-
-
-【目录】MEV 研究信息源精选
-
-
-
-
-
-科普向
-
-
-
-
-
-
-
-
-
-1 MEV 叙事史：从 5 年前聊起 （2022/12/27）
-
-
-
-
-
-
-
-
-
-导读：MEV 的根源和加密货币一样古老，但其术语、框架和工具仍在发展之中。本文对 MEV 诞生前、诞生后、流行及专业化的 5 年历史进行了概述。
-
-
-1）诞生前：MEV 的出处可以追溯到 2010 年早期比特币对「fee sniping」的研究，但如果不直接攻击共识机制，比特币矿工可以提取的 MEV 很少，因此比特币是一个独特的无趣的 MEV 研究链；2）MEV 诞生（2018- 2019 年）：MEV 需要两件事情，争夺和承诺，2017 年 DAI 的推出为 DeFi 引入清算，并引入了大量但不频繁的 ME…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
