@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-22T12:11:44.616Z</updated>
+    <updated>2023-04-22T18:07:33.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -514,56 +514,6 @@ Token
         <link href="https://www.theblockbeats.info/news/36680"/>
         <updated>2023-04-20T06:35:47.000Z</updated>
         <summary type="html"><![CDATA[「流动性」已成为加密市场最大叙事]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顾BAYC鲸Franklin的跌宕人生：从百万年薪、被美国总统接见，到投资失败最终退网]]></title>
-        <id>https://www.theblockbeats.info/news/36661</id>
-        <link href="https://www.theblockbeats.info/news/36661"/>
-        <updated>2023-04-20T05:27:10.000Z</updated>
-        <summary type="html"><![CDATA[曾经的Franklin，33岁就年薪百万，被美国总统接见，在NFT圈也有过叱咤风云的时刻，但在市场波动和错误的投资决策及赌博失利情况下，最终回到原点。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 ARPG游戏Abyss World与Space and Time合作，通过AI驱动并革新游戏玩法]]></title>
-        <id>https://www.theblockbeats.info/news/36659</id>
-        <link href="https://www.theblockbeats.info/news/36659"/>
-        <updated>2023-04-20T05:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Abyss World旨在提供更分散化和高效的游戏体验，并成为新的Web3游戏标准。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPE重新点燃meme币狂热，简析效用及代币经济]]></title>
-        <id>https://www.theblockbeats.info/news/36660</id>
-        <link href="https://www.theblockbeats.info/news/36660"/>
-        <updated>2023-04-20T03:49:35.000Z</updated>
-        <summary type="html"><![CDATA[无论从哪方面看，PEPE 都非常像之前的那些庞氏山寨 MEME 币]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密利率市场春风将至？深度解析LSD利率市场服务商Pendle]]></title>
-        <id>https://www.theblockbeats.info/news/36655</id>
-        <link href="https://www.theblockbeats.info/news/36655"/>
-        <updated>2023-04-20T03:02:41.000Z</updated>
-        <summary type="html"><![CDATA[随着LSD叙事的深入，基于LSD发展更复杂的DeFi工具、关注和推演债券市场叙事的呼声逐渐大了起来]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3元宇宙赛道展望（中）— 探讨用户生成内容（UCG）板块的现状]]></title>
-        <id>https://www.theblockbeats.info/news/36640</id>
-        <link href="https://www.theblockbeats.info/news/36640"/>
-        <updated>2023-04-20T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本篇文章是我们近期对 WEB3 元宇宙赛道集中梳理的第二篇文章，探讨了「UGC」板块的现状和问题，并分析了 UGC 元宇宙的三个典型项目：Riverman、GigaSpace 以及 Digi]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
