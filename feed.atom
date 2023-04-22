@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-22T06:08:32.080Z</updated>
+    <updated>2023-04-22T12:11:44.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[资产风险评估：锚定瑞士法郎的稳定币DCHF及其治理机构Moneta DAO]]></title>
+        <id>https://www.theblockbeats.info/news/36743</id>
+        <link href="https://www.theblockbeats.info/news/36743"/>
+        <updated>2023-04-22T08:04:48.000Z</updated>
+        <summary type="html"><![CDATA[本报告深入探讨了以瑞士法郎为锚定的DeFi franc (DCHF)稳定币以及其Moneta DAO治理机构。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana沉浮录：很多的偶然与少许的必然]]></title>
+        <id>https://www.theblockbeats.info/news/36742</id>
+        <link href="https://www.theblockbeats.info/news/36742"/>
+        <updated>2023-04-22T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[本文回顾一下这条王者公链Solana的跌宕沉浮。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUD的艺术：为什么一些NFT项目会死而另一些会蓬勃发展]]></title>
+        <id>https://www.theblockbeats.info/news/36724</id>
+        <link href="https://www.theblockbeats.info/news/36724"/>
+        <updated>2023-04-22T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[本文将列举三个NFT项目，分析FUD如何影响它们，并从中得出一些经验教训。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话ABCDE Capital联创BMAN：ABCDE的「根叶投资哲学」]]></title>
         <id>https://www.theblockbeats.info/news/36719</id>

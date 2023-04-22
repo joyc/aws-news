@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36743",
+          "author": null,
+          "description": "本报告深入探讨了以瑞士法郎为锚定的DeFi franc (DCHF)稳定币以及其Moneta DAO治理机构。",
+          "link": "https://www.theblockbeats.info/news/36743",
+          "publishedOn": "2023-04-22T08:04:48.000Z",
+          "wordCount": null,
+          "title": "资产风险评估：锚定瑞士法郎的稳定币DCHF及其治理机构Moneta DAO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36742",
+          "author": null,
+          "description": "本文回顾一下这条王者公链Solana的跌宕沉浮。",
+          "link": "https://www.theblockbeats.info/news/36742",
+          "publishedOn": "2023-04-22T06:00:01.000Z",
+          "wordCount": null,
+          "title": "Solana沉浮录：很多的偶然与少许的必然",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36724",
+          "author": null,
+          "description": "本文将列举三个NFT项目，分析FUD如何影响它们，并从中得出一些经验教训。",
+          "link": "https://www.theblockbeats.info/news/36724",
+          "publishedOn": "2023-04-22T06:00:01.000Z",
+          "wordCount": null,
+          "title": "FUD的艺术：为什么一些NFT项目会死而另一些会蓬勃发展",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36719",
           "author": null,
           "description": "“如果把 Crypto 比做一棵树，我们会投资它的树根和树叶。”",
