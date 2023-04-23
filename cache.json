@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36769",
+          "author": null,
+          "description": "本文是一系列介绍 DeFi 借贷文章中的第二篇，重点介绍了清算的概念，并讨论了过度抵押和坏账对借贷协议的影响，以及清算人如何维护协议的健康。",
+          "link": "https://www.theblockbeats.info/news/36769",
+          "publishedOn": "2023-04-23T10:09:47.000Z",
+          "wordCount": null,
+          "title": "探究 DeFi 借贷清算机制及其实现原理、风险与用例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36765",
+          "author": null,
+          "description": "加密巨头为何选择在此时主动拥抱原生Layer2？",
+          "link": "https://www.theblockbeats.info/news/36765",
+          "publishedOn": "2023-04-23T09:03:02.000Z",
+          "wordCount": null,
+          "title": "解读Base和 Linea：为何Coinbase、ConsenSys等加密巨头纷纷布局Layer2？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36768",
+          "author": null,
+          "description": "「骂归骂，买归买」",
+          "link": "https://www.theblockbeats.info/news/36768",
+          "publishedOn": "2023-04-23T08:12:42.000Z",
+          "wordCount": null,
+          "title": "社区都在骂Sui，那到底买不买？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36767",
+          "author": null,
+          "description": "重温本周热点：meme行情；Web3香港大会感悟；SUI开启IEO；Binance推出新一期Launchpad引发热议......",
+          "link": "https://www.theblockbeats.info/news/36767",
+          "publishedOn": "2023-04-23T08:00:02.000Z",
+          "wordCount": null,
+          "title": "周末荐读：Binance新IEO Open Campus是做什么的？Solana沉浮录",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36603",
           "author": null,
           "description": "原文标题：《万字解读公链 Sui：发展史、生态全景、技术性能与代币经济万字解读公链 Sui：发展史、生态全景、技术性能与代币经济》\n原文作者：AppleJ，CryptoJ 研究员\n\n\n以 Aptos 和 Sui 为代表「Meta 系」公链在巨轮融资和新的叙事背景下获得了市场的认可，两家公司的团队和整体技术都源自 Facebook 已解散的 Diem 和 Novi 项目。2022 年 8 月，CryptoJ 在《万字解读公链 Aptos：先发优势下的机遇与挑战》的报告中详细介绍了 Aptos 的项目发展情况，随着 Aptos 主网的落地上线，市场将部分注意力转向了 Sui，相比较 Aptos，Sui 更加注重底层技术的创新，旨在成为第一个互联网规模的可编程区块链平台，虽然从目前的状态来看，Sui 的发展路线进程略慢于 Aptos，但是以技术创新为驱动的项目往往具有潜力，Sui 在过去几年中积累了丰富的技术优势，伴随着 Sui 永久测试网的上线，市场对于其在下一个扩张周期的创新观点给予厚望。\n\n\nCryptoJ 将根据公开资料从 Sui 项目基本情况、生态发展、代币经济模型、技术网络进展、发展规划等多方面展开简单讨论，本文研究内容仅供参考，不构成任何投资建议。\n\n\n本文亮点总结，TL;DR：\n\n\n第一部分：从 Sui 基本定位、发展至今重要事件、时间节点、主要团队背景、公开融资情况等多方面介绍 Sui 的基本情况；\n\n\n第二部分：以 GameFi 与 Metaverse、DeFi、NFT、钱包、基础设施与开发工具、Web3 等多个模块为入口梳理 Sui 现有生态项目以及其主要社交媒体热度；\n\n\n第三部分：详细介绍 Sui 代币经济、用例、总量、优势以及公募细则；\n\n\n第四部分：从 Sui 工作原理、三次测试网进展等方面探索 Sui 现有网络与技术进展；\n\n\n第五部分：从主网实际…",
