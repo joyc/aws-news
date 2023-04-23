@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-22T18:07:33.223Z</updated>
+    <updated>2023-04-23T00:39:14.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -464,56 +464,6 @@ Token
         <link href="https://www.theblockbeats.info/news/36662"/>
         <updated>2023-04-20T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[Neptune Mutual是一个去中心化保险协议，基于参数覆盖模型，致力于降低投保人面临的加密市场风险。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高APY神矿多了，重回2020DeFi Summer?]]></title>
-        <id>https://www.theblockbeats.info/news/36689</id>
-        <link href="https://www.theblockbeats.info/news/36689"/>
-        <updated>2023-04-20T08:25:54.000Z</updated>
-        <summary type="html"><![CDATA[是什么让社区发出了：「最近的 DeFi 挖矿收益虽不能比汉唐盛世，但比有明中兴足足有矣」的感慨。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPE暴涨1000倍，那些购买者到底老鼠仓还是幸运儿？]]></title>
-        <id>https://www.theblockbeats.info/news/36688</id>
-        <link href="https://www.theblockbeats.info/news/36688"/>
-        <updated>2023-04-20T07:50:20.000Z</updated>
-        <summary type="html"><![CDATA[一些钱包在上线几分钟内购买了10%的代币，引发了关于这些钱包是否属于老鼠仓的质疑。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给比特币打编号，Ordinals协议能否造出更有价值的NFT？]]></title>
-        <id>https://www.theblockbeats.info/news/36681</id>
-        <link href="https://www.theblockbeats.info/news/36681"/>
-        <updated>2023-04-20T07:23:44.000Z</updated>
-        <summary type="html"><![CDATA[支持比特币NFT各类基础设施蓬勃发展，包括钱包、交易平台以及浏览器等，预计第二季度这些基础设施会进一步繁荣。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum空投背后：项目方与羊毛党的攻防升级之路]]></title>
-        <id>https://www.theblockbeats.info/news/36679</id>
-        <link href="https://www.theblockbeats.info/news/36679"/>
-        <updated>2023-04-20T06:38:15.000Z</updated>
-        <summary type="html"><![CDATA[如今的「撸毛」生态已经成为项目方、用户与 VC 机构的一场「合谋」，各方各取所需，最终从二级市场抽取利益。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Arthur Hayes要在美国财政部账户余额见底时清仓比特币？]]></title>
-        <id>https://www.theblockbeats.info/news/36680</id>
-        <link href="https://www.theblockbeats.info/news/36680"/>
-        <updated>2023-04-20T06:35:47.000Z</updated>
-        <summary type="html"><![CDATA[「流动性」已成为加密市场最大叙事]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
