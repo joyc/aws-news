@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-23T00:39:14.291Z</updated>
+    <updated>2023-04-23T06:08:26.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解读公链Sui：发展史、Token经济、生态全景与技术性能]]></title>
+        <id>https://www.theblockbeats.info/news/36603</id>
+        <link href="https://www.theblockbeats.info/news/36603"/>
+        <updated>2023-04-23T05:57:25.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《万字解读公链 Sui：发展史、生态全景、技术性能与代币经济万字解读公链 Sui：发展史、生态全景、技术性能与代币经济》
+原文作者：AppleJ，CryptoJ 研究员
+
+
+以 Aptos 和 Sui 为代表「Meta 系」公链在巨轮融资和新的叙事背景下获得了市场的认可，两家公司的团队和整体技术都源自 Facebook 已解散的 Diem 和 Novi 项目。2022 年 8 月，CryptoJ 在《万字解读公链 Aptos：先发优势下的机遇与挑战》的报告中详细介绍了 Aptos 的项目发展情况，随着 Aptos 主网的落地上线，市场将部分注意力转向了 Sui，相比较 Aptos，Sui 更加注重底层技术的创新，旨在成为第一个互联网规模的可编程区块链平台，虽然从目前的状态来看，Sui 的发展路线进程略慢于 Aptos，但是以技术创新为驱动的项目往往具有潜力，Sui 在过去几年中积累了丰富的技术优势，伴随着 Sui 永久测试网的上线，市场对于其在下一个扩张周期的创新观点给予厚望。
+
+
+CryptoJ 将根据公开资料从 Sui 项目基本情况、生态发展、代币经济模型、技术网络进展、发展规划等多方面展开简单讨论，本文研究内容仅供参考，不构成任何投资建议。
+
+
+本文亮点总结，TL;DR：
+
+
+第一部分：从 Sui 基本定位、发展至今重要事件、时间节点、主要团队背景、公开融资情况等多方面介绍 Sui 的基本情况；
+
+
+第二部分：以 GameFi 与 Metaverse、DeFi、NFT、钱包、基础设施与开发工具、Web3 等多个模块为入口梳理 Sui 现有生态项目以及其主要社交媒体热度；
+
+
+第三部分：详细介绍 Sui 代币经济、用例、总量、优势以及公募细则；
+
+
+第四部分：从 Sui 工作原理、三次测试网进展等方面探索 Sui 现有网络与技术进展；
+
+
+第五部分：从主网实际…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链上永续合约协议的创新]]></title>
+        <id>https://www.theblockbeats.info/news/36758</id>
+        <link href="https://www.theblockbeats.info/news/36758"/>
+        <updated>2023-04-23T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍了两个建立在永续协议GMX之上的协议 Rage Trade 和 Umami Finance，它们旨在提供 Delta 中性策略和稳定币收益，但也面临平衡风险和依赖GLP收益的挑战。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探究DeFi借贷：组成、公式，与用例]]></title>
+        <id>https://www.theblockbeats.info/news/36757</id>
+        <link href="https://www.theblockbeats.info/news/36757"/>
+        <updated>2023-04-23T04:29:52.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章是一系列文章中的第一篇，介绍了DeFi借贷协议的工作原理，包括其关键组成部分、公式和用例，并提供了 AAVE、Compound 和 Euler 三个协议如何使用「份额 Token」的实际示例，以及它们的相似之处。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs获得CryptoPunks Wrapper所有权，这代表着什么？]]></title>
+        <id>https://www.theblockbeats.info/news/36750</id>
+        <link href="https://www.theblockbeats.info/news/36750"/>
+        <updated>2023-04-23T03:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Larva Labs一直想抹除V1的存在，抹除这个巨大的失误，但NFT的魅力就在于此——不可更改、独一无二。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z：关于Token设计的7点小建议]]></title>
+        <id>https://www.theblockbeats.info/news/36749</id>
+        <link href="https://www.theblockbeats.info/news/36749"/>
+        <updated>2023-04-23T03:26:02.000Z</updated>
+        <summary type="html"><![CDATA[创业者请考虑代币的「设计理念」，而不仅仅是「代币经济」。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是真正的Rollup]]></title>
+        <id>https://www.theblockbeats.info/news/36748</id>
+        <link href="https://www.theblockbeats.info/news/36748"/>
+        <updated>2023-04-23T03:11:03.000Z</updated>
+        <summary type="html"><![CDATA[为什么现在还没有出现真正的Rollup]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[资产风险评估：锚定瑞士法郎的稳定币DCHF及其治理机构Moneta DAO]]></title>
         <id>https://www.theblockbeats.info/news/36743</id>
@@ -454,16 +539,6 @@ RWA 可以代表许多不同类型的传统资产（包括有形资产和无形�
 Token
 
 化的资产。从区块链技术的早期开始，市场参与者就一直在寻求将 RWA 引入链上。传统 TradFi 机构如高盛（Goldman Sachs）、汉密尔顿巷（Hamilton Lane）、西门子（Siemens）和 KKR 等…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入解读融资超1000万美元DeFi保险项目：Neptune Mutual]]></title>
-        <id>https://www.theblockbeats.info/news/36662</id>
-        <link href="https://www.theblockbeats.info/news/36662"/>
-        <updated>2023-04-20T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Neptune Mutual是一个去中心化保险协议，基于参数覆盖模型，致力于降低投保人面临的加密市场风险。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

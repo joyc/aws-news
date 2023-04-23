@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36603",
+          "author": null,
+          "description": "原文标题：《万字解读公链 Sui：发展史、生态全景、技术性能与代币经济万字解读公链 Sui：发展史、生态全景、技术性能与代币经济》\n原文作者：AppleJ，CryptoJ 研究员\n\n\n以 Aptos 和 Sui 为代表「Meta 系」公链在巨轮融资和新的叙事背景下获得了市场的认可，两家公司的团队和整体技术都源自 Facebook 已解散的 Diem 和 Novi 项目。2022 年 8 月，CryptoJ 在《万字解读公链 Aptos：先发优势下的机遇与挑战》的报告中详细介绍了 Aptos 的项目发展情况，随着 Aptos 主网的落地上线，市场将部分注意力转向了 Sui，相比较 Aptos，Sui 更加注重底层技术的创新，旨在成为第一个互联网规模的可编程区块链平台，虽然从目前的状态来看，Sui 的发展路线进程略慢于 Aptos，但是以技术创新为驱动的项目往往具有潜力，Sui 在过去几年中积累了丰富的技术优势，伴随着 Sui 永久测试网的上线，市场对于其在下一个扩张周期的创新观点给予厚望。\n\n\nCryptoJ 将根据公开资料从 Sui 项目基本情况、生态发展、代币经济模型、技术网络进展、发展规划等多方面展开简单讨论，本文研究内容仅供参考，不构成任何投资建议。\n\n\n本文亮点总结，TL;DR：\n\n\n第一部分：从 Sui 基本定位、发展至今重要事件、时间节点、主要团队背景、公开融资情况等多方面介绍 Sui 的基本情况；\n\n\n第二部分：以 GameFi 与 Metaverse、DeFi、NFT、钱包、基础设施与开发工具、Web3 等多个模块为入口梳理 Sui 现有生态项目以及其主要社交媒体热度；\n\n\n第三部分：详细介绍 Sui 代币经济、用例、总量、优势以及公募细则；\n\n\n第四部分：从 Sui 工作原理、三次测试网进展等方面探索 Sui 现有网络与技术进展；\n\n\n第五部分：从主网实际…",
+          "link": "https://www.theblockbeats.info/news/36603",
+          "publishedOn": "2023-04-23T05:57:25.000Z",
+          "wordCount": null,
+          "title": "解读公链Sui：发展史、Token经济、生态全景与技术性能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36758",
+          "author": null,
+          "description": "本文介绍了两个建立在永续协议GMX之上的协议 Rage Trade 和 Umami Finance，它们旨在提供 Delta 中性策略和稳定币收益，但也面临平衡风险和依赖GLP收益的挑战。",
+          "link": "https://www.theblockbeats.info/news/36758",
+          "publishedOn": "2023-04-23T05:00:01.000Z",
+          "wordCount": null,
+          "title": "链上永续合约协议的创新",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36757",
+          "author": null,
+          "description": "这篇文章是一系列文章中的第一篇，介绍了DeFi借贷协议的工作原理，包括其关键组成部分、公式和用例，并提供了 AAVE、Compound 和 Euler 三个协议如何使用「份额 Token」的实际示例，以及它们的相似之处。",
+          "link": "https://www.theblockbeats.info/news/36757",
+          "publishedOn": "2023-04-23T04:29:52.000Z",
+          "wordCount": null,
+          "title": "探究DeFi借贷：组成、公式，与用例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36750",
+          "author": null,
+          "description": "Larva Labs一直想抹除V1的存在，抹除这个巨大的失误，但NFT的魅力就在于此——不可更改、独一无二。",
+          "link": "https://www.theblockbeats.info/news/36750",
+          "publishedOn": "2023-04-23T03:38:40.000Z",
+          "wordCount": null,
+          "title": "Yuga Labs获得CryptoPunks Wrapper所有权，这代表着什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36749",
+          "author": null,
+          "description": "创业者请考虑代币的「设计理念」，而不仅仅是「代币经济」。",
+          "link": "https://www.theblockbeats.info/news/36749",
+          "publishedOn": "2023-04-23T03:26:02.000Z",
+          "wordCount": null,
+          "title": "a16z：关于Token设计的7点小建议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36748",
+          "author": null,
+          "description": "为什么现在还没有出现真正的Rollup",
+          "link": "https://www.theblockbeats.info/news/36748",
+          "publishedOn": "2023-04-23T03:11:03.000Z",
+          "wordCount": null,
+          "title": "什么是真正的Rollup",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36743",
           "author": null,
           "description": "本报告深入探讨了以瑞士法郎为锚定的DeFi franc (DCHF)稳定币以及其Moneta DAO治理机构。",
@@ -183,16 +243,6 @@
           "publishedOn": "2023-04-21T01:00:01.000Z",
           "wordCount": null,
           "title": "Binance Research：现实世界资产Token化RWA ，嫁接TradFi与DeFi的桥梁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36662",
-          "author": null,
-          "description": "Neptune Mutual是一个去中心化保险协议，基于参数覆盖模型，致力于降低投保人面临的加密市场风险。",
-          "link": "https://www.theblockbeats.info/news/36662",
-          "publishedOn": "2023-04-20T13:00:01.000Z",
-          "wordCount": null,
-          "title": "深入解读融资超1000万美元DeFi保险项目：Neptune Mutual",
           "imageUrl": null
         }
       ]
