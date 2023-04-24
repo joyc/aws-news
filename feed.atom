@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-23T18:07:41.668Z</updated>
+    <updated>2023-04-24T00:36:02.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -217,66 +217,6 @@ CryptoJ 将根据公开资料从 Sui 项目基本情况、生态发展、代币�
         <link href="https://www.theblockbeats.info/news/36722"/>
         <updated>2023-04-22T02:00:01.000Z</updated>
         <summary type="html"><![CDATA[在 Polygon zkEVM启动主网三周多的时间，已有主要包括跨链和DEX 的协议在zkEVM 上线 ，除了扩展过来的项目之外，多数 DeFi 项目还处于非常早期的阶段，且在借贷、NFT、元宇宙、游戏等领域鲜有触及。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi挖矿、杠杆交易？深入挖掘加密亿万富翁和大佬们的链上活动]]></title>
-        <id>https://www.theblockbeats.info/news/36721</id>
-        <link href="https://www.theblockbeats.info/news/36721"/>
-        <updated>2023-04-21T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[相关加密资产包括 $GMX、$ARB、$SOLID、$EQUAL、$SNEK、$TRX 等。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance新IEO Open Campus是做什么的？]]></title>
-        <id>https://www.theblockbeats.info/news/36720</id>
-        <link href="https://www.theblockbeats.info/news/36720"/>
-        <updated>2023-04-21T08:39:03.000Z</updated>
-        <summary type="html"><![CDATA[EDU总量为10亿枚，本次LaunchPad销售额度为5000万EDU，占Token总供应量的5%。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话Waterdrip Capital CEO：香港合规非常有魅力]]></title>
-        <id>https://www.theblockbeats.info/news/36718</id>
-        <link href="https://www.theblockbeats.info/news/36718"/>
-        <updated>2023-04-21T07:16:30.000Z</updated>
-        <summary type="html"><![CDATA[让人意外和高兴的是，在圆桌会议上行业某头部企业，当场就宣布了要投资水滴资本的新基金]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Messari一季度BNB Chain报告：收入环比下降11.7%，用户活动仍然强劲]]></title>
-        <id>https://www.theblockbeats.info/news/36715</id>
-        <link href="https://www.theblockbeats.info/news/36715"/>
-        <updated>2023-04-21T07:06:35.000Z</updated>
-        <summary type="html"><![CDATA[全方位解读BNB Chain一季度各项表现。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[身为Layer2，为何zkSync∎ Gas费偏高？]]></title>
-        <id>https://www.theblockbeats.info/news/36714</id>
-        <link href="https://www.theblockbeats.info/news/36714"/>
-        <updated>2023-04-21T06:41:49.000Z</updated>
-        <summary type="html"><![CDATA[总有人吐槽zksync一笔2-5美元的gas费贵得离谱，从「验证者证明」角度思考其背后原因。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文详解Shardeum：基本概念、独特功能及运作机制]]></title>
-        <id>https://www.theblockbeats.info/news/36711</id>
-        <link href="https://www.theblockbeats.info/news/36711"/>
-        <updated>2023-04-21T06:25:19.000Z</updated>
-        <summary type="html"><![CDATA[仍处于测试网阶段，用户仍有可能获得SHM空投。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
