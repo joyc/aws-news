@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36777",
+          "author": null,
+          "description": "Web3近年来发展迅速，对可扩展解决方案的需求变得更加迫切。",
+          "link": "https://www.theblockbeats.info/news/36777",
+          "publishedOn": "2023-04-24T14:00:02.000Z",
+          "wordCount": null,
+          "title": "与L2一样重要的应用链，谁能成为领跑者？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36774",
+          "author": null,
+          "description": "原文标题：《StarkWare 帝国：探析 StarkEx 和 StarkNet 的创新之旅》\n原文来源：Yinan，PANews\n\n\n背景\n\n\n从 2018 年开始，StarkWare 开创性地运用 STARK 有效性证明来解决以太坊的可扩展性问题。它推出了基于 SaaS 业务模型的 StarkEx，创造了 Cairo 编程语言，并构建了 Starknet，这是第一个允许编写自定义逻辑的生产中的去中心化网络。\n\n\nStarkWare 致力于在包括技术、数学、创新与产品交付的双重关注；支持其他推动以太坊和/或 STARK 的团队；以及努力使产品开源、去中心化并专注于将 STARK 作为公共产品。\n\n\n未来，StarkWare 将致力于让 Starknet 成为一个由 Starknet Foundation 治理的无需许可的去中心化有效性 rollup，并专注于去中心化 Starknet 的各个组成部分，例如 Prover、Sequencer 和治理。\n\n\nSTARK 技术基于证明，具体来说是完整性证明。STARK 利用数学来确保完整性，即使没有人监视，也能确保计算正确进行。这种技术的概念始于 Lszl Babai、Lance Fortnow、Leonid Levin 和 Mario Szegedy 于 1991 年的一篇文章，其中介绍了使用单一可靠计算机监控一组不可靠超级计算机的概念。该技术被称为「PCP」，通过数学监控和确保大型计算的完整性。\n\n\nSTARK 技术是 PCP 技术的改进版本，可让小用户检查并确保大公司、垄断企业或政府的正确运作。区块链恢复了货币交换的点对点特性，消除了对可信中介的需求。以太坊则将此概念推向更远，允许创建构成社会经济基础的通用程序。\n\n\nStarkware:\n\n\nStarkWare 是 zk rollups 赛道内最好的公司之一，由以色列理工…",
+          "link": "https://www.theblockbeats.info/news/36774",
+          "publishedOn": "2023-04-24T13:00:02.000Z",
+          "wordCount": null,
+          "title": "StarkWare生态：StarkEx和StarkNet创新性对比，谁更胜一筹？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36797",
           "author": null,
           "description": "原文来源：Ebunker 中文博客\n\n\nETH 正在经历第二波提款潮\n\n\n以太坊完成上海升级已经超过一周时间，统计数据表明，自升级的第一波提款潮之后，ETH 的存款数于 4 月 18 日超过了提款数，但很快又迎来了新的一波提款潮。截止 2023 年 4 月 20 日，共有 758,842 枚 ETH 等待提款，占目前仍处于锁定状态的 ETH 的 4.08%。\n\n\n\n\n\n自上海升级以来，市场参与者一直在密切监视 ETH 的提款数据，因为过去有很多关于市场上是否会有巨大抛压的辩论。但是，截止到 4 月 20 日，ETH 抛压并未在升级后一次性释放，而是显示出阶段性特征。\n\n\n\n\n\n在上周时间里，提款数量继续攀升，目前，仍有 75.8 万枚 ETH 正在排队提款。据 Nansen.AI 统计数据显示，自 4 月 18 日以来，ETH 存款数开始反超提款数，近期大部分 ETH 通过 Lido、Rocketpool 和 Frax 等流动性质押协议存入。而 19 日开始，可能由于 Binance 开启了提款服务，以及大盘行情的回落，又一波提款潮来袭。\n\n\n提款等待时间\n\n\n上海升级使以太坊的质押者能够撤回验证器中的全部余额。当一个完整的验证器撤出其 32 个 ETH 时，其验证器将停用，而部分提款则使质押者可以简单地撤回除 32 枚 ETH 之外获得的奖励。当一个验证器中所有 32 枚 ETH 被撤回时将会导致验证者的退出。因此，以太坊团队为此设定了严格的时间限制，保证多个验证器不会在短期内完全退出，避免对以太坊的网络安全构成威胁。\n\n\n\n\n\n\n\n\n\n为了提取质押的 ETH，需要验证器将其提款凭证前缀从 0x00 更改为 0x01。在上海升级推出时，只有约 40％的验证者将其凭证设置为 0x01。目前，此数字已增加到 85.8％，预计后续将逐渐接近 100％。\n\n\n\n\n\n全部提款过程如…",
@@ -203,66 +223,6 @@
           "publishedOn": "2023-04-22T08:04:48.000Z",
           "wordCount": null,
           "title": "资产风险评估：锚定瑞士法郎的稳定币DCHF及其治理机构Moneta DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36742",
-          "author": null,
-          "description": "本文回顾一下这条王者公链Solana的跌宕沉浮。",
-          "link": "https://www.theblockbeats.info/news/36742",
-          "publishedOn": "2023-04-22T06:00:01.000Z",
-          "wordCount": null,
-          "title": "Solana沉浮录：很多的偶然与少许的必然",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36724",
-          "author": null,
-          "description": "本文将列举三个NFT项目，分析FUD如何影响它们，并从中得出一些经验教训。",
-          "link": "https://www.theblockbeats.info/news/36724",
-          "publishedOn": "2023-04-22T06:00:01.000Z",
-          "wordCount": null,
-          "title": "FUD的艺术：为什么一些NFT项目会死而另一些会蓬勃发展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36719",
-          "author": null,
-          "description": "“如果把 Crypto 比做一棵树，我们会投资它的树根和树叶。”",
-          "link": "https://www.theblockbeats.info/news/36719",
-          "publishedOn": "2023-04-22T03:01:18.000Z",
-          "wordCount": null,
-          "title": "对话ABCDE Capital联创BMAN：ABCDE的「根叶投资哲学」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36654",
-          "author": null,
-          "description": "本报告重点研究了去中心化社交协议的发展，深入探讨了其优势与挑战，同时分析了一系列 DeSoc 协议的架构设计。",
-          "link": "https://www.theblockbeats.info/news/36654",
-          "publishedOn": "2023-04-22T03:00:01.000Z",
-          "wordCount": null,
-          "title": "重塑联系：去中心化社交网络全景解析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36741",
-          "author": null,
-          "description": "「RWA一直是加密世界关注的领域，Ondo未来或许会做得更好」",
-          "link": "https://www.theblockbeats.info/news/36741",
-          "publishedOn": "2023-04-22T02:21:32.000Z",
-          "wordCount": null,
-          "title": "Ondo的稳定币OMMF：由美债支持的算稳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36722",
-          "author": null,
-          "description": "在 Polygon zkEVM启动主网三周多的时间，已有主要包括跨链和DEX 的协议在zkEVM 上线 ，除了扩展过来的项目之外，多数 DeFi 项目还处于非常早期的阶段，且在借贷、NFT、元宇宙、游戏等领域鲜有触及。",
-          "link": "https://www.theblockbeats.info/news/36722",
-          "publishedOn": "2023-04-22T02:00:01.000Z",
-          "wordCount": null,
-          "title": "盘点Polygon zkEVM生态12个DeFi项目",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-24T12:12:47.610Z</updated>
+    <updated>2023-04-24T18:08:47.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[与L2一样重要的应用链，谁能成为领跑者？]]></title>
+        <id>https://www.theblockbeats.info/news/36777</id>
+        <link href="https://www.theblockbeats.info/news/36777"/>
+        <updated>2023-04-24T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Web3近年来发展迅速，对可扩展解决方案的需求变得更加迫切。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarkWare生态：StarkEx和StarkNet创新性对比，谁更胜一筹？]]></title>
+        <id>https://www.theblockbeats.info/news/36774</id>
+        <link href="https://www.theblockbeats.info/news/36774"/>
+        <updated>2023-04-24T13:00:02.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《StarkWare 帝国：探析 StarkEx 和 StarkNet 的创新之旅》
+原文来源：Yinan，PANews
+
+
+背景
+
+
+从 2018 年开始，StarkWare 开创性地运用 STARK 有效性证明来解决以太坊的可扩展性问题。它推出了基于 SaaS 业务模型的 StarkEx，创造了 Cairo 编程语言，并构建了 Starknet，这是第一个允许编写自定义逻辑的生产中的去中心化网络。
+
+
+StarkWare 致力于在包括技术、数学、创新与产品交付的双重关注；支持其他推动以太坊和/或 STARK 的团队；以及努力使产品开源、去中心化并专注于将 STARK 作为公共产品。
+
+
+未来，StarkWare 将致力于让 Starknet 成为一个由 Starknet Foundation 治理的无需许可的去中心化有效性 rollup，并专注于去中心化 Starknet 的各个组成部分，例如 Prover、Sequencer 和治理。
+
+
+STARK 技术基于证明，具体来说是完整性证明。STARK 利用数学来确保完整性，即使没有人监视，也能确保计算正确进行。这种技术的概念始于 Lszl Babai、Lance Fortnow、Leonid Levin 和 Mario Szegedy 于 1991 年的一篇文章，其中介绍了使用单一可靠计算机监控一组不可靠超级计算机的概念。该技术被称为「PCP」，通过数学监控和确保大型计算的完整性。
+
+
+STARK 技术是 PCP 技术的改进版本，可让小用户检查并确保大公司、垄断企业或政府的正确运作。区块链恢复了货币交换的点对点特性，消除了对可信中介的需求。以太坊则将此概念推向更远，允许创建构成社会经济基础的通用程序。
+
+
+Starkware:
+
+
+StarkWare 是 zk rollups 赛道内最好的公司之一，由以色列理工…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海升级后Staking ETH提现数据变化]]></title>
         <id>https://www.theblockbeats.info/news/36797</id>
@@ -548,66 +593,6 @@ CryptoJ 将根据公开资料从 Sui 项目基本情况、生态发展、代币�
         <link href="https://www.theblockbeats.info/news/36743"/>
         <updated>2023-04-22T08:04:48.000Z</updated>
         <summary type="html"><![CDATA[本报告深入探讨了以瑞士法郎为锚定的DeFi franc (DCHF)稳定币以及其Moneta DAO治理机构。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana沉浮录：很多的偶然与少许的必然]]></title>
-        <id>https://www.theblockbeats.info/news/36742</id>
-        <link href="https://www.theblockbeats.info/news/36742"/>
-        <updated>2023-04-22T06:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本文回顾一下这条王者公链Solana的跌宕沉浮。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUD的艺术：为什么一些NFT项目会死而另一些会蓬勃发展]]></title>
-        <id>https://www.theblockbeats.info/news/36724</id>
-        <link href="https://www.theblockbeats.info/news/36724"/>
-        <updated>2023-04-22T06:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本文将列举三个NFT项目，分析FUD如何影响它们，并从中得出一些经验教训。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话ABCDE Capital联创BMAN：ABCDE的「根叶投资哲学」]]></title>
-        <id>https://www.theblockbeats.info/news/36719</id>
-        <link href="https://www.theblockbeats.info/news/36719"/>
-        <updated>2023-04-22T03:01:18.000Z</updated>
-        <summary type="html"><![CDATA[“如果把 Crypto 比做一棵树，我们会投资它的树根和树叶。”]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重塑联系：去中心化社交网络全景解析]]></title>
-        <id>https://www.theblockbeats.info/news/36654</id>
-        <link href="https://www.theblockbeats.info/news/36654"/>
-        <updated>2023-04-22T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本报告重点研究了去中心化社交协议的发展，深入探讨了其优势与挑战，同时分析了一系列 DeSoc 协议的架构设计。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo的稳定币OMMF：由美债支持的算稳]]></title>
-        <id>https://www.theblockbeats.info/news/36741</id>
-        <link href="https://www.theblockbeats.info/news/36741"/>
-        <updated>2023-04-22T02:21:32.000Z</updated>
-        <summary type="html"><![CDATA[「RWA一直是加密世界关注的领域，Ondo未来或许会做得更好」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点Polygon zkEVM生态12个DeFi项目]]></title>
-        <id>https://www.theblockbeats.info/news/36722</id>
-        <link href="https://www.theblockbeats.info/news/36722"/>
-        <updated>2023-04-22T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[在 Polygon zkEVM启动主网三周多的时间，已有主要包括跨链和DEX 的协议在zkEVM 上线 ，除了扩展过来的项目之外，多数 DeFi 项目还处于非常早期的阶段，且在借贷、NFT、元宇宙、游戏等领域鲜有触及。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
