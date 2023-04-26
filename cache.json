@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36807",
+          "author": null,
+          "description": "在未来，团队希望构建更多像这样充分利用链上环境能力的产品。",
+          "link": "https://www.theblockbeats.info/news/36807",
+          "publishedOn": "2023-04-26T03:26:47.000Z",
+          "wordCount": null,
+          "title": "BASE：一个新的由Coinbase孵化并建立在开源OP Stack之上的以太坊L2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36805",
           "author": null,
           "description": "创新且高度可扩展的区块链基础设施现已向开发人员和用户开放测试。",
@@ -173,26 +183,6 @@
           "publishedOn": "2023-04-24T04:34:17.000Z",
           "wordCount": null,
           "title": "香港Web3新范式：前店后厂，海外增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36764",
-          "author": null,
-          "description": "gTrade是Gains Network 推出的第一款产品，它是一个去中心化杠杆交易平台，目前部署在Arbitrum及Polygon上。",
-          "link": "https://www.theblockbeats.info/news/36764",
-          "publishedOn": "2023-04-23T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Binary Research：解读Gains Network，走近去中心化杠杆交易的黑暗森林",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36766",
-          "author": null,
-          "description": "「开放世界的顶级形态，下一块成神之阶。」",
-          "link": "https://www.theblockbeats.info/news/36766",
-          "publishedOn": "2023-04-23T13:00:01.000Z",
-          "wordCount": null,
-          "title": "全链上游戏系列 2 ：「为什么你看好全链上游戏？」",
           "imageUrl": null
         }
       ]
