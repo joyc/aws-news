@@ -6,6 +6,76 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36841",
+          "author": null,
+          "description": "以下是 12 个备受期待的加密货币项目，它们已经得到了来自多家知名风险投资公司的支持。",
+          "link": "https://www.theblockbeats.info/news/36841",
+          "publishedOn": "2023-04-27T04:11:32.000Z",
+          "wordCount": null,
+          "title": "探索加密市场新机遇：12个受加密VC们青睐的新项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36839",
+          "author": null,
+          "description": "以太坊坎昆升级预计将于今年晚些时候进行，此次升级将带来哪些变化？又将利好哪些协议？",
+          "link": "https://www.theblockbeats.info/news/36839",
+          "publishedOn": "2023-04-27T03:45:38.000Z",
+          "wordCount": null,
+          "title": "上海升级后以太坊的下一站，坎昆升级利好哪些协议？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36816",
+          "author": null,
+          "description": "Gitcoin Beta Round 开启！超过214个项目，持续至5月9日，一文遍览五大捐赠类别",
+          "link": "https://www.theblockbeats.info/news/36816",
+          "publishedOn": "2023-04-27T03:42:50.000Z",
+          "wordCount": null,
+          "title": "Gitcoin Beta Round捐赠开启，收好这份操作指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36825",
+          "author": null,
+          "description": "可能是Web3的iPhone时刻",
+          "link": "https://www.theblockbeats.info/news/36825",
+          "publishedOn": "2023-04-27T03:14:13.000Z",
+          "wordCount": null,
+          "title": "为什么标准化的跨链技术开源如此重要？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36824",
+          "author": null,
+          "description": "「Elixir项目能够激励其中心化和去中心化交易对的流动性和算法做市」",
+          "link": "https://www.theblockbeats.info/news/36824",
+          "publishedOn": "2023-04-27T02:50:23.000Z",
+          "wordCount": null,
+          "title": "Elixir Protocol：将做市去中心化的DeFi协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36823",
+          "author": null,
+          "description": "在全新的AR体验中，球迷仅需数秒即可创建专属定制虚拟形象，并可以在4000多个元宇宙游戏和App中使用。",
+          "link": "https://www.theblockbeats.info/news/36823",
+          "publishedOn": "2023-04-27T02:40:54.000Z",
+          "wordCount": null,
+          "title": "欧易OKX与曼城联合开启元宇宙球星互动赛，邀请球迷「为曼城出征」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36822",
+          "author": null,
+          "description": "Blur熄火、「三傻」出局、Nakamigos 破1失败...NFT市场路在何方？",
+          "link": "https://www.theblockbeats.info/news/36822",
+          "publishedOn": "2023-04-27T02:36:55.000Z",
+          "wordCount": null,
+          "title": "「三傻」出局，KOL们如何看待当前惨淡的NFT市场？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36820",
           "author": null,
           "description": "原文标题：《如何通过物理手段获得一组秘密安全的助记词？》\n原文作者：@0x_Todd\n\n\n我最近一直想做一个关于如何获得秘密安全「助记词（mnemonics）」方面的攻略，正好赶上前几天 Do Kwon 的段子来了，我觉得有必要给大家分享一下。\n\n\n\n一共需要 5 步：\n\n\n1. 找到助记词列表\n\n\n2. 找点骰子\n\n\n3. 摇掷骰子-转换进制\n\n\n4. 找到校验位\n\n\n5. 备份\n\n\n\n\n你随身携带的硬件钱包真的安全么？事实上：无论是热钱包还是硬件钱包，你拿到的助记词都是软件通过随机自动帮你生成的。\n\n\n\n当然，我乐于给硬件钱包提供商们足够的信任，但作为一个 crypto native guy，我觉得靠「信任」是不够的。\n\n\n\n为什么这么说呢？从一台硬件钱包从生产到你手中，经历了太多的环节：开发者、硬件设计、组装商、包装商、快递 A，海关，分拣，快递 B… 等等。\n\n\n\n最差情况是：自动生成的随机算法，是破解版，或者干脆带有后门。\n\n\n\n大家都听说过「伪随机」的概念，机器生成的随机数，终究存在被人预测的可能性。比如你用了别人送你的（动过手脚的）硬件钱包，那理论上，你生成的 12 个单词，别人也能生成相同的，那你硬件防护手段也就失去了意义。\n\n\n\n \n\n所以，我们最好自己亲自生成一套助记词，而不是借助程序自动生成。\n\n\n\n硬件钱包无法访问网络，这个环节是很难植入后门的，只要你能确保你的助记词是真·随机生成的，那么硬件钱包的安全性将会补足最后一块短板，即没人可以知道你的助记词。\n\n\n\n那么如何生成真·随机的助记词呢？很简单：物理随机。\n\n\n接下来是一个教程，感兴趣的可以转推，等周末慢慢操作。\n\n\n\nStep1 找到 2048 助记词列表\n\n\n首先科普一个概念：比特币也好，以太坊也好，以及后面的所有链，用的都是同一套协议，即比特币社区当年创造的 BIP-39。这里有 2048 …",
@@ -163,26 +233,6 @@
           "publishedOn": "2023-04-25T02:28:58.000Z",
           "wordCount": null,
           "title": "OrangeFinance：可对冲Uniswap V3的流动性管理工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36777",
-          "author": null,
-          "description": "Web3近年来发展迅速，对可扩展解决方案的需求变得更加迫切。",
-          "link": "https://www.theblockbeats.info/news/36777",
-          "publishedOn": "2023-04-24T14:00:02.000Z",
-          "wordCount": null,
-          "title": "与L2一样重要的应用链，谁能成为领跑者？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36774",
-          "author": null,
-          "description": "原文标题：《StarkWare 帝国：探析 StarkEx 和 StarkNet 的创新之旅》\n原文来源：Yinan，PANews\n\n\n背景\n\n\n从 2018 年开始，StarkWare 开创性地运用 STARK 有效性证明来解决以太坊的可扩展性问题。它推出了基于 SaaS 业务模型的 StarkEx，创造了 Cairo 编程语言，并构建了 Starknet，这是第一个允许编写自定义逻辑的生产中的去中心化网络。\n\n\nStarkWare 致力于在包括技术、数学、创新与产品交付的双重关注；支持其他推动以太坊和/或 STARK 的团队；以及努力使产品开源、去中心化并专注于将 STARK 作为公共产品。\n\n\n未来，StarkWare 将致力于让 Starknet 成为一个由 Starknet Foundation 治理的无需许可的去中心化有效性 rollup，并专注于去中心化 Starknet 的各个组成部分，例如 Prover、Sequencer 和治理。\n\n\nSTARK 技术基于证明，具体来说是完整性证明。STARK 利用数学来确保完整性，即使没有人监视，也能确保计算正确进行。这种技术的概念始于 Lszl Babai、Lance Fortnow、Leonid Levin 和 Mario Szegedy 于 1991 年的一篇文章，其中介绍了使用单一可靠计算机监控一组不可靠超级计算机的概念。该技术被称为「PCP」，通过数学监控和确保大型计算的完整性。\n\n\nSTARK 技术是 PCP 技术的改进版本，可让小用户检查并确保大公司、垄断企业或政府的正确运作。区块链恢复了货币交换的点对点特性，消除了对可信中介的需求。以太坊则将此概念推向更远，允许创建构成社会经济基础的通用程序。\n\n\nStarkware:\n\n\nStarkWare 是 zk rollups 赛道内最好的公司之一，由以色列理工…",
-          "link": "https://www.theblockbeats.info/news/36774",
-          "publishedOn": "2023-04-24T13:00:02.000Z",
-          "wordCount": null,
-          "title": "StarkWare生态：StarkEx和StarkNet创新性对比，谁更胜一筹？",
           "imageUrl": null
         }
       ]
