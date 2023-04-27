@@ -184,56 +184,6 @@
           "wordCount": null,
           "title": "StarkWare生态：StarkEx和StarkNet创新性对比，谁更胜一筹？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36797",
-          "author": null,
-          "description": "原文来源：Ebunker 中文博客\n\n\nETH 正在经历第二波提款潮\n\n\n以太坊完成上海升级已经超过一周时间，统计数据表明，自升级的第一波提款潮之后，ETH 的存款数于 4 月 18 日超过了提款数，但很快又迎来了新的一波提款潮。截止 2023 年 4 月 20 日，共有 758,842 枚 ETH 等待提款，占目前仍处于锁定状态的 ETH 的 4.08%。\n\n\n\n\n\n自上海升级以来，市场参与者一直在密切监视 ETH 的提款数据，因为过去有很多关于市场上是否会有巨大抛压的辩论。但是，截止到 4 月 20 日，ETH 抛压并未在升级后一次性释放，而是显示出阶段性特征。\n\n\n\n\n\n在上周时间里，提款数量继续攀升，目前，仍有 75.8 万枚 ETH 正在排队提款。据 Nansen.AI 统计数据显示，自 4 月 18 日以来，ETH 存款数开始反超提款数，近期大部分 ETH 通过 Lido、Rocketpool 和 Frax 等流动性质押协议存入。而 19 日开始，可能由于 Binance 开启了提款服务，以及大盘行情的回落，又一波提款潮来袭。\n\n\n提款等待时间\n\n\n上海升级使以太坊的质押者能够撤回验证器中的全部余额。当一个完整的验证器撤出其 32 个 ETH 时，其验证器将停用，而部分提款则使质押者可以简单地撤回除 32 枚 ETH 之外获得的奖励。当一个验证器中所有 32 枚 ETH 被撤回时将会导致验证者的退出。因此，以太坊团队为此设定了严格的时间限制，保证多个验证器不会在短期内完全退出，避免对以太坊的网络安全构成威胁。\n\n\n\n\n\n\n\n\n\n为了提取质押的 ETH，需要验证器将其提款凭证前缀从 0x00 更改为 0x01。在上海升级推出时，只有约 40％的验证者将其凭证设置为 0x01。目前，此数字已增加到 85.8％，预计后续将逐渐接近 100％。\n\n\n\n\n\n全部提款过程如…",
-          "link": "https://www.theblockbeats.info/news/36797",
-          "publishedOn": "2023-04-24T10:43:25.000Z",
-          "wordCount": null,
-          "title": "上海升级后Staking ETH提现数据变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36763",
-          "author": null,
-          "description": "Consensus2023 将于 4 月 26 日在美国得克萨斯州奥斯汀举行，今年亮点在哪里？",
-          "link": "https://www.theblockbeats.info/news/36763",
-          "publishedOn": "2023-04-24T08:47:01.000Z",
-          "wordCount": null,
-          "title": "Consensus2023共识大会4月26日开幕，会议内容跟踪报道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36776",
-          "author": null,
-          "description": "原文标题：《 TEAMZ Web3 Summit、Astar、Animoca Brands 等共计 110 家企业决定参展》\n原文来源：\n\nTEAMZ\n\n\n\n\n\n截止目前为止 TEAMZ Web3 Summit 东京峰会已经有来自世界各地的 110 家 Web 企业参与决定。与此同时在 5 月 15 日开始的东京 Web3 周期间阿里云和 CGV FOF 将各自举办黑客马拉松。\n\n\nTEAMZ Web3 Summit 是亚洲最大的区块链盛会之一，云集区块链行业领袖、专家、投资人、开发者等。今年，TEAMZ Web3 Summit 将于 5 月 17 日至 18 日在东京 Toranomon Hills Forum 举行。\n\n\nhttps://web3.teamz.co.jp/\n\n\n\n\n本届峰会以「Web3 产业从这里出发」为理念，围绕区块链技术和 Web3 业务，以 Web3 产业最新话题为导向为 Web3 行业的蓬勃发展提供最前沿的信息和最高质量的行业资源。\n\n\n\n\n截止目前大会参展赞助商 48 家，社区合作 37 家，媒体合作合作 25 家。\n\n\n\n\n钻石赞助商（2 家）\n\n\n\n\n\n\n\n\n\n白金赞助商（3 家）\n\n\n\n\n\n\n黄金赞助商（9 家）\n\n\n\n\n\n\n白银赞助商（5 家）\n\n\n\n\n\n\n路演赞助商（5 家）\n\n\n\n\n\n\n展位赞助商（24 家）\n\n\n\n\n\n\n大会社区（37 家）\n\n\n\n\n\n\n\n\n大会媒体（25 家）\n\n\n\n\n\n\nVC 及投资机构（20 家）\n\n\n\n\n\n\n大会演讲嘉宾\n\n\n平将明（前内阁府国务相 web3PT 数码社会推进本部部长/自民党）\n\n\n\n\n\n\n\n\n\n\n渡辺 創太（Astar Network 创始人）\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuzo Kano (bitFlyer Blockchain Inc.) \nTone Vays (分析师、衍生品交…",
-          "link": "https://www.theblockbeats.info/news/36776",
-          "publishedOn": "2023-04-24T08:33:32.000Z",
-          "wordCount": null,
-          "title": "TEAMZ Web3 Summit峰会将于5月18日在东京启动，Astar、Animoca Brands等共计110个项目方参展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36775",
-          "author": null,
-          "description": "原文标题：《没有 Token 的链游经济模型能走的通吗？》\n原文来源：瓜田实验室 W Labs\n\n\nW Labs 最近接触的一些游戏团队在经济模型设计上提出了这样的要求：能不能在模型里不加入 token？一开始我们团队觉得这不就是把链游中最精彩也最刺激的部分给阉割了吗？但是实际深入的了解了一下这个需求的背景，觉得还是很有必要去提供一些解决方案的，在本文中我们就抛砖引玉，探讨下链游模型中如果不加入 token，怎么样去设计它也能玩的转。\n\n\n一，为什么项目提出链游经济模型不想加入 token？\n\n\n总结了下几个项目团队的想法，有几个原因：\n\n\n其一：某些国家或地区政策性的限制。\n\n\n比如美丽国，如果把某项目的 token 归类于权益性资产，就要受到美国证券交易委员会 SEC 的管辖，对于项目来说非常麻烦。3 月 16 日时，SEC 的主席 Gary Gensler 还向记者表示，权益证明类 Token 持有者是可以从质押中获得回报的，所以应被视为证券，需要根据美国法律进行注册，归 SEC 管。包括纽约总检察长也说过以太坊是一种未注册的证券，所以 Vitalik Buterin（V 神）在内的以太坊创始人违反了美国证券法等等。\n\n\n哪个项目的创始人会希望项目做得正高兴就被起诉违法了？除非做到 Binance 的量级，那也值了，大不了一辈子不去美丽国。所以有在北美地区拓展的项目，都说自己的 token 是效用代币，不是权益代币。But，token 怎么归类目前还没有定论的，如果不想惹麻烦，事先要预备好大量的法律和公关资源。因此一些链游团队就不想碰这个雷，在项目经济模型中直接删掉 token 这个选项，这也情有可原。\n\n\n还有就是在东方神秘国度，管理层对于整个加密行业还处于慢慢认知的阶段。没有 Token 的项目在团队看来会比较安全。这次香港的峰会，万向区块链的肖风博士演讲的主题是…",
-          "link": "https://www.theblockbeats.info/news/36775",
-          "publishedOn": "2023-04-24T08:20:56.000Z",
-          "wordCount": null,
-          "title": "没有Token的链游经济模型能走的通吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36771",
-          "author": null,
-          "description": "原文标题：《Sonne Finance：Optimism 飞轮效应中快速增长的借贷协议|veDAO研究院》\n原文来源：veDAO研究院\n\n\nSonne Finance 是第一个在 Optimism 上推出借贷协议的原生平台，旨在通过提供最深层次的流动性，以提供最高竞争力的激励措施成为主要的借贷平台。它目前是 Optimism 第 9 大生态项目，TVL 接近 4000 万美金，近两个月快速增长 60%，在借贷项目中 TVL 仅次于 AAVE。随着 Optimism 对 Sonne Finance 的技术和资金支持，Sonne Finance 的业务量或许会在未来 3 个月多倍增加，让我们一同来了解下该协议的独特优势及从万千协议中脱颖而出的秘诀吧！\n\n\n\n\n\n\n\n\n\n\n\nSonne Finance 简介\n\n\nSonne Finance 是提供完全去中心化、透明和非托管的点对点借贷协议，通过低无常损失和高收益，和提供比其他协议更可观的激励措施，吸引了大量的使用者和流动性。该平台为 WETH, USDC, USDT, DAI, OP, SNX 等提供货币市场。其目标是成为 Optimism 上提供货币市场最具竞争力的激励，并且拥有最深流动性的原生借贷项目。\n\n\n在 Sonne Finance 的 Stake 质押板块有两个类型的 Staking 池供质押者选择，质押的主要目标就是向质押者分发协议收入和 VELO 等代币奖励。协议收入的产生是根据不同池子的储备系数来收取费用的，池子的风险越大，这种方式产生的费用就越多，同样的对应的收益也更多：\n\n\n-sSONNE staking 池 ：\n\n\n  对应奖励为 SONNE 代币，VELO 代币和 OP 代币。池子奖励将用于从市场上购买 SONNE，再将其分配给 sSONNE 的质押者。\n\n\n\n\n\n\n\n\n\n\n\n-uSONNE stakin…",
-          "link": "https://www.theblockbeats.info/news/36771",
-          "publishedOn": "2023-04-24T08:00:02.000Z",
-          "wordCount": null,
-          "title": "Sonne Finance：Optimism飞轮效应中快速增长的借贷协议",
-          "imageUrl": null
         }
       ]
     },
