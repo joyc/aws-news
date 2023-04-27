@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-27 datetime="2023-04-27T09:00:01.000Z">2023-04-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-27 datetime="2023-04-27T09:00:01.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-27 datetime="2023-04-27T09:55:33.000Z">2023-04-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-27 datetime="2023-04-27T09:55:33.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,66 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36838"
+                        open
+                      >
+                        <summary class="article-expander__title">RWA叙事再走热，会成为DeFi下一波大规模创新浪潮吗？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36838">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文来源：Sammi西米
+
+
+任何一个现象级企业或者项目的诞生，都有一个前提条件，就是曾经束缚市场的限制性条件改变了，压制市场的天花板打开了。新一层的市场空间出现了。
+
+
+
+RWA 是什么？
+
+
+RWA（Real World Assets，RWA），一句话概括就是：「现实资产 Token 化」，任何可以被标记化并在链上表示的实物资产都可以称为 RWA。比如：房地产、现金（美元）、金属（金、银等）、奢侈品、债券、保险等任何现实资产。
+
+
+RWA 在 DeFi 中的实例
+
+
+稳定币
+
+
+稳定币是当今 RWA 在 DeFi 中与市场契合度最高的产品之一，目前稳定币总市值约为 1300 亿美元，其中 USDT 占比 62%，市值总额为 816 亿美元。Tether 是首批将市场价值与法定货币美元挂钩的加密货币之一，其他稳定币还包括 USDC、BUSD、DAI 等。
+
+
+合成代币
+
+
+合成资产复制了股票、大宗商品、贵金属等其他类型资产的价格进行链上交易。目前此细分赛道龙头 Synthetix 作为以太坊上的一个合成资产发行和交易平台，流通市值为 6.2 亿美元，市值排名 70。
+
+
+借贷协议
+
+
+DeFi 协议将 RWA 作为抵押品用于借贷服务已有较大发展。MakerDAO 是以太坊上的一个抵押借贷平台，同时是 RWA 在借贷细分领域的龙头，目前 MakerDAO 的 RWA 金库价值超过 7 亿美元。
+
+
+谁在推动 RWA 叙事？
+
+
+抛开利益驱动，空谈叙事，等于耍流氓。
+
+
+每个大赛道爆发前都需要资本造势。RWA 逐渐起风，侧面反映出，近两年被受追捧的 Web3、元宇宙等旧叙事市场不再买账，一级市场难获融资，加上 DeFi 行业进入深熊，资本急需寻找新的出口。
+
+
+叙事是推动金融市场的动力，一个行业想要持续发展，需要不断地增量资金和用户入场。加密行业的上下游分别为矿圈——交易所/…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -1152,225 +1212,6 @@ ETH 涨，所以 NFT 跌
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36802"
-                        open
-                      >
-                        <summary class="article-expander__title">以太坊提款功能开启后的带宽使用情况</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36802">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《Bandwidth Usage after Ethereum Withdrawals》
-原文作者：Alex Miller 
-原文编译：Kxp，BlockBeats
-
-
-4 月 12 日，Ethereum 进行了 Shapella 升级。实际上，这是两个不同升级的组合：共识层的 Capella 升级和执行层的 Shanghai 升级。这个联合升级包含了各种功能，但最受期待的还是验证者提现，打破了质押闭环。一旦升级上线，所有具有 0x01 类型凭据的验证者都可以通过以下两种方式之一提取质押：
-
-
-1. 用户可以指示他们的共识客户端完全退出验证器。这将使验证者进入一个队列，之后该验证者的全部余额将被分散到执行层的提款地址中。
-2. 不退出的验证者每 4 天左右自动 &quot;清空 &quot;其超过 32ETH2 的余额。重点是自动执行——用户不需要指示其共识客户端执行此操作，即使他们想保留验证者余额，也无法执行。
-
-
-第一种选项用于解锁质押，并为用户的质押风险设定上限——具体来说，退出的验证者仍然要进行证明/提议，直到它通过队列，队列的长度决定了对无法继续运作的验证者的预期惩罚（例如，队列中的 4 天&#x3D;4 天的离线惩罚）。
-
-
-然而，从网络的角度来看，第二个选项更为有趣，因为这些消息将由提款队列（不同于退出队列）中的每个验证者不断广播。
-
-
-Shapella 新增了两种不断广播的消息类型：共识提款和可执行 EIP4895。这意味着网络上的所有节点都有两个新的 Gossip 话题，并且我们应该预期带宽消耗的增加。但问题是，带宽究竟增加了多少？
-
-
-Capella 之前和之后的数据快照
-
-
-我自己正在运行一个质押盒子并进行系统监控，因此我去看了一下 Shapella 之后带宽消耗是否有实质性变化。我在升级前后各有大约一周的数据，结果相当明显。每种类型的数据从 4 月 3 日到 12 日进…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36803"
-                        open
-                      >
-                        <summary class="article-expander__title">低谷中的Multicoin：看好Filecoin，Layer2有局限性</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36803">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《对话 Multicoin ：Layer2 不能扩展以太坊，看好 Filecoin》
-原文来源：《Empire》
-
-
-原文编译：
-
-TechFlow 深潮
-
-
-
-在《Empire》最新一期播客节目中，邀请到了 MultiCoin 两位创始合伙人 Kyle Samani 和 Tushar Jain。
-
-在播客中，他们讨论了 MultiCoin 与 FTX 的合作，以及对 Solana 的最新看法，他们不认为 Solana 全然依靠 FTX。
-
-
-
-MultiCoin 对人工智能和加密货币的交叉点充满兴趣，并认为其中有三大方向存在机会，包括在强化学习中为人类反馈提供代币激励。
-
-
-
-此外，MultiCoin 也对 Layer2 扩展以太坊这一主流叙事保持怀疑，L2 在继承 L1 安全性方面存在局限性，以及速度和时间敏感性的重要性。最后，MultiCoin 表示看好 Filecoin。
-
-
-
-以下为播客详细内容笔记，由 TechFlow 深潮与 ChatGPT 联合整理。
-
-
-
-
-
-Multicoin 与 Sam Bankman-Fried 和 FTX 的关系
-
-
-Multicoin 没有投资 FTX 的种子轮，但后来投资了其他轮次和 FTX US，此外还投资了 Serum（SRM）。
-
-
-
-MultiCoin 真正意识到问题是在里斯本 Breakpoint 会议期间，他们对 FTX 及其首席执行官 Sam Bankman-Fried 持正面看法，认为存在期限不匹配或资本被保证金头寸占用，没有怀疑存在任何欺诈或破产问题。Kyle 批评 FTX 内部缺乏透明度和治理控制，从而导致欺诈发生，建议交易所应该更像具有实时透明度的 DeFi 协议，以防止将来发生类似事件。
-
-
-
-破产受托人正在努力清算资产并偿还债权人，然而，对于破产前提取的资金是否会进行回拨，仍存在不确定性。到目…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36801"
-                        open
-                      >
-                        <summary class="article-expander__title">OrangeFinance：可对冲Uniswap V3的流动性管理工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36801">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文作者：hangry
-原文编译：Kxp，BlockBeats
-
-
-最近随着 Uniswap V3 许可证的到期，焦点已经转向新的 CLAMM 以及简化 LP 体验的项目。今天，让我们谈谈 OrangeFinance，以及它为何它最适合当下的情景。
-
-
-集中流动性
-
-
-我们都知道，Uniswap V3 引入了「集中流动性」的概念，即能够定义你想要提供流动性的特定范围，这极大地提高了 LP 的资本效率。
-
-
-这种新 CLOB/AMM 组合模型的问题在于，实现了资本效率但却增加了复杂性。我们都看到过这个统计数据，即大多数 LP 随着时间的推移会亏钱，原因是管理 V3 头寸的难度大、成本高。
-
-
-
-
-
-Orange Finance
-
-
-Orange Finance 是一种对冲 Uniswap V3 流动性管理工具，作为真实收益金库。 你只需存入自己的 USDC，Orange 将通过管理 Uniswap V3 的流动性来自动赚取收益。
-
-
-
-
-
-Alpha Orange Vault
-
-
-Alpha Orange Vault 是 Orange 的第一个产品，管理 Arbitrum 上 ETH/USDC 交易对的流动性。在经过彻底的回测和调整之后，该库在 ETH 价格下跌期间成功实现了 25% 的年化收益率。
-
-
-运行方式：
-
-
-Orange 优于其他流动性管理协议，主要因为两个关键组成部分：
-
-
-1. Orange 创建了一个独特的对冲控制系统，该系统允许协议根据价格变动对冲一定数量。
-
-
-2. Orange 使用一个离线策略模块，根据市场条件自动重新平衡和重新排列头寸。这些模块允许 Orange 在任何市场条件下始终获得可持续和风险调整的收益。
-
-
-
-
-
-其他特点：
-
-
-· 金库奖励自动复利 
-
-
-· Orange LP 代币可用于提供集中流动性的流动性挖矿，以激励持有者在某些价格范围内提供集中流动性从而获得更多奖励
-
-
-· 只需要 USDC 存款
-
-
-具体效果：
-
-
-我之前提到过，但在最新的回测期间，该金库在 ETH 价格下跌期间成功实现了 25% 的年化收益率，而且仅交易费就产生了约 95% 的年化收益率。
-
-
-竞争对手： 
-
-
-Orange 最近针对这个话题撰写了一篇很棒的文章，我强烈建议你阅读一下。文章大概是说：通过使用其对冲控制系统，Orange 可以通过设置狭窄范围来胜过其他协议。
-
-
-未来展望
-
-
-下一步措施： 
-
-
-· 第一个金库将于 4/28 启动
-· 推出多链金库
-· 支持更长尾资产
-· 支持非 Uniswap 头寸（Curve、Balancer、其他集中流动性协议等）
-
-
-Token发行：
-
-
-我们已经确认有一个代币，但可能要等一段时间。不过跟踪该项目并参与其中不会有任何损失。
-
-
-Alpha Orange团队： 
-
-
-在谈到参与项目时，Orange 正在运行一个封闭小组，供用户使用第一个金库并获取项目早期信息。
-
-
-总结
-
-
-随着时间的推移，集中流动性似乎只会越来越受欢迎，尤其是在最近的 Uniswap V3 到期后。这使得流动性管理协议变得越来越重要，我认为 Orange 定将成为赢家。
-
-
-原文链接</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1378,8 +1219,8 @@ Alpha Orange团队： 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4819591443">
-        <time id="build-timestamp" datetime="2023-04-27T12:12:18.397Z">2023-04-27T12:12:18.397Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4823009276">
+        <time id="build-timestamp" datetime="2023-04-27T18:08:38.686Z">2023-04-27T18:08:38.686Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
