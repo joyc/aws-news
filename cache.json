@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36855",
+          "author": null,
+          "description": "原文标题：《LSD MEV 赛道初窥：MEV 市场化和公平化将会为 LSD 带来什么？》\n原文来源：深潮 TechFlow\n\n\nMEV（Maximal Extractable Value 最大可提取价值）是加密世界最重要的议题之一。它是指验证者通过添加、删除并更改区块中的交易顺序，在超过标准区块奖励和 Gas 费用的区块生产中所能提取的最大价值。\n\n\n当 MEV 邂逅火热的 LSD 浪潮，两者会有怎样的结合？\n\n\nMEV 概念回顾\n\n\nMEV 并非一个新产物，它涉及区块链用户、验证者和搜索者三个利益相关群体。\n\n\n本质上，MEV 促成了所有区块链使用者展开了对于区块空间使用权的争夺。因此，在链上回暖的当下，MEV 成为了许多搜索者的「提款机」。比如，在 Memecoin 风潮下，截止 4 月 19 日，七天内 MEV 所产生的利润已经超过三百万美元。\n\n\n\n\n\n这里的一个反直觉现象是，MEV 的价值并非由区块链的验证者捕获，而是由搜索者捕获，搜索者在中文加密圈子里往往会被称为「科学家」。\n\n\nMEV 可以简单理解为以抢先交易等形式进行的链上套利，常见的就是三明治攻击，俗称夹子机器人。\n\n\n比如，当你在 Uniswap 买入 1 万美元的代币 X，机器人嗅到了这笔交易，于是赶在区块打包之前，用更高的手续费也买入 X，机器人的交易被抢先执行。\n\n\n由于 Uniswap 自动做市机制，代币 X 单价会被抬高，你的交易执行后，代币 X 价格会继续升高。这时候，机器人再生成一笔交易，将前一笔交易中较低价格买入的 X 卖出，刚好赚下差价。\n\n\n机器人生成的两笔交易刚好包夹了我们的交易，看起来就像一个三明治。\n\n\nMEV 协议和实践\n\n\n为了规范 MEV 所带来的无节制索取，加密行业也涌现出一批 MEV 相关协议，比如 Flashbots、CowSawp、Manifold Finance…",
+          "link": "https://www.theblockbeats.info/news/36855",
+          "publishedOn": "2023-04-28T14:00:04.000Z",
+          "wordCount": null,
+          "title": "LSD MEV赛道初窥：MEV市场化和公平化将会为LSD带来什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36858",
           "author": null,
           "description": "一个建立在Polygon上极富野心的项目",
@@ -293,16 +303,6 @@
           "publishedOn": "2023-04-26T07:47:50.000Z",
           "wordCount": null,
           "title": "第18周链上数据：市场不安情绪依然在弥漫，但抛压已得到一定缓解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36807",
-          "author": null,
-          "description": "在未来，团队希望构建更多像这样充分利用链上环境能力的产品。",
-          "link": "https://www.theblockbeats.info/news/36807",
-          "publishedOn": "2023-04-26T03:26:47.000Z",
-          "wordCount": null,
-          "title": "BASE：一个新的由Coinbase孵化并建立在开源OP Stack之上的以太坊L2",
           "imageUrl": null
         }
       ]
