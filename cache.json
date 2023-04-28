@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36858",
+          "author": null,
+          "description": "一个建立在Polygon上极富野心的项目",
+          "link": "https://www.theblockbeats.info/news/36858",
+          "publishedOn": "2023-04-28T09:12:19.000Z",
+          "wordCount": null,
+          "title": "MantisSwap：Polygon zkEVM上的新AMM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36854",
+          "author": null,
+          "description": "Equilibria 是 Pendle 的 Convex，将进一步释放 Pendle 的潜力，帮助其实现飞轮增长",
+          "link": "https://www.theblockbeats.info/news/36854",
+          "publishedOn": "2023-04-28T07:30:01.000Z",
+          "wordCount": null,
+          "title": "Equilibria：释放Pendle潜力，探索利率互换赛道新引擎",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36853",
           "author": null,
           "description": "原文作者：0x711、Leo，BlockBeats\n\n\n\n\n时隔约 3 个月，Gitcoin 捐赠再次袭来，本次为 Gitcoin Beta Round 捐赠，关于捐赠指南参考「Gitcoin Beta Round 捐赠开启，收好这份操作指南」，本次 Gitcoin Rounds 共分为 5 个版块：Web 3 开源软件、ZK 技术、Web 3 社区与教育、气候解决方案、以太坊基础设施。\n\n\n\n\n话不多说，以下是 BlockBeats 为你挑选的可以去捐赠的优质项目：\n\n\n\n\nWeb 3 开源软件（共 99 个项目）\n\n\n\n\n目前为止共有 441 个项目参与本次 Gitcoin 捐赠，捐赠时间为 4 月 25 日 20 点至 5 月 10 日 7 点 59 分（北京时间），BlockBeats 为大家挑选出一些具潜力的可捐赠项目：\n\n\n\n\nlenster.lens\n\n\n\n\nLenster 是目前 Lens 生态最主要的应用，大部分用户与 Lens 协议的交互行为均在该应用内完成。Lenster 的用户界面与 Twitter 相似，是一款去中心化且无许可的社交媒体应用，用户可以在 Lenster 上连接其他用户的图谱 NFT，或者加入各类社区进行评论、共创、治理等互动。普通用户可以随意浏览 Lenster 上的内容动态，但想要与其进行交互则需要持有图谱 NFT。具体可参考「Lens Protocol 上线了，这几款应用你交互了吗？」\n捐赠地址\n\n\n\n\nDefiLlama\n\n\nDefiLlama 是大家比较常用的加密数据分析工具，可以通过该工具了解 DeFi 数据和指标：LTV, Delta 中性策略，New Listed Projects 等，不进行过多介绍，可以参考「工具网站 DefiLlama 全攻略：从零学习链上数据使用与发现」。\n\n\n捐赠地址\n\n\nUmbra\n\n\nUm…",
