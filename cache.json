@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36852",
+          "author": null,
+          "description": "质押、稳定币、Rollup 等领域存在明显的中心化问题，相关的解决方案也在不断被尝试。",
+          "link": "https://www.theblockbeats.info/news/36852",
+          "publishedOn": "2023-04-29T07:00:01.000Z",
+          "wordCount": null,
+          "title": "Bankless：探索以太坊生态的中心化问题与应对方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36864",
           "author": null,
           "description": "原文标题：《Tricrypto: The Next Generation》\n原文作者：crv.mktcap.eth \n原文编译：Kxp，BlockBeats\n\n\n在旷日持久的 crvUSD 部署中，我们注意到了一个规模宏大且更具影响力的事件：Tricrypto 下一代的部署。\n\n\n自推出以来，上一代 Tricrypto 一直是 Curve Finance 的支柱，正如 Dan Smith 的这张 Blockworks 仪表板所展示的那样：\n\n\n\n\n\nTricrypto 现状\n\n\n我们可以看到，Curve 的绝大部分日交易量来自于 3pool 和 Tricrypto。DeFi 有许多优秀的资产，但所有的交易量仍来自于头部资产。BTC、ETH、USDT 和 USDC 是 CoinGecko 追踪的前五大 Crypto 中的四种，占据了 Crypto 市值的 71%。只要你涵盖了这些资产，你就涵盖了大部分的 Crypto。\n\n\nTricrypto 处理这些资产中的三种（用 WBTC 代替 BTC），而 3pool 则抓住了最大的两个稳定币。因此，这两个池足以应对大部分的 Curve 交易量，剩下的长尾资产捕捉到的交易量可能只有 20%。\n\n\nTricrypto 和 3pool 在 Curve 生态系统中的角色也是非常不同的。USDT-USDC 之间的交易利润非常微薄，但在交易量游戏中仍然可以获得良好的手续费，特别是在大幅波动的时期。而在波动性资产（WBTC、ETH、USDT）之间的交易可以产生更多的利润。\n\n\n自推出以来，Tricrypto 为 Curve 提供了许多头部 Crypto 资产的交易。Curve（图中深蓝色部分）一直占据着它稳定的一块交易份额，但从未取代 Uniswap（图中粉色的部分）。\n\n\n\n\n\n这张图表可能会让 Curve 支持者感到沮丧。在滑点方面，Curv…",
