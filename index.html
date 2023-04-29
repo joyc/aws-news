@@ -22,6 +22,51 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-29 datetime="2023-04-28T16:55:27.000Z">2023-04-29</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-29 datetime="2023-04-28T16:55:27.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - undefined</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36862"
+                        open
+                      >
+                        <summary class="article-expander__title">到黑山去，玩转Web3可组合性|Web3 Composability Odyssey@EDCON 2023①</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36862">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>5月下旬，以太坊OG们将云集黑山</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-28 datetime="2023-04-28T14:00:04.000Z">2023-04-28</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-28 datetime="2023-04-28T14:00:04.000Z"></time>
           </button>
@@ -1368,246 +1413,6 @@ NFT 还没结束，NFT 刚刚开始！
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36818"
-                        open
-                      >
-                        <summary class="article-expander__title">对话Offchain Labs工程师，Arbitrum在ModuLar Oriented中如何解决Rollup面临的问题？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36818">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Rollup as a Service</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36817"
-                        open
-                      >
-                        <summary class="article-expander__title">获利约180万美元，zkSync生态DEX Merlin安全事件分析</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36817">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《获利约 180 万美元，zkSync 生态 DEX Merlin 安全事件分析》
-原文来源：Foresightnews
-
-
-2023 年 4 月 26 日，据 Beosin-Eagle Eye 态势感知平台消息，Merlin Dex 发生安全事件，USDC-WETH 流动性池的资金已全部被提取，攻击者获利共约 180 万美金。据了解，Merlin Dex 是一个去中心化交易所，关于本次安全事件，Beosin 安全团队第一时间对事件进行了分析，结果如下。
-
-
-
-
-
-
-
-
-
-
-
-事件相关信息
-
-
-
-
-我们以其中一笔交易为例进行分析
-
-
-
-
-攻击交易
-
-
-0xf21bedfb0e40bc4e98fd89d6b2bdaf82f0c452039452ca71f2cac9d8fea29ab2
-
-
-
-
-攻击者地址
-
-
-0xc0D6987d10430292A3ca994dd7A31E461eb28182
-
-
-0x2744d62a1e9ab975f4d77fe52e16206464ea79b7
-
-
-
-
-被攻击合约
-
-
-0x82cf66e9a45Df1CD3837cF623F7E73C1Ae6DFf1e（USDC-WETH 池子）
-
-
-
-
-攻击流程
-
-
-
-
-1. 第一步，池子创建者 (0xc0D6987d10430292A3ca994dd7A31E461eb28182) 创建了工厂合约
-
-
-（0x63E6fdAdb86Ea26f917496bEEEAEa4efb319229F），在初始化时 Feeto 地址已经被设为
-
-
-(0xc0D6987d10430292A3ca994dd7A31E461eb28182)。
-
-
-
-
-
-
-
-
-
-2. 攻击者通过工厂合约部署 USDC-WETH 池子（0x82cf66e9a45Df1CD3837cF623F7E73C1Ae6DFf1e），池子初始化时便将池子中的 USDC 和 WETH 最大化授权给了合约工厂的 Feeto 地址，可以看到这存在明显的中心化风险。
-
-
-
-
-
-
-
-
-
-3. 于是在有了最大授权的情况下，攻击者转走了该池子中的所有代币。
-
-
-
-
-
-
-
-
-
-4. 值得注意的是，在攻击发生之前，工厂合约的 Owner 和 Feeto 地址曾有过改动，但这一步并不是攻击所必须的，猜测可能是攻击者为了迷惑他人所做的操作。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-最后可以看到 USDC-WETH 流动性池的资金已全部被提取，攻击者获利共约 180 万美金。
-
-
-
-
-漏洞分析
-
-
-
-
-Beosin 安全团队分析本次攻击主要利用了 pair 合约的中心化问题，在初始化时最大化授权了工厂合约中的 Feeto 地址，而导致池子中的资金随时可能被初始化时设定的 Feeto 地址提取走。
-
-
-
-
-资金追踪
-
-
-
-
-攻击者调用了 transferFrom 函数从池子转出了 811K 的 USDC 给攻击者地址 1（0x2744d62a1e9ab975f4d77fe52e16206464ea79b7）。攻击者地址 2（0xcE4ee0E01bb729C1c5d6D2327BB0F036fA2cE7E2）从 token1 合约（WETH）提取了 435.2 的 eth，通过 Anyswap 跨链后转到以太坊地址（0xa7D481944730a88B862eB57248Cb1B2C8aa358Ad）和地址
-
-
-（0x0b8a3ef6307049aa0ff215720ab1fc885007393d）上，共获利约 180 万美元。
-
-
-
-
-截止发文时，Beosin KYT 反洗钱分析平台发现目前被盗资金仍存放在上述攻击者的两个以太坊主网地址上，Beosin 安全团队将持续对被盗资金进行监追踪。
-
-
- 
-
-
-
- 
-
-
-总结
-
-
-
-
-针对本次事件，Beosin 安全团队建议，项目方应该使用多签钱包或 DAO 治理来管理具有重要权限的地址，用户在进行项目交互时也要多多了解此项目是否涉及风险。
-
-
-原文链接</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/32141"
-                        open
-                      >
-                        <summary class="article-expander__title">为什么通过安全审计的项目还是会被攻击？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/32141">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>区块链安全从业者揭秘链上安全事故频发原因。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36814"
-                        open
-                      >
-                        <summary class="article-expander__title">MEV2023展望：穿越黑暗森林</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36814">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2022 年以太坊MEV收入超3亿美元，某机器人仅花费2057美元即从两个Uniswap池套利约320万美元。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36812"
-                        open
-                      >
-                        <summary class="article-expander__title">第18周链上数据：市场不安情绪依然在弥漫，但抛压已得到一定缓解</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36812">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>场内交易量仍然较高，可能是处于换手阶段</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1615,8 +1420,8 @@ Beosin 安全团队分析本次攻击主要利用了 pair 合约的中心化问�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4833495154">
-        <time id="build-timestamp" datetime="2023-04-28T18:08:17.145Z">2023-04-28T18:08:17.145Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4835908156">
+        <time id="build-timestamp" datetime="2023-04-29T00:34:59.470Z">2023-04-29T00:34:59.470Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36862",
+          "author": null,
+          "description": "5月下旬，以太坊OG们将云集黑山",
+          "link": "https://www.theblockbeats.info/news/36862",
+          "publishedOn": "2023-04-28T16:55:27.000Z",
+          "wordCount": null,
+          "title": "到黑山去，玩转Web3可组合性|Web3 Composability Odyssey@EDCON 2023①",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36855",
           "author": null,
           "description": "原文标题：《LSD MEV 赛道初窥：MEV 市场化和公平化将会为 LSD 带来什么？》\n原文来源：深潮 TechFlow\n\n\nMEV（Maximal Extractable Value 最大可提取价值）是加密世界最重要的议题之一。它是指验证者通过添加、删除并更改区块中的交易顺序，在超过标准区块奖励和 Gas 费用的区块生产中所能提取的最大价值。\n\n\n当 MEV 邂逅火热的 LSD 浪潮，两者会有怎样的结合？\n\n\nMEV 概念回顾\n\n\nMEV 并非一个新产物，它涉及区块链用户、验证者和搜索者三个利益相关群体。\n\n\n本质上，MEV 促成了所有区块链使用者展开了对于区块空间使用权的争夺。因此，在链上回暖的当下，MEV 成为了许多搜索者的「提款机」。比如，在 Memecoin 风潮下，截止 4 月 19 日，七天内 MEV 所产生的利润已经超过三百万美元。\n\n\n\n\n\n这里的一个反直觉现象是，MEV 的价值并非由区块链的验证者捕获，而是由搜索者捕获，搜索者在中文加密圈子里往往会被称为「科学家」。\n\n\nMEV 可以简单理解为以抢先交易等形式进行的链上套利，常见的就是三明治攻击，俗称夹子机器人。\n\n\n比如，当你在 Uniswap 买入 1 万美元的代币 X，机器人嗅到了这笔交易，于是赶在区块打包之前，用更高的手续费也买入 X，机器人的交易被抢先执行。\n\n\n由于 Uniswap 自动做市机制，代币 X 单价会被抬高，你的交易执行后，代币 X 价格会继续升高。这时候，机器人再生成一笔交易，将前一笔交易中较低价格买入的 X 卖出，刚好赚下差价。\n\n\n机器人生成的两笔交易刚好包夹了我们的交易，看起来就像一个三明治。\n\n\nMEV 协议和实践\n\n\n为了规范 MEV 所带来的无节制索取，加密行业也涌现出一批 MEV 相关协议，比如 Flashbots、CowSawp、Manifold Finance…",
@@ -253,56 +263,6 @@
           "publishedOn": "2023-04-26T12:37:10.000Z",
           "wordCount": null,
           "title": "NFT未死，只是「重生」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36818",
-          "author": null,
-          "description": "Rollup as a Service",
-          "link": "https://www.theblockbeats.info/news/36818",
-          "publishedOn": "2023-04-26T10:12:45.000Z",
-          "wordCount": null,
-          "title": "对话Offchain Labs工程师，Arbitrum在ModuLar Oriented中如何解决Rollup面临的问题？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36817",
-          "author": null,
-          "description": "原文标题：《获利约 180 万美元，zkSync 生态 DEX Merlin 安全事件分析》\n原文来源：Foresightnews\n\n\n2023 年 4 月 26 日，据 Beosin-Eagle Eye 态势感知平台消息，Merlin Dex 发生安全事件，USDC-WETH 流动性池的资金已全部被提取，攻击者获利共约 180 万美金。据了解，Merlin Dex 是一个去中心化交易所，关于本次安全事件，Beosin 安全团队第一时间对事件进行了分析，结果如下。\n\n\n\n\n\n\n\n\n\n\n\n事件相关信息\n\n\n\n\n我们以其中一笔交易为例进行分析\n\n\n\n\n攻击交易\n\n\n0xf21bedfb0e40bc4e98fd89d6b2bdaf82f0c452039452ca71f2cac9d8fea29ab2\n\n\n\n\n攻击者地址\n\n\n0xc0D6987d10430292A3ca994dd7A31E461eb28182\n\n\n0x2744d62a1e9ab975f4d77fe52e16206464ea79b7\n\n\n\n\n被攻击合约\n\n\n0x82cf66e9a45Df1CD3837cF623F7E73C1Ae6DFf1e（USDC-WETH 池子）\n\n\n\n\n攻击流程\n\n\n\n\n1. 第一步，池子创建者 (0xc0D6987d10430292A3ca994dd7A31E461eb28182) 创建了工厂合约\n\n\n（0x63E6fdAdb86Ea26f917496bEEEAEa4efb319229F），在初始化时 Feeto 地址已经被设为\n\n\n(0xc0D6987d10430292A3ca994dd7A31E461eb28182)。\n\n\n\n\n\n\n\n\n\n2. 攻击者通过工厂合约部署 USDC-WETH 池子（0x82cf66e9a45Df1CD3837cF623F7E73C1Ae6DFf1e），池子初始化时便将池子中的 USDC 和 WETH 最大化授权给了合约工厂的 Feeto 地址，可以看到这存在明显的中心化风险。\n\n\n\n\n\n\n\n\n\n3. 于是在有了最大授权的情况下，攻击者转走了该池子中的所有代币。\n\n\n\n\n\n\n\n\n\n4. 值得注意的是，在攻击发生之前，工厂合约的 Owner 和 Feeto 地址曾有过改动，但这一步并不是攻击所必须的，猜测可能是攻击者为了迷惑他人所做的操作。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n最后可以看到 USDC-WETH 流动性池的资金已全部被提取，攻击者获利共约 180 万美金。\n\n\n\n\n漏洞分析\n\n\n\n\nBeosin 安全团队分析本次攻击主要利用了 pair 合约的中心化问题，在初始化时最大化授权了工厂合约中的 Feeto 地址，而导致池子中的资金随时可能被初始化时设定的 Feeto 地址提取走。\n\n\n\n\n资金追踪\n\n\n\n\n攻击者调用了 transferFrom 函数从池子转出了 811K 的 USDC 给攻击者地址 1（0x2744d62a1e9ab975f4d77fe52e16206464ea79b7）。攻击者地址 2（0xcE4ee0E01bb729C1c5d6D2327BB0F036fA2cE7E2）从 token1 合约（WETH）提取了 435.2 的 eth，通过 Anyswap 跨链后转到以太坊地址（0xa7D481944730a88B862eB57248Cb1B2C8aa358Ad）和地址\n\n\n（0x0b8a3ef6307049aa0ff215720ab1fc885007393d）上，共获利约 180 万美元。\n\n\n\n\n截止发文时，Beosin KYT 反洗钱分析平台发现目前被盗资金仍存放在上述攻击者的两个以太坊主网地址上，Beosin 安全团队将持续对被盗资金进行监追踪。\n\n\n \n\n\n\n \n\n\n总结\n\n\n\n\n针对本次事件，Beosin 安全团队建议，项目方应该使用多签钱包或 DAO 治理来管理具有重要权限的地址，用户在进行项目交互时也要多多了解此项目是否涉及风险。\n\n\n原文链接",
-          "link": "https://www.theblockbeats.info/news/36817",
-          "publishedOn": "2023-04-26T09:20:50.000Z",
-          "wordCount": null,
-          "title": "获利约180万美元，zkSync生态DEX Merlin安全事件分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/32141",
-          "author": null,
-          "description": "区块链安全从业者揭秘链上安全事故频发原因。",
-          "link": "https://www.theblockbeats.info/news/32141",
-          "publishedOn": "2023-04-26T08:18:49.000Z",
-          "wordCount": null,
-          "title": "为什么通过安全审计的项目还是会被攻击？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36814",
-          "author": null,
-          "description": "2022 年以太坊MEV收入超3亿美元，某机器人仅花费2057美元即从两个Uniswap池套利约320万美元。",
-          "link": "https://www.theblockbeats.info/news/36814",
-          "publishedOn": "2023-04-26T08:10:59.000Z",
-          "wordCount": null,
-          "title": "MEV2023展望：穿越黑暗森林",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36812",
-          "author": null,
-          "description": "场内交易量仍然较高，可能是处于换手阶段",
-          "link": "https://www.theblockbeats.info/news/36812",
-          "publishedOn": "2023-04-26T07:47:50.000Z",
-          "wordCount": null,
-          "title": "第18周链上数据：市场不安情绪依然在弥漫，但抛压已得到一定缓解",
           "imageUrl": null
         }
       ]
