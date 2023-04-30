@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36867",
+          "author": null,
+          "description": "重温本周热点：Brc20、RWA叙事、CoinList新项目CyberConnect Token模型、Gitcoin Beta Round捐赠。",
+          "link": "https://www.theblockbeats.info/news/36867",
+          "publishedOn": "2023-04-30T08:00:01.000Z",
+          "wordCount": null,
+          "title": "周末荐读：Brc20保姆级铸造教程；RWA会成为DeFi新一波大规模创新浪潮吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36866",
+          "author": null,
+          "description": "最狡猾的钓鱼攻击，Web3中的严重威胁。",
+          "link": "https://www.theblockbeats.info/news/36866",
+          "publishedOn": "2023-04-30T07:00:01.000Z",
+          "wordCount": null,
+          "title": "如何预防同形异义攻击？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36865",
           "author": null,
           "description": "原文作者：Ankit Chiplunkar\n原文编译：Kxp，BlockBeats\n\n\nOptimistic 中继是未来的发展趋势，因为它们不仅可以增加出块者的收益，并且更便宜、更易维护。\n\n\n中继是 MEV-Boost 架构中重要组成部分，它们在区块构建者和出块者之间充当可信拍卖行。为了实现这种信任，机制会增加中继的延迟和成本，降低出块者的费用，并提高协议对中继的依赖程度。\n\n\n\n\n\n本文讨论了三种逐步改进中继设计的方法，并证明这些方法可以带来以下效果：\n\n\n· 更易创收的的区块空间\n· 减少数据托管激励\n· 减少中继成本\n· 减少对中继的依赖\n\n\n\n\n\n中继增加了两种延迟：\n\n\n· 区块传输延迟：即在下载区块内容时引入的延迟，约为 10-100 毫秒，取决于位置。\n· 区块模拟延迟：即在模拟区块内容时引入的延迟，约为 140 毫秒。\n\n\n\n\n\n由于模拟成本高昂且没有明确的收入来源，中继还能够审查交易。自 2023 年 4 月 3 日三明治攻击以来，中继在传播区块方面也变得更加重要。\n\n\nOptimistic 中继 v1 跳过了模拟，即提高了 150 毫秒并降低了成本。\n\n\n区块拍卖在 1% 的情况下，出价提高了约 1000 个 gwei/mus，这意味着Optimistic 中继 v1 可以为出块者节省 0.015 ETH。\n\n\n\n\n\n超声波中继和 bloxRoute 已经提供了跳过模拟的选项。超声波中继在切换到 Optimistic v1 中继后，观察到了 17% 的区块传输改进。\n\n\n\n\n\nOptimistic v2 将再次将延迟降低 10-100 毫秒，并减少数据托管的激励；而 Optimistic v2.5 将减少对中继作为区块传播者的依赖。\n\n\nOptimistic 中继性能上改进将使其成为未来趋势。\n\n\nFrontier Research 已经部署了一个 Optimistic 中继来证明这种改进，并支持生态系统的多样性。\n\n\n原文链接",
@@ -153,16 +173,6 @@
           "publishedOn": "2023-04-28T01:00:01.000Z",
           "wordCount": null,
           "title": "Binance Research：比特币开启「新时代」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36849",
-          "author": null,
-          "description": "4 月 28 日，Web3 社交协议 CyberConnect 宣布推出原生 Token CYBER，并于 5 月 18 日于 CoinList 启动公开发行。\n\nCYBER 总量 100,000,000 枚，CoinList 公开发行量占 3%，其中 25% 上线后解锁，剩下 75% 在 6 个月内线性按月解锁。此轮发行注册截止日期为北京时间 5 月 15 日 20 时。公开发行单价 1.8 美元，而 A 轮融资的机构价格单价为 3 美元。\n\n\n\n\nCyberConnect 是一个 Web 3 社交网络协议，是一个适用于开发人员和用户体验拥有身份、内容、连接和 token 化渠道的平台，它包含三个以用户为中心的功能：CyberProfile，一种提供对 Web 3 访问的去中心化身份标准；CyberConnect Social Graph，链接用户数字身份、数据、内容和好友；CyberWallet，这是其协议的智能合约钱包，可以安全地存储用户资产。\n\n\n\n\n关于 CYBER 和 CyberDAO\n\n\n\n\nCyberDAO 用于协议的治理委托，而 CYBER 是其治理 token，CYBER 用于保护和管理 DAO，DAO 将控制未来资金的使用以及协议基础设施的所有核心升级。\n\n\n\n\nCYBER 将为 CyberConnect 协议提供以下效用：\n\n\n\n\n治理\n\n\n\n\nCYBER token 持有者将对推动 CyberConnect 协议取得可持续地长期发展和改进提案进行投票。即将推出的提案包括：通过协议激活付费交易的服务费；服务费收取率的变化；对用于支付的可接受 token 的更改；将议扩展到新区块链；开发者资助计划和社区贡献者计划的预算分配，以及用于生态系统开发的线下和线上社区活动。\n\n\n\n\n用于支付 CyberProfile mint\n\n\n\n\nCyberProfile…",
-          "link": "https://www.theblockbeats.info/news/36849",
-          "publishedOn": "2023-04-27T22:42:41.000Z",
-          "wordCount": null,
-          "title": "一览CoinList新项目CyberConnect代币模型",
           "imageUrl": null
         }
       ]

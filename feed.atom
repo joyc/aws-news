@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-30T06:08:51.968Z</updated>
+    <updated>2023-04-30T12:11:11.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：Brc20保姆级铸造教程；RWA会成为DeFi新一波大规模创新浪潮吗？]]></title>
+        <id>https://www.theblockbeats.info/news/36867</id>
+        <link href="https://www.theblockbeats.info/news/36867"/>
+        <updated>2023-04-30T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[重温本周热点：Brc20、RWA叙事、CoinList新项目CyberConnect Token模型、Gitcoin Beta Round捐赠。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何预防同形异义攻击？]]></title>
+        <id>https://www.theblockbeats.info/news/36866</id>
+        <link href="https://www.theblockbeats.info/news/36866"/>
+        <updated>2023-04-30T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[最狡猾的钓鱼攻击，Web3中的严重威胁。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimistic中继——不可避免的未来]]></title>
         <id>https://www.theblockbeats.info/news/36865</id>
@@ -635,58 +655,6 @@ A New Era for BTC
 
 
 尽管比特币的主导地…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一览CoinList新项目CyberConnect代币模型]]></title>
-        <id>https://www.theblockbeats.info/news/36849</id>
-        <link href="https://www.theblockbeats.info/news/36849"/>
-        <updated>2023-04-27T22:42:41.000Z</updated>
-        <summary type="html"><![CDATA[4 月 28 日，Web3 社交协议 CyberConnect 宣布推出原生 Token CYBER，并于 5 月 18 日于 CoinList 启动公开发行。
-
-CYBER 总量 100,000,000 枚，CoinList 公开发行量占 3%，其中 25% 上线后解锁，剩下 75% 在 6 个月内线性按月解锁。此轮发行注册截止日期为北京时间 5 月 15 日 20 时。公开发行单价 1.8 美元，而 A 轮融资的机构价格单价为 3 美元。
-
-
-
-
-CyberConnect 是一个 Web 3 社交网络协议，是一个适用于开发人员和用户体验拥有身份、内容、连接和 token 化渠道的平台，它包含三个以用户为中心的功能：CyberProfile，一种提供对 Web 3 访问的去中心化身份标准；CyberConnect Social Graph，链接用户数字身份、数据、内容和好友；CyberWallet，这是其协议的智能合约钱包，可以安全地存储用户资产。
-
-
-
-
-关于 CYBER 和 CyberDAO
-
-
-
-
-CyberDAO 用于协议的治理委托，而 CYBER 是其治理 token，CYBER 用于保护和管理 DAO，DAO 将控制未来资金的使用以及协议基础设施的所有核心升级。
-
-
-
-
-CYBER 将为 CyberConnect 协议提供以下效用：
-
-
-
-
-治理
-
-
-
-
-CYBER token 持有者将对推动 CyberConnect 协议取得可持续地长期发展和改进提案进行投票。即将推出的提案包括：通过协议激活付费交易的服务费；服务费收取率的变化；对用于支付的可接受 token 的更改；将议扩展到新区块链；开发者资助计划和社区贡献者计划的预算分配，以及用于生态系统开发的线下和线上社区活动。
-
-
-
-
-用于支付 CyberProfile mint
-
-
-
-
-CyberProfile…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
