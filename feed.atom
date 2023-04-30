@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-04-30T00:38:34.517Z</updated>
+    <updated>2023-04-30T06:08:51.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimistic中继——不可避免的未来]]></title>
+        <id>https://www.theblockbeats.info/news/36865</id>
+        <link href="https://www.theblockbeats.info/news/36865"/>
+        <updated>2023-04-30T03:15:47.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Ankit Chiplunkar
+原文编译：Kxp，BlockBeats
+
+
+Optimistic 中继是未来的发展趋势，因为它们不仅可以增加出块者的收益，并且更便宜、更易维护。
+
+
+中继是 MEV-Boost 架构中重要组成部分，它们在区块构建者和出块者之间充当可信拍卖行。为了实现这种信任，机制会增加中继的延迟和成本，降低出块者的费用，并提高协议对中继的依赖程度。
+
+
+
+
+
+本文讨论了三种逐步改进中继设计的方法，并证明这些方法可以带来以下效果：
+
+
+· 更易创收的的区块空间
+· 减少数据托管激励
+· 减少中继成本
+· 减少对中继的依赖
+
+
+
+
+
+中继增加了两种延迟：
+
+
+· 区块传输延迟：即在下载区块内容时引入的延迟，约为 10-100 毫秒，取决于位置。
+· 区块模拟延迟：即在模拟区块内容时引入的延迟，约为 140 毫秒。
+
+
+
+
+
+由于模拟成本高昂且没有明确的收入来源，中继还能够审查交易。自 2023 年 4 月 3 日三明治攻击以来，中继在传播区块方面也变得更加重要。
+
+
+Optimistic 中继 v1 跳过了模拟，即提高了 150 毫秒并降低了成本。
+
+
+区块拍卖在 1% 的情况下，出价提高了约 1000 个 gwei/mus，这意味着Optimistic 中继 v1 可以为出块者节省 0.015 ETH。
+
+
+
+
+
+超声波中继和 bloxRoute 已经提供了跳过模拟的选项。超声波中继在切换到 Optimistic v1 中继后，观察到了 17% 的区块传输改进。
+
+
+
+
+
+Optimistic v2 将再次将延迟降低 10-100 毫秒，并减少数据托管的激励；而 Optimistic v2.5 将减少对中继作为区块传播者的依赖。
+
+
+Optimistic 中继性能上改进将使其成为未来趋势。
+
+
+Frontier Research 已经部署了一个 Optimistic 中继来证明这种改进，并支持生态系统的多样性。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bankless：探索以太坊生态的中心化问题与应对方案]]></title>
         <id>https://www.theblockbeats.info/news/36852</id>
