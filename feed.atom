@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-01T12:12:31.060Z</updated>
+    <updated>2023-05-01T18:08:14.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -154,104 +154,6 @@ Frontier Research 已经部署了一个 Optimistic 中继来证明这种改进�
         <link href="https://www.theblockbeats.info/news/36852"/>
         <updated>2023-04-29T07:00:01.000Z</updated>
         <summary type="html"><![CDATA[质押、稳定币、Rollup 等领域存在明显的中心化问题，相关的解决方案也在不断被尝试。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新Tricrypto如何让Curve有望取代Uniswap？]]></title>
-        <id>https://www.theblockbeats.info/news/36864</id>
-        <link href="https://www.theblockbeats.info/news/36864"/>
-        <updated>2023-04-29T04:13:04.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Tricrypto: The Next Generation》
-原文作者：crv.mktcap.eth 
-原文编译：Kxp，BlockBeats
-
-
-在旷日持久的 crvUSD 部署中，我们注意到了一个规模宏大且更具影响力的事件：Tricrypto 下一代的部署。
-
-
-自推出以来，上一代 Tricrypto 一直是 Curve Finance 的支柱，正如 Dan Smith 的这张 Blockworks 仪表板所展示的那样：
-
-
-
-
-
-Tricrypto 现状
-
-
-我们可以看到，Curve 的绝大部分日交易量来自于 3pool 和 Tricrypto。DeFi 有许多优秀的资产，但所有的交易量仍来自于头部资产。BTC、ETH、USDT 和 USDC 是 CoinGecko 追踪的前五大 Crypto 中的四种，占据了 Crypto 市值的 71%。只要你涵盖了这些资产，你就涵盖了大部分的 Crypto。
-
-
-Tricrypto 处理这些资产中的三种（用 WBTC 代替 BTC），而 3pool 则抓住了最大的两个稳定币。因此，这两个池足以应对大部分的 Curve 交易量，剩下的长尾资产捕捉到的交易量可能只有 20%。
-
-
-Tricrypto 和 3pool 在 Curve 生态系统中的角色也是非常不同的。USDT-USDC 之间的交易利润非常微薄，但在交易量游戏中仍然可以获得良好的手续费，特别是在大幅波动的时期。而在波动性资产（WBTC、ETH、USDT）之间的交易可以产生更多的利润。
-
-
-自推出以来，Tricrypto 为 Curve 提供了许多头部 Crypto 资产的交易。Curve（图中深蓝色部分）一直占据着它稳定的一块交易份额，但从未取代 Uniswap（图中粉色的部分）。
-
-
-
-
-
-这张图表可能会让 Curve 支持者感到沮丧。在滑点方面，Curv…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创始人自述：我们为什么要推出Bankless Ventures]]></title>
-        <id>https://www.theblockbeats.info/news/36863</id>
-        <link href="https://www.theblockbeats.info/news/36863"/>
-        <updated>2023-04-29T02:53:02.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Why We're Launching Bankless Ventures》
-原文作者：David Hoffman
-原文编译：深潮 TechFlow
-
-
-3 月初，Bankless 播客主理人 David Hoffman 和 Ryan Sean Adams 计划为其风投基金 Bankless Ventures 募集 3500 万美元，以用于投资种子轮阶段的 Web3 公司。
-
-
-4 月 28 日，David Hoffman 发布推特文章，披露了最新的想法和策略，该基金目前约有 75% 的承诺投资，LP 包括 a16z 创始合伙人 Marc Andreessen、a16z Crypto 创始人 Chris Dixon、以太坊基金会研究员 Dankrad Feist、Polygon 联合创始人 Sandeep Nailwal 和 NGC 等，其目标是在 5 月底前结束融资。
-
-
-David 详述了他建立 Bankless Ventures 的初心和目标，以下为全文：
-
-
-自成立以来，Ryan 和我一直在建设 Bankless，抱着一个崇高、单一的雄心：让 10 亿人使用加密货币。
-
-
-在一个蓬勃发展的社区的帮助下，Bankless 已经从一个潦倒的激情项目成长为一家以论文为导向的媒体公司，提供播客和文章，向行业宣传「为什么加密对人类有益」的核心理念。
-
-
-当然，加密货币是一个关于金钱和金融的行业，这让 Ryan 和我有机会在我们探索这个空间的过程中同时对未来的愿景下注。现在，我们希望通过启动一个名为 Bankless Ventures 的早期风险基金来提升这些雄心壮志。
-
-
-筹集基金
-
-
-在上个月 Coindesk 发布文章「Bankless Podcast 的主持人正在筹集 3500 万美元的加密货币风险基金」之后，Ryan 和我简短地谈到了这项工作，从那时起，我…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numoen Nest：可对冲LP损失的去中心化衍生产品]]></title>
-        <id>https://www.theblockbeats.info/news/36861</id>
-        <link href="https://www.theblockbeats.info/news/36861"/>
-        <updated>2023-04-29T02:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Power Token的收益来源于Uniswap交易手续费]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensus2023共识大会：总结六个亮点和趋势]]></title>
-        <id>https://www.theblockbeats.info/news/36859</id>
-        <link href="https://www.theblockbeats.info/news/36859"/>
-        <updated>2023-04-29T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[作为加密市场的重要风向标之一，本届Consensus共识大会中有哪些精彩观点与碰撞？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
