@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-01T00:37:24.851Z</updated>
+    <updated>2023-05-01T06:09:47.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[链游的AI革命（二）：OpenAI是如何封神的？]]></title>
+        <id>https://www.theblockbeats.info/news/36870</id>
+        <link href="https://www.theblockbeats.info/news/36870"/>
+        <updated>2023-05-01T04:50:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI从来都不想统治世界，只希望确保技术能够安全发展，并最终造福全人类。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链项目如何从部署自己的DEX中获利？]]></title>
+        <id>https://www.theblockbeats.info/news/36868</id>
+        <link href="https://www.theblockbeats.info/news/36868"/>
+        <updated>2023-05-01T02:58:48.000Z</updated>
+        <summary type="html"><![CDATA[由于加密行业依赖中心化交易平台，区块链项目正在探索 DEX 集成的益处，以重新获得对原生 Token 的掌控。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何玩转BRC-20？]]></title>
+        <id>https://www.theblockbeats.info/news/36869</id>
+        <link href="https://www.theblockbeats.info/news/36869"/>
+        <updated>2023-05-01T02:55:09.000Z</updated>
+        <summary type="html"><![CDATA[比特币生态BRC-20生态现状、优劣势、mint教程以及相关工具汇总。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末荐读：Brc20保姆级铸造教程；RWA会成为DeFi新一波大规模创新浪潮吗？]]></title>
         <id>https://www.theblockbeats.info/news/36867</id>
@@ -202,66 +232,6 @@ David 详述了他建立 Bankless Ventures 的初心和目标，以下为全文�
         <link href="https://www.theblockbeats.info/news/36859"/>
         <updated>2023-04-29T02:00:01.000Z</updated>
         <summary type="html"><![CDATA[作为加密市场的重要风向标之一，本届Consensus共识大会中有哪些精彩观点与碰撞？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到黑山去，玩转Web3可组合性|Web3 Composability Odyssey@EDCON 2023①]]></title>
-        <id>https://www.theblockbeats.info/news/36862</id>
-        <link href="https://www.theblockbeats.info/news/36862"/>
-        <updated>2023-04-28T16:55:27.000Z</updated>
-        <summary type="html"><![CDATA[5月下旬，以太坊OG们将云集黑山]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSD MEV赛道初窥：MEV市场化和公平化将会为LSD带来什么？]]></title>
-        <id>https://www.theblockbeats.info/news/36855</id>
-        <link href="https://www.theblockbeats.info/news/36855"/>
-        <updated>2023-04-28T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《LSD MEV 赛道初窥：MEV 市场化和公平化将会为 LSD 带来什么？》
-原文来源：深潮 TechFlow
-
-
-MEV（Maximal Extractable Value 最大可提取价值）是加密世界最重要的议题之一。它是指验证者通过添加、删除并更改区块中的交易顺序，在超过标准区块奖励和 Gas 费用的区块生产中所能提取的最大价值。
-
-
-当 MEV 邂逅火热的 LSD 浪潮，两者会有怎样的结合？
-
-
-MEV 概念回顾
-
-
-MEV 并非一个新产物，它涉及区块链用户、验证者和搜索者三个利益相关群体。
-
-
-本质上，MEV 促成了所有区块链使用者展开了对于区块空间使用权的争夺。因此，在链上回暖的当下，MEV 成为了许多搜索者的「提款机」。比如，在 Memecoin 风潮下，截止 4 月 19 日，七天内 MEV 所产生的利润已经超过三百万美元。
-
-
-
-
-
-这里的一个反直觉现象是，MEV 的价值并非由区块链的验证者捕获，而是由搜索者捕获，搜索者在中文加密圈子里往往会被称为「科学家」。
-
-
-MEV 可以简单理解为以抢先交易等形式进行的链上套利，常见的就是三明治攻击，俗称夹子机器人。
-
-
-比如，当你在 Uniswap 买入 1 万美元的代币 X，机器人嗅到了这笔交易，于是赶在区块打包之前，用更高的手续费也买入 X，机器人的交易被抢先执行。
-
-
-由于 Uniswap 自动做市机制，代币 X 单价会被抬高，你的交易执行后，代币 X 价格会继续升高。这时候，机器人再生成一笔交易，将前一笔交易中较低价格买入的 X 卖出，刚好赚下差价。
-
-
-机器人生成的两笔交易刚好包夹了我们的交易，看起来就像一个三明治。
-
-
-MEV 协议和实践
-
-
-为了规范 MEV 所带来的无节制索取，加密行业也涌现出一批 MEV 相关协议，比如 Flashbots、CowSawp、Manifold Finance…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
