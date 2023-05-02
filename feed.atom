@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-01T18:08:14.145Z</updated>
+    <updated>2023-05-02T00:35:58.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -144,16 +144,6 @@ Frontier Research 已经部署了一个 Optimistic 中继来证明这种改进�
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：探索以太坊生态的中心化问题与应对方案]]></title>
-        <id>https://www.theblockbeats.info/news/36852</id>
-        <link href="https://www.theblockbeats.info/news/36852"/>
-        <updated>2023-04-29T07:00:01.000Z</updated>
-        <summary type="html"><![CDATA[质押、稳定币、Rollup 等领域存在明显的中心化问题，相关的解决方案也在不断被尝试。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
