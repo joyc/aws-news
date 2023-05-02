@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36878",
+          "author": null,
+          "description": "论如何识别无意义的DAO",
+          "link": "https://www.theblockbeats.info/news/36878",
+          "publishedOn": "2023-05-02T08:16:10.000Z",
+          "wordCount": null,
+          "title": "DeepDAO Research：谁在Snapshot刷投票",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36876",
+          "author": null,
+          "description": "目前市场活跃度一般，整体情绪延续观望谨慎",
+          "link": "https://www.theblockbeats.info/news/36876",
+          "publishedOn": "2023-05-02T06:16:51.000Z",
+          "wordCount": null,
+          "title": "第19周链上数据：短期流动性减弱，持币意愿增加",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36875",
           "author": null,
           "description": "WispSwap、Suia、Shoshin Square，一个繁荣的生态已初具雏形",
