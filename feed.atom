@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-03T00:35:07.677Z</updated>
+    <updated>2023-05-03T06:09:21.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明星公链的陨落，Helium做错了什么？]]></title>
+        <id>https://www.theblockbeats.info/news/36879</id>
+        <link href="https://www.theblockbeats.info/news/36879"/>
+        <updated>2023-05-03T02:30:01.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Jaleel、Leo，BlockBeats
+
+
+
+
+
+
+4 月 20 日，Helium 宣布已正式完成向 Solana 网络的迁移，然而社区反应却是一片唏嘘。
+
+
+
+
+Helium 的历史可追溯至 2013 年，仅比比特币诞生晚几年，而在成立最初的几年，Helium 可以说是一个物联网项目，与区块链并无关系，直到 2017 年，Helium 意识到区块链的价值，而后凭借区块链的激励模式趁势而起，现在看来，Helium 这一决策是很正确的。
+
+
+
+
+经过了 2019-2021 年的稳步发展，Helium 在 2021 年迎来了巅峰。2021 年通过 Token 销售完成 1.11 亿美元融资；2022 年初，以 12 亿美元估值完成 2 亿美元 D 轮融资。其融资金额在各个公链中非常夸张，相比公链 Aptos 也不遑多让（Aptos 在 2022 年公开披露的融资金额为 3.5 亿美元），作为新兴公链，Helium 的潜力和前景都非常不错，这也是 Helium 开局走高的初始状态。
+
+
+
+
+Helium 的潜力和前景来自于其挖矿模式，其独创的 PoC（Proof of coverage）是一类优化版的 PoW 挖矿机制，也可算做地理位置 PoW 挖矿机制，通过无线网络技术完成，特点是能耗较低，不需大量电力，挖矿入场门槛极低，因而受到用户欢迎。据首席运营官 Frank Mong 介绍，社区部署了近 45 万个热点，网络覆盖超过 34 万个城市及 161 个国家和地区。每天约新增 3000 个热点，每月新增逾 5000 个新城市。在 12 个月内，网络记录的热点数量增长了超过 3000%。
+
+
+
+
+
+
+
+
+
+而 Helium 引得一众明星机构们的广泛青睐的原因或许就在于它优秀的概念和新兴的叙事——去中心化互联网和地理位置预言机：一个用于「物联网」设备的去中心化无线网络。…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepDAO Research：谁在Snapshot刷投票]]></title>
         <id>https://www.theblockbeats.info/news/36878</id>
