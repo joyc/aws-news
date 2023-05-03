@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-03 datetime="2023-05-03T02:30:01.000Z">2023-05-03</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-03 datetime="2023-05-03T02:30:01.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-03 datetime="2023-05-03T05:47:58.000Z">2023-05-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-03 datetime="2023-05-03T05:47:58.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,114 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36881"
+                        open
+                      >
+                        <summary class="article-expander__title">跨链桥终极形态探究：如何解决流动性、确定性和安全性的三难问题</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36881">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《The End State of Bridges - Unified Stablecoin Bridges》
+原文作者：CHIA JENG YANG
+原文编译：Kxp，BlockBeats
+
+
+我们在跨链基础架构方面仍处于早期阶段。对我来说，跨链桥只有两种最终状态，即零知识证明跨链桥和我所谓的「统一稳定币跨链桥」（USB）。
+
+
+ZK 跨链桥是依赖零知识证明创建信任最小化跨链交换的跨链桥，例如 Succinct。
+
+
+USB 的工作原理是聚合发送链和接收链上的 DEX。当发起跨链交易时，跨链桥将资产交换为中介规范稳定币，通过中介的中心化/去中心化稳定币发行商进行稳定币价值转移，并通过接收链上的 DEX 最终交换为你想要的任何资产。
+
+
+以 ETH 到 SOL 的交易为例：
+
+
+
+
+
+为什么这两种方案是最好的呢？
+
+
+黑客攻击仍然是跨链桥的主要问题。Vitalik 指出，跨链桥的「基本安全限制」是原因之一——实质上，跨链桥的交易量越高、越关键，攻击该跨链桥的诱惑力就越大（因为收益显著增加）。
+
+
+跨链桥存在三个需要解决的核心问题，而解决它们的方法基本上只有一种：
+
+
+· 流动性
+· 跨链确定性
+· 跨链安全性
+
+
+对于 USB 来说，你不需要为每个交换对创建流动性对，而是依赖于最大的流动性池之一 (稳定币) 作为结算层。这在概念上类似于 Thorchain 的结算系统，只不过一个是依赖于稳定币而不是 RUNE 作为结算层。在这里，流动性不是问题，因为需要稳定币流动性的「跨链桥」是其自己的稳定币发行商。
+
+
+跨链确定性：跨链交换存在的问题是，所有交换都不是即时完成的，而是受到接收链的确定性约束。一般情况下，如果桥或流动性提供者愿意放宽安全限制以换取更快的交易，这个问题就得到了解决，尽管这会增加/引入这些方的风险。然而，为了创建一个信任最小化和更有效的环境，如果稳定币…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36880"
+                        open
+                      >
+                        <summary class="article-expander__title">从即将通过的EIP提案窥见NFT的未来</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36880">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《从即将通过的 EIP 提案窥见 NFT 的未来》
+原文作者：
+
+zf857.eth
+
+
+原文来源：R3PO
+
+
+EIP 的全称是以太坊改进提案 (Ethereum Improvement Proposals)，以太坊社区中的任何人都可以创造一个 EIP。以太坊改进提案编写准则在 EIP-1 中提供。以太坊改进提案的创作者负责在社区内建立共识并记录不同意见。从历史上看，大多数以太坊改进提案的创作者通常是应用程序或协议开发者，因为提交高水平的以太坊改进提案需要很强的技术能力，EIP 经过初审后会按照时序给予一个编号，并经由下图所示的审核流程进行讨论。
+
+
+
+
+
+
+
+
+
+EIP 有很多种类型，其中包括有 Core、Networking 、Interface 、ERC、Meta、Informational，每一类解决的问题都不一样，我们耳熟能详的 ERC-20、ERC-721、ERC-1155，属于应用级的标准协议，目前绝大多数 NFT 产业应用都是围绕着这几种主流协议展开的。EIP 就像是一部以太坊的编年史，记录了其诞生至今所有的发展脉络，同时也有着预见整个以太坊生态前进方向的能力，见微知著，一个 EIP 的改动可能蕴含着颠覆整个行业的巨大机会。本文在此将会把目光聚焦在与 NFT 相关的并且处于 Last call 和最近 Final 阶段的 EIP 提案。
+
+
+
+
+EIP-4955 元数据标准扩展
+
+
+该 EIP 建议规范 NFT 元数据 (metadata) 的模式，为 EIP-721 和 EIP-1155 标准 NFT 的 JSON 模式中添加一个新字段命名空间 (namespaces)。主要代码如下图所示：
+
+
+
+
+
+
+
+
+
+EIP-4955 采用了直接扩展 EIP-721 元数据的方式，背后的想法是为了向后兼容。使得那些不能修改元数据响应（schema）的现…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -320,8 +428,8 @@ Helium 的潜力和前景来自于其挖矿模式，其独创的 PoC（Proof of 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4868849123">
-        <time id="build-timestamp" datetime="2023-05-03T06:09:21.081Z">2023-05-03T06:09:21.081Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4871716025">
+        <time id="build-timestamp" datetime="2023-05-03T12:12:47.550Z">2023-05-03T12:12:47.550Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
