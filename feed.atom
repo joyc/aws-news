@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-04T12:12:19.417Z</updated>
+    <updated>2023-05-04T18:08:39.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深入探讨Polygon zkEVM Sequencer和Bridge的技术细节]]></title>
+        <id>https://www.theblockbeats.info/news/36892</id>
+        <link href="https://www.theblockbeats.info/news/36892"/>
+        <updated>2023-05-04T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[本文深入polygon zkEVM关于Sequencer和Bridge更多的技术细节，同时也探讨未来潜在的去中心化Sequencer架构的不同特点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sui Network主网初体验，是不是真的如此顺滑？]]></title>
         <id>https://www.theblockbeats.info/news/36891</id>
@@ -284,36 +294,6 @@ Helium 的潜力和前景来自于其挖矿模式，其独创的 PoC（Proof of 
         <link href="https://www.theblockbeats.info/news/36876"/>
         <updated>2023-05-02T06:16:51.000Z</updated>
         <summary type="html"><![CDATA[目前市场活跃度一般，整体情绪延续观望谨慎]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点第一批上线Sui主网的项目]]></title>
-        <id>https://www.theblockbeats.info/news/36875</id>
-        <link href="https://www.theblockbeats.info/news/36875"/>
-        <updated>2023-05-02T02:44:38.000Z</updated>
-        <summary type="html"><![CDATA[WispSwap、Suia、Shoshin Square，一个繁荣的生态已初具雏形]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话Cypher Capital：群雄逐鹿，什么样的L1才能赢得「Web3 操作系统」之争？]]></title>
-        <id>https://www.theblockbeats.info/news/36873</id>
-        <link href="https://www.theblockbeats.info/news/36873"/>
-        <updated>2023-05-02T02:30:02.000Z</updated>
-        <summary type="html"><![CDATA[「拳无强弱，人有高低」，方法论没有绝对的好与不好，最后还是得一把钥匙开一把锁，对的人遇到合适的方法论，才是最重要的。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT投资损失节税解决方案：号称只涨不跌的Jaypeggers]]></title>
-        <id>https://www.theblockbeats.info/news/36874</id>
-        <link href="https://www.theblockbeats.info/news/36874"/>
-        <updated>2023-05-02T01:52:13.000Z</updated>
-        <summary type="html"><![CDATA[真的有只涨不跌的币吗？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

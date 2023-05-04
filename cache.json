@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36892",
+          "author": null,
+          "description": "本文深入polygon zkEVM关于Sequencer和Bridge更多的技术细节，同时也探讨未来潜在的去中心化Sequencer架构的不同特点。",
+          "link": "https://www.theblockbeats.info/news/36892",
+          "publishedOn": "2023-05-04T13:00:01.000Z",
+          "wordCount": null,
+          "title": "深入探讨Polygon zkEVM Sequencer和Bridge的技术细节",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36891",
           "author": null,
           "description": "目前主网成功上线，主网体验是否如之前宣传的一样高效、费用低廉、体验顺滑？",
@@ -143,36 +153,6 @@
           "publishedOn": "2023-05-02T06:16:51.000Z",
           "wordCount": null,
           "title": "第19周链上数据：短期流动性减弱，持币意愿增加",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36875",
-          "author": null,
-          "description": "WispSwap、Suia、Shoshin Square，一个繁荣的生态已初具雏形",
-          "link": "https://www.theblockbeats.info/news/36875",
-          "publishedOn": "2023-05-02T02:44:38.000Z",
-          "wordCount": null,
-          "title": "盘点第一批上线Sui主网的项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36873",
-          "author": null,
-          "description": "「拳无强弱，人有高低」，方法论没有绝对的好与不好，最后还是得一把钥匙开一把锁，对的人遇到合适的方法论，才是最重要的。",
-          "link": "https://www.theblockbeats.info/news/36873",
-          "publishedOn": "2023-05-02T02:30:02.000Z",
-          "wordCount": null,
-          "title": "对话Cypher Capital：群雄逐鹿，什么样的L1才能赢得「Web3 操作系统」之争？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36874",
-          "author": null,
-          "description": "真的有只涨不跌的币吗？",
-          "link": "https://www.theblockbeats.info/news/36874",
-          "publishedOn": "2023-05-02T01:52:13.000Z",
-          "wordCount": null,
-          "title": "NFT投资损失节税解决方案：号称只涨不跌的Jaypeggers",
           "imageUrl": null
         }
       ]
