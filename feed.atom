@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-04T06:09:08.924Z</updated>
+    <updated>2023-05-04T12:12:19.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sui Network主网初体验，是不是真的如此顺滑？]]></title>
+        <id>https://www.theblockbeats.info/news/36891</id>
+        <link href="https://www.theblockbeats.info/news/36891"/>
+        <updated>2023-05-04T09:49:48.000Z</updated>
+        <summary type="html"><![CDATA[目前主网成功上线，主网体验是否如之前宣传的一样高效、费用低廉、体验顺滑？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABCDE Capital投研合伙人：解读互操作性发展趋势]]></title>
+        <id>https://www.theblockbeats.info/news/36890</id>
+        <link href="https://www.theblockbeats.info/news/36890"/>
+        <updated>2023-05-04T08:09:33.000Z</updated>
+        <summary type="html"><![CDATA[本文对互操性的探索趋势进行了概述解读，包括新的互操作性技术、基于乐观假设的桥及流动性共享层的一些协议等。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读ORC-20：Ordinals生态中Token发行新规则]]></title>
+        <id>https://www.theblockbeats.info/news/36889</id>
+        <link href="https://www.theblockbeats.info/news/36889"/>
+        <updated>2023-05-04T06:44:42.000Z</updated>
+        <summary type="html"><![CDATA[ORC-20取消了一些BRC-20的限制，并且定义了更多的操作]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访Celer董沫博士：Brevis如何为智能合约「开天眼」]]></title>
+        <id>https://www.theblockbeats.info/news/36888</id>
+        <link href="https://www.theblockbeats.info/news/36888"/>
+        <updated>2023-05-04T05:05:39.000Z</updated>
+        <summary type="html"><![CDATA[让智能合约能拥有自己的「Nansen」，让现有应用能够真正成为链上数据驱动的Co-Processor应用，这是Brevis最不一样的地方。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blend白皮书解读：如何通过抵押借贷为NFT释放流动性？]]></title>
         <id>https://www.theblockbeats.info/news/36887</id>
