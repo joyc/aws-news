@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-05T18:07:52.790Z</updated>
+    <updated>2023-05-06T00:32:29.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -604,16 +604,6 @@ Blend 已经由 Blur 核心贡献者开发实现。在他们的实现中，一�
         <link href="https://www.theblockbeats.info/news/36883"/>
         <updated>2023-05-04T01:03:49.000Z</updated>
         <summary type="html"><![CDATA[Blur 近日联合 Paradigm 推出 Blend 这一 P2P NFT 借贷协议，以及基于此实现的贷款买 NFT 的功能。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui主网现已上线，向所有用户和开发者开放]]></title>
-        <id>https://www.theblockbeats.info/news/36882</id>
-        <link href="https://www.theblockbeats.info/news/36882"/>
-        <updated>2023-05-03T12:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Sui能够为游戏、金融、商业、社交媒体等领域的一系列世界级应用提供支持，新项目将在未来几周和几个月内稳步启动。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
