@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36917",
+          "author": null,
+          "description": "原文标题：《\n\nLaunchpad 一体化解决方案 SuiPad 深度解析\n\n》\n原文来源：veDAO\n\n\nSuiPad 是建立在 Sui 公链上的首个 IDO、ISO 和 INO Launchpad 项目，据官方给出的消息，5 月 7、8 日两天 SuiPad 将在 DaoMaker 上进行 OG (Private) 轮和 WL (Public) 轮 IDO，下面 veDAO 将给大家深度解析该项目的特色和创新玩法。\n\n\n一、SuiPad 简介\n\n\nSuipad 是 Sui 生态一个以社区为中心的新项目启动平台，其是 Sui 上的 Tier 1 项目，SuiPad 通过与 Mysten Labs 的官方合作伙伴关系， 将成为 Sui 上项目启动的一体化解决方案。当前其旗舰产品是 Suipad launchpad，这是一个 IDO launchpad。通过独特的策划流程和行业准入为用户提供 Sui 区块链中最好的新项目。\n\n\n二、SuiPad 的特色\n\n\n当前用户参与 IDO 主要面临两个问题：1）中小散户投资者缺乏专业参与初创新项目的知识和能力。大量 IDO 参与者对于如何从不同角度和指标正确分析项目的知识非常有限。对于项目，项目方专业知识更多，但如果没有专业 VC 投资人士，中心散户也很难问出更专业、更客观的问题。2）用户参与 IDO 获得的代币在 TGE 后, 发现二级市场价格低于 IDO 打新价格。这让许多 IDO 参与者在 TGE 后立即遭受损失，尤其是在加密市场的熊市中。针对上述问题 SuiPad 给出的解决方案为以下几个：\n\n\n2.1、Sui Tank\n\n\n\n\n\n\nSuitank 是一个真人秀系列节目，就是 Web3 初创项目方通过真人秀的形式将他们的项目推销给 VC 投资小组。这就是所谓的 Web3 鲨鱼坦克 (Web3 Shark Tank)。\n\n\n该节目…",
+          "link": "https://www.theblockbeats.info/news/36917",
+          "publishedOn": "2023-05-06T12:06:01.000Z",
+          "wordCount": null,
+          "title": "深度解析SuiPad：Launchpad一体化解决方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36918",
           "author": null,
           "description": "原文来源：Ankr\n\n\n猖獗的数据滥用是 Web3 诞生和发展的一个重要因素，对于 Web3 生态系统来说，理应摒弃任何以用户数据和价值相关的商业模式。但现实中，仍旧存在部分 Web3 服务提供商在业务利益和用户需求之间摇摆的情况。\n\n\nAnkr 是如何做到在定价、产品和隐私方面以用户第一的方式提供服务，实现在遵守 Web3 最佳实践为前提下带来卓越的产品和成果？本文将分享 Ankr 如何保护用户数据，并保持在提供区块链连接的关键角色中拒绝执行 MEV。\n \n\n\nAnkr 解决方案概述\n\n\n· 隐私政策概述对用户数据的简约、非侵入性方法\n· 仅收集付费用户的相关个人身份信息，不将钱包交易与 IP 地址相关联\n· 坚决拒绝通过 Ankr RPC 端点提交的用户交易执行 MEV\n· 明确立场，恶意的 MEV 很可能会破坏 Web3 生态系统，不应由受信任的提供商执行\n\n\n坚持用户隐私至上的立场\n\n\n作为 Web3 服务提供商，理应坚持用户隐私至上的立场，这一点上 Ankr 以维护用户隐私和安全的最高标准而自豪。\n\n\n· 数据隐私：Ankr 采用强大的安全措施和协议来保护用户数据的机密性。\n\n\n· 服务数据安全： Ankr 实施了强大的安全措施，旨在保护用户的个人信息免遭未经授权的访问、使用、更改和披露。用户提供的所有信息都以安全格式存储在防火墙后的安全服务器上，并采取措施限制有权访问这些信息的人数。\n\n\n· 数据保留和生命周期： Ankr 最大限度地减少用户数据的保留时间，唯一目的是优化服务和平台的性能。Ankr RPC 系统会在 30 天内自动删除所有临时活动数据。\n \n\n\n出于服务交付目的，Ankr 需要临时记录 IP 地址以设置使用限制，监控针对 Ankr 基础设施的拒绝服务攻击。除却必须查看的关于通过 RPC 进行的交易成功率的高级数据，Ankr 并未将通过基础设施进行…",
@@ -263,56 +273,6 @@
           "publishedOn": "2023-05-04T06:44:42.000Z",
           "wordCount": null,
           "title": "解读ORC-20：Ordinals生态中Token发行新规则",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36888",
-          "author": null,
-          "description": "让智能合约能拥有自己的「Nansen」，让现有应用能够真正成为链上数据驱动的Co-Processor应用，这是Brevis最不一样的地方。",
-          "link": "https://www.theblockbeats.info/news/36888",
-          "publishedOn": "2023-05-04T05:05:39.000Z",
-          "wordCount": null,
-          "title": "专访Celer董沫博士：Brevis如何为智能合约「开天眼」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36887",
-          "author": null,
-          "description": "原文标题：《\n\n速览 Blend 白皮书：如何通过借贷为 NFT 释放流动性？\n\n》\n原文作者：JamesX \n\n\n一、概述\n\n\n本文介绍了 Blend：一个点对点的永续借贷协议，支持任意抵押品包括 NFT。其不依赖预言机，也没有贷款结算日期，允许借款头寸无限期保持开放，直到清算为止，利率由市场决定。\n\n\n2/ Blend 使用一个复杂的链下报价协议，将想用他们的 NFT 抵押品借款的用户与愿意提供最具竞争力的利率的任何贷款人相匹配。\n\n\n默认情况下，Blend 贷款有固定的利率，而且永远不会过期。借款人可以在任何时候偿还，而贷款人可以通过触发荷兰式拍卖，以新的利率寻找新的贷款人来退出他们的借贷仓位。\n\n3/ 如果拍卖失败，借款人将被清算，贷款人将占有抵押品。\n\nBlend 已经由 Blur 核心贡献者开发实现。在他们的实现中，一些协议参数，如协议费用，是由 BLUR 代币的 DAO 治理机制控制的，下文中有更详细的讲述。\n\n二、动机\n\n\n5/ Blend 最类似于点对点模式，但有一些重要的区别，以改善借款人的体验。我们没有详尽地研究所有 NFT 支持的借贷协议的细节，而是分析一些普遍应用的设计机制以及 Blend 的与其不同之处。\n\n6/ A.无需预言机\n\n其中一些协议需要一个报价预言机，以确定何时应清算头寸或确定利率。但单个 NFT 价格很难客观地测量。即使是地板价往往也很难在链上测量。解决方案往往要么涉及一个可信第三方，要么可能被交易策略所操纵。\n\n7/ Blend 避免了核心协议中的对任何预言机的依赖。利率和贷款价值比率由贷款人愿意提供的任意条款决定。清算是由荷兰式拍卖的失败后引发的。\n\n8/ B.无到期日\n\n一些协议只支持有具体到期日的债务头寸。这对借款人来说很不方便，他们需要记住在到期前关闭或滚动他们的头寸（或者冒着被没收 NFT 等严厉处罚的风险）。手动滚仓的…",
-          "link": "https://www.theblockbeats.info/news/36887",
-          "publishedOn": "2023-05-04T03:49:25.000Z",
-          "wordCount": null,
-          "title": "Blend白皮书解读：如何通过抵押借贷为NFT释放流动性？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36885",
-          "author": null,
-          "description": "我们将介绍一些原则和最佳实践，以指导web3初创公司驾驭这种新的人才格局。",
-          "link": "https://www.theblockbeats.info/news/36885",
-          "publishedOn": "2023-05-04T03:09:10.000Z",
-          "wordCount": null,
-          "title": "a16z：如何在加密动荡期招聘Web3员工—指南和最佳实践法则",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36884",
-          "author": null,
-          "description": "鲍威尔称：「通胀不会这么快下降，需要一些时间，如果我们的预测大体上是正确的，那么降息就不合适了，我们也不会降息。」",
-          "link": "https://www.theblockbeats.info/news/36884",
-          "publishedOn": "2023-05-04T02:56:57.000Z",
-          "wordCount": null,
-          "title": "美联储加息 25 个基点暗示暂停，鲍威尔称「现在降息为时过早」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36883",
-          "author": null,
-          "description": "Blur 近日联合 Paradigm 推出 Blend 这一 P2P NFT 借贷协议，以及基于此实现的贷款买 NFT 的功能。",
-          "link": "https://www.theblockbeats.info/news/36883",
-          "publishedOn": "2023-05-04T01:03:49.000Z",
-          "wordCount": null,
-          "title": "Blur新借贷协议Blend有何特点及优势？",
           "imageUrl": null
         }
       ]
