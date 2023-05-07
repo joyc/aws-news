@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36922",
+          "author": null,
+          "description": "Omni在设计中融合了多项新颖技术，从而在安全性、高效性和功能性三个方面实现了独特优势。",
+          "link": "https://www.theblockbeats.info/news/36922",
+          "publishedOn": "2023-05-07T06:45:19.000Z",
+          "wordCount": null,
+          "title": "Omni Network：下一代模块化区块链是什么样子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36921",
+          "author": null,
+          "description": "这场比特币上的游戏，或许是「散户的胜利」与「最后的机会」。",
+          "link": "https://www.theblockbeats.info/news/36921",
+          "publishedOn": "2023-05-07T04:31:17.000Z",
+          "wordCount": null,
+          "title": "BRC热潮，是散户「最后的狂欢」吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36919",
           "author": null,
           "description": "本文对 Axelar、Celer IM、LayerZero、Multichain anyCall 和 Wormhole 5 个消息跨链项目进行安全性相关内容的梳理。",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-07T06:08:35.240Z</updated>
+    <updated>2023-05-07T12:11:28.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Omni Network：下一代模块化区块链是什么样子]]></title>
+        <id>https://www.theblockbeats.info/news/36922</id>
+        <link href="https://www.theblockbeats.info/news/36922"/>
+        <updated>2023-05-07T06:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Omni在设计中融合了多项新颖技术，从而在安全性、高效性和功能性三个方面实现了独特优势。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRC热潮，是散户「最后的狂欢」吗？]]></title>
+        <id>https://www.theblockbeats.info/news/36921</id>
+        <link href="https://www.theblockbeats.info/news/36921"/>
+        <updated>2023-05-07T04:31:17.000Z</updated>
+        <summary type="html"><![CDATA[这场比特币上的游戏，或许是「散户的胜利」与「最后的机会」。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探索5个消息跨链项目的安全机制]]></title>
         <id>https://www.theblockbeats.info/news/36919</id>
