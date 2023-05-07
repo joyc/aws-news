@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-06T18:08:04.248Z</updated>
+    <updated>2023-05-07T00:37:20.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -995,36 +995,6 @@ Ben Goertzel 和他的机器人 Desdemona（如何利用区块链防止人工智
         <link href="https://www.theblockbeats.info/news/36892"/>
         <updated>2023-05-04T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[本文深入polygon zkEVM关于Sequencer和Bridge更多的技术细节，同时也探讨未来潜在的去中心化Sequencer架构的不同特点。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui Network主网初体验，是不是真的如此顺滑？]]></title>
-        <id>https://www.theblockbeats.info/news/36891</id>
-        <link href="https://www.theblockbeats.info/news/36891"/>
-        <updated>2023-05-04T09:49:48.000Z</updated>
-        <summary type="html"><![CDATA[目前主网成功上线，主网体验是否如之前宣传的一样高效、费用低廉、体验顺滑？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABCDE Capital投研合伙人：解读互操作性发展趋势]]></title>
-        <id>https://www.theblockbeats.info/news/36890</id>
-        <link href="https://www.theblockbeats.info/news/36890"/>
-        <updated>2023-05-04T08:09:33.000Z</updated>
-        <summary type="html"><![CDATA[本文对互操性的探索趋势进行了概述解读，包括新的互操作性技术、基于乐观假设的桥及流动性共享层的一些协议等。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读ORC-20：Ordinals生态中Token发行新规则]]></title>
-        <id>https://www.theblockbeats.info/news/36889</id>
-        <link href="https://www.theblockbeats.info/news/36889"/>
-        <updated>2023-05-04T06:44:42.000Z</updated>
-        <summary type="html"><![CDATA[ORC-20取消了一些BRC-20的限制，并且定义了更多的操作]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

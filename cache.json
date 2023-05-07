@@ -244,36 +244,6 @@
           "wordCount": null,
           "title": "深入探讨Polygon zkEVM Sequencer和Bridge的技术细节",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36891",
-          "author": null,
-          "description": "目前主网成功上线，主网体验是否如之前宣传的一样高效、费用低廉、体验顺滑？",
-          "link": "https://www.theblockbeats.info/news/36891",
-          "publishedOn": "2023-05-04T09:49:48.000Z",
-          "wordCount": null,
-          "title": "Sui Network主网初体验，是不是真的如此顺滑？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36890",
-          "author": null,
-          "description": "本文对互操性的探索趋势进行了概述解读，包括新的互操作性技术、基于乐观假设的桥及流动性共享层的一些协议等。",
-          "link": "https://www.theblockbeats.info/news/36890",
-          "publishedOn": "2023-05-04T08:09:33.000Z",
-          "wordCount": null,
-          "title": "ABCDE Capital投研合伙人：解读互操作性发展趋势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36889",
-          "author": null,
-          "description": "ORC-20取消了一些BRC-20的限制，并且定义了更多的操作",
-          "link": "https://www.theblockbeats.info/news/36889",
-          "publishedOn": "2023-05-04T06:44:42.000Z",
-          "wordCount": null,
-          "title": "解读ORC-20：Ordinals生态中Token发行新规则",
-          "imageUrl": null
         }
       ]
     },
