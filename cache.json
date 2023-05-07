@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36919",
+          "author": null,
+          "description": "本文对 Axelar、Celer IM、LayerZero、Multichain anyCall 和 Wormhole 5 个消息跨链项目进行安全性相关内容的梳理。",
+          "link": "https://www.theblockbeats.info/news/36919",
+          "publishedOn": "2023-05-07T01:00:01.000Z",
+          "wordCount": null,
+          "title": "探索5个消息跨链项目的安全机制",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36917",
           "author": null,
           "description": "原文标题：《\n\nLaunchpad 一体化解决方案 SuiPad 深度解析\n\n》\n原文来源：veDAO\n\n\nSuiPad 是建立在 Sui 公链上的首个 IDO、ISO 和 INO Launchpad 项目，据官方给出的消息，5 月 7、8 日两天 SuiPad 将在 DaoMaker 上进行 OG (Private) 轮和 WL (Public) 轮 IDO，下面 veDAO 将给大家深度解析该项目的特色和创新玩法。\n\n\n一、SuiPad 简介\n\n\nSuipad 是 Sui 生态一个以社区为中心的新项目启动平台，其是 Sui 上的 Tier 1 项目，SuiPad 通过与 Mysten Labs 的官方合作伙伴关系， 将成为 Sui 上项目启动的一体化解决方案。当前其旗舰产品是 Suipad launchpad，这是一个 IDO launchpad。通过独特的策划流程和行业准入为用户提供 Sui 区块链中最好的新项目。\n\n\n二、SuiPad 的特色\n\n\n当前用户参与 IDO 主要面临两个问题：1）中小散户投资者缺乏专业参与初创新项目的知识和能力。大量 IDO 参与者对于如何从不同角度和指标正确分析项目的知识非常有限。对于项目，项目方专业知识更多，但如果没有专业 VC 投资人士，中心散户也很难问出更专业、更客观的问题。2）用户参与 IDO 获得的代币在 TGE 后, 发现二级市场价格低于 IDO 打新价格。这让许多 IDO 参与者在 TGE 后立即遭受损失，尤其是在加密市场的熊市中。针对上述问题 SuiPad 给出的解决方案为以下几个：\n\n\n2.1、Sui Tank\n\n\n\n\n\n\nSuitank 是一个真人秀系列节目，就是 Web3 初创项目方通过真人秀的形式将他们的项目推销给 VC 投资小组。这就是所谓的 Web3 鲨鱼坦克 (Web3 Shark Tank)。\n\n\n该节目…",
@@ -233,16 +243,6 @@
           "publishedOn": "2023-05-05T01:00:02.000Z",
           "wordCount": null,
           "title": "解析区块链技术在人工智能发展中的应用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36892",
-          "author": null,
-          "description": "本文深入polygon zkEVM关于Sequencer和Bridge更多的技术细节，同时也探讨未来潜在的去中心化Sequencer架构的不同特点。",
-          "link": "https://www.theblockbeats.info/news/36892",
-          "publishedOn": "2023-05-04T13:00:01.000Z",
-          "wordCount": null,
-          "title": "深入探讨Polygon zkEVM Sequencer和Bridge的技术细节",
           "imageUrl": null
         }
       ]
