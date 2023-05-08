@@ -6,6 +6,106 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36935",
+          "author": null,
+          "description": "原文标题：《OmniBOLT 和闪电网络: 开启加密货币交易的未来》\n\n\n\n\n闪电网络是解决加密货币世界中扩展和交易速度问题的最有前途的方法之一。它是建立在比特币区块链之上的二级解决方案，旨在解决主流区块链上的可扩展性和交易速度问题。闪电网络允许以较低的费用进行近乎即时的交易，使其成为小额支付和其他用例的有前途的解决方案。\n\n\n\n\nOmniBOLT 构建在 OmniLayer 之上，可以通过闪电网络创建和传输 Token。此功能增强了闪电网络对更广泛用户的灵活性和可访问性。此外，在 OmniBOLT 中加入智能合约预计将为闪电网络提供额外的灵活性并促进更复杂的合约。此功能对高频交易特别有利，这在以前由于过长的交易时间和过高的费用在主区块链上是不可行的。\n\n\n\n\n利用闪电网络的技术传输稳定币是一种愿景吗？随着 Omnilayer 与 OmniBOLT 的融合，BTC 公链生态能否实现显著增长？\n\n\n \n注：以下文本中提供的信息来自互联网上公开可用的资源。\n\n\n \n一、OMNIBOLT 和闪电网络的时间顺序事件 \n\n\n\n\n需要澄清的是，OmniBOLT 不是对闪电网络的重新发明，而是一种广泛的扩展，为更大范围的创新提供可能性。\n\n\n\n\n关于闪电网络及其发展的简要概述，有兴趣的读者可以参考 [1]\n\n\n \n2015 年，两篇论文正式发明了闪电网络：\n1. Christian Decker, Roger Wattenhofer, A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels [2]\n2. Joseph Poon, Thaddeus Dryja, The Bitcoin Lightning Network: Scalable Off-Chain Instant Payment…",
+          "link": "https://www.theblockbeats.info/news/36935",
+          "publishedOn": "2023-05-08T11:28:03.000Z",
+          "wordCount": null,
+          "title": "OmniBOLT和闪电网络：加密货币的正发生与未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36937",
+          "author": null,
+          "description": "原文标题：《比特币生态发展新节点：Ordinals协议与BRC20带来的机遇》\n原文作者：memeswap.bit ; cryptoming\n原文来源：DeBox 研究院\n\n\nOrdinals 协议与 BRC20 作为比特币网络新型协议和Token标准，开启了比特币数字资产新篇章。它们技术优势显著，有望成区块链资产管理新起点。Ordinals 协议可增加矿工收益，解决比特币网络安全预算问题，增强网络安全。BRC20 与比特币本质一致，匿名去中心，有一定的抗监管能力。\n\n\n\nOrdinals 协议与 BRC20 推动比特币的新Token与协议标准、生态内容涌现，也为比特币打开广阔应用空间。这必将丰富比特币生态，推动技术发展以及价值实现。\n\n\n一、什么是 BRC20\n\n\nBRC20 是一种新的Token格式，基于比特币网络的原生 Ordinals 协议开发。Ordinals 协议是一种为比特币网络的最小单位「聪」编号的方案，也是基于比特币网络的 NFT 协议，「聪」是比特币网络中的基本单位，1 个「聪」始终等于 1 亿分之一个比特币。\n\n\n\nOrdinals 协议依据「聪」的开采顺序为每个「聪」分配唯一的序列号，使其具有非同质化属性，在「聪」转移时，遵循先进先出的规则。由于该编号方案和转移方案都依赖于顺序，所以该协议被命名为 Ordinals（序数）。\n\n\n\nOrdinals 协议在比特币的核心全节点上运行，用户可以通过 Ordinals 协议将文字、图片、视频等任意数据数据绑定在单个\"聪\"上，并添加到比特币交易中形成铭文。基于 Ordinals 系统，这些「聪」可以被追踪。由于这些铭文具有唯一性、永久不变和可追踪、可传输的特性，衍生出了比特币 NFT。Ordinals 协议无需依赖比特币之外的侧链或Token，并且可以在不对比特币网络进行任何更改的情况下使用。与以太坊的 NF…",
+          "link": "https://www.theblockbeats.info/news/36937",
+          "publishedOn": "2023-05-08T10:40:36.000Z",
+          "wordCount": null,
+          "title": "探索比特币生态新节点：Ordinals协议和BRC20 Token的机遇与前景",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36936",
+          "author": null,
+          "description": "原文来源：Ebunker 中文\n\n\n\n\n\n在即将到来的坎昆升级中，以太坊将迎来重大改变，将使得以太坊 Layer2 的速度提高 10x，甚至有机会提高 100 倍且成本更低。本文将探讨坎昆升级的影响以及可能受益的 L2 项目。\n\n\n坎昆升级的影响\n\n\n坎昆升级将实现「blob 交易」类型的实施。什么是 blob 交易呢？过去 L2 会定期将一些数据存储在 L1 主链上，这个步骤需要消耗许多 ETH GAS 费用，然后再均摊到过去一段时间在 L2 上交易的用户身上，以达到降低费用的结果。\n\n\n而坎昆升级完成后，L2 交易将存储在 blob 中。Blob 更像是以太坊的「外部存储空间」，相较于以前的 L1 链上存储方式，blob 存储成本更便宜，空间更大，每笔 L2 交易的成本将便宜数十倍。这将为以太坊 L2 带来重大的改变，推动以太坊 L2 得以实现成本降低、速度提高的目标。\n\n\n\n\n\n坎昆升级对于以太坊生态系统来说将是一个重要的转折点，原因如下：\n\n\n更高的交易速度和吞吐量：未来使用 Optimistic Rollup 技术处理的 L2 交易，在不牺牲安全性的情况下，大幅提高交易速度和吞吐量。这将有助于缓解以太坊网络的拥堵问题，并使得以太坊生态系统的应用更加高效。\n\n\n更低的交易费用：由于以太坊网络的交易量增加，交易费用也变得越来越高。坎昆的升级将使 L2 交易费用大幅降低，从而使得更多人能够使用以太坊的 L2 网络。\n\n\n更好的用户体验：坎昆的升级将改善以太坊生态系统的 L2 用户体验。交易速度的提高和交易费用的降低将使得用户能够更快、更便宜地使用 DeFi，交易 NFT。\n\n\n更多的应用场景：坎昆的升级将为以太坊生态系统提供更多的 L2 应用场景。更高的交易速度和更低的交易费用将使得更多的人愿意使用以太坊 L2 网络来开发和部署应用程序，从而进一步促进以太坊生态系统的发…",
+          "link": "https://www.theblockbeats.info/news/36936",
+          "publishedOn": "2023-05-08T10:32:22.000Z",
+          "wordCount": null,
+          "title": "坎昆升级将成为以太坊L2的转折点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36932",
+          "author": null,
+          "description": "原文标题：《Native 活动详细攻略版本！手把手教你怎么撸空投》\n\n\n\n\n由 Nomad Capital 领投的 2023 最值得期待的项目之一 Native 开启首场大型活动，参与活动可以获得空投的 NFT。NFT 分为 4 个等级，根据活动信息介绍，不同等级 NFT 在治理 Token 的初始分配中具有重要价值。这些 NFT 在分配过程中起着至关重要的作用，确保社区内的公平和结构良好的分配。\n\n\n\n\n预计持有 NFT 就可以获得未来空投，所以了解一下活动如何参与吧。\n\n\n\n\n一、活动攻略\n\n\n1. 总体参与思路\n\n\n获取最高的分数，提高自己的排名。\n\n\n分数来源：zealy 任务 和 dex 交易\n\n\n\n\n2. zealy 具体任务\n\n\n\n\n点击任务链接：https://zealy.io/c/nativefi/questboard\n\n\n\n\n进来后可以看到任务分为 6 个类型，分别是：Daily（每日任务）、Fast Traders（快速交易）、Twitter、Telegram、Discord、Partnership（合作伙伴）\n\n\n\n\n\n\n\n\n\n二、任务介绍\n\n\n1. Daily（每日任务）\n\n\n\n\n\n\n\n每日任务每天都可以参加一次，不要遗漏掉。\n\n\n-使用 Native 的官方 dex 或者其他 KOL 的 dex 都可以，进行一个价值 10 美元的交易，然后提交你的 bscscan 链上交易查询链接。\n-提交后团队会根据交易记录审核。\n-关注推特，加入 telegram，然后邀请好友\n-关注推特、加入 Discord，然后发推文写交易体验（包含交易量）#beyourowndex @native_fi \n\n\n\n\n2. Fast Traders（快速交易）\n\n\n\n\n\n\n\n\n\n-使用 Native 的官方 dex，进行一个最低 5000 美元的交易，然后提交你的 bsc…",
+          "link": "https://www.theblockbeats.info/news/36932",
+          "publishedOn": "2023-05-08T09:51:19.000Z",
+          "wordCount": null,
+          "title": "Native活动撸空投详细攻略",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36927",
+          "author": null,
+          "description": "原文标题：《\n\nThe Sui NFT Scene Already Has Early Buzz—Will It Last?\n\n》\n原文作者：Andrew Hayward\n原文编译：PANews\n\n\n\n\n\n5 月 3 日，Sui Network 主网正式上线，但在这一里程碑事件之前，一个活跃的 NFT 社区已经在这个新兴区块链上扎根，不少项目发行的 NFT 不仅产生了数十万美元的交易额，也吸引了不少用户的关注。\n\n\n虽然以太坊和 Solana 区块链上仍然拥有当前最活跃的 NFT 社区，但 Sui Network 也吸引了不少 NFT 交易者。作为 Mysten Labs 公司开发的 Layer 1，Sui Network 无疑是近期最受期待的区块链项目，甚至一些人将其称为是「Solana 杀手」，不过 Sui 究竟能否能持续支持一个繁荣的 NFT 空间还有待观察，毕竟像 Aptos 和 NEAR 等网络也都曾有过热度爆棚又快速降温的经历。\n\n\n典型案例：「未能按预期运作」的 Sui NFT 市场 Clutchy\n\n\n5 月 4 日，NFT 项目「Fuddies」在 Sui Network 上启动投放，该项目由 10,000 张 PFP 组成，每张都描绘了各种姿势和风格的卡通猫头鹰，也是迄今为止 Sui Network 上发行量最大的 NFT 项目。然而就在 Fuddies NFT 完成铸造后，其托管市场 Clutchy 却出现了技术问题，引发了 NFT 交易者和 Web3 建设者的极大不满。\n\n\nClutchy 其实是 Mysten Labs 公司力推的 Sui 链上新贵 NFT 市场，按照计划，他们将以 95 SUI（约 125 美元）的价格向添加到发布前许可名单的用户提供 Fuddies NFT，公开发售则以荷兰式拍卖的形式启动，从 300 SUI（约合 395 美元…",
+          "link": "https://www.theblockbeats.info/news/36927",
+          "publishedOn": "2023-05-08T09:00:02.000Z",
+          "wordCount": null,
+          "title": "SUI网络上NFT场景能实现可持续发展吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36930",
+          "author": null,
+          "description": "原文作者：Zeneca，加密研究员\n\n\n原文编译：Leo，BlockBeats\n\n\n\n最近的币圈，除了 meme 还是 meme，玩 NFT 的卖猴子去买 PEPE、撸毛的用 Gas、炒币的卖主流币去买 PEPE，目前来看，meme 狂潮还是不会短时间平息，BlockBeats 为大家找到加密研究员 Zeneca 撰写的关于 meme 交易心得的文章，编译如下：\n\n\n\n\nMeme coin 交易者心得\n\n\n在 2021 年初，我花了整整近两个月的时间来交易 meme，以下是我作为一个对 meme 有些许理解的交易者的一些建议。\n\n\n\n\n交易 meme 实际上是在撤出流动性\n\n\n这是你应有的心态。meme 实际上是完整存在的，所以在你前面的购买者可以卖给你。如果你买了，你希望以更高的价格卖给别人。这是一个 Ponzi，但很有趣。\n\n\n\n\n即使你参与了「预售」，99% 的时间里，你都会为任何会给你提供财富的人提供撤出流动性。是的，1% 的时间你可能会赚钱（甚至可能赚很多）。当你买入时，你仍然有机会撤出流动性。\n\n\n\n\n你的聊天好友不是真正好友\n\n\n我已经算不清楚我参加了多少次 degen chats，每个人都玩得很开心，都在买入 meme，并在暴涨时大肆宣扬，快乐加倍。但实际上，当价格涨到一定程度，也是每个持有者在等待着你的买入的时机。\n\n\n\n\n「这副牌」对你并不友好\n\n\n如果你没有参与 meme coin 发行，大概率会被那些参与的人欺骗。这并不意味着你仍然不能赚钱（通过利用你后面的人接盘），但事实就是这样，一个充满「割」的 meme 世界。\n\n\n\n\n在 meme 上，你永远不会获得快乐\n\n\n你总是希望自己持有的时间更长，或者更早卖出，或者买入更多，但此类操作都得适可而止。\n\n\n\n\nmeme 推文=evil \n\n\n当有 KOL 发布关于 meme 的推文时，每个 meme 持有者都会受到激励，疯狂传播，这样其他人就会购买 meme，价格就会上涨，这样他们就可以抛售 meme 以获利，所以 meme 喊单后的购买一定要慎重。\nBlockBeats 注：比如一些 KOL 喊单后的 meme 最终归零，跟风买入是不可取的行为。\n\n\n\n\n谨慎 FOMO 情绪——「一种烈性毒品」\n\n\n似乎每个人都持有 meme，但实际上这是呈现给你的虚假世界，要知道，社交媒体算法之下的一切都是让你看起来更真实。本周，我打电话问了约 50 个人，是否持有 meme，结果他们几乎都没买。\n\n\n\n\n每一类 meme 大概率归零\n\n\n大部分 meme 最终都将归零，能做到 DOGE、SHIB 这种程度的都是「万中无一」。交易 meme 实际上就是在买彩票。不要在上面花费对于你来说「意义重大」的钱。如果必须的话，可以用你能承受的最小亏损金额去购买 meme，最后他们归零也没关系，类似 10U/百 U 战神。\n\n\n\n\n\n\n别听任何人的分析\n\n\n要记得你是要撤出流动性的，如果有人告诉你，某某 meme 市值是有保证的，或者即将停止下跌迎来上涨，或即将上线知名 DEX、CEX，或者在「加强」，忽略这些话。\n\n\n\n\n大多数人不应该跟风交易\n\n\n这一点不仅适用于 meme，也适用于 BTC、ETH、NFT、股票等。大多数人都没有成为成功交易员的专业知识和特性，所以更应该购买和长期持有他们相信的资产。\n\n\n\n\n你总是害怕撤出流动性\n\n\n通过找别人接盘你的 meme 来赚钱，这是「博傻理论」的缩影，不要害怕卖出。DOGE 是有史以来最成功的 meme，其 ATH 下跌了 90%，多做思考。\nBlockBeats 注：博傻理论指的是人们之所以完全不管某个东西的真实价值而愿意花高价购买，是因为他们预计总会有一个更傻的人会花更高的价格从他们那儿把它买走。\n\n\n\n\n影响者不是你的朋友\n\n\n每个人都有影响力，人们告诉你「God，不要信那个 meme」，因为它被有影响力的人欺骗了，你只能相信这个 meme，因为没有人喊单。在这一点上，大家都是 KOL。\n\n\n\n\n没人是万事通\n\n\n别听任何人跟你说「处于顶部，或者处于底部」。不要信任何人告诉你的「某件事即将发生」这类话。别信任何人说「这是下一个百倍 meme」。\n\n\n\n\n不要讨厌 meme 交易者\n\n\n\n\n\n\n\n\n因为找乐子，或者因为赚钱，或者因为赔钱而讨厌别人，这是不理智的。人们做他们想做的事。如果有人买彩票中了大奖，为什么你要生气呢，这是一个自由市场。请保持理智！\n\n\n\n\n欢迎加入律动 BlockBeats 官方社群\nTelegram 订阅群：https://t.me/theblockbeats\nTelegram 交流群：https://t.me/theblockbeatsApp\n\n\n\nTwitter 官方账号：https://twitter.com/BlockBeatsAsia\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/36930",
+          "publishedOn": "2023-05-08T08:59:56.000Z",
+          "wordCount": null,
+          "title": "13条meme coin交易心得",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36929",
+          "author": null,
+          "description": "原文标题：《从Velodrome到Chronos，ve(3,3)卷土重来，它是更好的Dex模式吗?》\n原文来源：Mint Ventures\n原文作者：Alex Xu，Mint Ventures 研究合伙人，\n\n\n概述\n\n\n\n本篇研报主要关注当下 ve(3,3)Dex 项目的发展现状，以及该模式在商业上的优势和挑战，并对 Dexs 赛道的长期发展进行了进一步的思考。\n\n\nDexs（去中心化交易平台）与 Lending（借贷），是 Defi 领域最早实现 PMF（产品市场契合）的两类产品，而 Dexs 作为价值互联网的基础设施，一直是用户量和交互金额最大的赛道，也是 Defi 整体生态的底层。\n\n\n也正因为如此，Dexs 始终是竞争和创新最为活跃的领域，同赛道选手在产品、经济模型、生态组合上保持着很快的进化速度。而 Andre Cronje 在 2022 年初提出的 ve(3,3) 模式的 Dexs 正是这个领域的重要实践之一。\n\n\n本研报围绕 ve(3,3) 这一主题，尝试回答以下问题：\n\n\n1. ve(3,3) 的完整概念是什么？它在尝试解决哪些问题？\n2. 当下代表性的 ve(3,3) 项目的实际业务表现如何？它们基于最初的 ve(3,3）机制做了什么改良？以及项目的估值水平如何。\n3. ve(3,3) 会成为长期有效的 Dexs 模式吗？\n\n\n\n以下报告内容为笔者截至发表时对于 ve(3,3) 概念以及所涉项目的阶段性看法，可能存在数据、事实和观点的错误和偏见，不可作为投资理由，期待同业在观点和事实上的指点和斧正。\n\n\n本文有大量关于 ve 模型的内容，或需要读者对 Curve 为代表的项目有初步了解，关于 Curve 可阅读：\n\n\n理解 Curve 的正确姿势：头部流动性市场的业务现状、生态发展、护城河及估值对比（2023 年 3 月发布）\nUni V3 进击下的 C…",
+          "link": "https://www.theblockbeats.info/news/36929",
+          "publishedOn": "2023-05-08T08:29:14.000Z",
+          "wordCount": null,
+          "title": "从Velodrome到Chronos，ve(3,3)是长期有效的DEX模式吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36926",
+          "author": null,
+          "description": "香港，曾经在加密和 Web3 行业占据着举足轻重地位。吸引了最大稳定币发行商 Tether、Bitfinex、Crypto.com 的驻足。但其间因监管政策的摇摆不定促使部分加密 Web3 企业搬离香港。香港开始与 Web3 的高速发展脱节。\n\n\n\n\n在经历了世界经济的动荡与国际资金流动转移后，香港意识到，拥抱虚拟资产和 Web3 的时刻来了。2023 年 4 月 11 日，多家中港金融科技公司、产业领袖、创科界立法议员成立了「香港 Web3.0 协会」。香港行政长官李家超在开幕典礼上表示，Web3 对金融科技发展起关键作用，期待协会与特区政府携手合作，一起迎接 Web3 和虚拟资产业的发展所带来的庞大机遇。\n\n\n\n\n对于加密 Web3 企业而言，最为重要的是，香港将于 6 月专为虚拟资产服务提供者订立的新发牌制度。这意味着，加密 Web3 企业在港的合法化。\n\n\n\n\n全球领先的加密衍生品与跟单平台 Bitget 率先推出 1 亿美元 Web3 基金，以支持亚洲下一代加密货币项目。\n\n\n深耕 Web3，1 亿美元只是开始\n\n\n香港曾在加密与 Web3 领域有过犹豫与徘徊。加密资产波动性大，并且其中存在着大量的资金盘、骗局等。如何进行监管是全球监管层都面临的难题。因此，在未找到平衡创新与风险的情况下，香港曾选择劝退大量的优质加密企业。随着行业的发展，监管层也认识到了，一味的逃避并不会为香港带来益处，积极拥抱显然利大于弊。\n\n\n\n\n据 Bitget 董事总经理 Gracy Chen 表示，Bitget 于 2022 年底聘请了香港的律师和合规专业人士，以进一步了解所有相关的香港政策，并且正在准备申请香港虚拟资产交易平台牌照，以为香港用户提供高规格的安全性和合规性服务。\n\n\n\n\n对于监管，Bitget 从创立之初便积极响应。2020 年 3 月，Bitget 便在美国监管机构 F…",
+          "link": "https://www.theblockbeats.info/news/36926",
+          "publishedOn": "2023-05-08T08:00:02.000Z",
+          "wordCount": null,
+          "title": "香港与Web3，Bitget的布局与崛起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36928",
+          "author": null,
+          "description": "原文标题：《BRC20 Token打新还有机会？一文详解 BRC20 原理、特点及参与方式》\n原文来源：链捕手 ChainCatcher\n\n\n今天，「BRC20 Token Ordi 价格突破 10 美元，市值突破 2 亿美元」的新闻在各大社群流传。而这个 Token 于 3 月 9 日上线发行，且发行初期是免费的，用户只需支付链上铸造 Gas 费就可获得大量 ordi Token 。假设用户在刚开始发行的时候铸造了 1000 个 ordi，如今价值接近 10000 万 U。\n\n\n\n相较于撸空投，BRC20 Token 造富的神话更加容易。用户无需参与链上操作内卷，也无需担心无法满足苛刻的条件，只需在 Token 发行时第一时间铸造即可，甚至在早期比特币链上不拥堵时，链上 GAS 费成本仅需几 U 就可参与。\n\n\n\n在币价不断暴涨、铸造 BRC20 Token 财富故事的催化下，BRC20 现已成为加密市场新的叙事故事，获得了一大批用户的追捧。\n\n\n\n5 月 5 日，加密 KOL Plan B 在推特上发布有关 BRC20 的投票；NFT 市场 Element 创始人王峰在社交媒体上表示，Element 将为社区用户开发支持 Bitcoin Ordinals 的 BRC20 铭文 Token 及 NFT 交易市场。今天，火必（huobi）发布公告表示：BRC20 Token ordi 以 2391 万总票数获得第五期投票上币活动第一名，一旦相关标准获得行业共识，将第一时间开启 ordi 现货交易，第二名为 BRC20 的 PEPE；随后，OKX 发推文表示正在加紧解析 BRC20 并推进钱包支持交易 ordi。\n\n\n\n\n\n\n由此可见，BRC20 正在成为用户及项目方、CEX 争抢布局的新赛道。那么，BRC20 究竟什么是？作为普通用户，我们该如何参与这次新的财富密码？又会面…",
+          "link": "https://www.theblockbeats.info/news/36928",
+          "publishedOn": "2023-05-08T07:04:48.000Z",
+          "wordCount": null,
+          "title": "BRC-20 Token原理及特点解析，普通用户还有哪些参与机会？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36925",
+          "author": null,
+          "description": "据 BlockBeats 统计，上周的融资总数为 15 笔，数量有明显下降，总金额约 7955.5 万美元，平均融资金额为 530.37 万美元。其中，基础设施占据主体，NFT 领域和资管支付融资融资相对较多，其他和 DeFi 融资数量居中，元宇宙/Gamefi 领域较少，社交/创作者经济无融资信息。下图为上周各板块融资占比：\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 2 笔融资，总金额 320 万美元，占上周融资总额的 4.02%。\n\n\n\n\nPlaycraft \n\n\n\n\n\n\n\nNFT 商业化应用链游平台 Playcraft 已于 2022 年 8 月完成 200 万美元首轮融资，Animoca 与 Shima Capital 领投，Big Brain holdings、Klaytn、Orgin Ventures 、Waterdrip Capital 等参投。该轮融资主要用于平台游戏开发。\n\n\n\n\nPlaycraft 将于 2023 年 5 月启动二轮融资，主要用于游戏持续研发、产品运营及市场宣传等，届时将上线测试网（Alpha 版），8 月将上线主网 Beta 版。Mobaverse 是 PlayCraft 旗下自研的第一款 MOBA 类链游，允许玩家使用自己的 NFT 作为英雄，平台首批签约的 NFT 合作方包括 BAYC、Azuki 等知名蓝筹社区。\n\n\nMobaverse 是第一个支持 NFT 商业化的 GameFi 加入 Web3 革命。Mobaverse 将 GameFi 的世界开放到前所未有的互动水平，使玩家能够将他们最喜欢的 NFT 变成在线战斗的英雄。\n\n\n为了打造各种游戏比赛，最大限度地发挥玩家的游戏乐趣，开发团队设计了不同的玩法，可分为 5VS5 比赛、5VS5 排位赛和娱乐模式。\n\n\nSwords of Blood \n…",
+          "link": "https://www.theblockbeats.info/news/36925",
+          "publishedOn": "2023-05-08T05:32:05.000Z",
+          "wordCount": null,
+          "title": "2023年第20周融资精选，Suipad获投115万美元融资",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36924",
           "author": null,
           "description": "原文标题：《「Trend Research by LD Capital」Grayscale 信托深入解读 ｜ 为何可以半价购入以太坊？(二)》\n原文来源：LD Capital\n\n\n引言\n\n\nGrayscale Ethereum Trust (ETHE) 作为最大的美股上市交易的以太坊产品，持仓量高达 300 万个 ETH，然而目前其二级市场交易价格对比净值（NAV）存在近 50% 左右的折价，我们在上一篇报告中解析了该产品折溢价的成因，以及若干种折价可能收窄的情形，同时基于周期轮动的规律，我们认为假若押注潜在的牛市，则 ETHE 相比 ETH 现货具有更好的弹性。然而我们也发现，历史数据测算显示 ETHE 的风险回报数值不佳，在风险调整收益、最大回撤、波动率等相较于 ETH/USD 表现较差。意味着如果准备长期持有 ETHE 可能要做一些针对性的收益增强策略，否则如果牛市不能快速到来的话其表现有弱于大盘的风险。\n\n\n作为系列第二篇报告，我们将探讨如何针对 ETHE 构建一个指数增强策略，获取资产长期 Beta 回报价值的同时，进行适当主动管理获取 Alpha 回报，提升投资者长期持有资产的体验。\n\n\nGrayscale ETHE 统计特性概述（Risk and Return Overview of Grayscale ETHE）\n\n\n首先对本策略的核心标的 Grayscale ETHE 的特点进行分析：\n\n\n\n\n\n上述表格对 01/01/2020 – 04/30/2023 区间的 ETHE 和 ETH-USD 价格表现进行了统计，基于月度收益计算，从阿尔法系数、最大回撤、风险价值、风险调整收益等风险指标的表现均差于 ETH 现货，但其收益呈现右偏肥尾分布意味着正向波动更具潜力：\n\n\n收益表现：Grayscale ETHE 的算术平均月收益率为 8.91% ，年化收益率为 1…",
