@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36924",
+          "author": null,
+          "description": "原文标题：《「Trend Research by LD Capital」Grayscale 信托深入解读 ｜ 为何可以半价购入以太坊？(二)》\n原文来源：LD Capital\n\n\n引言\n\n\nGrayscale Ethereum Trust (ETHE) 作为最大的美股上市交易的以太坊产品，持仓量高达 300 万个 ETH，然而目前其二级市场交易价格对比净值（NAV）存在近 50% 左右的折价，我们在上一篇报告中解析了该产品折溢价的成因，以及若干种折价可能收窄的情形，同时基于周期轮动的规律，我们认为假若押注潜在的牛市，则 ETHE 相比 ETH 现货具有更好的弹性。然而我们也发现，历史数据测算显示 ETHE 的风险回报数值不佳，在风险调整收益、最大回撤、波动率等相较于 ETH/USD 表现较差。意味着如果准备长期持有 ETHE 可能要做一些针对性的收益增强策略，否则如果牛市不能快速到来的话其表现有弱于大盘的风险。\n\n\n作为系列第二篇报告，我们将探讨如何针对 ETHE 构建一个指数增强策略，获取资产长期 Beta 回报价值的同时，进行适当主动管理获取 Alpha 回报，提升投资者长期持有资产的体验。\n\n\nGrayscale ETHE 统计特性概述（Risk and Return Overview of Grayscale ETHE）\n\n\n首先对本策略的核心标的 Grayscale ETHE 的特点进行分析：\n\n\n\n\n\n上述表格对 01/01/2020 – 04/30/2023 区间的 ETHE 和 ETH-USD 价格表现进行了统计，基于月度收益计算，从阿尔法系数、最大回撤、风险价值、风险调整收益等风险指标的表现均差于 ETH 现货，但其收益呈现右偏肥尾分布意味着正向波动更具潜力：\n\n\n收益表现：Grayscale ETHE 的算术平均月收益率为 8.91% ，年化收益率为 1…",
+          "link": "https://www.theblockbeats.info/news/36924",
+          "publishedOn": "2023-05-08T03:43:23.000Z",
+          "wordCount": null,
+          "title": "LD Capital：五折买ETH机会还是陷阱？深入解析Grayscale信托（二）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36923",
+          "author": null,
+          "description": "原文标题：《\n\n用什么来拯救你？PFP 类的 NFT\n\n》\n\n原文来源：Wlabs 瓜田实验室\n\n\n前几天看到一篇文章里说到了曾经风光无限的几个蓝筹 PFP NFT 在这轮熊市中跌跌不休，有的价格甚至跌了 99%，这让前两年刚入场的很多新韭菜们心头在流血。PFP NFT 板块应该是上一波牛市新入圈者接触的第一类项目，简单直接，有共识就能冲。这些新韭菜们年轻，有热情，新加入到加密圈，看到有社区有 DAO 有共识，更重要的是 Money 竟然如此好赚，不需要像老韭菜们懂代码，学金融，做投研，搞些图片说它值几千美元就是几千美元了。这还等什么，冲啊！然后一战大胜，再战小胜，终战而卒…\n\n\n\n\n\n对于一个旁观者而言，我并没有太搞懂如果没有持续赋能，PFP NFT 可以长时间保持价值的逻辑在哪里，哪怕是有钱有资源懂运营如无聊猿的 Yuga Labs，也要早早推出链游 Otherside 去给项目共识加码。当然有位加密圈大神说过：傻逼的共识也是共识，然而共识也是像爱一样，需要去呵护和维系的。更何况到了熊市，傻逼也在进化，纯傻逼人数本来就不多了，还在坚持的也纷纷表示「地主家也没有余粮」，PFP NFT 项目的日子也就更不好过了。\n\n\n\n\n如何解困？最直接的方式就是先让 PFP 类的 NFT 能用起来，在炫耀性质的社交属性退化的同时，是否加入其它的实用属性可以先度过难关？就和房屋一样，当投资属性被慢慢剥离了，那就加大居住属性的赋能吧。\n\n\n\n\n而在区块链和 Web3 的世界中，NFT 和链游一直以来都是一对形影不离的好伙伴。从 2017 年 Dieter Shirley 创立 ERC-721 标准，Axiom Zen 推出 Crypto Kitty 游戏导致 ETH 堵塞，到上一轮牛市高潮时 Axie 掀起全球 GameFi 热潮，再到去年 StepN 丰富了 X2E 赛道……NFT 赋予了…",
+          "link": "https://www.theblockbeats.info/news/36923",
+          "publishedOn": "2023-05-08T03:04:01.000Z",
+          "wordCount": null,
+          "title": "拿什么来拯救你，PFP类的NFT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36922",
           "author": null,
           "description": "Omni在设计中融合了多项新颖技术，从而在安全性、高效性和功能性三个方面实现了独特优势。",
@@ -143,26 +163,6 @@
           "publishedOn": "2023-05-06T01:00:02.000Z",
           "wordCount": null,
           "title": "Ordinals与BRC-20热潮下，盘点比特币可扩展性发展的四大方向",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36900",
-          "author": null,
-          "description": "仅在去年，我就与50多家Web3公司谈过，在我的职业生涯中与100多家Web2公司谈过。但是，在独特的、竞争激烈的Web3招聘世界中，赌注甚至更高。",
-          "link": "https://www.theblockbeats.info/news/36900",
-          "publishedOn": "2023-05-05T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Pantera Capital：Web3初创企业常见的5大招聘错误",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36903",
-          "author": null,
-          "description": "只有当我们对金融市场、协议原理以及造市的辅助协议有更进一步的理解，才能驾驭造市者的角色，实现稳定获利的流动性提供者。",
-          "link": "https://www.theblockbeats.info/news/36903",
-          "publishedOn": "2023-05-05T13:00:02.000Z",
-          "wordCount": null,
-          "title": "为什么你在DeFi造市不赚钱？5个在Uniswap V3当LP的误区",
           "imageUrl": null
         }
       ]
