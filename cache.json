@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36949",
+          "author": null,
+          "description": "一个重要的里程碑",
+          "link": "https://www.theblockbeats.info/news/36949",
+          "publishedOn": "2023-05-09T15:02:57.000Z",
+          "wordCount": null,
+          "title": "迪拜VARA高度认可MaskEX的初步批准，并许可其开始为在阿联酋推出做准备",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36948",
+          "author": null,
+          "description": "本文将详细介绍 EIP-4626 的作用，以及其带来的好处。",
+          "link": "https://www.theblockbeats.info/news/36948",
+          "publishedOn": "2023-05-09T14:00:01.000Z",
+          "wordCount": null,
+          "title": "一文读懂EIP-4626: 代币化保险库的通用标准",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36947",
           "author": null,
           "description": "原文标题：《以 Sei 为例：聊聊散户从筛选到决策，具体应该怎么去分析一个项目》\n原文来源：Meta 星空\n\n感觉最近所有人都在讨论 $pepe 或者是 #brc20 ，但这些话题我在上个月都聊得差不多了。\n\n今天想聊的是在上个月被淹没的 #SeiNetwork\n\n作为 23 年少数获得千万级融资的项目，我打算以它为范例，分享一个视角：如何以最终决策（是 / 否投资）为导向，来分析一个项目。\n\n作为散户而言，从了解项目到建立投资决策，大概是有这么几个过程，我会在接下来分析 sei 的过程中为大家展开分享：\n\n一、如何从繁杂的加密资讯中筛选重要的项目。\n二、判断项目的未来发展空间。\n三、寻找能参与赚钱的机会，并作出决策。\n\n如果不愿意看，直接找到最后的第三点即可。\n\n一、如何从繁杂的加密资讯中筛选重要的项目？\n\n很多人在筛选项目信息方面更在意「信息渠道」，这是不对的。现在网络极其发达，能活下来的资讯平台都非常全面、迅速。在这样一个信息爆炸的时代，该做的不是去找渠道源，而是学会筛选重要的信息。\n\n筛选的前提是需要借助宏观判断来抓重点。\n\n前年我关注到 arbitrum 的时候，它仅是一个 TVL1000 万美元、链上活跃的地址数不到一万的「小项目」。同期很多跨链桥、投资类 DAO 都有 1~10 亿美元的 TVL。\n\n为什么我能在幼儿期关注 ARB，就是因为我明白以太坊扩容是行业最大的问题。因此只要 layer2 的消息出现在媒体平台上，就一定会引起我的重视。\n\n虽然我关注 Sei 并非是投资，而是空投，但逻辑是一样的。\n\n过去空投项目的大毛 99% 是来自以太坊上的协议或者其他公链项目，因为 ETH 的价格和 VC 的融资对币价有极大的支撑效果。而公链类，自然就扫描到了 Sei。\n\n同时根据 Sei 在媒体平台中发布重大消息的节点，我们来依次反思复盘：\n\n第一个节点是 22 …",
@@ -233,26 +253,6 @@
           "publishedOn": "2023-05-07T06:45:19.000Z",
           "wordCount": null,
           "title": "Omni Network：下一代模块化区块链是什么样子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36921",
-          "author": null,
-          "description": "这场比特币上的游戏，或许是「散户的胜利」与「最后的机会」。",
-          "link": "https://www.theblockbeats.info/news/36921",
-          "publishedOn": "2023-05-07T04:31:17.000Z",
-          "wordCount": null,
-          "title": "BRC热潮，是散户「最后的狂欢」吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36919",
-          "author": null,
-          "description": "本文对 Axelar、Celer IM、LayerZero、Multichain anyCall 和 Wormhole 5 个消息跨链项目进行安全性相关内容的梳理。",
-          "link": "https://www.theblockbeats.info/news/36919",
-          "publishedOn": "2023-05-07T01:00:01.000Z",
-          "wordCount": null,
-          "title": "探索5个消息跨链项目的安全机制",
           "imageUrl": null
         }
       ]
