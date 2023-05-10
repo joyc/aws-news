@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-09T18:08:40.755Z</updated>
+    <updated>2023-05-10T00:35:12.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1213,16 +1213,6 @@ Grayscale ETHE 统计特性概述（Risk and Return Overview of Grayscale ETHE�
 
 
 而在区块链和 Web3 的世界中，NFT 和链游一直以来都是一对形影不离的好伙伴。从 2017 年 Dieter Shirley 创立 ERC-721 标准，Axiom Zen 推出 Crypto Kitty 游戏导致 ETH 堵塞，到上一轮牛市高潮时 Axie 掀起全球 GameFi 热潮，再到去年 StepN 丰富了 X2E 赛道……NFT 赋予了…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omni Network：下一代模块化区块链是什么样子]]></title>
-        <id>https://www.theblockbeats.info/news/36922</id>
-        <link href="https://www.theblockbeats.info/news/36922"/>
-        <updated>2023-05-07T06:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Omni在设计中融合了多项新颖技术，从而在安全性、高效性和功能性三个方面实现了独特优势。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
