@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36945",
+          "author": null,
+          "description": "以 ZK rollups 技术展开的项目不难看出最终目标都是 zkEVM，而从去年至今将是日常加密货币用户将能够首次尝试 zkEVM 的一年。",
+          "link": "https://www.theblockbeats.info/news/36945",
+          "publishedOn": "2023-05-10T01:00:01.000Z",
+          "wordCount": null,
+          "title": "zkEVM领域的新兴力量：以太坊Layer2扩展技术探讨",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36949",
           "author": null,
           "description": "一个重要的里程碑",
