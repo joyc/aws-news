@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-11T00:35:35.832Z</updated>
+    <updated>2023-05-11T06:09:26.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bankless：BRC-20模因命运短暂，比特币扩容是根本]]></title>
+        <id>https://www.theblockbeats.info/news/36960</id>
+        <link href="https://www.theblockbeats.info/news/36960"/>
+        <updated>2023-05-11T03:24:52.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Bankless：BRC20 模因热终将「一地鸡毛」，比特币扩容是根本
+
+》
+原文来源：
+
+Bankless
+
+
+
+原文编译：
+
+比推 BitpushNews
+
+
+
+Memecoin (模因币) 热潮正在蔓延！
+
+
+
+一种称为 BRC-20 的新代币类型吸引了开发人员，并在比特币区块链上提供了类似于以太坊生态中的垃圾币的体验。BRC-20 是使用 Ordinals 协议构建的，该协议最近因将 NFT 引入比特币而备受追捧。
+
+
+本文我们将深入研究 BRC-20 的所有内容，从基本定义到热炒的代币，同时剖析该炒作造成的链上大屠杀（并不是每个用户都对此感到高兴……）然后，我们讨论了我们对 BRC-20 市场状态的看法，以及为什么这种狂热与之前的狂热没有什么不同。
+
+
+「广场上的新霸主」
+
+
+BRC-20 最近激怒了那些 BTC 纯粹主义者，因为它仿照以太坊的 ERC-20 代币标准命名，并且是 Domo 的创意，Domo 自称为「终端链上的 Dune Wizards」（Dune Wizards：区块链分析师的昵称）。
+
+
+BRC-20s 使用 JSON 数据的序数铭文来创建本质上是可替代的 NFT 集合。虽然这个实验创造了一种可替代的 ERC-20 风格的代币，但它的用例相当有限。
+
+
+与可以在以太坊上的各种 dApp 中用作抵押品的 ERC-20 不同，BRC-20 仅限于铸造和转移功能。在没有比特币原生去中心化交易解决方案的情况下，资产销售可以通过托管或标志资金库功能在链上完成。
+
+
+在合约部署时，任何人都可以按照代币合约指定的增量免费（加上交易费用）铸造 BRC-20 代币——资产发行不能预铸造。尽管围绕该代币类型的讨论颇多，该项目的白皮书指出，支持 Taproot 的比特币资产发行并不是一个新概念，并引用 Taro 协议作为提供「明确更好的解决方案」。
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全景式解读执行层：EVM一枝独秀，业务能力为成败关键]]></title>
         <id>https://www.theblockbeats.info/news/36959</id>
@@ -648,16 +698,6 @@ Berachain 的创始人 Smokey 曾表示：
 
 
 当前 L1 的普遍问题之一是流动性，流入它们的流动性通常是短暂的，因为没有令人信服的激励措施来留住它们。开发团队…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么推特KOL都在BRC赚钱，我一冲就亏？]]></title>
-        <id>https://www.theblockbeats.info/news/36938</id>
-        <link href="https://www.theblockbeats.info/news/36938"/>
-        <updated>2023-05-08T12:59:15.000Z</updated>
-        <summary type="html"><![CDATA[社群到处都是造富神话，有几个人真赚到钱?]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
