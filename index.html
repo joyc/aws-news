@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-11 datetime="2023-05-11T09:15:01.000Z">2023-05-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-11 datetime="2023-05-11T09:15:01.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-11 datetime="2023-05-11T14:00:01.000Z">2023-05-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-11 datetime="2023-05-11T14:00:01.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,40 @@
                   <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36963"
+                        open
+                      >
+                        <summary class="article-expander__title">BTC资产复兴下一个叙事，为什么要关注RGB协议？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36963">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>引领 BTC 的复兴叙事，BRC-20 可能是第一个，但不太会是最后一个。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/36970"
+                        open
+                      >
+                        <summary class="article-expander__title">OKX与SignalPlus达成深度合作，将为用户提供高级期权交易工具</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36970">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>「OKX 希望通过扩展期权交易工具和产品套件为全球用户提供更优交易体验。」</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -729,282 +763,6 @@ $18500 ~ $24500 约 258 万枚；
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36940"
-                        open
-                      >
-                        <summary class="article-expander__title">BRC-20、ORC-20之后，BRC-21又是什么？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36940">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《BRC-20、ORC-20 之后，BRC-21 又是什么？》
-原文来源：Odaily 星球日报
-
-
-随着 BRC-20 的爆火，一些围绕着比特币网络构建的其他资产标准也开始相继出现。
-
-
-5 月 7 日，跨链互操作性项目 Interlay 的创始人 Alexei Zamyatin 提议推出 BRC-21 标准，以向比特币网络上引入完全去中心化的跨链资产，并在闪电网络中使用它们。
-
-
-
-
-
-Interlay Labs 同时发布了关于 BRC-21 代币标准 V 0.1 版本文档。根据该文档描述，BRC-21 资产本质上依然是 BRC-20 资产，但与「凭空生出」的 BRC-20 资产不同，BRC-21 需要通过锁定起始链上的资产来生成（比如 ETH、DOT、ATOM、DAI 等等），换句话说，BRC-21 标准提供了一种在比特币网络上铸造 BRC-20 版本 ETH、DAI 等其他链上资产的可能性。
-
-
-从技术角度来看，BRC-21 资产的跨链只需要依赖三个组件完成，全程有望实现完全的去中心化：
-
-
-1. 起始链智能合约：负责处理起始链上的铸币和赎回操作。
-
-
-2. 自定义索引器（Custom indexer）：负责验证比特币网络上的 BRC-21 铸币、转移、赎回等操作，以及起始链上的智能合同状态。
-
-
-3. 比特币中继器（BTC-Relay）：作为比特币网络上的轻客户端来实现智能合约的效果，需要验证比特币网络上的交易包含情况并进行解析。
-
-
-Interlay Labs 在文档中同时演示了关于 BRC-21 资产的部署，起始链上的智能合约该如何设置暂且不提，比较值得注意的是如何在比特币网络上进行部署。
-
-
-总体来说，部署 BRC-21 代币与部署 BRC-20 代币的方式大差不差，但存在一些细节上的差异，比如：
-
-
-1. 用以定义最大供应量的「max」字段不再是必须填写，而是可以选填，因为 BRC-21 背后原资产的最大供应量一般都已在起始链上定义，选填只是提供了一层额外的事故保障。
-
-
-2. 用以定义铸造限制的「lim」的字段被删除，因为 BRC-21 资产均需遵循严格的铸造和赎回规则，因此无需限制单笔交易中可以铸造多少代币。
-
-
-3. 添加新字段「src」，用以指定起始链，可以是一串字母（比如 Ethereum），也可以是一个编号（但需要额外提供列表）。
-
-
-4. 添加新字段「id」，用以指定起始链上的目标代币，可以填写该代币的合约地址。
-
-
-
-BRC-20 资产部署格式
-
-
-
-BRC-21 资产部署格式
-
-
-至于用例，Interlay Labs 的看法是，虽然 BRC-21 标准理论上可以将 ETH、DOT、SOL 等各种各样的其他链资产引入比特币网络，但该标准真正的用武之地实际上在于引入去中心化稳定币，并将其部署至闪电网络或其他支付协议之上。
-
-
-Interlay Labs 进一步解释称，类似 DAI、RAI 等去中心化稳定币往往需要复杂的铸币、赎回和清算机制来保持其有效锚定。由于比特币网络天然缺乏可编程性，所以 MakerDAO 等协议并不能直接将 DAI 等稳定币部署在比特币网络上，这一情况未来依旧不太可能有所改变。
-
-
-Interlay Labs 认为，通过 BRC-21 标准，以完全去中心化的形式将这些资产桥接至比特币网络，进而充分利用比特币网络的去中心化属性，相较于把大量的时间花费在为比特币构建编程协议之上，这种只需要几行代码即可生效的方式或许更有机会实现大规模的采用。
-
-
-原文链接</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36933"
-                        open
-                      >
-                        <summary class="article-expander__title">关于BRC20，你想知道的都在这里</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36933">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>5 月的加密市场由 meme 板块点燃行情，随后带动比特币生态 BRC-20 Token 热度居高不下。据 Dune Analytics 数据显示，5 月 8 日 BRC-20 相关交易（铸造、转移和部署）费用达 255 BTC，创下历史新高，且占据比特币当日全部交易手续费的逾 40%。由于该玩法模式较新，且大多数读者对于比特币生态并不是十分了解，  律动 BlockBeats 总结了一些相关资料和网站给大家，做好调查和判断再入场。
-
-
-1）科普&amp;教程
-
-
-《如何玩转 BRC-20》
-
-
-BTC 概念的加密货币有哪些？或许你脑海里最先浮现出来的是基于 BTC 生态分叉出来的衍生币，比如 BTD（比特币钻石）、BTK（比特王者）、BTF（比特信仰）等等……这个说法在今年以前不算错。但在今年以来，自从 BTC 生态推出 Ordinals 协议以后，便不再准确了。BRC-20 标准的诞生以及相关 Token 的出现，则意味着 BTC 不再只被简单的视为「Web3 世界的标杆，精美但陈旧的古董。」反而真正的具有了发展和创新的推动力。
-
-
-在相关概念方兴未艾的现在，我们不禁要问：BRC-20 标准到底是什么？它与 ERC-20 标准有何不同？Ordinals 协议又与传统的 Omni 协议有何不同？
-
-
-《Brc20 保姆级铸造教程》
-
-
-如何参与 BRC-20 Token 铸造？保姆级教程手把手教你从头学习。
-
-
-2）项目&amp;工具
-
-
-BRC20 项目汇总网站：https://brc-20.io/market 
-
-
-BRC-20 钱包：https://unisat.io 
-
-
-Ordinals 原生钱包：https://ordinalswallet.com/wallet 
-
-
-交易市场：https://ordswap.io 
-
-
-Mint 工具：https://looksordina…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36939"
-                        open
-                      >
-                        <summary class="article-expander__title">BRC-20爆火出圈，矿工到底赚了多少钱？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36939">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《
-
-BRC-20 爆火，矿工赚了多少钱？
-
-》
-
-原文来源：DeFi之道
-
-
-2023 年 3 月，推特用户 @domodata 为比特币创建的一个实验性 Token 标准，利用 JSON 数据的序号铭文，可以部署 token、铸造和转移——也就是现在的 BRC-20。
-
-
-
-BRC-20 从 Ordinals 协议衍生而来，3 月处于发展期，4-5 月迎来了爆发式增长。
-
-
-链上数据显示，5 月 1 日开始，BTC 每笔平均交易费用开始出现大幅增长，从初期的 2U 上涨到现在的 20U。
-
-
-
-
-比特币平均交易费用趋势图
-
-
-
-
-矿工收益的构成——目前，矿工的收益构成分别为两大块：
-
-
-区块奖励 : 6.25 $BTC / 区块
-
-
-交易费用: 也就是打包交易的手续费。交易费用的多少依据网络情况以及用户的设定而不同，以每个字 byte 来衡量，目前比特币 memepool 池中的低优先级平均费用大约为 300sats/byte，也就是大约 11u/字节。
-
-
-比特币矿工的单个区块交易费用收入也从 5 月 1 号开始超过 1$BTC，并一路高歌猛进，在 8 号上午过去的几个小时里，矿工单区块的交易费收入更是一度达到了惊人的 6$BTC，有的区块的交易费用甚至超过了本身的区块奖励。
-
-
-目前，BRC-20 总计支出的交易费用大约 493 枚比特币，其中 245 枚都是在最近 24 个小时内花费的，占到了 BRC-20 诞生以来的支出费用的49.6%。
-
-
-
-
-
-
-
-
-
-
-BRC-20 爆火，矿工到底赚了多少钱？
-
-
-
-
-我们以 5 月 1 日-8 日为周期（我们的截止时间为：北京时间 5 月 8 号上午 11:31:34），粗略统计了近一周比特币矿工收入，获得了以下的一些数据：
-
-
-1. 统计时间内，矿工总收益为（区块奖励+交易费用）：8100 枚 BTC；
-
-
-…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/36931"
-                        open
-                      >
-                        <summary class="article-expander__title">揭秘Berachain：何以融资4200万美元？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/36931">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>原文标题：《开局就融资 4200 万美元的新公链 Berachain 是什么来头？》
-原文来源：白泽研究院
-
-
-最近，新公链 Berachain 完成了 4200 万美元的融资，Polychain Capital 领投，Hack VC、dao5、Tribe Capital、Shima Capital、Robot Ventures、Goldentree Asset Management、OKX Ventures 参投。
-
-
-
-
-
-
-
-
-
-在此之前，查找不到任何关于它的融资信息，并且它也还未上线公共测试网（预计未来几周内推出）。是什么让 Berachain 一开局就能估值 4.2 亿美元？
-
-
-
-
-答案也许是「Next Generation of Liquidity」（下一代流动性）。
-
-
-
-
-Berachain 的创始人 Smokey 曾表示：
-
-
-
-
-「流动性共识证明是协议级别流动性和安全性之间第一个原始的协调激励。Berachain 有一个独特的机会，可以成为现有任何链中具有最大总可访问流动性的协议——在 EVM 和 Cosmos 生态系统中吸引资金，并在促进网络安全的同时促进一系列交易活动。如果执行得当，我们将构建一个具有链下解决方案的资本深度和速度以及链上生态系统的透明度和可定制性的协议。」
-
-
-
-
-流动性是链上黄金，是 DeFi 的活水之源，因为它，Curve 战争兴起，吸血鬼袭击泛滥。人们不可避免地会将流动性转移到最令人兴奋 / 最有利可图的途径。
-
-
-
-
-你或许听说过 PoW、PoS、PoH 等共识机制，现在，让我们来看看这个使用「流动性共识证明」，旨在成为「DeFi 原生链」的创新 L1。
-
-
-
-
-全新公链 Berachain 要做什么？ 
-
-
-
-
-当前 L1 的普遍问题之一是流动性，流入它们的流动性通常是短暂的，因为没有令人信服的激励措施来留住它们。开发团队…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1012,8 +770,8 @@ Berachain 的创始人 Smokey 曾表示：
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4947749710">
-        <time id="build-timestamp" datetime="2023-05-11T12:12:11.998Z">2023-05-11T12:12:11.998Z</time>
+      <a class="footer-link" href="https://github.com/joyc/bc-news/actions/runs/4951096313">
+        <time id="build-timestamp" datetime="2023-05-11T18:08:11.087Z">2023-05-11T18:08:11.087Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
