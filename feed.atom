@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-12T12:12:09.269Z</updated>
+    <updated>2023-05-12T18:08:22.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊上海升级后质押量逆势上涨，LSDFi 值得长期关注吗？]]></title>
+        <id>https://www.theblockbeats.info/news/36980</id>
+        <link href="https://www.theblockbeats.info/news/36980"/>
+        <updated>2023-05-12T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[以太坊上海升级后质押量不降反升，LSDFi的呼声水涨船高]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEV和隐私发展趋势：MEV技术现状与新型隐私设计]]></title>
+        <id>https://www.theblockbeats.info/news/36986</id>
+        <link href="https://www.theblockbeats.info/news/36986"/>
+        <updated>2023-05-12T12:01:48.000Z</updated>
+        <summary type="html"><![CDATA[MEV现状、技术动向与新设计]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特准新CEO什么来头？]]></title>
         <id>https://www.theblockbeats.info/news/36985</id>
@@ -742,26 +762,6 @@ BRC-20s 使用 JSON 数据的序数铭文来创建本质上是可替代的 NFT �
         <link href="https://www.theblockbeats.info/news/36952"/>
         <updated>2023-05-10T06:27:58.000Z</updated>
         <summary type="html"><![CDATA[与来自全世界的 Web3 建设者一起奔赴 5 月 19 日召开的以太坊社区开发大会 EDCON 2023，开启黑山 Web3 可组合性之旅]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[融资2500万美元，Polyhedra Network银河忠诚计划交互指南]]></title>
-        <id>https://www.theblockbeats.info/news/36950</id>
-        <link href="https://www.theblockbeats.info/news/36950"/>
-        <updated>2023-05-10T03:22:22.000Z</updated>
-        <summary type="html"><![CDATA[项目融资2500万美元，参与人数还不多，收好这份操作指南]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkEVM领域的新兴力量：以太坊Layer2扩展技术探讨]]></title>
-        <id>https://www.theblockbeats.info/news/36945</id>
-        <link href="https://www.theblockbeats.info/news/36945"/>
-        <updated>2023-05-10T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[以 ZK rollups 技术展开的项目不难看出最终目标都是 zkEVM，而从去年至今将是日常加密货币用户将能够首次尝试 zkEVM 的一年。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
