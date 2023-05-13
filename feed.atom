@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-12T18:08:22.706Z</updated>
+    <updated>2023-05-13T00:33:36.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -702,66 +702,6 @@ BRC-20s 使用 JSON 数据的序数铭文来创建本质上是可替代的 NFT �
         <link href="https://www.theblockbeats.info/news/36959"/>
         <updated>2023-05-10T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[在过去的一个月里，Rollup合约消耗的Gas占以太坊Gas总支出的10%以上。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5个近期值得关注的早期DeFi项目]]></title>
-        <id>https://www.theblockbeats.info/news/36958</id>
-        <link href="https://www.theblockbeats.info/news/36958"/>
-        <updated>2023-05-10T10:33:39.000Z</updated>
-        <summary type="html"><![CDATA[「近期DeFi领域融资Top 5」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delphi Ventures合伙人: 盘点推动Cosmos生态爆发的关键项目]]></title>
-        <id>https://www.theblockbeats.info/news/36956</id>
-        <link href="https://www.theblockbeats.info/news/36956"/>
-        <updated>2023-05-10T09:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos生态向外界展示了强大的增长势头和技术创新。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV-Burn：ETH下一次大升级，进一步缩减代币排放]]></title>
-        <id>https://www.theblockbeats.info/news/36955</id>
-        <link href="https://www.theblockbeats.info/news/36955"/>
-        <updated>2023-05-10T08:30:01.000Z</updated>
-        <summary type="html"><![CDATA[当 EIP-1559 于 2021 年 8 月在以太坊上实施时，这标志着网络开始销毁 ETH。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简析Sui生态DEX Turbos Finance Token经济学及IDO细则]]></title>
-        <id>https://www.theblockbeats.info/news/36954</id>
-        <link href="https://www.theblockbeats.info/news/36954"/>
-        <updated>2023-05-10T07:19:27.000Z</updated>
-        <summary type="html"><![CDATA[Turbos Finance 将于5月12日开启IDO]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化的Prover如何实现？Opside创新性提出ZKP的两步提交算法]]></title>
-        <id>https://www.theblockbeats.info/news/36953</id>
-        <link href="https://www.theblockbeats.info/news/36953"/>
-        <updated>2023-05-10T06:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Opside 提出的 ZKP 两步提交算法，在实现了 prover 去中心化的同时，能很好地规避针对 prover 的抢跑攻击，并鼓励更多的矿工提供稳定、持续的 ZKP 算力。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3可组合之旅7天后黑山启程，你上车么？| Web3 Composability Odyssey@EDCON]]></title>
-        <id>https://www.theblockbeats.info/news/36952</id>
-        <link href="https://www.theblockbeats.info/news/36952"/>
-        <updated>2023-05-10T06:27:58.000Z</updated>
-        <summary type="html"><![CDATA[与来自全世界的 Web3 建设者一起奔赴 5 月 19 日召开的以太坊社区开发大会 EDCON 2023，开启黑山 Web3 可组合性之旅]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
