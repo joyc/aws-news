@@ -224,26 +224,6 @@
           "wordCount": null,
           "title": "盘点比特币生态头部NFT，超550万被铸造铭文中哪些是「潜力股」",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36961",
-          "author": null,
-          "description": "「天价估值」、「交易所收购」，UniSat如何在3个月时间里捧红BRC-20叙事？未来又有哪些计划？",
-          "link": "https://www.theblockbeats.info/news/36961",
-          "publishedOn": "2023-05-11T03:43:26.000Z",
-          "wordCount": null,
-          "title": "专访UniSat：估值传闻10亿美元，10人小团队的比特币赛道新龙头",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36960",
-          "author": null,
-          "description": "原文标题：《\n\nBankless：BRC20 模因热终将「一地鸡毛」，比特币扩容是根本\n\n》\n原文来源：\n\nBankless\n\n\n\n原文编译：\n\n比推 BitpushNews\n\n\n\nMemecoin (模因币) 热潮正在蔓延！\n\n\n\n一种称为 BRC-20 的新代币类型吸引了开发人员，并在比特币区块链上提供了类似于以太坊生态中的垃圾币的体验。BRC-20 是使用 Ordinals 协议构建的，该协议最近因将 NFT 引入比特币而备受追捧。\n\n\n本文我们将深入研究 BRC-20 的所有内容，从基本定义到热炒的代币，同时剖析该炒作造成的链上大屠杀（并不是每个用户都对此感到高兴……）然后，我们讨论了我们对 BRC-20 市场状态的看法，以及为什么这种狂热与之前的狂热没有什么不同。\n\n\n「广场上的新霸主」\n\n\nBRC-20 最近激怒了那些 BTC 纯粹主义者，因为它仿照以太坊的 ERC-20 代币标准命名，并且是 Domo 的创意，Domo 自称为「终端链上的 Dune Wizards」（Dune Wizards：区块链分析师的昵称）。\n\n\nBRC-20s 使用 JSON 数据的序数铭文来创建本质上是可替代的 NFT 集合。虽然这个实验创造了一种可替代的 ERC-20 风格的代币，但它的用例相当有限。\n\n\n与可以在以太坊上的各种 dApp 中用作抵押品的 ERC-20 不同，BRC-20 仅限于铸造和转移功能。在没有比特币原生去中心化交易解决方案的情况下，资产销售可以通过托管或标志资金库功能在链上完成。\n\n\n在合约部署时，任何人都可以按照代币合约指定的增量免费（加上交易费用）铸造 BRC-20 代币——资产发行不能预铸造。尽管围绕该代币类型的讨论颇多，该项目的白皮书指出，支持 Taproot 的比特币资产发行并不是一个新概念，并引用 Taro 协议作为提供「明确更好的解决方案」。\n…",
-          "link": "https://www.theblockbeats.info/news/36960",
-          "publishedOn": "2023-05-11T03:24:52.000Z",
-          "wordCount": null,
-          "title": "Bankless：BRC-20模因命运短暂，比特币扩容是根本",
-          "imageUrl": null
         }
       ]
     },
