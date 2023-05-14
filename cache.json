@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36993",
+          "author": null,
+          "description": "5月15日至5月19日要点事件前瞻",
+          "link": "https://www.theblockbeats.info/news/36993",
+          "publishedOn": "2023-05-14T13:38:44.000Z",
+          "wordCount": null,
+          "title": "一周前瞻：Cetus Launchpad上线第二期项目Suia；Vitalik将出席以太坊大会EDCON",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36992",
           "author": null,
           "description": "市场迎来相对平静的一周，但或许平静之下蕴藏波澜。",
@@ -153,56 +163,6 @@
           "publishedOn": "2023-05-12T07:12:24.000Z",
           "wordCount": null,
           "title": "1kx合伙人Peter：设计代币网络的挑战及解决方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36974",
-          "author": null,
-          "description": "原文标题：《Small Applications, Growing Protocols》\n原文作者：Packy McCormick，Not Boring\n原文编译：Sleepy, BlockBeats\n\n\n\n\n我一直在思考，如今构建一个 App 已经不是什么难事，这时的我们就会面临这些问题：「价值会在哪里被捕获」、「是否应该建立护城河」、「如何建立护城河」、「如何应对种种竞争」……\n\n\n\n\n本文是我对这些问题的思考。\n\n\n\n\n小巧的应用程序，不断增长的协议\n\n\n\n\n\n短暂的手舞足蹈，小小的应用程序闪烁，然后消亡，无尽的变化在不断扩大。——ChatGPT\n\n\n\n\n如今，搭建一个有趣的应用比以往任何时候都更容易。但是想让这些应用持续运转，变成持久的公司，却比以往任何时候都更困难。\n\n\n这两个事情是相对又相融的，就像阴阳。\n\n\n\n\n\n\n\n\n\n小应用是一种极具潜力的新模式，但是目前还没有行之有效的商业模式。小应用所创造的潜在价值比他们能够捕获到的价值更多，而如果小应用和协议结合便能填补这一空白。\n\n\n如果每个人都能做某件事，那么做这件事就没有任何好处，但你还是必须做这件事，只是为了跟上时代。\n\n\n\n\n那篇文章是关于电商的，但我写到，同样的模式在各个行业的垂直领域都在上演。\n\n\n\n\n「它正在发生在自媒体领域中，Substack 为作者提供了一个简单的方法来试图让自己成为下一个本·汤普森。它发生在游戏领域中，Epic Games 正在开发工具并提供免费使用，以扩大整体潜在市场。它正在发生在人工智能领域，OpenAI 让每个人都能使用 ChatGPT，以便让人们在此基础上进行构建。」\n\n\n\n\n近几个月来，随着 GPT-3 升级为 GPT-4，上一段最后一句话得到了更有力的印证。而且，这不仅仅是 GPT 营销话术，事实上，人工智能的确使任何人都能更容易地自己构建应用程序，以满足越来越多的小…",
-          "link": "https://www.theblockbeats.info/news/36974",
-          "publishedOn": "2023-05-12T05:42:01.000Z",
-          "wordCount": null,
-          "title": "当应用不会再有护城河，价值该被如何捕获",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36976",
-          "author": null,
-          "description": "投票治理大家都很熟悉，源自 Curve 推出的 veTokenomic 模型，在该模型中，用户必须将其治理 token 按照一定期限锁定为 veToken 间，以提高其获得的 APR 并通过投票来决定协议的治理 token 的释放，有助于平台控制治理 token 通胀，并将更多治理 token 分配给长期持有者。然而 veTokenomics 模型并不是很完善，仍有改进空间，诸如以下问题：\n\n\n\n\n-买入和锁定一段时间的要求阻止了很多用户的参与；\n\n\n-veToken 持有者的收入不高，甚至可能为零；\n\n\n-高成本的投票权——用户必须购买、锁定 token 获得投票权，但没有获得被动收入的资格。\n\n\n\n\n而随着 DeFi 的创新，致力于高质押收益又可以提高投票权的解决方案出现了，今天为大家介绍一个通过引入 veToken 机制来最大化用户收益的项目——Magpie。\n\n\n\n\nMagpie 简介\n\n\n\n\nMagpie 是通过与 Wombat 交易平台合作建立的收益聚合器和多链 DeFi 应用，该项目利用了 Curve 的 veToken 机制，通过减少供应来奖励长期持有者，同时将治理权分配给 token 持有者。\n\n\n\n\n该协议由交易平台 Wombat 支持，且 Magpie 目前管理着 Wombat 约 30% 的治理权力，帮助该协议优化其多种跨链 DeFi 服务。截止发文，Magpie 锁仓量为 1916 万美元，而 Magpie 平台涉及到两类重要 token，分别是 WOM 和 MGP，WOM 是 Wombat 交易平台的 token，而 MGP 是 Magpie 的平台 token。\n\n\n\n\n用户可以通过该平台将他们的稳定币、BNB、Liquid BNB、frxETH、ETH、WOM、mWOM 存入单边池中以获得高 APR，同时支持 Wombat 交易平台的治理投票…",
-          "link": "https://www.theblockbeats.info/news/36976",
-          "publishedOn": "2023-05-12T05:29:25.000Z",
-          "wordCount": null,
-          "title": "治理收益聚合器Magpie创新优势及其玩法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36973",
-          "author": null,
-          "description": "原文作者：Hercules | DeFi, 加密 KOL\n原文编译：Felix, PANews\n\n\n除了从 PEPE 中获利约 89 万美元，开头为「0xe5c」的钱包还通过交易 BEN 获利约 32 万美元。本文作者研究和分析该钱包的具体交易情况后发现，巨额利润背后或涉嫌内幕交易。\n\n\n当浏览 DexCheck 上的 Top Traders 列表时，一个地址引起了作者的注意。从数据来看，这个地址似乎从以太坊链上的 BEN 交易中获利约 32 万美元（324,751 美元）。\n\n\n\n\n\n而通过在数据分析平台 DexCheck 进一步分析该地址后发现，该钱包不仅通过交易 PEPE 赚了约 89 万美元（888,255.79 美元）的巨额利润，还从 BLUR 中赚取了 40,921 美元。\n\n\n\n\n\n这条巨鲸看起来很无情，「会杀死小鱼（散户）」。5 月 8 日，该地址在单笔交易中卖出了价值 20 余万美元（207,574.88 美元）的 BEN，并于 5 月 10 日又在多笔交易中进一步卖出了价值近 9.7 万美元的 BEN。\n\n\n\n\n\n这条「巨鲸」似乎知道一些内幕消息，能在诸多代币中有选择性地进行精准交易，赚取了巨额利润。而@criptoyodo91发布推文提到这个巨鲸钱包来自 BEN 的内部。\n\n\n\n\n\n\n\n\n\n\n\n\n另外，本文还查看了该钱包最近交易的代币，清单很长，包括：GONER（Goner），BITCOIN（HarryPotterObama），PPC(PepeChat)，GP(Gold Pieces)，PHAT（Party Hat）。不过购买这些代币风险极高，请 DYOR。我们永远不知道该巨鲸未来会如何交易，但这绝对是个值得追踪的有趣钱包。\n\n\n\n\n\n原文链接",
-          "link": "https://www.theblockbeats.info/news/36973",
-          "publishedOn": "2023-05-12T04:04:48.000Z",
-          "wordCount": null,
-          "title": "从PEPE和BEN赚取超百万美元，「聪明钱」精准扫货背后或为老鼠仓交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36971",
-          "author": null,
-          "description": "原文标题：《\n\n黑客是吧？给你个成为好人的机会：如何靠漏洞赏金谈判追回资产？\n\n》\n\n原文来源：\n\nCertiK\n\n\n\n自 2020 年 10 月至 2023 年 3 月，Web3.0 领域中在遭受攻击后仍能收回或部分收回损失资金的事件共有 25 起。\n\n\n\n在这 25 起事件中，被盗资金总计约 13.5 亿美元，其中的 9.92 亿美元被返还（73%）。\n\n\n今年我们都有所耳闻的被盗资金返还事件有Euler Finance、Allbridge 和 Sentiment Protocol，这三个项目均与攻击者进行了成功的谈判。\n\n\n但其实这个情况是处于一个持续的灰色地带中——攻击者们既不是明确定义中参加漏洞赏金计划的白帽黑客，也并非是纯粹的盗取资产的黑帽黑客，我们可以将其称为「灰帽黑客」以作区分并加以分析。\n\n\n漏洞的恶意利用在多年来一直困扰着 Web3.0，这些恶意安全事件针对的目标往往是协议、智能合约和基于软件的应用程序，如自托管钱包，而其结果也通常是黑客「功成名就」，携款潜逃。\n\n\n然而现在已经有越来越多的协议可以与攻击者成功谈判并协商资金返还。\n\n\nCertiK 统计了 2020 年 10 月至 2023 年 3 月中被利用而后又被返还资金的25 个协议数据：\n\n\n总计约 13.5 亿美元的资金被盗\n\n\n\n总计约 9.92 亿美元 (73%) 的资金被退还\n\n\n总计约 3.145 亿美元 (23.1%) 的资金被攻击者保留\n\n\n其余约 3.9% 的资金在此过程中丢失或被冻结\n\n\n2023 年到目前为止，8 个导致约 2.215 亿美元资产被盗的重大漏洞恶意利用事件中有有大约 1.88 亿美元（84.8%）被退还。\n\n\n一些未归还的资金被保留作为白帽赏金，以引起人们对协议漏洞的关注。\n\n\n其他未返还的资金的部分情况是源自攻击者的要求。\n\n\n而在这 25 个协议中，有四个…",
-          "link": "https://www.theblockbeats.info/news/36971",
-          "publishedOn": "2023-05-12T03:30:50.000Z",
-          "wordCount": null,
-          "title": "如何与黑客谈判，靠漏洞赏金收回资产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36968",
-          "author": null,
-          "description": "原文作者：VIKTOR\n原文编译：Peng SUN，Foresight News\n\n\nGCR 是一个匿名交易员，他在 2021 年牛市爆红，因为其对交易走势似乎了如指掌。作为交易规模巨大的著名做空大师，他的交易案例令人印象深刻，譬如，他在 2021 年 5 月公开做空 DOGE 的顶部，在 2021 年 11 月公开做空 SHIB 与元宇宙代币（牛市高峰期），并在 2022 年 LUNA 崩溃前公开做空 LUNA（他与 Do Kwon 进行 1000 万美元打赌）。尽管他现在在社交媒体上发声的频次比上轮牛市要少得多，但我们仍然可以读一读他过去的推文，本文做了一些整理，其中有很多观点值得被收藏并反复阅读。\n\n\n在阅读 GCR 推文前，我先总结提炼了一些 GCR 观点中值得学习的地方：\n\n\n- 整数关口是谢林点，即要么是潜在的支撑点，要么是阻力点，特别是在没有估值理由的情况下。\n\n\n- 低单位偏差能够吸引散户：当你拥有数以百万计的 dogcoins（... 是 1 美元的 10000 倍）时，为什么你会购买不到十分之一的 Bitcorne？\n\n\n- 不要做空低市值项目：如果 GCR 遵循这一规则，你也应该这样做。\n\n\n- 强者恒强，反之亦然。减少赢家组合、增加输家组合是一个糟糕的策略，你最好反其道而行之。\n\n\n- 从 SNL 与马斯克的表演秀来看，做空每一次 DOGE 拉盘是你可以采取的成功率最高的交易之一。\n\n\n- GCR 的优势与 K 线分析或任何复杂的策略无关，他只凭直觉。\n\n\n- 与旧代币相比，新代币有一个优点：充满希望，缺乏持有人。\n\n\n- 市场对新闻的反应方式提供了很多关于市场参与者的偏见（看涨或看跌）与情绪的信息，这比新闻的真实性更重要。\n\n\n- 除了赚钱，不要胡思乱想。\n\n\n- 在山寨周期中，你应该在开始时将风险最大化，并随着时间的推移慢慢降低风险，但大多数人的…",
-          "link": "https://www.theblockbeats.info/news/36968",
-          "publishedOn": "2023-05-12T01:00:01.000Z",
-          "wordCount": null,
-          "title": "传奇交易员GCR的30条交易心得",
           "imageUrl": null
         }
       ]
