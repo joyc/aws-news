@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-13T18:07:41.814Z</updated>
+    <updated>2023-05-14T00:37:13.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -721,46 +721,6 @@ GCR 是一个匿名交易员，他在 2021 年牛市爆红，因为其对交易�
         <link href="https://www.theblockbeats.info/news/36963"/>
         <updated>2023-05-11T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[引领 BTC 的复兴叙事，BRC-20 可能是第一个，但不太会是最后一个。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX与SignalPlus达成深度合作，将为用户提供高级期权交易工具]]></title>
-        <id>https://www.theblockbeats.info/news/36970</id>
-        <link href="https://www.theblockbeats.info/news/36970"/>
-        <updated>2023-05-11T11:26:39.000Z</updated>
-        <summary type="html"><![CDATA[「OKX 希望通过扩展期权交易工具和产品套件为全球用户提供更优交易体验。」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梳理比特币UTXO、Ordinals、BRC20技术逻辑关系]]></title>
-        <id>https://www.theblockbeats.info/news/36967</id>
-        <link href="https://www.theblockbeats.info/news/36967"/>
-        <updated>2023-05-11T09:15:01.000Z</updated>
-        <summary type="html"><![CDATA[本文是硬核科普，探究比特币UTXO、Ordinals、Brc20背后的叙事经济学]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话Pacman：Blur如何拓宽NFT交易之路]]></title>
-        <id>https://www.theblockbeats.info/news/36962</id>
-        <link href="https://www.theblockbeats.info/news/36962"/>
-        <updated>2023-05-11T07:51:01.000Z</updated>
-        <summary type="html"><![CDATA[对话Blur核心贡献者Pacman，听他讲述Blur的建立初衷以及目标，新产品Blend将能如何再次搅动NFT市场？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点比特币生态头部NFT，超550万被铸造铭文中哪些是「潜力股」]]></title>
-        <id>https://www.theblockbeats.info/news/36964</id>
-        <link href="https://www.theblockbeats.info/news/36964"/>
-        <updated>2023-05-11T07:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Ordinals市场交易量超1亿美元，有哪些比特币NFT项目值得关注？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
