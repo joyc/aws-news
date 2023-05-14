@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36990",
+          "author": null,
+          "description": "Tangible引入了新颖的RWA使用案例和一种具有内在收益和再平衡机制的创新型稳定币。",
+          "link": "https://www.theblockbeats.info/news/36990",
+          "publishedOn": "2023-05-14T02:11:17.000Z",
+          "wordCount": null,
+          "title": "详解RWA DeFi协议Tangible",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36989",
           "author": null,
           "description": "解绑攻击和缓解措施，了解延迟、MEV-Boost和共识机制之间的关键关系。",
@@ -173,16 +183,6 @@
           "publishedOn": "2023-05-12T01:00:01.000Z",
           "wordCount": null,
           "title": "传奇交易员GCR的30条交易心得",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36963",
-          "author": null,
-          "description": "引领 BTC 的复兴叙事，BRC-20 可能是第一个，但不太会是最后一个。",
-          "link": "https://www.theblockbeats.info/news/36963",
-          "publishedOn": "2023-05-11T14:00:01.000Z",
-          "wordCount": null,
-          "title": "BTC资产复兴下一个叙事，为什么要关注RGB协议？",
           "imageUrl": null
         }
       ]
