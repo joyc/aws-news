@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37005",
+          "author": null,
+          "description": "5月15日加密行业重要资讯一览",
+          "link": "https://www.theblockbeats.info/news/37005",
+          "publishedOn": "2023-05-15T14:36:10.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜Worldcoin注册用户接近170万；Lifeform以3亿美元估值完成新一轮融资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37002",
+          "author": null,
+          "description": "“当所有Web3的人都‘听得懂人话’的那一刻，Web3时代就真的来临了。”",
+          "link": "https://www.theblockbeats.info/news/37002",
+          "publishedOn": "2023-05-15T14:00:01.000Z",
+          "wordCount": null,
+          "title": "专访BeWater：当互联网OG审视Web3时，他们如何重构行业逻辑？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37001",
+          "author": null,
+          "description": "即使代币经济模型再怎么精心设计、优化，也只是在更加隐蔽和巧妙地进行旁氏式欺骗。只有打造一个真正去中心化的游戏，才能使游戏经济变得可持续。",
+          "link": "https://www.theblockbeats.info/news/37001",
+          "publishedOn": "2023-05-15T13:00:01.000Z",
+          "wordCount": null,
+          "title": "别再被旁氏欺骗了，Web3游戏必须走向真正去中心化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37004",
+          "author": null,
+          "description": "用数据说话，对比历史评估当前 Launchpad 的收益水平，以及对标 ETH 质押回报计算长期持有 BNB 的打新回报率",
+          "link": "https://www.theblockbeats.info/news/37004",
+          "publishedOn": "2023-05-15T10:38:29.000Z",
+          "wordCount": null,
+          "title": "回顾Binance Launchpad历史数据，分析BNB长期持有收益",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37003",
           "author": null,
           "description": "虽然莱特币的减半事件即将到来，本文将探讨减半事件的心理学、莱特币是否还需要存在以及市场对其的反应。",
@@ -143,36 +183,6 @@
           "publishedOn": "2023-05-13T06:30:56.000Z",
           "wordCount": null,
           "title": "多角度数据分析Arbitrum，相比Optimism和zkSync而言具有哪些优势？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36984",
-          "author": null,
-          "description": "链上共创将催生出更好的产品、更强大的社区和资本主义消费的美丽飞轮。",
-          "link": "https://www.theblockbeats.info/news/36984",
-          "publishedOn": "2023-05-13T06:00:01.000Z",
-          "wordCount": null,
-          "title": "Multicoin Capital：从UGC到UGP，Web3消费品牌与社区共创",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36987",
-          "author": null,
-          "description": "原文标题：《Layershit 的诞生是开发者向贪婪资本的亮剑》\n原文来源：Caduceus\n\n\n\n2023 年 5 月，Caduceus 链上发行了首个 Memecoin LayerShit。翻阅其推特，在醒目的介绍中仍能看到其对资本「开战」的痕迹。标签上也赫然写着：「被资本绑架的开发者和项目都是垃圾，以太坊和他的 layer2 都是」。\n\n\n\n\n\nLayershit 的理想主义\n\n\n对一个规模比自身要大的项目提出质疑、展开攻击，这样的举动很难不引发种种猜想，加上 Layershit 本身就是一个 memecoin，何德何能去碰瓷比自己量级大数千倍的以太坊生态。\n\n\n不过 Layershit 倒也不太介意那个「螳臂当车」的评论，在推特中提到「起初我们也是以太坊上的开发者，但自从他被资本裹挟后，我们就知道他病了，是时候该离开了，尽管他已经很庞大了，但垃圾就是垃圾。」\n\n\n实际上，在 Layershit 的发起者们看来，技术是纯粹的，是神圣的，容不得半点玷污，在推特中他们提到「以太坊在创立初期其实就存在各种业务逻辑的缺陷，长久的发展中他们也意识到了自己本身存在的问题，但其野蛮的生长，让以太坊陷入了船大难掉头的境地，只能在原有基础上缝缝补补，为了业务上的扩张，以太坊有了 layer2 的概念，layer2 的本意是解决以太坊的扩容问题，但是受到资本与流量竞争的反噬，过分的空投激励反而成了羊毛党的聚集地，拥堵的 layer2 和高昂的 gas 费将真正对区块链有需求的用户和开发者拒之门外。」\n\n\n\n\n\n因此，随着 meme 季的发酵，在 gas 费逐渐上升的同时，Layershit 选择泼出一盆冷水，因为 Layershit 的发起者们考虑到，这个疯狂的行业必须要做出些改变。\n\n\n促使这一决定的最主要因素，是他们对资本的反感，与失望，他提到「近期 meme 的爆火，更是让以太链上的 gas 费高升，这本身就降低了用户的区块链体验，以及损害了链上开发者的利益，但就是在这样的情况下，用户仍然对以太坊以及其扩容技术抱有期待，这一切的幕后操控就是资本的助推，通过补贴，制造风口和舆论，把用户的行为习惯变成了逐利和投机。这就导致了一些很好的技术，难以展现在大众的面前。」\n\n\n\n\n\n「什么是骗子，承诺与事实违背的就是骗子，号称解决某一技术难题却没有解决的就是骗子。」\n\n\n短短的几天之内，Layershit 连发 90 余条推特，抨击了了半个行业，却也收获了很多同理者的支持。究竟是什么让 Layershit 能有「一夫当关」的底气？\n\n\n\n\n答案显而易见，背靠了另一个有纯粹技术理想的团队 Caduceus，这就是底气。\n\n\n\n\n\n其实关注 Caduceus 公链的朋友们不难可以察觉到，从开展开发者活动，再到与各个区外流量的合作，Caduceus 一直在尝试主动走进大众的视野。\n\n\n「能给行业带来什么变化？」这是 Caduceus 链以及 Lyershit 对整个行业的思考以及自省。\n\n\n做对的事情，终将会留下来\n\n\n真正沉淀于技术的人，崇尚自由，追求自发的创新。于是他们竭尽所能的打开感官，用代码去经历这个世界，一个新的世界观也由此形成。就像 Layershit 的发起者说「区块链的发展是一个长期的过程，而不是资本的一蹴而就。」\n\n\n真正的区块链是什么样的？Layershit 的发起者朴实的回答道「便宜，好用」在他眼里，技术永远都是很纯粹的，有些冒险激进还带些浪漫主义。\n\n\n整个行业内，不乏一些项目都在做着「说服」的工作。TPS、共识、经济系统... 他们用自创的技术描述做噱头，往往却忽略了「本质」。\n\n\nLayershit 的发起目的看起来似乎都蒙上了「理想主义」的滤镜。但 Layershit 的发起者者坦言「做对的事情，总会留下来的。」\n\n\n后记\n\n\n虽未有过接触，但在 Layershit 的社交媒体中，不难看出这个团队基本上是一个沉浸在「技术美学」世界里的人，是极其自我的与极其抽象的。\n\n\n「始于 meme，终于理想。」这是笔者对 Layershit 的评价。希望 Layershit 及其所在的 Caduceus 公链能一直坚持他们的纯粹技术理想，给真正的区块链开发者和用户一个「便宜，好用」的平台。\n\n\n本文来自投稿，不代表BlockBeats观点",
-          "link": "https://www.theblockbeats.info/news/36987",
-          "publishedOn": "2023-05-13T04:39:27.000Z",
-          "wordCount": null,
-          "title": "Layershit：开发者向贪婪资本的一次亮剑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36982",
-          "author": null,
-          "description": "传统金融市场近几年来以 ETF 为代表的指数型产品发展迅速，呈现出 Smart Beta ETF-主动管理 ETF 市场资金流入增速高于普通指数 ETF 产品的特征。",
-          "link": "https://www.theblockbeats.info/news/36982",
-          "publishedOn": "2023-05-13T01:00:01.000Z",
-          "wordCount": null,
-          "title": "LD Capital：美股指数收益增强策略视角的Crypto资产管理",
           "imageUrl": null
         }
       ]
