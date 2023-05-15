@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36996",
+          "author": null,
+          "description": "上线一个月，以太坊主网交易量一度前三的 Maverick，TVL 仅不到 Uniswap 和 Curve 百分之一。\n\n\n在以太坊于 4 月 12 日完成上海升级之后，超过 1800 万个 ETH 被解锁，明显地看到了 DeFi 市场的活跃度增加和一些显著的变化。\n\n\n然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。其一是 AMM 的资金利用率偏低，无论是早期的 xy=k 模型还是后来的 Uniswap V3 模型，大部分的交易对在去中心化交易所上的深度都不够。其二是无产损失还是没有得到本质上的解决，依靠代币经济学的补偿终究可持续性不佳。\n\n\n\n\n例如，尽管在总锁定价值（TVL）和交易量上占据主导地位，但 Uniswap 上的大多数流动性提供者仍在亏损。掉期费用通常不足以抵消无常损失，尤其对于集中和被动流动性而言。\n\n\nDeFi 行业迫切需要解决这一问题，而 Maverick 协议恰逢其时地进入了用户的视野。\n\n\n\n\n根据 Defillama 的数据，截至 4 月 21 日，在以太坊网络 DEX 排行榜上，Uniswap 位居榜首，24 小时交易量达 12.4 亿美元，周涨幅达 73.17%；紧随其后的是 Curve（1.31 亿美元），周涨幅达 24.71%。\n\n\n\n\n令人瞩目的是，Maverick Protocol 成功跻身第三位，24 小时交易量达到了 3645 万美元，周涨幅达 58.86%。\n\n\n\n\n\n\n\nMaverick AMM 如何提高流动性效率\n\n\n\n\nMaverick Protocol 是一种根据交易价格移动的，动态分布自动做市商（AMM），旨在提供更深的流动性、为去中心化金融市场带来最佳流动性并提高资本效率，在此基础上，提供工具，最大化交易手续费收益，或者减少、规避无偿损失。\n\n\n协…",
+          "link": "https://www.theblockbeats.info/news/36996",
+          "publishedOn": "2023-05-15T03:41:27.000Z",
+          "wordCount": null,
+          "title": "对标Uni V3，日均资本效率达100%以上Maverick是什么来头",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36995",
+          "author": null,
+          "description": "Inscription 和 BRC-20 的火热所导致的比特币网络拥堵手续费高昂这一事宜已经在比特币开发者社区中有所讨论。",
+          "link": "https://www.theblockbeats.info/news/36995",
+          "publishedOn": "2023-05-15T03:30:55.000Z",
+          "wordCount": null,
+          "title": "BRC-20导致网络拥堵，比特币开发者们怎么看？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36994",
+          "author": null,
+          "description": "EIP6969处于非常早期的论证阶段，一旦执行通过对于开发者和矿工会产生非常大的利益影响。",
+          "link": "https://www.theblockbeats.info/news/36994",
+          "publishedOn": "2023-05-15T03:18:13.000Z",
+          "wordCount": null,
+          "title": "解读CSR协议EIP-6969：会再次改变以太坊经济模型吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36993",
           "author": null,
           "description": "5月15日至5月19日要点事件前瞻",
@@ -93,16 +123,6 @@
           "publishedOn": "2023-05-13T01:00:01.000Z",
           "wordCount": null,
           "title": "LD Capital：美股指数收益增强策略视角的Crypto资产管理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36980",
-          "author": null,
-          "description": "以太坊上海升级后质押量不降反升，LSDFi的呼声水涨船高",
-          "link": "https://www.theblockbeats.info/news/36980",
-          "publishedOn": "2023-05-12T14:00:01.000Z",
-          "wordCount": null,
-          "title": "以太坊上海升级后质押量逆势上涨，LSDFi 值得长期关注吗？",
           "imageUrl": null
         }
       ]

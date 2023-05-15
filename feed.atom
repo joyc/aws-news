@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-15T00:36:53.111Z</updated>
+    <updated>2023-05-15T06:09:45.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对标Uni V3，日均资本效率达100%以上Maverick是什么来头]]></title>
+        <id>https://www.theblockbeats.info/news/36996</id>
+        <link href="https://www.theblockbeats.info/news/36996"/>
+        <updated>2023-05-15T03:41:27.000Z</updated>
+        <summary type="html"><![CDATA[上线一个月，以太坊主网交易量一度前三的 Maverick，TVL 仅不到 Uniswap 和 Curve 百分之一。
+
+
+在以太坊于 4 月 12 日完成上海升级之后，超过 1800 万个 ETH 被解锁，明显地看到了 DeFi 市场的活跃度增加和一些显著的变化。
+
+
+然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。其一是 AMM 的资金利用率偏低，无论是早期的 xy=k 模型还是后来的 Uniswap V3 模型，大部分的交易对在去中心化交易所上的深度都不够。其二是无产损失还是没有得到本质上的解决，依靠代币经济学的补偿终究可持续性不佳。
+
+
+
+
+例如，尽管在总锁定价值（TVL）和交易量上占据主导地位，但 Uniswap 上的大多数流动性提供者仍在亏损。掉期费用通常不足以抵消无常损失，尤其对于集中和被动流动性而言。
+
+
+DeFi 行业迫切需要解决这一问题，而 Maverick 协议恰逢其时地进入了用户的视野。
+
+
+
+
+根据 Defillama 的数据，截至 4 月 21 日，在以太坊网络 DEX 排行榜上，Uniswap 位居榜首，24 小时交易量达 12.4 亿美元，周涨幅达 73.17%；紧随其后的是 Curve（1.31 亿美元），周涨幅达 24.71%。
+
+
+
+
+令人瞩目的是，Maverick Protocol 成功跻身第三位，24 小时交易量达到了 3645 万美元，周涨幅达 58.86%。
+
+
+
+
+
+
+
+Maverick AMM 如何提高流动性效率
+
+
+
+
+Maverick Protocol 是一种根据交易价格移动的，动态分布自动做市商（AMM），旨在提供更深的流动性、为去中心化金融市场带来最佳流动性并提高资本效率，在此基础上，提供工具，最大化交易手续费收益，或者减少、规避无偿损失。
+
+
+协…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRC-20导致网络拥堵，比特币开发者们怎么看？]]></title>
+        <id>https://www.theblockbeats.info/news/36995</id>
+        <link href="https://www.theblockbeats.info/news/36995"/>
+        <updated>2023-05-15T03:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Inscription 和 BRC-20 的火热所导致的比特币网络拥堵手续费高昂这一事宜已经在比特币开发者社区中有所讨论。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读CSR协议EIP-6969：会再次改变以太坊经济模型吗？]]></title>
+        <id>https://www.theblockbeats.info/news/36994</id>
+        <link href="https://www.theblockbeats.info/news/36994"/>
+        <updated>2023-05-15T03:18:13.000Z</updated>
+        <summary type="html"><![CDATA[EIP6969处于非常早期的论证阶段，一旦执行通过对于开发者和矿工会产生非常大的利益影响。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一周前瞻：Cetus Launchpad上线第二期项目Suia；Vitalik将出席以太坊大会EDCON]]></title>
         <id>https://www.theblockbeats.info/news/36993</id>
@@ -171,16 +241,6 @@ Layershit 的发起目的看起来似乎都蒙上了「理想主义」的滤镜�
         <link href="https://www.theblockbeats.info/news/36982"/>
         <updated>2023-05-13T01:00:01.000Z</updated>
         <summary type="html"><![CDATA[传统金融市场近几年来以 ETF 为代表的指数型产品发展迅速，呈现出 Smart Beta ETF-主动管理 ETF 市场资金流入增速高于普通指数 ETF 产品的特征。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊上海升级后质押量逆势上涨，LSDFi 值得长期关注吗？]]></title>
-        <id>https://www.theblockbeats.info/news/36980</id>
-        <link href="https://www.theblockbeats.info/news/36980"/>
-        <updated>2023-05-12T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[以太坊上海升级后质押量不降反升，LSDFi的呼声水涨船高]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
