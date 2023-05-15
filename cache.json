@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37003",
+          "author": null,
+          "description": "虽然莱特币的减半事件即将到来，本文将探讨减半事件的心理学、莱特币是否还需要存在以及市场对其的反应。",
+          "link": "https://www.theblockbeats.info/news/37003",
+          "publishedOn": "2023-05-15T09:29:05.000Z",
+          "wordCount": null,
+          "title": "LTC即将迎来减半，市场的冷漠与未来前景分析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37000",
+          "author": null,
+          "description": "Omni Network 旨在连通不同的Rollup方案，通过将以太坊再质押协议 EigenLayer 和 Cosmos SDK 融合到一个统一的平台中，同时从ETH本身获得安全性。",
+          "link": "https://www.theblockbeats.info/news/37000",
+          "publishedOn": "2023-05-15T06:51:39.000Z",
+          "wordCount": null,
+          "title": "以太坊互操作性基础设施Omni Network：连通Rollup，创造流动性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36999",
+          "author": null,
+          "description": "上周的融资总数为24笔，总金额约14270万美元，平均融资金额为593.58万美元。",
+          "link": "https://www.theblockbeats.info/news/36999",
+          "publishedOn": "2023-05-15T06:38:55.000Z",
+          "wordCount": null,
+          "title": "2023年第21周融资精选，隐私跨链协议Webb Protocol获投700万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36998",
+          "author": null,
+          "description": "根据Kava社区投票，所有的排放将在2023年12月31日永久结束",
+          "link": "https://www.theblockbeats.info/news/36998",
+          "publishedOn": "2023-05-15T04:31:37.000Z",
+          "wordCount": null,
+          "title": "Kava EVM上线一周年，释放Kava生态更多可能性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36997",
+          "author": null,
+          "description": "5 月 14 日，于葡萄牙举办的 ETHGlobal Lisbon 主题黑客松正式落幕。",
+          "link": "https://www.theblockbeats.info/news/36997",
+          "publishedOn": "2023-05-15T03:59:44.000Z",
+          "wordCount": null,
+          "title": "盘点10家ETHGlobal Lisbon黑客松决赛项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36996",
           "author": null,
           "description": "上线一个月，以太坊主网交易量一度前三的 Maverick，TVL 仅不到 Uniswap 和 Curve 百分之一。\n\n\n在以太坊于 4 月 12 日完成上海升级之后，超过 1800 万个 ETH 被解锁，明显地看到了 DeFi 市场的活跃度增加和一些显著的变化。\n\n\n然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。其一是 AMM 的资金利用率偏低，无论是早期的 xy=k 模型还是后来的 Uniswap V3 模型，大部分的交易对在去中心化交易所上的深度都不够。其二是无产损失还是没有得到本质上的解决，依靠代币经济学的补偿终究可持续性不佳。\n\n\n\n\n例如，尽管在总锁定价值（TVL）和交易量上占据主导地位，但 Uniswap 上的大多数流动性提供者仍在亏损。掉期费用通常不足以抵消无常损失，尤其对于集中和被动流动性而言。\n\n\nDeFi 行业迫切需要解决这一问题，而 Maverick 协议恰逢其时地进入了用户的视野。\n\n\n\n\n根据 Defillama 的数据，截至 4 月 21 日，在以太坊网络 DEX 排行榜上，Uniswap 位居榜首，24 小时交易量达 12.4 亿美元，周涨幅达 73.17%；紧随其后的是 Curve（1.31 亿美元），周涨幅达 24.71%。\n\n\n\n\n令人瞩目的是，Maverick Protocol 成功跻身第三位，24 小时交易量达到了 3645 万美元，周涨幅达 58.86%。\n\n\n\n\n\n\n\nMaverick AMM 如何提高流动性效率\n\n\n\n\nMaverick Protocol 是一种根据交易价格移动的，动态分布自动做市商（AMM），旨在提供更深的流动性、为去中心化金融市场带来最佳流动性并提高资本效率，在此基础上，提供工具，最大化交易手续费收益，或者减少、规避无偿损失。\n\n\n协…",
