@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-16T12:13:10.702Z</updated>
+    <updated>2023-05-16T18:08:23.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜Justin Sun称将追缴李林弟弟Huobi内资产；OKX首次公布Web3钱包比特币生态路线图]]></title>
+        <id>https://www.theblockbeats.info/news/37039</id>
+        <link href="https://www.theblockbeats.info/news/37039"/>
+        <updated>2023-05-16T15:26:27.000Z</updated>
+        <summary type="html"><![CDATA[5月16日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度解析：在发送1个DAI时发生了什么？]]></title>
+        <id>https://www.theblockbeats.info/news/37034</id>
+        <link href="https://www.theblockbeats.info/news/37034"/>
+        <updated>2023-05-16T10:29:40.000Z</updated>
+        <summary type="html"><![CDATA[这不是「神奇」的互联网货币。你可以看到每一块代码的移动，甚至能够触摸到它们。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRC-20后，比特币DeFi还远么？]]></title>
+        <id>https://www.theblockbeats.info/news/37033</id>
+        <link href="https://www.theblockbeats.info/news/37033"/>
+        <updated>2023-05-16T10:14:47.000Z</updated>
+        <summary type="html"><![CDATA[比特币的基本设计孕育了一个安全、去中心化和抗审查的网络，但在基础层没有智能合约功能。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抢滩比特币基础设施，OKX等交易平台争相支持BRC-20]]></title>
+        <id>https://www.theblockbeats.info/news/37032</id>
+        <link href="https://www.theblockbeats.info/news/37032"/>
+        <updated>2023-05-16T09:21:06.000Z</updated>
+        <summary type="html"><![CDATA[没人能想到，十五年后，Ordinals 的出现会为比特币带另外的价值想象，带来新叙事。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果美债违约：对市场与比特币的机遇与影响]]></title>
         <id>https://www.theblockbeats.info/news/37011</id>
@@ -306,16 +346,6 @@ Maverick Protocol 是一种根据交易价格移动的，动态分布自动做�
         <link href="https://www.theblockbeats.info/news/36991"/>
         <updated>2023-05-14T06:30:02.000Z</updated>
         <summary type="html"><![CDATA[上一轮发明的去中心化融资模式 IDO 再次回归，其相对公平的参与机会以及确定性的投资回报成为散户投资者竞相争抢的一块香馍馍。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解RWA DeFi协议Tangible]]></title>
-        <id>https://www.theblockbeats.info/news/36990</id>
-        <link href="https://www.theblockbeats.info/news/36990"/>
-        <updated>2023-05-14T02:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Tangible引入了新颖的RWA使用案例和一种具有内在收益和再平衡机制的创新型稳定币。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
