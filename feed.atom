@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-16T06:09:05.483Z</updated>
+    <updated>2023-05-16T12:13:10.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如果美债违约：对市场与比特币的机遇与影响]]></title>
+        <id>https://www.theblockbeats.info/news/37011</id>
+        <link href="https://www.theblockbeats.info/news/37011"/>
+        <updated>2023-05-16T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：
+
+SanTi 小汤哥 ，李庚澈  & 纳西妲
+
+
+
+在金融世界里，美国国债利率在 CFA 等各类教材中一直被当做无风险利率 R0 来进行价值计算与未来估值等等，特别是金融系统教育出身的精英眼中，这几乎等于了 0 风险。但如果这个无风险参数变成了风险的话，会发生什么呢？如果美国国债违约，那么这将会对全球经济和金融市场产生深远影响呢。
+
+
+以下是从流动性、美元价值和比特币价值等角度进行分析
+
+
+1.  流动性：
+
+
+美国国债被全球视为安全资产，是全球金融体系的基石。许多国家、机构和个人都持有大量的美国国债。如果美国违约，将会引发市场对美国国债的信任危机，可能导致大规模抛售美国国债，从而引发流动性危机。流动性枯竭会导致资产价格急剧下跌（抛售资产换取现金流），金融市场波动性增大，进一步加剧全球金融危机。
+
+
+2.  美元价值：
+
+
+美元是全球最重要的储备货币，虽然人民币的国际地位正在崛起，但目前美元结算的体量还处于较大幅度的领先，而美国国债的违约将会削弱全球对美元的信任，导致美元的价值下降。然而，如果市场出现恐慌，投资者抛售资产，对美金的需求又会增加，同时另一部分可能会涌向其他被视为"避险"的资产，如黄金或其他强势货币，这可能会对美元的贬值产生一定的缓冲效果。
+
+
+
+3.  比特币价值：
+
+
+比特币的二级市场价值客观上受诸多因素的影响，包括但不限于：市场情绪、共识性、BRC 标准热度、不同国家政府态度、监管政策、技术发展、应用普及度与便利度等等。在美国违约的情况下，比特币可能会有两种截然不同的反应。
+
+
+ 一方面，如果投资者寻求非传统（黄金，白银）的"避险"类资产，并且如果世界需要新的宽松蓄水池来吸纳解压资金的话，中长期来看可能会对比特币的需求与价值可能产生相对积极的影响。国家间与各国内部，对于比特币等数字资产的多重探讨可能会加速。 
+
+
+另一方面，由于比特币的价值高度…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简析Neutron：推动Cosmos实现链间增长与创新]]></title>
+        <id>https://www.theblockbeats.info/news/37030</id>
+        <link href="https://www.theblockbeats.info/news/37030"/>
+        <updated>2023-05-16T08:51:01.000Z</updated>
+        <summary type="html"><![CDATA[ATOM 2.0 大融合时代来临，Neutron 受到了非常大的关注。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[借助Memecoin筹集690万美元，加密传奇人物Ben是谁？]]></title>
+        <id>https://www.theblockbeats.info/news/37028</id>
+        <link href="https://www.theblockbeats.info/news/37028"/>
+        <updated>2023-05-16T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Ben 可以说是加密圈最具争议的人物之一。他推出了 BEN 代币，还发起了当前「meme summer」规模最大的预售之一。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon zkEVM明牌空投，哪些项目可以交互]]></title>
+        <id>https://www.theblockbeats.info/news/37029</id>
+        <link href="https://www.theblockbeats.info/news/37029"/>
+        <updated>2023-05-16T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[「没有规定说已发行的token不能进行大规模空投」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRC-20，新星还是流星？]]></title>
+        <id>https://www.theblockbeats.info/news/37010</id>
+        <link href="https://www.theblockbeats.info/news/37010"/>
+        <updated>2023-05-16T06:36:01.000Z</updated>
+        <summary type="html"><![CDATA[本文讨论了Ordinals协议的缘起、BRC-20代币的机会和当前数据、BTC生态的未来发展。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坎昆升级：以太坊Layer 2的转折点和5个潜在投资机会]]></title>
+        <id>https://www.theblockbeats.info/news/37008</id>
+        <link href="https://www.theblockbeats.info/news/37008"/>
+        <updated>2023-05-16T05:42:35.000Z</updated>
+        <summary type="html"><![CDATA[坎昆升级与BTC减半共振，下半年格局将被搅动]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解ERC721-C：专注于版税设计的新型NFT标准]]></title>
+        <id>https://www.theblockbeats.info/news/37007</id>
+        <link href="https://www.theblockbeats.info/news/37007"/>
+        <updated>2023-05-16T03:47:51.000Z</updated>
+        <summary type="html"><![CDATA[在ERC-721之后，专注于版税设计的ERC-721C出现了，值得提前了解，NFT 的版税制度可能会迎来巨变。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui生态热门应用Suia，塑造链上社交新模式]]></title>
+        <id>https://www.theblockbeats.info/news/37006</id>
+        <link href="https://www.theblockbeats.info/news/37006"/>
+        <updated>2023-05-16T03:34:01.000Z</updated>
+        <summary type="html"><![CDATA[Suia正在利用Sui Network所带来的成本优势、速度优势和强大组合性来落实社交应用在该方向的采用。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜Worldcoin注册用户接近170万；Lifeform以3亿美元估值完成新一轮融资]]></title>
         <id>https://www.theblockbeats.info/news/37005</id>
