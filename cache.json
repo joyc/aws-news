@@ -164,26 +164,6 @@
           "wordCount": null,
           "title": "详解RWA DeFi协议Tangible",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36989",
-          "author": null,
-          "description": "解绑攻击和缓解措施，了解延迟、MEV-Boost和共识机制之间的关键关系。",
-          "link": "https://www.theblockbeats.info/news/36989",
-          "publishedOn": "2023-05-13T09:50:16.000Z",
-          "wordCount": null,
-          "title": "详解MEV-Boost工作原理及Ethereum分叉选择规则",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36988",
-          "author": null,
-          "description": "用户对Layer 2的需求有明显的上升趋势，ARB和OP的空投助推了它们各自网络的活动增长。",
-          "link": "https://www.theblockbeats.info/news/36988",
-          "publishedOn": "2023-05-13T06:30:56.000Z",
-          "wordCount": null,
-          "title": "多角度数据分析Arbitrum，相比Optimism和zkSync而言具有哪些优势？",
-          "imageUrl": null
         }
       ]
     },

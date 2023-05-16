@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-15T18:08:40.190Z</updated>
+    <updated>2023-05-16T00:35:56.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -202,26 +202,6 @@ Maverick Protocol 是一种根据交易价格移动的，动态分布自动做�
         <link href="https://www.theblockbeats.info/news/36990"/>
         <updated>2023-05-14T02:11:17.000Z</updated>
         <summary type="html"><![CDATA[Tangible引入了新颖的RWA使用案例和一种具有内在收益和再平衡机制的创新型稳定币。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解MEV-Boost工作原理及Ethereum分叉选择规则]]></title>
-        <id>https://www.theblockbeats.info/news/36989</id>
-        <link href="https://www.theblockbeats.info/news/36989"/>
-        <updated>2023-05-13T09:50:16.000Z</updated>
-        <summary type="html"><![CDATA[解绑攻击和缓解措施，了解延迟、MEV-Boost和共识机制之间的关键关系。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多角度数据分析Arbitrum，相比Optimism和zkSync而言具有哪些优势？]]></title>
-        <id>https://www.theblockbeats.info/news/36988</id>
-        <link href="https://www.theblockbeats.info/news/36988"/>
-        <updated>2023-05-13T06:30:56.000Z</updated>
-        <summary type="html"><![CDATA[用户对Layer 2的需求有明显的上升趋势，ARB和OP的空投助推了它们各自网络的活动增长。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
