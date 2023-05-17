@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37057",
+          "author": null,
+          "description": "OKX Ventures在过去2个月内出手投资了Berachain、Taiko、Sei Network、Cetus、AlienSwap",
+          "link": "https://www.theblockbeats.info/news/37057",
+          "publishedOn": "2023-05-17T09:24:50.000Z",
+          "wordCount": null,
+          "title": "OKX Ventures 4月投资回顾，涵盖公链、ZK生态等赛道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37056",
+          "author": null,
+          "description": "Sharding Capital 投研团队认为，虽NFT市场处于冰点，但随着市场回暖，NFT作为核心资产本身将复苏走强，那么相关配套设施 NFTFi 将面临井喷式需求。",
+          "link": "https://www.theblockbeats.info/news/37056",
+          "publishedOn": "2023-05-17T09:06:04.000Z",
+          "wordCount": null,
+          "title": "Shard Dubai NFTFi线上Demo Day入选项目速览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37051",
+          "author": null,
+          "description": "本文分析了共享排序器：高度抗审查、易部署、互操作、快速确定、即时的关键技术。聚合理论为其提供了新的视角，垂直整合指引了其进一步发展。",
+          "link": "https://www.theblockbeats.info/news/37051",
+          "publishedOn": "2023-05-17T07:36:21.000Z",
+          "wordCount": null,
+          "title": "详解共享排序器：共享测序、聚合理论与垂直整合",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37050",
+          "author": null,
+          "description": "Webb Protocol不是一个跨链桥，而是一个隐私跨链基础设施，已开发了跨链网络Tangle Network和隐私跨链桥Hubble Bridge。",
+          "link": "https://www.theblockbeats.info/news/37050",
+          "publishedOn": "2023-05-17T07:22:18.000Z",
+          "wordCount": null,
+          "title": "融资700万美元，隐私跨链协议Webb Protocol交互教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37041",
           "author": null,
           "description": "团队计划于今年推出新游戏Project Matthew，并将虚拟现实（VR）和增强现实（AR）为核心技术的游戏引入其产品线。",

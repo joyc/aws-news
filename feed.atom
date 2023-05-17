@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-17T06:09:11.751Z</updated>
+    <updated>2023-05-17T12:12:19.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OKX Ventures 4月投资回顾，涵盖公链、ZK生态等赛道]]></title>
+        <id>https://www.theblockbeats.info/news/37057</id>
+        <link href="https://www.theblockbeats.info/news/37057"/>
+        <updated>2023-05-17T09:24:50.000Z</updated>
+        <summary type="html"><![CDATA[OKX Ventures在过去2个月内出手投资了Berachain、Taiko、Sei Network、Cetus、AlienSwap]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shard Dubai NFTFi线上Demo Day入选项目速览]]></title>
+        <id>https://www.theblockbeats.info/news/37056</id>
+        <link href="https://www.theblockbeats.info/news/37056"/>
+        <updated>2023-05-17T09:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Sharding Capital 投研团队认为，虽NFT市场处于冰点，但随着市场回暖，NFT作为核心资产本身将复苏走强，那么相关配套设施 NFTFi 将面临井喷式需求。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解共享排序器：共享测序、聚合理论与垂直整合]]></title>
+        <id>https://www.theblockbeats.info/news/37051</id>
+        <link href="https://www.theblockbeats.info/news/37051"/>
+        <updated>2023-05-17T07:36:21.000Z</updated>
+        <summary type="html"><![CDATA[本文分析了共享排序器：高度抗审查、易部署、互操作、快速确定、即时的关键技术。聚合理论为其提供了新的视角，垂直整合指引了其进一步发展。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[融资700万美元，隐私跨链协议Webb Protocol交互教程]]></title>
+        <id>https://www.theblockbeats.info/news/37050</id>
+        <link href="https://www.theblockbeats.info/news/37050"/>
+        <updated>2023-05-17T07:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Webb Protocol不是一个跨链桥，而是一个隐私跨链基础设施，已开发了跨链网络Tangle Network和隐私跨链桥Hubble Bridge。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[畅谈GameFi：BinaryX两周年圆桌盛会]]></title>
         <id>https://www.theblockbeats.info/news/37041</id>
