@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-16T18:08:23.558Z</updated>
+    <updated>2023-05-17T00:39:02.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -326,26 +326,6 @@ Maverick Protocol 是一种根据交易价格移动的，动态分布自动做�
         <link href="https://www.theblockbeats.info/news/36993"/>
         <updated>2023-05-14T13:38:44.000Z</updated>
         <summary type="html"><![CDATA[5月15日至5月19日要点事件前瞻]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：专访UniSat，比特币赛道新龙头；Sui多个生态开启IDO]]></title>
-        <id>https://www.theblockbeats.info/news/36992</id>
-        <link href="https://www.theblockbeats.info/news/36992"/>
-        <updated>2023-05-14T07:56:06.000Z</updated>
-        <summary type="html"><![CDATA[市场迎来相对平静的一周，但或许平静之下蕴藏波澜。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDO上线10倍，SUIP现在还值得买吗？]]></title>
-        <id>https://www.theblockbeats.info/news/36991</id>
-        <link href="https://www.theblockbeats.info/news/36991"/>
-        <updated>2023-05-14T06:30:02.000Z</updated>
-        <summary type="html"><![CDATA[上一轮发明的去中心化融资模式 IDO 再次回归，其相对公平的参与机会以及确定性的投资回报成为散户投资者竞相争抢的一块香馍馍。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
