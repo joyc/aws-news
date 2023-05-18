@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-18T00:35:37.685Z</updated>
+    <updated>2023-05-18T06:09:24.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ABCDE Laobai: 简析DEX、借贷、稳定币新趋势]]></title>
+        <id>https://www.theblockbeats.info/news/37082</id>
+        <link href="https://www.theblockbeats.info/news/37082"/>
+        <updated>2023-05-18T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[近年来，Dex 市场的创新不多，除了 Curve War 之外，基本上已经确认了双寡头的局面。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[错过BRC-20？手把手教你如何埋伏LTC-20]]></title>
+        <id>https://www.theblockbeats.info/news/37058</id>
+        <link href="https://www.theblockbeats.info/news/37058"/>
+        <updated>2023-05-18T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Brc-20 热度过后,随机 ORC-20, BRC-21 等热度不断。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Crypto Game都开始转型做游戏平台了？]]></title>
         <id>https://www.theblockbeats.info/news/37080</id>
@@ -306,36 +326,6 @@ SanTi 小汤哥 ，李庚澈  & 纳西妲
         <link href="https://www.theblockbeats.info/news/37006"/>
         <updated>2023-05-16T03:34:01.000Z</updated>
         <summary type="html"><![CDATA[Suia正在利用Sui Network所带来的成本优势、速度优势和强大组合性来落实社交应用在该方向的采用。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜Worldcoin注册用户接近170万；Lifeform以3亿美元估值完成新一轮融资]]></title>
-        <id>https://www.theblockbeats.info/news/37005</id>
-        <link href="https://www.theblockbeats.info/news/37005"/>
-        <updated>2023-05-15T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[5月15日加密行业重要资讯一览]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访BeWater：当互联网OG审视Web3时，他们如何重构行业逻辑？]]></title>
-        <id>https://www.theblockbeats.info/news/37002</id>
-        <link href="https://www.theblockbeats.info/news/37002"/>
-        <updated>2023-05-15T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[“当所有Web3的人都‘听得懂人话’的那一刻，Web3时代就真的来临了。”]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再被旁氏欺骗了，Web3游戏必须走向真正去中心化]]></title>
-        <id>https://www.theblockbeats.info/news/37001</id>
-        <link href="https://www.theblockbeats.info/news/37001"/>
-        <updated>2023-05-15T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[即使代币经济模型再怎么精心设计、优化，也只是在更加隐蔽和巧妙地进行旁氏式欺骗。只有打造一个真正去中心化的游戏，才能使游戏经济变得可持续。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

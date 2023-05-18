@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37082",
+          "author": null,
+          "description": "近年来，Dex 市场的创新不多，除了 Curve War 之外，基本上已经确认了双寡头的局面。",
+          "link": "https://www.theblockbeats.info/news/37082",
+          "publishedOn": "2023-05-18T01:00:01.000Z",
+          "wordCount": null,
+          "title": "ABCDE Laobai: 简析DEX、借贷、稳定币新趋势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37058",
+          "author": null,
+          "description": "Brc-20 热度过后,随机 ORC-20, BRC-21 等热度不断。",
+          "link": "https://www.theblockbeats.info/news/37058",
+          "publishedOn": "2023-05-18T01:00:01.000Z",
+          "wordCount": null,
+          "title": "错过BRC-20？手把手教你如何埋伏LTC-20",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37080",
           "author": null,
           "description": "GameFi赛道萎靡不振，项目急需转型，困境求生",
@@ -273,36 +293,6 @@
           "publishedOn": "2023-05-16T03:34:01.000Z",
           "wordCount": null,
           "title": "Sui生态热门应用Suia，塑造链上社交新模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37005",
-          "author": null,
-          "description": "5月15日加密行业重要资讯一览",
-          "link": "https://www.theblockbeats.info/news/37005",
-          "publishedOn": "2023-05-15T14:36:10.000Z",
-          "wordCount": null,
-          "title": "Web3日报｜Worldcoin注册用户接近170万；Lifeform以3亿美元估值完成新一轮融资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37002",
-          "author": null,
-          "description": "“当所有Web3的人都‘听得懂人话’的那一刻，Web3时代就真的来临了。”",
-          "link": "https://www.theblockbeats.info/news/37002",
-          "publishedOn": "2023-05-15T14:00:01.000Z",
-          "wordCount": null,
-          "title": "专访BeWater：当互联网OG审视Web3时，他们如何重构行业逻辑？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37001",
-          "author": null,
-          "description": "即使代币经济模型再怎么精心设计、优化，也只是在更加隐蔽和巧妙地进行旁氏式欺骗。只有打造一个真正去中心化的游戏，才能使游戏经济变得可持续。",
-          "link": "https://www.theblockbeats.info/news/37001",
-          "publishedOn": "2023-05-15T13:00:01.000Z",
-          "wordCount": null,
-          "title": "别再被旁氏欺骗了，Web3游戏必须走向真正去中心化",
           "imageUrl": null
         }
       ]
