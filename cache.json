@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37092",
+          "author": null,
+          "description": "本篇从乔布斯和吃豆人说起，介绍到英伟达和游戏GPU的不解之缘，作者认为游戏才是这半个世纪以来科技进步的幕后推手。",
+          "link": "https://www.theblockbeats.info/news/37092",
+          "publishedOn": "2023-05-18T13:00:01.000Z",
+          "wordCount": null,
+          "title": "链游的AI革命（三）：电子游戏，科技发展的隐藏发动机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37096",
+          "author": null,
+          "description": "5月18日加密行业重要资讯一览",
+          "link": "https://www.theblockbeats.info/news/37096",
+          "publishedOn": "2023-05-18T11:55:02.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜Ledger密钥恢复服务遭抵制；数码港元先导计划启动",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37093",
           "author": null,
           "description": "本文将盘点即将进行IDO 的SUI Network 生态项目，接下来有什么投资机遇？",
@@ -313,36 +333,6 @@
           "publishedOn": "2023-05-16T06:36:01.000Z",
           "wordCount": null,
           "title": "BRC-20，新星还是流星？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37008",
-          "author": null,
-          "description": "坎昆升级与BTC减半共振，下半年格局将被搅动",
-          "link": "https://www.theblockbeats.info/news/37008",
-          "publishedOn": "2023-05-16T05:42:35.000Z",
-          "wordCount": null,
-          "title": "坎昆升级：以太坊Layer 2的转折点和5个潜在投资机会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37007",
-          "author": null,
-          "description": "在ERC-721之后，专注于版税设计的ERC-721C出现了，值得提前了解，NFT 的版税制度可能会迎来巨变。",
-          "link": "https://www.theblockbeats.info/news/37007",
-          "publishedOn": "2023-05-16T03:47:51.000Z",
-          "wordCount": null,
-          "title": "详解ERC721-C：专注于版税设计的新型NFT标准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37006",
-          "author": null,
-          "description": "Suia正在利用Sui Network所带来的成本优势、速度优势和强大组合性来落实社交应用在该方向的采用。",
-          "link": "https://www.theblockbeats.info/news/37006",
-          "publishedOn": "2023-05-16T03:34:01.000Z",
-          "wordCount": null,
-          "title": "Sui生态热门应用Suia，塑造链上社交新模式",
           "imageUrl": null
         }
       ]
