@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-17T18:08:16.743Z</updated>
+    <updated>2023-05-18T00:35:37.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -336,46 +336,6 @@ SanTi 小汤哥 ，李庚澈  & 纳西妲
         <link href="https://www.theblockbeats.info/news/37001"/>
         <updated>2023-05-15T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[即使代币经济模型再怎么精心设计、优化，也只是在更加隐蔽和巧妙地进行旁氏式欺骗。只有打造一个真正去中心化的游戏，才能使游戏经济变得可持续。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顾Binance Launchpad历史数据，分析BNB长期持有收益]]></title>
-        <id>https://www.theblockbeats.info/news/37004</id>
-        <link href="https://www.theblockbeats.info/news/37004"/>
-        <updated>2023-05-15T10:38:29.000Z</updated>
-        <summary type="html"><![CDATA[用数据说话，对比历史评估当前 Launchpad 的收益水平，以及对标 ETH 质押回报计算长期持有 BNB 的打新回报率]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LTC即将迎来减半，市场的冷漠与未来前景分析]]></title>
-        <id>https://www.theblockbeats.info/news/37003</id>
-        <link href="https://www.theblockbeats.info/news/37003"/>
-        <updated>2023-05-15T09:29:05.000Z</updated>
-        <summary type="html"><![CDATA[虽然莱特币的减半事件即将到来，本文将探讨减半事件的心理学、莱特币是否还需要存在以及市场对其的反应。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊互操作性基础设施Omni Network：连通Rollup，创造流动性]]></title>
-        <id>https://www.theblockbeats.info/news/37000</id>
-        <link href="https://www.theblockbeats.info/news/37000"/>
-        <updated>2023-05-15T06:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Omni Network 旨在连通不同的Rollup方案，通过将以太坊再质押协议 EigenLayer 和 Cosmos SDK 融合到一个统一的平台中，同时从ETH本身获得安全性。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年第21周融资精选，隐私跨链协议Webb Protocol获投700万美元]]></title>
-        <id>https://www.theblockbeats.info/news/36999</id>
-        <link href="https://www.theblockbeats.info/news/36999"/>
-        <updated>2023-05-15T06:38:55.000Z</updated>
-        <summary type="html"><![CDATA[上周的融资总数为24笔，总金额约14270万美元，平均融资金额为593.58万美元。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

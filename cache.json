@@ -304,46 +304,6 @@
           "wordCount": null,
           "title": "别再被旁氏欺骗了，Web3游戏必须走向真正去中心化",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37004",
-          "author": null,
-          "description": "用数据说话，对比历史评估当前 Launchpad 的收益水平，以及对标 ETH 质押回报计算长期持有 BNB 的打新回报率",
-          "link": "https://www.theblockbeats.info/news/37004",
-          "publishedOn": "2023-05-15T10:38:29.000Z",
-          "wordCount": null,
-          "title": "回顾Binance Launchpad历史数据，分析BNB长期持有收益",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37003",
-          "author": null,
-          "description": "虽然莱特币的减半事件即将到来，本文将探讨减半事件的心理学、莱特币是否还需要存在以及市场对其的反应。",
-          "link": "https://www.theblockbeats.info/news/37003",
-          "publishedOn": "2023-05-15T09:29:05.000Z",
-          "wordCount": null,
-          "title": "LTC即将迎来减半，市场的冷漠与未来前景分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37000",
-          "author": null,
-          "description": "Omni Network 旨在连通不同的Rollup方案，通过将以太坊再质押协议 EigenLayer 和 Cosmos SDK 融合到一个统一的平台中，同时从ETH本身获得安全性。",
-          "link": "https://www.theblockbeats.info/news/37000",
-          "publishedOn": "2023-05-15T06:51:39.000Z",
-          "wordCount": null,
-          "title": "以太坊互操作性基础设施Omni Network：连通Rollup，创造流动性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36999",
-          "author": null,
-          "description": "上周的融资总数为24笔，总金额约14270万美元，平均融资金额为593.58万美元。",
-          "link": "https://www.theblockbeats.info/news/36999",
-          "publishedOn": "2023-05-15T06:38:55.000Z",
-          "wordCount": null,
-          "title": "2023年第21周融资精选，隐私跨链协议Webb Protocol获投700万美元",
-          "imageUrl": null
         }
       ]
     },
