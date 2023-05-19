@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-19T12:11:54.466Z</updated>
+    <updated>2023-05-19T18:08:31.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[跨链钱包的竞争格局和未来]]></title>
+        <id>https://www.theblockbeats.info/news/37100</id>
+        <link href="https://www.theblockbeats.info/news/37100"/>
+        <updated>2023-05-19T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[随着去中心化金融的兴起，对跨链兼容性的需求比以往任何时候都更加明显。随着区块链网络和协议的数量不断增加，互操作性已经成为加密货币行业的一个主要挑战。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭开Orb的神秘面纱：Worldcoin如何采集你的虹膜？]]></title>
         <id>https://www.theblockbeats.info/news/37108</id>
@@ -741,56 +751,6 @@ DePIN 是 Decentralized Physical Infrastructure Networks 的简称，顾名思�
         <link href="https://www.theblockbeats.info/news/37050"/>
         <updated>2023-05-17T07:22:18.000Z</updated>
         <summary type="html"><![CDATA[Webb Protocol不是一个跨链桥，而是一个隐私跨链基础设施，已开发了跨链网络Tangle Network和隐私跨链桥Hubble Bridge。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[畅谈GameFi：BinaryX两周年圆桌盛会]]></title>
-        <id>https://www.theblockbeats.info/news/37041</id>
-        <link href="https://www.theblockbeats.info/news/37041"/>
-        <updated>2023-05-17T03:22:58.000Z</updated>
-        <summary type="html"><![CDATA[团队计划于今年推出新游戏Project Matthew，并将虚拟现实（VR）和增强现实（AR）为核心技术的游戏引入其产品线。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于Worldcoin：愿景、功能、Token信息以及如何参与]]></title>
-        <id>https://www.theblockbeats.info/news/37009</id>
-        <link href="https://www.theblockbeats.info/news/37009"/>
-        <updated>2023-05-17T03:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Worldcoin代币WLD总量100亿；80亿代币的固定供应量提供给社区]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷新王Sam Altman国会听证，ChatGPT将改写科技世界规则]]></title>
-        <id>https://www.theblockbeats.info/news/37040</id>
-        <link href="https://www.theblockbeats.info/news/37040"/>
-        <updated>2023-05-17T03:06:32.000Z</updated>
-        <summary type="html"><![CDATA[为什么 OpenAI 创始人Sam Altman 如此渴望政府监管AI？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milady暴涨后回落，极端行情下怎么用NFTFi做空和套保？]]></title>
-        <id>https://www.theblockbeats.info/news/37038</id>
-        <link href="https://www.theblockbeats.info/news/37038"/>
-        <updated>2023-05-17T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[为加密货币和数字艺术的交叉点打造新的金融框架。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话全球首位华人EIP Editor Victor：硅谷工程师的加密多重宇宙]]></title>
-        <id>https://www.theblockbeats.info/news/37035</id>
-        <link href="https://www.theblockbeats.info/news/37035"/>
-        <updated>2023-05-17T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Victor Zhou，既是 EIP Author，也是 EIP Editor]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
