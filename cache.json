@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37097",
+          "author": null,
+          "description": "原文作者：hoeem \n原文编译：Kxp，BlockBeats\n\n\n钱包追踪真是一门高深的学问，只要你知道如何找到那些正确钱包，就能跟着大赚特赚。今天，就让我来教你怎么找到这类钱包吧——下面是「钱包狩猎 101 指南」，让你轻松猎取财富。\n\n\n你可以通过下面几个方法找到你想要关注的钱包：\n\n\n· 寻找有投资眼光的巨鲸\n\n· 使用区块链浏览器\n· 使用 Bubblemaps \n· 在 Dune 上使用 Token Analyzooor\n\n\n1. 使用 CoinGecko\n\n\n我们的目标不只是找到一个钱包，而是要找到那些投资于表现出色 Token 的正确钱包。为此，我们可以进行如下操作：\n\n\n· 前往 CoinGecko \n· 点击涨幅最高者\n· 过滤时间范围\n· 记下你感兴趣的 Token\n· 记下它们所在的区块链\n· 记下 Token 地址\n· 记下 Token 价格较低的日期\n\n\n现在你就有了一份表现出色的 Token 列表，这很重要，因为我们希望找到投资于这些资产的钱包。\n\n\n个人而言，我将忽略那些投资于 Meme 币的钱包，因为他们更有可能是赌徒，这些人在未来投资的过程中很可能会因为自己的非理性决策而损失大笔资金。\n\n\n2. 使用区块链浏览器\n\n\n现在你已经记下了要研究的 Token，那么这时你就可以前往该 Token 所在的浏览器了：\n\n\n· 前往相应的区块链浏览器\n· 输入 Token 地址\n· 过滤大额交易\n· 下载 CSV 列表以查找特定日期\n· 点击大额交易的地址\n· 避免选中合约地址\n· 记下在 Token 价格低谷期间有购买记录的地址中你感兴趣的地址\n· 根据持有者进行筛选\n\n· 记下巨鲸地址\n\n\n按照这种方法，你就能收集到一些可能有用的钱包地址。\n\n\n3. 使用 Bubblemaps\n\n\n· 前往 Bubblemaps\n· 输入 Token 地址\n· 筛选你感兴趣的时间段\n· 查看该时间段排名靠前的持有者\n· 避免选中仅有预售 Token 的地址\n\n\n这是一种非常快速的方法，可以找到一些拥有大量 Token 的持有者，该平台的可视化辅助功能可以帮你避开那些仅因参与了预售而拥有大量 Token 的地址。\n\n\n4. 使用 Token Analyzooor\n\n\n幸运的是，我们可以使用由 Mochi 设计的出色 Dune 仪表板：\n\n\n· 前往 Dune\n· 搜索 Token Analyzooor\n· 点击 Token 所在链\n· 输入 Token 地址\n· 输入你想要查看某人何时购买的天数\n· 现在你可以看到最高持有者\n· 查看盈利地址\n· 点击感兴趣的地址，忽略合约地址，记下其他地址\n\n\n现在，你有了更多在 Token 价格较低时购买的地址，一个智能钱包。\n\n\n5. 筛选你要调查的钱包\n\n\n现在，你有了一个自己感兴趣钱包的列表，这些钱包都购买了一个表现良好的 Token，那么下一步我们应该怎么做？\n\n\n之前我们只能靠运气，所以现在我们需要：\n\n\n· 在 DeBank、Arkham 或 Zerion 中输入钱包地址\n· 筛选交易\n· 查找 Token 的购买和出售记录\n· 查看是否有成功盈利的交易记录\n\n· 如果有，那么你就找到了一个值得持续关注的钱包\n\n\n总结：\n\n\n你可以使用上述任何方法来确定你可能感兴趣的钱包，借助钱包扫描器筛选这些钱包，看看它们是否有良好的交易记录，并把它们记录下来。\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/37097",
+          "publishedOn": "2023-05-19T03:09:22.000Z",
+          "wordCount": null,
+          "title": "追踪钱包 101 指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37095",
+          "author": null,
+          "description": "AI时代到来，善用 ChatGPT+Dune，建立更强数据库。",
+          "link": "https://www.theblockbeats.info/news/37095",
+          "publishedOn": "2023-05-19T01:00:01.000Z",
+          "wordCount": null,
+          "title": "重新认识Dune：强大的免费链上数据分析工具",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37092",
           "author": null,
           "description": "本篇从乔布斯和吃豆人说起，介绍到英伟达和游戏GPU的不解之缘，作者认为游戏才是这半个世纪以来科技进步的幕后推手。",
@@ -243,16 +263,6 @@
           "publishedOn": "2023-05-17T01:00:01.000Z",
           "wordCount": null,
           "title": "对话全球首位华人EIP Editor Victor：硅谷工程师的加密多重宇宙",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37039",
-          "author": null,
-          "description": "5月16日加密行业重要资讯一览",
-          "link": "https://www.theblockbeats.info/news/37039",
-          "publishedOn": "2023-05-16T15:26:27.000Z",
-          "wordCount": null,
-          "title": "Web3日报｜Justin Sun称将追缴李林弟弟Huobi内资产；OKX首次公布Web3钱包比特币生态路线图",
           "imageUrl": null
         }
       ]
