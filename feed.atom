@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-20T12:11:20.062Z</updated>
+    <updated>2023-05-20T18:07:21.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -829,46 +829,6 @@ DePIN 是 Decentralized Physical Infrastructure Networks 的简称，顾名思�
         <link href="https://www.theblockbeats.info/news/37089"/>
         <updated>2023-05-18T06:40:33.000Z</updated>
         <summary type="html"><![CDATA[LTC-20参与门槛极低，最低只需几美金便可入门莱特币铭文市场。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索真实的日本加密市场，挖掘封闭与矛盾间的机遇]]></title>
-        <id>https://www.theblockbeats.info/news/37088</id>
-        <link href="https://www.theblockbeats.info/news/37088"/>
-        <updated>2023-05-18T06:03:12.000Z</updated>
-        <summary type="html"><![CDATA[日本人对本土项目情结复杂，一部分人认为中国项目这一属性是加分项]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[meme Token「新玩法」，良机还是危机？]]></title>
-        <id>https://www.theblockbeats.info/news/37087</id>
-        <link href="https://www.theblockbeats.info/news/37087"/>
-        <updated>2023-05-18T05:12:14.000Z</updated>
-        <summary type="html"><![CDATA[给$PSYOP打钱，被$LADYS拉黑，抢跑$LOTUS被埋，「meme 季」的尾巴依旧狂野...]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABCDE Laobai: 简析DEX、借贷、稳定币新趋势]]></title>
-        <id>https://www.theblockbeats.info/news/37082</id>
-        <link href="https://www.theblockbeats.info/news/37082"/>
-        <updated>2023-05-18T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[近年来，Dex 市场的创新不多，除了 Curve War 之外，基本上已经确认了双寡头的局面。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[错过BRC-20？手把手教你如何埋伏LTC-20]]></title>
-        <id>https://www.theblockbeats.info/news/37058</id>
-        <link href="https://www.theblockbeats.info/news/37058"/>
-        <updated>2023-05-18T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Brc-20 热度过后,随机 ORC-20, BRC-21 等热度不断。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
