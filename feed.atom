@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-19T18:08:31.110Z</updated>
+    <updated>2023-05-20T00:34:19.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -671,86 +671,6 @@ DePIN 是 Decentralized Physical Infrastructure Networks 的简称，顾名思�
         <link href="https://www.theblockbeats.info/news/37052"/>
         <updated>2023-05-17T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[MiCA 无疑是我们在全球范围内看到的最全面的加密资产监管框架。这是一个行业应该抓住并建立的机会。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger新推出的Ledger Recover，为什么被骂了？]]></title>
-        <id>https://www.theblockbeats.info/news/37083</id>
-        <link href="https://www.theblockbeats.info/news/37083"/>
-        <updated>2023-05-17T11:18:53.000Z</updated>
-        <summary type="html"><![CDATA[「多方托管密钥，真的安全吗？」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜Axie Infinity上架苹果App Store; DWF Labs以135 ETH再次买入LADYS]]></title>
-        <id>https://www.theblockbeats.info/news/37081</id>
-        <link href="https://www.theblockbeats.info/news/37081"/>
-        <updated>2023-05-17T11:05:01.000Z</updated>
-        <summary type="html"><![CDATA[5月17日加密行业重要资讯一览]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LD Capital：NFTFi缺乏新叙事与新资金，何时困境反转？]]></title>
-        <id>https://www.theblockbeats.info/news/37053</id>
-        <link href="https://www.theblockbeats.info/news/37053"/>
-        <updated>2023-05-17T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[增量资金的入场、市场伪买方流动性的下降或交易成本的降低将成为未来NFT价格企稳的重要观察指标。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV与Flashbots：与众不同的DeFi故事]]></title>
-        <id>https://www.theblockbeats.info/news/37059</id>
-        <link href="https://www.theblockbeats.info/news/37059"/>
-        <updated>2023-05-17T10:07:42.000Z</updated>
-        <summary type="html"><![CDATA[MEV、激励重构以及去中心化系统的持续性风险]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Ventures 4月投资回顾，涵盖公链、ZK生态等赛道]]></title>
-        <id>https://www.theblockbeats.info/news/37057</id>
-        <link href="https://www.theblockbeats.info/news/37057"/>
-        <updated>2023-05-17T09:24:50.000Z</updated>
-        <summary type="html"><![CDATA[OKX Ventures在过去2个月内出手投资了Berachain、Taiko、Sei Network、Cetus、AlienSwap]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shard Dubai NFTFi线上Demo Day入选项目速览]]></title>
-        <id>https://www.theblockbeats.info/news/37056</id>
-        <link href="https://www.theblockbeats.info/news/37056"/>
-        <updated>2023-05-17T09:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Sharding Capital 投研团队认为，虽NFT市场处于冰点，但随着市场回暖，NFT作为核心资产本身将复苏走强，那么相关配套设施 NFTFi 将面临井喷式需求。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解共享排序器：共享测序、聚合理论与垂直整合]]></title>
-        <id>https://www.theblockbeats.info/news/37051</id>
-        <link href="https://www.theblockbeats.info/news/37051"/>
-        <updated>2023-05-17T07:36:21.000Z</updated>
-        <summary type="html"><![CDATA[本文分析了共享排序器：高度抗审查、易部署、互操作、快速确定、即时的关键技术。聚合理论为其提供了新的视角，垂直整合指引了其进一步发展。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[融资700万美元，隐私跨链协议Webb Protocol交互教程]]></title>
-        <id>https://www.theblockbeats.info/news/37050</id>
-        <link href="https://www.theblockbeats.info/news/37050"/>
-        <updated>2023-05-17T07:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Webb Protocol不是一个跨链桥，而是一个隐私跨链基础设施，已开发了跨链网络Tangle Network和隐私跨链桥Hubble Bridge。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
