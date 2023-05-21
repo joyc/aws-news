@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-21T00:39:00.157Z</updated>
+    <updated>2023-05-21T06:08:17.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[加密寒冬，Worldcoin凭什么拿下1亿美元融资？]]></title>
+        <id>https://www.theblockbeats.info/news/37113</id>
+        <link href="https://www.theblockbeats.info/news/37113"/>
+        <updated>2023-05-21T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[估值 30 亿美元，一年估值翻 3 倍，a16z 两轮参投，Worldcoin 如何做到？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[详解Spiral DAO：将第三方协议奖励保留在DAO资金储备中的收益聚合器]]></title>
         <id>https://www.theblockbeats.info/news/37112</id>
@@ -779,16 +789,6 @@ DePIN 是 Decentralized Physical Infrastructure Networks 的简称，顾名思�
         <link href="https://www.theblockbeats.info/news/37095"/>
         <updated>2023-05-19T01:00:01.000Z</updated>
         <summary type="html"><![CDATA[AI时代到来，善用 ChatGPT+Dune，建立更强数据库。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链游的AI革命（三）：电子游戏，科技发展的隐藏发动机]]></title>
-        <id>https://www.theblockbeats.info/news/37092</id>
-        <link href="https://www.theblockbeats.info/news/37092"/>
-        <updated>2023-05-18T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本篇从乔布斯和吃豆人说起，介绍到英伟达和游戏GPU的不解之缘，作者认为游戏才是这半个世纪以来科技进步的幕后推手。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

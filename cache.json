@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37113",
+          "author": null,
+          "description": "估值 30 亿美元，一年估值翻 3 倍，a16z 两轮参投，Worldcoin 如何做到？",
+          "link": "https://www.theblockbeats.info/news/37113",
+          "publishedOn": "2023-05-21T03:00:01.000Z",
+          "wordCount": null,
+          "title": "加密寒冬，Worldcoin凭什么拿下1亿美元融资？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37112",
           "author": null,
           "description": "Spiral DAO独特的资金储备再平衡机制和Token经济模型使其能够利用贿赂市场的低效性，提高贿赂收益和流动性深度。",
@@ -153,16 +163,6 @@
           "publishedOn": "2023-05-19T01:00:01.000Z",
           "wordCount": null,
           "title": "重新认识Dune：强大的免费链上数据分析工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37092",
-          "author": null,
-          "description": "本篇从乔布斯和吃豆人说起，介绍到英伟达和游戏GPU的不解之缘，作者认为游戏才是这半个世纪以来科技进步的幕后推手。",
-          "link": "https://www.theblockbeats.info/news/37092",
-          "publishedOn": "2023-05-18T13:00:01.000Z",
-          "wordCount": null,
-          "title": "链游的AI革命（三）：电子游戏，科技发展的隐藏发动机",
           "imageUrl": null
         }
       ]
