@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-20T18:07:21.162Z</updated>
+    <updated>2023-05-21T00:39:00.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -789,46 +789,6 @@ DePIN 是 Decentralized Physical Infrastructure Networks 的简称，顾名思�
         <link href="https://www.theblockbeats.info/news/37092"/>
         <updated>2023-05-18T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[本篇从乔布斯和吃豆人说起，介绍到英伟达和游戏GPU的不解之缘，作者认为游戏才是这半个世纪以来科技进步的幕后推手。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜Ledger密钥恢复服务遭抵制；数码港元先导计划启动]]></title>
-        <id>https://www.theblockbeats.info/news/37096</id>
-        <link href="https://www.theblockbeats.info/news/37096"/>
-        <updated>2023-05-18T11:55:02.000Z</updated>
-        <summary type="html"><![CDATA[5月18日加密行业重要资讯一览]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点Sui公链上即将发行Token的潜力项目]]></title>
-        <id>https://www.theblockbeats.info/news/37093</id>
-        <link href="https://www.theblockbeats.info/news/37093"/>
-        <updated>2023-05-18T09:21:12.000Z</updated>
-        <summary type="html"><![CDATA[本文将盘点即将进行IDO 的SUI Network 生态项目，接下来有什么投资机遇？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解World App：能否成为AI时代的身份证]]></title>
-        <id>https://www.theblockbeats.info/news/37091</id>
-        <link href="https://www.theblockbeats.info/news/37091"/>
-        <updated>2023-05-18T07:41:44.000Z</updated>
-        <summary type="html"><![CDATA[World App 刚上线，便被赋予「可能成为 AI 时代身份证的产品」的称号，这是一个极具创新和雄心的项目。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱特币LRC-20协议，能否复刻BRC-20的成功？]]></title>
-        <id>https://www.theblockbeats.info/news/37089</id>
-        <link href="https://www.theblockbeats.info/news/37089"/>
-        <updated>2023-05-18T06:40:33.000Z</updated>
-        <summary type="html"><![CDATA[LTC-20参与门槛极低，最低只需几美金便可入门莱特币铭文市场。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
