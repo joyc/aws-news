@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-22T06:09:32.719Z</updated>
+    <updated>2023-05-22T12:12:25.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盘点6大加密资产安全工具，避免加密骗局]]></title>
+        <id>https://www.theblockbeats.info/news/37123</id>
+        <link href="https://www.theblockbeats.info/news/37123"/>
+        <updated>2023-05-22T08:43:39.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《 超760亿美元资金被窃取，盘点六大加密资产安全工具》
+原文作者：Emperor Osmo, 加密 KOL
+原文编译： Felix,PANews
+
+
+Crypto 领域通常被描述为「狂野的西部」。在这个行业可以赚到百倍资金，但也可能因智能合约漏洞、项目方拉高出货或入场太晚而亏损所有资金。过去，加密领域因 Rug pulls 和骗局已经造成超 760 亿美元的损失。如何避免这些加密骗局，本文将盘点 6 个工具来为资金安全保驾护航。
+
+
+Bubblemaps
+
+
+虽然有像 Etherscan 这样的区块浏览器可以查阅链上交易，但很难追踪资金的去向。Bubblemaps 可以轻松掌握哪些钱包持有哪些资金，以及它们的动向。在 Meme 狂热的季节，Rug pull 随处可见。Bubblemaps 在发现 Rug 和从骗子手中为用户避免数千美元损失方面发挥了重要作用。
+
+
+相关阅读：Meme 冲完就跑路？2 个工具搞定代币分析
+
+
+
+
+
+De.Fi
+
+
+De.Fi 提供了一套旨在让加密体验更安全的产品。De.Fi 平台的钱包扫描和屏蔽功能会立即识别任何恶意合约，防止用户的流动性被耗尽。Defi_Mochi 创建了一个非常简单易懂的教程，介绍如何使用这些免费工具。
+
+
+
+
+
+Santiment
+
+
+Santiment 可以让投资者跟踪市场趋势，了解市场周期。通过跟踪价格、NFT、关键词并交叉比较，可以避免买在山顶。
+
+
+此外，Santiment 还可以通过分析关键词与市场的相关性，帮助指导如何最好地分配资金，同时避免了 90% 的因延迟购买而造成的损失。
+
+
+
+
+
+DefiLlama
+
+
+DeFi Llama 是一个功能全面的平台，具备从基础层面理解协议所需的一切功能。比如借助 DeFi Llama 的代币解锁功能，可以跟踪哪些代币何时会解锁。
+
+
+
+
+
+LunarCrush
+
+
+想象一下有个平台能跟踪交易趋势，甚至在趋势变化之前帮助成功逃顶。Lunar Crush 平台能够跟踪社交活动，了解行情趋势。投资者可以在某代币开始在社交平台上热议时进场，在议论高潮时卖出。
+
+
+
+
+
+Blockpour
+
+
+Blockpour 是一个多链数据聚合和分析平台，聚合了各生态系统中的数据，通过提供全面的深度数据，可以防止因深度差而产生的大量损失。
+
+
+
+
+
+此外，通过「实时交易」功能，投资者可以实时跟踪每笔交易，这样就不会错过巨鲸的一举一动。无论是寻找潜力币还是试图深入了解代币，Blockpour 都是一个好用的免费工具。
+
+
+加密领域中，投资者可以赚到 100 倍，但也可以在糟糕的交易、骗局或 HoneyPot（蜜罐骗局）中失去资金，因此保本永远是游戏的主题，而上述 6 个免费工具将有助于投资者实现这一目标。
+
+
+注：PANews 官方网站的导航窗口汇总了常用的分析工具，包括各区块浏览器、综合数据平台等，欢迎用户关注并访问。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为何Vitalik力推zk-SNARK，解决区块链疑难杂症的重要利器]]></title>
+        <id>https://www.theblockbeats.info/news/37122</id>
+        <link href="https://www.theblockbeats.info/news/37122"/>
+        <updated>2023-05-22T08:07:44.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：  Haotian（Twitter：@tmel0211），区块链安全从业者  
+
+
+在黑山 EDCON 大会中@VitalikButerinV 神系统阐述了以太坊网络在扩容、隐私、安全等方面存在的技术挑战，最终得出结论未来 10 年 zk-SNARK 将与区块链一样重要。
+V 神不遗余力推的 zk-SNARK 到底是什么？zk-SNARK 技术到底能解决哪些当下区块链疑难杂症？
+接下来的 Thread，我来抛砖引玉大家一起探讨下。
+
+
+
+
+
+SNARK 全称为 ( succinct non-interactive argument of knowledge) 即简洁非交互式知识论证，其核心是通过数学算法来构建一个证明系统，使得验证者在不了解原始数据的情况下验证数据本身的正确性。
+其实现过程涉及可验证电路、椭圆曲线密码学原理、哈希函数、加密算法等复杂技术，在此不赘论过多细节。
+
+
+由于 SNARK 可以把原始数据压缩为一个极小的证明来验证其输入数据的正确性，加之 zk 零知识的技术基础，使得 zk-SNARK 可以在区块链扩展性、隐私性、安全性等方面大展拳脚。
+特别是 2018 年以太坊启用了马卡洛夫随机演算法 (MAST) 后，zk-SNARK 可以直接融入到以太坊系统中来解决以太坊网络当下的瓶颈问题。
+
+
+这正是为何，原生于@Starknet的 zk-STARK 技术虽然可处理更复杂的计算问题（避免量子计算攻击等），但 zk-SNARK 却被寄予了更大厚望。
+尤其是大家困惑的一些区块链悖论在换上 zk-SNARK 的底层后都可以有效解决，比如：保护隐私潜在的黑客洗钱问题，social recovery 逃不开的中心化机构干涉问题等等。
+
+
+先说扩展性。zk-rollup 技术高度领先于 op-rollup，是一套以太坊二层的终局解决方案。
+op 先默认一切交易乐…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lagrange协议： 如何通过zk技术实现无需信任的跨链操作？]]></title>
+        <id>https://www.theblockbeats.info/news/37120</id>
+        <link href="https://www.theblockbeats.info/news/37120"/>
+        <updated>2023-05-22T07:26:24.000Z</updated>
+        <summary type="html"><![CDATA[传统的消息传递协议依赖节点来传递信息，但 Lagrange 采用了不同的方法。它允许任何人加密验证信息提交，类似于 IBC 依赖轻客户端进行跨链验证。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访Arbitrum创始人：3人、9年、20亿市值]]></title>
+        <id>https://www.theblockbeats.info/news/37119</id>
+        <link href="https://www.theblockbeats.info/news/37119"/>
+        <updated>2023-05-22T05:57:46.000Z</updated>
+        <summary type="html"><![CDATA[采访&撰文：Jack，BlockBeats
+
+
+作为 Optimistic Rollup 赛道的扩容选手，Arbitrum 在一开始其实并不被看好。一边是由以太坊基金会核心成员创造的「扩容天子」Optimism 团队，另一边是被 Vitalik 称为「最终解决方案」的 ZK Rollup 赛道，而 Arbitrum 则被尴尬地夹在中间，即没有与基金会密切的关系，也没有给投资者「画大饼」的条件。从这个角度来说，Arbitrum 的确可以算作以太坊扩容赛道中的一匹黑马。
+
+
+从去年开始，尽管 OP 有着「Token 先发」的优势，Arbitrum 的 TVL 和链上活跃度还是在随后的一段时间里反超 OP，并在奥德赛后与其拉开了距离。今年 2 月，Arbitrum 生态更是随着空投预期变得热闹非凡，GMX、Camelot、Radiant 等爆款不断涌现，让 Arbitrum 成了实质上的「L2 之王」。更令人惊喜的是，即便在空投结束后，其生态的发展也没有熄火，甚至还随 AIDOGE 的出现为加密市场迎来了新一轮的 meme 狂潮。
+
+
+生态的持续性成长与团队的努力和路径选择有着密不可分的联系。从 Arbitrum One 到 Nitro，团队一直在不断寻找和解决自己面临的潜在挑战。当然，Arbitrum 并没有走对每一步。4 月初的「DAO 资金门」，在整个加密行业产生了极负面的影响，有人甚至宣布「DAO 治理已名存实亡」。在行业聚光灯和争议声中，Arbitrum 又在近期推出了自己为扩容寻找的新叙事——Stylus。
+
+
+Arbitrum 背后的团队来自哪里？他们怎么看待 Optimistic 和 ZK 扩容之间的竞争？「DAO 资金门」有何原委，Stylus 又有着什么新叙事？针对这些问题，BlockBeats 专访了 Arbitrum 的创始人 Ed Felten。
+
+
+从…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年第22周融资精选，比特币服务商相关融资逐步增加]]></title>
+        <id>https://www.theblockbeats.info/news/37118</id>
+        <link href="https://www.theblockbeats.info/news/37118"/>
+        <updated>2023-05-22T05:16:34.000Z</updated>
+        <summary type="html"><![CDATA[据 BlockBeats 统计，上周的融资总数为 25 笔，数量与上周变化不大，总金额约 35193.89 万美元，平均融资金额为 1407.76 万美元。其中，基础设施占据主体，资管支付和其他领域融资相对较多，社交/创作者经济融资数量有所增加，元宇宙/Gamefi、NFT/数字时尚和 DeFi 领域较少。下图为上周各板块融资占比：
+
+
+
+
+
+
+
+元宇宙/GameFi
+
+
+
+
+在元宇宙/GameFi 领域共计 3 笔融资，总金额 2691 万美元，占上周融资总额的 7.65%。
+
+
+ Super League 
+
+
+
+
+
+
+
+
+
+
+5 月 15 日，元宇宙公司 Super League 通过两笔可转换优先股交易完成 2380 万美元私募融资。根据纳斯达克规则，最终交易预计将于本周晚些时候完成，SternAegis Ventures 担任本次融资交易的独家配售代理，现有投资者、新投资者和配售代理的关联方参投。
+
+据悉，Super League 在 Roblox、Minecraft 和 Fortnite 等元宇宙游戏平台上提供游戏和数字空间体验，其创新解决方案能让消费者在元宇宙中进行社交、娱乐、探索、协作、购物、学习和创造。
+
+
+ Planetary
+
+
+
+
+
+
+
+5 月 16 日，Web3 和区块链技术厂商 nChain 宣布已向 3D 元宇宙平台 Planetary 投资 250 万英镑购买其 25% 的股权。
+
+据悉，Planetary 是一个虚拟的 3D 世界，人们可以在功能齐全的元宇宙中会面、工作和娱乐。Planetary 旨在整合 NFT 社区并为用户提供新的 play2earn 模型，该应用程序具有可定制的虚拟空间和各种货币化选项等创新功能，为创作者提供了新的收入机会。
+
+
+元宇宙/GameFi 领域其余融资包括：
+
+
+
+
+5 月 19 日，Web3 游戏发布平台…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik：保持链的极简主义，不要让以太坊的共识过载]]></title>
         <id>https://www.theblockbeats.info/news/37116</id>
