@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-22T00:37:35.197Z</updated>
+    <updated>2023-05-22T06:09:32.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：保持链的极简主义，不要让以太坊的共识过载]]></title>
+        <id>https://www.theblockbeats.info/news/37116</id>
+        <link href="https://www.theblockbeats.info/news/37116"/>
+        <updated>2023-05-22T03:13:17.000Z</updated>
+        <summary type="html"><![CDATA[以太坊网络的共识机制是目前最安全的加密经济系统之一。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一周前瞻｜第13个比特币披萨日将至；Greenfield测试网升级并更名为Mekong Testnet]]></title>
         <id>https://www.theblockbeats.info/news/37115</id>
@@ -288,16 +298,6 @@ Account Labs 的 CEO 由原 Keystone 的创始人刘力心担任，他将负责�
 
 
 「能与…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨链钱包的竞争格局和未来]]></title>
-        <id>https://www.theblockbeats.info/news/37100</id>
-        <link href="https://www.theblockbeats.info/news/37100"/>
-        <updated>2023-05-19T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[随着去中心化金融的兴起，对跨链兼容性的需求比以往任何时候都更加明显。随着区块链网络和协议的数量不断增加，互操作性已经成为加密货币行业的一个主要挑战。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

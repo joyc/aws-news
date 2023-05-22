@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37116",
+          "author": null,
+          "description": "以太坊网络的共识机制是目前最安全的加密经济系统之一。",
+          "link": "https://www.theblockbeats.info/news/37116",
+          "publishedOn": "2023-05-22T03:13:17.000Z",
+          "wordCount": null,
+          "title": "Vitalik：保持链的极简主义，不要让以太坊的共识过载",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37115",
           "author": null,
           "description": "精选事件：\n「比特币披萨日」13 周年；\nEDCON 2023 黑山会议即将闭幕；\n韩国法院将于 5 月 26 日对 Terra 联创 Daniel Shin 进行首次审判；\n美泰将于 5 月 22 日推出《速度与激情》电影系列 NFT；\nTornado Cash 开发者 Alexey Pertsev 的进一步调查听证会将于 5 月 24 日举行；\n\n\n5 月 22 日\n\n\n\n\n美泰将于 5 月 22 日推出《速度与激情》电影系列 NFT\n\n\n美国玩具制造商美泰将于 5 月 22 日推出基于「速度与激情」电影的最新版「Hot Wheels NFT Garage」系列。「Hot Wheels NFT Garage x Fast & Furious」系列将在 Flow 区块链上推出，并以电影中的汽车为主题，包括 Dominic Toretto 的座驾 1970 道奇 Charger，Brian O'Conner 的座驾 1969 Camero，以及 Suki 的座驾本田 S2000，限量版 NFT 的售价为 20 美元。\n\n\n\n\nEpic Games 前开发执行副总裁将担任 Yuga Labs 首席技术官\n\n\n\n\n据 CoinDesk 报道，《堡垒之夜》开发商 Epic Games 前开发执行副总裁 Mike Seavers 将加入 Yuga Labs 担任首席技术官，于 5 月 22 日生效。\n\n\n\n\nBinance 将于 5 月 22 日暂停所有用户的英镑存取款服务\n\n\n\n\nBinance 已于 3 月 13 日暂停新用户的英镑存取款，并于 5 月 22 日暂停所有用户的英镑存取款服务。Binance 发言人在电子邮件中表示，已经收到 Binance 法币合作伙伴 Paysafe 的通知，从 2023 年 5 月 22 日起，他们将不再能够提供英镑存取款服务。\n\nBinan…",
@@ -93,16 +103,6 @@
           "publishedOn": "2023-05-20T01:10:18.000Z",
           "wordCount": null,
           "title": "智能合约钱包UniPass和硬件钱包Keystone合并成立Account Labs，聚焦下一代Web3账户抽象解决方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37100",
-          "author": null,
-          "description": "随着去中心化金融的兴起，对跨链兼容性的需求比以往任何时候都更加明显。随着区块链网络和协议的数量不断增加，互操作性已经成为加密货币行业的一个主要挑战。",
-          "link": "https://www.theblockbeats.info/news/37100",
-          "publishedOn": "2023-05-19T13:00:01.000Z",
-          "wordCount": null,
-          "title": "跨链钱包的竞争格局和未来",
           "imageUrl": null
         }
       ]
