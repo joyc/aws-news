@@ -104,46 +104,6 @@
           "wordCount": null,
           "title": "跨链钱包的竞争格局和未来",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37108",
-          "author": null,
-          "description": "原文标题：《OPENING THE ORB: A look inside Worldcoin's biometric imaging device》\n原文来源：Worldcoin\n原文编译：Kxp，BlockBeats\n\n\nWorldcoin 将始终坚持基于隐私、信任和透明的一系列宗旨和原则。\n\n\n这就是为什么我们一直致力于尽可能开源我们创建和使用的技术。我们还希望让其他人能够开发、构建和运营与 World ID 协议集成的类似设备，最终的目标是实现项目各部分的完全去中心化。\n\n\n在本文中，我们将分享关于我们正在构建的硬件的具体性、实质性细节。经过三年的研发，我们很高兴能为大家展示 Orb、解释它的工作原理，并发布相应的硬件工程文件。这将是我们实现对透明度的承诺并增加其在全球社区中可信度的重要一步。\n\n\n在接下来的几个月中，我们将发布更多文章，解释 Orb 的其他部分和注册流程。\n\n\n\n\n\n为什么我们需要定制硬件，以及为什么它要扫描虹膜？\n\n\n当 Worldcoin 创立时，我们并不打算开发一种物理设备，更不用说为生物特征成像而建造一种设备了。定制硬件困难且昂贵，如果没有必要的话，谁也不愿意在这上面投入精力。相反，我们的目标是自由分发一种新的数字代币给全世界的每个人，以帮助他们进入并参与全球经济。只有在得出生物特征是实现我们目标的唯一现实途径后，我们才着手创建 Orb。\n\n\n了解更多关于生物特征的包容性以及 Worldcoin 为何使用它们的信息，请点击这里。\n\n\n在探索解决 sybil resistance 和验证独特身份的许多不同方法时，我们的研究表明，虹膜扫描提供了最准确的生物特征，并具有可接受的用户体验，在大规模测试中取得了成功。这是因为虹膜具有较强的防欺诈性和丰富的数据，意味着它可以准确区分数十亿个独特的人类个体。生物特征标记（如虹膜）的数据丰富程度越高，系统就越…",
-          "link": "https://www.theblockbeats.info/news/37108",
-          "publishedOn": "2023-05-19T10:45:38.000Z",
-          "wordCount": null,
-          "title": "揭开Orb的神秘面纱：Worldcoin如何采集你的虹膜？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37107",
-          "author": null,
-          "description": "精选要闻：\n\n\n\n1、Worldcoin 推出打击黑市新措施，包括面对面注册流程调整等\n2、彭博社：Hashkey Group 计划以超 10 亿美元估值筹集 1 至 2 亿美元资金\n3、ChatGPT 已升至美国地区 App Store 免费 App 排行榜首位\n4、美 CFTC 主席：BTC 和 ETH 是商品，强烈反对 SEC [执法监管]\n5、鲍威尔将于今晚 23 时在「货币政策展望」论坛发表讲话\n6、某巨鲸地址于 6 小时前将 1 万枚 BTC 转至 Coinbase，约合 2.67 亿美元\n\n\n\n\n融资信息\n\n\n\n\n彭博社：Hashkey Group 计划以超 10 亿美元估值筹集 1 至 2 亿美元资金\n\n\n\n\n据彭博社援引消息人士报道，Hashkey 计划以超过 10 亿美元的估值筹集 1 亿至 2 亿美元的资金，目前 Hashkey 经营着香港仅有的两家持牌数字货币交易平台之一。消息人士说，交易正在取得进展，但规模和估值等条款可能会发生变化，因为它们还没有最终确定。\n\n\n\n\nCyberConnect 通过 CoinList Token 公售完成 540 万美元融资\n\n\n\n\nWeb3 社交图谱协议 CyberConnect 宣布其在 CoinList 的 Token 公售已结束，300 万枚 CYBER 已全部售出，每枚售价为 1.8 美元，共筹集了 540 万美元。CyberConnect 表示，共有来自 112 个国家的 53.2 万民用户参与注册，共有 11,540 名参与者参与 Token 公售（其中约 5750 名来自优先队列，约 5790 名来自普通队列）。\n\n\n\n\nWorld Play League 完成 pre-seed 轮融资，Genesis Vault Capital 参投\n\n\n\n\n据 EIN News 报道，Web3 游戏发布平台 Wo…",
-          "link": "https://www.theblockbeats.info/news/37107",
-          "publishedOn": "2023-05-19T10:41:01.000Z",
-          "wordCount": null,
-          "title": "Web3日报｜Worldcoin推出打击黑市措施；Hashkey计划以超10亿美元估值筹集1至2亿美元资金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37104",
-          "author": null,
-          "description": "原文标题：《\n\n交互全指南：ConsenSys旗下Linea「大航海计划」之NFT专场》\n原文来源： ODAILY星球日报\n\n\nLinea 是一个新的 zk-rollup 网络，由 ConsenSys 公司研发设计并负责运营，与以太坊虚拟机（EVM）完整兼容。其目标是成为「字节码兼容级别」的 zkEVM，使开发人员可以更轻松地在 Layer 2 上构建和维护应用程序。去年 12 月，Linea 推出私人测试网并运行三个月，总交易量达 150 万笔。\n\n\n今年 5 月 2 日，Linea 联合 Galxe 正式启动忠诚度计划「Linea Voyage\"以鼓励早期用户使用公共测试网，活动为期 9 周，用户可以探索 Linea 生态系统，参与每周挑战并收集积分以领取专属 Linea NFT。\n\n\nNFT 有什么用？Linea Voyage 最终目的是通过测试网活动为今年晚些时候主网上线做准备，为此官方共准备了四个「版本」的 NFT 作为激励，每个版本对应本次 Voyage 积累的分数阈值。此外，Linea 测试网如果在 Voyage 结束前超过 3000 万笔交易，官方还将额外为所有参与者提供一个纪念版 NFT——纪念版 NFT 并不意味着将来会有 Linea 代币（Odaily 星球日报注：换言之，前四个版本的 NFT 大概率有代币空投）。\n\n\n目前，活动已经进行两周，第一周是跨链（总分 116 分），第二周是社区活动（15 分，即便错过也无妨）。第三周活动主题为 NFT（5 月 16 日至 5 月 21 日），总分 109 分，共计 20 项目小任务。本周任务的合作伙伴是 ghostNFT、NFTs 2 me、Zonic 和 Bilinear，任务链接：https://galxe.com/Linea/campaign/GCEMnUEySZ\n\n\n在开始交互前，请确保你在 Met…",
-          "link": "https://www.theblockbeats.info/news/37104",
-          "publishedOn": "2023-05-19T09:08:42.000Z",
-          "wordCount": null,
-          "title": "Linea「大航海计划」NFT专场交互全指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37103",
-          "author": null,
-          "description": "原文来源：@SethCryptoSerch\n\n\n1）\n最近在研究 #BRC20 上面比较火的 #DeFi 类项目，虽然目前都没有实现，但是确实都提出了概念，并且都在有序进行中\n\n今天就抽几个项目方一直在做事的项目，拿出来讲一讲，我认为如果想要更多人参与 #BRC20 进来，就一定要有一些实际应用，而有 #DeFi 其实就是一个不错的切入点。\n\n\n\n\n\n 2） #BRC20 上没有 #DeFi，因为没有智能合约，我觉得这是搞技术的人该思考的事情，故事并不重要，故事所能达到的预期结局才是最重要的，至于最后能不能达到？我们相信是可以的。而且在那之前你就应该将你的本金收回了\n\nOK，废话不多说，接下来就说几个目前比较流行的 #BRC20 #DeFi 项目  \n\n\n3）首先是目前最早期，也是社区最活跃的项目 @oshifinance，$oshi准备做流动性池，所谓流动性池子就是，用户能够通过流动性池子添加代币，然后其他用户进行兑换的时候赚取一定的交易费，#uniswap 就是流动性池，这个大家一定知道\n\n\n\n\n\n4）第二个就是 @CrimsonElep 尝试实验进行的 $orpo，同样也是流动性池类的项目，相较于$oshi，不仅有流动性池子创建，添加删除流动性，还加入了质押的预想\n\n\n\n\n\n5）第三个就是 @0x_web3提出的 $bYLD，尝试在 #BRC20 上实现（3,3），可能一些新韭菜不知道什么是（3，3），所谓（3,3）就是类似于过去 $ohm和青蛙军团 $time 的项目\n\n\n\n\n\n6) 它们每发行一个代币只需要国库里有 1 美元稳定币作为准备金，而只要所有人都质押代币，市场需求就大于供给，价格就会不断增高，当人们将代币质押进国库的时候，质押金额超过 1 美元的部分就会继续发行代币回报给每个质押的人，从而通过质押获得超高额的年回报率\n\n\n7）$bYLD 尝试在 #BRC20 上实现（3,3）绝对是一个相当有趣的开创性项目 以上就是目前三个比较流行的 #BRC20 上的 #DeFi 项目，他们都正在积极推进项目的开发和实施工作，以实现其既定目标，看起来都比较可靠 明天我会列出个表格，将所有 #BRC20 上的 #DeFi 项目列出来，欢迎关注，转发本条，谢谢\n\n\n原文链接",
-          "link": "https://www.theblockbeats.info/news/37103",
-          "publishedOn": "2023-05-19T07:45:46.000Z",
-          "wordCount": null,
-          "title": "BTC DeFi有哪些能关注的项目",
-          "imageUrl": null
         }
       ]
     },
