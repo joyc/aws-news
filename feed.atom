@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-22T18:08:40.127Z</updated>
+    <updated>2023-05-23T00:36:36.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -423,16 +423,6 @@ Binan…]]></summary>
         <link href="https://www.theblockbeats.info/news/37113"/>
         <updated>2023-05-21T03:00:01.000Z</updated>
         <summary type="html"><![CDATA[估值 30 亿美元，一年估值翻 3 倍，a16z 两轮参投，Worldcoin 如何做到？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Spiral DAO：将第三方协议奖励保留在DAO资金储备中的收益聚合器]]></title>
-        <id>https://www.theblockbeats.info/news/37112</id>
-        <link href="https://www.theblockbeats.info/news/37112"/>
-        <updated>2023-05-20T09:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Spiral DAO独特的资金储备再平衡机制和Token经济模型使其能够利用贿赂市场的低效性，提高贿赂收益和流动性深度。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
