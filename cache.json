@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37126",
+          "author": null,
+          "description": "原文标题：《他，华尔街华人 NO.1，10 岁开始开挂》\n原文来源：华尔街见闻\n\n\n对于 Citadel Securities 的华人 CEO 赵鹏，有人形容他是「天才」，有人形容他是「天生的企业家」。如果简单地把他看做一名学霸不免有些偏狭，因为学霸层出不穷，而在华尔街风起云涌间一路乘风而上的传奇人生却很难复刻。\n\n\n在华尔街的众多神话里，赵鹏的故事肯定不能算是最具传奇色彩的一个，但绝对是浓墨重彩的一笔。\n\n\n随着「全球对冲基金新王」肯·格里芬的 Citadel 规模越做越大，旗下对冲基金 Citadel LLC 登顶 2022 年对冲基金最赚钱榜单，做市商 Citadel Securities 也一跃成为业界的「王者」。Citadel Securities 背后的掌门人赵鹏也逐渐为人们所熟知。\n\n\n从履历来看，赵鹏绝对是国内不折不扣的「学霸」：10 岁进入少儿班，14 岁考上北大数学系；在美国加州大学伯克利分校博士毕业后入职 Citadel Securities，不到十年就坐上了 CEO 的位置。\n\n\n\n\n\n作为为数不多的年入 9 位数的北美华人，赵鹏神秘又低调，能公开检索到的信息少之又少。除了在收益上令人咂舌，赵鹏在圈内的地位和声望也是其它华人难以相比的。\n\n\n有人形容赵鹏是「天才」，有人形容他为「天生的企业家」。如果简单地把他看做一名学霸不免有些偏狭，因为学霸层出不穷，而在华尔街风起云涌间一路乘风而上的传奇人生却很难复刻。\n\n\n开挂的人生从 10 岁就开始了\n\n\n赵鹏的起跑线天生就领先于普通人。\n\n\n1983 年，赵鹏出生于北京，从小就表现出了过人的聪慧：10 岁进入了北京八中的「少儿班」，用 4 年时间完成了小学五年级到高中的所有知识，并以优异成绩考进了北大数学系，在校期间分别获得北京大学创新奖、Berkeley Fellow Erich Lehmann Citat…",
+          "link": "https://www.theblockbeats.info/news/37126",
+          "publishedOn": "2023-05-23T02:00:01.000Z",
+          "wordCount": null,
+          "title": "Citadel Securities CEO赵鹏：华尔街华人巅峰，十岁起人生开挂",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37124",
           "author": null,
           "description": "原文标题：《iZUMi开创的DL-AMM：基于UniSwap V3思路的改进》\n原文来源：Biteye\n\n\n自 Uniswap 推出 V3 版本一年半有余，其所提出的「聚合流动性」概念已被用户习以为常。\n\n\n目前 Uniswap 官网提供的分析数据中，V3 的 TVL 约是 V2 的 3 倍以上，日交易量则在 10 倍以上。\n\n\nhttps://info.uniswap.org/#/\n\n\n集中流动性使得用户可以主动选择其提供流动性的价格范围，显著提升了 V3 的 LP 资金效率，但其并未改变定义 LP 的恒定乘积公式，也就是说，无常损失仍然存在，并随着资金效率提升而相对放大；\n\n\n用户交易仍旧有滑点，易遭到三明治攻击。从用户角度，限价单是更为习惯、也更有利的交易方式，但 V3 并没有做到这一点。\n\n\nUniswap V3 实际上已经有了价格区间的概念，每个区间的流动性定义因该区间价格上下限不同而不同，如下：\n\n\n\n\n\n由于 LP 无法实时追踪市场价格变化，一旦价格超出所选区间，LP 对本身会变为单一币种流动性，相对于现有市价是存在损失的。\n\n\n在追踪市价一途，机构及专业投资者显然更具优势；而一份近期的数据分析指出，为 Uniswap V3 提供流动性的投资者整体处于亏损状态，手续费并没有超过无常损失。\n\n\nhttps://twitter.com/thiccythot\\_/status/1589022227437039616\n\n\nAMM 真的要 xy=k 一条道走到黑吗？笔者最近注意到一脉新的 AMM 设计思路，在此分享。\n\n\n01 iZUMi 的 DL-AMM 模型\n\n\nDL-AMM 模型源自 iZUMi 产品矩阵中的 iZiswap，其设计概念最早于 2021 年 11 月由 iZUMi 的两位 co-founder 发表的论文中提出。\n\n\nhttps://assets.…",
