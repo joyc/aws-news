@@ -2,10 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-23T06:09:33.825Z</updated>
+    <updated>2023-05-23T12:12:34.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧易OKX向法国监管机构申请成为合资格的数字资产服务提供商]]></title>
+        <id>https://www.theblockbeats.info/news/37135</id>
+        <link href="https://www.theblockbeats.info/news/37135"/>
+        <updated>2023-05-23T11:12:19.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：OKX
+
+
+2023 年 5 月 23 日，全球交易额第二大数字资产交易所及领先的 Web3 科技公司欧易 OKX今日宣布，已根据法国金融市场管理局 (AMF) 和法国金融审慎监理总署 (ACPR) 的严格规定，递交申请冀获得法国数字资产服务提供商（DASP）的注册许可。
+
+
+欧易 OKX 于 4 月成立法国公司，随后即决定向法国金融市场管理局申请成为数字资产服务提供商。法国作为欧洲的重要枢纽，此举彰显出欧易 OKX 致力于拓展欧洲业务的决心。而在获得法国金融市场管理局的注册批准后，欧易 OKX 即能够向法国用户提供一系列符合当地监管要求的产品和服务。
+
+
+欧易 OKX 全球政府关系主管 Tim Byun 表示：「法国为数字资产服务提供商设立了一个清晰且稳妥的监管框架。鉴于在法国注册的数字资产服务提供商数量日益增多，欧易 OKX 期待能助力法国建设安全稳健的生态系统。是次申请也说明欧易 OKX 支持新的监规框架，并准备就绪，将全力支持欧盟于 2024 年推行的《加密资产市场监管法案》（The Markets in Crypto Assets Regulation，MiCA）。」
+
+
+除了完善有效的监管框架外，法国有望成为欧易 OKX 在欧洲市场的重要据点，因其聚集充满热诚的加密货币爱好者、经验丰富的交易员和高素质的人才，正好符合欧易 OKX 发展欧洲市场的必要条件。
+
+
+负责数字化转型及电信的法国经济、财政及工业、数码主权部长代表巴罗 (Jean-Noël Barrot ) 表示：「我们非常高兴欧易 OKX 选择法国作为其拓展欧洲业务的起点。欧易 OKX 的决策巩固了法国在成为重点发展 Web3 技术的重要国家的信念，这正是自 2017 年由我国总统马克龙（Emmanuel Macron）与部长勒梅尔（Bruno Le Maire）倡导的愿景。法国监管部门一直致力深耕数字资产领域，具有专业知识和丰富经验，使欧易 OKX 能在申请注册的过程及未来发展的路上受益于贯彻一致和稳健的监管制度。法国政府出台的政策旨在培育稳定安全的创新加密货币行业，而欧易 OKX 的决定正印证此政策的成功。我们深信法国已具备领导全球 Web3 创新和数字经济的所有必要条件。」
+
+
+合规、监管以及透明度对数字资产和区块链行业而言是成功的关键因素。多年来欧易 OKX 为确保合规采取了各种措施，包括培育国际合规团队，积极采取措施防范诈骗和勒索行为。为提高透明度，欧易 OKX 一直精益求精，采用高于行业标准的措施，无需依赖第三方便能够实时验证交易平台的资金储备、负债和偿付能力。
+
+
+今年 3 月，欧易 OKX 宣布申请香港的虚拟资产服务提供者 (VASP) 牌照。现在，欧易 OKX 已经获得巴哈马数字资产业务的正式注册，并且持有迪拜虚拟资产监管机构（VARA）颁发的临时牌照。
+ 
+欧易 OKX 总裁 Hong Fang 表示：「我们致力于扩大业务范围，并与欧洲监管机构紧密合作。就欧易 OKX 的发展而言，法国市场的业务将是十分重要的一环。我们很高兴可在拓展欧易 OKX 法国产品组合的同时，与法国金融市场管理局保持合作，为用户和企业提供安全高效的交易模式。身为 Web3 领军企业，我们期望能向法国市场介绍欧易 OKX 开发的多个精彩项目。」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读a16z：6亿美元游戏基金募资Deck，游戏的吸引力何在？]]></title>
+        <id>https://www.theblockbeats.info/news/37133</id>
+        <link href="https://www.theblockbeats.info/news/37133"/>
+        <updated>2023-05-23T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[a16z Games Fund One 的管理人 Andrew Chen 披露了该基金在2022年时的募资Deck，一年过去，该基金已经进行了 25 项投资 。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊坎昆升级将带来哪些实质性利好？]]></title>
+        <id>https://www.theblockbeats.info/news/37132</id>
+        <link href="https://www.theblockbeats.info/news/37132"/>
+        <updated>2023-05-23T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[坎昆升级为什么重要，它有哪些内容，以及会带来哪些发展机会？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第21周链上数据：全球购买力少量回升，稳定币购买力流失]]></title>
+        <id>https://www.theblockbeats.info/news/37131</id>
+        <link href="https://www.theblockbeats.info/news/37131"/>
+        <updated>2023-05-23T06:46:42.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：「WTR」研究院  
+
+
+本周回顾
+
+
+ 本周从 5 月 16 日到 5 月 22 日，冰糖橙最高附近$27500，最低接近$26518，震荡幅度达到 3.7% 左右。观察筹码分布图，在约 $26083 附近有大量筹码成交，将有一定的支撑或压力。
+
+
+分析：
+
+
+24000 - 29000 约 269 万枚；
+
+
+18500 - 23500 约 231 万枚。
+
+
+短期内跌不破在 20000 ~ 24000 概率为 59 %。
+
+
+ 
+
+ 
+
+
+重要消息方面
+
+
+经济消息方面
+
+
+1、美 5 月纽约联储制造业指数 31.8，大幅低于预期值 2.5，前值 10.8。
+
+
+2、本周鲍威尔发表鸽派信号称，倾向于支持 6 月会议暂不加息，而且银行业危机导致的信贷条件收紧，可能意味着美联储峰值利率将低于预期。
+
+
+3、本周耶伦与大型银行首席执行官的会议上称，美国银行业仍在应对着危机，未来可能会出现更多的银行合并。市场认为，这意味着可能会有更多的银行即将倒闭。
+
+
+4、本周美油和布油期货震荡收跌，整周跌幅小于上周。黄金期货本周下跌，全周累跌 1.89%。
+
+
+加密生态消息方面
+
+
+1、Tether 从本月开始将定期分配高达 15% 的已实现净营业利润用于购买大饼，以进一步加强储备并使储备多样化。
+
+
+2、国际证券监管机构 ( OSCO）表示：将为加密资产提供第一套全球协调的规则，包括现有规范如何适用于该行业。
+
+
+国际证监会组织成员，如美证券交易委员会、日、英、德、法的监管机构，均承诺将应用 OSCO 的建议。
+
+
+3、DeFi 资管平台 Yield App 与英国 Volt 达成合作，打通英镑和欧元入口，Yield App 客户可以直接通过银行即时购买加密货币。
+
+
+4、彭博社最新调查：如果美国触及债务上限，"黄金、美债、大饼 "将是投资者的前三大首选资产，比美元、日元、瑞…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Research：BRC-20原理、现状和未来]]></title>
+        <id>https://www.theblockbeats.info/news/37130</id>
+        <link href="https://www.theblockbeats.info/news/37130"/>
+        <updated>2023-05-23T03:41:23.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《 
+
+BRC-20 Tokens: A Primer
+
+》
+原文来源：Binance Research
+
+原文编译：Lynn，MarsBit
+
+
+
+目录
+
+
+什么是序数和铭文？
+
+
+BRC-20 代币适用于哪些领域？
+
+
+BRC-20 的市场是什么样的？
+
+
+使用 BRC-20 代币与使用其他标准的代币相比如何？
+
+
+BRC-20 对比特币市场的影响
+
+
+同质化与非同质化
+
+
+内存池
+
+
+交易费用
+
+
+社区回应
+
+
+「亲费」人群
+
+
+「低费」阵营
+
+
+BUIDLer
+
+
+风险与挑战
+
+
+限于没有基础设施没有实际效用诈骗风险高
+
+
+未来展望
+
+
+比特币 Layer 2
+
+
+基础设施
+
+
+代币设计的创新
+
+
+1. 关键要点
+
+
+ BRC-20 代币是 Ordinals Protocol 的最新创新，并在最近几周接管了 Crypto Twitter 的时间线。
+
+
+ BRC-20 是一种实验性代币标准，支持在比特币区块链上部署、铸造和转移非同质化代币。虽然这些代币的总市值甚至达到了 10 亿美元，但代币本身相对简单，没有任何智能合约功能，不像 ERC-20 或 BEP-20 代币。
+
+
+ 由于 5 月初的铸币狂潮，比特币内存池出现严重拥堵，网络交易费用飙升。
+
+
+ 考虑到随着区块奖励随时间下降而补充矿工收入的重要性，生态中的许多人都欢迎更高的费用。然而，其他人在讨论对价格更敏感的地区的用户定价的缺点时更为批评。
+
+
+ 在这个早期市场阶段，BRC-20 代币带来了相当大的风险，需要更多的基础设施支持。正如创始人所说，这是一个实验，应该严格审查潜在的风险。
+
+
+ Ordinal、Inscription 和 BRC-20 代币有助于证明在传统货币用例之外对比特币区块空间有明显的有机需求。这可能是比特币安全模型长期可持续性的关键因素。
+
+
+ 比特币 Layer 2 的发展、对…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citadel Securities CEO赵鹏：华尔街华人巅峰，十岁起人生开挂]]></title>
         <id>https://www.theblockbeats.info/news/37126</id>
