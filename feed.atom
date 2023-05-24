@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-23T18:08:34.582Z</updated>
+    <updated>2023-05-24T00:36:08.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -627,64 +627,6 @@ Arbitrum 背后的团队来自哪里？他们怎么看待 Optimistic 和 ZK 扩�
         <link href="https://www.theblockbeats.info/news/37116"/>
         <updated>2023-05-22T03:13:17.000Z</updated>
         <summary type="html"><![CDATA[以太坊网络的共识机制是目前最安全的加密经济系统之一。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周前瞻｜第13个比特币披萨日将至；Greenfield测试网升级并更名为Mekong Testnet]]></title>
-        <id>https://www.theblockbeats.info/news/37115</id>
-        <link href="https://www.theblockbeats.info/news/37115"/>
-        <updated>2023-05-21T07:29:59.000Z</updated>
-        <summary type="html"><![CDATA[精选事件：
-「比特币披萨日」13 周年；
-EDCON 2023 黑山会议即将闭幕；
-韩国法院将于 5 月 26 日对 Terra 联创 Daniel Shin 进行首次审判；
-美泰将于 5 月 22 日推出《速度与激情》电影系列 NFT；
-Tornado Cash 开发者 Alexey Pertsev 的进一步调查听证会将于 5 月 24 日举行；
-
-
-5 月 22 日
-
-
-
-
-美泰将于 5 月 22 日推出《速度与激情》电影系列 NFT
-
-
-美国玩具制造商美泰将于 5 月 22 日推出基于「速度与激情」电影的最新版「Hot Wheels NFT Garage」系列。「Hot Wheels NFT Garage x Fast & Furious」系列将在 Flow 区块链上推出，并以电影中的汽车为主题，包括 Dominic Toretto 的座驾 1970 道奇 Charger，Brian O'Conner 的座驾 1969 Camero，以及 Suki 的座驾本田 S2000，限量版 NFT 的售价为 20 美元。
-
-
-
-
-Epic Games 前开发执行副总裁将担任 Yuga Labs 首席技术官
-
-
-
-
-据 CoinDesk 报道，《堡垒之夜》开发商 Epic Games 前开发执行副总裁 Mike Seavers 将加入 Yuga Labs 担任首席技术官，于 5 月 22 日生效。
-
-
-
-
-Binance 将于 5 月 22 日暂停所有用户的英镑存取款服务
-
-
-
-
-Binance 已于 3 月 13 日暂停新用户的英镑存取款，并于 5 月 22 日暂停所有用户的英镑存取款服务。Binance 发言人在电子邮件中表示，已经收到 Binance 法币合作伙伴 Paysafe 的通知，从 2023 年 5 月 22 日起，他们将不再能够提供英镑存取款服务。
-
-Binan…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末荐读：Worldcoin凭何拿下1亿美元融资；Ledger的新功能为何被骂？]]></title>
-        <id>https://www.theblockbeats.info/news/37114</id>
-        <link href="https://www.theblockbeats.info/news/37114"/>
-        <updated>2023-05-21T07:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Meme 币炒作渐冷，Worldcoin 王者归来。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
