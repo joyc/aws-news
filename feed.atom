@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-24T06:09:12.363Z</updated>
+    <updated>2023-05-24T12:12:23.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkML会是zk赛道的新方向吗？]]></title>
+        <id>https://www.theblockbeats.info/news/37145</id>
+        <link href="https://www.theblockbeats.info/news/37145"/>
+        <updated>2023-05-24T11:04:47.000Z</updated>
+        <summary type="html"><![CDATA[近期 Worldcoin 的爆火也为一个 Web 3+AI 叙事造了足够的势，Worldcoin 隶属 zkML 概念，源自 zk+ML（零知识证明和机器学习），也是近期谈论较多的一个新兴结合体，zk 技术自然不用都说，而 ML 是 AI 的一个子领域，此前 AI+Web3 就已经是行业内颇具热度的叙事，只是目前来看并没有很好的概念或用例将两者无缝衔接起来，而近期的黑山大会上，Vitalik 也对 zkSNARK 推崇备至，加上 Worldcoin 的爆火，所以 zkML 脱颖而出是可以预见的。
+
+
+
+
+大家可能对 zkML 不太熟悉，本文主要为大家拨开 zkML 身上的迷雾，重点讲述 zkML 简介、用例以及一些潜力项目，正式因为目前 zkML 用例不太多，所以才希望大家可以抓住机会，提前了解新概念和用例，做好准备。
+
+
+
+
+Web 3 + ML 
+
+
+
+
+zkML 结合了零知识证明和机器学习，其实在 Web 3 之外，ML 早已不是新词了，该技术已经广泛地在一些领域获得用例，比如，自然语言处理（NLP）、自动驾驶、电商等领域，都已经通过 ML 技术达到更高的水平，甚至在一些领域 ML 已经占据了主导地位，所以未来的 zkML 也是大势所趋，智能合约中嵌入 ML 也会为智能合约提供更复杂和更智能的处理方式。
+
+
+
+
+通过添加 ML 功能，智能合约可以变得更加自主和动态，允许它们根据实时链上数据而不是静态规则做出处理。智能合约将更具灵活性，适应更多场景，包括那些在最初创建合约时可能没有预料到的场景。简而言之，ML 功能将扩大我们放在链上的任何智能合约的自动化、准确性、效率和灵活性。
+
+
+
+
+目前，ML 之所以没有在 crypto 广泛采用的原因之一是在链上运行这些模型的计算成本很高，比如 fastBERP——一类 NLP 语言模型，该模型的采用需要使用约 1800 MFLO…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币减半不足一年：周期理论是否仍然可靠？]]></title>
+        <id>https://www.theblockbeats.info/news/37141</id>
+        <link href="https://www.theblockbeats.info/news/37141"/>
+        <updated>2023-05-24T08:09:01.000Z</updated>
+        <summary type="html"><![CDATA[不要迷信周期理论，它只能作为你投资决策的一个参考。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi的危与机：过气蓝筹如何重获市场关注？]]></title>
+        <id>https://www.theblockbeats.info/news/37142</id>
+        <link href="https://www.theblockbeats.info/news/37142"/>
+        <updated>2023-05-24T07:38:47.000Z</updated>
+        <summary type="html"><![CDATA[当下的 DeFi 蓝筹们不设边界的尝试，正是众多 DeFi 协议从不同渠道入手，开展自我救赎的一个缩影。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拥有170万用户的Worldcoin App，集成了哪些Crypto应用？]]></title>
+        <id>https://www.theblockbeats.info/news/37140</id>
+        <link href="https://www.theblockbeats.info/news/37140"/>
+        <updated>2023-05-24T06:57:54.000Z</updated>
+        <summary type="html"><![CDATA[World App 利用 Ethereum 的可组合性，搭载了多个协议和 API。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果MR头显或将推出，Crypto市场相关概念币有哪些？]]></title>
         <id>https://www.theblockbeats.info/news/37139</id>
