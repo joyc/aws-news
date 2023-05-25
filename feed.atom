@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-25T06:09:23.883Z</updated>
+    <updated>2023-05-25T12:12:18.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜Multichain联创回应社区疑问；央视网下线CZ推文引用视频]]></title>
+        <id>https://www.theblockbeats.info/news/37388</id>
+        <link href="https://www.theblockbeats.info/news/37388"/>
+        <updated>2023-05-25T11:21:54.000Z</updated>
+        <summary type="html"><![CDATA[精选要闻：
+1、OpenAI 旗下创业投资基金 OpenAI Startup fund I 完成超过 1.75 亿美元募资；
+2、央视网已下架 CZ 此前「牛市看涨」推文引用的视频网页；
+3、Multichain：部分跨链路由因不可抗力无法使用，恢复服务时间未知，联创称目前团队健全，主业务正常；
+4、美联储会议纪要：不太可能降息，对进一步加息与否存分歧；
+5、比特币短时跌破 26,000 美元；
+6、韩国国会通过要求立法者和高级公职人员登记虚拟资产的法案；
+
+
+
+
+融资信息
+
+
+
+
+彭博社：OpenAI 旗下创业投资基金完成 1.75 亿美元募资
+
+
+
+
+据彭博社报道，一份美国证券交易委员会（SEC）文件显示，ChatGPT 开发公司 OpenAI 旗下创业投资基金 OpenAI Startup fund I 完成超过 1.75 亿美元募资。
+
+
+
+
+Kosmos Ventures 成立新区块链基金 Zero Age Ventures，已筹集 1000 万美元资金
+
+
+
+
+澳大利亚风投基金 Kosmos Ventures 背后团队宣布推出新投资基金 Zero Age Ventures，专注于区块链技术。Zero Age Ventures 将继续管理 Kosmos 的新投资。在成功完成初始交易后，General Partners 认捐了高达 1000 万美元的自有资本，Zero Age Ventures 将在 2023 年和 2024 年分配大量资金。Kosmos 最初成立于 2017 年，对 Solana、Algorand、Polkadot 和 Fantom 等协议进行了大量种子投资。
+
+
+
+
+新加坡 Avatar 通信公司 GoodGang Labs 成 200 万美元种子轮融资，Kakao Investment 参投
+
+
+
+
+据 Technode 报道，新加坡 Avat…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hourglass：什么是时间绑定Token？]]></title>
+        <id>https://www.theblockbeats.info/news/37377</id>
+        <link href="https://www.theblockbeats.info/news/37377"/>
+        <updated>2023-05-25T10:38:09.000Z</updated>
+        <summary type="html"><![CDATA[通过时间绑定 Token, Hourglass 将时间转化为价值，实现了资产质押期间的灵活交易。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简析Lybra Finance v2：拓展eUSD应用场景、吸引TVL与Tokenomics优化]]></title>
+        <id>https://www.theblockbeats.info/news/37332</id>
+        <link href="https://www.theblockbeats.info/news/37332"/>
+        <updated>2023-05-25T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Lybra正在思考如何保证eUSD拥有充足的流动性，其主要思路是将eUSD引入Curve。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI WORLD项目顾问龚辉博士将于5月26日晚亲临推特Space与社区互动]]></title>
+        <id>https://www.theblockbeats.info/news/37338</id>
+        <link href="https://www.theblockbeats.info/news/37338"/>
+        <updated>2023-05-25T07:29:56.000Z</updated>
+        <summary type="html"><![CDATA[三大活动助力AI WORLD热度上升，已有超过240万个钱包地址参与其中。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原生资产VS桥接资产：加密货币的安全之路]]></title>
+        <id>https://www.theblockbeats.info/news/37335</id>
+        <link href="https://www.theblockbeats.info/news/37335"/>
+        <updated>2023-05-25T07:14:29.000Z</updated>
+        <summary type="html"><![CDATA[了解和区分加密货币的原生资产与跨链桥资产的重要性。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIFi项目TradeGDT人气飙升，或将改变交易领域格局]]></title>
         <id>https://www.theblockbeats.info/news/37308</id>

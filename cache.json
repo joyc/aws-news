@@ -6,6 +6,56 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37388",
+          "author": null,
+          "description": "精选要闻：\n1、OpenAI 旗下创业投资基金 OpenAI Startup fund I 完成超过 1.75 亿美元募资；\n2、央视网已下架 CZ 此前「牛市看涨」推文引用的视频网页；\n3、Multichain：部分跨链路由因不可抗力无法使用，恢复服务时间未知，联创称目前团队健全，主业务正常；\n4、美联储会议纪要：不太可能降息，对进一步加息与否存分歧；\n5、比特币短时跌破 26,000 美元；\n6、韩国国会通过要求立法者和高级公职人员登记虚拟资产的法案；\n\n\n\n\n融资信息\n\n\n\n\n彭博社：OpenAI 旗下创业投资基金完成 1.75 亿美元募资\n\n\n\n\n据彭博社报道，一份美国证券交易委员会（SEC）文件显示，ChatGPT 开发公司 OpenAI 旗下创业投资基金 OpenAI Startup fund I 完成超过 1.75 亿美元募资。\n\n\n\n\nKosmos Ventures 成立新区块链基金 Zero Age Ventures，已筹集 1000 万美元资金\n\n\n\n\n澳大利亚风投基金 Kosmos Ventures 背后团队宣布推出新投资基金 Zero Age Ventures，专注于区块链技术。Zero Age Ventures 将继续管理 Kosmos 的新投资。在成功完成初始交易后，General Partners 认捐了高达 1000 万美元的自有资本，Zero Age Ventures 将在 2023 年和 2024 年分配大量资金。Kosmos 最初成立于 2017 年，对 Solana、Algorand、Polkadot 和 Fantom 等协议进行了大量种子投资。\n\n\n\n\n新加坡 Avatar 通信公司 GoodGang Labs 成 200 万美元种子轮融资，Kakao Investment 参投\n\n\n\n\n据 Technode 报道，新加坡 Avat…",
+          "link": "https://www.theblockbeats.info/news/37388",
+          "publishedOn": "2023-05-25T11:21:54.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜Multichain联创回应社区疑问；央视网下线CZ推文引用视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37377",
+          "author": null,
+          "description": "通过时间绑定 Token, Hourglass 将时间转化为价值，实现了资产质押期间的灵活交易。",
+          "link": "https://www.theblockbeats.info/news/37377",
+          "publishedOn": "2023-05-25T10:38:09.000Z",
+          "wordCount": null,
+          "title": "Hourglass：什么是时间绑定Token？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37332",
+          "author": null,
+          "description": "Lybra正在思考如何保证eUSD拥有充足的流动性，其主要思路是将eUSD引入Curve。",
+          "link": "https://www.theblockbeats.info/news/37332",
+          "publishedOn": "2023-05-25T08:00:01.000Z",
+          "wordCount": null,
+          "title": "简析Lybra Finance v2：拓展eUSD应用场景、吸引TVL与Tokenomics优化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37338",
+          "author": null,
+          "description": "三大活动助力AI WORLD热度上升，已有超过240万个钱包地址参与其中。",
+          "link": "https://www.theblockbeats.info/news/37338",
+          "publishedOn": "2023-05-25T07:29:56.000Z",
+          "wordCount": null,
+          "title": "AI WORLD项目顾问龚辉博士将于5月26日晚亲临推特Space与社区互动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37335",
+          "author": null,
+          "description": "了解和区分加密货币的原生资产与跨链桥资产的重要性。",
+          "link": "https://www.theblockbeats.info/news/37335",
+          "publishedOn": "2023-05-25T07:14:29.000Z",
+          "wordCount": null,
+          "title": "原生资产VS桥接资产：加密货币的安全之路",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37308",
           "author": null,
           "description": "原文来源：TradeGDT\n\n\n生成式 AI 现在可以创建图像、视频和文本这样的全新内容。借助深度学习算法如 GAN（生成对抗网络），研究人员正在开发能够生成逼真和原创内容的 AI 模型。ChatGPT（生成式预训练 Transformer 模型）引领了 AI 的趋势，拓宽了人们对 AI 的视野，与 ChatGPT 的对话就像和人类一样自然。\n\n\n\n\n交易一直是金融市场和整体经济的核心之一。交易有助于确定资产、证券和加密货币本身的市场价格。交易还通过为投资者提供快速轻松买卖资产的机制，为市场创造了流动性。因此，交易中对 AI 的需求日益增加。在加密货币交易中，一切都以闪电般的速度发生。人类的生产力已经成为限制因素，对机器人的依赖度越来越高。AI 的应用将带来一场革命，它能以更少的情绪和更高的效率，超越人类的表现。\n\n\n\n\nTradeGDT（交易生成式数据 Transformer 模型）是结合 AI 的升级版大数据量化交易机器人。通过结合 ChatGPT 插件，它可以更智能、更灵活地与用户交流。用户可以与 TradeGDT 沟通执行订单，TradeGDT 甚至可以提示用户警惕配对动态信息。并且通过 AI 模式学习，TradeGDT 可以分析研究用户数据，动态交易模型，识别属于交易者的盈利模式，然后制定一套交易模型进行自动化执行，同时成为交易者的 AI 智能交易助手，成为交易者自身的优化版本。\n\n\n\n\n自 2022 年初以来，TraderDAO 团队一直致力于在加密交易中应用 AI。TradeGDT 的推出正是为了满足加密交易市场的需求。TraderDAO 团队不断扩大，自团队成员扩充以来，极大地提速了 TradeGDT 的开发。带着非常明确的目标和承诺，TraderDAO 与 Bybit 密切合作，向市场推出了 MVP(最小可行产品)，并在推出后的 4 小时内达到了 Bybit 24 小时交易量的 10% 以上 (3.3 亿美元)，市场反响强烈。\n\n\n\n\n\n\n\n交易量的增长得益于 TraderDAO 中的交易费用分配 Token POT，作为 AI 数据训练的激励。交易员只需要进行交易就可以铸造 POT，并享受整个平台的费用分配优惠。每一枚 POT 的铸造都需要从交易费用回扣中获得相应的费用。因此，POT 是以 1:1 真实收益资产支持的铸造，随着市场继续增加新的交易，POT 的价值将会越来越大，这些交易将为 AI 模式学习提供数据，推动 TradeGDT 的发展。\n\n\n\n\nPOT 是激励 AI 训练的实用 Token，而 HOT 是 TraderDAO 的治理 Token。HOT 深深植根于 TradeGDT 实用性的核心，是使用或操作 TradeGDT AI 所有即将到来的功能和特性的燃料。TradeGDT 将成为交易员的智能交易助手，通过改进决策制定、提高效率、降低风险、改进投资组合管理、更快更准确的交易执行，革新交易。所有以 HOT 作为 Gas 费的益处，都将推动交易革命的到来。\n\n\n随着 AI 趋势继续在所有领域掀起波澜，TradeGDT 正在 AI 运动的前沿行进。TraderDAO AI TradeGDT 可能是 AIFi（AI Finance）趋势的开始，相比过去大肆宣传的 DeFi 和 GameFi，AIFi 有更大的未来和无限的潜力。交易是所有加密货币价值的中心，结合交易和 AI，TradeGDT 可能成为 AIFi 时代的冠军。\n\n\n关于 TradeGDT\n\n\n\n\nTradeGDT 是一个具有开创性的 AI 项目，正在改变交易领域的格局。我们的团队由来自剑桥和清华等知名机构的资深工程师组成，他们在量化交易方面有超过 5 年的经验。我们还拥有来自新加坡、马来西亚、台湾、香港和英国的多元化管理团队，在全球范围内促进创新。\n\n\n\n\n在 TradeGDT，我们提供一个先进的孵化平台，旨在帮助交易员开发他们的 AI 交易大脑，为交易提供宝贵的帮助，或让其他人跟随他们的成功策略。通过将复杂的隐马尔可夫模型与用户提供的交易数据无缝集成，TradeGDT 能够演化和适应每个交易员的独特交易模式，精确地为他们识别最佳的入场机会。\n\n\n我们生态系统的核心在于 TraderDAO，这是一个持续为 TradeGDT 提供宝贵交易数据的去中心化自治组织。借由超过 10,000 名活跃交易员的社区输入，我们的平台生成了一个更强大的 AI 交易大脑，赋能交易员获得卓越成果。\n\n\n本文来自投稿，不代表律动 BlockBeats 观点。",
