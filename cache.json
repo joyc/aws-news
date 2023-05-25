@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37366",
+          "author": null,
+          "description": "比特币生态新叙事：被诅咒的铭文",
+          "link": "https://www.theblockbeats.info/news/37366",
+          "publishedOn": "2023-05-25T13:00:01.000Z",
+          "wordCount": null,
+          "title": "「被诅咒的铭文」是什么，该如何参与？（附铭刻教程）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37388",
           "author": null,
           "description": "精选要闻：\n1、OpenAI 旗下创业投资基金 OpenAI Startup fund I 完成超过 1.75 亿美元募资；\n2、央视网已下架 CZ 此前「牛市看涨」推文引用的视频网页；\n3、Multichain：部分跨链路由因不可抗力无法使用，恢复服务时间未知，联创称目前团队健全，主业务正常；\n4、美联储会议纪要：不太可能降息，对进一步加息与否存分歧；\n5、比特币短时跌破 26,000 美元；\n6、韩国国会通过要求立法者和高级公职人员登记虚拟资产的法案；\n\n\n\n\n融资信息\n\n\n\n\n彭博社：OpenAI 旗下创业投资基金完成 1.75 亿美元募资\n\n\n\n\n据彭博社报道，一份美国证券交易委员会（SEC）文件显示，ChatGPT 开发公司 OpenAI 旗下创业投资基金 OpenAI Startup fund I 完成超过 1.75 亿美元募资。\n\n\n\n\nKosmos Ventures 成立新区块链基金 Zero Age Ventures，已筹集 1000 万美元资金\n\n\n\n\n澳大利亚风投基金 Kosmos Ventures 背后团队宣布推出新投资基金 Zero Age Ventures，专注于区块链技术。Zero Age Ventures 将继续管理 Kosmos 的新投资。在成功完成初始交易后，General Partners 认捐了高达 1000 万美元的自有资本，Zero Age Ventures 将在 2023 年和 2024 年分配大量资金。Kosmos 最初成立于 2017 年，对 Solana、Algorand、Polkadot 和 Fantom 等协议进行了大量种子投资。\n\n\n\n\n新加坡 Avatar 通信公司 GoodGang Labs 成 200 万美元种子轮融资，Kakao Investment 参投\n\n\n\n\n据 Technode 报道，新加坡 Avat…",
@@ -243,26 +253,6 @@
           "publishedOn": "2023-05-23T06:46:42.000Z",
           "wordCount": null,
           "title": "第21周链上数据：全球购买力少量回升，稳定币购买力流失",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37130",
-          "author": null,
-          "description": "原文标题：《 \n\nBRC-20 Tokens: A Primer\n\n》\n原文来源：Binance Research\n\n原文编译：Lynn，MarsBit\n\n\n\n目录\n\n\n什么是序数和铭文？\n\n\nBRC-20 代币适用于哪些领域？\n\n\nBRC-20 的市场是什么样的？\n\n\n使用 BRC-20 代币与使用其他标准的代币相比如何？\n\n\nBRC-20 对比特币市场的影响\n\n\n同质化与非同质化\n\n\n内存池\n\n\n交易费用\n\n\n社区回应\n\n\n「亲费」人群\n\n\n「低费」阵营\n\n\nBUIDLer\n\n\n风险与挑战\n\n\n限于没有基础设施没有实际效用诈骗风险高\n\n\n未来展望\n\n\n比特币 Layer 2\n\n\n基础设施\n\n\n代币设计的创新\n\n\n1. 关键要点\n\n\n BRC-20 代币是 Ordinals Protocol 的最新创新，并在最近几周接管了 Crypto Twitter 的时间线。\n\n\n BRC-20 是一种实验性代币标准，支持在比特币区块链上部署、铸造和转移非同质化代币。虽然这些代币的总市值甚至达到了 10 亿美元，但代币本身相对简单，没有任何智能合约功能，不像 ERC-20 或 BEP-20 代币。\n\n\n 由于 5 月初的铸币狂潮，比特币内存池出现严重拥堵，网络交易费用飙升。\n\n\n 考虑到随着区块奖励随时间下降而补充矿工收入的重要性，生态中的许多人都欢迎更高的费用。然而，其他人在讨论对价格更敏感的地区的用户定价的缺点时更为批评。\n\n\n 在这个早期市场阶段，BRC-20 代币带来了相当大的风险，需要更多的基础设施支持。正如创始人所说，这是一个实验，应该严格审查潜在的风险。\n\n\n Ordinal、Inscription 和 BRC-20 代币有助于证明在传统货币用例之外对比特币区块空间有明显的有机需求。这可能是比特币安全模型长期可持续性的关键因素。\n\n\n 比特币 Layer 2 的发展、对…",
-          "link": "https://www.theblockbeats.info/news/37130",
-          "publishedOn": "2023-05-23T03:41:23.000Z",
-          "wordCount": null,
-          "title": "Binance Research：BRC-20原理、现状和未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37126",
-          "author": null,
-          "description": "原文标题：《他，华尔街华人 NO.1，10 岁开始开挂》\n原文来源：华尔街见闻\n\n\n对于 Citadel Securities 的华人 CEO 赵鹏，有人形容他是「天才」，有人形容他是「天生的企业家」。如果简单地把他看做一名学霸不免有些偏狭，因为学霸层出不穷，而在华尔街风起云涌间一路乘风而上的传奇人生却很难复刻。\n\n\n在华尔街的众多神话里，赵鹏的故事肯定不能算是最具传奇色彩的一个，但绝对是浓墨重彩的一笔。\n\n\n随着「全球对冲基金新王」肯·格里芬的 Citadel 规模越做越大，旗下对冲基金 Citadel LLC 登顶 2022 年对冲基金最赚钱榜单，做市商 Citadel Securities 也一跃成为业界的「王者」。Citadel Securities 背后的掌门人赵鹏也逐渐为人们所熟知。\n\n\n从履历来看，赵鹏绝对是国内不折不扣的「学霸」：10 岁进入少儿班，14 岁考上北大数学系；在美国加州大学伯克利分校博士毕业后入职 Citadel Securities，不到十年就坐上了 CEO 的位置。\n\n\n\n\n\n作为为数不多的年入 9 位数的北美华人，赵鹏神秘又低调，能公开检索到的信息少之又少。除了在收益上令人咂舌，赵鹏在圈内的地位和声望也是其它华人难以相比的。\n\n\n有人形容赵鹏是「天才」，有人形容他为「天生的企业家」。如果简单地把他看做一名学霸不免有些偏狭，因为学霸层出不穷，而在华尔街风起云涌间一路乘风而上的传奇人生却很难复刻。\n\n\n开挂的人生从 10 岁就开始了\n\n\n赵鹏的起跑线天生就领先于普通人。\n\n\n1983 年，赵鹏出生于北京，从小就表现出了过人的聪慧：10 岁进入了北京八中的「少儿班」，用 4 年时间完成了小学五年级到高中的所有知识，并以优异成绩考进了北大数学系，在校期间分别获得北京大学创新奖、Berkeley Fellow Erich Lehmann Citat…",
-          "link": "https://www.theblockbeats.info/news/37126",
-          "publishedOn": "2023-05-23T02:00:01.000Z",
-          "wordCount": null,
-          "title": "Citadel Securities CEO赵鹏：华尔街华人巅峰，十岁起人生开挂",
           "imageUrl": null
         }
       ]
