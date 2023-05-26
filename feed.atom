@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-26T12:11:56.258Z</updated>
+    <updated>2023-05-26T18:08:21.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港加密新政策重点看：交易、稳定币、质押业务以及监管限制]]></title>
+        <id>https://www.theblockbeats.info/news/37646</id>
+        <link href="https://www.theblockbeats.info/news/37646"/>
+        <updated>2023-05-26T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[本周香港对加密相关政策方向的动作可谓频繁，不仅证监会在 23 日召开发布会发表对虚拟资产的相关总结，同时也在昨天于宪报上刊登了多个与加密货币相关的指引]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget Research每周要闻：香港或开放散户交易加密货币，全球宏观不确定性影响市场情绪]]></title>
+        <id>https://www.theblockbeats.info/news/37668</id>
+        <link href="https://www.theblockbeats.info/news/37668"/>
+        <updated>2023-05-26T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[聚焦链上数据，每周要闻盘点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜Huobi将推出Huobi HK；zkSync Era链上TVL突破3亿美元]]></title>
         <id>https://www.theblockbeats.info/news/37678</id>
@@ -516,36 +536,6 @@ zkML 结合了零知识证明和机器学习，其实在 Web 3 之外，ML 早�
         <link href="https://www.theblockbeats.info/news/37140"/>
         <updated>2023-05-24T06:57:54.000Z</updated>
         <summary type="html"><![CDATA[World App 利用 Ethereum 的可组合性，搭载了多个协议和 API。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果MR头显或将推出，Crypto市场相关概念币有哪些？]]></title>
-        <id>https://www.theblockbeats.info/news/37139</id>
-        <link href="https://www.theblockbeats.info/news/37139"/>
-        <updated>2023-05-24T04:42:24.000Z</updated>
-        <summary type="html"><![CDATA[VR能否撑起下一个热点？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度分析L1和L2的经济原理、运行数据及市场表现]]></title>
-        <id>https://www.theblockbeats.info/news/37138</id>
-        <link href="https://www.theblockbeats.info/news/37138"/>
-        <updated>2023-05-24T03:39:52.000Z</updated>
-        <summary type="html"><![CDATA[Token Terminal 探讨了基于 PoW和 PoS的主要L1和L2们的区块链经济模型，以及流动性质押等协议的新兴模型。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub创始人致创业者：务必开源节流，生存才是成功的关键]]></title>
-        <id>https://www.theblockbeats.info/news/37137</id>
-        <link href="https://www.theblockbeats.info/news/37137"/>
-        <updated>2023-05-24T03:11:49.000Z</updated>
-        <summary type="html"><![CDATA[归根到底就是三点：节俭消费、降低成本、构建用户喜爱的产品并留住他们！]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

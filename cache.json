@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/37646",
+          "author": null,
+          "description": "本周香港对加密相关政策方向的动作可谓频繁，不仅证监会在 23 日召开发布会发表对虚拟资产的相关总结，同时也在昨天于宪报上刊登了多个与加密货币相关的指引",
+          "link": "https://www.theblockbeats.info/news/37646",
+          "publishedOn": "2023-05-26T13:00:01.000Z",
+          "wordCount": null,
+          "title": "香港加密新政策重点看：交易、稳定币、质押业务以及监管限制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37668",
+          "author": null,
+          "description": "聚焦链上数据，每周要闻盘点。",
+          "link": "https://www.theblockbeats.info/news/37668",
+          "publishedOn": "2023-05-26T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Bitget Research每周要闻：香港或开放散户交易加密货币，全球宏观不确定性影响市场情绪",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/37678",
           "author": null,
           "description": "5月26日加密行业重要资讯一览",
@@ -243,36 +263,6 @@
           "publishedOn": "2023-05-24T06:57:54.000Z",
           "wordCount": null,
           "title": "拥有170万用户的Worldcoin App，集成了哪些Crypto应用？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37139",
-          "author": null,
-          "description": "VR能否撑起下一个热点？",
-          "link": "https://www.theblockbeats.info/news/37139",
-          "publishedOn": "2023-05-24T04:42:24.000Z",
-          "wordCount": null,
-          "title": "苹果MR头显或将推出，Crypto市场相关概念币有哪些？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37138",
-          "author": null,
-          "description": "Token Terminal 探讨了基于 PoW和 PoS的主要L1和L2们的区块链经济模型，以及流动性质押等协议的新兴模型。",
-          "link": "https://www.theblockbeats.info/news/37138",
-          "publishedOn": "2023-05-24T03:39:52.000Z",
-          "wordCount": null,
-          "title": "深度分析L1和L2的经济原理、运行数据及市场表现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/37137",
-          "author": null,
-          "description": "归根到底就是三点：节俭消费、降低成本、构建用户喜爱的产品并留住他们！",
-          "link": "https://www.theblockbeats.info/news/37137",
-          "publishedOn": "2023-05-24T03:11:49.000Z",
-          "wordCount": null,
-          "title": "GitHub创始人致创业者：务必开源节流，生存才是成功的关键",
           "imageUrl": null
         }
       ]
