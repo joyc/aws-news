@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-26T06:09:05.633Z</updated>
+    <updated>2023-05-26T12:11:56.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜Huobi将推出Huobi HK；zkSync Era链上TVL突破3亿美元]]></title>
+        <id>https://www.theblockbeats.info/news/37678</id>
+        <link href="https://www.theblockbeats.info/news/37678"/>
+        <updated>2023-05-26T11:19:45.000Z</updated>
+        <summary type="html"><![CDATA[5月26日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧易OKX与TradingView合作推出移动端集成]]></title>
+        <id>https://www.theblockbeats.info/news/37660</id>
+        <link href="https://www.theblockbeats.info/news/37660"/>
+        <updated>2023-05-26T10:44:19.000Z</updated>
+        <summary type="html"><![CDATA[欧易OKX还发起「零手续费交易」活动，将为达成条件的新用户提供2个月的零手续费交易，该活动已于5月15日开启]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稀有聪：继Brc20后下一波炒作叙事，你埋伏了吗？]]></title>
+        <id>https://www.theblockbeats.info/news/37657</id>
+        <link href="https://www.theblockbeats.info/news/37657"/>
+        <updated>2023-05-26T09:59:03.000Z</updated>
+        <summary type="html"><![CDATA[详解稀有聪的历史价值及可扩展的玩法，新玩家不能错过的入场指南]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PulseChain 137亿募资背后真相：创新还是骗局，风险还是机遇？]]></title>
+        <id>https://www.theblockbeats.info/news/37609</id>
+        <link href="https://www.theblockbeats.info/news/37609"/>
+        <updated>2023-05-26T06:16:54.000Z</updated>
+        <summary type="html"><![CDATA[PulseChain主网上线后，在Defillama上公链TVL排行中迅速飙升至第8名，获得了广泛关注]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm再次迎来范式转移，从加密货币跨足AI领域]]></title>
         <id>https://www.theblockbeats.info/news/37579</id>
