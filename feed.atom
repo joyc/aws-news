@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-28T12:11:31.928Z</updated>
+    <updated>2023-05-28T18:07:20.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -154,36 +154,6 @@ BitMEX 将面向香港用户推出 BitMEX Hong Kong，自 5 月 29 日起香港�
         <link href="https://www.theblockbeats.info/news/37609"/>
         <updated>2023-05-26T06:16:54.000Z</updated>
         <summary type="html"><![CDATA[PulseChain主网上线后，在Defillama上公链TVL排行中迅速飙升至第8名，获得了广泛关注]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm再次迎来范式转移，从加密货币跨足AI领域]]></title>
-        <id>https://www.theblockbeats.info/news/37579</id>
-        <link href="https://www.theblockbeats.info/news/37579"/>
-        <updated>2023-05-26T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[删除官网加密货币表述，进军 AI，Paradigm 范式转移为哪般？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos Summer来临？梳理Cosmos近期重要升级和生态进展]]></title>
-        <id>https://www.theblockbeats.info/news/37575</id>
-        <link href="https://www.theblockbeats.info/news/37575"/>
-        <updated>2023-05-26T03:46:41.000Z</updated>
-        <summary type="html"><![CDATA[本文对于 Cosmos 发布 2.0 白皮书后的重要进展，以及下半年 Cosmos 的动态和热点生态项目，作出了梳理分析。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊黑山大会：热点趋势和重点关注项目]]></title>
-        <id>https://www.theblockbeats.info/news/37380</id>
-        <link href="https://www.theblockbeats.info/news/37380"/>
-        <updated>2023-05-26T02:00:02.000Z</updated>
-        <summary type="html"><![CDATA[黑山立法宽松，税收优惠，政府积极，未来黑山有机会入驻更多的 Web3 产业。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
