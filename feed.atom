@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-29T18:08:08.291Z</updated>
+    <updated>2023-05-30T00:38:24.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -359,36 +359,6 @@ BitMEX 将面向香港用户推出 BitMEX Hong Kong，自 5 月 29 日起香港�
 
 
 据路透社报道，前 FTX 首席执行官 Sam Bankman-Fried（SBF）周一要求美国法官驳回该国检方对他的刑事指控。在提交给曼哈顿联邦法院的一份文件中，SBF 的律师表示，其中几项指控未能正确陈述犯罪行为。检察官必须在 5 月 29 日之前回应 Bankman-Fried 的驳回请求，美国地区法官 Lewis Kaplan 将于 6 月 15 日听取辩…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MODragon：能否在Arbitrum重现链游新风潮？]]></title>
-        <id>https://www.theblockbeats.info/news/37935</id>
-        <link href="https://www.theblockbeats.info/news/37935"/>
-        <updated>2023-05-27T08:38:07.000Z</updated>
-        <summary type="html"><![CDATA[全服或已有22只稀有龙、4只史诗龙处于孵化之中]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周新闻回顾｜Hotbit停止运营；Multichain部分跨链路由暂无法使用]]></title>
-        <id>https://www.theblockbeats.info/news/37902</id>
-        <link href="https://www.theblockbeats.info/news/37902"/>
-        <updated>2023-05-27T08:00:02.000Z</updated>
-        <summary type="html"><![CDATA[回顾5月22日-5月27日重点资讯、热门文章推荐。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港虚拟资产交易平台监管文件关键信息一览（文件重点）]]></title>
-        <id>https://www.theblockbeats.info/news/37671</id>
-        <link href="https://www.theblockbeats.info/news/37671"/>
-        <updated>2023-05-27T06:24:01.000Z</updated>
-        <summary type="html"><![CDATA[香港证监会针对虚拟资产交易平台监管对公众提出 10 个主要问题，咨询期后进行了总结并对公众做出了回应。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
