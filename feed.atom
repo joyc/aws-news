@@ -2,10 +2,198 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-30T00:38:24.752Z</updated>
+    <updated>2023-05-30T06:09:10.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LSDfi: 探秘 DeFi 中的新故事线]]></title>
+        <id>https://www.theblockbeats.info/news/42243</id>
+        <link href="https://www.theblockbeats.info/news/42243"/>
+        <updated>2023-05-30T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Yugi AI  
+原文编译：Kxp，BlockBeats
+
+
+
+LSDfi 是 LSD 和整个 DeFi 中最令人兴奋的故事线。如果你想要了解它是什么以及包含哪些项目，就请别错过这篇 thread，让我们一起揭开它的神秘面纱。
+
+
+1. LSDfi
+
+
+LSDfi 指的是一组基于 LSD 的协议。它包括了一系列项目，可能涵盖了经典的 DEX 和借贷协议，以及利用独特的 LST 属性构建的更复杂的协议。
+
+
+随着 LST 的广泛采用，这些协议将在 DeFi 中发挥重要作用，为 DeFi 生态系统奠定基础；而在 LSD 的基础上构建更复杂产品的项目将处于下一层。
+
+
+LSD 已成为总锁定价值 TVL 中的主要类别，其中 Lido 是最大的项目之一。因此，LSD 在推动整个 DeFi 生态系统增长方面起着关键作用。
+
+
+DeFi 与 LSD 行业的融合是一个重要趋势，而 LSDfi 正是这种演变的结果。随着这一趋势的发展，LSD 正在成为 DeFi 的主要力量之一。目前，LSDfi 已经发展成为 DeFi 中的一个独立领域，并且正在取得积极进展。它不仅包括经典的 DeFi 协议，还涵盖了更复杂的协议，如 Baskets 协议、稳定币、收益策略等等。
+
+
+
+
+
+2. DeFi Classic
+
+
+LSD 长期以来一直是经典 DeFi 的重要组成部分。许多 LST 可以作为抵押品，并在去中心化交易所中进行交易。
+
+
+经典的 LST DeFi 例子包括：
+
+
+• Aave 中作为抵押品的$stETH
+• Curve Finance 中的流动性池 
+• yearn 中的金库
+
+
+随着 LSD 的日益流行，我们可以预见到将针对 LSD 量身定制的去中心化交易所或聚合器的出现。例如，专注于 LSD 的协议包括 LSDx Finance（类似于 Curve），以及作为借贷协议的 Cat-in-a-Box Finance。
+
+
+3. LSD Basket
+
+
+目前有许多针对 ETH 的流动性质押解决方案，因此理论上讲，应该存在一种能够将它们整合到一个篮子中并创建相应指数的协议。这种方法可以实现风险分散，并让 LSD 相关投资更加便利。
+
+
+LSE 篮子协议：
+
+
+• Index Coop 推出了两种指数型 LSD，dsETH 和 icETH。dsETH 包括顶级 Ethereum LST，而 icETH 则利用杠杆。
+• unshETH 推出了包含顶级 Ethereum LST 的 unshETH 篮子。
+• Asymmetry Finance 支持存入 ETH，并获得由前三名 LST 支持的 safETH。
+
+
+4. 收益策略
+
+
+LSD 是一种能够持续产生收益的 Token。自然而然地，你可以围绕它制定一种策略。例如，将其分配到不同的池中、将其作为抵押品、利用杠杆，以及管理质押奖励。
+
+
+收益策略协议：
+
+
+• 0xAcid 让你可以将 ETH 投资于一个由原始 LST 和各种策略构成的多样化投资篮子中。 
+• Parallax Finance 是一个杠杆 LSD 收益策略平台，旨在融合多种 LST。
+
+
+另一种方法是 Pendle，它提供了一种独特的方法：由于这是一个购买期货的平台，你能够以折扣价购买 ETH 并在之后收到它，同时它会被投资于指定的 LST。
+
+
+非对称收益：
+
+
+• asymetrix.eth 是一个通过质押产生非对称收益分配的协议，其灵感来源于具有相似机制的 Premium Bonds。它类似于彩票，少数获胜者将分享一段时间内所有的质押奖励。
+
+
+5. 稳定币
+
+
+将 LSD 用于超额抵押稳定币是一个非常合乎逻辑的选择。LSD 将持续从质押中产生收益，从而使稳定币具有收益特性。在这种情况下，一切仍然由 ETH 支持。
+
+
+LSD 支持的稳定币:
+
+
+• 由 Lybra Finance 推出的 eUSD 
+• 由 Agility 推出的 aUSD 
+• 由 Raft 推出的 R
+
+
+6. 总结思考
+
+
+LSD 已经成为 PoS 生态系统的标准，并且已经成为了 DeFi 的主要趋势之一。LSD 可以产生稳定、低风险的被动收入，有助于维持区块链的稳定。LSDfi 是 LSD 的一个合理延伸，它创建了一个完整的经济体系，一方面可以产生可观的收入，另一方面简化了与 LSD 项目的互动。
+
+
+LSDfi 将持续发展，并逐渐见证项目的复杂性和独特性的增加，让我们一同期待它在未来的发展。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在比特币上铸造NFT只要5美元？了解一下BRC-1155与GBRC-721]]></title>
+        <id>https://www.theblockbeats.info/news/42250</id>
+        <link href="https://www.theblockbeats.info/news/42250"/>
+        <updated>2023-05-30T02:35:08.000Z</updated>
+        <summary type="html"><![CDATA[撰文：Cookie，律动 BlockBeats
+
+
+发行成本高一直是影响比特币 NFT 市场的原因之一。尽管最近在市场上出现了比较多的 BRC-XXX 协议，但在保持比特币 NFT 的「原汁原味」与降低发行成本这二者间寻求到较好平衡的，笔者认为当属 BRC-1155 与 GBRC-721。
+
+
+BRC-1155：为实现比特币「Open Edition」带来可能
+
+
+
+
+几个月前，以太坊上 ERC-1155 的「Open Edition」艺术类 NFT 就曾在一段时间内成为市场的「小主线」，其基建的完善以及「艺术游戏化」玩法的不断进步，最终使得「Open Edition」成功引起市场瞩目。（推荐阅读：NFT 的「艺术游戏化」：Burn-Redeem 与奖券）
+
+
+在比特币上实现「Open Edition」存在痛点，尤其 NFT 内容类型为大小较大的动图、音频乃至视频文件时，高昂的刻录成本只能由创作者或收藏者其中的一方来背负，这对「Open Edition」在比特币上的发展几乎是绝望的——创作者由于需要预先承担风险（付出高昂的刻录成本而无法卖出）而抗拒在比特币上发行「Open Edition」艺术作品，收藏者也同样因为高昂的刻录成本而抗拒参与。
+
+
+想要让「Open Edition」在比特币上的发展成为可能，必须同时打低双方的成本。BRC-1155 的核心思路是，如果我们可以接受像 BRC-20 那样的 JSON 代码铭文对同一幅艺术品的所有权进行确认，来作为拥有一幅存储在比特币上的艺术品的方式，那么我们就没有必要花费数倍乃至更多的 Gas 来重复刻录一个图像/音频/视频/其它文件，只需要花费极低的 Gas 来获取一张「凭证」，然后让索引根据「凭证」铭文所指向的链上铭文来渲染出对应的内容即可。
+
+
+
+BRC-20 + ERC-1155 = BRC-1155
+
+
+创作者与收藏者的…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孔剑平：理想主义的践行者]]></title>
+        <id>https://www.theblockbeats.info/news/42247</id>
+        <link href="https://www.theblockbeats.info/news/42247"/>
+        <updated>2023-05-30T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：AIO News
+原文作者：Xinyu，AK
+原文编辑：若琛
+
+
+2018 年，是数字货币从牛市的最高点走到熊市低点的一年，仅在 1 月 8 日一天，比特币价格就从 16000 美元跌至 2000 美元附近。当时有个笑话是，「街上多了很多百万富翁，而这些人原来都是亿万富翁。」
+
+
+但正在这一片低谷中，有一家企业正在酝酿着一次华丽的破土。
+
+
+
+嘉楠科技在纳斯达克敲钟上市
+
+
+2019 年 11 月 21 日，嘉楠科技在纳斯达克敲钟上市，「区块链第一股」诞生了。据参与者的事后回忆，嘉楠科技的上市在当时创造了两个「纳斯达克之最」——敲钟现场到场人数最多，观看上市直播人数有史以来最多。无论是国内还是海外，区块链从业者亦或是投资人，嘉楠的这次成功上市不亚于一次核弹，让整个区块链行业的华人圈子达到了沸腾，也给予了无数寒冬中的 Buidler 一剂强心针。
+
+
+而这次里程碑事件的背后，离不开一个重要人物的推动——孔剑平（原嘉楠科技董事会联席主席，现 Nano Labs 创始人及董事长）。作为《AIO News 人物》栏目的第一期，本篇内容将以孔剑平为主人公，带大家一起近距离观察属于他的人物故事。
+
+
+
+孔剑平
+
+
+
+种子
+
+
+孔剑平，英文名 Jack Kong，1985 年出生，浙江绍兴人。2004 年秋天，19 岁的孔剑平通过高考来到了温州大学法学专业，开启了他丰富而充实的大学生活，创业的种子也在这一时期悄然埋下。
+
+
+「不想再管家里要钱了，我自己也可以。」多年后的孔剑平对于当年的大学创业生涯如此解释道，「但是由于初期没有什么工作经验，只能从学校社团组织的勤工俭学的『送牛奶』活动开始做起。」他每天清晨五六点就起床出发，去给学校各宿舍楼送牛奶，虽然一瓶牛奶就几毛钱，但对于孔剑平来说也算拥有了一小笔收入，同时也改变了其晚起的习惯。最关键的是，总算踏出了第一步。经过漫长的筹备，大…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜巴厘岛将打击外国游客使用加密货币支付；Binance Labs参投NFT市场Tabi]]></title>
         <id>https://www.theblockbeats.info/news/42241</id>
