@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-31T12:14:32.294Z</updated>
+    <updated>2023-05-31T18:08:16.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Type!t：保护隐私的Web3输入法，创新推出Type to Earn]]></title>
+        <id>https://www.theblockbeats.info/news/42280</id>
+        <link href="https://www.theblockbeats.info/news/42280"/>
+        <updated>2023-05-31T14:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Type!t是全球首款Web3输入法，基于加密技术和去中心化存储等功能来保护用户的使用数据和其他隐私信息，同时还具备Type To Earn、Gamefi、加密聊天、AI词库等Web3功能。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜香港虚拟资产评级机构HKVAC正式成立；超5.5亿美元OP今日解锁]]></title>
+        <id>https://www.theblockbeats.info/news/42274</id>
+        <link href="https://www.theblockbeats.info/news/42274"/>
+        <updated>2023-05-31T12:10:20.000Z</updated>
+        <summary type="html"><![CDATA[5月31日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opside激励测试网上线一周：近3万个独立用户参与，完成超92万笔交易]]></title>
         <id>https://www.theblockbeats.info/news/42271</id>
@@ -559,134 +579,6 @@ http://glassnode.com  优点是：代币的数据维度多，缺点是支持代
 
 
 3）zkSync 生态多元创新性还不…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年第23周融资精选，Animoca领投Narwhal Finance 2500万美元估值战略融资]]></title>
-        <id>https://www.theblockbeats.info/news/42125</id>
-        <link href="https://www.theblockbeats.info/news/42125"/>
-        <updated>2023-05-29T05:42:22.000Z</updated>
-        <summary type="html"><![CDATA[据 BlockBeats 统计，上周的融资总数为 22 笔，数量较上周有小幅下降，总金额约 79448 万美元，平均融资金额为 2870.36 万美元。其中，其他领域占据主体，资管支付、DeFi 和基础设施领域融资相对较多，元宇宙/Gamefi 融资数量有所增加，社交/创作者经济和 NFT/数字时尚领域较少。下图为上周各板块融资占比：
-
-
-
-
-
-元宇宙/GameFi
-
-
-
-
-在元宇宙/GameFi 领域共计 5 笔融资，总金额 675 万美元，占上周融资总额的 0.85%。
-
-
-
-
-Metagame Industries
-
-
-
-
-
-
-
-5 月 24 日，Web3 游戏生态系统 Metagame Industries 已完成近亿美金估值战略轮融资，Sui 公链开发商 Mysten Labs、游戏开发商 Funplus/Xterio Ecosystem Fund、2Moon Capital、Big Brain Holdings、Chainhill Capital、MH Ventures、DWeb3 Capital、ZeroX Fund、GMA 等参投。 
-
-
-据悉，Metagame Industries 新一轮融资旨在加速旗下游戏 Abyssworld 的开发。Abyss World 是由 Mysten Labs 参与的 Sui 生态首款 AAA 游戏，目前 Abyss World 在全球 Steam 愿望清单预定已达 12 万。项目已开启白名单邀请活动，并将于近期进行 IDO。
-
-
-
-
-BoomLand
-
-
-
-
-
-
-
-5 月 23 日，Web3 游戏发行商 BoomLand 宣布完成 100 万美元 Pre-Seed 轮融资，本轮融资由 Polygon、Game7、Magic Eden、Hyperithm 和一些私人投资者参投。BoomLand 此前已完成软启动和首次 NFT…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTfi赛道全景研究：NFTfi如何引领下一轮牛市风潮]]></title>
-        <id>https://www.theblockbeats.info/news/42062</id>
-        <link href="https://www.theblockbeats.info/news/42062"/>
-        <updated>2023-05-29T03:42:45.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：新火科技 Loki 
-
-
-
-
-
-一、我们正处在 NFTfi 爆发的前夜
-
-
-首先需要明确的一点是，NFT 和 NFTfi 市场经历了一个明显的下滑，但这并不意味着 NFT 或者 NFTFi 市场失去了增长潜力，NFTfi 仍然是具备最高潜在增长倍数的市场之一。
-
-
-依旧按照技术成熟度曲线，一项新技术诞生时，会以最疯狂的速度攀升至顶部，经历可能的泡沫破裂以后再缓慢平稳上升，步入真正的大规模采用。纵观加密行业的发展，这种发展路径已经多次验证，从最开始的 BTC，到 PoW 热潮，再到 ICO 热潮和 DeFi Summer 都是如此。
-
-
-
-
-
-Source：Google
-
-
-谈论 NFT/NFTfi 的市场空间，离不开上一篇研报中提及两个重要数据：NFT 市场市值和 NFT 类别占比。按照当时（2023.3）的统计，具备高价值、高流动性的【核心市场】市值仅有 59 亿美元，约为稳定币市值的 4.2%（对应 DeFi 赛道）和 ETH 市值的 2.7%（对应 ETH LSDfi 赛道）。
-
-
- 
-
-Source：公开数据整理
-
-
-NFT 类别占比可以在一定程度上解释这种现象：PFP、Art、Collectibles 占总市值的 75% 以上，其次是 Utility、Land、Game 类别。受类别特性的影响，当前大多数 NFT 没有刚性的应用场景，不具备造血能力，发展周期面临成为蓝筹和进入流动性枯竭的二元选择。从资金面的角度看，PFP、Art、Collectibles 主要代表的是投机需求和社交需求，需求的强弱与市场整体资金面相关，市场规模的变化和加密货币市场存在正相关的关系，无法突破「大盘」这个天花板，也就很难产生过高的超额增长。
-
-
-
-
-Source：NFTGo
-
-
-但与此同时，PFP 的主导率并不会持续存在，一些新的产品萌芽更值得我们期待。例如以 ENS 和 S…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币新时代：BRC-20 的机遇与风险]]></title>
-        <id>https://www.theblockbeats.info/news/42051</id>
-        <link href="https://www.theblockbeats.info/news/42051"/>
-        <updated>2023-05-29T03:23:17.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：@Jesse_meta, SUSS NiFT、SUSS NiFT 安全联盟、全球金融科技学院、Biteye 建设者，Chartered Fintech Professional 
-
-@EatonAshton2，Beosin 安全研究员，0xCUHK、0xCUHKSZ 成员
-
-
-2023 年比特币价值回归，领涨全球风险资产。而数字货币资产中的 MEME 币以成百上千倍的涨幅引爆市场 FOMO 情绪。其中最受关注、讨论最激烈的 MEME 币就是基于比特币网络的 BRC-20 代币。我们将在本文中介绍 BRC-20 的发展过程，对其价值和风险进行客观的分析，以期对 BRC-20 感兴趣的读者能对这新型代币有一个全面的认识。
-
-
-1.BRC-20 的前身：Ordinals 协议
- 
-
-
-在 Ordinals 协议出现之前，比特币网络上的非同质性代币（NFT）实验已有历史。早在 2012 年，比特币网络上就出现了一种名为「Colored Coins」的资产，代表了比特币网络上所有类型的非比特币资产。2014 年，比特币衍生品 Counterparty 的出现，为用户提供了创建和交易数字资产的平台。2016 年 Counterparty 上诞生了后来启发 Pepe 模因 NFT 的「Rare Pepes」。虽然比特币 NFT 的诞生时间早于以太坊，但在市场的选择下，如今提及 Colored Coins 和 Counterparty 的人已经非常少见。比特币作为储值资产、以太坊发展创新生态成为一种共识。
-
-
-然而，这个趋势在今年发生了改变。比特币核心贡献者 Casey Rodarmor 创建的 Ordinals 协议，提出了序数（Ordinals）和铭文（Incriptions）的新概念，为比特币 NFT 生态注入了新的生机。
-
-
-1.1 序数 (Ordinals)
-
-
-序数（…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
