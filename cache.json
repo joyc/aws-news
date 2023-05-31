@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42271",
+          "author": null,
+          "description": "Opside Pre-alpha激励测试网受到了普通用户、PoS节点、PoW矿工、项目方及开发者们的广泛关注和热情参与，Opside也将于本周内上线Public ZKEVM链，针对所有开发者和项目方开放并支持EVM兼容的项目部署。",
+          "link": "https://www.theblockbeats.info/news/42271",
+          "publishedOn": "2023-05-31T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Opside激励测试网上线一周：近3万个独立用户参与，完成超92万笔交易",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42259",
           "author": null,
           "description": "Binance 首席执行官赵长鹏接受了 Bankless 采访，就当前加密行业和市场的状况发表看法。",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-05-31T06:09:21.816Z</updated>
+    <updated>2023-05-31T12:14:32.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Opside激励测试网上线一周：近3万个独立用户参与，完成超92万笔交易]]></title>
+        <id>https://www.theblockbeats.info/news/42271</id>
+        <link href="https://www.theblockbeats.info/news/42271"/>
+        <updated>2023-05-31T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Opside Pre-alpha激励测试网受到了普通用户、PoS节点、PoW矿工、项目方及开发者们的广泛关注和热情参与，Opside也将于本周内上线Public ZKEVM链，针对所有开发者和项目方开放并支持EVM兼容的项目部署。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ最新专访：被监管「置于显微镜下」，市场正在熊市中复苏]]></title>
         <id>https://www.theblockbeats.info/news/42259</id>
