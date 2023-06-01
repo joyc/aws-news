@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-01T06:09:22.999Z</updated>
+    <updated>2023-06-01T12:13:09.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[马斯克喊单前的Milady：亚到极致的「网络精神病人」]]></title>
+        <id>https://www.theblockbeats.info/news/42299</id>
+        <link href="https://www.theblockbeats.info/news/42299"/>
+        <updated>2023-06-01T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[撰文：Cookie，律动 BlockBeats
+
+
+5 月 10 日，马斯克突然的一条「There is no meme, I love you」推文，让 Milady 的地板价在一小时内从 3.75 ETH 暴涨至超过 7 ETH。
+
+
+
+
+
+「There is no meme, I love you」
+
+
+
+马斯克「喊单」后 Milady 的快速上涨
+
+
+市场的目光又一次聚焦到了这个在 2021 年就已经诞生的「老」项目上。由于 Milady 快速冲高又快速回落，不少玩家认为这种情况只是马斯克的「间歇性喊单」，正如 $DOGE 一次次上演的「狼来了」戏码一样，没有什么分析的价值——马斯克「喊单」，啥都能起飞，Milady 涨不起来才是怪事。
+
+
+但其实，Milady 在熊市中的表现可谓十分亮眼。从今年 4 月初到马斯克「喊单」前，Milady 的地板价已经翻了三倍。
+
+
+
+2022 年 8 月中旬至今的 Milady 地板价走势，Milady 走出了独立行情
+
+
+如果您也和笔者一样是一个对 Milady 不甚了解的 NFT 玩家，可能您与我一样，对 Milady 的印象还停留在创始人 Charlotte Fang 陷入「种族主义」与「自杀邪教」的负面消息的 2022 年 5 月。在 Charlotte Fang 承认自己与「自杀邪教」的关联并宣布退出 Milady 团队后，Milady 的地板价格曾快速下跌。
+
+
+这样的负面讯息与 Azuki 创始人 Zagabond 曾涉及多个「Rug Pull」相比实在太过于沉重，以致于很长一段时间内，笔者都以为 Milady 的故事已经终结，这个项目将与其它无数个湮灭在 NFT 历史长河中的项目一样，逐渐被 NFT 玩家所遗忘。但是 Milady 不仅从价格走势上证明了笔者的看法是错误的，甚至在影响力上，Milady 也狠狠打了笔…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月份Coinbase投资的4个潜力项目]]></title>
+        <id>https://www.theblockbeats.info/news/42298</id>
+        <link href="https://www.theblockbeats.info/news/42298"/>
+        <updated>2023-06-01T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：dLux，加密研究员
+原文编译：Leo，BlockBeats
+
+
+Coinbsae Ventures 相信大家都不陌生，这支成立于 2018 年的风投机构，一直是行业最活跃的风投之一，纵观 Coinbsae Ventures 投资历史，2018 年的 Compound 和 OpenSea；2020 年的 Synthetix 和 Uniswap，可以说是 Coinbase 是 GEM 挖掘者，加密研究员 dLux 撰文介绍了 Coinbase 投资的 4 家公司，BlockBeats 编译如下：
+
+
+
+
+
+投资多样
+
+
+以下是 5 月份被 Coinbase 列入投资组合中的 4 家公司：
+
+
+
+
+zkLink
+
+
+
+
+5 月初，基于零知识证明的多练统一交易基础设施 zkLink 宣布完成了 1000 万美元融资，Coinbase Ventures 参投。zkLink 致力于「通过连接各种 L1 和 L2，为下一代去中心化交易产品提供支持，例如订单簿 DEX、NFT 市场等」。zkLink 将分离多链交易的所有复杂性，同时保持其超安全性和忠实于 crypto 精神。
+
+
+
+
+Dolomite
+
+
+
+
+大约一周后，Coinbase Ventures 再次出手参投了去货币市场和去中心化交易协议 Dolomite，Dolomite 是建立在 Arbitrum 上的保证金交易和借贷协议，提供可组合的保证金交易和借贷，支持数千种不同的资产作为抵押品。
+
+
+
+
+Hourglass
+
+
+
+
+5 月中旬，Coinbase Ventures 参投了时间绑定 token 基础设施协议 Hourglass 的 420 万美元种子轮融资，该协议正在构建一个市场，旨在帮助协议为愿意在一定时间内将资产锁定在协议内的用户提供额外奖励。用户在将资产锁定在协议中一段时间后，会收到一枚代表承诺投入时间的 TBT（时间绑定 token），也是 DeFi 协议中的质押资产。该协议还可以依据时间长短来提供额外的激励。
+
+
+
+
+PYOR
+
+
+
+
+Coinbase Ventures 在 5 月的最后一笔投资来自于数字资产数据提供商 PYOR，该项目旨在提供机构级数字资产数据和见解。该项目的第一个产品（PYOR Terminal）已经处于内测阶段，旨在帮助用户了解数字资产领域特定结果背后的因素，例如增加 TVL 或增加交易用户，该项目并不是简单地提供事实性信息，而是来自通过对其节点基础设施的研究分析得出专业见解。
+
+
+结语
+
+
+
+
+
+
+
+
+
+
+熊市还在继续，但 Coinbase Ventures 仍然是该领域的活跃 VC。每家公司都有一个有趣的价值提案，其中包含 PMF 的潜力，只有时间才能告诉我们这些投资的最终结果。
+
+
+欢迎加入律动 BlockBeats 官方社群
+
+Telegram 订阅群：https://t.me/theblockbeats
+Telegram 交流群：https://t.me/theblockbeatsApp
+Twitter 官方账号：https://twitter.com/BlockBeatsAsia
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何利用部署地址发现新项目]]></title>
+        <id>https://www.theblockbeats.info/news/42292</id>
+        <link href="https://www.theblockbeats.info/news/42292"/>
+        <updated>2023-06-01T03:58:21.000Z</updated>
+        <summary type="html"><![CDATA[学会追踪部署地址可以让你在他人之前发现潜力项目，从而有机会获得巨大回报。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音乐NFT平台FANSI与知名制作人联手推出AI生成音乐NFT]]></title>
         <id>https://www.theblockbeats.info/news/42289</id>
