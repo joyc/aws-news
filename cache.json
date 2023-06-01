@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42289",
+          "author": null,
+          "description": "音乐NFT平台FANSI宣布与知名音乐制作人Jack Chou合作，结合人工智能技术，推出全新AI音乐生成作品。",
+          "link": "https://www.theblockbeats.info/news/42289",
+          "publishedOn": "2023-06-01T02:42:53.000Z",
+          "wordCount": null,
+          "title": "音乐NFT平台FANSI与知名制作人联手推出AI生成音乐NFT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42286",
+          "author": null,
+          "description": "Polyhedra Network团队设计并开发了基于LayerZero协议的Polyhedra zkLightClient技术，这是一种为Layer-1和Layer-2区块链网络的互操作性提供安全和高效的跨链基础设施的前沿解决方案。",
+          "link": "https://www.theblockbeats.info/news/42286",
+          "publishedOn": "2023-06-01T02:28:12.000Z",
+          "wordCount": null,
+          "title": "LayerZero与Polyhedra Network战略合作集成zkLightClient，共同推出零知识证明跨链消息传递客户端",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42283",
+          "author": null,
+          "description": "在Web3.0的发展上，新加坡具有一些先发优势，但中国香港也在努力迎头赶上。今天正式施行的《适用于虚拟资产交易平台营运者的指引》香港新规，对加密行业意味着什么？",
+          "link": "https://www.theblockbeats.info/news/42283",
+          "publishedOn": "2023-06-01T02:00:01.000Z",
+          "wordCount": null,
+          "title": "香港虚拟资产新规正式生效，Web3在香港的历史时刻",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42280",
           "author": null,
           "description": "Type!t是全球首款Web3输入法，基于加密技术和去中心化存储等功能来保护用户的使用数据和其他隐私信息，同时还具备Type To Earn、Gamefi、加密聊天、AI词库等Web3功能。",
