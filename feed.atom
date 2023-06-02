@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-02T06:09:13.629Z</updated>
+    <updated>2023-06-02T12:13:04.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[详解Binance Launchpad，IEO 还是好的投资机会吗？]]></title>
+        <id>https://www.theblockbeats.info/news/42307</id>
+        <link href="https://www.theblockbeats.info/news/42307"/>
+        <updated>2023-06-02T07:32:16.000Z</updated>
+        <summary type="html"><![CDATA[就目前环境下，数据显示，Binance Launchpad 依旧是熊市中最好的投资标的]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专访Starknet创始人：仰望星空，脚踏实地]]></title>
         <id>https://www.theblockbeats.info/news/42268</id>
