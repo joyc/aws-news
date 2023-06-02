@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42268",
+          "author": null,
+          "description": "在刚过去的黑山以太坊 EDCON 大会上，ZK 成了最火热的话题。从 19 号到 23 号整整 5 天的时间里，无论是个人演讲还是圆桌 Pannel，嘉宾们的话题大都围绕 ZK Rollup、zkEVM 和 ZKML 等词汇展开。在「以太坊核心圈」眼中，ZK 已经成为媲美 2019 年 DeFi 创新的、能够撬动下一轮行业爆发的究极新叙事。\n\n\n长期以来，技术实现都是 ZK 面临的主要难题，这也使得它在大多数人印象中，一直都是「未来的解决方案」。然而今年，Arbitrum 生态还没热透，作为技术替代者的 ZK Rollup 们就已经上来敲门了。今年最明显的一个感受，就是各式各样的「ZK 项目」突然变多了。开发者开始 FOMO ZK 技术，ZK 转账、ZK 身份还有 ZK 桌游，只要能和隐私沾边的，项目名称里一定会有「ZK」二字。这般繁荣景象，当然得益于 Starknet、zkSync 等 ZK Rollup，以及 Scroll、Polygon 等 zkEVM 项目的集中发力。而在这些中流砥柱的背后，是一位叫做 Eli Ben-Ssason 的以色列大汉。\n\n\nEli （@EliBenSasson）是最早一批将 ZK 技术与加密技术进行结合的科研者，他是 Zcash 和 StarkWare 的创始人，也是 zk-STARK 的创作者。而后边这项技术标准，正是当今 Starknet，乃至整个加密 ZK 赛道的重要技术基石。BlockBeats 在黑山 EDCON 期间见到了这位传奇人物，在近一个小时的对话中，Eli 展现出了强烈的技术自信，他向 BlockBeats 透露了自己对 STARK、SNARK 和 Rollup 赛道的看法，以及对 Starknet 生态的期许。\n\n\n关于乐观欺诈证明、zk-STARK 和 SNARK\n\n\n\n\n很多人认识 Eli，都是通过 StarkW…",
+          "link": "https://www.theblockbeats.info/news/42268",
+          "publishedOn": "2023-06-02T02:30:02.000Z",
+          "wordCount": null,
+          "title": "专访Starknet创始人：仰望星空，脚踏实地",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42299",
           "author": null,
           "description": "撰文：Cookie，律动 BlockBeats\n\n\n5 月 10 日，马斯克突然的一条「There is no meme, I love you」推文，让 Milady 的地板价在一小时内从 3.75 ETH 暴涨至超过 7 ETH。\n\n\n\n\n\n「There is no meme, I love you」\n\n\n\n马斯克「喊单」后 Milady 的快速上涨\n\n\n市场的目光又一次聚焦到了这个在 2021 年就已经诞生的「老」项目上。由于 Milady 快速冲高又快速回落，不少玩家认为这种情况只是马斯克的「间歇性喊单」，正如 $DOGE 一次次上演的「狼来了」戏码一样，没有什么分析的价值——马斯克「喊单」，啥都能起飞，Milady 涨不起来才是怪事。\n\n\n但其实，Milady 在熊市中的表现可谓十分亮眼。从今年 4 月初到马斯克「喊单」前，Milady 的地板价已经翻了三倍。\n\n\n\n2022 年 8 月中旬至今的 Milady 地板价走势，Milady 走出了独立行情\n\n\n如果您也和笔者一样是一个对 Milady 不甚了解的 NFT 玩家，可能您与我一样，对 Milady 的印象还停留在创始人 Charlotte Fang 陷入「种族主义」与「自杀邪教」的负面消息的 2022 年 5 月。在 Charlotte Fang 承认自己与「自杀邪教」的关联并宣布退出 Milady 团队后，Milady 的地板价格曾快速下跌。\n\n\n这样的负面讯息与 Azuki 创始人 Zagabond 曾涉及多个「Rug Pull」相比实在太过于沉重，以致于很长一段时间内，笔者都以为 Milady 的故事已经终结，这个项目将与其它无数个湮灭在 NFT 历史长河中的项目一样，逐渐被 NFT 玩家所遗忘。但是 Milady 不仅从价格走势上证明了笔者的看法是错误的，甚至在影响力上，Milady 也狠狠打了笔…",

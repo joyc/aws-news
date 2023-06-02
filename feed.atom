@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-02T00:40:39.914Z</updated>
+    <updated>2023-06-02T06:09:13.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[专访Starknet创始人：仰望星空，脚踏实地]]></title>
+        <id>https://www.theblockbeats.info/news/42268</id>
+        <link href="https://www.theblockbeats.info/news/42268"/>
+        <updated>2023-06-02T02:30:02.000Z</updated>
+        <summary type="html"><![CDATA[在刚过去的黑山以太坊 EDCON 大会上，ZK 成了最火热的话题。从 19 号到 23 号整整 5 天的时间里，无论是个人演讲还是圆桌 Pannel，嘉宾们的话题大都围绕 ZK Rollup、zkEVM 和 ZKML 等词汇展开。在「以太坊核心圈」眼中，ZK 已经成为媲美 2019 年 DeFi 创新的、能够撬动下一轮行业爆发的究极新叙事。
+
+
+长期以来，技术实现都是 ZK 面临的主要难题，这也使得它在大多数人印象中，一直都是「未来的解决方案」。然而今年，Arbitrum 生态还没热透，作为技术替代者的 ZK Rollup 们就已经上来敲门了。今年最明显的一个感受，就是各式各样的「ZK 项目」突然变多了。开发者开始 FOMO ZK 技术，ZK 转账、ZK 身份还有 ZK 桌游，只要能和隐私沾边的，项目名称里一定会有「ZK」二字。这般繁荣景象，当然得益于 Starknet、zkSync 等 ZK Rollup，以及 Scroll、Polygon 等 zkEVM 项目的集中发力。而在这些中流砥柱的背后，是一位叫做 Eli Ben-Ssason 的以色列大汉。
+
+
+Eli （@EliBenSasson）是最早一批将 ZK 技术与加密技术进行结合的科研者，他是 Zcash 和 StarkWare 的创始人，也是 zk-STARK 的创作者。而后边这项技术标准，正是当今 Starknet，乃至整个加密 ZK 赛道的重要技术基石。BlockBeats 在黑山 EDCON 期间见到了这位传奇人物，在近一个小时的对话中，Eli 展现出了强烈的技术自信，他向 BlockBeats 透露了自己对 STARK、SNARK 和 Rollup 赛道的看法，以及对 Starknet 生态的期许。
+
+
+关于乐观欺诈证明、zk-STARK 和 SNARK
+
+
+
+
+很多人认识 Eli，都是通过 StarkW…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克喊单前的Milady：亚到极致的「网络精神病人」]]></title>
         <id>https://www.theblockbeats.info/news/42299</id>
