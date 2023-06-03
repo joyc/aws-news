@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42316",
+          "author": null,
+          "description": "原文来源：R3PO\n原文作者：Tian \n\n\n今年以来受上海升级，ETH 由 Pow 转为 Pos 机制利好刺激，LSD（以太坊质押衍生品）赛道迎来了大爆发，LDO、RPL、SSV 等一众 LSD 赛道概念 Token 皆迎来了巨幅涨幅，不过受宏观流动性缩紧、市场热点转换等影响，LSD 赛道有所冷却相关项目 Token 价格出现了普遍回调。\n\n\n然而有一个协议 Token 价格始终保持着较强的韧性，其 Token 价格从年初的 0.04美元，涨至如今的 0.42美元，涨幅近 10 倍。Pendle 的项目进展也持续吸引着市场关注，在部署于 Arb 链上后，在 Camelot 上线的 PENDLE/ETH 池短短几天流动性就突破 100 万美元。本文将详细介绍展现出强大生命力的 LSD 赛道创新协议——Pendle。\n\n\n\n\nLSD 赛道的千亿市场规模潜力\n\n\n\n\n在解读 Pendle 协议之前，我们先了解一下 LSD 赛道以及为什么说 LSD 赛道具备达到千亿市场规模的潜力。\n\n\n\n\nLSD 全称为 Liquidity Staking Derivatives，即流动性质押衍生品，LSD 协议是伴随着 ETH 2.0 升级成长起来的 DeFi 衍生品赛道。4 月 12 日上海升级完成后，ETH 正式从 Pow 机制转为 Pos（权益质押证明）机制，上海升级成为以太坊升级路线图中的重要里程碑事件。\n\n\n上海升级后用户可以自由提取自己的存款来降低质押风险，这将大大提升用户的质押意愿，提升 ETH 的质押率。如图可以见以太坊质押节点数，与质押的 ETH 数量在上海升级后不降反升，市场普遍担忧的因升级可能出现的 ETH 抛压并未出现。\n\n\n\n\n\n以太坊质押拥有着不错的回报率，通常在 5%-8% 之间波动，当前质押回报率为 5.268%，较高收益率，随存随取的灵活性使得质押 ETH 成…",
+          "link": "https://www.theblockbeats.info/news/42316",
+          "publishedOn": "2023-06-03T03:21:34.000Z",
+          "wordCount": null,
+          "title": "半年涨幅10倍，一文读懂LSD赛道创新协议Pendle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42313",
           "author": null,
           "description": "精选要闻：\n\n1、zkEVM Kakarot 完成 Pre-Seed 轮融资，Vitalik Buterin、StarkWare 等参投\n2、数据：比特币矿工 5 月份收入达 9.166 亿美元，环比增长 13.7%\n3、携程海外版推出首个 NFT 系列 Trekki，将于 Q3 进行盲盒销售\n4、谷歌云与 Voltage 达成合作，允许客户在谷歌云中创建比特币和闪电网络节点\n5、RSS3 已支持 Lens Protocol L3 解决方案 Momoka\n6、微软与前以太坊矿企 CoreWeave 签署价值数十亿美元的人工智能算力协议\n\n\n\n\n项目动态\n\n\n\n\n携程海外版推出首个 NFT 系列 Trekki，将于 Q3 进行盲盒销售\n\n\n据官方消息，携程海外版推出首个 NFT 系列 Trekki，该系列包括 10,000 枚以海豚卡通为主题的 NFT，现已在 Trekki 官网开放注册，并将在 2023 年第三季度通过盲盒销售。Trekki 根据其稀缺性进行分类，每个 NFT 拥有一个独特的角色和各种旅行背景。\n据悉，Trekki 将带有游戏化增长机制，持有者旅行次数越多，通过 Trekki 解锁的好处也就越多。\n\n\nBRC-20 Token 质押项目 Arkstart 正进行 IDO，募集金额已突破 100 BTC\n\n\n据官方消息，BRC-20 Token 质押项目 Arkstart 已在 BisoSwap 平台开始 IDO，目前已进行 6 小时，共有超 1100 个地址参与，募集金额突破 100 BTC。本次 IDO 活动将于今晚 12:00 截止。\nArkstart 旨在使用独特的质押机制和经济模型建立一个可持续的质押生态系统。目前已将其原生 Token「arks」引入高级质押功能，为 BRC-20 Token 带来价值，用户可通过抵押 arks 获得 Aras To…",
@@ -103,16 +113,6 @@
           "publishedOn": "2023-06-01T02:00:01.000Z",
           "wordCount": null,
           "title": "香港虚拟资产新规正式生效，Web3在香港的历史时刻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42280",
-          "author": null,
-          "description": "Type!t是全球首款Web3输入法，基于加密技术和去中心化存储等功能来保护用户的使用数据和其他隐私信息，同时还具备Type To Earn、Gamefi、加密聊天、AI词库等Web3功能。",
-          "link": "https://www.theblockbeats.info/news/42280",
-          "publishedOn": "2023-05-31T14:23:05.000Z",
-          "wordCount": null,
-          "title": "Type!t：保护隐私的Web3输入法，创新推出Type to Earn",
           "imageUrl": null
         }
       ]
