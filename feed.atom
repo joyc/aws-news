@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-03T06:08:33.488Z</updated>
+    <updated>2023-06-03T12:11:52.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes：比特币不会再低于20,000美元，加息反而会促成新一轮牛市]]></title>
+        <id>https://www.theblockbeats.info/news/42328</id>
+        <link href="https://www.theblockbeats.info/news/42328"/>
+        <updated>2023-06-03T08:34:20.000Z</updated>
+        <summary type="html"><![CDATA[BlockBeats 消息，6 月 3 日，BitMEX 联合创始人兼前首席执行官 Arthur Hayes 发文表示，其认为通货膨胀将在今年夏天达到阶段性低点，并在年底重新加速上升，美联储 2% 的核心通胀目标不会在 2023 年实现。
+
+
+
+
+债务方面，Arthur Hayes 认为，由于庞大的福利支出，美国联邦政府不但无法减少赤字，该数字反而将继续上升，估计每年 1 到 2 万亿美元的赤字将成为未来十年的常态。外国人将逐渐变成美国国债 (UST) 净卖家，人们对美元和 UST 的边际需求将逐步下降，若要出售大量债务，则不能将指望非美国投资者购买。
+
+
+银行业方面，Arthur Hayes 认为，银行只能巨额亏损出售资产（USTs、抵押贷款、汽车贷款、商业房地产贷款等），然后提高存款利率以吸引客户回到银行。或者什么都不做，当储户逃离时，只好用银行的资产与美联储交换新印制的美元。
+
+
+
+
+货币政策方面，Arthur Hayes 认为美联储现在举步维艰，在当前环境和政策下，提高利率可能相当于增加了货币供应量，那么提高利率实际上就会增加通货膨胀。
+
+
+Arthur Hayes 在对经济情况做出上述判断的基础上分析称，美国债务上限将在今年夏天上调。这使得美国财政部可以开始发行债券为政府提供资金。随着财政部账户余额 (TGA) 的增加，债券发行可能会暂时消耗美元流动性。但随着时间的推移，财政部开始花钱，TGA 下降，美元流动性将会增加。通胀将触底并开始缓慢走高。这意味着美联储可能会在 6 月暂停加息，但会在 7 月的会议上再次启动加息，8 月下旬杰克逊霍尔央行行长大会举行时，政策利率可能接近 6%。
+
+
+
+
+银行用户将不断地把钱存到那些大而不能倒的银行中，大银行将收到的任何额外资金存放在美联储，这将增加美联储印制的货币数量，新币用于支付存放在这些设施中的货币的利息，每天注入系统的美元流动性量将继续增长。富有的资产持有者手中的钱大于其所需时，他们会将资金投资于风险资产，黄金、比特币、人工智能科技股等资产都会因此受益。
+
+
+Arthur Hayes 预计比特币将在当前价位趋于稳定，不相信币价会重新测试 20,000 美元或任何接近该价格的地方。随着资金慢慢流入全球风险资产市场，将形成强大的支撑基础。今年夏天的波动性和交易量会令人失望，对此厌烦的投资者将暂时退出加密交易。其个人将在 TGA 补仓后，慢慢增加其对比特币的配置。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周新闻回顾｜BKEX配合警方调查暂停提币；香港虚拟资产交易新规施行]]></title>
+        <id>https://www.theblockbeats.info/news/42322</id>
+        <link href="https://www.theblockbeats.info/news/42322"/>
+        <updated>2023-06-03T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[BlockBeats 将在本文整理当周（5.28-6.03）行业重点新闻内容，并推荐深度佳文帮助读者更好了解市场，获悉行业趋势。
+
+
+
+
+本周重要新闻回顾
+
+
+
+
+BKEX：因配合警方对涉嫌洗钱的资金进行取证而暂停提币
+
+
+5 月 29 日，加密货币交易平台 BKEX 发布公告称，因近期平台用户资金涉嫌「洗钱」，BKEX 目前正在配合警方取证并暂停提币。
+
+
+香港虚拟资产交易新规《适用于虚拟资产交易平台营运者的指引》正式施行
+
+
+6 月 1 日，香港虚拟资产交易新规《适用于虚拟资产交易平台营运者的指引》正式施行，虚拟资产交易平台营运营牌照自开启申领，标志着香港大力推进的全球虚拟资产中心建设取得重大进展。相关阅读：《香港虚拟资产新规正式生效，Web3 在香港的历史时刻》
+
+
+
+
+新火科技控股：与火币香港「Huobi Hong Kong」并无任何业务或股权上的关系
+
+
+据新火科技控股官方公告显示，加密货币交易平台火必于 2023 年 5 月 26 日发布推文，宣布火币香港「Huobi Hong Kong」准备为用户提供加密货币交易服务。该公司董事会特此澄清，本公司与火币香港「Huobi Hong Kong」并无任何业务或股权上的关系。BlockBeats 此前报道，Huobi 创始人李林此前曾针对 Huobi HK 是否与李林个人有关，以及 Huobi App 重新使用「火币」字样等问题在社交媒体发文表示，要求 Huobi(火必) 公司立即停止使用中文「火币」、「火幣」的侵权行为。根据交易协议，Huobi(火必) 公司禁止使用简体及繁体中文的「火币」、「火幣」品牌 (Huobi 公司的中文更名为「火必」)。
+
+
+
+
+百域资本不再以任何方式参与 Huobi 事务
+
+
+6 月 2 日，香港资产管理公司 About Capital Management（百域资本）于 5 月份向该媒体…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访Kakarot：Vitalik投资的未来ZK超级赛亚人]]></title>
+        <id>https://www.theblockbeats.info/news/42325</id>
+        <link href="https://www.theblockbeats.info/news/42325"/>
+        <updated>2023-06-03T06:28:36.000Z</updated>
+        <summary type="html"><![CDATA[在刚过去的 EDCON 大会上，ZK 作为最火热的话题成了 Vitalik 个人演讲中的重要内容，而在关于 ZK 的讨论中，zkEVM 这个领域则被反复提及。在当前的加密领域，Scroll、Polygon、Consensys 等几名 zkEVM 头部玩家群雄逐鹿，zkEVM 俨然已是整个行业里「最卷」的赛道。大家争相上线测试网和主网，并竭力吸引更多生态开发者。
+
+
+而在 Vitalik 的演讲中，他提到了一个名为 Kakarot 的有趣项目。这个在 Starknet 上用 Cairo 语言搭建的 zkEVM，虽然至今还没有上线测试网，却早已得到 Vitalik 和一众顶流加密 VC 的支持与青睐。在昨日公布的 Kakarot 融资信息中，Vitalik 的名字更是鲜有地出现在投资人名单中。
+
+
+
+
+Kakarot其实是一个有寓意的名字，在日本东映动画制作的经典动画片《龙珠》中，主角孙悟空的名字就叫“卡卡罗特”，作为赛亚人的代表，他拥有变身成为超级战士的能力。而对于正处扩容阶段的以太坊来说，目前生态最需要的，就是一个能够解决扩容难题的超级赛亚人。
+
+
+当然，仅靠一个恰如其分的名字，不能为一个「加密圈最卷赛道」的初生牛犊带来如此高的关注。那么Kakarot的魅力究竟在哪里？BlockBeats 为此专访了 Kakarot 联合创始人 Elias Tazartes，深入了解了这位 25 岁的法国青年对 Starknet、zkEVM 和区块链扩容未来的独到看法。
+
+
+从行业小白到 ZK 大师
+
+
+
+
+很难想象，在 ZK 这个技术要求极高的领域，已成为佼佼者的 Elias 在两三年前还是一个行业小白。和许多开发者一样，Elias 在许多 L1 生态做过开发，这其中就包括了 Solana、Cosmos 等一众非 EVM 兼容的公链。正是这段非 EVM 生态的开发经历，让 Elias 成…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[半年涨幅10倍，一文读懂LSD赛道创新协议Pendle]]></title>
         <id>https://www.theblockbeats.info/news/42316</id>
