@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42337",
+          "author": null,
+          "description": "精选事件：\n\nVoyager：已提交清算程序拟议修正案，听证会定于 6 月 6 日举行\nOptimism 主网 Bedrock 升级将于 6 月 7 日进行，届时将停机 2 至 4 小时\n苹果开发者大会 WWDC23 将于 6 月 6 日至 6 月 10 日举行，有望推出 VR/AR 首款头显\nCircle 将于 6 月 8 日在 Arbitrum 推出原生 USDC\n\n\n\n\n6 月 5 日\n\n\nCoinbase 衍生品交易平台将于 6 月 5 日推出机构期货产品，包括比特币和以太坊合约\n\n\n加密货币交易平台 Coinbase 发文称，「该公司旗下受美国商品期货交易委员（CFTC）监管的衍生品交易平台 Coinbase Derivatives Exchange 将于 6 月 5 日推出其机构期货产品，包括比特币和以太坊合约。」\n\nCoinbase 推出的 Coinbase Bitcoin（BTI）期货合约和 Coinbase Ether（ETI）期货合约的规模分别为每份合约 1 BTC、10 ETH，可以通过第三方机构期货交易商（FCM）和经纪商参与交易。\n\n\n\n\nGnosis Chain：将于 6 月 5 日正式停用与 BNB Chain 间的原生桥\n\n\nGnosis Chain 官方宣布，经过慎重考虑和评估决定停用 BNB Chain 和 Gnosis Chain 之间的原生桥，具体考量因素包括流量较低以及已有替代解决方案等。\n\n\n\n\n在此公告之后，将按照以下步骤来停用该桥：1. 在此公告发布后的 21 天后（即 2023 年 3 月 27 日）禁用 BNB Chain 到 Gnosis Chain 的桥接，用户仍然可以从 Gnosis Chain 至 BNB Chain 的桥接。在此公告发布后 90 天 (2023 年 6 月 5 日) 禁用两个方向之间的桥接，整个桥…",
+          "link": "https://www.theblockbeats.info/news/42337",
+          "publishedOn": "2023-06-04T10:56:24.000Z",
+          "wordCount": null,
+          "title": "一周前瞻：Optimism主网Bedrock升级将于6月7日进行；Circle将于Arbitrum推出原生USDC",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42333",
           "author": null,
           "description": "原文作者：0xSevens.lens & 旺仔\n\n\n回头看在 Terra 暴跌一周年后，NFT 市场整体的交易量、NFT 的上新发行量、top 蓝筹 NFTProject 的价格等数据都呈现下跌趋势，末端市场的小众 NFT 甚至跌至归零。\n\n\n从浅入深地分析导致这一冰点的原因：\n\n\n1. NFT 市场的流动性抽离；\n\n\n2. NFT 玩家对后市信心不足，清仓离场；\n\n\n3. NFT 借贷协议中的蓝筹 NFT 因巨鲸抛售和 Blur 农民倒货引发的 FUD。\n\n\n从数据来看 Terra rekt 时间并不是市场上大多数 NFT 价格的最低点，大部分 NFT 价格的低点都徘徊在 2023 的 4 月份且从成交量上面来看均有持续下跌的趋势。\n\n\n\n\n\n\nYuga Labs\n\n\n从赛道龙头来看，Yuga Labs 虽推出 Dookey Dash 、比特币 NFT 系列 TwelveFold、otherdeed 二测，但并未有新的叙事玩法来吸引更多玩家的注意和流动性。生态的膨胀速度远超于可以实现的利好。\n\n\n\n\n\n除此之外，Yuga labs 生态的 NFT 系列也进行了进一步膨胀且都没能在价格上有很好的表现，koda 在没有被分离出来之前的价格大概是 14E 左右，土地在元素拆分之前的地板价格是 2E。现在这两个系列的地板价格双双腰斩。\n\n\n\n\n\n\nLimitBreak\n\n\n不只是 Yuga Labs，LimitBreak 也面临这样的问题，其生态内 NFT 资产的多元化分散了玩家的注意力和流动性，导致了 NFT 系列价格的下跌，进一步瓦解熊市中 HODL 的信心。\n\n\n\n\n\n\nBAYC\n\n\n此外，继 FTX 事件后以 Franklin 为代表的 NFT 大户的陆续抛售其持有的猴子和其他蓝筹 NFT。间接导致其他 NFT 持有人的不安与恐慌情绪进一步蔓延，NFT 市场信心降至冰点。\n\n\n回测一年来的 BAYC 交易量。在今年二月份（02.24）的时候，我们监控到 BAYC 交易量暴增，根据 parsec 数据显示有许多大户出逃的现象。\n\n\n\n\n\n潜在的一个原因是 Blur 的 bid 挖矿奖励机制给市场提供了大量流动性的同时加速了 NFT 市场泡沫破灭的进程。（相关链接）\n\n\n\n\n\n反弹最猛的蓝筹\n\n\n在 32 个「老蓝筹」中，只有 13 个项目价格上涨，大部分「蓝筹」跌幅为 40%-90% 上下，而持有蓝筹项目所带来的收益都远不符合 Alpha 应有收益率。涨势不错的 NFT，其衍生品大多也涨幅较多，例如 Milady 和 Redacted Remilio Babies，Azuki 和 BEANZ，Pudgypenguin 和 Lil penguins。\n\n\n\n\n\n在交易量前 15 的 NFT 中，只有 CryptoPunks 、Milady Maker 、Azuki 、Pudgy Penguins 的持有人在近一年的收益为正。（其中 Azuki 去年 5 月发生了社区信任危机，各种丑闻被曝，社区持有者抛售 NFT 这里用的是当时最低价格）真正具有投资价值的 NFT 为： Milday Maker 、Pudgy Penguins 、CryptoPunks。\n\n\n\n\n\n一年内上线的 27 个项目中，有 15 个项目价格呈上涨，12 个项目走下跌趋势，其中涨幅超过 10 倍的有 OpepenEdition 、RedactedRemilioBabies 、Nakamigos。整体来看，新上线的、交易量高的、收益较高的项目比老的 NFT 项目跌幅小。\n\n\n\n\n\n原文链接",
@@ -103,16 +113,6 @@
           "publishedOn": "2023-06-02T07:32:16.000Z",
           "wordCount": null,
           "title": "详解Binance Launchpad，IEO 还是好的投资机会吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42268",
-          "author": null,
-          "description": "在刚过去的黑山以太坊 EDCON 大会上，ZK 成了最火热的话题。从 19 号到 23 号整整 5 天的时间里，无论是个人演讲还是圆桌 Pannel，嘉宾们的话题大都围绕 ZK Rollup、zkEVM 和 ZKML 等词汇展开。在「以太坊核心圈」眼中，ZK 已经成为媲美 2019 年 DeFi 创新的、能够撬动下一轮行业爆发的究极新叙事。\n\n\n长期以来，技术实现都是 ZK 面临的主要难题，这也使得它在大多数人印象中，一直都是「未来的解决方案」。然而今年，Arbitrum 生态还没热透，作为技术替代者的 ZK Rollup 们就已经上来敲门了。今年最明显的一个感受，就是各式各样的「ZK 项目」突然变多了。开发者开始 FOMO ZK 技术，ZK 转账、ZK 身份还有 ZK 桌游，只要能和隐私沾边的，项目名称里一定会有「ZK」二字。这般繁荣景象，当然得益于 Starknet、zkSync 等 ZK Rollup，以及 Scroll、Polygon 等 zkEVM 项目的集中发力。而在这些中流砥柱的背后，是一位叫做 Eli Ben-Ssason 的以色列大汉。\n\n\nEli （@EliBenSasson）是最早一批将 ZK 技术与加密技术进行结合的科研者，他是 Zcash 和 StarkWare 的创始人，也是 zk-STARK 的创作者。而后边这项技术标准，正是当今 Starknet，乃至整个加密 ZK 赛道的重要技术基石。BlockBeats 在黑山 EDCON 期间见到了这位传奇人物，在近一个小时的对话中，Eli 展现出了强烈的技术自信，他向 BlockBeats 透露了自己对 STARK、SNARK 和 Rollup 赛道的看法，以及对 Starknet 生态的期许。\n\n\n关于乐观欺诈证明、zk-STARK 和 SNARK\n\n\n\n\n很多人认识 Eli，都是通过 StarkW…",
-          "link": "https://www.theblockbeats.info/news/42268",
-          "publishedOn": "2023-06-02T02:30:02.000Z",
-          "wordCount": null,
-          "title": "专访Starknet创始人：仰望星空，脚踏实地",
           "imageUrl": null
         }
       ]
