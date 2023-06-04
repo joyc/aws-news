@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42331",
+          "author": null,
+          "description": "原文标题：《借 Arbitrum 迎来第二春？全面解析 Trader Joe 业务现状、Token 模型和估值水平》\n原文作者：Alex，Mint Ventures\n\n\n1. 报告要点\n\n1.1 核心投资逻辑\n\n\nTrader Joe 的核心优势在于坚韧、拥有很好交付能力和创新力的核心团队，不错的产品体验和流动性订单簿的创新让用户增长迅速，目前 Arbitrum 是其业务增长的主要引擎。\n\n\n虽然 Dexs 赛道的激烈竞争仍在继续，这意味着赛道内的各个项目对于交易者和流动性提供者都没有强势的议价权，大部分项目都处于亏损或是薄利运营的状态，这种市场竞争局面短时间很难得到改善。不过由于加密市场和 Dexs 赛道的双重周期性，以 Trader Joe 为代表的项目在牛市依旧有望走出强于大盘的市场行情。\n\n\n1.2 主要风险\n\n\n主要来自于激烈的竞争，大本营市场 Avalanche 面临生态萎缩和 Uniswap v3 的竞争，Arbitrum 作为目前的主要增长市场，仍在低价和补贴换量的阶段，交易量和手续费的增长尚不稳定，比较依赖事件性项目带来的业务量。\n\n\n1.3 估值\n\n\n目前 Trader Joe 在 PF、PS、PE 多个倍数指标上都享受着对比同类项目更高的估值，详见 4.2 估值水平。\n\n\n2. 项目基本情况\n\n2.1 项目业务范围\n\n\nTrader Joe 是一个综合型的 DeFi 项目，旗下业务包括现货 Dex、去中化借贷（Banker Joe）、NFT 交易平台（Joepeg）和 launchpad（Rocket Joe）。Trader Joe 目前的交易业务横跨 Avalanche、Arbitrum 和 BNBchain。其中，现货交易是 Trader Joe 目前的核心业务，也是它相对领先的业务板块。\n\n\n2.1.1 现货 Dex\n\n\nTrader Joe 的…",
+          "link": "https://www.theblockbeats.info/news/42331",
+          "publishedOn": "2023-06-04T03:28:56.000Z",
+          "wordCount": null,
+          "title": "借Arbitrum迎来第二春？全面解析Trader Joe业务现状、Token模型和估值水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42319",
+          "author": null,
+          "description": "原文来源：R3PO\n原文作者：zf857.eth \n\n\n一. BRC-20 的诞生\n\n\n2022 年 12 月底，Casey Rodamorr 带着比特币 Ordinals 和 Inscriptions（序数和铭文）的概念出现在大家视野。\n\n\n首先，简单介绍一下相关知识。比特币区块就像记录所有 BTC 交易的共享账本的页面。在 2021 年，比特币区块的大小限制为 1 兆字节。此限制是为了防止网络上的垃圾邮件攻击。两次比特币更新——2017 年的 SegWit 和 2021 年的 Taproot，将块大小增加到 4 兆字节。\n\n\n假设您想在比特币上创建自己的虚拟货币，需要两样东西：聪（satoshi）和标签。satoshis 是比特币的最小部分，类似于美分是美元的最小部分。标签是可以附加到 satoshis 的附加数据。序数 Ordinals 使数据能够被刻在比特币的单个「聪」satoshi 中。他们使用一个叫做序数理论的逻辑排序系统，给每个独立的「聪」satoshi 一个唯一的数字。然后，任意的数据可以被刻在每个单独的「聪」satoshi 中。这些刻在「聪」satoshi 上的数据可以是图像、视频、音频、文本，甚至是整个应用程序。\n\n\nOrdinals 使 NFT 得以创建，它完全是比特币原生的，不需要第二层的解决方案，不需要改变比特币协议就可以工作，并且向后兼容网络。\n\n\n2023 年 3 月 9 日匿名开发者 domo 推出 ordi 与实验性的标准协议 BRC-20。BRC，英文 Bitcoin Request for Comment 的缩写，中文意思是比特币征求意见协议。值得注意的是，BRC-20 标准并不像 EVM 区块链上流行的 Token 标准那样使用智能合约，BRC-20 Token 将 JSON 数据嵌入序号铭文中，使用户能够部署、铸造和转移 Token…",
+          "link": "https://www.theblockbeats.info/news/42319",
+          "publishedOn": "2023-06-04T01:07:12.000Z",
+          "wordCount": null,
+          "title": "BRC-20市场潮水褪去，聪（satoshi）的计价时代真的来了吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42328",
           "author": null,
           "description": "BlockBeats 消息，6 月 3 日，BitMEX 联合创始人兼前首席执行官 Arthur Hayes 发文表示，其认为通货膨胀将在今年夏天达到阶段性低点，并在年底重新加速上升，美联储 2% 的核心通胀目标不会在 2023 年实现。\n\n\n\n\n债务方面，Arthur Hayes 认为，由于庞大的福利支出，美国联邦政府不但无法减少赤字，该数字反而将继续上升，估计每年 1 到 2 万亿美元的赤字将成为未来十年的常态。外国人将逐渐变成美国国债 (UST) 净卖家，人们对美元和 UST 的边际需求将逐步下降，若要出售大量债务，则不能将指望非美国投资者购买。\n\n\n银行业方面，Arthur Hayes 认为，银行只能巨额亏损出售资产（USTs、抵押贷款、汽车贷款、商业房地产贷款等），然后提高存款利率以吸引客户回到银行。或者什么都不做，当储户逃离时，只好用银行的资产与美联储交换新印制的美元。\n\n\n\n\n货币政策方面，Arthur Hayes 认为美联储现在举步维艰，在当前环境和政策下，提高利率可能相当于增加了货币供应量，那么提高利率实际上就会增加通货膨胀。\n\n\nArthur Hayes 在对经济情况做出上述判断的基础上分析称，美国债务上限将在今年夏天上调。这使得美国财政部可以开始发行债券为政府提供资金。随着财政部账户余额 (TGA) 的增加，债券发行可能会暂时消耗美元流动性。但随着时间的推移，财政部开始花钱，TGA 下降，美元流动性将会增加。通胀将触底并开始缓慢走高。这意味着美联储可能会在 6 月暂停加息，但会在 7 月的会议上再次启动加息，8 月下旬杰克逊霍尔央行行长大会举行时，政策利率可能接近 6%。\n\n\n\n\n银行用户将不断地把钱存到那些大而不能倒的银行中，大银行将收到的任何额外资金存放在美联储，这将增加美联储印制的货币数量，新币用于支付存放在这些设施中的货币的利息，每天注入系统的美元流动性量将继续增长。富有的资产持有者手中的钱大于其所需时，他们会将资金投资于风险资产，黄金、比特币、人工智能科技股等资产都会因此受益。\n\n\nArthur Hayes 预计比特币将在当前价位趋于稳定，不相信币价会重新测试 20,000 美元或任何接近该价格的地方。随着资金慢慢流入全球风险资产市场，将形成强大的支撑基础。今年夏天的波动性和交易量会令人失望，对此厌烦的投资者将暂时退出加密交易。其个人将在 TGA 补仓后，慢慢增加其对比特币的配置。\n\n\n原文链接",
