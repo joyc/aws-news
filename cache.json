@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42360",
+          "author": null,
+          "description": "为什么美联储没有开始降息，为什么美国没有开始进行收益率曲线控制。",
+          "link": "https://www.theblockbeats.info/news/42360",
+          "publishedOn": "2023-06-05T13:00:01.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes：别灰心，第四季度牛市即将到来",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42379",
           "author": null,
           "description": "自 Binance IEO 巅峰之作 Stepn 过去 9 个月后，去年底 Binance 终于重启 IEO。然而恰逢熊市，今年数个 IEO 市场表现不及此前预期，引发社区些许不满。「闺蜜币」传闻愈演愈烈，加之 Binance 作为业内体量数一数二的平台，近半年上线的新币却往往面临较大抛压，出现上线即巅峰的情况... \n\n\n在本周末，针对社区用户的这些质疑与不满，Binance 联合创始人何一在 Twitter 进行了一一解答和回复。律动 BlockBeats 整理如下：\n\n\n\n\n6 月 4 日，何一先在社群内针对最近市场传言及质疑进行了统一回应\n\n\n1、Binance 还是在意财富效应的。大家可以统计所有平台今天上币的项目，看各个平台上了后跌破上币价格的百分比，目前我们应该表现还是最优；\n\n\n2、Launchpad 的项目，我们拿到什么价格给到用户，是我们能谈到的最低，所以用户 IEO 抢到基本都有得赚。但二级市场的价格不受我们控制，至于谁买到便宜筹码，谁抛早了，Binance 不做控制，但项目方必须按照公示解锁，Binance 会监督；\n\n\n3，Binance 没有什么老鼠仓，也没什么亲戚币，更没什么闺蜜币；我需要照顾谁面子里子？我照看 Binance 已经很忙了。之前来拉关系走路子，没搞定在 Binance 上币，所以编几个闺蜜，亲戚段子，不就是因为没上他们项目？\n\n\n市场上热门项目没几个，哪些热点高都猜一遍不稀奇，项目方现在都玩个位数解锁，这也不是我们能控制的。有热度不上大家骂 Binance，没有羊毛预热的项目，大家手里没羊毛上了还是骂，不如朴素点用数据说话，挨家统计一下，这又不难。\n\n\n\n\n4、\n\nBinance\n\n每 3 个月一小裁员，6 个月一大裁员，去年到今年熊市人数涨了 2 倍，确实会做些淘汰。业务没有影响，只会效率更高，谢谢大家关心。\n\n\n之前很长时间…",
@@ -13,6 +23,16 @@
           "publishedOn": "2023-06-05T11:20:17.000Z",
           "wordCount": null,
           "title": "何一的19条回应：关于Binance上币、IEO闺蜜传闻及市场份额",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42378",
+          "author": null,
+          "description": "6月5日加密行业重要资讯一览",
+          "link": "https://www.theblockbeats.info/news/42378",
+          "publishedOn": "2023-06-05T11:14:59.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜Sui主网PoS产出数量达5888万枚；Atomic Wallet被盗总额超3500万美元",
           "imageUrl": null
         },
         {
@@ -143,16 +163,6 @@
           "publishedOn": "2023-06-03T06:28:36.000Z",
           "wordCount": null,
           "title": "专访Kakarot：Vitalik投资的未来ZK超级赛亚人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42316",
-          "author": null,
-          "description": "原文来源：R3PO\n原文作者：Tian \n\n\n今年以来受上海升级，ETH 由 Pow 转为 Pos 机制利好刺激，LSD（以太坊质押衍生品）赛道迎来了大爆发，LDO、RPL、SSV 等一众 LSD 赛道概念 Token 皆迎来了巨幅涨幅，不过受宏观流动性缩紧、市场热点转换等影响，LSD 赛道有所冷却相关项目 Token 价格出现了普遍回调。\n\n\n然而有一个协议 Token 价格始终保持着较强的韧性，其 Token 价格从年初的 0.04美元，涨至如今的 0.42美元，涨幅近 10 倍。Pendle 的项目进展也持续吸引着市场关注，在部署于 Arb 链上后，在 Camelot 上线的 PENDLE/ETH 池短短几天流动性就突破 100 万美元。本文将详细介绍展现出强大生命力的 LSD 赛道创新协议——Pendle。\n\n\n\n\nLSD 赛道的千亿市场规模潜力\n\n\n\n\n在解读 Pendle 协议之前，我们先了解一下 LSD 赛道以及为什么说 LSD 赛道具备达到千亿市场规模的潜力。\n\n\n\n\nLSD 全称为 Liquidity Staking Derivatives，即流动性质押衍生品，LSD 协议是伴随着 ETH 2.0 升级成长起来的 DeFi 衍生品赛道。4 月 12 日上海升级完成后，ETH 正式从 Pow 机制转为 Pos（权益质押证明）机制，上海升级成为以太坊升级路线图中的重要里程碑事件。\n\n\n上海升级后用户可以自由提取自己的存款来降低质押风险，这将大大提升用户的质押意愿，提升 ETH 的质押率。如图可以见以太坊质押节点数，与质押的 ETH 数量在上海升级后不降反升，市场普遍担忧的因升级可能出现的 ETH 抛压并未出现。\n\n\n\n\n\n以太坊质押拥有着不错的回报率，通常在 5%-8% 之间波动，当前质押回报率为 5.268%，较高收益率，随存随取的灵活性使得质押 ETH 成…",
-          "link": "https://www.theblockbeats.info/news/42316",
-          "publishedOn": "2023-06-03T03:21:34.000Z",
-          "wordCount": null,
-          "title": "半年涨幅10倍，一文读懂LSD赛道创新协议Pendle",
           "imageUrl": null
         }
       ]

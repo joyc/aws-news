@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-05T12:14:01.341Z</updated>
+    <updated>2023-06-05T18:08:23.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes：别灰心，第四季度牛市即将到来]]></title>
+        <id>https://www.theblockbeats.info/news/42360</id>
+        <link href="https://www.theblockbeats.info/news/42360"/>
+        <updated>2023-06-05T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[为什么美联储没有开始降息，为什么美国没有开始进行收益率曲线控制。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[何一的19条回应：关于Binance上币、IEO闺蜜传闻及市场份额]]></title>
         <id>https://www.theblockbeats.info/news/42379</id>
@@ -44,6 +54,16 @@ Binance
 
 
 之前很长时间…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜Sui主网PoS产出数量达5888万枚；Atomic Wallet被盗总额超3500万美元]]></title>
+        <id>https://www.theblockbeats.info/news/42378</id>
+        <link href="https://www.theblockbeats.info/news/42378"/>
+        <updated>2023-06-05T11:14:59.000Z</updated>
+        <summary type="html"><![CDATA[6月5日加密行业重要资讯一览]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -778,47 +798,6 @@ Kakarot其实是一个有寓意的名字，在日本东映动画制作的经典�
 
 
 很难想象，在 ZK 这个技术要求极高的领域，已成为佼佼者的 Elias 在两三年前还是一个行业小白。和许多开发者一样，Elias 在许多 L1 生态做过开发，这其中就包括了 Solana、Cosmos 等一众非 EVM 兼容的公链。正是这段非 EVM 生态的开发经历，让 Elias 成…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半年涨幅10倍，一文读懂LSD赛道创新协议Pendle]]></title>
-        <id>https://www.theblockbeats.info/news/42316</id>
-        <link href="https://www.theblockbeats.info/news/42316"/>
-        <updated>2023-06-03T03:21:34.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：R3PO
-原文作者：Tian 
-
-
-今年以来受上海升级，ETH 由 Pow 转为 Pos 机制利好刺激，LSD（以太坊质押衍生品）赛道迎来了大爆发，LDO、RPL、SSV 等一众 LSD 赛道概念 Token 皆迎来了巨幅涨幅，不过受宏观流动性缩紧、市场热点转换等影响，LSD 赛道有所冷却相关项目 Token 价格出现了普遍回调。
-
-
-然而有一个协议 Token 价格始终保持着较强的韧性，其 Token 价格从年初的 0.04美元，涨至如今的 0.42美元，涨幅近 10 倍。Pendle 的项目进展也持续吸引着市场关注，在部署于 Arb 链上后，在 Camelot 上线的 PENDLE/ETH 池短短几天流动性就突破 100 万美元。本文将详细介绍展现出强大生命力的 LSD 赛道创新协议——Pendle。
-
-
-
-
-LSD 赛道的千亿市场规模潜力
-
-
-
-
-在解读 Pendle 协议之前，我们先了解一下 LSD 赛道以及为什么说 LSD 赛道具备达到千亿市场规模的潜力。
-
-
-
-
-LSD 全称为 Liquidity Staking Derivatives，即流动性质押衍生品，LSD 协议是伴随着 ETH 2.0 升级成长起来的 DeFi 衍生品赛道。4 月 12 日上海升级完成后，ETH 正式从 Pow 机制转为 Pos（权益质押证明）机制，上海升级成为以太坊升级路线图中的重要里程碑事件。
-
-
-上海升级后用户可以自由提取自己的存款来降低质押风险，这将大大提升用户的质押意愿，提升 ETH 的质押率。如图可以见以太坊质押节点数，与质押的 ETH 数量在上海升级后不降反升，市场普遍担忧的因升级可能出现的 ETH 抛压并未出现。
-
-
-
-
-
-以太坊质押拥有着不错的回报率，通常在 5%-8% 之间波动，当前质押回报率为 5.268%，较高收益率，随存随取的灵活性使得质押 ETH 成…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
