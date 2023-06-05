@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42343",
+          "author": null,
+          "description": "原文标题：《\n\n抄底逃顶指标 2：cex 的流入流出情况\n\n》\n原文作者：日月小楚\n\n\n当某个代币大量流入中心化交易平台，大概率是卖出行为，提现则相反。很多时候有着巨大的威力，逻辑和原理看着也简单，但是必须注意：\n\n\n1）该数据最需要结合市场的大环境以及币的涨跌。如果单单看到大额流入，就觉得会跌，这样的错误率比较高。\n\n\n2）特定情况下的使用，威力比较大。比如某个币已经很高涨幅，市场 fomo 情绪高，但是交易平台出现持续的大额流入，那么顶部的概率非常大了。\n\n\n3）要提防有时候主力故意放出烟雾弹。例如一个币已经跌的比较多，在底部震荡，这时候出现大量流入交易平台\n\n，有可能是庄家拉盘前，提前冲入交易平台\n\n。\n\n\n1、cex 的交易量占比分析\n\n\n如果要想使用该指标，cex 的交易量的占比是前提。如果一个币的交易都在链上，那研究中心化交易平台的数据就没有意义。从一般来说\n\n\n1）比较新的币，往往 dex 上的交易占比比较多\n\n\n2）上了币安后，交易量基本上币安占很大比例\n\n\n3）在不知道的情况，可以在 coinmarketcap 上查看交易占比，\n\n\n\n\n\n\n比如说 PEPE，在上币安之前，uniswap 是最主要的交易量。但是上币安后，主要在币安。\n\n\n4）如果没有币安，也需要小心一些二线交易平台\n\n，会机器人刷量，造成占比「假」高。\n\n\n2、案例分析 \n\n\n2.1 ssv\n\n\n\n\n\n\nSSV 在今年经历过一次暴涨，在红色的数字框\n\n\n1）\n\n交易平台大量提现，对应币价在底部，震荡一段时间后，开启了这次的暴涨\n\n\n2）\n\n交易平台大量充值，ssv 从 21 刀调整到 16 刀\n\n\n3）\n\n交易平台大量充值，ssv33 刀调整到 27 刀。\n\n\n4）\n\n交易平台大量充值，币价开始一路下跌\n\n\n为何红框 2 只是调整呢，所以要结合大环境。当时 btc 开启上涨行情，山寨都在轮流爆拉。然后 LSD 又是热门赛道。\n\n\n而红框 3 已经到达顶部区域了，简单来看涨幅已经比较大。说实话，当时是没办法确定。ssv 在最高点没有大量流入交易平台\n\n，说明庄家并不在最高点冲入（因为这样无疑是名牌告诉市场）但是经历了 2）3）大量充值后，明显进入了顶部区域了。\n\n\n如果在顶部没有卖出。那么在红框 4，40 刀左右肯定是要离场了。因为再一次出现大量流入交易平台\n\n，并且时间已经临近上海升级，利好马上兑现。并且当时其他山寨也都是砸下跌。\n\n\n2.2 magic\n\n\n\n\n\n\n上面的 Magic 冲入交易平台的情况，其中红框 1 3 4，对于着绿色币价的下跌。\n\n\n红框 2 是特殊情况，对于着 magic 一次巨量的解锁。而当时的其它情况是，整体市场行情很好，山寨都在暴涨。Magic 没有很大涨幅。所以这次并没有出现大跌。\n\n\n2.3 PEPE\n\n\n\n\n\n\n上面是 watechers 的交易平台流入流出情况，绿色代表流入，绿色柱子高于红色，代表净流入\n\n\nPEPE 的见顶信号也非常明显，在 5 月 6 日达到币价达到最高点。而之前几天，基本都是净流入。并且随后的几天，大部分都是净流入。所以可以判断 PEPE 的币价到顶，并不是深度调整。币价之后也是一路下跌。\n\n\n2.4 STG\n\n\n\n\n\n\n对币安 14 的代币余额发现，在一路下跌中，\n\n交易平台的 STG 余额是在一路下跌的，说明在 STG 的下跌中，有资金在不断的买入。直到 12 月 17 日，币安钱包内 STG 达到最低，同期 STG 的币价也是局部最低的，并且经过几天调整后，开始了上涨。\n\n\n3、数据来源\n\n\n最后，给大家推荐几个可以查看交易平台流入流出情况的网站。\n\n\n1、watchers\n\n\nhttps://watchers.pro/user/referral?referralcode=fLjhuIHL\n\n\n查看某个币的流入流出。免费版可以使用。现在用钱包登录+推特认证后，可以获得 14 天的会员版。建议大家尝试下其它功能。\n\n\n2、glassnode\n\n\nglassnode.com  必须是付费会员。而且代币大部分是老币。已经是会员的可以用用，新人不建议付费使用。\n\n\n3、区块链浏览器\n\n\nhttps://blockscan.com/\n\n\n优点是：各个公链都支持，并且是免费。\n\n\n缺点是：只能看一个个单独的地址（例如币安的钱包 14 等）。\n\n\n4、Jiedata\n\n\nhttps://jiedata.com/\n\n\nJiedata 是从交易平台的角度查看流入流出，并且可以用来设置报警提醒。现在 jiedata 处于免费阶段。\n\n\n\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/42343",
+          "publishedOn": "2023-06-05T03:06:44.000Z",
+          "wordCount": null,
+          "title": "抄底逃顶指南二：CEX的流入流出情况",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42337",
           "author": null,
           "description": "精选事件：\n\nVoyager：已提交清算程序拟议修正案，听证会定于 6 月 6 日举行\nOptimism 主网 Bedrock 升级将于 6 月 7 日进行，届时将停机 2 至 4 小时\n苹果开发者大会 WWDC23 将于 6 月 6 日至 6 月 10 日举行，有望推出 VR/AR 首款头显\nCircle 将于 6 月 8 日在 Arbitrum 推出原生 USDC\n\n\n\n\n6 月 5 日\n\n\nCoinbase 衍生品交易平台将于 6 月 5 日推出机构期货产品，包括比特币和以太坊合约\n\n\n加密货币交易平台 Coinbase 发文称，「该公司旗下受美国商品期货交易委员（CFTC）监管的衍生品交易平台 Coinbase Derivatives Exchange 将于 6 月 5 日推出其机构期货产品，包括比特币和以太坊合约。」\n\nCoinbase 推出的 Coinbase Bitcoin（BTI）期货合约和 Coinbase Ether（ETI）期货合约的规模分别为每份合约 1 BTC、10 ETH，可以通过第三方机构期货交易商（FCM）和经纪商参与交易。\n\n\n\n\nGnosis Chain：将于 6 月 5 日正式停用与 BNB Chain 间的原生桥\n\n\nGnosis Chain 官方宣布，经过慎重考虑和评估决定停用 BNB Chain 和 Gnosis Chain 之间的原生桥，具体考量因素包括流量较低以及已有替代解决方案等。\n\n\n\n\n在此公告之后，将按照以下步骤来停用该桥：1. 在此公告发布后的 21 天后（即 2023 年 3 月 27 日）禁用 BNB Chain 到 Gnosis Chain 的桥接，用户仍然可以从 Gnosis Chain 至 BNB Chain 的桥接。在此公告发布后 90 天 (2023 年 6 月 5 日) 禁用两个方向之间的桥接，整个桥…",
@@ -83,26 +93,6 @@
           "publishedOn": "2023-06-03T03:21:34.000Z",
           "wordCount": null,
           "title": "半年涨幅10倍，一文读懂LSD赛道创新协议Pendle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42313",
-          "author": null,
-          "description": "精选要闻：\n\n1、zkEVM Kakarot 完成 Pre-Seed 轮融资，Vitalik Buterin、StarkWare 等参投\n2、数据：比特币矿工 5 月份收入达 9.166 亿美元，环比增长 13.7%\n3、携程海外版推出首个 NFT 系列 Trekki，将于 Q3 进行盲盒销售\n4、谷歌云与 Voltage 达成合作，允许客户在谷歌云中创建比特币和闪电网络节点\n5、RSS3 已支持 Lens Protocol L3 解决方案 Momoka\n6、微软与前以太坊矿企 CoreWeave 签署价值数十亿美元的人工智能算力协议\n\n\n\n\n项目动态\n\n\n\n\n携程海外版推出首个 NFT 系列 Trekki，将于 Q3 进行盲盒销售\n\n\n据官方消息，携程海外版推出首个 NFT 系列 Trekki，该系列包括 10,000 枚以海豚卡通为主题的 NFT，现已在 Trekki 官网开放注册，并将在 2023 年第三季度通过盲盒销售。Trekki 根据其稀缺性进行分类，每个 NFT 拥有一个独特的角色和各种旅行背景。\n据悉，Trekki 将带有游戏化增长机制，持有者旅行次数越多，通过 Trekki 解锁的好处也就越多。\n\n\nBRC-20 Token 质押项目 Arkstart 正进行 IDO，募集金额已突破 100 BTC\n\n\n据官方消息，BRC-20 Token 质押项目 Arkstart 已在 BisoSwap 平台开始 IDO，目前已进行 6 小时，共有超 1100 个地址参与，募集金额突破 100 BTC。本次 IDO 活动将于今晚 12:00 截止。\nArkstart 旨在使用独特的质押机制和经济模型建立一个可持续的质押生态系统。目前已将其原生 Token「arks」引入高级质押功能，为 BRC-20 Token 带来价值，用户可通过抵押 arks 获得 Aras To…",
-          "link": "https://www.theblockbeats.info/news/42313",
-          "publishedOn": "2023-06-02T14:02:09.000Z",
-          "wordCount": null,
-          "title": "Web3日报｜Vitalik及StarkWare参投zkEVM Kakarot；携程海外版推出首个NFT系列",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42310",
-          "author": null,
-          "description": "原文标题：《Meme 浪潮奔涌，普通用户如何参与？》\n原文来源：Foresight News\n原文作者：ADD，加密研究员\n\n\n「价值投资一场空，梭哈青蛙住皇宫……」这句流传在加密世界街头巷尾的名言想必你一定听过。那么你是否想过它背后代表的 meme 潮流和机遇。当 DeFi Summer、NFT Summer 远去，L2、LSD 这些翻新的热点无法接过「价值投资」的大旗时，另一股的风暴突然刮起。\n\n\n\n\n4 月中旬，一个名为 PEPE 的 meme Token 悄然上线，并在短短四日内千上涨千倍。暴富神话使得 PEPE 名声大噪，Meme Summer 就此拉开序幕。\n\n\n\n\nmeme 到底是什么？\n\n\n\n\n在 meme Token 受万人追捧时，也有不少人在质疑：meme 究竟是什么？有什么价值？要回答这个问题，我们不妨回到上一轮的 meme 大爆发。\n\n\n\n\n2021 年初，可能谁也想不到马斯克大佬的几条「推特」便让动物园系列 Token 风潮汹涌，并直接影响着加密世界的发展节奏，一场凝聚人心的「社区共识」在那个 5 月被演绎的淋漓尽致。潮起潮落，很多早期 MEME 都已经落幕，然而仍有两个身影在今天这个熊市也保持了巨大的市值屹立不倒。根据 CoinGecko 数据，DOGE 市值依然保持在百亿美元以上，排名第九；而 SHIB 的市值保持在 50 亿美元左右，排名第 16。BTC 的成功为整个加密生态的发展提供了前提条件，DOGE 和 SHIB 的成功也直接推动了 meme 这个赛道的市场需求。\n\n\nmeme 目前被广泛理解为「梗」，最成功的表达形式也是表情包。狗狗币的成功让市场越来越多得注意到 MEME 没那么简单，在社区里「传道」并分享认可某种亚文化可以产生巨大的力量。这时候我们又回到了一个艰难的议题，对区块链项目而言，技术和营销到底哪个更重要？在 meme 上，…",
-          "link": "https://www.theblockbeats.info/news/42310",
-          "publishedOn": "2023-06-02T13:32:15.000Z",
-          "wordCount": null,
-          "title": "Meme浪潮奔涌，普通用户如何参与？",
           "imageUrl": null
         }
       ]
