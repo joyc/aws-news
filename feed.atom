@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-06T18:08:30.700Z</updated>
+    <updated>2023-06-07T00:42:58.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1239,47 +1239,6 @@ Jiedata 是从交易平台的角度查看流入流出，并且可以用来设置
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周前瞻：Optimism主网Bedrock升级将于6月7日进行；Circle将于Arbitrum推出原生USDC]]></title>
-        <id>https://www.theblockbeats.info/news/42337</id>
-        <link href="https://www.theblockbeats.info/news/42337"/>
-        <updated>2023-06-04T10:56:24.000Z</updated>
-        <summary type="html"><![CDATA[精选事件：
-
-Voyager：已提交清算程序拟议修正案，听证会定于 6 月 6 日举行
-Optimism 主网 Bedrock 升级将于 6 月 7 日进行，届时将停机 2 至 4 小时
-苹果开发者大会 WWDC23 将于 6 月 6 日至 6 月 10 日举行，有望推出 VR/AR 首款头显
-Circle 将于 6 月 8 日在 Arbitrum 推出原生 USDC
-
-
-
-
-6 月 5 日
-
-
-Coinbase 衍生品交易平台将于 6 月 5 日推出机构期货产品，包括比特币和以太坊合约
-
-
-加密货币交易平台 Coinbase 发文称，「该公司旗下受美国商品期货交易委员（CFTC）监管的衍生品交易平台 Coinbase Derivatives Exchange 将于 6 月 5 日推出其机构期货产品，包括比特币和以太坊合约。」
-
-Coinbase 推出的 Coinbase Bitcoin（BTI）期货合约和 Coinbase Ether（ETI）期货合约的规模分别为每份合约 1 BTC、10 ETH，可以通过第三方机构期货交易商（FCM）和经纪商参与交易。
-
-
-
-
-Gnosis Chain：将于 6 月 5 日正式停用与 BNB Chain 间的原生桥
-
-
-Gnosis Chain 官方宣布，经过慎重考虑和评估决定停用 BNB Chain 和 Gnosis Chain 之间的原生桥，具体考量因素包括流量较低以及已有替代解决方案等。
-
-
-
-
-在此公告之后，将按照以下步骤来停用该桥：1. 在此公告发布后的 21 天后（即 2023 年 3 月 27 日）禁用 BNB Chain 到 Gnosis Chain 的桥接，用户仍然可以从 Gnosis Chain 至 BNB Chain 的桥接。在此公告发布后 90 天 (2023 年 6 月 5 日) 禁用两个方向之间的桥接，整个桥…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
