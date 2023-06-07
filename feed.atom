@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-07T06:09:15.822Z</updated>
+    <updated>2023-06-07T12:13:11.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IPOR：DeFi发展的新脉搏]]></title>
+        <id>https://www.theblockbeats.info/news/42453</id>
+        <link href="https://www.theblockbeats.info/news/42453"/>
+        <updated>2023-06-07T07:50:40.000Z</updated>
+        <summary type="html"><![CDATA[IPOR协议正在颠覆DeFi，通过实现整个行业的利率标准化，为DeFi信用市场的发展奠定基础。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众议院听证会概览：SEC执法行动遭批评，加密新规或需数年时间]]></title>
+        <id>https://www.theblockbeats.info/news/42449</id>
+        <link href="https://www.theblockbeats.info/news/42449"/>
+        <updated>2023-06-07T06:25:49.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《众议院听证会概览：SEC 执法行动遭批评，加密新规或需数年时间》
+原文来源：比推 BitpushNews
+
+
+在美国证券交易委员会 (SEC) 加大对加密行业的全面打击力度，相继对Binance、Coinbase 提起诉讼之际，众议院农业委员会于 6 月 6 日召开了关于数字资产监管的双小组听证会。
+
+
+
+
+
+本次听证会可谓是"全明星阵容"，商品期货交易委员会 (CFTC) 主席 Rostin Behnam 主持，Coinbase 首席法律官 Paul Grewal、 Robinhood 首席法律合规和公司事务官 Dan Gallagher 一起参加了听证会的第二个小组讨论。第二小组证人还包括前 CFTC 主席 Christopher Giancarlo、前 CFTC 专员和前 SEC 总法律顾问 Dan Berkovitz，以及前 CFTC 代理主席 Walt Lukken。
+
+
+执法监管不可持续，监管职责的划分不是「零和游戏」
+
+
+多位立法者表达了他们对美国目前采用的执法监管模式的担忧。共和党派，尤其是众议院农业委员会的共和党人，批评了 Gensler 的加密货币监管方式，认为他的机构已经「越界」。
+
+
+宾夕法尼亚州共和党议员、委员会主席 Glenn Thompson 在听证会中表示：「虽然我不会也不能谈论针对 [Coinbase] 的任何具体指控，但我确实想指出，这种行为正是我们今天在这里举行听证会的原因，执法监管不是管理市场、充分保护客户或促进创新的适当方式。」
+
+
+CFTC 主席 Rostin Behnam 表示，SEC 应该对归类为证券的资产拥有监管权力，但执法监管是不可持续的。他补充称：「事实是，最大的代币比特币是一种商品，这是由美国法院裁定的，而且根据美国法律，不受 SEC 监管。」
+
+
+
+
+
+来自南达科他州的共和党代表 Dusty Johnso…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近期值得关注的新项目一览]]></title>
+        <id>https://www.theblockbeats.info/news/42444</id>
+        <link href="https://www.theblockbeats.info/news/42444"/>
+        <updated>2023-06-07T05:56:24.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：toffee，加密研究员
+原文编译：Leo，BlockBeats
+
+
+SEC 在 Crypto 到处起诉的同时，新项目依旧值得被关注，加密研究员 toffee 梳理了近期的几个早期项目，BlockBeats 编译如下：
+
+
+Lumin Finance
+
+
+
+Lumin Finance 是在 Arbitrum 链上的去中心化点对点固定利率借贷协议，由其原生 tokenLUMIN 提供支持，与大多数借贷协议不同的是，该协议中的借方、贷方和质押者都会获得奖励，并采取 DAO 形式来治理，该协议一切调整都需通过 DAO 的请求批准。
+
+
+
+
+
+该平台具有独特的费用共享、回购和分配机制（buyback-and-distribute）以及回购和销毁（buyback-and-burn）机制。每笔借贷都是定制化的，通过 NFT 技术支持借贷模式，并且可以在其市场上进行交易，该协议的借贷抵押品很简单包括 ETH 、ARB、USDC 和 USDT。
+
+
+Membrane Finance
+
+
+
+Membrane Finance 是 Equilibrium Group（Equilibrium Group 是一家专注于 Web3 基础设施的工程技术巨头）的金融科技子公司，专门开发连接传统金融与加密融合的金融软件和服务。
+
+
+
+该公司近期开发了 EUROe，一种在欧盟监管合规的的欧元稳定币，可以 1:1 兑换欧元，为链上欧元提供流动性，该稳定币支持即时、低成本的全球支付，专为未来的企业而设计。
+
+
+
+
+
+ EUROe 于 2023 年 2 月 2 日由 Membrane Finance、deltaDAO 与 Polygon 合作推出，EUROe 可以在 Gaia-X Web3 生态中使用，此前 Membrane Finance 从 Maki.vc 筹集了 200 万欧元。
+
+
+Fluo
+
+
+
+Fluo 是为 DEX 设计的全链流动性管理和贿赂平台，可帮助用户以自动化和动态的方式在任何链和任何 DEX 上执行做市策略。目前支持以太坊、Arbitrum、Cosmos、zkSync Era 和 BNB Chain，未来会扩展到其它链。其目的是通过加密货币为用户带来做市回报，同时还具有贿赂和 bonding 机制，以允许其他 DEX 和协议激励用户流动性和忠诚度。
+
+
+
+
+
+它列出了 DEX 流动资金池，提供来自各种费用来源的真实、可持续的收益。其 token FLUO 会随不同的用例而变化，包括质押和投票。Fluo 的运作涉及 LP 存入金库、stFLUO 持有者累积价值和投票、DEX 吸引流动性以及交易者从更好的流动性中受益。
+
+
+bemo
+
+
+
+bemo 是 TON 链上的首个流动性质押协议，用户质押 TON 并接收 stTON 作为流动性 token。其合作伙伴包括 DWF Labs，也是对 TON 生态的保证。
+
+
+
+
+
+Bemo 的流动性质押 app v2 即将在 TON 链上推出，使 stTON 的解质押更加方便，Bemo 简化了质押，使其与 DeFi 兼容且价格合理，除了提供流动性、获得额外收益的机会外，Bemo 的门槛也很低，仅需要 1 TON token。
+
+
+Leto
+
+
+
+Leto 是一个专门为稳定币转账设计的非托管加密钱包，用户能够以 USD 支付 Gas，并以手机或链接的形式发送资金到 TRC20、ERC20 或 BEP20。
+
+
+
+该项目提供地址簿、原生货币显示和转账，优势是无需 ETH 或 TRX 等原生 token 做 Gas，于 2022 年第四季度成功通过了 Pessimistic 的审核，下一次审核定于 2023 年第二季度进行。目前白单已开放。
+
+
+欢迎加入律动 BlockBeats 官方社群：
+Telegram 订阅群 
+Telegram 交流群
+
+Twitter 官方账号
+
+
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BinaryX计划推出首个AI驱动的虚拟现实元宇宙游戏]]></title>
         <id>https://www.theblockbeats.info/news/42439</id>
