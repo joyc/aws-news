@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-07T12:13:11.598Z</updated>
+    <updated>2023-06-07T18:09:11.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧易OKX将在翠贝卡电影节期间举办NFT AI创作活动]]></title>
+        <id>https://www.theblockbeats.info/news/42462</id>
+        <link href="https://www.theblockbeats.info/news/42462"/>
+        <updated>2023-06-07T14:43:21.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：欧易 OKX
+
+
+6 月 7 日，领先的 Web3 科技公司欧易 OKX 宣布将于 6 月 7 日至 14 日的翠贝卡电影节期间，在纽约 Spring Studios 举办 DIY NFT 实验活动，参与者可以通过 AI（AIGC）来设计和制作专属 NFT。
+
+
+本次活动将在纽约 Spring Studios 一楼的开放空间进行，参与者可以使用欧易 OKX Web3 钱包的「AI 创作」功能，输入文字描述来创建和定制 NFT，亲身体验欧易 OKX Web3 产品。还可以在现场的欧易 OKX 大使面对面交流，了解更多产品信息。欧易 OKX Web3 钱包的「AI 创作」功能基于 AIGC 技术实现，通过机器学习算法来生成原始的数字艺术作品。参与者设计出来的每个 NFT 作品，都将在被创建并存储在区块链上，可以在活动现场的屏幕上展示，或者在欧易 OKX NFT 市场上架。
+
+
+此外，欧易 OKX 还将在「BMCC 翠贝卡表演艺术中心欧易 OKX 剧院」门口设置自动售货机，支持用户通过欧易 OKX Web3 钱包使用加密资产购买。
+
+
+欧易 OKX 首席营销官 Haider Rafique 表示：「我们很自豪能在翠贝卡电影节上举办欧易 OKX NFT 实验活动，来展示 Web3 和 AI 技术在变革艺术方面的潜力。我们的目标是帮助每个人可以设计和创造自己的 NFT，从而激发创作者探索数字艺术的热情。」
+
+
+欧易 OKX Web3 钱包负责人之一 Nate Zou 表示：「我们很高兴能够在今年的翠贝卡电影节上展示 Web3 技术和欧易 OKX Web3 钱包等创新产品，并与全球创意人士建立联系。我们将继续探索 Web3 创新技术的潜力以及它所带来的更多可能性。
+
+
+Tribeca Enterprises 联合创始人兼首席执行官 Jane Rosenthal 表示：「基于我们合作伙伴欧易 OKX 的远见和支持，翠贝卡电影节正在将 Web3 整合到活动方案中。欧易 OKX 代表的 Web3 世界和翠贝卡电影节代表的艺术世界正在不断融合，我们很高兴能与欧易 OKX 一起探索 Web3 创新的可能性。」
+
+
+欧易 OKX 与翠贝卡电影节的持续合作，旨在通过数字资产、Web3 和元宇宙等创新技术，为创作者、粉丝和人才创造新的机会。今年 1 月，欧易 OKX 推出了 2023 年首个翠贝卡电影节 NFT Pass 卡，为粉丝提供了近距离接触翠贝卡电影节的激动人心的机会，NFT 门票持有者可以获得出席翠贝卡电影节联合创始人简·罗森塔尔和罗伯特·德尼罗联合发起的颁奖典礼、特别观影权、定向邀请鸡尾酒会等多种权益。
+
+
+本文内容仅供参考，不构成亦不得被视为任何产品交易的邀请、要约、招揽或推荐或投资建议；投资需谨慎，数字资产价格具有一定市场风险和价格波动性，投资数字资产存在风险，甚至可能会导致您损失全部投资金额；因此，数字资产交易未必适合所有投资者，您需了解产品的运作模式，自主做出判断和决策。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被骂造假抄袭、拖欠薪资，Stability AI创始人Mostaque回击媒体质疑]]></title>
+        <id>https://www.theblockbeats.info/news/42456</id>
+        <link href="https://www.theblockbeats.info/news/42456"/>
+        <updated>2023-06-07T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[面对福布斯对他的质疑，Mostaque逐条进行了反驳]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜美SEC申请加速冻结CZ及Binance资产；Circle Singapore获新加坡金融监管局主要支付机构牌照]]></title>
+        <id>https://www.theblockbeats.info/news/42459</id>
+        <link href="https://www.theblockbeats.info/news/42459"/>
+        <updated>2023-06-07T10:56:31.000Z</updated>
+        <summary type="html"><![CDATA[6月7日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPOR：DeFi发展的新脉搏]]></title>
         <id>https://www.theblockbeats.info/news/42453</id>
@@ -1231,273 +1285,6 @@ Fusionist
 
 
 6 月 1 日，Binance Labs 宣布于 202…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glassnode：美国实体持有BTC数量同比2022年6月减少11%，亚洲交易时段活跃投资者数量增长约10%]]></title>
-        <id>https://www.theblockbeats.info/news/42352</id>
-        <link href="https://www.theblockbeats.info/news/42352"/>
-        <updated>2023-06-05T05:50:26.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，6 月 5 日，Glassnode 在社交媒体上发布相关数据表示，比特币供应的主导地位在过去两年中发生了较大转变。美国实体现在持有的 BTC 比 2022 年 6 月减少了 11%，而活跃在亚洲交易时间的投资者增加了 9.9%。这与 2020-21 年的牛市周期截然不同。
-
-
-
-
-
-此外，稳定币方面也正在发生重大变化，USDT 的供应量于今年创出新高，而 USDC 和 BUSD 的供应量却跌至多年低点。由于稳定币是不计息的，而美国的监管压力正在增加，该数据或许表明美国资本现在在数字资产上的活跃度有所下降。
-
-
-
-
-
-从交易平台链上流量来看，4 月以来需求明显疲软。稳定币的流入大量抵消了第一季度的 BTC 和 ETH 流入。然而，随着币价回调走低，现在可以看到相对于稳定币来说，BTC 和 ETH 的流入量（假设为卖方）更大。
-
-
-
-
-
-几股暗流在起作用，或许可以表明比特币市场上资本的轮换，以及流动性正在向风险较低的数字资产转移。
-
-
-原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle公链详解: 去中心化组织BitDao的升级之路]]></title>
-        <id>https://www.theblockbeats.info/news/42349</id>
-        <link href="https://www.theblockbeats.info/news/42349"/>
-        <updated>2023-06-05T05:01:06.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Mantle 公链详解: 最大去中心化 Dao 组织--BitDao 的转换升级之路》
-
-原文作者：
-
-Yinan
-
-以南说
-
-
-简介：
-
-
-Mantle 是一个由 BitDAO 孵化的使用 Optimistic rollup、模块化和去中心化数据可用性来实现更高的吞吐量和可扩展性的 L2 扩展解决方案。
-
-
-
-
-
-模块化数据可用性：通过使用 EigenLayer，Mantle 能够提高交易吞吐量，超越传统的 L2。可访问的数据可用性还意味着 Mantle 可以在不影响安全性和减少节点操作开销的情况下提高吞吐量。这减少了验证器的处理要求并促进了去中心化。 
-
-
-多方计算（MPC）：Mantle 使用 MPC 来最小化 L2 执行结果的信任风险。使用阈值签名方案（TSS）技术，专门节点贡献多方签名，提高链下交易执行结果的正确性。使能够缩短提款的挑战期。
-
-
-去中心化的 Sequencer ：Mantle 将去中心化其 Sequencer 以提供安全且无需信任的区块生产。通过轮换一个无需许可的排序器集，Mantle 将减少网络上单点故障或审查的可能性。Mantle 将随着时间的推移，去中心化其 Sequencer 以提供安全且无需信任的区块生产。
-
-
-
-基于以上的特性，Mantle 采用模块化的方案，使用了 @Eigenlayer 作为 DA（数据可用性）方案，避免在 ETH 主网上发布交易数据，这意味着 Mantle 享受 ETH 的安全性，同时避免在 ETH 上交易，提供新的可扩展性可能性。
-
-
-除了使用 Biconomy 提供账户抽象外，Mantle 还解决了 optimistic rollups 面临的两个主要问题。
-
-
-
-
-第二个是当前的 7 天欺诈证明挑战期。通过实施多方计算 (MPC)，Mantle 将挑战期缩短至 1 至 2 天。通过节点将独立验证块…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抄底逃顶指南二：CEX的流入流出情况]]></title>
-        <id>https://www.theblockbeats.info/news/42343</id>
-        <link href="https://www.theblockbeats.info/news/42343"/>
-        <updated>2023-06-05T03:06:44.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-抄底逃顶指标 2：cex 的流入流出情况
-
-》
-原文作者：日月小楚
-
-
-当某个代币大量流入中心化交易平台，大概率是卖出行为，提现则相反。很多时候有着巨大的威力，逻辑和原理看着也简单，但是必须注意：
-
-
-1）该数据最需要结合市场的大环境以及币的涨跌。如果单单看到大额流入，就觉得会跌，这样的错误率比较高。
-
-
-2）特定情况下的使用，威力比较大。比如某个币已经很高涨幅，市场 fomo 情绪高，但是交易平台出现持续的大额流入，那么顶部的概率非常大了。
-
-
-3）要提防有时候主力故意放出烟雾弹。例如一个币已经跌的比较多，在底部震荡，这时候出现大量流入交易平台
-
-，有可能是庄家拉盘前，提前冲入交易平台
-
-。
-
-
-1、cex 的交易量占比分析
-
-
-如果要想使用该指标，cex 的交易量的占比是前提。如果一个币的交易都在链上，那研究中心化交易平台的数据就没有意义。从一般来说
-
-
-1）比较新的币，往往 dex 上的交易占比比较多
-
-
-2）上了币安后，交易量基本上币安占很大比例
-
-
-3）在不知道的情况，可以在 coinmarketcap 上查看交易占比，
-
-
-
-
-
-
-比如说 PEPE，在上币安之前，uniswap 是最主要的交易量。但是上币安后，主要在币安。
-
-
-4）如果没有币安，也需要小心一些二线交易平台
-
-，会机器人刷量，造成占比「假」高。
-
-
-2、案例分析 
-
-
-2.1 ssv
-
-
-
-
-
-
-SSV 在今年经历过一次暴涨，在红色的数字框
-
-
-1）
-
-交易平台大量提现，对应币价在底部，震荡一段时间后，开启了这次的暴涨
-
-
-2）
-
-交易平台大量充值，ssv 从 21 刀调整到 16 刀
-
-
-3）
-
-交易平台大量充值，ssv33 刀调整到 27 刀。
-
-
-4）
-
-交易平台大量充值，币价开始一路下跌
-
-
-为何红框 2 只是调整呢，所以要结合大环境。当时 btc 开启上涨行情，山寨都在轮流爆拉。然后 LSD 又是热门赛道。
-
-
-而红框 3 已经到达顶部区域了，简单来看涨幅已经比较大。说实话，当时是没办法确定。ssv 在最高点没有大量流入交易平台
-
-，说明庄家并不在最高点冲入（因为这样无疑是名牌告诉市场）但是经历了 2）3）大量充值后，明显进入了顶部区域了。
-
-
-如果在顶部没有卖出。那么在红框 4，40 刀左右肯定是要离场了。因为再一次出现大量流入交易平台
-
-，并且时间已经临近上海升级，利好马上兑现。并且当时其他山寨也都是砸下跌。
-
-
-2.2 magic
-
-
-
-
-
-
-上面的 Magic 冲入交易平台的情况，其中红框 1 3 4，对于着绿色币价的下跌。
-
-
-红框 2 是特殊情况，对于着 magic 一次巨量的解锁。而当时的其它情况是，整体市场行情很好，山寨都在暴涨。Magic 没有很大涨幅。所以这次并没有出现大跌。
-
-
-2.3 PEPE
-
-
-
-
-
-
-上面是 watechers 的交易平台流入流出情况，绿色代表流入，绿色柱子高于红色，代表净流入
-
-
-PEPE 的见顶信号也非常明显，在 5 月 6 日达到币价达到最高点。而之前几天，基本都是净流入。并且随后的几天，大部分都是净流入。所以可以判断 PEPE 的币价到顶，并不是深度调整。币价之后也是一路下跌。
-
-
-2.4 STG
-
-
-
-
-
-
-对币安 14 的代币余额发现，在一路下跌中，
-
-交易平台的 STG 余额是在一路下跌的，说明在 STG 的下跌中，有资金在不断的买入。直到 12 月 17 日，币安钱包内 STG 达到最低，同期 STG 的币价也是局部最低的，并且经过几天调整后，开始了上涨。
-
-
-3、数据来源
-
-
-最后，给大家推荐几个可以查看交易平台流入流出情况的网站。
-
-
-1、watchers
-
-
-https://watchers.pro/user/referral?referralcode=fLjhuIHL
-
-
-查看某个币的流入流出。免费版可以使用。现在用钱包登录+推特认证后，可以获得 14 天的会员版。建议大家尝试下其它功能。
-
-
-2、glassnode
-
-
-glassnode.com  必须是付费会员。而且代币大部分是老币。已经是会员的可以用用，新人不建议付费使用。
-
-
-3、区块链浏览器
-
-
-https://blockscan.com/
-
-
-优点是：各个公链都支持，并且是免费。
-
-
-缺点是：只能看一个个单独的地址（例如币安的钱包 14 等）。
-
-
-4、Jiedata
-
-
-https://jiedata.com/
-
-
-Jiedata 是从交易平台的角度查看流入流出，并且可以用来设置报警提醒。现在 jiedata 处于免费阶段。
-
-
-
-
-
-原文链接]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
