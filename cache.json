@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42492",
+          "author": null,
+          "description": "CZ：Binance仍将坚持高道德标准，始终不遗余力地保护用户",
+          "link": "https://www.theblockbeats.info/news/42492",
+          "publishedOn": "2023-06-08T16:06:40.000Z",
+          "wordCount": null,
+          "title": "CZ全员信：不要把生命浪费在你不喜欢的工作上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42470",
+          "author": null,
+          "description": "通常，在每种创新叙事的高峰期间都会推动ETH价格的上涨。",
+          "link": "https://www.theblockbeats.info/news/42470",
+          "publishedOn": "2023-06-08T12:00:01.000Z",
+          "wordCount": null,
+          "title": "以太坊生态的四种周期叙事变化",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42489",
           "author": null,
           "description": "精选要闻：\n1. RTFKT 与好莱坞经纪公司 CAA 签约，拟将 IP 拓展到电影和电视领域\n2. 阿里巴巴旗下全球速卖通将于 6 月 25 日发行购物主题 NFT，限量 5555 枚\n3. 休眠 10 年的 BTC 地址于今日被激活，将全部 1432 枚 BTC 转移至新地址\n4. 彭博社：韩国检察官试图冻结瑞士银行持有的与 Do Kwon 相关的 1300 万美元资金\n5. CoinGape：Do Kwon 被指与黑山前财政部长存在政治联系\n\n\n\n\n项目动态\n\n\n\n\nCoingraph News：没有任何证据表明「美 SEC 冻结 Binance.US 相关资产申请获批」\n\n\n据 Coingraph News 报道，昨日其发布的「美 SEC 冻结 Binance.US 相关资产申请获得法院批准」消息没有得到证实。\n\n\nCoinbase CEO：Coinbase 照常运行，不存在客户挤兑风险，不会放弃质押业务\n\n\nCoinbase CEO Brian Armstrong 表示，目前 Coinbase 照常运行。Coinbase 不存在客户挤兑的风险。质押服务占净收入的 3％，Coinbase 不会放弃这项业务。\n\n此外，Brian Armstrong 表示，Coinbase 曾向 SEC 寻求更多指导，但未获回应。国会和白宫的几位立法者都已经认识到加密技术的重要性。美国国会目前对加密货币更加支持。\n\n\n\n\nGary Gensler 曾于任教麻省理工期间将其学生撰写的 BNB 报告发给 CZ\n\n\nManta Network 联合创始人兼首席运营官 Kenny 在社交媒体上发文表示，其曾在 Gary Gensler 于麻省理工学院斯隆管理学院加密金融与区块链实验室任教时担任助教职务，作为 Gensler 班上的学生，Gary Gensler 曾将他写的关于 BNB 的报告发…",
@@ -273,16 +293,6 @@
           "publishedOn": "2023-06-06T06:08:03.000Z",
           "wordCount": null,
           "title": "Ordinals新玩法：「诅咒铭文」会是比特币 NFT 的下一个热点吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42396",
-          "author": null,
-          "description": "根据以往历史，加密项目遭SEC调查后难逃「以钱换命」的结果。",
-          "link": "https://www.theblockbeats.info/news/42396",
-          "publishedOn": "2023-06-06T02:10:28.000Z",
-          "wordCount": null,
-          "title": "Binance会和SEC和解吗？看看历史上被SEC罚过的知名项目们",
           "imageUrl": null
         }
       ]

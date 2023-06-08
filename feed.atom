@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-08T12:12:18.523Z</updated>
+    <updated>2023-06-08T18:08:12.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CZ全员信：不要把生命浪费在你不喜欢的工作上]]></title>
+        <id>https://www.theblockbeats.info/news/42492</id>
+        <link href="https://www.theblockbeats.info/news/42492"/>
+        <updated>2023-06-08T16:06:40.000Z</updated>
+        <summary type="html"><![CDATA[CZ：Binance仍将坚持高道德标准，始终不遗余力地保护用户]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊生态的四种周期叙事变化]]></title>
+        <id>https://www.theblockbeats.info/news/42470</id>
+        <link href="https://www.theblockbeats.info/news/42470"/>
+        <updated>2023-06-08T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[通常，在每种创新叙事的高峰期间都会推动ETH价格的上涨。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜RTFKT与好莱坞经纪公司CAA签约；阿里旗下全球速卖通将发行购物主题NFT]]></title>
         <id>https://www.theblockbeats.info/news/42489</id>
@@ -1232,16 +1252,6 @@ OP_66 类型「诅咒铭文」的「Unbound 未绑定」状态意味着我失去
 
 
 造成该错误出现的原因是这些「诅咒铭文…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance会和SEC和解吗？看看历史上被SEC罚过的知名项目们]]></title>
-        <id>https://www.theblockbeats.info/news/42396</id>
-        <link href="https://www.theblockbeats.info/news/42396"/>
-        <updated>2023-06-06T02:10:28.000Z</updated>
-        <summary type="html"><![CDATA[根据以往历史，加密项目遭SEC调查后难逃「以钱换命」的结果。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
