@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42465",
+          "author": null,
+          "description": "站在全行业的角度出发，无论事态本身会朝着哪个方向发展，围绕着监管所产生的矛盾，必然会推动监管本身的完善。",
+          "link": "https://www.theblockbeats.info/news/42465",
+          "publishedOn": "2023-06-08T04:08:46.000Z",
+          "wordCount": null,
+          "title": "实际上，是Coinbase先对SEC提起诉讼",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42462",
           "author": null,
           "description": "原文来源：欧易 OKX\n\n\n6 月 7 日，领先的 Web3 科技公司欧易 OKX 宣布将于 6 月 7 日至 14 日的翠贝卡电影节期间，在纽约 Spring Studios 举办 DIY NFT 实验活动，参与者可以通过 AI（AIGC）来设计和制作专属 NFT。\n\n\n本次活动将在纽约 Spring Studios 一楼的开放空间进行，参与者可以使用欧易 OKX Web3 钱包的「AI 创作」功能，输入文字描述来创建和定制 NFT，亲身体验欧易 OKX Web3 产品。还可以在现场的欧易 OKX 大使面对面交流，了解更多产品信息。欧易 OKX Web3 钱包的「AI 创作」功能基于 AIGC 技术实现，通过机器学习算法来生成原始的数字艺术作品。参与者设计出来的每个 NFT 作品，都将在被创建并存储在区块链上，可以在活动现场的屏幕上展示，或者在欧易 OKX NFT 市场上架。\n\n\n此外，欧易 OKX 还将在「BMCC 翠贝卡表演艺术中心欧易 OKX 剧院」门口设置自动售货机，支持用户通过欧易 OKX Web3 钱包使用加密资产购买。\n\n\n欧易 OKX 首席营销官 Haider Rafique 表示：「我们很自豪能在翠贝卡电影节上举办欧易 OKX NFT 实验活动，来展示 Web3 和 AI 技术在变革艺术方面的潜力。我们的目标是帮助每个人可以设计和创造自己的 NFT，从而激发创作者探索数字艺术的热情。」\n\n\n欧易 OKX Web3 钱包负责人之一 Nate Zou 表示：「我们很高兴能够在今年的翠贝卡电影节上展示 Web3 技术和欧易 OKX Web3 钱包等创新产品，并与全球创意人士建立联系。我们将继续探索 Web3 创新技术的潜力以及它所带来的更多可能性。\n\n\nTribeca Enterprises 联合创始人兼首席执行官 Jane Rosenthal 表示：「基于我们合作伙伴欧易 OKX 的远见和支持，翠贝卡电影节正在将 Web3 整合到活动方案中。欧易 OKX 代表的 Web3 世界和翠贝卡电影节代表的艺术世界正在不断融合，我们很高兴能与欧易 OKX 一起探索 Web3 创新的可能性。」\n\n\n欧易 OKX 与翠贝卡电影节的持续合作，旨在通过数字资产、Web3 和元宇宙等创新技术，为创作者、粉丝和人才创造新的机会。今年 1 月，欧易 OKX 推出了 2023 年首个翠贝卡电影节 NFT Pass 卡，为粉丝提供了近距离接触翠贝卡电影节的激动人心的机会，NFT 门票持有者可以获得出席翠贝卡电影节联合创始人简·罗森塔尔和罗伯特·德尼罗联合发起的颁奖典礼、特别观影权、定向邀请鸡尾酒会等多种权益。\n\n\n本文内容仅供参考，不构成亦不得被视为任何产品交易的邀请、要约、招揽或推荐或投资建议；投资需谨慎，数字资产价格具有一定市场风险和价格波动性，投资数字资产存在风险，甚至可能会导致您损失全部投资金额；因此，数字资产交易未必适合所有投资者，您需了解产品的运作模式，自主做出判断和决策。",
@@ -223,46 +233,6 @@
           "publishedOn": "2023-06-05T19:12:10.000Z",
           "wordCount": null,
           "title": "BlockWorks：Gary Gensler是美国的耻辱，他必须下台了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42390",
-          "author": null,
-          "description": "在 SEC 针对 Binance 的诉讼文件中，一家神秘的做市商 Sigma Chain 浮出水面。SEC 指控 Binance US 大部分做市行为都通过与 Sigma Chain 相关的众多账户进行。Sigma Chain 是 Binance 平台的活跃交易员，并自称为「Binance 的主要做市商」。\n\n\n\n早在一年前，《华尔街日报》就有报道称，SEC 正在调查与 Binance 创始人 CZ 关联的两家交易公司 Sigma Chain、Merit Peak 和 Binance US 平台之间的关系。\n\n\n\nSigma Chain 是一家在瑞士注册的加密资产交易公司。CZ 是 Sigma Chain 的实际所有者，多名 Binance 的员工负责其运营。其中，Binance 的后勤管理人员在担任 Sigma Chain 总裁的同时，还具有对 BAM 交易公司（Binance US 实际运营商）银行账户的签字权。\n\n\n\n在 Binance US 平台启动时，CZ 指示 Sigma Chain 成为其首批做市商之一。Sigma Chain 拥有数十个用户账户，通过这些账户进行做市以提高 Binance US 平台的交易量。此外，自从 Binance US 平台开始向客户提供场外交易（「OTC」）以及其转换交易和一键买卖（「OCBS」）服务以来，Sigma Chain 一直作为 Binance US 平台客户的一方交易对手，有时甚至是唯一的交易对手。\n\n\n\nBinance US 实际运营商 BAM 交易和管理公司都知道 Sigma Chain 拥有数十个用户账户，并且是 Binance US 平台的活跃交易者。例如，在 2020 年 6 月 23 日讨论 Binance US 平台做市商交易量下降时，BAM 首席执行官要求 BAM 交易公司的销售总监「提取 (Sigma Chain) 的数据，让他们也担负责任……他们也应该与我们保持一致——我们可以要求他们提供更多的交易量，尽管他们此前已占据了我们平台 50% 的交易量。」2021 年 1 月 6 日，BAM 交易公司的销售总监在给 BAM 首席执行官和其他 BAM 员工发送的信息中列出了 20 个账号，声称「这些都是 Sigma Chain」。\n\n\n据统计，Binance US 平台上架的至少 65 种新的加密货币，Sigma Chain 均参与了做市。仅在 2022 年 1 月 1 日至 2022 年 6 月 23 日期间，Sigma Chain 账户就对 51 个新上市的加密资产中的 48 个进行了做市。",
-          "link": "https://www.theblockbeats.info/news/42390",
-          "publishedOn": "2023-06-05T17:29:20.000Z",
-          "wordCount": null,
-          "title": "Sigma Chain：CZ自己的做市商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42387",
-          "author": null,
-          "description": "原文编译：BlockBeats\n\n\n6 月 6 日凌晨，Binance 针对 SEC 今日对其提出的一系列指控发布回应，并在文中强调 Binance 平台资产的安全性，以及对 SEC 本次「强硬监管」的不满，直指 SEC 本次行动只为在和其他监管机构的拉锯战中抢先占据优势，而并非旨在保护投资者，Binance 将对本次事件中的一切不实指控展开抗辩，BlockBeats 将回应全文整理、编译如下：\n\n\n我们对美国证券交易委员会（SEC）今天选择对 Binance 提起诉讼并寻求紧急救济等措施表示失望。从一开始，Binance 积极配合 SEC 的调查，努力回答其诉求，解决他们的疑问。最近，Binance 进行了广泛的善意会谈，以达成谈判解决方案，配合他们的调查。尽管 Binance 做出了努力，但 SEC 放弃了该程序，而是选择单方面行动并提起诉讼。我们对这种选择感到失望。\n\n\n\n\n虽然我们认真对待 SEC 的指控，但 Binance 不应成为 SEC 执法行动的对象，更不用说在紧急情况下了。我们力求全力捍卫 Binance 平台。不幸的是，美国 SEC 拒绝与 Binance 进行富有成效的接触，而这只是 SEC 被误导和下意识地拒绝为数字资产行业提供急需的清晰度和指导的另一个例子。\n\n\n今天的行动是一系列例子中的又一个，与面临类似诉讼的其他加密项目一样，SEC 决定使用执法和诉讼的生硬武器进行监管，而不是采取一个更深思熟虑、细致入微的方法。单方面将某些 Token 和服务标记为证券——即使是其他美国当局已主张管辖权的 Token 和服务——只会使这些问题更加复杂。\n\n\n也许最令人惊讶的是，SEC 的行动削弱了美国作为全球金融创新和领导力中心的地位。在世界大部分地区，数字资产法基本上仍未制定，执法监管并不是最好的前进道路。有效的监管框架需要合作、透明和深思熟虑的政策参与——SEC 已经放弃了这条道路。\n\n\n\n\n首先，需要明确的是：关于 Binance.US 平台上用户资产有过风险的任何指控都是错误的，在考虑到监管部门已经有足够的时间进行调查的情况下，这些指控没有任何依据。所有 Binance 和 Binance 关联平台（包括 Binance.US）上的用户资产都是安全的，我们将坚决抵制任何相反的指控。相反，美国证券交易委员会（SEC）在这里的行动似乎是为了抢占其他监管机构的管辖范围，投资者似乎并非 SEC 的优先考虑对象。由于我们的规模和全球知名度，Binance 现在成为了美国监管机构争夺战的中间目标。\n\n\n根据这些发展情况，美国证券交易委员会（SEC）在此的目标似乎从未是保护投资者；如果真的是这样，工作人员本应在事实和我们努力展示 Binance.US 平台的安全性方面与我们深入交流。相反，SEC 的真正意图似乎是成为新闻头条。\n\n我们将继续与美国和全球的监管者和政策制定者合作，因为这是正确的做法。Binance 始终致力于积极参与，以确保下一代加密货币监管在促进创新的同时，实施并确保重要的消费者保护。由于 Binance 不是美国交易平台，SEC 的行动范围有限。尽管如此，我们仍与美国的数字资产市场参与者一道，反对 SEC 的最新越权行为，并准备依法全力抗争。\n\n\n\n\n我们将与行业合作伙伴共同努力，捍卫这一重要技术，抵制误导性的诉讼。同时，我们将不懈努力为用户提供一个安全可信赖的平台，秉承我们的核心价值观：推进货币自由。\n\n\n原文链接",
-          "link": "https://www.theblockbeats.info/news/42387",
-          "publishedOn": "2023-06-05T16:56:29.000Z",
-          "wordCount": null,
-          "title": "Binance回应SEC指控全文：平台资金安全，SEC的强硬监管将使事态更加复杂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42384",
-          "author": null,
-          "description": "北京时间 6 月 5 日晚，加密交易平台 Binance 控股有限公司（以下简称「Binance」）及其 CEO 赵长鹏（以下简称「CZ」）因涉嫌违反证券交易规则被美国证券交易委员会（以下简称「SEC」或「委员会」）起诉。这是继 3 月 28 日，Binance 及其 CEO CZ 因涉嫌违反交易和衍生品规则而被美国商品期货交易委员会 CFTC 起诉后，再一次被美国监管层起诉，并引发加密货币市场的剧烈波动。\n\n\nSEC 对 Binance 控股有限公司、BAM 交易服务公司（以下简称「BAM 交易」）、BAM 管理美国控股公司（以下简称「BAM 管理」）和 CZ 的指控，称其违反了联邦证券法并无视投资者保护。被告被指控非法向美国投资者推销加密资产证券，并通过未经注册的在线交易平台在Binance.com和Binance.US上进行多次未经注册的加密资产证券和其他投资计划的发行和销售。被告据称通过这种方式获得了数十亿美元的利润，同时将投资者的资产置于重大风险之中。\n\n\n以下为文件 Summary：\n\n\n本案件源于被告「Binance 控股公司等」公然无视联邦证券法以及该法律对投资者和市场做出的保护，在此期间，被告通过非法手段赚取了数十亿美元，将投资者的资产置于重大风险之内。\n\n\n被告非法诱使美国投资者通过 Binance.com 和 Binance.US 交易平台上的未注册交易平台买卖和交易加密资产证券。被告参与了多项未注册的加密资产证券要约和销售以及其他投资计划。被告 BAM Trading 和 BAM Management 欺骗了股权、散户和机构投资者，声称他们对 Binance.US 平台上的操纵性交易进行了监视和控制，而事实上这些监管和控制几乎不存在。\n\n\n首先，在 CZ 的领导和控制下，Binance 和 BAM 交易在 Binance 平台上（非法）提供了三个基本…",
-          "link": "https://www.theblockbeats.info/news/42384",
-          "publishedOn": "2023-06-05T16:32:21.000Z",
-          "wordCount": null,
-          "title": "SEC起诉Binance文件披露，速览原文关键细节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42360",
-          "author": null,
-          "description": "为什么美联储没有开始降息，为什么美国没有开始进行收益率曲线控制。",
-          "link": "https://www.theblockbeats.info/news/42360",
-          "publishedOn": "2023-06-05T13:00:01.000Z",
-          "wordCount": null,
-          "title": "Arthur Hayes：别灰心，第四季度牛市即将到来",
           "imageUrl": null
         }
       ]
