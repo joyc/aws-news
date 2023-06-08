@@ -2,10 +2,335 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-08T06:09:24.673Z</updated>
+    <updated>2023-06-08T12:12:18.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜RTFKT与好莱坞经纪公司CAA签约；阿里旗下全球速卖通将发行购物主题NFT]]></title>
+        <id>https://www.theblockbeats.info/news/42489</id>
+        <link href="https://www.theblockbeats.info/news/42489"/>
+        <updated>2023-06-08T11:14:03.000Z</updated>
+        <summary type="html"><![CDATA[精选要闻：
+1. RTFKT 与好莱坞经纪公司 CAA 签约，拟将 IP 拓展到电影和电视领域
+2. 阿里巴巴旗下全球速卖通将于 6 月 25 日发行购物主题 NFT，限量 5555 枚
+3. 休眠 10 年的 BTC 地址于今日被激活，将全部 1432 枚 BTC 转移至新地址
+4. 彭博社：韩国检察官试图冻结瑞士银行持有的与 Do Kwon 相关的 1300 万美元资金
+5. CoinGape：Do Kwon 被指与黑山前财政部长存在政治联系
+
+
+
+
+项目动态
+
+
+
+
+Coingraph News：没有任何证据表明「美 SEC 冻结 Binance.US 相关资产申请获批」
+
+
+据 Coingraph News 报道，昨日其发布的「美 SEC 冻结 Binance.US 相关资产申请获得法院批准」消息没有得到证实。
+
+
+Coinbase CEO：Coinbase 照常运行，不存在客户挤兑风险，不会放弃质押业务
+
+
+Coinbase CEO Brian Armstrong 表示，目前 Coinbase 照常运行。Coinbase 不存在客户挤兑的风险。质押服务占净收入的 3％，Coinbase 不会放弃这项业务。
+
+此外，Brian Armstrong 表示，Coinbase 曾向 SEC 寻求更多指导，但未获回应。国会和白宫的几位立法者都已经认识到加密技术的重要性。美国国会目前对加密货币更加支持。
+
+
+
+
+Gary Gensler 曾于任教麻省理工期间将其学生撰写的 BNB 报告发给 CZ
+
+
+Manta Network 联合创始人兼首席运营官 Kenny 在社交媒体上发文表示，其曾在 Gary Gensler 于麻省理工学院斯隆管理学院加密金融与区块链实验室任教时担任助教职务，作为 Gensler 班上的学生，Gary Gensler 曾将他写的关于 BNB 的报告发…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点Polychain Capital今年投资的11个项目]]></title>
+        <id>https://www.theblockbeats.info/news/42472</id>
+        <link href="https://www.theblockbeats.info/news/42472"/>
+        <updated>2023-06-08T09:03:21.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：dLux
+原文编译：深潮 TechFlow
+
+
+Polychain Capital 是一家能够发现潜力的风投公司：
+
+
+• 2017 年投资了 MakerDAO；
+
+
+• 2017 年投资了 dydx ；
+
+
+• 2018 年投资了 Starkware。
+
+
+想要了解他们今年的 11 项投资吗？
+
+
+
+
+
+该公司由 Olaf Carlson-Wee 于 2016 年创立，他曾是 Coinbase 的风险主管。正如您所看到的，Polychain Capital 在过去一年非常活跃。
+
+
+
+
+
+Polychain Capital 的投资者包括一些重量级公司：
+
+
+• a16z（管理资产 35 亿美元）；
+
+
+• Sequoia（管理资产 85 亿美元）；
+
+
+• Usv（管理资产 10 亿美元）；
+
+
+• Foundersfund（管理资产 110 亿美元）。
+
+
+自 2017 年首次投资以来，他们总共进行了 85 次投资。种子轮和 A 轮投资占据了其交易的大部分份额（达 67% ）。至于板块，他们通常选择 DeFi、基础设施和第一层区块链项目（占 65% ）。接下来让我们看看他们今年的投资。
+
+
+
+
+
+Quasar 是一个去中心化的应用链，支持 Cosmos 生态系统的跨链资产管理。Quasar 通用资产管理金库，可根据不同需求进行定制。
+
+
+
+
+
+Nil 是一个旨在促进密码学和数据库研究和开发的项目。他们的主要产品是 Proof Market，能够使 zkLLVM 协同工作，为开发人员简化 zk 实现。
+
+
+SPACE ID 正在构建一站式通用命名服务网络，其基础设施提供多链命名服务，使任何人都能创建 Web3 身份。
+
+
+Cysic 是一家 zk 硬件初创公司，旨在为 zk 证明协议提供物理需求。
+
+
+Polyhedra Network 正在构建由 zk 技术提供支持的基础设施。他们设计了 zkBridge（用于 L1 和 L2 互操作性的无信任基础设施）以及 zkDID（一种基于 SBT 的可扩展且可互操作的 DID 解决方案）。
+
+
+Scroll 是一个基于 zkEVM 的 zkRollup，建立在 ETH 之上，允许其他链上应用程序之间的兼容。Scroll 以 18 亿美元的估值筹集了 5000 万美元。
+
+
+Cubist 是一家致力于提供以下两大优势的项目：
+
+
+一流的安全性，可以提高开发人员的生产力；
+
+
+降低门槛的开发环境，使开发人员免于被开发环境锁定。
+
+
+EigenLayer 是在以太坊上构建的协议，引入了再质押机制。这样可以通过提供汇集的安全性，使 ETH 在共识层上得到重复利用，从而降低资本成本并显著提高信任度。
+
+
+Berachain 是一个专注于 DeFi 的 EVM 兼容 L1，采用流动性共识证明算法，并基于 Cosmos 构建。他们的三代币模型很新颖，在实践中将会非常有趣。
+
+
+
+
+
+Thetanuts Finance 旨在为 DAO 提供资金管理，并通过简化交易流程来帮助散户交易者从其资产中获得有机收益。
+
+
+
+
+
+Webb 已经构建了一个由 zk 技术驱动的隐私协议生态系统的基础设施，适用于多链世界。
+
+
+
+
+
+你认为哪个项目会取得最好的表现呢？
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameFi爆发前夜，链游「部落」竞逐进行时]]></title>
+        <id>https://www.theblockbeats.info/news/42477</id>
+        <link href="https://www.theblockbeats.info/news/42477"/>
+        <updated>2023-06-08T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[当下 Gamefi 赛道整体现状
+
+
+
+2022 年的 GameFi 赛道，总体表现可以概括为高开低走。除在 4 月份跑赢大盘外，GameFi 市值基本保持与加密货币市场同进同退的趋势，且下跌幅度更大，进入了深熊的状态。
+
+
+市场的萎靡不振，直观表现在项目的生命周期短暂以及用户的快速流失。从 2021 年奠基的「Play to Earn」模式到 2022 年破圈的「Move to Earn」、「X to Earn」模式，「新瓶装旧酒」的游戏模式仍以花样繁多的庞氏模型和诱人的回报为噱头，为这个赛道吸纳了大批新用户，但滥用的庞氏模型给项目方和玩家错误的指引：
+
+
+• 对于项目方来说，给 DeFi 套上 Game 的外壳，辅以复杂的代币经济学伪装其不可持续的本质，而一旦玩家无法获利而流失，所有的 GameFi 都将陷入难以逃离的死亡螺旋，鲜少有项目能够保持活跃状态超三个月。
+
+
+• 对于用户来说，实际收益成为他们最重要的考虑因素，无论是游戏信仰还是社区文化都被回本周期所取代。玩家在游戏体验方面作出妥协，导致项目方再次陷入对经济模式方案的修正中无法自拔。
+
+
+但残酷的现实背后，也蕴藏转机。GameFi 赛道仍是 2022 年加密行业吸纳融资最多的领域之一，融资额同比增长近一倍。在 GameFi 发展过程中，链游生态们扮演了重要的角色，有引领上一轮 GameFi 牛市的 Gala Games 推陈出新，有因孵化了爆款链游 The Beacon 的 TreasureDAO 打响了品牌知名度，也有背靠币安的 Block Ape Scissors 想要实现 BSC 链游圈的「大重塑」。在新旧交替之间，市场可能已经来到底部，它们在历经熊市的沉淀后或将在下一轮牛市中成为 GameFi 赛道爆发的动力。
+
+
+Gala Games: GameFi 领域先行者，「链游的 Steam」到哪一步了？
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美债危机与通货膨胀的解决方案]]></title>
+        <id>https://www.theblockbeats.info/news/42483</id>
+        <link href="https://www.theblockbeats.info/news/42483"/>
+        <updated>2023-06-08T08:58:57.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：SanTi Li & 纳西妲
+
+
+
+  一、通货膨胀的危害：
+
+
+
+
+
+
+通货膨胀的危害：
+
+
+物价上涨：通货膨胀会导致物价上涨，这会增加生活成本，降低人们的购买力。
+
+
+经济不稳定：通货膨胀会导致经济不稳定，增加投资风险，可能导致企业盈利下降。
+
+
+社会贫富差距扩大：通货膨胀可能会加剧社会贫富差距，导致社会不公和社会动荡。
+
+
+二、通货紧缩的危害：
+
+通货紧缩的危害：
+
+
+物价下跌：通货紧缩会导致物价下跌，这可能会导致消费者延迟消费，企业盈利下降。
+
+
+经济萎缩：通货紧缩可能会导致经济萎缩，失业率上升，经济增长放缓。
+
+
+债务负担加重：通货紧缩可能会导致债务负担加重，偿债困难，破产风险增加。
+
+
+如果不断提高债务上限，不断放新债等于加剧刺激了通货膨胀危机，而持续的加息，使利率不断升高，又会引发通货紧缩与债务违约，特别是银行与政府债务风险的同时出现。
+
+
+三、如何同时解决通货膨胀与债务危机死循环呢？
+
+
+
+逐步调整债务上限：由于美国给自己设置的债务上限不是特别大幅度，所以还有逐步调整的空间。如果突然大幅度提高债务上限，可能会导致国际市场对美国财政状况的担忧进一步加剧，从而加剧通货膨胀的忧虑。因此，美国可能需要逐步、稳步地提高债务上限，以避免市场恐慌。逐步
+
+
+债务重组：延长债务的期限，降低债务的利率，新债还旧债（再融资，此法虽能暂缓危机但无法解决危机），部分减免债务，债务重置，债务换股等手段。债务重组虽然能帮助快速降低债务，但往往其也发生在相对较为危机的时候，尤其涉及到国债的时候还会牵扯国家的信誉与市场风险。
+
+
+所以这个手段往往发生在危机前后，如：债务违约/债务负担过重/经济危机/改革发生之时，国家收入下降，用债务重组来缓解经济压力，释放新空间。
+
+
+适度的货币政策：中央银行可以通过调整利率和货币供应来控制通货膨胀，美联储需要在控制通货膨胀和避免经济过冷之间找到…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC打击Crypto，最终会是什么结局？]]></title>
+        <id>https://www.theblockbeats.info/news/42476</id>
+        <link href="https://www.theblockbeats.info/news/42476"/>
+        <updated>2023-06-08T07:52:08.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《The SEC Comes for Crypto》
+原文来源：Bloomberg
+原文作者：Matt Levine
+原文编译：Kxp，BlockBeats
+
+
+
+
+SEC 诉 Crypto
+
+
+我在三月份写道， 「一条不会出错的经验法则是，所有的 Crypto 交易平台都在犯罪，如果你幸运的话，你的交易平台只是在犯一些程序性的罪」，就像这样：
+
+
+1. 你的交易平台在美国是否运营非法证券交易平台？至少 SEC 的观点是，美国的每个 Crypto 交易平台都是非法的。你可能持不同观点——许多 Crypto 交易平台的高管持不同观点，我们将在下文中讨论更多争论——但实际上，如果你在交易 Crypto，你就不能对严格遵守美国证券法太过胆怯。 
+
+
+2. 你的交易平台是否在窃取所有客户的资金？有些是，还有些不是。如果你是客户，这是你最应该关心的事情。
+
+
+这些事情并不是特别相关，毕竟每个 Crypto 交易平台都在违反美国证券法。「我不应该把我的钱交给那些人，因为他们违反了美国法律。」这确实是一个合理的立场，可以让你免于遭受许多 Crypto 灾难，但这也会让你完全无法交易 Crypto。
+
+
+昨天，SEC 起诉了全球最大的 Crypto 交易平台 Binance 及其创始人赵长鹏，指控其运营非法证券交易平台。今天，SEC 起诉了美国最大的 Crypto 交易平台 Coinbase Inc.，指控其运营非法证券交易平台。
+
+
+Crypto 交易平台与 SEC 的冲突主要有两种情况。一种较好的情况是，你因为运营非法证券交易平台而陷入麻烦。今年四月，SEC 起诉了 Bittrex Inc.，指控其涉嫌运营非法证券交易平台；对 Bittrex 案件的任何合理解读都表明，类似的案件将针对 Coinbase 和 Binance 展开。在 SEC 看来，光是作为一个 Crypto …]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度解读四大新型去中心化算法稳定币：Dai、GHO、crvUSD和sUSD]]></title>
+        <id>https://www.theblockbeats.info/news/42468</id>
+        <link href="https://www.theblockbeats.info/news/42468"/>
+        <updated>2023-06-08T07:03:05.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：Chole
+原文来源：链茶馆
+
+
+传统金融圈对于 DeFi 的看法离不开「游子终将返家」，他们认为 Crypto 的结局离不开被传统金融收编，因为只要解决不了链上走向应用落地间的瓶颈，就永远会有被收购、被监管的结局。
+
+
+若以隔绝中心化风险来分类，稳定币则可分为中心化稳定币与去中心化稳定币，这也是在中心化监管的威胁步步逼近的时代，是否去中心化是稳定币重要的属性之一。再者，去中心化解决了，还有稳定币所谓的「稳定」概念。真正要走向稳定币终局，势必得创造自己的需求场景，不仅是一般等价货币，甚至创造出独有的经济活动才可真正体现去中心化稳定币的价值。
+
+
+下文将细节说明今日在市场上四大极具发展潜力的去中心化代币，MakerDAO Endgame Plan、AAVE GHO、CRV crvUSD 与 SNX V3 sUSD 的特点与最新发展。
+
+
+一、MakerDAO 终局计画
+
+
+（一）USDC 和 RWA ( 现实世界资产 ) 带给 MakerDAO 潜在风险
+
+
+MakerDAO 创始人 Rune Christensen 在 2021 年特别提到 USDC（美元稳定币）完全是 DAI 稳定币最大的潜在风险之一。DAI 本质上跟 USDT/USDC 完全不同，前者为去中心化发行的，主要抵押品是以太币，而后者 USDT/USDC 这些稳定币则与目前监管制度有着相当大的摩擦，进而对 DAI 来说是相当大的风险。
+
+
+
+
+
+且除了稳定币风险之外，Maker 在过去几年不断增加现实资产相关的抵押品，例如各国债券抑或是公司债券等，这让 Maker 越来越依赖其他现实资产、跨链桥资产和其可能受到监管机构和执法部门压力的资产。也造成用户皆批评 Maker 让自己处在站不住脚的情况，因为这些资产从根本上破坏了 Maker 成为「抗审查稳定币」的目标。
+
+
+Rune 希望，当他宣布「Cle…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实际上，是Coinbase先对SEC提起诉讼]]></title>
         <id>https://www.theblockbeats.info/news/42465</id>
@@ -917,85 +1242,6 @@ OP_66 类型「诅咒铭文」的「Unbound 未绑定」状态意味着我失去
         <link href="https://www.theblockbeats.info/news/42396"/>
         <updated>2023-06-06T02:10:28.000Z</updated>
         <summary type="html"><![CDATA[根据以往历史，加密项目遭SEC调查后难逃「以钱换命」的结果。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockWorks：Gary Gensler是美国的耻辱，他必须下台了]]></title>
-        <id>https://www.theblockbeats.info/news/42393</id>
-        <link href="https://www.theblockbeats.info/news/42393"/>
-        <updated>2023-06-05T19:12:10.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-Gary Gensler Is a National Disgrace: It's Time to Rein Him In
-
-》
-原文来源：BlockWorks
-原文作者：JON RICE
-
-
-6 月 5 日晚，Binance 及其 CEO「CZ」因涉嫌违反证券交易规则被美国证券交易委员会（以下简称「SEC」或「委员会」）起诉，该事件直接导致了加密市场各币种短时内普遍出现暴跌情况，Binance 也在随后的回应中称 SEC 对其一系列指控为不实消息，表示将在本次事件中尽全力展开抗辩。
-
-
-伴随 Binance 和 CZ 被起诉，SEC 同时单方面将 SOL、ADA、MATIC、FIL、ATOM、SAND、MANA、ALGO、AXS 和 COTI 等资产归类为证券，该举动引起了加密社区的广泛地反对声音，包括 Cardano 创始人 Charles Hoskinson、波场创始人 Jusin Sun 在内的一些业内大鳄开始发声支持 Binance。
-
-
-加密媒体 BlockWorks 更是直接发文《Gary Gensler 是美国的耻辱，是时候管管他了》炮轰 SEC 主席，打响本次加密支持者反抗 SEC 的第一枪，BlockBeast 将原文整理、编译如下：
-
-
-以下为原文
-
-
-Gary Gensler 是 SEC 主席，但他不是一个受欢迎的人。虽然有传言说他曾经觊觎珍妮特·耶伦的财政部长职位，但国会山的消息人士表示他完全没有机会，因为他不仅不受加密货币爱好者的欢迎，同时也不受大多数美国官方的欢迎。
-
-
-是否受欢迎不是他担任目前职位的先决条件，但能力是。
-
-
-而提到能力，Gary Gensler 最值得关注的点大概是他——完全没有能力。
-
-
-Gensler 领导下的 SEC 已成为那些担心美元霸权受到威胁之人的武器。然而，正是SEC的这种「武器化」，威胁着美国作为经济强国的未来。
-
-
-
-
-数字资产是不可避免的趋势，在金融市场最终不得不拥抱的一场技术革命中，美国只有两个选择：领导，或者跟随。
-
-
-Gensler 的 SEC 选择忽视进步，扼杀创新，并助推最优秀和最聪明的人离开美国。多亏了 Gensler，美国将未来金融市场的领导权交给了更进步、更深思熟虑的国家，例如欧洲、中东，甚至那些美国认为是敌人的国家。
-
-
-
-
-受害的不仅仅是企业家和国家利益。在今天对 Binance 采取的行动中，Gensler 再次证明了 SEC 最大的使命之一——「保护投资者」，在他的优先事项清单中排在最后。数百万美国人持有加密货币，持有 SEC 单方面宣布归类为证券的代币。而 SEC 拒绝就什么是证券、什么不是证券进行善意的讨论，一再伤害这些本土投资者。
-
-
-随着市场再次因 Gensler 的行为而下跌，加密支持者们幡然醒悟，原来 Gensler 认为管理加密货币的法律已经在 90 多年前就通过了。
-
-
-事实上，Gensler 并没有与代币发行人进行有意义的接触，而是花时间制作一些令人昏昏欲睡的视频来捍卫他的信念，即所有数字资产都是证券，这是除 Gensler 本人之外没有人会相信的无稽之谈。
-
-
-一个经常被提到的事实是，Gensler 是一个未经选举产生的官僚。现在 Gensler 很清楚，两党对他的反对达到了历史最高水平。国会应该制定规则来定义美国资本市场的参与，而不是官僚，不管他们的职位有多高。国会表达了一种强烈而迫切的愿望，就是要做到这一点。
-
-
-对于 Gensler 来说，继续他目前的道路无异于玩忽职守，即使是未经选举的官僚也必须遵守民主规范。
-
-
-
-
-未来的金融市场将被代币化。他们将使用区块链技术。它们将由新的和独特的实体组成，其中一些将具有不完全符合现有证券法的去中心化元素。
-
-
-但是 SEC 已经开始阻止这一进展，确保美国不是未来全球金融体系发展的领导者，而是一个不情不愿的参与者。
-
-
-Gary Gensler 正在损害美国的创新、美国投资者和美国的利益。
-
-
-他该下台了。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
