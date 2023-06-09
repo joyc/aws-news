@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42495",
+          "author": null,
+          "description": "忘掉过去转头起飞的「抽象大师」，Crypto 世界真是太带劲啦",
+          "link": "https://www.theblockbeats.info/news/42495",
+          "publishedOn": "2023-06-09T02:02:47.000Z",
+          "wordCount": null,
+          "title": "HarryPotterObamaSonic10Inu：从BSC转生ETH的「抽象大师」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42486",
+          "author": null,
+          "description": "本文主要介绍了 Flood，一种负载测试工具，它为区块链节点的性能特征提供了前所未有的视图。",
+          "link": "https://www.theblockbeats.info/news/42486",
+          "publishedOn": "2023-06-09T01:00:01.000Z",
+          "wordCount": null,
+          "title": "Paradigm引入Flood工具，用于区块链节点负载测试",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42492",
           "author": null,
           "description": "CZ：Binance仍将坚持高道德标准，始终不遗余力地保护用户",
@@ -193,26 +213,6 @@
           "publishedOn": "2023-06-07T02:57:58.000Z",
           "wordCount": null,
           "title": "Native：你的用户手续费为什么要给Uniswap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42432",
-          "author": null,
-          "description": "原文标题：《\n\nSEC 起诉 Coinbase 违反证券法，速读起诉书重点（持续补充）\n\n》\n原文来源：ODAILY 星球日报  \n\n\n\n\n\n\n在昨天对 Binance 及其 CEO 赵长鹏进行起诉后，美国证券交易委员会（SEC）再次开炮，在纽约联邦法院起诉美国合规加密交易平台 Coinbase, Inc.（Coinbase） 及其母公司\n\n\nCoinbase Global, Inc.（\"CGI\"）。消息一出，Coinbase 股价（COIN.O）盘前跌超 12% ，比特币一度跌至 25350 美元，ETH 跌至 1797 美元。起诉书共 101 页，Odaily星球日报总结了重点如下：\n\n\n1. Coinbase 是美国最大的加密资产交易平台，已经为超过 1.08 亿客户提供服务，美国用户可以通过该平台提供加密资产购买、出售和交易；Coinbase 提供资产包括加密资产证券，赚取了数十亿美元的收入，但没有对投资者进行信息披露和保护，使其面临巨大风险。\n\n\n2.根据 1934 年《证券交易法》，传统的证券市场中的经纪商、交易平台和清算机构的职能是分开的，但 Coinbase 平台合并了三种功能，为美国客户提供交易、经纪和清算代理服务，并且也未在 SEC 进行注册，也没有获得任何适用的豁免权。多年来，Coinbase 一直藐视监管结构，逃避国会和 SEC 的信息披露要求。\n\n\n\n\n4.除了通过上述方式促进二级市场交易外，Coinbase 还首次允许发行方通过「Asset Hub」出售加密资产，并将「Asset Hub」描述为“资产发行人可以通过 Coinbase 产品实现资产上市、发行和增长”。Coinbase 吹嘘说，「Asset Hub」让发行人使用一个单一的应用程序在交易平台、托管和其所有的交易界面上线资产。\n\n\n\n5.Coinbase 一直通过提供加密资产获得交易收入…",
-          "link": "https://www.theblockbeats.info/news/42432",
-          "publishedOn": "2023-06-06T14:04:56.000Z",
-          "wordCount": null,
-          "title": "SEC起诉Coinbase违反证券法，速读起诉书重点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42429",
-          "author": null,
-          "description": "6 月 6 日晚，SEC 主席 Gary Gensler 在出席 CNBC 电视台节目 Squawk on the Street 时，主要针对本次对 Binance 的诉讼做出了一些解释和说明，同时 Gensler 再次谈到了「合规」的重要性，并表示 SEC 随时准备与加密行业合作以实现合规性，BlockBeats 将本次发言内容整理、编译如下：\n\n\n以下为 Gensler 发言原文：\n\n\n「加密货币应该与其他证券没有什么不同，需要合规。\n\n\n\n\n如果加密 Token 具有真正的价值，那么符合 SEC 的规定将建立信任。\n\n\nSEC 随时准备与加密行业合作以实现合规性。\n\n\n\n\n\n资金管理者也要遵守加密货币托管规则，一些加密货币公司秉持着「抓不到我们就算了」的态度。在像 Binance 这样的平台上托管资金和加密证券是不合规的，或者说，在 Binance 平台上他们没有正确的将合格的托管商单独隔离出来。」",
-          "link": "https://www.theblockbeats.info/news/42429",
-          "publishedOn": "2023-06-06T14:00:13.000Z",
-          "wordCount": null,
-          "title": "Gensler做客CNBC发言全文：SEC随时准备与加密行业合作以实现合规性",
           "imageUrl": null
         }
       ]
