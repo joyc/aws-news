@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42528",
+          "author": null,
+          "description": "2023年5月，加密货币市场的风险偏好受到美国的债务上限危机和量化紧缩的影响。",
+          "link": "https://www.theblockbeats.info/news/42528",
+          "publishedOn": "2023-06-10T01:00:01.000Z",
+          "wordCount": null,
+          "title": "LTP Research：加密货币市场避险情绪升温，比特币看涨情绪不足",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42534",
           "author": null,
           "description": "原文来源：Mint Ventures\n\n\n\nETH Staking 的过去和现在\n\n\n在开始之前，我们还是需要来简单回顾一下 ETH 的 Staking。与目前上线的绝大多数 PoS 公链不同，以太坊的 PoS 不支持链原生的代理委托，也限制了单一节点（有利可图的）最大质押规模为 32 个 ETH。这种质押方式的好处显而易见，可以尽可能的减少单一实体直接通过控制一个庞大的节点来左右以太坊共识的可能性，保持以太坊网络尽可能的去中心化。但是由于节点运营的操作复杂度对于普通用户而言相当之高，所以除了用户自行质押的 solo staking 之外，在实践过程中，逐步出现了另外 3 类 Staking 方式： staking pools、liquid staking 以及 cex staking，这 4 种质押方式的特点如下：\n\n\n- Solo staking 即质押用户自行处理全部质押流程和后续维护的方式，其主要弊端是对设备、资金、知识、网络的高要求。\n\n\n- Staking pools 则一定程度上免除了质押用户对网络和硬件的需求。质押用户只需付出一定的费用，就可以请专业的质押服务提供商来对自己提供的 32ETH 进行质押来获取收益。同时这种方式也能保证取款私钥仍由质押者本身掌控，对资金的掌控度也较高。但是对质押者的资金和知识仍然具有较高要求。在某些分类中，这种质押方式也被称作 Staking as a service。\n\n\n- Liquid staking 在 staas 将节点具体运营外包给专业节点运营商的基础上更进一步，由质押池来统一归集用户的 ETH 进行质押操作，使得用户可以以任意金额进行质押，同时质押池会给用户发放一个质押衍生品 LSD（Liquid Staking Derivatives/ Tokens, 我们下文统一以 LSD 来代替），LSD 在 DeFi 中目…",
@@ -223,16 +233,6 @@
           "publishedOn": "2023-06-08T04:08:46.000Z",
           "wordCount": null,
           "title": "实际上，是Coinbase先对SEC提起诉讼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42462",
-          "author": null,
-          "description": "原文来源：欧易 OKX\n\n\n6 月 7 日，领先的 Web3 科技公司欧易 OKX 宣布将于 6 月 7 日至 14 日的翠贝卡电影节期间，在纽约 Spring Studios 举办 DIY NFT 实验活动，参与者可以通过 AI（AIGC）来设计和制作专属 NFT。\n\n\n本次活动将在纽约 Spring Studios 一楼的开放空间进行，参与者可以使用欧易 OKX Web3 钱包的「AI 创作」功能，输入文字描述来创建和定制 NFT，亲身体验欧易 OKX Web3 产品。还可以在现场的欧易 OKX 大使面对面交流，了解更多产品信息。欧易 OKX Web3 钱包的「AI 创作」功能基于 AIGC 技术实现，通过机器学习算法来生成原始的数字艺术作品。参与者设计出来的每个 NFT 作品，都将在被创建并存储在区块链上，可以在活动现场的屏幕上展示，或者在欧易 OKX NFT 市场上架。\n\n\n此外，欧易 OKX 还将在「BMCC 翠贝卡表演艺术中心欧易 OKX 剧院」门口设置自动售货机，支持用户通过欧易 OKX Web3 钱包使用加密资产购买。\n\n\n欧易 OKX 首席营销官 Haider Rafique 表示：「我们很自豪能在翠贝卡电影节上举办欧易 OKX NFT 实验活动，来展示 Web3 和 AI 技术在变革艺术方面的潜力。我们的目标是帮助每个人可以设计和创造自己的 NFT，从而激发创作者探索数字艺术的热情。」\n\n\n欧易 OKX Web3 钱包负责人之一 Nate Zou 表示：「我们很高兴能够在今年的翠贝卡电影节上展示 Web3 技术和欧易 OKX Web3 钱包等创新产品，并与全球创意人士建立联系。我们将继续探索 Web3 创新技术的潜力以及它所带来的更多可能性。\n\n\nTribeca Enterprises 联合创始人兼首席执行官 Jane Rosenthal 表示：「基于我们合作伙伴欧易 OKX 的远见和支持，翠贝卡电影节正在将 Web3 整合到活动方案中。欧易 OKX 代表的 Web3 世界和翠贝卡电影节代表的艺术世界正在不断融合，我们很高兴能与欧易 OKX 一起探索 Web3 创新的可能性。」\n\n\n欧易 OKX 与翠贝卡电影节的持续合作，旨在通过数字资产、Web3 和元宇宙等创新技术，为创作者、粉丝和人才创造新的机会。今年 1 月，欧易 OKX 推出了 2023 年首个翠贝卡电影节 NFT Pass 卡，为粉丝提供了近距离接触翠贝卡电影节的激动人心的机会，NFT 门票持有者可以获得出席翠贝卡电影节联合创始人简·罗森塔尔和罗伯特·德尼罗联合发起的颁奖典礼、特别观影权、定向邀请鸡尾酒会等多种权益。\n\n\n本文内容仅供参考，不构成亦不得被视为任何产品交易的邀请、要约、招揽或推荐或投资建议；投资需谨慎，数字资产价格具有一定市场风险和价格波动性，投资数字资产存在风险，甚至可能会导致您损失全部投资金额；因此，数字资产交易未必适合所有投资者，您需了解产品的运作模式，自主做出判断和决策。",
-          "link": "https://www.theblockbeats.info/news/42462",
-          "publishedOn": "2023-06-07T14:43:21.000Z",
-          "wordCount": null,
-          "title": "欧易OKX将在翠贝卡电影节期间举办NFT AI创作活动",
           "imageUrl": null
         }
       ]
