@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42541",
+          "author": null,
+          "description": "回顾6月04日-6月10日重点资讯、热门文章推荐。",
+          "link": "https://www.theblockbeats.info/news/42541",
+          "publishedOn": "2023-06-10T10:00:01.000Z",
+          "wordCount": null,
+          "title": "本周新闻回顾｜SEC起诉Binance及Coinbase；BKEX热钱包风险资金主要来自网赌平台以及非法四方支付平台",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42546",
           "author": null,
           "description": "或许SEC非常明白，自己此次出击，挑衅的对象其实另有其人。",
@@ -243,16 +253,6 @@
           "publishedOn": "2023-06-08T07:03:05.000Z",
           "wordCount": null,
           "title": "深度解读四大新型去中心化算法稳定币：Dai、GHO、crvUSD和sUSD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42465",
-          "author": null,
-          "description": "站在全行业的角度出发，无论事态本身会朝着哪个方向发展，围绕着监管所产生的矛盾，必然会推动监管本身的完善。",
-          "link": "https://www.theblockbeats.info/news/42465",
-          "publishedOn": "2023-06-08T04:08:46.000Z",
-          "wordCount": null,
-          "title": "实际上，是Coinbase先对SEC提起诉讼",
           "imageUrl": null
         }
       ]

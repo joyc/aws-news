@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-10T12:11:04.085Z</updated>
+    <updated>2023-06-10T18:07:39.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周新闻回顾｜SEC起诉Binance及Coinbase；BKEX热钱包风险资金主要来自网赌平台以及非法四方支付平台]]></title>
+        <id>https://www.theblockbeats.info/news/42541</id>
+        <link href="https://www.theblockbeats.info/news/42541"/>
+        <updated>2023-06-10T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[回顾6月04日-6月10日重点资讯、热门文章推荐。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么所有人，都想监管Crypto？]]></title>
         <id>https://www.theblockbeats.info/news/42546</id>
@@ -933,16 +943,6 @@ MakerDAO 创始人 Rune Christensen 在 2021 年特别提到 USDC（美元稳�
 
 
 Rune 希望，当他宣布「Cle…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实际上，是Coinbase先对SEC提起诉讼]]></title>
-        <id>https://www.theblockbeats.info/news/42465</id>
-        <link href="https://www.theblockbeats.info/news/42465"/>
-        <updated>2023-06-08T04:08:46.000Z</updated>
-        <summary type="html"><![CDATA[站在全行业的角度出发，无论事态本身会朝着哪个方向发展，围绕着监管所产生的矛盾，必然会推动监管本身的完善。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
