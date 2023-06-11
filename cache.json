@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42559",
+          "author": null,
+          "description": "6月12日至6月18日要点事件前瞻",
+          "link": "https://www.theblockbeats.info/news/42559",
+          "publishedOn": "2023-06-11T13:21:39.000Z",
+          "wordCount": null,
+          "title": "一周前瞻：超1.9亿枚BLUR将解锁；Do Kwon将再次出庭参加听证会",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42553",
           "author": null,
           "description": "原文标题：《Asset Risk Assessment: Ondo and Flux Finance (OUSG)》\n原文作者：LLAMARISK\n原文编译：Kxp，BlockBeats\n\n\nOndo Finance 简介\n\n\nOndo Finance 是一家区块链服务公司，创建和管理机构级金融产品，如美国国债和货币市场基金，并围绕这些产品构建 DeFi 协议。Ondo 致力于开发去中心化、可组合的协议，并提供量身定制的服务，满足组织、DAO 和高净值个人的需求。该平台旨在通过将现实世界资产（RWAs）引入 DeFi，弥合 TradFi 和 DeFi 之间的鸿沟。\n\n\nOndo Finance 由 Nathan Allman 于 2021 年创立，迄今已从包括 Pantera Capital、Founders Fund、Coinbase Ventures 和 Tiger Global 在内的投资者处融资 2400 万美元。团队成员在 Goldman Sachs、Fortress、Bridgewater 和 MakerDAO 等各种机构和协议中拥有丰富的背景。\n\n\n法律结构 \n\n\n链接：Ondo 法律文件\n\n\nOndo Finance 采用标准的基金结构，包括有限合伙人和普通合伙人，以及合格的托管人、基金管理员和金库审计师等第三方服务提供商。\n\n\n以下是 Ondo 自己的法律结构概述：\n\n\n· Ondo Finance Inc：母公司\n· Ondo I GP：普通合伙人（GP），负责管理基金并指导服务提供商。\n· Ondo Capital Management LLC：投资经理（Ondo IM），与 GP 合作管理基金。\n· Ondo I LP：特拉华州有限合伙公司接收投资者的资本投入，并与第三方服务提供商持有资产。它是 OUSG 的发行方。\n\n\nOndo Finance 采…",
@@ -153,46 +163,6 @@
           "publishedOn": "2023-06-09T06:30:11.000Z",
           "wordCount": null,
           "title": "MetaMask Snaps：开创去中心化新生态系统，巩固钱包龙头地位",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42504",
-          "author": null,
-          "description": "原文来源：OKX Ventures\n\n\n引言\n\n\n随着 Vitalik 最近在文章提及终极预言机的问题，「预言机」重新走进加密社区关注视野。目前预言机已经在保险、金融、随机预测、物联网等多个领域和板块中有着不可替代的价值，OKX Ventures 的核心观点是只要链下数据还有价值，预言机这类中间件在整个 Web3 的叙述中将持续发挥关键作用。具体为如下几个方面：\n\n\n-在 Web3 生态系统的不断发展的背景下，可以预见的是 dapps 和平台增加会带动通过 oracle 调用数据源和 API 的需求膨胀。在未来 dapp 尤其是 defi 交易所很可能会整合一个以上的预言机（通常以一个为主要数据来源，以 1-2 个作为交叉验证的备份）来获取链下元数据，从而避免单个预言机延迟或被攻击，造成协议的难以承受的损失（类似 Venus 等协议事故）。\n\n\n-在投资机会上，尽管传统 defi 以数据喂价功能为主的预言机方向，短时间很难看到谁会打破 chainlink 的垄断，但在剩下的 10% 左右的市场上仍然可能存在第二名的竞争空间。此外，细分领域上的预言机，如 L2、信用、NFT、DID 等几个方向都有值得注意的创新协议和叙事出现。\n\n\n-基于 DEX 和 L1 的经验，从增量市场需求和 L2/ZK 以及细分的新兴场景维度来看，预言机赛道长远来看不可能只被一个赢家垄断。更大的发展潜力和市场空间仍然值得探索，比如链下计算场景、NFT 等非标链上资产定价和 AI/ML 的深度结合。\n\n\n在下文中，我们将对预言机的概念、分类、应用场景及投资机会分别作出深入阐释。\n\n\n事件背景\n\n\n根据 Vitalik 最近的文章，他认为在未来一定会有一个信任机制更加有效的预言机协议出现。他在文中提到了自己的两个解决思路：\n\n\n-价格预言机：一种是不完全加密经济的去中心化预言机，一种基于验证器投票的预言机…",
-          "link": "https://www.theblockbeats.info/news/42504",
-          "publishedOn": "2023-06-09T04:34:03.000Z",
-          "wordCount": null,
-          "title": "OKX Ventures：重新思考预言机，看到及未被看到的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42499",
-          "author": null,
-          "description": "原文来源：Ankr\n\n\n\n\n\n\n今年 2 月，Ankr 和微软启动合作，在微软 Azure 应用市场上提供企业 RPC 服务。经过集成和测试，该服务已正式推出，每月为 Azure 数百万用户提供易于访问的区块链基础设施网关。\n\n\nAzure 用户的企业 RPC 和专用区块链\n\n\nAnkr 企业级 RPC 服务提供全球、低延迟的区块链连接，同时 Ankr 与微软的合作伙伴关系也将提供对 AppChains 产品的访问。Ankr AppChains 是帮助企业快速启动专用且可定制的区块链解决方案，该服务与 RPC 解决方案的结合，帮助用户在首次迭代中能快速部署自己的 Polygon 超网，并且逐步可以选择更多的生态系统。\n\n\n「我们很高兴与 Ankr 合作，为 Azure 市场带来企业级区块链基础设施。通过这种合作关系，我们简化了那些阻碍 Web3 项目无缝测试、部署和扩展的障碍。我们期待帮助企业客户和开发人员，满足他们在 Web3 中不断发展的基础设施和工具需求。」\n\n\n-- Microsoft Web3 和 AI 业务开发总监 Daniel An\n\n\n「我们与 Microsoft 团队合作推出企业级 RPC 服务是非常有益的。我们共同确保了卓越的用户友好性和产品性能。我们预计，在 Azure 上运行会使客户激增，Ankr 已做好相应地资源储备。在微软的指导下，我们将根据用户反馈和性能指标不断创新和改进。这种伙伴关系意义非凡，让我们对企业 RPC 服务的未来感到兴奋。」\n\n\n——Peter Stewart，Ankr 基础设施主管\n \n\n\n「随着 Ankr AppChains 产品适合大型组织，Ankr 和微软正在联手将我们的 AppChain 产品发展为『企业链』解决方案。Ankr 提供完整的工程、基础设施和市场服务，为大型企业进入 Web3 领域消除了进入壁垒。借助 Azure 上的 AppChains，启动企业级链将很快成为企业垂直跳转到 Web3 、在满足现有客户的同时吸引新受众的最快、最方便和最有效的方法。」\n\n\n——Kev Silk，Ankr AppChains 产品经理\n\n\n轻松启动专用区块链\n\n\nAnkr AppChains 产品已经推出一年，它允许 Web3 组织推出可扩展的特定于应用程序的区块链，以高度自动化的过程中为去中心化应用程序或项目提供动力。AppChains 在传统企业中已成为推出各种解决方案的首选，这些解决方案适用于机构客户、银行、cbdc、游戏等领域。通常，传统公司希望通过可信赖的渠道来发现新技术。Ankr AppChain 解决方案在微软 Azure 应用市场上可用，为企业提供了更加可信赖的渠道，为上述用例进入市场提供了简单的途径。\n\n\nAnkr AppChains 消除了公司启动 Web3 计划时面临的最大障碍：可扩展性、用户体验和获得 Web3 人才。AppChains 确保快速且可负担的交易、无缝的用户体验、合规性以及来自 Ankr 工程团队成熟的端到端工程，确保公司顺利、简化地过渡到 Web3。\n\n\nAzure 市场上的 AppChain 解决方案将允许客户为区块链以及每个级别的 Web3 应用程序选择自定义规范。借助基本的基础设施，包括验证器节点、RPC 节点、测试网水龙头、区块浏览器，以及额外的索引器节点、高级 API 和桥，可以快速设计和完成企业区块链。通过各种附加功能，用户还可以在此基础上启动应用程序或用例，获得最高级别的 Web3 用户体验。\n\n\n写在最后\n\n\nAnkr 致力于提供领先的技术，帮助客户在瞬息万变的行业中保持领先地位，从而创造令用户惊叹的体验。凭借快速部署自己的节点基础设施和专用 AppChains 的能力，企业将能够无缝进入 Web3。\n\n\n本文来自投稿，不代表BlockBeats观点",
-          "link": "https://www.theblockbeats.info/news/42499",
-          "publishedOn": "2023-06-09T03:57:42.000Z",
-          "wordCount": null,
-          "title": "Ankr企业级RPC和AppChain解决方案现已在微软Azure应用市场上可用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42495",
-          "author": null,
-          "description": "忘掉过去转头起飞的「抽象大师」，Crypto 世界真是太带劲啦",
-          "link": "https://www.theblockbeats.info/news/42495",
-          "publishedOn": "2023-06-09T02:02:47.000Z",
-          "wordCount": null,
-          "title": "HarryPotterObamaSonic10Inu：从BSC转生ETH的「抽象大师」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42486",
-          "author": null,
-          "description": "本文主要介绍了 Flood，一种负载测试工具，它为区块链节点的性能特征提供了前所未有的视图。",
-          "link": "https://www.theblockbeats.info/news/42486",
-          "publishedOn": "2023-06-09T01:00:01.000Z",
-          "wordCount": null,
-          "title": "Paradigm引入Flood工具，用于区块链节点负载测试",
           "imageUrl": null
         }
       ]
