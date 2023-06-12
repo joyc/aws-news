@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-12T00:43:44.008Z</updated>
+    <updated>2023-06-12T06:09:55.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[证券监管力量的较量：美国SEC与香港SFC的路径分析]]></title>
+        <id>https://www.theblockbeats.info/news/42565</id>
+        <link href="https://www.theblockbeats.info/news/42565"/>
+        <updated>2023-06-12T03:31:37.000Z</updated>
+        <summary type="html"><![CDATA[原文作者：0xLoki
+
+
+
+之前 Space 聊到过一个话题：香港 SFC 会不会和美国 SEC 一样，去疯狂定义证券然后监管、调查、罚款？
+这个问题的关键是我们不能只看他们是怎么说的（组织目标），还需要看他们怎么做的（实际行为）。回答这个问题有个很简单的办法：搞明白 SEC 和 SFC 的业务和人员构成。
+
+
+
+美国证监会SEC
+
+
+
+
+
+
+
+
+   
+
+从组织架构上我们就可以发现，执法司（Enforcement）和检查司（Examinations）似乎在所有科室中是最重要的。在后面的各部门描述当中，我们也可以看到执法司和检查司也分列一二。  
+
+
+
+
+
+除此之外还有个更具有说服力的数据：财务情况。SEC 的资金来源大致由三部分组成： 
+
+
+1）财政预算； 
+2）证券交易费用和申请费用； 
+3）罚没收入。  
+
+
+其中罚没收入又分成两个 Part： 
+
+
+A. 需要赔偿受害者的，罚没收入会补偿受害者+注入美国财政部的 GeneralFund 
+
+
+B. 不需要赔偿受害者的，罚没收入会分配给投资者保护基金、吹哨人（调查线索的提供者）、资助监察长办公室的调查.。
+
+
+接下来来看一下 SEC 的资产负债表。按照 2022 财年年报，SEC 的总资产从 122 亿增长到了 141 亿美元，增长 19 亿美元。其中投资科目增长了 4 亿美元；应收账款增加了 15 亿美元，这两项的绝大部分都是由罚没收入构成，其中投资科目还已经扣除了监管过程中的支出。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 看完收入再来看支出，可以看到执法司和检查司的净支出是最高的，合计达到了 17.5 亿美元，占到总支出的 65%。这些支出最终转化为了执法行动：根据 SEC 的另一篇公开文章，SEC 在 2022 财年总共提起了 760 起执法行动，比上一年增加了 9%。其中包括 462 项新的或「独立」执法行动。  
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一周前瞻：超1.9亿枚BLUR将解锁；Do Kwon将再次出庭参加听证会]]></title>
         <id>https://www.theblockbeats.info/news/42559</id>
