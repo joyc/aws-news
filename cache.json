@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42590",
+          "author": null,
+          "description": "原文标题：《沤珠槿艳，河清海晏｜WTR 6.12》\n原文来源：\n\nWatchToweR 研究院\n\n\n\n本周回顾\n\n\n本周从 6 月 6 日到 6 月 12 日，冰糖橙最高附近$27355，最低接近$25351，震荡幅度达到 7.33% 左右。\n\n\n观察筹码分布图，在约 $26770 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n分析：\n\n\n24000 - 29000 约 322 万枚；\n18500 - 23500 约 209 万枚。\n短期内跌不破在 18000~22000 概率为 58 %；\n其中短期内涨不破 26500～29000 的概率为 71 %。\n\n\n\n \n\n\n重要消息方面\n\n\n经济消息方面\n\n\n1、美国方面：\n\n\n2023 年 4 月，美国的批发库存月度下降 0.1%，低于此前预计的 0.2% 下降。与上一年同期相比，批发库存跃升了 6.3%。\n\n\n美联储第二重要利率决议，美联储 6 月利率维持不变的概率 71.3%。\n\n\n美当周初请失业金人数 26.1 万人，高于预期值 23.5 万人，高于前值 23.2 万人。\n\n\n2、欧盟方面：\n\n\n2023 年一季度，欧元区的季节性调整后 GDP 下降了 0.1%，欧盟 GDP 增长了 0.1%。\n\n\n2023 年 3 月，欧盟的消费者价格指数年增长率为 8.3%，低于前一月的 9.9%。\n\n\n3、亚洲方面：\n\n\n 发展中亚洲的增长预计在今年和 2024 年都为 4.8%，高于去年的 4.2%。\n\n\n中国的复苏和印度的需求将是今年和明年该地区主要的增长支持。\n\n\n4、美证券交易委员会 ( SEC）主管 Gary Gensler ：绝大多数加密代币符合投资合同测试。\n\n\n5、加拿大央行加息 25 个基点。\n\n6、美众议院金融服务委员会主管和农业委员会主管，公布数字资产立法的讨论草案，将成立 CFTC - SEC 数字资产联…",
+          "link": "https://www.theblockbeats.info/news/42590",
+          "publishedOn": "2023-06-13T03:58:38.000Z",
+          "wordCount": null,
+          "title": "第24周链上数据：现货呈现大量流出状态，但抛压有所降低",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42584",
           "author": null,
           "description": "原文来源：Yinan以南说\n\n\n简介\n\n\nKakarot zkEVM 是用 Cairo 编写的以太坊虚拟机（EVM）的实现。Cairo 是与 CairoVM 相关联的图灵完备语言。CairoVM 利用多项式和 ZK-STARK 证明系统实现了可证明的计算。\n\n\nzkEVM 的特点是能生成可证明的交易，因此也可以生成可证明的区块。Kakarot 建立在 CairoVM 之上，因此在 Kakarot 上执行的每一笔交易都是可证明的。\n\n\n总的来说，Kakarot zkEVM 使用 Cairo 语言编写，并利用 ZK-STARK 证明系统提供可证明的计算能力。它使得开发者可以在其上部署 EVM 应用，并使终端用户可以用他们常用的工具链与这些应用进行交互。\n\n\n最后，Kakarot 还将提供与 Starknet 协议的互操作性，为 DeFi 和 GameFi 等不同领域的协议提供了可组合性。\n\n\n\n\n\n路线图\n\n\n该项目于 2022 年 10 月开始，有几个目标：从第一天开始开源，欢迎贡献，最雄心勃勃的是，用不到 10,000 行代码创建一个 zkEVM。\n\n\nKakarot zkEVM 的路线图分为三个阶段:\n\n\n阶段一: Kakarot zkEVM on Starknet—将 EVM 带到 Starknet\n\n\nKakarot zkEVM 将首先作为一个内建的 EVM 存在于 Starknet 的 L2 中，使开发者能够在 Starknet 上直接部署他们的 Solidity（或任何 EVM 兼容语言）智能合约，并使用他们熟悉的工具（如 Foundry, Hardhat, Wagmi 等）。他们的终端用户将能够使用他们熟悉的工具链（如 Metamask, Wallet connect 等）与他们的 dApps 进行交互。总的来说，开发者和用户在 Kakarot 上的体验将与 P…",
