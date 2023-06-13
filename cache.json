@@ -6,6 +6,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42643",
+          "author": null,
+          "description": "V4对Uniswap本身以及整个DeFi都将产生广泛的影响。",
+          "link": "https://www.theblockbeats.info/news/42643",
+          "publishedOn": "2023-06-13T14:13:28.000Z",
+          "wordCount": null,
+          "title": "关于Uniswap V4，你需要知道的一切",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42592",
+          "author": null,
+          "description": "AI对Web3的整顿一方面是，AI技术的出现，分散了资本对Web3的注意力；另一方面是AI使得Web3领域机制和逻辑正在发生改变。",
+          "link": "https://www.theblockbeats.info/news/42592",
+          "publishedOn": "2023-06-13T13:00:01.000Z",
+          "wordCount": null,
+          "title": "AI开始对Web3全行业产生影响力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42640",
+          "author": null,
+          "description": "“我们的目标是在未来六个月内成为交易量排名前三的去中心化交易所。”核心开发者Bob Baxley在谈及Maverick的未来时说道。",
+          "link": "https://www.theblockbeats.info/news/42640",
+          "publishedOn": "2023-06-13T12:58:10.000Z",
+          "wordCount": null,
+          "title": "Binance最新Launchpool，日均资本效率达100%以上Maverick是什么来头",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42637",
           "author": null,
           "description": "原文标题：《\n\n美国会议员提案改组 SEC，Gary Gensler 何时下台？\n\n》\n原文来源：Odaily星球日报\n\n\n今天凌晨，美国众议院议员 Warren Davidson 发文称已正式提交《美国证券交易委员会稳定法案》，要求重组美国 SEC 并解雇其主席 Gary Gensler。该法案获得另一众议院议员 Tom Emmer 的支持。\n\n\n在推文中，Warren Davidson 写道：「美国资本市场必须受到保护，使其不受包括现任主席在内的暴政的影响。立法初衷，是为了解决当前的滥用权力问题，并确保未来几年符合市场最佳利益的保护措施。现在是时候进行真正的改革，解雇 Gary Gensler 担任 SEC 主席。」该推文获得近 400 万浏览， 4.4 万点赞以及 1.6 万转发。\n\n\n\n\n\n「美国投资者和行业应该得到明确和一致的监督，而不是政治游戏。」Tom Emmer 在新闻稿中说。「《美国 SEC 稳定法案》将做出符合常识的改变，以确保美国 SEC 的优先级是他们有责任保护的投资者，而不是其鲁莽主席的心血来潮。」\n\n\n根据议案的设想，解除 Gary Gensler 主席职位后将重组委员会，将主席权利分配给其他委员，所有规则的制定，执行和调查也将由这 6 名委员领导进行，任期六年，同时设立一个执行董事职位来监督日常运作。此外，为了防止某一政党对 SEC 的控制，任何党派都不能委员会席位都不能超过三个，并将实施类似于联邦选举委员会 (FEC) 的结构。如下所示：\n\n\n\n\n\n实际上，在涉及各种加密问题上，Warren Davidson 的身影时有出现，他也是共和党加密货币小组委员会副主席，致力于加密行业监督和立法。去年，他还与其他四位国会议员共同提出新法案，支持将加密货币添加到 401(k) 退休计划中。\n\n\n早在两个月前的众议院金融服务委员会听证会上，Warren Davidson 就宣称要提出一项新议案——罢免 Gensler 并设置执行董事来弥补空缺。近期 SEC 接连重拳出击，起诉 Binance 以及 Coinbase 等加密巨头，破坏了美国加密市场的稳定态势，进一步引发 Warren Davidson 等议员的不满，这才有了今日议案的出台。\n\n\n虽然 Gary Gensler 如今在加密市场恶评如潮，其本人也多次发表前后矛盾的发言（例如 Gary 曾在 2019 年为 Algo 站台并对其技术创新大为称赞，如今却将其定性为证券），但距离真正倒台还有很长的一段路要走。\n\n\n就拿今天的议案来说，由两名共和党议员提出，但要想真正变成法律，需要美国参众两院正式投票通过：众议院需要至少 218 名众议员投票支持；参议院首先需要有 60 名参议员赞同停止对议案继续讨论（经常采取拖延战术，持续讨论扯皮），并同意进行投票，此后需要获得 51 票支持才能进入下一个程序。\n\n\n\n\n\n（两党国会席位）\n\n\n而从今天美国国会两党的格局来看，即便《美国 SEC 稳定法案》在众议院通过，也很难在民主党把控的参议院继续进行下去，毕竟 SEC 主席 Gary Gensler 也是民主党人。而且，民主党也在一直希望将 SEC 作为监管加密货币的主要监管机构，更不可能自断一臂，让渡权力。\n\n\n《美国 SEC 稳定法案》注定会无疾而终，对共和党来说，一个可行的出路是支持 CFTC（美国商品期货委员会）与 SEC 打擂台。而对加密市场来说，CFTC 的监管相对来说较为「温和」，迄今为止起诉名单也没那么长。\n\n\n原文链接",
