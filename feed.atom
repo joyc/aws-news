@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-12T18:08:17.998Z</updated>
+    <updated>2023-06-13T00:40:59.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -506,16 +506,6 @@ Ondo Finance 采…]]></summary>
 
 
 · 选票隐私性：秘密投票，也称为「澳大利亚式选举」（Australian bal…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周新闻回顾｜SEC起诉Binance及Coinbase；BKEX热钱包风险资金主要来自网赌平台以及非法四方支付平台]]></title>
-        <id>https://www.theblockbeats.info/news/42541</id>
-        <link href="https://www.theblockbeats.info/news/42541"/>
-        <updated>2023-06-10T10:00:01.000Z</updated>
-        <summary type="html"><![CDATA[回顾6月04日-6月10日重点资讯、热门文章推荐。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
