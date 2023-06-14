@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-13T18:08:34.606Z</updated>
+    <updated>2023-06-14T00:38:58.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -948,79 +948,6 @@ L2 扩展转变 - 所有人都迁移到 rollups
         <link href="https://www.theblockbeats.info/news/42559"/>
         <updated>2023-06-11T13:21:39.000Z</updated>
         <summary type="html"><![CDATA[6月12日至6月18日要点事件前瞻]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解融资2400万美元的RWA DeFi协议Ondo Finance]]></title>
-        <id>https://www.theblockbeats.info/news/42553</id>
-        <link href="https://www.theblockbeats.info/news/42553"/>
-        <updated>2023-06-11T10:00:01.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Asset Risk Assessment: Ondo and Flux Finance (OUSG)》
-原文作者：LLAMARISK
-原文编译：Kxp，BlockBeats
-
-
-Ondo Finance 简介
-
-
-Ondo Finance 是一家区块链服务公司，创建和管理机构级金融产品，如美国国债和货币市场基金，并围绕这些产品构建 DeFi 协议。Ondo 致力于开发去中心化、可组合的协议，并提供量身定制的服务，满足组织、DAO 和高净值个人的需求。该平台旨在通过将现实世界资产（RWAs）引入 DeFi，弥合 TradFi 和 DeFi 之间的鸿沟。
-
-
-Ondo Finance 由 Nathan Allman 于 2021 年创立，迄今已从包括 Pantera Capital、Founders Fund、Coinbase Ventures 和 Tiger Global 在内的投资者处融资 2400 万美元。团队成员在 Goldman Sachs、Fortress、Bridgewater 和 MakerDAO 等各种机构和协议中拥有丰富的背景。
-
-
-法律结构 
-
-
-链接：Ondo 法律文件
-
-
-Ondo Finance 采用标准的基金结构，包括有限合伙人和普通合伙人，以及合格的托管人、基金管理员和金库审计师等第三方服务提供商。
-
-
-以下是 Ondo 自己的法律结构概述：
-
-
-· Ondo Finance Inc：母公司
-· Ondo I GP：普通合伙人（GP），负责管理基金并指导服务提供商。
-· Ondo Capital Management LLC：投资经理（Ondo IM），与 GP 合作管理基金。
-· Ondo I LP：特拉华州有限合伙公司接收投资者的资本投入，并与第三方服务提供商持有资产。它是 OUSG 的发行方。
-
-
-Ondo Finance 采…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cicada: 通过时间锁谜题和ZK实现链上私密投票]]></title>
-        <id>https://www.theblockbeats.info/news/42550</id>
-        <link href="https://www.theblockbeats.info/news/42550"/>
-        <updated>2023-06-11T07:58:42.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《Building Cicada: Private on-chain voting using time-lock puzzles》
-原文来源：a16z
-原文作者：Michael Zhu
-原文编译：Kxp，BlockBeats
-
-
-所有的投票系统都需要依赖诚信和透明度才能发挥实际作用。从表面上看，区块链似乎是构建这些系统的理想平台。事实上，许多去中心化组织已经采用了无许可投票来表达集体意愿，通常是在行使重要财务权力或调整关键协议参数的情况下。然而，链上投票存在一些缺点，并且对于 Web3 投票系统而言，隐私问题尚未得到充分的探索，这给其带来了负面影响。在今天大多数使用的链上投票协议中，选票和投票结果都是完全公开的。缺乏隐私保护意味着投票结果容易受到操纵，同时也可能导致选民激励不一致，潜在地导致非民主的结果。
-
-
-为此，我们推出了 Cicada：一个全新、开源的 Solidity 库，利用时间锁谜题和零知识证明来实现链上私密投票。与现有系统相比，Cicada 具备独特的隐私属性，最小化了对信任的依赖，并且在 Ethereum 主网上的使用效率也非常高。
-
-
-在本文中，我们对投票隐私的现状进行了调研，并对 Cicada 的工作原理进行了高层次的介绍（正式证明将在后续提供）。我们还鼓励开发者们前往 GitHub 存储库查看详细信息——Cicada 可以根据不同的投票方案和特性进行灵活调整和扩展。我们期待与社区合作，共同探索这些可能性。
-
-
-投票隐私性概述
-
-
-在任何投票系统（链上或其他系统）中，我们都需要考虑许多不同层次的隐私性。个人选票的披露、持续的投票统计和选民身份都会以不同的方式影响到选民。在不同的投票中，所需的隐私属性也不尽相同，以下是密码学和社会科学文献中经常涉及的一些属性：
-
-
-· 选票隐私性：秘密投票，也称为「澳大利亚式选举」（Australian bal…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
