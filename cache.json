@@ -6,6 +6,66 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42720",
+          "author": null,
+          "description": "6月15日加密行业重要资讯一览",
+          "link": "https://www.theblockbeats.info/news/42720",
+          "publishedOn": "2023-06-15T11:05:31.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜USDT在Curve 3pool中占比倾斜；WSJ称美联储预计年内还有两次加息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42718",
+          "author": null,
+          "description": "欧易 OKX 计划扩大中东业务作为其全球重要战略增长和业务中心",
+          "link": "https://www.theblockbeats.info/news/42718",
+          "publishedOn": "2023-06-15T10:44:11.000Z",
+          "wordCount": null,
+          "title": "欧易OKX获迪拜虚拟资产监管局颁发的MVP预备许可证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42700",
+          "author": null,
+          "description": "FOMC 尽其所能地在维持利率不变的同时，通过提高前瞻利率预测以及鹰派论述来实现“鹰派跳过加息”，再次试图取得一个良好平衡。",
+          "link": "https://www.theblockbeats.info/news/42700",
+          "publishedOn": "2023-06-15T08:00:02.000Z",
+          "wordCount": null,
+          "title": "SignalPlus研报：美联储维持利率不变，即使与会者呼吁年底前需再加息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42709",
+          "author": null,
+          "description": "在种种信息的暗示下，我们不禁联想，今天Curve 3Pool池的严重倾斜，是否也与机构退场有关？",
+          "link": "https://www.theblockbeats.info/news/42709",
+          "publishedOn": "2023-06-15T07:12:02.000Z",
+          "wordCount": null,
+          "title": "USDT面临严重抛压，是做市商们在退出吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42701",
+          "author": null,
+          "description": "USDT在Curve 3pool中占比已经超60%，这是毫无根据的恐慌，还是大型机构掌握了我们所不知道的信息呢？",
+          "link": "https://www.theblockbeats.info/news/42701",
+          "publishedOn": "2023-06-15T06:36:19.000Z",
+          "wordCount": null,
+          "title": "跟着机构走，如何在链上做USDT空头对冲？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42697",
+          "author": null,
+          "description": "去年的CRV多空大战中是如何进行的？",
+          "link": "https://www.theblockbeats.info/news/42697",
+          "publishedOn": "2023-06-15T05:53:37.000Z",
+          "wordCount": null,
+          "title": "CRV创始人套现与抵押行为引发关注：从做空成本到市场影响",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42694",
           "author": null,
           "description": "初期将以激励流动性为主，首周，用户存入USDC可获得额外EXTRA流动性激励。",
