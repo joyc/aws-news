@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-15T00:40:09.821Z</updated>
+    <updated>2023-06-15T06:09:16.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism杠杆收益聚合协议Extra Finance公布激励计划]]></title>
+        <id>https://www.theblockbeats.info/news/42694</id>
+        <link href="https://www.theblockbeats.info/news/42694"/>
+        <updated>2023-06-15T05:28:49.000Z</updated>
+        <summary type="html"><![CDATA[初期将以激励流动性为主，首周，用户存入USDC可获得额外EXTRA流动性激励。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国加密公司Delio与Haru Invest暂停提款，详解事件始末]]></title>
+        <id>https://www.theblockbeats.info/news/42688</id>
+        <link href="https://www.theblockbeats.info/news/42688"/>
+        <updated>2023-06-15T03:45:51.000Z</updated>
+        <summary type="html"><![CDATA[在外界对质疑 Delio 将客户资金存入 Haru Invest 的情况下，很多用户担心可能会出现恐慌和连环挤兑风险。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访Polygon zkEVM：MATIC一个Token就足够了]]></title>
+        <id>https://www.theblockbeats.info/news/42661</id>
+        <link href="https://www.theblockbeats.info/news/42661"/>
+        <updated>2023-06-15T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Polygon PoS和Polygon zkEVM最终会融合在一起，它将是极具可扩展性的。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂ERC-4626：DeFi代币化保险库的新标准]]></title>
+        <id>https://www.theblockbeats.info/news/42678</id>
+        <link href="https://www.theblockbeats.info/news/42678"/>
+        <updated>2023-06-15T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[ERC-4626 是一种标准，它改进了收益型保险库的技术参数，为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜美国法官拒绝SEC冻结Binance.US资产；Uniswap宣布v4版本后Wintermute从CEX提出超87万枚UNI]]></title>
         <id>https://www.theblockbeats.info/news/42682</id>
@@ -1166,49 +1206,6 @@ WatchToweR 研究院
 5、加拿大央行加息 25 个基点。
 
 6、美众议院金融服务委员会主管和农业委员会主管，公布数字资产立法的讨论草案，将成立 CFTC - SEC 数字资产联…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Kakarot：受Vitalik青睐并投资的zkEVM项目]]></title>
-        <id>https://www.theblockbeats.info/news/42584</id>
-        <link href="https://www.theblockbeats.info/news/42584"/>
-        <updated>2023-06-12T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：Yinan以南说
-
-
-简介
-
-
-Kakarot zkEVM 是用 Cairo 编写的以太坊虚拟机（EVM）的实现。Cairo 是与 CairoVM 相关联的图灵完备语言。CairoVM 利用多项式和 ZK-STARK 证明系统实现了可证明的计算。
-
-
-zkEVM 的特点是能生成可证明的交易，因此也可以生成可证明的区块。Kakarot 建立在 CairoVM 之上，因此在 Kakarot 上执行的每一笔交易都是可证明的。
-
-
-总的来说，Kakarot zkEVM 使用 Cairo 语言编写，并利用 ZK-STARK 证明系统提供可证明的计算能力。它使得开发者可以在其上部署 EVM 应用，并使终端用户可以用他们常用的工具链与这些应用进行交互。
-
-
-最后，Kakarot 还将提供与 Starknet 协议的互操作性，为 DeFi 和 GameFi 等不同领域的协议提供了可组合性。
-
-
-
-
-
-路线图
-
-
-该项目于 2022 年 10 月开始，有几个目标：从第一天开始开源，欢迎贡献，最雄心勃勃的是，用不到 10,000 行代码创建一个 zkEVM。
-
-
-Kakarot zkEVM 的路线图分为三个阶段:
-
-
-阶段一: Kakarot zkEVM on Starknet—将 EVM 带到 Starknet
-
-
-Kakarot zkEVM 将首先作为一个内建的 EVM 存在于 Starknet 的 L2 中，使开发者能够在 Starknet 上直接部署他们的 Solidity（或任何 EVM 兼容语言）智能合约，并使用他们熟悉的工具（如 Foundry, Hardhat, Wagmi 等）。他们的终端用户将能够使用他们熟悉的工具链（如 Metamask, Wallet connect 等）与他们的 dApps 进行交互。总的来说，开发者和用户在 Kakarot 上的体验将与 P…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
