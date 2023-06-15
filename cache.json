@@ -364,26 +364,6 @@
           "wordCount": null,
           "title": "AI纪元下，Web 3应走的新方向",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42589",
-          "author": null,
-          "description": "作者: Glimmer @Glimmerllx, William @xswl.eth, Hankester @0xHankester\n导师指导: Jademont, Elaine, Bill @Waterdrip Capital\n\n\n比特币 (Bitcoin)，简称 BTC，是一个基于区块链去中心化共识并且应用点对点网络通信的开源加密货币系统，由分布在全球各地的计算机网络和节点共同维护。BTC 的白皮书由中本聪在 2008 年 10 月 31 日发布，此后的 2009 年 1 月 3 日，BTC 的共识链产生了第一个区块。然而，随着加密社区和生态日渐壮大繁荣，早期的 BTC 技术已无法满足用户对加密货币系统可扩展性的需求。直接改进 BTC 底层协议的复杂度高、社区阻力大，会增加 BTC 系统的风险、导致硬分叉和社区分裂。一个更加合适的方案是 BTC Layer 2，即基于 BTC 构建新的层级而不对 BTC 进行改动，兼容 BTC 的同时，满足用户对扩展性的需求。本文对 BTC Layer 2 进行调查，综合地阐述 BTC 现状、问题以及 BTC Layer 2 的技术方案以及优劣性，并且对其未来进行展望。\n\n\nBTC 的技术简介\n\n\nBTC 的核心是分布式账本技术，使用区块链储存交易数据。区块链是基于哈希指针链表结构，链表的每节是一个数据区块，包含上一个区块的哈希值、交易数据、时间数据、挖矿参数和协议版本信息。BTC 网络中，新区块链的写入权力，即记账权，由节点遵循工作量证明机制 (Proof of Work, PoW) 依靠算力竞争得到。获得记账权的节点成功写入新的区块后，获得一定的比特币代币作为奖励，因此这个过程也被称为挖矿。\n\n\n\nBTC 的区块数据结构，图片来源: https://www3.ntu.edu.sg/home/ehchua/programming/bl…",
-          "link": "https://www.theblockbeats.info/news/42589",
-          "publishedOn": "2023-06-13T06:00:02.000Z",
-          "wordCount": null,
-          "title": "Waterdrip Capital：BTC Layer2前世今生与未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42590",
-          "author": null,
-          "description": "原文标题：《沤珠槿艳，河清海晏｜WTR 6.12》\n原文来源：\n\nWatchToweR 研究院\n\n\n\n本周回顾\n\n\n本周从 6 月 6 日到 6 月 12 日，冰糖橙最高附近$27355，最低接近$25351，震荡幅度达到 7.33% 左右。\n\n\n观察筹码分布图，在约 $26770 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n分析：\n\n\n24000 - 29000 约 322 万枚；\n18500 - 23500 约 209 万枚。\n短期内跌不破在 18000~22000 概率为 58 %；\n其中短期内涨不破 26500～29000 的概率为 71 %。\n\n\n\n \n\n\n重要消息方面\n\n\n经济消息方面\n\n\n1、美国方面：\n\n\n2023 年 4 月，美国的批发库存月度下降 0.1%，低于此前预计的 0.2% 下降。与上一年同期相比，批发库存跃升了 6.3%。\n\n\n美联储第二重要利率决议，美联储 6 月利率维持不变的概率 71.3%。\n\n\n美当周初请失业金人数 26.1 万人，高于预期值 23.5 万人，高于前值 23.2 万人。\n\n\n2、欧盟方面：\n\n\n2023 年一季度，欧元区的季节性调整后 GDP 下降了 0.1%，欧盟 GDP 增长了 0.1%。\n\n\n2023 年 3 月，欧盟的消费者价格指数年增长率为 8.3%，低于前一月的 9.9%。\n\n\n3、亚洲方面：\n\n\n 发展中亚洲的增长预计在今年和 2024 年都为 4.8%，高于去年的 4.2%。\n\n\n中国的复苏和印度的需求将是今年和明年该地区主要的增长支持。\n\n\n4、美证券交易委员会 ( SEC）主管 Gary Gensler ：绝大多数加密代币符合投资合同测试。\n\n\n5、加拿大央行加息 25 个基点。\n\n6、美众议院金融服务委员会主管和农业委员会主管，公布数字资产立法的讨论草案，将成立 CFTC - SEC 数字资产联…",
-          "link": "https://www.theblockbeats.info/news/42590",
-          "publishedOn": "2023-06-13T03:58:38.000Z",
-          "wordCount": null,
-          "title": "第24周链上数据：现货呈现大量流出状态，但抛压有所降低",
-          "imageUrl": null
         }
       ]
     },
