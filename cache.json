@@ -294,36 +294,6 @@
           "wordCount": null,
           "title": "详解Kakarot：受Vitalik青睐并投资的zkEVM项目",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42583",
-          "author": null,
-          "description": "精选要闻：\n1. 香港投资推广署梁瀚璟：港府层面认为资产 Token 化是几百万亿级别的商机；\n2. Tether 于以太坊网络增发 10 亿枚 USDT；\n3. a16z 将在伦敦开设首家海外办事处，并计划启动区块链加速器项目；\n4. 比特币协议 Ordinals 已上线「递归铭文」，可让铭文大小突破 4MB 限制；\n5. CFTC 赢得对 Ooki DAO 缺席判决，开创 DAO 可承担法律责任先例；\n\n\n项目动态\n\n\nTether 于以太坊网络增发 10 亿枚 USDT\n据 Whale Alert 数据显示，稳定币发行商 Tether 于今日 15:56:47 在以太坊网络增发 10 亿枚 USDT。\n\nTether 首席技术官 Paolo Ardoino 补充表示，这是一笔在以太坊网络已授权但未发行的交易，意味着本次增发将用于下一次发行请求和链上交互。\n\n\nBinance 杠杆将下架 BNT/BUSD、CVX/BTC 等逐仓杠杆交易对\nBinance 杠杆将于 6 月 19 日 14:00 移除 BNT/BUSD、CVX/BTC、POLS/BUSD、POWR/BUSD、STPT/BUSD、 STRAX/BUSD 逐仓杠杆杆交易对。\n\n将于 6 月 13 日 14:00 暂停 BNT/BUSD、CVX/BTC、POLS/BUSD、POWR/BUSD、STPT/BUSD、 STRAX/BUSD 逐仓杠杆的借贷业务；将于 6 月 19 日 14:00 对 BNT/BUSD、CVX/BTC、POLS/BUSD、POWR/BUSD、STPT/BUSD、 STRAX/BUSD 逐仓杠杆仓位进行自动平仓和清算，取消用户在逐仓交易对上的所有挂单。此后，将从逐仓杠杆中下架以上逐仓交易对。\n\n\n比特币协议 Ordinals 已上线「递归铭文」，可让铭文大小突破 4MB 限制\n比特币协议…",
-          "link": "https://www.theblockbeats.info/news/42583",
-          "publishedOn": "2023-06-12T10:59:02.000Z",
-          "wordCount": null,
-          "title": "Web3日报｜a16z将在伦敦开设首家海外办事处；Tether于以太坊增发10亿枚USDT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42580",
-          "author": null,
-          "description": "原文来源：Frank，Foresight News\n\n\n链上数据显示，由于近期 CRV 价格的再次下跌，Curve 创始人 Michael Egorov 于昨日再度把 3800 万枚 CRV（2450 万美元）存入 Aave，以降低自己的借贷清算风险。\n\n\n本文 Foresight News 就带大家简单了解一下 Curve 创始人目前究竟在 Aave 抵押了多少 CRV，借了多少钱，花在了哪里，又可能会对后市产生怎样的影响？\n\n\n到底在 Aave 借了多少钱？\n\n\n\n\nDeBank 数据显示，截至发文时，Curve 创始人 Michael Egorov 总计已向 Aave V2 存入超 1.8 亿美元资产，其中主要是 2.77 亿枚 CRV（约 1.78 亿美元）。\n\n\n而他已从 Aave V2 借出 6423 万枚 USDT，目前该地址在 Aave V2 的健康系数为 1.68。\n\n\n\n\n\n此外，他还向 Aave V3 存入超 1410 万枚 CRV（约 909 万美元），并借出约 278 万枚 USDT 与 74.3 万枚 USDC。\n\n\n目前该地址在 Aave v2 的健康系数为 1.68。\n\n\n\n\n\n\n\n综上，截至目前 Curve 创始人已向 Aave 存入 2.91 亿枚 CRV（1.87 亿美元），并借入约 6775 万美元的稳定币。\n\n\n借的钱去哪了？\n\n\n\n\n根据 Lookonchain 数据监测，Curve 创始人 Michael Egorov 历史上通过 Aave 抵押借贷出来的资金，主要分为三个去向：\n\n\n3770 万枚 USDT 存入 Bitfinex；\n5100 万枚 USDC 被转移到 Wintermute Trading；\n1420 枚 USDT 在 USDC 脱钩期间用于购买 ETH 和 USDC；\n\n\n\n\n首先，他总共存入了 3770 万…",
-          "link": "https://www.theblockbeats.info/news/42580",
-          "publishedOn": "2023-06-12T10:57:27.000Z",
-          "wordCount": null,
-          "title": "Curve创始人在Aave的操作揭秘：「套现」还是「惜售」？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42577",
-          "author": null,
-          "description": "据 BlockBeats 统计，上周的融资总数为 17 笔，数量较上周持平，总金额约 20515 万美元，平均融资金额为 1206.76 万美元。其中，资管支付领域占据主体，基础设施和元宇宙/GameFi 领域融资相对较多，社交/创作者经济和 NFT/数字时尚融资数量有所增加，其他领域有所下降，DeFi 领域较少。下图为上周各板块融资占比：\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 3 笔融资，总金额 2550 万美元，占上周融资总额的 12.43%。\n\n\nArgus Labs \n\n\n\n\n\n\n\n6 月 7 日，Web3 游戏工作室 Argus Labs 完成 1000 万美元种子轮融资，Haun Ventures 领投，Robot Ventures、Anagram、Dispersion Capital、Web3 开发公司 Alchemy、Coinbase 前首席技术官 Balaji Srinivasan 等参投。\n\n Argus 是一家游戏开发商和发行商，由一群黑客和设计师组成，致力于追求视频游戏行业的下一个伟大范式转变。Argus 还宣布推出区块链游戏软件开发工具包 World Engine，允许构建者创建自己的 Web3 游戏生态系统。\n\n\nHyperPlay\n\n\n\n\n\n6 月 8 日，Web3 游戏启动平台与多链游戏聚合商店 HyperPlay 完成 1200 万美元融资，Griffin Gaming Partners 与 Bitkraft Ventures 领投，MetaMask 母公司 ConsenSys、Ethereal Ventures、Delphi、Game7、Mirana Ventures、Monoceros Ventures 等参投。\n\n据悉，HyperPlay 由 MetaMask 与 Game7 DAO 于 2022 …",
-          "link": "https://www.theblockbeats.info/news/42577",
-          "publishedOn": "2023-06-12T07:41:03.000Z",
-          "wordCount": null,
-          "title": "2023年第25周融资精选，红杉参投Taiko2200万美元种子轮融资",
-          "imageUrl": null
         }
       ]
     },
