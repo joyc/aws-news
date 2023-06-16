@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42726",
+          "author": null,
+          "description": "就以此次uniswap V4出现的新功能为例，来回顾下那些真实存在于DeFi世界的创新力量。",
+          "link": "https://www.theblockbeats.info/news/42726",
+          "publishedOn": "2023-06-16T03:31:41.000Z",
+          "wordCount": null,
+          "title": "Uniswap V4：框架式创新引领DeFi之路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42724",
+          "author": null,
+          "description": "迄今为止，出于对现货市场潜在欺诈或操纵的担忧，SEC尚未批准任何此类现货 ETF 的申请，包括灰度（Grayscale）、VanEck 和 WisdomTree。",
+          "link": "https://www.theblockbeats.info/news/42724",
+          "publishedOn": "2023-06-16T03:14:30.000Z",
+          "wordCount": null,
+          "title": "监管重压之际，资管巨头贝莱德递交现货比特币ETF申请",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42720",
           "author": null,
           "description": "6月15日加密行业重要资讯一览",
@@ -233,36 +253,6 @@
           "publishedOn": "2023-06-14T01:00:01.000Z",
           "wordCount": null,
           "title": "递归铭文：比特币Ordinals协议的再次创新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42643",
-          "author": null,
-          "description": "V4对Uniswap本身以及整个DeFi都将产生广泛的影响。",
-          "link": "https://www.theblockbeats.info/news/42643",
-          "publishedOn": "2023-06-13T14:13:28.000Z",
-          "wordCount": null,
-          "title": "关于Uniswap V4，你需要知道的一切",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42592",
-          "author": null,
-          "description": "AI对Web3的整顿一方面是，AI技术的出现，分散了资本对Web3的注意力；另一方面是AI使得Web3领域机制和逻辑正在发生改变。",
-          "link": "https://www.theblockbeats.info/news/42592",
-          "publishedOn": "2023-06-13T13:00:01.000Z",
-          "wordCount": null,
-          "title": "AI开始对Web3全行业产生影响力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42640",
-          "author": null,
-          "description": "“我们的目标是在未来六个月内成为交易量排名前三的去中心化交易所。”核心开发者Bob Baxley在谈及Maverick的未来时说道。",
-          "link": "https://www.theblockbeats.info/news/42640",
-          "publishedOn": "2023-06-13T12:58:10.000Z",
-          "wordCount": null,
-          "title": "Binance最新Launchpool，日均资本效率达100%以上Maverick是什么来头",
           "imageUrl": null
         }
       ]

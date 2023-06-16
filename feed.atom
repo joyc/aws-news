@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-16T00:41:23.515Z</updated>
+    <updated>2023-06-16T06:09:34.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap V4：框架式创新引领DeFi之路]]></title>
+        <id>https://www.theblockbeats.info/news/42726</id>
+        <link href="https://www.theblockbeats.info/news/42726"/>
+        <updated>2023-06-16T03:31:41.000Z</updated>
+        <summary type="html"><![CDATA[就以此次uniswap V4出现的新功能为例，来回顾下那些真实存在于DeFi世界的创新力量。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[监管重压之际，资管巨头贝莱德递交现货比特币ETF申请]]></title>
+        <id>https://www.theblockbeats.info/news/42724</id>
+        <link href="https://www.theblockbeats.info/news/42724"/>
+        <updated>2023-06-16T03:14:30.000Z</updated>
+        <summary type="html"><![CDATA[迄今为止，出于对现货市场潜在欺诈或操纵的担忧，SEC尚未批准任何此类现货 ETF 的申请，包括灰度（Grayscale）、VanEck 和 WisdomTree。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜USDT在Curve 3pool中占比倾斜；WSJ称美联储预计年内还有两次加息]]></title>
         <id>https://www.theblockbeats.info/news/42720</id>
@@ -716,36 +736,6 @@ NFT 的碎片化：既然可组合那么是否可进行拆解，对铭文进行�
 
 
 本文来自投稿，不代表 BlockBeats 的观点]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于Uniswap V4，你需要知道的一切]]></title>
-        <id>https://www.theblockbeats.info/news/42643</id>
-        <link href="https://www.theblockbeats.info/news/42643"/>
-        <updated>2023-06-13T14:13:28.000Z</updated>
-        <summary type="html"><![CDATA[V4对Uniswap本身以及整个DeFi都将产生广泛的影响。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI开始对Web3全行业产生影响力]]></title>
-        <id>https://www.theblockbeats.info/news/42592</id>
-        <link href="https://www.theblockbeats.info/news/42592"/>
-        <updated>2023-06-13T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[AI对Web3的整顿一方面是，AI技术的出现，分散了资本对Web3的注意力；另一方面是AI使得Web3领域机制和逻辑正在发生改变。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance最新Launchpool，日均资本效率达100%以上Maverick是什么来头]]></title>
-        <id>https://www.theblockbeats.info/news/42640</id>
-        <link href="https://www.theblockbeats.info/news/42640"/>
-        <updated>2023-06-13T12:58:10.000Z</updated>
-        <summary type="html"><![CDATA[“我们的目标是在未来六个月内成为交易量排名前三的去中心化交易所。”核心开发者Bob Baxley在谈及Maverick的未来时说道。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
