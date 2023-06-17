@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-17T12:11:32.671Z</updated>
+    <updated>2023-06-17T18:07:40.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -236,56 +236,6 @@ Web3 技术营销工作室 SCRIB3 客户经理 Joey Campbell 同样认为，贝�
         <link href="https://www.theblockbeats.info/news/42701"/>
         <updated>2023-06-15T06:36:19.000Z</updated>
         <summary type="html"><![CDATA[USDT在Curve 3pool中占比已经超60%，这是毫无根据的恐慌，还是大型机构掌握了我们所不知道的信息呢？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRV创始人套现与抵押行为引发关注：从做空成本到市场影响]]></title>
-        <id>https://www.theblockbeats.info/news/42697</id>
-        <link href="https://www.theblockbeats.info/news/42697"/>
-        <updated>2023-06-15T05:53:37.000Z</updated>
-        <summary type="html"><![CDATA[去年的CRV多空大战中是如何进行的？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism杠杆收益聚合协议Extra Finance公布激励计划]]></title>
-        <id>https://www.theblockbeats.info/news/42694</id>
-        <link href="https://www.theblockbeats.info/news/42694"/>
-        <updated>2023-06-15T05:28:49.000Z</updated>
-        <summary type="html"><![CDATA[初期将以激励流动性为主，首周，用户存入USDC可获得额外EXTRA流动性激励。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国加密公司Delio与Haru Invest暂停提款，详解事件始末]]></title>
-        <id>https://www.theblockbeats.info/news/42688</id>
-        <link href="https://www.theblockbeats.info/news/42688"/>
-        <updated>2023-06-15T03:45:51.000Z</updated>
-        <summary type="html"><![CDATA[在外界对质疑 Delio 将客户资金存入 Haru Invest 的情况下，很多用户担心可能会出现恐慌和连环挤兑风险。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访Polygon zkEVM：MATIC一个Token就足够了]]></title>
-        <id>https://www.theblockbeats.info/news/42661</id>
-        <link href="https://www.theblockbeats.info/news/42661"/>
-        <updated>2023-06-15T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Polygon PoS和Polygon zkEVM最终会融合在一起，它将是极具可扩展性的。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文读懂ERC-4626：DeFi代币化保险库的新标准]]></title>
-        <id>https://www.theblockbeats.info/news/42678</id>
-        <link href="https://www.theblockbeats.info/news/42678"/>
-        <updated>2023-06-15T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[ERC-4626 是一种标准，它改进了收益型保险库的技术参数，为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>

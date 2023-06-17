@@ -214,56 +214,6 @@
           "wordCount": null,
           "title": "跟着机构走，如何在链上做USDT空头对冲？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42697",
-          "author": null,
-          "description": "去年的CRV多空大战中是如何进行的？",
-          "link": "https://www.theblockbeats.info/news/42697",
-          "publishedOn": "2023-06-15T05:53:37.000Z",
-          "wordCount": null,
-          "title": "CRV创始人套现与抵押行为引发关注：从做空成本到市场影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42694",
-          "author": null,
-          "description": "初期将以激励流动性为主，首周，用户存入USDC可获得额外EXTRA流动性激励。",
-          "link": "https://www.theblockbeats.info/news/42694",
-          "publishedOn": "2023-06-15T05:28:49.000Z",
-          "wordCount": null,
-          "title": "Optimism杠杆收益聚合协议Extra Finance公布激励计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42688",
-          "author": null,
-          "description": "在外界对质疑 Delio 将客户资金存入 Haru Invest 的情况下，很多用户担心可能会出现恐慌和连环挤兑风险。",
-          "link": "https://www.theblockbeats.info/news/42688",
-          "publishedOn": "2023-06-15T03:45:51.000Z",
-          "wordCount": null,
-          "title": "韩国加密公司Delio与Haru Invest暂停提款，详解事件始末",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42661",
-          "author": null,
-          "description": "Polygon PoS和Polygon zkEVM最终会融合在一起，它将是极具可扩展性的。",
-          "link": "https://www.theblockbeats.info/news/42661",
-          "publishedOn": "2023-06-15T03:00:01.000Z",
-          "wordCount": null,
-          "title": "专访Polygon zkEVM：MATIC一个Token就足够了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42678",
-          "author": null,
-          "description": "ERC-4626 是一种标准，它改进了收益型保险库的技术参数，为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。",
-          "link": "https://www.theblockbeats.info/news/42678",
-          "publishedOn": "2023-06-15T01:30:01.000Z",
-          "wordCount": null,
-          "title": "一文读懂ERC-4626：DeFi代币化保险库的新标准",
-          "imageUrl": null
         }
       ]
     },
