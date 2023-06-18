@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-18T06:08:39.974Z</updated>
+    <updated>2023-06-18T12:12:23.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[详解符合MiCA标准的托管稳定币EUROe及其发行商Membrane Finance]]></title>
+        <id>https://www.theblockbeats.info/news/42791</id>
+        <link href="https://www.theblockbeats.info/news/42791"/>
+        <updated>2023-06-18T05:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Membrane Finance在健全的监管框架下运营，遵守芬兰法律，并为即将到来的MiCA要求做好了准备。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arthur Hayes：美国监管加剧，香港拥抱加密，意味着什么？]]></title>
         <id>https://www.theblockbeats.info/news/42788</id>

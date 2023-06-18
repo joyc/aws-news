@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42791",
+          "author": null,
+          "description": "Membrane Finance在健全的监管框架下运营，遵守芬兰法律，并为即将到来的MiCA要求做好了准备。",
+          "link": "https://www.theblockbeats.info/news/42791",
+          "publishedOn": "2023-06-18T05:55:29.000Z",
+          "wordCount": null,
+          "title": "详解符合MiCA标准的托管稳定币EUROe及其发行商Membrane Finance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42788",
           "author": null,
           "description": "David问我：「SEC对Coinbase和Binance的调查是怎么回事?」我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。",
