@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-18T12:12:23.685Z</updated>
+    <updated>2023-06-18T18:08:15.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一周前瞻：Binance JAPAN将于6月23日后开放；阿迪达斯将推出绑定NFT的Token门控运动鞋]]></title>
+        <id>https://www.theblockbeats.info/news/42794</id>
+        <link href="https://www.theblockbeats.info/news/42794"/>
+        <updated>2023-06-18T13:17:21.000Z</updated>
+        <summary type="html"><![CDATA[6月19日至6月23日要点事件前瞻]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[详解符合MiCA标准的托管稳定币EUROe及其发行商Membrane Finance]]></title>
         <id>https://www.theblockbeats.info/news/42791</id>
@@ -186,36 +196,6 @@ Web3 技术营销工作室 SCRIB3 客户经理 Joey Campbell 同样认为，贝�
         <link href="https://www.theblockbeats.info/news/42730"/>
         <updated>2023-06-16T07:00:02.000Z</updated>
         <summary type="html"><![CDATA[代币标准化和合规化是RWA赛道发展的必经之路。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年Crypto领域五大黑客攻击事件]]></title>
-        <id>https://www.theblockbeats.info/news/42735</id>
-        <link href="https://www.theblockbeats.info/news/42735"/>
-        <updated>2023-06-16T05:51:40.000Z</updated>
-        <summary type="html"><![CDATA[本文详述了2023年加密领域五大黑客攻击事件，揭示了其攻击方式和所导致的巨大损失，借此提醒大众时刻关注资金安全。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap V4：框架式创新引领DeFi之路]]></title>
-        <id>https://www.theblockbeats.info/news/42726</id>
-        <link href="https://www.theblockbeats.info/news/42726"/>
-        <updated>2023-06-16T03:31:41.000Z</updated>
-        <summary type="html"><![CDATA[就以此次uniswap V4出现的新功能为例，来回顾下那些真实存在于DeFi世界的创新力量。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[监管重压之际，资管巨头贝莱德递交现货比特币ETF申请]]></title>
-        <id>https://www.theblockbeats.info/news/42724</id>
-        <link href="https://www.theblockbeats.info/news/42724"/>
-        <updated>2023-06-16T03:14:30.000Z</updated>
-        <summary type="html"><![CDATA[迄今为止，出于对现货市场潜在欺诈或操纵的担忧，SEC尚未批准任何此类现货 ETF 的申请，包括灰度（Grayscale）、VanEck 和 WisdomTree。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
