@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42788",
+          "author": null,
+          "description": "David问我：「SEC对Coinbase和Binance的调查是怎么回事?」我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。",
+          "link": "https://www.theblockbeats.info/news/42788",
+          "publishedOn": "2023-06-18T03:19:05.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes：美国监管加剧，香港拥抱加密，意味着什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42785",
+          "author": null,
+          "description": "回顾6月11日-6月17日热门事件、深度佳文。",
+          "link": "https://www.theblockbeats.info/news/42785",
+          "publishedOn": "2023-06-18T02:40:24.000Z",
+          "wordCount": null,
+          "title": "本周热门回顾｜Binance上线Launchpool新项目；黄立成起诉链上分析师ZachXBT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42782",
           "author": null,
           "description": "以太坊区块链试图强迫美国参与者参与非法交易。除了在参与区块链方面制造不利因素外，这可能还会带来更大的法律问题。",
