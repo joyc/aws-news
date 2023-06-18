@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-17T18:07:40.246Z</updated>
+    <updated>2023-06-18T00:45:04.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -186,56 +186,6 @@ Web3 技术营销工作室 SCRIB3 客户经理 Joey Campbell 同样认为，贝�
         <link href="https://www.theblockbeats.info/news/42724"/>
         <updated>2023-06-16T03:14:30.000Z</updated>
         <summary type="html"><![CDATA[迄今为止，出于对现货市场潜在欺诈或操纵的担忧，SEC尚未批准任何此类现货 ETF 的申请，包括灰度（Grayscale）、VanEck 和 WisdomTree。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜USDT在Curve 3pool中占比倾斜；WSJ称美联储预计年内还有两次加息]]></title>
-        <id>https://www.theblockbeats.info/news/42720</id>
-        <link href="https://www.theblockbeats.info/news/42720"/>
-        <updated>2023-06-15T11:05:31.000Z</updated>
-        <summary type="html"><![CDATA[6月15日加密行业重要资讯一览]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧易OKX获迪拜虚拟资产监管局颁发的MVP预备许可证]]></title>
-        <id>https://www.theblockbeats.info/news/42718</id>
-        <link href="https://www.theblockbeats.info/news/42718"/>
-        <updated>2023-06-15T10:44:11.000Z</updated>
-        <summary type="html"><![CDATA[欧易 OKX 计划扩大中东业务作为其全球重要战略增长和业务中心]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SignalPlus研报：美联储维持利率不变，即使与会者呼吁年底前需再加息]]></title>
-        <id>https://www.theblockbeats.info/news/42700</id>
-        <link href="https://www.theblockbeats.info/news/42700"/>
-        <updated>2023-06-15T08:00:02.000Z</updated>
-        <summary type="html"><![CDATA[FOMC 尽其所能地在维持利率不变的同时，通过提高前瞻利率预测以及鹰派论述来实现“鹰派跳过加息”，再次试图取得一个良好平衡。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDT面临严重抛压，是做市商们在退出吗？]]></title>
-        <id>https://www.theblockbeats.info/news/42709</id>
-        <link href="https://www.theblockbeats.info/news/42709"/>
-        <updated>2023-06-15T07:12:02.000Z</updated>
-        <summary type="html"><![CDATA[在种种信息的暗示下，我们不禁联想，今天Curve 3Pool池的严重倾斜，是否也与机构退场有关？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跟着机构走，如何在链上做USDT空头对冲？]]></title>
-        <id>https://www.theblockbeats.info/news/42701</id>
-        <link href="https://www.theblockbeats.info/news/42701"/>
-        <updated>2023-06-15T06:36:19.000Z</updated>
-        <summary type="html"><![CDATA[USDT在Curve 3pool中占比已经超60%，这是毫无根据的恐慌，还是大型机构掌握了我们所不知道的信息呢？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
