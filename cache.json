@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42810",
+          "author": null,
+          "description": "LSDfi 增势迅猛，规模不到 LSD 本身的3%，后续提升空间巨大。",
+          "link": "https://www.theblockbeats.info/news/42810",
+          "publishedOn": "2023-06-19T08:21:06.000Z",
+          "wordCount": null,
+          "title": "Binance研究院LSDfi报告：当流动性质押与DeFi相遇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42809",
+          "author": null,
+          "description": "SEC对加密货币交易平台Binance和Coinbase提出了正式诉讼，这引发了市场的大规模抛售及涉及证券定义的代币被下架等一系列连锁事件。",
+          "link": "https://www.theblockbeats.info/news/42809",
+          "publishedOn": "2023-06-19T08:16:35.000Z",
+          "wordCount": null,
+          "title": "Binance和Coinbase面临SEC的指控：详解市场反应与影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42797",
+          "author": null,
+          "description": "DEX Perp的叙事能否引领加密世界的发展？",
+          "link": "https://www.theblockbeats.info/news/42797",
+          "publishedOn": "2023-06-19T07:00:01.000Z",
+          "wordCount": null,
+          "title": "Vela Exchange：去中心化永续合约赛道的后起之秀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42806",
+          "author": null,
+          "description": "为比特币网络引入「质押挖矿」，BRC-20S将带来哪些可能性？",
+          "link": "https://www.theblockbeats.info/news/42806",
+          "publishedOn": "2023-06-19T06:10:37.000Z",
+          "wordCount": null,
+          "title": "新的BRC-20S，能开启比特币上的「DeFi之夏」吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42798",
           "author": null,
           "description": "据 BlockBeats 统计，上周的融资总数为 16 笔，数量较之前有小幅下降，总金额约 22631.5 万美元，平均融资金额为 708.22 万美元。其中，其他领域占据主体，数字资管/支付、社交/创作者经济领域融资相对较多，NFT/数字时尚和基础设施有所下降，DeFi 领域和元宇宙/GameFi 较少。下图为上周各板块融资占比：\n\n\n\n\n\n\nNFT/数字时尚\n\n\n\n在 NFT/数字时尚领域共计 3 笔融资，总金额 380 万美元，占上周融资总额的 1.85%。\n\n\nCollectibles.com\n\n\n\n\n\n\n\n6 月 13 日，Web3 收藏平台 Collectibles.com 宣布完成 500 万美元种子轮融资，Blockchange Ventures 领投，GFR Fund、Peter Thiel、Blockwall Capital 等参投。据悉，Collectibles.com 正在建立基于 Collectibles Protocol 的 Web3 收藏家社区和市场。\n\n\n\n作为定义类别的品牌领域，Collectibles.com 有望成为目前分散的收藏世界的主要目的地，通过提供实用的工具、技术和资源，将收藏家的需求和偏好放在首位和中心。与大多数严格的交易性现有应用程序、网站和传统市场不同，Collectibles.com 将拥有一个强大、互联的社区，通过他们共同的兴趣和激情将全球收藏家团结起来，\n\n\nMnemonic \n\n\n\n\n\n\n\n6 月 14 日，NFT 数据平台 Mnemonic 完成 600 万美元种子扩展轮融资，Salesforce Ventures 领投，Polygon Ventures、Orange DAO、FIN Capital 和 FJ Labs 参投，本轮融资资金将用于扩展 API 套件。\n\n\n\nMnemonic 正在通过构建数据和分析平…",

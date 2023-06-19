@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-19T06:10:38.651Z</updated>
+    <updated>2023-06-19T12:14:18.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Binance研究院LSDfi报告：当流动性质押与DeFi相遇]]></title>
+        <id>https://www.theblockbeats.info/news/42810</id>
+        <link href="https://www.theblockbeats.info/news/42810"/>
+        <updated>2023-06-19T08:21:06.000Z</updated>
+        <summary type="html"><![CDATA[LSDfi 增势迅猛，规模不到 LSD 本身的3%，后续提升空间巨大。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance和Coinbase面临SEC的指控：详解市场反应与影响]]></title>
+        <id>https://www.theblockbeats.info/news/42809</id>
+        <link href="https://www.theblockbeats.info/news/42809"/>
+        <updated>2023-06-19T08:16:35.000Z</updated>
+        <summary type="html"><![CDATA[SEC对加密货币交易平台Binance和Coinbase提出了正式诉讼，这引发了市场的大规模抛售及涉及证券定义的代币被下架等一系列连锁事件。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vela Exchange：去中心化永续合约赛道的后起之秀]]></title>
+        <id>https://www.theblockbeats.info/news/42797</id>
+        <link href="https://www.theblockbeats.info/news/42797"/>
+        <updated>2023-06-19T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[DEX Perp的叙事能否引领加密世界的发展？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的BRC-20S，能开启比特币上的「DeFi之夏」吗？]]></title>
+        <id>https://www.theblockbeats.info/news/42806</id>
+        <link href="https://www.theblockbeats.info/news/42806"/>
+        <updated>2023-06-19T06:10:37.000Z</updated>
+        <summary type="html"><![CDATA[为比特币网络引入「质押挖矿」，BRC-20S将带来哪些可能性？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年第26周融资精选，Polygon参投DID初创公司 Intuition]]></title>
         <id>https://www.theblockbeats.info/news/42798</id>
