@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-18T18:08:15.094Z</updated>
+    <updated>2023-06-19T00:40:35.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -102,100 +102,6 @@
         <link href="https://www.theblockbeats.info/news/42770"/>
         <updated>2023-06-16T14:03:09.000Z</updated>
         <summary type="html"><![CDATA[Tether：依然致力于透明度，并将客户的隐私和安全放在首位]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜贝莱德旗下iShares向SEC提交现货比特币ETF申请；Frax Finance将推出以太坊Layer2网络Fraxchain]]></title>
-        <id>https://www.theblockbeats.info/news/42761</id>
-        <link href="https://www.theblockbeats.info/news/42761"/>
-        <updated>2023-06-16T11:17:38.000Z</updated>
-        <summary type="html"><![CDATA[6月16日加密行业重要资讯一览]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celsius债务人或将出售山寨币，哪些Token是大额持仓？]]></title>
-        <id>https://www.theblockbeats.info/news/42758</id>
-        <link href="https://www.theblockbeats.info/news/42758"/>
-        <updated>2023-06-16T10:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Celsius债务人持有山寨币总价值约为 2.18 亿美元，前五类山寨币账面价值超过千万美元。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝莱德向SEC申请的，到底是比特币ETF还是信托？]]></title>
-        <id>https://www.theblockbeats.info/news/42751</id>
-        <link href="https://www.theblockbeats.info/news/42751"/>
-        <updated>2023-06-16T10:15:35.000Z</updated>
-        <summary type="html"><![CDATA[全球规模最大的资管巨头之一贝莱德 (BlackRock) 今晨通过子公司 iShares 向美 SEC 提交了现货比特币 ETF 的文件申请，该申请文件显示，此次申请的基金被命名为「iShares Bitcoin Trust」，其资产「主要由代表该信托托管人持有的比特币组成」。
-
-
-
-针对此次贝莱德申请的到底是现货 ETF 还是信托，在加密业界引发了巨大分歧和争议，有人认为贝莱德此次申请的是信托，但和 Grayscale 发行的 GBTC 这类信托基金又不一样，它更加灵活，可供赎回，另一种观点则认为这次贝莱德申请的是一种另类结构的 ETF，它代表的是公开上市的比特币信托基金股票，它和 GBTC 这类金融工具完全不一样，反而更像是 GLD 和贝莱德旗下安硕（iShares）管理的多支知名 ETF 基金。
-
-
-
-贝莱德申请的到底是现货 ETF 还是信托？来自加密行业的分析师、投资人和专业人士又各自持有哪些论点？以及从传统金融的角度来看，ETF 和信托各自的定义、主要区别、投资风险和各自的优缺点又是什么？接下来本文将为你理清这些迷思。
-
-
-
-贝莱德申请的是信托吗？
-
-
-
-Pomp Investments 投资人 Anthony Pompliano 认为贝莱德申请的是信托，而非比特币 ETF。虽然两者在技术上有所不同，尤其是当涉及到监管批准方面的情况下，但对于投资者来说，结果是一样的。Anthony Pompliano 发推称，GBTC 就是一种信托，因此你不能从基金中赎回它。贝莱德也是一种信托，但你可以赎回它。如果该申请被批准，对投资者来说是一个巨大的胜利。不过，最大的利好仍然是一个真正的比特币现货 ETF 被 SEC 批准。
-
-
-
-
-
-
-
-Web3 技术营销工作室 SCRIB3 客户经理 Joey Campbell 同样认为，贝莱德提交的是信托，他发布推文称，「目前我们有人对「…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝莱德高压监管下申请比特币ETF，为何加密社区却普遍唱衰？]]></title>
-        <id>https://www.theblockbeats.info/news/42749</id>
-        <link href="https://www.theblockbeats.info/news/42749"/>
-        <updated>2023-06-16T09:47:26.000Z</updated>
-        <summary type="html"><![CDATA[对于贝莱德顶住监管压力的“逆势操作”，许多人并没有将贝莱德的比特币ETF申请视为以往那样的积极信号。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国对加密行业展开「全政府」打击，加密资源正在逃离？]]></title>
-        <id>https://www.theblockbeats.info/news/42746</id>
-        <link href="https://www.theblockbeats.info/news/42746"/>
-        <updated>2023-06-16T09:19:16.000Z</updated>
-        <summary type="html"><![CDATA[美国政府是否在有组织地打击加密？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析零知识证明扩容方案先行者zkSync Era]]></title>
-        <id>https://www.theblockbeats.info/news/42743</id>
-        <link href="https://www.theblockbeats.info/news/42743"/>
-        <updated>2023-06-16T08:44:27.000Z</updated>
-        <summary type="html"><![CDATA[本文将介绍第一个上线主网使用 zk-rollup 技术的二层网路 zkSync 从公链本身介绍到生态项目的发展，从基本面、数据面再到生态系做全盘的解析。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA代币化：弥合加密市场和传统金融之间的巨大差距]]></title>
-        <id>https://www.theblockbeats.info/news/42730</id>
-        <link href="https://www.theblockbeats.info/news/42730"/>
-        <updated>2023-06-16T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[代币标准化和合规化是RWA赛道发展的必经之路。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
