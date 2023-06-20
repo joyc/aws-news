@@ -6,6 +6,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42833",
+          "author": null,
+          "description": "原文作者： Pedro Solimano\n原文编译：深潮 TechFlow\n\n\n\n\n\n周末，一种在以太坊上刻写图像的新协议引起了人们的浓厚兴趣，它允许使用调用数据在以太坊上创建和共享数字对象——被称为 Ethscriptions，显然是对 Inscriptions 的致敬。\n\n\n该项目由 Genius.com 的联合创始人兼前 CEO Tom Lehman 开发，一推出就引起了爆炸性的关注。据 Lehman 称，在不到 18 小时内就创建了近 30, 000 个 Ethscriptions，并在推特上表示该发布是一个“巨大的成功”。\n\n\nEthscriptions 是如何工作？\n\n\n任何成功的以太坊交易，其输入数据（解释为 UTF-8 时）是有效的数据 URI 时，将创建一个 Ethscription，前提是数据 URI 是唯一的。重复的内容将被忽略。所有有效的 MIME 类型都受支持。\n\n\n对于 URI 要想保持唯一，必须满足前一个块或同一块中较早的交易中没有任何具有相同内容的 Ethscription。\n\n\n任何输入数据是有效 Ethscription 的交易哈希的以太坊交易都是有效的 Ethscription 传输，前提是交易发送者是 Ethscription 的所有者。\n\n\nEthscriptions 使得非金融和任意数据可以被写入以太坊区块链，只要文件大小不超过 96 千字节，用户可以刻录任何类型的文件。据其创建者称，虽然目前它只允许图片——但将来会有所改变。\n\n\n这些刻录利用了所谓的以太坊“调用数据（Calldata）”，它指的是在对智能合约的调用中提供的数据。Lehman 表示，这比使用合约存储更便宜且更去中心化。 这个协议“保证所有有效的 Ethscriptions 内容的唯一的”，创建者在推特上写道。\n\n\n于 Ordinals 不同的是，以太坊社区明显对这次创新和实验持开放态度。\n\n\n“对我来说，Ethscriptions 的令人兴奋之处，就像 Ordinals 一样，是开发人员再次使用区块链技术，”自称 NFT 考古学家 Adam McBride 说。“正是这种实验推动了创新和采用。”与 Ordinal 的热潮一样，Eths 也吸引了大量用户的关注，甚至导致 Ethscriptions 出现了数次停机。\n\n\n下面以 ETHS 为例，简单介绍关于 Ethscriptions 的铭刻方法：\n\n\n复制代码，data:，{\"p\":\"erc-20\"，\"op\":\"mint\"，\"tick\":\"eths\"，\"id\":\"21000 以内的任意数字\"，\"amt\":\"1000\"}，进行转码网站转为 16 进制；\n\n\n打开钱包，向自己的地址转入 0 ETH，并将转码获得的 16 进制复制填写；\n\n\n确认付款即可。\n\n\n同样，有 Fomo 就有 Fud，有不少社区认为 Ethscriptions 是在“开倒车”。加密 KOL Chainleft 也认为 Ethscriptions 并没有什么创新。首先，虽然该协议于周末首次亮相，但早在 2016 年，人们一直在调用数据中存储自定义数据 / 艺术，这项技术已经存在多年。他们主要是通过突破当时工具 / 技术的界限来做到这一点的，这也不是存储艺术品的理想方式。虽然可以进行访问，但它没有被分配给代币，这就是为什么 Ethscriptions 试图通过链外共识（公平）来解决这个问题。\n\n\n其次，在功能上，状态数据有着更完善的功能，比如运行时的动态性或艺术的可编程性。再于 Inscriptions（IS）进行比较，IS 比 ES 被修剪的可能性要小得多。IS 的存储节点也比 ES 多，ES 可以被 ETH 原生合约调用，而 IS 不能，两者都不能执行运行时函数。\n\n\n\n\n\n总的来说，关于 Ethscriptions 是昙花一现的泡沫，还是一个令人兴奋的新趋势众说纷纭，而这最终的决定权取决于社区的共识。\n\n\n参考内容：\nhttps://twitter.com/ChainLeftist/status/1670071115064942599 \nhttps://twitter.com/dumbnamenumbers/status/1669822912579223552\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/42833",
+          "publishedOn": "2023-06-20T12:30:02.000Z",
+          "wordCount": null,
+          "title": "Ethscriptions：以太坊上的新协议是泡沫还是趋势？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42854",
+          "author": null,
+          "description": "精选要闻：\n\n1. 疑似 Amber Group 地址近期从 Binance 提出 50 万枚 ARB；\n\n2. Binance Labs 投资其孵化计划第五季中的 5 个项目，包括 DeFi、基础设施等领域；\n\n3. KuCoin 回应传闻：平台一切正常运行，用户资金是安全的；\n\n4. 黄立成：ZachXBT 对我的指控并不属实，但只能在法庭上才能获得公正的审判；\n\n5. NFT 巨鲸 Franklin 在沉寂 2 个月后再度开启 NFT 交易，花费约 190 ETH 买入 9 枚 NFT；\n\n6. 比特币市占率现报 46.6%，创下自 2021 年 5 月后新高；\n\n\n项目动态\n\n\nBinance Labs 投资其孵化计划第五季中的 5 个项目，包括 DeFi、基础设施等领域\nBinance Labs 已投资其孵化计划第五季中的 5 个项目，所选项目涵盖 Web3 的各个领域，包括 DeFi、基础设施、工具和中间件。具体项目细节如下： \n\n\n zkPass，一种基于多方计算 (MPC) 和零知识证明 (ZKP) 技术的 Web3 可组合、隐私保护的去中心化身份验证解决方案。zkPass 旨在使用最新的密码技术为 Web3 应用程序提供安全且保护隐私的身份验证解决方案。 \n\n\n Mind Network，一个全加密网络，建立在获得专利的自适应全同态加密 (FHE) 框架之上，以保护 Web3 上的所有用户数据、智能合约和人工智能。它被用作去中心化的隐私保护数据湖，提供加密的高性能按需付费数据存储和计算。\n\n\nKryptoskatt，一个为全球用户简化 Web3 财务的项目，提供一套全面的解决方案，包括会计、投资组合管理和税务报告。Kryptoskatt 支持 2000 多种 DeFi 协议、100 多个交易平台和钱包以及 50 多个区块链，是满足所有 Web3 金融需求的…",
+          "link": "https://www.theblockbeats.info/news/42854",
+          "publishedOn": "2023-06-20T11:23:02.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜疑似Amber Group地址从Binance提出50万枚ARB；比特币市占率创2021年5月后新高",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42848",
           "author": null,
           "description": "原文来源：@concodanomics，货币政策分析师\n原文编译：BlockBeats\n\n\n\n\n\n\n\n\n\n全球市场的流动性减少已经开始，数千亿的储备将离开系统。但这种减少不仅可能无法抑制风险资产，还可能导致隐蔽市场的紧缩，使得美联储再次实施宽松政策而不需要转向，此处回购市场的流动性将发挥重要作用。\n\n\n最近，我们目睹了「暂时性政策」的影响，即美联储在收紧政策方面的沉默和不作为导致金融机器推动风险资产飙升。「TGA 补充」未能结束历史上最令人讨厌的上涨行情——市场需要更多的紧缩政策。\n\n\n美国政府正在补充其银行账户（TGA）以支付账单，同时通过 QT（量化紧缩）减少美联储的资产负债表。如果随后的储备减少过于严重，美联储可能会在最关键的融资市场中遇到一个意外的惊喜...\n\n\n\n\n\n回购市场是美国帝国金融引擎的润滑剂。没有它，美元流动性将变得乏味。通过套利交易（如期货基差）将国债现金市场和期货市场捆绑在一起仅仅是其众多功能之一。\n\n\n\n\n\n但最重要的是，回购市场使得「有抵押」的美元贷款在全球范围内繁荣发展。它看起来很复杂，但实际上只是一个将现金贷款方（如必须投资普通美元的货币基金）与现金借款方（如必须为杠杆头寸提供资金的对冲基金）进行匹配的市场。\n\n\n\n\n\n\n\n\n\n当 Conk 的回购市场康加舞（Repo Conga）揭示出来时，一切变得清晰起来。回购市场是一个由市场参与者组成的链条，他们希望通过在融资成本之上收取利差来获利。现金贷款方通过经销商向「复杂」的借款方提供贷款，经销商收取利差进行中介。\n\n\n在典型的「康加舞」中，货币市场基金（MMFs）向美联储的主要交易商提供贷款，然后主要交易商再向较小的证券交易商提供贷款，最后证券交易商向对冲基金等杠杆投资者提供贷款。回购市场的目标是提供源源不断的流动性，而且它以惊人的方式取得了成功。\n\n\n回购市场包含多个部分，每个部分在提供流动性…",
@@ -183,36 +203,6 @@
           "publishedOn": "2023-06-18T13:17:21.000Z",
           "wordCount": null,
           "title": "一周前瞻：Binance JAPAN将于6月23日后开放；阿迪达斯将推出绑定NFT的Token门控运动鞋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42791",
-          "author": null,
-          "description": "Membrane Finance在健全的监管框架下运营，遵守芬兰法律，并为即将到来的MiCA要求做好了准备。",
-          "link": "https://www.theblockbeats.info/news/42791",
-          "publishedOn": "2023-06-18T05:55:29.000Z",
-          "wordCount": null,
-          "title": "详解符合MiCA标准的托管稳定币EUROe及其发行商Membrane Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42788",
-          "author": null,
-          "description": "David问我：「SEC对Coinbase和Binance的调查是怎么回事?」我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。",
-          "link": "https://www.theblockbeats.info/news/42788",
-          "publishedOn": "2023-06-18T03:19:05.000Z",
-          "wordCount": null,
-          "title": "Arthur Hayes：美国监管加剧，香港拥抱加密，意味着什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42785",
-          "author": null,
-          "description": "回顾6月11日-6月17日热门事件、深度佳文。",
-          "link": "https://www.theblockbeats.info/news/42785",
-          "publishedOn": "2023-06-18T02:40:24.000Z",
-          "wordCount": null,
-          "title": "本周热门回顾｜Binance上线Launchpool新项目；黄立成起诉链上分析师ZachXBT",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-20T12:12:45.224Z</updated>
+    <updated>2023-06-20T18:07:32.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ethscriptions：以太坊上的新协议是泡沫还是趋势？]]></title>
+        <id>https://www.theblockbeats.info/news/42833</id>
+        <link href="https://www.theblockbeats.info/news/42833"/>
+        <updated>2023-06-20T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[原文作者： Pedro Solimano
+原文编译：深潮 TechFlow
+
+
+
+
+
+周末，一种在以太坊上刻写图像的新协议引起了人们的浓厚兴趣，它允许使用调用数据在以太坊上创建和共享数字对象——被称为 Ethscriptions，显然是对 Inscriptions 的致敬。
+
+
+该项目由 Genius.com 的联合创始人兼前 CEO Tom Lehman 开发，一推出就引起了爆炸性的关注。据 Lehman 称，在不到 18 小时内就创建了近 30, 000 个 Ethscriptions，并在推特上表示该发布是一个“巨大的成功”。
+
+
+Ethscriptions 是如何工作？
+
+
+任何成功的以太坊交易，其输入数据（解释为 UTF-8 时）是有效的数据 URI 时，将创建一个 Ethscription，前提是数据 URI 是唯一的。重复的内容将被忽略。所有有效的 MIME 类型都受支持。
+
+
+对于 URI 要想保持唯一，必须满足前一个块或同一块中较早的交易中没有任何具有相同内容的 Ethscription。
+
+
+任何输入数据是有效 Ethscription 的交易哈希的以太坊交易都是有效的 Ethscription 传输，前提是交易发送者是 Ethscription 的所有者。
+
+
+Ethscriptions 使得非金融和任意数据可以被写入以太坊区块链，只要文件大小不超过 96 千字节，用户可以刻录任何类型的文件。据其创建者称，虽然目前它只允许图片——但将来会有所改变。
+
+
+这些刻录利用了所谓的以太坊“调用数据（Calldata）”，它指的是在对智能合约的调用中提供的数据。Lehman 表示，这比使用合约存储更便宜且更去中心化。 这个协议“保证所有有效的 Ethscriptions 内容的唯一的”，创建者在推特上写道。
+
+
+于 Ordinals 不同的是，以太坊社区明显对这次创新和实验持开放态度。
+
+
+“对我来说，Ethscriptions 的令人兴奋之处，就像 Ordinals 一样，是开发人员再次使用区块链技术，”自称 NFT 考古学家 Adam McBride 说。“正是这种实验推动了创新和采用。”与 Ordinal 的热潮一样，Eths 也吸引了大量用户的关注，甚至导致 Ethscriptions 出现了数次停机。
+
+
+下面以 ETHS 为例，简单介绍关于 Ethscriptions 的铭刻方法：
+
+
+复制代码，data:，{"p":"erc-20"，"op":"mint"，"tick":"eths"，"id":"21000 以内的任意数字"，"amt":"1000"}，进行转码网站转为 16 进制；
+
+
+打开钱包，向自己的地址转入 0 ETH，并将转码获得的 16 进制复制填写；
+
+
+确认付款即可。
+
+
+同样，有 Fomo 就有 Fud，有不少社区认为 Ethscriptions 是在“开倒车”。加密 KOL Chainleft 也认为 Ethscriptions 并没有什么创新。首先，虽然该协议于周末首次亮相，但早在 2016 年，人们一直在调用数据中存储自定义数据 / 艺术，这项技术已经存在多年。他们主要是通过突破当时工具 / 技术的界限来做到这一点的，这也不是存储艺术品的理想方式。虽然可以进行访问，但它没有被分配给代币，这就是为什么 Ethscriptions 试图通过链外共识（公平）来解决这个问题。
+
+
+其次，在功能上，状态数据有着更完善的功能，比如运行时的动态性或艺术的可编程性。再于 Inscriptions（IS）进行比较，IS 比 ES 被修剪的可能性要小得多。IS 的存储节点也比 ES 多，ES 可以被 ETH 原生合约调用，而 IS 不能，两者都不能执行运行时函数。
+
+
+
+
+
+总的来说，关于 Ethscriptions 是昙花一现的泡沫，还是一个令人兴奋的新趋势众说纷纭，而这最终的决定权取决于社区的共识。
+
+
+参考内容：
+https://twitter.com/ChainLeftist/status/1670071115064942599 
+https://twitter.com/dumbnamenumbers/status/1669822912579223552
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜疑似Amber Group地址从Binance提出50万枚ARB；比特币市占率创2021年5月后新高]]></title>
+        <id>https://www.theblockbeats.info/news/42854</id>
+        <link href="https://www.theblockbeats.info/news/42854"/>
+        <updated>2023-06-20T11:23:02.000Z</updated>
+        <summary type="html"><![CDATA[精选要闻：
+
+1. 疑似 Amber Group 地址近期从 Binance 提出 50 万枚 ARB；
+
+2. Binance Labs 投资其孵化计划第五季中的 5 个项目，包括 DeFi、基础设施等领域；
+
+3. KuCoin 回应传闻：平台一切正常运行，用户资金是安全的；
+
+4. 黄立成：ZachXBT 对我的指控并不属实，但只能在法庭上才能获得公正的审判；
+
+5. NFT 巨鲸 Franklin 在沉寂 2 个月后再度开启 NFT 交易，花费约 190 ETH 买入 9 枚 NFT；
+
+6. 比特币市占率现报 46.6%，创下自 2021 年 5 月后新高；
+
+
+项目动态
+
+
+Binance Labs 投资其孵化计划第五季中的 5 个项目，包括 DeFi、基础设施等领域
+Binance Labs 已投资其孵化计划第五季中的 5 个项目，所选项目涵盖 Web3 的各个领域，包括 DeFi、基础设施、工具和中间件。具体项目细节如下： 
+
+
+ zkPass，一种基于多方计算 (MPC) 和零知识证明 (ZKP) 技术的 Web3 可组合、隐私保护的去中心化身份验证解决方案。zkPass 旨在使用最新的密码技术为 Web3 应用程序提供安全且保护隐私的身份验证解决方案。 
+
+
+ Mind Network，一个全加密网络，建立在获得专利的自适应全同态加密 (FHE) 框架之上，以保护 Web3 上的所有用户数据、智能合约和人工智能。它被用作去中心化的隐私保护数据湖，提供加密的高性能按需付费数据存储和计算。
+
+
+Kryptoskatt，一个为全球用户简化 Web3 财务的项目，提供一套全面的解决方案，包括会计、投资组合管理和税务报告。Kryptoskatt 支持 2000 多种 DeFi 协议、100 多个交易平台和钱包以及 50 多个区块链，是满足所有 Web3 金融需求的…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么说风险资产的进一步走强不必依赖于美联储降息？]]></title>
         <id>https://www.theblockbeats.info/news/42848</id>
@@ -653,36 +767,6 @@ Mnemonic 正在通过构建数据和分析平…]]></summary>
         <link href="https://www.theblockbeats.info/news/42794"/>
         <updated>2023-06-18T13:17:21.000Z</updated>
         <summary type="html"><![CDATA[6月19日至6月23日要点事件前瞻]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解符合MiCA标准的托管稳定币EUROe及其发行商Membrane Finance]]></title>
-        <id>https://www.theblockbeats.info/news/42791</id>
-        <link href="https://www.theblockbeats.info/news/42791"/>
-        <updated>2023-06-18T05:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Membrane Finance在健全的监管框架下运营，遵守芬兰法律，并为即将到来的MiCA要求做好了准备。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthur Hayes：美国监管加剧，香港拥抱加密，意味着什么？]]></title>
-        <id>https://www.theblockbeats.info/news/42788</id>
-        <link href="https://www.theblockbeats.info/news/42788"/>
-        <updated>2023-06-18T03:19:05.000Z</updated>
-        <summary type="html"><![CDATA[David问我：「SEC对Coinbase和Binance的调查是怎么回事?」我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周热门回顾｜Binance上线Launchpool新项目；黄立成起诉链上分析师ZachXBT]]></title>
-        <id>https://www.theblockbeats.info/news/42785</id>
-        <link href="https://www.theblockbeats.info/news/42785"/>
-        <updated>2023-06-18T02:40:24.000Z</updated>
-        <summary type="html"><![CDATA[回顾6月11日-6月17日热门事件、深度佳文。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
