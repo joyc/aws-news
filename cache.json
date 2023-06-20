@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42821",
+          "author": null,
+          "description": "原文标题：《\n\n一文读懂 BNB Chain 新推出的 Layer 2 网络 opBNB\n\n》\n原文来源：\n\nOdaily 星球日报\n\n\n\nBNB Chain 宣布推出 opBNB 测试网，这是一种基于 Optimism OP Stack 的以太坊虚拟机（EVM）兼容的 L2 可扩展性解决方案。opBNB 大大提高了 L1 的可扩展性以降低网络拥堵及网络费用，同时保持与 L1 相似的安全级别。\n\n\nopBNB 创新的底层组合，包括优化数据可访问性、缓存层和调整提交过程算法等以允许更多并行操作，使 opBNB 能够达到高达 100 M 的 Gas 限制。基于这些综合优化，opBNB 每秒可支持超过 4000 笔转账交易，平均转账交易成本低于 0.005 美元。\n\n\n以下为 BNB Chain 官方博客关于 opBNB 测试网的介绍，由 Odaily 星球日报编译。 \n\n\n我们很高兴推出 opBNB，这是一种创新的可扩展性解决方案，现已在 BNB 智能链（BSC）上可用。opBNB 代表了我们的承诺——确保用户、开发人员和项目在 BSC 上获得无缝和高效的体验。这一发展是我们持续使命的一部分，即在拥抱和推动创新的同时，将区块链的力量带给每个人。\n\n\nopBNB 测试网将于 2023 年 6 月 19 日启动！我们呼吁测试网验证者和 dApp 构建者尝试测试网并提供反馈。\n\n\n什么是 opBNB？\n\n\nopBNB 是 BSC 对限制区块链技术大规模采用的可扩展性挑战交出的答卷。作为与以太坊虚拟机 (EVM) 兼容的 layer 2 网络，opBNB 解决方案基于 Optimism OP Stack 以进一步增强 BSC 的可扩展性，同时保持可负担性和安全性。\n\n\nOptimistic Rollups 的提出是为了通过在链下执行交易，并仅将交易数据作为调用数据发布到链上来减少主链上…",
+          "link": "https://www.theblockbeats.info/news/42821",
+          "publishedOn": "2023-06-20T03:29:31.000Z",
+          "wordCount": null,
+          "title": "BNB Chain为什么要推出Layer 2网络opBNB？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42803",
           "author": null,
           "description": "本文分析了加密空投，包括它的定义、历史、流程与分类等，同时提供安全参与撸空投的经验与注意事项。",
