@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42887",
+          "author": null,
+          "description": "精选要闻：\n\n1. 马斯克于推特关注 Vitalik 账号；\n\n2. 李林正式在香港起诉 Huobi 使用「火币」商标涉嫌侵权；\n\n3. 资管公司 WisdomTree 再次提交现货比特币 ETF 申请；\n\n4. 灰度 GBTC 冲高至 17.35 美元，半年涨超 120%；\n\n5. 疑似暗网丝绸之路关联地址进行小额比特币交易；\n\n\n项目动态\n\n\n马斯克于推特关注 Vitalik 账号\nBlockBeats 消息，6 月 21 日，据 Big Tech Alert 监测信息，埃隆·马斯克（Elon Musk）5 小时前于推特新增关注以太坊联合创始人 Vitalik Buterin 的账号。\n\n\n李林正式在香港起诉 Huobi 使用「火币」商标涉嫌侵权\nBlockBeats 消息，6 月 21 日，据吴说区块链报道，李林控制的 X-Spot 有限公司于今日在香港特别行政区高等法院起诉火必（Huobi Global Limited）商标侵权。\n \n起诉书称，X-Spot 有限公司一直保留对「火币」商标的专有权，火必（Huobi Global Limited）在未经 X-Spot 授权的情况下一直在使用该商标。当原股东将其火币全球站的股份转让给百域资本（About Capital Management）时，他们明确同意保留「火币」商标的专有权，并确保这些权利不会转让给买方或火必，双方股权转让及资产交割协议明确规定，禁止买方使用「火币」商标和品牌。\n\n\nBerenberg：SEC 或将专注于把稳定币和 DeFi 纳入监管范围\nBlockBeats 消息，6 月 21 日，据 Coindesk 报道，投行 Berenberg 在其最新报告中表示，美国证券交易委员（SEC）现在可能会专注于将包括 Tether (USDT) 和 USD Coin (USDC) 在内的稳定币，以及去中心化…",
+          "link": "https://www.theblockbeats.info/news/42887",
+          "publishedOn": "2023-06-21T13:46:07.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜GBTC冲高至17.35美元；李林起诉Huobi侵权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42892",
+          "author": null,
+          "description": "采访：Jack\n编辑：Jaleel\n\n\n提到 NDV，许多人或许并不认识。全名 NextGenDigital Venture，NDV 是今年与加密货币财富管理公司 Metalpha Technology Holding Ltd 合作成立的新基金，在 3 月获得了 2000 万美元的资金认购。有趣的是，与它的名字不同，NDV 在成立后的第一个大动作，就是投资于被市场逐渐「遗忘」的灰度比特币信托 GBTC。\n\n\n\n\n\n\n\n对于 NDV 的这个选择，许多机构都表示不太理解。\n\n\n\n在加密市场彻底转熊前，GBTC 的负溢价趋势似乎就变得不可扭转。为了将信托改为现货比特币 ETF、纠正 GBTC 的「折扣」，灰度一直在推动 GBTC 转化为现货 ETF，但三次申请均被 SEC 无情驳回。Celsius、三箭等机构暴雷后，机构通过循环抵押 GBTC 进行套利的说法更是广为流传。截至目前，GBTC 的负溢价已经来到了-36.6%。有人甚至认为，灰度根本没有自己声称持有的 63 万枚 GBTC。就是在这样的背景下，这家今年才成立的「新生代玩家」，却坚定地选择在 GBTC 这个「古董行」中寻找机会。\n\n\n\n在 5 月，NDV 宣布旗下第一期专注于加密货币的 Next Generation Fund 获得又一笔 500 万美元的投资。NDV 希望通过结构化衍生品，让投资者可以直接投资于 Grayscale Investments LLC 的产品，也可以间接投资 GBTC 资产。\n\n\n\n与 NDV 这个名字相比，Jason Huang 和 Christian 两位创始人在各自的领域都有更高的知名度。一位是出身蔡崇信家办蓝池资本，拥有十年 VC 和创投经历的传统金融杰出代表，一位是加密 Twitter 知名 KOL，典型的 GenZ 富二代。而两位履历迥异的合伙人聚到一起后，的确擦出了别样的火花。…",
+          "link": "https://www.theblockbeats.info/news/42892",
+          "publishedOn": "2023-06-21T13:30:02.000Z",
+          "wordCount": null,
+          "title": "专访NDV：传统资管精英遇上00后加密巨鲸，为何选择重仓GBTC？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42896",
+          "author": null,
+          "description": "原文来源：Maverick Protocol\n\n\n\n时隔多年，Paypal 创始人、ChatGPT 和 Facebook 的天使投资人 Peter Thiel 旗下的 Founders Fund 重返加密货币市场，领投 DeFi 龙头基础设施供应商 Maverick Protocol 的 900 万美元战略轮，将 Maverick 作为其回归的第一个项目。\n \n\n\n2023 年 6 月 21 日，DeFi 龙头 AMM 供应商 Maverick Protocol 完成了价值 900 万美元的战略轮融资，用以建立更高效的 DeFi 基础设施。该轮融资由 Founders Fund 领投，Pantera Capital、Binance Labs、Coinbase Ventures 和 Apollo Crypto 也参与了本轮。\n\n\n什么是 Maverick Protocol？\n\n\n\nMaverick Protocol 是一个去中心化金融（DeFi）基础设施，目标为整个 DeFi 行业带来更高的市场效率。\n\n\n2023 年 3 月，Maverick Protocol 于以太坊主网上线了其 DEX 产品，以其首创的动态分布 AMM 为技术核心，为流动性提供者（LP）提供了实现更高资本效率的工具。自上线以来，据 DeFillama 的数据，该协议一度以交易量位列以太坊前 3、以及 zkSync Era 的第 1 名 DEX，实现了高达 374% 的活跃资本或 \"资本效率\"。同时，Maverick 还与 Lido、Frax、Liquity、cbETH、Rocket Pool 和 Swell 等头部 LST 项目进行了整合，并以超过整个 LST 市场交易量 35% 的市场份额，快速统领 LST 的 AMM 市场。\n \n\n\n上线短短两月后，该平台迅速推出了'Boosted Position…",
+          "link": "https://www.theblockbeats.info/news/42896",
+          "publishedOn": "2023-06-21T13:09:07.000Z",
+          "wordCount": null,
+          "title": "Peter Thiel的Founders Fund重返加密货币市场，领投Maverick Protocol 900万美元战略轮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42889",
+          "author": null,
+          "description": "原文来源：欧易 OKX\n\n\n6 月 21 日，全球第二大数字资产交易平台和领先的 Web3 技术公司欧易 OKX 宣布成为高尔夫球队 Majesticks GC 全球首个官方赞助商，也是新 LIV 高尔夫联赛首个 Web3 赞助商。\n\n\nMajesticks GC 是新的 LIV 高尔夫联赛 12 支参赛球队之一，其球队成员 Ian Poulter、Lee Westwood、Henrik Stenson、Sam Horsfield 和 Laurie Canter 将穿上印有欧易 OKX logo 的球衣参加比赛。欧易 OKX 与 Majesticks GC 的此次合作，旨在通过双方共同的努力，在 LIV 高尔夫联赛的美国、欧洲、中东和亚洲比赛中，为全球观众提供创新的 Web3 参与机会和粉丝体验。\n\n\n欧易 OKX、Majesticks GC 和 LIV 高尔夫拥有共同的驱动力，即通过新思维和新技术来推动行业变革。欧易 OKX 是技术先驱，通过提供易于使用的工具帮助用户进入 Web3，LIV 高尔夫联赛正在通过引入团体赛、快速赛的方式，吸引不同背景和年龄的球迷，从而彻底改变高尔夫锦标赛。\n\n\n\n欧易 OKX 首席营销官 Haider Rafique 表示：「高尔夫吸引着世界各地的人们，如果我们可以在球迷互动参与和创新活动合作方面大胆尝试，那 Web3 带来的惊喜和鼓舞则可以扩大高尔夫的影响力，这正是我们与 LIV 高尔夫联赛顶级球队 Majesticks GC 合作的目标。此次合作体现了我们的价值观和抱负，我们期待在不久的将来与 Majesticks GC 开展更多令人兴奋的合作，这将展示我们的优势。」\n\n\nMajesticks GC 球队的联合队长 Ian Poulter 表示：「作为欧易 OKX 的大使，我知道该公司将激情、技术和创新性融入到它所做的一切中，这也是为什么我非常欢迎欧易 OKX 成为 Majesticks GC 的第一个全球官方赞助商。我们都有野心，不仅要取得胜利，还要挑战现状。通过与欧易 OKX 的合作将为球迷们带来惊艳的体验，让球迷能够与我们共同见证球场内外都在追求的变革。」\n\n\nMajesticks GC 球队负责人 James Dunkley 表示：「我们很高兴宣布与 Web3 行业最具创新性的伙伴欧易 OKX 开始合作，此前他们已经赞助了 Ian Poulter，我相信通过欧易 OKX 的创造力和 Web3 技术，可以为粉丝提供更多精彩活动和体验。」\n\n\n此次与 Majesticks GC 的合作，进一步扩大了欧易 OKX 在体育行业的影响力。与迈凯轮 F1 车队以及曼城足球俱乐部等全球顶级体育强队的长期合作证明，欧易 OKX 已成为全球体育界值得信赖的品牌。",
+          "link": "https://www.theblockbeats.info/news/42889",
+          "publishedOn": "2023-06-21T11:25:43.000Z",
+          "wordCount": null,
+          "title": "欧易OKX成高尔夫球队Majesticks GC全球首个官方赞助商",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42869",
           "author": null,
           "description": "原文标题：《\n\nSignalPlus 宏观研报 (20230621)\n\n》\n原文来源：SignalPlus 華語\n\n\n\n\n\n各位朋友，欢迎来到 SignalPlus 宏观研报。SignalPlus 宏观研报每天为各位更新宏观市场信息，并分享我们对宏观趋势的观察和看法。欢迎追踪订阅，与我们一起关注最新的市场动态。\n\n\n\n\n\n\nBTC 的隐含波动率已经基本等于历史波动率了，波动率溢价都没了。期权的价格现在其实很合算，适合买。\n\n\n\n\n\n\n\n\n\n\n\n\n\n强劲的新屋开工数据迎接美国市场从假期中回归，5 月份新屋开工数飙升 21.7% 至 163.1 万户，远高于市场预期，且是 2016 年以来最大的月增幅度，单户住宅增长 18.5%，而多户住宅则激增 27.1%；虽然我们在之前的评论中已经提过美国消费者和住宅市场的强劲，但考虑到 30 年期抵押贷款利率仍在 7% 左右的 20 年高点徘徊，当前房地产市场的活跃仍然令人难以置信。\n\n\n\n\n\n\n另一方面，追踪一些在美国上市、较受欢迎的中国企业股票的 Nasdaq「金龙指数 (Golden Dragon Index)」昨天下跌了 4.9%，创下今年以来第二大单日跌幅，这要归咎于中国 5 年期贷款市场报价利率 (LPR) 的降幅小于市场预期，打击了人们对中国人民银行即将出台「全面」宽松政策的期望；自 2021 年以来，中国相关股票的表现相对于 SPX 500 指数一直落后，希望从 Blinken 国务卿访问北京开始两国关系能进一步解冻，双方在会谈顺利结束后都释出了善意。\n\n\n\n\n\n\n\n\n\n\n在美国方面，股票市场延续上周五 OpEX 的走势下跌了 0.5%，基于近期股市异常热烈的情况，华尔街开始警告可能会出现季末的股票抛售活动，摩根大通的 Nikos 估计，「平衡基金、美国确定给付制养老金和挪威央行/日本 GPIF/瑞士央行在月底/季末潜在出售的股票可能高达 1,500 亿美元」，而高盛也基于以下因素主张应该采取更具防御性的策略：\n\n\nSPX 期权看跌/看涨比例偏斜情况显著下降指数反弹行情中的市场宽度异常狭窄大多数指标都显示股票估值过于昂贵即使在这些负面背景下，投资者情绪转向两年来最正面的水平\n\n\n\n\n\n\n在加密货币方面，主流兴趣突然升温，受 Citdael、Fidelity 和 Charles Schwab 等支持的受监管加密货币交易所 EDX 宣布上线，除了现货交易之外，该交易所还计划引入 EDX 清算服务作为集中清算的解决方案，其他知名投资人还包括 Paradigm、Sequoia、Virtu、GSR 和 Hudson River Trading；另外，在采取不同行动表明其更深入参与数字资产领域的意图后，Fidelity 据传也可能在近期提交自己的现货 ETF 申请。\n\n\n\n\n\n\n作为回应，加密货币价格在过去几个交易日中反弹了约 7–10%，收复了自币安 FUD 以来的大部分跌幅，由于这波涨势主要由 TradFi 巨头重新点燃主流兴趣的市场期待来推动，由 BTC 领涨，得益于此，BTC 的主导地位已回升至 51%，是 2021 年以来的最高水平。\n\n\n\n\n\n\n由 OKX 和 SignalPlus 联合举办的「期权之王争夺战」开赛啦！现在就报名参战，不要错过赢取高达 115, 000 USDT 奖金的机会！\n报名链接：https://t.signalplus.com/competition-okx? locale=zh-CN\n\n\n原文链接",
@@ -263,16 +303,6 @@
           "publishedOn": "2023-06-19T06:10:37.000Z",
           "wordCount": null,
           "title": "新的BRC-20S，能开启比特币上的「DeFi之夏」吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42798",
-          "author": null,
-          "description": "据 BlockBeats 统计，上周的融资总数为 16 笔，数量较之前有小幅下降，总金额约 22631.5 万美元，平均融资金额为 708.22 万美元。其中，其他领域占据主体，数字资管/支付、社交/创作者经济领域融资相对较多，NFT/数字时尚和基础设施有所下降，DeFi 领域和元宇宙/GameFi 较少。下图为上周各板块融资占比：\n\n\n\n\n\n\nNFT/数字时尚\n\n\n\n在 NFT/数字时尚领域共计 3 笔融资，总金额 380 万美元，占上周融资总额的 1.85%。\n\n\nCollectibles.com\n\n\n\n\n\n\n\n6 月 13 日，Web3 收藏平台 Collectibles.com 宣布完成 500 万美元种子轮融资，Blockchange Ventures 领投，GFR Fund、Peter Thiel、Blockwall Capital 等参投。据悉，Collectibles.com 正在建立基于 Collectibles Protocol 的 Web3 收藏家社区和市场。\n\n\n\n作为定义类别的品牌领域，Collectibles.com 有望成为目前分散的收藏世界的主要目的地，通过提供实用的工具、技术和资源，将收藏家的需求和偏好放在首位和中心。与大多数严格的交易性现有应用程序、网站和传统市场不同，Collectibles.com 将拥有一个强大、互联的社区，通过他们共同的兴趣和激情将全球收藏家团结起来，\n\n\nMnemonic \n\n\n\n\n\n\n\n6 月 14 日，NFT 数据平台 Mnemonic 完成 600 万美元种子扩展轮融资，Salesforce Ventures 领投，Polygon Ventures、Orange DAO、FIN Capital 和 FJ Labs 参投，本轮融资资金将用于扩展 API 套件。\n\n\n\nMnemonic 正在通过构建数据和分析平…",
-          "link": "https://www.theblockbeats.info/news/42798",
-          "publishedOn": "2023-06-19T03:44:17.000Z",
-          "wordCount": null,
-          "title": "2023年第26周融资精选，Polygon参投DID初创公司 Intuition",
           "imageUrl": null
         }
       ]
