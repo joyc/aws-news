@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-21T00:40:50.657Z</updated>
+    <updated>2023-06-21T06:09:38.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街「新宠」EDX Markets上线，传统资本入局进入加速期？]]></title>
+        <id>https://www.theblockbeats.info/news/42861</id>
+        <link href="https://www.theblockbeats.info/news/42861"/>
+        <updated>2023-06-21T02:59:06.000Z</updated>
+        <summary type="html"><![CDATA[EDX Markets是华尔街新势力们的一次尝试，试图把传统的金融市场架构复刻到加密世界。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opside Litepaper V2发布：引入多链的ZK-PoW机制]]></title>
+        <id>https://www.theblockbeats.info/news/42860</id>
+        <link href="https://www.theblockbeats.info/news/42860"/>
+        <updated>2023-06-21T02:50:43.000Z</updated>
+        <summary type="html"><![CDATA[Opside主网的所有参数和机制的更新将通过Opside DAO来确定。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊铭文：比特币序数的延续还是历史的倒退？]]></title>
+        <id>https://www.theblockbeats.info/news/42855</id>
+        <link href="https://www.theblockbeats.info/news/42855"/>
+        <updated>2023-06-21T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Ethscriptions是一种在以太坊上创建和分享数字艺术品的新方式，它使用交易calldata。这种方式比NFTs更便宜，也更去中心化。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethscriptions：以太坊上的新协议是泡沫还是趋势？]]></title>
         <id>https://www.theblockbeats.info/news/42833</id>
@@ -757,16 +787,6 @@ Mnemonic
 
 
 Mnemonic 正在通过构建数据和分析平…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周前瞻：Binance JAPAN将于6月23日后开放；阿迪达斯将推出绑定NFT的Token门控运动鞋]]></title>
-        <id>https://www.theblockbeats.info/news/42794</id>
-        <link href="https://www.theblockbeats.info/news/42794"/>
-        <updated>2023-06-18T13:17:21.000Z</updated>
-        <summary type="html"><![CDATA[6月19日至6月23日要点事件前瞻]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
