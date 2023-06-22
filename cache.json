@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42875",
+          "author": null,
+          "description": "GAMEE 曾获 Binance Labs 战略投资，是 Animoca Brands 的子公司，在全球吸引了超过 4000 万用户。",
+          "link": "https://www.theblockbeats.info/news/42875",
+          "publishedOn": "2023-06-22T02:00:03.000Z",
+          "wordCount": null,
+          "title": "对话GAMEE CEO Bozena Rezab：游戏平台的新范式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42887",
           "author": null,
           "description": "精选要闻：\n\n1. 马斯克于推特关注 Vitalik 账号；\n\n2. 李林正式在香港起诉 Huobi 使用「火币」商标涉嫌侵权；\n\n3. 资管公司 WisdomTree 再次提交现货比特币 ETF 申请；\n\n4. 灰度 GBTC 冲高至 17.35 美元，半年涨超 120%；\n\n5. 疑似暗网丝绸之路关联地址进行小额比特币交易；\n\n\n项目动态\n\n\n马斯克于推特关注 Vitalik 账号\nBlockBeats 消息，6 月 21 日，据 Big Tech Alert 监测信息，埃隆·马斯克（Elon Musk）5 小时前于推特新增关注以太坊联合创始人 Vitalik Buterin 的账号。\n\n\n李林正式在香港起诉 Huobi 使用「火币」商标涉嫌侵权\nBlockBeats 消息，6 月 21 日，据吴说区块链报道，李林控制的 X-Spot 有限公司于今日在香港特别行政区高等法院起诉火必（Huobi Global Limited）商标侵权。\n \n起诉书称，X-Spot 有限公司一直保留对「火币」商标的专有权，火必（Huobi Global Limited）在未经 X-Spot 授权的情况下一直在使用该商标。当原股东将其火币全球站的股份转让给百域资本（About Capital Management）时，他们明确同意保留「火币」商标的专有权，并确保这些权利不会转让给买方或火必，双方股权转让及资产交割协议明确规定，禁止买方使用「火币」商标和品牌。\n\n\nBerenberg：SEC 或将专注于把稳定币和 DeFi 纳入监管范围\nBlockBeats 消息，6 月 21 日，据 Coindesk 报道，投行 Berenberg 在其最新报告中表示，美国证券交易委员（SEC）现在可能会专注于将包括 Tether (USDT) 和 USD Coin (USDC) 在内的稳定币，以及去中心化…",
@@ -233,16 +243,6 @@
           "publishedOn": "2023-06-20T03:29:31.000Z",
           "wordCount": null,
           "title": "BNB Chain为什么要推出Layer 2网络opBNB？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42803",
-          "author": null,
-          "description": "本文分析了加密空投，包括它的定义、历史、流程与分类等，同时提供安全参与撸空投的经验与注意事项。",
-          "link": "https://www.theblockbeats.info/news/42803",
-          "publishedOn": "2023-06-19T13:00:01.000Z",
-          "wordCount": null,
-          "title": "详解加密空投策略和6个撸空机会",
           "imageUrl": null
         }
       ]
