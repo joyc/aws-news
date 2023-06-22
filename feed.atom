@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-21T18:08:50.481Z</updated>
+    <updated>2023-06-22T00:40:53.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1087,66 +1087,6 @@ Optimistic Rollups 的提出是为了通过在链下执行交易，并仅将交�
         <link href="https://www.theblockbeats.info/news/42803"/>
         <updated>2023-06-19T13:00:01.000Z</updated>
         <summary type="html"><![CDATA[本文分析了加密空投，包括它的定义、历史、流程与分类等，同时提供安全参与撸空投的经验与注意事项。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链休闲游戏平台Arc8开放Arc8联赛第0季许可名单注册]]></title>
-        <id>https://www.theblockbeats.info/news/42818</id>
-        <link href="https://www.theblockbeats.info/news/42818"/>
-        <updated>2023-06-19T12:21:29.000Z</updated>
-        <summary type="html"><![CDATA[第0季Arc8 League NFT通行证的持有者将争夺价值18,000美元的总奖池]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜黄立成购入2500万美元的洛杉矶豪宅；Binance.US称SEC从未提供滥用客户资产证据]]></title>
-        <id>https://www.theblockbeats.info/news/42815</id>
-        <link href="https://www.theblockbeats.info/news/42815"/>
-        <updated>2023-06-19T11:01:12.000Z</updated>
-        <summary type="html"><![CDATA[6月19日加密行业重要资讯一览]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance研究院LSDfi报告：当流动性质押与DeFi相遇]]></title>
-        <id>https://www.theblockbeats.info/news/42810</id>
-        <link href="https://www.theblockbeats.info/news/42810"/>
-        <updated>2023-06-19T08:21:06.000Z</updated>
-        <summary type="html"><![CDATA[LSDfi 增势迅猛，规模不到 LSD 本身的3%，后续提升空间巨大。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance和Coinbase面临SEC的指控：详解市场反应与影响]]></title>
-        <id>https://www.theblockbeats.info/news/42809</id>
-        <link href="https://www.theblockbeats.info/news/42809"/>
-        <updated>2023-06-19T08:16:35.000Z</updated>
-        <summary type="html"><![CDATA[SEC对加密货币交易平台Binance和Coinbase提出了正式诉讼，这引发了市场的大规模抛售及涉及证券定义的代币被下架等一系列连锁事件。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vela Exchange：去中心化永续合约赛道的后起之秀]]></title>
-        <id>https://www.theblockbeats.info/news/42797</id>
-        <link href="https://www.theblockbeats.info/news/42797"/>
-        <updated>2023-06-19T07:00:01.000Z</updated>
-        <summary type="html"><![CDATA[DEX Perp的叙事能否引领加密世界的发展？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的BRC-20S，能开启比特币上的「DeFi之夏」吗？]]></title>
-        <id>https://www.theblockbeats.info/news/42806</id>
-        <link href="https://www.theblockbeats.info/news/42806"/>
-        <updated>2023-06-19T06:10:37.000Z</updated>
-        <summary type="html"><![CDATA[为比特币网络引入「质押挖矿」，BRC-20S将带来哪些可能性？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
