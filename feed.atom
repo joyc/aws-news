@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-22T06:09:14.875Z</updated>
+    <updated>2023-06-22T12:13:03.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ordinals 引发的「NFT返祖」，不是理想主义的回归]]></title>
+        <id>https://www.theblockbeats.info/news/42899</id>
+        <link href="https://www.theblockbeats.info/news/42899"/>
+        <updated>2023-06-22T03:20:04.000Z</updated>
+        <summary type="html"><![CDATA[在「赚钱」的路上，我们已经走了太远，我们何时能回去，又真的想回去吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对话GAMEE CEO Bozena Rezab：游戏平台的新范式]]></title>
         <id>https://www.theblockbeats.info/news/42875</id>
