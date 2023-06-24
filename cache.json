@@ -6,6 +6,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42920",
+          "author": null,
+          "description": "6月24日加密行业重要资讯一览",
+          "link": "https://www.theblockbeats.info/news/42920",
+          "publishedOn": "2023-06-24T11:08:43.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜Volatility Shares将推出首只杠杆比特币期货ETF；Azuki推出新系列NFT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42914",
           "author": null,
           "description": "原文作者：rektdiomedes\n原文编译：Jaleel，BlockBeats\n\n\n\n6 月 15 日，美联储主席杰罗姆鲍威尔发表了讲话：「今天，我们决定保持我们的政策利率不变，并继续减少我们的证券持有量」。同时鲍威尔还表示，今年进一步加息将是适当的，以使通货膨胀率降至 2%。\n\n\n\n经过近一年半的加息，美联储终于暂停了。我们目前处于一个真正令人着迷的宏观环境中，我有一些关于宏观经济和加密的疯狂想法......\n\n\n一：经济表现远好于预期\n\n\n我想不出 18 个月前有任何宏观评论员认为美联储可以在不完全炸毁情况的情况下加息到如此高的水平，但矛盾的是，经济似乎在蓬勃发展（至少到目前为止）。\n\n\n二：美国政府财政支出不断增加所带来的巨大影响\n\n\n\n我认为这次加息周期的最终教训可能是美联储越来越无力克服美国政府庞大且不断增加的财政支出的影响。\n\n\n\nTheHappyHawaiian（@ThHappyHawaiian）认为，2023 是美国赤字爆发的一年。2023 年前 5 个月，赤字达到了惊人的 7430 亿美元，比 2022 年增长 1416%，截至 5 月为 $49B。收入：1,969 美元 B 对比 2,323 美元 B (-15.3 %)；支出：2,712 美元 B 对比 2,371 美元 B (+14.4 %)。简而言之，收入减少，支出增加。\n\n\n\n\n图源：@ThHappyHawaiian\n\n也正如 Kuppy（@hkuppy）和 Luke Gromen（@LukeGromen）所指出的那样，美联储支付 5% 的国库券最终以其自身的方式起到了刺激作用，因为政府醉酒花费的所有多余资金仍然进入经济，只是以不同的方式与 zirp 和 QE 相比。\n\n\n\n事实上，这十年的剩余时间似乎只是美联储和财政部之间越来越有创意的舞蹈：如何将我们不断上升的预算赤字/主权债务货币化。就像 …",
@@ -63,36 +73,6 @@
           "publishedOn": "2023-06-23T03:29:07.000Z",
           "wordCount": null,
           "title": "一文速览新LSD协议OETH机会与风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42892",
-          "author": null,
-          "description": "采访：Jack\n编辑：Jaleel\n\n\n提到 NDV，许多人或许并不认识。全名 NextGenDigital Venture，NDV 是今年与加密货币财富管理公司 Metalpha Technology Holding Ltd 合作成立的新基金，在 3 月获得了 2000 万美元的资金认购。有趣的是，与它的名字不同，NDV 在成立后的第一个大动作，就是投资于被市场逐渐「遗忘」的灰度比特币信托 GBTC。\n\n\n\n\n\n\n\n对于 NDV 的这个选择，许多机构都表示不太理解。\n\n\n\n在加密市场彻底转熊前，GBTC 的负溢价趋势似乎就变得不可扭转。为了将信托改为现货比特币 ETF、纠正 GBTC 的「折扣」，灰度一直在推动 GBTC 转化为现货 ETF，但三次申请均被 SEC 无情驳回。Celsius、三箭等机构暴雷后，机构通过循环抵押 GBTC 进行套利的说法更是广为流传。截至目前，GBTC 的负溢价已经来到了-36.6%。有人甚至认为，灰度根本没有自己声称持有的 63 万枚 GBTC。就是在这样的背景下，这家今年才成立的「新生代玩家」，却坚定地选择在 GBTC 这个「古董行」中寻找机会。\n\n\n\n在 5 月，NDV 宣布旗下第一期专注于加密货币的 Next Generation Fund 获得又一笔 500 万美元的投资。NDV 希望通过结构化衍生品，让投资者可以直接投资于 Grayscale Investments LLC 的产品，也可以间接投资 GBTC 资产。\n\n\n\n与 NDV 这个名字相比，Jason Huang 和 Christian 两位创始人在各自的领域都有更高的知名度。一位是出身蔡崇信家办蓝池资本，拥有十年 VC 和创投经历的传统金融杰出代表，一位是加密 Twitter 知名 KOL，典型的 GenZ 富二代。而两位履历迥异的合伙人聚到一起后，的确擦出了别样的火花。…",
-          "link": "https://www.theblockbeats.info/news/42892",
-          "publishedOn": "2023-06-22T03:33:01.000Z",
-          "wordCount": null,
-          "title": "专访NDV：传统资管精英遇上00后加密巨鲸，为何选择重仓GBTC？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42899",
-          "author": null,
-          "description": "在「赚钱」的路上，我们已经走了太远，我们何时能回去，又真的想回去吗？",
-          "link": "https://www.theblockbeats.info/news/42899",
-          "publishedOn": "2023-06-22T03:20:04.000Z",
-          "wordCount": null,
-          "title": "Ordinals 引发的「NFT返祖」，不是理想主义的回归",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42875",
-          "author": null,
-          "description": "GAMEE 曾获 Binance Labs 战略投资，是 Animoca Brands 的子公司，在全球吸引了超过 4000 万用户。",
-          "link": "https://www.theblockbeats.info/news/42875",
-          "publishedOn": "2023-06-22T02:00:03.000Z",
-          "wordCount": null,
-          "title": "对话GAMEE CEO Bozena Rezab：游戏平台的新范式",
           "imageUrl": null
         }
       ]
