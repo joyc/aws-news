@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-25T06:10:06.268Z</updated>
+    <updated>2023-06-25T12:14:02.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bitget Research每周要闻：华尔街巨头集中申请比特币现货ETF，加密市场迎来持续反弹]]></title>
+        <id>https://www.theblockbeats.info/news/42953</id>
+        <link href="https://www.theblockbeats.info/news/42953"/>
+        <updated>2023-06-25T11:35:59.000Z</updated>
+        <summary type="html"><![CDATA[聚焦链上数据，每周要闻盘点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜OPNX推出首个Launchpad项目Raiser；纳斯达克、贝莱德及Ripple或对FTX2.0重启有意向]]></title>
+        <id>https://www.theblockbeats.info/news/42950</id>
+        <link href="https://www.theblockbeats.info/news/42950"/>
+        <updated>2023-06-25T10:56:48.000Z</updated>
+        <summary type="html"><![CDATA[6月25日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周前瞻：Azuki 6月27日推出Elementals系列预售；首只杠杆比特币期货ETF即将推出]]></title>
+        <id>https://www.theblockbeats.info/news/42944</id>
+        <link href="https://www.theblockbeats.info/news/42944"/>
+        <updated>2023-06-25T09:22:05.000Z</updated>
+        <summary type="html"><![CDATA[6月26日至7月1日要点事件前瞻]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周热门回顾｜加密交易平台EDX Markets上线，Volatility Shares下周推出杠杆比特币期货ETF]]></title>
+        <id>https://www.theblockbeats.info/news/42941</id>
+        <link href="https://www.theblockbeats.info/news/42941"/>
+        <updated>2023-06-25T08:34:35.000Z</updated>
+        <summary type="html"><![CDATA[回顾6月19日-6月25日热门事件、深度佳文。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全链比特币 NFT 却存在 Github 上，「递归朋克」的真假之争]]></title>
+        <id>https://www.theblockbeats.info/news/42938</id>
+        <link href="https://www.theblockbeats.info/news/42938"/>
+        <updated>2023-06-25T08:19:31.000Z</updated>
+        <summary type="html"><![CDATA[讽刺的是，这个号称是“递归铭文”上的首个10K项目和“递归铭文”一点关系也没有。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读扩容方案opBNB，Layer2如何提高BNB Chain的竞争力？]]></title>
+        <id>https://www.theblockbeats.info/news/42929</id>
+        <link href="https://www.theblockbeats.info/news/42929"/>
+        <updated>2023-06-25T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[opBNB的区块时间为1秒，转账的Gas费低至0.005美元，每秒能处理的交易数量（TPS）超过4000，性能已优于现有的扩容方案。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAYC持有者自述：从沼泽走到月球，我对BAYC失去信心了吗？]]></title>
+        <id>https://www.theblockbeats.info/news/42932</id>
+        <link href="https://www.theblockbeats.info/news/42932"/>
+        <updated>2023-06-25T05:27:04.000Z</updated>
+        <summary type="html"><![CDATA[BAYC不再是两年前的BAYC，它有战斗的疤痕，新的成员，以及生态系统中的一百万个新事物]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[详解OPNX首个Launchpad项目Raiser（RZR）]]></title>
         <id>https://www.theblockbeats.info/news/42926</id>
