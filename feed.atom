@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-25T12:14:02.910Z</updated>
+    <updated>2023-06-25T18:09:04.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -325,16 +325,6 @@ Binance US 在 6 月 22 日发给客户的一封电子邮件中表示，它已�
         <link href="https://www.theblockbeats.info/news/42905"/>
         <updated>2023-06-23T07:00:01.000Z</updated>
         <summary type="html"><![CDATA[「提前了解、布局大机构看好的潜力项目」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文速览新LSD协议OETH机会与风险]]></title>
-        <id>https://www.theblockbeats.info/news/42902</id>
-        <link href="https://www.theblockbeats.info/news/42902"/>
-        <updated>2023-06-23T03:29:07.000Z</updated>
-        <summary type="html"><![CDATA[尽管 OETH 是一个新产品，但 Origin Protocol 自 2021 年 8 月以来就已与 Curve 的 OUSD/3CRV 池集成。OETH 利用以太坊流动抵押的趋势，创造了一个多元化的、产生收益的以太坊 Token。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
