@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-25T00:50:55.928Z</updated>
+    <updated>2023-06-25T06:10:06.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[详解OPNX首个Launchpad项目Raiser（RZR）]]></title>
+        <id>https://www.theblockbeats.info/news/42926</id>
+        <link href="https://www.theblockbeats.info/news/42926"/>
+        <updated>2023-06-25T03:17:28.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《一文读懂 OPNX 首个 Launchpad 项目 Raiser（RZR）》
+
+原文来源：ODAILY星球日报
+
+
+6 月 25 日早间，由 Su Zhu 等创立的债权交易平台 OPNX 宣布将推出首个 Launchpad 项目 Raiser（RZR），所有 OX 的质押者将共享 10% 的 RZR 供应分配。 
+
+
+
+
+
+Raiser：无需许可的信贷市场
+
+
+Raiser 提供一个无需许可的信贷市场（RaiseR），通过引入第三方的信用估计评估机构，任何人根据其链上以及社交媒体的信誉评分进行借贷，且不要求提供任何抵押物（事实上是可选模式）。此外，Raiser 还会提供一个交易市场（RaiDEX），允许债券在市场上自由流动。
+
+
+Raiser 的运转依赖于三类角色——贷款人（有资金需求的用户）、借款人（提供资金的用户）、交易者（可自由参与该市场的角色）。从运行机制上来看，贷款人可通过发行零息债券来筹集资金，借款人可通过购买这些债券来获得固定收益，交易者则可以在二级市场交易这些有一定收益空间的债券，从而推动债券的自由流动。具体来说，三方的简要操作流程如下：  
+
+
+贷款人
+
+
+在发行债券之前，贷款人首先需要建立自己的信用资料（链上+链下），并将相关信息与潜在的借款人共享，继而再支付一定的协议费用（以 RZR 计价）来创建一个用于借款人认购的资金池。
+
+
+一些潜在的行为可以提高贷款人的信用水平，比如提供个人身份资料，提供详尽的社交媒体链接，验证自身对某些资产的所有权（只是验资，不是充当抵押物），选择是否将某些资产作为抵押物（并非强制）。
+
+
+在创建资金池时，贷款人需设置好启动时间、认购周期、借款周期、最低借款额度、最高借款额度、利率等多项参数，以供借款人评估。
+
+
+借款人
+
+
+借款人可根据贷款人所提供的信用档案及具体条例来决定是否放款，如果觉得可行，则可直接向上述资金池注入资金。
+
+
+在提供资金后，借款人可获得一个代表着债券的代币，该代币可以在 Raiser 提供的市场上自由交易。
+
+
+交易者
+
+
+交易者可以在 Raiser 提供的市场上自由交易债券代币。
+
+
+由于每笔债券的到期时间、利率和借款人信用状况等因素各不相同，所以其价格也会有一定波动，引入交易者本质上是将投机者引入市场，一方面可以帮助提前借款人提前解锁（要回）资金，另一方面也可帮助市场对各种债券进行更精准的定价。
+
+
+代币经济模型
+
+
+根据 Raiser 的官方文档描述，RZR 的总供应量为 10 亿枚。
+
+
+
+
+
+
+
+
+
+RZR 的具体分配情况如下：
+
+
+投资者将获得 2 亿 RZR，锁仓 12 个月，随后还需要 12 个月线性解锁；
+
+
+团队获得 1.5 亿 RZR，也是锁仓 12 个月，随后还需要 12 个月线性解锁；
+
+
+财库获得 3 亿 RZR，完全解锁；
+
+
+合作关系方面分配了 1.5 亿 RZR，完全解锁；
+
+
+市场方面分配了 2 亿 RZR，同样完全解锁。
+
+
+协议治理及费用
+
+
+治理和费用系 RZR 在 Raiser 系统内所起到的两大主要效用。
+
+
+治理方面，Raiser 的治理依赖于 11 个 governors 运作，其中 3 个 governors 由协议核心贡献者长期担任，另外 8 个选自质押 RZR 数量（质押后可获得 veRZR）最高的 8 个地址，每 90 天更新一次名单。
+
+
+任何持有 veRZR 的质押者均可创建提案，但只有 governors 才可以对提案进行投票，任何提案的通过都需要至少 50% 的 governors 选票。
+
+
+费用方面，初始阶段 Raiser 会针对各种协议操作收取一定的 RZR 费用，比如贷款人创建池子需支付 10000 RZR，借款人提供资金需支付 1000 RZR 等等，但此类费用可通过治理调整。
+
+
+
+
+
+
+除了 RZR 相关费用之外，Raiser 还会对每笔成功的借贷收取 0.15% 的手续费，对每笔债券交易收取 0.2% 的手续费，所得费用均会返还给社区。
+
+
+未来规划
+
+
+根据 Raiser 的路线图规划，RZR 将于本季度发行于以太坊主网。
+
+
+
+
+
+不过值得注意的是，路线图还提到 Raiser 将于本季度于 Solana 上线借贷产品（RaiseR）及交易产品（RaiDEX），并提到会把所有 RZR 桥接至 Solana。
+
+
+或许，费用更低的 Solana 才是该项目未来发展的主阵地所在。
+
+
+原文链接]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3日报｜Volatility Shares将推出首只杠杆比特币期货ETF；Azuki推出新系列NFT]]></title>
         <id>https://www.theblockbeats.info/news/42920</id>
