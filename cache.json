@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42980",
+          "author": null,
+          "description": "本文将整理可查大部分 LSD 相关项目并提出问题，思考与行动指南。",
+          "link": "https://www.theblockbeats.info/news/42980",
+          "publishedOn": "2023-06-26T09:26:42.000Z",
+          "wordCount": null,
+          "title": "LSD MAP2.0：多维度解读LSD赛道发展情况",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42967",
+          "author": null,
+          "description": "牛市情绪仍在继续，一些蓝筹 DeFi 也出现爆炸性的追赶涨势（AAVE +25%、SNX + 16%，Uniswap +11% 和 CRV +8%）",
+          "link": "https://www.theblockbeats.info/news/42967",
+          "publishedOn": "2023-06-26T09:00:02.000Z",
+          "wordCount": null,
+          "title": "SignalPlus宏观研报：BTC保持在3万美元以上，蓝筹DeFi出现大幅反弹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42977",
+          "author": null,
+          "description": "上周的融资总数为15笔，总金额有所下降约 10002 万美元，平均融资金额为666.8万美元",
+          "link": "https://www.theblockbeats.info/news/42977",
+          "publishedOn": "2023-06-26T06:43:58.000Z",
+          "wordCount": null,
+          "title": "2023年第27周融资精选，Founders Fund领投Maverick Protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42973",
+          "author": null,
+          "description": "11个决赛项目或预示以太坊和Web3未来发展方向。",
+          "link": "https://www.theblockbeats.info/news/42973",
+          "publishedOn": "2023-06-26T04:51:38.000Z",
+          "wordCount": null,
+          "title": "盘点11个ETHGlobal Waterloo 2023决赛入围项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42971",
           "author": null,
           "description": "通过整合新的区块链技术解决方案，OKX的钱包用户已可以更方便地使用包括可扩展性、跨链流动性、NFTs等领域的DeFi解决方案。",
@@ -13,6 +53,16 @@
           "publishedOn": "2023-06-26T04:31:54.000Z",
           "wordCount": null,
           "title": "OKX Web3钱包宣布接入Scroll、Rarible和Trader Joe，构建更完备Web3生态系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42963",
+          "author": null,
+          "description": "Binance Labs 不须急于回收利润，而是把重点放在产业的整体发展，借此建立一个良性的产业链经济循环。",
+          "link": "https://www.theblockbeats.info/news/42963",
+          "publishedOn": "2023-06-26T03:37:18.000Z",
+          "wordCount": null,
+          "title": "坐拥90亿美元规模的Binance Labs，投出了哪些代表项目？",
           "imageUrl": null
         },
         {

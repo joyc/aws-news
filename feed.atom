@@ -2,16 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-26T06:11:23.377Z</updated>
+    <updated>2023-06-26T12:14:34.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LSD MAP2.0：多维度解读LSD赛道发展情况]]></title>
+        <id>https://www.theblockbeats.info/news/42980</id>
+        <link href="https://www.theblockbeats.info/news/42980"/>
+        <updated>2023-06-26T09:26:42.000Z</updated>
+        <summary type="html"><![CDATA[本文将整理可查大部分 LSD 相关项目并提出问题，思考与行动指南。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SignalPlus宏观研报：BTC保持在3万美元以上，蓝筹DeFi出现大幅反弹]]></title>
+        <id>https://www.theblockbeats.info/news/42967</id>
+        <link href="https://www.theblockbeats.info/news/42967"/>
+        <updated>2023-06-26T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[牛市情绪仍在继续，一些蓝筹 DeFi 也出现爆炸性的追赶涨势（AAVE +25%、SNX + 16%，Uniswap +11% 和 CRV +8%）]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年第27周融资精选，Founders Fund领投Maverick Protocol]]></title>
+        <id>https://www.theblockbeats.info/news/42977</id>
+        <link href="https://www.theblockbeats.info/news/42977"/>
+        <updated>2023-06-26T06:43:58.000Z</updated>
+        <summary type="html"><![CDATA[上周的融资总数为15笔，总金额有所下降约 10002 万美元，平均融资金额为666.8万美元]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点11个ETHGlobal Waterloo 2023决赛入围项目]]></title>
+        <id>https://www.theblockbeats.info/news/42973</id>
+        <link href="https://www.theblockbeats.info/news/42973"/>
+        <updated>2023-06-26T04:51:38.000Z</updated>
+        <summary type="html"><![CDATA[11个决赛项目或预示以太坊和Web3未来发展方向。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKX Web3钱包宣布接入Scroll、Rarible和Trader Joe，构建更完备Web3生态系统]]></title>
         <id>https://www.theblockbeats.info/news/42971</id>
         <link href="https://www.theblockbeats.info/news/42971"/>
         <updated>2023-06-26T04:31:54.000Z</updated>
         <summary type="html"><![CDATA[通过整合新的区块链技术解决方案，OKX的钱包用户已可以更方便地使用包括可扩展性、跨链流动性、NFTs等领域的DeFi解决方案。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坐拥90亿美元规模的Binance Labs，投出了哪些代表项目？]]></title>
+        <id>https://www.theblockbeats.info/news/42963</id>
+        <link href="https://www.theblockbeats.info/news/42963"/>
+        <updated>2023-06-26T03:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Binance Labs 不须急于回收利润，而是把重点放在产业的整体发展，借此建立一个良性的产业链经济循环。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
