@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-26T00:46:16.719Z</updated>
+    <updated>2023-06-26T06:11:23.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OKX Web3钱包宣布接入Scroll、Rarible和Trader Joe，构建更完备Web3生态系统]]></title>
+        <id>https://www.theblockbeats.info/news/42971</id>
+        <link href="https://www.theblockbeats.info/news/42971"/>
+        <updated>2023-06-26T04:31:54.000Z</updated>
+        <summary type="html"><![CDATA[通过整合新的区块链技术解决方案，OKX的钱包用户已可以更方便地使用包括可扩展性、跨链流动性、NFTs等领域的DeFi解决方案。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基础设施如何通过账户抽象为数十亿用户提供支持？]]></title>
+        <id>https://www.theblockbeats.info/news/42962</id>
+        <link href="https://www.theblockbeats.info/news/42962"/>
+        <updated>2023-06-26T03:30:31.000Z</updated>
+        <summary type="html"><![CDATA[BlockPI目标是与社区共同建设并发展AA生态系统，竭尽所能推动AA生态的进步与繁荣。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Ventures 2023年5月月报：投资Prisma、Rage Trade、Shutter Network，涵盖LSD、去中心化衍生品及MEV赛道]]></title>
+        <id>https://www.theblockbeats.info/news/42957</id>
+        <link href="https://www.theblockbeats.info/news/42957"/>
+        <updated>2023-06-26T03:08:52.000Z</updated>
+        <summary type="html"><![CDATA[OKX Ventures出手投资了Prisma、Rage Trade、Shutter Network]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解Chainalysis报告：深度剖析加密货币交易平台用户行为]]></title>
+        <id>https://www.theblockbeats.info/news/42956</id>
+        <link href="https://www.theblockbeats.info/news/42956"/>
+        <updated>2023-06-26T03:00:06.000Z</updated>
+        <summary type="html"><![CDATA[深度剖析加密货币交易平台用户行为，解读交易动态及资金流向。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitget Research每周要闻：华尔街巨头集中申请比特币现货ETF，加密市场迎来持续反弹]]></title>
         <id>https://www.theblockbeats.info/news/42953</id>

@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42971",
+          "author": null,
+          "description": "通过整合新的区块链技术解决方案，OKX的钱包用户已可以更方便地使用包括可扩展性、跨链流动性、NFTs等领域的DeFi解决方案。",
+          "link": "https://www.theblockbeats.info/news/42971",
+          "publishedOn": "2023-06-26T04:31:54.000Z",
+          "wordCount": null,
+          "title": "OKX Web3钱包宣布接入Scroll、Rarible和Trader Joe，构建更完备Web3生态系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42962",
+          "author": null,
+          "description": "BlockPI目标是与社区共同建设并发展AA生态系统，竭尽所能推动AA生态的进步与繁荣。",
+          "link": "https://www.theblockbeats.info/news/42962",
+          "publishedOn": "2023-06-26T03:30:31.000Z",
+          "wordCount": null,
+          "title": "基础设施如何通过账户抽象为数十亿用户提供支持？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42957",
+          "author": null,
+          "description": "OKX Ventures出手投资了Prisma、Rage Trade、Shutter Network",
+          "link": "https://www.theblockbeats.info/news/42957",
+          "publishedOn": "2023-06-26T03:08:52.000Z",
+          "wordCount": null,
+          "title": "OKX Ventures 2023年5月月报：投资Prisma、Rage Trade、Shutter Network，涵盖LSD、去中心化衍生品及MEV赛道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42956",
+          "author": null,
+          "description": "深度剖析加密货币交易平台用户行为，解读交易动态及资金流向。",
+          "link": "https://www.theblockbeats.info/news/42956",
+          "publishedOn": "2023-06-26T03:00:06.000Z",
+          "wordCount": null,
+          "title": "详解Chainalysis报告：深度剖析加密货币交易平台用户行为",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42953",
           "author": null,
           "description": "聚焦链上数据，每周要闻盘点。",
