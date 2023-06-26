@@ -6,6 +6,46 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42982",
+          "author": null,
+          "description": "一个好的经济模型应该具备以下特质：通胀率低、激励高、卖压低、使用场景丰富、流动性充足、治理主要群体来自B端等。",
+          "link": "https://www.theblockbeats.info/news/42982",
+          "publishedOn": "2023-06-26T12:00:01.000Z",
+          "wordCount": null,
+          "title": "如何判断一个X to Earn项目经济模型的好坏？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42995",
+          "author": null,
+          "description": "6月26日加密行业重要资讯一览",
+          "link": "https://www.theblockbeats.info/news/42995",
+          "publishedOn": "2023-06-26T11:53:07.000Z",
+          "wordCount": null,
+          "title": "Web3日报｜OPNX称正开发平台信用货币oUSD；NFT借贷平台Blend总交易额突破10亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42989",
+          "author": null,
+          "description": "Cobo Argus 是 Cobo 独创设计的链上数字资产管理解决方案，支持基于角色的访问控制和参数级风险管理，为机构和团队 DeFi 协作提供强大赋能。",
+          "link": "https://www.theblockbeats.info/news/42989",
+          "publishedOn": "2023-06-26T11:30:30.000Z",
+          "wordCount": null,
+          "title": "一文看懂DeFi「神器」Cobo Argus V2为机构带来哪些赋能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42992",
+          "author": null,
+          "description": "吸引了众多名人、投资人和著名企业购入的蓝筹NFT无聊猿，随着市场逐步寂静也未能幸免于难",
+          "link": "https://www.theblockbeats.info/news/42992",
+          "publishedOn": "2023-06-26T11:02:35.000Z",
+          "wordCount": null,
+          "title": "李宁和绿地去年买的猴子小图片，现在亏了多少？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42980",
           "author": null,
           "description": "本文将整理可查大部分 LSD 相关项目并提出问题，思考与行动指南。",
@@ -183,36 +223,6 @@
           "publishedOn": "2023-06-24T11:08:43.000Z",
           "wordCount": null,
           "title": "Web3日报｜Volatility Shares将推出首只杠杆比特币期货ETF；Azuki推出新系列NFT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42914",
-          "author": null,
-          "description": "原文作者：rektdiomedes\n原文编译：Jaleel，BlockBeats\n\n\n\n6 月 15 日，美联储主席杰罗姆鲍威尔发表了讲话：「今天，我们决定保持我们的政策利率不变，并继续减少我们的证券持有量」。同时鲍威尔还表示，今年进一步加息将是适当的，以使通货膨胀率降至 2%。\n\n\n\n经过近一年半的加息，美联储终于暂停了。我们目前处于一个真正令人着迷的宏观环境中，我有一些关于宏观经济和加密的疯狂想法......\n\n\n一：经济表现远好于预期\n\n\n我想不出 18 个月前有任何宏观评论员认为美联储可以在不完全炸毁情况的情况下加息到如此高的水平，但矛盾的是，经济似乎在蓬勃发展（至少到目前为止）。\n\n\n二：美国政府财政支出不断增加所带来的巨大影响\n\n\n\n我认为这次加息周期的最终教训可能是美联储越来越无力克服美国政府庞大且不断增加的财政支出的影响。\n\n\n\nTheHappyHawaiian（@ThHappyHawaiian）认为，2023 是美国赤字爆发的一年。2023 年前 5 个月，赤字达到了惊人的 7430 亿美元，比 2022 年增长 1416%，截至 5 月为 $49B。收入：1,969 美元 B 对比 2,323 美元 B (-15.3 %)；支出：2,712 美元 B 对比 2,371 美元 B (+14.4 %)。简而言之，收入减少，支出增加。\n\n\n\n\n图源：@ThHappyHawaiian\n\n也正如 Kuppy（@hkuppy）和 Luke Gromen（@LukeGromen）所指出的那样，美联储支付 5% 的国库券最终以其自身的方式起到了刺激作用，因为政府醉酒花费的所有多余资金仍然进入经济，只是以不同的方式与 zirp 和 QE 相比。\n\n\n\n事实上，这十年的剩余时间似乎只是美联储和财政部之间越来越有创意的舞蹈：如何将我们不断上升的预算赤字/主权债务货币化。就像 …",
-          "link": "https://www.theblockbeats.info/news/42914",
-          "publishedOn": "2023-06-24T06:09:02.000Z",
-          "wordCount": null,
-          "title": "我们正走向经济崩溃吗？关于宏观与加密的十个想法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42911",
-          "author": null,
-          "description": "自从以太坊Shapella升级以来，ETH质押的总数量从之前的15.3%增长到了19.2%",
-          "link": "https://www.theblockbeats.info/news/42911",
-          "publishedOn": "2023-06-24T03:15:01.000Z",
-          "wordCount": null,
-          "title": "这场LSDfi战争中，谁将获胜？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42917",
-          "author": null,
-          "description": "EDGE峰会将为创业者提供展示项目、吸引投资和获得宝贵反馈和洞⻅的机会。对于初创企业和早期⻛险投资者而言，这是推动他们在全球舞台上取得成功的终极展示平台。",
-          "link": "https://www.theblockbeats.info/news/42917",
-          "publishedOn": "2023-06-24T02:00:45.000Z",
-          "wordCount": null,
-          "title": "EDGE全球AI和Web3投资峰会揭幕：创新合作在香港孕育突破",
           "imageUrl": null
         }
       ]
