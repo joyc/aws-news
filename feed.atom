@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-26T18:09:53.774Z</updated>
+    <updated>2023-06-27T00:44:47.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -330,16 +330,6 @@ RZR 的具体分配情况如下：
 
 
 原文链接]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3日报｜Volatility Shares将推出首只杠杆比特币期货ETF；Azuki推出新系列NFT]]></title>
-        <id>https://www.theblockbeats.info/news/42920</id>
-        <link href="https://www.theblockbeats.info/news/42920"/>
-        <updated>2023-06-24T11:08:43.000Z</updated>
-        <summary type="html"><![CDATA[6月24日加密行业重要资讯一览]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
