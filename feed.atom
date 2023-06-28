@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-28T12:15:05.451Z</updated>
+    <updated>2023-06-28T18:09:50.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[彭博社专访何一全文：我是将CZ带进Crypto交易的人]]></title>
+        <id>https://www.theblockbeats.info/news/43070</id>
+        <link href="https://www.theblockbeats.info/news/43070"/>
+        <updated>2023-06-28T15:02:55.000Z</updated>
+        <summary type="html"><![CDATA[加密行业最具权力的女性]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜Azuki或将空投新NFT系列GreenBean；FTX CEO称已开始征求有兴趣的各方谈判重启FTX.com]]></title>
+        <id>https://www.theblockbeats.info/news/43067</id>
+        <link href="https://www.theblockbeats.info/news/43067"/>
+        <updated>2023-06-28T13:48:08.000Z</updated>
+        <summary type="html"><![CDATA[6月28日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azuki发售的Elementals为什么会撞图？]]></title>
+        <id>https://www.theblockbeats.info/news/43064</id>
+        <link href="https://www.theblockbeats.info/news/43064"/>
+        <updated>2023-06-28T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[很明显，Azuki团队在发售Elementals之前并没有做足充分的准备。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简述以太坊历史的关键节点，坎昆升级前应该怎样布局]]></title>
+        <id>https://www.theblockbeats.info/news/43048</id>
+        <link href="https://www.theblockbeats.info/news/43048"/>
+        <updated>2023-06-28T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[本文将介绍以太坊坎昆升级可能带来的变化，和投资机会，以及盘点以太坊历史的关键节点]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dione Protocol：季度涨幅超270%，专注可再生能源与区块链技术结合的创新协议]]></title>
+        <id>https://www.theblockbeats.info/news/43055</id>
+        <link href="https://www.theblockbeats.info/news/43055"/>
+        <updated>2023-06-28T11:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Layer1项目Dione 是一个专注于可再生能源和区块链技术相结合的创新项目，市值在30天内增长82%。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azuki扑街Milady坚挺，头像NFT到底需不需要项目方？]]></title>
+        <id>https://www.theblockbeats.info/news/43061</id>
+        <link href="https://www.theblockbeats.info/news/43061"/>
+        <updated>2023-06-28T11:24:53.000Z</updated>
+        <summary type="html"><![CDATA[后 PFP NFT 时代新叙事——实用价值。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Followin正式发布2.0版本，旨在打造Web3领域最优质的信息聚合平台]]></title>
         <id>https://www.theblockbeats.info/news/43058</id>
@@ -488,66 +548,6 @@ Layer
         <link href="https://www.theblockbeats.info/news/42977"/>
         <updated>2023-06-26T06:43:58.000Z</updated>
         <summary type="html"><![CDATA[上周的融资总数为15笔，总金额有所下降约 10002 万美元，平均融资金额为666.8万美元]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点11个ETHGlobal Waterloo 2023决赛入围项目]]></title>
-        <id>https://www.theblockbeats.info/news/42973</id>
-        <link href="https://www.theblockbeats.info/news/42973"/>
-        <updated>2023-06-26T04:51:38.000Z</updated>
-        <summary type="html"><![CDATA[11个决赛项目或预示以太坊和Web3未来发展方向。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Web3钱包宣布接入Scroll、Rarible和Trader Joe，构建更完备Web3生态系统]]></title>
-        <id>https://www.theblockbeats.info/news/42971</id>
-        <link href="https://www.theblockbeats.info/news/42971"/>
-        <updated>2023-06-26T04:31:54.000Z</updated>
-        <summary type="html"><![CDATA[通过整合新的区块链技术解决方案，OKX的钱包用户已可以更方便地使用包括可扩展性、跨链流动性、NFTs等领域的DeFi解决方案。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坐拥90亿美元规模的Binance Labs，投出了哪些代表项目？]]></title>
-        <id>https://www.theblockbeats.info/news/42963</id>
-        <link href="https://www.theblockbeats.info/news/42963"/>
-        <updated>2023-06-26T03:37:18.000Z</updated>
-        <summary type="html"><![CDATA[Binance Labs 不须急于回收利润，而是把重点放在产业的整体发展，借此建立一个良性的产业链经济循环。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基础设施如何通过账户抽象为数十亿用户提供支持？]]></title>
-        <id>https://www.theblockbeats.info/news/42962</id>
-        <link href="https://www.theblockbeats.info/news/42962"/>
-        <updated>2023-06-26T03:30:31.000Z</updated>
-        <summary type="html"><![CDATA[BlockPI目标是与社区共同建设并发展AA生态系统，竭尽所能推动AA生态的进步与繁荣。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Ventures 2023年5月月报：投资Prisma、Rage Trade、Shutter Network，涵盖LSD、去中心化衍生品及MEV赛道]]></title>
-        <id>https://www.theblockbeats.info/news/42957</id>
-        <link href="https://www.theblockbeats.info/news/42957"/>
-        <updated>2023-06-26T03:08:52.000Z</updated>
-        <summary type="html"><![CDATA[OKX Ventures出手投资了Prisma、Rage Trade、Shutter Network]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Chainalysis报告：深度剖析加密货币交易平台用户行为]]></title>
-        <id>https://www.theblockbeats.info/news/42956</id>
-        <link href="https://www.theblockbeats.info/news/42956"/>
-        <updated>2023-06-26T03:00:06.000Z</updated>
-        <summary type="html"><![CDATA[深度剖析加密货币交易平台用户行为，解读交易动态及资金流向。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
