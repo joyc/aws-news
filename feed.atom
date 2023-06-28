@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-06-28T06:10:50.737Z</updated>
+    <updated>2023-06-28T12:15:05.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Followin正式发布2.0版本，旨在打造Web3领域最优质的信息聚合平台]]></title>
+        <id>https://www.theblockbeats.info/news/43058</id>
+        <link href="https://www.theblockbeats.info/news/43058"/>
+        <updated>2023-06-28T10:25:34.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：
+
+Followin
+
+
+
+6 月 28 日，Followin 正式发布 2.0 版本，对产品设计和发展愿景进行了全面升级，旨在打造 Web3 领域最优质的信息聚合平台。
+
+
+
+
+
+全新 Logo，表达自有品牌哲思
+
+
+本次升级，Followin 发布了全新的品牌形象，灵感来源于哲学家安希孟对「入口」与「权力」的哲思：门不应当成为特权者的护身符，似乎守门人可以根据好恶决定行与禁；少数人操纵门钥的时代，应当成为历史。这也表达了 Followin 的核心理念：作为无数用户的 Web3 入口，Followin 始终要通过算法与科技，将 Web3 的信息平权主义、经济平权主义传递给更多人。
+
+
+
+
+
+个性关注，订阅你的专属信息库
+
+
+新增「关注」模块，用户可构建专属的关注列表，无论是追踪 KOL 观点、项目动态，还是订阅巨鲸异动、上币公告，都可实时追踪一手消息，满足用户一站式、更精准的订阅需求。
+
+
+
+
+
+
+全面 AI，最好用的信息搜索神器
+
+
+基于 chatGPT 增强 AI 应用，综合监控全球资讯、社媒内容、链上数据，快人一步发现异动币种。将针对投研、学习、交易、投资等场景，大幅提升搜索体验，帮助用户用更高效精准找到内容。
+
+
+
+
+
+
+强化互动，重塑高质量用户社区
+
+
+Followin 将聚集众多聪明的投资者，用户间可以建立更有趣的互动，高质量的发言与讨论将为用户带来更多的思考和启发。同时，积分体系、SBT 勋章等玩法的引入，用户的互动关系成为资产，让人与人用户间的连接更有价值。
+
+
+
+当前，Followin 基于 AI 追踪全球热点，热点聚合、自动翻译、AI 总结等功能已获得了 30 万活跃用户的喜爱，成为很多用户每日必看的资讯平台。面对未来，有些人说 Followin 会是下一个 Web3 头条，也有人说是 Web3 版本的 Reddit，但对于 Followin 团队来说，只想做好一件小事：通过 Web3 的科技与文化，用一个产品将全球不同肤色、不同国籍的、不同语言的用户链接起来，成为众多 Web3 用户的一种生活方式。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专访打算收购Azuki的NFT巨鲸：我加仓了，NFT不会亡]]></title>
+        <id>https://www.theblockbeats.info/news/43052</id>
+        <link href="https://www.theblockbeats.info/news/43052"/>
+        <updated>2023-06-28T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[6 月 28 日凌晨，NFT 领域为数不多的知名项目 Azuki 用一场瞠目结舌的发售震惊了所有 NFT 玩家。这个在熊市中唯一一个价格只涨不跌的 NFT 品牌，将 1 万张几乎和原版 Azuki 一模一样的 PFP 在 20 分钟内卖了 2 万个 ETH，犯下了若干个 NFT 行业不可理喻的错误，让一众坚信 Azuki 的社区玩家损失惨重。
+
+
+对此，BlockBeats 采访了 Azuki 系列的大户，同时也是 NDV 基金创始人以及 ManesLAB 联创 Christian。目前他持有 40 个 Azuki、700 个 Beanz，以及 400 个 Azuki Elementals。在「暴雷」事件发生后，Christian 曾在社交媒体表示愿意出价 4000 万美元收购 Azuki。这也许是玩笑，但也反映了 Azuki 社区的情绪，愤怒与无奈。
+
+
+BlockBeats：目前社区一定非常不满，作为大户您选择有意愿出价 4000 万美元收购 Azuki，是玩笑还是认真的？
+
+
+Christian：准确来说其实是半开玩笑半认真。认真的一面就是我确实特别看好 Azuki 这个品牌，也认为其蕴含着无限的可能性，能够建立起一个真正有影响力的潮牌和文化标杆。
+
+
+这也是为什么重注投资了不少，其实粗略算了算，应该也花了几百万美金在上面了。包括中文社区里，其实也有着不少能力很强并且非常忠诚的大户。大家的持仓加起来应该远超四千万美金了，所以能以这个价格去收购 Azuki 是稳赚不赔的事，我对背后社区力量的估值是远超这个数字的。同时我也有信心，能够通过实打实地运营将品牌从纯叙事发展成可持续创造现金流的实体企业。
+
+
+玩笑的一面是，四千万美元这个价格肯定是买不到的。我曾经特别相信 Zaga 和团队，他们不是会为了这点小的利益放弃一个前景如此良好的项目的人。因为其实只要用心做，光版税收入一…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑山EDCON2023结束一个月后的思考：基础设施和应用趋势前瞻]]></title>
+        <id>https://www.theblockbeats.info/news/43043</id>
+        <link href="https://www.theblockbeats.info/news/43043"/>
+        <updated>2023-06-28T06:10:33.000Z</updated>
+        <summary type="html"><![CDATA[EDCON2023话题围绕基础设施如何攻破隐私、可扩展性、去中心化的不可能三角（The Scalability Trilemma）展开，当前阶段正值ZK、账户抽象和L2三者的技术成熟期，基础设施的进步为应用创新提供温床。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azuki也倒下了，图片NFT的叙事到头了吗？]]></title>
+        <id>https://www.theblockbeats.info/news/43040</id>
+        <link href="https://www.theblockbeats.info/news/43040"/>
+        <updated>2023-06-28T04:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Azuki信仰还剩多少？如果NFT还只是用来构建狂欢的赌局，要大家怎么去期待NFT的未来？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azuki引发众怒，昨夜新系列发售到底发生了什么?]]></title>
         <id>https://www.theblockbeats.info/news/43037</id>
