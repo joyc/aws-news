@@ -308,6 +308,12 @@
       ]
     },
     {
+      "title": "Readhub -",
+      "feedUrl": "https://rsshub.app/readhub/blockchain",
+      "siteUrl": "https://readhub.cn/blockchain",
+      "articles": []
+    },
+    {
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
