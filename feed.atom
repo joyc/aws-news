@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-12-12T18:09:34.726Z</updated>
+    <updated>2023-12-13T00:34:40.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中基协：截至11月末存续私募基金规模20.61万亿元]]></title>
+        <id>readhub-8VSopUIZoAA</id>
+        <link href="https://readhub.cn/topic/8VSopUIZoAA"/>
+        <updated>2023-12-13T00:18:59.000Z</updated>
+        <summary type="html"><![CDATA[2023年11月，我国新备案私募基金1573只，总规模481.09亿元。截至11月末，我国存续私募基金153698只，总规模20.61万亿元。其中，私募证券投资基金98090只，规模5.73万亿元。私募股权投资基金31379只，规模11.12万亿元。创业投资基金22977只，规模3.20万亿元。
+   
+媒体报道
+  
+中基协：11月新备案私募基金数量1573只 新备案规模481.09亿元智通财经
+  
+中基协：截至11月末存续私募基金规模20.61万亿元中国证券网/财联社/新浪科技
+  
+中基协：11月新备案私募基金数量1573只，新备案规模481亿元36Kr
+  
+   
+事件追踪
+   
+2023-12-13 08:18:59中基协：截至11月末存续私募基金规模20.61万亿元
+  
+2023-12-01 09:32:01盈富基金获南向资金净买入8.6亿港元
+  
+2023-11-29 21:36:40国寿、新华拟共同设立500亿私募基金 投资上市公司股票
+  
+2023-11-28 22:01:19中基协：10月新备案私募基金规模272.22亿元
+  
+2023-11-28 21:21:38中基协：截至10月末存续私募基金规模20.59万亿元
+  
+2023-09-16 17:45:44中基协：公募基金要正确看待市场短期波动，强化逆周期思维
+  
+2021-10-08 17:23:47华兴新经济基金完成四期美元基金首关，认缴金额近5.5亿美元
+  
+2019-08-08 04:07:24中信资本完成募集第四支中国基金，规模达目标上限28亿美元
+  
+2019-05-30 02:15:30中国央行成立100亿元存款保险基金]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海发布网络直播营销合规指引：不应要求平台内经营者签“最低价协议”]]></title>
+        <id>readhub-8VSlHiKHMzh</id>
+        <link href="https://readhub.cn/topic/8VSlHiKHMzh"/>
+        <updated>2023-12-12T23:49:52.000Z</updated>
+        <summary type="html"><![CDATA[上海市市场监督管理局制定了两份合规指引，分别为《上海市网络零售平台合规指引》和《上海市网络餐饮服务平台合规指引》，并对2022年出台的《上海市网络直播营销活动合规指引》进行了修订。修订后的指引明确了直播营销平台的管理责任，强调不应要求平台内经营者签订“最低价协议”或其他不合理排他性强制条款。
+   
+媒体报道
+  
+上海发布网络直播营销合规指引：不应要求平台内经营者签“最低价协议”IT 之家/华尔街见闻/36Kr]]></summary>
+        <author>
+            <name>36Kr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海信视像(600060.SH)：2024年度拟开展不超过5亿美元远期外汇资金交易业务]]></title>
+        <id>readhub-8VSjqaHii4p</id>
+        <link href="https://readhub.cn/topic/8VSjqaHii4p"/>
+        <updated>2023-12-12T20:00:31.000Z</updated>
+        <summary type="html"><![CDATA[海信视像及其子公司计划于2024年开展外汇资金衍生品业务，产品范围包括远期结/售汇及相关业务的组合以及其他外汇衍生品交易业务等。业务余额不超过5亿美元或其他等值外币，额度内可循环使用。
+   
+媒体报道
+  
+海信视像(600060.SH)：2024年度拟开展不超过5亿美元远期外汇资金交易业务新浪科技/和讯网
+  
+海信视像：2024年度拟开展不超过5亿美元远期外汇资金交易业务财联社
+  
+海信视像披露新年理财计划 额度上限不超160亿元证券时报网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿斯麦与三星电子将共同投资7亿欧元在韩国建芯片研究中心]]></title>
         <id>readhub-8VSxPSFehYx</id>
