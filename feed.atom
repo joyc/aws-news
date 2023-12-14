@@ -2,10 +2,252 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-12-13T18:07:53.814Z</updated>
+    <updated>2023-12-14T00:34:17.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中银证券：网龙(00777)教育业务分拆上市落地 积极布局 AI/AR 新技术]]></title>
+        <id>readhub-8VUTkNBCRfe</id>
+        <link href="https://readhub.cn/topic/8VUTkNBCRfe"/>
+        <updated>2023-12-14T00:13:14.000Z</updated>
+        <summary type="html"><![CDATA[网龙公司将其教育业务分拆并在美国纽约证交所上市，此举有利于扩大教育业务和加大AI+教育的投入。公司还牵头投资了AR头部厂商Rokid，并积极布局新技术。在游戏业务方面，公司已应用AIGC技术提升效率，并在教育业务中开发定制化教育类大语言模型。中银证券维持网龙“买入”评级。
+   
+媒体报道
+  
+中银证券：网龙(00777)教育业务分拆上市落地 积极布局 AI/AR 新技术智通财经
+  
+网龙宣布完成分拆海外教育业务上市的合并交易DoNews
+  
+网龙(00777)完成分拆海外教育业务于美国上市 加速AI+教育进程智通财经]]></summary>
+        <author>
+            <name>智通财经</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌为云客户提供Gemini Pro模型 大部分功能可免费使用]]></title>
+        <id>readhub-8VUjoYSkFuz</id>
+        <link href="https://readhub.cn/topic/8VUjoYSkFuz"/>
+        <updated>2023-12-13T23:55:45.000Z</updated>
+        <summary type="html"><![CDATA[谷歌宣布为其云客户提供一系列升级后的人工智能工具，挑战竞争对手OpenAI的大模型GPT-4。谷歌整合了其规模最大、功能最强大的多模态人工智能模型Gemini Pro到两个关键的云产品中，可用于创建人工智能聊天机器人、易于查询的数据库和营销演示等应用程序。该公司表示，Gemini Pro的文本创建功能成本比其上一代模型低4倍，输出成本低2倍。谷歌还发布了免费的基于网络的开发者工具Google AI Studio和提供更定制服务的Vertex AI。此外，谷歌更新了文本创建图片的升级模型Imagen 2。
+   
+媒体报道
+  
+谷歌将推出Gemini Pro免费提供给云客户 AI技术突破或超市场预期腾讯网
+  
+谷歌为云客户提供Gemini Pro模型 大部分功能可免费使用新浪科技/腾讯网/CNBeta
+  
+   
+事件追踪
+   
+2023-12-14 07:55:45谷歌为云客户提供Gemini Pro模型 大部分功能可免费使用
+  
+2020-08-03 01:53:08谷歌为部分Chromebook用户提供三个月的Stadia Pro免费服务]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司将遭受欧盟反垄断打击]]></title>
+        <id>readhub-8VUfATRGJvG</id>
+        <link href="https://readhub.cn/topic/8VUfATRGJvG"/>
+        <updated>2023-12-13T23:51:18.000Z</updated>
+        <summary type="html"><![CDATA[欧盟反垄断调查发现苹果在音乐市场存在滥用行为，将于2024年初对苹果发布命令，禁止其在APP Store中针对音乐竞争对手实施不公平待遇，并可能对苹果进行罚款。
+   
+媒体报道
+  
+苹果公司将遭受欧盟反垄断打击财联社
+  
+阻挠 Spotify 反遭投诉，消息称苹果将受到欧盟反垄断打击搜狐科技
+  
+报道：苹果公司面临欧盟就其应用商店下达的反垄断禁令The Wall Street Journal
+  
+   
+事件追踪
+   
+2023-12-14 07:51:18苹果公司将遭受欧盟反垄断打击
+  
+2023-06-09 12:04:07苹果、Epic 一致要求美国法院重新考虑其反垄断裁决
+  
+2023-01-19 09:10:00苹果公司遭巴西反垄断监管机构调查
+  
+2022-03-30 09:00:15苹果在荷兰遭遇 App Store 反垄断诉讼
+  
+2021-12-07 06:34:39美司法部对苹果反垄断调查细节曝光：区别对待游戏公司
+  
+2021-12-06 08:15:52苹果发起反击：将俄罗斯市场监管机构告上法庭
+  
+2020-10-10 23:54:12苹果公司在美遭起诉：Apple Arcade被指控垄断手游市场
+  
+2020-06-16 12:19:07苹果公司遭欧盟反垄断调查，涉及Apple Pay和App Store
+  
+2019-05-13 15:24:22苹果在应用商店反垄断案中败诉
+  
+2019-05-06 00:18:16Spotify投诉，欧盟将正式对苹果展开反垄断调查]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PICO 4 销量远远低于预期，消息称字节跳动将取消下一代 VR 头显]]></title>
+        <id>readhub-8VUWc8l0Tqk</id>
+        <link href="https://readhub.cn/topic/8VUWc8l0Tqk"/>
+        <updated>2023-12-13T23:35:49.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动计划取消下一代VR头显PICO 5的发布，原因在于现款PICO 4销量不佳。此前有传闻称字节跳动将逐步关停PICO业务，但公司回应称PICO正常运营，并会长期投入XR业务。尽管PICO在2023年上半年占据了我国VR市场约50%的份额，但销量仍同比下滑超过50%。
+   
+媒体报道
+  
+PICO 4销量远远低于预期，消息称字节将取消下一代VR头显网易科技/DoNews
+  
+PICO 4 销量远远低于预期，消息称字节跳动将取消下一代 VR 头显搜狐科技
+  
+   
+事件追踪
+   
+2023-12-14 07:35:49PICO 4 销量远远低于预期，消息称字节跳动将取消下一代 VR 头显
+  
+2022-09-18 00:42:15字节跳动旗下 Pico 宣布 9 月 22 日发布新一代 VR 头显
+  
+2022-04-17 11:53:31字节跳动旗下 Pico 发布新款 VR 头显 Pico Neo Link 3
+  
+2021-08-26 15:04:43传字节跳动以50亿元收购Pico入局VR]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曲线二号总设计师回应质疑：中国火箭回收技术成功和马斯克无关]]></title>
+        <id>readhub-8VUaTzSd4xO</id>
+        <link href="https://readhub.cn/topic/8VUaTzSd4xO"/>
+        <updated>2023-12-13T23:30:46.000Z</updated>
+        <summary type="html"><![CDATA[中国民营航天公司星际荣耀的“双曲线二号”验证火箭成功进行了首次垂直起降飞行试验，标志着中国在火箭回收技术方面取得了重要突破。总设计师季海波表示，这一成果完全是中国航天技术人员自主研发和探索的结果，与马斯克无关。预计明年，该验证箭还将进行第三次飞行试验，实现海上回收。
+   
+媒体报道
+  
+曲线二号总设计师回应质疑：中国火箭回收技术成功和马斯克无关快科技
+  
+双曲线二号总设计师回应质疑：中国火箭回收技术成功和马斯克无关网易科技/CNBeta]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出版产业或迎变革浪潮 德国媒体巨鳄与OpenAI建立合作关系]]></title>
+        <id>readhub-8VUfskHmvXP</id>
+        <link href="https://readhub.cn/topic/8VUfskHmvXP"/>
+        <updated>2023-12-13T23:30:34.000Z</updated>
+        <summary type="html"><![CDATA[德国媒体巨头施普林格与美国人工智能公司OpenAI宣布建立全球合作伙伴关系。双方旨在将新闻业与人工智能技术进行更深入的整合，施普林格将为ChatGPT提供新闻内容，用户可以收到来自施普林格旗下新闻品牌的精选全球新闻内容摘要，包括付费内容。分析认为，这是媒体公司从AI工具中获得内容补偿的一个重要里程碑，可能预示了一种新的商业模式。
+   
+媒体报道
+  
+出版产业或迎变革浪潮 德国媒体巨鳄与OpenAI建立合作关系CNBeta/新浪科技/腾讯网
+  
+OpenAI与德国媒体巨头Axel Springer建立全球合作伙伴关系网易科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中央气象台发布暴雪黄色预警 气象部门提醒做好防范工作]]></title>
+        <id>readhub-8VUQC7bVhRc</id>
+        <link href="https://readhub.cn/topic/8VUQC7bVhRc"/>
+        <updated>2023-12-13T22:45:57.000Z</updated>
+        <summary type="html"><![CDATA[中央气象台发布四条预警，包括暴雪、寒潮、冰冻和大风预警。预计最强冬季寒潮将自西向东、自北向南横扫我国大部分地区，12月13日至14日，内蒙古河套地区、陕西北部和中部、河南中西部等地将出现大到暴雪，局地有大暴雪或特大暴雪。12月14日至15日，湖北西北部、河南中东部、山东大部等地将出现大雪，局地有暴雪。12月13日至16日，西北地区、内蒙古中西部、华北西部和南部等地降温可达14℃以上。最低气温将在17日降至0℃以下，0℃线可南压至贵州南部和江南北部一带，-10℃线位于黄淮北部至秦岭一带。在华北、黄淮北部等地，最低气温将接近或跌破历史同期极值。12月13日至14日夜间至白天，陕北南部和秦岭东部、河南北部和西部等地可能出现冻雨。
+   
+媒体报道
+  
+中央气象台12月14日06时继续发布冰冻黄色预警财联社
+  
+中央气象台12月14日06时继续发布寒潮黄色预警财联社
+  
+中央气象台发布暴雪黄色预警 气象部门提醒做好防范工作中关村在线
+  
+   
+事件追踪
+   
+2023-12-14 06:45:57中央气象台发布暴雪黄色预警 气象部门提醒做好防范工作
+  
+2023-11-23 10:49:15中央气象台继续发布寒潮黄色预警
+  
+2023-11-22 06:20:53中央气象台发布暴雪黄色预警
+  
+2023-11-14 09:22:42中央气象台发布大风蓝色预警]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧佩克：2023年全球原油需求增速预测为250万桶/日]]></title>
+        <id>readhub-8VUOtqa0aZ4</id>
+        <link href="https://readhub.cn/topic/8VUOtqa0aZ4"/>
+        <updated>2023-12-13T19:48:53.000Z</updated>
+        <summary type="html"><![CDATA[欧佩克发布月报显示，2023年全球原油需求增速预测为250万桶/日，2024年全球石油需求增速预测为220万桶/日。
+   
+媒体报道
+  
+OPEC月报：明年一季度全球石油供应将出现严重短缺华尔街见闻
+  
+欧佩克：2023年全球原油需求增速预测为250万桶/日36Kr
+  
+欧佩克仍然乐观 称油价下跌是因为对需求过度担忧智通财经
+  
+欧佩克维持石油需求增长预期 油价走高新浪科技
+  
+   
+事件追踪
+   
+2023-12-14 03:48:53欧佩克：2023年全球原油需求增速预测为250万桶/日
+  
+2023-11-27 22:16:12欧佩克+会议召开前夕 国际油市出现疲软迹象
+  
+2022-08-18 12:54:47欧佩克预计印度今年对石油产品的需求将增长7.7%，俄罗斯成印度最大原油供应国]]></summary>
+        <author>
+            <name>36Kr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储将基准利率维持在5.25-5.5％区间不变]]></title>
+        <id>readhub-8VUqEvhpavT</id>
+        <link href="https://readhub.cn/topic/8VUqEvhpavT"/>
+        <updated>2023-12-13T19:12:56.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦储备委员会宣布将联邦基金利率目标区间维持在5.25%至5.5%的水平不变，符合市场普遍预期。
+   
+媒体报道
+  
+美联储维持利率不变，基准利率在5.25%-5.50%Odaily
+  
+美联储维持利率不变，点阵图暗示明年将降息75个基点新浪科技
+  
+美联储将基准利率维持在5.25-5.5％区间不变财联社
+  
+美联储点阵图：预计2024年将降息75基点新浪科技
+  
+美联储官员预计明年降息75基点，美股美债黄金拉升，美元跳水华尔街见闻
+  
+美联储如期继续按兵不动，但承认通胀降温、下调明年利率预期华尔街见闻
+  
+午后：美联储维持利率不变并暗示明年降息三次 美股直线拉升新浪科技
+  
+   
+事件追踪
+   
+2023-12-14 03:12:56美联储将基准利率维持在5.25-5.5％区间不变
+  
+2023-11-27 07:51:32CME：美联储12月维持利率不变的概率为96.8%
+  
+2023-11-02 07:47:04美联储：将联邦基金利率维持在5.25%至5.5%不变
+  
+2023-07-27 17:15:39美联储加息25个基点，达到22年来最高水平
+  
+2023-03-23 12:05:28美联储宣布加息25个基点，仍致力于将通胀率压低至2%
+  
+2023-03-01 11:25:52美联储或将上调利率水平至近6%
+  
+2022-07-28 15:37:21美联储将不再提供明确加息指引]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复星医药：拟参设私募股权投资基金，布局生命科学及其上下游产业链]]></title>
         <id>readhub-8VUElJDxUh7</id>
