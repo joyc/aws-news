@@ -2,10 +2,338 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-12-17T00:37:50.319Z</updated>
+    <updated>2023-12-17T06:09:12.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鄂尔多斯市政府与华为签署煤炭工业互联网及矿鸿产业合作协议]]></title>
+        <id>readhub-8VaWuA803bI</id>
+        <link href="https://readhub.cn/topic/8VaWuA803bI"/>
+        <updated>2023-12-17T06:00:49.000Z</updated>
+        <summary type="html"><![CDATA[鄂尔多斯市政府与华为公司签署合作协议，共同推进煤炭工业互联网发展。双方将搭建工业互联网运营公司，研发煤炭行业AI大模型、工业互联网平台及矿鸿物联网操作系统。
+   
+媒体报道
+  
+华为与鄂尔多斯市政府签约，将在煤炭工业互联网、矿鸿产业达成合作IT 之家
+  
+鄂尔多斯市政府与华为签署煤炭工业互联网及矿鸿产业合作协议财联社
+  
+鄂尔多斯市政府与华为公司签署煤炭工业互联网合作·矿鸿产业合作协议36Kr]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动公布“OpenAI服务被禁”澄清：未来几天将再次全面排查，确保遵守条款]]></title>
+        <id>readhub-8VaWuOT1izP</id>
+        <link href="https://readhub.cn/topic/8VaWuOT1izP"/>
+        <updated>2023-12-17T05:37:08.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动否认违反OpenAI服务条款，称在使用相关服务时强调遵守使用条款。年初曾有工程师将GPT API用于实验性项目，但在引入调用规范检查后已停止。公司已制定内部要求，禁止将GPT生成的数据添加至训练数据集，并加强了对API调用的监管。未来几天将进行全面检查，确保严格遵守服务条款。
+   
+媒体报道
+  
+字节跳动公布“OpenAI服务被禁”澄清：未来几天将再次全面排查，确保遵守条款新浪科技/华尔街见闻
+  
+字节跳动澄清关于 OpenAI 服务的使用情况：仅在初期探索时用于实验性项目IT 之家
+  
+字节跳动公布“OpenAI服务被禁”澄清：将再次全面排查，确保遵守条款凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为高管称鸿蒙原生应用全面启动，目前生态设备数量已超7亿台]]></title>
+        <id>readhub-8VZS6ojPLZF</id>
+        <link href="https://readhub.cn/topic/8VZS6ojPLZF"/>
+        <updated>2023-12-17T05:31:32.000Z</updated>
+        <summary type="html"><![CDATA[华为高管透露，鸿蒙原生应用已全面启动，并与18个领域的开发者及伙伴展开合作，目前鸿蒙生态设备数量已超过7亿。近日，19家游戏伙伴参加了鸿蒙原生游戏合作仪式，多款游戏已完成或启动鸿蒙原生开发。此外，华为还举办了第六期鸿蒙生态学堂，吸引了众多知名应用的开发工程师参与。近半数移动互联网应用已启动鸿蒙原生应用开发，鸿蒙原生应用即将正式开启下载使用。
+   
+媒体报道
+  
+华为鸿蒙生态建设加速，已有20款应用适配鸿蒙原生系统搜狐科技/中关村在线
+  
+华为高管称鸿蒙原生应用全面启动，目前生态设备数量已超7亿台搜狐科技
+  
+   
+事件追踪
+   
+2023-12-17 13:31:32华为高管称鸿蒙原生应用全面启动，目前生态设备数量已超7亿台
+  
+2023-09-26 10:03:10华为余承东：鸿蒙原生应用全面启动]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win11今年被微软弃用功能达16项：含Cortana、写字板等]]></title>
+        <id>readhub-8VaREQcHwEu</id>
+        <link href="https://readhub.cn/topic/8VaREQcHwEu"/>
+        <updated>2023-12-17T05:13:36.000Z</updated>
+        <summary type="html"><![CDATA[微软在2023年宣布弃用16项Windows 11功能，其中包括Cortana小娜助手、写字板、邮件和日历等应用。这些功能或将被新的替代品取代，或将在未来版本中彻底删除。另外，一些旧的功能如语音识别、步骤记录器等也将被弃用。
+   
+媒体报道
+  
+Win11今年被微软弃用功能达16项：含Cortana、写字板等搜狐科技/快科技
+  
+Windows 11功能接连弃用 微软今年告别16项功能中关村在线
+  
+   
+事件追踪
+   
+2023-12-17 13:13:36Win11今年被微软弃用功能达16项：含Cortana、写字板等
+  
+2023-07-31 11:56:37微软暗示Win11 Copilot即将支持第三方AI插件
+  
+2017-03-30 18:39:41微软将从4月11日开始推送 Win10 重要更新，包括 3D 和混合现实功能、面向玩家的直播功能、改进Edge浏览器以及新的安全功能和隐私工具]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘古大模型AI生态加速营圆满结营，携手创业者繁荣AI创新生态]]></title>
+        <id>readhub-8VYp9zIok8B</id>
+        <link href="https://readhub.cn/topic/8VYp9zIok8B"/>
+        <updated>2023-12-17T03:46:04.000Z</updated>
+        <summary type="html"><![CDATA[华为云加速器举办的盘古大模型AI生态加速营圆满结营，33家AI创业公司完成了与华为云共创的大模型创新应用场景的研发。华为云全球生态部总裁康宁表示，将持续加强与创业公司的合作，丰富大模型的创新应用场景，提高AI赋能各行业的效率。本期加速营的创业公司已融入华为云全球生态体系，华为云加速器将围绕AI生态和创业全球化两大主题，赋能高潜力的创业公司。同时，华为云与多家创业公司进行了合作签约，将基于昇腾AI云服务和盘古大模型进行联合创新。
+   
+媒体报道
+  
+盘古大模型AI生态加速营圆满结营，携手创业者繁荣AI创新生态搜狐科技/投资圈]]></summary>
+        <author>
+            <name>投资圈</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软 Win11 淘汰传统控制台模式，未来将不再默认提供]]></title>
+        <id>readhub-8VaEqWXF5Rd</id>
+        <link href="https://readhub.cn/topic/8VaEqWXF5Rd"/>
+        <updated>2023-12-17T03:21:17.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布将停止更新旧版旧式命令行程序的兼容性工具“传统控制台模式”，并在未来版本的 Windows 中不再默认提供。然而，用户仍可通过手动安装应对特殊需求。此外，微软已停止更新多项其他功能和组件，如旧版语音识别工具、步骤记录器、Tips 应用等。这些功能虽然在一段时间内仍会存在于系统中，但不再获得更新，最终将被完全移除。
+   
+媒体报道
+  
+微软 Win11 淘汰传统控制台模式，未来将不再默认提供IT 之家
+  
+微软官方停止更新“传统控制台模式” 简单介绍你必须知道搜狐科技/中关村在线
+  
+   
+事件追踪
+   
+2023-12-17 11:21:17微软 Win11 淘汰传统控制台模式，未来将不再默认提供
+  
+2023-10-12 14:33:58微软已停止支持 Win11 首个版本 21H2，将不再收到每月安全和质量更新
+  
+2023-08-28 08:16:35消息称微软 Windows Copilot 将与 Win11 更深入集成，可能控制系统级功能
+  
+2023-07-31 11:56:37微软暗示Win11 Copilot即将支持第三方AI插件]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《博德之门3》登顶Xbox销量榜 拉瑞安：感谢Xbox玩家]]></title>
+        <id>readhub-8VZISYaezrD</id>
+        <link href="https://readhub.cn/topic/8VZISYaezrD"/>
+        <updated>2023-12-17T03:19:58.000Z</updated>
+        <summary type="html"><![CDATA[《博德之门3》Xbox版上市后受到玩家热烈欢迎，成为Xbox商店中最畅销的游戏之一。拉瑞安发行总监表示感谢，并宣布2024年初将推出实体豪华版本，售价约人民币628元。不同版本包含的光碟数量和附加内容有所不同。
+   
+媒体报道
+  
+《博德之门3》登顶Xbox销量榜 拉瑞安：感谢Xbox玩家中关村在线
+  
+《博德之门3》成Xbox平台畅销游戏之一 玩家众多成绩可观中关村在线
+  
+《博德之门3》已经是Xbox平台最畅销的游戏CNBeta
+  
+   
+事件追踪
+   
+2023-12-17 11:19:58《博德之门3》登顶Xbox销量榜 拉瑞安：感谢Xbox玩家
+  
+2023-09-06 11:45:50《博德之门 3》大获成功后，拉瑞安已在开发下一款游戏作品]]></summary>
+        <author>
+            <name>中关村在线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达 RTX 40 SUPER 系列显卡推出时间表曝光，1 月 17 日起开卖]]></title>
+        <id>readhub-8VZO5jwxg0Q</id>
+        <link href="https://readhub.cn/topic/8VZO5jwxg0Q"/>
+        <updated>2023-12-17T03:19:57.000Z</updated>
+        <summary type="html"><![CDATA[英伟达RTX 40 SUPER系列显卡将于1月9日发布，包括RTX 4080 SUPER、RTX 4070 Ti SUPER和RTX 4070 SUPER.RTX 4080 SUPER和RTX 4070 Ti SUPER将取代现有版本的显卡，而RTX 4070 SUPER将与其他版本共存一段时间.新显卡在CUDA核心、显存和功耗等方面有所提升.具体发售时间和评测解禁时间已公布.
+   
+媒体报道
+  
+英伟达 RTX 40 SUPER 系列显卡推出时间表曝光，1 月 17 日起开卖IT 之家
+  
+曝英伟达即将发布RTX 4080 SUPER显卡 性能强劲中关村在线
+  
+英伟达RTX 4080 2x RTX 4070 Ti 2x RTX 4070显卡发布时间表公布中关村在线
+  
+   
+事件追踪
+   
+2023-12-17 11:19:57英伟达 RTX 40 SUPER 系列显卡推出时间表曝光，1 月 17 日起开卖
+  
+2023-05-10 19:13:13消息称英伟达 RTX 4060 Ti 5 月 24 日推出，4060 7 月 1 日推出
+  
+2023-03-21 16:55:24英伟达GeForce RTX 4070显卡确认将采用12GB显存
+  
+2023-03-15 17:50:54英伟达在欧洲降低RTX 4090公版显卡售价 国内仍缺货]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日产与清华大学将成立联合研究中心 关注充电基础设施、电池再循环等]]></title>
+        <id>readhub-8VaMuEn6bjT</id>
+        <link href="https://readhub.cn/topic/8VaMuEn6bjT"/>
+        <updated>2023-12-17T03:07:45.000Z</updated>
+        <summary type="html"><![CDATA[日产汽车与清华大学将成立联合研究中心，从2024年开始共同研究包括充电基础设施、电池再循环等电动汽车生态系统相关课题，以及针对Z世代的有效沟通方式。研究成果将关注企业在此领域的作用及社会责任。
+   
+媒体报道
+  
+日产与清华大学将成立联合研究中心 关注充电基础设施、电池再循环等36Kr/财联社
+  
+日产汽车将与清华大学成立联合研究中心：聚焦充电基础设施、电池循环利用等IT 之家]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果 App Store 推出全新“关联定价”功能]]></title>
+        <id>readhub-8Va8GY8zxtQ</id>
+        <link href="https://readhub.cn/topic/8Va8GY8zxtQ"/>
+        <updated>2023-12-17T02:38:24.000Z</updated>
+        <summary type="html"><![CDATA[苹果近日推出了全新“关联定价”功能，旨在吸引和留住订阅用户。该功能允许开发者为当前订阅其他订阅服务的用户提供折扣价格，适用于单个或多个开发者的订阅服务。苹果会协助开发者配置相关优惠，确保用户享受顺畅的购买体验。目前，该功能正处于试行阶段，开发者可在1月份获取更多详细信息。
+   
+媒体报道
+  
+苹果 App Store 推出全新“关联定价”功能，助力开发者吸引留存订阅用户IT 之家
+  
+苹果App Store推出全新“关联定价”功能，助力开发者吸引留存订阅用户中关村在线
+  
+苹果 App Store 推出全新“关联定价”功能搜狐科技
+  
+   
+事件追踪
+   
+2023-12-17 10:38:24苹果 App Store 推出全新“关联定价”功能
+  
+2022-12-07 09:30:21苹果将支持针对不同商店分别定价，明年春天扩展至所有App
+  
+2020-05-18 01:07:16苹果向全球 20 多个国家和地区新推出App Store等服务]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞利浦 Hue 母公司 Signify 宣布重组，将进行裁员]]></title>
+        <id>readhub-8Va9Fpq3Vga</id>
+        <link href="https://readhub.cn/topic/8Va9Fpq3Vga"/>
+        <updated>2023-12-17T02:37:50.000Z</updated>
+        <summary type="html"><![CDATA[飞利浦Hue智能照明品牌背后的公司Signify在面临市场波动和不确定性时，宣布进行业务重组，以创建以客户为中心的新架构。该公司计划裁员并划分四个业务部门：专业业务、消费业务、OEM业务和传统业务。重组旨在降低成本，预计每年可节省约2.18亿美元。飞利浦Hue是苹果HomeKit平台的支持者，并计划支持未来的Matter智能家居标准。
+   
+媒体报道
+  
+飞利浦 Hue 母公司 Signify 宣布重组，将进行裁员IT 之家
+  
+飞利浦Hue智能照明母公司Signify宣布重组DoNews
+  
+飞利浦Hue母公司Signify宣布重组，将进行裁员中关村在线]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想 ThinkPad X1 2024 二合一笔记本明年三月推出，搭载酷睿 Ultra 处理器]]></title>
+        <id>readhub-8VZJntr62av</id>
+        <link href="https://readhub.cn/topic/8VZJntr62av"/>
+        <updated>2023-12-17T01:25:41.000Z</updated>
+        <summary type="html"><![CDATA[联想ThinkPad X1二合一Gen 9笔记本将于2024年3月上市，起售价约为18790元人民币.搭载酷睿Ultra系列处理器，最高可选64GB LPDDR5X内存和2TB SSD.笔记本厚度15.49mm，重量1.32kg，可选5G或4G联网模块，接口包括雷电4、USB-A、HDMI 2.1等.此前，联想已推出ThinkPad X1 Carbon 2024笔记本，搭载酷睿Ultra 7处理器，将于12月27日正式开卖.
+   
+媒体报道
+  
+联想 ThinkPad X1 2024 二合一笔记本明年三月推出搜狐科技
+  
+联想 ThinkPad X1 2024 二合一笔记本明年三月推出，搭载酷睿 Ultra 处理器IT 之家
+  
+联想ThinkPad X1 2024二合一笔记本明年三月推出，搭载酷睿Ultra处理器中关村在线
+  
+   
+事件追踪
+   
+2023-12-17 09:25:41联想 ThinkPad X1 2024 二合一笔记本明年三月推出，搭载酷睿 Ultra 处理器
+  
+2023-12-14 18:08:03联想小新 Pro 16 2024 笔记本明日推出，搭载酷睿 Ultra 处理器
+  
+2023-08-09 11:08:13联想 ThinkBook Plus Twist 笔记本上架：OLED + 彩色墨水双屏，11999 元
+  
+2018-08-31 12:11:53联想发布全球首款骁龙850笔记本：25小时续航，性能大幅提升]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天权助攻，孙东旭免职，董宇辉去留存疑]]></title>
+        <id>readhub-8VYs0CH2yZ2</id>
+        <link href="https://readhub.cn/topic/8VYs0CH2yZ2"/>
+        <updated>2023-12-17T01:06:54.000Z</updated>
+        <summary type="html"><![CDATA[俞敏洪兼任东方甄选CEO，董宇辉“小作文”风迎来转折。此前，东方甄选主播天权在直播中摔手机挑衅粉丝，导致直播间掉粉70万。与此同时，董宇辉个人抖音号粉丝持续攀升。东方甄选直播间宣布停播闭门思过，并于次日公布免去孙东旭CEO职务的消息。目前，董宇辉去留存疑。
+   
+媒体报道
+  
+天权助攻，孙东旭免职，董宇辉去留存疑腾讯网
+  
+俞敏洪：孙东旭被免职是管理失职和董宇辉无关，他依然是我小兄弟澎湃新闻/网易科技
+  
+俞敏洪：孙东旭被免与董宇辉无关虎嗅网
+  
+俞敏洪：孙东旭免职与董宇辉没有关系中国证券网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军54岁生日晒“车到山前必有路”海报 网友：期待小米汽车]]></title>
+        <id>readhub-8Va4vZmJDeV</id>
+        <link href="https://readhub.cn/topic/8Va4vZmJDeV"/>
+        <updated>2023-12-17T01:01:09.000Z</updated>
+        <summary type="html"><![CDATA[12月16日是小米创始人雷军的生日，他收到了众多朋友的祝福。雷军发布了一张特殊的海报，上半部分包含文字“车到山前必有路”和“KEPP RUNNING”，下半部分是他站在类似跑道的图案上回首微笑。结合海报文字和Redmi市场总经理王腾的评论，猜测小米汽车即将到来。雷军表示，小米首款汽车将于2024年上半年量产上市。
+   
+媒体报道
+  
+雷军54岁生日晒“车到山前必有路”海报 网友：期待小米汽车凤凰科技/快科技
+  
+雷军54岁生日发文配图「车到山前必有路」搜狐科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克“超级应用”再迈步：X（推特）已获美国 13 州汇款许可证，用户可相互转账]]></title>
+        <id>readhub-8Va8kXUzVrT</id>
+        <link href="https://readhub.cn/topic/8Va8kXUzVrT"/>
+        <updated>2023-12-17T00:55:47.000Z</updated>
+        <summary type="html"><![CDATA[马斯克旗下的社交媒体平台X（原推特）近日获得了美国第13个州的汇款许可证，为其提供支付功能铺平了道路。然而，要向全美用户提供支付服务，X平台还需获得每个州的批准，预计耗时18个月，投入数百万美元。专家认为，X公司进军支付领域最大的挑战将是获得用户和监管机构的信任。马斯克计划将X平台打造成集推特、PayPal等功能的“超级应用”，并在2024年年底前推出金融服务。
+   
+媒体报道
+  
+马斯克“超级应用”再迈步：X（推特）已获美国13州汇款许可证凤凰科技/网易科技
+  
+马斯克“超级应用”再迈步：X（推特）已获美国 13 州汇款许可证，用户可相互转账IT 之家
+  
+   
+事件追踪
+   
+2023-12-17 08:55:47马斯克“超级应用”再迈步：X（推特）已获美国 13 州汇款许可证，用户可相互转账
+  
+2023-11-10 11:11:54马斯克旗下的X平台开始从付费订阅获利 与数据许可协议合占四分之一收入]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司、维萨和万事达卡因高额商户费用面临诉讼]]></title>
         <id>readhub-8VZnv2021fJ</id>
@@ -3151,232 +3479,6 @@ Tims天好咖啡将在良品铺子开设店中店鸟哥笔记]]></summary>
 让上市公司监管“长牙带刺” 深交所全方面强化监管强度、深度和广度证券时报网]]></summary>
         <author>
             <name>中证网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫德纳和默沙东宣布在研疫苗可降低皮肤癌复发风险]]></title>
-        <id>readhub-8VW25fwqmFr</id>
-        <link href="https://readhub.cn/topic/8VW25fwqmFr"/>
-        <updated>2023-12-14T17:01:04.000Z</updated>
-        <summary type="html"><![CDATA[莫德纳和默沙东公布了2b期临床试验KEYNOTE-942/mRNA-4157-P201的后续数据。研究评估了mRNA-4157(V940)与默沙东抗PD-1疗法KEYTRUDA联合治疗高危黑色素瘤（III/IV期）患者的效果。结果显示，联用mRNA-4157(V940)和KEYTRUDA能显著降低复发或死亡风险49%，远处转移或死亡风险62%。分析还显示，联用疗法将复发或死亡风险降低44%，将远处转移或死亡风险降低65%，中位随访时间约为两年。
-   
-媒体报道
-  
-莫德纳和默沙东宣布在研疫苗可降低皮肤癌复发风险财联社/36Kr
-  
-莫德纳联手默沙东开发癌症疫苗 黑色素瘤死亡率三年后减少一半华尔街见闻]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔发布新一代移动端处理器——酷睿Ultra系列]]></title>
-        <id>readhub-8VVrAkGioE3</id>
-        <link href="https://readhub.cn/topic/8VVrAkGioE3"/>
-        <updated>2023-12-14T15:28:48.000Z</updated>
-        <summary type="html"><![CDATA[英特尔推出了全新一代移动端处理器——酷睿Ultra系列，已在10款中国大型模型上适配。该系列处理器在工艺、架构和功能方面有重大变化，保留了“酷睿”品牌名，使用3、5、7区分性能级别。新款处理器具有低延迟的AI计算能力，并将从MeteorLake开始广泛引入AI技术到PC中。预计12月14日晚间全球发布，12月15日下午在国内发布。
-   
-媒体报道
-  
-英特尔酷睿 Ultra 移动处理器发布：采用 Intel 4 工艺，核显性能翻倍IT 之家
-  
-英特尔发布新一代移动端处理器——酷睿Ultra系列电子发烧友
-  
-英特尔第五代至强可扩展处理器发布：平均性能提升 21%，内置 AI 加速器IT 之家
-  
-   
-事件追踪
-   
-2023-12-14 23:28:48英特尔发布新一代移动端处理器——酷睿Ultra系列
-  
-2023-12-06 09:45:38英特尔预热酷睿 Ultra 处理器，展示全新贴纸标识
-  
-2023-12-03 10:21:17英特尔宣布酷睿Ultra处理器12月15日发布：核显显著提升，探索AI潜力
-  
-2023-08-30 11:14:54Intel 4 工艺，消息称英特尔全新酷睿 Ultra 处理器 22W 可实现 4.8GHz
-  
-2023-03-24 08:20:11英特尔发布全新 vPro 平台，基于第 13代酷睿处理器
-  
-2020-09-02 17:39:01英特尔发布第11代酷睿移动处理器：性能翻倍提升
-  
-2020-07-15 09:36:56英特尔宣布将停产第9代酷睿X系列处理器
-  
-2019-10-08 02:41:36英特尔发三大系列全新处理器：涵盖W、X、S系列
-  
-2019-05-28 09:45:29英特尔发布第十代酷睿处理器
-  
-2018-10-09 00:36:51英特尔发布第九代酷睿桌面处理器]]></summary>
-        <author>
-            <name>IT 之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极越汽车携手Unity推出新一代3D智能座舱：极越01首搭]]></title>
-        <id>readhub-8VVrNFD3u1H</id>
-        <link href="https://readhub.cn/topic/8VVrNFD3u1H"/>
-        <updated>2023-12-14T15:20:36.000Z</updated>
-        <summary type="html"><![CDATA[极越汽车与Unity达成合作，共同探索新一代3D智能座舱交互体验，将在极越01车型上首次搭载。智能座舱从交互设计与视觉设计两方面着手，实现人性本能的交互形式和简洁科技感的视觉效果。座舱以沉浸式体验为导向，借助Unity 3D渲染引擎和成熟的开发设计工具链，打造不同的3D HMI交互体验。极越01具备60TOPS超高座舱算力，实现AI语音算法全量本地化，支持全离线语音交互。此外，极越01是全球首款依靠纯视觉感知算法跑通复杂城市道路的智能汽车，用户可在车内清晰分辨周围车辆形态、道路信息等。
-   
-媒体报道
-  
-极越汽车携手Unity推出新一代3D智能座舱：极越01首搭中关村在线/快科技
-  
-极越Unity宣布联合推出全新3D智能座舱 极越01率先搭载手机中国]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱康科技(002610.SZ)：拟21亿元新增4.6GW HJT电池生产项目]]></title>
-        <id>readhub-8VVv5NJPkkH</id>
-        <link href="https://readhub.cn/topic/8VVv5NJPkkH"/>
-        <updated>2023-12-14T14:45:36.000Z</updated>
-        <summary type="html"><![CDATA[爱康科技宣布其四个高效太阳能电池组件生产基地已实现3.2GWHJT电池、0.8GWPERC电池产能及10.4GW组件产能。由于自有HJT电池产能无法满足在手订单需求，公司计划投资21亿元建设4.6GWHJT电池生产项目，预计2024年1月完成第一条产线主设备进场。项目将以销扩产，结合市场和客户需求分批次增加产能。
-   
-媒体报道
-  
-在手订单饱满 爱康科技拟投资21亿元建设HJT电池生产项目证券时报网
-  
-爱康科技(002610.SZ)：拟21亿元新增4.6GW HJT电池生产项目新浪科技
-  
-爱康科技：拟投资21亿元建设4.6GW HJT电池生产项目36Kr
-  
-爱康科技重金追投异质结电池项目 超百亿担保风险依旧悬顶腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融监管总局：加快发展消费金融 大力支持保障性住房等“三大工程”建设]]></title>
-        <id>readhub-8VWAmaJUq1Y</id>
-        <link href="https://readhub.cn/topic/8VWAmaJUq1Y"/>
-        <updated>2023-12-14T14:36:44.000Z</updated>
-        <summary type="html"><![CDATA[金融监管总局召开会议，传达学习中央经济工作会议精神，并研究部署贯彻落实措施。会议强调要全面加强金融监管，有效防范化解金融风险，深化金融供给侧结构性改革。会议提出，要紧密结合监管职责与实际，系统谋划明年监管目标和重点任务，以金融高质量发展助力国家发展。会议还要求坚决贯彻党中央对金融工作的集中统一领导，推动经济回升向好，加强普惠金融服务，稳妥防范化解重点领域金融风险，并全面加强金融监管。
-   
-媒体报道
-  
-国家金融监管总局：一视同仁满足不同所有制房地产企业合理融资需求第一财经
-  
-金融监管总局：加快发展消费金融 大力支持保障性住房等“三大工程”建设中国证券网
-  
-国家金融监管总局：推动巩固和增强经济回升向好态势澎湃新闻
-  
-金融监管总局：有序推进中小金融机构改革化险，避免“一刀切”澎湃新闻
-  
-金融监管总局：加快发展消费金融，积极支持扩大有效益的投资新浪科技
-  
-   
-事件追踪
-   
-2023-12-14 22:36:44金融监管总局：加快发展消费金融 大力支持保障性住房等“三大工程”建设
-  
-2023-10-20 16:51:15金融监管总局：稳妥降低存量首套房贷利率，目前绝大部分贷款已调整到位]]></summary>
-        <author>
-            <name>新浪科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科华生物：第一大股东珠海保联拟协议转让其持有的公司5%股份]]></title>
-        <id>readhub-8VW1qrK4gGZ</id>
-        <link href="https://readhub.cn/topic/8VW1qrK4gGZ"/>
-        <updated>2023-12-14T14:21:33.000Z</updated>
-        <summary type="html"><![CDATA[科华生物第一大股东珠海保联计划通过协议转让其持有的5%公司股份，转让价格不低于20元/股，并将其持有的10.64%股份对应的表决权无偿委托给受让方。
-   
-媒体报道
-  
-科华生物：第一大股东珠海保联拟协议转让其持有的公司5%股份财联社
-  
-格力地产拟转让科华生物5%股份 科华生物第一大股东或将变更证券时报网
-  
-科华生物：公司第一大股东将可能发生变更36Kr
-  
-科华生物(002022.SZ)：第一大股东拟协议转让公司部分股份公开征集受让方新浪科技
-  
-格力地产(600185.SH)：子公司拟协议转让科华生物5%股份新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想AI PC将在明年率先搭载个人大模型]]></title>
-        <id>readhub-8VW6UQV4rLT</id>
-        <link href="https://readhub.cn/topic/8VW6UQV4rLT"/>
-        <updated>2023-12-14T13:55:05.000Z</updated>
-        <summary type="html"><![CDATA[联想集团副总裁王传东表示，人工智能时代，AI个人电脑（AI PC）将成为AI普惠的首选终端。联想AI PC计划在明年率先搭载个人大模型，形成“算力平台+个人大模型+AI应用”的新型混合体。
-   
-媒体报道
-  
-联想AI PC将在明年率先搭载个人大模型财联社
-  
-联想王传东：联想AI PC明年将率先实现搭载个人大模型搜狐科技
-  
-一大波换机潮降至 联想AI PC明年率先搭载个人大模型快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董明珠：斗争将伴随我们一生]]></title>
-        <id>readhub-8VVzVlZQmeU</id>
-        <link href="https://readhub.cn/topic/8VVzVlZQmeU"/>
-        <updated>2023-12-14T13:40:54.000Z</updated>
-        <summary type="html"><![CDATA[格力电器董事长董明珠在2023大学生入职仪式上发表演讲，强调格力坚定走自主创新路，并表示斗争将伴随一生。她提到曾开除被视为“接班人”的孟羽童，原因是孟在工作中表现不佳，且利用公司平台谋求个人网红发展。格力方面表示，孟羽童离职前经常旷工参加商务活动，接私活。董明珠认为人在格力去外面做广告是不合规的。
-   
-媒体报道
-  
-董明珠：斗争将伴随我们一生凤凰科技/CNBeta/快科技
-  
-   
-事件追踪
-   
-2023-12-14 21:40:54董明珠：斗争将伴随我们一生
-  
-2021-11-21 15:55:03董明珠回应格力何时实行周末双休：社会需要时，要放下自我
-  
-2020-05-25 04:30:48雷军：乐意再续与董明珠新赌约
-  
-2018-01-02 14:30:46董明珠谈贾跃亭：面对社会和员工永远不能忘记诚信二字
-  
-2017-09-11 12:30:26董明珠当年吹过的牛：三年灭小米、格力手机世界第一
-  
-2017-06-08 19:26:43董明珠和珠海银隆谁帮了谁？
-  
-2017-03-10 17:14:38董明珠：格力现在已无目标可追 最大敌人是自己]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[证监会：全力维护资本市场平稳运行 引导投资机构强化逆周期布局]]></title>
-        <id>readhub-8VW3zizo7sQ</id>
-        <link href="https://readhub.cn/topic/8VW3zizo7sQ"/>
-        <updated>2023-12-14T12:49:09.000Z</updated>
-        <summary type="html"><![CDATA[证监会召开会议传达学习中央经济工作会议精神，研究部署证监会系统贯彻落实工作。会议强调，明年是中华人民共和国成立75周年，是实施“十四五”规划的关键一年，做好经济工作意义重大。证监会系统要围绕增强经济活力、防范化解风险、改善社会预期，认真谋划2024年重点工作举措，扎实推动建设中国特色现代资本市场政策框架落地实施。会议提出了明年资本市场工作的两项重点任务：一是全力维护资本市场平稳运行，二是提升资本市场服务高质量发展的质效。
-   
-媒体报道
-  
-证监会：全力维护资本市场平稳运行 引导投资机构强化逆周期布局中国证券网
-  
-证监会：全力维护资本市场平稳运行第一财经
-  
-证监会：全力维护资本市场平稳运行，继续在增强信心、改善预期上下功夫36Kr
-  
-证监会：积极配合有关方面防范化解房地产、地方债务等风险36Kr/华尔街见闻
-  
-   
-事件追踪
-   
-2023-12-14 20:49:09证监会：全力维护资本市场平稳运行 引导投资机构强化逆周期布局
-  
-2023-12-05 20:25:06证监会： 坚决消除资本市场监管真空
-  
-2023-08-18 17:31:55证监会：将进一步推出稳预期、稳信心的措施，激发债券市场活力
-  
-2022-01-17 22:04:30证监会：要以全面实行股票发行注册制为主线
-  
-2020-07-31 12:50:55证监会年中会议：平稳推进资本市场全面深化改革落地实施]]></summary>
-        <author>
-            <name>36Kr</name>
         </author>
     </entry>
     <entry>
