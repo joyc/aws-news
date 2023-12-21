@@ -2,10 +2,544 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-12-21T06:09:51.406Z</updated>
+    <updated>2023-12-21T12:12:55.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爱旭股份：发布集中式电站场景ABC组件新品 双面率可达70%]]></title>
+        <id>readhub-8VfywSWonEr</id>
+        <link href="https://readhub.cn/topic/8VfywSWonEr"/>
+        <updated>2023-12-21T11:51:21.000Z</updated>
+        <summary type="html"><![CDATA[爱旭股份发布集中式电站场景使用的ABC高效组件“恒星系列”产品，双面率可达70%，具备高输出功率、局部阴影遮挡优化等五大技术优势。其中，“天狼星”产品针对滩涂水面场景，创新高阻水封装技术，降低清洗频次，实现全生命周期内的稳定发电收益。公司的高效ABC产品矩阵全面覆盖光伏发电各主流应用场景。爱旭股份董事长陈刚表示，公司的N型ABC技术是未来趋势，未来将通过持续技术创新推动太阳能广泛应用。
+   
+媒体报道
+  
+爱旭股份：发布集中式电站场景ABC组件新品 双面率可达70%中证网
+  
+爱旭股份首次发布适用地面电站ABC组件界面
+  
+爱旭股份推出高双面率ABC组件新品36Kr]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发表论文：在手机内存上运行大模型]]></title>
+        <id>readhub-8VhGyLB5g0c</id>
+        <link href="https://readhub.cn/topic/8VhGyLB5g0c"/>
+        <updated>2023-12-21T11:51:17.000Z</updated>
+        <summary type="html"><![CDATA[苹果发布了一篇论文，介绍了一种在超出可用DRAM容量的设备上运行大语言模型（LLM）的方法。通过提高内存使用效率，该方法能使有限容量的设备运行内存大小翻倍，同时GPU的推理速度提升数十倍。这项突破性研究有望加速苹果将生成式AI集成到iOS 18的计划。
+   
+媒体报道
+  
+AI iPhone前奏？苹果发表论文 解决“在手机内存上运行大模型”CNBeta
+  
+AI iPhone可行了？苹果发表论文，将大模型装进手机钛媒体
+  
+AI iPhone或可行 苹果发表论文将LLM装进手机财联社
+  
+AI iPhone前奏？苹果发表论文，解决“在手机内存上运行大模型”华尔街见闻/新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荣耀 90 GT 手机亮相：骁龙 8 Gen 2 处理器、自研射频增强芯片 C1]]></title>
+        <id>readhub-8VhbLA1WvwE</id>
+        <link href="https://readhub.cn/topic/8VhbLA1WvwE"/>
+        <updated>2023-12-21T11:51:08.000Z</updated>
+        <summary type="html"><![CDATA[荣耀90  GT手机在今晚的新品发布会上正式亮相，拥有GT蓝色、燃速金色和星曜黑色三款配色。机身厚度为7.9mm，重量185g。设计灵感来源于动力之源“引擎”，采用全新的「性能引擎」镜头设计和“赛道双纹”。性能方面，搭载第二代骁龙8旗舰芯片、超帧独显芯片和荣耀自研射频增强芯片C1，配备全新的3D冰封冷驱散热系统。IT之家将持续关注荣耀90  GT手机的更多信息。
+   
+媒体报道
+  
+荣耀 90 GT 手机亮相：骁龙 8 Gen 2、自研射频增强芯片 C1搜狐科技
+  
+荣耀 90GT 手机发布：搭载第二代骁龙 8 芯片搜狐科技
+  
+荣耀 90 GT 手机亮相：骁龙 8 Gen 2 处理器、自研射频增强芯片 C1IT 之家
+  
+荣耀 90GT 手机发布：搭载第二代骁龙 8 芯片，限时优惠价 2599 元起IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江省发改委：推动杭州市有序取消小客车限行限牌等政策]]></title>
+        <id>readhub-8VhJoTI9VJc</id>
+        <link href="https://readhub.cn/topic/8VhJoTI9VJc"/>
+        <updated>2023-12-21T11:49:54.000Z</updated>
+        <summary type="html"><![CDATA[浙江省发改委近日发布征求意见稿，计划推动杭州市有序取消小客车限行限牌等政策，同时落实新能源汽车减免购置税等政策，新增公共充电桩20000根以上。此外，以“浙里来消费”为主线，2024年将组织促消费活动2000场以上，支持餐饮品牌建设，培育壮大商贸业市场主体。
+   
+媒体报道
+  
+浙江省发改委：推动杭州市有序取消小客车限行限牌等政策财经网/钛媒体/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部：11月消费市场呈现加快回升态势]]></title>
+        <id>readhub-8VguQyRIF6K</id>
+        <link href="https://readhub.cn/topic/8VguQyRIF6K"/>
+        <updated>2023-12-21T11:41:49.000Z</updated>
+        <summary type="html"><![CDATA[2023年11月，我国消费市场呈现加快回升态势。社会消费品零售总额4.25万亿元，同比增长10.1%。商品销售增速加快，升级类商品消费增长明显。服务消费回升，餐饮收入同比增长25.8%，电影票房收入增长近2倍。线上消费较快增长，1-11月网上零售额13.96万亿元，同比增长11.0%。新能源汽车销量同比增长30%，占新车销量比重达34.5%。
+   
+媒体报道
+  
+商务部：11月消费市场呈现加快回升态势新浪科技/中国证券网
+  
+商务部：前11月全国网上零售额14万亿元 同比增长11%中国证券网
+  
+商务部：前11月全国网上零售额同比增长11%中证网
+  
+商务部：11月份社会消费品零售总额4.25万亿元 同比增长10.1%智通财经
+  
+商务部：11月社会消费品零售总额4.25万亿元 同比增长10.1%新浪科技
+  
+商务部：1-11月全国网上零售额14万亿元，同比增长11%钛媒体
+  
+商务部：1-11月全国网上零售额14万亿元 同比增长11%财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥园回应：在美申请破产保护是境外债重组必要步骤，不影响企业经营及境内债]]></title>
+        <id>readhub-8VhRjtVsSBU</id>
+        <link href="https://readhub.cn/topic/8VhRjtVsSBU"/>
+        <updated>2023-12-21T11:21:25.000Z</updated>
+        <summary type="html"><![CDATA[中国奥园在当地时间12月20日根据美国《破产法》第15章在纽约法院申请破产保护。此举是为了推进境外债务重组，公司强调这并不影响其境内债及正常经营。申请破产保护是境外债重组的必要步骤，目的是确认已获得大多数债权人同意的公司重组计划，防范诉讼风险。中国奥园成为首家完成全部境内外债务重组的粤系房企。尽管近期房地产融资政策有所放宽，但公司仍面临销售压力。
+   
+媒体报道
+  
+奥园回应：在美申请破产保护是境外债重组必要步骤，不影响企业经营及境内债智通财经
+  
+中国奥园回应在美国申请破产保护：系境外债务重组必要步骤新浪科技/每经网/腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部：1-11月我国对外非金融类直接投资同比增长18.4%]]></title>
+        <id>readhub-8VhJg1sy2qu</id>
+        <link href="https://readhub.cn/topic/8VhJg1sy2qu"/>
+        <updated>2023-12-21T10:49:08.000Z</updated>
+        <summary type="html"><![CDATA[2023年1-11月，我国对外非金融类直接投资8145.4亿元，同比增长18.4%，折合1156.8亿美元，同比增长12.7%。其中，一带一路共建国家非金融类直接投资2011.7亿元，同比增长26.8%，折合285.7亿美元，同比增长20.7%。
+   
+媒体报道
+  
+商务部：2023年1-11月全国吸收外资1.04万亿元人民币，同比下降10.0%钛媒体
+  
+商务部：1-11月我国对外非金融类直接投资同比增长18.4%财联社/钛媒体
+  
+商务部：1-11月，我国对外非金融类直接投资同比增长18.4%36Kr
+  
+商务部：1-11月我国企业承接服务外包合同额21305亿元 同比增长15.8%新浪科技/智通财经
+  
+商务部：1—11月我国对外非金融类直接投资8145.4亿元人民币 同比增长18.4%新浪科技
+  
+商务部：前11月我国对外非金融类直接投资同比增长18.4%新浪科技
+  
+商务部：1—11月我国企业承接服务外包合同额21305亿元，同比增长15.8%36Kr]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多家银行将从12月22日起下调存款挂牌利率]]></title>
+        <id>readhub-8VhXOKBssuu</id>
+        <link href="https://readhub.cn/topic/8VhXOKBssuu"/>
+        <updated>2023-12-21T10:41:57.000Z</updated>
+        <summary type="html"><![CDATA[多家银行将从12月22日起下调存款挂牌利率。工商银行率先公布调整方案，包括各类定期存款和通知存款挂牌利率均有所下调。建设银行、中国银行、农业银行、邮储银行等多家银行也将跟进调整。此次调整是自去年9月以来存款挂牌利率的第四轮下调。
+   
+媒体报道
+  
+时隔3个月存款利率迎来新一轮下调：三年期、五年期定存下调25个基点澎湃新闻/腾讯网
+  
+多家银行将从12月22日起下调存款挂牌利率钛媒体/澎湃新闻/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国奥园在纽约申请破产保护]]></title>
+        <id>readhub-8VhBy2NWLzE</id>
+        <link href="https://readhub.cn/topic/8VhBy2NWLzE"/>
+        <updated>2023-12-21T10:36:53.000Z</updated>
+        <summary type="html"><![CDATA[香港上市房企中国奥园在当地时间12月20日根据美国《破产法》第15章在纽约法院申请破产保护。此前，中国奥园已在11月获得足够债权人支持，批准其境外债务重组计划。
+   
+媒体报道
+  
+中国奥园在美国纽约申请破产保护，境外债重组方案已获债权人投票同意澎湃新闻
+  
+中国奥园在纽约申请破产保护财联社/新浪科技/钛媒体
+  
+中国奥园在美国纽约申请破产保护36Kr]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一汽丰田在国内召回 25815 辆 bZ3 电动汽车：仪表显示电量高于实际值，将 OTA 升级软件]]></title>
+        <id>readhub-8VhREw0uWPW</id>
+        <link href="https://readhub.cn/topic/8VhREw0uWPW"/>
+        <updated>2023-12-21T10:33:45.000Z</updated>
+        <summary type="html"><![CDATA[一汽丰田汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，召回2023年3月13日至2023年11月9日生产的部分bZ3电动汽车，共计25815辆。原因是部分车辆在连续多次未充满电且持续高速行驶的情况下，剩余电量预估偏差过大，存在安全隐患。一汽丰田将通过远程升级（OTA）技术，为召回范围内的车辆免费升级电池管理控制器的控制程序，以消除安全隐患。
+   
+媒体报道
+  
+一汽丰田在国内召回 25815 辆 bZ3 电动汽车：仪表显示电量高于实际值，将 OTA 升级软件IT 之家
+  
+显示电量高于实际电量 一汽丰田宣布召回25815辆bZ3电动汽车CNBeta
+  
+显示电量高于实际电量：一汽丰田宣布召回25815辆bZ3电动汽车快科技/凤凰科技
+  
+电量显示不准或存安全隐患  一汽丰田召回2.5万辆电动汽车DoNews]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天涯创始人剧透天涯明年重启：将推官方版天涯神贴]]></title>
+        <id>readhub-8VhU94Y6krI</id>
+        <link href="https://readhub.cn/topic/8VhU94Y6krI"/>
+        <updated>2023-12-21T10:33:43.000Z</updated>
+        <summary type="html"><![CDATA[天涯社区创始人邢明近日透露，天涯将在明年3月1日公司成立25周年时重启，并推出官方版“天涯神贴”。天涯社区曾因资金流动性困难和技术问题暂停访问，而为筹集支付电信机房费用，天涯前员工们曾发起直播义卖活动。邢明强调，数据不会丢失，天涯从未放弃，将优先恢复和保存数据，与政府、电信合作沟通，确保网友们的回忆能够留存下来。
+   
+媒体报道
+  
+天涯创始人剧透天涯明年重启：将推官方版天涯神贴CNBeta/快科技
+  
+天涯创始人称明年重启，将推官方直播和天涯神贴IT 之家]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米推出双核净水器 1200G Pro，首发 3299 元]]></title>
+        <id>readhub-8VhSl80fq8J</id>
+        <link href="https://readhub.cn/topic/8VhSl80fq8J"/>
+        <updated>2023-12-21T10:21:57.000Z</updated>
+        <summary type="html"><![CDATA[小米双核净水器1200G  Pro在京东上架，将于12月25日开启预售，售价3299元，并赠送价值249元的小米即热饮水机。该净水器采用双RO超净水路系统，8级层层净化，可有效滤除95种有害物质，获得特优水质认证。配备12页进口反渗透RO滤芯，性能持久稳定，净水效果长达8年以上。拥有1200G超大通量，可达3.2L/min大水量，3秒满杯，满足多人用水需求。同时配备智能数显龙头，支持水质情况显示和滤芯寿命到期及时显示。
+   
+媒体报道
+  
+小米推出双核净水器 1200G Pro，首发 3299 元搜狐科技/IT 之家
+  
+小米推出双核净水器1200G ProDoNews]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国工程院院士郑纬民谈英伟达一卡难求：国产卡生态系统不好没人用]]></title>
+        <id>readhub-8VhR8DOJ9mI</id>
+        <link href="https://readhub.cn/topic/8VhR8DOJ9mI"/>
+        <updated>2023-12-21T10:11:51.000Z</updated>
+        <summary type="html"><![CDATA[在2023科技风云榜年度盛典上，郑纬民院士表示，虽然英伟达硬件性能优秀且生态良好，但我国目前买不到且价格昂贵。他强调，国产AI芯片应得到重点支持，提高性能和生态系统质量。郑纬民提出，要做好十个软件方面的工作，以改变国产卡生态系统不好的局面。他坚信，只要国产AI芯片性能达到国外芯片60%，且生态系统完善，用户会满意。最后，郑纬民呼吁大力开展基于国产系统的大模型基础设施研究工作，做好软硬件协同，以提升国产卡的地位。
+   
+媒体报道
+  
+中国工程院院士郑纬民谈英伟达一卡难求：国产卡生态系统不好没人用搜狐科技/凤凰科技/快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部、科技部公布《中国禁止出口限制出口技术目录》]]></title>
+        <id>readhub-8VhUZzpNvcp</id>
+        <link href="https://readhub.cn/topic/8VhUZzpNvcp"/>
+        <updated>2023-12-21T10:11:04.000Z</updated>
+        <summary type="html"><![CDATA[商务部、科技部发布《中国禁止出口限制出口技术目录》，即日起实施。原商务部、科技部公告2020年第38号同时废止。军民两用技术纳入出口管制管理。
+   
+媒体报道
+  
+商务部、科技部公布《中国禁止出口限制出口技术目录》钛媒体/36Kr/新浪科技/腾讯网
+  
+商务部：修订发布的《中国禁止出口限制出口技术目录》共删除34项技术条目，新增4项钛媒体
+  
+商务部：修订发布的《中国禁止出口限制出口技术目录》共删除34项技术条目 新增4项财联社]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛力斯集团与宁德时代全面深化战略合作]]></title>
+        <id>readhub-8VhThQJ73f4</id>
+        <link href="https://readhub.cn/topic/8VhThQJ73f4"/>
+        <updated>2023-12-21T10:01:36.000Z</updated>
+        <summary type="html"><![CDATA[赛力斯集团与宁德时代签署战略合作协议，双方将在超充技术、电池安全、车电充一体化发展等方面合作，共同推动电池技术创新和全球化布局。宁德时代将为AITO问界系列车型提供高质量电池产品，并在新产品研发、新技术应用方面深度协同。
+   
+媒体报道
+  
+宁德时代：与赛力斯集团达成战略合作钛媒体
+  
+赛力斯集团与宁德时代全面深化战略合作华尔街见闻/36Kr/财经网]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香飘飘：蒋建琪辞去公司总经理职务]]></title>
+        <id>readhub-8VhLbDesm90</id>
+        <link href="https://readhub.cn/topic/8VhLbDesm90"/>
+        <updated>2023-12-21T09:51:46.000Z</updated>
+        <summary type="html"><![CDATA[香飘飘公司总经理蒋建琪辞职，但仍将继续担任董事长等职务。
+   
+媒体报道
+  
+蒋建琪辞去香飘飘总经理职务，杨冬云“接棒”财经网
+  
+香飘飘：总经理蒋建琪辞职，杨冬云接任财经网
+  
+香飘飘：蒋建琪辞去公司总经理职务钛媒体/财联社]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东风公司捐赠款物 1500 万元驰援甘肃、青海地震灾区]]></title>
+        <id>readhub-8VhQkKGFEUP</id>
+        <link href="https://readhub.cn/topic/8VhQkKGFEUP"/>
+        <updated>2023-12-21T09:51:43.000Z</updated>
+        <summary type="html"><![CDATA[甘肃临夏州积石山县发生 6.2 级地震，灾情牵动全国人民的心 ... 东风公司携旗下东风乘用车、东风商用车、东风岚图、东风日产、东风本田、东风股份、郑州日产、东风柳汽，向甘肃省慈善联合总会、青海省慈善总会共计捐赠款物 1500 万元，其中，1000 万元现金、价值 500 万元的 29 台应急救援车辆，用于地震受灾地区的紧急救援、受灾群众生活救助及灾后重建等相关工作 ... 东风公司旗下东风风神、郑州日产、东风轻型车等多个品牌陆续推出了系列用户关爱行动，对受灾及救灾车辆开展免费用车保障活动，携手地震灾区人民共渡难关。
+   
+媒体报道
+  
+东风公司捐赠款物 1500 万元驰援甘肃、青海地震灾区DoNews/IT 之家
+  
+东风公司捐赠款物1500万元驰援甘肃、青海灾区财经网]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo胡柏山：智能手机行业明年将持续回暖]]></title>
+        <id>readhub-8VhJqRLx2CC</id>
+        <link href="https://readhub.cn/topic/8VhJqRLx2CC"/>
+        <updated>2023-12-21T09:47:16.000Z</updated>
+        <summary type="html"><![CDATA[vivo执行副总裁胡柏山表示，智能手机行业仍是一个好行业，明年将逐步回暖。他认为手机行业具备穿越周期的天然属性，是科技领域中最好的行业。
+   
+媒体报道
+  
+vivo胡柏山：智能手机行业明年将持续回暖36Kr
+  
+vivo胡柏山：智能手机还是一个好行业，明年将持续回暖腾讯网/环球网科技/搜狐科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国风光总装机突破10亿千瓦]]></title>
+        <id>readhub-8VhKWjyAx8v</id>
+        <link href="https://readhub.cn/topic/8VhKWjyAx8v"/>
+        <updated>2023-12-21T09:31:57.000Z</updated>
+        <summary type="html"><![CDATA[2023年，我国能源绿色低碳转型加速，全国风光总装机突破10亿千瓦，风电光伏基地建设进展顺利。截至11月底，第一批已建成并网4516万千瓦，第二批和第三批已核准超过5000万千瓦，陆续开工建设。
+   
+媒体报道
+  
+全国风光总装机突破10亿千瓦钛媒体/财联社
+  
+全国风电光伏总装机突破 10 亿千瓦IT 之家
+  
+中国风光总装机突破10亿千瓦 占发电总装机超1/3快科技]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根大通增持小鹏汽车H股，何小鹏称距离年产100万辆目标已经不远]]></title>
+        <id>readhub-8VhIl5gKuVO</id>
+        <link href="https://readhub.cn/topic/8VhIl5gKuVO"/>
+        <updated>2023-12-21T09:23:32.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通增持小鹏汽车香港股份，预计2024年成为中国半自动驾驶市场重要转折点。阿里巴巴减持小鹏汽车股份，持股比例从10.2%降至7.5%，称仍看好小鹏汽车前景。第三季度小鹏汽车营收85.3亿元，同比增长25%，但仍未实现扭亏为盈，净亏损38.9亿元。小鹏汽车今年累计销量约12.15万辆，未来三年计划提高产能，何小鹏认为竞争核心在于快速达到1000万辆销量。
+   
+媒体报道
+  
+摩根大通增持小鹏汽车H股，何小鹏称距离年产100万辆目标已经不远证券时报网/新浪科技/腾讯网/每经网]]></summary>
+        <author>
+            <name>每经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈尔斯：拟不超5000万元开展新媒体营销渠道建设 包括短剧视频、AI数字人等]]></title>
+        <id>readhub-8Vg63sHBXtJ</id>
+        <link href="https://readhub.cn/topic/8Vg63sHBXtJ"/>
+        <updated>2023-12-21T09:13:44.000Z</updated>
+        <summary type="html"><![CDATA[哈尔斯公司及子公司计划投入不超过5000万元开展新媒体营销渠道建设，包括短剧视频、AI数字人等，以助力品效销一体化发展。第一期投入500至1000万元，并根据实施效果推进后续工作。
+   
+媒体报道
+  
+哈尔斯(002615.SZ)：拟开展新媒体营销渠道建设新浪科技
+  
+哈尔斯：拟不超5000万元开展新媒体营销渠道建设 包括短剧视频、AI数字人等财联社/新浪科技
+  
+哈尔斯拟总投入5000万元建新媒体营销渠道，涉短剧、AI数字人、影视动漫、IP合作界面
+  
+哈尔斯计划开展新媒体营销渠道建设铅笔道
+  
+哈尔斯：拟不超5000万元开展新媒体营销渠道建设，包括短剧视频、AI数字人等钛媒体]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田股价大跌，受大规模召回和大发造假丑闻影响]]></title>
+        <id>readhub-8VgunoFuel5</id>
+        <link href="https://readhub.cn/topic/8VgunoFuel5"/>
+        <updated>2023-12-21T09:13:04.000Z</updated>
+        <summary type="html"><![CDATA[丰田汽车日本上市股票周四早盘下跌5.6%，创18个月来最大跌幅。原因是大发汽车子公司因安全丑闻办公室被搜查，以及丰田在美国召回100万辆汽车。大发为丰田、马自达和斯巴鲁等品牌提供汽车和零部件，可能导致丑闻波及日本汽车行业。丰田面临重建监管信任挑战，这是继去年日野汽车公司排放数据造假后，丰田子公司再次曝出丑闻。
+   
+媒体报道
+  
+丰田大发汽车市场销售暂停 大发汽车舞弊事件影响深远中关村在线
+  
+丰田股价大跌，受大规模召回和大发造假丑闻影响新浪科技
+  
+丰田子公司被曝174项违规操作 日本大发全面停止汽车出货快科技/凤凰科技
+  
+大发汽车办公室因安全丑闻被搜查 丰田股价周四早盘一度大跌5.6%CNBeta]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交通运输部：自动驾驶车辆测试里程已累计超过7000万公里]]></title>
+        <id>readhub-8VhPsr3cjlH</id>
+        <link href="https://readhub.cn/topic/8VhPsr3cjlH"/>
+        <updated>2023-12-21T09:11:42.000Z</updated>
+        <summary type="html"><![CDATA[交通运输部副部长李扬透露，我国自动驾驶车辆测试里程已累计超过7000万公里。此外，智慧公路、智慧航道、智慧港口等建设加速推进，绿色低碳技术广泛应用，助力产业转型发展。
+   
+媒体报道
+  
+交通运输部：自动驾驶车辆测试里程已累计超过7000万公里财经网/澎湃新闻/财联社/36Kr]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米宣布Civi 3升级澎湃OS：系统流畅度大幅提升]]></title>
+        <id>readhub-8VhNhOkurEA</id>
+        <link href="https://readhub.cn/topic/8VhNhOkurEA"/>
+        <updated>2023-12-21T09:01:21.000Z</updated>
+        <summary type="html"><![CDATA[小米Civi  3推出澎湃OS更新，系统流畅度大幅提高，实现丝滑体验。澎湃OS是一款全生态操作系统，融合了Linux原生内核和自研Vela内核，重构了四大子系统，包括图形、文件、网络和内存子系统。更新后，系统性能大幅提升，如IO性能50个月无衰减，第三方应用加载速度提升15%，OTA升级存储空间占用降低79%，OTA时间减少24%等。同时，动画效果如丝般顺滑，实现了细腻真实的模糊混色多级渲染和玻璃纹理光影变幻的实时模拟。
+   
+媒体报道
+  
+小米Civi 3获澎湃OS更新，系统流畅度大幅提升搜狐科技
+  
+小米宣布Civi 3升级澎湃OS：系统流畅度大幅提升搜狐科技/快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复旦大学-蘑菇车联自动驾驶人工智能研究中心揭牌]]></title>
+        <id>readhub-8VfUvAnNvbF</id>
+        <link href="https://readhub.cn/topic/8VfUvAnNvbF"/>
+        <updated>2023-12-21T08:31:49.000Z</updated>
+        <summary type="html"><![CDATA[复旦大学与蘑菇车联共建的自动驾驶人工智能研究中心正式揭牌。中心将依托复旦的科研成果和人才优势，与蘑菇车联的技术产品能力及商业实践经验，共同研发车路云一体化领域的算法模型。双方已合作发布全球首个基于AI大模型的车路云一体化系统3.0，助力自动驾驶大规模落地。未来，双方将继续加强自主创新能力，推动人工智能领域前沿研究，助力交通强国、汽车强国、数字中国建设。
+   
+媒体报道
+  
+复旦大学-蘑菇车联自动驾驶人工智能研究中心揭牌搜狐科技/DoNews]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉Model Y打破丹麦市场单一车型年度销量记录 已尘封37年]]></title>
+        <id>readhub-8Vgyl3M8sTk</id>
+        <link href="https://readhub.cn/topic/8Vgyl3M8sTk"/>
+        <updated>2023-12-21T08:31:47.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉的跨界运动型多用途电动汽车Model  Y在部分市场销量超过经典燃油车，成为销量最高的车型。其中，在丹麦市场，Model  Y预计将打破保持37年的单一车型年度销量记录。这与丹麦市场对电动汽车的高需求和Model  Y降价后的竞争力增强密切相关。丹麦市场的电动汽车需求在欧洲国家中位居前列，电动汽车在丹麦汽车市场的份额已达到38%。今年1月，特斯拉降低了Model  Y在丹麦等市场的售价，使其在价格上具有竞争力。
+   
+媒体报道
+  
+特斯拉Model Y打破丹麦市场单一车型年度销量记录 已尘封37年TechWeb
+  
+特斯拉Model Y成丹麦销量最高的车型 超37年记录中关村在线
+  
+特斯拉Model Y打破丹麦37年的销售记录 销量遥遥领先手机中国]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年1月1日起，我国调整部分商品进出口关税]]></title>
+        <id>readhub-8VhLyOvv6By</id>
+        <link href="https://readhub.cn/topic/8VhLyOvv6By"/>
+        <updated>2023-12-21T08:31:46.000Z</updated>
+        <summary type="html"><![CDATA[我国将于2024年调整部分商品的进出口关税，以发挥进出口对经济的支撑作用。调整包括降低先进制造业、人民生命健康、新材料等领域的进口关税，同时提高部分商品的进口关税。此外，我国还将对20个协定项下的30个国家和地区实施协定税率，并继续对最不发达国家实施特惠税率。这些调整措施有助于支持稳住外贸外资基本盘，推动行业发展，提升我国在国际市场竞争中的优势。
+   
+媒体报道
+  
+明年起，我国将对1010项商品实施低于最惠国税率的进口暂定税率36Kr
+  
+2024年1月1日起我国调整部分商品进出口关税财联社/钛媒体/证券时报网/中国证券网
+  
+2024年1月1日起，我国调整部分商品进出口关税新浪科技]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌推出 TpuGraphs 训练数据集：用于优化编译器，可强化 AI 模型深度学习能力]]></title>
+        <id>readhub-8VhKfymPqDu</id>
+        <link href="https://readhub.cn/topic/8VhKfymPqDu"/>
+        <updated>2023-12-21T08:31:23.000Z</updated>
+        <summary type="html"><![CDATA[谷歌近日发布了一款名为TpuGraphs的模型训练数据集，旨在优化编译器和提升AI深度学习能力。该数据集主要来源于开源深度学习程序，包含多种热门模型架构。与业界竞品相比，TpuGraphs数据集在图大小和图数量上具有明显优势。此外，谷歌还介绍了一种名为GST的训练方法，可在内存有限的设备中高效训练大型图神经网络。
+   
+媒体报道
+  
+谷歌推出 TpuGraphs 训练数据集：用于优化编译器，可强化 AI 模型深度学习能力IT 之家
+  
+谷歌发布大模型训练数据集，强化模型深度学习能力品玩
+  
+谷歌发布超大规模训练数据集，加速AI模型训练中关村在线/搜狐科技
+  
+谷歌推出 TpuGraphs 训练数据集，可强化 AI 模型深度学习能力搜狐科技]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国据悉寻求对汇丰和法国巴黎银行每家至少处以100亿韩元的罚款]]></title>
+        <id>readhub-8Vgxf7e2R8A</id>
+        <link href="https://readhub.cn/topic/8Vgxf7e2R8A"/>
+        <updated>2023-12-21T08:30:49.000Z</updated>
+        <summary type="html"><![CDATA[韩国金融监督院建议对汇丰控股和法国巴黎银行非法裸卖空行为，每家至少处以100亿韩元罚款。韩国证券与期货委员会已讨论罚款问题，但未得出结论，计划尽快确定罚款金额。
+   
+媒体报道
+  
+韩国据悉寻求对汇丰和法国巴黎银行每家至少处以100亿韩元罚款36Kr/钛媒体
+  
+传韩国将对汇丰(00005)和法国巴黎银行的裸卖空行为处以百亿韩元罚款智通财经
+  
+韩国据悉寻求对汇丰和法国巴黎银行共计处以至少100亿韩元罚款新浪科技
+  
+韩国据悉寻求对汇丰和法国巴黎银行每家至少处以100亿韩元的罚款财联社
+  
+韩国拟对汇丰和法国巴黎银行的裸卖空行为处以罚款新浪科技]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天风证券：通信基础设施迎来发展机遇]]></title>
+        <id>readhub-8VhLzBJfyo5</id>
+        <link href="https://readhub.cn/topic/8VhLzBJfyo5"/>
+        <updated>2023-12-21T08:20:01.000Z</updated>
+        <summary type="html"><![CDATA[天风证券研报显示，随着AI应用带来的算力资源需求快速增长，通信基础设施迎来发展机遇。ICT设备商、光模块、光纤光缆等领域将受益于此，并在AI应用于更多垂直领域中带来新的应用模式创新和发展机遇。
+   
+媒体报道
+  
+天风证券：通信基础设施迎来发展机遇36Kr/搜狐科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[劳力士因阻止其手表在线销售，被法国重罚 9160 万欧元]]></title>
         <id>readhub-8Vh31ucAhNQ</id>
@@ -3342,112 +3876,6 @@ A股开盘：创业板指跌0.5%，航运概念股活跃，宁波远洋涨停钛
 调查：58%受访者支持特斯拉瑞典机械工程师罢工TechWeb/网易科技]]></summary>
         <author>
             <name>网易科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iFixit拆解苹果M3 iMac：内部设计未见明显变动、减少1枚纽扣电池]]></title>
-        <id>readhub-8VdQHj43lWo</id>
-        <link href="https://readhub.cn/topic/8VdQHj43lWo"/>
-        <updated>2023-12-19T00:01:11.000Z</updated>
-        <summary type="html"><![CDATA[苹果M3 iMac内部设计未见明显变动，除芯片升级外，减少了一枚纽扣电池。维修团队iFixit拆解发现，M3 iMac的整体设计与M1 iMac相似，大部分零件集中在“下巴”位置。拆卸过程较为复杂，需注意显示器排线脆弱。内部构造基本相同，仅纽扣电池数量有减。
-   
-媒体报道
-  
-iFixit拆解苹果M3 iMac：内部设计未见明显变动、减少1枚纽扣电池凤凰科技/搜狐科技
-  
-iFixit 拆解苹果 M3 iMac：内部设计未见明显变动、减少 1 枚纽扣电池IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国电动汽车公司Nikola创始人米尔顿被判入狱四年]]></title>
-        <id>readhub-8VdR07B3maJ</id>
-        <link href="https://readhub.cn/topic/8VdR07B3maJ"/>
-        <updated>2023-12-18T23:49:40.000Z</updated>
-        <summary type="html"><![CDATA[美国电动汽车公司Nikola创始人特雷弗·米尔顿因欺骗投资者被判入狱四年，罚款100万美元，并可能被没收财产。米尔顿表示将上诉，并在上诉期间获准保释。2022年10月，米尔顿被判两项电信欺诈和一项证券欺诈罪名成立。此前，Nikola已同意支付1.25亿美元了结美国证券交易委员会（SEC）的民事指控。米尔顿曾一夜之间成为亿万富翁，但随后面临虚假和误导性陈述的指控。美国检方将米尔顿与Theranos公司创始人伊丽莎白·霍姆斯相提并论，后者因欺骗投资者被判入狱11年以上。
-   
-媒体报道
-  
-美国电动汽车公司Nikola创始人米尔顿被判入狱四年CNBeta
-  
-美国电动卡车公司 Nikola 创始人锒铛入狱，因诈骗罪获刑 4 年IT 之家
-  
-美国电动卡车制造商Nikola创始人因欺诈被判4年监禁36Kr]]></summary>
-        <author>
-            <name>36Kr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝索斯旗下蓝色起源因地面系统问题取消今日发射]]></title>
-        <id>readhub-8Vcuppecffw</id>
-        <link href="https://readhub.cn/topic/8Vcuppecffw"/>
-        <updated>2023-12-18T23:25:25.000Z</updated>
-        <summary type="html"><![CDATA[贝索斯旗下的蓝色起源因地面系统问题取消了原定于今日的发射任务。公司将尽快为NS-24发射任务提供新的发射目标时间。
-   
-媒体报道
-  
-贝索斯旗下蓝色起源因地面系统问题取消今日发射网易科技/财联社
-  
-贝索斯旗下蓝色起源因地面系统问题取消发射36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO Find X7 Ultra 手机获证实：采用一英寸大底主摄，支持卫星通讯功能]]></title>
-        <id>readhub-8Vcpyhfm1PN</id>
-        <link href="https://readhub.cn/topic/8Vcpyhfm1PN"/>
-        <updated>2023-12-18T23:21:27.000Z</updated>
-        <summary type="html"><![CDATA[OPPO Find X7系列新机即将发布，其中包括Find X7 Pro和Find X7 Ultra两款型号。Find X7 Pro已通过国家3C认证，配备6.82英寸2K显示屏和支持120Hz LTPO刷新率的微四曲屏。Find X7 Ultra则搭载了一英寸传感器主摄和双潜望镜设计，同时还独享卫星通讯功能。两款手机均支持100W快充，预计将首发两颗全新传感器。具体发布时间仍在关注中。
-   
-媒体报道
-  
-OPPO Find X7 Ultra 手机获证实：采用一英寸大底主摄，支持卫星通讯功能IT 之家
-  
-OPPO Find X7 Ultra 手机获证实，主摄将采用全新一英寸传感器搜狐科技
-  
-OPPO Find X7 Ultra包装盒现身：一英寸主摄、卫星通信CNBeta]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国银行预计美联储2024年降息100基点 3月份首次行动]]></title>
-        <id>readhub-8VcigKwcXOb</id>
-        <link href="https://readhub.cn/topic/8VcigKwcXOb"/>
-        <updated>2023-12-18T22:30:46.000Z</updated>
-        <summary type="html"><![CDATA[美国银行经济学家预测，美联储将在2024年降息100个基点，首次行动预计在3月份，后续分别在6月、9月和12月进行，每次降息25个基点。这一预测主要是基于通胀下降速度超过预期。美联储主席杰罗姆·鲍威尔在12月的会议上透露，决策者们在会上讨论了降息可能性。
-   
-媒体报道
-  
-策略师正“密谋”2024年宏观交易 跟美联储降息时间有关智通财经
-  
-美国银行预计美联储2024年降息100基点36Kr
-  
-美国银行预计美联储2024年降息100基点 3月份首次行动财联社
-  
-美国银行预计美联储2024年降息100基点，3月份首次行动钛媒体]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[应对寒潮天气 基础电信企业全力保障通信安全畅通]]></title>
-        <id>readhub-8VchGca7sW9</id>
-        <link href="https://readhub.cn/topic/8VchGca7sW9"/>
-        <updated>2023-12-18T22:10:46.000Z</updated>
-        <summary type="html"><![CDATA[近期全国多地低温雨雪天气，基础电信企业积极应对，保障通信安全。中国电信、中国移动、中国联通和中国铁塔分别在北京、天津、河北、河南、山东、内蒙古等地加强应急响应，确保通信畅通。截至18日，各企业累计出动保障人员、应急车辆、发电油机和卫星电话等资源，发送预警短信数亿条。下一步，基础电信企业将继续强化网络监控和值班值守，确保通信设施安全和网络运行平稳。
-   
-媒体报道
-  
-防范应对低温雨雪冰冻丨应对寒潮天气 基础电信企业全力保障通信安全畅通搜狐科技
-  
-应对寒潮天气 基础电信企业全力保障通信安全畅通搜狐科技/中国证券网
-  
-（防范应对低温雨雪冰冻）应对寒潮天气 基础电信企业全力保障通信安全畅通搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
         </author>
     </entry>
     <entry>
