@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-12-25T06:09:56.190Z</updated>
+    <updated>2023-12-25T12:12:36.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
@@ -1776,40 +1776,6 @@ PS5遭黑客攻击 被盗数据包括《漫威金刚狼》初期开发细节搜�
 高德打车启动专项行动，三大能力保障新年出行36Kr/鸟哥笔记]]></summary>
         <author>
             <name>36Kr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI商谈进一步融资事宜，拟实现1000亿美元估值]]></title>
-        <id>readhub-8VjwkyxV7rS</id>
-        <link href="https://readhub.cn/topic/8VjwkyxV7rS"/>
-        <updated>2023-12-22T23:28:51.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI正在寻求超过1000亿美元的公司估值，并计划与阿布扎比的技术控股公司G42合作芯片项目，预计募资80-100亿美元。投资需谨慎，本文不构成投资建议。
-   
-媒体报道
-  
-OpenAI商谈进一步融资事宜，拟实现1000亿美元估值华尔街见闻
-  
-OpenAI拟以1000亿美元的估值开展新一轮融资财联社
-  
-估值不低于 1000 亿美元，OpenAI 拟开展新一轮融资IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉在邮政纠纷中的上诉被瑞典法院驳回]]></title>
-        <id>readhub-8Vj8MmCQWV4</id>
-        <link href="https://readhub.cn/topic/8Vj8MmCQWV4"/>
-        <updated>2023-12-22T23:20:41.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉就与瑞典邮政服务纠纷提出的上诉被驳回，还被要求支付约3万美元的诉讼费用。
-   
-媒体报道
-  
-特斯拉在瑞典遭“车牌封锁”，上诉遭法院驳回IT 之家/网易科技
-  
-特斯拉在邮政纠纷中的上诉被瑞典法院驳回钛媒体/财联社]]></summary>
-        <author>
-            <name>财联社</name>
         </author>
     </entry>
     <entry>
