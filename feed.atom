@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2023-12-26T18:08:38.286Z</updated>
+    <updated>2023-12-27T00:33:16.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[行业深入转型叠加增速趋缓 65家险企年内更换董事长或总经理]]></title>
+        <id>readhub-8VqPdk87D8t</id>
+        <link href="https://readhub.cn/topic/8VqPdk87D8t"/>
+        <updated>2023-12-26T23:31:06.000Z</updated>
+        <summary type="html"><![CDATA[今年以来，保险业高层换血频繁，65家保险公司更换董事长或总经理，占比约32%。原因包括行业增速趋缓、行业转型步入深水区、资本市场波动大以及部分中小险企重要股东变更等。
+   
+媒体报道
+  
+多家券商大集合参公改造产品存续期再延一年财联社
+  
+行业深入转型叠加增速趋缓 65家险企年内更换董事长或总经理财联社
+  
+香港多家中小券商停业，行业集中度或进一步提升36Kr
+  
+证券业亟需回归本源 探索商业模式转型新路径——2023年证券业十大新闻证券时报网]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫在审查后拒绝推翻裁定，苹果手表在美销售禁令生效]]></title>
+        <id>readhub-8Vq74708t5i</id>
+        <link href="https://readhub.cn/topic/8Vq74708t5i"/>
+        <updated>2023-12-26T23:30:57.000Z</updated>
+        <summary type="html"><![CDATA[美国贸易代表办公室拒绝推翻对苹果智能手表的销售禁令，导致苹果停止在美国销售Series 9和Ultra 2。该禁令源于ITC裁定苹果手表侵犯了Masimo的血氧监测相关专利。分析师估计，该禁令将威胁到苹果约170亿美元的业务。
+   
+媒体报道
+  
+白宫在审查后拒绝推翻裁定 苹果手表在美销售禁令生效新浪科技
+  
+白宫在审查后拒绝推翻裁定，苹果手表在美销售禁令生效华尔街见闻
+  
+苹果就手表禁令提出上诉 并寻求在上诉期间暂时解除限制腾讯网/新浪科技/网易科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登政府拒绝否决后 苹果(AAPL.US)手表禁令生效]]></title>
+        <id>readhub-8VpzwTuucbQ</id>
+        <link href="https://readhub.cn/topic/8VpzwTuucbQ"/>
+        <updated>2023-12-26T23:12:52.000Z</updated>
+        <summary type="html"><![CDATA[苹果手表在美国面临进口和销售禁令，原因是因为其血氧技术侵犯了Masimo公司的专利。美国政府已拒绝否决国际贸易委员会的决定，苹果暂停了Series 9和Ultra 2智能手表的销售。尽管如此，苹果仍可以向美国联邦巡回上诉法院上诉，第三方零售商如百思买仍可销售这些手表。在第三季度，苹果的可穿戴设备、家居和配件业务销售额超过82亿美元。
+   
+媒体报道
+  
+拜登政府拒绝否决后 苹果手表禁令生效新浪科技
+  
+拜登政府拒绝否决后 苹果(AAPL.US)手表禁令生效新浪科技/智通财经
+  
+苹果公司就苹果手表进口禁令提起上诉财联社/36Kr]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果和谷歌将受到日本新垄断规定的约束]]></title>
+        <id>readhub-8Vpldp9nAQV</id>
+        <link href="https://readhub.cn/topic/8Vpldp9nAQV"/>
+        <updated>2023-12-26T22:35:41.000Z</updated>
+        <summary type="html"><![CDATA[日本政府计划于2024年提交一项新法规，以约束包括苹果和谷歌在内的IT巨头，防止其在智能手机操作系统、应用商店运营和支付领域滥用垄断地位。
+   
+媒体报道
+  
+日本拟议通过新法规，苹果谷歌等巨头面临最高 6% 违规活动收入罚款IT 之家
+  
+日本准备就App Store和反垄断问题对苹果公司开罚单CNBeta
+  
+苹果和谷歌将受到日本新垄断规定的约束新浪科技
+  
+日本将打击苹果和谷歌应用商店的垄断财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国贸易代表办公室支持有关苹果专利侵权的裁定]]></title>
         <id>readhub-8Vpt776jQ3Y</id>
@@ -2992,198 +3068,6 @@ OpenAI公布2024年计划：GPT-5、开源、更强的ChatGPT钛媒体/速途网
 尚福林：特别要高度重视金融风险的传染性、隐蔽性和破坏性澎湃新闻/财联社/钛媒体]]></summary>
         <author>
             <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想ONE OTA 3.4开启推送：新增红绿灯倒计时、手机任务大师等功能]]></title>
-        <id>readhub-8VmOzWaonZ7</id>
-        <link href="https://readhub.cn/topic/8VmOzWaonZ7"/>
-        <updated>2023-12-24T11:43:10.000Z</updated>
-        <summary type="html"><![CDATA[理想ONE  OTA  3.4今日开启推送，主要升级车载高德地图、手机任务大师和副驾屏幕保护功能。新增红绿灯倒计时功能，优化地图配色和功能页面视觉体验。手机任务大师让车主随时随地编辑任务，需将理想汽车App升级至V7.2.0及以上版本。新增尾门开启空间提醒，升级驻车底盘透视及俯视功能。副驾屏幕保护功能有三大主题可选，其他界面视觉优化。
-   
-媒体报道
-  
-理想汽车 3.4 版本 OTA 更新，新增三大功能中关村在线
-  
-理想汽车App焕新升级：新增多项实用功能中关村在线
-  
-理想ONE OTA 3.4开启推送：新增红绿灯倒计时、手机任务大师等功能快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中疾控：未来一周急性呼吸道疾病可能继续下降]]></title>
-        <id>readhub-8VmIWPdsTAp</id>
-        <link href="https://readhub.cn/topic/8VmIWPdsTAp"/>
-        <updated>2023-12-24T09:00:50.000Z</updated>
-        <summary type="html"><![CDATA[中国疾控中心表示，近期我国急性呼吸道疾病开始呈下降趋势，全国医疗机构发热门诊就诊量和哨点医院流感样病例占比均有所下降。当前急性呼吸道疾病主要以流感病毒为主，其他病原体如肺炎支原体、腺病毒、呼吸道合胞病毒等呈现波动变化，新冠病毒活动处于今年最低水平。专家预测，未来一周急性呼吸道疾病可能继续下降，病原体仍以流感病毒为主。
-   
-媒体报道
-  
-中国疾控中心：南北方省份呼吸道疾病活动差异不明显钛媒体/财联社
-  
-中疾控最新研判：未来一周急性呼吸道疾病可能继续下降，病原体仍可能以流感病毒为主腾讯网/每经网
-  
-中疾控：未来一周急性呼吸道疾病可能继续下降钛媒体/财联社]]></summary>
-        <author>
-            <name>钛媒体</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加 Ace 3将配备金属中框 引领和普及旗舰质感]]></title>
-        <id>readhub-8Vm7nSL2olU</id>
-        <link href="https://readhub.cn/topic/8Vm7nSL2olU"/>
-        <updated>2023-12-24T08:31:25.000Z</updated>
-        <summary type="html"><![CDATA[一加中国区总裁李杰预热了一加  Ace  3，透露该款手机将采用金属中框，继续引领和普及旗舰质感。一加致力于提升手机质感，此前已成功推动行业淘汰屏幕塑料支架、普及旗舰玻璃工艺。一加Ace  3的工艺、质感、手感相较高端旗舰毫不逊色，有望凭借全能性能进一步拓展市场。
-   
-媒体报道
-  
-一加 Ace 3将配备金属中框 引领和普及旗舰质感搜狐科技/手机中国
-  
-一加Ace 3质感升级：配备金属中框、首发1.5K东方屏快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯作价8100万美元出售海外应用商店apkpure 虎牙接盘]]></title>
-        <id>readhub-8Vkl7HqDYvB</id>
-        <link href="https://readhub.cn/topic/8Vkl7HqDYvB"/>
-        <updated>2023-12-24T08:31:13.000Z</updated>
-        <summary type="html"><![CDATA[虎牙以8100万美元从腾讯手中收购海外应用商店apkpure，成为其新东家。apkpure是腾讯旗下的一个海外应用商店。
-   
-媒体报道
-  
-腾讯出售海外应用商店apkpure，虎牙8100万美元接盘36Kr
-  
-腾讯作价8100万美元出售海外应用商店apkpure 虎牙接盘财联社
-  
-腾讯继续瘦身 出售海外应用商店apkpure 虎牙8100万美元接盘新浪科技/腾讯网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国轩高科：预计公司2027年海外交付超100GWh 海外业务销售额破千亿]]></title>
-        <id>readhub-8Vm8Vcq9O6e</id>
-        <link href="https://readhub.cn/topic/8Vm8Vcq9O6e"/>
-        <updated>2023-12-24T08:31:08.000Z</updated>
-        <summary type="html"><![CDATA[国轩高科在近日的供应商大会暨2024战略发布会上表示，公司将于2024年重点突破美洲、欧非和亚太三大海外市场，并预计到2027年，海外交付量超过100GWh，海外业务销售额突破千亿，市场份额争取达到10%。战略产品将包括启晨电池、4695电池包、快充电芯和储能产品。
-   
-媒体报道
-  
-国轩高科：预计公司2027年海外交付超100GWh 海外业务销售额破千亿36Kr/财联社
-  
-国轩高科：预计2027年海外交付超100GWh财经网]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[央视发布2023年度国内、国际十大科技新闻：华为Mate 60首发双向卫星通话上榜]]></title>
-        <id>readhub-8Vm6yVAyg4W</id>
-        <link href="https://readhub.cn/topic/8Vm6yVAyg4W"/>
-        <updated>2023-12-24T07:53:29.000Z</updated>
-        <summary type="html"><![CDATA[中央广播电视总台发布了2023年度国内和国际十大科技新闻。国内新闻包括我国首款支持双向卫星通话的智能手机华为Mate  60系列上市，以及中国国家太空实验室正式运行等。国际新闻则包括德国科研团队研制出全球最小的粒子加速器，多国科学家绘制出详细的人脑细胞图谱等。
-   
-媒体报道
-  
-央视发布2023年度国内、国际十大科技新闻CNBeta
-  
-央视发布2023年度国内、国际十大科技新闻：华为Mate 60首发双向卫星通话上榜快科技
-  
-央视发布2023年度国内、国际十大科技新闻：华为此项技术上榜凤凰科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[崔东树：未来几个月全年新能源汽车出口预计仍较高增长]]></title>
-        <id>readhub-8Vm9FiaCaBj</id>
-        <link href="https://readhub.cn/topic/8Vm9FiaCaBj"/>
-        <updated>2023-12-24T07:50:50.000Z</updated>
-        <summary type="html"><![CDATA[乘联会秘书长崔东树近日表示，1-11月我国新能源汽车累计出口94万台，同比增长75%。在欧洲市场，上汽等自主品牌表现出色。随着新势力出口逐步启动，未来几个月全年新能源汽车出口预计仍将保持较高增长。
-   
-媒体报道
-  
-乘联会崔东树：11月新能源车出口15.3万台 累计突破160万台快科技
-  
-乘联会崔东树：未来几个月全年新能源汽车出口预计仍较高增长36Kr
-  
-乘联会秘书长崔东树：未来几个月全年新能源汽车出口预计仍较高增长财联社
-  
-崔东树：1-11月新能源乘用车零售同比增长35% 表现超预期智通财经
-  
-崔东树：未来几个月全年新能源汽车出口预计仍较高增长钛媒体]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo印度公司两高管被曝在印被拘，公司回应：深感震惊，将采取法律措施]]></title>
-        <id>readhub-8VlrVs6VJWw</id>
-        <link href="https://readhub.cn/topic/8VlrVs6VJWw"/>
-        <updated>2023-12-24T07:26:34.000Z</updated>
-        <summary type="html"><![CDATA[vivo印度公司临时CEO和CFO被印度当局拘捕，vivo发言人表示深感震惊，称骚扰行为给整个行业带来不确定性，公司将坚决利用法律手段应对。此前，印度金融执法机构曾以涉嫌洗钱为由逮捕vivo员工，vivo表示将采取所有可行的法律措施应对。
-   
-媒体报道
-  
-警惕！日本拟将大陆架延伸12万平方公里！vivo两名高管被捕？印度又下黑手！地中海或被封锁和讯网
-  
-报道：消息人士透露vivo印度分公司两名雇员被逮捕，vivo回应“深感震惊”华尔街见闻/36Kr
-  
-vivo印度公司两高管被曝在印被拘，公司回应：深感震惊，将采取法律措施钛媒体
-  
-印度公司两高管被曝在印被拘，vivo回应虎嗅网
-  
-手机厂商印度再“遇劫”，vivo海外回应印度高管被捕新浪科技/腾讯网
-  
-CEO与CFO在印度遭逮捕，vivo回应：深感震惊，将采取法律措施腾讯网
-  
-vivo回应印度公司两高管被拘：将采取一切法律措施应对凤凰科技/快科技/TechWeb/CNBeta
-  
-印度公司两名高管被曝在印度遭逮捕！vivo回应：深感震惊，将采取法律措施腾讯网/每经网
-  
-vivo印度分公司两名高管被捕，为何印度市场成了难啃的「硬骨头」？ | 钛媒体焦点钛媒体
-  
-两名高管被曝在印度被捕，vivo回应：深感震惊，将采取法律措施凤凰科技/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中文在线：公司业务不涉及网游新规管理范围 无影响]]></title>
-        <id>readhub-8VmDW2sUWcy</id>
-        <link href="https://readhub.cn/topic/8VmDW2sUWcy"/>
-        <updated>2023-12-24T07:22:48.000Z</updated>
-        <summary type="html"><![CDATA[中文在线表示公司业务不受网游新规影响。
-   
-媒体报道
-  
-中文在线：公司业务不涉及网游新规管理范围 无影响财联社
-  
-中文在线：公司业务不涉及网游新规管理范围36Kr
-  
-中文在线：公司业务不涉及网游新规管理范围，无影响钛媒体]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀亲选 Haylou Watch 智能手表今日首销：首发429元]]></title>
-        <id>readhub-8VlzFimYEXh</id>
-        <link href="https://readhub.cn/topic/8VlzFimYEXh"/>
-        <updated>2023-12-24T06:55:06.000Z</updated>
-        <summary type="html"><![CDATA[荣耀亲选Haylou  Watch智能手表今日首销，售价429元。该手表采用1.95英寸AMOLED屏幕，分辨率410x502，支持心率、血氧、压力监测和120种运动模式。续航12天，单次充电1.5小时。
-   
-媒体报道
-  
-荣耀亲选 Haylou Watch 智能手表今日首销：首发429元搜狐科技
-  
-荣耀亲选Haylou Watch智能手表今日首销：独立卫星定位，首发价429元中关村在线/搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
         </author>
     </entry>
     <entry>
