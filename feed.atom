@@ -2,10 +2,314 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-01-07T06:09:09.761Z</updated>
+    <updated>2024-01-07T12:11:46.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微信团队致歉：私密朋友圈bug已彻底修复]]></title>
+        <id>readhub-8W9HTR4lbnZ</id>
+        <link href="https://readhub.cn/topic/8W9HTR4lbnZ"/>
+        <updated>2024-01-07T11:40:20.000Z</updated>
+        <summary type="html"><![CDATA[1月7日，腾讯微信团队就微信私密朋友圈bug发文称，“抱歉给大家带来困扰。1月1日当天极小部分用户发表私密朋友圈，好友可以在朋友圈看到这个用户的头像红点，但无法看到具体内容。此bug已彻底修复。”
+   
+媒体报道
+  
+微信团队确认私密朋友圈存在 bug，现已修复开源中国
+  
+刚刚，微信公开致歉！网友：吓死个人搜狐科技
+  
+今天，微信公开致歉！冲上热搜第一网易科技
+  
+刚刚，微信公开致歉！网友：心惊肉跳……搜狐科技
+  
+刚刚，微信公开致歉！搜狐科技
+  
+腾讯微信团队致歉：私密朋友圈bug已彻底修复搜狐科技/36Kr/澎湃新闻/鸟哥笔记/界面
+  
+微信回应私密朋友圈被吐槽有bug：已修复财经网
+  
+热搜第一！微信公开致歉→搜狐科技
+  
+微信官方致歉！搜狐科技
+  
+发私密朋友圈却被好友看见！微信火速道歉修复BUG中关村在线
+  
+私密朋友圈被吐槽有bug？微信官方致歉搜狐科技
+  
+“抱歉给大家带来困扰”！微信官方致歉腾讯网/每经网/搜狐科技
+  
+热搜第一！微信私密朋友圈被吐槽有bug，微信官方致歉搜狐科技
+  
+微信私密朋友圈被吐槽有bug，微信官方回应：此bug已彻底修复搜狐科技
+  
+微信私密朋友圈被吐槽有bug？官方致歉：已彻底修复搜狐科技
+  
+微信公开致歉搜狐科技
+  
+微信回应私密朋友圈bug：好友看不到具体内容 bug已彻底修复快科技/凤凰科技
+  
+微信朋友圈惊现BUG！用户私密朋友圈被误发至公共平台中关村在线
+  
+微信私密朋友圈被吐槽有bug：为什么大家都不爱发朋友圈了快科技/凤凰科技
+  
+刚刚，微信公开致歉！网友：汗流浃背了搜狐科技
+  
+微信私密朋友圈被吐槽有 bug，官方发文致歉并修复IT 之家
+  
+私密朋友圈BUG冲上热搜第一，微信致歉搜狐科技/腾讯网
+  
+私密朋友圈功能被吐槽？微信官方致歉新浪科技
+  
+#微信私密朋友圈被吐槽有bug# 腾讯微信回复:此bug已彻底修复新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教育部：网传义务教育教学改革实验区“缩短学制”“取消中考”等说法不实]]></title>
+        <id>readhub-8W9Jb4QxSBw</id>
+        <link href="https://readhub.cn/topic/8W9Jb4QxSBw"/>
+        <updated>2024-01-07T11:29:10.000Z</updated>
+        <summary type="html"><![CDATA[教育部提醒广大网友，近期关于义务教育教学改革实验区“缩短学制”“取消中考”等说法不实。教育部办公厅印发的通知明确了实验区和实验校的任务，并无提及缩短学制、取消中考等内容，请大家不要轻易采信非官方渠道的信息。
+   
+媒体报道
+  
+教育部：网传义务教育教学改革实验区“缩短学制”“取消中考”等说法不实新浪科技/财联社/界面/36Kr
+  
+教育部：网传义务教育教学改革实验区“取消中考”等说法不实新浪科技
+  
+缩短学制、取消中考？教育部紧急发声！腾讯网
+  
+义务教育教学改革实验区缩短学制、取消中考？教育部辟谣新浪科技/腾讯网/每经网/和讯网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 回应被指控侵权：《纽约时报》提示策略违反其服务条款]]></title>
+        <id>readhub-8W9KJa81Cdq</id>
+        <link href="https://readhub.cn/topic/8W9KJa81Cdq"/>
+        <updated>2024-01-07T11:27:31.000Z</updated>
+        <summary type="html"><![CDATA[上周，纽约时报在曼哈顿联邦地区法院对 OpenAI 和微软发起诉讼，声称对方公司“未经授权而使用了数百万”文章来训练其 AI 模型，导致其 AI 生成的内容现在会与《纽约时报》的内容“直接竞争”。OpenAI 针对《纽约时报》的侵权指控回应称：该机构一直在文章的开头提示 GPT 模型，这些提示违反了 OpenAI 语言模型的使用条款，《纽约时报》在故意利用这些提示来让模型复制训练数据，导致模型产出的文本十分接近原文，从而增加了侵犯版权的可能性，相当于是鼓励侵权。
+   
+媒体报道
+  
+OpenAI回应被指控侵权：《纽约时报》提示策略违反其服务条款凤凰科技
+  
+OpenAI 回应被指控侵权：《纽约时报》提示策略违反其服务条款新浪科技/IT 之家
+  
+《纽约时报》起诉OpenAI和微软：未付费利用其投资制造替代品！中关村在线]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马化腾回应早期微信“偷窥”用户相册：图片缓存加速造成的误会]]></title>
+        <id>readhub-8W7RUJAlEYv</id>
+        <link href="https://readhub.cn/topic/8W7RUJAlEYv"/>
+        <updated>2024-01-07T11:18:05.000Z</updated>
+        <summary type="html"><![CDATA[马化腾回应微信后台反复读取用户相册事件，称是2021年10月的误会，并表示后续已使用新API解决。此前有用户发现微信在未激活的情况下多次读取用户相册，引发热议。当前版本已优化快速发图功能，并在最新iOS系统下，用户可明确操作授权微信访问位置和相册。
+   
+媒体报道
+  
+马化腾回应早期微信“偷窥”用户相册：图片缓存加速造成的误会搜狐科技/IT 之家
+  
+马化腾回应微信偷窥相册：2021年的老事情了DoNews
+  
+独家：马化腾回应微信“偷窥”相册网易科技/腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产首艘大型邮轮“爱达·魔都号”完成首航]]></title>
+        <id>readhub-8W9EbM77wwq</id>
+        <link href="https://readhub.cn/topic/8W9EbM77wwq"/>
+        <updated>2024-01-07T11:14:29.000Z</updated>
+        <summary type="html"><![CDATA[我国首艘大型邮轮“爱达·魔都号”成功完成首航，搭载3000余名来自16个国家和地区的乘客，进行了7天6晚的韩国济州与日本福冈、长崎等地之旅。船上举办了敦煌研究院专家的系列讲座，展示了敦煌石窟艺术。爱达·魔都号全长323.6米，总吨位13.55万吨，拥有2125间豪华客房和套房，最多可容纳5246名宾客。
+   
+媒体报道
+  
+首艘国产大型邮轮“爱达·魔都号”顺利完成首航和讯网
+  
+国产首艘大型邮轮“爱达·魔都号”完成首航网易科技/中国证券网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江汽集团与宁德时代签署战略合作协议]]></title>
+        <id>readhub-8W9YTxT2L6H</id>
+        <link href="https://readhub.cn/topic/8W9YTxT2L6H"/>
+        <updated>2024-01-07T11:00:36.000Z</updated>
+        <summary type="html"><![CDATA[江汽集团与宁德时代在福建宁德签署战略合作协议，双方将在动力电池供应、换电技术导入、新产品联合开发和应用、市场拓展等多个领域开展合作，共同制定行动方案，共建战略联盟。
+   
+媒体报道
+  
+江淮汽车携手宁德时代！将共同打造新能源汽车快科技
+  
+江汽集团与宁德时代签署战略合作协议36Kr
+  
+江淮汽车与宁德时代战略合作签约仪式中关村在线
+  
+江汽集团与宁德时代达成战略合作，共同打造新能源车型IT 之家
+  
+江汽集团与宁德时代战略合作 动力电池供应优先中关村在线]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家数据局局长刘烈宏：数据具有报酬递增的特点 需要探索兼顾效率和公平的分配机制]]></title>
+        <id>readhub-8W9AIzEan4m</id>
+        <link href="https://readhub.cn/topic/8W9AIzEan4m"/>
+        <updated>2024-01-07T10:50:52.000Z</updated>
+        <summary type="html"><![CDATA[国家数据局局长刘烈宏在第二十五届北大光华新年论坛上表示，数据领域发展变化快，需要顶层设计和实践探索相结合。他强调数据具有报酬递增的特点，需探索兼顾效率和公平的分配机制，并建立适应数据特点的安全治理模式。刘烈宏指出，数据要素市场建设是一项探索性、创新性、专业性强的事业，国际上没有通行做法可以借鉴，必须坚持顶层设计和实践探索有机结合、良性互动。
+   
+媒体报道
+  
+国家数据局局长刘烈宏：必须加快建设数据基础设施，解决数据持有者“不愿流通”“不敢流通”问题证券时报网
+  
+国家数据局局长刘烈宏：激活数据要素价值，做强做优做大数字经济新浪科技
+  
+刘烈宏：多措并举推进“数据要素×”行动计划落实落地中证网
+  
+国家数据局局长刘烈宏：数据具有报酬递增的特点 需要探索兼顾效率和公平的分配机制新浪科技/财联社
+  
+国家数据局局长刘烈宏：数据具有报酬递增的特点，需要探索兼顾效率和公平的分配机制36Kr]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福田汽车：2023年汽车产品累计销量同比增长37.14%]]></title>
+        <id>readhub-8W9YbIUJRej</id>
+        <link href="https://readhub.cn/topic/8W9YbIUJRej"/>
+        <updated>2024-01-07T10:21:12.000Z</updated>
+        <summary type="html"><![CDATA[福田汽车2023年12月销量64809辆，全年累计销量63.1万辆，同比增长37.14%。其中新能源汽车销量为4063辆。
+   
+媒体报道
+  
+福田汽车：2023年汽车产品累计销量同比增长37.14%财经网/36Kr/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年12月末外储规模升至32380亿美元 专家：主要是估值因素影响]]></title>
+        <id>readhub-8W9RpIAmshY</id>
+        <link href="https://readhub.cn/topic/8W9RpIAmshY"/>
+        <updated>2024-01-07T10:00:46.000Z</updated>
+        <summary type="html"><![CDATA[我国外汇储备规模在2023年12月末达到32380亿美元，较11月末上升662亿美元，升幅为2.1%。这得益于美联储货币政策转向预期、全球股债汇三升等因素，使得我国外汇储备录得正估值效应。此外，我国黄金储备连续14个月增持，截至12月末为7187万盎司。分析师预计，随着国内经济持续回升向好，外贸市场多元化发展，以及美联储降息预期升温，我国外汇储备规模将保持基本稳定。
+   
+媒体报道
+  
+2023年12月末外储规模升至32380亿美元 专家：主要是估值因素影响新浪科技/每经网/腾讯网/和讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华硕将在 CES 2024 推出 520Hz 和 400Hz 刷新率游戏显示器]]></title>
+        <id>readhub-8W8Di0knn3N</id>
+        <link href="https://readhub.cn/topic/8W8Di0knn3N"/>
+        <updated>2024-01-07T09:55:26.000Z</updated>
+        <summary type="html"><![CDATA[华硕计划在2024年CES大会上发布多款全新显示器，包括520Hz和400Hz刷新率的产品。其中，400Hz显示器配备27英寸IPS显示屏，分辨率1440p。520Hz显示器同样为27英寸，分辨率可能降至1080p。此外，华硕还将推出两款240Hz OLED游戏显示器，分别为27英寸2560*1440分辨率和34英寸3440*1440分辨率。具体细节和售价暂未公布。2024年CES大会将于1月9日至12日举行，各大厂将参展并发布新品。IT之家将带来后续报道，敬请关注。
+   
+媒体报道
+  
+华硕计划推出多款全新显示器 400HzIPS 27 英寸显示屏等中关村在线
+  
+华硕将在 CES 2024 推出 520Hz 和 400Hz 刷新率游戏显示器IT 之家
+  
+华擎将发布520Hz刷新率显示器中关村在线]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东风汽车全新纯电车型 纳米01正式下线]]></title>
+        <id>readhub-8W8AitXgOv7</id>
+        <link href="https://readhub.cn/topic/8W8AitXgOv7"/>
+        <updated>2024-01-07T09:25:34.000Z</updated>
+        <summary type="html"><![CDATA[东风汽车公司全新车型纳米01正式下线，标志着襄阳市首次生产新能源乘用车。纳米01基于东风量子架构3号平台打造，拥有智能中控屏、智能驾驶辅助系统等功能。预计到2028年，整车销售额将达到450亿元，创造1.05万个就业机会。新车将于明日开启交付，续航里程可选330-430km。
+   
+媒体报道
+  
+东风汽车：东风纳米01在襄阳量产下线，明天上市36Kr
+  
+东风纳米01电动汽车上市 7.48万元起中关村在线
+  
+东风汽车全新纯电车型 纳米01正式下线中关村在线
+  
+东风纳米01纯电车上市：7.48万起售中关村在线]]></summary>
+        <author>
+            <name>36Kr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车312座超充站落成：覆盖京津冀、长三角等四大经济带]]></title>
+        <id>readhub-8W9Yv1u1FzE</id>
+        <link href="https://readhub.cn/topic/8W9Yv1u1FzE"/>
+        <updated>2024-01-07T08:19:11.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车宣布，其超充站已覆盖我国京津冀、长三角、大湾区、成渝四大经济带，共计312座。其中包括北京市至张家口、乌兰哈达火山地质公园、承德、秦皇岛等线路。长三角地区的上海至莫干山、千岛湖、扬州、黄山等线路。成渝地区的成都至阿坝藏族羌族自治州、重庆至泸州、成都至重庆、武隆喀斯特旅游区等线路。以及大湾区地区的深圳至汕头、广州、韶关、茂名等线路。此前发布的2023年度超充站充电报告显示，全年共有262座超充站投入运营，覆盖高速62条，布局省份18个，总充电次数255942次。
+   
+媒体报道
+  
+理想汽车312座超充站落成：覆盖京津冀、长三角等四大经济带快科技
+  
+理想汽车：理想超充站已落成312座36Kr
+  
+理想汽车超充站已落成 312 座，覆盖京津冀、长三角等四大经济带IT 之家]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知情人士称马斯克“长期吸食毒品”，马斯克律师否认]]></title>
+        <id>readhub-8W9TcLoXP4j</id>
+        <link href="https://readhub.cn/topic/8W9TcLoXP4j"/>
+        <updated>2024-01-07T07:14:38.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉和SpaceX首席执行官马斯克被指经常在全球各地私人聚会上吸毒，包括可卡因、摇头丸等，长期吸毒且服用氯胺酮。这让人们对他的健康和公司运营感到担忧。一名与他关系密切的人表示，马斯克的行为多变，这可能引发健康危机，甚至对他的业务造成损害。特斯拉前董事因担忧马斯克吸毒而未参加董事会连任选举。但马斯克的一位律师表示，马斯克在SpaceX公司定期接受药物检测，未有过不合格情况。
+   
+媒体报道
+  
+美媒曝马斯克或“经常吸毒”，本人尚未回应、律师否认腾讯网
+  
+知情人士称马斯克“长期吸食毒品”，马斯克律师回应凤凰科技
+  
+爆炸性报道：马斯克“磕药”导致反常行为，引发公司管理层担忧华尔街见闻
+  
+知情人士称马斯克“经常吸毒”，后者律师否认IT 之家
+  
+马斯克被曝长期吸毒 律师否认：他定期接受药检  从未有不合格快科技
+  
+知情人士称马斯克“长期吸食毒品”，马斯克律师否认DoNews
+  
+知情人士称特斯拉CEO马斯克“长期吸食毒品”  律师否认手机中国
+  
+美媒爆料：知情人士称马斯克“长期吸食毒品”，马斯克律师否认36Kr/新浪科技/网易科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度首个太阳探测器到达预定轨道]]></title>
+        <id>readhub-8W9LkAqys05</id>
+        <link href="https://readhub.cn/topic/8W9LkAqys05"/>
+        <updated>2024-01-07T06:36:56.000Z</updated>
+        <summary type="html"><![CDATA[印度首个太阳探测器“日地L1点太阳”号已成功抵达距地球约150万公里的第一拉格朗日点（日地L1点），并开始对太阳进行持续观测。探测器上的科学仪器将助力研究太阳耀斑和日冕物质抛射等太阳活动。
+   
+媒体报道
+  
+印度首个太阳探测器到达预定轨道36Kr/财联社
+  
+成功登月后 印度首个太阳探测器到达预定轨道快科技/凤凰科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本北陆电力公司：受地震影响 石川县仍有19900户停电]]></title>
         <id>readhub-8W9FJi4iUs5</id>
@@ -2152,110 +2456,6 @@ DRG/DIP医保支付改革 撬动百亿级信息化系统建设需求证券时报
 DRG/DIP医保支付改革，撬动百亿级信息化系统建设需求36Kr]]></summary>
         <author>
             <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ST熊猫止步“五连板”：无烟花生产业务 销售主要靠出口]]></title>
-        <id>readhub-8W4nTzF0O2X</id>
-        <link href="https://readhub.cn/topic/8W4nTzF0O2X"/>
-        <updated>2024-01-05T00:01:13.000Z</updated>
-        <summary type="html"><![CDATA[2023年底，我国烟火爆竹“禁燃令”再次引发关注，A股市场上相关概念股票随之上涨。其中，ST熊猫连续收获5个涨停板，但公司在公告中表示，目前主营业务为烟花贸易和小额贷款，并无烟花爆竹生产企业的股权。ST熊猫曾转型金融，后又回归烟花主业，然而目前仅有销售业务，烟花生产资质及国内销售渠道仍在发展中。
-   
-媒体报道
-  
-ST熊猫止步“五连板”：无烟花生产业务 销售主要靠出口和讯网/腾讯网/每经网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年308家上市公司将董责险加入“购物车” 索赔与潜在索赔明显增多]]></title>
-        <id>readhub-8W5RUHEpABI</id>
-        <link href="https://readhub.cn/topic/8W5RUHEpABI"/>
-        <updated>2024-01-05T00:01:12.000Z</updated>
-        <summary type="html"><![CDATA[去年共有308家上市公司发布拟购买董责险的公告，较上年略有回落。随着市场需求增加，保险公司参与竞争增多，董责险市场费率同比下降。但市场环境变化导致索赔与潜在索赔明显增多，业内人士呼吁重视董责险经营风险，通过加强核保等手段分散风险。
-   
-媒体报道
-  
-去年308家上市公司将董责险加入“购物车” 索赔与潜在索赔明显增多财联社/新浪科技/证券时报网
-  
-多家券商板块上市公司更新回购进度条新浪科技/财联社/36Kr/证券时报网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国造轻轨列车在墨西哥城首开运营]]></title>
-        <id>readhub-8W4h2FWGf4y</id>
-        <link href="https://readhub.cn/topic/8W4h2FWGf4y"/>
-        <updated>2024-01-05T00:00:51.000Z</updated>
-        <summary type="html"><![CDATA[中国中车为墨西哥城研制的轻轨列车正式投入商业运营，成为首辆服务墨西哥城公共交通系统的中国制造轻轨列车。
-   
-媒体报道
-  
-中国造轻轨列车在墨西哥城首开运营财联社
-  
-中国造轻轨列车在墨西哥城首开运营：命名“塞西莉亚”，线路全长13.04公里凤凰科技
-  
-中国造轻轨列车在墨西哥城首开运营：命名“塞西莉亚”，线路全长 13.04 公里IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独家求证：投资者互动平台回复时间仅限定盘后 不会关停]]></title>
-        <id>readhub-8W4ayq9NkXY</id>
-        <link href="https://readhub.cn/topic/8W4ayq9NkXY"/>
-        <updated>2024-01-04T23:51:28.000Z</updated>
-        <summary type="html"><![CDATA[投资者互动平台如“互动易”和“上证e互动”并未关停，但回复时间有所调整，此前可盘前或盘中发，现在只能盘后发。这一调整旨在降低互动平台动态发布对股价的影响。互动平台是上市公司回应投资者关切的重要渠道，不应被视为炒作工具，上市公司应重视信息披露。
-   
-媒体报道
-  
-沪深交易所：投资者互动平台关停传闻不实，投资者互动平台在正常运转36Kr
-  
-投资者互动平台信息回复调至非交易时段证券时报网
-  
-独家求证：投资者互动平台回复时间仅限定盘后 不会关停财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clicks 为苹果 iPhone 推出小键盘配件：支持无线充电，139 美元]]></title>
-        <id>readhub-8W5degBfqF3</id>
-        <link href="https://readhub.cn/topic/8W5degBfqF3"/>
-        <updated>2024-01-04T23:45:53.000Z</updated>
-        <summary type="html"><![CDATA[名为Clicks的公司为苹果iPhone 14 Pro及iPhone 15 Pro/Max推出了一款小键盘配件，售价139美元，支持无线充电和两种款式。该配件采用标准QWERTY布局，可通过充电线连接键盘接口为手机供电。此外，它还能调用iOS内置的“键盘快捷键”功能，让用户像操作早期黑莓手机一样操控iPhone。
-   
-媒体报道
-  
-苹果新专利获批，暗示未来 iPhone 将支持手写笔交互IT 之家/搜狐科技
-  
-Clicks 为苹果 iPhone 推出小键盘配件：支持无线充电，139 美元搜狐科技
-  
-苹果新专利获批，暗示未来iPhone将支持手写笔交互凤凰科技
-  
-Clicks 为苹果 iPhone 手机推出小键盘配件：标准 QWERTY 布局、支持无线充电，售 139 美元IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股三大指数收盘涨跌不一 大型科技股多数下跌]]></title>
-        <id>readhub-8W5V46LQgUE</id>
-        <link href="https://readhub.cn/topic/8W5V46LQgUE"/>
-        <updated>2024-01-04T23:11:23.000Z</updated>
-        <summary type="html"><![CDATA[美股三大指数收盘涨跌不一，纳指和标普500指数下跌，道指小幅上涨。大型科技股多数下跌，亚马逊、苹果、谷歌等均有跌幅，英伟达、奈飞、Meta小幅上涨。MobilEye跌幅超过24%，创上市以来最大单日跌幅，原因是其2024年营收指引低于市场预期。另一方面，Quantumscape涨幅超过43%，创新高，原因是大众集团旗下子公司使用其固态电池完成了一项耐力测试，结果表明其电池可实现50万公里的超长寿命。
-   
-媒体报道
-  
-美股收评：三大指数收盘涨跌不一，纳指连跌五日，大型科技股多数下跌，亚马逊跌超2%界面
-  
-美股三大指数收盘涨跌不一，热门中概股普跌36Kr
-  
-美股三大指数收盘涨跌不一 大型科技股多数下跌财联社]]></summary>
-        <author>
-            <name>界面</name>
         </author>
     </entry>
     <entry>
