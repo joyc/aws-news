@@ -2,10 +2,398 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-01-30T12:11:54.348Z</updated>
+    <updated>2024-01-30T18:08:59.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软修复漏洞 旗下AI不能再生成名人假裸照]]></title>
+        <id>readhub-8WlJJTvWVe7</id>
+        <link href="https://readhub.cn/topic/8WlJJTvWVe7"/>
+        <updated>2024-01-30T15:16:05.000Z</updated>
+        <summary type="html"><![CDATA[微软为其人工智能文本转图像生成工具Designer引入了更多保护措施，禁止人们用它来制作名人的非自愿假照片。上周在X上疯传的泰勒·斯威夫特人工智能生成裸照，迫使微软采取改变。微软强调，任何违反其政策的行为都将导致用户无法继续使用其服务。经过404 Media等媒体测试，用户利用漏洞生成图像的操作已不再有效。
+   
+媒体报道
+  
+微软修复漏洞 旗下AI不能再生成名人假裸照搜狐科技
+  
+微软修复图片生成AI漏洞：不能再生成名人露骨图像搜狐科技
+  
+微软修复漏洞，旗下AI不能再生成名人假裸照网易科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[傲农生物：预计2023年净亏损30亿元-36亿元]]></title>
+        <id>readhub-8Wm4pu1W8w2</id>
+        <link href="https://readhub.cn/topic/8Wm4pu1W8w2"/>
+        <updated>2024-01-30T15:11:39.000Z</updated>
+        <summary type="html"><![CDATA[傲农生物预告2023年将面临30亿至36亿元的净亏损，主因是猪价下跌导致运营资金紧张。公司为减轻资金压力，采取提前出栏生猪措施，导致出栏体重下降，并关闭部分效率低的猪场，从而造成较大亏损。
+   
+媒体报道
+  
+傲农生物：预计2023年净亏损30亿元-36亿元华尔街见闻
+  
+傲农生物2023年预亏超30亿 净资产预计为负触及退市警戒线证券时报网
+  
+傲农生物：2023年预亏30亿-36亿元且期末净资产为负值，公司股票可能被实施退市风险警示界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球功率最高溶液型医用同位素堆正式开工建设]]></title>
+        <id>readhub-8WlvYRfMJE8</id>
+        <link href="https://readhub.cn/topic/8WlvYRfMJE8"/>
+        <updated>2024-01-30T15:11:29.000Z</updated>
+        <summary type="html"><![CDATA[四川正式开工建设的全球功率最高溶液型医用同位素堆，将能大量生产钼-99和碘-131两种医用同位素，结束中国对这些关键医疗物资的长期依赖进口局面，并有望显著改变癌症诊断和治疗策略。
+   
+媒体报道
+  
+全球功率最高溶液型医用同位素堆开工，将满足国内数千万人次核医学诊治搜狐科技
+  
+全球功率最高溶液型医用同位素堆正式开工建设界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光明乳业去年净利预增超1.5倍：土地补偿款税前收益超4亿元]]></title>
+        <id>readhub-8Wltki2xjQk</id>
+        <link href="https://readhub.cn/topic/8Wltki2xjQk"/>
+        <updated>2024-01-30T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[光明乳业发布2023年度业绩预增公告，预计净利润将大幅增长，主要得益于土地补偿款收入和成本下降。尽管如此，公司前三季度营收目标完成率不足七成，且第三季度出现亏损。
+   
+媒体报道
+  
+光明乳业：预计2023年净利润同比增加157.84%到185.57%财联社
+  
+光明乳业：预计2023年归属净利润增长157.84%—185.57%至9.3亿—10.3亿元财经网
+  
+光明乳业去年净利预增超1.5倍：土地补偿款税前收益超4亿元澎湃新闻]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鹏汽车新春启动发布会明晚举行，预计带来智驾新消息]]></title>
+        <id>readhub-8WkcR8bgTa6</id>
+        <link href="https://readhub.cn/topic/8WkcR8bgTa6"/>
+        <updated>2024-01-30T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[小鹏汽车宣布将于明晚8点举行“小鹏真智驾 全国都好用”新春启动发布会。发布会将揭晓小鹏汽车如何在10年间逐步迈向智驾第一梯队，以及小鹏智驾在243城全量推送背后的速度之谜。同时，将探讨今年春节返乡时小鹏智驾带来的出行改变和新体验，以及智驾主义者的新分享。目前，小鹏XNGP智能辅助驾驶系统已新增覆盖191座城市，总覆盖城市数量达到243城，成为行业中无可争议的第一。小鹏G9、G6、P7i用户已可体验国内领先的智驾功能，而新上市的小鹏X9交付时即提供最新XNGP功能和城市覆盖。小鹏汽车在核心城市可覆盖各种复杂场景和跨场景通行，在地级市或县级市会优先开放用户常用的核心路段，后续将针对等级较低的道路覆盖有专项功能。
+   
+媒体报道
+  
+小鹏真智驾，全国都好用，新春智驾征集活动正式启动果壳科学人
+  
+小鹏汽车新春启动发布会明晚举行，预计带来智驾新消息中关村在线/IT 之家]]></summary>
+        <author>
+            <name>果壳科学人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戴尔服务中国公司拟注销，决议解散]]></title>
+        <id>readhub-8WlqP4YQJap</id>
+        <link href="https://readhub.cn/topic/8WlqP4YQJap"/>
+        <updated>2024-01-30T14:06:05.000Z</updated>
+        <summary type="html"><![CDATA[戴尔服务（中国）有限公司因决议解散，新增注销备案公告，公告期自2023年1月26日至3月11日。该公司成立于2011年，法定代表人为王利军，注册资本3000万人民币，由DELL ASIA HOLDINGS PTE.LTD全资持股，经营范围涵盖戴尔品牌产品及相关配套产品的销售、售后支持和技术维护服务等。
+   
+媒体报道
+  
+戴尔服务中国公司拟注销，决议解散凤凰科技/和讯网
+  
+快讯！戴尔服务中国公司拟注销腾讯网
+  
+戴尔服务中国公司拟注销DoNews]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音旗下摸摸鱼游戏平台3月29日停止运营]]></title>
+        <id>readhub-8WlSbvPgUBn</id>
+        <link href="https://readhub.cn/topic/8WlSbvPgUBn"/>
+        <updated>2024-01-30T14:05:50.000Z</updated>
+        <summary type="html"><![CDATA[抖音旗下的摸摸鱼游戏平台将于2024年3月29日停止运营，同时摸摸鱼兑换商城也将停止兑换。
+   
+媒体报道
+  
+抖音旗下摸摸鱼游戏平台 3 月 29 日停止运营，将清空未消耗小鱼币IT 之家
+  
+上线三年不到，字节跳动旗下摸摸鱼游戏平台停止运营界面
+  
+抖音旗下摸摸鱼游戏平台3月29日停止运营鸟哥笔记]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东主播称已紧急制定与董宇辉合作方案：相关方案正在评估中]]></title>
+        <id>readhub-8WlvYDOJ1es</id>
+        <link href="https://readhub.cn/topic/8WlvYDOJ1es"/>
+        <updated>2024-01-30T14:05:07.000Z</updated>
+        <summary type="html"><![CDATA[京东多个直播间的主播回应了网友关于邀请董宇辉合作的建议，并表示已制定相关合作方案提交给相关部门评估。知情人士透露，京东内部也在探讨与董宇辉合作的可能性。董宇辉在风波后开启了“与辉同行”的直播新篇章，并获得了网友的支持。如果京东能与董宇辉达成合作，将提升京东在直播电商领域的竞争力，并为京东带来更多商业价值。
+   
+媒体报道
+  
+京东能否“牵手”董宇辉？相关方案已在评估新浪科技/界面
+  
+京东主播称已紧急制定与董宇辉合作方案：相关方案正在评估中凤凰科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节CEO梁汝波内部讲话：多次提及“危机感”，2024年要“逃逸平庸的重力”]]></title>
+        <id>readhub-8Wm47sErpFA</id>
+        <link href="https://readhub.cn/topic/8Wm47sErpFA"/>
+        <updated>2024-01-30T14:02:24.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动CEO梁汝波在2024年年度全员会上提出，公司的关键词是“始终创业，逃逸平庸的重力”，强调加强危机感，并将其列为年度目标。他指出，公司面临的最大危机是组织平庸化，包括低效、迟钝和标准低。为应对这些问题，字节跳动需打破自满，提高标准，建设精干的组织，并加大激励区分力度，吸引和保留优秀人才。梁汝波还分享了2024年的三个目标：加强危机感、增加社会信任和聚焦少量重要的事。
+   
+媒体报道
+  
+梁汝波内部讲话：多次提及危机感 2024年要逃逸平庸重力亿邦动力网
+  
+梁汝波内部讲话：最大的危机感是组织平庸化，将“加强危机感”列入年度目标钛媒体
+  
+字节跳动CEO梁汝波内部讲话：最大的危机感是担心字节变得平庸界面
+  
+字节CEO梁汝波内部讲话：多次提及“危机感”，2024年要“逃逸平庸的重力”凤凰科技/华尔街见闻
+  
+梁汝波内部讲话：担心字节变得平庸，无法取得新突破新浪科技/和讯网
+  
+字节梁汝波：担心平庸化，加强危机感是今年的首要目标澎湃新闻
+  
+字节跳动 CEO 梁汝波内部讲话曝光：字节该有的大公司病全有了，年度目标是“加强危机感”IT 之家
+  
+梁汝波内部讲话：多次提及“危机感”，2024年字节要“逃逸平庸的重力”DoNews/网易科技/财经网/雷锋网
+  
+字节跳动CEO梁汝波批评组织迟钝 2023年才讨论GPT腾讯网/财联社
+  
+字节跳动CEO梁汝波：多次提及“危机感”，2024年字节要“逃逸平庸的重力”财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海通证券：拟以3亿元至6亿元回购股份]]></title>
+        <id>readhub-8WlyPk32KvW</id>
+        <link href="https://readhub.cn/topic/8WlyPk32KvW"/>
+        <updated>2024-01-30T13:50:50.000Z</updated>
+        <summary type="html"><![CDATA[海通证券公告拟进行股份回购，回购总额为3至6亿元，回购价格不超过12.78元/股，旨在维护公司价值和股东权益。同时，公司预告2023年度净利润预计为9.18至10.1亿元，同比大幅减少84.57%至85.97%。
+   
+媒体报道
+  
+归母净利润同比减超84%，海通证券发布2023年度业绩预告华尔街见闻
+  
+海通证券：拟以3亿元至6亿元回购股份中国证券网/新浪科技
+  
+海通证券2023年净利润预减84.57%至85.97%中国证券网
+  
+海通证券：2023年下半年计提资产减值19.2亿元中国证券网
+  
+海通证券：2023年业绩下滑，公司积极回购，彰显发展信心中证网
+  
+2023年净利预计同比降逾八成，海通证券抛出不少于3亿元回购计划澎湃新闻]]></summary>
+        <author>
+            <name>中证网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国首批城中村改造专项借款成功落地西安]]></title>
+        <id>readhub-8Wm5YCwLRMd</id>
+        <link href="https://readhub.cn/topic/8Wm5YCwLRMd"/>
+        <updated>2024-01-30T13:31:10.000Z</updated>
+        <summary type="html"><![CDATA[西安市高新区和浐灞生态区的两个城中村改造项目，获得了国家开发银行陕西省分行提供的5亿元专项借款，这是全国首批城中村改造的借款。
+   
+媒体报道
+  
+全国首笔城中村改造专项借款落地广州，首批发放资金15亿元界面
+  
+全国首批城中村改造专项借款成功落地西安华尔街见闻/财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒武纪2023年预亏最高9.24亿元 同比收窄约40%]]></title>
+        <id>readhub-8Wlu8Yvebq0</id>
+        <link href="https://readhub.cn/topic/8Wlu8Yvebq0"/>
+        <updated>2024-01-30T13:11:35.000Z</updated>
+        <summary type="html"><![CDATA[寒武纪公布2023年度业绩预告，预计收入6.8至7.2亿元，净利润亏损7.56至9.24亿元，同比亏损收窄。公司管理费用和研发费用同比减少，资产减值损失也有所下降。股价方面，经历年初的大幅波动后，目前寒武纪股价为116.90元/股。公司继续优化基础系统软件平台，并研发新的智能处理器微架构和指令集，以提升产品竞争力。同时，寒武纪与智象未来签订战略合作协议，共同推动视觉大模型的创新与落地，双方的合作产品性能已达到国际主流水平。智象未来发布的通用创作工具Pixeling可提供多种图像和视频生成功能。
+   
+媒体报道
+  
+寒武纪2023年预亏最高9.24亿元 同比收窄约40%证券时报网
+  
+寒武纪：2023年净利润预计将出现亏损，同比亏损收窄26.47%到39.84%华尔街见闻
+  
+寒武纪：2023年净利润预计亏损7.56亿元—9.24亿元财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF上调今年全球经济增长预期至3.1%]]></title>
+        <id>readhub-8Wm5ukHu0IW</id>
+        <link href="https://readhub.cn/topic/8Wm5ukHu0IW"/>
+        <updated>2024-01-30T13:11:03.000Z</updated>
+        <summary type="html"><![CDATA[国际货币基金组织（IMF）发布的《世界经济展望报告》预测，2024年全球经济增速为3.1%，2025年为3.2%，均略高于之前预测。上调预测主要由于中国、美国和其他大型新兴市场与发展中经济体的表现强于预期。尽管如此，这两个预测值仍低于历史平均水平的3.8%。欧美央行为抗通胀而收紧货币政策以及经济增长放缓对全球经济构成压力。报告还预测，2024年全球通胀率将降至5.8%，2025年将进一步降至4.4%。中期来看，人工智能技术有望提高劳动生产率和收入，但收益将取决于各国开发和利用AI潜力的方式，发达经济体可能比新兴市场和发展中经济体更早受益，因其就业结构更多集中在知识密集型行业。
+   
+媒体报道
+  
+IMF上调今年全球经济增长预期中国证券网
+  
+IMF将2024年全球GDP增长预期从2.9%上调至3.1%华尔街见闻/财联社
+  
+IMF上调今年全球经济增长预期至3.1%界面
+  
+IMF上调全球今年经济增速至3.1%，预计主要央行下半年降息腾讯网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家金融监管总局：全力推进中小金融机构改革化险]]></title>
+        <id>readhub-8WlmzhMwmSJ</id>
+        <link href="https://readhub.cn/topic/8WlmzhMwmSJ"/>
+        <updated>2024-01-30T13:11:01.000Z</updated>
+        <summary type="html"><![CDATA[国家金融监督管理总局在2024年工作会议上强调，将全力推进中小金融机构的改革和风险化解工作，确保工作的时序和效果。同时，会议提出要完善金融风险常态化处置机制，并落实多方责任，以形成合力。
+   
+媒体报道
+  
+国家金融监管总局：全力推进中小金融机构改革化险财联社
+  
+国家金融监管总局：督促金融机构大力支持保障性住房等“三大工程”建设、落实经营性物业贷款管理要求财联社
+  
+国家金融监管总局：支持租赁企业按照自愿原则和市场化原则转回海外资产智通财经
+  
+金融监管总局：加快推进城市房地产融资协调机制落地见效华尔街见闻/界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三六零发布2023年业绩预告：亏损同比收窄80%]]></title>
+        <id>readhub-8WlylNIpWCZ</id>
+        <link href="https://readhub.cn/topic/8WlylNIpWCZ"/>
+        <updated>2024-01-30T13:00:58.000Z</updated>
+        <summary type="html"><![CDATA[360集团发布2023年度业绩预告，预计归母净利润为-3.7亿元至-5.5亿元，较2022年同期大幅收窄八成。公司聚焦AI和安全发展，积极布局大模型业务，并推出“360智脑”。同时，360安全云作为新一代安全产品，已服务于超千家行业标杆客户，进一步强化了公司的安全业务增长。
+   
+媒体报道
+  
+三六零发布2023年业绩预告：业绩大幅改善，亏损同比大幅收窄80%财经网
+  
+三六零：预计2023年净亏损3.7亿元-5.5亿元华尔街见闻/财联社
+  
+三六零发布2023年业绩预告：亏损同比收窄80%新浪科技]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泄露文件显示微软 Xbox One 游戏机曾用名 Xbox 720，售 299 美元]]></title>
+        <id>readhub-8WlGS9F4Fkp</id>
+        <link href="https://readhub.cn/topic/8WlGS9F4Fkp"/>
+        <updated>2024-01-30T12:54:54.000Z</updated>
+        <summary type="html"><![CDATA[微软Xbox系列产品命名逻辑引人关注，系列机型包括初代Xbox、Xbox 360、Xbox One、Xbox One X|S和Xbox Series X|S。近日泄露的内部文件显示，微软曾考虑将Xbox One称为“Xbox 720”，并计划以299美元的价格出售这款游戏机，同捆Kinect。最终Xbox One同捆Kinect的售价为499美元。文件中还强调“Xbox 720”将定位为“家庭娱乐终端”，与最终上市的Xbox One思路大致相同。
+   
+媒体报道
+  
+泄露文件显示微软 Xbox One 游戏机曾用名 Xbox 720，售 299 美元搜狐科技
+  
+泄露文件显示微软 Xbox One 游戏机曾用名 Xbox 720，计划售价 299 美元中关村在线/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[康希诺去年预亏最多15亿元：新冠疫苗市场需求变化]]></title>
+        <id>readhub-8WlvZybtigR</id>
+        <link href="https://readhub.cn/topic/8WlvZybtigR"/>
+        <updated>2024-01-30T12:40:52.000Z</updated>
+        <summary type="html"><![CDATA[康希诺生物股份公司预计2023年净亏损较上年同期扩大，主要因为新冠疫苗业务收入下降和营业成本上升。公司正在寻找新的业绩支撑点，包括推动其他疫苗上市和加快出海步伐。流脑疫苗是康希诺近两年的商业化重点，销售收入大幅增长，但销售费用也相应增加。此外，康希诺的13价肺炎球菌多糖结合疫苗已达到递交药品生产注册申请的必要条件。公司还与沙特阿拉伯药品制造公司签署疫苗合作框架协议，以推进四价流脑结合疫苗在中东和北非地区市场的布局。
+   
+媒体报道
+  
+康希诺：2023年归母净利润预亏12.69亿元-14.97亿元，流脑疫苗产品销售收入大幅增长财经网
+  
+康希诺：2023年预亏12.69亿元—14.97亿元财经网
+  
+康希诺(688185.SH)：2023年预亏12.69亿元到14.97亿元新浪科技
+  
+康希诺去年预亏最多15亿元：新冠疫苗市场需求变化澎湃新闻]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魅族DreamCar MX社区正式上线 魅友可深度参与造车]]></title>
+        <id>readhub-8WlvgnogGMG</id>
+        <link href="https://readhub.cn/topic/8WlvgnogGMG"/>
+        <updated>2024-01-30T12:30:37.000Z</updated>
+        <summary type="html"><![CDATA[魅族DreamCar MX社区正式上线，这是一个为魅友打造的互动交流和共创平台，让魅友们可以深度参与车辆的个性化设计。魅族将认真倾听魅友们的声音，并把他们的意见和建议反馈给设计团队，实现魅友的个性化出行需求。
+   
+媒体报道
+  
+魅族DreamCar MX社区正式上线 魅友可深度参与造车手机中国/搜狐科技
+  
+魅族 DreamCar MX 社区正式启幕，与魅友共绘智能出行未来蓝图DoNews]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锂盐产品价格大幅下降，赣锋锂业去年净利同比预降至少近70%]]></title>
+        <id>readhub-8Wm0Y3qG8Fh</id>
+        <link href="https://readhub.cn/topic/8Wm0Y3qG8Fh"/>
+        <updated>2024-01-30T12:15:59.000Z</updated>
+        <summary type="html"><![CDATA[赣锋锂业预告2023年净利润将大幅下降69.76%~79.52%，预计在42亿元~62亿元之间。业绩下滑主要由于锂行业周期性影响，终端需求减缓，导致锂盐产品价格大幅下跌，公司毛利率下降。同时，公司根据会计准则计提了资产减值准备。赣锋锂业股票收盘下跌2.27%，报36.96元。
+   
+媒体报道
+  
+赣锋锂业：锂盐产品价格大降，预计2023年归母净利润42亿-62亿元，同比跌79.52%–69.76%界面
+  
+锂盐产品价格大幅下降，赣锋锂业去年净利同比预降至少近70%腾讯网
+  
+赣锋锂业：预计2023年净利润同比下降79.52%–69.76%华尔街见闻]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称三星 Galaxy Z Flip 6 手机将配备更大电池，容量达4000mAh]]></title>
+        <id>readhub-8Wly2xBmnJ1</id>
+        <link href="https://readhub.cn/topic/8Wly2xBmnJ1"/>
+        <updated>2024-01-30T12:06:35.000Z</updated>
+        <summary type="html"><![CDATA[三星将在今年下半年发布Galaxy Z Flip 6折叠屏手机，该机将配备更大容量为4000mAh的电池，采用双电池设计，显著提升了续航能力。此外，预计Z Flip 6和Z Fold 6将搭载与Galaxy S24系列类似的AI功能，进一步优化现有AI工具，为用户带来更智能的交互体验。
+   
+媒体报道
+  
+消息称三星Galaxy Z Flip 6手机将配备更大电池，容量达4000mAh凤凰科技
+  
+消息称三星 Galaxy Z Flip 6 手机将配备更大电池，容量达4000mAh搜狐科技
+  
+消息称三星 Galaxy Z Flip 6 手机将配备更大电池，双电芯容量达 4000mAhIT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荣耀Magic 6系列实现全天候全屏熄屏：安卓手机历史首次]]></title>
+        <id>readhub-8Wllv5UQZlK</id>
+        <link href="https://readhub.cn/topic/8Wllv5UQZlK"/>
+        <updated>2024-01-30T12:06:27.000Z</updated>
+        <summary type="html"><![CDATA[荣耀李坤在微博上宣布，荣耀Magic 6系列成为首款实现全天候全屏熄屏显示功能的国产手机，也是安卓手机中的首创。这一功能使得壁纸和通知能够随时显示，配合新的魔法锁屏和智慧摆台功能，提升了人机交互体验。实现这一功能的关键在于8T LTPO显示技术，它支持全场景1Hz显示和发光器件的长寿命。荣耀通过定制驱动时钟信号、优化DDIC功耗管理和开发OLED寿命补偿算法，实现了全亮度1Hz显示、显著降低功耗和提升屏幕寿命。此外，荣耀Magic 6系列还注重护眼功能，采用了低亮度高频率PWM和中高亮度类自然光显示技术，达到业界领先水平。
+   
+媒体报道
+  
+荣耀Magic 6系列实现全天候全屏熄屏：安卓手机历史首次搜狐科技/凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为化解债务风险资产处置交易亏损，华夏幸福：预计去年净亏损至少61亿元]]></title>
         <id>readhub-8Wlp85EnZaD</id>
@@ -3076,300 +3464,6 @@ SpaceX 准备 1 月 31 日向国际空间站发射天鹅号货运飞船 NG-20新
 佳能：目标最快今年开始交付低成本纳米压印设备界面]]></summary>
         <author>
             <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长征七号遥八运载火箭二级残骸已再入大气层]]></title>
-        <id>readhub-8WiADuPXXHR</id>
-        <link href="https://readhub.cn/topic/8WiADuPXXHR"/>
-        <updated>2024-01-28T05:15:51.000Z</updated>
-        <summary type="html"><![CDATA[2024年1月28日，长征七号遥八运载火箭二级残骸成功再入大气层，落区位于印度洋海域，大部分器件在过程中被烧蚀销毁。
-   
-媒体报道
-  
-长征七号遥八运载火箭二级残骸已再入大气层凤凰科技/IT 之家/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克回应特斯拉研发支出远低于苹果]]></title>
-        <id>readhub-8WhvaiiHGmq</id>
-        <link href="https://readhub.cn/topic/8WhvaiiHGmq"/>
-        <updated>2024-01-28T05:05:54.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉公布2023年研发支出达39.69亿美元，创历史新高，但与苹果、微软等“七巨头”相比仍较低。电动汽车分析师梅里特指出，苹果的研发支出甚至超过特斯拉历史上的总研发投入。马斯克回应称，企业在研发支出有效性方面存在差异，特斯拉是一家以研发为核心的公司。他曾表示，特斯拉在2021年的研发支出虽然低于部分竞争对手，但整体上是一家研发公司。
-   
-媒体报道
-  
-马斯克回应特斯拉研发支出远低于苹果：研发支出有效性不同凤凰科技
-  
-马斯克回应特斯拉研发支出远低于苹果财经网/DoNews/新浪科技]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳能源首个海上风电项目取得核准]]></title>
-        <id>readhub-8Wgxu6ALsTj</id>
-        <link href="https://readhub.cn/topic/8Wgxu6ALsTj"/>
-        <updated>2024-01-28T05:00:42.000Z</updated>
-        <summary type="html"><![CDATA[深圳能源汕尾红海湾六海上风电项目获得核准，这是深圳能源首个海上风电项目，位于广东省汕尾红海湾海域，总装机容量500兆瓦，年设计发电量约17.5亿千瓦时。深能海洋能源公司将积极推进项目前期工作，确保年内开工建设。
-   
-媒体报道
-  
-深圳能源首个海上风电项目取得核准 总装机容量500兆瓦财联社
-  
-深圳能源首个海上风电项目取得核准界面/财联社
-  
-深圳能源首个海上风电项目取得核准，总装机容量500兆瓦界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年全球医疗健康投融资分析报告]]></title>
-        <id>readhub-8WhsV9Cm5ub</id>
-        <link href="https://readhub.cn/topic/8WhsV9Cm5ub"/>
-        <updated>2024-01-28T04:30:45.000Z</updated>
-        <summary type="html"><![CDATA[2023年全球医疗健康投融资市场整体呈现量增价减的态势，融资总额较2022年有所下降，但交易活跃度仍较高。生物医药和医疗器械类项目是融资热点，信息技术与生物技术的深度融合推动医疗健康主流风投向生物医药创新项目汇集。国内医疗健康融资总额和交易活跃度同步全球市场变化，长三角地区作为国内医疗创新策源地优势明显。医疗健康IPO节奏放缓，资本市场降温，医疗创新企业需要更多元的外部资金支持。头部投资机构保持高频投资，价值投资成为重要策略。
-   
-媒体报道
-  
-近600亿美元、超3000次出手，寒冬里最热的交易：2023年全球医疗健康投融资分析报告动脉网
-  
-2023年全球医疗健康投融资分析报告投资圈]]></summary>
-        <author>
-            <name>动脉网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为以创新科技保护用户隐私不泄露]]></title>
-        <id>readhub-8Whxk029bI9</id>
-        <link href="https://readhub.cn/topic/8Whxk029bI9"/>
-        <updated>2024-01-28T03:31:22.000Z</updated>
-        <summary type="html"><![CDATA[华为致力于通过创新科技保护用户隐私，系统层面建立保护机制，实现全维度守护用户隐私安全。华为的HarmonyOS操作系统引入了隐私中心、安全中心和纯净模式，提升信息与数据保护的透明度和简洁性。华为还获得多项网络安全领域的权威认证，证书数量超过500张。华为认为用户隐私安全始终高于商业利益，并深度践行创新科技保护用户隐私，引领隐私安全新时代。
-   
-媒体报道
-  
-隐私危机下的华为HarmonyOS，如何保卫您的数字身份搜狐科技
-  
-华为以创新科技保护用户隐私不泄露搜狐科技
-  
-可控更安心 HarmonyOS时刻守护用户的隐私安全手机中国]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂下一代Switch掌机爆料：今年将率先推出8英寸LCD屏幕版本]]></title>
-        <id>readhub-8WgyyUgaZZd</id>
-        <link href="https://readhub.cn/topic/8WgyyUgaZZd"/>
-        <updated>2024-01-28T03:31:13.000Z</updated>
-        <summary type="html"><![CDATA[任天堂预计在今年推出新一代Switch游戏掌机，配备8英寸LCD屏幕，并计划实现1000万台的年产量。新机型可能不会搭载OLED屏幕，而是升级至英伟达T239芯片，8GB RAM和64GB存储空间。此外，新Switch的售价可能会上涨100美元左右，主要原因是制造成本上升和汇率影响。
-   
-媒体报道
-  
-任天堂下一代Switch掌机爆料：今年将率先推出8英寸LCD屏幕版本搜狐科技
-  
-新款Switch掌机爆料：8英寸LCD屏幕 年产可达1000万手机中国
-  
-任天堂下一代 Switch 掌机爆料：今年推出 8 英寸 LCD 屏幕版本，年产有望达到 1000 万台IT 之家]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid宣布Air车型累计交付量破万]]></title>
-        <id>readhub-8Wi3nN3hsy5</id>
-        <link href="https://readhub.cn/topic/8Wi3nN3hsy5"/>
-        <updated>2024-01-28T03:10:49.000Z</updated>
-        <summary type="html"><![CDATA[美国电动汽车制造商Lucid宣布，该公司已完成第10,000辆Lucid Air车型的交付，并在本月早些时候公布了2023年第四季度生产和交付数据，产量为2,391辆，交付量为1,734辆。
-   
-媒体报道
-  
-Lucid Air 车型交付破万，2023 年累计交付 6001 辆新车同比增长 37%IT 之家
-  
-Lucid宣布Air车型累计交付量破万界面/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日产汽车拟生产磷酸铁锂电池，预计从 2026 财年起向新兴市场出货]]></title>
-        <id>readhub-8WhyQzrfGz2</id>
-        <link href="https://readhub.cn/topic/8WhyQzrfGz2"/>
-        <updated>2024-01-28T02:50:48.000Z</updated>
-        <summary type="html"><![CDATA[日产汽车正研发磷酸铁锂（LFP）电池，计划自2026财年起向新兴市场出货，以降低电动汽车成本，促进其普及。磷酸铁锂电池虽能量密度较低，但具有高安全性、长寿命和低成本等特点。此外，日产汽车也在开发全固态电池（ASSB）技术，目标是在2028年生产一款固态电池驱动的全新电动汽车，有望实现电动汽车性能的质的飞跃。
-   
-媒体报道
-  
-日产汽车拟生产磷酸铁锂电池，或从2026财年起向新兴市场出货界面
-  
-日产汽车拟生产磷酸铁锂电池 或从2026财年起向新兴市场出货财联社
-  
-日产汽车拟生产磷酸铁锂电池，预计从 2026 财年起向新兴市场出货IT 之家]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果硬件工程和造车项目资深高管据悉将离职，加入美国电动车商Rivian]]></title>
-        <id>readhub-8Why4dWUOkg</id>
-        <link href="https://readhub.cn/topic/8Why4dWUOkg"/>
-        <updated>2024-01-28T02:42:54.000Z</updated>
-        <summary type="html"><![CDATA[苹果硬件工程副总裁诺沃特尼即将离职，加入美国电动汽车制造商Rivian，担任汽车项目高级副总裁。诺沃特尼在苹果工作了近25年，曾参与多代iPod和iPhone的开发，并协助启动苹果造车项目“泰坦”。
-   
-媒体报道
-  
-苹果硬件工程和造车项目资深高管将离职 加入美国电动车商Rivian财联社
-  
-苹果硬件工程和造车项目资深高管据悉将离职，加入美国电动车商RivianDoNews/界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克否认其人工智能公司xAI寻求筹集资金]]></title>
-        <id>readhub-8WhzV5JwGCM</id>
-        <link href="https://readhub.cn/topic/8WhzV5JwGCM"/>
-        <updated>2024-01-28T02:42:53.000Z</updated>
-        <summary type="html"><![CDATA[马斯克在社交媒体上否认其人工智能公司xAI正在寻求筹集资金，并表示没有与任何人就此进行过交谈。此前有报道称，xAI正在讨论最多筹集60亿美元资金，并已接触了包括中国香港家族办公室、中东主权财富基金以及日本和韩国投资者在内的潜在投资者，而摩根士丹利被透露正在协调筹款事宜。
-   
-媒体报道
-  
-马斯克否认其人工智能公司xAI寻求筹集资金新浪科技/界面/财联社/DoNews]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国泰航空一架飞往菲律宾的航班因故障折返 安全降落香港]]></title>
-        <id>readhub-8Wi0vd0zTRJ</id>
-        <link href="https://readhub.cn/topic/8Wi0vd0zTRJ"/>
-        <updated>2024-01-28T02:40:53.000Z</updated>
-        <summary type="html"><![CDATA[国泰航空一架飞往菲律宾的CX633航班因机舱冒烟疑虑折返，并于香港机场安全降落。
-   
-媒体报道
-  
-国泰航空一架飞往菲律宾的航班因故障折返 安全降落香港财联社
-  
-国泰航空一架飞往菲律宾的航班因故障折返，安全降落香港澎湃新闻/界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滴滴与宁德时代宣布成立换电合资公司]]></title>
-        <id>readhub-8Wi1HwD9vJM</id>
-        <link href="https://readhub.cn/topic/8Wi1HwD9vJM"/>
-        <updated>2024-01-28T02:10:59.000Z</updated>
-        <summary type="html"><![CDATA[滴滴与宁德时代在福建宁德成立换电合资公司，旨在为网约车等新能源车辆提供换电服务，并扩展至储充一体等新能源领域的战略合作。
-   
-媒体报道
-  
-滴滴与宁德时代宣布成立换电合资公司界面/财联社
-  
-宁德时代与滴滴宣布正式成立换电合资公司华尔街见闻]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中央气象台：未来三天南方以降雨为主 中东部酝酿大范围雨雪]]></title>
-        <id>readhub-8WgPihR6xAM</id>
-        <link href="https://readhub.cn/topic/8WgPihR6xAM"/>
-        <updated>2024-01-28T01:51:02.000Z</updated>
-        <summary type="html"><![CDATA[未来三天，南方地区将为主要降雨区域，特别是29日江南和华南的部分地区将有中到大雨，局部有暴雨。华北南部和黄淮中西部的扩散条件将变差。从31日开始，中东部地区将出现大范围雨雪，持续至2月5日，对春运出行造成不利影响，提醒公众合理安排出行计划。
-   
-媒体报道
-  
-中央气象台：1月31日起中东部有大范围雨雪天气，对春运出行较为不利界面
-  
-中央气象台：未来三天南方以降雨为主 中东部酝酿大范围雨雪新浪科技/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年半导体专利报告：三星超万件，IBM、高通、台积电紧随其后]]></title>
-        <id>readhub-8WgQfWtUnon</id>
-        <link href="https://readhub.cn/topic/8WgQfWtUnon"/>
-        <updated>2024-01-28T01:43:12.000Z</updated>
-        <summary type="html"><![CDATA[根据Anaqua公司利用AcclaimIP专利分析软件对美国商标和专利局公示的半导体相关专利的分析，2023年美国地区半导体专利数量达到348774件，其中美国公司获得162557件，居各国之首，比2022年增长了18%。在最具创新力公司榜单中，三星电子遥遥领先，共获得10043项美国授权专利，比2022年增长了8%。排名前列的技术领域包括半导体技术、虚拟现实、5G、人工智能以及与未授权用户检测相关的软件技术。在人工智能领域，最具创造性的领域包括机器学习模型、通用神经网络开发等。2023年获得美国人工智能授权专利最多的受让人是IBM、三星电子、Alphabet、微软和亚马逊。
-   
-媒体报道
-  
-2023年半导体专利报告：三星超万件，IBM、高通、台积电紧随其后凤凰科技
-  
-2023 年半导体专利报告：三星超万件傲视群雄，IBM、高通、台积电紧随其后中关村在线/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电信中部智算中心在武汉投运，支持部署万亿参数大模型]]></title>
-        <id>readhub-8WgaghcdaQa</id>
-        <link href="https://readhub.cn/topic/8WgaghcdaQa"/>
-        <updated>2024-01-28T01:43:00.000Z</updated>
-        <summary type="html"><![CDATA[中国电信中部智算中心在武汉东湖新技术开发区正式投入运营，其算力、安全、环保及扩展性达到一流水平。该中心采用国产AI基础软硬件平台，实现全场景绿色节能环保，并支持部署万亿参数大模型。中部智算中心可提供千卡规模的训练推理能力，并支持主流框架及芯片，资源利用率可提升20%，在千卡模型下并行计算效率可达80%。
-   
-媒体报道
-  
-中国电信中部智算中心在武汉投运，支持部署万亿参数大模型中关村在线/凤凰科技/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server 2025预览版更新发布 支持飞行计划功能]]></title>
-        <id>readhub-8Wghq6AVI01</id>
-        <link href="https://readhub.cn/topic/8Wghq6AVI01"/>
-        <updated>2024-01-28T01:42:55.000Z</updated>
-        <summary type="html"><![CDATA[微软发布了Windows Server 2024年度首个预览版更新，版本号为Build 26040，主要支持Flighting功能，并被命名为Windows Server 2025。这次更新扩大了蓝牙设备的覆盖范围，用户可以在边缘位置使用蓝牙连接外围设备。同时，SMB服务器支持监听SMB over QUIC端口，提高了灵活性。微软致力于提供稳定可靠且兼容性良好的产品给用户使用。
-   
-媒体报道
-  
-2024 开年首更，Windows Server 2025命名敲定：26040 预览版上线搜狐科技
-  
-2024 开年首更，Windows Server 2025 命名敲定：26040 预览版上线IT 之家
-  
-Windows Server 2025预览版更新发布 支持飞行计划功能中关村在线]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四川遂宁警方捣毁苹果蓝牙耳机制假窝点，涉案金额 1.67 亿元]]></title>
-        <id>readhub-8WgkgYLgyH8</id>
-        <link href="https://readhub.cn/topic/8WgkgYLgyH8"/>
-        <updated>2024-01-28T01:42:53.000Z</updated>
-        <summary type="html"><![CDATA[遂宁警方近日联合广东、广西两地警方成功破获一起生产销售假冒苹果蓝牙耳机的犯罪案件，抓获犯罪嫌疑人22名，捣毁制假窝点9处、生产线3条、销售窝点8处，涉案金额达1.67亿元。行动中查获假冒蓝牙耳机6.9万多个、半成品4.5万多个，以及大量制假工具、包装材料和零部件。目前，已有8人被刑事拘留，14人取保候审，案件正在进一步侦办中。
-   
-媒体报道
-  
-四川遂宁警方捣毁苹果蓝牙耳机制假窝点，涉案金额1.67亿元凤凰科技
-  
-四川遂宁警方捣毁苹果蓝牙耳机制假窝点，涉案金额 1.67 亿元中关村在线/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌发布Win10 on Arm版Chrome浏览器 速度提升明显]]></title>
-        <id>readhub-8WgX7BXiyfB</id>
-        <link href="https://readhub.cn/topic/8WgX7BXiyfB"/>
-        <updated>2024-01-28T01:12:48.000Z</updated>
-        <summary type="html"><![CDATA[谷歌推出适用于Arm64架构的Chrome浏览器，可在Windows on Arm设备上高效运行，提升速度。此举表示谷歌已准备好为Windows on Arm设备开发专用应用程序。这类设备具有良好续航和网络连接能力，且更便携。
-   
-媒体报道
-  
-Arm64版谷歌Chrome 浏览器上线：Windows on Arm 设备上原生运行搜狐科技
-  
-谷歌发布Win10 on Arm版Chrome浏览器 速度提升明显中关村在线
-  
-解锁全平台成就，Arm64 版谷歌 Chrome 浏览器上线：Windows on Arm 设备上可原生运行IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
         </author>
     </entry>
     <entry>
