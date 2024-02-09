@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-02-08T18:08:45.171Z</updated>
+    <updated>2024-02-09T00:32:16.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美股三大指数开盘涨跌不一，ARM大涨逾25%]]></title>
+        <id>readhub-8X19ZMvoKnN</id>
+        <link href="https://readhub.cn/topic/8X19ZMvoKnN"/>
+        <updated>2024-02-08T23:10:42.000Z</updated>
+        <summary type="html"><![CDATA[美国股市涨跌互现，道指微涨0.12%，标普500基本持平，纳指小幅上涨0.04%。Arm因四季报亮眼且业绩指引上调，股价开盘大涨超25%。迪士尼计划提高股息、回购股票并投资Epic 15亿美元，股价开盘上涨约8%。谷歌母公司Alphabet推出付费聊天机器人Gemini以竞争OpenAI，股价开盘上涨0.35%。微软开盘微跌0.08%，OpenAI正在自研两款Agent软件。特斯拉小幅上涨0.1%，“木头姐”继续唱多该股。
+   
+媒体报道
+  
+美股开盘丨三大指数涨跌不一 Arm涨超22%新浪科技
+  
+美股三大指数小幅收涨，Arm涨超47%创历史新高界面
+  
+美股三大指数小幅收涨 Arm涨超47%创历史新高财联社
+  
+CPI恐大调，美股涨势消减，三大股指盘中均曾转跌，财报后Arm狂飙超50%华尔街见闻
+  
+美股三大指数开盘涨跌不一，ARM大涨逾25%新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win11 Build 26052 预览版见，微软确认将原生支持 Sudo 命令]]></title>
+        <id>readhub-8X0VBs2kpWd</id>
+        <link href="https://readhub.cn/topic/8X0VBs2kpWd"/>
+        <updated>2024-02-08T22:00:53.000Z</updated>
+        <summary type="html"><![CDATA[微软在Windows 11 Build 26052预览版更新中计划引入对Sudo命令的原生支持，以便用户在不打开新的提权控制台的情况下以更高权限运行某些命令。Windows版的Sudo正处于早期开发阶段，并已出现在Windows Server 2025预览版中。用户可以通过“设置”&gt。“面向开发者”页面或命令行来启用Sudo。Sudo for Windows支持三种不同的配置选项：在新窗口打开、输入关闭和内联。此外，当使用Sudo从命令行运行进程时，可能会出现UAC对话框，要求用户确认升级。
+   
+媒体报道
+  
+Win11 Build 26052 预览版见，微软确认将原生支持 Sudo 命令搜狐科技/IT 之家
+  
+Win11预览版更新 原生支持Sudo命令中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软将发布聊天机器人Copilot 全新升级]]></title>
+        <id>readhub-8X0HbD8mZKV</id>
+        <link href="https://readhub.cn/topic/8X0HbD8mZKV"/>
+        <updated>2024-02-08T22:00:52.000Z</updated>
+        <summary type="html"><![CDATA[聊天机器人Copilot进行了更新，推出了更简洁流畅的交互界面和Prompt轮播功能，同时更新上线了网页版和移动版。全球用户已在Copilot进行了50亿次聊天。
+   
+媒体报道
+  
+微软人工智能聊天机器人 Copilot 焕新亮相，将登陆超级碗广告中关村在线/IT 之家
+  
+微软将发布聊天机器人Copilot 全新升级品玩]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深交所就可持续发展报告指引公开征求意见 促进夯实上市公司高质量发展基础]]></title>
         <id>readhub-8X15GGjPwaN</id>
@@ -3218,600 +3272,6 @@ Spotify(SPOT.US)Q4用户增长超预期 股价盘前涨近7%智通财经
 英飞凌下调2024全年营收预期至155亿至165亿欧元凤凰科技]]></summary>
         <author>
             <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电2023年员工业绩奖金与分红超1000亿元新台币]]></title>
-        <id>readhub-8Wxa2AOeZge</id>
-        <link href="https://readhub.cn/topic/8Wxa2AOeZge"/>
-        <updated>2024-02-06T12:10:45.000Z</updated>
-        <summary type="html"><![CDATA[台积电董事会批准了2023年的员工业绩奖金和酬劳（分红），总计约1001.81亿新台币。其中，约500.9亿新台币的业绩奖金已在每个季度结束后发放，另外约500.9亿新台币的酬劳（分红）将在今年7月发放。
-   
-媒体报道
-  
-台积电 2023 年员工业绩奖金与分红超 1000 亿元新台币IT 之家
-  
-台积电2023年员工业绩奖金与分红超1000亿元新台币财联社/界面/凤凰科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长城汽车：1月汽车销量10.4万辆 同比增加69.06%]]></title>
-        <id>readhub-8WwxRLCVtQD</id>
-        <link href="https://readhub.cn/topic/8WwxRLCVtQD"/>
-        <updated>2024-02-06T11:50:44.000Z</updated>
-        <summary type="html"><![CDATA[长城汽车2024年1月销量达10.4万辆，同比增长69.06%，产量为9.59万辆，同比增长74.8%。
-   
-媒体报道
-  
-长城汽车坦克品牌 1 月销量 20067 辆，同比增长 239.26%IT 之家
-  
-长城汽车 1 月销量超 10 万辆，哈弗、坦克品牌成主力IT 之家
-  
-长城汽车1月汽车销量10.4万辆 同比增加69.06%新浪科技
-  
-长城汽车：1月汽车销量10.4万辆 同比增加69.06%财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海关总署发布横琴粤澳深度合作区进口货物免税管理新规]]></title>
-        <id>readhub-8Wxa0zE7OrT</id>
-        <link href="https://readhub.cn/topic/8Wxa0zE7OrT"/>
-        <updated>2024-02-06T11:41:16.000Z</updated>
-        <summary type="html"><![CDATA[海关总署发布新规定，对横琴粤澳深度合作区进口货物实行免税管理，包括自用机器设备和基建物资，免征进口关税、进口环节增值税和消费税。该办法将在合作区正式封关运行之日起施行。
-   
-媒体报道
-  
-海关总署：对横琴粤澳深度合作区进口货物免税新浪科技/澎湃新闻
-  
-海关总署发布横琴粤澳深度合作区进口货物免税管理新规中国证券网/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想、微软等 8 家全球科技公司签署人工智能伦理相关协议]]></title>
-        <id>readhub-8WxWRkJ5Mpw</id>
-        <link href="https://readhub.cn/topic/8WxWRkJ5Mpw"/>
-        <updated>2024-02-06T10:40:59.000Z</updated>
-        <summary type="html"><![CDATA[近日，包括联想集团、微软、LG等在内的8家全球科技公司，在斯洛文尼亚克拉尼举行的第二届联合国教科文组织全球人工智能论坛上，签署了遵守联合国教科文组织人工智能伦理建议的协议。该协议要求企业在人工智能的设计、开发、购买、销售和使用中保障人权，进行尽职调查，预防、减轻或补救不利影响，并强调事前测试和事后风险评估的重要性。联合国教科文组织总干事呼吁所有技术利益相关者效仿这些公司的做法，强调公共和私营部门的联盟对于为共同利益构建人工智能至关重要。
-   
-媒体报道
-  
-微软、联想等多家科技公司签署人工智能伦理相关协议澎湃新闻
-  
-联想、微软等 8 家全球科技公司签署人工智能伦理相关协议搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年北京“两区”招商引资超额完成任务，新增入库项目1.1万个]]></title>
-        <id>readhub-8WxH52L3xur</id>
-        <link href="https://readhub.cn/topic/8WxH52L3xur"/>
-        <updated>2024-02-06T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[北京市在2023年“两区”招商引资工作中取得显著成效，超额完成目标任务。新增入库项目1.1万个，增长93%，预计投入资金1.3万亿元，增长24%，落地项目数量及整体落地率均有所上升。市投促中心推荐的项目中有37个已落地，涉及资金106.7亿元。此外，投资促进“朋友圈”扩大至20家合作伙伴，并新增12家。北京还与多家国际机构建立联系，国际招商渠道得到拓展。通过各类活动，协助300余家企业参与投资推介。同时，成功举办京港洽谈会和投资北京全球峰会，签约多个重大项目，涉及金额巨大。政企沟通渠道得到加强，为企业和商协会提出的问题提供了协调和回应。
-   
-媒体报道
-  
-鼓励股权投资机构等参与！北京擂响引资招商 2023年新增入库项目1.1万个 新增投入资金1.3万亿腾讯网
-  
-上海二批次新盘官宣：24个项目超4600套房源，最高单价16.3万/平界面
-  
-上海推出今年第二批次集中供应楼盘 10万元/平方米以上的项目有4个财联社
-  
-去年北京“两区”招商引资超额完成任务，新增入库项目1.1万个新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯研发《艾尔登法环》移动版：内购免费游戏模式]]></title>
-        <id>readhub-8WxG2wb3hFn</id>
-        <link href="https://readhub.cn/topic/8WxG2wb3hFn"/>
-        <updated>2024-02-06T10:06:02.000Z</updated>
-        <summary type="html"><![CDATA[腾讯正在开发《艾尔登法环》移动版，计划将其打造为一款内购免费的 game，目前原型制作进展缓慢。据知情人士透露，该游戏的运营模式可能会参考《原神》等热门游戏。目前，腾讯还未对此消息做出回应。
-   
-媒体报道
-  
-消息称腾讯正开发《艾尔登法环》手游：本体免费，提供内购IT 之家
-  
-腾讯研发《艾尔登法环》移动版：内购免费游戏模式搜狐科技
-  
-消息人士称腾讯正在开发热门主机游戏《艾尔登法环》移动版凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上交所终止认养一头牛控股集团股份有限公司发行上市审核]]></title>
-        <id>readhub-8WxSs8R6BRh</id>
-        <link href="https://readhub.cn/topic/8WxSs8R6BRh"/>
-        <updated>2024-02-06T10:01:11.000Z</updated>
-        <summary type="html"><![CDATA[上海证券交易所公告，由于认养一头牛控股集团股份有限公司的保荐人撤销保荐，根据相关规定，上交所终止该公司发行上市的审核。
-   
-媒体报道
-  
-上交所终止认养一头牛控股集团股份有限公司发行上市审核界面
-  
-上交所：终止对认养一头牛控股集团股份有限公司首次公开发行股票并在主板上市审核新浪科技/财联社/和讯网]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜茶·茶坊在上海开出首店 2月6日开业]]></title>
-        <id>readhub-8WxN0VgI5Pj</id>
-        <link href="https://readhub.cn/topic/8WxN0VgI5Pj"/>
-        <updated>2024-02-06T09:56:43.000Z</updated>
-        <summary type="html"><![CDATA[喜茶·茶坊在上海开出首店，位于上海环球港，汲取宋朝茶坊的元素，营造悠然意境。茶坊分为四大产品系列，首创鲜榨·茶布奇诺系列为招牌。同步推出5款新品，包括两款全新茶底。为吸引消费者，推出买一送一、茶坊周边赠送等活动。此次开业体现喜茶新业态融入上海本地茶饮生活，并走向更广大消费群体。
-   
-媒体报道
-  
-喜茶加注茶、开茶坊，新茶饮赛道的风向又变了？亿欧
-  
-喜茶·茶坊在上海开出首店 2月6日开业DoNews
-  
-喜茶茶坊在上海开出首店腾讯网]]></summary>
-        <author>
-            <name>亿欧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃尔沃大中华区1月销售近1.7万辆，今年将成电动转型关键]]></title>
-        <id>readhub-8WxG2IMqPIh</id>
-        <link href="https://readhub.cn/topic/8WxG2IMqPIh"/>
-        <updated>2024-02-06T09:48:24.000Z</updated>
-        <summary type="html"><![CDATA[沃尔沃中国公布2024年1月销量，大中华区总销量达1.69万辆，同比增长38.9%。中国大陆市场表现强劲，多款车型如S60、S90和XC60销量均实现增长。2023年，沃尔沃全球销量70.87万辆，纯电动汽车销量同比增长70%。在中国销售新车17万辆，占全球销量四分之一。沃尔沃正加速电气化转型，计划在2030年成为纯电豪华车企，并将在2024年推出多款新电动车型。2023年沃尔沃营业收入和营业利润均创历史新高。
-   
-媒体报道
-  
-最贵纯电MPV！沃尔沃EM90量产车下线：售价81.8万元凤凰科技
-  
-沃尔沃大中华区1月销售近1.7万辆，今年将成电动转型关键腾讯网
-  
-沃尔沃 EM90 首台量产车下线：品牌首款纯电 MPV，售 81.80 万元IT 之家
-  
-沃尔沃首款纯电动MPV EM90正式下线凤凰科技/中关村在线]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xmind正式登陆苹果VisionPro]]></title>
-        <id>readhub-8WxHINOV1Jp</id>
-        <link href="https://readhub.cn/topic/8WxHINOV1Jp"/>
-        <updated>2024-02-06T09:48:19.000Z</updated>
-        <summary type="html"><![CDATA[苹果首款混合现实头显VisionPro上市，思维导图应用Xmind推出XmindvisionOS版本，支持无限虚拟背景、3D环境、眼动、手势和语音等全新交互方式。XmindvisionOS版提供丰富的模板和样式风格，支持200寸超大思维导图展示，可深度专注于思维的延展与碰撞。
-   
-媒体报道
-  
-用苹果Vision Pro制作完整Xmind思维导图，迸发无界灵感雷锋网
-  
-Xmind正式登陆苹果VisionPro，开启前所未有的脑暴体验中关村在线/凤凰科技
-  
-Xmind 苹果visionOS版可下载！苹果头显可制作完整思维导图搜狐科技]]></summary>
-        <author>
-            <name>雷锋网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河南首批房地产项目“白名单”出炉 已推送至金融机构]]></title>
-        <id>readhub-8Wwyr8Xq7qM</id>
-        <link href="https://readhub.cn/topic/8Wwyr8Xq7qM"/>
-        <updated>2024-02-06T09:45:47.000Z</updated>
-        <summary type="html"><![CDATA[河南省住房和城乡建设厅已完成第一批房地产项目“白名单”的推送，该名单已送至金融机构，目前房企和银行正在进一步对接。首个“白名单”项目焦作沁阳市征云小区已获得建设银行的资金支持。河南将继续加强调度和协调，推动房地产融资协调机制的作用，常态组织银企对接，以促进房地产市场的平稳健康发展。
-   
-媒体报道
-  
-河南首批房地产项目“白名单”出炉 已推送至金融机构财联社
-  
-房地产项目融资“白名单”进展迅速，出险房企集体“醒”了腾讯网/新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[续航625-750公里：新款极氪001续航里程曝光]]></title>
-        <id>readhub-8WvHpMhJ0qX</id>
-        <link href="https://readhub.cn/topic/8WvHpMhJ0qX"/>
-        <updated>2024-02-06T09:41:53.000Z</updated>
-        <summary type="html"><![CDATA[新款极氪001的动力系统和续航里程均有所提升，提供两种容量电池组选项，外观和内饰也有细节上的升级，如全新前脸设计、隐藏式门把手和花瓣式轮毂，可选装车顶激光雷达以支持高级别驾驶辅助功能。
-   
-媒体报道
-  
-续航625-7750公里：新款极氪001续航里程曝光凤凰科技
-  
-新款极氪001续航信息曝光 最高750公里 最低626公里手机中国
-  
-续航625-750公里：新款极氪001续航里程曝光凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北向资金今日大幅净买入126.05亿元，贵州茅台获净买入9.44亿元]]></title>
-        <id>readhub-8WwHGsezBvJ</id>
-        <link href="https://readhub.cn/topic/8WwHGsezBvJ"/>
-        <updated>2024-02-06T09:40:46.000Z</updated>
-        <summary type="html"><![CDATA[北向资金今日大笔净买入126.05亿元，其中贵州茅台、五粮液、招商银行分别被净买入9.44亿元、4.52亿元、2.70亿元，而万华化学被净卖出6.31亿元，净卖出额居首。
-   
-媒体报道
-  
-北向资金今日大幅净买入126.05亿元 贵州茅台净买入9.44亿元财联社
-  
-蓝鲸酒讯 | 蜜雪冰城申请涉酒商标；北向资金今日净买入贵州茅台和五粮液腾讯网
-  
-北向资金今日大幅净买入126.05亿元，贵州茅台获净买入9.44亿元界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[济远医疗完成A轮第二期数千万元融资，提供一次性妇科内窥镜整体解决方案]]></title>
-        <id>readhub-8Wwo8s7ZVh3</id>
-        <link href="https://readhub.cn/topic/8Wwo8s7ZVh3"/>
-        <updated>2024-02-06T09:31:10.000Z</updated>
-        <summary type="html"><![CDATA[江苏济远医疗科技有限公司（简称“济远医疗”）完成A轮第二期数千万元融资，主要用于一次性电子宫腔镜及配套手术器械的研发、注册认证、生产和市场推广。公司成立于2017年，专注于一次性妇科内窥镜的研发、生产和销售，已建立一次性内窥镜多产品技术平台，打造“五镜合一”的一次性妇科内镜整体解决方案。董事长张云飞表示，感谢投资人对公司认可，将加快全球商业化推广，向更多医患提供有价值的产品和服务。
-   
-媒体报道
-  
-济远医疗完成A轮第二期数千万元融资，提供一次性妇科内窥镜整体解决方案投资圈
-  
-【首发】济远医疗完成A轮第二期融资，着力打造全球领先的市场地位动脉网]]></summary>
-        <author>
-            <name>投资圈</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王老吉申请吉到甄选商标]]></title>
-        <id>readhub-8Wx5HzvFF1z</id>
-        <link href="https://readhub.cn/topic/8Wx5HzvFF1z"/>
-        <updated>2024-02-06T09:15:54.000Z</updated>
-        <summary type="html"><![CDATA[广州王老吉餐饮管理发展有限公司近日申请注册多个“吉到甄选”商标，涵盖食品、啤酒饮料等国际分类，目前商标状态正等待实质审查。本文仅供参考，不构成投资及应用建议。
-   
-媒体报道
-  
-快讯！王老吉申请吉到甄选商标腾讯网
-  
-王老吉申请吉到甄选商标财经网/DoNews]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为卷轴屏手机专利曝光 有望成第一个量产卷轴屏手机的厂商]]></title>
-        <id>readhub-8WxQjjYW2qE</id>
-        <link href="https://readhub.cn/topic/8WxQjjYW2qE"/>
-        <updated>2024-02-06T09:11:18.000Z</updated>
-        <summary type="html"><![CDATA[华为技术有限公司近日获得了一项关于折叠机构、卷曲屏结构及电子设备的专利授权，并计划于今年推出卷轴屏手机，可能会成为首个量产该类型手机的厂商。这款电子设备具有可从初始显示状态伸展至扩展显示状态的卷曲屏，能够在满足正常使用需求的同时，增加显示屏的面积。目前，华为在折叠屏手机市场表现出色，其Mate X5系列产品在2023年取得了中国折叠屏手机市场销量冠军，并成为唯一销量超过百万台的单品。
-   
-媒体报道
-  
-华为新款Pocket折叠屏手机曝光：麒麟9000S 5G芯片 + 4520mAh电池搜狐科技
-  
-华为卷轴屏手机专利曝光 有望成第一个量产卷轴屏手机的厂商凤凰科技
-  
-华为卷轴屏手机专利曝光！有望成第一个量产卷轴屏手机的厂商搜狐科技
-  
-华为新款 Pocket 折叠屏手机曝光：搭载麒麟 9000S 5G 芯片 + 4520mAh 电池，提供紫色素皮和灰色玻璃可选IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年全球手游吸金 767 亿美元，休闲类游戏增长 30%]]></title>
-        <id>readhub-8WxQ1E6DR8H</id>
-        <link href="https://readhub.cn/topic/8WxQ1E6DR8H"/>
-        <updated>2024-02-06T09:10:51.000Z</updated>
-        <summary type="html"><![CDATA[根据Sensor Tower发布的《2024年全球移动游戏市场展望》报告，2023年全球手游收入达到767亿美元，比疫情前高出22%。美国市场收入最高，中国iOS手游市场内购收入也稳定。休闲手游玩家支出成为增长亮点，其中混合休闲手游收入增长30%。中重度手游收入虽缓慢收缩，但RPG和策略游戏收入仍分别达到200亿美元和148亿美元。预计2024年全球手游收入将有所回升，并在2028年突破1000亿美元。
-   
-媒体报道
-  
-2023 年全球手游吸金 767 亿美元，休闲类游戏增长 30%IT 之家
-  
-2023年全球手游吸金767亿美元财联社/新浪科技
-  
-2023年全球手游吸金5517亿人名币，休闲类游戏增长30%凤凰科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[业内人士：苹果Micro LED手表不太可能在2026年发布]]></title>
-        <id>readhub-8WxKg1mpGeH</id>
-        <link href="https://readhub.cn/topic/8WxKg1mpGeH"/>
-        <updated>2024-02-06T09:01:47.000Z</updated>
-        <summary type="html"><![CDATA[据业内人士和市场研究，苹果的Micro LED Apple Watch可能不会在2026年发布，原计划最早在2024年底推出，但可能推迟至2025年。目前的主要障碍是Micro LED的制造成本高，量产难度大。若以目前面板成本推算，Micro LED Apple Watch的售价可能会高于OLED iPhone。
-   
-媒体报道
-  
-业内人士：苹果Micro LED手表不太可能在2026年发布凤凰科技/手机中国/搜狐科技]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东方甄选视频号宣布今晚首播：暂不直播 回放俞敏洪访谈]]></title>
-        <id>readhub-8Wvbpa1sjQH</id>
-        <link href="https://readhub.cn/topic/8Wvbpa1sjQH"/>
-        <updated>2024-02-06T08:51:27.000Z</updated>
-        <summary type="html"><![CDATA[东方甄选官方号宣布今晚7点将首次在视频号直播间开播，回放作家余世存、俞敏洪和主播冯冯在东方甄选App的访谈内容。目前暂无视频号直播计划，但不排除未来有变化。东方甄选2024财年中期业绩显示总营收27.95亿元，同比增长34.4%，净利润2.49亿元，同比下滑57.4%，净利润下滑主要与股权激励有关。
-   
-媒体报道
-  
-东方甄选视频号宣布今晚首播：暂不直播 回放俞敏洪访谈凤凰科技
-  
-东方甄选进驻视频号鸟哥笔记
-  
-东方甄选进驻视频号！但放的是录播，暂无直播计划澎湃新闻]]></summary>
-        <author>
-            <name>鸟哥笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恒瑞医药：获HRS-7535片药物临床试验批准通知书]]></title>
-        <id>readhub-8WxQ10YrZVQ</id>
-        <link href="https://readhub.cn/topic/8WxQ10YrZVQ"/>
-        <updated>2024-02-06T08:51:17.000Z</updated>
-        <summary type="html"><![CDATA[恒瑞医药子公司山东盛迪医药有限公司收到国家药品监督管理局通知，其研发的HRS-7535片被批准开展用于减重的Ⅱ期临床试验。HRS-7535是一种口服小分子胰高血糖素样肽-1受体激动剂，目前全球尚未有同类产品上市。该项目已投入研发费用约7955万元。
-   
-媒体报道
-  
-恒瑞医药：获HRS-7535片药物临床试验批准通知书界面
-  
-恒瑞医药：子公司获得HRS-7535片药物临床试验批准通知书 同意本品开展用于减重适应症的Ⅱ期临床试验华尔街见闻/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINI Clubman 六开门车型宣告停产：诞生于 1969 年，累计生产 110 万辆]]></title>
-        <id>readhub-8Wx6iIrisxl</id>
-        <link href="https://readhub.cn/topic/8Wx6iIrisxl"/>
-        <updated>2024-02-06T08:48:56.000Z</updated>
-        <summary type="html"><![CDATA[宝马集团宣布最后一辆MINI Clubman在英国牛津工厂下线，该车型结束了其55年历史和110万辆的生产总数。MINI Clubman最初在1969年推出，经历25年中断后，宝马MINI在2007年推出现代版并在2015年换代。去年4月，MINI宣布推出Clubman Final Edition车型，并在9月宣布这是该车型的最后一代。Countryman将成为Clubman的替代车型，因为其销量是Clubman的两倍。最终版车型限量1969台，保持了经典设计，并带有特别纪念标识。
-   
-媒体报道
-  
-MINI Clubman六开门车型宣告停产：诞生于1969年，累计生产110万辆凤凰科技
-  
-MINI Clubman 六开门车型宣告停产：诞生于 1969 年，累计生产 110 万辆中关村在线/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“玲龙一号”全球首堆外穹顶吊装成功]]></title>
-        <id>readhub-8Wx4vSs8bXJ</id>
-        <link href="https://readhub.cn/topic/8Wx4vSs8bXJ"/>
-        <updated>2024-02-06T08:41:16.000Z</updated>
-        <summary type="html"><![CDATA[海南昌江成功吊装全球首个陆上商用小型模块化核反应堆“玲龙一号”外穹顶，完成反应堆厂房主体结构施工。
-   
-媒体报道
-  
-全球首个商用核电小型堆！“玲龙一号”外穹顶2月6日吊装成功凤凰科技
-  
-全球首个陆上模块化小型核反应堆，我国“玲龙一号”外穹顶吊装完成IT 之家
-  
-“玲龙一号”全球首堆外穹顶吊装成功财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麦当劳今年拟在中国开1000家新门店 将业务拓展至低线城市]]></title>
-        <id>readhub-8WwxMGyHIr0</id>
-        <link href="https://readhub.cn/topic/8WwxMGyHIr0"/>
-        <updated>2024-02-06T08:40:59.000Z</updated>
-        <summary type="html"><![CDATA[麦当劳计划今年在中国大陆新增1000家门店，以拓展其第二大市场，特别是低线城市。公司首席执行官在分析师会议上表示，将继续在尚未开设麦当劳的地区发展业务。麦当劳设定了到2028年底在中国大陆拥有10000家餐厅的目标，并在2023年已经实现了1000家的新开门店。由于北京、上海等大市场逐渐饱和，麦当劳正寻求在中国不那么知名的城市扩大其影响力，这一策略与肯德基相似，其2023年前三季度的净新增餐厅中六成位于低线城市。
-   
-媒体报道
-  
-麦当劳今年的新餐厅近一半将开在中国界面
-  
-麦当劳计划今年在中国新增1000家门店界面
-  
-麦当劳中国去年新增925家店 2024年全球将新开超2100家餐厅亿邦动力网
-  
-麦当劳今年拟在中国开1000家新门店 将业务拓展至低线城市新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克分享 Neuralink 脑机接口首位人体受试者新进展：有望实现意念控手机电脑]]></title>
-        <id>readhub-8WxL0sXTzg2</id>
-        <link href="https://readhub.cn/topic/8WxL0sXTzg2"/>
-        <updated>2024-02-06T08:36:03.000Z</updated>
-        <summary type="html"><![CDATA[埃隆·马斯克透露脑机接口公司Neuralink首位人体受试者的进展积极，预计本周将宣布受试者成功利用意念控制手机和电脑。首位受试者是因颈椎脊髓损伤或肌萎缩性侧索硬化症导致四肢瘫痪的患者，将能通过意念操作设备。Neuralink的目标是帮助肢体功能丧失的人更快地交流。
-   
-媒体报道
-  
-马斯克分享 Neuralink 脑机接口首位人体受试者新进展：有望实现意念控手机电脑搜狐科技/IT 之家
-  
-马斯克分享Neuralink脑机接口首位人体受试者新进展搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏沟通无边界：Roblox 发布 AI 实时聊天翻译器]]></title>
-        <id>readhub-8WwpZe8VzpK</id>
-        <link href="https://readhub.cn/topic/8WwpZe8VzpK"/>
-        <updated>2024-02-06T08:21:03.000Z</updated>
-        <summary type="html"><![CDATA[《Roblox》是一款流行的在线创作游戏平台，玩家可上传场景脚本，实现角色在多样游戏内容中的互动。官方最近推出了一款AI实时聊天翻译器，支持16种语言，包括英语、简体中文、日语等。该翻译器基于大型语言模型，采用混合专家体系结构，以提高翻译效率并降低构建成本与服务器资源消耗。尽管翻译功能存在一定的不准确性，但玩家可以通过反馈来帮助改进翻译质量。
-   
-媒体报道
-  
-游戏沟通无边界：Roblox 发布 AI 实时聊天翻译器搜狐科技/IT 之家
-  
-Roblox 正在构建实时 AI 聊天翻译器，支持 16 种语言转换品玩]]></summary>
-        <author>
-            <name>品玩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂上调本财年Switch销量预期至1550万台]]></title>
-        <id>readhub-8WxHSaQXTNE</id>
-        <link href="https://readhub.cn/topic/8WxHSaQXTNE"/>
-        <updated>2024-02-06T08:01:35.000Z</updated>
-        <summary type="html"><![CDATA[任天堂上调本财年Switch游戏机销量和全年利润预期，原因为假日季盈利好于预期。目前预计本财年Switch销量为1550万台，高于此前预期的1500万台，同时上调了营收、营业利润和净收入预期。但第三财季营业利润虽略高于分析师预期，仍低于上年同期，营收下降6%，低于预期。
-   
-媒体报道
-  
-任天堂预计2023财年净利润4400亿日元，Switch软件销量1.9亿份界面
-  
-任天堂预计全年经营利润5100亿日元鸟哥笔记
-  
-任天堂上调本财年Switch销量预期至1550万台新浪科技/和讯网]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO Reno11 F 手机现身 Geekbench，搭载天玑 7050 处理器]]></title>
-        <id>readhub-8WxG2Df2laM</id>
-        <link href="https://readhub.cn/topic/8WxG2Df2laM"/>
-        <updated>2024-02-06T08:01:21.000Z</updated>
-        <summary type="html"><![CDATA[OPPO Reno11 F手机在Geekbench跑分平台上现身，型号为CPH2603，搭载联发科天玑7050 SoC，配备8GB RAM和Android 14系统。该手机预定页面已在印度尼西亚官网上线，提供粉红色和绿色两种颜色选择，具有平坦边框和后置三摄，预计配备6.7英寸FHD+分辨率、120Hz刷新率的AMOLED显示屏和支持指纹解锁。此外，该手机背面配备64MP主摄像头、8MP超广角和2MP微距摄像头，内置5000mAh电池，支持67W SuperVOOC快速充电，防护等级为IP65。
-   
-媒体报道
-  
-OPPO Reno11 F现身Geekbench：搭载天玑7050凤凰科技
-  
-OPPO Reno11 F 手机现身 Geekbench，搭载天玑 7050 处理器搜狐科技/IT 之家
-  
-OPPO Reno11 F Geekbench跑分曝光 搭载天玑7050手机中国]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称 HMD Global 明天有望公布诺基亚 3310 5G 功能手机]]></title>
-        <id>readhub-8WxGiSlGkdh</id>
-        <link href="https://readhub.cn/topic/8WxGiSlGkdh"/>
-        <updated>2024-02-06T07:36:04.000Z</updated>
-        <summary type="html"><![CDATA[HMD Global计划在明天发布全新的诺基亚品牌手机，此前其在官方Discord服务器上已有预告。外界猜测可能会推出诺基亚3310 5G功能机等设备。
-   
-媒体报道
-  
-消息称 HMD Global 明天有望公布诺基亚 3310 5G 功能手机搜狐科技/IT 之家
-  
-消息称HMD Global明天有望公布诺基亚3310 5G功能手机凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一财社论：房地产项目白名单应防范柠檬化]]></title>
-        <id>readhub-8WvluosVoIc</id>
-        <link href="https://readhub.cn/topic/8WvluosVoIc"/>
-        <updated>2024-02-06T07:22:01.000Z</updated>
-        <summary type="html"><![CDATA[本文讨论了当前中国房地产市场中，政府通过发布房地产项目白名单，以建立融资协调机制来支持纾困房企和保障房屋交付的政策举措。文章指出，这种机制的善意和效果取决于市场和执行力的匹配，同时也需警惕白名单可能导致的负面效应，如市场“柠檬化”和现金流管理问题。文章还提到，尽管有政策支持，如央行设立的专项再贷款，但这些金融工具在市场上的推进并不顺利，原因在于金融机构的考核机制与政策目标之间存在不匹配。为了使融资协调机制真正落地，需要地方政府和金融监管部门提供额外的市场增信，并明确责权利关系。最后，文章强调当前楼市的关键在于政府如何更好地发挥作用，以促进市场的健康出清。
-   
-媒体报道
-  
-多家房企宣布旗下项目入围“白名单”!和讯网/证券时报网
-  
-证券时报：多家出险房企项目入围首批“白名单”,精准支持房地产项目融资澎湃新闻
-  
-房地产项目白名单 应防范柠檬化新浪科技
-  
-一财社论：房地产项目白名单应防范柠檬化腾讯网
-  
-房地产“白名单”加速落地：第一批项目中84%为民营房企和混合制房企开发的项目澎湃新闻]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南方基金：暂停新增转融通证券出借规模]]></title>
-        <id>readhub-8WxItNtBCdC</id>
-        <link href="https://readhub.cn/topic/8WxItNtBCdC"/>
-        <updated>2024-02-06T07:21:55.000Z</updated>
-        <summary type="html"><![CDATA[南方基金将遵循证监会的规定，暂停增加融券业务规模，并谨慎地逐步完成现有转融通证券出借业务，以确保业务稳定进行。
-   
-媒体报道
-  
-南方基金：暂停新增转融通证券出借规模财经网/界面/财联社/新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裁员潮继续冲击科技行业 今年以来3.2万人失业]]></title>
-        <id>readhub-8WwchyBhsK8</id>
-        <link href="https://readhub.cn/topic/8WwchyBhsK8"/>
-        <updated>2024-02-06T07:00:53.000Z</updated>
-        <summary type="html"><![CDATA[2024年科技行业出现新一轮裁员潮，自去年大范围裁员后行业进一步回撤。据Layoffs.fyi数据，今年至今已有约3.2万人失业。例如Snap Inc.裁员约10%，软件公司Okta Inc.裁员7%。高利率环境和疫情期间过度招聘的调整是裁员主因，同时AI竞赛也影响公司人力资源配置。尽管裁员，但科技行业也在积极招聘与AI相关的岗位。招聘公司Insight Global首席执行官预计，大部分裁员已发生，市场将在未来两个季度保持现状，直到美联储开始降息。
-   
-媒体报道
-  
-科技行业以裁员开启2024年 唯有AI岗位需求激增智通财经
-  
-裁员潮继续冲击科技行业 今年以来3.2万人失业和讯网/新浪科技
-  
-2024年科技行业继续大裁员，已裁撤超32000人凤凰科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广发基金：将暂停新增转融通证券出借]]></title>
-        <id>readhub-8WxHRO5uBVb</id>
-        <link href="https://readhub.cn/topic/8WxHRO5uBVb"/>
-        <updated>2024-02-06T06:51:22.000Z</updated>
-        <summary type="html"><![CDATA[广发基金宣布将严格执行证监会的融券业务规定，暂停增加转融通证券出借，并谨慎地逐步减少现有转融通证券出借规模，以确保业务的稳定运作。
-   
-媒体报道
-  
-广发基金：暂停新增转融通证券出借财经网/新浪科技
-  
-广发基金：将暂停新增转融通证券出借界面/财联社/华尔街见闻/腾讯网]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hertz宣布暂停购买6.5万辆极星电动汽车]]></title>
-        <id>readhub-8Ww9QNuUBqk</id>
-        <link href="https://readhub.cn/topic/8Ww9QNuUBqk"/>
-        <updated>2024-02-06T06:51:21.000Z</updated>
-        <summary type="html"><![CDATA[美国租车公司Hertz取消了原定的6.5万辆极星电动汽车采购计划，并已放弃购买更多电动汽车的承诺。由于电动汽车贬值快及维修成本上升，Hertz认为这些车辆并不划算，预计相关协议将造成超过2.45亿美元的损失。此外，Hertz之前还计划购买特斯拉电动汽车，但随着市场变化，公司调整了策略。尽管电动汽车销售整体在增长，但市场需求有所下降，导致租车公司重新评估其购买计划。
-   
-媒体报道
-  
-美国租车巨头赫兹暂停采购极星电动汽车新浪科技
-  
-租车巨头赫兹暂停今年购买极星电动汽车的计划财经网
-  
-租车巨头暂停今年购买极星的计划 承诺不会低价出售新浪科技/手机中国
-  
-Hertz宣布暂停购买6.5万辆极星电动汽车网易科技]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新丰田凯美瑞混动版申报图公布：2.5 升双擎，燃油版已预售]]></title>
-        <id>readhub-8WvnwYrpfGn</id>
-        <link href="https://readhub.cn/topic/8WvnwYrpfGn"/>
-        <updated>2024-02-06T06:51:18.000Z</updated>
-        <summary type="html"><![CDATA[全新一代广汽丰田凯美瑞2.5升双擎混动版车型在工信部发布的第380批《道路机动车辆生产企业及产品公告》中公示。外观上，混动版与燃油版相似，采用半封闭中网和密集菱形渐变式开口的前脸设计，提供三种不同规格的轮辋。车身尺寸为4915/4950mm宽、1840/1850mm高、1450mm高，轴距为2825mm。动力搭载2.5升自然吸气发动机和电动机的油电混合动力系统，发动机最大功率为136千瓦。选装配置丰富，包括双色车身、运动风格前后包围等。全新凯美瑞自1月1日起开始预售，燃油版预售区间为17.38万-19.88万元，2.0升油电混动版预售区间为18.18万-20.88万元，新车将于2024年第一季度上市。
-   
-媒体报道
-  
-混动比电车更香！丰田汽车(TM.US)Q3营业利润飙升76% 上调全年利润预期智通财经
-  
-财报前瞻 | 丰田(TM.US)电动车销售增长或增强Q3业绩 研发投资将冲击利润率？智通财经
-  
-全新丰田凯美瑞混动版申报图公布：2.5 升双擎，燃油版已预售IT 之家]]></summary>
-        <author>
-            <name>智通财经</name>
         </author>
     </entry>
     <entry>
