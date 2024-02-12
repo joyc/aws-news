@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-02-11T18:08:58.424Z</updated>
+    <updated>2024-02-12T00:34:12.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小米：智能手机零部件供应商对在印度设立业务持谨慎态度]]></title>
+        <id>readhub-8X68FXYijJZ</id>
+        <link href="https://readhub.cn/topic/8X68FXYijJZ"/>
+        <updated>2024-02-11T23:15:41.000Z</updated>
+        <summary type="html"><![CDATA[小米公司向印度政府提出降低智能手机零部件进口关税并出台激励措施的请求，以缓解企业在印度业务面临的挑战和供应商的忧虑，鼓励外国零部件供应商在印度设厂。
+   
+媒体报道
+  
+小米：智能手机零部件供应商对在印度设立业务持谨慎态度IT 之家/界面
+  
+小米公司：智能手机零部件供应商对在印度设立业务持谨慎态度财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招聘信息显示 OpenAI 已组建新团队研究儿童安全，制定审查流程]]></title>
         <id>readhub-8X5b2AHmE7f</id>
@@ -1074,226 +1090,6 @@ OPPO超千万用户AI体验计划  ColorOS AI新春版攻略来了手机中国]]
 谷歌宣布Bard更名为Gemini，网页版支持40种语言，下周即将进入亚太地区麻省理工科技评论/腾讯网]]></summary>
         <author>
             <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文旅部：2023年国内出游人次48.91亿，同比增长93.3%]]></title>
-        <id>readhub-8X2PRyRqRVe</id>
-        <link href="https://readhub.cn/topic/8X2PRyRqRVe"/>
-        <updated>2024-02-09T11:40:49.000Z</updated>
-        <summary type="html"><![CDATA[2023年，我国国内出游人次达到48.91亿，同比增长93.3%，其中城镇居民和农村居民的出游人次分别同比增长94.9%和88.5%。游客总花费4.91万亿元，同比增长140.3%，其中城镇居民和农村居民的出游花费分别同比增长147.5%和106.4%。
-   
-媒体报道
-  
-文旅部：2023年国内游客出游总花费4.91万亿元，同比增140.3%新浪科技
-  
-文旅部：2023年国内出游人次48.91亿，同比增长93.3%新浪科技/界面/腾讯网
-  
-文旅部：2023年国内出游人次48.91亿新浪科技
-  
-文旅部：去年国内出游人次48.91亿，同比增长93.3%新浪科技
-  
-文旅部：去年国内游客出游总花费4.91万亿，增长140.3%新浪科技
-  
-文旅部：2023年国内出游人次48.91亿，同比增93.3%新浪科技
-  
-文化和旅游部：2023年国内出游人次48.91亿 同比增长93.3%新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024春节档新片预售总票房突破5亿]]></title>
-        <id>readhub-8X1ydHSNWwd</id>
-        <link href="https://readhub.cn/topic/8X1ydHSNWwd"/>
-        <updated>2024-02-09T11:20:43.000Z</updated>
-        <summary type="html"><![CDATA[2024年春节档新片预售总票房已超过5亿，其中《飞驰人生2》、《热辣滚烫》、《第二十条》位列预售票房前三。
-   
-媒体报道
-  
-2024春节档新片预售总票房突破5亿财联社
-  
-2024年2月总票房破10亿财联社/界面/华尔街见闻
-  
-2024春节档新片预售票房突破6亿元中国证券网
-  
-2024春节档新片预售票房破5亿界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果 macOS 14.3.1 正式发布]]></title>
-        <id>readhub-8X1YZf92nzM</id>
-        <link href="https://readhub.cn/topic/8X1YZf92nzM"/>
-        <updated>2024-02-09T10:41:02.000Z</updated>
-        <summary type="html"><![CDATA[苹果今日向 Mac 电脑用户推送了 macOS 14.3.1 更新（内部版本号：23D60），本次更新距离上次发布隔了 17 天 ... 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。
-   
-媒体报道
-  
-苹果发布 iOS 17.3.1 正式版，修复键入问题搜狐科技
-  
-苹果 iOS 17.3.1 正式版发布IT 之家
-  
-苹果 watchOS 10.3.1 正式发布IT 之家
-  
-苹果 macOS 14.3.1 正式发布IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港证监会和警方告诫公众提防MEXC的涉嫌虚拟资产相关欺诈行为]]></title>
-        <id>readhub-8X2T0xNfDIe</id>
-        <link href="https://readhub.cn/topic/8X2T0xNfDIe"/>
-        <updated>2024-02-09T10:10:43.000Z</updated>
-        <summary type="html"><![CDATA[香港证监会与警方联合发出警告，提醒公众注意一个以“MEXC”名义运作的虚拟资产交易平台，该平台涉嫌通过提供免费投资建议为诱饵，在社交平台或即时通讯软件的群组中诱导投资者存款，随后拒绝或延迟提款。香港证监会已将MEXC及其网站列为可疑交易平台。
-   
-媒体报道
-  
-香港证监会和警方告诫公众提防MEXC的涉嫌虚拟资产相关欺诈行为财联社/界面/Odaily]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国务院办公厅：提高废弃物资源化和再利用水平 培育壮大资源循环利用产业]]></title>
-        <id>readhub-8X2Q98RVbhn</id>
-        <link href="https://readhub.cn/topic/8X2Q98RVbhn"/>
-        <updated>2024-02-09T09:15:44.000Z</updated>
-        <summary type="html"><![CDATA[国务院办公厅近日印发《关于加快构建废弃物循环利用体系的意见》，明确了五方面政策举措，包括推进废弃物精细管理和有效回收、提高废弃物资源化和再利用水平、加强重点废弃物循环利用、培育壮大资源循环利用产业以及完善政策机制。目标是加快构建废弃物循环利用体系，推动资源循环型生产模式，促进废弃物资源化和再利用，加强废旧动力电池等重点废弃物的循环利用，培育行业骨干企业，完善相关政策和支持机制。
-   
-媒体报道
-  
-国务院办公厅：提高废弃物资源化和再利用水平 培育壮大资源循环利用产业财联社
-  
-国务院办公厅：到2025年 初步建成覆盖各领域、各环节的废弃物循环利用体系财联社
-  
-国务院办公厅印发《关于加快构建废弃物循环利用体系的意见》界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高合汽车回应薪水缓发、高管主动降薪：确有其事]]></title>
-        <id>readhub-8X0vFuxYbdE</id>
-        <link href="https://readhub.cn/topic/8X0vFuxYbdE"/>
-        <updated>2024-02-09T08:30:51.000Z</updated>
-        <summary type="html"><![CDATA[高合汽车近期面临经营困难，宣布取消年终奖并建议员工寻找新工作，但公司否认了全员居家办公和大规模裁员的传言。公司表示，高管降薪和缓发工资是应对挑战的措施之一，同时强调业务仍在正常推进。
-   
-媒体报道
-  
-工资缓发、高管主动降薪？高合汽车回应：属实界面
-  
-工资缓发 高管主动降薪？高合汽车回应：属实财联社
-  
-高合汽车回应薪水缓发、高管主动降薪：确有其事IT 之家]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辽宁大连拟调整公积金贷款政策 增强对中低收入缴存职工购房支持力度]]></title>
-        <id>readhub-8X2LVsW6gdd</id>
-        <link href="https://readhub.cn/topic/8X2LVsW6gdd"/>
-        <updated>2024-02-09T08:25:46.000Z</updated>
-        <summary type="html"><![CDATA[大连市住房公积金管理中心正就优化个人住房公积金贷款政策公开征求意见，计划调整公积金贷款政策，包括提高贷款额度，加大对中低收入职工购房的支持。具体措施涉及调整公积金账户存储余额倍数、还贷能力系数以及月还款额与月缴存公积金基数比例。其中，贷款额度最高可达申请人公积金账户存储余额的20倍。意见征集时间为2月7日至3月7日。
-   
-媒体报道
-  
-辽宁大连拟调整公积金贷款政策，增强对中低收入缴存职工购房支持力度澎湃新闻
-  
-辽宁大连拟调整公积金贷款政策 增强对中低收入缴存职工购房支持力度财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称微软内部团队已大规模部署 Copilot 方案]]></title>
-        <id>readhub-8X1z0PFP7G1</id>
-        <link href="https://readhub.cn/topic/8X1z0PFP7G1"/>
-        <updated>2024-02-09T07:06:50.000Z</updated>
-        <summary type="html"><![CDATA[微软正在开发名为Deucalion的新版Copilot，旨在提供更丰富、更强大的办公功能。公司已在员工中推广Microsoft 365 Copilot，以普及人工智能使用。前Azure负责人Jason Zander透露微软正测试提高开发团队对AI的使用率，并计划首次广泛发布Microsoft 365。微软还举办了内部黑客马拉松，加速员工了解AI部署。发言人Frank Shaw表示，相关工作进展超预期，微软已基本完成向员工推广Microsoft 365的工作。
-   
-媒体报道
-  
-消息称微软内部团队已大规模部署 Copilot 方案IT 之家
-  
-微软员工体验Microsoft 365 Copilot 比预期得更好中关村在线
-  
-消息称微软内部团队已大规模部署Copilot方案凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港交易所：任命陈翊庭为行政总裁 提前至3月1日起生效]]></title>
-        <id>readhub-8X27vZQ7qmU</id>
-        <link href="https://readhub.cn/topic/8X27vZQ7qmU"/>
-        <updated>2024-02-09T06:50:54.000Z</updated>
-        <summary type="html"><![CDATA[香港交易所宣布，陈翊庭被任命为集团行政总裁，任期三年，自2024年3月1日起生效。陈翊庭女士也将成为董事会成员。同时，姚嘉仁被任命为副行政总裁，刘碧茵被任命为联席营运总监，两人任命均自2024年3月1日起生效。
-   
-媒体报道
-  
-香港交易所：任命陈翊庭为行政总裁 提前至3月1日起生效华尔街见闻/财联社
-  
-最新！香港交易所，重大宣布！证券时报网
-  
-港交所CEO欧冠升：3月1日起将行政总裁职责完全交棒给陈翊庭中国证券网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅西香港表演赛主办方向球迷退款一半]]></title>
-        <id>readhub-8X2Ej80Du4e</id>
-        <link href="https://readhub.cn/topic/8X2Ej80Du4e"/>
-        <updated>2024-02-09T06:35:46.000Z</updated>
-        <summary type="html"><![CDATA[主办方Tatler宣布向球迷退款一半，具体安排将在三月中旬前公布。
-   
-媒体报道
-  
-梅西香港表演赛主办方向球迷退款一半财联社/华尔街见闻
-  
-梅西香港表演赛主办方：向球迷退款一半，具体安排将于三月中旬前公布界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[证监会发布首批重要货币市场基金名录，共13只]]></title>
-        <id>readhub-8X219rkRtQu</id>
-        <link href="https://readhub.cn/topic/8X219rkRtQu"/>
-        <updated>2024-02-09T06:31:07.000Z</updated>
-        <summary type="html"><![CDATA[中国证监会和中国人民银行共同发布并实施了《重要货币市场基金监管暂行规定》，确定了13只重要货币市场基金产品，并将指导相关机构落实监管要求，提高风险防控与处置能力，持续进行评估和监管，以保障基金份额持有人的合法权益。具体产品名录已列出。
-   
-媒体报道
-  
-证监会发布首批重要货币市场基金名录 易方达易理财货币市场基金等产品在列智通财经
-  
-13只重要货币基金确定：基金经理不得少于2人，绩效不得与规模挂钩界面
-  
-证监会发布首批重要货币市场基金名录，共13只腾讯网]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本1月进口纯电动汽车同比增长11% 比亚迪占比近两成]]></title>
-        <id>readhub-8X0YOyoq5vy</id>
-        <link href="https://readhub.cn/topic/8X0YOyoq5vy"/>
-        <updated>2024-02-09T06:30:50.000Z</updated>
-        <summary type="html"><![CDATA[日本市场对纯电动汽车的需求稳步增长，2024年1月日本纯电动汽车进口销量同比增长11%，达到1186辆。中国新能源汽车品牌比亚迪表现突出，单车销量同比增长六倍，市场份额20%，排名第二。比亚迪计划在未来扩大在日本市场的产品线，新车型SEAL即将推出。自2022年7月进入日本乘用车市场以来，比亚迪已在日本开设17家门店，并积极参加汽车展览活动，以丰富产品和完善服务进一步拓展市场。
-   
-媒体报道
-  
-比亚迪电动车受日本人热捧 海豚成日本1月进口车销冠凤凰科技
-  
-日本1月进口纯电动汽车同比增长11% 比亚迪占比近两成手机中国
-  
-国产品牌进军海外市场：比亚迪1月独占日本纯电动汽车市场1/5凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
         </author>
     </entry>
     <entry>
