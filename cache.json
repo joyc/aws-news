@@ -313,6 +313,66 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8X90vqtxqle",
+          "author": "界面",
+          "description": "贾玲导演并主演的电影《热辣滚烫》正在上映中，其主演电影总票房已突破80亿。\n   \n媒体报道\n  \n贾玲主演电影票房破80亿界面/和讯网/新浪科技\n  \n贾玲导演电影票房超70亿元界面",
+          "link": "https://readhub.cn/topic/8X90vqtxqle",
+          "publishedOn": "2024-02-14T00:10:54.000Z",
+          "wordCount": 143,
+          "title": "贾玲主演电影票房破80亿",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XA3DjzAxdI",
+          "author": "搜狐科技",
+          "description": "苹果发布了visionOS 1.1 Beta 2更新，增加了重置Vision Pro的选项，支持iMessage Contact Key Verification，并增加了苹果设备管理功能。用户可以更近距离接触虚拟物体，改进后的Personas看起来更自然、更逼真。\n   \n媒体报道\n  \n苹果发布 visionOS 1.1 Beta 2 更新：让Personas更自然、更逼真搜狐科技\n  \n苹果发布 visionOS 1.1 Beta 2 更新：增强头显管理、让 Personas 更自然逼真IT 之家\n  \n尽量本地处理，苹果发 Vision Pro 头显支持文档：概览隐私保护措施IT 之家",
+          "link": "https://readhub.cn/topic/8XA3DjzAxdI",
+          "publishedOn": "2024-02-13T23:51:01.000Z",
+          "wordCount": 430,
+          "title": "苹果发布 visionOS 1.1 Beta 2 更新：让Personas更自然、更逼真",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XA00elJiMm",
+          "author": "财联社",
+          "description": "苹果公司任职时间最长的高级工业设计师Bart Andre即将离职，他是Jony Ive时代仅存的几位设计师之一，曾帮助创造了苹果产品的美学。\n   \n媒体报道\n  \n与 Jony Ive 同期加入苹果，苹果公司任职最久设计师 Andre 即将退休IT 之家\n  \nApple’s longest-serving designer to retire; cost-cutting efforts causing ‘unrest’ inside the design team9to5Mac\n  \n苹果公司任职时间最长的设计师Andre即将离职财联社",
+          "link": "https://readhub.cn/topic/8XA00elJiMm",
+          "publishedOn": "2024-02-13T23:20:47.000Z",
+          "wordCount": 245,
+          "title": "苹果公司任职时间最长的设计师Andre即将离职",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8X9Qd1C96Lr",
+          "author": "界面",
+          "description": "哈尔滨冰雪大世界因气温回升和大风天气，为保障游客安全，将于2024年2月15日24时起闭园。已预约游客可申请全额退款。\n   \n媒体报道\n  \n哈尔滨冰雪大世界将于2月15日24时起闭园腾讯网/界面/财联社",
+          "link": "https://readhub.cn/topic/8X9Qd1C96Lr",
+          "publishedOn": "2024-02-13T23:15:56.000Z",
+          "wordCount": 189,
+          "title": "哈尔滨冰雪大世界将于2月15日24时起闭园",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8X9NRg3lcyT",
+          "author": "搜狐科技",
+          "description": "华为正在研发三折叠屏手机，并预计在今年第二季度上市。目前关于这款手机的配置信息尚不清楚，但据称展开后的屏幕尺寸有望超过8英寸。此外，华为还计划发布一款搭载麒麟9000S芯片、4520mAh电池和支持66W快充的小折叠屏手机，拥有灰色玻璃和紫色素皮两个版本，艺术版将采用3D浮雕工艺。\n   \n媒体报道\n  \n华为已经在研发三折屏手机了！中关村在线\n  \n华为智慧屏V5系列再添75英寸新成员？或三月发布搜狐科技\n  \n消息称：华为正在研发三折叠屏手机，预计今年第二季度上市搜狐科技",
+          "link": "https://readhub.cn/topic/8X9NRg3lcyT",
+          "publishedOn": "2024-02-13T22:42:43.000Z",
+          "wordCount": 233,
+          "title": "消息称：华为正在研发三折叠屏手机，预计今年第二季度上市",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8X9h50JKwMb",
+          "author": "财联社",
+          "description": "OpenAI计划推出新功能，让ChatGPT能够记住与用户之前的对话内容，以提供更加个性化的服务。该功能将首先在一小批用户中进行测试，并根据反馈决定是否向更多用户推广。用户可以选择关闭或管理ChatGPT的记忆内容，而企业的数据使用将受到严格控制。这一功能预计将提升用户与ChatGPT的互动效率，特别是在企业和团队环境中。\n   \n媒体报道\n  \nOpenAI正在测试ChatGPT的记忆能力财联社\n  \nOpenAI正在测试ChatGPT的记忆能力。华尔街见闻\n  \nOpenAI测试新功能，让ChatGPT“长记性”华尔街见闻",
+          "link": "https://readhub.cn/topic/8X9h50JKwMb",
+          "publishedOn": "2024-02-13T22:11:01.000Z",
+          "wordCount": 191,
+          "title": "OpenAI测试新功能，让ChatGPT“长记性”",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8X99UmSwCtK",
           "author": "界面",
           "description": "美国劳工部数据显示，1月美国CPI同比增长3.1%，高于预期2.9%和前值3.4%。环比增长0.3%，与预期和前值相同。核心CPI同比增长3.9%，符合预期，环比增长0.4%，超过预期0.3%。\n   \n媒体报道\n  \n美国1月CPI全线超预期，核心CPI未进一步回落，美股期货大幅走低华尔街见闻\n  \n美国1月CPI同比增长3.1%界面/中国证券网/和讯网\n  \n市场对美国1月CPI的预期法布财经\n  \n美国1月CPI同比上涨3.1%超预期，美元指数应声上涨澎湃新闻\n  \n美国1月核心CPI月率0.4%，预期0.3%Odaily\n  \n机构评论：美国1月核心CPI创八个月最大升幅凸显通胀压力持续新浪科技\n  \n美国CPI数据强于预期，欧股跌幅扩大新浪科技",
@@ -1000,96 +1060,6 @@
           "publishedOn": "2024-02-11T15:20:33.000Z",
           "wordCount": 134,
           "title": "杜克能源或将停用宁德时代储能电池 业内：将使供应严重受限",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X5fK3XDTqr",
-          "author": "搜狐科技",
-          "description": "中国科学院自动化研究所人形机器人攻关团队，在乔红院士的带领下，基于原始创新技术，研制出适用于不同场景的Q系列人形机器人。这些机器人具备高爆发一体化关节、AI赋能设计、机器人大模型和类人柔顺控制等核心技术。此外，他们还开发了人形机器人设计组装“大工厂”，能快速构建硬件和软件系统，形成了一个完整的创新链。目前，已经研制出多台Q系列人形机器人样机，并在自适应室外复杂地形、抗未知干扰等方面取得了技术验证。\n   \n媒体报道\n  \n人形机器人攻关团队正式亮相！新系列机器人可自适应多种场景中关村在线\n  \n我国研发 Q 系列人形机器人亮相，初步实现面向不同场景技术验证搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8X5fK3XDTqr",
-          "publishedOn": "2024-02-11T12:12:48.000Z",
-          "wordCount": 164,
-          "title": "我国研发 Q 系列人形机器人亮相，初步实现面向不同场景技术验证",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X5qkPQv6VI",
-          "author": "财联社",
-          "description": "日本政府计划于2024年度允许小型无人机使用5G移动通信系统进行远程操控。相比4G，5G能更高速地传输大量数据，支持低延迟传输高清图像，快速检测基础设施损坏，以及拍摄沉浸式体育视频等。总务省认为通过缩减频段等方法可解决之前的信号干扰问题，因此将修改省令以支持5G无人机服务，而当前无人机服务主要基于4G网络。\n   \n媒体报道\n  \n消息称日本政府2024年度将允许小型无人机利用5G搜狐科技\n  \n日本政府2024年度将允许小型无人机利用5G搜狐科技/财联社",
-          "link": "https://readhub.cn/topic/8X5qkPQv6VI",
-          "publishedOn": "2024-02-11T11:35:52.000Z",
-          "wordCount": 191,
-          "title": "日本政府2024年度将允许小型无人机利用5G",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X5DoGaA0qM",
-          "author": "华尔街见闻",
-          "description": "特斯拉1月的销量主要集中在中国和美国。在中国，大陆销量近4万台，香港销量为953辆，台湾销量几乎为零。在美国，销量约为0.31万台和5.4万台。在欧洲，预估市场总量约2万台，其中德国和法国销量最高，分别为3200辆和3100辆，其他主要市场包括比利时、荷兰和英国，销量均在1600辆以上。\n   \n媒体报道\n  \n1月，特斯拉在韩国的销量：1辆华尔街见闻\n  \n降价≠清库存，特斯拉北美确认今年不会推出 Model Y 改款车型IT 之家\n  \n特斯拉1月全球销量分布：集中在中美，欧洲需求并不高华尔街见闻",
-          "link": "https://readhub.cn/topic/8X5DoGaA0qM",
-          "publishedOn": "2024-02-11T10:05:45.000Z",
-          "wordCount": 254,
-          "title": "特斯拉1月全球销量分布：集中在中美，欧洲需求并不高",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X5ag2nzI6k",
-          "author": "界面",
-          "description": "影片《热辣滚烫》上映第二天，以单日票房冠军的成绩领跑全国。\n   \n媒体报道\n  \n电影《热辣滚烫》实时票房破6亿元和讯网\n  \n《热辣滚烫》上映次日单日票房全国登顶界面\n  \n影片《热辣滚烫》票房突破7亿界面",
-          "link": "https://readhub.cn/topic/8X5ag2nzI6k",
-          "publishedOn": "2024-02-11T09:30:38.000Z",
-          "wordCount": 126,
-          "title": "《热辣滚烫》上映次日单日票房全国登顶",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X4A3gF3n1r",
-          "author": "界面",
-          "description": "2024年春节档期总票房（含预售）截至2月10日17时49分已突破14亿元。\n   \n媒体报道\n  \n2024年春节档档期总票房（含预售）突破14亿元界面\n  \n2024春节档票房破23亿界面\n  \n2024年度总票房破50亿，暂列票房前十都是国产片腾讯网",
-          "link": "https://readhub.cn/topic/8X4A3gF3n1r",
-          "publishedOn": "2024-02-11T09:10:43.000Z",
-          "wordCount": 210,
-          "title": "2024年春节档档期总票房（含预售）突破14亿元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X5hSINsUen",
-          "author": "凤凰科技",
-          "description": "美国企业如沃尔玛、达美航空等，以及欧洲企业如雀巢等，正在使用AI监控员工工作信息，这些工具能监控Slack、Microsoft Teams、Zoom等流行App的聊天内容。AI工具提供商Aware的首席执行官表示，AI能帮助公司了解沟通中的风险，实时了解员工情绪，分析员工对企业新政或营销活动的反应，但其工具不具备标记单个员工姓名的功能。AI模型需要两周时间对员工信息进行训练，了解公司内部的情绪和情感模式。尽管该工具允许公司筛选、搜索大量数据，但Aware本身不会做出决策。然而，有AI问责组织指出，利用AI监视员工已经变成了一种“思想犯罪”，把人当成“库存”。\n   \n媒体报道\n  \n多家跨国企业借助AI监控员工工作信息，以实时了解员工情绪凤凰科技\n  \n多家跨国企业借助 AI 监控员工工作信息，以实时了解员工情绪搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8X5hSINsUen",
-          "publishedOn": "2024-02-11T08:56:10.000Z",
-          "wordCount": 220,
-          "title": "多家跨国企业借助 AI 监控员工工作信息，以实时了解员工情绪",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X5PwiVvhcG",
-          "author": "界面",
-          "description": "中国旅游研究院发布的分析报告预测，2024年中国国内旅游人数将超过60亿人次，旅游收入将达6万亿元以上，入出境旅游人数将超2.6亿人次，国际旅游收入将重新突破千亿美元。2023年旅游市场和产业链已明显恢复，国内旅游人数和收入同比增长超过1倍，恢复至2019年的8成以上，入出境旅游人数同比增长2.8倍以上。2024年旅游经济预计将呈现供需两旺、积极乐观的态势，主要指标增速可达两成以上，接近或超过2019年的历史最高水平。\n   \n媒体报道\n  \n中国旅游研究院：预计2024年国内旅游人数或超60亿人次新浪科技/财联社/界面",
-          "link": "https://readhub.cn/topic/8X5PwiVvhcG",
-          "publishedOn": "2024-02-11T08:40:39.000Z",
-          "wordCount": 257,
-          "title": "中国旅游研究院：预计2024年国内旅游人数或超60亿人次",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X3llR75ia6",
-          "author": "界面",
-          "description": "马斯克创办的脑机接口公司Neuralink已将其注册地从特拉华州迁至内华达州。\n   \n媒体报道\n  \n马斯克的脑机接口公司Neuralink将注册地迁至美国内华达州新浪科技/财联社/界面\n  \n马斯克脑机公司 Neuralink 注册地迁至内华达州，或与薪酬案判决有关IT 之家",
-          "link": "https://readhub.cn/topic/8X3llR75ia6",
-          "publishedOn": "2024-02-11T08:25:53.000Z",
-          "wordCount": 198,
-          "title": "马斯克的脑机接口公司Neuralink将注册地迁至美国内华达州",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X40lvztA5D",
-          "author": "界面",
-          "description": "据猫眼专业版数据，截至2月10日13时06分，2024春节档观影人次破2000万。\n   \n媒体报道\n  \n2024年春节档观影人次破4000万新浪科技\n  \n2024春节档观影人次破4000万界面\n  \n2024年春节档观影人次破2000万中国证券网/新浪科技/财联社/界面",
-          "link": "https://readhub.cn/topic/8X40lvztA5D",
-          "publishedOn": "2024-02-11T06:20:44.000Z",
-          "wordCount": 189,
-          "title": "2024年春节档观影人次破2000万",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
