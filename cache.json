@@ -313,6 +313,36 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8XAa7TGD7WJ",
+          "author": "腾讯网",
+          "description": "特斯拉员工Hans von Ohain在使用FSD Beta测试版驾驶Model 3前往科罗拉多州丹佛市郊外打高尔夫球时发生致命事故，其朋友Erik Rossiter称其当时正在使用FSD功能。事故后，警方调查确定醉酒是主要因素，但同时也在关注FSD测试版可能的作用。死者遗孀认为特斯拉应该对此负责，但因其涉嫌酒驾，找不到律师接手案件。\n   \n媒体报道\n  \n马斯克回应特斯拉员工“自动驾驶”丧生：那车根本没安装FSD！新浪科技\n  \n外媒：特斯拉员工在车祸中丧生，或是首起涉FSD死亡事故腾讯网\n  \n特斯拉员工开启 FSD 自动驾驶时遭遇严重车祸身亡，经查涉嫌酒驾IT 之家\n  \n马斯克回应特斯拉员工车祸死亡事件：那辆车没有 FSDIT 之家",
+          "link": "https://readhub.cn/topic/8XAa7TGD7WJ",
+          "publishedOn": "2024-02-15T00:15:59.000Z",
+          "wordCount": 287,
+          "title": "特斯拉员工开启 FSD 自动驾驶时遭遇严重车祸身亡，经查涉嫌酒驾",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XBdTjZKRgC",
+          "author": "搜狐科技",
+          "description": "苹果公司正筹备推出 M4 系列和 A18 系列芯片，显著增强 AI 计算能力，并已开始对台积电增加 3 纳米制程投片量及先进封装产能。预期今年晚些时候，苹果将公布在人工智能领域的发展细节，展现其对 AI 技术的重视及投入。\n   \n媒体报道\n  \n消息称iPhone 16系列将解锁更多AI技能凤凰科技\n  \n消息称iPhone 16 系列将解锁更多 AI 技能搜狐科技\n  \niOS 18 + 升级版 Neural Engine，消息称 iPhone 16 系列将解锁更多 AI 技能IT 之家",
+          "link": "https://readhub.cn/topic/8XBdTjZKRgC",
+          "publishedOn": "2024-02-14T23:56:21.000Z",
+          "wordCount": 368,
+          "title": "消息称iPhone 16 系列将解锁更多 AI 技能",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XB7ga0Q4w1",
+          "author": "界面",
+          "description": "美国股市三大指数均上涨，道琼斯工业平均指数、纳斯达克综合指数和标普500指数分别上涨0.40%、1.30%和0.96%。比特币价格一度达到52000美元，带动区块链概念股大幅上涨，其中嘉楠科技涨幅超过30%，Marathon Digital和Riot Platforms涨幅超过14%，MicroStrategy涨幅超过12%。此外，半导体板块表现强劲，ARM、AMD和英伟达的涨幅分别为超5%、超4%和超2%。Uber的股价也上涨了近15%，因其董事会授权回购最多70亿美元的公司普通股。\n   \n媒体报道\n  \n美股三大指数集体收高 区块链概念股大涨财联社\n  \n美股收评：三大指数集体收高，区块链概念股大涨，英伟达涨超2%界面\n  \n美股三大股指集体高开 道指涨0.26%和讯网",
+          "link": "https://readhub.cn/topic/8XB7ga0Q4w1",
+          "publishedOn": "2024-02-14T23:11:26.000Z",
+          "wordCount": 252,
+          "title": "美股三大指数集体收高 区块链概念股大涨",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8X9HMM2YLTX",
           "author": "界面",
           "description": "可口可乐2023年第四季度营收达108亿美元，同比增长7%，超过市场预期的106.7亿美元。每股收益为0.49美元，与市场预期相符。公司预计2024年每股收益将增长4%至5%。\n   \n媒体报道\n  \n可口可乐公司2023四季度及全年营收均超预期！中国、印度驱动亚太销量增2%腾讯网\n  \n可口可乐Q4营收同比增长约7%超预期新浪科技\n  \n可口可乐公司2023第四季度营收增长7%，全年营收增长6%界面",
@@ -1290,56 +1320,6 @@
           "publishedOn": "2024-02-12T13:31:17.000Z",
           "wordCount": 379,
           "title": "苹果对Apple Cash进行重大修改，推出虚拟借记卡",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X7Wiq8v0uz",
-          "author": "界面",
-          "description": "小红书与央视联合推出的《大家的春晚》直播曝光超10亿，观看人数超2700万，互动次数达1.7亿次。春晚期间，小红书笔记发布数156万+，搜索春晚相关内容的用户数达8000万+，发笔记写评论的用户数2500万+。电视端，全国电视市场直播总收视份额达75.61%，总台转播频道总收视份额46.06%，综合频道收视份额30.84%。京东平台也加入到今年春晚互动，用户互动量超552亿次，实物大奖、年货好物在晚会结束前已被消费者领取。\n   \n媒体报道\n  \n小红书“陪伴式”直播沉浸感受春晚，《大家的春晚》直播互动次数达1.7亿次财经网\n  \n小红书晒春晚“成绩单”：总曝光超 10 亿，直播互动超 1.7 亿次IT 之家\n  \n小红书：《大家的春晚》直播互动次数达1.7亿次新浪科技/界面",
-          "link": "https://readhub.cn/topic/8X7Wiq8v0uz",
-          "publishedOn": "2024-02-12T12:31:00.000Z",
-          "wordCount": 268,
-          "title": "小红书晒春晚“成绩单”：总曝光超 10 亿，直播互动超 1.7 亿次",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X7992Gfmh6",
-          "author": "界面",
-          "description": "日本大发工业公司因违规认证试验于2月12日在京都工厂恢复了两款商用车生产，涉及车型为丰田“PROBOX”和马自达“FAMILIA VAN”，自去年12月以来的停产状态持续约1个半月后得以重启。\n   \n媒体报道\n  \n丰田旗下大发工业部分恢复京都工厂汽车生产财经网/界面\n  \n丰田旗下大发工业部分恢复京都工厂生产 涉及两款商用车手机中国",
-          "link": "https://readhub.cn/topic/8X7992Gfmh6",
-          "publishedOn": "2024-02-12T09:40:50.000Z",
-          "wordCount": 172,
-          "title": "丰田旗下大发工业部分恢复京都工厂汽车生产",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X7FDCk7UX2",
-          "author": "财联社",
-          "description": "2023年韩国电动汽车购买率为9.3%，低于中国但高于美日。韩国电动汽车销量占比逐年上升，但受充电基础设施不足、充电费用上涨等因素影响，2023年略降。\n   \n媒体报道\n  \n韩国2023年电动汽车购买率为9.3% 远低于中国财联社\n  \n2023 年韩国电动汽车渗透率 9.3% 远低于中国，但高于美国和日本IT 之家\n  \n2023年韩国电动汽车渗透率9.3%远低于中国，但高于美国和日本凤凰科技\n  \n韩国2023年电动汽车购买率为9.3%财经网",
-          "link": "https://readhub.cn/topic/8X7FDCk7UX2",
-          "publishedOn": "2024-02-12T09:10:51.000Z",
-          "wordCount": 194,
-          "title": "韩国2023年电动汽车购买率为9.3% 远低于中国",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X7ErUe0hdo",
-          "author": "界面",
-          "description": "美国总统候选人拜登的竞选团队在周日开设了官方TikTok账号@bidenhq，旨在加强与年轻选民接触。根据皮尤研究的数据，TikTok对年轻人来说仍是一个重要的社交平台，约三分之一的美国18-29岁年轻人经常在TikTok上获取新闻。\n   \n媒体报道\n  \n拜登竞选团队开设TikTok账号界面/华尔街见闻\n  \n真香！为拉年轻选票，拜登竞选团队入驻TikTok开设账号腾讯网",
-          "link": "https://readhub.cn/topic/8X7ErUe0hdo",
-          "publishedOn": "2024-02-12T08:45:43.000Z",
-          "wordCount": 172,
-          "title": "拜登竞选团队开设TikTok账号",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8X7KZHOqH7M",
-          "author": "财联社",
-          "description": "谷歌宣布投入2500万欧元，通过开办“成长学院”和扩大免费在线AI培训课程至18种语言，致力于提高欧洲民众的人工智能技能。该计划旨在减少人工智能带来的不平等，并支持社会企业和非营利组织，以及初创企业利用AI技术解决健康、教育和网络安全等挑战。\n   \n媒体报道\n  \n投入 2500 万欧元，谷歌承诺帮助欧洲民众提高人工智能技能IT 之家/搜狐科技\n  \n谷歌承诺投入2500万欧元提升欧洲人工智能技能新浪科技/财联社",
-          "link": "https://readhub.cn/topic/8X7KZHOqH7M",
-          "publishedOn": "2024-02-12T08:40:54.000Z",
-          "wordCount": 194,
-          "title": "投入 2500 万欧元，谷歌承诺帮助欧洲民众提高人工智能技能",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
