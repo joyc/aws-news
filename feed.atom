@@ -2,10 +2,610 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-02-18T00:35:47.793Z</updated>
+    <updated>2024-02-18T06:09:34.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今天全国铁路预计发送旅客1510万人次]]></title>
+        <id>readhub-8XGv8AzM1dq</id>
+        <link href="https://readhub.cn/topic/8XGv8AzM1dq"/>
+        <updated>2024-02-18T05:40:58.000Z</updated>
+        <summary type="html"><![CDATA[2月18日，全国铁路预计发送旅客1510万人次，计划加开旅客列车1709列。
+   
+媒体报道
+  
+今天全国铁路预计发送旅客1510万人次新浪科技/财联社
+  
+春节假期铁路累计发送9946万人次，节后客流保持高位运行澎湃新闻
+  
+春节假期铁路累计发送旅客9946万人次财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天津春节假期共接待游客1383.94万人次 同比增长95.1%]]></title>
+        <id>readhub-8XGtkDdxiJq</id>
+        <link href="https://readhub.cn/topic/8XGtkDdxiJq"/>
+        <updated>2024-02-18T05:35:44.000Z</updated>
+        <summary type="html"><![CDATA[春节期间，天津市接待游客1383.94万人次，同比增长95.1%，其中外埠游客占比48.8%。旅游收入达123.45亿元，同比增长181.9%。
+   
+媒体报道
+  
+北京春节假期接待游客1749.5万人次i黑马
+  
+天津春节假期共接待游客1383.94万人次 同比增长95.1%和讯网
+  
+浙江春节假期接待游客3032.6万人次旅游收入437.6亿元，较2019年同期增长29.9%和讯网
+  
+吉林省春节假期接待国内游客2051.71万人次，同比增长55.48%！旅游收入200.61亿和讯网]]></summary>
+        <author>
+            <name>i黑马</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软发布 Surface Pro 9 固体更新，扩展设备安全证书颁发机构]]></title>
+        <id>readhub-8XGncoQhrC8</id>
+        <link href="https://readhub.cn/topic/8XGncoQhrC8"/>
+        <updated>2024-02-18T05:31:51.000Z</updated>
+        <summary type="html"><![CDATA[微软发布了对搭载英特尔处理器的Surface Pro 9的2024年2月固件更新，主要更新内容包括扩展设备安全证书，提高使用Surface Thunderbolt 4外接器和Surface机器学习服务的稳定性，并且这次更新提升了运行Windows 10和Windows 11特定版本的Surface Pro 9的操作稳定性。需要注意的是，这个固件更新只适用于搭载英特尔处理器的Surface Pro 9，并且要求设备运行的是Windows 10 2021年11月更新或更高版本、以及Windows 11版本22H2及更高版本。微软预计到2028年10月25日将结束对Surface Pro 9的支持。
+   
+媒体报道
+  
+微软 Surface Pro 9 英特尔版获推 2 月固件更新搜狐科技
+  
+微软发布 Surface Pro 9 固体更新，扩展设备安全证书颁发机构中关村在线
+  
+微软 Surface Pro 9 英特尔版获推 2 月固件更新，提升机器学习服务稳定性IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 招募第二批火星模拟任务志愿者，体验一年火星生活]]></title>
+        <id>readhub-8XGhviVsw1a</id>
+        <link href="https://readhub.cn/topic/8XGhviVsw1a"/>
+        <updated>2024-02-18T05:31:08.000Z</updated>
+        <summary type="html"><![CDATA[NASA启动了“机组人员健康和绩效探索模拟（CHAPEA 2）”的志愿者招募，这是一项为期一年的模拟火星任务，将于2025年春季开始。四名志愿者将在休斯顿约翰逊航天中心，生活在一个大约1700平方英尺、采用3D打印技术建造的舱内。申请者需是美国公民，30-55岁，英语流利，具有理工科硕士学位和至少两年相关工作经验，或有一千小时以上的飞机驾驶经验，或正在攻读相关博士学位且至少已读两年。这项任务旨在模拟火星环境，志愿者将进行舱体维护、种植农作物等工作。CHAPEA 2是NASA计划的三次任务中的第二次，第一次任务已于2023年6月25日开始。
+   
+媒体报道
+  
+NASA 招募第二批火星模拟任务志愿者，体验一年火星生活IT 之家
+  
+身体素质要好！NASA招募一年模拟火星任务志愿者中关村在线
+  
+NASA招募第二批火星模拟任务志愿者，体验一年火星生活凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行今日进行5000亿元1年期MLF操作 利率维持不变]]></title>
+        <id>readhub-8XGp3W5zPk3</id>
+        <link href="https://readhub.cn/topic/8XGp3W5zPk3"/>
+        <updated>2024-02-18T05:11:07.000Z</updated>
+        <summary type="html"><![CDATA[央行今日同时进行了1050亿元7天期逆回购操作和5000亿元1年期MLF操作，两种操作的中标利率均维持不变，分别为1.80%和2.50%。
+   
+媒体报道
+  
+延续增量续作！央行投放“麻辣粉”5000亿元 专家：短期内MLF利率下调的可能性仍然较大新浪科技
+  
+央行开展5000亿MLF操作！央行主管媒体：贷款利率仍有下行空间新浪科技/财经网
+  
+央行今日开展5000亿元1年期MLF操作 利率维持不变新浪科技
+  
+央行今日进行5000亿元1年期MLF操作 利率维持不变财联社
+  
+央行今日开展5000亿元1年期MLF操作，利率维持不变界面/新浪科技
+  
+2月央行开展5000亿MLF操作，中标利率连续6个月不变澎湃新闻
+  
+央行主管媒体：贷款利率仍有下行空间华尔街见闻
+  
+“不降息”！中国央行超额续作5000亿元MLF，利率不变华尔街见闻
+  
+央行今日进行1050亿元7天期逆回购操作新浪科技
+  
+净投放10亿元！央行最新操作！证券时报网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 15开发者预览版发布 ，增强功耗管理]]></title>
+        <id>readhub-8XFBZx1i8mb</id>
+        <link href="https://readhub.cn/topic/8XFBZx1i8mb"/>
+        <updated>2024-02-18T04:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Google发布了首个Android 15开发者预览版，主要更新了动态性能框架，优化功耗和交互方式，提升设备性能。此外，Android 15还增加了部分屏幕录制功能，改善了相机、数据隐私和图片等方面。目前该版本仅面向开发者测试，预计今年春季将推出公开测试版。
+   
+媒体报道
+  
+Android 15开发者预览版发布 ，增强功耗管理品玩
+  
+谷歌发布Android 15开发者预览版：功耗管理与隐私保护成亮点ITBear科技资讯
+  
+Android 15 开发者预览版镜像“撤包”，官方称需要解决已知问题IT 之家]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝马确认发生数据泄露事件：云存储服务器配置错误]]></title>
+        <id>readhub-8XGxdwdA484</id>
+        <link href="https://readhub.cn/topic/8XGxdwdA484"/>
+        <updated>2024-02-18T04:31:06.000Z</updated>
+        <summary type="html"><![CDATA[宝马公司的云存储服务器因配置错误导致敏感信息泄露，包括在中国、欧洲和美国的云服务私钥以及生产和开发数据库的登录凭证。该公司表示已修复问题，并强调没有客户或个人数据受到影响。与此同时，奔驰也报告了类似的数据安全事故。
+   
+媒体报道
+  
+宝马确认发生数据泄露事件：云存储服务器配置错误凤凰科技/IT 之家
+  
+宝马云存储服务器出现配置错误问题，或泄露公司敏感信息品玩]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法拉第未来因拖欠租金被房东起诉，最严重将面临失去洛杉矶总部风险]]></title>
+        <id>readhub-8XFzcJSam4O</id>
+        <link href="https://readhub.cn/topic/8XFzcJSam4O"/>
+        <updated>2024-02-18T04:26:38.000Z</updated>
+        <summary type="html"><![CDATA[法拉第未来公司因拖欠房租和费用，在洛杉矶和圣何塞的办公室分别被房东雷克斯福德工业公司和BXP Realty起诉。该公司总共拖欠款项约160万元人民币，面临被驱逐的命运。法拉第未来自成立以来已亏损超过30亿美元，近期才开始交付首款豪华SUV FF 91。公司创始人贾跃亭在美国积极推进项目，但数据显示，9年来仅交付了10台车，其中一台是给自己的。
+   
+媒体报道
+  
+法拉第未来被多个房东起诉：9万美元房租付不起铅笔道
+  
+法拉第未来因拖欠租金被房东起诉，最严重将面临失去洛杉矶总部风险IT 之家
+  
+曝法拉第未来拖欠房租，总部大楼或被房东收回凤凰科技
+  
+因拖欠66万租金被房东起诉：法拉第未来可能失去总部大楼凤凰科技
+  
+法拉第未来拖欠租金被房东起诉 洛杉矶总部不要了？新浪科技/手机中国]]></summary>
+        <author>
+            <name>铅笔道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储启动年度压测，32家银行面临失业冲击与商业地产风险考验]]></title>
+        <id>readhub-8XGhZK4QB5Z</id>
+        <link href="https://readhub.cn/topic/8XGhZK4QB5Z"/>
+        <updated>2024-02-18T04:10:56.000Z</updated>
+        <summary type="html"><![CDATA[美联储即将进行年度抗压测试，涵盖32家资产规模低至1000亿美元的银行，重点关注商业地产风险。美联储官员对降息持谨慎态度，市场预期夏季开始降息，但降息次数可能减少。投资需谨慎，建议咨询专业投资顾问。
+   
+媒体报道
+  
+美联储理事：加密资产实际上是以美元进行交易Odaily
+  
+美联储公布今年银行压力测试假设情景新浪科技
+  
+本周外盘看点丨美联储公布会议纪要，英伟达财报成为焦点腾讯网
+  
+美联储启动年度压测，32家银行面临失业冲击与商业地产风险考验和讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果播客应用近日出现后端Bug 用户库中剧集内容无法更新]]></title>
+        <id>readhub-8XG2TySmpNN</id>
+        <link href="https://readhub.cn/topic/8XG2TySmpNN"/>
+        <updated>2024-02-18T03:49:06.000Z</updated>
+        <summary type="html"><![CDATA[苹果播客应用近日出现后端Bug，导致用户无法获取更新后的播客剧集，相关内容也无法自动下载至待播队列。受影响平台包括iOS、macOS、tvOS、watchOS及特斯拉汽车。用户只能通过搜索栏精确搜索播客名称以在线播放内容，但无法将其收藏至个人库。苹果公司暂未对此问题作出回应。
+   
+媒体报道
+  
+苹果播客应用近日出现后端Bug 用户库中剧集内容无法更新中关村在线
+  
+苹果“播客”应用现后端 Bug，无法自动更新获取最新剧集搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIOBE 发布 2 月编程指数排行榜，Go 语言首度进入排名前 10]]></title>
+        <id>readhub-8XFgfQvXwMe</id>
+        <link href="https://readhub.cn/topic/8XFgfQvXwMe"/>
+        <updated>2024-02-18T03:48:58.000Z</updated>
+        <summary type="html"><![CDATA[TIOBE编程社区指数近日发布了2024年2月的编程语言排行榜，Python仍居首位，占比15.16%，而C、C++、Java和C#分别位列二至五位。本月Go语言表现突出，成功进入前十，排名第8。自2009年发布以来，Go语言因其简单高效被广泛应用在程序设计、网页、API开发等领域，并在2016年随着Docker和Kubernetes的流行重新获得关注。在谷歌和开发团队的努力下，Go语言从2015年的第122名回升至现在的TIOBE前十名。
+   
+媒体报道
+  
+2024年2月编程语言排行榜公布 Go大热上榜中关村在线
+  
+TIOBE 发布 2 月编程指数排行榜，Go 语言首度进入排名前 10IT 之家
+  
+编程语言榜首发生变化！第8名竟是这款语言中关村在线]]></summary>
+        <author>
+            <name>中关村在线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙正义组千亿芯片巨头，挑战英伟达]]></title>
+        <id>readhub-8XFDNIdaEgY</id>
+        <link href="https://readhub.cn/topic/8XFDNIdaEgY"/>
+        <updated>2024-02-18T03:40:33.000Z</updated>
+        <summary type="html"><![CDATA[孙正义计划通过筹集高达1000亿美元的资金，来支持一家旨在与英伟达竞争、并供应人工智能所需半导体的芯片合资企业。该项目名为“Izanagi”，意在通过与Arm的芯片设计部门互补，打造一家人工智能芯片巨头。孙正义对通用人工智能的实现抱有宏大愿景，并认为这将带来一个更安全、健康和幸福的世界。与此同时，OpenAI的首席执行官山姆·奥尔特曼也在推进其芯片制造计划，寻求美国政府批准一项大型合资企业，以促进人工智能芯片的全球制造。然而，英伟达面临的交货时间缩短的问题，可能预示着公司未来增长前景面临麻烦。
+   
+媒体报道
+  
+孙正义计划筹集1000亿美元 打造AI芯片巨头挑战英伟达新浪科技
+  
+孙正义组千亿芯片巨头，挑战英伟达新浪科技/凤凰科技/华尔街见闻
+  
+英伟达的新挑战者？孙正义计划筹集千亿美元成立AI芯片公司澎湃新闻/新浪科技]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国东航全球首架C919大飞机首次飞出国门]]></title>
+        <id>readhub-8XGk4ZhFIxc</id>
+        <link href="https://readhub.cn/topic/8XGk4ZhFIxc"/>
+        <updated>2024-02-18T03:40:33.000Z</updated>
+        <summary type="html"><![CDATA[中国东航全球首架C919大飞机成功完成近6小时、4200公里的直飞，抵达新加坡樟宜国际机场，准备参加2024年新加坡航展。在航展期间，包括东航涂装的C919在内的5架中国商飞公司生产的国产商用飞机将首次在海外集体亮相，并进行地面展示和演示飞行。
+   
+媒体报道
+  
+中国国产大型客机C919在新加坡首次试飞中国证券网
+  
+国产大飞机C919亮相新加坡航展飞行预演界面
+  
+国产大型客机C919在新加坡首次试飞澎湃新闻
+  
+首次海外试飞，国产大飞机 C919 亮相新加坡航展IT 之家
+  
+【科技早报】全球首架C919大飞机首次飞出国门；12306 客服回应返程车票买不到搜狐科技
+  
+中国东航全球首架C919大飞机首次飞出国门财经网
+  
+国产大飞机C919，首次飞出国门！新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家电影局：2024年春节假期全国电影票房80.16亿元]]></title>
+        <id>readhub-8XGxHg53lR6</id>
+        <link href="https://readhub.cn/topic/8XGxHg53lR6"/>
+        <updated>2024-02-18T03:32:24.000Z</updated>
+        <summary type="html"><![CDATA[2024年春节假期全国电影票房达80.16亿元，观影人次1.63亿，同比增长18.47%和26.36%，创同档期新高。票房前四影片分别为《热辣滚烫》、《飞驰人生2》、《熊出没·逆转时空》和《第二十条》。截至2月18日，2024年全年票房达110.81亿元，国产影片票房占比96.75%。
+   
+媒体报道
+  
+国家电影局：2024年春节假期全国电影票房80.16亿元华尔街见闻/界面/新浪科技
+  
+国家电影局：2024年春节假期全国电影票房80.16亿，《热辣滚烫》27.18亿和讯网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早报：曝小米14 Ultra厚度大减 FF公司拖欠租金被起诉]]></title>
+        <id>readhub-8XGie5yrVjf</id>
+        <link href="https://readhub.cn/topic/8XGie5yrVjf"/>
+        <updated>2024-02-18T03:31:29.000Z</updated>
+        <summary type="html"><![CDATA[小米14 Ultra的外观将与小米13 Ultra相似，但厚度将大幅减少。法拉第未来公司因拖欠租金被房东起诉，洛杉矶总部面临收回风险。美国政府正考虑向英特尔公司提供超过100亿美元的补贴。仰望U9纯电动超跑将于2月25日上市，预计售价达百万元级。
+   
+媒体报道
+  
+卢伟冰死磕小米14 Ultra发布会 新机年后登场新浪科技
+  
+早报：曝小米14 Ultra厚度大减 FF公司拖欠租金被起诉手机中国/搜狐科技
+  
+小米14 Ultra正式官宣！2月22日晚7点发布 卢伟冰主持手机中国]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传字节跳动调集多位高管加大AI研发 多款产品开始内测]]></title>
+        <id>readhub-8XGrwJ1kdpV</id>
+        <link href="https://readhub.cn/topic/8XGrwJ1kdpV"/>
+        <updated>2024-02-18T03:16:49.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动正加大力度布局人工智能领域，多款AI产品相继落地，如豆包、扣子等，并有一款名为“话炉”的AI角色互动App和一款图片AI产品“PicPic”处于测试阶段。此外，字节跳动还在AI研发上进行了一系列组织调整，调集多位高管参与，并从各个部门抽调人员支持AI大模型团队。尽管起步较晚，但字节跳动AI产品已初具规模，并开始在国内和海外市场推出产品。然而，字节跳动在AI技术研发方面仍面临技术壁垒和成本投入等挑战。
+   
+媒体报道
+  
+揭秘字节AI版图：调集多位高管参战，数款重磅产品内测i黑马/凤凰科技/投中网
+  
+传字节跳动调集多位高管加大AI研发 多款产品开始内测手机中国/凤凰科技/搜狐科技
+  
+多位高管参战，揭秘字节AI版图投资圈]]></summary>
+        <author>
+            <name>i黑马</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙正义寻求募资1000亿美元创建AI芯片公司]]></title>
+        <id>readhub-8XGiHOyNKM9</id>
+        <link href="https://readhub.cn/topic/8XGiHOyNKM9"/>
+        <updated>2024-02-18T03:14:21.000Z</updated>
+        <summary type="html"><![CDATA[软银创始人孙正义计划筹集1000亿美元，约合7200亿元人民币，用于成立一家AI芯片公司，旨在与英伟达竞争，并供应人工智能所需的半导体。
+   
+媒体报道
+  
+投资界24h | 张一鸣给老家捐建祠堂；OpenAI估值达到800亿美元；孙正义要成立一家AI芯片公司投资圈
+  
+豪赌AI芯片！孙正义被曝筹资1000亿美元，要抗衡英伟达？腾讯网
+  
+孙正义寻求募资1000亿美元创建AI芯片公司新浪科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴菲特商业帝国接近万亿美元市值，伯克希尔股价突破60万美元]]></title>
+        <id>readhub-8XGhZLbnOnG</id>
+        <link href="https://readhub.cn/topic/8XGhZLbnOnG"/>
+        <updated>2024-02-18T03:06:27.000Z</updated>
+        <summary type="html"><![CDATA[伯克希尔哈撒韦公司股价创新高，A类股票价格首次超过60万美元，市值接近1万亿美元，成为美国第七大上市公司。自1965年以来，公司股价涨幅达到3215489%，巴菲特拒绝拆分A类股，吸引长期投资者。1996年推出B类股，平衡投资选择与质量。伯克希尔通过重大收购巩固地位，包括持有西方石油公司近30%股份和收购保险巨头Alleghany。
+   
+媒体报道
+  
+“股神”巴菲特，套现131亿创业邦
+  
+巴菲特商业帝国接近万亿美元市值，伯克希尔股价突破60万美元和讯网/新浪科技]]></summary>
+        <author>
+            <name>创业邦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯会议 Rooms 上架华为智慧屏应用市场，号称“指哪儿点哪儿”]]></title>
+        <id>readhub-8XGtM9MQwAt</id>
+        <link href="https://readhub.cn/topic/8XGtM9MQwAt"/>
+        <updated>2024-02-18T03:00:48.000Z</updated>
+        <summary type="html"><![CDATA[华为智慧屏V5系列支持腾讯会议Rooms，提供一站式会议体验，包括高清视频、无线投屏和协作白板等功能。同时，华为智慧屏V5搭载华为灵犀指向遥控和鸿鹄900芯片，提供优秀的画质和AI视频优化技术。此外，企业管理员可远程集中管理Rooms设备。华为智慧屏V5 85英寸首发售价为17999元。
+   
+媒体报道
+  
+腾讯会议 Rooms 上架华为智慧屏应用市场，号称“指哪儿点哪儿”搜狐科技/IT 之家
+  
+腾讯会议Rooms上架华为智慧屏应用市场凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海春节期间线上线下消费金额569亿元]]></title>
+        <id>readhub-8XFd7GtbQUB</id>
+        <link href="https://readhub.cn/topic/8XFd7GtbQUB"/>
+        <updated>2024-02-18T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[春节期间，上海举办了“跨年迎新购物季”，以“龙舞上海 春照商圈”为主题，推出了400余项活动，包括龙年美陈、新春市集、年货大礼和民俗表演等。节日期间，外来消费金额达到155.5亿元，人次为1445.8万，同比增长分别为21.6%和41.8%。江苏、浙江、广东、山东和安徽为外来消费前五的省份。全市线上线下消费金额为569亿元，线下客流总量为2873万人次，同比增长11.9%。南京东路、豫园、国际旅游度假区为外来客流最高的商圈。各大商场推出了各类营销活动，如豫园民俗艺术灯会和南京路步行街的客流增长。静安区举办了光影秀并发放文旅消费券，张园客流量同比翻倍。黄金珠宝和餐饮业销售额同比增长分别为16%和16.3%。
+   
+媒体报道
+  
+外来消费增长21.6%，上海这个春节“吸金”多少腾讯网/新浪科技
+  
+569亿元！春节上海消费市场最新数据 外来消费增长明显财经网
+  
+上海春节期间线上线下消费金额569亿元新浪科技
+  
+上海线上线下消费金额达569亿元新浪科技
+  
+新春走基层｜春节跨境消费火爆 粤港澳大湾区生活圈加速融合证券时报网
+  
+春节消费旺盛，A股支撑加强新浪科技]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国AI芯片独角兽Graphcore正考虑出售给海外所有者]]></title>
+        <id>readhub-8XGohQnb8lp</id>
+        <link href="https://readhub.cn/topic/8XGohQnb8lp"/>
+        <updated>2024-02-18T02:58:59.000Z</updated>
+        <summary type="html"><![CDATA[英国AI芯片公司Graphcore在未能从AI热潮中获益后，正寻求出售给海外买家，与多家科技公司讨论潜在交易，以筹集资金弥补亏损。公司高级投资者所持股份价值提升，暗示交易可能超过5亿美元。传闻中的买家包括Arm、软银和OpenAI，但Arm方面否认参与讨论。目前不清楚谈判进展，且可能同时进行独立融资谈判。
+   
+媒体报道
+  
+退出中国市场后 传英国芯片公司Graphcore考虑出售凤凰科技
+  
+英国AI芯片独角兽Graphcore正考虑出售给海外所有者新浪科技
+  
+英国 AI 芯片独角兽 Graphcore 正考虑卖身牛透社]]></summary>
+        <author>
+            <name>牛透社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉工程师回应 Cybertruck 车身生锈问题：可以轻松清除]]></title>
+        <id>readhub-8XGmwUN4IHI</id>
+        <link href="https://readhub.cn/topic/8XGmwUN4IHI"/>
+        <updated>2024-02-18T02:32:01.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉Cybertruck车主反映车辆在淋雨后出现橙色锈斑，官方回应称不锈钢活性导致游离铁生锈，表面污染可轻易清除。工程师推荐使用Bar Keeper's Friend、citrisurf77和Scotch Brite等清洁剂处理锈斑。然而，网友Raxar的经历表明，雨天后的锈斑问题比想象的更严重，即使抛光也无法完全解决问题。
+   
+媒体报道
+  
+特斯拉工程师回应 Cybertruck 车身生锈问题：可以轻松清除IT 之家
+  
+不锈钢车身生锈？Cybertruck也难逃一“锈”中关村在线
+  
+特斯拉回应Cybertruck生锈问题：可以轻松清除财经网
+  
+特斯拉Cybertruck淋雨后表面生锈怎么处理 官方回应：擦一擦凤凰科技/新浪科技]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米首场“人车家全生态”发布会定档2月22日]]></title>
+        <id>readhub-8XGsezCYD1W</id>
+        <link href="https://readhub.cn/topic/8XGsezCYD1W"/>
+        <updated>2024-02-18T02:31:13.000Z</updated>
+        <summary type="html"><![CDATA[小米宣布将于2月22日晚7点举行首场“人车家全生态”发布会，届时将推出小米14 Ultra旗舰手机。
+   
+媒体报道
+  
+小米史上首场「人车家全生态」发布会定档2月22日搜狐科技
+  
+小米史上首场“人车家全生态”发布会定档2月22日华尔街见闻
+  
+小米首场“人车家全生态”发布会定档2月22日界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青海发布寒潮橙色预警 西宁等地气温将下降10℃以上]]></title>
+        <id>readhub-8XFYpCyVCY9</id>
+        <link href="https://readhub.cn/topic/8XFYpCyVCY9"/>
+        <updated>2024-02-18T02:25:33.000Z</updated>
+        <summary type="html"><![CDATA[青海省气象台发布寒潮橙色预警，预计西宁、海东等地气温将下降10℃以上，平均风力达6级以上。降温天气对农牧业生产、能源保供、公众健康有一定影响，政府及有关部门应做好防寒潮应急工作，公众注意防寒保暖，农业、水产业、畜牧业等要采取防寒措施，同时做好防风工作。
+   
+媒体报道
+  
+节后广西天气一夜换季？最高温33℃！最低温-8℃……新浪科技
+  
+西湖边有人穿背心！杭州直冲28℃！接下去的天气想不到…新浪科技
+  
+龙年开工首日北京大部将迎弱降雨 雨后北风增强阵风可达7级新浪科技
+  
+宁夏多地升级发布沙尘暴橙色预警界面
+  
+陕西发布寒潮蓝色预警界面
+  
+青海发布寒潮橙色预警 西宁等地气温将下降10℃以上新浪科技
+  
+湖北天气即将遭遇冷暖巨变，18日晚至24日……新浪科技
+  
+寒潮袭龙江 哈尔滨东部牡丹江局地降温将超16℃新浪科技
+  
+北京市发布寒潮蓝色预警财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[假期即将结束，京城夜场滑雪持续火热]]></title>
+        <id>readhub-8XFPX8ZoL0k</id>
+        <link href="https://readhub.cn/topic/8XFPX8ZoL0k"/>
+        <updated>2024-02-18T02:11:16.000Z</updated>
+        <summary type="html"><![CDATA[北京春节假期尾声，气温回升，但滑雪场夜场依旧热闹，滑雪爱好者抓紧时间享受假期最后时光。
+   
+媒体报道
+  
+图集|人潮涌动 成都春节假期“热”进全国新浪科技
+  
+8天春节长假，中国游客足迹遍布全球超1700个城市新浪科技
+  
+多项指标创新高，北京春节假期旅游热度超2023年中秋国庆假期新浪科技
+  
+【提示】春节假期全市公园接待游客534余万人次→新浪科技
+  
+史上最火爆的春节旅游假期，出境游预订量创近4年峰值新浪科技
+  
+长沙上榜春节假期热门目的地新浪科技
+  
+春节假期“避寒游”“过雪年”同比大增105%，南京成春节假期游最热门城市之一新浪科技
+  
+接待游客534.91万人次！春节假期上海全市公园呈现年味盛宴新浪科技
+  
+数据显示：春节假期国内游、出境游、入境游同比均大幅增长新浪科技
+  
+假期即将结束，京城夜场滑雪持续火热新浪科技
+  
+最火爆的春节旅游假期结束！中长线游同比去年大增，年俗游热度高企证券时报网
+  
+春节假期北京文博游升温，258万人次博物馆里过大年新浪科技
+  
+开门红！今年春节假期，苏州接待游客同比实现翻番！新浪科技
+  
+南京入围春节假期国内游最热门目的地前十新浪科技
+  
+最长春节假期收官：多地接待游客远超往年，“南北互换”流动趋势明显澎湃新闻/新浪科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称目前苹果 Vision Pro 早期退货率相当低，与其它产品持平]]></title>
+        <id>readhub-8XGrDgNnnv3</id>
+        <link href="https://readhub.cn/topic/8XGrDgNnnv3"/>
+        <updated>2024-02-18T02:11:07.000Z</updated>
+        <summary type="html"><![CDATA[苹果Vision Pro头显发售后，部分用户对其感到失望并选择退货，但据Appleinsider报道，从美国东海岸24家苹果零售店获得的消息显示，Vision Pro的退货率并未超出预期，也没有出现大规模退货潮。退货人群主要分为两类：因生理不适无法使用头显的人和将购买视为“免费试用”媒体制作人。
+   
+媒体报道
+  
+消息称目前苹果 Vision Pro 早期退货率相当低，与其它产品持平搜狐科技/IT 之家
+  
+消息称目前苹果Vision Pro早期退货率相当低，与其它产品持平凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 15引入“通知冷却”功能，有效减少连续通知打扰]]></title>
+        <id>readhub-8XGgUHi665o</id>
+        <link href="https://readhub.cn/topic/8XGgUHi665o"/>
+        <updated>2024-02-18T02:10:57.000Z</updated>
+        <summary type="html"><![CDATA[谷歌在Android 15开发者预览版中引入了“通知冷却”功能，针对同一来源连续通知导致的手机不断振动问题。该功能会逐渐降低同一应用连续通知的音量，但不会完全静音，使用户能有效处理通知，提升了用户体验。此功能默认为开启状态，可应用于所有或仅对话通知，对常被群聊消息打扰的用户尤其有用。
+   
+媒体报道
+  
+Android 15 新增“通知冷却”功能，再也不怕群聊轰炸IT 之家
+  
+Android 15引入“通知冷却”功能，有效减少连续通知打扰ITBear科技资讯
+  
+谷歌Android 15新功能“通知冷却”亮相，解决连续通知烦恼ITBear科技资讯]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果据悉搁置可折叠iPhone开发计划]]></title>
+        <id>readhub-8XGpRSJeZoM</id>
+        <link href="https://readhub.cn/topic/8XGpRSJeZoM"/>
+        <updated>2024-02-18T02:00:54.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司暂停了可折叠iPhone的开发，因为供应商屏幕未通过其严格测试。公司正在开发至少两款翻盖可折叠iPhone原型机，这些原型机采用纵向折叠设计，支持悬浮状态，并且在展开至90度角时，无需支架即可拍摄照片。
+   
+媒体报道
+  
+苹果可折叠iPhone开发暂停搜狐科技
+  
+苹果据悉搁置可折叠iPhone开发计划凤凰科技/鸟哥笔记]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Sora更强大功能曝光：可一次生成多个视频]]></title>
+        <id>readhub-8XGnH1wfLh1</id>
+        <link href="https://readhub.cn/topic/8XGnH1wfLh1"/>
+        <updated>2024-02-18T01:56:01.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI员工展示了Sora新功能，该功能能一次性生成多个视频并将它们拼接在一起。研究科学家Bill Peebles在社交媒体上分享了Sora生成的五个人们在雪天漫步和玩雪的视频动图。目前，Sora尚未对公众开放，OpenAI正在对模型进行测试，并只向部分研究人员和学者分享，以评估其潜在风险。
+   
+媒体报道
+  
+OpenAI Sora更强大功能曝光：可一次生成多个视频DoNews
+  
+OpenAI Sora又一功能曝光：视频有了新玩法凤凰科技
+  
+OpenAI Sora 可以一次性生成多机位视频，正在接受测试IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 计划重塑 Quest 头显核心 UI 基础架构]]></title>
+        <id>readhub-8XGpmKjutZL</id>
+        <link href="https://readhub.cn/topic/8XGpmKjutZL"/>
+        <updated>2024-02-18T01:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Meta计划对Quest头显的核心UI基础架构进行重塑，以提供更好的用户体验和更丰富的环境。虽然具体更新日期未定，但首席技术官Andrew Bosworth透露了用户期待已久的改进方向，包括消除UI的困惑复杂性，并研究更好地融合混合现实到UI中。目前Quest的混合现实窗口限制较多，而苹果Vision Pro则提供了更大的灵活性。Meta正在开发类似于智能手机上的增强现实功能，并将资源转移到VR方面以加速这一进程。Bosworth还暗示可能会取消Horizon Workrooms中的窗口限制，并强调Quest 3在性价比和用户选择上的优势。
+   
+媒体报道
+  
+受苹果Vision Pro刺激，Meta计划重塑Quest头显核心UI基础架构凤凰科技
+  
+受苹果 Vision Pro 刺激，Meta 计划重塑 Quest 头显核心 UI 基础架构IT 之家
+  
+Meta 计划重塑 Quest 头显核心 UI 基础架构搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉林回应傅园慧包车被勒索事件：严厉惩处，绝不姑息]]></title>
         <id>readhub-8XFO655gYYL</id>
@@ -1626,100 +2226,6 @@ TikTok 原生应用登陆苹果 Vision Pro 头显：界面干净清爽、遵循 
 苹果接近完成一款人工智能工具 将与微软GITHUB COPILOT竞争财联社/凤凰科技]]></summary>
         <author>
             <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软将在德国投资32亿欧元推动人工智能发展]]></title>
-        <id>readhub-8XCZ0Kw1bWZ</id>
-        <link href="https://readhub.cn/topic/8XCZ0Kw1bWZ"/>
-        <updated>2024-02-15T15:41:40.000Z</updated>
-        <summary type="html"><![CDATA[微软公司宣布将在未来两年内在德国投资32亿欧元，主要致力于人工智能的发展，包括建立数据中心和培养相关人才。这是微软在德国40年来最大的一笔投资。
-   
-媒体报道
-  
-微软将在德国投资32亿欧元推动人工智能发展新浪科技/界面/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩根大通将Coinbase股票评级从减持上调至中性]]></title>
-        <id>readhub-8XCf5g5Lo7w</id>
-        <link href="https://readhub.cn/topic/8XCf5g5Lo7w"/>
-        <updated>2024-02-15T15:41:26.000Z</updated>
-        <summary type="html"><![CDATA[摩根大通在其最新研究报告中，上调了加密货币交易所Coinbase的股票评级至中性。这一调整是因为近期美国批准了现货比特币ETF，导致加密货币价格大涨。报告预计这将对Coinbase第一季度交易活动和盈利能力产生正面影响。尽管评级上调，但摩根大通给出的目标价并未改变。
-   
-媒体报道
-  
-摩根大通将Coinbase股票评级从减持上调至中性Odaily
-  
-灰度向Coinbase Prime转入2399.657枚BTC，约合1.26亿美元Odaily
-  
-Coinbase股价盘前突破160美元，单日涨幅达14.24%Odaily]]></summary>
-        <author>
-            <name>Odaily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股三大指数全线高开，SoundHound AI涨70%、超微电脑涨8%]]></title>
-        <id>readhub-8XCknz0FSLB</id>
-        <link href="https://readhub.cn/topic/8XCknz0FSLB"/>
-        <updated>2024-02-15T14:40:44.000Z</updated>
-        <summary type="html"><![CDATA[道指、标普500和纳指小幅上涨，美国1月零售销售意外大跌0.8%，跌幅为近一年最大。思科因销售增速停滞，下调一季度业绩指引并宣布全球裁员5%，开盘跌近4%。人工智能公司SoundHound AI因英伟达投资大涨70%。超微电脑开盘涨逾8%，续创历史新高。
-   
-媒体报道
-  
-美股三大指数全线高开，SoundHound AI涨70%、超微电脑涨8%华尔街见闻/界面
-  
-美股三大指数全线高开 SoundHound AI涨70%、超薇电脑涨8%财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024春节档总票房超2022 进入中国影史春节档票房前三名]]></title>
-        <id>readhub-8XCAiIwQhUT</id>
-        <link href="https://readhub.cn/topic/8XCAiIwQhUT"/>
-        <updated>2024-02-15T13:50:49.000Z</updated>
-        <summary type="html"><![CDATA[据猫眼专业版数据，2024年春节档（2月10日-2月17日）档期总票房破62.81亿，已超越2022年档期总票房60.39亿票房成绩，进入中国影史春节档票房前三名。
-   
-媒体报道
-  
-2024年春节档票房破62亿元财联社
-  
-2024春节档票房破62亿界面
-  
-2024春节档总场次创纪录界面
-  
-2024春节档总票房超2022 进入中国影史春节档票房前三名新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突降大暴雪，泰山景区今起暂停开放]]></title>
-        <id>readhub-8XBzIkdheuC</id>
-        <link href="https://readhub.cn/topic/8XBzIkdheuC"/>
-        <updated>2024-02-15T12:50:47.000Z</updated>
-        <summary type="html"><![CDATA[泰山景区因大雪造成的安全隐患，自2月15日起暂停开放。景区已组织疏散进山游客，并确保游客安全。游客需遵从工作人员指引，已购票者可通过原渠道退票，相关咨询与协助退房可拨热线0538-96008888。恢复开放时间将另行通知。
-   
-媒体报道
-  
-大范围雨雪来了！返程注意！多地停开、停运……证券时报网
-  
-泰山景区积雪基本清理完毕 部分游览路线将于明日开放中国证券网
-  
-突降大暴雪，泰山景区今起暂停开放界面
-  
-假期过半 北京西站地区迎返程高峰新浪科技
-  
-山东知名景区暂停开放，多条高速入口临时封闭！最新预警→新浪科技
-  
-泰山景区因暴雪天气暂停开放中国证券网
-  
-泰山景区积雪基本清理完毕，部分游览路线将于明日开放界面]]></summary>
-        <author>
-            <name>界面</name>
         </author>
     </entry>
     <entry>
