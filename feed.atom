@@ -2,10 +2,544 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-02-23T00:32:25.264Z</updated>
+    <updated>2024-02-23T06:10:01.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[百度“萝卜快跑”获准在京开展大兴机场自动驾驶载人示范应用]]></title>
+        <id>readhub-8XPON6Tc6Q4</id>
+        <link href="https://readhub.cn/topic/8XPON6Tc6Q4"/>
+        <updated>2024-02-23T06:01:10.000Z</updated>
+        <summary type="html"><![CDATA[百度萝卜快跑获得批准在北京大兴机场及其周边区域开展自动驾驶车辆载人示范应用。截至2023年9月30日，萝卜快跑的订单总量突破410万单，2023年第三季度提供乘车服务82.1万次，同比增长73%。
+   
+媒体报道
+  
+百度“萝卜快跑”获准在京开展大兴机场自动驾驶载人示范应用财经网/财联社/界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软将推出定制芯片：英特尔代工、采用最新18A工艺]]></title>
+        <id>readhub-8XP4OGf7iOo</id>
+        <link href="https://readhub.cn/topic/8XP4OGf7iOo"/>
+        <updated>2024-02-23T06:00:42.000Z</updated>
+        <summary type="html"><![CDATA[微软推出了由英特尔18A工艺制造的定制芯片，该工艺采用极紫外光刻技术，提高了晶体管密度和性能，同时英特尔还提供了封装和测试服务。英特尔首席执行官表示，其制程节点路线图正在按计划推进，并将提供创新技术。
+   
+媒体报道
+  
+环球视角：微软定制芯片将由英特尔代工，采用最新18A工艺搜狐科技
+  
+微软将推出定制芯片：英特尔代工、采用最新18A工艺凤凰科技
+  
+订单价值 150 亿美元，微软看重首个背面供电方案让英特尔生产定制芯片IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫星通信版 OPPO Find X7 Ultra 手机通过 3C 认证：支持 100W 快充]]></title>
+        <id>readhub-8XPLWInS70n</id>
+        <link href="https://readhub.cn/topic/8XPLWInS70n"/>
+        <updated>2024-02-23T05:56:02.000Z</updated>
+        <summary type="html"><![CDATA[OPPO Find X7 Ultra 卫星通信版手机已通过3C认证，型号PHY120，支持最高100W快充，并具备听筒和免提双模卫星通话功能，告别传统卫星通信对讲机模式。该系列手机还支持卫星天线方向图调控技术，实现智能手机听筒/免提双模卫星通话。
+   
+媒体报道
+  
+卫星通信版 OPPO Find X7 Ultra 手机通过3C认证：支持 100W 快充搜狐科技
+  
+OPPO Find X7 Ultra卫星通信版通过3C认证，支持100W快充及创新通话功能ITBear科技资讯
+  
+卫星通信版 OPPO Find X7 Ultra 手机通过 3C 认证：支持 100W 快充IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星宣布将引入大量外国专业人才加强研发 含多个部门]]></title>
+        <id>readhub-8XPP5jWXdlr</id>
+        <link href="https://readhub.cn/topic/8XPP5jWXdlr"/>
+        <updated>2024-02-23T05:45:57.000Z</updated>
+        <summary type="html"><![CDATA[三星集团将在研发领域聘用大量外国人才，包括旗下电子、显示器、电机、生物制剂、重工等公司，以及工程和物产建设部门。此次招聘是继去年后的第二次大规模招聘，申请人需具备至少韩语能力测试3级的水平。三星电子的设备体验部门和设备解决方案部门正在寻找众多专业人才，涵盖系统软件开发、显示模块电路开发、机器人机构设计验证、系统优化技术、神经处理单元架构等多个领域。此次招聘非常大规模，设备体验部门招聘了90多个职位，设备解决方案部门则提供约800个职位。
+   
+媒体报道
+  
+三星宣布将引入大量外国专业人才加强研发 含多个部门凤凰科技/搜狐科技/手机中国]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司推出全新“Ask”工具，助力客服高效解答用户疑问]]></title>
+        <id>readhub-8XPFnu635d0</id>
+        <link href="https://readhub.cn/topic/8XPFnu635d0"/>
+        <updated>2024-02-23T05:45:44.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司启动了一项名为“Ask”的试点项目，以提升客户服务质量。该工具能自动从苹果内部知识库检索信息，并生成操作步骤和解答内容，帮助客服更快速准确地解答用户的技术问题。客服人员还可以通过评价系统对“Ask”工具进行反馈，以优化其性能。苹果计划根据反馈逐步推广该工具，以进一步提高客户服务水平。
+   
+媒体报道
+  
+苹果试点类ChatGPT工具“Ask”，帮AppleCare客服回答用户问题搜狐科技
+  
+苹果试点推进类 ChatGPT 工具“Ask”，帮 AppleCare 客服回答用户问题IT 之家
+  
+苹果公司推出全新“Ask”工具，助力客服高效解答用户疑问ITBear科技资讯]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称百度移动生态调整：文库业务升级为 BU 事业部]]></title>
+        <id>readhub-8XPOMo7eDxN</id>
+        <link href="https://readhub.cn/topic/8XPOMo7eDxN"/>
+        <updated>2024-02-23T05:42:39.000Z</updated>
+        <summary type="html"><![CDATA[百度MEG完成新一轮组织调整，文库业务部升级为BU，由副总裁王颖负责。赵世奇从华为回归，接任搜索平台负责人。百家号等部门并入信息分发平台，向百度App总经理李小婉汇报。前内容生态平台总经理宋健已离职。赵世奇曾是百度博士后研究员，后担任多个技术部门负责人，2020年加入华为。
+   
+媒体报道
+  
+百度移动生态调整，文库业务升级为BU界面
+  
+消息称百度移动生态调整：文库业务升级为 BU 事业部，赵世奇从华为回归负责搜索IT 之家
+  
+消息称百度移动生态调整：文库业务升级为 BU 事业部DoNews]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌VideoPoet项目负责人蒋路已加入TikTok]]></title>
+        <id>readhub-8XPCFTAyKoV</id>
+        <link href="https://readhub.cn/topic/8XPCFTAyKoV"/>
+        <updated>2024-02-23T05:40:55.000Z</updated>
+        <summary type="html"><![CDATA[谷歌的VideoPoet项目负责人蒋路已加入字节跳动旗下TikTok。VideoPoet是谷歌在2023年12月发布的视频生成模型，与斯坦福李飞飞团队共同发布的W.A.L.T同样引人关注。
+   
+媒体报道
+  
+谷歌VideoPoet项目负责人蒋路已加入TikTok鸟哥笔记
+  
+谷歌VideoPoet项目负责人蒋路已加入TikTok 之前项目类似于视频生成模型Sora和讯网
+  
+谷歌 VideoPoet 负责人蒋路跳槽 TikTok品玩]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团2024年春季校招将招4000人，技术类岗位占比超50%]]></title>
+        <id>readhub-8XPKon3ChZn</id>
+        <link href="https://readhub.cn/topic/8XPKon3ChZn"/>
+        <updated>2024-02-23T05:31:21.000Z</updated>
+        <summary type="html"><![CDATA[美团宣布启动2024年春季校园招聘计划，预计招募4000名应届毕业生及实习生，对象为2023年11月至2024年10月毕业的海内外学生。岗位涵盖技术、产品等10大类，其中技术类岗位超半数，遍布北京等数十个城市。网申投递截止5月底，2月26日起可通过美团招聘官网及公众号投递。
+   
+媒体报道
+  
+美团2024年春季校招将招4000人，技术类岗位占比超50%、北斗计划持续招聘品玩/猎云网
+  
+美团2024春季校招将招募4000人 技术类岗位占比超50%和讯网
+  
+美团2024年春季校招将招4000人，技术类岗位占比超50%界面/新浪科技]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港珠澳大桥海关查获一批违规携带的苹果Vision Pro]]></title>
+        <id>readhub-8XPLWH3IwSC</id>
+        <link href="https://readhub.cn/topic/8XPLWH3IwSC"/>
+        <updated>2024-02-23T05:31:14.000Z</updated>
+        <summary type="html"><![CDATA[拱北海关近日在港珠澳大桥查获一起香港司机违规携带价值逾10万元人民币的苹果Vision Pro头显进境案件。该头显在美售价3499美元起，内地代购价格已降至3至4万元。
+   
+媒体报道
+  
+港珠澳大桥海关查获一批违规携带的苹果Vision Pro和讯网/界面
+  
+我国海关查获 4 台苹果 Vision Pro 头显IT 之家]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达概念股活跃，中富通20CM涨停]]></title>
+        <id>readhub-8XP8e1c4MY8</id>
+        <link href="https://readhub.cn/topic/8XP8e1c4MY8"/>
+        <updated>2024-02-23T05:20:55.000Z</updated>
+        <summary type="html"><![CDATA[2月23日，英伟达概念股表现活跃，多股涨停或涨幅靠前。隔夜英伟达和超微电脑股价上涨，且英伟达第四财季及第一财季收入指引超预期，Bernstein上调其目标价至1000美元。
+   
+媒体报道
+  
+盘中必读|英伟达单季利润狂飙769%，完美财报惠及A股公司，中富通、金百泽双双20CM涨停界面
+  
+英伟达概念股活跃，中富通20CM涨停界面
+  
+英伟达概念股活跃 中富通20CM涨停财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小马智行在京开启大兴机场自动驾驶载人示范]]></title>
+        <id>readhub-8XPIetgVk8N</id>
+        <link href="https://readhub.cn/topic/8XPIetgVk8N"/>
+        <updated>2024-02-23T05:20:40.000Z</updated>
+        <summary type="html"><![CDATA[小马智行获准在北京开展自动驾驶载人示范，覆盖北京大兴国际机场至亦庄区间，并在PonyPilot+应用中提供接送机服务。
+   
+媒体报道
+  
+小马智行宣布可以载人，已在京开启大兴机场自动驾驶载人示范新浪科技
+  
+小马智行开启大兴机场自动驾驶载人示范，接驳时段为10点至17点财经网
+  
+小马智行在京开启大兴机场自动驾驶载人示范新浪科技/财联社/界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高运输效率，降低单公里成本，多地加快重卡换电站建设]]></title>
+        <id>readhub-8XNVXjUEopr</id>
+        <link href="https://readhub.cn/topic/8XNVXjUEopr"/>
+        <updated>2024-02-23T05:15:46.000Z</updated>
+        <summary type="html"><![CDATA[多地如重庆、贵州、广西、山东、福建、浙江正加速重卡换电站建设，以提升运输效率，降低能耗成本和减少碳排放。交通运输部已同意国家电力投资集团开展重卡换电站建设试点，并提供经验借鉴。预计到2026年，将建成西部陆海新通道高速公路电动走廊，并推广新能源重卡换电及电池银行业务。新能源重卡换电仅需5分钟，相比传统重卡可实现近零碳排放，每年可减少二氧化碳排放量约120吨。山东、福建等地也在积极推进充电基础设施建设。通过这些努力，预计到2026年，全国将推广换电重卡不少于20000辆，并形成一批先进经验和典型成果。
+   
+媒体报道
+  
+提高运输效率，降低单公里成本，多地加快重卡换电站建设腾讯网
+  
+今年全国将新增服务区充电桩3000个 充电停车位5000个手机中国
+  
+交通运输部：2024年全国计划新增公路服务区充电桩3000个凤凰科技
+  
+交通运输部：今年全国计划新增公路服务区充电桩 3000 个IT 之家]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代汽车承诺到2032年在巴西投资11亿美元]]></title>
+        <id>readhub-8XPAoH0f5wh</id>
+        <link href="https://readhub.cn/topic/8XPAoH0f5wh"/>
+        <updated>2024-02-23T05:00:45.000Z</updated>
+        <summary type="html"><![CDATA[现代汽车公司负责人访问巴西，承诺到2032年在巴西投资11亿美元，主要用于绿色和未来技术领域。公司将推进电动汽车和氢燃料汽车等电气化战略，强调氢能对应对气候变化的重要性。现代汽车在巴西的圣保罗州已有制造基地，并计划扩展全球氢气网络至中南美洲，去年已在巴西设立氢项目部门。此外，现代汽车也表达了对与巴西在先进空中交通和小模块化反应堆领域合作的期待。
+   
+媒体报道
+  
+现代汽车宣布将在2032年前对巴西投资11亿美元财联社
+  
+现代汽车承诺到2032年在巴西投资11亿美元和讯网/财经网/新浪科技]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南终止低温雨雪冰冻灾害Ⅳ级应急响应]]></title>
+        <id>readhub-8XPE0CrXWMI</id>
+        <link href="https://readhub.cn/topic/8XPE0CrXWMI"/>
+        <updated>2024-02-23T04:51:11.000Z</updated>
+        <summary type="html"><![CDATA[河南省气象局取消暴雪橙色预警，河南省政府低温雨雪冰冻灾害应急指挥部根据气象预报和相关规定，决定终止低温雨雪冰冻灾害Ⅳ级应急响应。
+   
+媒体报道
+  
+河南终止低温雨雪冰冻灾害Ⅳ级应急响应财联社
+  
+广西启动重大气象灾害（寒冷）Ⅲ级应急响应财联社
+  
+降温超20℃，广西启动重大气象灾害（寒冷）Ⅲ级应急响应界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软发布 Win11 Canary 26063 预览版更新：支持 Wi-Fi 7]]></title>
+        <id>readhub-8XP3epjKrld</id>
+        <link href="https://readhub.cn/topic/8XP3epjKrld"/>
+        <updated>2024-02-23T04:41:15.000Z</updated>
+        <summary type="html"><![CDATA[微软发布了Windows 11 Build 26063预览版更新，主要添加了对Wi-Fi 7网络的测试支持。Wi-Fi 7是一项革命性的技术，能为无线设备提供前所未有的速度、可靠性和效率。用户可以在Windows PC上享受千兆位速度，体验比Wi-Fi 6和Wi-Fi 6E快达4倍、比Wi-Fi 5快近6倍的速度。此外，Copilot获得了16项新技能，用户可以通过Power Automate Desktop自动执行任务。小部件面板在修复一些错误后也已恢复功能。
+   
+媒体报道
+  
+微软发布 Win11 Canary 26063 预览版更新：支持 Wi-Fi 7搜狐科技
+  
+微软发布 Win11 Canary 26063 预览版更新：测试支持 Wi-Fi 7、新增 16 项 AI 技能IT 之家
+  
+微软发布Win11 Canary 26063.1更新：新增Wi-Fi 7支持、16项AI功能搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盒马与王小卤达成战略合作]]></title>
+        <id>readhub-8XO23OwhHrX</id>
+        <link href="https://readhub.cn/topic/8XO23OwhHrX"/>
+        <updated>2024-02-23T04:27:44.000Z</updated>
+        <summary type="html"><![CDATA[北京王小卤网络科技有限公司与盒马（中国）有限公司在上海签署战略合作协议，双方将共同研发定制新品，以满足最新消费态势和顾客需求。
+   
+媒体报道
+  
+盒马与玛氏 百事及王小卤分别达成战略合作亿邦动力网
+  
+盒马与玛氏、百事、王小卤分别达成战略合作财经网
+  
+盒马与王小卤达成战略合作鸟哥笔记]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[易点云大涨超20% 与信诺时代订立战略合作协议]]></title>
+        <id>readhub-8XP8e3k3q29</id>
+        <link href="https://readhub.cn/topic/8XP8e3k3q29"/>
+        <updated>2024-02-23T04:13:42.000Z</updated>
+        <summary type="html"><![CDATA[易点云（02416.HK）股价大涨超20%，公司公告称已与北京信诺时代科技发展有限公司签订战略合作协议。双方将共同利用技术与资源优势，就信诺时代获得的微软Azure OpenAI产品矩阵和解决方案的市场扩展进行全面战略合作，合作内容涵盖GPT相关产品及未来微软Azure云上发布的AI产品和服务。
+   
+媒体报道
+  
+易点云大涨超20% 与信诺时代订立战略合作协议财联社
+  
+港股AI概念股活跃易点云一度涨超26% 与信诺时代订立涉Azure OpenAI战略协议新浪科技
+  
+港股AI概念股活跃，易点云一度涨超26%！与信诺时代订立涉Azure OpenAI战略协议和讯网
+  
+港股易点云大涨超22%，与信诺时代订立战略合作协议界面
+  
+易点云与信诺时代合作，将基于微软Azure打造中小企业AI产品铅笔道
+  
+易点云早盘涨近13% 公司与信诺时代订立战略合作协议新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厦门国际银行厦门直属支行打造“金融+阅读”一站式服务]]></title>
+        <id>readhub-8XPGXDHqFJj</id>
+        <link href="https://readhub.cn/topic/8XPGXDHqFJj"/>
+        <updated>2024-02-23T04:01:08.000Z</updated>
+        <summary type="html"><![CDATA[厦门国际银行厦门直属支行近邻图书馆启动试运营，提供“金融+阅读”一站式服务。该图书馆是与厦门市图书馆联合共建的文化惠民项目，现有图书3000多册，涵盖各类书籍。市民持社保卡可在馆内自助借还图书，也可归还在全市其他公共图书馆借阅的书籍。近邻图书馆的启用有效回应了周边上班族的学习诉求，降低了阅读学习成本，受到市民的欢迎。厦门国际银行将以近邻图书馆和书香银行建设为载体，持续提升服务质量，延伸服务内容，为全民阅读和推进文化强国建设提供助力。
+   
+媒体报道
+  
+厦门国际银行厦门直属支行打造“金融+阅读”一站式服务财经网
+  
+近邻图书馆｜厦门国际银行厦门直属支行打造“金融+阅读”一站式服务和讯网
+  
+书写绿色金融大文章 厦门国际银行厦门分行助力绿色产业高质量发展财经网/和讯网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杰富瑞：2030年印度股市规模有望达10万亿美元]]></title>
+        <id>readhub-8XP064xl07f</id>
+        <link href="https://readhub.cn/topic/8XP064xl07f"/>
+        <updated>2024-02-23T04:00:34.000Z</updated>
+        <summary type="html"><![CDATA[印度股市总市值有望到2030年增长一倍以上，达到10万亿美元，得益于印度经济的快速增长和持续的改革。目前印度股市市值约为4.3万亿美元，过去20年年回报率保持在10%。印度已成为全球资本流入的热点，预计在未来四年内GDP将达到5万亿美元，到2027年超过日本和德国成为世界第三大经济体。
+   
+媒体报道
+  
+全球下一个“香饽饽”？杰富瑞：6年内印度股市规模有望翻番新浪科技
+  
+杰富瑞：2030年印度股市规模有望达10万亿美元新浪科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因抑郁带薪休长假实则去考研，男子被辞退后法院判其返还超额薪酬]]></title>
+        <id>readhub-8XNaDdn5e9G</id>
+        <link href="https://readhub.cn/topic/8XNaDdn5e9G"/>
+        <updated>2024-02-23T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[一名员工在病假期间跨专业考研并就读，被公司发现后双方产生纠纷。法院判决公司合法解除与该员工的劳动合同，并要求员工返还高于正常病假工资标准的36万元。员工上诉后与公司达成和解，最终返还近20万元。
+   
+媒体报道
+  
+因抑郁带薪休长假实则去考研，男子被辞退后法院判其返还超额薪酬新浪科技
+  
+员工抑郁请病假17个月暗中考研，期间领取近40万高薪，最终须退返20万新浪科技
+  
+“抑郁”员工请病假，暗中考研还领高薪？法院判了新浪科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内首个完成适配银行应用，招商银行 App 宣布登陆苹果 Vision Pro 头显]]></title>
+        <id>readhub-8XO7m7Kx3hc</id>
+        <link href="https://readhub.cn/topic/8XO7m7Kx3hc"/>
+        <updated>2024-02-23T03:55:37.000Z</updated>
+        <summary type="html"><![CDATA[招商银行宣布其App已适配苹果Vision Pro头显，成为国内首家支持visionOS的银行应用。该应用支持多窗分屏、沉浸视频和3D互动等功能，用户可在Vision Pro中进行理财、转账等操作。目前，招商银行App已在美区App Store提供下载。据报道，已有众多国内应用适配或兼容Vision Pro头显，原生应用数量已超1000款，兼容应用超150万款。
+   
+媒体报道
+  
+招商银行适配苹果 visionOS：全面适配+沉浸式体验！中关村在线
+  
+国内首个完成适配银行应用，招商银行 App 宣布登陆苹果 Vision Pro 头显IT 之家
+  
+中国首个完成适配银行应用，招商银行App宣布登陆苹果Vision Pro头显凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米平板Pad 6S Pro发布，起售价3299元]]></title>
+        <id>readhub-8XOHnd10Hho</id>
+        <link href="https://readhub.cn/topic/8XOHnd10Hho"/>
+        <updated>2024-02-23T03:55:23.000Z</updated>
+        <summary type="html"><![CDATA[小米发布新款平板Pad 6S Pro，配备骁龙8 Gen 2处理器，售价在3299至4499元之间。
+   
+媒体报道
+  
+小米平板 6S Pro 发布，售价3299元起品玩
+  
+小米平板Pad 6S Pro发布，起售价3299元界面
+  
+小米平板6S Pro 性能堪比电脑 售价3299元起中关村在线]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riot 官宣《2XKO》格斗游戏，2025 年登陆 Xbox、PS5 和 PC 平台]]></title>
+        <id>readhub-8XPCxAQpJHG</id>
+        <link href="https://readhub.cn/topic/8XPCxAQpJHG"/>
+        <updated>2024-02-23T03:55:22.000Z</updated>
+        <summary type="html"><![CDATA[《2XKO》是拳头游戏公司的新作，正式名称为《2XKO》，预计在2025年推出，支持Xbox Series S|X、PlayStation 5和PC平台。这是一款英雄联盟宇宙的双打格斗游戏，玩家将组建由两个不同冠军组成的团队。角色包括亚索、金克丝、俄洛伊等。开发团队计划在晚些时候举办活动收集反馈，以继续推进游戏的开发。
+   
+媒体报道
+  
+格斗游戏天花板！《英雄联盟》开发商Riot Games新作《2XKO》明年发售中关村在线
+  
+拳头新作《2XKO》官宣！明年发布！中关村在线
+  
+Riot 官宣《2XKO》格斗游戏，2025 年登陆 Xbox、PS5 和 PC 平台IT 之家]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根大通CEO上任19年来首次出售股票，套现约1.5亿美元]]></title>
+        <id>readhub-8XP1XgsAhdM</id>
+        <link href="https://readhub.cn/topic/8XP1XgsAhdM"/>
+        <updated>2024-02-23T03:52:20.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通CEO杰米·戴蒙近日出售了约1.5亿美元的股票，这是其自2005年上任以来首次出售股票。去年10月，戴蒙表示计划出售其持有的100万股股票，目前为止已卖出821778股。摩根大通方面表示，此次股票出售与领导层继任无关，戴蒙目前没有更多出售股票的计划。
+   
+媒体报道
+  
+摩根大通(JPM.US)董事售出82.18万股普通股股份，价值约1.5亿美元新浪科技
+  
+摩根大通CEO上任19年来首次出售股票，套现约1.5亿美元新浪科技/和讯网
+  
+摩根大通CEO上任19年来首次出售该行股票，价值约1.5亿美元界面
+  
+2005年上任来首次!CEO戴蒙抛售1.5亿美元摩根大通(JPM.US)股票智通财经]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能机器人公司宇树科技宣布完成近10亿元B2轮融资]]></title>
+        <id>readhub-8XO8Tbphye9</id>
+        <link href="https://readhub.cn/topic/8XO8Tbphye9"/>
+        <updated>2024-02-23T03:46:49.000Z</updated>
+        <summary type="html"><![CDATA[杭州宇树科技有限公司，一家智能机器人公司，已完成B2轮融资，融资额接近10亿元人民币。投资方包括美团、金石投资、源码资本等，以及老股东深创投、中网投等多家投资机构。该公司计划将资金主要用于产品研发、业务拓展和团队建设。
+   
+媒体报道
+  
+10亿元！宇树科技完成B2轮融资，美团、源码、深创投都投了猎云网
+  
+智能机器人公司宇树科技宣布完成近10亿元B2轮融资财联社
+  
+宇树科技获近10亿元融资，美团、金石、源码参投财经网
+  
+再获近10亿元人民币融资 90后创立的机器人公司获美团青睐腾讯网]]></summary>
+        <author>
+            <name>猎云网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏州市工业园区一高架今晨发生多车相撞事故，有人员受伤]]></title>
+        <id>readhub-8XP8f8NFp7Q</id>
+        <link href="https://readhub.cn/topic/8XP8f8NFp7Q"/>
+        <updated>2024-02-23T03:41:08.000Z</updated>
+        <summary type="html"><![CDATA[2024年2月23日早晨，苏州工业园区娄江快速路高架因道路结冰导致多车相撞事故，造成人员受伤。目前，交警和消防部门正在现场处理，具体伤亡情况正在调查中。
+   
+媒体报道
+  
+苏州市工业园区一高架今晨发生多车相撞事故，有人员受伤界面
+  
+苏州一高架路面结冰上百辆车相撞 警方通报：9人受伤新浪科技
+  
+苏州一高架路面结冰上百辆车相撞新浪科技
+  
+苏州高架事故超百辆车受损新浪科技
+  
+苏州市工业园区一高架发生多车追尾交通事故，致9人受伤界面
+  
+苏州一高架道路结冰多车相撞 有人员受伤新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姚劲波：中国工程师成本是美国工程师一半，但产出是后者一倍]]></title>
+        <id>readhub-8XPDfX8y4Y3</id>
+        <link href="https://readhub.cn/topic/8XPDfX8y4Y3"/>
+        <updated>2024-02-23T03:35:51.000Z</updated>
+        <summary type="html"><![CDATA[亚布力中国企业家论坛第24届年会于2024年2月21日至23日举行，58同城CEO姚劲波在会上发言，强调中国工程师的红利巨大。他指出，中国每年毕业的大学生和研究生人数庞大，具有高效率和纪律性，且成本合理。中国工程师的产出是美国的两倍，而成本只有美国的一半，这源于中国工程师更长的工作时长和高效的工作状态。姚劲波认为，如果中国能充分利用工程师红利和巨大市场，训练各种模型和产品，并在AI时代保持竞争力，中国的品牌和互联网平台将在全球范围内崛起。
+   
+媒体报道
+  
+姚劲波：中国工程师成本是美国工程师一半，但产出是后者一倍新浪科技
+  
+姚劲波：中国工程师效率是美国4倍，“美国三天工作制，中国六天是有的”和讯网/新浪科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊警告员工：工作中勿使用第三方AI工具]]></title>
+        <id>readhub-8XPDfluOR2D</id>
+        <link href="https://readhub.cn/topic/8XPDfluOR2D"/>
+        <updated>2024-02-23T03:34:36.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊发布内部指导方针，告诫员工不要用第三方生成式AI工具处理与工作相关的机密任务，担忧数据所有权问题，特别是考虑到微软对OpenAI的投资。公司强调禁止使用此类工具处理任何亚马逊、客户或员工机密数据，并指出员工应避免向生成式AI服务提供机密信息。尽管如此，亚马逊对微软系统的立场有所软化，最近斥资10亿美元购买Microsoft 365五年授权。
+   
+媒体报道
+  
+亚马逊警告员工：工作中勿使用第三方AI工具和讯网/搜狐科技/新浪科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魅族官宣将于2月29日举办魅族特别活动]]></title>
+        <id>readhub-8XPG9uri4xt</id>
+        <link href="https://readhub.cn/topic/8XPG9uri4xt"/>
+        <updated>2024-02-23T03:31:52.000Z</updated>
+        <summary type="html"><![CDATA[魅族官方宣布将于2月29日19:00举办特别活动，届时将全网直播。公司已转型专注于AI领域，并计划推出AI终端产品。魅族CEO沈子瑜表示魅族在软硬件方面有优势，并提及魅族21Pro含有许多先进的AI概念，其竞争力可与小米 14Ultra和华为 Pocket2相媲美，原定的发布会因故推迟。
+   
+媒体报道
+  
+魅族官宣将于2月29日举办魅族特别活动搜狐科技
+  
+魅族官宣2月29日晚举行特别活动 预计发布魅族21 PRO手机中国/搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中科金财：公司基于自研及非Sora的文生视频相关产品尚未产生实际收入]]></title>
+        <id>readhub-8XOKya1ThOH</id>
+        <link href="https://readhub.cn/topic/8XOKya1ThOH"/>
+        <updated>2024-02-23T02:51:40.000Z</updated>
+        <summary type="html"><![CDATA[中科金财在回复深圳证券交易所的关注函时表示，公司基于自研及非Sora的文生视频相关产品目前还未产生实际收入。由于文生视频商业模式尚未明确，同时AIGC市场仍处于早期发展阶段，公司的产品需求、技术研发成果、功能以及产品落地效果和时间都存在不确定性。因此，SoraAPI订阅资格对公司的经营成果和财务数据的具体影响也无法预计。
+   
+媒体报道
+  
+中科金财回复关注函：基于自研及非Sora的文生视频相关产品尚未产生实际收入界面
+  
+中科金财：公司基于自研及非Sora的文生视频相关产品尚未产生实际收入界面/财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国加码打压中芯国际，专家：一味围堵中国企业，最终只会反噬自身]]></title>
         <id>readhub-8XP04wZEk7Q</id>
@@ -3372,276 +3906,6 @@ Apple changing the leadership of its audio team ahead of major updates to AirPod
 Gary Geaves 卸任，苹果 300 人 AirPods 和 HomePod 音频团队迎来新掌舵者IT 之家
   
 苹果调整负责音频产品监管团队的领导层财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量化巨头幻方否认旗下有基金产品清盘]]></title>
-        <id>readhub-8XKyfcLTqLY</id>
-        <link href="https://readhub.cn/topic/8XKyfcLTqLY"/>
-        <updated>2024-02-20T16:02:39.000Z</updated>
-        <summary type="html"><![CDATA[近期，多家量化机构因策略应对不理想导致超额回撤，但头部量化机构幻方否认了旗下产品清盘的传闻，并称公司未进行DMA杠杆交易。
-   
-媒体报道
-  
-量化巨头幻方否认旗下有基金产品清盘界面/华尔街见闻/财联社/新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星电子在硅谷成立AI芯片开发团队]]></title>
-        <id>readhub-8XKjhfqqync</id>
-        <link href="https://readhub.cn/topic/8XKjhfqqync"/>
-        <updated>2024-02-20T15:58:33.000Z</updated>
-        <summary type="html"><![CDATA[三星电子在硅谷设立了人工智能芯片开发团队，由前谷歌员工Woo Dong-hyuk领导，他曾参与谷歌张量处理单元（TPU）平台的最初设计。
-   
-媒体报道
-  
-韩媒：三星电子在硅谷成立新团队 致力于开发AGI芯片腾讯网
-  
-三星电子在硅谷成立AI芯片开发团队和讯网/新浪科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃尔玛 23 亿美元收购电视制造商 Vizio]]></title>
-        <id>readhub-8XKvoo10oUQ</id>
-        <link href="https://readhub.cn/topic/8XKvoo10oUQ"/>
-        <updated>2024-02-20T15:57:21.000Z</updated>
-        <summary type="html"><![CDATA[沃尔玛宣布将以每股11.50美元现金收购电视制造商Vizio，交易价值约23亿美元。收购将使沃尔玛通过Vizio的SmartCast OS以前所未有的方式为客户提供服务，并创造新的广告机会。目前，Vizio拥有超过500个广告合作商和1800万活跃账户。
-   
-媒体报道
-  
-沃尔玛 23 亿美元收购电视制造商 VizioDoNews
-  
-沃尔玛宣布23亿美元收购电视制造商VIZIO界面/财联社/新浪科技
-  
-沃尔玛 23 亿美元收购电视制造商 Vizio，获取到 1800 万以上 SmartCast OS 活跃用户IT 之家]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海底捞：2023年持续经营业务收入预计将不低于414亿元，增加比例不低于33.3%]]></title>
-        <id>readhub-8XKwXntnWdo</id>
-        <link href="https://readhub.cn/topic/8XKwXntnWdo"/>
-        <updated>2024-02-20T15:57:10.000Z</updated>
-        <summary type="html"><![CDATA[海底捞预计2023年持续经营业务收入将不低于414亿元，增长不低于33.3%，主要由于新冠疫情管控措施取消和经济复苏，使得餐厅客流量增加，经营状况好转。
-   
-媒体报道
-  
-海底捞(06862)发盈喜，预期年度持续经营业务净利润不低于44.0亿元 同比大幅增加智通财经
-  
-海底捞：2023年持续经营业务收入预计将不低于414亿元，增加比例不低于33.3%华尔街见闻/财联社/界面
-  
-海底捞(06862)预喜：2023年营收将超414亿元净利超44亿元智通财经
-  
-海底捞(06862)2023年净利将超44亿元，下半年环比增超10%智通财经
-  
-海底捞预计2023年营收超414亿：同比增33% 净利44亿腾讯网
-  
-海底捞(06862.HK)盈喜：预计2023年度持续经营业务净利润逾44.0亿元新浪科技
-  
-海底捞2023年净利将超44亿元，下半年环比增超10%新浪科技
-  
-海底捞去年净利润预计不低于44亿元，主要系翻台率提升及营运效率改善财经网]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳市教育局与腾讯签署战略合作协议]]></title>
-        <id>readhub-8XKgS6dbfQU</id>
-        <link href="https://readhub.cn/topic/8XKgS6dbfQU"/>
-        <updated>2024-02-20T15:46:27.000Z</updated>
-        <summary type="html"><![CDATA[腾讯与深圳市教育局签署深化战略合作协议，将在教育智慧治理、智慧教育新场景与新应用、人工智能人才培养等领域展开深度合作。
-   
-媒体报道
-  
-深圳市教育局与腾讯签署战略合作协议，携手打造深圳教育高地雷锋网
-  
-深圳市教育局与腾讯签署战略合作协议界面/新浪科技/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达“点石成金”：投资组合中的股票近期全部录得暴涨]]></title>
-        <id>readhub-8XK2ox7fuPP</id>
-        <link href="https://readhub.cn/topic/8XK2ox7fuPP"/>
-        <updated>2024-02-20T15:01:05.000Z</updated>
-        <summary type="html"><![CDATA[英伟达公布了首份13F持仓报告，其持仓市值达2.3亿美元，主要投资于Arm Holdings，持股近1.5亿美元，占总持仓的64%。此外，英伟达还投资了生物医药公司Recursion Pharmaceuticals，以及AI企业SoundHound和自动驾驶公司TuSimple Holdings等。这些投资公司在报告发布后均录得明显涨幅，显示英伟达在人工智能和金融市场的影响力不断增强。
-   
-媒体报道
-  
-AI热潮势不可挡！英伟达成为华尔街交易量最大的股票新浪科技
-  
-英伟达超过特斯拉 成美国股市成交量最大股票新浪科技
-  
-英伟达跌3.60% 股价跌破700美元大关新浪科技
-  
-美银警告：英伟达股价面临10%回调新浪科技
-  
-英伟达“点石成金”：投资组合中的股票近期全部录得暴涨新浪科技/腾讯网
-  
-英伟达财报前瞻：市值有望跃升至2万亿美元腾讯网
-  
-美银预测英伟达财报影响：投资者过于乐观，股价或回调超10%！新浪科技
-  
-美银警告：英伟达股价面临10%回调！华尔街对英伟达的喜爱已显露无疑和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未名医药前实控人潘爱华被判职务侵占罪和挪用资金罪，称将上诉]]></title>
-        <id>readhub-8XKYFhG5lEj</id>
-        <link href="https://readhub.cn/topic/8XKYFhG5lEj"/>
-        <updated>2024-02-20T14:35:59.000Z</updated>
-        <summary type="html"><![CDATA[未名医药核心子公司厦门未名的权益被前实控人潘爱华私自转让一案一审判决出炉，潘爱华及另外两人利用职务便利非法占有和挪用资金，罪名成立。潘爱华被判有期徒刑十三年，并处罚金。另两人分别被判有期徒刑七年和六年，并处罚金。三人对判决不服，已提出上诉。案件起因于2022年8月投资者投诉杭州强新入资厦门未名，未名医药认为该交易不合规不合法。未名医药采取措施保住了北京科兴的股权，但公司业绩亏损扩大。
-   
-媒体报道
-  
-未名医药“资产转移案”一审判决出炉：前董事长潘爱华获罪腾讯网
-  
-未名医药29亿股权纠纷案一审判决：前实控人被判13年有期徒刑，已提上诉腾讯网
-  
-未名医药前实控人潘爱华被判职务侵占罪和挪用资金罪，称将上诉证券时报网/新浪科技
-  
-未名医药子公司股权之争一审宣判 前任董事长领罪受罚证券时报网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国移动：1月移动业务净增客户57.6万户]]></title>
-        <id>readhub-8XKfO0MWTdq</id>
-        <link href="https://readhub.cn/topic/8XKfO0MWTdq"/>
-        <updated>2024-02-20T14:31:07.000Z</updated>
-        <summary type="html"><![CDATA[中国移动公布2024年1月移动业务数据，客户总数约9.92亿户，净增57.6万户，5G套餐客户数达7.9亿户。
-   
-媒体报道
-  
-中国移动：1月移动业务净增客户57.6万户财联社
-  
-中国移动：截至1月份移动业务客户总数9.92亿户财联社
-  
-中国移动 1 月 5G 用户达 7.89 亿户，有线宽带业务突破 3 亿户IT 之家
-  
-中国移动1月移动业务净增客户57.6万户新浪科技
-  
-中国移动等通信运营商披露1月经营数据新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉利帝豪L HiP龙腾版正式上市 两款车型售8.98万元起]]></title>
-        <id>readhub-8XKL2A42J1u</id>
-        <link href="https://readhub.cn/topic/8XKL2A42J1u"/>
-        <updated>2024-02-20T14:11:06.000Z</updated>
-        <summary type="html"><![CDATA[吉利帝豪L HiP龙腾版两款车型上市，售价8.98万-9.98万元，外观利落简洁，内饰提供新配色，配置智能，动力搭载1.5TD发动机和电混系统，综合续航1300km，性能出色。
-   
-媒体报道
-  
-吉利帝豪L HiP龙腾版正式上市，8.98万元起售界面
-  
-吉利帝豪 L HiP 龙腾版插混轿车 8.98 万元起上市，100km 纯电续航IT 之家
-  
-吉利帝豪L HiP龙腾版正式上市 两款车型售8.98万元起手机中国]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度媒体公司Zee否认与索尼集团商谈重启100亿美元交易]]></title>
-        <id>readhub-8XKR5yuHL5e</id>
-        <link href="https://readhub.cn/topic/8XKR5yuHL5e"/>
-        <updated>2024-02-20T13:42:31.000Z</updated>
-        <summary type="html"><![CDATA[印度媒体公司Zee Entertainment发表声明，否认正在与索尼集团重启价值100亿美元的交易谈判。此前索尼已放弃与Zee的合并计划，而有关双方仍在努力挽救交易的报道是不准确的。
-   
-媒体报道
-  
-传印度媒体公司Zee Entertainment寻求与索尼(SONY.US)恢复100亿美元合并交易智通财经
-  
-印度媒体公司Zee Entertainment据悉正尝试重启与日本索尼集团的谈判界面
-  
-印度媒体公司Zee否认与索尼集团商谈重启100亿美元交易财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上交所对中贝通信及有关责任人予以通报批评]]></title>
-        <id>readhub-8XKdcafbdwd</id>
-        <link href="https://readhub.cn/topic/8XKdcafbdwd"/>
-        <updated>2024-02-20T13:41:02.000Z</updated>
-        <summary type="html"><![CDATA[上交所对中贝通信及其责任人通报批评，因其多次未及时、公平地披露信息，并通过微信公众号提前发布可能影响股价的重大信息。相关违规行为违反了上交所的股票上市规则，并对公司及相关责任人作出了纪律处分。中贝通信主要从事5G新基建、智慧城市与5G行业应用等，市值达87亿元。近期，公司受到北向资金关注，但尚未有机构进行调研。此外，文章还提到了“深度伪造”技术可能带来的风险。
-   
-媒体报道
-  
-上交所对中贝通信及有关责任人予以通报批评搜狐科技
-  
-算力中心事项等先于法定渠道发布、异动公告未及时披露重大事项，中贝通信及时任董事长遭上交所通报批评界面
-  
-注意！中贝通信将于3月7日召开股东大会搜狐科技
-  
-中贝通信：2月20日召开董事会会议搜狐科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora概念持续活跃，文生视频AI热潮重燃，这些公司称将积极布局]]></title>
-        <id>readhub-8XKC5ANT8MV</id>
-        <link href="https://readhub.cn/topic/8XKC5ANT8MV"/>
-        <updated>2024-02-20T13:35:52.000Z</updated>
-        <summary type="html"><![CDATA[近日，随着OpenAI发布首个文生视频模型Sora，多家上市公司在互动平台回应相关业务布局。Sora的强大能力在于能生成长达1分钟的高清视频，其发布或将引发国内文生视频AI大模型热潮。然而，Sora的进一步发展成熟需要海量数据、大规模参数、大算力作为基座，预计将进一步拉大算力缺口。在AI产业投资方面，可关注算力、视频类应用和内容与IP三个方向。
-   
-媒体报道
-  
-Sora概念持续火热，多家上市公司称将积极布局腾讯网/新浪科技
-  
-Sora概念持续活跃，文生视频AI热潮重燃，这些公司称将积极布局新浪科技/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit将用户内容出售给AI开发企业 每年可获利6000万美元]]></title>
-        <id>readhub-8XKIsAsHa7i</id>
-        <link href="https://readhub.cn/topic/8XKIsAsHa7i"/>
-        <updated>2024-02-20T13:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Reddit与一家大型AI开发企业达成协议，允许使用用户内容进行AI模型训练，每年为Reddit带来6000万美元收入。尽管Reddit未对此事作出回应，但这一做法引起了用户和媒体的广泛关注和质疑，因为现行法律下用户对个人数据或内容被用于AI模型训练的权利尚不明确。此外，这种做法可能会被其他社交媒体平台效仿，对艺术创作者和其他用户构成挑战，因为大部分人并不希望自己的内容或数据被用于训练AI。目前，国外关于AI技术使用的正式法律尚不存在。
-   
-媒体报道
-  
-Reddit将用户内容出售给AI开发企业 每年可获利6000万美元搜狐科技
-  
-Uh-Oh! Reddit Agrees to Sell User Content to an AI Company!itsfoss
-  
-Reddit在IPO前与AI公司签署6000万美元的内容许可协议Odaily]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年中国折叠屏手机出货约700.7万台 连续4年增超100%]]></title>
-        <id>readhub-8XKKIYQJh9j</id>
-        <link href="https://readhub.cn/topic/8XKKIYQJh9j"/>
-        <updated>2024-02-20T12:50:52.000Z</updated>
-        <summary type="html"><![CDATA[2023年中国折叠屏手机市场迎来快速增长，第四季度出货量达277.1万台，同比增长149.6%，全年出货量约700.7万台，同比增长114.5%。这一增长得益于华为、OPPO和荣耀等品牌的新品推出，以及硬件技术的成熟和软件系统的优化，同时价格的下降也吸引了更多消费者体验折叠屏手机。
-   
-媒体报道
-  
-2023年中国折叠屏手机出货约700.7万台 连续4年增超100%财联社/中国证券网
-  
-连续4年同比增速超100%！折叠屏手机价格逐渐“接地气”证券时报网/搜狐科技/新浪科技
-  
-连续4年增超100%！2023年中国折叠屏手机出货约700.7万台【附折叠屏手机行业分析】搜狐科技]]></summary>
         <author>
             <name>财联社</name>
         </author>
