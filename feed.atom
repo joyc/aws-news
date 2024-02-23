@@ -2,10 +2,634 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-02-23T06:10:01.530Z</updated>
+    <updated>2024-02-23T12:12:46.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微星推出新款Wi-Fi 7无线网卡：传输速率达5.8Gbps]]></title>
+        <id>readhub-8XO87bX04ZJ</id>
+        <link href="https://readhub.cn/topic/8XO87bX04ZJ"/>
+        <updated>2024-02-23T12:10:44.000Z</updated>
+        <summary type="html"><![CDATA[微星推出了Herald-BE NCM865 Wi-Fi 7无线网卡，通过安装PCIe扩展卡，能让旧款台式机支持Wi-Fi 7，体验到5.8Gbps理论传输速率，同时支持蓝牙5.4。这款网卡选用高通NCM865无线网络模块，支持2.4GHz、5GHz和6GHz频段，还支持旧的Wi-Fi标准。搭配M.2转PCIe转接卡与外接可延长式天线，安装时需要将USB 2.0线接到主板的扩充接针。
+   
+媒体报道
+  
+微星海外推出 Herald BE NCM865 无线网卡：Wi-Fi 7 + 蓝牙 5.4，售 49 美元IT 之家
+  
+微星推出新款Wi-Fi 7无线网卡：传输速率达5.8Gbps搜狐科技/凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节发布文生图开放模型SDXL-Lightning]]></title>
+        <id>readhub-8XPjoluJ8n3</id>
+        <link href="https://readhub.cn/topic/8XPjoluJ8n3"/>
+        <updated>2024-02-23T11:10:57.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动发布了一款名为SDXL-Lightning的文本生成图像开放模型，该模型利用对抗性蒸馏技术实现了前所未有的快速图像生成。在Hugging Face的开源社区榜单中，SDXL-Lightning成为模型趋势之一，并在Hugging Face Spaces上获得了高度关注。据透露，该模型在2或4步内可生成高质量和高分辨率的图像，速度比同类模型快10倍，同时在计算成本上降低了10分之1，是目前在1024分辨率下速度最快的文本生成图像模型。
+   
+媒体报道
+  
+字节发布文生图开放模型SDXL-Lightning品玩/财联社
+  
+【独家】字节发布文生图开放模型SDXL-Lightning界面]]></summary>
+        <author>
+            <name>品玩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝马：2023年全球交付209257辆摩托车]]></title>
+        <id>readhub-8XPLXBvtKTx</id>
+        <link href="https://readhub.cn/topic/8XPLXBvtKTx"/>
+        <updated>2024-02-23T10:36:01.000Z</updated>
+        <summary type="html"><![CDATA[宝马2023年摩托车全球交付量同比增长3.1%，达到209257辆，中国市场交付量同比增长2.8%，为15832辆。
+   
+媒体报道
+  
+宝马摩托车2023年全球交付超20.9万辆，全新纯电动产品将入华凤凰科技
+  
+宝马：2023年全球交付209257辆摩托车财经网
+  
+宝马摩托车 2023 年全球交付超 20.9 万辆，全新纯电动产品将入华IT 之家]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[郎酒京东年货节收官：强势出圈 实现先锋品牌头部效应最大化]]></title>
+        <id>readhub-8XPSgSq0Vmu</id>
+        <link href="https://readhub.cn/topic/8XPSgSq0Vmu"/>
+        <updated>2024-02-23T10:31:40.000Z</updated>
+        <summary type="html"><![CDATA["醉美龙年·郎耀京彩"京东年货节活动近日收官，线上通过贺岁大片、AI定制拜年视频以及微博话题等方式提升品牌热度，线下则通过快闪活动吸引消费者参与。郎酒与京东的深度合作，不仅扩大了用户群体，还提升了品牌影响力，荣获"东联计划2023年度卓越KA品牌"。第五代青花郎在京东平台亮相，标志着品牌在全场景营销领域迈出了新的一步。
+   
+媒体报道
+  
+新开360家县级大店、携手品牌工厂价直销让利消费者 京东开启2024年春季星火计划亿邦动力网
+  
+千万份实物好礼、2024元红包 总台元宵晚会京东实物大奖清单正式公布投资圈
+  
+郎酒京东年货节收官：强势出圈 实现先锋品牌头部效应最大化智通财经]]></summary>
+        <author>
+            <name>投资圈</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智界无法复制问界，华为智选车业务面临多品牌挑战]]></title>
+        <id>readhub-8XPXfcCL2A4</id>
+        <link href="https://readhub.cn/topic/8XPXfcCL2A4"/>
+        <updated>2024-02-23T10:11:12.000Z</updated>
+        <summary type="html"><![CDATA[华为旗下的智选车业务面对多品牌竞争，需要协调研发、生产和渠道资源。智选车业务包括与奇瑞合作的智界品牌和问界系列，以及与北汽和江淮汽车合作的新品牌。智界S7因交付问题将重新发布，而问界M5和新M7的交付周期已提速。华为还计划推出定位介于M7和M9之间的问界M8，以及与北汽合作的“享界”品牌首款车型和与江淮汽车合作打造的百万级轿车。同时，华为的HI模式也在拓展，已与东风汽车集团的岚图和猛士达成战略合作。华为正在将渠道门店转化为鸿蒙智行门店，统一销售旗下智选车型，并将面对多品牌共同发展的新挑战。
+   
+媒体报道
+  
+高新兴：车联网产品不支持华为5.5G通信标准，与华为在多个业务领域保持深入合作搜狐科技
+  
+智界无法复制问界，华为智选车业务面临多品牌挑战证券时报网/界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国数字新媒体巨头Vice拟关闭网站并裁员数百人，向社交平台转型]]></title>
+        <id>readhub-8XP1WWV1jR4</id>
+        <link href="https://readhub.cn/topic/8XP1WWV1jR4"/>
+        <updated>2024-02-23T10:01:14.000Z</updated>
+        <summary type="html"><![CDATA[美国数字新媒体巨头Vice Media宣布将关闭旗下网站Vice.com并裁减数百名员工，向社交平台转型。公司CEO布鲁斯·迪克森表示，以以前的方式分发数字内容不再具有成本效益，未来将寻求与老牌媒体公司合作发布内容，并完全过渡到工作室模式。此次裁员将影响几百名员工，但Vice Media旗下的Refinery 29将作为一个独立的多元化数字出版业务继续运营，尽管公司打算出售该网站。
+   
+媒体报道
+  
+Vice.com 将停止发布新内容Solidot
+  
+Vice Media将停止在Vice.com上发布内容，并计划裁员数百人界面
+  
+美国数字新媒体巨头Vice拟关闭网站并裁员数百人，向社交平台转型和讯网/新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未经许可出售用户浏览信息，杀软巨头 Avast 在美国被罚 1650 万美元]]></title>
+        <id>readhub-8XPBWmdBGKd</id>
+        <link href="https://readhub.cn/topic/8XPBWmdBGKd"/>
+        <updated>2024-02-23T10:01:07.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦贸易委员会（FTC）对软件开发商Avast Plc开出1650万美元罚单，并要求其停止出售用于广告目的的网页浏览数据。Avast成立于1988年，总部位于捷克布拉格，主要从事计算机安全软件、机器学习和人工智能研发。该公司被指控通过其捷克子公司Jumpshot收集并出售消费者浏览信息，未经充分通知或同意。Avast已同意支付罚款，并已于2020年1月关闭Jumpshot公司。
+   
+媒体报道
+  
+Avast 被罚 1650 万美元，被禁止出售用户浏览数据Solidot
+  
+未经许可出售用户浏览信息，杀软巨头 Avast 在美国被罚 1650 万美元新浪科技/IT 之家
+  
+未经许可出售用户浏览信息，杀软巨头Avast在美国被罚1650万美元凤凰科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LVMH将成立娱乐公司，通过电影与电视节目营销旗下品牌]]></title>
+        <id>readhub-8XPbF47nSm3</id>
+        <link href="https://readhub.cn/topic/8XPbF47nSm3"/>
+        <updated>2024-02-23T09:51:42.000Z</updated>
+        <summary type="html"><![CDATA[奢侈品巨头LVMH集团将成立22 Montaigne Entertainment，旨在与顶尖娱乐创作者合作，将品牌营销活动拓展至电影、电视和音频领域，该公司由LVMH与美国咨询公司Superconnector Studios共同创建，由安托万·阿尔诺和阿尼什·梅尔瓦尼负责。
+   
+媒体报道
+  
+LVMH集团涉足影视娱乐业，促进旗下品牌营销财经网
+  
+LVMH将成立娱乐公司，通过电影与电视节目营销旗下品牌鸟哥笔记/界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米回应“买汽车送北京牌照”：完全失实]]></title>
+        <id>readhub-8XPKRE3oDUi</id>
+        <link href="https://readhub.cn/topic/8XPKRE3oDUi"/>
+        <updated>2024-02-23T09:36:15.000Z</updated>
+        <summary type="html"><![CDATA[今日有报道称，接近雷军的小米前期员工透露称，“雷军正在憋大招，首批购买小米汽车的车主，如果没有北京牌照，可能会赠送牌照。”对此，@小米公司发言人 发文回应称，完全失实。小米汽车定价、交付及销售政策均以官方发布为准，望周知。
+   
+媒体报道
+  
+买小米汽车送车牌？北京交管局、小米公司回应。搜狐科技
+  
+越传越离谱！小米官方辟谣买车送北京牌照：完全失实手机中国
+  
+小米回应买汽车送北京牌照：完全失实财经网
+  
+小米回应“买汽车送北京牌照”搜狐科技
+  
+小米辟谣买小米汽车送北京车牌：完全失实搜狐科技
+  
+曝买小米汽车可能送北京牌照 吉利杨学良：一定要落实、拜托了搜狐科技
+  
+雷军求助小米汽车谣言太多咋办 网友：早点发布就没事了手机中国
+  
+小米官方辟谣“买汽车就送北京牌照”：完全失实澎湃新闻
+  
+买小米汽车可能送北京牌照？网友：不太靠谱搜狐科技/凤凰科技
+  
+小米公司回应“买汽车送北京牌照”：完全失实搜狐科技
+  
+北京交管局回应买小米汽车送车牌传闻：暂未接到相关通知，车牌仍需摇号IT 之家/界面
+  
+小米回应买车送京牌：完全失实新浪科技
+  
+北京交管局回应小米汽车送车牌传闻：暂未收到相关通知 车牌目前仍需摇号财经网
+  
+北京交管局回应小米汽车送车牌传闻：暂未收到相关通知，车牌目前仍需摇号华尔街见闻
+  
+北京交管局回应小米汽车送车牌传言财经网
+  
+买小米汽车就送北京车牌？雷军无奈向网友求助：经常看到各种谣言，咋办？搜狐科技
+  
+小米回应小米汽车送车牌：完全失实搜狐科技
+  
+电商晚报：小米回应“买汽车送北京牌照”：完全失实亿邦动力网
+  
+小米汽车回应“买就送北京牌照”传闻：完全失实财联社
+  
+小米回应买小米汽车送北京车牌：完全失实！政策均以官方发布为准搜狐科技
+  
+买小米汽车“送”北京牌照？多方回应→搜狐科技
+  
+小米汽车新剧透来了！买就送北京牌照？小米汽车辟谣：完全失实腾讯网
+  
+买小米汽车送北京牌照？小米官方回应和讯网/凤凰科技
+  
+小米公司发言人回应买车送牌照传闻：完全失实搜狐科技
+  
+小米汽车买就送北京牌照？公司暂无回应新浪科技/华尔街见闻
+  
+小米汽车买就送车牌？官方否认腾讯网/证券时报网
+  
+小米汽车回应“买就送北京牌照”：完全失实新浪科技
+  
+小米汽车，买就“送”北京牌照？凤凰科技/IT 之家
+  
+买小米汽车“送”北京牌照？小米公司辟谣搜狐科技
+  
+小米透漏更多“人车家”联动场景，这2个亮点真有意思搜狐科技
+  
+小米发言人辟谣“小米汽车送牌传闻”华尔街见闻
+  
+买小米汽车送北京车牌？小米回应：完全失实搜狐科技
+  
+买车或送北京车牌？小米紧急回应！证券时报网/搜狐科技
+  
+小米发言人：“小米汽车送车牌传闻”完全失实搜狐科技
+  
+小米汽车回应“买车送北京牌照”：完全失实搜狐科技
+  
+买小米汽车送北京牌照？官方：完全失实搜狐科技
+  
+雷军憋大招，买小米汽车就“送”北京牌照？回应来了搜狐科技
+  
+小米回应“买汽车送北京牌照”：完全失实界面/IT 之家/DoNews/搜狐科技/速途网/鸟哥笔记]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蒙商银行被罚近900万元 10名涉事高管人员连带被罚]]></title>
+        <id>readhub-8XOH3prg6pk</id>
+        <link href="https://readhub.cn/topic/8XOH3prg6pk"/>
+        <updated>2024-02-23T09:35:34.000Z</updated>
+        <summary type="html"><![CDATA[蒙商银行因未履行客户身份识别义务、未报送大额及可疑交易报告，被罚款893.4万元，10名高管人员也被处罚款共计36.6万元。此次处罚重点在于反洗钱，涉及金额未公开。自2020年起，公安部门开展“断卡行动”，商业银行加强了客户身份识别及处罚力度。被处罚的高管包括3名分行行长、2名分行副行长及其他5人。蒙商银行成立于2020年，是内蒙古自治区的一家国有地方城市商业银行。2022年年报显示，该行资产总额为1762.22亿元，净利润0.65亿元。
+   
+媒体报道
+  
+近900万元大额罚单出炉！蒙商银行因未按规定履行客户身份识别义务等被罚新浪科技
+  
+因KYC及反洗钱蒙商银行被罚近900万，涉及对公、零售及信用卡多领域腾讯网
+  
+涉未按规定履行客户身份识别义务等违法行为，蒙商银行被罚款893.4万元财经网
+  
+蒙商银行被罚近900万元 10名涉事高管人员连带被罚21经济网]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证监会：持续投入更大人力、物力 多元化渠道识别上市公司造假线索]]></title>
+        <id>readhub-8XP0p1lE4bj</id>
+        <link href="https://readhub.cn/topic/8XP0p1lE4bj"/>
+        <updated>2024-02-23T09:31:47.000Z</updated>
+        <summary type="html"><![CDATA[证监会将采取多种措施，加大对上市公司欺诈发行、财务造假和大股东违规占用等违法行为的打击力度。具体措施包括投入更多人力和物力，通过年报审阅、历史数据对比、行业数据对比、重大舆情监测和投诉举报处置等多元化渠道识别造假线索，并通过现场检查核实验证，提升线索发现能力。
+   
+媒体报道
+  
+证监会：持续投入更大人力、物力 多元化渠道识别上市公司造假线索和讯网
+  
+控制113个账户！A股董事长操纵自家股票，交易800亿，亏2.4亿和讯网/证券时报网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证监会：将构建“穿透式”线索筛查体系 对操纵市场、内幕交易行为进行精准识别、严厉打击]]></title>
+        <id>readhub-8XPfWUgtmk2</id>
+        <link href="https://readhub.cn/topic/8XPfWUgtmk2"/>
+        <updated>2024-02-23T09:31:27.000Z</updated>
+        <summary type="html"><![CDATA[证监会利用多维技术手段建立“穿透式”线索筛查体系，严厉打击操纵市场和内幕交易行为。一方面，重点惩治上市公司实际控制人、董监高等关键少数的违法行为。另一方面，紧跟新型违法案件，消除监管盲区。已配合公安机关打击利用远程操控软件操纵市场的行为，并将推动严肃刑事追责。
+   
+媒体报道
+  
+证监会：将构建“穿透式”线索筛查体系，对操纵市场、内幕交易行为进行精准识别、严厉打击华尔街见闻/界面
+  
+证监会：将构建“穿透式”线索筛查体系 对操纵市场、内幕交易行为进行精准识别、严厉打击新浪科技/和讯网
+  
+证监会：操纵市场实质是“骗”、内幕交易实质是“偷” 将精准识别、严厉打击和讯网
+  
+证监会：操纵市场实质是“骗”、内幕交易实质是“偷”，将精准识别、严厉打击新浪科技
+  
+证监会：操纵市场本质是骗，内幕交易本质是偷，接下来将精准识别、严厉打击澎湃新闻]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证监会：紧盯“关键少数”监守自盗行为，打好组合拳，让其“人财两空”]]></title>
+        <id>readhub-8XP1WAAOQwJ</id>
+        <link href="https://readhub.cn/topic/8XP1WAAOQwJ"/>
+        <updated>2024-02-23T09:31:26.000Z</updated>
+        <summary type="html"><![CDATA[证监会表示将对上市公司实控人、董监高等“关键少数”的违规占用担保等行为进行组合拳打击，包括清查追偿、限期整改、移送公安等措施。同时，对证券服务中介机构也将坚持“一案双查”，督促其归位尽责。
+   
+媒体报道
+  
+证监会：证券违法行为处罚力度会越来越大，违法成本只会越来越高界面
+  
+证监会连开6份，罚没逾1.2亿！俄高官放狠话：会打到基辅！利多齐发，镍价急升新浪科技
+  
+证监会首席检查官李明：欺诈造假的公司只是少数 将持续加强监管执法新浪科技
+  
+证监会连开六份罚单！商学院同学内幕交易、董事长炒自家股票等，都栽了！和讯网
+  
+证监会：将紧盯上市公司滥用会计政策调节利润等恶劣行为，不让造假者瞒天过海、蒙混过关澎湃新闻
+  
+证监会稽查局局长李明：紧盯上市公司滥用会计政策调节利润等恶劣行为 不让造假者“瞒天过海”“蒙混过关”中国证券网
+  
+证监会：紧盯“关键少数”监守自盗行为，打好组合拳，让其“人财两空”新浪科技/和讯网
+  
+证监会李明：不让造假者“瞒天过海”“蒙混过关”新浪科技/和讯网
+  
+证监会：证券违法行为处罚力度会越来越大 违法成本只会越来越高新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人形机器人在新能源汽车工厂首次“实训”]]></title>
+        <id>readhub-8XP3JzfFxzC</id>
+        <link href="https://readhub.cn/topic/8XP3JzfFxzC"/>
+        <updated>2024-02-23T09:25:57.000Z</updated>
+        <summary type="html"><![CDATA[优必选公司公布其工业版人形机器人Walker S在新能源汽车工厂进行实训，实训内容包括移动产线行走、里程计、感知自主操作和系统通信等。
+   
+媒体报道
+  
+人形机器人开始“上班了” 优必选公司机器人在新能源汽车工厂首次“实训”搜狐科技
+  
+人形机器人“打工搭子”来了：优必选Walker S进车厂“实习” 会贴车标还能做质检腾讯网
+  
+人形机器人在新能源汽车工厂首次“实训”财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃尔沃计划减持极星汽车股份至18%]]></title>
+        <id>readhub-8XPdNlYYEhB</id>
+        <link href="https://readhub.cn/topic/8XPdNlYYEhB"/>
+        <updated>2024-02-23T09:11:39.000Z</updated>
+        <summary type="html"><![CDATA[沃尔沃汽车计划将旗下电动汽车制造商极星18%的股份转让给股东，目前对极星的持股近48%。股权转让需在年度股东大会上获得批准。吉利控股将继续支持极星的运营和资金，沃尔沃则将在研发、制造和售后服务等方面提供支持。
+   
+媒体报道
+  
+沃尔沃计划减持极星汽车股份至18%财经网/财联社/界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞众人寿首任总裁赵松来卸任：因达到退休年龄]]></title>
+        <id>readhub-8XOKdSBlZnw</id>
+        <link href="https://readhub.cn/topic/8XOKdSBlZnw"/>
+        <updated>2024-02-23T09:11:25.000Z</updated>
+        <summary type="html"><![CDATA[瑞众人寿保险有限责任公司公告，因达到退休年龄，赵松来不再担任公司总裁。赵松来和董事长赵立军均来自国寿集团。瑞众人寿注册资本565亿元，远超其他寿险公司。九州启航基金和中国保险保障基金有限责任公司分别为公司第一、第二大股东。2023年，瑞众人寿总保费达到2691亿元，同比增长6%。2024年是公司成立后的首个完整经营年度，也是新战略规划正式落地实施的元年。
+   
+媒体报道
+  
+瑞众人寿首任总裁赵松来到龄退休，公司2023年保费同比增长6%新浪科技/界面
+  
+瑞众人寿首任总裁赵松来卸任：因达到退休年龄澎湃新闻
+  
+瑞众人寿：因达到退休年龄，赵松来不再担任总裁财经网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*ST三盛收关注函，持续经营能力遭疑]]></title>
+        <id>readhub-8XNuBplUeC1</id>
+        <link href="https://readhub.cn/topic/8XNuBplUeC1"/>
+        <updated>2024-02-23T09:11:24.000Z</updated>
+        <summary type="html"><![CDATA[*ST三盛收到深交所关注函，要求说明公司教育板块收入下滑的合理性、持续经营能力是否存在重大不确定性，以及相关风险。同时，深交所对*ST三盛收购天雄新材39%股权的合法合规性、商业实质，以及估值合理性提出质疑。此外，还要求*ST三盛说明天雄新材的生产经营是否符合国家产业政策，排污许可证续期进展，以及主要客户关系是否可持续等问题。对于收购中育贝拉51%股权的情况，深交所也要求*ST三盛说明业绩承诺补偿的具体措施及最新进展，以及是否拟对收购形成的商誉计提减值。最后，深交所要求*ST三盛说明2023年度净资产大幅下降的具体原因，并与同行业可比公司进行比较。
+   
+媒体报道
+  
+两月六份关注函背后：*ST三盛收购天雄新材疑点重重，年审机构还没着落界面
+  
+*ST三盛本月收到第五份关注函 深交所继续追问天雄新材经营情况证券时报网
+  
+*ST三盛收关注函，持续经营能力遭疑证券时报网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[椰树去年在“擦边”争议中狂卖50亿]]></title>
+        <id>readhub-8XNyU6npeBo</id>
+        <link href="https://readhub.cn/topic/8XNyU6npeBo"/>
+        <updated>2024-02-23T09:01:01.000Z</updated>
+        <summary type="html"><![CDATA[椰树集团在近年来频繁陷入广告争议，却因此获得了大量关注和流量，其业绩也实现了连续增长。2023年，椰树集团销售额达到50亿元，同比增长20%，总销量达到70万吨，同比增长10.26%。尽管面临新消费品牌的竞争和市场变化，椰树集团仍在努力拓展产品线，并尝试新媒体营销，如与瑞幸咖啡联名推出新品。然而，椰树集团在电商平台上并未开设官方旗舰店，也没有将直播带货作为主要销售手段。尽管如此，椰树集团依然保持了强劲的销售势头，并且成功地将关注度转化为销量增长。
+   
+媒体报道
+  
+“擦边”争议中，椰树集团去年卖了50亿元腾讯网
+  
+椰树去年在“擦边”争议中狂卖50亿新浪科技/界面
+  
+椰树去年在“擦边”争议中卖了50亿华尔街见闻]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李嘉诚蝉联福布斯香港首富]]></title>
+        <id>readhub-8XO249mnLdm</id>
+        <link href="https://readhub.cn/topic/8XO249mnLdm"/>
+        <updated>2024-02-23T09:01:01.000Z</updated>
+        <summary type="html"><![CDATA[《福布斯》发布2024年香港50大富豪榜，李嘉诚以362亿美元的身家连续多年位居榜首，第二名是李兆基，身家270亿美元。榜单中有30名富豪财富出现缩水，整体财富下降9%至2960亿美元。
+   
+媒体报道
+  
+福布斯发布2024中国香港富豪榜：李嘉诚蝉联榜首但财富缩水至362亿美元界面
+  
+李嘉诚蝉联香港首富！新浪科技
+  
+福布斯发布2024中国香港富豪榜：李嘉诚蝉联榜首但财富缩水财联社
+  
+福布斯：李嘉诚以362亿美元身家蝉联2024年香港富豪榜首智通财经
+  
+李嘉诚蝉联福布斯香港首富新浪科技
+  
+福布斯香港富豪榜发布 20位地产大亨上榜新浪科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西部数据和铠侠将于四月重启合并谈判]]></title>
+        <id>readhub-8XPTj5BKLj2</id>
+        <link href="https://readhub.cn/topic/8XPTj5BKLj2"/>
+        <updated>2024-02-23T08:51:55.000Z</updated>
+        <summary type="html"><![CDATA[半导体制造商西部数据和铠侠（Kioxia）计划于4月底重启合并谈判，此前去年10月的谈判因铠侠股东韩国SK海力士的反对而破裂。
+   
+媒体报道
+  
+西部数据和铠侠据悉将于四月重启合并谈判界面
+  
+西部数据和铠侠将于四月重启合并谈判财联社
+  
+传西部数据(WDC.US)和铠侠将于4月底重启合并谈判智通财经]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果多用户共享体验头戴设备专利公布]]></title>
+        <id>readhub-8XPX1AFCrt9</id>
+        <link href="https://readhub.cn/topic/8XPX1AFCrt9"/>
+        <updated>2024-02-23T08:51:45.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司的一项专利公布，涉及一种可头戴式设备，该设备能与一个或多个光学组件协同工作，为多个用户提供共享体验和内容享受。通过设备内不同光学组件间的连接，实现内容的共享。
+   
+媒体报道
+  
+苹果专利可多用户共享体验头戴设备DoNews
+  
+快讯！苹果专利可多用户共享体验头戴设备腾讯网
+  
+苹果多用户共享体验头戴设备专利公布鸟哥笔记]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达“煮酒论英雄”，华为首次被视为 AI 领域主要竞争对手]]></title>
+        <id>readhub-8XPbElAvjOu</id>
+        <link href="https://readhub.cn/topic/8XPbElAvjOu"/>
+        <updated>2024-02-23T08:51:44.000Z</updated>
+        <summary type="html"><![CDATA[英伟达在最新报告中首次将华为列为主要竞争对手，指出华为在GPU加速器、CPU和网络组件等领域与其竞争。分析认为，由于美国对英伟达的限制，华为在国内AI组件市场获得了明显的增长空间和竞争优势，其自研的昇腾910B处理器性能已基本对标英伟达的A100。
+   
+媒体报道
+  
+英伟达“煮酒论英雄”，华为首次被视为 AI 领域主要竞争对手搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一汽-大众汽车有限公司召回部分进口和国产奥迪汽车]]></title>
+        <id>readhub-8XPaXSZL5GK</id>
+        <link href="https://readhub.cn/topic/8XPaXSZL5GK"/>
+        <updated>2024-02-23T08:50:57.000Z</updated>
+        <summary type="html"><![CDATA[一汽-大众汽车有限公司根据相关召回管理条例，向国家市场监督管理总局备案召回计划，决定分批召回部分进口和国产奥迪汽车。具体包括生产日期在2023年8月11日至2023年9月26日的进口奥迪Q7、Q8汽车共313辆，以及生产日期在2020年9月22日至2023年6月26日的国产奥迪A4L汽车共6241辆。
+   
+媒体报道
+  
+一汽-大众汽车有限公司召回部分进口和国产奥迪汽车财经网/财联社
+  
+一汽-大众将召回进口奥迪 Q7 / Q8 以及国产奥迪 A4L，共计 6554 辆IT 之家]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深交所：因赛集团最近5个交易日累涨123% 自然人买入占比89.24%]]></title>
+        <id>readhub-8XPcIyqihNi</id>
+        <link href="https://readhub.cn/topic/8XPcIyqihNi"/>
+        <updated>2024-02-23T08:50:52.000Z</updated>
+        <summary type="html"><![CDATA[因赛集团在最近五个交易日股价累计上涨123%，其中自然人买入占比89.24%，中小投资者买入19.75亿元，机构投资者买入4亿元。
+   
+媒体报道
+  
+深交所：因赛集团最近5个交易日累涨123% 自然人买入占比89.24%财联社
+  
+深交所：安诺其最近7个交易日累涨123.6% 自然人买入占比89.63%财联社
+  
+深交所：因赛集团最近5个交易日累涨123%，自然人买入占比89.24%界面
+  
+深交所：安诺其最近7个交易日累涨123.6%，自然人买入占比89.63%界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3月6日起，西安、青岛可签发往来港澳“个人旅游签注”]]></title>
+        <id>readhub-8XPU6AX3ji7</id>
+        <link href="https://readhub.cn/topic/8XPU6AX3ji7"/>
+        <updated>2024-02-23T08:41:27.000Z</updated>
+        <summary type="html"><![CDATA[国务院批准西安和青岛为新的港澳“个人游”城市。自2024年3月6日起，两地居民及居住证持有人可在当地出入境管理窗口或智能设备申请个人或团队旅游签注，可选的签注类型包括多次或单次赴港或澳门，每次停留不超过7天。
+   
+媒体报道
+  
+3月6日起，西安和青岛可签发往来港澳“个人旅游签注”新浪科技
+  
+广州南沙临时码头正式启用，供三民岛居民进出新浪科技
+  
+3月6日起 西安和青岛可签发往来港澳“个人旅游签注”新浪科技/智通财经
+  
+3月6日起，西安、青岛可签发往来港澳“个人旅游签注”腾讯网
+  
+狂飙27倍！内地访客赴港投保再掀热潮……证券时报网
+  
+3月6日起西安和青岛可签发往来港澳“个人旅游签注”中国证券网
+  
+3月6日起 在西安、青岛为符合条件人员签发往来港澳“个人旅游签注”新浪科技
+  
+西安 青岛增加为内地赴港澳“个人游”城市新浪科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国政府将该国医疗危机警报级别上调至最高级]]></title>
+        <id>readhub-8XOydVrh52e</id>
+        <link href="https://readhub.cn/topic/8XOydVrh52e"/>
+        <updated>2024-02-23T08:41:26.000Z</updated>
+        <summary type="html"><![CDATA[韩国政府将医疗危机警报级别上调至最高级“严重”级。
+   
+媒体报道
+  
+韩国政府临时放宽远程诊疗限制填补医疗空缺新浪科技
+  
+韩国医生离岗致医疗空缺扩大 医疗预警调至最高级别财联社
+  
+韩国上调医疗危机警报级别至最高级财联社
+  
+韩国政府将该国医疗危机警报级别上调至最高级财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宣亚国际：正与参股公司共同研究AI视频相关技术路径及应用场景]]></title>
+        <id>readhub-8XP7DWcm58u</id>
+        <link href="https://readhub.cn/topic/8XP7DWcm58u"/>
+        <updated>2024-02-23T08:31:15.000Z</updated>
+        <summary type="html"><![CDATA[宣亚国际关注人工智能在内容生产领域的应用，包括文生视频和图生视频技术。公司技术团队正关注OpenAI文生视频大模型Sora的开放进度，并与参股公司RMDS Lab Inc.共同研究AI视频技术及应用场景，计划拓展OrangeGPT的智能视频生成和智能配音等技术应用。
+   
+媒体报道
+  
+【互动掘金】宣亚国际：正与参股公司共同研究AI视频相关技术路径及应用场景证券时报网
+  
+宣亚国际：密切关注Sora开放进度，正与参股公司研究AI视频相关技术路径及应用场景界面
+  
+宣亚国际：正与参股公司共同研究AI视频相关技术路径及应用场景和讯网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亘喜生物宣布正式并入阿斯利康集团]]></title>
+        <id>readhub-8XPEMjX5S2d</id>
+        <link href="https://readhub.cn/topic/8XPEMjX5S2d"/>
+        <updated>2024-02-23T08:21:44.000Z</updated>
+        <summary type="html"><![CDATA[亘喜生物已完成与阿斯利康的合并协议，成为其全资子公司，并将从纳斯达克 Global Select Market 暂停其ADSs交易。此前，阿斯利康以约12亿美元的价格收购了亘喜生物，使其成为其全资子公司，并在中国和美国开展业务。亘喜生物成立于2017年，专注于研发突破性细胞疗法，其GC012F产品是一款基于FasTCAR技术平台的BCMA/CD19双靶点自体CAR-T细胞疗法，已在中国和美国启动临床试验。
+   
+媒体报道
+  
+亘喜生物宣布正式并入阿斯利康集团，将从纳斯达克退市财经网
+  
+亘喜生物并入阿斯利康集团 将从纳斯达克退市财联社
+  
+亘喜生物宣布正式并入阿斯利康集团医谷网]]></summary>
+        <author>
+            <name>财经网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因“内部程序错误”，美国最大运营商 AT&T 通信网络中断 10 小时]]></title>
+        <id>readhub-8XPZoL0FSpb</id>
+        <link href="https://readhub.cn/topic/8XPZoL0FSpb"/>
+        <updated>2024-02-23T08:21:29.000Z</updated>
+        <summary type="html"><![CDATA[美国电信运营商AT&T在北京时间2月22日发生了一起长达10小时的重大网络中断事件，影响超过7万名用户。事件起因是内部程序错误，在扩展网络时应用流程出错导致。AT&T表示，网络服务已恢复正常。事件引起了美联邦通信委员会（FCC）的问责和联邦调查局（FBI）的调查，但AT&T强调与黑客无关。
+   
+媒体报道
+  
+因“内部程序错误”，美国最大运营商 AT&T 通信网络中断 10 小时搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贵州多地近期山火频发 多家当地上市药企回应：药材供应没有影响]]></title>
+        <id>readhub-8XO3q2vAX5y</id>
+        <link href="https://readhub.cn/topic/8XO3q2vAX5y"/>
+        <updated>2024-02-23T08:20:52.000Z</updated>
+        <summary type="html"><![CDATA[贵州近期山火频发，但多家当地中药上市企业表示，山火对他们的药材供应没有影响。中药材行业专家也认为，当前很多药材还未下种，预计山火对当地药材生长、生产没有太大影响。
+   
+媒体报道
+  
+贵州多地近期山火频发 多家当地上市药企回应：药材供应没有影响财联社
+  
+贵州百灵：近期贵州省内部分地区发生的山火对公司中药材种植基地没有影响界面
+  
+近期贵州多地发生山火，当地上市公司回应：对中药材种植及采购没有影响财经网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[百度“萝卜快跑”获准在京开展大兴机场自动驾驶载人示范应用]]></title>
         <id>readhub-8XPON6Tc6Q4</id>
@@ -3862,52 +4486,6 @@ Adobe推出可搜索和汇总PDF的AI助手新浪科技
 Adobe发布人工智能助手，能搜索和汇总PDF文档内容网易科技]]></summary>
         <author>
             <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报道：微软围绕AI服务器数据传输打造英伟达网卡的替代产品]]></title>
-        <id>readhub-8XLApHHKG3U</id>
-        <link href="https://readhub.cn/topic/8XLApHHKG3U"/>
-        <updated>2024-02-21T00:00:37.000Z</updated>
-        <summary type="html"><![CDATA[微软正在开发一款用于AI服务器的英伟达网卡替代品，以减少对英伟达的依赖，并提高数据传输速度。
-   
-媒体报道
-  
-消息称微软正研发新型网卡，旨在提升自研 AI 芯片性能并降低对英伟达依赖IT 之家
-  
-AI基建竞赛明争暗斗：传微软正开发英伟达网卡的替代品腾讯网/新浪科技
-  
-报道：微软围绕AI服务器数据传输打造英伟达网卡的替代产品华尔街见闻
-  
-微软悄然发力减少对英伟达依赖：开发网卡替代品华尔街见闻/新浪科技
-  
-微软悄然开发网卡替代品 想要彻底摆脱对英伟达的依赖腾讯网
-  
-微软据悉正开发英伟达网卡的替代品界面
-  
-摆脱英伟达(NVDA.US)！微软(MSFT.US)研发新定制网络卡智通财经
-  
-微软正在开发英伟达网卡的替代品财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果调整负责音频产品监管团队的领导层]]></title>
-        <id>readhub-8XLO382HhF7</id>
-        <link href="https://readhub.cn/topic/8XLO382HhF7"/>
-        <updated>2024-02-20T23:10:43.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司调整音频产品监管团队领导层，Gary Geaves将离职，Ruchir Davé接任负责人。
-   
-媒体报道
-  
-Apple changing the leadership of its audio team ahead of major updates to AirPods9to5Mac
-  
-Gary Geaves 卸任，苹果 300 人 AirPods 和 HomePod 音频团队迎来新掌舵者IT 之家
-  
-苹果调整负责音频产品监管团队的领导层财联社]]></summary>
-        <author>
-            <name>财联社</name>
         </author>
     </entry>
     <entry>
