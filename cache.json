@@ -313,6 +313,306 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8XXQ6EODFsZ",
+          "author": "界面",
+          "description": "恒生科技指数上涨1%，恒指微涨0.15%，科技股普遍走高，网易涨幅达到6.6%，百度涨幅超过2%。\n   \n媒体报道\n  \n恒生指数开盘涨0.25%财联社\n  \n恒生科技指数跌超1%，此前一度涨超1%界面\n  \n恒生科技指数涨超1%，恒指现涨0.15%界面\n  \n港股恒生指数开盘涨0.25% 恒生科技指数涨0.7%中国证券网",
+          "link": "https://readhub.cn/topic/8XXQ6EODFsZ",
+          "publishedOn": "2024-02-28T06:00:41.000Z",
+          "wordCount": 177,
+          "title": "恒生科技指数涨超1%，恒指现涨0.15%",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXNGnAHfAt",
+          "author": "财联社",
+          "description": "美国加利福尼亚北区联邦地区法院裁定，被美国司法部起诉涉嫌窃取美企商业机密的中国大陆芯片企业福建晋华集成电路有限公司无罪。法官认为，美国检方未能证明福建晋华窃取了美光公司的专利数据。这一判决可能会削弱拜登政府以保护美国技术之名采取的对华激进行动。福建晋华和台湾联华电子公司以及三名台湾人曾被指控共谋盗窃、输送和从美企美光公司盗取商业秘密。台湾联电后来认罪并支付了6000万美元罚款，作为交换条件，承诺协助美政府调查福建晋华。美光公司与福建晋华之间长达6年的中美存储芯片专利纠纷也已达成和解。\n   \n媒体报道\n  \n遭美国司法部提告窃取知识产权，福建晋华终获无罪判决腾讯网\n  \n被判无罪！福建晋华赢得美国司法部诉讼凤凰科技\n  \n在美国被裁定“无罪” 福建晋华发布声明：对判决表示欢迎财联社",
+          "link": "https://readhub.cn/topic/8XXNGnAHfAt",
+          "publishedOn": "2024-02-28T05:55:51.000Z",
+          "wordCount": 140,
+          "title": "遭美国司法部提告窃取知识产权，福建晋华终获无罪判决",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXPl3yPMvk",
+          "author": "搜狐科技",
+          "description": "2023年第四季度，拉美地区智能手机市场实现了20%的增长，全年市场增长2%，达到1.189亿台。三星在拉美地区处于领先地位，但其市场份额首次跌破30%，小米、传音和中兴等品牌通过增强入门级产品销量，抢占市场份额。此外，苹果、中兴和荣耀等品牌也实现了三位数的增长。Canalys预测，尽管拉美地区面临社会经济挑战，但2024年该地区智能手机市场仍将实现3%的增长。\n   \n媒体报道\n  \nCanalys：2023年第四季度欧洲智能手机出货量3780万部 苹果(AAPL.US)重夺领先地位智通财经\n  \nCanalys：2023年第四季度拉美地区智能手机市场增长20%智通财经\n  \nCanalys：2023年Q4欧洲智能手机市场下滑3%搜狐科技",
+          "link": "https://readhub.cn/topic/8XXPl3yPMvk",
+          "publishedOn": "2024-02-28T05:46:14.000Z",
+          "wordCount": 219,
+          "title": "Canalys：2023年第四季度拉美地区智能手机市场增长20%",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXVoy2F7RM",
+          "author": "财联社",
+          "description": "扎克伯格访问韩国，将会见三星会长李在镕和LG社长曹周完，讨论在扩展现实和人工智能领域的合作事宜。他还将会见多家韩国XR新创公司负责人，并寻求与三星在推理芯片方面的合作。明年上半年，Meta公司将推出与韩国LG集团合作完成的下一代Quest Pro头戴式VR设备。\n   \n媒体报道\n  \nMeta扎克伯格抵达韩国：消息称将会见三星会长、LG社长凤凰科技\n  \n扎克伯格今日将会见LG电子CEO与三星电子会长 讨论有关XR合作事宜财联社\n  \nMeta 扎克伯格抵达韩国：消息称将会见三星会长、LG 社长，讨论扩展现实、人工智能合作事宜IT 之家",
+          "link": "https://readhub.cn/topic/8XXVoy2F7RM",
+          "publishedOn": "2024-02-28T05:45:50.000Z",
+          "wordCount": 212,
+          "title": "Meta扎克伯格抵达韩国：消息称将会见三星会长、LG社长",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXXxHk4XKf",
+          "author": "界面",
+          "description": "顺丰控股针对在港上市申请失效的情况回应称，香港上市的相关工作正在有序推进中。据港交所信息，顺丰控股于2023年8月21日提交的上市申请目前处于失效状态。顺丰控股证券部工作人员表示，失效是港交所的正常交易机制，公司将关注后续公告。顺丰控股计划在港交所二次上市，以推进国际化战略，提升品牌形象和竞争力。如果成功，顺丰将成为快递行业首家“A+H”股上市公司。\n   \n媒体报道\n  \n顺丰控股回应赴港上市招股书失效界面\n  \n顺丰控股回应招股书失效：在港上市工作正有序推进证券时报网\n  \n顺丰控股回应赴港上市招股书失效：属于港交所的正常交易机制财经网/新浪科技/财联社\n  \n最新！顺丰控股回应在港招股书失效，王卫“要选最好时机”新浪科技",
+          "link": "https://readhub.cn/topic/8XXXxHk4XKf",
+          "publishedOn": "2024-02-28T05:40:51.000Z",
+          "wordCount": 155,
+          "title": "顺丰控股回应招股书失效：在港上市工作正有序推进",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXfTRjlKNK",
+          "author": "界面",
+          "description": "大连海事局发布航行警告，一渔船在黄海北部38-41.0N 123-43.0E附近水域沉没，3人失联。过往船舶请注意搜寻，并向大连市海上搜救中心报告。\n   \n媒体报道\n  \n一渔船在黄海北部沉没：3人失联腾讯网\n  \n一渔船在黄海北部沉没，3人失联界面\n  \n一渔船在黄海北部沉没 3人失联新浪科技",
+          "link": "https://readhub.cn/topic/8XXfTRjlKNK",
+          "publishedOn": "2024-02-28T05:31:04.000Z",
+          "wordCount": 150,
+          "title": "一渔船在黄海北部沉没：3人失联",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXbBrimvjM",
+          "author": "界面",
+          "description": "香港地产股午后涨幅扩大，新世界发展涨8%，恒基地产涨超7%，新鸿基地产涨超4%，长实集团和太古地产均涨3%。消息面上，香港政府全面撤销所有楼市需求管理措施，包括取消买家印花税、额外印花税、提高按揭贷款成数等。\n   \n媒体报道\n  \n港股蓝筹地产股震荡拉升，新世界发展涨超6%界面\n  \n港股本地地产股涨幅扩大，新世界发展涨超8%界面\n  \n香港本地地产股涨幅扩大 新世界发展涨8%财联社",
+          "link": "https://readhub.cn/topic/8XXbBrimvjM",
+          "publishedOn": "2024-02-28T05:30:55.000Z",
+          "wordCount": 164,
+          "title": "香港本地地产股涨幅扩大 新世界发展涨8%",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXXGiUtVxF",
+          "author": "财联社",
+          "description": "民航局副局长韩钧在国务院新闻办公室的发布会上表示，民航局将采取措施提升我国航空枢纽的国际竞争力，并力争到2050年建成一批世界一流航空枢纽，完善国际航空枢纽功能体系，支撑我国成为交通强国。\n   \n媒体报道\n  \n中国民用航空局副局长韩钧：强化北上广三大枢纽机场洲际连接能力和全球辐射能力中国证券网\n  \n民航局：2050年我国将建成一批世界一流航空枢纽新浪科技/财联社/智通财经\n  \n民航局谈低空经济：加快推动低空空域改革落地，进一步盘活空域资源澎湃新闻\n  \n如何推进低空经济发展？民航局回应腾讯网/新浪科技\n  \n民航局：将进一步盘活低空空域资源 推动通用机场和临时起降点建设新浪科技\n  \n中国民航局：低空经济发展空间极为广阔 2030年有望达到2万亿元中国证券网",
+          "link": "https://readhub.cn/topic/8XXXGiUtVxF",
+          "publishedOn": "2024-02-28T05:20:58.000Z",
+          "wordCount": 150,
+          "title": "民航局：2050年我国将建成一批世界一流航空枢纽",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXU1oaqpRq",
+          "author": "界面",
+          "description": "人造肉概念股在消息面上受到美国Beyond Meat公司业绩超预期影响，东宝生物涨停20%，双塔食品、祖名股份、嘉华股份、索宝蛋白等个股亦涨停，华宝股份、山东赫达、雪榕生物等跟随上涨。\n   \n媒体报道\n  \n人造肉概念股领涨，美国“人造肉第一股”盘后暴涨腾讯网\n  \n盘中必读|美国人造肉第一股盘后暴涨，带动人造肉板块走高，东宝生物20CM封板界面",
+          "link": "https://readhub.cn/topic/8XXU1oaqpRq",
+          "publishedOn": "2024-02-28T05:20:55.000Z",
+          "wordCount": 153,
+          "title": "人造肉概念股领涨，美国“人造肉第一股”盘后暴涨",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXe2xLw69x",
+          "author": "财联社",
+          "description": "香港金管局宣布修订物业按揭贷款的逆周期宏观审慎监管措施，主要调整包括：自用住宅物业按揭成数上限提高，3000万港元以下至七成，3500万港元以上至六成。非住宅物业按揭成数上限从六成提升至七成。以“资产水平”为审批基础的按揭成数上限从五成提升至六成。暂停实施物业按揭贷款假设利率上升200基点的压力测试要求。调整物业发展项目融资比率上限，恢复至2017年6月前的水平。取消银行向高成数按揭地产发展商的风险敞口相关额外资本要求。\n   \n媒体报道\n  \n香港金管局：修订物业按揭贷款逆周期宏观审慎监管措施财联社\n  \n香港财政司司长：金管局将在短期内推出“沙盒”测试稳定币Odaily\n  \n香港金管局：非自用住宅物业的按揭成数上限由五成调升至六成华尔街见闻",
+          "link": "https://readhub.cn/topic/8XXe2xLw69x",
+          "publishedOn": "2024-02-28T05:15:53.000Z",
+          "wordCount": 160,
+          "title": "香港金管局：修订物业按揭贷款逆周期宏观审慎监管措施",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XWOrJ5bVDB",
+          "author": "和讯网",
+          "description": "据财联社报道，到2030年，日本生成式AI市场规模可能达到850亿元人民币，这一领域已在动画、设计和广告等行业得到广泛应用，且基于日语的人工智能也在不断发展中。\n   \n媒体报道\n  \n2030年市场规模或达850亿元！日本动画产业积极应用生成式AI→搜狐科技\n  \n未来十年，日本AI市场有望达到850亿元2030年日本生成式AI市场规模或达1万7774亿日元和讯网\n  \n2030年日本生成式AI市场规模或达850亿元新浪科技/财联社",
+          "link": "https://readhub.cn/topic/8XWOrJ5bVDB",
+          "publishedOn": "2024-02-28T05:11:01.000Z",
+          "wordCount": 200,
+          "title": "2030年日本生成式AI市场规模或达850亿元",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XWPvgfeQPS",
+          "author": "界面",
+          "description": "郎酒旗下红花郎10年和红花郎15年两款核心产品，自4月1日起渠道供货价将分别上调20元和30元。\n   \n媒体报道\n  \n郎酒旗下红花郎10年、红花郎15年渠道供货价分别提价20元和30元财联社\n  \n郎酒旗下核心产品红花郎将提价 业内：为促进经销商提前打款拿货新浪科技\n  \n郎酒旗下红花郎10年、15年渠道供货价分别提价20元和30元界面",
+          "link": "https://readhub.cn/topic/8XWPvgfeQPS",
+          "publishedOn": "2024-02-28T05:00:52.000Z",
+          "wordCount": 222,
+          "title": "郎酒旗下红花郎10年、15年渠道供货价分别提价20元和30元",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXdkpDIEK6",
+          "author": "搜狐科技",
+          "description": "三星公司计划在2024年年中开始量产Bot Fit可穿戴机器人，首批产量预估不到10万台。Bot Fit是三星公司推出的首款可穿戴机器人产品，可戴在髋关节上，为佩戴者提供超过20%的行走力量，并提高10%的步行速度。该产品已通过国际标准ISO 13482的安全性认证。\n   \n媒体报道\n  \n三星计划于2024年量产Bot Fit可穿戴机器人搜狐科技/中关村在线\n  \n太卷了！三星这款可穿戴机器人要量产了搜狐科技/中关村在线",
+          "link": "https://readhub.cn/topic/8XXdkpDIEK6",
+          "publishedOn": "2024-02-28T04:51:20.000Z",
+          "wordCount": 271,
+          "title": "三星计划于2024年量产Bot Fit可穿戴机器人",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XWfIdNxnQW",
+          "author": "智通财经",
+          "description": "索尼集团宣布对全球视频游戏部门进行大规模调整，裁员900人，约占员工总数的8%，并关闭伦敦的一个部门。此次调整将影响多款游戏开发，包括旗下三家最成功的游戏子公司Insomniac、Naughty Dog和Guerrilla Games。同时，公司决定取消几款正在开发的游戏。业界认为，这是全球游戏公司面临新冠疫情后消费放缓和利率上升背景下的无奈之举。\n   \n媒体报道\n  \n索尼(SONY.US)PlayStation部门将裁员约900人 并关闭伦敦工作室智通财经\n  \n索尼游戏部门宣布裁员900名员工，退一步为未来做好准备中关村在线\n  \n索尼游戏部门全球裁员900人，将影响多款游戏开发凤凰科技\n  \n索尼将在PlayStation部门裁员约900人 关闭一家伦敦工作室新浪科技\n  \n索尼将在游戏部门裁员900人 并关闭伦敦一个部门新浪科技",
+          "link": "https://readhub.cn/topic/8XWfIdNxnQW",
+          "publishedOn": "2024-02-28T04:37:07.000Z",
+          "wordCount": 199,
+          "title": "索尼游戏部门全球裁员900人，将影响多款游戏开发",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXZ2yE58Jj",
+          "author": "凤凰科技",
+          "description": "中国移动在2024年世界移动通信大会上推出了全球首款算力路由器（CATS Router），标志着我国在算力网络领域的重大创新。这款路由器具备算力感知、通告和联合路由等功能，比传统路由方式更具优势，能有效降低边缘计算场景下的业务时延并提升系统容量，为AR/VR、车联网、AI推理等业务提供支持。中国移动计划进行规模中试并投入算力路由器试验阶段，为后续商用部署奠定基础。\n   \n媒体报道\n  \n中国移动全球首台算力路由器发布 15%时延降幅中关村在线\n  \n重大突破！中国移动发布全球首台算力路由器凤凰科技\n  \n中国移动发布全球首台算力路由器，实现算网一体深度发展中关村在线",
+          "link": "https://readhub.cn/topic/8XXZ2yE58Jj",
+          "publishedOn": "2024-02-28T04:37:00.000Z",
+          "wordCount": 149,
+          "title": "中国移动发布全球首台算力路由器，实现算网一体深度发展",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXTJMzYTGb",
+          "author": "和讯网",
+          "description": "优刻得与智谱AI合作，构建了超千卡规模的推理集群，提升了智谱AI新一代基座大模型GLM-4的性能，使其逼近GPT-4。GLM-4能在云端稳定、高效运行，并具备大规模实时推理能力，实现了成本效益与服务质量的平衡。自2022年起，优刻得为智谱AI提供底层算力支持，其乌兰察布智算中心提供了充足的GPU算力，帮助智谱AI迅速搭建并扩大训练和推理集群规模，提升模型研发效率，支持大模型应用快速上线和对外服务。目前，优刻得智算中心的算力管理规模已超过3000P。\n   \n媒体报道\n  \n优刻得联合智谱AI构建超千卡规模推理集群和讯网\n  \n优刻得为智谱AI构建超千卡推理集群，让全球用户畅享大模型智能生活搜狐科技\n  \n优刻得为智谱AI构建千卡推理集群，助力全球用户畅享大模型智能生活机器之心",
+          "link": "https://readhub.cn/topic/8XXTJMzYTGb",
+          "publishedOn": "2024-02-28T04:31:44.000Z",
+          "wordCount": 205,
+          "title": "优刻得联合智谱AI构建超千卡规模推理集群",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXaOEDEg6s",
+          "author": "界面",
+          "description": "贵州茅台酒厂（集团）有限责任公司近日申请注册“茅香”商标，用于酒类产品，目前商标状态为等待实质审查。此前，茅台公司多次尝试注册该商标，但遭遇驳回复审、申请被驳回等问题。\n   \n媒体报道\n  \n茅台再申请注册茅香商标，此前申请曾被驳回界面\n  \n茅台再次申请注册茅香商标财经网\n  \n茅台再申请注册茅香商标  此前申请曾被驳回DoNews\n  \n茅台再申请注册茅香商标 此前申请曾被驳回新浪科技",
+          "link": "https://readhub.cn/topic/8XXaOEDEg6s",
+          "publishedOn": "2024-02-28T04:30:56.000Z",
+          "wordCount": 147,
+          "title": "茅台再次申请注册茅香商标",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXVSdYaz8M",
+          "author": "财联社",
+          "description": "在MWC2024上，英特尔发布了全新vPro平台产品，此平台搭载酷睿Ultra处理器，增强了AI功能，可提供更好的AI PC性能。\n   \n媒体报道\n  \n英特尔发布全新vPro平台财联社\n  \n英特尔设目标：2025 年全球 AI PC 超 1 亿台，占比 20%IT 之家\n  \n英特尔 vPro 平台焕新登场，百款商用 AI PC 即将上市中关村在线",
+          "link": "https://readhub.cn/topic/8XXVSdYaz8M",
+          "publishedOn": "2024-02-28T04:16:01.000Z",
+          "wordCount": 281,
+          "title": "英特尔发布全新vPro平台",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXQSxeM5HC",
+          "author": "界面",
+          "description": "欧盟计划对苹果公司开出5亿欧元罚单，原因是苹果在音乐流媒体服务上被指控存在不当行为。苹果对此进行强硬回击，表示他们的行为是合法的。苹果与Spotify的主要矛盾在于苹果税和苹果反规避原则。尽管苹果曾作出让步，允许内容平台在符合规则的情况下绕开抽佣机制，但Spotify仍不满足。苹果认为欧盟的调查不会促进竞争，反而可能巩固Spotify的市场地位。\n   \n媒体报道\n  \n面对欧盟可能开出的5亿欧元罚单，苹果表态了证券时报网/界面\n  \n苹果强硬回应欧盟5亿欧元罚单：Spotify不向苹果付费，用户权益也未受损澎湃新闻",
+          "link": "https://readhub.cn/topic/8XXQSxeM5HC",
+          "publishedOn": "2024-02-28T04:02:04.000Z",
+          "wordCount": 201,
+          "title": "苹果强硬回应欧盟5亿欧元罚单：Spotify不向苹果付费，用户权益也未受损",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XWHMHmbIQz",
+          "author": "凤凰科技",
+          "description": "德国电信在MWC 2024大展上展示了一款基于AI的智能手机，该手机无需传统App界面，用户可通过AI聊天满足各种需求，如获取旅行建议、美食推荐或购物建议等。德国电信CEO Tim Hoettges 表示，这款AI Phone是公司对未来智能手机的畅想，预计5至10年后人们将不再依赖各种App。该设备的合作开发方包括高通和Brain.AI，后者已推出一款iOS应用，声称能实现类似功能，但评价不佳。\n   \n媒体报道\n  \n【MWC 2024】德国电信公司展示无应用程序AI智能手机概念VR陀螺\n  \n未来5-10年完全取消手机App，德国电信畅想AI Phone概念凤凰科技\n  \n未来 5-10 年完全取消手机 App，德国电信畅想 AI Phone 概念IT 之家",
+          "link": "https://readhub.cn/topic/8XWHMHmbIQz",
+          "publishedOn": "2024-02-28T04:01:47.000Z",
+          "wordCount": 302,
+          "title": "未来 5-10 年完全取消手机 App，德国电信畅想 AI Phone 概念",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XWAubWjulO",
+          "author": "搜狐科技",
+          "description": "华为推出了一款名为“PixLab V1 畅打版”的彩色喷墨一体机，具有打印、复印、扫描和身份证纠偏功能，彩色打印速度每分钟4页，黑白打印速度每分钟8.5页。该打印机使用了鸿蒙智联设计，支持智能打印功能，并附带了众多教育资源，适合家庭使用。\n   \n媒体报道\n  \n华为推出“PixLab V1 畅打版”彩色打印一体机，售 1099 元搜狐科技\n  \n华为推出“PixLab V1 畅打版”彩色喷墨一体机搜狐科技\n  \n华为推出“PixLab V1 畅打版”打印一体机：彩印 4 页 / 分钟，售 1099 元IT 之家",
+          "link": "https://readhub.cn/topic/8XWAubWjulO",
+          "publishedOn": "2024-02-28T04:01:27.000Z",
+          "wordCount": 212,
+          "title": "华为推出“PixLab V1 畅打版”彩色喷墨一体机",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXZk7wiMze",
+          "author": "界面",
+          "description": "长安汽车董事长朱华荣与高合汽车创始人丁磊确有会面，双方进行了友好沟通。丁磊此前曾透露，已有多个公司对高合汽车表达兴趣，包括收购或投资的意向。\n   \n媒体报道\n  \n长安汽车董事长朱华荣与高合汽车创始人丁磊会面界面/凤凰科技/财联社",
+          "link": "https://readhub.cn/topic/8XXZk7wiMze",
+          "publishedOn": "2024-02-28T04:01:01.000Z",
+          "wordCount": 126,
+          "title": "长安汽车董事长朱华荣与高合汽车创始人丁磊会面",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXWDCTMC54",
+          "author": "手机中国",
+          "description": "芬兰公司HMD计划于今年7月推出自有品牌智能手机，强调可持续性，首批官方预热图已发布。新手机将易于更换屏幕，并致力于增加可维修设备的产品组合。新机将提供黑色和粉色两种颜色，粉色版本具有缎面质感。暂未公布具体规格，但有猜测称其中一款可能名为Fusion或Legend，配备108MP主摄像头。此外，HMD还计划与美泰公司合作推出一款芭比娃娃主题的翻盖手机。\n   \n媒体报道\n  \nHMD预告其首款自主品牌智能手机！该机或于7月推出手机中国/搜狐科技\n  \n今年 7 月推出，HMD 预热其自有品牌智能手机IT 之家",
+          "link": "https://readhub.cn/topic/8XXWDCTMC54",
+          "publishedOn": "2024-02-28T03:55:57.000Z",
+          "wordCount": 218,
+          "title": "今年 7 月推出，HMD 预热其自有品牌智能手机",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXWBug5S29",
+          "author": "界面",
+          "description": "中国警方与老挝警方合作，成功摧毁了7个在老挝境内的电信网络诈骗窝点，逮捕了268名嫌疑人，包括8名幕后“金主”和54名组织头目和骨干，涉及案件1570余起。公安部工作组赴老挝打击跨境电信网络诈骗犯罪，取得了重要成果。自2023年以来，浙江、江苏、福建等地发生多起电信网络诈骗案件，公安部高度重视并挂牌督办。工作组在老挝的联合执法行动中，共抓获154名嫌疑人，并缴获大量涉案物品。老挝警方根据工作组提供的线索，又抓获了114名嫌疑人。目前，268名嫌疑人和涉案物证已移交中国，案件正在进一步侦办中。公安部表示，将继续加大打击力度，深化国际警务执法合作，遏制跨境电信网络诈骗犯罪。\n   \n媒体报道\n  \n268名跨境电诈犯罪嫌疑人移交我方搜狐科技\n  \n268名实施跨境电信网络诈骗的犯罪嫌疑人移交我方搜狐科技/界面",
+          "link": "https://readhub.cn/topic/8XXWBug5S29",
+          "publishedOn": "2024-02-28T03:52:24.000Z",
+          "wordCount": 226,
+          "title": "268名实施跨境电信网络诈骗的犯罪嫌疑人移交我方",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXZ39oVsX3",
+          "author": "界面",
+          "description": "香港特区政府撤销所有住宅物业需求管理措施，即日起所有住宅物业交易无需再缴付额外印花税、买家印花税和新住宅印花税。\n   \n媒体报道\n  \n香港特区政府：所有住宅物业交易无须再缴付额外印花税、买家印花税和新住宅印花税中国证券网\n  \n陈茂波：即日起香港所有住宅物业交易无须缴纳印花税界面\n  \n陈茂波：预测香港2024年经济增长2.5%至3.5%新浪科技\n  \n陈茂波：香港将完善上市及优化交易机制界面\n  \n香港今年经济预计增长2.5%至3.5%新浪科技/中国证券网\n  \n香港中小企融资担保计划下大部分产品延期新浪科技\n  \n香港将全面撤销所有楼市需求管理措施，包括取消买家印花税、额外印花税等华尔街见闻\n  \n14年“辣招”落幕，香港：即日起所有住宅物业交易无须缴纳印花税腾讯网",
+          "link": "https://readhub.cn/topic/8XXZ39oVsX3",
+          "publishedOn": "2024-02-28T03:50:47.000Z",
+          "wordCount": 146,
+          "title": "陈茂波：即日起香港所有住宅物业交易无须缴纳印花税",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XX15Qfmwvf",
+          "author": "财联社",
+          "description": "微软旗下的GitHub推出了一款更昂贵的AI软件开发工具，该工具能根据公司的编程代码回答问题，旨在帮助新工程师快速适应，提升程序员的工作效率。\n   \n媒体报道\n  \n微软旗下GitHub为客户提供更强的AI编码工具鸟哥笔记/财联社\n  \n微软旗下 GitHub 为客户提供更强的 AI 编码工具牛透社",
+          "link": "https://readhub.cn/topic/8XX15Qfmwvf",
+          "publishedOn": "2024-02-28T03:48:46.000Z",
+          "wordCount": 221,
+          "title": "微软旗下GitHub为客户提供更强的AI编码工具",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXNcmPQECW",
+          "author": "腾讯网",
+          "description": "重庆警方已对涉嫌非法吸收公众存款的遇见小黄鸭（重庆）食品有限公司等立案侦查，并已对主要犯罪嫌疑人采取刑事强制措施。该公司推出的“全员合伙制”模式，宣称门店合伙人只投资拿分红，不需要参与具体经营。然而，该模式涉嫌非法吸收公众存款，引起警方注意。目前，遇见小黄鸭的总部和多家关联公司已被查封，其商业模式和扩张速度受到质疑。\n   \n媒体报道\n  \n街边小店竟涉嫌非法吸收公众存款 实探遇见小黄鸭总部财经网\n  \n这种街边小店竟涉嫌非法吸收公众存款 实探遇见小黄鸭总部，其“全员合伙制”是怎么回事证券时报网\n  \n遇见小黄鸭：披着卤味连锁店外衣，涉嫌非法集资腾讯网",
+          "link": "https://readhub.cn/topic/8XXNcmPQECW",
+          "publishedOn": "2024-02-28T03:46:02.000Z",
+          "wordCount": 134,
+          "title": "街边小店竟涉嫌非法吸收公众存款 实探遇见小黄鸭总部",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXZOzHcqqh",
+          "author": "界面",
+          "description": "高合正在与长安汽车接触，可能正在洽谈收购事宜。\n   \n媒体报道\n  \n高合正在接触长安汽车协商收购事项新浪科技/财经网/华尔街见闻/界面/财联社",
+          "link": "https://readhub.cn/topic/8XXZOzHcqqh",
+          "publishedOn": "2024-02-28T03:41:01.000Z",
+          "wordCount": 136,
+          "title": "高合正在接触长安汽车协商收购事项",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXWsgrQt0X",
+          "author": "界面",
+          "description": "M503航线自2月1日起取消自北向南飞行时向西偏置限制，优化运行一个多月来，总体运行安全平稳，平均每天飞行65架次，充分证明航线的安全性和可靠性。优化运行有利于改善两岸航班运营，便利两岸人员往来，符合两岸同胞共同利益。同时，W122、W123衔接航线由西向东运行的相关准备工作正在积极推进。\n   \n媒体报道\n  \n国台办：春节期间“小三通”航线共运行580航次、运送旅客98695人次新浪科技/界面\n  \n国台办：M503航线优化运行有利于改善两岸航班运营界面/财联社",
+          "link": "https://readhub.cn/topic/8XXWsgrQt0X",
+          "publishedOn": "2024-02-28T03:31:22.000Z",
+          "wordCount": 163,
+          "title": "国台办：M503航线优化运行有利于改善两岸航班运营",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XXWCvSHBb9",
+          "author": "财联社",
+          "description": "香港楼市政策将放宽，取消买家印花税和新住宅印花税。同时，预算案宣布增加烟草税，已是连续第二年提高。\n   \n媒体报道\n  \n香港将取消部分购房印花税并提高烟草税财联社\n  \n港媒：香港将取消部分购房印花税并提高烟草税华尔街见闻\n  \n香港政府称将全面撤销所有楼市需求管理措施 包括取消买家印花税、额外印花税等财联社\n  \n香港将取消部分购房印花税，提高烟草税新浪科技",
+          "link": "https://readhub.cn/topic/8XXWCvSHBb9",
+          "publishedOn": "2024-02-28T03:25:44.000Z",
+          "wordCount": 130,
+          "title": "香港将取消部分购房印花税，提高烟草税",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8XXKkAGPwX9",
           "author": "界面",
           "description": "碧桂园公告称，Ever Credit Limited于2024年2月27日向香港高等法院提出对公司清盘的申请。公司将会全力反对这一申请，目前高等法院尚未颁布清盘令，首次聆讯定于2024年5月17日。\n   \n媒体报道\n  \n碧桂园：Ever Credit向法院提出清盘呈请，公司极力反对华尔街见闻\n  \n碧桂园：Ever Credit向香港高等法院提出对公司的清盘呈请，公司将极力反对新浪科技/界面\n  \n碧桂园：Ever Credit提出对公司的清盘呈请财联社",
@@ -2010,66 +2310,6 @@
           "publishedOn": "2024-02-25T23:45:49.000Z",
           "wordCount": 139,
           "title": "贾跃亭朋友圈评论高合汽车：“行业的耻辱”",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XSHkjFpGVe",
-          "author": "新浪科技",
-          "description": "茶百道更新港股招股书，披露截至2024年2月18日的财务数据和业务进展。公司在中国大陆的门店数量逼近8000家，覆盖所有省份及各级城市。2023年总零售额约169亿元，收入同比增长34.8%至57.04亿元，市场份额提升至6.8%。\n   \n媒体报道\n  \n茶百道更新招股书：门店增至7800家，单店盈利能力却在下滑……新浪科技\n  \n茶百道更新招股书：去年营收同比增长超三成，门店数量逼近8000家新浪科技\n  \n新股消息 | 茶百道递表港交所主板 在中国现制茶饮店市场中排名第三智通财经",
-          "link": "https://readhub.cn/topic/8XSHkjFpGVe",
-          "publishedOn": "2024-02-25T17:48:41.000Z",
-          "wordCount": 214,
-          "title": "茶百道更新招股书：去年营收同比增长超三成，门店数量逼近8000家",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XT9hVCtmCd",
-          "author": "雷锋网",
-          "description": "元宵节当天成为龙年以来出行热度最高日，打车需求较去年上涨40%，美食、商圈等夜间需求上涨47%。北京、广州等十大城市为热门夜游地。灯会等活动吸引游客，相关打车需求涨幅超100%，北京温榆千灯会等地需求涨幅超10倍。滑雪场打车需求上涨20%，95后占比45%。滴滴在200多座城市推出司机免佣及用户立减等活动。\n   \n媒体报道\n  \n元宵节滴滴打车需求上涨40%，这几座城市为热门夜游城市凤凰科技\n  \n滴滴：元宵节打车需求上涨40%，休闲娱乐场景的夜间打车需求上涨47%新浪科技\n  \n元宵节打车需求上涨40%，滴滴上线多重司乘奖励和保障车队助力假期出行雷锋网",
-          "link": "https://readhub.cn/topic/8XT9hVCtmCd",
-          "publishedOn": "2024-02-25T17:48:23.000Z",
-          "wordCount": 197,
-          "title": "滴滴：元宵节打车需求上涨40%，休闲娱乐场景的夜间打车需求上涨47%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XRRZRuWm0r",
-          "author": "和讯网",
-          "description": "2023年，海信系电视全球出货量达2611万台，排名全球第二，同比增长6.4%，连续两年成为全球TOP5品牌中增长最快的品牌。在海外市场，海信系电视出货同比增长13.9%。在中国市场，海信系电视零售量和零售额占有率均位居行业第一，98英寸及以上大屏市场量额占比双第一。\n   \n媒体报道\n  \n2023年全球电视出货量最新排名出炉，海信站稳全球第二和讯网\n  \n​海信系电视去年出货量2611万台，蝉联全球第二腾讯网\n  \n2023年全球电视出货量最新排名出炉 海信蝉联全球第二手机中国",
-          "link": "https://readhub.cn/topic/8XRRZRuWm0r",
-          "publishedOn": "2024-02-25T14:46:12.000Z",
-          "wordCount": 178,
-          "title": "​海信系电视去年出货量2611万台，蝉联全球第二",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XTELr7nYCn",
-          "author": "界面",
-          "description": "比亚迪仰望U9正式上市，售价为168万元。\n   \n媒体报道\n  \n比亚迪仰望U9正式上市，上市价格为168万元新浪科技/界面\n  \n比亚迪仰望U9上市 售价168万元华尔街见闻\n  \n比亚迪仰望U9发布上市 上市价格为168万元新浪科技\n  \n168 万元！仰望 U9 正式发布，比亚迪超跑真的来了爱范儿",
-          "link": "https://readhub.cn/topic/8XTELr7nYCn",
-          "publishedOn": "2024-02-25T14:40:42.000Z",
-          "wordCount": 269,
-          "title": "比亚迪仰望U9正式上市，上市价格为168万元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XTHZJ7FzK6",
-          "author": "财联社",
-          "description": "荣耀在巴塞罗那全球发布会上推出了首款AI PC——荣耀MagicBook Pro 16，实现了安卓与Windows平台的跨系统互联，提供8路业务并发，极大地提升了用户的多任务处理能力和效率。此外，该产品还具备平台级AI使能的跃级性能，与全球顶级合作伙伴合作，将AI技术融入硬件和软件中，满足用户的多样化需求。荣耀MagicBook Pro 16还配备了高清护眼屏和全球首款空间音频笔记本功能，为用户带来视觉和听觉上的全新体验。\n   \n媒体报道\n  \n荣耀首款 AI PC：MagicBook Pro 16 笔记本亮相，Win 阵营首发空间音频IT 之家\n  \n荣耀MagicBook Pro 16正式发布 开启AI PC全新时代搜狐科技\n  \n荣耀首款 AI PC：MagicBook Pro 16 笔记本亮相，支持空间音频搜狐科技\n  \n荣耀在NWC2024发布首款AI 笔记本财联社",
-          "link": "https://readhub.cn/topic/8XTHZJ7FzK6",
-          "publishedOn": "2024-02-25T13:51:18.000Z",
-          "wordCount": 411,
-          "title": "荣耀MagicBook Pro 16正式发布 开启AI PC全新时代",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XT8H72XoeH",
-          "author": "界面",
-          "description": "2024年2月19日至2月25日，上海、深圳和北京三家交易所中，有两家拟IPO企业宣布终止审核，分别是宁波博菱电器股份有限公司和福建森达电气股份有限公司。博菱电器主营厨房小家电，依赖单一客户Capital Brands，但在Capital Brands被德龙收购后，合作关系出现不确定性。森达电气主要从事输配电及控制设备产品的研发、生产和销售，因关联交易和财务信息问题受到交易所问询。两家公司均选择终止IPO申请，博菱电器股票在新三板复牌，而森达电气在实控人变更后再次尝试IPO。\n   \n媒体报道\n  \nIPO周报：龙年首周两家企业终止审核，森达电气两度闯关失利腾讯网/新浪科技\n  \n熬过北交所三轮问询，森达电气最终撤回上市申请界面",
-          "link": "https://readhub.cn/topic/8XT8H72XoeH",
-          "publishedOn": "2024-02-25T13:30:53.000Z",
-          "wordCount": 210,
-          "title": "IPO周报：龙年首周两家企业终止审核，森达电气两度闯关失利",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
