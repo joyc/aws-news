@@ -2,10 +2,310 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-02T00:32:07.895Z</updated>
+    <updated>2024-03-02T06:09:41.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神舟十七号航天员乘组近日择机实施第二次出舱活动]]></title>
+        <id>readhub-8XbIDEX5A5a</id>
+        <link href="https://readhub.cn/topic/8XbIDEX5A5a"/>
+        <updated>2024-03-02T05:55:46.000Z</updated>
+        <summary type="html"><![CDATA[神舟十七号航天员乘组计划进行第二次出舱活动，已完成多项训练和准备工作。自首次出舱活动成功以来，航天员们在机械臂操作、应急演练、实验机柜调试等方面取得进展，空间科学实验项目稳步实施。目前，航天员乘组状态良好，空间站运行稳定。神舟十七号载人飞船成功发射，航天员乘组已入住“天宫”，并与神舟十六号航天员乘组会师。神舟十七号航天员乘组由汤洪波、唐胜杰、江新林组成，汤洪波担任指令长。
+   
+媒体报道
+  
+神十七乘组完成第 2 次出舱，首次完成在轨航天器舱外设施的维修任务IT 之家
+  
+神舟十七号航天员乘组将于近日择机实施第二次出舱活动中国证券网
+  
+神舟十七号航天员乘组近日择机实施第二次出舱活动IT 之家
+  
+神舟十七号航天员乘组圆满完成第二次出舱活动 首次完成舱外维修任务财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新“自毁”机制演示：检测到入侵，提高电压直接短路]]></title>
+        <id>readhub-8XccOys9oM5</id>
+        <link href="https://readhub.cn/topic/8XccOys9oM5"/>
+        <updated>2024-03-02T04:51:18.000Z</updated>
+        <summary type="html"><![CDATA[科研团队展示了全新的自毁机制，一旦检测到攻击自动失去硬件作用。该机制结合物理不可克隆函数（PUF），在检测到可疑或入侵行为时，自动提高电路上的工作电压，引发电迁移形成短路。此外，这项技术还能有效防止假冒芯片充斥市场。
+   
+媒体报道
+  
+给电路装上“保险丝”，新“自毁”机制演示：检测到入侵，提高电压直接短路凤凰科技/IT 之家
+  
+新“自毁”机制演示：检测到入侵，提高电压直接短路搜狐科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国政协常委、赛力斯集团董事长张兴海：建议成立国家级终端消费信贷金融平台]]></title>
+        <id>readhub-8XcQabOgLfd</id>
+        <link href="https://readhub.cn/topic/8XcQabOgLfd"/>
+        <updated>2024-03-02T04:30:51.000Z</updated>
+        <summary type="html"><![CDATA[全国政协常委张兴海在2024全国两会上提出多项关于新能源汽车产业的提案，包括培育全链条人才、提升供应链企业集成化支持、以及应对内外部不利因素维持新能源汽车高速出海。他建议推动汽车碳足迹核算标准的国际互认，特别是与欧盟的合作，为新能源汽车出口欧洲提供支持。深入调研有潜力积极出海的零部件企业。成立国家级终端消费信贷金融平台，为出海的自主车企提供信贷资金及贷款服务支持。
+   
+媒体报道
+  
+全国政协常委、赛力斯集团董事长（创始人）张兴海：建议成立国家级终端消费信贷金融平台财联社
+  
+全国政协常委、赛力斯集团董事长张兴海：建议成立国家级终端消费信贷金融平台界面
+  
+全国政协常委、全国工商联副主席、赛力斯集团董事长张兴海：鼓励优质供应链出海，发挥中国汽车业综合竞争力证券时报网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国电动车商Fisker据悉正与日产汽车谈判寻求注资]]></title>
+        <id>readhub-8Xc1a21Hhn9</id>
+        <link href="https://readhub.cn/topic/8Xc1a21Hhn9"/>
+        <updated>2024-03-02T04:05:52.000Z</updated>
+        <summary type="html"><![CDATA[美国电动汽车制造商Fisker正与日产汽车及另一家大型汽车制造商谈判，寻求注资。此前Fisker表示计划裁员15%，并警告现有资本可能不足以支持未来12个月的发展。
+   
+媒体报道
+  
+日产汽车和美国电动汽车生产商Fisker正在就合作事宜进行深入谈判财联社
+  
+美国电动车商Fisker据悉正与日产汽车谈判寻求注资DoNews/界面/手机中国/凤凰科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit计划IPO价格区间在每股31-34美元]]></title>
+        <id>readhub-8Xc30bNNJET</id>
+        <link href="https://readhub.cn/topic/8Xc30bNNJET"/>
+        <updated>2024-03-02T04:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Reddit预计其IPO价格区间在每股31-34美元，寻求达到65亿美元的估值，并计划让部分员工在IPO时出售股票。
+   
+媒体报道
+  
+Reddit计划IPO价格区间在每股31-34美元财联社
+  
+Reddit的IPO价格区间据悉在每股31-34美元，估值最高达65亿美元界面
+  
+据悉Reddit的IPO价格区间在每股31-34美元 估值最高达65亿美元新浪科技
+  
+Reddit IPO估值降至65亿美元 与2021年高峰相比几近腰斩智通财经]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司将Apple Card储蓄账号余额上限提升至100万美元]]></title>
+        <id>readhub-8XcCfNPROsO</id>
+        <link href="https://readhub.cn/topic/8XcCfNPROsO"/>
+        <updated>2024-03-02T04:00:45.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司将其Apple Card Savings Account的余额上限从25万美元提高至100万美元，并已通知相关用户。新协议下，Savings Account的最高余额限额为1000000美元。投资者在做出任何投资决定前应考虑相关风险，并在必要时咨询专业投资顾问。和讯不能证实上述内容的真实性、准确性和原创性。
+   
+媒体报道
+  
+年利率4.5%，苹果调整Apple Card高收益储蓄账户：余额上限至100万美元凤凰科技
+  
+年利率 4.5%，苹果调整 Apple Card 高收益储蓄账户：余额上限至 100 万美元IT 之家
+  
+苹果公司将Apple Card储蓄账号余额上限提升至100万美元和讯网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长安汽车回应“车辆刚出4S店自燃”：不实，曾发生追尾事故]]></title>
+        <id>readhub-8XcWJOQlNHI</id>
+        <link href="https://readhub.cn/topic/8XcWJOQlNHI"/>
+        <updated>2024-03-02T03:45:58.000Z</updated>
+        <summary type="html"><![CDATA[长安汽车发布声明，针对部分网络媒体不实报道一起用户车辆事件。声明指出，用户车辆在发生追尾事故后未进行安全检测，继续行驶中在江苏省无锡市起火，经查起火位置与追尾受损区域相关。长安汽车已与用户联系并协助处理，同时配合相关部门进行事故调查，对不实报道保留追究法律责任的权利。
+   
+媒体报道
+  
+长安汽车回应“车辆刚出4S店自燃”：报道不实，正配合开展事故调查界面
+  
+长安汽车回应“车辆刚出 4S 店自燃”：报道不实，正配合开展事故调查IT 之家
+  
+长安汽车回应“车辆刚出4S店自燃”：不实，曾发生追尾事故腾讯网]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国东航第五架 C919 国产大飞机交付入列]]></title>
+        <id>readhub-8XcUt9qnS5Q</id>
+        <link href="https://readhub.cn/topic/8XcUt9qnS5Q"/>
+        <updated>2024-03-02T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[东航接收第五架C919国产大飞机，该飞机于9时30分从上海浦东国际机场起飞，9时51分抵达上海虹桥国际机场。东航已与中国商用飞机有限责任公司签订购买100架C919飞机的协议，计划于2024年至2031年间分批交付。
+   
+媒体报道
+  
+东航第五架C919大飞机交付入列界面/财联社
+  
+中国东航第五架 C919 国产大飞机交付入列IT 之家]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国政协委员、吉利控股董事长李书福：建议建立汽车行业统一产品碳足迹管理体系]]></title>
+        <id>readhub-8XbQ3v9KRCg</id>
+        <link href="https://readhub.cn/topic/8XbQ3v9KRCg"/>
+        <updated>2024-03-02T03:01:05.000Z</updated>
+        <summary type="html"><![CDATA[吉利控股董事长李书福建议我国建立汽车行业统一的产品碳足迹管理体系，以应对欧美国家的碳贸易壁垒，扩大我国汽车产品的出口优势。他还在2024全国两会上提出了促进碳减排体系与积分办法衔接、加快出台重点行业碳减排扶持政策、推进全国碳市场建设等提案。
+   
+媒体报道
+  
+李书福两会提案出炉：夯实碳市场基础，推动汽车产业实现“双碳”目标新浪科技
+  
+全国政协委员、吉利控股集团董事长李书福：建议建立统一碳足迹管理体系，推动汽车产业实现“双碳”目标证券时报网
+  
+全国政协委员李书福：国际“碳壁垒”渐近，建议推动汽车产业率先实现双碳目标腾讯网
+  
+全国政协委员、吉利控股董事长李书福：建议建立汽车行业统一产品碳足迹管理体系财联社]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇瑞集团：2月份销售汽车143155辆 同比增长37.8%]]></title>
+        <id>readhub-8XcTSL1046k</id>
+        <link href="https://readhub.cn/topic/8XcTSL1046k"/>
+        <updated>2024-03-02T02:51:14.000Z</updated>
+        <summary type="html"><![CDATA[奇瑞控股集团2月份汽车销售量同比增长37.8%，达到143,155辆，1至2月累计销售量同比增长69.5%，为348,019辆。
+   
+媒体报道
+  
+奇瑞集团：2月份销售汽车143155辆，同比增长37.8%界面
+  
+奇瑞集团2月汽车销量14.3万辆，同比增长37.8%凤凰科技
+  
+奇瑞集团 2 月汽车销量 14.3 万辆，同比增长 37.8%IT 之家
+  
+奇瑞集团：2月份销售汽车143155辆 同比增长37.8%财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo X Fold3 折叠屏手机通过 3C 认证，支持 80W 充电]]></title>
+        <id>readhub-8XcTogjHtWW</id>
+        <link href="https://readhub.cn/topic/8XcTogjHtWW"/>
+        <updated>2024-03-02T02:46:01.000Z</updated>
+        <summary type="html"><![CDATA[vivo V2303A型号手机已通过3C认证，预计为vivo X Fold3折叠屏手机，支持80W充电功率。此前型号为V2337A的手机通过3C认证，预计为vivo X Fold3 Pro，配备120W充电器。vivo X Fold3系列预计搭载不同版本的骁龙8 Gen处理器，具有升级的屏幕分辨率、超大电池、50Mp主摄以及轻薄设计。Pro版可能独占潜望长焦镜头、超声波指纹和50W无线充电。系列外观线稿图已曝光。vivo X Fold2折叠屏手机于去年4月发布，起售价8999元，搭载骁龙8 Gen2处理器，配备8.03英寸主屏和6.53英寸副屏，支持超声波指纹解锁，采用4800mAh电池，支持120W有线充电与50W无线充电。
+   
+媒体报道
+  
+vivo X Fold3 折叠屏手机通过 3C 认证，支持 80W 充电搜狐科技/IT 之家
+  
+vivo X Fold3折叠屏手机通过3C认证，支持80W充电凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米官宣米家大吸力油烟机新品，3 月 4 日发布]]></title>
+        <id>readhub-8XbIv6CzAJl</id>
+        <link href="https://readhub.cn/topic/8XbIv6CzAJl"/>
+        <updated>2024-03-02T02:42:45.000Z</updated>
+        <summary type="html"><![CDATA[小米智能生态官方宣布将于3月4日发布新款米家大吸力油烟机，新品将注重颜值与空间的结合。目前市面上有两款类似的米家油烟机产品，分别是米家智能欧式吸油烟机S2和米家超薄低吸油烟机S1，预计新产品将在部分功能上进行升级。米家超薄低吸油烟机S1机身厚度为12cm，搭配纯平玻璃面板，具有30cm低空拢吸、1000Pa静压和25m3/min吸力等功能。米家智能欧式吸油烟机S2则专为爆炒厨房设计，具有23m3/min吸力和烟灶互联等功能。
+   
+媒体报道
+  
+小米官宣米家大吸力油烟机新品，3 月 4 日发布DoNews/搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34家公司联名要求欧盟对苹果公司进行制裁]]></title>
+        <id>readhub-8XcE64irqO2</id>
+        <link href="https://readhub.cn/topic/8XcE64irqO2"/>
+        <updated>2024-03-02T02:35:55.000Z</updated>
+        <summary type="html"><![CDATA[34家开发商和协会联名向欧盟委员会致信，对苹果公司提出的欧洲新规表达了不满，认为苹果的调整只是应对审查，不符合《数字市场法案》（DMA）的要求和目的。信中提到苹果公司计划的核心技术费、公证程序和开发者必须接受的条款给开发者带来了困难，并会“巩固苹果对数字市场的控制”。同时，苹果公司利用“毫无根据的隐私和安全担忧”限制用户选择，并设置障碍阻碍开发者。这些公司和协会敦促欧盟委员会对苹果采取行动，欧盟委员会的回应将成为DMA是否能有效服务欧洲公民和经济的关键。
+   
+媒体报道
+  
+Spotify、Epic 等 34 家公司和协会联名致信欧盟：苹果新规“戏耍”DMA 法规IT 之家
+  
+34家公司联名要求欧盟对苹果公司进行制裁凤凰科技
+  
+Spotify、Epic等34家公司和协会联名致信欧盟：苹果新规“戏耍”DMA法规凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 替代人工编辑首战失败，维基百科不再视 CNET 媒体为可靠信源]]></title>
+        <id>readhub-8XcOp9ngNek</id>
+        <link href="https://readhub.cn/topic/8XcOp9ngNek"/>
+        <updated>2024-03-02T02:05:49.000Z</updated>
+        <summary type="html"><![CDATA[CNET是一家专注于科技新闻的美国媒体公司，曾在互联网上活跃并曾是纳斯达克上市公司。2008年被CBS收购，2020年转手给数字营销公司Red Ventures。2022年，CNET开始使用人工智能撰写文章，但由于文章存在大量错误和抄袭问题，导致其信誉受损。维基百科甚至将其在这段时间内的内容标记为“普遍不可靠”。面对压力，CNET暂停了AI项目并进行了错误更正。此外，CNET还被指责为了提高搜索引擎排名而删除旧报道并使用互联网档案馆存档。这些事件引发了争议，公司决定在2023年1月终止使用人工智能。
+   
+媒体报道
+  
+AI替代人工编辑首战失败，维基百科不再视CNET媒体为可靠信源凤凰科技
+  
+AI 替代人工编辑首战失败，维基百科不再视 CNET 媒体为可靠信源搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行：外籍来华人员移动支付单笔交易额升至 5000 美元]]></title>
+        <id>readhub-8XcIkFOuO32</id>
+        <link href="https://readhub.cn/topic/8XcIkFOuO32"/>
+        <updated>2024-03-02T01:56:53.000Z</updated>
+        <summary type="html"><![CDATA[中国人民银行副行长张青松在国务院政策例行吹风会上表示，央行关注到外籍人士在中国遇到移动支付困难，问题主要体现为“不能用”、“不好用”和“不想用”。为改善此情况，央行指导支付机构推出便利措施，包括优化绑定境外银行卡流程、简化身份验证以及提高外籍人士移动支付的交易限额。同时，央行强调将严格执行《个人信息保护法》等法规，保护个人信息安全。
+   
+媒体报道
+  
+央行：外籍来华人员移动支付单笔交易额升至 5000 美元DoNews
+  
+最新部署！提高外籍来华人员移动支付限额，六大举措优化支付服务证券时报网]]></summary>
+        <author>
+            <name>证券时报网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗马尼亚拒绝华为参与5G网络建设，中国驻罗使馆：深表遗憾]]></title>
+        <id>readhub-8XcPAdxkCbZ</id>
+        <link href="https://readhub.cn/topic/8XcPAdxkCbZ"/>
+        <updated>2024-03-02T01:50:46.000Z</updated>
+        <summary type="html"><![CDATA[中国驻罗马尼亚大使馆对罗马尼亚政府拒绝华为参与5G网络建设的决定表示深表遗憾和严重关切。使馆强调，坚决反对以非技术标准或歧视性条款排除任何国家和企业，并呼吁罗马尼亚政府从长远利益出发，坚持公平、公正、非歧视原则，为中国企业在罗马尼亚的投资兴业营造良好环境。华为在罗马尼亚投资经营20年，遵守当地法律法规，保持着良好的网络安全记录，并为当地经济发展和就业创造了数千岗位。
+   
+媒体报道
+  
+罗马尼亚拒绝华为参与5G网络建设 中国驻罗使馆：深表遗憾，严重关切财联社
+  
+罗马尼亚拒绝华为参与5G网络建设，中国驻罗使馆：深表遗憾搜狐科技
+  
+罗马尼亚拒绝华为参与5G网络建设，中国驻罗使馆：深表遗憾，严重关切界面/搜狐科技]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广汽三菱重组完成工商变更]]></title>
+        <id>readhub-8XavTw5l9jh</id>
+        <link href="https://readhub.cn/topic/8XavTw5l9jh"/>
+        <updated>2024-03-02T01:25:50.000Z</updated>
+        <summary type="html"><![CDATA[广汽三菱汽车有限公司更名为湖南智享汽车管理有限公司，三菱自动车工业株式会社和三菱商事株式会社退出股东，现由广汽集团全资持股。公司经营范围扩大至新能源汽车整车销售和停车场服务。
+   
+媒体报道
+  
+广汽三菱企业名变更为湖南智享汽车管理有限公司 日方股东退出新浪科技
+  
+广汽三菱重组完成工商变更界面
+  
+广汽三菱更名湖南智享汽车，三菱已退出股东行列IT 之家
+  
+广汽三菱重组完成工商变更  广汽三菱更名智享汽车管理公司DoNews]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大众汽车 2023 年营收 3222.8 亿欧元，同比增长 15%，交付 924 万辆新车]]></title>
         <id>readhub-8XbcZX5VZUI</id>
@@ -3254,320 +3554,6 @@ Apple Watch新专利获批，表明苹果正探索更多交互手势凤凰科技
 百度：文心一言将在 2024 年贡献数十亿元的增量收入IT 之家]]></summary>
         <author>
             <name>新浪科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博主测试小米 Ultra 14 龙晶陶瓷后盖硬度，声称“6级出现划痕”]]></title>
-        <id>readhub-8XYEqqi0jfX</id>
-        <link href="https://readhub.cn/topic/8XYEqqi0jfX"/>
-        <updated>2024-02-28T16:41:07.000Z</updated>
-        <summary type="html"><![CDATA[小米14 Ultra手机的陶瓷版本后盖在硬度测试中表现不佳，博主“胜利文绉绉”发现其仅在6级硬度下就开始出现划痕，7级时划痕非常明显。该博主指出，这与一般氧化锆硬度在7.5左右的水平相去甚远，甚至与微晶玻璃的硬度相近。尽管龙晶陶瓷看起来和摸起来都像玻璃，但博主尚未完全确定其材质是否为玻璃，已预约实验室进行成分分析。
-   
-媒体报道
-  
-博主测试小米 Ultra 14 龙晶陶瓷后盖硬度，声称“6级出现划痕”搜狐科技
-  
-博主测试小米 Ultra 14 手机龙晶陶瓷后盖硬度，声称“6 级出现划痕、和玻璃似乎没区别”IT 之家
-  
-曝小米14 Ultra新配色已在路上：米粉集体呼唤白色陶瓷搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作业帮硬件发布两款新品学习机]]></title>
-        <id>readhub-8XY0DmFWHzy</id>
-        <link href="https://readhub.cn/topic/8XY0DmFWHzy"/>
-        <updated>2024-02-28T15:41:09.000Z</updated>
-        <summary type="html"><![CDATA[作业帮发布两款学习机新品：旗舰型X28金牌辅导学练版和性价比款P20。X28具备五大金牌辅导、五大金牌练习、类纸屏专用练习笔和13.7英寸护眼大屏等功能，P20则有全科作业批改、错题本功能和12英寸类纸屏。X28金牌辅导学练版售价5199元，P20首发价1999元，已全面开售。
-   
-媒体报道
-  
-从“拼”硬件到“拼”服务 作业帮硬件推两款新品学习机搜狐科技
-  
-作业帮新品学习机——价格1999元起，13.7英寸护眼学练大屏，更好的学习体验！搜狐科技
-  
-作业帮硬件发布两款新品学习机财经网]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米 14 Ultra 手机用户 3 月 27 日前可领专享权益礼包]]></title>
-        <id>readhub-8XYMhg3HTBU</id>
-        <link href="https://readhub.cn/topic/8XYMhg3HTBU"/>
-        <updated>2024-02-28T15:26:06.000Z</updated>
-        <summary type="html"><![CDATA[小米14 Ultra手机用户可在3月27日前在小米商城App领取专享权益礼包，包括200GB小米云空间月卡、WPS Office 30天权益包等。此外，用户还可享7折购买MiCare服务和8折小米专业影像印制服务。该手机采用经典三段式设计和全包裹式金属中框，提供陶瓷和素皮版本，搭载第三代骁龙8平台，配备LPDDR5X内存和UFS 4.0闪存，起售价6499元。
-   
-媒体报道
-  
-小米 14 Ultra 手机用户 3 月 27 日前可领专享权益礼包：含 200GB 云空间月卡、芒果 TV / QQ 音乐会员等IT 之家
-  
-小米 14 Ultra 手机用户 3 月 27 日前可领专享权益礼包搜狐科技
-  
-小米14 Ultra用户必看！教你领芒果TV、QQ音乐会员等官方福利搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[郭明錤：Vision Pro美国市场需求已大幅放缓 退货率无异常]]></title>
-        <id>readhub-8XYNlAvHsFe</id>
-        <link href="https://readhub.cn/topic/8XYNlAvHsFe"/>
-        <updated>2024-02-28T15:20:45.000Z</updated>
-        <summary type="html"><![CDATA[苹果Vision Pro在美国市场的需求大幅放缓，出货时间已缩短至3-5天。尽管销售初期需求旺盛，但随后快速下降。目前退货率低于1%，未发现异常。市场预期苹果将推出低价版和新规格机种，但相关项目尚未启动。新规格的Vision Pro可能要到2027年才会量产。
-   
-媒体报道
-  
-郭明錤：Vision Pro美国市场需求已大幅放缓 退货率无异常财联社
-  
-郭明錤：Vision Pro美国市场需求已大幅放缓，退货率无异常华尔街见闻]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电信、中国联通与GSMA共谋深化合作新篇章]]></title>
-        <id>readhub-8XYI3Q4FpgM</id>
-        <link href="https://readhub.cn/topic/8XYI3Q4FpgM"/>
-        <updated>2024-02-28T15:16:16.000Z</updated>
-        <summary type="html"><![CDATA[在2024世界移动通信大会期间，中国电信、中国联通与GSMA就5G-A/6G网络新技术的发展与合作进行了深入交流，并获得了对方的高度认可。双方在5G共建共享方面进行了大量技术创新，如大规模接入网共享、SA共享平滑演进等，确保了共享网络的稳定运行和高效运营。此外，双方还积极探索利用大数据、AI等前沿技术提升共享网络运营效率，并牵头编制了《4G/5G共享网络智慧共治白皮书》。未来，中国电信、中国联通和GSMA将继续加强合作，深入研究和完善5G-A技术以及5G融合应用标准，计划推动将共享网络融入6G愿景，为全球移动通信行业的可持续发展做出更多贡献。
-   
-媒体报道
-  
-中国电信、中国联通与GSMA计划推动将共享网络融入6G愿景搜狐科技
-  
-中国电信、中国联通与GSMA共谋深化合作新篇章DoNews]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股东所持部分股份被司法扣划，鸿博股份变更为无实控人]]></title>
-        <id>readhub-8XY7MIHpopt</id>
-        <link href="https://readhub.cn/topic/8XY7MIHpopt"/>
-        <updated>2024-02-28T15:01:10.000Z</updated>
-        <summary type="html"><![CDATA[鸿博股份公告，寓泰控股和辉熠贸易所持有的公司股份被司法扣划，导致公司无控股股东和实际控制人。公司表示，这不会影响其日常经营和独立性，将督促相关方及时履行信息披露义务。
-   
-媒体报道
-  
-鸿博股份(002229.SZ)：控股股东、实控人变更为无新浪科技
-  
-鸿博股份：股东所持部分股份被司法扣划 公司变更为无控股股东、实控人新浪科技
-  
-鸿博股份：控股股东及一致行动人所持1350.5万股被司法扣划 公司变更为无控股股东、无实控人新浪科技
-  
-鸿博股份：控股股东及一致行动人所持1350.5万股被司法扣划，公司变更为无控股股东、无实控人界面
-  
-股东所持部分股份被司法扣划，鸿博股份变更为无实控人腾讯网/新浪科技
-  
-鸿博股份：股东所持部分股份被司法扣划 公司控制权变更新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[唯品会2023年净利润同比增长28.9%至81亿元]]></title>
-        <id>readhub-8XY32vzPmxg</id>
-        <link href="https://readhub.cn/topic/8XY32vzPmxg"/>
-        <updated>2024-02-28T15:01:09.000Z</updated>
-        <summary type="html"><![CDATA[唯品会2023年四季度和全年财务报告显示，营收和净利润均实现增长，全年活跃客户数量也有所上升。四季度总净营收达347亿元，同比增长9.2%。净利润为30亿元，同比增长32.2%。GMV为664亿元，同比增长21.9%。全年总净营收为1129亿元，同比增长9.4%。净利润为81亿元，同比增长28.9%。GMV为2080亿元，同比增长18.7%。活跃客户数量达到8740万，同比增长3.9%。
-   
-媒体报道
-  
-唯品会单季利润30亿：创始人沈亚闷声发大财 获派息近3亿腾讯网
-  
-唯品会发布2023年业绩：净营收1129亿元同比增9.4%，穿戴销售表现强劲和讯网/猎云网/财经网/澎湃新闻
-  
-唯品会2023年净利润同比增长28.9%至81亿元界面
-  
-唯品会(VIPS.US)Q4业绩超预期 盘前涨超6%智通财经
-  
-​唯品会2023年净营收同比增长9.4%至1129亿元 将首次派发年度股息中国证券网
-  
-唯品会2023年净营收1129亿元同比增9.4%，全年业绩超预期新浪科技/亿欧/速途网
-  
-唯品会发布2023年业绩：净营收1129亿元同比增9.4%DoNews
-  
-唯品会第四季度营收347亿元 经调净利润32亿元新浪科技
-  
-唯品会年GMV首破2000亿，2024年计划多渠道获客腾讯网/新浪科技
-  
-唯品会去年闷声净赚81亿元，商品交易总额首破2000亿界面
-  
-唯品会发布2023年业绩：净营收1129亿元，同比增长9.4%凤凰科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抵押贷款利率超7% 美国上周购房需求接近1995年以来最低]]></title>
-        <id>readhub-8XYCN8opd01</id>
-        <link href="https://readhub.cn/topic/8XYCN8opd01"/>
-        <updated>2024-02-28T15:00:59.000Z</updated>
-        <summary type="html"><![CDATA[美国购房申请指标连续第五周下降，接近1995年以来的最低水平，原因是抵押贷款利率维持在7%以上。尽管年初抵押贷款利率低于7%，推动了1月新房和现房的销售，但美联储官员表示他们不急于降息，最近几周推高了住房融资成本。
-   
-媒体报道
-  
-抵押贷款利率超7%，美国上周购房需求接近1995年以来最低-36氪新浪科技
-  
-发消费券、提高公积金贷款额度……多地继续出台购房支持政策证券时报网
-  
-抵押贷款利率超7% 美国上周购房需求接近1995年以来最低新浪科技
-  
-高利率推高美国私人信贷违约风险 养老基金开始集体撤退华尔街见闻/新浪科技
-  
-抵押贷款利率居高不下 美国住房抵押贷款申请连续第五周下降智通财经]]></summary>
-        <author>
-            <name>智通财经</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇瑞iCAR 03将于今日上市 6款车型预售12.98万元起]]></title>
-        <id>readhub-8XXUkvvBJ8Z</id>
-        <link href="https://readhub.cn/topic/8XXUkvvBJ8Z"/>
-        <updated>2024-02-28T14:41:37.000Z</updated>
-        <summary type="html"><![CDATA[奇瑞旗下的iCAR品牌即将上市首款车型iCAR 03，共有6款车型，预售价格在12.98万至18.58万元之间。新车外观硬朗，配置丰富，动力提供后驱和四驱选择，续航里程可达501km。
-   
-媒体报道
-  
-10.98 万元起，奇瑞 iCAR 03 纯电 SUV 上市：联合腾讯定制车载微信IT 之家
-  
-奇瑞iCAR 03将于今日上市 6款车型预售12.98万元起手机中国
-  
-10.98万元起售，全铝电四驱，SUV领潮者iCAR 03正式上市！果壳科学人]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海网络安全产业规模突破260亿元 实现三年倍增]]></title>
-        <id>readhub-8XXvu4N1Av3</id>
-        <link href="https://readhub.cn/topic/8XXvu4N1Av3"/>
-        <updated>2024-02-28T14:01:20.000Z</updated>
-        <summary type="html"><![CDATA[上海市网络安全产业规模达到260亿元，三年实现翻倍，年复合增长率超过25%，推动了相关产业超过2500亿元的增长。
-   
-媒体报道
-  
-上海网络安全产业规模超260亿，正加快建设安全产业示范园澎湃新闻
-  
-上海网络安全产业规模突破260亿元 支持标杆企业上市融资证券时报网
-  
-上海网络安全产业规模突破260亿元 实现三年倍增财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魅族 21 Pro 手机配备“AI 灵动键”，一键唤醒 Aicy 语音助手“小溪”]]></title>
-        <id>readhub-8XXoPLFlIBN</id>
-        <link href="https://readhub.cn/topic/8XXoPLFlIBN"/>
-        <updated>2024-02-28T13:51:07.000Z</updated>
-        <summary type="html"><![CDATA[魅族21 Pro手机将于2月29日晚上7点发布，手机搭载了AI灵动键，可以一键呼出Aicy语音助手“小溪”。魅族还为魅族21手机推出了Flyme 10.5.0.1A稳定版系统，内置的语音助手小溪已经接入AI大模型，支持多种AI功能。该手机的配置包括高通骁龙8 Gen 3 SoC、6.79英寸2K OLED屏幕和支持80W有线快充的电池，售价从5299元起。
-   
-媒体报道
-  
-魅族 20/Pro 手机获推 Flyme 10.5.0.0A更新，语音助手接入大模型搜狐科技
-  
-魅族 20 / Pro 手机获推 Flyme 10.5.0.0A 系统更新，Aicy “小溪”语音助手接入大模型IT 之家
-  
-魅族 21 Pro 手机配备“AI 灵动键”，一键唤醒 Aicy 语音助手“小溪”IT 之家
-  
-魅族 21 手机获推 Flyme 10.5.0.1A 稳定版更新，语音助手接入 AI 大模型IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7连板国脉文化：公司主营业务中暂未涉及Sora业务]]></title>
-        <id>readhub-8XWT9AYuObe</id>
-        <link href="https://readhub.cn/topic/8XWT9AYuObe"/>
-        <updated>2024-02-28T13:30:51.000Z</updated>
-        <summary type="html"><![CDATA[国脉文化公告指出，公司主营业务未涉及Sora业务，且AIGC相关技术仅在内部试用，对业绩影响有限，发展存在不确定性。
-   
-媒体报道
-  
-7连板国脉文化：主营业务中暂未涉及Sora业务 AIGC相关技术仅初步在内部试用中新浪科技
-  
-国脉文化(600640.SH)：公司主营业务中暂未涉及Sora业务新浪科技
-  
-8连板国脉文化：主业中暂未涉及Sora业务，公司没有从事AI技术的基础研发工作界面
-  
-国脉文化：主营业务中暂未涉及Sora业务新浪科技
-  
-7连板国脉文化：公司主营业务中暂未涉及Sora业务腾讯网/财联社/新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必和必拓据悉启动全球业务重大重组 开始在澳大利亚裁员]]></title>
-        <id>readhub-8XXqB5K6hq6</id>
-        <link href="https://readhub.cn/topic/8XXqB5K6hq6"/>
-        <updated>2024-02-28T13:21:17.000Z</updated>
-        <summary type="html"><![CDATA[全球最大矿业公司必和必拓启动全球业务重大重组，涉及矿山规划、去碳化和遗产保护等部门，并在澳大利亚开始裁员。
-   
-媒体报道
-  
-必和必拓据悉启动全球业务重大重组 开始在澳大利亚裁员财联社
-  
-必和必拓(BHP.US)在全球重大重组中裁员 西澳大利亚镍业务已有数千人面临失业智通财经
-  
-必和必拓据悉启动全球业务重大重组，开始在澳大利亚裁员界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京彩嗨购节3月8日开启，京东将在沪新开6家城市旗舰店]]></title>
-        <id>readhub-8XXZSrw3y0J</id>
-        <link href="https://readhub.cn/topic/8XXZSrw3y0J"/>
-        <updated>2024-02-28T13:01:16.000Z</updated>
-        <summary type="html"><![CDATA[京东计划2024年在上海加速线下发展，新增6家城市旗舰店并选址京东MALL首店。3月8日至17日将举办首届京彩嗨购节，通过优惠活动满足消费者家装需求。上海作为超一线市场，京东已获得良好口碑，触达用户4000多万人次，成交顾客复购率近25%。活动聚焦新装、厨卫局改、以旧换新用户，提供高性价比套餐、千万京贴、套购满返等福利，并联动多家主流品牌。同时，举办线下体验活动，提供个性化家电家居方案。协会秘书长葛森表示，京东的线下门店将促进家电家居市场发展，并以京彩嗨购节推动消费市场增长。京东已在全国11城开设京东MALL和超级体验店，城市旗舰店总数超100家，提供一站式购物体验。
-   
-媒体报道
-  
-12点聊电商：京东3·8节大促正式开启:无预热期 跨店满减为满300元减40元亿邦动力网
-  
-京东3·8节大促正式开启:无预热期 跨店满减为满300元减40元亿邦动力网
-  
-京彩嗨购节3月8日开启，京东将在沪新开6家城市旗舰店腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年利润近百亿 法拉利却被曝拖欠中国摄影师费用]]></title>
-        <id>readhub-8XXrtKnwgG6</id>
-        <link href="https://readhub.cn/topic/8XXrtKnwgG6"/>
-        <updated>2024-02-28T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[法拉利北京初冬山谷之旅活动相册被打上维权标识，每张照片都附有“拖欠摄影师费用暂停展示”的水印。法拉利中国客服表示，公司正在与当事人沟通处理，并会提出处理方案。法拉利需要尽快解决这一纠纷，以维护品牌形象和声誉。
-   
-媒体报道
-  
-最贵车企也会遇到这种问题？法拉利被曝拖欠摄影师费用中关村在线
-  
-法拉利拖欠摄影师费用，车主高清有码图流出凤凰科技
-  
-一年利润近百亿 法拉利却被曝拖欠中国摄影师费用手机中国]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李彦宏：文心大模型推理成本已降低至原本的1%]]></title>
-        <id>readhub-8XYD2sEVood</id>
-        <link href="https://readhub.cn/topic/8XYD2sEVood"/>
-        <updated>2024-02-28T12:55:44.000Z</updated>
-        <summary type="html"><![CDATA[百度创始人李彦宏在财报电话会上透露，百度已将文心大模型的推理成本降低至去年3月版本的1%，持续优化人工智能技术。
-   
-媒体报道
-  
-李彦宏：文心大模型日调用量超5000万次财经网/财联社/新浪科技/界面
-  
-李彦宏：文心大模型推理成本已降低至原本的1%财联社/新浪科技]]></summary>
-        <author>
-            <name>界面</name>
         </author>
     </entry>
     <entry>
