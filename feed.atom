@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-01T18:09:41.948Z</updated>
+    <updated>2024-03-02T00:32:07.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大众汽车 2023 年营收 3222.8 亿欧元，同比增长 15%，交付 924 万辆新车]]></title>
+        <id>readhub-8XbcZX5VZUI</id>
+        <link href="https://readhub.cn/topic/8XbcZX5VZUI"/>
+        <updated>2024-03-02T00:30:42.000Z</updated>
+        <summary type="html"><![CDATA[大众汽车集团公布2023年业绩，全年营收约2.51万亿元人民币，同比增长15%。营业利润约1759亿元人民币，同比增长2.1%。纯电动汽车交付量增长35%，市场份额提升至8.3%。集团预计2024年销售收入增长5%，营业销售回报率在7.0%至7.5%之间。面临挑战包括经济形势、竞争加剧、大宗商品和能源价格波动等。
+   
+媒体报道
+  
+大众汽车2023全年营收初步数据3222.8亿欧元财联社
+  
+大众汽车2023年调整后营业利润初步数据为225.8亿欧元，高于预估界面
+  
+汽车早报 | 比亚迪2月销量12.23万辆 大众2023年营业利润或高于预估界面
+  
+大众汽车 2023 年营收 3222.8 亿欧元，同比增长 15%，交付 924 万辆新车IT 之家]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTI原油期货结算价收涨2.19%]]></title>
+        <id>readhub-8XcGc7hcoPM</id>
+        <link href="https://readhub.cn/topic/8XcGc7hcoPM"/>
+        <updated>2024-03-02T00:30:41.000Z</updated>
+        <summary type="html"><![CDATA[WTI原油期货结算价上涨2.19%至79.97美元/桶，布伦特原油期货结算价涨幅2%至83.55美元/桶。
+   
+媒体报道
+  
+美油期货价格近四个月首次突破80美元 美、布油均连续第二个月上涨智通财经
+  
+WTI油价破80美元/桶关口和讯网
+  
+WTI原油期货结算价收涨2.19%界面]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase称客户遇到的“交易性能下降”等问题已解决]]></title>
+        <id>readhub-8XcESMzhJyy</id>
+        <link href="https://readhub.cn/topic/8XcESMzhJyy"/>
+        <updated>2024-03-02T00:25:48.000Z</updated>
+        <summary type="html"><![CDATA[数字货币交易所Coinbase在当地时间3月1日表示，客户可能遇到发送、取款或存款失败以及交易性能下降的问题，但随后又称该问题已经解决。
+   
+媒体报道
+  
+Coinbase称客户遇到的“交易性能下降”等问题已解决界面
+  
+Coinbase称客户遇到问题财联社
+  
+Coinbase：网站存取款交易失败问题已解决，用户资金安全Odaily]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天涯社区公布重启进度：5月1日前恢复访问]]></title>
+        <id>readhub-8XcIl7EjWZr</id>
+        <link href="https://readhub.cn/topic/8XcIl7EjWZr"/>
+        <updated>2024-03-02T00:21:02.000Z</updated>
+        <summary type="html"><![CDATA[天涯社区，被誉为中文互联网鼻祖，自去年4月1日暂停访问至今。在社区25周年之际，官方宣布将在确保数据安全合规的前提下，通过引入战略投资、恢复广告业务等措施，筹措资金，力争在5月1日前恢复访问。同时，天涯计划启用新的国际域名，加强面向海外华人的中文网络社区服务，并打造以天涯社区原始域名为品牌的全球旅行与时尚消费社交平台，提供会员制电商服务。官方强调，近日备受关注的破产申请仅为员工欠薪案件引起的正常法律诉讼，不会对天涯重启构成实质性的影响。天涯社区自1999年创立以来，曾红极一时，承载了众多70后、80后的青春回忆，至今仍有许多神贴、段子、语录等源自该社区。
+   
+媒体报道
+  
+天涯社区：拟5月1日前恢复访问 将启用新国际域名、推出会员制电商服务财联社
+  
+天涯社区公布重启进展：预计 5 月 1 日前恢复访问，提供会员制电商服务IT 之家
+  
+天涯社区公布重启进度：5月1日前恢复访问凤凰科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发者和机构强烈反对后，苹果撤销“欧洲削弱 PWA 应用”计划]]></title>
+        <id>readhub-8XcJ75DoOon</id>
+        <link href="https://readhub.cn/topic/8XcJ75DoOon"/>
+        <updated>2024-03-02T00:15:58.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司撤回了其在欧洲市场削弱 Progressive Web App（PWA）应用程序的计划。该计划受到了用户、开发者和机构的强烈反对。苹果表示，将继续在欧盟提供现有的 Home Screen 网页应用功能，允许开发者基于 WebKit 及其安全架构构建这些应用，确保其与 iOS 原生应用程序的安全和隐私模式一致。此决定是为了遵守欧盟的 DMA 法规，并解决了支持和实现替代浏览器引擎所需的新的集成架构问题。
+   
+媒体报道
+  
+用户、开发者和机构强烈反对后，苹果撤销“在欧洲削弱 PWA 应用”计划IT 之家
+  
+开发者和机构强烈反对后，苹果撤销“欧洲削弱 PWA 应用”计划搜狐科技
+  
+用户、开发者和机构强烈反对后，苹果撤销“在欧洲削弱PWA应用”计划凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长安汽车旗下首款超级增程皮卡“长安猎手”上市，13.99 万元起]]></title>
+        <id>readhub-8XbLm9cBHYe</id>
+        <link href="https://readhub.cn/topic/8XbLm9cBHYe"/>
+        <updated>2024-03-02T00:01:20.000Z</updated>
+        <summary type="html"><![CDATA[长安猎手皮卡宣布正式上市，售价区间为13.99-21.69万元，搭载长安超级增程动力，是全球首款增程皮卡，纯电续航180km，综合续航1031km。车型提供长箱版和标准版，配备防滚架、轮圈等配件，具有毫秒级全场景越野切换能力。新车搭载2.0T蓝鲸增程器+双电机，两驱版和四驱版百公里加速分别为7.9秒，支持移动放电功能。
+   
+媒体报道
+  
+13.99万起，全球首款超级增程皮卡！长安猎手能让你户外连涮5天火锅凤凰科技
+  
+长安汽车旗下首款超级增程皮卡“长安猎手”上市，13.99 万元起IT 之家
+  
+价格绝对OK，13.99万元起，全球首款超级增程皮卡长安猎手正式上市果壳科学人]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发布 18 周年，全黑版苹果 iPod Hi-Fi 原型机曝光]]></title>
+        <id>readhub-8XbQS01l4FL</id>
+        <link href="https://readhub.cn/topic/8XbQS01l4FL"/>
+        <updated>2024-03-02T00:00:59.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司在18年前推出了iPod Hi-Fi产品，但停产仅相隔554天。这款产品被设计为一体化便携式音响，可连接电源插座或使用六节D型电池。它有30针基座接口和3.5毫米辅助输入接口，并提供黑色和白色撞色设计。前苹果员工展示了罕见的全黑色版本，透露当时黑色原型机很少被人所知。
+   
+媒体报道
+  
+发布18周年，全黑版苹果iPod Hi-Fi原型机曝光凤凰科技
+  
+发布 18 周年，全黑版苹果 iPod Hi-Fi 原型机曝光搜狐科技/IT 之家
+  
+苹果iPod Hi-Fi发布18周年，仅上市554天宣告停产搜狐科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏丹一电信公司宣布恢复在部分地区的通信和互联网业务]]></title>
+        <id>readhub-8Xc1wQR2rwU</id>
+        <link href="https://readhub.cn/topic/8Xc1wQR2rwU"/>
+        <updated>2024-03-01T23:41:01.000Z</updated>
+        <summary type="html"><![CDATA[苏丹电信公司Zain宣布，将在苏丹东部和中部的多个州逐步恢复通信和互联网业务，原因是安装了新的交换机。不过，首都喀土穆和杰济拉州等地区的服务仍未恢复。
+   
+媒体报道
+  
+苏丹一电信公司宣布恢复在部分地区的通信和互联网业务界面/搜狐科技/财联社]]></summary>
+        <author>
+            <name>界面</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中企获世界移动通信大会多项大奖]]></title>
+        <id>readhub-8XbAhmqWFph</id>
+        <link href="https://readhub.cn/topic/8XbAhmqWFph"/>
+        <updated>2024-03-01T23:11:12.000Z</updated>
+        <summary type="html"><![CDATA[2024年世界移动通信大会在西班牙巴塞罗那闭幕，中国企业荣获多项大奖，包括华为的RAN数字孪生系统方案、绿色天线系列产品以及“0 Bit 0 Watt”节能解决方案等，中国联通、国家电网、鼎桥通信等企业的普惠5G智能电网解决方案也获奖。此外，中国联通广东的5G直播服务以及武钢、中兴通讯等的“5G全连接智能钢厂”方案也荣获相应奖项。本届大会共有来自205个国家和地区的10万多名与会者，展示了移动生态系统的活力。
+   
+媒体报道
+  
+中企获世界移动通信大会多项大奖搜狐科技/腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国WTI原油周四收跌0.4% 2月上涨3.4%]]></title>
         <id>readhub-8XaO77nXZMI</id>
@@ -3412,558 +3568,6 @@ Apple Watch新专利获批，表明苹果正探索更多交互手势凤凰科技
 李彦宏：文心大模型推理成本已降低至原本的1%财联社/新浪科技]]></summary>
         <author>
             <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌CEO内部信：AI大模型翻车“不可接受” 将全面纠正错误（附全文）]]></title>
-        <id>readhub-8XXyQ1XZAyO</id>
-        <link href="https://readhub.cn/topic/8XXyQ1XZAyO"/>
-        <updated>2024-02-28T12:16:13.000Z</updated>
-        <summary type="html"><![CDATA[谷歌CEO桑达尔·皮查伊针对Gemini人工智能产品生成人物图片的问题进行了回应，称其“完全不可接受”，并已部署团队进行问题修正和产品改革。Gemini是谷歌最大的多模态人工智能模型，上周因生成的人物图片存在偏见而遭到批评。皮查伊强调将进行结构性改革，更新产品指南，改进发布流程，并建立强有力的评估体系，以防止类似事件再次发生。同时，他鼓励团队集中精力，打造用户信任的有用产品。
-   
-媒体报道
-  
-谷歌CEO内部信：AI大模型翻车“不可接受” 将全面纠正错误​（附全文）搜狐科技
-  
-谷歌CEO内部信：AI大模型翻车“不可接受” 将全面纠正错误（附全文）腾讯网
-  
-谷歌AI模型屡次“翻车”，CEO内部反思：这样错误完全不可接受腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[司法部谈“不当罚款”：各级行政机关要坚持依法行政]]></title>
-        <id>readhub-8XXvCsLK6xW</id>
-        <link href="https://readhub.cn/topic/8XXvCsLK6xW"/>
-        <updated>2024-02-28T12:06:05.000Z</updated>
-        <summary type="html"><![CDATA[《国务院关于进一步规范和监督罚款设定与实施的指导意见》要求罚款合法适当，禁止随意罚款和过罚不当。指导意见强调不得随意设定高额罚款，不得降低违法行为认定门槛，不得随意扩大违法行为范围。严禁逐利罚款和对已超过法定追责期限的违法行为给予罚款。要制定行政裁量权基准，优化管理措施，深入开展源头治理，加大通报和曝光力度。对执法类电子技术监控设备进行清理规范，并建立监控设备新增情况年度报告制度。
-   
-媒体报道
-  
-司法部：民营经济立法工作全面启动，将加快推进立法进程腾讯网
-  
-司法部副部长胡卫列：将推动罚款事项清理工作常态化中国证券网
-  
-司法部谈“不当罚款”：各级行政机关要坚持依法行政界面
-  
-司法部：罚款不能随意，不能小错重罚、大错轻罚澎湃新闻]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美媒测算：拜登在美国2024年总统选举密歇根州民主党初选中胜出]]></title>
-        <id>readhub-8XXU1SqGaTE</id>
-        <link href="https://readhub.cn/topic/8XXU1SqGaTE"/>
-        <updated>2024-02-28T12:01:06.000Z</updated>
-        <summary type="html"><![CDATA[美国总统拜登和前总统特朗普分别赢得2024年总统选举密歇根州民主党和共和党初选。
-   
-媒体报道
-  
-媒体预测：拜登在美国2024年总统选举密歇根州民主党初选中获胜，特朗普赢下该州共和党初选界面
-  
-新华社快讯：据美国媒体测算，拜登在美国2024年总统选举密歇根州民主党初选中胜出，特朗普赢下该州共和党初选。中国证券网
-  
-美国大选关键摇摆州初选结果出炉，拜登和特朗普都赢了腾讯网
-  
-美媒测算：拜登在美国2024年总统选举密歇根州民主党初选中胜出腾讯网]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺：第四季度营收77亿元，同比增长1%]]></title>
-        <id>readhub-8XXxKK7ePSI</id>
-        <link href="https://readhub.cn/topic/8XXxKK7ePSI"/>
-        <updated>2024-02-28T11:19:40.000Z</updated>
-        <summary type="html"><![CDATA[爱奇艺在2023年第四季度实现营收77亿元，同比增长1%。全年总收入达到319亿元，同比增长10%。
-   
-媒体报道
-  
-爱奇艺：2023年总营收319亿元，多项核心指标均创历史最佳鸟哥笔记
-  
-爱奇艺2023年营收319亿：non-GAPP运营利润36亿 同比增68%腾讯网
-  
-爱奇艺(IQ.US)2023Q4及全年财报：创最佳财年业绩 核心财务指标均创新高智通财经
-  
-爱奇艺2023Q4及全年财报：创最佳财年业绩 核心财务指标均创新高财经网
-  
-爱奇艺2023年第四季度日均订阅会员数超过1亿界面
-  
-爱奇艺：去年四季度营收77亿元，同比增长1%腾讯网
-  
-爱奇艺财报：2023年Non-GAAP净利润28亿  四季度ARM创新高新浪科技
-  
-爱奇艺：第四季度营收77亿元，同比增长1%新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁集团联合武汉大学 推出 20 亿参数遥感基础模型]]></title>
-        <id>readhub-8XXSbVF6sfu</id>
-        <link href="https://readhub.cn/topic/8XXSbVF6sfu"/>
-        <updated>2024-02-28T11:02:02.000Z</updated>
-        <summary type="html"><![CDATA[蚂蚁集团与武汉大学联合研发的SkySense模型，是当前国际参数规模最大、覆盖任务最全、识别精度最高的多模态遥感基础模型，其性能在17项国际评测中均名列第一。该模型可应用于地貌、农作物观测和解译等多个领域，如监测森林植被健康度、野火监测与预估、作物生长周期评估等，对农业和金融等领域具有显著助力。
-   
-媒体报道
-  
-蚂蚁集团联合武汉大学 推出 20 亿参数遥感基础模型手机中国
-  
-蚂蚁百灵大模型推出20亿参数遥感模型 可用于地貌地物观测解译环球网科技
-  
-蚂蚁百灵大模型推出20亿参数遥感模型界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军：苹果用户选购智能电动车，小米SU7是最好选择]]></title>
-        <id>readhub-8XXz87poNoC</id>
-        <link href="https://readhub.cn/topic/8XXz87poNoC"/>
-        <updated>2024-02-28T11:01:45.000Z</updated>
-        <summary type="html"><![CDATA[小米公司创始人雷军在微博中表示，随着苹果公司退出造车领域，小米SU7成为了苹果用户购买智能电动车的最佳选择。
-   
-媒体报道
-  
-雷军：苹果用户选购智能电动车，小米SU7是最好选择搜狐科技
-  
-雷军称苹果用户选购小米汽车是最好选择 网友神评论手机中国
-  
-雷军：苹果用户选购智能电动车，小米SU7是最好的选择搜狐科技]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称苹果 iPhone 17 全系采用 LTPO 可变刷新率屏幕]]></title>
-        <id>readhub-8XXtloZJbEs</id>
-        <link href="https://readhub.cn/topic/8XXtloZJbEs"/>
-        <updated>2024-02-28T10:56:20.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 17系列可能会全部搭载LTPO可变刷新率屏幕，苹果将继续在高端Pro系列机型上采用该技术，而标准版机型可能仍使用LTPS屏幕。京东方正在向其他中国厂商供应LTPO屏幕，并期望能在iPhone 17系列上向苹果供应。但有声音担心京东方的LTPO技术可能不足，导致苹果可能会保留至少一款LTPS机型。业内人士预测，如果京东方技术不足，苹果会在所有四款iPhone 17系列上应用LTPO技术，以寻求差异化和支持ProMotion与常亮显示功能。此外，苹果还计划将入门级iPhone SE4和传统机型的OLED屏幕转向由京东方供应。
-   
-媒体报道
-  
-苹果史上第一次！曝iPhone 17全系支持高刷屏搜狐科技
-  
-消息称苹果 iPhone 17 全系采用 LTPO 可变刷新率屏幕搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海累计建成5G基站9.2万个，基站密度和占比均居全国第一]]></title>
-        <id>readhub-8XY0thD4prp</id>
-        <link href="https://readhub.cn/topic/8XY0thD4prp"/>
-        <updated>2024-02-28T10:51:31.000Z</updated>
-        <summary type="html"><![CDATA[上海市通信管理局发布《数说通信持续优化营商环境二十条》，显示2023年上海建成5G基站1.9万个，累计建成9.2万个，5G基站密度和占比全国第一。去年上海发布全国首个基于交换中心的算力调度交易平台，归拢通算、超算、智算资源超8000P。截至去年底，上海503个重点场所的5G信号覆盖率达到96.8%，全市1568个行政村实现5G和千兆光网全覆盖。
-   
-媒体报道
-  
-上海累计建成5G基站9.2万个 基站密度和占比均居全国第一搜狐科技/财联社
-  
-上海累计建成5G基站9.2万个，基站密度和占比均居全国第一搜狐科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为无线网络产品助力5G-A全球规模商用]]></title>
-        <id>readhub-8XXaqMKN0mQ</id>
-        <link href="https://readhub.cn/topic/8XXaqMKN0mQ"/>
-        <updated>2024-02-28T10:20:59.000Z</updated>
-        <summary type="html"><![CDATA[华为无线网络产品线副总裁兼首席营销官赵东在MWC24巴塞罗那活动中宣布，2024年标志着5G-A（增强型5G）商用元年的到来。华为的GigaGreen产品系列通过原生万兆、绿色和智能技术的创新，实现了网络能力的显著提升。5G-A将提供比现在更高的网络性能，实现万兆体验和千亿联接，并支持无源物联和内生智能。所有5G-A的基础要素已准备就绪，预计2024年上半年将冻结5G-A首个版本R18标准，同时多个运营商已在技术上开展5G-A商用验证。华为已准备好相应的商用产品和解决方案，助力运营商高效平滑地过渡到5G-A。
-   
-媒体报道
-  
-韩媒赞华为推进智能化！运营商迎来5.5G商用元年手机中国/搜狐科技
-  
-华为无线网络产品助力5G-A全球规模商用华尔街见闻]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格10多年来首次访问韩国，将会见多位科技企业负责人]]></title>
-        <id>readhub-8XXUlxFiVAj</id>
-        <link href="https://readhub.cn/topic/8XXUlxFiVAj"/>
-        <updated>2024-02-28T10:20:42.000Z</updated>
-        <summary type="html"><![CDATA[马克·扎克伯格本周访问韩国，将与三星电子、LG电子等企业负责人及多家XR初创公司会面，讨论在扩展现实（XR）、人工智能（AI）等领域的合作。此外，他还计划会见韩国总统尹锡悦。这是扎克伯格10多年来首次访问韩国。
-   
-媒体报道
-  
-扎克伯格“韩国行”首站成果：与LG电子联手 加速XR业务合作腾讯网
-  
-扎克伯格访韩国，今日据悉将会见韩扩展现实公司负责人和讯网
-  
-扎克伯格10多年来首次访问韩国，将会见多位科技企业负责人和讯网/新浪科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极氪林金文回应网曝围剿小米汽车：无稽之谈 尊重且敬畏小米汽车]]></title>
-        <id>readhub-8XXymFYytsv</id>
-        <link href="https://readhub.cn/topic/8XXymFYytsv"/>
-        <updated>2024-02-28T10:16:07.000Z</updated>
-        <summary type="html"><![CDATA[全新极氪001车型售价26.9万-32.9万，副总裁林金文在接受采访时谈及与小米汽车的关系，表示围剿小米汽车的说法是无稽之谈，对小米表示尊重和敬畏，认为小米在营销方面值得学习，而技术和产品定义能力则是极氪的优势。两款车型在电池容量和动力上差异不大，小米SU7采用800V碳化硅高压平台和CTB一体化电池技术，极氪001则采用高性能碳化硅电驱系统和两款电池可选，两款车型均具有出色的性能和续航能力。
-   
-媒体报道
-  
-极氪高管爆料小米汽车将在3月28日发布 官方回应凤凰科技
-  
-极氪林金文回应网曝围剿小米汽车：无稽之谈 尊重且敬畏小米汽车搜狐科技/凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米 Redmi G Pro 2024 游戏本首搭“冰封散热”，液金两年质保]]></title>
-        <id>readhub-8XXZNfRTPfI</id>
-        <link href="https://readhub.cn/topic/8XXZNfRTPfI"/>
-        <updated>2024-02-28T10:15:57.000Z</updated>
-        <summary type="html"><![CDATA[小米即将于3月4日发布新款游戏本Redmi G Pro 2024，最高配置为i9-14900HX处理器和RTX 4060显卡，性能释放达到210W。新品采用“冰封散热”系统，具有高效的立体VC散热和液金导热材质，自研的CPU&GPU均热通道，以及3D网状热管。液金材料和整机享有2年质保。Redmi G Pro 2024在散热性能上对比竞品9000P 2024有优势，且搭载“狂暴引擎 PC 版”可提升5%的性能。此外，品牌LOGO可能会有新设计。发布时，IT之家将提供价格信息。
-   
-媒体报道
-  
-小米 Redmi G Pro 2024 游戏本首搭“冰封散热”，液金两年质保搜狐科技/IT 之家
-  
-Redmi G Pro 2024游戏本散热揭晓：立体VC均热板、最高210W性能释放凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉Model 3 Performance车型曝光，疑似在拍宣传片]]></title>
-        <id>readhub-8XW5CtGMpym</id>
-        <link href="https://readhub.cn/topic/8XW5CtGMpym"/>
-        <updated>2024-02-28T10:14:50.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉新款Model 3 Performance车型可能被称为“Model 3 Ludicrous”，近日在西班牙瓦伦西亚被目击到疑似拍摄宣传视频，揭示了该车型即将推出的可能性。此前几个月已有新款Model 3 Performance的测试车被目击，但这次是原型车没有伪装。
-   
-媒体报道
-  
-颜值太高太Q！特斯拉新款Model 3曝光中关村在线
-  
-全新特斯拉 Model 3 Performance 车型曝光，疑似在拍宣传片IT 之家
-  
-特斯拉Model 3 Performance车型曝光，疑似在拍宣传片i黑马]]></summary>
-        <author>
-            <name>i黑马</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动正秘密研发多模态数字人等多个AI产品]]></title>
-        <id>readhub-8XY1G0I9JEL</id>
-        <link href="https://readhub.cn/topic/8XY1G0I9JEL"/>
-        <updated>2024-02-28T10:11:20.000Z</updated>
-        <summary type="html"><![CDATA[字节跳动正在秘密研发多个AI产品，包括多模态数字人、AI生图和AI生视频等。据知情人士透露，剪映数月前已组建封闭团队，负责这些AI产品的研发，目前产品尚未上线。
-   
-媒体报道
-  
-【独家】字节跳动正秘密研发多模态数字人等多个AI产品界面
-  
-字节跳动正秘密研发多模态数字人等多个AI产品华尔街见闻/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想汽车申请5C超充商标]]></title>
-        <id>readhub-8XXjSUMvffb</id>
-        <link href="https://readhub.cn/topic/8XXjSUMvffb"/>
-        <updated>2024-02-28T10:02:04.000Z</updated>
-        <summary type="html"><![CDATA[北京理想汽车有限公司正在申请注册“理想5C超充”商标，以及科学仪器类“MINDAI”商标、“MINDSS”和“MINDAD”运输工具类商标，相关商标状态均处于申请中。
-   
-媒体报道
-  
-理想汽车申请“理想5C超充”“MINDAI”“MINDAD”商标手机中国
-  
-理想汽车申请5C超充商标界面
-  
-理想汽车申请5C超充商标  理想汽车申请MINDAI商标DoNews]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1月国内市场手机出货量3177.8万部，同比增长68.1%]]></title>
-        <id>readhub-8XXuTxCKEPK</id>
-        <link href="https://readhub.cn/topic/8XXuTxCKEPK"/>
-        <updated>2024-02-28T10:00:51.000Z</updated>
-        <summary type="html"><![CDATA[2024年1月，中国国内手机市场出货量达到3177.8万部，同比增长68.1%。其中，5G手机占据主导地位，出货量2616.5万部，同比增长59.0%，占比达到82.3%。
-   
-媒体报道
-  
-1月国内市场手机出货量3177.8万部，同比增长68.1%证券时报网
-  
-1月国内市场手机出货量3177.8万部 5G手机占比超八成手机中国/搜狐科技]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前长安汽车首席软件架构师韩三楚出任大众中国执行副总裁]]></title>
-        <id>readhub-8XXlBIxdOcL</id>
-        <link href="https://readhub.cn/topic/8XXlBIxdOcL"/>
-        <updated>2024-02-28T09:55:50.000Z</updated>
-        <summary type="html"><![CDATA[大众中国宣布，自2024年3月1日起，前长安汽车首席软件架构师韩三楚将接替常青，担任CARIAD中国管理工作，并成为大众汽车集团（中国）管理董事会的一员，同时担任执行副总裁。常青在成功组建CARIAD中国后，将返回大众汽车集团总部。
-   
-媒体报道
-  
-前长安汽车首席软件架构师韩三楚出任大众中国执行副总裁财经网/财联社
-  
-长安汽车前首席软件架构师韩三楚加盟大众CARIAD中国凤凰科技
-  
-长安汽车前首席软件架构师韩三楚加盟大众 CARIAD 中国IT 之家]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WPS 移动端新增“图片翻译”“PDF 目录提取”“文字 AI”功能]]></title>
-        <id>readhub-8XXwyVRe2dZ</id>
-        <link href="https://readhub.cn/topic/8XXwyVRe2dZ"/>
-        <updated>2024-02-28T09:45:48.000Z</updated>
-        <summary type="html"><![CDATA[WPS移动端推出三项新功能：图片翻译、PDF目录提取和WPS文字AI。图片翻译能识别图片中的文字并自动翻译成所需语言，支持多语言翻译，还能复制和导出。PDF目录提取能一键提取PDF文档目录，便于快速阅读长文档。WPS文字AI利用WPS AI的能力，为用户提供内容生成和辅助阅读等功能，提高创作效率。WPS AI已面向公众开放，首先应用于WPS智能文档，未来更多能力将在其他组件开放。用户可以在最新版WPS客户端/App、金山文档小程序/官网体验这些新功能。
-   
-媒体报道
-  
-WPS移动端新增“图片翻译”“PDF目录提取”“文字AI”功能凤凰科技
-  
-WPS 移动端新增“图片翻译”“PDF 目录提取”“文字 AI”功能搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乘联会：2月1-25日新能源车市场零售28.3万辆 同比下降22%]]></title>
-        <id>readhub-8XXpojvgnWJ</id>
-        <link href="https://readhub.cn/topic/8XXpojvgnWJ"/>
-        <updated>2024-02-28T09:41:41.000Z</updated>
-        <summary type="html"><![CDATA[2月1-25日，我国新能源车市场零售量为28.3万辆，同比下降22%，较上月同期下降44%。全国乘用车厂商新能源批发量为25.8万辆，同比下降40%，较上月同期下降46%。尽管如此，今年以来新能源车累计零售量仍达到95.1万辆，同比增长38%，累计批发量为94万辆，同比增长15%。
-   
-媒体报道
-  
-乘联会：2月1-25日新能源车市场零售28.3万辆财经网
-  
-乘联会：2月1-25日新能源车市场零售28.3万辆 同比下降22%智通财经/财联社]]></summary>
-        <author>
-            <name>财经网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度：第四季度营收349.5亿元 经调净利润78亿元]]></title>
-        <id>readhub-8XXwz1bziWv</id>
-        <link href="https://readhub.cn/topic/8XXwz1bziWv"/>
-        <updated>2024-02-28T09:15:41.000Z</updated>
-        <summary type="html"><![CDATA[百度发布2023年第四季度财报，总营收350亿元，同比增长6%，全年总营收1346亿元，同比增长9%。百度联合创始人兼首席执行官李彦宏表示，百度核心业务保持韧性和健康发展，并在AI和基础模型投入上展望未来，为创造新增长引擎奠定基础。
-   
-媒体报道
-  
-百度 Q4 营收 349.5 亿元同比增长 5.66%，市场预期 350 亿元IT 之家
-  
-百度发布2023年第四季度及全年财报财经网
-  
-百度集团：2023年总收入为1346亿元，同比增长9%界面
-  
-百度集团股份有限公司第四季度营收349.5亿元人民币，预估350亿元人民币华尔街见闻
-  
-百度2023年净利润大涨39%至287亿元超预期 AI成增长新动力财联社
-  
-百度第四季度营收349.5亿元腾讯网
-  
-百度：第四季度营收349.5亿元新浪科技
-  
-百度：第四季度营收349.5亿元  经调净利润78亿元新浪科技
-  
-百度：第四季度营收349.5亿元 经调净利润78亿元新浪科技
-  
-百度集团-SW(09888)发布全年业绩，归属百度的净利润203.15亿元 同比增加169%智通财经]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥迪正研发电动 TT：告别五缸声浪，拥抱全新体验]]></title>
-        <id>readhub-8XXmykaCoLO</id>
-        <link href="https://readhub.cn/topic/8XXmykaCoLO"/>
-        <updated>2024-02-28T09:12:57.000Z</updated>
-        <summary type="html"><![CDATA[奥迪 TT 跑车去年停产，其电动继任者正在开发中，新车将在五年到十年内推出，采用全新命名，并将与 TT 具有相似的定位。新车开发面临巨大挑战，奥迪希望不仅保持现有客户，还要为产品线增添一款出色的标志性车型。新车不会只是 TT 的替代品，而是有独特设计和情感，同时不会模仿 TT RS 的五缸发动机声音。新车在驾驶行为上将与 TT 有更大差异，但动态敏捷性仍将是核心，奥迪力求新车体现出 RS 的 DNA，使其与众不同。
-   
-媒体报道
-  
-奥迪正研发电动TT：告别五缸声浪，拥抱全新体验凤凰科技
-  
-奥迪新TT即将亮相 或成电动化的一部分中关村在线
-  
-奥迪正研发电动 TT：告别五缸声浪，拥抱全新体验IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀将推出首款小折叠手机：挑战三星和苹果]]></title>
-        <id>readhub-8XXQSteprqu</id>
-        <link href="https://readhub.cn/topic/8XXQSteprqu"/>
-        <updated>2024-02-28T09:05:40.000Z</updated>
-        <summary type="html"><![CDATA[荣耀计划推出首款垂直折叠风格的小折叠手机，以挑战三星和苹果在高端市场的地位。赵明表示，这款手机目前正处于研发的最后阶段。此外，荣耀在MWC上展示了人工智能创新设计，包括眼动追踪技术和基于意图识别的人机交互系统，体现了其在未来手机市场中以人工智能重建用户交互的策略。
-   
-媒体报道
-  
-欧洲手机市场洗牌：苹果重回榜首，小米稳坐第三！ITBear科技资讯
-  
-荣耀将推出首款小折叠手机：挑战三星和苹果搜狐科技
-  
-机构：去年第四季度欧洲智能手机市场下滑3%，苹果出货量重回首位、三星第二界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米14将于3月1日在阿联酋上市 512GB版本售价超6千]]></title>
-        <id>readhub-8XXkpeQvjAm</id>
-        <link href="https://readhub.cn/topic/8XXkpeQvjAm"/>
-        <updated>2024-02-28T09:01:34.000Z</updated>
-        <summary type="html"><![CDATA[小米14在阿联酋市场已开启预购，将于3月1日正式上市，仅提供12GB+512GB版本，售价约6500元人民币，并附赠价值约1900元人民币的礼包。配置上，小米14采用6.36英寸OLED柔性屏，搭载第三代骁龙8移动平台，内置4610mAh电池，支持90W有线快充和50W无线快充。此外，小米14配备三颗徕卡专业镜头，包括一颗5000万像素23mm徕卡超动态主摄像头，一颗5000万像素75mm徕卡浮动长焦摄像头以及一颗5000万像素14mm徕卡超广角摄像头。
-   
-媒体报道
-  
-小米14将于3月1日在阿联酋上市 512GB版本售价超6千搜狐科技/手机中国]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想汽车年赚118亿首次扭亏为盈 研发投入超百亿毛利率达22.2%]]></title>
-        <id>readhub-8XXGTEck0HY</id>
-        <link href="https://readhub.cn/topic/8XXGTEck0HY"/>
-        <updated>2024-02-28T09:01:33.000Z</updated>
-        <summary type="html"><![CDATA[理想汽车发布2023年度财报，实现营业收入1238.51亿元，同比增长173.48%，净利润118.09亿元，成功扭亏为盈。公司锁定2024年交付量翻倍至80万辆的目标，并计划推出新车型L6和MEGA。理想汽车凭借大尺寸SUV差异化竞争优势，已建立467家零售中心和360家售后维修中心，现金储备达1036.70亿元。然而，面临市场竞争和交付目标的不确定性，公司仍需克服挑战。
-   
-媒体报道
-  
-理想汽车营收翻倍突破1238亿，2024年新能源市场领航者？和讯网
-  
-理想汽车年赚118亿首次扭亏为盈 研发投入超百亿毛利率达22.2%新浪科技
-  
-【e公司观察】千亿营收的理想汽车，引起涟漪效应证券时报网
-  
-市值单日暴增25% 理想汽车宣告实现盈利达成千亿营收新浪科技
-  
-理想汽车股价涨超18% 市值达3100亿 远超小鹏、蔚来中关村在线
-  
-终于赚钱了！ 理想汽车去年净利118.1亿元新浪科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国居民主要健康指标居于中高收入国家前列]]></title>
-        <id>readhub-8XXqCKqIoEe</id>
-        <link href="https://readhub.cn/topic/8XXqCKqIoEe"/>
-        <updated>2024-02-28T08:55:47.000Z</updated>
-        <summary type="html"><![CDATA[国家卫生健康委介绍，我国婴儿死亡率、5岁以下儿童死亡率和孕产妇死亡率分别降至4.5‰、6.2‰和15.1/10万，主要健康指标居于中高收入国家前列。2024年，我国将全面推进卫生健康事业高质量发展，增强人民群众的健康获得感。在深化医改、提升服务能力、促进人口长期均衡发展、科技创新和人才队伍建设、实施健康中国行动、促进中医药传承创新发展和推进疾控体系高质量发展等方面将有新举措。
-   
-媒体报道
-  
-国家卫健委：我国居民主要健康指标居于中高收入国家前列腾讯网
-  
-我国居民主要健康指标居于中高收入国家前列腾讯网/界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉利杨学良回应“针对小米汽车”：不要制造对立 团结一致向前看]]></title>
-        <id>readhub-8XXo3MKUeGM</id>
-        <link href="https://readhub.cn/topic/8XXo3MKUeGM"/>
-        <updated>2024-02-28T08:46:17.000Z</updated>
-        <summary type="html"><![CDATA[极氪汽车在2月27日发布了全新纯电豪华猎装轿跑极氪001，共四个版本，售价从26.9万至32.9万元。有网友猜测定价激进是因为小米汽车挖角事件，但吉利控股集团高级副总裁杨学良否认这一说法，强调定价是基于市场和用户感知。极氪高管也表示尊重小米汽车，认为其营销值得学习，但在技术上极氪更有优势。
-   
-媒体报道
-  
-吉利系新车定价针对小米汽车？杨学良回应：不存在手机中国
-  
-吉利杨学良回应“针对小米汽车”：不要制造对立 团结一致向前看搜狐科技/凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国信通院：1月国内市场手机出货量3177.8万部 同比增长68.1%]]></title>
-        <id>readhub-8XXu8FdzhyK</id>
-        <link href="https://readhub.cn/topic/8XXu8FdzhyK"/>
-        <updated>2024-02-28T08:41:16.000Z</updated>
-        <summary type="html"><![CDATA[2024年1月，中国国内市场手机总出货量为3177.8万部，同比增长68.1%，其中5G手机占比较大，达到2616.5万部，同比增长59.0%，占比82.3%。
-   
-媒体报道
-  
-中国信通院：1月国内市场手机出货量3177.8万部，同比增长68.1%界面
-  
-中国信通院：1月国内市场手机出货量3177.8万部 同比增长68.1%腾讯网/财联社/新浪科技
-  
-中国信通院：1月国内市场手机出货量3177.8万部 5G手机占比82.3%智通财经]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[森养展出首支 L 卡口 AF 35-150mm F2-2.8 全画幅变焦镜头]]></title>
-        <id>readhub-8XWjwJZpRi1</id>
-        <link href="https://readhub.cn/topic/8XWjwJZpRi1"/>
-        <updated>2024-02-28T08:32:05.000Z</updated>
-        <summary type="html"><![CDATA[森养光学在CP+展会期间推出了首款L卡口AF 35-150mm F2-2.8全画幅变焦镜头，加入了包括徕卡、松下、适马等在内的L卡口联盟。该镜头结构包含18组21片，具有9片光圈叶片和82mm滤镜接口，采用了隐藏式红环设计和UMC镀膜。镜头广角端最近对焦距离为0.33m，远摄端为0.85m，配备了线性对焦马达，但无光学防抖功能。此外，镜头设有变焦锁、自定义、焦点锁定和自动/手动切换按钮，具备防尘防滴设计，并针对视频拍摄进行了优化。该镜头重约1224克，售价为9999元。
-   
-媒体报道
-  
-森养展出首支 L 卡口 AF 35-150mm F2-2.8 全画幅变焦镜头中关村在线/搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为 MateBook X Pro 2024 款笔记本通过多国监管机构认证]]></title>
-        <id>readhub-8XXmyn3CbSB</id>
-        <link href="https://readhub.cn/topic/8XXmyn3CbSB"/>
-        <updated>2024-02-28T08:31:47.000Z</updated>
-        <summary type="html"><![CDATA[华为2024款MateBook X Pro笔记本（型号VGHH）已通过多国监管机构认证，但具体发布时间尚未公布。该款笔记本去年12月通过了HDR Vivid认证，为第二款通过该认证的PC产品。同时，它也通过了蓝牙认证和3C认证，将搭载不同内存版本，并使用英特尔网卡与Windows 11系统。而关于Wi-Fi联盟认证的VGHHZ-X型号与VGHH-X的关系目前尚不清楚。前一代的MateBook X Pro 2023款于去年5月发布，售价9999元起。
-   
-媒体报道
-  
-华为 MateBook X Pro 2024 款笔记本通过多国监管机构认证中关村在线/搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军：小米会坚持推进高端化、全球化战略]]></title>
-        <id>readhub-8XWW16q4zkH</id>
-        <link href="https://readhub.cn/topic/8XWW16q4zkH"/>
-        <updated>2024-02-28T08:31:45.000Z</updated>
-        <summary type="html"><![CDATA[在2024年世界移动通信大会上，小米集团合伙人卢伟冰和CEO雷军强调了中国在“人车家全生态”理念、商业模式和技术方面的领先地位，并表达了小米面向欧洲、日本等市场推进高端化战略的决心。雷军认为，做高端是小米发展的必由之路，尽管面临困难，也要坚持使用小米品牌做高端，以寻求技术突破并赢得未来的生存和发展空间。
-   
-媒体报道
-  
-雷军：小米会坚持推进高端化、全球化战略中关村在线/搜狐科技/凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高通 XR 业务副总裁离职，关键时刻面临领导层变动]]></title>
-        <id>readhub-8XXoPIyP3PE</id>
-        <link href="https://readhub.cn/topic/8XXoPIyP3PE"/>
-        <updated>2024-02-28T08:15:50.000Z</updated>
-        <summary type="html"><![CDATA[高通公司XR业务部门副总裁雨果·斯沃特即将离职，他在高通工作了20年，领导了XR2 Gen 2处理器的研发，并推动了与Meta的合作。离职后，艾力克斯·卡图兹安将接管XR业务。业界即将迎来三星首款XR头显等新产品发布，这对高通巩固XR领域领导地位至关重要。同时，苹果的首款XR头显Vision Pro已发售，而三星与谷歌和高通合作的XR头显预计将在今年晚些时候上市。
-   
-媒体报道
-  
-高通XR业务副总裁离职，关键时刻面临领导层变动凤凰科技
-  
-高通 XR 业务副总裁离职，关键时刻面临领导层变动搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
         </author>
     </entry>
     <entry>
