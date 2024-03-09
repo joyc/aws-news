@@ -2,10 +2,410 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-09T00:31:57.460Z</updated>
+    <updated>2024-03-09T06:10:17.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国众议院委员会一致通过 TikTok 禁令法案]]></title>
+        <id>readhub-8XmrK3SARg7</id>
+        <link href="https://readhub.cn/topic/8XmrK3SARg7"/>
+        <updated>2024-03-09T05:20:46.000Z</updated>
+        <summary type="html"><![CDATA[美国国会众议院能源和商务委员会全票通过一项法案，要求字节跳动在165天内剥离TikTok，否则苹果和Google等应用商店将被禁止提供TikTok下载。TikTok反对该提案，并在美国用户的应用上弹出窗口呼吁用户反对该法案。美国国会工作人员证实收到了数以百计的电话，主要来自青少年和老年人。
+   
+媒体报道
+  
+拜登表示将签署可能导致禁止TikTok的立法凤凰科技
+  
+美国总统拜登支持强制出售TikTok的措施 众议院准备投票表决新浪科技
+  
+美国总统拜登表态支持强制出售TikTok，国会众议院下周三投票表决腾讯网
+  
+美国众议院委员会一致通过 TikTok 禁令法案Solidot
+  
+U.S. House Panel Votes for Bill that Could Ban TikTok钛媒体]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG显示广州LCD工厂收获购买意向书，另一股东创维意见成关键]]></title>
+        <id>readhub-8Xn5GeXwp8Y</id>
+        <link href="https://readhub.cn/topic/8Xn5GeXwp8Y"/>
+        <updated>2024-03-09T05:18:51.000Z</updated>
+        <summary type="html"><![CDATA[LG显示公司收到中国厂商收购广州LCD工厂的意向书，该工厂由LGD持股70%，广州高新区科技控股集团持股20%，创维持股10%。分析人士猜测收购方可能是京东方或华星光电，但双方在价格上存在分歧。若华星光电收购成功，将有助于三星确保电视面板供应，但可能引发与创维的竞争冲突。LGD表示正在评估LCD资产的未来，尚未作出出售决定。新东家预计将在六月份确定。
+   
+媒体报道
+  
+LG显示广州LCD工厂收获购买意向书，另一股东创维意见成关键凤凰科技
+  
+LG 显示收到中国厂商收购广州 LCD 工厂意向书，另一股东创维意见成关键中关村在线/IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软 Win11 为更多网络接口扩展 IPv6 支持]]></title>
+        <id>readhub-8Xo8I8RDY7V</id>
+        <link href="https://readhub.cn/topic/8Xo8I8RDY7V"/>
+        <updated>2024-03-09T05:11:05.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布将在未来的Windows 11系统更新中加强IPv6支持，并扩展对Compatibility Layer for Address Translation（CLAT）的支持，以实现IPv6地址与仅支持IPv4网络的兼容性。CLAT将作为翻译层，使Windows 11能够通过IPv6连接到IPv4网络。微软将采用RFC 7050、RFC 8781和RFC 8925等标准来改进非蜂窝网络接口上的IPv6发现。目前，CLAT主要支持蜂窝网络接口，对于非蜂窝连接如Wi-Fi或以太网可能需要手动启用和配置。用户可以通过命令提示符手动启用CLAT功能。
+   
+媒体报道
+  
+微软上线Win11大更新 网络安全功能更强大搜狐科技/中关村在线
+  
+微软 Win11 为更多网络接口扩展 IPv6 支持搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鹏汽车回应要求经销商储备库存：可更快交付有车卖]]></title>
+        <id>readhub-8Xmd2dylY31</id>
+        <link href="https://readhub.cn/topic/8Xmd2dylY31"/>
+        <updated>2024-03-09T04:43:12.000Z</updated>
+        <summary type="html"><![CDATA[小鹏汽车官方确认了近期要求经销商储备库存的消息，表示这一举措是为了加快交付速度、提升效率，并让经销商有足够的车辆出售。小鹏汽车总裁王凤英强调，这一策略是为了确保经销商全力销售小鹏汽车，并指出这并非压库，而是公司直营和经销混合的创新模式。去年，小鹏对销售渠道进行了改组，调整了直营和授权加盟的比例，增加了授权经销商，淘汰了效率低的直营门店，以提高市场覆盖率。此次对库存数量提出明确要求，经销商需提前支付资金、批发车辆，并做好50%的库存准备。这一改变提高了经销商的积极性，同时降低了小鹏回款的风险。
+   
+媒体报道
+  
+小鹏汽车回应要求经销商储备库存：可更快交付有车卖中关村在线/手机中国
+  
+小鹏汽车回应要求经销商储备库存财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[威联通敦促用户尽快更新，其 NAS 产品存在漏洞：可绕过身份验证]]></title>
+        <id>readhub-8XoCZcFHsJK</id>
+        <link href="https://readhub.cn/topic/8XoCZcFHsJK"/>
+        <updated>2024-03-09T04:42:52.000Z</updated>
+        <summary type="html"><![CDATA[威联通发布紧急公告，提醒用户其多款NAS产品存在安全漏洞，包括QTS、QuTS hero、QuTScloud和myQNAPcloud。这些漏洞可能允许攻击者未经授权访问设备、执行任意命令或注入恶意代码。受影响版本包括QTS 5.1.x、QTS 4.5.x、QuTS hero h5.1.x、QuTS hero h4.5.x、QuTScloud c5.x和myQNAPcloud 1.0.x。威联通建议用户立即升级至最新版本以解决这些问题。
+   
+媒体报道
+  
+威联通敦促用户尽快更新，其 NAS 产品存在漏洞：可绕过身份验证等IT 之家
+  
+威联通敦促用户尽快更新，其 NAS 产品存在漏洞：可绕过身份验证搜狐科技
+  
+QNAP威联通发现多款NAS软件存在多个安全漏洞中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软官方回应Microsoft Rewards积分兑换物品价值上涨]]></title>
+        <id>readhub-8XmK5cPOXek</id>
+        <link href="https://readhub.cn/topic/8XmK5cPOXek"/>
+        <updated>2024-03-09T04:42:39.000Z</updated>
+        <summary type="html"><![CDATA[微软回应了网友关于Microsoft Rewards积分兑换价值上涨的疑问，表示会定期调整积分兑换方式，并关注会员赚取和兑换积分的频率。微软的目标是为会员提供更大价值，同时不断发展该计划，并感谢会员的热情和忠诚。
+   
+媒体报道
+  
+微软回应 Rewards 物品兑换值最高涨 33%，称属于定期调整IT 之家
+  
+物品兑换值最高涨 33%，微软调整 Rewards 项目再遭用户强烈不满IT 之家
+  
+微软官方回应Microsoft Rewards积分兑换物品价值上涨中关村在线]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币突破70000美元 创历史新高]]></title>
+        <id>readhub-8XnLK97Qkto</id>
+        <link href="https://readhub.cn/topic/8XnLK97Qkto"/>
+        <updated>2024-03-09T04:40:45.000Z</updated>
+        <summary type="html"><![CDATA[比特币突破70000美元，创历史新高。
+   
+媒体报道
+  
+比特币突破70000美元/枚，日内涨3.93%，创历史新高新浪科技
+  
+比特币价格再创新高，一度突破7万美元大关澎湃新闻
+  
+比特币突破70000美元 创历史新高财联社
+  
+比特币上涨4% 突破70,000美元大关新浪科技
+  
+比特币史上首次触及7万美元：期权押注已看向10万财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极越汽车获颁中国光谷首张L3自动驾驶测试牌照]]></title>
+        <id>readhub-8Xo6rJoTi84</id>
+        <link href="https://readhub.cn/topic/8Xo6rJoTi84"/>
+        <updated>2024-03-09T04:12:50.000Z</updated>
+        <summary type="html"><![CDATA[极越汽车获得中国光谷首张L3自动驾驶测试牌照，并启动智能网联道路测试。预计到2024年，其PPA智驾将全国覆盖100%的高速高架。该公司已实现纯视觉OCC占用网络技术上车，并提升了障碍物识别能力，形成了“BEV+OCC+Transformer”的高阶智驾体系。目前，其点到点领航辅助PPA已覆盖全国超40万公里道路，90%的高速高架可以使用，且已在上海、北京、深圳、杭州等城市的主要道路实现纯视觉能力运行。
+   
+媒体报道
+  
+极越汽车获L3级自动驾驶测试牌照 2024年实现城区全面智能驾驶中关村在线
+  
+极越汽车获得 L3 自动驾驶测试牌照，纯视觉方案上车IT 之家
+  
+极越汽车获颁中国光谷首张L3自动驾驶测试牌照中关村在线]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水月雨预热新款降噪 TWS 耳机：全频平板单元、3 月 11 日发布]]></title>
+        <id>readhub-8Xn5yYF1vzI</id>
+        <link href="https://readhub.cn/topic/8Xn5yYF1vzI"/>
+        <updated>2024-03-09T04:12:39.000Z</updated>
+        <summary type="html"><![CDATA[水月雨公司计划于3月11日发布新款主动降噪TWS真无线蓝牙耳机。这款耳机强调音质优先，采用全频平板单元，解决了小尺寸耳机在功耗和声学设计上的挑战。新品预期将支持ANC主动降噪功能，而上一款旗舰级TWS耳机Alice则于2022年11月发布，定价999元，虽音质出色但不支持ANC。
+   
+媒体报道
+  
+水月雨预热新款降噪 TWS 耳机：全频平板单元、3 月 11 日发布中关村在线/IT 之家/搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪吒汽车南宁工厂被曝停工停产 产能过剩 复工时间未定]]></title>
+        <id>readhub-8Xmftr5A4ix</id>
+        <link href="https://readhub.cn/topic/8Xmftr5A4ix"/>
+        <updated>2024-03-09T03:07:03.000Z</updated>
+        <summary type="html"><![CDATA[2024年，国内新能源汽车竞争激烈，哪吒汽车南宁生产基地停摆，员工等待复工通知。此前，哪吒汽车推迟年终奖发放，公司否认降薪裁员。2022年，哪吒销量领先新势力，2023年销量下滑16%，面临挑战。
+   
+媒体报道
+  
+哪吒汽车南宁工厂被曝停工停产 产能过剩 复工时间未定中关村在线/手机中国
+  
+库存积压 消息称哪吒汽车南宁工厂已停产半个多月DoNews]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic春季特卖活动将于3月14日开启 20+款游戏大促]]></title>
+        <id>readhub-8XnBgmmHSmF</id>
+        <link href="https://readhub.cn/topic/8XnBgmmHSmF"/>
+        <updated>2024-03-09T03:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Epic商城和Steam平台的春季特卖活动即将开始。Epic商城的特卖活动将于3月14日开始，持续两周。而Steam平台的特卖活动将于3月15日开始，为期一周。Epic的特卖活动比Steam提前一天，并且多持续七天。在Epic的特卖活动中，《EA Sports FC 24》、《碧海黑帆》和《波斯王子：失落的王冠》等游戏将参与促销，提供不同程度的折扣。
+   
+媒体报道
+  
+消息称 Epic 游戏商城春季特卖 3 月 14 日开始，持续两周IT 之家
+  
+Epic春季特卖活动将于3月14日开启 20+款游戏大促中关村在线
+  
+Epic游戏商城春季特卖：波斯王子29.99美元 二折！中关村在线]]></summary>
+        <author>
+            <name>中关村在线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：苹果恢复Epic开发者账户，此前曾因违规遭封禁]]></title>
+        <id>readhub-8XnoH8cMAtD</id>
+        <link href="https://readhub.cn/topic/8XnoH8cMAtD"/>
+        <updated>2024-03-09T03:01:05.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司结束与Epic Games近四年的法律纠纷，恢复其开发者账户，允许Epic重新在iOS平台上发布和更新应用，包括《堡垒之夜》。这一决定是在欧盟官员调查后作出的，Epic已承诺遵守相关规定，包括《数字市场法案》。苹果表示，此举是为了遵守欧盟的监管压力，保护市场竞争和消费者权益。
+   
+媒体报道
+  
+事件反转：苹果恢复 Epic Games 欧盟开发者账户IT 之家
+  
+苹果向欧盟承诺恢复开发者帐户 不再封锁Epic《堡垒之夜》中关村在线
+  
+外媒：苹果恢复Epic开发者账户，此前曾因违规遭封禁环球网科技]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电池变黄金，我国海关查获充电宝夹藏黄金走私案件]]></title>
+        <id>readhub-8Xo18iBTTHY</id>
+        <link href="https://readhub.cn/topic/8Xo18iBTTHY"/>
+        <updated>2024-03-09T03:00:57.000Z</updated>
+        <summary type="html"><![CDATA[深圳罗湖海关和珠海拱北海关近日连续查获两起黄金走私案件。在罗湖口岸，海关关员发现一名旅客的充电宝重量异常，内藏黄金2块，总重231.7克，价值约11.6万元。而在拱北口岸，一名女子的7台手机中藏有总重951.7克的黄金。海关提醒，走私黄金等禁止或限制进出境物品将受到法律追究。
+   
+媒体报道
+  
+电池变黄金，中国海关查获充电宝夹藏黄金走私案件凤凰科技
+  
+电池变黄金，我国海关查获充电宝夹藏黄金走私案件中关村在线/IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果明确：欧盟用户离境后第三方应用商店访问权限保留30天]]></title>
+        <id>readhub-8Xo4iqYX2yO</id>
+        <link href="https://readhub.cn/topic/8Xo4iqYX2yO"/>
+        <updated>2024-03-09T02:50:42.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司针对欧盟用户发布新规定，用户在离开欧盟后30天内，可保留对第三方应用商店的访问权限，能下载新应用和接收更新。超过宽限期后，将无法从第三方应用商店下载新应用或获取更新，但已安装的应用仍可使用，只是无法获得更新。特殊情况是，用户在离开欧盟30天后返回，将重新获得访问权限。这项规定是苹果对欧盟《数字市场法案》的响应，保障消费者选择权，迫使苹果调整其封闭的生态系统策略。
+   
+媒体报道
+  
+苹果妥协了！欧盟用户将能轻松切换安卓，Safari不再“一家独大”环球网科技
+  
+苹果今年年底前调整 iOS，让欧盟 iPhone 用户能卸载 Safari 浏览器IT 之家
+  
+苹果2024年底前调整iOS，让欧盟iPhone用户能卸载Safari浏览器凤凰科技
+  
+苹果明确：欧盟用户离境后第三方应用商店访问权限保留30天环球网科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曝三星计划生产40万台Ring智能戒指 预计最早8月发布]]></title>
+        <id>readhub-8XmtqGaE6rr</id>
+        <link href="https://readhub.cn/topic/8XmtqGaE6rr"/>
+        <updated>2024-03-09T02:24:50.000Z</updated>
+        <summary type="html"><![CDATA[三星计划生产首批40万台Ring智能戒指，预计8月发布。该戒指具备多种传感器，可通过应用程序查看健康信息，将有多种尺寸供选择。作为健康型产品，其不具备医疗设备功能。未来，三星计划增加医疗设备功能来拓展市场，设计和价格是关键。该设备可能具备心率/SpO2监测、睡眠跟踪等功能，并能与Samsung Health同步数据。
+   
+媒体报道
+  
+曝三星计划生产40万台Ring智能戒指 预计最早8月发布手机中国/搜狐科技
+  
+三星智能手表 Ring 医疗设备认证！ 8月发布！中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“东数西算” 首条400G全光省际骨干网正式商用]]></title>
+        <id>readhub-8XnuiMaZj03</id>
+        <link href="https://readhub.cn/topic/8XnuiMaZj03"/>
+        <updated>2024-03-09T02:05:51.000Z</updated>
+        <summary type="html"><![CDATA[中国移动自主研发的首条400G全光省际骨干网正式商用，大幅提升“东数西算”八大枢纽间的数据传输效率。该技术传输带宽提升4倍，网络容量超过30PB，枢纽间时延不到20毫秒，成为“东数西算”工程的关键技术和大动脉。
+   
+媒体报道
+  
+“东数西算” 首条400G全光省际骨干网正式商用凤凰科技/搜狐科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曝vivo X100 Ultra规格基本敲定 有升有降 暂定5月发布]]></title>
+        <id>readhub-8Xn4vk4noEi</id>
+        <link href="https://readhub.cn/topic/8Xn4vk4noEi"/>
+        <updated>2024-03-09T02:01:09.000Z</updated>
+        <summary type="html"><![CDATA[vivo X100 Ultra新机规格已基本确定，将于5月发布。该手机在影像系统上表现突出，搭载5000万像素的一英寸主摄、超广角镜头和2亿像素的大底潜望镜头。同时，配备2K E7居中打孔AMOLED曲面屏，支持1-120Hz自适应LTPO刷新率和1440Hz高频PWM调光。性能方面，搭载高通骁龙8 Gen3移动平台，内置5200mAh-5400mAh大电池，支持100W有线快充和50W无线快充。此外，新机将支持双向卫星通信功能。
+   
+媒体报道
+  
+曝vivo X100 Ultra规格基本敲定 有升有降 暂定5月发布凤凰科技/手机中国/搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[领克 07 EM-P 车型采用“The Next Day”设计语言、关键词“轻盈”]]></title>
+        <id>readhub-8Xn1fiEckYV</id>
+        <link href="https://readhub.cn/topic/8Xn1fiEckYV"/>
+        <updated>2024-03-09T01:55:45.000Z</updated>
+        <summary type="html"><![CDATA[领克07 EM-P车型在全球首秀展示会上亮相，拥有银色和蓝色两款外观，设计理念为"The Next Day"，内饰采用"轻盈"设计，有灰调和白调两种风格，并配有15.4英寸中控屏和翼状中控台。
+   
+媒体报道
+  
+领克首款混动轿车！07 EM-P首发亮相：搭1.5T插混动力系统新浪科技
+  
+领克 07 EM-P 车型亮相：“首发独创”激光雕刻纹理、可选“深海蓝 + 白 / 灰调”风格IT 之家
+  
+领克07 EM-P首发亮相，中国汽车设计开始以“AI”开题凤凰科技
+  
+领克 07 EM-P 车型采用“The Next Day”设计语言、关键词“轻盈”IT 之家]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallels Desktop 19.3.0发布：增强 Win11 支持]]></title>
+        <id>readhub-8XnziYQPA3w</id>
+        <link href="https://readhub.cn/topic/8XnziYQPA3w"/>
+        <updated>2024-03-09T01:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Parallels Desktop 19.3.0版本发布，增强了对Win11的支持，修复了多款游戏在Apple Silicon芯片的Mac上的图形渲染错误，提高了稳定性。同时引入了新的剪贴板同步模式，简化了Ubuntu系统的安装流程，改善了Linux发行版的触控板滚动效果，并提高了Apple Silicon Mac的性能。
+   
+媒体报道
+  
+Parallels Desktop 19.3.0 发布：增强 Win11 支持、引入剪贴板同步模式IT 之家
+  
+《原神》都能畅玩了！Parallels Desktop 19.3.0正式发布中关村在线
+  
+Parallels Desktop 19.3.0发布：增强 Win11 支持搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软发布 Win11 Beta 22635.3286 预览版：增强 Copilot]]></title>
+        <id>readhub-8XnuiTQw2SX</id>
+        <link href="https://readhub.cn/topic/8XnuiTQw2SX"/>
+        <updated>2024-03-09T00:42:47.000Z</updated>
+        <summary type="html"><![CDATA[微软发布Win11Beta22635.3286预览版，主要增强Copilot功能。更新后，Copilot可在用户复制文本后主动提示可执行操作，如总结或解释文本。用户可通过悬停在右下角的Copilot按钮或直接拖拽图片到Copilot图标上启动该功能。此外，本次更新还修复了导致explorer.exe崩溃次数增加的问题以及"设置"在某些Insiders进入"系统"/"Nearby Sharing"时崩溃的问题。
+   
+媒体报道
+  
+微软发布Win11新版本：Copilot功能增强，快来尝鲜！中关村在线/搜狐科技
+  
+微软发布 Win11 Beta 22635.3286 预览版：增强 Copilot、修复 explorer.exe 崩溃IT 之家
+  
+微软发布 Win11 Beta 22635.3286 预览版：增强 Copilot搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万科多只债券上涨 东方证券认为万科短期内标债风险较低]]></title>
+        <id>readhub-8XmdkWU2x4x</id>
+        <link href="https://readhub.cn/topic/8XmdkWU2x4x"/>
+        <updated>2024-03-09T00:40:50.000Z</updated>
+        <summary type="html"><![CDATA[深圳证券交易所对“22万科06”债券实施盘中临时停牌，因其盘中成交价较前收盘价首次上涨达到或超过20%，随后于15时14分44秒复牌。万科多只债券收盘上涨，其中“20万科08”涨幅最大，达到23.11%。万科已就其3月11日到期的美元债偿付作出回应，表示资金已到位，偿债工作有序进行。东方证券认为，万科的销售保持韧性，拥有较大体量的经营性资产，且房地产融资协调机制的加速落地均有利于降低其公开债违约风险。
+   
+媒体报道
+  
+中期票据偿付资金“到位”，万科多只债券大幅收涨腾讯网/新浪科技
+  
+万科全数偿付6.47亿美元到期中票，“股债双杀”告一段落钛媒体
+  
+经历股债“双杀”后，“优等生”万科韧性几何？新浪科技
+  
+万科：已将6.47亿美元存入指定账户，以偿付到期票据本息新浪科技
+  
+快讯：“22万科06”涨超20%，盘中临时停牌新浪科技
+  
+中期票据偿付资金“到位” 万科多只债券大幅收涨新浪科技
+  
+突然大涨23%！刚刚，万科公告：已打款！新浪科技
+  
+万科多只债券上涨 东方证券认为万科短期内标债风险较低中国证券网
+  
+万科多只债券上涨！东方证券认为万科短期内标债风险较低新浪科技
+  
+大涨！万科突发！刚刚，已打款腾讯网
+  
+万科债券午后继续上涨 “22万科06”涨超14%新浪科技]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因火灾被迫停产后 特斯拉德国工厂将于下周恢复运营]]></title>
+        <id>readhub-8XnZHbQiQV1</id>
+        <link href="https://readhub.cn/topic/8XnZHbQiQV1"/>
+        <updated>2024-03-09T00:40:48.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉德国格林海德工厂因附近输电塔火灾导致断电而停产，劳资委员会负责人表示工厂将于下周重启。火灾可能对特斯拉造成数亿欧元损失，德国联邦检察官办公室已开始调查，初步怀疑为恐怖组织袭击。该工厂是特斯拉全球第五家工厂，满负荷生产下年产量可达50万辆汽车，特斯拉计划将其扩建至年产量100万辆。工厂一直受到当地人和环保人士的批评，其扩建计划需砍伐100公顷以上森林，引发反对声浪。特斯拉CEO埃隆·马斯克在社交媒体上谴责纵火行为，认为停止生产电动汽车而非化石燃料汽车是愚蠢做法。
+   
+媒体报道
+  
+因火灾被迫停产后 特斯拉德国工厂将于下周恢复运营新浪科技/腾讯网/凤凰科技
+  
+Altman重新加入公司董事会；特斯拉德国工厂将于下周恢复运营；比特币突破70000美元 创历史新高｜Do早报DoNews
+  
+特斯拉德国工厂将于下周恢复运营新浪科技/财联社]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vivo X100S Pro 手机通过无线电认证，预计搭载天玑 9300+ 处理器]]></title>
         <id>readhub-8Xn2Ok1UapI</id>
@@ -2780,204 +3180,6 @@ A股异动丨CRO板块集体下挫，美生物安全法案向前推进和讯网
 蔚来NIO Phone手机获德国iF设计奖 李斌审美确实不错凤凰科技/手机中国]]></summary>
         <author>
             <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东集团 2023 年归母净利润 242 亿元，同比翻倍增长]]></title>
-        <id>readhub-8Xjg5cLHCNx</id>
-        <link href="https://readhub.cn/topic/8Xjg5cLHCNx"/>
-        <updated>2024-03-06T15:00:52.000Z</updated>
-        <summary type="html"><![CDATA[京东集团2023年第四季度收入达3061亿元，全年收入达10847亿元，分别同比增长3.6%和3.7%。净利润方面，第四季度为34亿元，全年为242亿元。电子产品及家用电器品类收入增速高于行业平均水平，服务收入同比增长17.8%。京东物流服务外部客户收入同比增长30.8%。此外，董事会批准年度现金股利约12亿美元，并启动新股份回购计划，未来36个月内最多回购30亿美元股份。截至2023年底，京东共创造近62万个就业岗位，全年人力资源总支出达1047亿元人民币，并自2024年初提升员工薪酬激励和福利保障。
-   
-媒体报道
-  
-2023年营收同比增长3.7％，京东美股盘前涨近12%腾讯网
-  
-京东集团：2023年第三方商家数同比增长188%界面
-  
-执行低价策略一年后 京东首份财报出炉：利润涨了新浪科技
-  
-京东集团 2023 年归母净利润 242 亿元，同比翻倍增长IT 之家/DoNews
-  
-去年净利润大增139.99%！京东集团计划回购30亿美元股份新浪科技
-  
-执行低价策略一年后，京东首份财报出炉：利润涨了腾讯网
-  
-看图：京东第四季度营收3061亿元 同比增长3.6%新浪科技
-  
-京东集团第四季度净营收3,061亿元人民币，预估2,999亿元人民币。华尔街见闻
-  
-京东：已有近百名京东快递小哥三年收入超百万元凤凰科技
-  
-营收净利双增长，京东“价格战”初见成效界面
-  
-对长期发展有信心 京东公告：拟回购股份不超过30亿美元！新浪科技
-  
-京东季报图解：营收突破3000亿 派发12亿美元现金股利腾讯网
-  
-京东集团-SW(09618)发布年度业绩 股东应占溢利241.67亿元 同比增加132.82% 拟采纳一项回购价值不超过30亿美元的股份回购计划智通财经
-  
-京东集团：2023年全年收入同比增加3.7%，归母净利润242亿元界面
-  
-京东公布2023年财报：全年收入10847亿元人民币，同比增长3.7%新浪科技
-  
-京东集团2023年第四季度收入3061亿元 同比增长3.6%新浪科技
-  
-京东集团：未来36个月内拟回购价值不超30亿美元的股份新浪科技]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广汽丰田第9代凯美瑞正式上市]]></title>
-        <id>readhub-8XjMVMQbOtl</id>
-        <link href="https://readhub.cn/topic/8XjMVMQbOtl"/>
-        <updated>2024-03-06T15:00:43.000Z</updated>
-        <summary type="html"><![CDATA[广汽丰田第9代凯美瑞正式上市，起步价为17.18万元。
-   
-媒体报道
-  
-广汽丰田全新第九代凯美瑞上市 大众本田隔空祝福中关村在线
-  
-全新广汽丰田凯美瑞正式上市 售价17.18万-20.68万元手机中国
-  
-广汽丰田第9代凯美瑞正式上市界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月楼市找房热度回暖，改善性购房群体成“主力军”]]></title>
-        <id>readhub-8XjYyLP2gCN</id>
-        <link href="https://readhub.cn/topic/8XjYyLP2gCN"/>
-        <updated>2024-03-06T14:41:28.000Z</updated>
-        <summary type="html"><![CDATA[《2月国民安居指数报告》显示，2024年2月全国找房热度上涨18.6%，一线城市中深圳找房热度上涨32.4%。65城中有25城新房价格、36城二手房挂牌均价环比上涨，购房者信心指数上涨4.3%。新房找房热度全面回暖，一线城市和二线城市涨幅分别为17.9%和17.7%，三四线城市涨幅达22.8%。深圳、北京、上海、广州等城市新房线上均价分别为58212元/㎡、55808元/㎡、52129元/㎡、35400元/㎡。购房者对于3月购房时机的看法分歧，29.3%认为好时机，44.2%观望，39.5%认为房价将基本持平。三居室找房热度最高，占比47.2%，改善性购房群体成为主力军。
-   
-媒体报道
-  
-消费品以旧换新加速推进；2月全国找房热度环比上涨18.6%丨明日主题前瞻腾讯网
-  
-2月楼市找房热度回暖，改善性购房群体成“主力军”腾讯网
-  
-机构：2月全国找房热度回暖，购房者信心指数环比涨4.3%澎湃新闻]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾势汽车推出腾势D9四座创领版，二季度开始交付]]></title>
-        <id>readhub-8XjogaCKRg0</id>
-        <link href="https://readhub.cn/topic/8XjogaCKRg0"/>
-        <updated>2024-03-06T14:25:57.000Z</updated>
-        <summary type="html"><![CDATA[腾势汽车发布腾势D9四座创领版，售价60.06万元，预计第二季度交付。
-   
-媒体报道
-  
-腾势汽车推出腾势D9四座创领版，二季度开始交付界面
-  
-友商的“贺电”：新岚图梦想家宣布推出 3 万元限时换车补贴，跟进腾势 D9IT 之家
-  
-腾势 D9 四座创领版发布：四座布局、后舱独立空间，售 60.06 万元IT 之家]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克：SpaceX 星舰重型火箭第三次试飞正在准备中]]></title>
-        <id>readhub-8Xjteo9iIsf</id>
-        <link href="https://readhub.cn/topic/8Xjteo9iIsf"/>
-        <updated>2024-03-06T14:11:11.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX的创始人埃隆·马斯克宣布，公司正在为星舰火箭的第三次试飞做准备，并可能在3月初发射。星舰已经通过了关键的燃料测试，其超级重型助推器和50米高的星舰上层已被堆放在Starbase的轨道发射架上。发射前提是美国联邦航空管理局的许可证及时到位。
-   
-媒体报道
-  
-马斯克称SpaceX“星舰”重型火箭可能很快进行第三次试飞界面/财联社
-  
-马斯克：SpaceX 星舰重型火箭第三次试飞正在准备中IT 之家]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金店变身“黄金银行”，托管资质存疑、涉嫌非法集资]]></title>
-        <id>readhub-8XjN9uS7fec</id>
-        <link href="https://readhub.cn/topic/8XjN9uS7fec"/>
-        <updated>2024-03-06T13:50:53.000Z</updated>
-        <summary type="html"><![CDATA[近期，现货黄金价格创新高，但黄金消费市场风险事件频发。中国黄金北京一加盟店突然关闭，消费者购买的黄金无法兑现，造成财产损失。专家指出，实物黄金的托管业务应由金融机构发起设立，而金店并不具备此项业务资质。为规范黄金市场，中国人民银行已发布相关管理暂行办法。近年来，黄金加盟店黄金消失、跑路等事件屡见不鲜，一些金店涉嫌非法集资，以高回报为诱饵，吸引消费者投资。相关部门提醒投资者保持警惕，避免陷入非法集资陷阱，并将加强监管，严厉打击非法集资行为。
-   
-媒体报道
-  
-银行消费贷降息提额，消金公司如何有效“反卷”？凤凰科技
-  
-美监管机构拟修订大型银行资本要求 银行负担有望减轻智通财经
-  
-金店变身“黄金银行”，托管资质存疑、涉嫌非法集资新浪科技/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李开复旗下AI公司零一万物宣布开源Yi-9B模型]]></title>
-        <id>readhub-8XjrAu7kyzV</id>
-        <link href="https://readhub.cn/topic/8XjrAu7kyzV"/>
-        <updated>2024-03-06T13:36:15.000Z</updated>
-        <summary type="html"><![CDATA[李开复旗下的AI公司零一万物宣布开源了Yi-9B模型，该模型是Yi系列中最强的模型，实际参数为8.8B，默认上下文长度为4K tokens。Yi-9B在多个方面的性能都超过了其他开源模型，如DeepSeek-Coder、DeepSeek-Math、Mistral-7B、SOLAR-10.7B和Gemma-7B。此外，Yi-9B（BF 16）和其量化版 Yi-9B（Int8）可以在消费级显卡上轻松部署，使用成本较低，对开发者友好。该公司此前已推出Yi-34B和Yi-6B两个开源大模型，对学术研究完全开放，并同步开放免费商用申请。
-   
-媒体报道
-  
-李开复旗下 AI 公司零一万物宣布开源 Yi-9B 模型，号称同系列代码、数学能力最强IT 之家
-  
-李开复旗下AI公司零一万物宣布开源Yi-9B模型，号称同系列代码、数学能力最强凤凰科技
-  
-李开复旗下AI公司零一万物宣布开源Yi-9B模型搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[林洁参加全国政协十四届二次会议分组讨论 昂扬奋进以实干实绩开新局]]></title>
-        <id>readhub-8XiQCuUxSAF</id>
-        <link href="https://readhub.cn/topic/8XiQCuUxSAF"/>
-        <updated>2024-03-06T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[全国政协委员、深圳市政协主席林洁在全国政协十四届二次会议上审议全国政协常委会工作报告时表示，报告符合党中央决策部署，为政协事业高质量发展注入动力，为地方政协工作提供指导。过去一年，深圳市政协坚持党的领导、统一战线、协商民主，推动深圳改革开放，助力增强粤港澳大湾区核心引擎功能，完善民主监督和委员联系界别群众制度机制。新征程上，深圳市政协将加强政治建设，服务中国式现代化，加强政协制度化、规范化、程序化建设，提高政协制度在城市治理中的效能，以昂扬奋进的精神状态，迎接新中国成立75周年和人民政协成立75周年。
-   
-媒体报道
-  
-在沪全国政协委员分组讨论政府工作报告，胡文容参加界面
-  
-两会现场速递｜团结凝聚力量 奋斗铸就伟业——来自全国政协十四届二次会议分组审议现场的报道中国证券网
-  
-两会受权发布 | 全国政协领导同志分别参加全国政协十四届二次会议分组讨论中国证券网
-  
-林洁参加全国政协十四届二次会议分组讨论 昂扬奋进以实干实绩开新局新浪科技
-  
-在沪全国政协委员审议常委会工作报告和提案工作情况报告新浪科技
-  
-在沪全国政协委员分组讨论政府工作报告财联社/界面]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东公布2023年四季度及全年业绩 批准不超30亿美元回购计划]]></title>
-        <id>readhub-8Xjh9Whm7hz</id>
-        <link href="https://readhub.cn/topic/8Xjh9Whm7hz"/>
-        <updated>2024-03-06T12:45:46.000Z</updated>
-        <summary type="html"><![CDATA[京东集团公布2023年四季度和全年业绩，四季度收入3061亿元人民币，同比增长3.6%。全年收入10847亿元人民币，同比增长3.7%。净利润方面，四季度为84亿元人民币，全年为352亿元人民币。董事会批准了12亿美元的年度现金股利，并启动了一项新股份回购计划，未来36个月内可回购最多30亿美元的股份。同时，文中提醒公众遵守外汇管理规定，合法进行外汇交易。
-   
-媒体报道
-  
-京东2023年收入破万亿！人力资源支出超千亿 今年大幅涨薪新浪科技
-  
-京东公布2023年四季度及全年业绩 批准不超30亿美元回购计划和讯网
-  
-京东盘前大涨13% Q4营收超预期 计划启动30亿美元回购计划新浪科技
-  
-京东批准不超30亿美元回购计划财联社
-  
-京东第四季收入3061亿：派发股利12亿美元 推不超30亿美元回购计划腾讯网]]></summary>
-        <author>
-            <name>财联社</name>
         </author>
     </entry>
     <entry>
