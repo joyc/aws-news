@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-10T12:10:53.729Z</updated>
+    <updated>2024-03-10T18:07:41.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[李彦宏称“程序员”职业将不复存在：会说话就能当程序员]]></title>
+        <id>readhub-8Xpv3z1zedr</id>
+        <link href="https://readhub.cn/topic/8Xpv3z1zedr"/>
+        <updated>2024-03-10T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[在央视《对话》节目中，百度创始人李彦宏预测未来人们只需通过语言即可掌握程序员的能力。他认为，大型人工智能模型将对人类生产生活带来根本性变革，超越互联网的影响。李彦宏进一步表示，未来编程语言或将简化为英文和中文，这反映了人工智能技术当前的最先进领域。
+   
+媒体报道
+  
+百度CEO李彦宏：未来或不再需要专业程序员，语言即编程ITBear科技资讯
+  
+李彦宏称“程序员”职业将不复存在：会说话就能当程序员凤凰科技
+  
+李彦宏：以后不会存在“程序员”这种职业了新浪科技
+  
+李彦宏最新发声，“程序员”职业将不复存在！新浪科技/和讯网
+  
+李彦宏：以后程序员职业将不复存在，人人具备程序员能力DoNews
+  
+李彦宏称程序员职业将不复存在，周鸿祎：程序员热十年内不会减弱，AI时代更需要程序员搜狐科技
+  
+李彦宏："程序员"职业将不复存在新浪科技
+  
+李彦宏最新发声：机器人不应长得像人，“程序员”职业将消失搜狐科技
+  
+百度李彦宏：“程序员”职业将不复存在，未来编程语言只会剩下英文和中文IT 之家]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称华为与北汽合作项目产能规划30万辆，首款产品月销目标1万辆]]></title>
+        <id>readhub-8XqWE7PeAlf</id>
+        <link href="https://readhub.cn/topic/8XqWE7PeAlf"/>
+        <updated>2024-03-10T15:20:39.000Z</updated>
+        <summary type="html"><![CDATA[北汽蓝谷与华为合作的首款高端智能轿车“享界”即将在北京车展亮相，并计划在6月份发布。该车定位于行政轿车市场，内部定价在30万至50万元之间。此外，享界后续产品规划包括休闲级轿车、SUV等。北汽蓝谷方面表示，他们正在加速推进享界项目，并计划在2024年建立分销和服务网络，将该车型推向海外市场。同时，华为智选车模式下的合作伙伴还包括赛力斯、奇瑞和江淮汽车，今年将推出更多产品，包括问界M8、智界首款SUV等。
+   
+媒体报道
+  
+消息称华为与北汽合作打造的“享界”首款车型 6 月发布，月销目标 1 万辆IT 之家
+  
+消息称华为与北汽合作项目产能规划30万辆 首款产品月销目标1万辆财联社
+  
+消息称华为与北汽合作项目产能规划30万辆，首款产品月销目标1万辆新浪科技/腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可自动识别血栓精准治疗，南京邮电大学研发 DNA“纳米递药机器”]]></title>
+        <id>readhub-8Xq9hI4Gupp</id>
+        <link href="https://readhub.cn/topic/8Xq9hI4Gupp"/>
+        <updated>2024-03-10T14:30:35.000Z</updated>
+        <summary type="html"><![CDATA[南京邮电大学科研团队近日开发了一种新型的DNA纳米机器，发表在《自然》期刊上的研究论文表明，该机器能在血管内自动寻找血栓并精准释放药物，为治疗心梗、脑中风等疾病提供了新方案。相较于传统溶栓药物疗法，这种纳米机器能更有效地提高溶栓效率，并显著降低凝血功能异常的风险。
+   
+媒体报道
+  
+可自动识别血栓精准治疗，南京邮电大学研发DNA“纳米递药机器”凤凰科技
+  
+可自动识别血栓精准治疗，南京邮电大学研发 DNA“纳米递药机器”新浪科技/IT 之家/中关村在线]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国首部文生视频AI系列动画片：《千秋诗颂》英文版发布]]></title>
+        <id>readhub-8XpyGK0eh2V</id>
+        <link href="https://readhub.cn/topic/8XpyGK0eh2V"/>
+        <updated>2024-03-10T12:12:44.000Z</updated>
+        <summary type="html"><![CDATA[中国首部由AI技术制作的文生视频系列动画片《千秋诗颂》英文版在CGTN正式上线。该片利用AI语言模型进行翻译和配音，并采用声线克隆和AI视频处理等技术，忠实地还原中文配音的音色和情感。《千秋诗颂》是根据国家统编语文教材中的诗词制作，是自主AIGC技术支持的首部系列动画片，已在CCTV-1综合频道播出，受到网友好评，认为这种创新有助于传统文化的传承并激发青少年的创新思维和想象力。
+   
+媒体报道
+  
+中国首部文生视频 AI 动画片，《千秋诗颂》英文版今日发布IT 之家
+  
+中国首部文生视频AI系列动画片：《千秋诗颂》英文版发布中关村在线/凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任天堂与Yuzu模拟器开发者和解 用户积极帮忙维权]]></title>
         <id>readhub-8Xq6qDZWGiz</id>
@@ -1652,572 +1732,6 @@ Windows Phone彻底凉凉！微软移动通信公司正式注销凤凰科技
 全球第二大！上海第八家苹果Apple Store直营店即将开业搜狐科技
   
 苹果全球第二大直营店将开业，就在上海静安寺对面！腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴集团CEO吴泳铭：通义千问正加快追赶GPT-4]]></title>
-        <id>readhub-8Xmd2vALiLH</id>
-        <link href="https://readhub.cn/topic/8Xmd2vALiLH"/>
-        <updated>2024-03-08T06:01:44.000Z</updated>
-        <summary type="html"><![CDATA[阿里巴巴集团CEO吴泳铭表示，通义千问模型正在快速进步，以缩小与GPT-4的差距，并已开始释放其基础大模型的能力。通过提供API/SDK调用等途径，该模型便于开发者和企业用户开发人工智能原生应用。阿里云支持大规模的模型协同工作，可扩展至10万卡量级的集群，并已为全国一半以上的人工智能大模型企业提供服务。此外，阿里云还领导建立了国内领先的人工智能开源社区魔搭，该社区拥有超过2900个开源模型，吸引了超过360万开发者参与。
-   
-媒体报道
-  
-阿里巴巴集团CEO吴泳铭：通义千问正加快追赶GPT-4和讯网/财联社
-  
-阿里CEO吴泳铭：通义千问正加快追赶GPT-4新浪科技/和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rivian R3亮相 提供三电机版套壳R2 售价低于4.5万美元]]></title>
-        <id>readhub-8XmU6Ka99wV</id>
-        <link href="https://readhub.cn/topic/8XmU6Ka99wV"/>
-        <updated>2024-03-08T06:01:31.000Z</updated>
-        <summary type="html"><![CDATA[美国电动汽车初创公司Rivian在推出R2车型后，推出了更小、更经济的紧凑型跨界车R3，预计将推动品牌发展。R3基于R2缩减打造，CEO RJ Scaringe表示其完美捕捉了品牌精神。Rivian的产品此前定位较大、较昂贵市场，R2旨在吸引新客户群体，实现销量和大规模生产，为初创公司带来稳定性。R3车型更短，提供单电机、双电机和三电机配置，两种电池大小，大电池目标续航超483公里，最快加速至60英里/小时仅需三秒。R3和R2均配备特斯拉北美充电标准插头，支持组合充电系统充电。R3还具备增强自动驾驶能力和多功能座椅布局。R2、R3和R3X将在北美发布后全球销售，R3和R3X或将在公司即将建成的乔治亚工厂生产。
-   
-媒体报道
-  
-RIVIAN R2正式发布 约32万元起 2026年上半年交付手机中国
-  
-RIVIAN R2 车型发布：售价 4.5 万美元起，预计 2026 年上半年交付IT 之家
-  
-Rivian R3亮相 提供三电机版套壳R2 售价低于4.5万美元手机中国]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电股价刷新历史新高 摩根士丹利上调其目标价]]></title>
-        <id>readhub-8XljIRITP2B</id>
-        <link href="https://readhub.cn/topic/8XljIRITP2B"/>
-        <updated>2024-03-08T05:45:46.000Z</updated>
-        <summary type="html"><![CDATA[台积电股价创下历史新高，市值超过7700亿美元。摩根士丹利上调其目标价至850元台币，确认增持评级，并将其视为首选股。分析师Charlie Chan表示，在科技、媒体和电信大会后，对台积电的长期增长和定价能力感到乐观。AI半导体订单强劲，生成式AI半导体成为台积电的增长动力。台积电股价自去年10月低点以来已回升逾70%。
-   
-媒体报道
-  
-台积电 2024 年 2 月营收 1816.5 亿元新台币，同比增长 11.3%IT 之家
-  
-台股台积电盘中一度上涨4.7%，创下历史新高！摩根士丹利上调目标价和讯网
-  
-台积电涨超4% 股价续创新高新浪科技
-  
-台积电股价刷新历史新高 摩根士丹利上调其目标价财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乘联会：2月乘用车市场零售109.5万辆 同比下降21%]]></title>
-        <id>readhub-8Xmbajv9uwj</id>
-        <link href="https://readhub.cn/topic/8Xmbajv9uwj"/>
-        <updated>2024-03-08T05:11:07.000Z</updated>
-        <summary type="html"><![CDATA[2月我国乘用车市场零售量为109.5万辆，同比下降21%，环比下降46.2%。今年累计零售313.3万辆，同比增长17%。
-   
-媒体报道
-  
-乘联会：2 月乘用车市场零售 109.5 万辆同比下降 21.0%，新能源乘用车零售 38.8 万辆下降 11.6%IT 之家
-  
-乘联会：2月特斯拉中国出口30224辆 比亚迪汽车出口23291辆新浪科技
-  
-乘联会：2月乘用车市场零售109.5万辆 同比下降21%财联社
-  
-乘联会：2月车市零售出现环比和同比剧烈下滑的重要原因是春节因素带来的节前消费时间差异财联社
-  
-乘联会：2月新能源乘用车出口7.9万辆 同比增长0.1%财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北汽集团回应韩国建厂：消息不实 将对谣言进行调查]]></title>
-        <id>readhub-8Xlbn7SQxiq</id>
-        <link href="https://readhub.cn/topic/8Xlbn7SQxiq"/>
-        <updated>2024-03-08T04:36:03.000Z</updated>
-        <summary type="html"><![CDATA[北汽集团澄清，未与韩国高阳市或韩国（株）GOMSD建立合作，正对相关事件进行调查，并保留追究法律责任的权利。有报道称北汽集团将在高阳自由经济区投资建设年产20万台的电动汽车厂，并计划将90%的产量出口至韩国以外市场。高阳市计划派代表团访问北汽集团中国总部以落实协议内容。
-   
-媒体报道
-  
-北汽集团回应韩国建厂：消息不实 将对谣言进行调查凤凰科技
-  
-北汽集团：“在韩国高阳建厂”信息不实i黑马/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民政部：让老年人在家门口享受便捷养老服务]]></title>
-        <id>readhub-8XmV9zcJ3mv</id>
-        <link href="https://readhub.cn/topic/8XmV9zcJ3mv"/>
-        <updated>2024-03-08T04:31:56.000Z</updated>
-        <summary type="html"><![CDATA[民政部部长陆治原在两会期间表示，将致力于发展社区嵌入式养老服务机构、老年人活动中心和老年食堂，旨在让老年人能在家门口便利地享受养老服务。
-   
-媒体报道
-  
-我国60岁以上老人占比已达21.1% 民政部部长回应如何应对人口老龄化和讯网
-  
-民政部部长谈中国人喜欢居家养老：让老年人在家门口享受便捷养老新浪科技
-  
-民政部：让老年人在家门口享受便捷养老服务财联社
-  
-民政部：健全社会保障体系 解决养老资金来源问题财联社]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[交通运输部：今年春运有4个特点，人流量创同期历史新高]]></title>
-        <id>readhub-8XmWEQvh4Fi</id>
-        <link href="https://readhub.cn/topic/8XmWEQvh4Fi"/>
-        <updated>2024-03-08T04:31:41.000Z</updated>
-        <summary type="html"><![CDATA[交通运输部部长李小鹏指出，今年春运呈现四大特点：人流量创历史新高，自驾出行成为主流，成功应对恶劣天气，客流和物流顺畅，展现了中国高效流动的人员和货物运输能力。
-   
-媒体报道
-  
-交通运输部：我国已建成世界最大的高铁网、高速网、快递网和讯网
-  
-交通运输部部长：春运40天有力展示了人员和货物高效流动的中国，充满了生机和活力澎湃新闻/新浪科技
-  
-交通强国有多强？交通运输部部长披露了一组数据新浪科技
-  
-交通运输部部长：自驾占春运出行总量80%，高速公路服务区充电桩还不够充足新浪科技
-  
-交通运输部部长：40天内67亿人次自驾出行，成春运主力新浪科技
-  
-交通运输部：自驾占春运出行总量80％ 高速公路服务区充电桩还不够充足财联社
-  
-交通运输部部长：全国每天揽收3.6亿件快件，运输服务越来越聪明贴心新浪科技
-  
-交通运输部：今年春运有4个特点，人流量创同期历史新高新浪科技
-  
-交通运输部：40天内67亿人次自驾出行，成为春运出行主力新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工信部部长：我国已实现“县县通5G”、“村村通宽带”]]></title>
-        <id>readhub-8XmTOAeo3FK</id>
-        <link href="https://readhub.cn/topic/8XmTOAeo3FK"/>
-        <updated>2024-03-08T04:31:07.000Z</updated>
-        <summary type="html"><![CDATA[我国工业和信息化部部长金壮龙在全国人大二次会议第二场“部长通道”集中采访活动中表示，我国5G基站数量已达到338万个，实现了“市市通千兆”、“县县通5G”和“村村通宽带”的目标。
-   
-媒体报道
-  
-工信部：我国已实现县县通5G村村通宽带搜狐科技/财联社
-  
-工信部部长：我国已实现“县县通5G”“村村通宽带”搜狐科技
-  
-工信部部长：我国已实现“县县通5G”、“村村通宽带”搜狐科技
-  
-工信部：我国已实现县县通5G、村村通宽带搜狐科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok回应被要求与字节跳动剥离]]></title>
-        <id>readhub-8Xke8IcnePP</id>
-        <link href="https://readhub.cn/topic/8Xke8IcnePP"/>
-        <updated>2024-03-08T04:08:50.000Z</updated>
-        <summary type="html"><![CDATA[当地时间3月5日，美国众议院议员提出了一项跨党派法案，要求中国科技公司字节跳动在165天之内剥离旗下短视频应用程序TikTok，否则TikTok将在各大应用商店被禁止上架。对此，TikTok发言人亚历克斯·豪雷克（Alex Haurek）同日回应称，无论提案人如何掩饰，这项法案都是一项彻头彻尾的TikTok封禁令，将践踏1.7亿美国人的第一修正案权利，剥夺500万小企业赖以发展和创造就业的平台。
-   
-媒体报道
-  
-美众议院一委员会通过法案要求字节跳动剥离TikTok TikTok回击财联社
-  
-美议员再推无理提案要求字节跳动剥离TikTok控制权，TikTok回应华尔街见闻
-  
-字节跳动剥离TikTok危机再进一步 美众议院50:0通过法案腾讯网
-  
-美媒：美众议院一委员会通过法案要求字节跳动剥离TikTok，TikTok回击凤凰科技
-  
-TikTok回应被要求与字节跳动剥离i黑马]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东方甄选将董宇辉商标转给与辉同行]]></title>
-        <id>readhub-8XmQBZ8rsvg</id>
-        <link href="https://readhub.cn/topic/8XmQBZ8rsvg"/>
-        <updated>2024-03-08T04:06:37.000Z</updated>
-        <summary type="html"><![CDATA[东方甄选关联公司东方优选（北京）科技有限公司近日将其注册的“董宇辉”商标转让给与辉同行（北京）科技有限公司，后者成立于2023年12月，由北京新东方迅程网络科技有限公司全资持股，法定代表人、执行董事、经理为董宇辉，监事为俞敏洪。商标涵盖广告销售、教育娱乐、办公用品、食品等领域。
-   
-媒体报道
-  
-董宇辉商标已转给与辉同行公司  东方甄选将董宇辉商标转给与辉同行DoNews
-  
-东方甄选将董宇辉商标转给与辉同行和讯网/新浪科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞典正式加入北约，结束 200 多年中立政策]]></title>
-        <id>readhub-8Xm1AL3jfpo</id>
-        <link href="https://readhub.cn/topic/8Xm1AL3jfpo"/>
-        <updated>2024-03-08T04:05:39.000Z</updated>
-        <summary type="html"><![CDATA[瑞典于3月7日正式成为北约的第32个成员国，结束了其200多年的不结盟政策。北约秘书长斯托尔滕贝格表示，瑞典的加入增强了北约的力量，并保障了联盟的安全。斯托尔滕贝格还表示，瑞典的加入不会对北约的开放性造成影响。芬兰和瑞典在2022年俄乌冲突后申请加入北约，芬兰已于2023年4月4日正式加入。
-   
-媒体报道
-  
-瑞典正式加入北约！结束了200多年的中立政策新浪科技
-  
-瑞典正式加入北约中国证券网/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国证券交易委员会推迟决定是否批准现货比特币ETF期权交易]]></title>
-        <id>readhub-8Xm6rZ8wzCk</id>
-        <link href="https://readhub.cn/topic/8Xm6rZ8wzCk"/>
-        <updated>2024-03-08T04:04:51.000Z</updated>
-        <summary type="html"><![CDATA[美国证券交易委员会（SEC）推迟了对芝加哥期权交易所和纳斯达克关于批准现货比特币ETF期权交易的最终决定时间。这些提案包括交易与持有比特币的ETF挂钩的期权以及上市并交易贝莱德iShares Bitcoin Trust的期权。
-   
-媒体报道
-  
-美国证券交易委员会推迟决定是否批准现货比特币ETF期权交易和讯网/新浪科技/财联社]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《龙珠》漫画家鸟山明因病去世，年仅 68 岁]]></title>
-        <id>readhub-8XmUovud7WM</id>
-        <link href="https://readhub.cn/topic/8XmUovud7WM"/>
-        <updated>2024-03-08T03:36:12.000Z</updated>
-        <summary type="html"><![CDATA[著名漫画家鸟山明因急性硬膜下血肿去世，享年68岁。他的代表作包括《龙珠》和《阿拉蕾》，并为多款著名游戏设计角色。他的创作活动持续了45年，深受全球粉丝喜爱。他的去世让许多人感到遗憾，因为他还有几部作品正在创作中。葬礼已经举行，未来可能会有纪念活动。
-   
-媒体报道
-  
-日本漫画家鸟山明因病去世，享年68岁DoNews
-  
-《龙珠》漫画家鸟山明因病去世，年仅 68 岁IT 之家
-  
-日本漫画家《龙珠》作者鸟山明逝世，享年68岁腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网传华为P70延期至4月，卫通技术会有新突破]]></title>
-        <id>readhub-8XmUoSJEoT8</id>
-        <link href="https://readhub.cn/topic/8XmUoSJEoT8"/>
-        <updated>2024-03-08T03:26:18.000Z</updated>
-        <summary type="html"><![CDATA[华为P70系列手机原计划于2023年上半年推出，但近日有爆料称其延期至2024年4月。新系列可能包括华为P70、P70 Pro和P70 Pro+三款手机，以及独特设计的华为P70 Art。预计将配备三角形后摄模组，内置包括5000万像素摄像头在内的多个摄像头。影像系统可能采用新的OV50H传感器和可变光圈模组，提升成像质量。此外，新手机可能还会引入北斗卫通等技术创新。
-   
-媒体报道
-  
-网传华为P70延期至4月，卫通技术会有新突破搜狐科技
-  
-华为P70推迟发布！AI相机大升级，4月不见不散搜狐科技
-  
-华为回应网传P70手机传延期发布：发布时间不固定搜狐科技
-  
-华为P70系列手机延期发布？内部知情人士：“压根没对外公布过发布日期”财联社/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长虹电视 2024 春季新品发布会 3 月 14 日举行]]></title>
-        <id>readhub-8XmNgXJI9ut</id>
-        <link href="https://readhub.cn/topic/8XmNgXJI9ut"/>
-        <updated>2024-03-08T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[长虹电视宣布将于3月14日举行2024春季新品发布会，并将在AWE 2024上海家电展上亮相。新一代“壁画+电视”产品注重外观与性能的双重提升，预计在薄度和智能化系统方面有所创新。去年，长虹与中国火箭合作推出的ARTIST星箔艺术电视，以24.9mm的厚度、20736分区MiniLED、8000nits XDR峰值亮度等高端参数，定价17997元，预示着新一代产品的价格也将不菲。
-   
-媒体报道
-  
-长虹电视 2024 春季新品发布会 3 月 14 日举行，将推新一代“壁画 + 电视”中关村在线/IT 之家/搜狐科技
-  
-长虹电视 2024 春季新品发布会 3 月 14 日举行搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀春季旗舰新品发布会3月18日举办 三大重磅新品齐至]]></title>
-        <id>readhub-8XmOji1D8AU</id>
-        <link href="https://readhub.cn/topic/8XmOji1D8AU"/>
-        <updated>2024-03-08T03:00:54.000Z</updated>
-        <summary type="html"><![CDATA[荣耀手机官方宣布将于3月18日举办春季旗舰新品发布会，届时将推出包括荣耀Magic6至臻版、荣耀Magic6 RSR保时捷设计、荣耀MagicBook Pro 16等新品。此前，荣耀已在MWC 2024上发布了Magic6系列、MagicV2 RSR保时捷设计、MagicOS 8.0、AI PC荣耀MagicBook Pro 16等产品。荣耀CEO赵明表示，荣耀坚持“做好自己”的策略，致力于将Magic6 RSR保时捷设计打造成拥有最佳屏幕、续航和抓拍体验的手机。同时，MagicBook Pro 16作为荣耀首款AI PC产品，实现了跨设备、跨系统、跨应用的智慧互联体验。
-   
-媒体报道
-  
-荣耀春季旗舰新品发布会3月18日举办 三大重磅新品齐至手机中国
-  
-荣耀春季旗舰新品发布会官宣 不止保时捷设计手机中国/搜狐科技]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朱立华出任尚网网络CEO 旗下产品WiFi万能钥匙入局AI大模型]]></title>
-        <id>readhub-8XmHxdroi8s</id>
-        <link href="https://readhub.cn/topic/8XmHxdroi8s"/>
-        <updated>2024-03-08T02:46:18.000Z</updated>
-        <summary type="html"><![CDATA[南京尚网网络科技有限公司（尚网网络）宣布，原陌陌技术负责人朱立华加盟该公司，担任CEO。尚网网络主要提供免费WiFi服务，朱立华将领导团队在AI领域探索创新，推进社交和本地内容创造的发展。朱立华曾任职美国微软，负责云计算项目，并开发了新一代远程桌面协议技术，也曾与微软亚洲研究院合作开发AI辅助的远程桌面协议，为微软云计算商业增长做出贡献。后来，他在阿里钉钉推出多项创新产品。
-   
-媒体报道
-  
-前陌陌技术负责人朱立华加盟尚网网络 担任CEO职务腾讯网
-  
-朱立华出任尚网网络CEO 带领WiFi万能钥匙进入AI大模型领域搜狐科技
-  
-朱立华出任尚网网络CEO 引领WiFi万能钥匙进入AI大模型领域搜狐科技
-  
-朱立华出任尚网网络CEO 旗下产品WiFi万能钥匙入局AI大模型新浪科技]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称索尼手机或将退出中国大陆市场]]></title>
-        <id>readhub-8XmNjQvyJCO</id>
-        <link href="https://readhub.cn/topic/8XmNjQvyJCO"/>
-        <updated>2024-03-08T02:41:47.000Z</updated>
-        <summary type="html"><![CDATA[索尼Xperia智能手机可能退出中国大陆市场，该消息源自媒体援引的帖子。尽管日媒表示索尼手机退出中国市场是“正在进行中”或“已经实施”，但目前索尼产品仍在某电商平台上正常销售。
-   
-媒体报道
-  
-传索尼手机业务将退出中国大陆市场凤凰科技
-  
-索尼手机或退出中国大陆市场，只怪国产机太能卷了？搜狐科技/钛媒体
-  
-消息称索尼手机或将退出中国大陆市场i黑马]]></summary>
-        <author>
-            <name>i黑马</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠普推出全新 EliteBook / ProBook / ZBook 商用 AI 笔记本电脑]]></title>
-        <id>readhub-8XmNgaU0B3c</id>
-        <link href="https://readhub.cn/topic/8XmNgaU0B3c"/>
-        <updated>2024-03-08T02:41:30.000Z</updated>
-        <summary type="html"><![CDATA[惠普发布新一代EliteBook、ProBook和ZBook商用笔记本电脑，采用英特尔酷睿Ultra、AMD锐龙Pro处理器，配备专用NPU和多项AI功能。新系列包括Elite x360 1040 G11、EliteBook 1040 G11、EliteBook 830 G11等型号，部分4月上市，部分5月上市，海外定价与国内价格差异较大。
-   
-媒体报道
-  
-惠普推出新一代 EliteBook / ProBook / ZBook 商用笔记本电脑，主打 AI 功能IT 之家
-  
-惠普推出全新 EliteBook / ProBook / ZBook 商用 AI 笔记本电脑搜狐科技
-  
-惠普推出新一代EliteBook/ProBook ZBook商用笔记本电脑，主打AI功能凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军：为小米汽车上市做最后冲刺准备，科技创新是核心发力点]]></title>
-        <id>readhub-8XmGCgjZdct</id>
-        <link href="https://readhub.cn/topic/8XmGCgjZdct"/>
-        <updated>2024-03-08T02:33:19.000Z</updated>
-        <summary type="html"><![CDATA[雷军，小米集团董事长兼CEO，在2024年全国两会期间表示，他及其团队正在为小米汽车上市做最后冲刺准备。小米汽车进行了大规模的路测和极寒条件下的冬测，结果反馈良好。雷军指出，中国智能电动汽车产业通过科技创新实现了从跟跑到领跑的跨越，科技创新是推动产业创新和未来发展的新优势的核心。
-   
-媒体报道
-  
-【科技早报】英伟达股价新高，董事套现；雷军为小米汽车上市做最后冲刺准备搜狐科技
-  
-雷军：为小米汽车上市做最后冲刺准备，科技创新是核心发力点i黑马
-  
-雷军：为小米汽车上市做最后冲刺准备，我们路测冬测反馈结果非常好【附智能汽车行业现状分析】搜狐科技]]></summary>
-        <author>
-            <name>i黑马</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称小米SU7媒体试驾活动即将开启 新车发布在即]]></title>
-        <id>readhub-8XlQhgzU7SI</id>
-        <link href="https://readhub.cn/topic/8XlQhgzU7SI"/>
-        <updated>2024-03-08T02:32:46.000Z</updated>
-        <summary type="html"><![CDATA[小米汽车SU7的售价备受关注，传闻将在北京举行媒体试驾活动，发布会可能在本月28日举行。雷军表示，小米汽车有信心打开市场，将深耕底层核心技术，发展小米汽车业务，推动高端化与全球化。小米汽车全国首批直营店已开始装修，首家门店位于北京王府井东方新天地。
-   
-媒体报道
-  
-消息称小米SU7媒体试驾活动即将开启 新车发布预计3月28日中关村在线
-  
-消息称小米SU7媒体试驾活动即将开启 新车发布在即凤凰科技/手机中国]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优必选：公司及其附属公司业务运营及财务状况并无重大变动]]></title>
-        <id>readhub-8Xkt7SnEH4h</id>
-        <link href="https://readhub.cn/topic/8Xkt7SnEH4h"/>
-        <updated>2024-03-08T02:28:59.000Z</updated>
-        <summary type="html"><![CDATA[优必选公司宣布，其注意到近期在香港联合交易所的股价和交易量出现不寻常波动。经过调查，公司表示不清楚波动的原因，也没有需要公开以避免虚假市场情况的资料，同时符合香港证券及期货条例的要求，公司及其附属公司的业务运营和财务状况没有发生重大变化。
-   
-媒体报道
-  
-优必选：公司及其附属公司业务运营及财务状况并无重大变动界面
-  
-优必选：并不知悉导致股价波动原因 公司业务运营及财务状况并无重大变动i黑马/财联社]]></summary>
-        <author>
-            <name>界面</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝响应推进优化支付服务：已完成提额，多语言、一码通将近期上线]]></title>
-        <id>readhub-8Xla0zYLohW</id>
-        <link href="https://readhub.cn/topic/8Xla0zYLohW"/>
-        <updated>2024-03-08T02:28:58.000Z</updated>
-        <summary type="html"><![CDATA[国务院发布《关于进一步优化支付服务提升支付便利性的意见》，推动支付服务主体优化老年人、外籍来华人员支付服务。支付宝响应政策，提升外国人交易限额，并开发多语言翻译等新服务。蚂蚁集团也表示将推进支付“适老化”服务，消除数字鸿沟，并加强移动支付推广。
-   
-媒体报道
-  
-支付宝提升外国人交易限额：单笔最高5000美元 一年最高50000美元凤凰科技
-  
-支付宝响应推进优化支付服务：已完成提额，多语言、一码通将近期上线新浪科技
-  
-支付宝：已完成提升和优化外国人交易限额中国证券网
-  
-支付宝：已完成提升和优化外国人交易限额，多语言翻译等服务将近期上线IT 之家
-  
-支付宝推进优化支付服务：已完成提额，多语言、一码通将近期上线新浪科技
-  
-支付宝和财付通宣布：已完成提升和优化外国人交易限额新浪科技/i黑马]]></summary>
-        <author>
-            <name>i黑马</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新专利暗示苹果未来要推 AirPods 清洁四件套]]></title>
-        <id>readhub-8XmNgcyPxok</id>
-        <link href="https://readhub.cn/topic/8XmNgcyPxok"/>
-        <updated>2024-03-08T02:16:19.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司获得了一项关于AirPods耳机清理工具的专利，该工具包括清洁布、软化溶液、软刷和软凝胶。软化溶液用于清洁可穿戴设备，而清洁布可以是无绒布，软刷由硅胶等弹性体制成，软凝胶为水凝胶溶液且可生物降解。苹果还提供了关于如何有效清理AirPods耳机的相关支持文档。
-   
-媒体报道
-  
-新专利暗示苹果未来要推AirPods清洁四件套凤凰科技
-  
-新专利暗示苹果未来要推 AirPods 清洁四件套搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧版 iPhone 离开欧盟地区超 30 天无法使用第三方应用商城]]></title>
-        <id>readhub-8XmCDoeyI0Q</id>
-        <link href="https://readhub.cn/topic/8XmCDoeyI0Q"/>
-        <updated>2024-03-08T02:16:13.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司为了防止欧版iPhone外流，规定用户在离开欧盟地区超过30天后，将无法使用第三方应用商城。用户在30天内仍可更新和使用已安装的应用，但必须身处欧盟国家才能安装第三方应用市场及新应用。苹果要求希望安装非App Store应用的用户的Apple ID必须设置为欧盟国家或地区。
-   
-媒体报道
-  
-苹果严打欧版iPhone“外流”！离开超30天无法使用第三方商店搜狐科技
-  
-欧版 iPhone 离开欧盟地区超 30 天无法使用第三方应用商城搜狐科技
-  
-苹果量化“宽限期”：欧版 iPhone 离开欧盟区域超 30 天后无法使用第三方应用商城IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极氪001新款上市：26.9万起 免费升级ZAD智能驾驶]]></title>
-        <id>readhub-8Xl5dTlW2Gw</id>
-        <link href="https://readhub.cn/topic/8Xl5dTlW2Gw"/>
-        <updated>2024-03-08T02:02:20.000Z</updated>
-        <summary type="html"><![CDATA[极氪汽车新款001车型售价26.9万-32.9万元，配置全面提升，包括8295智能座舱芯片、激光雷达和800V高压架构。消费者可免费使用ZAD完全智能辅助驾驶系统，该服务已推广至36座城市，并计划在全国90%以上的地级市覆盖。新车采用800V高压电气平台技术，单电机后驱版和双电机四驱版分别可在5.9秒和3.3秒内完成0-100km/h加速。极氪001的高速NZP功能已覆盖36座城市，包括多个大城市。在3月31日前订购新款极氪001的用户，可免费获得价值35000元的ZAD服务。
-   
-媒体报道
-  
-终身免费！极氪001新老车主可0元开通ZAD智驾系统手机中国
-  
-极氪001新款上市：26.9万起 免费升级ZAD智能驾驶中关村在线
-  
-终身免费使用，极氪 001 新老车主 0 元开通完全智能辅助驾驶系统IT 之家]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal宣布支持苹果Tap to Pay：推动美国小企业实现免接触式支付]]></title>
-        <id>readhub-8XmFo30AnKJ</id>
-        <link href="https://readhub.cn/topic/8XmFo30AnKJ"/>
-        <updated>2024-03-08T02:01:42.000Z</updated>
-        <summary type="html"><![CDATA[PayPal宣布支持苹果的Tap to Pay功能，使得美国小企业仅需使用iPhone即可实现免接触式支付，无需额外硬件。这一举措是为了适应消费者越来越多地选择非现金支付方式的趋势，帮助小企业提供更多支付选择，扩大客户群并推动销售额增长。根据PayPal的数据，超过40%的美国人一周内的所有消费都不使用现金，显示出现金支付逐渐不再是主流。
-   
-媒体报道
-  
-PayPal：苹果的接触式支付功能对小企业来说是好消息中关村在线
-  
-PayPal宣布支持苹果Tap to Pay：推动美国小企业实现免接触式支付搜狐科技
-  
-PayPal 宣布支持苹果 Tap to Pay：推动数百万美国小企业实现免接触式支付IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果为 iOS 18 和 macOS 15 开发新的无障碍功能：满足个性化需求]]></title>
-        <id>readhub-8XmAnw24xnJ</id>
-        <link href="https://readhub.cn/topic/8XmAnw24xnJ"/>
-        <updated>2024-03-08T02:00:52.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司正在开发iOS 18和macOS 15，其中包含多项无障碍功能。新系统将支持自定义语音命令以快速切换辅助功能，如VoiceOver和缩放。用户还能自定义Live Speech功能中的类别，并添加个性化短语。此外，苹果计划扩大应用程序对自定义字体大小的支持范围，让用户能为单个应用程序选择不同的字体大小。macOS 15的自定义字体大小功能将新增支持五款应用，并可能在内部测试改变菜单栏字体大小的选项。苹果还在开发利用设备眼动追踪功能的新无障碍功能，具体细节尚未公布。
-   
-媒体报道
-  
-苹果为 iOS 18 和 macOS 15 开发新的无障碍功能搜狐科技
-  
-iOS 18和macOS 15无障碍功能改善：口语短语切换辅助功能中关村在线
-  
-苹果为 iOS 18 和 macOS 15 开发新的无障碍功能：满足个性化需求IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产大飞机C919新增上海往返西安航线]]></title>
-        <id>readhub-8XmMaGERmXO</id>
-        <link href="https://readhub.cn/topic/8XmMaGERmXO"/>
-        <updated>2024-03-08T01:36:00.000Z</updated>
-        <summary type="html"><![CDATA[东航C919客机开始执行第三条定期商业航线，从上海虹桥国际机场飞往西安咸阳国际机场。东航C919客机今后每天在上海—西安航线上执行2个往返航段。
-   
-媒体报道
-  
-国产大飞机C919新增上海往返西安航线腾讯网/新浪科技/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年初华为手机销量大涨64% 苹果OV均两位数下滑]]></title>
-        <id>readhub-8XkmMPCgROo</id>
-        <link href="https://readhub.cn/topic/8XkmMPCgROo"/>
-        <updated>2024-03-08T01:31:10.000Z</updated>
-        <summary type="html"><![CDATA[2024年初，华为手机销量大涨64%，主要得益于Mate60系列的热销。而苹果、OPPO和vivo等主要手机厂商的销量均出现两位数下滑。分析师指出，苹果iPhone销量下滑的原因包括高端市场面临华为的竞争、激进的定价策略，以及iPhone 15没有显著升级等因素。同时，2023年1月的高销量基数也导致了今年销量对比的负面影响。尽管如此，苹果仍在尝试通过促销活动来刺激销量。预计2024年第一季度，整体智能手机市场增长将继续为负。
-   
-媒体报道
-  
-2024年初华为手机销量大涨64% 苹果OV均两位数下滑手机中国/搜狐科技
-  
-机构：2024年前六周，华为手机国内销量增64%，苹果、OPPO、vivo 两位数下滑，搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联航一波音客机因发动机起火被迫返航]]></title>
-        <id>readhub-8Xm0nYe1DqB</id>
-        <link href="https://readhub.cn/topic/8Xm0nYe1DqB"/>
-        <updated>2024-03-08T00:25:48.000Z</updated>
-        <summary type="html"><![CDATA[美联航一架从得克萨斯州休斯敦飞往佛罗里达州迈尔斯堡的波音737客机因发动机起火被迫返航，机上共有167名乘客，所幸无人受伤。目前，美国联邦航空管理局正在调查起火原因。
-   
-媒体报道
-  
-美联航一架波音飞机飞行中轮胎丢失 起飞不久后改道迫降财联社/腾讯网
-  
-美联航一波音客机飞行中轮胎掉落：多车被砸 起飞25分钟迫降凤凰科技
-  
-美联航一波音客机因发动机起火被迫返航财联社]]></summary>
         <author>
             <name>腾讯网</name>
         </author>
