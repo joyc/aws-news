@@ -313,6 +313,76 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8Xq6qDZWGiz",
+          "author": "凤凰科技",
+          "description": "任天堂与Yuzu模拟器开发者达成和解，开发者需支付240万美元赔偿金并关闭业务。在诉讼过程中，一位用户向任天堂发送93封邮件，控诉Yuzu模拟器，最终促使双方和解。该用户对Yuzu未针对Windows 7优化表示不满，并向任天堂提醒有人使用Yuzu运行游戏备份。\n   \n媒体报道\n  \n任天堂与Yuzu模拟器开发者和解 用户积极帮忙维权搜狐科技/中关村在线\n  \n继 Yuzu 后，另一款热门任天堂模拟器 Pizza Emulators 也宣告关闭IT 之家\n  \n继Yuzu后，另一款热门任天堂模拟器Pizza Emulators也宣告关闭凤凰科技",
+          "link": "https://readhub.cn/topic/8Xq6qDZWGiz",
+          "publishedOn": "2024-03-10T09:16:01.000Z",
+          "wordCount": 256,
+          "title": "任天堂与Yuzu模拟器开发者和解 用户积极帮忙维权",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xq8HKdKlmB",
+          "author": "凤凰科技",
+          "description": "我国自主研制的“翼龙”-2H气象型无人机在贵州省成功实施人工增雨作业，这是该无人机在贵州省首次完成此类任务。该无人机累计飞行近5小时，作业影响区域覆盖毕节、六盘水、安顺等地。未来，该无人机将开展常态化作业，重点集中在粮食生产关键区域、生态修复保障区、重点流域等关键地带，以减轻干旱灾害性天气的不利影响，提高土壤墒情，为春季农业生产创造有利条件。\n   \n媒体报道\n  \n我国自主研制“翼龙”-2H 无人机在贵州省成功实施人工增雨作业首次飞行搜狐科技/IT 之家\n  \n自主研制！“翼龙”-2H无人机在黔成功实施人工增雨作业首次飞行凤凰科技",
+          "link": "https://readhub.cn/topic/8Xq8HKdKlmB",
+          "publishedOn": "2024-03-10T09:11:16.000Z",
+          "wordCount": 148,
+          "title": "我国自主研制“翼龙”-2H 无人机在贵州省成功实施人工增雨作业首次飞行",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xq8GKzXYTP",
+          "author": "凤凰科技",
+          "description": "阿里巴巴集团CEO吴泳铭在文章中强调，AI大模型的崛起将引领一个全新的智能时代，带来人机交互、计算范式和认知协作三大革命性变革。他还表示，去年12月，阿里云宣布开源了通义千问的720亿参数模型Qwen-72B、18亿参数模型Qwen-1.8B以及音频大模型Qwen-Audio，并上线了阿里魔搭社区，为开发者提供了丰富的资源和支持。此外，阿里巴巴已经组建了一支专注于AI电商领域的团队，致力于打造一款针对商家和达人的创新AI电商产品“绘蛙”，通过利用先进的AI技术，帮助商家和达人在生成营销文案、训练专属AI模特等方面提升创作效率。\n   \n媒体报道\n  \n吴泳铭：通义千问将释放大模型能力，开启全新人机交互与协作革命ITBear科技资讯\n  \n阿里巴巴 CEO 吴泳铭：通义千问正释放基础大模型能力，加快追赶 GPT-4IT 之家\n  \n未来大模型将驱动一切硬件！阿里巴巴CEO吴泳铭：通义千问正加快追赶GPT-4凤凰科技",
+          "link": "https://readhub.cn/topic/8Xq8GKzXYTP",
+          "publishedOn": "2024-03-10T08:10:54.000Z",
+          "wordCount": 219,
+          "title": "吴泳铭：通义千问将释放大模型能力，开启全新人机交互与协作革命",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XoFRCX75eW",
+          "author": "凤凰科技",
+          "description": "联想小新Pro 14 2024 AI超能本即将预售，首发价6599元。该笔记本搭载第一代酷睿Ultra9处理器，采用最新一代intel 4工艺和3D高性能混合价格，性能和续航有大提升。内置AI专属芯片NPU，支持AI应用低功耗运行，支持大语言模型，优化了剪映智能抠像。还支持超级文件功能，实现文件在各设备间互联互通，与平板、手机联动，支持移动端应用投屏和PC端屏幕扩展。\n   \n媒体报道\n  \n联想小新Pro 14 2024即将开启预售 搭载Ultra9售6599手机中国/搜狐科技\n  \n联想小新Pro 14 2024即将开启预售 搭载Ultra9售6599元凤凰科技",
+          "link": "https://readhub.cn/topic/8XoFRCX75eW",
+          "publishedOn": "2024-03-10T07:56:01.000Z",
+          "wordCount": 326,
+          "title": "联想小新Pro 14 2024即将开启预售 搭载Ultra9售6599元",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xq1pRguudB",
+          "author": "搜狐科技",
+          "description": "马克·扎克伯格认为苹果Vision Pro头显虽然分辨率高，但Meta的Quest设备在多方面更优。他自信Meta在未来几年内将推出更先进的设备，而Quest 3已经展现出优于Vision Pro的性价比、舒适度、视野、运动模糊处理、控制器精度和内容库。尽管苹果Vision Pro的售价远高于Quest 3，但扎克伯格强调Meta的产品在多个关键方面更具优势。\n   \n媒体报道\n  \n扎克伯格：Meta会推出比苹果Vision Pro更好的头显，不会出现运动模糊凤凰科技\n  \n扎克伯格：高分辨率让苹果 Vision Pro 头显付出了更多的代价搜狐科技\n  \n扎克伯格：Meta 会推出比苹果 Vision Pro 更好的头显，不会出现运动模糊IT 之家",
+          "link": "https://readhub.cn/topic/8Xq1pRguudB",
+          "publishedOn": "2024-03-10T07:30:52.000Z",
+          "wordCount": 431,
+          "title": "扎克伯格：高分辨率让苹果 Vision Pro 头显付出了更多的代价",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xq3HCnsLYM",
+          "author": "搜狐科技",
+          "description": "诺基亚G42 5G手机推出4GB RAM版本，售价为9999印度卢比，约868元人民币。该手机搭载高通骁龙480+处理器，6.56英寸HD+ 90Hz IPS LCD屏幕，前置8MP摄像头，后置50MP主摄+2MP微距+2MP景深摄像头，提供128GB存储空间和5000毫安时电池，支持20W充电。已获推安卓14更新，性能测试成绩为单核752分，多核1897分。用户可享受三次大版本系统更新和订阅HMD Global的“循环订阅服务”，该服务提供环保奖励并支持长期使用设备，损坏或丢失可快速更换设备。\n   \n媒体报道\n  \n诺基亚G42 5G手机海外发布，4GB RAM版售价约868元ITBear科技资讯\n  \nHMD Global 推出诺基亚 G42 手机 4GB RAM 版本，售 9999 卢比搜狐科技\n  \nHMD Global 推出诺基亚 G42 手机 4GB RAM 版本，售 9999 印度卢比IT 之家",
+          "link": "https://readhub.cn/topic/8Xq3HCnsLYM",
+          "publishedOn": "2024-03-10T07:16:02.000Z",
+          "wordCount": 556,
+          "title": "HMD Global 推出诺基亚 G42 手机 4GB RAM 版本，售 9999 卢比",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xq17dEYuas",
+          "author": "腾讯网",
+          "description": "政府工作报告强调扩大高水平对外开放，增强国内外市场联动，巩固外贸外资基础，并培育国际经济合作竞争新优势。2023年中国内地与香港资本市场合作取得成果，雷添良建议优化互联互通机制，降低港股通投资者门槛，改善税务安排，并探索跨境理财通和证券业务牌照互认。同时，建议优化境内企业境外上市备案制度，提高香港国际金融中心地位。\n   \n媒体报道\n  \n香港证监会主席雷添良：建议优化境内企业境外上市备案制度腾讯网/财联社",
+          "link": "https://readhub.cn/topic/8Xq17dEYuas",
+          "publishedOn": "2024-03-10T06:26:02.000Z",
+          "wordCount": 125,
+          "title": "香港证监会主席雷添良：建议优化境内企业境外上市备案制度",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8XpgPdUnUDs",
           "author": "手机中国",
           "description": "广州举行了关于低空经济产业的媒体专题活动，展示了广州未来城市空中交通、eVTOL头部企业的研发制造和低空场景应用等。广汽飞行汽车GOVE进行了飞行展示，这是首次在城市公众复杂低空环境进行飞行验证。广汽集团已探索立体交通商业模式和关键产品研究，取得多项重要成果，包括实现全球首飞和与多家企业和机构建立战略合作。GOVE是广汽集团自主研发的纯电动垂直起降飞行汽车，具备陆空两栖构型，可实现地面行驶、空中飞行和空地对接。目前，广汽正以工程验证为目标，推进GOVE的技术升级和工程落地，已开展验证300余次。\n   \n媒体报道\n  \n广汽GOVE首次完成在城市复杂低空环境飞行验证手机中国\n  \n广汽飞行汽车 GOVE 首次在城市公众复杂低空环境完成飞行验证中关村在线/IT 之家",
@@ -1440,36 +1510,6 @@
           "publishedOn": "2024-03-08T00:25:48.000Z",
           "wordCount": 147,
           "title": "美联航一波音客机因发动机起火被迫返航",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XmCxQvZwgH",
-          "author": "凤凰科技",
-          "description": "苹果公司获得了一项新专利，旨在通过改进闪光灯模块来解决相机在暗光环境下拍摄时产生的“红眼”现象。该技术能够识别并调整目标区域的光线，通过控制多个发光体组成的阵列，针对用户眼睛及其周围区域进行优化，以减轻或消除红眼效应，并减少图像中的伪影。\n   \n媒体报道\n  \n苹果 iPhone 相机新专利：可减轻或消除红眼效应搜狐科技/IT 之家\n  \n苹果iPhone相机新专利：可减轻或消除红眼效应凤凰科技",
-          "link": "https://readhub.cn/topic/8XmCxQvZwgH",
-          "publishedOn": "2024-03-07T23:25:57.000Z",
-          "wordCount": 178,
-          "title": "苹果 iPhone 相机新专利：可减轻或消除红眼效应",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XmCDnKecHh",
-          "author": "搜狐科技",
-          "description": "苹果公司正在开发一项新方案，以便用户能够更容易地将数据从iPhone转移到安卓手机。这项措施是为了响应欧盟的DMA要求，并计划于2025年秋季推出。目前，虽然已有第三方提供数据迁移服务，但苹果希望提供更用户友好的解决方案，并目标针对的是安卓手机制造商，而非苹果自身。此举意味着苹果将提供工具或API给如三星、谷歌等厂商，以便他们开发适用的换机软件。同时，谷歌已经在帮助用户将数据从iPhone转移到安卓手机方面做出了改进，但目前仍受限于iOS，无法转移所有类型的数据。\n   \n媒体报道\n  \n苹果 iOS 18 将允许欧盟 iPhone 用户将默认导航应用从“地图”改为其他 AppIT 之家\n  \n苹果：正开发一种方案以帮助用户将数据从 iPhone 转移到安卓手机搜狐科技\n  \n苹果：正开发一种换机方案，以帮助用户轻松将数据从 iPhone 转移到安卓手机IT 之家",
-          "link": "https://readhub.cn/topic/8XmCDnKecHh",
-          "publishedOn": "2024-03-07T23:16:00.000Z",
-          "wordCount": 325,
-          "title": "苹果：正开发一种方案以帮助用户将数据从 iPhone 转移到安卓手机",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XlsDfRrYd0",
-          "author": "搜狐科技",
-          "description": "苹果今日向 Vision Pro 用户推送了 visionOS 1.1 更新（内部版本号：21O211），本次更新距离上次发布隔了 24 天 ... 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。\n   \n媒体报道\n  \n苹果 visionOS 1.1 正式发布IT 之家/搜狐科技\n  \n苹果 watchOS 10.4 正式发布IT 之家\n  \n苹果 macOS 14.4 正式发布IT 之家",
-          "link": "https://readhub.cn/topic/8XlsDfRrYd0",
-          "publishedOn": "2024-03-07T18:25:54.000Z",
-          "wordCount": 393,
-          "title": "苹果 visionOS 1.1 正式发布",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
