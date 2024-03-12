@@ -2,10 +2,568 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-12T06:09:33.065Z</updated>
+    <updated>2024-03-12T12:12:12.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[梅赛德斯-奔驰CEO呼吁欧盟降低对华电动汽车关税：保护主义“走错了路”]]></title>
+        <id>readhub-8XtR0K9pji6</id>
+        <link href="https://readhub.cn/topic/8XtR0K9pji6"/>
+        <updated>2024-03-12T11:10:50.000Z</updated>
+        <summary type="html"><![CDATA[梅赛德斯-奔驰集团CEO康林松呼吁欧盟降低对中国进口电动汽车的关税，认为来自中国的竞争将促进欧洲汽车制造商提升产品质量和技术。他强调市场经济需要竞争，并指出保护主义是错误的方向。
+   
+媒体报道
+  
+奔驰CEO喊话欧盟：应降低对中国电动车的关税，竞争有助于欧洲生产出更好的产品腾讯网
+  
+梅赛德斯-奔驰CEO呼吁欧盟降低对华电动汽车关税：保护主义“走错了路”财联社
+  
+梅赛德斯-奔驰 CEO 呼吁欧盟降低对华电动汽车关税：保护主义“走错了路”IT 之家]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇瑞iCar与智米科技合作开发纯电硬派SUV]]></title>
+        <id>readhub-8XtaDZ8pxXL</id>
+        <link href="https://readhub.cn/topic/8XtaDZ8pxXL"/>
+        <updated>2024-03-12T10:21:13.000Z</updated>
+        <summary type="html"><![CDATA[小米汽车即将上市，智米科技和奇瑞新能源iCar合作开发一款定价约10万元的纯电硬派风格SUV，预计2024年北京车展亮相。智米负责产品定义和造型设计，奇瑞负责生产制造和供应链成本控制。智米科技擅长研发家用环境电器，小米联合创始人刘德是该公司最大股东。奇瑞iCar是奇瑞的纯电品牌，已有产品iCar 03在售。
+   
+媒体报道
+  
+奇瑞iCar与智米科技合作开发纯电硬派SUV中关村在线
+  
+消息称小米生态旗下智米科技将与奇瑞iCAR合作，造纯电硬派SUV搜狐科技
+  
+消息称小米生态旗下智米科技将与奇瑞 iCAR 合作，打造 10 万元纯电硬派 SUVIT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2月美国电动车价格同比下降近13%]]></title>
+        <id>readhub-8XtN6feF4p4</id>
+        <link href="https://readhub.cn/topic/8XtN6feF4p4"/>
+        <updated>2024-03-12T10:01:17.000Z</updated>
+        <summary type="html"><![CDATA[2月份，美国电动汽车平均售价为52,314美元，同比下降12.8%，主要受特斯拉Model 3和Model Y降价影响。电动汽车的高库存和竞争激烈也是价格下降的原因。不过，电动车的价格仍比非豪华主流车型高19%。
+   
+媒体报道
+  
+2月美国电动车价格同比下降近13%新浪科技
+  
+2月美国电动车价格同比下降近13% 都怪特斯拉降价？手机中国
+  
+2 月份美国电动汽车价格同比下降近 13%，特斯拉 Model Y 成交价创历史新低IT 之家
+  
+2月份美国电动汽车价格同比下降近13%，特斯拉Model Y成交价创历史新低凤凰科技]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌承认“窃取”OpenAI模型关键信息：成本低至150元，调用API即可得手]]></title>
+        <id>readhub-8XtHOP0zGg4</id>
+        <link href="https://readhub.cn/topic/8XtHOP0zGg4"/>
+        <updated>2024-03-12T09:46:26.000Z</updated>
+        <summary type="html"><![CDATA[谷歌研究团队发现了一种通过 API 访问窃取大模型关键信息的方法，攻击目标是模型的嵌入投影层。他们成功破解了 OpenAI 的 GPT 系列两个基础模型 Ada 和 Babbage 的整个投影矩阵，并获取了隐藏维度等关键信息。这种攻击方式成本低廉，只需少量 API 调用即可。然而，研究团队在攻击前已获得 OpenAI 的同意，并在攻击后与 OpenAI 确认了方法的有效性，并删除了所有相关数据。OpenAI 已采取措施修改模型 API 以防止类似攻击。
+   
+媒体报道
+  
+谷歌承认「窃取」OpenAI模型关键信息：成本低至150元，调用API即可得手投资圈
+  
+摊牌不装了！谷歌承认“窃取”OpenAI模型关键信息，偷家成本低至150元【附人工智能行业技术分析】搜狐科技
+  
+谷歌承认“窃取”OpenAI 模型关键信息：成本低至 150 元，调用 API 即可得手IT 之家
+  
+谷歌承认“窃取”OpenAI模型关键信息：成本低至150元，调用API即可得手凤凰科技/量子位]]></summary>
+        <author>
+            <name>投资圈</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“点读机女孩”高君雨签约的MCN机构发布致歉声明]]></title>
+        <id>readhub-8XtTMcvP9Hb</id>
+        <link href="https://readhub.cn/topic/8XtTMcvP9Hb"/>
+        <updated>2024-03-12T09:41:01.000Z</updated>
+        <summary type="html"><![CDATA[近日，杭州余杭区官方通报，称“点读机女孩”高君雨的相关视频系去年9月拍摄，质疑MCN机构利用旧视频发布新内容。同时，高君雨的母亲回应了关于捐款的传闻。有关方面表示，网络谣言将依法追究法律责任。
+   
+媒体报道
+  
+杭州余杭官方通报：“点读机女孩”手术视频系去年9月拍摄 MCN机构将被追责中关村在线
+  
+点读机女孩手术视频被质疑 医院回应手术情况中关村在线
+  
+“点读机女孩”高君雨签约的MCN机构发布致歉声明新浪科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北向资金净买入宁德时代16.2亿元]]></title>
+        <id>readhub-8XrxAzSS2jn</id>
+        <link href="https://readhub.cn/topic/8XrxAzSS2jn"/>
+        <updated>2024-03-12T09:40:38.000Z</updated>
+        <summary type="html"><![CDATA[北向资金在11日大幅净买入102.61亿元，其中宁德时代净买入额最高，达到16.2亿元。
+   
+媒体报道
+  
+北向资金今日净买入42.44亿元 宁德时代获净买入15.87亿元财联社
+  
+北向资金狂飙102亿抢筹 宁德时代独揽16亿风头 储能概念飙升和讯网
+  
+北向资金净买入宁德时代16.2亿元中国证券网
+  
+北向资金加仓！“宁王”久违大涨新浪科技
+  
+【财经分析】宁德时代获外资投行看好 锂电产业链补库预期增强新浪科技
+  
+北向资金今日净买入102.61亿元，宁德时代、贵州茅台等获加仓新浪科技/腾讯网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车宣布L7和L8沿用Air车型命名 计划于2024年5月上市]]></title>
+        <id>readhub-8XtVeByOvIg</id>
+        <link href="https://readhub.cn/topic/8XtVeByOvIg"/>
+        <updated>2024-03-12T09:32:24.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车宣布2024款L7和L8将增加搭载CDC运动悬架的Air版车型，并计划5月上市交付。新车型命名从Air、Pro、Max调整为Pro、Max、Ultra，以更清晰反映配置。2024款L9 Max更名为L9 Ultra。用户反馈和市场需求促使这一调整，新命名体系便于消费者根据需求选择。配置和价格相较2023款均有提升，定价与23款促销后价格持平。
+   
+媒体报道
+  
+理想汽车宣布L7和L8沿用Air车型命名 计划于2024年5月上市和讯网/凤凰科技
+  
+2024 款理想 L7 和 L8 将保留“CDC 运动悬架”Air 车型，30.18 万元起IT 之家]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校企合作：武汉大学联合小米成立机器人系]]></title>
+        <id>readhub-8XtWOJAQxe5</id>
+        <link href="https://readhub.cn/topic/8XtWOJAQxe5"/>
+        <updated>2024-03-12T09:31:21.000Z</updated>
+        <summary type="html"><![CDATA[武汉大学成立机器人系，该系是在雷军基金会的提议和捐助下，与小米集团合作成立的，旨在顺应数字时代潮流，推动产学研深度融合。武汉大学校长张平文表示，机器人系需聚焦人工智能领域核心技术，加快建设中国特色的人才培养体系。同时，武汉大学计算机学院成立了机器人系战略咨询委员会，以推进机器人系建设的发展规划。
+   
+媒体报道
+  
+武汉大学联合小米成立机器人系财联社
+  
+武汉大学成立机器人系搜狐科技
+  
+校企合作：武汉大学联合小米成立机器人系搜狐科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生数科技完成新一轮数亿元融资，系清华系多模态大模型公司]]></title>
+        <id>readhub-8XtJX9I0wKv</id>
+        <link href="https://readhub.cn/topic/8XtJX9I0wKv"/>
+        <updated>2024-03-12T09:21:19.000Z</updated>
+        <summary type="html"><![CDATA[生数科技近日完成新一轮数亿元融资，主要用于多模态基础大模型的研发和市场拓展。该公司致力于图像、3D、视频等多模态大模型的研发，核心团队来自清华大学人工智能研究院等知名机构。生数科技已推出基于统一多模态多任务框架的产业级通用基础大模型，并通过MaaS能力向B端和C端提供模型服务。同时，公司还推出了视觉创意设计平台PixWeaver和3D资产创建工具VoxCraft，旨在提升创意领域的创作效率，近期将重点突破长视频生成能力。
+   
+媒体报道
+  
+清华系多模态大模型公司刚刚融了数亿元！放话“今年达到Sora效果”量子位
+  
+生数科技完成新一轮数亿元融资，系清华系多模态大模型公司猎云网
+  
+对标Sora 这家清华系多模态大模型企业再获亿元融资 启明创投、百度都投了腾讯网]]></summary>
+        <author>
+            <name>量子位</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微博宣布更新热搜词条处置规则：上线投诉入口，以保障当事方合法权益]]></title>
+        <id>readhub-8XtPEKnzHdB</id>
+        <link href="https://readhub.cn/topic/8XtPEKnzHdB"/>
+        <updated>2024-03-12T09:19:03.000Z</updated>
+        <summary type="html"><![CDATA[微博管理员发布公告，更新热搜词条处置规则，以改善热搜生态秩序，保障当事人合法权益，打击不良现象。规则更新包括对人身攻击和侵犯合法权益的词条进行投诉和及时处置，以及对于被大量用户投诉的词条，如存在引战互撕等不当内容，也将进行修改或调控。同时，微博还上线了热搜词条投诉入口，包括当事方和网友的投诉反馈入口，以根据投诉情况更新规则并公示。
+   
+媒体报道
+  
+微博推出热搜新规则：引战互撕、侵犯权益等行为将受到严惩中关村在线
+  
+微博宣布更新热搜词条处置规则：上线投诉入口，以保障当事方合法权益IT 之家
+  
+微博：上线热搜词条投诉入口，更新处置规则澎湃新闻]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古尔曼：苹果已着手开发 M4 版 MacBook Pro]]></title>
+        <id>readhub-8XsolLjhhbR</id>
+        <link href="https://readhub.cn/topic/8XsolLjhhbR"/>
+        <updated>2024-03-12T09:12:11.000Z</updated>
+        <summary type="html"><![CDATA[彭博社马克・古尔曼（Mark Gurman）举行了一场关于苹果汽车的问答，他透露该车搭载的芯片性能将相当于四颗 M2 Ultra 的总和。他还表示该车将拥有一个底层的“安全操作系统”，它是整个操作系统的一部分，但他没有详细说明。除此之外，古尔曼还简要提到了其他几个话题，其中包括苹果刚刚已经开始“正式开发”搭载 M4 芯片的全新 MacBook Pro。不过他没有提供任何关于 M4 芯片的细节。
+   
+媒体报道
+  
+苹果据悉开始研发搭载M4芯片的MacBook Pro财联社
+  
+古尔曼：苹果已着手开发 M4 版 MacBook Pro新浪科技/IT 之家]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传地平线今年将赴港上市，拟筹资约 39 亿港元]]></title>
+        <id>readhub-8Xs3cJNg7sc</id>
+        <link href="https://readhub.cn/topic/8Xs3cJNg7sc"/>
+        <updated>2024-03-12T09:08:04.000Z</updated>
+        <summary type="html"><![CDATA[地平线是一家专注于人工智能算法芯片研发的公司，其计划在香港进行首次公开招股（IPO），预计筹资约 5 亿美元。3月12日，地平线相关负责人回应记者称，对市场传闻不予置评。
+   
+媒体报道
+  
+拟年内赴港IPO筹资39亿港元？地平线回应：不予置评财联社/中国证券网/新浪科技/凤凰科技
+  
+消息称地平线拟今年在港上市，或筹39亿港元新浪科技
+  
+传地平线今年将赴港上市，拟筹资约 39 亿港元牛透社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 苹果博士奖学金华人占一半，清华、浙大、复旦校友在列]]></title>
+        <id>readhub-8XtNnL0eByS</id>
+        <link href="https://readhub.cn/topic/8XtNnL0eByS"/>
+        <updated>2024-03-12T09:06:38.000Z</updated>
+        <summary type="html"><![CDATA[刚刚，苹果机器学习研究中心（Apple Machine Learning Research）正式公布了 2024 年 AI（人工智能）、ML（机器学习）领域获得博士生奖学金的「苹果学者」名单 ... 今年共有 21 位年轻学者获得了苹果学者计划的资助，华人占了一半 ... 苹果博士奖学金旨在奖励和支持计算机科学与工程领域极具潜力的博士研究生开展研究，每年颁发一次。
+   
+媒体报道
+  
+清华、浙大、复旦校友在列，2024苹果博士奖学金华人占一半搜狐科技/机器之心/腾讯网
+  
+2024苹果学者名单公布，华人占一半！宾大博士生曾和Jim Fan搞出英伟达最火机器人凤凰科技
+  
+2024 苹果学者名单公布，华人占一半！宾大博士生曾和 Jim Fan 搞出英伟达最火机器人IT 之家]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[媒体：波音公司三十多项审计未通过]]></title>
+        <id>readhub-8XtW0bAhUhx</id>
+        <link href="https://readhub.cn/topic/8XtW0bAhUhx"/>
+        <updated>2024-03-12T09:06:03.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦航空管理局对波音公司进行了89项审计，33项未通过，发现问题97处。对机身供应商势必锐航空系统公司进行了13项审计，7项未通过。两家公司均存在飞机内嵌式应急门的不合规问题。
+   
+媒体报道
+  
+媒体：波音公司三十多项审计未通过财联社
+  
+美媒：波音公司三十多项审计未通过新浪科技/澎湃新闻/腾讯网]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳市消委会发布共享充电宝行业自律公约 共同守护充电宝安全]]></title>
+        <id>readhub-8Xt0DhE0sUo</id>
+        <link href="https://readhub.cn/topic/8Xt0DhE0sUo"/>
+        <updated>2024-03-12T09:01:46.000Z</updated>
+        <summary type="html"><![CDATA[深圳市消委会制定共享充电宝行业自律公约，规定租借免费时长至少5分钟，计价时间不超过半小时，并要求商家明确公示收费标准。公约还要求充电宝保持高电量出借，并在低于50%时停止出借，同时确保产品质量，建立维护和回收机制。7家共享充电宝企业已签署公约，但消费者投诉仍增长，主要问题包括恶意扣费、易借难还等。
+   
+媒体报道
+  
+深圳推出全国首个共享充电宝行业自律公约：充电免费时长统一为5分钟澎湃新闻
+  
+共享充电宝行业自律公约：租借免费时长不少于 5 分钟，深圳率先发布，7 家企业承诺IT 之家
+  
+深圳市消委会发布共享充电宝行业自律公约 共同守护充电宝安全中关村在线]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师：小米汽车 SU7 预计均价 22 万-26 万元，上市首年销量 3 万-5 万辆]]></title>
+        <id>readhub-8XsCtJNMwhi</id>
+        <link href="https://readhub.cn/topic/8XsCtJNMwhi"/>
+        <updated>2024-03-12T09:01:10.000Z</updated>
+        <summary type="html"><![CDATA[小米汽车宣布将于3月28日举行发布会，揭晓新车价格，此前雷军透露首款车型定价将高于9.9万元至19.9万元。分析师预测小米汽车SU7的平均售价在22万至26万元之间，预计销量3万至5万辆，有望推动小米集团销额增长4%，成为长期增长动力。小米汽车面临比亚迪、蔚来和理想等竞争对手的激烈竞争，定价至关重要。小米集团港股股价在SU7上市官宣后上涨11.19%，成交额达41.97亿港元，市值达到3741亿港元。雷军表示，小米汽车做好了充分准备，将提供真正的智能科技，满足大众对小米和新能源车的期待。
+   
+媒体报道
+  
+小米汽车SU7深圳试驾预约开启 意向客户数量庞大！中关村在线/手机中国
+  
+分析师：小米汽车 SU7 预计均价 22 万-26 万元，上市首年销量 3 万-5 万辆IT 之家]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌紧跟国产手机步伐：安卓15将原生集成卫星通信功能]]></title>
+        <id>readhub-8Xt3QxAwHb1</id>
+        <link href="https://readhub.cn/topic/8Xt3QxAwHb1"/>
+        <updated>2024-03-12T08:56:08.000Z</updated>
+        <summary type="html"><![CDATA[谷歌正开发原生卫星通信功能，并计划将其集成至安卓15系统中。这一功能将使得用户能够在没有地面网络覆盖的区域，如偏远地区和海洋上，通过智能手机实现语音、短信和数据传输。随着科技进步和市场变化，卫星通信功能正逐渐成为普通消费者的需求。国产手机品牌如华为、小米等已在此领域取得突破，并添加了卫星通信功能。谷歌的这一决定是为了跟进市场趋势，满足用户通信需求，并提升用户体验。
+   
+媒体报道
+  
+谷歌紧跟国产手机步伐：安卓15将原生集成卫星通信功能搜狐科技
+  
+谷歌摸着国产手机“过河”：曝安卓15将原生集成卫星通信功能搜狐科技
+  
+谷歌安卓14透露新动向：原生卫星通信功能有望亮相安卓15ITBear科技资讯]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘工厂成为吃穿用“全科生”：新增鸡蛋等生鲜品类]]></title>
+        <id>readhub-8XtN8rEG4nl</id>
+        <link href="https://readhub.cn/topic/8XtN8rEG4nl"/>
+        <updated>2024-03-12T08:36:37.000Z</updated>
+        <summary type="html"><![CDATA[淘工厂开始布局生鲜领域，上新超级单品鸡蛋、春茶等生鲜供给，首批鸡蛋供给覆盖湖北、河南、河北、湖南、山东等9省，可满足全国大部分城市需求。同时，为保障消费体验，推出“破损包赔”和“晚发包赔”服务。此次拓展生鲜品类，显示淘工厂M2C模式的先进性，正在成为越来越多人选择的“国民工厂”。
+   
+媒体报道
+  
+一年能卖20亿颗蛋的“湖北蛋王”加盟淘工厂，一天热销120万颗鸡蛋！雷锋网
+  
+淘工厂开始卖生鲜鸡蛋了，“湖北蛋王”入驻21天共卖出了500万颗！速途网
+  
+淘工厂成为吃穿用“全科生”：新增鸡蛋等生鲜品类速途网]]></summary>
+        <author>
+            <name>速途网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国电信全资子公司拟19亿元控股国盾量子，整合布局量子科技领域]]></title>
+        <id>readhub-8XsDGmyNxYC</id>
+        <link href="https://readhub.cn/topic/8XsDGmyNxYC"/>
+        <updated>2024-03-12T08:26:38.000Z</updated>
+        <summary type="html"><![CDATA[国盾量子公告拟向中电信量子集团定增募资不超过19.03亿元，发行后，公司将由中电信量子集团控股，国务院国资委成实控人。公司股票将于3月12日开市起复牌。此次定增有利于推动国家量子信息产业的发展和应对国际竞争，增强公司服务国家战略的能力。
+   
+媒体报道
+  
+中国电信全资子公司拟19亿元控股国盾量子，整合布局量子科技领域澎湃新闻
+  
+中国电信：子公司中电信量子集团将成为国盾量子控股股东财联社
+  
+中国电信全资子公司拟19.03亿元控股国盾量子铅笔道
+  
+中国电信子公司拟19亿认购增发股份 成国盾量子控股股东腾讯网]]></summary>
+        <author>
+            <name>铅笔道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闲鱼日均商品交易总额破 10 亿，95 后用户最活跃]]></title>
+        <id>readhub-8XtQIJmbs4q</id>
+        <link href="https://readhub.cn/topic/8XtQIJmbs4q"/>
+        <updated>2024-03-12T08:20:39.000Z</updated>
+        <summary type="html"><![CDATA[闲鱼平台宣布日均GMV突破10亿，过去一年超1亿人在此发布闲置物品，95后用户最为活跃，人均赚取2700元。目前平台上有8300万活跃兴趣用户，45%的交易与兴趣相关，覆盖潮玩、文玩、运动户外等多个品类，累计在线兴趣商品约1.5亿件。该平台已被选为阿里巴巴第一批战略级创新业务，将以独立子公司方式运营，并打破以往在集团内的定位限制，阿里计划持续投入3-5年。
+   
+媒体报道
+  
+闲鱼日均商品交易总额破 10 亿，95 后用户最活跃IT 之家
+  
+闲鱼日均GMV破10亿财联社/凤凰科技
+  
+闲鱼日均商品交易总额破10亿，95后用户最活跃凤凰科技
+  
+年轻人在闲鱼每天交易超10亿，去年1亿人挂出闲置猎云网
+  
+闲鱼公布GMV：日均破10亿，95后用户人均赚了2700元新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[名创优品：去年第四季度收入为38.41亿元 同比增长54%]]></title>
+        <id>readhub-8XtFDTyknKY</id>
+        <link href="https://readhub.cn/topic/8XtFDTyknKY"/>
+        <updated>2024-03-12T07:55:56.000Z</updated>
+        <summary type="html"><![CDATA[名创优品去年第四季度收入达到38.41亿元，同比增长54%，环比增长1.3%。经调整后净利润为6.6亿元，同比增长77%。
+   
+媒体报道
+  
+名创优品：2023年第四季度营收38.41亿元，同比增长54%速途网
+  
+名创优品第四季度经调整净利约6.6亿元 同比增长77%新浪科技
+  
+名创优品季报图解：营收38亿净利6.4亿 派发现金股息6.5亿腾讯网
+  
+名创优品：去年第四季度收入为38.41亿元 同比增长54%新浪科技/财联社]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多家险资万科总部进行新一轮磋商 商谈希望不要提前行权]]></title>
+        <id>readhub-8XsvC2aX0r5</id>
+        <link href="https://readhub.cn/topic/8XsvC2aX0r5"/>
+        <updated>2024-03-12T07:55:38.000Z</updated>
+        <summary type="html"><![CDATA[多家险资派出高管到深圳万科总部进行新一轮磋商，主要议题是希望险资不要提前行权，继续履行合同直至贷款到期。磋商方案包括将万科债务偿付期限延长至少一年、追加增信担保和抵押品，以及发行债券将“非标转标”等。截至3月10日，谈判仍在进行中。
+   
+媒体报道
+  
+银行被要求强化对万科融资支持？某股份银行人士：确实存在市场传闻中的一些现象财联社
+  
+多家险资万科总部进行新一轮磋商 商谈希望不要提前行权新浪科技/财联社
+  
+独家|12家商业银行为万科筹资800亿？接近银行人士：有听说相关信息 但目前银行方面态度保守财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钟薛高被限制高消费，此前被执行81万]]></title>
+        <id>readhub-8Xt5wlwKkYE</id>
+        <link href="https://readhub.cn/topic/8Xt5wlwKkYE"/>
+        <updated>2024-03-12T07:40:35.000Z</updated>
+        <summary type="html"><![CDATA[钟薛高食品（上海）有限公司及其法定代表人林盛因未履行81.81万元的执行标的，被上海市嘉定区人民法院限制高消费。此外，该公司旗下所有分支机构均已注销。
+   
+媒体报道
+  
+钟薛高及其创始人被限制高消费，钟薛高此前被强制执行81万余元新浪科技
+  
+钟薛高被限制高消费，此前被执行81万新浪科技
+  
+因为81.81万元，钟薛高创始人被限制高消费！官微官博已停更半年，专家：不能死命赚钱成为暴利公司新浪科技/和讯网
+  
+钟薛高及其创始人被限消：此前被指“定价高”中关村在线
+  
+钟薛高及创始人被限高！钟薛高此前被执行81万，官微、官博已停更半年新浪科技
+  
+钟薛高及其创始人被限制高消费腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相当于 4 块 M2 Ultra，苹果汽车项目所用芯片细节曝光：已接近完成]]></title>
+        <id>readhub-8XsuUAzSBaA</id>
+        <link href="https://readhub.cn/topic/8XsuUAzSBaA"/>
+        <updated>2024-03-12T07:36:20.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司曾深入开发名为“泰坦”的汽车项目，并接近完成一款专用于汽车的定制芯片，其性能相当于四块M2 Ultra芯片。这款芯片由Apple Silicon团队打造，拥有1340亿个晶体管，包括24核CPU、最高76核GPU和一个32核神经引擎。然而，苹果最终决定搁置汽车项目，并将相关工程师重新分配至其他产品。这些芯片成果有望被用于未来的苹果产品中。
+   
+媒体报道
+  
+​为了Apple Car，苹果曾开发性能相当于4个M2 Ultra的汽车芯片搜狐科技
+  
+相当于 4 块 M2 Ultra，苹果汽车项目所用芯片细节曝光：已接近完成新浪科技/IT 之家
+  
+相当于4块M2 Ultra，苹果汽车项目所用芯片细节曝光：已接近完成凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传音旗下 Infinix 推出 Cheetah X1 自研电源管理芯片，可实现 100W 快充]]></title>
+        <id>readhub-8XtNQw7MkHR</id>
+        <link href="https://readhub.cn/topic/8XtNQw7MkHR"/>
+        <updated>2024-03-12T07:31:31.000Z</updated>
+        <summary type="html"><![CDATA[传音旗下面向年轻消费者的子品牌Infinix推出首款自主研发电源管理芯片Cheetah X1，该芯片将在Infinix NOTE 40系列手机中首发，支持8种充电场景，具有高精度的电源监控和安全保护功能。Cheetah X1芯片采用晶圆级封装，能大幅减小芯片尺寸，降低电信号延迟，提升单位处理效率204%，可作为充电信息枢纽。此外，Infinix NOTE 40 Pro 5G手机已现身谷歌Google Play数据库，搭载联发科天玑7020处理器，有望采用曲面屏设计。
+   
+媒体报道
+  
+传音旗下 Infinix 推出 Cheetah X1 自研电源管理芯片搜狐科技
+  
+传音旗下 Infinix 推出 Cheetah X1 自研电源管理芯片，可实现 100W 快充IT 之家
+  
+传音入局芯片行业 旗下Infinix推出首款电源管理芯片凤凰科技
+  
+传音入局芯片行业！旗下Infinix推出首款电源管理芯片手机中国
+  
+传音也造芯片！旗下Infinix推出首款电源管理芯片凤凰科技]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动正开发“Tiktok Photos”：正面与Instagram竞争]]></title>
+        <id>readhub-8XssLEDVapr</id>
+        <link href="https://readhub.cn/topic/8XssLEDVapr"/>
+        <updated>2024-03-12T07:11:38.000Z</updated>
+        <summary type="html"><![CDATA[TikTok最新版本中出现了一个名为“TikTok Photos”的新应用，该应用允许用户随时随地将拍摄的照片和视频分享给朋友和家人，功能与Meta的Instagram相似。同时，新版TikTok应用中集成了TikTok Photos的应用图标，图标配色与原始TikTok图标相同。
+   
+媒体报道
+  
+字节跳动正开发“Tiktok Photos”：正面与Instagram竞争腾讯网
+  
+消息称字节跳动正开发“Tiktok Photos”与 Instagram 竞争IT 之家
+  
+消息称字节跳动正开发“Tiktok Photos”与Instagram竞争凤凰科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20人激战 手游《多元宇宙大乱斗》5月28日上线]]></title>
+        <id>readhub-8Xt1UQOCnrW</id>
+        <link href="https://readhub.cn/topic/8Xt1UQOCnrW"/>
+        <updated>2024-03-12T07:07:27.000Z</updated>
+        <summary type="html"><![CDATA[华纳兄弟游戏和Player First Games宣布，免费平台格斗游戏《多元宇宙大乱斗》将于5月28日上线，支持多平台包括PS5、XS、PS4、XB1和PC。游戏经过长时间公开测试后，将增加新角色和场地，并采用虚幻5引擎提升视觉效果。同时，游戏将推出“玩家VS环境”模式，除了现有的“玩家VS玩家”竞技外，新增独特奖励。
+   
+媒体报道
+  
+《多元宇宙大乱斗》5月28日上线 全平台支持中关村在线
+  
+20人激战 手游《多元宇宙大乱斗》5月28日上线中关村在线
+  
+华纳《多元宇宙大乱斗》定档5月8日上线 免费游玩手机中国]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军回应新能源车价格战：做好了充分准备]]></title>
+        <id>readhub-8Xt99NLk8t8</id>
+        <link href="https://readhub.cn/topic/8Xt99NLk8t8"/>
+        <updated>2024-03-12T07:07:14.000Z</updated>
+        <summary type="html"><![CDATA[小米汽车宣布将于3月28日上市全新车型小米SU7，该车型定位低价，意在进军低价市场。雷军表示小米汽车已做好充分准备，面对新能源汽车市场竞争，并强调小米汽车致力于实现真正的智能科技，满足消费者对品牌和新能源车的期待。同时，雷军透露小米汽车在冬季测试中表现超出预期，对于即将到来的价格战也表示已做好充分准备。
+   
+媒体报道
+  
+雷军回应新能源车价格战：做好了充分准备中关村在线
+  
+根本不怕！雷军回应新能源车企价格战：小米有备而来手机中国
+  
+根本不怕！雷军回应新能源车价格战：做好了充分准备搜狐科技]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉股东新福利：可获得 Cybertruck 提前交付的权益]]></title>
+        <id>readhub-8XtHMhqJydk</id>
+        <link href="https://readhub.cn/topic/8XtHMhqJydk"/>
+        <updated>2024-03-12T07:00:53.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉推出新政策，允许符合条件的TSLA股东注册以提前交付Cybertruck。此举旨在奖励长期股东，条件为在特定日期前预订Cybertruck且未交付，并提供证明在规定时间内持有特斯拉股票。活动截止到3月22日，仅限美国和加拿大地区。此举是特斯拉对股东的特殊待遇，与Cybertruck相关的权益之一。
+   
+媒体报道
+  
+特斯拉股东新福利：可获得 Cybertruck 提前交付的权益IT 之家
+  
+特斯拉Cybertruck被炒到208万 倒卖现象频现中关村在线
+  
+物以稀为贵！特斯拉Cybertruck身价暴涨：二手车价高达208万元凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌 Pixel 8 / Pro 手机将首次支持有线外接显示器]]></title>
+        <id>readhub-8XtHMd7x8fG</id>
+        <link href="https://readhub.cn/topic/8XtHMd7x8fG"/>
+        <updated>2024-03-12T06:56:03.000Z</updated>
+        <summary type="html"><![CDATA[谷歌即将推出的Pixel 8/Pro系列手机将成为首款支持有线外接显示器的Android手机。在更新到Android 14 QPR3 Beta版本系统后，用户只需将USB-C转USB-C或HDMI视频线连接至兼容显示器，手机便会弹出对话框询问是否镜像显示到外部显示器。此外，谷歌可能在开发一个更强大的桌面模式，计划随Android 15一同推出，可能会作为Pixel 9系列的卖点。目前，这一功能仅限于Pixel 8和Pixel 8 Pro，其他Pixel设备不支持视频输出。
+   
+媒体报道
+  
+谷歌 Pixel 8 / Pro 手机将首次支持有线外接显示器搜狐科技/IT 之家
+  
+谷歌Pixel 8/Pro手机将首次支持有线外接显示器凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恒生指数涨幅扩大至1.5% 恒生科技指数涨超2%]]></title>
         <id>readhub-8XrMjAxnmep</id>
