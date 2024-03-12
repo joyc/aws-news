@@ -313,6 +313,46 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8XsPko6jplI",
+          "author": "手机中国",
+          "description": "理想MEGA因其独特造型引发争议，网络上出现恶意P图和调侃，理想汽车发出投诉函谴责这种行为。法律专家指出，若恶意P图导致销量下降或严重后果，涉事人员可能面临法律制裁。理想汽车CEO李想对MEGA充满信心，希望其成为公司热销产品。\n   \n媒体报道\n  \n蔚来汽车 CEO 李斌发话，要求全体员工不得参与理想 MEGA 外形舆论IT 之家\n  \n蔚来李斌：理想MEGA外形遭舆论挑战 全体员工不要参与、传播凤凰科技\n  \n蔚来CEO李斌也发话:全体员工勿参与理想MEGA外形舆论手机中国",
+          "link": "https://readhub.cn/topic/8XsPko6jplI",
+          "publishedOn": "2024-03-12T00:00:58.000Z",
+          "wordCount": 221,
+          "title": "蔚来CEO李斌也发话:全体员工勿参与理想MEGA外形舆论",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xsp8qDmtg6",
+          "author": "腾讯网",
+          "description": "OpenAI投资者维诺德·科斯拉认为，马斯克无法通过诉讼在通用人工智能领域实现突破。科斯拉不担忧微软在OpenAI的股份，主张加快美国人工智能的研发，并认为人工智能不应开放源代码，而应谨慎推进其发展。他还建议美国对人工智能实施严格管控，并将安全研究纳入大学和政府资助项目的必要部分。\n   \n媒体报道\n  \nOpenAI：马斯克可能会通过诉讼获得我们的专利技术腾讯网\n  \nOpenAI投资者喊话马斯克：靠起诉实现不了AGI网易科技\n  \nOpenAI在法庭文件中反击：称马斯克无理取闹，担忧他趁机窃密网易科技",
+          "link": "https://readhub.cn/topic/8Xsp8qDmtg6",
+          "publishedOn": "2024-03-12T00:00:48.000Z",
+          "wordCount": 182,
+          "title": "OpenAI投资者喊话马斯克：靠起诉实现不了AGI",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xrq3GHhHDo",
+          "author": "和讯网",
+          "description": "英伟达美股盘前延续跌势，跌幅接近2%。\n   \n媒体报道\n  \n美股涨跌不一，英伟达继续下挫2%！中概指涨超2%，B站大涨超13%新浪科技\n  \n英伟达美股盘前跌近2%新浪科技\n  \n纳指收跌0.41%，芯片股走低，英伟达跌2%澎湃新闻\n  \n英伟达盘前涨超2%，此前一度跌超2%！上周五单日市值缩水约1300亿美元和讯网\n  \n盘前涨超1%！英伟达能撕掉“第二个思科”的标签吗澎湃新闻\n  \n金评天下 | 英伟达股价剧震 是涨到头了还是“空中加油”新浪科技\n  \n纳指低开0.2% 英伟达跌超1%新浪科技",
+          "link": "https://readhub.cn/topic/8Xrq3GHhHDo",
+          "publishedOn": "2024-03-11T23:20:56.000Z",
+          "wordCount": 182,
+          "title": "英伟达美股盘前跌近2%",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XsnMIjXFp5",
+          "author": "搜狐科技",
+          "description": "苹果公司将在发布iOS 18和macOS 15系统时更新其“无边记”应用程序，推出名为“Scenes”的新功能。用户可标记并命名特定段落，通过iCloud实现云端共享和编辑。Scenes功能将在应用程序左下方区域的缩放控件附近通过一个新三明治图标访问，提供便捷的界面切换选项。此外，还为Scenes界面设计了相应的键盘快捷键。\n   \n媒体报道\n  \n消息称苹果 iOS 18 将升级“无边记”应用，新增 Scenes 功能IT 之家\n  \n消息称苹果已向工厂分发 VendorUI 版 iOS 18搜狐科技/IT 之家",
+          "link": "https://readhub.cn/topic/8XsnMIjXFp5",
+          "publishedOn": "2024-03-11T22:50:37.000Z",
+          "wordCount": 352,
+          "title": "消息称苹果 iOS 18 将升级“无边记”应用，新增 Scenes 功能",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8XrfLPKVBiR",
           "author": "和讯网",
           "description": "三星S24系列自发布以来，全球销量大幅增长，特别是在韩国市场，销量增幅达到了22%。该系列在多个国家的预售量已打破纪录，相比前代产品销量实现了两位数的增长。在美国，S24系列的销量比S23系列高出14%，在西欧地区（法国、德国和英国），销量更是高出28%。其中，最昂贵的型号S24 Ultra占据了52%的销量。三星S24系列手机预装了AI功能，包括实时语言翻译、网页和笔记的概要总结以及基于生成式AI的图像和视频编辑功能。S24 Ultra手机在材料和功能上都更为先进，配备了2亿像素的主摄像头和多颗其他功能摄像头。\n   \n媒体报道\n  \n三星S24系列全球销量飙升 韩国市场销量增幅达22%搜狐科技/手机中国\n  \n三星首款AI手机Galaxy S24系列前三周全球销量增长8%和讯网/新浪科技",
@@ -1160,116 +1200,6 @@
           "publishedOn": "2024-03-09T16:19:44.000Z",
           "wordCount": 212,
           "title": "全球首部AI电影3月6日美国首映，致敬《终结者2》但反馈遇冷",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoPRku8Wi0",
-          "author": "搜狐科技",
-          "description": "小米15系列手机预计将在9月进入量产阶段，并可能于10月举行的产品发布会上正式发布，比小米14系列的发布时间早。据博主@数码闲聊站爆料，小米15系列手机的价格可能会上涨。小米15系列将延续小米13和14系列的直曲双尺寸策略，标准版将继续采用小直屏设计。目前，小米14系列手机的价格信息已经公布，最高配置的小米14 Ultra手机售价达到8799元。\n   \n媒体报道\n  \n消息称小米 15 系列手机“极大概率”涨价中关村在线/搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8XoPRku8Wi0",
-          "publishedOn": "2024-03-09T12:00:54.000Z",
-          "wordCount": 317,
-          "title": "消息称小米 15 系列手机“极大概率”涨价",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoEkB0Zppe",
-          "author": "腾讯网",
-          "description": "索尼新款Xperia 1 VI和Xperia 10 VI手机不会在中国大陆上市，引发外界猜测索尼手机可能将退出中国市场。但索尼官方表示，旗下在华业务包括手机正在稳健运营，对在中国的发展仍充满期待。尽管面临中国本土品牌的激烈竞争，索尼手机目前在电商平台上仍在正常销售。\n   \n媒体报道\n  \n这经典手机品牌，或退出中国市场！搜狐科技\n  \n索尼回应手机业务退出中国传闻：正在稳健运营中腾讯网\n  \n索尼回应手机业务退出中国：正稳健运营中搜狐科技\n  \n索尼回应手机业务退出中国：正稳健运营中，对未来在中国的发展充满期待IT 之家",
-          "link": "https://readhub.cn/topic/8XoEkB0Zppe",
-          "publishedOn": "2024-03-09T11:25:55.000Z",
-          "wordCount": 166,
-          "title": "索尼回应手机业务退出中国传闻：正在稳健运营中",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoRaq8MEgO",
-          "author": "搜狐科技",
-          "description": "华为的国际版地图应用Petal花瓣地图推出了4.2.0.201版本更新，更新内容包括增加充电站图标显示和充电站类型搜索，新增分享按钮，并允许用户在设置中关闭首页旅行笔记信息流。该应用是为出境用户设计的，提供全球160多个国家和地区的服务。\n   \n媒体报道\n  \n支持关闭首页信息流，华为 Petal 花瓣地图（国际版）获推 4.2.0.201 众测更新IT 之家\n  \n支持关闭首页信息流，华为Petal花瓣地图（国际版）获推4.2.0.201众测更新中关村在线\n  \n支持关闭首页信息流，华为 Petal 花瓣地图（国际版）获推更新搜狐科技",
-          "link": "https://readhub.cn/topic/8XoRaq8MEgO",
-          "publishedOn": "2024-03-09T11:25:25.000Z",
-          "wordCount": 202,
-          "title": "支持关闭首页信息流，华为 Petal 花瓣地图（国际版）获推更新",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoSJ1LSdBX",
-          "author": "凤凰科技",
-          "description": "特斯拉计划于今年5月推出2024款Model 3高性能版，可能命名为“Model 3 Ludicrous”。新车已通过韩国认证，采用双电机系统，前置3D3感应异步电机和后置4D2永磁同步电动机，总输出功率超过600马力。车辆重约1855千克，配备79kWh电池组，续航可达270英里。特斯拉派出工程师团队到上海超级工厂调整悬挂系统，以适应新的双电机传动系统。新车在美国和其他市场进行了测试，并在德国进行测试。曝光的照片显示，这款高性能轿车配备了新的空气动力学轮辋，悬架较低，车牌显示可能在赛道上跑圈。\n   \n媒体报道\n  \n超 600 匹马力，2024 款特斯拉 Model 3性能版汽车曝光中关村在线\n  \n超 600 匹马力，2024 款特斯拉 Model 3 性能版汽车曝光IT 之家\n  \n超600匹马力，2024款特斯拉Model 3性能版汽车曝光凤凰科技",
-          "link": "https://readhub.cn/topic/8XoSJ1LSdBX",
-          "publishedOn": "2024-03-09T11:25:08.000Z",
-          "wordCount": 421,
-          "title": "超 600 匹马力，2024 款特斯拉 Model 3 性能版汽车曝光",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoSIzGak8E",
-          "author": "搜狐科技",
-          "description": "iQOO Pad 2平板电脑被爆料将采用天玑9300处理器，并配备大屏LCD.当前的iQOO Pad搭载天玑9000+芯片，12.1英寸144Hz 2.8K LCD屏，售价2699元起.天玑9300处理器具体规格为CPU：1×3.25GHz Cortex-X4 + 3×2.85GHz Cortex-X4 + 4×2.0GHz Cortex-A720，GPU：Immortalis-G720 MC12 1300 MHz.\n   \n媒体报道\n  \n消息称 iQOO Pad 2 系列平板电脑配备天玑 9300 及“大屏 LCD”中关村在线/搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8XoSIzGak8E",
-          "publishedOn": "2024-03-09T11:24:53.000Z",
-          "wordCount": 420,
-          "title": "消息称 iQOO Pad 2 系列平板电脑配备天玑 9300 及“大屏 LCD”",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoFD2a5NEW",
-          "author": "中关村在线",
-          "description": "育碧的游戏《看门狗》即将被改编成电影，由新锐导演马修・图希执导，编剧是克里斯蒂・勒布朗。电影会融入育碧的游戏宇宙，女主角可能是苏菲・王尔德。制片公司是New Regency Productions。\n   \n媒体报道\n  \n育碧游戏改编真人电影！《看门狗》拍成电影 让人看不懂中关村在线\n  \n消息称育碧游戏《看门狗》将被改编为真人电影IT 之家\n  \n美女演员加盟 《看门狗》电影即将开拍中关村在线",
-          "link": "https://readhub.cn/topic/8XoFD2a5NEW",
-          "publishedOn": "2024-03-09T10:56:02.000Z",
-          "wordCount": 161,
-          "title": "美女演员加盟 《看门狗》电影即将开拍",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoVVs8tpak",
-          "author": "和讯网",
-          "description": "人社部部长王晓萍在记者会上表示，我国已发行社会保障卡给98%的人口，并有9.7亿人使用电子社保卡。2023年，电子社保卡服务了151亿人次，应用领域包括政务服务、就医购药、交通出行等。未来，将进一步完善社保卡居民服务应用，推出更多数字应用场景，推进区域一卡通，逐步实现全国一卡通，为民众提供更便捷的社保卡服务。\n   \n媒体报道\n  \n人社部部长：社保卡将逐步实现“全国一卡通”腾讯网\n  \n人社部部长王晓萍：社保卡将逐步实现全国“一卡通”丨两会时间和讯网\n  \n人社部长：大力推进区域一卡通 逐步实现全国一卡通财联社",
-          "link": "https://readhub.cn/topic/8XoVVs8tpak",
-          "publishedOn": "2024-03-09T10:00:46.000Z",
-          "wordCount": 159,
-          "title": "人社部长：大力推进区域一卡通 逐步实现全国一卡通",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoU5Xf2xkL",
-          "author": "腾讯网",
-          "description": "住房和城乡建设部部长倪虹在记者会上提出，将推进保障性住房建设、\"平急两用\"公共基础设施建设和城中村改造。这些措施旨在完善住房供应体系，提高城市韧性，解决群众住房安全问题，并促进城市高质量发展。去年国务院已发布相关文件，今年工作重点将放在确保开工建设、质量安全和实际成效上。\n   \n媒体报道\n  \n住建部长：希望房企能看到 为群众建设好房子就有市场就有未来财联社\n  \n住建部部长倪虹：希望房地产企业能看到，为群众建设好房子就有市场就有未来新浪科技\n  \n住建部长：规划建设保障性住房 推进“平急两用”公共基础设施建设和城中村改造财联社\n  \n重要行动！住建部部长倪虹：有力有序推行现房销售，下力气建设好房子新浪科技\n  \n住建部长：要改革完善商品房的开发、融资、销售等制度 要有力有序推进现房销售财联社\n  \n住建部部长喊话房地产企业：今后谁能为群众建设好房子，谁就有未来腾讯网",
-          "link": "https://readhub.cn/topic/8XoU5Xf2xkL",
-          "publishedOn": "2024-03-09T08:20:53.000Z",
-          "wordCount": 153,
-          "title": "住建部长：规划建设保障性住房 推进“平急两用”公共基础设施建设和城中村改造",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoQr3oh3V0",
-          "author": "财联社",
-          "description": "教育部部长怀进鹏在全国人大二次会议上表示，建设教育强国需要重点培养拔尖创新人才和提升自主培养能力，以满足中国式现代化对人才的需求。\n   \n媒体报道\n  \n两会快讯丨教育部：将实施高等教育综合改革试点和讯网\n  \n教育部：将实施高等教育综合改革试点新浪科技/财联社\n  \n教育部：建成教育强国需要在拔尖创新人才、自主培养能力上发力财联社",
-          "link": "https://readhub.cn/topic/8XoQr3oh3V0",
-          "publishedOn": "2024-03-09T08:00:47.000Z",
-          "wordCount": 126,
-          "title": "教育部：建成教育强国需要在拔尖创新人才、自主培养能力上发力",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoREaRu7Zz",
-          "author": "财联社",
-          "description": "十四届全国人大二次会议举行记者会，教育部部长怀进鹏、人力资源和社会保障部部长王晓萍、住房和城乡建设部部长倪虹、国家疾病预防控制局局长王贺胜就教育、就业和社会保障、住房、医疗疾控等相关问题回答中外记者提问。王晓萍表示，今年将为民营经济、中小微企业等就业容量大的经营主体提供更大支持，并完善灵活就业服务保障措施，支持劳动者多渠道灵活就业。\n   \n媒体报道\n  \n人社部部长：今年高校毕业生将达1179万人 将强化促进青年就业政策举措财联社\n  \n人社部长：将支持劳动者多渠道灵活就业新浪科技\n  \n人社部部长：今年就业市场开局良好 人工智能、大数据等专业人才需求旺盛财联社",
-          "link": "https://readhub.cn/topic/8XoREaRu7Zz",
-          "publishedOn": "2024-03-09T07:50:52.000Z",
-          "wordCount": 140,
-          "title": "人社部长：将支持劳动者多渠道灵活就业",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XoPRhS6ydJ",
-          "author": "凤凰科技",
-          "description": "谷歌旧金山新办公室的员工反映，先进的龙鳞房顶设计导致Wi-Fi信号极差。尽管谷歌曾宣称新园区将提供先进技术和设计，但高速可靠的Wi-Fi并不在其中。员工不得不使用以太网电缆或手机热点，部分人甚至被建议去咖啡馆或户外寻找更好的网络连接。该园区是谷歌设计和建造的第一个园区，用于安置从事重要人工智能项目的员工，但不可靠的无线网络影响了他们的工作效率。工作人员认为，波浪式屋顶覆盖的“龙鳞太阳能表皮”是干扰Wi-Fi信号的原因。\n   \n媒体报道\n  \n谷歌新办公大楼龙鳞房顶设计太“超前”，导致Wi-Fi信号非常差：员工被迫外出办公凤凰科技\n  \n谷歌新办公大楼龙鳞房顶设计太“超前”，导致 Wi-Fi 信号非常差搜狐科技\n  \n谷歌新办公大楼龙鳞房顶设计太“超前”，导致 Wi-Fi 信号非常差：员工被迫外出办公IT 之家",
-          "link": "https://readhub.cn/topic/8XoPRhS6ydJ",
-          "publishedOn": "2024-03-09T07:44:28.000Z",
-          "wordCount": 189,
-          "title": "谷歌新办公大楼龙鳞房顶设计太“超前”，导致 Wi-Fi 信号非常差",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
