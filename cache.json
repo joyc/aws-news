@@ -313,6 +313,276 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8XwPNExzg4R",
+          "author": "财联社",
+          "description": "生物技术组织BIO宣布正在剔除药明康德会员资格，支持《生物安全法》，并将与国会合作。药明康德曾是BIO的长期会员，但在医药股大涨的情况下，药明系港股跌幅均在9%左右。\n   \n媒体报道\n  \n美知名组织BIO称正采取措施剔除药明康德会员资格 支持《生物安全法》新浪科技/财联社\n  \n药明康德突发！美国BIO称将剔除药明康德会员资格，创新药板块迎来冲击？和讯网\n  \n美国BIO称将剔除药明康德会员资格 创新药板块迎来冲击？新浪科技\n  \n药明康德AH股齐下挫 美国BIO称将剔除药明康德会员资格腾讯网",
+          "link": "https://readhub.cn/topic/8XwPNExzg4R",
+          "publishedOn": "2024-03-14T06:01:06.000Z",
+          "wordCount": 181,
+          "title": "美知名组织BIO称正采取措施剔除药明康德会员资格 支持《生物安全法》",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwXbtxbBlJ",
+          "author": "搜狐科技",
+          "description": "开源录屏直播应用OBS Studio重大版本更新，改进支持PipeWire Video Capture Device源，增加AV1支持，HDR地址，多轨音频支持，CoreAudio输入设备通道选择等。改善Image Slideshow功能，新增自动裁剪选项，GPU重采样选项。macOS用户增加Capture Card Device源，Windows用户增加Capture Audio选项和Premultiplied Alpha选项。改进Elgato HD60 X Rev.2摄像机HDR支持，简化重缓存区设置，支持MP4/MOV格式PCM音频片段，更改默认记录格式为fMP4/fMOV，调整高比特率/大容量录制单位。其他更改包括支持Lua脚本路径，主题数据搜索路径，Ubuntu 20.04 LTS和Windows 7NVENC回退，锁定场景项设置等，并为macOS系统添加Python 3.11支持。\n   \n媒体报道\n  \n录屏直播软件 OBS Studio 30.1 发布：为 VA-API 支持 AV1等搜狐科技\n  \n开源录屏应用OBS Studio更新：功能大幅优化中关村在线\n  \n录屏直播软件 OBS Studio 30.1 发布：支持 PipeWire 视频源、为 VA-API 支持 AV1 等IT 之家",
+          "link": "https://readhub.cn/topic/8XwXbtxbBlJ",
+          "publishedOn": "2024-03-14T05:49:01.000Z",
+          "wordCount": 442,
+          "title": "开源录屏应用OBS Studio更新：功能大幅优化",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Xw8b0JrwN8",
+          "author": "凤凰科技",
+          "description": "Epic Games 对苹果公司提出指控，认为其并未真正执行法院的裁决，仍然对通过外部链接的购买收取高额佣金，并设置了诸多限制，使得外部链接在商业上变得无价值。苹果公司的这些行为违反了之前法院的相关裁决。此外，苹果还禁止使用按钮或其他行动号召的形式来展示外部链接，以及禁止某些应用程序（如多平台服务应用）鼓励用户使用除应用内购以外的购买方式。\n   \n媒体报道\n  \nEpic再发难：苹果藐视法庭，应用支付外链新规在3个方面违反禁令凤凰科技\n  \n不满App Store内购新政策？Epic Games再起诉苹果！中关村在线\n  \nEpic 再发难：苹果藐视法庭，应用支付外链新规在 3 个方面违反禁令IT 之家",
+          "link": "https://readhub.cn/topic/8Xw8b0JrwN8",
+          "publishedOn": "2024-03-14T05:48:47.000Z",
+          "wordCount": 232,
+          "title": "Epic 再发难：苹果藐视法庭，应用支付外链新规在 3 个方面违反禁令",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwVS9upXQZ",
+          "author": "搜狐科技",
+          "description": "微软获得了一项新专利，可实现通过追踪用户眼神在数码设备上进行打字输入，称为“dwell-free”免停留输入法。该技术能让用户通过注视屏幕上的按键来打字，也可用于互动，如注视网页浏览器中的按钮来点击它。技术利用免停留系统准确感知用户的注视，并采用人工智能模型收集用户信息，做出智能预测和建议。在Windows等操作系统中，用户可通过移动眼球控制音频音量或亮度等设置，这种技术可扩展成为一种新的与设备互动方式。\n   \n媒体报道\n  \n微软新专利获批：追踪用户目光，AI 算法实现高速打字搜狐科技/IT 之家\n  \n微软新专利：追踪用户目光AI算法实现高速打字搜狐科技",
+          "link": "https://readhub.cn/topic/8XwVS9upXQZ",
+          "publishedOn": "2024-03-14T05:46:55.000Z",
+          "wordCount": 214,
+          "title": "微软新专利获批：追踪用户目光，AI 算法实现高速打字",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XvkJ2GO48y",
+          "author": "腾讯网",
+          "description": "美国总统拜登即将发表声明，对日本制铁拟议中的收购美国钢铁公司交易表示严重关切。该声明预计将在日本首相岸田文雄4月18日对美国进行国事访问前发出。消息公布后，美国钢铁公司股价一度下跌10%。\n   \n媒体报道\n  \n岸田文雄访美前，拜登被曝计划出手干预新日本制铁公司低价收购美国钢铁公司腾讯网\n  \n美国钢铁大跌近13% 拜登据称将干预日本制铁对其的收购新浪科技\n  \n拜登将对日本制铁收购美国钢铁公司的交易表达担忧新浪科技\n  \n美国钢铁创近4年来最大跌幅，拜登是选盟友还是选票？｜全球贸易观察腾讯网",
+          "link": "https://readhub.cn/topic/8XvkJ2GO48y",
+          "publishedOn": "2024-03-14T05:12:12.000Z",
+          "wordCount": 147,
+          "title": "拜登将对日本制铁收购美国钢铁公司的交易表达担忧",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwL5AaDxsK",
+          "author": "财联社",
+          "description": "英伟达将在GTC大会上推出生成式AI专业认证，包含两项入门级认证，专注于大语言模型和多模态工作流的技能。GTC2024大会将于3月18日至21日在美国加州圣何塞举行，这是5年来GTC大会首次线下举行。\n   \n媒体报道\n  \n全球第一家！英伟达将推出生成式AI专业认证搜狐科技/新浪科技\n  \n英伟达将推出生成式AI专业认证中国证券网/财联社/速途网",
+          "link": "https://readhub.cn/topic/8XwL5AaDxsK",
+          "publishedOn": "2024-03-14T05:07:52.000Z",
+          "wordCount": 227,
+          "title": "英伟达将推出生成式AI专业认证",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwGQtqMWAR",
+          "author": "速途网",
+          "description": "微软宣布将于4月1日正式上线更名为“Copilot for Security”的服务，这是世界上第一个基于生成式AI的安全产品。该产品能帮助安全和IT专业人员增强技能、协作、查看更多内容并更快地做出响应，已有的研究显示其能显著提高安全分析师的工作效率和准确性。Copilot for Security具备事件汇总、影响分析、脚本的逆向工程和引导式响应等功能，同时还支持自定义提示手册、知识库集成、使用情况报告和扩展的语言本地化。\n   \n媒体报道\n  \n微软 Copilot for Security 4 月 1日上线，通过 AI 解决安全问题搜狐科技\n  \n微软：Microsoft Copilot for Security将于4月1日开始全球销售速途网\n  \n首款生成式 AI 安全解决方案，微软 Copilot for Security 4 月 1 日上线新浪科技/IT 之家",
+          "link": "https://readhub.cn/topic/8XwGQtqMWAR",
+          "publishedOn": "2024-03-14T05:06:53.000Z",
+          "wordCount": 311,
+          "title": "微软 Copilot for Security 4 月 1日上线，通过 AI 解决安全问题",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwRBHAGTx2",
+          "author": "搜狐科技",
+          "description": "高通骁龙 8 Gen 4 将成为业内首款支持 LPDDR6 内存的旗舰芯片， 而苹果今年推出的 A18 Pro 芯片会采用 LPDDR5T 规格 ... 会配备 LPDDR5T，但最终没有升级，采用了 LPDDR5X ... 国际半导体标准组织（JEDEC）将于今年下半年确定 LPDDR6 内存规范，三星和海力士这两家世界领先的 DRAM 制造商正在加紧生产这些 LPDDR6 模块。\n   \n媒体报道\n  \n消息称高通骁龙8 Gen 4芯片率先支持LPDDR6，苹果A18 Pro支持LPDDR5T中关村在线/搜狐科技\n  \n高通骁龙8 Gen 4领先支持LPDDR6，成本问题成企业升级拦路虎ITBear科技资讯\n  \n消息称高通骁龙 8 Gen 4 芯片率先支持 LPDDR6搜狐科技\n  \n消息称高通骁龙 8 Gen 4 芯片率先支持 LPDDR6，苹果 A18 Pro 支持 LPDDR5TIT 之家",
+          "link": "https://readhub.cn/topic/8XwRBHAGTx2",
+          "publishedOn": "2024-03-14T05:01:31.000Z",
+          "wordCount": 369,
+          "title": "消息称高通骁龙 8 Gen 4 芯片率先支持 LPDDR6",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwHVPEf7Vk",
+          "author": "财联社",
+          "description": "名创优品发布婚育奖励方案，投入1000万元奖励员工结婚和生育。员工在职期间结婚可获得10000元结婚礼金，每年七夕节公司还将举办集体婚礼。生育礼金分别为10000元、20000元和30000元，多胎礼金逐胎递增，同胎多孩可获得多重礼金。男职工需完成孕产护理等课程学习并通过考核方可领取生育礼金。名创优品是一家全球价值零售商，拥有超5500家门店，2023年第四季度营收38.4亿元，同比增长54%。\n   \n媒体报道\n  \n生一胎奖励1万元 名创优品投入1000万元鼓励员工婚育中国证券网\n  \n名创优品投入1000万鼓励员工婚育 生三胎奖励3万元财联社\n  \n名创优品宣布发放婚育奖励：每一胎奖励1万元，上不封顶新浪科技/澎湃新闻/凤凰科技",
+          "link": "https://readhub.cn/topic/8XwHVPEf7Vk",
+          "publishedOn": "2024-03-14T04:55:55.000Z",
+          "wordCount": 207,
+          "title": "名创优品宣布发放婚育奖励：每一胎奖励1万元，上不封顶",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwPNDY01kQ",
+          "author": "腾讯网",
+          "description": "工业和信息化部发布通报，指出62款APP及SDK存在侵害用户权益行为，包括“摇一摇”乱跳转、信息窗口“关不掉”和违规收集使用个人信息等问题。该部要求相关APP及SDK依据法律法规进行整改，并对整改不力的进行依法依规处置。\n   \n媒体报道\n  \n严打“摇一摇”乱跳转等问题：工信部通报最新一批侵害用户权益行为的 AppIT 之家\n  \n今年第二批点名通报！怪兽充电、茶百道、途虎养车等62个APP存在侵权行为|聚焦315腾讯网\n  \n茶百道、怪兽充电等在列！工业和信息化部通报2024年第2批侵害用户权益行为APP（SDK）中国证券网\n  \n工信部：怪兽充电、途虎养车等62款App有侵害用户权益行为澎湃新闻",
+          "link": "https://readhub.cn/topic/8XwPNDY01kQ",
+          "publishedOn": "2024-03-14T04:55:45.000Z",
+          "wordCount": 244,
+          "title": "工信部：怪兽充电、途虎养车等62款App有侵害用户权益行为",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwCrtC6AIX",
+          "author": "网易科技",
+          "description": "美国联邦航空管理局（FAA）最近批准了SpaceX的星舰（Starship）发射许可，原定于3月14日的第三次试飞将推迟至周末，取决于天气情况。这次试飞将在得克萨斯州的Starbase基地进行，发射时间约为110分钟。星舰由不锈钢制成的可重复使用上级和超级重型助推器组成，总高度超过122米。试飞将执行一系列任务，包括在太空中重新点燃猛禽发动机等。SpaceX计划使用新的飞行轨迹，实现在印度洋溅落的目标。星舰和超级重型助推器均设计为完全可重复使用，是目前世界上最强大的火箭，预计最早2026年将宇航员送上月球。然而，星舰还需克服一些障碍，包括实现轨道抵达能力，此前两次试飞未能成功。SpaceX已完成美国联邦航空局（FAA）要求采取的17项纠正措施，准备进行下一次试飞。\n   \n媒体报道\n  \n再战苍穹，FAA 授予 SpaceX“星舰”第三次试飞发射许可IT 之家\n  \nSpaceX 星舰今晚第三次试飞，首次尝试太空重新点火、受控再入印度洋溅落IT 之家\n  \nSpaceX获批，第三次试飞星际飞船，最早今晚8点网易科技",
+          "link": "https://readhub.cn/topic/8XwCrtC6AIX",
+          "publishedOn": "2024-03-14T04:41:32.000Z",
+          "wordCount": 291,
+          "title": "再战苍穹，FAA 授予 SpaceX“星舰”第三次试飞发射许可",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwSDqXvqi6",
+          "author": "财联社",
+          "description": "我国正在制定汽车以旧换新行动方案的实施细则，预计二季度出台。此行动方案旨在推动大规模设备更新和消费品以旧换新，已有多轮调研和讨论。\n   \n媒体报道\n  \n以旧换新行动方案印发，汽车零部件ETF（159565）、智能汽车50ETF（516590）等产品受关注财联社\n  \n行业人士：汽车“以旧换新”政策细则制订中 或很快出台新浪科技\n  \n消息称我国汽车“以旧换新”政策细则制定中，有望二季度出台IT 之家\n  \n独家|行业人士：汽车“以旧换新”政策细则制订中  或很快出台财联社",
+          "link": "https://readhub.cn/topic/8XwSDqXvqi6",
+          "publishedOn": "2024-03-14T04:30:36.000Z",
+          "wordCount": 147,
+          "title": "行业人士：汽车“以旧换新”政策细则制订中 或很快出台",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwP0mhEGeg",
+          "author": "新浪科技",
+          "description": "思特威推出了新款手机图像传感器SC1620CS，拥有1600万像素，采用1.0μm像素尺寸的背照式（BSI）技术，并搭载了思特威的SFCPixel-SL技术和小像素尺寸技术。这款传感器在动态范围和暗场噪声性能上有所提升，尤其在暗光环境下表现更佳。它还支持四合一模式，可输出4MP 60fps影像。此外，SC1620CS在高温条件下的画质均匀性和抑制暗电流和白点方面也有显著改进。该传感器预计将于2024年第二季度实现量产。\n   \n媒体报道\n  \n思特威推出国产 16MP 手机图像传感器 SC1620CS搜狐科技\n  \n思特威发布全新1600万像素手机图像传感器SC1620CS，暗光成像效果大幅提升ITBear科技资讯\n  \n思特威推出国产 16MP 手机图像传感器 SC1620CS，支持 4K 60 帧影像新浪科技/IT 之家",
+          "link": "https://readhub.cn/topic/8XwP0mhEGeg",
+          "publishedOn": "2024-03-14T04:10:42.000Z",
+          "wordCount": 229,
+          "title": "思特威推出国产 16MP 手机图像传感器 SC1620CS",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwCAnqpRz3",
+          "author": "财联社",
+          "description": "阿里巴巴宣布未来三年内在韩国投资11亿美元，用于建设物流中心和拓展业务。今年将投资2亿美元建设物流中心，并投入1亿美元支持韩国中小企业在全球市场的销售。此外，还将投资1000亿韩元用于保护消费者权益。阿里巴巴表示，将长期与韩国当地卖家合作，保护消费者权益并协助中小企业拓展国际市场。\n   \n媒体报道\n  \n阿里巴巴计划3年内在韩国投资11亿美元，将建设物流中心并拓展业务凤凰科技/中关村在线\n  \n阿里巴巴计划 3 年内在韩国投资 11 亿美元，将建设物流中心并拓展业务IT 之家\n  \n阿里巴巴据悉计划3年内在韩国投资11亿美元，将建设物流中心并拓展业务财联社/新浪科技\n  \n阿里巴巴计划在韩国投资 11 亿美元，将建设物流中心并拓展业务DoNews",
+          "link": "https://readhub.cn/topic/8XwCAnqpRz3",
+          "publishedOn": "2024-03-14T04:02:26.000Z",
+          "wordCount": 235,
+          "title": "阿里巴巴计划 3 年内在韩国投资 11 亿美元，将建设物流中心并拓展业务",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwOKVuGIbB",
+          "author": "手机中国",
+          "description": "华为P70系列预计将在4月发布，包括华为P70标准版、华为P70 Pro和华为P70 Art三款机型。其中，华为P70标准版配备6.58英寸OLED屏幕，而华为P70 Pro和华为P70 Art则配备6.8英寸大尺寸显示屏，全系列屏幕分辨率为1.5K，采用居中打孔设计。影像方面，华为P70标准版和华为P70 Pro可能采用豪威OV50H传感器，而华为P70 Art可能采用索尼IMX989一英寸传感器。此外，华为P70系列的产品力强大，在线下门店可能不需要销售人员讲解。在新品发布会上，新款问界M5、新耳机、新平板和新路由器等产品也将一同亮相。\n   \n媒体报道\n  \n华为P70系列核心配置曝光：全系1.5K护眼屏搜狐科技\n  \n华为P70系列核心配置已曝光：全系1.5K 配国产镜头！手机中国\n  \n华为P70系列核心配置已曝光：全系1.5K 配国产镜头凤凰科技",
+          "link": "https://readhub.cn/topic/8XwOKVuGIbB",
+          "publishedOn": "2024-03-14T04:01:52.000Z",
+          "wordCount": 402,
+          "title": "华为P70系列核心配置已曝光：全系1.5K 配国产镜头",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XuzqaTrBHb",
+          "author": "财联社",
+          "description": "OpenAI的Sora团队表示，目前Sora仍是一个研究项目，没有具体的产品发布时间表，正在获取反馈阶段。Sora是一个视频生成模型，可以通过文本提示创建60秒的“逼真”和“富有想象力”的视频。目前Sora在生成手部、复杂的物理过程以及随时间发生的运动或轨迹方面存在局限。OpenAI计划为Sora调整图像生成工具DALL-E 3的分类器，以遏制虚假的人工智能视频。Sora在创意产业中具有潜在的革命性作用，可以降低生产成本，实现以前由于资金问题而无法实现的创新内容。\n   \n媒体报道\n  \nOpenAI 首席技术官：文生视频工具 Sora 数月内将公开发布，拟支持生成音频IT 之家\n  \nOpenAI首席技术官：Sora将于年内正式向公众推出 可配备音效、编辑视频内容财联社\n  \nOpenAI：Sora当前版本仍是研究项目，不会很快发布澎湃新闻",
+          "link": "https://readhub.cn/topic/8XuzqaTrBHb",
+          "publishedOn": "2024-03-14T04:00:15.000Z",
+          "wordCount": 224,
+          "title": "OpenAI：Sora当前版本仍是研究项目，不会很快发布",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XvW4CUL1iH",
+          "author": "速途网",
+          "description": "支付宝发布租赁行业治理成果，称过去一年处理4300多个违规租赁小程序。作为开放平台，支付宝为商家提供技术服务，但不参与经营。平台严厉打击违规行为，用户可通过投诉举报入口进行反馈。支付宝还更新了租享行业管理规范，成立租赁行业联合治理小组，针对高价租赁等现象推出治理方案。官方租赁平台为“芝麻租物”，用户可凭信用免押金租物。\n   \n媒体报道\n  \n支付宝累计处理4300多个租赁小程序 明确禁止违规租赁等行为速途网\n  \n支付宝：明确禁止违规租赁等行为，累计已处理 4300 多个租赁小程序中关村在线/IT 之家",
+          "link": "https://readhub.cn/topic/8XvW4CUL1iH",
+          "publishedOn": "2024-03-14T03:54:42.000Z",
+          "wordCount": 178,
+          "title": "支付宝：明确禁止违规租赁等行为，累计已处理 4300 多个租赁小程序",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwIb2hKSOE",
+          "author": "搜狐科技",
+          "description": "日前一款型号为“小米充电宝 25000 探索版”的产品通过国家 3C 认证，预计将于近期上市，不带电源适配器销售 ... 认证信息显示，该产品采用 USB-C + USB-C + USB-A 的&nbsp ... USB-C（C1）：5VDC 3A，9VDC 3A，11VDC 3A，11VDC 6.1A，12VDC 3A，15VDC 3A，20VDC&nbsp。\n   \n媒体报道\n  \n小米充电宝 25000mAh 探索版入网：三口设计，单口输出最大 140WIT 之家\n  \n小米王腾开怼友商Ace 3V：一款中端机能吹出几冠王搜狐科技\n  \n小米充电宝25000mAh探索版入网：三口设计，单口输出最大140W中关村在线",
+          "link": "https://readhub.cn/topic/8XwIb2hKSOE",
+          "publishedOn": "2024-03-14T03:46:14.000Z",
+          "wordCount": 348,
+          "title": "小米充电宝 25000mAh 探索版入网：三口设计，单口输出最大 140W",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwPNGMZKk8",
+          "author": "财联社",
+          "description": "在2024年华为合作伙伴大会上，华为常务董事汪涛透露，2023年公司经营恢复正常，全球销售收入超7000亿元人民币，增长9%，中国区企业业务增长25%。华为持续加大研发投入，近三年研发占比超20%，全球研发投入排名前五。公司ICT基础设施业务稳健，终端业务表现良好，数字能源和云业务增长，智能汽车解决方案竞争力提升。2022年华为销售收入6423亿元，净利润356亿元，预计2023年销售收入增长率超9%。\n   \n媒体报道\n  \n华为常务董事汪涛：2023 年华为研发投入总额排名全球前五IT 之家\n  \n华为常务董事汪涛：2023年华为销售收入超7000亿元 同比增长超9%财联社\n  \n华为常务董事汪涛：2023年华为销售收入超7000亿元手机中国\n  \n华为常务董事汪涛：2023年华为销售收入超7000亿元，同比增长超9%新浪科技",
+          "link": "https://readhub.cn/topic/8XwPNGMZKk8",
+          "publishedOn": "2024-03-14T03:30:39.000Z",
+          "wordCount": 233,
+          "title": "华为常务董事汪涛：2023 年华为研发投入总额排名全球前五",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwBRhsEdhV",
+          "author": "i黑马",
+          "description": "长城汽车针对腾讯新闻《远光灯》栏目发布的有关员工离职的文章发表声明，称该文章恶意揣测、误导舆论，对长城汽车名誉造成了恶劣影响，已涉嫌侵犯长城汽车的名誉权。长城汽车表示，将根据相关法律规定向法院提起诉讼，维护自身合法权益。报道透露，长城汽车近期有多位中高层员工离职，其中包括至少三位副总级别高层员工和超十位科长、部长级干部。去年10月长城汽车内部的反腐行动和组织架构调整被认为是引发人事风波的导火索。\n   \n媒体报道\n  \n长城汽车回应“多位中高层员工离职”：文章恶意揣测、误导舆论凤凰科技/新浪科技/IT 之家\n  \n长城汽车回应大批员工离职传闻i黑马\n  \n长城汽车回应“员工大批离职”：恶意揣测、误导舆论新浪科技",
+          "link": "https://readhub.cn/topic/8XwBRhsEdhV",
+          "publishedOn": "2024-03-14T02:56:34.000Z",
+          "wordCount": 132,
+          "title": "长城汽车回应“多位中高层员工离职”：文章恶意揣测、误导舆论",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwHAf1LZyG",
+          "author": "搜狐科技",
+          "description": "微软全球推出Arm Advisory Service，助力开发者优化Windows Arm应用，该服务自2023年10月起测试上线并获好评。同时，Brave浏览器计划推出Windows on Arm版本。Arm处理器架构以低功耗、小尺寸和高性能著称，微软提供多语言支持，服务时间与当地工作时区一致。\n   \n媒体报道\n  \nArm 发布一系列汽车增强 IP，推出可大幅缩短软件开发时长的汽车虚拟平台IT 之家\n  \n支持简中，微软推出 Arm 咨询服务：帮开发者构建、优化 WoA 应用搜狐科技/IT 之家",
+          "link": "https://readhub.cn/topic/8XwHAf1LZyG",
+          "publishedOn": "2024-03-14T02:40:44.000Z",
+          "wordCount": 320,
+          "title": "支持简中，微软推出 Arm 咨询服务：帮开发者构建、优化 WoA 应用",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwMA4BFnw1",
+          "author": "搜狐科技",
+          "description": "2024年阿里巴巴全球数学竞赛启动报名，首次向AI开放，邀请全球AI大模型挑战竞赛难度试题。初赛时间为4月13日-14日，AI模型与人类选手一同在线应对挑战。决赛规则更新，答题数减少至6题。本届大赛总奖金超过400万元人民币。\n   \n媒体报道\n  \n阿里巴巴2024全球数学竞赛启动，总奖金超400万元！首次向AI开放搜狐科技\n  \n阿里巴巴全球数学竞赛官宣启动，首次向AI开放搜狐科技\n  \n2024阿里巴巴全球数学竞赛开启报名，首次向AI开放搜狐科技\n  \n阿里巴巴全球数学竞赛首次向 AI 开放，初赛 4 月 13 日举行IT 之家",
+          "link": "https://readhub.cn/topic/8XwMA4BFnw1",
+          "publishedOn": "2024-03-14T02:26:13.000Z",
+          "wordCount": 252,
+          "title": "阿里巴巴全球数学竞赛官宣启动，首次向AI开放",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XvkJGYI96L",
+          "author": "搜狐科技",
+          "description": "一加科技宣布其新机型一加Ace 3V将全球首发最新一代高通中端处理器，该处理器为史上性能最强的中端芯片，并采用了高通旗舰芯片同代架构。公司表示，此次首发是双方合作进一步深化的标志，未来将共同推出更多顶级芯片，共同优化性能。一加Ace 3V搭载的高通骁龙7+ Gen3在性能上可与骁龙8Gen2相媲美，安兔兔跑分达150万分，极限跑分可达170万分。此外，该机型采用直屏设计，并配备5500毫安时大电池。\n   \n媒体报道\n  \n高通中端芯曝光！中端手机市场要彻底变天了？搜狐科技\n  \n一加宣布全球首发高通最强中端处理器：未来首发高通顶级芯片凤凰科技/搜狐科技",
+          "link": "https://readhub.cn/topic/8XvkJGYI96L",
+          "publishedOn": "2024-03-14T02:11:35.000Z",
+          "wordCount": 201,
+          "title": "一加宣布全球首发高通最强中端处理器：未来首发高通顶级芯片",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XwHt7VQWFI",
+          "author": "新浪科技",
+          "description": "苹果Vision Pro头显目前仅在美国发售，计划扩展到更多地区。代码显示，苹果将增加12种新语言支持，包括简体中文、粤语等。苹果分析师郭明錤预测，Vision Pro将在6月全球开发者大会前扩展到更多市场。\n   \n媒体报道\n  \n苹果计划增加12种新语言支持 简体中文和韩语在列中关村在线/搜狐科技\n  \n苹果 Vision Pro 头显虚拟键盘将添加 12 种语言，包含简体中文搜狐科技/新浪科技/IT 之家",
+          "link": "https://readhub.cn/topic/8XwHt7VQWFI",
+          "publishedOn": "2024-03-14T02:06:46.000Z",
+          "wordCount": 348,
+          "title": "苹果 Vision Pro 头显虚拟键盘将添加 12 种语言，包含简体中文",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XvJUwGARb5",
+          "author": "搜狐科技",
+          "description": "2024年中国家电及消费电子博览会（AWE 2024）即将在上海新国际博览中心开幕，主题为“智能科技，创享生活”，汇聚全球家电及消费电子行业领先企业。展会将展示人工智能等技术的创新应用，海尔智家、华为、海信、TCL、松下和三星等将带来一系列前沿创新产品和科技体验。\n   \n媒体报道\n  \nAWE 2024今日开幕 华为三星等多家巨头参与 AI是重点！手机中国\n  \nAWE 2024明日开幕 华为、三星等巨头将展示新科技手机中国/搜狐科技",
+          "link": "https://readhub.cn/topic/8XvJUwGARb5",
+          "publishedOn": "2024-03-14T01:31:03.000Z",
+          "wordCount": 168,
+          "title": "AWE 2024明日开幕 华为、三星等巨头将展示新科技",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XvCLLEnogX",
+          "author": "腾讯网",
+          "description": "Physical Intelligence（PI）是一家新成立的初创公司，致力于将通用人工智能引入物理世界，为机器人和未来的物理驱动设备开发基础模型和学习算法。这家公司在美国加州旧金山成立，其团队由工程师、科学家、机器人专家和创业者组成。PI感谢Khosla Ventures、Lux Capital、OpenAI、Sequoia Capital（红杉资本）和Thrive Capital的支持和合作。PI的初始团队成员包括斯坦福大学计算机科学和电气工程系的助理教授Chelsea Finn，她是斯坦福一个家政机器人的项目指导老师。PI的首席执行官Karol Hausman曾是谷歌DeepMind的研究人员，也是斯坦福的兼职教授。团队中的Brian Ichter也出自谷歌。UC伯克利副教授Sergey Levine是业界知名的“强化学习大牛”，他希望在社交媒体上与一群优秀的朋友和长期合作者一起迎接大规模机器人学习的巨大挑战，构建通用目的机器人模型，相当于自然语言处理（NLP）之于大语言模型（LLM）。初始团队中还有Lachy Groom，他是Stripe早期员工兼著名投资者，也是OpenAI创始人奥尔特曼的密友之一。PI还得到了Khosla Ventures、Lux Capital、OpenAI、Sequoia Capital（红杉资本）和Thrive Capital的支持。\n   \n媒体报道\n  \n昨晚一家机器人AI公司悄然成立 OpenAI、红杉参与创办搜狐科技/腾讯网\n  \n重磅！这家公司首发OpenAI机器人，可以与人类全面对话，创始人：开始接近人类速度搜狐科技",
+          "link": "https://readhub.cn/topic/8XvCLLEnogX",
+          "publishedOn": "2024-03-14T01:21:29.000Z",
+          "wordCount": 171,
+          "title": "昨晚一家机器人AI公司悄然成立 OpenAI、红杉参与创办",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8XuvYSApEgL",
+          "author": "财联社",
+          "description": "深圳市发布新规，规范住房租赁市场，包括打击“二房东”行为，禁止“房中房”，并加强对房屋租赁企业和自然人转租行为的监管。新规要求相关企业或个人在达到一定转租规模时必须进行商事登记，注明经营范围，同时加强住房租赁资金监管和房源信息发布规范，以保护消费者权益。\n   \n媒体报道\n  \n高价预订酒店却无法入住，出境游客面临履约难题新浪科技\n  \n杭州楼市新政：二手房不再限购，卖房增值税征免年限统一调整为2年澎湃新闻\n  \n杭州：在本市范围内购买二手住房，不再审核购房人资格新浪科技\n  \n杭州：在本市范围内购买二手住房 不再审核购房人资格财联社\n  \n杭州进一步优化房地产市场调控措施，购买二手住房不再审核购房人资格新浪科技\n  \n深圳住房租赁新规出炉：整治“二房东”禁止“房中房”新浪科技\n  \n深圳公布安居型商品房补缴价款方案 补差价后可上市交易中国证券网\n  \n深圳发布住房租赁新规 整治“二房东”禁止“房中房”财联社",
+          "link": "https://readhub.cn/topic/8XuvYSApEgL",
+          "publishedOn": "2024-03-14T00:40:41.000Z",
+          "wordCount": 150,
+          "title": "深圳发布住房租赁新规 整治“二房东”禁止“房中房”",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8XvZDcwy8VS",
           "author": "新浪科技",
           "description": "比特币概念股在周三表现强劲，其中MicroStrategy涨幅超过7%，Riot Blockchain、Marathon Digital和嘉楠科技涨幅超过2%。伯恩斯坦分析师在周一发布的报告中坚定看涨比特币前景，预测比特币在4月减半后价格将爆发，预计到明年年中比特币价格可达15万美元。\n   \n媒体报道\n  \n美股数字货币股盘初上涨，MicroStrategy涨近5%Odaily\n  \n比特币概念股走高 MicroStrategy涨超7%新浪科技\n  \nMicroStrategy计划发行5亿美元可转换优先票据并购买更多比特币Odaily\n  \nMicroStrategy股价突破1700美元，过去1个月上涨近150%Odaily",
@@ -1940,76 +2210,6 @@
           "publishedOn": "2024-03-11T22:50:37.000Z",
           "wordCount": 352,
           "title": "消息称苹果 iOS 18 将升级“无边记”应用，新增 Scenes 功能",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XrfLPKVBiR",
-          "author": "和讯网",
-          "description": "三星S24系列自发布以来，全球销量大幅增长，特别是在韩国市场，销量增幅达到了22%。该系列在多个国家的预售量已打破纪录，相比前代产品销量实现了两位数的增长。在美国，S24系列的销量比S23系列高出14%，在西欧地区（法国、德国和英国），销量更是高出28%。其中，最昂贵的型号S24 Ultra占据了52%的销量。三星S24系列手机预装了AI功能，包括实时语言翻译、网页和笔记的概要总结以及基于生成式AI的图像和视频编辑功能。S24 Ultra手机在材料和功能上都更为先进，配备了2亿像素的主摄像头和多颗其他功能摄像头。\n   \n媒体报道\n  \n三星S24系列全球销量飙升 韩国市场销量增幅达22%搜狐科技/手机中国\n  \n三星首款AI手机Galaxy S24系列前三周全球销量增长8%和讯网/新浪科技",
-          "link": "https://readhub.cn/topic/8XrfLPKVBiR",
-          "publishedOn": "2024-03-11T16:30:41.000Z",
-          "wordCount": 289,
-          "title": "三星S24系列全球销量飙升 韩国市场销量增幅达22%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XsGKigQDHD",
-          "author": "搜狐科技",
-          "description": "社交媒体巨头Meta的首席执行官马克·扎克伯格呼吁苹果等应用商店公司负责应用的年龄限制验证，得到了交友软件公司Match Group的响应。Match Group的新任信任与安全主管Yoel Roth认为，应用商店能更准确评估用户年龄。Meta去年11月就提出类似观点，全球安全主管Antigone Davis表示应用商店可通知父母青少年下载应用的决定。这些公司的提议虽有自身利益考量，但由苹果和谷歌进行统一的年龄验证更为安全有效。\n   \n媒体报道\n  \nTinder 母公司 Match 提议，年龄验证应该交给苹果和谷歌搜狐科技/IT 之家\n  \nAge verification should be Apple’s job, says Tinder parent Match9to5Mac",
-          "link": "https://readhub.cn/topic/8XsGKigQDHD",
-          "publishedOn": "2024-03-11T15:31:06.000Z",
-          "wordCount": 275,
-          "title": "Tinder 母公司 Match 提议，年龄验证应该交给苹果和谷歌",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XrmpRmXBRd",
-          "author": "财联社",
-          "description": "比特币市值已升至1.398万亿美元，超越白银(1.379 万亿美元)，跻身全球市值第八大资产。\n   \n媒体报道\n  \n比特币超越白银 跻身全球市值第八大资产凤凰科技/财联社/新浪科技",
-          "link": "https://readhub.cn/topic/8XrmpRmXBRd",
-          "publishedOn": "2024-03-11T14:32:28.000Z",
-          "wordCount": 144,
-          "title": "比特币超越白银跻身全球市值第八大资产",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Xs6TR1inWu",
-          "author": "凤凰科技",
-          "description": "微软计划发布新款Surface电脑和Windows 11的Copilot新功能，但三星在其即将推出的Galaxy Book4系列产品宣传材料中提前泄露了部分Copilot功能。这些功能主要涉及使用自然语言完成各种任务，例如短信内容总结和发送短信等。三星表示，Copilot将与Phone Link应用更深入地集成，并在2024年春季上市的Galaxy Book4系列上提供。微软将于2024年3月22日展示新款Surface设备并宣布Copilot和Windows 11的升级内容。\n   \n媒体报道\n  \n三星泄露微软 Copilot 新功能：用自然语言操控各种功能搜狐科技/IT 之家\n  \n三星泄露微软Copilot新功能：用自然语言操控各种功能凤凰科技",
-          "link": "https://readhub.cn/topic/8Xs6TR1inWu",
-          "publishedOn": "2024-03-11T13:55:57.000Z",
-          "wordCount": 385,
-          "title": "三星泄露微软 Copilot 新功能：用自然语言操控各种功能",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XrwTfDoCIj",
-          "author": "凤凰科技",
-          "description": "三星Galaxy S24系列手机配备了更新的One UI 6.1系统，其中包括了更流畅的One UI Home桌面动画。这个更新也将推广到其他三星手机和平板电脑上。虽然用户可以从第三方网站下载更新的APK文件，但建议等待官方更新以避免安全风险。One UI 6.1更新有望在2024年3月底开始推送，并将引入部分Galaxy S24系列的AI功能到老款高端手机。\n   \n媒体报道\n  \n三星将为旧款机型推送 One UI Home 更新，带来更流畅的动画效果IT 之家\n  \n三星将为旧款机型推送One UI Home更新，带来更流畅的动画效果凤凰科技/搜狐科技",
-          "link": "https://readhub.cn/topic/8XrwTfDoCIj",
-          "publishedOn": "2024-03-11T13:51:10.000Z",
-          "wordCount": 416,
-          "title": "三星将为旧款机型推送 One UI Home 更新，带来更流畅的动画效果",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8XrqNdQxhSH",
-          "author": "财联社",
-          "description": "特斯拉位于柏林附近的德国工厂因电力问题自3月5日起停运，电力公司表示工厂可能在周一恢复供电，这取决于高压测试和工程师的批准。\n   \n媒体报道\n  \n美股异动｜特斯拉涨2.3% 德国工厂最快有望周一晚恢复供电新浪科技\n  \n特斯拉涨2.3% 德国工厂最快有望周一晚恢复供电新浪科技\n  \n特斯拉德国工厂最快有望周一晚恢复供电新浪科技/IT 之家/财联社/凤凰科技",
-          "link": "https://readhub.cn/topic/8XrqNdQxhSH",
-          "publishedOn": "2024-03-11T13:50:59.000Z",
-          "wordCount": 157,
-          "title": "特斯拉德国工厂最快有望周一晚恢复供电",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Xs6p8NqZLv",
-          "author": "凤凰科技",
-          "description": "Telegram创始人帕维尔・杜洛夫接受英国《金融时报》专访时透露，该公司在推出广告和高级订阅服务后，近两年来获得了数亿美元营收，并计划在明年实现盈利。目前，Telegram的月活跃用户数为9亿。杜洛夫表示，一旦公司盈利且市场条件允许，将考虑在美国进行IPO，并考虑向老用户出售部分股票，但他排除了出售Telegram的可能性。\n   \n媒体报道\n  \nTelegram已接近盈利并拟赴美IPO，此前曾计划2025年上市Odaily\n  \n月活用户达9亿、接近盈利，Telegram创始人称考虑赴美上市凤凰科技\n  \n月活用户达 9 亿、接近盈利，Telegram 创始人称考虑赴美上市IT 之家",
-          "link": "https://readhub.cn/topic/8Xs6p8NqZLv",
-          "publishedOn": "2024-03-11T13:40:56.000Z",
-          "wordCount": 189,
-          "title": "月活用户达 9 亿、接近盈利，Telegram 创始人称考虑赴美上市",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
