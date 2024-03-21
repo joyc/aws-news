@@ -2,10 +2,606 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-21T00:34:21.078Z</updated>
+    <updated>2024-03-21T06:09:28.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软向 Dev / Canary 频道推送 Win11 26085 更新，修复大量 Bug]]></title>
+        <id>readhub-8Y7trM462bw</id>
+        <link href="https://readhub.cn/topic/8Y7trM462bw"/>
+        <updated>2024-03-21T05:11:11.000Z</updated>
+        <summary type="html"><![CDATA[微软发布了Windows 11 Insider Preview Build 26085版本，改进包括：低功耗蓝牙LE音频助听设备的管理，修复了文件资源管理器的多个问题，以及sudo设置和Windows安全应用的故障。同时解决了鼠标光标问题，设置界面冻结，以及蓝牙设备列表读取问题。Windows更新功能也得到了修复。不过，一些游戏兼容性仍在调查中，且Windows Copilot与语音访问、Windows Ink配合使用时存在问题。
+   
+媒体报道
+  
+微软向 Dev / Canary 频道推送 Win11 26085 更新，修复大量 BugIT 之家
+  
+微软推送Win11 26085预览版本更新：大量Bug得到修复！新浪科技/搜狐科技
+  
+微软推送Win11 26085预览版本更新：修复大量Bug搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛首席经济学家：美国通胀仍在下行轨道上 美联储6月可能降息]]></title>
+        <id>readhub-8Y6zmdQPEo2</id>
+        <link href="https://readhub.cn/topic/8Y6zmdQPEo2"/>
+        <updated>2024-03-21T05:11:11.000Z</updated>
+        <summary type="html"><![CDATA[高盛集团首席经济学家Jan Hatzius认为，尽管近期数据有所上升，美国通胀率仍在下降，支持了高盛对于6月降息的预期。Hatzius表示，无论是商品、租金还是劳动力市场，通胀的驱动因素的趋势都令人鼓舞。高盛经济学家将美联储年内降息次数的预期从四次减少到三次，预计首次降息将在6月。Hatzius提到鲍威尔在国会的讲话，认为他的讲话听上去像是不晚于6月降息。虽然过去一周通胀数据走高，但Hatzius预期这并没有改变他的观点。Hatzius还表示，货币政策具有很大程度的限制性，但对短期经济增长不构成问题。
+   
+媒体报道
+  
+摩根资产管理美联储3月会议快评：美联储维持利率不变 年内仍计划降息75个基点新浪科技
+  
+美联储主席：当前政策利率可能处于峰值，今年某个时候开始降息或是合适的澎湃新闻
+  
+美联储主席鲍威尔：不久后放慢缩表步伐是适宜之举新浪科技
+  
+美联储FOMC声明：美联储再次等待对通胀回落信心的增强Odaily
+  
+美联储守住三次降息底线 华尔街雀跃：金价破2200、美股再创新高！新浪科技
+  
+美联储主席鲍威尔：发行数字美元需要美国国会立法授权财联社
+  
+美联储会议提振投资者信心 比特币重回6.7万美元新浪科技
+  
+牛市早报｜美联储维持利率不变，深交所摸底A股个人投资者状况澎湃新闻
+  
+美联储官宣口径的几种可能和讯网
+  
+美联储将基准利率维持在5.25-5.5％区间不变新浪科技
+  
+高盛首席经济学家：美国通胀仍在下行轨道上，美联储6月可能降息新浪科技
+  
+美联储货币政策公布前金价乏力，盘中失守2150新浪科技
+  
+高盛首席经济学家：美国通胀仍在下行轨道上 美联储6月可能降息新浪科技
+  
+美联储主席鲍威尔：我们关注的是放慢缩表速度财联社
+  
+美联储利率不变，市场预测今年三次降息及货币政策放松影响和讯网
+  
+美联储维持利率不变Odaily
+  
+今年美元可能上涨5%？本次美联储决议将定下基调新浪科技
+  
+美联储维持降息预测推动亚股上涨 美元兑G-10和亚币全线走低新浪科技
+  
+美联储上调2024年GDP增长预期至2.1%财联社
+  
+现货黄金价格再创历史新高美联储政策决定维持利率不变，预计年内将降息三次和讯网
+  
+香港金管局：今年美联储可能降息3次共75个基点 高息环境或会维持一段时间中国证券网
+  
+美联储维持联邦基金利率目标区间不变 年内或有三次降息腾讯网
+  
+盘前必读丨 美联储维持利率不变；腾讯去年净利润同比增36%腾讯网
+  
+外盘头条：美联储维持利率不变 高盛首席经济学家称美国通胀仍在下行 拜登政府推出美国史上最严汽车排放标准新浪科技
+  
+美联储主席鲍威尔：通胀率已大幅下降 但仍然过高财联社]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晨壹资本官宣：阿里张勇加入，与刘晓丹共同担任管理合伙人]]></title>
+        <id>readhub-8Y84vRoOSeW</id>
+        <link href="https://readhub.cn/topic/8Y84vRoOSeW"/>
+        <updated>2024-03-21T05:05:37.000Z</updated>
+        <summary type="html"><![CDATA[原阿里巴巴集团董事会主席兼首席执行官张勇将加盟晨壹基金，与刘晓丹共同担任管理合伙人，共同探索并购基金新未来，聚焦技术发展和经济转型升级带来的产业变革和价值链重塑的巨大机遇，立足中国、放眼全球，打造面向未来并购投资的核心竞争力。
+   
+媒体报道
+  
+消息称原阿里巴巴集团董事会主席张勇加入晨壹基金和讯网
+  
+原阿里巴巴集团董事会主席兼首席执行官张勇加入晨壹基金财联社
+  
+原阿里董事会主席张勇出山：加入晨壹基金担任管理合伙人澎湃新闻
+  
+阿里前董事会主席张勇加盟晨壹基金财联社
+  
+原阿里巴巴集团董事会主席张勇加盟晨壹基金 与刘晓丹共同担任管理合伙人中国证券网
+  
+前阿里董事会主席兼CEO张勇加入晨壹基金腾讯网
+  
+晨壹资本官宣：阿里张勇加入，与刘晓丹共同担任管理合伙人新浪科技
+  
+原阿里CEO张勇将加盟晨壹基金 与刘晓丹共同担任管理合伙人腾讯网
+  
+张勇卸任阿里巴巴董事长半年后，加入晨壹基金担任管理合伙人腾讯网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对标SpaceX，天龙三号一子级九台发动机成功交付：7月份首飞]]></title>
+        <id>readhub-8Y7vHkGinEF</id>
+        <link href="https://readhub.cn/topic/8Y7vHkGinEF"/>
+        <updated>2024-03-21T04:55:51.000Z</updated>
+        <summary type="html"><![CDATA[天兵科技官方宣布，其大型液体运载火箭天龙三号的一子级使用的9台“天火十二”（TH-12）发动机已完成校准热试车并交付，为7月份的首飞发射打下坚实基础。试车结果显示发动机性能稳定，调节精度高，满足天龙三号飞行要求。天龙三号火箭采用多项新技术，性价比大幅提升，一子级具备重复使用能力。该火箭旨在为商业航天领域提供大运力，对标SpaceX猎鹰9号，预计2025年起每年可进行超过30次商业发射，为卫星互联网建设提供运力支持。
+   
+媒体报道
+  
+对标SpaceX，天龙三号一子级九台发动机成功交付：7月份首飞凤凰科技
+  
+对标 SpaceX 猎鹰 9 号，天龙三号火箭一子级九台发动机成功交付 7 月首飞中关村在线/IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国竞争监管机构对谷歌罚款 2.5 亿欧元，称其未能履行 2022 年承诺]]></title>
+        <id>readhub-8Y6mXPwT4aj</id>
+        <link href="https://readhub.cn/topic/8Y6mXPwT4aj"/>
+        <updated>2024-03-21T04:51:37.000Z</updated>
+        <summary type="html"><![CDATA[法国竞争监管机构对谷歌处以2.5亿欧元罚款，因其未遵守与新闻出版商就内容使用补偿进行真诚谈判的承诺，违反了欧盟知识产权规则。此前，谷歌已因忽视与法国新闻出版商谈判禁令被罚款5亿欧元。此外，谷歌还面临欧盟2017年反垄断罚款的上诉，欧盟法院总法律顾问认为谷歌利用市场主导地位优先展示自身服务。
+   
+媒体报道
+  
+谷歌再吃罚单，法国指其聊天机器人侵犯版权搜狐科技
+  
+法国竞争监管机构对谷歌罚款 2.5 亿欧元，称其未能履行 2022 年承诺IT 之家
+  
+法国罚款！ 谷歌2.5亿欧元罚单来了中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港股午评：恒指涨1.75% 小鹏汽车跌超6%]]></title>
+        <id>readhub-8Y7wM1yrxek</id>
+        <link href="https://readhub.cn/topic/8Y7wM1yrxek"/>
+        <updated>2024-03-21T04:31:16.000Z</updated>
+        <summary type="html"><![CDATA[港股午盘收涨，恒指涨1.75%报16832.49点，科技指数涨0.84%报3581.27点。在线旅游和互联网金融概念股领涨，环保股和富士康概念股下跌。小米集团涨超2%，美团涨4%，小鹏汽车跌超6%，优必选跌超2%，易点云跌超16%。
+   
+媒体报道
+  
+港股午评：恒指涨1.75%科指涨0.84%！遭阿里减持小鹏汽车重挫近7%，舜宇光学科技跌超11%和讯网
+  
+港股午评：恒指涨1.75% 小鹏汽车跌超6%财联社
+  
+快讯：港股恒指涨1.33% 科指涨1.64%黄金股集体高涨新浪科技
+  
+港股午评：恒指涨1.74%逼近万七关口 内房股拉升 金价新高刺激黄金股走强新浪科技
+  
+港股开盘：港股恒指涨1.33%科指涨1.64%！黄金股集体高涨，汽车股个别下挫，小鹏跌超6%和讯网
+  
+午评：恒指涨1.75% 科指涨0.84%小鹏汽车重挫近7%新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPS 快递工人被指控盗窃并转售价值超 130 万美元的苹果产品]]></title>
+        <id>readhub-8Y7trKiMNEt</id>
+        <link href="https://readhub.cn/topic/8Y7trKiMNEt"/>
+        <updated>2024-03-21T04:30:59.000Z</updated>
+        <summary type="html"><![CDATA[一名在加拿大温尼伯工作的前UPS快递主管Orville Beltrano被控自2013年以来从公司仓库盗窃了价值约130万美元的苹果设备，并通过监控摄像头进行转售。UPS在调查中发现他偷窃运往安大略省的苹果产品，并于2024年1月解雇并逮捕了他。Beltrano在被盗的设备中至少藏有866台，并在其银行账户存入了超过23.2万美元。调查人员在Beltrano的住所和车辆中找到了9000美元现金、一台Mac笔记本电脑和价值超过9000美元的珠宝。他承认了盗窃行为，并用于购买房产和车辆。Beltrano面临多项罪名，包括盗窃和拥有犯罪所得财产等。
+   
+媒体报道
+  
+加拿大快递员11年偷走866台苹果设备 价值超130万美元手机中国
+  
+UPS 快递工人被指控盗窃并转售价值超 130 万美元的苹果产品IT 之家
+  
+UPS员工偷苹果设备价值超130万美元中关村在线]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克称其脑机接口公司下一个产品将是“盲视”]]></title>
+        <id>readhub-8Y83V6LEEg5</id>
+        <link href="https://readhub.cn/topic/8Y83V6LEEg5"/>
+        <updated>2024-03-21T04:11:30.000Z</updated>
+        <summary type="html"><![CDATA[马斯克宣布其脑机接口公司Neuralink的下一个产品将是“盲视”，旨在帮助盲人恢复视觉。此前，Neuralink展示了首位脑机芯片植入者通过意念操作电脑下国际象棋和玩电子游戏。马斯克表示，即使天生失明的人，也能通过Neuralink恢复视力。
+   
+媒体报道
+  
+马斯克称其脑机接口公司下一个产品将是“盲视”财联社/和讯网
+  
+继心灵感应后，马斯克：脑机接口公司下一个产品是“盲视”！帮助盲人恢复视觉搜狐科技
+  
+马斯克称其脑机接口公司的下一个产品将是“盲视”新浪科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称尼康将推出尼克尔 28-400mm 全画幅变焦镜头]]></title>
+        <id>readhub-8Y7qz5rJYI0</id>
+        <link href="https://readhub.cn/topic/8Y7qz5rJYI0"/>
+        <updated>2024-03-21T04:01:16.000Z</updated>
+        <summary type="html"><![CDATA[尼康计划于3月26日或27日推出一款新的全画幅无反相机镜头，尼克尔Z28-400mm f/3.5-6.3，这是一款非S-Line轻巧紧凑的设计变焦镜头。目前该镜头详细规格尚不清楚，但已知它不属于S系列。尼康现有的Z24-200mm f/4-6.3 VR等变焦镜头备受好评，适用于多种拍摄需求。
+   
+媒体报道
+  
+消息称尼康将推出尼克尔 28-400mm 全画幅变焦镜头IT 之家
+  
+消息称尼康将推出尼克尔28-400mm全画幅变焦镜头凤凰科技/中关村在线]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘信息暗示苹果最快 4 月在澳大利亚和日本发售 Vision Pro 头显]]></title>
+        <id>readhub-8Y83rSlVtFm</id>
+        <link href="https://readhub.cn/topic/8Y83rSlVtFm"/>
+        <updated>2024-03-21T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司在澳大利亚和日本招募“简报体验专员”，暗示将在4/5月发售Vision Pro头显，并计划添加12种新语言至Vision Pro的虚拟键盘。分析师郭明錤预测，苹果将在6月全球开发者大会前将Vision Pro扩展至更多市场。
+   
+媒体报道
+  
+招聘信息暗示苹果最快4月在澳大利亚和日本发售 Vision Pro 头显搜狐科技
+  
+招聘信息暗示苹果最快 4 月在澳大利亚和日本发售 Vision Pro 头显IT 之家
+  
+苹果中国招聘Vision Pro销售和硬件系统工程师，国内即将上市VR陀螺]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米米家新品眼镜官宣 3 月 25 日发布，有望支持音频功能]]></title>
+        <id>readhub-8Y7zZ8iy2Cd</id>
+        <link href="https://readhub.cn/topic/8Y7zZ8iy2Cd"/>
+        <updated>2024-03-21T04:00:48.000Z</updated>
+        <summary type="html"><![CDATA[小米智能生态宣布将于3月25日推出新款米家眼镜产品，预计支持音频功能。去年4月，小米推出的米家智能音频眼镜已支持通话降噪，并提供多种款式。新款眼镜或将在功能和设计上有所升级。
+   
+媒体报道
+  
+小米推出新一代智能眼镜：有望支持音频功能，本月发布！腾讯网/搜狐科技
+  
+小米米家新品眼镜官宣 3 月 25 日发布，有望支持音频功能搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米公关部总经理否认SU7存在优先购买渠道]]></title>
+        <id>readhub-8Y7rGi4MszK</id>
+        <link href="https://readhub.cn/topic/8Y7rGi4MszK"/>
+        <updated>2024-03-21T03:53:31.000Z</updated>
+        <summary type="html"><![CDATA[小米公关部总经理王化表示，小米汽车SU7将发放1000个F码的消息不实，目前没有F码或类似优先购买的渠道。
+   
+媒体报道
+  
+小米公关部总经理否认SU7存在优先购买渠道i黑马/速途网
+  
+又搞F码?又要抢购?小米SU7可真火搜狐科技]]></summary>
+        <author>
+            <name>速途网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 月份微软 Xbox 平台游戏总时长创历史新高，《幻兽帕鲁》功不可没]]></title>
+        <id>readhub-8Y6uNvkp10E</id>
+        <link href="https://readhub.cn/topic/8Y6uNvkp10E"/>
+        <updated>2024-03-21T03:37:08.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布Xbox平台游戏总时长在1月份创下历史新高，其中独立游戏《幻兽帕鲁》起到关键作用。这款游戏上线不到两个月玩家数就超过1000万，其独特的生物收集养成和射击玩法吸引了大量玩家。目前《幻兽帕鲁》仅限于Xbox和Windows设备，但开发商考虑未来将其推向更多平台。微软也将《幻兽帕鲁》视为游戏业务战略的重要部分，举办相关活动并推出主题手柄。此外，Xbox正在与独立开发者合作，全球有超过3500款游戏正在开发中。
+   
+媒体报道
+  
+《幻兽帕鲁》拯救微软 Xbox游戏时长创历史纪录中关村在线
+  
+1 月份微软 Xbox 平台游戏总时长创历史新高，《幻兽帕鲁》功不可没IT 之家
+  
+微软称《幻兽帕鲁》助力Xbox游戏时长创历史新高中关村在线]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开盘：美股周三开盘涨跌不一 市场关注美联储会议结果]]></title>
+        <id>readhub-8Y6ObVdieLo</id>
+        <link href="https://readhub.cn/topic/8Y6ObVdieLo"/>
+        <updated>2024-03-21T03:10:47.000Z</updated>
+        <summary type="html"><![CDATA[美联储会议决定维持利率不变，市场关注政策走向和点阵图。英伟达推出新一代AI芯片，受到市场关注。亚马逊云科技将支持NVIDIA Blackwell GPU平台。特斯拉Model Y售价上调，同时多项优惠政策即将到期。苹果CEO库克访问中国，与多家供应商接洽。微软组建新团队专注于推进消费AI产品。谷歌再次被罚款，涉及新闻费用争议。英特尔获得美国政府资助用于半导体工厂扩建。墨式烧烤宣布拆股计划。拼多多发布财报，营收和净利润大幅增长。波音公司加强质量管理，控制737型飞机产量。瑞安航空讨论飞机交付和监督问题。
+   
+媒体报道
+  
+美联储声明全文：美联储重申等待对通胀的信心增强再降息新浪科技
+  
+美联储拟于北京时间本周四凌晨2:00公布最新利率决议与季度展望报告Odaily
+  
+美联储如期按兵不动，重申对通胀回到2%更有信心后再降息（声明全文）澎湃新闻
+  
+美联储主席鲍威尔：1-2月的数据并未提振对通胀的信心财联社
+  
+隔夜要闻：美联储预计今年降息三次 鲍威尔暗示放慢缩表之日已不远 美国司法部将对苹果提起反垄断诉讼新浪科技
+  
+香港金管局回应美联储议息决定：港元拆息在往后一段日子可能仍会处于较高水平新浪科技
+  
+美联储利率决议及鲍威尔货币政策新闻发布会要点汇总：维持利率决议不变 上调今年GDP增速预期财联社
+  
+美联储年内究竟降息几次？“华尔街最大谜团”今晚将水落石出！新浪科技
+  
+开盘：美股周三开盘涨跌不一 市场关注美联储会议结果新浪科技
+  
+美联储决议全文和近两次声明对比新浪科技
+  
+今晚美联储会议重点是“聆听信号”：点阵图、6月降息概率、经济预期新浪科技
+  
+美联储议息声明对比：决策层罕见说了和两个月前几乎一模一样的话新浪科技
+  
+午盘：联储会议结果即将公布 美股基本持平新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴克莱据悉准备在投资银行部门裁员数百人]]></title>
+        <id>readhub-8Y7VCD1kAFR</id>
+        <link href="https://readhub.cn/topic/8Y7VCD1kAFR"/>
+        <updated>2024-03-21T03:04:26.000Z</updated>
+        <summary type="html"><![CDATA[巴克莱银行计划在未来几个月内对其全球市场部、研究部门和投资银行部门进行裁员，预计裁员数百人，以降低成本和提升利润。此次裁员是该行年度绩效评估的一部分，旨在优化人才结构，加大对高绩效人才的投入，并更好地服务客户。
+   
+媒体报道
+  
+消息称巴克莱拟在投行部门裁员数百人新浪科技
+  
+巴克莱据悉准备在投资银行部门裁员数百人新浪科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit 美国 IPO 价格定在区间高端，筹资 7.48 亿美元]]></title>
+        <id>readhub-8Y7jTnWwjqF</id>
+        <link href="https://readhub.cn/topic/8Y7jTnWwjqF"/>
+        <updated>2024-03-21T03:03:25.000Z</updated>
+        <summary type="html"><![CDATA[社交媒体公司Reddit在3月20日以最高价每股31美元至34美元进行IPO，募集资金7.48亿美元。Reddit及其现有股东以每股34美元的价格出售了2200万股股票，使Reddit的估值达到约64亿美元。
+   
+媒体报道
+  
+社交媒体公司Reddit美国IPO价格定在区间高端 筹资7.48亿美元新浪科技
+  
+“美版贴吧”Reddit IPO定价34美元/股 今晚登陆纽交所新浪科技
+  
+社交媒体公司Reddit美国IPO价格定在区间高端，筹资7.48亿美元速途网]]></summary>
+        <author>
+            <name>速途网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家发改委：最大程度鼓励民营企业参与基础设施等项目建设和运营]]></title>
+        <id>readhub-8Y824kOpKYD</id>
+        <link href="https://readhub.cn/topic/8Y824kOpKYD"/>
+        <updated>2024-03-21T03:02:27.000Z</updated>
+        <summary type="html"><![CDATA[国家发改委副主任刘苏社指出，今年1-2月我国民间投资增速已由负转正，展现出良好的发展势头。为保持此增长态势，下一步将采取更大力度和实举措，包括完善制度环境，研究起草民营经济促进法，为民营经济提供法治保障。拓宽投资空间，推动落实政府和社会资本合作新机制，鼓励民营企业参与基础设施等项目。强化要素保障，优化民间投资项目的融资和用地等条件。同时，加强评估民间投资促进工作，调动地方政府鼓励民间投资的积极性。
+   
+媒体报道
+  
+国家发改委：聚焦科技创新、城乡融合发展等重点领域 组织开展项目谋划储备、前期工作和建设实施新浪科技
+  
+国家发改委：最大程度鼓励民营企业参与基础设施等项目建设和运营财联社/新浪科技
+  
+国家发改委刘苏社：将坚持在发展中保障和改善民生 不断健全公共服务体系财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星电子：半导体业务2027年将重返世界第一的宝座]]></title>
+        <id>readhub-8Y6sFNnMJE1</id>
+        <link href="https://readhub.cn/topic/8Y6sFNnMJE1"/>
+        <updated>2024-03-21T03:01:04.000Z</updated>
+        <summary type="html"><![CDATA[三星电子在股东大会上宣布，目标是在2027年重新夺回半导体业务世界第一的宝座。尽管在HBM领域未能超越SK海力士，但三星预计今年半导体销售额将超过2022年，存储半导体业务将重获竞争优势。此外，三星在半导体合同制造和成品业务方面也建立了稳固的结构。公司将在现有业务竞争力、AI技术应用、客户体验和ESG等方面持续创新，以发现新产品、新业务和新商业模式。
+   
+媒体报道
+  
+三星电子：半导体业务2027年将重返世界第一的宝座中关村在线/手机中国/凤凰科技]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI奥特曼：希望三星和海力士代工AI芯片 GPT-5将有飞跃式提升]]></title>
+        <id>readhub-8Y6b7i2mnbs</id>
+        <link href="https://readhub.cn/topic/8Y6b7i2mnbs"/>
+        <updated>2024-03-21T02:36:14.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI CEO山姆·奥特曼表示将不惜一切代价构建AGI，并希望三星电子和SK海力士能制造AI芯片。他还透露，预计GPT-5会有巨大提升。
+   
+媒体报道
+  
+OpenAI奥特曼：希望三星和海力士代工AI芯片，GPT-5将有飞跃式提升澎湃新闻/搜狐科技/i黑马
+  
+OpenAI奥特曼：希望三星和海力士代工AI芯片 GPT-5将有飞跃式提升财联社
+  
+奥特曼希望三星和海力士代工AI芯片 GPT-5有飞跃式提升手机中国/搜狐科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米牵头华为、腾讯、OPPO、荣耀联合申请制定单层 HDR 图像格式标准]]></title>
+        <id>readhub-8Y7y7pPYx2M</id>
+        <link href="https://readhub.cn/topic/8Y7y7pPYx2M"/>
+        <updated>2024-03-21T02:21:14.000Z</updated>
+        <summary type="html"><![CDATA[世界超高清视频产业联盟批准立项《高动态范围（HDR）静态图像》第2部分团体标准，由小米、华为、腾讯等企业联合申请。该标准将规定单层HDR图像的分发格式，具有拍摄、编辑、存储和传输优势，并可单独抹去隐私信息。标准适用范围涵盖制作、编辑、传输、渲染和显示。
+   
+媒体报道
+  
+小米牵头华为、腾讯、OPPO、荣耀申请制定单层 HDR 图像格式标准搜狐科技
+  
+UWA联盟批准单层HDR图像格式新标准立项，小米华为等多家企业共同申请ITBear科技资讯
+  
+小米牵头华为、腾讯、OPPO、荣耀联合申请制定单层 HDR 图像格式标准IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 发布 24.3.1 图形驱动，新增支持《龙之信条 2》等游戏]]></title>
+        <id>readhub-8Y7vzxkKcr4</id>
+        <link href="https://readhub.cn/topic/8Y7vzxkKcr4"/>
+        <updated>2024-03-21T02:18:44.000Z</updated>
+        <summary type="html"><![CDATA[AMD发布了最新的24.3.1显卡驱动，新增了对《龙之信条2》、《地平线：西之绝境》和《重装前哨》的支持，但官方并未透露具体优化效果。此外，驱动更新还加入了HYPR-Tune功能，支持更多游戏，包括《暗黑破坏神4》、《幽灵行者2》和《自杀小队：杀死正义联盟》。驱动下载链接已提供。
+   
+媒体报道
+  
+AMD 发布 24.3.1 图形驱动，新增支持《龙之信条 2》等游戏新浪科技/搜狐科技/IT 之家
+  
+《龙之信条 2》等游戏可获得官方直补 AMD发布最新24.3.1驱动中关村在线]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星新专利获批：展示智能眼镜及其配套充电盒]]></title>
+        <id>readhub-8Y7lyv4UFyq</id>
+        <link href="https://readhub.cn/topic/8Y7lyv4UFyq"/>
+        <updated>2024-03-21T02:18:44.000Z</updated>
+        <summary type="html"><![CDATA[三星公司获得了一项智能眼镜及配套充电盒的专利，专利文件中包含了智能眼镜的设计图、内部元件图以及智能充电盒的正面图。
+   
+媒体报道
+  
+三星新专利获批：展示智能眼镜及其配套充电盒新浪科技/搜狐科技/IT 之家
+  
+三星智能眼镜和充电盒专利图曝光：将支持语音通信、视频通话等中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星计划 2027 年推出 UFS 5.0，顺序读取速度提升至 10GB/s以上]]></title>
+        <id>readhub-8Y7o7s43axy</id>
+        <link href="https://readhub.cn/topic/8Y7o7s43axy"/>
+        <updated>2024-03-21T02:05:40.000Z</updated>
+        <summary type="html"><![CDATA[三星半导体发布新品路线图，展示了UFS 4.0和UFS 5.0存储技术的发展计划。为了满足端侧人工智能，特别是大语言模型的需求，三星正在研发更高速度的UFS接口。新品将采用UFS 4.0技术，并将通道数量翻倍至4路，预计2025年量产，顺序读取速度可达到8GB/s。此外，三星还计划在2027年推出顺序读取速度超过10GB/s的UFS 5.0产品。为实现这一目标，三星将与移动客户和应用程序处理器公司合作，共同开发新技术，并准备新标准。
+   
+媒体报道
+  
+三星半导体公布新品路线图：UFS 4.0进阶与UFS 5.0展望ITBear科技资讯
+  
+三星计划 2027 年推出 UFS 5.0，顺序读取速度提升至 10GB/s以上新浪科技/搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[低空经济概念反复活跃 永悦科技7连板]]></title>
+        <id>readhub-8Y6Ho1qFQ8V</id>
+        <link href="https://readhub.cn/topic/8Y6Ho1qFQ8V"/>
+        <updated>2024-03-21T02:01:00.000Z</updated>
+        <summary type="html"><![CDATA[低空经济概念活跃，永悦科技连续七个交易日涨停，咸亨国际涨停，多股跟涨。民航局召开通用航空工作领导小组会议，强调探索低空经济发展规律，提升推动能力。美股亿航智能股价隔夜收涨超15%。
+   
+媒体报道
+  
+低空经济概念走强 永悦科技等大涨新浪科技
+  
+低空经济板块持续活跃，永悦科技7连板，机构建议关注这些环节腾讯网/新浪科技
+  
+低空经济迎热潮，无惧多重利空，永悦科技连收七涨停钛媒体
+  
+低空经济概念反复活跃 永悦科技7连板财联社
+  
+低空经济概念探底回升 永悦科技8连板财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国 Mac 用户画像：iPhone “引流”效果明显]]></title>
+        <id>readhub-8Y7pY1krvF5</id>
+        <link href="https://readhub.cn/topic/8Y7pY1krvF5"/>
+        <updated>2024-03-21T01:49:34.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司的iPhone对Mac用户增长贡献显著，根据CIRP的数据，2023年美国市场中转用Mac的用户中，80%已拥有至少一款iPhone或iPad。尽管iPhone在美国市场的吸金能力早已得到认可，但苹果不再公布相关数据，因此具体变化不详。对于从Windows或Chromebook转向Mac的用户，可能会经历适应和学习期。随着macOS和iOS的进一步整合，苹果通过优化核心功能使得新Mac的使用体验更接近iOS环境，以增强其生态系统的影响力。
+   
+媒体报道
+  
+美国 Mac 用户画像：iPhone “引流”效果明显搜狐科技
+  
+美国 Mac 用户画像：iPhone “引流”效果明显，80% 转投新用户持有苹果手机IT 之家/新浪科技
+  
+美国Mac用户画像：iPhone “引流”效果明显，80% 转投新用户持有苹果手机中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊放出两分钟《辐射》真人电视剧正片片段]]></title>
+        <id>readhub-8Y6LIjuKdtd</id>
+        <link href="https://readhub.cn/topic/8Y6LIjuKdtd"/>
+        <updated>2024-03-21T01:49:06.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊Prime Video发布了《辐射》真人剧的片段，展示了女主Lucy与赏金猎人尸鬼的冲突，以及钢铁兄弟会的Maximus介入调停的情景。该剧由《西部世界》主创乔纳森·诺兰和丽莎·乔伊夫妻执导，将在4月11日上线Amazon流媒体。
+   
+媒体报道
+  
+视频片段发布！《辐射》真人剧暴力刺激场面中关村在线
+  
+亚马逊《辐射》真人剧曝光！粉丝狂喜中关村在线
+  
+亚马逊放出两分钟《辐射》真人电视剧正片片段IT 之家]]></summary>
+        <author>
+            <name>IT 之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金山软件：2023年实现归母净利4.84亿元 拟派末期息每股0.14港元]]></title>
+        <id>readhub-8Y6f4FNfOtv</id>
+        <link href="https://readhub.cn/topic/8Y6f4FNfOtv"/>
+        <updated>2024-03-21T00:31:03.000Z</updated>
+        <summary type="html"><![CDATA[金山软件（03888.HK）发布2023年度公告，收益达85.34亿元，同比增长12%，办公软件及服务与网络游戏及其他业务各占收益总额的53%和47%。毛利为70.30亿元，同比增长14%，毛利率为82%。母公司拥有人应占溢利为4.84亿元，去年同期亏损60.50亿元。董事会建议派发末期股息每股0.14港元。董事长雷军表示，尽管面临挑战，公司业绩稳健增长，将持续投入AI和协作领域研发，增强产品竞争力，并坚守打造精品游戏初心。
+   
+媒体报道
+  
+金山软件：金山办公2023年归母净利约13.18亿元 同比增长17.92%新浪科技
+  
+金山软件 2023 年营收 85.3 亿元，同比增长 12%牛透社
+  
+港股异动 | 金山软件(03888)午后涨超5% 金山办公或受惠国产替代 市场份额有望提升新浪科技
+  
+金山软件2023年营收85.3亿元增长12%，净利润4.835亿元扭亏为盈凤凰科技
+  
+金山软件：2023年实现归母净利4.84亿元 拟派末期息每股0.14港元新浪科技
+  
+金山软件 2023 年营收 85.3 亿元增长 12%，净利润 4.835 亿元扭亏为盈IT 之家
+  
+金山软件 2023 年营收 85.3 亿元增长 12%，净利润 4.835 亿元DoNews]]></summary>
+        <author>
+            <name>牛透社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉：得州超级工厂电池产量已可支持每周生产 1000 辆 Cybertruck]]></title>
+        <id>readhub-8Y7A7gajDDu</id>
+        <link href="https://readhub.cn/topic/8Y7A7gajDDu"/>
+        <updated>2024-03-21T00:22:31.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉宣布得克萨斯州超级工厂Gigafactory Texas的电池产量已可支持每周生产1000辆Cybertruck电动皮卡。此前，特斯拉对此工厂电池产能提升计划保持神秘。现在，工厂已从生产Model Y的4680电池转向生产Cybertruck专用电池。特斯拉表示电池产能不是Cybertruck量产的瓶颈，并且有数周的电池库存。在奥斯汀工厂外可看到数百辆待交付的Cybertruck，显示产能正在增加。Cybertruck电池组容量约为123 kWh，意味着特斯拉上周电池产量超过123 MWh，全年产量超6 GWh。特斯拉在提升4680电池产能方面遇到问题，且未完全达到最初宣称的电池性能指标。近日有报道称特斯拉聘请了一位半导体制造专家协助Gigafactory Texas的电池生产。
+   
+媒体报道
+  
+特斯拉创意披露4680电池近况：1周产能够生产1000辆Cybertruck新浪科技
+  
+特斯拉：得州超级工厂4680电池周产量可装备超1000辆Cybertruck财联社/新浪科技/速途网
+  
+特斯拉：得州超级工厂电池产量已可支持每周生产 1000 辆 Cybertruck新浪科技/IT 之家]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海推出“家庭万兆云宽带”试点 加快新型数字应用入户]]></title>
+        <id>readhub-8Y6xyqvBN57</id>
+        <link href="https://readhub.cn/topic/8Y6xyqvBN57"/>
+        <updated>2024-03-21T00:11:16.000Z</updated>
+        <summary type="html"><![CDATA[上海杨浦区推出“家庭万兆云宽带”试点，加快新型数字应用入户。万兆云宽带可满足超高清3D视频直播网络传输需求，提升数字生活体验，如备份超大视频约十倍快。试点将给云上数字空间带来新体验，如AI看护、智能门禁等。上海计划到2026年建成全球双万兆城市，并推动“万兆速度”逐步普及。
+   
+媒体报道
+  
+迈入万兆时代！上海电信发布全球首个万兆云宽带示范小区腾讯网
+  
+上海万兆小区来了！快来看这些智慧应用搜狐科技
+  
+上海推出“家庭万兆云宽带”试点 加快新型数字应用入户搜狐科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克脑机接口实验新进展：患者能用意念下棋]]></title>
         <id>readhub-8Y7jq59TAxx</id>
@@ -2964,256 +3560,6 @@ SK海力士开始量产HBM3E 本月下旬起向客户供货财联社]]></summary
 消息称苹果 4 月将推 OLED iPad Pro 以及新款 iPad Air搜狐科技/IT 之家
   
 苹果四月大动作：OLED iPad Pro与LCD iPad Air或齐发搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[药明康德：2023年净利润同比增长9% 拟10派9.83元]]></title>
-        <id>readhub-8Y3kw6awJUd</id>
-        <link href="https://readhub.cn/topic/8Y3kw6awJUd"/>
-        <updated>2024-03-18T15:10:52.000Z</updated>
-        <summary type="html"><![CDATA[药明康德公布2023年年报，显示营业收入403.41亿元，同比增长2.51%，净利润96.07亿元，同比增长9%。公司计划每10股派发现金红利9.8336元。尽管外部环境不确定，公司预测2024年收入将达383-405亿元，剔除特定项目后保持正增长，增长率预计为2.7-8.6%。
-   
-媒体报道
-  
-药明康德：去年净利同比增9% 预计今年收入至少383亿元腾讯网
-  
-财报解读｜药明康德去年净利润同比增长9%，今年业绩能否维持？腾讯网
-  
-新增客户超千家 药明康德(603259.SH)2023年度净利润同比增长9%至96.07亿元 拟每10股派9.8336元新浪科技
-  
-药明康德(02359)：开展外汇套期保值业务新浪科技
-  
-药明康德：公司预计2024年收入达到人民新浪科技
-  
-药明康德：2023年净利润同比增长9% 拟10派9.83元中国证券网/新浪科技
-  
-药明康德去年净利增长9%：营收首超400亿元，预计今年至少383亿澎湃新闻
-  
-上市以来增速最慢  药明康德披露2024年年报|财报速递和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称福特正在开发紧凑型电动车：售 2.5 万美元，采用磷酸铁锂电池]]></title>
-        <id>readhub-8Y3c0GEnZSL</id>
-        <link href="https://readhub.cn/topic/8Y3c0GEnZSL"/>
-        <updated>2024-03-18T15:03:41.000Z</updated>
-        <summary type="html"><![CDATA[福特和通用汽车因需求减缓、价格高企及软硬件问题削减了电动汽车产量。福特应对措施是转产小型低成本电动汽车，推迟大型电动SUV计划，并在加州组建专业团队开发新电动平台。首款纯电动紧凑型预计2026年底上市，售价约2.5万美元，与特斯拉低成本电动汽车预期售价相近。新车将采用成本较低的磷酸铁锂电池。此策略背景是福特电动汽车部门Model e 2023年亏损高达47亿美元。
-   
-媒体报道
-  
-消息称福特正在开发紧凑型电动车：售2.5万美元，采用磷酸铁锂电池凤凰科技
-  
-消息称福特正在开发紧凑型电动车：售 2.5 万美元，采用磷酸铁锂电池中关村在线/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阅文集团公布2023年财报：营收达70.1亿 净利润8亿]]></title>
-        <id>readhub-8Y3S15BN7YO</id>
-        <link href="https://readhub.cn/topic/8Y3S15BN7YO"/>
-        <updated>2024-03-18T14:45:19.000Z</updated>
-        <summary type="html"><![CDATA[阅文集团公布2023年全年业绩，实现营收70.1亿元，净利润8.0亿元，同比增长32.3%。集团持续优化在线业务，起点读书收入同比增长40%，新增作家38万名，新增作品67万本。阅文致力于构建IP全生命周期开发体系，并通过收购腾讯动漫资产增强IP储备。此外，阅文积极探索新兴内容形态，并取得显著的版权运营收入增长。
-   
-媒体报道
-  
-阅文集团2023年营收达70.1亿元 归母净利8亿元同比增长32.3%新浪科技
-  
-阅文集团2023年收入下滑8% 今年将迎来IP业务大产品周期新浪科技
-  
-阅文集团2023年营收入达70.1亿  归母净利8亿同比增长32.3%环球网科技
-  
-阅文集团2023年营收达70.1亿 ，归母净利8亿同比增长32.3%速途网/猎云网/投资圈/亿欧
-  
-阅文集团发布2023年财报：总营收微降 净利润同比增加超三成新浪科技
-  
-阅文去年归母净利增长32%，展望2024为“爆款之年”腾讯网
-  
-阅文集团2023年净利润增3成 CEO称以AI赋能创作者和讯网
-  
-阅文集团23年净利润增3成 CEO称以AI赋能创作者新浪科技
-  
-阅文净利增超三成，《热辣滚烫》《庆余年2》开启爆款年腾讯网
-  
-阅文2023年营收70.1亿 ：归母净利8亿 同比增长32%腾讯网
-  
-阅文2023年营收70亿元 净利润增长32%至8亿元中国证券网/DoNews
-  
-阅文集团公布2023年财报：营收达70.1亿  净利润8亿网易科技
-  
-阅文集团：2023年权益持有人应占盈利约8.05亿元 同比增32.3%财联社]]></summary>
-        <author>
-            <name>亿欧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盒马：CEO侯毅正式退休]]></title>
-        <id>readhub-8Y3S1AVmCxX</id>
-        <link href="https://readhub.cn/topic/8Y3S1AVmCxX"/>
-        <updated>2024-03-18T14:41:42.000Z</updated>
-        <summary type="html"><![CDATA[盒马相关人士确认，盒马CEO侯毅（花名：老菜）因年满60岁正式退休，未来将担任盒马首席荣誉顾问。据了解，这项任命是以盒马全员信的方式宣布的，现任盒马CFO的严筱磊（花名：百何）将兼任CEO。在信中，阿里集团对侯毅为盒马起步和发展作出的贡献给予高度评价。
-   
-媒体报道
-  
-盒马CEO侯毅宣布退休，阿里梳理线下零售业务凤凰科技
-  
-盒马换帅：CEO侯毅退休新浪科技
-  
-盒马创始人兼CEO侯毅退休，接近盒马人士：“他值得好评”腾讯网
-  
-独家：盒马CEO侯毅正式退休腾讯网
-  
-盒马：CEO侯毅正式退休 CFO严筱磊接任环球网科技/腾讯网
-  
-盒马：CEO侯毅因年满60岁正式退休，担任盒马首席荣誉顾问！CFO严筱磊接任和讯网
-  
-晚点独家丨盒马 CEO 侯毅宣布退休，阿里梳理线下零售业务网易科技
-  
-盒马收购传闻四起之际，CEO突然宣布退休i黑马
-  
-盒马：CEO侯毅正式退休新浪科技
-  
-侯毅正式卸任盒马CEO，严筱磊接任新浪科技/速途网
-  
-盒马CEO侯毅正式退休 现任CFO严筱磊（花名：百何）将兼任CEO和讯网
-  
-盒马创始人侯毅卸任，CFO严筱磊接任CEO腾讯网
-  
-刚否认出售传闻，盒马CEO侯毅宣布正式退休，CFO接棒澎湃新闻
-  
-盒马创始人兼CEO侯毅，在自己的本命年退休雷锋网
-  
-侯毅退休，盒马大变凤凰科技
-  
-盒马CEO侯毅正式退休 CFO严筱磊接任腾讯网
-  
-侯毅卸任盒马CEO荣誉退休 由CFO严筱磊兼任中国证券网
-  
-消息称盒马 CEO 侯毅宣布退休，阿里梳理线下零售业务DoNews
-  
-盒马创始人侯毅退休，CFO严筱磊接任亿欧
-  
-盒马前途未卜，CEO官宣退休新浪科技
-  
-消息称盒马 CEO 侯毅退休，CFO 严筱磊将兼任职务IT 之家
-  
-盒马CEO侯毅退休，CFO严筱磊接棒；AppleID将成历史，将改名Apple Account；B站2024年激励计划曝光｜大腾讯网
-  
-盒马“一号位”易主：侯毅退休，80后CFO接班猎云网
-  
-盒马CEO侯毅退休：吴泳铭阿里削藩 连续拿下多个山头腾讯网]]></summary>
-        <author>
-            <name>亿欧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河南辉县：加大购房补贴力度，试点定向开发、委托代建等形式建设商品住房]]></title>
-        <id>readhub-8Y31vzfPGH8</id>
-        <link href="https://readhub.cn/topic/8Y31vzfPGH8"/>
-        <updated>2024-03-18T14:01:04.000Z</updated>
-        <summary type="html"><![CDATA[辉县市住建局就《进一步优化政策措施促进房地产市场平稳健康发展的通知（征求意见稿）》公开征求意见，意见稿包含12条措施，主要有加大购房补贴力度，如按缴纳契税总额的30%给予补贴，对外来人才、新就业大学生等特定群体给予每平方米50-100元的优惠。支持代建团购活动，降低首付比例，首套住房商业性个人住房贷款最低首付款比例为不低于20%，二套及以上为不低于30%。提高住房公积金贷款额度，对多子女职工家庭购买首套自住房的，在本市公积金贷款最高额度基础上再提高不超过15万元的贷款额度。
-   
-媒体报道
-  
-浙江丽水莲都区：今年底前购买新建商品住宅，最高可补贴网签价50%澎湃新闻/新浪科技
-  
-成都挂牌4宗住宅用地，起始总价11.95亿元澎湃新闻
-  
-成都挂牌4宗住宅用地 起始总价11.95亿元财联社
-  
-今年全市获批新增建设用地5483亩新浪科技
-  
-河南辉县：加大购房补贴力度，试点定向开发、委托代建等形式建设商品住房澎湃新闻
-  
-杭州2024年重大建设项目出炉 总投资5895亿元中国证券网
-  
-四川绵阳规划建设1500套人才公寓新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝持续优化提升支付服务 16种语言翻译服务已开通试点]]></title>
-        <id>readhub-8Y3ZVNRpcbi</id>
-        <link href="https://readhub.cn/topic/8Y3ZVNRpcbi"/>
-        <updated>2024-03-18T13:15:55.000Z</updated>
-        <summary type="html"><![CDATA[支付宝App试点上线14种新增语言翻译服务，以便利外籍来华人员支付，并降低国内商家服务外籍人员门槛。新增语言包括法语、德语、西班牙语等，服务场景涵盖打车、订酒店到汇率查询等。此前支付宝已推出针对外籍人士的移动支付方案，并在政策和监管支持下优化服务。支付宝不仅方便了外籍用户的日常交流，还促进了中外商贸和人文交流，成为连接外国人与中国的重要桥梁。
-   
-媒体报道
-  
-支付宝持续优化提升支付服务 16种语言翻译服务已开通试点环球网科技
-  
-支付宝 App 新增 14 种语言翻译服务，法 / 德 / 日 / 韩等语种已开通试点IT 之家]]></summary>
-        <author>
-            <name>IT 之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茅台再推低度潮饮新品]]></title>
-        <id>readhub-8Y34vKhC2lP</id>
-        <link href="https://readhub.cn/topic/8Y34vKhC2lP"/>
-        <updated>2024-03-18T12:55:57.000Z</updated>
-        <summary type="html"><![CDATA[茅台集团在第110届全国糖酒会上推出了新品UMEET蓝莓气泡酒，该产品是集团响应市场年轻化、低度化、时尚化趋势的重要举措，旨在丰富产品线、优化价格带，并构建全品牌产品矩阵。茅台集团党委书记、董事长丁雄军在新品发布会上强调了该产品对集团战略布局的重要性，并亲自为其致辞。
-   
-媒体报道
-  
-茅台推出低度果味气泡酒，共五种口味，售价118元新浪科技
-  
-茅台再推低度潮饮新品财联社
-  
-茅台空瓶回收高达200元，名酒造假全产业链运作腾讯网
-  
-茅台推出果味气泡酒，共五种口味，售价为118元新浪科技]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[证监会拟决定对许家印、夏海钧采取终身证券市场禁入措施]]></title>
-        <id>readhub-8Y3imktPrkV</id>
-        <link href="https://readhub.cn/topic/8Y3imktPrkV"/>
-        <updated>2024-03-18T12:41:09.000Z</updated>
-        <summary type="html"><![CDATA[证监会对恒大地产及其实际控制人许家印等人进行严厉处罚，因其2019年和2020年年度报告存在虚假记载。恒大地产被警告并罚款1000万元，许家印作为实控人，因组织指使财务造假，被警告并罚款1000万元，同时拟被终身禁入证券市场。夏海钧等人也被警告并分别罚款，柯鹏被警告并罚款100万元，钱程被警告。
-   
-媒体报道
-  
-证监会拟决定对许家印、夏海钧采取终身证券市场禁入措施 对恒大地产处以41.75亿元罚款财联社
-  
-证监会拟决定对许家印、夏海钧采取终身证券市场禁入措施澎湃新闻/新浪科技
-  
-证监会：拟决定对许家印、夏海钧采取终身证券市场禁入措施腾讯网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀CEO赵明现场发布MagicBook Pro 16，称其为AI PC的解决方案]]></title>
-        <id>readhub-8Y3gItccfJL</id>
-        <link href="https://readhub.cn/topic/8Y3gItccfJL"/>
-        <updated>2024-03-18T12:35:46.000Z</updated>
-        <summary type="html"><![CDATA[荣耀CEO赵明在春季旗舰新品发布会上推出了新款轻薄游戏本MagicBook Pro 16，具有云霓色和凝夜色两款配色。这款产品搭载了140W电竞级性能和英特尔酷睿Ultra 7 155H处理器，支持NVIDIA GeForce RTX 4060显卡，并在全新立体散热系统下散热能力提升53%。荣耀MagicBook Pro 16还通过Magic Live智慧引擎实现AI智慧搜索，包括文档和图片内容的精准搜索。同时，股市正在回暖，为投资者提供了开户、智能定投等金融服务。
-   
-媒体报道
-  
-荣耀猎人游戏本 MagicBook Pro 16 正式发布搜狐科技
-  
-荣耀CEO赵明现场发布MagicBook Pro 16，称其为AI PC的解决方案新浪科技
-  
-【视频】自带“智能助理”的大屏性能本，荣耀MagicBook Pro 16体验评测IT 之家
-  
-荣耀CEO赵明现场发布MagicBook Pro 16：重量1.79kg，厚度2mm新浪科技
-  
-荣耀 MagicBook Pro 16 正式发布：荣耀猎人回归，至高 Ultra 7-155H + RTX 4060IT 之家
-  
-荣耀CEO赵明现场发布荣耀笔记本 X14/16 Plus：全系支持魔法AI工作台新浪科技
-  
-荣耀CEO赵明：荣耀要引领未来手机进入零贴膜时代新浪科技
-  
-荣耀CEO赵明现场发布新款手表、手环：手指搭在表上就能进行心电检测新浪科技]]></summary>
         <author>
             <name>搜狐科技</name>
         </author>
