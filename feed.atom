@@ -2,10 +2,590 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-03-28T00:33:18.434Z</updated>
+    <updated>2024-03-28T06:09:54.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特斯拉正在开发“私有5G”基础设施 为电动汽车和人形机器人提供连接]]></title>
+        <id>readhub-8YJqBS4V3Kg</id>
+        <link href="https://readhub.cn/topic/8YJqBS4V3Kg"/>
+        <updated>2024-03-28T06:01:59.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉正在开发自己的“私有5G”网络基础设施，以支持其电动汽车和即将推出的人形机器人Optimus的通信连接需求。这一信息来源于特斯拉IT制造解决方案工程首席工程师Pat Ruelke发布的招聘信息。
+   
+媒体报道
+  
+特斯拉正在开发“私有5G”基础设施 为电动汽车和人形机器人提供连接和讯网/搜狐科技/财联社
+  
+特斯拉拟打造“私有 5G”服务：确保延迟更低、网速更快，为电动汽车及人形机器人提供支持IT 之家]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车Mind GPT大模型率先通过国家备案，引领车载AI新篇章]]></title>
+        <id>readhub-8YJngojXIG7</id>
+        <link href="https://readhub.cn/topic/8YJngojXIG7"/>
+        <updated>2024-03-28T05:56:03.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车宣布其全自研的多模态认知大模型MindGPT成功备案，成为汽车领域首家获得此殊荣的厂商。MindGPT是为汽车智能座舱环境专门优化和落地的，使用了规模达3万亿Token的大数据集训练。该模型具有无需指令词即能服务用户的独特性，并围绕车载应用场景构建。MindGPT还进化了理想同学功能，支持方言自由说、指令自由说等，并具备全时全车免唤醒能力。成功备案标志着理想汽车在人工智能技术研发方面的显著成就，同时也意味着其产品和服务已通过国家严格审查和认可。
+   
+媒体报道
+  
+理想汽车多模态认知大模型Mind GPT正式上线财联社
+  
+理想汽车Mind GPT大模型率先通过国家备案，引领车载AI新篇章ITBear科技资讯
+  
+理想汽车 Mind GPT 通过国家备案，训练数据规模达 3 万亿 TokenIT 之家]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里宣布撤回菜鸟在港交所的上市申请]]></title>
+        <id>readhub-8YIae7xQiG6</id>
+        <link href="https://readhub.cn/topic/8YIae7xQiG6"/>
+        <updated>2024-03-28T05:30:41.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴旗下物流子公司菜鸟智慧物流网络有限公司宣布撤回在香港联交所的首次公开发行及上市申请。此前，菜鸟曾是阿里巴巴首个启动上市的业务集团，并在2023年9月26日向香港联交所递交了招股说明书。
+   
+媒体报道
+  
+撤回上市申请背后，菜鸟急需破局钛媒体/凤凰科技
+  
+阿里宣布撤回菜鸟在港交所的上市申请牛透社
+  
+阿里宣布收购菜鸟员工及股东股权计划，撤回上市申请腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米SU7今晚上市，全球汽车智能化加速推进]]></title>
+        <id>readhub-8YJZO1lBSjj</id>
+        <link href="https://readhub.cn/topic/8YJZO1lBSjj"/>
+        <updated>2024-03-28T04:41:24.000Z</updated>
+        <summary type="html"><![CDATA[小米SU7的发布填补了小米“人车家全生态”的空白，智能互联生态展现新增长潜力。随着汽车产业链的重视，新能源车ETF和智能车ETF受到市场关注，北向资金显著流入电力设备板块，宁德时代净流入领先。在新能源车涨幅滞后的背景下，积极因素如上游产业链价格、下游渗透率和海外数据的好转，以及小米SU7上市等事件，为行业注入了增长动力。在汽车电动化和智能化的大趋势下，国产新能源产业链展现出全球竞争力，智能化为汽车板块带来新机遇。新能源车ETF和智能车ETF分别跟踪新能源汽车和智能车产业链，聚焦行业上下游的发展机会，成分股精选，展现了明显的科技属性。
+   
+媒体报道
+  
+小米SU7今晚发布:50万内最智能轿车！销售:怕销量太好产能跟不上!多少钱你会买搜狐科技
+  
+小米SU7今晚上市，全球汽车智能化加速推进新浪科技
+  
+26.14万元！小米SU7购车发票曝光凤凰科技
+  
+小米SU7即将发布，港股科网股走强，港股互联网ETF（513770）拉升涨超2%！新浪科技
+  
+分析师：小米SU7汽车12个月出货量可超5万辆凤凰科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国人寿副总裁刘晖：预计今年股票市场表现将显著好于过去两年]]></title>
+        <id>readhub-8YJhFbSkND0</id>
+        <link href="https://readhub.cn/topic/8YJhFbSkND0"/>
+        <updated>2024-03-28T04:41:13.000Z</updated>
+        <summary type="html"><![CDATA[中国人寿2023年度业绩发布会上，副总裁刘晖指出，当前A股市场整体估值处于历史底部，预计今年股票市场表现将好于过去两年。同时，固收市场方面，今年利率持续下行，经济在修复过程中，货币市场政策保持宽松，预计今年的利率水平将维持低位。
+   
+媒体报道
+  
+中国人寿副总裁刘晖：保险资金的资产配置压力加大，坚定中国经济持续向好的信心新浪科技
+  
+中国人寿副总裁刘晖：预计今年股票市场表现将显著好于过去两年新浪科技
+  
+中国人寿副总裁：对远洋集团的投资敞口非常小，去年已完成减值澎湃新闻
+  
+中国人寿副总裁刘晖：公司不动产投资敞口较小 不动产相关股票、债券及非标产品投资占比不到1%财联社
+  
+中国人寿副总裁刘晖：预计今年股票市场表现将显著好于过去两年 今年重视高质量、高股息股票配置财联社
+  
+中国人寿副总裁刘晖：对远洋集团的投资敞口非常小，不会产生任何不利的新增影响新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比亚迪王传福：今年 5 月推出第五代 DMI 混动技术，百公里馈电油耗 2.9 升]]></title>
+        <id>readhub-8YISQeRf6An</id>
+        <link href="https://readhub.cn/topic/8YISQeRf6An"/>
+        <updated>2024-03-28T04:31:33.000Z</updated>
+        <summary type="html"><![CDATA[比亚迪在2023年财报投资人沟通会上宣布，将于5月推出第五代DMI混动技术，具有低至2.9升/百公里的馈电油耗和2000公里的满油满电续航能力。王传福表示，因车型供不应求，将逐步切换至第五代DMI车型，预计产品热度可延续1至2年。他还预测，新能源行业进入淘汰赛阶段，2024至2026年将是规模、成本和技术的关键决战时刻，中国品牌有望获得30%的市场增长空间。在全球化战略上，比亚迪计划海外销量在未来三年实现倍增，去年为24万辆，今年目标50万辆。此外，比亚迪通过推出荣耀版车型参与价格战，预计3月份销量将超过30万辆，市场占有率分别为16%和35%，秦PLUS面临产能瓶颈，计划4至5月增加产能，2024年销量预期将增长至少20%。
+   
+媒体报道
+  
+比亚迪王传福：第五代DMI百公里馈电油耗2.9升，今年目标海外销量为50万辆速途网
+  
+王传福：比亚迪5月推出第五代DM-i混动、续航2000公里凤凰科技
+  
+比亚迪王传福：今年 5 月推出第五代 DMI 混动技术，百公里馈电油耗 2.9 升IT 之家]]></summary>
+        <author>
+            <name>速途网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西门子否认“彻底撤离中国”：未来仍将继续坚定在中国发展]]></title>
+        <id>readhub-8YJcajs9bSd</id>
+        <link href="https://readhub.cn/topic/8YJcajs9bSd"/>
+        <updated>2024-03-28T04:27:06.000Z</updated>
+        <summary type="html"><![CDATA[近日有关西门子将撤离中国的消息被证实为不实。西门子公司明确表示，中国是其全球最重要的市场之一，公司并未计划退出中国市场，并将继续在中国发展。西门子在中国拥有大量员工和投资，涉及研发、技术创新等多个领域，并致力于推动中国高端医疗器械产业升级，实现产品全系列国产化。
+   
+媒体报道
+  
+西门子否认“彻底撤离中国”：未来仍将继续坚定在中国发展IT 之家
+  
+澄清！西门子：从未发布过任何退出中国市场的信息中关村在线
+  
+西门子辟谣彻底撤离中国：未来仍将继续坚定在中国发展凤凰科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连连数字正式登陆港交所 成跨境支付第一股]]></title>
+        <id>readhub-8YJgOAjySiS</id>
+        <link href="https://readhub.cn/topic/8YJgOAjySiS"/>
+        <updated>2024-03-28T04:16:12.000Z</updated>
+        <summary type="html"><![CDATA[连连数字（2598.HK）在香港交易所主板成功挂牌上市，标志着该公司步入国际资本市场，向世界级目标迈进。连连数字是中国率先在全球提供广泛支付解决方案的数字科技公司之一，拥有全球业务布局和牌照覆盖范围最广的记录，并在美国所有州持有货币转移牌照。以2022年的总支付额计，连连数字是中国最大的独立数字支付解决方案提供商，市场份额达9.1%。连连数字的收入和毛利在2020年至2023年间持续增长，显示出公司良好的发展态势。
+   
+媒体报道
+  
+连连数字正式登陆港交所   成跨境支付第一股亿邦动力网
+  
+12点聊电商：连连数字正式登陆港交所   成跨境支付第一股亿邦动力网
+  
+中国首家全球数字支付服务商登陆港股   连连数字加码全球业务布局21经济网
+  
+数字支付解决方案提供商连连数字登陆港交所 上市破发DoNews
+  
+跨境支付第一股正式亮相 连连数字登陆港交所中国证券网]]></summary>
+        <author>
+            <name>21经济网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为在部分地区推出Watch GT 4春季版 提供5款新配色]]></title>
+        <id>readhub-8YJaULLa1ej</id>
+        <link href="https://readhub.cn/topic/8YJaULLa1ej"/>
+        <updated>2024-03-28T04:11:36.000Z</updated>
+        <summary type="html"><![CDATA[华为推出了Watch GT 4春季版，提供5款新配色，目前在全球特定地区发售。新版本有五种优雅柔和的表带颜色可选，包括黑色+深海蓝、黑色+云杉绿、白色+冰川粉、白色+薄荷绿和白色+水晶蓝。华为Watch GT 4配备1.43/1.32英寸AMOLED显示屏，搭载HUAWEI TruSeen 5.5+体征监测技术，支持100多种运动模式，运行HarmonyOS 4.0系统，并提供30000+种精美表盘。46mm版最长使用14天，41mm版最长使用7天。目前春季版在英国和法国有售，46mm和41mm版的价格分别为200英镑和220英镑，可通过优惠券享受最高8折优惠。
+   
+媒体报道
+  
+华为在部分地区推出Watch GT 4春季版 提供5款新配色搜狐科技
+  
+传华为WATCH 4 Pro太空探索版4月上市 主要更新外观手机中国/搜狐科技]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来下调 2024 年第一季度交付预期至约 3 万辆汽车，美股盘前跌超 3%]]></title>
+        <id>readhub-8YISnOSM8tD</id>
+        <link href="https://readhub.cn/topic/8YISnOSM8tD"/>
+        <updated>2024-03-28T04:02:23.000Z</updated>
+        <summary type="html"><![CDATA[蔚来发布第一季度交付展望调整公告，预计2024年第一季度将交付约30000辆汽车，低于此前的预期。受此消息影响，蔚来美股盘前跌幅超过3%。根据蔚来的官方最新预期，3月份的交付量预计为11813辆。2023年全年，蔚来总营收达到556.2亿元，创历史新高，但净亏损为207.198亿元，同比增亏43.5%。
+   
+媒体报道
+  
+蔚来调整2024年第一季度最新交付展望财联社
+  
+蔚来下调一季度交付预期至3万辆 此前预计为31000至33000辆新浪科技
+  
+蔚来下调 2024 年第一季度交付预期至约 3 万辆汽车，美股盘前跌超 3%IT 之家
+  
+蔚来下调交付预期i黑马]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部等9部门：加快制定完善预制菜相关标准]]></title>
+        <id>readhub-8YJifwAnBK9</id>
+        <link href="https://readhub.cn/topic/8YJifwAnBK9"/>
+        <updated>2024-03-28T04:01:15.000Z</updated>
+        <summary type="html"><![CDATA[商务部联合其他九部门发布指导意见，旨在推动餐饮业高质量发展。其中强调了规范预制菜产业的发展，包括加快完善预制菜相关标准，加强食品安全监管，并开展风险监测与评估。此外，还将引导建立技术开发平台，以提升预制菜品质。
+   
+媒体报道
+  
+商务部等9部门：加快中餐“走出去”财联社
+  
+商务部等9部门：鼓励餐饮领域人工智能、大数据、区块链技术及智能设备研发与应用财联社
+  
+商务部等9部门：强化质量安全，推广餐饮外卖封签制度新浪科技
+  
+商务部等9部门：加快中餐“走出去”，支持餐饮经营主体积极开拓海外市场新浪科技
+  
+商务部等9部门：加快制定完善预制菜相关标准财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小林制药公司保健品致消费者健康受损，日本首相要求查明真相]]></title>
+        <id>readhub-8YJTgKEnP5E</id>
+        <link href="https://readhub.cn/topic/8YJTgKEnP5E"/>
+        <updated>2024-03-28T04:00:47.000Z</updated>
+        <summary type="html"><![CDATA[日本小林制药公司含红曲成分保健品被指致消费者健康受损，已有4人死亡，106人住院。岸田文雄表示将查明原因并采取必要措施。
+   
+媒体报道
+  
+小林制药公司保健品致消费者健康受损 日本首相要求查明真相中国证券网
+  
+小林制药公司保健品致消费者健康受损，日本首相要求查明真相澎湃新闻/新浪科技
+  
+红曲保健品致消费者健康受损，日本小林制药公司社长致歉澎湃新闻
+  
+小林制药将赔偿日本消费者：一件商品赔偿2500日元代金券澎湃新闻]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国铝业：2023年净利润同比增长60.23% 拟10派0.8元]]></title>
+        <id>readhub-8YIjZH4a6hg</id>
+        <link href="https://readhub.cn/topic/8YIjZH4a6hg"/>
+        <updated>2024-03-28T04:00:45.000Z</updated>
+        <summary type="html"><![CDATA[中国铝业2023年净利润67.17亿元，同比增长60.23%，计划每10股派发0.8元。
+   
+媒体报道
+  
+中国铝业公布2023年业绩 归母应占利润为67.17亿元同比增长60.23%新浪科技
+  
+中国铝业：2023年度营收2250.71亿元 同比减少22.65%财联社
+  
+中国铝业：2023年净利润同比增长60.23% 拟10派0.8元财联社
+  
+中国铝业：2023年净利同比增60.23% 拟10派0.8元新浪科技
+  
+中国铝业去年净利润同比增超六成，加快产业结构升级调整澎湃新闻]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[失败一周年后 日本官宣重启国产客机研发：未来十年投资超2000亿]]></title>
+        <id>readhub-8YI0Dzo4Lbj</id>
+        <link href="https://readhub.cn/topic/8YI0Dzo4Lbj"/>
+        <updated>2024-03-28T03:51:19.000Z</updated>
+        <summary type="html"><![CDATA[日本计划启动新一代国产窄体客机研发项目，避免重蹈三菱Space Jet项目的覆辙，政府与多家企业合作推进。政府除了提供研究费用，还将支持技术标准和采购组件的稳定供应。目标是在2035年前完成开发，计划未来10年政府和民间投资5万亿日元。该项目将开发以氢发动机为动力的客机，但环保人士对绿氢供应链的可靠性表示担忧。日本曾在2008年启动首款国产喷气式客机研发，但最终终止。
+   
+媒体报道
+  
+失败一周年后 日本官宣重启国产客机研发：未来十年投资超2000亿凤凰科技
+  
+中国行我也行？日本再次挑战大飞机研发 这次搞氢动力手机中国
+  
+失败一年后，日本又要重启国产客机项目腾讯网]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众泰汽车：连刚辞去公司总裁职务]]></title>
+        <id>readhub-8YIVeo3Nzaf</id>
+        <link href="https://readhub.cn/topic/8YIVeo3Nzaf"/>
+        <updated>2024-03-28T03:39:32.000Z</updated>
+        <summary type="html"><![CDATA[众泰汽车公告，公司总裁连刚因个人原因辞职，但仍将继续担任董事会相关职务。在总裁空缺期间，董事长胡泽宇将代行总裁职责。
+   
+媒体报道
+  
+众泰汽车总裁连刚因个人原因辞职：董事长胡泽宇临时接替铅笔道
+  
+众泰汽车：连刚辞去公司总裁职务财联社/速途网
+  
+众泰汽车：公司总裁连刚先生辞职新浪科技
+  
+众泰汽车：总裁连刚辞职 董事长胡泽宇代行职责新浪科技]]></summary>
+        <author>
+            <name>铅笔道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中信证券郑重声明：自媒体等传播虚假不实信息与事实相悖]]></title>
+        <id>readhub-8YJZ2Qd69oQ</id>
+        <link href="https://readhub.cn/topic/8YJZ2Qd69oQ"/>
+        <updated>2024-03-28T03:22:26.000Z</updated>
+        <summary type="html"><![CDATA[中信证券官网发布声明，指出近期有自媒体和个人账号传播关于中信证券的虚假信息，这些言论与事实不符，严重损害了公司声誉，并对资本市场的健康有序发展产生了不利影响。中信证券强调，公司一直遵守国家方针政策和法律法规，尊重监管机构的监管，维护投资者权益，并积极履行国有金融企业的责任。公司表示，将继续依法合规经营，维护投资者权益，促进资本市场健康稳定发展，并保留追究发布不实信息者的法律责任的权利。
+   
+媒体报道
+  
+中信证券：自媒体等传播虚假不实信息与事实相悖，公司保留追究法律责任权利腾讯网/新浪科技
+  
+中信证券郑重声明：自媒体等传播虚假不实信息与事实相悖新浪科技/中国证券网
+  
+中信证券声明：自媒体等传播虚假不实信息与事实相悖 公司保留追究法律责任权利新浪科技/财联社
+  
+中信证券：不实传言严重损害声誉，也不利于资本市场健康发展，尊重监管机构的监管指导澎湃新闻]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我国网络视听用户规模达10.74亿人]]></title>
+        <id>readhub-8YIKCsoyLVj</id>
+        <link href="https://readhub.cn/topic/8YIKCsoyLVj"/>
+        <updated>2024-03-28T03:15:14.000Z</updated>
+        <summary type="html"><![CDATA[《中国网络视听发展研究报告（2024）》在成都发布，显示我国网络视听用户规模达10.74亿人，使用率98.3%，进一步巩固了其作为“第一大互联网应用”的地位。
+   
+媒体报道
+  
+我国网络视听市场规模首次突破万亿元 超七成用户通过短视频、直播购物中国证券网
+  
+我国网络视听用户规模达10.74亿人腾讯网/澎湃新闻/i黑马]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国 FCC 驳回 SpaceX 频谱申请，移动卫星通讯服务受阻]]></title>
+        <id>readhub-8YJQRdj1PsH</id>
+        <link href="https://readhub.cn/topic/8YJQRdj1PsH"/>
+        <updated>2024-03-28T03:06:38.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX向美国联邦通信委员会提交了一项关于在其Gen2 NGSO卫星系统中添加移动卫星服系统的频谱申请，但被FCC驳回。主要原因是存在与其他卫星运营商在1.6/2.4 GHz频段和2 GHz频段的潜在干扰争议。FCC认为SpaceX的请求未实质性地遵守相关规定，同时公开征求公众对修改频谱共享规则的请愿的意见。Dish Network和Globalstar实名反对SpaceX的请求，SpaceX需要向FCC证明其计划不会对其他系统造成有害干扰，以期重新通过申请。
+   
+媒体报道
+  
+美国 FCC 驳回 SpaceX 频谱申请，移动卫星通讯服务受阻新浪科技/IT 之家/中关村在线
+  
+美国FCC驳回SpaceX频谱申请，移动卫星通讯服务受阻凤凰科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果硬刚美国司法部：从未限制微信等“超级应用”]]></title>
+        <id>readhub-8YHuqjEpNFa</id>
+        <link href="https://readhub.cn/topic/8YHuqjEpNFa"/>
+        <updated>2024-03-28T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部对苹果公司提起反垄断诉讼，指控其非法垄断智能手机市场，苹果逐条反驳了所有指控。美司法部认为苹果限制“超级应用”的发展，苹果反驳称，公司从未设置门槛。美司法部称苹果施加的合同和佣金措施限制了开发者为iPhone用户提供功能、特性的能力，苹果回应称，这种说法具有误导性。美司法部称iMessage目前只能在iPhone上才能使用，苹果反驳称，也许顾客只是喜欢苹果产品。
+   
+媒体报道
+  
+苹果遭美司法部反垄断诉讼后 又被美消费者集体起诉手机中国
+  
+苹果硬刚美国司法部：从未限制微信等“超级应用”手机中国
+  
+美银驳斥司法部指控：苹果(AAPL.US)并非云游戏市场操纵者新浪科技
+  
+逐条反驳，苹果霸气回应美国司法部 7 条垄断指控IT 之家]]></summary>
+        <author>
+            <name>手机中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湖南株洲：二套房实施“可提可贷” 优化灵活就业人员公积金政策]]></title>
+        <id>readhub-8YJcamROZQq</id>
+        <link href="https://readhub.cn/topic/8YJcamROZQq"/>
+        <updated>2024-03-28T02:41:19.000Z</updated>
+        <summary type="html"><![CDATA[该市自4月1日起优化调整公积金政策，对第二套房实施“可提可贷”措施，允许缴存人家庭提取不超过购房首付款的住房公积金，并申请公积金贷款，包括转换商业贷款为公积金贷款。同时，已取得不动产权证的住房可作为抵押，未取得权证的可先以其他住房作抵押，之后再进行置换。此举旨在提供更大资金灵活性，并推动公积金政策的全面实施。
+   
+媒体报道
+  
+湖南株洲：二套房实施“可提可贷” 优化灵活就业人员公积金政策新浪科技
+  
+湖南株洲公积金新政：第二套房“可提可贷” 支持贷款“商转公”财联社
+  
+宿州市埇桥区大营镇：青年创业贷款财政贴息工作落地见效新浪科技
+  
+河北秦皇岛：个人首次公积金贷款首付20%，推进公积金异地贷款政策澎湃新闻/新浪科技
+  
+湖南株洲公积金新政：第二套房“可提可贷”，支持贷款“商转公”澎湃新闻]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周黑鸭：截至2023年底股东应占溢利1.16亿元 同比增长357.1%]]></title>
+        <id>readhub-8YIoDt2NvgV</id>
+        <link href="https://readhub.cn/topic/8YIoDt2NvgV"/>
+        <updated>2024-03-28T02:32:41.000Z</updated>
+        <summary type="html"><![CDATA[周黑鸭公布2023年度业绩，股东应占溢利达1.16亿元，同比增长357.1%，拟派发末期股息每股0.05港元。同时，董事会计划在未来一年内，动用最多4亿港元购回公司不超过10%的已发行股份。
+   
+媒体报道
+  
+周黑鸭拟至多4亿港元回购公司股份，彰显长期发展信心和讯网
+  
+周黑鸭发布2023年财报：业绩稳中有进，营收净利润双增长和讯网
+  
+周黑鸭2023年财报：营收净利润双增长，交通枢纽门店强劲恢复创新高和讯网
+  
+周黑鸭：截至2023年底股东应占溢利1.16亿元 同比增长357.1%财联社
+  
+周黑鸭(01458)将于6月28日派发末期股息每股0.05港元新浪科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone维修被松绑 美国立法禁止“零件序列化”]]></title>
+        <id>readhub-8YJWYDPVxkc</id>
+        <link href="https://readhub.cn/topic/8YJWYDPVxkc"/>
+        <updated>2024-03-28T02:32:29.000Z</updated>
+        <summary type="html"><![CDATA[美国俄勒冈州通过并签署法案，禁止在数码设备中使用“序列化”解决方案，这是全美首部禁止“零件序列化”的法律。此举对数码产品如iPhone的维修政策产生重大影响，禁止厂商通过“零件序列化”限制用户选择第三方维修服务或使用非原厂零件进行维修，也不能借此降低设备性能或显示误导性信息。苹果公司对此进行辩护，称是为了让维修变得更容易并确保设备及数据安全，但此举也备受争议，被批评为限制了消费者选择并可能增加维修成本。新规定对2015年7月1日之后销售的手机及其他消费电子产品生效，而对2021年7月1日之前销售的手机不适用。这一新法律规定预计将对数码行业产生重要影响，并引发业界广泛关注和讨论。
+   
+媒体报道
+  
+美国出手重挫苹果：iPhone禁止第三方维修行为违法凤凰科技
+  
+禁止序列化！美国首部禁用iPhone“非原装配件”法案通过中关村在线
+  
+iPhone维修被松绑 美国立法禁止“零件序列化”中关村在线]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每周工作 80 小时，苹果 App Store 掌舵者菲尔・席勒画像：贯彻乔布斯理念]]></title>
+        <id>readhub-8YJNbNdlwyj</id>
+        <link href="https://readhub.cn/topic/8YJNbNdlwyj"/>
+        <updated>2024-03-28T02:31:51.000Z</updated>
+        <summary type="html"><![CDATA[华尔街日报近期撰文描绘了苹果公司App Store负责人菲尔・席勒的形象。尽管席勒在2020年已从营销主管职位转型为Apple Fellow，但他依然保持高强度工作，每周近80小时。席勒活跃在苹果公司内部运作，包括Epic诉苹果案中辩护App Store，并在欧盟信息发布中扮演重要角色。他还参与处理与Epic Games的账户终止事件，并对iOS 17.4版本发布进行公关沟通。席勒自1987年起加入苹果，是公司重要产品的营销策略制定者，也是iPhone第三方应用商店的主要推动者。他坚持App Store的人工审核制度，使其成为苹果主要收入来源。
+   
+媒体报道
+  
+每周工作80时，苹果App Store掌舵者菲尔・席勒画像：贯彻乔布斯理念凤凰科技
+  
+每周工作 80 小时，苹果App Store掌舵者菲尔&#x2022;席勒画像：贯彻乔布斯理念中关村在线
+  
+每周工作 80 小时，苹果 App Store 掌舵者菲尔・席勒画像：贯彻乔布斯理念IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光大银行：2023年净利润同比降8.96% 拟10派1.73元]]></title>
+        <id>readhub-8YIaHsdy6fl</id>
+        <link href="https://readhub.cn/topic/8YIaHsdy6fl"/>
+        <updated>2024-03-28T02:31:07.000Z</updated>
+        <summary type="html"><![CDATA[光大银行2023年年报显示，营业收入1456.85亿元，下降3.92%。归母净利润407.92亿元，下降8.96%。每股收益0.62元。拟每10股派息1.73元。
+   
+媒体报道
+  
+去年净利同比降近9% 光大银行早盘大跌超7%新浪科技
+  
+光大银行行长谈去年净利润同比下降：加大了拨备计提的力度澎湃新闻
+  
+光大银行王志恒谈营收、净利润下降：经营基本面是稳定的 大家不必过度担心新浪科技
+  
+光大银行2023年实现归母净利润407.92亿元 同比下降8.96%中国证券网
+  
+光大银行去年净利407.92亿降8.96%，不良率持平澎湃新闻
+  
+光大银行股价早盘跌超9% 行长王志恒回应：经营基本面稳定 对未来充满信心中国证券网/财联社/新浪科技
+  
+光大银行2023年净利润407.92亿元 同比下降8.96%新浪科技
+  
+光大银行：2023年实现归母净利润407.92亿元 同比下降8.96%新浪科技
+  
+光大银行发布2023年年度报告：实现营业收入1456.9亿元 净利润410.8亿元新浪科技
+  
+去年净利同比降8.96%，光大银行早盘跌超9%，行长最新回应腾讯网
+  
+光大银行去年净利407.92亿降8.96% 不良率持平新浪科技
+  
+光大银行：2023年净利润同比降8.96% 拟10派1.73元财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车诉贴膜店一审胜诉，后者需改名且赔偿 2 万元]]></title>
+        <id>readhub-8YIiri8UHah</id>
+        <link href="https://readhub.cn/topic/8YIiri8UHah"/>
+        <updated>2024-03-28T02:31:07.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车因商标权及不正当竞争纠纷起诉山东临沂一家名为“理想汽车贴膜工厂”的店铺，并要求赔偿120万元。法院一审判定店铺停止使用“理想”字样，更改企业名称且不得再含“理想”二字，向理想汽车道歉，并赔偿经济损失和合理支出两万元。店主朱裕昊表示将咨询律师决定是否上诉，认为自己的小名“理想”及店铺招牌使用“理想”多年，且开店时间早于理想汽车成立，对于赔偿金额感到不满。
+   
+媒体报道
+  
+理想汽车诉贴膜店一审胜诉，后者需改名且赔偿2万元凤凰科技
+  
+理想汽车诉贴膜店一审胜诉，后者需改名且赔偿 2 万元新浪科技/IT 之家/中关村在线]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国中免AH股齐上涨：2023年净利润同比增长33.46%]]></title>
+        <id>readhub-8YJa7EdpNAb</id>
+        <link href="https://readhub.cn/topic/8YJa7EdpNAb"/>
+        <updated>2024-03-28T02:10:41.000Z</updated>
+        <summary type="html"><![CDATA[中国中免A股开盘上涨超3%，港股涨超5%，因公司2023年营业收入和净利润同比分别增长24.08%和33.46%，拟每10股派发现金红利16.5元。东吴证券认为，中免市场地位稳固，看好其作为旅游零售龙头受益于市内免税店政策和出境游恢复，维持2024-2026年盈利预期，并给出“买入”评级。
+   
+媒体报道
+  
+中国中免AH股齐拉升，2023年净利增33.46%，分红比例升至50.85%和讯网/新浪科技
+  
+中国中免AH股齐上涨：2023年净利润同比增长33.46%腾讯网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国电商乱象：正规渠道购买 AirPods 也掉坑，维权遭“踢皮球”]]></title>
+        <id>readhub-8YJQRgxzPxy</id>
+        <link href="https://readhub.cn/topic/8YJQRgxzPxy"/>
+        <updated>2024-03-28T01:55:10.000Z</updated>
+        <summary type="html"><![CDATA[研究表明，即便是在亚马逊、Costco或Target等正规渠道购买AirPods等产品，仍有收到假冒产品的风险。Reddit社区网友ParkerApplejax分享了自己的经历，他从沃尔玛购买的AirPods没有序列号，在尝试退货时遭遇了困扰。类似的问题在Reddit社区、X平台和苹果支持论坛上比比皆是。分析指出，问题主要源于用户退货和分销链上，尤其是UPS等运输公司员工盗窃。加拿大温尼伯一名前UPS员工就因盗窃苹果产品被控罪，涉案金额巨大。
+   
+媒体报道
+  
+美国电商乱象：正规渠道购买AirPods也掉坑，维权遭“踢皮球”凤凰科技
+  
+美国电商乱象：正规渠道购买 AirPods 也掉坑，维权遭“踢皮球”新浪科技/IT 之家/中关村在线]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费游戏变更，消息称 Epic 将送出《天外世界：太空人之选》]]></title>
+        <id>readhub-8YJP1vFzz13</id>
+        <link href="https://readhub.cn/topic/8YJP1vFzz13"/>
+        <updated>2024-03-28T01:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Epic 本周免费送出《荒野的召唤：垂钓者》和《无敌少侠：原子女侠伊芙》，下周将限免《天外世界：太空人之选》，该游戏曾在去年底限免但时间短暂。目前《天外世界：太空人之选》在 Steam 国区售价 199 元，好评率达到 93%。
+   
+媒体报道
+  
+EPIC GAMES本周送两免费游戏 快来领取！中关村在线
+  
+免费游戏变更，消息称 Epic 将送出《天外世界：太空人之选》新浪科技/IT 之家
+  
+Epic又送大作 《天外世界：太空人之选》即将免费送中关村在线]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼将于 4 月 25 日起停止对 PSV 与 PSC 的售后支持]]></title>
+        <id>readhub-8YJPk9JNHI8</id>
+        <link href="https://readhub.cn/topic/8YJPk9JNHI8"/>
+        <updated>2024-03-28T01:54:35.000Z</updated>
+        <summary type="html"><![CDATA[索尼公司宣布从2024年4月25日起，将停止为PSV及PSC游戏机提供售后服务。受影响的PSV产品包括PCH-1100、PCH-1000和PCH-2000系列，受影响的PSC产品为SCPH-1000RJ系列。PlayStation VITA是索尼电脑娱乐推出的掌机，简称PSV，于2011年发售，采用5英寸OLED电容屏和双面触控操作。而PlayStation Classic是索尼于2018年推出的复古迷你主机，设计基于初代PlayStation，内置20款经典游戏。
+   
+媒体报道
+  
+索尼将于 4 月 25 日起停止对 PSV 与 PSC 的售后支持新浪科技/搜狐科技/IT 之家
+  
+还记得PSV吗？索尼官方宣布将停止为PSV提供售后服务中关村在线]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆 Avata 2 无人机高清图曝光，预计 4 月 11 日发布]]></title>
+        <id>readhub-8YJWtCG1V0U</id>
+        <link href="https://readhub.cn/topic/8YJWtCG1V0U"/>
+        <updated>2024-03-28T01:46:19.000Z</updated>
+        <summary type="html"><![CDATA[大疆即将推出Avata 2无人机，手持稳定器DJI RS4系列、Goggles 3眼镜和FPV遥控器三代等新品也将在4月11日发布。Avata 2后置摄像头为1/1.3英寸48MO F/2.8 CMOS，支持4K/2.7K 60-120 FPS视频录制和1080P 60-240FPS视频录制，采用RockSteady 3.0+/HorizonSteady/HorizonBalancing增稳技术，重量为458克，尺寸为180 x 216 x 82mm，电池容量为3400毫安时，飞行时间为27分钟（使用穿越摇杆）和12-15分钟（M模式）。
+   
+媒体报道
+  
+大疆 Avata 2 无人机高清图曝光，预计 4 月 11 日发布新浪科技/搜狐科技/IT 之家
+  
+大疆Avata 2无人机高清图曝光，预计4月11日发布凤凰科技]]></summary>
+        <author>
+            <name>新浪科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[业内首个，央广网 App 已完成华为鸿蒙原生应用全量版本开发]]></title>
         <id>readhub-8YI70IF5FSG</id>
@@ -3384,144 +3964,6 @@ Meta推出SceneScript AI视觉模型，利用可编程语言实时预测建立 3
 新款Apple Pencil已在VisionOS上进行测试，即将支持Vision ProVR陀螺]]></summary>
         <author>
             <name>新浪科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米汽车App上线苹果App Store：可在线购车、远程车控]]></title>
-        <id>readhub-8YEuhoQEL9F</id>
-        <link href="https://readhub.cn/topic/8YEuhoQEL9F"/>
-        <updated>2024-03-25T16:31:28.000Z</updated>
-        <summary type="html"><![CDATA[小米汽车的独立App已在苹果App Store上线，提供在线购车和远程车控等服务。App图标与小米汽车logo一致，界面采用黑灰配色。订单页面包含车辆、充电、商品、服务、保险、金融等多重分类，预计将提供付费充电、车险、购车分期等业务。车控页面展示车辆外观、状态、续航等信息，并提供一键控制按钮，下方还有车辆定位、车内温度、空调状态等服务入口。小米SU7将于3月28日正式上市，并在全国29个城市60家门店开启静态品鉴。
-   
-媒体报道
-  
-小米汽车App上架苹果App Store 米粉还不下载安装？手机中国
-  
-小米汽车App上架苹果商店，但搜索结果不排第一搜狐科技
-  
-小米汽车App上线苹果App Store：可在线购车、远程车控搜狐科技]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零跑汽车：2023年实现营收167.5亿元 毛利率、经营现金流均首次转正]]></title>
-        <id>readhub-8YF6pN2USOQ</id>
-        <link href="https://readhub.cn/topic/8YF6pN2USOQ"/>
-        <updated>2024-03-25T15:42:42.000Z</updated>
-        <summary type="html"><![CDATA[零跑汽车2023年财报显示，公司营收达167.5亿元，同比增长35.2%，毛利率和经营现金流均首次转正，分别为0.5%和10.8亿元。此外，公司年末在手资金资源充足，达到193.9亿元。调整后，该公司2023年全年毛利已达11.6%。
-   
-媒体报道
-  
-零跑汽车：2023年全年营收实现营收167.5亿元 同比增长35.2%新浪科技
-  
-零跑汽车去年净亏收窄至42亿元：首次实现毛利转正，会聚焦海外市场澎湃新闻
-  
-全年交付超14万辆、毛利首次转正！零跑发布2023年财报中关村在线
-  
-全年毛利与现金流首次转正，营收交付大增，零跑汽车发布2023年财报雷锋网/新浪科技
-  
-零跑汽车：2023年实现营收167.5亿元 毛利率、经营现金流均首次转正财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[总重量近 37000 吨，亚洲第一深水导管架“海基二号”开始安装]]></title>
-        <id>readhub-8YDRDXTeAuJ</id>
-        <link href="https://readhub.cn/topic/8YDRDXTeAuJ"/>
-        <updated>2024-03-25T15:19:05.000Z</updated>
-        <summary type="html"><![CDATA[“海基二号”导管架，重近37000吨，是目前亚洲最深的深水导管架，已在深圳东南方向240公里处的流花油田海域开始海上安装作业，预计3天内完成。该安装作业将刷新亚洲多项纪录，安装成功后将在流花11-1油田使用，该油田是我国海上最大的礁灰岩油田，探明油气地质储量超过亿吨。“海基二号”总高度达338.5米，是亚洲作业水深最大的导管架，其设计可应对百年一遇的恶劣海况，实现了技术自主可控，为我国深水边际油田的经济高效开发开辟了新路。
-   
-媒体报道
-  
-总重量近37000吨！亚洲第一深水导管架“海基二号”开始安装凤凰科技/中关村在线
-  
-总重量近 37000 吨，亚洲第一深水导管架“海基二号”开始安装中关村在线/IT 之家
-  
-亚洲第一深水导管架“海基二号”成功下水澎湃新闻]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆·库克：中国供应商为苹果减碳作出巨大贡献]]></title>
-        <id>readhub-8YEVgjNQIkb</id>
-        <link href="https://readhub.cn/topic/8YEVgjNQIkb"/>
-        <updated>2024-03-25T14:33:17.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司CEO蒂姆·库克在北京参加中国发展高层论坛2024年年会时表示，中国供应商对苹果减碳目标作出了巨大贡献。苹果计划在2030年前实现所有产品的碳中和，并已取得显著进展，如综合碳足迹减少了45%。库克赞扬中国供应商在循环技术、可再生能源使用等方面取得进步，并强调合作的重要性。
-   
-媒体报道
-  
-苹果CEO库克：中国供应商对减碳作出巨大贡献i黑马
-  
-蒂姆·库克：中国供应商为苹果减碳作出巨大贡献搜狐科技
-  
-苹果公司首席执行官蒂姆·库克：中国供应商助力苹果加速实现碳中和搜狐科技]]></summary>
-        <author>
-            <name>i黑马</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音公司 CEO 戴夫・卡尔霍恩宣布将于今年年底前辞职]]></title>
-        <id>readhub-8YFKPoMYSqs</id>
-        <link href="https://readhub.cn/topic/8YFKPoMYSqs"/>
-        <updated>2024-03-25T14:00:54.000Z</updated>
-        <summary type="html"><![CDATA[波音公司宣布CEO戴夫·卡尔霍恩和多名高层管理人员将离职或退休，公司近年来因飞机质量问题，特别是737 Max飞机的致命坠机事故受到广泛关注和批评。在公司面临一系列风波，包括737 Max 9飞机舱门脱落事故和涉及安全问题爆料人的争议事件后，公司表示将承认错误并接受透明处理。美国联邦航空管理局（FAA）也加强对波音生产和制造的审查，并暂停了737 Max飞机的生产扩张。这些消息公布后，波音公司的股价出现了上涨。
-   
-媒体报道
-  
-波音CEO决定年底辞职：掉舱门事故是波音的“分水岭时刻”凤凰科技
-  
-波音公司CEO年底辞职 董事长5月离职新浪科技
-  
-美国波音公司总裁兼首席执行官称将于今年年底辞去CEO一职澎湃新闻
-  
-美国波音公司总裁兼首席执行官称将于今年年底辞去首席执行官一职腾讯网
-  
-波音公司 CEO 戴夫・卡尔霍恩宣布将于今年年底前辞职IT 之家]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024款蔚来ET7谍照曝光 新增车色，配备娱乐屏]]></title>
-        <id>readhub-8YDXflqD9QF</id>
-        <link href="https://readhub.cn/topic/8YDXflqD9QF"/>
-        <updated>2024-03-25T13:46:30.000Z</updated>
-        <summary type="html"><![CDATA[蔚来ET7新款车型路试谍照曝光，新增月灰银车色和全新样式的多辐轮毂，内饰有微调，后排增加娱乐屏，提升豪华感。车辆配备智能空气悬架、4D智能车身控制，风阻系数低，性能强劲，搭载自动驾驶技术和超算平台，拥有多项智能功能。
-   
-媒体报道
-  
-2024 款蔚来 ET7 谍照曝光：新增月灰银车色，后排配娱乐屏IT 之家
-  
-2024款蔚来ET7谍照曝光 新增车色，配备娱乐屏凤凰科技
-  
-后排新增两块大屏！蔚来全新ET7谍照曝光：定位旗舰级轿车凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果、谷歌和Meta成为欧盟根据数字市场法进行调查的对象]]></title>
-        <id>readhub-8YFCXhme3NQ</id>
-        <link href="https://readhub.cn/topic/8YFCXhme3NQ"/>
-        <updated>2024-03-25T13:21:03.000Z</updated>
-        <summary type="html"><![CDATA[欧盟委员会宣布，将对苹果公司、谷歌和Meta展开调查，以检查它们是否遵守新的数字市场法。调查将聚焦于苹果和谷歌的应用商店规则，谷歌搜索引擎可能的偏见问题，以及苹果限制用户选择浏览器的做法。同时，Meta的Instagram和Facebook平台的新订阅收费政策也在调查范围之内。若公司违规，可能面临最高达全球收入10%的罚款，屡次违规者罚款最高可达20%。欧盟还警告将审查苹果的新收费结构以及亚马逊的市场排名做法。
-   
-媒体报道
-  
-欧盟数字法首个调查：剑指苹果、谷歌和Meta垄断行为，违规或罚百亿美元澎湃新闻/搜狐科技
-  
-苹果、谷歌和Meta成为欧盟根据数字市场法进行调查的对象新浪科技
-  
-欧盟《数字市场法案》首度亮剑 直指谷歌、苹果和Meta三家巨头腾讯网
-  
-欧盟就苹果、谷歌和 Meta 是否遵守《数字市场法案》启动全面调查IT 之家
-  
-欧盟《数字市场法》落地 苹果(AAPL.US)、谷歌(GOOGL.US)、Meta(META.US)将成调查对象新浪科技]]></summary>
-        <author>
-            <name>腾讯网</name>
         </author>
     </entry>
     <entry>
