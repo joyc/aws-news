@@ -313,6 +313,76 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8YOTyLujQiL",
+          "author": "快科技",
+          "description": "奇瑞风云A8远航版正式上市，共推出3款车型，价格区间为10.99-12.99万元。新车针对造型进行了调整，相较风云A8有较大变化。尺寸方面，长宽高分别为4780/1843/1469mm，轴距为2790mm。动力方面，采用鲲鹏超能混动C-DM技术，搭载第五代ACTECO 1.5TGDI混动专用发动机等，百公里加速时间7.6秒，百公里亏电油耗（WLTC 工况）4.2L。新车CLTC纯电续航为125km，整车综合续航超过1400km。智能化方面，搭载双12.3英寸屏幕和高通骁龙8155芯片，支持L2级智能辅助驾驶。此外，奇瑞风云A8远航版在安全性方面也有较高配置，如高强度钢使用率高达80%的笼式车身和最高10个气囊等。新车以全球化标准生产，满足不同地区用户需求，适应性强，如能满足德国用户对高速行驶的需求。\n   \n媒体报道\n  \n奇瑞风云A8一箱油跑2000公里挑战失败：只跑了1935公里快科技\n  \n奇瑞风云A8远航版上市：主打「高速不失速」，起售价10.99万元雷锋网\n  \n奇瑞挑战混动车失速难题！风云A8馈电180km/h连续行驶1小时快科技",
+          "link": "https://readhub.cn/topic/8YOTyLujQiL",
+          "publishedOn": "2024-03-31T15:01:42.000Z",
+          "wordCount": 324,
+          "title": "奇瑞风云A8远航版上市：主打「高速不失速」，起售价10.99万元",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YOzbQJpPOQ",
+          "author": "财联社",
+          "description": "中国汽车流通协会发布数据显示，受价格战和新车上市等因素影响，3月份乘用车终端销量预计约165万辆，未达市场预期。尽管经销商举行促销活动，但部分地区农忙导致客流和成交率下降。\n   \n媒体报道\n  \n中国汽车流通协会：预计3月乘用车终端销量165万辆左右财联社/新浪科技\n  \n中国汽车流通协会：3月中国汽车经销商库存预警指数为58.3%36Kr/财联社",
+          "link": "https://readhub.cn/topic/8YOzbQJpPOQ",
+          "publishedOn": "2024-03-31T15:00:55.000Z",
+          "wordCount": 178,
+          "title": "中国汽车流通协会：预计3月乘用车终端销量165万辆左右",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YPB2tkghcg",
+          "author": "腾讯网",
+          "description": "台湾接报6例与小林制药红曲产品相关案例，相关部门将进一步评估。目前，台湾食品药物管理部门已预防性下架226种相关产品。\n   \n媒体报道\n  \n小林制药日本第二家工厂遭搜查，中国台湾报告6起相关病例腾讯网\n  \n台湾通报6例与小林制药红曲产品有关案例财联社",
+          "link": "https://readhub.cn/topic/8YPB2tkghcg",
+          "publishedOn": "2024-03-31T14:46:17.000Z",
+          "wordCount": 159,
+          "title": "台湾通报6例与小林制药红曲产品有关案例",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YPOGLnh1gS",
+          "author": "财联社",
+          "description": "中国对美国修订半导体出口管制措施表示坚决反对，认为这给中美两国企业及全球半导体产业带来了负面影响和不确定性，损害了企业的合法权益。中国强调半导体产业已高度全球化，愿与各方加强合作，促进产业链供应链的安全与稳定。\n   \n媒体报道\n  \n美商务部发公告对半导体出口管制规则进行修订，中国商务部回应新浪科技\n  \n美国修订半导体出口管制措施，商务部：严重影响中外企业开展互利合作新浪科技\n  \n美国修订半导体出口管制措施，商务部：坚决反对新浪科技/澎湃新闻\n  \n美方不到半年再次修订半导体出口管制措施，商务部回应腾讯网\n  \n商务部新闻发言人就美国修订半导体出口管制措施有关问题答记者问新浪科技/财联社",
+          "link": "https://readhub.cn/topic/8YPOGLnh1gS",
+          "publishedOn": "2024-03-31T14:30:36.000Z",
+          "wordCount": 125,
+          "title": "商务部新闻发言人就美国修订半导体出口管制措施有关问题答记者问",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YNlA78Ad32",
+          "author": "凤凰科技",
+          "description": "研究人员发明了一种新型自供电贴片，能将喉部肌肉运动转化为语音，帮助失去语言能力的人恢复说话能力。该贴片使用聚二甲基硅氧烷和铜线圈结合磁感应技术，感知肌肉运动并产生电信号。通过机器学习处理这些信号，贴片能在40毫秒内准确识别并复述用户想要说的内容，准确率高达94.68%。该成果已发表在《自然通讯》期刊。\n   \n媒体报道\n  \n美加州大学团队发明自供电贴片，借助机器学习可使聋哑人“说话”中关村在线/凤凰科技/IT 之家",
+          "link": "https://readhub.cn/topic/8YNlA78Ad32",
+          "publishedOn": "2024-03-31T13:37:26.000Z",
+          "wordCount": 140,
+          "title": "美加州大学团队发明自供电贴片，借助机器学习可使聋哑人“说话”",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YOeXQ0bkIR",
+          "author": "财联社",
+          "description": "欧洲多国自3月31日起实施夏令时，导致金融市场交易时间和经济数据公布时间较冬令时提前一个小时。从4月1日开始，欧股交易时间为北京时间15:00-23:30。请注意这个时间变化。\n   \n媒体报道\n  \n欧洲多国今日开始实施夏令时新浪科技/36Kr/财联社/中国证券网",
+          "link": "https://readhub.cn/topic/8YOeXQ0bkIR",
+          "publishedOn": "2024-03-31T13:35:49.000Z",
+          "wordCount": 161,
+          "title": "欧洲多国今日开始实施夏令时",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YPGPTPf2lg",
+          "author": "财联社",
+          "description": "小米集团针对创始版车型订单启动第二轮追加开售，已拦截部分异常和黄牛订单。用户需支付20000元定金锁单，原非创始版订单用户可参与并升级为创始版。第二轮购车用户可享受与3月28日相同的最高31000元豪华购车权益。\n   \n媒体报道\n  \n拦截部分黄牛订单后，小米汽车将开启第二轮追加开售搜狐科技\n  \n喜悦智行：公司生产的可循环包装产品通过运输供应链公司间接为小米汽车提供服务财联社\n  \n小米汽车将开启第二轮追加开售中国证券网/财联社\n  \n小米汽车宣布明日开启 SU7 创始版第二轮定购：下定即锁单，已下定非创始版用户可转单IT 之家",
+          "link": "https://readhub.cn/topic/8YPGPTPf2lg",
+          "publishedOn": "2024-03-31T12:31:13.000Z",
+          "wordCount": 200,
+          "title": "小米汽车将开启第二轮追加开售",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8YP6ZXVlOfy",
           "author": "快科技",
           "description": "威刚公司推出了升级版的CORE REACTOR II VE电源，新电源的额定功率范围提升至650W至850W，体积为140 x 150 x 86 mm，支持ATX 12V v3.1规范并获80 PLUS金牌认证。内置120mm FDB风扇，提供原生12V-2x6接头，并且强化了安全性能，具备包括过流、过压、短路、过功率、欠压、过温、抗涌浪及无负载等多重保护措施。价格尚未公布。\n   \n媒体报道\n  \n威刚推出XPG CORE REACTOR II VE电源：功率最高850W、内置120mm风扇快科技\n  \n威刚推出 XPG CORE REACTOR II VE 电源：850W 功率、120mm 风扇新浪科技/IT 之家\n  \n威刚推出XPG CORE REACTOR II VE电源：850W功率、120mm风扇中关村在线",
@@ -1400,326 +1470,6 @@
           "publishedOn": "2024-03-29T09:15:48.000Z",
           "wordCount": 162,
           "title": "民生银行林云山：预计2024年信用卡业务资产质量管控仍面临一定压力",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLKSp9LhCV",
-          "author": "36Kr",
-          "description": "PingPong与TikTok Shop合作在厦门举办了“2024 TikTok Shop 跨境招商大会”，会上成立了首个针对TikTok Shop商家的生态服务联盟，提供一站式生态服务，助力商家快速高效地开拓增量市场。\n   \n媒体报道\n  \n12点聊电商：PingPong发起TikTok Shop服务商联盟 汇聚超60家头部服务商资源亿邦动力网\n  \nPingPong发起首个TikTok Shop服务商联盟36Kr\n  \nPingPong发起TikTok Shop服务商联盟 汇聚超60家头部服务商资源亿邦动力网",
-          "link": "https://readhub.cn/topic/8YLKSp9LhCV",
-          "publishedOn": "2024-03-29T04:09:56.000Z",
-          "wordCount": 245,
-          "title": "PingPong发起首个TikTok Shop服务商联盟",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLC9uIAmni",
-          "author": "腾讯网",
-          "description": "韩国2月半导体产量同比增长65.3%，为2009年底以来最大增幅，发货量增长59%，库存连续第二个月下降。3月前20天芯片出口增长46.5%，人工智能相关内存需求激增。整体工业产出增长4.8%，高于经济学家预测的4%。\n   \n媒体报道\n  \n韩国2月半导体产量飙升65.3%，创14年最大增幅！SK海力士：对英伟达供应继续保持积极势头和讯网\n  \n14年来最大增幅！AI助推韩国2月半导体产量飙升65%快科技\n  \n韩国2月半导体产量飙升65.3%，创14年最大增幅新浪科技\n  \n韩国半导体迎来曙光：2月产量增幅创下14年来最大 AI是最大推手新浪科技/腾讯网",
-          "link": "https://readhub.cn/topic/8YLC9uIAmni",
-          "publishedOn": "2024-03-29T04:07:17.000Z",
-          "wordCount": 234,
-          "title": "韩国2月半导体产量飙升65.3%，创14年最大增幅",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL6UeECcDB",
-          "author": "猎云网",
-          "description": "能链智电公布了2023年四季度及全年未经审计的财务报告。报告显示，公司全年营业收入达到3.2亿元，同比增长245%，其中能源解决方案收入占比58.5%。毛利为8876万元，同比增长13倍，毛利率提升至27.7%，而净亏损为13亿元，相较上年的56亿元有所下降。\n   \n媒体报道\n  \n能链智电发布2023年Q4及全年财报 收入同比上涨245%DoNews\n  \n能链智电：2023年营业收入3.2亿元，同比增长245%36Kr\n  \n能链智电2023年收入增长245%，毛利同增13倍猎云网",
-          "link": "https://readhub.cn/topic/8YL6UeECcDB",
-          "publishedOn": "2024-03-29T03:46:31.000Z",
-          "wordCount": 246,
-          "title": "能链智电：2023年营业收入3.2亿元，同比增长245%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YKxr7ASBsC",
-          "author": "腾讯网",
-          "description": "美国马里兰州巴尔的摩大桥坍塌后，清理工作已经开始。美国交通部联邦公路管理局将为马里兰州交通部提供6000万美元紧急资金用于大桥的维修、设计和重建。桥梁坍塌原因的调查需要1到2年，而大桥和港口的重建可能需要更长时间。\n   \n媒体报道\n  \n美国巴尔的摩大桥坍塌现场清理工作开始 恢复通行或耗时数年财联社\n  \n美国联邦政府提供6000万美元作为修复巴尔的摩被撞大桥的初期资金腾讯网/财联社",
-          "link": "https://readhub.cn/topic/8YKxr7ASBsC",
-          "publishedOn": "2024-03-29T03:46:02.000Z",
-          "wordCount": 161,
-          "title": "美国巴尔的摩大桥坍塌现场清理工作开始 恢复通行或耗时数年",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YKR1Vc12C3",
-          "author": "腾讯网",
-          "description": "预计2024年全球智能手机出货量将同比增长3%，达到12亿部，主要由经济型和高端机型推动。经济型机型市场在2023年下降后，预计2024年将反弹11%，而高端机型市场则预计同比增长17%。华为预计将在2024年保持中国智能手机市场的主导地位，并将继续受益于其5G麒麟芯片组的发布。随着市场触底，全球智能手机出货量有望出现低个位数的同比增长。\n   \n媒体报道\n  \n华尔街到陆家嘴精选丨道指标普再创新高；油价今年能涨到100美元？；智能手机出货量今年或反弹腾讯网\n  \n走出低谷！研究报告：全球智能手机出货量将在2024年反弹腾讯网\n  \nCounterpoint：预计今年全球智能手机出货量同比小幅反弹3%搜狐科技",
-          "link": "https://readhub.cn/topic/8YKR1Vc12C3",
-          "publishedOn": "2024-03-29T03:43:17.000Z",
-          "wordCount": 205,
-          "title": "Counterpoint：预计今年全球智能手机出货量同比小幅反弹3%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLG5mHZyOq",
-          "author": "搜狐科技",
-          "description": "三星在国内推出Samsung One UI 6.1更新，旨在推动AI技术在智能手机领域的应用，提升用户体验。更新后的Galaxy Z Fold5折叠屏手机将支持更多前沿AI功能，如即圈即搜、通话实时翻译和同传等，极大便利用户生活和工作。此外，更新还增强了移动生产力，提供笔记助手、转录助手、浏览助手和写作助手等功能。在影像创作方面，新增智能修图建议和生成式编辑功能，降低高质量作品创作门槛。Samsung One UI 6.1的推出，将巩固三星在AI手机领域的领先地位，为用户提供更丰富、多样化的智能体验。\n   \n媒体报道\n  \nAI手机加速普及  三星Galaxy Z Fold5加入Galaxy AI功能手机中国\n  \n心系天下三星W24｜W24 Flip：匠心雕琢启幕风雅  AI赋能开创未来手机中国\n  \n拓展Galaxy AI生态 三星Galaxy Z Fold5现可更新Samsung One UI 6.1搜狐科技",
-          "link": "https://readhub.cn/topic/8YLG5mHZyOq",
-          "publishedOn": "2024-03-29T03:32:28.000Z",
-          "wordCount": 452,
-          "title": "AI手机加速普及 三星Galaxy Z Fold5加入Galaxy AI功能",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLIxQJb4EU",
-          "author": "快科技",
-          "description": "米家全能扫拖机器人M30 S正式上市，售价2999元。新品在清扫性能、边角清洁、毛发处理、擦地功能等方面进行了显著提升，搭载机械臂技术实现毫米级精确清洁，配备防缠绕滚刷和恒湿擦地技术。新品建议零售价为3699元，首发2999元。\n   \n媒体报道\n  \n米家全能扫拖机器人M30 S正式上市 首发价2999元手机中国/搜狐科技\n  \n2999元 米家全能扫拖机器人M30 S上市：创新机械臂贴边清洁快科技",
-          "link": "https://readhub.cn/topic/8YLIxQJb4EU",
-          "publishedOn": "2024-03-29T03:31:20.000Z",
-          "wordCount": 232,
-          "title": "米家全能扫拖机器人M30 S正式上市 首发价2999元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL7BApb5XF",
-          "author": "i黑马",
-          "description": "小米汽车发布SU7新车，针对市场上关于81分钟销售9万台SU7的消息，小米集团高层徐洁云通过朋友圈澄清该消息为假，而官方数据显示，SU7确实在4分钟大定破万，7分钟破2万，27分钟破5万。\n   \n媒体报道\n  \n小米汽车辟谣81分钟销售9万台i黑马\n  \n81分钟销售9万台？小米辟谣：是假的凤凰科技/搜狐科技",
-          "link": "https://readhub.cn/topic/8YL7BApb5XF",
-          "publishedOn": "2024-03-29T03:23:24.000Z",
-          "wordCount": 237,
-          "title": "小米汽车辟谣81分钟销售9万台",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YKeD67zp8q",
-          "author": "财联社",
-          "description": "万科董事会主席郁亮、总裁祝九胜、监事会主席解冻自报告披露之日起，自愿领取月薪税前1万元。尽管2021年万科归母净利润下降，郁亮放弃年度奖金，其2022年还从个人奖金中拨付280万元专项奖励公司员工。过去几年，郁亮的税前报酬总额超1200万元，祝九胜超1100万元，解冻超800万元。\n   \n媒体报道\n  \n万科董事会主席郁亮月薪降至税前1万元，曾拿千万年薪澎湃新闻\n  \n万科郁亮月薪降至税前一万元腾讯网/财联社/新浪科技\n  \n万科公告：今天起郁亮月薪1万新浪科技",
-          "link": "https://readhub.cn/topic/8YKeD67zp8q",
-          "publishedOn": "2024-03-29T03:21:03.000Z",
-          "wordCount": 193,
-          "title": "万科郁亮月薪降至税前一万元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLESNGQmew",
-          "author": "虎嗅网",
-          "description": "已有5名服用小林制药含红曲成分保健品的消费者死亡。\n   \n媒体报道\n  \n已造成5人死亡！小林制药中国公司回应：下架！退货退款！腾讯网\n  \n日本已有5人服用小林制药含红曲保健品后死亡腾讯网/中国证券网/新浪科技\n  \n拆解日本小林制药的红曲致死事件虎嗅网",
-          "link": "https://readhub.cn/topic/8YLESNGQmew",
-          "publishedOn": "2024-03-29T03:21:03.000Z",
-          "wordCount": 151,
-          "title": "日本已有5人服用小林制药含红曲保健品后死亡",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YJvxWAs3N1",
-          "author": "亿欧",
-          "description": "鹰瞳科技Airdoc（2251.HK）发布2023年度业绩报告，公司营收同比增长79.5%，毛利润同比增长124%，毛利率提升至61.3%。鹰瞳科技致力于通过人工智能技术提供眼健康解决方案，服务超过680万病例，识别出31,459例重大阳性案例。公司产品在基层医疗机构的覆盖网点数和检测次数均有显著增长。鹰瞳科技积极布局全球化业务，并在多个国家取得业务进展。公司产品已获得欧盟医疗器械法规认证，并荣获日内瓦国际发明展特别嘉许金奖。未来，鹰瞳科技将继续投入技术创新，扩大全球覆盖率，实现“让健康无处不在”的愿景使命。\n   \n媒体报道\n  \n鹰瞳科技发布2023年度业绩 营收增长79%，服务6.83百万病例亿欧\n  \n鹰瞳科技发布2023年度业绩 营收增长79%，服务6.83百万人次亿欧\n  \n医疗AI企业鹰瞳科技发布2023年度业绩 营收增长79%DoNews",
-          "link": "https://readhub.cn/topic/8YJvxWAs3N1",
-          "publishedOn": "2024-03-29T03:09:12.000Z",
-          "wordCount": 248,
-          "title": "医疗AI企业鹰瞳科技发布2023年度业绩 营收增长79%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLJf6CINfx",
-          "author": "腾讯网",
-          "description": "2023年中国医学装备市场规模达到1.27万亿元，同比增长10.4%，位居全球第二大单体国家市场。全年专利申请量占全球的67%，中高端医疗装备生产增速加快，创新医疗装备成果不断涌现，国产医学装备在医疗卫生机构的占比显著提高。\n   \n媒体报道\n  \n我国医学装备市场规模创新高，达1.27万亿元36Kr\n  \n2023年我国医学装备市场规模达1.27万亿元，同比增长10.4%腾讯网\n  \n我国医学装备市场规模创新高达1.27万亿元财联社",
-          "link": "https://readhub.cn/topic/8YLJf6CINfx",
-          "publishedOn": "2024-03-29T03:01:42.000Z",
-          "wordCount": 168,
-          "title": "我国医学装备市场规模创新高达1.27万亿元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLFIwXDrYH",
-          "author": "财联社",
-          "description": "三桶油集体上涨，中国石油涨幅超4%创新高，中国海油涨近3%，中国石化涨幅超2%。\n   \n媒体报道\n  \n“三桶油”集体拉升 中国石油涨超4%中国证券网\n  \n中字头个股震荡走高，中国石油大涨超6%36Kr\n  \n直击博鳌｜中石油执行董事黄永章：如今已到新能源业务提速阶段新浪科技\n  \n中国石油创8年新高 全资持股新能源公司新浪科技\n  \n油气股震荡拉升 中国石油涨超4%财联社\n  \n三桶油集体拉升，中国石油股价刷新阶段新高36Kr",
-          "link": "https://readhub.cn/topic/8YLFIwXDrYH",
-          "publishedOn": "2024-03-29T03:01:21.000Z",
-          "wordCount": 169,
-          "title": "三桶油集体拉升，中国石油股价刷新阶段新高",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLHUuJ8Nux",
-          "author": "财联社",
-          "description": "爱丽家居股价大幅下跌，盘中跌停，此前一日曾涨停并收获五连板。公司发布风险提示，股价走势偏离基本面，存在市场炒作。公司强调主营业务未变，生产经营正常，未受市场环境或行业政策重大影响。\n   \n媒体报道\n  \n爱丽家居盘中上演“天地板”，此前连续5日涨停腾讯网\n  \n爱丽家居上演“天地板”36Kr/财联社",
-          "link": "https://readhub.cn/topic/8YLHUuJ8Nux",
-          "publishedOn": "2024-03-29T03:01:19.000Z",
-          "wordCount": 143,
-          "title": "爱丽家居盘中上演“天地板”，此前连续5日涨停",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLFNQkfixO",
-          "author": "IT 之家",
-          "description": "CD Project正在考虑将《赛博朋克》或《巫师》IP授权给第三方制作手游。公司联合首席执行官Michał Nowakowski表示，他们一直在寻求此类合作机会，但目前尚未做出具体决定。关于合作模式的细节，他表示不会透露，但届时会公开信息。CD Project曾推出基于《巫师》的手游，但效果不佳，目前移动项目计划与外部工作室合作进行。公司目前正忙于多个项目，包括下一代《巫师》系列三部曲、《巫师》初代重制版以及《赛博朋克2077》的续作。\n   \n媒体报道\n  \n《赛博朋克2077》手游？CD Projekt：在谈，但没有预先设计的商业模式中关村在线\n  \n64%公司资源投入《巫师4》 赛博朋克2077也有新作中关村在线\n  \nCD Projekt 正考虑将《赛博朋克》或《巫师》IP 授权给手游IT 之家",
-          "link": "https://readhub.cn/topic/8YLFNQkfixO",
-          "publishedOn": "2024-03-29T02:50:37.000Z",
-          "wordCount": 245,
-          "title": "CD Projekt 正考虑将《赛博朋克》或《巫师》IP 授权给手游",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLHUwP8fUW",
-          "author": "财联社",
-          "description": "万科总裁祝九胜在业绩说明会上表示，万科与多家保险公司有合作，险资主要通过债权计划支持万科的经营性业务，合作期限采用“5+1+1+。”模式，具体的合作期限由双方商定。万科对保险公司的长期支持表示感谢，这种耐心资金的支持使得万科在经营性业务上更加从容和有韧性，同时也增强了万科在转型过程中的决心。\n   \n媒体报道\n  \n万科祝九胜谈融资模式挑战：以前银行贷款是总对总 现在转化为项目制新浪科技\n  \n万科祝九胜：短期碰到挑战和压力，合作银行都支持万科并给出建议新浪科技\n  \n万科祝九胜：万科长期合作的银行有26家银行 银行在风险防范方面是公司同盟军财联社\n  \n万科：长期合作的银行有26家，银行在风险防范方面是公司同盟军36Kr\n  \n祝九胜回应万科与险资合作情况36Kr",
-          "link": "https://readhub.cn/topic/8YLHUwP8fUW",
-          "publishedOn": "2024-03-29T02:50:19.000Z",
-          "wordCount": 144,
-          "title": "祝九胜回应万科与险资合作情况",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLCV1NttJh",
-          "author": "IT 之家",
-          "description": "顺丰控股2023年年度报告显示，公司全年营业收入2584亿元，下降3.39%，但净利润同比增长33.4%至82.3亿元，扣非后净利润同比增长33.7%。每股收益增长33.9%，资产负债率下降至53.37%。经营活动现金流量净额为266亿元。速运物流板块收入同比增长9.7%，不含丰网业务，速运业务收入同比增长11.3%，件量同比增长16.2%。时效业务营收占总收入近一半，经济快递营收同比增长8.6%，快运业务营收同比增长18.5%，冷运业务营收同比增长19.7%，即时配送业务营收同比增长12.6%。\n   \n媒体报道\n  \n顺丰控股 2023 年营收 2584 亿元，同比下降 3.39%DoNews\n  \n顺丰控股 2023 年营收 2584 亿元，同比下降 3.39%，归母净利润 82.3 亿元中关村在线/IT 之家",
-          "link": "https://readhub.cn/topic/8YLCV1NttJh",
-          "publishedOn": "2024-03-29T02:49:52.000Z",
-          "wordCount": 343,
-          "title": "顺丰控股 2023 年营收 2584 亿元，同比下降 3.39%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLDwdvUEmW",
-          "author": "快科技",
-          "description": "根据Counterpoint Research的报告，2024年全球智能手机出货量预计将达到12亿部，同比增长3%。增长主要由经济型市场（150-249美元）和高端市场（600-799美元）驱动。新兴市场如印度、中东和非洲以及加勒比和拉丁美洲地区的经济型手机市场同比反弹11%。中国OEM制造商如OPPO、vivo、小米和传音集团在这些地区的投资加剧了市场竞争，推动了经济型手机需求。同时，高端市场预计将保持17%的同比增长，得益于GenAI智能手机的推出和可折叠手机的普及。苹果和华为预计将在高端市场中占据领先地位。\n   \n媒体报道\n  \n2024全球高端手机（600-799 美元）出货量预估增长17%：苹果、华为引领中关村在线\n  \n2024 全球高端手机（600-799 美元）出货量预估增长 17%：苹果、华为引领IT 之家\n  \n华为、苹果是最大赢家！今年高端手机出货量预计增长17%快科技\n  \n2024全球高端手机出货量预估增长17%：苹果、华为引领凤凰科技",
-          "link": "https://readhub.cn/topic/8YLDwdvUEmW",
-          "publishedOn": "2024-03-29T02:43:52.000Z",
-          "wordCount": 275,
-          "title": "2024全球高端手机出货量预估增长17%：苹果、华为引领",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL7VYe1LdG",
-          "author": "搜狐科技",
-          "description": "谷歌在安卓页面更新中介绍了其官方短信体验，并宣布苹果将在今年秋季为iPhone提供RCS支持。RCS被认为能提供高分辨率照片/视频、打字指示器和更好的群聊体验。苹果公司已确认将在明年晚些时候增加对RCS通用配置文件的支持，以提供更好的互操作性体验，并与iMessage结合使用，为用户提供最好、最安全的消息传递体验。在支持RCS后，iPhone上的RCS信息将显示为绿色气泡，而iMessage仍显示为蓝色以进行区分。\n   \n媒体报道\n  \n谷歌：苹果今年秋季将为 iPhone 引入 RCS 支持搜狐科技/IT 之家\n  \n谷歌：苹果2024年秋季将为iPhone引入RCS支持凤凰科技",
-          "link": "https://readhub.cn/topic/8YL7VYe1LdG",
-          "publishedOn": "2024-03-29T02:32:12.000Z",
-          "wordCount": 295,
-          "title": "谷歌：苹果今年秋季将为 iPhone 引入 RCS 支持",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL6n5TeAxu",
-          "author": "凤凰科技",
-          "description": "苹果公司获得了一项新专利，展示了其Apple Watch屏下摄像头技术。该技术允许摄像头隐藏在屏幕下方，同时不影响设备的正常使用，可应用于拍照、Face ID等功能。专利设计草图中，显示面板包含一个高透光区，以增加相机模块的透光率，其大小取决于多个相机参数。这种设计旨在实现更小的高透光区，同时提升相机模块的性能。\n   \n媒体报道\n  \n苹果Apple Watch新专利获批：配屏下摄像头，可拍照、追踪面部等凤凰科技\n  \n苹果 Apple Watch 新专利获批：配屏下摄像头，可拍照、追踪面部等IT 之家\n  \n苹果 Vision Pro 头显新专利获批：没有 Pencil 等手写笔，虚拟场景中作画也有卓越体验新浪科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YL6n5TeAxu",
-          "publishedOn": "2024-03-29T02:31:54.000Z",
-          "wordCount": 289,
-          "title": "苹果 Apple Watch 新专利获批：配屏下摄像头，可拍照、追踪面部等",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YKAY5LdxS9",
-          "author": "财联社",
-          "description": "邮储银行2023年年报显示，资产和负债总额均较上年增长超11%，营业收入和净利润分别增长2.25%和1.25%。董事会提议向全体股东每10股派发约2.61元人民币股息，总额约258.81亿元。\n   \n媒体报道\n  \n邮储银行2023年总资产同比增长11.8%，不良率0.83%21经济网\n  \n邮储银行(01658)发布年度业绩，归母净利润862.7亿元 同比增加1.23%新浪科技\n  \n邮储银行：2023年净息差2.01% 不良贷款率0.83%较上年末下降0.01个百分点新浪科技\n  \n邮储银行：截至2023年末净息差2.01% 不良贷款率0.83%财联社\n  \n邮储银行去年净赚超862亿增逾1%，不良“一升一降”澎湃新闻\n  \n邮储银行：2023年度存贷比持续提升 净息差2.01%继续保持同业领先新浪科技\n  \n邮储银行：2023年净利润864.24亿元 同比增长1.25%新浪科技\n  \n邮储银行2023年实现净利润864.24亿元中国证券网\n  \n邮储银行(06158)将于8月8日派末期股息每10股2.61元新浪科技\n  \n邮储银行：2023年净利862.7亿元，同比增1.23%新浪科技",
-          "link": "https://readhub.cn/topic/8YKAY5LdxS9",
-          "publishedOn": "2024-03-29T02:15:36.000Z",
-          "wordCount": 297,
-          "title": "邮储银行：2023年净利润864.24亿元 同比增长1.25%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YJup9AqsWU",
-          "author": "腾讯网",
-          "description": "国家信息中心在2024年学术年会上发布报告，预测2024年中国经济将呈现“前稳后高、持续向好”的走势，各季度增速更趋平缓，供需结构更均衡，就业和物价水平更稳定，预计全年GDP增长约5%。\n   \n媒体报道\n  \n国家信息中心报告：预计2024年GDP将增长5%左右36Kr/中国证券网/财联社\n  \n国家信息中心：今年中国经济前稳后高、持续向好腾讯网",
-          "link": "https://readhub.cn/topic/8YJup9AqsWU",
-          "publishedOn": "2024-03-29T02:10:46.000Z",
-          "wordCount": 198,
-          "title": "国家信息中心报告：预计2024年GDP将增长5%左右",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL3wAD8r2X",
-          "author": "凤凰科技",
-          "description": "苹果公司起诉前员工安德鲁·奥德违反保密协议和劳动法，要求至少2.5万美元赔偿。奥德在苹果公司担任iOS软件工程师五年，负责电池优化工作，期间向媒体泄露了公司大量敏感信息，包括“手记”应用、Vision Pro头显等。苹果公司在提起诉讼前曾尝试联系奥德提醒其遵守保密协议，但奥德仍继续泄露信息。苹果公司寻求补偿性和惩罚性赔偿，并表示将采取其他法律措施保护自身利益。\n   \n媒体报道\n  \n员工因向媒体曝料Vision Pro头显和“手记”等内容，被苹果索赔2.5万美元凤凰科技\n  \n员工因向媒体曝料 Vision Pro 头显和“手记”等内容，被苹果索赔 2.5 万美元IT 之家\n  \n前员工向媒体泄密 带走苹果数千条机密中关村在线",
-          "link": "https://readhub.cn/topic/8YL3wAD8r2X",
-          "publishedOn": "2024-03-29T01:50:24.000Z",
-          "wordCount": 268,
-          "title": "前员工向媒体泄密 带走苹果数千条机密",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL8DjyVJHo",
-          "author": "搜狐科技",
-          "description": "苹果公司申请了两项与Vision Pro相关的技术专利，包括一项头戴式设备，使用光发射器跟踪用户头显的位置和方向以实现无触控笔的虚拟作画，另一项技术可追踪用户手部动作，在AR场景下使用虚拟笔进行作画。同时，苹果还在测试新款Apple Pencil，并可能与Vision Pro头显兼容。\n   \n媒体报道\n  \n苹果申请与Vision Pro相关专利 预示设备将支持触控笔功能中关村在线\n  \n苹果为 Vision Pro 头显推出首部 Immersive Video 格式体育影片搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YL8DjyVJHo",
-          "publishedOn": "2024-03-29T01:50:03.000Z",
-          "wordCount": 347,
-          "title": "苹果申请与Vision Pro相关专利 预示设备将支持触控笔功能",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLALyHfeo0",
-          "author": "凤凰科技",
-          "description": "苹果公司获得了一项新专利，涉及一种输入设备，即妙控鼠标，允许用户在倾斜或离开桌面的情况下进行光标操作。该设备通过添加倾斜传感器，能够检测不同方向的倾斜动作和位置，实现立体交互，并可由用户自定义相关操作。\n   \n媒体报道\n  \n苹果公布妙控鼠标专利：可倾斜操作 可定制按键中关村在线\n  \n苹果妙控鼠标新专利：支持倾斜操作，探索立体式交互体验新浪科技/搜狐科技/IT 之家/凤凰科技",
-          "link": "https://readhub.cn/topic/8YLALyHfeo0",
-          "publishedOn": "2024-03-29T01:49:05.000Z",
-          "wordCount": 153,
-          "title": "苹果妙控鼠标新专利：支持倾斜操作，探索立体式交互体验",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YK6cVbxTQe",
-          "author": "快科技",
-          "description": "中国移动在杭州全球首发5G-A商用网络，并公布首批100个5G-A网络商用城市，计划年内扩展至全国超300个城市，建成全球最大规模的5G-A商用网络。中国移动副总经理高同庆出席活动并致辞，呼吁共同推进5G-A技术创新、产业链成熟和商用新模式发展。此外，中国移动还联合多家合作伙伴成立5G-A创新产业联盟和裸眼3D产业联盟，探索5G-A新应用和业务。\n   \n媒体报道\n  \n中国移动全球首发5.5G商用 首批100个城市出炉快科技/新浪科技\n  \n中国在全球率先商用5.5G，首批百城名单公布腾讯网\n  \n更快更准更稳，速率可达5G的10倍，中国移动全球首发5G-A商用部署搜狐科技\n  \n首批百城 年内扩至300+城！中国移动发布5G-A商用部署新浪科技\n  \n中国移动全球首发5G-A商用部署 年内拟扩至300+个城市新浪科技",
-          "link": "https://readhub.cn/topic/8YK6cVbxTQe",
-          "publishedOn": "2024-03-29T01:46:29.000Z",
-          "wordCount": 314,
-          "title": "中国移动全球首发5G-A商用部署 年内拟扩至300+个城市",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YLCWFSOkbl",
-          "author": "腾讯网",
-          "description": "中国物流与采购联合会发布的数据显示，今年1至2月份，中国社会物流总额达到55.4万亿元，同比增长5.9%，物流需求保持恢复态势，市场规模扩张。工业品物流需求稳步复苏，工业生产中超过六成产品产量增长。同时，进口物流总额同比增长8.7%，大宗商品进口物流量备货需求增强，多数品类进口物流量实现增长，其中铁矿砂、原油、煤及褐煤等进口物流量同比增长显著，农产品如粮食、干鲜瓜果及坚果的进口也有两位数的增长。\n   \n媒体报道\n  \n今年前两个月我国社会物流总额55.4万亿元，同比增长5.9%36Kr/腾讯网\n  \n同比增长5.9%！今年前两个月我国社会物流总额55.4万亿元澎湃新闻",
-          "link": "https://readhub.cn/topic/8YLCWFSOkbl",
-          "publishedOn": "2024-03-29T01:21:14.000Z",
-          "wordCount": 205,
-          "title": "今年前两个月我国社会物流总额55.4万亿元，同比增长5.9%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL52P1lOQK",
-          "author": "新浪科技",
-          "description": "小米汽车发布会在7点开始，9点结束，结束后小米通过短信向参与意向登记的员工发放了F码，持有F码的用户可以优先定购限量5000台的SU7创始版，F码在二手平台上被转卖，价格不等。小米SU7的售价分别为21.59万元，24.59万元和29.99万元，发布会后小米SU7的订单数量迅速破万。\n   \n媒体报道\n  \n小米汽车正式发放F码：24小时内定购创始版 可自选专属编号新浪科技\n  \n小米汽车发放F码：24小时内定购SU7创始版，可自选专属编号！F码被视为硬通货搜狐科技\n  \n小米汽车 SU7 正式发放 F 码：24 小时内定购创始版，可自选专属编号IT 之家/新浪科技\n  \n创始版瞬间售罄，服务器被挤爆，小米汽车被抢疯了搜狐科技",
-          "link": "https://readhub.cn/topic/8YL52P1lOQK",
-          "publishedOn": "2024-03-29T01:21:14.000Z",
-          "wordCount": 316,
-          "title": "小米汽车正式发放F码：24小时内定购创始版 可自选专属编号",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL7VTc4BgK",
-          "author": "搜狐科技",
-          "description": "小米SU7发布后，QQ音乐成为小米汽车首批生态合作方，为小米汽车智能座舱提供海量版权歌曲及便捷音乐功能。小米SU7搭载澎湃智能座舱，提供16.1英寸3K中控屏、7.1英寸翻转式仪表屏、56英寸抬头显示系统等配置，支持多任务柔性框架和手机应用PIN到车机桌面等功能。小米CarIoT生态全面向三方开放，提供统一标准化接口、丰富的通讯标准协议和系统底层的全面赋能。\n   \n媒体报道\n  \n小米汽车携手QQ音乐开启车载音娱新篇章搜狐科技\n  \nQQ 音乐成为小米汽车首批生态合作方，提供海量版权歌曲搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YL7VTc4BgK",
-          "publishedOn": "2024-03-29T01:06:20.000Z",
-          "wordCount": 212,
-          "title": "QQ 音乐成为小米汽车首批生态合作方，提供海量版权歌曲",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YKHIBHItKg",
-          "author": "36Kr",
-          "description": "长城汽车公布2023年年度报告，显示营收同比增长26.12%，达1732.12亿元，净利润同比下降15.06%，为70.23亿元，海外营收同比增长100.41%，达536.11亿元。销量方面，全年销量123万辆，同比增长15.85%，其中海外销量31.40万辆，同比增长82.37%，新能源汽车销量同比增长113.88%。研发投入110.34亿元，研发人员2.42万人，即将发布CoffeeOS 3和无图全场景NOA。\n   \n媒体报道\n  \n长城汽车去年净利降15%至70亿元，单车平均收入提高1.2万元澎湃新闻\n  \n长城汽车：2023年净利润70.22亿元，同比下降15.06%36Kr\n  \n长城汽车 2023 年营收 1732 亿元，同比增长 26.12%，创历史新高IT 之家",
-          "link": "https://readhub.cn/topic/8YKHIBHItKg",
-          "publishedOn": "2024-03-29T00:46:09.000Z",
-          "wordCount": 387,
-          "title": "长城汽车 2023 年营收 1732 亿元，同比增长 26.12%，创历史新高",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YL64lnz454",
-          "author": "快科技",
-          "description": "小米计划在年底推出SUV车型，继3月28日发布SU7后，该消息来源于可靠信源。责任编辑为王涵。\n   \n媒体报道\n  \n独家|知情人士称小米或将于年底发布SUV车型财联社\n  \n小米第二款车曝光：SUV车型 年底见！快科技\n  \n知情人士称小米或将于年底发布SUV车型36Kr/新浪科技",
-          "link": "https://readhub.cn/topic/8YL64lnz454",
-          "publishedOn": "2024-03-29T00:25:20.000Z",
-          "wordCount": 276,
-          "title": "知情人士称小米或将于年底发布SUV车型",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YKFCWQjGHK",
-          "author": "财联社",
-          "description": "怪兽充电2023年第四季度营收为4.866亿元，同比下降18.3%。净利润为240万元，而上年同期净亏损为3.345亿元。全年营收达30亿元，同比增长4.2%，净利润为8770万元，相较上年同期的净亏损7.112亿元有所改善。\n   \n媒体报道\n  \n怪兽充电2023年第四季度营收同比下降18.3%财联社\n  \n怪兽充电：2023年第四季度营收同比下降18.3%36Kr\n  \n怪兽充电第四季度营收4.87亿元 经调净利润570万元新浪科技\n  \n怪兽充电：2023年经调整净利润为1.08亿元人民币速途网",
-          "link": "https://readhub.cn/topic/8YKFCWQjGHK",
-          "publishedOn": "2024-03-29T00:13:12.000Z",
-          "wordCount": 268,
-          "title": "怪兽充电2023年第四季度营收同比下降18.3%",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
