@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-04T18:09:44.924Z</updated>
+    <updated>2024-04-05T00:34:13.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中车智轨在土耳其成功试跑，具有正线全自动驾驶能力]]></title>
+        <id>readhub-8YVa0fJmbV7</id>
+        <link href="https://readhub.cn/topic/8YVa0fJmbV7"/>
+        <updated>2024-04-05T00:30:48.000Z</updated>
+        <summary type="html"><![CDATA[中国中车自主研发的智轨电车在土耳其伊斯坦布尔成功亮相并进行试跑，该电车为全新四编组车型，拥有流线型设计和高铁动车组的风格。它配备了分散式动力系统、轻量化设计以及智能驾驶技术，能够实现有人值守的全自动驾驶，时速可达100km/h，最大载客量超420人。此次试跑的线路长约40km，设有37座站点，穿越了伊斯坦布尔的主要干道和人口密集区，是重要的通勤路线。此次试跑标志着智轨电车迈向欧洲市场的重要一步，并受到了土耳其社会的广泛关注。
+   
+媒体报道
+  
+中车智轨在土耳其成功试跑，具有正线全自动驾驶能力凤凰科技/中关村在线/IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红米Turbo 3跑分曝光：单核达1981分]]></title>
+        <id>readhub-8YWa424h33s</id>
+        <link href="https://readhub.cn/topic/8YWa424h33s"/>
+        <updated>2024-04-05T00:28:21.000Z</updated>
+        <summary type="html"><![CDATA[红米Turbo3手机的性能配置曝光，GeekBench 6跑分显示其单核成绩超过骁龙8 Gen2，多核成绩达到5526分。新机将提供最高16GB内存，使用LPDDR5X和UFS4.0存储技术，旨在重塑中端手机市场性能标准。
+   
+媒体报道
+  
+红米Turbo 3跑分曝光：单核达1981分！搜狐科技/中关村在线
+  
+红米Turbo 3跑分曝光：单核达1981分凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星承认 Galaxy S23 更新 One UI 6.1 后偶发触控不灵敏问题]]></title>
+        <id>readhub-8YWhKvhAylR</id>
+        <link href="https://readhub.cn/topic/8YWhKvhAylR"/>
+        <updated>2024-04-05T00:27:33.000Z</updated>
+        <summary type="html"><![CDATA[三星确认Galaxy S23系列在升级One UI 6.1后出现触控不灵敏问题，原因系谷歌Discover Feed应用的Bug。公司正与谷歌合作解决问题，并建议用户可通过清除谷歌应用数据临时解决此问题。
+   
+媒体报道
+  
+三星承认 Galaxy S23 更新 One UI 6.1 后偶发触控不灵敏问题搜狐科技
+  
+“都是谷歌的错”：三星回应 Galaxy S23 系列手机更新 One UI 6.1 后偶发触控不灵敏问题IT 之家
+  
+“都是谷歌的错”：三星承认Galaxy S23系列手机更新One UI 6.1后偶发触控不灵敏问题凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16 Pro/Max 超窄边框技术遭遇量产挑战]]></title>
+        <id>readhub-8YWhKuV5foa</id>
+        <link href="https://readhub.cn/topic/8YWhKuV5foa"/>
+        <updated>2024-04-05T00:26:49.000Z</updated>
+        <summary type="html"><![CDATA[苹果正在推动其iPhone 16 Pro和iPhone 16 Pro Max采用超窄边框设计，但面临量产挑战。为实现更紧凑的边框设计，采用了Border Reduction Structure（BRS）技术，但目前供应商LG和三星的生产良率未达到苹果的标准。尽管如此，三星和LG预计仍将分别为iPhone 16系列提供OLED屏幕，而京东方可能为标准版和Plus版提供OLED屏幕。
+   
+媒体报道
+  
+iPhone 16 Pro/Max 超窄边框技术遭遇量产挑战搜狐科技
+  
+iPhone 16 Pro / Max 超窄边框技术遇量产挑战，LG、三星当前良率未达苹果预期IT 之家
+  
+iPhone 16 Pro/Max超窄边框技术遇量产挑战，LG、三星的良率未达苹果预期凤凰科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荣耀姜海荣：荣耀Magic6全系支持5.5G通信]]></title>
         <id>readhub-8YVBRji8yXP</id>
@@ -2432,604 +2498,6 @@ EU may require Apple to let iPhone owners delete the Photos app9to5Mac]]></summa
 新加坡金管局发布针对数字支付代币服务提供商的新规，纳入用户保护和金融稳定性要求Odaily]]></summary>
         <author>
             <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米汽车火到华尔街，高盛预计SU7将成中国销量前三]]></title>
-        <id>readhub-8YSWozhDkwa</id>
-        <link href="https://readhub.cn/topic/8YSWozhDkwa"/>
-        <updated>2024-04-02T12:26:48.000Z</updated>
-        <summary type="html"><![CDATA[高盛和摩根大通的研报指出，小米汽车的SU7型号预订量打破行业纪录，预计销量和平均售价表现出色，因此对小米集团的营收预测进行了上调。这显示出小米汽车业务的开端非常强劲，预计会在短期到中期内引发股价的强烈正面反应。
-   
-媒体报道
-  
-小米汽车火到华尔街！高盛预计SU7将成中国销量前三搜狐科技/快科技
-  
-小米汽车火到华尔街，高盛预计SU7将成中国销量前三凤凰科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邮储银行行长刘建军：2024年商业银行净息差收窄趋势仍在继续]]></title>
-        <id>readhub-8YRwDAQ7cyP</id>
-        <link href="https://readhub.cn/topic/8YRwDAQ7cyP"/>
-        <updated>2024-04-02T12:15:47.000Z</updated>
-        <summary type="html"><![CDATA[中国邮政储蓄银行在2023年度业绩发布会上提出，面对持续缩窄的商业银行净息差趋势，将采取五大差异化增长策略，以适度增长贷款规模。在负债端，邮储银行计划巩固付息水平，提升活期存款比例，并管控中长期贷款。
-   
-媒体报道
-  
-直击业绩发布会|邮储银行公布多项措施保持息差领先优势21经济网
-  
-邮储银行零售业务总监梁世栋：存款利率下调 一季度居民投资理财和基金有所改善新浪科技
-  
-邮储银行副行长徐学明谈中收：在目前的市场环境中表现不错 未来将继续重点推进新浪科技
-  
-邮储银行：着手新一轮储蓄代理费率调整准备工作 已进行多轮次模拟测算财联社/新浪科技
-  
-邮储银行行长刘建军：2024年商业银行净息差收窄趋势仍在继续新浪科技
-  
-邮储银行行长刘建军：2023年取得了一些逆周期的显著变化新浪科技
-  
-邮储银行行长：今年净息差收窄趋势或仍持续，将努力使息差优于同业水平新浪科技/澎湃新闻]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家邮政局约谈上海韵达货运有限公司]]></title>
-        <id>readhub-8YSVDXt4heR</id>
-        <link href="https://readhub.cn/topic/8YSVDXt4heR"/>
-        <updated>2024-04-02T11:50:51.000Z</updated>
-        <summary type="html"><![CDATA[国家邮政局市场监管司因浙江义乌韵达快递企业违规处理退货件问题，约谈了韵达快递总部，要求其加强管理，迅速整改，保障用户权益，并配合调查处理义乌韵达北苑网点的违规行为。
-   
-媒体报道
-  
-上海韵达货运有限公司被国家邮政局约谈新浪科技
-  
-国家邮政局约谈上海韵达货运有限公司财联社/中国证券网/澎湃新闻
-  
-退件快递变“盲盒”？国家邮政局约谈韵达腾讯网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破局 AI 数据中心用电荒，美国政府正探索兴建核电站]]></title>
-        <id>readhub-8YS9mXA7Egt</id>
-        <link href="https://readhub.cn/topic/8YS9mXA7Egt"/>
-        <updated>2024-04-02T11:36:46.000Z</updated>
-        <summary type="html"><![CDATA[美国能源部长詹妮弗·格兰霍姆表示，由于AI的快速发展超出了电网的承载能力，美国正在积极探索核电站解决方案，以满足AI数据中心的用电需求。美国能源部正在与包括微软、谷歌和亚马逊在内的超大规模企业商谈，考虑建立核聚变和核裂变发电厂。格兰霍姆已与微软进行了深入探讨，考虑在微软数据中心附近建设核反应堆处理AI训练和推理的负载。希望通过与微软的成功合作，进一步推广核电站解决方案，缓解用电需求，满足AI数据中心的高速发展。微软正在投资小型模块化反应堆（SMRs）微反应器能源战略，这可能成为其他大型科技公司效仿的榜样。
-   
-媒体报道
-  
-破局 AI 数据中心用电荒，美国政府正探索兴建核电站搜狐科技/IT 之家
-  
-破局AI数据中心用电荒，美国政府正探索兴建核电站凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国办：所有地方融资信用服务平台统一纳入全国一体化平台网络]]></title>
-        <id>readhub-8YSWNdldY34</id>
-        <link href="https://readhub.cn/topic/8YSWNdldY34"/>
-        <updated>2024-04-02T11:31:28.000Z</updated>
-        <summary type="html"><![CDATA[国务院办公厅发布通知，印发《统筹融资信用服务平台建设提升中小微企业融资便利水平实施方案》。方案旨在通过建设融资信用服务平台，解决银企信息不对称问题，降低企业融资成本，提升中小微企业融资便利水平。方案包括加大平台建设统筹力度、优化信息归集共享机制、深化信用数据开发利用、保障措施等内容。
-   
-媒体报道
-  
-国务院办公厅：开发信用融资产品36Kr
-  
-国务院办公厅印发《统筹融资信用服务平台建设提升中小微企业融资便利水平实施方案》中国证券网
-  
-国务院办公厅：所有地方融资信用服务平台统一纳入全国一体化平台网络36Kr
-  
-国办：统筹融资信用服务平台建设 提升中小微企业融资便利水平实施方案新浪科技
-  
-国办：所有地方融资信用服务平台统一纳入全国一体化平台网络新浪科技/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱驰汽车新增一则被执行人信息 执行标的1399万余元]]></title>
-        <id>readhub-8YSGwcjd8aU</id>
-        <link href="https://readhub.cn/topic/8YSGwcjd8aU"/>
-        <updated>2024-04-02T11:31:28.000Z</updated>
-        <summary type="html"><![CDATA[爱驰汽车（上海）有限公司近日新增被执行人信息，执行标的超1399万元，此前已有多条被执行人信息。该公司成立于2017年，注册资本10亿人民币，经营范围广泛，由爱驰汽车科技（上海）有限公司全资持股。去年因资金问题陷入停摆的爱驰汽车，目前已获得新一轮融资，计划放弃国内市场，转攻海外。同时，该公司曾面临破产审查，安吉汽车物流（上海）有限公司已向法院申请对其进行破产清算。
-   
-媒体报道
-  
-爱驰汽车新增一则被执行人信息 执行标的1399万余元手机中国
-  
-爱驰汽车上海公司被执行1399万DoNews
-  
-爱驰汽车上海公司被执行1399万：铅笔道]]></summary>
-        <author>
-            <name>铅笔道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为投资控股有限公司拟向股东分配股利人民币770.95亿元]]></title>
-        <id>readhub-8YSV6bOOktY</id>
-        <link href="https://readhub.cn/topic/8YSV6bOOktY"/>
-        <updated>2024-04-02T11:25:58.000Z</updated>
-        <summary type="html"><![CDATA[华为投资控股有限公司宣布拟向股东分配股利770.95亿元人民币。
-   
-媒体报道
-  
-华为拟分红770.95亿元！超15万人持股、人均近51万元快科技
-  
-华为拟向股东分配股利人民币770.95亿元澎湃新闻
-  
-华为投资控股有限公司拟向股东分配股利人民币770.95亿元36Kr]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[财政部发布2022年度地方预决算公开度排行榜]]></title>
-        <id>readhub-8YRwCZX7VyT</id>
-        <link href="https://readhub.cn/topic/8YRwCZX7VyT"/>
-        <updated>2024-04-02T11:21:46.000Z</updated>
-        <summary type="html"><![CDATA[2023年9月至11月，财政部对2022年度各省、自治区、直辖市、计划单列市预决算公开情况进行了专项检查，并形成了2022年度地方预决算公开度排行榜。广东省、河南省、湖南省、上海市、河北省、山东省、甘肃省、湖北省、黑龙江省、吉林省等省份位列前十。这是自2015年以来财政部第7次开展此类检查。
-   
-媒体报道
-  
-财政部发布2022年度地方预决算公开度排行榜澎湃新闻
-  
-地方财政“透明度”哪家强？财政部发布排行榜中国证券网/新浪科技/腾讯网
-  
-财政部发布2022年度地方预决算公开度排行榜，广东河南湖南位列前三澎湃新闻]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果开发出新款AI：可"看懂"屏幕内容并语音回复]]></title>
-        <id>readhub-8YRsG1PPu1A</id>
-        <link href="https://readhub.cn/topic/8YRsG1PPu1A"/>
-        <updated>2024-04-02T11:11:36.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司近日推出了一款名为ReALM的人工智能系统，该系统能通过语言模型技术精准解析模糊的屏幕内容，并深入理解对话和背景环境，提供自然流畅的语音助手交互体验。ReALM通过将视觉元素识别转化为语言处理问题，实现了性能上相较于传统技术的质的飞跃。研究显示，ReALM与专门针对内容指向优化的语言模型结合后，其性能已超越业界翘楚GPT-4。随着人工智能技术的发展，苹果正努力在该领域占据一席之地，并预计将在6月的全球开发者大会上推出全新大语言模型框架、“Apple GPT”聊天机器人及其生态系统中的其他AI功能。
-   
-媒体报道
-  
-苹果开发出新款AI：能"看懂"屏幕上内容并用语音回复网易科技
-  
-苹果开发出新款AI：可"看懂"屏幕内容并语音回复凤凰科技/快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星将在需求强劲的情况下将固态硬盘价格提高25%]]></title>
-        <id>readhub-8YQlJ5yqGxW</id>
-        <link href="https://readhub.cn/topic/8YQlJ5yqGxW"/>
-        <updated>2024-04-02T10:57:31.000Z</updated>
-        <summary type="html"><![CDATA[三星电子计划在未来几个月内，将固态硬盘产品价格提高25%，原因是市场对数据中心存储设备的需求激增，促使公司评估增加生产量以满足市场需求。
-   
-媒体报道
-  
-三星将在需求强劲的情况下将固态硬盘价格提高25%财联社
-  
-数据中心需求大幅提升，消息称三星计划二季度对企业级固态硬盘调涨至多 25%凤凰科技/IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电信完成全球首个 NR NTN 业务应用试点，在轮渡上实现 6Mbps 卫星互联网通信]]></title>
-        <id>readhub-8YRvUHzAHPv</id>
-        <link href="https://readhub.cn/topic/8YRvUHzAHPv"/>
-        <updated>2024-04-02T10:48:16.000Z</updated>
-        <summary type="html"><![CDATA[中国电信研究院、浙江公司、上海公司及北京捷蜂创智科技合作，在浙江舟山完成了全球首个非地面网络（NR NTN）业务应用试点。试点在舟山海域基于亚洲9号卫星，在10海里商用轮渡航线上，实现了面向轮渡乘客的语音和宽带互联网通信。该试点验证了NR NTN终端设备的小型化能力、动中通应用场景以及在复杂天气下的系统性能稳定性。小型化设备可提供6Mbps的数据业务下行稳定速率，语音通信质量可与地面移动网络相比。此次试点对于优化岛屿与海域网络覆盖提供了有效的解决方案，并在3GPP标准立项中取得了突破。
-   
-媒体报道
-  
-从终端设备到国际电信码号 解锁中国电信卫星通信的成长密钥搜狐科技
-  
-中国电信完成全球首个 NR NTN 业务应用试点，在轮渡上实现 6Mbps 卫星互联网通信IT 之家
-  
-中国电信完成全球首个NR NTN（非地面网络）业务应用试点，在轮渡上实现6Mbps卫星互联网通信艾瑞网
-  
-中国电信完成全球首个 NR NTN 业务应用试点，6Mbps 卫星网络通信搜狐科技]]></summary>
-        <author>
-            <name>艾瑞网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军：小米SU7首发9种配色 霞光紫最受欢迎]]></title>
-        <id>readhub-8YSBMdQETHz</id>
-        <link href="https://readhub.cn/topic/8YSBMdQETHz"/>
-        <updated>2024-04-02T10:32:06.000Z</updated>
-        <summary type="html"><![CDATA[小米SU7将于明天开始交付，首批订单量超4万，其中霞光紫最受欢迎。该车型提供9种外观颜色和4种内饰颜色选择，共有36种搭配方案，其中车漆免费的有三种，其它颜色需支付7000元选装费。
-   
-媒体报道
-  
-雷军：没想到小米SU7海湾蓝这么火 创造了奇迹快科技
-  
-加价7000也要选！雷军：小米SU7霞光紫锁单量最大，海湾蓝、橄榄绿和雅灰免费搜狐科技
-  
-雷军：小米SU7首发9种配色 霞光紫最受欢迎快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本岩手县沿海地区发生6.1级地震 致1人受伤]]></title>
-        <id>readhub-8YRhugoT1bL</id>
-        <link href="https://readhub.cn/topic/8YRhugoT1bL"/>
-        <updated>2024-04-02T10:32:06.000Z</updated>
-        <summary type="html"><![CDATA[日本岩手县沿海地区于4月2日发生6.1级地震，震中位于岩手县沿岸北部，震源深度为80公里。此次地震导致青森县八户市一人受伤，但无生命危险。
-   
-媒体报道
-  
-四川阿坝州茂县发生3.0级地震，震源深度15千米新浪科技
-  
-日本岩手县沿海地区发生6.1级地震 致1人受伤新浪科技
-  
-四川阿坝州茂县发生3.0级地震 震源深度15千米新浪科技
-  
-马里亚纳群岛地区发生6.2级地震 震源深度10公里财联社
-  
-日本岩手县沿海地区发生6.1级地震中国证券网
-  
-震源深度70千米 日本本州岛发生6.0级地震快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoPro 运动相机指控影石 Insta360 侵犯专利，并在美申请 337 调查]]></title>
-        <id>readhub-8YS5UPT7XWj</id>
-        <link href="https://readhub.cn/topic/8YS5UPT7XWj"/>
-        <updated>2024-04-02T10:16:42.000Z</updated>
-        <summary type="html"><![CDATA[美国公司GoPro依据1930年关税法第337节规定，向美国国际贸易委员会提出申请，指控包括中国深圳影石创新科技有限公司（Insta360）在内的企业侵犯其专利权，请求进行337调查，并发布有限排除令和禁止令。涉及的产品包括Insta360的多款在售消费级产品。GoPro发起的337调查旨在禁止不公平竞争行为和任何向美国出口的不公平贸易行为。截至今日，Insta360尚未对此事进行官方回应。
-   
-媒体报道
-  
-GoPro 运动相机指控影石 Insta360 侵犯专利，并在美申请 337 调查新浪科技/IT 之家
-  
-影石 Insta360 回应被 GoPro 指控侵权：有信心胜诉DoNews
-  
-影石 Insta360 回应被 GoPro 运动相机指控侵权申请 337 调查：有信心胜诉IT 之家]]></summary>
-        <author>
-            <name>新浪科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝马与印度塔塔技术组建合资公司，开发自动驾驶软件]]></title>
-        <id>readhub-8YS4ltsaZ4J</id>
-        <link href="https://readhub.cn/topic/8YS4ltsaZ4J"/>
-        <updated>2024-04-02T10:14:26.000Z</updated>
-        <summary type="html"><![CDATA[宝马集团与印度塔塔技术公司计划成立一家合资企业，双方各持50%股份，新公司主要负责开发自动驾驶软件和仪表盘系统等，具体财务细节尚未公开。
-   
-媒体报道
-  
-宝马与印度塔塔技术组建合资公司，共同开发自动驾驶、车用娱乐软件IT 之家
-  
-宝马与印度塔塔成立50:50合资公司中关村在线
-  
-印度塔塔与宝马合作成立汽车软件和IT开发中心合资公司中关村在线
-  
-宝马与印度塔塔技术组建合资公司，开发自动驾驶软件新浪科技
-  
-宝马携手印度塔塔成立公司：主攻自动驾驶软件开发快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉推送FSD新版本 取消“Beta”测试版字样]]></title>
-        <id>readhub-8YQbJsBfh0W</id>
-        <link href="https://readhub.cn/topic/8YQbJsBfh0W"/>
-        <updated>2024-04-02T10:10:55.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉智能驾驶系统FSD进入新阶段，最新版本FSD V12去掉“Beta”测试版字样，以“Supervised”命名，意味着“有监督”。
-   
-媒体报道
-  
-特斯拉推送FSD新版本 取消“Beta”测试版字样新浪科技
-  
-特斯拉 FSD 正式取消“测试版”标签，改为 FSD（Supervised）IT 之家
-  
-为期三年终于转正！特斯拉正式取消FSD“测试版”标签快科技
-  
-特斯拉FSD终于“转正”！去掉Beta测试，进入Supervised时代猎云网]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里大文娱AI数字人“厘里”录制真人秀综艺，为国内首次]]></title>
-        <id>readhub-8YS14mmtzMW</id>
-        <link href="https://readhub.cn/topic/8YS14mmtzMW"/>
-        <updated>2024-04-02T10:02:23.000Z</updated>
-        <summary type="html"><![CDATA[《盒子里的猫》综艺节目中，阿里大文娱的数字人厘里作为出题官亮相，这是其继《异人之下》后首次参加综艺节目，并成为国内首个录制真人秀的超写实数字人。官方表示，厘里已接入“通义星尘”语义大模型，成为国内首个能无限自由对话的超写实数字人。
-   
-媒体报道
-  
-《异人之下》后，厘里再成国内首个录制真人秀综艺的AI数字人搜狐科技
-  
-阿里大文娱AI数字人“厘里”录制真人秀综艺，为国内首次36Kr
-  
-国内首次！阿里大文娱AI数字人“厘里”录制真人秀综艺快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家网信办发布生成式人工智能服务已备案信息 3月新增23家]]></title>
-        <id>readhub-8YSO44Kfprv</id>
-        <link href="https://readhub.cn/topic/8YSO44Kfprv"/>
-        <updated>2024-04-02T10:01:24.000Z</updated>
-        <summary type="html"><![CDATA[国家网信办发布生成式人工智能服务已备案信息，3月新增23家。为规范生成式人工智能服务的发展和应用，网信部门和相关单位按照《生成式人工智能服务管理暂行办法》要求，开展备案工作，并将已备案信息公告。具有舆论属性或社会动员能力的生成式人工智能服务需通过属地网信部门备案，备案信息将在官网定期更新。已上线的生成式人工智能应用需公示所使用的已备案服务情况，包括模型名称及备案号。
-   
-媒体报道
-  
-国家网信办发布生成式人工智能服务已备案信息， 3月新增23家36Kr
-  
-国家网信办发布生成式人工智能服务已备案信息中国证券网/新浪科技
-  
-国家网信办发布生成式人工智能服务已备案信息，3月新增23家搜狐科技
-  
-国家网信办发布生成式人工智能服务已备案信息 3月新增23家新浪科技
-  
-国家网信办：提供具有舆论属性或者社会动员能力的生成式人工智能服务的 可通过属地网信部门履行备案程序财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国银行副行长林景臻：境内人民币贷款连续25个月实现同比多增]]></title>
-        <id>readhub-8YSIMWpdhsT</id>
-        <link href="https://readhub.cn/topic/8YSIMWpdhsT"/>
-        <updated>2024-04-02T10:00:57.000Z</updated>
-        <summary type="html"><![CDATA[中国银行在2023年度业绩发布会上表示，其贷款业务在当年实现了增长量的增加、服务领域的扩大和信贷结构的优化。人民币贷款连续25个月同比增加，且增长速度在全行业中领先。外币贷款增速显著，特色业务优势突出。重点领域如普惠、民营、绿色产业等贷款增速超过平均水平，信贷结构进一步优化。对于2024年，中国银行计划继续服务实体经济，提高贷款投放的质量和效率，均衡分配投放，特别加大对于科技创新、民营小微、先进制造等领域的支持，并已制定相应的信贷增长计划。同时，将重点支持经济大省大市等增长主力区域，助力区域重大战略实施。
-   
-媒体报道
-  
-中国银行副行长林景臻：将着力提升消费贷款增长贡献 满足刚性和改善性住房融资需求财联社
-  
-中国银行副行长张毅：将综合施策提升资本回报率水平 保持稳定派息政策财联社
-  
-中国银行副行长林景臻：境内人民币贷款连续25个月实现同比多增新浪科技
-  
-中行副行长：今年净息差仍面临很大压力，将压降协议存款、结构性存款等高成本存款澎湃新闻
-  
-中国银行副行长张毅：加快充实资本实力 确保TLAC如期达标中国证券网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇通客车：2023年净利同比增139.36% 拟10派15元]]></title>
-        <id>readhub-8YQtsP9vbsq</id>
-        <link href="https://readhub.cn/topic/8YQtsP9vbsq"/>
-        <updated>2024-04-02T10:00:49.000Z</updated>
-        <summary type="html"><![CDATA[宇通客车公布2023年财报，营收同比增长24.05%至270.42亿元，净利润大增139.36%达到18.17亿元，每股收益0.82元。公司计划每10股派发15元现金红利。
-   
-媒体报道
-  
-宇通客车：2023年净利润同比增长139.36% 拟10派15元中国证券网
-  
-营收超270亿元！宇通客车2023年财报出炉，出口销量首次突破1万辆新浪科技/和讯网
-  
-宇通客车：2023年净利同比增139.36% 拟10派15元财联社
-  
-宇通客车：2023年净利润18.17亿元，同比增长139.36%36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浪潮海若大模型业务战略正式发布]]></title>
-        <id>readhub-8YSIEuq7a8S</id>
-        <link href="https://readhub.cn/topic/8YSIEuq7a8S"/>
-        <updated>2024-04-02T09:57:54.000Z</updated>
-        <summary type="html"><![CDATA[中共山东省委网络安全和信息化委员会办公室指导、青岛市大数据局支持、浪潮云主办的“云端眺望 向‘数’而生”数字创新生态大会在青岛市成功举办，发布海若大模型业务战略，通过数字生态创新共同体，联合生态伙伴合力拥抱大模型浪潮，培育行业新业态。
-   
-媒体报道
-  
-浪潮海若大模型业务战略正式发布雷锋网/牛透社/36Kr]]></summary>
-        <author>
-            <name>雷锋网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锦江酒店净利润同比增长691.14% 坚定不移走高质量发展道路]]></title>
-        <id>readhub-8YQsSKhHC8X</id>
-        <link href="https://readhub.cn/topic/8YQsSKhHC8X"/>
-        <updated>2024-04-02T09:55:38.000Z</updated>
-        <summary type="html"><![CDATA[锦江酒店2023年年度报告显示，全年收入达146.49亿元，同比增长29.53%。净利润为10.02亿元，同比增长691.14%。其中，国内酒店业务收入占总营收的近7成，海外业务收入同比增长23.4%。锦江酒店现金流情况明显好转，经营活动产生的现金流净额达到51.62亿元，同比增长177.59%。此外，锦江酒店不断扩充品牌矩阵，推动赛道多元化，并加大轻资产扩展力度，助力高质量发展。2023年，旗下门店开店数量达到12,448家，其中中高端酒店占比58.67%。公司拟提高2024年半年度现金分红比例，预计2024年将新增开业酒店1,200家，新增签约酒店2,500家。
-   
-媒体报道
-  
-锦江酒店净利润同比增长691.14% 坚定不移走高质量发展道路新浪科技
-  
-锦江酒店：2023年净利润高增691%，今年要开1200家酒店腾讯网
-  
-锦江酒店：去年归母净利润10亿元，同比增长691.14%澎湃新闻
-  
-锦江酒店：2023年净利润同比增长691.14% 拟10派5元中国证券网/财联社]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇瑞补课新能源：再推新品牌“越己”，首款车年底上市]]></title>
-        <id>readhub-8YSPwIEUf8v</id>
-        <link href="https://readhub.cn/topic/8YSPwIEUf8v"/>
-        <updated>2024-04-02T09:52:25.000Z</updated>
-        <summary type="html"><![CDATA[奇瑞汽车计划在今年第三季度推出全新新能源汽车品牌“越己”，首款车型为代号T1GC的混动紧凑型SUV，预计年底上市。新车将配备讯飞星火大模型和奇瑞最新底盘技术。目前，奇瑞正在公开招标T1GC的部分零部件供应商。
-   
-媒体报道
-  
-消息称奇瑞将再推新能源新品牌“越己”，首车年底上市IT 之家
-  
-奇瑞补课新能源：再推新品牌“越己”，首款车年底上市36Kr
-  
-奇瑞补课新能源：再推新品牌“越己”，首款车年底上市 | 36氪独家36Kr]]></summary>
-        <author>
-            <name>36Kr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国5G总连接数今年将超10亿]]></title>
-        <id>readhub-8YRpoeW8frj</id>
-        <link href="https://readhub.cn/topic/8YRpoeW8frj"/>
-        <updated>2024-04-02T09:51:33.000Z</updated>
-        <summary type="html"><![CDATA[中国5G连接数预计将在今年突破10亿大关，根据全球移动通信系统协会发布的报告，到2030年，中国移动行业对经济的年贡献将超过1万亿美元，目前5G移动连接数已超8亿，增长速度快于预期。
-   
-媒体报道
-  
-我国5G总连接数今年将超10亿搜狐科技
-  
-全国5G基站超过350万个，数实融合进一步提速中国证券网/搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建行副行长李民谈去年房地产类贷款：整体不良率符合管理预期]]></title>
-        <id>readhub-8YSNMj5rpvz</id>
-        <link href="https://readhub.cn/topic/8YSNMj5rpvz"/>
-        <updated>2024-04-02T09:51:33.000Z</updated>
-        <summary type="html"><![CDATA[建设银行副行长李民在2023年度业绩发布会上表示，截至年末，建行不良贷款率为1.37%，核心资产质量指标合理，完成了资产质量经营目标。对于房地产贷款和地方债务相关业务，不良率符合管理预期，资产质量稳定。李民认为，2024年建行能够保持资产质量稳定，宏观经济形势回升向好，新发放贷款投向合理，推动了贷款结构优化。建行将如履薄冰应对风险挑战，保证资产质量稳定。
-   
-媒体报道
-  
-建设银行副行长李运：3月份以来住房按揭贷款受理量环比有所回升财联社
-  
-建行副行长：今年一季度房贷提前还款量较去年四季度有所下降澎湃新闻
-  
-建行副行长：房地产类贷款结构合理，能保持今年资产质量稳定澎湃新闻
-  
-建行副行长李民谈去年房地产类贷款：整体不良率符合管理预期新浪科技
-  
-建行副行长李运谈今年前三个月房贷提前还款情况：规模较去年四季度有一定下降新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新能源车险赔付率接近85% 车险公司均在盈亏线边缘]]></title>
-        <id>readhub-8YRldYWYq0k</id>
-        <link href="https://readhub.cn/topic/8YRldYWYq0k"/>
-        <updated>2024-04-02T09:50:19.000Z</updated>
-        <summary type="html"><![CDATA[新能源汽车的投保难问题突出，由于车险公司认为新能源车的风险较高，承保意愿低，保费较燃油车高。研究表明，新能源车险的赔付率近85%，多数险企新能源车险业务亏损。此外，新能源车的出险率高于燃油车，智能化和自动驾驶功能带来的系统复杂性及驾驶特性差异，使得新能源车险价格高于燃油车。这要求监管部门出台标准，规范新能源车险市场。
-   
-媒体报道
-  
-保费高、被拒保，新能源车主续保难，新能源车险的赔付率平均接近85%36Kr
-  
-新能源车保费月初5800月底7225元 就这还被拒保背后：均赔款比燃油车高太多快科技
-  
-新能源车险赔付率接近85% 车险公司均在盈亏线边缘快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称特斯拉计划采用全新汽车装配技术，有望大幅降低生产成本]]></title>
-        <id>readhub-8YRumrk6iJW</id>
-        <link href="https://readhub.cn/topic/8YRumrk6iJW"/>
-        <updated>2024-04-02T09:46:59.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉计划采用一种名为“解构式”的全新汽车组装方式，以降低成本和简化装配流程。这种方式将摒弃传统流水线作业，改为在工厂不同区域同时组装汽车的不同部分，最后将几个大型子组件组合在一起。这种方法预计可将生产成本降低一半，所需工厂空间减少约40%。特斯拉首席执行官埃隆·马斯克暗示这种新技术将是“革命性的”，并将在2024年底或2025年初开始生产即将推出的售价2.5万美元的经济型车型。
-   
-媒体报道
-  
-特斯拉版“遥遥领先”来了！新车采用全新组装工艺 百年来造车技术最大变革？腾讯网
-  
-消息称特斯拉计划采用全新汽车装配技术，有望大幅降低生产成本IT 之家
-  
-大幅降低成本！特斯拉计划采用全新装配方案快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天猫服饰：2024将投10亿支持商家做内容直播]]></title>
-        <id>readhub-8YRxCI7oQhH</id>
-        <link href="https://readhub.cn/topic/8YRxCI7oQhH"/>
-        <updated>2024-04-02T09:44:33.000Z</updated>
-        <summary type="html"><![CDATA[天猫TopTalk活动上，天猫服饰总经理米澜宣布今年将继续重点发展新品和内容两大领域，推出“新品速爆计划”并增加10亿投资以支持商家的内容直播。
-   
-媒体报道
-  
-天猫服饰：2024将投10亿支持商家做内容直播36Kr
-  
-天猫服饰行业米澜：直播内容场成为服饰行业独立增长渠道亿邦动力网
-  
-天猫服饰：2024全面加速商家新品规模化爆发猎云网]]></summary>
-        <author>
-            <name>猎云网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电将与日本九州大学签订谅解备忘录，共同培育半导体人才]]></title>
-        <id>readhub-8YQ6w66t7rR</id>
-        <link href="https://readhub.cn/topic/8YQ6w66t7rR"/>
-        <updated>2024-04-02T09:41:53.000Z</updated>
-        <summary type="html"><![CDATA[台积电与日本九州大学计划签署合作备忘录，合作内容包括在九州大学开设半导体课程、进行研究合作，并安排学生实习。该合作旨在应对九州地区未来十年每年1000名工程师的缺口，同时台积电JASM的扩张也带动了当地招商引资的增长。
-   
-媒体报道
-  
-台积电或最快本月同日本九州大学就半导体合作签署谅解备忘录36Kr/财联社
-  
-台积电将与日本九州大学签订谅解备忘录，共同培育半导体人才IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米回应SU7试驾车异响漏液：正常现象]]></title>
-        <id>readhub-8YSOGASX2fq</id>
-        <link href="https://readhub.cn/topic/8YSOGASX2fq"/>
-        <updated>2024-04-02T09:26:29.000Z</updated>
-        <summary type="html"><![CDATA[小米SU7试驾车出现异响和漏液的消息经官方回应系误传。异响由石子侵入刹车盘引起，已处理。漏液则为试驾车辆行驶过积水区后的正常现象。整车检测无漏液问题，感谢大家关注。
-   
-媒体报道
-  
-小米回应SU7试驾车异响漏液：正常现象凤凰科技
-  
-小米回应SU7试驾车异响漏液：石子侵入刹车盘、行驶过积水区留有水迹属正常现象快科技
-  
-小米回应SU7试驾车异响漏液：系一颗石子侵入刹车盘位置造成财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯刘煜宏：多模态大模型将重塑内容产业]]></title>
-        <id>readhub-8YSBCsOEild</id>
-        <link href="https://readhub.cn/topic/8YSBCsOEild"/>
-        <updated>2024-04-02T09:25:09.000Z</updated>
-        <summary type="html"><![CDATA[腾讯云副总裁刘煜宏在成都表示，多模态大模型正在加速到来，并将重构整个内容产业。腾讯的混元大模型技术架构已升级为混合专家模型 (MoE) 架构，参数规模达万亿，擅长处理复杂场景和多任务场景，中文整体表现上也处于业界领先水平。目前，公司内部超过400个业务及场景已接入测试，文生图的能力已经被用于广告素材生成、UGC用户生成内容等领域。刘煜宏还透露，混元正在积极发展多模态模型，以进一步加强文生图、文生3D以及文/图生视频能力，并推进相关应用落地。同时，他们也在探索基于大模型全面升级的数智人、语音对话虚拟人、具身智能机器人等应用。
-   
-媒体报道
-  
-腾讯刘煜宏：腾讯混元大模型正在积极发展多模态模型及应用新浪科技/财联社/36Kr
-  
-腾讯刘煜宏：多模态大模型将重塑内容产业搜狐科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无创血糖血压腕表 香橙派推出Watch D Pro智能手表]]></title>
-        <id>readhub-8YSINNCdCmc</id>
-        <link href="https://readhub.cn/topic/8YSINNCdCmc"/>
-        <updated>2024-04-02T09:17:01.000Z</updated>
-        <summary type="html"><![CDATA[香橙派推出了一款名为Orange Pi Watch D Pro的智能手表新品，该手表能精确测量心率、血压和血糖等生命体征。产品设计理念是帮助用户实现智能化的健康监测。研发人员表示，该手表的血糖测量技术已经达到可以被医疗认证的程度。目前，具体配置和发售时间尚未公布。
-   
-媒体报道
-  
-无创血糖血压腕表 香橙派推出Watch D Pro智能手表搜狐科技/中关村在线
-  
-香橙派 Orange Pi Watch D Pro 手表发布，可无创监测血糖和血压IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
         </author>
     </entry>
     <entry>
