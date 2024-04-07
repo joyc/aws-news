@@ -2,10 +2,560 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-07T12:11:32.305Z</updated>
+    <updated>2024-04-07T18:08:13.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[李彦宏24年首场演讲定档4月16日 将带来三大开发神器]]></title>
+        <id>readhub-8Yaj5qdkswG</id>
+        <link href="https://readhub.cn/topic/8Yaj5qdkswG"/>
+        <updated>2024-04-07T17:01:07.000Z</updated>
+        <summary type="html"><![CDATA[在2024百度Create AI开发者大会上，李彦宏将发表主题为“人人都是创造者”的演讲，并展示百度AI技术的前沿成果。他将推出三大开发神器：智能体开发工具AgentBuilder、无代码编程工具AppBuilder和模型定制工具ModelBuilder，以降低AI时代的开发门槛。苹果公司可能会与百度就生成式AI展开合作，百度集团执行副总裁沈抖表示，百度与终端厂商的合作很有潜力。
+   
+媒体报道
+  
+李彦宏2024年首场演讲定档4月16日新浪科技/和讯网
+  
+李彦宏24年首场演讲定档4月16日 将带来三大开发神器手机中国/搜狐科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出货量突破2000万 米家空净与京东达成深度战略合作]]></title>
+        <id>readhub-8YamKRzLLR4</id>
+        <link href="https://readhub.cn/topic/8YamKRzLLR4"/>
+        <updated>2024-04-07T17:00:50.000Z</updated>
+        <summary type="html"><![CDATA[米家空气净化器新品发布会上宣布，全球出货量突破2000万台，连续8年销量第一。会上推出了针对小户型家庭需求的空气净化器5S，该产品可同时除甲醛和检测甲醛，性价比高。米家与京东达成战略合作，旨在为消费者提供高品质家电产品。米家表示，获得“最受用户欢迎空气净化器品牌”的荣誉是认可也是激励，未来将继续满足用户多样化的净化需求，关注健康生活方式。
+   
+媒体报道
+  
+出货量突破2000万 米家空净与京东达成深度战略合作手机中国
+  
+销量突破2000万台 米家空气净化器与京东达成深度战略合作快科技/新浪科技/搜狐科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米汽车回应在特斯拉充电桩无法拔出充电枪：三相电压严重不平衡，进入充电保护机制]]></title>
+        <id>readhub-8Yb7jxxjGJK</id>
+        <link href="https://readhub.cn/topic/8Yb7jxxjGJK"/>
+        <updated>2024-04-07T16:16:45.000Z</updated>
+        <summary type="html"><![CDATA[小米汽车针对用户反馈在特斯拉充电桩无法拔出充电枪的问题进行了回应。经核查，原因是由于用户所在社区电网的三相电压严重不平衡，导致小米SU7车辆充电机系统（OBC）连续报错并进入充电保护机制，从而无法响应解锁指令。小米汽车表示将通过OTA优化相关运行机制，以解决此问题。
+   
+媒体报道
+  
+小米汽车回应在特斯拉充电桩无法拔出充电枪：三相电压严重不平衡，进入充电保护机制搜狐科技
+  
+小米回应SU7在特斯拉充电桩无法拔枪：电网三相电压的问题搜狐科技/快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为WATCH 4 Pro太空探索等新品官宣 明早开启预售]]></title>
+        <id>readhub-8Yb4tOnNhI9</id>
+        <link href="https://readhub.cn/topic/8Yb4tOnNhI9"/>
+        <updated>2024-04-07T15:46:51.000Z</updated>
+        <summary type="html"><![CDATA[华为终端官方宣布将于4月8日举行新品大咖秀，推出华为WATCH 4 Pro太空探索、华为WatchGT 4草木绿、华为手环9三款新品。预售将于4月8日10:08开启，正式开售时间为4月12日10:08。此外，华为计划在接下来5天内每晚7点直播新品介绍会，涉及不同品类产品。
+   
+媒体报道
+  
+华为WATCH 4 Pro太空探索官宣：明日开启预售快科技
+  
+华为 WATCH 4 Pro 太空探索手表预热：4 月 8 日晚 19:00 直播搜狐科技
+  
+华为WATCH 4 Pro太空探索等新品官宣 明早开启预售搜狐科技
+  
+华为 WATCH 4 Pro 太空探索手表开启预热：4 月 8 日晚 19:00 直播品鉴IT 之家]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为新手表曝光：无感丝滑召唤问界M9]]></title>
+        <id>readhub-8YatbcQhX8S</id>
+        <link href="https://readhub.cn/topic/8YatbcQhX8S"/>
+        <updated>2024-04-07T15:41:03.000Z</updated>
+        <summary type="html"><![CDATA[华为新款手表测试视频曝光，展示通过UWB技术实现无感控车，包括车辆识别、解锁等功能。该手表能根据距离依次递进地唤醒和迎宾问界M9，同时曝光的还有问界M9的全新鲲鹏车灯和天使之翼迎宾灯。
+   
+媒体报道
+  
+华为新手表曝光：无感丝滑召唤问界M9搜狐科技/快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青海柴达木发现大型金矿 可创造潜在经济价值超200亿元]]></title>
+        <id>readhub-8Yax1lNc6Fo</id>
+        <link href="https://readhub.cn/topic/8Yax1lNc6Fo"/>
+        <updated>2024-04-07T14:32:26.000Z</updated>
+        <summary type="html"><![CDATA[青海省柴达木地区自2021年以来在滩间山和五龙沟金矿发现大型金矿，新增金资源量达43.2吨，预计创造超200亿元的经济价值。这是该地区首次在大型金矿深部发现第二成矿富集空间，显示出巨大的金矿开发潜力，不仅可供矿山企业开发利用，保障生产，还能促进当地就业。
+   
+媒体报道
+  
+青海柴达木盆地发现大型金矿！潜在价值超200亿快科技
+  
+青海柴达木发现大型金矿，可创造潜在经济价值超200亿元36Kr
+  
+青海柴达木发现大型金矿 可创造潜在经济价值超200亿元新浪科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[采纳股份：美国FDA宣布对全资子公司发出进口警示]]></title>
+        <id>readhub-8Yae5b1BBV2</id>
+        <link href="https://readhub.cn/topic/8Yae5b1BBV2"/>
+        <updated>2024-04-07T14:21:45.000Z</updated>
+        <summary type="html"><![CDATA[采纳股份的全资子公司采纳医疗因不符合美国FDA的器械质量体系要求，收到进口警示，可能导致部分医疗器械产品被美国海关扣留，影响产品进入美国市场。公司公告此信息，以保护投资者的知情权。
+   
+媒体报道
+  
+进入美国FDA进口警示名录，九成收入靠海外的采纳股份这次有点难腾讯网/新浪科技
+  
+被美国FDA警示！上市公司：预计产生重大影响新浪科技
+  
+采纳股份：美国FDA宣布对全资子公司发出进口警示36Kr/财联社
+  
+被美国FDA警示！上市公司采纳股份：预计产生重大影响新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想与京东签署战略合作：未来三年在京东销售目标1200亿元]]></title>
+        <id>readhub-8YaySkr5Gmh</id>
+        <link href="https://readhub.cn/topic/8YaySkr5Gmh"/>
+        <updated>2024-04-07T13:35:47.000Z</updated>
+        <summary type="html"><![CDATA[联想与京东签署新的战略合作协议，将深化在AI营销、智能供应链、AI服务等方面的合作，共同推动AI设备落地，并在未来三年内力争实现联想在京东全渠道销售1200亿元的目标。此次合作将围绕联想全栈AI产品、方案和服务，加速AI PC等设备的普及，并共建AI终端产业生态，为用户提供更智能的AI应用生态体验。
+   
+媒体报道
+  
+联想与京东战略合作全面升级 三年销售目标1200亿财联社/凤凰科技
+  
+京东、联想重磅合作：三年销售目标1200亿！快科技
+  
+三年销售目标1200亿元 京东宣布与联想战略合作全面升级DoNews
+  
+京东与联想战略合作全面升级 三年销售目标1200亿新浪科技
+  
+联想与京东签署全新战略合作协议，三年销售目标 1200 亿IT 之家
+  
+三年销售目标1200亿！联想与京东战略合作全面升级新浪科技
+  
+联想与京东签署战略合作：未来三年在京东销售目标1200亿元新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美民调：全美住房成本不断上涨 超1/5民众节食凑房费]]></title>
+        <id>readhub-8YaiMAyWs06</id>
+        <link href="https://readhub.cn/topic/8YaiMAyWs06"/>
+        <updated>2024-04-07T13:05:57.000Z</updated>
+        <summary type="html"><![CDATA[美国一项民意调查显示，半数美国人正面临不断上升的住房成本压力，超过五分之一的人需通过节食等方式节省开支以支付房费，导致家庭经济负担加重，影响其他基本生活必需品的消费，迫使部分人加班或借贷以应对。
+   
+媒体报道
+  
+美民调：全美住房成本不断上涨 超1/5民众节食凑房费财联社
+  
+贷款利率居高不下，美国租房已比买房划算？腾讯网/新浪科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[供应商称苹果新iPad Pro/Air已“一再推迟”]]></title>
+        <id>readhub-8Ya5R6suWw3</id>
+        <link href="https://readhub.cn/topic/8Ya5R6suWw3"/>
+        <updated>2024-04-07T12:41:57.000Z</updated>
+        <summary type="html"><![CDATA[苹果即将在5月初推出新款iPad Pro和iPad Air机型，以及全新的妙控键盘和Apple Pencil。新设备将配备M3芯片、OLED显示屏、更薄的设计和其他多项改进。然而，由于先进显示屏的制造技术问题，发布时间经历了一再推迟。
+   
+媒体报道
+  
+古尔曼：苹果有望在 5 月第二周推出新款 iPad Pro / Air 平板IT 之家
+  
+供应商称苹果新iPad Pro/Air已“一再推迟”凤凰科技
+  
+苹果新款iPad Pro和iPad Air可能会在5月的第二周发布财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta下一代智能眼镜曝光，将融合AR与AI]]></title>
+        <id>readhub-8YaqbpXO0qb</id>
+        <link href="https://readhub.cn/topic/8YaqbpXO0qb"/>
+        <updated>2024-04-07T12:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Meta（前Facebook）十年前收购Oculus并成立Reality Labs，庆祝其成立十周年之际，预告即将推出首款AR眼镜，将整合Quest 3和雷朋Meta智能眼镜。Meta认为AR眼镜不会取代传统设备，而是作为产品线的补充。据悉，Meta计划在2025年发布带显示屏的智能眼镜，2027年推出成熟的AR眼镜。今年可能展示代号为Orion的真正AR眼镜，但具体发布时间未定。目前，Meta有VR头戴设备和智能眼镜两大硬件产品线，并传闻将推出多款新产品。第二代Meta雷朋眼镜已具备多项智能功能，并能接入Meta的多模态大模型。Meta对其即将推出的AR眼镜持乐观态度，预计这将吸引更多人的兴趣。
+   
+媒体报道
+  
+Meta 下一代智能眼镜曝光，将融合 AR 与 AI。爱范儿/搜狐科技
+  
+Meta下一代智能眼镜曝光，将融合AR与AI凤凰科技]]></summary>
+        <author>
+            <name>爱范儿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本拟向台积电熊本工厂提供逾1万亿日元补贴]]></title>
+        <id>readhub-8YaVAoLBrVL</id>
+        <link href="https://readhub.cn/topic/8YaVAoLBrVL"/>
+        <updated>2024-04-07T11:46:47.000Z</updated>
+        <summary type="html"><![CDATA[日本首相岸田文雄宣布，当局将向台积电在日本熊本县的新晶片工厂提供超过1万亿日元的补贴。岸田视察了该工厂，认为其能填补日本半导体产业的缺口，加强供应链发展，并对整个日本的广泛产业如电动车、电子业等产生正面影响。台积电总裁魏哲家表示，将在今年底开始在熊本县建设第二个厂房，预计2027年开始投产。
+   
+媒体报道
+  
+日本拟向台积电熊本工厂提供逾1万亿日元补贴和讯网
+  
+台积电日本工厂到2030年将实现60%本地采购凤凰科技
+  
+日本补贴台积电：7320亿凤凰科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年入535亿 京东健康被疑自己研发药品：官方回应]]></title>
+        <id>readhub-8YapKoYRHFM</id>
+        <link href="https://readhub.cn/topic/8YapKoYRHFM"/>
+        <updated>2024-04-07T11:42:31.000Z</updated>
+        <summary type="html"><![CDATA[京东健康回应业界猜测，明确表示目前及未来都不会涉足药品研发领域。公司解释近期关于新药研发的调查问卷是为了提升用户对药品和保健品过期的安全意识，促进其“过期免费换”服务。京东健康2023年业绩亮眼，总收入和净利润均实现增长，活跃用户数上升。平台第三方商家数量大幅增长，原研一类创新药线上首发数量可观，营养保健品类新品丰富，在线问诊咨询量每日超过45万次。
+   
+媒体报道
+  
+年入535亿，京东健康被疑自己研发药品：官方回应凤凰科技
+  
+年入535亿 京东健康被疑自己研发药品：官方回应快科技
+  
+京东健康将开启药品研发？回应：不在业务布局中，未来也不会投入36Kr]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米澄清：智米创始人苏峻与奇瑞合作的汽车业务，与小米集团无关]]></title>
+        <id>readhub-8YaoRRQ3QjG</id>
+        <link href="https://readhub.cn/topic/8YaoRRQ3QjG"/>
+        <updated>2024-04-07T11:32:32.000Z</updated>
+        <summary type="html"><![CDATA[小米集团发布声明，澄清智米科技创始人苏峻与奇瑞合作的汽车业务，与小米集团无关。智米科技是小米生态链企业，但其与奇瑞合作的新能源汽车项目，智米方面表示无股权和运营关联。苏峻个人在新车预热时，使用了小米的经典宣传语，但该造车项目并非小米集团或智米科技的一部分。
+   
+媒体报道
+  
+小米澄清：智米创始人苏峻与奇瑞合作的汽车业务，与小米集团无关搜狐科技
+  
+小米声明：智米苏峻个人与奇瑞合作造车 与自己无关快科技
+  
+小米澄清：智米创始人苏峻个人与奇瑞合作的汽车业务，与集团无关IT 之家]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家外汇管理局：进一步优化贸易外汇业务管理]]></title>
+        <id>readhub-8Yad1Etxtf6</id>
+        <link href="https://readhub.cn/topic/8Yad1Etxtf6"/>
+        <updated>2024-04-07T11:30:41.000Z</updated>
+        <summary type="html"><![CDATA[国家外汇管理局发布通知，优化贸易外汇业务管理，取消外汇局核准办理“贸易外汇收支企业名录”登记的要求，改由境内银行直接办理。海关特殊监管区域内企业办理货物贸易外汇收支业务，如进出口单位为其他机构，银行可根据展业原则审核交易真实性、合理性，并在涉外收支申报交易附言中注明“非报关人”。
+   
+媒体报道
+  
+外汇管理局：取消核准办理“贸易外汇收支企业名录”登记要求澎湃新闻
+  
+国家外汇管理局：进一步优化贸易外汇业务管理36Kr
+  
+国家外汇管理局关于进一步优化贸易外汇业务管理的通知新浪科技/21经济网
+  
+优化贸易外汇业务管理 国家外汇管理局推出6项政策措施中国证券网
+  
+国家外汇管理局公布2024年3月末外汇储备规模数据新浪科技]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清明假期跨区域人员流动量预计超7.5亿人次]]></title>
+        <id>readhub-8YZ5GHbCpF7</id>
+        <link href="https://readhub.cn/topic/8YZ5GHbCpF7"/>
+        <updated>2024-04-07T11:01:44.000Z</updated>
+        <summary type="html"><![CDATA[今年清明假期，预计全国跨区域人员流动量将达到75283.6万人次，日均25094.5万人次，同比增长56.1%，较2019年同期增长20.9%。
+   
+媒体报道
+  
+清明假期中国跨区域人员流动量预计超7.5亿人次新浪科技
+  
+全社会跨区域人员流动量预计超7.5亿人次新浪科技
+  
+清明假期全社会跨区域人员流动量预计超7.5亿人次新浪科技/澎湃新闻
+  
+清明假期：全社会跨区域日均人员流动量预计超2.5亿人次新浪科技
+  
+清明假期全社会跨区域人员流动量超7.4亿人次中国证券网/新浪科技/澎湃新闻
+  
+清明节假期：全社会跨区域人员流动量预计超7.5亿人次新浪科技
+  
+清明假期跨区域人员流动量预计超7.5亿人次新浪科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江苏海安商品房以旧换新政策落地：买卖房两件事一次办好]]></title>
+        <id>readhub-8YZR38P1uds</id>
+        <link href="https://readhub.cn/topic/8YZR38P1uds"/>
+        <updated>2024-04-07T10:43:02.000Z</updated>
+        <summary type="html"><![CDATA[江苏海安实施“以旧换新”政策，使购房者可将二手房作为新房的首付，简化买卖流程，首批15套房置换业主受益。
+   
+媒体报道
+  
+北京一楼盘“买一送一”？销售人员：仅限部分房源，需全款支付36Kr
+  
+江苏海安商品房以旧换新政策落地：买卖房两件事一次办好财联社
+  
+北京一楼盘“买一送一”？销售人员：仅限部分房源 需全款支付财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年我国将基本实现道路客运电子客票全覆盖]]></title>
+        <id>readhub-8Ya1957my4L</id>
+        <link href="https://readhub.cn/topic/8Ya1957my4L"/>
+        <updated>2024-04-07T10:24:55.000Z</updated>
+        <summary type="html"><![CDATA[我国计划在今年内实现使用居民身份证、护照、外国人永久居留身份证等多种实名证件网上购买电子客票。交通运输部要求各省级交通运输主管部门推进电子客票全覆盖，提高服务质量，并加快解决尚未覆盖电子客票服务的问题，以提升公众无纸化出行体验。
+   
+媒体报道
+  
+我国今年将基本实现道路客运电子客票全覆盖，货车司机和家人共享行驶状态IT 之家/艾瑞网
+  
+中国2024年将基本实现道路客运电子客票全覆盖，货车司机和家人共享行驶状态凤凰科技
+  
+今年我国将基本实现道路客运电子客票全覆盖新浪科技
+  
+今年内实现！交通运输部明确新浪科技]]></summary>
+        <author>
+            <name>艾瑞网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国开制造业基金等入股智光储能]]></title>
+        <id>readhub-8YafQyag3nx</id>
+        <link href="https://readhub.cn/topic/8YafQyag3nx"/>
+        <updated>2024-04-07T10:13:41.000Z</updated>
+        <summary type="html"><![CDATA[广州智光储能科技有限公司近日完成工商变更，新增国开制造业转型升级基金、南网能创股权投资基金、广东粤财产业投资基金等股东，注册资本从约1.5亿人民币增加至约2.1亿人民币。该公司成立于2018年，主要从事能源技术研究、智能电气设备制造、计算机应用电子设备制造和太阳能技术研究开发等业务。
+   
+媒体报道
+  
+国开制造业基金等入股智光储能财联社/DoNews
+  
+智光储能获国开制造业基金等投资：增资至2.1亿元铅笔道]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官宣：上汽出售印度公司部分股权，增利至少50亿元]]></title>
+        <id>readhub-8YabE89C8oi</id>
+        <link href="https://readhub.cn/topic/8YabE89C8oi"/>
+        <updated>2024-04-07T10:13:16.000Z</updated>
+        <summary type="html"><![CDATA[上汽集团宣布，其控股子公司MG Motor India将通过股权转让及增资扩股方式引入包括JSW Ventures Singapore在内的多家投资者。此举旨在深化国际经营战略，扩大在快速增长的印度市场的影响力，并提升MG品牌的市场份额。交易完成后，上汽集团对MGI的持股将降至49%，但依旧保持最大股东地位。预计此次交易将增加上汽集团净利润50-70亿元人民币。MGI自2017年成立以来，在印度市场销量逐年增长，2023年新能源车排名市场第二。同时，上汽与JSW集团合作，计划每3-6个月推出新产品，并扩大工厂产能至30万辆，以满足市场需求。
+   
+媒体报道
+  
+上汽集团收到MG印度公司265亿卢布股权转让款 保留超49%的投票权财联社
+  
+上汽集团：已收到印度JSW支付的265亿卢比股权转让款快科技
+  
+官宣：上汽出售印度公司部分股权，增利至少50亿元腾讯网]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超8.1万台，上汽乘用车发布3月销量：同比增长超20%]]></title>
+        <id>readhub-8Yaec1JnXyl</id>
+        <link href="https://readhub.cn/topic/8Yaec1JnXyl"/>
+        <updated>2024-04-07T10:07:14.000Z</updated>
+        <summary type="html"><![CDATA[上汽乘用车3月终端销量超8.1万辆，同比增长20%，1-3月累计销量近22.5万辆，同比增长25%。MG推出多项优惠措施，包括高额置换补贴和金融政策，新能源车购车现金优惠达2.4万元，MG Cyberster享1.1万元金融贴息。荣威D7 EV车型直降2万元，限时权益价12.98万元起，并推出六重礼遇。强势优惠政策预计将推动4月销量增长。
+   
+媒体报道
+  
+超8.1万台，上汽乘用车发布3月销量：同比增长超20%凤凰科技
+  
+超8.1万台！上汽乘用车发布3月销量：同比增长超20%中关村在线/快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深交所对6家“打新”违规机构开罚单]]></title>
+        <id>readhub-8YaaUpKOUgG</id>
+        <link href="https://readhub.cn/topic/8YaaUpKOUgG"/>
+        <updated>2024-04-07T10:00:35.000Z</updated>
+        <summary type="html"><![CDATA[深圳证券交易所官方网站于4月7日发布监管函，对4家新股报价机构采取书面警示措施，并明确要求这些机构在限期内提交整改报告。此外，对其中2家报价机构的负责人进行了约见问询。同时，对另外2家违规情节相对较轻的机构进行了口头警示。此次监管行动是为了规范新股发行秩序，督促网下机构投资者合规、专业、客观地进行报价。近期，深交所对6家网下报价机构进行了专项检查，包括3家私募基金、2家公募基金和1家保险公司。检查发现，这些机构在不同程度上存在违反交易所和证券业协会相关规则和要求的情况。根据监管协作备忘录的要求，中国证券业协会将根据深交所移交的检查结果线索，对相关违规情况采取自律管理措施。
+   
+媒体报道
+  
+4家书面警示，2家口头警示，深交所向打新违规机构“亮剑”中国证券网/新浪科技
+  
+强化监管！深交所对6家“打新”违规机构开罚单新浪科技
+  
+深交所连发4份监管函 剑指网下询价违规行为中国证券网
+  
+“打新”违规！深交所亮剑开罚单！和讯网
+  
+深交所对6家“打新”违规机构开罚单新浪科技/36Kr/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蒋芳任阿里网络技术公司执行董事]]></title>
+        <id>readhub-8YaKQSXWilA</id>
+        <link href="https://readhub.cn/topic/8YaKQSXWilA"/>
+        <updated>2024-04-07T09:57:32.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴（中国）网络技术有限公司发生工商变更，汪海卸任法定代表人、董事长兼总经理，由蒋芳接任。该公司成立于1999年，注册资本约60亿美元，淘宝（中国）软件有限公司、浙江天猫技术有限公司、阿里巴巴网络中国有限公司共同持股。对于近期旗下多家子公司高管变动，阿里方面表示属于常规工商注册信息变更。
+   
+媒体报道
+  
+蒋芳任阿里网络技术公司执行董事和讯网/新浪科技/DoNews
+  
+快讯 | 蒋芳任阿里网络技术公司执行董事新浪科技]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国央行连续第17个月增持黄金储备]]></title>
+        <id>readhub-8YabwizsDjO</id>
+        <link href="https://readhub.cn/topic/8YabwizsDjO"/>
+        <updated>2024-04-07T09:55:53.000Z</updated>
+        <summary type="html"><![CDATA[中国连续第17个月增持黄金储备，3月末黄金储备达到7274万盎司，较2月末的7258万盎司有所增加。
+   
+媒体报道
+  
+人民银行：3月末黄金储备为7274万盎司中国证券网
+  
+央行连续第17个月增持黄金储备新浪科技
+  
+中国央行连续第17个月增持黄金储备财联社/36Kr/腾讯网]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长安汽车：1-3月长安汽车销量同比增加13.87%]]></title>
+        <id>readhub-8Yagb7lKUjW</id>
+        <link href="https://readhub.cn/topic/8Yagb7lKUjW"/>
+        <updated>2024-04-07T09:53:40.000Z</updated>
+        <summary type="html"><![CDATA[长安汽车公告显示，今年前三个月销量达到69.21万辆，同比增长13.87%。其中，自主品牌销量58.88万辆，增加13.57%，自主乘用车销量43.73万辆，增长10.43%，海外自主品牌销量10.9万辆，大幅增长80.10%。
+   
+媒体报道
+  
+长安汽车3月产销快报：自主新能源汽车销量增47.49%铅笔道
+  
+长安汽车：1-3月长安汽车销量同比增加13.87%36Kr
+  
+长安汽车 Q1 销量 69.21 万辆：同比增长 13.87%，自主品牌占比超 85%IT 之家]]></summary>
+        <author>
+            <name>铅笔道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网传理想L6 Pro车型定价25.98万，官方回应]]></title>
+        <id>readhub-8Yagkxf3qWU</id>
+        <link href="https://readhub.cn/topic/8Yagkxf3qWU"/>
+        <updated>2024-04-07T09:41:45.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车回应网络流传的理想L6售价及参数配置，指出所有价格猜测都是不准确的，最终价格将以发布会公布为准。L6是一款中大型SUV，拥有标准双电机四驱系统，CLTC续航1390km，以及前双叉臂和后五连杆独立悬架，配备CDC减振器。网传的L6 Pro和L6 Max售价分别为25.98万元和28.98万元。理想汽车强调L6是全新正向开发产品，并在工信部第379批公告中首次亮相，保持家族设计风格。
+   
+媒体报道
+  
+理想L6起售价仅25.98万元起 官方回应：消息不实快科技
+  
+网传理想L6 Pro车型定价25.98万，官方回应凤凰科技
+  
+网传理想 L6 Pro 车型定价 25.98 万，官方回应：目前网上对价格的猜测都是假的IT 之家]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紫光集团等成立汽车电子公司 注册资本2000万]]></title>
+        <id>readhub-8YaWr5AteMs</id>
+        <link href="https://readhub.cn/topic/8YaWr5AteMs"/>
+        <updated>2024-04-07T09:25:01.000Z</updated>
+        <summary type="html"><![CDATA[北京紫光智行汽车电子科技有限公司近日成立，注册资本2000万人民币，经营范围涉及数字技术服务、汽车零部件研发与制造等多个领域。该公司由紫光集团旗下企业和北京新紫科技合伙企业等共同持股。
+   
+媒体报道
+  
+紫光集团等成立汽车电子公司 注册资本2000万财联社
+  
+紫光集团等2000万元成立汽车电子公司36Kr
+  
+紫光集团等成立汽车电子公司  注册资本2000万DoNews]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中信证券：市场博弈趋于复杂 配置继续偏向红利]]></title>
+        <id>readhub-8YaYAkmcd8x</id>
+        <link href="https://readhub.cn/topic/8YaYAkmcd8x"/>
+        <updated>2024-04-07T09:01:57.000Z</updated>
+        <summary type="html"><![CDATA[中信证券最新研报指出，当前A股市场正从增量资金推动转变为存量资金博弈，市场博弈趋于复杂，波动或明显加大。配置上建议继续偏向红利。主要原因是，海外补库周期影响下，国内经济运行状况明显超市场预期。此轮加仓过程明显钝化，公募存量产品赎回情况有所好转，外资回流有所放缓。配置型资金和交易型资金在红利和资源股形成共振。
+   
+媒体报道
+  
+中信证券：市场博弈趋于复杂，配置继续偏向红利36Kr
+  
+中信证券：上调中国黄金国际目标价至60港元，看好公司的配置价值36Kr
+  
+中信证券：市场博弈趋于复杂 配置继续偏向红利财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亿航智能EH216-S获得生产许可证 成为全球首个三证齐全eVTOL飞行器]]></title>
+        <id>readhub-8YabaxOKhCZ</id>
+        <link href="https://readhub.cn/topic/8YabaxOKhCZ"/>
+        <updated>2024-04-07T08:36:13.000Z</updated>
+        <summary type="html"><![CDATA[亿航智能EH216-S无人驾驶载人航空器系统获得中国民用航空局颁发的生产许可证，成为全球首个同时拥有型号合格证、适航证和生产许可证的eVTOL飞行器，具备了量产和商业运营的资质。此前，该机型已在淘宝开售，售价239万元。
+   
+媒体报道
+  
+全球首个三证齐全 eVTOL 飞行器，亿航 EH216-S 获得生产许可证搜狐科技
+  
+亿航智能EH216-S获得生产许可证 成为全球首个三证齐全eVTOL飞行器财联社/中国证券网
+  
+亿航智能EH216-S获生产许可证：全球首个三证齐全eVTOL飞行器快科技
+  
+全球首个三证齐全 eVTOL 飞行器，亿航智能 EH216-S 获得生产许可证IT 之家]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌AI竞赛失利：内部派系林立、项目混乱相互竞争]]></title>
+        <id>readhub-8YaTiaHiMEQ</id>
+        <link href="https://readhub.cn/topic/8YaTiaHiMEQ"/>
+        <updated>2024-04-07T08:21:48.000Z</updated>
+        <summary type="html"><![CDATA[谷歌在搜索和广告业务上领先，但在AI竞赛中遭遇挑战。尽管投入资源应对OpenAI的ChatGPT，谷歌内部竞争和官僚主义导致其推出的聊天机器人Bard性能不如ChatGPT，而其Gemini大模型也存在缺陷。内部AI团队与搜索广告团队之间的摩擦是主要问题所在。
+   
+媒体报道
+  
+谷歌AI竞赛失利：内部派系林立、项目混乱相互竞争凤凰科技/快科技
+  
+谷歌何以在AI竞赛中失利？内部派系林立争抢资源 研究项目混乱缺统一策略腾讯网]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克的人工智能公司 xAI 或融资 30 亿美元]]></title>
         <id>readhub-8Ya4Luv412i</id>
@@ -1814,290 +2364,6 @@ OpenAI：ChatGPT企业版需求正在急剧增长财联社]]></summary>
 曝华为P70系列发布待定 原定下周 现择机发布等通知手机中国/凤凰科技/搜狐科技]]></summary>
         <author>
             <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[港股跌幅扩大，恒生科技指数跌超2%]]></title>
-        <id>readhub-8YWvUoknAr8</id>
-        <link href="https://readhub.cn/topic/8YWvUoknAr8"/>
-        <updated>2024-04-05T04:16:43.000Z</updated>
-        <summary type="html"><![CDATA[港股市场普遍下跌，恒生科技指数跌幅超2%，恒指跌幅超1%。其中，科网股整体表现不佳，商汤下跌超7%，京东健康下跌超4%，且股价创下上市以来新低。
-   
-媒体报道
-  
-港股午评：指数整体呈高开低走 恒生科技指数跌逾1%财联社
-  
-港股跌幅扩大，恒生科技指数跌超2%36Kr
-  
-恒生科技指数跌幅扩大至2% 商汤跌超7%财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思科带头与微软等八家公司组成AI劳动力联盟]]></title>
-        <id>readhub-8YWrLP1OSXH</id>
-        <link href="https://readhub.cn/topic/8YWrLP1OSXH"/>
-        <updated>2024-04-05T04:06:04.000Z</updated>
-        <summary type="html"><![CDATA[The AI-Enabled ICT Workforce Consortium近日成立，由思科公司担任主席，成员还包括埃森哲、谷歌、IBM、英特尔、微软和SAP等八家公司。该联盟将评估人工智能对信息和通信技术行业各岗位的影响，并提供可行的见解和推荐学习计划。该举措有助于人们适应新时代需求，促进社会经济发展的平衡性和包容性，并为其他行业带来灵感和启示。
-   
-媒体报道
-  
-目标 10 年培养 9500 万 AI 人才，思科牵头微软等 8 家公司组建新联盟IT 之家
-  
-思科带头与微软等八家公司组成AI劳动力联盟搜狐科技/中关村在线]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软游戏《盗贼之海》将于4月30日登陆PS5版 玩家可跨平台游玩]]></title>
-        <id>readhub-8YWkCXED5UQ</id>
-        <link href="https://readhub.cn/topic/8YWkCXED5UQ"/>
-        <updated>2024-04-05T03:55:42.000Z</updated>
-        <summary type="html"><![CDATA[微软旗下的游戏《盗贼之海》宣布将于4月30日登陆PS5平台，并支持自适应扳机键、触觉反馈等特性。该游戏是一款在PC和Xbox平台上有较高评价的开放式冒险游戏。
-   
-媒体报道
-  
-《盗贼之海》4月30日在PS5平台上线 兼容跨平台游戏中关村在线
-  
-微软第一方《盗贼之海》PS5 版 4 月 30 日发售，支持跨平台游戏 / 角色数据互通功能IT 之家
-  
-微软游戏《盗贼之海》将于4月30日登陆PS5版 玩家可跨平台游玩中关村在线]]></summary>
-        <author>
-            <name>IT 之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[整合 3 月补丁，微软发布 Win11 2403 免费开发虚拟机]]></title>
-        <id>readhub-8YWtTkG1tn3</id>
-        <link href="https://readhub.cn/topic/8YWtTkG1tn3"/>
-        <updated>2024-04-05T03:46:49.000Z</updated>
-        <summary type="html"><![CDATA[微软发布了Windows Development Environment（WDE）v2403，这是一个基于Windows 11 Build 22621.3296的免费开发虚拟机。此版本不包括Moment 5功能，但可通过KB5035942轻松升级。每个虚拟机需要约70GB磁盘空间和8GB内存，用户可在2024年6月19日前免费使用。WDE v2403提供了一套为开发者创建Windows应用所需的工具，包括Visual Studio 2022社区版、Windows子系统Linux 2和Ubuntu等。
-   
-媒体报道
-  
-整合 3 月补丁，微软发布 Win11 2403 免费开发虚拟机搜狐科技/IT 之家
-  
-整合3月补丁，微软发布Win11 2403免费开发虚拟机凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多地启动房地产市场秩序专项整治行动]]></title>
-        <id>readhub-8YWwmW0ptXd</id>
-        <link href="https://readhub.cn/topic/8YWwmW0ptXd"/>
-        <updated>2024-04-05T03:40:50.000Z</updated>
-        <summary type="html"><![CDATA[近期，针对房地产市场中存在的谣言和不实信息，包括阜阳在内的多个城市陆续开展了房地产市场秩序专项整治行动。商丘强化了房产经纪机构备案管理和信访投诉机制，长沙则将在全市范围内进行房地产市场秩序的整治，重点打击违法违规行为，武汉住房保障和房屋管理局也对房地产开发企业的违规行为进行了通报，以保障市场秩序和优化营商环境。
-   
-媒体报道
-  
-多地启动房地产市场秩序专项整治行动澎湃新闻/财联社/36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国内地首个司美格鲁肽生物仿制药申报上市 诺和诺德回应专利争议]]></title>
-        <id>readhub-8YWyU6FjEDd</id>
-        <link href="https://readhub.cn/topic/8YWyU6FjEDd"/>
-        <updated>2024-04-05T03:40:42.000Z</updated>
-        <summary type="html"><![CDATA[国家药品监督管理局药品审评中心官网显示，杭州九源基因工程股份有限公司递交的司美格鲁肽注射液“吉优泰”上市申请获得受理，这是中国内地第一家申报上市的司美格鲁肽生物仿制药。首个仿制药的出现对于司美格鲁肽原研药厂诺和诺德在中国的市场扩张将构成潜在的挑战。诺和诺德回应专利争议称，司美格鲁肽的化合物专利将于2026年到期，专利无效案件目前在法院审理之中。诺和诺德强调希望国家继续支持和保护创新。
-   
-媒体报道
-  
-独家｜中国内地首个司美格鲁肽生物仿制药申报上市 诺和诺德回应专利争议腾讯网
-  
-独家|中国内地首个司美格鲁肽生物仿制药申报上市 诺和诺德回应专利争议新浪科技
-  
-中国内地首个司美格鲁肽生物仿制药申报上市 诺和诺德回应专利争议财联社]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储不着急降息 美国货币市场基金资产亦触及历史高位]]></title>
-        <id>readhub-8YWatr8Yi5y</id>
-        <link href="https://readhub.cn/topic/8YWatr8Yi5y"/>
-        <updated>2024-04-05T02:30:44.000Z</updated>
-        <summary type="html"><![CDATA[美国货币市场基金资产达到历史新高，因美联储官员表态不急于降息，市场预期短期利率将保持高位。数据显示，最近一周有705亿美元流入货币市场基金，使其总资产达到6.11万亿美元。只要美联储保持利率不变，预计资金将继续流向货币市场基金。自美联储开始紧缩货币政策以来，个人投资者开始大量购买货币基金。
-   
-媒体报道
-  
-美联储不着急降息 美国货币市场基金资产亦触及历史高位新浪科技/财联社
-  
-美联储卡什卡里：比特币仍无合法使用案例Odaily
-  
-美联储梅斯特预计年底前降息，全球货币市场资产创6.11万亿美元纪录；美股集体下跌，原油期货价格飙升和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌Pixel 8a或将于下个月发布 支持27W有线充电]]></title>
-        <id>readhub-8YWlzul16tx</id>
-        <link href="https://readhub.cn/topic/8YWlzul16tx"/>
-        <updated>2024-04-05T01:33:00.000Z</updated>
-        <summary type="html"><![CDATA[谷歌Pixel 8a预计将于下个月发布，作为Pixel 7a的继任者。新机型将配备6.1英寸OLED显示屏，支持120Hz刷新率和27W有线充电。颜色选择、系统支持以及可能的摄像头和电池升级也是其特点。
-   
-媒体报道
-  
-谷歌Pixel 8a或将于下个月发布 支持27W有线充电凤凰科技/手机中国/搜狐科技]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果 iOS 掌舵者构想连续互通未来：打造即时、无缝跨平台体验]]></title>
-        <id>readhub-8YWktzsrG7Y</id>
-        <link href="https://readhub.cn/topic/8YWktzsrG7Y"/>
-        <updated>2024-04-05T01:30:59.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司软件工程高级副总裁克雷格·费德里吉参与设计的跨设备应用连续互通专利获批，旨在打造即时、无缝的移动桌面体验。该专利进一步探索连续互通概念，允许用户在不同设备间平滑过渡任务，如从iPhone阅读电子邮件过渡到在Mac上起草回复。苹果公司期望通过这一功能，让用户在多设备之间切换时更加便捷，无需手动复制粘贴内容，从而提升工作效率。
-   
-媒体报道
-  
-苹果 iOS 掌舵者构想连续互通未来：打造即时、无缝跨平台体验搜狐科技
-  
-苹果iOS掌舵者构想连续互通未来：放下iPhone，无缝切换至Mac操作凤凰科技
-  
-苹果 iOS 掌舵者构想连续互通未来：放下 iPhone，无缝切换至 Mac 操作IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉全球销量再夺第一：38.68万辆]]></title>
-        <id>readhub-8YWjVp0Og3S</id>
-        <link href="https://readhub.cn/topic/8YWjVp0Og3S"/>
-        <updated>2024-04-05T01:02:20.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉在2024年第一季度实际新车交付量为38.68万辆，低于预期的42.5万辆，较上季度下降近20%，但仍然成为全球销量冠军。全球电动车市场自2023年下半年开始下滑，消费者更偏爱混合动力车型，比亚迪3月份的插电式混合动力车型销量远超纯电动车型。特斯拉面临需求下降、工厂火灾和货运航线改变等多重挑战，且没有提供混合动力车型选择。公司采取降价策略并期待Model 2车型的上市和产能全面开放，但目前Model 2上市时间推迟且产能情况未明。
-   
-媒体报道
-  
-4年来首次降低 ！特斯拉一季度全球交付量出现9%下滑凤凰科技/快科技
-  
-特斯拉全球销量再夺第一：38.68万辆凤凰科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中美商贸工作组举行第一次副部长级会议]]></title>
-        <id>readhub-8YWnkn8KxGo</id>
-        <link href="https://readhub.cn/topic/8YWnkn8KxGo"/>
-        <updated>2024-04-05T01:01:38.000Z</updated>
-        <summary type="html"><![CDATA[王受文应美方邀请于4月2日至5日访美，与美国商务部副部长拉戈共同主持中美商贸工作组第一次副部长级会议。会议就落实两国元首共识、商贸政策问题等进行沟通。王受文表达了对美对华加征关税、制裁中国企业等问题的关切。双方同意加强沟通合作，支持贸易投资促进活动，拉戈副部长将于2024年下半年访华主持第二次会议。王受文还在美期间与多个政府部门官员、工商界代表和智库学者进行了交流。
-   
-媒体报道
-  
-中美商贸工作组在美举行第一次副部长级会议腾讯网
-  
-中美商贸工作组举行第一次副部长级会议新浪科技/腾讯网/澎湃新闻/中国证券网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事发时车主有无玩手游成争议关键，苹果软件工程师驾驶特斯拉汽车死亡事件新进展]]></title>
-        <id>readhub-8YWilffnxyv</id>
-        <link href="https://readhub.cn/topic/8YWilffnxyv"/>
-        <updated>2024-04-05T00:55:44.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉因2018年一起致命车祸将于4月8日出庭。事故中，苹果工程师黄伟在Autopilot模式下驾驶Model X汽车时撞上护栏身亡。黄伟的家人起诉特斯拉，指控其汽车缺乏紧急刹车等安全功能。NTSB调查指出，Autopilot和驾驶员注意力分散共同导致事故。黄家律师称特斯拉和苹果公司秘密合作，苹果工程师詹姆斯・哈丁提供声明称黄伟在车祸发生时正在玩游戏。特斯拉计划邀请哈丁出庭作证。黄家律师批评特斯拉和苹果公司提交哈丁声明而非取证，剥夺了他们在庭审前询问的机会。
-   
-媒体报道
-  
-事发时车主有无玩手游成争议关键，苹果软件工程师驾驶特斯拉汽车死亡事件新进展IT 之家
-  
-苹果工程师开Model X死亡：特斯拉求苹果帮忙 司机事发时用iPhone玩游戏快科技
-  
-苹果软件工程师驾驶特斯拉汽车死亡事件新进展凤凰科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果裁减至少600名员工 涉及被终止的汽车及显示屏项目]]></title>
-        <id>readhub-8YWlbZUOWCy</id>
-        <link href="https://readhub.cn/topic/8YWlbZUOWCy"/>
-        <updated>2024-04-05T00:51:35.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司在美国加州解雇了600多名员工，原因是公司终止了汽车和智能手表显示屏项目。
-   
-媒体报道
-  
-苹果放弃汽车项目后续，披露文件显示该公司将裁员 600 多人IT 之家
-  
-苹果裁减至少600名员工 涉及被终止的汽车及显示屏项目新浪科技/财联社
-  
-造车失败后，苹果裁员600多人凤凰科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中车智轨在土耳其成功试跑，具有正线全自动驾驶能力]]></title>
-        <id>readhub-8YVa0fJmbV7</id>
-        <link href="https://readhub.cn/topic/8YVa0fJmbV7"/>
-        <updated>2024-04-05T00:30:48.000Z</updated>
-        <summary type="html"><![CDATA[中国中车自主研发的智轨电车在土耳其伊斯坦布尔成功亮相并进行试跑，该电车为全新四编组车型，拥有流线型设计和高铁动车组的风格。它配备了分散式动力系统、轻量化设计以及智能驾驶技术，能够实现有人值守的全自动驾驶，时速可达100km/h，最大载客量超420人。此次试跑的线路长约40km，设有37座站点，穿越了伊斯坦布尔的主要干道和人口密集区，是重要的通勤路线。此次试跑标志着智轨电车迈向欧洲市场的重要一步，并受到了土耳其社会的广泛关注。
-   
-媒体报道
-  
-中车智轨在土耳其成功试跑，具有正线全自动驾驶能力凤凰科技/中关村在线/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米Turbo 3跑分曝光：单核达1981分]]></title>
-        <id>readhub-8YWa424h33s</id>
-        <link href="https://readhub.cn/topic/8YWa424h33s"/>
-        <updated>2024-04-05T00:28:21.000Z</updated>
-        <summary type="html"><![CDATA[红米Turbo3手机的性能配置曝光，GeekBench 6跑分显示其单核成绩超过骁龙8 Gen2，多核成绩达到5526分。新机将提供最高16GB内存，使用LPDDR5X和UFS4.0存储技术，旨在重塑中端手机市场性能标准。
-   
-媒体报道
-  
-红米Turbo 3跑分曝光：单核达1981分！搜狐科技/中关村在线
-  
-红米Turbo 3跑分曝光：单核达1981分凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星承认 Galaxy S23 更新 One UI 6.1 后偶发触控不灵敏问题]]></title>
-        <id>readhub-8YWhKvhAylR</id>
-        <link href="https://readhub.cn/topic/8YWhKvhAylR"/>
-        <updated>2024-04-05T00:27:33.000Z</updated>
-        <summary type="html"><![CDATA[三星确认Galaxy S23系列在升级One UI 6.1后出现触控不灵敏问题，原因系谷歌Discover Feed应用的Bug。公司正与谷歌合作解决问题，并建议用户可通过清除谷歌应用数据临时解决此问题。
-   
-媒体报道
-  
-三星承认 Galaxy S23 更新 One UI 6.1 后偶发触控不灵敏问题搜狐科技
-  
-“都是谷歌的错”：三星回应 Galaxy S23 系列手机更新 One UI 6.1 后偶发触控不灵敏问题IT 之家
-  
-“都是谷歌的错”：三星承认Galaxy S23系列手机更新One UI 6.1后偶发触控不灵敏问题凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro/Max 超窄边框技术遭遇量产挑战]]></title>
-        <id>readhub-8YWhKuV5foa</id>
-        <link href="https://readhub.cn/topic/8YWhKuV5foa"/>
-        <updated>2024-04-05T00:26:49.000Z</updated>
-        <summary type="html"><![CDATA[苹果正在推动其iPhone 16 Pro和iPhone 16 Pro Max采用超窄边框设计，但面临量产挑战。为实现更紧凑的边框设计，采用了Border Reduction Structure（BRS）技术，但目前供应商LG和三星的生产良率未达到苹果的标准。尽管如此，三星和LG预计仍将分别为iPhone 16系列提供OLED屏幕，而京东方可能为标准版和Plus版提供OLED屏幕。
-   
-媒体报道
-  
-iPhone 16 Pro/Max 超窄边框技术遭遇量产挑战搜狐科技
-  
-iPhone 16 Pro / Max 超窄边框技术遇量产挑战，LG、三星当前良率未达苹果预期IT 之家
-  
-iPhone 16 Pro/Max超窄边框技术遇量产挑战，LG、三星的良率未达苹果预期凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
         </author>
     </entry>
     <entry>
