@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-08T18:10:02.433Z</updated>
+    <updated>2024-04-09T00:33:51.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[早盘：美股基本持平 特斯拉上涨4%]]></title>
+        <id>readhub-8YcaEXBptHZ</id>
+        <link href="https://readhub.cn/topic/8YcaEXBptHZ"/>
+        <updated>2024-04-08T23:01:40.000Z</updated>
+        <summary type="html"><![CDATA[美股周一早盘基本持平，特斯拉上涨4%。本周市场关注3月CPI和PPI通胀数据，以及大型银行的财报。投资者还关注美联储的降息路径。美国国债下跌，10年期国债收益率升至4.44%。地缘政治紧张局势下，美国WTI原油触及每桶87美元。个股方面，特斯拉CEO马斯克透露，该公司正致力于全力开发自动驾驶汽车技术。美国政府计划向台积电提供高达66亿美元的直接拨款补助以及至多50亿美元的贷款，支持该公司在美国亚利桑那州建立先进制程芯片工厂。
+   
+媒体报道
+  
+早盘：美股基本持平 特斯拉上涨4%新浪科技
+  
+美股大型科技股盘前涨跌不一，特斯拉涨超2%36Kr
+  
+美股三大指数收盘涨跌不一 特斯拉涨近5%财联社
+  
+美股三大指数收盘涨跌不一，特斯拉涨近5%36Kr]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智己汽车致歉：内审出现疏漏，小米SU7关键参数错误标注]]></title>
+        <id>readhub-8YdC1eBl4hR</id>
+        <link href="https://readhub.cn/topic/8YdC1eBl4hR"/>
+        <updated>2024-04-08T22:45:57.000Z</updated>
+        <summary type="html"><![CDATA[智己汽车就小米SU7关键参数错误标注事件发布致歉函，澄清小米SU7 Max版前后电机均采用SIC碳化硅模块，与智己L6技术一致。由于内容审核疏漏，智己汽车在发布会上错误标注了小米SU7的关键参数，对此表示诚挚歉意。同时，智己汽车强调尊重同行小米汽车，反对歪曲事实的造谣与抹黑，并表示已做好借助法律武器维护自身合法权益的准备。小米公司发言人则强调不接受智己汽车的轻描淡写道歉，并要求其正式公开道歉。此外，小米SU7保险费用在6000元至8000元之间，受到市场关注。
+   
+媒体报道
+  
+智己汽车就小米SU7一处关键参数的错误标注致歉搜狐科技
+  
+发布会小米SU7关键参数标注错误 智己汽车回应并致歉凤凰科技
+  
+智己汽车致歉：内审出现疏漏，小米SU7关键参数错误标注搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米SU7电动尾翼不可频繁升降：连续15次触发“防玩保护模式”]]></title>
         <id>readhub-8Ycex6KWVw0</id>
@@ -2848,346 +2886,6 @@ Xbox成立新团队 致力于游戏保存和向上兼容中关村在线
 运营商回应随手注销手机号风险：将再扩大“二次号码”解绑服务覆盖范围新浪科技/腾讯网/IT 之家]]></summary>
         <author>
             <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉网站显示：新的Cybertruck订单只能等待明年交付]]></title>
-        <id>readhub-8YZ2Ob53XtF</id>
-        <link href="https://readhub.cn/topic/8YZ2Ob53XtF"/>
-        <updated>2024-04-06T11:20:31.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉美国官网显示，现在下单的Cybertruck潜在买家需等到2025年才能收到车辆。全轮驱动版和高端版Cybertruck的预计交付时间均为2025年。特斯拉计划到2025年每年交付25万辆Cybertruck，但马斯克曾表示这一目标要到2025年才能实现。
-   
-媒体报道
-  
-特斯拉网站显示：新的Cybertruck订单只能等待明年交付36Kr/新浪科技/财联社
-  
-产能吃紧，特斯拉 Cybertruck 电动皮卡订单排到明年IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清明假期民航预计共保障旅客510.15万人次]]></title>
-        <id>readhub-8YYlFHMnYLU</id>
-        <link href="https://readhub.cn/topic/8YYlFHMnYLU"/>
-        <updated>2024-04-06T10:24:59.000Z</updated>
-        <summary type="html"><![CDATA[2024年清明假期期间，全国民航预计保障旅客510.15万人次，日均170.05万人次，以及航班46170班，日均15390班，航班正常率为87.59%。热门机场包括上海浦东、北京首都等，热门航线主要有上海—北京、成都—北京等。
-   
-媒体报道
-  
-清明假期最后一天迎返程高峰：官方提醒全国高速救援认准12122快科技
-  
-清明假期中国“小机场”城市机票提前预订量猛增新浪科技
-  
-邮轮入境游复苏 上海预计全年接待18艘邮轮中国证券网/新浪科技
-  
-清明假期民航预计共保障旅客510.15万人次新浪科技/财联社/36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中信建投：关注专网通信设备、物联网模组等产业链]]></title>
-        <id>readhub-8YZ5F1vdxYZ</id>
-        <link href="https://readhub.cn/topic/8YZ5F1vdxYZ"/>
-        <updated>2024-04-06T10:16:01.000Z</updated>
-        <summary type="html"><![CDATA[中信建投研报强调，通感一体化是5.5G和6G发展的关键，对低空经济的发展至关重要。因此，建议关注与通感一体化相关的专网通信设备、指挥调度系统、卫星导航与通信以及物联网模组等产业链。
-   
-媒体报道
-  
-中信建投：关注专网通信设备、物联网模组等产业链搜狐科技/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中央气象台10时继续发布暴雨黄色预警]]></title>
-        <id>readhub-8YWt7EYNKYq</id>
-        <link href="https://readhub.cn/topic/8YWt7EYNKYq"/>
-        <updated>2024-04-06T10:15:43.000Z</updated>
-        <summary type="html"><![CDATA[湖南东南部、江西中南部、福建中西部、广东中部和西北部等地的部分地区预计在4月6日14时至7日14时将有大到暴雨，局部有大暴雨，同时伴有短时强降水和强对流天气。
-   
-媒体报道
-  
-中央气象台4月5日18时继续发布强对流天气蓝色预警财联社
-  
-中央气象台4月6日18时发布暴雨蓝色预警财联社
-  
-中央气象台10时继续发布暴雨黄色预警中国证券网
-  
-中央气象台4月5日10时继续发布暴雨黄色预警财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国两架美联航飞机在旧金山机场发生剐蹭，无人员受伤]]></title>
-        <id>readhub-8YZ4Y12HLgt</id>
-        <link href="https://readhub.cn/topic/8YZ4Y12HLgt"/>
-        <updated>2024-04-06T10:00:50.000Z</updated>
-        <summary type="html"><![CDATA[旧金山国际机场发生两架美联航飞机剐蹭事故，无人受伤。
-   
-媒体报道
-  
-美国两架美联航飞机在旧金山机场发生剐蹭财联社/新浪科技
-  
-美国两架美联航飞机在旧金山机场发生剐蹭，无人员受伤澎湃新闻]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想汽车澄清：理想L6采用前双叉臂后五连杆悬架结构]]></title>
-        <id>readhub-8YYMHSHs9vU</id>
-        <link href="https://readhub.cn/topic/8YYMHSHs9vU"/>
-        <updated>2024-04-06T09:55:49.000Z</updated>
-        <summary type="html"><![CDATA[理想汽车针对市场上关于理想L6使用麦弗逊悬架的不实消息进行澄清，宣布理想L6实际上配备了前双叉臂后五连杆悬架结构，且最小离地间隙为180mm，略高于L9/L8/L7。该车型基于第二代增程平台开发，经过三年研发和超过20亿元的投资，并拥有全新的生产线。理想L6是一款针对年轻家庭设计的豪华五座中大型SUV，即将投入市场。
-   
-媒体报道
-  
-25万起售买不，全新理想L6实车曝光：银色下摆臂吸睛凤凰科技
-  
-25万起售买不 全新理想L6实车曝光：银色下摆臂吸睛快科技
-  
-理想汽车澄清：理想L6采用前双叉臂后五连杆悬架结构财联社
-  
-理想汽车澄清：理想 L6 采用前双叉臂后五连杆悬架结构，非麦弗逊悬架结构IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年一季度赴韩国济州岛海外游客数量达36.4万人次 同比激增519.5%]]></title>
-        <id>readhub-8YYcJOTP2A0</id>
-        <link href="https://readhub.cn/topic/8YYcJOTP2A0"/>
-        <updated>2024-04-06T09:46:25.000Z</updated>
-        <summary type="html"><![CDATA[今年第一季度，韩国济州岛接待游客总量与去年同期基本持平，其中韩国游客有所减少，而海外游客数量同比大幅增长519.5%。游客增加得益于航线的增多，尤其是国际邮轮航班和航空航线的增加。
-   
-媒体报道
-  
-小长假三天上海接待游客664.1万人次 全要素旅游消费106.8亿元新浪科技
-  
-清明假日3天 上海全要素旅游消费交易总金额超106亿元新浪科技
-  
-清明假期上海迎客664万余人次 旅游消费交易总额106.8亿元财联社
-  
-今年一季度赴韩国济州岛海外游客数量达36.4万人次，同比激增519.5%36Kr
-  
-清明假期广东共接待游客1982.8万人次 实现旅游收入99.2亿元财联社
-  
-今年一季度赴韩国济州岛海外游客数量达36.4万人次 同比激增519.5%财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥特曼和苹果前首席设计师为新AI项目寻求10亿美元资金]]></title>
-        <id>readhub-8YYbxPSAoWK</id>
-        <link href="https://readhub.cn/topic/8YYbxPSAoWK"/>
-        <updated>2024-04-06T09:13:10.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI联合创始人兼CEO萨姆·奥特曼和苹果前首席设计师乔纳森·伊夫正共同推进一个新的人工智能项目，计划筹集10亿美元资金。他们希望获得OpenAI现有投资者Thrive Capital和Emerson Collective的资助，同时也正在与软银CEO孙正义接洽。这并非两人首次涉足人工智能领域，去年9月，他们就与孙正义合作过类似项目。在人工智能行业日益热门的背景下，奥特曼和伊夫持续追求人工智能硬件梦想。今年2月，他们计划与孙正义共同为一家针对AI市场的新芯片企业筹集1000亿美元。此外，苹果iPhone设计主管Tang Tan也将在2023年12月与两人合作，开展一个创新的AI硬件项目。
-   
-媒体报道
-  
-奥特曼联手苹果前设计总监设计AI设备：寻求10亿美元融资搜狐科技
-  
-奥特曼和苹果前首席设计师为新AI项目寻求10亿美元资金 孙正义和乔布斯遗孀或参投财联社
-  
-奥特曼和苹果前首席设计师为新AI项目寻求10亿美元资金新浪科技/36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音客机再出问题 发动机起火致航班取消]]></title>
-        <id>readhub-8YYryeOzwZz</id>
-        <link href="https://readhub.cn/topic/8YYryeOzwZz"/>
-        <updated>2024-04-06T08:40:54.000Z</updated>
-        <summary type="html"><![CDATA[波音737-800型客机因发动机起火取消飞行，无人受伤。
-   
-媒体报道
-  
-波音客机又出问题 发动机起火致航班取消新浪科技
-  
-美一架波音737客机因发动机起火取消飞行，机上载160人澎湃新闻
-  
-波音客机又出问题，发动机起火致航班取消36Kr
-  
-波音客机再出问题 发动机起火致航班取消新浪科技/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉 FSD 行驶里程超 10 亿英里，马斯克表示祝贺]]></title>
-        <id>readhub-8YYsP8tjiO3</id>
-        <link href="https://readhub.cn/topic/8YYsP8tjiO3"/>
-        <updated>2024-04-06T08:31:50.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉的完全自动驾驶能力（FSD）累计行驶里程已达10亿英里，马斯克预测很快将超过100亿英里。FSD的发展迅速，马斯克认为其安全性将远超人类驾驶员。特斯拉的自动驾驶产品有三个等级：AP、EAP和FSD，其中AP和EAP已在中国地区使用，FSD目前在北美地区提供。FSD v12开始使用马斯克推崇的“端到端神经网络”，汽车操控逻辑交由神经网络处理。马斯克表示，未来每两周将向用户推送重要的FSD更新，预计每年将发布26个版本，带来78项重大改进。
-   
-媒体报道
-  
-特斯拉 FSD 行驶里程超 10 亿英里，马斯克表示祝贺IT 之家
-  
-特斯拉FSD累计行驶里程已达10亿英里 马斯克：真厉害中关村在线
-  
-马斯克称特斯拉FSD行驶里程很快将超过百亿英里财联社/新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港财政司副司长黄伟纶：全面、明确的监管制度是促进虚拟资产可持续发展的关键]]></title>
-        <id>readhub-8YYx21ZAMdP</id>
-        <link href="https://readhub.cn/topic/8YYx21ZAMdP"/>
-        <updated>2024-04-06T08:19:06.000Z</updated>
-        <summary type="html"><![CDATA[香港财政司副司长黄伟纶在“2024香港Web3嘉年华”上表示，全面且明确的监管制度是推动虚拟资产可持续发展的关键。他强调，政府将平衡促进发展和适当监管，特别是对于虚拟资产，将通过多种方式推动本港虚拟市场的稳健和负责任发展，并已吸引来自全球20多个国家和地区的220多家Web3相关公司在香港设立办事处。
-   
-媒体报道
-  
-香港财政司副司长黄伟纶：全面、明确的监管制度是促进虚拟资产可持续发展的关键36Kr/Odaily/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报告称 Outlook、Gmail 等主流邮件服务扫描恶意附件能力有待提高]]></title>
-        <id>readhub-8YYONHXe1bd</id>
-        <link href="https://readhub.cn/topic/8YYONHXe1bd"/>
-        <updated>2024-04-06T07:55:01.000Z</updated>
-        <summary type="html"><![CDATA[网络浏览器安全初创公司 SquareX 近日发布报告，表示 iCloud Mail、Gmail 等主流电子邮件服务存在安全问题， 无法有效检测恶意软件 ... 团队然后通过 Proton Mail，向 iCloud Mail、Gmail、Outlook、Yahoo ... 研究人员表示其中一个冒充 PowerPoint 演示文稿的恶意文件样本，尽管在 40 个病毒扫描仪检测发现了恶意情况，但是在 Apple iCloud、Yahoo Mail 和 AOL 中无法识别。
-   
-媒体报道
-  
-报告称Outlook、Gmail等主流邮件扫描恶意附件能力有待提高凤凰科技
-  
-报告称 Outlook、Gmail 等主流邮件服务扫描恶意附件能力有待提高IT 之家
-  
-主流邮件服务器无法识别苹果恶意文档 iCloud被指存严重安全问题中关村在线]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星有望推出 Galaxy Watch FE 智能手表，基于 Watch 4 打造]]></title>
-        <id>readhub-8YYqElr6rr7</id>
-        <link href="https://readhub.cn/topic/8YYqElr6rr7"/>
-        <updated>2024-04-06T07:42:09.000Z</updated>
-        <summary type="html"><![CDATA[三星即将推出新款Galaxy Watch FE智能手表，基于Galaxy Watch 4设计，包含国际版、美版和韩版。Galaxy Watch 4于2021年9月发布，运行谷歌WearOS，具备BioActive传感器和血氧测量功能。
-   
-媒体报道
-  
-三星有望推出Galaxy Watch FE智能手表，基于Watch 4打造凤凰科技
-  
-三星有望推出 Galaxy Watch FE 智能手表，基于 Watch 4 打造搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌安卓 15 改善桌面模式：优化窗口管理，进一步提高生产力]]></title>
-        <id>readhub-8YYrfXBBvJq</id>
-        <link href="https://readhub.cn/topic/8YYrfXBBvJq"/>
-        <updated>2024-04-06T07:36:56.000Z</updated>
-        <summary type="html"><![CDATA[谷歌在安卓15系统更新中计划对桌面模式进行大幅度调整。此前，安卓7.0引入了分屏模式，安卓10引入了桌面模式，但功能较为简陋。2022年末的安卓13更新中对桌面模式进行了改造，改善了窗口管理并优化了在屏幕上显示和控制多个安卓应用程序。在即将到来的安卓15更新中，谷歌在每个全屏应用的顶部添加了一个“把手”图标，用户可以通过点击图标选择全屏、分屏和自由模式比例。自由模式下，应用程序会显示标题栏和窗口模式菜单，用户可以自由移动和调整应用窗口，并可将窗口拖动到左侧或右侧边缘固定。
-   
-媒体报道
-  
-谷歌安卓 15 改善桌面模式：优化窗口管理，进一步提高生产力搜狐科技/IT 之家
-  
-谷歌安卓15改善桌面模式：优化窗口管理，进一步提高生产力凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蔡崇信反思阿里过往：忘记了真正的客户是谁，没有给他们最好的体验]]></title>
-        <id>readhub-8YXTCSfqAbF</id>
-        <link href="https://readhub.cn/topic/8YXTCSfqAbF"/>
-        <updated>2024-04-06T07:29:03.000Z</updated>
-        <summary type="html"><![CDATA[蔡崇信在挪威主权财富基金的专访中分享了自己的成长经历和对阿里业务的反思。他认为中国消费市场仍有巨大潜力，中国将继续是世界制造业强国。在AI领域，中国正在追赶美国，但可能落后两年。芯片短缺是阿里等中国企业面临的问题，但长期来看，中国可以自产高端GPU。他强调全球业务对阿里非常重要，并认为西方对中国存在误解，中国是一个长期的经济体。他建议年轻人学习一两项基本技能，成为人群中的前10%，并学习数据科学和心理学。
-   
-媒体报道
-  
-蔡崇信反思阿里过往：忘记了真正的客户是谁，没有给他们最好的体验腾讯网
-  
-蔡崇信称发现阿里落后了：忘记了真正的客户是谁快科技
-  
-蔡崇信谈阿里：我们发现我们落后了腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称马斯克 xAI 公司拟筹资 30 亿美元]]></title>
-        <id>readhub-8YYLW2Ow04o</id>
-        <link href="https://readhub.cn/topic/8YYLW2Ow04o"/>
-        <updated>2024-04-06T07:28:46.000Z</updated>
-        <summary type="html"><![CDATA[投资者正在洽谈帮助马斯克的人工智能初创企业xAI筹集30亿美元资金，有望令该公司实现180亿美元估值。
-   
-媒体报道
-  
-WSJ：Elon Musk旗下AI公司xAI或融资30亿美元，估值有望达180亿美元Odaily
-  
-消息称投资者正洽谈帮助马斯克xAI公司筹资30亿美元新浪科技
-  
-马斯克的人工智能公司xAI或融资30亿美元，估值有望达180亿美元36Kr/新浪科技]]></summary>
-        <author>
-            <name>36Kr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果将零售店试点Presto系统，未拆封 iPhone 实时更新 iOS]]></title>
-        <id>readhub-8YYP6LA3PtH</id>
-        <link href="https://readhub.cn/topic/8YYP6LA3PtH"/>
-        <updated>2024-04-06T07:20:31.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司计划在其线下零售店推出名为“Presto”的系统，为未拆封的iPhone提供无线更新iOS服务。该系统可存放六部iPhone，通过扫描条形码添加设备至更新队列，并管理待更新和已更新手机的数量。系统还能提示员工处理特定型号和配置的iPhone，确保店内始终有最新机型供应。新系统简化了更新流程，无需专门培训即可操作，有助于提升用户体验和零售店运营效率。
-   
-媒体报道
-  
-未拆封iPhone更新iOS系统，苹果门店“Presto”运行机制细节曝光搜狐科技
-  
-苹果将零售店试点“Presto”系统助力未拆封iPhone实时更新iOS中关村在线
-  
-为未拆封 iPhone 无线更新 iOS 系统，苹果门店“Presto”运行机制细节曝光IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox首席副总裁离开公司 微软游戏部门增长计划加速]]></title>
-        <id>readhub-8YYSfHS5drq</id>
-        <link href="https://readhub.cn/topic/8YYSfHS5drq"/>
-        <updated>2024-04-06T07:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Xbox首席副总裁Kareem Choudhry在微软工作26年后离职，他致力于游戏技术研究和开发，包括Xbox云游戏和人工智能AI。其离职与Xbox领导层重组无关，后者旨在加快Xbox Game Pass和硬件业务的增长计划。Choudhry对Xbox的后向兼容功能也有贡献。
-   
-媒体报道
-  
-曾开创 Xbox 云游戏及向后兼容计划，微软高管 Kareem Choudhry 离职IT 之家
-  
-Xbox高管离开微软，他离职的原因是......中关村在线
-  
-Xbox首席副总裁离开公司 微软游戏部门增长计划加速搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube CEO 点名 OpenAI：若利用其平台视频训练 AI 模型属违规行为]]></title>
-        <id>readhub-8YYUoZamAeJ</id>
-        <link href="https://readhub.cn/topic/8YYUoZamAeJ"/>
-        <updated>2024-04-06T06:51:02.000Z</updated>
-        <summary type="html"><![CDATA[YouTube首席执行官尼尔・莫汉近日警告，OpenAI可能使用YouTube视频训练AI模型Sora，这种行为违反YouTube的服务条款。莫汉强调下载YouTube视频用于训练AI模型违反平台规定。而OpenAI公司CTO Mira Murati在接受采访时无法明确Sora训练数据来源，表示不确定是否包含YouTube视频，且未回答有关Instagram或Facebook视频是否被使用的问题。
-   
-媒体报道
-  
-YouTube CEO点名OpenAI：若利用其平台视频训练AI模型违规凤凰科技
-  
-YouTube 称 OpenAI 用该平台视频训练 Sora 将是违反服务条款Solidot
-  
-YouTube CEO 点名 OpenAI：若利用其平台视频训练 AI 模型属违规行为IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
         </author>
     </entry>
     <entry>
