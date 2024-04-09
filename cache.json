@@ -313,6 +313,236 @@
       "siteUrl": "https://readhub.cn/blockchain",
       "articles": [
         {
+          "id": "readhub-8YcmdwqY5fT",
+          "author": "财联社",
+          "description": "瑞士央行副行长Schlegel表示，外汇干预对于实现价格稳定目标非常重要，并且这种干预措施与利率政策相辅相成。他强调，瑞士央行只有在必要时才会进行外汇干预。\n   \n媒体报道\n  \n瑞士央行行长：正研究如何使用批发央行数字法郎来结算货币政策操作Odaily\n  \n瑞士央行副行长Schlegel：央行仅在必要时进行外汇干预财联社\n  \n瑞士央行行长：央行认为没有必要为普通公众发行央行数字货币财联社",
+          "link": "https://readhub.cn/topic/8YcmdwqY5fT",
+          "publishedOn": "2024-04-09T16:35:38.000Z",
+          "wordCount": 140,
+          "title": "瑞士央行副行长Schlegel：央行仅在必要时进行外汇干预",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdvqdP3T4D",
+          "author": "财联社",
+          "description": "暴雪国服即将官宣回归，由网易负责运营和营销。网易互娱广州已组建封闭基地负责日常运营和客服，总负责人为网易游戏副总裁张丰翼。上海网之易网络科技发展有限公司诉暴雪娱乐有限公司的计算机软件著作许可使用合同纠纷案已被取消开庭，原因是原告撤诉。\n   \n媒体报道\n  \n网易互娱运营中心已成立暴雪国服团队 去年底双方就已多次接触财联社\n  \n暴雪国服4大官网静待开启 网友爆料曾面试游戏客服中关村在线\n  \n网易互娱运营中心已成立暴雪国服团队，去年底双方已多次接触IT 之家",
+          "link": "https://readhub.cn/topic/8YdvqdP3T4D",
+          "publishedOn": "2024-04-09T16:00:41.000Z",
+          "wordCount": 141,
+          "title": "网易互娱运营中心已成立暴雪国服团队，去年底双方已多次接触",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdbNrg1sy1",
+          "author": "财联社",
+          "description": "英特尔官方发布了一段展示含至少十个模块的复合芯片的短视频，为Vision 2024活动预热。据消息人士及对比以往概念图，该芯片确认为Gaudi 3人工智能加速器，具有10个主要模块，包括2个计算模块和8个内存堆栈。Gaudi 3基于5nm工艺，相比Gaudi 2有显著性能提升，包括算力、网络带宽和内存带宽，计划于本年度推出。\n   \n媒体报道\n  \n英特尔展示多模块芯片预热 Vision 2024 活动，预计为 Gaudi 3 人工智能加速器IT 之家\n  \n英特尔发布 Gaudi 3 AI 芯片：性能超越英伟达 H100，第三季度上市IT 之家\n  \n英特尔展示多模块芯片，预计为 Gaudi 3 人工智能加速器搜狐科技\n  \n英特尔发布Gaudi 3芯片财联社",
+          "link": "https://readhub.cn/topic/8YdbNrg1sy1",
+          "publishedOn": "2024-04-09T15:41:38.000Z",
+          "wordCount": 381,
+          "title": "英特尔展示多模块芯片，预计为 Gaudi 3 人工智能加速器",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdqOw0yzoR",
+          "author": "财联社",
+          "description": "胡润研究院发布《2024全球独角兽榜》，全球共找到1453家独角兽企业，美国以703家领跑，中国以340家位居第二。榜单显示，字节跳动是全球价值最高的独角兽，OpenAI和SpaceX价值增长最快。过去一年，全球每两天就有一家新独角兽诞生，中国每周都有一家以上新独角兽诞生。\n   \n媒体报道\n  \n2024 胡润全球独角兽榜发布：字节跳动、SpaceX、OpenAI 前三IT 之家\n  \n胡润《2024全球独角兽榜》发布：字节跳动以1.56万亿元估值蝉联第一 OpenAI空降第三新浪科技\n  \n《2024全球独角兽榜》发布：字节跳动价值1.56万亿元居首 21家国企孵化的独角兽均来自中国财联社\n  \n最新独角兽榜单出炉：字节跳动蝉联榜首，OpenAI增长最快凤凰科技\n  \n胡润发布2024全球独角兽榜：字节跳动位居榜首  OpenAI价值增长最快中国证券网",
+          "link": "https://readhub.cn/topic/8YdqOw0yzoR",
+          "publishedOn": "2024-04-09T15:20:37.000Z",
+          "wordCount": 243,
+          "title": "胡润发布2024全球独角兽榜：字节跳动位居榜首 OpenAI价值增长最快",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YeIyr6MnaD",
+          "author": "腾讯网",
+          "description": "谷歌发布了一款新的数据中心CPU“谷歌Axion”，基于Arm架构，旨在降低云计算运营成本。Axion处理器结合了谷歌在芯片领域的专业知识和Arm最高性能的Neoverse V2 CPU内核，性能和能效均领先业界。谷歌云内部数据显示，Axion相比现有最快速基于Arm的处理器性能提高30%，相比基于x86的同类处理器性能提高50%，能效提高60%。此次发布是谷歌在云服务领域争夺更大市场份额的明显行动，同时基于Arm架构的芯片可能降低某些工作负载的碳排放量。\n   \n媒体报道\n  \n谷歌推出自研数据中心芯片 追上同行“拥抱ARM架构”的脚步腾讯网\n  \n谷歌推出 Google Axion，旗下首款专为数据中心设计的 Arm 处理器搜狐科技/IT 之家",
+          "link": "https://readhub.cn/topic/8YeIyr6MnaD",
+          "publishedOn": "2024-04-09T15:06:39.000Z",
+          "wordCount": 311,
+          "title": "谷歌推出自研数据中心芯片 追上同行“拥抱ARM架构”的脚步",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YeNFWmX4eg",
+          "author": "财联社",
+          "description": "张家港市发布新房地产措施，包含“卖旧买新”契税补贴、人才购房补贴、企业团购补贴和“共有产权”住房补贴等，以满足多样化住房需求，降低购房成本，促进市场平稳健康发展。同时，推广房票安置，扩大房源选择和应用场景。新建住宅小区将优化规划要求和服务水平，提升住宅品质。\n   \n媒体报道\n  \n张家港：“卖旧买新”给予契税补贴，试行全市房票通兑通用澎湃新闻\n  \n湖北荆州：支持提取公积金付首付款 买自住房可 “一人购房全家帮”财联社\n  \n湖北荆州：支持提取公积金付首付款，买自住房可 “一人购房全家帮”澎湃新闻",
+          "link": "https://readhub.cn/topic/8YeNFWmX4eg",
+          "publishedOn": "2024-04-09T15:01:06.000Z",
+          "wordCount": 134,
+          "title": "张家港：“卖旧买新”给予契税补贴，试行全市房票通兑通用",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdOX8tjaQ1",
+          "author": "财联社",
+          "description": "成都中心城区最近进行了4宗住宅用地的出让，其中高新区的2宗地块高溢价成交，青白江区的2宗地块底价成交，总成交金额约13.9亿元。高新区的一宗地块由四川中瑞天悦实业有限公司以楼面价23200元/平方米竞得，溢价率28.89%。另一宗相邻地块也由该公司以楼面价22800元/平方米竞得，溢价率26.67%。青白江区的两宗地块分别由成都市智汇新城投资发展有限公司和成都陆港兴辰置业有限公司以底价摘得。\n   \n媒体报道\n  \n房地产：3月深圳二手房成交均价已经达到6.4万元新浪科技\n  \n成都4宗宅地收金近14亿元 高新区楼面价被刷新财联社\n  \n成都土拍再现高溢价，本月还有近1100亩住宅用地入市新浪科技/腾讯网\n  \n成都13.9亿元成交4宗住宅用地，高新区两宗地块溢价成交澎湃新闻",
+          "link": "https://readhub.cn/topic/8YdOX8tjaQ1",
+          "publishedOn": "2024-04-09T14:51:08.000Z",
+          "wordCount": 217,
+          "title": "成都13.9亿元成交4宗住宅用地，高新区两宗地块溢价成交",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdWNITz0O6",
+          "author": "财联社",
+          "description": "国家金融监督管理总局同意新疆银行吸收合并库尔勒银行，新疆银行将承接库尔勒银行的资产、负债、业务、机构和员工，并需在6个月内完成吸收合并。\n   \n媒体报道\n  \n新疆银行获批吸收合并库尔勒银行澎湃新闻\n  \n国家金融监督管理总局：同意新疆银行吸收合并库尔勒银行新浪科技/中国证券网/财联社\n  \n又一例城商行“大并小”案例，新疆银行获准吸收合并库尔勒银行，上一家类似重组为中原银行新浪科技\n  \n地方行改革化险再添一例，新疆银行吸收合并库尔勒银行获批腾讯网\n  \n金融监管总局：同意新疆银行吸收合并库尔勒银行，6个月内完成新浪科技\n  \n金融监管总局同意新疆银行吸收合并库尔勒银行中国证券网",
+          "link": "https://readhub.cn/topic/8YdWNITz0O6",
+          "publishedOn": "2024-04-09T14:20:53.000Z",
+          "wordCount": 134,
+          "title": "国家金融监督管理总局：同意新疆银行吸收合并库尔勒银行",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdTsK7ZDxw",
+          "author": "财联社",
+          "description": "三祥新材等新能源材料股涨幅居前，智己汽车推出业内首个准900V超快充固态电池并搭载于智己L6轿车。\n   \n媒体报道\n  \n固态电池概念股开盘拉升，三祥新材冲击涨停36Kr\n  \n固态电池概念股开盘拉升 三祥新材冲击涨停财联社\n  \n固态电池板块掀起涨停潮 三祥新材收盘9天7板 10家上市公司回应与智已、广汽合作及股权相关事宜财联社",
+          "link": "https://readhub.cn/topic/8YdTsK7ZDxw",
+          "publishedOn": "2024-04-09T14:10:59.000Z",
+          "wordCount": 165,
+          "title": "固态电池概念股开盘拉升 三祥新材冲击涨停",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YcdDDeyGf9",
+          "author": "医药魔方",
+          "description": "默沙东公司花费2.08亿美元收购了初创公司Abceutics，该公司开发的PBSE旨在与ADC配合使用，减少副作用风险。Abceutics自成立以来，得到了包括美国国立卫生研究院和布法罗创新加速器基金等多个机构的支持，其早期资金主要来自后者提供的11万美元资助。\n   \n媒体报道\n  \n默沙东以 2.08 亿美元收购Abceutics，寻求提高 ADC 的安全性医药魔方\n  \n2.08亿美元！默沙东收购ADC新锐Abceutics医药魔方\n  \n2.08亿美元！默沙东收购初创公司，优化其ADC板块的安全与疗效医药魔方",
+          "link": "https://readhub.cn/topic/8YcdDDeyGf9",
+          "publishedOn": "2024-04-09T13:40:04.000Z",
+          "wordCount": 218,
+          "title": "默沙东以 2.08 亿美元收购Abceutics，寻求提高 ADC 的安全性",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdWP9CTwcw",
+          "author": "财联社",
+          "description": "黑石集团可能与欧舒丹董事长Reinold Geiger联手收购欧舒丹，目前谈判已进入后期阶段。最快未来几日内可能发布公告。欧舒丹股票已暂停交易以待发布相关内幕消息公告。\n   \n媒体报道\n  \n黑石集团据悉接近收购欧舒丹 最快数日内宣布新浪科技\n  \n传黑石(BX.US)接近达成欧舒丹(00973.HK) 私有化协议新浪科技\n  \n亿万富翁Geiger及黑石据悉接近将欧舒丹私有化新浪科技/36Kr/财联社\n  \n黑石集团据悉接近达成欧舒丹私有化协议新浪科技\n  \n传黑石(BX.US)接近达成欧舒丹(00973) 私有化协议新浪科技",
+          "link": "https://readhub.cn/topic/8YdWP9CTwcw",
+          "publishedOn": "2024-04-09T13:39:42.000Z",
+          "wordCount": 185,
+          "title": "黑石集团据悉接近收购欧舒丹 最快数日内宣布",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YcBVvIGwel",
+          "author": "电商报",
+          "description": "厦门海百骑科技有限公司近日成立，法定代表人为孙可青，注册资本500万美元，经营范围包括人工智能基础软件开发、共享自行车服务等。该公司由美团旗下公司Xigua Limited全资持股。\n   \n媒体报道\n  \n美团在厦门成立新公司 含AI软件开发业务i黑马/电商报/新浪科技",
+          "link": "https://readhub.cn/topic/8YcBVvIGwel",
+          "publishedOn": "2024-04-09T13:37:52.000Z",
+          "wordCount": 190,
+          "title": "美团在厦门成立新公司 含AI软件开发业务",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdgPHiIwpW",
+          "author": "36Kr",
+          "description": "通用汽车旗下的自动驾驶公司 Cruise 计划在美国亚利桑那州凤凰城重启无人驾驶出租车测试项目，标志其正回归自动驾驶技术研发与应用前沿。Cruise 与全美 20 个大都市区域政府官员进行对话，探讨无人驾驶出租车测试及部署可能性。\n   \n媒体报道\n  \n通用汽车自动驾驶子公司Cruise据悉将恢复无人出租车测试手机中国\n  \n通用汽车旗下Cruise最快今日在美国恢复无人出租车测试新浪科技/36Kr\n  \n通用汽车自动驾驶子公司Cruise据悉将在美国凤凰城恢复无人出租车测试新浪科技",
+          "link": "https://readhub.cn/topic/8YdgPHiIwpW",
+          "publishedOn": "2024-04-09T13:36:51.000Z",
+          "wordCount": 201,
+          "title": "通用汽车自动驾驶子公司Cruise据悉将恢复无人出租车测试",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YbwUfZf2Um",
+          "author": "i黑马",
+          "description": "吉利旗下的高端电动汽车品牌极氪计划重启在纽约的首次公开募股（IPO），筹资最多 5 亿美元，低于此前预期的超过 10 亿美元。极氪已向美国证券交易委员会（SEC）备案并做准备工作。对于这一消息，极氪方面表示不予置评。\n   \n媒体报道\n  \n极氪回应重启美股IPO：不予置评i黑马/36Kr/中国证券网",
+          "link": "https://readhub.cn/topic/8YbwUfZf2Um",
+          "publishedOn": "2024-04-09T13:36:28.000Z",
+          "wordCount": 170,
+          "title": "极氪回应重启美股IPO：不予置评",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Ye7XLpxxQB",
+          "author": "财联社",
+          "description": "上海市生成式人工智能服务已备案信息已由上海网信办进行公告，要求已上线的生成式人工智能应用或功能在显著位置公示所使用的已备案生成式人工智能服务情况，包括模型名称及备案号。\n   \n媒体报道\n  \n上海网信办发布上海市生成式人工智能服务已备案信息公告新浪科技\n  \n上海网信办发布上海市生成式人工智能服务已备案信息搜狐科技/财联社",
+          "link": "https://readhub.cn/topic/8Ye7XLpxxQB",
+          "publishedOn": "2024-04-09T13:35:41.000Z",
+          "wordCount": 125,
+          "title": "上海网信办发布上海市生成式人工智能服务已备案信息",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YeDcNr4TYz",
+          "author": "36Kr",
+          "description": "以色列网络安全公司Claroty计划于2025年在美国进行IPO，目前正与承销商讨论在纳斯达克或纽交所上市事宜，其估值为35亿美元。然而，正式的IPO程序尚未启动，时间表仍在制定中。Claroty创立于2014年，专注于保护关键基础设施系统，如电网、钢厂和炼油厂等。尽管市场情况不佳，公司仍期望启动大型IPO活动，并在今年3月完成了1亿美元的私募融资，总融资额达7.35亿美元。目前，Claroty与20%的“财富100强公司”合作，2023年的经常性营收超过1亿美元。\n   \n媒体报道\n  \n以色列网络安全公司Claroty拟2025年赴美IPO 估值35亿美元新浪科技\n  \n以色列网络安全公司Claroty拟2025年赴美IPO，估值35亿美元36Kr",
+          "link": "https://readhub.cn/topic/8YeDcNr4TYz",
+          "publishedOn": "2024-04-09T13:35:01.000Z",
+          "wordCount": 303,
+          "title": "以色列网络安全公司 Claroty 拟 2025 年赴美 IPO，估值 35 亿美元",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdyGMoS6JI",
+          "author": "手机中国",
+          "description": "苹果将在即将推出的Apple Watch 10系列中采用新型LTPO OLED技术，以进一步降低功耗。业界关注苹果是否将在其他产品，如即将发布的iPhone 16系列和明年的iPhone 17系列上应用这种技术。据悉，LG Display和日本JDI是Apple Watch的OLED供应商，而三星Display有望于明年发布相关产品。虽然具体时间表和定价信息未提及，但预计苹果公司将推出更多低能耗、高性能的产品。\n   \n媒体报道\n  \n韩媒：苹果计划在Apple Watch 10系列中采用新型LTPO OLED技术凤凰科技\n  \nApple Watch 10将采用新型LTPO OLED 或由LGD供应手机中国/搜狐科技",
+          "link": "https://readhub.cn/topic/8YdyGMoS6JI",
+          "publishedOn": "2024-04-09T13:26:50.000Z",
+          "wordCount": 440,
+          "title": "韩媒：苹果计划在Apple Watch 10系列中采用新型LTPO OLED技术",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Ye0ZNlBKBv",
+          "author": "36Kr",
+          "description": "舜宇光学科技3月手机镜头出货量同比增长33.7%，达到1.13亿件，手机摄像模组出货量同比增长15.1%，为4189.5万件。\n   \n媒体报道\n  \n舜宇手机镜头、摄像模组出货量公布，镜头同比增长33.7%中关村在线\n  \n舜宇光学科技：3月手机镜头出货量1.13亿件，同比增长33.7%36Kr\n  \n舜宇光学：3 月手机镜头出货量约 1.127 亿件，同比增长 33.7%IT 之家",
+          "link": "https://readhub.cn/topic/8Ye0ZNlBKBv",
+          "publishedOn": "2024-04-09T13:19:13.000Z",
+          "wordCount": 206,
+          "title": "舜宇光学科技：3月手机镜头出货量1.13亿件，同比增长33.7%",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Ye0WybpGg4",
+          "author": "电商报",
+          "description": "哔哩哔哩（B站）发布了2023年的ESG报告，展示了在社区治理、创作者赋能、社会责任和绿色环保等方面的成就。报告显示，知识类内容深受用户喜爱，有超过2亿用户在B站学习，科技科普视频每天有超1300万用户观看。同时，B站为创作者提供了收入渠道，2023年有超300万UP主获得收入，广告和直播是主要收入来源。B站董事长兼首席执行官陈睿表示，B站将继续坚持ESG标准，与社会共同推动可持续发展。\n   \n媒体报道\n  \nB站发布2023年度ESG报告：超2亿用户在B站学习知识，超300万UP主在B站获得收入36Kr/速途网\n  \nB站23年ESG报告：超2亿用户在B站学习 超300万UP主获得收入新浪科技\n  \nB站ESG报告：2023年超300万UP主获得收入电商报",
+          "link": "https://readhub.cn/topic/8Ye0WybpGg4",
+          "publishedOn": "2024-04-09T12:55:33.000Z",
+          "wordCount": 331,
+          "title": "B站23年ESG报告：超2亿用户在B站学习 超300万UP主获得收入",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8Ye1pI8JMYh",
+          "author": "速途网",
+          "description": "一汽解放3月销量为34654辆，同比增长12.7%，1—3月累计销量78463辆，同比增长34.22%。\n   \n媒体报道\n  \n一汽解放3月汽车销量34654辆，今年累计销量78463辆同比增长34.22%中关村在线\n  \n一汽解放 3 月汽车销量 34654 辆，今年累计销量 78463 辆同比增长 34.22%IT 之家\n  \n一汽解放：1—3月销量78463辆，同比增长34.22%速途网",
+          "link": "https://readhub.cn/topic/8Ye1pI8JMYh",
+          "publishedOn": "2024-04-09T12:52:15.000Z",
+          "wordCount": 233,
+          "title": "一汽解放：1—3月销量78463辆，同比增长34.22%",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YeDz1e0eVk",
+          "author": "凤凰科技",
+          "description": "三星电子和SK海力士正在推进移动DRAM堆叠封装技术，以满足端侧AI对高性能移动DRAM的需求。两家公司采用了垂直布线扇出技术VFO，以实现更多的IO数据引脚，并提高能效。SK海力士的VFO技术验证样品在导线长度上仅为传统布线产品的不到1/4，能效提升了4.9%，封装厚度减少了27%。而三星的LLW DRAM可实现低延迟和高带宽性能，同时能耗仅有1.2pJ/b。三星计划于明年下半年实现LLW DRAM的量产，SK海力士的相关产品目前已处于量产准备阶段。\n   \n媒体报道\n  \n消息称三星、SK 海力士推进移动内存堆叠封装技术量产，满足端侧 AI 需求IT 之家\n  \n消息称三星、SK海力士推进移动内存堆叠封装技术量产，满足端侧AI需求凤凰科技\n  \n消息称三星、SK 海力士推进移动内存堆叠技术量产，满足 AI 需求搜狐科技",
+          "link": "https://readhub.cn/topic/8YeDz1e0eVk",
+          "publishedOn": "2024-04-09T12:46:16.000Z",
+          "wordCount": 287,
+          "title": "消息称三星、SK 海力士推进移动内存堆叠技术量产，满足 AI 需求",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YdSpZOVqsV",
+          "author": "手机中国",
+          "description": "梅赛德斯-奔驰将在北京车展上发布全新电动G级量产车，命名为“G 580 with EQ Technology”。该车型保留了G级车的标志性特征，并增加了电动动力系统。车展上还将亮相AMG GT 63 S E Performance插电式混合动力跑车、EQS轿车升级版和迈巴赫新车。\n   \n媒体报道\n  \n梅赛德斯-奔驰电动 G 级将于 4 月 24 日首发，定名 G580IT 之家\n  \n新款奔驰AMG GT 53 4MATIC+跑车上市 售134.48万手机中国\n  \n奔驰 AMG GT 53 4 MATIC+ 四门跑车上市：3.0T + 48 伏轻混，售 134.48 万元IT 之家",
+          "link": "https://readhub.cn/topic/8YdSpZOVqsV",
+          "publishedOn": "2024-04-09T12:31:51.000Z",
+          "wordCount": 362,
+          "title": "梅赛德斯-奔驰电动 G 级将于 4 月 24 日首发，定名 G580",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "readhub-8YeCWlbLEmF",
+          "author": "腾讯网",
+          "description": "工信部等七部门联合印发《推动工业领域设备更新实施方案》，提出到2027年，工业领域设备投资规模较2023年增长25%以上，规模以上工业企业数字化研发设计工具普及率、关键工序数控化率分别超过90%、75%，工业大省大市和重点园区规上工业企业数字化改造全覆盖，重点行业能效基准水平以下产能基本退出、主要用能设备能效基本达到节能水平，本质安全水平明显提升，创新产品加快推广应用，先进产能比重持续提高。\n   \n媒体报道\n  \n工信部等七部门：到2027年工业领域设备投资规模较2023年增长25%以上新浪科技\n  \n工信部等七部门：推动人工智能、第五代移动通信（5G）、边缘计算等新技术在制造环节深度应用36Kr\n  \n工信部等七部门联合印发《推动工业领域设备更新实施方案》新浪科技/36Kr/财联社/腾讯网",
+          "link": "https://readhub.cn/topic/8YeCWlbLEmF",
+          "publishedOn": "2024-04-09T12:15:50.000Z",
+          "wordCount": 168,
+          "title": "工信部等七部门联合印发《推动工业领域设备更新实施方案》",
+          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
+        },
+        {
           "id": "readhub-8YdhoZa8vyu",
           "author": "财联社",
           "description": "世界首台300兆瓦级压气储能电站示范工程在湖北应城成功并网，刷新了单机功率、储能规模和转换效率的世界纪录。\n   \n媒体报道\n  \n中国能建：世界首台（套）300兆瓦级压气储能电站并网发电财联社\n  \n世界首台（套）300 兆瓦级压缩空气储能电站并网发电，关键核心技术装备 100% 国产化IT 之家\n  \n世界首台（套）300兆瓦级压气储能电站并网发电36Kr",
@@ -2100,306 +2330,6 @@
           "publishedOn": "2024-04-07T08:21:48.000Z",
           "wordCount": 255,
           "title": "谷歌AI竞赛失利：内部派系林立、项目混乱相互竞争",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Ya4Luv412i",
-          "author": null,
-          "description": "据悉，马斯克紧密相关的投资者正在洽谈帮助他的AI初创公司xAI融资30亿美元，此轮融资可能会使得xAI的估值达到180亿美元。风险投资公司Gigafund和美国风投家Steve Jurvetson正在考虑参与此轮融资。目前，xAI的融资条款尚未最终确定，计划可能会发生变化。",
-          "link": "https://readhub.cn/topic/8Ya4Luv412i",
-          "publishedOn": "2024-04-07T06:08:50.292Z",
-          "wordCount": 301,
-          "title": "马斯克的人工智能公司 xAI 或融资 30 亿美元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaOM6Cl2YO",
-          "author": "财联社",
-          "description": "清明节假日期间，珠海边检总站共查验约172万人次出入境人员及9万辆/艘次的车辆和船舶，同比增长48.47%和67.02%。其中，港澳台旅客约78万人，同比增长31.11%，拱北、港珠澳大桥等口岸出现了双向客流叠加高峰。\n   \n媒体报道\n  \n清明节期间珠海边检总站迎来双向客流叠加高峰 出入境人员约172万人次和讯网/财联社\n  \n清明节期间珠海边检总站迎来双向客流叠加高峰，出入境人员约172万人次36Kr",
-          "link": "https://readhub.cn/topic/8YaOM6Cl2YO",
-          "publishedOn": "2024-04-07T06:02:40.000Z",
-          "wordCount": 189,
-          "title": "清明节期间珠海边检总站迎来双向客流叠加高峰 出入境人员约172万人次",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaP4ZX4Am4",
-          "author": "财联社",
-          "description": "市场监管总局宣布对商用燃气燃烧器具、电子坐便器、电动自行车乘员头盔、水性内墙涂料等7种产品实施强制性CCC认证，同时将低压元器件的认证方式由CCC自我声明恢复为第三方评价。\n   \n媒体报道\n  \n市场监管总局对电动车乘员头盔等7种产品实施强制性产品认证新浪科技/澎湃新闻\n  \n市场监管总局对电动自行车乘员头盔等7种产品实施强制性产品认证新浪科技/财联社/36Kr",
-          "link": "https://readhub.cn/topic/8YaP4ZX4Am4",
-          "publishedOn": "2024-04-07T06:01:03.000Z",
-          "wordCount": 192,
-          "title": "市场监管总局对电动自行车乘员头盔等7种产品实施强制性产品认证",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaFRKkH0wN",
-          "author": "财联社",
-          "description": "为提升电动自行车行业管理水平与产品质量安全，工业和信息化部起草了《电动自行车行业规范条件》和《电动自行车行业规范公告管理办法》，并向社会公开征求意见。规范条件鼓励企业实施智能制造，提升数字化水平，研发绿色设计产品，并建设绿色工厂。管理办法由工业和信息化部负责，对符合规范条件的企业进行复核和现场查验，并进行动态管理。同时，企业需加大研发投入，每年至少开发10款新车，并拥有主要产品的技术发明专利。\n   \n媒体报道\n  \n中国电动自行车保有量达3.5亿辆，工信部起草规范推动电池信息溯源管理凤凰科技\n  \n工信部公开征求对电动自行车行业规范条件及公告管理办法的意见新浪科技\n  \n工业和信息化部：鼓励电动自行车生产企业推动智能制造和绿色制造中国证券网\n  \n工信部公开征求对电动自行车行业规范条件及公告管理办法（征求意见稿）的意见新浪科技/财联社\n  \n我国电动自行车保有量达 3.5 亿辆，工信部起草规范推动电池信息溯源管理IT 之家",
-          "link": "https://readhub.cn/topic/8YaFRKkH0wN",
-          "publishedOn": "2024-04-07T05:35:50.000Z",
-          "wordCount": 144,
-          "title": "工业和信息化部：鼓励电动自行车生产企业推动智能制造和绿色制造",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaEi8ZLKnL",
-          "author": "搜狐科技",
-          "description": "美国-欧盟贸易和科技委员会在第六次部长级会议上宣布，计划利用人工智能和数字孪生技术寻找半导体生产中替代全氟和多氟物质（PFAS）的材料，以应对PFAS的潜在健康风险和欧洲国家对PFAS的限制计划。\n   \n媒体报道\n  \n美国与欧盟计划借助 AI 寻找半导体用“永久化学品”PFAS 替代品搜狐科技\n  \n美国与欧盟计划借助 AI 寻找半导体生产中“永久化学品”PFAS 替代品IT 之家\n  \n美国与欧盟计划借助AI寻找半导体生产中“永久化学品”PFAS替代品凤凰科技",
-          "link": "https://readhub.cn/topic/8YaEi8ZLKnL",
-          "publishedOn": "2024-04-07T05:35:50.000Z",
-          "wordCount": 197,
-          "title": "美国与欧盟计划借助 AI 寻找半导体生产中“永久化学品”PFAS 替代品",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaPaltdZ2u",
-          "author": "快科技",
-          "description": "华为将于4月11日举办鸿蒙春季沟通会，发布车和PC类相关产品。备受关注的新旗舰华为P70以及智界S7车型有望在会上发布。目前，华为线下门店暂无P70的相关消息，智界S7将于4月二次上市，新车可能在权益及配置上有所提升。\n   \n媒体报道\n  \n消息称华为4月11日举行鸿蒙春季沟通会：新款智界S7将上市快科技\n  \n华为将于4月11日举办鸿蒙春季沟通会 发布车和PC类产品搜狐科技/手机中国",
-          "link": "https://readhub.cn/topic/8YaPaltdZ2u",
-          "publishedOn": "2024-04-07T05:31:53.000Z",
-          "wordCount": 299,
-          "title": "华为将于4月11日举办鸿蒙春季沟通会 发布车和PC类产品",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaCa8Kjv78",
-          "author": "手机中国",
-          "description": "韩国特斯拉车主们近日举行了迄今为止规模最大的灯光秀，超过1000辆特斯拉汽车参与，打破了芬兰保持的687辆的纪录。灯光秀呈现了特斯拉的“T”字Logo、爱心图案及一系列动画，如“Plaid”模式启动画面和“we will rock you”字样的图案。特斯拉于2022年推出的灯光秀功能，可以让车主通过汽车的前大灯和尾灯协同表演灯光秀。\n   \n媒体报道\n  \n千辆特斯拉点亮韩国夜空，上演史上最大规模特斯拉灯光秀IT 之家\n  \n韩国特斯拉车主举办最大规模的灯光秀 超千名车主参加中关村在线/手机中国",
-          "link": "https://readhub.cn/topic/8YaCa8Kjv78",
-          "publishedOn": "2024-04-07T05:03:11.000Z",
-          "wordCount": 184,
-          "title": "千辆特斯拉点亮韩国夜空，上演史上最大规模特斯拉灯光秀",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaJ09OqK0b",
-          "author": "快科技",
-          "description": "中兴发布了春日限定款U10S Pro 4G随身WiFi盈盈粉，售价249元，配置与此前上市型号一致，适用于多场景上网。支持单张nano SIM卡，可达229Mbps峰值速率，电池使用时间10小时，机身轻巧，可一键查看设备状态。\n   \n媒体报道\n  \n中兴 U10S Pro 随身 WiFi 盈盈粉配色开售，首发价 249 元中关村在线/新浪科技/IT 之家\n  \n自研国产芯！中兴U10S Pro随身Wi-Fi盈盈粉开售：249元快科技",
-          "link": "https://readhub.cn/topic/8YaJ09OqK0b",
-          "publishedOn": "2024-04-07T05:02:15.000Z",
-          "wordCount": 366,
-          "title": "中兴 U10S Pro 随身 WiFi 盈盈粉配色开售，首发价 249 元",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaDJS2bkVB",
-          "author": "投中网",
-          "description": "博瀚智能，一家专注于数据中心AI赋能平台及解决方案的服务商，近日获得了海创汇的新一轮数千万人民币战略融资。该公司自2019年成立以来，发展迅速，汇聚了一批有丰富AI和产业开发经验的研发团队，成员来自于多家知名企业。此次融资将用于加快技术研发和设备投入，巩固其在AI开发平台的领先地位，并推动Data Centric范式在更多领域应用。博瀚智能的创始人郭玮博士有着超过20年的电子产品研发和生产经验，曾获得微软的多个奖项和40余项发明专利。\n   \n媒体报道\n  \n清华系AI大模型「博瀚智能」完成数千万人民币战略融资投资圈\n  \nData Centric AI 赋能平台及解决方案服务商博瀚智能完成数千万元战略融资猎云网\n  \n「博瀚智能」完成数千万人民币战略融资投中网",
-          "link": "https://readhub.cn/topic/8YaDJS2bkVB",
-          "publishedOn": "2024-04-07T04:45:52.000Z",
-          "wordCount": 202,
-          "title": "「博瀚智能」完成数千万人民币战略融资",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaHDUtjCqO",
-          "author": "和讯网",
-          "description": "三星电子获得英伟达AI芯片2.5D封装订单。\n   \n媒体报道\n  \n消息称三星获英伟达AI芯片2.5D封装订单和讯网/财联社\n  \n三星据悉获英伟达AI芯片2.5D封装订单36Kr",
-          "link": "https://readhub.cn/topic/8YaHDUtjCqO",
-          "publishedOn": "2024-04-07T04:19:54.000Z",
-          "wordCount": 208,
-          "title": "三星据悉获英伟达AI芯片2.5D封装订单",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaG8t5kaG8",
-          "author": "搜狐科技",
-          "description": "小米将于4月10日发布Redmi Turbo 3手机和Redmi Pad Pro平板。Redmi Pad Pro有三种颜色，后置双摄像头，支持键盘和手写笔，设计上注重生态互联和大屏长续航。它的定位比售价1099元的Redmi Pad高，后者具有90Hz高刷屏、杜比四扬声器和8000mAh大电池。\n   \n媒体报道\n  \nRedmi Pad Pro配置曝光 10000mAh电池+12.1英寸大屏搜狐科技\n  \n小米 Redmi Pad Pro 平板亮相开启预约，随 Turbo 3 手机一同发布搜狐科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YaG8t5kaG8",
-          "publishedOn": "2024-04-07T04:07:08.000Z",
-          "wordCount": 479,
-          "title": "小米 Redmi Pad Pro 平板亮相开启预约，随 Turbo 3 手机一同发布",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YZNpEiXtj7",
-          "author": "快科技",
-          "description": "智己汽车宣布将于4月8日发布旗下智己 L6 车型，该车型将搭载行业首个量产的“超快充固态电池 1.0”和“准 900V 超快充固态电池”，实现超过1000公里续航。新车还将配备“智慧数字底盘”，支持后轮转向，实现车位里“原地挪”等功能。新车将于5月正式上市，并参加2024北京国际汽车展览会。\n   \n媒体报道\n  \n智己 L6 定档 4 月 8 日发布：首搭「光年」固态电池数字尾巴\n  \n智己L6第一代固态电池正式定名“光年”！轻松实现1000公里续航快科技\n  \n智己 L6 轿车 4 月 8 日发布：首搭“光年”固态电池，续航超 1000km新浪科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YZNpEiXtj7",
-          "publishedOn": "2024-04-07T04:01:11.000Z",
-          "wordCount": 327,
-          "title": "智己 L6 轿车 4 月 8 日发布：首搭“光年”固态电池，续航超 1000km",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YZ2H4zhxww",
-          "author": "36Kr",
-          "description": "清明小长假期间，赏花踏青和户外登山活动受到消费者热捧，新的旅游目的地如开封和天水吸引了大量游客，旅游热度显著上升。长三角地区旅游消费最为活跃，杭州、苏州、南京成为热门旅游城市。\n   \n媒体报道\n  \n同程旅行：清明假期开封、天水等地旅游热度大幅上涨新浪科技\n  \n同程旅行：清明假期开封、天水成为新晋“顶流” 长三角旅游消费最为活跃中国证券网\n  \n同程旅行：清明假期新“顶流”登场，开封、天水旅游热度大幅上涨36Kr",
-          "link": "https://readhub.cn/topic/8YZ2H4zhxww",
-          "publishedOn": "2024-04-07T03:47:23.000Z",
-          "wordCount": 128,
-          "title": "同程旅行：清明假期开封、天水等地旅游热度大幅上涨",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaCwhoHxXV",
-          "author": "i黑马",
-          "description": "特斯拉股价因取消低成本汽车计划传闻而下跌，但马斯克在社交媒体上否认了这一消息。他曾在2020年提出2.5万美元的车型目标，但至今特斯拉尚未推出此类价格的车型。\n   \n媒体报道\n  \n马斯克否认特斯拉放弃推出低成本汽车计划i黑马\n  \n曝特斯拉取消廉价汽车计划 马斯克：说谎快科技\n  \n马斯克：特斯拉拟于8月8日推出无人驾驶出租车i黑马",
-          "link": "https://readhub.cn/topic/8YaCwhoHxXV",
-          "publishedOn": "2024-04-07T03:44:15.000Z",
-          "wordCount": 161,
-          "title": "马斯克否认特斯拉放弃推出低成本汽车计划",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YZziOEC1NW",
-          "author": "猎云网",
-          "description": "恒大汽车公告，纽顿集团对其的战略投资及债转股协议已失效，目前正就交易修订进行磋商。该投资被视为恒大汽车的“救命钱”，原计划用于天津工厂生产和开拓海外市场。公司去年收入13.4亿元，净亏损119.95亿元，目前正与各方协商展期债务，并计划引入战略投资者以解决财务问题。由于资金问题，天津工厂已暂停生产，公司正努力筹措资金，并计划继续推进新车型的研发。\n   \n媒体报道\n  \n突发！恒大汽车“救命钱”飞了猎云网\n  \n恒大汽车宣布，终止！新浪科技\n  \n恒大汽车突发 纽顿集团不投了！造车5年亏超1100亿新浪科技\n  \n“迪拜土豪”救命钱没了！恒大汽车官宣纽顿集团战略投资终止快科技\n  \n恒大汽车突发！纽顿集团战略投资终止新浪科技\n  \n恒大汽车突发！战略投资被终止！腾讯网\n  \n恒大汽车公告：纽顿集团 5 亿美元战略投资正式终止IT 之家",
-          "link": "https://readhub.cn/topic/8YZziOEC1NW",
-          "publishedOn": "2024-04-07T03:44:06.000Z",
-          "wordCount": 188,
-          "title": "恒大汽车宣布纽顿集团战略投资终止",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Ya2sjbOi78",
-          "author": "快科技",
-          "description": "宝洁公司宣布在美国和加拿大召回820万袋存在包装缺陷的洗衣粉，涉及多款产品，生产日期在2023年9月至2024年2月。召回原因是因为洗衣粉的儿童安全包装可能裂开，使儿童接触到洗涤剂的化学物质，已收到四起儿童接触的报告。宝洁公司将进行全额退款并更换儿童安全袋。\n   \n媒体报道\n  \n存在严重伤害风险，宝洁在美召回820万袋有包装缺陷的洗衣粉36Kr\n  \n宝洁召回820万袋汰渍等洗衣粉：会导致儿童癫痫、昏迷等中关村在线/快科技",
-          "link": "https://readhub.cn/topic/8Ya2sjbOi78",
-          "publishedOn": "2024-04-07T03:43:07.000Z",
-          "wordCount": 188,
-          "title": "宝洁召回820万袋汰渍等洗衣粉：会导致儿童癫痫、昏迷等",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaBqwvmRg4",
-          "author": "澎湃新闻",
-          "description": "日本小林制药因含红曲成分保健品引发健康问题，致5人死亡，196人住院。公司发布广告向民众道歉，并呼吁停止服用相关产品。此前，该公司曾向安倍晋三提供政治捐款，安倍在任时推行政策放宽保健品审查管控。\n   \n媒体报道\n  \n小林制药道歉广告开播：没有背景音乐，播音员语调沉重新浪科技/澎湃新闻\n  \n小林制药道歉广告开播：没有背景音乐， 播音员语调沉重新浪科技\n  \n日媒：小林制药道歉广告开播，没有背景音乐，播音员语调沉重新浪科技",
-          "link": "https://readhub.cn/topic/8YaBqwvmRg4",
-          "publishedOn": "2024-04-07T03:42:43.000Z",
-          "wordCount": 140,
-          "title": "小林制药道歉广告开播：没有背景音乐，播音员语调沉重",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Ya90YfqzZY",
-          "author": "手机中国",
-          "description": "腾势汽车宣布全新智能豪华旗舰轿车命名为Z9 GT，预计在北京车展首次亮相，年底上市。这款定位百万级别的豪华GT轿车，竞品为保时捷Panamera。新车外观设计时尚，拥有无框车门和隐藏式门把手，尾部造型饱满。腾势汽车负责人表示，新车在空间、智能配置、舒适体验及加速操控等方面将优于保时捷Panamera、奔驰S级等竞争对手，麋鹿测试成绩接近90km/h，最小转弯直径小于十米。\n   \n媒体报道\n  \n腾势全新智能豪华旗舰轿车正式定名腾势Z9GT 将于北京车展首发中关村在线\n  \n猎装造型，腾势智能豪华旗舰轿车命名腾势 Z9GTIT 之家\n  \n腾势旗舰轿车定名为Z9GT 将在北京车展首发 姿态出众手机中国",
-          "link": "https://readhub.cn/topic/8Ya90YfqzZY",
-          "publishedOn": "2024-04-07T03:30:56.000Z",
-          "wordCount": 195,
-          "title": "腾势全新智能豪华旗舰轿车正式定名腾势Z9GT 将于北京车展首发",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaE16k4YNV",
-          "author": "手机中国",
-          "description": "三星S24系列凭借人工智能功能取得成功，销量目标上调至1300万台。该系列产品在前三周内全球销量同比增长8%，在西欧和美国市场销售额分别增长28%和14%。得益于此，2月三星全球智能手机销量达1969万部，市场份额20%，重新成为全球销量第一。在欧洲和美国市场，三星分别占据34%和36%的市场份额，较苹果有明显优势。三星通过S24系列成功接管了苹果失去的市场份额，计划巩固在高端市场的领导地位。\n   \n媒体报道\n  \nGalaxy AI全面赋能  三星Galaxy S24系列购机可享多重好礼手机中国\n  \n三星S24系列大获成功 一季度销量目标上调至1300万台搜狐科技\n  \n生成式AI激活想象力  三星Galaxy S24系列定义AI手机手机中国",
-          "link": "https://readhub.cn/topic/8YaE16k4YNV",
-          "publishedOn": "2024-04-07T03:26:52.000Z",
-          "wordCount": 324,
-          "title": "三星 S24 系列一季度销量目标上调至 1300 万台",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaGql9mUo6",
-          "author": "和讯网",
-          "description": "中国人民银行设立科技创新和技术改造再贷款，额度5000亿元，利率1.75%，期限1年，可展期，旨在引导金融机构加大对科技型中小企业和重点领域技术改造的金融支持。发放对象包括21家金融机构。金融机构自主决策发放贷款及条件，中国人民银行对符合要求的贷款按贷款本金的60%发放再贷款。\n   \n媒体报道\n  \n央行设立科技创新和技术改造再贷款，支持科技创新、技术改造和设备更新36Kr/澎湃新闻\n  \n央行设立科技创新和技术改造再贷款：额度5000亿元，利率1.75%新浪科技\n  \n央行设立科技创新和技术改造再贷款 支持科技创新、技术改造和设备更新腾讯网/中国证券网/新浪科技/和讯网",
-          "link": "https://readhub.cn/topic/8YaGql9mUo6",
-          "publishedOn": "2024-04-07T03:20:49.000Z",
-          "wordCount": 193,
-          "title": "央行设立科技创新和技术改造再贷款：额度5000亿元，利率1.75%",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Ya5QDUIB3M",
-          "author": "凤凰科技",
-          "description": "特斯拉将在美国佛罗里达州奥西奥拉县建设一座超级充电站，预计拥有超过200个充电桩，成为全球最大规模的超级充电站。该站位于Yeehaw Junction，将包括约160个V3超级充电桩、40个独立充电桩及供拖车使用的车位。项目分三个阶段实施，施工由GPD Group Inc.负责，还将配备兆瓦级电池储能装置。此外，特斯拉计划在加州克恩县建设一座拥有164个充电桩的超级充电站。特斯拉已开始向其他电动汽车品牌开放超级充电站，如福特和Rivian，未来通用汽车、极星和沃尔沃的电动汽车也将可以使用特斯拉的充电网络。同时，特斯拉在加州洛杉矶正在打造一个具有独特设计概念的超级充电站，配备50年代风格汽车餐厅、双屏露天影院及约32个充电桩。\n   \n媒体报道\n  \n特斯拉将在佛罗里达州建全球最大超级充电站，提供超200个充电桩中关村在线/凤凰科技\n  \n特斯拉将在佛罗里达州建全球最大超级充电站，提供超 200 个充电桩IT 之家",
-          "link": "https://readhub.cn/topic/8Ya5QDUIB3M",
-          "publishedOn": "2024-04-07T03:20:26.000Z",
-          "wordCount": 277,
-          "title": "特斯拉将在佛罗里达州建全球最大超级充电站，提供超 200 个充电桩",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YZyzq5q4bX",
-          "author": "新浪科技",
-          "description": "微软将继续保持其游戏机向后兼容性的领先地位，确保现有Xbox游戏能在未来的下一代硬件上运行。Xbox总裁Sarah Bond在一份内部邮件中提到，已经成立专门团队来应对硬件转变，保障游戏的长期可玩性。预计在2024年6月9日的Xbox展示会上，微软将分享更多相关信息。此前，微软已经在多个阶段成功地实现了不同代际Xbox游戏的向后兼容。\n   \n媒体报道\n  \nXbox成立新团队 致力于游戏保存和向上兼容中关村在线\n  \n消息称微软组建单独团队，帮助下一代Xbox游戏机向后兼容凤凰科技\n  \n消息称微软组建单独团队，帮助下一代 Xbox 游戏机向后兼容新浪科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YZyzq5q4bX",
-          "publishedOn": "2024-04-07T03:20:26.000Z",
-          "wordCount": 294,
-          "title": "消息称微软组建单独团队，帮助下一代 Xbox 游戏机向后兼容",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YYxOVpPHtJ",
-          "author": "牛透社",
-          "description": "英特尔本周宣布对销售和营销部门进行新一轮裁员，具体人数未公开。公司表示，此次调整是为了推动客户成果和实现公司战略，同时削减100亿美元的支出。英特尔还公布了财务报告，将产品设计业务与芯片制造业务分开，后者去年出现70亿美元的亏损。随着节点加速计划的完成，预计英特尔代工业务的亏损将在2024年达到峰值，而芯片制造业务目标是在2030年底前实现盈亏平衡，并达到非美国通用会计准则下的40%毛利率和30%营业利润率。\n   \n媒体报道\n  \n英特尔启动新一轮裁员，涉及销售和营销部门部分员工牛透社/凤凰科技/IT 之家",
-          "link": "https://readhub.cn/topic/8YYxOVpPHtJ",
-          "publishedOn": "2024-04-07T03:09:29.000Z",
-          "wordCount": 191,
-          "title": "英特尔启动新一轮裁员，涉及销售和营销部门部分员工",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaDzXm4RQU",
-          "author": "快科技",
-          "description": "华为宣布鸿蒙生态取得重大进展，超过4000个应用加入该生态，相比两个月前增长了20倍。鸿蒙生态已覆盖多个领域，包括生活便捷、金融理财、社交资讯等，并且得到了地方政府和产业界的支持，如深圳的行动计划和首个鸿蒙生态创新中心的成立。同时，鸿蒙OS的开发者预览版已开放申请，并计划在未来推出面向消费者的商用版本。许多知名应用和厂商已启动或完成鸿蒙原生应用的开发，还有一些已签约加入鸿蒙生态。\n   \n媒体报道\n  \n超 4000 原生应用加入华为鸿蒙生态，两个月增长幅度达 20 倍IT 之家\n  \n华为：已有超4000个应用加入鸿蒙生态手机中国\n  \n鸿蒙生态新里程碑达成！华为官宣超4000个应用加入 2个月狂涨20倍快科技/搜狐科技",
-          "link": "https://readhub.cn/topic/8YaDzXm4RQU",
-          "publishedOn": "2024-04-07T03:02:21.000Z",
-          "wordCount": 258,
-          "title": "超 4000 原生应用加入华为鸿蒙生态，两个月增长幅度达 20 倍",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Ya69GSOWs8",
-          "author": "财联社",
-          "description": "蔚来与芯联集成共同庆祝自研SiC模块C样件下线，这标志着双方合作取得重要进展，并预示着蔚来自研SiC模块向量产迈进。此前，双方已签订长期供货协议，此次下线仪式进一步证明了蔚来自研SiC模块技术的成熟度。\n   \n媒体报道\n  \n蔚来与芯联集成联合举办自研SiC模块C样下线仪式36Kr/财联社\n  \n蔚来汽车与芯联集成 SiC 模块合作项目 C 样下线，即将进入量产阶段IT 之家",
-          "link": "https://readhub.cn/topic/8Ya69GSOWs8",
-          "publishedOn": "2024-04-07T02:40:48.000Z",
-          "wordCount": 207,
-          "title": "蔚来与芯联集成联合举办自研SiC模块C样下线仪式",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaDHy4I0T4",
-          "author": "腾讯网",
-          "description": "最高人民法院为贯彻实施《中华人民共和国民法典》婚姻家庭编，保护妇女、未成年人、老年人、残疾人的权益，维护婚姻家庭和谐稳定，推动家庭家教家风建设，起草了相关解释的征求意见稿。现向社会公开征求意见，截止日期为2024年4月30日。公众可通过邮寄或电子邮件方式提出宝贵意见。\n   \n媒体报道\n  \n婚姻赠与房屋如何处理？民法典婚姻家庭编中热点问题 最高法公开征求意见中国证券网\n  \n最高法发布民法典婚姻家庭编司法解释（征求意见稿）腾讯网/南方周末\n  \n最高法发布民法典婚姻家庭编司法解释(征求意见稿)和讯网",
-          "link": "https://readhub.cn/topic/8YaDHy4I0T4",
-          "publishedOn": "2024-04-07T02:36:41.000Z",
-          "wordCount": 159,
-          "title": "最高法发布民法典婚姻家庭编司法解释(征求意见稿)",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaDZXX217k",
-          "author": "和讯网",
-          "description": "上海市杨浦区市场监督管理局对世纪佳缘旗下上海花千树信息科技有限公司罚款20万元，因其未按约定提供服务并骗取消费者费用。该公司此前已被罚款85万元，涉及未明确告知消费者服务数量和质量的付费会员服务，以及未按售前约定提供服务。央视315晚会曾曝光世纪佳缘等婚恋公司利用消费者痛点诱导购买昂贵会员服务，对此世纪佳缘发表道歉声明。\n   \n媒体报道\n  \n世纪佳缘骗取服务费被罚 20 万元，曾被 2024 央视 315 晚会点名IT 之家\n  \n世纪佳缘骗取服务费被罚20万和讯网\n  \n世纪佳缘收费不提供服务被罚20万DoNews",
-          "link": "https://readhub.cn/topic/8YaDZXX217k",
-          "publishedOn": "2024-04-07T02:32:21.000Z",
-          "wordCount": 189,
-          "title": "世纪佳缘收费不提供服务被罚20万",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8Ya7YVN9EqI",
-          "author": "和讯网",
-          "description": "三星电子和SK海力士将提高DRAM产量，恢复至削减前的水平。随着全球需求复苏，这两家韩国内存芯片制造商在今年第二季度加大了DRAM晶圆投入，结束了之前的减产措施。Omdia数据显示，三星电子将今年第二季度的平均每月DRAM晶圆投入量提升至60万片，环比增长13%，预计下半年将进一步增加至66万片。SK海力士也将把每月平均DRAM晶圆投入量从第一季度的39万片增加到第二季度的41万片，预计下半年的投入量将增加至45万片。\n   \n媒体报道\n  \n三星和SK海力士正在提高DRAM产量，将恢复至削减前水平36Kr\n  \n三星和SK海力士正在提升DRAM产量 将恢复至削减前手机中国/凤凰科技\n  \n三星和SK海力士正在提高DRAM产量 将恢复至削减前水平和讯网/财联社",
-          "link": "https://readhub.cn/topic/8Ya7YVN9EqI",
-          "publishedOn": "2024-04-07T02:31:46.000Z",
-          "wordCount": 285,
-          "title": "三星和SK海力士正在提高DRAM产量 将恢复至削减前水平",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YaBsmTc4ci",
-          "author": "速途网",
-          "description": "广汽埃安与滴滴自动驾驶宣布成立合资公司广州安滴科技有限公司，是国内首个L4自动驾驶公司与车企合资的企业。合资公司总部设在广州黄埔，双方各持股50%，管理团队由广汽埃安副总经理张雄和滴滴自动驾驶COO孟醒领导。双方合作的首款Robotaxi已完成产品定义，正进行设计评审，目标是在明年实现量产。\n   \n媒体报道\n  \n广汽埃安与滴滴自动驾驶合资公司获批工商执照，首批 L4 车型计划明年量产IT 之家\n  \n广汽埃安与滴滴自动驾驶合资公司获批，2025年推出首款商业化L4车型速途网\n  \n滴滴自动驾驶与广汽埃安合资公司获批，2025年推出首款商业化L4车型36Kr\n  \n广汽埃安和滴滴共同成立广州安滴科技有限公司财联社\n  \n滴滴自动驾驶与广汽埃安合资公司获批 2025年推出首款商业化L4车型新浪科技",
-          "link": "https://readhub.cn/topic/8YaBsmTc4ci",
-          "publishedOn": "2024-04-07T02:26:49.000Z",
-          "wordCount": 216,
-          "title": "广汽埃安与滴滴自动驾驶合资公司获批，2025年推出首款商业化L4车型",
-          "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
-        },
-        {
-          "id": "readhub-8YYXJJlodlS",
-          "author": "财联社",
-          "description": "长三角铁路今日迎来返程客流高峰，预计发送旅客370万人次。为满足旅客出行需要，铁路部门计划加开旅客列车220列，包括38列长途直通列车和182列短途管内列车。长途直通列车主要开往长三角至湖北、湖南方向，短途管内列车主要开往上海至浙江、安徽，苏北地区等方向。\n   \n媒体报道\n  \n清明假期长三角铁路发送旅客逾1030万人次，同比增超20%新浪科技\n  \n长三角铁路今日迎来返程客流高峰，预计发送370万人次澎湃新闻/新浪科技\n  \n长三角铁路清明假期发送逾1030万人次，同比增超20%新浪科技/澎湃新闻\n  \n长三角铁路今日迎来返程客流高峰 预计发送370万人次财联社\n  \n铁路上海局：长三角铁路清明假期旅客发送量同期增长超过20%新浪科技\n  \n长三角铁路预计今日发送旅客370万人次，计划加开旅客列车220列新浪科技\n  \n长三角铁路清明假期发送旅客逾1030万人次，同比增加2成新浪科技\n  \n返程高峰至，今日长三角铁路计划加开旅客列车220列新浪科技\n  \n长三角铁路清明假期发送旅客逾1030万人次财联社/新浪科技/36Kr\n  \n过去三天，长三角铁路发送旅客960多万人同比增超18%新浪科技",
-          "link": "https://readhub.cn/topic/8YYXJJlodlS",
-          "publishedOn": "2024-04-07T02:20:31.000Z",
-          "wordCount": 237,
-          "title": "长三角铁路今日迎来返程客流高峰 预计发送370万人次",
           "imageUrl": "https://readhub.cn/icons/icon-192x192.png"
         }
       ]
