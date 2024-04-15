@@ -2,10 +2,176 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-15T12:14:36.144Z</updated>
+    <updated>2024-04-15T18:09:23.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果将开放 iPhone 维修限制，以后可使用二手零部件进行维修]]></title>
+        <id>readhub-8YnVR7yqbZj</id>
+        <link href="https://readhub.cn/topic/8YnVR7yqbZj"/>
+        <updated>2024-04-15T15:46:48.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司将开放iPhone维修限制，从今年秋季开始，用户和独立维修供应商可以使用苹果正品二手零部件进行维修，无需订购全新的配件。消费者和维修店购买部件也不再需要提供序列号，除非主板更换这种大型维修。同时，用户可在手机的设置中查看iPhone是否维修过，以及更换了哪些部件。然而，如果更换的零件来源是以开启“查找”或“丢失模式”的，苹果将会限制该零件，防止被盗iPhone进行拆解后售卖零部件。
+   
+媒体报道
+  
+苹果承认 iPhone 键盘存在 Emoji BUG，承诺下次 iOS 更新修复i黑马
+  
+苹果向iPhone用户发布iOS17.5，续航信号极大优化，部分用户可升搜狐科技
+  
+苹果将开放 iPhone 维修限制，以后可使用二手零部件进行维修搜狐科技]]></summary>
+        <author>
+            <name>i黑马</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼相机终于取消第三方软件开发限制 29款相机焕发新生]]></title>
+        <id>readhub-8Yo2iPYz19E</id>
+        <link href="https://readhub.cn/topic/8Yo2iPYz19E"/>
+        <updated>2024-04-15T14:16:51.000Z</updated>
+        <summary type="html"><![CDATA[索尼发布新相机遥控工具包，支持29款索尼相机，包含相机遥控命令协议和相机遥控软件开发包。前者为新的技术规范文档，取消了对第三方软件开发的限制，支持用户根据不同需求开发软件，对相机进行远程控制。后者是集成化的命令系统，旨在提高开发效率，通过使用索尼提供的专用API对索尼相机的操作和控制。
+   
+媒体报道
+  
+索尼相机终于取消第三方软件开发限制 29款相机焕发新生搜狐科技/快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富德生命人寿董事长方力已辞职 继任者尚未确认]]></title>
+        <id>readhub-8Yni7Cwqe9X</id>
+        <link href="https://readhub.cn/topic/8Yni7Cwqe9X"/>
+        <updated>2024-04-15T14:15:52.000Z</updated>
+        <summary type="html"><![CDATA[富德生命人寿董事长方力因个人原因辞职，但仍将继续担任富德集团副董事长。她在任期间对公司的发展做出了重要贡献，特别是推动了公司的转型升级，使得公司在2023年实现了盈利和核心业务指标的积极增长。
+   
+媒体报道
+  
+富德生命人寿董事长方力已辞职 继任者尚未确认新浪科技
+  
+方力辞任富德生命人寿董事长 继续在富德集团任职中国证券网
+  
+“掌舵”十年方力辞任富德生命人寿董事长，仍任富德集团副董事长腾讯网
+  
+富德生命人寿董事长方力辞职，仍担任富德集团副董事长澎湃新闻
+  
+又有一位保险“老将”去职，方力辞任富德生命人寿董事长腾讯网
+  
+方力辞任董事长 富德生命人寿“将帅”均处于空缺状态新浪科技
+  
+富德生命人寿董事长方力辞职 仍担任富德集团副董事长新浪科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国移动推出移动云盘 App 华为鸿蒙 NEXT 版原生核心版本]]></title>
+        <id>readhub-8YmFhcB2QhB</id>
+        <link href="https://readhub.cn/topic/8YmFhcB2QhB"/>
+        <updated>2024-04-15T14:11:38.000Z</updated>
+        <summary type="html"><![CDATA[中国移动推出了基于华为鸿蒙HarmonyOS NEXT版的移动云盘App，这是电信行业首个鸿蒙原生应用核心版本。该App提供了上传下载、文档处理、音视频播放和文件备份等功能，支持在多终端间无缝流转，提供流畅、智能和安全的使用体验。
+   
+媒体报道
+  
+中国移动宣布推出“移动云盘”App 华为鸿蒙 HarmonyOS NEXT 版原生核心版本IT 之家
+  
+中国移动推出移动云盘 App 华为鸿蒙 NEXT 版原生核心版本搜狐科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江苏银行：董事会同意聘任袁军先生为本行行长]]></title>
+        <id>readhub-8Ynyt5cTngX</id>
+        <link href="https://readhub.cn/topic/8Ynyt5cTngX"/>
+        <updated>2024-04-15T14:00:41.000Z</updated>
+        <summary type="html"><![CDATA[江苏银行公告，董事会同意聘任袁军先生为本行行长。
+   
+媒体报道
+  
+“70后”袁军拟任江苏银行行长，此前任该行纪检监察组组长新浪科技/澎湃新闻
+  
+任前公示半个月后，袁军正式获聘江苏银行行长，今年已有多家上市银行走马换“行长”新浪科技
+  
+“70后”袁军拟任江苏银行行长 此前任该行纪检监察组组长新浪科技
+  
+江苏银行：聘任袁军担任江苏银行行长中国证券网
+  
+空缺近半年后，袁军拟任江苏银行行长，此前为该行纪检监察组组长腾讯网
+  
+江苏银行：董事会同意聘任袁军先生为本行行长财联社
+  
+江苏银行：聘袁军为行长新浪科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿博股份2023年业绩 从“预盈”变“预亏”]]></title>
+        <id>readhub-8YnHfBIGKlF</id>
+        <link href="https://readhub.cn/topic/8YnHfBIGKlF"/>
+        <updated>2024-04-15T13:50:53.000Z</updated>
+        <summary type="html"><![CDATA[鸿博股份发布2023年度业绩预告修正公告，由预计扭亏为盈修正为大额亏损，引发市场关注。公司归母净利润由此前预计盈利3740万元至5610万元，变更为亏损5000万元至5800万元，预示公司将连续两年深陷亏损。公司年审会计师认为，公司应在智算中心建设设备采购项目所有设备交付并完成最终部署后方可确认收入，因此相关收入在营业收入中予以扣除。鸿博股份是彩票印刷龙头，自2022年起积极寻找新的业务增长点，开拓人工智能领域业务。此次业绩“变脸”被认为信息披露不够慎重，若属于刻意误导投资者或者有意为之，则需要承担相关责任。
+   
+媒体报道
+  
+预盈转预亏 鸿博股份业绩变脸新浪科技
+  
+业绩变脸！预盈转预亏，鸿博股份开盘一字跌停腾讯网
+  
+不敢做假账了？鸿博股份2023年业绩预盈变预亏，股价一字跌停钛媒体
+  
+鸿博股份年报收关之际业绩预告由盈转亏 股价一字跌停信披涉嫌违规？新浪科技
+  
+鸿博股份2023年业绩 从“预盈”变“预亏”新浪科技
+  
+业绩预告“变脸”且盈亏性质发生变化 鸿博股份收深交所关注函财联社]]></summary>
+        <author>
+            <name>钛媒体</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛：预计未来12个月A股和H股分别有12%和8%的潜在上涨空间]]></title>
+        <id>readhub-8YnPFPtWtXo</id>
+        <link href="https://readhub.cn/topic/8YnPFPtWtXo"/>
+        <updated>2024-04-15T13:00:38.000Z</updated>
+        <summary type="html"><![CDATA[高盛策略师报告指出，鉴于A股市场政策敏感性和流动性动态，未来12个月A股和H股分别有12%和8%的上涨潜力。他们看好消费科技/互联网股，因为这些股票在收入增长环境和资本支出/成本控制方面表现更佳。同时，高盛关注股东回报，因为2023年股息和股票回购均达到历史最高水平。
+   
+媒体报道
+  
+高盛预计未来1年H股有8%的潜在上涨空间！今年以来港股回购加速新浪科技
+  
+高盛：维持新华保险“沽售”评级 H股目标价下调至15港元新浪科技
+  
+高盛：预计未来12个月A股和H股分别有12%和8%的潜在上涨空间财联社/36Kr
+  
+外围突传利好！高盛称A股有望大涨12%，2024年中国GDP增速预测也上调至5.0%新浪科技
+  
+新“国九条”发布后高盛唱多A股，称未来一年有12%上涨空间澎湃新闻]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪吒汽车获50亿元投资，投资方将协调相关资源支持尽快实现IPO]]></title>
+        <id>readhub-8Yo7or99jLV</id>
+        <link href="https://readhub.cn/topic/8Yo7or99jLV"/>
+        <updated>2024-04-15T12:31:00.000Z</updated>
+        <summary type="html"><![CDATA[桐乡市国有资本投资运营有限公司、宜春市金合股权投资有限公司、南宁民生新能源产业投资合伙企业与合众汽车签署了一份高质量发展联合协议，北京华鼎新动力股权投资基金、成都鸿景科技有限公司、宁波梅山保税港区问鼎投资有限公司等合众汽车的股东单位见证了签约。根据协议，各方将向合众汽车提供不少于50亿元人民币的投资，支持其IPO，并加大产品研发和技术创新的投入，扩建智能网联研发中心，以扩大出口规模。
+   
+媒体报道
+  
+哪吒汽车母公司合众汽车获 50 亿元投资，将尽快实现 IPO 上市IT 之家
+  
+合众汽车获50亿元融资，将加快IPO进程猎云网
+  
+合众汽车获总额不少于50亿元投资财联社
+  
+哪吒汽车获50亿元投资，投资方将协调相关资源支持尽快实现IPO新浪科技]]></summary>
+        <author>
+            <name>猎云网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赣能股份：预计一季度净利润同比增长3286%–3790%]]></title>
         <id>readhub-8Yo2pRBZhaL</id>
@@ -2084,336 +2250,6 @@ iPhone浏览器选择受限引发争议 苹果遭多公司指责中关村在线
 国内多家首饰金价格较昨日大跌约10元/克财联社]]></summary>
         <author>
             <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去24小时加密货币市场爆仓交易者数量已升至近30万]]></title>
-        <id>readhub-8YkEzOqe0fu</id>
-        <link href="https://readhub.cn/topic/8YkEzOqe0fu"/>
-        <updated>2024-04-13T06:00:35.000Z</updated>
-        <summary type="html"><![CDATA[过去24小时，加密货币市场有超过29.72万交易者爆仓，爆仓总额超9.25亿美元。比特币价格一度下跌超2000美元，跌幅达5.55%，以太坊、狗狗币和SOL等加密货币也均出现下跌，分别跌幅超9%、13%和14%。
-   
-媒体报道
-  
-比特币一度跌超7% 7.8亿美元看涨加密货币押注遭清算新浪科技
-  
-过去24小时加密货币市场爆仓交易者数量已升至近30万Odaily
-  
-曾交易PEPE获利的聪明钱在市场下跌前清仓避免137万美元亏损Odaily
-  
-比特币价格震荡引发7.8亿美元押注清算，减半前市场紧张情绪高涨和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克 xAI 展示首个多模态模型 Grok-1.5V：可将流程图转成 Python 代码]]></title>
-        <id>readhub-8YkOI2J523d</id>
-        <link href="https://readhub.cn/topic/8YkOI2J523d"/>
-        <updated>2024-04-13T05:51:38.000Z</updated>
-        <summary type="html"><![CDATA[马斯克旗下的人工智能公司xAI近日推出了首个多模态模型Grok-1.5 Vision，该模型不仅能理解文本，还能处理文档、图表、截图和照片中的内容。在多学科推理、文档理解、科学图表、表格处理、屏幕截图和照片等多个领域，Grok-1.5 Vision的表现可媲美现有的前沿多模态模型。在RealWorldQA基准测试中，Grok-1.5 Vision的成绩比GPT-4V、Claude 3Sonnet、Claude 3 Opus和Gemini Pro 1.5等主流竞争对手更为优异。
-   
-媒体报道
-  
-马斯克 xAI 展示首个多模态模型 Grok-1.5V：可将流程图转成 Python 代码IT 之家
-  
-马斯克发布Grok-1.5V！xAI首款多模态大模型，能看图写代码、算热量凤凰科技
-  
-马斯克旗下xAI发布创新模型Grok-1.5V 实现流程图到Python代码的转换ITBear科技资讯]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊高管：机器人和自动化并非取代人类工作，而是提高其生产力]]></title>
-        <id>readhub-8YkL4CvPxOh</id>
-        <link href="https://readhub.cn/topic/8YkL4CvPxOh"/>
-        <updated>2024-04-13T05:47:06.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊高管斯特凡诺・拉罗韦雷表示，机器人和自动化技术不会取代人类工作，反而能提升工作效率。亚马逊耗资约54.45亿元人民币，在物流中心安装新技术，提高了5万多名员工的生产力。机器人用来帮助员工完成重复性工作和搬运重物，让员工能学习新技能，实现职业目标。
-   
-媒体报道
-  
-亚马逊高管：机器人和自动化并非取代人类工作，而是提高其生产力搜狐科技
-  
-亚马逊高管：机器人和自动化技术并非取代人类工作，而是提高其生产力凤凰科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机构监测数据：下一轮国内成品油价上调是大概率事件]]></title>
-        <id>readhub-8YkH9bXlOzY</id>
-        <link href="https://readhub.cn/topic/8YkH9bXlOzY"/>
-        <updated>2024-04-13T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[国内成品油价即将上调，预计汽柴油分别上调190元/吨，上涨幅度约为0.15—0.16元/升。如果国际油价不出现巨幅下跌，上调将会在4月16日24时正式生效。车主加满50L油箱将多支出7—8元。具体调整情况将于下周由国家发改委官方公布。
-   
-媒体报道
-  
-机构监测数据：下一轮国内成品油价上调是大概率事件36Kr/财联社/新浪科技
-  
-停不下来！下一轮国内油价上调是大概率事件 加一箱多花8元快科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软《盗贼之海》现已推出 PS5 测试版，所有预购游戏的玩家均可体验]]></title>
-        <id>readhub-8YjMJZPxfY8</id>
-        <link href="https://readhub.cn/topic/8YjMJZPxfY8"/>
-        <updated>2024-04-13T04:43:38.000Z</updated>
-        <summary type="html"><![CDATA[微软旗下的开放世界海盗冒险游戏《盗贼之海》宣布将于4月30日登陆PS5平台，并同步开启PlayStation封闭Beta测试。游戏支持跨平台联机，并允许PS5和手柄用户优先加入。此外，游戏在PS5平台支持4K 60FPS及1080P 120FPS，拥有超过250个奖杯，并采用DualSense手柄的自适应扳机和震动功能。不同版本的游戏售价分别为308港币（约合283人民币）、398港币（约合366人民币）和468港币（约合430人民币），且不同版本均提供相应奖励。
-   
-媒体报道
-  
-微软《盗贼之海》现已推出 PS5 测试版，所有预购游戏的玩家均可体验IT 之家
-  
-《盗贼之海》终于登陆PS5 玩家：还能再等五年吗？中关村在线
-  
-《盗贼之海》PS5版正式上线 参与封测的玩家数量过多中关村在线]]></summary>
-        <author>
-            <name>中关村在线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软 SharePoint 被曝安全漏洞，被黑客利用可访问、下载日志文件]]></title>
-        <id>readhub-8Yk9d0no0Df</id>
-        <link href="https://readhub.cn/topic/8Yk9d0no0Df"/>
-        <updated>2024-04-13T03:51:59.000Z</updated>
-        <summary type="html"><![CDATA[网络安全公司Varonis Threat Labs披露微软SharePoint存在两个漏洞，黑客可利用这两个漏洞下载日志文件。第一种攻击方式是通过PowerShell脚本结合SharePoint的客户端对象模型来尝试下载文件，第二种方式是利用OneDrive与SharePoint的同步来逃避传统检测机制。尽管微软称SharePoint按设计运行并通过审计日志捕获文件访问，但Varonis仍建议安全厂商监控相关审计事件以进行全面文件访问监控。
-   
-媒体报道
-  
-多起敏感数据泄露风险 SharePoint被指存在两个潜在漏洞中关村在线
-  
-微软SharePoint被曝安全漏洞，被黑客利用可访问、下载日志文件凤凰科技
-  
-微软 SharePoint 被曝安全漏洞，被黑客利用可访问、下载日志文件IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为nova 12SE疑似被砍 nova 13或将于6月上市]]></title>
-        <id>readhub-8Yk1R0EUO5d</id>
-        <link href="https://readhub.cn/topic/8Yk1R0EUO5d"/>
-        <updated>2024-04-13T03:36:55.000Z</updated>
-        <summary type="html"><![CDATA[华为nova 12SE可能不会发布，而华为nova 13系列有望于6月上市。该系列预计将继续采用麒麟芯片，并在性能和通讯方面有所升级。人们期待着这一新品可能带来的创新功能。
-   
-媒体报道
-  
-华为nova 12SE疑似被砍 nova 13或将于6月上市凤凰科技/手机中国/搜狐科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI全球推介会：阿尔特曼保证ChatGPT升级不涉API用户数据]]></title>
-        <id>readhub-8Yk6mGJUQVV</id>
-        <link href="https://readhub.cn/topic/8Yk6mGJUQVV"/>
-        <updated>2024-04-13T03:01:18.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI近日在全球范围内举办推介会，首席执行官山姆・阿尔特曼亲自向包括金融、医疗保健和能源等行业的高层管理者介绍公司的创新产品，如ChatGPT Enterprise和文本转视频模型。阿尔特曼强调，通过ChatGPT Enterprise获取的客户数据不会用于训练未来模型的迭代版本，保障客户数据的安全性和隐私性。尽管微软也推出了相似的人工智能工具，并与OpenAI有紧密合作关系，但OpenAI仍选择独立推出产品，引发了一些参会者的质疑。
-   
-媒体报道
-  
-OpenAI 举办推介会，阿尔特曼承诺不用 API 收集的数据训练未来 ChatGPT 版本IT 之家
-  
-OpenAI全球推介会：阿尔特曼保证ChatGPT升级不涉API用户数据ITBear科技资讯
-  
-OpenAI举办推介会，奥特曼承诺不用API收集的数据训练未来ChatGPT版本凤凰科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果 Apple Watch 佩戴者数据洞察，完成“42 公里全马”平均需要 335 天]]></title>
-        <id>readhub-8YjyuneUaHo</id>
-        <link href="https://readhub.cn/topic/8YjyuneUaHo"/>
-        <updated>2024-04-13T02:45:25.000Z</updated>
-        <summary type="html"><![CDATA[一项由布里格姆妇女医院发布的数据表明，参与日常步行和跑步锻炼的用户，累积足够里程完成一个全程马拉松（42.195公里）大约需要335天。该数据来源于“Apple Heart and Movement Study”活动，自2019年11月启动至2024年1月1日，已有超过19.77万名参与者记录了步行情况，其中约9.94万名参与者还记录了跑步情况。2023年4月数据显示，有超过22.8%的参与者在该月内至少有一次步行或跑步的锻炼记录，累计里程达到了全程马拉松的距离。同时，约一半的参与者在大约90天内完成了全程马拉松的距离，但由于记录频率的不同，平均完成马拉松所需的的天数定为335天。此外，根据平均步数估算，完成全程马拉松大约需要52400步。
-   
-媒体报道
-  
-苹果Apple Watch佩戴者数据洞察，完成“42公里全马”平均需要335天中关村在线/凤凰科技
-  
-苹果 Apple Watch 佩戴者数据洞察，完成“42 公里全马”平均需要 335 天IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果App Store垄断案败诉 英国法庭拒绝驳回近10亿美元索赔]]></title>
-        <id>readhub-8YjLGjSSmol</id>
-        <link href="https://readhub.cn/topic/8YjLGjSSmol"/>
-        <updated>2024-04-13T02:45:22.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司未能驳回一起近10亿美元的诉讼，该诉讼由Sean Ennis教授带领，指控苹果向英国开发者收取高达30%的不公平佣金。苹果律师提出的在英国以外收费不能在英国提出索赔的请求被法官拒绝。苹果在美国和欧洲正面临监管压力，其App Store向第三方开发者收取的费用问题受到关注。同时，苹果还面临一起iPhone电池缺陷的案件。尽管面临这些法律问题，苹果股价因计划升级Mac电脑配置的新一代芯片M4而飙升。
-   
-媒体报道
-  
-苹果动议遭英国法院拒绝，被裁决要和“1566名开发者”对簿公堂凤凰科技
-  
-苹果App Store垄断案败诉 英国法庭拒绝驳回近10亿美元索赔新浪科技
-  
-苹果动议遭英国法院拒绝，被裁决要和“1566 名开发者”对簿公堂IT 之家/中关村在线]]></summary>
-        <author>
-            <name>新浪科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国海上第一深井正式投产]]></title>
-        <id>readhub-8YjyYo9STzM</id>
-        <link href="https://readhub.cn/topic/8YjyYo9STzM"/>
-        <updated>2024-04-13T02:44:30.000Z</updated>
-        <summary type="html"><![CDATA[中国海油恩平油田的超深大位移井正式投产，日产原油超过700吨，创造了我国海上最深钻井纪录，并刷新了我国海上钻井的水平长度纪录。
-   
-媒体报道
-  
-我国海上第一深井正式投产财联社
-  
-我国海上第一深井正式投产：钻井深度 9508 米、每日生产超 700 吨原油IT 之家/中关村在线
-  
-9508米！我国海上第一深井正式投产新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软：全新Microsoft Copilot Dashboard正式登场]]></title>
-        <id>readhub-8Yk64Wetdud</id>
-        <link href="https://readhub.cn/topic/8Yk64Wetdud"/>
-        <updated>2024-04-13T02:32:34.000Z</updated>
-        <summary type="html"><![CDATA[微软推出的Microsoft Copilot Dashboard正式上市，它通过Viva Insights驱动，帮助组织深入了解Copilot在Microsoft 365中的投资影响，并提供全面的隐私保护洞察。该仪表板能具体分析Copilot在会议、电子邮件、聊天、文档和搜索等常见工作活动中的影响。
-   
-媒体报道
-  
-微软：全新Microsoft Copilot Dashboard正式登场速途网/36Kr/财联社]]></summary>
-        <author>
-            <name>速途网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米应用商店新规今日生效：App不得默认勾选、强制捆绑自动续费]]></title>
-        <id>readhub-8Yk9d1wlijo</id>
-        <link href="https://readhub.cn/topic/8Yk9d1wlijo"/>
-        <updated>2024-04-13T02:21:34.000Z</updated>
-        <summary type="html"><![CDATA[小米应用商店公告新规，自即日起正式生效，针对App自动续费等行为进行整治。新规强调不得默认勾选、强制捆绑开通自动续订功能，并要求应用在提供自动续订服务时必须征求用户同意，明确告知服务内容、扣费金额和方式等信息，同时提供便捷的随时退订方式。
-   
-媒体报道
-  
-小米应用商店今起新规：App 不得默认勾选自动续费、强制捆绑开通搜狐科技
-  
-小米应用商店新规今日生效：App不得默认勾选、强制捆绑自动续费快科技
-  
-小米应用商店今起实施新规：App 不得默认勾选自动续费、强制捆绑开通服务IT 之家]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永辉超市发布人才计划，招募3000名应届大学生]]></title>
-        <id>readhub-8YiZyL5868p</id>
-        <link href="https://readhub.cn/topic/8YiZyL5868p"/>
-        <updated>2024-04-13T02:14:32.000Z</updated>
-        <summary type="html"><![CDATA[永辉超市发布新人才计划，旨在促进公司治理年轻化，主要针对省区运营、平台职能及采购管培生等岗位，计划招聘超过3000名应届大学生。公司有长期人才引进项目“1933项目”，已培养超1万名大学生成为零售行业专业人才。永辉与近百所院校合作，提供广阔发展通道、多层次培训，并通过创新和分级化培养策略提升内部人才专业能力，构建合理人才梯队，实现人才高效运用，提供更优质服务。
-   
-媒体报道
-  
-永辉超市2024年将招聘超3000名大学生36Kr
-  
-永辉超市发布人才计划，招募3000名应届大学生中关村在线
-  
-永辉超市发布2024“人才计划”电商报]]></summary>
-        <author>
-            <name>电商报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy AI 确认适配S22 / S21等机型，5 月更新 One UI 6.1]]></title>
-        <id>readhub-8YjDkFkDedf</id>
-        <link href="https://readhub.cn/topic/8YjDkFkDedf"/>
-        <updated>2024-04-13T02:02:16.000Z</updated>
-        <summary type="html"><![CDATA[三星官方确认将在5月初更新One UI 6.1，适配包括Galaxy S21、S22系列，以及Galaxy Z Fold 3、Flip 3等机型。其中，2021年设备将支持两个AI功能，2022年设备则支持更多，而Galaxy S23系列和Fold 5将拥有电话实时翻译、三星键盘风格修改与建议、同传实时翻译、三星笔记智能排版与摘要、录音机文本转录与摘要、浏览器文本摘要与翻译等功能。
-   
-媒体报道
-  
-5月初大升级：三星Galaxy AI适配S22/S21，One UI 6.1来袭ITBear科技资讯
-  
-三星 Galaxy AI 确认适配 S22 / S21 等机型，5 月初更新 One UI 6.1IT 之家
-  
-三星 Galaxy AI 确认适配S22 / S21等机型，5 月更新 One UI 6.1搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉将基础款全自动驾驶订阅费用砍掉100美元]]></title>
-        <id>readhub-8YjxUa5G0qE</id>
-        <link href="https://readhub.cn/topic/8YjxUa5G0qE"/>
-        <updated>2024-04-13T02:02:08.000Z</updated>
-        <summary type="html"><![CDATA[马斯克宣布在美国市场，特斯拉全自动驾驶（FSD）月租价格从199美元降至99美元，FSD增强版Autopilot月租也降至99美元，但仅限于精选市场。
-   
-媒体报道
-  
-特斯拉将基础款全自动驾驶订阅费用砍掉100美元36Kr
-  
-特斯拉海外FSD自动驾驶月度订阅费“砍半”，降至99美元凤凰科技
-  
-特斯拉海外 FSD 自动驾驶月度订阅费“砍半”，降至 99 美元IT 之家
-  
-特斯拉下了决心！FSD自动驾驶月度订阅费对半砍：降至99美元快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜马拉雅赴港IPO：2023年营收61.6亿 净利润2.24亿]]></title>
-        <id>readhub-8YjSP3QG5Uk</id>
-        <link href="https://readhub.cn/topic/8YjSP3QG5Uk"/>
-        <updated>2024-04-13T01:25:00.000Z</updated>
-        <summary type="html"><![CDATA[喜马拉雅向港交所提交了招股书，由高盛、摩根士丹利和中金担任联席保荐人。2023年，该公司营收达61.6亿元，净利润为2.24亿元。全场景平均月活跃用户数为3.03亿，移动端平均月活跃用户数为1.33亿。
-   
-媒体报道
-  
-喜马拉雅赴港递交招股书：23年经调净利2.24亿 移动端月活1.3亿和讯网/新浪科技
-  
-喜马拉雅赴港IPO：2023年营收61.6亿 净利润2.24亿财联社
-  
-喜马拉雅赴港递交招股书：2023全年净利润达2.24亿，移动端月活用户1.33亿36Kr]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果承认 iPhone 键盘存在 Emoji BUG，承诺下次 iOS 更新修复]]></title>
-        <id>readhub-8Yk4dJcN0yX</id>
-        <link href="https://readhub.cn/topic/8Yk4dJcN0yX"/>
-        <updated>2024-04-13T01:07:37.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司确认其iOS系统中存在一个错误，用户在Emoji表情符号面板搜索“耶路撒冷”关键词时会显示巴勒斯坦国旗表情符号。该公司表示这个错误不是故意的，并已在iOS 17.4.1更新中进行了修复，此前有关这一问题的社交媒体帖子引起了广泛关注。
-   
-媒体报道
-  
-苹果承认 iPhone 键盘存在 Emoji BUG，承诺下次 iOS 更新修复搜狐科技/IT 之家
-  
-苹果承认iPhone键盘存在Emoji BUG，承诺下次iOS更新修复凤凰科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌Pixel 8a全新渲染图流出：四色机身加双摄，设计感十足]]></title>
-        <id>readhub-8YjzcS7lRdu</id>
-        <link href="https://readhub.cn/topic/8YjzcS7lRdu"/>
-        <updated>2024-04-13T01:06:37.000Z</updated>
-        <summary type="html"><![CDATA[谷歌即将推出的Pixel 8a系列手机备受关注，基于Pixel 7a的成功。新手机将提供四种颜色选择，搭载Tensor G3芯片，配备6.1英寸120Hz OLED屏幕，提供128GB和256GB存储空间。摄像头方面，后置64MP双摄，前置13MP摄像头。电池容量为4500毫安时，支持27W充电。预计售价在3625至3988元人民币之间。
-   
-媒体报道
-  
-谷歌 Pixel 8a 手机渲染图泄露：蓝绿黑白四色外观、后置双摄搜狐科技/IT 之家
-  
-谷歌Pixel 8a手机渲染图泄露：蓝绿黑白四色外观、后置双摄凤凰科技
-  
-谷歌Pixel 8a全新渲染图流出：四色机身加双摄，设计感十足ITBear科技资讯]]></summary>
-        <author>
-            <name>凤凰科技</name>
         </author>
     </entry>
     <entry>
