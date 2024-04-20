@@ -2,10 +2,374 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-20T00:34:09.775Z</updated>
+    <updated>2024-04-20T06:08:39.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OceanBase 4.3推出列式存储引擎，可实现秒级实时分析]]></title>
+        <id>readhub-8YvtK2AAGnF</id>
+        <link href="https://readhub.cn/topic/8YvtK2AAGnF"/>
+        <updated>2024-04-20T06:05:54.000Z</updated>
+        <summary type="html"><![CDATA[OceanBase在4月20日发布的4.3版本中，推出了全新的列式存储引擎，实现了PB级实时分析数据库，加强了TP/AP一体化。在同等硬件条件下，其AP查询性能已达到业内一流水平。CTO杨传辉表示，今年OceanBase将继续提升TP性能、分布式、兼容性、AP存储、AP计算和AP工具生态能力。
+   
+媒体报道
+  
+OceanBase 4.3推出列式存储引擎，可实现秒级实时分析36Kr
+  
+OceanBase 4.3版本推出列式存储引擎，进一步加强TP/AP一体化搜狐科技/速途网]]></summary>
+        <author>
+            <name>速途网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称苹果 macOS 15 将对其计算器 App 进行“史上最重大更新”]]></title>
+        <id>readhub-8YuxaIvWo9R</id>
+        <link href="https://readhub.cn/topic/8YuxaIvWo9R"/>
+        <updated>2024-04-20T05:37:35.000Z</updated>
+        <summary type="html"><![CDATA[苹果正在为其计算器应用进行重大更新，新版应用代号为“GreyParrot”，已在macOS 15的早期测试版中提供。新版计算器将包含历史记录栏、数学笔记功能以及优化后的单位转换功能。用户可在计算器中直接查看之前的计算数据和过程，便于判断和总结。数学笔记功能便于用户创建包含数学元素或符号的备忘录。单位转换功能经过优化，更加直观简洁，能够自动完成单位转换并标注结果。货币转换依赖于互联网连接，能够自动获取当前汇率并进行换算。
+   
+媒体报道
+  
+消息称苹果 macOS 15 将对其计算器 App 进行“史上最重大更新”搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克将访问印度 星链和特斯拉或取得突破]]></title>
+        <id>readhub-8YvoDEfBl4q</id>
+        <link href="https://readhub.cn/topic/8YvoDEfBl4q"/>
+        <updated>2024-04-20T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[马斯克计划下周访问印度，将会见莫迪总理。期间，他可能作为外国投资的象征支持莫迪的竞选。据悉，SpaceX正在等待印度政府的卫星服务许可，而星链已在印度获得政府保证，预计今年第三季度起在印度开展业务。
+   
+媒体报道
+  
+特斯拉工作繁重，马斯克推迟访问印度凤凰科技
+  
+马斯克确认推迟访问印度：特斯拉工作繁重 期待今年晚些时候出访财联社
+  
+马斯克将访问印度 星链和特斯拉或取得突破36Kr
+  
+马斯克回应推迟访问印度：公司事务繁重新浪科技
+  
+消息称特斯拉首席执行官马斯克推迟印度之行新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉美国Model Y全系降价]]></title>
+        <id>readhub-8Yvnl01Z1ol</id>
+        <link href="https://readhub.cn/topic/8Yvnl01Z1ol"/>
+        <updated>2024-04-20T04:40:52.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉美国官网下调了Model Y、Model S和Model S PLAID的价格，其中Model Y价格降至42,990美元，Model Y长续航版至47,990美元，Model Y高性能版至51,490美元，Model S至72,990美元，Model S PLAID至87,990美元.
+   
+媒体报道
+  
+特斯拉美国Model Y全系降价财联社
+  
+特斯拉Model Y全系降价 Model Y价格降至42990美元新浪科技
+  
+降幅 2000 美元，特斯拉下调美国 Model Y / S / X 车型售价IT 之家
+  
+特斯拉美国下调Model Y/S/X车型售价，降幅2000美元凤凰科技
+  
+特斯拉Model Y全系降价36Kr
+  
+销售放缓、库存增加 特斯拉将部分车型在美国售价下调2000美元新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新能源渗透率历史性突破50% 燃油车电动车市场天秤正式反转]]></title>
+        <id>readhub-8YuOa9ChXxU</id>
+        <link href="https://readhub.cn/topic/8YuOa9ChXxU"/>
+        <updated>2024-04-20T04:01:11.000Z</updated>
+        <summary type="html"><![CDATA[中国新能源汽车发展迅速，4月上半月渗透率首次突破50%，提前11年完成国家规划目标。与此同时，合资燃油车市场份额大幅下跌，出现关店潮和消费者纠纷。分析认为，新能源汽车在动力、静谧性、智能化等方面已全面超越传统燃油车，预计下半年新能源渗透率将进一步提升。
+   
+媒体报道
+  
+新能源渗透率历史性突破50% 燃油车电动车市场天秤正式反转新浪科技
+  
+新能源乘用车零售渗透率首破50%，首次超过传统燃油乘用车澎湃新闻
+  
+新能源乘用车渗透率首破50% 首次超过传统燃油乘用车财联社/新浪科技
+  
+新能源乘用车渗透率首破50%，首次超过传统燃油乘用车36Kr]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 Pura 70 Ultra 卫星消息支持发送图片，对方可用畅连接收]]></title>
+        <id>readhub-8Yv1LBT9TNL</id>
+        <link href="https://readhub.cn/topic/8Yv1LBT9TNL"/>
+        <updated>2024-04-20T04:01:10.000Z</updated>
+        <summary type="html"><![CDATA[华为终端BG CTO李小龙展示了华为Pura 70 Ultra的卫星通信新功能，包括卫星图片消息功能，支持发送文字、地理位置和图片信息，可通过华为畅连App或普通短信接收。华为Pura 70 Ultra支持北斗卫星消息和天通卫星通信，可在极端环境下通过卫星发送求助信息。服务由北斗应用研究院提供，发送的图片会经过极限压缩处理，可能导致模糊或细节失真。此外，华为Pura 70 Ultra还支持灵犀通信，提升在弱信号场景下的通信体验。
+   
+媒体报道
+  
+华为李小龙实测Pura 70 Ultra卫星通信功能：能发图片了搜狐科技/快科技
+  
+华为Pura 70 Ultra 卫星消息支持发送图片中关村在线
+  
+华为Pura 70 Ultra卫星消息支持发送图片，对方可用畅连接收凤凰科技
+  
+华为 Pura 70 Ultra 卫星消息支持发送图片，对方可用畅连接收IT 之家/搜狐科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第135届广交会线下交易火热 境外采购商增长23.2%]]></title>
+        <id>readhub-8YvLtfJ3Q2j</id>
+        <link href="https://readhub.cn/topic/8YvLtfJ3Q2j"/>
+        <updated>2024-04-20T03:55:42.000Z</updated>
+        <summary type="html"><![CDATA[第135届广交会第一期线下展于19日下午结束，展期自4月15日开幕，吸引了来自212个国家和地区的125440名境外采购商线下参会，同比增长23.2%。其中，“一带一路”国家采购商占68.3%，RCEP成员国采购商占23%，欧美采购商占18.1%。本届广交会以“先进制造”为主题，第一期参展企业10898家，其中优质企业超3000家，智慧生活、“新三样”、工业自动化等高技术含量企业数量增长24.4%。线上平台运行平稳，累计访客数733万人，其中境外访客数占比90%。第二期将于4月23日至27日举行，以“品质家居”为主题。
+   
+媒体报道
+  
+广交会第一期实现“开门红”，境外采购商同比增长23.2%腾讯网
+  
+第135届广交会线下交易火热新浪科技
+  
+第135届广交会线下交易火热 境外采购商增长23.2%新浪科技
+  
+4月份沪牌拍卖结果公布 平均成交价为93022元财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克发文反对美国禁止TikTok：违背言论和表达自由]]></title>
+        <id>readhub-8YveScvtyBF</id>
+        <link href="https://readhub.cn/topic/8YveScvtyBF"/>
+        <updated>2024-04-20T03:52:32.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉CEO马斯克在社交媒体平台X上反对美国禁止TikTok，称此举有悖于言论和表达自由。美国众议院投票通过了一项法案，要求字节跳动在约六个月时间内剥离TikTok控制权，否则将遭到封禁。美众议院的新法案将给字节跳动至多一年时间来剥离TikTok。TikTok回应称，该法案将践踏1.7亿美国人的言论自由权，毁掉700万家企业，并关掉一个每年为美国经济贡献240亿美元的平台。
+   
+媒体报道
+  
+马斯克公开反对禁止TikTok：与第一修正案相冲突凤凰科技
+  
+马斯克公开反对禁止TikTok腾讯网
+  
+马斯克发文反对美国禁止TikTok：违背言论和表达自由快科技]]></summary>
+        <author>
+            <name>腾讯网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米手环 9 通过多家机构认证，即将上市发布]]></title>
+        <id>readhub-8YvptR2zREb</id>
+        <link href="https://readhub.cn/topic/8YvptR2zREb"/>
+        <updated>2024-04-20T03:18:43.000Z</updated>
+        <summary type="html"><![CDATA[小米手环9已在多个机构获得认证，型号为M2345B1，预计将推出普通版和NFC版。外观设计预计与前代相似，但屏幕亮度和分辨率将提升。续航能力和传感器配置可能与小米手环8相似，尚不确定是否增加内置GPS模块。
+   
+媒体报道
+  
+小米手环 9 通过多家机构认证，即将上市发布搜狐科技/IT 之家
+  
+小米手环9通过多家机构认证，即将上市发布凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：微软囤货GPU以发展AI]]></title>
+        <id>readhub-8YvdkJafyfG</id>
+        <link href="https://readhub.cn/topic/8YvdkJafyfG"/>
+        <updated>2024-04-20T02:42:05.000Z</updated>
+        <summary type="html"><![CDATA[微软计划到2024年12月囤积180万片GPU，以发布更快、更高效、更成本效益的AI产品，并优化消费电子产品和云服务中的相关AI服务。此次采购主要来自英伟达，也计划从AMD等其他公司采购。微软还计划在GPU和数据中心方面投资1000亿美元。微软将在今年5月的Build 2024大会上推出全新的Windows AI功能，并展示在AI PC、Copilot以及Windows on Arm等方面的计划。
+   
+媒体报道
+  
+目标年底前达 180 万片，消息称微软积极囤货 GPU 推动 AI 发展搜狐科技/IT 之家
+  
+外媒：微软囤货GPU以发展AI环球网科技]]></summary>
+        <author>
+            <name>搜狐科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三部门：增强IPv6网络性能和服务质量 推动算力基础设施同步部署IPv6]]></title>
+        <id>readhub-8YuxvcNwSzU</id>
+        <link href="https://readhub.cn/topic/8YuxvcNwSzU"/>
+        <updated>2024-04-20T02:40:49.000Z</updated>
+        <summary type="html"><![CDATA[中央网信办等三部门发布《深入推进IPv6规模部署和应用2024年工作安排》，提出增强IPv6网络性能和服务质量，推动算力基础设施同步部署IPv6，并提高应用设施和终端设备IPv6部署水平，以持续提升IPv6互联互通水平。
+   
+媒体报道
+  
+三部门：增强IPv6网络性能和服务质量 推动算力基础设施同步部署IPv6财联社
+  
+三部门：到2024年末IPv6活跃用户数达到8亿环球网科技
+  
+三部门：到2024年末IPv6活跃用户数达到8亿 物联网IPv6连接数达到6.5亿中国证券网/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯游戏《暗区突围：无限》PC 国际版上架 Steam，支持繁体中文]]></title>
+        <id>readhub-8YudlZcs56H</id>
+        <link href="https://readhub.cn/topic/8YudlZcs56H"/>
+        <updated>2024-04-20T02:34:03.000Z</updated>
+        <summary type="html"><![CDATA[《暗区突围：无限》是腾讯魔方工作室群开发的第一人称射击游戏《暗区突围》的PC版，已在Steam平台（锁国区）上架并支持繁体中文。这款超真实的沉浸式军事模拟游戏让玩家在危险的战场中运用高自由度的战术策略，目标是成功撤离暗区。游戏提供身临其境的战争体验，高风险带来高回报，玩家需在激烈的战斗中获取高价值物品以致富，同时得为生存而战。
+   
+媒体报道
+  
+《暗区突围：无限》登录Steam 可能很快就能玩到！中关村在线
+  
+腾讯游戏《暗区突围：无限》PC 国际版上架 Steam，支持繁体中文IT 之家
+  
+腾讯首款超真实模拟游戏来了！《暗区突围：无限》上架Steam中关村在线]]></summary>
+        <author>
+            <name>中关村在线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QQ安全团队：坚决打击外挂黑产，保障用户数据安全]]></title>
+        <id>readhub-8YumtWm1rbt</id>
+        <link href="https://readhub.cn/topic/8YumtWm1rbt"/>
+        <updated>2024-04-20T02:32:17.000Z</updated>
+        <summary type="html"><![CDATA[QQ安全中心发布声明，坚决打击外挂工具等破坏网络秩序的行为。这些行为不仅破坏了QQ平台的生态平衡和正常运营，还为恶意营销提供了便利，存在多种风险。QQ安全团队已经配合公安机关执法，抓捕相关犯罪嫌疑人40余人，侦破16起外挂黑产案件。
+   
+媒体报道
+  
+腾讯 QQ 严打“外挂”行为，点名“QQ 多开 / 代挂 / 个性化定制”等噱头IT 之家
+  
+QQ安全团队：坚决打击外挂黑产，保障用户数据安全中关村在线
+  
+QQ：严厉打击多开、代挂等“外挂”行为快科技]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海康威视：Q1净利19.16亿元，同比增5.78%]]></title>
+        <id>readhub-8YuwUxYeD4l</id>
+        <link href="https://readhub.cn/topic/8YuwUxYeD4l"/>
+        <updated>2024-04-20T02:30:59.000Z</updated>
+        <summary type="html"><![CDATA[海康威视公布2024年一季度净利润为19.16亿元，同比增长5.78%，2023年净利润为141亿元，同比增长9.89%，公司拟派发10股9元的红利。
+   
+媒体报道
+  
+海康威视第一季度营收 178.18 亿元同比增长 9.98%，净利润 19.16 亿元同比增长 5.78%IT 之家
+  
+海康威视：Q1净利19.16亿元，同比增5.78%新浪科技
+  
+海康威视一季度净利润同比增长5.78%新浪科技
+  
+海康威视：2024年一季度净利润19.16亿元 同比增长5.78%财联社
+  
+海康威视发布2024年第一季度财报：营收达到178.18亿元中关村在线
+  
+海康威视：2024年一季度净利润同比增长5.78%新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际奥委会发布《奥林匹克AI议程》]]></title>
+        <id>readhub-8YvlH4fZdN5</id>
+        <link href="https://readhub.cn/topic/8YvlH4fZdN5"/>
+        <updated>2024-04-20T02:21:05.000Z</updated>
+        <summary type="html"><![CDATA[国际奥委会在伦敦发布《奥林匹克AI议程》，旨在利用人工智能的潜能来支持运动员，提高体育比赛的公平性、安全保障和组织效率，以及改变体育转播方式，使观众体验更个性化和沉浸式。这是国际奥委会继《奥林匹克2020议程》和《奥林匹克2020+5议程》后，又一次对奥林匹克运动进行革新的举措。
+   
+媒体报道
+  
+国际奥委会发布《奥林匹克AI议程》搜狐科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁国际CEO：今年将在印尼推出Alipay+]]></title>
+        <id>readhub-8YukjYaRISS</id>
+        <link href="https://readhub.cn/topic/8YukjYaRISS"/>
+        <updated>2024-04-20T02:05:38.000Z</updated>
+        <summary type="html"><![CDATA[蚂蚁集团计划将旗下的跨境支付服务Alipay+引入印尼市场，并正在与当地央行就运营服务进行沟通和谈判。Alipay+自2020年推出以来，已为全球商家和电子钱包提供服务和技术支持，使海外用户能够使用本地电子钱包进行支付。杨鹏表示希望在今年内实现Alipay+在印尼的推出。目前，蚂蚁集团和印尼央行对此尚无正式公开声明。
+   
+媒体报道
+  
+蚂蚁国际CEO：今年将在印尼推出Alipay+新浪科技
+  
+蚂蚁国际CEO：希望今年在印尼推出Alipay+36Kr
+  
+蚂蚁国际CEO杨鹏：希望今年在印尼推出Alipay+电商报
+  
+蚂蚁国际 CEO：今年将在印尼推出 Alipay+ 跨境支付服务IT 之家]]></summary>
+        <author>
+            <name>电商报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二艘国产大型邮轮下坞，中国邮轮开启批量化建造]]></title>
+        <id>readhub-8YviNzNYvjy</id>
+        <link href="https://readhub.cn/topic/8YviNzNYvjy"/>
+        <updated>2024-04-20T01:40:43.000Z</updated>
+        <summary type="html"><![CDATA[中国第二艘国产大型邮轮在中国船舶上海外高桥造船厂完成下坞，进入总装阶段，标志着邮轮建造加速，批量化设计建造能力形成。该邮轮吨位、长度、客房数均超过首艘船，配备更先进的设备和环保系统，拥有16层生活娱乐区，休闲设施面积增加。预计将于2026年年底前交付。
+   
+媒体报道
+  
+第二艘国产大型邮轮下坞，中国邮轮开启批量化建造新浪科技
+  
+第二艘国产大型邮轮完成下坞，中国邮轮开启批量化建造澎湃新闻
+  
+第二艘国产大型邮轮下坞 计划于2026年年底之前命名交付36Kr/财联社
+  
+第二艘国产大型邮轮下坞，计划2026年年底之前命名交付新浪科技]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆 DJI Mini 4K 无人机官方“偷跑”，有望接任 Mini 2 SE 机型]]></title>
+        <id>readhub-8YveT8DBSq7</id>
+        <link href="https://readhub.cn/topic/8YveT8DBSq7"/>
+        <updated>2024-04-20T01:23:39.000Z</updated>
+        <summary type="html"><![CDATA[大疆更新了DJI Fly应用至1.13.1版本，在未连接无人机的情况下可进入“连接引导”。新版本首次展示了未发布的DJI Mini 4K航拍无人机，其外观与现有的Mini 2 SE无人机相同。现有Mini 2 SE售价1999元，支持2.7K 30FPS或1080P 60FPS视频录制，预计Mini 4K将支持4K视频录制，具体帧率未知。
+   
+媒体报道
+  
+大疆DJI Mini 4K无人机官方“偷跑”，有望接任Mini 2 SE机型凤凰科技
+  
+大疆 DJI Mini 4K 无人机官方“偷跑”，有望接任 Mini 2 SE 机型搜狐科技/IT 之家]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇瑞敲定协议正式落户西班牙 将成首家在欧生产的中国车企]]></title>
+        <id>readhub-8Yvgx9odJp8</id>
+        <link href="https://readhub.cn/topic/8Yvgx9odJp8"/>
+        <updated>2024-04-20T01:08:10.000Z</updated>
+        <summary type="html"><![CDATA[奇瑞汽车与西班牙Ebro-EV Motors公司签订协议，将在西班牙巴塞罗那建立合资企业，生产电动汽车，成为首家在欧洲生产汽车的中国车企。新基地位于原日产工厂，计划今年投产，预计2027年年产量达5万辆，2029年增至15万辆，将创造1250个就业岗位。
+   
+媒体报道
+  
+奇瑞敲定协议正式落户西班牙 将成首家在欧生产的中国车企36Kr/凤凰科技/财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 Watch Fit 3 手表渲染图曝光：屏幕更方正、配有旋转表冠]]></title>
+        <id>readhub-8YvaAUeZc9W</id>
+        <link href="https://readhub.cn/topic/8YvaAUeZc9W"/>
+        <updated>2024-04-20T00:57:11.000Z</updated>
+        <summary type="html"><![CDATA[华为Watch Fit 3智能手表高清渲染图曝光，手表方形设计，边框窄，边角圆润，右侧有两个按钮，支持蓝牙连接，具有音频存储和播放功能，不附带电源适配器。
+   
+媒体报道
+  
+华为 Watch Fit 3 手表渲染图曝光：屏幕更方正、配有旋转表冠搜狐科技/IT 之家
+  
+华为Watch Fit 3手表渲染图曝光：屏幕更方正、配有旋转表冠凤凰科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消息称欧盟最快下月批准苹果向第三方开放 NFC 支付选项]]></title>
         <id>readhub-8YvWbHUp90i</id>
@@ -3286,262 +3650,6 @@ Ross Young：苹果 iPhone 17 Plus 屏幕尺寸小于 6.7 英寸，以拉开 Plu
 微软对OpenAI的130亿美元投资交易将免于欧盟正式调查凤凰科技]]></summary>
         <author>
             <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4款注射剂被举报国采投标价格异常，至少28家企业或被约谈]]></title>
-        <id>readhub-8YrDu7Duo0T</id>
-        <link href="https://readhub.cn/topic/8YrDu7Duo0T"/>
-        <updated>2024-04-17T16:14:16.000Z</updated>
-        <summary type="html"><![CDATA[国家组织药品联合采购办公室公告称，有群众举报四个药品品种在国家组织药品集中采购中存在投标价格异常情形，联采办将对这些品种的所有投标企业进行约谈。涉及的品种包括第七批集采的溴己新注射剂和奥曲肽注射剂，第八批集采的哌拉西林他唑巴坦注射剂，以及第九批集采的甘油果糖氯化钠注射剂。这些品种共涉及28家企业的投标，包括多家上市药企旗下公司。公告强调，此次约谈对象包括所有参与投标的企业，即使未中标也在内，意味着受影响的企业数量将超过28家。
-   
-媒体报道
-  
-4个国采品种投标价格异常，被举报，数十家企业将被约谈！医药魔方
-  
-4款注射剂被举报国采投标价格异常，至少28家企业或被约谈澎湃新闻
-  
-4个国采品种投标价格异常被举报！医药魔方]]></summary>
-        <author>
-            <name>医药魔方</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东芝“卷入”裁员潮：拟在日本裁减5000人 约占员工总数10%]]></title>
-        <id>readhub-8YrD54RYqhI</id>
-        <link href="https://readhub.cn/topic/8YrD54RYqhI"/>
-        <updated>2024-04-17T15:40:36.000Z</updated>
-        <summary type="html"><![CDATA[东芝公司计划在日本裁员5000人，约占员工总数的10%，可能是日本今年最大规模的裁员。该公司正缩减非核心业务，并因此计入约1000亿日元的一次性成本。在日本，裁员较为罕见，但近期日本蓝筹公司裁员现象增多，工人流动性增加，越来越多公司雇用外国工人。东芝一直在努力削减成本，并专注于基础设施和数字技术业务。该公司曾是日本最大雇主之一，近年来一直挣扎于管理失误和丑闻之中。
-   
-媒体报道
-  
-东芝拟在日本裁员 5000 人，将集中资源发展数字化IT 之家
-  
-东芝据悉计划在日本裁员5000人财联社/36Kr
-  
-东芝“卷入”裁员潮：拟在日本裁减5000人 约占员工总数10%新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[危地马拉南部地区发生4.4级地震]]></title>
-        <id>readhub-8YqR6DDsMcw</id>
-        <link href="https://readhub.cn/topic/8YqR6DDsMcw"/>
-        <updated>2024-04-17T14:35:48.000Z</updated>
-        <summary type="html"><![CDATA[危地马拉南部埃斯昆特拉省发生4.4级地震，震源深度68.6公里，目前无人员伤亡及财产损失报告。
-   
-媒体报道
-  
-日本四国岛发生6.2级地震 震源深度30千米财联社
-  
-日本四国岛附近发生6.5级左右地震财联社/腾讯网
-  
-危地马拉南部地区发生4.4级地震财联社
-  
-印度安达曼群岛发生5.2级地震财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独家：快手本地生活启动五一大促招商]]></title>
-        <id>readhub-8YrK8K8ZAp7</id>
-        <link href="https://readhub.cn/topic/8YrK8K8ZAp7"/>
-        <updated>2024-04-17T13:45:42.000Z</updated>
-        <summary type="html"><![CDATA[快手本地生活开展“敢比价 五一团购节”大促活动，招商面向酒旅、餐饮和综类商家。活动从4月20日至5月5日，要求商家价格不高于其他平台近30天最低价，商品提报需开通达人带货佣金不低于1%，核销周期不得低于7天。报名商品可获得66元和120元的优惠券补贴，同时快手还推出主播带货相关的流量及现金奖励政策。
-   
-媒体报道
-  
-独家：快手本地生活启动五一大促招商亿邦动力网
-  
-零售晚报：独家：快手本地生活启动五一大促招商亿邦动力网
-  
-19点聊电商：独家：快手本地生活启动五一大促招商亿邦动力网
-  
-快手本地生活启动五一大促招商电商报]]></summary>
-        <author>
-            <name>电商报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易动作端游《超激斗梦境》6 月 17 日停运]]></title>
-        <id>readhub-8YrJlmWXsLK</id>
-        <link href="https://readhub.cn/topic/8YrJlmWXsLK"/>
-        <updated>2024-04-17T13:44:19.000Z</updated>
-        <summary type="html"><![CDATA[网易宣布动作端游《超激斗梦境》将于2024年6月17日停止运营。游戏自2019年首次测试以来，提供了多种角色和战斗体验。现在至停运日期，玩家可使用未用宝石，且未使用的收费宝石将转换为点数补偿。此外，玩家可在其他网易游戏中享受成长福利。
-   
-媒体报道
-  
-网易首款花式动作爽游 《超激斗梦境》6月17日停运：运营不到3年快科技
-  
-网易动作端游《超激斗梦境》6 月 17 日停运IT 之家
-  
-网易自研游戏《超激斗梦境》即将停运中关村在线]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新大型旗舰轿车登场：红旗 L1 将于北京车展首发]]></title>
-        <id>readhub-8YpACdNKUQy</id>
-        <link href="https://readhub.cn/topic/8YpACdNKUQy"/>
-        <updated>2024-04-17T13:32:12.000Z</updated>
-        <summary type="html"><![CDATA[红旗品牌将在北京车展上推出其超豪华L1轿车，该车融合了红旗经典设计元素和现代创新细节，车身尺寸宽敞，提供不同动力配置。内饰设计豪华，具有复古与现代相结合的风格。
-   
-媒体报道
-  
-全新大型旗舰轿车登场：红旗 L1 将于北京车展首发IT 之家
-  
-红旗全新大型轿车 L1 申报，3.0T / 4.0T 混动加持IT 之家
-  
-前脸形似宾利 红旗全新L1轿车申报：3.0T/4.0T混动加持快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司加大对全球清洁能源和水资源的投资]]></title>
-        <id>readhub-8YrShizLVvy</id>
-        <link href="https://readhub.cn/topic/8YrShizLVvy"/>
-        <updated>2024-04-17T13:30:56.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司宣布在全球推广清洁能源方面取得新进展，投资太阳能发电并建立新合作伙伴关系，计划在20年内提供近70亿加仑水资源，助力恢复含水层和河流，资助饮用水获取。
-   
-媒体报道
-  
-苹果加大投资清洁能源项目 与供应商共同支持超过18千兆瓦清洁能源使用新浪科技
-  
-苹果加大投资清洁能源与水资源电商报
-  
-苹果加大力度投资清洁能源与水资源项目 已有显著成果手机中国
-  
-苹果公司加大对全球清洁能源和水资源的投资财联社
-  
-苹果宣布加大对“清洁能源和水”可持续发展的投资IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三部门：加快推进境内外银行卡受理设备软硬件改造和布放 统筹考虑推动非接触式支付发展]]></title>
-        <id>readhub-8YrT2kBTGv6</id>
-        <link href="https://readhub.cn/topic/8YrT2kBTGv6"/>
-        <updated>2024-04-17T13:21:56.000Z</updated>
-        <summary type="html"><![CDATA[中国人民银行、商务部、国家外汇管理局联合发布通知，推动境内外银行卡受理设备的软硬件改造和布放，加快非接触式支付的发展。重点场所和商户的银行卡受理环境将得到优化，自动取款机也将进行改造以支持境内外银行卡取现。相关部门将联合督促指导商户受理覆盖情况，以持续优化银行卡受理环境。
-   
-媒体报道
-  
-三部门：加快推进境内外银行卡受理设备软硬件改造和布放 统筹考虑推动非接触式支付发展财联社
-  
-央行等：推动重点场所及重点商户配备受理移动支付、境内外银行卡、现金等必需的软硬件设施澎湃新闻
-  
-三部门：率先打造一批外籍来华人员支付便利化重点商圈，构建包容多样支付受理环境IT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球大裁员、销量罕见下跌，相比于升级Model 3 马斯克更关心火星]]></title>
-        <id>readhub-8YrPwrxIJ85</id>
-        <link href="https://readhub.cn/topic/8YrPwrxIJ85"/>
-        <updated>2024-04-17T13:15:06.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉近期销量下滑，股价大跌，市值蒸发超2600亿美元。同时，马斯克宣布裁员10%，两名高管离职。特斯拉在创新方面放缓，马斯克押注于Cybertruck电动皮卡和完全自动驾驶等重大创新，但相关交付和功能实现面临困难。
-   
-媒体报道
-  
-全球大裁员、销量罕见下跌，相比于升级Model 3 马斯克更关心火星凤凰科技
-  
-全球大裁员、销量罕见下跌！相比于升级Model 3 马斯克更关心火星中关村在线/快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼将为PS5 Pro提供全新独占图形模式：4K 60FPS]]></title>
-        <id>readhub-8Yr1CTvw5mU</id>
-        <link href="https://readhub.cn/topic/8Yr1CTvw5mU"/>
-        <updated>2024-04-17T13:14:37.000Z</updated>
-        <summary type="html"><![CDATA[索尼将为PS5 Pro推出一种新的独占图形模式，该模式将提供4K分辨率、60FPS以及光线追踪技术。游戏开发商需通过升级至索尼的SDK来支持这一模式，以实现更高质量的图像显示。报道称，该模式下游戏将获得“增强”标签，但并非所有游戏都能获得此标签，例如那些分辨率可变但未提高最大分辨率或帧率的游戏。同时，也有报道提到存在一种“超提升”模式，可以帮助提升帧率和分辨率。
-   
-媒体报道
-  
-索尼将为PS5 Pro提供全新独占图形模式：4K 60FPS搜狐科技
-  
-外媒：PS5 Pro独占游戏将获得新“增强”标签 或能4K+60FPS+光追中关村在线
-  
-索尼PS5 Pro将升级8K：玩家坐不住了中关村在线]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《尘白禁区》健康系统升级：18岁以下禁玩]]></title>
-        <id>readhub-8YrG5FgyN1h</id>
-        <link href="https://readhub.cn/topic/8YrG5FgyN1h"/>
-        <updated>2024-04-17T13:13:27.000Z</updated>
-        <summary type="html"><![CDATA[《尘白禁区》官方宣布对游戏健康系统进行重大升级，维护将于2024年4月18日17:00开始。升级后，未满18周岁的用户无法注册游戏角色，以保护未成年人免受不适宜内容和行为的影响。新系统将提供更安全健康的在线体验，并给予家长和监护人更多支持。
-   
-媒体报道
-  
-未成年不能玩！《尘白禁区》宣布：明日起将禁止未成年人注册游戏快科技
-  
-《尘白禁区》健康系统升级公告 未满18周岁用户无法注册角色中关村在线
-  
-《尘白禁区》健康系统升级：18岁以下禁玩中关村在线]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩媒：中国电车和电池席卷欧洲 韩企地位将受威胁]]></title>
-        <id>readhub-8YrPUxlvL1z</id>
-        <link href="https://readhub.cn/topic/8YrPUxlvL1z"/>
-        <updated>2024-04-17T13:06:58.000Z</updated>
-        <summary type="html"><![CDATA[中国电动汽车及电池在欧洲市场快速崛起，市场份额持续扩大，对韩国相关企业在欧洲的地位构成威胁。中国电池企业在欧洲市场份额去年已超40%，而韩国下滑至约57%。中国产电动车在欧洲占有率去年激增至19.5%，预计今年还将持续增长。若中国电动汽车销量在欧洲持续提升，将加剧与韩国企业的竞争态势，韩国企业在欧洲市场的地位或将难以保持。
-   
-媒体报道
-  
-韩媒：中国电动汽车和电池正“席卷”欧洲 韩企在海外地位将受“威胁”财联社
-  
-韩媒：中国电车和电池席卷欧洲 韩企地位将受威胁凤凰科技/手机中国]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浙江已有超300款应用加入鸿蒙生态，新增近20款浙江本地应用宣布启动开发]]></title>
-        <id>readhub-8YpxnPoLaTT</id>
-        <link href="https://readhub.cn/topic/8YpxnPoLaTT"/>
-        <updated>2024-04-17T12:40:48.000Z</updated>
-        <summary type="html"><![CDATA[在“千帆启航，共筑鸿蒙”HDD浙江站活动中，超过20个应用宣布启动鸿蒙原生应用开发，使浙江省加入鸿蒙生态的应用总数超过300款。会议中，孙自强、张吕铮和望岳等领导发表了致辞。目前，鸿蒙生态设备数已突破8亿台，全国有超4000家应用加入原生鸿蒙生态，同时已有超过220万的鸿蒙开发者参与高校与华为共同培养计划。
-   
-媒体报道
-  
-新增近20个 浙江省已有超300款应用加入鸿蒙生态和讯网/凤凰科技/搜狐科技
-  
-浙江已有超300款应用加入鸿蒙生态，新增近20款浙江本地应用宣布启动开发新浪科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米联合创始人林斌及其妻子向母校中山大学捐赠1亿元]]></title>
-        <id>readhub-8YrSM5Z3AqN</id>
-        <link href="https://readhub.cn/topic/8YrSM5Z3AqN"/>
-        <updated>2024-04-17T12:36:44.000Z</updated>
-        <summary type="html"><![CDATA[中山大学接受校友林斌和刘向东夫妇的一亿元捐赠，其中将用于建设面积1.2万平方米的文体中心和设立以其命名的奖学金，以支持学校发展和优秀学生的学习生活。林斌呼吁更多校友参与母校的建设。
-   
-媒体报道
-  
-100周年校庆！小米联合创始人林斌、刘向东向中山大学捐赠1亿元快科技
-  
-小米联合创始人、副董事长林斌及妻子刘向东向母校中山大学捐赠 1 亿元IT 之家
-  
-小米联合创始人林斌及其妻子向母校中山大学捐赠1亿元凤凰科技
-  
-小米集团联合创始人、副董事长林斌及其妻子向中山大学捐赠1亿元新浪科技]]></summary>
-        <author>
-            <name>快科技</name>
         </author>
     </entry>
     <entry>
