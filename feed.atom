@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-26T18:09:07.939Z</updated>
+    <updated>2024-04-27T00:34:01.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果已停止升级 Mac 起步内存，库克更看重优化软硬件集成度]]></title>
+        <id>readhub-8Z7EI8kLqYT</id>
+        <link href="https://readhub.cn/topic/8Z7EI8kLqYT"/>
+        <updated>2024-04-27T00:17:18.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司在蒂姆·库克掌舵后，已停止对Mac设备基础款内存的常规升级。过去在乔布斯时代，Mac的起步内存会每隔两年升级一次，但目前自2012年以来，苹果MacBook Pro和iMac一直提供8GB RAM，MacBook Air在2017年也升级至相同容量。尽管用户有升级内存的需求，但苹果认为8GB内存已足够应对多数日常任务，并且公司更注重优化硬件与软件的集成度以及芯片与组件之间的通信效率，通过SoC架构的集成来提升性能。
+   
+媒体报道
+  
+“万年 8GB”：苹果已停止升级 Mac 起步内存，库克更看重软硬件集成度凤凰科技/IT 之家
+  
+苹果已停止升级 Mac 起步内存，库克更看重优化软硬件集成度搜狐科技]]></summary>
+        <author>
+            <name>凤凰科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果加紧与OpenAI的谈判 寻求在新产品中增加人工智能功能]]></title>
+        <id>readhub-8Z79HBfjFRK</id>
+        <link href="https://readhub.cn/topic/8Z79HBfjFRK"/>
+        <updated>2024-04-26T23:55:57.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司正与OpenAI谈判，计划在其新产品中增加人工智能功能，预计将支持今年晚些时候发布的iPhone新功能，并讨论将OpenAI技术整合至下一代iPhone操作系统iOS 18中的条款。
+   
+媒体报道
+  
+消息称苹果已恢复与OpenAI谈判，寻求在iOS/iPadOS 18中增加人工智能功能凤凰科技
+  
+苹果重启与OpenAI的谈判 拟在新产品中添加人工智能新功能新浪科技
+  
+消息称苹果已恢复与 OpenAI 谈判，寻求在 iOS / iPadOS 18 中增加人工智能功能IT 之家
+  
+消息称苹果已恢复与 OpenAI 谈判，寻求在 iOS 18 中增加 AI 功能搜狐科技
+  
+苹果加紧与OpenAI的谈判 寻求在新产品中增加人工智能功能财联社]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行今日进行20亿元7天期逆回购操作]]></title>
+        <id>readhub-8Z5gwSv7QTJ</id>
+        <link href="https://readhub.cn/topic/8Z5gwSv7QTJ"/>
+        <updated>2024-04-26T22:50:42.000Z</updated>
+        <summary type="html"><![CDATA[央行今日进行20亿元7天期逆回购操作，利率为1.80%。
+   
+媒体报道
+  
+刷屏！两大部门释放重磅信号：央行回应下场买国债 财政部表态支持新浪科技
+  
+央行今日进行20亿元7天期逆回购操作36Kr
+  
+公开市场连续一周零投放零回笼 央行操作思路或延续量稳价平财联社
+  
+日本央行或将“放鹰” 银行股及价值股涨势未尽和讯网
+  
+人民银行今日公开市场实现零投放零回笼中国证券网]]></summary>
+        <author>
+            <name>和讯网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滨江集团去年营收约704亿元，权益销售现金回笼732亿元]]></title>
         <id>readhub-8Z6MKmKfuhM</id>
@@ -3558,684 +3618,6 @@ FTC 禁止绝大部分职业的竞业禁止协议Solidot]]></summary>
 海南首条无人机公共货运物流首飞成功 实现琼粤“空中通道”跨海飞行搜狐科技]]></summary>
         <author>
             <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米回应SU7翼子板脱落：车辆高速涉水行驶 仅个例出现]]></title>
-        <id>readhub-8Z2Ub5P2mVg</id>
-        <link href="https://readhub.cn/topic/8Z2Ub5P2mVg"/>
-        <updated>2024-04-24T12:26:19.000Z</updated>
-        <summary type="html"><![CDATA[小米汽车就旗下SU7车型翼子板脱落问题发表声明，称此问题仅出现在个别车辆上，这些车辆均曾高速涉水行驶。小米强调其产品在设计时已考虑到涉水问题，并通过了相关测试。目前，公司尚未能确定事故车辆的具体涉水情况。小米建议车主在涉水时应判断水深并缓慢驾驶，避免高速通过以减少对车辆的冲击。同时，小米正对相关个案进行进一步的调查和分析。
-   
-媒体报道
-  
-小米SU7拓展配件不合规？陈震的质疑有没有道理？搜狐科技
-  
-陈震质疑小米SU7拓展配件合规性：手机支架有阻挡后视镜可能搜狐科技
-  
-小米回应SU7翼子板脱落：车辆高速涉水行驶 仅个例出现快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[九号公司：一季度净利润1.36亿元 同比增长675.34%]]></title>
-        <id>readhub-8Z2wnu6pS2B</id>
-        <link href="https://readhub.cn/topic/8Z2wnu6pS2B"/>
-        <updated>2024-04-24T12:24:49.000Z</updated>
-        <summary type="html"><![CDATA[九号公司公布一季度净利润达1.36亿元，同比增长675.34%。
-   
-媒体报道
-  
-九号公司(689009.SH)：一季度净利润1.36亿元 同比增长675.34%新浪科技
-  
-九号公司Q1营收25.62亿元，同比增长54.18%DoNews
-  
-九号公司：一季度净利润1.36亿元 同比增长675.34%财联社
-  
-九号公司：一季度净利润1.36亿元，同比增长675.34%36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop测试版推出AI图像生成功能：用户仅需提供简单文本]]></title>
-        <id>readhub-8Z2fJSBaEGl</id>
-        <link href="https://readhub.cn/topic/8Z2fJSBaEGl"/>
-        <updated>2024-04-24T12:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Photoshop推出了革命性的新功能，通过文本提示和人工智能技术生成图像。新功能基于Adobe新发布的生成式AI模型系列——Firefly Image 3，已生成超过70亿张图像。用户可以直接在Photoshop中使用这一功能生成图像，并参考已有图像进行创新和简化背景生成。同时，“生成填充”功能也得到升级，支持将AI生成的图像无缝融合到现有图像中，提高了图像编辑的多样性和创意性。随着AI技术的不断进步，越来越多的公司正在将其应用于产品和服务中以提升用户体验和竞争力。
-   
-媒体报道
-  
-Adobe Photoshop测试版推出AI图像生成功能搜狐科技
-  
-Photoshop测试版推出AI图像生成功能：用户仅需提供简单文本凤凰科技/快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地平线科技发布智能驾驶解决方案]]></title>
-        <id>readhub-8Z33cIzNPv6</id>
-        <link href="https://readhub.cn/topic/8Z33cIzNPv6"/>
-        <updated>2024-04-24T12:01:35.000Z</updated>
-        <summary type="html"><![CDATA[地平线科技发布新一代车载智能计算方案“征程6”系列，包含不同规格的芯片。其中，入门级的征程6B芯片针对ADAS主动安全功能，提供10+TOPS算力，注重小体积和低成本。中端的征程6E和征程6M芯片面向10-20万级车型市场，硬件系统成本在5000元以内，分别提供80TOPS和128TOPS算力，具备高速NOA能力和城区辅助驾驶能力。旗舰级的征程6P针对城区高阶智能驾驶，硬件系统成本在10000元以内，提供560TOPS算力，支持多类传感器和高清摄像头。
-   
-媒体报道
-  
-地平线科技发布智能驾驶解决方案搜狐科技/和讯网/凤凰科技]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[财付通公司注册资本增至153亿元]]></title>
-        <id>readhub-8Z2YVDy825e</id>
-        <link href="https://readhub.cn/topic/8Z2YVDy825e"/>
-        <updated>2024-04-24T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[财付通支付科技有限公司近日完成工商变更，注册资本从10亿人民币增至153亿人民币，成为当前持牌支付公司中注册资本最高的企业。该公司成立于2006年，由腾讯和世纪凯旋共同持股，主要经营电子商务、电子支付等技术开发。财付通是腾讯集团的第三方支付平台，自2011年获得第三方支付牌照以来，业务范围已覆盖全国，包括网络支付、银行卡收单及跨境支付等。在人民银行、外汇局的支持下，财付通已实施多项措施优化支付服务，提升支付便利性，特别关注老年群体和外籍来华人员的需求。
-   
-媒体报道
-  
-财付通公司注册资本增至153亿元电商报
-  
-财付通增资完成工商变更 增资至153亿财联社
-  
-财付通增资至153亿，增幅达1430%腾讯网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚洲首个小猪佩奇户外主题乐园落户上海，预计2027年开业]]></title>
-        <id>readhub-8Z2uextEKDr</id>
-        <link href="https://readhub.cn/topic/8Z2uextEKDr"/>
-        <updated>2024-04-24T11:45:53.000Z</updated>
-        <summary type="html"><![CDATA[上海脉驰文化发展有限公司引入并运营管理的亚洲首个小猪佩奇户外主题乐园项目正式落户上海崇明区长兴岛。该项目是全球最大规模的小猪佩奇户外主题乐园，占地290亩，预计2027年建成开业，投资额超24亿元。建成后将成为上海旅游的新名片，并带动周边地区发展。上海市长兴岛开发建设管理委员会专职副主任蔡潇飞表示，该项目将为上海东北部地区文旅产品提升国际知名度，并为游客提供更多元化的沉浸式娱乐体验。乐园将由脉驰文化全权引入并进行运营管理，深度还原《小猪佩奇》动画片中的场景，并结合上海地方元素，提供一站式娱乐、住宿及餐饮零售体验。未来，脉驰文化还将引入更多孩之宝集团旗下的知名IP实景娱乐项目，推动中国主题娱乐行业的国际化发展。
-   
-媒体报道
-  
-亚洲首个小猪佩奇户外主题乐园落户上海长兴岛 预计2027年开业财联社
-  
-亚洲首个小猪佩奇户外主题乐园正式官宣落户崇明中国证券网
-  
-亚洲首个小猪佩奇户外主题乐园落户上海，预计2027年开业36Kr/腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贵阳将扩大提取住房公积金支付首付款等范围]]></title>
-        <id>readhub-8Z2o87j9kiy</id>
-        <link href="https://readhub.cn/topic/8Z2o87j9kiy"/>
-        <updated>2024-04-24T11:36:26.000Z</updated>
-        <summary type="html"><![CDATA[贵阳市住房公积金管理中心发布通知，优化调整四个方面公积金政策：扩大提取公积金支付首付范围和“既提又贷”范围，取消两次公积金贷款时间间隔限制，扩大人才支持政策适用范围，政策执行时间为2024年5月6日至12月31日。
-   
-媒体报道
-  
-贵阳将扩大提取住房公积金支付首付款等范围36Kr
-  
-贵阳：扩大住房公积金“既提又贷”范围，提高人才公积金贷款额度澎湃新闻
-  
-贵阳：扩大住房公积金“既提又贷”范围 提高人才公积金贷款额度财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仁芯科技完成近亿元Pre-A++轮融资，聚焦车载高速通信芯片研发]]></title>
-        <id>readhub-8Z2uJksTsWK</id>
-        <link href="https://readhub.cn/topic/8Z2uJksTsWK"/>
-        <updated>2024-04-24T11:33:19.000Z</updated>
-        <summary type="html"><![CDATA[仁芯科技近日完成近亿元Pre-A++轮融资，投资方包括长江中大西威领、电连晟德创投基金、容亿投资等。该公司专注于研发车载高速通信芯片，提供包括Serdes芯片在内的多种解决方案，其产品能支持15米远距离高速视频图像信号传输，并具有30dB以上的插损补偿能力。仁芯科技的创始团队成员具有丰富的芯片产业经验和资源。
-   
-媒体报道
-  
-仁芯科技完成近亿元Pre-A++轮融资，聚焦车载高速通信芯片研发猎云网
-  
-仁芯科技获近亿元Pre-A++轮融资，长江中大西威领投投资圈
-  
-「仁芯科技」获近亿元 Pre-A++ 轮融资，长江中大西威领投牛透社]]></summary>
-        <author>
-            <name>猎云网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“点读机女孩”高君雨多平台账号被禁]]></title>
-        <id>readhub-8Z2q1gLLOmD</id>
-        <link href="https://readhub.cn/topic/8Z2q1gLLOmD"/>
-        <updated>2024-04-24T11:30:48.000Z</updated>
-        <summary type="html"><![CDATA[童星高君雨的多个社交平台账号被禁言或禁止关注。此前，她发布关于自己患罕见脑瘤并接受手术的视频，后被质疑为库存视频。其母称，视频发布过程中出现运营问题，已与公司交涉停止发布相关视频。公司道歉，表示视频是为了鼓励他人，因时间表述错误而造成误解。舆论发酵后，高君雨抖音账号的MCN机构认证被取消。
-   
-媒体报道
-  
-“点读机女孩”高君雨多平台账号被禁腾讯网
-  
-点读机女孩高君雨全网被禁：抖音、小红书账号被禁止关注快科技
-  
-“点读机女孩”高君雨，全网账号被禁！和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为超充联盟成立 比亚迪理想长城小鹏奇瑞广汽参与]]></title>
-        <id>readhub-8Z2vNpbL3DF</id>
-        <link href="https://readhub.cn/topic/8Z2vNpbL3DF"/>
-        <updated>2024-04-24T11:29:13.000Z</updated>
-        <summary type="html"><![CDATA[华为举办了两场发布会，分别是智能汽车解决方案发布会和智能电动及充电网络战略新品发布会，宣布成立超充联盟，成员包括比亚迪、理想、长城、小鹏、奇瑞等车企。超充技术的发展对充电桩的电压和功率提出更高要求，预计大功率充电堆将成为核心解决方案。2024年被视为国内超充桩应用元年，头部大厂在产品力和规模效应下具有成本优势，收入增速有望显著超过行业平均水平。
-   
-媒体报道
-  
-华为超充联盟成立，小鹏、理想、比亚迪、广汽、长城、阿维塔等车企加入IT 之家
-  
-华为超充联盟成立 比亚迪理想长城小鹏奇瑞广汽参与中关村在线/手机中国]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌将投资6亿欧元在荷兰格罗宁根新建数据中心]]></title>
-        <id>readhub-8Z1XGbuGjuO</id>
-        <link href="https://readhub.cn/topic/8Z1XGbuGjuO"/>
-        <updated>2024-04-24T11:26:47.000Z</updated>
-        <summary type="html"><![CDATA[谷歌宣布将在荷兰格罗宁根投资6亿欧元建设新的数据中心，这将带来125个直接就业机会，并且自2014年以来，公司在荷兰的数据中心和相关基础设施投资已超过38亿欧元。
-   
-媒体报道
-  
-谷歌将投资6亿欧元在荷兰格罗宁根新建数据中心36Kr/财联社
-  
-谷歌将投资 6 亿欧元在荷兰建数据中心牛透社]]></summary>
-        <author>
-            <name>牛透社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Display 量产全球首款可切换刷新率和分辨率的游戏 OLED 面板]]></title>
-        <id>readhub-8Z1F3DFoQd0</id>
-        <link href="https://readhub.cn/topic/8Z1F3DFoQd0"/>
-        <updated>2024-04-24T11:26:11.000Z</updated>
-        <summary type="html"><![CDATA[LG Display 开发并已开始量产全球首款可切换刷新率和分辨率的游戏OLED面板，该31.5英寸面板支持FHD 480Hz高刷新率模式和UHD 240Hz高分辨率模式，用户可根据需求灵活切换。新技术DFR和META Technology 2.0分别实现了刷新率和分辨率的动态调节以及提高OLED面板亮度，同时面板还采用了Thin Actuator Sound技术，可实现屏幕自发声。LG Display计划将该面板供应给LG电子并拓展与全球游戏品牌厂商的合作。
-   
-媒体报道
-  
-LG Display 量产全球首款可切换刷新率和分辨率的游戏 OLED 面板IT 之家
-  
-LG Display量产全球首款可切换刷新率和分辨率的游戏OLED面板财联社
-  
-全球首款！LG量产双模游戏OLED面板：可切换刷新率和分辨率快科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出门问问首日破发]]></title>
-        <id>readhub-8Z2PhuCmH1K</id>
-        <link href="https://readhub.cn/topic/8Z2PhuCmH1K"/>
-        <updated>2024-04-24T11:24:55.000Z</updated>
-        <summary type="html"><![CDATA[出门问问作为AIGC领域的领先公司，今日在香港交易所上市，但首日股价表现不佳，较发行价下跌超20%，目前股价仍在低位。尽管公司占据国内AI语音技术市场1.4%的份额并位列第三，但其过去几年财务波动大，净利润亏损严重，尤其是2023年的经调整净利润大幅下降83%，盈利能力受到质疑。未来，出门问问如何在保持技术领先的同时改善财务状况，稳固市场地位，将面临严峻挑战。
-   
-媒体报道
-  
-港股新贵“出门问问”遭遇首日破发ITBear科技资讯
-  
-首日破发跌超21% “AIGC第一股”出门问问“出师不利”中国证券网
-  
-“AIGC第一股”出门问问上市首日破发跌 3.16% ，募资 2.67 亿港元牛透社
-  
-开盘跌超20%！“AIGC第一股”出门问问上市首日破发艾瑞网
-  
-出门问问港股上市首日破发，跌超21%速途网]]></summary>
-        <author>
-            <name>艾瑞网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM据悉正就收购软件公司HashiCorp进行深入谈判]]></title>
-        <id>readhub-8Z1ylmrdAlg</id>
-        <link href="https://readhub.cn/topic/8Z1ylmrdAlg"/>
-        <updated>2024-04-24T11:24:44.000Z</updated>
-        <summary type="html"><![CDATA[IBM正在与HashiCorp进行深入谈判，可能会在周三达成收购协议。
-   
-媒体报道
-  
-IBM 正在洽谈收购云基础设施公司 HashiCorp开源中国
-  
-IBM据称正在就收购软件公司HashiCorp进行深入谈判新浪科技
-  
-传 IBM 正就收购软件公司 HashiCorp 进行深入谈判牛透社
-  
-传IBM(IBM.US)接近收购云软件提供商HashiCorp(HCP.US)新浪科技
-  
-IBM据悉正就收购软件公司HashiCorp进行深入谈判36Kr
-  
-HashiCorp盘前续涨1.6% 传IBM接近达成收购该公司新浪科技]]></summary>
-        <author>
-            <name>牛透社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称三星探索逻辑芯片混合键合，最早后年推出 3D 移动处理器]]></title>
-        <id>readhub-8Z31SdyYvXG</id>
-        <link href="https://readhub.cn/topic/8Z31SdyYvXG"/>
-        <updated>2024-04-24T11:21:25.000Z</updated>
-        <summary type="html"><![CDATA[三星电子计划最早在2026年下半年推出采用混合键合技术的3D封装2nm移动端处理器，该技术可提高芯片间的电信号传输性能和IO通道数量。目前，这一项目正处于开发阶段，由三星的代工和先进封装部门共同推进，目标是将每个IO端子之间的间距降至2微米。未来，该技术有望应用于其他逻辑半导体领域。
-   
-媒体报道
-  
-消息称三星电子探索逻辑芯片混合键合，最早 2026 年推出 3D 移动处理器IT 之家
-  
-消息称三星电子探索逻辑芯片混合键合，最早2026年推出3D移动处理器凤凰科技
-  
-消息称三星探索逻辑芯片混合键合，最早后年推出 3D 移动处理器搜狐科技]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国银行原董事长刘连舸受贿、违法发放贷款案一审开庭]]></title>
-        <id>readhub-8Z2txwnNMbt</id>
-        <link href="https://readhub.cn/topic/8Z2txwnNMbt"/>
-        <updated>2024-04-24T11:20:49.000Z</updated>
-        <summary type="html"><![CDATA[中国银行股份有限公司原党委书记、董事长刘连舸因受贿罪和违法发放贷款罪在山东省济南市中级人民法院受审。起诉书指控刘连舸在2010年至2023年期间，利用职务便利索取、收受他人财物折合人民币1.21亿余元，并在2017年底至2020年初违反法律规定，向不符合条件的企业发放贷款共计人民币33.2亿余元，导致本金损失人民币1.9亿余元。庭审中刘连舸表示认罪悔罪，法庭宣布休庭，择期宣判。
-   
-媒体报道
-  
-被控受贿1.21亿余元 ！刘连舸当庭认罪新浪科技
-  
-中国银行原董事长刘连舸受贿、违法发放贷款案一审开庭 被指控非法索取、收受他人财物共计1.21亿余元新浪科技
-  
-违法放贷33.2亿余元！刘连舸当庭认罪新浪科技
-  
-中行原董事长刘连舸受贿、违法发放贷款案一审开庭，被控非法索取、收受他人给予的财物1.21亿余元澎湃新闻
-  
-被控受贿1.21亿余元，中国银行原董事长刘连舸受贿、违法发放贷款案一审开庭南方周末
-  
-“中行刘连舸”案一审开庭：违法放贷超33.2亿，受贿1.21亿余元腾讯网
-  
-刘连舸受贿、违法发放贷款案一审开庭中国证券网
-  
-中国银行原董事长刘连舸受贿、违法发放贷款案一审开庭新浪科技]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岚图将首搭华为最新智能汽车解决方案 新车明年发布]]></title>
-        <id>readhub-8Z2zJbS69PI</id>
-        <link href="https://readhub.cn/topic/8Z2zJbS69PI"/>
-        <updated>2024-04-24T11:01:53.000Z</updated>
-        <summary type="html"><![CDATA[东风集团旗下新能源品牌岚图汽车在春季技术沟通会上宣布与华为深化合作，将在车型中整合华为最新智能驾驶系统乾崑ADS 3.0和鸿蒙智能座舱。首款应用该方案的车型岚图梦想家预计明年亮相。同时，岚图计划推出全新纯电SUV，并发布了能量密度达212Wh/kg、支持5C超级快充的“琥珀电池”，续航里程超过900km，能在10分钟内补充450公里续航。
-   
-媒体报道
-  
-岚图将首搭华为最新智能汽车解决方案、鸿蒙智能座舱，新车明年上半年发布IT 之家
-  
-岚图将首搭华为最新智能汽车解决方案 新车明年发布手机中国
-  
-岚图汽车技术发布会，新平台 10 分钟补能 450km，并官宣携手华为爱范儿]]></summary>
-        <author>
-            <name>爱范儿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓝海华腾：电动飞行器电机控制器处于技术研发攻关阶段]]></title>
-        <id>readhub-8Z2yx0l2oON</id>
-        <link href="https://readhub.cn/topic/8Z2yx0l2oON"/>
-        <updated>2024-04-24T10:45:58.000Z</updated>
-        <summary type="html"><![CDATA[蓝海华腾发布公告称，目前公司主营业务为电动汽车电机控制器、中低压变频器、伺服驱动器等，而电动飞行器电机控制器和高比能高安全的全固态锂电池研发制造均处于技术研发攻关或投资阶段，短期内不会对公司业绩产生重大影响。
-   
-媒体报道
-  
-2连板蓝海华腾：公司电动飞行器电机控制器处于研发阶段 短期内对业绩不会产生重大影响新浪科技
-  
-蓝海华腾：电动飞行器电机控制器处于技术研发攻关阶段36Kr
-  
-2连板蓝海华腾：公司的电动飞行器电机控制器目前正处于技术研发攻关阶段新浪科技/财联社/腾讯网]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉一季度财报不及预期 多家机构下调其目标价]]></title>
-        <id>readhub-8Z2yaUOEPHp</id>
-        <link href="https://readhub.cn/topic/8Z2yaUOEPHp"/>
-        <updated>2024-04-24T10:26:57.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉第一季度财报未达市场预期，导致多家机构下调其目标价。其中，瑞穗、瑞银和Truist Securities等机构均调低了特斯拉的目标价格，而花旗小幅上调了目标价。财报显示，特斯拉第一季度营收为213亿美元，经营利润为11.7亿美元，调整后每股收益为0.45美元。
-   
-媒体报道
-  
-特斯拉一季度财报不及预期，多家机构下调其目标价36Kr
-  
-特斯拉一季度财报不及预期 多家机构下调其目标价凤凰科技/财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碧桂园3只境内债二度展期方案据悉获持有人通过]]></title>
-        <id>readhub-8Z2ew8jrun1</id>
-        <link href="https://readhub.cn/topic/8Z2ew8jrun1"/>
-        <updated>2024-04-24T10:20:54.000Z</updated>
-        <summary type="html"><![CDATA[碧桂园的 three 只境内债务证券的二次展期方案获得了持有人的批准，其中“21碧地01”和“21碧地04”的利息和部分本金兑付时间将推迟至九月，而“21碧地02”的利息支付按原计划应在六月十五日进行。
-   
-媒体报道
-  
-碧桂园旗下“21碧地01”等三只债券展期方案获通过，小额不展期会在宽限期兑付澎湃新闻
-  
-碧桂园3只境内债二度展期方案据悉获持有人通过新浪科技/36Kr/财联社
-  
-碧桂园大消息！部分境内债二次展期的方案获得投票通过新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问界新M5累计锁单大定已破4000份 表现远超竞品车型]]></title>
-        <id>readhub-8Z2vPPsWRMX</id>
-        <link href="https://readhub.cn/topic/8Z2vPPsWRMX"/>
-        <updated>2024-04-24T10:20:33.000Z</updated>
-        <summary type="html"><![CDATA[华为与赛力斯合作推出新款AITO问界M5 SUV，自4月23日发布以来，累计锁单大定订单已超4000份，表现优于同价位理想L6。新车采用全新设计，具有封闭式前脸、运动跑车元素和RS版黑曜风格。配置上，搭载宁德时代42度电池，CLTC续航1440km，纯电255km，零百加速4.3秒，底盘和悬挂系统采用高端配置，支持华为ADS 2.0智能驾驶辅助系统，激光雷达标配，提供豪华座椅功能和充电设施。起售价为24.98万元人民币。
-   
-媒体报道
-  
-问界新M5上市24小时累计大定4031台财联社
-  
-问界新M5累计锁单大定已破4000份 表现远超竞品车型中关村在线/手机中国]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《英雄联盟》全新赛制来袭 全局BP时代开启]]></title>
-        <id>readhub-8Z2vQndeVtB</id>
-        <link href="https://readhub.cn/topic/8Z2vQndeVtB"/>
-        <updated>2024-04-24T10:19:40.000Z</updated>
-        <summary type="html"><![CDATA[2024年LPL夏季赛将实行全新赛制，包括抽签分组、定组赛、组内赛和抢位赛四个阶段。其中定组赛阶段将采用全局BP模式，而组内赛阶段则使用常规BP模式。新赛制的引入将为《英雄联盟》赛事带来新的发展阶段，未来比赛将更加精彩。
-   
-媒体报道
-  
-《英雄联盟》全新赛制来袭 全局BP时代开启中关村在线
-  
-《英雄联盟》LPL夏季赛赛制大改：定位赛将启用无畏征召模式 全局BP快科技
-  
-《英雄联盟》2024 LPL 夏季赛常规赛引入新赛制，定组赛阶段采用全局 BP 模式IT 之家]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长城汽车：一季度净利润32.28亿元，同比增长1752.55%]]></title>
-        <id>readhub-8Z2vQQlWY2q</id>
-        <link href="https://readhub.cn/topic/8Z2vQQlWY2q"/>
-        <updated>2024-04-24T09:56:50.000Z</updated>
-        <summary type="html"><![CDATA[长城汽车2024年一季度营业收入达428.6亿元，同比增长47.6%。净利润为32.28亿元，同比大增1752.55%。
-   
-媒体报道
-  
-长城汽车：一季度净利润32.28亿元，同比增长1752.55%36Kr
-  
-长城汽车一季度净利润 32.3 亿元，同比增长 1752.55%IT 之家
-  
-长城汽车：一季度净利润32.28亿元 同比增长1752.55%腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀赵明宣布：12GB内存手机将支持7B AI大模型，流畅体验有保障]]></title>
-        <id>readhub-8Z2co7lZ5Cd</id>
-        <link href="https://readhub.cn/topic/8Z2co7lZ5Cd"/>
-        <updated>2024-04-24T09:50:46.000Z</updated>
-        <summary type="html"><![CDATA[荣耀CEO赵明宣布，荣耀将在2024年实现技术突破，使得仅配备12GB内存的智能手机也能部署70亿参数的AI大模型。这一进展意味着荣耀能在内存有限的情况下提供强大的AI功能。荣耀的“魔法大模型”已在新款荣耀Magic 6手机上首发搭载，并推出了“百模生态计划”，聚集中国AI力量为开发者提供发展空间。随着手机厂商将AI大模型集成到生态系统中，智能手机功能将变得更智能化，荣耀已实现了自然语义理解、图库搜索和便捷功能等创新。
-   
-媒体报道
-  
-赵明：荣耀将能在 12GB 内存手机部署 7B 端侧 AI 大模型并保证体验流畅IT 之家
-  
-荣耀放大招：70亿参数AI大模型要进手机？！ITBear科技资讯
-  
-荣耀赵明宣布：12GB内存手机将支持7B AI大模型，流畅体验有保障ITBear科技资讯]]></summary>
-        <author>
-            <name>IT 之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克自动驾驶出租车项目定名“Cybercab”：8月8日首发亮相]]></title>
-        <id>readhub-8Z2r8ptTA2R</id>
-        <link href="https://readhub.cn/topic/8Z2r8ptTA2R"/>
-        <updated>2024-04-24T09:50:21.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉首席执行官埃隆·马斯克宣布，将于8月8日推出自动驾驶出租车，命名为“Cybercab”。新车可能与特斯拉现有产品线风格相似，据传将与Cybertruck皮卡相似。马斯克表示，自动驾驶出租车车队将运营，并允许特斯拉车主加入叫车服务。但该愿景的实现取决于特斯拉是否能实现自动驾驶汽车的目标。
-   
-媒体报道
-  
-马斯克自动驾驶出租车项目定名“Cybercab”：8月8日首发亮相凤凰科技/快科技
-  
-马斯克：8月8日发布“赛博出租车”！中关村在线]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长安汽车与阿里云研发汽车垂域大模型：全球首款量产可变新汽车搭载]]></title>
-        <id>readhub-8Z2mnK342B5</id>
-        <link href="https://readhub.cn/topic/8Z2mnK342B5"/>
-        <updated>2024-04-24T09:47:22.000Z</updated>
-        <summary type="html"><![CDATA[长安汽车将多方位接入阿里云通义大模型，并计划在2024年将基于此模型的创新型交互应用搭载在即将上市的长安启源E07车型上。长安汽车正结合汽车通用文本语料和业务语料，以座舱交互为核心研发汽车垂域大模型。此外，长安汽车在研发场景使用通义灵码以提升编程效率。长安科技AILAB副主任谢乐成表示，大模型上车是检验车厂“服务化”是否在“裸泳”的标准，未来长安汽车和阿里云将在云平台、大模型上进行多场景、全方位的合作，共创汽车行业智能未来。2023年，长安汽车全年营业收入约1513亿元，销量创六年新高，其中自主品牌新能源全年销售同比增长74.8%，出口同比增长43.9%。
-   
-媒体报道
-  
-长安汽车接入阿里云通义大模型财联社
-  
-长安汽车与阿里云研发汽车垂域大模型：全球首款量产可变新汽车搭载凤凰科技/快科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK海力士宣布将清州M15X为DRAM生产基地，向厂房投资约5.3万亿韩元]]></title>
-        <id>readhub-8Z2ss4zOkxY</id>
-        <link href="https://readhub.cn/topic/8Z2ss4zOkxY"/>
-        <updated>2024-04-24T09:33:12.000Z</updated>
-        <summary type="html"><![CDATA[SK海力士宣布，为满足AI半导体需求的剧增，将扩充新一代DRAM生产能力，主要生产HBM等产品。公司决定在韩国忠清北道清州市建设新的DRAM生产基地M15X，计划投资约5.3万亿韩元。预计2025年11月竣工，并将进行设备投资，长期计划投资超过20万亿韩元。公司强调，通过加大在韩国的投资，将助力韩国经济发展并巩固半导体强国的地位。随着AI时代的到来，DRAM市场预计将迎来长期增长，公司认为提高HBM为主的DRAM产能至关重要。同时，公司也将继续推进龙仁半导体集群的投资计划，预计2027年5月竣工。SK海力士的这些投资计划，旨在推动韩国成为AI半导体强国，并为国家经济发展提供动力。
-   
-媒体报道
-  
-SK海力士计划投资1058亿元扩大芯片产能 以满足人工智能开发需求凤凰科技
-  
-SK 海力士宣布将清州 M15X 定为 DRAM 生产基地，向厂房投资约 5.3 万亿韩元IT 之家
-  
-SK海力士宣布将清州M15X为DRAM生产基地，向厂房投资约5.3万亿韩元凤凰科技
-  
-SK海力士计划投资146亿美元扩大芯片产能 以满足人工智能开发需求财联社
-  
-AI需求火爆 韩国SK海力士计划投资超1000亿元扩产和讯网]]></summary>
-        <author>
-            <name>和讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机构：华为、荣耀、小米强劲表现助推中国智能手机市场连续第二季度同比增长]]></title>
-        <id>readhub-8Z1P4ank3QM</id>
-        <link href="https://readhub.cn/topic/8Z1P4ank3QM"/>
-        <updated>2024-04-24T09:32:21.000Z</updated>
-        <summary type="html"><![CDATA[2024年第一季度，中国智能手机市场实现同比正增长，其中华为、荣耀、小米表现强劲。华为凭借5G手机Mate 60系列的热销和品牌知名度，在高端市场占有率大幅提升。荣耀则依靠多款受欢迎的手机和线下市场扩张，实现了11.5%的同比增长。市场整体销量增长得益于春节促销活动，前四周销量比平时增长了20%。竞争激烈的一季度中，vivo、荣耀和苹果占据市场份额前三，而华为的回归对苹果在高端市场的地位造成冲击。预计未来中国智能手机市场将保持低个位数的同比增长，手机品牌厂商也将继续探索AI应用并将之推广至中端市场。
-   
-媒体报道
-  
-华为逆袭！一季度智能手机销量同比激增 市场份额显著上升ITBear科技资讯
-  
-机构：华为、荣耀、小米强劲表现助推中国智能手机市场连续第二季度同比增长搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾跃亭称将回归中国制造 周鸿祎回应：先把车送到360]]></title>
-        <id>readhub-8Z2sqTc5daz</id>
-        <link href="https://readhub.cn/topic/8Z2sqTc5daz"/>
-        <updated>2024-04-24T09:32:13.000Z</updated>
-        <summary type="html"><![CDATA[近期，360集团董事长周鸿祎因考虑卖掉迈巴赫换国产新能源汽车而受到关注，引发多家车企如问界、仰望、极氪、小鹏、深蓝等的响应。周鸿祎与法拉第未来创始人贾跃亭隔空互动，呼吁贾跃亭将FF 91送到360大厦。在春季新品发布会上，周鸿祎谈及贾跃亭造车的情况，认为贾跃亭没有理解中国的优势。贾跃亭回应，强调FF 91是原创创新产品，并计划在合适时机将产品带回中国制造。周鸿祎再次回应，希望贾跃亭能先送辆车到360大厦让他试驾。据贾跃亭表示，目前FF 91的总交付量仅有十一辆。
-   
-媒体报道
-  
-贾跃亭回应被周鸿祎吐槽，周鸿祎：先送辆车到360大厦凤凰科技
-  
-十几年前相爱相杀 贾跃亭回应周鸿祎：下次来美国试车快科技/凤凰科技
-  
-周鸿祎喊话贾跃亭：别光讲PPT 先送辆车让我试试快科技/凤凰科技
-  
-贾跃亭称将回归中国制造 周鸿祎回应：先把车送到360手机中国
-  
-周鸿祎喊话贾跃亭:别光讲PPT,先送辆车我试试！贾跃亭：FF 91都是原创塔尖产品搜狐科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岚图发布能量密度212Wh/kg全新电池包]]></title>
-        <id>readhub-8Z2qNK8uqXM</id>
-        <link href="https://readhub.cn/topic/8Z2qNK8uqXM"/>
-        <updated>2024-04-24T09:26:24.000Z</updated>
-        <summary type="html"><![CDATA[岚图汽车发布全新一代琥珀电池包，能量密度达212Wh/kg，基于800V平台开发，续航900km。该电池由东风集团与宁德时代联合开发，快充10分钟可续航450km。
-   
-媒体报道
-  
-岚图发布能量密度212Wh/kg全新电池包财联社
-  
-800V900公里！岚图发布琥珀电池：百万公里衰减仅8%快科技
-  
-岚图汽车发布琥珀 5C 电池：800V 平台 / 超 900 公里续航，百万公里衰减仅 8%IT 之家
-  
-岚图汽车发布全球首个兆瓦级品牌充电桩，最大支持 8CIT 之家]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因停电中断后 福岛核污染水排放重新启动]]></title>
-        <id>readhub-8Z2TrJoEDqs</id>
-        <link href="https://readhub.cn/topic/8Z2TrJoEDqs"/>
-        <updated>2024-04-24T09:11:46.000Z</updated>
-        <summary type="html"><![CDATA[福岛第一核电站于当地时间4月24日17时15分重新启动核污染水排放，此前在当日10时43分左右，核电站内供电系统部分停止运行导致正在进行的核污染水排海作业中断。
-   
-媒体报道
-  
-福岛核电站核污染水排海因停电中断新浪科技/财联社
-  
-因停电中断后 福岛核污染水排放重新启动财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软、谷歌等巨头承诺制定生成式 AI 发展措施，妥善保护儿童健康]]></title>
-        <id>readhub-8Z2InEwiNtz</id>
-        <link href="https://readhub.cn/topic/8Z2InEwiNtz"/>
-        <updated>2024-04-24T09:09:31.000Z</updated>
-        <summary type="html"><![CDATA[微软、谷歌等科技巨头与非营利组织Thorn和All Tech Is Human合作，致力于在其生成人工智能技术中实施强有力的儿童安全措施，防止生成和传播儿童性虐待材料及其他伤害儿童的内容。
-   
-媒体报道
-  
-微软、谷歌等巨头承诺制定生成式 AI 发展措施，妥善保护儿童健康搜狐科技
-  
-微软、谷歌和 OpenAI 等巨头承诺制定生成式 AI 发展措施，妥善保护儿童健康新浪科技/IT 之家/艾瑞网]]></summary>
-        <author>
-            <name>艾瑞网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加13研发进展曝光：或搭载超声波指纹与竖排镜头设计]]></title>
-        <id>readhub-8Z2TXGIgxcr</id>
-        <link href="https://readhub.cn/topic/8Z2TXGIgxcr"/>
-        <updated>2024-04-24T09:06:36.000Z</updated>
-        <summary type="html"><![CDATA[一加13作为备受期待的新旗舰手机，搭载骁龙8 Gen4处理器和6.8英寸2K LTPO屏幕，可能在摄影功能上有重大突破。外观设计将采用微曲四边屏设计，可能会搭载超声波指纹模块。预计下半年发布，市场竞争激烈。
-   
-媒体报道
-  
-一加13有望搭载2K等深微曲屏 ID设计大换新 真是13香？手机中国
-  
-一加13旗舰新机即将发布：微曲面屏+多摄系统 性价比再升级ITBear科技资讯
-  
-一加13研发进展曝光：或搭载超声波指纹与竖排镜头设计ITBear科技资讯
-  
-一加13有望搭载2K等深微曲屏 ID设计大换新中关村在线]]></summary>
-        <author>
-            <name>手机中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯发布汽车行业大模型全栈能力架构]]></title>
-        <id>readhub-8Z2hiUK0K1U</id>
-        <link href="https://readhub.cn/topic/8Z2hiUK0K1U"/>
-        <updated>2024-04-24T09:01:09.000Z</updated>
-        <summary type="html"><![CDATA[腾讯发布汽车行业大模型“全域智能”方案，已在汽车研发、生产、营销、服务、企业协同办公等五大核心场景落地应用。同时，发布智能汽车云、智能座舱、出海等方面升级方案。腾讯汽车行业大模型正与多家汽车伙伴开展应用实践，预计到今年底，智能汽车产品将搭载至超1500万辆车上。
-   
-媒体报道
-  
-2024 腾讯智慧出行技术开放日｜腾讯汤道生：打造好用易用的行业大模型，加速汽车产业智能化速途网
-  
-腾讯发布汽车行业大模型全栈能力架构新浪科技/36Kr/财联社
-  
-腾讯智慧出行技术开放日：升级“云、图”底座，发布汽车行业大模型“全域智能”方案速途网
-  
-腾讯云发布汽车行业大模型解决方案，助力产业智能化升级中关村在线]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歌尔股份：第一季度归母净利润3.8亿元 同比增长257.47%]]></title>
-        <id>readhub-8Z2qiw65wsL</id>
-        <link href="https://readhub.cn/topic/8Z2qiw65wsL"/>
-        <updated>2024-04-24T08:52:33.000Z</updated>
-        <summary type="html"><![CDATA[歌尔股份2024年第一季度归母净利润达3.8亿元，较去年同期增长257.47%。
-   
-媒体报道
-  
-歌尔股份：一季度净利润3.8亿元 同比增长257.47%腾讯网
-  
-歌尔股份：第一季度归母净利润3.8亿元 同比增长257.47%财联社
-  
-歌尔股份：一季度净利润3.8亿元，同比增长257.47%36Kr]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乘联会：4月1—21日乘用车市场零售85.2万辆，同比下降12%]]></title>
-        <id>readhub-8Z2q0e5kpKf</id>
-        <link href="https://readhub.cn/topic/8Z2q0e5kpKf"/>
-        <updated>2024-04-24T08:32:14.000Z</updated>
-        <summary type="html"><![CDATA[乘联会数据显示，2024年4月1日至21日，乘用车市场零售量为85.2万辆，同比下降12%，环比下降2%。今年累计零售568.4万辆，同比增长9%。同期，全国乘用车厂商批发量为93.2万辆，同比增长8%，环比下降8%。今年累计批发652.6万辆，同比增长10%。
-   
-媒体报道
-  
-乘联会：4月1-21日乘用车市场零售85.2万辆 同比去年同期下降12%财联社
-  
-乘联会：4月1—21日乘用车市场零售85.2万辆，同比下降12%36Kr
-  
-乘联会：4月1-21日新能源车市场零售42万辆 同比去年同期增长20%财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《小小大星球》新作或明年推出 索尼密招程序员]]></title>
-        <id>readhub-8Z2bNwaV7eF</id>
-        <link href="https://readhub.cn/topic/8Z2bNwaV7eF"/>
-        <updated>2024-04-24T08:22:22.000Z</updated>
-        <summary type="html"><![CDATA[索尼旗下《小小大星球》开发商Media Molecule发布招聘启事，寻找首席程序员，或暗示正在开发新IP作品。此前Media Molecule曾进行裁员并调整战略重点。而《小小大星球3》是2018年推出的游戏，广受好评。
-   
-媒体报道
-  
-《小小大星球》新作或明年推出 索尼密招程序员中关村在线
-  
-《小小大星球》开发商Media Molecule招聘员工 正在开发全新IP搜狐科技
-  
-《小小大星球》开发商正在开发新IP：招聘信息现端倪搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
         </author>
     </entry>
     <entry>
