@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/bc-news/index.html</id>
     <title>BlockChain::News</title>
-    <updated>2024-04-29T18:09:13.143Z</updated>
+    <updated>2024-04-30T00:33:49.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joyc.github.io/bc-news/index.html"/>
     <link rel="self" href="https://joyc.github.io/bc-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果 2024 款 iPad Pro 将配业内最佳 OLED 面板：屏幕更亮、续航更持久]]></title>
+        <id>readhub-8ZCAFSZq1r1</id>
+        <link href="https://readhub.cn/topic/8ZCAFSZq1r1"/>
+        <updated>2024-04-29T23:42:28.000Z</updated>
+        <summary type="html"><![CDATA[苹果最新的11/12.9英寸iPad Pro将配备市场上最优秀的OLED面板，由LGD独家供应12.9英寸面板并部分供应11英寸面板，预计占销量65%。这款OLED面板采用LTPO、120Hz刷新率、串联堆叠和玻璃减薄技术，使得屏幕更薄、亮度更高、续航更长。消费者将享受到比传统OLED面板高一倍的亮度和显著延长的使用寿命。
+   
+媒体报道
+  
+苹果 2024 款 iPad Pro 将配业内最佳 OLED 面板：屏幕更亮、续航更持久IT 之家
+  
+苹果 2024 款 iPad Pro 将配业内最佳OLED面板：更亮、续航更持久搜狐科技
+  
+高亮度+长寿命！iPad Pro 2024首发史上最好的OLED屏搜狐科技/快科技
+  
+   
+事件追踪
+   
+2024-04-24 08:17:10因 OLED 显示屏供货受限，消息称苹果新款 11 英寸 iPad Pro 上市初期或缺货
+  
+2024-03-23 15:00:37苹果正放弃为Apple Watch打造MicroLED显示屏计划
+  
+2024-03-19 07:31:00消息称苹果 4 月将推 OLED iPad Pro 以及新款 iPad Air
+  
+2024-03-13 09:51:35苹果今年或将花费近30亿美元 为新一代iPad Pro采购OLED显示屏
+  
+2024-02-22 11:31:00Omdia 预测苹果将推出至少 9 款 OLED 屏 iPad 和 MacBook 产品
+  
+2024-02-21 17:16:392024 款苹果 iPad 新品尺寸曝光：更大的 Air、更薄的 Pro
+  
+2024-01-26 11:02:47代码显示苹果 2024 款 OLED iPad Pro 平板电脑有望采用横向 Face ID 摄像头
+  
+2024-01-08 07:16:07苹果 M3 iPad Pro 将首次引入 OLED 屏幕，分析师称亮度更高、寿命更长、机身更薄
+  
+2023-12-28 22:13:34苹果计划2027年发布新款Vision Pro 采用RGB OLEDoS]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国四大运营商因非法出售客户位置信息，被 FCC 罚款 1.96 亿美元]]></title>
+        <id>readhub-8ZC8LuDGJla</id>
+        <link href="https://readhub.cn/topic/8ZC8LuDGJla"/>
+        <updated>2024-04-29T23:42:02.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦通信委员会（FCC）对AT&T、Verizon、Sprint（现已成为T-Mobile）处以总计1.96亿美元的罚款，因这些公司未经客户同意非法出售其位置信息。调查起因于客户反馈，FCC在2019年展开调查并确认运营商违反了联邦法律，将位置数据出售给私家侦探、赏金猎人、执法机构等。罚款额度依据违规持续时间及获取数据实体数量确定。
+   
+媒体报道
+  
+美国四大运营商因非法出售客户位置信息，被 FCC 罚款 1.96 亿美元IT 之家
+  
+非法出售客户位置信息！美国四大运营商被罚1.96亿美元凤凰科技/快科技
+  
+   
+事件追踪
+   
+2020-02-28 02:04:27出售用户定位数据：美四大运营商或被罚款2亿美元
+  
+2019-05-06 00:44:29美国四大运营商遭遇集体诉讼：被控出售用户位置数据]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 MIX 4 手机获推澎湃 HyperOS 正式版更新]]></title>
+        <id>readhub-8ZBQlNY5WHb</id>
+        <link href="https://readhub.cn/topic/8ZBQlNY5WHb"/>
+        <updated>2024-04-29T22:45:06.000Z</updated>
+        <summary type="html"><![CDATA[小米MIX 4手机获得澎湃HyperOS正式版更新，版本号为1.0.2.0.UKMCNXM，安装包大小为5.4GB。小米澎湃OS重新构建了系统底层，优化了资源分配和性能，提升了续航能力和动画流畅性。新增跨端智联功能，实现设备高效连接和协同工作。系统还注重安全隐私保护，采用TEE加密数据传输。此外，小米MIX 4的用户界面进行了全面升级，引入了新的动效语言、色彩系统和字体设计，同时改进了多任务窗口管理。更新建议用户提前备份数据，并可能需要耐心等待启动和解决第三方应用适配问题。
+   
+媒体报道
+  
+小米 MIX 4 手机获推澎湃 HyperOS 正式版更新搜狐科技/IT 之家
+  
+无开孔全陶瓷旗舰！小米MIX 4获推澎湃HyperOS正式版快科技
+  
+   
+事件追踪
+   
+2024-04-02 17:15:44小米二季度将向13款设备推送澎湃OS 含小米10、红米12
+  
+2023-11-21 01:05:48小米 14 手机推送澎湃 OS 开发版更新：新增支持 HyperMind
+  
+2023-11-02 22:02:12雷军回应小米14发烫：可能系统后台在更新
+  
+2023-08-15 00:56:00小米MIX Fold 3正式发布：8999元起]]></summary>
+        <author>
+            <name>快科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI：记忆功能向ChatGPT Plus用户全面开放]]></title>
+        <id>readhub-8ZBlTfcy1cZ</id>
+        <link href="https://readhub.cn/topic/8ZBlTfcy1cZ"/>
+        <updated>2024-04-29T22:36:50.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI宣布将记忆功能全面开放给ChatGPT Plus用户。用户可通过新聊天窗口告知ChatGPT保存所需信息，且可在设置中自选是否启用此功能。目前，记忆功能在欧洲市场和韩国市场尚未开通，未来或将对团队、企业及GPTs用户开放。
+   
+媒体报道
+  
+OpenAI 向 ChatGPT Plus 用户开放“记忆”功能IT 之家
+  
+OpenAI：记忆功能向ChatGPT Plus用户全面开放凤凰科技/财联社
+  
+   
+事件追踪
+   
+2024-04-02 11:19:47OpenAI 宣布用户无需注册即可使用 ChatGPT
+  
+2024-02-14 06:11:01OpenAI测试新功能，让ChatGPT“长记性”
+  
+2024-02-04 15:06:18OpenAI 推出 Vision Pro 版 ChatGPT
+  
+2024-02-01 17:01:06OpenAI 升级 ChatGPT：可在对话中调用不同的自定义聊天机器人
+  
+2024-01-26 16:50:55可将界面改为简体中文，OpenAI 悄然为 ChatGPT 推出多语言功能 Alpha 版
+  
+2024-01-11 06:32:01OpenAI正式推出GPT Store
+  
+2023-12-21 10:21:01OpenAI：针对聊天内容推出存档功能
+  
+2023-11-23 22:55:32OpenAI：ChatGPT的错误率升高，正展开调查
+  
+2023-11-22 11:18:27OpenAI面向所有用户免费开放ChatGPT Voice]]></summary>
+        <author>
+            <name>财联社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[贵州茅台单季营收创新高，白酒一季报表现有望提振板块]]></title>
         <id>readhub-8ZAXk5JeDoE</id>
@@ -4140,318 +4266,6 @@ iPad 新品发布会临近，消息称苹果当天将在伦敦举办特别活动
 重组团队、重金投入，谷歌AI业务能否重回巅峰？虎嗅网]]></summary>
         <author>
             <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国中部遭龙卷风袭击 部分地区进入紧急状态]]></title>
-        <id>readhub-8Z764Ob3voF</id>
-        <link href="https://readhub.cn/topic/8Z764Ob3voF"/>
-        <updated>2024-04-27T12:30:56.000Z</updated>
-        <summary type="html"><![CDATA[美国内布拉斯加州和艾奥瓦州部分地区因龙卷风袭击而进入紧急状态。
-   
-媒体报道
-  
-美国中部遭龙卷风袭击 部分地区进入紧急状态财联社
-  
-最新预警！这些地区有雷暴大风或冰雹新浪科技
-  
-美中部多州遭遇恶劣天气 面临洪水和龙卷风威胁财联社
-  
-广州多区发生局地龙卷风 启动气象灾害（雷雨大风）Ⅲ级应急响应财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《仙剑世界》5月31日启动测试 玩家可收服怪物进行战斗]]></title>
-        <id>readhub-8Z7mOPzXNiF</id>
-        <link href="https://readhub.cn/topic/8Z7mOPzXNiF"/>
-        <updated>2024-04-27T12:25:30.000Z</updated>
-        <summary type="html"><![CDATA[《仙剑世界》宣布将于5月31日启动三测“风启”测试，这是该游戏的首次付费删档测试，支持PC、安卓和iOS三个平台的互通。本次测试将展示游戏中的首个大区域“江南”，并以完整的形态呈现给玩家。游戏的“五灵”机制也得到了全面升级，新增“御灵”系统，玩家可以收服各类怪物并与之配合进行战斗、探索解谜和乘坐宠物赶路等操作。目前，《仙剑世界》已在Steam平台上架售，但尚未公布具体的发售日期。
-   
-媒体报道
-  
-《仙剑世界》5月31日启动测试 玩家可收服怪物进行战斗中关村在线
-  
-开放世界游戏《仙剑世界》三测定档 5 月 31 日，现已开启招募IT 之家
-  
-《仙剑世界》将开启首次付费测试：PC、安卓、iOS三端互通快科技
-  
-《仙剑世界》三测定档5月31日！风启测试招募已启动中关村在线]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌大涨超11%，再创历史新高，总市值突破2万亿美元]]></title>
-        <id>readhub-8Z6ZvKVNpf6</id>
-        <link href="https://readhub.cn/topic/8Z6ZvKVNpf6"/>
-        <updated>2024-04-27T11:56:33.000Z</updated>
-        <summary type="html"><![CDATA[谷歌旗下两家上市公司谷歌-C（GOOG.US）和谷歌-A（GOOGL.US）的股价创历史新高，总市值超过 2 万亿美元。一季度总营收同比增长 15%，净利润同比上升 57%。谷歌还决定首次发放季度股息，并授权额外回购 700 亿美元股票。
-   
-媒体报道
-  
-4月26日美股成交额前20：谷歌涨逾10%创历史新高新浪科技
-  
-美股三大指数集体收涨 谷歌大涨超10%创历史新高财联社
-  
-谷歌大涨超11%，再创历史新高，总市值突破2万亿美元新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州发布雷雨大风橙色预警，局地出现龙卷风]]></title>
-        <id>readhub-8Z7p553IEQk</id>
-        <link href="https://readhub.cn/topic/8Z7p553IEQk"/>
-        <updated>2024-04-27T10:28:04.000Z</updated>
-        <summary type="html"><![CDATA[增城气象台发布龙卷警报，预计未来1小时增城区中南部可能有龙卷，最大阵风11-12级，呼吁铁皮顶厂房、工棚和防风能力差的其他建筑物的业主尽快组织人员撤离。广州增城区同时发布暴雨橙色预警，部分镇街三小时雨量将接近或达到50毫米。广州白云钟落潭镇已出现局地龙卷风。广州市天河、越秀区也受到强雷雨云团影响，预计未来1~2小时将有强雷雨，并伴有10级以上阵风和强雷电，雷雨大风橙色预警信号已生效。请市民做好防御工作。
-   
-媒体报道
-  
-广州多区暴雨、雷雨大风“双红色”预警 致灾风险极高财联社
-  
-广州白云区出现局地龙卷风财联社
-  
-广州发布雷雨大风橙色预警，局地出现龙卷风腾讯网]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东联合超100个品牌启动家电家居焕新联盟]]></title>
-        <id>readhub-8Z7l9kdfAbp</id>
-        <link href="https://readhub.cn/topic/8Z7l9kdfAbp"/>
-        <updated>2024-04-27T10:26:26.000Z</updated>
-        <summary type="html"><![CDATA[京东联合美的、格力等超100个家电家居品牌成立“京东家电家居焕新联盟”，并在全国20个省市实施以旧换新补贴政策，通过政府和企业让利，为消费者提供省钱、省心的购买体验。京东还计划通过提升服务能力、品牌扶持等六个方面的全面升级，发挥企业价值。自2016年起，京东已为超3000万用户实现旧物回收再利用。目前，以旧换新服务已助力超1600万用户购买新品，且相关搜索词增长迅速。京东将继续优化以旧换新服务，推动行业服务标准提升，并深耕“绿色+回收”模式，提高家电再利用效率。同时，针对乡村市场和下沉市场，京东也推出了相应的优惠福利以激发换新热情。
-   
-媒体报道
-  
-京东联合超100个品牌启动家电家居焕新联盟电商报
-  
-京东携手小米等超100个品牌 在20个省市发放以旧换新补贴中关村在线/快科技]]></summary>
-        <author>
-            <name>电商报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米米家 3 匹新风立式空调上架：双出风口，一级能效]]></title>
-        <id>readhub-8Z7qAhzbIhX</id>
-        <link href="https://readhub.cn/topic/8Z7qAhzbIhX"/>
-        <updated>2024-04-27T09:37:22.000Z</updated>
-        <summary type="html"><![CDATA[小米米家3匹新风立式空调新品上架电商平台，暂未公布售价，预计5月上市。产品具有新风PRO双出风口，一级能效和星缎银配色，制冷和制热功率分别为1930W和2680W，室内机噪音在42-46dB(A)之间。支持遥控器+HyperOS Connect远程操控。更多功能详情待官方披露。
-   
-媒体报道
-  
-小米米家 3 匹新风立式空调上架：双出风口，一级能效中关村在线/搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉将在美国内华达州工厂裁员693人]]></title>
-        <id>readhub-8Z7dffAZW1v</id>
-        <link href="https://readhub.cn/topic/8Z7dffAZW1v"/>
-        <updated>2024-04-27T09:16:03.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉计划在美国内华达州工厂裁员693人，全球裁员10%。根据美国劳动法，拥有100名或以上员工的公司需提前60天通知有关部门。此前，特斯拉已宣布在得克萨斯州和加利福尼亚州裁员6020人。
-   
-媒体报道
-  
-特斯拉将在内华达州工厂裁员693人新浪科技
-  
-特斯拉将在美国内华达州工厂裁员693人财联社/36Kr/凤凰科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首款ALL-in-ONE全能激光大灯问世：支持放露天电影]]></title>
-        <id>readhub-8Z7oXBDtDXe</id>
-        <link href="https://readhub.cn/topic/8Z7oXBDtDXe"/>
-        <updated>2024-04-27T09:07:05.000Z</updated>
-        <summary type="html"><![CDATA[光峰科技在2024北京车展上推出了全球首款ALL-in-ONE全能激光大灯，这款激光大灯将远光ADB大灯、可变色温大灯、远光照明灯、地面信息显示和汽车影院等多种功能集成在一个车灯模组中，大幅降低了系统的功耗、体积和总成本，同时满足了照明、显示、安全和娱乐的多样化需求。
-   
-媒体报道
-  
-光峰科技发布全球首款 ALL-in-ONE 全能激光大灯，支持汽车影院等功能IT 之家
-  
-全球首款ALL-in-ONE全能激光大灯来了 它长这样中关村在线
-  
-全球首款ALL-in-ONE全能激光大灯问世：支持放露天电影快科技]]></summary>
-        <author>
-            <name>快科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清华大学成立人工智能学院 首任院长系图灵奖获得者姚期智院士]]></title>
-        <id>readhub-8Z7pRbUMcTF</id>
-        <link href="https://readhub.cn/topic/8Z7pRbUMcTF"/>
-        <updated>2024-04-27T08:46:36.000Z</updated>
-        <summary type="html"><![CDATA[清华大学成立人工智能学院，以发展人工智能核心基础理论和架构，以及“人工智能+X”为重点。该学院旨在培养AI顶尖人才，推动原始创新，由图灵奖得主、中国科学院院士姚期智担任首任院长。学院将依托国家战略，创新人才培养模式，吸引世界顶尖人才，突破关键核心技术，打造合作平台，推进产学研用协同创新，努力成为中国人工智能发展的引领者，建设成为世界顶尖的人工智能人才和创新高地。
-   
-媒体报道
-  
-清华大学成立人工智能学院，图灵奖获得者姚期智任院长IT 之家/搜狐科技
-  
-姚期智任院长，清华大学成立人工智能学院搜狐科技
-  
-清华大学成立人工智能学院 姚期智任首任院长搜狐科技
-  
-清华大学成立人工智能学院，姚期智任首任院长36Kr
-  
-清华大学成立人工智能学院 图灵奖获得者姚期智任院长凤凰科技
-  
-清华大学成立人工智能学院，“图灵奖”获得者姚期智任首任院长搜狐科技
-  
-清华大学成立人工智能学院 首任院长系图灵奖获得者姚期智院士财联社]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo X100 Ultra 顶配版通过无线电认证，内置卫星通信系统]]></title>
-        <id>readhub-8Z7ls1rkU1j</id>
-        <link href="https://readhub.cn/topic/8Z7ls1rkU1j"/>
-        <updated>2024-04-27T08:38:29.000Z</updated>
-        <summary type="html"><![CDATA[vivo X100 Ultra顶配版已通过无线电认证，将支持卫星通信。该手机采用自主蓝图影像、蔡司T*镀膜和潜望式摄像头等技术。预计将搭载2K E7三星屏，配备50Mp LYT900一英寸主摄和200Mp大底潜望镜等。参考vivo X100 Pro，新旗舰可能搭载天玑9300处理器，6.78英寸AMOLED曲面屏，5400mAh电池，支持100W有线快充和50W无线快充，后置三摄系统等。
-   
-媒体报道
-  
-vivo X100 Ultra 顶配版通过无线电认证，内置手机卫星通信中关村在线/IT 之家
-  
-vivo X100 Ultra 顶配版通过无线电认证，内置卫星通信系统搜狐科技]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉美国将Model 3高性能版本价格上调至53990美元]]></title>
-        <id>readhub-8Z7KWd3vWaf</id>
-        <link href="https://readhub.cn/topic/8Z7KWd3vWaf"/>
-        <updated>2024-04-27T08:07:29.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉Model 3高性能版本价格从52990美元上调至53990美元。
-   
-媒体报道
-  
-特斯拉美国上调Model 3高性能版本价格凤凰科技
-  
-特斯拉美国将Model 3高性能版本价格上调至53990美元36Kr
-  
-发布三天后，特斯拉 Model 3 高性能版美国涨价 1000 美元IT 之家]]></summary>
-        <author>
-            <name>凤凰科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昆仑万维：一季度营收12.1亿元，研发费用同比增长104%]]></title>
-        <id>readhub-8Z6S60yXalN</id>
-        <link href="https://readhub.cn/topic/8Z6S60yXalN"/>
-        <updated>2024-04-27T08:05:57.000Z</updated>
-        <summary type="html"><![CDATA[昆仑万维2024年第一季度业绩报告显示，公司营业收入为12.1亿元，海外业务收入占比88.4%，毛利率为78.4%。公司积极投入研发，费用达3.49亿元，同比增长104.4%，致力于“All in AGI与AIGC”发展战略。
-   
-媒体报道
-  
-昆仑万维24年一季度收入12亿，研发费用增长104%，坚定all in AGI与AIGC中国证券网
-  
-昆仑万维单季营收12亿：研发费用达3.49亿 净亏1.87亿腾讯网
-  
-豪赌AI！昆仑万维一季度盈转亏，研发费用同比增长104.4%腾讯网
-  
-昆仑万维：一季度营收12.1亿元，研发费用同比增长104%36Kr]]></summary>
-        <author>
-            <name>腾讯网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遭穆迪再次下调评级 万科强硬回应：坚决反对]]></title>
-        <id>readhub-8Z7gWVnXB9C</id>
-        <link href="https://readhub.cn/topic/8Z7gWVnXB9C"/>
-        <updated>2024-04-27T08:00:44.000Z</updated>
-        <summary type="html"><![CDATA[万科回应穆迪再次下调信用评级表示坚决反对，认为评级调整未能反映公司经营实际情况，且可能对市场产生误导。公司表示目前经营稳定，销售规模处于行业前列，得到金融机构、深圳国资及大股东的支持。穆迪近期也下调了其他境内优质房企的评级。
-   
-媒体报道
-  
-穆迪再次下调评级，万科回应：坚决反对，希望准确评估和反映公司情况澎湃新闻
-  
-遭穆迪再次下调评级 万科强硬回应：坚决反对36Kr/财联社
-  
-万科回应穆迪调整评级：坚决反对 希望准确评估和反映公司情况新浪科技]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京拟最高奖励1亿元支持人工智能产业发展]]></title>
-        <id>readhub-8Z7maDFvEbI</id>
-        <link href="https://readhub.cn/topic/8Z7maDFvEbI"/>
-        <updated>2024-04-27T07:55:09.000Z</updated>
-        <summary type="html"><![CDATA[北京市发改委副主任林剑华在2024中关村论坛上发布《北京市关于加快通用人工智能产业引领发展的若干措施》，提出强化产业基础研究，支持创新主体攻关核心技术，并给予资金支持，市级科技研发计划最高支持3000万元，国家重大战略任务攻关项目最高奖励1亿元。
-   
-媒体报道
-  
-北京推动人工智能核心企业优先在北交所上市新浪科技/财联社
-  
-北京拟最高奖励1亿元支持人工智能产业发展财联社/36Kr]]></summary>
-        <author>
-            <name>财联社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌为 AI 拍照功能 RealFill 申请商标：可扩展和修复现有图像]]></title>
-        <id>readhub-8Z7j1RxPtvH</id>
-        <link href="https://readhub.cn/topic/8Z7j1RxPtvH"/>
-        <updated>2024-04-27T07:17:43.000Z</updated>
-        <summary type="html"><![CDATA[谷歌公司正在开发一款名为RealFill的AI拍照功能，可以通过用户输入的最多5张图片来扩展和修复现有图像。该功能已经通过了欧盟知识产权局和美国专利贸易局的审查，官方描述为提供AI图像补全的在线非下载软件。谷歌此前已经与康奈尔大学团队合作研究相关技术，并在一篇论文中讨论了如何通过五个参考图像扩展现有图像。
-   
-媒体报道
-  
-谷歌推出创新AI拍照功能RealFill：上传五张图即可智能修复图像ITBear科技资讯
-  
-谷歌为 AI 拍照功能 RealFill 申请商标：可扩展和修复现有图像搜狐科技/IT 之家]]></summary>
-        <author>
-            <name>搜狐科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北汽蓝谷：2023年净亏损54亿元]]></title>
-        <id>readhub-8Z6LdlbFGMm</id>
-        <link href="https://readhub.cn/topic/8Z6LdlbFGMm"/>
-        <updated>2024-04-27T07:00:54.000Z</updated>
-        <summary type="html"><![CDATA[北汽蓝谷2023年年度报告显示，营业收入为143.19亿元，同比增长50.50%，净亏损为54亿元，基本每股收益为-1.0719元。
-   
-媒体报道
-  
-北汽蓝谷去年营收143亿，增长超50%，极狐销量30016辆猛增138%网易科技
-  
-北汽蓝谷：2023年净亏损54亿元新浪科技/36Kr
-  
-北汽蓝谷发布年报：2023年总营业143.19亿元，累计销量92172辆凤凰科技]]></summary>
-        <author>
-            <name>36Kr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首个纯电驱拟人奔跑全尺寸人形机器人“天工”发布]]></title>
-        <id>readhub-8Z7g933b9cl</id>
-        <link href="https://readhub.cn/topic/8Z7g933b9cl"/>
-        <updated>2024-04-27T06:31:37.000Z</updated>
-        <summary type="html"><![CDATA[北京经开区北京人形机器人创新中心发布全球首个纯电驱全尺寸拟人奔跑机器人“天工”，该机器人能以6公里/小时速度稳定奔跑，并作为自主研发的通用人形机器人母平台，对行业开放使用。
-   
-媒体报道
-  
-每秒 550 万亿次算力，全球首个纯电驱拟人奔跑的全尺寸人形机器人“天工”发布IT 之家
-  
-全球首个！我国发布人形机器人“天工”：可拟人奔跑 6公里/小时快科技
-  
-全球首个！我国发布人形机器人“天工”：可拟人奔跑6公里/小时凤凰科技
-  
-全球首个纯电驱拟人奔跑全尺寸人形机器人“天工”发布36Kr
-  
-北京人形机器人创新中心发布全球首个纯电驱拟人奔跑的全尺寸人形机器人“天工”开源中国/财联社
-  
-6公里时速，全球首个纯电驱拟人奔跑全尺寸人形机器人“天工”发布澎湃新闻]]></summary>
-        <author>
-            <name>财联社</name>
         </author>
     </entry>
     <entry>
